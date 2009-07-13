@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2008-08-25"
+last_updated: "2009-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -14925,7 +14925,7 @@ XXIV. Servicios Administrativos: Es el inmueble en donde trabajan empleados púb
 
 Estos servicios se pueden ubicar en vialidades de tipo secundario y primario, los cuales también deberán contar con cajones de estacionamiento dentro de sus inmuebles, conforme lo señalan el Código Urbano y este Código;
 
-XXV: Servicios Mecánicos y de Mantenimiento Vehicular: Son los establecimientos que se dedican a realizar en su interior cualquier tipo de reparación o servicio de mantenimiento mecánico, eléctrico, de hojalatería, pintura, suspensión y llantas entre otros a maquinaria o vehículos de cualquier especie, independientemente de que su movimiento o funcionamiento sea impulsado por motores de combustión interna de cualquier tipo de combustible o que el mismo sea provocado por algún tipo de generador eléctrico.
+XXV. Servicios Mecánicos y de Mantenimiento Vehicular: Son los establecimientos que se dedican a realizar en su interior cualquier tipo de reparación o servicio de mantenimiento mecánico, eléctrico, de hojalatería, pintura, suspensión y llantas entre otros a maquinaria o vehículos de cualquier especie, independientemente de que su movimiento o funcionamiento sea impulsado por motores de combustión interna de cualquier tipo de combustible o que el mismo sea provocado por algún tipo de generador eléctrico.
 
 Entiéndase por esto a cualquier tipo de talleres de reparación, independientemente de la función mecánica o eléctrica que desempeñe el vehículo.
 
@@ -15021,7 +15021,7 @@ V. Datos de las áreas o predios;
 
 VI. Constancia de propiedad del inmueble o inmuebles respectivos;
 
-V II. Constancia de no adeudo del impuesto a la propiedad raíz y clave catastral de los predios;
+VII. Constancia de no adeudo del impuesto a la propiedad raíz y clave catastral de los predios;
 
 VIII. Croquis del terreno o de los terrenos con acotaciones en centímetros y señalando la orientación de los mismos y sus colindancias;
 
@@ -15035,7 +15035,7 @@ XII. Características de la urbanización del terreno o terrenos;
 
 XIII. Cuando lo considere necesario la Dirección, acompañar las correspondientes diligencias judiciales o administrativas de apeo y deslinde con pIano de cuadro de áreas, así como de la posesión del predio correspondiente, y
 
-XlV. Tratándose de subdivisión de predios, cuando lo aprecie indispensable la Dirección, se deberá acompañar dictamen del Organismo Operador de Agua del Municipio de San Francisco de los Romo, en el que conste que no se saturaría o afectaría el servicio de agua potable y alcantarillado con motivo de esa autorización.
+XIV. Tratándose de subdivisión de predios, cuando lo aprecie indispensable la Dirección, se deberá acompañar dictamen del Organismo Operador de Agua del Municipio de San Francisco de los Romo, en el que conste que no se saturaría o afectaría el servicio de agua potable y alcantarillado con motivo de esa autorización.
 
 Una vez presentados los requisitos indicados, el solicitante deberá recoger en las oficinas de la Ventanilla Única de Trámites de la Dirección, ya que ese es el domicilio oficial para ese efecto, el resultado sobre su solicitud de fusión o subdivisión de predio, en la fecha que esta le indique, para cuyo efecto acreditará el pago de los derechos municipales respectivos. El documento que le entregue al ciudadano la Dirección, será el único comprobante que acredite que se entregó la documentación completa para su solicitud.
 
@@ -15623,7 +15623,7 @@ VIII. Independientemente del tipo de letrero, sólo se permitirán los datos ref
 
 En las zonas del patrimonio cultural están prohibidos los siguientes:
 
-l. Anuncios sobre azoteas o techos, cualquiera que sea su tipo y tamaño;
+I. Anuncios sobre azoteas o techos, cualquiera que sea su tipo y tamaño;
 
 II. De luces intermitentes o con iluminación de destello;
 
@@ -17485,7 +17485,35 @@ IX. Cubrir el pago de la credencial o gafete y los derechos correspondientes por
 
 X. Respetar los horarios de carga y descarga de mercancías que determine la autoridad municipal a través de la Dirección de Servicios Públicos.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VII
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 1802 A.- Corresponde al área de Reglamentos dependiente de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno la inspección y verificación en los establecimientos dedicados a la compra-venta de material de reuso y/o desecho, en términos del presente Código.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 1802 B.- Los establecimientos dedicados a la compra - venta de material de reuso y/o desecho, además de cumplir con los requisitos de funcionamiento contenidos en el artículo 1679, deberán de llevar un libro de registro, donde se inscriban los datos generales de quienes se compre material de reuso.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 1802 C.- Para efectos del artículo anterior, el libro de registro, deberá contender (sic) los siguientes datos:
+
+I. Nombre y domicilio, así como identificación oficial del vendedor;
+
+II. Cantidad y tipo de material adquirido;
+
+III. Procedencia del material; y
+
+IV. Precio de la transacción.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 1802 D.- El área de Reglamentos realizará visitas de inspección cada semana a fin de recabar información del total de las compras de material de reuso y/o desecho, verificando que lo vertido en el libro con el material físico sea congruente. En caso de detectar anomalías en el libro de registro, el verificador, podrá imponer las medidas de seguridad y sanciones aplicables en términos del presente Código.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 1802 E.- La información vertida en los libros de registro se podrá enviar a la Dirección de Seguridad Pública para efecto de que se realicen las investigaciones pertinentes y en su caso, se ejerciten las acciones legales a las que haya lugar.
 
 ###### ARTICULO 1700.
 
@@ -17581,11 +17609,7 @@ Para verificar el debido cumplimiento de las disposiciones que señala el presen
 
 El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la Dirección de Seguridad Pública y Tránsito Municipal.
 
-### CAPITULO II. Recursos Financieros del Patronato
-
-APARTADO PRIMERO
-
-Ingresos
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 1709.
 
@@ -17595,7 +17619,11 @@ Todos los comerciantes tienen los mismos derechos y obligaciones ante la Direcci
 
 No se podrá otorgar permiso para comerciantes en vía pública en las zonas que sea (sic) consideradas por acuerdo del H. Ayuntamiento en Sesión de Cabildo como centros históricos del Municipio. Para los ya existentes se respetará en sus términos otorgados.
 
-### CAPITULO III. De los Requisitos de Funcionamiento
+### CAPITULO II. Recursos Financieros del Patronato
+
+APARTADO PRIMERO
+
+Ingresos
 
 ###### ARTICULO 1711.
 
@@ -17635,7 +17663,7 @@ III. El pago también podrá ser hasta por todo el año calendario sin que ello 
 
 IV. El comerciante queda obligado a exhibir los comprobantes de pago a los verificadores y autoridades municipales acreditados, que así se lo solicite.
 
-### CAPITULO IV. De los Permisos y Autorizaciones
+### CAPITULO III. De los Requisitos de Funcionamiento
 
 ###### ARTICULO 1714.
 
@@ -17767,7 +17795,7 @@ Las violaciones a cualquiera de las obligaciones de este Capítulo, se sancionar
 
 El H. Ayuntamiento determinará y modificará las tarifas a que deberán ajustarse los aseadores de calzado y de vehículos así como los términos de vigencia de éstas.
 
-### CAPITULO I. Del Ambito de Aplicaciones y Principios Generales
+### CAPITULO IV. De los Permisos y Autorizaciones
 
 ###### ARTICULO 1727.
 
@@ -17931,7 +17959,7 @@ Corresponde al H. Ayuntamiento fijar las tarifas de pago y horario de servicio d
 
 ## TITULO QUINTO. DE LA NORMATIVIDAD DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
 
-### CAPITULO II. De la Nulidad y Eficacia del Acto Administrativo
+### CAPITULO I. Del Ambito de Aplicaciones y Principios Generales
 
 ###### ARTICULO 1731.
 
@@ -18069,7 +18097,7 @@ Queda prohibido, en cualquiera de los establecimientos referidos con anteriorida
 
 La Dirección General de Gobierno podrá autorizar la ampliación de horario los días viernes y sábado así como en fechas conmemorativas o celebraciones especiales hasta por dos horas más, previo pago de los derechos correspondientes. Se exceptúa de lo anterior los casos en que haya Ley Seca. Asimismo se podrá autorizar que farmacias, supermercados y similares funcionen las veinticuatro horas, suspendiendo la venta de bebidas alcohólicas en los horarios señalados en este Capítulo.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De la Nulidad y Eficacia del Acto Administrativo
 
 ###### ARTICULO 1758.
 
@@ -18125,7 +18153,7 @@ La Dirección General de Gobierno podrá suspender en cualquier momento un acto 
 
 Los empresarios o responsables de cualquier acto de los señalados en el Artículo 1759, deberán permitir el acceso a los Inspectores del H. Ayuntamiento que se acrediten para tal efecto, de acuerdo a los lineamientos establecidos en el presente Código.
 
-### CAPITULO II. De la Capacidad de los Interesados
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 1766.
 
@@ -18241,7 +18269,7 @@ La Secretaría del H. Ayuntamiento y Dirección General de Gobierno podrá suspe
 
 Los espectadores que originen falsas alarmas infundiendo pánico en el público serán sancionados con multa o arresto sin perjuicio de que si por tal situación se cometiera otro delito, se les consigne a las autoridades competentes.
 
-### CAPITULO III. De las Excusas y Recusaciones
+### CAPITULO II. De la Capacidad de los Interesados
 
 ###### ARTICULO 1782.
 
@@ -18373,7 +18401,7 @@ Todos los restaurantes, fondas, loncherías, cenadurías, taquerías, marisquer�
 
 Queda prohibida la venta y consumo de cerveza y bebidas alcohólicas en los planteles educativos, templos, cementerios, teatros, carpas, circos, cines, vías, parques, plazas públicas, centros de trabajo y ejidos.
 
-### CAPITULO IV. De los Términos
+### CAPITULO III. De las Excusas y Recusaciones
 
 ###### ARTICULO 1792.
 
@@ -18471,7 +18499,7 @@ La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, podrá form
 
 De igual manera, los establecimientos que se dediquen a la venta de sustancias psicotrópicas.
 
-### CAPITULO V. De las Notificaciones
+### CAPITULO IV. De los Términos
 
 ###### ARTICULO 1801.
 
@@ -18483,13 +18511,15 @@ En los partidos de Futbol soccer y Beisbol profesional, la Secretaría del H. Ay
 
 El Inspector Autoridad podrá solicitar el auxilio de la fuerza pública cuando así lo considere necesario.
 
-### CAPITULO I. Disposiciones Generales
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
+
+### CAPITULO V. De las Notificaciones
 
 # LIBRO DECIMO PRIMERO. DE LA FERIA MUNICIPAL
 
 ## TITULO UNICO. DEL PATRONATO DE LA FERIA
 
-### CAPITULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 1803.
 
@@ -18555,7 +18585,7 @@ Los nombramientos del Presidente y Tesorero del Patronato serán a través de te
 
 El manejo financiero será por parte del Patronato, quien deberá llevar las entradas y salidas con documentos que reúnan la mayor veracidad como cheques, pólizas y demás documentos.
 
-### CAPITULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
+### CAPITULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
 
 ###### ARTICULO 1817.
 
@@ -18627,7 +18657,7 @@ En todos los comprobantes relativos al consumo de alimentos, deberá indicarse e
 
 Todas las compras y gastos realizados, deberán quedar registrados en el mismo mes en que fueron efectuados.
 
-### CAPITULO I. De las Sanciones en Materia de Servicios Públicos
+### CAPITULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
 
 ###### ARTICULO 1831.
 
@@ -18811,7 +18841,7 @@ El Patronato a través del personal que al efecto designe garantizara el orden, 
 
 El comerciante ambulante dentro del perímetro de la feria, se sujetará y observará las normas y procedimientos que al efecto señale el Patronato y este Título y sus actividades se desarrollarán estrictamente en las áreas especificadas previamente por el Patronato.
 
-### CAPITULO II. De las Sanciones en Materia de Protección Civil
+### CAPITULO I. De las Sanciones en Materia de Servicios Públicos
 
 ###### ARTICULO 1873.
 
@@ -18849,7 +18879,7 @@ Queda estrictamente prohibido fijar carteles o cartelones en postes, árboles ca
 
 ## TITULO PRIMERO. DEL ACTO ADMINISTRATIVO MUNICIPAL
 
-### CAPITULO III. De las Sanciones en Materia de Construcción
+### CAPITULO II. De las Sanciones en Materia de Protección Civil
 
 ###### ARTICULO 1881.
 
@@ -18881,7 +18911,7 @@ IX. Tratándose de actos administrativos que sean recurribles, deberá de hacer 
 
 Para efectos de lo anterior, se consideran autoridades Municipales, el H. Ayuntamiento, el Presidente Municipal, las Direcciones Generales, las Direcciones de área, los Departamentos y demás Órganos que integren la Administración Pública Municipal.
 
-### CAPITULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+### CAPITULO III. De las Sanciones en Materia de Construcción
 
 ###### ARTICULO 1884.
 
@@ -18907,7 +18937,7 @@ La nulidad será sustanciada conforme a las reglas del procedimiento del recurso
 
 ## TITULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPITULO V. De las Sanciones en Materia de Espectáculos Públicos
+### CAPITULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
 
 ###### ARTICULO 1889.
 
@@ -18961,7 +18991,7 @@ Los interesados de un procedimiento administrativo municipal, en cualquier momen
 
 Los interesados podrán solicitar les sea expedida copia certificada a su costa de los documentos contenidos en algún expediente en el que actúe, salvo lo dispuesto en el Artículo anterior.
 
-### CAPITULO VI. De las Sanciones en Materia de Comercio en la Vía Pública
+### CAPITULO V. De las Sanciones en Materia de Espectáculos Públicos
 
 ###### ARTICULO 1898.
 
@@ -18977,7 +19007,7 @@ Los interesados, podrán autorizar por escrito en cada caso, a un Licenciado en 
 
 En ningún trámite administrativo se admitirá la gestión de negocios.
 
-### CAPITULO I. Del Recurso de Revisión
+### CAPITULO VI. De las Sanciones en Materia de Comercio en la Vía Pública
 
 ###### ARTICULO 1901.
 
@@ -18993,7 +19023,7 @@ IV. Tenga relación de servicio, o dependa del servidor por razones laborales; y
 
 V. Cualquier otra prevista en el presente Código.
 
-### CAPITULO II. De la Suspensión del Acto
+### CAPITULO I. Del Recurso de Revisión
 
 ###### ARTICULO 1902.
 
@@ -19022,6 +19052,8 @@ A falta de términos o plazos establecidos en el presente Código o actos admini
 ###### ARTICULO 1908.
 
 Los términos fijados en días por disposiciones generales, o por autoridades municipales se computarán sólo los días hábiles.
+
+### CAPITULO II. De la Suspensión del Acto
 
 ###### ARTICULO 1909.
 
@@ -20004,3 +20036,9 @@ QUINTO.- Se derogan los artículos 945 al 1013 contenidos en el Libro Séptimo d
 SEXTO.- Se derogan todas las disposiciones municipales que se opongan al presente Reglamento y a su Ley.
 
 SÉPTIMO.- En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de este Reglamento.
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
