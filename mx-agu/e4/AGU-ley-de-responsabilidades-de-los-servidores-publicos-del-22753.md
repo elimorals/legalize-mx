@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2009-02-23"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -569,11 +569,15 @@ XXIX.- Proporcionar el apoyo, asistencia y atención que requiera el órgano de 
 
 XXX.- Abstenerse de tramitar o intervenir como abogado, representante, apoderado o en cualquier otra forma semejante, en la atención de asuntos de los que haya tenido conocimiento, tramitado o que se encuentren en el área en la cual se desempeñó como servidor público. Esta prevención es aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión;
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-XXXI.- Abstenerse de realizar cualquier acto que implique distinción, exclusión o restricción que, basada en el origen étnico o nacionalidad, género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas; y
+XXXI.- Abstenerse de realizar cualquier acto que implique distinción, exclusión o restricción que, basada en el origen étnico o nacionalidad, género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
-XXXII.- Las demás que les impongan las leyes y disposiciones reglamentarias o administrativas.
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+XXXII.- Abstenerse de proporcionar apoyo o prestar algún servició a los partidos políticos o a sus candidatos, por sí o a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal; y
+
+XXXIII.- Las demás que les impongan las leyes y disposiciones reglamentarias o administrativas.
 
 ###### ARTICULO 71.
 
@@ -1116,3 +1120,9 @@ P.O. 23 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
