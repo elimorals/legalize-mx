@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-registro-publico-de-la-propiedad-del-estado-2327
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-13"
-last_updated: "1998-02-13"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de febrero de 1998.
 
@@ -1127,7 +1129,9 @@ Si se trata de errores materiales diferentes al del párrafo anterior, podrá ha
 
 ###### Artículo 141.
 
-Procede la rectificación a petición de parte interesada para corregir errores materiales y de concepto. En este último caso es menester la presentación del documento registrado, si éste fuere correcto o del que lo rectifique si el error se debiese a la redacción vaga, ambigua o inexacta del documento original registrado. La rectificación de errores de concepto deberá constar en escritura pública.
+Procede la rectificación a petición de parte interesada para corregir errores materiales y de concepto. En este último caso es menester la presentación del documento registrado, si éste fuere correcto o del que lo rectifique si el error se debiese a la redacción vaga, ambigua o inexacta del documento original registrado.
+
+La rectificación de errores de concepto deberá constar en escritura pública.
 
 ###### Artículo 142.
 
@@ -1267,7 +1271,7 @@ I.- Las oficinas de los Registros Públicos de la Propiedad de las diversas enti
 
 II.- Los fedatarios y abogados;
 
-III.- Las sedes locales, regionales y nacionales de organismos e instituciones privadas relacionados (sic) con la actividad inmobiliaria, como cámaras, asociaciones, bancos e instituciones financieras;
+III.- Las sedes locales, regionales y nacionales de organismos e instituciones privadas relacionados con la actividad inmobiliaria, como cámaras, asociaciones, bancos e instituciones financieras;
 
 IV.- Las instituciones, públicas y privadas, nacionales o extranjeras relacionadas con la actividad inmobiliaria del país;
 
@@ -1370,3 +1374,19 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente 
 CUARTO.- Los procedimientos registrales iniciados antes de la vigencia de este ordenamiento, se substanciarán, hasta su conclusión definitiva observándose las disposiciones legales vigentes al momento de su inicio.
 
 Dado en la sede del Poder Ejecutivo, en la Heroica Puebla de Zaragoza a los veintiocho días del mes de enero de mil novecientos noventa y ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DÍAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS MANUEL MEZA VIVEROS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE JULIO DE 2009.
+
+PRIMERO. El presente Reglamento deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día quince de julio de dos mil nueve.
+
+SEGUNDO. Se abroga el presente Reglamento del Registro Público de la Propiedad expedido el veintiocho de enero de mil novecientos noventa y ocho, publicado en el Periódico Oficial del Estado el trece de febrero del mismo año.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
+
+CUARTO. Los procedimientos registrales iniciados con anterioridad a la vigencia de este ordenamiento, se substanciarán hasta su conclusión definitiva observándose las disposiciones legales vigentes al momento de su inicio.
+
+QUINTO. Las operaciones proyectadas con fecha anterior al inicio de vigencia del presente ordenamiento, se regirán por las disposiciones vigentes al momento de la solicitud del primer aviso preventivo.
+
+SEXTO. El Instituto de Catastro emitirá en un plazo que no exceda de ciento ochenta días naturales, la normatividad a la que se sujetará la expedición del informe de localización de inmueble.
