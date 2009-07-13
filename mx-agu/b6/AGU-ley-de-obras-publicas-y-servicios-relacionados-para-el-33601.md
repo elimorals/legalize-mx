@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-33601"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-25"
-last_updated: "2007-06-25"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de agosto de 2003.
 
@@ -61,9 +61,9 @@ Los contratos que se celebren entre dependencias o entre entidades, no estarán 
 
 Estarán sujetas a las disposiciones de esta Ley las obras que deban ejecutarse para la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados, aún cuando éstos las lleven a cabo con sus propios recursos.
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
-Los Poderes Judicial y Legislativo, cuando contraten obras públicas o servicios relacionados con las mismas, deberán sujetarse a los procedimientos que, en relación a los montos, se establecen en las fracciones I a IV del artículo 26 de esta Ley, con base a su normatividad interna.
+Los poderes Judicial y Legislativo, cuando contraten obras públicas o servicios relacionados con las mismas, deberán sujetarse a los procedimientos que, en relación a los montos, se establecen en el Artículo 26 de esta Ley, con base en su normatividad interna.
 
 Los actos, acuerdos, cláusulas compromisorias, contratos y convenios que los Sujetos de la Ley realicen en contravención a lo dispuesto por la misma, serán nulos de pleno derecho.
 
@@ -73,7 +73,7 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Contraloría: La Contraloría General del Estado;
 
-II. Dependencias: Las definidas como tales en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes o en la Ley Orgánica Municipal del Estado de Aguascalientes y las señaladas en la fracción I del Artículo l° de este ordenamiento jurídico;
+II. Dependencias: Las definidas como tales en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes o en la Ley Orgánica Municipal del Estado de Aguascalientes y las señaladas en la fracción I del Artículo 1° de este ordenamiento jurídico;
 
 III. Entidades: Las señaladas en las fracciones II, IV y V del Artículo de la presente Ley;
 
@@ -81,25 +81,37 @@ IV. Licitante: La persona física o moral que participa en cualquier procedimien
 
 V. Contratista: La persona física o moral que celebre contratos de obra pública o de servicios relacionados con la misma;
 
-VI. Sujetos de la Ley: Los que se indican en el Articulo l° de esta Ley;
+VI. Sujetos de la Ley: Los que se indican en el Articulo 1° de esta Ley;
 
 VII. Secretaría: La Secretaría de Obras Públicas del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
-VIII.- SEPLADE: La Secretaría de Planeación y Desarrollo Regional del Estado;
+VIII. SEPLADE: La Secretaría de Planeación y Desarrollo Regional del Estado;
 
 > <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2005)</small>
 
-IX.- Ley: La presente Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes;
+IX. Ley: La presente Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes;
 
 > <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2005)</small>
 
-X.- Órgano interno de control de los Sujetos de la Ley: Para la fracción III del Artículo 1 de la Ley, las Contralorías Municipales; para las fracciones I, II y IV del Artículo 1º de la Ley, las contralorías internas de cada Sujeto de la Ley;
+X. Órgano interno de control de los Sujetos de la Ley: Para la fracción III del Artículo 1 de la Ley, las Contralorías Municipales; para las fracciones I, II y IV del Artículo 1º de la Ley, las contralorías internas de cada Sujeto de la Ley;
 
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-XI.- Licitación pública: Procedimiento de adjudicación de los contratos que requiere de la publicación, en los medios que indica esta Ley, de una convocatoria, donde se abra la participación a todo aquel que se encuentre interesado en ejecutar los trabajos, siempre que cumpla con los requisitos solicitados.
+XI. Licitación pública: Procedimiento de adjudicación de los contratos, tanto de obra pública como de servicios relacionados, que requiere de la publicación, en los medios que indica esta Ley, de una convocatoria, donde se abra la participación a todo aquel que se encuentre interesado en ejecutar los trabajos, siempre que cumpla con los requisitos solicitados.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+XII. Sujeto de la Ley Ejecutor: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de realizar las obras de infraestructura, su equipamiento o los servicios relacionados con estas en el ámbito de su competencia.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+XIII. Sujeto de la Ley Normativo: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de emitir la factibilidad técnica en el ámbito de su competencia las obras de infraestructura, su equipamiento y los servicios relacionados en el Estado, o en su caso de los municipios.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+XIV. Sujeto de la Ley Operativo: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de utilizar, manejar u operar en el ámbito de su competencia las obras de infraestructura y su equipamiento que les sean entregadas por los Sujetos de la Ley Ejecutores en el Estado, o en su caso de los municipios.
 
 ###### Articulo 3°.
 
@@ -149,7 +161,9 @@ El gasto para las obras públicas y servicios relacionados con las mismas, se su
 
 La Contraloría, estará facultada para interpretar esta Ley y su Reglamento, para efectos administrativos y dictará las disposiciones que sean necesarias para su adecuado cumplimiento, así como para proporcionar asesoría y orientación a los Sujetos de la Ley. Las disposiciones normativas se publicarán en el Periódico Oficial del Estado.
 
-Las consultas que formulen los Sujetos de la Ley o los particulares, serán recibidas y calificadas por la Contraloría en los términos de la presente Ley y de su Reglamento y deberán ser contestadas en un plazo no mayor de 30 días calendario contados a partir del día hábil siguiente a la recepción del documento.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+Las consultas que formulen por escrito los Sujetos de la Ley o los particulares, serán recibidas y calificadas por la Contraloría en los términos de la presente Ley y de su Reglamento y deberán ser contestadas en un plazo no mayor de 30 días calendario contados a partir del día hábil siguiente a la recepción del documento.
 
 ###### Artículo 8°.
 
@@ -267,7 +281,13 @@ En los procedimientos para la contratación de obras públicas y de servicios re
 
 Los Sujetos de la Ley que realicen obras públicas y servicios relacionados con las mismas, sea por contrato, por administración directa o mixta, así como los contratistas con quienes aquéllas contraten, observarán en el ámbito de su competencia, las disposiciones que en materia de construcción rijan en el ámbito federal, estatal y municipal.
 
-Los Sujetos de la Ley, previamente a la realización de las obras públicas deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derecho de vía, expropiación de inmuebles, derechos de bancos de materiales cuando sea el caso, y demás autorizaciones que se requieran. Las autoridades competentes deberán otorgar a los Sujetos de la Ley que realicen obras públicas las facilidades necesarias para su ejecución.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+Los Sujetos de la Ley, cuando sea el caso, previamente a la realización de las obras públicas deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derecho de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas además de los derechos de bancos de materiales, y demás autorizaciones que se requieran. Las autoridades competentes deberán otorgar a los Sujetos de la Ley que realicen obras públicas las facilidades necesarias para su ejecución.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+Asimismo, es recomendable que los Sujetos de la Ley, involucren a los peritos responsables de obra y los peritos corresponsables, desde la realización de los estudios técnicos preliminares.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -287,15 +307,21 @@ En el caso de aquellas obras públicas o servicios relacionados con las mismas q
 
 En el caso del párrafo anterior, se pedirá la autorización del Congreso del Estado o del Cabildo Municipal, según corresponda, para que en su caso quede autorizada la afectación de los ejercicios subsecuentes.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### Artículo 20.
 
-Los Sujetos de la Ley que utilicen u operen los inmuebles de la obra pública deberán enviar a la Contraloría, copia certificada de los títulos de propiedad, así como los datos sobre la localización y construcción de las obras públicas para que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado o Municipio y, en su caso para la inscripción en la Dirección General de Catastro y en el Registro Público de la Propiedad del Estado.
+Los Sujetos de la Ley operativos o normativos de la obra pública, previo a la aprobación del recurso correspondiente, deberá acreditar ante la SEPLADE, la propiedad o la tenencia legal del predio o bien inmueble donde se realizará la obra pública, enviando copia de dicha acreditación a la Contraloría o en su caso a la equivalente a nivel municipal.
+
+Asimismo, los Sujetos de la Ley operadores de los inmuebles de la obra pública deberán enviar a la Contraloría General del Estado, o en su caso la equivalente a nivel municipal, dentro de los 30 días hábiles posteriores al acto de entrega-recepción de las obras públicas, copia certificada de los títulos de propiedad, así como los datos sobre la localización y construcción de las obras públicas, para que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado o Municipio.
 
 ###### Artículo 21.
 
 Los Sujetos de la Ley que requieran estudios o proyectos, primero verificarán si en sus archivos o en los de otros Sujetos de la Ley existen estudios o proyectos afines sobre la materia. De resultar positiva la verificación y de comprobarse que el estudio o proyecto localizado satisface los requerimientos de los Sujetos de la Ley, no procederá la contratación.
 
-Los contratos de servicios relacionados en la obra pública a que se refiere el Artículo 4° de esta Ley, sólo se podrán celebrar cuando en las unidades responsables no se disponga cuantitativa o cualitativamente de los elementos, instalaciones y personal para llevarlos a cabo, circunstancias que, en su caso, serán evaluadas y resueltas por el titular de los Sujetos de la Ley.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+Los contratos de servicios relacionados en la obra pública a que se refiere el Artículo 4° de esta Ley, sólo se podrán celebrar cuando en las unidades responsables no se disponga cuantitativa o cualitativamente de los elementos, instalaciones y personal para llevarlos a cabo, circunstancias que, en su caso, serán evaluadas y resueltas por el titular de cada Sujeto de la Ley.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -307,33 +333,31 @@ No podrán celebrarse contratos de servicios relacionados que tengan por objeto 
 
 ### CAPITULO I. Generalidades
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 23.
 
-Los Sujetos de la Ley podrán convocar, licitar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, solamente cuando cuenten con la autorización por obra por parte de la SEPLADE o del órgano municipal competente, del presupuesto de inversión y de gasto corriente, conforme a los cuales deberán elaborarse los programas de ejecución y pagos correspondientes.
+Los Sujetos de la Ley podrán convocar, licitar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, solamente cuando cuenten con la aprobación de los recursos por parte de la SEPLADE, o del órgano municipal competente, del presupuesto de inversión y de gasto corriente, conforme a los cuales deberán elaborarse los programas de ejecución y pagos correspondientes.
 
-Además se requerirá contar con los estudios, proyectos y especificaciones de construcción, normas de calidad así como el programa de ejecución totalmente terminados o bien con un avance en su desarrollo que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión.
+Además, para convocar las obras públicas, se requerirá contar con los estudios, proyectos y especificaciones de construcción, normas de calidad así como el programa de ejecución totalmente terminados o bien con un avance en su desarrollo que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+Para convocar los servicios relacionados con la obra pública, se requerirá contar, en su caso, con los términos de referencia a detalle y las especificaciones necesarias totalmente terminadas para la ejecución, sin interrupción, del servicio correspondiente.
 
-En los casos previstos por las fracciones II, VIII y IX del Artículo 46 de esta Ley, y cuando la realización del procedimiento normal pudiese ocasionar perjuicios graves, se podrá solicitar la autorización del Titular del Poder Ejecutivo del Estado, o del Municipio en su caso, para efectos de convocar sin contar con la aprobación de los recursos prevista en este Artículo; sin embargo, bajo ningún motivo se podrá emitir fallo o asignar una obra, sin contar con la aprobación correspondiente.
+En los casos previstos por las Fracciones II, VIII y IX del Artículo 46 de esta Ley, y cuando la realización del procedimiento normal pudiese ocasionar perjuicios graves, bajo su responsabilidad y de manera indelegable, el Titular del Sujeto de la Ley podrá autorizar que se convoque, sin contar con la aprobación de los recursos prevista en este Artículo; sin embargo, bajo ningún motivo se podrá emitir fallo o asignar una obra, sin contar con la aprobación correspondiente.
 
 Los servidores públicos que autoricen en contravención a lo dispuesto en este Artículo, se harán acreedores a las sanciones que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2009)</small>
 
-###### Artículo 23 Bis.
-
-Los Sujetos de la Ley ejecutores de la obra pública, posterior a la presentación de la propuesta del programa anual de obre pública y servicios relacionados y antes del treinta y uno de diciembre del ejercicio presupuestal anterior a aquel en que se vayan a ejecutar los trabajos, podrán elaborar los expedientes técnicos y remitirlos a SEPLADE o su equivalente a nivel municipal, para su análisis y probable aprobación, siempre que representen, de manera conjunta, hasta el veinticinco por ciento del presupuesto asignado para obra pública en el ejercicio fiscal anterior al de la ejecución de los trabajos, de los cuales se podrá llevar a cabo el proceso de adjudicación de contrato, debiendo cumplir con la forma y plazos indicados en esta Ley.
+Artículo 23 bis.- Los Sujetos de la Ley ejecutores de la obra pública, posterior a la presentación de la propuesta del programa anual de obra pública y servicios relacionados y antes del treinta y uno de diciembre del ejercicio presupuestal anterior a aquel en que se vayan a ejecutar los trabajos, podrán elaborar los expedientes técnicos y remitirlos a SEPLADE o su equivalente a nivel municipal, para su análisis y probable aprobación, siempre que representen, de manera conjunta, hasta el veinticinco por ciento del presupuesto asignado para obra pública en el ejercicio fiscal anterior al de la ejecución de los trabajos, de los cuales se podrá llevar a cabo el procedimiento de contratación, debiendo cumplir con la forma y plazos indicados en esta Ley.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 La SEPLADE o su similar en los municipios, en caso de que los expedientes técnicos cumplan con lo estipulado en esta Ley y en su Reglamento y previendo que se contará con recursos suficientes, en opinión de la Secretaría de Finanzas o su similar en los municipios, procederá a la autorización correspondiente.
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
-Lo dispuesto en el presente artículo no será aplicable para el Gobierno del Estado y los Ayuntamientos en el último año de sus periodos constitucionales.
+Lo dispuesto en el presente Artículo no será aplicable, en el año que existan cambios de administración constitucional, para los Sujetos de la Ley que terminen funciones indicados en las Fracciones I, II, III y IV del Artículo 1° de esta Ley.
 
 ###### Artículo 24.
 
@@ -359,27 +383,25 @@ En el desarrollo de las sesiones de los Comités Internos de Licitación de los 
 
 La responsabilidad de la asignación de las obras públicas o los servicios relacionados con las mismas será siempre de la convocante, por lo que los Comités Internos de Licitación se crean como apoyo para la toma de decisiones y total transparencia en las asignaciones.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 26.
 
-Los Sujetos de la Ley, bajo su responsabilidad, podrán contratar obras públicas y servicios relacionados con las mismas, mediante cualquiera de los procedimientos que a continuación se señalan:
+Sin perjuicio de lo señalado en el Artículo 46 de la presente Ley, los Sujetos de la Ley, bajo su responsabilidad, podrán contratar obras públicas o servicios relacionados con las mismas, sin sujetarse al procedimiento de licitación pública, a través de los de invitación restringida a cuando menos cinco licitantes o de asignación directa, cuando el importe de cada contrato no exceda de los montos máximos que se obtengan de acuerdo al número de salarios mínimos vigentes que se establecen en el presente Artículo.
 
-I. Licitación pública, para obra pública, cuando el monto de los trabajos sea mayor a treinta y cinco mil veces el salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado; para servicios relacionados con la obra pública, cuando el monto de los trabajos sea mayor a quince mil veces el salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado;
+El número de salarios mínimos con el que se obtendrán los montos máximos de adjudicación directa y los de invitación restringida a cuando menos cinco licitantes tanto para obras públicas como para servicios relacionados con las mismas se muestran en la siguiente tabla.
 
-II. Invitación restringida a cuando menos cinco licitantes, para obra pública, cuando el monto de los trabajos se encuentre entre quince mil y treinta y cinco mil veces el salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado; para servicios relacionados con la obra pública cuando el monto de los trabajos se encuentre entre ocho mil y quince mil veces el salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado;
+(VEASE ARCHIVO ANEXO)
 
-> <small>(F. DE E., P.O. 23 DE MAYO DE 2005)</small>
+A los montos derivados de la conversión en pesos que se obtengan de la tabla anterior deberá agregársele el Impuesto al Valor Agregado. El presupuesto para realizar obras públicas y servicios relacionados con las mismas será el total a ejercer por Sujeto de la Ley en el ejercicio presupuestal que corresponda. La SEPLADE, en el ámbito estatal y sus similares en los municipios, dentro de los quince días siguientes a la autorización del Programa Anual de Obra Pública por parte del Titular del Poder Ejecutivo Estatal o Municipal, según corresponda, de cada ejercicio presupuestal, serán las responsables de informar, por escrito, a las dependencias ejecutoras de obras públicas y servicios relacionados con las mismas que les correspondan, el presupuesto con el que cuenta cada una. El monto del presupuesto deberá actualizarse dentro de los primeros cinco días hábiles de cada mes, siendo aplicable para los Sujetos de la Ley tres días hábiles posteriores a la recepción de la notificación de la actualización referida. Los recursos a los que se refiere el presente párrafo son aquellos en los que aplica la presente Ley.
 
-III. Asignación directa por cotización a cuando menos tres participantes, para obra pública, cuando el monto de los trabajos se encuentre entre cinco mil y quince mil veces el salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado; para servicios relacionados con la obra pública cuando el monto de los trabajos se encuentre entre tres mil y ocho mil veces el salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado;
+En casos excepcionales, cuando no sea posible determinar por parte de la SEPLADE el techo financiero al inicio del ejercicio presupuestal, se tomará como referencia únicamente para efectos de definir los rangos de la tabla arriba señalada, el techo financiero con el que se concluyó el ejercicio presupuestal inmediato anterior por cada sujeto de la Ley.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
-
-IV.- Asignación directa, para obra pública, cuando el monto de los trabajos sea menor a cinco mil veces el salario mínimo general diario vigente en el Estado antes del impuesto al valor agregado, para servicios relacionados con la obra pública cuando el monto de los trabajos sea menor a tres mil veces el, salario mínimo general diario vigente en el Estado antes del Impuesto al Valor Agregado, lo anterior siempre y cuando no se rebase, en esta modalidad, en su conjunto el veinte por ciento del monto total asignado por Sujeto de la Ley, en términos de la información que para tal efecto proporcione la SEPLADE, o su similar en el ámbito municipal. En caso de rebasar los límites referidos, se deberá proceder conforme a lo establecido en las fracciones anteriores.
+La suma de los montos de los contratos que se realicen a través del procedimiento de asignación directa, no podrá exceder del veinte por ciento del presupuesto autorizado a cada Sujeto de la Ley para realizar obras públicas y servicios relacionados con las mismas en cada ejercicio presupuestal.
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazo de ejecución, normalización aplicable en términos de la Ley Federal sobre Metrología y Normalización, forma y tiempo de pago, penas convencionales, anticipos y garantías, debiendo proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
-La licitación pública inicia con la publicación de la convocatoria, en el caso de la invitación restringida a cuando menos cinco licitantes y la asignación directa por cotización a cuando menos tres participantes, con la entrega de la primera invitación y la adjudicación directa con la entrega de los requisitos mínimos para cotizar; todos los procedimientos concluyen con la formalización del contrato, sin embargo, aquellos procedimientos que se declaren desiertos, sean suspendidos o sean cancelados de acuerdo a lo indicado por esta Ley o su Reglamento, terminarán al momento de declararse desiertos, suspenderse o cancelarse, debiendo iniciar un nuevo procedimiento.
+La licitación pública inicia con la publicación de la convocatoria, en el caso de la invitación restringida a cuando menos cinco licitantes con la entrega de la primera invitación y la adjudicación directa con la entrega de los requisitos mínimos para cotizar; todos los procedimientos concluyen con la formalización del contrato, sin embargo, aquellos procedimientos que se declaren desiertos, sean suspendidos o sean cancelados de acuerdo a lo indicado por esta Ley o su Reglamento, terminarán al momento de declararse desiertos, suspenderse o cancelarse, debiendo iniciar un nuevo procedimiento.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -425,27 +447,29 @@ II. Original y copia de la cédula del Registro Federal de Contribuyentes;
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
 
-III.- Para personas morales, copia certificada de la escritura constitutiva, debidamente inscrita en el Registro Público de la Propiedad Sección Comercio; para personas físicas, original o copia certificada del acta de nacimiento; además, en ambos casos, documentos que acrediten la personalidad del solicitante;
+III. Para personas morales, copia certificada de la escritura constitutiva, debidamente inscrita en el Registro Público de la Propiedad Sección Comercio; para personas físicas, original o copia certificada del acta de nacimiento; además, en ambos casos, documentos que acrediten la personalidad del solicitante;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-IV.- Original del currículum de la persona física o moral y en su caso, del responsable técnico de ésta, el cual deberá estar facultado para ejercer la profesión, de conformidad con la Ley de Profesiones del Estado de Aguascalientes;
+IV. Original del currículum de la empresa y del personal técnico que apoye a la empresa, sea por nómina o por honorarios y que esté facultado para ejercer la profesión, de conformidad con la Ley de Profesiones del Estado de Aguascalientes;
 
 V. Original del inventario de maquinaria y equipo disponibles de su propiedad;
 
 VI. Original y copia del registro patronal ante el Instituto Mexicano del Seguro Social;
 
-VII. En su caso, original y copia de la constancia del registro de la cámara del ramo, siendo este requisito no obligatorio;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+VII. En su caso, original y copia de la constancia del registro del colegio de profesionistas que corresponda y/o de la cámara del ramo, siendo este requisito no obligatorio;
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
 
-VIII.- Original y copia de la cédula profesional de la persona física o del responsable técnico de la persona moral; solo en el segundo caso, el responsable técnico podrá encontrarse en nómina, ser contratado por honorarios o ser socio de la empresa; cuando se encuentre en nómina o sea contratado por honorarios, además se deberá presentar una carta de aceptación de tal responsabilidad por parte del técnico responsable. Se hacen las aclaraciones de que el técnico responsable solo podrá serlo de él mismo y de máximo dos personas morales que lo llegasen a contratar y de que la cédula profesional deberá de ser de profesión afín a la especialidad declarada por el interesado;
+VIII. Original y copia de la cédula profesional de la persona física o del responsable técnico de la persona moral; solo en el segundo caso, el responsable técnico podrá encontrarse en nómina, ser contratado por honorarios o ser socio de la empresa; cuando se encuentre en nómina o sea contratado por honorarios, además se deberá presentar una carta de aceptación de tal responsabilidad por parte del técnico responsable. Se hacen las aclaraciones de que el técnico responsable solo podrá serlo de él mismo y de máximo dos personas morales que lo llegasen a contratar y de que la cédula profesional deberá de ser de profesión afín a la especialidad declarada por el interesado;
 
 IX. Original de la declaración escrita de no estar en los supuestos del Artículo 57 de esta Ley;
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-X.- Original y copia de la declaración anual normal del ejercicio fiscal inmediato anterior, presentado ante la Secretaría de Hacienda y Crédito Público y para el caso de empresas con menos de un año de haber sido creadas, deberán presentar los estados financieros auditados actualizados a la fecha de inscripción; bajo ninguna circunstancia se aceptarán declaraciones complementarias, para efectos de inscripción o renovación al Padrón Estatal de Contratistas de Obra Pública; y
+X. Original y copia de la declaración anual normal del ejercicio fiscal inmediato anterior, presentado ante la Secretaria de Hacienda y Crédito Público y para el caso de empresas con menos de un año de haber sido creadas, deberán presentar los estados financieros auditados actualizados a la fecha de inscripción; bajo ninguna circunstancia se aceptarán declaraciones complementarias, para efectos de inscripción o renovación al Padrón Estatal de Contratistas de Obra Pública; y
 
 XI. Análisis de indirectos de oficina central de la empresa, el cual deberá ser revisado y autorizado por la Secretaría.
 
@@ -457,11 +481,13 @@ En todos los casos, a la recepción de los documentos relacionados en las fracci
 
 La Secretaría podrá verificar por cualquier medio y en cualquier tiempo la razonabilidad y la veracidad de la información que proporcione el interesado, de acuerdo a lo establecido para las visitas de verificación previstas en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 31.
 
-El registro en el Padrón Estatal de Contratistas de Obra Pública tendrá vigencia durante el año en que haya sido solicitado y autorizado, contado a partir del día en que se entregue la constancia provisional de inscripción y hasta el treinta y uno de diciembre; a partir del primer día hábil del mes de enero de cada año, los interesados podrán solicitar la revalidación de su registro, actualizando la información a que se refiere el Artículo anterior.
+El registro en el Padrón Estatal de Contratistas de Obra Pública tendrá vigencia durante el año en que haya sido solicitado y autorizado, contado a partir del día en que se entregue la constancia provisional de inscripción y hasta el treinta y uno de diciembre; a partir del primer día hábil del mes de enero de cada año, los interesados podrán solicitar la revalidación de su registro, debiendo entregar solamente lo indicado en las Fracciones IV, V, VII, IX, X y XI del Artículo anterior, actualizando la información a que se refiere cada uno; si del resto de las Fracciones hubiera existido modificaciones, deberá entregarse el documento respectivo al momento de la revalidación.
+
+En caso de que el interesado en inscribirse no lo haya hecho en el ejercicio fiscal inmediato anterior al que lo hace, deberá presentar toda la documentación a la que se refiere el Artículo 30 de esta Ley.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -507,7 +533,9 @@ En el caso del presente Artículo y del anterior, será obligación de los Sujet
 
 Las resoluciones que nieguen a un interesado la inscripción al Padrón Estatal de Contratistas de Obra Pública, deberán estar fundadas y motivadas, y se notificarán personalmente o por correo certificado con acuse de recibo, en el domicilio que el interesado haya señalado en el Estado. Contra estas resoluciones, el interesado podrá interponer el recurso administrativo correspondiente que establece la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
-Las resoluciones que nieguen a un interesado la participación en licitaciones de Obra Pública, deberán estar fundadas y motivadas, y se notificarán personalmente o por correo certificado con acuse de recibo, en el domicilio que el interesado haya señalado en el Estado. Contra estas resoluciones, el interesado podrá interponer el recurso de inconformidad en los términos del Título Sexto de esta Ley.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+La resolución que niegue a un interesado la participación en una licitación pública, deberá estar fundada y motivada, y se notificará personalmente o por correo certificado con acuse de recibo, en el domicilio que el interesado haya señalado en el Estado. Contra estas resoluciones, el interesado podrá interponer el recurso de inconformidad en los términos del Título Sexto de esta Ley.
 
 ### CAPITULO IV. De la Licitación Pública
 
@@ -525,9 +553,11 @@ Preferentemente se deberán llevar a cabo licitaciones de carácter estatal.
 
 Cuando sea necesario, podrá llevarse a cabo una reunión del Comité Interno de Licitación de cada Sujeto de la Ley, pero los acuerdos tomados por dicho Comité servirán como apoyo para la toma de decisión final por parte del titular del Sujeto de la Ley o de quien se le haya delegado la responsabilidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### Artículo 37.
 
-Las convocatorias, que podrán referirse a una o más licitaciones de obras o servicios relacionados con las mismas contendrán:
+Las convocatorias, que podrán referirse a una o más acciones de obra pública o servicios relacionados con las mismas contendrán:
 
 I. La motivación y el fundamento legal del acto de gobierno;
 
@@ -569,9 +599,11 @@ XVI. El señalamiento de que el Sujeto de la Ley podrá verificar en cualquier t
 
 XVII. Los demás requisitos generales que deberán cumplir los interesados.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### Artículo 38.
 
-Las convocatorias se publicarán en el Periódico Oficial del Estado y en los medios de difusión electrónica que establezca la Contraloría. Será conveniente publicar las convocatorias en la página de Internet de la convocante, la cual difundirá adecuadamente su dirección electrónica entre los Sujetos de la Ley y las empresas inscritas en el Padrón Estatal de Contratistas de Obra Pública.
+Las convocatorias se publicarán en el Periódico Oficial del Estado y en los medios de difusión electrónica que, en su caso, establezca la Contraloría. Será conveniente publicar las convocatorias en la página de Internet de la convocante, la cual difundirá adecuadamente su dirección electrónica entre los Sujetos de la Ley y las empresas inscritas en el Padrón Estatal de Contratistas de Obra Pública.
 
 ###### Artículo 39.
 
@@ -653,7 +685,9 @@ En toda licitación pública, el plazo para la presentación y apertura de propu
 
 Cuando no puedan observarse los plazos indicados porque existan razones de urgencia justificada y, siempre que ello no tenga por objeto limitar el número de participantes, la convocante podrá reducirlos, en cuyo caso no podrá ser menor a quince días calendario contados a partir de la fecha de publicación de la convocatoria.
 
-Con el fin de no limitar la participación de los licitantes, dos o más personas físicas o morales, podrán presentar conjuntamente propuestas a través de un convenio privado de asociación en participación, sin que esto obligue a constituir una sociedad, o nueva sociedad en caso de personas morales, siempre y cuando en el convenio se establezcan las obligaciones y responsabilidades de cada uno quedando siempre uno de ellos como obligado ante el Sujeto de Ley. En este supuesto, la propuesta deberá ser firmada por el representante que para este acto haya sido designado por el grupo de personas.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+Con el fin de no limitar la participación de los licitantes, dos o más personas físicas o morales, podrán presentar conjuntamente propuestas a través de un convenio privado de asociación en participación, considerando que invariablemente el asociante deberá contar con el mayor porcentaje de participación en la asociación misma que deberá ser de al menos el treinta y cinco por ciento del capital contable requerido en las bases de licitación, además, este será quien fungirá como obligado ante el Sujeto de la Ley, sin que esto obligue a constituir una sociedad, o nueva sociedad en caso de personas morales, siempre y cuando en el convenio se establezcan las obligaciones y responsabilidades de cada uno. En este supuesto, la propuesta deberá ser firmada por el representante obligado.
 
 > <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -693,15 +727,15 @@ II. Por lo menos un licitante, si es que asistiere alguno, y dos miembros del Co
 
 III. Se levantará acta de la primera etapa, en la que se harán constar las propuestas técnicas aceptadas para revisión cualitativa y análisis, así como las que hubieren sido desechadas, debiendo indicar los fundamentos legales y las causas que lo motivaron, el acta será firmada por los asistentes al acto, y se les entregará copia de la misma, la falta de algunas firmas no invalidarán su contenido y efectos. El Sujeto de la Ley podrá realizar el mismo día la apertura de las propuestas técnica y económica.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-IV. En la segunda etapa, una vez conocido el resultado técnico mediante la lectura del acta correspondiente, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieran sido desechadas en la primera etapa o en el análisis cualitativo de las mismas, y se dará lectura en voz alta al presupuesto base del Sujeto de la Ley convocante, procediendo posteriormente a la apertura de propuestas económicas, dando lectura al importe total de las propuestas y al porcentaje de utilidad de aquellas que contengan los documentos completos, sin desechar en esta apertura por elementos cualitativos. Por lo menos un licitante, si asistiere alguno, y dos miembros del Comité Interno de Licitación del Sujeto de la Ley rubricarán el presupuesto de obra, en que se consignen los precios y el importe total de los trabajos objeto de la licitación;
+IV. En la segunda etapa, una vez conocido el resultado técnico mediante la lectura del acta correspondiente, se procederá a la apertura de las propuestas económicas de los Iicitantes cuyas propuestas técnicas no hubieran sido desechadas en la primera etapa o en el análisis cualitativo de las mismas, y se dará lectura en voz alta al presupuesto base del Sujeto de la Ley convocante, procediendo posteriormente a la apertura de propuestas económicas, dando lectura al importe total de las propuestas y al porcentaje de utilidad de aquellas que contengan los documentos completos, debiendo desechar, en este acto, a aquellas que no contengan la totalidad de los documentos solicitados, así como a las propuestas que no cumplan con los aspectos cualitativos que hayan sido indicados en las bases de licitación. Por lo menos un licitante, si asistiere alguno, y dos miembros del Comité Interno de Licitación del Sujeto de la Ley rubricarán el presupuesto de obra, en que se consignen los precios y el importe total de los trabajos objeto de la licitación;
 
 V. Se señalarán fecha, lugar y hora en que se dará a conocer el fallo de la licitación; esta fecha deberá quedar comprendida dentro de los veinte días naturales contados a partir de la fecha de inicio de la primera etapa, y podrá diferirse siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente para el fallo;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-VI. Se levantará acta de la segunda etapa, en la que se hará constar, como mínimo, el resultado técnico del análisis de las ofertas aceptadas en la primera etapa, las propuestas aceptadas para el análisis cualitativo en la segunda etapa, sus importes y porcentajes de utilidad, el promedio matemático de los montos de las propuestas completas, el promedio matemático de los porcentajes de utilidad de las propuestas completas, el rango y los montos mínimo y máximo mencionados en el Artículo 44 de la Ley, así como las propuestas que hubieren sido desechadas y los fundamentos legales y las causas que lo motivaron; el acta será firmada por los participantes y se les entregará copia de la misma, la falta de algunas firmas no invalidará su contenido y efectos, la convocante deberá realizar un análisis cualitativo y detallado de las propuestas económicas aceptadas. debiendo dar a conocer el resultado a los licitantes en el acto de fallo correspondiente;
+VI. Se levantará acta de la segunda etapa, en la que se hará constar, como mínimo, el resultado técnico del análisis de las ofertas aceptadas en la primera etapa, las propuestas aceptadas para el análisis cualitativo en la segunda etapa, sus importes y porcentajes de utilidad, el promedio aritmético de los montos de las propuestas completas, el promedio estadístico de los porcentajes de utilidad de las propuestas completas, el rango y los montos mínimo y máximo mencionados en el Artículo 44 de la Ley, así como las propuestas que hubieren sido desechadas y los fundamentos legales y las causas que lo motivaron; el acta será firmada por los participantes y se les entregará copia de la misma, la falta de algunas firmas no invalidará su contenido y efectos, la convocante deberá realizar un análisis cualitativo y detallado de las propuestas económicas aceptadas, debiendo dar a conocer el resultado a los licitantes en el acto de fallo correspondiente;
 
 VII. En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de propuestas. En sustitución de esta junta, la convocante podrá optar por comunicar el fallo de la licitación, por escrito a cada uno de los licitantes, siempre que éste se notifique a todos ellos el mismo día; y
 
@@ -729,9 +763,13 @@ e) Que las propuestas de los licitantes no presenten datos iguales o similares e
 
 II. Previo a la revisión cualitativa y detallada de las propuestas económicas aceptadas en la revisión cuantitativa, por encontrarse completas, el Sujeto de la Ley convocante deberá revisar que los montos de las propuestas no rebasen los límites mínimo y máximo que se establezcan, estos límites se obtendrán de la siguiente manera:
 
-a) De las propuestas aceptadas en la revisión cuantitativa de las propuestas económicas y anterior a la firma del acta correspondiente a la segunda etapa del acto de presentación y apertura de propuestas, se obtendrá el promedio matemático de los montos totales de las propuestas aceptadas hasta ese momento, debiendo incluir, para obtener este promedio, el presupuesto base del Sujeto de la Ley, pero sin tomar en cuenta, solo para este cálculo, el monto mas alto y el monto más bajo del conjunto formado por las propuestas económicas aceptadas como completas y el presupuesto base; al resultado se le denominará "promedio" y estará representado en pesos.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
-b) Del total de las propuestas económicas aceptadas como completas, se obtendrá el promedio matemático de los porcentajes de utilidad presentados por cada licitante, en este caso se considerarán, para el cálculo, todos los porcentajes de utilidad de las propuestas económicas aceptadas como completas, sin incluir el presupuesto base; al promedio de utilidades obtenido se le denominará "rango".
+a) De las propuestas aceptadas en la revisión cuantitativa de las propuestas económicas y anterior a la firma del acta correspondiente a la segunda etapa del acto de presentación y apertura de propuestas, se obtendrá el promedio aritmético de los montos totales de las propuestas aceptadas hasta ese momento, debiendo incluir, para obtener este promedio, el presupuesto base del Sujeto de la Ley, pero sin tomar en cuenta, sólo para este cálculo, los dos montos más altos del conjunto formado por las propuestas económicas aceptadas como completas y el presupuesto base; al resultado se le denominará "promedio" y estará representado en pesos.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+b) Del total de las propuestas económicas aceptadas como completas, se obtendrá el promedio estadístico de los porcentajes de utilidad; en este caso se considerarán, para el cálculo, todos los porcentajes de utilidad de las propuestas económicas aceptadas como completas, a excepción, sólo para este cálculo, del porcentaje de utilidad más bajo que se haya propuesto, no debiendo incluir el presupuesto base; al promedio de utilidades obtenido se le denominará "rango".
 
 c) Si el monto de una o más propuestas se encuentran por debajo del monto obtenido del "promedio", menos el producto del "promedio" por el "rango", la o las propuestas serán desechadas.
 
@@ -757,7 +795,9 @@ g) En general, que se cumpla con todo lo estipulado en esta Ley y en el Reglamen
 
 Para efecto de validar la evaluación de la propuesta económica, se deberá realizar una tabla comparativa de insumos de acuerdo al procedimiento que se indique en el Reglamento de esta Ley, la cual se presentará al Comité Interno de Licitación del Sujeto de la Ley convocante, previamente establecido conforme a lo dispuesto en esta Ley y de acuerdo a sus funciones que se señalarán en el Reglamento de la presente Ley.
 
-Tratándose de servicios relacionados con las obras públicas, deberá verificar, entre otros aspectos, el cumplimiento de las condiciones legales exigidas al licitante; que el personal propuesto cumpla con la experiencia, cantidad y capacidad, así como con los recursos necesarios para la realización de los trabajos solicitados por la convocante en los respectivos términos de referencia; que los tabuladores de sueldos, la integración de las plantillas y el tiempo de ejecución correspondan al servicio ofertado.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+Tratándose de servicios relacionados con las obras públicas, deberán valorarse por parte de la convocante la aplicación o no del procedimiento indicado en la Fracción II del presente Artículo, haciéndolo saber en las bases de licitación correspondientes; así mismo, no será necesario realizar la tabla comparativa de insumos, debiéndose verificar, entre otros aspectos, el cumplimiento de las condiciones legales exigidas al licitante; que el personal propuesto cumpla con la experiencia, cantidad y capacidad, así como con los recursos necesarios para la realización de los trabajos solicitados por la convocante en los respectivos términos de referencia; que los tabuladores de sueldos, la integración de las plantillas y el tiempo de ejecución correspondan al servicio ofertado.
 
 No serán objeto de evaluación las condiciones establecidas por la convocante, no indicadas en esta Ley o en el Reglamento de la presente Ley, que tengan como propósito facilitar la presentación de las propuestas y agilizar la conducción de los actos de la licitación, así como cualquier otro requisito no incluido en esta Ley o en el Reglamento de la presente Ley, cuyo incumplimiento por sí mismo no afecte la solvencia económica de las propuestas. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar la propuesta.
 
@@ -807,19 +847,27 @@ IX. Existan circunstancias que puedan provocar pérdidas o costos adicionales im
 
 X. (DEROGADA, P.O. 4 DE ABRIL DE 2005)
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
-Los Sujetos de la Ley, preferentemente, invitarán a cuando menos cinco licitantes, salvo que, a su juicio, no resulte posible o conveniente, en cuyo caso utilizarán el procedimiento de asignación directa por cotización a cuando menos tres participantes o el de asignación directa. En cualquier supuesto se convocará a la o las personas que cuenten con capacidad de respuesta inmediata, así como los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características de los trabajos a ejecutar.
+Los Sujetos de la Ley, preferentemente, invitarán a cuando menos cinco licitantes, salvo que, a su juicio, no resulte posible o conveniente, en cuyo caso utilizarán el procedimiento de asignación directa. En cualquier supuesto se convocará a la o las personas que cuenten con capacidad de respuesta inmediata, así como los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características de los trabajos a ejecutar.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+En el caso de la Fracción IV del presente Artículo, preferentemente deberá invitarse o asignarse directamente entre los licitantes que hayan presentado propuesta en los procedimientos de contratación declarados desiertos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 47.
 
-La opción que los Sujetos de la Ley ejerzan, de entre las fracciones del Artículo 46 y la fracción III del Artículo 26 de esta Ley, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y la sociedad. Se deberá elaborar un dictamen donde deberá acreditarse de entre los criterios mencionados, aquellos en que se funda el ejercicio de la opción, y contendrá además:
+La opción que los Sujetos de la Ley ejerzan, de entre las Fracciones del Artículo 46 y la asignación directa indicada en el Artículo 26 de esta Ley, deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez, entre otros que aseguren las mejores condiciones para el Estado y la sociedad. Se deberá elaborar un dictamen de asignación, que hará las veces de fallo de adjudicación, donde deberá acreditarse el fundamento y los criterios en que se motiva el ejercicio de la opción, y que contendrá además:
 
 I. El valor del contrato;
 
 II. Descripción general de los trabajos;
 
-III. El nombre o razón social y nacionalidad del contratista; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+III. El nombre o razón social del contratista;
 
 IV. En forma explícita, las razones técnicas, legales y económicas que den lugar al ejercicio de la opción.
 
@@ -831,11 +879,11 @@ En el caso de adjudicación directa, el titular de la convocante o en quien dele
 
 El titular del Poder Ejecutivo del Estado o su equivalente a nivel municipal, podrá autorizar la contratación directa de obras públicas y de servicios relacionados con las mismas, incluido el gasto correspondiente y establecerá los medios de control que estime pertinentes, cuando se realicen con fines para salvaguardar la integridad, la independencia y la soberanía del Estado y sus municipios, o para garantizar su seguridad interior.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 49.
 
-Los Sujetos de la Ley, bajo su responsabilidad, podrán llevar a cabo trabajos, a través del procedimiento de asignación directa o invitación restringida a cuando menos cinco participantes, conforme a lo indicado por el Artículo 26, en la inteligencia de que, en ningún caso, el importe autorizado como techo financiero deberá fraccionarse para quedar comprendido en los supuestos a que se refiere dicho Artículo.
+El importe autorizado como techo financiero no deberá fraccionarse para quedar comprendido en los supuestos de adjudicación directa o invitación restringida a cuando menos cinco participantes a que se refiere el Artículo 26 de esta Ley. Será posible aprobar expedientes que comprendan dos o más contratos, etapas ó acciones, siempre y cuando se trate de obras o servicios en los que al finalizar cada ejercicio se identifique y compruebe claramente cada contrato, etapa ó acción realizada, apegándose para la adjudicación de cada uno de estos a lo establecido en el Artículo 26 de esta Ley.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -851,7 +899,9 @@ III. En las bases de licitación o en las invitaciones a cotizar se indicarán, 
 
 IV. Los interesados que acepten participar adquirirán las bases de licitación, y quedarán obligados a presentar su proposición, salvo en situaciones de fuerza mayor en que el licitante deberá presentar un escrito de disculpa a más tardar el día en que se celebre el acto de presentación de las propuestas correspondientes;
 
-V. Los plazos para la presentación de las propuestas se fijarán para cada obra atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos debiendo ser cuando menos de siete días naturales contados a partir de la fecha de celebración de la junta de aclaraciones para las invitaciones restringidas a cuando menos cinco participantes y de al menos tres días hábiles a partir de la entrega del escrito para cotizar y del catálogo de conceptos en las dos modalidades de asignación directa;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+V. Los plazos para la presentación de las propuestas se fijarán para cada obra o servicio relacionado atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos debiendo ser cuando menos de siete días naturales contados a partir de la fecha de celebración de la junta de aclaraciones para las invitaciones restringidas a cuando menos cinco participantes y de al menos tres días hábiles a partir de la entrega del escrito para cotizar y del catálogo de conceptos en la asignación directa;
 
 VI. No serán aplicables, para formular las invitaciones correspondientes, las fracciones I, III, V y VII del Artículo 37 de la presente Ley; y
 
@@ -899,9 +949,9 @@ V. Forma y términos de garantizar la correcta inversión de los anticipos y el 
 
 VI. Plazos, forma y lugar de pago de las estimaciones de trabajos ejecutados y, cuando corresponda, de los ajustes de costos, de conformidad con las disposiciones de esta Ley;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-VII.- Las penas convencionales por atraso en la ejecución de los trabajos, serán determinadas únicamente en función al monto de los trabajos no ejecutados al momento, conforme al programa convenido. Las penas convencionales mínimas serán fijadas anualmente por la Contraloría y publicadas en el Periódico Oficial del Estado a más tardar el 15 de enero del ejercicio fiscal que corresponda;
+VII. Las penas convencionales por atraso en la ejecución de los trabajos, serán determinadas únicamente en función al monto de los trabajos no ejecutados al momento, sin considerar el impuesto al valor agregado, conforme al programa convenido. Las penas convencionales serán del 0.5% por cada día de atraso durante los primeros veinte días calendario; a partir del vigésimo primer día de atraso las penas convencionales serán del 1% por cada día y hasta la conclusión de los trabajos;
 
 VIII. Términos en que el contratista, en su caso reintegrará las cantidades que en cualquier forma, hubiere recibido en exceso por la contratación o durante la ejecución de la obra, para lo cual se utilizará el procedimiento establecido en el segundo párrafo del Artículo 62 de esta Ley;
 
@@ -927,33 +977,35 @@ Si el Sujeto de la Ley no firmare el contrato respectivo, el contratista, sin in
 
 El contratista a quien se adjudique el contrato, no podrá hacer ejecutar los trabajos por otro; pero, con autorización previa del Sujeto de la Ley de que se trate, podrá hacerlo respecto de partes de ellos o cuando adquiera materiales o equipos que incluyan su instalación en las obras. Esta autorización previa no se requerirá cuando el Sujeto de la Ley señale específicamente en las bases de licitación, las partes de los trabajos que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de los trabajos ante el Sujeto de la Ley.
 
-Las empresas con quienes se contrate la realización de obras públicas y servicios relacionados con las mismas, podrán presentar conjuntamente propuestas en las correspondientes licitaciones, siempre que, para tales efectos, al celebrar el contrato respectivo de la asociación se establezcan con precisión y a satisfacción del Sujeto de la Ley, las partes de los trabajos que cada empresa se obligará a realizar, así como la manera en que, en su caso, se exigirá el cumplimiento de las obligaciones.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
-En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por los integrantes de la agrupación en su respectivo Contrato de Asociación en Participación.
+Las empresas asociadas por medio de un convenio privado de asociación en participación a quienes se les adjudique la realización de obras públicas y servicios relacionados con las mismas, al celebrar el contrato respectivo de la asociación, se establecerán con precisión y a satisfacción del Sujeto de la Ley, las partes de los trabajos que cada empresa se obligará a realizar, así como la manera en que, en su caso, se exigirá el cumplimiento de las obligaciones.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+En este supuesto el contrato deberá ser firmado por el asociante obligado de la agrupación en su respectivo Contrato de Asociación en Participación.
 
 Los derechos y obligaciones que se deriven de los contratos y sus anexos, no se podrán ceder en forma parcial o total en favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo supuesto se deberá contar con la conformidad previa del Sujeto de la Ley de que se trate.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 54.
 
 Quienes celebren los contratos a que se refiere esta Ley, deberán garantizar:
 
-I. Los anticipos que en su caso, reciban. Esta garantía se deberá constituir por la totalidad del monto del anticipo; y
+I. Los anticipos que, en su caso, reciban. Esta garantía se deberá constituir por la totalidad del monto del anticipo; y
 
-II. El cumplimiento de los contratos.
+II. El cumplimiento de los contratos. Para efectos de la Fracción I de este Artículo, en el procedimiento de licitación mediante convocatoria pública se deberá garantizar con la fianza, prenda ó hipoteca. Para los procedimientos de invitación restringida y de adjudicación directa se podrá garantizar a través de fianza, prenda, hipoteca ó documento mercantil, precisando el Sujeto de la Ley en las bases de licitación el tipo de garantía a utilizar.
 
-Para los efectos de la fracción II de este Artículo, los titulares de los Sujetos de la Ley fijarán las bases, forma y porcentaje a los que deberá sujetarse la garantía que deba constituirse a su favor, la que deberá fijarse de acuerdo a la complejidad, características y magnitud de la obra, que en ningún caso podrá ser superior al diez por ciento del monto total contratado, y que podrá ser la fianza, prenda ó hipoteca, para asegurar las obligaciones, debiendo la convocante indicar, en el modelo de contrato, la forma de garantía a utilizar, y teniendo la responsabilidad de su aceptación.
+Para efectos de la Fracción II de este Artículo, los Sujetos de la Ley establecerán las bases, forma y porcentaje a los que deberá sujetarse la garantía que deba constituirse a su favor, la que deberá fijarse de acuerdo a la complejidad, características y magnitud de la obra o servicio relacionado, que en ningún caso podrá ser superior al diez por ciento del monto total contratado., y que podrá ser la fianza, prenda, hipoteca, documento mercantil ó retención directa del 5% del monto contratado, para asegurar las obligaciones, precisando el Sujeto de la Ley en las bases de licitación el tipo de garantía a utilizar.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+Para la opción de retención directa del 5% del monto contratado, el Sujeto de la Ley lo aplicará en su totalidad del pago del anticipo.
 
-En el caso de convenios adicionales en monto a los que se refiere el Artículo 66, el titular del Sujeto de la Ley podrá, bajo su responsabilidad, eximir al contratista de la garantía de cumplimiento, siempre y cuando el monto del convenio sea menor o igual a mil quinientas veces el salario mínimo general diario vigente en el Estado o al 5% del monto originalmente contratado, ambos incluyendo el Impuesto al Valor Agregado. Los convenios con montos mayores deberán ajustarse a lo indicado en el párrafo anterior.
+En el caso de convenios adicionales en monto a los que se refiere el Artículo 66, el titular del Sujeto de la Ley podrá, bajo su responsabilidad, eximir al contratista de la garantía de cumplimiento.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+Cuando los Sujetos de la Ley celebren contratos mediante el procedimiento de asignación directa conforme a lo indicado en los Artículos 46, Fracción VI o 26 de la presente Ley, bajo su responsabilidad, podrán exceptuar a los licitantes de presentar la garantía de cumplimiento del contrato.
 
-Cuando los Sujetos de la Ley celebren contratos en los casos señalados en los artículos 46 fracción VI ó 26 fracciones III y IV de la presente Ley, bajo su responsabilidad, podrán exceptuar a los licitantes de presentar la garantía de cumplimiento del contrato.
-
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
-
-Las garantías previstas en las fracciones I y II de este Artículo, deberán entregarse al Sujeto de la Ley dentro de los diez días calendario siguientes a la fecha de notificación del fallo. Si la garantía se hace a través de una fianza, la Institución respectiva deberá estar legalmente constituida y registrada en la Comisión Nacional de Seguros y Fianzas.
+Las garantías previstas en las Fracciones I y II de este Artículo, deberán entregarse al Sujeto de la Ley dentro de los diez días calendario siguiente a la fecha de notificación del fallo. Si la garantía se hace a través de una fianza, la Institución respectiva deberá estar legalmente constituida y registrada en la Comisión Nacional de Seguros y Fianzas.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -1023,11 +1075,11 @@ Invariablemente la Contraloría, al comprobar, con los elementos proporcionados 
 
 Las disposiciones a que se refieren las fracciones IX y X de este Artículo deberán establecerse en la convocatoria o en la invitación que se extienda a las personas seleccionadas, así como en las bases de la licitación respectiva. Esta restricción no será aplicable cuando la licitación comprenda la ejecución de una obra desde su diseño hasta su terminación total.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 58.
 
-Los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, deberán cubrir el punto cinco por ciento sobre derechos de inspección de vigilancia para la Contraloría o su equivalente a nivel municipal; el punto dos por ciento a favor del órgano de fiscalización del H. Congreso del Estado para ejercer sus facultades de fiscalización; el punto dos por ciento para la capacitación de los trabajadores del contratista; y el punto uno por ciento para la actualización profesional y capacitación de los agremiados a los colegios de profesionistas según corresponda conforme a lo que se establezca en el Reglamento de esta Ley.
+Los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, deberán cubrir el punto cinco por ciento sobre derechos de inspección de vigilancia para la Contraloría o en su caso a la equivalente a nivel municipal dependiendo el origen de los recursos públicos; el punto dos por ciento a favor del órgano de fiscalización del H. Congreso del Estado para ejercer sus facultades de fiscalización; el punto dos por ciento para la capacitación de los trabajadores del contratista; y el punto uno por ciento para la actualización profesional y capacitación de los agremiados a los colegios de profesionistas según corresponda conforme a lo que se establezca en el Reglamento de esta Ley.
 
 ### CAPITULO VII. De la Ejecución
 
@@ -1047,7 +1099,9 @@ El residente de supervisión designado, será el representante del Sujeto de la 
 
 Las estimaciones de trabajos ejecutados, a más tardar, se presentarán por el contratista al Sujeto de la Ley por períodos máximos quincenales, acompañadas de la documentación que acredite la procedencia de su pago.
 
-Las estimaciones por trabajos ejecutados deberán pagarse por parte de los Sujetos de la Ley, bajo su responsabilidad, dentro de los siguientes veinte días calendario.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+Las estimaciones por trabajos ejecutados deberán pagarse por parte de los Sujetos de la Ley, bajo su responsabilidad, dentro de los veinte días calendario siguientes a la presentación de la estimación debidamente autorizada por el residente de supervisión, fecha que deberá quedar asentada en la bitácora de la obra.
 
 Las estimaciones por trabajos ejecutados son independientes una de otra en su pago y, por tanto, cualquier secuencia es sólo para efecto, de control administrativo. Las diferencias técnicas o numéricas pendientes de pago se resolverán e incorporarán en la siguiente estimación.
 
@@ -1079,7 +1133,9 @@ III. En el caso de trabajos en los que se tenga establecida la proporción en qu
 
 En el caso de lo indicado en las fracciones I y II, para los incrementos promovidos por el contratista, éste deberá presentar la solicitud y el estudio correspondiente al Sujeto de la Ley en un plazo que no deberá de exceder de treinta días calendario posteriores a la fecha de publicación de los relativos de costos aplicables al ajuste que solicite, transcurrido dicho plazo, precluye para el contratista su derecho a exigir el ajuste del mes correspondiente.
 
-Por su parte el Sujeto de la Ley dentro de los veinte días calendario siguientes con base en la solicitud y documentación entregada por el contratista resolverá sobre la procedencia de la petición.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+Por su parte el Sujeto de la Ley dentro de los treinta días calendario siguientes con base en la solicitud y documentación entregada por el contratista resolverá sobre la procedencia de la petición, y en su caso, dentro del mismo plazo deberá gestionar ante la Secretaría de Finanzas, su equivalente a nivel municipal o su equivalente en las entidades, el pago correspondiente.
 
 Para el caso de decrementos, la revisión será promovida por el Sujeto de la Ley debiendo cumplir con los mismos plazos indicados en los dos párrafos anteriores.
 
@@ -1093,15 +1149,21 @@ Para efectos de la revisión y ajuste de los costos y de la variación de la tas
 
 Cuando el atraso sea por causa imputable al contratista, procederá el ajuste de costos exclusivamente para los trabajos pendientes de ejecutar conforme al programa que se encuentre en vigor;
 
-II. Los incrementos o decrementos de los costos de los insumos serán calculados con base en los relativos de insumos o el índice de precios productor que determine el Banco de México o por la dependencia que los sustituya.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-Cuando los relativos que requiera el contratista o la contratante no se encuentren dentro de los publicados, los Sujetos de la Ley procederán a calcularlos conforme a los precios que investiguen, utilizando los lineamientos y metodología que establezca el Reglamento de esta Ley;
+II. Los incrementos o decrementos de los costos de los insumos se basarán en las publicaciones que realice el Banco de México, del Índice Nacional de Precios al Consumidor, siendo la Secretaría de Finanzas la encargada de integrar la información, interpretarla y definirla para efectos de la obra pública y servicios relacionados.
+
+Cuando los relativos que requiera el contratista o la contratante no se encuentren dentro de los publicados, los Sujetos de la Ley procederán a calcularlos conforme a los precios que investiguen, utilizando los lineamientos y metodología que establezca la Contraloría;
 
 III. Los precios originales del contrato permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante el ejercicio del contrato, el costo por financiamiento estará sujeto a las variaciones de la tasa de interés que el contratista haya considerado en su propuesta con fundamento en el indicador económico base o líder que establezca el Banco de México, condiciones que no podrán cambiar durante la vigencia del contrato;
 
-IV. La formalización del ajuste de costos deberá efectuarse mediante un oficio de resolución en el que se acuerde el aumento o reducción correspondiente elaborando el convenio respectivo;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-V. El pago del ajuste de costos relativo a los trabajos ejecutados conforme a las estimaciones correspondientes, deberá cubrirse cuando se trate de incrementos por parte del Sujeto de la Ley a solicitud del contratista, la que deberá ser presentada adjuntando el estudio correspondiente dentro de los veinte días calendario siguientes a la publicación de los relativos de insumos; y a más tardar dentro de un período igual siguiente a la fecha en que el contratista presente dicha solicitud, el Sujeto de la Ley resolverá por escrito el ajuste respectivo.
+IV. La formalización del ajuste de costos deberá efectuarse mediante un oficio de resolución en el que se acuerde el aumento o reducción correspondiente, en consecuencia, no se requerirá de la formalización de convenio alguno;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+V. El pago del ajuste de costos relativo a los trabajos ejecutados conforme a las estimaciones correspondientes, deberá cubrirse por parte de la Secretaría de Finanzas, su equivalente a nivel municipal o su equivalente en las entidades y bajo su responsabilidad, dentro de los veinte días calendario siguientes a la recepción del oficio de resolución y la factura correspondientes;
 
 En caso de reducciones el Sujeto de la Ley elaborará el estudio que las determine, mismas que se harán constar en los términos señalados;
 
@@ -1113,7 +1175,9 @@ VII. A la solicitud de ajuste de costos se deberá anexar la siguiente documenta
 
 a) El programa de ejecución contractual vigente en la fecha de la solicitud.
 
-b) Una tabla que agrupe y compare los insumos en orden alfabético de la explosión global de insumos de la obra faltante por ejecutar, sus correspondientes relativos o índices emitidos por el Banco de México considerados para los insumos del contrato y sus ampliaciones desde su origen hasta la fecha de estudio.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+b) Una tabla que agrupe y compare los insumos en orden alfabético de la explosión global de insumos de la obra faltante por ejecutar, sus correspondientes relativos o índices, considerados para los insumos del contrato y sus ampliaciones desde su origen hasta la fecha de estudio;
 
 c) Cuando proceda, se presentarán las tarjetas de precios unitarios modificados derivados del ajuste correspondiente; y
 
@@ -1135,7 +1199,9 @@ En caso de requerirse el convenio señalado en el párrafo anterior, se informar
 
 En caso de convenios adicionales en cuanto al plazo, se podrá celebrar un único convenio adicional al mencionado en el primer párrafo entre las partes por el plazo necesario para atender la eventualidad, debiendo justificarse mediante dictamen fundado y motivado emitido por el residente de supervisión.
 
-De las autorizaciones a que se refieren los dos párrafos anteriores, el titular del Sujeto de la Ley, de manera indelegable, presentará a la Contraloría a más tardar el último día hábil de cada mes, un informe que se referirá a las autorizaciones otorgadas en el mes calendario inmediato anterior.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+De las autorizaciones a que se refiere el tercer párrafo, el titular del Sujeto de la Ley, de manera indelegable, presentará a la Contraloría o en su caso la equivalente a nivel municipal a más tardar el último día hábil de cada mes, un informe que se referirá a las autorizaciones otorgadas en el mes calendario inmediato anterior.
 
 Las estimaciones para ejercer los conceptos y volúmenes de cada convenio, se tramitarán con cargo a cada ampliación en particular, hasta que se agote su importe o quede saldo sin ejercer.
 
@@ -1149,23 +1215,45 @@ Los Sujetos de la Ley podrán rescindir administrativamente los contratos en cas
 
 Asimismo, los Sujetos de la Ley podrán dar por terminados anticipadamente los contratos cuando existan razones de interés general; existan causas justificadas que impidan la continuación de los trabajos y se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al Estado; se determine la nulidad total o parcial de actos que dieron origen al contrato, con motivo de la resolución de una inconformidad emitida por la Contraloría, o bien no sea posible determinar la temporalidad de la suspensión de los trabajos.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### Artículo 69.
 
-En la suspensión, rescisión administrativa o terminación anticipada de los contratos deberá observarse lo siguiente:
+En la suspensión o rescisión administrativa o terminación anticipada de los trabajos por causas no imputables al contratista deberá observarse lo siguiente:
 
-I. Cuando se determine la suspensión de los trabajos o se rescinda el contrato por causas imputables al Sujeto de la Ley, éste pagará los trabajos ejecutados, así como los gastos no recuperables, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato de que se trate;
+I. Cuando se determine la suspensión de los trabajos o se rescinda el contrato por causas imputables al Sujeto de la Ley, éste pagará los trabajos ejecutados, procederá, previa solicitud del contratista, a la revisión del porcentaje de indirectos y pagará los gastos no recuperables, siempre que éstos estén debidamente comprobados y se relacionen directamente con el contrato de que se trate;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
+II. Cuando no se pueda definir la temporalidad de la suspensión, o existan razones, de interés general que den origen a la terminación anticipada del contrato, el Sujeto de la Ley pagará al contratista los trabajos ejecutados, procederá, previa solicitud del contratista, a la revisión del porcentaje de indirectos y pagará los gastos no recuperables, siempre que éstos estén debidamente comprobados y se relacionen directamente con el contrato de que se trate; el Sujeto de la Ley informará al contratista cuando la suspensión sea temporal, sobre la duración aproximada y concederá ampliación al plazo de ejecución que se justifique;
 
-II.- En caso de rescisión del contrato por causas imputables al contratista, una vez emitida la resolución en el procedimiento correspondiente, el Sujeto de la Ley procederá a hacer efectivas las garantías y se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito que proceda, lo que deberá efectuarse dentro de los quince días calendario siguientes a la fecha de notificación al contratista de la resolución en cita. En dicho finiquito deberá preverse el sobre costo de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados;
+III. Cuando por razones de caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, el contratista podrá optar por la terminación anticipada del contrato, debiendo presentar su solicitud al Sujeto de la Ley, quien resolverá dentro de los diez días calendario siguientes a la recepción de la misma; en caso de negativa, será necesario que el contratista obtenga de la autoridad judicial la declaratoria correspondiente, pero si el Sujeto de la Ley no contesta en dicho plazo, se tendrá por aceptada la petición del contratista.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
+Una vez que el Sujeto de la Ley haya comunicado por escrito al contratista la terminación anticipada del contrato o el inicio del procedimiento de recisión (sic) del mismo, los Sujetos de la Ley procederán a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas y en su caso proceder a suspender los trabajos, levantando con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentre la obra.
 
-III.- Cuando no se pueda definir la temporalidad de la suspensión, o existan razones, de interés general que den origen a la terminación anticipada del contrato, el Sujeto de la Ley pagará al contratista los trabajos ejecutados, procederá, previa solicitud del contratista, a la revisión del porcentaje de indirectos y pagará los gastos no recuperables, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato de que se trate; el Sujeto de la Ley informará al contratista cuando la suspensión sea temporal, sobre la duración aproximada y concederá ampliación al plazo de ejecución que se justifique;
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
 
-IV. Cuando por razones de caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, el contratista podrá no ejecutarlos. En este supuesto, si opta por la terminación anticipada del contrato, deberá presentar su solicitud al Sujeto de la Ley, quien resolverá dentro de los diez días calendario siguientes a la recepción de la misma; en caso de negativa, será necesario que el contratista obtenga de la autoridad judicial la declaratoria correspondiente, pero si el Sujeto de la Ley no contesta en dicho plazo, se tendrá por aceptada la petición del contratista.
+Artículo 69 bis.- La rescisión administrativa por causa imputable al contratista.
 
-Una vez comunicado por escrito por el Sujeto de la Ley la terminación anticipada de los contratos o el inicio del procedimiento de rescisión de los mismos, los Sujetos de la Ley procederán a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas y en su caso proceder a suspender los trabajos, levantando con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentre la obra.
+A efecto de llevar a cabo la rescisión administrativa por causas imputables al contratista, se deberá previamente haber agotado los términos y alternativas de ley para llevar a término los alcances contractuales, así como las posibilidades de conciliación y como última alternativa se procederá conforme a lo siguiente:
+
+I. Se iniciará a partir de que le sea comunicado al contratista el oficio de inicio del procedimiento en el que se le hará saber el incumplimiento en que haya incurrido y se le citará al levantamiento de acta circunstanciada que refiere el último párrafo del Artículo 69, la cual deberá realizarse a más tardar a los dos días siguientes a la notificación del oficio, el cual deberá estar fundado y motivado.
+
+II. En el oficio de inicio del procedimiento el Sujeto de la Ley informará al contratista que cuenta con un término de cuatro días hábiles contados a partir del día siguiente en que se levante el acta en mención, para que exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes, en el oficio se hará de su conocimiento que en caso de que requiera que el mencionado término sea ampliado hasta por siete días hábiles más, deberá para tal efecto presentar por escrito dicha solicitud, ante el Sujeto de la Ley a más tardar al día hábil siguiente al que se haya levantado el acta circunstanciada, señalando en específico la probanza por la cual solicita la prórroga. El Sujeto de la Ley, al día hábil siguiente resolverá sobre la dilación probatoria y determinará el monto de la cantidad que el contratista deberá depositar a más tardar al día siguiente ante la Secretaría de Finanzas del Estado o ante las instancias municipales correspondientes, para asegurar el pago del máximo de la multa que se le impondrá en caso de no rendirse la prueba. Sin este depósito no surtirá efecto el término concedido. De igual forma en el oficio de inicio se requerirá al contratista para que en el término de diez días naturales devuelva toda la documentación que se le hubiere entregado para la realización de los trabajos.
+
+III. Levantada el Acta que refiere último párrafo del Artículo 69, y si transcurrido el plazo que señala la Fracción II del presente Artículo, el contratista no manifiesta nada en su defensa o si después de analizar las razones aducidas por éste, el Sujeto de la Ley estima que las mismas no son satisfactorias, emitirá por escrito dentro de los tres días hábiles siguientes la determinación que proceda, debiendo fundar y motivar la determinación de dar por rescindido o no el contrato respectivo.
+
+IV. Emitida la resolución correspondiente, y precautoriamente desde el inicio del procedimiento el Sujeto de la Ley se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito que proceda, lo que deberá efectuarse dentro de los diez días calendario siguientes a la fecha de notificación al contratista de la resolución en cita. En dicho finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados, dentro del plazo referido, el Sujeto de la Ley junto con el contratista, podrán conciliar los saldos derivados de la rescisión con el fin de preservar los intereses de las partes, en caso de que el contratista no comparezca en ese término, el Sujeto de la Ley, lo determinará de manera unilateral. Sólo en el caso de que el finiquito haya sido conciliado entre las partes, una vez notificado el mismo al contratista, éste contará con un término de tres días, para realizar manifestaciones, en caso de que haya sido determinado de manera unilateral una vez notificado el finiquito al contratista el mismo será irrevocable.
+
+Una vez determinado y notificado el finiquito al que se refiere en el párrafo anterior, el contratista contará con un término no mayor de diez días calendario para amortizar el anticipo de conformidad con lo establecido para tal efecto en el Artículo 56 de la Ley, el mismo término correrá para efectuar el pago de los saldos que deriven del mismo y en caso de incumplimiento se procederá a hacer efectivas las garantías.
+
+V. Al elaborar el finiquito derivado de la rescisión administrativa, el Sujeto de la Ley podrá optar entre aplicar el sobrecosto o las penas convencionales, independientemente de las garantías, y demás cargos que procedan. En tal caso, la opción que se adopte atenderá a la que depare el menor perjuicio a la dependencia o entidad contratante, debiéndose fundamentar y motivar la decisión.
+
+El sobrecosto es la diferencia entre el importe que le representaría al Sujeto de la Ley concluir con otro contratista los trabajos pendientes, y el costo de la obra no ejecutada al momento de rescindir el contrato.
+
+Para la determinación del sobrecosto y su importe, el Sujeto de la Ley procederán conforme a lo siguiente:
+
+I. Cuando la dependencia o entidad rescinda un contrato y exista una proposición solvente susceptible de adjudicarse en los términos que señala la Fracción III del Artículo 46 de la Ley, el sobrecosto será la diferencia entre el precio de dicha proposición y el importe de la obra no ejecutada conforme al programa vigente, aplicando los ajustes de costos que procedan; y,
+
+II. Cuando una proposición no sea susceptible de adjudicarse en los términos señalados en la Fracción anterior, la determinación del sobrecosto deberá reflejar el impacto inflacionario en el costo de la obra no ejecutada conforme al programa vigente, hasta el momento en que se notifique la rescisión, calculado conforme al procedimiento de ajustes de costos pactado en el contrato, debiendo agregarse un importe equivalente al diez por ciento de los trabajos faltantes por ejecutar.
 
 ###### Artículo 70.
 
@@ -1183,13 +1271,21 @@ El Sujeto de la Ley comunicará a la Contraloría la terminación de los trabajo
 
 En la fecha señalada, el Sujeto de la Ley, bajo su responsabilidad, recibirá los trabajos y levantará el acta correspondiente.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### Artículo 72.
 
 Concluidos los trabajos, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaren en los mismos, de los vicios ocultos y de cualquier otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable.
 
-Los trabajos se garantizarán durante un plazo de doce meses del cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los mismos, los contratistas deberán constituir garantía por el equivalente al diez por ciento del monto total ejercido de la obra o servicio relacionado, de acuerdo a lo fijado en las bases de licitación.
+Los trabajos se garantizarán durante un plazo de doce meses, contados a partir de la firma del acta de entrega - recepción, por el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los mismos, los contratistas de obra pública deberán constituir garantía por el equivalente al diez por ciento del monto total ejercido de la obra y los contratistas de servicios relacionados con la obra pública lo harán, cuando proceda, hasta por el equivalente al cinco por ciento del monto total ejercido de los trabajos, de acuerdo a lo fijado en las bases de licitación.
 
-Quedarán a salvo los derechos de los Sujetos de la Ley a exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a este artículo.
+No se deberá formalizar la presente garantía en el caso de los servicios relacionados con la obra pública indicados en el Artículo 4° de la presente Ley, a excepción de los mencionados en las Fracciones I, II, III y IX del Artículo citado.
+
+Para los efectos de este Artículo, los Sujetos de la Ley establecerán las bases, forma y porcentaje a los que deberá sujetarse la garantía que deba constituirse a su favor, la que deberá fijarse de acuerdo a la complejidad, características y magnitud de la obra o servicio relacionado, que en ningún caso podrá ser superior al diez por ciento del monto total ejercido, y que podrá ser la fianza, prenda, hipoteca, documento mercantil o retención directa del 5% del monto total ejercido, para asegurar las obligaciones, precisando el Sujeto de la Ley en las bases de licitación el tipo de garantía a utilizar.
+
+Para la opción de retención directa del 5% del monto ejercido, el Sujeto de la Ley lo aplicará en su totalidad del pago del Finiquito.
+
+Quedarán a salvo los derechos de los Sujetos de la Ley a exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a este Artículo.
 
 ###### Artículo 73.
 
@@ -1359,6 +1455,10 @@ Los contratistas interesados podrán inconformarse ante la Contraloría por cual
 
 En la inconformidad que se presente en los términos a que se refiere este Capítulo, el promovente deberá manifestar, bajo protesta de decir verdad, los hechos que le consten, relativos al acto o actos que aduce son irregulares y acompañar la documentación que sustente su petición.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+En el caso de que el promovente de la inconformidad no manifieste bajo protesta de decir verdad los hechos señalados en el párrafo anterior, dicha inconformidad se entenderá por desechada.
+
 La manifestación de hechos falsos, se sancionará conforme a las disposiciones de esta Ley y a las demás que resulten aplicables.
 
 Cuando una inconformidad se resuelva como no favorable al promovente, por resultar notoriamente improcedente y se advierta que se hizo con el único propósito de retrasar y entorpecer la continuación del procedimiento de contratación y ejecución de los trabajos, se le impondrá multa y sanciones conforme lo establece el Título Quinto de esta Ley.
@@ -1496,3 +1596,9 @@ El presente Decreto tendrá vigencia a partir del día siguiente de su publicaci
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo del Estado deberá publicar el Reglamento de la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes en un plazo que no deberá exceder de 90 días contados a partir de la fecha de su publicación.
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
