@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2009-03-30"
+last_updated: "2009-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 6 de junio de 1999.
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
@@ -61,9 +61,17 @@ IV.- La extensión de actitudes solidarias y responsables de la población en la
 
 V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+VIII.- La conservación de la vida mediante el tratamiento integral del dolor.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -131,9 +139,17 @@ VII.- Coadyuvar a la modificación de los patrones culturales que determinen há
 
 VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
 
-IX.- Fomentar la integración, organización y funcionamiento de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado, apoyándolos para la realización de programas de capacitación y actualización, a efecto de que coadyuven más eficazmente con el sistema estatal de salud; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-X.- Implementar el régimen estatal de protección social en Salud.
+IX.- Fomentar la integración, organización y funcionamiento de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado, apoyándolos para la realización de programas de capacitación y actualización, a efecto de que coadyuven más eficazmente con el sistema estatal de salud;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+X.- Implementar el régimen estatal de protección social en Salud; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+XI.- Proporcionar cuidados paliativos.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -533,7 +549,13 @@ r).- El programa contra el tabaquismo;
 
 s).- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en los reglamentos y normas oficiales mexicanas que al efecto se emitan.
 
-En el caso de establecimientos que expidan alimentos y bebidas en las escuelas de educación básica, además verificará que sean de los autorizados en los programas de nutrición; y
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+En el caso de establecimientos que expidan alimentos y bebidas en las escuelas de educación básica, además verificará que sean de los autorizados en los programas de nutrición;
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+t).- La creación de una unidad administrativa encargada de recibir, recabar, resguardar y supervisar el cumplimiento de los cuidados paliativos que soliciten los pacientes en etapa terminal en los términos de la ley aplicable a la materia; y
 
 V.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
@@ -671,7 +693,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+III.- La atención médica integral, que comprende actividades preventivas, curativas, de rehabilitación y paliativas, incluyendo la atención de urgencias;
 
 IV.- La atención materno-infantil;
 
@@ -713,9 +737,17 @@ Las actividades de atención médica son:
 
 I.- Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas y mentales.
+II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas y mentales; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+IV.- Paliativas, que incluyen el cuidado integral para conservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
 
 ### CAPITULO IV. Usuarios de los Servicios de Salud y Participación de la Comunidad
 
@@ -869,9 +901,11 @@ VII.- En la información a las autoridades competentes de las irregularidades o 
 
 VIII.- En otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 65.
 
-El Instituto de Salud del Estado de Aguascalientes y demás Instituciones de Salud Estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de discapacidad y de rehabilitación de personas con discapacidad.
+El Instituto de Salud del Estado de Aguascalientes y demás Instituciones de Salud Estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de discapacidad y de rehabilitación de personas con discapacidad, así como en los cuidados paliativos.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -1439,7 +1473,9 @@ III.- Recursos materiales, humanos y financieros disponibles para la protección
 
 Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud del Estado, llevarán a cabo estadísticas que en materia de salud les señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
 
-## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
+## TITULO DECIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN ETAPA TERMINAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
 
 ### CAPITULO II. Enfermedades Transmisibles
 
@@ -1471,7 +1507,9 @@ I.- Fomentar en la población el desarrollo de estilos de vida saludables y cond
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de invalidez y rehabilitación de la discapacidad y detección oportuna de enfermedades.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de invalidez y rehabilitación de la discapacidad y detección oportuna de enfermedades.
 
 ###### ARTICULO 110.
 
@@ -1493,7 +1531,9 @@ Se deberá dar prioridad a la elaboración de programas nutricionales destinados
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO I. De la Asistencia Social
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 113.
 
@@ -1529,7 +1569,7 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 El Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO II. De la Discapacidad
+### CAPITULO I. De la Asistencia Social
 
 ###### ARTICULO 118.
 
@@ -1541,19 +1581,19 @@ El Organismo tendrá a su cargo el control sanitario de los establecimientos en 
 
 El Gobierno del Estado, en coordinación con las dependencias y entidades municipales y federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre y la mujer.
 
+### CAPITULO II. De la Discapacidad
+
+## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
+
 ### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
-
-## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
-
-### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 120.
 
 Corresponde al Organismo en coordinación con las autoridades federales y municipales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 121.
 
@@ -1667,7 +1707,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos u objetos.
 
-### CAPITULO II. Mercados y Centros de Abasto
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 135.
 
@@ -1691,7 +1731,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO III. De las Construcciones
+### CAPITULO II. Mercados y Centros de Abasto
 
 ###### ARTICULO 138.
 
@@ -1715,13 +1755,153 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
+
+## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
+
+### CAPITULO III. De las Construcciones
+
+###### ARTICULO 139 Bis.
+
+Cuidados paliativos es la atención integral que se proporciona a los enfermos que no responden a los tratamientos curativos y que tienen una esperanza de vida menor a seis meses.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+###### ARTICULO 139 Ter.
+
+Los cuidados paliativos tienen como objeto establecer las condiciones para mitigar el sufrimiento innecesario de los enfermos, en etapa terminal, así como propiciar en el individuo las actitudes, valores y conductas adecuadas para enfrentar su padecimiento, procurar la calidad de vida y garantizar una muerte natural en condiciones dignas.
+
+Este Capítulo se regirá por lo dispuesto en la Ley General de Salud en materia de cuidados paliativos a los enfermos en situación terminal.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+###### ARTICULO 139 Quater.
+
+El Sistema Estatal de Salud deberá garantizar lo previsto en el presente Capítulo procurando en todo momento preservar la calidad de vida de los pacientes.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+###### ARTICULO 139 Quinquies.
+
+Los cuidados paliativos comprenden:
+
+I. El alivio del sufrimiento mediante medicamento que mitigue el dolor del enfermo en etapa terminal;
+
+II. La atención psicológica, procurando dominar los trastornos de ansiedad, depresión, temor e insomnio, facilitándole periodos de vigilia y lucidez mental para la comunicación y desempeño de las actividades del enfermo en etapa terminal;
+
+III. La atención médica integral;
+
+IV El trato digno, respetuoso y profesional por parte del personal médico y sanitario, el cual procurará en todo momento la preservación de la calidad de vida del paciente;
+
+V La información clara, oportuna y suficiente sobre las condiciones y efectos de la enfermedad y los tipos de tratamientos que puede optar el paciente;
+
+VI. La atención tanatológica;
+
+VII. Los servicios espirituales, cuando lo solicite el enfermo en etapa terminal, su familia, representante legal o persona de su confianza; y
+
+VIII. Las demás que establezca la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+###### ARTICULO 139 Sexies.
+
+El paciente en etapa terminal, tiene derecho a solicitar la suspensión del tratamiento curativo y solicitar el tratamiento paliativo en términos de la ley de la materia; así mismo el paciente tiene derecho a que se le aplique la atención médica del control del dolor en un domicilio particular.
+
+El paciente en etapa terminal que reciba los cuidados paliativos, en cualquier momento podrá solicitar recibir nuevamente el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+###### ARTICULO 139 Septies.
+
+Las Instituciones del Sistema Estatal de Salud de segundo y tercer nivel:
+
+I. Ofrecerán la atención especializada a los enfermos en etapa terminal;
+
+II. Prestarán la orientación, asesoría y seguimiento al enfermo en etapa terminal, familiares o persona de confianza cuando los cuidados paliativos se realicen en el domicilio particular.
+
+En el caso de que los cuidados paliativos se realicen en el domicilio particular, el Instituto de Salud del Estado cantará con una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al enfermo en etapa terminal, a sus familiares o persona de su confianza;
+
+III. Proporcionarán los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el diagnóstico de la enfermedad terminal y a solicitud del interesado y hasta el último momento de acuerdo a la ley aplicable sobre la materia;
+
+IV. Impulsarán la creación de áreas especializadas en cuidados paliativos; y
+
+V. Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos y atención a enfermos en etapa terminal de acuerdo a lo establecido.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+###### ARTICULO 139 Octies.
+
+El personal médico y sanitario que preste los cuidados paliativos, para el mejor desempeño de sus servicios, deberá estar debidamente capacitado, humana y técnicamente, de conformidad con lo establecido en el Título Sexto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+###### ARTICULO 139 Nonies.
+
+Los médicos especialistas en las instituciones de segundo y tercer nivel, tendrán las siguientes obligaciones:
+
+I. Proporcionar toda la información que el paciente requiera, así como la que el médico considere necesaria para que el enfermo en etapa terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+
+II. Solicitar al enfermo en etapa terminal, por escrito, el consentimiento en lo referente al tratamiento paliativo al que quiere someterse, de conformidad con la ley aplicable en la materia.
+
+En caso de que el enfermo en etapa Terminal se encuentre imposibilitado de acudir ante el notario, el personal médico especialista, podrá suscribir ante dos testigos, el documento donde conste el consentimiento referente al tratamiento de cuidados paliativos en los términos que establezca el Instituto de Salud del Estado de Aguascalientes;
+
+III. Informar oportunamente al enfermo en etapa terminal, cuando el tratamiento curativo no dé resultados;
+
+IV. Informar al enfermo en etapa terminal, sobre las opciones que existan de cuidados paliativos;
+
+V. Respetar la decisión del enfermo en etapa terminal en lo referente al tratamiento al que opte someterse, una vez que se le haya explicado en términos sencillos las consecuencias de su decisión;
+
+VI. Garantizar en todo momento que se brinden los cuidados básicos al enfermo en etapa terminal;
+
+VII. Procurar las medidas mínimas necesaria para preservar la calidad de vida de los enfermos en etapa terminal;
+
+VIII. Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala esta Ley y la ley aplicable en la materia;
+
+IX. Hacer saber al enfermo, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad tienen posibles efectos secundarios tendientes a disminuir el tiempo de vida;
+
+X. Solicitar una segunda opinión a otro médico especialista, cuando su diagnóstico sea una enfermedad terminal; y
+
+XI. Las demás que le señalen ésta y otras leyes aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+###### ARTICULO 139 Decies.
+
+Los médicos tratantes tendrán las siguientes atribuciones:
+
+I. Podrán suministrar fármacos paliativos a un enfermo en etapa terminal, aún cuando con ello se pierda el estado de alerta, siempre y cuando se suministren dichos fármacos paliativos con el objetivo de aliviar el dolor del paciente;
+
+II. Podrán hacer uso, de ser necesario, de analgésicos del grupo de los opioides de acuerdo con lo estipulado en la presente Ley.
+
+En el caso de las Fracciones anteriores, se requerirá el consentimiento del enfermo, o en su defecto, de las personas que deban otorgarlo, según lo previsto por la ley aplicable a la materia;
+
+III. No podrán suministrar tales fármacos con la finalidad de acortar o terminar la vida del paciente, en tal caso se estará sujeto a las disposiciones penales aplicables;
+
+IV. En ningún caso y por ningún motivo implementarán medios extraordinarios al enfermo en etapa terminal, sin su consentimiento.
+
+Entendiéndose por medios extraordinarios aquellos que constituyen una carga demasiado grave para el enfermo y cuyo perjuicio es mayor que los beneficios;
+
+V. No deberán aplicar tratamientos o medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía; y
+
+VI. Deberán anexar en el historial clínico, la información que haga constatar la voluntad del enfermo en etapa terminal, así como las circunstancias hasta su culminación.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 139 Undecies.- El personal médico que tenga a su cargo el cumplimiento de las disposiciones establecidas para los cuidados paliativos, cuyas creencias religiosas y convicciones personales sean contrarias a tales disposiciones, podrán ser objetores de conciencia y por tal razón podrán excusarse de intervenir en su realización desde el momento en que el paciente solicite el tratamiento de cuidados paliativos.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 139 Duodecies.- El personal médico que, por decisión propia, deje de proporcionar los cuidados básicos o cualquier tratamiento o cuidado sin el consentimiento del enfermo en etapa terminal, o en caso que esté impedido para expresar su voluntad, el de su familia o persona de confianza, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 139 Terdecies.- Queda prohibida, la práctica de la eutanasia, entendida como la ayuda al suicidio conforme lo señala la legislación Penal, bajo el amparo de esta ley.
+
+En tal caso se estará a lo que señalan las disposiciones penales aplicables.
+
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
 ### CAPITULO IV. Servicios Funerarios
-
-## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
-
-### CAPITULO V. Limpieza Pública
 
 ###### ARTICULO 140.
 
@@ -1801,7 +1981,7 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 El patrimonio de la beneficencia pública será administrado por el organismo creado para ello, correspondiéndole entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
 
-### CAPITULO VI. Agua Potable y Alcantarillado
+### CAPITULO V. Limpieza Pública
 
 ###### ARTICULO 153.
 
@@ -1839,11 +2019,9 @@ El Gobierno del Estado, a través del Organismo a que se refiere la Ley de Asist
 
 El Organismo en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con discapacidad.
 
-## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
+## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO VII. Prostitución
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO VI. Agua Potable y Alcantarillado
 
 ###### ARTICULO 158.
 
@@ -1867,7 +2045,9 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
+### CAPITULO VII. Prostitución
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 160.
 
@@ -1891,13 +2071,13 @@ III. La prevención del tabaquismo, haciendo énfasis en la infancia y la adoles
 
 IV. El tratamiento del tabaquismo.
 
+### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
+
 ### CAPITULO IX. Baños Públicos
 
+## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
+
 ### CAPITULO X. Centros de Reunión y Espectáculos
-
-## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
-
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
 
 ###### ARTICULO 162.
 
@@ -1949,7 +2129,7 @@ VI.- Número de cédula profesional, en su caso, del responsable sanitario.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
+### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
 
 ###### ARTICULO 169.
 
@@ -1967,7 +2147,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 Los establecimientos ubicados dentro de los mercados o centros de abasto, catalogados como de salubridad general, serán verificados por la autoridad sanitaria competente.
 
-### CAPITULO XIII. Establecimientos para el Hospedaje
+### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
 
 ###### ARTICULO 172.
 
@@ -2003,9 +2183,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
-
-ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
+### CAPITULO XIII. Establecimientos para el Hospedaje
 
 ###### ARTICULO 180.
 
@@ -2029,7 +2207,9 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
 
-### CAPITULO XV. Transporte Estatal y Municipal
+### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
+
+ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
 
 ###### ARTICULO 184.
 
@@ -2067,7 +2247,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
-### CAPITULO XVI. Prevención y Control de la Rabia en Animales
+### CAPITULO XV. Transporte Estatal y Municipal
 
 ###### ARTICULO 189.
 
@@ -2113,7 +2293,7 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños sean verti
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
-### CAPITULO XVII. De la Medicina Alternativa
+### CAPITULO XVI. Prevención y Control de la Rabia en Animales
 
 ###### ARTICULO 199.
 
@@ -2139,9 +2319,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La Autoridad Municipal en coordinación con el Organismo, determinarán los lugares en donde se permitirá el ejercicio de la prostitución, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO I. Autorizaciones
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO XVII. De la Medicina Alternativa
 
 ###### ARTICULO 205.
 
@@ -2161,7 +2339,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 122 de esta Ley.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -2173,7 +2351,9 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 El agua que se utilice en los baños públicos deberá ser potable y cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 211.
 
@@ -2183,7 +2363,7 @@ Para efectos de esta Ley, se entiende por centros de reunión y espectáculos, l
 
 El funcionamiento de los establecimientos a que se refiere el artículo anterior, deberá acatar a lo dispuesto por las disposiciones legales aplicables y contar con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 213.
 
@@ -2193,9 +2373,7 @@ Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza,
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO I
-
-Medidas de Seguridad Sanitaria.
+### CAPITULO UNICO
 
 ###### ARTICULO 215.
 
@@ -2211,7 +2389,9 @@ III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independi
 
 Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I
+
+Medidas de Seguridad Sanitaria.
 
 ###### ARTICULO 217.
 
@@ -2221,19 +2401,19 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 220.
 
 Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 221.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 222.
 
@@ -2267,9 +2447,13 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
+### CAPITULO V. Prescripción
+
 ###### ARTICULO 226.
 
 Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, medicina naturista, quiropráctica, herbolaria, acupuntura, terapias de sanción, terapia con electroimanes, intercambio iónico, aromaterapia, energía universal, flores de Bach y otros, estando sujetos al control y vigilancia sanitaria, y cumplir con las disposiciones de esta Ley.
+
+## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
 ###### ARTICULO 227.
 
@@ -2653,9 +2837,11 @@ Se sancionará con multa equivalente hasta mil veces el salario mínimo general 
 
 Se sancionará con multa equivalente de cien hasta cuatro mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación a las disposiciones contenidas en los Artículos 122, 123, 124, 125, 133, 166, 170, 173, 175, 177, 178, 179, 182, 183, 190, 198, 200, 201, 202, 207, 212, 213, 214, 220, 257 y 271 de esta Ley.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 280.
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículos 75, 100 y 103 de esta Ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículos 75,100, 103 y 139 duodecies de esta Ley.
 
 ###### ARTICULO 281.
 
@@ -2892,3 +3078,17 @@ P.O. 30 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo deberá emitir los reglamentos que sean necesarios para garantizar el ejercicio de los derechos que concede este Decreto, para lo que tendrá un plazo de 180 días naturales contados a partir de la entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En el Presupuesto de Egresos del Gobierno del Estado de Aguascalientes para el Ejercicio Fiscal del Año 2010, se deberán contemplar los recursos suficientes para dar pleno cumplimiento a la aplicación de los cuidados paliativos a los enfermos en etapa terminal, previstos en la presente Ley.
