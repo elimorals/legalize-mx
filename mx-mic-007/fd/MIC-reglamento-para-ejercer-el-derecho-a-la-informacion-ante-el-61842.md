@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-618
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-04"
-last_updated: "2008-07-04"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MIC"
 
 REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE APORO, MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE APORO, MICHOACAN, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el viernes 4 de julio de 2008.
 
@@ -242,3 +244,15 @@ Primero.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Segundo.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Comisionado Presidente de la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán de Ocampo, para su conocimiento y efectos legales conducentes.
 
 Aporo, Michoacán de Ocampo, a los 14 días del mes de Marzo del 2008 dos mil ocho;
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE JULIO DE 2009.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo.
+
+Segundo.- Se abroga el Reglamento de Acceso a la Información Pública publicado en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo el 4 de julio de 2008.
+
+Tercero.- Para el conocimiento ciudadano publíquese en los estrados del Palacio Municipal y en los lugares que el Ayuntamiento estime pertinente para su difusión.
+
+Cuarto.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán, para su conocimiento y efectos legales conducentes.
