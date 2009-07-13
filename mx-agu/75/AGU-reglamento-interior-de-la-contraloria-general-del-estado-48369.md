@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-contraloria-general-del-estado-48369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-30"
-last_updated: "2006-01-30"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2006.
 
@@ -386,3 +388,15 @@ Gobierno del Estado de Aguascalientes
 Contraloría General del Estado
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE JULIO DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Dentro de los quince días siguientes a la publicación del presente decreto, se realizara la entrega recepción de los recursos humanos y materiales por parte de la Dirección General Patrimonial y Contraloría Social, y Dirección General Jurídica, adscritos al Programa de Contraloría Social y de Declaraciones Patrimoniales a los titulares de las nueva áreas de adscripción.
+
+TERCERO.- La Coordinación Administrativa realizara los trámites necesarios para realizar el ajuste presupuestal con motivo de la nueva organización que se propone en el presente Reglamento.
+
+CUARTO.- El presente Reglamento deroga el Reglamento publicado en el Periódico Oficial del Estado el día treinta de enero del año dos mil seis.
