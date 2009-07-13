@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-los-patronatos-de-las-ferias-del-municipio-de-308
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-05"
-last_updated: "2003-05-05"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 REGLAMENTO DE LOS PATRONATOS DE LAS FERIAS DEL MUNICIPIO DE JESUS MARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de mayo de 2003.
 
@@ -78,13 +78,17 @@ Los bienes inmuebles que lleguen a adquirir los Patronatos de las Ferias previam
 
 ### CAPITULO II. De su Integración
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 9o.
 
 Los Patronatos se compondrán de un Presidente, un Secretario, un Tesorero y Cuatro Vocales.
 
-El Presidente, el Tesorero y el Secretario serán designados por el H. Ayuntamiento a propuesta del Presidente Municipal y todos ellos podrán ser removidos de sus cargos por quien los haya designado.
+El Presidente, el Tesorero y el Secretario serán designados por el H. Cabildo a propuesta del Presidente Municipal y todos ellos podrán ser removidos de sus cargos por quien los haya designado.
 
-Los Vocales serán designados, por la comunidad donde se requiere el Patronato y en caso de desacuerdo serán nombrados por quien designe el Presidente del Patronato. Los Vocales durarán tres años en su cargo.
+Los vocales serán designados por la comunidad donde se requiere el Patronato, y en caso de desacuerdo, serán nombrados por quien designe al Presidente del Patronato. Los Vocales durarán tres años en su cargo.
+
+Podrá designarse además por el H. Cabildo, a propuesta del Presidente Municipal, un Presidente Honorario para los Patronatos de las Ferias, según las circunstancias o las necesidades especiales del evento.
 
 ###### ARTICULO 10.
 
@@ -193,3 +197,9 @@ Si el Sistema para el Desarrollo Integral de la Familia de Jesús María llegare
 T R A N S I T O R I O:
 
 UNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE JULIO DE 2009.
+
+SEGUNDO.- La reforma aprobada entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
