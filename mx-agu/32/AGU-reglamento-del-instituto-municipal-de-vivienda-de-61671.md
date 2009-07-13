@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-municipal-de-vivienda-de-61671"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-23"
-last_updated: "2008-06-23"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE VIVIENDA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de junio de 2008.
 
@@ -347,7 +347,17 @@ XVIII.- Realizar los trámites de autorización y Municipalización de los fracc
 
 XIX.- Certificar las copias de actas y documentos que se encuentran en los archivos del organismo, cuya expedición sea autorizada por el Presidente de la Junta de Gobierno, siempre que el solicitante acredite tener un interés legítimo; y,
 
-XX.- Las demás que se deriven del presente Reglamento o le confiera la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+XX.- Presidir las sesiones y representar legalmente al Comité de Adquisiciones y enajenaciones; y, (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2009)</small>
+
+XXI.- Presidir las sesiones y representar legalmente al Comité Interno de Licitación de Obra Pública y Servicios Relacionados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2009)</small>
+
+XXII.- Las demás que se deriven del presente Reglamento o le confiera la Junta de Gobierno.
 
 El Director General durará en su encargo tres años, pudiendo ser reelecto por una ocasión más y, devengará el sueldo que señale el presupuesto anual del organismo.
 
@@ -455,7 +465,13 @@ IX.- Los asesores necesarios para cumplir con los objetivos del Instituto;
 
 X.- El Comité de Mejora Continua; y,
 
-XI.- El Comité de Adquisiciones y Enajenaciones.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+XI.- El Comité de Adquisiciones y Enajenaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2009)</small>
+
+XII.- El Comité Interno de Licitación de Obra Pública y Servicios Relacionados.
 
 Las direcciones de área contarán con las subdirecciones y coordinaciones señaladas en el presente Reglamento.
 
@@ -1025,7 +1041,11 @@ III.- Coordinar la ejecución de acciones tendientes a elevar el desarrollo huma
 
 IV.- En general realizar todo tipo de acciones que coadyuven al perfeccionamiento administrativo y operativo del Instituto.
 
-#### SECCION TERCERA. Del Comité de Adquisiciones
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE JULIO DE 2009)</small>
+
+#### SECCION TERCERA. Del Comité Interno de Licitación de Obra Pública y Servicios Relacionados y el Comité de Adquisiciones y Enajenaciones
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 65.
 
@@ -1033,23 +1053,69 @@ El Comité de Adquisiciones y Enajenaciones tiene por objeto llevar a cabo los p
 
 El Comité adjudicará los contratos que resulten de dichos procedimientos, en los términos establecidos en las normas de la materia.
 
+El Comité de Adquisiciones y Enajenaciones, además de las facultades establecidas en el Manual de Integración y Funcionamiento del mismo o por la Junta de Gobierno del Instituto, tendrá las siguientes atribuciones:
+
+A) En Materia Normativa:
+
+I. Aplicar políticas, sistemas, procedimientos y normas que regulen las adquisiciones, las cuales deberán plasmarse, analizarse y aprobarse por todos los miembros del Comité;
+
+II. Formular las normas, políticas y lineamientos en materia de adjudicaciones de los bienes muebles;
+
+III. Las demás que se deriven del presente Reglamento, le confiera la Junta de Gobierno y las que el Manual de Integración y Funcionamiento le confiera para cada materia en específico.
+
+B) En Materia de Control y Evaluación:
+
+I. Vigilar anualmente que el padrón de proveedores se encuentre debidamente integrado y actualizado;
+
+II. Aprobar los casos de cancelación de pedidos, rescisión de contratos por caso fortuito o fuerza mayor; el pago de indemnizaciones a los proveedores que en su caso se consideren procedentes, previo dictamen emitido por este órgano, y aprobar las sanciones que correspondan a los proveedores que hayan incurrido en incumplimiento parcial o total de pedidos o contratos;
+
+III. Determinar y autorizar cuáles y cuántos serán los bienes y servicios a adquirir;
+
+IV. Emitir su resolución respecto de las mejores condiciones de calidad, servicio, precio, pago y tiempo de entrega, ofertadas por los proveedores para la adquisición, o arrendamiento de bienes y servicios;
+
+V. Las demás que se deriven del presente Reglamento, le confiera la Junta de Gobierno y las que el Manual de Integración y Funcionamiento le confiera para cada materia en específico.
+
+C) En materia de Licitaciones Públicas y Concursos por Invitación:
+
+I. Analizar y evaluar las propuestas técnicas y económicas presentadas en el procedimiento de adjudicación;
+
+II. Emitir el dictamen de adjudicación;
+
+III. Expedir las convocatorias, de acuerdo a lo establecido en el Manual de Integración y funcionamiento, aprobando los plazos de los actos de las licitaciones públicas y concursos por invitación;
+
+IV. Llevar a cabo las licitaciones públicas, adjudicando, en los términos de el Manual de Integración y funcionamiento, así como aquello que determine la Junta de Gobierno, los contratos y pedidos respectivos;
+
+V. Determinar la viabilidad de la cantidad y calidad de los bienes y servicios a adquirir;
+
+VI. Las demás que se deriven del presente Reglamento, le confiera la Junta de Gobierno y las que el Manual de integración y Funcionamiento le confiera para cada materia en específico.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 66.
 
 El Comité de Adquisiciones y Enajenaciones se integrará de la siguiente manera:
 
-I.- Un Presidente que será el Tesorero de la Junta;
+I.- Un Presidente que será el Director General del Instituto;
 
-II.- Un Secretario Ejecutivo, que será el titular de la Dirección Administrativa y Financiera;
+II.- Un Secretario Ejecutivo, que será el titular de la Dirección Administrativa y Financiera del Instituto;
 
-III.- Un representante de la Contraloría Municipal;
+III.- Un representante de la Secretaría de Finanzas Municipales;
 
-IV.- Síndico de Hacienda;
+IV.- Un representante de la Contraloría Municipal;
 
-V.- Presidente de la Comisión Hacienda del Cabildo;
+V.- Síndico de Hacienda;
 
-VI.- Dos vocales de la Junta designados por la misma.
+VI.- Regidor Presidente de la Comisión de Planeación Urbana y Rural;
 
-A juicio del comité podrán intervenir con voz y voto los titulares de las unidades administrativas del Instituto que soliciten la adquisición de los bienes o servicios correspondientes. Los miembros del comité tendrán derecho a voz y voto y el Presidente en caso de empate tendrá voto de calidad.
+VII.- Regidor Presidente de la Comisión de Obra Pública;
+
+VIII.- Regidor Presidente de la Comisión de Hacienda;
+
+IX.- Representante de la Cámara Nacional de Comercio, Servicios y Turismo de Aguascalientes.
+
+Por cada integrante propietario, se designará a dos suplentes y ambos cargos serán honoríficos de acuerdo a lo que señala la Ley Patrimonial del Estado de Aguascalientes.
+
+A juicio del comité podrán intervenir con voz y voto los titulares de las unidades administrativas del Instituto que soliciten la adquisición de los bienes o servicios correspondientes. Los miembros del comité tendrán derecho a voz y voto, con excepción del Secretario Ejecutivo y el representante de la Contraloría Municipal, quienes solo contarán con voz, pero sin voto; el Presidente en caso de empate tendrá voto de calidad.
 
 ###### ARTÍCULO 67.
 
@@ -1062,6 +1128,46 @@ Las decisiones se tomarán por mayoría de votos.
 ###### ARTÍCULO 68.
 
 El Comité de Adquisiciones sesionará las veces que sean necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTÍCULO 68 BIS.- El Comité Interno de Licitación de Obra Pública y Servicios Relacionados, tiene por objeto llevar a cabo los procedimientos de licitaciones públicas y concursos simplificados para la contratación de obra pública y servicios relacionados con la misma, que requiera el Instituto para el cumplimiento de su objeto.
+
+El Comité adjudicará los contratos que resulten de dichos procedimientos, en los términos establecidos en las normas de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTÍCULO 68 TER.- El Comité Interno de Licitación de Obra Pública y Servicios Relacionados se integrara de la siguiente manera:
+
+I. Un Presidente, que será el Titular del Instituto Municipal de Vivienda de Aguascalientes;
+
+II. Un Secretario Ejecutivo, qué será el Director Técnico del Instituto Municipal de Vivienda de Aguascalientes, como responsable de las licitaciones;
+
+III. Nueve Vocales, que serán:
+
+1. Titular de la Secretaría de Finanzas del Municipio;
+
+2. Regidor Presidente de la Comisión de Gobernación;
+
+3. Regidor Presidente de la Comisión de Obra Pública;
+
+4. Regidor Presidente de la Comisión de Planeación Urbana y Rural;
+
+5. Síndico de Hacienda;
+
+6. Un representante de la Cámara Mexicana de la Industria de la Construcción, Delegación Aguascalientes;
+
+7. Un representante del Colegio de Ingenieros Civiles de Aguascalientes, A.C.;
+
+8. Un representante del Colegio de Arquitectos de Aguascalientes, A.C.;
+
+9. Un representante de la Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda;
+
+IV. Un Comisario, que será nombrado por la Contraloría Municipal;
+
+Por cada integrante propietario, se designará a dos suplentes y ambos cargos serán honoríficos de acuerdo a lo que señala el propio Reglamento de la Materia.
+
+El Comité funcionara y sesionara las veces que sea necesario para el cumplimiento de su objeto y se sujetara a lo que señala en el Reglamento Interior del Comité Interno de Licitación de Obra Publica y Servicios Relacionados del Instituto Municipal de Vivienda de Aguascalientes.
 
 ### CAPITULO QUINTO
 
@@ -1142,3 +1248,21 @@ Por esta ocasión la integración de la Junta De gobierno se efectuará dentro d
 ###### ARTÍCULO CUARTO.
 
 Por esta ocasión la integración de la estructura administrativa del Instituto Municipal de Vivienda de Aguascalientes se integrará con personal de la Secretaría de Desarrollo Urbano Municipal. Dichas personas no recibirán retribución económica por los cargos que ocupen dentro del Instituto Municipal de Vivienda, y estarán en funciones hasta el 31 de Diciembre del dos mil ocho, o hasta que la Junta de Gobierno lo determine.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+El Comité de Adquisiciones y enajenaciones deberá ser integrado a más tardar a los 15 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+El secretario ejecutivo de dicho Comité deberá realizar la convocatoria correspondiente para el cumplimiento del presente artículo transitorio.
+
+###### ARTÍCULO TERCERO.
+
+El Comité Interno de Licitación de Obra Pública y Servicios relacionados deberá ser integrado a más tardar a los 15 días hábiles posteriores a la entrada en vigor del presente Decreto.
