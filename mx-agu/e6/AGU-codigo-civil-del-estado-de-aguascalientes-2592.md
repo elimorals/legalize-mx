@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2009-04-06"
+last_updated: "2009-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1307,7 +1307,7 @@ III.- Que uno de los cónyuges realice actos de violencia familiar contra el otr
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-En todo cambio de domicilio será necesario el consentimiento de ambos, si no existiere acuerdo, el Juez de lo Familiar correspondiente procurará avenirlos y si no lo lograse, resolverá lo que fuere más conveniente.
+En todo cambio de domicilio será necesario el consentimiento de ambos, si no existiere acuerdo, el Juez de lo Familiar correspondiente procurará avenirlos y si no lo lograse, resolverá lo que fuere más convenientee.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
 
@@ -12441,11 +12441,11 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 2266.
 
-El interés legal es del nueve por ciento anual. El interés convencional es el que fijen los contratantes y puede ser menor al interés legal, pero no podrá exceder en más de un diez por ciento a la tasa de interés más alta para instrumentos bancarios de tipo crediticio que estén vigentes en el mes inmediato anterior al día en que se pacte la obligación. En caso de exceder la tasa de interés convencional, el Juez de oficio, deberá desminuirla hasta establecerla dentro de los límites del presente artículo.
+El interés legal es del nueve por ciento anual. El interés convencional es el que fijen los contratantes y puede ser menor al interés legal, pero no podrá exceder de treinta y siete por ciento anual. En caso de exceder la tasa del interés convencional, el Juez de oficio, deberá disminuirla hasta establecerla dentro de los límites del presente Artículo.
 
 ###### Artículo 2267.
 
@@ -16338,3 +16338,9 @@ P.O. 6 DE ABRIL DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
