@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-investigaciones-22438"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-27"
-last_updated: "2001-08-27"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE LOS ORGANOS AUXILIARES DEL CONGRESO DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 27 de agosto de 2001.
 
@@ -614,3 +616,23 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Dentro de los 90 días siguientes a la entrada en vigencia de este Decreto, el Instituto de Investigaciones Legislativas adecuará su estructura a lo establecido en el mismo.
+
+###### ARTICULO TERCERO.
+
+La integración de la Contraloría Interna se hará en cuanto exista la disposición presupuestal correspondiente.
+
+###### ARTICULO CUARTO.
+
+· Se abroga el Reglamento del Instituto de Investigaciones Legislativas del Estado de Aguascalientes publicado en el Periódico Oficial del Estado, Tomo LXIV, Número 35, de fecha 27 de agosto del año 2001.
