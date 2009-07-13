@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-estatal-electoral-de-35805"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-12"
-last_updated: "2007-01-15"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2004.
 
@@ -951,3 +953,9 @@ SEGUNDO. El presente Acuerdo entrará en vigor a partir del día siguiente de su
 TERCERO. Notifíquese el presente Acuerdo en términos de lo establecido por los Artículos 268 Fracción III, 271 y 273 del Código Electoral vigente en el Estado.
 
 CUARTO. Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JULIO DE 2009.
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su aprobación.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Estatal Electoral, publicado en fecha 12 de enero de 2004 en el Periódico Oficial del Estado de Aguascalientes.
