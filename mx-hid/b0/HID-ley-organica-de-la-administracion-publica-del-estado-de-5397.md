@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2009-03-02"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -821,9 +821,9 @@ XXV.- Planear y desarrollar la instalación de parques y zonas industriales, la 
 
 XXVI.- Realizar estudios y propuestas para la modernización y fortalecimiento de la infraestructura productiva de la entidad;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-XXVII.- Instrumentar y coordinar la aplicación de programas de capacitación para el desarrollo directivo empresarial;
+XXVII.- Instrumentar y coordinar la aplicación de Programas de Capacitación para el Desarrollo Directivo Empresarial, así como el Sistema Estatal de Empleo;
 
 XXVIII.- (DEROGADA, P.O. 13 DE OCTUBRE DE 2008)
 
@@ -1235,7 +1235,7 @@ IV.- Promover el desarrollo de la capacitación y el adiestramiento en y para el
 
 V.- Visitar los centros de trabajo para constatar que se cumplan con las condiciones que establece la Ley Federal del Trabajo y normas que de ella se deriven;
 
-VI.- Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
+VI.- (DEROGADA, P.O. 13 DE JULIO DE 2009)
 
 VII.- Apoyar y fomentar relaciones con asociaciones obrero patronales del Estado, procurando la conciliación de sus intereses;
 
@@ -1460,3 +1460,9 @@ Todos los asuntos de la Dirección General de Seguridad Pública y Tránsito del
 P.O. 2 DE MARZO DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente, al de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
