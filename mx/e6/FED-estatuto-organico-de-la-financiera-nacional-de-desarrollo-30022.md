@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2009-06-19"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JULIO DE 2009.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -473,6 +473,26 @@ XV. Llevar a cabo las demás actividades que dentro del ámbito de su competenci
 
 XVI. Dirigir las actividades que propicien la generación de vínculos estratégicos, de cooperación e intercambio de información, experiencias y tecnología con entidades nacionales e internacionales.
 
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 23 BIS.- Corresponde a la Dirección Ejecutiva Jurídica:
+
+I. Dirigir la ejecución de las políticas y estrategias tendientes a que los procesos jurídicos se apeguen a la legalidad;
+
+II. Dirigir la implementación de estrategias y políticas para la representación y defensa en materia contenciosa de la Financiera ante las instancias judiciales y administrativas, a fin de proteger sus intereses jurídicos y patrimoniales;
+
+III. Dirigir la implementación de estrategias para la compilación y divulgación de la legislación relacionada al funcionamiento de la Financiera;
+
+IV. Dirigir la ejecución de los trámites realizados por la Financiera ante fedatario público para la protocolización, cotejo y certificación de documentos, formalización y revocación de poderes que otorga la Financiera;
+
+V. Coadyuvar en la coordinación técnica dirigida a las gerencias jurídicas de las Coordinaciones Regionales, así como el apoyo jurídico a las unidades administrativas de la Financiera;
+
+VI. Coadyuvar con la Dirección General Adjunta Técnica y de Instrumentación Legal en las funciones derivadas de la fracción VIII del artículo 23 de este Estatuto;
+
+VII. Supervisar la implementación de acciones para la administración del riesgo legal de la Financiera; y
+
+VIII. Las demás que dentro del área de su competencia, se deriven de las disposiciones aplicables, así como aquellas que le encomiende el titular de la Dirección General Adjunta Técnica y de Instrumentación Legal.
+
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 24.
@@ -491,9 +511,9 @@ IV. Fungir como titular de la unidad de consultas y reclamaciones de usuarios de
 
 V. Proponer modificaciones a los lineamientos para la contratación de servicios de abogados externos para la defensa de los intereses de la Financiera Rural, que contemplen entre otras cosas, la autorización del pago de honorarios por servicios brindados por despachos externos y la aprobación de los gastos judiciales de la Financiera Rural, y
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2009)</small>
 
-VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Técnico y de Instrumentación Legal.
+VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director Ejecutivo Jurídico.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -517,9 +537,9 @@ VII. Proporcionar el apoyo jurídico y asesoría al Consejo, así como a las div
 
 VIII. Coordinar las acciones jurídico corporativas y ser el conducto de la Financiera para rendir los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México, y
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2009)</small>
 
-IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Técnico y de Instrumentación Legal.
+IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director Ejecutivo Jurídico.
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
 
@@ -2062,5 +2082,9 @@ D.O.F. 17 DE ABRIL DE 2009.
 UNICO.- La presente reforma al Estatuto deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 19 DE JUNIO DE 2009.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE JULIO DE 2009.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
