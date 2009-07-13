@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2009-06-19"
+last_updated: "2009-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -569,13 +569,13 @@ Las indemnizaciones y sanciones pecuniarias a que se refiere la Fracción IV del
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación y remoción en su caso.
+Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al titular del órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación y remoción en su caso.
 
-El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones I, III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Procurador General de Justicia, deberá de reunir los siguientes:
+El Auditor Superior de fiscalización, además de los requisitos previstos en las Fracciones I, III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y procurador General de Justicia, deberá de reunir los siguientes:
 
 I. Contar el (sic) día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
 
-II. Contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
+II. Contar con experiencia de cinco anos en materia de control, auditoría financiera y de responsabilidades.
 
 III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal.
 
@@ -755,17 +755,27 @@ III.- Tener cuando menos treinta años cumplidos al día de la elección.
 
 No puede ser Gobernador:
 
-I.- El que pertenezca al estado eclesiástico o sea ministro de algún culto;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-II.- El que haya sido condenado por delito intencional, con pena privativa de la libertad; y
+I. El ministro de culto religioso, salvo que dejare de ser ministro de culto con la anticipación y en la forma que establece la Ley Reglamentaria del Artículo 130 de la Constitución General de la República;
 
-III.- El que haya desempeñado con anterioridad ese cargo por elección popular.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión; durante la extinción de una pena corporal; y por resolución o sentencia ejecutoria que imponga como pena la suspensión de los derechos o prerrogativas de los ciudadanos;
 
-###### Articulo 39.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-No pueden ser electos como Gobernador, los servidores públicos sea cual fuere el origen de su designación, a menos que se separen de sus cargos 90 días antes de la elección.
+III. El que haya desempeñado con anterioridad ese cargo por elección popular; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2009)</small>
+
+IV. El servidor público sea cual fuere el origen de su designación a menos que se separe de su cargo 90 días antes de la elección.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+###### Artículo 39.
+
+El ciudadano que hubiere ocupado el cargo de Gobernador Provisional o Interino, o aquél que bajo cualquier denominación supla las faltas temporales del Gobernador; así como el ciudadano que con el carácter de Gobernador Sustituto supla la falta definitiva del Gobernador, no podrá ser electo o designado como Gobernador en cualquiera de sus formas, si no han trascurrido dos años de que cesó en sus funciones.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -789,7 +799,9 @@ En caso de falta absoluta de Gobernador, ocurrida dentro de los dos primeros añ
 
 Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones al Congreso para que éste, a su vez, designe Gobernador Interino y expida la convocatoria a elecciones extraordinarias en los términos del párrafo anterior.
 
-Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Congreso, si se encontrare en sesiones, designará con las formalidades que establece este artículo, al Gobernador Substituto que deberá concluír el período; si estuviere en receso, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso para que, erigido en Colegio Electoral, haga la elección de Gobernador Substituto.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Congreso, si se encontrare en sesiones, designará con las formalidades que establece este Artículo, al Gobernador Sustituto que deberá concluir el período; si estuviere en receso, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso a período extraordinario de sesiones para que el Pleno haga la designación de Gobernador Sustituto.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1405,7 +1417,7 @@ La Capital del Estado es la ciudad de Aguascalientes, y en ella deben radicar lo
 
 ###### Artículo 84.
 
-Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular de Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes.
+Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular del Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1425,7 +1437,7 @@ Los servidores públicos de elección popular que sin causa justificada, o sin l
 
 ###### Artículo 87.
 
-Los servidores público que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
+Los servidores públicos que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1815,7 +1827,7 @@ Las presentes reformas y adiciones entrarán en vigor el día siguiente de su pu
 
 P.O. 13 DE OCTUBRE DE 1991.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 1 DE MARZO DE 1992.
 
@@ -2196,3 +2208,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Por única ocasión, los Consejeros Electorales que asuman su cargo el día 14 de marzo de 2010, durarán en el cargo cuatro años, concluyendo su función el día 13 de marzo del año 2014.
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Intégrese el expediente respectivo y túrnese a todos y cada uno de los Ayuntamientos del Estado, para los efectos de lo dispuesto en el Artículo 94 de la Constitución Política local y Artículo 155 de la Ley Orgánica del Poder Legislativo.
