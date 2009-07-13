@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2009-06-08"
+last_updated: "2009-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -253,13 +253,37 @@ XXX. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer e
 
 El Presidente Municipal es el ejecutor de las determinaciones del H. Ayuntamiento y el encargado de realizar la administración del Municipio, con base en los criterios y políticas establecidas por el H. Ayuntamiento, así como las demás atribuciones que le concede la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, y la Ley que en materia municipal expida el Poder Legislativo del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 17.
 
 Los Síndicos, por sus funciones se clasifican en Síndico Procurador y Síndico de Hacienda; el primero representa al Municipio legalmente, procura y defiende los intereses municipales; el segundo se encarga de vigilar las finanzas del Municipio, conjuntamente con el Regidor de la Comisión de Hacienda.
 
 Los Síndicos deberán rendir un informe mensual sobre el estado que guardan las áreas a su cargo, los cuales deberán entregarse al Secretario del H. Ayuntamiento a más tardar al inicio de cada sesión ordinaria.
 
-En caso de incumplimiento a lo dispuesto en el párrafo anterior, se sancionará de conformidad con lo dispuesto en el Artículo 67 fracción I de este ordenamiento.
+En caso de incumplimiento a lo dispuesto en el párrafo anterior, se sancionará de conformidad con lo dispuesto en el artículo 67 fracción I de este ordenamiento.
+
+Con el fin de que el Síndico Procurador cumpla con la procuración, defensa, promoción y representación jurídica en los litigios en que el Municipio fuere parte y con el objeto de salvaguardar los intereses municipales, el H. Ayuntamiento, en apego a lo dispuesto por el artículo 36, fracción IX, de la Ley Municipal para el Estado de Aguascalientes, podrá nombrar, a solicitud del Síndico Procurador, a aquellos servidores públicos que le auxilien en dichas funciones.
+
+El nombramiento citado en el párrafo anterior, tendrá los efectos de un poder para pleitos y cobranzas, mismo que, de manera enunciativa y no limitativa, otorgará las siguientes facultades:
+
+I. Para intentar y desistirse de toda clase de procedimientos, incluyendo al Juicio de Amparo.
+
+II. Para transigir.
+
+III. Para comprometer en árbitros.
+
+IV. Para recusar.
+
+V. Para presentar denuncias y querellas en materia penal y para desistirse de ellas, cuando lo permita la Ley, así como otorgar el perdón cuando proceda y (sic) poder judicial cuando lo estime conveniente.
+
+VI. Para coadyuvar con el Ministerio Público y exigir la reparación del daño que corresponda.
+
+VII. Para absolver y articular posiciones.
+
+VIII. Para otorgar nombramientos y la representación social, legal y patronal en asuntos laborales, con toda la amplitud.
+
+Dicho nombramiento tendrá cabal validez ante particulares y ante toda clase de autoridades administrativas o judiciales, inclusive de carácter federal o local y ante las Juntas de Conciliación y Arbitraje, locales o federales y autoridades del trabajo.
 
 ###### ARTÍCULO 18.
 
@@ -1121,49 +1145,51 @@ Departamento de Cuenta Pública.
 
 Departamento de Administración y Deuda Pública.
 
+> <small>(REFORMADA, P.O 13 DE JULIO DE 2009)</small>
+
 XI.- SECRETARÍA DE OBRAS PÚBLICAS
 
-Departamento de Atención Ciudadana.
+Jefatura de Departamento de Atención Ciudadana.
 
 Coordinación Jurídica.
 
 Dirección de Calidad y Fallas Geológicas.
 
-Departamento de Calidad.
+Jefatura de Departamento de Calidad.
 
-Departamento de Fallas Geológicas.
+Jefatura de Departamento de Fallas Geológicas.
 
-Dirección de Proyectos:
+Dirección de Proyectos.
 
-Departamento de Proyectos.
+Jefatura de Departamento de Proyectos.
 
-Departamento de Expedientes Técnicos y Costos.
+Jefatura de Departamento de Expedientes Técnicos y Costos.
 
-Dirección de Construcción y Conservación de Obras Públicas:
+Dirección de Construcción y Conservación de Obras Públicas.
 
-Departamento de Construcción.
+Jefatura de Departamento de Construcción.
 
-Departamento de Parque de Maquinaria y Almacén.
+Jefatura de Departamento de Parque de Maquinaria y Almacén.
 
-Departamento de Conservación y Mantenimiento.
+Jefatura de Departamento de Conservación y Mantenimiento.
 
-Dirección de Supervisión, Licitación y Contratos:
+Dirección de Supervisión, Licitación y Contratos.
 
-Departamento de Supervisión.
+Jefatura de Departamento de Supervisión.
 
-Departamento de Licitación y Contratos.
+Jefatura de Departamento de Licitación y Contratos.
 
-Dirección Administrativa:
+Dirección Administrativa.
 
-Departamento de Administración y Finanzas.
+Jefatura de Departamento de Administración y Finanzas.
 
-Departamento de Compras.
+Jefatura de Departamento de Compras.
 
-Dirección de Vivienda.
+Dirección de Infraestructura Vial y Programas Especiales.
 
-Departamento de Planeación y Programación.
+Jefatura de Departamento de Infraestructura Vial y Planeación.
 
-Departamento de Edificación y Urbanización.
+Jefatura de Departamento de Edificación y Programas Especiales.
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1863,7 +1889,7 @@ XXXVIII. Analizar, diseñar, adecuar y proponer la estructura orgánica municipa
 
 XXXIX. Definir y establecer a las dependencias, los mecanismos de elaboración, implementación y actualización de los Manuales de Organización definidos por la Secretaría de Administración, que deberán realizar las dependencias.
 
-XL. Definir los mecanismos de elaboración, actualización, simplificación e implementación de trámites y procesos de servicios públicos de la administración pública municipal, sometiendo a consideración, las reformas o adiciones y en su caso la abrogación de las disposiciones jurídico administrativas en las que se sustentan los mismos.
+XL. Definir los mecanismos de elaboración, actualización, simplificación e implementación de trámites y procesos de servicios públicos de la administración pública municipal, sometiendo a consideración, las reformas o adiciones y en su caso la abrogación de las disposiciones jurídico-administrativas en las que se sustentan los mismos.
 
 XLI. Diseñar, elaborar y mantener actualizada, con base en la información que emitan las dependencias, la Guía de Trámites de Servicios Públicos de la administración pública municipal.
 
@@ -18864,3 +18890,27 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes deberá quedar conformado, a más tardar, a los quince días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 13 DE JULIO DE 2009.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCION XI DEL ARTICULO 98 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JULIO DE 2009.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 17 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se ratifica el acuerdo del H. Cabildo del Municipio de Aguascalientes del 07 de enero de 2008 en el que se designó al Síndico Procurador y al Síndico de Hacienda.
+
+###### ARTÍCULO TERCERO.
+
+Se ratifican todos los actos jurídicos y contratos firmados por el Síndico Procurador del H. Ayuntamiento del Municipio de Aguascalientes del periodo constitucional 2008-2010.
