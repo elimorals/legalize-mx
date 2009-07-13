@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2009-04-06"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -293,9 +293,13 @@ Las Salas sesionarán en pleno, los días y en horario que establezca el Reglame
 
 Las Salas calificarán las excusas e impedimentos de los Magistrados que las integran.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 20.
 
-Los presidentes de las Salas tendrán las atribuciones siguientes:
+Los presidentes de las Salas tendrán las obligaciones siguientes:
 
 I.- Llevar la correspondencia de la Sala;
 
@@ -303,9 +307,41 @@ II.- Distribuir por riguroso turno los negocios entre él y los demás miembros 
 
 III.- Presidir el Pleno de la Sala;
 
-IV.- Dirigir la discusión de los asuntos sometidos al conocimiento de la Sala y ponerlas a votación al concluir el debate; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Vigilar que los servidores públicos de la Sala cumplan con sus deberes.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+IV.- Convocar a sesiones;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+V.- Vigilar que se preserve el orden durante las sesiones;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+VI.- Dirigir la discusión de los asuntos sometidos a consideración de la Sala, previa exposición del proyecto a cargo del Magistrado ponente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+VII.- Poner a votación los asuntos al concluir el debate;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+VIII.- Firmar las actas de las sesiones de manera conjunta con los demás integrantes de la Sala, ante la fe del Secretario de Acuerdos; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+
+IX.- Rendir al Presidente del Supremo Tribunal de Justicia, un informe mensual respecto al número de sesiones celebradas, de asuntos resueltos y asuntos en trámite.
 
 ### CAPITULO VI. De los Servidores Públicos del Supremo Tribunal de Justicia
 
@@ -1560,3 +1596,13 @@ P.O. 6 DE ABRIL DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia a los noventa días de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Supremo Tribunal de Justicia deberá expedir su Reglamento Interior antes de la entrada en vigencia del presente Decreto.
