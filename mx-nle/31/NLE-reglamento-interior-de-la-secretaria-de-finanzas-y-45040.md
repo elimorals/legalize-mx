@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-finanzas-y-45040"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-25"
-last_updated: "2007-12-03"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de mayo de 2005
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de mayo de 2005.
 
 JOSÉ NATIVIDAD GONZÁLEZ PARÁS, Gobernador Constitucional del Estado Libre y Soberano de Nuevo León, en ejercicio de las facultades que me confieren los artículos 81, 85 fracción X, 87, 88, 135 y 139 de la Constitución Política del Estado de Nuevo león, así como los artículos 2, 3, 4, 5, 8, 9, 15, 16, 17, 18, fracción IV, 24 y demás relativos de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, y
 
@@ -479,9 +479,9 @@ VII. Hacer efectivas las garantías que se otorguen a favor del Gobierno del Est
 
 VIII. Rematar los bienes decomisados, abandonados y embargados dentro del procedimiento administrativo de ejecución; así como enajenar fuera de remate dichos bienes a favor del Gobierno del Estado, incluyendo la adjudicación al fisco estatal, en los términos de las disposiciones legales;
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-IX. Determinar los accesorios de las multas impuestas por las autoridades administrativas no fiscales, así como su actualización; liquidar las contribuciones estatales y federales coordinadas, los aprovechamientos, los productos y cualquier crédito fiscal, cuya omisión se hubiere determinado con motivo del ejercicio de sus facultades.
+IX.- Determinar los accesorios de las multas impuestas por las autoridades administrativas no fiscales, así como su actualización; liquidar las contribuciones estatales, municipales y federales coordinadas, los aprovechamientos, los productos y cualquier crédito fiscal, cuya omisión se hubiere determinado con motivo del ejercicio de sus facultades; o que se generen con la aplicación de Leyes o Decretos Federales, Estatales y Municipales.
 
 #### SECCIÓN QUINTA. DE LA DIRECCIÓN DE FISCALIZACIÓN
 
@@ -728,3 +728,7 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 P.O. 3 DE DICIEMBRE DE 2007.
 
 UNICO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2009.
+
+ÚNICO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
