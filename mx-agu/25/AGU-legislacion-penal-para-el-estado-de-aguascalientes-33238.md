@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-06-01"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -703,11 +703,15 @@ La valoración que se haga de la afectación patrimonial tomará en consideraci�
 
 La Usura consiste en:
 
-I. Obtener para sí o para otro, al celebrar un acto jurídico de carácter económico independientemente de su naturaleza, un interés convencional evidente o encubierto, que exceda en más de diez por ciento a la tasa de interés más alta para instrumentos bancarios de tipo crediticio que estén vigentes en el mes inmediato anterior al día en que se pacte la obligación; o bien
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-II. Obtener del deudor o sus garantes, al celebrar un acto jurídico accesorio derivado del negocio principal, un interés evidente o encubierto, que por sí o sumando al principal resulte superior en más de diez por ciento a la tasa de interés más alta para instrumentos bancarios de tipo crediticio que estén vigentes en el mes inmediato anterior al día en que se pacte la obligación.
+I. Obtener para sí o para otro, al celebrar un acto jurídico de carácter económico, independientemente de su naturaleza, un interés convencional evidente o encubierto, que exceda a un treinta y siete por ciento anual; o bien
 
-AL responsable del delito de usura se le aplicarán de 2 a 8 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+
+II. Obtener del deudor o sus garantes, al celebrar un acto jurídico accesorio derivado del negocio principal, un interés evidente o encubierto, que por sí o sumado al principal exceda a un treinta y siete por ciento anual.
+
+Al responsable del delito de usura se le aplicarán de 2 a 8 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
@@ -5586,3 +5590,9 @@ P.O. 1 DE JUNIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
