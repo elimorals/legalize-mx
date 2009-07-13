@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-contaduria-mayor-de-hacienda-de-la-13158"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-27"
-last_updated: "2007-02-02"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13158&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-01-15"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE JULIO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el 27 de enero de 1999 y republicada el 8 de febrero de 1999.
 
@@ -54,57 +54,77 @@ Para los efectos de esta Ley, salvo mención expresa, se entenderá por:
 
 I. Asamblea: La Asamblea Legislativa del Distrito Federal;
 
-II. Contaduría: La Contaduría Mayor de Hacienda la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-III. Comisión: La Comisión de Vigilancia de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
+II. Autonomía de Gestión: La atribución para decidir libremente sobre la administración, manejo, custodia y aplicación de los recursos públicos autorizados para la ejecución de los objetivos conferidos;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-IV. Contador Mayor. El Titular de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
+III. Autonomía Técnica: Atribución para desempeñar con eficacia y alto rigor técnico el cometido institucional, con independencia para emitir mandatos expresos y suficientemente amplios en el adecuado cumplimiento de sus funciones;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-V. Contraloría: La Contraloría General del Distrito Federal;
+IV. Contaduría: La Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, entidad de fiscalización del Distrito Federal;
 
-VI. Código: Código Financiero del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-VII. Cuenta Pública: Informe de la gestión financiera, presupuestaria, administrativa y legal de la Administración Pública del Distrito Federal, durante un ejercicio fiscal;
+V. Comisión: La Comisión de Vigilancia de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-VIII. Sujetos de fiscalización:
+VI. Contador Mayor: El Titular de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
 
-a. La Administración Pública del Distrito Federal como se establece en el Título Quinto del Estatuto de Gobierno y en la Ley Orgánica de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-b. Los Órganos Autónomos. Los órganos autónomos señalados en el Código; y (sic)
+VII. Contraloría: Órgano de Control Interno del sujeto de fiscalización;
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-c) Cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos del Distrito Federal, y
+VIII. Código: Código Financiero del Distrito Federal;
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2009)</small>
 
-d) Los mandatarios, fiduciarios o cualquier otra figura análoga, así como el mandato o fideicomiso público o privado que administre, cuando haya recibido por cualquier título, recursos públicos.
+IX. Cuenta Pública: Informe sobre la gestión financiera, presupuestaria, administrativa y legal que los Sujetos de Fiscalización, rinden de manera consolidada, a través del Ejecutivo, a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos públicos, durante un ejercicio fiscal, se ejercieron en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios y con base en los programas aprobados;
 
-IX. (DEROGADA, G.O. 13 DE ENERO DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2009)</small>
 
-X. (DEROGADA, G.O. 13 DE ENERO DE 2004)
+X. Sujetos de fiscalización:
 
-XI. Ley: Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
+a. La Administración Pública del Distrito Federal como se establece en el Titulo Quinto del Estatuto de Gobierno y en la Ley Orgánica de la Administración Pública del Distrito Federal;
 
-XII. Reglamento: Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal; y
+b. Los órganos autónomos señalados en el Código;
 
-XIII. Informe de Resultados: Informe de Resultados de la Revisión de la Cuenta Pública, del Distrito Federal.
+c. Cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos del Distrito Federal; y
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+d. Los mandatarios, fiduciarios o cualquier otra figura análoga, así como el mandato o fideicomiso público o privado que administre, cuando haya recibido por cualquier título, recursos públicos;
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XI. Entidades: Los organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos en los que el Gobierno del Distrito Federal o las otras entidades mencionadas que integran la administración pública paraestatal, sean fideicomitentes;
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XII. Ley: Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XIII. Reglamento: Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2009)</small>
+
+XIV. Informe de Resultados: Informe de Resultados de la Revisión de la Cuenta Pública del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 3o.
 
-La revisión de la Cuenta Pública es facultad de la Asamblea, misma que ejerce a través de la Contaduría conforme a lo establecido en los artículos 122, Apartado C, Base Primera, Fracción V, inciso c); 74, fracción IV de la Constitución Política de los Estados Unidos Mexicanos; y 43 del Estatuto de Gobierno del Distrito Federal.
+La revisión de la Cuenta Pública es facultad de la Asamblea, misma que ejerce a través de la Contaduría conforme a lo establecido en los artículos 122, Apartado C, Base Primera, Fracción V, inciso c); 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos; y 43 del Estatuto de Gobierno del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+La Contaduría es la entidad de fiscalización del Distrito Federal, a través de la cual la Asamblea tiene a su cargo la fiscalización del ingreso y gasto público del Gobierno del Distrito Federal, así como su evaluación.
 
-La Contaduría es el órgano técnico de la Asamblea, que tiene a su cargo la fiscalización del ingreso y gasto públicos del Gobierno del Distrito Federal, así como su evaluación. En el desempeño de sus atribuciones, contará con autonomía técnica y de gestión y tendrá el carácter de autoridad administrativa, de conformidad con lo establecido en esta ley.
+La función fiscalizadora que realiza la Contaduría, se ejerce de manera posterior a la gestión financiera, tiene carácter externo y por lo tanto se lleva a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización interna de los Sujetos de Fiscalización.
+
+La Contaduría en el desempeño de sus atribuciones tendrá el carácter de autoridad administrativa, contará con personalidad jurídica, patrimonio propio y gozará de autonomía técnica y de gestión para decidir sobre su organización interna, funcionamiento, determinaciones y resoluciones; de conformidad con lo dispuesto por esta Ley y su Reglamento Interior.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -112,11 +132,11 @@ La Contaduría es el órgano técnico de la Asamblea, que tiene a su cargo la fi
 
 La Contaduría remitirá a la Asamblea por conducto de la Comisión el resultado de la Revisión de la Cuenta Pública, de las auditorías practicadas, y en su caso, de las irregularidades administrativas, deficiencias o hallazgos producto de las mismas.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 5o.
 
-Corresponde al Pleno de la Asamblea la expedición del Reglamento.
+Corresponde al Contador Mayor la expedición del Reglamento Interior de la Contaduría en el que se establecerán sus atribuciones, la de las unidades administrativas, las suplencias y ausencias de sus Titulares; salvaguardando la autonomía técnica y de gestión que constitucionalmente se le confiere a la Contaduría; debiendo ser publicado el Reglamento Interior en la Gaceta Oficial del Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -178,9 +198,11 @@ V. Conocer, evaluar y en su caso formular recomendaciones sobre los sistemas, m�
 
 VI. Realizar los trabajos técnicos necesarios para el cumplimiento de sus atribuciones, aplicando las normas y procedimientos contables, de evaluación y de auditoría;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-VII. Evaluar la eficacia en el alcance de los objetivos y metas de los programas así como la eficiencia en el uso de los recursos públicos. Emitir opinión sobre el informe de avance programático presupuestal y financiero, dentro de los 20 días siguientes a su presentación y entrega a la Contaduría;
+VII. Evaluar la eficiencia, eficacia, economía, transparencia y honradez en el alcance de los objetivos y metas de los programas, así como para satisfacer los objetivos a los que estén destinados los recursos públicos.
+
+Emitir opinión sobre el informe de avance programático presupuestal y financiero, dentro de los treinta días siguientes a su presentación y entrega a la Contaduría;
 
 VIII. Ordenar visitas, revisiones e inspecciones; practicar auditorías; solicitar informes; revisar libros, documentos, registros, sistemas y procedimientos para comprobar si la recaudación de los ingresos se ha realizado de conformidad con las leyes aplicables en la materia;
 
@@ -192,15 +214,17 @@ IX. Conforme a lo dispuesto en la fracción precedente, realizar la inspección 
 
 X. Requerir a los auditores externos de los sujetos de fiscalización, copias de los informes o dictámenes de las auditorías y revisiones por ellos practicadas y las aclaraciones, que en su caso, se estimen pertinentes;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE JULIO DE 2009)</small>
 
-XI. Establecer la coordinación con los sujetos de fiscalización para la estricta observancia y aplicación de las normas, sistemas, métodos, procedimientos de contabilidad y de archivo integral; así como de los documentos relativos al ingreso y el gasto público. También, considerar todos aquellos elementos que sustenten y justifiquen revisiones derivadas del análisis previo de la Cuenta Pública, así como de revisiones especiales que se estimen procedentes por mandato expreso del Pleno a través de la Comisión, para lo cual todas las revisiones que se determinen deberán incluirse en el Programa General de Auditorías que se sujetará a lo establecido en el manual de selección de auditorías sancionado por la propia Comisión.
+XI. Establecer la coordinación con los sujetos de fiscalización para la estricta observancia y aplicación de las normas, sistemas y métodos procedimientos de contabilidad y archivo integral; así como los documentos relativos al ingreso y gasto público. También, considerar todos aquellos elementos que sustenten y justifiquen revisiones derivadas del análisis previo de la Cuenta Pública, así como de revisiones especiales que se estimen procedentes por mandato expreso del Pleno a través de la Comisión, para lo cual todas las revisiones que se determinen deberán incluirse en el Programa General de Auditorías que se sujetará a lo establecido en el manual de selección de auditorías aprobado y expedido por el Contador Mayor.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 Para la implantación de su Programa General de Auditorías, la Contaduría deberá tomar en consideración las auditorías realizadas, o que se encuentren desarrollando por la Contraloría correspondientes al ejercicio fiscal de la cuenta pública de que se trate, a efecto de evitar duplicidad de esfuerzos y optimizar la aplicación de recursos;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XII. Solicitar, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con los sujetos de fiscalización, la información relacionada con la documentación justificativa y comprobatoria de la Cuenta Pública a efecto de realizar las compulsas correspondientes;
+XII. Solicitar, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con los sujetos de fiscalización, la información relacionada con la documentación justificativa y comprobatoria de la Cuenta Pública a efecto de realizar las compulsas y certificaciones correspondientes;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -212,17 +236,17 @@ XV. Interpretar esta Ley para efectos administrativos, y aclarar y resolver las 
 
 XVI. (DEROGADA, G.O. 13 DE ENERO DE 2004)
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XVII. Llevar a cabo, en forma adicional a su programa anual de trabajo, la práctica de visitas, inspecciones, revisiones, auditorías y evaluaciones a los sujetos de fiscalización comprendidos en la Cuenta Pública en revisión, cuando así lo ordene el Pleno de la Asamblea;
+XVII. Llevar a cabo, en forma adicional a su programa anual de trabajo, la práctica de visitas, inspecciones, evaluaciones, revisiones y auditorías especiales a los sujetos de fiscalización comprendidos en la Cuenta Pública en revisión, cuando así lo solicite el Pleno de la Asamblea, y exista causa justificada, viabilidad técnica y capacidad instalada para su atención;
 
 > <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
 
 XVIII. Vigilar que los sujetos de fiscalización, atiendan las observaciones y solventen las recomendaciones que se les formulen. Para lo cual llevará a cabo acciones para dar seguimiento puntual sobre las recomendaciones emitidas e informará a la Comisión sobre el avance de las acciones, así como de la atención de las recomendaciones; para ello elaborará y presentará a la Comisión, el Programa de Atención a Recomendaciones correspondiente, y
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XIX. Todas las demás que le correspondan de acuerdo con esta Ley, su Reglamento y las demás disposiciones que dicte la Asamblea.
+XIX. Todas las demás que le correspondan de acuerdo con esta Ley, su Reglamento y las demás disposiciones de orden público y observancia obligatoria.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -242,23 +266,31 @@ El mismo procedimiento se seguirá en el caso de las instituciones o personas qu
 
 La Contaduría se estructurará con:
 
-a) Un Contador Mayor que será la máxima autoridad, durará en el encargo cinco años improrrogables y salvo las causas previstas en el artículo 13 de esta Ley será inamovible durante el periodo para el cual fue elegido;
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2009)</small>
+
+a) Un Contador Mayor que será la máxima autoridad, y durará en su encargo siete años; el cual será inamovible durante el periodo para el cual fue elegido, salvo las causas previstas en el artículo 13 de esta Ley y las consideradas en la Ley Federal de Responsabilidades de los Servidores Públicos;
 
 b) Un Subcontador Mayor;
 
-c) El Secretario Técnico del Contador Mayor, quien durará en el encargo el período de la legislatura en la cual fue nombrado;
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2009)</small>
 
-d) Un Enlace Legislativo, quien durará en el encargo el período de la legislatura en la cual fue nombrado; y
+c) El Secretario Técnico de la Contaduría Mayor, quien durará en el encargo, el mismo período por el cual fue designado el Contador Mayor;
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2009)</small>
+
+d) Un Enlace Legislativo, quien durará en el encargo, el mismo período por el cual fue designado el Contador Mayor; y
 
 e) Las Direcciones y demás Unidades Administrativas que determine el Reglamento de esta Ley.
 
 La designación del Contador Mayor se sujetará al procedimiento siguiente:
 
-I. La Comisión emitirá una convocatoria pública a efecto de recibir durante los quince días naturales contados a partir de la fecha de publicación de la convocatoria, las solicitudes para ocupar el cargo de Contador Mayor;
+I. La Comisión emitirá una convocatoria pública a efecto de recibir durante los quince días naturales contados a partir de la fecha de publicación de la convocatoria, las solicitudes para ocupar el cargo de Contador Mayor.
 
 II. Concluido el plazo anterior y recibidas las solicitudes con los requisitos y documentos que señale la convocatoria, la Comisión, dentro de los cinco días naturales siguientes, procederá a la revisión y análisis de las mismas y publicará una lista que contenga los nombres de los candidatos seleccionados, como máximo veinte, que cumplan con los requisitos y que a juicio de la Comisión resulten idóneos por su experiencia profesional, capacidad y trayectoria para ocupar el cargo. Dentro de los diez días naturales siguientes a la publicación de la lista se les citará para una entrevista en donde entregarán un ensayo sobre un tema que señale la Comisión.
 
-III. Dentro de los tres días siguientes al término de las entrevistas de los candidatos, la Comisión remitirá al Pleno de la Asamblea, una terna para elegir al Contador Mayor, mismo que será designado por mayoría calificada de tres cuartas partes de los diputados presentes en el pleno.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+
+III. Dentro de los tres días siguientes a la conclusión de entrevistas de candidatos, la Comisión remitirá al Pleno de la Asamblea, una terna para elegir al Contador Mayor, quien será designado por mayoría calificada de las dos terceras partes de los diputados presentes en el pleno de la Asamblea.
 
 IV. En caso de que ninguno de los candidatos, de la terna propuesta a ocupar el cargo de Contador Mayor haya obtenido la votación necesaria, de la lista publicada, se integrará una terna dentro de los tres días naturales siguientes.
 
@@ -284,9 +316,9 @@ Para ser Contador Mayor y Subcontador Mayor es necesario satisfacer los siguient
 
 I. Ser mexicano en pleno ejercicio de sus derechos;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-II. Poseer título y cédula profesional, de nivel licenciatura en las áreas económico-administrativas o derecho y contar con experiencia comprobada de cuando menos 5 años en el ejercicio de su profesión anteriores a su designación; preferentemente en las áreas que comprendan programación, presupuesto, auditoría, control y evaluación, en la administración pública federal, estatal o del Distrito Federal;
+II. Poseer título y cédula profesional, de nivel licenciatura en áreas económico-administrativas o derecho y contar con experiencia comprobada de cuando menos cinco años en materia de control, auditoria financiera y de responsabilidades, en la administración pública federal, estatal o del Distrito Federal;
 
 III. Ser ciudadano probo y no haber sido condenado mediante sentencia ejecutoriada por delito intencional que amerite pena privativa de libertad, ni haber sido destituido o inhabilitado de la función pública;
 
@@ -354,9 +386,9 @@ VI. Por faltas graves a las normas que rigen el funcionamiento de la Contaduría
 
 En todos los casos las propuestas de remoción deberán estar debidamente fundadas y motivadas por parte de la Comisión. Se turnarán al Pleno de la Asamblea, la que resolverá lo conducente previa audiencia en la que el interesado haga valer sus defensas y derechos;
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2009)</small>
 
-Si se presentare alguna de las causales enunciadas en las fracciones precedentes durante el receso de la Asamblea, la Comisión de Gobierno, a propuesta de la Comisión, podrá suspender al Contador Mayor en el ejercicio de sus funciones, para que el Pleno de la Asamblea apruebe la remoción en forma definitiva en el siguiente período de sesiones.
+Si se presentare alguna de las causales enunciadas en las fracciones precedentes durante el receso de la Asamblea, la Comisión de Gobierno, a propuesta de las Comisiones Jurisdiccional y de Vigilancia de la Contaduría Mayor de Hacienda, podrán suspender al Contador Mayor en el ejercicio de sus funciones, para que el Pleno de la Asamblea, de conformidad con la Ley que establece el Procedimiento de Remoción de los Servidores Públicos que designa la Asamblea Legislativa del Distrito Federal y de los Titulares de los Órganos Político Administrativos del Distrito Federal, por la mayoría calificada que lo designo, apruebe su remoción en forma definitiva en el siguiente período ordinario de sesiones.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -378,69 +410,99 @@ d) El cumplimiento de los actos, convenios o contratos que afecten a los program
 
 III. Remitir copia de los comunicados respectivos a la comisión y, en general, realizar las investigaciones necesarias para el cabal cumplimiento de sus atribuciones;
 
-IV. (DEROGADA, G.O. 2 DE FEBRERO DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2009)</small>
 
-V. Notificar a los responsables sobre el fincamiento de responsabilidades en su contra;
+IV. Formular y Ejecutar Programa Anual de Trabajo de la Contaduría;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-VI. Ejecutar los programas de trabajo de la Contaduría, presentando ante la Comisión, para su opinión el Programa Anual de Actividades;
+V. Informar trimestralmente por escrito a la Comisión el avance y resultado del Programa Anual de Trabajo de la Contaduría;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-VII. Expedir el nombramiento de los auditores a la que se refiere el artículo 32 de este ordenamiento;
+VI. Asistir ante la Comisión, para la presentación del Programa General de Auditoria, del Informe de Resultados y de aquellos asuntos que previo acuerdo de la Comisión, sean considerados de carácter urgente y se tengan que desahogar de forma personal, fuera de dichos casos, todo asunto será recabado por el Enlace Legislativo, y desahogado por el equipo técnico que designe el Contador Mayor;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-VIII. Elaborar el Presupuesto Anual de la Contaduría y someterlo a la opinión de la Comisión;
+VII. Celebrar convenios de coordinación o colaboración con los Poderes de la Unión, Gobiernos estatales y municipales, así como, con los organismos internacionales que agrupen a entidades de fiscalización superior homólogas, con éstas directamente y con el sector privado;
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-IX. Informar a la Comisión trimestralmente sobre el origen y la aplicación del presupuesto de la Contaduría.
+VIII. Comisionar auditores en términos del artículo 32 de este ordenamiento;
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-X. Emitir trimestral y anualmente informes de gestión del período, que se remitirá a la Asamblea por conducto de la Comisión dentro de los treinta días siguientes al término del período que se refiere;
+IX. Nombrar al personal de la Contaduría;
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XI. Presentar a la Comisión, en un plazo no mayor de treinta días naturales contados a partir de que la Contaduría reciba la Cuenta Pública por parte de la Comisión, para su revisión y opinión el Programa General de Auditoría en los términos del artículo 19, fracción XII, de esta Ley.
+X. Elaborar el Presupuesto Anual de la Contaduría y presentarlo a la Comisión;
 
-La selección de las auditorías se llevará a cabo de conformidad con el manual que expida el Contador Mayor, el cual deberá ser sancionado por la Comisión;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+XI. Presentar trimestral y anualmente a la Comisión, un informe sobre el origen y la aplicación del presupuesto de la Contaduría;
 
-XII. Formular las recomendaciones preventivas, dictámenes técnicos correctivos y los pliegos de observaciones, así como proceder a su seguimiento hasta que se hayan atendido y desahogado en su totalidad, informando mensualmente de los avances a la Comisión;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+XII. Presentar trimestral y anualmente a la Asamblea, un informe de gestión del período, que se enviara por conducto de la Comisión dentro de los treinta días siguientes al término del período que se refiere;
 
-XIII. Emitir las normas técnicas y los manuales de procedimientos a que deban sujetarse las visitas, inspecciones, auditorías y evaluaciones que se ordenen, los que se actualizarán de acuerdo con los avances técnicos que en la materia se produzcan, los que deberán evaluarse por lo menos una vez al año para en su caso hacer las modificaciones y difundir su aplicación al interior de la Contaduría;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+XIII. Formular y presentar a la Comisión, en un plazo no mayor de treinta días naturales contados a partir de que la Contaduría reciba la Cuenta Pública por parte de la Comisión, el Programa General de Auditoria;
 
-XIV. Integrar las comisiones y subcomisiones de trabajo que sean necesarias para vigilar la calidad de las actividades sustantivas de la Contaduría.
+La selección de las auditorías se llevará a cabo de conformidad con el Manual que apruebe y expida el Contador Mayor;
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XV. Requerir a los sujetos de fiscalización la información que resulte necesaria para cumplir con sus objetivos;
+XIV. Formular las recomendaciones preventivas, dictámenes técnicos correctivos y los pliegos de observaciones, así como proceder a su seguimiento hasta que se hayan atendido y desahogado en su totalidad, informando trimestralmente de los avances a la Comisión;
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XVI. Presentar ante la Comisión para su revisión y aprobación:
+XV. Emitir las normas técnicas y los manuales de procedimientos a que deban sujetarse las visitas, inspecciones, auditorías y evaluaciones que se ordenen, los que se actualizarán de acuerdo con los avances técnicos que en la materia se produzcan, los que deberán evaluarse por lo menos una vez cada dos años para en su caso hacer las modificaciones y difundir su aplicación al interior de la Contaduría;
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XVI. Integrar las comisiones y subcomisiones de trabajo que sean necesarias para vigilar la calidad de las actividades sustantivas de la Contaduría;
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XVII. Requerir a los sujetos de fiscalización la información que resulte necesaria para cumplir con sus objetivos;
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XVIII. Aprobar y hacer del conocimiento de la Comisión:
 
 a) Las ampliaciones y reducciones líquidas presupuestales.
 
-b) Cualquier modificación al presupuesto autorizado que implique traspaso de recursos entre Capítulos del Clasificador por Objeto del Gasto.
+b) Modificaciones al presupuesto autorizado que implique traspaso de recursos entre Capítulos del Clasificador por Objeto del Gasto.
 
 c) Modificaciones presupuestales cuando se requiera adelantar la administración de recursos, según el calendario autorizado.
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+d) Ampliaciones líquidas al presupuesto autorizado, con recursos propios generados por rendimientos financieros y otros.
 
-XVII. Adscribir unidades o áreas administrativas al Subcontador Mayor o a otras unidades administrativas, y
+e) Reducciones líquidas de recursos, por el entero de remanentes y rendimientos financieros del Programa para la Fiscalización del Gasto Federalizado.
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+f) Traspasos de recursos presupuéstales entre capítulos del gasto, sin modificar el presupuesto total autorizado de la Contaduría;
 
-XVIII. En general, todas las que deriven de esta Ley, de su Reglamento y de las disposiciones generales y acuerdos que dicte la Asamblea.
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XIX. Adscribir unidades o áreas administrativas al Subcontador Mayor o a otras unidades administrativas;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XX. Solicitar a los Entes Públicos del Distrito Federal el auxilio que necesite para el ejercicio expedito de las funciones que la Ley y demás normas de orden público confieren a la Contaduría;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XXI. Aprobar el Programa General de Auditorías de la Contaduría;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XXII. Administrar los bienes y recursos a cargo de la Contaduría y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios de la entidad, sujetándose a lo dispuesto en el artículo 134 Constitucional y demás leyes en materia de patrimonio Público, así como gestionar la incorporación, destino y desincorporación de bienes inmuebles del dominio público del Distrito Federal, afectos a su servicio; y
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2009)</small>
+
+XXIII. En general, todas las que deriven de esta Ley, de su Reglamento y de las disposiciones generales y acuerdos que dicte la Asamblea.
 
 ###### Artículo 15.
 
@@ -474,69 +536,75 @@ Las funciones de control y evaluación del desempeño de la Contaduría las ejer
 
 ### CAPÍTULO CUARTO. DE LA COMISIÓN DE VIGILANCIA DE LA CONTADURÍA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE JULIO DE 2009)</small>
+
 ###### Artículo 19.
 
-Son atribuciones de la Comisión:
+Son atribuciones de la Comisión, sin perjuicio de la autonomía técnica y de gestión de la Contaduría las siguientes:
 
 I. Recibir de la Comisión de Gobierno de la Asamblea, la Cuenta Pública;
 
 II. Turnar la Cuenta Pública a la Contaduría para su revisión, así como a la Comisión de Presupuesto y Cuenta Pública, para su conocimiento;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-III. Ordenar a la Contaduría, cuando lo determine el Pleno de la Asamblea, la práctica de visitas, inspecciones, revisiones, auditorías y evaluaciones a los sujetos de fiscalización, mismas que deberán estar plenamente justificadas, considerando el monto a auditar y el impacto social;
+III. Solicitar a la Contaduría con relación a la Cuenta Pública en revisión, cuando lo determine el Pleno de la Asamblea informes o aclaraciones respecto de actividades de los sujetos de fiscalización, para lo cual la Contaduría podrá realizar la práctica de visitas, inspecciones, evaluaciones, revisiones y auditorías a los sujetos de fiscalización, mismas que deberán estar plenamente justificadas;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-IV. Presentar a la Comisión de Presupuesto y Cuenta Pública de la Asamblea, antes del 30 de septiembre siguiente de haber recibido la Cuenta Pública, el Informe Previo, cuyas principales observaciones estarán vinculadas con el Programa General de Auditoría;
+IV. Presentar a la Comisión de Presupuesto y Cuenta Pública de la Asamblea, antes del 30 de septiembre siguiente de haber recibido la Cuenta Pública, el Informe Previo, cuyas principales observaciones estarán vinculadas con el Programa General de Auditoría que presente el Contador Mayor;
 
-V. Revisar y emitir opinión respecto al presupuesto anual de la Contaduría, y presentarlo a la Asamblea para su aprobación;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+V. Presentar a la Asamblea el presupuesto anual de la Contaduría, para los efectos legales conducentes;
 
-VI. Revisar y aprobar, en su caso, el ejercicio del presupuesto anual, y revisar los informes indicados en el artículo 14 fracciones IX y X de este ordenamiento;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+VI. Proponer al Pleno de la Asamblea en los términos de esta Ley, los candidatos a Contador Mayor y la remoción del mismo cuando proceda en términos de Ley;
 
-VII. Proponer al Pleno de la Asamblea en los términos de esta Ley, los candidatos a Contador Mayor y la remoción del mismo cuando proceda en términos de Ley;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-VIII. Ser el conducto de comunicación entre la Asamblea y la Contaduría;
+VII. Ser el conducto de comunicación entre la Asamblea y la Contaduría y garantizar la debida coordinación entre ambos órganos;
 
-IX. Verificar que se realicen los estudios y proyectos de análisis y evaluación, y se ejecuten los mandatos aprobados por el Pleno de la Asamblea;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+VIII. Coordinar la realización de los estudios, proyectos de análisis y evaluación; y ejecución de los mandatos aprobados por el Pleno de la Asamblea;
 
-X. Vigilar que la Contaduría cumpla las funciones que le corresponden en los términos del Estatuto de Gobierno del Distrito Federal, del Código, de esta Ley, de su Reglamento, o de cualquier otra disposición o acuerdo que dicte la Asamblea, y en su caso, dictar las medidas que estime necesarias;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XI. (DEROGADA, G.O. 2 DE FEBRERO DE 2007)
+IX. Evaluar el cumplimiento de funciones de la Contaduría en términos del Estatuto de Gobierno del Distrito Federal, del Código, de esta Ley, de su Reglamento, o de cualquier otra disposición de orden público;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XII. Recibir de la Contaduría para su revisión y opinión el proyecto de programa general de auditorías; dicha opinión por parte de la Comisión no podrá exceder de quince días naturales a efecto de que se incorporen al Programa las observaciones, opiniones y recomendaciones hechas por la Comisión;
+X. Recibir de la Contaduría el Programa General de Auditorías;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2009)</small>
 
-XIII. Proponer al Pleno de la Asamblea la integración en su seno de subcomités para el análisis, revisión, autorización de los aspectos presupuestales, administrativos y financieros que se requieran, derivadas de las revisiones de la Contaduría;
+XI. Proponer al Pleno de la Asamblea la integración en su seno de subcomités para el análisis, revisión, autorización de los aspectos presupuestales, administrativos y financieros que se requieran, derivadas de las revisiones de la Contaduría;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XIV. Recibir de la Contaduría la opinión del Informe de avance programático presupuestal el cual será enviado a la Comisión de Presupuesto y Cuenta Publica, a la Secretaría de Finanzas y a la Contraloría;
+XII. Recibir de la Contaduría la opinión del Informe de Avance Programático Presupuestal el cual será enviado a la Comisión de Presupuesto y Cuenta Publica, a la Secretaría de Finanzas y a la Contraloría;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XV. Designar al Secretario Técnico de la Contaduría de acuerdo a las tres candidaturas presentadas por la propia Contaduría;
+XIII. Designar al Secretario Técnico de la Contaduría de acuerdo a las tres candidaturas presentadas por la propia Contaduría;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XVI. Designar al Enlace Legislativo en los términos del Reglamento;
+XIV. Designar al Enlace Legislativo en los términos del Reglamento;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XVII. Promover la difusión para el conocimiento ciudadano de los resultados de la Cuenta Pública, y
+XV. Promover la difusión para el conocimiento ciudadano de los resultados de la Cuenta Pública;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2009)</small>
 
-XVIII. Los demás que le confiera la Ley Orgánica de la Asamblea, esta Ley, y demás disposiciones Legales.
+XVI. Las demás que le confiera la Ley Orgánica de la Asamblea, está Ley, y demás disposiciones Legales.
+
+XVII. (DEROGADA, G.O. 13 DE JULIO DE 2009)
+
+XVIII. (DEROGADA, G.O. 13 DE JULIO DE 2009)
 
 ### CAPÍTULO QUINTO. DEL RÉGIMEN LABORAL DEL PERSONAL
 
@@ -546,11 +614,11 @@ XVIII. Los demás que le confiera la Ley Orgánica de la Asamblea, esta Ley, y d
 
 Las relaciones de trabajo entre la Contaduría y sus trabajadores, se regirán conforme a lo dispuesto por la fracción XIV del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 21.
 
-El personal de la Contaduría se integrará con trabajadores de confianza. La relación laboral se entiende establecida entre la Contaduría a través del Contador Mayor y los trabajadores para todos los efectos legales.
+El personal de la Contaduría se integrará con trabajadores de confianza. La relación laboral se entiende establecida entre la Contaduría a través del Contador Mayor y los trabajadores de confianza, así como con los trabajadores de base de la Contaduría, para todos los efectos legales.
 
 En los casos que se encuentre debidamente justificados, se podrá integrar personal eventual o de prestación de servicios profesionales a la práctica de auditorías.
 
@@ -858,6 +926,22 @@ La Contaduría deberá dar puntual seguimiento de los procesos promovidos ante l
 
 La Secretaría de Finanzas, la Contraloría, la Procuraduría Fiscal y la Procuraduría General de Justicia del Distrito Federal están obligadas a proporcionar la información pormenorizada del estado que guardan las acciones promovidas por la Contaduría.
 
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2009)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. GARANTÍA PRESUPUESTAL
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2009)</small>
+
+###### Artículo 50.
+
+Para satisfacer los requerimientos que implica el ejercicio de la función pública encomendada a la Contaduría, su presupuesto anual se determinará tomando como base minina el cero punto veintiséis por ciento del monto total de las asignaciones presupuestales previstas en el Decreto de Presupuesto de Egresos del Distrito Federal, del ejercicio fiscal para el que se autorizará el presupuesto de la Contaduría.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2009)</small>
+
+###### Artículo 51.
+
+Para implementar, operar y desarrollar el Servicio Civil de Carrera, la Asamblea aprobará anualmente un presupuesto adicional, como programa extraordinario, que garantice recursos suficientes para su incorporación en la estructura orgánica, mediante la definición de áreas de operación procedimientos de reclutamiento, contratación, capacitación, promoción y evaluación permanente.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
@@ -943,3 +1027,17 @@ La Comisión de Vigilancia de la Contaduría Mayor de Hacienda de la Asamblea Le
 ###### ARTÍCULO OCTAVO.
 
 A partir del inicio de la vigencia del presente Decreto, quedan abrogadas todas las disposiciones que se contrapongan al mismo.
+
+G.O. 13 DE JULIO DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal. Envíese al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, emitirá su Reglamento Interior y el Manual de Selección de Auditorías.
+
+TERCERO.- Se ratifica al actual Contador Mayor, para continuar en su encargo hasta completar el periodo de siete años a que se refiere la presente reforma, debiéndose contar a partir de su designación oficial; dando cumplimiento al Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación de 7 de mayo de 2008.
+
+CUARTO.- El actual Contador Mayor, solo podrá ser removido del cargo por el voto de las tres cuartas partes de los diputados que integran la Legislatura.
+
+QUINTO.- Se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Decreto.
+
+SEXTO.- El presente Decreto da cumplimiento al Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación de 7 de mayo de 2008.
