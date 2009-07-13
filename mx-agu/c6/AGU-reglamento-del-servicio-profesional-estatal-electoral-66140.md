@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-servicio-profesional-estatal-electoral-66140"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-02"
-last_updated: "2009-02-02"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL ESTATAL ELECTORAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 2 de febrero de 2009.
 
@@ -1256,3 +1258,13 @@ Artículo Cuarto: Las personas que contaban con plazas antes de ocupar sus cargo
 Artículo Quinto: La Comisión dentro del plazo de dos meses contado a partir de la de la (sic) aprobación del presente Reglamento, emitirá el catálogo de puestos, los manuales y políticas de procedimientos que concreten la operación del sistema del Servicio Profesional.
 
 Artículo Sexto: El presente Reglamento será publicado en los estrados del Instituto Estatal Electoral y en el Periódico Oficial a efecto de otorgarle publicidad.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE JULIO DE 2009.
+
+Artículo Primero: Se abroga el Reglamento del Servicio Profesional Estatal Electoral aprobado por el Consejo General reunido en Sesión Ordinaria de fecha quince de enero del presente año, del cual se generó el acuerdo identificado bajo el número CG-A-06/09.
+
+Artículo Segundo: El presente Reglamento entrará en vigor al momento de su aprobación.
+
+Artículo Tercero: El presente Reglamento será publicado en los estrados del Instituto Estatal Electoral y en el Periódico Oficial del Estado de Aguascalientes a efecto de otorgarle publicidad.
