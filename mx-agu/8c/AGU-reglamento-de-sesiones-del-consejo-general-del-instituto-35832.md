@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-sesiones-del-consejo-general-del-instituto-35832"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-12"
-last_updated: "2005-07-25"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE REUNIONES Y SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2004.
 
@@ -411,3 +413,9 @@ SEGUNDO. El presente Acuerdo entrará en vigor a partir del día siguiente de su
 TERCERO. Notifíquese el presente Acuerdo en términos de lo establecido por los artículos 268 fracción III, 271 y 273 del Código Electoral vigente en el Estado.
 
 CUARTO. Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JULIO DE 2009.
+
+PRIMERO. Se abroga el Reglamento de Sesiones del Consejo General del Instituto Estatal Electoral del Estado de Aguascalientes publicado en fecha 12 de enero del 2004 en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. El presente Reglamento entrará en vigor al momento de su aprobación.
