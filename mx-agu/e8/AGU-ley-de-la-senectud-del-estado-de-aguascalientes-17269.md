@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-senectud-del-estado-de-aguascalientes-17269"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-04"
-last_updated: "2000-09-04"
+last_updated: "2009-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE LA SENECTUD DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCION ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 13 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 4 de septiembre de 2000.
 
@@ -994,3 +996,35 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de la Senectud del Estado de Aguascalientes, expedida mediante decreto número 114 de fecha 13 de julio del año 2000 y publicado en el Periódico Oficial del Estado número 36 de fecha 4 de septiembre del año 2000.
+
+###### ARTÍCULO TERCERO.
+
+El actual Comité coordinador de la Senectud y Comité Técnico de la Senectud, se eleva a rango de Consejo, quedando con la siguiente denominación: Consejo Estatal de Salud para la Atención del Adulto Mayor. Deberá sesionar por vez primera como Consejo, en un plazo no mayor de treinta días naturales contados a partir de la entrada en vigencia de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo deberá emitir el Reglamento correspondiente dentro de los noventa días naturales siguientes a la entrada en vigencia de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+En un plazo no mayor de ciento veinte días naturales contados a partir de la entrada en vigencia de la presente Ley, se deberán hacer las reformas correspondientes a la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, en el entendido de que la Dirección de Atención y Desarrollo de Personas Adultas Mayores del Sistema para el Desarrollo Integral de la Familia del Estado seguirá ejerciendo las facultades previstas por su normatividad correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+Los convenios de colaboración celebrados por el Sistema de Desarrollo Integral de la Familia del Estado con las diversas Dependencias y Entidades gubernamentales e iniciativa privada continuarán subsistentes al entrar en vigencia la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Fideicomiso Ayuda una Persona Senecta, al entrar en vigencia la presente Ley, se pondrá a disposición de la Secretaría de Desarrollo Social a través de su Dirección General de Atención Integral de las Personas Adultas Mayores, a efecto de que su administración se aplique de acuerdo con las necesidades y requerimientos de las personas adultas mayores previa solicitud, estudio y consideración diagnóstica del Consejo.
