@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-61013
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-08"
-last_updated: "2008-05-08"
+last_updated: "2009-07-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 14 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: SIN EFECTOS.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 8 de mayo de 2008.
 
@@ -303,3 +305,17 @@ LIC. LEONEL ROBLES CALVO
 JEFE DE LA UNIDAD JURÍDICA Y RESPONSABLE DE LA PUBLlCACIÓN
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 14 DE JULIO DE 2009.
+
+Primero.- Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno.
+
+Segundo.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+Tercero.- El Director del Organismo deberá constituir el COCOE, en los términos del presente Reglamento, dentro de los 30 días siguientes a su publicación en la Gaceta del Gobierno.
+
+Cuarto.- Se deja sin efectos el Reglamento Interno del Comité de Control y Evaluación del Tecnológico de Estudios Superiores del Oriente del Estado de México, aprobado en fecha 14 de febrero de 2008, así como las demás disposiciones de igual o menor jerarquía que se opongan al presente.
+
+Quinto.- La interpretación del presente Reglamento y lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría del Gobierno del Estado de México.
