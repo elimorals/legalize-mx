@@ -1,0 +1,1312 @@
+---
+title: "LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA"
+identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-69312"
+country: "mx"
+rank: "ley_organica"
+publication_date: "2009-07-15"
+last_updated: "2009-07-15"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69312&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-pue"
+scjn_id: "69312"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "7 TERCERA SECCION"
+reform_count: "5"
+scjn_last_update: "2013-06-17"
+issue_date: "2009-06-19"
+state: "PUE"
+---
+# LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
+
+LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
+
+DECRETO del Honorable Congreso del Estado, que expide la LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA.
+
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
+
+LICENCIADO MARIO P. MARÍN TORRES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
+
+Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
+
+EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+
+CONSIDERANDO.
+
+Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracciones I y II de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y XIII, 69, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 24 fracciones I y XIII, 93 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente:
+
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO I. DE LA PROCURADURÍA
+
+###### Artículo 1.
+
+Esta Ley tiene por objeto organizar y regular el funcionamiento de la Procuraduría General de Justicia del Estado, la Institución del Ministerio Público, los servicios periciales y la policía encargada de la función de investigación de los delitos; así como determinar los funcionarios que los integran y auxilian en el despacho de los asuntos que les impone la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla y demás disposiciones aplicables.
+
+###### Artículo 2.
+
+La Procuraduría General de Justicia del Estado es la Dependencia del Poder Ejecutivo en la que se integra la Institución del Ministerio Público y sus órganos auxiliares directos para el ejercicio de sus atribuciones que les confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica de la Administración Pública del Estado de Puebla y demás disposiciones aplicables; su actuación se rige por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto de los derechos humanos.
+
+###### Artículo 3.
+
+Son atribuciones de la Procuraduría General de Justicia del Estado, que ejercerá su Titular, las siguientes:
+
+I. Coordinar y supervisar la actuación de los agentes del Ministerio Público en la investigación y persecución de los hechos posiblemente delictivos;
+
+II. Vigilar que se observen los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las atribuciones que legalmente correspondan a la (sic) autoridades judiciales o administrativas;
+
+III. Promover la expedita y eficiente procuración de justicia y la intervención que sobre esta materia prevenga la legislación vigente;
+
+IV. Fijar lineamientos generales de política criminal y de prevención social del delito;
+
+V. Fomentar la cultura de respeto a los derechos humanos y garantías reconocidas en la legislación vigente;
+
+VI. Poner en conocimiento de la autoridad administrativa correspondiente, las quejas formuladas por particulares, respecto de irregularidades o hechos que no constituyan delito, informándoles sobre su tramitación legal;
+
+VII. Verificar y dar respuesta a las quejas, propuestas de conciliación y recomendaciones, así como atender las visitas, de las Comisiones Nacional de Derechos Humanos y de Derechos Humanos del Estado;
+
+VIII. Participar en el Sistema de Seguridad Pública del Estado y vigilar el cumplimiento de los acuerdos que en materia de procuración de justicia se emitan al seno del mismo;
+
+IX. Proponer al Sistema de Seguridad Pública del Estado, políticas, programas y acciones de coordinación y colaboración entre las Instituciones de Seguridad Pública;
+
+X. Promover mecanismos de coordinación en materia de procuración de justicia con instancias federales, estatales y municipales;
+
+XI. Auxiliar a la Procuraduría General de la República, la del Distrito Federal y la de los Estados, y solicitar apoyo de las mismas, en términos del artículo 119 de la Constitución Federal, de la Ley General del Sistema Nacional de Seguridad Pública o de los Convenios de Colaboración que sobre el particular suscriba el Procurador y de lo dispuesto por las demás leyes aplicables;
+
+XII. Impulsar las acciones necesarias para promover la cultura de la denuncia de los delitos, y participación de la comunidad en las actividades de la procuración de justicia;
+
+XIII. Aplicar indicadores de medición tanto ministerial, pericial y policial como institucional, coincidentes con la metodología de indicadores nacionales, con participación de instancias ciudadanas;
+
+XIV. Promover mecanismos de participación de la comunidad en acciones tendentes a evaluar a la Dependencia, opinar sobre políticas en materia de procuración de justicia, sugerir medidas específicas y acciones concretas, realizar labores de seguimiento, proponer reconocimientos a sus integrantes, realizar denuncias o quejas sobre irregularidades, y auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de Seguridad Pública;
+
+XV. Aplicar, operar y supervisar las reglas y procesos en materia de carrera ministerial, pericial y policial;
+
+XVI. Proteger, a través de la Institución del Ministerio Público, los intereses individuales y sociales en general, incluyendo en éstos, los derechos de personas menores de edad e incapaces, así como la intervención en los juicios civiles o familiares tramitados ante los juzgados competentes;
+
+XVII. Dictar las políticas institucionales tendentes a proporcionar los servicios de procuración de justicia a las personas que pertenezcan a algún pueblo indígena, en términos de lo establecido en el Apartado A del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos;
+
+XVIII. Garantizar el acceso a la Información de la Dependencia en los términos y con las limitantes establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla y de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla;
+
+XIX. Prestar atención a las víctimas de los delitos, debiendo, por lo menos, observar los rubros de atención de la denuncia de forma pronta y expedita, atención jurídica, médica y psicológica especializada; medidas de protección a la víctima; y las demás señaladas en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+Las que le señalen los demás ordenamientos legales aplicables.
+
+### CAPÍTULO II. DEL PROCURADOR
+
+###### Artículo 4.
+
+El Procurador General de Justicia preside la Dependencia del Ejecutivo denominada Procuraduría General de Justicia del Estado y es el Titular de la Institución del Ministerio Público y sus órganos auxiliares directos.
+
+###### Artículo 5.
+
+Corresponde al Titular, el ejercicio de las atribuciones que a la Dependencia otorgan la Constitución Política del Estado Libre y Soberano de Puebla, la presente Ley y demás ordenamientos aplicables, mismas que podrá delegar a favor de los titulares de las unidades administrativas que la integran, excepto aquéllas que por disposición de la presente Ley, y demás ordenamientos aplicables, deban ser ejercidas de manera directa por el Procurador, las que podrá en cualquier momento reasumir.
+
+###### Artículo 6.
+
+La Procuraduría General de Justicia del Estado será representada por el Procurador General de Justicia, quien ejercerá el mando directo sobre las unidades administrativas que la integran.
+
+###### Artículo 7.
+
+El Procurador General de Justicia del Estado, ejercerá autoridad jerárquica sobre todo el personal que integra la Dependencia, sin perjuicio de la autonomía técnica y profesional que debe existir en las opiniones, dictámenes o resoluciones.
+
+###### Artículo 8.
+
+Son atribuciones del Procurador, quien podrá delegar en las unidades administrativas de la Dependencia, las siguientes:
+
+I. Supervisar la aplicación de los criterios que al seno de las Conferencias Nacionales de Procuración de Justicia y de Secretarios de Seguridad Pública, se emitan para la regulación de la selección, ingreso, formación, permanencia, capacitación, profesionalización, evaluación, reconocimiento, certificación y registro ministerial, pericial y policial; así como régimen disciplinario policial;
+
+II. Coordinar y supervisar el suministro, intercambio, sistematización, consulta, análisis y actualización de la información que se genere en la Dependencia en materia de procuración de justicia, a través de los sistemas e instrumentos tecnológicos que correspondan;
+
+III. Verificar que en los instrumentos tecnológicos de información, se suministre lo relativo al Registro Administrativo de Detenciones, al Sistema Único de Información Criminal, al Registro de Personal de Seguridad Pública y al Registro de Armamento y Equipo;
+
+IV. Instruir la aplicación de los criterios formulados por el Consejo Nacional de Seguridad Pública para los Programas Nacionales de Procuración de Justicia y de Seguridad Pública, con respecto a la policía que ejerce función de investigación de delitos;
+
+V. Vigilar la aplicación de los Programas Rectores de Profesionalización de las Instituciones de Procuración de Justicia y Policiales en términos de los criterios emitidos por el Consejo Nacional de Seguridad Pública;
+
+VI. Conocer de los procesos de Evaluación y Control de Confianza y determinar lo conducente para fortalecer los márgenes de seguridad, confiabilidad, eficiencia y competencia del personal de la Dependencia;
+
+VII. Autorizar el no ejercicio de la acción penal, así como revocar, modificar o confirmar las conclusiones con que se le dé vista en términos de lo dispuesto en el Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla y demás disposiciones legales aplicables;
+
+VIII. Prestar a las autoridades competentes el auxilio necesario, que fundadamente le requieran, para el debido ejercicio de sus funciones públicas;
+
+IX. Velar por la aplicación de la Ley en los lugares de detención, reclusión, prisión y de retención provisional e internamiento de adolescentes, sin perjuicio de las atribuciones de la autoridad competente en materia de ejecución de sanciones y medidas de seguridad;
+
+X. Imponer al personal de la Dependencia, sin perjuicio de lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, las sanciones que por incurrir en causas de responsabilidad o incumplimiento de obligaciones procedan; y
+
+XI. Las que le señalen los demás ordenamientos legales aplicables.
+
+###### Artículo 9.
+
+Al Procurador le corresponde de forma personal e indelegable, el ejercicio de las atribuciones siguientes:
+
+I. Prestar consejo jurídico y representar legalmente al Gobierno del Estado, salvo en los casos en que dicha representación corresponda a otras dependencias, en términos de la Ley Orgánica de la Administración Pública del Estado de Puebla o por designación de la o el Titular del Ejecutivo del Estado, así como representar a la Dependencia en lo relativo a las relaciones laborales;
+
+II. Proponer al Titular del Ejecutivo del Estado, en el ámbito de su competencia, los proyectos de iniciativa de ley o de reformas legislativas necesarias para la exacta observancia de la Constitución Política del Estado Libre y Soberano de Puebla y demás leyes y reglamentos vigentes en la Entidad;
+
+III. Formular propuestas al Titular del Ejecutivo del Estado, de las medidas que convengan para el mejoramiento de la procuración de justicia, escuchando la opinión de los funcionarios públicos, personas y sectores que por su actividad, función o especialidad pudiesen aportar elementos de juicio;
+
+IV. Suscribir los acuerdos y convenios de colaboración, en materia de procuración de justicia, con la federación, los estados y los municipios, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Constitución Política del Estado Libre y Soberano de Puebla y demás disposiciones legales aplicables;
+
+V. Poner en conocimiento de la Presidencia del Tribunal Superior de Justicia del Estado, las irregularidades que se adviertan en los juzgados, para que se tomen las medidas conducentes;
+
+VI. Expedir los acuerdos, circulares, manuales de organización, de procedimientos, reglas de operación, protocolos, lineamientos y demás disposiciones administrativas necesarias para la eficaz actuación del Ministerio Público y del personal de la Dependencia;
+
+VII. Crear, modificar o suprimir las unidades administrativas de acuerdo a las necesidades y al presupuesto establecido; así como dirigirlas, coordinarlas y evaluarlas;
+
+VIII. Presidir las Comisiones de Servicio de Carrera de Procuración de Justicia, así como la de Honor y Justicia de la Dependencia;
+
+IX. Aprobar el proyecto del presupuesto de egresos de la Dependencia;
+
+X. Comparecer ante el Congreso del Estado para informar de los asuntos de la Dependencia, así como atender y facilitar los informes que le soliciten los integrantes del mismo con relación al ejercicio de sus funciones, con las excepciones señaladas en las disposiciones legales de la materia;
+
+XI. Proponer al Titular del Ejecutivo del Estado el nombramiento o remoción del personal que legalmente le compete designar; así como nombrar a los demás servidores públicos de la misma, atendiendo, en su caso, al Servicio de Carrera Ministerial, Pericial y Policial;
+
+XII. Realizar la rotación o cambio de adscripción del personal de la Dependencia, atendiendo al Servicio de Carrera Ministerial, Pericial y Policial;
+
+XIII. Autorizar el registro y funcionamiento de las personas físicas o jurídicas que presten servicios de seguridad privada en el Estado; y
+
+XIV. Las que le señalen los demás ordenamientos legales aplicables.
+
+###### Artículo 10.
+
+Para ser Procurador General de Justicia del Estado, se deberán reunir los requisitos previstos por la Constitución Política del Estado Libre y Soberano de Puebla.
+
+###### Artículo 11.
+
+El Procurador General de Justicia del Estado será designado y removido libremente por el Titular del Ejecutivo del Estado de quien dependerá de forma directa.
+
+###### Artículo 12.
+
+El Procurador rendirá protesta ante el Titular de (sic) Ejecutivo del Estado. Los Titulares de las coordinaciones generales, direcciones generales, direcciones, coordinaciones y agentes del Ministerio Público rendirán protesta ante el Procurador.
+
+###### Artículo 13.
+
+En caso de excusa, ausencia o falta temporal del Procurador, los Subprocuradores lo suplirán en el orden que establezca el Reglamento.
+
+###### Artículo 14.
+
+El Procurador será representado ante las autoridades judiciales, administrativas o del trabajo, por los servidores públicos que determine el Reglamento de esta Ley o por quienes se designen para el caso en concreto.
+
+### CAPÍTULO III. DEL MINISTERIO PÚBLICO
+
+###### Artículo 15.
+
+El Ministerio Público es la Institución encargada de velar por la exacta observancia de las leyes de interés público, y que a través de sus agentes lleva a cabo la persecución, ante los tribunales, de los delitos del orden común y, por lo mismo, le corresponderá solicitar las órdenes de aprehensión del inculpado, buscar o hacerse allegar de las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
+
+Será el Reglamento de esta Ley, el que delimite específicamente las funciones y ámbitos de competencia que deberá regir para los agentes del Ministerio Público Titulares, Adjuntos, Auxiliares del Ministerio Público, y Oficiales del Ministerio Público.
+
+###### Artículo 16.
+
+Para el cumplimiento de sus atribuciones el Ministerio Público podrá solicitar informes, documentos, opiniones y elementos de prueba en general, a las Dependencias y Entidades de la Administración Pública Federal, Estatal, y Municipal, así mismo podrá requerir informes, documentos y pruebas a particulares y personas jurídicas.
+
+###### Artículo 17.
+
+Corresponde al Ministerio Público el mando y conducción de la policía encargada de la función de investigación de los delitos.
+
+###### Artículo 18.
+
+Quedan bajo el mando directo e inmediato del Ministerio Público los servicios periciales y los agentes del Ministerio Público Subalternos; en el ejercicio de sus funciones se auxiliará de los cuerpos de seguridad pública estatal y municipales.
+
+###### Artículo 19.
+
+Son atribuciones del Ministerio Público:
+
+I. En la Averiguación Previa:
+
+a) Recibir denuncias y querellas sobre hechos posiblemente constitutivos de delitos;
+
+b) Realizar el registro administrativo de detenciones tan pronto como reciba a su disposición al detenido;
+
+c) Investigar y perseguir los hechos probablemente constitutivos de delitos;
+
+d) Practicar las diligencias necesarias para obtener datos que establezcan que se ha cometido un hecho que la ley señale como delito y la probabilidad de que el indiciado lo cometió o participó en su comisión;
+
+e) Solicitar a la autoridad judicial las medidas cautelares que procedan en términos de las disposiciones legales aplicables;
+
+f) Solicitar a la autoridad judicial federal que corresponda, la intervención de cualquier comunicación privada en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos;
+
+g) Formalizar la detención de los probables responsables de la comisión de delitos, en caso de flagrancia; y en casos urgentes, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos;
+
+h) Realizar el aseguramiento de bienes, instrumentos, sustancias, huellas y objetos relacionados con el hecho delictuoso;
+
+i) Realizar las diligencias necesarias para la protección y restitución de los derechos de la víctima, así como para la reparación de los daños y perjuicios causados;
+
+j) Privilegiar la aplicación de medios alternos de solución de conflictos y, en su caso, someter a consideración del Procurador, la aplicación de criterios de oportunidad;
+
+k) Emitir las órdenes de protección de emergencia y preventivas necesarias para la defensa de las mujeres y demás víctimas de violencia familiar;
+
+l) Practicar con el auxilio de la policía las diligencias de cateo, previa autorización judicial en los términos que señalen las leyes aplicables;
+
+m) Determinar el ejercicio de la acción penal o la reserva de la Averiguación Previa, conforme a las disposiciones aplicables;
+
+n) Determinar el no ejercicio de la acción penal cuando:
+
+1. Los hechos que conozca no sean constitutivos de delito;
+
+2. Una vez agotadas las diligencias y los medios de prueba correspondientes no se acredite el hecho que la ley señale como delito ni la probabilidad de que el indiciado lo cometió o participó en su comisión;
+
+3. La acción penal se hubiese extinguido en los términos de las disposiciones legales aplicables;
+
+4. Se actualice una causa de exclusión del delito en los términos que establecen las normas aplicables;
+
+5. Resulte imposible la prueba de la existencia de los hechos que la Ley señala como delito;
+
+6. En los demás casos que determinen las leyes;
+
+II. Ante los Órganos Jurisdiccionales:
+
+a) Ejercitar la acción penal cuando exista denuncia o querella de un hecho que la ley señale como delito, obren datos que establezcan que se ha cometido ese hecho y exista la probabilidad de que el indiciado lo cometió o participó en su comisión;
+
+b) Poner a disposición de la autoridad judicial a las personas detenidas dentro de los plazos y con las formalidades establecidas por la ley;
+
+c) Solicitar las ordenes de aprehensión, reaprehensión o, en su caso, de comparecencia;
+
+d) Solicitar a la autoridad judicial dicte las medidas necesarias para la protección y restitución de los derechos de la víctima, así como para la reparación de los daños cuando proceda;
+
+e) Solicitar a la autoridad judicial las medidas cautelares para efectos de la reparación del daño, exhortos y constitución de garantías a que haya a lugar para los efectos de la reparación del daño;
+
+f) Aportar las pruebas y promover las diligencias conducentes para la debida comprobación de la existencia del delito, las circunstancias en que hubiese sido cometido y las peculiares del inculpado, de la responsabilidad penal, de la existencia de los daños, así como para la fijación del monto de su reparación;
+
+g) Formular las conclusiones en los términos señalados por la ley y solicitar la imposición de las penas y medidas de seguridad que correspondan, así como el pago de la reparación del daño;
+
+h) Interponer los recursos que la ley concede, contra las resoluciones judiciales;
+
+i) Aportar los medios de prueba tendentes a la reparación del daño de la víctima del delito;
+
+j) Intervenir en los juicios en los que la ley otorgue especial protección a las personas;
+
+k) Las demás que le señalen las normas aplicables;
+
+III. Corresponde al Ministerio Público especializado en justicia para adolescentes:
+
+a) Velar por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los mismos;
+
+b) Investigar y perseguir los hechos presuntamente constitutivos de delitos cuando exista la probabilidad de que el adolescente lo cometió o participó en su comisión;
+
+c) Informar de inmediato al adolescente, a quien ejerza la Patria Potestad, custodia o tutela, a la persona con quien viva y a su defensa con respecto a su situación jurídica y los derechos que le asisten, desde el momento en que sea puesto a su disposición;
+
+d) Privilegiar la aplicación de mecanismos alternativos de solución de controversias;
+
+e) Solicitar a la autoridad judicial competente las medidas cautelares que corresponda imponer al adolescente;
+
+f) Emitir pronunciamiento con respecto al ejercicio o no ejercicio de la acción, pudiendo en su caso, remitirlos a la autoridad judicial competente, en los términos señalados por la ley de la materia;
+
+g) Durante el procedimiento, aportar los elementos de prueba necesarios, formular conclusiones, interponer recursos, solicitar la imposición de medidas de orientación, protección y tratamiento, que corresponda imponer al adolescente, así como solicitar la reparación del daño;
+
+### CAPÍTULO IV. DE LOS PERITOS
+
+###### Artículo 20.
+
+El área pericial de la Dependencia, se integra por personas especialmente calificadas por sus conocimientos técnicos, artísticos o científicos, mediante los cuales se suministran argumentos o razones con respecto a ciertos hechos cuya percepción o entendimiento escapa a las aptitudes del común de la gente.
+
+###### Artículo 21.
+
+El área pericial tendrá las funciones siguientes:
+
+I. Verificar hechos que requieren conocimientos técnicos, artísticos o científicos que escapan a la cultura común de la gente, sus causas y sus efectos; y
+
+II. Suministrar reglas y conocimientos técnicos o científicos de su experiencia o especialidad para formar convicción sobre hechos e ilustrarlos, con el fin de que se entiendan y puedan apreciarse correctamente.
+
+###### Artículo 22.
+
+El área pericial de la Dependencia contará con un cuerpo colegiado integrado por diferentes especialidades, el cual intervendrá, en lo relacionado al Servicio de Carrera Pericial.
+
+### CAPÍTULO V. DE LA POLICÍA MINISTERIAL
+
+###### Artículo 23.
+
+La Policía Ministerial será la encargada de la función de investigación científica de los delitos.
+
+###### Artículo 24.
+
+La Policía Ministerial se ubicará en la estructura orgánica de la Dependencia, por lo que le corresponde a ésta la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
+
+###### Artículo 25.
+
+Las funciones que realizará la Policía Ministerial serán las siguientes:
+
+I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, únicamente cuando debido a las circunstancias del caso aquéllas no puedan ser formuladas directamente ante el Ministerio Público, al que deberán informar de inmediato, así como de las diligencias practicadas y dejarán de actuar cuando él lo determine;
+
+II. Verificar la información de las denuncias que le sean presentadas cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, e informará al Ministerio Público para que, en su caso, le dé trámite legal o la deseche de plano;
+
+III. Practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Público;
+
+IV. Efectuar las detenciones en los casos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+V. Participar en la investigación de los delitos, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos, observando las disposiciones constitucionales y legales aplicables;
+
+VI. Registrar de inmediato la detención en términos de las disposiciones aplicables, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
+
+VII. Poner a disposición de las autoridades competentes, sin demora alguna, a las personas detenidas y los bienes que se encuentren bajo su custodia, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
+
+VIII. Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. Las unidades de la Policía facultadas para el procesamiento del lugar de los hechos, deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme a las instrucciones de éste y en términos de las disposiciones aplicables;
+
+IX. Proponer al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación, cuando se trate de aquellos que sólo pueda solicitar por conducto de éste;
+
+X. Dejar constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación deberán elaborar informes sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;
+
+XI. Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
+
+XII. Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá:
+
+a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables;
+
+b) Procurar que reciban atención médica y psicológica cuando sea necesaria;
+
+c) Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia;
+
+d) Preservar los indicios y elementos de prueba que la víctima y/u ofendido aporten en el momento de la intervención policial y remitirlos de inmediato al Ministerio Público encargado del asunto para que éste acuerde lo conducente; y
+
+e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
+
+XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones;
+
+XIV. Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos; y
+
+XV. Las que le señalen los demás ordenamientos legales aplicables.
+
+### CAPÍTULO VI. DE LAS BASES DE ORGANIZACIÓN
+
+###### Artículo 26.
+
+La Procuraduría General de Justicia del Estado, además de su Titular, contará con Subprocuradurías, Coordinaciones y Direcciones Generales, Direcciones, Coordinaciones y demás unidades necesarias. El Reglamento de la Ley, describirá el número, distribución, funciones y niveles de las áreas, para el cumplimiento de sus objetivos acorde con las necesidades y el presupuesto.
+
+###### Artículo 27.
+
+Los Subprocuradores, los responsables de las unidades administrativas relacionadas con las áreas de control y supervisión de averiguaciones previas y procesos y las vinculadas con el ejercicio e inejercicio de la acción penal, tendrán la calidad de agentes del Ministerio Público.
+
+###### Artículo 28.
+
+Los Subprocuradores serán nombrados y removidos libremente por el Titular del Ejecutivo del Estado, a propuesta del Procurador, y serán auxiliares de éste en el cumplimiento de sus atribuciones.
+
+###### Artículo 29.
+
+La suplencia en caso de ausencia o excusa del titular de alguna de las Subprocuradurías, Coordinaciones o Direcciones Generales, Direcciones o Coordinaciones, será en los términos del Reglamento de esta Ley; y la de los Agentes del Ministerio Público mediante acuerdo del Procurador.
+
+###### Artículo 30.
+
+El Reglamento de la Ley, describirá el número, distribución, funciones y niveles de las áreas, para el cumplimiento de sus objetivos acorde con las necesidades y el presupuesto de la Dependencia.
+
+###### Artículo 31.
+
+El Procurador podrá, de conformidad con el presupuesto, disponer la creación y adscripción de agencias del Ministerio Público, unidades administrativas o especializadas, distintas a las previstas en el Reglamento de esta Ley, atendiendo a la incidencia delictiva, crecimiento poblacional, formas de manifestación de la delincuencia o los objetivos de la Dependencia.
+
+###### Artículo 32.
+
+Para ser Subprocurador, se deberá reunir los requisitos siguientes:
+
+I. Tener nacionalidad mexicana por nacimiento y ciudadanía del Estado en pleno goce de sus derechos políticos y civiles;
+
+II. Tener, como mínimo, treinta años cumplidos al momento de su designación;
+
+III. Ser profesional del Derecho con título legalmente expedido, con antigüedad mínima de cinco años y con la correspondiente cédula profesional;
+
+IV. No estar inhabilitado, suspendido o destituido por resolución firme en los términos de las normas aplicables;
+
+V. No ser adicto a estupefacientes, sustancias psicotrópicas ni padecer alcoholismo;
+
+VI. No haber sido condenado por sentencia irrevocable por delito doloso o culposo calificado como grave, ni estar sujeto a proceso penal; y
+
+VII. Contar con el certificado y registro a que se refiere esta Ley.
+
+###### Artículo 33.
+
+Para ser Coordinador General, Director General, Director, o bien, Coordinador, la persona aspirante deberá reunir los requisitos siguientes:
+
+I. Tener nacionalidad mexicana, en pleno ejercicio de sus derechos;
+
+II. Tener, como mínimo, veintinueve años cumplidos al momento de su designación;
+
+III. Gozar de buen estado psicofisiológico;
+
+IV. Ser profesional del Derecho con título legalmente expedido, con la correspondiente cédula profesional;
+
+V. No haber sido condenada por sentencia irrevocable como responsable de delito doloso o culposo calificado como grave;
+
+VI. No estar inhabilitada, suspendida o destituida por resolución firme en los términos de las normas aplicables;
+
+VII. No ser adicta a estupefacientes, sustancias psicotrópicas ni padecer alcoholismo;
+
+VIII. Contar con el certificado y registro a que se refiere esta Ley; y
+
+IX. Tener, como mínimo, cinco años en el ejercicio profesional; salvo los casos de Coordinadores, en los que bastará tres años en el ejercicio de la profesión.
+
+###### Artículo 34.
+
+Los agentes del Ministerio Público, peritos y policías ministeriales y demás servidores públicos de la Dependencia, serán nombrados y removidos en los términos del presente Ordenamiento, su reglamento y demás disposiciones aplicables.
+
+###### Artículo 35.
+
+El personal de la Procuraduría se organizará como sigue:
+
+I. Las relaciones jurídicas entre la Dependencia y los agentes del Ministerio Público, peritos y policías ministeriales, se rigen por lo establecido en el artículo 123 Apartado B fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, de esta Ley, su Reglamento y demás disposiciones aplicables;
+
+II. El personal distinto del ministerial, pericial y policial no formará parte del servicio de carrera; serán nombrados y removidos conforme a los ordenamientos legales aplicables, se considerarán trabajadores de confianza y los efectos de su nombramiento se podrán dar por terminados en cualquier momento; y
+
+III. El personal contratado para el mejor ejercicio de las funciones del Ministerio Público se regirá por las estipulaciones del contrato correspondiente y no por los términos de esta Ley.
+
+El Reglamento de esta Ley señalará a los servidores públicos que, sin tener el nombramiento de agente del Ministerio Público, por la naturaleza de sus funciones, deban ejercer dichas atribuciones. Los citados servidores públicos quedarán comprendidos en la fracción II de este artículo.
+
+###### Artículo 36.
+
+El Ministerio Público estará integrado por agentes del Ministerio Público de carrera y agentes del Ministerio Público de designación especial.
+
+Los servicios periciales estarán integrados por peritos de carrera y peritos de designación especial.
+
+Para los efectos de este artículo, se entiende por designación especial aquéllos que sin ser de carrera, son nombrados por el Procurador para atender asuntos que por sus circunstancias especiales así lo requieran.
+
+###### Artículo 37.
+
+El Procurador, de conformidad con el Reglamento de esta Ley y lo que establezcan las disposiciones relativas al servicio de carrera ministerial y pericial podrá, en casos excepcionales, designar agentes del Ministerio Público o peritos especiales tratándose de personas con amplia experiencia profesional, dispensando la presentación de los concursos de ingreso; dichas personas deberán estar en pleno ejercicio de sus derechos y satisfacer los requisitos siguientes:
+
+I. Para ser agente del Ministerio Público, titular, adjunto, auxiliar u oficial, los señalados en esta Ley con excepción de la fracción VII del artículo 61; y
+
+II. Para ser perito, los señalados en esta Ley con excepción del establecido en el artículo 65 fracción V.
+
+Los agentes del Ministerio Público y peritos de designación especial, no podrán ser miembros del servicio de carrera ministerial y pericial.
+
+En cualquier momento, se podrán dar por terminados los efectos del nombramiento de las personas designadas conforme a este artículo, sin que para ello sea necesario agotar el procedimiento a que se refiere el artículo 89 de esta Ley.
+
+###### Artículo 38.
+
+Los agentes del Ministerio Público y peritos de designación especial, en lo conducente participarán en los programas de capacitación, actualización y especialización, y gozarán de los derechos a que se refiere el artículo 44 de esta Ley, salvo los contenidos en las fracciones I, III, IV y V.
+
+###### Artículo 39.
+
+Los agentes del Ministerio Público y peritos de designación especial, podrán ser miembros del servicio de carrera de procuración de justicia, siempre y cuando cumplan con los requisitos que para tal efecto señala esta Ley.
+
+###### Artículo 40.
+
+Ninguna persona podrá permanecer en el servicio público de la Procuraduría sin que cuente con el Certificado expedido por el Centro de Evaluación y Control de Confianza de la Dependencia y el registro de personal de seguridad pública vigentes.
+
+## TÍTULO SEGUNDO. DE LOS INTEGRANTES DE LA PROCURADURÍA
+
+### CAPÍTULO I. DE LAS OBLIGACIONES
+
+###### Artículo 41.
+
+Los integrantes de la Procuraduría, con el fin de garantizar el cumplimiento de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto de los derechos humanos, tendrán las obligaciones siguientes:
+
+I. Someterse a los procesos de evaluación y certificación en los términos establecidos en esta Ley;
+
+II. Participar en los cursos de capacitación, actualización y especialización que determine la Comisión del Servicio de Carrera de Procuración de Justicia;
+
+III. Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones legales aplicables;
+
+V. Prestar auxilio a las personas que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos, cuando resulte procedente. Su actuación deberá ser congruente, oportuna y proporcional al hecho;
+
+VI. Cumplir sus funciones con diligencia y prontitud, absoluta imparcialidad y sin discriminación alguna;
+
+VII. Abstenerse e impedir por los medios que tuviere a su alcance y en el ámbito de sus atribuciones, actos de tortura, u otros tratos crueles, inhumanos o degradantes. Los servidores públicos que tuvieren conocimiento de ello, lo denunciarán inmediatamente ante la autoridad competente;
+
+VIII. Observar un trato respetuoso con todas las personas, debiendo abstenerse de actos arbitrarios; y de restringir indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
+
+IX. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
+
+X. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+
+XI. Velar por la vida e integridad física y psicológica de las personas detenidas;
+
+XII. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+
+XIII. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceras personas;
+
+XIV. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
+
+XV. Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;
+
+XVI. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
+
+XVII. Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a las disposiciones legales aplicables;
+
+XVIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+
+XIX. Abstenerse de distraer de su objeto, proporcionar, sustraer, ocultar, alterar o dañar información o bienes en ejercicio y con motivo de su empleo, cargo o comisión;
+
+XX. Abstenerse de introducir o consumir en las instalaciones de la Institución o en actos del servicio, bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
+
+XXI. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de la Institución;
+
+XXII. Impedir que personas ajenas a la Dependencia realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas a realizar actos del servicio;
+
+XXIII. Excusarse del conocimiento de los asuntos en los cuales tenga algún interés, o sus familiares consanguíneos, en línea recta sin limitación de grado, colaterales dentro del cuarto grado, afines dentro del segundo, al cónyuge o a la persona con la que se encuentre en estado de concubinato; y
+
+XXIV. Las demás que establezcan las disposiciones legales aplicables.
+
+###### Artículo 42.
+
+Además de las obligaciones señaladas en el artículo anterior los integrantes de la Policía Ministerial, tendrán las siguientes:
+
+I. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
+
+II. Ejecutar los mandamientos judiciales y ministeriales;
+
+III. Tramitar, obtener y mantener actualizado su Certificado Único Policial;
+
+IV. Responder, sobre la ejecución de las órdenes directas que reciba, a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
+
+V. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
+
+VI. Abstenerse de asistir uniformado o con distintivos de la corporación a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia; y
+
+VII. Las demás que establezcan las disposiciones legales aplicables.
+
+Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
+
+###### Artículo 43.
+
+El incumplimiento de las obligaciones señaladas en los dos artículos precedentes dará lugar a la sanción correspondiente de conformidad a la legislación aplicable o a la presente Ley.
+
+El superior jerárquico que autorice o permita la prestación del servicio en contravención de las obligaciones anteriores, será responsable en términos de esta Ley.
+
+### CAPÍTULO II. DE LOS DERECHOS E IMPEDIMENTOS
+
+###### Artículo 44.
+
+Los integrantes del Servicio de Carrera de Procuración de Justicia tendrán los derechos siguientes:
+
+I. Sugerir a la Comisión del Servicio de Carrera de Procuración de Justicia las medidas que estimen pertinentes para el mejoramiento del desarrollo ministerial, pericial y policial;
+
+II. Gozar de las prestaciones que establezcan las normas aplicables;
+
+III. Acceder al sistema de estímulos económicos y sociales, cuando su conducta y desempeño así lo ameriten y de acuerdo con las normas aplicables y la disponibilidad presupuestal;
+
+IV. Participar en los concursos de promoción y ascenso;
+
+V. Gozar de los beneficios que establezcan las disposiciones aplicables, una vez terminado de manera ordinaria el servicio de carrera ministerial, pericial y policial;
+
+VI. Gozar de permisos y licencias sin goce de sueldo en términos de las disposiciones aplicables;
+
+VII. Gozar de un trato digno y decoroso por parte de sus superiores jerárquicos;
+
+VIII. A la Seguridad Social en los términos establecidos en las disposiciones legales aplicables; y
+
+IX. Las demás que establezcan las disposiciones aplicables.
+
+###### Artículo 45.
+
+Los integrantes de la Procuraduría, están impedidos para:
+
+I. Desempeñar empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, Estatal o Municipal, salvo los de carácter docente, honorífico, científico, literario, electoral, de asistencia o beneficencia, que no perjudique las funciones de la Dependencia, sólo por acuerdo del Procurador, podrán desempeñarse fuera de la Institución;
+
+II. Ejercer la abogacía por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos, de su adoptante o adoptado;
+
+III. Ejercer las funciones de tutoría, curaduría o albacea judicial, a no ser que tenga el carácter de heredero o legatario, o se trate de sus ascendientes, descendientes, hermanos, adoptante o adoptado;
+
+IV. Ejercer o desempeñar las funciones de depositario o apoderado judicial, síndico, administrador, interventor en quiebra o concurso, notario, corredor, comisionista, árbitro o arbitrador; y
+
+V. Pertenecer o formar parte del servicio de carrera de otra Institución Policial.
+
+## TÍTULO TERCERO. DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
+
+### CAPÍTULO I. DE LAS GENERALIDADES DEL SERVICIO
+
+###### Artículo 46.
+
+El Servicio de Carrera de Procuración de Justicia es un sistema para garantizar la igualdad de oportunidades y circunstancias en el ingreso, desarrollo y terminación en los servicios ministerial, pericial y de policía ministerial, con base en el mérito y en la experiencia; así mismo, para elevar y fomentar la profesionalización de sus miembros y asegurar el cumplimiento de los principios que establece esta Ley.
+
+###### Artículo 47.
+
+El Servicio de Carrera de Procuración de Justicia, comprenderá lo relativo al Ministerio Público, Peritos y Policía Ministerial.
+
+###### Artículo 48.
+
+Los servidores públicos que tengan bajo su mando a agentes del Ministerio Público o Peritos, no formarán parte del Servicio de Carrera por ese hecho; serán nombrados y removidos conforme a los ordenamientos legales aplicables, se considerarán trabajadores de confianza, y los efectos de su nombramiento se podrán dar por terminados en cualquier momento.
+
+###### Artículo 49.
+
+Las personas que aspiran a ingresar a la Procuraduría, deberán tener el Certificado que expida el Centro de Evaluación y Control de Confianza de la Dependencia, así como contar con el Registro Nacional de Personal de Seguridad Pública.
+
+Previo al ingreso de las personas aspirantes a los cursos de formación profesional, deberán consultarse los antecedentes en el Registro Nacional de Personal de Seguridad Pública, y, en su caso, de las Instituciones de Procuración de Justicia, así mismo, deberá verificarse la autenticidad de los documentos presentados por las mismas.
+
+###### Artículo 50.
+
+El Certificado que emita el Centro de Evaluación y Control de Confianza de la Dependencia, tendrá por objeto acreditar que la persona servidora pública es apta para ingresar o permanecer en la Procuraduría, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+
+###### Artículo 51.
+
+El Certificado a que se refiere el artículo anterior, para su validez, deberá otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado en el Registro Nacional de Personal de Seguridad Pública que para tal efecto se establezca. Dicha certificación y registro estará sujeta a las evaluaciones a que se refiere el artículo 96 de esta Ley.
+
+###### Artículo 52.
+
+Los servidores públicos de la Procuraduría deberán someterse a los procesos de evaluación en los términos de esta Ley, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos, en los términos que determinen las autoridades competentes.
+
+La revalidación del certificado será requisito indispensable para permanecer en la Procuraduría y deberá registrarse para los efectos a que se refiere el artículo anterior.
+
+###### Artículo 53.
+
+La certificación que otorgue el Centro de Evaluación y Control de Confianza de la Procuraduría deberá contener los requisitos y medidas de seguridad que para tal efecto acuerde el Centro Nacional de Certificación y Acreditación.
+
+En todos los casos, se deberán realizar las inscripciones que correspondan en el Registro Nacional de Personal de Seguridad Pública.
+
+###### Artículo 54.
+
+La cancelación del certificado de los servidores públicos de la Procuraduría procederá:
+
+I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
+
+II. Al ser removidos de su encargo;
+
+III. Por no obtener la revalidación de su certificado, y
+
+IV. Por las demás causas que establezcan las disposiciones aplicables.
+
+###### Artículo 55.
+
+La Procuraduría, al cancelar algún certificado, de forma inmediata deberá hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
+
+###### Artículo 56.
+
+La profesionalización es obligatoria y tiene por objeto fomentar que los integrantes del servicio de carrera cuenten con aptitudes, conocimientos, habilidades y destrezas para desempeñar sus funciones con calidad y eficiencia; se llevará a cabo a través de los programas de actualización, especialización y desarrollo humano que determinen las instancias correspondientes.
+
+###### Artículo 57.
+
+Los planes de estudios se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, en los que se incluyan talleres de resolución de casos.
+
+###### Artículo 58.
+
+Sólo ingresarán y permanecerán quienes cursen y aprueben los programas de formación, capacitación y profesionalización que determine la Dependencia acorde con los programas establecidos.
+
+### CAPÍTULO II. DEL SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
+
+###### Artículo 59.
+
+El Servicio de Carrera Ministerial y Pericial comprenderá las etapas de ingreso, desarrollo y terminación del servicio en los términos que dispone esta Ley, y contendrá como mínimo lo siguiente:
+
+I. El ingreso comprende los requisitos y procedimientos de selección, formación y certificación inicial, así como registro;
+
+II. El desarrollo comprenderá los requisitos y procedimientos de formación continua y especializada, de actualización, de evaluación para la permanencia, de evaluación del desempeño, de desarrollo y ascenso, de dotación de estímulos y reconocimientos, de reingreso y de certificación. De igual forma, deberá prever medidas disciplinarias y sanciones para los miembros del Servicio de Carrera; y
+
+III. La terminación comprenderá las causas ordinarias y extraordinarias de separación del Servicio, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
+
+###### Artículo 60.
+
+El Servicio de Carrera de Procuración de Justicia se organizará de conformidad con las bases siguientes:
+
+I. Tendrá carácter obligatorio y permanente; abarcará los planes, programas, cursos, evaluaciones, exámenes y concursos correspondientes a las diversas etapas que comprende;
+
+II. Se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos. Tendrá como objetivos la preparación, competencia, capacidad y superación constante del personal en tareas de procuración de justicia;
+
+III. El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación fomentará que los integrantes de la Dependencia logren la profesionalización y ejerzan sus atribuciones con base en los principios y objetivos referidos y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos, habilidades destrezas y actitudes necesarios para el desempeño del servicio público;
+
+IV. Contará con un sistema de rotación del personal;
+
+V. Determinará los perfiles, niveles jerárquicos en la estructura y de rangos;
+
+VI. Contará con procedimientos disciplinarios, sustentados en principios de justicia y con pleno respeto a los derechos humanos;
+
+VII. Buscará el desarrollo, ascenso y dotación de estímulos con base en el mérito y la eficiencia en el desempeño de sus funciones;
+
+VIII. Buscará generar el sentido de pertenencia institucional;
+
+IX. Contendrá las normas para el registro y el reconocimiento de los certificados del personal; y
+
+X. Contendrá las normas para el registro de las incidencias del personal.
+
+###### Artículo 61.
+
+Para ingresar como agente del Ministerio Público Titular de carrera, se requiere:
+
+I. Tener nacionalidad mexicana por nacimiento, en pleno ejercicio de sus derechos;
+
+II. Ser profesional del Derecho con título legalmente expedido, con antigüedad mínima de cinco años y con la correspondiente cédula profesional;
+
+III. En su caso, tener acreditado el Servicio Militar Nacional;
+
+IV. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable como responsable de un delito doloso o culposo calificado como grave ni estar sujeto a proceso penal;
+
+V. No estar suspendido, destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
+
+VI. No hacer uso de sustancias psicotrópicas, de estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
+
+VII. Aprobar el curso de ingreso, formación inicial o básica que establezcan las leyes de la materia;
+
+VIII. Presentar y aprobar las evaluaciones de control de confianza previstas en las disposiciones aplicables;
+
+IX. Tener, como mínimo, veintinueve años cumplidos a la fecha de su nombramiento; y
+
+X. Haberse desempeñado por tres años ininterrumpidos como agente del Ministerio Público Adjunto.
+
+###### Artículo 62.
+
+Para ingresar como agente del Ministerio Público Adjunto, de carrera, se requieren los requisitos señalados en el artículo que antecede, con excepción de lo establecido en las fracciones IX y X, por lo que deberá acreditar lo siguiente:
+
+I. Tener, como mínimo, veintiséis años cumplidos a la fecha de su nombramiento;
+
+II. Haberse desempeñado durante un año ininterrumpido como auxiliar de agente del Ministerio Público o Investigador Ministerial; y
+
+III. Tener tres años en el ejercicio de su profesión al momento de su nombramiento.
+
+###### Artículo 63.
+
+Para ser Auxiliar de agente del Ministerio Público, se requieren los mismos requisitos mencionados en el artículo 61 a excepción de los señalados en las fracciones IX y X, por lo que además deberá acreditar lo siguiente:
+
+I. Tener, como mínimo, veinticinco años de edad, a la fecha de su nombramiento;
+
+II. Tener cuando menos tres años en el ejercicio profesional; y
+
+III. Haberse desempeñado durante un año como oficial del Ministerio Público.
+
+###### Artículo 64.
+
+Para ser oficial del Ministerio Público, se requieren los mismos requisitos mencionados en el artículo 61 a excepción de los señalados en las fracciones IX y X, por lo que además deberá acreditar lo siguiente:
+
+I. Tener, como mínimo, veintitrés años de edad, a la fecha de su nombramiento; y
+
+II. Tener cuando menos seis meses en el ejercicio profesional.
+
+###### Artículo 65.
+
+Para ingresar como perito de carrera, se requiere:
+
+I. La nacionalidad mexicana por nacimiento y en pleno ejercicio de sus derechos;
+
+II. Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media superior o equivalente;
+
+III. Tener título legalmente expedido y registrado por autoridad competente para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar, cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio;
+
+IV. En su caso, tener acreditado el Servicio Militar Nacional;
+
+V. Aprobar el curso de ingreso, formación inicial o básica que se refiere esta Ley y su Reglamento;
+
+VI. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso o culposo calificado como grave ni estar sujeto a proceso penal;
+
+VII. No estar suspendido, destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
+
+VIII. No hacer uso de sustancias psicotrópicas, de estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; y
+
+IX. Presentar y aprobar las evaluaciones de control de confianza.
+
+###### Artículo 66.
+
+Son requisitos de permanencia para agentes del Ministerio Público Titulares y Adjuntos, auxiliares del Ministerio Público y oficiales del Ministerio Público; así como peritos, los siguientes:
+
+I. Cumplir los requisitos de ingreso durante el servicio;
+
+II. Cumplir con los programas de profesionalización que establezcan esta Ley y las disposiciones aplicables;
+
+III. Aprobar los procesos de evaluación de control de confianza y desempeño que establezca esta Ley, su Reglamento y demás disposiciones aplicables;
+
+IV. Contar con la certificación y registro actualizados a que se refiere esta Ley;
+
+V. Cumplir las órdenes de comisión y rotación;
+
+VI. Cumplir con las obligaciones que les impone esta Ley y su Reglamento; y
+
+VII. Demás disposiciones aplicables.
+
+###### Artículo 67.
+
+La terminación del Servicio de Carrera Ministerial y Pericial será:
+
+I. Ordinaria, que comprende:
+
+a) Renuncia;
+
+b) Incapacidad permanente para el desempeño de las funciones; y
+
+c) Jubilación.
+
+II. Extraordinaria, que comprende:
+
+a) Separación por el incumplimiento de los requisitos de ingreso y permanencia; o
+
+b) Remoción por incurrir en causas de responsabilidad con motivo de su encargo.
+
+### CAPÍTULO III. DEL SERVICIO DE CARRERA DE POLICÍA MINISTERIAL
+
+###### Artículo 68.
+
+El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de la Policía Ministerial y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales.
+
+###### Artículo 69.
+
+La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de la Policía Ministerial.
+
+###### Artículo 70.
+
+La Carrera Policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de selección, así como el registro de las correcciones disciplinarias que, en su caso, haya acumulado el elemento policial.
+
+###### Artículo 71.
+
+El Reglamento de la Procuraduría establecerá los niveles jerárquicos de la Policía Ministerial.
+
+###### Artículo 72.
+
+La antigüedad se clasificará y computará de la forma siguiente:
+
+I. Antigüedad en el servicio, a partir de su ingreso en la Dependencia; y
+
+II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente;
+
+La antigüedad contará hasta el momento en que esa calidad se determine en el Reglamento de esta Ley;
+
+###### Artículo 73.
+
+La Policía Ministerial para la investigación de los delitos, se sujetará a las normas establecidas en la presente Ley y en sus disposiciones reglamentarias; los procesos en materia de carrera policial y régimen disciplinario de la Policía Ministerial serán aplicados, operados y supervisados por la Procuraduría.
+
+###### Artículo 74.
+
+Para ingresar y permanecer como Policía Ministerial, se requiere:
+
+I. De Ingreso:
+
+a) Nacionalidad mexicana por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+
+b) Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso o culposo calificado como grave, ni estar sujeto a proceso penal;
+
+c) En su caso, tener acreditado el Servicio Militar Nacional;
+
+d) Acreditar que ha concluido, al menos, la enseñanza superior o equivalente;
+
+e) Aprobar el concurso de ingreso y los cursos de formación;
+
+f) Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+
+g) Aprobar los procesos de evaluación de control de confianza;
+
+h) Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+i) No padecer alcoholismo;
+
+j) Someterse a exámenes para comprobar la ausencia de alcoholismo o uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+k) No estar suspendido, destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
+
+l) Cumplir con los deberes establecidos en esta Ley, y demás disposiciones que deriven de la misma; y
+
+m) Los demás que establezcan otras disposiciones legales aplicables.
+
+II.- De Permanencia:
+
+a) Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso o culposo calificado como grave;
+
+b) Mantener actualizado su Certificado Único Policial;
+
+c) No superar la edad máxima de retiro que establezcan las disposiciones legales aplicables;
+
+d) Acreditar que ha concluido, al menos, los estudios de enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato;
+
+e) Aprobar los cursos de formación, capacitación y profesionalización;
+
+f) Aprobar los procesos de evaluación de control de confianza y desempeño;
+
+g) Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
+
+h) Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+i) No padecer alcoholismo;
+
+j) Someterse a exámenes para comprobar la ausencia de alcoholismo;
+
+k) Someterse a exámenes para comprobar la ausencia de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+l) No estar suspendido, inhabilitado, o haber sido destituido por resolución firme como servidor público; ni estar sujeto a procedimiento de responsabilidad administrativa federal o local en los términos de las normas aplicables;
+
+m) No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días; y
+
+n) Las demás que establezcan las disposiciones legales aplicables.
+
+###### Artículo 75.
+
+La conclusión del servicio de los integrantes de la Policía Ministerial es la terminación de su nombramiento o la cesación de sus efectos legales por las causas siguientes:
+
+I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las circunstancias siguientes:
+
+a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a la persona;
+
+b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables; y
+
+c) Que del expediente del integrante no se desprendan méritos suficientes a juicio de la Comisión para conservar su permanencia.
+
+II. Remoción por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario; o
+
+III. Baja, por:
+
+a) Renuncia;
+
+b) Muerte o incapacidad permanente; o
+
+c) Jubilación o retiro.
+
+Al concluir el servicio el integrante deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
+
+###### Artículo 76.
+
+Los policías ministeriales que hayan alcanzado la edad límite para la permanencia, prevista en la normatividad aplicable podrán ser reubicados, a consideración de la Comisión del Servicio de Carrera de Procuración de Justicia, en otras áreas de la Dependencia.
+
+### CAPÍTULO IV. DEL RÉGIMEN DISCIPLINARIO DE LA POLICÍA MINISTERIAL
+
+###### Artículo 77.
+
+La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos.
+
+La disciplina es la base del funcionamiento y organización de la Policía Ministerial, por lo que sus integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
+
+La disciplina demanda respeto y consideración mutua entre quien ostente un mando y sus subordinados.
+
+###### Artículo 78.
+
+El régimen disciplinario se ajustará a los principios establecidos en la Constitución Federal, la presente Ley y los ordenamientos legales aplicables y comprenderá los deberes, las correcciones disciplinarias, las sanciones y los procedimientos para su aplicación.
+
+###### Artículo 79.
+
+La Comisión de Honor y Justicia es la instancia colegiada facultada para resolver de las faltas al régimen disciplinario e imponer las correcciones disciplinarias a los elementos de la Policía Ministerial.
+
+###### Artículo 80.
+
+La Comisión de Honor y Justicia está integrada por:
+
+I. El Procurador, quien tendrá voto de calidad;
+
+II. Los Subprocuradores;
+
+III. El Titular de la Policía Ministerial; y
+
+IV. Dos comandantes y dos policías ministeriales de reconocido prestigio, buena reputación y excelente desempeño en la Dependencia; cuya designación estará a cargo del Procurador.
+
+El funcionamiento y organización de la Comisión de Honor y Justicia será en los términos que establezca el Reglamento de esta Ley.
+
+###### Artículo 81.
+
+Corresponde a la Comisión de Honor y Justicia aplicar las sanciones que deban imponerse a los integrantes de la Policía Ministerial por faltas graves a la disciplina; las faltas no graves serán impuestas por el superior jerárquico, en términos del Reglamento de esta Ley.
+
+El procedimiento se instaurará ante la unidad administrativa que determine el Reglamento de esta Ley, iniciará por solicitud fundada y motivada del titular de la unidad a la que se encuentre adscrita el servidor público o del titular de la unidad administrativa encargada de vigilar el desempeño de las funciones que ejercen los elementos policiales.
+
+###### Artículo 82.
+
+Se agregará al expediente del infractor, copia certificada de las correcciones o sanciones disciplinarias que se le impongan, según el caso:
+
+I. Las correcciones disciplinarias, que serán impuestas por el superior jerárquico en términos de lo que determine el Reglamento, y serán:
+
+a) Amonestación privada o pública;
+
+b) Arresto hasta por treinta y seis horas;
+
+II. Las sanciones disciplinarias, que serán impuestas por la Comisión de Honor y Justicia, en los términos de lo que determine el Reglamento, y serán:
+
+a) Suspensión en el ejercicio del cargo y del goce de la remuneración correspondiente, hasta por noventa días; y
+
+b) Remoción.
+
+###### Artículo 83.
+
+La imposición de las sanciones disciplinarias que determine la Comisión de Honor y Justicia se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa en que incurran los integrantes de la Policía Ministerial.
+
+###### Artículo 84.
+
+Las sanciones disciplinarias que corresponda imponer a la Comisión de Honor y Justicia se sujetarán al procedimiento siguiente:
+
+I. Se le notificará personalmente, a través de la Unidad Administrativa que determine el Reglamento de esta Ley, al elemento policial sujeto a procedimiento, la naturaleza y causa de la acusación, a fin de que pueda defenderse por sí o por medio de un defensor;
+
+II. Se le concederá un plazo de cinco días hábiles para que ofrezca las pruebas que estime procedentes y manifieste lo que a su derecho importe; y, en un plazo máximo de diez días hábiles se celebrará la audiencia de desahogo de pruebas y presentación de alegatos; y
+
+III. Una vez celebrada la audiencia referida en la fracción anterior, la unidad administrativa que determine el Reglamento, turnará el expediente a la Comisión de Honor y Justicia para que resuelva la existencia o inexistencia de la falta disciplinaria imponiendo, en su caso, la sanción que corresponda atendiendo a la gravedad del hecho atribuido.
+
+Los procedimientos a que se refiere este artículo, deberán realizarse con estricto apego a las disposiciones legales aplicables y se observará en todo momento las formalidades esenciales del procedimiento.
+
+###### Artículo 85.
+
+En contra de las resoluciones por las que se imponga alguna de las sanciones disciplinarias previstas en el artículo 82 fracción II de esta Ley, procede el Recurso de Revisión, mismo que deberá interponerse dentro de los cinco días hábiles siguientes a la notificación de la resolución ante la Comisión y será resuelto por el Procurador. En el escrito correspondiente se expresarán los agravios y se ofrecerán las pruebas sobre las que no hubiese tenido conocimiento en el procedimiento de origen.
+
+### CAPÍTULO V. DE LA COMISIÓN DE SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
+
+###### Artículo 86.
+
+La Comisión de Servicio de Carrera de Procuración de Justicia es la instancia normativa encargada del desarrollo y evaluación del Servicio de Carrera de Procuración de Justicia; será presidida por el Procurador y se integrará por:
+
+I. El Procurador;
+
+II. Los Subprocuradores;
+
+III. El Director de Supervisión Técnica;
+
+IV. El Director del Instituto de Capacitación y Profesionalización;
+
+V. El Director de Información, Análisis y Control de la Conducta Individual;
+
+VI. El Director del Centro de Evaluación y Control de Confianza;
+
+VII. El Director Administrativo;
+
+VIII. El Director de Asuntos Internos de Policía Ministerial;
+
+IX. El Director de la Policía Ministerial;
+
+X. Un agente del Ministerio Público de reconocido prestigio profesional, buena reputación y excelente desempeño en la Dependencia, cuya designación estará a cargo del Procurador;
+
+XI. Un representante del Colegio de Peritos de la Procuraduría;
+
+XII. Dos representantes del ámbito académico, de reconocido prestigio, buena reputación y de desempeño ejemplar en el ámbito universitario o de investigación, cuya designación estará a cargo del Procurador; y
+
+XIII. Los demás funcionarios que en su caso determinen las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia o el Procurador por acuerdo.
+
+###### Artículo 87.
+
+La Comisión de Servicio de Carrera de Procuración de Justicia tendrá las funciones siguientes:
+
+I. Normar, desarrollar y evaluar el Servicio de Carrera de Procuración de Justicia y establecer políticas y criterios para tal efecto;
+
+II. Aprobar las convocatorias para ingreso y ascenso del personal de carrera;
+
+III. Aprobar los resultados de los concursos de ingreso y ascenso;
+
+IV. Recomendar al Procurador la adscripción inicial y los cambios de adscripción del personal de carrera;
+
+V. Aprobar los procedimientos y mecanismos para el otorgamiento de estímulos a los integrantes del servicio de carrera;
+
+VI. Resolver en única instancia los procedimientos de separación del servicio de carrera a que se refieren los artículos 67 fracción II inciso A) y 75 fracción I de esta Ley;
+
+VII. Establecer criterios y políticas generales de capacitación, formación actualización, especialización del personal de carrera;
+
+VIII. Dictar las normas necesarias para la regulación de su organización y funcionamiento;
+
+IX. Establecer los órganos y comisiones que deban auxiliarlo en el desempeño de sus funciones; y
+
+X. Las demás que le otorguen las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia.
+
+###### Artículo 88.
+
+La Comisión de Servicio de Carrera de Procuración de Justicia tendrá la organización y funcionamiento que determine el Reglamento de esta Ley.
+
+### CAPÍTULO VI. DEL PROCEDIMIENTO DE SEPARACIÓN DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
+
+###### Artículo 89.
+
+La separación del Servicio de Carrera de Procuración de Justicia procede por el incumplimiento de los requisitos de ingreso y permanencia, y se realizará como sigue:
+
+I. El superior jerárquico o la unidad administrativa que determine el Reglamento de esta Ley, deberá presentar queja fundada y motivada ante la Comisión de Servicio de Carrera de Procuración de Justicia; en la cual deberá señalar el requisito de ingreso o permanencia que presuntamente haya sido incumplido por el integrante del servicio de carrera de que se trate, adjuntando documentos y demás elementos probatorios que estime pertinentes;
+
+II. La Comisión de Servicio de Carrera de Procuración de Justicia notificará la queja al integrante del servicio de carrera de que se trate; en un término no menor de cinco ni mayor de quince días lo citará a una audiencia para que manifieste lo que a su derecho convenga, adjuntando los documentos y demás elementos probatorios que estime procedentes;
+
+III. El superior jerárquico, previo acuerdo del Procurador, podrá suspender al integrante del servicio de carrera hasta en tanto la Comisión de Servicio de Carrera de Procuración de Justicia resuelva lo conducente;
+
+IV. Una vez desahogada la audiencia y agotadas las diligencias correspondientes, la Comisión de Servicio de Carrera de Procuración de Justicia resolverá sobre la queja respectiva; y
+
+V. Contra la resolución de la Comisión de Servicio de Carrera de Procuración de Justicia no procederá recurso administrativo alguno.
+
+### CAPÍTULO VII. DE LAS SANCIONES
+
+###### Artículo 90.
+
+Las sanciones por incurrir en el incumplimiento de las obligaciones que señala esta Ley en los artículos 41 y 42 serán:
+
+I. Amonestación pública o privada;
+
+II. Suspensión hasta por seis meses; y
+
+III. Remoción.
+
+La acumulación de tres amonestaciones dará lugar a la suspensión.
+
+###### Artículo 91.
+
+Las sanciones a que se refiere el artículo anterior serán impuestas por el Procurador General de Justicia del Estado.
+
+###### Artículo 92.
+
+La determinación de la imposición de sanción será conforme el procedimiento siguiente:
+
+I. Las quejas y denuncias deberán presentarse por comparecencia directa o por escrito, ante la unidad administrativa que determine el Reglamento, en este último caso el quejoso deberá ratificar su promoción, de no ser así se archivará el expediente; sin perjuicio de que dicha autoridad pueda darle seguimiento de oficio;
+
+II. Se notificará personalmente al Servidor Público la queja y/o denuncia, y se le hará saber el derecho que tiene de defenderse por sí, o por medio de defensor, así como el de ofrecer pruebas y alegar lo que a su interés importe;
+
+III. A partir de la fecha de la notificación, se le concederá un término de quince días hábiles para que ofrezca las pruebas que estime procedentes; la autoridad administrativa correspondiente podrá practicar las diligencias que considere necesarias para la mejor substanciación del asunto que se investiga;
+
+IV. Concluido el término antes señalado y dentro de los cinco días hábiles siguientes se llevará a cabo la audiencia de desahogo de pruebas y alegatos; y
+
+V. Hecho lo anterior, la unidad administrativa correspondiente turnará el expediente al Procurador, quien resolverá sobre la existencia o inexistencia de la responsabilidad del servidor público, imponiendo la sanción que corresponda.
+
+###### Artículo 93.
+
+En cualquier momento, previo o posterior a la celebración de la audiencia, el Procurador podrá determinar la suspensión temporal del presunto infractor, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará en cumplimiento a la resolución que se emita.
+
+###### Artículo 94.
+
+En contra de las resoluciones a que se refieren los artículos anteriores, no procede recurso alguno.
+
+### CAPÍTULO VIII. DE LOS PROCESOS DE EVALUACIÓN Y CERTIFICACIÓN
+
+###### Artículo 95.
+
+La Procuraduría contará con un Centro de Evaluación y Control de Confianza a través del cual se emitirán los certificados correspondientes a quienes concluyan satisfactoriamente los procesos de certificación.
+
+###### Artículo 96.
+
+Los aspirantes y servidores públicos en activo de la Procuraduría, deberán someterse y aprobar los procesos de evaluación de control de confianza y desempeño, de conformidad con las disposiciones aplicables.
+
+###### Artículo 97.
+
+El proceso de evaluación de control de confianza constará de los exámenes siguientes:
+
+I. Patrimonial y de entorno social;
+
+II. Médico;
+
+III. Psicométricos y psicológicos;
+
+IV. Poligráfico;
+
+V. Toxicológico; y
+
+VI. Los demás que establezcan las normas aplicables.
+
+###### Artículo 98.
+
+El proceso de evaluación de desempeño comprenderá, atendiendo al perfil de puestos, lo siguiente:
+
+I. Comportamiento;
+
+II. Cumplimiento en el ejercicio de sus funciones;
+
+III. Conocimientos teóricos y prácticos; y
+
+IV. Los demás que establezcan las normas aplicables.
+
+###### Artículo 99.
+
+Las evaluaciones del personal en activo, se aplicarán en los casos siguientes:
+
+I. Promociones;
+
+II. Asignaciones de nuevas funciones, comisiones especiales o previas a recibir bienes, información, o funciones confidenciales o sensibles;
+
+III. Periódicas o de permanencia;
+
+IV. De validación para la licencia oficial colectiva de portación de armas de fuego; y
+
+V. Extraordinarias, las cuales deberán ser autorizadas por el Procurador, de conformidad con la normatividad aplicable al caso en particular.
+
+###### Artículo 100.
+
+El Procurador podrá requerir que los servidores públicos se presenten a la práctica de evaluaciones de control de confianza, independientemente de la vigencia de su certificado.
+
+###### Artículo 101.
+
+Los exámenes de proceso de evaluación de control de confianza se valorarán en conjunto, salvo el examen toxicológico que se presentará y calificará por separado.
+
+###### Artículo 102.
+
+Los servidores públicos serán citados a la práctica de las evaluaciones correspondientes. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aptos.
+
+###### Artículo 103.
+
+El contenido de los expedientes y reportes de resultados derivados de los procesos de evaluación tendrá el carácter de información confidencial y reservada.
+
+###### Artículo 104.
+
+Los integrantes del servicio de carrera ministerial, pericial y policial que no cumplan con los requisitos de permanencia en los procesos de evaluación de control de confianza y de desempeño, dejarán de prestar sus servicios en la Procuraduría, previo desahogo del procedimiento que establece el artículo 89 de esta Ley.
+
+Los demás servidores públicos de la Procuraduría que no cumplan con los requisitos de permanencia en los procesos de evaluación de control de confianza y de desempeño, dejarán de prestar sus servicios en la misma, de conformidad con las disposiciones establecidas en esta Ley.
+
+###### Artículo 105.
+
+La Procuraduría contará con un Centro de Evaluación y Control de Confianza, que tendrá a su cargo la aplicación, calificación y valoración de los procesos de evaluación de control de confianza a que se refiere este capítulo y ejercerá las facultades que determinen las normas aplicables; de los procesos de evaluación de desempeño corresponderá conocer a la Comisión del Servicio de Carrera de Procuración de Justicia.
+
+En el ejercicio de sus funciones el Centro de Evaluación y Control de Confianza de la Dependencia se sujetará a los criterios, normas, procedimientos técnicos y protocolos que se establezcan para tales efectos por el Centro Nacional de Certificación y Acreditación.
+
+###### Artículo 106.
+
+El Centro de Evaluación y Control de Confianza de la Dependencia expedirá los certificados para el ingreso y permanencia de agentes del Ministerio Público, peritos y policías ministeriales, así como el del personal que por acuerdo del Procurador deba certificarse.
+
+###### Artículo 107.
+
+La Procuraduría, en términos de los acuerdos y convenios que se adopten en el marco del Sistema Nacional de Seguridad Pública y otras disposiciones aplicables, podrá aplicar los procesos de evaluación a que se refiere este Capítulo, a servidores públicos de otras instituciones.
+
+### CAPÍTULO IX. DE LA RESPONSABILIDAD POR INCUMPLIMIENTO DE OBLIGACIONES EN EL SERVICIO DE PROCURACIÓN DE JUSTICIA
+
+###### Artículo 108.
+
+Los servidores públicos de la Procuraduría y en general toda persona que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la misma, están sujetos al régimen de responsabilidades a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, de conformidad con lo dispuesto en el Título Noveno Capítulo I de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+###### Artículo 109.
+
+El órgano interno de control que determine el Reglamento de esta Ley, ejercerá las funciones que le otorga la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y demás disposiciones aplicables.
+
+###### Artículo 110.
+
+Se podrán imponer a los servidores públicos de la Procuraduría, por el incumplimiento de las obligaciones señaladas en los artículos 41 y 42 de esta Ley las sanciones previstas en los ordenamientos legales aplicables en materia de responsabilidades de los servidores públicos, mediante el procedimiento establecido en el artículo 92 de esta Ley.
+
+###### Artículo 111.
+
+Cuando proceda la separación, remoción o inhabilitación de servidor público de la Procuraduría, deberá ordenar la cancelación del certificado en los términos de esta Ley; en los casos de las demás sanciones disciplinarias o administrativas deberá realizarse el registro correspondiente.
+
+La cancelación del Certificado deberá registrarse en los términos del Sistema Nacional de Seguridad Pública.
+
+###### Artículo 112.
+
+Los agentes del Ministerio Público no son recusables, pero bajo su más estricta responsabilidad deben excusarse del conocimiento de los negocios en que intervengan, cuando exista alguna de las causas de impedimento que la ley señala en el caso de Magistrados y Jueces del Tribunal Superior de Justicia del Estado y las demás disposiciones aplicables, haciéndolo del conocimiento por escrito de su superior inmediato.
+
+El Titular del Ejecutivo del Estado calificará las excusas del Procurador.
+
+Si el agente del Ministerio Público interviene en un asunto aun cuando no deba hacerlo, será sancionado conforme con las disposiciones de esta Ley y demás que resulten aplicables.
+
+###### Artículo 113.
+
+La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público dará lugar al empleo de medidas de apremio o a la imposición de correcciones disciplinarias, según sea el caso, en los términos que previenen las normas aplicables. Cuando la desobediencia o resistencia constituyan delito, se iniciará la averiguación previa respectiva.
+
+###### Artículo 114.
+
+Los agentes del Ministerio Público, peritos y policías ministeriales podrán ser separados de sus cargos si no cumplen con los requisitos de permanencia que establezcan las leyes vigentes o si incurren en alguna causa de responsabilidad en el desempeño de sus funciones.
+
+Si la separación, remoción, inhabilitación o cualquier otra forma de terminación del servicio es injustificada, se deberá pagar la indemnización correspondiente y demás prestaciones a que tenga derecho, sin que en ningún caso proceda la reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido; de conformidad con el artículo 123, Apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el Registro Nacional de Personal de Seguridad Pública correspondiente.
+
+###### Artículo 115.
+
+En todo lo no previsto en los procedimientos señalados en los artículos 84, 89 y 90, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla.
+
+## TRANSITORIOS
+
+Artículo Primero.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado publicada en el Periódico Oficial del Estado con fecha 15 de marzo de mil novecientos noventa y seis, continuarán vigentes las normas expedidas con apoyo en la ley que se abroga, en lo que no se opongan a la presente.
+
+Artículo Tercero.- Las funciones de la Policía Judicial serán realizadas por la Policía Ministerial, en los términos de la normatividad correspondiente.
+
+El personal ministerial, pericial y policial, que a la fecha de entrada en vigor de la presente Ley, se encuentren en activo en la Procuraduría, tendrá un plazo de noventa días hábiles contados a partir de la entrada en vigor de esta Ley para manifestar su voluntad de someterse al proceso de evaluación de control de confianza y desempeño.
+
+Quienes no se sometan o no aprueben el referido proceso de evaluación, serán separados del servicio en la Procuraduría.
+
+Los procesos de evaluación de control de confianza a que se refiere este artículo deberán concluirse en un plazo máximo de tres años a partir de la entrada en vigor de esta Ley.
+
+Artículo Cuarto.- En un marco de respeto a sus derechos laborales, el personal de base que se encuentre laborando en la Procuraduría, tendrá un plazo de treinta días hábiles contado a partir de la entrada en vigor de esta Ley para optar por cualquiera de las alternativas siguientes:
+
+I. Manifestar su voluntad de permanecer en la Procuraduría en una plaza de confianza de nivel equivalente o superior;
+
+II. A ser reubicado dentro de la Administración Pública local conforme con su perfil; o
+
+III. A concluir la prestación de servicios en forma definitiva, atendiendo a las disposiciones establecidas en los ordenamientos legales aplicables.
+
+La Procuraduría contará con un plazo de tres años, contado a partir del inicio de la vigencia de la presente Ley, a efecto de instrumentar lo dispuesto en este artículo.
+
+El personal que opte por lo dispuesto en la fracción I de este artículo, deberá someterse y aprobar las evaluaciones de control de confianza, dentro del plazo a que se refiere el párrafo anterior; de lo contrario, dejará de prestar sus servicios en la Procuraduría.
+
+Artículo Quinto.- Todo el personal de la Procuraduría deberá ser evaluado en los términos de esta Ley dentro de un plazo máximo de tres años, contado a partir del inicio de la vigencia de la misma.
+
+Artículo Sexto.- Las disposiciones reglamentarias de la presente Ley, deberán expedirse dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de esta Ley.
+
+Artículo Séptimo.- En tanto se expide el Reglamento de esta Ley, se aplicará el Reglamento vigente, en todo aquello que no se oponga a las disposiciones de la presente Ley.
+
+Artículo Octavo.- En tanto se expiden las disposiciones reglamentarias del servicio de carrera ministerial, pericial y de policía ministerial, la Comisión de Servicio de Carrera de Procuración de Justicia y el Procurador emitirán las normas generales relativas al desarrollo y operación de dicho servicio, conforme la normatividad aplicable.
+
+Artículo Noveno.- Los agentes del Ministerio Público, peritos e integrantes de la Policía Ministerial que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría, observarán las disposiciones reglamentarias del Servicio de Carrera Ministerial, Pericial y Policial que se expidan para tal efecto.
+
+Artículo Décimo.- Los procedimientos de responsabilidad administrativa que se encuentren en trámite ante la Dirección de Información, Análisis y Control de la Conducta Individual, continuarán su substanciación hasta su resolución, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Artículo Decimoprimero.- Para la implementación del Centro de Evaluación y Control de Confianza de la Dependencia se estará a los términos establecidos en los acuerdos, convenios e instrumentos jurídicos aplicables.
+
+Artículo Decimosegundo.- Las erogaciones que se deriven de la aplicación de esta Ley estarán sujetas a la suficiencia presupuestal del Estado.
+
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los dieciocho días del mes de junio de dos mil nueve.- Diputada Presidenta.- BÁRBARA MICHELE GANIME BORNNE.- Rubrica.- Diputado Vicepresidente.- AVELINO TOXQUI TOXQUI.- Rúbrica.- Diputado Secretario.- JOSÉ MANUEL JANEIRO FERNÁNDEZ.- Rúbrica.- MELITÓN LOZANO PÉREZ.- Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de junio de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
