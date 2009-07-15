@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-19194"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2002-09-02"
+last_updated: "2009-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de diciembre de 2000.
 
@@ -1194,3 +1196,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan la presente Decreto.
+
+P.O. 15 DE JULIO DE 2009.
+
+Artículo Primero.- La presente Ley iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Seguridad Pública del Estado, publicada en el Periódico Oficial del Estado con fecha 27 de diciembre de 2000, así como todas aquellas disposiciones que se opongan a la presente Ley. Hasta en tanto en cuanto se expidan las disposiciones reglamentarias respectivas, se aplicarán en lo conducente la normatividad aplicable al Consejo de Honor y Justicia, observando lo dispuesto en las leyes de la materia.
+
+Artículo Tercero.- Las disposiciones reglamentarias de la presente Ley deberán expedirse dentro de los 120 días hábiles siguientes a la entrada en vigor de esta Ley.
+
+Artículo Cuarto.- Las personas físicas o jurídicas que cuentan con registro y autorización para prestar el servicio de seguridad privada, para la revalidación de los mismos tendrán que observar lo previsto en esta Ley.
+
+Artículo Quinto.- Para la creación y operación de los Centros de Evaluación y Control de Confianza se estará a los términos establecidos en los acuerdos, convenios o instrumentos jurídicos aplicables.
+
+Artículo Sexto.- Los asuntos que se encuentren en trámite ante las instancias u órganos encargados de investigar y sancionar la responsabilidad de las personas integrantes de Cuerpos de Seguridad Pública Estatal y Municipales, continuarán desahogándose hasta su conclusión, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Artículo Séptimo.- Las erogaciones que se deriven de la aplicación de esta Ley estarán sujetas a la suficiencia presupuestal.
