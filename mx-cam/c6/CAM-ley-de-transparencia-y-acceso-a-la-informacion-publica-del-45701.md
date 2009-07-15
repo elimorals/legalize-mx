@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4570
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-21"
-last_updated: "2005-07-21"
+last_updated: "2009-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CAMPECHE
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CAMPECHE
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 21 de julio de 2005.
 
@@ -39,9 +39,11 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, con aplicación en todo el territorio del Estado de Campeche. Tiene por objeto garantizar el derecho de toda persona al acceso a la información pública. Y establece como principio fundamental la garantía de máxima apertura de toda información de los sujetos obligados, la sencillez del procedimiento y la gratuidad.
+La presente Ley es de orden público e interés social, con aplicación en todo el territorio del Estado de Campeche, y tiene por objeto garantizar el derecho de toda persona al acceso a la información pública, estableciendo como principios fundamentales la garantía de máxima publicidad de toda información de los sujetos obligados, la sencillez del procedimiento y la gratuidad.
 
 ###### Artículo 2.
 
@@ -133,9 +135,29 @@ XVII. Los contratos, convenios y condiciones generales de trabajo que regulen la
 
 XVIII. Los estados financieros del Estado y de los Municipios y la situación de sus respectivas deudas públicas siempre serán de acceso público; y
 
-XIX. Cualquier otra información que sea de utilidad, a juicio del Ente Público o de la Comisión, para el ejercicio del derecho de acceso a la información pública.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-Los Entes Públicos que cuenten con servicio de internet, colocarán la información que señala este artículo en su página correspondiente.
+XIX. La información completa y actualizada de los indicadores de gestión establecidos, de acuerdo con las atribuciones a cargo del Ente Público;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XX. Los montos y las personas u organismos a quienes entreguen por cualquier concepto recursos públicos, así como los informes que las mismas les entreguen sobre el uso y destino dado a dichos recursos;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXI. El presupuesto ejercido para cada año y los programas y acciones alcanzados;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXII. Las solicitudes de información recibidas y las respuestas dadas a las mismas; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXIII. Cualquier otra información que sea de utilidad, a juicio del Ente Público o de la Comisión, para el ejercicio del derecho de acceso a la información pública.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
+Los Entes Públicos colocarán la información que señala este artículo en su página de Internet, con la excepción señalada en el artículo 40 de ésta Ley.
 
 ###### Artículo 6.
 
@@ -145,17 +167,23 @@ El Poder Judicial del Estado deberá hacer públicas las sentencias que hayan ca
 
 La actuación de los Entes Públicos sólo estará sujeta a restricción en los casos expresamente previstos en la presente Ley, por lo que toda la información pública que generen, guarden o custodien será considerada, con fundamento en el principio de máxima apertura como pública y de libre acceso, sin perjuicio de lo establecido por el artículo 52-B del Código Fiscal del Estado de Campeche.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### Artículo 8.
 
-El trámite de acceso que soliciten las personas respecto de la información pública será gratuito. No obstante, la reproducción de la información habilitará al Estado y a los Municipios a realizar el cobro de un derecho por un monto de recuperación razonable que se establecerá en la respectiva legislación hacendaria. Generarán pago de Derechos:
+El trámite de acceso y la información pública que de ello derive serán gratuitos. Los Entes Públicos deberán esforzarse por reducir al máximo, los costos de la entrega de información.
+
+Sin detrimento de lo anterior, la reproducción de la información habilitará al Estado y a los Municipios a realizar el cobro de un derecho por un monto de recuperación razonable que se establecerá en la respectiva legislación hacendaría.
+
+En su caso, generarán pago de derechos:
 
 I. El costo de los materiales utilizados en la reproducción de la información;
 
-II. El costo de envío; y
+II. El costo de envío por correo o mensajería; y
 
-III. La certificación de documentos, de ser el caso.
+III. La certificación de documentos, cuando así solicite el interesado le sea entregada la información.
 
-Los Entes Públicos deberán esforzarse por reducir al máximo, los costos de la entrega de información.
+Tratándose de la reproducción en medios magnéticos, si el interesado aporta el medio en el que será almacenada la información, la reproducción será totalmente gratuita.
 
 ###### Artículo 9.
 
@@ -185,17 +213,21 @@ La Comisión revisará los casos en que amerite la conservación de archivos pri
 
 Queda a cargo de la Comisión establecer los lineamientos técnicos a efecto de determinar la forma de clasificación, resguardo, conservación y protección de los archivos, tomando en cuenta las opiniones que al respecto emitan los responsables de los diversos archivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### Artículo 15.
 
-Los Entes Públicos tendrán la obligación de conservar los documentos que contengan la información pública, por lo que para tales efectos:
+Los Entes Públicos deberán documentar todos los actos que deriven del ejercicio de sus facultades, competencias o funciones, teniendo la obligación de conservar los documentos que contengan la información pública, por lo que para tales efectos:
 
 I. Deberán contar con un programa de actualización de sistemas de control y archivo de información, para que está se encuentre correctamente actualizada;
 
 II. Establecerán programas de automatización de la consulta de archivos por medios electrónicos; y
 
-III. Darán cumplimiento a los lineamientos y observaciones que sobre el particular emita la comisión.
+III. Darán cumplimiento a los lineamientos y observaciones que sobre el particular emita la Comisión.
 
 ### CAPÍTULO CUARTO. DEL ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 16.
 
@@ -203,11 +235,9 @@ En el Estado toda persona tiene derecho a conocer la información pública, siem
 
 No se exigirá a los interesados la expresión de las razones que motiven su petición, así como el acreditar algún interés legitimo o derecho subjetivo para tener acceso a la información pública, salvo en el caso de la información confidencial.
 
-La prohibición anterior, no comprende los datos de identificación y acreditación de la personalidad que sean establecidos por los Entes Públicos para el registro estadístico y el control en el acceso a la información pública.
-
 ###### Artículo 17.
 
-Los interesados deberán abstenerse de causar cualquier daño a los documentos propiedad de los Entes Públicos que le sean mostrados o puestos a disposición, así como hacer del conocimiento de la autoridad competente toda destrucción, menoscabo o uso indebido de los mismos.
+(DEROGADO, P.O. 15 DE JULIO DE 2009)
 
 ### CAPÍTULO QUINTO. DE LAS UNIDADES DE ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -233,11 +263,17 @@ IV. Expedir copia simple o certificada de la información pública solicitada, s
 
 V. Coordinar, organizar, administrar, custodiar y sistematizar los archivos que contengan la información pública a su cargo, respetando en todo momento los lineamientos que al efecto dicte la Comisión;
 
-VI. Canalizar a la Comisión toda solicitud de información pública que no obre en los archivos del Ente Público a la que estén adscritos;
+VI. (DEROGADA, P.O. 15 DE JULIO DE 2009)
 
-VII. Recibir y enviar a la Comisión los recursos de revisión para su trámite; y
+VII. (DEROGADA, P.O. 15 DE JULIO DE 2009)
 
 VIII. Las demás obligaciones que señale está Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2009)</small>
+
+###### Artículo 20 Bis.
+
+Cuando las necesidades del servicio así lo ameriten, los Poderes Legislativo, Ejecutivo y Judicial, así como los Ayuntamientos, quedan facultados para crear, mediante la emisión del correspondiente Acuerdo, unidades de acceso comunes para todas las dependencias, entidades y órganos que conformen su estructura orgánica; o instancias de coordinación de las unidades de acceso de cada una de esas dependencias, entidades y órganos.
 
 ### CAPÍTULO SEXTO. DE LA INFORMACIÓN PÚBLICA RESTRINGIDA
 
@@ -245,9 +281,11 @@ VIII. Las demás obligaciones que señale está Ley y otros ordenamientos aplica
 
 El acceso a la información pública será restringido, cuando ésta sea clasificada como reservada o confidencial.
 
-###### Artículo 22.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2009)</small>
 
-Para los efectos de esta Ley se considera información reservada la expresamente clasificada como tal mediante resolución administrativa del titular de cada Ente Público, sólo procederá la clasificación de reserva en los casos siguientes:
+###### Artículo 22
+
+Para los efectos de esta Ley se considera información reservada la expresamente clasificada como tal mediante resolución administrativa del titular de cada Ente Público, o del órgano o servidor público en que delegue esta facultad. Sólo procederá la clasificación de reserva en los casos siguientes:
 
 I. Cuando se trate de información cuya difusión comprometa la seguridad de la Nación, el Estado o el Municipio;
 
@@ -255,11 +293,13 @@ II. Ponga en riesgo la vida, la seguridad o la salud de cualquier persona;
 
 III. Cuando la información que se difunda pueda causar un serio perjuicio a las actividades de prevención o persecución de los delitos; a la impartición de justicia; a la recaudación de las contribuciones o a las estrategias procesales en procesos judiciales o administrativos, mientras las resoluciones no causen estado;
 
-IV. Los datos particulares contenidos en las averiguaciones previas, procedimientos judiciales, administrativos, fiscales, laborales y la información de juicios políticos y declaración de procedencia, hasta que la sentencia, resolución o laudo que le recaiga haya quedado firme. Las partes podrán oponerse a la publicación de sus datos personales;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-V. Los datos contenidos y la información derivada de los procedimientos de revisión de las cuentas públicas y los procedimientos de auditorias oficiales que se practiquen a los Entes Públicos, mientras dichos procedimientos no se encuentren concluidos;
+IV. Los datos particulares contenidos en las averiguaciones previas, procedimientos judiciales, administrativos, fiscales, laborales y la información de juicios políticos, declaración de procedencia y procedimientos administrativos disciplinarios, hasta que la sentencia, resolución o laudo que le recaiga haya quedado firme. Las partes podrán oponerse a la publicación de sus datos personales;
 
-VI. Los datos sobre la situación patrimonial de los servidores públicos, salvo cuando éstos, autoricen su difusión;
+V. Los datos contenidos y la información derivada de los procedimientos de revisión de las cuentas públicas y los procedimientos de auditorías oficiales que se practiquen a los Entes Públicos, mientras dichos procedimientos no se encuentren concluidos;
+
+VI. Los datos sobre la situación patrimonial de los servidores públicos, salvo cuando éstos autoricen su difusión;
 
 VII. La información de particulares recibida por el Ente Público bajo promesa de reserva o que esté relacionada con la propiedad intelectual, patentes o marcas en poder de las autoridades; y
 
@@ -270,6 +310,14 @@ La fundamentación y motivación de la clasificación de reserva se hará del co
 En todo momento la Comisión tendrá acceso a la información prevista en este precepto para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso.
 
 No podrá invocarse el carácter de reservado cuando se trate de la investigación de violaciones a los derechos fundamentales. Asimismo, la autoridad deberá preparar versiones públicas de todos los supuestos previstos en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2009)</small>
+
+Los Entes Públicos elaborarán semestralmente y por rubros temáticos, un índice de los expedientes clasificados como reservados. Dicho índice deberá indicar la unidad administrativa que generó la información, la fecha de clasificación, su fundamento, el plazo de reserva y, en su caso, las partes de los documentos que se reservan. En ningún caso el índice será considerado como información reservada. Los Entes Públicos deberán notificar a la Comisión el índice de sus expedientes reservados, así como las actualizaciones semestrales de los mismos, de acuerdo con los lineamientos que la citada Comisión expida en la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2009)</small>
+
+El titular de cada Ente Público deberá adoptar las medidas necesarias para asegurar la custodia y conservación de los expedientes clasificados.
 
 ###### Artículo 23.
 
@@ -375,29 +423,47 @@ I. Capacitar a los servidores públicos en relación con la protección de los d
 
 II. Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### Artículo 37.
 
-Sin perjuicio de lo que dispongan otras leyes, sólo los interesados o sus representantes podrán solicitar a una Unidad de Acceso, previa acreditación, que les proporcionen los datos personales que de ellos obren en sus archivos.
+Sin perjuicio de lo que dispongan otras leyes, sólo los interesados o sus representantes legalmente autorizados podrán solicitar a una Unidad de Acceso, previa acreditación y de manera gratuita, que les proporcionen los datos personales que de ellos obren en sus archivos, mediante el cumplimiento de los siguientes requisitos:
+
+I. Solicitud por escrito en la que se exprese el nombre, domicilio u otro medio para recibir notificaciones y los datos personales requeridos, señalando el sistema en que se encuentran;
+
+II. Identificación oficial del solicitante; y
+
+III. Firma o huella digital.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 38.
 
-Las personas interesadas o sus representantes podrán solicitar, previa acreditación ante la Unidad de Acceso, que se modifiquen sus datos personales que obren en poder de los Entes Públicos; con tal propósito el interesado deberá entregar una solicitud de modificaciones a la Unidad de Acceso que señale el sistema de datos personales, indique las modificaciones por realizarse y aporte la información que justifique su petición. La Unidad de Acceso deberá entregar al solicitante, en un plazo de 30 días hábiles desde la presentación de la solicitud, una comunicación que haga constar las modificaciones o bien, le informe de manera fundada y motivada las razones por las cuales no procedieron las modificaciones.
+Las personas interesadas o sus representantes podrán solicitar, de manera gratuita y previa acreditación ante la Unidad de Acceso, que se modifiquen sus datos personales que obren en poder de los Entes Públicos; con tal propósito el interesado deberá entregar una solicitud de modificaciones a la Unidad de Acceso que señale el sistema de datos personales, indique las modificaciones por realizarse y aporte la información que justifique su petición. La Unidad de Acceso deberá entregar al solicitante, en un plazo de 30 días hábiles desde la presentación de la solicitud, una comunicación que haga constar las modificaciones o bien, le informe de manera fundada y motivada las razones por las cuales no procedieron las modificaciones.
 
 ## TÍTULO SEGUNDO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
+### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO DE ACCESO
 
 ###### Artículo 39.
 
 El procedimiento para el acceso a la información pública se inicia mediante solicitud escrita, de manera pacífica, respetuosa que formule el interesado al Ente Público, a través de la Unidad de Acceso designada, en la que se considere se encuentre la información deseada.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### Artículo 40.
 
-Los Entes Públicos establecerán como vía de acceso a la información pública sistemas de comunicación electrónicos, en función de la disponibilidad de dichos sistemas.
+Los Entes Públicos establecerán como vía de acceso a la información pública y a los procedimientos de revisión que establece esta ley, sistemas de comunicación electrónicos. En el caso de los ayuntamientos y sus órganos administrativos auxiliares y paramunicipales, deberán contar con estos sistemas aquellos de los municipios que rebasen los setenta mil habitantes.
+
+La Comisión realizará lo conducente para que se adopte un sistema electrónico único para todos los Entes Públicos del Estado.
 
 ###### Artículo 41.
 
 Los Entes Públicos adoptarán las medidas que permitan dotar de certeza a los informes enviados por medios remotos de comunicación. En cualquier caso conservarán constancia de las resoluciones originales.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 42.
 
@@ -405,23 +471,23 @@ Todo acceso a la información pública se realizará a petición del interesado,
 
 I. Identificación del Ente Público a quien se dirija;
 
-II. Nombre y nacionalidad;
+II. Nombre del solicitante
 
-III. Identificación oficial del solicitante;
+III. Identificación clara y precisa de la información que se solicita; y
 
-IV. Identificación clara y precisa de la información que se solicita;
-
-V. Domicilio o medio para recibir la información o notificaciones; y
-
-VI. Firma del solicitante o en su caso huella digital.
+IV. Domicilio o medio para recibir la información o notificaciones.
 
 En caso de que el interesado sea persona moral se deberá comprobar además, su legal constitución y que quien formula la petición en su nombre es su legítimo representante.
 
-Los requisitos establecidos en las fracciones III y VI serán opcionales para el solicitante.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 15 DE JULIO DE 2009)</small>
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 43.
 
-Cuando la solicitud de información resulte confusa, sea omisa en contener los datos necesarios para la localización de la información o no satisfaga alguno de los requisitos previstos en el artículo que antecede, la Unidad de Acceso procederá de inmediato a requerir al interesado para que, en el plazo de cinco días hábiles contados a partir del día siguiente del requerimiento, haga las aclaraciones pertinentes o subsane las omisiones en que haya incurrido. De no recibir la aclaración correspondiente, la solicitud se tendrá como no interpuesta.
+Cuando la solicitud de información resulte confusa, sea omisa en contener los datos necesarios para la localización de la información o no satisfaga alguno de los requisitos previstos en el artículo que antecede, la Unidad de Acceso procederá, dentro de los tres días siguientes a la recepción de la solicitud, a requerir al interesado para que, en el plazo de cinco días hábiles contados a partir del día siguiente del requerimiento, haga las aclaraciones pertinentes o subsane las omisiones en que haya incurrido. De no recibir la aclaración correspondiente, la solicitud se tendrá como no interpuesta.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 44.
 
@@ -429,49 +495,109 @@ Presentada la solicitud, la Unidad de Acceso deberá emitir resolución dentro d
 
 I. Entregando la información solicitada;
 
-II. Negando la información cuando el interesado, dentro del plazo concedido, no haya hecho las aclaraciones solicitadas o subsanado las omisiones en que incurra;
+II. Negando la información cuando el interesado, dentro del plazo concedido, no haya hecho las aclaraciones solicitadas o subsanado las omisiones en que incurra; y
 
-III. Negando la información total o parcialmente, cuando se trate de la considerada como reservada o confidencial; o
+III. Negando la información total o parcialmente, cuando se trate de la considerada como reservada o confidencial.
 
-IV. Avisando del envío de la solicitud a la Comisión, en virtud de no ser información propia del Ente Público a la que esté adscrita la Unidad.
+En caso de que la información solicitada no sea competencia del Ente Público, la Unidad de Acceso deberá hacerlo del conocimiento del interesado en un plazo máximo de cinco días hábiles indicándoles, de ser posible, aquél o aquellos que presuman puedan poseer la misma.
+
+Los plazos a que se refiere este artículo se contarán a partir del siguiente día de recepción de la solicitud o de que fenezca el plazo que para hacer aclaraciones o subsanar omisiones establece el artículo 43.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 45.
 
-Cuando no se dé respuesta en tiempo y forma a la solicitud de información, en caso de que la posea el Ente Público, éste queda obligado a otorgarla a través de la Comisión al interesado en un período no mayor a diez días hábiles, posteriores al vencimiento del plazo para la respuesta, sin costo alguno, sin que medie solicitud de parte interesada, salvo lo previsto en el artículo siguiente.
+Cuando no se dé respuesta en tiempo y forma a la solicitud de información, en caso de que la posea el Ente Público, éste queda obligado a otorgarla al interesado en un período no mayor a diez días hábiles, posteriores a la resolución del recurso de revisión establecido en esta Ley, salvo lo previsto en el artículo siguiente.
 
-En todo caso la Comisión revisará que la entrega sea acorde a los principios establecidos en esta Ley.
+En todo caso, la Comisión revisará que la entrega sea acorde a los principios establecidos en esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 46.
 
-Cuando el volumen y extensión de la respuesta así lo justifique, el plazo a que se refiere el artículo 44 de está Ley se podrá ampliar hasta en diez días hábiles más, dando conocimiento al interesado dentro de los dos días hábiles anteriores a la conclusión del plazo señalado en el artículo citado, de la prórroga del plazo y del avance en la recopilación de la información solicitada.
+Cuando la búsqueda de la información requerida o la naturaleza de la respuesta así lo justifique, el plazo a que se refiere el artículo 44 de esta Ley se podrá ampliar hasta en diez días hábiles más, dando conocimiento al interesado dentro de los dos días hábiles anteriores a la conclusión del plazo señalado en el artículo citado, de la prórroga del plazo y del avance en la recopilación de la información solicitada.
 
 ###### Artículo 47.
 
-La consulta de la información pública se regirá por el principio de gratuidad. Sólo se cobrarán los gastos de reproducción de la información.
+(DEROGADO, P.O. 15 DE JULIO DE 2009)
 
-Cuando el interesado solicite que las copias sean certificadas, deberá satisfacer el importe del correspondiente derecho fiscal.
-
-Tratándose de la reproducción en medios magnéticos, si el interesado aporta el medio en el que será almacenada la información, la reproducción será totalmente gratuita.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 48.
 
-A toda solicitud de información pública deberá recaer una resolución por escrito; en caso de prórroga del término o de negativa de la información, ésta deberá encontrarse debidamente fundada y motivada.
+A toda solicitud de información pública deberá recaer una resolución por escrito; en caso de prórroga del término o de negativa de la información, ésta deberá encontrarse debidamente fundada y motivada. La información se proporcionará en el estado en que se encuentre en los Entes Públicos. La obligación no comprende el procesamiento de la misma, ni el presentarla conforme al interés del solicitante.
 
-Quienes soliciten información pública tienen derecho a que ésta, les sea proporcionada por escrito y a obtener a su elección por cualquier medio la reproducción de los documentos en que se contenga.
+Los documentos en que obre la información solicitada se proporcionarán al interesado en copias fotostáticas. Si los documentos estuviesen digitalizados se podrán entregar al solicitante grabados en medio magnético o enviárselos por correo electrónico.
 
-La información se proporcionará en el estado en que se encuentre en los Entes Públicos. La obligación no comprende el procesamiento de la misma, ni el presentarla conforme al interés del solicitante.
+El derecho a la información no implica el permitir al solicitante la consulta directa del expediente o expedientes en los que se contenga.
 
 El solicitante será responsable de la divulgación que haga de la información recibida.
 
-### CAPÍTULO PRIMERO. DE SU CONFORMACIÓN Y ATRIBUCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2009)</small>
+
+### CAPÍTULO SEGUNDO. DEL ACCESO A LA INFORMACIÓN DE LOS ORGANISMOS DE LA SOCIEDAD CIVIL
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Bis.
+
+Las disposiciones del presente Capítulo son aplicables a las personas físicas y organismos de la sociedad civil, cualquiera que sea su constitución legal, que reciban recursos públicos, exclusivamente respecto a la información referente a esos recursos.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Ter.
+
+Para efectos de la Ley, se tendrán como obligaciones de transparencia aplicables:
+
+I. Datos generales de la persona o asociación;
+
+II. Estatutos;
+
+III. Objetivos; y
+
+IV. Misión y visión.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Quáter.
+
+En lo referente a los recursos públicos asignados, por cada programa y/o proyecto, se presentara:
+
+I. Metas, objetivos y resultados esperados;
+
+II. Recursos asignados y recibidos;
+
+III. Informe sobre los resultados obtenidos, acciones realizadas y recursos ejercidos; y
+
+IV. La demás información que, a juicio de los organismos de la sociedad civil, se considere relevante en materia de transparencia y rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Quinquies.
+
+La información relativa al presente Capítulo, se solicitará al Ente Público que asignó los recursos, conforme al procedimiento establecido en esta Ley y en el Reglamento respectivo.
 
 ## TÍTULO TERCERO. DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-### CAPÍTULO SEGUNDO. DE LA PROMOCIÓN DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
+### CAPÍTULO PRIMERO. DE SU CONFORMACIÓN Y ATRIBUCIONES
 
-###### Artículo 49.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
-La Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, es el organismo público autónomo con personalidad jurídica, patrimonio propio, autonomía de gestión y presupuestaria; encargado de promover y difundir el ejercicio del derecho de acceso a la información pública, resolver sobre la negativa a las solicitudes de información pública y proteger los datos personales en poder de los Entes Públicos.
+###### Articulo 49.
+
+La Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, es el órgano constitucional con personalidad jurídica, patrimonio propio, autonomía operativa, de gestión y de decisión, encargado de promover y difundir el ejercicio del derecho de acceso a la información pública, resolver sobre la negativa a las solicitudes de información pública y proteger los datos personales en poder de los Entes Públicos.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2009)</small>
+
+###### Artículo 49 Bis.
+
+El patrimonio de la Comisión estará integrado con:
+
+I. Los bienes muebles e inmuebles que adquiera o se le destinen para el cumplimiento de su objeto;
+
+II. Las partidas que anualmente se le aprueben en el presupuesto de Egresos del Estado; y
+
+III. Los ingresos que perciba por cualquier concepto derivado de la aplicación de la presente Ley.
 
 ###### Artículo 50.
 
@@ -479,7 +605,9 @@ La Comisión tendrá las siguientes atribuciones:
 
 I. Vigilar el cumplimiento de la presente Ley;
 
-II. Conocer y resolver los recursos que se interpongan contra los actos y resoluciones emanados de los Entes Públicos, derivados de las solicitudes de acceso a la información;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+II. Conocer y resolver los recursos que se interpongan contra los actos y resoluciones emanados de los Entes Públicos, derivados de las solicitudes de acceso a la información, favoreciendo los principios de máxima publicidad y disponibilidad de la información en posesión de los sujetos obligados;
 
 III. Elaborar y emitir los lineamientos que deberán observarse para la clasificación de la información pública, de conformidad con los criterios establecidos en esta Ley y resolver todas las dudas que al respecto tengan los Entes Públicos y sus Unidades de Acceso;
 
@@ -493,11 +621,15 @@ VII. Elaborar y emitir los lineamientos generales para la organización, conserv
 
 VIII. Formular lineamientos a los Entes Públicos para que realicen las adecuaciones necesarias en las normas reglamentarias, manuales y demás disposiciones administrativas de carácter general, que rijan su actuación para implementar los principios de transparencia y acceso a la información pública previstos en esta Ley;
 
-IX. Interpretar en el orden administrativo las disposiciones de esta Ley, con fundamento en la Constitución General de la República, los tratados internacionales suscritos por México así como por las leyes de la materia;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+IX. Interpretar en el orden administrativo las disposiciones de esta Ley, con fundamento en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales suscritos por los Estados Unidos Mexicanos, así como por las leyes de la materia, favoreciendo los principios de máxima publicidad y disponibilidad de la información en posesión de los sujetos obligados;
 
 X. Establecer y revisar los lineamientos de clasificación, desclasificación y custodia de la información reservada y confidencial;
 
-XI. Proporcionar apoyo técnico a los Entes Públicos en el cumplimiento de la presente Ley;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XI. Proporcionar apoyo técnico a los Entes Públicos en el cumplimiento de la presente Ley y vigilar que sus actividades se desarrollen con apego a la misma;
 
 XII. Promover y, en su caso, ejecutar la capacitación de los servidores públicos en materia de acceso a la información y protección de datos personales;
 
@@ -509,7 +641,9 @@ XV. Expedir su reglamento interior, manuales y demás normas que permitan su org
 
 XVI. Elaborar los formatos de solicitudes de acceso a la información, así como los de acceso y corrección de datos personales;
 
-XVII. Orientar y asesorar a las personas sobre los procedimientos para acceder a la información pública de los Entes Públicos;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XVII. Orientar y asesorar a las personas sobre los procedimientos para acceder a la información pública de los Entes Públicos, absteniéndose de receptar solicitud alguna de acceso a la información que no obre en posesión de la Comisión o que vaya dirigida a otro Ente;
 
 XVIII. Elaborar y aprobar su proyecto de presupuesto anual de egresos y remitirlo al Ejecutivo del Estado, para que sea incluido en el proyecto de Ley de Presupuesto de Egresos del Estado del correspondiente ejercicio fiscal;
 
@@ -573,11 +707,13 @@ La Comisión tomará sus resoluciones por mayoría de votos y para que sus sesio
 
 La ausencia temporal de alguno de los comisionados, se ajustará a lo que establezca el reglamento interior de la comisión.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### Artículo 55.
 
-Los Entes Públicos deberán presentar a la Comisión, un informe por escrito correspondiente al año anterior, a más tardar antes de que finalice el último día hábil del mes de enero siguiente.
+Los Entes Públicos deberán presentar a la Comisión informes semestrales, por escrito, a más tardar antes de que finalicen los meses de julio y enero de cada año, respectivamente.
 
-El informe deberá contener:
+Los informes deberán contener:
 
 I. El número de solicitudes formuladas al Ente Público de que se trate y la información requerida;
 
@@ -589,13 +725,13 @@ IV. Cantidad de solicitudes pendientes;
 
 V. Cantidad de solicitudes con prórrogas;
 
-VI. Número de solicitudes desechadas;
+VI. Número de solicitudes desechadas; y
 
-VII. Cantidad de solicitudes no satisfechas por ser información reservada o confidencial; y
+VII. Cantidad de solicitudes no satisfechas por ser información reservada o confidencial.
 
-VIII. Número de impugnaciones.
+La Comisión emitirá los formatos y, en su caso, los lineamientos a que se sujetará la elaboración y entrega de dichos informes.
 
-La Comisión podrá solicitar, en los casos de las fracciones IV, V, VI y VII los motivos y el fundamento que originaron esa resolución.
+En los casos de de las fracciones V, VI y VII la Comisión, si lo considera pertinente, podrá solicitar al Ente Público le exponga los motivos y el fundamento en que se sustenten las correspondientes resoluciones.
 
 ###### Artículo 56.
 
@@ -611,7 +747,7 @@ IV. Un diagnóstico y recomendaciones.
 
 El informe anual será publicado y difundido de manera impresa y por internet. Su circulación y permanencia para consulta será obligatorio en los Entes Públicos.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. DE LA PROMOCIÓN DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 57.
 
@@ -627,7 +763,7 @@ Los Entes Públicos deberán establecer, conforme a los lineamientos que apruebe
 
 ## TÍTULO CUARTO. DEL RECURSO DE REVISIÓN
 
-### CAPÍTULO SEGUNDO. DEL PLAZO DE CÓMPUTO PARA LA INTERPOSICIÓN DEL RECURSO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 60.
 
@@ -637,21 +773,25 @@ El recurso de revisión regulado en esta Ley es un medio de defensa jurídica qu
 
 La Comisión, conforme a las disposiciones de esta Ley, resolverá los recursos de revisión interpuestos por particulares contra actos o resoluciones de los Entes Públicos referidas en este ordenamiento, en materia de acceso a la información pública y de modificaciones o correcciones a datos personales.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### Artículo 62.
 
-El solicitante de información pública que se sienta afectado por resoluciones de algún Ente Público, interpondrá el recurso de revisión, por conducto de las Unidades de Acceso de la misma, para que éstas lo remitan a la Comisión, para su conocimiento y resolución o directamente ante la propia Comisión.
+El solicitante de información pública que se sienta afectado por resoluciones de algún Ente Público, interpondrá el recurso de revisión, directamente ante la propia Comisión.
 
 ###### Artículo 63.
 
 En la tramitación del recurso de revisión serán aplicables las disposiciones que se establezcan en el reglamento interior de la Comisión y de manera supletoria las conducentes del Código de Procedimientos Civiles del Estado de Campeche.
 
-### CAPÍTULO TERCERO. DEL ESCRITO DE REVISIÓN
+### CAPÍTULO SEGUNDO. DEL PLAZO DE CÓMPUTO PARA LA INTERPOSICIÓN DEL RECURSO
 
 ###### Artículo 64.
 
 El recurso de revisión se interpondrá dentro de los quince días hábiles siguientes en que se haga la notificación de la resolución que se recurra o, en caso de no haber sido notificado, se hayan vencido los plazos que señalan los artículos 43, 44 y 45 de esta Ley.
 
-### CAPÍTULO CUARTO. DE LA SUBSTANCIACIÓN DEL RECURSO
+### CAPÍTULO TERCERO. DEL ESCRITO DE REVISIÓN
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 65.
 
@@ -659,89 +799,73 @@ El escrito de interposición del recurso deberá satisfacer los requisitos sigui
 
 I. Estar dirigido a la Comisión;
 
-II. Contener el nombre, domicilio del interesado y en su caso correo electrónico;
+II. Contener el nombre del interesado, así como su domicilio o dirección de correo electrónico. Si el interesado fuere una persona moral se deberá acreditar su legal constitución y la personalidad de quien promueva en su nombre. Si el interesado fuere una persona física, quedará a su elección el proporcionar o no su nombre;
 
 III. Mencionar, si existiere, la resolución que se impugna con el número y fecha del oficio;
 
 IV. Identificar a la autoridad que emitió u omitió la resolución;
 
-V. Expresar los agravios que consistirán en la negativa total o parcial del acceso a la información;
+V. Expresar los agravios que consistirán en la negativa total o parcial del acceso a la información; y
 
-VI. Mencionar las pruebas en que el interesado funde su derecho. Se podrá ofrecer cualquier tipo de pruebas, salvo la confesional a cargo de la autoridad; y
-
-VII. Contener la firma del interesado, o en su caso huella digital.
-
-El cumplimiento de los requisitos establecidos en las fracciones II y VII serán opcionales para el interesado.
+VI. Acompañar copia de la solicitud de información en la que conste la fecha de su presentación ante el Ente Público, o el correspondiente acuse de recibo, tratándose del caso a que se refiere el artículo 45 de esta Ley.
 
 Si hubiere irregularidad en el escrito por no cumplirse con todos los requisitos establecidos en este artículo, la Comisión prevendrá al promovente para que en un término que no exceda de cinco días hábiles, subsane las omisiones o los defectos en que hubiere incurrido, los que se precisarán en la providencia relativa.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### Artículo 66.
 
-El interesado deberá acompañar al escrito en que interponga el recurso:
+El interesado deberá acompañar al escrito en que interponga el recurso las pruebas y demás elementos que considere procedentes someter a juicio de la Comisión. Se podrá ofrecer cualquier tipo de pruebas, salvo la confesional a cargo de la autoridad.
 
-I. Los documentos que acrediten su personalidad;
-
-II. Si el interesado fuere una persona moral, la documentación que acredite su legal constitución y a quien corresponde su legítima representación, salvo que haya sido presentada en el escrito de solicitud;
-
-III. La documentación, en su caso, a que se refiere el artículo 45 de está Ley;
-
-IV. Copia de la constancia de notificación y de la resolución impugnada, en su caso; y
-
-V. Las pruebas que ofrezca, en su caso.
-
-El cumplimiento de la fracción I es opcional.
-
-Cuando no se acompañe el documento a que se refiere la fracción III, la Comisión requerirá al interesado para que lo presente dentro del término de cinco días hábiles.
-
-En todo momento la Comisión suplirá las deficiencias de la queja del solicitante.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 67.
 
-Interpuesto el recurso de revisión la Unidad de Acceso, en su caso, al día hábil siguiente turnará el escrito y documentación que se le anexe a la Comisión.
+Interpuesto el recurso de revisión la Comisión, dentro de los tres días hábiles siguientes, emplazará a la respectiva unidad de acceso para que, en el plazo de cinco días hábiles, posteriores al del emplazamiento, le remita sendas copias autorizadas de la resolución impugnada y de la notificación de la misma y además, si lo considera necesario la unidad, manifieste lo que estime pertinente en relación a los agravios. En la diligencia de emplazamiento se entregará a la unidad de acceso copia del escrito de interposición del recurso.
 
-Acompañará en la remisión del recurso de revisión interpuesto:
+Cuando la interposición del recurso devenga de una afirmativa ficta, el emplazamiento tendrá como efecto que la unidad de acceso haga del conocimiento de la Comisión las razones por las que se abstuvo de emitir resolución.
 
-I. Un original de la resolución impugnada;
-
-II. Copia de la notificación; y
-
-III. Un informe circunstanciado.
-
-En caso de que el recurso sea presentado ante la Comisión, ésta solicitará inmediatamente, en su caso, a la Unidad de Acceso le remita en el plazo establecido en este artículo la documentación señalada con anterioridad.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 68.
 
-Si el promovente no diere cumplimiento a lo dispuesto en los últimos párrafos de los artículos 65 y 66, se tendrá por no interpuesto el recurso y se comunicará la providencia respectiva al promovente y al Ente Público requerido.
+Si el promovente no diere cumplimiento en tiempo a la prevención indicada en el segundo párrafo del artículo 65, se tendrá por no interpuesto el recurso y se comunicará la providencia respectiva al promovente y al Ente Público.
+
+Si el recurso se hubiese interpuesto extemporáneamente será desechado de oficio, comunicándose la providencia respectiva al promovente y al Ente Público.
 
 ###### Artículo 69.
 
-La Comisión deberá dictar la resolución que corresponda en un término que no excederá de veinte días hábiles, contados a partir de la fecha de interposición del recurso, de haberse subsanado las omisiones o corregido los defectos en que el interesado hubiere incurrido.
+(DEROGADO, P.O. 15 DE JULIO DE 2009)
 
-### CAPÍTULO SÉPTIMO (SIC). DE LAS NOTIFICACIONES
+### CAPÍTULO CUARTO. DE LA SUBSTANCIACIÓN DEL RECURSO
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 70.
 
-La Comisión para la substanciación del recurso se sujetará al procedimiento siguiente:
+En la substanciación del recurso, la Comisión se sujetará al procedimiento siguiente:
 
-I. Una vez recibido el escrito de impugnación y, en su caso, subsanados los defectos u omisiones, procederá a admitir formalmente el recurso de revisión. Si las pruebas ofrecidas no requiriesen del desahogo de algún trámite para su perfeccionamiento, deberá emitirse la resolución correspondiente dentro del plazo de diez días hábiles; y
+I. Recibido el escrito de impugnación o, en su caso, cumplida la prevención a que se refiere el último párrafo del artículo 65 de esta Ley, se emitirá acuerdo admitiendo formalmente el recurso de revisión, mandando a emplazar a la unidad de acceso;
 
-II. Si el recurrente ofrece medios de prueba que requieran del desahogo de algún trámite para su perfeccionamiento, se señalará fecha y hora para su desahogo en audiencia pública, dentro de los diez días hábiles siguientes a la admisión del recurso de revisión. Una vez desahogadas las pruebas se emitirá la resolución correspondiente en un plazo de diez días hábiles.
+II. Si el recurrente no ofreció pruebas o las que hubiere ofrecido no ameritasen de trámite alguno para su perfeccionamiento, la Comisión emitirá resolución dentro de los veinte días hábiles siguientes al vencimiento del plazo a que se refiere el primer párrafo del artículo 67; y
+
+III. Si el recurrente ofreció pruebas que requieran del desahogo de algún trámite para su perfeccionamiento, el Comisionado ponente señalará fecha y hora para su desahogo en audiencia pública, la que deberá tener lugar dentro de los diez días hábiles siguientes a la fecha de vencimiento del plazo a que se refiere el primer párrafo del artículo 67. Una vez desahogadas las pruebas se emitirá resolución dentro de los veinte días hábiles siguientes.
+
+La Comisión podrá suplir, en todo caso, la deficiencia en la expresión de agravios.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 71.
 
-La Comisión al resolver sobre el recurso de revisión podrá:
+La resolución que decida sobre el recurso de revisión podrá ser en alguno de los siguientes sentidos:
 
-I. Sobreseerlo;
+I. Sobreseyendo el recurso;
 
-II. Confirmar la resolución o acto impugnado;
+II. Confirmando el acto impugnado;
 
-III. Desecharlo;
+III. Revocando el acto impugnado y ordenando el acceso a la información solicitada o, en su caso, la modificación o corrección de datos personales; o
 
-IV. Revocar el acto o resolución impugnado, ordenando el acceso a la información solicitada, la modificación o la corrección de datos personales o
-
-V. En caso de afirmativa ficta, ordenar la contestación de la solicitud hecha por el recurrente.
-
-En caso de afirmativa ficta, verificar que la información no se encuentre en los supuestos de reservada o confidencial y ordenar la entrega parcial o total dependiendo el caso, sin costo para el recurrente.
+IV. En caso de afirmativa ficta, previa verificación de que la información no se ubica en alguna de las hipótesis de restricción previstas en el Capítulo Sexto del Título Primero de esta Ley, ordenando la entrega parcial o total, dependiendo el caso, de la información requerida.
 
 ###### Artículo 72.
 
@@ -757,25 +881,39 @@ IV. El interesado haya acudido, durante la tramitación del recurso, directament
 
 ###### Artículo 73.
 
-Será desechado el recurso cuando sea presentado extemporáneamente. La providencia respectiva se comunicará al interesado y al Ente Público requerido.
+(DEROGADO, P.O. 15 DE JULIO DE 2009)
+
+(NOTA: EL 10 DE JULIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE JULIO DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### Artículo 74.
 
-Las resoluciones que emita la Comisión podrán impugnarlas los particulares ante la Sala Administrativa del Tribunal Superior de Justicia del Estado, mediante el juicio de nulidad previsto en el Código de Procedimientos Contencioso-Administrativo del Estado; y, los Entes Públicos ante el Pleno del indicado tribunal, conforme a las disposiciones establecidas en dicho código para la tramitación del recurso de revisión.
+Las resoluciones que emita la Comisión podrán impugnarlas los particulares ante la Sala Administrativa del Tribunal Superior de Justicia del Estado, mediante el juicio de nulidad previsto en el Código de Procedimientos Contencioso-Administrativos del Estado; y las unidades de acceso ante el Pleno del indicado Tribunal, conforme a las disposiciones establecidas en dicho Código para la tramitación del recurso de revisión. En este último caso la Comisión no podrá requerir la ejecución o cumplimento de su resolución hasta en tanto ésta no haya sido confirmada por el Tribunal Pleno.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2009)</small>
+
+## TÍTULO CUARTO BIS. DE LAS NOTIFICACIONES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], P.O. 15 DE JULIO DE 2009)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
+###### Artículo 75.
+
+Las providencias y resoluciones que conforme a las disposiciones de esta Ley emitan las unidades de acceso y la Comisión se notificarán al día hábil siguiente al que se dicten y surtirán sus efectos a partir del día siguiente en que sean realizadas.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
+###### Artículo 76.
+
+Las notificaciones podrán realizarse por correo registrado con acuse de recibo o por servicio de mensajería, cuando el interesado haya proporcionado los datos de identificación del domicilio que señale para recibir notificaciones, o por internet cuando lo que proporcione sea una dirección de correo electrónico. Si el interesado fuere omiso en señalar domicilio o dirección de correo electrónico, las notificaciones se le harán fijando una copia autorizada de la providencia o resolución en los estrados o cartelera de avisos de la unidad de acceso.
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ### CAPÍTULO ÚNICO
-
-###### Artículo 75.
-
-Las providencias y resoluciones de la Comisión se notificarán al día hábil siguiente al que se dicten.
-
-###### Artículo 76.
-
-Las notificaciones a que se refiere esta Ley, surtirán sus efectos al día hábil siguiente de realizadas.
-
-Se establecerá el sistema electrónico para darle al interesado la opción de manifestar un domicilio material o virtual y poder realizar las notificaciones vía correo electrónico.
 
 ###### Artículo 77.
 
@@ -793,9 +931,11 @@ El servidor público que, para no proporcionarla, destruya intencionalmente info
 
 Lo anterior independientemente de las sanciones que otras disposiciones legales impongan.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### Artículo 80.
 
-Al servidor público responsable de ejecutar las resoluciones emitidas por la Comisión y que no dé cumplimiento a las mismas en un término de cinco días hábiles, se le sancionará con amonestación como lo dispone la fracción I del artículo 58 de la Ley Reglamentaria del Capítulo XVII de la Constitución. Igual sanción se impondrá al servidor público que no remita en tiempo y forma el recurso de revisión. Si pese a la anterior sanción persiste en el incumplimiento, por más de tres días hábiles, se le aplicará lo dispuesto en la fracción II del artículo 58 de la Ley Reglamentaria y se sancionará con suspensión en el empleo, cargo o comisión.
+Al servidor público responsable de ejecutar las resoluciones emitidas por la Comisión que no dé cumplimiento a las mismas, en un término de cinco días hábiles, se le sancionará con amonestación como lo dispone la fracción I del artículo 58 de la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche. Si pese a la anterior sanción persiste en el incumplimiento, por más de tres días hábiles, se le aplicará lo dispuesto en la fracción II del artículo 58 de la invocada Ley Reglamentaria y se sancionará con suspensión en el empleo, cargo o comisión. Esta última sanción también se impondrá al servidor público responsable de una unidad de acceso cuando injustificadamente, en un lapso de seis meses, incurra en afirmativa ficta por tres ocasiones.
 
 ###### Artículo 81.
 
@@ -834,3 +974,13 @@ Diputado Secretario.
 C. Manuel A. Richaud Lara.
 
 Diputado Secretario.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JULIO DE 2009.
+
+Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al contenido del presente decreto.
+
+Tercero.- El establecimiento de los sistemas electrónicos para el acceso a la información y los procedimientos de revisión por parte de los Entes Públicos, deberá hacerse en el plazo de un año, a partir de la entrada en vigor del presente decreto.
