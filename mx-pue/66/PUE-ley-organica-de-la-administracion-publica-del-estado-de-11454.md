@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-11454"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-06-04"
-last_updated: "2008-01-23"
+last_updated: "2009-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -1443,9 +1443,13 @@ VII.- Coordinar su actuación con la Procuraduría General de la República, con
 
 VIII.- Llevar el control de la estadística de incidencia delictiva y mantener actualizado el registro de identificación criminal;
 
-IX.- Dirigir y coordinar las actividades de la Policía Judicial del Estado, así como coordinar los cuerpos de seguridad municipales cuando actúen en funciones de policía judicial;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-X.- Imponer al personal de la Procuraduría y de la Policía Judicial, las sanciones disciplinarias que correspondan por faltas cometidas en el desempeño de sus funciones de acuerdo a las disposiciones legales aplicables;
+IX.- Ejercer el mando y conducción tanto de la policía ministerial, como de los cuerpos de seguridad pública estatal y municipales en sus ramas encargadas de la prevención del delito, cuando auxilien en la función de investigación;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+X.- Imponer al personal de la dependencia las sanciones que correspondan por el incumplimiento de las obligaciones o incurrir en los impedimentos de los señalados en la Ley Orgánica de la Procuraduría General de Justicia del Estado;
 
 XI.- Atender, verificar y dar respuesta a las recomendaciones que señalen las Comisiones Nacional y Estatal de la Defensa de los Derechos Humanos en relación a la actuación de los servidores públicos de la Procuraduría;
 
@@ -1457,9 +1461,25 @@ XII.- Organizar la defensa y la prevención social contra la delincuencia;
 
 XIII.- Prestar consejo jurídico y representar legalmente al Gobierno del Estado, así como representar legalmente la Procuraduría en lo relativo a las relaciones laborales;
 
-XIV.- Prestar atención a las víctimas de delitos en los términos establecidos en la Ley de la materia; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XV.- Las demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones legales aplicables en el Estado.
+XIV.- Prestar atención a las víctimas de delitos en los términos establecidos en la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XV.- Autorizar el registro y funcionamiento de las personas físicas y jurídicas que presten servicios de Seguridad Privada en el Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XVI.- Organizar, dirigir y administrar el servicio de carrera ministerial, pericial y de policía ministerial;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XVII.- Proponer al seno del Sistema Estatal de Seguridad Pública, políticas acciones y estrategias en materia de Procuración de Justicia; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XVIII.- Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones aplicables en el Estado.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE JULIO DE 1998)</small>
 
@@ -1695,11 +1715,17 @@ XXV.- Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, a
 
 ARTICULO 40 quinquies.- A la Secretaría de Seguridad Pública y Vialidad corresponde el despacho de los siguientes asuntos:
 
-I.- Realizar en el ámbito territorial del Estado las acciones dirigidas a salvaguardar la integridad y patrimonio de las personas, prevenir la comisión de delitos e infracciones a las disposiciones gubernativas y de policía, así como a preservar las libertades, el orden y la paz públicos.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-II.-, Desarrollar las políticas de seguridad pública y proponer la política criminal en el Estado, que comprenda las normas, instrumentos, medidas y acciones convenientes para prevenir y combatir la comisión de delitos, garantizando la congruencia de tales políticas entre las dependencias de la Administración Pública Estatal y con los otros ámbitos de gobierno;
+I.- Realizar en el ámbito territorial del Estado las funciones de prevención, incluyendo la investigación para hacerla efectiva, y reacción dirigidas a salvaguardar la integridad y patrimonio de las personas; prevenir la comisión de delitos e infracciones a las disposiciones gubernativas y de policía, así como a preservar las libertades, el orden y la paz públicos, en el ámbito de su competencia;
 
-III.- Velar por el orden público, dirigiendo, organizando, capacitando y coordinando las acciones de los cuerpos de seguridad pública y vialidad del Estado que se requieran, proponiendo al Gobernador del Estado los programas relativos a estas materias;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+II.- Proponer las políticas de seguridad pública y de política criminal del Estado, que comprenda las normas, instrumentos, medidas y acciones convenientes para prevenir y combatir la comisión de delitos, garantizando la congruencia de tales políticas entre las dependencias de la Administración Pública Estatal y con los otros ámbitos de gobierno;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+III.- Velar por el orden público, dirigiendo, organizando, capacitando y coordinando las acciones del Cuerpo de Seguridad Pública del Estado que se requieran, proponiendo al Gobernador del Estado los programas relativos a estas materias;
 
 IV.- Organizar, consolidar y operar el Sistema Estatal de Seguridad Pública, a fin de proporcionar orientación, apoyo y seguridad a la población, así como coordinarse con las dependencias y entidades de la Administración Pública y con los gobiernos municipales, concertando las acciones conducentes;
 
@@ -1709,73 +1735,123 @@ VI.- Presidir el Consejo Estatal de Coordinación del Sistema Nacional de Seguri
 
 VII.- Proponer en el seno del Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal para el territorio del Estado. Intervenir en su ejecución en el marco del Sistema Estatal de Seguridad Pública y su vinculación con el nacional, respetando los principios de gobernabilidad, legalidad y los derechos fundamentales;
 
-VIII.- Representar al Titular del Poder Ejecutivo del Estado en el Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+VIII.- Formar parte de la Conferencia Nacional de Secretarios de Seguridad Pública y de la Conferencia Nacional del Sistema Penitenciario;
 
 IX.- Promover, fomentar y organizar la participación ciudadana en la formulación y seguimiento de planes y programas de seguridad pública y prevención delictiva en el ámbito estatal y, por conducto del Sistema Nacional de Seguridad Pública, en el ámbito federal;
 
-X.- Organizar, dirigir, capacitar, administrar y supervisar a la Policía Estatal Preventiva, acorde con lo que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; así como garantizar e incentivar el desempeño honesto de su personal y aplicar su régimen disciplinario, sin perjuicio de las atribuciones legales y reglamentarias que correspondan a las policías de los gobiernos municipales;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+X.- Organizar, dirigir, capacitar, administrar y supervisar al cuerpo de seguridad pública del Estado; acorde con lo que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en lo conducente; así como garantizar e incentivar el desempeño honesto de su personal y aplicar su régimen disciplinario;
 
 XI.- Instrumentar programas de prevención social para el combate a la delincuencia; ejecutar las medidas relativas y, en su caso, colaborar con las autoridades federales, estatales, municipales o del Distrito Federal competentes, en el marco del Sistema Nacional de Seguridad Pública, cuando así lo soliciten, con el objeto de preservar el orden público protegiendo la integridad física de las personas y sus bienes, particularmente en situaciones de peligro general, cuando se vean amenazados por disturbios o en otras situaciones que impliquen violencia o riesgo inminente en un sector determinado;
 
 XII.- Atender de manera oportuna, expedita y eficaz las solicitudes, denuncias y quejas ciudadanas en relación con el ejercicio de sus atribuciones;
 
-XIII.- Detener, por conducto de los cuerpos policiales de la Entidad, a los infractores de las normas penales y administrativas, procediendo en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos y las Leyes aplicables, así como auxiliar en esta materia a las autoridades federales, locales y municipales, en los términos de la legislación vigente, cuando así lo soliciten;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XIV.- Preparar, realizar, registrar, difundir y actualizar, en coordinación con la Secretaría de Gobernación, la Procuraduría General de Justicia y las autoridades federales competentes, las investigaciones, estudios multidisciplinarios, estadísticas y mapas incidenciales de los actos delictivos denunciados y no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
+XIII.- Realizar la detención de los infractores de las normas penales y administrativas, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos y las Leyes aplicables, por conducto del Cuerpo de Seguridad Pública del Estado; así como auxiliar en esta materia a las autoridades federales, locales y municipales, de conformidad con la legislación vigente y en el ámbito de su competencia, cuando así lo soliciten;
 
-XV.- Establecer y operar un sistema estatal de información destinado a obtener, analizar, estudiar, procesar e intercambiar datos e información para la prevención de delitos mediante métodos que garanticen la legalidad y el estricto respecto a los derechos humanos;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XVI.- Ser miembro de la Junta de Gobierno de la Corporación Auxiliar de Policía de Protección Ciudadana;
+XIV.- Ser miembro de la Junta de Gobierno de la Corporación Auxiliar de Policía de Protección Ciudadana;
 
-XVII.- Prestar el auxilio de la fuerza pública cuando lo requieran los diversos órganos y dependencias de los Poderes del Estado, de la Federación y Municipios, para el debido ejercicio de sus funciones de conformidad con la legislación y normatividad aplicables;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+XV.- Instrumentar la formación de servicios especializados del cuerpo de seguridad pública del Estado con el objeto de reforzar la función de la seguridad pública;
 
-XVIII.- Administrar los Centros de Readaptación Social y los de Internamiento Especializados para Adolescentes del Estado;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+XVI.- Prestar el auxilio de la fuerza pública cuando lo requieran los diversos órganos y dependencias de los Poderes del Estado, de la Federación y Municipios, para el debido ejercicio de sus funciones de conformidad con la legislación y normatividad aplicables;
 
-XIX.- Proveer lo conducente para la vigilancia, control y tratamiento de las personas internas en los Centros previstos en la fracción previa, que se encuentran a disposición del Ejecutivo y establecer las políticas y programas para su rehabilitación y readaptación social, incluyendo a los adolescentes que hayan cometido conductas tipificadas como delitos por la legislación del Estado;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+XVII.- Organizar, dirigir y administrar los Centros de Reinserción Social y los de Internamiento Especializados para Adolescentes del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XVIII.- Proveer lo conducente para la vigilancia, control, tratamiento y lugar donde se ha de compurgar la sentencia de las personas internas en los Centros previstos en la fracción previa, que se encuentran a disposición del Ejecutivo, así como organizar, consolidar y ejecutar las políticas y programas para su rehabilitación y reinserción social, incluyendo a los adolescentes que hayan cometido conductas tipificadas como delitos por la legislación del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XIX.- Conocer y resolver las solicitudes de traslado de reos y las tendentes a la reinserción social de los internos en los centros de Reinserción Social;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE JULIO DE 2009)</small>
 
 XX.- Promover y vigilar el establecimiento de instituciones y medidas preventivas para adolescentes que cometan conductas tipificadas como delitos por la legislación del Estado, así como prestarles el auxilio necesario;
 
-XXI.- Organizar, dirigir, capacitar, administrar y supervisar las fuerzas de Seguridad Vial del Estado y apoyar a los cuerpos de inspección y vigilancia de los servicios de transporte en sus diversas modalidades, para vigilar y controlar a través de ellos y en los términos que señalen las leyes y reglamentos respectivos, todo lo relativo a la vialidad y tránsito de vehículos en los ámbitos de competencia del Estado;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XXII.- Previo acuerdo con los Ayuntamientos, proporcionar el apoyo que requieran en materia de seguridad pública y vialidad, así como coordinarlos en los términos de las leyes, reglamentos y convenios respectivos;
+XXI.- Organizar, dirigir, administrar y supervisar la flota aérea del Gobierno del Estado y los servicios aeroportuarios relacionados con ésta;
 
-XXIII.- Promover y fomentar la seguridad y servicios de auxilio a los conductores y usuarios que transiten por las vías de comunicación de jurisdicción estatal, proporcionándolos directamente o a través de terceros mediante concesión o autorización, según proceda y en términos de la Legislación aplicable;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XXIV.- Normar y establecer las políticas y criterios para llevar a cabo los estudios y proyectos de ingeniería de tránsito, y para coordinar la instalación y mantenimiento de la señalización de las obras viales y en las vías de jurisdicción estatal, ya sea en forma directa, en concurrencia con otras autoridades o a través de terceros;
+XXII.- Organizar, dirigir, capacitar, administrar y supervisar las fuerzas de Seguridad Vial del Estado y apoyar a los cuerpos de inspección y vigilancia de los servicios de transporte en sus diversas modalidades, para vigilar y controlar, a través de ellos y en los términos que señalen las leyes y reglamentos respectivos, todo lo relativo a la vialidad y tránsito de vehículos en los ámbitos de competencia del Estado;
 
-XXV.- Coadyuvar con las autoridades federales, estatales y municipales en la planeación, elaboración y desarrollo de programas y proyectos de desarrollo urbano y protección al medio ambiente en la Entidad, en lo referente a tránsito y vialidad;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XXVI.- Promover ante las instancias competentes la planeación, construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura vial en la Entidad;
+XXIII.- Previo acuerdo con los Ayuntamientos, proporcionar el apoyo que requieran en materia de seguridad pública y vialidad, así como coordinarlos en los términos de las leyes, reglamentos y convenios respectivos;
 
-XXVII.- Promover, organizar y evaluar, con la participación de las autoridades y sectores involucrados, la educación, capacitación, investigación, desarrollo tecnológico e información en materia de tránsito y seguridad vial en la Entidad, considerando sus implicaciones sociales, económicas, urbanas y ambientales;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XXVIII.- Organizar, dirigir, capacitar y administrar al Heroico Cuerpo de Bomberos del Estado y supervisar sus acciones en materia de prevención, protección, auxilio, restauración y apoyo a la población en situaciones de riesgo o peligro, derivadas de incendios, accidentes y otras emergencias similares;
+XXIV.- Promover y fomentar la seguridad y los servicios de auxilio a los conductores y usuarios que transiten por las vías de comunicación de jurisdicción estatal, proporcionándolos directamente o a través de terceros, mediante concesión o autorización, según proceda y en términos de la legislación aplicable;
 
-XXIX.- Intervenir en auxilio o colaboración con las autoridades federales y estatales, en los términos de las leyes relativas y los convenios que se celebren, en materia de armas de fuego, detonantes y pirotecnia, de migración, de transporte de reos y de prevención, combate y extinción de catástrofes o calamidades públicas;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+XXV.- Normar y establecer las políticas y criterios para llevar a cabo los estudios y proyectos de ingeniería de tránsito, y para coordinar la instalación y mantenimiento de la señalización en las obras viales y en las vías de jurisdicción estatal, ya sea en forma directa, en concurrencia con otras autoridades o a través de terceros;
 
-XXX.- Participar en la coordinación y desarrollo de operativos y acciones conjuntas de colaboración en materia de seguridad pública, prevención, rehabilitación y readaptación social, tratamiento de personas que como adolescentes hayan cometido conductas tipificadas como delitos por la legislación del Estado, vigilancia ecológica y forestal, protección civil y transportes, en el marco de los ordenamientos, sistemas y convenios vigentes con los diversos órdenes de gobierno y con otras instituciones similares;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XXXI.- Organizar, dirigir y administrar el servicio de carrera policial de los cuerpos de seguridad pública a su cargo, proveyendo lo necesario para su capacitación, profesionalización y especialización, para fomentar el desarrollo de la carrera técnica policial, así como para atender las solicitudes que al respecto le hagan los Ayuntamientos para los cuerpos municipales, en su caso;
+XXVI.- Coadyuvar con las autoridades federales, estatales y municipales en la planeación, elaboración y desarrollo de programas y proyectos de desarrollo urbano y protección al medio ambiente en la Entidad, en lo referente a tránsito y vialidad;
 
-XXXII.- Imponer y aplicar medidas preventivas o de seguridad y sanciones administrativas, en los ámbitos de su competencia y con sujeción a las leyes, reglamentos y demás disposiciones aplicables, así como proveer la aplicación de las que correspondan a otras autoridades, con relación a los asuntos de su despacho;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XXXIII.- Conocer y resolver, en los ámbitos de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
+XXVII.- Promover ante las instancias competentes la planeación, construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura vial en la Entidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+XXVIII.- Promover, organizar y evaluar, con la participación de las autoridades y sectores involucrados, la educación, capacitación, investigación, desarrollo tecnológico e información en materia de tránsito y seguridad vial en la Entidad, considerando sus implicaciones sociales, económicas, urbanas y ambientales;
 
-XXXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XXXV.- Los demás que determinen las leyes, se especifiquen en su Reglamento Interior y otras disposiciones reglamentarias o le encomiende el Gobernador del Estado.
+XXIX.- Organizar, dirigir, capacitar y administrar al Heroico Cuerpo de Bomberos del Estado y supervisar sus acciones en materia de prevención, protección, auxilio, restauración y apoyo a la población en situaciones de riesgo o peligro, derivadas de incendios, accidentes y otras emergencias similares;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXX.- Intervenir en auxilio o colaboración con las autoridades federales y estatales, en los términos de las leyes relativas y los convenios que se celebren, en materia de armas de fuego, detonantes y pirotecnia, de migración, de transporte de reos y de prevención, combate y extinción de catástrofes o calamidades públicas;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXXI.- Participar en la coordinación y desarrollo de operativos y acciones conjuntas de colaboración en materia de seguridad pública, prevención, rehabilitación y reinserción social, tratamiento de personas que como adolescentes hayan cometido conductas tipificadas como delitos por la legislación del Estado, vigilancia ecológica y forestal, protección civil y transportes, en el marco de los ordenamientos, sistemas y convenios vigentes con los diversos órdenes de gobierno y con otras instituciones similares;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXXII.- Organizar, dirigir y administrar el servicio de carrera policial del cuerpo de seguridad pública del Estado, proveyendo lo necesario para su capacitación, profesionalización y especialización, para fomentar el desarrollo de su carrera policial, con arreglo a lo establecido por el Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública del Estado y demás ordenamientos legales aplicables; así como atender las solicitudes que al respecto le hagan los Ayuntamientos para los cuerpos de seguridad pública municipales, en su caso;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXXIII.- Designar, remover, otorgar las licencias y en su caso, acordar las renuncias de los servidores públicos de la Secretaría, cuando ésta no sea una facultad exclusiva para el Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXXIV.- Imponer y aplicar medidas preventivas o de seguridad y sanciones administrativas, en los ámbitos de su competencia y con sujeción a las leyes, reglamentos y demás disposiciones aplicables, así como promover la aplicación de las que correspondan a otras autoridades, con relación a los asuntos de su despacho;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXXV.- Conocer y resolver, en los ámbitos de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXXVI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal, con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXXVII.- Suscribir, previo acuerdo del Gobernador del Estado y en el ámbito de su competencia, acuerdos, convenios y demás instrumentos jurídicos con los tres ámbitos de gobierno; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXXVIII.- Los demás que determinen las leyes, se especifiquen en su Reglamento Interior y otras disposiciones reglamentarias o le encomiende el Gobernador del Estado.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2005)</small>
 
@@ -2402,3 +2478,13 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO.- La Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla, continuará interviniendo hasta su total conclusión en los Juicios Laborales en los que se haya apersonado en defensa de los intereses del Gobierno del Estado, antes de la entrada en vigor del presente Decreto.
 
 CUARTO.- Las Dependencias del Gobierno del Estado, promoverán ante el Ejecutivo Estatal las reformas y adiciones a sus respectivos Reglamentos Interiores, a efecto de salvaguardar los intereses del Gobierno del Estado en lo relativo a los Juicios Laborales que se instauren en su contra.
+
+P.O. 15 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
