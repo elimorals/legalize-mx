@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2008-07-25"
+last_updated: "2009-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1243,7 +1243,9 @@ XXIII.- Crear y suprimir empleos municipales según lo exijan las necesidades p�
 
 XXIV.- Promover el servicio civil de carrera para los servidores públicos municipales, procurando introducir métodos y procedimientos en la selección y desarrollo del personal y la expedición del Reglamento correspondiente;
 
-XXV.- Nombrar, a propuesta del Presidente Municipal, al Secretario del Ayuntamiento, Tesorero Municipal, Contralor Municipal y Comandantes de Policía y de Tránsito Municipal, quienes serán servidores públicos de confianza y podrán ser removidos libremente, sin perjuicio de lo que establezcan las leyes en la materia;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XXV.- Nombrar, a propuesta del Presidente Municipal, al Secretario del Ayuntamiento, Tesorero Municipal, Contralor Municipal y al titular o titulares de las ramas del cuerpo de seguridad, quienes serán servidores públicos de confianza y podrán ser removidos libremente, sin perjuicio de lo que establezcan las leyes en la materia;
 
 XXVI.- Designar a aquél de sus integrantes que dará contestación al informe que sobre el estado de la administración pública municipal deberá rendir el Presidente Municipal de manera anual;
 
@@ -1491,7 +1493,9 @@ V.- Disponer de la fuerza pública municipal para la conservación del orden pú
 
 VI.- Preservar y velar por la tranquilidad y el orden público y dictar las medidas que a su juicio demanden las circunstancias;
 
-VII.- Proponer al Ayuntamiento a los Comandantes de la Policía Municipal y de Tránsito o Vialidad, así como comisionar como agentes de seguridad pública, en los lugares que lo estime conveniente, a personas de reconocida honradez;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+VII.- Proponer al Ayuntamiento el nombramiento del titular o titulares de las ramas del cuerpo de seguridad pública municipal, previa aprobación del examen, certificación y registro en el Centro de Control de Confianza correspondiente;
 
 VIII.- Dictar las medidas conducentes para proporcionar parajes y alojamiento a las tropas que pasen por la Municipalidad, sujetándose a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1735,9 +1739,11 @@ Conforme a lo anterior, los Ayuntamientos deben conducir el proceso de planeaci�
 
 Los aspectos de la planeación en cada Municipio se llevarán a cabo mediante un Sistema Municipal de Planeación Democrática, cuya organización, funcionamiento y objeto se regirán por lo dispuesto en la Ley aplicable y los demás ordenamientos vigentes, al igual que las etapas y los productos del proceso de planeación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 104.
 
-El Municipio contará con el Plan de Desarrollo Municipal, como instrumento para el desarrollo integral de la comunidad, en congruencia con los Planes Regional, Estatal y Nacional de Desarrollo, el cual contendrá mínimamente:
+El Municipio contará con el Plan de Desarrollo Municipal, como instrumento para el desarrollo integral de la comunidad, en congruencia con los Planes Regional, Estatal y Nacional de Desarrollo, el cual contendrá como mínimo:
 
 I.- Los objetivos generales, estrategias, metas y prioridades de desarrollo integral del Municipio;
 
@@ -2581,9 +2587,17 @@ VII.- Impulso a las Artesanías;
 
 VIII.- Fomento al Empleo;
 
-IX.- Materia de Discapacitados; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-X.- Protección Civil.
+IX.- Materia de Discapacitados;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+X.- Protección Civil; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XI.- Seguridad Pública.
 
 En su organización, funcionamiento y supervisión prevalecerán los lineamientos del acto jurídico que los cree y sólo excepcionalmente podrá intervenir el Ayuntamiento.
 
@@ -2743,27 +2757,35 @@ El Presidente Municipal, el Síndico y el Regidor del ramo que corresponda, ser�
 
 ### CAPÍTULO XXIII. DE LA SEGURIDAD PÚBLICA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 207.
 
-La Seguridad Pública Municipal comprende la Policía Preventiva Municipal y Seguridad Vial Municipal.
+El cuerpo de seguridad pública municipal podrá comprender las ramas conforme a lo establecido en la Ley de Seguridad Pública del Estado.
 
-Cada Municipio contará con un Cuerpo de Policía Preventiva Municipal y un Cuerpo de Seguridad Vial Municipal, los cuales se organizarán de acuerdo con la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Seguridad Pública y demás leyes en la materia.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 208.
 
-Es función primordial de la seguridad pública municipal velar por la seguridad y bienestar de los habitantes, protegiéndolos en sus bienes y en el ejercicio de sus derechos.
+Es función primordial de la seguridad pública municipal velar por la seguridad y el disfrute de los bienes y derechos de los habitantes.
+
+La actuación de los cuerpos de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 209.
 
-Los Comandantes de la Policía Preventiva Municipal y de Seguridad Vial Municipal serán nombrados y removidos por el Ayuntamiento, a propuesta del Presidente Municipal.
+El titular o titulares de las ramas del cuerpo de seguridad pública municipal serán nombrados y removidos por el Ayuntamiento, a propuesta del Presidente Municipal, previa aprobación, certificación y registro en el Centro de Control de Confianza correspondiente.
 
 ###### ARTÍCULO 210.
 
 Para una efectiva seguridad pública municipal, el Ayuntamiento promoverá la coordinación con los cuerpos de seguridad pública de los diferentes niveles de gobierno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 211.
 
-La Policía Preventiva Municipal estará al mando del Presidente Municipal, en términos de las disposiciones aplicables. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+El cuerpo de seguridad pública municipal estará al mando del Presidente Municipal, en términos de las disposiciones aplicables. Aquel acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 Los Ayuntamientos deberán expedir los reglamentos correspondientes que normen de manera administrativa la integración y funcionamiento de los cuerpos de seguridad pública municipal.
 
@@ -2773,7 +2795,9 @@ Son atribuciones de los Ayuntamientos en materia de seguridad pública, las sigu
 
 I.- Garantizar el bienestar y tranquilidad de las personas y sus bienes, así como preservar y guardar el orden público en el territorio municipal, expidiendo para tal efecto los reglamentos, planes y programas respectivos;
 
-II.- Pugnar por la profesionalización de los Cuerpos de Policía Preventiva Municipal y de Seguridad Vial Municipal; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+II.- Pugnar por la profesionalización de los cuerpos de seguridad pública municipal; y
 
 III.- Celebrar convenios o acuerdos de coordinación con la Federación, el Estado y otros Municipios.
 
@@ -2781,15 +2805,23 @@ III.- Celebrar convenios o acuerdos de coordinación con la Federación, el Esta
 
 Los Presidentes Municipales, en la materia objeto del presente Capítulo, tienen las siguientes atribuciones:
 
-I.- Ejercer el mando sobre la Policía Preventiva Municipal y la Seguridad Vial Municipal;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-II.- Establecer programas tendientes a evitar la comisión de delitos y proteger a las personas en sus bienes, posesiones y derechos;
+I.- Ejercer el mando inmediato del cuerpo de seguridad pública municipal de la demarcación territorial respectiva, y podrá ejercerlo a través de la persona titular de la dependencia, unidad u órgano legalmente establecido, quien deberá estar coordinado con la Secretaría de Seguridad Pública del Estado, conforme a los convenios celebrados en términos de la Ley de Seguridad Pública del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+II.- Establecer programas de prevención del delito, y asegurar el disfrute de los bienes, posesiones y derechos de las personas;
 
 III.- Dictar medidas para la observancia y cumplimiento de las disposiciones legales sobre seguridad pública;
 
-IV.- Ejecutar las directrices señaladas por las autoridades estatales en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-V.- Cuidar que la organización y desempeño de los Cuerpos de Policía Preventiva Municipal y de Seguridad Vial Municipal sea eficiente, pasándoles revista por lo menos una vez al mes; y
+IV.- Dar seguimiento y vigilar el cumplimiento de los acuerdos tomados en el seno del Consejo Nacional de Seguridad Pública y del Consejo Estatal, relacionados con el mejoramiento del cuerpo de seguridad pública municipal; concretar los acuerdos emanados en la Conferencia Nacional de Seguridad Pública Municipal; así como ejecutar las directrices señaladas por las autoridades federales y estatales en esta materia;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+V.- Cuidar que la organización y desempeño de los cuerpos de seguridad pública municipales sea eficiente y eficaz; y
 
 VI.- Ejecutar los acuerdos del Ayuntamiento relacionados con la seguridad pública.
 
@@ -3312,3 +3344,13 @@ P.O. 25 DE JULIO DE 2008.
 PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
