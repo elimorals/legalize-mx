@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-11475"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-03-15"
-last_updated: "2006-09-11"
+last_updated: "2009-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA, PUBLICADA EL P.O. DE 15 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 15 de marzo de 1996.
 
@@ -666,3 +668,45 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 15 DE JULIO DE 2009.
+
+Artículo Primero.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado publicada en el Periódico Oficial del Estado con fecha 15 de marzo de mil novecientos noventa y seis, continuarán vigentes las normas expedidas con apoyo en la ley que se abroga, en lo que no se opongan a la presente.
+
+Artículo Tercero.- Las funciones de la Policía Judicial serán realizadas por la Policía Ministerial, en los términos de la normatividad correspondiente.
+
+El personal ministerial, pericial y policial, que a la fecha de entrada en vigor de la presente Ley, se encuentren en activo en la Procuraduría, tendrá un plazo de noventa días hábiles contados a partir de la entrada en vigor de esta Ley para manifestar su voluntad de someterse al proceso de evaluación de control de confianza y desempeño.
+
+Quienes no se sometan o no aprueben el referido proceso de evaluación, serán separados del servicio en la Procuraduría.
+
+Los procesos de evaluación de control de confianza a que se refiere este artículo deberán concluirse en un plazo máximo de tres años a partir de la entrada en vigor de esta Ley.
+
+Artículo Cuarto.- En un marco de respeto a sus derechos laborales, el personal de base que se encuentre laborando en la Procuraduría, tendrá un plazo de treinta días hábiles contado a partir de la entrada en vigor de esta Ley para optar por cualquiera de las alternativas siguientes:
+
+I. Manifestar su voluntad de permanecer en la Procuraduría en una plaza de confianza de nivel equivalente o superior;
+
+II. A ser reubicado dentro de la Administración Pública local conforme con su perfil; o
+
+III. A concluir la prestación de servicios en forma definitiva, atendiendo a las disposiciones establecidas en los ordenamientos legales aplicables.
+
+La Procuraduría contará con un plazo de tres años, contado a partir del inicio de la vigencia de la presente Ley, a efecto de instrumentar lo dispuesto en este artículo.
+
+El personal que opte por lo dispuesto en la fracción I de este artículo, deberá someterse y aprobar las evaluaciones de control de confianza, dentro del plazo a que se refiere el párrafo anterior; de lo contrario, dejará de prestar sus servicios en la Procuraduría.
+
+Artículo Quinto.- Todo el personal de la Procuraduría deberá ser evaluado en los términos de esta Ley dentro de un plazo máximo de tres años, contado a partir del inicio de la vigencia de la misma.
+
+Artículo Sexto.- Las disposiciones reglamentarias de la presente Ley, deberán expedirse dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de esta Ley.
+
+Artículo Séptimo.- En tanto se expide el Reglamento de esta Ley, se aplicará el Reglamento vigente, en todo aquello que no se oponga a las disposiciones de la presente Ley.
+
+Artículo Octavo.- En tanto se expiden las disposiciones reglamentarias del servicio de carrera ministerial, pericial y de policía ministerial, la Comisión de Servicio de Carrera de Procuración de Justicia y el Procurador emitirán las normas generales relativas al desarrollo y operación de dicho servicio, conforme la normatividad aplicable.
+
+Artículo Noveno.- Los agentes del Ministerio Público, peritos e integrantes de la Policía Ministerial que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría, observarán las disposiciones reglamentarias del Servicio de Carrera Ministerial, Pericial y Policial que se expidan para tal efecto.
+
+Artículo Décimo.- Los procedimientos de responsabilidad administrativa que se encuentren en trámite ante la Dirección de Información, Análisis y Control de la Conducta Individual, continuarán su substanciación hasta su resolución, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Artículo Decimoprimero.- Para la implementación del Centro de Evaluación y Control de Confianza de la Dependencia se estará a los términos establecidos en los acuerdos, convenios e instrumentos jurídicos aplicables.
+
+Artículo Decimosegundo.- Las erogaciones que se deriven de la aplicación de esta Ley estarán sujetas a la suficiencia presupuestal del Estado.
