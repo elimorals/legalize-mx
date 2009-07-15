@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2007-07-30"
+last_updated: "2009-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2009.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -303,9 +303,17 @@ VII. El Instituto Sinaloense de las Mujeres, quien ocupará la Secretaría Ejecu
 
 VIII. DIF estatal;
 
-IX. Consejo Estatal para Prevenir y Atender la Violencia Intrafamiliar; y,
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-X. Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer.
+IX. Consejo Estatal para Prevenir y Atender la Violencia Intrafamiliar;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+
+X. El H. Congreso del Estado, a través de la Comisión de Equidad, Género y Familia; y,
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+
+XI. Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer.
 
 ###### Artículo 27.
 
@@ -802,3 +810,9 @@ Lic. Jesús A. Aguilar Padilla
 El Secretario General de Gobierno
 
 Lic. Rafael Oceguera Ramos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JULIO DE 2009.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
