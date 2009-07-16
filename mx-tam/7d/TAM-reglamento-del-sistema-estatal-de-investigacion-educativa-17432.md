@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-sistema-estatal-de-investigacion-educativa-17432
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-11"
-last_updated: "2000-05-11"
+last_updated: "2009-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO DEL SISTEMA ESTATAL DE INVESTIGACION EDUCATIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 11 de mayo de 2000.
 
@@ -57,15 +57,19 @@ Este Sistema desarrollará acciones de investigación que permitirán elevar la 
 
 ### CAPITULO II. DE LOS FINES
 
-###### ARTICULO 5º.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
-El Sistema Estatal de Investigación Educativa, dependiente de la Dirección General de Educación de la Secretaría de Desarrollo Social, se crea con el objeto de promover el desarrollo de la investigación educativa.
+###### ARTICULO 5°.
+
+El Sistema Estatal de Investigación Educativa, dependiente de la Secretaría de Educación, se crea con el objeto de promover el desarrollo de la investigación educativa.
 
 ###### ARTICULO 6º.
 
 El Sistema Estatal de Investigación Educativa tiene los siguientes fines:
 
-I.- Realizar y promover la investigación educativa en todas sus áreas y niveles, en las localidades aisladas o zonas urbanas marginadas;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
+
+I.- Realizar y promover la investigación educativa en todas sus áreas y niveles;
 
 II.- Formar y alentar el desarrollo de investigadores educativos;
 
@@ -77,7 +81,9 @@ V.- Impulsar la calidad y la innovación educativas;
 
 VI.- Impulsar programas y proyectos de investigación educativa, de acuerdo a los requerimientos estatales;
 
-VII.- Fomentar la investigación multidisciplinaria e interinstitucional en las instituciones educativas con autorización o reconocimiento de validez oficial de estudios;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
+
+VII.- Fomentar la investigación multidisciplinaria e interinstitucional en las instituciones educativas;
 
 VIII.- Conformar las políticas de investigación educativa de acuerdo a las tendencias internacionales;
 
@@ -103,35 +109,57 @@ II.- Un Comité de Planeación.
 
 El Comité Directivo, es la máxima autoridad y será conformado por:
 
-I. Un Presidente, que será el Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
 
-II. Un Vicepresidente, que será el Director General de Educación Pública;
+I.- Un Presidente, que será el Secretario de Educación;
 
-III. Un Secretario, que será el Director de Educación Media Superior y Superior; y (sic)
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
 
-IV. Un Secretario Técnico, que será un investigador de la educación.
+II.- Un Vicepresidente, que será el Subsecretario de Educación Media Superior y Superior;
 
-V. Un Vocal, que será el Director de Educación Básica.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
 
-###### ARTICULO 9º.
+III.- Un Secretario, que será el Jefe de Oficina de Servicios Federales de Apoyo a la Educación en la entidad;
 
-El Comité de Planeación del Sistema Estatal de Investigación Educativa estará integrado por:
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
 
-I. Un Coordinador Operativo, que será el representante del Departamento de Investigación Educativa de la Dirección General de Educación; y
+IV.- Un Secretario Técnico, que será el Coordinador del Programa de Educación Superior e Investigación Científica; y,
 
-II. Por los Vocales Efectivos, que serán los representantes de cada una de las siguientes áreas Técnico - Pedagógicas de los Niveles Educativos:
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
 
-- Universidad Pedagógica Nacional-Unidad Victoria;
+V.- Un Vocal, que será el Director de Formación y Superación Profesional de los Docentes.
 
-- Escuelas Normales;
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
-- Centro de Actualización del Magisterio;
+###### ARTICULO 9°.
 
-- Institutos Tecnológicos Regionales - SEP;
+El Comité de Planeación del Sistema Estatal de Investigación Educativa se integra por:
 
-- Universidad Autónoma de Tamaulipas; y,
+I.- Un Coordinador Operativo, que será el Coordinador del Programa de Educación Superior e Investigación Científica;
 
-- Consejo Tamaulipeco de Ciencia y Tecnología.
+II.- Una Comisión Interna, integrada por docentes investigadores de diferentes instituciones educativas públicas;
+
+III.- Una Comisión Interinstitucional, que se integrará con los directivos de las instituciones públicas del nivel superior;
+
+IV.- Por los Vocales Efectivos, que serán los representantes del área de investigación de las siguientes instituciones:
+
+a) Colegio de Tamaulipas;
+
+b) Unidades de la Universidad Pedagógica Nacional;
+
+c) Escuelas Normales;
+
+d) Centro de Actualización del Magisterio;
+
+e) Institutos Tecnológicos Regionales - SEP;
+
+f) Universidad Autónoma de Tamaulipas;
+
+g) Universidades Politécnicas; y
+
+h) Universidades Tecnológicas.
+
+V.- Una Red de Investigadores Educativos, integrada por investigadores de diferentes instituciones.
 
 ###### ARTICULO 10.
 
@@ -151,9 +179,13 @@ Serán honoríficos los cargos de los integrantes de los Comités del Sistema Es
 
 El Comité Directivo tendrá las siguientes atribuciones:
 
-I. Establecer los lineamientos, políticas y programas para los investigadores educativos, de acuerdo con los proyectos y prioridades señalados en el Plan Estatal de Desarrollo Educativo; tendiente a superar la calidad educativa y cobertura de los objetivos del sistema;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
 
-II. Decidir sobre las propuestas que hagan el Secretario y el vocal;
+I. Establecer los lineamientos, políticas y programas para los investigadores educativos, de acuerdo con los proyectos y prioridades señalados en el Plan Estatal de Desarrollo Educativo, tendiente a mejorar la calidad y cobertura educativa;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
+
+II. Decidir sobre las propuestas que hagan el Secretario Técnico;
 
 III. Supervisar el funcionamiento de los mecanismos de evaluación y operación del Sistema Estatal de Investigación Educativa; y
 
@@ -163,15 +195,21 @@ IV. Celebrar convenios con otras instituciones dedicadas a la investigación.
 
 El Comité Directivo sesionará por lo menos semestralmente y será presidido por el Presidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 15.
 
-El Secretario del Comité Directivo, tendrá las siguientes atribuciones:
+El Secretario Técnico del Comité Directivo, tendrá las siguientes atribuciones:
 
-I. Recibir las solicitudes que los investigadores educativos presenten al Sistema y enviarlas al Comité de Planeación;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
+
+I. Recibir las solicitudes que los investigadores educativos presenten al Sistema;
 
 II. Coordinar las actividades del Comité de Planeación;
 
-III. Presentar los dictámenes del Comité de Planeación al Consejo Directivo;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
+
+III. Presentar los dictámenes del Comité de Planeación al Comité Directivo;
 
 IV. Informar al Comité Directivo sobre el funcionamiento de los mecanismos de evaluación y de operación general del Sistema;
 
@@ -185,15 +223,45 @@ El Comité de Planeación tendrá las siguientes atribuciones:
 
 I. Efectuar las convocatorias relativas a la presentación de proyectos de investigación y eventos científicos en el área educativa y concertar su participación;
 
-II. Dar seguimiento y evaluar los proyectos de investigación para efecto de difundir sus resultados;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
 
-III. Asesorar y dar consulta a quienes lo requieren, en cuanto a investigaciones educativas;
+II. Integrar una Comisión Interna de apoyo al desarrollo de las acciones del Comité de Planeación;
 
-IV. Coordinarse con el Sistema de información para que le permita conocer con mayor veracidad el padrón de los investigadores Educativos con que cuenta el Sistema Estatal de Investigación Educativa;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
 
-V. Rendir los informes y avances en los tiempos y períodos que le sean requeridos por el Comité Directivo; y
+III. Implementar acciones para promover y realizar la investigación educativa con énfasis en las líneas prioritarias determinadas por el Comité Directivo;
 
-VI. Las demás que sean asignadas por el Comité Directivo.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
+
+IV. Promover la capacitación y formación de investigadores educativos;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
+
+V. Desarrollar propuestas de políticas de investigación educativa acordes a las tendencias internacionales;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
+
+VI. Desarrollar acciones que promuevan la investigación evaluativa de la educación, para sustentar propuestas innovadoras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2009)</small>
+
+VII. Instituir centros, canales y medios de comunicación para el acopio y difusión de información de ideas y trabajos de investigación educativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2009)</small>
+
+VIII. Vincular las acciones anteriores con la problemática educativa en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2009)</small>
+
+IX. Coordinar acciones con los consejos de investigación en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2009)</small>
+
+X. Rendir los informes y avances en los tiempos y períodos que le sean requeríos por el Comité Directivo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2009)</small>
+
+XI. Las demás que sean asignadas por el Comité Directivo.
 
 ###### ARTICULO 17.
 
@@ -212,3 +280,11 @@ ATENTAMENTE
 SUFRAGIO EFECTIVO. NO REELECCIÓN
 
 El Gobernador Constitucional del Estado, TOMAS YARRINGTON RUVALCABA.- Rúbrica, La Secretaria General de Gobierno, LAURA ALICIA GARZA GALINDO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE JULIO DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto Gubernamental entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
