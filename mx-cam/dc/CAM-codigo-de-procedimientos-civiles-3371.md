@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2007-07-04"
+last_updated: "2009-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -249,6 +249,10 @@ Por los que no estén en el ejercicio de sus derechos, comparecerán los represe
 
 Los interesados y sus representantes legítimos podrán comparecer en juicio por sí o por medio de un procurador con poder bastante.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2009)</small>
+
+La representación de las dependencias, entidades y autoridades, federales, estatales y municipales estará a cargo de sus respectivas oficinas de asuntos jurídicos.
+
 ###### Art. 41.
 
 Los ausentes serán representados como se previene en el Título Undécimo, Libro Primero, del Código Civil.
@@ -351,6 +355,10 @@ Ningún escrito se admitirá sin estar firmado por la parte que promueve. No sab
 
 Cuando el promovente se encuentre impedido para presentar personalmente el escrito, otra persona podrá presentarlo en su nombre. En este caso, si el escrito se contrae a una demanda o promoción inicial, contestación de demanda o desistimiento de la misma o de la acción intentada, el promovente deberá ratificar el contenido del ocurso así como la firma o huellas que lo calcen ante la Secretaría o Actuaría, a criterio del tribunal. El promovente y, en su caso, quien firme a su ruego deberán identificarse, a satisfacción de la autoridad judicial, en el momento de la presentación o de la ratificación del escrito.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2009)</small>
+
+No requerirán de presentación personal ni de ratificación los escritos u oficios suscritos por las autoridades a quienes se refiere el segundo párrafo del artículo 40, o por quien legítimamente los represente.
+
 ###### Art. 57.
 
 En la práctica de diligencias, en las declaraciones, decretos, autos y sentencias no se emplearán abreviaturas, ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin con toda precisión el error cometido.
@@ -403,9 +411,11 @@ La resolución será apelable; pero si se dicta por un tribunal de segunda insta
 
 Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio y a nulidad del matrimonio, y las demás que conforme a la ley deban ser secretas. El acuerdo será reservado.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
+
 ###### Art. 68.
 
-Los jueces y magistrados a quienes corresponda recibirán por sí mismos las declaraciones y presidirán todos los actos de prueba, bajo su responsabilidad.
+Los jueces y magistrados recibirán por sí mismos y presidirán todos los actos de prueba; empero, atendiendo a la carga de trabajo del respectivo juzgado o sala, dichos jueces y magistrados podrán delegar esas funciones, mediante acuerdo que al efecto emitan, en alguno de los secretarios de acuerdos del juzgado o sala.
 
 ###### Art. 69.
 
@@ -661,9 +671,11 @@ La notificación deberá hacerse personalmente, cuando deba entenderse con extra
 
 La infracción de las disposiciones anteriores se castigará imponiendo una corrección disciplinaria.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2009)</small>
+
 ###### Art. 113.
 
-(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
+Los emplazamientos, citaciones y demás notificaciones que deban hacerse a las dependencias y entidades, así como a las autoridades, federales, estatales y municipales, o a quienes jurídicamente tengan la representación de esas dependencias, entidades y autoridades, se harán por medio de oficio al que se acompañará una copia autorizada de la resolución que se les notifique y, en su caso, de los documentos con que se les corra traslado.
 
 ###### Art. 114.
 
@@ -695,13 +707,11 @@ Las sentencias, los autos y demás resoluciones judiciales no se entienden conse
 
 ### CAPITULO V. De los términos judiciales
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Art. 120.
 
-Los términos judiciales son improrrogables, salvo los casos previstos por la Ley. Los términos judiciales se computarán a partir del siguiente día al en que surta sus efectos la notificación y se incluirá en ellos el día del vencimiento.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE JUNIO DE 1993)</small>
+Los términos judiciales son improrrogables, salvo en los casos previstos por la ley. Los términos judiciales se computarán a partir del día siguiente a aquél en el que haya tenido lugar la notificación y se incluirá en ellos el día del vencimiento.
 
 ###### Art. 121.
 
@@ -4569,6 +4579,10 @@ Si se opusiere a la ejecución cualquier persona a quien perjudique la sentencia
 
 No procede el apremio en virtud de transacción si ésta no consta en escritura pública o si es evidente que el contrato reviste esa apariencia para disimular, en perjuicio de alguno de los contratantes, el verdadero carácter del acto jurídico celebrado.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2009)</small>
+
+Los contratos de transacción que celebren el Estado, sus Municipios y las entidades paraestatales y paramunicipales, para su ejecución en la vía de apremio no requerirán de constar en escritura pública.
+
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 855.
@@ -4667,7 +4681,7 @@ Cuando la sentencia ordene la entrega de personas, el juez dictará las disposic
 
 ###### Art. 878.
 
-Pasado el término de un año que fija el artículo 853, la ejecución no podrá pedirse más que en la vía ejecutiva conforme a las disposiciones que establece este Código para los juicios ejecutivos.
+(DEROGADO, P.O. 16 DE JULIO DE 2009)
 
 ###### Art. 879.
 
@@ -5743,9 +5757,11 @@ Cuando los herederos sean mayores y el interés del fisco, si lo hubiere, esté 
 
 El acuerdo de separación deberá denunciarse al juez; quien mandará sobreseer en el juicio, poniendo los bienes a disposición de los herederos.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
+
 ###### Art. 1088.
 
-Las reglas que los testadores hayan establecido para el inventario, avalúo, liquidación y división de los bienes, serán respetadas por los herederos que hayan instituido.
+Las reglas que los testadores hayan establecido para el inventario, avalúo, liquidación y división de los bienes, y las cuentas de administración, serán respetadas por los herederos que han instituido, siempre que dichas reglas no contravengan las disposiciones que este Código o el Código Civil del Estado establecen sobre esas materias.
 
 ###### Art. 1089.
 
@@ -6903,6 +6919,12 @@ A petición de alguna de las partes, y previo traslado a la otra por tres días,
 
 La diligencia de apeo debe ceñirse a demarcar los límites, reservando toda cuestión sobre posesión o propiedad para que se deduzca en el juicio correspondiente.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2009)</small>
+
+###### Art. 1317
+
+bis.- Quedan facultados los notarios públicos para actuar, dentro de sus respectivos Distritos Judiciales, en sustitución de los jueces en el conocimiento de procedimientos de apeo y deslinde cuando la promoción de los mismos sea hecha de común acuerdo por el propietario, poseedor o usufructuario del predio en el que habrá de tener lugar y por los propietarios de los predios colindantes.
+
 ### CAPITULO VIII. De la disolución del matrimonio por mutuo consentimiento
 
 ###### Art. 1318.
@@ -7338,3 +7360,11 @@ P.O. 4 DE JULIO DE 2007.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas aquellas disposiciones legales y administrativas que se opongan al contenido del presente decreto.
+
+P.O. 16 DE JULIO DE 2009.
+
+Primero.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- El Ejecutivo del Estado, en un plazo no mayor de ciento ochenta días contados a partir de la fecha en que cobre vigencia el presente decreto, expedirá el Reglamento del Registro del Estado Civil.
