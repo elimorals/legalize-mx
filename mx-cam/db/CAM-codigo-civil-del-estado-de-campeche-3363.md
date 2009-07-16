@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2007-07-04"
+last_updated: "2009-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -251,13 +251,13 @@ Los Oficiales del Registro Civil tendrán a su cargo autorizar los actos del Est
 
 (DEROGADO, P.O. 3 DE JUNIO DE 1993)
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Art. 41.
 
-Corresponde al titular de la Oficialía del Registro Civil de la ciudad capital del Estado, la vigilancia de todas las oficialías del ramo ubicadas en la entidad, no sólo en cuanto al cumplimiento de las disposiciones de este código, las demás leyes y reglamentos vigentes, así como las disposiciones administrativas emitidas por el Ejecutivo, sino también en cuanto a la conducta de los demás Oficiales del Registro Civil en el desempeño de sus funciones en general y a la puntual remisión de la documentación respectiva. El Oficial del Registro Civil de la ciudad capital del Estado dará oportuna cuenta al Ejecutivo sobre las faltas en que incurran los oficiales del Registro Civil y demás personal de la institución para su corrección.
+Corresponde a la Secretaría de Gobierno, por conducto de su Dirección del Registro del Estado Civil, la vigilancia de todas las Oficialías del ramo ubicadas en la Entidad, en cuanto al cumplimiento de las disposiciones de este Código, de las demás leyes y reglamentos vigentes, así como de las disposiciones administrativas emitidas por el Ejecutivo Estatal, y respecto a la conducta de sus titulares y demás personal a su servicio en el desempeño de sus funciones en general y a la puntual remisión de la documentación respectiva. La Dirección del Registro del Estado Civil dará oportuna cuenta al Secretario de Gobierno sobre las faltas en que incurran los Oficiales del Registro Civil y demás personal de la Institución para su corrección. Para consultas de pronta solución y envíos de documentación, los Oficiales del Registro del Estado Civil de toda la Entidad, recurrirán a la Dirección, como su inmediato superior jerárquico, quedando obligados a cumplir sus disposiciones.
 
-Para consultas de pronta solución y envío de documentación, los oficiales del Registro Civil de las poblaciones de la entidad recurrirán al de la ciudad cabecera del Municipio en que se hallen, como su inmediato superior, y los de las cabeceras municipales, así como los de las poblaciones pertenecientes al Municipio de Campeche, ocurrirán al de la capital del Estado, quien es el superior jerárquico de todos los oficiales del Registro Civil de la entidad, quedando éstos obligados a cumplir sus disposiciones.
+El titular de la Dirección del Registro del Estado Civil podrá fungir como Oficial del Registro del Estado Civil en la Ciudad Capital y en el interior del Estado en los casos que establezca el Reglamento del Registro del Estado Civil para el Estado de Campeche.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
@@ -313,11 +313,13 @@ Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro Civ
 
 Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los Oficiales Registradores estarán obligados a darlo.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Art. 52.
 
-Los actos y actas del estado civil relacionados con el Oficial del Registro, con su cónyuge o ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Oficial, pero se asentarán en las formas correspondientes y se autorizarán por la primera autoridad municipal del lugar.
+Los actos y actas del estado civil relacionados con un Oficial del Registro, con su cónyuge, concubina o concubinario, o ascendientes o descendientes de cualesquiera de ellos, no podrán autorizarse por el mismo Oficial, pero se asentarán en las formas correspondientes y se autorizarán por el titular de la Dirección del Registro del Estado Civil.
+
+Los actos y actas del estado civil relacionados con el titular de la Dirección del Registro del Estado Civil, con su cónyuge, concubina, concubinario o ascendientes o descendientes de cualesquiera de ellos, serán autorizados por el Subsecretario de Asuntos Jurídicos de la Secretaría de Gobierno.
 
 ###### Art. 53.
 
@@ -329,17 +331,19 @@ Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado po
 
 Para establecer el estado civil adquirido por los campechanos fuera del Estado serán bastantes las constancias que los interesados presenten de las actas relativas, siempre que se registren en la oficina correspondiente del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Art. 55.
 
-Las "Formas del Registro Civil", serán expedidas por el titular del Poder Ejecutivo del Estado o por quien él designe. Se renovarán cada año y los Oficiales del Registro Civil remitirán en el transcurso del primer mes del año un ejemplar de las formas del Registro Civil del año inmediato anterior a la Oficialía del Registro Civil de la Capital y otro, con los documentos que le correspondan, quedará en el archivo de la oficina en que se haya actuado.
+Las formas del Registro del Estado Civil serán expedidas y renovadas cada año conforme lo que se establezca en el precitado Reglamento y los Oficiales del Registro del Estado Civil remitirán en el transcurso del primer mes del año un ejemplar de cada una de esas formas, utilizadas en el transcurso del año inmediato anterior, a la Dirección del Registro del Estado Civil y otro, con los documentos que le correspondan, quedará en el archivo de la Oficialía en que se haya actuado. Las formas no utilizadas o canceladas se devolverán también, a la misma Dirección, para que sean destruidas conforme lo disponga el Reglamento en mención.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Art. 56.
 
-La obtención y control de las "Formas del Registro Civil", así como la revisión periódica de las mismas por el Oficial del Registro Civil de la Capital, para su encuadernación y firma de cierre de los libros que con dichas formas se hagan, se sujetarán a las disposiciones que al efecto se consignen para ello en el calendario e instructivos que se expidan por el Ejecutivo del Estado o el Oficial del Registro Civil de la Capital.
+La obtención y control de las formas del Registro del Estado Civil, así como la revisión periódica de las mismas por la Dirección del Registro del Estado Civil, para su encuadernación y firma de cierre de los libros que con dichas formas se hagan, se sujetarán a las disposiciones que al efecto se consignen para ello en el Reglamento.
+
+La expedición de copias autorizadas de las actas del estado civil podrá hacerse a través de medios electrónicos con firma electrónica avanzada. Estas copias tendrán, para todos los efectos legales correspondientes, el mismo valor probatorio que las que se expidan con firma autógrafa.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
@@ -391,15 +395,17 @@ Los apuntes dados por los interesados, y los documentos que presenten, se anotar
 
 Todo acto del estado civil relativo a otro ya registrado, deberá anotarse en el acta respectiva y en la de nacimiento. Las anotaciones se asentarán en hojas especiales para ello y se adherirán al acta que corresponda. Todas las anotaciones deberán ser firmadas por el Oficial del Registro Civil, y se insertarán en los testimonios que se expidan.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
+
 ###### Art. 65.
 
-Los Oficiales del Registro Civil serán removidos de sus cargos por el Ejecutivo del Estado por sí o a moción del Oficial del Registro Civil de la Capital, cuando a juicio de aquél o de éste falten a sus deberes o se hagan indignos por su mal comportamiento del grave y respetable cargo que desempeñan.
+Los Oficiales del Registro del Estado Civil serán nombrados por el Secretario de Gobierno, a propuesta en terna del titular de la Dirección del Registro del Estado Civil, y serán removidos por el propio Secretario, cuando a juicio de aquél falten a sus deberes o se hagan indignos por su mal comportamiento del grave y respetable cargo que desempeñan.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Art. 66.
 
-El Ejecutivo designará todas las poblaciones en que deban establecerse Oficinas del Registro Civil y también determinará las sanciones por las infracciones en que incurra el personal de las mismas.
+El Reglamento señalará las poblaciones en que deban establecerse Oficialías del Registro del Estado Civil y sus respectivas jurisdicciones. El mismo Reglamento determinará las sanciones a aplicarse por las infracciones en que incurra el personal de dichas Oficialías y a quien corresponderá calificarlas e imponerlas.
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -941,17 +947,17 @@ De la rectificación de las actas del registro civil.
 
 La rectificación o enmienda de las actas del Registro Civil procederá para subsanar o corregir errores mecanográficos, ortográficos o de otra índole o para variar algún nombre u otra circunstancia.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Art. 146.
 
-Si la rectificación no altera en modo alguno la filiación, deberá tramitarse, mediante solicitud por escrito a la que se acompañarán en su caso las pruebas que sean pertinentes, que se presente ante el Oficial del Registro Civil encargado de la oficina en la cual se levantó el acta correspondiente.
+Si la rectificación únicamente implica la modificación de un nombre, de una fecha u otra circunstancia asentada en el acta de origen, sin alterar en modo alguno la filiación; deberá tramitarse, mediante solicitud por escrito que se presente ante la Dirección del Registro del Estado Civil, a la que se acompañarán en su caso las pruebas que sean pertinentes. Si la solicitud resultare procedente, se ordenará se haga la anotación correspondiente en el acta respectiva en la Oficialía en que se encuentre asentada el acta rectificada y en el duplicado que obre en el Archivo de la Dirección.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
 ###### Art. 147.
 
-La nulidad de las actas del Registro Civil o la rectificación de las mismas que importe alteración de la filiación, se tramitaran ante la autoridad judicial, con audiencia del Ministerio Público, a través del juicio que corresponda.
+La nulidad de las actas del Registro Civil o la rectificación de las mismas que importe alteración de la filiación, se tramitarán ante la autoridad judicial, con audiencia del Ministerio Público, a través del juicio que corresponda.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
@@ -1191,11 +1197,9 @@ El marido y la mujer, mayores de edad, tienen capacidad para administrar, contra
 
 El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
-
 ###### Art. 185.
 
-Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
+(DEROGADO, P.O. 16 DE JULIO DE 2009)
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
@@ -4857,6 +4861,10 @@ Los bienes son del dominio del poder público o de propiedad de los particulares
 
 Son bienes de dominio del poder público los que pertenecen a la Federación, a los Estados o a los Municipios.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2009)</small>
+
+Los bienes del Estado de Campeche y de sus Municipios son imprescriptibles.
+
 ###### Art. 778.
 
 Los bienes de dominio del poder público se regirán por las disposiciones de este Código, en cuanto no esté determinado por leyes especiales.
@@ -4865,19 +4873,21 @@ Los bienes de dominio del poder público se regirán por las disposiciones de es
 
 Los bienes de dominio del poder público se dividen en bienes de uso común, bienes destinados a un servicio público y bienes propios.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
+
 ###### Art. 780.
 
-Los bienes de uso común son inalienables e imprescriptibles. Pueden aprovecharse de ellos todos los habitantes, con las restricciones establecidas por la ley; pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que prevengan las leyes respectivas.
+Los bienes de uso común son inalienables. Pueden aprovecharse de ellos todos los habitantes, con las restricciones establecidas por la ley; pero para aprovechamientos especiales se necesita concesión otorgada una vez cubiertas las formalidades y los requisitos que previene la Ley de Bienes del Estado de Campeche y sus Municipios.
 
 ###### Art. 781.
 
 Los que estorben el aprovechamiento de los bienes de uso común, quedan sujetos a las penas correspondientes, a pagar los daños y perjuicios causados y a la pérdida de las obras que hubieren ejecutado.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
+
 ###### Art. 782.
 
-Los bienes destinados a un servicio público y los bienes propios, pertenecen en pleno dominio al Estado o a los Municipios; pero los primeros son inalienables e imprescriptibles, mientras no se les desafecte del servicio público a que se hallen destinados.
-
-Los bienes de dominio del poder público, sólo podrán enajenarse cuando fueren de los catalogados como propios o, siendo de los destinados a un servicio público, se les desafecte de dicho servicio. La enajenación se hará en subasta pública conforme a lo dispuesto para los remates de que trata la Ley Económico-Coactiva del Estado, excepto cuando su enajenación tenga por objeto favorecer la constitución del patrimonio de la familia en los términos prescritos por el artículo 747 y en los demás casos en que expresamente lo prevenga la ley.
+Los bienes destinados a un servicio público y los bienes propios pertenecen en pleno dominio al Estado o a sus Municipios; pero los primeros son inalienables hasta en tanto no se les desafecte del servicio público a que se hallen destinados. La desafectación, concesión y enajenación de bienes inmuebles se hará conforme a las prevenciones de la Ley de Bienes del Estado de Campeche y sus Municipios, y tratándose de aquellos que se destinen para el fomento de las actividades económicas y empresariales se aplicará la ley especial de la materia.
 
 ###### Art. 783.
 
@@ -11545,9 +11555,11 @@ La promesa de contratar o sea el contrato preliminar de otro puede ser unilatera
 
 La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
+
 ###### Art. 2145.
 
-La promesa de contratar debe constar por escrito, en instrumento público o en documento privado firmado por los otorgantes ante dos testigos, o por confesión judicial; y además, debe expresar los elementos característicos del contrato definitivo, y limitarse a cierto tiempo.
+La promesa de contratar, o contrato preliminar, se celebrará y hará constar en escritura pública, debiendo expresar los elementos característicos del contrato definitivo y el tiempo de vigencia de la promesa.
 
 ###### Art. 2146.
 
@@ -11905,21 +11917,23 @@ De las personas que pueden recibir donaciones.
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
-
 ###### Art. 2216.
 
-La venta de un inmueble que tenga un valor hasta de trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Estado, al momento de celebrarse la operación, podrá hacerse en instrumento privado que firmará el vendedor y comprador ante dos testigos. De dicho instrumento se formarán dos ejemplares, uno para el comprador y otro para el vendedor.
+(DEROGADO, P.O. 16 DE JULIO DE 2009)
 
 ###### Art. 2217.
 
-Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1738.
+(DEROGADO, P.O. 16 DE JULIO DE 2009)
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Art. 2218.
 
-Si el valor del inmueble excede de trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Estado, al momento de celebrarse el contrato, su venta se hará en Escritura Pública, salvo en el caso de las operaciones de compra-venta o donación que celebren tanto organismos públicos, municipales, estatales o federales, que tiendan a regularizar la tenencia de la tierra o al fomento de viviendas de interés social.
+El contrato de compraventa de bienes inmuebles para su validez requerirá el constar en escritura pública.
+
+Se exceptúan de lo anterior los contratos de compraventa que celebren el Estado y sus Municipios, y sus entidades paraestatales y paramunicipales, respecto de los bienes que conformen su patrimonio, cuando la enajenación tenga por objeto la regularización de la tenencia de la tierra o el desarrollo de programas de vivienda.
+
+Lo dispuesto en el primer párrafo de este artículo se aplicará a todos los actos traslativos de dominio de bienes inmuebles.
 
 ###### Art. 2219.
 
@@ -12335,11 +12349,11 @@ Se prohibe a los Magistrados, a los Jueces y a cualesquiera otros empleados púb
 
 Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Art. 2305.
 
-Todo contrato de arrendamiento debe constar necesariamente por escrito. Cuando la renta exceda de cinco años constará en escritura pública.
+Todo contrato de arrendamiento de bienes inmuebles se hará constar en escritura pública, sin importar su monto y duración.
 
 ###### Art. 2306.
 
@@ -15451,7 +15465,9 @@ I.- Los títulos por los cuales se adquiere, trasmite, modifica, grava o extingu
 
 II.- La constitución del patrimonio de familia y su extinción;
 
-III.- Los contratos de arrendamiento de bienes inmuebles por un periodo mayor de cinco años y aquellos en que haya anticipos de renta, por más de tres;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
+
+III.- Los contratos de promesa o contratos preliminares y los contratos de arrendamiento, cuando se refieran a bienes inmuebles;
 
 IV.- La condición resolutoria en las ventas a que se refiere el artículo 2209, y en las demás enajenaciones y gravámenes de bienes inmuebles, que se hagan bajo la misma condición;
 
@@ -15517,13 +15533,15 @@ I.- Los testimonios de escritura pública u otros documentos auténticos;
 
 II.- Las sentencias y providencias judiciales certificadas legalmente;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1962)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2009)</small>
 
-III.- Los documentos privados, que en esta forma fueran válidos con arreglo a la Ley, siempre que al calce de los mismos contengan la constancia de la ratificación que las partes hagan de sus firmas, así como de que el documento contiene la libre expresión de su voluntad. Esta ratificación debe hacerse ante notario público en las poblaciones en que residan éstos, y ante el Juez de Paz, la Autoridad Municipal o el Registrador, en las poblaciones en que no residan dichos notarios. Toda autoridad o funcionario que intervenga en la constancia de ratificación, deberá firmarla, así como asentar el sello de la oficina respectiva.
+III.- Los documentos privados, que en esta forma fueran válidos con arreglo a la ley, siempre que al calce de los mismos contengan certificación notarial de la ratificación que las partes hagan de sus firmas, así como de que el documento contiene la libre expresión de su voluntad.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Art. 2903.
 
-El título que debe ser registrado se presentará en la oficina del Registro por cualquiera de las personas designadas en el artículo 2901. Las partes interesadas pueden hacer la presentación por medio de persona debidamente autorizada por escrito, siempre que la autoridad municipal o un juez de paz certique (sic) la autenticidad de la firma del otorgante de la autorización.
+El título que debe ser registrado se presentará, en la oficina del Registro Público de la Propiedad que corresponda, por cualquiera de las personas designadas en el artículo 2901. Las partes interesadas pueden hacer la presentación por medio de persona debidamente autorizada por escrito, siempre que un notario público certifique la autenticidad de la firma del otorgante de la autorización.
 
 ###### Art. 2904.
 
@@ -16012,6 +16030,14 @@ DECRETO NUMERO 71, POR EL QUE SE MODIFICA EL ARTICULO 287 DEL CODIGO CIVIL DEL E
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan a lo previsto en el presente decreto.
+
+P.O. 16 DE JULIO DE 2009.
+
+Primero.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- El Ejecutivo del Estado, en un plazo no mayor de ciento ochenta días contados a partir de la fecha en que cobre vigencia el presente decreto, expedirá el Reglamento del Registro del Estado Civil.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
