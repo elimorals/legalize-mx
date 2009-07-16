@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2009-07-10"
+last_updated: "2009-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JULIO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -218,13 +218,11 @@ A) La Subsecretaría de Proyectos Estratégicos.
 
 6. Dirección General de Obras Concesionadas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2008)</small>
+7. (DEROGADO, G.O. 16 DE JULIO DE 2009)
 
-7. Dirección General de la Planta de Asfalto.
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2009)</small>
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2009)</small>
-
-Asimismo, se le adscribe el Órgano Desconcentrado denominado Proyecto Metro del Distrito Federal.
+Asimismo, se le adscriben los Órganos Desconcentrados denominados Proyecto Metro y Planta de Asfalto, ambos del Distrito Federal.
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -3592,41 +3590,9 @@ XI. Con base en las políticas de la Secretaría de Obras y Servicios, definir l
 
 XII. Repavimentar y dar mantenimiento preventivo a la red vial primaria.
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
-
 ###### Artículo 59.
 
-Corresponde a la Dirección General del Proyecto Metro:
-
-I. Acordar con su superior jerárquico, los asuntos inherentes a las obras de ampliación de la red del Sistema de Transporte Colectivo Metro.
-
-II. Planear, programar y presupuestar los proyectos estratégicos a su cargo.
-
-III. Efectuar, en coordinación con el Sistema de Transporte Colectivo Metro, los estudios e investigaciones que se requieran con motivo de la ampliación de la red.
-
-IV. Coordinar con el Sistema de Transporte Colectivo Metro, el proyecto ejecutivo, la construcción y equipamiento de las obras de ampliación de la red.
-
-V. Elaborar los proyectos ejecutivos y de detalle para la construcción de las obras de ampliación del Sistema de Transporte Colectivo Metro, así como sus obras inducidas y complementarias.
-
-VI. Coordinar la elaboración de las bases de licitación, términos de referencia, modelo de contrato y demás documentos necesarios para la adjudicación de las obras correspondientes a la ampliación de la red.
-
-VII. Elaborar los contratos y convenios correspondientes a la ampliación de la red en coordinación con el Sistema de Transporte Colectivo Metro.
-
-VIII. Establecer mecanismos de control que garanticen la seguridad de los recursos humanos y materiales durante el desarrollo de las obras.
-
-IX. Construir y supervisar las obras de ampliación del Sistema de Transporte Colectivo Metro, así como sus obras inducidas y complementarias.
-
-X. Verificar que las obras civil y electromecánica de la ampliación de la red, así como sus obras inducidas y complementarias, se realicen de acuerdo con el programa autorizado y de conformidad con los proyectos ejecutivos.
-
-XI. Coordinar con las dependencias, unidades administrativas, delegaciones, órganos desconcentrados, así como con las entidades de la Administración Pública correspondientes, lo relativo a las obras de ampliación de la red.
-
-XII. Suministrar los materiales y equipos fijos, así como los requeridos para las obras inducidas y complementarias.
-
-XIII. Entregar las obras de ampliación del Sistema de Transporte Colectivo Metro, así como sus obras inducidas y complementarias, a las dependencias, órganos desconcentrados, delegaciones y entidades operadoras.
-
-XIV. Verificar el uso del Manual de Aplicaciones de Señales Informativas, previo, durante y después de la ejecución de las obras a su cargo.
-
-XV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+(DEROGADO, G.O. 16 DE JULIO DE 2009)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -3728,29 +3694,7 @@ XV. Verificar que la construcción y mantenimiento de obras concesionadas se lle
 
 XVI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
-> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
-
-Articulo 60 Cuater (sic).- Corresponde a la Dirección General de la Planta de Asfalto:
-
-I. Instalar, operar y mantener el equipo técnico para producir agregados pétreos, mezclas y emulsiones asfálticas, que se requieran en la construcción y mantenimiento de los pavimentos de las vialidades a cargo del Gobierno del Distrito Federal, de conformidad con las disposiciones técnicas y jurídicas aplicables;
-
-II. Adquirir los insumos y materiales que se requieran para la producción de emulsiones y mezclas asfálticas en sus diferentes modalidades y derivados;
-
-III. Desarrollar estrategias de comercialización y distribución de agregados pétreos, mezclas y emulsiones asfálticas;
-
-IV. Comercializar la producción de mezclas asfálticas, agregados pétreos y emulsiones asfálticas, primordialmente a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades, de la Administración Pública;
-
-V. Comercializar el excedente de su producción a la Federación, Estados, Municipios y particulares, de conformidad con las disposiciones jurídicas aplicables;
-
-VI. Desarrollar programas de investigación tecnológica para el mejoramiento de su producción y de actualización en materia de pavimentos, para los responsables de las obras viales del Distrito Federal;
-
-VII. Supervisar la construcción y mantenimiento de los Pavimentos que realicen las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados, así como las Entidades de la Administración Pública;
-
-VIII. Colaborar con la Dirección General de Obras Públicas en el establecimiento de normas y especificaciones de construcción y mantenimiento de los pavimentos;
-
-IX. Administrar la calidad de los pavimentos de las vialidades a cargo del Gobierno del Distrito Federal, verificando que éstos cumplan con las normas y especificaciones aplicables; y
-
-X. Proponer para su autorización conjunta por parte de la Secretaría de Obras y Servicios y de la Secretaría de Finanzas, los precios de venta de las emulsiones, mezclas asfálticas en sus diferentes modalidades y derivados para las Dependencias, Órganos Desconcentrados y Entidades del Gobierno del Distrito Federal, así como los de la Federación, Estados, Municipios y particulares.
+Articulo 60 Cuater (sic).- (DEROGADO, G.O. 16 DE JULIO DE 2009)
 
 #### SECCION VII
 
@@ -12446,13 +12390,15 @@ VII. Las demás que le confieran las disposiciones jurídicas y administrativas 
 
 ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2009)</small>
+> <small>N. DE E. LOS ARTICULOS QUE INTEGRABAN ESTA SECCION FUERON ADICIONADOS Y REUBICADOS A LA SECCION IV, G.O. 24 DE ABRIL DE 2009.</small>
+
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
 
 #### SECCION V
 
 ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
 
-(REUBICADA, G.O. 31 DE ENERO DE 2001)
+> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE JULIO DE 2009)</small>
 
 ###### Artículo 199.
 
@@ -12620,13 +12566,13 @@ XIII. Expedir copias cerificadas (sic), previo cotejo de los originales de los d
 
 XIV. Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos del Sistema de Aguas de la Ciudad de México, que sean afines con las funciones anteriores y que le encomiende el Director General.
 
+> <small>N. DE E. LOS ARTICULOS QUE INTEGRABAN ESTA SECCION FUERON REUBICADOS A LA SECCION VI, G.O. 16 DE JULIO DE 2009.</small>
+
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2009)</small>
 
-#### SECCION VI
+#### SECCION VI. ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS
 
-ADSCRITO A LA SECRETARIA DE TRANSPORTES Y VIALIDAD.
-
-(REUBICADA Y REFORMADA, G.O. 31 DE ENERO DE 2001)
+(ADICIONADO, G.O. 24 DE ABRIL DE 2009) (REUBICADO, G.O. 16 DE JULIO DE 2009)
 
 #### SECCION VII
 
@@ -12660,7 +12606,7 @@ XI. Efectuar las pruebas requeridas para poner en servicio las ampliaciones de l
 
 XII. Las demás que le atribuyan expresamente la normativa vigente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2009)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2009) (REUBICADO, G.O. 16 DE JULIO DE 2009)
 
 ###### Artículo 206.
 
@@ -12684,15 +12630,39 @@ VII. Las demás que requieran, en atención a la suficiencia presupuestal, y que
 
 Las atribuciones que les correspondan a cada unidad administrativa se establecerán en el Manual Administrativo correspondiente.
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2009)</small>
+(REFORMADO, G.O. 9 DE JUNIO DE 2009) (REUBICADO, G.O. 16 DE JULIO DE 2009)
 
 ###### Artículo 207.
 
 El órgano desconcentrado Proyecto Metro del Distrito Federal tendrá autonomía de gestión técnica, administrativa y financiera para el ejercicio de sus atribuciones.
 
-> <small>N. DE E. LOS ARTICULOS QUE INTEGRABAN ESTA SECCION FUERON ADICIONADOS Y REUBICADOS A LA SECCION IV, G.O. 24 DE ABRIL DE 2009.</small>
+> <small>(ADICIONADO, G.O. 16 DE JULIO DE 2009)</small>
 
-(REUBICADA, G.O. 31 DE ENERO DE 2001)
+###### Artículo 207 Bis.
+
+El Órgano Desconcentrado Planta de Asfalto del Distrito Federal tendrá las siguientes atribuciones:
+
+I. Instalar, operar y mantener el equipo técnico para producir agregados pétreos, mezclas y emulsiones asfálticas, que se requieran en la construcción y mantenimiento de los pavimentos de las vialidades a cargo del Gobierno del Distrito Federal, de conformidad con las disposiciones técnicas y jurídicas aplicables;
+
+II. Adquirir los insumos y materiales que se requieran para la producción de emulsiones y mezclas asfálticas en sus diferentes modalidades y derivados;
+
+III. Desarrollar estrategias de comercialización y distribución de agregados pétreos, mezclas y emulsiones asfálticas;
+
+IV. Comercializar la producción de mezclas asfálticas, agregados pétreos y emulsiones asfálticas, primordialmente a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades, de la Administración Pública;
+
+V. Comercializar el excedente de su producción a la Federación, Estados, Municipios y particulares, de conformidad con las disposiciones jurídicas aplicables;
+
+VI. Desarrollar programas de investigación tecnológica para el mejoramiento de su producción y de actualización en materia de pavimentos, para los responsables de las obras viales del Distrito Federal;
+
+VII. Supervisar la construcción y mantenimiento de los Pavimentos que realicen las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados, así como las Entidades de la Administración Pública;
+
+VIII. Colaborar con la Dirección General de Obras Públicas en el establecimiento de normas y especificaciones de construcción y mantenimiento de los pavimentos;
+
+IX. Administrar la calidad de los pavimentos de las vialidad es (sic) a cargo del Gobierno del Distrito Federal, verificando que éstos cumplan con las normas y especificaciones aplicables; y
+
+X. Proponer para su autorización conjunta por parte de la Secretaría de Obras y Servicios y de la Secretaría de Finanzas, los precios de venta de las emulsiones, mezclas asfálticas en sus diferentes modalidades y derivados para las Dependencias, Órganos Desconcentrados y Entidades del Gobierno del Distrito Federal, así como los de la Federación, Estados, Municipios y particulares.
+
+(REUBICADA Y REFORMADA, G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 208.
 
@@ -13155,3 +13125,11 @@ PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal para su debida 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. - Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+G.O. 16 DE JULIO DE 2009.
+
+PRIMERO. - Publíquese el presente Decreto en la Gaceta Oficia (sic) del Distrito Federal.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. - Los recursos humanos, materiales, técnicos y financieros de la Dirección General de la Planta de Asfalto, que por virtud de este Decreto se extingue, se transferirán al Órgano Desconcentrado Planta de Asfalto del Distrito Federal, en los términos y condiciones que establezcan las disposiciones administrativas aplicables.
