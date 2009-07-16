@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2009-06-10"
+last_updated: "2009-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JULIO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -1717,21 +1717,25 @@ En la sustanciación y resolución del recurso de reconsideración se aplicarán
 
 Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gobernador deberán entenderse referidos a la Ley del Banco de México, al Banco de México, a su Junta de Gobierno y Gobernador, respectivamente.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 54.
 
-Sin perjuicio de lo señalado en el artículo 45 de la Ley, durante las ausencias del Gobernador, Directores Generales, Directores, Contralor, Gerentes y Cajero Principal, éstos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo.
+Sin perjuicio de lo señalado en el artículo 45 de la Ley del Banco de México, durante las ausencias del Gobernador, Directores Generales, Directores, Contralor, Gerentes y Cajero Principal, éstos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
 Tratándose de las adjudicaciones de contratos que, de acuerdo con las disposiciones aplicables, deban ser suscritas por el titular de la Dirección de Recursos Materiales, en su ausencia aquéllas serán firmadas por el Director General de Administración. En ausencia de ambos, las adjudicaciones señaladas deberán ser firmadas por dos funcionarios que actúen en forma mancomunada y que ocupen puestos de Gerente, adscritos a la propia Dirección de Recursos Materiales.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2009)</small>
+
+En el caso de procesos de carácter judicial, administrativo o del trabajo, en los que deban intervenir el Gobernador, la Junta de Gobierno, alguno de sus miembros, los Directores Generales o el Contralor, las promociones correspondientes podrán ser firmadas, en su ausencia, por el Director General Jurídico o el Director Jurídico.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 55.
 
-En el juicio de amparo y en otros asuntos judiciales, administrativos o del trabajo, en ausencia del Gobernador podrán firmar los informes o promociones respectivas, el Director General Jurídico o el Director Jurídico.
+El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales y el Contralor, podrán ser representados en el juicio de amparo por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, dicha representación recaerá en el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
 
 ## TRANSITORIOS
 
@@ -1954,3 +1958,7 @@ D.O.F. 10 DE JUNIO DE 2009.
 PRIMERO. Las presentes reformas, adiciones y derogaciones al Reglamento Interior del Banco de México, entrarán en vigor el 16 de junio de 2009.
 
 SEGUNDO. Los comités que se hayan constituido con fundamento en el párrafo séptimo del artículo 4o., conservarán su vigencia en los términos de su acuerdo o acto de creación.
+
+D.O.F. 16 DE JULIO DE 2009.
+
+UNICO. Las presentes reformas y adiciones al Reglamento Interior del Banco de México, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
