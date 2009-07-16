@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-publico-de-la-propiedad-del-52339"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-24"
-last_updated: "2009-03-11"
+last_updated: "2009-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52339&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-11-08"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JULIO DE 2009.
 
 Reglamento publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el viernes 24 de noviembre de 2006.
 
@@ -70,13 +70,37 @@ VII. Dirección Jurídica, a la Unidad Administrativa de Apoyo Técnico Operativ
 
 > <small>(REFORMADA, G.O. 11 DE MARZO DE 2009)</small>
 
-VIII. Hoja de seguridad, al papel oficial en que se practican los asientos y se expiden las certificaciones; y
+VIII. Hoja de seguridad, al papel oficial en que se practican los asientos y se expiden las certificaciones; y (sic)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2009)</small>
+(ADICIONADA, G.O. 11 DE MARZO DE 2009) (F. DE E., G.O. 22 DE JULIO DE 2009)
 
-IX. Custodia: Resguardo administrativo de documentos.
+IX. Custodia: Resguardo administrativo de documentos;
+
+(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE JULIO DE 2009) (F. DE E., G.O. 22 DE JULIO DE 2009)
+
+X. Firma electrónica, el conjunto de datos consignados en forma electrónica que permite identificar al autor de los mismos;
+
+(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE JULIO DE 2009) (F. DE E., G.O. 22 DE JULIO DE 2009)
+
+XI. Firma electrónica avanzada, es la firma electrónica que se encuentra bajo el exclusivo control del firmante, que garantiza la integridad de un documento y permite detectar cualquier cambio ulterior al mismo;
+
+(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE JULIO DE 2009) (F. DE E., G.O. 22 DE JULIO DE 2009)
+
+XII. Firma electrónica reconocida, es la firma electrónica avanzada generada mediante un dispositivo seguro de creación y que se encuentra amparada por un certificado reconocido;
+
+(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE JULIO DE 2009) (F. DE E., G.O. 22 DE JULIO DE 2009)
+
+XIII. Certificado reconocido, es aquel certificado electrónico expedido por un prestador de servicios de certificación que es fiable y se encarga de comprobar la identidad y los datos que conforman la firma electrónica del solicitante.
+
+> <small>(ADICIONADO, G.O. 16 DE JULIO DE 2009)</small>
+
+###### Artículo 3 Bis.
+
+Para los fines de este Reglamento y del Titulo Segundo del Código, podrán autenticarse los documentos con firma autógrafa o electrónica.
+
+La documentación emitida, por los servidores públicos del Registro Público facultados para ello, que haya sido autenticada a través de la firma electrónica reconocida, tendrá el mismo valor jurídico probatorio de la suscrita en forma autógrafa.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -368,6 +392,10 @@ En la solicitud de entrada y trámite, el peticionario deberá incluir los sigui
 
 I. Nombre y firma del solicitante. Los fedatarios públicos deberán asentar, además, su sello de autorizar;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE JULIO DE 2009)</small>
+
+Si el trámite es realizado a través de la internet, sólo será necesario el nombre del solicitante;
+
 II. Ubicación del inmueble y cuenta catastral; identificación del mueble o, en su caso, la denominación o razón social de la persona moral de que se trate;
 
 III. Acto jurídico;
@@ -383,6 +411,10 @@ VII. Observaciones.
 Serán responsabilidad del solicitante los datos contenidos en la solicitud, y los efectos que éstos produzcan.
 
 A la solicitud de entrada y trámite se anexará el comprobante original del pago de derechos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE JULIO DE 2009)</small>
+
+En los casos en los que la solicitud de trámite se realice a través de la Internet, no se hará la anotación del aviso preventivo a la que se refiere el primer párrafo del artículo 3016 del Código.
 
 ### CAPÍTULO IV. DE LOS FOLIOS
 
@@ -496,9 +528,11 @@ Tratándose de los actos a que se refiere el primer párrafo del artículo 3016 
 
 Cuando se trate de la inscripción de actos relativos a las diversas unidades resultantes de condominios, lotificaciones o subdivisiones, no se requerirá un certificado por cada una de ellas, siempre que se presente el expedido con anterioridad respecto del inmueble de que provengan y no hayan transcurrido los plazos a que se refiere el artículo 3016 del Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE JULIO DE 2009)</small>
+
 ###### Artículo 37.
 
-Las anotaciones de los avisos a que se refiere el artículo 3016 del Código, se practicarán de inmediato en la parte que corresponda al folio de la finca afectada.
+Las anotaciones de los avisos a que se refiere el artículo 3016 del Código, se practicarán de inmediato en la parte que corresponda al folio de la finca afectada, con excepción de los casos donde la solicitud de trámite se realice a través de la Internet.
 
 Si durante la vigencia de los avisos preventivos y en relación con la misma finca o derechos, se presentare otro documento contradictorio para su registro o anotación, éste será objeto de una anotación preventiva a fin de que adquiera la prelación que corresponda, de operar la cancelación o caducidad de alguna anotación anterior. En caso contrario, las anotaciones preventivas de dichos documentos quedarán sin efecto.
 
@@ -1051,3 +1085,7 @@ PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. El presente decreto entrará en vigor a partir del 1º de abril de 2009.
 
 TERCERO. Los documentos que hayan sido calificados y se encuentren suspendidos, antes de la entrada en vigor del presente decreto, se substanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su calificación.
+
+G.O. 16 DE JULIO DE 2009.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
