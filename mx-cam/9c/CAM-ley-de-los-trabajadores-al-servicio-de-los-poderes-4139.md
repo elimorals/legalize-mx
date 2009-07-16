@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-trabajadores-al-servicio-de-los-poderes-4139"
 country: "mx"
 rank: "ley"
 publication_date: "1979-09-11"
-last_updated: "1996-04-24"
+last_updated: "2009-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES D
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 1996, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO, QUEDANDO VIGENTES SUS DISPOSICIONES UNICAMENTE POR CUANTO CONCIERNE A LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS MUNICIPALES Y SUS ORGANISMOS DESCENTRALIZADOS HASTA EN TANTO SE EXPIDA LA LEY CORRESPONDIENTE.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 11 de septiembre de 1979.
 
@@ -204,6 +204,12 @@ TRABAJO NOCTURNO.- Es el comprendido entre las veinte y las seis horas; su durac
 ###### ARTICULO VIGESIMO SEXTO.
 
 TRABAJO MIXTO.- Es el integrado por periodos incluidos en los lapsos mencionados en los dos artículos precedentes, siempre que el nocturno no abarque más de 3 horas y media. Caso contrario, el trabajo se reputará nocturno su duración máxima es de 7 horas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2009)</small>
+
+###### ARTICULO VIGESIMO SEXTO
+
+BIS.- TRABAJO CONTINUO.- En caso de las mujeres que sean madres trabajadoras, quedan exceptuadas del trabajo mixto, por lo que ejercerán sus funciones de trabajo en horario diurno o nocturno, siempre que las condiciones laborales así lo permitan, de manera que cuenten con tiempo para la adecuada atención y formación de sus hijos menores en el hogar.
 
 ###### ARTICULO VIGESIMO SEPTIMO.
 
@@ -791,7 +797,7 @@ Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los diez días del mes de Septiembre del año de mil novecientos setenta y nueve.- El Gobernador Constitucional del Estado, LIC. RAFAEL RODRIGUEZ BARRERA.- El Secretario General de Gobierno, LIC. FERNANDO TRUEBA BROWN.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.
 
 P.O. 28 DE DICIEMBRE DE 1984.
 
@@ -806,3 +812,11 @@ SEGUNDO.- SE DEROGA LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNIC
 TERCERO.- LOS RECURSOS MATERIALES, PERSONAL ADMINISTRATIVO Y OFICINAS QUE REQUIERA EL TRIBUNAL PARA EL DESARROLLO DE SUS FUNCIONES SERAN LOS MISMOS CON QUE CUENTA LA -JUNTA LOCAL DE CONClLIACION Y ARBITRAJE. LAS CONDICIONES GENERALES DE TRABAJO QUE DEBAN SIGNARSE CON BASE EN LAS DISPOSICIONES DE ESTA LEY DEBERAN FORMULARSE POR LAS PARTES DENTRO DE LOS SEIS MESES SIGUIENTES A LA FECHA DE lNICIO DE VIGENCIA DE ESTA LEY.
 
 CUARTO.- PARA LOS EFECTOS A QUE SE CONTRAE EL TRANSITORIO ANTERIOR, LA SECRETARIA DE FINANZAS. Y ADMINISTRACIÓN QUEDA AUTORIZADA PARA CREAR EN EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DEL AÑO DE 1996 UNA PARTIDA ESPECIAL DE GASTO QUE SE DESTINARA A REFORZAR LA QUE ACTUALMENTE CORRESPONDE A LA JUNTA LOCAL DE CONCILIACION Y ARBlTRAJE A FIN DE SOLVENTAR LOS QUE SE ORIGINEN CADA VEZ QUE SE AMERITE LA CONSTITUCION DEL TRIBUNAL.
+
+P.O. 16 DE JULIO DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de enero del año dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al contenido del presente decreto.
+
+TERCERO.- Las áreas administrativas deberán adoptar las previsiones correspondientes para el oportuno cumplimiento de lo ordenado por este decreto.
