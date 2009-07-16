@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-comite-de-control-y-evaluacion-del-4639
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-23"
-last_updated: "2005-09-23"
+last_updated: "2009-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL COMITE DE CONTROL Y EVALUACION DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JULIO DE 2009.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 23 de septiembre de 2005.
 
@@ -34,337 +34,379 @@ La función pública cuenta con herramientas o mecanismos alternos, que le permi
 
 El presente Reglamento al ser un instrumento de apoyo a la operación del Instituto, tiene como fin promover la ejecución de los programas, con eficiencia y eficacia, proponiendo alternativas de solución y coordinación entre las diferentes áreas que conforman el organigrama, conforme a sus funciones y atribuciones señaladas en el Reglamento Interno
 
+> <small>N. DE E. LA REFORMAS APROBADAS EN EL ACUERDO EMITIDO POR EL COMITE DE CONTROL Y EVALUACION DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO, MODIFICA DE MANERA SUSTANCIAL EL PRESENTE ORDENAMIENTO, TANTO EL CONTENIDO COMO SU ESTRUCTURA, DANDO COMO RESULTADO UN TEXTO DIFERENTE; SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN LA G.G. DE 16 DE JULIO DE 2009.</small>
+
+> <small>(REFORMADO, G.G. 16 DE JULIO DE 2009)</small>
+
 REGLAMENTO INTERIOR DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MÉXICO
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-### CAPITULO PRIMERO. DE LA INTEGRACIÓN DEL COMITÉ
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto reglamentar la organización y el funcionamiento del Comité de Control y Evaluación del Instituto Materno Infantil del Estado de México.
+El presente ordenamiento tiene como objeto regular la organización y funcionamiento del Comité de Control y Evaluación del Instituto Materno Infantil del Estado de México.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ###### Artículo 2.
 
-Para los efectos del presente reglamento se entiende por:
+Para efectos del presente Reglamento, se entenderá por:
 
-I. Comisario: al Director de Control y Evaluación de Salud, Medio Ambiente y Trabajo de la Secretaría de la Contraloría.
+I. IMIEM: Instituto Materno Infantil del Estado de México.
 
-II. Comité: al Comité de Control y Evaluación.
+II. COCOE: Comité de Control y Evaluación del IMIEM.
 
-III. Instituto: al lnstituto Materno Infantil del Estado de México.
+III. Organismos Auxiliares: Los organismos descentralizados, las empresas de participación estatal y los fideicomisos públicos.
 
-IV. Reglamento: al Reglamento Interno del Comité de Control y Evaluación.
+IV. Instancias Fiscalizadoras Internas: La Secretaría de la Contraloría del Gobierno del Estado de México y el Organo de Control Interno del IMIEM.
 
-V. Secretaría: a la Secretaría de la Contraloría.
+V. Instancias Fiscalizadoras Externas: La Auditoría Superior de la Federación, la Secretaría de la Función Pública del Gobierno Federal, el Organo Superior de Fiscalización del Estado de México y los Despachos de Auditoría Externa.
 
-### CAPITULO SEGUNDO. DEL FUNCIONAMIENTO DEL COMITÉ
+VI. Reglamento: Reglamento Interno del Comité de Control y Evaluación del IMIEM.
 
-###### Artículo 3.
+VII. MICI: El Modelo Integral de Control Interno.
 
-El Comité se integrará con los titulares de las siguientes áreas:
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
-I. Dirección General - Presidente
+### CAPITULO SEGUNDO. DE LA INTEGRACION DEL COCOE
 
-II. Comisario - Vocal
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-III. Unidad Jurídica y Consultiva - Vocal
+###### ARTICULO 3.
 
-IV. Unidad de Planeación y Desarrollo Institucional - Vocal
+El COCOE se integra por:
 
-V. Dirección de Servicios Médicos - Vocal
+I. El Director General.- Presidente. Con derecho a voz y voto.
 
-VI. Dirección de Enseñanza e Investigación - Vocal
+II. El Director General de Control y Evaluación "C".- Vocal. Con derecho a voz únicamente.
 
-VII. Dirección de Administración y Finanzas - Vocal
+III. El Director de Servicios Médicos.- Vocal. Con derecho a voz y voto.
 
-VIII. Unidad de Contraloría Interna - Secretario Técnico
+IV. El Director (sic) Administración y Finanzas.- Vocal. Con derecho a voz y voto.
 
-Cada miembro titular del Comité, designará un suplente, quien podrá asistir a las sesiones del Comité en su ausencia temporal, con las mismas facultades, obligaciones y responsabilidades del titular.
+V. El Director de Enseñanza e Investigación.- Vocal. Con derecho a voz y voto.
 
-Los miembros titulares y suplentes del Comité tendrán voz y voto, con excepción del Comisario, el Secretario Técnico y el Titular de la Unidad Jurídica y Consultiva quienes únicamente tendrán voz.
+VI. El Jefe de la Unidad Jurídica y Consultiva.- Vocal. Con derecho a voz únicamente.
 
-###### Artículo 4.
+VII. El Jefe de la Unidad de Planeación y Desarrollo Institucional.- Vocal. Con derecho a voz y voto.
 
-En cada sesión del Comité se levantará un acta, en la que se indicarán los acuerdos tomados y aprobados, así como el seguimiento de los acuerdos de sesiones anteriores hasta su conclusión.
+VIII. El Contralor Interno.- Secretario Técnico. Con derecho a voz únicamente.
 
-Los miembros del Comité firmarán el acta de dicha sesión, aceptando con ello el cumplimiento de los compromisos contraídos.
+Y, los invitados, que podrán ser servidores públicos de otras áreas sustantivas o de apoyo, o servidores públicos de otras Dependencias u Organismos Auxiliares; el auditor externo, designado por la Secretaría de la Contraloría, así como otros especialistas en el tema, previa invitación del Secretario Técnico, con derecho a voz.
 
-### CAPITULO PRIMERO. DE LAS ATRIBUCIONES DE CARÁCTER GENERAL
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-###### Artículo 5.
+###### ARTICULO 4.
 
-El Comité será un Órgano Colegiado de apoyo, consulta y asesoría al H. Consejo Interno del Instituto y no sustituye ni diluye en sus responsabilidades a aquellas instancias que por ley o normatividad deban realizar tareas de control.
+Cada miembro del COCOE, a excepción del presidente, informará por escrito al Secretaría Técnico, la designación de un suplente, el cual deberá tener el nivel jerárquico inmediato inferior, quien sólo actuará en las ausencias del propietario, con las mismas facultades y obligaciones. El suplente del Secretario Técnico se dará a conocer en sesión del COCOE.
 
-###### Artículo 6.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
-El funcionamiento del Comité será de carácter permanente y sus integrantes participarán en forma honorífica, para todo el ámbito del Instituto.
+### CAPITULO TERCERO. DEL FUNCIONAMIENTO DEL COCOE
 
-###### Artículo 7.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-El Comité tendrá como objetivos fundamentales los siguientes, siendo éstos de manera enunciativa y no limitativa:
+###### ARTICULO 5.
 
-I. Contribuir con la transparencia de la gestión y rendición de cuentas, mediante la generación de instrumentos y mecanismos de control.
+El COCOE es un Organo Colegiado de análisis y evaluación para fortalecer el control interno en el IMIEM.
 
-II. Promover la eficiencia, eficacia y congruencia en la operación del Instituto, a través de un adecuado control interno.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-III. Auxiliar al H. Consejo Interno en el seguimiento de acuerdos sobre los asuntos de control, auditoría y evaluación, procurando agilidad, contenido técnico y objetividad en la toma de decisiones.
+###### ARTICULO 6.
 
-IV. Comprobar que las solicitudes y recomendaciones efectuadas por la Secretaria de la Contraloría o el Órgano de Control Interno, en el ámbito de su competencia, se cumplan conforme a lo dispuesto.
+El COCOE tendrá carácter permanente y los cargos de los integrantes serán honoríficos.
 
-V. Coordinar acciones de control de todas aquellas instancias que intervienen en la toma de decisiones, a fin de agilizar la solución de los asuntos de su competencia.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-VI. Mantener el seguimiento de acuerdos sobre asuntos de control y demás que de éstos se deriven.
+###### ARTICULO 7.
 
-VII. Comprobar que se cumplan los acuerdos que tome el H. Consejo Interno, que sean de competencia de este Comité.
+El COCOE, tiene los siguientes objetivos:
 
-VIII. Coordinar el apoyo que debe darse a los auditores externos designados por la Secretaría de la Contraloría.
+I. Coadyuvar al cumplimiento de los objetivos y metas institucionales mediante la implementación de actividades que fortalezcan el control interno.
 
-IX. Analizar el contenido de tos informes resultantes de la auditoría externa y vigilar que se cumplan las recomendaciones del auditor externo.
+II. Impulsar la eficiencia, eficacia, transparencia y legalidad en la actuación del IMIEM, a través del control interno.
 
-X. Dar seguimiento permanente y promover el cumplimiento de los acuerdos tomados por el H. Consejo Interno o de los trabajos solicitados por éste o por terceros, que sean competencia del Comité.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-XI. Emitir una opinión sobre los asuntos que el H. Consejo Interno le encomiende.
+###### ARTICULO 8.
 
-###### Artículo 8.
+Son funciones del COCOE:
 
-El Comité sesionará trimestralmente en forma ordinaria y podrá convocar a sesiones extraordinarias cuando lo juzgue necesario, de acuerdo con los siguientes criterios:
+I. Proponer, formular e implementar acciones específicas para fortalecer los mecanismos de control interno, y darles seguimiento.
 
-I. En la última sesión del Comité del ejercicio de que se trate, deberán fijarse las fechas en las que se efectuarán las sesiones ordinarias del siguiente ejercicio presupuestal.
+II. Conocer el seguimiento realizado a las observaciones y recomendaciones emitidas por instancias fiscalizadoras, para establecer, en su caso, las medidas y acuerdos necesarios para su atención.
 
-II. Las sesiones ordinarias se realizarán previa convocatoria escrita del Secretario Técnico, quien la remitirá a los integrantes del Comité por lo menos con cinco días hábiles de anticipación, dando a conocer el orden del día, acompañado con la documentación complementaria de los asuntos a tratar.
+III. Promover la atención oportuna a los requerimientos u observaciones que formulen las instancias fiscalizadoras.
 
-III. Las sesiones extraordinarias se realizarán previa convocatoria escrita del Secretario Técnico, quien la remitirá a los integrantes del Comité por lo menos con tres días hábiles de anticipación, dando a conocer el orden del día, acompañado con la documentación complementaria de los puntos a tratar.
+IV. Orientar acciones en materia de control interno, previo análisis del diagnóstico que al efecto se elabore.
 
-IV. En los casos en que los integrantes del Comité soliciten la inclusión de asuntos en el orden del día, se deberá actuar en los términos del artículo 23 del presente Reglamento y el Secretario Técnico deberá remitir a los demás integrantes, anexo a la convocatoria, copia de la documentación soporte e información sobre el asunto que se pretende incluir.
+V. Planear, programar, así como coordinar la implementación y operación del MICI, cuya ejecución podrá efectuarse por medio de grupos de trabajo o equipos necesarios.
 
-V. La convocatoria a los invitados se efectuara con la misma anticipación fijada para los integrantes del Comité, dándoles a conocer el orden del día y acompañando la información complementaria de los asuntos a tratar con los que tenga ingerencia. En el caso de que se requiera información y documentación por parte de los invitados, relativa a los asuntos a tratar en el orden del día, se le solicitará en la convocatoria correspondiente.
+VI. Dar seguimiento al cumplimiento y avance de los compromisos gubernamentales, procesos de mejoramiento de la calidad, y otros programas vinculados a la actividad institucional.
 
-###### Artículo 9.
+VII. Crear comisiones para la atención de actividades específicas en materia de control interno.
 
-Para que las sesiones ordinarias y extraordinarias del Comité sean válidas se deberá contar con la asistencia del Presidente, del Secretario Técnico y de por lo menos cuatro vocales del Comité.
+VIII. Proponer el establecimiento de mecanismos de autoevaluación y analizar los resultados que se obtengan.
 
-###### Artículo 10.
+IX. Promover el desarrollo de herramientas y mecanismos orientados al cumplimiento de las disposiciones de racionalidad, austeridad y disciplina presupuestal.
 
-En caso de no reunirse el quórum requerido, el Secretario Técnico levantará el acta en la que se haga constar este hecho y se convocará a una nueva reunión con la expresión de esta circunstancia, en un plazo no mayor a diez días hábiles tratándose de sesiones ordinarias y cinco días hábiles para sesiones extraordinarias.
+X. Autorizar la participación de invitados a las sesiones del COCOE.
 
-###### Artículo 11.
+XI. Las demás necesarias para el logro de los objetivos del COCOE.
 
-En el caso de que la segunda reunión no cumpla con el quórum fijado en el Artículo 9, el Secretario Técnico levantará un acta haciendo constar esta circunstancia, remitiéndola al Director General para los efectos a que haya lugar.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-La reunión se celebrara con los asistentes a la misma, requiriendo a los servidores públicos que no asistieron para que expliquen los motivos de su ausencia.
+###### ARTICULO 9.
 
-###### Artículo 12.
+El COCOE celebrará al menos cuatro sesiones ordinarias trimestrales al año, previa convocatoria con al menos 5 días hábiles de anticipación; y, en forma extraordinaria las veces que sea necesario, dependiendo de la importancia o urgencia de los asuntos, previa convocatoria con al menos 48 horas de anticipación.
 
-Cualquier integrante del Comité podrá proponer modificaciones por situaciones no previstas en este reglamento, las cuales deberán ser aprobadas por todos los miembros del Comité y serán sometidas a la autorización del H. Consejo Interno y posteriormente publicadas en la Gaceta del Gobierno.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-###### Artículo 13.
+###### ARTICULO 10.
 
-En las sesiones del Comité, los integrantes procederán a informar el avance y estado que guardan los asuntos que les hayan sido encomendados por acuerdo del Comité, centrando los trabajos en la presentación, revisión y análisis de los problemas sustantivos del Instituto y que competan al Comité.
+Para que las sesiones ordinarias y extraordinarias del COCOE sean válidas se deberá contar al menos con la asistencia del Presidente, el Secretario Técnico y de la mayoría de los Vocales que lo integran.
 
-###### Artículo 14.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-El Secretario Técnico, deberá conservar por lo menos cinco años las actas de cada sesión y sus anexos. La documentación que soporta la información relacionada con los diferentes asuntos tratados en el Comité deberá quedar en posesión del área responsable, por lo menos durante los cinco años posteriores a la fecha en que se resolvió el asunto en el Comité.
+###### ARTICULO 11.
 
-Cuando algún miembro del Comité requiera la documentación señalada en el párrafo anterior, deberá solicitarla a través del Secretario Técnico, quien turnará el requerimiento al área respectiva y al recibir la respuesta, la remitirá al miembro solicitante.
+En caso de no reunirse el quórum requerido, el Secretario Técnico levantará un acta en la que se haga constar este hecho y se convocará a una nueva reunión con la expresión de esta circunstancia, en un plazo no mayor a diez días hábiles tratándose de sesiones ordinarias y cinco días hábiles para sesiones extraordinarias.
 
-###### Artículo 15.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-Es facultad del Comité estudiar sobre aspectos prioritarios y proponer toda clase de acciones preventivas y correctivas a los asuntos presentados en materia de control y evaluación.
+###### ARTICULO 12.
 
-###### Artículo 16.
+En el caso de que la segunda reunión no cumpla con el quórum fijado en el artículo 10, el Secretario Técnico levantará un acta haciendo constar esta circunstancia, remitiéndola al Presidente para los efectos a que haya lugar; y la reunión se celebrará con los asistentes a la misma.
 
-Para opinar sobre los asuntos presentados ante el Comité, estos serán soportados por los análisis cualitativos y/o cuantitativos que amerite el caso, así como por la documentación soporte correspondiente que el propio Comité juzgue satisfactorio.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-###### Artículo 17.
+###### ARTICULO 13.
 
-Al final de cada sesión, se dará lectura a los acuerdos tomados por el Comité. El Secretario Técnico hará llegar a cada uno de los miembros, en un plazo no mayor a cinco días hábiles contados a partir de la fecha de reunión, copia del acta.
+La solventación de observaciones o atención de recomendaciones en ningún caso será sometido a votación; el Director General de Control y Evaluación “C" y, en su caso, los responsables de las instancias fiscalizadoras internas o externas decidirán conforme a sus facultades si éstas son procedentes o no con base en la evidencia comprobatoria presentada.
 
-Los integrantes del Comité, en su caso, harán las observaciones que consideren pertinentes al acta, para lo cual tendrán un plazo no mayor a cinco días hábiles contados a partir de la fecha de recepción de la misma para devolverla al Secretario Técnico, anexando sus comentarios.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-En caso de no recibirse observaciones al acta en el plazo establecido, se entenderá tácitamente aprobada.
+###### ARTICULO 14.
 
-Las actas del Comité se firmarán en la sesión inmediata posterior a la de su fecha, previa lectura de la misma.
+En cada sesión del COCOE se levantará un acta, en la que indicarán los acuerdos tomados y aprobados, así como, el seguimiento de los acuerdos de sesiones anteriores hasta su conclusión.
 
-###### Artículo 18.
+Los miembros del COCOE firmarán el acta de dicha sesión, aceptando con ello el cumplimiento de los compromisos contraídos.
 
-Los acuerdos del Comité se aprobarán por mayoría de votos, el miembro del Comité que vote en contra, deberá fundamentar su opinión por escrito, lo cual deberá constar en el acta y se anexará a la misma.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-En ningún caso se someterá a votación la solventación de observaciones de auditoría interna y externa, siendo el Contralor Interno, el Comisario y el Auditor Externo, en su caso, quienes decidan si las aclaraciones o solventaciones son procedentes o no.
+###### ARTICULO 15.
 
-En caso de empate, los miembros del Comité que tengan injerencia en el asunto tratado expondrán sus argumentos y la documentación que los soporta, en el orden del registro previamente establecido para el efecto, hasta que se considere suficientemente discutido el asunto y se someta a consenso. En un segundo empate, el Presidente del Comité tendrá voto de calidad.
+El Secretario Técnico hará llegar copia del acta a cada uno de los miembros del COCOE dentro de los diez días hábiles siguientes a la celebración de la sesión; y deberá conservar durante cinco años las actas de cada sesión y sus anexos. La documentación que soporta la información relacionada con los diferentes asuntos tratados en el COCOE deberá quedar en posesión del área responsable, durante los cinco años posteriores a la fecha en que se resolvió el asunto en el COCOE.
 
-Ningún miembro del Comité podrá ser interrumpido mientras tenga la palabra, a menos que se trate de una moción de orden.
+Cuando algún miembro requiera la documentación señalada en el párrafo anterior deberá solicitarla a través del Secretario Técnico, quien turnará el requerimiento al área responsable y al recibir la respuesta la remitirá al miembro solicitante.
 
-## TITULO SEGUNDO. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DEL COMITÉ
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES DEL PRESIDENTE
+###### ARTICULO 16.
 
-###### Artículo 29.
+Los integrantes del COCOE, cuando reciban copia del acta de las sesiones podrán emitir las observaciones que consideren convenientes al acta, para lo cual tendrán un plazo no mayor a 5 días hábiles contados a partir de la fecha de recepción de la misma para devolverla al Secretario Técnico, anexando sus comentarios.
 
-Son atribuciones del Presidente:
+En caso de no recibirse observaciones en el acta en el plazo establecido, se entenderá tácitamente aprobada.
 
-I. Instalar, presidir y clausurar las sesiones del Comité en el lugar, fecha y hora indicados en las convocatorias.
+Las actas del COCOE se firmarán en la sesión inmediata posterior a la de su fecha, previa lectura de la misma.
 
-II. Proporcionar los recursos humanos y materiales que juzgue necesarios para el debido desahogo de los acuerdos adoptados por el Comité, de conformidad con las posibilidades del Instituto.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-III. Vigilar que se traten en el Comité sólo asuntos que competan al mismo y que las decisiones y acuerdos tomados queden asentados en el acta correspondiente.
+###### ARTICULO 17.
 
-IV. Informar anualmente al H. Consejo Interno sobre los resultados de las sesiones de Comité.
+El acta de sesión deberá contener de manera enunciativa y no limitativa:
 
-V. Apelar al recurso de la dispensa de la lectura, de no existir observaciones al acta de la sesión anterior.
+a) Número de acta, incluyendo las siglas del COCOE, el número consecutivo y el año.
 
-VI. Autorizar la participación de invitados en las sesiones del Comité en los términos de los artículos 8 fracción V y 25, de este ordenamiento.
+b) Lugar y fecha donde se efectuó la sesión y la hora de inicio.
 
-VII. Proponer la creación de comisiones especiales de trabajo para la atención y solución de asuntos especiales o de tareas específicas.
+c) Asistentes a la reunión, declaración de quórum.
 
-VIII. Autorizar la realización de sesiones extraordinarias, solicitadas por los integrantes del Comité de conformidad con los artículos 8 fracción III y 24 del presente reglamento; y (sic)
+d) Puntos del orden del día en la secuencia en que fueron tratados y comunicados en la convocatoria.
 
-###### Artículo 30.
+e) Propuestas que surjan del debate.
 
-El Presidente llevará a cabo todas las funciones que sean afines con las atribuciones señaladas en éste capítulo, siendo el vinculo directo con el H. Consejo Interno y como tal comunicará al Comité las tareas y asuntos que éste encomiende para su atención y/o solución.
+f) Resultados de la votación, anotándose la propuesta que haya tenido mayor votación.
 
-###### Artículo 19.
+g) Acuerdos tomados, codificándose con las siglas COCOE, el número y año de sesión y dos dígitos para el número de acuerdo, anotándose el o los responsables del cumplimiento del mismo.
 
-Las sesiones del Comité no podrán exceder de tres horas, salvo que por mayoría de votos de sus integrantes se constituyan en sesión permanente para concluir la discusión o resolución de los asuntos pendientes.
+h) Hora y fecha de conclusión de la sesión.
 
-###### Artículo 20.
+i) Nombre y firma de los asistentes.
 
-El acta de cada sesión deberá contener de manera enunciativa y no limitativa:
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-I. Número de acta, incluyendo la palabra acta y las siglas del Comité, el número consecutivo y el año.
+###### ARTICULO 18.
 
-II. Lugar y fecha donde se efectuó la sesión y la hora de inicio.
+Los acuerdos del COCOE se aprobarán por mayoría de votos, el miembro que vote en contra, deberá fundamentar su opinión, lo cual se (sic) constará en el acta.
 
-III. Asistentes a la reunión, declaración de quórum.
+En caso de empate, los miembros del COCOE que tengan injerencia en el asunto tratado expondrán sus argumentos y la documentación que los soporta, en el orden de registro previamente establecido para el efecto, hasta que se considere suficientemente discutido el asunto y se sometan a consenso. En un segundo empate, el Presidente del COCOE tendrá voto de calidad.
 
-IV. Puntos del orden del día en la secuencia en que fueron tratados y comunicados en la convocatoria.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
-V. Propuestas que surjan del debate.
+## TITULO SEGUNDO. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DEL COMITE
 
-VI. Resultados de la votación, anotándose la propuesta que haya tenido mayor votación.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
-VII. Acuerdos tomados, codificándose con las siglas COCOE, las siglas SO en caso de sesión ordinaria y SE para sesiones extraordinarias, dos dígitos para el número de sesión, cuatro dígitos para el año y dos para el número de acuerdo, cada rubro separado por diagonales.
+### CAPITULO PRIMERO. DE LAS FUNCIONES GENERICAS
 
-VIII. Se anotará nombre y cargo del responsable del cumplimiento del acuerdo tomado, así como el plazo fijado para su atención.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-IX. Hora y fecha de conclusión de la sesión.
+###### ARTICULO 19.
 
-X. Nombre y firma de los asistentes.
+Son funciones genéricas de los miembros del COCOE:
 
-###### Artículo 21.
+I. Asistir puntualmente y con carácter obligatorio a las sesiones del COCOE.
 
-Todos los integrantes e invitados deberán cumplir con los acuerdos tomados durante las sesiones del Comité, así como con las obligaciones que por su función dentro del mismo les corresponda, proporcionando oportuna y adecuadamente la información y documentación solicitada por éste, a través del Secretario Técnico.
+II. Dar cumplimiento y seguimiento a los acuerdos tomados durante las sesiones del COCOE, proporcionando oportuna y adecuadamente la información y documentación solicitada por éste, a través del Secretario Técnico.
 
-### CAPITULO TERCERO. DE LAS ATRIBUCIONES DEL SECRETARIO TÉCNICO
+III. Emitir opinión sobre los asuntos que se sometan a su consideración.
 
-###### Artículo 31.
+IV. Fijar plazos o términos para el cumplimiento de los acuerdos.
 
-Son atribuciones del Secretario Técnico:
+V. Efectuar, en el ámbito de su competencia, las gestiones que se requieran para la atención de las observaciones determinadas por las diversas instancias fiscalizadoras.
 
-I. Preparar y organizar las sesiones ordinarias y extraordinarias del Comité.
+VI. Guardar confidencialidad sobre la información del IMIEM y del COCOE y no utilizarla en beneficio propio o de intereses ajenos al mismo, aún después de que concluya su participación en el COCOE.
 
-II. Convocar en los términos fijados en el Artículo 8 fracciones II, III, IV y V de este reglamento a los integrantes e invitados del Comité.
+VII. Las demás necesarias para el logro de los objetivos del COCOE.
 
-III. Proponer y vigilar que se ejecuten las medidas específicas para la aplicación de las acciones aprobadas en cada sesión del Comité.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-IV. Durante las votaciones será responsable del escrutinio.
+###### ARTICULO 20.
 
-V. Elaborar el Programa Anual de Trabajo del Comité.
+Los integrantes del COCOE tendrán la misma responsabilidad y jerarquía para opinar, sugerir y decidir sobre asuntos que se traten.
 
-VI. Preparar la documentación soporte de los asuntos que se van a tratar en las sesiones del Comité.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-VII. Elaborar las actas del Comité, así como integrar la documentación soporte para su archivo y control.
+###### ARTICULO 21.
 
-VIII. Presentar para su aprobación, en la última sesión del Comité del ejercicio de que se trate, el calendario para la celebración de las sesiones ordinarias del ejercicio siguiente.
+Cualquier integrante del COCOE podrá solicitar al Secretario Técnico, previa autorización del Presidente, la realización de una sesión extraordinaria con una anticipación de 5 días hábiles, anexando a su solicitud la documentación soporte del asunto a tratar.
 
-IX. Levantar las actas correspondientes en los casos que las sesiones del Comité no reúnan el quórum en términos de los artículos 9, 10 y 11 de este reglamento.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
-X. Proporcionar a todos los integrantes del Comité una copia del acta de cada sesión, una vez que ésta haya sido firmada por todos los asistentes.
+### CAPITULO SEGUNDO. DE LAS FUNCIONES DEL PRESIDENTE
 
-XI. Presentar en la primera sesión del Comité del ejercicio de que se trate, una evaluación de los logros alcanzados por el Comité, relacionándose los asuntos que se encuentren pendientes de atender.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-XII. Coordinar el apoyo que prestará al Instituto, para el desempeño de las comisiones especiales de trabajo que designe el Comité y supervisar su funcionamiento.
+###### ARTICULO 22.
 
-XIII. Mantener actualizado el directorio correspondiente a los integrantes del Comité.
+Son funciones del Presidente:
 
-XIV. Presentar un informe sobre el estado que guardan las quejas y denuncias recibidas y atendidas.
+I. Instalar, presidir y clausurar las sesiones del COCOE.
 
-###### Artículo 32.
+II. Facilitar los recursos humanos y materiales necesarios para el cumplimiento de los acuerdos del COCOE.
 
-El Secretario Técnico presentará en cada sesión ordinaria del Comité, un informe de los asuntos relevantes en materia de control y auditoría correspondiente al Instituto. En éste informe se hará referencia de manera enunciativa y no limitativa a los siguientes asuntos:
+III. Vigilar que se traten sólo asuntos que competan al COCOE; así como el seguimiento de los acuerdos tomados.
 
-I. Observaciones de auditarla interna pendientes de atender, incluyendo las de ejercicios anteriores, las medidas preventivas y correctivas propuestas, las fechas acordadas con el área responsable para su atención y las razones por las que aún se encuentran pendientes de solventar.
+IV. Autorizar la celebración de reuniones extraordinarias.
 
-II. Avance en el cumplimiento de las observaciones que hubiese determinado el despacho de auditoría externa al Instituto e informar la situación que guardan el dictamen y predictamen generados por el mismo.
+V. Aprobar la creación de comisiones especiales o grupos de trabajo para la atención y solución de tareas específicas.
 
-III. Observaciones de la situación financiera del Instituto en materia de control.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
-IV. Análisis del cumplimiento de las medidas de racionalidad, austeridad y disciplina presupuestal, emitidas por los Gobiernos Federal y Estatal.
+### CAPITULO TERCERO. DE LAS FUNCIONES DEL SECRETARIO TECNICO
 
-V. Cumplimiento de metas programáticas, de acuerdo con la información proporcionada por la Unidad de Planeación y Desarrollo Institucional.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-###### Artículo 22.
+###### ARTICULO 23.
 
-Los participantes se obligan a guardar el secreto profesional sobre la información del Instituto y a no utilizarla en beneficio propio de intereses ajenos al mismo, aún después de que concluya su intervención en el Comité.
+Son funciones del Secretario Técnico:
+
+I. Preparar y organizar las sesiones ordinarias y extraordinarias del COCOE.
+
+II. Elaborar la propuesta de orden del día y someterla a consideración del Presidente.
+
+III. Convocar a los integrantes e invitados del COCOE, haciéndoles llegar el orden del día y la información relativa de los asuntos a tratar.
+
+IV. Pasar lista de asistencia y declarar el quórum, en su caso, anunciar la segunda convocatoria cuando no se cuente con la asistencia requerida.
+
+V. Presentar para su aprobación, en la primera sesión del ejercicio de que se trate, el calendario de sesiones ordinarias.
+
+VI. Proponer y vigilar que se ejecuten las medidas específicas para la aplicación de las acciones aprobadas en cada sesión del COCOE.
+
+VII. Conocer el informe de resultados del MICI y presentarlos al COCOE para su análisis.
+
+VIII. Fungir como responsable del escrutinio, en los asuntos que sean sometidos a votación.
+
+IX. Elaborar las actas del COCOE y verificar que sean firmadas por los asistentes.
+
+X. Llevar el registro de los acuerdos cumplidos y en proceso para presentar al COCOE la situación que guardan.
+
+XI. Presentar una evaluación anual de los logros alcanzados a través del COCOE.
+
+XII. Proporcionar a los integrantes del COCOE, copia del acta de cada sesión, una vez que haya sido firmada por los asistentes.
+
+XIII. Elaborar y mantener actualizado el directorio de los integrantes del COCOE.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
+
+###### ARTICULO 24.
+
+El Secretario Técnico presentará en cada sesión ordinaria del COCOE, un informe de los asuntos relevantes en materia de control y evaluación correspondiente. En este informe se hará referencia, de manera enunciativa, pero no limitativa a los siguientes asuntos:
+
+I. Observaciones y recomendaciones de auditoría interna pendientes de atender, incluyendo las de ejercicios anteriores, las acciones de mejora, así como las fechas acordadas con el área responsable para su atención y, en su caso, las razones por las que aún se encuentran pendientes de atención.
+
+II. Avance en el cumplimiento de las observaciones realizadas por instancias fiscalizadoras externas.
+
+III. Observaciones sobre las posibles desviaciones de la situación programático presupuestal.
+
+IV. Análisis del cumplimiento de las medidas de racionalidad, austeridad y disciplina presupuestal.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
 ### CAPITULO CUARTO. DE LAS ATRIBUCIONES DE LOS VOCALES
 
-###### Artículo 33.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-Los vocales se constituirán dentro del Comité en una instancia técnica de consulta y apoyo con relación al ámbito de sus funciones, por lo que deberán asesorar, emitir las opiniones que él mismo les requiera e implementar las medidas necesarias para el cumplimiento de los acuerdos.
+###### ARTICULO 25.
 
-###### Artículo 34.
+Los vocales son una instancia técnica de consulta y apoyo con relación al ámbito de sus funciones, por lo que podrán emitir opiniones y proponer las medidas necesarias para el cumplimiento de los acuerdos.
 
-Son atribuciones de los vocales:
+Son funciones de los vocales con derecho a voz y voto:
 
-I. Hacer las sugerencias necesarias que aseguren el fortalecimiento del funcionamiento del Comité.
+I. Coadyuvar en la planeación, programación y coordinación del MICI, así como integrar y presentar ante el COCOE sus resultados.
 
-II. Opinar y presentar argumentos suficientes y necesarios que permitan al Comité tomar decisiones sobre los asuntos de la materia y votar en las sesiones.
+II. Proponer medidas que fortalezcan las funciones del COCOE.
 
-III. Fungir como consultores competentes a cualquier problema o confusión derivada de la aplicación de las disposiciones legales de dichas funciones.
+III. Vigilar el cumplimiento de los acuerdos tomados por el COCOE en el ámbito de su competencia.
 
-IV. Vigilar el cumplimiento de los acuerdos tomados por el Comité en el ámbito de su competencia.
+IV. Dar seguimiento, en las áreas de su competencia, a las observaciones o recomendaciones determinadas en las auditorías practicadas por las instancias fiscalizadoras internas y externas.
 
-V. Promover en las áreas de su competencia, la atención a las observaciones determinadas en las auditorías internas y externas.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-###### Artículo 35.
+###### ARTICULO 26.
 
-El Comisario, en su carácter de Vocal, tendrá las siguientes atribuciones:
+El Director General de Control y Evaluación "C", en su carácter de vocal, tendrá las siguientes atribuciones:
 
-I. Dar una opinión al Comité, en la sesión inmediata posterior que corresponda en el caso que existan observaciones al Instituto, respecto del incumplimiento de las disposiciones legales, reglamentarias y administrativas en materia de control y evaluación.
+I. Asesorar al COCOE sobre la implementación y funcionamiento del MICI.
 
-II. Opinar en materia de control y evaluación, respecto a la forma en que el Instituto conduce sus actividades conforme al Programa Sectorial y al Programa Institucional.
+II. Opinar en materia de control y evaluación, respecto a la forma en que se conducen las actividades del IMIEM, conforme al Programa Sectorial e Institucional.
 
-III. Opinar respecto de los indicadores de gestión del Instituto en materia de operación, productividad y finanzas.
+III. Proponer la mejora continua en el programa de desarrollo y calidad institucional.
 
-IV. Informar oportunamente las modificaciones que sufra la normatividad en materia de control, evaluación y auditoría.
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-###### Artículo 23.
+###### ARTICULO 27.
 
-Los integrantes tienen la facultad de solicitar al Secretario Técnico la inclusión de asuntos en el orden del día, siempre y cuando sean competencia del Comité, con una anticipación no menor a diez días hábiles en los casos de sesiones ordinarias y de cinco días hábiles para las sesiones extraordinarias, a la solicitud referida, se deberá anexar el soporte documental que requiera.
+El titular de la Dirección de Administración y Finanzas presentará, al menos, en cada sesión ordinaria la evaluación sobre los avances programático presupuestales.
 
-###### Artículo 24.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
-Cualquier integrante del Comité podrá solicitar al Secretario Técnico, debidamente justificado, la realización de una sesión extraordinaria con una anticipación de cinco días hábiles, anexando a su solicitud la documentación soporte del asunto a tratar.
+### CAPITULO QUINTO. DE LA PARTICIPACION DE LOS INVITADOS
 
-### CAPITULO QUINTO. DE LA PARTICIPACIÓN DE LOS INVITADOS
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE JULIO DE 2009)</small>
 
-###### Artículo 36.
+###### ARTICULO 28.
 
-Los miembros del Comité que requieran la participación de algún invitado de conformidad con el Artículo 25, del presente ordenamiento, deberán solicitar al Secretario Técnico remita la invitación al Comité a más tardar diez días hábiles antes de la sesión ordinaria y cinco días hábiles antes en caso de sesiones extraordinarias.
-
-###### Artículo 37.
-
-Los invitados podrán participar previa invitación del Secretario Técnico en los términos del Artículo 8 fracción V.
-
-###### Artículo 38.
-
-Los invitados formarán parte de las comisiones especiales cuando así lo determine el Comité, apoyando y ejecutando dentro del ejercicio de sus funciones todas aquellas acciones que les requiera el Comité para el logro eficaz de sus objetivos.
-
-###### Artículo 39.
-
-Los invitados del Comité formarán parte del mismo con voz pero sin voto, en asuntos que tenga que ver con el ámbito de su competencia.
+Los invitados podrán participar, previa autorización del Presidente y convocatoria del Secretario Técnico, en asuntos relacionados con el ámbito de sus competencias. Formarán parte de las comisiones cuando así lo apruebe el Presidente, apoyando y ejecutando dentro del ejercicio de sus funciones, todas aquellas acciones que les requiera para el logro eficaz de sus objetivos.
 
 T R A N S I T O R I O S
 
@@ -424,28 +466,12 @@ CONTRALOR INTERNO
 
 (RUBRICA).
 
-###### Artículo 25.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-Es facultad de los integrantes del Comité proponer la asistencia de invitados, cuando así lo juzgue conveniente, justificando previamente su participación en el Comité, para lo cual deberán apegarse a lo establecido en el artículo 36.
+P.O. 16 DE JULIO DE 2009.
 
-###### Artículo 26.
+PRIMERO.- La interpretación del presente Reglamento así como lo no previsto será resuelto por la Secretaría de la Contraloría.
 
-Los miembros del Comité deberán cumplir en el ejercicio de sus funciones, con las obligaciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, en el Reglamento Interior del Instituto, en su Manual de Organización y con las demás disposiciones legales y normativas aplicables.
+SEGUNDO.- Los integrantes del COCOE podrán proponer modificaciones por situaciones no previstas en este Reglamento, las cuales deberán ser aprobadas por los miembros del COCOE.
 
-###### Artículo 27.
-
-Al finalizar cada ejercicio, el Comité a través de su Presidente, presentará al H. Consejo Interno un informe sobre su actuación, en el cual se incluirán los logros y objetivos alcanzados por su gestión.
-
-###### Artículo 28.
-
-Son obligaciones de los miembros del Comité:
-
-I. Asistir puntualmente y con carácter obligatorio a las sesiones de Comité.
-
-II. Cumplir con oportunidad las actividades que le confiara el Comité.
-
-III. Emitir su opinión sobre los asuntos que se sometan a su consideración.
-
-IV. Proporcionar la información y documentación que les sea solicitada sobre los asuntos que integran el orden del día y el seguimiento de los acuerdos.
-
-V. Efectuar, en el ámbito de su competencia, las gestiones que se requieran para la atención de las observaciones determinadas en las auditorías externas e internas.
+TERCERO.- La presente modificación, entrará en vigor al día hábil siguiente de su publicación en la Gaceta del Gobierno.
