@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6448
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-07"
-last_updated: "2008-11-07"
+last_updated: "2009-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2009.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 7 de noviembre de 2008.
 
@@ -751,7 +751,9 @@ Las ternas recibidas por el Pleno del Congreso serán debidamente analizadas y v
 
 Si realizadas dos rondas de votación no se alcanzara la mayoría requerida, las comisiones deberán presentar una nueva terna por cada consejero faltante de entre los aspirantes registrados.
 
-En el caso de la renovación simultánea de dos o más consejeros en donde uno de ellos deba ser elegido Presidente del Instituto, de entre los ya electos, el Congreso procederá a designar mediante votación simple quién será Presidente.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
+
+Encontrándose designados los tres consejeros, el Congreso procederá a nombrar mediante votación simple a su Presidente, mismo que permanecerá con ese carácter durante el tiempo de su encargo.
 
 ###### ARTÍCULO 81.
 
@@ -1194,3 +1196,11 @@ PRESIDENTE.- DIP. ELIGIO CUITLÁHUAC GONZÁLEZ FARÍAS.- PRIMER SECRETARIO.- DIP
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 21 veintiún días del mes de octubre del año 2008 dos mil ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JULIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial DEL Gobierno Constitucional del Estado de Michoacán de Ocampo.
