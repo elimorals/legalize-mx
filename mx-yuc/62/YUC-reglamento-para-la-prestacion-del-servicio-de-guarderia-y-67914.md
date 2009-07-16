@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-para-la-prestacion-del-servicio-de-guarderia-y-67914
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-24"
-last_updated: "2009-03-24"
+last_updated: "2009-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO PARA LA PRESTACION DEL SERVICIO DE GUARDERIA Y ESTANCIA DEL CENTRO DE DESARROLLO INFANTIL (CENDI)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Yucatán, el martes 24 de marzo de 2009.
 
@@ -221,9 +221,11 @@ XX. Cumplir con las disposiciones respectivas contenidas en el presente-reglamen
 
 Los avisos señalados en las (sic) I y II del artículo anterior deberán proporcionarse a más tardar el día hábil siguiente en que ocurran los hechos.
 
+> <small>(REFORMADO, D.O. 16 DE JULIO DE 2009)</small>
+
 ###### Artículo 18.
 
-El incumplimiento a lo dispuesto en las fracciones IV y V del artículo 14, relevará de responsabilidad al personal del CENDI.
+El incumplimiento a lo dispuesto en las fracciones IV y V del artículo 16, relevará de responsabilidad al personal del CENDI.
 
 ###### Artículo 19.
 
@@ -392,3 +394,9 @@ En la ciudad de Mérida, capital del Estado de Yucatán, Estados Unidos Mexicano
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE YUCATÁN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 16 DE JULIO DE 2009.
+
+ÚNICO. Este acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
