@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-becas-del-instituto-materno-infantil-del-65448"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-30"
-last_updated: "2008-12-30"
+last_updated: "2009-07-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MEX"
 
 REGLAMENTO DE BECAS DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO DE BECAS DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 16 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: SIN EFECTOS.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 30 de diciembre de 2008.
 
@@ -537,3 +539,17 @@ C.D. MARGARITA CARBALLIDO BARBA
 DIRECTORA DEL CENTRO DE ESPECIALIDADES ODONTOLÓGICAS
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE JULIO DE 2009.
+
+Artículo primero. Los casos no previstos en el presente Reglamento, serán resueltos por el Comité.
+
+Artículo segundo. Se derogan las disposiciones internas que en materia de capacitación se opongan al presente ordenamiento.
+
+Artículo tercero. Los planes de capacitación y desarrollo institucional, derivados del presente Reglamento deberán ser expedidos o actualizados en un término no mayor a 90 días, contados a partir de la fecha en que entre en vigor el mismo.
+
+Artículo cuarto. El presente ordenamiento entra en vigor al día siguiente de su aprobación y publicación en el Periódico Oficial Gaceta del Gobierno.
+
+Artículo quinto. El presente Reglamento deja sin efectos al publicado en el Periódico Oficial Gaceta del Gobierno del Estado de México con fecha 30 de diciembre de 2008.
