@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-uso-y-conservacion-de-las-areas-objetos-1765
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-14"
-last_updated: "2006-12-18"
+last_updated: "2009-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17655&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-09"
 
 REGLAMENTO PARA EL USO Y CONSERVACION DE LAS AREAS, OBJETOS Y COLECCIONES DE PALACIO NACIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 14 de noviembre de 2000.
 
@@ -35,13 +35,19 @@ REGLAMENTO PARA EL USO Y CONSERVACIÓN DE LAS ÁREAS, OBJETOS Y COLECCIONES DE P
 
 Se crea la Conservaduría de Palacio Nacional como una unidad administrativa de Presidencia de la República que tiene por objeto la protección, conservación y restauración de las áreas, objetos y colecciones que se encuentren en el mismo.
 
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2009)</small>
+
+La Conservaduría de Palacio Nacional estará a cargo de un Director General denominado Conservador, que será nombrado y, en su caso, removido por el Presidente de la República.
+
 ###### Artículo 2o.
 
 Por Palacio Nacional se entenderá el inmueble ubicado en el Distrito Federal, que se encuentra inscrito, con fecha 15 de julio de 1994, en el folio real número 34360 del Registro Público de la Propiedad Federal, cuyas colindancias son al Norte la calle de Moneda, al Sur la calle de Corregidora, al Este la calle de Correo Mayor y al Oeste la Plaza de la Constitución.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JULIO DE 2009)</small>
+
 ###### Artículo 3o.
 
-La Conservaduría de Palacio Nacional será presidida por un Conservador y estará integrada por:
+La Conservaduría de Palacio Nacional, como órgano intersecretarial, será presidido por el Conservador y estará integrado por:
 
 I. Dos representantes de la Presidencia de la República;
 
@@ -61,9 +67,15 @@ VI. Un representante de la Secretaría de Educación Pública, y
 
 VII. Un representante de la Consejería Jurídica del Ejecutivo Federal.
 
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2009)</small>
+
+Cada integrante del órgano intersecretarial contará con un suplente, en los términos previstos por las Reglas Internas de Operación que para tal efecto se emitan.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JULIO DE 2009)</small>
+
 ###### Artículo 4o.
 
-La Conservaduría de Palacio Nacional tendrá las atribuciones siguientes:
+La Conservaduría de Palacio Nacional, como órgano intersecretarial, tendrá las funciones siguientes:
 
 I. Efectuar las acciones necesarias para la debida protección de Palacio Nacional conforme a lo previsto en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y en este ordenamiento;
 
@@ -71,19 +83,27 @@ II. Emitir los lineamientos para la celebración de actividades culturales y cer
 
 III. Decidir respecto del uso de las áreas que no hayan sido asignadas por el Titular del Ejecutivo Federal a alguna dependencia y que no sean de las que se mencionan en el artículo 17 del presente Reglamento;
 
-IV. Emitir las normas para el uso de las áreas de visita pública de Palacio Nacional y el acceso máximo de personas a las mismas, y
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2009)</small>
 
-V. Administrar, previa la celebración de las bases de colaboración con los Institutos competentes, los museos alojados en Palacio Nacional.
+IV. Emitir las normas para el uso de las áreas de visita pública de Palacio Nacional y el acceso máximo de personas a las mismas;
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2009)</small>
+
+V. Administrar, previa la celebración de las bases de colaboración con los institutos competentes, los museos alojados en Palacio Nacional, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2009)</small>
+
+VI. Emitir las Reglas Internas de Operación para su debido funcionamiento.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 5o.
 
-El Conservador de Palacio Nacional será nombrado por el Presidente de los Estados Unidos Mexicanos, dependerá directamente de él y deberá reunir los requisitos siguientes:
+El Conservador, para su nombramiento, deberá reunir los requisitos siguientes:
 
-I. Poseer título a nivel licenciatura en Historia del Arte, Conservación, Restauración, Arquitectura o poseer título de posgrado en Museología;
+I. Poseer título de nivel licenciatura, y
 
-II. Tener conocimiento y experiencia en trabajo de museos de arte e historia o ser una persona con probada experiencia en el manejo y administración de museos del mismo género y en conservación de monumentos, y
-
-III. Ser de reconocido prestigio en el medio.
+II. Acreditar un mínimo de cinco años de experiencia en el establecimiento, organización, mantenimiento, administración y desarrollo de museos o galerías de arte o historia, o en actividades de protección, conservación, restauración o recuperación de monumentos arqueológicos, artísticos e históricos.
 
 ###### Artículo 6o.
 
@@ -97,19 +117,33 @@ III. Realizar la inspección, cuidado y vigilancia técnica de las áreas, objet
 
 IV. Tomar las medidas urgentes de protección para prevenir riesgos al acervo histórico y artístico de Palacio Nacional a fin de evitar cualquier tipo de daño o afectación a los elementos y decoraciones de Palacio Nacional;
 
-V. Dar seguimiento a las acciones de recuperación de los objetos y colecciones del Palacio Nacional, y
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2009)</small>
 
-VI. Las demás que le señale el Presidente de la República.
+V. Dar seguimiento a las acciones de recuperación de los objetos y colecciones del Palacio Nacional;
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2009)</small>
+
+VI. Coordinar la Galería de Palacio Nacional y, previa la celebración de bases de colaboración con las dependencias e institutos competentes, los diversos museos, recintos y espacios culturales alojados en Palacio Nacional;
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2009)</small>
+
+VII. Presidir el órgano intersecretarial, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2009)</small>
+
+VIII. Las demás que le señale el Presidente de la República.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 7o.
 
-La Conservaduría de Palacio Nacional se reunirá cuando así lo convoque el Conservador. Para que sus resoluciones sean válidas se requerirá la mayoría de votos de los integrantes y el voto favorable del Conservador.
+La Conservaduría de Palacio Nacional, como órgano intersecretarial, se reunirá cuando así lo convoque el Conservador. Para que sus resoluciones sean válidas se requerirá la mayoría de votos de sus integrantes y el voto favorable del Conservador.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 8o.
 
-La Conservaduría de Palacio Nacional podrá invitar a sus sesiones a representantes de otras dependencias e instituciones con el objeto de que emitan su opinión respecto a la protección, conservación y restauración de Palacio Nacional.
+El órgano intersecretarial de la Conservaduría de Palacio Nacional, por conducto de su Presidente podrá invitar a sus sesiones a representantes de otras dependencias e instituciones con el objeto de que emitan su opinión respecto a la protección, conservación y restauración de Palacio Nacional.
 
 ###### Artículo 9o.
 
@@ -221,6 +255,14 @@ La Secretaría de la Función Pública, por conducto del Instituto de Administra
 
 (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 2006)
 
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2009)</small>
+
+###### Artículo 21.
+
+Palacio Nacional será la sede de la Galería Nacional, y se denominará Galería de Palacio Nacional, espacio cultural y museístico dedicado a investigar, generar un acervo, conservar y difundir diversas manifestaciones culturales y artísticas de relevancia para la sociedad mexicana.
+
+La Galería de Palacio Nacional estará a cargo de un director nombrado por el Conservador, quien deberá reunir los requisitos que establece el artículo 5o. del presente Reglamento y dependerá directamente del Conservador.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -242,3 +284,7 @@ D.O.F. 4 DE DICIEMBRE DE 2006.
 D.O.F. 18 DE DICIEMBRE DE 2006.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JULIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
