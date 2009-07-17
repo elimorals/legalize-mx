@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2009-02-20"
+last_updated: "2009-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -1761,11 +1761,11 @@ El reglamento respectivo, establecerá los términos, montos y condiciones de la
 
 Para tal efecto, la Secretaría de Finanzas y Tesorería General del Estado proveerá los fondos necesarios.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 182 Bis 7.
 
-La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 bis, 176, 318, 325, 357 ó 357 bis del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
+La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 bis, 176, 318, 325, 357, 357 bis ó 395 del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
 
 ### CAPITULO CUARTO. CONSIGNACION ANTE LOS TRIBUNALES
 
@@ -1901,11 +1901,11 @@ La orden de aprehensión que el juez dicte, se entregará al Ministerio Público
 
 Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, la Policía Ministerial, asentando la fecha y hora de la detención, está obligada a poner al detenido, sin dilación alguna y bajo su más estricta responsabilidad, a disposición del Juez respectivo, lo cual se llevará a cabo mediante la recepción por el tribunal de la copia de la constancia de internamiento del lugar donde haya quedado recluido, lo que deberá verificarse en forma inmediata por parte de los elementos que ejecuten la orden. La contravención a lo previsto en este artículo se sancionará conforme lo dispone el Código Penal vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 200.
 
-Si el Juez niega la orden de aprehensión, de comparecencia o de cateo, de arraigo, de orden de presentación o de embargo precautorio, por considerar que no están reunidos los requisitos de los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos y 197 de este Código, y se solicitare la práctica de nuevas pruebas, se regresará el expediente al Ministerio Público investigador a efecto de que las desahogue, estando facultado para solicitar de nueva cuenta la orden de aprehensión, de comparecencia o de cateo, de arraigo, de presentación o embargo precautorio apoyado en pruebas diversas a las anteriores, ya consideradas por la autoridad judicial.
+Si el Juez niega la orden de aprehensión, de comparecencia, de cateo, de arraigo, de presentación o de embargo precautorio, por considerar que no están reunidos los requisitos de los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos, 193 y 197 de este Código, y se solicitare replantear el auto en que se ejercita la acción penal o la práctica de nuevas pruebas, se regresará el expediente al Ministerio Público a efecto de que realice un nuevo auto de ejercicio de la acción penal o desahogue de nuevas pruebas estando facultado para solicitar de nueva cuenta la orden de aprehensión, de comparecencia o de cateo, de arraigo, de presentación o embargo precautorio, con un nuevo planteamiento o en el mismo sentido apoyado en pruebas diversas a las anteriores, ya consideradas por la autoridad judicial, debiendo el juzgador valorar en su conjunto todas y cada una de las pruebas que obran en el expediente, tanto la (sic) nuevas como las anteriores, al emitir un nuevo auto.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -2395,7 +2395,7 @@ De las diligencias se levantará acta circunstanciada, que firmarán los que en 
 
 ###### ARTICULO 261.
 
-El funcionario que practique una diligencia de inspección deberá cumplir, en lo conducente con las reglas contenidas en los capítulos I, y II del Titulo Tercero de este código.
+El funcionario que practique una diligencia de inspección deberá cumplir, en lo conducente con las reglas contenidas en los capítulos I, y II del Título Tercero de este código.
 
 ###### ARTICULO 262.
 
@@ -3287,9 +3287,9 @@ IV.- Los autos que se dicten conforme a los artículos 212, 215 y 217 de este c�
 
 V.- Los autos en que se conceda o niegue la libertad provisional bajo caución; los que concedan o nieguen la disminución del monto de la caución fijada; los que concedan la libertad por desvanecimiento de datos; y los que resuelvan algún incidente no especificado;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2009)</small>
 
-VI.- Los autos en que se niegue la orden de aprehensión o la comparecencia para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
+VI.- Los autos en que se niegue la orden de aprehensión, la de presentación o la comparecencia para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -4889,11 +4889,11 @@ VI.- En el caso previsto en el artículo 566 cuando el Ministerio Público no se
 
 Excepcionalmente el tribunal podrá disponer la suspensión del debate, por resolución fundada, cuando se envié exhorto o alguna catástrofe o algún hecho extraordinario torne imposible su continuación. El tribunal decidirá la suspensión y anunciará el día y la hora en que continuara la audiencia ello valdrá como citaciones para todos los intervinientes.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 577.
 
-Las resoluciones de este Capítulo no admiten más recursos que el de apelación tratándose del auto de formal prisión, del auto de sujeción a proceso, del auto de libertad, de la administración de pruebas en forma contraria a la (sic) ofertadas, del desechamiento de pruebas ofrecidas, así como de la sentencia definitiva.
+Las resoluciones de este Capítulo no admiten más recurso que el de apelación tratándose de la negativa de orden de aprehensión, de presentación o de comparecencia, del auto de formal prisión, del auto de sujeción a proceso, del auto de libertad, de la admisión de pruebas en forma contraria a las ofertadas, del desechamiento de pruebas ofrecidas, así como de la sentencia definitiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
@@ -5600,3 +5600,15 @@ P.O. 20 DE FEBRERO DE 2009.
 PRIMERO.- El presente Decreto entrara en vigor el día 1 de julio de 2009.
 
 SEGUNDO.- Las disposiciones del presente Decreto no serán aplicables a los procedimientos jurisdiccionales iniciados con anterioridad a la vigencia del mismo.
+
+P.O. 17 DE JULIO DE 2009.
+
+DECRETO No. 399, POR EL QUE SE REFORMA EL ARTICULO 182 BIS 7 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2009.
+
+DECRETO No. 400, POR EL QUE SE REFORMAN LOS ARTICULOS 200, 385 Y 577 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
