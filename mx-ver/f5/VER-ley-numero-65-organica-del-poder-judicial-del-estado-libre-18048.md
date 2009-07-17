@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2009-04-07"
+last_updated: "2009-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE JULIO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -63,25 +63,29 @@ El Poder Judicial del Estado se deposita en:
 
 l. El Tribunal Superior de Justicia;
 
-II. El Tribunal de lo Contencioso Administrativo;
+> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2009)</small>
 
-III. El Tribunal de Conciliación y Arbitraje;
+II. El Tribunal Electoral;
 
-IV. Los Juzgados de Primera Instancia;
+III. El Tribunal de lo Contencioso Administrativo;
 
-V. Los Juzgados de Garantías de Adolescentes;
+IV. El Tribunal de Conciliación y Arbitraje;
 
-VI. Los Juzgados de Juicio de Adolescentes;
+V. Los Juzgados de Primera Instancia;
 
-VII. Los Juzgados de Ejecución de Medidas Sancionadoras de Adolescentes;
+VI. Los Juzgados de Garantías de Adolescentes;
 
-VIII. Los Juzgados Menores;
+VII. Los Juzgados de Juicio de Adolescentes;
 
-IX. Los Juzgados Municipales;
+VIII. Los Juzgados de Ejecución de Medidas Sancionadoras de Adolescentes;
 
-X. Los Juzgados de Comunidad; y
+IX. Los Juzgados Menores;
 
-XI. El Centro Estatal de Medios Alternativos para la Solución de Conflictos y sus Unidades Regionales.
+X. Los Juzgados Municipales;
+
+XI. Los Juzgados de Comunidad; y
+
+XII. El Centro Estatal de Medios Alternativos para la Solución de Conflictos y sus Unidades Regionales.
 
 El Poder Judicial contará además con un órgano denominado Consejo de la Judicatura del Poder Judicial del Estado.
 
@@ -135,9 +139,11 @@ XIX. Las demás que expresamente establezcan la Constitución local, esta ley y 
 
 La sede oficial del Poder Judicial del Estado es el municipio de Xalapa-Enríquez y, para el mejor desempeño de la función jurisdiccional, sus órganos podrán contar con Salas o Juzgados en los distintos municipios y regiones de la Entidad, en los términos que fijen esta Ley y demás leyes del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2009)</small>
+
 ###### Artículo 4.
 
-Los Magistrados del Poder Judicial serán nombrados en términos de lo previsto por la Constitución Política del Estado y esta Ley, durarán en su cargo diez años improrrogables, salvo que durante ese lapso dejen de cumplir con algunos de los requisitos para ser Magistrado, y sólo podrán ser removidos de conformidad con lo dispuesto por el Título Quinto de la Constitución Política del Estado.
+Los Magistrados del Poder Judicial, incluidos los del Tribunal Electoral, serán nombrados en términos de lo previsto por la Constitución Política del Estado y esta Ley, durarán en su cargo diez años improrrogables, salvo que durante ese lapso dejen de cumplir con algunos de los requisitos para ser Magistrado, y sólo podrán ser removidos de conformidad con lo dispuesto por el Título Quinto de la Constitución Política del Estado.
 
 Para ser Magistrado se requiere:
 
@@ -193,11 +199,11 @@ La retribución que corresponda a los servidores públicos del Poder Judicial se
 
 ### CAPÍTULO II. De los Precedentes Obligatorios del Poder Judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 11.
 
-Los precedentes que establezcan el Pleno del Tribunal Superior de Justicia y sus Salas, así como el Tribunal de lo Contencioso Administrativo y el Tribunal de Conciliación y Arbitraje, serán obligatorios para todas las autoridades del Estado y se sujetarán a las siguientes reglas:
+Los precedentes que establezcan el Pleno del Tribunal Superior de Justicia y sus Salas, así como el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo y el Tribunal de Conciliación y Arbitraje, serán obligatorios para todas las autoridades del Estado y se sujetarán a las siguientes reglas:
 
 I. Se integrarán con cinco resoluciones consecutivas en el mismo sentido en la materia, no interrumpidas por otra en contrario y aprobadas por unanimidad de votos de sus Magistrados;
 
@@ -305,9 +311,11 @@ Los Magistrados de las Salas Regionales serán suplidos, en sus faltas temporale
 
 En todo caso, las faltas mayores a diez días consecutivos, sin que medie causa justificada que califique el Presidente del Tribunal al que pertenezca el Magistrado, se considerarán definitivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2009)</small>
+
 ###### Artículo 22.
 
-Cuando la falta de un Magistrado, de temporal se convirtiere en definitiva, se procederá de la manera siguiente:
+Cuando la falta de un Magistrado, de temporal se convierta en definitiva o concluya u encargo en términos de Ley, se procederá de la manera siguiente:
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -318,6 +326,10 @@ II. El Presidente del Tribunal Superior de Justicia lo comunicará al Gobernador
 III. El Titular del Poder Ejecutivo del Estado, en términos de lo dispuesto por el artículo 59 de la Constitución local, hará la propuesta del Magistrado del Tribunal de que se trate; y
 
 IV. El Congreso del Estado con base en lo dispuesto en el artículo 33, fracción XIX, de la Constitución del Estado, previa comparecencia de la persona propuesta, hará el nombramiento del Magistrado. En los recesos del Congreso, la Diputación Permanente, hará el nombramiento provisional, en tanto el Congreso se reúne y da la aprobación definitiva.
+
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2009)</small>
+
+Para el caso de la falta definitiva de un Magistrado integrante del Tribunal Electoral, el Presidente del Tribunal Superior de Justicia lo comunicará al Pleno del Tribunal a fin de que, conforme a lo dispuesto por el artículo 66 de la Constitución Política local, se realice la propuesta correspondiente ante el H. Congreso del Estado, en términos de lo dispuesto por la fracción IV del presente artículo.
 
 > <small>(ADICIONADO, G.O. 11 DE JUNIO DE 2008)</small>
 
@@ -461,17 +473,17 @@ Los auxiliares de la administración de justicia cooperarán con las autoridades
 
 ### CAPÍTULO I. De su Organización y Funcionamiento
 
-> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 32.
 
-El Tribunal Superior de Justicia funcionará en Pleno y en Salas y se integrará con treinta y tres Magistrados.
+El Tribunal Superior de Justicia funcionará en Pleno y en Salas y se integrará con treinta Magistrados.
 
-> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 33.
 
-El Pleno se compondrá por el Presidente del Tribunal Superior de Justicia, quien no integrará Sala, y por los Presidentes de cada una de sus Salas, a excepción de la Electoral, y de la Sala de Responsabilidad Juvenil, las que resolverán en última instancia los asuntos de su competencia. Para el ejercicio de sus atribuciones, el Pleno deberá reunir a las dos terceras partes de sus integrantes, entre los que deberá estar presente su Presidente.
+El Pleno se compondrá por el Presidente del Tribunal Superior de Justicia, quien no integrará Sala, y por los Presidentes de cada una de sus Salas, a excepción de la Sala de Responsabilidad Juvenil, las que resolverán en última instancia los asuntos de su competencia. Para el ejercicio de sus atribuciones, el Pleno deberá reunir a las dos terceras partes de sus integrantes, entre los que deberá estar presente su Presidente.
 
 ###### Artículo 34.
 
@@ -585,9 +597,7 @@ XXI. Adscribir a los Magistrados a las Salas y Tribunales correspondientes y lla
 
 XXII. Nombrar, mediante votación secreta, a tres magistrados para que formen parte del Consejo de la Judicatura, en términos de lo dispuesto por el artículo 100 de la presente ley;
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
-
-XXIII. Acordar sobre el funcionamiento de la Sala Auxiliar prevista en el artículo 66 de la Constitución Política del Estado; y
+XXIII. (DEROGADA, G.O. 17 DE JULIO DE 2009)
 
 > <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -685,15 +695,11 @@ El Pleno del Tribunal Superior de Justicia y sus Salas contarán, respectivament
 
 ### CAPÍTULO IV. De las Salas
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 42.
 
-El Tribunal Superior de Justicia se integrará con una Sala Constitucional, cuatro Salas Penales, tres Salas Civiles, y una Sala Electoral, cada una de ellas se compondrá por tres Magistrados, de entre los que se elegirá a su Presidente, el cual fungirá por un año, con la posibilidad de ser reelegido y la Sala de Responsabilidad Juvenil, la cual se integrará con un solo magistrado.
-
-> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2004)</small>
-
-Cuando no existan procesos electorales, plebiscitarios o de referendo, la Sala Electoral funcionará como Sala Auxiliar y conocerá de la materia que se le asigne, en la forma y términos que acuerde el Pleno.
+El Tribunal Superior de Justicia se integrará con una Sala Constitucional, cuatro Salas Penales y tres Salas Civiles, cada una de ellas se compondrá por tres magistrados, de entre los que se elegirá a su Presidente, el cual fungirá por un año, con la posibilidad de ser reelegido; y la Sala de Responsabilidad Juvenil, la cual se integrará con un solo magistrado.
 
 ###### Artículo 43.
 
@@ -807,31 +813,13 @@ IV. De la calificación de las excusas y recusaciones de los Jueces de Primera I
 
 V. Los demás que expresamente establezcan la Constitución Política local, esta ley y las leyes del Estado.
 
-#### SECCIÓN CUARTA. De la Sala Electoral
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, G.O. 17 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2004)</small>
+#### SECCIÓN CUARTA. De la Sala Electoral
 
 ###### Artículo 48.
 
-La Sala Electoral tendrá competencia para:
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2004)</small>
-
-I. Sustanciar y resolver, en forma definitiva y conforme a la ley de la materia, las impugnaciones que se presenten en las elecciones de Gobernador, de Diputados al Congreso del Estado, de Ayuntamientos; así como las que se presenten en los procesos de plebiscito o referendo, en contra de:
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
-
-a) Los actos o resoluciones de los órganos electorales, durante los procesos electorales ordinarios o extraordinarios, así como los que se interpongan en los procesos plebiscitarios o de referendo;
-
-b) Actos o resoluciones de los órganos electorales, durante el tiempo que transcurra entre dos procesos electorales ordinarios; y
-
-c) Actos o resoluciones que violen los derechos políticos electorales de los ciudadanos;
-
-II. Realizar el cómputo final y, en su caso, la declaración de validez de la elección de Gobernador, y la de Gobernador electo del candidato que hubiere obtenido el mayor número de sufragios, ordenando su publicación en la Gaceta Oficial del Estado;
-
-III. Conocer, en funciones de Sala Auxiliar, de los asuntos y la materia que le asigne el Pleno; y
-
-IV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
+(DEROGADO, G.O. 17 DE JULIO DE 2009)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 2 DE JULIO DE 2007)</small>
 
@@ -849,17 +837,131 @@ La Sala de Responsabilidad Juvenil se integrará con un Magistrado, un secretari
 
 La Sala de Responsabilidad Juvenil tendrá la facultad de resolver los recursos de apelación, apelación especial y revisión en los términos previstos en la Ley de Responsabilidad Juvenil.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 17 DE JULIO DE 2009)</small>
+
+## TÍTULO SEGUNDO BIS. DEL TRIBUNAL ELECTORAL
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 17 DE JULIO DE 2009)</small>
+
+#### SECCIÓN PRIMERA. De su organización y Funcionamiento
+
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Quáter.
+
+El Tribunal Electoral se compondrá por tres Magistrados. El Tribunal contará con un Secretario de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y el demás personal que permita el presupuesto, mismos que serán nombrados conforme a lo dispuesto por esta Ley.
+
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Quinquies.
+
+Los Magistrados del Tribunal Electoral no serán recusables, pero deberán excusarse de conocer en los juicios en que intervengan, cuando se encuentren comprendidos dentro de los supuestos que señala esta Ley.
+
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Sexies.
+
+El Tribunal Electoral, para la resolución de los asuntos de su competencia, funcionará de la manera siguiente:
+
+I. Sesionará con la presencia de todos sus integrantes y sus resoluciones se tomarán por unanimidad o mayoría de votos. Las sesiones serán públicas, salvo los casos en que la moral, el interés público o la ley exijan que sean privadas;
+
+II. Realizará la distribución interna de los asuntos por riguroso turno, debiendo fungir como ponente el Magistrado al que le hubiera correspondido el asunto y los otros dos fungirán como vocales;
+
+III. Emitirá su resolución, previa exposición y discusión del caso, con base en el proyecto que presente el Magistrado ponente;
+
+IV. Cuando un Magistrado disienta de la mayoría podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de la firma de ésta; y
+
+V. Cuando el proyecto del Magistrado ponente fuere rechazado, uno de los vocales redactará uno nuevo, que de ser aprobado constituirá la resolución del Tribunal, y el proyecto original quedará, en su caso, como voto particular del Magistrado que lo formuló.
+
+> <small>(ADICIONADO, G. O. 17 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Septies.
+
+El Presidente del Tribunal Electoral será suplido, en sus faltas temporales que no excedan de diez días consecutivos, por el Magistrado que él mismo determine, pero si excediere de ese término, la designación del Magistrado Presidente Interino la hará el Pleno del propio Tribunal.
+
+Los Magistrados del Tribunal Electoral serán suplidos, en sus faltas temporales que no excedan de diez días consecutivos, por el Secretario de Acuerdos. Las faltas mayores a diez días consecutivos, sin que medie causa justificada que como tal califique el Presidente del Tribunal Electoral, se considerarán definitivas y darán lugar a la sustitución del faltista, conforme al procedimiento establecido en esta Ley.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRAN, G.O. 17 DE JULIO DE 2009)</small>
+
+#### SECCIÓN SEGUNDA. De la Competencia
+
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Octies.
+
+El Tribunal Electoral tendrá competencia para:
+
+I. Sustanciar y resolver, en forma definitiva y conforme a la ley de la materia, los medios de impugnación que se presenten en los procesos de elección de Gobernador, Diputados al Congreso del Estado y Ayuntamientos; así como los que se susciten en los procesos de plebiscito o referendo y en la designación de agentes y subagentes municipales;
+
+II. Sustanciar y resolver el juicio para la protección de los derechos político-electorales del ciudadano;
+
+III. Sustanciar y resolver las impugnaciones contra actos o resoluciones de los órganos electorales, durante el tiempo que transcurra entre dos procesos electorales ordinarios;
+
+IV. Hacer el cómputo estatal de los votos emitidos en la elección de Gobernador, sumando los resultados de las actas de cómputo distrital;
+
+V. Calificar la validez de la elección de Gobernador y declarar electo al candidato que haya obtenido la mayoría de los votos;
+
+VI. Ordenar, en su caso, la publicación en la Gaceta Oficial de la declaratoria de Gobernador Electo;
+
+VII. Establecer, en su ámbito, los precedentes obligatorios en los términos de esta ley y ordenar, por conducto de su Presidente, su publicación debidamente compilada y sistematizada;
+
+VIII. Calificar las excusas o impedimentos de los Magistrados del Tribunal;
+
+IX. Expedir el Reglamento Interno del Tribunal Electoral;
+
+X. Dar cuenta al Consejo de la Judicatura de las irregularidades de que tenga conocimiento, cometidas por los secretarios, actuarios y demás servidores públicos del Tribunal Electoral, que afecten el buen funcionamiento del mismo;
+
+XI. Ejercer su presupuesto bajo los criterios de legalidad, honradez, transparencia y austeridad;
+
+XII. Entregar a su Presidente la cuenta pública documentada del ejercicio fiscal del año anterior;
+
+XIII. Atender las observaciones y recomendaciones que formule el Órgano de Fiscalización Superior, respecto del ejercicio de su presupuesto, en los términos que establezca la Ley; y
+
+XIV. Conocer de los demás asuntos que expresamente determinen la Constitución local y las leyes del Estado.
+
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Nonies.
+
+El Presidente del Tribunal será electo cada tres años por los Magistrados del mismo, durante la primera semana de diciembre del año de que se trate, y podrá ser reelecto por una sola vez.
+
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2009)</small>
+
+###### Artículo 48 Decies.
+
+El Presidente del Tribunal Electoral tendrá las atribuciones siguientes:
+
+I. Ejercer la representación legal del Tribunal;
+
+II. Presidir las sesiones del Tribunal;
+
+III. Designar, por riguroso turno, al Magistrado ponente en los asuntos que conozca;
+
+IV. Dictar los acuerdos de trámite para la sustanciación de los asuntos que sean competencia del Tribunal;
+
+V Presentar al Tribunal para su aprobación, las actas en que se hagan constar sus deliberaciones y acuerdos;
+
+VI. Informar al Presidente del Tribunal Superior de Justicia, para su publicación, de las resoluciones y precedentes obligatorios dictados por el Tribunal Electoral;
+
+VII. Proponer al Consejo de la Judicatura, el nombramiento del Secretario de Acuerdos, de los Secretarios de Estudio y Cuenta, Actuarios y demás personal del Tribunal;
+
+VIII. Proponer reformas al Reglamento del Tribunal;
+
+IX. Presentar ante los Magistrados que integran el Tribunal Electoral, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará también al Congreso del Estado;
+
+X. Conocer y someter a la consideración del Tribunal, las excusas o impedimentos de sus Magistrados;
+
+XI. Elaborar y someter a la consideración de los Magistrados que integran el Tribunal, a más tardar el día quince de octubre de cada año, el anteproyecto anual de presupuesto;
+
+XII. Conocer de los avisos que los Magistrados del Tribunal Electoral le den respecto a sus ausencias temporales; y
+
+XIII. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
+
 ## TÍTULO TERCERO. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO Y DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
-
-#### SECCIÓN PRIMERA. De su Organización y Funcionamiento
-
-#### SECCIÓN SEGUNDA. Del Presidente del Tribunal
-
-## TÍTULO CUARTO. DE LOS JUZGADOS Y DEL CENTRO ESTATAL DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS
 
 ### CAPÍTULO I. Del Tribunal de lo Contencioso Administrativo
 
-#### SECCIÓN TERCERA. De la Sala Superior
+#### SECCIÓN PRIMERA. De su Organización y Funcionamiento
 
 ###### Artículo 49.
 
@@ -871,9 +973,9 @@ El Tribunal contará con una Sala Superior y tres Salas Regionales, integradas �
 
 La Sala Superior y las Salas Regionales contarán con un Secretario de Acuerdos, nombrado conforme a lo dispuesto por esta ley.
 
-#### SECCIÓN CUARTA. De las Salas Regionales
+#### SECCIÓN SEGUNDA. Del Presidente del Tribunal
 
-#### SECCIÓN PRIMERA. De su Organización y Funcionamiento
+#### SECCIÓN TERCERA. De la Sala Superior
 
 ###### Artículo 51.
 
@@ -919,7 +1021,7 @@ XIII. Conocer de los avisos que los Magistrados del Tribunal de lo Contencioso A
 
 XIV. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
-#### SECCIÓN SEGUNDA. Del Presidente del Tribunal
+#### SECCIÓN CUARTA. De las Salas Regionales
 
 ###### Artículo 53.
 
@@ -961,7 +1063,7 @@ XIII. Atender las observaciones y recomendaciones que le formule el Órgano de F
 
 XIV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
 
-#### SECCIÓN TERCERA. De la Competencia del Tribunal de Conciliación y Arbitraje
+#### SECCIÓN PRIMERA. De su Organización y Funcionamiento
 
 ###### Artículo 54.
 
@@ -1021,7 +1123,7 @@ También conocerán de los asuntos planteados por quienes tengan su domicilio de
 
 ### CAPÍTULO II. Del Tribunal de Conciliación y Arbitraje
 
-#### SECCIÓN CUARTA. De la Procuraduría para la Defensa de los Trabajadores
+#### SECCIÓN SEGUNDA. Del Presidente del Tribunal
 
 ###### Artículo 57.
 
@@ -1030,6 +1132,8 @@ El Tribunal de Conciliación y Arbitraje se compondrá por tres Magistrados.
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 El Tribunal contará con un Secretario de Acuerdos y los de Estudio y Cuenta que permita el presupuesto, mismos que serán nombrados conforme a lo dispuesto por esta ley.
+
+#### SECCIÓN TERCERA. De la Competencia del Tribunal de Conciliación y Arbitraje
 
 ###### Artículo 58.
 
@@ -1072,6 +1176,8 @@ XII. Conocer de los avisos que los Magistrados del Tribunal de Conciliación y A
 > <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
 XIII. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
+
+#### SECCIÓN CUARTA. De la Procuraduría para la Defensa de los Trabajadores
 
 ###### Artículo 60.
 
@@ -1143,7 +1249,7 @@ El reglamento del Tribunal determinará, conforme a las atribuciones que expresa
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 2 DE JULIO DE 2007)</small>
 
-## TÍTULO QUINTO. DEL CONSEJO DE LA JUDICATURA
+## TÍTULO CUARTO. DE LOS JUZGADOS Y DEL CENTRO ESTATAL DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS
 
 ### CAPÍTULO I. De los Juzgados de Primera Instancia
 
@@ -1583,7 +1689,7 @@ En ningún caso se podrán conceder licencias con el carácter de indefinidas, n
 
 El Consejo de la Judicatura resolverá sobre los casos de renuncia, licencia, ausencia temporal y faltas definitivas de los jueces de adolescentes, y demás servidores judiciales, en los mismos términos que se previene para los Jueces en el presente Capítulo.
 
-## TÍTULO SEXTO. DE LA DIVISIÓN TERRITORIAL
+## TÍTULO QUINTO. DEL CONSEJO DE LA JUDICATURA
 
 ### CAPÍTULO I. De su Organización y Funcionamiento
 
@@ -1823,7 +1929,7 @@ Los Consejeros de la Judicatura tendrán a su cargo la función de Visitadores d
 
 El ingreso al Poder Judicial se hará mediante concurso de oposición aplicado por el Instituto de Formación, Capacitación, Especialización y Actualización, y la promoción de los servidores judiciales será mediante el sistema de Carrera Judicial, la que se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad e independencia, en términos del Reglamento y estará a cargo de una Dirección.
 
-## TÍTULO SÉPTIMO. Del Fondo Auxiliar para la Administración de Justicia (sic)
+## TÍTULO SEXTO. DE LA DIVISIÓN TERRITORIAL
 
 ### CAPÍTULO I. De los Distritos Judiciales
 
@@ -1881,7 +1987,7 @@ XXI. Vigésimo Primer Distrito: comprende los Municipios de Coatzacoalcos, Tatah
 
 Los municipios designados en primer lugar en cada una de las fracciones del artículo anterior, serán las cabeceras de los Distritos Judiciales.
 
-## TÍTULO OCTAVO. DE LAS RESPONSABILIDADES
+## TÍTULO SÉPTIMO. Del Fondo Auxiliar para la Administración de Justicia (sic)
 
 ### CAPÍTULO I. De la Constitución del Fondo Auxiliar
 
@@ -2047,7 +2153,7 @@ III. El Comité Técnico reconstituirá o incrementará los fondos de retiro con
 
 Los bienes muebles o inmuebles que, de conformidad con lo dispuesto por esta ley y las leyes de la materia, sean adquiridos por la Institución fiduciaria en ejecución del fideicomiso y, en general aquellos otros para cuya compra se destinen recursos del fondo auxiliar de la administración de justicia, acrecentará el patrimonio de éste y quedarán sujetos a las normas que regulen el régimen patrimonial del mismo.
 
-## TÍTULO NOVENO. PREVENCIONES GENERALES
+## TÍTULO OCTAVO. DE LAS RESPONSABILIDADES
 
 ### CAPÍTULO I. De los Supuestos y Consecuencias
 
@@ -2209,6 +2315,8 @@ III. Cuando se trate de los Magistrados, el Presidente del Tribunal Superior de 
 
 Las faltas en que incurran los servidores públicos del Poder Judicial, serán sancionadas según la gravedad de las mismas, a través de resolución debidamente fundada y motivada, con apercibimiento por escrito, con suspensión de su cargo de dos a quince días, debiéndose tomar nota en su expediente; con suspensión por el término hasta de un año, inhabilitación o cese, sin perjuicio de las demás sanciones que correspondan.
 
+## TÍTULO NOVENO. PREVENCIONES GENERALES
+
 ### CAPÍTULO I
 
 ###### Artículo 144.
@@ -2219,7 +2327,9 @@ Los integrantes del Poder Judicial del Estado, disfrutarán de dos períodos de 
 
 En el Tribunal Superior de Justicia funcionará durante los dos períodos de vacaciones una Sala de Guardia integrada por un Magistrado de cada una de las Salas Penales y un Secretario, para el despacho de los asuntos urgentes, personal que será designado por el Pleno de dicho Tribunal y que posteriormente hará uso de sus vacaciones.
 
-Los tribunales de lo Contencioso Administrativo y de Conciliación y Arbitraje, dispondrán de igual forma sobre la guardia respectiva, que despachará los asuntos urgentes.
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2009)</small>
+
+Los Tribunales Electoral, de lo Contencioso Administrativo y de Conciliación y Arbitraje, dispondrán de igual forma sobre la guardia respectiva, que despachará los asuntos urgentes.
 
 Se consideran asuntos urgentes los casos de desistimiento de la acción penal por parte del Ministerio Público, cuando haya detenido; los referidos a demandas de Amparo y los que entrañen cumplimiento de ejecutorias en la misma materia que ordenen la libertad de alguna persona y los casos de alimentos, providencias precautorias, depósito de personas y libertad caucional. La Sala de Guardia tendrá facultades para interponer los recursos que sean procedentes conforme a la Ley de Amparo.
 
@@ -2512,3 +2622,25 @@ G.O. 7 DE ABRIL DE 2009.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 17 DE JULIO DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Los plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, dentro de sus respectivos ámbitos de atribuciones, ajustarán la organización y normatividad interior del Poder Judicial del Estado y tomarán las medidas necesarias para el cumplimiento del presente Decreto.
+
+Tercero. Considerando que en esta primera ocasión, el nombramiento de los Magistrados del Tribunal Electoral del Poder Judicial recaerá sobre quienes tienen ya la condición de Magistrados, conforme a lo establecido por el artículo Quinto Transitorio del Decreto por el que se reforman los artículos 55, 57 en su párrafo tercero, 59 en su párrafo primero y 66, de la Constitución Política de Veracruz de Ignacio de la Llave, y por corresponder a una etapa de adecuación de estructuras jurisdiccionales, aquel Magistrado que cuente con la calidad de inamovible, no perderá ésta, en caso de ser designado para el Tribunal Electoral.
+
+Los Magistrados que no cuenten con la calidad señalada en el párrafo anterior y sean nombrados por el H. Congreso como Magistrados del Tribunal Electoral, asumirán esta responsabilidad como un nuevo nombramiento.
+
+Cuarto. Una vez nombrados por el H. Congreso del Estado los Magistrados que integrarán el primer Tribunal Electoral del Poder Judicial del Estado en términos de la presente reforma, éste se instalará de manera inmediata. Asimismo, sus integrantes deberán designar a su Presidente, en un plazo que no deberá exceder de tres días. El Presidente nombrado en esta primera ocasión durará en su encargo hasta la primera semana del mes de diciembre de 2012, fecha en que se deberá elegir un nuevo Presidente según lo previsto en el presente Decreto.
+
+Quinto. El Tribunal Electoral deberá emitir su Reglamento Interno y demás disposiciones de organización y funcionamiento, en un plazo no mayor a quince días a partir de su instalación.
+
+Sexto. Los asuntos en materia electoral que se encuentren en trámite al cesar sus funciones la Sala Electoral, se ajustarán en lo conducente a lo dispuesto por este Decreto. Para el desahogo de los procedimientos que atendía dicha instancia en funciones de Sala Auxiliar, incluyendo los asuntos en materia de amparo, el Presidente del Tribunal Superior de Justicia acordará lo conducente a fin de turnarlos para su despacho, de manera equitativa y mediante un sistema aleatorio, a las Salas que correspondan según la materia, en un plazo no mayor a tres días a partir de la entrada en vigor del presente Decreto.
+
+Séptimo. El Poder Judicial del Estado y la Secretaría de Finanzas y Planeación del Gobierno del Estado propondrán las adecuaciones al Presupuesto, en atención a los cambios que genere el presente Decreto en la estructura del Poder Judicial.
+
+Octavo. Los recursos humanos adscritos a la Sala Electoral del Tribunal Superior de Justicia serán asignados al Tribunal Electoral del Poder Judicial del Estado, con pleno respeto a sus derechos laborales. Asimismo, los recursos materiales con que cuenta dicha Sala se destinarán al Tribunal Electoral.
+
+Noveno. Se derogan todas las disposiciones que se opongan a este Decreto.
