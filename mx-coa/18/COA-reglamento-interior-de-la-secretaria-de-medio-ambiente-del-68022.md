@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-medio-ambiente-del-6802
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-16"
-last_updated: "2009-01-16"
+last_updated: "2009-07-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 17 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 16 de enero de 2009.
 
@@ -1108,3 +1110,13 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE JULIO DE 2009.
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se deja sin efectos el Reglamento Interior de la Secretaría de Medio Ambiente de fecha tres de diciembre del año dos mil ocho y publicado en el Periódico Oficial del Gobierno del Estado el dieciséis de enero del año dos mil nueve.
+
+TERCERO. Se dejan sin efecto todas las disposiciones que se opongan al presente Reglamento.
