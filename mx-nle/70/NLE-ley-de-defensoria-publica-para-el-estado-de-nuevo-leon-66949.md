@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-defensoria-publica-para-el-estado-de-nuevo-leon-66949"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-06"
-last_updated: "2009-02-06"
+last_updated: "2009-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DEFENSORIA PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -361,9 +361,11 @@ Las facultades del Comisario se señalan sin perjuicio de las que le otorguen ot
 
 El Director General del Instituto para el mejor desempeño de sus funciones se auxiliará de la estructura administrativa y operativa que se establezca en el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2009)</small>
+
 ###### Artículo 31.
 
-El Instituto contará al menos con la siguiente estructura administrativa:
+El lnstituto contará con la siguiente estructura administrativa:
 
 I. Dirección General;
 
@@ -381,9 +383,15 @@ VII. Dirección de lo Civil, Mercantil, Contencioso Administrativo y Métodos Al
 
 VIII. Dirección de Defensa Especializada en Justicia para Adolescentes;
 
-IX. Dirección de lo Familiar; y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2009)</small>
 
-X. Dirección de Apoyo Técnico;
+IX. Dirección de lo Familiar;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2009)</small>
+
+X. Dirección Foránea; y
+
+XI. Dirección de Apoyo Técnico.
 
 El Reglamento de esta Ley, precisará su competencia, funcionamiento, atribuciones y obligaciones.
 
@@ -598,3 +606,9 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 EL C. OFICIAL MAYOR DE GOBIERNO
 
 ALFREDO GERARDO GARZA DE LA GARZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JULIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
