@@ -4,7 +4,7 @@ identifier: "MEX-codigo-reglamentario-del-municipio-de-toluca-67842"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-09"
-last_updated: "2009-03-09"
+last_updated: "2009-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CODIGO REGLAMENTARIO DEL MUNICIPIO DE TOLUCA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL SEMANAL: 17 DE JULIO DE 2009.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 9 de marzo de 2009.
 
@@ -621,7 +621,7 @@ XVIII. Las demás que le confieran otros ordenamientos.
 
 10.- La Secretaría del Ayuntamiento, para el cumplimiento de sus atribuciones, se auxiliará de la Dirección Jurídica y Consultiva.
 
-DE LA CONSEJERÍA JURÍDICA MUNICIPAL
+DE LA DIRECCIÓN JURÍDICA Y CONSULTIVA
 
 ###### Artículo 3.
 
@@ -661,9 +661,7 @@ XVI. Suplir las faltas temporales del Secretario del Ayuntamiento, que no exceda
 
 XVII. Las demás que le confieran otros ordenamientos.
 
-> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
-
-#### SECCIÓN TERCERA. DE LA CONTRALORÍA MUNICIPAL
+#### SECCIÓN TERCERA. DE LA TESORERÍA MUNICIPAL
 
 ###### Artículo 3.
 
@@ -977,7 +975,9 @@ II. Verificar que las licencias y permisos de funcionamiento, referentes a las a
 
 III. Regular la actividad de los vendedores ambulantes, cuidando que se realice en los lugares permitidos;
 
-IV. Ordenar, elaborar y ejecutar las visitas domiciliarias de inspección, los acuerdos de suspensión, clausura, decomisos y aseguramiento de mercancías, para aquellos comerciantes que infrinjan las disposiciones legales aplicables;
+> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
+
+IV. Ordenar, elaborar y ejecutar las visitas domiciliarias de inspección y los acuerdos sobre medidas preventivas de suspensión de la actividad, clausura provisional y aseguramiento, decomiso o retiro de mercancías, productos, materiales o sustancias que se expendan en la vía pública, en términos de las disposiciones legales aplicables;
 
 V. Dictar y ejecutar los acuerdos de reubicación y ordenamiento del comercio en la vía pública, cuando el interés público así lo requiera; y
 
@@ -1111,13 +1111,17 @@ VI. Gestionar y coordinar la implementación de proyectos de vialidad y transpor
 
 VII. Establecer las restricciones para el tránsito de vehículos en la vía pública;
 
-VIII. Realizar cambios de sentido de la circulación, adecuaciones geométricas, instalación o retiro de señalamiento vertical u horizontal, semaforización de intersecciones e instalaciones de reductores de velocidad, previo estudio que justifique las medidas;
+> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
+
+VIII. Realizar cambios de sentido de la circulación, adecuaciones geométricas, semaforización de intersecciones e instalación de reductores de velocidad, previo estudio que justifique las medidas;
 
 IX. Otorgar o en su caso negar vistos buenos, para que las actividades de los particulares en la vía pública se den en forma ordenada, como son cierre de calles, funcionamiento de juegos mecánicos, maniobras de carga y descarga dentro del territorio municipal;
 
 X. Formular e instrumentar programas de educación vial en coordinación con las diferentes instituciones educativas y sociales, a fin de promover una cultura vial ordenada entre la población del Municipio;
 
-XI. Vigilar y mantener la adecuada operación del sistema municipal de semáforos, así como el señalamiento vial;
+> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
+
+XI. Vigilar y mantener la adecuada operación del sistema municipal de semáforos;
 
 XII. Dictaminar sobre la instalación, retiro o reubicación de parabuses, cobertizos, casetas telefónicas o puestos de periódicos que obstruyan la vía pública;
 
@@ -1367,7 +1371,7 @@ VIII. Generar propuestas e implementarlas entre los habitantes del Municipio, qu
 
 IX. Promover, preservar y fomentar la cultura de los grupos étnicos asentados en el Municipio e impulsar su integración al desarrollo;
 
-X. Apoyar el funcionamiento del Centro Municipal de Salud y Bienestar Animal; y
+X. (DEROGADA, G.M.S. 17 DE JULIO DE 2009)
 
 XI. Las demás que le confieran otros ordenamientos.
 
@@ -1395,7 +1399,7 @@ VI. Apoyar el desarrollo integral de la comunidad otomí y de los miembros de ot
 
 VII. Promover y coordinar acciones con instituciones del sector salud, con la finalidad de contribuir a preservar la salud de la población del Municipio, especialmente de los grupos de escasos recursos económicos;
 
-VIII. Fortalecer los servicios del Centro Municipal de Salud y Bienestar Animal; y
+VIII. (DEROGADA, G.M.S. 17 DE JULIO DE 2009)
 
 IX. Las demás que le confieran otros ordenamientos.
 
@@ -1665,13 +1669,27 @@ VI. Evitar por todos los medios que los residuos sólidos urbanos y de manejo es
 
 VII. Programar adecuadamente el mantenimiento de monumentos, calles, caminos y todo tipo de vialidades que contribuyan a optimizar la comunicación de las poblaciones del Municipio;
 
-VIII. Establecer e instrumentar programas, en coordinación con las autoridades estatales competentes, para mantener en buenas condiciones las calles, caminos y vialidades del Municipio; y
+> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
 
-IX. Las demás que le confieran otros ordenamientos.
+VIII. Establecer e instrumentar programas, en coordinación con las autoridades estatales competentes, para mantener en buenas condiciones las calles, caminos y vialidades del Municipio; -
 
-###### Artículo 3.
+> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
 
-49.- La Dirección General de Servicios Públicos, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Residuos Sólidos, de Alumbrado Público y de Parques, Jardines, Panteones y Mantenimiento Urbano.
+IX. Apoyar y fortalecer el funcionamiento del Centro Municipal de Salud y Bienestar Animal;
+
+> <small>(ADICIONADA, G.M.S. 17 DE JULIO DE 2009)</small>
+
+X. Coordinar las acciones requeridas para mantener en condiciones adecuadas el señalamiento vial; y
+
+> <small>(ADICIONADA, G.M.S. 17 DE JULIO DE 2009)</small>
+
+XI. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADO, G.M.S. 17 DE JULIO DE 2009)</small>
+
+###### Articulo 3.
+
+49.- La Dirección General de Servicios Públicos, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Residuos Sólidos, de Alumbrado Público y de Parques, Panteones, Mantenimiento Urbano y Salud Animal.
 
 DE LA DIRECCIÓN DE RESIDUOS SÓLIDOS
 
@@ -1739,11 +1757,15 @@ XIII. Coordinar acciones con las instancias federales y estatales, conforme a lo
 
 XIV. Las demás que le confieran otros ordenamientos.
 
-DE LA DIRECCIÓN DE PARQUES, JARDINES, PANTEONES Y MANTENIMIENTO URBANO
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 17 DE JULIO DE 2009)</small>
+
+DE LA DIRECCIÓN DE PARQUES, PANTEONES, MANTENIMIENTO URBANO Y SALUD ANIMAL
+
+> <small>(REFORMADO PRMER PARRAFO, G.M.S. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 3.
 
-52.- El titular de la Dirección de Parques, Jardines, Panteones y Mantenimiento Urbano cuenta con las siguientes atribuciones:
+52.- El titular de la Dirección de Parques, Panteones, Mantenimiento Urbano y Salud Animal cuenta con las siguientes atribuciones:
 
 I. Programar y ejecutar la creación, mantenimiento y protección de los parques y jardines municipales;
 
@@ -1761,9 +1783,21 @@ VII. Mantener en buenas condiciones las calles, banquetas y guarniciones a cargo
 
 VIII. Llevar a cabo la recuperación de fosas y criptas, a través del procedimiento administrativo común que prevé el Código de Procedimientos Administrativos del Estado;
 
-IX. Realizar las acciones necesarias tendentes a preservar y mantener en buen estado la infraestructura urbana municipal, así como los edificios públicos municipales; y
+> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
 
-X. Las demás que le confieran otros ordenamientos.
+IX. Realizar las acciones necesarias tendentes a preservar y mantener en buen estado la infraestructura urbana municipal, así como los edificios públicos municipales;
+
+> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
+
+X. Impulsar las actividades del Centro Municipal de Salud y Bienestar Animal, con el propósito de concientizar a la población en la tenencia y cuidado responsable de los animales domésticos;
+
+> <small>(ADICIONADA, G.M.S. 17 DE JULIO DE 2009)</small>
+
+XI. Aplicar señalamiento horizontal y vertical en la red vial del Municipio; y
+
+> <small>(ADICIONADA, G.M.S. 17 DE JULIO DE 2009)</small>
+
+XII. Las demás que le confieran otros ordenamientos.
 
 ###### Artículo 3.
 
@@ -2073,11 +2107,13 @@ El personal que cobra a través del sistema bancario, está obligado a firmar la
 
 6.- Es obligación de todos los servidores públicos municipales portar su gafete de identificación en lugar visible y en forma permanente durante la jornada laboral.
 
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 17 DE JULIO DE 2009)</small>
+
 #### SECCIÓN DÉCIMA CUARTA. DE LA COORDINACIÓN GENERAL DE MEDIO AMBIENTE
 
 ###### Artículo 4.
 
-7.- La Banda de Música y la Orquesta Sinfónica, que más adelante se identificarán como la Banda y la Orquesta, respectivamente, se integrarán cada una por un Director, un Subdirector, los músicos y el personal de apoyo.
+7.- La Banda de Música y la Orquesta Filarmónica, que más adelante se identificarán como la Banda y la Orquesta, respectivamente, se integrarán cada una por un Director, un Subdirector, los músicos y el personal de apoyo.
 
 ###### Artículo 4.
 
@@ -2229,7 +2265,9 @@ Las aportaciones económicas y materiales que reciba el citado Patronato se dest
 
 ### CAPÍTULO TERCERO. DE LA SEGURIDAD E HIGIENE EN EL TRABAJO DE LOS SERVIDORES PÚBLICOS
 
-#### SECCIÓN SEGUNDA. DEL PERSONAL DE LA BANDA DE MÚSICA Y DE LA ORQUESTA SINFÓNICA
+#### SECCIÓN SEGUNDA. DEL PERSONAL DE LA BANDA DE MÚSICA Y DE LA ORQUESTA FILARMÓNICA
+
+> <small>(REFORMADO, G.M.S. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -5387,7 +5425,53 @@ V. Presentar el informe de avance de las acciones realizadas; y
 
 VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
 
+> <small>(ADICIONADA, G.M.S. 17 DE JULIO DE 2009)</small>
+
 #### SECCIÓN SEGUNDA. DEL CONSEJO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE
+
+###### Artículo 7.
+
+37-A.- Para coordinar, proponer y formular las estrategias y acciones de la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la actividad turística en el Municipio, en términos de la Ley General de Turismo y demás disposiciones legales aplicables, existirá un Consejo Consultivo Municipal de Turismo, integrado por:
+
+I. Un Presidente que será el Presidente Municipal;
+
+II. Un Secretario Ejecutivo, que será el Coordinador General de Desarrollo Económico; y
+
+III. Seis consejeros, que serán:
+
+a. Dos representantes de la Comisión de Educación Pública y Turismo del Ayuntamiento;
+
+b. Un representante de la Comisión de Desarrollo Económico, Abasto, Mercados y Rastros;
+
+c. El Director General de Participación Ciudadana;
+
+d. El Director General de Desarrollo Social; y
+
+e. El Coordinador General de Planeación y Evaluación.
+
+Los integrantes del Consejo tendrán derecho a voz y voto, a excepción del Secretario Ejecutivo que sólo contará con voz. Cuando lo estime conveniente el Presidente Municipal, podrán participar dentro de este órgano representantes de instituciones y entidades públicas, privadas y sociales, únicamente con voz, en su carácter de consejeros invitados.
+
+Salvo el Presidente Municipal, los demás miembros del Consejo podrán designar por escrito a sus respetivos suplentes. El Consejo sesionará ordinariamente por lo menos cuatro veces al año y en forma extraordinaria cuando sea convocado.
+
+> <small>(ADICIONADO, G.M.S. 17 DE JULIO DE 2009)</small>
+
+###### Artículo 7.
+
+37-B.- Corresponde al Secretario Ejecutivo del Consejo:
+
+I. Presidir las sesiones del Consejo, en ausencia del Presidente Municipal;
+
+II. Convocar por escrito a los integrantes del Consejo, para la celebración de sesiones;
+
+III. Formular el orden del día de cada sesión;
+
+IV. Levantar el acta de cada sesión;
+
+V. Presentar el informe de avance de las acciones realizadas; y
+
+VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
+
+#### SECCIÓN TERCERA. DEL CONSEJO MUNICIPAL DE LA JUVENTUD
 
 ###### Artículo 7.
 
@@ -5416,8 +5500,6 @@ e. El Contralor Municipal.
 Los integrantes del Comité tendrán derecho a voz y voto, a excepción del Secretario Ejecutivo y el Contralor Municipal que sólo contarán con voz. Cuando lo estime conveniente el Presidente Municipal, podrán participar dentro de este órgano, únicamente con voz, vocales invitados.
 
 Salvo el Presidente Municipal, los demás miembros del Comité podrán designar por escrito a sus respectivos suplentes. El Comité sesionará ordinariamente una vez al mes y en forma extraordinaria cuando sea convocado.
-
-#### SECCIÓN TERCERA. DEL CONSEJO MUNICIPAL DE LA JUVENTUD
 
 ###### Artículo 7.
 
@@ -5457,6 +5539,8 @@ IV. Dar a conocer a los empresarios solicitantes la respuesta emitida a sus soli
 
 43.- Una vez emitidos favorablemente los dictámenes de factibilidad relacionados con la instalación, ampliación y operación de empresas, la persona beneficiada podrá iniciar de inmediato, en su caso, la construcción de las obras correspondientes, siempre y cuando suscriba una “carta compromiso” que le proponga la autoridad respectiva, en la que se establezca la obligación de dar cumplimiento, en el plazo que se señale, a los requisitos establecidos en la normatividad de cada ámbito de autoridad, así como las consecuencias en el supuesto de incumplimiento.
 
+#### SECCIÓN CUARTA. DEL CONSEJO DE LA CRÓNICA Y ACERVO HISTÓRICO
+
 ###### Artículo 7.
 
 44.- Las instalaciones de la Unidad Deportiva “Profr. Filiberto Navas Valdés”, que en adelante se identificará como la Unidad Deportiva, se destinarán a la realización de actividades de carácter deportivo, conforme a las disposiciones de la presente sección y de los lineamientos internos que expida el Presidente Municipal, a propuesta del Coordinador General de Desarrollo Económico.
@@ -5466,8 +5550,6 @@ IV. Dar a conocer a los empresarios solicitantes la respuesta emitida a sus soli
 45.- El solicitante realizará los trámites administrativos que se requieran para su admisión como usuario de la Unidad Deportiva, ante el administrador de la misma.
 
 Una vez que la administración apruebe una solicitud, informará por escrito al solicitante, quien firmará el contrato correspondiente.
-
-#### SECCIÓN CUARTA. DEL CONSEJO DE LA CRÓNICA Y ACERVO HISTÓRICO
 
 ###### Artículo 7.
 
@@ -5491,6 +5573,8 @@ Los derechos personales de uso son intransferibles, por lo que no se pueden vend
 
 50.- El Coordinador General de Desarrollo Económico es competente para conocer y resolver cualquier inconformidad que se suscite entre el administrador y los usuarios de la Unidad Deportiva.
 
+#### SECCIÓN PRIMERA. DEL CONSEJO CONSULTIVO ECONÓMICO MUNICIPAL
+
 ###### Artículo 7.
 
 51.- Estas disposiciones regularán el uso y administración de las actividades que se realicen en las siguientes instalaciones:
@@ -5510,8 +5594,6 @@ VI. Otras instalaciones municipales similares.
 ###### Artículo 7.
 
 52.- Las actividades que podrán realizarse en las instalaciones municipales serán preferentemente de carácter cultural, conforme a la autorización de la Coordinación General de Desarrollo Económico y en su caso el permiso que otorgue la Dirección General de Gobierno. Se dará preferencia a las actividades que tengan un fin no lucrativo.
-
-#### SECCIÓN PRIMERA. DEL CONSEJO CONSULTIVO ECONÓMICO MUNICIPAL
 
 ###### Artículo 7.
 
@@ -5547,9 +5629,17 @@ VI. Realizar pintas.
 
 La licencia o permiso señalará los horarios, condiciones y restricciones que deban cumplirse en las actividades comerciales. El contrato de usufructo que celebre la autoridad municipal indicará las obligaciones, prohibiciones y demás disposiciones a cargo de los usufructuarios.
 
+### CAPÍTULO QUINTO. DE LA PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
+
+#### SECCIÓN PRIMERA BIS. DEL CONSEJO CONSULTIVO MUNICIPAL DE TURISMO
+
+> <small>(ADICIONADO, G.M.S. 17 DE JULIO DE 2009)</small>
+
 ###### Artículo 7.
 
 58.- La formulación, aprobación, colaboración, concertación, ejecución y evaluación de la planeación democrática para el desarrollo municipal, se regirán por la Constitución Federal, la Constitución Estatal, la Ley de Planeación del Estado de México y Municipios, la Ley Orgánica Municipal, el Reglamento de la Ley de Planeación del Estado de México y Municipios, el presente capítulo y demás disposiciones que resulten aplicables.
+
+#### SECCIÓN SEGUNDA. DEL COMITÉ MUNICIPAL DE ATENCIÓN EMPRESARIAL
 
 ###### Artículo 7.
 
@@ -5569,10 +5659,6 @@ Los integrantes de la Comisión tendrán derecho a voz y voto, a excepción del 
 
 Salvo el Presidente Municipal, los demás miembros de la Comisión podrán designar por escrito a sus respectivos suplentes. La Comisión sesionará ordinariamente cuatro veces al año y en forma extraordinaria cuando sea convocada.
 
-### CAPÍTULO QUINTO. DE LA PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
-
-#### SECCIÓN SEGUNDA. DEL COMITÉ MUNICIPAL DE ATENCIÓN EMPRESARIAL
-
 ###### Artículo 7.
 
 60.- Corresponde al Presidente de la Comisión ejercer las siguientes funciones:
@@ -5588,8 +5674,6 @@ IV. Conducir las sesiones de la Comisión;
 V. Someter a discusión y votación los asuntos del orden del día, teniendo voto de calidad en los casos de empate; y
 
 VI. Informar bimestralmente al pleno de la Comisión los asuntos tratados en las subcomisiones.
-
-#### SECCIÓN TERCERA. DE LA UNIDAD DEPORTIVA "PROFR. FILIBERTO NAVAS VALDÉS"
 
 ###### Artículo 7.
 
@@ -5633,6 +5717,8 @@ IV. Desahogar las consultas que en materia de creación y establecimiento de nue
 
 V. Estudiar, analizar y proponer lo procedente o improcedente de los asuntos que le sean turnados por la Comisión.
 
+### CAPÍTULO SEXTO. DE LA OBRA PÚBLICA
+
 ###### Artículo 7.
 
 65.- La planeación, programación, presupuestación, adjudicación, contratación, ejecución y control de la obra pública, así como los servicios relacionados con la misma, que por sí o por conducto de terceros, realicen el Ayuntamiento y sus organismos auxiliares, se ajustarán a la Constitución Federal, Constitución Estatal, Libro Décimo Segundo del Código Administrativo, Reglamento del Libro Décimo Segundo del Código Administrativo, Bando Municipal, presente capítulo y otras normas relacionadas.
@@ -5663,8 +5749,6 @@ Los integrantes del Comité tendrán derecho a voz y voto, a excepción del Secr
 
 Salvo el Presidente Municipal, los otros miembros del Comité podrán designar por escrito a sus respectivos suplentes. El Comité sesionará ordinariamente una vez al mes y en forma extraordinaria cuando sea convocado.
 
-### CAPÍTULO SEXTO. DE LA OBRA PÚBLICA
-
 ###### Artículo 7.
 
 67.- Corresponde al Secretario Ejecutivo:
@@ -5684,6 +5768,8 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Comité.
 ###### Artículo 7.
 
 68.- En los organismos auxiliares, los comités internos de obra pública se formarán de un Presidente, un Secretario Ejecutivo y los vocales necesarios, de manera similar a las disposiciones anteriores.
+
+### CAPÍTULO SÉPTIMO. DE LA ADQUISICIÓN, ENAJENACIÓN Y ARRENDAMIENTO DE BIENES Y LA CONTRATACIÓN DE SERVICIOS
 
 ###### Artículo 7.
 
@@ -5715,8 +5801,6 @@ Los integrantes del Comité tendrán derecho a voz y voto, a excepción del Secr
 
 Salvo el Presidente Municipal, los otros miembros del Comité podrán designar por escrito a sus respectivos suplentes. El Comité sesionará ordinariamente una vez al mes y en forma extraordinaria cuando sea convocado.
 
-### CAPÍTULO SÉPTIMO. DE LA ADQUISICIÓN, ENAJENACIÓN Y ARRENDAMIENTO DE BIENES Y LA CONTRATACIÓN DE SERVICIOS
-
 ###### Artículo 7.
 
 71.- Corresponde al Secretario Ejecutivo:
@@ -5737,6 +5821,8 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Comité.
 
 72.- En los organismos auxiliares, los comités de adquisiciones, enajenaciones, arrendamientos y servicios se formarán de un Presidente, un Secretario Ejecutivo y como vocales los titulares de las áreas financiera, control interno, jurídico y de la dependencia o unidad administrativa interesada en el acto.
 
+### CAPÍTULO OCTAVO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA MUNICIPAL
+
 ###### Artículo 7.
 
 73.- El ejercicio del derecho de acceso a la información pública municipal y la protección de datos personales que se encuentren en posesión de los sujetos obligados del Municipio, se regirán por la Constitución Federal, la Constitución Estatal, la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, el Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, el Bando Municipal, el presente capitulo y demás disposiciones aplicables.
@@ -5744,8 +5830,6 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Comité.
 ###### Artículo 7.
 
 74.- El Comité de Información de la Administración Pública Municipal Centralizada, a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, será integrado por el Coordinador General de Planeación y Evaluación, que lo presidirá, el Contralor Municipal y el titular de la Unidad de Información. Cada organismo auxiliar contará con su Comité de Información, formado por el Director General del organismo, que lo presidirá, el Contralor Interno y el titular de la Unidad de Información.
-
-### CAPÍTULO OCTAVO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA MUNICIPAL
 
 ###### Artículo 7.
 
@@ -5755,6 +5839,10 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Comité.
 
 76.- Los servidores públicos habilitados serán designados por el titular de cada dependencia de la Administración Pública Centralizada o de los organismos auxiliares, en su carácter de sujetos obligados.
 
+### CAPÍTULO NOVENO. DE LA ADMINISTRACIÓN DE DOCUMENTOS MUNICIPALES
+
+#### SECCIÓN TERCERA. DE LA UNIDAD DEPORTIVA "PROFR. FILIBERTO NAVAS VALDÉS"
+
 ###### Artículo 7.
 
 77.- La administración de documentos administrativos e históricos del Municipio y sus organismos auxiliares, se regirá por la Ley de Documentos Administrativos e Históricos del Estado, el presente capítulo y demás disposiciones.
@@ -5762,8 +5850,6 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Comité.
 ###### Artículo 7.
 
 78.- Para la administración de los documentos municipales existirán el Archivo Administrativo dependiente de la Dirección General de Administración y el Archivo Histórico coordinado por la Secretaría del Ayuntamiento. En cada dependencia municipal y organismo auxiliar existirá un archivo de trámite.
-
-### CAPÍTULO NOVENO. DE LA ADMINISTRACIÓN DE DOCUMENTOS MUNICIPALES
 
 #### SECCIÓN CUARTA. DEL USO DE OTRAS INSTALACIONES MUNICIPALES
 
@@ -5797,11 +5883,11 @@ X. Diseñar los formatos necesarios para la operación adecuada de las tareas a 
 
 XI. Las demás que señalen otras disposiciones.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
-
 ###### Artículo 7.
 
 81.- Las dependencias municipales y organismos auxiliares podrán solicitar el préstamo de los documentos que hayan generado, mediante oficio firmado por su titular. Se suspenderá el derecho de préstamo a quienes tengan en su poder documentos cuyo plazo de entrega se encuentre vencido.
+
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 7.
 
@@ -5833,8 +5919,6 @@ X. Diseñar los formatos necesarios para la operación adecuada de las tareas a 
 
 XI. Las demás que señalen otras disposiciones.
 
-#### SECCIÓN SEGUNDA. DE LA COMISIÓN DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
-
 ###### Artículo 7.
 
 84.- Los usuarios podrán consultar el acervo documental del Archivo Histórico, sujetándose a los siguientes lineamientos:
@@ -5853,6 +5937,8 @@ VI. Se suspenderá el derecho a consulta a quienes mutilen o deterioren document
 
 VII. Las demás que el titular del Archivo determine como necesarios.
 
+### CAPÍTULO DÉCIMO. DE LOS DERECHOS HUMANOS
+
 ###### Artículo 7.
 
 85.- Los servidores públicos municipales respetarán los derechos humanos que otorga la Constitución Federal y los tratados internacionales firmados por México, en términos de la Ley de la Comisión de Derechos Humanos del Estado, la Ley Orgánica Municipal, el Reglamento Interno de la Comisión de Derechos Humanos del Estado, el presente capítulo y demás normas legales.
@@ -5866,8 +5952,6 @@ I. Un Coordinador;
 II. Los Secretarios Visitadores que sean necesarios; y
 
 III. El personal de apoyo para el desempeño de las funciones.
-
-### CAPÍTULO DÉCIMO. DE LOS DERECHOS HUMANOS
 
 ###### Artículo 7.
 
@@ -5895,6 +5979,8 @@ V. Aquellas que le otorguen las disposiciones legales aplicables.
 
 90.- Queda prohibido a los servidores públicos que presten sus servicios en la Coordinación hacer uso de la información y documentación confidencial relativas a los asuntos a su cargo, aún a título personal, por lo que no estarán obligados a rendir testimonio ante ninguna autoridad administrativa o jurisdiccional, cuando esté relacionada su actuación con algún trámite radicado en la propia dependencia.
 
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS VISITANTES DISTINGUIDOS
+
 ###### Artículo 7.
 
 91.- Las personalidades nacionales y extranjeras que visiten oficial o formalmente el Municipio, podrán ser declarados visitantes distinguidos por el Ayuntamiento, a propuesta de cualquiera de sus integrantes, quienes a su vez podrán recibir al respecto las solicitudes de los ciudadanos, instituciones y dependencias.
@@ -5904,8 +5990,6 @@ V. Aquellas que le otorguen las disposiciones legales aplicables.
 92.- Toda solicitud expresará los merecimientos del personaje que se proponga para ser declarado visitante distinguido y se acompañará, en su caso, de la documentación probatoria pertinente.
 
 En sesión de Cabildo, se determinará la ceremonia de recepción, el recinto en que habrá de realizarse y las menciones que deban otorgarse, tomando en cuenta la jerarquía, la labor, el prestigio y los méritos de las personas que sean objeto de esa distinción.
-
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS VISITANTES DISTINGUIDOS
 
 ###### Artículo 7.
 
@@ -5921,6 +6005,8 @@ III. Llave de la ciudad, que será de una dimensión de quince centímetros de l
 
 94.- Al concluir la ceremonia, las personas que hayan recibido la distinción, serán invitadas a firmar el libro de visitantes distinguidos.
 
+### CAPÍTULO DÉCIMO SEGUNDO. DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO
+
 ###### Artículo 7.
 
 95.- La propiedad en condominio en el Municipio se regirá por las disposiciones del Título Quinto del Libro Quinto del Código Civil del Estado, el Libro Quinto del Código Administrativo, la Ley que Regula el Régimen de Propiedad en Condominio en el Estado, el Reglamento del Libro Quinto del Código Administrativo, el presente capítulo, el Reglamento Interno del Condominio y la escritura en que se hubiere constituido el régimen de propiedad en condominio.
@@ -5934,8 +6020,6 @@ I. El administrador o el presidente de la mesa directiva;
 II. Los condóminos cuando los mismos representen por lo menos el 25 por ciento del valor del conjunto o sin éste en los casos previstos en este ordenamiento; y
 
 III. El Segundo Síndico Municipal, a requerimiento del 20 por ciento de los condóminos o de uno sólo cuando dejen de celebrarlas por más de un año.
-
-### CAPÍTULO DÉCIMO SEGUNDO. DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO
 
 ###### Artículo 7.
 
@@ -5959,6 +6043,10 @@ El presidente de la mesa directiva presidirá las asambleas generales, auxiliado
 
 101.- Cuando se decida por la extinción total del régimen de propiedad en condominio, se debe asimismo decidir sobre la división de los bienes comunes o su venta.
 
+### CAPÍTULO DÉCIMO TERCERO. DE LA ACTIVIDAD FINANCIERA MUNICIPAL
+
+#### SECCIÓN SEGUNDA. DE LA COMISIÓN DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
+
 ###### Artículo 7.
 
 102.- En el ámbito municipal, los principios de carácter fiscal, el procedimiento administrativo de ejecución, los ingresos públicos, el catastro, las aportaciones de mejoras, la coordinación hacendaría, la deuda pública, el presupuesto de egresos, los servicios de tesorería, la contabilidad gubernamental y las infracciones, sanciones y delitos fiscales, se ajustarán al Código Financiero, la Ley de Ingresos de los Municipios del Estado para el ejercicio fiscal del año que corresponda, la Ley del Agua del Estado, la Ley de Fiscalización Superior del Estado, el Reglamento del Título Quinto del Código Financiero, el presente capítulo y otras disposiciones vinculadas con la materia.
@@ -5974,8 +6062,6 @@ II. Los jefes de departamento de la Dirección de Ingresos;
 III. Los notificadores ejecutores; y
 
 IV. Los auditores fiscales.
-
-### CAPÍTULO DÉCIMO TERCERO. DE LA ACTIVIDAD FINANCIERA MUNICIPAL
 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
@@ -5999,8 +6085,6 @@ V. Los de avalúo; y
 
 VI. Los demás que, con el carácter de extraordinario, eroguen las autoridades fiscales con motivo del procedimiento administrativo de ejecución.
 
-#### SECCIÓN SEGUNDA. DEL ARCHIVO ADMINISTRATIVO
-
 ###### Artículo 7.
 
 106.- En la Tesorería Municipal y en el Organismo de Agua y Saneamiento de Toluca, habrá el número de notificadores ejecutores que se requiera, para llevar a cabo el procedimiento administrativo de ejecución, cuyos salarios serán cubiertos con cargo al presupuesto de egresos respectivo.
@@ -6023,6 +6107,8 @@ VI. Los demás que, con el carácter de extraordinario, eroguen las autoridades 
 
 Cuando el depositario se vea obligado a realizar gastos para conservar en su poder o en el estado en que le fueron entregados los bienes embargados, percibirá el monto de ellos, previa comprobación del hecho que lo obligó a efectuar los mismos y de las cantidades erogadas.
 
+### CAPÍTULO DÉCIMO CUARTO. DE LA GACETA MUNICIPAL
+
 ###### Artículo 7.
 
 111.- La Gaceta Municipal es el órgano informativo del Municipio, de carácter permanente, donde se publican el Bando Municipal, el presente Código Reglamentario Municipal, los acuerdos tomados por el Ayuntamiento y actos o resoluciones de interés del Presidente Municipal, dependencias administrativas, organismos auxiliares, autoridades auxiliares y particulares.
@@ -6030,8 +6116,6 @@ Cuando el depositario se vea obligado a realizar gastos para conservar en su pod
 ###### Artículo 7.
 
 112.- La Gaceta Municipal se editará y distribuirá por la Secretaría del Ayuntamiento, una vez a la semana, pudiéndose publicar en cualquier otro día cuando las necesidades del servicio lo requieran. Cada dos meses se editará una compilación de las gacetas correspondientes al período.
-
-### CAPÍTULO DÉCIMO CUARTO. DE LA GACETA MUNICIPAL
 
 ###### Artículo 7.
 
@@ -6069,6 +6153,10 @@ En los casos de errores de impresión, la Secretaría del Ayuntamiento, por sí 
 
 Tratándose de errores de contenido en el documento original, la Secretaría del Ayuntamiento, a petición del responsable de la publicación, ordenará la inserción de la fe de erratas.
 
+### CAPÍTULO DÉCIMO QUINTO. DE LA CALIFICACIÓN, MEDIACIÓN Y CONCILIACIÓN
+
+#### SECCIÓN SEGUNDA. DEL ARCHIVO ADMINISTRATIVO
+
 ###### Artículo 7.
 
 117. - Las Oficialías Calificadoras estarán organizadas en forma tal que prestarán servicios continuos durante las 24 horas de los 365 días del año. En adelante se les mencionará como la Oficialía y su titular como el Oficial.
@@ -6085,10 +6173,6 @@ III. Médico; y
 
 IV. Personal de apoyo.
 
-### CAPÍTULO DÉCIMO QUINTO. DE LA CALIFICACIÓN, MEDIACIÓN Y CONCILIACIÓN
-
-#### SECCIÓN TERCERA. DEL ARCHIVO HISTÓRICO
-
 ###### Artículo 7.
 
 119.- El Oficial tendrá las facultades y obligaciones y deberá reunir los requisitos para el cargo señalados en la Ley Orgánica Municipal. Será competente para aplicar las sanciones previstas en el Bando Municipal, salvo disposición en contrario.
@@ -6101,7 +6185,9 @@ El Secretario de Acuerdos deberá cumplir con los mismos requisitos para ser Ofi
 
 I. Atender a los vecinos de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos jurisdiccionales o de otras autoridades;
 
-II. Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al Bando Municipal y al Código Reglamentario Municipal, con las excepciones señaladas en el presente ordenamiento y demás disposiciones legales;
+> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
+
+II. Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al Bando Municipal y al Código Reglamentario Municipal, con las excepciones previstas en códigos, leyes y reglamentos federales o estatales;
 
 III. Apoyar a la autoridad municipal que corresponda, en la conservación del orden público y en la verificación de daños que, en su caso, se causen a los bienes propiedad municipal, haciéndolo saber a quien corresponda;
 
@@ -6173,6 +6259,8 @@ III. En caso de no ser localizada la persona facultada para recoger al menor, o 
 
 IV. Dependiendo de la gravedad de la infracción, el menor será puesto a disposición del Ministerio Público de Adolescentes.
 
+#### SECCIÓN TERCERA. DEL ARCHIVO HISTÓRICO
+
 ###### Artículo 7.
 
 124.- Cada Oficialía Mediadora-Conciliadora ejercerá funciones de mediación-conciliación, únicamente cuando las partes se sometan a ello. El Oficial Mediador-Conciliador se conducirá con neutralidad e imparcialidad en el desarrollo de la audiencia respectiva.
@@ -6192,8 +6280,6 @@ III. Notificador; y
 IV. Personal de apoyo.
 
 Los integrantes del cuerpo de seguridad pública municipal y demás servidores públicos auxiliarán al Oficial, en el ejercicio de sus atribuciones.
-
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 7.
 
@@ -6289,6 +6375,8 @@ Los documentos a que se refiere el presente artículo serán: Licencia de conduc
 
 138.- Las actas informativas podrán referirse a: Abandono de domicilio conyugal, dependencia económica, constancia de concubinato, constancia de conciliación, documento informativo de hechos, documento de ingresos, documento informativo para obtener constancia domiciliaria, cartilla del servicio militar, factura vehicular, certificado de nacimiento, baja o recibo de tenencia de vehículos, documentos de vehículos de taxi, documentos del banco y otros similares.
 
+### CAPÍTULO DÉCIMO SEXTO. DEL PROCEDIMIENTO ADMINISTRATIVO
+
 ###### Artículo 7.
 
 139.- El procedimiento administrativo ante las autoridades del Municipio y sus organismos descentralizados con funciones de autoridad respecto de las materias que regula este ordenamiento, se regirán por el Código de Procedimientos Administrativos y demás normas jurídicas aplicables.
@@ -6296,8 +6384,6 @@ Los documentos a que se refiere el presente artículo serán: Licencia de conduc
 ###### Artículo 7.
 
 140.- El procedimiento administrativo común se iniciará, tramitará y decidirá por las autoridades municipales, conforme a las atribuciones que les confiere este ordenamiento y otras disposiciones legales.
-
-### CAPÍTULO DÉCIMO SEXTO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### Artículo 7.
 
@@ -6399,7 +6485,7 @@ Para tal efecto, las asociaciones harán llegar la información respectiva, dent
 
 ### CAPÍTULO SEGUNDO. DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES Y DE SERVICIO EN ESTABLECIMIENTOS
 
-#### SECCIÓN SEGUNDA. DEL COBRO DE GASTOS DE EJECUCIÓN FISCAL
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 8.
 
@@ -6467,7 +6553,7 @@ IX. Lugar y fecha de la expedición.
 
 Aquellos giros que no se contemplen en el catálogo, se entenderán como incluidos desde el momento en que sean autorizados.
 
-#### SECCIÓN PRIMERA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LAS OFICIALÍAS CALIFICADORAS
+#### SECCIÓN SEGUNDA. DEL COBRO DE GASTOS DE EJECUCIÓN FISCAL
 
 ###### Artículo 8.
 
@@ -6523,7 +6609,7 @@ III. Tratándose de juegos electromecánicos, aparatos que se instalen en circos
 
 ### CAPÍTULO TERCERO. DE LA VENTA DE BEBIDAS ALCOHÓLICAS EN ESTABLECIMIENTOS COMERCIALES Y DE SERVICIOS
 
-#### SECCIÓN SEGUNDA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LAS OFICIALÍAS MEDIADORAS - CONCILIADORAS
+#### SECCIÓN PRIMERA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LAS OFICIALÍAS CALIFICADORAS
 
 ###### Artículo 8.
 
@@ -6615,7 +6701,7 @@ XII. Las demás que se deriven de otras disposiciones aplicables.
 
 ### CAPÍTULO CUARTO. DE LAS ACTIVIDADES COMERCIALES EN MERCADOS Y CENTRALES DE ABASTO
 
-#### SECCIÓN PRIMERA. DE LAS LICENCIAS DE FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
+#### SECCIÓN SEGUNDA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LAS OFICIALÍAS MEDIADORAS - CONCILIADORAS
 
 ###### Artículo 8.
 
@@ -6691,7 +6777,7 @@ VII. Arrendar, subarrendar, traspasar o vender el espacio que tiene asignado; y
 
 VIII. Las demás circunstancias que establece el presente capítulo.
 
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE LOS TITULARES DE ESTABLECIMIENTOS
+#### SECCIÓN PRIMERA. DE LAS LICENCIAS DE FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
 ###### Artículo 8.
 
@@ -6765,7 +6851,7 @@ XIII. Permitir o hacerse suministrar el uso de los servicios de luz o agua sin l
 
 29.- Cuando hubiese necesidad de hacer obras de construcción, conservación, reparación o mejoras de servicios públicos en el interior de los inmuebles de los mercados, la autoridad municipal podrá reubicar a los comerciantes a otro lugar, siempre y cuando sea en el mismo mercado.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE LOS TITULARES DE ESTABLECIMIENTOS
 
 ###### Artículo 8.
 
@@ -6805,7 +6891,7 @@ IV. Documentos que acrediten la posesión del espacio y recibo al corriente del 
 
 35.- Cuando un comerciante de mercados deje de realizar su actividad y en su lugar otra persona la ejecute como titular, esta última podrá solicitar en arrendamiento el local, siempre y cuando no sea titular de otro puesto en mercados municipales, presente los recibos de pago de obligaciones fiscales por un periodo de tres años anteriores a la fecha y demuestre haber trabajado en forma pacifica y continua, mediante la firma de por lo menos diez comerciantes de la zona en que se encuentra.
 
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES Y PROHIBICIONES
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 8.
 
@@ -6833,7 +6919,7 @@ IV. Someterse al procedimiento de asignación; y
 
 V. En caso de ser seleccionado, cumplir los requisitos para la obtención de la licencia correspondiente.
 
-#### SECCIÓN TERCERA. DE LA AMPLIACIÓN Y CAMBIOS DE GIRO
+#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES Y PROHIBICIONES
 
 ###### Artículo 8.
 
@@ -6847,7 +6933,7 @@ El reglamento interior de la central de abastos deberá ser aprobado por la Coor
 
 ### CAPÍTULO QUINTO. DE LAS ACTIVIDADES COMERCIALES EN TIANGUIS Y VÍA PÚBLICA
 
-#### SECCIÓN CUARTA. DE LA REGULARIZACIÓN COMERCIAL
+#### SECCIÓN TERCERA. DE LA AMPLIACIÓN Y CAMBIOS DE GIRO
 
 ###### Artículo 8.
 
@@ -6885,7 +6971,7 @@ VI. Vender animales vivos.
 
 47.- La Dirección General de Gobierno tendrá facultad para retirar de la vía pública cualquier puesto, armazón o implemento utilizado por los comerciantes cuando tales objetos, por su ubicación, presentación, falta de higiene o su naturaleza, obstruyan la vialidad, deterioren el ornato público o representen peligro para la salud, seguridad e integridad física de la población, así como en los casos en que se labore sin el permiso respectivo.
 
-#### SECCIÓN QUINTA. DE LA RECUPERACIÓN Y ASIGNACIÓN DE LOCALES COMERCIALES
+#### SECCIÓN CUARTA. DE LA REGULARIZACIÓN COMERCIAL
 
 ###### Artículo 8.
 
@@ -6943,7 +7029,7 @@ III. Comprobante oficial que acredite estar al corriente en el pago de sus impue
 
 ### CAPÍTULO SEXTO. DE LOS ESPECTÁCULOS Y DIVERSIONES PÚBLICAS
 
-#### SECCIÓN SEXTA. DE LAS CENTRALES DE ABASTO
+#### SECCIÓN QUINTA. DE LA RECUPERACIÓN Y ASIGNACIÓN DE LOCALES COMERCIALES
 
 ###### Artículo 8.
 
@@ -7005,7 +7091,7 @@ Los establecimientos donde se celebren espectáculos y diversiones públicas deb
 
 Si se llegara a determinar que entre la empresa y la persona que revende boletos existe acuerdo previo para ello, tal situación será sancionada en los términos de este ordenamiento.
 
-#### SECCIÓN PRIMERA. DE LAS ACTIVIDADES COMERCIALES EN TIANGUIS
+#### SECCIÓN SEXTA. DE LAS CENTRALES DE ABASTO
 
 ###### Artículo 8.
 
@@ -7049,7 +7135,7 @@ IV. En los locales donde operan los juegos mencionados, que puede ser el giro co
 
 68.- En todos aquellos lugares donde se prohíba por este y demás ordenamientos, la entrada a los menores de edad, deberán contar con un letrero alusivo en la entrada y en caso de considerarlo necesario, exigir documento que acredite la mayoría de edad.
 
-#### SECCIÓN SEGUNDA. DE LAS ACTIVIDADES COMERCIALES EN LA VÍA PÚBLICA
+#### SECCIÓN PRIMERA. DE LAS ACTIVIDADES COMERCIALES EN TIANGUIS
 
 ###### Artículo 8.
 
@@ -7077,7 +7163,7 @@ La empresa nombrará bajo su responsabilidad los jueces necesarios para las carr
 
 73.- Los músicos ambulantes, cirqueros, prestidigitadores, faquires, mimos y cualquier persona que realice actividad semejante en la vía pública con objeto de divertir a la gente, deberá obtener el permiso correspondiente expedido por la Dirección General de Gobierno.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN SEGUNDA. DE LAS ACTIVIDADES COMERCIALES EN LA VÍA PÚBLICA
 
 ###### Artículo 8.
 
@@ -7087,7 +7173,7 @@ La empresa nombrará bajo su responsabilidad los jueces necesarios para las carr
 
 75.- Tratándose de compañías de ópera, ballet, conciertos y audiciones puramente musicales, una vez que comience la función, serán cerradas las puertas de las salas, debiendo esperar el público retrasado el intermedio para entrar al salón.
 
-#### SECCIÓN SEGUNDA. DE LAS EMPRESAS Y LOCALES
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 8.
 
@@ -7147,7 +7233,7 @@ XVI. Permitir la entrada y estancia de niños menores de tres años en todos los
 
 XVII. Pegar o fijar publicidad en los elementos de equipamiento urbano y lugares no autorizados por el Ayuntamiento, o realizar dicha publicidad sin la autorización previa del evento a realizarse.
 
-#### SECCIÓN TERCERA. DE LAS FUNCIONES DE LOS ESPECTÁCULOS Y DE LAS DIVERSIONES
+#### SECCIÓN SEGUNDA. DE LAS EMPRESAS Y LOCALES
 
 ###### Artículo 8.
 
@@ -7169,7 +7255,7 @@ IV. La Tesorería Municipal, además de aplicar a la empresa la sanción corresp
 
 ### CAPÍTULO PRIMERO. DE LAS CONSTRUCCIONES
 
-#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DE LOS ESPECTADORES
+#### SECCIÓN TERCERA. DE LAS FUNCIONES DE LOS ESPECTÁCULOS Y DE LAS DIVERSIONES
 
 ###### Artículo 9.
 
@@ -7195,7 +7281,7 @@ IV. La Tesorería Municipal, además de aplicar a la empresa la sanción corresp
 
 6.- Para efectos de este ordenamiento, los documentos legales que acreditan la propiedad de un predio o inmueble particular son las escrituras, las inmatriculaciones administrativas, las sentencias y las resoluciones administrativas. Los documentos que avalan la propiedad de un predio o inmueble en régimen social son la cesión de derechos, constancia de posesión, certificado parcelario, título agrario o resolución agraria.
 
-#### SECCIÓN QUINTA. DE LAS OBLIGACIONES Y PROHIBICIONES
+#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DE LOS ESPECTADORES
 
 ###### Artículo 9.
 
@@ -7209,7 +7295,7 @@ IV. La Tesorería Municipal, además de aplicar a la empresa la sanción corresp
 
 9.- El perito responsable de obra deberá entregar al propietario o poseedor de la obra, al término de ésta, la bitácora de la misma y los planos de obra terminada, de los cuales deberá conservar una copia por un periodo no menor de cinco años.
 
-#### SECCIÓN SEXTA. DE LAS DISPOSICIONES COMPLEMENTARIAS
+#### SECCIÓN QUINTA. DE LAS OBLIGACIONES Y PROHIBICIONES
 
 ###### Artículo 9.
 
@@ -7237,7 +7323,7 @@ III. La proyección de un perímetro de un volado, marquesina o volumen habitabl
 
 14.- Para obtener la licencia de construcción en los usos de impacto regional, señalados en el del Plan Municipal de Desarrollo Urbano, se deberán presentar los planos o dibujos con los acabados y colores exteriores, además de un plano con la distribución y uso de la vegetación. Se exceptúan de esta disposición los usos que hayan sido objeto de algún cambio de uso de suelo, densidad, intensidad, altura y que por sus condiciones finales no se les considere como de impacto regional.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN SEXTA. DE LAS DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 9.
 
@@ -7303,7 +7389,7 @@ V. Para otros fines que se opongan al interés público o propicien la contamina
 
 24.- Cuando por la realización de obras de construcción se utilice la vía pública, el propietario de las mismas, una vez terminadas o al vencerse la vigencia del permiso, estará obligado a retirar de la vía pública los materiales, las instalaciones y objetos utilizados en ellas. En caso de no hacerlo, lo hará la dependencia correspondiente con cargo al propietario.
 
-#### SECCIÓN SEGUNDA. DE LOS PERITOS RESPONSABLES DE OBRA
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 9.
 
@@ -7399,7 +7485,7 @@ En el caso de condominios horizontales o verticales, se permitirá únicamente u
 
 46.- Las jaulas para ropa ubicadas sobre la azotea serán de malla ciclónica o de un material similar, y se localizarán en el extremo opuesto a la fachada principal; la malla podrá quedar aparente o del mismo color de la edificación.
 
-#### SECCIÓN TERCERA. DE LA CONSTRUCCIÓN URBANA
+#### SECCIÓN SEGUNDA. DE LOS PERITOS RESPONSABLES DE OBRA
 
 ###### Artículo 9.
 
@@ -7619,7 +7705,7 @@ Se permitirá la colocación de 24 butacas como máximo, cuando la fila desemboq
 
 92.- Queda prohibida la construcción de estaciones de gas carburante en zonas habitacionales.
 
-#### SECCIÓN CUARTA. DE LA VÍA PÚBLICA Y OTROS BIENES DE USO COMÚN
+#### SECCIÓN TERCERA. DE LA CONSTRUCCIÓN URBANA
 
 ###### Artículo 9.
 
@@ -7675,7 +7761,7 @@ Aceptada la obra, la autoridad levantará un acta que dé fe del cumplimiento po
 
 ### CAPÍTULO SEGUNDO. DE LA IMAGEN URBANA
 
-#### SECCIÓN QUINTA. DE LAS EDIFICACIONES
+#### SECCIÓN CUARTA. DE LA VÍA PÚBLICA Y OTROS BIENES DE USO COMÚN
 
 ###### Artículo 9.
 
@@ -7705,7 +7791,7 @@ VII. Todas las construcciones nuevas deberán respetar las características pred
 
 En los barrios se prohíbe la construcción de todo tipo de edificaciones que alteren o modifiquen su carácter intrínseco y sólo se permitirán aquellas construcciones que contribuyan a mejorar su aspecto formal dentro de sus mismas características.
 
-#### SECCIÓN SEXTA. DEL PROYECTO ARQUITECTÓNICO, EL EQUIPAMIENTO Y LA INDUSTRIA
+#### SECCIÓN QUINTA. DE LAS EDIFICACIONES
 
 ###### Artículo 9.
 
@@ -7733,7 +7819,7 @@ III. Los barrios.
 
 109.- Para mejor aprovechamiento, promoción, restauración y preservación de los inmuebles declarados como parte del patrimonio histórico, artístico, arquitectónico y cultural, las autoridades podrán establecer convenios con sus propietarios.
 
-#### SECCIÓN SÉPTIMA. DEL MOBILIARIO URBANO
+#### SECCIÓN SEXTA. DEL PROYECTO ARQUITECTÓNICO, EL EQUIPAMIENTO Y LA INDUSTRIA
 
 ###### Artículo 9.
 
@@ -7779,7 +7865,7 @@ XIV. Los establecimientos comerciales con frente a vía pública de gran intensi
 
 113.- Todas las vialidades empedradas y adoquinadas existentes en los barrios y poblados se deberán respetar y se conservará su aspecto físico.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN SÉPTIMA. DEL MOBILIARIO URBANO
 
 ###### Artículo 9.
 
@@ -7993,7 +8079,7 @@ VII. Colocar propaganda que atente contra la moral, salud y las buenas costumbre
 
 VIII. Utilizar altavoces para anunciar en las zonas educativas y hospitales.
 
-#### SECCIÓN SEGUNDA. DEL PATRIMONIO HISTÓRICO
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 9.
 
@@ -8041,7 +8127,7 @@ V. Realizar actividades relacionadas a la construcción en la vía pública, sin
 
 VI. Las demás que señalen otras disposiciones.
 
-#### SECCIÓN TERCERA. DE LAS VIALIDADES
+#### SECCIÓN SEGUNDA. DEL PATRIMONIO HISTÓRICO
 
 ###### Artículo 9.
 
@@ -8065,7 +8151,7 @@ III. Usar la señalización pertinente en las áreas contiguas a hospitales, esc
 
 144.- Las personas que ocupen la vía pública para realizar una obra son responsables del mantenimiento y buena visibilidad del señalamiento vertical y horizontal existente en la misma, debiendo reponer los señalamientos que resulten afectados.
 
-#### SECCIÓN CUARTA. DE LOS ANUNCIOS COMERCIALES
+#### SECCIÓN TERCERA. DE LAS VIALIDADES
 
 ###### Artículo 9.
 
@@ -8179,7 +8265,7 @@ IV. Las demás que se deriven de otras disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. DE LA NOMENCLATURA Y NÚMERO OFICIAL
 
-#### SECCIÓN QUINTA. DE LA REMODELACIÓN Y PINTURA EN FACHADAS DE INMUEBLES
+#### SECCIÓN CUARTA. DE LOS ANUNCIOS COMERCIALES
 
 ###### Artículo 9.
 
@@ -8227,9 +8313,9 @@ XII. La nomenclatura deberá ser homogénea, esto es, una misma calle no podrá 
 
 XIII. Se deberá reforzar la costumbre de referencia popular de los lugares, calles y espacios públicos del Municipio.
 
-#### SECCIÓN TERCERA. DE LAS CONDICIONES PARA PROPONER O CAMBIAR LA NOMENCLATURA
+#### SECCIÓN SEGUNDA. DE LOS CRITERIOS PARA EL ESTABLECIMIENTO DE LA NOMENCLATURA
 
-#### SECCIÓN SEXTA. INFORMACIÓN PÚBLICA Y SEÑALIZACIÓN DE TRÁNSITO
+#### SECCIÓN QUINTA. DE LA REMODELACIÓN Y PINTURA EN FACHADAS DE INMUEBLES
 
 ###### Artículo 9.
 
@@ -8245,9 +8331,9 @@ Se realizarán los estudios necesarios para determinar los sitios y vía públic
 
 171.- Todo conjunto urbano, lotificación en condominio o asentamiento de nueva creación deberá solicitar a la autoridad municipal la asignación de nomenclatura y número oficial. Los nombres y números no podrán ser utilizados con carácter de oficial en tanto no hayan sido aprobados; siendo además responsabilidad de la unidad habitacional la instalación de nomenclatura, números oficiales, así como los señalamientos informativos, de identificación, de destino, recomendación, información general, servicios y turísticos, preventivos, restrictivos.
 
-#### SECCIÓN CUARTA. DE LOS SEÑALAMIENTOS DE NOMENCLATURA
+#### SECCIÓN TERCERA. DE LAS CONDICIONES PARA PROPONER O CAMBIAR LA NOMENCLATURA
 
-#### SECCIÓN SÉPTIMA. DEL CENTRO HISTÓRICO
+#### SECCIÓN SEXTA. INFORMACIÓN PÚBLICA Y SEÑALIZACIÓN DE TRÁNSITO
 
 ###### Artículo 9.
 
@@ -8269,9 +8355,9 @@ V. Para la asignación de nombres comunes, se valorará la importancia o trascen
 
 VI. Para las propuestas de nombres relativos a hechos históricos, se tomará en cuenta la trascendencia de los mismos, así como su relación con el Municipio, Estado o la Federación.
 
-#### SECCIÓN QUINTA. DEL NÚMERO OFICIAL
+#### SECCIÓN CUARTA. DE LOS SEÑALAMIENTOS DE NOMENCLATURA
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN SÉPTIMA. DEL CENTRO HISTÓRICO
 
 ###### Artículo 9.
 
@@ -8321,7 +8407,9 @@ c. En caso de no haber postes, se instalará poste tubular galvanizado de tres p
 
 176.- El Ayuntamiento, previo dictamen de su Comisión de Nomenclatura, podrá otorgar la autorización a los particulares para la colocación de placas de nomenclatura y su utilización con fines publicitarios, apegándose a los requisitos de diseño, medidas y especificaciones de fabricación establecidas por el capítulo. El área destinada a la publicidad no podrá ser mayor de ocho por 10 centímetros. La autorización podrá ser revocada por el Ayuntamiento, por las causales que se establezcan en la misma. En la autorización respectiva se consignará que la publicidad adherida a las placas de nomenclatura no promueva el consumo de tabaco y bebidas alcohólicas, ni se inserte en ellas ningún tipo de propaganda política, y que dicha publicidad no atente contra la moral y las buenas costumbres de los habitantes del Municipio.
 
-#### SECCIÓN SEGUNDA. DE LOS CRITERIOS PARA EL ESTABLECIMIENTO DE LA NOMENCLATURA
+#### SECCIÓN QUINTA. DEL NÚMERO OFICIAL
+
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 9.
 
@@ -8504,3 +8592,11 @@ QUINTO.- Los procedimientos y recursos administrativos que se encuentren en trá
 Dado en el Salón de Cabildos "Felipe Chávez Becerril", del Palacio Municipal, en la Ciudad de Toluca de Lerdo, Capital del Estado de México, el día tres de febrero del dos mil nueve.
 
 LIC. JUAN RODOLFO SÁNCHEZ GÓMEZ, Presidente Municipal Constitucional; LIC. LETICIA SOCORRO USERRALDE GORDILLO, Primer Síndico; M. EN D. EDGAR GUILLERMO REYES DELGADO, Segundo Síndico; LIC. TOMÁS RUIZ PÉREZ, Tercer Síndico; C. P. SALVADOR MORALES VARGAS, Primer Regidor; ING. LUCIO ROMERO CORONA, Segundo Regidor; C. ESTEBAN RENDÓN VELASCO, Tercer Regidor; C. DAVID DOMÍNGUEZ ARELLANO, Cuarto Regidor; LIC. MIREYA ACERO HERNÁNDEZ, Quinta Regidora; C. AMPARO QUINTANAR BENÍTEZ, Sexta Regidora; C. VERÓNICA GONZÁLEZ ROLDÁN, Séptima Regidora; C. P. VÍCTOR GONZÁLEZ ARANDA, Octavo Regidor; C. MIGUEL ANGEL ORDÓÑEZ RUIZ, Noveno Regidor; C. JORGE F. FUENTES ZEPEDA, Décimo Regidor; C. P. OSCAR GÓMEZ BRAVO TOPETE, Décimo Primer Regidor; C. GUILLERMO FRANCO RODRÍGUEZ, Décimo Segundo Regidor; C. MARÍA SALUD AMBRIZ SANDOVAL, Décimo Tercera Regidora; LIC. DANIEL SANDOVAL JAFIF, Décimo Cuarto Regidor; LIC. JORGE ALEJANDRO VÁSQUEZ LIBIÉN, Décimo Quinto Regidor; C. ANTONIO PERALTA RIVAS, Décimo Sexto Regidor; y LIC. ROBERTO VALDÉS GARCÍA, Secretario del Ayuntamiento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.M.S. 17 DE JULIO DE 2009.
+
+PRIMERO.- Publíquense las presentes modificaciones del Código Reglamentario del Municipio de Toluca en la "Gaceta Municipal" y en la "Gaceta del Gobierno" del Estado, e incorpórese las mismas al ordenamiento que se divulga en el Portal Electrónico del Ayuntamiento.
+
+SEGUNDO.- Estas modificaciones del Código Reglamentario Municipal entrarán en vigor al día siguiente de su publicación en la "Gaceta Municipal" de Toluca.
