@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tribunal-de-lo-contencioso-34880"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-18"
-last_updated: "2005-05-19"
+last_updated: "2009-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 18 de noviembre de 2003.
 
@@ -157,15 +157,17 @@ Los Magistrados de guardia serán auxiliados por el personal que designe el Pres
 
 ### CAPÍTULO TERCERO. DE LAS SECCIONES DE LA SALA SUPERIOR
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
+
 ###### Artículo 13.
 
-La Primera Sección, residirá en el municipio de Toluca y conocerá de los recursos de revisión e instancias que se promuevan en contra de resoluciones que dicte o ejecute la Primera Sala Regional.
+La Primera Sección, residirá en el municipio de Toluca y conocerá de los recursos de revisión e instancias que se promuevan en contra de resoluciones que dicten o ejecuten la Primera y Séptima Salas Regionales de Toluca.
 
-La Segunda Sección residirá en el municipio de Tlalnepantla de Baz, y conocerá de los recursos de revisión e instancias que se promuevan en contra de resoluciones que dicten o ejecuten la Segunda, Tercera, Cuarta, Quinta y Sexta Salas Regionales.
+La Segunda Sección residirá en el municipio de Tlalnepantla de Baz, y conocerá de los recursos de revisión e instancias que se promuevan en contra de resoluciones que dicten o ejecuten la Segunda y Tercera Salas Regionales.
 
-> <small>(ADICIONADO, G.G. 19 DE MAYO DE 2005)</small>
-
-La Tercera Sección, residirá en el municipio de Ecatepec de Morelos, y conocerá de los recursos de revisión e instancias que se promuevan en contra de resoluciones que dicten o ejecuten la Segunda, Tercera, Cuarta, Quinta y Sexta Salas Regionales.
+La Tercera Sección, residirá en el municipio de Ecatepec de Morelos, y conocerá de los recursos de revisión e instancias que se promuevan en contra de resoluciones que dicten o ejecuten la Cuarta, Quinta y Sexta Salas Regionales.
 
 ###### Artículo 14.
 
@@ -223,29 +225,49 @@ El Presidente del Tribunal obtendrá semanalmente de las Secciones de la Sala Su
 
 ### CAPÍTULO QUINTO. DE LAS SALAS REGIONALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
+
 ###### Artículo 26.
 
-La Primera Sala Regional residirá en el municipio de Toluca. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Acambay, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, lxtapan de la Sal, lxtapan del Oro, lxtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilan, Otzoloapan, Otzolotepec, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Timilpan, Tlatlaya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
+La Primera y Séptima Salas Regionales residirán en el municipio de Toluca. Conocerán indistintamente de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Acambay, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, lxtapan de la Sal, lxtapan del Oro, lxtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilan, Otzoloapan, Otzolotepec, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Timilpan, Tlatlaya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 27.
 
-La Segunda Sala Regional residirá en el municipio de Naucalpan de Juárez. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Isidro Fabela, Jilotzingo y Naucalpan de Juárez.
+La Segunda Sala Regional residirá en el municipio de Naucalpan de Juárez. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Huixquilucan, Isidro Fabela, Jilotzingo y Naucalpan de Juárez.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 28.
 
-La Tercera Sala Regional residirá en el municipio de Tlalnepantla de Baz. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Apaxco, Coacalco de Berriozabal, Coyotepec, Huehuetoca, Hueypoxtla, Jaltenco, Melchor Ocampo, Nextlalpan, Teoloyucan, Tequixquiac, Tlalnepantla de Baz, Tultepec, Tultitlán y Zumpango.
+La Tercera Sala Regional residirá en el municipio de Tlalnepantla de Baz. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Apaxco, Coyotepec, Huehuetoca, Hueypoxtla, Jaltenco, Melchor Ocampo, Nextlalpan, Teoloyucan, Tequixquiac, Tlalnepantla de Baz, Tultepec, y Zumpango.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 29.
 
-La Cuarta Sala Regional residirá en el municipio de Ecatepec de Morelos. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Acolman, Atenco, Axapusco, Chiautla, Chiconcuac, Ecatepec, Nopaltepec, Otumba, Papalotla, San Martín de las Pirámides, Tonanitla, Tecámac, Temascalapa, Teotihuacán, Tepetlaoxtoc, Tezoyuca y Texcoco.
+La Cuarta Sala Regional residirá en el municipio de Ecatepec de Morelos. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Acolman, Atenco, Axapusco, Chiautla, Chiconcuac, Coacalco de Berriozabal, Ecatepec, Nopaltepec, Otumba, Papalotla, San Martín de las Pirámides, Tonanitla, Tecámac, Temascalapa, Teotihuacán, Tepetlaoxtoc, Tezoyuca y Texcoco.
 
 ###### Artículo 30.
 
 La Quinta Sala Regional residirá en el municipio de Nezahualcóyotl. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Amecameca, Atlautla, Ayapango, Cocotitlán, Chalco, Chicoloapan, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
+
 ###### Artículo 31.
 
-La Sexta Sala Regional residirá en el municipio de Atizapán de Zaragoza. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Atizapán de Zaragoza, Chapa de Mota, Cuautitlán, Cuautitlán Izcalli, Huixquilucan, Jilotepec, Nicolás Romero, Polotitlán, Soyaniquilpan de Juárez, Tepotzotlán y Villa del Carbón.
+La Sexta Sala Regional residirá en el municipio de Atizapán de Zaragoza. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Atizapán de Zaragoza, Chapa de Mota, Cuautitlán, Cuautitlán Izcalli, Jilotepec, Nicolás Romero, Polotitlán, Soyaniquilpan de Juárez, Tepotzotlán y Villa del Carbón.
 
 ###### Artículo 32.
 
@@ -1230,3 +1252,29 @@ Artículo Primero.- Las reformas y adiciones al Reglamento Interior del Tribunal
 Artículo Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en las presentes reformas y adiciones al Reglamento Interior del Tribunal.
 
 Artículo Tercero.- Los asuntos que se encuentren en trámite al entrar en vigor las presentes reformas y adiciones al Reglamento Interior del Tribunal, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+G.G. 17 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas y adiciones al Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de México, entrarán en vigor, a los noventa días naturales de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo dispuesto en las presentes reformas al Reglamento Interior del Tribunal.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite al entrar en vigor las presentes reformas y adiciones al Reglamento Interior del Tribunal, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+###### ARTÍCULO CUARTO.
+
+La Oficialía de Partes Común de la Segunda y Tercera Sección de la Sala Superior, creada mediante acuerdo de fecha diecinueve de octubre del año dos mil cinco y en el que se establecieron las reglas de operación y funcionamiento, dejará de realizar sus funciones en la fecha que entre (sic) en vigor las reformas al Reglamento Interior del Tribunal de lo Contencioso Administrativo, relativas a la nueva distribución de jurisdicción y competencias.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos de revisión e instancias se presentarán en la oficialía de partes de la Sección que corresponda, en términos de lo que al efecto establece el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de México.
+
+###### ARTÍCULO SEXTO.
+
+Los recursos de revisión e instancias que se encuentren en trámite en la Segunda y Tercera Secciones de la Sala Superior, se substanciarán y resolverán por la Sección de su conocimiento.
