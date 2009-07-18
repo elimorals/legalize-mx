@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2008-07-05"
+last_updated: "2009-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -1065,9 +1065,11 @@ De la estructura y competencia del Tribunal.
 
 El Tribunal de Arbitraje y Escalafón es el máximo órgano jurisdiccional para resolver las controversias que se susciten entre las Entidades públicas con sus trabajadores, así como la instancia jurídica para impugnar los procedimientos en materia escalafonaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 133.
 
-El Tribunal será colegiado, funcionará en pleno y estará integrado por cinco Magistrados, que durarán en su encargo tres años, pudiendo ser reelectos.
+El Tribunal será colegiado, funcionará en pleno y estará integrado por cinco Magistrados, que durarán en su encargo seis años, pudiendo ser reelectos por una sola vez.
 
 Dos Magistrados serán designados por el Poder Judicial y los Ayuntamientos.
 
@@ -1410,5 +1412,9 @@ P.O. 23 DE SEPTIEMBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 5 DE JULIO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE JULIO DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
