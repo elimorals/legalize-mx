@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-del-sistema-de-television-y-radio-de-29275"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-06"
-last_updated: "2003-03-06"
+last_updated: "2009-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA DE TELEVISION Y RADIO DE CAMPECHE
 
-REGLAMENTO INTERIOR DEL SISTEMA DE TELEVISION Y RADIO DE CAMPECHE
+REGLAMENTO INTERIOR DEL SISTEMA DE TELEVISIÓN Y RADIO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO DEL EJECUTIVO DEL ESTADO QUE MODIFICA EL DE CREACIÓN DEL SISTEMA DE TELEVISIÓN Y RADIO DE CAMPECHE, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el jueves 6 de marzo de 2003.
 
@@ -326,3 +328,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan todas las disposiciones administrativas y reglamentarias en lo que se opongan a este Reglamento.
 
 DADO EN EL PALACIO DE GOBIERNO, RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CAMPECHE, MUNICIPIO Y ESTADO DEL MISMO NOMBRE, A LOS DIEZ DIAZ DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DOS.- L.A. JOSE ANTONIO GONZALEZ CURI, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. CARLOS FELIPE ORTEGA RUBIO, SECRETARIO DE GOBIERNO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JULIO DE 2009.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones reglamentarias y administrativas de carácter general expedidas por el Ejecutivo del Estado, en lo que se opongan al contenido del presente Acuerdo y se abroga el Reglamento Interior del Sistema de Televisión y Radio de Campeche expedido por el mencionado Ejecutivo el 10 de septiembre de 2002, publicado el 6 de marzo de 2003 en el Periódico Oficial del Estado.
+
+Tercero.- La Junta de Gobierno, dentro de los sesenta días hábiles posteriores a que cobre vigencia el presente Acuerdo, deberá expedir, y publicar en el Periódico Oficial del Estado, el nuevo Reglamento Interior del organismo; entre tanto se seguirá aplicando, en lo que no se oponga a este Acuerdo, el Reglamento mencionado en el artículo que antecede.
