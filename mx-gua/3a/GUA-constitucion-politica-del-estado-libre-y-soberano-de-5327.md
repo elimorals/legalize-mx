@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2009-06-23"
+last_updated: "2009-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -792,6 +792,10 @@ Los Diputados en ejercicio no podrán desempeñar ningún empleo, cargo o comisi
 #### SECCION SEGUNDA. DE LOS PERIODOS DE SESIONES
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO. 51.- El Congreso del Estado tendrá cada año tres Periodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de febrero y concluirá a más tardar el 31 de mayo, y el tercero comenzará el 1º de agosto y concluirá a más tardar el 31 de agosto.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 51.
 
@@ -2183,7 +2187,7 @@ Si el resultado del plebiscito o referéndum es en el sentido de desaprobar el a
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 118.
 
@@ -2321,11 +2325,11 @@ En las demandas del Orden Civil, no hay fuero ni inmunidad para ningún Funciona
 
 ###### ARTICULO 131.
 
-Ningún ciudadano podrá desempeñar a la vez dos cargos de elección popular, pero el nombrado podrá optar entre ambos. No podrán reunirse en un mismo individuo dos o más cargos o empleos públicos por los que perciba sueldo, sino con permiso especial del Congreso, exceptuándose los docentes.
+Ningún ciudadano podrá desempeñar a la vez dos cargos de elección popular, pero el nombrado podrá optar entre ambos.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
+Todo cargo de elección popular es incompatible con cualquiera de la Federación, del Estado, de los municipios, organismos públicos autónomos o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres órdenes de gobierno, cuando por ellos se perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero.
 
-La infracción a estas disposiciones será sancionada por el Congreso del Estado con la pérdida de los cargos, en los términos de su Ley Orgánica.
+No podrá reunirse en un mismo individuo dos o más cargos o empleos públicos por los que perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero, exceptuándose los cargos docentes. La infracción a esta disposición será motivo de responsabilidad y será castigada conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
@@ -3092,3 +3096,11 @@ P.O. 23 DE JUNIO DE 2009.
 Artículo Primero. El presente Decreto iniciará su vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Por única ocasión el informe de gobierno sobre el estado que guarda la Administración Pública, que habrá de enviar el Gobernador, el primer jueves de marzo de 2010, abarcará, además, el periodo comprendido del 1 de agosto al 31 de diciembre de 2008.
+
+P.O. 21 DE JULIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La prohibición para el desempeño de un cargo de elección popular, con otro cargo o empleo público, comenzará a regir para los presidentes municipales, síndicos y regidores propietarios que se elijan a partir de las elecciones de Ayuntamientos para el periodo 2009-2012.
+
+Artículo Tercero.- El Congreso del Estado efectuará las adecuaciones respecto a la incompatibilidad de cargos correspondientes en la legislación estatal, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto.
