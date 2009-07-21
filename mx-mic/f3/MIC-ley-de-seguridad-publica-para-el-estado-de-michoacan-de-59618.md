@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-seguridad-publica-para-el-estado-de-michoacan-de-59618"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-12"
-last_updated: "2008-02-12"
+last_updated: "2009-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 21 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el martes 12 de febrero de 2008.
 
@@ -1624,3 +1626,25 @@ PRESIDENTE.- DlP. GUSTAVO ARIAS GARDUÑO.- PRIMER SECRETARIO.- DIP. MARTÍN SAMA
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 10 diez días del mes de Enero del año 2008 dos mil ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JULIO DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de Seguridad Pública para el Estado de Michoacán de Ocampo, publicada mediante Decreto Número 312, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 12 de febrero de 2008.
+
+TERCERO. El Gobernador contará con el plazo de seis meses, a partir de la entrada en vigor de este Decreto para integrar y acreditar, según la normativa vigente, el Centro Estatal de Certificación, Acreditación y Control de Confianza.
+
+CUARTO. De manera progresiva y en un plazo de dos años, a partir de la entrada en vigor de este Decreto, las instituciones de Seguridad Pública, por conducto del Centro Estatal de Certificación, Acreditación y Control de Confianza, deberán practicar las evaluaciones respectivas a todos sus integrantes, de conformidad con lo dispuesto en esta Ley. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+QUINTO. Los servicios de carrera vigentes en las instituciones de Seguridad Pública, a la fecha de entrada en vigor de este Decreto, deberán ajustarse a los requisitos, criterios y procedimientos que establece la Ley General del Sistema Nacional de Seguridad Pública y la presente Ley, en la rama correspondiente, en un plazo no mayor a un año.
+
+SEXTO. El Gobernador deberá emitir el decreto de creación del organismo público descentralizado denominado Policía Auxiliar, dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
+
+SÉPTIMO. Los servidores públicos que obtengan el certificado y que satisfagan los requisitos de ingreso y permanencia que se establecen en la Ley General del Sistema Nacional de Seguridad Pública y en la presente Ley, ingresarán o serán homologados al servicio de carrera, en las ramas ministerial, policial y pericial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables, de conformidad con lo previsto en el presente Decreto.
+
+OCTAVO. El Gobernador expedirá los reglamentos derivados de la presente Ley en el plazo de un año contado, a partir de su entrada en vigencia.
+
+NOVENO. Las funciones que actualmente desarrollen otras dependencias y que estén conferidas en esta Ley al Secretario Ejecutivo, deberán ser asumidas plenamente por éste, en un plazo no mayor a treinta días, a partir de la entrada en vigor del presente Decreto.
