@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-agua-potable-drenaje-y-alcantarillado-de-597
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-08"
-last_updated: "2007-06-21"
+last_updated: "2009-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DE PUERTO VALLARTA, JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 8 de diciembre de 1977.
 
@@ -107,9 +107,9 @@ V. Un representante de la Secretaría de Desarrollo Urbano, que será el tercer 
 
 VI. Un representante de la Secretaría de Turismo, que será el cuarto vocal;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2009)</small>
 
-VII. Un representante de los usuarios, que elegirá el Gobernador del Estado de una terna que presente la Cámara de Propietarios de Fincas Urbanas de Puerto Vallarta, y que será el quinto vocal;
+VII. Un representante de los usuarios que elegirá el Gobernador del Estado de una terna que presente la Unión de Propietarios de Fincas Urbanas que será el quinto vocal;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
 
@@ -307,7 +307,9 @@ PRIMERO.- Se derogan todas las disposiciones que se opongan a la aplicación de 
 
 SEGUNDO.- Una vez que entre en vigor, la presente Ley, se procederá a la integración del Sistema en los términos previstos por el artículo segundo y se le hará entrega de los sistemas de obras, bienes y créditos que inciden en la prestación de los servicios de agua potable, drenaje y alcantarillado de Puerto Vallarta, Jalisco, por parte del Ayuntamiento que actualmente los tiene bajo su cuidado, procediéndose a levantar el acta respectiva que contendrá inventario y estado de cuenta, así como relación de los créditos concedidos con determinación de los saldos insolutos.
 
-TERCERO.- Si quince días después de que el Gobierno del Estado por conducto de la Secretaría General haya solicitado de la Cámara de Propietarios de Fincas Urbanas de Puerto Vallarta, la proposición de sus representantes para integrar el Sistema y ésta no lo hiciere, el Ejecutivo del Estado hará la designación nombrando personas pertenecientes a la propia cámara de Propietarios.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2009)</small>
+
+TERCERO.- Si quince días después de que el Gobierno del Estado, por conducto de la Secretaría General, haya solicitado de la Unión de Propietarios de Fincas Urbanas de Puerto Vallarta la proposición de sus representantes para integrar el Sistema y ésta no lo hiciere, el Ejecutivo del Estado hará la designación nombrando personas pertenecientes a cualquier organización de la misma naturaleza y objeto, existente en el momento de su designación.
 
 CUARTO.- Esta Ley entrará en vigor, treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -342,5 +344,9 @@ LIC. ALFONSO DE ALBA MARTIN.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE JUNIO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE JULIO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
