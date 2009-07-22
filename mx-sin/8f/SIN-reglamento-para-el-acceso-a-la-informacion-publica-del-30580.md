@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-para-el-acceso-a-la-informacion-publica-del-30580"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-25"
-last_updated: "2003-04-25"
+last_updated: "2009-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 22 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 25 de abril de 2003.
 
@@ -842,3 +844,13 @@ José Luis López Uranga
 El Procurador General de Justicia
 
 Oscar Fidel González Mendívil.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JULIO DE 2009.
+
+Articulo Primero. El presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Articulo Segundo. Se abroga el Reglamento para el Acceso a la Información Publica del Estado de Sinaloa de fecha quince de abril de dos mil tres, publicado en el Periódico Oficial "El Estado de Sinaloa", numero 50 primera sección el día 25 de abril de dos mil tres.
+
+Articulo Tercero. Las solicitudes de información publica y los recursos presentados antes de la entrada en vigor del presente Decreta, se substanciarán conforme a las disposiciones vigentes al momento de su presentación hasta su conclusión.
