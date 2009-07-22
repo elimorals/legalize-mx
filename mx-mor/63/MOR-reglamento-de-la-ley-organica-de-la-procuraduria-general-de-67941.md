@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-679
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-01"
-last_updated: "2009-04-01"
+last_updated: "2009-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 22 DE JULIO DE 2009.</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -55,11 +55,11 @@ Su actuación se sujetará a los principios de legalidad, probidad, responsabili
 
 El Ministerio Público es la dependencia del poder ejecutivo, único, indivisible, jerárquicamente subordinado al Gobernador del Estado, encargado de procurar justicia y ejercer las atribuciones propias de la institución y cuenta con autonomía técnica.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 4.
 
-La Procuraduría General de Justicia del Estado de Morelos cuyo titular es el Procurador General de Justicia del Estado de Morelos, para el ejercicio de las atribuciones, funciones y despacho de los asuntos de competencia, se integrará con las siguientes unidades administrativas y técnicas:
+La Procuraduría General de Justicia del Estado de Morelos cuyo titular es el Procurador General de Justicia del Estado de Morelos, para el ejercicio de las atribuciones, funciones y despacho de los asuntos de su competencia, se integrará con las siguientes unidades administrativas y técnicas:
 
 I. Oficina del Procurador;
 
@@ -95,7 +95,9 @@ XVI. Dirección General Jurídica, Amparos y Extradiciones;
 
 XVII. Dirección General de Enlace Interinstitucional;
 
-XVIII. Dirección General de Comunicación Social
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XVIII. Dirección General de Comunicación Social;
 
 XIX. Dirección General de Control Administrativo;
 
@@ -115,43 +117,51 @@ XXVI. Coordinaciones de Control de Procesos;
 
 XXVII. Coordinaciones Regionales de Servicios Periciales;
 
-XXVIII. Coordinación Estatal de Plataforma México.
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XXVIII. Coordinación Estatal de Plataforma México;
 
 XXIX. Direcciones Regionales de la Policía Ministerial;
 
-XXX. Dirección Operativa de la Policía Ministerial;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-XXXI. Dirección de Aprehensiones de la Policía Ministerial;
+XXX. Dirección Operativa de la Policía Ministerial; y
 
-Las anteriores unidades administrativas estarán integradas por los titulares respectivos, así como de directores de área, subdirectores, jefes de departamento, jefes de oficina, y demás servidores públicos que se señale en los manuales de organización y de políticas y procedimientos y disposiciones jurídicas aplicables, así como por los servidores públicos que se requiera para el adecuado cumplimiento de las atribuciones establecidas; (sic)
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XXXI. Dirección de Aprehensiones de la Policía Ministerial.
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+Las anteriores unidades administrativas estarán integradas por los titulares respectivos, así como de directores de área, subdirectores, jefes de departamento, jefes de oficina, y demás servidores públicos que se señale en los manuales de organización y de políticas y procedimientos y disposiciones jurídicas aplicables, así como por los servidores públicos que se requiera para el adecuado cumplimiento de las atribuciones establecidas.
 
 ###### ARTÍCULO 5.
 
 La Procuraduría General de Justicia contará además de las unidades administrativas mencionadas en el artículo anterior con el órgano administrativo desconcentrado de carácter estatal denominado, Fondo Económico para la Restauración y Protección Especial de las Víctimas y Ofendidos del Delito, el cual contará con autonomía técnica y de gestión y estará adscrito directamente al Procurador General de Justicia. Dicho órgano se organizará y funcionará de conformidad con lo establecido en el reglamento que al efecto expida el Procurador.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 6.
 
-Serán Agentes del Ministerio Público para todos los efectos legales que corresponda, el Procurador, los Subprocuradores, Coordinadores Generales, Directores Generales, el Visitador General, Subdirectores, los titulares de la (sic) Unidades Especializadas de Investigación, Jefes de departamento y Coordinadores,; (sic)
+Serán Agentes del Ministerio Público para todos los efectos legales que corresponda, el Procurador, los Subprocuradores, Coordinadores Generales, Directores Generales, el Visitador General, Subdirectores, los titulares de la (sic) Unidades Especializadas de Investigación, Jefes de departamento y Coordinadores.
 
 Los servidores públicos a que se refieren (sic) el párrafo anterior no serán considerados miembros del Servicio de Carrera, a menos que acrediten los requisitos que la Ley Orgánica y demás disposiciones establecen para tal efecto.
 
-Los servidores públicos que por esta disposición adquieren el carácter de agentes del Ministerio Público deberán contar con título y cédula profesional de licenciado en Derecho, y cumplir los demás requisitos que exigen este Reglamento y demás disposiciones legales aplicables.
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+Los servidores públicos que por esta disposición adquieren el carácter de agentes del Ministerio Público deberán contar con título y cédula profesional de licenciado en Derecho, y cumplir los demás requisitos que exige este Reglamento y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 7.
 
 La Procuraduría conducirá y desarrollará sus actividades en forma programada y de conformidad con las políticas internas, estrategias y prioridades que para el logro de sus objetivos y metas determine el Procurador, conforme a la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos y demás disposiciones jurídicas de carácter federal o estatal que resulten aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 8.
 
-La representación de la Procuraduría y el trámite y resolución de los asuntos de su competencia corresponde originalmente al Procurador, quien para la mejor distribución y desarrollo del trabajo y el despacho de los asuntos, se auxiliará de la (sic) unidades administrativas de la Procuraduría en los términos previstos en este Reglamento y además podrá delegar otras facultades en los servidores públicos de la dependencia, sin perjuicio de la posibilidad de su ejercicio directo.
+La representación de la Procuraduría, el trámite y resolución de los asuntos de su competencia corresponde originalmente al Procurador, quien para la mejor distribución y desarrollo del trabajo y el despacho de los asuntos, se auxiliará de la (sic) unidades administrativas de la Procuraduría en los términos previstos en este Reglamento y además podrá delegar otras facultades en los servidores públicos de la dependencia, sin perjuicio de la posibilidad de su ejercicio directo.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL PROCURADOR GENERAL DE JUSTICIA
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 9.
 
@@ -163,7 +173,9 @@ II. Someter al acuerdo del Gobernador del Estado, los asuntos encomendados a la 
 
 III. Desempeñar, dentro de sus atribuciones, las comisiones y funciones específicas que el Gobernador del Estado le confiera, e informarle sobre el desarrollo de las mismas;
 
-IV. Proponer al Gobernador del Estado los proyectos de leyes, reglamentos, decretos, acuerdos, circulares y órdenes relativas a los asuntos de la competencia de la Procuraduría;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+IV. Proponer al Gobernador del Estado, los proyectos de leyes, reglamentos, decretos, acuerdos, circulares y órdenes relativas a los asuntos de la competencia de la Procuraduría;
 
 V. Proponer al Gobernador del Estado las acciones y mecanismos de coordinación que coadyuven a la integración y consolidación del sistema de procuración de justicia y seguridad pública en el Estado;
 
@@ -225,8 +237,6 @@ XXXIII. Las demás que le confieran las disposiciones legales aplicables.
 
 DE LAS ATRIBUCIONES DELEGABLES DEL PROCURADOR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 10.
 
 Las atribuciones delegables del Procurador a los Subprocuradores, serán las siguientes:
@@ -271,13 +281,13 @@ XIV. Proceder a formular la acusación, solicitar el sobreseimiento o la suspens
 
 XV. Realizar las correcciones de los vicios formales en la acusación o demanda de reparación de daños, cuando el Ministerio Publico de la causa no lo realice;
 
-XVI. Resolver sobre las quejas y recursos que la víctima u ofendido interponga por la negativa del Ministerio Público a reabrir la Investigación y la realización de diligencias, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XVI. Resolver sobre las quejas y recursos que la víctima u ofendido interponga por la negativa del Ministerio Público a reabrir la Investigación y la realización de diligencias; y
 
 XVII. Las demás que por disposición jurídica no se encuentren reservadas al Procurador.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE LAS SUBPROCURADURÍAS
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 11.
 
@@ -313,13 +323,19 @@ XIV. Ejecutar, en el ámbito de sus atribuciones, las bases y convenios celebrad
 
 XV. Solicitar al órgano competente previo estudio socioeconómico de la Víctima u Ofendido que se otorguen los apoyos del Fondo Económico para la Restauración y Protección Especial de las Víctimas u Ofendidos del Delito;
 
-XVI. Verificar que los Ministerios Públicos ejerciten la acción de extinción de dominio cuando se reúnan los elementos y supuestos referidos (sic) establecidos en la ley de la materia y demás dispositivos jurídicos aplicables;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-XVII. Supervisar la substanciación de los procedimientos que el Ministerio Publico realice en relación al ejercicio de la acción de extinción de dominio conforme a lo establecido por las disposiciones jurídicas aplicables;
+XVI. Verificar que los Ministerios Públicos ejerciten la acción de extinción de dominio cuando se reúnan los elementos y supuestos establecidos en la ley de la materia y demás dispositivos jurídicos aplicables;
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XVII. Supervisar la substanciación de los procedimientos que el Ministerio Publico realice en relación al ejercicio de la acción de extinción de dominio, conforme a lo establecido por las disposiciones jurídicas aplicables;
 
 XVIII. Intervenir, sin perjuicio de las atribuciones del Procurador y lo estipulado por las disposiciones que rigen el Servicio de Carrera de Procuración de Justicia, en el nombramiento, desarrollo, capacitación, promoción, y adscripción del personal a su cargo;
 
-XIX. Autorizar por delegación que realice el Procurador los criterios de oportunidad establecidos en el artículo 88 del Código de Procedimientos Penales publicado el 22 de noviembre de 2007, número 4570 del Periódico Oficial Tierra y Libertad” (sic) que le presente el Ministerio Publico para su revisión, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XIX. Autorizar por delegación que realice el Procurador, los criterios de oportunidad establecidos en el artículo 88 del Código de Procedimientos Penales publicado el 22 de noviembre de 2007, número 4570 del Periódico Oficial Tierra y Libertad” (sic) que le presente el Ministerio Publico para su revisión; y
 
 XX. Las demás que determinen las disposiciones jurídicas aplicables.
 
@@ -351,15 +367,15 @@ III. Subprocuraduría de la Zona Sur-Poniente, con sede en la Ciudad de Jojutla,
 
 Cuando convenga a la imparcial y ágil integración de investigaciones o averiguaciones previas, el Procurador podrá disponer que las mismas se integren en una sede distinta a su competencia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 14.
 
 Las Subprocuraduría (sic) Metropolitana, Oriente y Sur Poniente tendrán bajo su mando las unidades administrativas siguientes:
 
 I. Dirección General de Averiguaciones Previas y Procedimientos Penales;
 
-II. Dirección General de Investigaciones y Procesos Penales y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+II. Dirección General de Investigaciones y Procesos Penales; y
 
 III. Coordinación de Control de Procesos.
 
@@ -369,23 +385,21 @@ DE LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES
 
 La Subprocuraduría de Investigaciones Especiales tendrá al frente a un Subprocurador, quien dependerá directamente del Procurador General de Justicia del Estado, y que ejercerá las atribuciones establecidas en los artículos 10 y 11 de este Reglamento. Teniendo competencia territorial en todo el Estado de Morelos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 16.
 
-La Subprocuraduría de Investigaciones Especiales Investigará y perseguirá los delitos referentes a la Delincuencia Organizada, secuestro, extorsión, trata de personas y robo de vehículo automotor establecidos en el Código Penal vigente, así como otras disposiciones jurídicas aplicables y los encomendados directamente por el titular de la Institución.
+La Subprocuraduría de Investigaciones Especiales Investigará y perseguirá los delitos referentes a Delincuencia Organizada, secuestro, extorsión, trata de personas y robo de vehículo automotor, establecidos en el Código Penal vigente, así como otras disposiciones jurídicas aplicables y los encomendados directamente por el titular de la Institución.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 17.
 
-Se adscribe a la Subprocuraduría de Investigaciones Especiales la Dirección General de Averiguaciones Previas y Procedimientos Penales de Investigaciones Especiales
+Se adscribe a la Subprocuraduría de Investigaciones Especiales la Dirección General de Averiguaciones Previas y Procedimientos Penales de Investigaciones Especiales.
 
 DE LA SUBPROCURADURÍA DE DERECHOS HUMANOS Y JUSTICIA RESTAURATIVA
 
 ### CAPÍTULO V. DE LA COORDINACIÓN GENERAL DE LA POLICÍA MINISTERIAL
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 18.
 
@@ -407,21 +421,27 @@ VII. Solicitar al órgano competente previo estudio socioeconómico de la Vícti
 
 VIII. Evaluar y supervisar al Centro de Justicia Alternativa;
 
-IX. Proponer los mecanismos y acciones de prevención del delito así como los medios restaurativos, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+IX. Proponer los mecanismos y acciones de prevención del delito así como los medios restaurativos; y
 
 X. Las demás que le confiera los ordenamientos jurídicos aplicables y las que le determine el Procurador.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 19.
 
 Se adscriben a la Subprocuraduría de Derechos Humanos y Justicia Restaurativa las siguientes unidades administrativas:
 
-I. Dirección General del Centro de Justicia Alternativa,
+(F. DE. E., P.O. 22 DE JULIO DE 2009)
 
-II. Dirección General de Asesoría Social y Auxilio a Víctimas y
+I. Dirección General del Centro de Justicia Alternativa;
 
-III. Dirección General de Derechos Humanos; (sic)
+(F. DE. E., P.O. 22 DE JULIO DE 2009)
+
+II. Dirección General de Asesoría Social y Auxilio a Víctimas; y
+
+(F. DE. E., P.O. 22 DE JULIO DE 2009)
+
+III. Dirección General de Derechos Humanos.
 
 ###### ARTÍCULO 20.
 
@@ -437,25 +457,31 @@ IV. No tener antecedentes de violaciones graves o sistemáticos a los derechos h
 
 V. No ser adicto al consumo de drogas, enervantes o psicotrópicas o alcohólico consuetudinario;
 
-VI. No haber causado baja por responsabilidad administrativa o penal durante el desempeño de servicios policíacos; y,
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+VI. No haber causado baja por responsabilidad administrativa o penal durante el desempeño de servicios policíacos; y
 
 VII. Haber aprobado los exámenes de Control y Confianza aplicados por la instancia competente.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 21.
 
 La Coordinación General de la Policía Ministerial tendrá las siguientes atribuciones:
 
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
 I. Supervisar que los agentes de la Policía Ministerial investiguen los hechos delictivos actuando bajo la conducción y el mando del Agentes (sic) del Ministerio Público, así como aquellos de que tengan noticia directamente, en los casos y condiciones que establezcan las normas jurídicas aplicables, debiendo hacerlo del conocimiento inmediato del Agente del Ministerio Público que corresponda;
 
-II. Mantener la coordinación con instituciones policiales y militares para el efecto de implementar operaciones en el cumplimiento de los mandatos judiciales.
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+II. Mantener la coordinación con instituciones policiales y militares para el efecto de implementar operaciones en el cumplimiento de los mandatos judiciales;
 
 III. Proponer al Procurador el Manual de Organización y de Políticas y Procedimientos de la Coordinación General de la Policía Ministerial, así como revisar aquellos que elaboren las Unidades a su cargo;
 
 IV. Supervisar que se reciban las denuncias sobre hechos que puedan ser constitutivos de delitos siempre y cuando por las circunstancias del caso el Agente del Ministerio Público no pueda formularlas directamente; debiendo informar inmediatamente al Ministerio Público de las diligencias practicadas para que éste asuma la investigación y dicte las instrucciones procedentes;
 
-V. Asegurarse que la Policía Ministerial preserve el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. Las unidades de la policía ministerial facultadas para el procesamiento del lugar de los hechos, deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme a los lineamientos o normas que expida el Procurador las instrucciones de este Reglamento y demás disposiciones jurídicas aplicables;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+V. Asegurarse que la Policía Ministerial preserve el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. Las unidades de la policía ministerial facultadas para el procesamiento del lugar de los hechos, deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme a los lineamientos o normas que expida el Procurador, las instrucciones de este Reglamento y demás disposiciones jurídicas aplicables;
 
 VI. Garantizar la presentación de las personas que formalmente ordenen los Agentes del Ministerio Público para la práctica de alguna diligencia;
 
@@ -485,8 +511,6 @@ XVIII. Las demás que le señalen las disposiciones legales aplicables.
 
 La investigación policial se sujetará en todo momento al principio del respeto de los derechos humanos y se ejercerá con estricto apego a la legalidad. El Ministerio Público en cada caso concreto instruirá detalladamente a la Policía Ministerial sobre los indicios, datos o evidencias que deben ser investigados o recabados para establecer que se ha cometido el delito y que tiendan a demostrar la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 22.
 
 La Coordinación General de la Policía Ministerial tendrá bajo su mando las siguientes unidades administrativas:
@@ -495,13 +519,13 @@ I. Dirección Operativa;
 
 II. Dirección de Aprehensiones;
 
-III. Direcciones Regionales de la Policía Ministerial; y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+III. Direcciones Regionales de la Policía Ministerial; y la
 
 IV. Coordinación Estatal de Plataforma México.
 
 DE LA COORDINACIÓN GENERAL DE ASESORES Y VINCULACIÓN INSTITUCIONAL
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 23.
 
@@ -519,7 +543,9 @@ V. Organizar, dirigir, controlar y evaluar el desarrollo de las atribuciones y a
 
 VI. Acordar con los titulares de las áreas a su cargo los asuntos de su competencia y, cuando se considere necesario, con los demás servidores públicos que tiene adscritos;
 
-VII. Supervisar el registro de las notificaciones de demandas de amparo que se promuevan contra actos del Procurador, así como los demás servidores públicos de la institución; en los que se señalen como autoridad responsable;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+VII. Supervisar el registro de las notificaciones de demandas de amparo que se promuevan contra actos del Procurador, así como los demás servidores públicos de la institución, en los que se señalen como autoridad responsable;
 
 VIII. Supervisar que se formulen los informes previos y justificados, así como las promociones y recursos o incidentes que deban interponerse en los juicios de amparo promovidos contra actos de autoridad en que se señale al Procurador así como los demás servidores públicos de la institución;
 
@@ -531,11 +557,11 @@ XI. Vigilar la planeación, organización y control de las estrategias de comuni
 
 XII. Coordinar el Servicio Social que se realiza en la Institución y expedir las constancias de cumplimiento;
 
-XIII. Vigilar el cumplimiento de los convenios y políticas interinstitucionales;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XIII. Vigilar el cumplimiento de los convenios y políticas interinstitucionales; y
 
 XIV. Las demás que le confiera el Procurador y demás disposiciones legales.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 24.
 
@@ -543,7 +569,9 @@ Se adscriben a la Coordinación General de Asesores y Vinculación Institucional
 
 I. Dirección Jurídica, Amparos y Extradiciones;
 
-II. Dirección General de Enlace Interinstitucional;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+II. Dirección General de Enlace Interinstitucional; y
 
 III. Dirección General de Comunicación Social.
 
@@ -560,8 +588,6 @@ II. Dirección General de Planeación y Evaluación;
 III. Dirección General de Administración de Bienes Asegurados; y
 
 IV. Dirección General de Sistemas e Información Criminógena.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 26.
 
@@ -593,7 +619,9 @@ XII. Supervisar la liquidación y pago de las remuneraciones al personal de la P
 
 XIII. Difundir a los servidores públicos de la dependencia las prestaciones de seguridad social que promueve el Gobierno del Estado;
 
-XIV. Supervisarla (sic) elaboración del programa anual de capacitación de la Procuraduría así (sic), de los servidores públicos como difundir el desarrollo del mismo;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XIV. Supervisar la elaboración del programa anual de capacitación de la Procuraduría, así como de los servidores públicos, para difundir el desarrollo del mismo;
 
 XV. Supervisar el sistema de premios, estímulos y recompensas;
 
@@ -603,7 +631,9 @@ XVII. Supervisar los sistemas de administración de los recursos materiales, hum
 
 XVIII. Establecer los lineamientos y políticas generales para la administración de los recursos materiales y servicios generales que requiera la Procuraduría;
 
-XIX. Resolver, previo acuerdo con el Procurador, sobre las peticiones que realicen las áreas de la Procuraduría, respecto de adquisiciones, arrendamientos y servicios, así como instrumentar, ejecutar y dar seguimiento a los contratos de arrendamientos, servicios y adquisiciones autorizados a la institución;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XIX. Resolver, previo acuerdo con el Procurador, sobre las peticiones que realicen las áreas de la Procuraduría, respecto de adquisiciones, arrendamientos y servicios, así como instrumentar, ejecutar y dar seguimiento a los contratos de arrendamientos, servicios y adquisiciones autorizados a la institución; y
 
 XX. Las demás que le señalen otras disposiciones legales aplicables.
 
@@ -741,11 +771,11 @@ Serán directamente ejercidas por el Director General de Averiguaciones Previas 
 
 DE LAS DIRECCIONES GENERALES DE INVESTIGACIONES Y PROCESOS PENALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 30.
 
-Las Direcciones Generales de Investigaciones y Procesos Penales tendrán adscritas las Unidades Especializadas de investigación; el titular tendrá que cubrir los requisitos del artículo 27, teniendo además de las atribuciones establecidas en el artículo 28, las que (sic) siguientes:
+Las Direcciones Generales de Investigaciones y Procesos Penales tendrán adscritas las Unidades Especializadas de investigación; el titular tendrá que cubrir los requisitos del artículo 27, teniendo además de las atribuciones establecidas en el artículo 28, las siguientes:
 
 I. Coordinar las acciones de los agentes del Ministerio Público adscritos a las Unidades Especializadas de Investigación, con motivo de la investigación de los delitos mencionados en las carpetas de investigación, en las cuales estos deban realizar las siguientes acciones legales: promover las acciones penales correspondientes, velando por que el imputado sea instruido en sus derechos constitucionales y vigilando que los derechos de la victima sean adecuadamente titulados; promover la conciliación y los acuerdos reparatorios entre la víctima u ofendido y el imputado, en los casos autorizados por la ley; solicitar la autorización de los criterios de oportunidad, el sobreseimiento del proceso, la suspensión del proceso a prueba, y la apertura del procedimiento abreviado, en los supuesto (sic) previsto por la ley; e interponer los recursos procedentes, conforme a lo establecido en las leyes de la materia;
 
@@ -769,19 +799,23 @@ X. Solicitar a la autoridad competente los informes y documentos para fines de l
 
 XI. Coordinar y dirigir el ejercicio de la acción de extinción de dominio cuando se reúnan los elementos y supuestos referidos establecidos en la ley de la materia y demás dispositivos jurídicos aplicables;
 
-XII. Coordinar y dirigir la substanciación de los procedimientos derivados del ejercicio de la acción de extinción de dominio conforme a lo establecido por las disposiciones jurídicas aplicables;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XII. Coordinar y dirigir la substanciación de los procedimientos derivados del ejercicio de la acción de extinción de dominio, conforme a lo establecido por las disposiciones jurídicas aplicables; y
 
 XIII. Las demás que le señalen las disposiciones legales aplicables.
 
-La Dirección General de Investigaciones y Procesos Penales de la Zona Metropolitana tendrá competencia para dar seguimiento a las actuaciones de las Unidades Especializadas de Investigación adscritas a la Subprocuraduría de Investigaciones Especiales en las carpetas de Investigación y Expedientes judiciales; (sic)
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+La Dirección General de Investigaciones y Procesos Penales de la Zona Metropolitana tendrá competencia para dar seguimiento a las actuaciones de las Unidades Especializadas de Investigación adscritas a la Subprocuraduría de Investigaciones Especiales en las carpetas de Investigación y Expedientes judiciales.
 
 DE LA DIRECCIÓN GENERAL DE AVERIGUACIONES PREVIAS Y PROCEDIMIENTOS PENALES DE INVESTIGACIONES ESPECIALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 31.
 
-La Dirección General de Averiguaciones Previas y Procedimientos Penales de Investigaciones Especiales, además de los requisitos y atribuciones que se establecen en los artículos 27, 28y (sic) 29 de este Reglamento en el ámbito de su competencia, conocerá de los ilícitos relacionados con los delitos de robo de vehículos, secuestro, extorsión y demás asuntos que le instruya su superior jerárquico; (sic)
+La Dirección General de Averiguaciones Previas y Procedimientos Penales de Investigaciones Especiales, además de los requisitos y atribuciones que se establecen en los artículos 27, 28 y 29 de este Reglamento en el ámbito de su competencia, conocerá de los ilícitos relacionados con los delitos de robo de vehículos, secuestro, extorsión y demás asuntos que le instruya su superior jerárquico.
 
 DE LA DIRECCIÓN GENERAL DEL CENTRO DE JUSTICIA ALTERNATIVA
 
@@ -790,8 +824,6 @@ DE LA DIRECCIÓN GENERAL DEL CENTRO DE JUSTICIA ALTERNATIVA
 La Dirección General del Centro de Justicia Alternativa, estará adscrita a la Subprocuraduría de Derecho (sic) Humanos y Justicia Restaurativa y tendrá las atribuciones que le confiere el artículo 28 de este reglamento, las que le determine el Procurador y las que disponga la Ley de Justicia Alternativa en Materia Penal para el Estado de Morelos, su reglamento y demás disposiciones legales.
 
 DE LA DIRECCIÓN GENERAL DE ASESORÍA SOCIAL Y AUXILIO A VÍCTIMAS
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 33.
 
@@ -827,13 +859,13 @@ XIV. Promover e impulsar acciones institucionales que faciliten a la comunidad e
 
 XV. Vigilar que se otorgue, previo estudio socioeconómico, asesoría jurídica y patrocinio judicial gratuito a personas de escasos recursos que lo soliciten, en juicios de carácter familiar, civil, mercantil, agrario, de garantías o administrativo, en todas las instancias legales;
 
-XVI. Solicitar los apoyos, previo estudio socioeconómico al Comité Técnico del Fondo Económico para la Restauración y Protección Especial de las víctimas y Ofendidos del delito;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XVI. Solicitar los apoyos, previo estudio socioeconómico al Comité Técnico del Fondo Económico para la Restauración y Protección Especial de las víctimas y Ofendidos del delito; y
 
 XVII. Las demás que le señalen las disposiciones legales aplicables.
 
 DE LA DIRECCIÓN GENERAL DE DERECHOS HUMANOS
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 34.
 
@@ -853,7 +885,9 @@ VI. Garantizar que se lleve el registro de las quejas, recomendaciones y conveni
 
 VII. Informar a su superior jerárquico de las omisiones, deficiencias y retardos en los informes de los servidores públicos, relacionados con asuntos de derechos humanos, a efecto de que se tomen las medidas pertinentes;
 
-VIII. Proponer acciones y programas de profesionalización para los Agentes del Ministerio Público, Policía Judicial, Peritos y demás personal que interviene en la integración de averiguaciones previas, a efecto de lograr un pleno respeto a los derechos humanos;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+VIII. Proponer acciones y programas de profesionalización para los Agentes del Ministerio Público, Policía Ministerial, Peritos y demás personal que interviene en la integración de averiguaciones previas, a efecto de lograr un pleno respeto a los derechos humanos;
 
 IX. Proponer la celebración de convenios de intercambio de experiencias con otras Procuradurías o Instituciones similares, para fortalecer el respeto a los derechos humanos;
 
@@ -863,19 +897,21 @@ XI. Proponer a su superior jerárquico las medidas necesarias para prevenir la v
 
 XII. Coordinar y supervisar a los Agentes del Ministerio Público adscritos a la dirección a su cargo;
 
-XIII. Coordinar y supervisar a la Unidad Especializada de Investigación de Derechos Humanos, adscrita a la dirección a su cargo;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XIII. Coordinar y supervisar a la Unidad Especializada de Investigación de Derechos Humanos, adscrita a la dirección a su cargo; y
 
 XIV. Las demás que le asignen las disposiciones legales aplicables.
 
 DE LA DIRECCIÓN GENERAL JURÍDICA, AMPAROS Y EXTRADICIONES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 35.
 
 La Dirección General Jurídica, Amparos y Extradiciones, estará adscrita a la Coordinación General de Asesores y Vinculación Institucional y tendrá a demás (sic) de las establecidas en el artículo 28, las siguientes atribuciones:
 
-I. Vigilar que se reciban y se registren las notificaciones de demandas de amparo que se promuevan contra actos del Procurador, así como los demás servidores públicos de la institución; en los que se señalen como autoridad responsable;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+I. Vigilar que se reciban y se registren las notificaciones de demandas de amparo que se promuevan contra actos del Procurador, así como los demás servidores públicos de la institución, en los que se señalen como autoridad responsable;
 
 II. Formular los informes previos y justificados, así como las promociones y recursos o incidentes que deban interponerse en los juicios de amparo promovidos contra actos de autoridad en que se señale al Procurador así como los demás servidores públicos de la institución, y darle seguimiento aportando los documentos que se deban rendir hasta que se emita la resolución que corresponda;
 
@@ -885,7 +921,9 @@ IV. Representar al Procurador, cuando este así lo acuerde, en las acciones y co
 
 V. Suscribir, en ausencia del Procurador General, Subprocuradores, Visitador General, Coordinador General de la Policía Ministerial y Directores Generales de la Dependencia, los informes, promociones, requerimientos, recursos, o incidentes en los juicios de amparo;
 
-VI. Suscribir, en ausencia del Procurador General las solicitudes de extradición y asistencia jurídica internacional; los informes, actos y documentos que deban rendir dentro de procedimientos judiciales, contenciosos administrativos, laborales o cualquier otro;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+VI. Suscribir, en ausencia del Procurador General las solicitudes de extradición y asistencia jurídica internacional, los informes, actos y documentos que deban rendir dentro de procedimientos judiciales, contenciosos administrativos, laborales o cualquier otro;
 
 VII. Conocer de los juicios de amparos que se promuevan como resultado de procedimientos administrativos e incluso los promovidos en el tribunal contencioso administrativo, coordinándose en su caso con la Visitaduría General para la atención de los mismos;
 
@@ -897,9 +935,13 @@ X. Intervenir con la representación jurídica del Procurador, en todos los juic
 
 XI. Coordinarse con la Consejería Jurídica del Estado de Morelos, para la tramitación de todos los asuntos jurídicos relacionados con la Procuraduría;
 
-XII. Formular la petición formal ante la instancia que corresponda, respecto de las solicitudes de extradición o asistencia jurídica internacional que le sean requeridas;; (sic) debiendo de dar el seguimiento que corresponda;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-XIII. Representar con el carácter de apoderado legal a la Procuraduría General de Justicia del Estado y a sus unidades administrativas en los asuntos de carácter laboral y contenciosos administrativos en los que sea parte; salvo que el acto impugnado se origine de un procedimiento administrativo seguido ante la Visitaduría General de esta Institución o se señale como autoridad responsable al Gobierno del Estado;
+XII. Formular la petición formal ante la instancia que corresponda, respecto de las solicitudes de extradición o asistencia jurídica internacional que le sean requeridas; debiendo de dar el seguimiento que corresponda;
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XIII. Representar con el carácter de apoderado legal a la Procuraduría General de Justicia del Estado y a sus unidades administrativas en los asuntos de carácter laboral y contenciosos administrativos en los que sea parte; salvo que el acto impugnado se origine de un procedimiento administrativo seguido ante la Visitaduría General de esta Institución o se señale como autoridad responsable al Gobierno del Estado; y
 
 XIV. Las demás que le señalen las disposiciones legales aplicables.
 
@@ -925,8 +967,6 @@ VII. Las que le encomiende el superior jerárquico y las que le otorgue la Ley O
 
 DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 37.
 
 El Director General de Comunicación Social tendrá las siguientes atribuciones:
@@ -937,17 +977,25 @@ II. Diseñar y coordinar programas de comunicación social y divulgación, relac
 
 III. Establecer las relaciones de la procuraduría con los medios de comunicación;
 
-IV. Garantizar la recopilar (sic), análisis, edición y distribución de la información contenida en las publicaciones, acerca de las actividades que realice la Procuraduría;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+IV. Garantizar la recopilación, análisis, edición y distribución de la información contenida en las publicaciones, acerca de las actividades que realice la Procuraduría;
 
 V. Garantizar que se capte y difunda la información generada por los medios de comunicación en relación a las actividades de la Procuraduría;
 
-VI. Supervisar que se cubra la información generada en los actos oficiales, ceremonias, giras y eventos en que intervenga el Procurador.
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-VII. Garantizar la elaboración y distribución de la síntesis informativa de las notas publicadas en los diarios relacionado (sic) con la procuración de justicia y seguridad pública.
+VI. Supervisar que se cubra la información generada en los actos oficiales, ceremonias, giras y eventos en que intervenga el Procurador;
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+VII. Garantizar la elaboración y distribución de la síntesis informativa de las notas publicadas en los diarios relacionado (sic) con la procuración de justicia y seguridad pública;
 
 VIII. Garantizar que se mantenga un archivo de las informaciones emitidas, así como las recopilaciones de notas periodísticas, radiofónicas, televisivas, carteles, material audiovisual y otras publicaciones de la Procuraduría para su consulta por las áreas interesadas;
 
-IX. Coordinar la elaboración de los materiales audiovisuales y publicaciones de la procuraduría para su difusión entre la comunidad y supervisar su impresión y distribución;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+IX. Coordinar la elaboración de los materiales audiovisuales y publicaciones de la procuraduría para su difusión entre la comunidad y supervisar su impresión y distribución; y
 
 X. Las demás que señalan las disposiciones jurídicas aplicables y las que determine su superior jerárquico.
 
@@ -957,8 +1005,6 @@ El Director General de Comunicación Social quedará adscrito al Coordinador Gen
 
 DE LA DIRECCIÓN GENERAL DE CONTROL ADMINISTRATIVO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 39.
 
 La Dirección General de Control Administrativo estará adscrita a la Coordinación General de Administración y Sistemas y tendrá las siguientes atribuciones:
@@ -967,7 +1013,9 @@ A) En materia de presupuesto:
 
 I. Establecer las normas y procedimientos para el proceso interno de programación-presupuestación, que relacionen objetivos, metas y recursos, así como integrar el anteproyecto de presupuesto anual de la Procuraduría y someterlo a consideración y aprobación del Coordinador General de Administración y Sistemas;
 
-II. Coordinar y aprobar los estudios tendientes a la simplificación, desconcentración y mejoramiento administrativo, así como analizar y evaluar la estructuras (sic) administrativa de las diversas unidades, de organización, de procedimientos y evaluar los métodos de trabajo de las unidades administrativas de la Procuraduría, así como proponer las modificaciones respectivas;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+II. Coordinar y aprobar los estudios tendientes a la simplificación, desconcentración y mejoramiento administrativo, así como analizar y evaluar la estructura administrativa de las diversas unidades, de organización, de procedimientos y evaluar los métodos de trabajo de las unidades administrativas de la Procuraduría, así como proponer las modificaciones respectivas;
 
 III. Supervisar la integración de los Manuales de Organización; formular y difundir las guías técnicas para la elaboración de los manuales de políticas y procedimientos, de servicios y los documentos administrativos que resulten necesarios a la sociedad para el mejor funcionamiento de la Procuraduría, proponiendo su permanente actualización, así como llevar su registro y custodia;
 
@@ -981,7 +1029,9 @@ VII. Garantizar que se integre documentalmente en los términos en que se le sol
 
 VIII. Solicitar de las diversas unidades de la Procuraduría y en coordinación con estas, toda aquella información que le permita cumplir con las responsabilidades a que se refieren las fracciones anteriores;
 
-IX. Supervisar que se elabore y mantenga actualizada la base de datos correspondientes a las actividades propia (sic) de la Dirección;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+IX. Supervisar que se elabore y mantenga actualizada la base de datos correspondientes a las actividades propia (sic) de la Dirección; y
 
 X. Las demás que le señalen otras disposiciones legales aplicables
 
@@ -1009,7 +1059,9 @@ C) En materia de recursos materiales y servicios generales:
 
 I. Vigilar que se realice en forma debida el abastecimiento de los recursos materiales y suministrar los servicios generales que requiera la Procuraduría;
 
-II. Coordinar y vigilar se lleve a cabo en forma óptima y puntual el registro, control y actualización permanente de los bienes inmuebles e inventarios de la Procuraduría;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+II. Coordinar y vigilar que se lleve a cabo en forma óptima y puntual el registro, control y actualización permanente de los bienes inmuebles e inventarios de la Procuraduría;
 
 III. Instrumentar políticas y procedimientos óptimos para conservar, mantener y aprovechar los bienes de la Procuraduría, con sujeción a las disposiciones legales que la rigen;
 
@@ -1039,8 +1091,6 @@ VI. Las demás que le señalen otras disposiciones legales aplicables.
 
 DE LA DIRECCIÓN GENERAL DE PLANEACIÓN Y EVALUACIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 40.
 
 La Dirección General de Planeación y Evaluación estará adscrita a la Coordinación General de Administración y Sistemas y tendrá las siguientes atribuciones:
@@ -1051,9 +1101,13 @@ II. Establecer los registros, controles y estadísticas que se le requieran para
 
 III. Formular y supervisar los estudios relativos al funcionamiento y organización de cada una de las unidades que integran la Procuraduría, y proponer las adecuaciones que se estimen necesarias, dando intervención al área administrativa para que se asignen los recursos humanos, materiales y tecnológicos necesarios, así como a otras áreas que deban participar, para el cumplimiento eficaz de la función asignada y/o el uso óptimo de los recursos asignados;
 
-IV. Proponer los programas de Capacitación para el personal de la Procuraduría General de Justicia, y proponerlos al área administrativa para la gestión y obtención de los recursos financieros destinados a este rubro;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-V. Establecer la coordinación con autoridades Estatales para lograr la validación de los programas de capacitación en observancia de la normatividad del sistema Nacional de Seguridad Pública;
+IV. Proponer los programas de Capacitación para el personal de la Procuraduría General de Justicia, y hacerlos del conocimiento de sus (sic) superior jerárquico para la gestión y obtención de los recursos financieros destinados a este rubro;
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+V. Establecer la coordinación con autoridades Estatales para lograr la validación de los programas de capacitación en observancia de la normatividad del Sistema Nacional de Seguridad Pública;
 
 VI. Consolidar mensualmente el informe de actividades de la Institución, así como revisar permanentemente que las unidades administrativas cumplan con las metas y objetivos planteados en el Plan Estatal de Desarrollo, en los Programas Operativos Anuales y en cualquier otro que se establezca de manera específica e informar al Titular de la institución los resultados;
 
@@ -1093,15 +1147,15 @@ XXIII. Las demás que le confieran otras disposiciones o el superior jerárquico
 
 DIRECCIÓN GENERAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 41.
 
 La Dirección General de Administración de Bienes Asegurados estará adscrita a la Coordinación General de Administración y Sistemas, y tendrá las siguientes atribuciones:
 
 I. Vigilar que se reciban, registren, custodien, conserven y supervisen todos los bienes que se encuentren relacionados con las averiguaciones previas o carpetas de investigación radicadas en la Procuraduría y devolverlos en el estado en que los haya recibido, salvo el deterioro normal que se les cause por el transcurso del tiempo;
 
-II. Remitir a la Tesorería General del Estado de Morelos la moneda nacional o extranjera que sea asegurada,, (sic) para que se restituya a la persona que acredite fehacientemente tener derecho a recibirla conforme a la legislación aplicable;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+II. Remitir a la Tesorería General del Estado de Morelos la moneda nacional o extranjera que sea asegurada, para que se restituya a la persona que acredite fehacientemente tener derecho a recibirla conforme a la legislación aplicable;
 
 III. Verificar que se inscriban en el Instituto del Registro Público de la Propiedad y Comercio del Estado, las medidas de aseguramiento ordenadas por el Ministerio Público dentro de las averiguaciones previas o carpetas de investigación, respecto de los bienes inmuebles, derechos reales, acciones de sociedades mercantiles o cualquier otro derecho susceptible de registro;
 
@@ -1169,8 +1223,6 @@ XV. Las demás que le señalen otras disposiciones legales aplicables.
 
 DE LA DIRECCIÓN GENERAL DE SERVICIOS PERICIALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 43.
 
 La Dirección General de Servicios Periciales estará adscrita al Procurador, y además de las atribuciones que estable el artículo 28, tendrá las siguientes atribuciones:
@@ -1193,7 +1245,9 @@ VIII. Vigilar que los servicios periciales se cumplan en tiempo y forma;
 
 IX. Vigilar que los peritos cumplan con los procedimientos establecidos para la cadena de custodia, cerciorándose del correcto manejo de los indicios, huellas o vestigios, del hecho delictuoso, así como de los instrumentos, objetos o productos del delito cuando lo reciban y realizar los peritajes que se les instruyan;
 
-X. Vigilar que se preste al Ministerio Público el auxilio para la búsqueda, obtención y preservación de indicios y pruebas tendientes a la acreditación de que se cometió el ilícito y de la probable responsabilidad del indiciado
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+X. Vigilar que se preste al Ministerio Público el auxilio para la búsqueda, obtención y preservación de indicios y pruebas tendientes a la acreditación de que se cometió el ilícito y de la probable responsabilidad del indiciado;
 
 XI. Conformar una Base General de datos de los peritos que le estén adscritos; misma que contendrá los siguientes requisitos: nombre, domicilio, cédula profesional, grado de estudios y especialización, años de experiencia y demás datos que se requieran para su plena identificación; y
 
@@ -1201,11 +1255,11 @@ XII. Las demás que le confieran las disposiciones legales aplicables y las que 
 
 ### CAPÍTULO VII. DE LA VISITADURÍA GENERAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 44.
 
-Al frente de la Visitaduría General habrá un Visitador General, quien ejercerá por si, o a través de los Subdirectores o Agentes del Ministerio Público que le estén adscritos, las siguientes atribuciones:
+Al frente de la Visitaduría General habrá un Visitador General, quien ejercerá por sí, o a través de los Subdirectores o Agentes del Ministerio Público que le estén adscritos, las siguientes atribuciones:
 
 I. Ejercer y desarrollar las normas de control, investigación y evaluación técnica-jurídica que fije el Procurador, así como aquellas que deriven del presente ordenamiento y de las disposiciones jurídicas y administrativas aplicables;
 
@@ -1339,19 +1393,17 @@ IV. Procederá a cerrar el acta de supervisión, señalando la hora de conclusi�
 
 La Visitaduría General podrá realizar supervisiones y evaluaciones técnico-jurídicas, a través del Sistema Informático de Registro, Integración y Seguimiento de las averiguaciones previas, a las Agencias del Ministerio Público que tengan implementado dicho sistema, ciñéndose al procedimiento señalado en este artículo; sin embargo, sí podrá verificar las actuaciones contenidas en las indagatorias, ya sea a través del sistema o personalmente en las agencias.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 54.
 
 En las visitas de control y evaluación técnico-jurídica que se practique en la Dirección General y Coordinaciones Regionales de Servicios Periciales, la Visitaduría General, además de cumplir con lo establecido en el artículo 51 del presente ordenamiento deberá seguir los siguientes lineamientos:
 
 a) Verificará el libro que contiene el registro de llamados del Ministerio Público para la emisión de dictámenes periciales, la fecha de recepción del llamado, qué dictamen se solicitó y los datos de la carpeta de investigación;
 
-b) Verificará que los dictámenes periciales señalados en el inciso que antecede hayan sido rendidos de manera puntual y dentro del término de diez días hábiles, contados a partir de la fecha de recibida la petición, según la naturaleza del dictamen. Cuando se trate de solicitud de dictamen pericial en caso de detenido, dicho dictamen se rendirá dentro de las doce horas contadas desde la hora y día de recepción de la solicitud, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+b) Verificará que los dictámenes periciales señalados en el inciso que antecede hayan sido rendidos de manera puntual y dentro del término de diez días hábiles, contados a partir de la fecha de recibida la petición, según la naturaleza del dictamen. Cuando se trate de solicitud de dictamen pericial en caso de detenido, dicho dictamen se rendirá dentro de las doce horas contadas desde la hora y día de recepción de la solicitud; y
 
 c) Verificará que los dictámenes periciales emitidos sean acordes a lo solicitado por el Agente del Ministerio Público u otra autoridad que tenga injerencia en el asunto.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 55.
 
@@ -1367,11 +1419,11 @@ d) Que se conduzcan con amabilidad, atención y respeto hacia la ciudadanía con
 
 e) Que no se realicen aprehensiones o detenciones de personas u objetos sin contar con la respectiva orden girada por la autoridad competente salvo los casos de delito fragrante (sic);
 
-f) Que se respeten los derechos humanos y las garantías individuales de las personas con quienes se establezcan (sic) contacto en el desempeño de su función, las cuales se encuentran consagradas en la Constitución Política de los Estados Unidos Mexicanos, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+f) Que se respeten los derechos humanos y las garantías individuales de las personas con quienes se establezcan (sic) contacto en el desempeño de su función, las cuales se encuentran consagradas en la Constitución Política de los Estados Unidos Mexicanos; y
 
 g) Se conduzcan con fidelidad y honor hacia la institución desempeñando con honradez y responsabilidad el servicio encomendado, absteniéndose de todo acto de corrupción, así como de hacer uso de sus atribuciones para el lucro o fines personales.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 56.
 
@@ -1395,15 +1447,17 @@ V. El tiempo de estancia en ese lugar;
 
 VI. Si el Ministerio Público le ha permitido comunicarse vía telefónica con sus familiares, defensor o persona de su confianza;
 
-VII. Si presenta alguna alteración en su salud y si algún médico de la Procuraduría, ha acudido a revisarlo
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-VIII. Si durante su instancia ha ingerido agua y alimentos, si éstos le han sido proporcionados gratuitamente por personal de la Procuraduría; o si le han sido enviados por sus familiares, sin que el personal de la Institución haya solicitado a cambio dinero o alguna otra contraprestación, y
+VII. Si presenta alguna alteración en su salud y si algún médico de la Procuraduría, ha acudido a revisarlo;
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+VIII. Si durante su instancia ha ingerido agua y alimentos, si éstos le han sido proporcionados gratuitamente por personal de la Procuraduría; o si le han sido enviados por sus familiares, sin que el personal de la Institución haya solicitado a cambio dinero o alguna otra contraprestación; y
 
 IX. Si el trato recibido ha sido cortés, digno y en general si le han respetado sus derechos humanos.
 
 La Visitaduría General establecerá bitácoras en las cuales consten las supervisiones que realice en las áreas de internamiento y de seguridad.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 57.
 
@@ -1415,7 +1469,9 @@ b) Las Unidades Especializadas de Investigación, Agencias del Ministerio Públi
 
 c) Las Unidades Especializadas de Investigación, Agencias del Ministerio Público o unidades que se requieran a criterio del titular de la Visitaduría General o a petición del superior jerárquico de éstas;
 
-d) Se podrán realizar supervisiones extraordinarias de atención inmediata, sin necesidad de oficio de comisión emitido por el Visitador General o por el Subdirector de Visitaduría, bastando la constancia que se levante y que contenga la denuncia recibida sobre alguna irregularidad administrativa. En cuyo caso la visita se llevará a cabo de manera inmediata, porque de no hacerse así, las condiciones en que se está originado (sic) o ejecutando la irregularidad pudrían (sic) modificarse, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+d) Se podrán realizar supervisiones extraordinarias de atención inmediata, sin necesidad de oficio de comisión emitido por el Visitador General o por el Subdirector de Visitaduría, bastando la constancia que se levante y que contenga la denuncia recibida sobre alguna irregularidad administrativa. En cuyo caso la visita se llevará a cabo de manera inmediata, porque de no hacerse así, las condiciones en que se está originado (sic) o ejecutando la irregularidad pudrían (sic) modificarse; y
 
 e) Este tipo de visitas también podrá efectuarse, cuando se haga del dominio público, hechos que afectan la imagen de la institución y que de igual manera, deban atenderse por constituir una posible irregularidad administrativa.
 
@@ -1450,8 +1506,6 @@ Las Unidades Especializadas de investigación son unidades administrativas integ
 ###### ARTÍCULO 63.
 
 Las Unidades Especializadas de Investigación contarán con un Titular, quien dependerá orgánicamente de la Dirección General de Investigaciones y Procesos Penales que corresponda; el titular de la Unidad especializada de investigación ejercerá el mando y autoridad jerárquica sobre los Agentes del Ministerio Público y demás personal que esté adscrito a la Unidad Especializada de investigación que se trate y dirigirá las actuaciones de los Agentes de la Policía Ministerial.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 64.
 
@@ -1505,23 +1559,27 @@ XXIII. Coadyuvar con el Ministerio Público de la Federación y de las demás En
 
 XXIV. Determinar el destino final de los vehículos automotores y/o bienes en general puestos a su disposición, decretando su abandono a favor del Estado, mediante el procedimiento que establezcan las disposiciones legales y administrativas aplicables, ordenando su destrucción o compactación según sea el caso;
 
-XXV. Autorizar los Acuerdos de libertad garantizada o bajo protesta, de incompetencia y acumulación, así como el no ejercicio de la acción penal, previa autorización del Subprocurador al que este adscrito.
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XXV. Autorizar los Acuerdos de libertad garantizada o bajo protesta, de incompetencia y acumulación, así como el no ejercicio de la acción penal, previa autorización del Subprocurador al que este adscrito;
 
 XXVI. Atraer desde el inicio de la Investigación los asuntos que tengan vinculación con los delitos que persiguen y las materias que tienen encomendadas de acuerdo a su especialización, así como aquellos que por instrucción o su relevancia deban conocer;
 
-XXVII. Ejecutar, aplicar y cumplir los mecanismos de comunicación, intercambio de información, apoyos técnicos y materiales; así como de coordinación con las Unidades Especializadas de investigación, la Secretaria de Seguridad Pública Federal, la Procuraduría General de la República, las Procuradurías de las Entidades Federativas y del Distrito Federal y con las diversas policías, autoridades de seguridad pública de la Federación y de los Estados, de conformidad con el presente ordenamiento y las leyes aplicables.
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XXVII. Ejecutar, aplicar y cumplir los mecanismos de comunicación, intercambio de información, apoyos técnicos y materiales; así como de coordinación con las Unidades Especializadas de investigación, la Secretaria de Seguridad Pública Federal, la Procuraduría General de la República, las Procuradurías de las Entidades Federativas y del Distrito Federal y con las diversas policías, autoridades de seguridad pública de la Federación y de los Estados, de conformidad con el presente ordenamiento y las leyes aplicables;
 
 XXVIII. Rendir un informe mensual de las actividades cuantitativas y cualitativas de su fiscalía a la autoridad superior y al Director General de Sistemas e Información Criminógena;
 
 XXIX. Formular y rendir informes previos y justificados en los juicios de amparos promovidos contra actos de los titulares de las fiscalías, en los términos de los dispositivos legales aplicables;
 
-XXX. Utilizar por los agentes del Ministerio Público todos los programas informáticos diseñados para el registro, seguimiento y evaluación de las carpetas de Investigación; todas las actuaciones deben estar contenidas en los archivos electrónicos de los aplicativos, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XXX. Utilizar por los agentes del Ministerio Público todos los programas informáticos diseñados para el registro, seguimiento y evaluación de las carpetas de Investigación; todas las actuaciones deben estar contenidas en los archivos electrónicos de los aplicativos; y
 
 XXXI. Las demás que le encomiende la ley y demás disposiciones aplicables.
 
 ### CAPÍTULO IX. DE LAS COORDINACIONES DE CONTROL DE PROCESOS
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 65.
 
@@ -1535,7 +1593,9 @@ II. Pedir el aseguramiento precautorio de bienes para los efectos del pago de la
 
 III. Aportar las pruebas pertinentes y promover en el proceso las diligencias conducentes al debido esclarecimiento de los hechos, a la comprobación del cuerpo del delito, de la responsabilidad de quienes hayan intervenido en él y de la existencia del daño o perjuicio y a la fijación del monto de su reparación;
 
-IV. Concurrir e intervenir en las diligencias y audiencias que se practiquen en las Salas y Juzgados Penales de su adscripción y desahogar las vistas que le den;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+IV. Concurrir e intervenir en las diligencias y audiencias que se practiquen en las Salas y Juzgados Penales de su adscripción y desahogar las vistas;
 
 V. Solicitar, en los términos del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, las órdenes de cateo que sean necesarias;
 
@@ -1555,7 +1615,9 @@ XII. Estudiar los expedientes en los que se dé vista por estimar que existen he
 
 XIII. Turnar a la Dirección General de Averiguaciones Previas y Procedimientos Penales que le corresponda, los informes y documentos necesarios, cuando se estime que debe iniciarse la averiguación previa correspondiente;
 
-XIV. Ejercitar, con acuerdo del superior jerárquico, acción penal por diversos delitos en contra de personas distintas a los procesados, cuando en la causa penal en que intervienen surjan elementos suficientes para ello, tratándose de los mismos hechos o los íntimamente vinculados, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XIV. Ejercitar, con acuerdo del superior jerárquico, acción penal por diversos delitos en contra de personas distintas a los procesados, cuando en la causa penal en que intervienen surjan elementos suficientes para ello, tratándose de los mismos hechos o los íntimamente vinculados; y
 
 XV. Vigilar y coordinar para el cumplimiento de sus atribuciones las actividades de los Agentes del Ministerio Público adscritos a Salas y Juzgados del Tribunal Superior de Justicia.
 
@@ -1563,7 +1625,9 @@ B) En materia civil:
 
 I. Intervenir en los juicios en que sean parte los menores e incapaces y los relativos a la familia, el estado civil de las personas, sucesorios y todos aquellos en que por disposición legal sea parte o deba darse vista al Ministerio Público;
 
-II. Concurrir e intervenir en las diligencias y audiencias que se practiquen en las Salas y Juzgados Civiles de su adscripción y desahogar las vistas que le den;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+II. Concurrir e intervenir en las diligencias y audiencias que se practiquen en las Salas y Juzgados Civiles de su adscripción y desahogar las vistas;
 
 III. Formular y presentar los pedimentos procedentes dentro de los términos legales;
 
@@ -1585,7 +1649,9 @@ XI. Solicitar las investigaciones, localizaciones, estudios y exámenes que se r
 
 XII. Intervenir en los casos de que conozca la Dirección General de Averiguaciones Previas y Procedimientos Penales, sobre las denuncias que reciba en relación a acciones u omisiones que puedan constituir delitos del fuero común contra la economía popular y familiar;
 
-XIII. Vigilar y coordinar para el cumplimiento de las anteriores atribuciones las actividades del Ministerio Público adscrito a Salas y Juzgados en materia civil, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XIII. Vigilar y coordinar para el cumplimiento de las anteriores atribuciones las actividades del Ministerio Público adscrito a Salas y Juzgados en materia civil; y
 
 XIV. Las demás que le señalen las disposiciones legales aplicables.
 
@@ -1594,8 +1660,6 @@ DE LAS COORDINACIONES REGIONALES DE SERVICIOS PERICIALES
 ###### ARTÍCULO 66.
 
 Las Coordinaciones Regionales de Servicios Periciales, quedarán adscritas al Director General de Servicios Periciales en el ámbito de sus competencias.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 67.
 
@@ -1615,7 +1679,9 @@ e) Proponer a la Visitaduría General, como medida precautoria, la suspensión t
 
 f) Organizar, dirigir y controlar el Servicio Médico Forense de la jurisdicción correspondiente;
 
-g) Revisar y actualizar las técnicas que se aplican en los dictámenes periciales, proponiendo la impartición de capacitación y actualización científica o técnica del personal especializado en materia de servicio forense, con el objeto de que el personal adscrito conozca y emplee las más avanzadas y adecuadas técnicas en el desempeño de sus atribuciones, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+g) Revisar y actualizar las técnicas que se aplican en los dictámenes periciales, proponiendo la impartición de capacitación y actualización científica o técnica del personal especializado en materia de servicio forense, con el objeto de que el personal adscrito conozca y emplee las más avanzadas y adecuadas técnicas en el desempeño de sus atribuciones; y
 
 h) Las demás que les señalen las disposiciones legales aplicables.
 
@@ -1649,7 +1715,9 @@ m) Conformar una Base General de datos de los peritos que le estén adscritos; m
 
 n) Cerciorarse del correcto manejo de los indicios, huellas o vestigios del hecho delictuoso, así como de los instrumentos, objetos o productos del delito cuando los reciban;
 
-o) Dar cuenta por escrito al Ministerio Público cuando notase que los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito no han sido debidamente resguardados de conformidad a lo dispuesto por las disposiciones jurídicas aplicables
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+o) Dar cuenta por escrito al Ministerio Público cuando notase que los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito no han sido debidamente resguardados de conformidad a lo dispuesto por las disposiciones jurídicas aplicables;
 
 p) Los dictámenes periciales solicitados para la integración de una carpeta de investigación deberán ser rendidos dentro del término máximo de 10 días hábiles, contados a partir de la fecha de recibida la petición, según la naturaleza del dictamen; en caso de haber detenido, dicho dictamen se rendirá dentro de las 12 horas contadas a partir de la recepción de la solicitud; y
 
@@ -1658,8 +1726,6 @@ q) Las demás que le confieran las disposiciones legales aplicables y aquéllas 
 ###### ARTÍCULO 68.
 
 Los peritos adscritos a las Coordinaciones de Servicios Periciales, deberán contar con Titulo legalmente expedido y registrado en la rama profesional sobre la que dictaminarán. Si se trata de actividades no reglamentadas en la ley, se acreditarán sus conocimientos por cualquier medio y deberán contar con una práctica mínima de cinco años.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 69.
 
@@ -1699,15 +1765,19 @@ n) Documentoscopía y Grafoscopía;
 
 o) Veterinaria y Zootecnia;
 
-p) Tránsito Terrestre; y (sic)
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+p) Tránsito Terrestre;
 
 q) Incendios y Explosivos;
 
-r) Peritos Médicos Legistas o Forenses;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-s) Las demás que sean necesarias; (sic)
+r) Peritos Médicos Legistas o Forenses; y
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+s) Las demás que sean necesarias.
 
 ###### ARTÍCULO 70.
 
@@ -1749,13 +1819,13 @@ d) Proponer los contenidos para la capacitación y actualización científica y 
 
 e) Resolver sobre la atención de los casos urgentes del servicio, así como sobre la suplencia de cualquiera de los peritos en los casos de enfermedad, licencia o vacaciones; y
 
-III (SIC). PSICOLOGÍA:
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+IV. PSICOLOGÍA:
 
 a) Supervisar que la realización de estudios y emisión de dictámenes sobre el estado mental, perfil psicológico, o capacidad intelectual de personas involucradas en la comisión de delitos, se lleven a efecto utilizando los métodos y técnicas que se requieran.
 
 COORDINACIÓN ESTATAL DE PLATAFORMA MÉXICO
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 71.
 
@@ -1763,7 +1833,9 @@ Al frente de esta Coordinación habrá un Coordinador, que estará adscrito a la
 
 I. Atender y operar el sistema de registro e identificación de delincuentes, en el que existan datos que permitan reconocerlos físicamente por alguno de los siguientes medios: huellas dactilares, voz, tatuajes, fotografía, retrato hablado, media filiación, complexión, modus operandi, armas utilizadas, apodos, nombres y características de sus cómplices, lugares o condiciones en las que actúa, domicilios que ha habitado o cualquier otro medio que auxilie para su captura;
 
-II. Obtener la información necesaria para determinar si un imputado cuenta con antecedentes penales o tiene pendientes de ejecutar en él órdenes de presentación, aprehensión o reaprehensión emanadas de autoridades judiciales estatales, federales o de otras entidades federativas;
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+II. Obtener la información necesaria para determinar si un imputado cuenta con antecedentes penales o tiene pendientes de ejecutar en él órdenes de presentación, aprehensión o reaprehensión emanadas de autoridades judiciales estatales, federales o de otras Entidades Federativas;
 
 III. Alimentar y operar los sistemas de información y estadística criminal, que permita evaluar las acciones y estrategias en materia de Procuración de Justicia y sirva de consulta permanente para la toma de decisiones;
 
@@ -1786,8 +1858,6 @@ IX (SIC). Las demás que le señalen otras disposiciones legales aplicables.
 ###### ARTÍCULO 72.
 
 Habrá tres Direcciones Regionales, con las siguientes denominaciones: Metropolitana, Oriente, Sur Poniente, teniendo cada una de las jurisdicciones que para las Subprocuradurías establece el artículo 13 de éste Reglamento. Tendrá bajo su adscripción las Unidades de Investigación policial adscritas a las Unidades Especializadas de Investigación.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2009 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 73.
 
@@ -1843,7 +1913,9 @@ XXIV. Rendir los informes previos y justificados en los juicios de amparo;
 
 XXV. Presentar las denuncias correspondientes respecto al robo, perdida o extravió del arma de fuego que tengan bajo resguardo, debiendo informar a la Coordinación General de la Policía Ministerial para los trámites legales correspondientes;
 
-XXVI. Avisar a la Coordinación General de la Policía Ministerial del siniestro que sufran las unidades oficiales asignadas al parque vehicular de la Policía Ministerial, para la continuación de los trámites legales correspondientes, y
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XXVI. Avisar a la Coordinación General de la Policía Ministerial del siniestro que sufran las unidades oficiales asignadas al parque vehicular de la Policía Ministerial, para la continuación de los trámites legales correspondientes; y
 
 XXVII. Las demás que le señalen las disposiciones legales aplicables.
 
