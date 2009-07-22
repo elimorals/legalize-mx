@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-colegio-de-bachilleres-de-tabasco-69792
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-20"
-last_updated: "1999-10-20"
+last_updated: "2009-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 20 de octubre de 1999.
 
@@ -61,6 +61,8 @@ El Colegio de Bachilleres de Tabasco es un Organismo Público Descentralizado de
 
 El control y la administración del COBATAB le corresponde a la Junta Directiva y al Director General, en términos de los artículos 18 y 24 de la Ley respectivamente.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 5.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las acciones de control y administración que le corresponden al COBATAB, éste contará en su estructura con las siguientes unidades administrativas:
@@ -81,13 +83,15 @@ VII.- Secretaria Técnica;
 
 VIII.- Unidad de Comunicación Social;
 
-IX.- Contraloría Interna;
+IX.- Unidad de Acceso a la Información;
 
-X.- Subdirección de Asuntos Jurídicos;
+X.- Unidad de Asuntos Jurídicos; y
 
-XI.- Coordinadores de Zona; y
+XI.- Supervisores de Zona.
 
-XII.- Las demás que se creen por necesidades del servicio de conformidad con la normatividad y de acuerdo al presupuesto autorizado.
+Las demás que se creen por necesidades del servicio de conformidad a la normatividad y de acuerdo al presupuesto autorizado.
+
+El COBATAB contará con una Contraloría Interna en los términos dispuestos por la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y con las atribuciones que el referido ordenamiento establece.
 
 ###### ARTICULO 6.
 
@@ -189,9 +193,13 @@ I.- Realizar la planeación, programación, coordinación, control y evaluación
 
 II.- Participar en los estudios de factibilidad para la apertura de nuevos planteles, así como la incorporación de planteles particulares;
 
-III.- Formular y promover las actividades para la actualización, capacitación y formación docente del COBATAB;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
 
-IV.- Proponer al Director General las acciones para fortalecer y mejorar el proceso de Enseñanza-Aprendizaje;
+III.- Formular y promover las actividades para la actualización, capacitación y formación del personal directivo, administrativo y docente del COBATAB;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+IV.- Proponer al Director General las acciones para fortalecer y mejorar el proceso de aprendizaje de los alumnos del COBATAB;
 
 V.- Verificar la selección del material pedagógico, bibliográfico y didáctico necesario para el desarrollo de los planes y programas de estudio;
 
@@ -199,11 +207,15 @@ VI.- Asesorar al personal directivo y docente, para fortalecer el trabajo acadé
 
 VII.- Realizar la revalidación y convalidación de planes y programas de estudios equivalentes;
 
-VIII.- Aplicar la normatividad de ingreso, promoción y prestaciones del personal docente: establecida por la Comisión Mixta de Ingreso y Promoción;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+VIII.- Aplicar la normatividad de ingreso, promoción y prestaciones del personal administrativo y docente; establecida por la Comisión Mixta de Ingreso, Promoción y Ascenso;
 
 IX.- Normar y coordinar el trabajo de las Academias y del Cuerpo Colegiado;
 
-X.- Establecer los mecanismos de vinculación con las instancias gubernamentales, privadas y sociales para fortalecer el proceso de Enseñanza-Aprendizaje;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+X.- Establecer los mecanismos de vinculación con las instancias gubernamentales, privadas y sociales para fortalecer el proceso educativo;
 
 XI.- Participar en la elaboración del calendario de actividades escolares;
 
@@ -231,9 +243,17 @@ VII.- Departamento de Orientación Educativa;
 
 VIII.- Departamento de Actividades Paraescolares;
 
-IX.- Departamento de Coordinación de Laboratorios; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
 
-X.- Departamento de Coordinación de Bibliotecas.
+IX.- Departamento de Coordinación de Laboratorios y Bibliotecas;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+X.- Departamento de Evaluación y Seguimiento; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2009)</small>
+
+XI.- Coordinación de los centros de Educación Media Superior a Distancia (EMSaD), Bachillerato Intercultural (B.I.) y Centro de Enseñanza Abierta (C.E.A.).
 
 ###### ARTICULO 14.
 
@@ -247,7 +267,9 @@ III.- Establecer y coordinar con las diferentes unidades administrativas de la I
 
 IV.- Aplicar la estructura orgánica autorizada para el COBATAB y verificar el cumplimiento de la normatividad vigente, para la administración de recursos humanos, financieros, materiales, servicios generales y de informática;
 
-V.- Dirigir y controlar el proceso de ingreso y promoción del personal del COBATAB;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+V.- Dirigir y controlar el proceso de ingreso, promoción y ascenso del personal del COBATAB;
 
 VI.- Dirigir y controlar el proceso para el pago de la remuneración del personal del COBATAB;
 
@@ -313,9 +335,7 @@ XV.- Supervisar que los subsidios autorizados por los Gobiernos federal y estata
 
 XVI.- Las demás que le señalen los ordenamientos legales aplicables y las que le encomiende el Director General.
 
-###### ARTICULO 17.
-
-Para el despacho de los asuntos de su competencia el Director de Planeación, Programación y Presupuesto, se auxiliará con las siguientes unidades administrativas:
+ARTICULO17.- Para el despacho de los asuntos de su competencia el Director de Planeación, Programación y Presupuesto, se auxiliará con las siguientes unidades administrativas:
 
 I.- Departamento de Control Presupuestal; y
 
@@ -347,7 +367,13 @@ IX.- Las demás que le señalen los ordenamientos legales y las que le encomiend
 
 Para el despacho de los asuntos de su competencia el Director de Recursos Financieros, se auxiliará con las siguientes unidades administrativas:
 
-I.- Departamento de Contabilidad; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+I.- Departamento de Contabilidad;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2009)</small>
+
+II.- Departamento de Ingresos; y
 
 II.- Departamento de Tesorería.
 
@@ -365,9 +391,21 @@ IV.- Aplicar los lineamientos normativos para el ingreso, permanencia y egreso d
 
 V.- Planear y coordinar la elaboración del calendario de actividades escolares del COBATAB;
 
-VI.- Certificar los documentos oficiales que acrediten los estudios realizados en los planteles oficiales e incorporados al COBATAB; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
 
-VII.- Las demás que le señalen otros ordenamientos legales y las que le encomiende el Director General.
+VI.- Certificar los documentos oficiales que acrediten los estudios realizados en los planteles oficiales e incorporados al COBATAB;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+VII.- El resguardo del archivo histórico académico-evaluativo;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2009)</small>
+
+VIII.- Diseñar y aplicar las medidas de seguridad a los formatos de certificados escolares y los sellos de autorización de todos los planteles; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2009)</small>
+
+IX.- Las demás que le señalen los ordenamientos legales y las que le encomiende el Director General.
 
 ###### ARTICULO 21.
 
@@ -385,7 +423,9 @@ IV.- Departamento de Supervisión y Asesoría.
 
 Corresponde al Secretario Técnico:
 
-I.- Realizar las acciones de coordinación y supervisión en las actividades del COBATAB;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+I.- Realizar las acciones de coordinación, concertación de conflictos en planteles y supervisión en las actividades del COBATAB;
 
 II.- Organizar y coordinar las reuniones del Consejo Consultivo;
 
@@ -393,13 +433,21 @@ III.- Establecer los mecanismos de vinculación con las instancias gubernamental
 
 IV.- Coordinar la participación de las asociaciones de padres de familia en sus actividades de integración, gestión y vinculación en apoyo a los planteles oficiales;
 
-V.- Vigilar el cumplimiento de la normatividad aplicable a los particulares que ofrezcan productos o servicios en las instalaciones del COBATAB;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+V.- Vigilar y supervisar el cumplimiento de la normatividad aplicable a los particulares que ofrezcan productos o servicios en las instalaciones del COBATAB;
 
 VI.- Coordinar la presentación del informe anual de las actividades del COBATAB;
 
-VII.- Vigilar el cumplimiento de la normatividad para la incorporación y permanencia de los planteles particulares; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+VII.- Vigilar y supervisar el cumplimiento de la normatividad para la incorporación y permanencia de los planteles particulares; y
 
 VIII.- Las demás que le señalen los ordenamientos legales y las que le encomiende el Director General.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2009)</small>
+
+ARTICULO 22 BIS.- Corresponde a la Unidad de Acceso a la Información, el ejercicio de las atribuciones que establece el artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
 ###### ARTICULO 23.
 
@@ -437,7 +485,9 @@ IV.- Participar y vigilar directamente, que las diversas unidades administrativa
 
 V.- Participar en la programación, presupuestación institucional y en la aplicación de normas en materia de contratación de deuda y manejo de fondos y valores;
 
-VI.- Vigilar que los servidores públicos del COBATAB cumplan oportunamente con sus diversas obligaciones ante la Secretaría de Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+VI.- Vigilar que los servidores públicos del COBATAB cumplan oportunamente con sus diversas obligaciones ante la Secretaría de Contraloría;
 
 VII.- Atender en coordinación con las unidades administrativas correspondientes los requerimientos que presenten las asociaciones de padres de familia en cada plantel del COBATAB;
 
@@ -453,9 +503,11 @@ Para el despacho de los asuntos de su competencia el Contralor Interno, se auxil
 
 I.- Departamento de Auditoría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 26.
 
-Corresponde a la Subdirección de Asuntos Jurídicos:
+Corresponde a la Unidad de Asuntos Jurídicos:
 
 I.- Representar al COBATAB ante toda clase de autoridades, mediante las acciones pertinentes, haciendo valer las defensas y oponiendo las excepciones procedentes de orden mercantil, civil, administrativo, laboral, fiscal, penal y constitucional, con todas las facultades generales y las que requieran cláusulas especiales en los términos que señala el artículo 2858 del Código Civil en vigor para los apoderados generales;
 
@@ -475,15 +527,35 @@ VIII.- Elaborar los informes previos y justificados en donde el Director General
 
 IX.- Representar al Director General en los juicios laborales ante el Tribunal de Conciliación y Arbitraje del Estado, así como en los juicios del Tribunal de lo Contencioso Administrativo del Estado de Tabasco;
 
-X.- Vigilar que el personal a su cargo cumpla eficientemente con sus funciones; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
 
-XI.- Las demás que le señalen los ordenamientos legales y las que le encomiende el Director General.
+X.- Vigilar que el personal a su cargo cumpla eficientemente con sus funciones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE JULIO DE 2009)</small>
+
+XI.- Certificar y cotejar las copias de los documentos que obren en los archivos del COBATAB;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2009)</small>
+
+XII.- Formar parte de la Comisión de Estudios Jurídicos del Gobierno del Estado presidida por la Consejería Jurídica del Poder Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2009)</small>
+
+XIII.- Establecer coordinación con la Consejería Jurídica del Poder Ejecutivo a fin de que el tratamiento de los asuntos jurídicos a cargo del COBATAB, sea congruente con el esquema general definido por la referida dependencia; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2009)</small>
+
+XIV.- Las demás que le señalen los ordenamientos legales y las que le encomiende el Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 27.
 
-Corresponde a los Coordinadores de Zona:
+Corresponde a los Supervisores de Zona:
 
-I.- Evaluar el funcionamiento de los planteles de zona correspondiente, en auxilio de la Dirección General;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+I.- Evaluar el funcionamiento de los planteles de zona correspondiente y dar seguimiento al programa de mejoramiento institucional, en representación de la Dirección General;
 
 II.- Ser el enlace entre el Director General y los planteles para apoyar las actividades académicas, administrativas y de difusión cultural, así como los trámites de organización y de administración escolar;
 
@@ -497,7 +569,9 @@ VI. - Participar en el logro de los objetivos y metas establecidas por el COBATA
 
 VII.- Las demás que le señalen los ordenamientos legales y las que le encomiende el Director General.
 
-### CAPITULO VI. DE LOS PLANTELES DEL COBATAB Y DE LOS DIRECTORES DE PLANTELES
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JULIO DE 2009)</small>
+
+### CAPITULO VI. DE LOS PLANTELES DEL COBATAB, DIRECTORES Y SUBDIRECTORES
 
 #### SECCION I. DE LOS PLANTELES DEL COBATAB
 
@@ -541,7 +615,9 @@ VII.- Ser de reconocida solvencia moral.
 
 Corresponde a los Directores de Planteles:
 
-I.- Planear, programar, dirigir, organizar, controlar y evaluar las actividades del plantel conforme a las políticas, objetivos y lineamientos establecidos;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+I.- Planear, programar, dirigir, organizar, controlar y evaluar las actividades del plantel conforme a las políticas, objetivos y lineamientos establecidos por el COBATAB;
 
 II.- Responsabilizarse de la representación del plantel a su cargo en el desempeño de todas las actividades relacionadas con sus funciones;
 
@@ -557,7 +633,9 @@ VII.- Proponer a la Dirección General las modificaciones a los sistemas y proce
 
 VIII.- Dirigir y controlar el desarrollo de los planes y programas de estudio, apoyos didácticos, proyectos académicos y técnicas para eficientar el proceso de enseñanza-aprendizaje;
 
-IX.- Evaluar el proceso Enseñanza-Aprendizaje aplicando los lineamientos metodológicos y técnicos establecidos;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+IX.- Evaluar el proceso aprendizaje, aplicando los lineamientos metodológicos y técnicos establecidos;
 
 X.- Promover y proponer el desarrollo de las actividades de vinculación del Plantel con el sector productivo de bienes y servicios;
 
@@ -569,27 +647,51 @@ XIII.- Promover la difusión de las normas y lineamientos que regulen el funcion
 
 XIV.- Formar parte del Consejo Consultivo de Directores, así como de las comisiones que se le asignen;
 
-XV.- Propiciar y promover la participación de las asociaciones de padres de familia, en apoyo a la superación de los educandos y el mejoramiento de las instalaciones de cada plantel;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+XV.- Propiciar y promover la participación de las asociaciones de padres de familia, en apoyo a la superación de los educandos del plantel;
 
 XVI.- Cumplir y hacer cumplir el calendario de actividades escolares del COBATAB; y
 
 XVII.- Las demás que le señalen los ordenamientos legales y las que le encomiende el Director General.
 
-#### SECCION I. DEL CENTRO DE ENSEÑANZA ABIERTA
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 22 DE JULIO DE 2009)</small>
+
+#### SECCION III. DE LOS SUBDIRECTORES DE LOS PLANTELES
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2009)</small>
+
+ARTICULO 33 BIS.- Corresponde a los Subdirectores de Planteles:
+
+I. Planear, programar, dirigir, supervisar y evaluar las actividades académicas del plantel conforme con el plan, programas de estudio y modalidad educativa establecida;
+
+II. Diseñar, coordinar y evaluar la implementación de estrategias para la mejora continua del plantel, en el marco del SISTEMA NACIONAL DE BACHILLERATO;
+
+III. Establecer los procesos académicos internos que aseguren el trabajo interdisciplinario para el logro de las competencias genéricas y las competencias disciplinares básicas;
+
+IV. Planear y coordinar acciones tendientes a impulsar la participación de los profesores en los procesos de formación y trabajo colegiado, para el desarrollo de las competencias docentes; y
+
+V. Las demás funciones que les designen los directores de plantel y las disposiciones legales aplicables.
 
 ### CAPITULO VII. DE LOS PADRES DE FAMILIA
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 34.
 
-Los padres de familia, tutores o quienes ejerzan la patria potestad, son los que tienen hijos o pupilos inscritos en el COBATAB siendo también los corresponsables de la educación y formación de los mismos.
+Los padres de familia, tutores o quienes ejerzan la patria potestad de los alumnos inscritos en el plantel, son corresponsables de la educación y formación de los mismos.
 
 ###### ARTICULO 35.
 
 Corresponde a los padres de familia:
 
-I.- Colaborar con el Plantel en el que esté inscrito su hijo o pupilo en las actividades que éste realiza;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
 
-II.- Apoyar el proceso educativo de sus hijos o pupilos; y
+I.- Colaborar con el Plantel en el que esté inscrito el alumno, en las actividades que éste realiza;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+II.- Apoyar el proceso educativo de los alumnos; y
 
 III.- Formar parte y colaborar con la asociación de padres de familia del Plantel.
 
@@ -637,7 +739,9 @@ Corresponde a los alumnos:
 
 I.- Abstenerse de intervenir en asuntos de carácter administrativo o de índole laboral del personal del COBATAB;
 
-II.- Observar estrictamente conductas propias dentro y fuera del plantel que enaltezcan la imagen del COBATAB; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+II.- Observar estrictamente conductas correctas dentro y fuera del plantel que enaltezcan la imagen del COBATAB; y
 
 III.- Cumplir los ordenamientos del Reglamento Escolar, así como las demás disposiciones aplicables.
 
@@ -695,7 +799,9 @@ III.- Consejeros que serán los presidentes estatales de las Academias.
 
 Corresponde al Cuerpo Colegiado:
 
-I.- Emitir opinión sobre los planes y programas académicos sometidos a su consideración;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
+I.- Presentar propuestas sobre los planes y programas académicos sometidos a su consideración;
 
 II.- Emitir opinión sobre los proyectos institucionales académicos y de vinculación con el sector productivo de bienes y servicios;
 
@@ -753,19 +859,23 @@ Para formar parte del personal docente del COBATAB se deberá poseer Titulo y c�
 
 Forman el personal administrativo del COBATAB, todos los servidores públicos que desempeñan tareas de este carácter en el mismo.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 53.
 
-Las relaciones de trabajo entre el COBATAB y su personal administrativo se regirán por la legislación laboral aplicable a los servidores públicos del Estado de Tabasco.
+Las relaciones de trabajo entre el COBATAB y su personal se regirán por la legislación laboral aplicable.
 
 ### CAPITULO XIV. DE LOS CENTROS DE ENSEÑANZA ABIERTA y DE LA REGULARIZACION ACADEMICA
 
-#### SECCION II. DE LA UNIDAD DE NIVELACION ACADEMICA
+#### SECCION I. DEL CENTRO DE ENSEÑANZA ABIERTA
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 54.
 
-El Centro de Enseñanza Abierta (C.E.A.), es un plantel en donde se imparte la modalidad no escolarizada diseñada para aquellas personas que no han cursado o concluido su bachillerato por diversas causas.
+El Centro de Enseñanza Abierta (C.E.A.), es un plantel en donde se imparte la modalidad no escolarizada diseñada para aquellas personas adultas, que no han cursado o concluido su bachillerato por diversas causas. El plan de estudios de esta modalidad tendrá la misma validez oficial que el escolarizado.
 
-El plan de estudios de esta modalidad es el mismo que el escolarizado, teniendo por lo tanto la misma validez oficial.
+#### SECCION II. DE LA UNIDAD DE NIVELACION ACADEMICA
 
 ###### ARTICULO 55.
 
@@ -798,3 +908,15 @@ SECRETARIA DE EDUCACION.
 ING. ERASMO MARTINEZ RODRIGUEZ
 
 DIRECTOR GENERAL DEL COLEGIO DE BACHILLERES DE TABASCO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos en trámite serán desahogados por las unidades administrativas a que este ordenamiento otorgue competencia.
