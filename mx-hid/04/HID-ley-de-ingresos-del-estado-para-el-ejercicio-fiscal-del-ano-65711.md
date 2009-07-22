@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-del-ano-657
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2009-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -177,13 +177,15 @@ VI.- EL ESTADO PERCIBIRÁ INGRESOS POR CONCEPTO DE PARTICIPACIONES Y FONDOS DE A
 
 Las Participaciones y Fondos de Aportaciones Federales se percibirán de acuerdo con las bases, cuotas y conductos que establezca la Ley de Coordinación Fiscal Federal, así como los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, el de Colaboración Administrativa en Materia Fiscal Federal y sus respectivos anexos, así como los demás que se suscriban para el efecto con la Federación.
 
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2009)</small>
+
 VII.- TODO LO ANTERIOR SIGNIFICA UN TOTAL ESTIMADO POR CONCEPTOS POR LAS SIGUIENTES CANTIDADES:
 
 Concepto Monto
 
 (miles de pesos)
 
-INGRESOS PROPIOS 783,502.2
+INGRESOS PROPIOS 2,283,502.2
 
 IMPUESTOS ESTATALES 543,883.6
 
@@ -246,6 +248,8 @@ Recargos 15,250.0
 Honorarios y Gastos de Ejecución 324.8
 
 Ingresos Extraordinarios 4,904.8
+
+Empréstitos 1,500´000.0
 
 PARTICIPACIONES FEDERALES 6,734,779.9
 
@@ -343,9 +347,7 @@ Fondo de Fiscalización 156,200.0
 
 INGRESOS EXTRAORDINARIOS 0
 
-Crédito 0
-
-T O T A L 21,224,411.5
+T O T A L 22,724,411.5
 
 ###### ARTÍCULO 2.
 
@@ -415,6 +417,14 @@ Lo establecido en los Artículos anteriores, se aplicará a los ingresos que por
 
 Las Entidades y Organismos a que se refiere el Artículo anterior y las empresas de Participación Estatal, deberán estar inscritas en el Registro Estatal correspondiente y llevar contabilidad de conformidad con las disposiciones fiscales, así como presentar las declaraciones e informes que correspondan en los términos de dichos ordenamientos.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2009)</small>
+
+###### ARTÍCULO 11.
+
+Los pagos del Estado por el nuevo empréstito quedan, englobados dentro de la provisión establecida en el Ramo 33 “Deuda Pública” del Anexo 1 del Decreto de Presupuesto de Egresos del Estado Libre y Soberano de Hidalgo correspondiente al Ejercicio Fiscal del año 2009.
+
+En caso de que el Congreso del Estado no apruebe un monto específico en el Presupuesto de Egresos del Estado Libre y Soberano de Hidalgo de cualquier Ejercicio Fiscal para tal efecto, o que no se expida el Presupuesto de Egresos del Estado Libre y Soberano de Hidalgo correspondiente, se entenderá que continuará vigente el monto aprobado en el año inmediato anterior.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO 1o.
@@ -454,3 +464,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JULIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
