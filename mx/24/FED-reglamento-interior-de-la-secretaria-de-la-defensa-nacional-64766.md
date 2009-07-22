@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-defensa-nacional-647
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-29"
-last_updated: "2008-12-29"
+last_updated: "2009-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-22"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA DEFENSA NACIONAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de diciembre de 2008.
 
@@ -199,7 +199,9 @@ VII. Refrendar, para su validez y observancia constitucionales, los reglamentos,
 
 VIII. Dar cuenta al Congreso de la Unión del estado que guardan la Secretaría y las entidades paraestatales del Sector Defensa, e informar siempre que sea requerido para ello por cualquiera de las Cámaras, cuando se discuta una ley o se estudie un asunto concerniente a sus actividades;
 
-IX. Representar al Presidente de la República en los juicios constitucionales en los términos que se establecen en la Ley de Amparo y en la Ley Orgánica de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2009)</small>
+
+IX. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 81 del presente Reglamento;
 
 X. Aprobar y expedir el Manual de Organización General de la Secretaría y las normas de organización y procedimientos internos que sean necesarias para el funcionamiento de la dependencia y no competan al Presidente de la República, y remitirlas para su publicación en el Diario Oficial de la Federación;
 
@@ -674,6 +676,8 @@ B. Proponer las bases técnicas para la adquisición de material aéreo electró
 ## TÍTULO CUARTO. De las Direcciones Generales de la Secretaría
 
 ### CAPÍTULO ÚNICO. De las Suplencias de los Servidores Públicos de la Secretaría
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. Funciones Genéricas
 
@@ -1703,9 +1707,11 @@ X. Promover e instrumentar la formación integral de los miembros del Ejército 
 
 La organización y funcionamiento de los Órganos del Fuero de Guerra se establecen en el Código de Justicia Militar, además de los reglamentos y manuales respectivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 80.
 
-La Procuraduría General de Justicia Militar es el consultor jurídico de la Secretaría en asuntos de la competencia de la misma, y le corresponden las atribuciones siguientes:
+El Procurador General de Justicia Militar es el consultor jurídico de la Secretaría en asuntos de la competencia de la misma, y le corresponden las atribuciones siguientes:
 
 I. Acordar con el General Secretario los asuntos a su cargo;
 
@@ -1715,7 +1721,17 @@ III. Someter a consideración del General Secretario las alternativas jurídicas
 
 IV. Coadyuvar con las autoridades correspondientes en los asuntos de orden jurídico de la Secretaría;
 
-V. Representar al General Secretario por sí o por medio de los agentes del ministerio público, en los asuntos en que sea parte o tenga interés jurídico;
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2009)</small>
+
+IV bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de la Defensa Nacional representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2009)</small>
+
+IV ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de la Defensa Nacional represente al Presidente de la República;
+
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2009)</small>
+
+V. Representar al General Secretario, al Subsecretario de la Defensa Nacional, al Oficial Mayor de la Secretaría y a cualquier otro servidor público de los Órganos Administrativos, con residencia en la Ciudad de México y zona metropolitana del Valle de México, en los juicios de amparo en los que sean parte;
 
 VI. Atender y dar seguimiento a los juicios de amparo, fiscales, agrarios o de cualquier otra naturaleza, en los cuales la Secretaría sea parte;
 
@@ -1727,9 +1743,7 @@ VIII. Intervenir en la elaboración de los proyectos de iniciativas de leyes o d
 
 ###### ARTÍCULO 81.
 
-El General Secretario será suplido en sus ausencias temporales por el Subsecretario y, a falta de éste, por el Oficial Mayor.
-
-En los juicios de amparo en que deba intervenir en representación del Presidente de la República o como titular de la Secretaría de la Defensa Nacional, será suplido indistintamente por el Subsecretario, el Oficial Mayor o el Procurador General de Justicia Militar.
+El General Secretario será suplido en sus ausencias por el Subsecretario y, a falta de éste, por el Oficial Mayor.
 
 ###### ARTÍCULO 82.
 
@@ -1764,3 +1778,9 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Defensa Nacio
 TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente ordenamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de la Defensa Nacional, Guillermo Galván Galván.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE JULIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
