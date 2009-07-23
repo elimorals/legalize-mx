@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-462
 country: "mx"
 rank: "otro"
 publication_date: "1995-03-13"
-last_updated: "2009-07-08"
+last_updated: "2009-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,143 +19,311 @@ issue_date: "1995-03-03"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 1994)
 
-RESOLUCION QUE MODIFICA A LA DIVERSA QUE ESTABLECE LAS REGLAS DE CARACTER GENERAL RELATIVAS A LA APLICACION DE LAS DISPOSICIONES EN MATERIA ADUANERA DEL TRATADO DE LIBRE COMERCIO CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
+DECRETO QUE MODIFICA LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS DE LIBRE COMERCIO Y LOS DIVERSOS PARA LA APLICACION DE ALGUNOS ACUERDOS CELEBRADOS POR MEXICO EN EL MARCO DEL TRATADO DE MONTEVIDEO 1980
 
-Resolución publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 8 de julio de 2009.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de julio de 2009.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-La Secretaría de Hacienda y Crédito Público, con fundamento en los artículos 16 y 31 de la Ley Orgánica de la Administración Pública Federal; 1o. y 144 fracciones XXIII y XXV de la Ley Aduanera, y 4o. y 6o. fracción XXXIV del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de las facultades que me confieren los artículos 89, fracción I y 131 de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el Decreto de promulgación del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela se publicó en el Diario Oficial de la Federación el 9 de enero de 1995;
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación, cuya Tarifa ha sido modificada por los diversos dados a conocer el 30 de junio y el 27 de diciembre de 2007, y el 27 de mayo, 24 de octubre y 16 y 24 de diciembre de 2008 con objeto de crear, modificar y suprimir algunas fracciones y tasas arancelarias, y
 
-Que el 13 de marzo de 1995, se publicó en el Diario Oficial de la Federación la Resolución que establece las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, la cual fue reformada mediante las diversas dadas a conocer en ese mismo órgano de difusión el 8 de junio de 2004 y el 17 de noviembre de 2006;
+Que resulta necesario reflejar las modificaciones que ha tenido la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en los Decretos que establecen la Tasa Aplicable del Impuesto General de Importación para las mercancías originarias de algunos países con los que México ha celebrado Tratados de Libre Comercio y los Decretos para la aplicación de algunos Acuerdos celebrados por México en el marco del Tratado de Montevideo 1980, he tenido a bien expedir el siguiente
 
-Que el 13 de abril de 2009, la Comisión Administradora del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, de conformidad con las facultades que le confiere el artículo 20-01 del citado Tratado, en relación con lo establecido en el artículo 7-02, párrafo 1 del propio Tratado, adoptó la Decisión No. 53 Certificación de Origen, mediante la cual se determinó adoptar el Procedimiento General para el Envío y Recepción de Certificados de Origen Digitales, y
+DECRETO
 
-Que derivado de la actualización de diversas disposiciones resulta necesario adecuar la Resolución indicada en el considerando segundo, para que sus reglas sean acordes con la normatividad aplicable al comercio exterior, ha tenido a bien expedir la
+###### ARTÍCULO 1.
 
-RESOLUCION QUE MODIFICA A LA DIVERSA QUE ESTABLECE LAS REGLAS DE CARACTER GENERAL RELATIVAS A LA APLICACION DE LAS DISPOSICIONES EN MATERIA ADUANERA DEL TRATADO DE LIBRE COMERCIO CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
-
-Unico. Se REFORMAN las reglas 5; 9, fracciones II y III; 12; 15 y 32 de la Resolución que establece las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, publicada en el Diario Oficial de la Federación el 13 de marzo de 1995, reformada mediante las diversas publicadas en ese mismo órgano de difusión el 8 de junio de 2004 y el 17 de noviembre de 2006, para quedar como sigue:
-
-“5.- Para los efectos de lo dispuesto en el artículo 7-02(1) y (2) del Tratado, el certificado de origen que ampare un bien que se importe bajo trato arancelario preferencial, deberá verificarse vía electrónica mediante enlace seguro vía web, en el formato que se incluye en la Resolución por la que se dan a conocer los formatos de certificado y declaración de origen.
-
-El certificado de origen a que hace referencia la presente regla deberá ser llenado en las páginas web www.economia.gob.mx o www.siicex.gob.mx por el exportador del bien, de acuerdo con lo dispuesto en su instructivo de llenado, contenido en la Resolución por la que se dan a conocer los formatos de certificado y declaración de origen, en las disposiciones aplicables del Tratado, así como en la presente Resolución, y deberá ser validado y expedido de manera electrónica por la autoridad competente de la Parte exportadora, debiendo para tales efectos incluir su firma digital al igual que el exportador.
-
-9.- ……………………………………………………………………………….
-
-II.- Deberán tener en su poder el número que ampare el certificado de origen válido al momento de efectuar la importación.
-
-III.- Deberán proporcionar a la autoridad aduanera, cuando ésta así lo requiera y en los plazos previstos en el artículo 53 del Código Fiscal de la Federación, el número que ampare el certificado de origen válido.
-
-……………………………………………………………………………………
-
-12.- De conformidad con lo dispuesto en el artículo 7-04 (1) del Tratado, cualquier exportador o productor en territorio nacional, que haya llenado un certificado de origen o una declaración de origen, deberá entregar a la autoridad aduanera, cuando ésta así lo requiera y en los plazos previstos en el artículo 53 del Código Fiscal de la Federación, el número que ampare el certificado de origen válido o copia de la declaración de origen.
-
-15.- De conformidad con lo dispuesto en el artículo 7-06 (3) del Tratado, quienes importen bienes bajo trato arancelario preferencial, deberán conservar el número que ampare el certificado de origen válido, así como la documentación relativa a la importación, en los términos del artículo 30 del Código Fiscal de la Federación.
-
-32.- Para los efectos de lo dispuesto en el artículo 7-08 (2) del Tratado, en contra de las resoluciones de determinación de origen, los criterios anticipados y la modificación o revocación a estos últimos, procederán los siguientes medios de impugnación:
-
-I.- El recurso de revocación previsto en el Título V del Código Fiscal de la Federación.
-
-II.- El juicio contencioso administrativo federal previsto en el Título I de la Ley Federal de Procedimiento Contencioso Administrativo.
-
-III.- El juicio de amparo, previsto en la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.”
-
-###### ARTICULO 1.
-
-El cupo mínimo para internar durante los años 2009 y 2010, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, con el arancel preferencial establecido en el artículo 4-02, párrafo 1, inciso a) de la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 13 de enero de 2006; es el que se especifica a continuación:
+Se eliminan y adicionan al artículo 4 del Decreto por el que se establece la Tasa aplicable a partir del 1 de julio de 2007 del Impuesto General de Importación para las mercancías originarias de la República de Nicaragua, publicado en el Diario Oficial de la Federación el 30 de junio de 2007 y su modificación publicada en el mismo órgano informativo el 14 de agosto de 2008, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTICULO 2.
+###### ARTÍCULO 2.
 
-De conformidad con lo dispuesto en los artículos 24 segundo párrafo de la Ley de Comercio Exterior y 31 de su Reglamento, y con objeto de promover las corrientes comerciales entre los Estados Unidos Mexicanos y la República de Colombia y cumplir con lo establecido en el artículo 4-06, párrafo 3, de la Decisión 42 de la Comisión Administradora del Tratado, al cupo a que se refiere el presente Acuerdo se aplicará el mecanismo de asignación directa.
+Se eliminan y adicionan al artículo 3 del Decreto por el que se establece la Tasa aplicable a partir del 19 de noviembre de 2006 del Impuesto General de Importación para las mercancías originarias de la República de Colombia, publicado en el Diario Oficial de la Federación el 17 de noviembre de 2006 y su modificación publicada en el mismo órgano informativo el 30 de junio de 2007, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
 
-###### ARTICULO 3.
+Fracción Descripción
 
-Podrán solicitar asignación del cupo a que se refiere el presente Acuerdo, las personas morales establecidas en los Estados Unidos Mexicanos, que cuenten con Registro de Empresa Productora de Vehículos Automotores Ligeros Nuevos expedido por la Secretaría de Economía. La asignación del cupo será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía.
+8701.20.02 Usados.
 
-###### ARTICULO 4.
+8702.10.05 Usados.
 
-El cupo para cada año se asignará en dos etapas, de conformidad con lo siguiente:
+8702.90.06 Usados, excepto lo comprendido en la fracción
 
-I. Primera etapa. La asignación por empresa se calculará como la cantidad menor entre las siguientes dos cantidades 1) el monto solicitado multiplicado por 0.5, o 2) la suma de su participación en el volumen de exportación total de las empresas solicitantes de vehículos automotores ligeros a la República de Colombia ponderada por 0.75 más su participación en el volumen de producción nacional de vehículos automotores ligeros de las empresas solicitantes ponderada por 0.25, multiplicada por el 50% del monto del cupo total del año que corresponda, de conformidad con la siguiente fórmula:
+8702.90.01.
+
+8703.21.02 Usados, excepto lo comprendido en la fracción
+
+8703.21.01.
+
+8703.22.02 Usados.
+
+8703.23.02 Usados.
+
+8703.24.02 Usados.
+
+8703.31.02 Usados.
+
+8703.32.02 Usados.
+
+8703.33.02 Usados.
+
+8703.90.02 Usados, excepto lo comprendido en la fracción
+
+8703.90.01.
+
+8704.21.04 Usados, excepto lo comprendido en la fracción
+
+8704.21.01.
+
+8704.22.07 Usados, excepto lo comprendido en la fracción
+
+8704.22.01.
+
+8704.23.02 Usados, excepto lo comprendido en la fracción
+
+8704.23.01.
+
+8704.31.04 ELIMINADA
+
+8704.31.05 Usados, excepto lo comprendido en las fracciones
+
+8704.31.01 y 8704.31.02.
+
+8704.32.07 Usados, excepto lo comprendido en la fracción
+
+8704.32.01.
+
+8705.40.02 Usados.
+
+###### ARTÍCULO 3.
+
+Se derogan los artículos 8, 9 y 10 del Decreto que se señala en el artículo 2 del presente ordenamiento.
+
+###### ARTÍCULO 4.
+
+Se modifican, eliminan y adicionan al artículo 3 del Decreto por el que se establece la Tasa Aplicable del Impuesto General de Importación para las mercancías originarias de la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 19 de julio de 2004 y sus modificaciones publicadas en el mismo órgano informativo el 5 de septiembre y 27 de noviembre de 2006, 30 de junio de 2007 y 13 de mayo de 2008, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
+
+Fracción Descripción
+
+8701.20.01 Tractores de carretera para semirremolques,
+
+excepto lo comprendido en la fracción
+
+8701.20.02.
+
+8701.20.02 Usados
+
+8702.10.01 Con carrocería montada sobre chasis, excepto
+
+lo comprendido en las fracciones 8702.10.03 y
+
+8702.10.05.
+
+8702.10.02 Con carrocería integral, excepto lo comprendido
+
+en las fracciones 8702.10.04 y 8702.10.05.
+
+8702.10.03 Para el transporte de 16 o más personas,
+
+incluyendo el conductor, con carrocería montada
+
+sobre chasis, excepto lo comprendido en la
+
+fracción 8702.10.05
+
+8702.10.04 Para el transporte de 16 o más personas,
+
+incluyendo el conductor, con carrocería integral,
+
+excepto lo comprendido en la fracción 8702.10.05.
+
+8702.10.05 Usados.
+
+8702.90.02 Con carrocería montada sobre chasis, excepto
+
+lo comprendido en las fracciones 8702.90.04 y
+
+8702.90.06.
+
+8702.90.03 Con carrocería integral, excepto lo comprendido
+
+en las fracciones 8702.90.05 y 8702.90.06.
+
+8702.90.04 Para el transporte de 16 o más personas, incluyendo
+
+el conductor, con carrocería montada sobre chasis,
+
+excepto lo comprendido en la fracción 8702.90.06.
+
+8702.90.06 Usados, excepto lo comprendido en la fracción
+
+8702.90.01.
+
+8704.22.02 De peso total con carga máxima superior o igual
+
+a 5,000 kg, pero inferior o igual a 6,351 kg,
+
+excepto lo comprendido en la fracción 8704.22.07.
+
+8704.22.03 De peso total con carga máxima superior a
+
+6,351 kg, pero inferior o igual a 7,257 kg, excepto
+
+lo comprendido en la fracción 8704.22.07.
+
+8704.22.05 De peso total con carga máxima superior a
+
+8,845 kg, pero inferior o igual a 11,793 kg,
+
+excepto lo comprendido en la fracción
+
+8704.22.07.
+
+8704.22.06 De peso total con carga máxima superior a
+
+11,793 kg, pero inferior o igual a 14,968 kg,
+
+excepto lo comprendido en la fracción
+
+8704.22.07.
+
+8704.22.07 Usados, excepto lo comprendido en la fracción
+
+8704.22.01.
+
+8704.23.02 Usados, excepto lo comprendido en la fracción
+
+8704.23.01.
+
+8704.31.03 De peso total con carga máxima superior a
+
+2,721 kg, pero inferior o igual a 4,536 kg,
+
+excepto lo comprendido en la fracción
+
+8704.31.05.
+
+8704.31.04 ELIMINADA
+
+8704.31.05 Usados, excepto lo comprendido en las fracciones
+
+8704.31.01 y 8704.31.02.
+
+8704.32.02 De peso total con carga máxima superior o igual
+
+a 5,000 kg, pero inferior o igual a 6,351 kg,
+
+excepto lo comprendido en la fracción
+
+8704.32.07.
+
+8704.32.03 De peso total con carga máxima superior a
+
+6,351 kg, pero inferior o igual a 7,257 kg,
+
+excepto lo comprendido en la fracción
+
+8704.32.07.
+
+8704.32.04 De peso total con carga máxima superior a
+
+7,257 kg, pero inferior o igual a 8,845 kg,
+
+excepto lo comprendido en la fracción
+
+8704.32.07.
+
+8704.32.05 De peso total con carga máxima superior a
+
+8,845 kg, pero inferior o igual a 11,793 kg,
+
+excepto lo comprendido en la fracción
+
+8704.32.07
+
+8704.32.06 De peso total con carga máxima superior a
+
+11,793 kg, pero inferior o igual a 14,968 kg,
+
+excepto lo comprendido en la fracción
+
+8704.32.07.
+
+8704.32.07 Usados, excepto lo comprendido en la fracción
+
+8704.32.01.
+
+8705.40.01 Camiones hormigonera, excepto lo comprendido
+
+en la fracción 8705.40.02.
+
+8705.40.02 Usados.
+
+###### ARTÍCULO 5.
+
+Se modifican y adicionan al artículo 10 del Decreto que se señala en el artículo 4 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
 
 (VEASE ARCHIVO ANEXO)
 
-La información de exportación total a la República de Colombia de vehículos automotores ligeros por empresa, será la que proporcione la Administración General de Aduanas a la Dirección General de Comercio Exterior de la Secretaría de Economía, y la información de producción de vehículos automotores ligeros por empresa, será la pública disponible que integrará la Dirección General de Industrias Pesadas y de Alta Tecnología y que enviará a la Dirección General de Comercio Exterior.
+###### ARTÍCULO 6.
 
-El periodo t para la información anterior será el siguiente: a) para el cupo de 2009, de diciembre de 2007 a noviembre de 2008; y b) para el cupo de 2010, de diciembre de 2008 a noviembre de 2009.
+Se modifican y adicionan a la Tabla del artículo primero del Decreto para la aplicación del Apéndice I, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 22 de agosto de 2007, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
 
-Los certificados de cupo de la primera etapa tendrán vigencia al 31 de diciembre del año en que sean expedidos y será improrrogable. La recepción de solicitudes para la primera etapa de 2009 será durante los 5 días hábiles siguientes a la entrada en vigor de este Acuerdo; en el caso de la asignación de 2010, el periodo de recepción de solicitudes será durante los primeros 5 días hábiles de dicho año.
-
-II. Segunda etapa: A la asignación de la segunda etapa sólo podrán acceder aquellas empresas que al 31 de mayo de cada año, hayan ejercido por lo menos el 50% de su asignación de la primera etapa.
-
-La asignación por empresa se calculará como la suma de su participación en el volumen de exportación total de las empresas solicitantes de vehículos automotores ligeros a la República de Colombia ponderada por 0.75 más su participación en el volumen de producción nacional de vehículos automotores ligeros ponderada por 0.25, multiplicada por el 50% del monto del cupo total del año que corresponda más los saldos no asignados del cupo de la primera etapa en caso de existir. Lo anterior de conformidad con la siguiente fórmula:
+TABLA DE LOS PRODUCTOS COMPRENDIDOS EN EL APÉNDICE I DEL ACE No. 55
 
 (VEASE ARCHIVO ANEXO)
 
-La información de exportación total a la República de Colombia de vehículos automotores ligeros por empresa, será la que proporcione la Administración General de Aduanas a la Dirección General de Comercio Exterior de la Secretaría de Economía, y la información de producción de vehículos automotores ligeros por empresa, será la pública disponible que integrará la Dirección General de Industrias Pesadas y de Alta Tecnología y que enviará a la Dirección General de Comercio Exterior.
+###### ARTÍCULO 7.
 
-El periodo t para la información anterior será el siguiente: a) para la segunda etapa de 2009, de diciembre de 2008 a mayo de 2009; y, b) para la segunda etapa de 2010, de diciembre de 2009 a mayo de 2010.
+Se modifican y adicionan a la Tabla del artículo primero del Decreto para la aplicación del Apéndice II, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 23 de agosto de 2007 y modificado mediante Decreto publicado en el mismo órgano informativo el 26 de febrero de 2009, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
 
-Los certificados de cupo de la segunda etapa tendrán vigencia al 31 de diciembre del año en que sean expedidos y será improrrogable. La recepción de solicitudes para la segunda etapa de 2009 será del 9 al 15 de junio de dicho año, mientras que para la segunda etapa de 2010 será del 10 al 16 de junio de ese mismo año.
+TABLA DE PRODUCTOS COMPRENDIDOS EN EL APÉNDICE II DEL ACE No. 55, DEL SECTOR AUTOMOTOR ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPÚBLICA FEDERATIVA DEL BRASIL
 
-###### ARTICULO 5.
-
-Los interesados podrán presentar en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que le corresponda, las solicitudes de asignación y expedición de manera simultánea. Para ello deberán utilizar los formatos SE-03-011-1 “Solicitud de Asignación de Cupo” y SE-03-013-5 “Solicitud de Certificados de Cupo (obtenido por asignación directa)”, sin requisitar el campo referente a “número de oficio de asignación de cupo”, acompañando escrito libre en papel membretado de la empresa en el que señale la razón social y domicilio del importador en la República de Colombia.
-
-La Dirección General de Comercio Exterior de la Secretaría emitirá, en su caso, el oficio de asignación y la representación federal de la Secretaría que corresponda expedirá el certificado de cupo, ambos dentro de los diez días hábiles, contados a partir del día hábil siguiente a la fecha de recepción de las solicitudes debidamente requisitadas.
-
-El certificado de cupo es nominativo e intransferible.
-
-###### ARTICULO 6.
-
-Para la aplicación general de los criterios que se mencionan en el presente Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Pesadas y de Alta Tecnología.
-
-###### ARTICULO 7.
-
-Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
-
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 8.
 
-La importación de mercancías originarias, provenientes de Colombia, comprendidas en las fracciones arancelarias identificadas en este artículo, estará sujeta a la preferencia arancelaria que se establece a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica:
+Se modifican de la Tabla del artículo primero del Decreto para la aplicación del Apéndice IV, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 23 de agosto de 2007, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
+
+TABLA DE LOS PRODUCTOS COMPRENDIDOS EN LOS NUMERALES I.1 Y I.2 DEL ANEXO I DEL PRIMER PROTOCOLO ADICIONAL AL APÉNDICE IV DEL ACE No. 55
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 9.
 
-La importación de mercancías originarias, provenientes de Venezuela, comprendidas en las fracciones arancelarias identificadas en este artículo, estará sujeta a la preferencia arancelaria que se establece a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica:
+Se modifican y adicionan a la Tabla del artículo segundo del Decreto que se señala en el artículo 8 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que le corresponde:
+
+TABLA DE LOS PRODUCTOS COMPRENDIDOS EN LOS NUMERALES I.3 DEL ANEXO I Y EL ANEXO II, DEL PRIMER PROTOCOLO ADICIONAL AL APÉNDICE IV DEL ACE No. 55
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 10.
 
-La importación de mercancías originarias, provenientes de Venezuela, comprendidas en las fracciones arancelarias identificadas en este artículo, estará sujeta al arancel preferencial que se establece a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica:
+Se adicionan a la Tabla del artículo único del Decreto para la aplicación del Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador, publicado en el Diario Oficial de la Federación el 16 de noviembre de 2007, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
+
+Tabla de los productos incluidos en la nómina de apertura de mercados a favor de Ecuador, del Acuerdo Regional No. 2 de la Asociación Latinoamericana de Integración, que están exentos del pago de los aranceles de importación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 11.
 
-La importación de mercancías originarias, provenientes de Colombia o de Venezuela, comprendidas en las fracciones arancelarias identificadas en este artículo, estará sujeta al arancel preferencial señalado a continuación para cada una de ellas, del 1 de enero al 31 de diciembre de cada año indicado y estará exenta de arancel a partir del 1 de enero de 2007:
+Se modifican y adicionan a la Tabla del artículo único del Decreto para la aplicación del Acuerdo de Alcance Parcial No. 29, suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República del Ecuador, publicado en el Diario Oficial de la Federación el 27 de diciembre de 2007, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
+
+Tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos en el Acuerdo de Alcance Parcial No. 29
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 12.
 
-La importación de mercancías provenientes de Venezuela, comprendidas en los capítulos 50 a 63 de la Tarifa, recibirán una preferencia arancelaria de 28%, respecto a la tasa arancelaria prevista en el artículo 1 de la LIGIE, siempre que las mercancías sean originarias de Venezuela, de conformidad con lo establecido en la Resolución 252 de la ALADI, excepto las fracciones correspondientes a estos capítulos que se señalan en el artículo 9 de este Decreto.
+Se modifican de la Tabla del artículo primero del Decreto para la aplicación del Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, publicado en el Diario Oficial de la Federación el 20 de mayo de 2008, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
+
+Tabla de preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República Federativa del Brasil en el Acuerdo de Complementación Económica No. 53
+
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO UNICO.
 
@@ -593,14 +761,26 @@ o cableados: De poliéster.
 
 3. Poliéster Catiónico 100% rígido,
 
-## Transitorios
+## TRANSITORIOS
 
-Primero.- La presente Resolución entrará en vigor el 8 de julio de 2009.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-Segundo.- Para los efectos de lo dispuesto en la regla 5 que se modifica mediante la presente Resolución, en cumplimiento a la Decisión No. 53 Certificación de Origen, suscrita el 13 de abril de 2009 por la Comisión Administradora del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela el exportador podrá, hasta el 13 de julio de 2010, expedir los certificados de origen en papel y con firmas autógrafas, o bien, solicitar a la autoridad competente la validación y expedición de manera electrónica sin firmas, con la asignación de un número único de aprobación emitido al exportador por dicha autoridad, en cuyo caso, el exportador deberá remitir al importador del país de destino el número único de aprobación para que lo suministre a la aduana correspondiente para la verificación del certificado de origen.
+SEGUNDO.- Las preferencias arancelarias establecidas en los artículos 10, 11 y 12 del presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del 1 de julio de 2007.
 
-Para el caso de que el exportador opte por alguno de los supuestos indicados en el párrafo anterior, cuando la Resolución que establece las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela haga referencia al número de certificado, se entenderá como tal el certificado de origen en papel con firmas autógrafas, o bien, al número único de aprobación, según sea el caso. La autoridad aduanera deberá recibir los certificados de origen en papel y con firmas autógrafas o expedidos de manera electrónica con la asignación de un número único de aprobación siempre que hayan sido expedidos antes del 13 de julio de 2010.
+TERCERO.- Las preferencias arancelarias establecidas en los siguientes artículos del presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del 1 de enero de 2009:
 
-Atentamente
+I. Artículos 1, 2, 4 y 8.
 
-México, D.F., a 2 de julio de 2009.- En ausencia del Secretario de Hacienda y Crédito Público y del Subsecretario del Ramo y con fundamento en el artículo 105 del Reglamento Interior de esta Secretaría, el Subsecretario de Ingresos, José Antonio Meade Kuribreña.- Rúbrica.
+II. Artículo 6, únicamente para las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación: 8702.10.01, 8702.10.02, 8702.10.03, 8702.10.04, 8702.90.02, 8702.90.03, 8702.90.04, 8702.90.05, 8703.22.01, 8703.23.01, 8703.24.01, 8703.31.01, 8703.32.01, 8703.33.01, 8704.21.02, 8704.21.03, 8704.22.02, 8704.22.03, 8704.22.04, 8704.31.03, 8704.32.02, 8704.32.03 y 8704.32.04.
+
+III. Artículo 7, únicamente para las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación: 8703.22.01, 8703.23.01, 8703.24.01, 8703.31.01, 8703.32.01, 8703.33.01, 8704.21.02, 8704.21.03, 8704.22.02, 8704.22.03, 8704.22.04, 8704.31.03, 8704.32.02, 8704.32.03 y 8704.32.04.
+
+CUARTO.- Las preferencias arancelarias establecidas en los siguientes artículos del presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del 2 de enero de 2009:
+
+I. Artículos 5 y 9.
+
+II. Artículo 6, únicamente para las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación: 4012.90.03, 8701.90.01 y 8701.90.08.
+
+III. Artículo 7, únicamente para las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación: 8701.90.01 y 8701.90.08.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de julio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
