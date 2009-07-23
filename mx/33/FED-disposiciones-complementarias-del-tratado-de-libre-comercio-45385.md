@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-453
 country: "mx"
 rank: "otro"
 publication_date: "2004-07-19"
-last_updated: "2008-05-13"
+last_updated: "2009-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45385&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,216 +18,332 @@ issue_date: "2004-04-14"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA ORIENTAL DEL URUGUAY, 2003)
 
-DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA ORIENTAL DEL URUGUAY
+DECRETO QUE MODIFICA LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS DE LIBRE COMERCIO Y LOS DIVERSOS PARA LA APLICACION DE ALGUNOS ACUERDOS CELEBRADOS POR MEXICO EN EL MARCO DEL TRATADO DE MONTEVIDEO 1980
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de mayo de 2008.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de julio de 2009.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de las facultades que me confieren los artículos 89, fracción I y 131 de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay (Tratado) fue aprobado por el Senado de la República el 28 de abril de 2004, y promulgado mediante Decreto publicado en el Diario Oficial de la Federación el 14 de julio de 2004;
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación, cuya Tarifa ha sido modificada por los diversos dados a conocer el 30 de junio y el 27 de diciembre de 2007, y el 27 de mayo, 24 de octubre y 16 y 24 de diciembre de 2008 con objeto de crear, modificar y suprimir algunas fracciones y tasas arancelarias, y
 
-Que en el Tratado se establecieron condiciones para la eliminación de aranceles aduaneros para el comercio de mercancías originarias entre ambas Partes, con reglas de origen y mecanismos específicos para definir tales mercancías;
-
-Que con el fin de facilitar el despacho aduanero de las mercancías conforme a las tasas preferenciales establecidas en el Tratado, el 19 de julio de 2004 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable del Impuesto General de Importación para las mercancías originarias de la República Oriental del Uruguay, modificado por los diversos dados a conocer en el mismo órgano de difusión el 5 de septiembre y 27 de noviembre de 2006 y el 30 de junio de 2007;
-
-Que el 1 de agosto de 2005, la Secretaría General de la Asociación Latinoamericana de Integración (ALADI) expidió el Acta de Rectificación al Acuerdo de Complementación Económica No. 60 suscrito entre México y Uruguay (Tratado de Libre Comercio), por la que se corrigieron los errores detectados por las Partes y la propia Secretaría General de la ALADI al citado instrumento, misma que fue aprobada por el Senado de la República el 26 de abril de 2007, según Decreto publicado en el Diario Oficial de la Federación el 19 de junio de 2007, y
-
-Que resulta necesario ajustar el Decreto mencionado en el tercer considerando para reflejar dichas modificaciones y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
+Que resulta necesario reflejar las modificaciones que ha tenido la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en los Decretos que establecen la Tasa Aplicable del Impuesto General de Importación para las mercancías originarias de algunos países con los que México ha celebrado Tratados de Libre Comercio y los Decretos para la aplicación de algunos Acuerdos celebrados por México en el marco del Tratado de Montevideo 1980, he tenido a bien expedir el siguiente
 
 DECRETO
 
 ###### ARTÍCULO 1.
 
-Se modifica el texto de la descripción de la fracción arancelaria 0406.90.04 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, contenida en el ARTÍCULO 3 del Decreto por el que se establece la Tasa Aplicable del Impuesto General de Importación, para las mercancías originarias de la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 19 de julio de 2004, y sus reformas, para quedar como sigue:
-
-Fracción Descripción
-
-0406.90.04 Duros o semiduros con un contenido en
-
-peso de materias grasas inferior o igual
-
-al 40%: únicamente Grana o
-
-Parmegiano-reggiano, con un contenido
-
-en peso de agua, en la materia no grasa,
-
-inferior o igual al 47%; únicamente Danbo,
-
-Edam, Fontal, Fontina, Fynbo, Gouda, Havarti,
-
-Maribo, Samsoe, Esrom, Itálico, Kernhem,
-
-Saint-Nectaire, Saint-Paulin o Taleggio,
-
-con un contenido en peso de agua, en la
-
-materia no grasa, superior al 47% sin exceder
-
-de 72%.
-
-###### ARTÍCULO 2.
-
-Se eliminan del ARTÍCULO 9 del Decreto señalado en el ARTÍCULO 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponda según su numeración:
-
-Fracción Preferencia arancelaria
-
-0306.11.01 ELIMINADA.
-
-0306.12.01 ELIMINADA.
-
-0306.13.01 ELIMINADA.
-
-0306.14.01 ELIMINADA.
-
-0306.21.01 ELIMINADA.
-
-0306.22.01 ELIMINADA.
-
-0306.23.01 ELIMINADA.
-
-0306.23.99 ELIMINADA.
-
-0306.24.01 ELIMINADA.
-
-8701.90.01 ELIMINADA.
-
-8701.90.05 ELIMINADA.
-
-###### ARTÍCULO 3.
-
-Se substituye la palabra “vieras” por “vieiras” del texto de la descripción de la modalidad de la mercancía de la fracción arancelaria 0307.29.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación contenida en el ARTÍCULO 9 del Decreto señalado en el ARTÍCULO 1 del presente ordenamiento, para quedar como sigue:
-
-Fracción Preferencia Modalidad de la mercancía
-
-arancelaria
-
-0307.29.99 100 Vieiras naturales congeladas.
-
-###### ARTÍCULO 4.
-
-Se adicionan al ARTÍCULO 10 del Decreto que se señala en el ARTÍCULO 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponda según su numeración:
-
-Fracción Descripción Preferencia
-
-Arancelaria
-
-8701.90.01 Tractores de ruedas con toma 28%
-
-de fuerza o enganche de tres
-
-puntos, para acoplamiento de
-
-implementos agrícolas, excepto
-
-lo comprendido en las fracciones
-
-8701.90.03, 8701.90.05 y
-
-8701.90.06.
-
-8701.90.05 Tractores de ruedas con toma 28%
-
-de fuerza o enganche de tres puntos,
-
-para acoplamiento de implementos
-
-agrícolas, con potencia igual o superior
-
-a 140 H.P. pero inferior o igual a
-
-180 H.P., transmisión manual y tablero
-
-de instrumentos analógico, excepto lo
-
-comprendido en la fracción 8701.90.03.
-
-###### ARTÍCULO 5.
-
-Se actualizan en el ARTÍCULO 10 del Decreto que se señala en el Artículo 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+Se eliminan y adicionan al artículo 4 del Decreto por el que se establece la Tasa aplicable a partir del 1 de julio de 2007 del Impuesto General de Importación para las mercancías originarias de la República de Nicaragua, publicado en el Diario Oficial de la Federación el 30 de junio de 2007 y su modificación publicada en el mismo órgano informativo el 14 de agosto de 2008, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
 
 (VEASE ARCHIVO ANEXO)
 
-###### Artículo 6.
+###### ARTÍCULO 2.
 
-Los criterios y disposiciones aplicables a los instrumentos y programas de comercio exterior, son los señalados a continuación:
+Se eliminan y adicionan al artículo 3 del Decreto por el que se establece la Tasa aplicable a partir del 19 de noviembre de 2006 del Impuesto General de Importación para las mercancías originarias de la República de Colombia, publicado en el Diario Oficial de la Federación el 17 de noviembre de 2006 y su modificación publicada en el mismo órgano informativo el 30 de junio de 2007, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
 
-I. La Dirección General de Comercio Exterior de la SE actualizará en el SICEX las fracciones arancelarias que correspondan a las mercancías autorizadas hasta el 29 de junio de 2007, en cada instrumento y programa de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
+Fracción Descripción
 
-II. Los titulares de resoluciones de instrumentos y programas de comercio exterior, a partir del 1 de julio de 2007, podrán realizar operaciones de comercio exterior, respecto de las mercancías autorizadas en sus instrumentos y programas de comercio exterior, utilizando las fracciones arancelarias que les correspondan con base en la Tabla de Correlación TIGIE 2002-TIGIE 2007.
+8701.20.02 Usados.
 
-Las resoluciones a que se refiere el párrafo anterior continuarán vigentes hasta la fecha que se indique en el documento correspondiente y, en su caso, por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos y ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE.
+8702.10.05 Usados.
 
-III. La Dirección General de Comercio Exterior de la SE realizará el intercambio de información necesario con la Administración General de Aduanas del SAT a fin de que esté en posibilidad de actualizar en el SAAI las fracciones arancelarias de las resoluciones de los instrumentos y programas de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
+8702.90.06 Usados, excepto lo comprendido en la fracción
 
-###### Artículo 7.
+8702.90.01.
 
-Para los efectos de los Acuerdos que se listan en este artículo, la Tabla de Correlación entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, es la que se establece como anexa al presente Acuerdo.
+8703.21.02 Usados, excepto lo comprendido en la fracción
 
-I. Acuerdo que establece la clasificación y codificación de mercancías y productos cuya importación, exportación, internación o salida está sujeta a regulación sanitaria por parte de la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 27 de marzo de 2003 y 27 de enero, 1 de abril y 26 de octubre de 2005.
+8703.21.01.
 
-II. Acuerdo que establece la clasificación y codificación de los productos químicos esenciales cuya importación o exportación está sujeta a la presentación de un aviso previo ante la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002.
+8703.22.02 Usados.
 
-III. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de las dependencias que integran la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas, publicado en el DOF el 29 de marzo de 2002 y su modificación del 1 de abril de 2005.
+8703.23.02 Usados.
 
-IV. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el DOF el 26 de marzo de 2002.
+8703.24.02 Usados.
 
-V. Acuerdo por el que se establece la clasificación y codificación de mercancías cuya exportación está sujeta a la presentación de un certificado de origen expedido por la Asociación Mexicana de la Cadena Productiva del Café, A.C., o los consejos estatales del café, y el procedimiento para la emisión del Certificado de Origen, publicado en el DOF el 7 de febrero de 2007.
+8703.31.02 Usados.
 
-VI. Acuerdo que establece la clasificación y codificación de las mercancías cuya importación o exportación están sujetas a regulación por parte de la Secretaría de la Defensa Nacional, publicado en el DOF el 25 de noviembre de 2002 y sus modificaciones del 13 de agosto de 2003 y 20 de octubre de 2006.
+8703.32.02 Usados.
 
-VII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a regulación por parte de la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 30 de diciembre de 2003, 16 de agosto de 2004 y 26 de enero de 2005.
+8703.33.02 Usados.
 
-VIII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a autorización previa por parte de la Secretaría de Energía, publicado en el DOF el 28 de marzo de 2002.
+8703.90.02 Usados, excepto lo comprendido en la fracción
 
-IX. Acuerdo que establece la clasificación y codificación de los bienes considerados monumentos históricos o artísticos, cuya exportación está sujeta a autorización previa de exportación por parte del Instituto Nacional de Antropología e Historia, o del Instituto Nacional de Bellas Artes y Literatura.
+8703.90.01.
 
-###### ARTICULO 8.
+8704.21.04 Usados, excepto lo comprendido en la fracción
 
-Se sujetan a la presentación de un aviso automático de exportación ante la Secretaría de Economía, conforme a lo dispuesto en el artículo 10 del presente Acuerdo, la exportación definitiva y temporal de las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que se mencionan a continuación para efectos de monitoreo estadístico comercial:
+8704.21.01.
+
+8704.22.07 Usados, excepto lo comprendido en la fracción
+
+8704.22.01.
+
+8704.23.02 Usados, excepto lo comprendido en la fracción
+
+8704.23.01.
+
+8704.31.04 ELIMINADA
+
+8704.31.05 Usados, excepto lo comprendido en las fracciones
+
+8704.31.01 y 8704.31.02.
+
+8704.32.07 Usados, excepto lo comprendido en la fracción
+
+8704.32.01.
+
+8705.40.02 Usados.
+
+###### ARTÍCULO 3.
+
+Se derogan los artículos 8, 9 y 10 del Decreto que se señala en el artículo 2 del presente ordenamiento.
+
+###### ARTÍCULO 4.
+
+Se modifican, eliminan y adicionan al artículo 3 del Decreto por el que se establece la Tasa Aplicable del Impuesto General de Importación para las mercancías originarias de la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 19 de julio de 2004 y sus modificaciones publicadas en el mismo órgano informativo el 5 de septiembre y 27 de noviembre de 2006, 30 de junio de 2007 y 13 de mayo de 2008, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
+
+Fracción Descripción
+
+8701.20.01 Tractores de carretera para semirremolques,
+
+excepto lo comprendido en la fracción
+
+8701.20.02.
+
+8701.20.02 Usados
+
+8702.10.01 Con carrocería montada sobre chasis, excepto
+
+lo comprendido en las fracciones 8702.10.03 y
+
+8702.10.05.
+
+8702.10.02 Con carrocería integral, excepto lo comprendido
+
+en las fracciones 8702.10.04 y 8702.10.05.
+
+8702.10.03 Para el transporte de 16 o más personas,
+
+incluyendo el conductor, con carrocería montada
+
+sobre chasis, excepto lo comprendido en la
+
+fracción 8702.10.05
+
+8702.10.04 Para el transporte de 16 o más personas,
+
+incluyendo el conductor, con carrocería integral,
+
+excepto lo comprendido en la fracción 8702.10.05.
+
+8702.10.05 Usados.
+
+8702.90.02 Con carrocería montada sobre chasis, excepto
+
+lo comprendido en las fracciones 8702.90.04 y
+
+8702.90.06.
+
+8702.90.03 Con carrocería integral, excepto lo comprendido
+
+en las fracciones 8702.90.05 y 8702.90.06.
+
+8702.90.04 Para el transporte de 16 o más personas, incluyendo
+
+el conductor, con carrocería montada sobre chasis,
+
+excepto lo comprendido en la fracción 8702.90.06.
+
+8702.90.06 Usados, excepto lo comprendido en la fracción
+
+8702.90.01.
+
+8704.22.02 De peso total con carga máxima superior o igual
+
+a 5,000 kg, pero inferior o igual a 6,351 kg,
+
+excepto lo comprendido en la fracción 8704.22.07.
+
+8704.22.03 De peso total con carga máxima superior a
+
+6,351 kg, pero inferior o igual a 7,257 kg, excepto
+
+lo comprendido en la fracción 8704.22.07.
+
+8704.22.05 De peso total con carga máxima superior a
+
+8,845 kg, pero inferior o igual a 11,793 kg,
+
+excepto lo comprendido en la fracción
+
+8704.22.07.
+
+8704.22.06 De peso total con carga máxima superior a
+
+11,793 kg, pero inferior o igual a 14,968 kg,
+
+excepto lo comprendido en la fracción
+
+8704.22.07.
+
+8704.22.07 Usados, excepto lo comprendido en la fracción
+
+8704.22.01.
+
+8704.23.02 Usados, excepto lo comprendido en la fracción
+
+8704.23.01.
+
+8704.31.03 De peso total con carga máxima superior a
+
+2,721 kg, pero inferior o igual a 4,536 kg,
+
+excepto lo comprendido en la fracción
+
+8704.31.05.
+
+8704.31.04 ELIMINADA
+
+8704.31.05 Usados, excepto lo comprendido en las fracciones
+
+8704.31.01 y 8704.31.02.
+
+8704.32.02 De peso total con carga máxima superior o igual
+
+a 5,000 kg, pero inferior o igual a 6,351 kg,
+
+excepto lo comprendido en la fracción
+
+8704.32.07.
+
+8704.32.03 De peso total con carga máxima superior a
+
+6,351 kg, pero inferior o igual a 7,257 kg,
+
+excepto lo comprendido en la fracción
+
+8704.32.07.
+
+8704.32.04 De peso total con carga máxima superior a
+
+7,257 kg, pero inferior o igual a 8,845 kg,
+
+excepto lo comprendido en la fracción
+
+8704.32.07.
+
+8704.32.05 De peso total con carga máxima superior a
+
+8,845 kg, pero inferior o igual a 11,793 kg,
+
+excepto lo comprendido en la fracción
+
+8704.32.07
+
+8704.32.06 De peso total con carga máxima superior a
+
+11,793 kg, pero inferior o igual a 14,968 kg,
+
+excepto lo comprendido en la fracción
+
+8704.32.07.
+
+8704.32.07 Usados, excepto lo comprendido en la fracción
+
+8704.32.01.
+
+8705.40.01 Camiones hormigonera, excepto lo comprendido
+
+en la fracción 8705.40.02.
+
+8705.40.02 Usados.
+
+###### ARTÍCULO 5.
+
+Se modifican y adicionan al artículo 10 del Decreto que se señala en el artículo 4 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO 6.
+
+Se modifican y adicionan a la Tabla del artículo primero del Decreto para la aplicación del Apéndice I, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 22 de agosto de 2007, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
+
+TABLA DE LOS PRODUCTOS COMPRENDIDOS EN EL APÉNDICE I DEL ACE No. 55
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO 7.
+
+Se modifican y adicionan a la Tabla del artículo primero del Decreto para la aplicación del Apéndice II, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 23 de agosto de 2007 y modificado mediante Decreto publicado en el mismo órgano informativo el 26 de febrero de 2009, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
+
+TABLA DE PRODUCTOS COMPRENDIDOS EN EL APÉNDICE II DEL ACE No. 55, DEL SECTOR AUTOMOTOR ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPÚBLICA FEDERATIVA DEL BRASIL
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO 8.
+
+Se modifican de la Tabla del artículo primero del Decreto para la aplicación del Apéndice IV, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 23 de agosto de 2007, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
+
+TABLA DE LOS PRODUCTOS COMPRENDIDOS EN LOS NUMERALES I.1 Y I.2 DEL ANEXO I DEL PRIMER PROTOCOLO ADICIONAL AL APÉNDICE IV DEL ACE No. 55
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 9.
 
-La importación de mercancías originarias de la región conformada por México y Uruguay, comprendidas en las fracciones arancelarias que se señalan en este artículo, estará sujeta a la preferencia arancelaria que se establece a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica. En caso de que en la columna “Preferencia arancelaria” se indique el código EXCL, se aplicará la tasa prevista en el artículo 1 de la LIGIE, sin reducción alguna:
+Se modifican y adicionan a la Tabla del artículo segundo del Decreto que se señala en el artículo 8 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que le corresponde:
+
+TABLA DE LOS PRODUCTOS COMPRENDIDOS EN LOS NUMERALES I.3 DEL ANEXO I Y EL ANEXO II, DEL PRIMER PROTOCOLO ADICIONAL AL APÉNDICE IV DEL ACE No. 55
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTICULO 10.
+###### ARTÍCULO 10.
 
-Los avisos automáticos de exportación se entenderán autorizados al día hábil siguiente al de la presentación de la solicitud debidamente integrada. No obstante, la Secretaría de Economía podrá requerir al solicitante las aclaraciones que estime pertinentes. Al día siguiente de la presentación de la solicitud, la Secretaría pondrá a disposición de las autoridades aduaneras competentes las claves de autorización asignadas a los avisos automáticos de exportación para que el exportador proceda al despacho aduanero de las mercancías amparadas en los mismos.
+Se adicionan a la Tabla del artículo único del Decreto para la aplicación del Acuerdo Regional No. 2 de Apertura de Mercados a favor de Ecuador, publicado en el Diario Oficial de la Federación el 16 de noviembre de 2007, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
 
-Los avisos automáticos de exportación tendrán una vigencia de cuatro meses a partir de que surta efecto la autorización de la Secretaría de Economía.
+Tabla de los productos incluidos en la nómina de apertura de mercados a favor de Ecuador, del Acuerdo Regional No. 2 de la Asociación Latinoamericana de Integración, que están exentos del pago de los aranceles de importación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación
 
-El aviso automático de exportación autorizado es la solicitud debidamente sellada y foliada por la oficina receptora de la Secretaría de Economía, mencionada en el artículo 9 del presente Acuerdo.
+(VEASE ARCHIVO ANEXO)
 
-Una vez autorizado el aviso, el exportador podrá presentar el pedimento de exportación respectivo en los términos de la fracción II del artículo 36 de la Ley Aduanera, debiendo anotar en el campo relativo al número de permiso la clave de autorización asignada por la Secretaría de Economía y adjuntar una copia del aviso automático de exportación debidamente sellado por dicha Secretaría.
+###### ARTÍCULO 11.
 
-###### ARTICULO 11.
+Se modifican y adicionan a la Tabla del artículo único del Decreto para la aplicación del Acuerdo de Alcance Parcial No. 29, suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República del Ecuador, publicado en el Diario Oficial de la Federación el 27 de diciembre de 2007, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
 
-Se exceptúan del requisito de permiso previo de importación por parte de la Secretaría de Economía, cuando sean provenientes de:
-
-I.- Canadá o Estados Unidos de América, que califiquen para ser marcadas como mercancías de esos países, conforme al Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuando una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994.
-
-II.- La República de Chile, que califiquen como originarias conforme al Tratado de Libre Comercio entre la República de Chile y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 28 de julio de 1999, o
-
-III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre comercio y cuestiones relacionadas con el comercio entre la Comunidad Europea y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 26 de junio de 2000, las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican:
+Tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos en el Acuerdo de Alcance Parcial No. 29
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 12.
 
-DEROGADO”
+Se modifican de la Tabla del artículo primero del Decreto para la aplicación del Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, publicado en el Diario Oficial de la Federación el 20 de mayo de 2008, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que les corresponde:
 
-...
+Tabla de preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República Federativa del Brasil en el Acuerdo de Complementación Económica No. 53
 
-## TRANSITORIO
+(VEASE ARCHIVO ANEXO)
 
-ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+## TRANSITORIOS
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las preferencias arancelarias establecidas en los artículos 10, 11 y 12 del presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del 1 de julio de 2007.
+
+TERCERO.- Las preferencias arancelarias establecidas en los siguientes artículos del presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del 1 de enero de 2009:
+
+I. Artículos 1, 2, 4 y 8.
+
+II. Artículo 6, únicamente para las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación: 8702.10.01, 8702.10.02, 8702.10.03, 8702.10.04, 8702.90.02, 8702.90.03, 8702.90.04, 8702.90.05, 8703.22.01, 8703.23.01, 8703.24.01, 8703.31.01, 8703.32.01, 8703.33.01, 8704.21.02, 8704.21.03, 8704.22.02, 8704.22.03, 8704.22.04, 8704.31.03, 8704.32.02, 8704.32.03 y 8704.32.04.
+
+III. Artículo 7, únicamente para las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación: 8703.22.01, 8703.23.01, 8703.24.01, 8703.31.01, 8703.32.01, 8703.33.01, 8704.21.02, 8704.21.03, 8704.22.02, 8704.22.03, 8704.22.04, 8704.31.03, 8704.32.02, 8704.32.03 y 8704.32.04.
+
+CUARTO.- Las preferencias arancelarias establecidas en los siguientes artículos del presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del 2 de enero de 2009:
+
+I. Artículos 5 y 9.
+
+II. Artículo 6, únicamente para las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación: 4012.90.03, 8701.90.01 y 8701.90.08.
+
+III. Artículo 7, únicamente para las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación: 8701.90.01 y 8701.90.08.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de julio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
