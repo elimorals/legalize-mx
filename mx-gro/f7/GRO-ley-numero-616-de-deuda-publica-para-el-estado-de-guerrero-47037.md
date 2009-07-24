@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-616-de-deuda-publica-para-el-estado-de-guerrero-4703
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-11"
-last_updated: "2006-06-30"
+last_updated: "2009-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de noviembre de 2005.
 
@@ -239,15 +239,19 @@ Asimismo, no constituyen Deuda Pública, los contratos para prestación de servi
 
 Organos en materia de deuda pública.- Son órganos en materia de deuda pública, dentro de sus respectivas competencias: el Congreso del Estado, el Poder Ejecutivo del Estado, los Ayuntamientos, la Secretaría de Finanzas y Administración, los órganos de gobierno de las Entidades Públicas, y el Comité Técnico de Financiamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 14.
 
-Facultades del Congreso del Estado.- Corresponde al Estado:
+Facultades del Congreso del Estado.- Corresponde al Congreso del Estado:
 
 I.- Fijar las bases sobre las cuales el Poder Ejecutivo del Estado y las Entidades Públicas, puedan celebrar empréstitos o créditos, aprobar la deuda pública del Estado y de las Entidades Públicas y decretar el modo de cubrirla;
 
 II.- Autorizar anualmente en la Ley de Ingresos del Estado y en las Leyes de Ingresos de los Ayuntamientos, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento de las Entidades públicas que correspondan, durante el ejercicio fiscal correspondiente;
 
-III.- Analizar y en su caso, autorizar, previa solicitud debidamente justificada del Poder Ejecutivo del Estado, de los Ayuntamientos o de las Entidades de la administración pública paraestatal y paramunicipal, el ejercicio de montos y conceptos de endeudamiento, no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado y en las Leyes de Ingresos de los Municipios, que sean necesarios para su financiamiento, cuando se presenten circunstancias económicas extraordinarias, que así lo requieran; asimismo, autorizar la contratación de líneas de crédito global municipal o emisiones de valores conjuntas entre varios municipios, en términos de lo señalado en el Artículo 26 de esta Ley;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+
+III.- Analizar y en su caso, autorizar, previa solicitud debidamente justificada de parte del Poder Ejecutivo del Estado, de los Ayuntamientos o de las Entidades de la administración pública paraestatal y paramunicipal, el ejercicio de montos y conceptos de endeudamiento, no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado y en las Leyes de Ingresos de los Municipios, mediante reformas a las mismas, o a través de decretos, que sean necesarios para su financiamiento, cuando se presenten circunstancias económicas extraordinarias que así lo requieran y/o cuenten con la capacidad de pago para cumplir con las obligaciones derivadas de la deuda que contraerán, con la finalidad de que las entidades públicas que así lo deseen, puedan incorporarse o adherirse a la autorización señalada; asimismo, autorizar la contratación de líneas de crédito global municipal o emisiones de valores conjuntas entre varios municipios, en términos de lo señalado en el Artículo 26 de esta Ley;
 
 IV.- Autorizar a las Entidades Públicas para contratar créditos o empréstitos, para destinarlos a inversión pública productiva;
 
@@ -281,7 +285,9 @@ Facultades del Poder Ejecutivo.- Al Poder Ejecutivo del Estado le compete:
 
 I. Presentar anualmente al Congreso del Estado, la iniciativa de Ley de Ingresos del Estado, proponiendo en su caso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Estado y de las Entidades de la Administración Pública Paraestatal, en el ejercicio fiscal correspondiente;
 
-II. Enviar al Congreso del Estado, la iniciativa de decreto de reforma o adición a la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento del Estado y en su caso, de las Entidades de la Administración Pública Paraestatal a su cargo cuando considere que existen circunstancias económicas extraordinarias, que así lo justifiquen;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+
+II. Enviar al Congreso del Estado, la iniciativa de decreto, decreto de reforma o adición a la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento del Estado y en su caso, de las Entidades de la Administración Pública Paraestatal a su cargo cuando considere que existen circunstancias económicas extraordinarias que así lo justifiquen y/o cuenten con la capacidad de pago para cumplir con las obligaciones derivadas de la deuda que contraerán;
 
 III.- Presentar ante el Congreso del Estado, las solicitudes de autorización de endeudamiento, en términos de lo previsto por esta Ley; y
 
@@ -293,7 +299,9 @@ Facultades de la Secretaría de Finanzas y Administración.- Corresponde a la Se
 
 l.- Preparar el proyecto de iniciativa de Ley de Ingresos del Estado, considerando los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Estado y de las Entidades Paraestatales en el ejercicio fiscal correspondiente;
 
-II.- Elaborar los proyectos de reforma o adición de la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento del Estado y en su caso, de las Entidades de la Administración Pública Paraestatal a su cargo cuando considere que existen circunstancias económicas extraordinarias, que así lo justifiquen;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+
+II.- Elaborar los proyectos de iniciativa de decreto, o decreto de reforma o adición de la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento del Estado y en su caso, de las Entidades de la Administración Pública Paraestatal a su cargo cuando considere que existen circunstancias económicas extraordinarias que así lo justifiquen y/o cuenten con la capacidad de pago para cumplir con las obligaciones derivadas de la deuda que contraerán;
 
 III.- Contratar, previa autorización del Congreso del Estado, empréstitos en representación de la Entidad;
 
@@ -323,7 +331,9 @@ XV. Realizar oportunamente los pagos del servicio de la deuda pública directa d
 
 XVII.- Contratar a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia del Estado y las calificaciones sobre la calidad crediticia de los financiamientos o emisiones de valores, que negocie el Estado y sus Entidades Públicas y para que realicen la revisión periódica de las calificaciones respectivas;
 
-XVIII. Solicitar la inscripción de los financiamientos que contrate, cuando los mismos se contraigan con afectación de sus participaciones federales, en el Registro Único de Obligaciones y Empréstitos, que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia, sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+
+XVIII. Solicitar la inscripción de los financiamientos que contrate, cuando los mismos se contraigan con afectación de sus participaciones y/o aportaciones federales de conformidad con la legislación aplicable, en el Registro Único de Obligaciones y Empréstitos, que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia, sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
 
 XIX.- Llevar el Registro Único de Obligaciones y Empréstitos del Estado de Guerrero, de acuerdo a lo previsto en esta Ley;
 
@@ -341,7 +351,9 @@ Facultades de los Municipios.- A los Municipios les corresponde, por conducto de
 
 I.- Elaborar anualmente, el proyecto de las iniciativas de leyes de ingresos de los Ayuntamientos, proponiendo en su caso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Municipio respectivo y de las Entidades de la Administración Pública Paramunicipal a su cargo, en el ejercicio fiscal correspondiente;
 
-II.- Enviar al Congreso del Estado, la iniciativa de decreto de reforma o adición a las Leyes de Ingresos de los Ayuntamientos, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento de los Municipios y en su caso, de las Entidades de la Administración Pública Paramunicipal a su cargo, cuando se considere que existan circunstancias económicas extraordinarias que así lo justifiquen;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+
+II.- Enviar al Congreso del Estado a través del Poder Ejecutivo del Estado, la iniciativa de decreto, o decreto de reforma o adición a las Leyes de Ingresos de los Ayuntamientos, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento de los Municipios y en su caso, de las Entidades de la Administración Pública Paramunicipal a su cargo, cuando se considere que existan circunstancias económicas extraordinarias que así lo justifiquen y/o cuenten con la capacidad de pago para cumplir con las obligaciones derivadas de la deuda que contraerán. Asimismo, podrán gestionar la obtención de la autorización para la contratación de créditos o financiamientos en la cual se determinen los montos máximos de endeudamiento para cada municipio de la entidad y que se gestione de manera conjunta por lo menos por dos de ellos, con la finalidad de que los Municipios que así lo deseen puedan incorporarse o adherirse con posterioridad al esquema autorizado, incluyendo la posibilidad de afectar participaciones y/o aportaciones federales de conformidad a la legislación aplicable, incluido el mecanismo de fuente de pago o garantía;
 
 III.- Contratar empréstitos, en forma individual o conjunta con otros Municipios, previa autorización del Congreso del Estado;
 
@@ -371,7 +383,9 @@ XV.- Incluir, anualmente, en los presupuestos de egresos municipales, la o las p
 
 XVI.- Vigilar que se incluyan anualmente dentro de los presupuestos de egresos de las Entidades de la Administración Pública Paramunicipal, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a cargo de las mismas, correspondiente al ejercicio fiscal que se trate;
 
-XVII.- Aprobar, previamente a su autorización por el Congreso del Estado, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Municipio y de las Entidades de la Administración Pública Paramunicipal, cuya inclusión en la Ley de Ingresos del Estado soliciten dichas Entidades y en su oportunidad, la celebración de las operaciones de endeudamiento que se propongan contraer estas Entidades;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+
+XVII.- Aprobar, previamente a su autorización por el Congreso del Estado, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Municipio y de las Entidades de la Administración Pública Paramunicipal, cuya autorización conste o deba constar en un decreto, o cuya inclusión en la Ley de Ingresos del Municipio soliciten dichas Entidades y en su oportunidad, la celebración de las operaciones de endeudamiento que.se (sic) propongan contraer estas Entidades;
 
 XVIII.- Informar al Congreso del Estado, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de su deuda pública, al rendir la cuenta pública municipal;
 
@@ -379,7 +393,9 @@ XIX.- Proporcionar al Congreso del Estado, por conducto de la Auditoría General
 
 XX.- Contratar a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia del Municipio y las calificaciones sobre la calidad crediticia de los financiamientos o emisiones de valores que, se proponga instrumentar el Municipio y sus Entidades Paramunicipales, y para que realicen la revisión periódica de las calificaciones respectivas;
 
-XXI.- Solicitar la inscripción de los financiamientos que contraten, cuando los mismos se contraigan con afectación de sus participaciones federales, en el Registro Unico de Obligaciones y Empréstitos que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+
+XXI.- Solicitar la inscripción de los financiamientos que contraten, cuando los mismos se contraigan con afectación de sus participaciones y/o aportaciones federales de conformidad con la legislación aplicable, en el Registro Único de Obligaciones y Empréstitos que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
 
 XXII.- Inscribir los financiamientos que celebren en el Registro Unico de Obligaciones y Empréstitos del Estado de Guerrero; informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el registro de acuerdo a lo previsto en esta Ley y notificar, en su caso, el pago de las obligaciones inscritas para efectos de la cancelación de las inscripciones correspondientes;
 
@@ -463,9 +479,11 @@ Montos y conceptos de endeudamiento. Los montos y conceptos de endeudamiento que
 
 Capacidad de pago.- Los financiamientos cuya autorización soliciten las Entidades Públicas, deberán ser en todo caso, acordes con la capacidad de pago de las mismas.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 24.
 
-Programas de Financiamiento.- En los casos en que, la magnitud de los proyectos de inversión pública productiva lo ameriten, el Congreso del Estado podrá autorizar la implementación de programas de financiamiento, que impliquen la obtención de créditos o empréstitos en uno o en varios ejercicios presupuestales. En tal caso, los ingresos y erogaciones que deriven de los financiamientos que se celebren durante ejercicios fiscales posteriores al del programa de financiamiento que contenga su autorización, deberán ser incluidos en las leyes de ingresos y presupuestos de egresos correspondientes a dichos ejercicios.
+Programas de Financiamiento.- En los casos en que, la magnitud de los proyectos de inversión pública productiva y/o el diseño de los esquemas de financiamiento lo ameriten, el Congreso del Estado podrá autorizar la implementación de programas de financiamiento, que impliquen la obtención de créditos o empréstitos en uno o en varios ejercicios presupuestales. En tal caso, los ingresos y erogaciones que deriven de los financiamientos que se celebren durante ejercicios fiscales posteriores al del programa de financiamiento que contenga su autorización, deberán ser incluidos en las leyes de ingresos y presupuestos de egresos correspondientes a dichos ejercicios.
 
 ### CAPITULO CUARTO. DE LA CONTRATACION DE EMPRESTlTOS O CREDITOS
 
@@ -575,23 +593,33 @@ Las Entidades de la Administración Pública Paramunicipal que soliciten la gara
 
 Fideicomiso de administración y pago o de garantía.- El Estado y los Municipios, así como sus Entidades Públicas, en la contratación de sus' financiamientos o en la emisión de valores, podrán celebrar fideicomisos de administración y pago o de garantía, afectando como patrimonio del fideicomiso un porcentaje necesario y suficiente de los derechos e ingresos de las participaciones que en ingresos federales les correspondan, sus ingresos propios o cualquier bien de dominio privado u otro ingreso que por cualquier concepto les correspondan. Los fideicomisos, a que se hace mención en el presente artículo, no serán considerados en ningún caso, parte de la Administración Pública Paraestatal y Paramunicipal.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 46.
 
-Requisitos para afectar las participaciones federales.- Las participaciones federales podrán ser afectadas, en porcentajes, para el pago o garantía de las obligaciones, que contraigan el Estado o los Municipios con autorización del Congreso del Estado e inscritas a petición de dichas Entidades, en el Registro Unico de Obligaciones y Empréstitos que lleva la Secretaría de Hacienda y Crédito Público y en el Registro de Obligaciones y Empréstitos del Estado de Guerrero, a favor de la Federación o de Instituciones de Crédito que operen en el territorio nacional o a favor de personas físicas o morales de nacionalidad mexicana.
+Requisitos para afectar las participaciones y/o aportaciones federales.- Las participaciones y/o aportaciones federales de conformidad con la legislación aplicable, podrán ser afectadas, en porcentajes, para el pago o garantía de las obligaciones, que contraigan el Estado y/o los Municipios con autorización del Congreso del Estado e inscritas a petición de dichas Entidades, en el Registro Único de Obligaciones y Empréstitos que lleva la Secretaría de Hacienda y Crédito Público y en el Registro de Obligaciones y Empréstitos del Estado de Guerrero, a favor de la Federación o de Instituciones de Crédito que operen en el territorio nacional o a favor de personas físicas o morales de nacionalidad mexicana.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 47.
 
-Pago de obligaciones derivadas de la afectación de participaciones federales. - El pago de obligaciones, a través de mecanismos legales de garantía o pago, implementados mediante la afectación de algún porcentaje de ingresos o derechos derivados de las participaciones federales, podrá ser realizado, cuando las obligaciones correspondientes hayan sido autorizadas por el Congreso del Estado y hayan sido inscritas en el Registro Unico de Obligaciones y Empréstitos que lleva la Secretaría de Hacienda y Crédito Público y en el Registro de Obligaciones y Empréstitos del Estado de Guerrero.
+Pago de obligaciones derivadas de la afectación de participaciones y/o aportaciones federales. - El pago de obligaciones, a través de mecanismos legales de garantía o pago, implementados mediante la afectación de algún porcentaje de ingresos y/o derechos derivados de las participaciones y/o aportaciones federales de conformidad con la legislación aplicable, podrá ser realizado, cuando las obligaciones correspondientes hayan sido autorizadas por el Congreso del Estado y hayan sido inscritas en el Registro Único de Obligaciones y Empréstitos que lleva la Secretaría de Hacienda y Crédito Público y en el Registro de Obligaciones y Empréstitos del Estado de Guerrero.
+
+Las afectaciones y pagos de obligaciones con cargo a las Aportaciones Federales solamente podrán realizarse para ser destinado a los fines que señale la Ley de Coordinación Fiscal y debe sujetarse a normas aplicables.
 
 ###### ARTICULO 48.
 
 Otorgamiento de garantías y avales.- Una vez que los Municipios o las Entidades de la Administración Pública Paraestatal y Paramunicipal que requieran la garantía o aval del Estado cuenten con las autorizaciones de sus órganos de gobierno, de los Ayuntamientos y de la Secretaría de Finanzas y Administración, según corresponda, solicitarán la autorización del Congreso del Estado, para la celebración de los financiamientos y el otorgamiento de las garantías o avales respectivos, apegándose a los procedimientos establecidos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 49.
 
-Pago de financiamientos.- La celebración de los mecanismos legales que bajo cualquier modalidad o forma, se propongan instrumentar las Entidades, a efecto de garantizar o realizar el pago de financiamientos, deberá ser previamente autorizada por el Congreso del Estado.
+Pago de financiamientos.
 
-En los casos en que los mecanismos legales antes referidos se implementen bajo la forma de fideicomisos, los mismos no serán considerados, en ningún caso, parte de la Administración Pública Paraestatal o Paramunicipal.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+
+En los casos en que los mecanismos legales antes referidos se implementen bajo la forma de fideicomisos, los mismos no serán considerados, en ningún caso, parte de la Administración Pública Paraestatal ó Paramunicipal. Con el fin de cumplir con sus obligaciones en términos de la Ley de Coordinación Fiscal, los fideicomisos señalados podrán servir como instrumentos de captación, distribución o ambos de la totalidad de las aportaciones federales susceptibles de afectarse como garantía o fuente de pago de conformidad a la legislación aplicable, incluyendo los recursos que correspondan a los Municipios para su posterior entrega a los mismos, a través de cuentas, depósitos u otros medios legales, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega de los recursos al Estado y los Municipios conforme a la ley y los convenios aplicables, sin perjuicio de cumplir con los fines de las afectaciones que, como garantía o fuente de pago o ambas, hubieren realizado el Estado y/o los Municipios a favor de sus acreedores en términos de esta Ley.
 
 En los casos en que los mecanismos legales que implemente el Estado como medio para cumplir obligaciones de pago a su cargo, impliquen la notificación de la afectación correspondiente y el otorgamiento de un mandato a la Tesorería de la Federación, para que entregue a una institución bancaria o fiduciaria un porcentaje de las participaciones que en ingresos federales le correspondan al Estado, ya sea bajo la forma de una instrucción irrevocable o en cualquier otra forma, los términos de dicho mandato, únicamente podrán ser-modificados por el Poder Ejecutivo del Estado, si en adición al consentimiento que en su caso, deba obtener de los acreedores que correspondan, cuenta con la autorización previa del Congreso del Estado, otorgada de acuerdo a los términos establecidos en el decreto que incluya la autorización del mecanismo respectivo.
 
@@ -764,3 +792,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- En su oportunidad remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales conducentes.
 
 CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE JULIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Ejecutivo Estatal para los efectos legales correspondientes.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
