@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-consejo-consultivo-ciudadano-de-seguridad-56977"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-07"
-last_updated: "2007-09-12"
+last_updated: "2009-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL CONSEJO CONSULTIVO CIUDADANO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE SEPTIEMBRE DE 2007.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de septiembre de 2007.
 
@@ -55,7 +53,9 @@ Para el cumplimiento de su objeto el Consejo Consultivo Ciudadano de Seguridad P
 
 a). Coadyuvar con la Administración Pública Municipal, a la formulación de políticas, acciones y programas para la prevención de la delincuencia;
 
-b). Fomentar la participación ciudadana en apoyo a las labores preventivas que realice la Secretaría de Seguridad Pública y Tránsito, así como en la vigilancia en la observancia del Reglamento de Policía y Buen Gobierno;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+
+b). Fomentar la participación ciudadana en apoyo a las labores preventivas que realice la Secretaría de Seguridad de Guadalupe, Nuevo León, así como en la vigilancia en la observancia del Reglamento de Policía y Buen Gobierno;
 
 c). Recibir y canalizar las demandas ciudadanas o bien aquellas que se le presenten los Consejos vecinales de participación ciudadana;
 
@@ -73,7 +73,9 @@ a). Un Presidente Honorario que lo será el Presidente (a) Municipal;
 
 b). Un Presidente Ejecutivo que será el ciudadano que designe el Presidente Honorario;
 
-c). Un Secretario Técnico que será el Secretario de Seguridad Ciudadana y Tránsito;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+
+c). Un Secretario Técnico que será el Secretario de Seguridad de Guadalupe, Nuevo León;
 
 d). El Secretario del R. Ayuntamiento;
 
@@ -131,7 +133,9 @@ Los Consejos Vecinales de Participación Ciudadana de Seguridad Pública se inte
 
 a). Un Representante de la Administración Municipal, que lo será el Delegado y quien presidirá el Comité;
 
-b). Un Secretario Técnico, que lo será un representante de la Secretaría de Seguridad Ciudadana y Tránsito; y
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+
+b). Un Secretario Técnico, que lo será un representante de la Secretaría de Guadalupe, Nuevo León; y
 
 c). Cinco Consejeros ciudadanos, designados mediante consulta vecinal, en el que participen los vecinos de la circunscripción y que organizará la Delegación Municipal respectiva.
 
@@ -186,3 +190,15 @@ PRESIDENTA MUNICIPAL
 C. LIC. ALFONSO RODRÍGUEZ OCHOA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JULIO DE 2009.
+
+## [N. DE E. TRANSITORIOS DE LAS "MODIFICACIONES AL REGLAMENTO DEL CONSEJO CONSULTIVO CIUDADANO DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN".]
+
+PRIMERO.- Estas modificaciones al Reglamento del Consejo Consultivo Ciudadano de Seguridad Pública del Municipio de Guadalupe, Nuevo León, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes modificaciones.
+
+TERCERO.- Se remita el presente al C. Síndico Segundo Encargado del Despacho de la Presidencia Municipal, a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento para que se sirva enviar el Acuerdo para su debida publicación en el Periódico Oficial del Estado, así como en la Gaceta Municipal.
