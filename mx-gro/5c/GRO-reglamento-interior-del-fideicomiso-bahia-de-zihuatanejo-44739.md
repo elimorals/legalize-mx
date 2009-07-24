@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-del-fideicomiso-bahia-de-zihuatanejo-44739"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-26"
-last_updated: "2005-04-26"
+last_updated: "2009-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DEL FIDEICOMISO BAHIA DE ZIHUATANEJO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE MODIFICA LA CLAUSULA SEXTA DEL CONTRATO CONSTITUTIVO DEL FIDEICOMISO BAHIA DE ZIHUATANEJO, PUBLICADO EN EL P.O. DE 24 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 26 de abril de 2005.
 
@@ -602,3 +604,15 @@ El Director General del Fideicomiso Bahía de Zihuatanejo.
 C. ING. ALEJANDRO BRAVO ABARCA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE JULIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Fideicomiso Bahía de Zihuatanejo, publicado en el Periódico Oficial del Gobierno del Estado de Guerrero número 34 del día 26 de abril de 2005 y se derogan las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- La Secretaría de Finanzas y Administración, con la intervención que a la Secretaría de Desarrollo Urbano y Obras Públicas corresponda, en su carácter de Coordinadora de Sector, en un plazo que no excederá de 30 días hábiles contados a partir de la entrada en vigor del presente decreto, solicitará a Nacional Financiera, S.N.C. Institución de Banca de Desarrollo, en su calidad de Institución Fiduciaria en el Fideicomiso Bahía de Zihuatanejo, proceda a elaborar un proyecto de convenio modificatorio al contrato constitutivo del Fideicomiso Bahía de Zihuatanejo en los términos expuestos en este instrumento, previo el cumplimiento de los requisitos que establezcan las disposiciones legales aplicables, para su posterior firma por las partes.
+
+CUARTO.- La Contraloría General del Estado conforme a sus atribuciones, vigilará el estricto cumplimiento de este Decreto.
