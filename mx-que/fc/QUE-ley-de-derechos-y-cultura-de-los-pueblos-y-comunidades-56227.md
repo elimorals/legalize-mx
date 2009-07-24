@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-56227"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-27"
-last_updated: "2007-07-27"
+last_updated: "2009-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 24 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de julio de 2007.
 
@@ -478,3 +480,17 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JULIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. La presente Ley abroga la Ley de Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado, número cuarenta y siete de fecha veintisiete de julio de dos mil siete.
+
+Artículo Tercero. Para los efectos del artículo 3 de la presente Ley, en lo correspondiente a las comunidades de "Sombrerete" en el Municipio de Cadereyta de Montes y "Sombrerete" en el Municipio de Ezequiel Montes, se entienden diferentes y únicas, de conformidad a su ubicación e identificación por parte del Instituto Nacional de Estadística y Geografía (INEGI).
+
+Artículo Cuarto. De conformidad al artículo 2 de la Constitución Política de los Estados Unidos Mexicanos y de esta Ley, las autoridades Federales, Estatales y Municipales, otorgarán los beneficios que prevé este orden normativo, a los asentamientos indígenas establecidos en las zonas urbanas, colonias, barrios o delegaciones.
+
+Artículo Quinto. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases que señala la presente Ley.
