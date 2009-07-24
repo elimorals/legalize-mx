@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2008-10-29"
+last_updated: "2009-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -1175,9 +1175,9 @@ IV.- Las demás que les impongan las leyes.
 
 Las faltas temporales de los Diligenciarios se suplirán por el interino que nombre el Tribunal correspondiente. Las accidentales, por la persona que designe la Sala o el Juez.
 
-### CAPÍTULO III. DEL SECRETARIO DE LA JUNTA DE ADMINISTRACIÓN
+### CAPÍTULO III. DEL COORDINADOR DE COMISIONES Y DEL SECRETARIO DE LA JUNTA DE ADMINISTRACIÓN DEL PODER JUDICIAL DEL ESTADO
 
-DEL PODER JUDICIAL DEL ESTADO
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 81.
 
@@ -1229,9 +1229,13 @@ DE RESPONSABILIDAD ADMINISTRATIVA
 
 La Junta de Administración del Poder Judicial del Estado forma parte del Tribunal Superior de Justicia, y estará encargada de la administración, vigilancia, disciplina, selección y carrera judicial.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO 84.
 
-La Junta de Administración del Poder Judicial del Estado será presidida por el Presidente del Tribunal Superior de Justicia, y representada por un Magistrado, quien será su Coordinador General, y por un Juez, quien será el Secretario de la misma, debiendo integrarse por una Comisión de Vigilancia, Disciplina y Selección, una Comisión Administrativa, una Comisión de Carrera Judicial, Formación y Actualización, y una Contraloría Interna del Poder Judicial del Estado.
+La Junta de Administración del Poder Judicial del Estado será presidida por el Presidente del Tribunal Superior de Justicia, contará con un Magistrado Coordinador General y otro Magistrado como Coordinador de Comisiones, los que serán designados por el Pleno del Tribunal Superior de Justicia.
+
+La Junta de Administración deberá contar además con un secretario, designado por la misma Junta y con las siguientes Comisiones: de Vigilancia, Disciplina y Selección; Administrativa; de Carrera Judicial, Formación y Actualización; y una Contraloría Interna del Poder Judicial del Estado.
 
 ### CAPÍTULO VI. DE LA COMISIÓN DE CARRERA JUDICIAL, FORMACIÓN Y ACTUALIZACIÓN
 
@@ -1251,11 +1255,15 @@ III.- Coordinar el funcionamiento de los órganos que integran la Junta de Admin
 
 IV.- Las demás que le señale la presente Ley o que le encomiende el Pleno del Tribunal Superior de Justicia.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JULIO DE 2009)</small>
+
 ### CAPÍTULO VII. DE LA CONTRALORÍA INTERNA
 
 ###### ARTÍCULO 87.
 
-El Secretario, en jerarquía y responsabilidad, sigue al Coordinador General de la Junta. Será un Juez inamovible, electo por el Pleno, quien permanecerá en su cargo dos años, durante los cuales no ejercerá función jurisdiccional, no pudiendo ser reelecto como Secretario de la Junta hasta que todos los jueces inamovibles hayan desempeñado este mismo cargo.
+El Coordinador de Comisiones, será el vínculo entre los miembros de la Junta, será el responsable de las visitas ordinarias y extraordinarias a los diversos Tribunales y velará por el cumplimiento de las disposiciones emitidas por el Pleno de la Junta de Administración.
+
+El Coordinador de Comisiones permanecerá en su encargo dos años, durante los cuales no ejercerá función jurisdiccional.
 
 ###### ARTÍCULO 88.
 
@@ -2558,3 +2566,9 @@ Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 P.O. 29 DE OCTUBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JULIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
