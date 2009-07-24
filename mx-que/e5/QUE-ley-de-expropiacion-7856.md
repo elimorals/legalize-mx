@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-expropiacion-7856"
 country: "mx"
 rank: "ley"
 publication_date: "1950-04-27"
-last_updated: "1991-08-08"
+last_updated: "2009-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY NO. 37 DE EXPROPIACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1991.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 24 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 27 de abril de 1950.
 
@@ -183,10 +185,16 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 FCO. RODRÍGUEZ AGUILLON.
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE AGOSTO DE 1991
 
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+P.O. 24 DE JULIO DE 2009.
+
+Artículo Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo.- Se abroga la Ley de Expropiación del Estado de Querétaro, publicada el veintisiete de abril de mil novecientos cincuenta, en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y se derogan todas aquellas disposiciones legales que se contrapongan a la presente ley.
