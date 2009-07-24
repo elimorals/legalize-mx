@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-deuda-publica-del-estado-de-yucatan-11027"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-10"
-last_updated: "1996-12-19"
+last_updated: "2009-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 24 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 10 de marzo de 1995.
 
@@ -264,3 +266,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En los primeros quince días del mes de enero del año 1997 se publicará el estado de la deuda pública en el último trimestre del año anterior.
+
+D.O. 24 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado. El artículo 14 de esta Ley, entrará en vigor el día 1 de enero del año 2010.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Deuda Pública del Estado de Yucatán publicada en el Diario Oficial del Gobierno del Estado, mediante Decreto Número 90 de fecha 10 de marzo de 1995 y se derogan todas las disposiciones que se opongan a la presente.
