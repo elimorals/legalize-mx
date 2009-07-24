@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-de-proteccion-animal-25741"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-12"
-last_updated: "2005-12-09"
+last_updated: "2009-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ESTATAL DE PROTECCION ANIMAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION ANIMAL DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 24 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 12 de julio del año 2002.
 
@@ -1038,3 +1040,13 @@ PRIMERO. La presente Ley iniciará su vigencia el día siguiente a su publicaci�
 SEGUNDO. Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación de esta Ley.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 24 DE JULIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley Estatal de Protección Animal, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 32, de fecha doce de julio de dos mil dos.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+Artículo Cuarto. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases que señala la presente Ley.
