@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-comite-de-evaluacion-y-seguimiento-de-los-65750"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-30"
-last_updated: "2009-01-30"
+last_updated: "2009-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65750&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-11"
 
 REGLAMENTO DEL COMITE DE EVALUACION Y SEGUIMIENTO DE LOS SERVICIOS DE SALUD DEL ISSSTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JULIO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de enero de 2009.
 
@@ -187,13 +187,17 @@ V. Proponer métodos de medición y evaluación del desempeño del personal, as�
 
 ### CAPITULO IV. DEL FUNCIONAMIENTO DEL COMITE
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2009)</small>
+
 ###### Artículo 12.
 
-El Comité sesionará de manera ordinaria por lo menos una vez al mes, pudiendo realizar las sesiones extraordinarias que se requieran para su debido funcionamiento.
+El Comité sesionará de manera ordinaria una vez cada dos meses, y en forma extraordinaria las veces que sean necesarias.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2009)</small>
 
 ###### Artículo 13.
 
-El orden del día, junto con los documentos correspondientes de cada reunión, deberán entregarse a todos los miembros del Comité, cuando menos con dos días hábiles de anticipación para reuniones ordinarias y con un día hábil para las extraordinarias. En caso de no observarse estos plazos, la sesión no podrá llevarse a cabo.
+La convocatoria para la sesión junto con el Orden del Día y la documentación que dará sustento a la misma, deberá comunicarse, a los miembros del Comité cuando menos con cinco días hábiles de anticipación para las ordinarias y con dos días hábiles, para las extraordinarias.
 
 ###### Artículo 14.
 
@@ -255,7 +259,9 @@ I. Levantar las actas de las sesiones;
 
 II. Hacer llegar a los miembros del Comité, con la oportuna anticipación, la convocatoria, el orden del día y la carpeta documental de los asuntos que deban conocer;
 
-III. Comunicar a las áreas involucradas, así como a la Secretaría de la Junta Directiva los acuerdos que emita el Comité, en un término de cuarenta y ocho horas después de que éste sesione, para su atención, seguimiento, ejecución y cumplimiento;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2009)</small>
+
+III. Comunicar a las áreas involucradas, así como a la Secretaría de la Junta Directiva los acuerdos que emita el Comité, en un término de cinco días hábiles posteriores a la sesión, para su atención, seguimiento, ejecución y cumplimiento;
 
 IV. Realizar el análisis de los asuntos que se deban someter a la consideración del Comité para verificar su inclusión en el orden del día conforme a la normatividad aplicable; y
 
@@ -263,7 +269,9 @@ V. Las demás que le encomiende el Comité.
 
 3. DE LOS VOCALES
 
-I. Enviar al Secretario Técnico, ocho días hábiles antes de la reunión, los documentos de los asuntos que se deban someter a la consideración del Comité;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2009)</small>
+
+I. Enviar al Secretario Técnico, diez días hábiles antes de la reunión, los documentos de los asuntos que deban someterse a la consideración del Comité;
 
 II. Aprobar, en su caso, el orden del día;
 
@@ -482,3 +490,9 @@ Lo que me permito hacer de su conocimiento, para los efectos legales procedentes
 Atentamente
 
 México, D.F., a 11 de diciembre de 2008.- El Secretario, José Enrique Ampudia Mello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 24 DE JULIO DE 2009.
+
+Unico. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
