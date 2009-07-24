@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2008-11-17"
+last_updated: "2009-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -117,23 +117,33 @@ Este Reglamento tiene por objeto el preservar, mantener y conservar el orden pú
 
 Las sanciones a las infracciones administrativas cometidas a este Reglamento, serán aplicadas sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 4.
 
-Son Autoridades Municipales facultadas para aplicar el presente reglamento, y demás disposiciones que en materia de seguridad pública, tránsito y vialidad se refieren, las siguientes:
+Son Autoridades Municipales facultadas para aplicar el presente Reglamento, y demás disposiciones que en materia de seguridad pública, tránsito y vialidad se refieren, las siguientes:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 I.- El C. Presidente Municipal.
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
 II.- El C. Secretario del R. Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
 
-III.- El C. Secretario de Seguridad Ciudadana y Tránsito.
+III.- El C. Secretario de Seguridad de Guadalupe, Nuevo León.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 IV.- Los C. Jueces Calificadores.
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
 V.- El C. Director de Policía.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 VI.- El C. Director de Tránsito.
 
@@ -193,63 +203,113 @@ En dicho convenio se deberá prever la determinación de reglas operativas para 
 
 DE LAS FACULTADES Y OBLIGACIONES DE LA DIRECCION DE POLICÍA MUNICIPAL.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 7.
 
-Compete al Secretario de Seguridad Ciudadana y Tránsito a través de la Dirección de Policía, las atribuciones siguientes:
+Compete al Secretario de Seguridad de Guadalupe, Nuevo León, a través de la Dirección de Policía, las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 I. Prevenir las conductas delictivas e infracciones administrativas;
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 II. Proteger la integridad física de las personas, sus propiedades, derechos y libertades;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 III. La Vigilancia del cumplimiento estricto de las Leyes, el Reglamento de Policía y Buen Gobierno; y demás disposiciones jurídicas aplicables en la materia.
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 IV. Mantener el orden, la paz y tranquilidad de los lugares públicos;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 V. Vigilar las calles, parques, jardines, vías públicas, escuelas, plazas, comercios, mercados, panteones, zonas ecológicas, espectáculos públicos, centros de diversión, centros de reunión y aquellas que sean de la misma naturaleza;
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 VI. Proceder a la detención en los casos de flagrancia del delito y poner inmediatamente a disposición de las autoridades competentes a las personas detenidas, los bienes, objetos o instrumentos que se hayan asegurado y que se encuentren bajo su custodia; lo anterior, en los términos que dispone el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 VII. A petición expresa del Ministerio Público auxiliar en la investigación y persecución de los delitos;
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 VIII. Llevar el registro y control estadístico de los delitos, y las infracciones administrativas cometidas al Reglamento de Policía y Buen Gobierno;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 IX. Instrumentar programas, proyectos o acciones para garantizar la seguridad pública, prevenir del (sic) delito y las infracciones administrativas;
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 X. Observar y hacer cumplir lo dispuesto en el Programa Estatal de Seguridad Pública, que corresponda al ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 XI. Coordinar acciones con la Agencia Estatal de Policía para el cumplimiento de los objetivos y fines de la Ley de Seguridad Pública del Estado;
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 XII. Brindar las medidas de protección y seguridad a los servidores públicos municipales, en los términos y condiciones que establece este ordenamiento y el Reglamento respectivo;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 XIII. Ejecutar tareas de auxilio a la población en caso de accidentes, riesgos, siniestros, emergencias o desastres naturales, en apoyo a las instituciones de protección civil del Estado y del Municipio;
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 XIV. Colaborar con el organismo de participación ciudadana en materia de Seguridad Pública del Municipio;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 XV. Coordinar acciones con los Comités de Participación Comunitaria del Municipio;
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 XVI. Solicitar a las autoridades de Seguridad Pública del Estado, cuando la circunstancia lo requiera, la intervención de sus Grupos Tácticos o Unidades Especiales de Intervención o de Reacción;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 XVII. Dictar los Acuerdos correspondientes;
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 XVIII. Rendir un Informe mensual de las actividades realizadas en esa Dirección;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 XIX. Arrestar todo aquel individuo que contravengan cualquier disposición de este Reglamento y ponerlo a disposición de la Autoridad Municipal; y ésta a su vez remitirlo a la Autoridad competente en su caso;
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 XX. Retirar de la Vía Pública a todos aquellos individuos que practiquen la mendicidad; así como aquellas personas que alteren el orden;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 XXI. Prevenir que los menores de edad no ingresen a los bares, cantinas y demás negocios donde se consuman bebidas alcohólicas;
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 XXII. Tomar todas aquellas medidas que tengan por objeto el mantener el orden, la paz, la tranquilidad y la seguridad de los ciudadanos; y
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 XXIII. Las demás conferidas por las leyes y los Reglamentos vigentes.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
 
-ARTICULO 7 BIS.- La Secretaría de Seguridad Ciudadana y Tránsito orientará su organización y funcionamiento a que la conservación del orden, la paz y tranquilidad pública; prevenir los delitos y las infracciones administrativas, privilegiando la proximidad y comunicación con la ciudadanía, procurando su participación en actividades relacionadas con la seguridad pública municipal.
+ARTICULO 7 BIS.- La Secretaría de Seguridad de Guadalupe, Nuevo León, orientará su organización y funcionamiento a que la conservación del orden, la paz y tranquilidad pública; prevenir los delitos y las infracciones administrativas, privilegiando la proximidad y comunicación con la ciudadanía, procurando su participación en actividades relacionadas con la seguridad pública municipal.
 
-1.- La Secretaría de Seguridad Ciudadana y Tránsito a través de la Dirección de Policía orientará el ejercicio de sus atribuciones conforme a lo ordenado por la Ley de Seguridad Pública para el Estado de Nuevo León aplicando los siguientes principios:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
+
+1.- La Secretaría de Seguridad de Guadalupe, Nuevo León, a través de la Dirección de Policía orientará el ejercicio de sus atribuciones conforme a lo ordenado por la Ley de Seguridad Pública para el Estado de Nuevo León aplicando los siguientes principios:
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 I. Principio de Territorialidad: Consiste en el conocimiento y sentido de pertenencia que tiene el elemento de policía sobre la zona o extensión territorial que le corresponde vigilar y proteger, integrándose por los siguientes elementos:
 
@@ -258,6 +318,8 @@ a) Actuar dentro de un esquema operativo y funcional de mayor cobertura, delimit
 b) Conocer la distribución geográfica, poblacional y socioeconómica del territorio, distrito o zona de cobertura que le corresponda; y
 
 c) Contar con información sobre el comportamiento delictivo o de las infracciones administrativas que se generen en su territorio, distrito o sector, para lo cual se proveerá de la información estadística necesaria y de estudios e informes que sobre el particular se realicen.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 II. Principio de Proximidad: Consiste en establecer un vínculo permanente de comunicación, cercanía y colaboración con la comunidad, que le permita al elemento policial ejercer con mayor eficacia el cumplimiento de sus atribuciones, integrándose por los siguientes elementos:
 
@@ -273,6 +335,8 @@ e) Servir como una instancia auxiliar para el conocimiento de la problemática s
 
 f) Rendir cuentas periódicamente a la comunidad sobre la evaluación de las actividades que realiza y sobre la problemática delictiva que se genera en su entorno o sector, estableciendo compromisos de acción que tiendan a su mejoramiento, escuchando en todo momento las opiniones y experiencias de la comunidad.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 III. Principio de Proactividad: Consiste en la participación activa del elemento policial en el diseño e instrumentación de estrategias o acciones para evitar la generación de delitos e infracciones administrativas, integrándose por los siguientes elementos:
 
 a) Participar en el diseño y puesta en marcha de los programas de prevención del delito que al respecto se instrumenten conforme a las disposiciones contenidas en esta Ley;
@@ -280,6 +344,8 @@ a) Participar en el diseño y puesta en marcha de los programas de prevención d
 b) Recabar información que de acuerdo con su criterio pueda representar un riesgo o peligro para la comunidad; o bien, que pueda ser de utilidad para prever posibles conductas delictivas o infracciones administrativas o lograr, en su caso, la identificación o detención de personas que hayan cometido algún delito o infracción; y,
 
 c) Privilegiar, en los casos en que la Ley lo prevé, la solución de conflictos de menor impacto mediante el diálogo, la conciliación o la mediación, con el propósito de restaurar y armonizar los intereses de las partes en conflicto.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 IV. Principio de Promoción: Consiste en las actividades que realiza el elemento policial con el propósito de generar en la comunidad una cultura de la legalidad, del respeto a las Instituciones, de la denuncia ciudadana y de la prevención o autoprotección al delito, integrándose por los elementos siguientes:
 
@@ -289,9 +355,13 @@ b) Promover una cultura de la legalidad, de la denuncia ciudadana y de la preven
 
 Estos principios deberán de incorporarse en los programas de formación, capacitación, actualización, desarrollo, profesionalización y especialización para los integrantes de las instituciones policiales preventivas del Municipio que se impartan en la Academia.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 II (SIC).- La policía preventiva municipal se coordinara previo acuerdo del Cabildo, en el esquema intermunicipal denominado Policía Metropolitana (METROPOL), a fin de que conjuntamente con los demás municipios que lo integren, diseñen las estrategias operativas para prevenir y contralar conductas delictivas o infracciones administrativas que afecten la paz, el orden y la tranquilidad pública de los habitantes.
 
 La policía podrá constituirse en instancia de Coordinación Intermunicipal Regional, con sujeción a las disposiciones contenidas en la Ley de Seguridad Pública para el Estado de Nuevo León.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 III.- El Municipio se coordinará con las autoridades de Seguridad Pública del Estado para ejercer funciones de intervención, control o de reacción frente a delitos de alto impacto social o que la legislación penal los califica de graves.
 
@@ -329,9 +399,9 @@ I.- Colaborar en la preservación de la seguridad y la tranquilidad de los ciuda
 
 II.- Cooperar con la Autoridad Municipal en las campañas que se organicen para mejorar el servicio de Seguridad Pública.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
 
-III.- Informar a la Secretaría de Seguridad Ciudadana y Tránsito, sobre los problemas de Seguridad Pública que se presenten en su comunidad.
+III.- Informar a la Secretaría de Seguridad de Guadalupe, Nuevo León, sobre los problemas de Seguridad Pública que se presenten en su comunidad.
 
 IV.- Solicitar la designación de uno o varios vigilantes, según el caso, el lugar, las condiciones y las necesidades del vecindario; siempre y cuando los vecinos cooperen para tal propósito.
 
@@ -725,7 +795,7 @@ DEL RECURSO DE INCONFORMIDAD.
 
 DE LA COMISIÓN DE HONOR Y JUSTICIA Y TRAMITE DE QUEJAS.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 39.
 
@@ -777,7 +847,7 @@ DE LA ACTUALIZACION DE ESTE REGLAMENTO.
 
 ###### ARTICULO 42.
 
-Se crea la Comisión de Honor y Justicia de los Cuerpos de Seguridad Ciudadana y Tránsito del Municipio de Guadalupe, Nuevo León, a fin de dar cumplimiento al Artículo 86 de la Ley del Sistema de Seguridad Pública del Estado, la cual se regirá por su propio Reglamento.
+Se crea la Comisión de Honor y Justicia de los Cuerpos de Seguridad de Guadalupe, Nuevo León, a fin de dar cumplimiento al Artículo 86 de la Ley del Sistema de Seguridad Pública del Estado, la cual se regirá por su propio Reglamento.
 
 ###### ARTICULO 43.
 
@@ -954,3 +1024,11 @@ PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publ
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias circulares y demás disposiciones jurídicas que se opongan a las presentes modificaciones y reformas.
 
 TERCERO.- Envíese a la C. Presidencia Municipal para que tenga a bien instruir al C. Secretario del R. Ayuntamiento lo mande publicar en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
+
+P.O. 24 DE JULIO DE 2009.
+
+PRIMERO.- Estas modificaciones al Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe, Nuevo León, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes modificaciones.
+
+TERCERO.- Se remita el presente al C. Síndico Segundo Encargado del Despacho de la Presidencia Municipal, a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento para que se sirva enviar el Acuerdo para su debida publicación en el Periódico Oficial del Estado, así como en la Gaceta Municipal.
