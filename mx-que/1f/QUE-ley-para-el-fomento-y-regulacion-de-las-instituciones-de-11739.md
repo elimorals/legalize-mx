@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-fomento-y-regulacion-de-las-instituciones-de-11739"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-18"
-last_updated: "1996-01-18"
+last_updated: "2009-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA EL FOMENTO Y REGULACION DE LAS INSTITUCIONES DE ASISTENCIA PRIVADA EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 24 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 18 de enero de 1996.
 
@@ -752,3 +754,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. ALEJANDRO ESPINOSA MEDINA
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE JULIO DE 2009.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley para el fomento y regulación de las Instituciones de Asistencia Privada en el Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" de fecha 18 de enero de mil novecientos noventa y seis, así como todas las disposiciones legales que se opongan a la presente Ley.
+
+Artículo Tercero. Las instituciones dedicadas a la asistencia privada constituidas en otros Estados y que establezcan sucursales o representación en el Estado de Querétaro, deberán sujetarse a lo establecido en la presente Ley.
