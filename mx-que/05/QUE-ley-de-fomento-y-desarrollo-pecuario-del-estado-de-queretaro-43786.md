@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-queretaro-43
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-04"
-last_updated: "2007-11-07"
+last_updated: "2009-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "QUE"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO PECUARIO DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 24 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de febrero de 2005.
 
-LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Ar3teaga, a los habitantes del mismo sabed que:
+LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo sabed que:
 
 LA QUINCUAGÉSIMA CUARTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 40 Y 41 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, Y
 
@@ -1072,3 +1074,13 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 24 DE JULIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Fomento y Desarrollo Pecuario del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 6, de fecha cuatro de febrero de dos mil cinco.
+
+Artículo Tercero. El Poder Ejecutivo del Estado y los municipios, en su caso, emitirán las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+Artículo Cuarto. El Comité Estatal para el Fomento y Protección Pecuaria del Estado, S.C., continuará ejerciendo sus funciones en los términos de las disposiciones reglamentarias aplicables.
