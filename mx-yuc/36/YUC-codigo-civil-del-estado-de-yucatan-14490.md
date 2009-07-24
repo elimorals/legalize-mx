@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2007-06-13"
+last_updated: "2009-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO CIVIL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2009.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -1825,9 +1825,11 @@ II.- Su aptitud e idoneidad para desempeñar las funciones paternas;
 
 III.- Tener veinte años más que el menor o interdictado por adoptar;
 
-IV.- Estar casados entre sí o vivir en concubinato, y que dichas relaciones hayan tenido una duración mínima de cinco años ininterrumpidos y bien avenidos, según criterio del juzgador.
+IV.- Estar casados entre sí o vivir en concubinato, y que dichas relaciones hayan tenido una duración mínima de cinco años ininterrumpidos y bien avenidos, según criterio del juzgador;
 
-V.- Ser mayor de veinticinco años, soltero, y en pleno ejercicio de sus derechos.
+> <small>(REFORMADA, D.O. 24 DE JULIO DE 2009)</small>
+
+V.- Ser mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
 
 VI.- Ser de buenas costumbres.
 
@@ -13692,3 +13694,9 @@ La tramitación de los procedimientos judiciales, iniciados antes de la fecha pr
 ###### ARTÍCULO SEXTO.
 
 Se faculta al Pleno del Tribunal Superior de Justicia para tomar todos los acuerdos que considere necesarios o convenientes para la mejor aplicación de las disposiciones de este Decreto.
+
+D.O. 24 DE JULIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
