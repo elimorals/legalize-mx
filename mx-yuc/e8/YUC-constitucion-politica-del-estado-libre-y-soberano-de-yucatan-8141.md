@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2009-07-03"
+last_updated: "2009-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2009.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -707,7 +707,7 @@ VII.- Examinar, y en su caso aprobar semestralmente la cuenta pública del Gobie
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
-VII Bis.- instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
+VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -799,7 +799,7 @@ XXVI.- Recibir la protesta a los Magistrados del Tribunal Superior de Justicia a
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
+XXVII.- Resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
 
 XXVIII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -1989,11 +1989,17 @@ Las niñas, niños y adolescentes en desamparo y las personas con discapacidad r
 
 Las leyes que se dicten en esta materia atenderán la vigilancia y orientarán la conveniente asistencia social con miras a lograr la interacción y desarrollo individual asumido por las instituciones de beneficencia pública y privada.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2009)</small>
 
 ###### Artículo 94.
 
-El matrimonio es una institución jurídica dirigida a organizar la reproducción humana en el sentido de lograr generaciones física e intelectualmente capacitadas para la convivencia. El Estado reconoce que es de vital interés para la sociedad que en la unión de hombre y mujer para la procreación, se establezcan límites en cuanto a edad y salud física y psíquica, para evitar la degeneración de la especie. Se procurará la instalación de clínicas gratuitas para difundir los principios de la higiene sexual y para la esterilización voluntaria de quienes por sus antecedentes personales se reconozcan en peligro de engendrar seres débiles o anormales.
+La familia es una institución social permanente a la que se reconoce como el fundamento primordial de la sociedad sobre la cual evoluciona el Estado. Es una institución integrada por dos o más personas unidas o emparentadas entre sí, por afinidad, por consanguinidad o por adopción, que como comunidad afectiva y de convivencia, potencía el libre desarrollo de todos sus miembros.
+
+El matrimonio es una institución por medio del cual se establece la unión jurídica de un hombre y una mujer, con igualdad de derechos, deberes y obligaciones, con la posibilidad de generar la reproducción humana de manera libre, responsable e informada. El Estado reconoce que es de vital interés para la sociedad que en la unión de hombre y mujer para la procreación, se establezcan límites en cuanto a la edad y salud física y psíquica.
+
+El concubinato es la unión de un hombre y una mujer, quienes libres de matrimonio, viven como esposos y pueden generar una familia, en los términos que fije la ley.
+
+El Estado y la ley protegerán la organización y el desarrollo de la familia, así como el respeto a su dignidad e intimidad. Asimismo, regularán el matrimonio, las causas de separación, disolución y sus efectos; así como las condiciones para la constitución del concubinato.
 
 ###### Artículo 95.
 
@@ -3042,3 +3048,9 @@ Subsisten todos los plazos y términos relativos al proceso electoral que contem
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+D.O. 24 DE JULIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
