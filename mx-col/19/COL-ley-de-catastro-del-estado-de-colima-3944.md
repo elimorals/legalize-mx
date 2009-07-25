@@ -4,7 +4,7 @@ identifier: "COL-ley-de-catastro-del-estado-de-colima-3944"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-19"
-last_updated: "2007-11-24"
+last_updated: "2009-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE CATASTRO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de septiembre de 1992.
 
@@ -117,7 +117,9 @@ VIII.- Zonas catastrales: las áreas en la que se divide el territorio de los mu
 
 IX.- Padrón catastral: el conjunto de registros en los que se contienen los datos generales y particulares de los bienes inmuebles ubicados en la Entidad;
 
-X.- Clave catastral: la que para efectos catastrales identifica a cada predio y que asigna la Dirección;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
+
+X.- Clave catastral: la que para efectos catastrales identifica a cada predio y que asigna el Ayuntamiento;
 
 XI.- Valores unitarios:
 
@@ -189,7 +191,9 @@ II.- Elaborar las tablas generales de valores unitarios de terreno y de construc
 
 III.- Mantener actualizada la cartografía de su Municipio;
 
-IV.- Conservar la clave catastral de cada uno de los bienes inmuebles;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
+
+IV.- Asignar la clave catastral de cada uno de los bienes inmuebles;
 
 V.- Solicitar a las dependencias y organizaciones auxiliares federales y estatales, así como a los propietarios o poseedores de bienes inmuebles, los datos, documentos o informes que sean necesarios para integrar y actualizar el padrón catastral municipal;
 
@@ -197,9 +201,15 @@ VI.- Realizar los trabajos técnicos tendientes a lograr la identificación, val
 
 VII.- Expedir y notificar los avalúos catastrales;
 
-VIII.- Imponer las sanciones que procedan en los términos de esta Ley; y
+VIII.- Imponer las sanciones que procedan en los términos de esta Ley; y (sic)
 
-IX.- Las demás que determinen esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
+
+IX.- Inscribir los bienes inmuebles en el padrón catastral y mantenerlo actualizado; y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2009)</small>
+
+X.- Las demás que determinen esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
@@ -209,7 +219,9 @@ El Secretario de Finanzas tiene las siguientes atribuciones:
 
 I.- Establecer los programas tendientes a lograr los objetivos del Catastro;
 
-II.- Aprobar los (sic) normas técnicas y administrativas aplicables a la realización de los trabajos catastrales;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
+
+II.- Aprobar las normas técnicas y administrativas aplicables a la realización de los trabajos catastrales;
 
 III.- Participar con el Gobernador en la suscripción de acuerdos de coordinación a que se refiere el artículo 9°; y
 
@@ -229,9 +241,13 @@ III.- Efectuar, en coordinación con las dependencias de los Ejecutivos federal 
 
 IV.- Integrar la información catastral del Estado;
 
-V.- Elaborar y mantener actualizada la cartografía del Estado;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
 
-VI.- Asignar clave catastral a cada uno de los bienes inmuebles;
+V.- Conservar la cartografía del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
+
+VI.- Conservar la clave catastral a cada uno de los bienes inmuebles;
 
 VII.- Inscribir los bienes inmuebles en el padrón catastral y mantenerlo actualizado;
 
@@ -249,11 +265,11 @@ En el ejercicio de las atribuciones a que se refiere el artículo 10 de este ord
 
 ### CAPITULO III. DE LOS VALORES UNITARIOS
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 14.
 
-La aprobación de las tablas generales de valores unitarios de terreno y de construcción se llevará a cabo cuando menos una vez al año, y estarán en vigor en el ejercicio fiscal siguiente al de su aprobación.
+La aprobación de las tablas generales de valores unitarios de terreno y de construcción se llevará a cabo una vez al año, y entrarán en vigor el 1o de enero del ejercicio fiscal siguiente al de su aprobación, previa su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO 15.
 
@@ -349,7 +365,9 @@ Al inscribir un predio en el padrón catastral, se le asignará una clave catast
 
 La inscripción o actualización de los predios en el padrón catastral, deberá ser manifestada por los propietarios o poseedores ante la autoridad catastral del municipio de ubicación de los predios, dentro de los treinta días naturales siguientes a la fecha en que se formalice su adquisición o se efectúe la modificación que deba ser manifestada.
 
-La manifestación de los actos a que se refiere este artículo, podrá ser presentada por los notarios públicos o por las instituciones regularizadoras de la tenencia de la tierra que hayan intervenido en los mismos.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2009)</small>
+
+La manifestación de los actos a que se refiere este artículo, podrá ser presentada por los notarios públicos, por resolución judicial o por las instituciones regularizadoras de la tenencia de la tierra que hayan intervenido en los mismos.
 
 Cuando los propietarios o poseedores de predios no presenten en el plazo establecido en esta Ley la manifestación respectiva, el Ayuntamiento correspondiente procederá de oficio a realizar la inscripción o actualización de que se trate, sin perjuicio de que se aplique la sanción correspondiente.
 
@@ -383,15 +401,21 @@ La inscripción de un predio en el padrón catastral no genera ningún derecho d
 
 El padrón catastral estará bajo el control y administración de la Dirección y podrá ser consultado por otras dependencias y organismos auxiliares del Ejecutivo Estatal y por los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 33.
 
-La Dirección proporcionará información y expedirá constancias y certificaciones de los planos y datos que obren en el padrón catastral, previa solicitud por escrito de los particulares que acrediten su interés y hayan realizado el pago de los derechos respectivos.
+La Dirección proporcionará información y expedirá constancias de no propiedad y certificaciones de los planos y datos que obren en el padrón catastral, previa solicitud por escrito de los particulares que acrediten su interés y hayan realizado el pago de los derechos respectivos.
+
+El Ayuntamiento proporcionará información y expedirá constancias, certificaciones documentos y planos, que obren en le (sic) padrón catastral del Ayuntamiento y que no constituyan una violación a la Ley de Transparencia vigente.
 
 ### CAPITULO V. DE LA VALUACION Y REVALUACION
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 34.
 
-La autoridad catastral asignará el valor catastral a los predios de conformidad con lo establecido en la presente Ley y las normas técnicas y administrativas aplicables emitiendo una resolución de valor.
+La autoridad catastral municipal asignará el valor catastral a los predios de conformidad con lo establecido en la presente Ley y las normas técnicas y administrativas aplicables emitiendo una resolución de valor.
 
 ###### ARTICULO 35.
 
@@ -594,3 +618,7 @@ Por única vez, el plazo del 30 de octubre a que se refiere la fracción II del 
 P.O. 24 DE NOVIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE JULIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
