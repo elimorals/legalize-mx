@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2008-05-24"
+last_updated: "2009-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACION DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -234,6 +234,10 @@ XVI.- Elaborar anualmente y mantener actualizado el padrón escolar y el inventa
 XVII.- Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, normal y demás para la formación de maestros de educación básica, acorde a lo preceptuado por la fracción II del artículo 13 de la Ley General de Educación;
 
 Los planes y programas de estudio aprobados por la Secretaría de Educación Pública, deberán de publicarse en el Periódico Oficial del Estado, de conformidad con lo establecido en el artículo 48 de la Ley General de Educación;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2009)</small>
+
+XVII Bis.- Crear en coordinación con las autoridades competentes, asociaciones sindicales de maestros y la comunidad escolar el Reglamento para la Prevención y Seguridad Escolar, como un mecanismo necesario para garantizar la seguridad e integridad física de los alumnos de educación básica en su entorno escolar;
 
 XVIII.- Evaluar el sistema educativo estatal en forma sistemática y permanente con el fin de adoptar las medidas procedentes.
 
@@ -843,15 +847,21 @@ II.- Colaborar para una mejor integración de la comunidad escolar, así como en
 
 III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que las propias asociaciones deseen hacer al establecimiento escolar;
 
-IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores, y (sic)
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2007)</small>
+IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
 
 V.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
 
-VI.- Cooperar con las autoridades escolares en el diseño de programas y planes de alimentación saludable que el Estado, a través de la Secretaría de Salud y Educación en su caso, considere convenientes.
+VI.- Cooperar con las autoridades escolares en el diseño de programas y planes de alimentación saludable que el Estado, a través de la Secretaría de Salud y Educación en su caso, considere convenientes; y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2009)</small>
+
+VII.- Colaborar con las autoridades educativas en la aplicación del Reglamento para la Prevención y Seguridad Escolar, tendientes a proteger la seguridad de los alumnos de educación básica en su entorno escolar.
 
 (REUBICADO [N. DE E. ANTES SEGUNDO PARRAFO DE LA FRACCION V], P.O. 14 DE JULIO DE 2007)
 
@@ -875,7 +885,9 @@ Será responsabilidad de la autoridad de cada escuela pública de educación bá
 
 La autoridad escolar hará lo conducente para que en cada escuela pública de educación básica opere un consejo escolar de participación social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, alumnos, exalumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
-Este consejo conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización; tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas; propiciará la colaboración de maestros y padres de familia; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela; estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos; llevará a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar; alentará el interés familiar y comunitario por el desempeño del educando, podrá opinar en asuntos pedagógicos; contribuirá a reducir las condiciones sociales adversas que influyen en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares; respaldará las labores cotidianas de la escuela; y, en general, podrá realizar actividades en beneficio de la propia escuela.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2009)</small>
+
+Este consejo conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización; tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas; propiciará la colaboración de maestros, padres de familia; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela; estimulará, promoverá y apoyará actividades extra escolares que complementen y respalden la formación de los educandos; llevará a cabo las acciones de participación, coordinación y difusión necesarias para garantizar la prevención, seguridad, protección civil y la emergencia en el entorno escolar; alentará el interés familiar y comunitario por el desempeño del educando, podrá opinar en asuntos pedagógicos; contribuirá a reducir las condiciones sociales adversas que influyen en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de instalaciones escolares; respaldará las labores cotidianas de la escuela; y, en general, podrá realizar actividades en beneficio de la propia escuela.
 
 Consejos análogos podrán operar en las escuelas particulares de educación básica.
 
@@ -1120,3 +1132,9 @@ P.O. 14 DE JULIO DE 2007.
 P.O. 24 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE JULIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Ejecutivo del Estado expedirá el Reglamento para la Prevención y Seguridad Escolar, en un plazo no mayor de ciento ochenta días naturales a partir de la entrada en vigor del presente ordenamiento.
