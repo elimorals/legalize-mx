@@ -4,7 +4,7 @@ identifier: "COL-ley-de-seguridad-publica-para-el-estado-de-colima-50998"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-17"
-last_updated: "2006-06-17"
+last_updated: "2009-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 17 de junio de 2006.
 
@@ -1579,9 +1579,17 @@ III. Realizar labores de seguimiento;
 
 IV. Proponer reconocimientos por méritos y estímulos para los miembros de las instituciones policiales;
 
-V. Realizar denuncias o quejas sobre irregularidades; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
 
-VI. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
+V. Realizar denuncias o quejas sobre irregularidades;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
+
+VI. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública; y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2009)</small>
+
+VII. Aplicar y vigilar en coordinación con las autoridades competentes el cumplimiento del Reglamento para la Prevención y Seguridad Escolar, mecanismo que garantizará la integridad física de los alumnos.
 
 ###### ARTÍCULO 108.
 
@@ -1656,3 +1664,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 12 del mes de junio del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE JULIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Ejecutivo del Estado expedirá el Reglamento para la Prevención y Seguridad Escolar, en un plazo no mayor de ciento ochenta días naturales a partir de la entrada en vigor del presente ordenamiento.
