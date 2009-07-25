@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2009-05-09"
+last_updated: "2009-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2009.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -85,7 +85,7 @@ El Congreso tendrá dos períodos ordinarios de sesiones cada año y las sesione
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-El primer período iniciará precisamente el primero de octubre y concluirá el último día de febrero del año siguiente; y el segundo dará inicio el primero de abril y concluirá el treinta y uno de agosto del mismo año. Al abrir y cerrar sus períodos de sesiones lo hará por Decreto.
+El primer período iniciará precisamente el primero de octubre y concluirá el último día de febrero del año siguiente; y el segundo dará inicio el primero de abril y concluirá el treinta y uno de agosto del mismo año. Al abrir y cerrar su períodos de sesiones lo hará por Decreto.
 
 Se consideran días hábiles para el trabajo legislativo y parlamentario, todos los comprendidos dentro de cada uno de los períodos.
 
@@ -455,7 +455,7 @@ El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, �
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
-En caso de ausencia del Presidente o cuando este debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
+En caso de ausencia del Presidente o cuando éste debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -857,6 +857,10 @@ Los Diputados podrán organizarse en grupos parlamentarios para sostener los pri
 
 En ningún caso los Diputados podrán pertenecer a más de un grupo parlamentario.
 
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2009)</small>
+
+El Diputado que renuncie a su grupo parlamentario, se declarará Diputado independiente y de ninguna forma podrán formar un grupo parlamentario por separado; sólo si deciden adherirse a otro grupo, podrán hacerlo al inicio de un periodo ordinario de sesiones, perdiendo la calidad de Diputado independiente.
+
 ###### ARTICULO 65.
 
 Los grupos parlamentarios, con las excepciones previstas en esta Ley, gozarán de idénticos derechos y obligaciones.
@@ -881,9 +885,9 @@ La partida global determinada en el presupuesto del Congreso destinada al apoyo 
 
 Los recursos financieros serán suministrados a los grupos parlamentarios conforme al calendario aprobado en el presupuesto de egresos del Congreso, mismos que deberán comprobarse.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2009)</small>
 
-Cuando un Diputado sea el único acreditado por un partido político y, por tanto, no integre grupo parlamentario, tendrá derecho a recibir la parte proporcional que corresponda de la partida de apoyo financiero a que se refiere el primer párrafo de este artículo, así como a los demás apoyos de ley.
+Cuando un Diputado sea el único acreditado por un partido político o se haya declarado independiente, por tanto, no integre grupo parlamentario, tendrá derecho a recibir la parte proporcional que corresponda de la partida de apoyo financiero a que se refiere el primer párrafo de este artículo, así como a los demás apoyos de ley.
 
 ###### ARTICULO 70.
 
@@ -1334,3 +1338,7 @@ P.O. 1 DE NOVIEMBRE DE 2008.
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 25 DE JULIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
