@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2008-12-31"
+last_updated: "2009-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -735,11 +735,11 @@ IV. La inhabilitación para desempeñar un empleo, cargo o comisión en el servi
 
 V. Las sanciones económicas serán aplicadas por el superior jerárquico cuando el monto no exceda de dos mil veces el salario mínimo diario vigente en la capital del Estado, y por la Contraloría cuando sean superiores a dicho monto, excepto las sanciones que corresponda aplicar al Titular del Ejecutivo Estatal, quien podrá hacerlo independientemente de su monto, en los términos de esta Ley. El cobro de las sanciones económicas se hará efectivo por la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2009)</small>
 
 ###### Artículo 73.
 
-En los Poderes Legislativo y Judicial y en los Municipios, las sanciones por responsabilidad administrativa serán aplicadas por el superior jerárquico, excepto las de carácter económico cuyo monto exceda de dos mil veces el salario mínimo diario vigente en la capital del Estado, las cuales serán aplicadas respectivamente por la Asamblea en Pleno del Congreso del Estado, el Pleno del Tribunal Superior de Justicia, y por los Ayuntamientos, en el ámbito de sus respectivas competencias. El cobro de dichas sanciones se hará efectivo por la Secretaría de Finanzas y Tesorería General del Estado y Tesorerías Municipales, según corresponda.
+En los Poderes Legislativo y Judicial y en los Municipios, las sanciones por responsabilidad administrativa serán aplicadas por el superior jerárquico, excepto las de carácter económico cuyo monto exceda de dos mil veces el salario mínimo diario vigente en la capital del Estado, las cuales serán aplicadas respectivamente por la Asamblea en Pleno del Congreso del Estado, el Pleno del Tribunal Superior de Justicia tratándose de los Magistrados y del personal adscrito al propio Tribunal y el Consejo de la Judicatura respecto de los demás servidores del Poder Judicial, y por los Ayuntamientos en el ámbito de sus respectivas competencias. El cobro de dichas sanciones se hará efectivo por la Secretaría de Finanzas y Tesorería General del Estado y Tesorerías Municipales, según corresponda.
 
 ###### Artículo 74.
 
@@ -1412,3 +1412,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 31 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
