@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2009-07-13"
+last_updated: "2009-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -223,7 +223,9 @@ XVIII. Consejo Ciudadano de Seguridad Pública y Tránsito.
 
 XIX. Consejo Consultivo del Instituto Municipal de Planeación.
 
-XX. Comité Municipal de Adquisiciones y Enajenaciones de Inmuebles.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2009)</small>
+
+XX. Comité de Bienes Inmuebles del Municipio de Aguascalientes.
 
 XXI. Consejo Consultivo de la Academia Taurina.
 
@@ -1847,7 +1849,9 @@ XVII. Apoyar y participar en los proyectos de reorganización que formulen las d
 
 XVIII. Definir y establecer mecanismos y/o metodología que fomenten en el servidor público una cultura de mejoramiento continuo.
 
-XIX. Elaborar con la intervención de los Síndicos el inventario general de bienes muebles e inmuebles propiedad del Municipio, de los destinados a un servicio público y los de uso común, expresando en el mismo todas las características de identificación.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2009)</small>
+
+XIX. Elaborar, con la intervención de los Síndicos, el inventario general de bienes muebles propiedad del Municipio, expresando en el mismo todas las características de identificación.
 
 XX. Controlar y dar seguimiento al sistema global de gestión de calidad para mantener los certificados obtenidos por la administración municipal.
 
@@ -2059,7 +2063,9 @@ XXVIII. Establecer y verificar en fraccionamientos, condominios y desarrollos es
 
 XXIX. Requerir los dictámenes correspondientes para liberar las constancias de terminación de obra en la ejecución de la urbanización de subdivisiones, fraccionamientos, condominios y desarrollos especiales.
 
-XXX. Coordinar los Comités y Subcomités en materia Urbana; Subcomité de Asentamientos Humanos Irregulares, Subcomité de Tránsito y Análisis Vial, Comité de Adquisiciones y Enajenaciones de Bienes inmuebles Municipales, El Subcomité Técnico de Cartografía, Subcomité de Imagen Urbana; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2009)</small>
+
+XXX. Coordinar los Comités y Subcomités en materia Urbana; Subcomité de Asentamientos Humanos Irregulares, subcomité de Tránsito y Análisis Vial, Comité de Bienes Inmuebles del Municipio de Aguascalientes, el Subcomité Técnico de Cartografía y el Subcomité de Imagen Urbana.
 
 XXXI. Dictaminar sobre el uso de suelo de bienes inmuebles cuando así le sea requerido.
 
@@ -18914,3 +18920,29 @@ Se ratifica el acuerdo del H. Cabildo del Municipio de Aguascalientes del 07 de 
 ###### ARTÍCULO TERCERO.
 
 Se ratifican todos los actos jurídicos y contratos firmados por el Síndico Procurador del H. Ayuntamiento del Municipio de Aguascalientes del periodo constitucional 2008-2010.
+
+P.O. 27 DE JULIO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo que no excederá de doce meses contados a partir de la entrada en vigor del Reglamento del Patrimonio Inmobiliario del Municipio de Aguascalientes, se deberá someter a la aprobación del H. Ayuntamiento de Aguascalientes el inventario de bienes inmuebles que integran el patrimonio inmobiliario municipal.
+
+###### ARTÍCULO TERCERO.
+
+Las resoluciones que hubiesen sido aprobadas por el Comité con anterioridad a la entrada en vigor del Reglamento del Patrimonio Inmobiliario del Municipio de Aguascalientes serán válidas y, según lo estime procedente la Secretaría de Desarrollo Urbano, de contarse con la documentación que en éste se requiere, podrá emitirse dictamen sobre los mismos, en términos de lo dispuesto en el Reglamento del Patrimonio inmobiliario del Municipio de Aguascalientes, o bien, podrán tramitarse hasta su total conclusión de conformidad con los ordenamientos jurídicos que estuvieron vigentes al momento de su aprobación.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor del Reglamento del Patrimonio Inmobiliario del Municipio de Aguascalientes, en los actos en que se haga constar la escrituración de bienes inmuebles propiedad del Municipio, deberá señalarse si estos pertenecen al dominio público o privado, conforme a las disposiciones del Reglamento del Patrimonio Inmobiliario del Municipio de Aguascalientes. Para tal efecto la Secretaría de Desarrollo Urbano expedirá la constancia correspondiente antes de las escrituraciones referidas.
+
+###### ARTÍCULO QUINTO.
+
+En un plazo no mayor de treinta días hábiles a la entrada en vigor del presente decreto, el Comité de Bienes Inmuebles del Municipio de Aguascalientes deberá proponer a la Comisión de Gobernación del H. Ayuntamiento la normatividad relacionada con los requisitos que habrán de reunir los solicitantes. Además de la normatividad relacionada con los requisitos de procedibilidad de las asignaciones, donaciones, permuta, compraventa, arrendamiento, comodato o cualquier otro traslativo de dominio o posesión de los bienes inmuebles pertenecientes al patrimonio inmobiliario, así como las revocaciones de los actos relativos al patrimonio inmobiliario municipal.
+
+###### ARTÍCULO SEXTO.
+
+El Reglamento del Patrimonio Inmobiliario del Municipio de Aguascalientes abroga el Reglamento del Patrimonio Inmobiliario Municipal publicado en el Periódico Oficial del Estado de Aguascalientes, en fecha 1°, de octubre 2001.
