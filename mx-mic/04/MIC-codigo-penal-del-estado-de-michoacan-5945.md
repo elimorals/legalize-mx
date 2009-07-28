@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2009-05-21"
+last_updated: "2009-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -1265,7 +1265,31 @@ Los funcionarios y agentes de la autoridad pueden llevar las armas necesarias pa
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
 
-### CAPITULO I. Ataques a las Vías de Comunicación
+### CAPITULO V. Delitos contra el Sistema de Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2009)</small>
+
+Artículo 133 bis.- Se sancionará de uno a cuatro años de prisión y de cien a seiscientos días de salario mínimo general vigente de multa, a quien dolosa y reiteradamente se abstenga de proporcionar al Secretariado Ejecutivo la información que esté obligado en términos de la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo, a pesar de ser requerido por el Secretario Ejecutivo, dentro de un plazo que no excederá de treinta días naturales.
+
+Se impondrá además, la destitución e inhabilitación del cargo, empleo o comisión, por un plazo igual al de la pena impuesta.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2009)</small>
+
+Artículo 133 ter.- Se sancionará con dos a ocho años de prisión y de quinientos a mil días de salario mínimo general vigente de multa, a quien dolosamente:
+
+I. Ingrese a los bancos de datos del Sistema previstos en la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo, información errónea, que dañe o que pretenda dañar en cualquier forma los registros, los bancos de datos o los equipos o sistemas que las contengan;
+
+II. Divulgue información clasificada de los bancos de datos o sistemas informáticos a que se refiere la Ley mencionada en la fracción anterior;
+
+III. Inscriba o registre en los bancos de datos del personal de las instituciones de Seguridad Pública, prevista en la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo, como miembro o integrante de una institución de Seguridad Pública de cualquier orden de Gobierno, a persona que no cuente con la certificación exigible conforme a la mencionada Ley; y,
+
+IV. Asigne nombramiento de Policía, Agente del Ministerio Público o Perito Oficial a persona que no haya sido certificada y registrada en los términos de la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo.
+
+Si el responsable es o hubiera sido servidor público de las instituciones de Seguridad Pública, se aumentará hasta una mitad más de la pena correspondiente, además, la inhabilitación por un plazo igual al de la pena de prisión impuesta para desempeñarse como servidor público en cualquier orden de Gobierno, y en su caso, la destitución.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2009)</small>
+
+Artículo 133 quater.- Se sancionará con cinco a doce años de prisión y de doscientos a ochocientos días de salario mínimo general vigente de multa, a quien falsifique el certificado a que se refiere la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo, lo altere, comercialice o lo use.
 
 ###### Artículo 132.
 
@@ -1293,15 +1317,15 @@ Cuando el miembro de la pandilla sea o haya sido servidor público de alguna cor
 
 La hipótesis legal contemplada en este artículo, no constituye un tipo penal autónomo, sino una modalidad agravante.
 
-### CAPITULO II. Delitos Cometidos por Conductores de Vehículos
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+### CAPITULO I. Ataques a las Vías de Comunicación
 
 ## TITULO CUARTO. DELITOS CONTRA LA AUTORIDAD
 
-### CAPITULO III. Violación de Correspondencia
+### CAPITULO II. Delitos Cometidos por Conductores de Vehículos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 134.
 
@@ -1363,9 +1387,9 @@ Si en el vehículo de servicio público que se incendie no se halla persona algu
 
 Se impondrán de quince días a dos años de prisión y multa de diez a cien días de salario, al que de cualquier modo destruya, inutilice, apague, quite o cambie una señal establecida para la seguridad de las vías de comunicación estatales o medios de transporte de servicio público estatal.
 
-### CAPITULO I. Desobediencia y Resistencia de Particulares
+### CAPITULO III. Violación de Correspondencia
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1994)</small>
 
 ###### Artículo 140.
 
@@ -1377,7 +1401,9 @@ Al que en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópico
 
 Se impondrán de tres días a un año de prisión o multa de veinte a quinientos días salario, al que dentro del plazo de un año viole dos o más veces las disposiciones sobre la circulación de vehículos en carreteras o caminos, por exceso de velocidad o ausencia de señales que indiquen su estacionamiento. Si el estacionamiento, sin señales ocurre de noche, bastará una sola infracción para aplicar de tres meses a dos años de prisión y multa de cincuenta a quinientos días de salario.
 
-### CAPITULO II. Oposición a que se Ejecute Alguna Obra o Trabajos Públicos
+### CAPITULO I. Desobediencia y Resistencia de Particulares
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1994)</small>
 
 ###### Artículo 142.
 
@@ -1401,17 +1427,15 @@ La disposición del artículo 142 no comprende la correspondencia que circule po
 
 Al empleado de una oficina telegráfica, telefónica o inalámbrica, o de radiocomunicación propiedad del Gobierno del Estado, que conscientemente dejare de transmitir un mensaje que se le entregue con ese objeto, o de comunicar al destinatario el que recibiere de otra oficina, se le impondrán prisión de seis meses a un año y multa hasta de trescientos días de salario, si no resultare perjuicio. Si se causare daño, se duplicará la sanción fijada por este artículo, aplicando las reglas del concurso de delitos.
 
-### CAPITULO III. Violación de Sellos
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
+### CAPITULO II. Oposición a que se Ejecute Alguna Obra o Trabajos Públicos
 
 ## TITULO QUINTO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
 
-### CAPITULO IV. Delitos Cometidos Contra Funcionarios Públicos
+### CAPITULO III. Violación de Sellos
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
 
 ###### Artículo 146.
 
@@ -1445,7 +1469,9 @@ El que debiendo ser examinado en juicio y sin que le aprovechen las excepciones 
 
 Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio, sin haberse logrado aquel objeto.
 
-### CAPITULO V. Terrorismo
+### CAPITULO IV. Delitos Cometidos Contra Funcionarios Públicos
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 152.
 
@@ -1461,9 +1487,7 @@ Cuando el delito se cometa por varias personas, de común acuerdo, la sanción s
 
 A las sanciones de que hablan los dos artículos que preceden, se podrá agregar una multa de diez a cien días de salario, cuando no hubiere lugar a la reparación del daño.
 
-### CAPITULO VI. Ultrajes a Insignias Públicas
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+### CAPITULO V. Terrorismo
 
 ###### Artículo 155.
 
@@ -1471,9 +1495,9 @@ Al que quebrante dolosamente los sellos puestos por orden de la autoridad compet
 
 Se equipara al delito de quebrantamiento de sellos y se sancionará con la misma pena, al titular, propietario o responsable de un establecimiento mercantil o de la construcción de obra que se encuentre en estado de clausura, que realice actos de comercio, construcción o prestación de un servicio, aún cuando los sellos permanezcan íntegros.
 
-### CAPITULO I. Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho
+### CAPITULO VI. Ultrajes a Insignias Públicas
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 156.
 
@@ -1487,7 +1511,7 @@ La hipótesis legal a que hace mérito este numeral, es una modalidad agravante 
 
 Los ultrajes hechos a la Legislatura, a un tribunal o a cualquiera institución pública, sin referirse a sus componentes, se castigarán con prisión de seis meses a un año y multa de cincuenta a cien días de salario.
 
-### CAPITULO II. Pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho
+### CAPITULO I. Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
@@ -1501,9 +1525,9 @@ Si de los actos a que se refiere el artículo anterior resultare la muerte de un
 
 Si resultaren lesiones, además de la pena correspondiente a ellas y al delito de terrorismo, los responsables serán sancionados con pena de prisión de dos a seis años.
 
-### CAPITULO III. Lenocinio y trata de personas
+### CAPITULO II. Pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 160.
 
@@ -1521,9 +1545,7 @@ Al que ultraje insignias de las instituciones que tengan actuación pública, de
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1994)</small>
 
-### CAPITULO IV
-
-Provocación de un delito y apología de éste o de algún vicio y de la omisión de impedir un delito que atente contra el libre desarrollo de la personalidad, la dignidad humana o la integridad física o moral
+### CAPITULO III. Lenocinio y trata de personas
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
@@ -1547,9 +1569,11 @@ Incurrirán en la misma pena los que ejerzan la patria potestad, la tutela o cus
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
 
-### CAPITULO I. Cohecho
+### CAPITULO IV
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
+Provocación de un delito y apología de éste o de algún vicio y de la omisión de impedir un delito que atente contra el libre desarrollo de la personalidad, la dignidad humana o la integridad física o moral
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 164.
 
@@ -1583,9 +1607,9 @@ Los sujetos activos de los delitos previstos en los Capítulos I, II y III, del 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
 
-### CAPITULO II. Peculado
+### CAPITULO I. Cohecho
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 167.
 
@@ -1637,7 +1661,7 @@ IV. Hasta una mitad del máximo de la sanción, cuando se hiciere uso de violenc
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
 
-### CAPITULO III. Concusión
+### CAPITULO II. Peculado
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -1669,9 +1693,9 @@ Al que revele un secreto que hubiere conocido en el ejercicio indebido de funcio
 
 ## TITULO OCTAVO. DELITOS CONTRA LA ADMINISTRACION DE LA JUSTICIA
 
-### CAPITULO IV. Anticipación, Prolongación y Abandono de Funciones Públicas
+### CAPITULO III. Concusión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 174.
 
@@ -1687,9 +1711,9 @@ II. Al que dé u ofrezca o prometa dinero, o ventajas pecuniarias a las personas
 
 Al cohechador se le eximirá de toda sanción cuando denuncie el delito en un plazo no mayor de veinticuatro horas contadas desde el momento en que el mismo se cometió.
 
-### CAPITULO V. Coalición de servidores públicos o comisionados
+### CAPITULO IV. Anticipación, Prolongación y Abandono de Funciones Públicas
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 176.
 
@@ -1707,9 +1731,9 @@ La sanción será de uno a seis meses de prisión y multa de diez a cien días d
 
 La sanción será de un mes a tres años de prisión y multa hasta de cien días de salario, si antes de celebrarse la audiencia final en el proceso, se repara el daño causado.
 
-### CAPITULO VI. Infidelidad en la Custodia de Documentos
+### CAPITULO V. Coalición de servidores públicos o comisionados
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 179.
 
@@ -1719,7 +1743,7 @@ Se aplicarán de dos a seis años de prisión, multa hasta de quinientos días d
 
 Iguales sanciones se aplicarán a las personas comisionadas por los funcionarios o empleados a que se refiere el artículo anterior, que con tal representación realicen los actos constitutivos del delito de concusión
 
-### CAPITULO VII. Abuso de Autoridad
+### CAPITULO VI. Infidelidad en la Custodia de Documentos
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -1736,6 +1760,20 @@ III. Se ostenten con una comisión, empleo o cargo distintos del que realmente t
 IV. Abandonen la comisión, empleo o cargo sin habérseles admitido la renuncia o concedido licencia, o antes de que se presente la persona que haya de substituirlos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
+
+### CAPITULO VII. Abuso de Autoridad
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+
+###### Artículo 182.
+
+Cometen el delito de coalición de servidores públicos o comisionados los que se coaliguen para tomar medidas contrarias a una ley, decreto o reglamento, para impedir su ejecución o para dimitir de sus cargos y empleos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+
+###### Artículo 183.
+
+El delito de coalición de servidores públicos o comisionados se sancionará con prisión de seis meses a tres años y multa de cinco a doscientos cincuenta días de salario.
 
 ### CAPITULO VIII. Enriquecimiento ilícito
 
@@ -1755,15 +1793,19 @@ Cuando el monto a que ascienda al enriquecimiento ilícito, exceda del equivalen
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE OCTUBRE DE 2007)</small>
 
-###### Artículo 182.
+###### Artículo 184.
 
-Cometen el delito de coalición de servidores públicos o comisionados los que se coaliguen para tomar medidas contrarias a una ley, decreto o reglamento, para impedir su ejecución o para dimitir de sus cargos y empleos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
+Se impondrán prisión de tres meses a cinco años, destitución del empleo o cargo e inhabilitación de tres a siete años para obtener otros de la misma naturaleza y multa hasta por doscientos cincuenta días de salario mínimo, a los servidores públicos que:
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+I. Sustrajeren, destruyeren u ocultaren documentos, papeles o expedientes que les estuvieren confiados por razón de su cargo;
 
-###### Artículo 183.
+II. Teniendo a su cargo la custodia de documentos o efectos sellados por la autoridad, quebrantaren los sellos o consintieren su quebrantamiento; y,
 
-El delito de coalición de servidores públicos o comisionados se sancionará con prisión de seis meses a tres años y multa de cinco a doscientos cincuenta días de salario.
+III. Abrieren o consintieren abrir, sin la autorización correspondiente, papeles o documentos cerrados cuya custodia les estuviere confiada.
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 1998)</small>
+
+IV. Por negligencia extravíen algún documento, papeles o expedientes que les estuvieran confiados por razón de su cargo.
 
 ### CAPITULO IX. De la Tortura
 
@@ -1849,22 +1891,6 @@ III. Profesionalizar sus cuerpos policiales; y,
 
 IV. Profesionalizar los servidores públicos que participan en la custodia y tratamiento de toda persona sometida a arresto, detención o prisión.
 
-###### Artículo 184.
-
-Se impondrán prisión de tres meses a cinco años, destitución del empleo o cargo e inhabilitación de tres a siete años para obtener otros de la misma naturaleza y multa hasta por doscientos cincuenta días de salario mínimo, a los servidores públicos que:
-
-I. Sustrajeren, destruyeren u ocultaren documentos, papeles o expedientes que les estuvieren confiados por razón de su cargo;
-
-II. Teniendo a su cargo la custodia de documentos o efectos sellados por la autoridad, quebrantaren los sellos o consintieren su quebrantamiento; y,
-
-III. Abrieren o consintieren abrir, sin la autorización correspondiente, papeles o documentos cerrados cuya custodia les estuviere confiada.
-
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 1998)</small>
-
-IV. Por negligencia extravíen algún documento, papeles o expedientes que les estuvieran confiados por razón de su cargo.
-
-### CAPITULO I. Responsabilidad de Abogados, Patronos y Litigantes
-
 ###### Artículo 185.
 
 Comete el delito de abuso de autoridad todo servidor público o comisionado, sea cual fuere su categoría cuando:
@@ -1909,17 +1935,15 @@ Se impondrán de seis meses a ocho años de prisión, y multa hasta por quinient
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MARZO DE 1994)</small>
 
+### CAPITULO I. Responsabilidad de Abogados, Patronos y Litigantes
+
 ### CAPITULO II. Responsabilidad Profesional y Técnica
+
+## TITULO NOVENO. DELITOS CONTRA LA FE PUBLICA
 
 ### CAPITULO III. Imputaciones Falsas
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
-
-## TITULO NOVENO. DELITOS CONTRA LA FE PUBLICA
-
-### CAPITULO IV. Falsedad en Declaraciones y en Informes Dados a la Autoridad
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 187.
 
@@ -1945,7 +1969,7 @@ Los defensores de oficio que injustificadamente omitan ofrecer las pruebas condu
 
 Los jueces y tribunales están obligados a declarar en sus sentencias, si durante la tramitación del proceso se han violado los artículos de este Capítulo, dando vista al Ministerio Público.
 
-### CAPITULO V. Encubrimiento
+### CAPITULO IV. Falsedad en Declaraciones y en Informes Dados a la Autoridad
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -1977,9 +2001,9 @@ II. Procure órganos o tejidos, siempre y cuando exista consentimiento escrito o
 
 Igualmente serán responsables y sancionados en la forma que previene el artículo 191, los veterinarios, agrónomos, arquitectos, ingenieros, maestros de obra y en general todos los que causen daños indebidos en el ejercicio de una profesión, arte o actividad técnica.
 
-### CAPITULO VI. Ejercicio Indebido del Propio Derecho
+### CAPITULO V. Encubrimiento
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 194.
 
@@ -1991,9 +2015,9 @@ II. Al que para hacer que un inocente aparezca como reo de un delito, ponga sobr
 
 No se procederá contra el autor de ese delito, sino en virtud de sentencia ejecutoriada o resolución definitiva de sobreseimiento, dictados por el juez o tribunal que hubiese conocido del delito imputado.
 
-### CAPITULO VII. Delitos contra la procuración y la administración de la justicia
+### CAPITULO VI. Ejercicio Indebido del Propio Derecho
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 195.
 
@@ -2023,7 +2047,7 @@ Lo previsto en la fracción I de este artículo no es aplicable a quien tenga el
 
 Cualquiera que retracte espontáneamente sus falsas declaraciones rendidas ante la autoridad, antes de que se dicte sentencia en el proceso, sólo pagará multa de veinte a cincuenta días de salario. Pero si faltare a la verdad al retractar sus declaraciones, se le aplicará sanción de uno a seis años de prisión y multa de cien a quinientos días de salario.
 
-### CAPITULO I. Falsificación de Sellos, Llaves, Marcas, Estampillas, Contraseñas, Pesas y Medidas
+### CAPITULO VII. Delitos contra la procuración y la administración de la justicia
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -2055,7 +2079,9 @@ II. Al cónyuge, concubino y parientes colaterales por consanguinidad hasta el c
 
 III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad. La excusa no favorecerá a quien obre por motivos reprobables o emplee medios delictuosos.
 
-### CAPITULO II. Falsificación de Documentos y Uso de Documentos Falsos
+### CAPITULO I. Falsificación de Sellos, Llaves, Marcas, Estampillas, Contraseñas, Pesas y Medidas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 199.
 
@@ -2063,9 +2089,7 @@ Se aplicarán de tres días a tres años de prisión y multa de veinte a quinien
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
 
-### CAPITULO III. Variación de Nombre o Domicilio
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+### CAPITULO II. Falsificación de Documentos y Uso de Documentos Falsos
 
 ###### Artículo 200.
 
@@ -2185,7 +2209,7 @@ A quien incurra a las conductas señaladas en las fracciones IV, V, VI, X, XI, X
 
 ## TITULO DECIMO. DELITOS DE PELIGROSIDAD SOCIAL
 
-### CAPITULO IV. Usurpación de Funciones Públicas o de Profesión
+### CAPITULO III. Variación de Nombre o Domicilio
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -2221,7 +2245,7 @@ IV. Al que procurándose los verdaderos sellos, punzones, marcas, etcétera, hag
 
 V. Al que para defraudar a otro altere las pesas y las medidas legítimas o quite de ellas las marcas verdaderas y las pase a pesas o medidas falsas, o haga uso de éstas.
 
-### CAPITULO V. Uso Indebido de Uniforme, Insignia, Distintivo o Condecoración del Estado
+### CAPITULO IV. Usurpación de Funciones Públicas o de Profesión
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -2309,7 +2333,9 @@ VII. El que a sabiendas haga uso de un documento falso o de copia, transcripció
 
 Artículo 206 bis. Al propietario o poseedor de un vehículo de motor que a sabiendas porte placas de circulación cuya matrícula no le corresponda, se le impondrán de quince días a dos años de prisión y multa de diez a cien días de salario; independientemente de la sanción administrativa que en su caso señale la Ley o Reglamento de Tránsito del Estado.
 
-### CAPITULO VI. Disposiciones Comunes a los Capítulos Precedentes
+### CAPITULO V. Uso Indebido de Uniforme, Insignia, Distintivo o Condecoración del Estado
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 207.
 
@@ -2331,9 +2357,7 @@ V. Al que para eludir la práctica de una diligencia o de una notificación de c
 
 Las anteriores hipótesis no son aplicables cuando el indiciado, inculpado o acusado, declare respecto de hechos propios ante la autoridad ministerial o judicial.
 
-### CAPITULO I. Delitos Contra la Filiación y el Estado Civil y Exposición de Menores
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+### CAPITULO VI. Disposiciones Comunes a los Capítulos Precedentes
 
 ###### Artículo 208.
 
@@ -2365,9 +2389,9 @@ IV. Al extranjero que ejerza una profesión reglamentada sin autorización legal
 
 Se aumentarán las sanciones hasta la mitad de su duración y cuantía, al que para cometer este delito, usare credencial de servidor público, condecoraciones, uniformes, grados jerárquicos, divisas, insignias o siglas a las que no tenga derecho, o se acredite que perteneció a alguna institución del gobierno.
 
-### CAPITULO II. Bigamia y Matrimonios Ilegales
+### CAPITULO I. Delitos Contra la Filiación y el Estado Civil y Exposición de Menores
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 209.
 
@@ -2375,7 +2399,7 @@ Se sancionará con prisión de uno a cinco años y multa de diez a trescientos d
 
 Igual sanción se aplicará al que legalmente las fabrique, distribuya o venda.
 
-### CAPITULO III. Incesto
+### CAPITULO II. Bigamia y Matrimonios Ilegales
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -2403,9 +2427,9 @@ TITULO DECIMOPRIMERO
 
 DELITOS CONTRA EL ORDEN FAMILIAR
 
-### CAPITULO IV. Incumplimiento de las Obligaciones de Asistencia Familiar
+### CAPITULO III. Incesto
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 213.
 
@@ -2435,9 +2459,9 @@ Al que abandone en una casa de expósitos a un niño menor de siete años que se
 
 Los ascendientes o tutores que entreguen a un menor de siete años que esté bajo su potestad, a una casa de expósitos, a un establecimiento de beneficencia o a cualquiera otra persona, perderán los derechos que tengan sobre la persona o bienes del expósito.
 
-### CAPITULO V. Sustracción o retención
+### CAPITULO IV. Incumplimiento de las Obligaciones de Asistencia Familiar
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 217.
 
@@ -2450,6 +2474,18 @@ Al que fuera del caso de bigamia, usando violencia o engaño, contraiga matrimon
 ###### Artículo 219.
 
 Se aplicarán de uno a cinco años de prisión, destitución e inhabilitación hasta por tres años a los funcionarios del Registro Civil que conociendo los impedimentos autoricen el matrimonio en los términos de este Capítulo.
+
+### CAPITULO V. Sustracción o retención
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2006)</small>
+
+###### Artículo 220.
+
+Se impondrán sanción de uno a seis años de prisión y multa de cincuenta a quinientos días de salario, a los ascendientes que tengan cópula con sus descendientes.
+
+La sanción aplicable a estos últimos será de tres días a un año de prisión y multa de diez a cien días de salario.
+
+Se aplicará de seis meses a tres años de prisión y multa de veinticinco a ciento cincuenta días de salario en caso de cópula entre hermanos.
 
 ### CAPITULO VI. De la violencia familiar
 
@@ -2470,18 +2506,6 @@ DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 Violación a las Leyes de Inhumaciones y Exhumaciones
 
 > <small>(REFORMADO PRIMER PARRAFO, 3 DE AGOSTO DE 1998)</small>
-
-###### Artículo 220.
-
-Se impondrán sanción de uno a seis años de prisión y multa de cincuenta a quinientos días de salario, a los ascendientes que tengan cópula con sus descendientes.
-
-La sanción aplicable a estos últimos será de tres días a un año de prisión y multa de diez a cien días de salario.
-
-Se aplicará de seis meses a tres años de prisión y multa de veinticinco a ciento cincuenta días de salario en caso de cópula entre hermanos.
-
-### CAPITULO I. Privación de Libertad
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 221.
 
@@ -2505,7 +2529,7 @@ El delito de incumplimiento de obligaciones de asistencia familiar sólo se pers
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2006)</small>
 
-### CAPITULO II. Secuestro
+### CAPITULO I. Privación de Libertad
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -2527,11 +2551,9 @@ Este delito se perseguirá por querella de parte ofendida.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE ABRIL DE 2001)</small>
 
-### CAPITULO III. Tráfico de personas
+### CAPITULO II. Secuestro
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 1998)</small>
-
-Artículo 229 bis.- Al que de cualquier forma obtenga un beneficio económico a cambio de una persona, sus miembros u órganos, se le sancionará con prisión de quince a cuarenta años.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 225.
 
@@ -2553,9 +2575,11 @@ TITULO DECIMOTERCERO
 
 DELITOS CONTRA LA LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO IV. Amenazas
+### CAPITULO III. Tráfico de personas
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 1998)</small>
+
+Artículo 229 bis.- Al que de cualquier forma obtenga un beneficio económico a cambio de una persona, sus miembros u órganos, se le sancionará con prisión de quince a cuarenta años.
 
 ###### Artículo 227.
 
@@ -2563,9 +2587,9 @@ Se aplicarán de uno a cuatro años de prisión y multa de cien a quinientos dí
 
 Las mismas sanciones se aplicarán al particular que empleando violencia física o moral o valiéndose del engaño o de cualquier otro medio semejante, obligue a una persona a prestarle trabajos o servicios personales sin la debida retribución o celebre un contrato que ponga en condiciones de servidumbre a otro o a tolerar, hacer u omitir alguna cosa.
 
-### CAPITULO V. Extorsión
+### CAPITULO IV. Amenazas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 228.
 
@@ -2603,9 +2627,9 @@ Se impondrá de quince a treinta años de prisión y multa de quinientos a tres 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JULIO DE 2004)</small>
 
-### CAPITULO VI. Asalto
+### CAPITULO V. Extorsión
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
 
 ###### Artículo 230.
 
@@ -2619,7 +2643,7 @@ Se impondrá de quince a treinta años de prisión y multa de quinientos a tres 
 
 (DEROGADO, P.O. 6 DE JULIO DE 2004)
 
-### CAPITULO VII. Violación de Domicilio
+### CAPITULO VI. Asalto
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -2645,7 +2669,7 @@ Al que no otorgare la caución de no ofender, se le impondrá prisión de tres d
 
 Si el amenazador cumple su amenaza, la sanción de este ilícito y la del que resulte, se sujetarán a las reglas del concurso.
 
-### CAPITULO I. Violación
+### CAPITULO VII. Violación de Domicilio
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -2667,9 +2691,9 @@ Artículo 236 bis. Se impondrá de cinco a diez años de prisión y multa de dos
 
 La misma pena se impondrá a los que hayan intervenido en la comisión de este ilícito.
 
-### CAPITULO II. Estupro
+### CAPITULO I. Violación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 237.
 
@@ -2685,9 +2709,9 @@ Si los salteadores atacaren una población, se aplicarán de veinte a cuarenta a
 
 Si en la conducta de los dos artículos anteriores participa una o más personas miembro o ex-miembro de alguna corporación policial pública, privada o de las fuerzas armadas, la pena se aumentará en dos terceras partes. Se impondrá además la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar cargo o comisión públicos, en su caso.
 
-### CAPITULO III. Abusos Deshonestos
+### CAPITULO II. Estupro
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2004)</small>
 
 ###### Artículo 239.
 
@@ -2696,6 +2720,10 @@ Se impondrán de seis meses a tres años de prisión y multa de treinta a doscie
 TITULO DECIMOCUARTO
 
 DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
+
+### CAPITULO III. Abusos Deshonestos
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
 
 ### CAPITULO IV. Acoso Sexual
 
@@ -2710,8 +2738,6 @@ Este delito se perseguirá por querella.
 TITULO DECIMOQUINTO
 
 DELITOS CONTRA EL HONOR
-
-### CAPITULO I. Injurias
 
 ###### Artículo 240.
 
@@ -2743,7 +2769,7 @@ Se impondrán de tres a siete años de prisión y multa de cien a trescientos d�
 
 Cuando el delito de violación a que se refiere el artículo 240, recaiga sobre mujer casada, no se perseguirá de oficio, sino a petición de la afectada y en caso de incapacidad para hacerlo, se podrá presentar por el cónyuge, ascendientes, descendientes o cualquier otro familiar directo.
 
-### CAPITULO II. Difamación
+### CAPITULO I. Injurias
 
 ###### Artículo 243.
 
@@ -2761,7 +2787,7 @@ Este delito se perseguirá por querella de la parte ofendida o de sus padres; y 
 
 La ofendida podrá acudir ante los tribunales civiles a demandar los alimentos.
 
-### CAPITULO III. Calumnia
+### CAPITULO II. Difamación
 
 ###### Artículo 245.
 
@@ -2773,7 +2799,7 @@ Este delito se perseguirá por querella en el supuesto del primer párrafo.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
-### CAPITULO IV. Disposiciones Generales para los Delitos Contra el Honor
+### CAPITULO III. Calumnia
 
 ###### Artículo 246.
 
@@ -2789,7 +2815,7 @@ Los hechos a que se refiere este artículo se perseguirán de oficio.
 
 > <small>(REFORMADA SU NUMERACION, ADICIONADA SU DENOMINACION, P.O. 6 DE JULIO DE 2004)</small>
 
-### CAPITULO I. Homicidio
+### CAPITULO IV. Disposiciones Generales para los Delitos Contra el Honor
 
 ###### Artículo 247.
 
@@ -2799,9 +2825,7 @@ Los hechos a que se refiere este artículo se perseguirán de oficio.
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
-### CAPITULO II. Lesiones
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+### CAPITULO I. Homicidio
 
 ###### Artículo 249.
 
@@ -2811,7 +2835,9 @@ Los hechos a que se refiere este artículo se perseguirán de oficio.
 
 (DEROGADO, P.O. 6 DE JULIO DE 2007)
 
-### CAPITULO III. Reglas Comunes para los Delitos de Homicidio y Lesiones
+### CAPITULO II. Lesiones
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 251.
 
@@ -2825,7 +2851,7 @@ Los hechos a que se refiere este artículo se perseguirán de oficio.
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
-### CAPITULO IV. Instigación o Ayuda al Suicidio
+### CAPITULO III. Reglas Comunes para los Delitos de Homicidio y Lesiones
 
 ###### Artículo 254.
 
@@ -2855,9 +2881,7 @@ TITULO DECIMOSEXTO
 
 DELITOS CONTRA LA VIDA Y LA SALUD
 
-### CAPITULO V. Parricidio y filicidio
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+### CAPITULO IV. Instigación o Ayuda al Suicidio
 
 ###### Artículo 260.
 
@@ -2913,7 +2937,9 @@ Al responsable de homicidio calificado se le impondrá de veinte a cuarenta año
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
-### CAPITULO VI. Infanticidio
+### CAPITULO V. Parricidio y filicidio
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 269.
 
@@ -2973,7 +2999,7 @@ Si el ofendido fuere ascendiente, descendiente, pupilo, cónyuge o concubino del
 
 En caso de tentativa de lesiones, cuando no fuere posible determinar el grado de ellas, se impondrán de tres días a dos años de prisión y multa hasta doscientos días de salario.
 
-### CAPITULO VII. Aborto
+### CAPITULO VI. Infanticidio
 
 ###### Artículo 278.
 
@@ -3025,9 +3051,7 @@ Se impondrá de tres días a cinco años de prisión al que, sorprendiendo a su 
 
 Se impondrá de tres días a cinco años de prisión, al ascendiente que mate o lesione al corruptor del descendiente que esté bajo su potestad, si lo hiciere en el momento de hallarlo en el acto carnal o en uno próximo anterior o posterior a su consumación, si no hubiere procurado la corrupción de su descendiente con el varón con quien lo sorprenda, ni con otro. En este último caso se impondrá al homicida de cinco a diez años de prisión.
 
-### CAPITULO I. Tipos de Peligro Efectivo: Disparo de Arma de Fuego y Ataque Peligroso
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+### CAPITULO VII. Aborto
 
 ###### Artículo 282.
 
@@ -3041,13 +3065,9 @@ Si el occiso o suicida frustrado fuera menor de edad o padeciere alguna de las f
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
 
-### CAPITULO II
+### CAPITULO I. Tipos de Peligro Efectivo: Disparo de Arma de Fuego y Ataque Peligroso
 
-Tipo de Peligro Presunto.
-
-Abandono de Incapaces de Proveerse a sí Mismos
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 283.
 
@@ -3057,7 +3077,11 @@ Al que prive de la vida dolosamente a cualquier ascendiente consanguíneo, sea l
 
 Artículo 283 bis.- Al que prive de la vida dolosamente a cualquier descendiente consanguíneo sea legítimo o natural, sabiendo el delincuente ese parentesco, se le impondrá la sanción establecida en el artículo anterior.
 
-### CAPITULO III. Del Peligro de Contagio
+### CAPITULO II
+
+Tipo de Peligro Presunto.
+
+Abandono de Incapaces de Proveerse a sí Mismos
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -3065,7 +3089,9 @@ Artículo 283 bis.- Al que prive de la vida dolosamente a cualquier descendiente
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
-### CAPITULO I. Robo
+### CAPITULO III. Del Peligro de Contagio
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 285.
 
@@ -3107,9 +3133,7 @@ TITULO DECIMOSEPTIMO
 
 DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
 
-### CAPITULO II. Abigeato
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
+### CAPITULO I. Robo
 
 ###### Artículo 292.
 
@@ -3119,9 +3143,9 @@ I. Al que dispare a una persona o grupo de personas, una arma de fuego; y,
 
 II. Al que ataque a alguien de tal manera que, en razón del medio empleado, el arma, la fuerza o destreza del agresor, o de cualquier otra circunstancia ponga en peligro su vida o su salud.
 
-### CAPITULO III. Abuso de Confianza
+### CAPITULO II. Abigeato
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 293.
 
@@ -3155,7 +3179,7 @@ Al que habiendo atropellado a una persona la dejare en estado de abandono, sin p
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
-### CAPITULO IV. Fraude
+### CAPITULO III. Abuso de Confianza
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
 
@@ -3171,9 +3195,9 @@ TITULO DECIMOCTAVO
 
 DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO V. Usura
+### CAPITULO IV. Fraude
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
 
 ###### Artículo 299.
 
@@ -3301,9 +3325,9 @@ El robo cometido por un cónyuge contra otro, por un concubino contra otro, por 
 
 A los que adquieran, posean o enajenen objetos robados o de procedencia ilegal, que no hayan tomado las medidas indispensables para cerciorarse de que la persona de quien los recibió tenía derecho para disponer de ellos, se les aplicarán las mismas penas que correspondan a los autores del delito de robo simple.
 
-### CAPITULO VI. Despojo de Inmuebles y Aguas
+### CAPITULO V. Usura
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 311.
 
@@ -3359,9 +3383,9 @@ Al que comercie o posea pieles o carne obtenidas del abigeato, se le impondrán 
 
 Es aplicable al delito de abigeato en lo conducente, lo dispuesto por los artículos 308 y 309.
 
-### CAPITULO VII. Daño en las Cosas
+### CAPITULO VI. Despojo de Inmuebles y Aguas
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 320.
 
@@ -3401,23 +3425,9 @@ Artículo 322 bis.- Se considera como abuso de confianza y se sancionará con se
 
 Los delitos previstos en este capítulo, sólo se perseguirán por querella del ofendido y en lo conducente es aplicable lo dispuesto por los artículos 304, 308 y 309.
 
-### CAPITULO VIII. OPERACIONES CON RECURSO DE PROCEDENCIA ILICITA
+### CAPITULO VII. Daño en las Cosas
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 1998)</small>
-
-Artículo 335 bis.- Se impondrán de cinco a quince años de prisión y multa de mil a cinco mil días de salario, al que por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del Estado o de éste hacia afuera, o a la inversa, recursos, derechos o bienes de cualquier naturaleza, que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
-
-La sanción prevista en el primer párrafo será aumentada en una mitad, cuando el delito se cometa por servidores públicos encargados de prevenir, denunciar, investigar o juzgar la comisión de delitos. En este caso, se impondrá a dichos servidores públicos, además, inhabilitación para desempeñar empleo, cargo o comisión públicos hasta por un tiempo igual al de la pena de prisión impuesta.
-
-Para los efectos de este artículo, se entiende que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
-
-TITULO DECIMONOVENO
-
-DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
-
-DE LOS PATRONES EN EL FUERO LOCAL DEL TRABAJO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
 
 ###### Artículo 324.
 
@@ -3493,9 +3503,23 @@ Para los efectos penales se entiende por fraccionar la división de terrenos en 
 
 Es aplicable al delito de fraude genérico y especies de defraudación previstos en este capítulo, lo dispuesto por el artículo 304; y siempre se perseguirán por querella de parte ofendida.
 
-### CAPITULO UNICO
+### CAPITULO VIII. OPERACIONES CON RECURSO DE PROCEDENCIA ILICITA
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 1998)</small>
+
+Artículo 335 bis.- Se impondrán de cinco a quince años de prisión y multa de mil a cinco mil días de salario, al que por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del Estado o de éste hacia afuera, o a la inversa, recursos, derechos o bienes de cualquier naturaleza, que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
+
+La sanción prevista en el primer párrafo será aumentada en una mitad, cuando el delito se cometa por servidores públicos encargados de prevenir, denunciar, investigar o juzgar la comisión de delitos. En este caso, se impondrá a dichos servidores públicos, además, inhabilitación para desempeñar empleo, cargo o comisión públicos hasta por un tiempo igual al de la pena de prisión impuesta.
+
+Para los efectos de este artículo, se entiende que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
+
+TITULO DECIMONOVENO
+
+DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+
+DE LOS PATRONES EN EL FUERO LOCAL DEL TRABAJO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 327.
 
@@ -3519,9 +3543,9 @@ A la persona moral responsable de estos delitos, se le impondrá suspensión has
 
 Los hechos a que se contraen las disposiciones anteriores producen acción pública.
 
-### CAPITULO I. Delitos Contra la Ecología
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
 
 ###### Artículo 330.
 
@@ -3553,9 +3577,9 @@ A las sanciones que señalan el artículo anterior, se acumularán las que corre
 
 Artículo 331 bis.- Los delitos previstos en este capítulo sólo se perseguirán por querella del ofendido.
 
-### CAPITULO II. Delitos Contra el Desarrollo Urbano
+### CAPITULO I. Delitos Contra la Ecología
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
 
 ###### Artículo 332.
 
@@ -3597,7 +3621,7 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 1998)</small>
 
-### CAPITULO III. Disposiciones Comunes para los Delitos contra la Ecología y el Desarrollo Urbano
+### CAPITULO II. Delitos Contra el Desarrollo Urbano
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2004)</small>
 
@@ -3634,6 +3658,10 @@ Las violaciones a que se refiere el artículo anterior no producen responsabilid
 Cuando los delitos a que se refiere el artículo 336 aparezcan cometidos por una persona jurídica de derecho privado, la sanción de prisión se impondrá al patrón, gerente, director o administrador o encargado que hubiere ordenado los hechos, sin perjuicio de que el juez, si lo estima conveniente, imponga la sanción de suspensión de actividades o disolución de la persona jurídica colectiva, en los términos de los artículos 23, fracción XVI y 70.
 
 > <small>(ADICIONADO CON EL CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 1992)</small>
+
+### CAPITULO III. Disposiciones Comunes para los Delitos contra la Ecología y el Desarrollo Urbano
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2004)</small>
 
 ###### Artículo 339.
 
@@ -3962,3 +3990,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE MAYO DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE JULIO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
