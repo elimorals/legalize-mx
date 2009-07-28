@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2009-04-22"
+last_updated: "2009-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2009.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -899,6 +899,10 @@ IV.- Investigar los actos u omisiones que impliquen alguna irregularidad o condu
 
 V.- Determinar los daños y perjuicios que afecten a la Hacienda Pública Estatal y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades: promover las acciones de responsabilidad a que se refiere el Título Noveno de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrán la intervención que señale la Ley.
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2009)</small>
+
+VI.- Revisar y fiscalizar de manera cualitativa, las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos.
+
 El Órgano de Fiscalización Superior del Congreso del Estado, deberá guardar reserva de sus actuaciones y observaciones, hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
 El Congreso del Estado designará al Titular del Órgano de Fiscalización Superior del Congreso del Estado, con el voto de las dos terceras partes de los Diputados presentes, la Ley determinará el procedimiento para su designación. Dicho Titular durará en su cargo siete años, y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que señale esta Constitución en su Título Noveno, con la misma votación requerida para su nombramiento.
@@ -1123,7 +1127,9 @@ VI.- Fomentar por todos los medios posibles la educación popular y procurar el 
 
 Las obras públicas serán realizadas por el Poder Ejecutivo, por sí o adjudicándolas en concurso, mediante convocatoria, en los términos de la Ley respectiva; asimismo, podrá decretar la requisa y pago de materiales para la ejecución de éstas;
 
-VII.- (DEROGADA, P.O. 17 DE JUNIO DE 1999)
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2009)</small>
+
+VII.- Para mejorar e incrementar el índice de desarrollo humano en la Entidad, deberá alinear las políticas públicas en materia de desarrollo social del Estado a los Objetivos de Desarrollo del Milenio del PNUD de la ONU;
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 1999)</small>
 
@@ -1217,7 +1223,7 @@ XXVI.- Crear Patronatos en los cuales participe la ciudadanía como coadyuvante 
 
 XXVII.- Convocar a plebiscito en los términos que establezca esta Constitución y la ley de la materia, la cual dispondrá los requisitos, alcances, términos y procedimientos, a los que estará sujeto el ejercicio de esta facultad.
 
-A través del plebiscito, el titular del Poder Ejecutivo del Estado, podrá consultar a la ciudadanía para que expresen su aprobación o rechazo previo a actos o decisiones del mismo que no interfieran o impliquen actos o resoluciones de los Poderes Legislativo y Judicial.
+A través del plebiscito, el titular del Poder Ejecutivo del Estado, podrá consultar a la ciudadanía para que expresen su aprobación o rechazo previo a actos o decisiones del mismo que no interfieran o impliquen actos o resoluciones de los Poderes Legislativo y Judicial;
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1910,6 +1916,10 @@ VII.- La policía preventiva municipal estará al mando del Presidente Municipal
 El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
 
 VIII.- Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expida el Congreso del Estado con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2009)</small>
+
+IX.- Para mejorar e incrementar el índice de desarrollo humano de su población, los Ayuntamientos deberán alinear las políticas públicas en materia de desarrollo social del Municipio a los Objetivos de Desarrollo del Milenio del PNUD de la ONU.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -3447,7 +3457,7 @@ Artículo Segundo. Se derogan todas las disposiciones que se opongan a este Decr
 
 P.O. 3 DE ABRIL DE 2009.
 
-Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial.
+AArtículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
 
@@ -3458,3 +3468,9 @@ Artículo Primero.- Remítase el Decreto por el que se reforman diversas disposi
 Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial:
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE JULIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
