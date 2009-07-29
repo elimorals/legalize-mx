@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-4235"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-12-31"
-last_updated: "2009-02-04"
+last_updated: "2009-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 29 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 31 de diciembre de 1988.
 
@@ -2394,3 +2396,19 @@ a) Los integrantes de los Ayuntamientos que sean electos el primer domingo de oc
 b) El informe pormenorizado de la gestión administrativa anual que en sesión solemne de Cabildo presente a la población el Presidente Municipal en funciones, se rendirá en el mes de diciembre del año dos mil diez.
 
 Artículo Tercero.- Se derogan las disposiciones que se opongan al presente Decreto, con las salvedades previstas en el mismo.
+
+P.O. 29 DE JULIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, con las salvedades prevista en el artículo Segundo Transitorio.
+
+Artículo Segundo.- Como excepción a lo dispuesto por los artículos 26, 36, fracción XXXIII, y 40, fracciones XXXI, de la Ley Orgánica Municipal del Estado de Chiapas, por única ocasión y exclusivamente a lo concerniente al año dos mil diez, se estará a lo siguiente:
+
+a) Los integrantes de los Ayuntamientos que sean electos el primer domingo de Octubre del año dos mil diez, tomarán la protesta respectiva el día primero de enero del año dos mil once y cesarán en sus funciones el treinta de septiembre de dos mil doce.
+
+b) El informe pormenorizado de la gestión administrativa anual que en sesión solemne de Cabildo presente a la población el Presidente Municipal en funciones, se rendirá en el mes de diciembre del año dos mil diez.
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+Artículo Tercero.- Se abroga la Ley Orgánica Municipal del Estado de Chiapas, publicada en el Periódico Oficial número 2, S I. de fecha 31 de diciembre de 1988.
+
+Artículo Cuarto.- Se derogan las demás disposiciones que se opongan a la presente Ley.
