@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2009-07-02"
+last_updated: "2009-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -382,6 +382,10 @@ XII. El conocimiento de los ordenamientos jurídicos, normativos y reglamentario
 XIII. Los demás que determine el consejo de coordinación.
 
 La Secretaría expedirá la certificación respectiva a los elementos policiales que acrediten los procesos de evaluación del desempeño a que se refiere este Artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2009)</small>
+
+Los titulares de las dependencias a que se refiere este artículo, y demás mandos medios y superiores incluyendo al Secretario de Seguridad Pública del Estado, se someterán al menos una vez al año a los procesos de control de confianza que comprenderán los elementos previstos en las fracciones I, II, IV, V y VI, sin perjuicio de aquellos que adicionalmente recomiende el Consejo Ciudadano. El mismo proceso será requisito obligatorio para los nombramientos de tales servidores públicos.
 
 ###### Artículo 28.
 
@@ -2413,7 +2417,7 @@ Quienes incurran en las conductas prevista en las fracciones VII ó XXXII del Ar
 
 Las conductas descritas en las fracciones V ó XXII serán motivo de la aplicación como sanción de la suspensión temporal de sus funciones, pero si se realiza con la pretensión de obtener un lucro o beneficio indebido será causa de destitución, según la gravedad del caso.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2009)</small>
 
 Serán motivo de imposición de separación temporal o destitución, según la naturaleza o gravedad del caso, las conductas previstas en las fracciones II, XII, XVII y XXXIII del Artículo Anterior.
 
@@ -2622,3 +2626,9 @@ P.O. 24 DE JUNIO DE 2009.
 P.O. 2 DE JULIO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- En un plazo no mayor de treinta días a la entrada en vigor del presente Decreto, el Secretario de Seguridad Pública del Estado y los Subsecretarios, Directores y Subdirectores de las dependencias a que se refiere el artículo 27 de esta Ley, se someterán a los procesos de control de confianza.
