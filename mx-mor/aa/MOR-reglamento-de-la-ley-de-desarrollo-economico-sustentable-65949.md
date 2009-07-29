@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-desarrollo-economico-sustentable-65949"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-07"
-last_updated: "2009-01-07"
+last_updated: "2009-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de enero de 2009.
 
@@ -453,7 +453,7 @@ a) Federal de Contribuyentes;
 
 b) Patronal en el Instituto Mexicano del Seguro Social;
 
-c) Sistema de Información Empresarial Mexicano (SIEM); y
+c) (DEROGADO, P.O. 29 DE JULIO DE 2009)
 
 d) Comprobante de domicilio.
 
@@ -661,7 +661,9 @@ IV. Un Vocal, que será la persona titular de la Subsecretaría de Fomento de la
 
 V. Un Vocal, que será la persona titular de la Subsecretaría de Inversiones de la Secretaría de Desarrollo Económico.
 
-Por cada integrante del Comité Técnico se designará un suplente que deberá tener nivel jerárquico de Subsecretario o Director General según sea el caso. En el caso de la fracción III, la persona titular de la Secretaría de Finanzas y Planeación designará un representante, el cual participará conjuntamente en el Comité Técnico, de acuerdo a lo establecido en el artículo 6 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
+Por cada integrante del Comité Técnico se designará un suplente que deberá tener nivel jerárquico de Subsecretario, Director General o de inmediato inferior al titular según sea el caso. En el caso de la fracción III, la persona titular de la Secretaría de Finanzas y Planeación designará un representante, el cual participará conjuntamente en el Comité Técnico, de acuerdo a lo establecido en el artículo 6 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
 
 Los integrantes tendrán derecho a voz y voto, en caso de empate la persona que funja como Presidente tendrá voto de calidad.
 
@@ -797,7 +799,7 @@ De cada sesión, una vez formalmente iniciada, se levantará un acta que deberá
 
 El fideicomiso del FODEPI contará con un órgano de vigilancia, que estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Estado. El Comisario contará con las atribuciones que le confiere el artículo 50 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
 
-Los cargos de los integrantes del órgano de vigilancia serán honoríficos.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ## TÍTULO SEXTO. DE LAS MEDIDAS Y SANCIONES
 
@@ -842,3 +844,11 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO
 DR. RAFAEL TAMAYO FLORES
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE JULIO DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se derogan las disposiciones administrativas de igual o menor rango que se opongan al presente Decreto.
