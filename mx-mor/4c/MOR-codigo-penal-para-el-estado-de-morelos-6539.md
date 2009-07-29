@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2009-03-25"
+last_updated: "2009-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -401,11 +401,11 @@ Es aplicable la ley penal vigente en el tiempo de realización del delito.
 
 Cuando entre la comisión del delito y la extinción de la sanción correspondiente entre en vigor otra ley aplicable al caso, se estará a lo dispuesto por el artículo 86.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 12.
 
-Las circunstancias de lugar, tiempo y modo de la comisión del delito están constituidas por los datos con que se acredita el cuerpo del delito y la probable responsabilidad del indiciado.
+Las circunstancias de lugar, tiempo y modo de la comisión del delito están constituidas por los datos con que se acredita el hecho ilícito y la probable responsabilidad del indiciado.
 
 ### CAPITULO IV. APLICACION EN RELACION CON LAS PERSONAS
 
@@ -427,17 +427,15 @@ En los delitos de resultado material también será atribuible el resultado típ
 
 Las acciones y las omisiones delictivas sólo pueden causarse dolosa o culposamente.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
-Obra dolosamente quien quiere o acepta la existencia del cuerpo del delito.
+Obra dolosamente la persona que conociendo los elementos del tipo penal, o previendo como posible el resultado típico, quiere o acepta la realización del hecho descrito por la ley como delito.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
-Obra culposamente quien por falta de cuidado o reflexión da lugar a que se actualicen los datos que constituyen el cuerpo del delito.
+Obra culposamente la persona que produce el resultado típico, que no previó siendo previsible, o previó confiado en que no se produciría, en virtud de la violación a un deber de cuidado, que debía y podía observar según las circunstancias y condiciones personales.
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1999)</small>
-
-El dolo se presume salvo prueba en contrario.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
 
@@ -447,9 +445,9 @@ Solamente se sancionarán como delitos culposos los previstos en los artículos 
 
 El delito puede ser:
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-I. Instantáneo, cuando la consumación se agota en el mismo momento en que se ha realizado el cuerpo del delito;
+I. Instantáneo, cuando la consumación se agota en el mismo momento en que se ha realizado el hecho ilícito;
 
 II. Permanente, cuando la consumación se prolonga en el tiempo; o
 
@@ -457,11 +455,11 @@ III. Continuado, cuando con unidad de propósito delictivo, pluralidad de conduc
 
 ### CAPITULO II. TENTATIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 17.
 
-Existe tentativa punible cuando la intención de realizar el hecho constitutivo del cuerpo del delito se exterioriza mediante la ejecución de la actividad que debe producir ese hecho o la omisión de la que debería evitarlo, poniendo en peligro el bien jurídico correspondiente, si el delito no se consuma por causas ajenas a la voluntad del agente.
+Existe tentativa punible cuando la resolución de cometer un delito se exterioriza realizando, en parte o totalmente, los actos ejecutivos que deberían de producir el resultado, u omitiendo los que deberían evitarlo, si aquél no se consuma por causas ajenas a la voluntad del agente.
 
 Si el agente desiste de la ejecución o impide la consumación del delito, en forma espontánea, no se le impondrá sanción alguna, a no ser que la acción o la omisión realizadas constituyan por sí mismas un delito.
 
@@ -509,13 +507,17 @@ III. Que supieron que se iba a cometer un nuevo delito; y
 
 IV. Que estuvieron presentes en la ejecución del nuevo delito y no hicieron lo que estaba a su alcance para impedirlo.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 20.
 
-Las sanciones previstas en este Código para las personas colectivas serán aplicables cuando un miembro o representante de ellas, con excepción de las entidades públicas, cometa un delito con los medios que para tal objeto le proporcione la persona colectiva, por acuerdo de los órganos correspondientes, de modo que aparezca cometido a su nombre, bajo el amparo o para el beneficio de aquélla.
+Las sanciones previstas en este Código para las personas morales serán aplicables cuando algún miembro o representante de una persona moral, con excepción de las instituciones estatales, cometa un delito con los medios que para tal objeto le proporcione la persona moral, por acuerdo de los órganos de dirección o decisión, de modo que aparezca cometido a nombre de la persona moral, bajo el amparo o para el beneficio de la misma.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 21.
 
-En los casos a los que se refiere el artículo anterior, los individuos serán personalmente responsables de los delitos que cometieron, independientemente de las consecuencias jurídicas que se sigan a las personas colectivas.
+En los casos a los que se refiere el artículo anterior, los individuos serán personalmente responsables de los delitos que cometieron, independientemente de las consecuencias jurídicas y sanciones que se impongan a las personas morales.
 
 ### CAPITULO IV. CONCURSO DE DELITOS
 
@@ -533,9 +535,9 @@ Se excluye la incriminación penal cuando:
 
 I. Se realice el hecho sin intervención de la voluntad del agente;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-II. Falte alguno de los datos constitutivos del cuerpo del delito;
+II. Falte alguno de los elementos constitutivos que integran la descripción típica del delito de que se trate;
 
 III. Se actúe con el consentimiento del titular del bien jurídico afectado o de quien se halla legitimado por la ley para otorgarlo, siempre que:
 
@@ -559,9 +561,9 @@ VI. Se obre legalmente en cumplimiento de un deber jurídico o en ejercicio de u
 
 VII. Se obre bajo la amenaza irresistible de un mal real, actual o inminente, en bienes jurídicos propios o ajenos, siempre que no exista al alcance del agente otro medio practicable y menos perjudicial;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-VIII. Se omita por impedimento insuperable la acción prevista en el cuerpo del delito;
+VIII. Se omita por impedimento insuperable la acción prevista como delito;
 
 IX. Al realizar la conducta el agente padezca un trastorno mental transitorio que le impida comprender el carácter ilícito del hecho o conducirse de acuerdo con esa comprensión, a no ser que el agente hubiese provocado dolosamente o por culpa grave su propio trastorno. En este caso responderá por el hecho cometido.
 
@@ -587,9 +589,13 @@ A quien por error vencible se exceda en alguna de las excluyentes de incriminaci
 
 ### CAPITULO I. SANCIONES APLICABLES A LOS DELITOS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 26.
 
 En los términos previstos por este Código, se impondrán las siguientes sanciones a los responsables de los delitos:
+
+A) Personas físicas:
 
 I. Prisión;
 
@@ -613,19 +619,41 @@ X. Amonestación;
 
 XI. Apercibimiento y caución;
 
-XII. Suspensión o privación de derechos, cargos o funciones, e inhabilitación;
+XII. Suspensión o privación de derechos, cargos o funciones, o inhabilitación;
 
 XIII. Publicación de sentencia;
 
 XIV. Supervisión de la autoridad;
 
-XV. Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de personas colectivas;
+XV. Tratamiento de inimputables, y
 
-XVI. Tratamiento de inimputables.
+XVI. Prohibición de comunicarse con personas determinadas, siempre que no se afecte el derecho de defensa en diverso proceso penal, y
+
+B) Personas morales:
+
+I. Intervención;
+
+II. Remoción;
+
+III. Extinción;
+
+IV. Suspensión de actividades;
+
+V. Multa;
+
+VI. Prohibición de realizar determinadas operaciones;
+
+VII. Decomiso de los instrumentos, objetos y productos del delito; o de bienes cuyo valor equivalga al producto del delito cuando éste haya desaparecido o no se localice;
+
+VIII. Publicación especial de sentencia, y
+
+IX. Reparación de daños y perjuicios.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 27.
 
-El tratamiento en libertad, la semilibertad, el trabajo en favor de la comunidad y la multa podrán funcionar como sanciones autónomas, directamente aplicables por el delito cometido, o como sustitutivos de la prisión, en los términos que dispone este Código. Su duración no excederá de la que corresponda a la sanción sustituida.
+El tratamiento en libertad, la semilibertad, el trabajo en favor de la comunidad, la prohibición de concurrencia o residencia y de comunicarse con personas determinadas y la multa, podrán funcionar como sanciones autónomas, directamente aplicables por el delito cometido, o como sustitutivos de la prisión, en los términos que dispone este Código. Su duración no excederá de la que corresponda a la sanción sustituida.
 
 ###### ARTICULO 28.
 
@@ -633,17 +661,21 @@ Las sanciones para imputables e inimputables surtirán sus efectos desde el mome
 
 ### CAPITULO II. PRISION
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 29.
 
-La prisión consiste en la privación de la libertad, conforme a las disposiciones de la legislación correspondiente, en establecimientos dependientes del Ejecutivo del Estado o del Ejecutivo Federal. Su duración será de tres meses a setenta años.
+La prisión consiste en la privación de la libertad, conforme a las disposiciones de la legislación correspondiente, en establecimientos dependientes del Ejecutivo del Estado o del Ejecutivo Federal. Su duración será de tres meses a ochenta años.
+
+Sólo podrá imponerse una pena adicional al límite máximo cuando se cometa un nuevo delito en reclusión.
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD DE IMPUTABLES
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 30.
 
-El tratamiento en libertad de imputables consiste en la aplicación de medidas laborales, educativas y curativas autorizadas por la ley y conducentes a la readaptación social del sentenciado. Entre las medidas aplicables figurarán, en su caso, las que resulten necesarias para obtener la deshabituación o desintoxicación del sentenciado, cuando se trate de persona que consuma inmoderadamente bebidas alcohólicas o haga uso de estupefacientes o psicotrópicos.
+El tratamiento en libertad de imputables consiste en la aplicación de medidas laborales, educativas y curativas autorizadas por la ley y conducentes a la reinserción social del sentenciado. Entre las medidas aplicables figurarán, en su caso, las que resulten necesarias para obtener la deshabituación o desintoxicación del sentenciado, cuando se trate de persona que consuma inmoderadamente bebidas alcohólicas o haga uso de estupefacientes o psicotrópicos.
 
 ### CAPITULO IV. SEMILIBERTAD
 
@@ -653,9 +685,11 @@ La semilibertad es la alternación de periodos de prisión y de tratamiento en l
 
 ### CAPITULO V. TRABAJO EN FAVOR DE LA COMUNIDAD
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 32.
 
-El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados en instituciones públicas de educación, asistencia o servicio social, o en instituciones privadas asistenciales, no lucrativas, preferentemente en la comunidad del sentenciado. Se computará por jornadas, que serán fijadas por el juez conforme a las circunstancias del caso, sin exceder del límite legal para la jornada extraordinaria, y se cumplirá dentro de horarios diferentes de los requeridos para labores que representen la fuente de subsistencia del sentenciado y sus acreedores alimentarios. Cuando se trate de personas pertenecientes a grupos étnicos indígenas, el juzgador tomará en cuenta los usos y costumbres del grupo correspondiente. No se desarrollará en condiciones que puedan ser humillantes para el sentenciado.
+El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados en instituciones públicas de educación, asistencia o servicio social, o en instituciones privadas asistenciales, no lucrativas, preferentemente en la comunidad del sentenciado. Su duración podrá ser hasta de mil cuatrocientas sesenta jornadas y en caso de aplicarse como pena sustituta, su duración será por el número de días de prisión impuesta. Se computará por jornadas, que serán fijadas por el juez conforme a las circunstancias del caso, sin exceder del límite legal para la jornada extraordinaria, y se cumplirá dentro de horarios diferentes de los requeridos para labores que representen la fuente de subsistencia del sentenciado y sus acreedores alimentarios. Cuando se trate de personas pertenecientes a grupos étnicos indígenas, el juzgador tomará en cuenta los usos y costumbres del grupo correspondiente. No se desarrollará en condiciones que puedan ser humillantes para el sentenciado.
 
 ### CAPITULO VI. CONFINAMIENTO
 
@@ -665,9 +699,13 @@ El confinamiento consiste en la obligación de residir y trabajar en una circuns
 
 ### CAPITULO VII. PROHIBICION DE CONCURRENCIA O RESIDENCIA
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 34.
 
-La prohibición de concurrencia o residencia impide al sentenciado asistir a determinado lugar o circunscripción, o residir en ellos. Esta sanción durará de seis meses a cinco años. Cuando se trate de reos de homicidio doloso, lesiones y otras violencias graves, el juez podrá ampliar la prohibición hasta quince años, a partir de la fecha en que se extinga la sanción principal privativa de libertad.
+La prohibición de concurrencia o residencia impide al sentenciado asistir a determinado lugar o circunscripción, o residir en ellos. La duración de la prohibición de concurrencia o residencia será por el tiempo equivalente a la pena impuesta. Cuando se trate de sentenciado de homicidio doloso, lesiones y otras violencias graves, el juez podrá ampliar la prohibición hasta quince años, a partir de la fecha en que se extinga la sanción principal privativa de libertad.
+
+Para el cumplimiento de esta sanción se podrá emplear un localizador electrónico, con el objeto de localizar al sentenciado, sin que medie violencia o lesión a la dignidad o integridad física del imputado.
 
 ### CAPITULO VIII. MULTA
 
@@ -697,9 +735,9 @@ La reparación de daños y perjuicios comprende:
 
 I. La restitución de la cosa obtenida por el delito, y si no es posible, el pago del precio de la misma, a valor de reposición según el grado de uso, conservación y deterioro que corresponda;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-II. La indemnización del daño material y moral, incluyendo el pago de la atención médica que requiera el ofendido como consecuencia del delito; y
+II.- La indemnización del daño material y moral, incluyendo el pago de la atención médica que requiera la víctima u ofendido como consecuencia del delito. En los casos de delitos contra la libertad y el normal desarrollo psicosexual y de violencia familiar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima y los familiares directos que lo requieran, y
 
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
@@ -743,11 +781,21 @@ Si el ofendido o sus derechohabientes renuncian a la reparación, el importe de 
 
 Atendiendo al monto de los daños y perjuicios y a la capacidad económica del obligado, el tribunal podrá fijar plazos para el pago, sin exceder de un año. Para ello podrá requerir el otorgamiento de garantía.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 41.
 
-La reparación del daño se hará efectiva en la misma forma que la multa. Para ello, el tribunal remitirá a la autoridad ejecutora copia certificada de la sentencia correspondiente, y dicha autoridad iniciará el procedimiento económico coactivo, dentro de los cinco días siguientes a la recepción de la sentencia, notificando de ello al acreedor del resarcimiento y a su representante legal.
+La reparación del daño se hará efectiva en la misma forma que la multa. Para ello, el tribunal remitirá al Juez de Ejecución de Sanciones copia certificada de la sentencia correspondiente, y dicha autoridad iniciará el procedimiento económico coactivo, dentro de los cinco días siguientes a la recepción de la sentencia, notificando de ello al acreedor del resarcimiento y a su representante legal.
 
 Si no se cubre esta responsabilidad con los bienes y derechos del responsable y con el producto de su trabajo en prisión, el sentenciado seguirá sujeto a la obligación de pagar la parte que le falte. Cuando sean varios los ofendidos y no resulte posible satisfacer los derechos de todos, se cubrirán a prorrata los daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2009)</small>
+
+En su caso, el pago de la reparación del daño se hará a la víctima u ofendido del delito, a través del Fondo Económico para la Restauración y Protección Especial de las Víctimas y Ofendidos del Delito, administrado por la Procuraduría General de Justicia del Estado, sin que ello limite los derechos de la víctima para exigir del sujeto activo del delito la reparación del daño en términos de la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2009)</small>
+
+En todo caso, el Ejecutivo del Estado, al pagar la reparación del daño, se subrogará en los derechos de la víctima u ofendido para exigir, mediante el procedimiento económico coactivo el pago de la reparación del daño al sentenciado o a quien legalmente corresponda.
 
 ###### ARTICULO 42.
 
@@ -757,9 +805,11 @@ Cuando se sobresea en el proceso penal o se dicte sentencia absolutoria, el juez
 
 ### CAPITULO X. DECOMISO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 43.
 
-El decomiso consiste en la pérdida de la propiedad o posesión de bienes determinados. Los instrumentos y objetos del delito se decomisarán invariablemente si son de uso prohibido. Si son de uso lícito se decomisarán cuando el delito sea doloso. Cuando los instrumentos y objetos de esta última especie pertenezcan a un tercero, sólo se decomisarán si éste hubiese actuado a título de encubridor.
+El decomiso consiste en la pérdida de la propiedad o posesión de bienes determinados. Los instrumentos y objetos del delito se decomisarán invariablemente si son de uso prohibido. Si son de uso lícito se decomisarán cuando el delito sea doloso. Cuando los instrumentos y objetos de esta última especie pertenezcan a un tercero, sólo se decomisarán si éste hubiese actuado a título de encubridor o en el caso de las personas morales, sus administradores o representantes hayan encubierto la conducta.
 
 Las autoridades que conozcan de la averiguación previa o el proceso ordenarán el inmediato aseguramiento de los bienes que pudieran ser decomisados, y procederán en la forma dispuesta en este Capítulo.
 
@@ -767,9 +817,11 @@ Las autoridades que conozcan de la averiguación previa o el proceso ordenarán 
 
 Los bienes asegurados podrán aplicarse a favor del Estado cuando hayan sido objeto de abandono por parte de quien, con derecho acreditado, hubiere podido reclamar su entrega desde su aseguramiento hasta la sentencia definitiva de Primera Instancia, siempre y cuando ésta sea condenatoria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 44.
 
-Las cosas decomisadas que puedan entrar al comercio serán subastadas y su valor se aplicará a la reparación de los daños y perjuicios causados por el delito, pero si esta obligación se halla satisfecha o garantizada, se destinará al mejoramiento de la procuración y la administración de justicia, a no ser que puedan ser aplicadas directamente a este fin.
+Las cosas decomisadas que puedan entrar al comercio serán subastadas y su valor se aplicará a la reparación de los daños y perjuicios a la víctima u ofendido causados por el delito, y solamente si esta obligación se halla satisfecha o plenamente garantizada, se destinará al mejoramiento de la procuración y la administración de justicia.
 
 Si las cosas aseguradas o decomisadas son sustancias nocivas o peligrosas, se destruirán sin demora o se conservarán para fines de docencia o investigación, a juicio de la autoridad que las tenga a su disposición.
 
@@ -811,9 +863,11 @@ La amonestación puede ser pública o privada, y consiste en el señalamiento qu
 
 ### CAPITULO XII. APERCIBIMIENTO Y CAUCION DE NO DELINQUIR
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 48.
 
-El apercibimiento es la conminación que el tribunal hace al delincuente para que se abstenga de cometer un nuevo delito, cuando existan elementos que permitan suponer que el reo está en disposición de reincidir, previniéndole las consecuencias jurídicas que tendría su conducta delictuosa. Si existe prueba suficiente que acredite el propósito del sentenciado, el tribunal podrá exigirle una caución de no delinquir u otra garantía adecuada, a su juicio, y pondrá los hechos en conocimiento de la autoridad encargada de la prevención de los delitos.
+El apercibimiento es la conminación que el tribunal hace al sentenciado para que se abstenga de cometer un nuevo delito, cuando existan elementos que permitan suponer que aquél está en disposición de reincidir, previniéndole las consecuencias jurídicas que tendría su conducta delictuosa. Si existe prueba suficiente que acredite el propósito del sentenciado, el tribunal podrá exigirle una caución de no delinquir u otra garantía adecuada, y pondrá los hechos en conocimiento de la autoridad encargada de la prevención y ejecución de los delitos.
 
 ### CAPITULO XIII. SUSPENSION O PRIVACION DE DERECHOS, CARGOS O FUNCIONES, E INHABILITACION
 
@@ -849,53 +903,87 @@ Cuando la sentencia imponga una sanción que restrinja libertades o derechos o s
 
 ### CAPITULO XVI. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y EXTINCION DE LAS PERSONAS COLECTIVAS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 55.
 
-En los casos a los que se refiere el artículo 20, el tribunal podrá disponer las sanciones de intervención, remoción, prohibición de realizar determinadas operaciones y extinción de la persona jurídica colectiva.
+En los casos a los que se refiere el artículo 20, el tribunal podrá imponer las sanciones previstas en el artículo 26 inciso B).
 
-Si en ésta participan socios, asociados, funcionarios o empleados ajenos a los hechos delictuosos, a los que causaría perjuicio la sanción penal, el juzgador deberá escucharlos previamente, en la forma y términos previstos por el Código de Procedimientos Penales.
+Si la sanción causa perjuicio a socios, asociados, funcionarios o empleados ajenos a los hechos delictuosos, el juzgador deberá escucharlos previamente, en la forma y términos previstos por el Código de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 56.
 
-La intervención consiste en la vigilancia del manejo de los órganos de representación de la persona colectiva con las atribuciones que al interventor confiere la ley, por un período máximo de dos años.
+La intervención consiste en la vigilancia de las funciones que realizan los órganos de administración, representación o decisión de la persona moral con las atribuciones que la ley de la materia confiera al interventor, sin que su duración pueda exceder de dos años. Su ejecución se hará en los términos que señale la legislación mercantil aplicable.
 
-La remoción implica la sustitución de los administradores de la persona colectiva, encargando su función a un administrador designado por el juez, durante un período máximo de dos años. Para hacer la designación, el juez podrá atender la propuesta que formulen los socios o asociados que no hubiesen tenido participación en el delito. Cuando concluya el periodo previsto para la administración sustituta, la designación de los nuevos administradores se hará en la forma ordinaria prevista por las normas aplicables a estos actos.
+La remoción consiste en la sustitución del administrador u órgano de administración de la persona moral, asignando las funciones de éstos a un administrador o consejo de administración designado por el juez, durante un periodo máximo de dos años. Para hacer tal designación, el juez deberá atender a la propuesta que le formulen los socios o asociados que no hubiesen tenido participación en el delito. La ejecución de esta medida deberá ser conforme a lo dispuesto por la legislación mercantil. Una vez concluido el período previsto para la administración sustituta, la designación de los nuevos administradores se hará en la forma prevista por las leyes que rigen la materia.
 
-El juez podrá prohibir a la persona colectiva la realización de operaciones determinadas cuando éstas tuvieron relación directa con el delito cometido. Si se trata de operaciones lícitas, la prohibición no excederá de dos años.
+La prohibición de realizar determinadas operaciones consiste en la privación temporal del ejercicio de aquellas operaciones que determine el juzgador y que hubieren tenido relación directa con el delito cometido. Dichas operaciones serán especificadas en la sentencia y su duración será de hasta cinco años. Se inscribirá la parte conducente de la resolución en el registro público del comercio correspondiente.
 
-La extinción consiste en la disolución y liquidación de la persona colectiva, que no podrá constituirse nuevamente por las mismas personas, sea que éstas intervengan directamente, sea que lo hagan por conducto de terceros. El juez designará a quien deba hacerse cargo de la disolución y liquidación, que se llevarán adelante en la forma prevista por la legislación aplicable a estas operaciones.
+La extinción consiste en la disolución y liquidación de la persona colectiva, que no podrá constituirse nuevamente por las mismas personas, sea que éstas intervengan directamente, sea que lo hagan por conducto de terceros. El juez designará a quien deba hacerse cargo de la disolución y liquidación, que se llevarán adelante en la forma prevista por la legislación aplicable a estas operaciones. Asimismo, el juez ordenará que se anote la extinción, disolución o liquidación de la sociedad, en los registros en que la persona moral se encuentre inscrita, y el registrador procederá a cancelar la inscripción, mandándose publicar la parte conducente de la sentencia en el boletín judicial y en el Periódico Oficial.
 
-Al imponer las sanciones previstas en este artículo, el juez tomará las medidas necesarias para dejar a salvo los derechos de trabajadores y terceros frente a la persona colectiva, así como aquéllos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona colectiva sancionada.
+La multa se impondrá en la cuantía que se determine en la sentencia, teniendo en cuenta el capital social de la persona moral, el estado de sus negocios, el beneficio obtenido o que pudiera haberse obtenido, la gravedad y consecuencias del delito cometido.
+
+En cuanto a las demás sanciones, se aplicarán en lo que sean compatibles, las prescripciones establecidas en el presente Código y demás disposiciones aplicables respecto a las personas físicas.
+
+Al imponer las sanciones previstas en el artículo 26 inciso B) del presente Código, el juez, en el ámbito de su competencia, tomará las medidas que sean necesarias para salvaguardar los derechos de los trabajadores y terceros frente a la persona moral, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona moral sancionada. Los socios o miembros que no hayan tenido responsabilidad en el delito, tendrán derecho a reclamar a los responsables los daños y perjuicios ocasionados con motivo de las sanciones impuestas a la persona moral.
 
 ### CAPITULO XVII. TRATAMIENTO DE INIMPUTABLES
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 57.
 
-Se aplicará el tratamiento previsto en este artículo a quien en el momento de realizar el hecho carecía de la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental permanente o presentar desarrollo intelectual retardado.
+Es obligación del Ministerio Público verificar que la conducta que se le atribuye a un inimputable relacionado con la comisión de un delito, no esté amparada por alguna de las causas a que se refiere el artículo 23 de este Código.
 
-El tratamiento de inimputables consiste en la aplicación de las medidas necesarias para la curación de aquéllos, en internamiento o en libertad, bajo la autoridad del órgano ejecutor de sanciones. En la sentencia se determinará si el inimputable debe ser entregado a sus familiares o custodios, y las obligaciones de éstos con motivo del tratamiento, asimismo bajo la autoridad del órgano ejecutor de sanciones.
+Comprobado lo dispuesto en el párrafo anterior, el Ministerio Público solicitará la aplicación del tratamiento previsto en este artículo, a quien en el momento de realizar el hecho descrito como delito por la ley penal, carezca de la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o presentar desarrollo intelectual retardado.
 
-Esta sanción no excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo la autoridad ejecutora considera que el sujeto continúa necesitando el tratamiento, lo pondrá a disposición de las autoridades de salud, para que procedan conforme a las leyes aplicables.
+El tratamiento de inimputables consiste, en la aplicación de las medidas necesarias para la curación de aquéllos, en internamiento o en libertad, bajo la autoridad del Juez de Ejecución de Sanciones. En la sentencia se determinará si el inimputable debe ser entregado a sus familiares o custodios, y las obligaciones de éstos con motivo del tratamiento, así como la autoridad del órgano ejecutor de sanciones.
 
-### CAPITULO I. REGLAS GENERALES
+La sanción no excederá de la duración que corresponda al máximo de la pena aplicable al delito que se le atribuya.
+
+Si concluido ese tiempo, la autoridad ejecutora considera que el sujeto continúa necesitando el tratamiento, lo pondrá a disposición de las autoridades de salud, para que procedan conforme a las leyes aplicables.
+
+Cuando se sospeche que el probable autor de un hecho delictuoso se encuentra en alguno de los supuestos a que se refiere este artículo, el Ministerio Público o el juez, de oficio o a petición de parte, ordenará la realización de un peritaje para determinar tal circunstancia.
+
+Para los casos que se substancien bajo el procedimiento penal acusatorio, si durante el periodo de investigación, el Ministerio Público, acredita lo descrito en el párrafo anterior, solicitará al órgano jurisdiccional la apertura del procedimiento a que se refiere el artículo 394 del Código de Procedimientos Penales para el Estado de Morelos publicado el 22 de Noviembre de 2007.
+
+Las mismas obligaciones anteriormente descritas, estarán a cargo del juez de la causa, cuando el imputado durante el procedimiento, presente trastorno mental permanente.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE JULIO DE 2009)</small>
+
+### CAPITULO XVIII. PROHIBICION DE COMUNICARSE CON PERSONAS DETERMINADAS
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2009)</small>
+
+###### ARTICULO 57 Bis.
+
+En la prohibición de comunicarse con personas determinadas, serán objeto de dicha sanción las comunicaciones privadas que se realicen de forma oral, escrita, por signos, señales o mediante el empleo de aparatos eléctricos, electrónicos, mecánicos, alámbricos o inalámbricos, sistemas o equipos informáticos, así como por cualquier otro medio o forma que permita la comunicación entre uno o varios emisores y uno o varios receptores.
 
 ## TITULO QUINTO. APLICACION DE SANCIONES
 
-### CAPITULO II. DELITOS CULPOSOS
+### CAPITULO I. REGLAS GENERALES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 58.
 
-El juez individualizará la sanción penal dentro de los límites previstos por este Código para cada delito, conforme a la gravedad del ilícito y al grado de culpabilidad del agente, y considerando los requerimientos de la readaptación social en el caso concreto. Para ello tomará conocimiento directo del inculpado y la víctima, apreciará los datos que arroje el proceso y recabará los estudios de personalidad correspondientes, ordenando la práctica de éstos a las personas e instituciones que puedan realizarlos.
+Toda pena deberá ser proporcional, el juez individualizará la sanción penal dentro de los límites previstos por este Código, conforme al delito que se sancione, al bien jurídico afectado y las diversas consecuencias jurídicas previstas en el presente ordenamiento, y considerando los principios de la reinserción social en el caso concreto. Para ello tomará conocimiento directo del inculpado y la víctima, apreciará los datos que arroje el proceso y recabará los estudios de personalidad correspondientes, ordenando la práctica de éstos a las personas e instituciones que puedan realizarlos.
 
 Para la individualización penal, el juzgador considerará:
 
-I. La naturaleza y características del hecho punible;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+I. El delito que se sancione;
 
 II. La forma de intervención del agente;
 
 III. Las circunstancias del infractor y del ofendido, antes y durante la comisión del delito, así como las posteriores que sean relevantes para aquel fin, y la relación concreta existente entre el agente y la víctima;
 
-IV. La lesión o puesta en peligro del bien jurídico tutelado, así como las circunstancias que determinen la mayor o menor gravedad de dicha lesión o peligro;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+IV. La lesión, riesgo o puesta en peligro del bien jurídico afectado, así como las circunstancias que determinen la mayor o menor gravedad de dicha lesión o peligro;
 
 V. La calidad del infractor como primerizo o reincidente;
 
@@ -907,7 +995,9 @@ VII. El modo, el tiempo, el lugar, la ocasión y cualesquiera otras circunstanci
 
 VIII. La edad, el nivel de educación, las costumbres, las condiciones sociales, económicas y culturales del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir, o el grado de imprudencia con que se cometió el delito; y
 
-IX. Los demás elementos que permitan apreciar la gravedad del hecho, la culpabilidad del agente y los requerimientos específicos de la readaptación social del infractor.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+IX. Los demás elementos que permitan apreciar la gravedad del hecho, la culpabilidad del agente y los requerimientos específicos de la reinserción social del infractor.
 
 > <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
@@ -921,7 +1011,9 @@ En la sentencia, el juez analizará todos los elementos mencionados en este art�
 
 Cuando la ley permita sustituir la sanción aplicable por otra de menor gravedad, el juez aplicará ésta de manera preferente. Si no dispone la sustitución, deberá manifestar en la sentencia las razones que tuvo para optar por la sanción más grave.
 
-Cuando el juez dicte sentencia condenatoria amonestará al reo.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
+Cuando el juez dicte sentencia condenatoria amonestará al sentenciado.
 
 El juez podrá aplicar el apercibimiento y la caución de no delinquir en cualquiera de los delitos previstos en este Código.
 
@@ -945,7 +1037,7 @@ Lo dispuesto en el párrafo anterior no es aplicable a la reparación de daños 
 
 El juez determinará el momento a partir del cual deba correr la sanción accesoria, en su caso. Para ello, indicará en la sentencia si ésta correrá al mismo tiempo que la principal y se extinguirán simultáneamente; comenzará conjuntamente con ella y la excederá durante determinado tiempo; o comenzará cuando concluya la principal.
 
-### CAPITULO III. IMPUTABILIDAD DISMINUIDA
+### CAPITULO II. DELITOS CULPOSOS
 
 ###### ARTICULO 62.
 
@@ -967,29 +1059,27 @@ V. Si actuó en las circunstancias y contó con el tiempo adecuados para obrar c
 
 VI. Cualesquiera elementos relevantes, apreciables técnicamente, para la determinación de la gravedad de la culpa cuando los hechos ocurrieron con motivo del funcionamiento de equipos o aparatos eléctricos, electrónicos o mecánicos. A este respecto, se considerará el estado del equipo, vías y demás condiciones de funcionamiento, tratándose de infracciones cometidas con motivo del tránsito de vehículos. Asimismo, en este caso se tomaran en cuenta las condiciones del tiempo y las personales del sujeto cuando se cometió el delito.
 
-### CAPITULO IV. ERROR VENCIBLE
-
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
+### CAPITULO III. IMPUTABILIDAD DISMINUIDA
 
 ###### ARTICULO 64.
 
 Cuando se encuentre considerablemente disminuida la capacidad de comprender el carácter ilícito del hecho o de conducirse de acuerdo con esa comprensión, se impondrá al agente hasta las dos terceras partes de la sanción aplicable por el delito cometido, tomando en cuenta las reglas generales de individualización y las consideraciones específicas derivadas del grado de afectación de la imputabilidad del infractor.
 
-### CAPITULO V. EXCESO
+### CAPITULO IV. ERROR VENCIBLE
+
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 65.
 
 En caso de error vencible sobre alguno de los supuestos señalados en la fracción X del artículo 23, se impondrá la sanción prevista para los delitos culposos.
 
-### CAPITULO VI. TENTATIVA
+### CAPITULO V. EXCESO
 
 ###### ARTICULO 66.
 
 Al que cometiere el delito en el supuesto previsto por el artículo 25, se le impondrán las sanciones previstas para el delito cometido en forma culposa.
 
-### CAPITULO VII. CONCURSO Y DELITO CONTINUADO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2004)</small>
+### CAPITULO VI. TENTATIVA
 
 ###### ARTICULO 67.
 
@@ -997,21 +1087,23 @@ La sanción aplicable a la tentativa será de hasta las dos terceras partes de l
 
 Cuando se trate de delito grave, en el primer caso al que se refiere el segundo párrafo del artículo 17, se podrá aplicar hasta la mitad de la sanción prevista en el párrafo anterior. Si la acción o la omisión realizadas constituyen por sí mismas un delito, conforme al segundo caso mencionado por el mismo párrafo del artículo 17, se aplicará la sanción correspondiente a dicho delito.
 
-### CAPITULO VIII. REINCIDENCIA
+### CAPITULO VII. CONCURSO Y DELITO CONTINUADO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 68.
 
-En el caso de concurso real, se aplicará la sanción del delito que merezca la mayor, aumentándola hasta por la suma de las sanciones correspondientes a cada uno de los demás delitos, sin que exceda de setenta años de prisión, en su caso. El juez señalará en la sentencia la sanción relativa a cada uno de los delitos por los que se condene al agente.
+En el caso de concurso real, se aplicará la sanción del delito que merezca la mayor, aumentándola hasta por la suma de las sanciones correspondientes a cada uno de los demás delitos, sin que exceda de ochenta años de prisión, en su caso. El juez señalará en la sentencia la sanción relativa a cada uno de los delitos por los que se condene al agente.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
-En el caso de concurso ideal, se impondrá la sanción del delito que merezca la mayor, aumentándola hasta en una mitad del máximo de su duración, sin que exceda de setenta años de prisión, en su caso.
+En el caso de concurso ideal, se impondrá la sanción del delito que merezca la mayor, aumentándola hasta en una mitad del máximo de su duración, sin que exceda de ochenta años de prisión, en su caso.
 
 En la sentencia se sumarán las sanciones de diversa naturaleza, tanto en el supuesto de concurso real, como en el de concurso ideal.
 
 En el caso de delito continuado, se aumentará desde una mitad hasta las dos terceras partes de las penas que la Ley prevea para el delito cometido, sin exceder del límite máximo que este ordenamiento dispone para la sanción que corresponda.
 
-### CAPITULO IX. PARTICIPACION Y AUTORA INDETERMINADA
+### CAPITULO VIII. REINCIDENCIA
 
 ###### ARTICULO 69.
 
@@ -1019,15 +1111,19 @@ La reincidencia será tomada en cuenta para la individualización judicial de la
 
 En caso de que el inculpado por un delito doloso legalmente calificado como grave, sea reincidente por dos ocasiones en delitos graves, la sanción que corresponda por el último delito cometido se incrementará en dos terceras partes y hasta en un tanto más de la prevista para éste, sin que exceda del máximo señalado por este ordenamiento para la sanción respectiva.
 
-### CAPITULO X. PANDILLA
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+En los demás delitos sean culposos o dolosos y sea la primera reincidencia por delitos del mismo o distinto genero, la sanción que corresponda por el nuevo delito cometido se incrementará desde una tercera parte y hasta en un tanto más de la pena máxima prevista para éste, sin que exceda del máximo señalado en el Título Segundo del Libro Primero.
+
+### CAPITULO IX. PARTICIPACION Y AUTORA INDETERMINADA
 
 ###### ARTICULO 70.
 
 En los casos de las fracciones IV, V y VI del artículo 18, se impondrán a quienes participaron en el delito hasta las dos terceras partes de la sanción aplicable al delito cometido.
 
-### CAPITULO XI. SUSTITUCION
+### CAPITULO X. PANDILLA
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 71.
 
@@ -1037,7 +1133,7 @@ Se entiende por pandilla, para los efectos de esta disposición, la reunión hab
 
 Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policiaca, o miembro de una empresa de seguridad privada, la pena se aumentará hasta en dos terceras partes por el o los delitos cometidos. A los servidores públicos se impondrá además, destitución del empleo, cargo o comisión pública e inhabilitación de uno a cinco años para desempeñar otro.
 
-### CAPITULO I. REGLAS GENERALES
+### CAPITULO XI. SUSTITUCION
 
 ###### ARTICULO 72.
 
@@ -1063,7 +1159,9 @@ El juez resolverá, según las circunstancias del caso, sobre la suspensión, su
 
 Asimismo, se suspenderá la ejecución de la condena por delitos perseguibles de oficio o mediante querella, en los siguientes casos:
 
-I. Cuando se haya dispuesto multa o semilibertad, como pena directa o como sustitutivo de la prisión, y sobrevenga la reconciliación entre el inculpado y el ofendido, espontáneamente o propiciada por la autoridad ejecutora, en forma tal que manifieste la readaptación social del infractor; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+I. Cuando se haya dispuesto multa o semilibertad, como pena directa o como sustitutivo de la prisión, y sobrevenga la reconciliación entre el inculpado y el ofendido, espontáneamente o propiciada por la autoridad ejecutora, en forma tal que manifieste la reinserción social del infractor; y
 
 II. Cuando se esté en los mismos supuestos penales previstos por la fracción anterior, y una vez notificada la sentencia el infractor pague inmediatamente u otorgue garantía de pago de los daños y perjuicios causados, a satisfacción del ofendido.
 
@@ -1071,7 +1169,9 @@ II. Cuando se esté en los mismos supuestos penales previstos por la fracción a
 
 Para que proceda la sustitución de la sanción privativa de libertad, es necesario que se observen las siguientes condiciones:
 
-I. Que se acredite la conveniencia de la sustitución, tomando en cuenta los requerimientos de la justicia y las necesidades de la readaptación social en el caso concreto;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+I. Que se acredite la conveniencia de la sustitución, tomando en cuenta los requerimientos de la justicia y las necesidades de la reinserción social en el caso concreto;
 
 II. Que sea la primera vez que delinque el sujeto y haya observado buena conducta positiva antes y después de la comisión del delito. Cuando el juez considere pertinente conceder la suspensión o la sustitución a un reincidente o a quien no haya observado la conducta requerida por la primera parte de esta fracción, lo resolverá así, exponiendo detalladamente las razones que sustentan su determinación. La sentencia deberá ser confirmada, en su caso, por el Tribunal Superior de Justicia, al que se remitirá de oficio para la resolución definitiva que corresponda;
 
@@ -1085,9 +1185,11 @@ VI. Que aquél se abstenga de causar molestias al ofendido, a sus familiares y a
 
 Antes de resolver la sustitución, el juez requerirá al sentenciado para que, una vez enterado de estas condiciones, asuma el expreso y formal compromiso de cumplirlas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 77.
 
-En el caso de suspensión condicional de la ejecución de la condena, la sanción se extinguirá cuando transcurra el tiempo fijado a la sanción suspendida sin que el beneficiario cometa algún delito o incumpla las condiciones de la suspensión. Si incurre en delito culposo o deja de cumplir dichas condiciones, el juez resolverá si se revoca la suspensión y ejecuta la sanción suspendida, o se apercibe al reo y se le dispensa, por una sóla vez, de la falta cometida. Si incurre en delito doloso, se revocará la suspensión y se ejecutará la sanción impuesta. Los hechos que originen el nuevo proceso interrumpen el plazo de suspensión, hasta que se dicte sentencia firme.
+En el caso de suspensión condicional de la ejecución de la condena, la sanción se extinguirá cuando transcurra el tiempo fijado a la sanción suspendida sin que el beneficiario cometa algún delito o incumpla las condiciones de la suspensión. Si incurre en delito culposo o deja de cumplir dichas condiciones, el juez resolverá si se revoca la suspensión y ejecuta la sanción suspendida, o se apercibe al sentenciado y se le dispensa, por una sóla vez, de la falta cometida. Si incurre en delito doloso, se revocará la suspensión y se ejecutará la sanción impuesta. Los hechos que originen el nuevo proceso interrumpen el plazo de suspensión, hasta que se dicte sentencia firme.
 
 En lo que respecta a la extinción y a la revocación de la sanción sustitutiva, con ejecución de la sustituída, se estará a la duración dispuesta para aquélla, así como a lo previsto en el párrafo anterior.
 
@@ -1097,7 +1199,9 @@ En todo caso se computará en favor del sentenciado el tiempo que permaneció ba
 
 La multa impuesta directamente o como sanción sustitutiva, podrá ser sustituída, total o parcialmente, por trabajo en favor de la comunidad, cuando se acredite que el sentenciado no puede pagarla o sólo esté en condiciones de cubrir parte de ella.
 
-En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad, o al tiempo que el reo hubiese cumplido en prisión, tratándose de la multa sustitutiva de la pena privativa de libertad. En este caso la equivalencia será a razón de un día multa por un día de prisión.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
+En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad, o al tiempo que el sentenciado hubiese cumplido en prisión, tratándose de la multa sustitutiva de la pena privativa de libertad. En este caso la equivalencia será a razón de un día multa por un día de prisión.
 
 Cuando se hubiese hecho condena a reparación de daños y perjuicios, además de la multa, la sustitución quedará condicionada al cumplimiento de la condición fijada en la fracción III del artículo 76.
 
@@ -1115,7 +1219,7 @@ II. El confinamiento, por multa, a razón de un día de aquél por dos días de 
 
 ## TITULO SEXTO. EXTINCION DE LA PRETENSION PUNITIVA Y DE LA POTESTAD EJECUTIVA
 
-### CAPITULO II. SENTENCIA EJECUTORIA O PROCESO ANTERIOR POR EL MISMO DELITO
+### CAPITULO I. REGLAS GENERALES
 
 ###### ARTICULO 81.
 
@@ -1141,17 +1245,19 @@ IX. Improcedencia del tratamiento de inimputables;
 
 X. Prescripción.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 82.
 
-Las resoluciones sobre las causas extintivas se dictarán de oficio o a solicitud de parte, por el Ministerio Público, la autoridad judicial o la autoridad ejecutora, según aparezca dicha causa en la averiguación previa, el proceso o el período de ejecución, respectivamente, sin perjuicio de lo dispuesto por este Código y por el de Procedimientos Penales acerca del reconocimiento de la inocencia del condenado.
+Las resoluciones sobre las causas extintivas se dictarán de oficio o a solicitud de parte, por el Ministerio Público, la autoridad judicial o la autoridad ejecutora, según aparezca dicha causa en la averiguación previa, el proceso o el período de ejecución, respectivamente, sin perjuicio de lo dispuesto por este Código y por el de Procedimientos Penales acerca del reconocimiento de la inocencia del sentenciado.
 
-Si en la ejecución se advierte que hubo causa extintiva durante la averiguación previa o el proceso, sin que se hiciera valer en esas etapas, se solicitará la libertad absoluta del reo al órgano jurisdiccional que hubiese conocido del asunto.
+Si en la ejecución se advierte que hubo causa extintiva durante la averiguación previa o el proceso, sin que se hiciera valer en esas etapas, se solicitará la libertad absoluta del sentenciado al órgano jurisdiccional que hubiese conocido del asunto.
 
 ###### ARTICULO 83.
 
 La extinción que opere en los términos de este Título no abarca el decomiso de bienes de uso prohibido, instrumentos, objeto y producto del delito, ni afecta la reparación de daños y perjuicios, salvo cuando la extinción de ésta sea consecuencia necesaria de la causa extintiva correspondiente. En este caso, si el inculpado o sentenciado cubrió la reparación de daños y perjuicios, podrá repetir por enriquecimiento indebido, en los términos de la legislación civil.
 
-### CAPITULO III. CUMPLIMIENTO DE LA SANCION
+### CAPITULO II. SENTENCIA EJECUTORIA O PROCESO ANTERIOR POR EL MISMO DELITO
 
 ###### ARTICULO 84.
 
@@ -1165,21 +1271,21 @@ II. Una sentencia y un procedimiento distinto, se archivará o sobreseerá de of
 
 III. Dos sentencias dictadas en procesos distintos, se extinguirán los efectos de la que no haya causado ejecutoria o de la segunda, si ninguna ha causado ejecutoria.
 
-### CAPITULO IV. LEY FAVORABLE
+### CAPITULO III. CUMPLIMIENTO DE LA SANCION
 
 ###### ARTICULO 85.
 
 El cumplimiento de la sanción impuesta por la autoridad judicial extingue la potestad ejecutiva con todos sus efectos. La extinguen, asimismo, el cumplimiento de las condiciones dispuestas para la suspensión de la ejecución de la sentencia y de los deberes establecidos para la libertad preparatoria y la remisión, así como la rehabilitación concedida.
 
-### CAPITULO V. MUERTE DEL DELINCUENTE
+### CAPITULO IV. LEY FAVORABLE
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 86.
 
-Cuando una ley suprima un tipo penal, se extinguirán la pretensión y la potestad ejecutiva correspondientes al tipo suprimido. Asimismo, cuando la nueva ley mejore la situación del reo por lo que respecta a la naturaleza, duración, cuantía o modalidades de la sanción impuesta, se extinguirá la potestad de ejecutar la sanción más grave y se estará a los términos de la más benigna.
+Cuando una ley suprima un tipo penal, se extinguirán la pretensión y la potestad ejecutiva correspondientes al tipo suprimido. Asimismo, cuando la nueva ley mejore la situación del sentenciado por lo que respecta a la naturaleza, duración, cuantía o modalidades de la sanción impuesta, se extinguirá la potestad de ejecutar la sanción más grave y se estará a los términos de la más benigna.
 
-### CAPITULO VI. AMNISTIA
+### CAPITULO V. MUERTE DEL DELINCUENTE
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
@@ -1187,17 +1293,21 @@ Cuando una ley suprima un tipo penal, se extinguirán la pretensión y la potest
 
 La muerte del delincuente extingue la pretensión punitiva y la potestad ejecutiva de las sanciones que se le hubieren impuesto, con excepción de la reparación del daño y el decomiso de los instrumentos con que se cometió el delito, así como de las cosas que sean efecto u objeto de él.
 
-### CAPITULO VII. RECONOCIMIENTO DE INOCENCIA
+### CAPITULO VI. AMNISTIA
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 88.
 
 La amnistía extingue la pretensión punitiva y la potestad ejecutiva de la sanción, excepto la de reparación del daño en los términos de la norma jurídica que se dictare concediéndola. Si ésta no declara su alcance, se entenderá que aquéllas se extinguen en todos sus efectos, salvo lo previsto en el artículo 33 de este Código con respecto a todos los responsables.
 
-### CAPITULO VIII. PERDON DEL OFENDIDO O LEGITIMADO
+### CAPITULO VII. RECONOCIMIENTO DE INOCENCIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 89.
 
-Se anulará la sanción impuesta cuando se reconozca la inocencia del condenado. Procede este reconocimiento:
+Se anulará la sanción impuesta cuando se reconozca la inocencia del sentenciado. Procede este reconocimiento:
 
 I. Cuando la sentencia se funde exclusivamente en pruebas que se declaren falsas con posterioridad a la emisión de aquélla;
 
@@ -1205,9 +1315,11 @@ II. Cuando después de dictada la sentencia aparezcan documentos públicos que i
 
 III. Cuando se demuestre por prueba indubitable que no hubo delito o que el sentenciado no tuvo participación alguna en los hechos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 90.
 
-Si el condenado ha cumplido la sanción impuesta, tiene derecho a que se reconozca su inocencia en los casos previstos en este artículo. Si ha fallecido, la facultad de solicitar el reconocimiento de inocencia corresponderá a sus derechohabientes.
+Si el sentenciado ha cumplido la sanción impuesta, tiene derecho a que se reconozca su inocencia en los casos previstos en este artículo. Si ha fallecido, la facultad de solicitar el reconocimiento de inocencia corresponderá a sus derechohabientes.
 
 ###### ARTICULO 91.
 
@@ -1217,13 +1329,15 @@ La resolución que declare la inocencia se publicará, a costa del Estado, en do
 
 El Ejecutivo del Estado dispondrá, administrativamente, la forma en que deba repararse el daño causado a quien permaneció privado de libertad con motivo del proceso y de la ejecución de la sentencia, y fue declarado inocente. La reparación se hará a razón de un día de salario mínimo por cada día de privación de libertad, por lo menos.
 
-### CAPITULO IX. INDULTO
+### CAPITULO VIII. PERDON DEL OFENDIDO O LEGITIMADO
 
 ###### ARTICULO 93.
 
 El perdón del ofendido o del legitimado para otorgarlo extingue la pretensión punitiva y la potestad ejecutiva con respecto a los responsables del hecho, cuando se trate de delitos perseguibles mediante querella u otro requisito de procedibilidad equivalente. El perdón debe ser otorgado expresamente, es irrevocable y puede ser concedido en cualquier tiempo, hasta el cumplimiento de la sanción.
 
-El perdón sólo surte efectos en lo que respecta a quien lo formula y beneficia a quien se concede. Cuando sean varios los inculpados y el ofendido hubiese obtenido la satisfacción de sus intereses o derechos, el perdón beneficiará a todos.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
+El perdón sólo surte efectos en lo que respecta a quien lo formula y beneficia a quien se concede siempre y cuando haya cumplido a satisfacción con el pago de la reparación del daño. Cuando sean varios los inculpados y el ofendido hubiese obtenido la satisfacción de sus intereses o derechos, el perdón beneficiará a todos.
 
 Se aplicarán las disposiciones contenidas en los párrafos anteriores cuando la persecución del delito esté sujeta a un requisito de procedibilidad equivalente a la querella, que deba ser satisfecho por alguna autoridad, y ésta manifieste que no solicita dicha persecución o que se desiste de la que hubiese promovido.
 
@@ -1231,25 +1345,25 @@ Se aplicarán las disposiciones contenidas en los párrafos anteriores cuando la
 
 El inculpado puede rechazar el perdón que se le otorga. En este caso, continuarán el proceso o la ejecución.
 
-### CAPITULO X. IMPROCEDENCIA DEL TRATAMIENTO DE INIMPUTABLES
+### CAPITULO IX. INDULTO
 
 ###### ARTICULO 95.
 
 El indulto extingue la potestad de ejecutar la sanción. El Ejecutivo podrá conceder indulto conforme a las siguientes reglas:
 
-I. Por delitos comunes, salvo homicidio doloso, violación, secuestro y terrorismo, cuando el reo hubiese prestado importantes servicios a la Nación o al Estado, o hubiere delinquido por motivos políticos o sociales y existan datos que revelen efectiva readaptación social; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+I. Por delitos comunes, salvo homicidio doloso, violación, secuestro y terrorismo, cuando el sentenciado hubiese prestado importantes servicios a la Nación o al Estado, o hubiere delinquido por motivos políticos o sociales y existan datos que revelen efectiva reinserción social; y
 
 II. Por delitos políticos, a discreción del Ejecutivo.
 
-### CAPITULO XI. PRESCRIPCION
+### CAPITULO X. IMPROCEDENCIA DEL TRATAMIENTO DE INIMPUTABLES
 
 ###### ARTICULO 96.
 
 La potestad de ejecución del tratamiento en libertad o en internamiento, impuesto a un inimputable, se extinguirá si se acredita que éste ya no requiere dicho tratamiento. Cuando el inimputable sujeto a tratamiento por sentencia judicial se encuentre prófugo y sea detenido, se extinguirá la potestad ejecutiva de la sanción si se acredita que las condiciones del sujeto ya no corresponden a las que dieron origen a ésta.
 
-### CAPITULO I. HOMICIDIO
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+### CAPITULO XI. PRESCRIPCION
 
 #### SECCION PRIMERA. REGLAS GENERALES
 
@@ -1333,7 +1447,9 @@ DELITOS CONTRA EL INDIVIDUO
 
 ## TITULO PRIMERO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD FISICA
 
-### CAPITULO II. INDUCCION Y AUXILIO AL SUICIDIO
+### CAPITULO I. HOMICIDIO
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 106.
 
@@ -1371,9 +1487,7 @@ Al que cometa homicidio en riña de conformidad con lo establecido en el artícu
 
 Al que prive de la vida a otro, por petición expresa, libre, reiterada, seria e inequívoca de éste, y con motivo de una enfermedad incurable o en fase terminal, se le impondrán de cuatro a doce años de prisión y de setecientos a cinco mil días-multa.
 
-### CAPITULO III. ABORTO
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+### CAPITULO II. INDUCCION Y AUXILIO AL SUICIDIO
 
 ###### ARTICULO 112.
 
@@ -1391,7 +1505,9 @@ A quien preste ayuda a la persona que se suicida, para este propósito, fuera de
 
 Si entre el inductor y el suicida existe alguno de los vínculos previstos en el artículo 107 o el inducido es menor de edad o inimputable, se aplicará al sujeto activo la sanción prevista para el homicidio calificado.
 
-### CAPITULO IV. LESIONES
+### CAPITULO III. ABORTO
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 115.
 
@@ -1445,9 +1561,7 @@ V. Cuando el embarazo sea resultado de la inseminación artificial realizada sin
 
 (DEROGADO, P.O. 18 DE OCTUBRE DE 2000)
 
-### CAPITULO V. DISPOSICIONES COMUNES PARA EL HOMICIDIO Y LAS LESIONES
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+### CAPITULO IV. LESIONES
 
 ###### ARTICULO 121.
 
@@ -1509,9 +1623,11 @@ Son perseguibles por querella las lesiones previstas en la fracción I del artí
 
 En todo caso se perseguirán de oficio las lesiones causadas en los términos del artículo 128.
 
-### CAPITULO I. OMISION DE CUIDADO
+### CAPITULO V. DISPOSICIONES COMUNES PARA EL HOMICIDIO Y LAS LESIONES
 
-### CAPITULO II. EXPOSICION DE INCAPACES
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO I. OMISION DE CUIDADO
 
 ###### ARTICULO 126.
 
@@ -1569,11 +1685,11 @@ Cuando el agente actúe en estado de emoción violenta, el juzgador podrá reduc
 
 Si el juzgador lo estima pertinente, podrá imponer a los responsables de homicidio y lesiones, además de las penas previstas en este Título, supervisión de la autoridad y prohibición de concurrencia o residencia.
 
-### CAPITULO III. OMISION DE AUXILIO A LESIONADOS
+### CAPITULO II. EXPOSICION DE INCAPACES
 
 ## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO IV. OMISION DE AUXILIO
+### CAPITULO III. OMISION DE AUXILIO A LESIONADOS
 
 ###### ARTICULO 132.
 
@@ -1583,7 +1699,7 @@ Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obli
 
 Si del abandono resulta la muerte o lesiones, se aplicarán las penas que correspondan por homicidio calificado o por lesiones calificadas en razón del grado de éstas.
 
-### CAPITULO UNICO. PELIGRO DE CONTAGIO
+### CAPITULO IV. OMISION DE AUXILIO
 
 ###### ARTICULO 133.
 
@@ -1591,13 +1707,13 @@ Al que teniendo la obligación de hacerse cargo de una persona incapaz de cuidar
 
 No se impondrá sanción alguna a la madre que entregue a su hijo por ignorancia o extrema pobreza, o cuando aquél sea el producto de una violación o una inseminación artificial sin consentimiento.
 
-### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD PERSONAL
+### CAPITULO UNICO. PELIGRO DE CONTAGIO
 
 ###### ARTICULO 134.
 
 Al que habiendo lesionado culposa o fortuitamente a una persona no le preste auxilio ni solicite la asistencia que aquélla requiere, pudiendo hacerlo, y no permanezca en el lugar en que se encuentre el lesionado hasta que éste reciba el auxilio solicitado, se le impondrán las sanciones previstas en el artículo anterior.
 
-### CAPITULO II. SECUESTRO
+### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD PERSONAL
 
 ###### ARTICULO 135.
 
@@ -1605,7 +1721,7 @@ Al que omita prestar el auxilio posible y adecuado a quien se encuentre ante él
 
 ## TITULO TERCERO. DELITOS DE PELIGRO PARA LA SALUD DE LAS PERSONAS
 
-### CAPITULO III. RAPTO
+### CAPITULO II. SECUESTRO
 
 ###### ARTICULO 136.
 
@@ -1617,9 +1733,7 @@ En los casos previstos por este artículo, el tribunal dispondrá que el agente 
 
 ## TITULO CUARTO. DELITOS CONTRA LA LIBERTAD Y OTRAS GARANTIAS
 
-### CAPITULO IV. EXTORSION
-
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+### CAPITULO III. RAPTO
 
 ###### ARTICULO 137.
 
@@ -1649,7 +1763,9 @@ V. Que la privación de la libertad tenga el propósito de realizar un acto eró
 
 Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres días siguientes a la comisión del delito y no se hubiese hecho uso de la violencia sobre el ofendido, el juez podrá prescindir de la sanción. Si la libertad se produce, en las mismas condiciones, antes de que transcurran seis días desde la comisión del delito, la sanción podrá disminuirse hasta la mitad.
 
-### CAPITULO V. AMENAZAS
+### CAPITULO IV. EXTORSION
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 140.
 
@@ -1709,7 +1825,9 @@ VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2009)</small>
 
-### CAPITULO VI. ASALTO
+### CAPITULO V. AMENAZAS
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 143.
 
@@ -1723,9 +1841,7 @@ VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, 
 
 (DEROGADO, P.O. 25 DE MARZO DE 2009)
 
-### CAPITULO VII. TRATA DE PERSONAS
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
+### CAPITULO VI. ASALTO
 
 ###### ARTICULO 146.
 
@@ -1733,7 +1849,9 @@ Al que por cualquier medio ilícito ejerza coacción sobre una persona para que 
 
 Si el autor de la extorsión obtiene lo que se propuso, la sanción se aumentará hasta en una mitad, sin perjuicio de las demás que resulten aplicables.
 
-### CAPITULO UNICO. ALLANAMIENTO DE MORADA
+### CAPITULO VII. TRATA DE PERSONAS
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 148 Bis.
 
@@ -1773,19 +1891,21 @@ En todos los casos el Juez acordará las medidas pertinentes para que se prohíb
 
 ###### ARTICULO 147.
 
-A quien intimide a otro con causarle daño en su persona o en sus bienes, u ocasionarlo a un tercero con quien el ofendido tenga vínculos afectivos, de parentesco o gratitud, se le impondrá de seis meses a tres años de prisión, sin perjuicio de la sanción aplicable si el agente realiza el mal con que amenaza.
+A quien intimide a otro con causarle daño en su persona o en sus bienes, u ocasionarlo a un tercero con quien la víctima tenga vínculos afectivos, de parentesco o gratitud, o trate de impedir por esos mismos medios, que otro ejecute lo que tiene derecho a hacer, se le impondrá de seis meses a tres años de prisión.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2007)</small>
+Si el ofendido por la amenaza fuere víctima, ofendido o testigo en un procedimiento penal, la pena será de cuatro a ocho años de prisión y de cien a trescientos días multa.
 
-Solo se procederá contra el sujeto activo del delito de amenazas por querella del ofendido.
+Los delitos previstos en este artículo se perseguirán por querella, con excepción del establecido en el párrafo inmediato anterior que se perseguirá de oficio.
 
-### CAPITULO I. VIOLACION DE LA INTIMIDAD PERSONAL
+### CAPITULO UNICO. ALLANAMIENTO DE MORADA
 
 ###### ARTICULO 148.
 
 Al que en lugar solitario o desprotegido haga uso de la violencia sobre una o más personas, con el propósito de causarles un mal, obtener un lucro o exigir su asentimiento para cualquier fin, se le sancionará con prisión de uno a cuatro años.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
+
+### CAPITULO I. VIOLACION DE LA INTIMIDAD PERSONAL
 
 ### CAPITULO II. REVELACION O APROVECHAMIENTO DE SECRETO
 
@@ -1797,15 +1917,11 @@ Al que en lugar solitario o desprotegido haga uso de la violencia sobre una o m�
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
+## TITULO QUINTO. DELITO CONTRA LA INVIOLABILIDAD DEL DOMICILIO
+
 ### CAPITULO III. HOSTIGAMIENTO SEXUAL
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
-
-## TITULO QUINTO. DELITO CONTRA LA INVIOLABILIDAD DEL DOMICILIO
-
-### CAPITULO IV. ESTUPRO
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 149.
 
@@ -1817,9 +1933,9 @@ El allanamiento de morada se perseguirá por querella, cuando no medie violencia
 
 ## TITULO SEXTO. DELITOS CONTRA LA INTIMIDAD PERSONAL O FAMILIAR
 
-### CAPITULO V. ABUSO SEXUAL
+### CAPITULO IV. ESTUPRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 150.
 
@@ -1831,7 +1947,9 @@ II. Reproduzca dichos documentos u objetos; o
 
 III. Utilice medios técnicos para escuchar, observar, transmitir, grabar o reproducir la imagen o el sonido.
 
-### CAPITULO I. DIFAMACION
+### CAPITULO V. ABUSO SEXUAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 151.
 
@@ -1839,7 +1957,7 @@ Se impondrán de seis meses a dos años de prisión, al que sin consentimiento d
 
 ## TITULO SEPTIMO. DELITOS CONTRA LA LIBERTAD Y EL NORMAL DESARROLLO PSICOSEXUAL
 
-### CAPITULO II. CALUMNIA
+### CAPITULO I. DIFAMACION
 
 ###### ARTICULO 152.
 
@@ -1873,7 +1991,7 @@ Cuando la violación se comete aprovechando los medios o circunstancias del empl
 
 Al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril o a uno o más dedos, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido, se le impondrá de veinte a veinticinco años de prisión.
 
-### CAPITULO III. DISPOSICIONES COMUNES
+### CAPITULO II. CALUMNIA
 
 ###### ARTICULO 157.
 
@@ -1881,7 +1999,7 @@ Al que sin consentimiento de una mujer mayor de edad, o con el consentimiento de
 
 Si la inseminación se realiza con violencia, se impondrá a los autores una pena de veinticinco a treinta años de prisión.
 
-### CAPITULO I. ROBO
+### CAPITULO III. DISPOSICIONES COMUNES
 
 ###### ARTICULO 158.
 
@@ -1901,9 +2019,7 @@ Cuando el hostigador sea servidor público, docente o parte del personal adminis
 
 En el caso de que preste sus servicios en una institución pública, además se le destituirá e inhabilitará para ejercer su cargo por un término igual a la prisión impuesta; en caso de reincidencia, la inhabilitación será definitiva.
 
-### CAPITULO II. ABIGEATO
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
+### CAPITULO I. ROBO
 
 ###### ARTICULO 159.
 
@@ -1919,9 +2035,9 @@ En el caso del artículo anterior, se procederá contra el sujeto activo por que
 
 Las autoridades educativas de los centros escolares y del Gobierno relacionadas con la materia, que tengan conocimiento de la comisión de este ilícito en contra de los educandos, deberán inmediatamente proceder a hacerlo del conocimiento de sus padres o de sus representantes legítimos, sin perjuicio del análisis de su responsabilidad en términos de lo dispuesto por el artículo 18 de este Código.
 
-### CAPITULO III. DESPOJO
+### CAPITULO II. ABIGEATO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 161.
 
@@ -1949,17 +2065,17 @@ Si el sujeto activo convive con el pasivo con motivo de su familiaridad, de su a
 
 Las autoridades educativas de los centros escolares, las de las instituciones de asistencia social y del Gobierno relacionadas con la materia, que tengan conocimiento de la comisión de este ilícito en contra de los educandos, deberán inmediatamente proceder, a hacerlo del conocimiento de sus padres o de sus representantes legítimos, y denunciarlo ante el Ministerio Público, sin perjuicio del análisis de su responsabilidad en términos de lo dispuesto por el artículo 18 de este ordenamiento.
 
-### CAPITULO IV. ABUSO DE CONFIANZA
+### CAPITULO III. DESPOJO
 
-### CAPITULO V. FRAUDE
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2003)</small>
+
+### CAPITULO IV. ABUSO DE CONFIANZA
 
 ## TITULO OCTAVO. DELITOS CONTRA EL PRESTIGIO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO VI. ADMINISTRACION FRAUDULENTA
-
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
+### CAPITULO V. FRAUDE
 
 ###### ARTICULO 163.
 
@@ -1979,7 +2095,9 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO VII. INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES
+### CAPITULO VI. ADMINISTRACION FRAUDULENTA
+
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 167.
 
@@ -1991,7 +2109,7 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO VIII. DELITOS COMETIDOS POR FRACCIONADORES
+### CAPITULO VII. INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES
 
 ###### ARTICULO 169.
 
@@ -2015,7 +2133,7 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 ## TITULO NOVENO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO IX. DAÑO
+### CAPITULO VIII. DELITOS COMETIDOS POR FRACCIONADORES
 
 ###### ARTICULO 174.
 
@@ -2137,9 +2255,7 @@ II. Use o aproveche energía eléctrica o algún fluido sin consentimiento de la
 
 Al que se apodere de una cosa mueble ajena, sin consentimiento del dueño o del poseedor legítimo, acredite que la sustrajo para usarla temporalmente y no para apropiársela o venderla, y acceda a devolverla cuando se le requiera para ello, se le aplicarán de seis meses a un año de trabajo en favor de la comunidad, si justifica no haberse negado a devolverla si se le requirió para ello. Como reparación del daño, además, pagará al ofendido el doble del alquiler, arrendamiento o interés de la cosa usada. Si ésta no se halla invertida o sujeta a alquiler o arrendamiento, la reparación se estimará conforme a los valores de mercado.
 
-### CAPITULO IX BIS. ALTERACION DE LA IMAGEN URBANA
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2004)</small>
+### CAPITULO IX. DAÑO
 
 ###### ARTICULO 179.
 
@@ -2195,7 +2311,9 @@ Cuando el agente activo que comete el delito o participe en él, sea servidor p�
 
 A quien a sabiendas de que es producto de abigeato, almacene, posea o transporte ganado, carnes, pieles, u otros derivados, se le impondrán de seis meses a dos años de prisión y hasta ciento ochenta días multa.
 
-### CAPITULO X. USURA
+### CAPITULO IX BIS. ALTERACION DE LA IMAGEN URBANA
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 184.
 
@@ -2223,7 +2341,7 @@ Se incrementarán hasta en una mitad las sanciones aplicables conforme al artíc
 
 La misma sanción prevista en el párrafo anterior se aplicará cuando el despojo se realice por tres o más personas, o con empleo de violencia, o se cometa en lugar despoblado.
 
-### CAPITULO XI. ENCUBRIMIENTO POR RECEPTACION
+### CAPITULO X. USURA
 
 ###### ARTICULO 186.
 
@@ -2241,7 +2359,7 @@ IV. De cuatro años seis meses a once años de prisión y de cuatrocientos cincu
 
 Se aplicarán las sanciones del abuso de confianza a quien disponga de una cosa mueble de su propiedad, cuando no tenga, legalmente, la libre disposición de aquélla, o la retenga indebidamente.
 
-### CAPITULO XII. OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
+### CAPITULO XI. ENCUBRIMIENTO POR RECEPTACION
 
 ###### ARTICULO 195 Bis.
 
@@ -2289,33 +2407,33 @@ VI. Siendo fabricante, empresario, contratista o constructor de una obra emplee 
 
 VII. Provoque deliberadamente cualquier acontecimiento, simulando que se trata de caso fortuito o fuerza mayor, para liberarse de obligaciones o cobrar fianzas o seguros.
 
+### CAPITULO XII. OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
+
 ### CAPITULO XIII. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2004)</small>
-
-### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA ALIMENTARIA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 190.
 
 Se impondrán las sanciones previstas en el artículo 188, según el valor del lucro obtenido o del perjuicio causado, en el término que resulte más elevado, a quien tenga a su cargo la administración o el cuidado de bienes ajenos y perjudique al dueño de éstos, con ánimo de lucro, alterando las cuentas o las condiciones de los contratos, haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores, empleando éstos indebidamente o realizando conductas perjudiciales para el patrimonio del titular de los bienes, en beneficio propio o de un tercero, cuando exista conflicto de intereses.
 
-### CAPITULO I BIS. VIOLENCIA FAMILIAR
+### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA ALIMENTARIA
 
-(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008) (F. DE E., P.O. 18 DE JUNIO DE 2008)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 191.
 
 Al que artificiósamente se coloque en estado de insolvencia con el objeto de eludir las obligaciones que tenga frente a sus acreedores, se le impondrán las sanciones previstas para el delito de fraude, conforme al valor de las obligaciones incumplidas.
 
-### CAPITULO II. SUSTRACCION O RETENCION DE MENORES O INCAPACES
+### CAPITULO I BIS. VIOLENCIA FAMILIAR
+
+(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008) (F. DE E., P.O. 18 DE JUNIO DE 2008)
 
 ###### ARTICULO 192.
 
 Se impondrán las sanciones previstas para el fraude, conforme al monto del daño o al perjuicio que resulten, al que fraccione o divida un terreno en lotes, transfiera o prometa transferir la propiedad, posesión o cualquier otro derecho, careciendo del permiso previo de la autoridad administrativa correspondiente, o cuando teniéndolo no cumpla con los requisitos prometidos.
 
-### CAPITULO III. TRAFICO DE MENORES
+### CAPITULO II. SUSTRACCION O RETENCION DE MENORES O INCAPACES
 
 ###### ARTICULO 193.
 
@@ -2331,9 +2449,9 @@ Las sanciones previstas en este Capítulo se reducirán en una mitad cuando el a
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE JUNIO DE 2004)</small>
 
-### CAPITULO IV. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL
+### CAPITULO III. TRAFICO DE MENORES
 
-### CAPITULO V. BIGAMIA
+### CAPITULO IV. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL
 
 ###### ARTICULO 202 Bis.
 
@@ -2363,7 +2481,7 @@ En los casos de violencia familiar el agente del Ministerio Público acordará l
 
 A quien aprovechando la necesidad económica de otro obtenga de éste, mediante convenio formal o informal, ganancias notablemente superiores a las vigentes en el mercado, causándole con ello perjuicio económico, se le impondrán de seis meses a tres años de prisión y días multa equivalentes a los intereses devengados en exceso. Asimismo, se le condenará al resarcimiento, consistente en la devolución de la suma correspondiente a esos mismos intereses excedentes, más los perjuicios ocasionados.
 
-### CAPITULO VI. INCESTO
+### CAPITULO V. BIGAMIA
 
 ###### ARTICULO 197.
 
@@ -2377,7 +2495,7 @@ Al que comercialice en forma habitual objetos robados, cuando el valor intrínse
 
 El juez, teniendo en cuenta la naturaleza del hecho, las circunstancias personales del inculpado y las demás que señala el artículo 58, podrá imponer en los casos de encubrimiento a los que se refiere este artículo, en lugar de las sanciones señaladas, hasta las dos terceras partes de las que corresponderían al autor del delito, debiendo hacer constar en la sentencia las razones en que se funda para aplicar la sanción que autoriza este párrafo.
 
-### CAPITULO VII. ADULTERIO
+### CAPITULO VI. INCESTO
 
 ###### ARTICULO 198.
 
@@ -2393,9 +2511,7 @@ Para los efectos de este artículo, se entiende que son producto de una activida
 
 Para los mismos efectos, se entenderá que el sistema financiero se encuentra integrado por las instituciones que a este respecto considera la legislación federal correspondiente.
 
-### CAPITULO I. DE LAS PERSONAS MENORES DE EDAD Y DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2008)</small>
+### CAPITULO VII. ADULTERIO
 
 ###### ARTICULO 199.
 
@@ -2413,9 +2529,9 @@ En los casos previstos en este Título, el juzgador podrá suspender al agente e
 
 ## TITULO DECIMO. DELITOS CONTRA LA FAMILIA
 
-### CAPITULO II. LENOCINIO
+### CAPITULO I. DE LAS PERSONAS MENORES DE EDAD Y DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 201.
 
@@ -2441,11 +2557,13 @@ Este delito se perseguirá de oficio si del abandono resultare alguna lesión o 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2004)</small>
 
+### CAPITULO II. LENOCINIO
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
+
 ### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
 
 ### CAPITULO II. LENOCINIO Y TRATA DE PERSONAS
-
-### CAPITULO III. CORRUPCION DE MENORES E INCAPACES
 
 ###### ARTICULO 212 Ter.
 
@@ -2465,7 +2583,7 @@ Cuando quien sustrae o retiene indebidamente al menor o al incapaz lo devuelve e
 
 Los delitos previstos en este artículo se perseguirán por querella de quien tenga derechos familiares o de tutela con respecto al menor o al incapaz.
 
-### CAPITULO I. FALSIFICACION DE DOCUMENTOS Y USO DE DOCUMENTO FALSO
+### CAPITULO III. CORRUPCION DE MENORES E INCAPACES
 
 ###### ARTICULO 204.
 
@@ -2479,7 +2597,9 @@ A quien entregue al menor para que sea incorporado a un núcleo familiar y otorg
 
 Además de las sanciones señaladas en los párrafos precedentes, los responsables de los delitos mencionados en este precepto perderán los derechos que tengan en relación con el menor, incluso los de carácter sucesorio.
 
-### CAPITULO II. FALSIFICACION DE SELLOS, MARCAS, LLAVES, SIGNOS, CONTRASEÑAS Y OBRAS
+### CAPITULO I. FALSIFICACION DE DOCUMENTOS Y USO DE DOCUMENTO FALSO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 205.
 
@@ -2509,19 +2629,23 @@ I. Desconozca o haga incierta la relación de filiación, para liberarse de las 
 
 II. Sustituya a un menor por otro o lo oculte para ocasionarle perjuicio en sus derechos de familia.
 
-### CAPITULO III. FALSEDAD ANTE AUTORIDAD
+### CAPITULO II. FALSIFICACION DE SELLOS, MARCAS, LLAVES, SIGNOS, CONTRASEÑAS Y OBRAS
 
 ###### ARTICULO 207.
 
 Al que contraiga nuevo matrimonio sin que se haya declarado la nulidad o la disolución del que contrajo con anterioridad, se le impondrá de seis meses a dos años de prisión. Las mismas sanciones se aplicarán al otro contrayente cuando éste tenga conocimiento del impedimento a que se refiere este artículo.
 
-### CAPITULO IV. VARIACION DE NOMBRE, DOMICILIO O CIUDADANIA
+### CAPITULO III. FALSEDAD ANTE AUTORIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 208.
 
 A los hermanos y a los ascendientes y descendientes consanguíneos, sin limitación de grado, que tengan cópula entre sí, se les impondrá de seis meses a dos años de prisión o de seis meses a un año de tratamiento en libertad. El juez podrá reducir la sanción hasta en una mitad, si en el caso median circunstancias que justifiquen esa reducción.
 
-### CAPITULO V. USURPACION DE PROFESIONES
+### CAPITULO IV. VARIACION DE NOMBRE, DOMICILIO O CIUDADANIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 209.
 
@@ -2537,7 +2661,7 @@ A los hermanos y a los ascendientes y descendientes consanguíneos, sin limitaci
 
 > <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], P.O. 9 DE JULIO DE 2008)</small>
 
-### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
+### CAPITULO V. USURPACION DE PROFESIONES
 
 ###### ARTICULO 211.
 
@@ -2579,7 +2703,7 @@ No se considera material de contenido erótico sexual, tratándose de programas 
 
 ###### ARTICULO 211 Quater.
 
-Comete el delito de relaciones sexuales remuneradas con personas menores de edad, quien pague u ofrezca dinero o cualquier otro tipo de beneficio, a persona menor de dieciocho años, para obtener para sí o para otro cópula, o realizar actos eróticos o sexuales con ella, independientemente de que la cópula o los actos eróticos o sexuales, se consumen.
+Comete el delito de relaciones sexuales remuneradas con personas menores de edad, quien pague u ofrezca dinero o cualquier otro tipo de beneficio, a persona menor de dieciocho años, para obtener para si o para otro cópula, o realizar actos eróticos o sexuales con ella, independientemente de que la cópula o los actos eróticos o sexuales, se consumen.
 
 Este delito se actualizará incluso, cuando el dinero o beneficio, se pague u ofrezca a una tercera persona.
 
@@ -2589,7 +2713,7 @@ A la persona que sin ánimo de lucro facilite o encubra cualquiera de las conduc
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2008)</small>
 
-### CAPITULO II. DELITOS COMETIDOS POR CONDUCTORES DE VEHICULOS DE MOTOR
+### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
 
 ###### ARTICULO 212.
 
@@ -2625,21 +2749,19 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE JULIO DE 2008)</small>
 
+### CAPITULO II. DELITOS COMETIDOS POR CONDUCTORES DE VEHICULOS DE MOTOR
+
 ### CAPITULO III. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
 ### CAPITULO IV. VIOLACION DE CORRESPONDENCIA
 
 ### CAPITULO UNICO. DELITOS CONTRA EL EQUILIBRIO ECOLGICO (SIC) Y LA PROTECCION DEL AMBIENTE
 
-### CAPITULO I. PELIGRO DE DEVASTACION
-
 ## TITULO DECIMO SEGUNDO. DELITOS CONTRA LA MORAL PUBLICA
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
 
-### CAPITULO II. ASOCIACION DELICTUOSA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+### CAPITULO I. PELIGRO DE DEVASTACION
 
 ###### ARTICULO 213.
 
@@ -2647,7 +2769,9 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
 
-### CAPITULO III. PORTACION, FABRICACION, IMPORTACION Y ACOPIO DE ARMAS
+### CAPITULO II. ASOCIACION DELICTUOSA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 213 Bis.
 
@@ -2669,7 +2793,11 @@ DELITOS CONTRA LA FE PUBLICA
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LOS MEDIOS DE TRANSPORTE Y LAS VIAS DE COMUNICACION
 
+### CAPITULO III. PORTACION, FABRICACION, IMPORTACION Y ACOPIO DE ARMAS
+
 ### CAPITULO IV. PROVOCACION A COMETER UN DELITO O APOLOGIA DE ESTE
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ### CAPITULO V. ESTORBO DEL APROVECHAMIENTO DE BIENES DE USO COMUN
 
@@ -2679,11 +2807,9 @@ DELITOS CONTRA LA FE PUBLICA
 
 ### CAPITULO I. DELITOS POLITICOS
 
-### CAPITULO II. REBELION
-
 ###### ARTICULO 214.
 
-Se impondrá de seis meses a tres años de prisión y de noventa a ciento ochenta días multa, a quien para obtener un beneficio o causar daño:
+Se impondrá de cuatro a ocho años y de doscientos a trescientos sesenta días multa, a quien para obtener un beneficio o causar daño:
 
 I. Falsifique o altere un documento, o ponga en circulación un documento falso. Para este efecto, así como para el previsto en la fracción II, se tomarán en cuenta tanto la falsificación o alteración total o parcial del documento, como el empleo de una copia, transcripción o testimonio alterados del mismo;
 
@@ -2715,7 +2841,7 @@ Cuando los delitos de falsificación a los que se refieren los artículos 214 y 
 
 Cuando alguno de los delitos previstos en este Capítulo sea cometido por un servidor público en ejercicio de sus funciones o persona investida de la facultad de dar fe pública, se incrementará la sanción hasta en una mitad más de la prevista para el caso de que se trate, y se aplicará, asimismo, suspensión hasta por tres años o pérdida del cargo e inhabilitación para ocupar otra función pública hasta por cinco años.
 
-### CAPITULO III. TERRORISMO
+### CAPITULO II. REBELION
 
 ###### ARTICULO 218.
 
@@ -2735,27 +2861,41 @@ Cuando el objeto falsificado, alterado o utilizado indebidamente sea de aquéllo
 
 A quien falsifique una obra artística de carácter plástico o la haga pasar por auténtica siendo falsa, si su conducta no se halla sancionada por la legislación autoral, se le impondrán las sanciones mencionadas en el artículo anterior.
 
-### CAPITULO IV. SABOTAJE
+### CAPITULO III. TERRORISMO
 
 ###### ARTICULO 221.
 
-Al que teniendo legalmente la obligación de conducirse con verdad en un acto ante la autoridad, apercibido por ésta, en caso de ser procedente el apercibimiento, se condujere con falsedad u ocultare la verdad, se le impondrá prisión de tres meses a dos años.
+Al que teniendo legalmente la obligación de conducirse con verdad en un acto ante la autoridad, apercibido por ésta, se condujere con falsedad u ocultare la verdad, se le impondrán de dos a ocho años de prisión y de doscientos a trescientos sesenta días multa.
 
-Cuando la falsedad sea determinante para la emisión de sentencia condenatoria, se aplicará la misma sanción impuesta al condenado en el caso de que éste hubiese sido inocente. Si la falsedad se refiere solamente a la calificativa con respecto a un delito efectivamente cometido, el juez podrá aplicar desde el mínimo hasta la mitad de la sanción correspondiente al delito calificado.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
-Si se retractare de sus declaraciones falsas antes de que se pronuncie resolución, la pena se disminuirá en dos terceras partes.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 Lo previsto en el primer párrafo de este artículo no será aplicable a quienes hubiesen cometido el delito que se investiga ni a quienes se encuentren en alguno de los supuestos previstos en el artículo 313.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2009)</small>
+
+###### ARTICULO 221 Bis.
+
+Se impondrán de cinco a doce años de prisión y de trescientos a quinientos días multa:
+
+Al que examinado por la autoridad judicial como testigo o perito, faltare a la verdad sobre el hecho que se trata de averiguar, o aspectos, cantidades, calidades u otras circunstancias que sean relevantes para establecer el sentido de una opinión o dictamen, ya sea afirmando, negando u ocultando maliciosamente la existencia de algún dato que pueda servir de prueba en el proceso del hecho que se investiga, o que aumente o disminuya su gravedad, o que sirva para establecer la naturaleza o particularidades de orden técnico o científico que importen para que la autoridad pronuncie resolución sobre la materia cuestionada en el asunto donde el testimonio o la opinión pericial se viertan.
+
+Cuando la falsedad sea determinante para la emisión de sentencia condenatoria, se aplicará la misma sanción impuesta al condenado en el caso de que éste hubiese sido inocente. La misma pena se impondrá cuando al sentenciado se le imponga una pena de más de veinte años de prisión por el testimonio o peritaje falsos.
+
+Si la falsedad se refiere solamente a la calificativa con respecto a un delito efectivamente cometido, el juez podrá aplicar desde el mínimo hasta la mitad de la sanción correspondiente al delito calificado.
+
+Si se retractare de sus declaraciones falsas antes de que se pronuncie resolución, la pena se disminuirá en dos terceras partes.
 
 ###### ARTICULO 222.
 
 Al que presente testigos falsos conociendo esta circunstancia, o logre que un testigo, perito, intérprete o traductor falte a la verdad al ser examinado por la autoridad respectiva, se le impondrá prisión de uno a cuatro años y de trescientos a quinientos días multa.
 
-### CAPITULO V. ASONADA O MOTIN
+### CAPITULO IV. SABOTAJE
 
 ###### ARTICULO 223.
 
-Se castigará con prisión de seis meses a dos años o de noventa a ciento veinte días de trabajo en favor de la comunidad:
+Se castigará con uno a cuatro años de prisión y de noventa a ciento veinte días de trabajo en favor de la comunidad:
 
 I. Al que oculte su nombre o apellido y tome otro que no le corresponde o el de persona diferente, al declarar ante la autoridad judicial o administrativa;
 
@@ -2765,7 +2905,7 @@ III. Al servidor público que en actos propios de su cargo, atribuya a una perso
 
 IV. Al que, ante autoridad o en documento público, se atribuyere falsamente la ciudadanía morelense.
 
-### CAPITULO VI. SEDICION
+### CAPITULO V. ASONADA O MOTIN
 
 ###### ARTICULO 224.
 
@@ -2773,7 +2913,7 @@ A quien se atribuya el carácter de profesionista, sin serlo, y ofrezca pública
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA LA COLECTIVIDAD
 
-### CAPITULO I. DISPOSICIONES GENERALES SOBRE SERVIDORES PUBLICOS
+### CAPITULO VI. SEDICION
 
 ###### ARTICULO 225.
 
@@ -2827,7 +2967,7 @@ Al que para la realización de actividades delictivas utilice instalaciones o me
 
 Los delitos previstos en los artículos 226, 227, 228, 230 y 231 de este Título, se perseguirán por querella de la dependencia estatal que tenga a su cargo la operación de la vía o la prestación del servicio afectado, o por el titular del derecho, en su caso.
 
-### CAPITULO II. INCUMPLIMIENTO DE FUNCIONES PUBLICAS
+### CAPITULO I. DISPOSICIONES GENERALES SOBRE SERVIDORES PUBLICOS
 
 ###### ARTICULO 238.
 
@@ -2839,7 +2979,7 @@ Se impondrán de ciento veinte a ciento ochenta días de trabajo en favor de la 
 
 Al que en la comisión de un delito grave de los previstos por este Código, maneje o utilice un vehículo de motor sin placas o permisos de circulación visibles, o con documentación que no corresponda a la autorizada oficialmente para dicha circulación, se le incrementará hasta en una tercera parte la sanción que corresponda al delito cometido.
 
-### CAPITULO III. EJERCICIO INDEBIDO DE SERVICIO PUBLICO
+### CAPITULO II. INCUMPLIMIENTO DE FUNCIONES PUBLICAS
 
 ###### ARTICULO 240.
 
@@ -2851,7 +2991,7 @@ II. Coloque obstáculos imprevisibles en la vía o derrame sustancias deslizante
 
 III. No restablezca la seguridad de la vía, cuando tuviere la obligación de hacerlo en razón de su cargo.
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
+### CAPITULO III. EJERCICIO INDEBIDO DE SERVICIO PUBLICO
 
 ###### ARTICULO 241.
 
@@ -2861,9 +3001,7 @@ No se sancionará a quienes ejerzan la patria potestad, la tutela o la custodia 
 
 ## TITULO DECIMO SEXTO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
-### CAPITULO V. COALICION
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+### CAPITULO IV. ABUSO DE AUTORIDAD
 
 ###### ARTICULO 242.
 
@@ -2891,13 +3029,15 @@ A quien por acción u omisión culposa cometa alguna de las conductas a que se r
 
 ## TITULO DECIMO SEPTIMO. DELITOS COMETIDOS EN EL EJERCICIO DE UNA ACTIVIDAD PROFESIONAL, ARTISTICA O TECNICA
 
-### CAPITULO VI. CONCUSION
+### CAPITULO V. COALICION
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 243.
 
 Al que por incendio, explosión, inundación o por cualquier otro medio, provoque un peligro común para las personas o los bienes, se le impondrá de seis meses a tres años de prisión y de doscientos a quinientos días multa, sin perjuicio de las sanciones aplicables por el daño ocasionado.
 
-### CAPITULO VII. INTIMIDACION
+### CAPITULO VI. CONCUSION
 
 ###### ARTICULO 244.
 
@@ -2913,7 +3053,7 @@ Cuando la asociación o alguno de sus miembros, utilice a menores de edad o inca
 
 Se presumirá que existe asociación delictuosa cuando las mismas tres o más personas tengan alguna forma de autoría o participación conjunta en dos o más delitos.
 
-### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
+### CAPITULO VII. INTIMIDACION
 
 ###### ARTICULO 245.
 
@@ -2921,21 +3061,19 @@ A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que s�
 
 Para los efectos de este artículo, se entiende por acopio la reunión de tres o más instrumentos de las características referidas en el párrafo anterior.
 
+### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
+
 ### CAPITULO IX. TRAFICO DE INFLUENCIA
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
+###### ARTICULO 246.
+
+Al que públicamente provoque a otro a cometer un delito o haga apología de éste, se le impondrá desde un tercio de la mínima y hasta un tercio de la máxima aplicable al delito exaltado.
+
 ### CAPITULO X. COHECHO
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 246.
-
-Al que públicamente provoque a otro a cometer un delito o haga apología de éste, se le impondrá de tres a nueve meses de semilibertad.
-
-### CAPITULO XI. PECULADO
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 247.
 
@@ -2943,15 +3081,17 @@ Al que sin derecho estorbare de cualquier forma el aprovechamiento de bienes de 
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA EL RESPETO A LOS MUERTOS, Y VIOLACION DE LAS LEYES SOBRE INHUMACION Y EXHUMACION DE CADAVERES
 
-### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+### CAPITULO XI. PECULADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 248.
 
 Quienes ejercen una profesión, arte o técnica, así como quienes les auxilian en este ejercicio, serán responsables de los delitos en que incurran en el desempeño de esta actividad. Se les impondrán las sanciones previstas en este Título, y además la suspensión, hasta por tres años, del derecho para ejercerla, o la inhabilitación para este mismo efecto hasta por cinco años.
 
-### CAPITULO XIII. DELITOS COMETIDOS POR PARTICULARES EN RELACION CON SERVIDORES PUBLICOS
+### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 249.
 
@@ -2993,7 +3133,7 @@ Las sanciones previstas en este Capítulo se impondrán sin perjuicio de las que
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
-### CAPITULO XIV. COACCION
+### CAPITULO XIII. DELITOS COMETIDOS POR PARTICULARES EN RELACION CON SERVIDORES PUBLICOS
 
 ###### ARTICULO 253.
 
@@ -3009,13 +3149,13 @@ Al que profane un cadáver con actos de necrofilia, se le aplicarán de tres mes
 
 ## TITULO VIGESIMO. DELITOS CONTRA LAS FUNCIONES DEL ESTADO Y EL SERVICIO PUBLICO
 
-### CAPITULO XV. RESISTENCIA DE PARTICULARES Y DESOBEDIENCIA
+### CAPITULO XIV. COACCION
 
 ###### ARTICULO 255.
 
 Para los efectos legales, solamente se consideran como de carácter político los delitos consignados en este Título, con excepción de los previstos en los artículos 263 y 264.
 
-### CAPITULO XVI. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO XV. RESISTENCIA DE PARTICULARES Y DESOBEDIENCIA
 
 ###### ARTICULO 256.
 
@@ -3065,13 +3205,13 @@ No se aplicará sanción a los que depongan las armas antes de ser tomados prisi
 
 Cuando en las rebeliones se pusieren en ejercicio para hacerlas triunfar, el homicidio, el robo, el secuestro, el despojo, el incendio o el saqueo, se aplicarán las sanciones que por estos delitos y el de rebelión correspondan, aplicando, en su caso, las reglas de acumulación.
 
-### CAPITULO XVII. ULTRAJES A LA AUTORIDAD
+### CAPITULO XVI. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 263.
 
 Al que por cualquier medio violento realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para perturbar la paz pública o menoscabar la autoridad del Estado, la integridad de su territorio o el orden constitucional, o presionar a la autoridad para que tome una determinación, se le impondrá de cinco a veinticinco años de prisión, de cien a quinientos días multa y suspensión de derechos políticos hasta por diez años.
 
-### CAPITULO XVIII. USURPACION DE FUNCIONES PUBLICAS Y USO INDEBIDO DE CONDECORACIONES O UNIFORMES
+### CAPITULO XVII. ULTRAJES A LA AUTORIDAD
 
 ###### ARTICULO 264.
 
@@ -3083,13 +3223,13 @@ II. Elementos fundamentales de instituciones de docencia o investigación; o
 
 III. Recursos esenciales que el Estado destine para el mantenimiento del orden público.
 
-### CAPITULO XIX. ULTRAJE Y USO INDEBIDO DE INSIGNIAS PUBLICAS
+### CAPITULO XVIII. USURPACION DE FUNCIONES PUBLICAS Y USO INDEBIDO DE CONDECORACIONES O UNIFORMES
 
 ###### ARTICULO 265.
 
 A los que para conseguir que se les reconozca o conceda algún derecho, se reúnan en forma tumultuosa que cause grave desorden público y con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación, se les sancionará con prisión de tres meses a un año y de veinte a cincuenta días multa.
 
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
+### CAPITULO XIX. ULTRAJE Y USO INDEBIDO DE INSIGNIAS PUBLICAS
 
 ###### ARTICULO 266.
 
@@ -3099,13 +3239,15 @@ A los que reunidos en forma tumultuaria, sin usar armas, hagan resistencia activ
 
 En lo que sea aplicable a la sedición, se observará el artículo 262.
 
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
+
 ### CAPITULO II. OBSTRUCCION DE LA JUSTICIA
 
-### CAPITULO III. FRAUDE PROCESAL
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ## TITULO VIGESIMO PRIMERO. DELITOS COMETIDOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO IV. ACUSACION O DENUNCIAS FALSAS
+### CAPITULO III. FRAUDE PROCESAL
 
 ###### ARTICULO 268.
 
@@ -3115,7 +3257,9 @@ Para los efectos de este Código es servidor público del Estado toda persona qu
 
 Los servidores públicos que cometen alguno de los delitos previstos en el presente Título, además de las sanciones de prisión y multa que en cada caso se señalen, serán suspendidos en el cargo y quedarán inhabilitados para desempeñar otro cargo o comisión pública hasta por el mismo tiempo que el señalado en las penas privativas de libertad, a juicio del juez.
 
-### CAPITULO V. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO IV. ACUSACION O DENUNCIAS FALSAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 270.
 
@@ -3129,9 +3273,7 @@ III. Abandone o descuide por negligencia la defensa de un inculpado, que hubiese
 
 Al responsable de los delitos previstos en este artículo, se le impondrá de dos a cuatro años de prisión y de cien a doscientos días multa.
 
-### CAPITULO VI. EVASION DE PRESO
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+### CAPITULO V. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### ARTICULO 271.
 
@@ -3173,7 +3315,9 @@ Al que cometa alguno de los delitos a que se refieren las fracciones I y II se l
 
 Al responsable de las conductas previstas en las fracciones III, IV, V, VI y VII se le impondrán de tres a ocho años de prisión, multa de treinta a trescientos días multa, y destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO VII. QUEBRANTAMIENTO DE SANCIONES
+### CAPITULO VI. EVASION DE PRESO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 272.
 
@@ -3185,7 +3329,9 @@ II. Ejerciendo sus funciones o con motivo de ellas emplee violencia contra algun
 
 III. Indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
 
-IV. Estando encargado de una fuerza pública y requerido legalmente por una autoridad competente para que le preste auxilio, se niegue indebidamente a dárselo;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+IV. Cuando el encargado de brindar seguridad pública o alguno de sus elementos, se niegue a recibir, dentro de las circunstancias que establezca la ley adjetiva, la denuncia de hechos, o cuando requerido legalmente por una autoridad competente para que le brinde auxilio, se niegue indebidamente a dárselo o retrase injustificadamente el apoyo solicitado, o no investigue o practique las diligencias solicitadas. La misma previsión se aplicará tratándose de peritos oficiales;
 
 V. Haga que se le entreguen fondos, valores u otra cosa que no se le hayan confiado y se los apropie o disponga de ellos indebidamente;
 
@@ -3201,35 +3347,45 @@ VIII. Autorice o contrate a quien se encuentre inhabilitado por resolución firm
 
 IX. Otorgue cualquier identificación en que acredite como servidor público a una persona que realmente no desempeñe el empleo, cargo o comisión a los que haga referencia en dicha identificación;
 
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+X. Estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos que, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida si lo estuviere, o no cumpla la orden de libertad girada por la autoridad competente;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XI. Teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar, de manera inmediata, si ésto estuviere en sus atribuciones;
+
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-X. Estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de readaptación social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos que, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida si lo estuviere, o no cumpla la orden de libertad girada por la autoridad competente;
+XII. Estando encargado de administrar justicia, bajo cualquier pretexto aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la ley;
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
 
-XI. Teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar, también inmediatamente, si esto estuviere en sus atribuciones; y
+XIII. Al elemento de los cuerpos policiales que habiendo practicado la detención de una persona no informe tan luego sea posible a la autoridad correspondiente de la detención, para los efectos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, o requerido para ello, no preste el auxilio conforme a la ley, a las víctimas del delito.
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
-XII. Estando encargado de administrar justicia, bajo cualquier pretexto aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la ley.
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XIII, se le impondrá de uno a ocho años de prisión, de cincuenta hasta trescientos días-multa y destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones VII, VIII y IX.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión, de cincuenta hasta trescientos días-multa y destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
+Al que cometa el delito de abuso de autoridad en los términos previstos por la fracción VI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días-multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
-
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días-multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
+### CAPITULO VII. QUEBRANTAMIENTO DE SANCIONES
 
 ### CAPITULO VIII. DELITOS COMETIDOS POR ABOGADOS, DEFENSORES Y LITIGANTES
 
-### CAPITULO IX. ENCUBRIMIENTO POR FAVORECIMIENTO
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 273.
 
 Se impondrá de dos a seis años de prisión, multa de cien a doscientos días-multa y destitución e inhabilitación de uno a cuatro años para desempeñar otro empleo, cargo o comisión a los servidores públicos que se coaliguen para tomar medidas contrarias a la Constitución local, a las leyes que de ella emanen o a disposición de carácter general, para evitar su ejecución o impedir o suspender la administración pública en cualquiera de sus ramas.
 
 No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
+
+### CAPITULO IX. ENCUBRIMIENTO POR FAVORECIMIENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 274.
 
@@ -3401,6 +3557,12 @@ Al que procure con actos materiales impedir la ejecución de una obra o un traba
 
 Cuando el delito se cometa por varias personas de común acuerdo, se aplicará de uno a dos años de prisión. Si se usare violencia, se les aplicará de dos a tres años de prisión, sin perjuicio de las sanciones aplicables al delito que resulte cometido.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2009)</small>
+
+###### ARTICULO 291 Bis.
+
+Se impondrá de tres meses a un año de prisión y de cien a doscientos días multa a quien proporcione datos falsos a los servicios de emergencia, o a la Policía o al Ministerio Público en investigación de un delito.
+
 ###### ARTICULO 292.
 
 Cuando la ley autorice el empleo del apremio, para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia, cuando se hubiesen agotado, sin éxito, los medios de apremio.
@@ -3443,9 +3605,13 @@ Al que ultraje las insignias del Estado o de un municipio, o de cualesquiera de 
 
 Son delitos contra la administración de justicia, los cometidos por los servidores públicos que incurran en algunas de las conductas siguientes:
 
-I. Conocer de negocios para los cuales tengan impedimento legal o abstenerse de conocer de los que les correspondan, teniendo obligación legal de hacerlo;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-II. Desempeñar otro empleo oficial o un puesto o cargo particular que la ley les prohiba;
+I. Conocer de negocios para los cuales tengan impedimento legal, o abstenerse de conocer de los que les correspondan teniendo la obligación legal de hacerlo;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+II. Desempeñar otro empleo oficial o una función o cargo particular, que la ley les prohíba;
 
 III. Litigar por sí o por interpósita persona, cuando la ley les prohibe el ejercicio de su profesión;
 
@@ -3461,7 +3627,9 @@ VIII. Retardar o entorpecer la administración de justicia, maliciosamente o por
 
 IX. Abstenerse de ejercitar la acción penal, cuando sea procedente conforme a la Constitución y a las leyes de la materia, en los casos en que la ley imponga esa obligación;
 
-X. Abstenerse de hacer la consignación que corresponda con arreglo a la ley, de una persona que se encuentre detenida a su disposición como presunto responsable de algún delito;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+X. Abstenerse de ejercitar acción penal, o de formular la imputación y solicitar la vinculación a proceso cuando corresponda, con arreglo a la ley, de una persona que se encuentre detenida a su disposición como probable responsable de algún delito;
 
 XI. Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o sin que preceda denuncia, acusación o querella;
 
@@ -3473,7 +3641,9 @@ XIV. No tomar al inculpado su declaración preparatoria dentro de las cuarenta y
 
 XV. Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley en calidad de sanción penal al delito que motive el proceso;
 
-XVI. Imponer gabelas o contribuciones en cualesquiera lugares de detención o internamiento;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XVI. Imponer gabelas o contribuciones en cualesquiera lugares de aseguramiento o internamiento;
 
 XVII. No dictar auto de formal prisión o libertad de un detenido como presunto responsable de un delito, dentro del plazo previsto por la ley;
 
@@ -3483,31 +3653,65 @@ XIX. Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autor
 
 XX. Abrir un proceso penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
 
-XXI. Realizar la aprehensión sin poner al detenido a disposición del juez conforme a lo estipulado por la ley;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XXI. Realizar la aprehensión sin poner al asegurado o detenido a disposición del juez conforme a lo estipulado por la ley;
 
 XXII. Cobrar cualquier cantidad a los internos o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado, u otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen, siendo el agente encargado o empleado de un lugar de reclusión o internamiento;
 
 XXIII. Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo juicio hubieren intervenido;
 
-XXIV. Negarse injustificadamente el encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, a despachar un negocio pendiente ante él, dentro de los términos establecidos por aquélla;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XXIV. El encargado de administrar justicia, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos en la ley, bajo cualquier pretexto incluso el de obscuridad o silencio de la ley;
 
 XXV. Admitir o nombrar depositario o entregar a éste los bienes secuestrados sin el cumplimiento de los requisitos legales correspondientes;
 
 XXVI. Hacer conocer al demandado, indebidamente, la providencia de embargo decretada en su contra;
 
-XXVII. Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a quien tenga con el funcionario relación de parentesco, estrecha amistad o esté relacionado con él por negocios de interés común; o
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-XXVIII. Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están privadas de libertad.
+XXVII. Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a quien tenga con el funcionario relación de parentesco, estrecha amistad o esté relacionado con él por negocios de interés común;
 
-A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, X, XXI, XXIV, XXVI, XXVII y XXVIII se les impondrá de uno a cinco años de prisión y de cien a trescientos días multa.
+XXVIII. Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están privadas de libertad;
 
-A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII y XXV, se les impondrá de dos a ocho años de prisión y de doscientos a cuatrocientos días multa.
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XXIX. Omitir el registro inmediato de la detención correspondiente o dilatar injustificadamente el mismo, o la puesta a disposición del detenido a la autoridad correspondiente;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XXX. Detener a un individuo durante la investigación o la averiguación previa fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado por los párrafos tercero y cuarto del artículo 16 de la Constitución Política de los Estado Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XXXI. Alterar, destruir, perder o perturbar intencional o ilícitamente el lugar de los hechos; los indicios, huellas o vestigios del hecho delictivo o los instrumentos, objetos o productos del delito;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XXXII. Desviar u obstaculizar la investigación del hecho delictuoso de que se trate, o favorecer que el inculpado se sustraiga a la acción de la justicia, o
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XXXIII. Al elemento de los cuerpos policiales que asiente hechos falsos en un parte informativo o simule, altere o modifique el parte informativo, con el fin de obtener un beneficio económico o cosa para sí o para otro.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
+A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, X, XXI, XXIV, XXVI, XXVII y XXVIII se les impondrá de tres a ocho años de prisión y de quinientos a mil quinientos días multa.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
+A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII y (sic) XXV, XXIX, XXX, XXXI, XXXII y XXXIII se les impondrá de cuatro a diez años de prisión y de mil a dos mil días multa.
 
 En todos los delitos previstos en este Capítulo, además de la pena de prisión correspondiente, el agente será privado de su cargo e inhabilitado para el desempeño de otro por los períodos a los que se refieren los dos párrafos precedentes, a juicio del tribunal.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2009)</small>
+
+En caso de que el autor de los delitos previstos en las fracciones referidas sea servidor público que tenga por función investigar o perseguir los delitos, se incrementarán las penas hasta en una tercera parte.
+
 ###### ARTICULO 298.
 
-Al que por cualquier medio intente influir en quien sea denunciante o parte, abogado, procurador, perito, intérprete o testigo en un procedimiento, para que se retracte de su denuncia, desista de la acción o deje de prestar su defensa, representación, declaración, informe o traducción, o los preste faltando a su deber o a la verdad, se le sancionará con uno a dos años de prisión y de cien a trescientos días multa. Cuando el medio empleado fuese la violencia, la sanción se incrementará en una mitad.
+Al que por cualquier medio intente influir en quien sea denunciante, querellante o parte; defensor, agente del ministerio público, abogado, procurador, perito, intérprete o testigo en un procedimiento, para que se retracte de su denuncia o querella; desista de la acción o deje de prestar su defensa, representación, declaración, informe, dictamen o traducción, o los preste faltando a su deber o a la verdad, se le impondrán de uno a dos años de prisión y de cien a trescientos días multa.
 
 Si el autor del hecho alcanza su objetivo, se aplicará de dos a cuatro años de prisión y de doscientos a quinientos días multa.
 
@@ -3521,13 +3725,15 @@ Al que para obtener un beneficio indebido para sí o para otro, simule un acto j
 
 ###### ARTICULO 301.
 
-Se aplicará de tres a cinco años de prisión y de trescientos a quinientos días multa, al que impute falsamente a otro un hecho considerado como delito por la ley, si esta imputación se hace ante un funcionario que, por razón de su cargo, deba proceder a la persecución del delito.
+Se aplicará de cuatro a ocho años de prisión y de cuatrocientos a seiscientos días multa, al que a sabiendas impute falsamente a otro un hecho considerado como delito por la ley, si esta imputación se hace ante un funcionario que, por razón de su cargo, deba proceder a la persecución del delito.
 
 No se procederá contra el autor de este delito, sino cuando la inocencia del imputado se desprenda de resolución ejecutoriada dictada por el juez o tribunal que hubiese conocido del delito imputado.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 302.
 
-Se aplicará la pena prevista en el artículo anterior, al que para hacer que un inocente aparezca como reo de un delito, ponga sobre una persona o en cualquier lugar adecuados para ese fin, alguna cosa que pueda dar indicios o presunciones de responsabilidad.
+Se aplicará la pena prevista en el artículo anterior, al que para hacer que un inocente aparezca como sentenciado de un delito, ponga sobre una persona o en cualquier lugar adecuados para ese fin, alguna cosa que pueda dar indicios o presunciones de responsabilidad.
 
 ###### ARTICULO 303.
 
@@ -3535,9 +3741,13 @@ Al que para hacer efectivo su derecho empleare violencia, se le aplicará de tre
 
 ###### ARTICULO 304.
 
-Se aplicarán de tres a seis años de prisión al que favoreciere la evasión de algún detenido, procesado o condenado.
+Se aplicarán de tres a seis años de prisión al que favoreciere la evasión de algún detenido, procesado o sentenciado.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 Si quien incurre en este delito es el encargado de conducir o custodiar al prófugo, las sanciones serán de seis a quince años de prisión, destitución del encargo, así como la inhabilitación para desempeñar otro empleo, cargo o comisión públicos por el mismo tiempo señalado como pena privativa de libertad.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 Se incrementarán hasta en una tercera parte las penas señaladas en este artículo si quien propicia la evasión fuese un servidor público distinto al señalado en el párrafo anterior, además de la destitución de su empleo y la inhabilitación para desempeñar otro empleo, cargo o comisión públicos durante el mismo tiempo señalado como pena privativa de libertad.
 
@@ -3563,7 +3773,7 @@ A quien quebrante cualquier sanción no privativa de la libertad que se le hubie
 
 ###### ARTICULO 310.
 
-Se impondrá de seis meses a cinco años de prisión a quien:
+Se impondrá de dos a cinco años de prisión a quien:
 
 I. Sin causa justificada abandone una defensa o negocio, con perjuicio de su patrocinado;
 
@@ -3581,15 +3791,29 @@ Si el responsable de los delitos previstos en este artículo fuere abogado, se l
 
 ###### ARTICULO 311.
 
-Al que después de la ejecución de la conducta o hecho calificados por la ley como delito y sin haber participado en éste, auxilie en cualquier forma al inculpado a eludir las investigaciones de la autoridad competente o a sustraerse de la acción de ésta, o bien, oculte, altere, destruya o haga desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo, se le impondrá de seis meses a cinco años de prisión, sin exceder de la sanción aplicable por el delito encubierto.
+Al que después de la ejecución de la conducta o hecho calificados por la ley como delito y sin haber participado en éste, auxilie en cualquier forma al imputado a eludir las investigaciones de la autoridad competente o a sustraerse de la acción de ésta, o bien, oculte, altere, destruya o haga desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo, se le impondrá de uno a cinco años de prisión, sin exceder de la sanción aplicable por el delito encubierto.
 
 Las mismas sanciones se impondrán:
 
-I. Al que pudiendo impedir un delito, con su intervención inmediata y sin riesgo propio o ajeno, se abstuviere voluntariamente de hacerlo;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-II. Al que requerido por la autoridad, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes; y
+I. Al que pudiendo impedir la comisión de un delito, con su intervención inmediata y sin riesgo propio o ajeno, se abstuviere voluntariamente de hacerlo;
 
-III. Al que conociendo la procedencia ilícita de las mercancías las reciba en prenda o depósito.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+II. Al que requerido por la autoridad, no dé auxilio para la investigación de los delitos o para la ubicación de los probables responsables o sentenciados;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+III. Al que conociendo la procedencia ilícita de las mercancías las reciba en prenda o depósito;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+IV. Al que altere, modifique o perturbe ilícitamente el lugar, huellas o vestigios del hecho delictivo, y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+V. Al que desvíe u obstaculice la investigación del hecho delictivo de que se trate o favorezca que el imputado se sustraiga a la acción de la justicia.
 
 ###### ARTICULO 312.
 
@@ -3597,15 +3821,7 @@ El juez, teniendo en cuenta la naturaleza del hecho, las circunstancias personal
 
 ###### ARTICULO 313.
 
-No se impondrá sanción alguna al que oculte al responsable de un delito, o impida que se averigüe, cuando se trate de:
-
-a) Los ascendientes o descendientes consanguíneos, por afinidad o por adopción;
-
-b) El cónyuge, concubina o concubinario y los parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo; y
-
-c) Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad.
-
-La excusa no favorecerá a quien obre por motivos reprobables o emplee medios delictuosos, salvo lo previsto en el artículo 221.
+(DEROGADO, P.O. 29 DE JULIO DE 2009)
 
 ###### ARTICULO 314.
 
@@ -3972,3 +4188,13 @@ P.O. 25 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE JULIO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos, salvo lo previsto en el artículo transitorio siguiente.
+
+SEGUNDO.- Las referencias realizadas en el presente decreto al ilícito e imputado, quedarán entendidas a los términos vigentes cuerpo del delito e inculpado, hasta en tanto no se haga la declaratoria a que se refiere el párrafo tercero del artículo Segundo Transitorio, previsto en el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
+
+TERCERO.- Los procedimientos penales ya iniciados a la entrada en vigor del presente Decreto, seguirán substanciándose conforme las reglas vigentes al momento del hecho investigado.
+
+CUARTO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
