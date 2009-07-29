@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-sistema-municipal-para-el-57092"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-07"
-last_updated: "2007-09-07"
+last_updated: "2009-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA HEROICA PUEBLA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 7 de septiembre de 2007.
 
@@ -359,9 +359,23 @@ XI. Someter a consideración del Patronato los manuales de organización y proce
 
 XII. Formular los dictámenes, opiniones e informes que le sean solicitados por la Presidencia o por las diferentes Entidades de la Administración Pública Federal, Estatal y Municipal;
 
-XIII. Recibir por parte de la población, las solicitudes de apoyo del Sistema, para la realización de actividades relacionadas con los objetivos del Sistema; y
+XIII. Recibir por parte de la población, las solicitudes de apoyo del Sistema, para la realización de actividades relacionadas con los objetivos del Sistema; y (sic)
 
-XIV. Las demás que sean necesarias para el cumplimiento de los objetivos del Sistema.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XIV. Planear, programar, dirigir y evaluar los programas y acciones llevados a cabo por la Coordinación de Evaluación y Calidad;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XV. Dirigir, promover y evaluar las acciones llevadas a cabo por la Jefatura de Comunicación Social;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XVI. Coordinar el Departamento de Informática: y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XVII. Las demás que sean necesarias para el cumplimiento de los objetivos del Sistema.
 
 ### CAPÍTULO III. DE LA ADMINISTRACIÓN
 
@@ -381,7 +395,7 @@ V. Subdirección de Atención a la Salud;
 
 VI. (DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2007)
 
-VII. Subdirección de Planeación y Acceso a la Información.
+VII. (DEROGADA, P.O. 29 DE JULIO DE 2009)
 
 En el desempeño de sus funciones, los Subdirectores serán auxiliados por Jefes de Departamento, Coordinadores y por el personal de apoyo que sea necesario.
 
@@ -419,11 +433,17 @@ XIII. Elaborar estrategias de control Administrativo, Contable y Financiero para
 
 XIV. Controlar los procesos en las diferentes áreas a su cargo;
 
-XV. Coordinar el Departamento de Informática;
+XV. (DEROGADA, P.O. 29 DE JULIO DE 2009)
 
-XVI. Revisar y validar en coordinación con los Jefes de Departamento, los manuales de organización y procedimientos de la Subdirección y someterlos a consideración de la Dirección; y
+XVI. Revisar y validar en coordinación con los Jefes de Departamento, los manuales de organización y procedimientos de la Subdirección y someterlos a consideración de la Dirección; y (sic)
 
-XVII. Las demás que le confiera la Dirección, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XVII. Promover ante el Director General la celebración de convenios con Instituciones Educativas para contar con un programa de prestadores de servicio social para apoyar en la formación académica a la población estudiantil que lo requiera; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XVIII. Las demás que en el ámbito de su competencia le delegue la Dirección.
 
 #### SECCIÓN SEGUNDA. DE LA SUBDIRECCIÓN DE ASISTENCIA ALIMENTARIA
 
@@ -447,7 +467,9 @@ IV. Apoyar legalmente el ejercicio de las atribuciones del propio Sistema y aten
 
 V. Proporcionar asesoría y patrocinio jurídico gratuitos en materia de derecho familiar, a los beneficiarios de la asistencia social;
 
-VI. Realizar acciones de prevención, atención y protección a niñas y niños víctimas de violencia familiar;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+VI. Realizar acciones de prevención, atención y protección de mujeres, niñas, niños, adultos mayores y en general a toda persona que sea víctima de violencia familiar;
 
 VII. Formular y revisar los convenios y contratos a celebrar por el Sistema, de acuerdo con los requerimientos de las áreas respectivas y llevar el registro de los mismos, así como de los instrumentos jurídicos relativos a la organización y funcionamiento del Sistema;
 
@@ -467,9 +489,15 @@ XIV. Emitir opinión legal sobre los donativos que el Sistema otorgue o reciba;
 
 XV. Difundir las políticas y lineamientos de Asistencia Social a las unidades operativas y administrativas; previo acuerdo con el Director;
 
-XVI. Revisar y validar en coordinación con los Jefes de Departamento, los manuales de organización y procedimientos de la Subdirección y someterlos a consideración de la Dirección; y
+XVI. Revisar y validar en coordinación con los Jefes de Departamento, los manuales de organización y procedimientos de la Subdirección y someterlos a consideración de la Dirección; y (sic)
 
-XVII. Las demás que le confiera la Dirección, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XVII. Planear, programar, dirigir, ejecutar y evaluar los programas y acciones que se desarrollen a favor de los niños y niñas de y en la calle y a personas o familiares que se encuentren en situación de pobreza y abandono; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XVIII. Las demás que en el ámbito de su competencia le delegue la Dirección.
 
 #### SECCIÓN CUARTA. DE LA SUBDIRECCIÓN DE PROGRAMAS Y DESARROLLO COMUNITARIO
 
@@ -479,9 +507,13 @@ La Subdirección de Programas y Desarrollo Comunitario, tendrá las facultades y
 
 I. Planear, programar, dirigir, ejecutar y evaluar los programas de:
 
-a) Casa de la mujer;
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
-b) Capacitación ciudadana;
+a) Centro DIF Emprendedoras;
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
+b) Educación y Capacitación;
 
 c) Casa de la familia;
 
@@ -489,7 +521,9 @@ d) Adultos mayores;
 
 e) Guarderías;
 
-f) Jornadas integrales;
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+
+f) Promoción y Concertación Social;
 
 g) Desarrollo comunitario;
 
@@ -501,7 +535,9 @@ II. Concentrar la información de cada programa, a fin de tener actualizada la b
 
 III. Revisar y validar los programas de trabajo de cada uno de los programas, a través de los Jefes de Programas y Desarrollo Comunitario; previo acuerdo con la Dirección;
 
-IV. Presentar a la Dirección, los programas, reglamentos y proyectos especiales de las áreas que conforman la Subdirección;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+IV. Presentar a la Dirección, los programas, reglamentos y proyectos especiales de las unidades orgánicas que integran la Subdirección;
 
 V. Gestionar a través de convenios, la participación del Sistema en programas Federales, Estatales y Municipales, para el cumplimiento de los objetivos de los programas;
 
@@ -511,27 +547,45 @@ VII. Impulsar actividades recreativas, culturales y deportivas a favor de los be
 
 VIII. Diseñar mecanismos de compensación y estímulo en apoyo a grupos de población vulnerables y promover su aplicación;
 
-IX. Calendarizar los periodos y operatividad de los programas a su cargo;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-X. Actualizar los padrones de beneficiarios de cada uno de los programas a su encargo;
+IX. Calendarizar y ser responsable de los periodos y operatividad de los programas a su cargo;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+X. Integrar y actualizar los padrones de beneficiarios de cada uno de los programas a su cargo;
 
 XI. Desarrollar programas que permitan a las comunidades con alto grado de marginación desarrollarse e incorporarse al ámbito económico;
 
-XII. Diseñar programas de capacitación, al sector de mujeres vulnerables para mejorar su bienestar familiar, personal y económico, elevando su calidad de vida;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-XIII. Diseñar programas de capacitación, para el personal adscrito al Sistema, con la finalidad de lograr una mayor efectividad en la realización de los proyectos;
+XII. Diseñar programas de capacitación a favor de los sectores vulnerables para mejorar su bienestar familiar, personal y económico elevando su calidad de vida;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XIII. Diseñar programas de capacitación que pudieran aplicar el personal adscrito al Sistema con la finalidad de lograr una mayor efectividad en la realización de los proyectos;
 
 XIV. Capacitar y actualizar permanentemente a los orientadores familiares;
 
-XV. Gestionar ante instituciones públicas y privadas, los apoyos requeridos para el óptimo desarrollo integral del Programa de Atención a Adultos Mayores;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-XVI. Capacitar a promotores comunitarios orientados a la promoción, gestión y divulgación del desarrollo local y el ejercicio de los valores humanos fundamentales;
+XV. Llevar a cabo las gestiones necesarias ante instituciones públicas y privadas, para la obtención de los apoyos requeridos para el desarrollo integral de los adultos mayores;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XVI. Capacitar al personal de los Centros de Desarrollo Comunitario orientados a la gestión y divulgación del desarrollo humano;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
 XVII. Impartir cursos en instituciones o empresas, para la obtención de recursos que serán destinados a los programas del Sistema;
 
-XVIII. Diseñar programas de capacitación para jóvenes, que les permita (sic) integrarse al desarrollo económico del Municipio;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-XIX. Coordinar los programas de capacitación de oficios, que el Sistema brinda a la ciudadanía;
+XVIII. Diseñar programas de capacitación para jóvenes, en coordinación con los programas establecidos por los Sistemas DIF Federal y Estatal, en el ámbito de sus competencias, donde se les permita integrarse al desarrollo económico del Municipio;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XIX. Coordinar los programas de capacitación de oficios, que el Sistema brinda a la ciudadanía, a través de los Centros de Emprendedoras y Emprendedores, así como a través del Programa de Educación y Capacitación para el Trabajo;
 
 XX. Proponer al Director los planes, programas y estrategias de Asistencia Alimentaria y una vez autorizadas, verificar su aplicación;
 
@@ -539,13 +593,27 @@ XXI. Vigilar que los planes y programas de atención alimentaria, sean acordes c
 
 XXII. Fortalecer los programas y estrategias de Asistencia Alimentaria, con el fin de mejorar la nutrición de los sujetos acreedores de Asistencia Social;
 
-XXIII. Colaborar y evaluar los programas de orientación nutricional y de Asistencia Alimentaria;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-XXIV. Coordinar con las dependencias e instituciones privadas, la realización de proyectos productivos que contribuyan a la autosuficiencia alimentaria en las Juntas Auxiliares y colonias de alta marginación del Municipio;
+XXIII. Impulsar y evaluar la orientación nutricional y la alimentación complementaria a personas de escasos recursos y población de Juntas Auxiliares, Inspectorías y zonas marginadas;
 
-XXV. Coordinar con el DIF Estatal, la unificación de criterios que tiendan a beneficiar a los receptores de la Asistencia Alimentaria y trasciendan a la sociedad; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
-XXVI. Las demás que le confiera la Dirección, en el ámbito de su competencia.
+XXIV. Coordinar con las dependencias e instituciones privadas, la realización de proyectos productivos que contribuyan a la autosuficiencia alimentaria en las Juntas Auxiliares, Inspectorías y zonas de alta marginación del Municipio;
+
+XXV. Coordinar con el DIF Estatal, la unificación de criterios que tiendan a beneficiar a los receptores de la Asistencia Alimentaria y trasciendan a la sociedad; y (sic)
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XXVI. Proponer al Director General la creación o modificación de los reglamentos interiores de las unidades orgánicas a su cargo;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XXVII. Coordinar la ejecución de los estudios socioeconómicos que requieren de atención especial; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+
+XXVIII. Las demás que en el ámbito de su competencia le delegue la Dirección.
 
 #### SECCIÓN QUINTA. DE LA SUBDIRECCIÓN DE ATENCIÓN A LA SALUD
 
@@ -557,7 +625,9 @@ I. Planear, organizar y coordinar los servicios de salud del Sistema;
 
 II. Atender en materia de salud a los grupos vulnerables que así lo requieran;
 
-III. Ofrecer atención médica, dental, de rehabilitación y psicológica por parte de profesionistas, a los beneficiarios del Sistema;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+III. Ofrecer atención médica, dental, de rehabilitación, psicológica y laboratorio de análisis clínicos por parte de profesionistas a los beneficiarios del Sistema;
 
 IV. Planear campañas preventivas de salud que beneficien a los grupos vulnerables y de alta marginación, en coordinación con la Secretaría de Salud del Estado y la Secretaría de Salud Federal;
 
@@ -589,57 +659,7 @@ XIII. Las demás que le confiera la Dirección, en el ámbito de su competencia.
 
 ###### Artículo 29.
 
-La Subdirección de Planeación y Acceso a la Información, tendrá las facultades y obligaciones siguientes:
-
-I. Planear, programar y evaluar el desempeño de las funciones correspondientes a las diferentes Subdirecciones que integran el Sistema;
-
-II. Coordinar en la esfera de su competencia, acciones con la Subcontraloría de Planeación y Evaluación, de la Contraloría Municipal, a fin de cumplir con lo establecido en el Plan Municipal de Desarrollo;
-
-III. Coordinar las acciones tendientes al mejor funcionamiento del Sistema, con el Director y los titulares de cada Subdirección;
-
-IV. Establecer, las propuestas con la participación de las demás Subdirecciones del Sistema, el compendio de indicadores para la planeación, que servirá de base para la evaluación de planes y programas;
-
-V. Formular los dictámenes, opiniones e informes solicitados por el Presidente y la Dirección del Sistema;
-
-VI. Elaborar los anteproyectos de programas para el desarrollo de las actividades sustantivas del Sistema;
-
-VII. Proponer a los puestos directivos, los programas de racionalidad, modernización, simplificación y calidad de estructuras organizacionales, procesos de trabajo y servicios al público, que permitan una clara y eficiente operación del Sistema, impulsando la participación de los servidores públicos con el fin de optimizar el desarrollo administrativo y dar respuesta a las demandas de los ciudadanos;
-
-VIII. Analizar las debilidades y fortalezas de cada programa del Sistema;
-
-IX. Diseñar y aplicar instrumentos conjuntamente con las áreas de evaluación y seguimiento y modelos de atención, para obtener un diagnóstico de las necesidades de crecimiento y desarrollo del Sistema, a fin de atender a la población marginada y grupos vulnerables que lo requieran;
-
-X. Establecer mecanismos que permitan eficientar los servicios y reducir sus costos impidiendo el dispendio de los recursos;
-
-XI. Proponer la generación de mecanismos de información que permitan obtener datos para la toma de decisiones;
-
-XII. Atender las solicitudes de información sobre las acciones y programas que se llevan a cabo en el Sistema;
-
-XIII. Revisar y validar en coordinación con los Jefes de Departamento, los manuales de organización y procedimientos de la Subdirección y someterlos a consideración de la Dirección;
-
-XIV. Diseñar estrategias de financiamiento alternativas, para el fortalecimiento de los programas del Sistema;
-
-XV. Realizar el Informe mensual de Evaluación de resultados y logros alcanzados por los Programas de Trabajo de cada una las áreas del Sistema;
-
-XVI. Realizar un informe trimestral de evaluación de resultados y logros alcanzados por el Ayuntamiento conforme lo estipulado en el artículo 129 de la Ley Orgánica;
-
-XVII. Diseñar proyectos de investigación para evaluar el impacto social de las acciones del Sistema;
-
-XVIII. Diseñar programas de desarrollo y modelos de atención a la problemática socioeconómica de las localidades del Municipio acordes a sus potencialidades;
-
-XIX. Llevar a cabo el seguimiento de los programas del Sistema, actualizando oportunamente el catálogo de servicios;
-
-XX. Promover y difundir las acciones que realiza el Sistema en beneficio de los grupos vulnerables y grupos marginados del Municipio;
-
-XXI. Establecer criterios para la promoción y difusión del Sistema;
-
-XXII. Prever la programación y coordinación de las actividades en los medios masivos de comunicación a los que el Presidente o el Director del Sistema asistan;
-
-XXIII. Establecer los lineamientos de monitoreo y seguimiento de la información en los medios masivos, para evaluar el impacto del Sistema en la comunidad;
-
-XXIV. Elaborar, previo acuerdo con el Director, el material impreso y audiovisual, para difundir las actividades del Sistema; y
-
-XXV. Las demás que le confiera la Dirección, en el ámbito de su competencia.
+(DEROGADO, P.O. 29 DE JULIO DE 2009)
 
 #### SECCIÓN OCTAVA. DE LOS JEFES DE DEPARTAMENTO Y COORDINADORES
 
@@ -811,7 +831,9 @@ El Órgano de Vigilancia se encomendará a un Comisario, quien será nombrado po
 
 El Comisario tendrá las facultades siguientes:
 
-I. Practicar auditorías a los estados financieros del Sistema, así como las de carácter administrativo;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
+
+I. Practicar auditorías a los estados financieros del Sistema, así como las de carácter administrativo, e informar al Patronato el resultado de éstas;
 
 Il. Recomendar al Patronato y al Director, las medidas preventivas y correctivas convenientes para el funcionamiento del Sistema;
 
@@ -848,3 +870,17 @@ Atentamente.- "Sufragio Efectivo. No Reelección".- H. Puebla de Zaragoza, 22 de
 Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Ayuntamiento del Municipio de Puebla.- Periodo 2005-2008.- Secretaría General.
 
 El Secretario del Honorable Ayuntamiento del Municipio de Puebla, en uso de las facultades que le confiere el artículo 138 fracción VII de la Ley Orgánica Municipal. CERTIFICA: Que las presentes copias compuestas de veintitrés fojas útiles su frente, son copia fiel de su original, a las que me remito, tuve a la vista y cotejé, relativas al Dictamen del Honorable Ayuntamiento del Municipio de Puebla, mediante el cual se aprueba reformar, adicionar y derogar disposiciones del Reglamento Interior del Sistema Municipal para el Desarrollo Integral de la Familia de la Heroica Puebla de Zaragoza, aprobado por unanimidad de votos en Sesión Ordinaria de Cabildo de fecha once de julio del presente año, mismas que obran en el archivo de la Dirección Jurídica de la Secretaría del Honorable Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los dos días del mes de agosto del año dos mil siete, para los efectos legales a que se haya lugar, quedando registrada con el número 1642.- El Secretario del Honorable Ayuntamiento del Municipio de Puebla.- MOISÉS IGNACIO MIER VELASCO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE JULIO DE 2009.
+
+PRIMERO. El presente Dictamen entrará en vigor a partir del día siguiente de la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Quedan sin efecto todas las disposiciones que se opongan al contenido del presente Dictamen.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS PUNTOS DEL DICTAMEN QUE SE RELACIONAN CON EL ORDENAMIENTO.</small>
+
+PRIMERO.- Se aprueban en todos sus términos las reformas, adiciones y derogaciones a diversas disposiciones del Reglamento Interior del Sistema Municipal para el Desarrollo Integral de la Familia de la Heroica Puebla de Zaragoza, en los términos que se señalan en el Considerando IX del presente Dictamen.
+
+SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento para que en la forma legal correspondiente realice los trámites necesarios, a fin de que se publique por una sola vez en el Periódico Oficial del Estado las reformas, adiciones y derogaciones a diversas disposiciones del Reglamento Interior del Sistema Municipal para el Desarrollo Integral de la Familia de la Heroica Puebla de Zaragoza, que se aprueban mediante el presente Dictamen.
