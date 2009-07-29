@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-igualdad-de-oportunidades-con-equidad-de-genero-33801"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-03"
-last_updated: "2003-09-03"
+last_updated: "2009-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE IGUALDAD DE OPORTUNIDADES CON EQUIDAD DE GENERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES EN EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 29 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 3 de septiembre de 2003.
 
@@ -294,3 +296,15 @@ SECRETARIO DE GOBIERNO
 EDUARDO BECERRA PÉREZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JULIO DE 2009.
+
+PRIMERO.- Aprobado la presente Ley, remítase al Titular del Poder Ejecutivo para los efectos legales correspondientes.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+TERCERO.- El Ejecutivo Estatal emitirá el Reglamento de la presente ley dentro de los seis meses siguientes a su entrada en vigor, mediante decreto que para el efecto emita el Ejecutivo Estatal.
+
+CUARTO.- Se abroga la Ley de Igualdad de Oportunidades con Equidad de Género, publicada en el Periódico Oficial "Tierra y Libertad" de fecha 3 de septiembre del año 2003.
