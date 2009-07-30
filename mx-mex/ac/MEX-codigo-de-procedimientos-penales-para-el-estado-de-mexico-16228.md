@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2009-02-09"
+last_updated: "2009-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -39,7 +39,7 @@ El uno de octubre del año dos mil once entrará en vigor en los Distritos Judic
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE JULIO DE 2009.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3321,9 +3321,11 @@ G.G. 9 DE FEBRERO DE 2009.
 
 Publíquese el presente Código en el Periódico Oficial "Gaceta del Gobierno".
 
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Este Código entrará en vigor el día uno de agosto del año 2009.
+Este Código entrará en vigor el día uno de octubre del año dos mil nueve.
 
 ###### ARTÍCULO TERCERO.
 
@@ -3337,17 +3339,19 @@ Todos los procesos y recursos que ante los órganos jurisdiccionales se encuentr
 
 Al entrar en vigor el nuevo sistema de justicia penal, quedan derogadas todas las disposiciones que se opongan a lo preceptuado en este código.
 
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO SEXTO.
 
-El nuevo sistema de justicia penal entrará en vigor el uno de agosto del año 2009 en los distritos judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle.
+El nuevo Sistema de Justicia Penal entrará en vigor el día uno de octubre del año dos mil nueve en los Distritos Judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle.
 
-El uno de febrero del año 2010 entrará en vigor en los distritos judiciales de Chalco, Otumba y Texcoco.
+El día uno de abril del año dos mil diez entrará en vigor en los Distritos Judiciales de Chalco, Otumba y Texcoco.
 
-El uno de agosto del año 2010 entrará en vigor en los distritos judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec.
+El día uno de octubre del año dos mil diez entrará en vigor en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec.
 
-El uno de febrero del año 2011 entrará en vigor en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango.
+El uno de abril del año dos mil once entrará en vigor en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango.
 
-El uno de agosto del año 2011 entrará en vigor en los distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
+El uno de octubre del año dos mil once entrará en vigor en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -3356,3 +3360,9 @@ Durante la vacatio legis deberán reformarse las leyes que regulen la competenci
 ###### ARTÍCULO OCTAVO.
 
 La Legislatura Local proveerá lo conducente en la asignación de recursos presupuestales anuales a favor de las instancias que deben operar el nuevo sistema de justicia penal, a fin de que cuenten con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
+
+G.G. 30 DE JULIO DE 2009.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
