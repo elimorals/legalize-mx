@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2009-07-11"
+last_updated: "2009-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -5401,6 +5401,12 @@ ART. 1356.- Si los interesados están ausentes o son desconocidos, la noticia se
 
 ART. 1357.- Testamento Público Abierto es el que se otorga ante notario, de conformidad con las disposiciones de este Capítulo.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2009)</small>
+
+ART. 1357 BIS.- Siempre que se otorgue un testamento ante notario público, éste deberá formular aviso de testamento a la Dirección del Notariado, ya sea por escrito o de manera electrónica,
+
+La Dirección del Notariado remitirá tal aviso al Registro Nacional de Avisos de Testamento, por vía electrónica, dentro de los cinco días hábiles siguientes, con los datos conducentes señalados en la legislación aplicable y su reglamento.
+
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
 ART. 1358.- El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, los testigos y el intérprete; asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
@@ -5548,6 +5554,26 @@ ART. 1402.- Hecho el depósito, el encargado del Registro Público tomará razó
 ART. 1403.- En cualquier tiempo el testador tendrá derecho de retirar del archivo, personalmente o por medio de mandatario con poder solemne y especial, el testamento depositado; haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina. El retiro del pliego produce la revocación e invalidación del testamento.
 
 ART. 1404.- El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2009)</small>
+
+ART. 1404 BIS.- Cuando se deposite un testamento ológrafo, el Registro Público de la Propiedad del Estado, dentro de los cinco días hábiles siguientes, remitirá vía electrónica a la base de datos del Registro Nacional de Avisos de Testamento, el aviso de depósito, en el que se expresarán los datos siguientes:
+
+I. Nombre completo del testador;
+
+II. Nacionalidad;
+
+III. Lugar y fecha de nacimiento;
+
+IV. Clave Unica del Registro de Población (CURP);
+
+V. Estado civil;
+
+VI. Nombre completo del padre y de la madre, en su caso;
+
+VII. Lugar y fecha de otorgamiento, y
+
+VIII. Datos de inscripción de la dependencia en que se depositó.
 
 ART. 1405.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al juez competente, quien pedirá al encargado de la Oficina del Registro Público en que se encuentre el testamento, que se lo remita.
 
@@ -10264,3 +10290,9 @@ PRIMERO. Este Decreto entrará en vigor a los quince días siguientes de su publ
 SEGUNDO. Se abroga la Ley del Registro Público de la Propiedad y de Comercio del Estado de San Luis Potosí, publicada con fecha 16 de noviembre de 1992 mediante Decreto No. 160, en el Periódico Oficial del Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En tanto no cuenten con los equipos informáticos necesarios, las notarias públicas y las autoridades competentes a que se refiere el presente Decreto, se podrá presentar el informe de aviso de testamento impreso en papel, hasta por un periodo de seis meses contados a partir de la entrada en vigor del mismo.
