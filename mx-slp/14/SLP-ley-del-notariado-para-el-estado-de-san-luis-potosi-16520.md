@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-notariado-para-el-estado-de-san-luis-potosi-16520"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-27"
-last_updated: "2003-03-20"
+last_updated: "2009-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de abril de 2000.
 
@@ -491,13 +491,29 @@ Las hojas del libro del protocolo cerrado, tendrán treinta y cinco centímetros
 
 II. Protocolo abierto: El libro o conjunto de libros formados por los folios numerados progresivamente y sellados por la Dirección del Notariado, en los que el notario, observando las formalidades que establece la presente Ley, asienta y autoriza las actas y escrituras notariales que se otorguen ante su fe.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 54.
 
-Para integrar de manera uniforme el protocolo abierto, el Consejo del Colegio de Notarios bajo su responsabilidad y previo el pago a que se refiere la fracción III del artículo 157 de esta Ley, proveerá a cada notario y a costa de éste de los folios necesarios e informará por escrito a la Dirección del Notariado de la citada entrega de folios, a efecto de que esta dependencia los autorice en los términos del artículo siguiente.
+Para integrar de manera uniforme el protocolo abierto, el Consejo del Colegio de Notarios, bajo su responsabilidad y previo el pago a que se refiere la fracción III del artículo 157 de esta Ley, proveerá a cada notario y a costa de éste, de los folios necesarios; e informará por escrito a la Dirección del Notariado de la citada entrega de folios, a efecto de que ésta los autorice en los términos del artículo siguiente.
 
-Los folios a que se refiere este artículo serán uniformes, tendrán treinta y cuatro centímetros de largo por veintiuno y medio de ancho. Al escribirse en ellos se dejará en blanco un espacio de dos centímetros a los lados, separados por medio de una línea de tinta roja y siempre consignará el sello del Colegio de Notarios.
+Los folios a que se refiere este artículo serán uniformes, tendrán treinta y cuatro centímetros de largo por veintiuno y medio de ancho. Al escribirse en ellos se dejará en blanco un espacio de dos centímetros a los lados, separados por medio de una línea y siempre consignará el sello del Colegio de Notarios.
 
-Los instrumentos que el notario asiente en los folios, se ordenarán en tomos que constarán de doscientos folios, o el número de folios más próximo a este número, que se determinará por las fojas que ocupe el último instrumento de ese tomo.
+Los folios deberán contener por lo menos las siguientes medidas de seguridad:
+
+I. Marca de agua;
+
+II. Tinta ultravioleta;
+
+III. Tinta termocromática;
+
+IV. Micro texto;
+
+V. Criptograbado, y
+
+VI. Hoja holográfica.
+
+Los instrumentos que el notario asiente en los folios se ordenarán en tomos que constarán de doscientos folios, o el número de folios más próximo a este número, que se determinará por las fojas que ocupe el último instrumento de ese tomo.
 
 ###### ARTICULO 55.
 
@@ -601,7 +617,9 @@ Al terminar cada día anotará su firma y sello de autorizar. Inmediatamente des
 
 III. Cada registro de cotejo deberá contener el número progresivo que le corresponda, la fecha en que se efectúe, el nombre del solicitante, su identificación en caso de no ser del personal conocimiento del notario, el señalamiento de si es por sí o por otro, con mención del nombre o denominación de éste en su caso; el número de documentos exhibidos, el número de copias cotejadas de cada documento, con inclusión de la que se agregará al apéndice y un espacio para las observaciones que el notario juzgue oportuno anotar. Entre registro y registro dentro de una misma página, se imprimirá una línea de tinta indeleble que abarque todo lo ancho de aquélla a fin de distinguir uno del otro;
 
-IV. El notario certificará con su sello y firma la o las copias cotejadas, haciendo constar en ellas que son fiel reproducción de su original o copia certificada que tuvo a la vista, así como el número y fecha del registro que les corresponda, y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2009)</small>
+
+IV. El notario certificará con su sello y firma la o las copias cotejadas, en una hoja por separado que contará con las medidas de seguridad a que se refiere el párrafo tercero del artículo 54 de esta Ley, las cuales proveerá a su costa, el Consejo del Colegio de Notarios, y
 
 V. El notario deberá llevar un apéndice de los libros de registro de cotejos, el cual se formara con una copia cotejada de cada uno de los documentos, que se ordenarán en forma progresiva de acuerdo a su número de registro. El notario deberá encuadernar el apéndice de los libros de registro de cotejos.
 
@@ -777,9 +795,11 @@ Si la escritura contuviere varios actos jurídicos y dentro del término que se 
 
 El notario que autorice una escritura que mencione a otra u otras escrituras anteriores extendidas en su protocolo, que no hayan sido objeto de registro, cuidará que se haga en aquél la inscripción e inscripciones, así como la anotación o anotaciones correspondientes.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 88.
 
-Cuando se trate de revocación o renuncia de poderes que no hayan sido otorgados en su protocolo, lo comunicará por correo certificado con acuse de recibo al notario a cargo de quien esté el protocolo en el que se extendió el poder que se revoca o renuncia, aun cuando éste pertenezca a otra Entidad federativa para que dicho notario se imponga de esa revocación y proceda conforme a derecho.
+Cuando ante un notario fueren otorgados poderes por personas físicas o morales que no tengan actividad mercantil, deberá inscribirlos de manera electrónica en el Registro Estatal de Poderes Notariales, administrado por el Consejo del Colegio de Notarios. Asimismo, cuando se trate de revocación o renuncia de poderes que no hayan sido otorgados en su protocolo, deberá inscribir dicha revocación o renuncia, y además lo deberá comunicar por correo certificado con acuse de recibo al notario a cargo de quien esté el protocolo en el que se extendió el poder que se revoca o renuncia, aun cuando éste pertenezca a otra Entidad federativa o fuera del país, para que dicho notario se imponga de esa revocación y proceda conforme a derecho.
 
 ###### ARTICULO 89.
 
@@ -789,17 +809,45 @@ Cuando se revoque, rescinda o modifique un acto contenido en una escritura, al n
 
 Para que se otorgue una escritura relativa a bienes inmuebles, el notario exigirá a la parte interesada el título respectivo que acredite la propiedad y los antecedentes necesarios para justificarla.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 91.
 
-El notario ante quien se otorgue un testamento deberá dar aviso a la Dirección del Notariado dentro de los ocho días hábiles siguientes, expresando la fecha de su otorgamiento, el nombre y apellidos del testador, el número del instrumento y tomo del protocolo. Si el testador manifiesta los nombres de sus padres, se incluirán en el aviso. En caso de que en el testamento se revoque uno anterior, el notario proporcionará la información del testamento revocado.
+El notario ante quien se otorgue un testamento deberá dar aviso a la Dirección del Notariado, por escrito o de manera electrónica, dentro de los ocho días hábiles siguientes, expresando los siguientes datos:
 
-Si el testamento fuere cerrado, indicará además el nombre de la persona en cuyo poder se depositó, o el lugar en que se haya hecho el depósito.
+I. Nombre completo del testador;
+
+II. Nacionalidad;
+
+III. Lugar y fecha de nacimiento;
+
+IV. Clave Unica del Registro de Población (CURP);
+
+V. Estado civil;
+
+VI. Nombre completo del padre y de la madre, en su caso;
+
+VII. Tipo de testamento;
+
+VIII. Número de instrumento y libro;
+
+IX. Fecha de firma del instrumento;
+
+X. Lugar de otorgamiento;
+
+XI. Disposiciones de contenido irrevocable, en su caso;
+
+XII. Nombre completo del notario, y
+
+XIII. Número de notaría y distrito judicial de su adscripción.
+
+Si el testador manifiesta los nombres de sus padres se incluirán en el aviso. En caso de que en el testamento se revoque uno anterior, el notario proporcionará la información del testamento revocado.
+
+Si el testamento fuere cerrado indicará además el nombre de la persona en cuyo poder se depositó, o el lugar en que se haya hecho el depósito.
 
 La Dirección del Notariado llevará un registro especialmente destinado a asentar las inscripciones relativas a los testamentos, con los datos que se mencionan en este artículo; y entregará informes únicamente a los notarios, a los jueces que legalmente los requieran, y a las personas que acrediten interés jurídico en el asunto.
 
-Cuando en un testamento público abierto se otorguen cláusulas que conforme a las leyes sean irrevocables, el notario sin revelar el contenido de dichas cláusulas, hará mención de su existencia en el aviso a que se refiere este artículo, lo cual asentará la Dirección del Notariado en el registro mencionado en el párrafo anterior. La Dirección del Notariado al contestar los informes que le soliciten, deberá indicar el testamento o testamentos respecto de los cuales tenga asentado que existen dichas cláusulas irrevocables.
+Cuando en un testamento público abierto se otorguen cláusulas que conforme a las leyes sean irrevocables, el notario, sin revelar el contenido de dichas cláusulas, hará mención de su existencia en el aviso a que se refiere este artículo, lo cual asentará la Dirección del Notariado en el registro mencionado en el párrafo anterior. La Dirección del Notariado al contestar los informes que le soliciten, deberá indicar el testamento o testamentos, respecto de los cuales tenga asentado que existen dichas cláusulas irrevocables.
 
 ###### ARTICULO 92.
 
@@ -889,15 +937,19 @@ Al expedirse un testimonio se hará constar si es el primero, segundo o ulterior
 
 El notario expedirá el testimonio con su firma y sello y tramitará su inscripción en el Registro Público de la Propiedad y de Comercio que corresponda, cuando el acto sea registrable y hubiere sido requerido y expensado para ello por sus clientes.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 104.
 
-Las hojas de testimonio tendrán las mismas dimensiones que las de protocolo abierto, las cuales contendrán a lo más cuarenta renglones, a igual distancia unos de otros. En el margen superior izquierdo del anverso de cada hoja, se estampará el sello del notario, quien rubricará en el anverso al margen derecho de cada hoja.
+Las hojas de testimonio tendrán las mismas dimensiones y medidas de seguridad que las de protocolo abierto, a que refiere el párrafo tercero del artículo 54 de este Ordenamiento.
+
+El Consejo del Colegio de Notarios bajo su responsabilidad y previo el pago a que se refiere la fracción tercera del artículo 157 de esta Ley, proveerá a cada notario y a costa de éste; de las hojas de testimonio necesarias, las cuales contendrán a lo más cuarenta renglones, a igual distancia unos de otros. En el margen superior izquierdo del anverso de cada hoja, se estampará el sello del notario, quien rubricará en el anverso al margen derecho de cada hoja.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 105.
 
-Podrán expedirse y autorizarse testimonios, copias certificadas o certificaciones, utilizando cualquier medio de reproducción o impresión indeleble.
+Podrán expedirse y autorizarse testimonios, copias certificadas o certificaciones, utilizando cualquier medio de reproducción o impresión indeleble y con las medidas de seguridad a que se refiere el artículo 54 de esta Ley.
 
 ###### ARTICULO 106.
 
@@ -1295,7 +1347,9 @@ I. Las aportaciones obligatorias que marca esta Ley a sus agremiados y las volun
 
 II. Las aportaciones en numerario o en especie y demás ingresos que le proporcionen los gobiernos federal, estatal y municipal;
 
-III. Las cantidades que los notarios deban aportar por los folios del protocolo abierto a que se refiere el artículo 54 de esta Ley, y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2009)</small>
+
+III. Las cantidades que los notarios deban aportar por los folios del protocolo abierto, hojas de cotejo y hojas testimonio, y
 
 IV. Los bienes o recursos que obtenga por la realización de actividades propias o por cualquier título legal.
 
@@ -1664,3 +1718,11 @@ P.O. 20 DE MARZO DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En tanto no cuenten con los equipos informáticos necesarios, las notarías públicas y las autoridades competentes a que se refiere el presente Decreto, se podrá presentar el informe de aviso de testamento impreso en papel, hasta por un periodo de seis meses contados a partir de la entrada en vigor del mismo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
