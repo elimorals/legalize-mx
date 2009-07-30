@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2009-02-09"
+last_updated: "2009-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -71,7 +71,7 @@ c) Concentración: La presentación, recepción y desahogo de las pruebas, así 
 
 d) Continuidad: Las audiencias no se interrumpirán, salvo en casos excepcionales previstos en este código.
 
-e) Inmediación: Los jueces tomarán conocimiento personal del material probatorio introducido en la audiencia, y escucharán directamente los argumentos de las partes, con la presencia ininterrumpida de los sujetos procesales que deban participar en ella, salvo los casos previstos en este código para la prueba anticipada.
+e) Inmediación: Los jueces tomarán conocimiento personal del material probatorio introducido en la audiencia, y escucharán directamente los argumentos de las partes, con la presencia ininterrumpida de los sujetos procesales que deban participar en ella salvo los casos previstos en este código para la prueba anticipada.
 
 Estos principios serán aplicables, en lo conducente, a los procedimientos para la aplicación de sanciones por infracciones administrativas o penitenciarias.
 
@@ -4391,7 +4391,7 @@ Obligaciones
 
 ###### Artículo 464.
 
-Al ser concedida la prelibertad, en cualquiera de sus modalidades, el juez ejecutor de sentencias competente, deberá advertir al preliberado que tendrá que ocurrir a la Institución que le haya sido señalada para hacer sus presentaciones; de informar de sus cambios de domicilio; de la obligación de desempeñar actividades lícitas; de la prohibición que tenga de ir a los lugares que se haya determinado en la resolución respectiva, así como observar una conducta intachable para con los, demás y consigo mismo y cumplir con las demás medidas terapéuticas que se le hayan señalado.
+Al ser concedida la prelibertad, en cualquiera de sus modalidades, el juez ejecutor de sentencias competente, deberá advertir al preliberado que tendrá que ocurrir a la Institución que le haya sido señalada para hacer sus presentaciones; de informar de sus cambios de domicilio; de la obligación de desempeñar actividades lícitas; de la prohibición que tenga de ir a los lugares que se haya determinado en la resolución respectiva, así como observar una conducta intachable para con los demás y consigo mismo y cumplir con las demás medidas terapéuticas que se le hayan señalado.
 
 Beneficio de libertad condicionada
 
@@ -4587,9 +4587,11 @@ Tratándose de la revocación del beneficio o tratamiento preliberatorio, la sol
 
 Publíquese el presente Código en el Periódico Oficial "Gaceta del Gobierno".
 
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Este Código entrará en vigor el día uno de agosto del año 2009.
+Este Código entrará en vigor el día uno de octubre del año dos mil nueve.
 
 ###### ARTÍCULO TERCERO.
 
@@ -4603,17 +4605,19 @@ Todos los procesos y recursos que ante los órganos jurisdiccionales se encuentr
 
 Al entrar en vigor el nuevo sistema de justicia penal, quedan derogadas todas las disposiciones que se opongan a lo preceptuado en este código.
 
+> <small>(REFORMADO, G.G. 30 DE JULIO DE 2009)</small>
+
 ###### ARTÍCULO SEXTO.
 
-El nuevo sistema de justicia penal entrará en vigor el uno de agosto del año 2009 en los distritos judiciales de Toluca, Lerma. Tenancingo y Tenango del Valle.
+El nuevo Sistema de Justicia Penal entrará en vigor el día uno de octubre del año dos mil nueve en los Distritos Judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle.
 
-El uno de febrero del año 2010 entrará en vigor en los distritos judiciales de Chalco, Otumba y Texcoco.
+El día uno de abril del año dos mil diez entrará en vigor en los Distritos Judiciales de Chalco, Otumba y Texcoco.
 
-El uno de agosto del año 2010 entrará en vigor en los distritos judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec.
+El día uno de octubre del año dos mil diez entrará en vigor en los Distritos Judiciales de Nezahualcoyótl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec.
 
-El uno de febrero del año 2011 entrará en vigor en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango.
+El día uno de abril del año dos mil once entrará en vigor en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango.
 
-El uno de agosto del año 2011 entrará en vigor en los distritos judiciales de Ecatepec de Morelos. Jilotepec y Valle de Bravo.
+El día uno de octubre del año dos mil once entrará en vigor en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
 
 ###### ARTÍCULO SEXTO.
 
@@ -4629,7 +4633,7 @@ El uno de octubre del año dos mil once entrará en vigor en los Distritos Judic
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 30 DE JULIO DE 2009.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -4668,3 +4672,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.
+
+G.G. 30 DE JULIO DE 2009.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
