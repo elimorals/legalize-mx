@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2009-07-07"
+last_updated: "2009-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -465,7 +465,9 @@ IV. La atención materno-infantil;
 
 V. La planificación familiar y la salud reproductiva;
 
-VI. La salud mental;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2009)</small>
+
+VI. La salud mental y los padecimientos psiquiátricos;
 
 VII. La prevención y el control de las enfermedades bucodentales;
 
@@ -811,17 +813,31 @@ I. El desarrollo de actividades educativas, socioculturales y recreativas que co
 
 II. La difusión de las orientaciones para la promoción de la salud mental;
 
-III. La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia, y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2009)</small>
 
-IV. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+III. La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes, y otras substancias que puedan causar alteraciones mentales o dependencia;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2009)</small>
+
+IV. La realización de programas de detección temprana de padecimientos mentales relacionados con la depresión, y
+
+V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 ###### ARTICULO 63.
 
 La atención de las enfermedades mentales comprende:
 
-I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2009)</small>
 
-II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos, y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2009)</small>
+
+II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales, y
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2009)</small>
+
+III. El fortalecimiento de la atención permanente y la urgencia en crisis.
 
 ###### ARTICULO 64.
 
@@ -3318,3 +3334,9 @@ P.O. 7 DE JULIO DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 30 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
