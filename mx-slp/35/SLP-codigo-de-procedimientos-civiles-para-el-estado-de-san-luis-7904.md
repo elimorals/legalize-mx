@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2009-07-11"
+last_updated: "2009-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1897,54 +1897,6 @@ ART. 458.- En los juicios sobre desocupación se entiende domicilio legal la fin
 
 ART. 459.- (DEROGADO, P.O. 16 DE JULIO DE 1997)
 
-### CAPITULO IV. De los Interdictos
-
-ART. 460.- Los juicios que tengan por objeto retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrece riesgo, las medidas conducentes a precaver el daño se tramitarán con sujeción a las reglas generales de los juicios extraordinarios y a las especiales de este Capítulo.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
-
-ART. 461.- Los interdictos proceden asimismo para los efectos que expresa el artículo 202 del Código Familiar del Estado, en los casos a los que se refieren los párrafos segundo y tercero del artículo 24 de este Código.
-
-ART. 462.- Los jueces deberán tramitar los juicios a que se refiere el artículo anterior con preferencia a todos los demás, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
-
-ART. 463.- Sólo proceden los interdictos respecto de las cosas raíces y derechos reales constituídos sobre ellas.
-
-ART. 464.- Los interdictos no preocupan las cuestiones de propiedad y de posesión definitiva; no podrán acumularse al juicio de propiedad y deberán decidirse previamente.
-
-ART. 465.- El que ha sido vencido en el juicio de propiedad o plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa; pero el vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
-
-ART. 466.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre los hechos que constituyen la posesión.
-
-ART. 467.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
-
-ART. 468.- No procede el interdicto de obra nueva pasado un año después de la terminación de la obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
-
-ART. 469.- No puede usar el interdicto de obra nueva el que posee la cosa con título precario. Por tal se entiende cualquier título que no es translativo de dominio y sólo confiere la simple tenencia o posesión natural de la cosa en nombre de otro.
-
-ART. 470.- Cuando al promover el interdicto de obra nueva, se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo el apercibimiento de que será ésta demolida en caso de desobediencia, a costa del propietario.
-
-ART. 471.- La suspensión a que se refiere el artículo anterior podrá levantarse a solicitud del demandado sin perjuicio de lo que resuelva la sentencia, si dá fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
-
-ART. 472.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
-
-ART. 473.- Los incidentes a que se refieren los artículos 470 y 471 se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán ningún recurso.
-
-ART. 474.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se embarace el curso o se disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
-
-ART. 475.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por el mal olor o por causa de los materiales que se arrojen a su finca o en la calle. En los casos a que este artículo se refiere, se procederá como lo determinen los reglamentos administrativos.
-
-ART. 476.- En el caso del artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
-
-ART. 477.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo, pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aun al inquilino por cuenta de renta; en defecto de ésto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar del dueño los gastos que se ocasionen.
-
-ART. 478.- Una vez resuelto sobre las peticiones a que se refieren los artículos 470 y 477, se procederá al emplazamiento de la parte demandada y continuará el juicio sus demás trámites.
-
-ART. 479.- Contra las resoluciones que se dicten ordenando la práctica de las medidas provisionales a que se refieren los artículos 470 y 477, no procederá recurso alguno, contra las que las denieguen procederá el de queja.
-
-ART. 480.- Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
-
-ART. 481.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo, y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 1997)</small>
 
 ### CAPITULO V. Del Juicio Hipotecario
@@ -2146,6 +2098,54 @@ ART. 481.18.- Las resoluciones que se dicten en términos de lo dispuesto en est
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
 ART. 481.19.- Si el superior revoca el fallo de Primera Instancia que declaró procedente la vía, luego que vuelvan los autos al Juzgado de su origen, dentro de los cinco días siguientes, se mandará cancelar la anotación de la demanda en el Registro Público; en su caso, se devolverá el bien al demandado y se ordenará al actor que rinda cuentas con pago, dentro del término de treinta días.
+
+### CAPITULO IV. De los Interdictos
+
+ART. 460.- Los juicios que tengan por objeto retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrece riesgo, las medidas conducentes a precaver el daño se tramitarán con sujeción a las reglas generales de los juicios extraordinarios y a las especiales de este Capítulo.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
+ART. 461.- Los interdictos proceden asimismo para los efectos que expresa el artículo 202 del Código Familiar del Estado, en los casos a los que se refieren los párrafos segundo y tercero del artículo 24 de este Código.
+
+ART. 462.- Los jueces deberán tramitar los juicios a que se refiere el artículo anterior con preferencia a todos los demás, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
+
+ART. 463.- Sólo proceden los interdictos respecto de las cosas raíces y derechos reales constituídos sobre ellas.
+
+ART. 464.- Los interdictos no preocupan las cuestiones de propiedad y de posesión definitiva; no podrán acumularse al juicio de propiedad y deberán decidirse previamente.
+
+ART. 465.- El que ha sido vencido en el juicio de propiedad o plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa; pero el vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
+
+ART. 466.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre los hechos que constituyen la posesión.
+
+ART. 467.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
+
+ART. 468.- No procede el interdicto de obra nueva pasado un año después de la terminación de la obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
+
+ART. 469.- No puede usar el interdicto de obra nueva el que posee la cosa con título precario. Por tal se entiende cualquier título que no es translativo de dominio y sólo confiere la simple tenencia o posesión natural de la cosa en nombre de otro.
+
+ART. 470.- Cuando al promover el interdicto de obra nueva, se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo el apercibimiento de que será ésta demolida en caso de desobediencia, a costa del propietario.
+
+ART. 471.- La suspensión a que se refiere el artículo anterior podrá levantarse a solicitud del demandado sin perjuicio de lo que resuelva la sentencia, si dá fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
+
+ART. 472.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
+
+ART. 473.- Los incidentes a que se refieren los artículos 470 y 471 se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán ningún recurso.
+
+ART. 474.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se embarace el curso o se disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
+
+ART. 475.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por el mal olor o por causa de los materiales que se arrojen a su finca o en la calle. En los casos a que este artículo se refiere, se procederá como lo determinen los reglamentos administrativos.
+
+ART. 476.- En el caso del artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
+
+ART. 477.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo, pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aun al inquilino por cuenta de renta; en defecto de ésto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar del dueño los gastos que se ocasionen.
+
+ART. 478.- Una vez resuelto sobre las peticiones a que se refieren los artículos 470 y 477, se procederá al emplazamiento de la parte demandada y continuará el juicio sus demás trámites.
+
+ART. 479.- Contra las resoluciones que se dicten ordenando la práctica de las medidas provisionales a que se refieren los artículos 470 y 477, no procederá recurso alguno, contra las que las denieguen procederá el de queja.
+
+ART. 480.- Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
+
+ART. 481.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo, y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
 
 ## TITULO OCTAVO. De las Tercerías
 
@@ -2599,7 +2599,13 @@ ART. 606.- De las cantidades recogidas se dispondrá por el juzgado, de oficio, 
 
 ART. 607.- Las medidas de que tratan los artículos 603 a 605 se ordenarán por cualquier juez, aun cuando no sea competente para conocer de la sucesión, y aun tratándose de jueces menores, respecto de los bienes existentes dentro de su territorio jurisdiccional, comunicando, inmediatamente, al juez que sea competente, las medidas tomadas, enviándole copia íntegra del expediente relativo.
 
-ART. 608.- Si pasados diez días de la muerte del autor de la sucesión no se presenta el testamento; si en éste no está nombrado el albacea o si no se denuncia el intestado, el juez nombrará un interventor que reúna los requisitos siguientes:
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2009)</small>
+
+ART. 607 BIS.- El juez competente, o el notario público que inicie un procedimiento sucesorio, deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria, mediante la solicitud de búsqueda ante el Registro Público de la Propiedad, y la Dirección del Notariado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O.30 DE JULIO DE 2009)</small>
+
+ART. 608.- Si en la búsqueda en el Registro Nacional de Avisos de Testamento no se encontrara disposición testamentaria alguna, y si pasados quince días de la muerte del autor de la sucesión no se presenta el testamento; o si de presentarse, en éste no está nombrado el albacea, o si no se denuncia el interesado (sic), el juez nombrará un interventor que reúna los siguientes requisitos:
 
 I.- Ser mayor de edad;
 
@@ -5046,3 +5052,11 @@ PRIMERO. Este Decreto entrará en vigor a los quince días siguientes de su publ
 SEGUNDO. Se abroga la Ley del Registro Público de la Propiedad y de Comercio del Estado de San Luis Potosí, publicada con fecha 16 de noviembre de 1992 mediante Decreto No. 160, en el Periódico Oficial del Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En tanto no cuenten con los equipos informáticos necesarios, las notarías públicas y las autoridades competentes a que se refiere el presente Decreto, se podrá presentar el informe de aviso de testamento impreso en papel, hasta por un periodo de seis meses contados a partir de la entrada en vigor del mismo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
