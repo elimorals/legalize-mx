@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-social-40113
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-19"
-last_updated: "2009-06-08"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40113&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-07-14"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2009.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
 
@@ -167,7 +167,9 @@ XVI. Designar a los representantes de la Secretaría en las comisiones, organiza
 
 XVII. Autorizar donativos en dinero o, en su caso, en especie, provenientes del inventario de bienes de la Secretaría o del presupuesto asignado a la misma, en términos de la Ley General de Bienes Nacionales, del Presupuesto de Egresos de la Federación y demás normatividad aplicable;
 
-XVIII. Representar al Presidente de la República en los juicios constitucionales de amparo, en términos de los artículos 14 de la Ley Orgánica de la Administración Pública Federal y 19 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la propia Constitución y su Ley Reglamentaria, en los casos en que lo determine el Presidente de la República;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+XVIII. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 49 del presente Reglamento;
 
 XIX. Resolver los recursos administrativos de su competencia;
 
@@ -441,7 +443,17 @@ XI. Apoyar y asesorar jurídicamente a la Oficialía Mayor en la revisión de la
 
 XII. Tramitar ante la Secretaría de Gobernación, la acreditación de las firmas autógrafas de los servidores públicos facultados para hacer constar la legitimidad de documentos;
 
-XIII. Representar legalmente a la Secretaría, a su titular y demás unidades administrativas y órganos administrativos desconcentrados de la misma, en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención;
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+XII bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de Desarrollo Social representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+XII ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de Desarrollo Social represente al Presidente de la República;
+
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+XIII. Representar legalmente a la Secretaría, a su titular y demás unidades administrativas y órganos administrativos desconcentrados de la misma, en todos los trámites dentro de los juicios de amparo, así como en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención;
 
 XIV. Coordinar y conducir la integración y funcionamiento del Comité Jurídico de la Secretaría, integrado por los servidores públicos que brindan apoyo jurídico a las unidades administrativas y por los responsables de asuntos jurídicos de los órganos administrativos desconcentrados y entidades del Sector, así como coordinar los trabajos de los Comités Jurídicos en las delegaciones, integrados bajo el mismo esquema;
 
@@ -659,7 +671,13 @@ XIII. Opinar en los procedimientos administrativo-laborales y dictaminar la proc
 
 XIV. Intervenir en representación de la Secretaría, de su titular, de los órganos administrativos desconcentrados y demás unidades administrativas de la misma, en los procesos jurisdiccionales, procedimientos administrativos y cualquier otro asunto de carácter legal en que tenga interés la Secretaría o que se refiera a hechos o actos susceptibles de causar daño o perjuicio a su patrimonio; presentar y contestar demanda, oponer excepciones y defensas, recusar, reconvenir a la contraparte, ejercer todo tipo de acciones legales y desistir de las mismas, ofrecer y rendir pruebas, interponer recursos y procurar la conciliación en beneficio de la dependencia; formular denuncias y querellas, coadyuvar con el Ministerio Público en la fase indagatoria y durante los procedimientos penales y, en su caso, otorgar el perdón cuando proceda, así como formular, en general, todas las promociones y actos procesales que a dichos juicios y procedimientos se refieran;
 
-XV. Suscribir, en su caso, los oficios, escritos y demás promociones que exija el trámite de los procedimientos administrativos y jurisdiccionales, incluyendo juicios de amparo y cualquier otra controversia, en representación o en ausencia del Secretario, subsecretarios, jefes de unidad, directores generales, delegados y titulares de los órganos administrativos desconcentrados, sin menoscabo de las atribuciones que, en su caso, correspondan a los responsables de las áreas jurídicas respectivas; desahogar los trámites, y asistir a las audiencias y diligencias convocadas por las autoridades correspondientes, y
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+XIV bis. Intervenir en los juicios de amparo en los que sean parte el Secretario, subsecretarios, jefes de unidad, directores generales, delegados y titulares de los órganos administrativos desconcentrados, y demás funcionarios de la Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+XV. Suscribir, en su caso, los oficios, escritos y demás promociones que exija el trámite de los procedimientos administrativos y jurisdiccionales, y cualquier otra controversia, no comprendidos en la fracción anterior, en representación del Secretario, subsecretarios, jefes de unidad, directores generales, delegados y titulares de los órganos administrativos desconcentrados, sin menoscabo del ejercicio que, en su caso, correspondan a los responsables de las áreas jurídicas respectivas; desahogar los trámites, y asistir a las audiencias y diligencias convocadas por las autoridades correspondientes, y
 
 XVI. Substanciar los procedimientos y recursos administrativos y emitir las resoluciones que procedan.
 
@@ -1438,5 +1456,9 @@ CUARTO.- Las modificaciones que se lleven a cabo por este Decreto a la estructur
 QUINTO.- Se derogan todas aquellas disposiciones administrativas que contravengan lo establecido en el presente Decreto.
 
 D.O.F. 8 DE JUNIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
