@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fomento-y-desarrollo-forestal-sustentable-del-estado-426
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-22"
-last_updated: "2004-12-22"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE FOMENTO Y DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FORESTAL SUSTENTABLE DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE FECHA 31 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado del Estado de Querétaro, el miércoles 22 de diciembre de 2004.
 
@@ -1076,3 +1078,13 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE JULIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Fomento y Desarrollo Forestal Sustentable del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 71, de fecha 22 de diciembre de 2004.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado, emitirá las normas reglamentarias de la presente Ley que resulten necesarias para su aplicación.
