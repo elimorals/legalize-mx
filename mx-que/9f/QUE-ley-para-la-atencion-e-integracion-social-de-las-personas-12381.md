@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-atencion-e-integracion-social-de-las-personas-12381
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-21"
-last_updated: "1998-12-04"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA LA ATENCION E INTEGRACION SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 31 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 21 de agosto de 1998.
 
@@ -534,3 +536,11 @@ PRIMERO.- Esta Ley entrará en vigor el día de su publicación en el Periódico
 SEGUNDO.- El Decreto de creación del Instituto Queretano Pro-Personas con Discapacidad que se ordena en el artículo Quinto Transitorio de la Ley para la Atención e Integración Social de las Personas con Discapacidad, será emitido por el Gobernador del Estado en un plazo de 90 días hábiles contados a partir de la fecha de su publicación de la presente.
 
 TERCERO.- Se derogan aquellas disposiciones que se opongan a la presente.
+
+P.O. 31 DE JULIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley para la Atención e Integración Social de las Personas con Discapacidad del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número treinta y cinco, de fecha veintiuno de agosto de mil novecientos noventa y ocho y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Tercero. El Poder Ejecutivo del Estado deberá expedir el Catálogo de Recomendaciones de Accesibilidad.
