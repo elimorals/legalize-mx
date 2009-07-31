@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-307-electoral-para-el-estado-de-veracruz-de-65153
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-22"
-last_updated: "2008-12-22"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 307 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO NUMERO 307 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO NÚMERO 307 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2009.
 
 Código publicado en el Número Extraordinario 421 de la Gaceta Oficial del Estado de Veracruz, el lunes 22 de diciembre de 2008.
 
@@ -65,13 +65,17 @@ IV. El sistema de medios de impugnación para garantizar la legalidad de los act
 
 V. Las faltas y sanciones en materia electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 2.
 
-La aplicación de las normas de este Código corresponde al Instituto Electoral Veracruzano, a la Sala Electoral del Tribunal Superior de Justicia y al Congreso del Estado, en sus respectivos ámbitos de competencia.
+La aplicación de las normas de este Código corresponde al Instituto Electoral Veracruzano, al Tribunal Electoral del Poder Judicial del Estado y al Congreso del Estado, en sus respectivos ámbitos de competencia.
 
 La interpretación de las disposiciones de este Código se hará conforme a los criterios gramatical, sistemático y funcional, de acuerdo con lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, y los principios rectores de la función electoral, en términos de los artículos 41 y 116 de la misma.
 
-Para el desempeño de sus funciones, los organismos electorales establecidos por la Constitución Política del Estado y este Código contarán con el apoyo y colaboración de las autoridades estatales y municipales. Los servicios notariales que sean requeridos por el Instituto o la Sala Electoral con motivo de los procesos electorales, plebiscitarios o de referendo, serán gratuitos.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+Para el desempeño de sus funciones, los organismos electorales establecidos por la Constitución Política del Estado y este Código contarán con el apoyo y colaboración de las autoridades estatales y municipales. Los servicios notariales que sean requeridos por el Instituto o el Tribunal Electoral con motivo de los procesos electorales, plebiscitarios o de referendo, serán gratuitos.
 
 ## TÍTULO SEGUNDO. De la Participación de los Ciudadanos
 
@@ -207,13 +211,17 @@ En el caso de que algún servidor público del Estado, municipio o de la Federac
 
 No podrán ser postulados como candidatos a un cargo de elección popular, salvo que se separen de sus funciones noventa días antes del día de la elección de que se trate:
 
-I. Los magistrados y secretarios de la Sala Electoral del Tribunal Superior de Justicia del Estado;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+I. Los magistrados y secretarios del Tribunal Electoral del Poder Judicial del Estado;
 
 II. Los consejeros electorales de los diversos consejos del Instituto;
 
 III. El secretario ejecutivo, contralor general y los directores ejecutivos del Instituto Electoral Veracruzano; y
 
-IV. El personal profesional del servicio electoral y el personal auxiliar de la Sala Electoral del Tribunal Superior de Justicia.
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+IV. El personal profesional del servicio electoral y el personal auxiliar del Tribunal Electoral del Poder Judicial del Estado.
 
 ## TÍTULO TERCERO. De la Integración de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos
 
@@ -715,7 +723,9 @@ Los militantes sólo tendrán derecho de acudir ante las instancias jurisdiccion
 
 Los estatutos de un partido político estatal podrán ser impugnados exclusivamente por sus afiliados, dentro de los catorce días naturales siguientes a la fecha de su presentación ante el Consejo General para la declaratoria respectiva. Dicho órgano, al emitir la resolución que corresponda, resolverá simultáneamente las impugnaciones que en cada caso hubiera recibido. Emitida la declaratoria y transcurrido el plazo legal para impugnaciones, sin que se hubiese interpuesto alguna, los estatutos quedarán firmes.
 
-En su caso, una vez que la Sala Electoral resuelva las impugnaciones interpuestas en contra de la declaratoria del Consejo General, los estatutos únicamente podrán impugnarse en cuanto a la legalidad de los actos de su aplicación.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+En su caso, una vez que el Tribunal Electoral resuelva las impugnaciones interpuestas en contra de la declaratoria del Consejo General, los estatutos únicamente podrán impugnarse en cuanto a la legalidad de los actos de su aplicación.
 
 Los partidos políticos comunicarán al Instituto los reglamentos que emitan, en un plazo no mayor de diez días posteriores a su aprobación. El propio Instituto verificará el apego de dichos reglamentos a las normas legales y estatutarias y, en su caso, los registrará en el libro respectivo.
 
@@ -1023,21 +1033,29 @@ c) El señalamiento de las aclaraciones o rectificaciones que presentaren los pa
 
 VI. En el Consejo General se presentará el dictamen y proyecto de resolución formulado por la Unidad, y se procederá a imponer, en su caso, las sanciones correspondientes;
 
-VII. Los partidos políticos podrán impugnar ante la Sala Electoral el dictamen y resolución que en su caso emitiere el Consejo General; y
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+VII. Los partidos políticos podrán impugnar ante el Tribunal Electoral el dictamen y resolución que en su caso emitiere el Consejo General; y
 
 VIII. El Consejo General del Instituto deberá:
 
-a) Remitir a la Sala Electoral, cuando se hubiere interpuesto el recurso, junto con éste, el dictamen de la Unidad y el informe respectivo;
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
 
-b) Remitir a la Gaceta Oficial del Estado, para su publicación, el dictamen correspondiente, una vez cumplido el plazo para la interposición del recurso, o presentado éste, la resolución de la Sala Electoral; y
+a) Remitir al Tribunal Electoral, cuando se hubiere interpuesto el recurso, junto con éste, el dictamen de la Unidad y el informe respectivo;
 
-c) Publicar en la página de Internet del Instituto el dictamen y, en su caso, las resoluciones emitidas por la Sala Electoral, a la brevedad posible.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+b) Remitir a la Gaceta Oficial del estado, para su publicación, el dictamen correspondiente, una vez cumplido el plazo para la interposición del recurso, o presentado éste, la resolución del Tribunal Electoral; y
+
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+c) Publicar en la página de Internet del Instituto el dictamen y, en su caso, las resoluciones emitidas por el Tribunal Electoral, a la brevedad posible.
+
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
 
 ###### Artículo 64.
 
-En casos de excepción y previo acuerdo del Consejo General, la Unidad de fiscalización de los Partidos Políticos podrá abrir procesos extraordinarios de fiscalización con plazos diferentes a los establecidos en el artículo anterior.
-
-En todo caso, los procesos extraordinarios deberán quedar concluidos en un plazo máximo de seis meses, salvo que el Consejo General autorice, por causa justificada, la ampliación del plazo. Los acuerdos del Consejo a que se refiere este artículo podrán ser impugnados ante la Sala Electoral.
+En casos de excepción y previo acuerdo del Consejo General, la Unidad de Fiscalización de los Partidos Políticos podrá abrir procesos extraordinarios de fiscalización con plazos diferentes a los establecidos en el artículo anterior. En todo caso, los procesos extraordinarios deberán quedar concluidos en un plazo máximo de seis meses, salvo que el Consejo General autorice, por causa justificada, la ampliación del plazo. Los acuerdos del Consejo a que se refiere este artículo podrán ser impugnados ante el Tribunal Electoral.
 
 ###### Artículo 65.
 
@@ -1129,7 +1147,9 @@ Los medios de impugnación que presentaren los precandidatos debidamente registr
 
 Solamente los precandidatos debidamente registrados por el partido de que se trate podrán impugnar el resultado del proceso de selección de candidatos en que hayan participado.
 
-Es competencia directa de cada partido político, a través del órgano establecido por sus estatutos, su reglamento o convocatoria correspondiente, negar o cancelar el registro a los precandidatos que incurran en conductas contrarias a este Código o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados, o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus estatutos o en los reglamentos y convocatorias respectivas. Las decisiones que adopten los órganos competentes de cada partido podrán ser recurridas por los aspirantes o precandidatos ante la Sala Electoral, a través del Juicio para la Protección de los Derechos Político Electorales.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+Es competencia directa de cada partido político, a través del órgano establecido por sus estatutos, su reglamento o convocatoria correspondiente, negar o cancelar el registro a los precandidatos que incurran en conductas contrarias a este Código o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados, o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus estatutos o en los reglamentos y convocatorias respectivas. Las decisiones que adopten los órganos competentes de cada partido podrán ser recurridas por los aspirantes o precandidatos ante el Tribunal Electoral, a través del Juicio para la Protección de los Derechos Político Electorales.
 
 ###### Artículo 71.
 
@@ -1787,7 +1807,9 @@ XXXI. Solicitar, por conducto de su Presidente, el auxilio de la fuerza pública
 
 XXXII. Substanciar y resolver aquellos recursos de su competencia, en los términos de este Código;
 
-XXXIII. Informar a la Sala Electoral del Tribunal Superior de Justicia y al Congreso del Estado sobre todos aquellos aspectos que resulten relevantes para el cumplimiento de sus respectivas atribuciones, proporcionando los datos y documentos que aquéllos le soliciten;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+XXXIII. Informar al Tribunal Electoral del Poder Judicial del Estado y al Congreso del Estado sobre todos aquellos aspectos que resulten relevantes para el cumplimiento de sus respectivas atribuciones, proporcionando los datos y documentos que aquéllos le soliciten;
 
 XXXIV. Resolver sobre peticiones y consultas que le sometan los ciudadanos de un municipio y asociaciones políticas, relativas a la integración y funcionamiento de los organismos electorales, al desarrollo del proceso electoral y demás asuntos de su competencia;
 
@@ -1919,7 +1941,9 @@ VII. Recibir y sustanciar los recursos que se interpongan en contra de los actos
 
 VIII. Recibir y dar el trámite previsto en el Libro Quinto de este Código a los recursos que se interpongan en contra de los actos o resoluciones del Consejo General, informando a éste de los mismos en su sesión inmediata;
 
-IX. Informar al Consejo General de las resoluciones que le competan dictadas por la Sala Electoral del Tribunal Superior de Justicia;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+IX. Informar al Consejo General de las resoluciones que le competan dictadas por el Tribunal Electoral del Poder Judicial del Estado;
 
 X. Mantener a su cargo el archivo del Consejo General;
 
@@ -2399,7 +2423,9 @@ XII. En coordinación con los Consejos Municipales del Instituto, entregar a los
 
 XIII. Recibir los paquetes electorales con expedientes de casilla y documentación adjunta, relativos a las elecciones de Gobernador y diputados;
 
-XIV. Hacer el cómputo distrital de la elección de Gobernador y enviar el respectivo paquete de cómputo a la Sala Electoral del Tribunal Superior de Justicia del Estado;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+XIV. Hacer el cómputo distrital de la elección de Gobernador y enviar el respectivo paquete de cómputo al Tribunal Electoral del Poder Judicial del Estado;
 
 XV. Hacer el cómputo distrital y la declaración de validez de las elecciones de diputados por el principio de mayoría relativa y remitir la documentación electoral para resguardo del Instituto, conservando los paquetes electorales con expedientes de casilla, hasta la conclusión del proceso electoral respectivo;
 
@@ -2461,7 +2487,9 @@ III. Realizar la difusión inmediata al interior del mismo y públicamente, de l
 
 IV. Proveer lo necesario para la custodia de los paquetes electorales con expedientes de casilla y de cómputo depositados en el Consejo Distrital de acuerdo con lo dispuesto en este Código;
 
-V. Integrar los expedientes con las actas del cómputo de la elección de Gobernador y diputados para presentarlos oportunamente a la Sala Electoral del Tribunal Superior de Justicia y al Consejo General, respectivamente;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+V. Integrar los expedientes con las actas del cómputo de la elección de Gobernador y diputados para presentarlos oportunamente al Tribunal Electoral del Poder Judicial del Estado y al Consejo General, respectivamente;
 
 VI. Tramitar los medios de impugnación que deban ser resueltos por el Consejo General; o, en su caso, los que se interpongan contra los actos o resoluciones del Consejo Distrital;
 
@@ -2859,13 +2887,17 @@ d) La declaración de validez de las elecciones y expedición de las constancias
 
 e) La expedición de las constancias de asignación, en el caso de los Consejos Municipales del Instituto;
 
-f) La recepción de los medios de impugnación que se interpongan y su remisión, con el informe y la documentación correspondiente, a la Sala Electoral del Tribunal Superior Justicia;
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+f) La recepción de los medios de impugnación que se interpongan y su remisión, con el informe y la documentación correspondiente, al Tribunal Electoral del Poder Judicial del Estado;
 
 g) La remisión de los paquetes de cómputo y la documentación electoral al órgano que corresponda, según la elección de que se trate; y
 
 h) El informe general de la elección, con la documentación correspondiente, al Secretario Ejecutivo del Instituto;
 
-III. En la Sala Electoral del Tribunal Superior de Justicia:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
+III. En el Tribunal Electoral del Poder Judicial del Estado:
 
 a) La substanciación y resolución, en forma definitiva, de los recursos de inconformidad en los casos legalmente previstos; y
 
@@ -2953,7 +2985,7 @@ V. Cualquier solicitud de registro de candidatura presentada fuera de los plazos
 
 (NOTA: EL 24 DE SEPTIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO SEGUNDO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 7/2009 Y SUS ACUMULADAS 8/2009 Y 9/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-VI. EL TERCER DÍA SIGUIENTE A AQUEL EN QUE VENZAN LOS PLAZOS PARA EL REGISTRO DE CANDIDATOS PARA GOBERNADOR Y DIPUTADOS A QUE SE REFIERE EL ARTÍCULO 184 DE ESTE CÓDIGO, el Consejo General o los Consejos Distritales correspondientes celebrarán una sesión cuyo único objeto será registrar las candidaturas que procedan. En el caso de Ayuntamientos, la SESIÓN QUE celebrarán los Consejos General o Municipales, SE EFECTUARÁ EL QUINTO DÍA SIGUIENTE AL PLAZO SEÑALADO EN EL NUMERAL ANTES REFERIDO;
+VI. EL TERCER DÍA SIGUIENTE A AQUEL EN QUE VENZAN LOS PLAZOS PARA EL REGISTRO DE CANDIDATOS PARA GOBERNADOR Y DIPUTADOS A QUE SE REFIERE EL ARTÍCULO 184 DE ESTE CÓDIGO, el Consejo General o los Consejos Distritales correspondientes celebrarán una sesión cuyo único objeto será registrar las candidaturas que procedan. En el caso de Ayuntamientos, la SESIÓN QUE celebrarán los Consejos General o Municipales, SE EFECTUARÁ EL QUINTO DÍA SIGUIENTE AL PLAZO SEÑALADO EN EL NUMERAL ANTES REFERIDO.
 
 VII. La negativa de registro podrá ser impugnada mediante el recurso correspondiente, interpuesto por el representante del partido o coalición interesados; y
 
@@ -3657,9 +3689,11 @@ IV. Una vez realizado lo anterior, se procederá de inmediato a la captura de ta
 
 V. Una vez recibidos la totalidad de los paquetes electorales con expedientes de casilla y dados a conocer los resultados preliminares, el secretario los fijará en el exterior del local de las oficinas de los consejos distritales y municipales, con el objeto de que la ciudadanía pueda tener conocimiento de éstos.
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 233.
 
-En la elección de Gobernador, los consejos distritales remitirán las actas de cómputo distrital y demás documentación relativa a la Sala Electoral del Tribunal Superior de Justicia, para los efectos del cómputo estatal y la declaración de validez de la elección y de Gobernador Electo.
+En la elección de Gobernador, los consejos distritales remitirán las actas de cómputo distrital y demás documentación relativa al Tribunal Electoral del Poder Judicial del Estado, para los efectos del cómputo estatal y la declaración de validez de la elección y de Gobernador Electo.
 
 ### CAPÍTULO V. Disposiciones Complementarias
 
@@ -3763,7 +3797,9 @@ I. Se examinarán los paquetes de casilla recibidos, separando los que tengan vi
 
 II. Se abrirán los expedientes contenidos en los paquetes electorales con expediente de casilla que no muestren alteración y, siguiendo el orden numérico de las casillas, se cotejarán los resultados contenidos en el acta de escrutinio y cómputo extraída de dicho expediente con la que haya recibido el presidente del consejo respectivo dentro del sobre correspondiente. Cuando los resultados de ambas actas coincidan, se tomará nota de ellos.
 
-Durante la apertura de paquetes electorales, el presidente o el secretario del consejo respectivo extraerá: los escritos de protesta, si los hubiere; la lista nominal correspondiente; la relación de ciudadanos que votaron y no aparecen en la lista nominal, así como las hojas de incidentes. La documentación así obtenida, deberá ordenarse conforme a la numeración de las casillas. Las carpetas con dicha documentación quedarán bajo resguardo del presidente del consejo, para atender los requerimientos que llegare a presentar la Sala Electoral del Tribunal Superior de Justicia del Estado o, en su caso, el Tribunal Electoral del Poder Judicial de la Federación;
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+Durante la apertura de paquetes electorales, el presidente o el secretario del Consejo respectivo extraerá: los escritos de protesta, si los hubiere; la lista nominal correspondiente; la relación de ciudadanos que votaron y no aparecen en la lista nominal, así como las hojas de incidentes. La documentación así obtenida, deberá ordenarse conforme a la numeración de las casillas. Las carpetas con dicha documentación quedarán bajo resguardo del presidente del Consejo, para atender los requerimientos que llegare a presentar el Tribunal Electoral del Poder Judicial del Estado o, en su caso, el Tribunal Electoral del Poder Judicial de la Federación;
 
 III. Cuando los resultados de las actas no coincidan o no exista acta de escrutinio y cómputo en el expediente respectivo ni en el del poder del presidente del consejo, se abrirá el paquete de casilla y se practicará el escrutinio y cómputo correspondiente, levantándose el acta individual de la casilla. Los resultados obtenidos formarán parte del cómputo;
 
@@ -3791,17 +3827,19 @@ d) El vocal o secretario del consejo que presida cada grupo levantará un acta c
 
 e) El presidente del consejo realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta de cómputo distrital o municipal de la elección de que se trate, la cual será firmada por todos los integrantes del consejo respectivo;
 
-(NOTA: EL 24 DE SEPTIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO NOVENO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 7/2009 Y SUS ACUMULADAS 8/2009 Y 9/2009, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X INCISO F) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
 
-F) LOS ERRORES CONTENIDOS EN LAS ACTAS ORIGINALES DE ESCRUTINIO Y CÓMPUTO DE CASILLA QUE SEAN CORREGIDOS POR LOS CONSEJOS RESPECTIVOS SIGUIENDO EL PROCEDIMIENTO ESTABLECIDO EN ESTE ARTÍCULO, NO PODRÁN INVOCARSE COMO CAUSA DE NULIDAD ANTE LA SALA ELECTORAL DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO O, EN SU CASO, ANTE EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN; Y
+f) Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los consejos respectivos siguiendo el procedimiento establecido en este artículo, no podrán invocarse como causa de nulidad ante el Tribunal Electoral del Poder Judicial del Estado o, en su caso, ante el Tribunal Electoral del Poder Judicial de la Federación; y
 
-(NOTA: EL 24 DE SEPTIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO NOVENO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 7/2009 Y SUS ACUMULADAS 8/2009 Y 9/2009, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X INCISO G) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
 
-G) EN NINGÚN CASO PODRÁ SOLICITARSE A LA SALA ELECTORAL DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO O, EN SU CASO, AL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE REALICE RECUENTO DE VOTOS RESPECTO DE LAS CASILLAS QUE HAYAN SIDO OBJETO DE DICHO PROCEDIMIENTO EN LOS CONSEJOS RESPECTIVOS.
+g) En ningún caso podrá solicitarse al Tribunal Electoral del Poder Judicial del Estado o, en su caso, al Tribunal Electoral del Poder Judicial de la Federación, que realice recuento de votos respecto de las casillas que hayan sido objeto de dicho procedimiento en los consejos respectivos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
 
 ###### Artículo 245.
 
-El presidente y secretario del consejo integrarán el paquete del cómputo respectivo, que estará formado por las actas de escrutinio y cómputo de las casillas, el acta de cómputo de la elección, el acta circunstanciada de la sesión de cómputo y, en su caso, copia de la documentación remitida a la Sala Electoral del Tribunal Superior de Justicia del Estado.
+El presidente y secretario del Consejo integrarán el paquete del cómputo respectivo, que estará formado por las actas de escrutinio y cómputo de las casillas, el acta de cómputo de la elección, el acta circunstanciada de la sesión de cómputo y, en su caso, copia de la documentación remitida al Tribunal Electoral del Poder Judicial del Estado.
 
 El paquete de cómputo se remitirá al órgano que corresponda, de acuerdo con lo dispuesto por este Código.
 
@@ -3893,7 +3931,9 @@ III. En el caso de la votación de Gobernador:
 
 a) La suma de los resultados obtenidos después de realizar las operaciones que señalan las fracciones I, II, III y IV del artículo 244 de este Código, constituirá el cómputo distrital de la elección de Gobernador; y
 
-b) Firmada el acta de cómputo correspondiente a esta elección, se integrará el paquete del cómputo distrital y se remitirá a la Sala Electoral del Tribunal Superior de Justicia.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+b) Firmada el acta de cómputo correspondiente a esta elección, se integrará el paquete del cómputo distrital y se remitirá al Tribunal Electoral del Poder Judicial del Estado.
 
 #### SECCIÓN TERCERA. De los Resultados del Cómputo en la Circunscripción Plurinominal
 
@@ -3927,17 +3967,21 @@ X. La asignación de diputaciones por representación proporcional, se hará en 
 
 En ningún caso al partido mayoritario se le asignarán más de cinco diputados por este principio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 256.
 
-La sesión del Consejo General del Instituto para efectuar el cómputo de la circunscripción y la asignación de diputados electos según el principio de representación proporcional, se celebrará una vez que la Sala Electoral del Tribunal Superior de Justicia haya dictado las resoluciones correspondientes a los recursos de inconformidad que se hubieren presentado.
+La sesión del Consejo General del Instituto para efectuar el cómputo de la circunscripción y la asignación de diputados electos según el principio de representación proporcional, se celebrará una vez que el Tribunal Electoral del Poder Judicial del Estado haya dictado las resoluciones correspondientes a los recursos de inconformidad que se hubieren presentado.
 
 El Consejo General del Instituto declarará la validez de la elección y expedirá las constancias de asignación de la elección de diputados por el principio de representación proporcional.
 
 #### SECCIÓN CUARTA. De los Resultados del Cómputo de la Elección de Gobernador
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 257.
 
-La Sala Electoral del Tribunal Superior de Justicia se encargará de:
+El Tribunal Electoral del Poder Judicial del Estado se encargará de:
 
 I. Hacer el cómputo estatal de los votos emitidos en la elección de Gobernador, sumando los resultados de las actas de cómputo distrital; y
 
@@ -3951,9 +3995,11 @@ El Consejo General del Instituto, a través de su presidente, mandará publicar 
 
 Para hacer la publicación, el Consejo General del Instituto tomará en cuenta las constancias expedidas por los órganos electorales competentes y, en su caso, las resoluciones emitidas por los órganos jurisdiccionales respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 259.
 
-El Consejo General del Instituto tomará en cuenta para la publicación correspondiente, asimismo, las resoluciones de la Sala Electoral del Tribunal Superior de Justicia, respecto de quienes, de acuerdo con lo dispuesto por la Constitución del Estado y por el presente ordenamiento, resulten inelegibles para el cargo al que hubiesen sido postulados en las elecciones de diputados y de ediles de Ayuntamientos.
+El Consejo General del Instituto tomará en cuenta para la publicación correspondiente, asimismo, las resoluciones del Tribunal Electoral del Poder Judicial del Estado, respecto de quienes, de acuerdo con lo dispuesto por la Constitución del Estado y por el presente ordenamiento, resulten inelegibles para el cargo al que hubiesen sido postulados en las elecciones de diputados y de ediles de Ayuntamientos.
 
 En el caso de que sea necesaria una fe erratas por errores gramaticales o de transcripción, una vez realizada la publicación antes citada, se sujetará a lo que dispone el último párrafo del artículo 187 de este Código.
 
@@ -3961,9 +4007,11 @@ En el caso de que sea necesaria una fe erratas por errores gramaticales o de tra
 
 El Consejo General del Instituto, a través de su Presidente, informará al Congreso del Estado acerca de las constancias de mayoría relativa y de asignación expedidas en las elecciones de diputados y de ediles de Ayuntamientos, en el término establecido en el artículo 258 de este Código.
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 261.
 
-La Sala Electoral del Tribunal Superior de Justicia ordenará, en su caso, la publicación en la Gaceta Oficial de la declaratoria de Gobernador electo.
+El Tribunal Electoral del Poder Judicial del Estado ordenará, en su caso, la publicación en la Gaceta Oficial de la declaratoria de Gobernador electo.
 
 # LIBRO QUINTO. Del Sistema de Medios de Impugnación y las Nulidades
 
@@ -4019,9 +4067,11 @@ Los motivos para interponer este recurso en los casos señalados por las fraccio
 
 Es competente para resolver los recursos de revisión, el Consejo General, respecto a los interpuestos contra los actos o resoluciones de los consejos distritales o municipales del Instituto.
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 268.
 
-La Sala Electoral del Tribunal Superior de Justicia será competente para conocer de los recursos de apelación, inconformidad y juicio para la protección de los derechos político-electorales del ciudadano. La Sala Electoral deberá contar con una página electrónica mediante la cual se publiciten los medios de impugnación recibidos y las sentencias recaídas a los mismos.
+El Tribunal Electoral del Poder Judicial del Estado será competente para conocer de los recursos de apelación, inconformidad y juicio para la protección de los derechos político-electorales del ciudadano. El Tribunal Electoral deberá contar con una página electrónica mediante la cual se publiciten los medios de impugnación recibidos y las sentencias recaídas a los mismos.
 
 ### CAPÍTULO III. De las Partes
 
@@ -4107,13 +4157,17 @@ c) Especificarse lo que pretenda acreditarse con la misma; y
 
 d) Señalar el nombre del perito que se proponga y exhibir su acreditación técnica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 274.
 
-Los medios de prueba aceptados y admitidos serán valorados por los organismos electorales y la Sala Electoral del Tribunal Superior de Justicia, atendiendo a los principios de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las reglas especiales señaladas en este artículo.
+Los medios de prueba aceptados y admitidos serán valorados por los organismos electorales y el Tribunal Electoral del Poder Judicial del Estado, atendiendo a los principios de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las reglas especiales señaladas en este artículo.
 
 Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario, respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
 
-Las documentales privadas, las técnicas, las periciales, las presuncionales y la instrumental de actuaciones sólo harán prueba plena cuando, a juicio de los órganos competentes y de la Sala Electoral del Tribunal Superior de Justicia, los demás elementos que obren en el expediente, los hechos afirmados, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+Las documentales privadas, las técnicas, las periciales, las presuncionales y la instrumental de actuaciones sólo harán prueba plena cuando, a juicio de los órganos competentes y del Tribunal Electoral del Poder Judicial del Estado, los demás elementos que obren en el expediente, los hechos afirmados, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
 
 ###### Artículo 275.
 
@@ -4145,7 +4199,9 @@ g) Se aportarán las pruebas, junto con el escrito, con mención de las que habr
 
 h) Se hará constar el nombre y la firma autógrafa del promovente;
 
-I (SIC). En el caso del recurso de inconformidad deberán cumplirse, además, los requisitos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
+II. En el caso del recurso de inconformidad deberán cumplirse, además, los requisitos siguientes:
 
 a) Mencionar la elección que se impugna, señalando expresamente si se objeta el cómputo, la declaración de validez de la elección y, por consecuencia, en su caso, el otorgamiento de las constancias respectivas. En ningún caso podrá impugnarse más de una elección con el mismo recurso;
 
@@ -4157,25 +4213,35 @@ d) Relacionar, en su caso, el recurso que se interpone con cualquier otra impugn
 
 En el recurso de inconformidad, cuando se impugne el resultado de una asignación de diputaciones por el principio de representación proporcional, además de los requisitos antes señalados, se deberá indicar claramente el presupuesto y los razonamientos por los que se afirme que debe modificarse el resultado de la elección.
 
-La Sala Electoral podrá realizar notificaciones electrónicas de las resoluciones, cuando las partes así lo soliciten. Éstas deberán manifestar expresamente su voluntad de ser notificados por esta vía y proporcionar dirección de correo electrónico que cuente con mecanismos de confirmación de las notificaciones que reciba.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+El Tribunal Electoral podrá realizar notificaciones electrónicas de las resoluciones, cuando las partes así lo soliciten. Éstas deberán manifestar expresamente su voluntad de ser notificados por esta vía y proporcionar dirección de correo electrónico que cuente con mecanismos de confirmación de las notificaciones que reciba.
 
 ###### Artículo 277.
 
 En los casos de omisión de requisitos de la interposición de cualquiera de los medios de impugnación, se procederá de la manera siguiente:
 
-I. Cuando se omita alguno de los señalados en los incisos c), d) y e) de la fracción I del artículo anterior, o en los incisos a), b) y c) de su fracción II, el secretario del organismo electoral competente o de la Sala Electoral del Tribunal Superior de Justicia, según sea el caso, dará cuenta al órgano colegiado correspondiente, a fin de que requiera por estrados al promovente para que los cumpla en un plazo de cuarenta y ocho horas, contadas a partir de que se fije en los estrados dicho requerimiento, apercibiéndolo que de no hacerlo se tendrá por no interpuesto el medio de impugnación;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+I. Cuando se omita alguno de los señalados en los incisos c), d) y e) de la fracción I del artículo anterior, o en los incisos a), b) y c) de su fracción II, el secretario del organismo electoral competente o del Tribunal Electoral del Poder Judicial del Estado, según sea el caso, dará cuenta al órgano colegiado correspondiente, a fin de que requiera por estrados al promovente para que los cumpla en un plazo de cuarenta y ocho horas, contadas a partir de que se fije en los estrados dicho requerimiento, apercibiéndolo que de no hacerlo se tendrá por no interpuesto el medio de impugnación;
 
 II. Cuando se omita el requisito señalado en el inciso g) de la fracción I del artículo anterior, se aplicará la misma regla, salvo cuando no se haya ofrecido ni aportado prueba alguna y se esté en el caso de que el medio de impugnación verse sobre puntos de derecho;
 
-III. Cuando el recurrente omita señalar en su escrito los preceptos legales presuntamente violados o los cite de manera equivocada, el organismo electoral competente o la Sala Electoral del Tribunal Superior de Justicia, en su caso, podrá resolver el medio de impugnación tomando en consideración los preceptos legales que debieron ser invocados o los que resulten aplicables al caso concreto; y
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
 
-IV. Cuando exista deficiencia en la argumentación de los agravios, pero estos puedan ser deducidos claramente de los hechos expuestos en el recurso, el órgano competente o la Sala Electoral del Tribunal Superior de Justicia, en su caso, no lo desechará y resolverá con los elementos que obren en el expediente.
+III. Cuando el recurrente omita señalar en su escrito los preceptos legales presuntamente violados o los cite de manera equivocada, el organismo electoral competente o el Tribunal Electoral del Poder Judicial del Estado, en su caso, podrá resolver el medio de impugnación tomando en consideración los preceptos legales que debieron ser invocados o los que resulten aplicables al caso concreto; y
+
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+IV. Cuando exista deficiencia en la argumentación de los agravios, pero éstos puedan ser deducidos claramente de los hechos expuestos en el recurso, el órgano competente o el Tribunal Electoral del Poder Judicial del Estado, en su caso, no lo desechará y resolverá con los elementos que obren en el expediente.
 
 ###### Artículo 278.
 
 Los medios de impugnación se interpondrán ante el organismo electoral que realizó el acto o emitió la resolución, dentro de los plazos señalados por este Código.
 
-Cuando se trate de impugnar la resolución del Consejo General respecto de los informes sobre gastos de campaña o las cuentas presentadas por los partidos políticos, el recurso de apelación se interpondrá ante el propio Consejo y se sujetará, para su tramitación, substanciación y resolución, a las normas establecidas en este Título. El secretario del Consejo podrá solicitar los datos o documentos necesarios para rendir informe circunstanciado o para remitir la documentación requerida por la Sala Electoral del Tribunal Superior de Justicia.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+Cuando se trate de impugnar la resolución del Consejo General respecto de los informes sobre gastos de campaña o las cuentas presentadas por los partidos políticos, el recurso de apelación se interpondrá ante el propio Consejo y se sujetará, para su tramitación, substanciación y resolución, a las normas establecidas en este Título. El secretario del Consejo podrá solicitar los datos o documentos necesarios para rendir informe circunstanciado o para remitir la documentación requerida por el Tribunal Electoral del Poder Judicial del Estado.
 
 ###### Artículo 279.
 
@@ -4199,9 +4265,11 @@ IV. Aportar las pruebas junto con el escrito, y ofrecer las que deban requerirse
 
 V. Hacer constar el nombre y firma autógrafa del promovente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 281.
 
-Una vez cumplido el plazo a que se refiere el párrafo segundo del artículo anterior, el organismo electoral que reciba un medio de impugnación deberá hacer llegar al órgano competente o a la Sala Electoral del Tribunal Superior de Justicia, según corresponda, dentro de las cuarenta y ocho horas siguientes:
+Una vez cumplido el plazo a que se refiere el párrafo segundo del artículo anterior, el organismo electoral que reciba un medio de impugnación deberá hacer llegar al órgano competente o al Tribunal Electoral del Poder Judicial del Estado, según corresponda, dentro de las cuarenta y ocho horas siguientes:
 
 I. El escrito mediante el cual se interpone;
 
@@ -4227,19 +4295,27 @@ Si el organismo electoral remitente omitió algún requisito, se requerirá la c
 
 Los recursos de revisión deberán resolverse con los elementos que se cuente a más tardar en la segunda sesión posterior a la recepción del recurso.
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 283.
 
-Una vez recibido el expediente que contiene un recurso de apelación por la Sala Electoral del Tribunal Superior de Justicia, se seguirá en lo conducente el procedimiento señalado en el artículo anterior, de la misma forma se procederá para el caso del juicio para la protección de los derechos político-electorales del ciudadano. Se substanciará el medio de impugnación integrándose el expediente y se turnará al Magistrado ponente para que se pronuncie la resolución correspondiente.
+Una vez recibido el expediente que contiene un recurso de apelación por el Tribunal Electoral del Poder Judicial del Estado, se seguirá en lo conducente el procedimiento señalado en el artículo anterior, de la misma forma se procederá para el caso del juicio para la protección de los derechos político-electorales del ciudadano. Se substanciará el medio de impugnación integrándose el expediente y se turnará al Magistrado ponente para que se pronuncie la resolución correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
 
 ###### Artículo 284.
 
-Una vez recibido el expediente que contiene el recurso de inconformidad, la Sala Electoral del Tribunal Superior de Justicia revisará que reúna todos los requisitos señalados en el presente Libro y se procederá de acuerdo con lo dispuesto para el recurso de revisión.
+Una vez recibido el expediente que contiene el recurso de inconformidad, el Tribunal Electoral del Poder Judicial del Estado revisará que reúna todos los requisitos señalados en el presente Libro y se procederá de acuerdo con lo dispuesto para el recurso de revisión.
 
 En los casos en que el promovente haya indicado que presentará pruebas dentro del plazo de interposición del recurso, se reservará la admisión del mismo hasta la presentación de las señaladas o al vencimiento del plazo.
 
-Si el recurso reúne todos los requisitos, se dictará el auto de admisión correspondiente, ordenándose se fije copia del mismo en los estrados de la Sala Electoral del Tribunal Superior de Justicia.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
 
-La Sala Electoral realizará todos los actos y diligencias necesarias para la substanciación de los expedientes de los recursos de inconformidad, poniéndolos en condiciones de que se formule el proyecto de resolución y se pronuncie el fallo correspondiente.
+Si el recurso reúne todos los requisitos, se dictará el auto de admisión correspondiente, ordenándose se fije copia del mismo en los estrados del Tribunal Electoral de Poder Judicial del Estado.
+
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+El Tribunal Electoral realizará todos los actos y diligencias necesarias para la substanciación de los expedientes de los recursos de inconformidad, poniéndolos en condiciones de que se formule el proyecto de resolución y se pronuncie el fallo correspondiente.
 
 ###### Artículo 285.
 
@@ -4247,35 +4323,49 @@ Para el recurso de inconformidad, cuando se impugne la asignación de diputacion
 
 I. Que se hayan otorgado indebidamente constancias de asignación de esta elección; o
 
-II. Que la asignación de diputados por el principio de representación proporcional resulte afectada por las resoluciones que, en su caso, hubiere dictado la Sala Electoral del Tribunal Superior de Justicia, o que se haya aplicado erróneamente la fórmula que para tal efecto establece este Código.
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+II. Que la asignación de diputados por el principio de representación proporcional resulte afectada por las resoluciones que, en su caso, hubiere dictado el Tribunal Electoral del Poder Judicial del Estado, o que se haya aplicado erróneamente la fórmula que para tal efecto establece este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
 
 ###### Artículo 286.
 
-En la sesión de resolución de la Sala Electoral del Tribunal Superior de Justicia, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
+En la sesión de resolución del Tribunal Electoral del Poder Judicial del Estado, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
 
 I. El Magistrado ponente presentará el caso y el sentido de su resolución, señalando las consideraciones jurídicas y los preceptos legales en que se funda;
 
 II. Los Magistrados podrán discutir el proyecto en turno;
 
-III. Cuando el Presidente de la Sala Electoral del Tribunal Superior de Justicia lo considere suficientemente discutido, lo someterá a votación;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+III. Cuando el Presidente del Tribunal Electoral del Poder Judicial del Estado lo considere suficientemente discutido, lo someterá a votación;
 
 IV. Los Magistrados podrán formular voto particular, el cual se glosará en la misma resolución;
 
 V. La lista de asuntos que serán resueltos en cada sesión será fijada en los estrados respectivos y en la página electrónica correspondiente, por lo menos con veinticuatro horas de anticipación; y
 
-VI. En casos extraordinarios, la Sala Electoral podrá diferir la resolución de un asunto listado.
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+VI. En casos extraordinarios, el Tribunal Electoral podrá diferir la resolución de un asunto listado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
 
 ###### Artículo 287.
 
-La Sala Electoral podrá requerir a los diversos organismos electorales, así como a las autoridades estatales o municipales, cualquier informe o documento que, obrando en su poder, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+El Tribunal Electoral podrá requerir a los diversos organismos electorales, así como a las autoridades estatales o municipales, cualquier informe o documento que, obrando en su poder, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
 
 Las autoridades deberán proporcionar oportunamente los informes o documentos a que se refiere el párrafo anterior.
 
-En casos extraordinarios, la Sala Electoral podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre y cuando ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+En casos extraordinarios, el Tribunal Electoral podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre y cuando ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
 
 ###### Artículo 288.
 
-Para hacer cumplir sus determinaciones y mantener el buen orden o exigir que se guarde el respeto y la consideración debidos en sus sesiones, el Pleno de la Sala Electoral del Tribunal Superior de Justicia podrá hacer uso discrecionalmente de los medios de apremio y correcciones disciplinarias siguientes:
+Para hacer cumplir sus determinaciones y mantener el buen orden o exigir que se guarde el respeto y la consideración debidos en sus sesiones, el Tribunal Electoral del Poder Judicial del Estado podrá hacer uso discrecionalmente de los medios de apremio y correcciones disciplinarias siguientes:
 
 I. Apercibimiento;
 
@@ -4285,7 +4375,9 @@ III. Multa hasta por cien veces el salario mínimo vigente en la capital del Est
 
 IV. Auxilio de la fuerza pública.
 
-Los medios de apremio serán ejecutados por el Presidente de la Sala Electoral.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+Los medios de apremio serán ejecutados por el Presidente del Tribunal Electoral.
 
 ### CAPÍTULO VIII. De la Acumulación
 
@@ -4297,9 +4389,11 @@ También podrán acumularse los expedientes de medios de impugnación interpuest
 
 ### CAPÍTULO IX. De la Improcedencia y del Sobreseimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 290.
 
-Cuando un medio de impugnación se considere notoriamente frívolo o su improcedencia se derive de las disposiciones de este Código, el secretario del organismo electoral correspondiente o el secretario de la Sala Electoral, según el caso, dará cuenta al Pleno de la Sala Electoral del Tribunal para que resuelvan lo conducente.
+Cuando un medio de impugnación se considere notoriamente frívolo o su improcedencia se derive de las disposiciones de este Código, el secretario del organismo electoral correspondiente o el secretario del Tribunal Electoral, según el caso, dará cuenta al Pleno del Tribunal Electoral del Poder Judicial del Estado, para que resuelvan lo conducente.
 
 En los casos de medios de impugnación notoriamente frívolos, se podrá imponer una multa al promovente, en los términos del Título relativo de este Código.
 
@@ -4331,15 +4425,21 @@ II. Cuando durante el procedimiento aparezca o sobrevenga alguna causal de impro
 
 ### CAPÍTULO X. De las Resoluciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 293.
 
-Los recursos de revisión deberán ser resueltos por el Consejo General del Instituto a más tardar en la segunda sesión que celebre después de su admisión, salvo cuando el recurso de revisión hubiese sido interpuesto dentro de los cinco días anteriores a la fecha de la jornada electoral de que se trate, siendo en este último caso enviado a la Sala Electoral del Tribunal Superior de Justicia, a fin de que sea resuelto junto con el recurso de inconformidad con el que guarde relación.
+Los recursos de revisión deberán ser resueltos por el Consejo General del Instituto a más tardar en la segunda sesión que celebre después de su admisión, salvo cuando el recurso de revisión hubiese sido interpuesto dentro de los cinco días anteriores a la fecha de la jornada electoral de que se trate, siendo en este último caso enviado al Tribunal Electoral del Poder Judicial del Estado, a fin de que sea resuelto junto con el recurso de inconformidad con el que guarde relación.
 
 Cuando los recursos de revisión que se presenten cinco días antes de la fecha de la jornada electoral de que se trate, no guarden relación con uno de inconformidad, se declarará la improcedencia del recurso y se ordenará su archivo.
 
-Los recursos de apelación serán resueltos por la Sala Electoral dentro de los cinco días siguientes a aquel en que se admitan.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
 
-Los recursos de inconformidad que se presenten en contra de los cómputos distritales o municipales en las elecciones de diputados o de integrantes de Ayuntamientos serán resueltos por la propia Sala, a más tardar quince días antes de que concluya el proceso electoral respectivo y, en el caso del recurso que se interponga en contra del cómputo de circunscripción plurinominal, la Sala deberá resolver a más tardar cinco días antes de la conclusión del proceso.
+Los recursos de apelación serán resueltos por el Tribunal Electoral dentro de los cinco días siguientes a aquel en que se admitan.
+
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+Los recursos de inconformidad que se presenten en contra de los cómputos distritales o municipales en las elecciones de diputados o de integrantes de Ayuntamientos serán resueltos por el propio Tribunal Electoral, a más tardar quince días antes de que concluya el proceso electoral respectivo y, en el caso del recurso que se interponga en contra del cómputo de circunscripción plurinominal, el Tribunal deberá resolver a más tardar cinco días antes de la conclusión del proceso.
 
 ###### Artículo 294.
 
@@ -4349,7 +4449,9 @@ I. La fecha, lugar y autoridad que la dicte;
 
 II. El resumen de los hechos o puntos de derecho controvertidos;
 
-III. El examen y la valoración de las pruebas documentales ofrecidas, aportadas y admitidas, y en su caso, las ordenadas por la Sala Electoral del Tribunal Superior de Justicia;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+III. El examen y la valoración de las pruebas documentales ofrecidas, aportadas y admitidas, y en su caso, las ordenadas por el Tribunal Electoral del Poder Judicial del Estado;
 
 IV. El análisis de los agravios señalados;
 
@@ -4363,9 +4465,11 @@ VII. En su caso, el plazo para su cumplimiento.
 
 Las resoluciones que recaigan a los recursos de revisión, apelación y el juicio para la protección de los derechos político-electorales, tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 296.
 
-Las resoluciones de fondo de la Sala Electoral del Tribunal Superior de Justicia que recaigan a los recursos de inconformidad, podrán tener uno o varios de los siguientes efectos:
+Las resoluciones de fondo del Tribunal Electoral del Poder Judicial del Estado que recaigan a los recursos de inconformidad, podrán tener uno o varios de los siguientes efectos:
 
 I. Confirmar el acto o resolución impugnado;
 
@@ -4379,17 +4483,23 @@ V. Declarar la nulidad de la elección y revocar las constancias expedidas por l
 
 VI. Hacer la corrección de los cómputos cuando sean impugnados por error aritmético.
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 297.
 
-Cuando por efecto de la acumulación de las resoluciones de los distintos recursos de inconformidad, se actualicen los supuestos de nulidad contemplados en esta Ley, la Sala Electoral decretará lo conducente, aun cuando no se haya solicitado en ninguno de los recursos resueltos individualmente.
+Cuando por efecto de la acumulación de las resoluciones de los distintos recursos de inconformidad, se actualicen los supuestos de nulidad contemplados en esta Ley, el Tribunal Electoral decretará lo conducente, aun cuando no se haya solicitado en ninguno de los recursos resueltos individualmente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
 
 ###### Artículo 298.
 
-Los criterios fijados por la Sala Electoral del Tribunal Superior de Justicia serán obligatorios para las autoridades electorales, cuando se sustenten en cinco resoluciones consecutivas en el mismo sentido.
+Los criterios fijados por el Tribunal Electoral del Poder Judicial del Estado serán obligatorios para las autoridades electorales, cuando se sustenten en cinco resoluciones consecutivas en el mismo sentido.
 
 La contradicción de criterios podrá ser planteada por las partes y en cualquier momento. El que prevalezca deberá observarse a partir de que se dicte, sin que puedan modificarse los efectos de las resoluciones pronunciadas con anterioridad.
 
-La Sala Electoral del Tribunal hará la publicación de los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+El Tribunal Electoral del Tribunal hará la publicación de los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales.
 
 ### CAPÍTULO XI. De las Notificaciones
 
@@ -4397,7 +4507,9 @@ La Sala Electoral del Tribunal hará la publicación de los criterios obligatori
 
 Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado, por telegrama o por correo electrónico, según se requiera para la eficacia del acto o resolución a notificar, salvo disposición expresa en este Código.
 
-Los estrados son los lugares en las oficinas de los organismos electorales y de la Sala Electoral del Tribunal Superior de Justicia que estarán destinados a colocar, para su notificación, copias del escrito de interposición del medio de impugnación, así como de los acuerdos o resoluciones que les recaigan.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
+Los estrados son los lugares en las oficinas de los organismos electorales y del Tribunal Electoral del Poder Judicial del Estado que estarán destinados a colocar, para su notificación, copias del escrito de interposición del medio de impugnación, así como de los acuerdos o resoluciones que les recaigan.
 
 La notificación por correo electrónico surtirá efectos a partir de que se tenga constancia de la recepción de la misma o, en su caso, se cuente con el acuse de recibo correspondiente.
 
@@ -4421,13 +4533,17 @@ II. Al órgano electoral cuyo acto o resolución fue impugnado, se les hará por
 
 III. A los terceros interesados, por correo certificado, por telegrama o personalmente.
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 303.
 
-Las resoluciones de la Sala Electoral del Tribunal Superior de Justicia recaídas en los recursos de apelación y del juicio para la protección de los derechos político electorales del ciudadano serán notificadas al Consejo General, a quien haya interpuesto el medio de impugnación y, en su caso, a los terceros interesados, por correo certificado, por telegrama o personalmente, a más tardar el día siguiente de que se pronuncien. Al Consejo General y al ciudadano promovente se enviará, junto con la notificación, copia de la resolución.
+Las resoluciones del Tribunal Electoral del Poder Judicial del Estado recaídas en los recursos de apelación y del juicio para la protección de los derechos político electorales del ciudadano serán notificadas al Consejo General, a quien haya interpuesto el medio de impugnación y, en su caso, a los terceros interesados, por correo certificado, por telegrama o personalmente, a más tardar al día siguiente de que se pronuncien. Al Consejo General y al ciudadano promovente se enviará, junto con la notificación, copia de la resolución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
 
 ###### Artículo 304.
 
-Las resoluciones la Sala Electoral del Tribunal Superior de Justicia recaídas a los recursos de inconformidad serán notificadas:
+Las resoluciones del Tribunal Electoral del Poder Judicial del Estado recaídas a los recursos de inconformidad serán notificadas:
 
 I. Al partido que interpuso el recurso y al tercero interesado, personalmente, dentro de las cuarenta y ocho horas siguientes de dictada la resolución, siempre y cuando hayan señalado domicilio. En caso contrario, la notificación se hará por estrados;
 
@@ -4435,9 +4551,11 @@ II. Al Consejo General la notificación se le hará por escrito, acompañado de 
 
 III. Las resoluciones de los órganos electorales se podrán notificar a cualquier hora.
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 305.
 
-Los actos o resoluciones de las autoridades electorales que no requieran de notificación personal, podrán hacerse públicos a través de la Gaceta Oficial del Estado o, según el caso, mediante la fijación de cédulas en los estrados de los organismos electorales o de la Sala Electoral del Tribunal Superior de Justicia. La notificación así realizada surtirá sus efectos al día siguiente de su publicación.
+Los actos o resoluciones de las autoridades electorales que no requieran de notificación personal, podrán hacerse públicos a través de la Gaceta Oficial del estado o, según el caso, mediante la fijación de cédulas en los estrados de los organismos electorales o del Tribunal Electoral del Poder Judicial del Estado. La notificación así realizada surtirá sus efectos al día siguiente de su publicación.
 
 ## TÍTULO SEGUNDO. De las Nulidades
 
@@ -4485,9 +4603,11 @@ III. Cuando el candidato a Gobernador, los integrantes de la fórmula de candida
 
 IV. En el caso de utilización en actividades o actos de campaña de recursos provenientes de actividades ilícitas; lo anterior sin perjuicio de otras responsabilidades legales en las que incurran quienes aparezcan como responsables.
 
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 309.
 
-La Sala Electoral del Tribunal Superior de Justicia del Estado podrá declarar la nulidad de una elección cuando se hayan cometido, en forma generalizada, violaciones sustanciales durante la jornada electoral, en un municipio, distrito o en el Estado, según corresponda.
+El Tribunal Electoral del Poder Judicial del Estado podrá declarar la nulidad de una elección cuando se hayan cometido, en forma generalizada, violaciones sustanciales durante la jornada electoral, en un municipio, distrito o en el Estado, según corresponda.
 
 ###### Artículo 310.
 
@@ -4499,9 +4619,11 @@ Ningún partido o coalición podrá invocar causales de nulidad, hechos o circun
 
 ### CAPÍTULO II. De los Efectos de la Declaración de Nulidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 312.
 
-Los efectos de las nulidades decretadas por la Sala Electoral del Tribunal Superior de Justicia respecto de la votación emitida en una casilla, se limitan a la elección para la que expresamente se haya hecho valer el recurso.
+Los efectos de las nulidades decretadas por el Tribunal Electoral del Poder Judicial del Estado respecto de la votación emitida en una casilla, se limitan a la elección para la que expresamente se haya hecho valer el recurso.
 
 Las elecciones cuyos cómputos o constancias no sean impugnadas en tiempo y forma, se considerarán válidas y definitivas.
 
@@ -4547,9 +4669,11 @@ Cuando por causa de inelegibilidad de los candidatos, las autoridades electorale
 
 El candidato agraviado podrá promover el juicio a que se refiere el presente Libro, aun cuando el partido que lo postuló recurra a la instancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 317.
 
-Es competente para resolver el juicio para la protección de los derechos político-electorales del ciudadano la Sala Electoral del Tribunal Superior de Justicia del Estado.
+Es competente para resolver el juicio para la protección de los derechos político-electorales del ciudadano el Tribunal Electoral del Poder Judicial del Estado.
 
 La sentencia que recaiga a los juicios para la protección de los derechos políticos-electorales del ciudadano deberá ser emitida a más tardar en quince días naturales, contados a partir de su recepción.
 
@@ -4559,7 +4683,9 @@ Las sentencias que resuelvan el fondo del juicio para la protección de los dere
 
 Las sentencias recaídas a los juicios para la protección de los derechos político-electorales de los ciudadanos serán notificadas:
 
-I. Al actor que promovió el juicio y, en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes al que se dictó sentencia. Se notificará de manera personal si se señaló domicilio en la sede de la Sala Electoral, que es la ciudad de Xalapa de Enríquez, Veracruz. En cualquier otro caso, la notificación se hará por correo certificado, por telegrama o por estrados; y
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+I. Al actor que promovió el juicio y, en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes al que se dictó sentencia. Se notificará de manera personal si se señaló domicilio en la sede del Tribunal Electoral, que es la ciudad de Xalapa de Enríquez, Veracruz. En cualquier otro caso, la notificación se hará por correo certificado, por telegrama o por estrados; y
 
 II. A la autoridad responsable, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, por oficio acompañado de la copia certificada de la sentencia.
 
@@ -4589,7 +4715,9 @@ c) Inhabilitación para intervenir en los términos de este Código en, al menos
 
 d) Sanción económica de doscientos a mil salarios mínimos a los ciudadanos, organizaciones y empresas que participen en el levantamiento y difusión de sondeos y encuestas electorales;
 
-V. Las resoluciones del Consejo General del Instituto podrán ser recurridas ante la Sala Electoral del Tribunal Superior de Justicia, en los términos previstos por este Código.
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+V. Las resoluciones del Consejo General del Instituto podrán ser recurridas ante el Tribunal Electoral del Poder Judicial del Estado, en los términos previstos por este Código.
 
 ###### Artículo 320.
 
@@ -4597,9 +4725,11 @@ El Consejo General del Instituto conocerá de las infracciones y violaciones que
 
 Las sanciones en estos casos podrán ser apercibimiento, amonestación, suspensión y multa de cien hasta quinientos días de salario mínimo vigente en la capital del Estado en el mes de enero del año de la elección, o remoción y destitución del cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 321.
 
-La Secretaría Ejecutiva del Instituto conocerá de las infracciones que se cometan en los casos en que las autoridades no proporcionen, en tiempo y forma, la información que les sea solicitada por los organismos electorales o por la Sala Electoral del Tribunal Superior de Justicia.
+La Secretaría Ejecutiva del Instituto conocerá de las infracciones que se cometan en los casos en que las autoridades no proporcionen, en tiempo y forma, la información que les sea solicitada por los organismos electorales o por el Tribunal Electoral del Poder Judicial del Estado.
 
 Conocida la infracción a que se refiere el párrafo anterior, la Secretaría Ejecutiva integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que proceda en los términos de la ley correspondiente.
 
@@ -4671,7 +4801,9 @@ Las sanciones referidas con anterioridad, les serán impuestas a las organizacio
 
 I. No cumplan con las obligaciones señaladas por este Código;
 
-II. Incumplan con las resoluciones o acuerdos del Consejo General o de la Sala Electoral del Tribunal Superior de Justicia;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2009)</small>
+
+II. Incumplan con las resoluciones o acuerdos del Consejo General o del Tribunal Electoral del Poder Judicial del Estado;
 
 III. Acepten donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o reciban crédito de la banca de desarrollo para el financiamiento de sus actividades, en contravención a lo dispuesto por este Código;
 
@@ -4744,3 +4876,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO</small>
+
+G.O. 31 DE JULIO DE 2009.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
