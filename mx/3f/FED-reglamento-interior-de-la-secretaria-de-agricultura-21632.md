@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-agricultura-21632"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-10"
-last_updated: "2006-11-15"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21632&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-07-09"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA, DESARROLLO RURAL, PESCA Y ALIMENTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2009.
 
 Reglamento Interior publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de julio de 2001.
 
@@ -209,7 +209,9 @@ IV. Dar cuenta al Honorable Congreso de la Unión del estado que guarden la Secr
 
 V. Refrendar, para su validez y observancia constitucional, los reglamentos, decretos, acuerdos y órdenes que expida el Presidente de los Estados Unidos Mexicanos, relativos a los asuntos competencia de la Secretaría;
 
-VI. Representar al Presidente de los Estados Unidos Mexicanos en los juicios de amparo, en los términos de los artículos 14 de la Ley Orgánica de la Administración Pública Federal y 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la propia Constitución y su Ley Reglamentaria, en los casos en que lo determine el Presidente de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+VI. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 80 del presente Reglamento;
 
 VII. Aprobar el anteproyecto del programa de presupuesto anual de egresos de la Secretaría, así como dar los lineamientos para la formulación de los correspondientes a las entidades paraestatales del Sector Coordinado;
 
@@ -493,13 +495,25 @@ VII. Autorizar la constitución, organización y funcionamiento de los organismo
 
 VIII. Establecer, consolidar y mantener actualizados los registros nacionales de organizaciones de productores agrícolas; de organismos ganaderos; de variedades vegetales; así como aquellos cuya operación competa a esta Secretaría; asimismo, autorizar los documentos objeto de inscripción en dichos registros y emitir los lineamientos que habrán de observarse en los trámites de registro y expedición de los títulos que estén previstos en la Ley; así como expedir las constancias de inscripción que obren en el Registro Nacional de la Pesca;
 
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+VIII bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+VIII ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación represente al Presidente de la República;
+
 IX. Representar legalmente a la Secretaría en toda clase de juicios en que sea parte, e intervenir en los arbitrajes y reclamaciones de carácter jurídico que puedan afectar sus intereses;
 
-X. Suscribir oficios, escritos y todas aquellas promociones que exija el trámite procesal de los juicios, incluyendo el de amparo o de cualquiera otra controversia, en representación o en ausencia del Secretario, subsecretarios, Oficial Mayor y directores generales, según corresponda, así como desahogar los trámites y asistir a las audiencias y diligencias convocadas por los órganos jurisdiccionales;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+X. Representar al Secretario, a los Subsecretarios, al Oficial Mayor y a los Directores Generales de esta Dependencia, en todos los trámites dentro de los juicios de amparo, así como suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otro juicio de carácter judicial o contencioso administrativo en los que sean parte dichos servidores públicos;
 
 XI. Interponer, con la representación de la Secretaría, los recursos que procedan en contra de las resoluciones que emita el Tribunal Federal de Justicia Fiscal y Administrativa;
 
-XII. Elaborar y proponer los informes previos y justificados que en materia de amparo deban rendir el Secretario y el Presidente de los Estados Unidos Mexicanos en los casos en los que se hubiere conferido la representación presidencial, los correspondientes a los demás servidores públicos que sean señalados como autoridades responsables; los escritos de demanda o contestación según proceda en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la Secretaría tenga carácter de tercero perjudicado en los juicios de amparo, así como formular, en general, todas las promociones y actos procesales que a dichos juicios se refieran;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+XII. Elaborar y proponer los informes previos y justificados así como promociones donde se ofrezcan pruebas, se formulen alegatos y se promuevan los incidentes y recursos que en materia de amparo deban presentar los servidores públicos de la Secretaría que no están comprendidos en la fracción X de éste artículo y que sean señalados como autoridades responsables; así como elaborar los escritos de demanda o contestación según proceda en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la Secretaría tenga carácter de tercero perjudicado en los juicios de amparo y formular, en general, todas las promociones y actos procesales que a dichos juicios se refieran;
 
 XIII. Representar al Secretario ante el Tribunal Federal de Conciliación y Arbitraje, en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; formular dictámenes, demandas de cese de sus empleados, contestación de demandas laborales, formulación y absolución de posiciones, desistimientos o allanamientos y, en general, todas aquellas promociones y actos procesales que se requieran en el curso del procedimiento;
 
@@ -2307,9 +2321,11 @@ La Secretaría y sus órganos desconcentrados proporcionarán al titular de su r
 
 ### CAPÍTULO ÚNICO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 80.
 
-El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación será suplido en sus ausencias por el Subsecretario de Agricultura, por el Subsecretario de Desarrollo Rural, por el Subsecretario de Fomento a los Agronegocios o por el Oficial Mayor, en el orden indicado. En los juicios de amparo en que deba intervenir en representación del Presidente de los Estados Unidos Mexicanos o como Titular de la Secretaría, así como en las controversias constitucionales o acciones de inconstitucionalidad, será suplido, indistintamente, por el Coordinador General Jurídico o por los servidores públicos antes señalados.
+El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación será suplido en sus ausencias por el Subsecretario de Agricultura, por el Subsecretario de Desarrollo Rural, por el Subsecretario de Fomento a los Agronegocios, por el Oficial Mayor o por el Coordinador General Jurídico en el orden indicado.
 
 ###### Artículo 81.
 
@@ -2352,3 +2368,7 @@ TERCERO.- Las referencias que contengan las disposiciones aplicables al Servicio
 CUARTO.- Las acciones que se lleven a cabo para la aplicación del presente Decreto, se sujetarán a la disponibilidad de recursos que se hayan aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente para la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y deberán sujetarse a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 QUINTO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, se deberán realizar conforme a las disposiciones aplicables y mediante movimientos compensados que no aumentarán el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 31 DE JULIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
