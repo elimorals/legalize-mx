@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-de-atencion-a-personas-24770"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2002-01-07"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DE ATENCION A PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2009.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -753,6 +753,70 @@ Será obligatorio para las instituciones públicas, privadas y sociales, proporc
 
 Ningún ordenamiento legal podrá incluir restricciones para la educación, el trabajo, la atención a la salud y la convivencia social de las personas con discapacidad.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+
+## TITULO CUARTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+
+### CAPÍTULO I. DE LA PROTECCION A LA ECONOMIA, DESCUENTOS, SUBSIDIOS Y PAGO DE SERVICIOS
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTÍCULO 94.
+
+El Instituto y diversas autoridades estatales y municipales de la administración publica de Baja California Sur, a través de sus órganos correspondientes, implementarán programas de protección a la economía de las personas con discapacidad, de tal manera que estas se vean beneficiadas al adquirir algún servicio y se encuentren debidamente informadas para hacer valer este derecho.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTÍCULO 95.
+
+El instituto promoverá la celebración de convenios con la iniciativa privada a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las personas con discapacidad.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTÍCULO 96.
+
+El instituto y las diversas autoridades estatales y municipales de las administraciones públicas de Baja California Sur, de conformidad con las disposiciones jurídicas aplicables, deberán promover e instrumentar descuentos en el pago de derechos por los servicios que otorgan, cuando el usuario de los mismos sea una persona con discapacidad. Corresponde al Ejecutivo del Estado de Baja California Sur, a través de la coordinación de programas de desarrollo social, dar a conocer dentro del primer mes de cada año el monto de los descuentos y requisitos a cubrir.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+
+### CAPÍTULO II. DE LA ATENCION PREFERENCIAL
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTÍCULO 97.
+
+Será obligación de las Secretarias y demás dependencias que integran la administración pública, así como los municipios, órganos desconcentrados y entidades paraestatales del estado de Baja California Sur, en el ámbito de sus respectivas competencias y jurisdicción, vigilar y garantizar la defensa de los derechos de las personas con discapacidad, otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTÍCULO 98.
+
+El instituto, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las personas con discapacidad, también sea proporcionada en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+
+### CAPÍTULO III. DE LA ASISTENCIA SOCIAL
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTÍCULO 99.
+
+Toda persona que tenga conocimiento de que una persona con discapacidad se encuentra en situación de riesgo o desamparo, podrá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTÍCULO 100.
+
+En todo momento las instituciones públicas, privadas y sociales, deberán garantizar y observar el total e irrestricto respeto a los derechos de las personas con discapacidad, que esta ley les consagra.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTÍCULO 101.
+
+Todas las instituciones públicas, privadas y sociales, que presten asistencia a las personas con discapacidad, deberán contar con personal que posea vocación, capacidad y conocimientos orientados a la atención de estas.
+
 TRANSITORIOS:
 
 ###### ARTÍCULO PRIMERO.
@@ -794,3 +858,9 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VICTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE JULIO DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
