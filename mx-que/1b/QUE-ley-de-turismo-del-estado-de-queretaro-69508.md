@@ -1,0 +1,668 @@
+---
+title: "LEY DE TURISMO DEL ESTADO DE QUERETARO"
+identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-69508"
+country: "mx"
+rank: "ley"
+publication_date: "2009-07-31"
+last_updated: "2009-07-31"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69508&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-que"
+scjn_id: "69508"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "55"
+reform_count: "11"
+scjn_last_update: "2023-11-24"
+issue_date: "2009-07-30"
+state: "QUE"
+---
+# LEY DE TURISMO DEL ESTADO DE QUERETARO
+
+LEY DE TURISMO DEL ESTADO DE QUERETARO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
+
+LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
+
+LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+
+CONSIDERANDO.
+
+Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
+
+LEY DE TURISMO DEL ESTADO DE QUERÉTARO
+
+### Capítulo Primero. Disposiciones generales
+
+###### Artículo 1.
+
+La presente Ley es de orden público e interés social. Tiene por objeto regular el fomento y la promoción del desarrollo de la actividad turística en el Estado de Querétaro.
+
+Las dependencias y entidades del Poder Ejecutivo del Estado y de los municipios, auxiliarán a la Secretaría de Turismo en la aplicación de las normas de esta Ley, de los reglamentos, acuerdos y programas que de ella se deriven.
+
+###### Artículo 2.
+
+El desarrollo turístico del Estado es una actividad prioritaria en los planes, programas y acciones del Poder Ejecutivo del Estado y de los municipios, en materia de desarrollo económico y social de la Entidad, de conformidad con lo siguiente:
+
+I. Se declara de interés público el aprovechamiento eficiente de los recursos turísticos del Estado, así como el turismo social, en beneficio de los grupos sociales y privados que concurren a estas actividades en los términos de la presente Ley;
+
+II. El aprovechamiento eficiente de los recursos turísticos del Estado, se realizará con estricto respeto a las normas federales y estatales en materia de salvaguarda del equilibrio ecológico y la protección al ambiente;
+
+III. La planeación, programación y fomento del turismo, se realizará de manera coordinada entre el Poder Ejecutivo del Estado y el Poder Ejecutivo Federal, por conducto de las dependencias competentes y de manera concertada con los sectores social y privado locales, nacionales e internacionales del ramo turístico;
+
+IV. El fomento al turismo tendrá como bases la creación, la conservación, la protección y el aprovechamiento de los recursos y atractivos turísticos del Estado, a efecto de lo cual, se consideran prioritarias las acciones de planeación, programación, capacitación, promoción, concertación, verificación y vigilancia del desarrollo turístico de la Entidad; y
+
+V. Las autoridades estatales y municipales, los prestadores de servicios turísticos y los particulares, concurrirán en la vigilancia del cumplimiento de las disposiciones de la presente Ley, denunciando de inmediato ante la autoridad competente las anomalías e irregularidades que observen en el trato al turista y, en general, en todo lo relativo al desarrollo turístico del Estado.
+
+###### Artículo 3.
+
+Para los efectos de esta Ley, se entiende por:
+
+I. Comisión: la Comisión Estatal de Desarrollo Turístico;
+
+II. Prestador de servicios turísticos: la persona física o jurídica que habitualmente proporcione, intermedie o contrate con el turista;
+
+III. Secretaría: la Secretaría de Turismo del Estado de Querétaro;
+
+IV. Servicios turísticos: todos los servicios que, de manera general, son ofrecidos o proporcionados al turista por cualquier prestador de servicios en zona turística y, de manera particular, los que se ofrecen a través de los lugares señalados en la presente Ley;
+
+V. Turismo: las actividades que se realizan a fin de ofrecer bienes y servicios a las personas que se desplazan de su domicilio o residencia habitual, con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo, generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado; y
+
+VI. Turista: la persona nacional o extranjera, que viaja, trasladándose temporalmente fuera de su domicilio o residencia habitual y que contrata o utiliza cualquiera de los servicios a que se refiere esta Ley u otros ordenamientos legales aplicables.
+
+###### Artículo 4.
+
+Los servicios turísticos que se presten en el Estado de Querétaro, se ajustarán a las disposiciones de la presente Ley, sin perjuicio de la aplicación de otros ordenamientos federales, estatales y municipales, y de la competencia de otras autoridades y serán los siguientes:
+
+I. Agencias, sub-agencias y operadoras de viajes;
+
+II. Guías de turistas, de acuerdo con la siguiente clasificación:
+
+a) Guía general: persona que cuenta con estudios de guía a nivel técnico, reconocidos en los términos de las leyes de la materia y que puede desempeñar esta actividad a nivel nacional, con un dominio global de los atractivos turísticos del país.
+
+b) Guía especializado: persona que tiene conocimientos o experiencia acreditable sobre algún tema o actividad específicos;
+
+III. Hoteles, moteles, albergues y demás establecimientos de hospedaje; campamentos, paradores de casas rodantes que presten servicios a turistas; restaurantes, cafeterías, bares, centros nocturnos y establecimientos similares, así como en aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos, monumentos históricos y zonas arqueológicas.
+
+Los prestadores de servicios que no se encuentren ubicados en los establecimientos señalados, deberán solicitar su inscripción al Registro Estatal de Turismo, siempre que cumplan con los requisitos que fije la Secretaría de Turismo, de acuerdo con las disposiciones aplicables;
+
+IV. Empresas de sistemas de intercambio de servicios turísticos;
+
+V. Las arrendadoras de automóviles, transportadoras terrestres exclusivas de turismo y demás bienes muebles y equipos destinados a actividades turísticas;
+
+VI. Establecimientos de arte popular y productos típicos del Estado o la región; y
+
+VII. Las demás actividades consideradas como servicios turísticos, de conformidad con la Ley Federal de Turismo.
+
+###### Artículo 5.
+
+La Secretaría vigilará que los servicios turísticos se presten con eficiencia, calidad y oportunidad; en coordinación con las autoridades competentes, velará por la protección de los recursos naturales, los valores artísticos, históricos, arqueológicos, arquitectónicos y típicos de los centros turísticos del Estado. Igualmente, promoverá ante los municipios, la conservación, el mantenimiento y la dignificación de la imagen urbana en beneficio de la actividad turística.
+
+### Capítulo Segundo. De la planeación del desarrollo turístico
+
+###### Artículo 6.
+
+La Secretaría es el órgano encargado de formular y conducir la política de desarrollo de la actividad turística del Estado, a efecto de lo cual deberá:
+
+I. Organizar, operar, observar y evaluar el ejercicio de las atribuciones y funciones que competen al Poder Ejecutivo del Estado y las que el Gobierno Federal descentralice;
+
+II. Formular y desarrollar programas de turismo, de conformidad con el Plan Nacional de Desarrollo y con el Plan Estatal de Desarrollo; y
+
+III. Ejercer las demás atribuciones y funciones que le confieren la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y la presente Ley.
+
+La planeación del desarrollo turístico de la Entidad, se llevará a cabo a través de programas que formule la Secretaría, previa aprobación del Gobernador del Estado.
+
+###### Artículo 7.
+
+Los programas turísticos se sujetarán a los principios, estrategias, prioridades y acciones previstos en el Plan Nacional de Desarrollo y en el Plan Estatal de Desarrollo. Dichos programas podrán ser generales o referirse a una parte del territorio del Estado, de acuerdo con los atractivos turísticos y los recursos disponibles, los cuales deberán contener, por lo menos, los siguientes requisitos:
+
+I. La referencia al Plan del que derivan;
+
+II. Los objetivos y metas que persiguen;
+
+III. Las autoridades responsables que los ejecutarán;
+
+IV. La descripción y ubicación de las acciones, obras y servicios, y la referencia a los recursos necesarios; y
+
+V. Las etapas y tiempos para su cumplimiento.
+
+###### Artículo 8.
+
+En la planeación del desarrollo turístico se tomarán en cuenta los siguientes aspectos:
+
+I. El aprovechamiento eficiente y racional de los recursos naturales, salvaguardando, en todo caso, el equilibrio ecológico y la protección al ambiente;
+
+II. El aprovechamiento óptimo de los principales atractivos turísticos del Estado, difundiéndolos ampliamente a nivel local, nacional e internacional; y
+
+III. La coordinación de acciones con el Gobierno Federal, con otras entidades federativas, con los municipios y, mediante acuerdos de concertación, con los sectores social y privado.
+
+###### Artículo 9.
+
+La Secretaría promoverá y participará en los acuerdos y convenios que celebre el Gobernador del Estado con el Gobierno Federal, los municipios y los prestadores de servicios turísticos.
+
+Asimismo, promoverá la participación del Estado en los programas turísticos que abarquen a varias entidades federativas, suscribiendo al efecto los convenios necesarios para la difusión de los valores artísticos, culturales, históricos y arqueológicos de la Entidad, a nivel nacional e internacional.
+
+###### Artículo 10.
+
+La Secretaría colaborará con los órganos de planeación estatal, cuando se trate de analizar y decidir acciones sobre el desarrollo económico, cultural y social del Estado.
+
+###### Artículo 11.
+
+El Gobernador del Estado determinará la creación de comisiones intersecretariales, para el apoyo y realización de programas de desarrollo turístico, con la participación que corresponda a entidades federales y municipales y con la concurrencia de los sectores social y privado.
+
+### Capítulo Tercero. Del Inventario Estatal Turístico
+
+###### Artículo 12.
+
+La Secretaría de Turismo, integrará el Inventario Estatal Turístico, que contendrá la relación de los recursos naturales, culturales, históricos y monumentales que constituyan un atractivo turístico, así como los productos y servicios turísticos existentes en el Estado.
+
+###### Artículo 13.
+
+La Secretaría utilizará el Inventario Estatal Turístico, como una herramienta para la planeación, promoción y competitividad del sector turístico en la Entidad.
+
+### Capítulo Cuarto. De la promoción y fomento del turismo
+
+###### Artículo 14.
+
+En la promoción y fomento del turismo, corresponde a la Secretaría proteger, mejorar, incrementar y difundir los atractivos turísticos del Estado, alentando las corrientes turísticas regionales, locales, nacionales y las provenientes del exterior del país.
+
+Las dependencias y entidades de la administración pública estatal y de los municipios, coadyuvarán en la promoción y fomento del turismo en los términos de esta Ley, de conformidad con los acuerdos y convenios que al efecto se suscriban.
+
+###### Artículo 15.
+
+A fin de cumplir con el objeto de promover, proteger, mejorar, incrementar y difundir los atractivos y actividades turísticas del Estado, la Secretaría deberá:
+
+I. Fomentar el cuidado y conservación de zonas y monumentos arqueológicos, artísticos e históricos y lugares de interés para el turismo;
+
+II. Promover y gestionar, ante autoridades federales, estatales y municipales, la dotación de infraestructura y servicios urbanos en los centros de turismo integral;
+
+III. Impulsar la ampliación y el mejoramiento de la planta turística, promoviendo la creación de nuevos centros de turismo integral en aquellos lugares que por sus características físicas o culturales representen un potencial en la materia;
+
+IV. Promover, en coordinación con la dependencia del ramo, el rescate y preservación de las tradiciones y costumbres del Estado que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación;
+
+V. Gestionar e impulsar los servicios de transportación exclusiva para el turismo que requieran los destinos en operación y las zonas de desarrollo turístico; y
+
+VI. Gestionar ante las autoridades competentes la oportuna y eficaz atención al turista en servicios de transportación, seguridad pública, salud, procuración de justicia y demás servicios colaterales que requieran los turistas.
+
+###### Artículo 16.
+
+La Secretaría colaborará con las dependencias y entidades que tengan a su cargo la administración y conservación de parques, bosques, lagos, lagunas, ríos, zonas arqueológicas, monumentos artísticos e históricos, museos y demás sitios de atractivo turístico, con el objeto de impulsar y fomentar su aprovechamiento, difundiendo, por los medios de comunicación a su alcance, los atractivos turísticos del Estado.
+
+###### Artículo 17.
+
+Para la promoción y fomento de los atractivos turísticos de la Entidad, la Secretaría estimulará la organización de espectáculos, congresos, excursiones, ferias, exposiciones y actividades de interés general, susceptibles de atraer visitantes y paseantes al Estado.
+
+###### Artículo 18.
+
+La Secretaría promoverá la formación de patronatos, asociaciones y comités para la organización de ferias y festividades, así como la de aquellos grupos constituidos específicamente para el fomento del turismo, pudiendo otorgar apoyo y asesoría, en coordinación con las dependencias, entidades estatales y municipales, en el ámbito de su competencia.
+
+###### Artículo 19.
+
+La Secretaría celebrará convenios con los prestadores de servicios turísticos, con el objeto de promover el turismo social, mediante la determinación de paquetes y tarifas reducidos.
+
+###### Artículo 20.
+
+El Poder Ejecutivo del Estado otorgará estímulos e incentivos y auspiciará todas aquellas inversiones que tengan como finalidad el turismo en el Estado, para lo cual podrá constituir un Fondo Mixto de Promoción Turística, que se conformará con las aportaciones de los gobiernos Federal, Estatal y municipales, y con recursos de los sectores social y privado.
+
+La administración del Fondo será responsabilidad de la Secretaría, en los términos que determine el Gobernador del Estado, de acuerdo con las bases o cláusulas del convenio respectivo.
+
+###### Artículo 21.
+
+Las dependencias y entidades públicas estatales y municipales, deberán poner en conocimiento de la Secretaría, los proyectos turísticos de inversión nacional o extranjera que tenga interés en establecerse en la Entidad.
+
+### Capítulo Quinto. Del turismo social y accesible
+
+###### Artículo 22.
+
+El turismo social comprende todos aquellos instrumentos y medios, a través de los cuales se otorgan facilidades para que las personas con discapacidad, así como las de recursos limitados, tengan acceso a sitios de interés turístico estatal y nacional, con fines recreativos, deportivos o culturales, según corresponda, que tengan por objeto lograr el descanso y el esparcimiento familiar, en condiciones adecuadas de economía, seguridad y comodidad.
+
+Las dependencias y las entidades de la administración pública estatal, coordinarán y promoverán esfuerzos entre ellas y con las de los gobiernos municipales, concertando e induciendo la acción social y privada para el desarrollo ordenado del turismo social.
+
+###### Artículo 23.
+
+La Secretaría, escuchando a los organismos del sector, formulará, coordinará y promoverá los programas de turismo social, tomando en cuenta las necesidades y características específicas de cada grupo, así como las temporadas adecuadas para su mejor aprovechamiento.
+
+###### Artículo 24.
+
+La Secretaría promoverá la constitución y operación de empresas del sector social, que tengan por objeto la prestación de servicios turísticos accesibles a la población. Asimismo, promoverá la conjunción de esfuerzos para mejorar la atención y desarrollo de aquellos lugares en que sea susceptible elevar su calidad de vida, mediante la industria turística.
+
+###### Artículo 25.
+
+La Secretaría, promoverá la suscripción de acuerdos con prestadores de servicios turísticos, mediante los cuales se determinen precios y condiciones accesibles, así como paquetes que hagan posible el cumplimiento de los objetivos previstos en este Capítulo, en beneficio de grupos obreros, campesinos, infantiles, juveniles, personas de la tercera edad, personas con discapacidad, servidores públicos, magisteriales, estudiantes, pensionados y otros similares.
+
+###### Artículo 26.
+
+Las instituciones, dependencias y entidades del sector público promoverán entre sus trabajadores el turismo social y accesible, en coordinación con los integrantes de las dependencias y entidades a que se refiere este Capítulo.
+
+### Capítulo Sexto. De los mecanismos de coordinación
+
+### Capítulo Séptimo. De la Comisión Estatal de Desarrollo Turístico
+
+### Capítulo Octavo. Del Sistema Estatal de Información Turística y del Registro Estatal de Turismo
+
+###### Artículo 27.
+
+La Secretaría de Turismo en el Estado y los ayuntamientos, buscarán los mecanismos de coordinación con la Secretaría de Turismo del Gobierno Federal, para llevar a cabo acciones en materia de planeación, desarrollo y promoción turística en la Entidad, derivado de la descentralización de funciones.
+
+###### Artículo 28.
+
+La Secretaría y los ayuntamientos se coordinarán con los sectores social y privado, a efecto de que coadyuven en la promoción y fomento de la actividad turística en el Estado, así como para incrementar la calidad en los servicios turísticos.
+
+### Capítulo Noveno. De los servicios turísticos
+
+###### Artículo 29.
+
+La Comisión Estatal de Desarrollo Turístico, se constituye como una instancia de carácter permanente y tiene por objeto articular acciones y estrategias para el desarrollo de la actividad turística en el Estado, particularmente equipamiento e infraestructura y estará integrada de la manera siguiente:
+
+I. El titular del Poder Ejecutivo del Estado;
+
+II. El titular de la Secretaría de Turismo del Estado;
+
+III. El titular de la Secretaría de Desarrollo Sustentable del Estado;
+
+IV. El titular de la Secretaría de Desarrollo y Urbano y Obras Públicas del Estado;
+
+V. El titular de la Secretaría de Planeación y Finanzas del Estado; y
+
+VI. El titular del área o dependencia encargada de la cultura en el Estado.
+
+La Comisión aprovechará las estructuras administrativas, los recursos humanos, materiales y financieros de los órganos que la integran.
+
+El titular del Poder Ejecutivo del Estado presidirá la Comisión. Los cargos de los integrantes serán honoríficos, por lo que no recibirán retribución o compensación alguna, por el desempeño de esta labor.
+
+###### Artículo 30.
+
+La Comisión contará con un Secretario Ejecutivo designado por el Secretario de Turismo, el cual contará únicamente con derecho a voz y tendrá a su cargo apoyar al Presidente en todas las actividades inherentes al desarrollo de las sesiones, así como dar seguimiento de los acuerdos tomados en el seno de la Comisión.
+
+### Capítulo Décimo. De la protección al turista
+
+###### Artículo 31.
+
+La Comisión podrá invitar a otros órganos, dependencias o entidades de la administración pública estatal o municipal a participar en el desarrollo de sus sesiones, cuando así se considere necesario, para conocer de los asuntos que tengan relación con su competencia, quienes concurrirán con voz pero sin voto.
+
+###### Artículo 32.
+
+La Comisión sesionará de manera ordinaria cuando menos una vez de forma trimestral, pudiendo celebrar las sesiones extraordinarias que fueren necesarias. Para que las sesiones sean válidas será necesario contar con la asistencia de su Presidente y de la mayoría simple de sus integrantes. Sus resoluciones se tomarán por mayoría de votos, en caso de empate el Presidente tendrá voto de calidad.
+
+###### Artículo 33.
+
+La Secretaría organizará y operará el Sistema Estatal de Información Turística, instrumento mediante el cual se dispondrá de todos los elementos informativos necesarios para el fomento y desarrollo del turismo en el Estado.
+
+###### Artículo 34.
+
+El Sistema Estatal de Información Turística deberá contener:
+
+I. Información estadística acerca de los atractivos turísticos existentes en el Estado;
+
+II. Información sobre los servicios turísticos que se ofrecen en la Entidad;
+
+III. Relación de los prestadores de servicios turísticos;
+
+IV. Relación pormenorizada de los diferentes sitios de interés turístico en el Estado;
+
+V. Cuadros informativos, mapas, guías y demás documentos y datos necesarios para la identificación de los centros y lugares turísticos del Estado; y
+
+VI. Los demás aspectos que sean necesarios para contar con un sistema completo y actualizado de información turística.
+
+La Secretaría deberá integrar, analizar, evaluar y difundir la información que recabe y, con base en ello, diseñar programas permanentes de difusión a nivel local, nacional e internacional.
+
+###### Artículo 35.
+
+La Secretaría formulará periódicamente programas de evaluación turística, en los que se analicen las necesidades turísticas, la oferta y la demanda, así como la calidad de los servicios turísticos que en el ramo se presenten en el Estado.
+
+###### Artículo 36.
+
+Como parte del Sistema Estatal de Información Turística, se establece el Registro Estatal de Turismo, que tiene por objeto la inscripción obligatoria de los prestadores de servicios turísticos de la Entidad. Asimismo, deberán inscribirse las escuelas, instituciones y centros de educación, capacitación y formación de profesionales y técnicos en el ramo turístico.
+
+###### Artículo 37.
+
+La inscripción se realizará por escrito o por los medios que la propia Secretaría determine, proporcionando los siguientes datos:
+
+I. Nombre y domicilio de la persona física o moral prestadora del servicio;
+
+II. Lugar y domicilio en el que se prestarán los servicios;
+
+III. Fecha de la apertura del establecimiento;
+
+IV. Tipo de los servicios que se prestarán y su categoría, conforme a las normas aplicables; y
+
+V. Los demás que el prestador estime necesarios para fines de difusión.
+
+La información contenida en el Registro, será turnada a la Secretaría de Turismo Federal, en los términos de la Ley General de Turismo y operación del Registro Nacional de Turismo.
+
+###### Artículo 38.
+
+La prestación de servicios turísticos en el Estado se regirá por lo convenido entre el prestador de servicio y el turista, observándose las disposiciones de la presente Ley, sus reglamentos y demás ordenamientos legales aplicables.
+
+###### Artículo 39.
+
+Las normas oficiales mexicanas aplicables a la prestación de los servicios turísticos y la protección al turista, serán las que expida la autoridad federal competente, las que serán de observancia obligatoria en la Entidad.
+
+La calidad y clasificación de los servicios turísticos, serán materia exclusiva de normas oficiales mexicanas en los términos de la legislación aplicable.
+
+###### Artículo 40.
+
+Los prestadores de servicios turísticos tendrán los siguientes derechos:
+
+I. Solicitar información y asesoría técnica de la Secretaría, para elevar la calidad de sus servicios;
+
+II. Participar en los programas de promoción y de fomento que ejecute la Secretaría;
+
+III. Obtener de la Secretaría los apoyos y gestiones necesarios ante dependencias y entidades federales, estatales y municipales; y
+
+IV. Participar en los programas de capacitación turística que organice la Secretaría.
+
+###### Artículo 41.
+
+Los prestadores de servicios turísticos en el Estado, deberán:
+
+I. Proporcionar los bienes y servicios que ofrezcan en los términos convenidos, de conformidad con lo dispuesto por la Ley Federal de Turismo, esta Ley y demás ordenamientos aplicables;
+
+II. Anunciar ostensiblemente en los lugares de acceso al establecimiento, sus precios y tarifas y los servicios que éstos incluyen;
+
+III. Expedir las facturas y comprobantes que amparen el cobro de los servicios prestados;
+
+IV. Colaborar con la Secretaría en los programas de promoción y formación del turismo;
+
+V. Contar con formatos foliados y de porte pagado en el Sistema de Quejas de Turistas, en los términos de la norma oficial mexicana respectiva;
+
+VI. Garantizar, ante la Secretaría, el cumplimiento de las condiciones en que ofrezcan los servicios turísticos, mediante el otorgamiento de fianzas y la contratación de los seguros que se requieran, según la naturaleza del servicio, en términos de las leyes aplicables;
+
+VII. Proporcionar a la Secretaría los datos e informes que les requiera, así como el apoyo, auxilio y facilidades para la promoción turística en la Entidad;
+
+VIII. Acatar las disposiciones legales existentes en materia de turismo, salud, prevención de delitos, protección al consumidor y protección al medio ambiente;
+
+IX. Capacitar a sus trabajadores con base en los programas autorizados;
+
+X. Emplear, en todo caso y de manera destacada, el idioma español en los anuncios, propaganda y leyendas en los que ofrezcan los servicios, sin perjuicio del uso de otros idiomas;
+
+XI. Realizar su publicidad y ofrecer los servicios sin demérito de la dignidad nacional, sin alteración o falseamiento de los hechos históricos o de las manifestaciones de la cultura nacional y local;
+
+XII. Proporcionar los servicios turísticos, precios, tarifas y promociones, precisamente en los términos en los que fueron anunciados, ofrecidos por la publicidad o pactados, sin inducir el error a los turistas; y
+
+XIII. Mantener sus instalaciones en condiciones óptimas de servicio e higiene.
+
+###### Artículo 42.
+
+Compete a la Secretaría la protección integral al turista, a efecto de lo cual deberá:
+
+I. Organizar y vigilar el cumplimiento de los programas y medidas de asistencia, auxilio y protección a quiénes visitan la Entidad, en coordinación con las dependencias que concurran en tales objetivos;
+
+II. Participar en todas aquellas acciones de auxilio a los turistas en casos de emergencias, desastres; y
+
+III. Las demás que sean necesarias para proteger eficientemente los derechos de los turistas.
+
+###### Artículo 43.
+
+Antes de la contratación de cualquier servicio turístico, el prestador de servicios tendrá la obligación de informar con detalle al turista sobre los precios, condiciones y la manera en que se prestarán los servicios que se ofrecen.
+
+Los prestadores de servicios turísticos, también están obligados a respetar los términos y las tarifas ofrecidas o pactadas con el usuario.
+
+###### Artículo 44.
+
+Cuando el prestador de servicios incurra en el incumplimiento de lo pactado con el turista, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente al servicio incumplido, o bien, prestar otro servicio en forma inmediata, de la misma calidad o equivalencia, a elección del turista afectado.
+
+###### Artículo 45.
+
+Para determinar la calidad de los servicios prestados, se tomarán como referencia las normas oficiales mexicanas o, a falta de éstas, las establecidas por organismos internacionales, salvo que el prestador de servicios haya descrito ostensiblemente las características y la forma en que se preste el servicio.
+
+Capítulo Decimoprimero
+
+De la capacitación turística
+
+###### Artículo 46.
+
+La Secretaría promoverá, en coordinación con la Secretaría de Educación del Estado, el establecimiento de instituciones y centros de capacitación y formación de profesionales y técnicos en las diferentes ramas de la actividad turística; para ello, deberá:
+
+I. Realizar estudios e investigaciones para conocer las necesidades educativas y de capacitación turística en el Estado;
+
+II. Prestar asesoría y apoyo técnico a los prestadores de servicios turísticos en la capacitación que éstos otorguen a sus empleados;
+
+III. Diseñar y aplicar cursos de capacitación turística a servidores públicos estatales y municipales, cuyas actividades estén vinculadas con el turismo;
+
+IV. Participar coordinadamente con dependencias y entidades públicas y con los sectores social y privado, en actividades de capacitación turística;
+
+V. Intervenir en programas de capacitación a guías de turistas y sancionar la evaluación que se practique a los aspirantes;
+
+VI. Opinar sobre las solicitudes de reconocimiento de validez de estudios en el área de turismo, respecto de escuelas e institutos que operen los particulares;
+
+VII. Participar en la elaboración de programas de estudio para la capacitación de profesionales y técnicos en el sector turístico;
+
+VIII. Promover y gestionar el otorgamiento de becas; y
+
+IX. Realizar las demás acciones que sean necesarias para la formación de recursos humanos que requiere el desarrollo turístico del Estado.
+
+###### Artículo 47.
+
+Las escuelas, institutos y centros de formación y educación turísticas en la Entidad, se ajustarán a las leyes educativas aplicables, debiendo registrarse ante la Secretaría, acompañando para ello la documentación y los informes que se les requieran.
+
+###### Artículo 48.
+
+La Secretaría promoverá la celebración de acuerdos y convenios con dependencias públicas y con los sectores social y privado en materia de capacitación turística.
+
+La Secretaría de Turismo del Estado, mantendrá informada a la Secretaria de Seguridad Ciudadana de todas las actividades que se realicen, para la protección e información del turista y de la ciudadanía en general.
+
+Capítulo Decimosegundo
+
+De la concertación social para el desarrollo turístico
+
+###### Artículo 49.
+
+La concertación social constituye el fundamento a partir del cual el Poder Ejecutivo del Estado y los sectores social y privado concurrirán de manera eficiente y responsable al desarrollo turístico de la Entidad, de acuerdo con los principios que esta Ley consagra.
+
+###### Artículo 50.
+
+La Secretaría promoverá en forma permanente la celebración de acuerdos de concertación social con los prestadores de servicios turísticos en las materias que regula la presente Ley, teniendo siempre como objetivo principal elevar la calidad y cantidad de los servicios.
+
+En los acuerdos y convenios que se celebren, intervendrán, según el caso, las dependencias y entidades estatales y municipales competentes, a efecto de que se salvaguarden y protejan los recursos naturales y el patrimonio cultural del Estado.
+
+###### Artículo 51.
+
+La Secretaría promoverá la celebración de acuerdos de coordinación con la Secretaría de Turismo federal, con el objeto de establecer las bases de concurrencia de ambas entidades en materia de protección al turista y de verificación y vigilancia de los servicios turísticos que se presten en el Estado.
+
+Capítulo Decimotercero
+
+Del turismo alternativo
+
+###### Artículo 52.
+
+Para los efectos del presente Capítulo, se entiende por turismo alternativo, aquel que tiene como fin realizar actividades recreativas en contacto con la naturaleza y las expresiones culturales con una actitud y compromiso de conocer, respetar, disfrutar y participar de la preservación de los elementos y recursos naturales y culturales, lo que incluye el ecoturismo, el turismo de aventura y el turismo regional.
+
+###### Artículo 53.
+
+El ecoturismo es la categoría de turismo alternativo, basada en que la motivación principal del turista sea la observación, el conocimiento, la interacción y la apreciación de la naturaleza y de las manifestaciones culturales tradicionales de los habitantes de las zonas regionales, lo que implica tomar conciencia del aprovechamiento, la conservación y la restauración de los recursos naturales y las formas de producir el menor impacto negativo sobre el ambiente y el entorno sociocultural de las comunidades anfitrionas, generando beneficios económicos a dichas comunidades y ofreciendo oportunidades y alternativas de empleo. El turismo de aventura es la categoría de turismo alternativo en la que se incluyen diferentes actividades deportivas y recreativas, donde se participa en armonía con el ambiente, respetando el patrimonio natural, cultural, turístico e histórico. Sus disposiciones se rigen por la presente Ley, las normas oficiales mexicanas y los reglamentos aplicables para el desarrollo de las actividades turísticas en el Estado.
+
+El turismo regional, es la categoría de turismo alternativo en la cual el turista participa en actividades propias de las comunidades, los ejidos y los pueblos indígenas, con fines culturales, educativos y recreativos, que le permiten conocer los valores culturales, forma de vida, manejo ambiental, usos y costumbres y aspectos de su historia, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la preservación de los ecosistemas en los que habitan.
+
+###### Artículo 54.
+
+Los prestadores de servicios turísticos a que esta se refiere este Capítulo (sic), así como toda persona, organización o institución pública o privada que pretenda la creación de una empresa que brinde servicio en actividades de turismo alternativo en el Estado, requerirá de un permiso expedido por la Secretaría de Turismo del Estado, con la opinión de los municipios en cuyas jurisdicciones se pretenda realizar dicha actividad, el cual se sujetará a la observación estricta de los reglamentos y los programas de manejo aplicables de las áreas destinadas para actividades ecoturísticas, autorizadas por la Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT).
+
+Cuando la prestación de servicios y actividades de turismo alternativo se pretendan desarrollar dentro de las áreas naturales protegidas, la Secretaría de Desarrollo Sustentable del Estado(SEDESU), con opinión de la Secretaría, será la encargada de otorgar los permisos correspondientes, siguiendo el procedimiento que establezca el reglamento correspondiente y los programas de manejo aplicables para las áreas naturales protegidas, informando, para efectos de su registro, a la Comisión Nacional de Áreas Protegidas.
+
+En todos los casos, la Secretaría de Desarrollo Sustentable del Estado, en coordinación con la Secretaría, definirá las áreas potenciales para el desarrollo del turismo alternativo, respetando los programas de manejo de las áreas naturales protegidas.
+
+###### Artículo 55.
+
+Para la autorización y prestación de servicios de turismo alternativo, deberá tomarse en cuenta el ordenamiento ecológico territorial, así como la competencia estatal o federal que corresponda, a efecto de que su realización sea acorde con la vocación natural de la región y las condiciones naturales de la misma.
+
+###### Artículo 56.
+
+Para el otorgamiento del permiso, los interesados deberán presentar ante la autoridad correspondiente, un proyecto que contenga:
+
+I. La solicitud que indique las categorías de turismo alternativo que desea prestar y los servicios que incluya;
+
+II. El estudio de capacidad de carga de la zona, aprobado por la Secretaría de Desarrollo Sustentable del Estado;
+
+III. La autorización de la evaluación de impacto ambiental, en las modalidades y condiciones que establezcan las disposiciones de la materia; y
+
+IV. El programa de manejo de las actividades a realizar.
+
+###### Artículo 57.
+
+La autoridad encargada del trámite y, en su caso, la expedición del permiso, podrá, dentro de los tiempos establecidos por el reglamento respectivo:
+
+I. Aprobar el permiso en los términos solicitados;
+
+II. Aprobarlo parcialmente, haciendo las observaciones de las circunstancias que deberán subsanarse previamente para aprobarlo en su integridad; o
+
+III. Negar el permiso, debiendo fundar y motivar la resolución de la negativa.
+
+###### Artículo 58.
+
+La autoridad encargada de expedir el permiso correspondiente, al momento de evaluar el proyecto, deberá observar que la actividad a realizar cumpla con los siguientes criterios:
+
+I. La preservación y protección de la vida silvestre, sus especies, poblaciones y ecosistemas;
+
+II. La compatibilidad entre la preservación de la biodiversidad y el desarrollo de la actividad turística;
+
+III. La conservación de la imagen del entorno;
+
+IV. El respeto a la libertad individual y colectiva y a la diversidad sociocultural, especialmente de las comunidades rurales, ejidos y pueblos indígenas, para que permitan el acceso y disfrute del patrimonio turístico y natural a los visitantes;
+
+V. La capacidad desarrollada de los habitantes de las comunidades rurales, ejidos y pueblos indígenas, a explotar y ofertar sus servicios al turismo y disfrutar del patrimonio turístico;
+
+VI. El derecho de quienes deseen realizar actividades de turismo alternativo, a recibir información por parte de las autoridades competentes y de los prestadores de servicios involucrados, quienes deberán prevenirles de los riesgos y limitantes existentes para el goce y disfrute de las mismas; y
+
+VII. El cuidado de la arquitectura de los inmuebles donde se presten los servicios turísticos, se regirá bajo los reglamentos correspondientes al tipo de construcción o zona en que se encuentra, para que no se altere la armonía de los elementos que conforman el ambiente natural, el respeto de la arquitectura vernácula, así como la utilización de materiales y tecnologías propias de la zona o adaptables a la misma, que proporcionen armonía estructural y estética con el lugar donde se desarrolle la actividad para su construcción, de modo que hagan posible la autosuficiencia y sustentabilidad de éstos.
+
+Para los efectos de este Capítulo, se entiende que las actividades reguladas por éste son incompatibles con toda actividad cinegética, la cual se ajustará a lo dispuesto en la Ley General de Vida Silvestre y la Ley de Protección Animal del Estado de Querétaro, así como la introducción de toda clase de especies de flora y fauna o de organismos genéticamente modificados, ajena a los lugares en donde se presten los servicios de turismo alternativo.
+
+###### Artículo 59.
+
+Los prestadores de servicios turísticos alternativos, además estarán obligados a cumplir lo siguiente:
+
+I. Presentar a las autoridades ambientales la manifestación del impacto ambiental en las modalidades y condiciones que establezcan las disposiciones de la materia, antes de iniciar o de proporcionar cualquier actividad o servicio turístico alternativo;
+
+II. Contar con programas de manejo del desarrollo, mismos que deberán contener, según sea el caso, medidas para el reuso, reciclaje, disposición y tratamiento de residuos y aguas, a fin de no producir impactos negativos, en los ecosistemas propios del lugar;
+
+III. Presentar informes periódicos, de manera anual, avalados por el responsable técnico de la ejecución del desarrollo, así como de los programas de manejo del proyecto respectivo; salvo en los casos de contingencias, dicha obligación se establecerá en la autorización correspondiente para la prestación de servicios respectivos; y
+
+IV. Realizar funciones de guardias ecológicas en las regiones donde presten su servicio, por lo que estarán obligados a denunciar todo acto que afecte o pudiera afectar el ambiente o los ecosistemas de la región, así como toda infracción a las disposiciones de la presente Ley, sus reglamentos o las disposiciones jurídicas aplicables.
+
+###### Artículo 60.
+
+La Secretaría de Turismo del Estado, formulará las declaratorias de desarrollo turístico prioritario, a efecto de que las autoridades competentes expidan, conforme a los planes y programas estatales y municipales de desarrollo urbano, el ordenamiento ecológico territorial, las declaratorias de uso de suelo turístico y proceder así a la creación o ampliación del centro de desarrollo turístico prioritario y creación de centros dedicados al turismo social y alternativo, en los términos de las leyes respectivas.
+
+Para la formulación de la declaratoria de desarrollo turístico prioritario, la Secretaría de Desarrollo Sustentable del Estado, presentará los estudios pertinentes, a fin de determinar los posibles efectos ambientales que tendrían en la zona la creación o la ampliación de centros de desarrollo turístico.
+
+La Secretaría, para formular la mencionada declaratoria, deberá atender tanto al estudio formulado por la Secretaría de Desarrollo Sustentable, así como en su caso, a las observaciones formuladas por los directamente interesados y los presuntos afectados.
+
+###### Artículo 61.
+
+La Secretaría realizará visitas de verificación a los prestadores de servicios turísticos, para constatar el cumplimiento de las obligaciones que les imponen las disposiciones legales en la materia.
+
+###### Artículo 62.
+
+La Procuraduría Federal de Protección al Consumidor realizará, en los términos de la Ley de la materia, las visitas que se deriven de las quejas o denuncias que presenten los turistas.
+
+Capítulo Decimocuarto
+
+De las sanciones y recursos
+
+###### Artículo 63.
+
+Las violaciones a la presente Ley y a sus reglamentos, serán sancionadas, en su caso, por la Secretaría, sin perjuicio de cualquier otra que resulte aplicable por la inobservancia de disposiciones leales diversas.
+
+La Procuraduría Federal de Protección al Consumidor, se encargará de imponer las sanciones derivadas de las quejas que presenten los turistas en los términos de la Ley en la materia.
+
+###### Artículo 64.
+
+Por violaciones a esta Ley, la Secretaría podrá imponer las siguientes sanciones:
+
+I. Por incumplir con lo dispuesto en el artículo 41 fracciones III, V, X y XI y 43 primer párrafo, se impondrá multa hasta por quinientas veces el salario mínimo general diario vigente en la zona;
+
+II. Por incumplir con lo dispuesto en los reglamentos que regulan los servicios turísticos a que se refieren las fracciones II y III del artículo 4, 41 fracción II y 44, se impondrá multa hasta por mil veces el salario mínimo general diario vigente en la zona; y
+
+III. Por incumplir a lo establecido por los artículos 39, 41 fracciones VI y XII y 43 segundo párrafo, serán sancionados con multa hasta por tres mil veces el salario mínimo diario vigente en Querétaro.
+
+Cuando se imponga al prestador de servicios turísticos alguna sanción pecuniaria expresada en salarios mínimos, éste se entenderá como el vigente en la zona económica a la que pertenece la Entidad, en la fecha en que fue cometida la infracción.
+
+###### Artículo 65.
+
+En la determinación de las sanciones, se tomarán en cuenta:
+
+I. Los hechos que originaron la infracción, asentados en el acta de verificación si se hubiere practicado visita;
+
+II. La gravedad de la infracción;
+
+III. El daño económico y los perjuicios que se hubiesen ocasionado al turista;
+
+IV. La reincidencia, en su caso;
+
+V. Los datos que aporten las denuncias de los turistas;
+
+VI. La publicidad, información de los prestadores de servicios y la comprobación de las infracciones; y
+
+VII. En general, cualquier dato o circunstancia que aporte elementos para la aplicación de la sanción.
+
+###### Artículo 66.
+
+Para la determinación del monto de las multas, la Secretaría tomará en consideración, además de lo estipulado en el artículo anterior, el tipo de servicio turístico de que se trate, su categoría y ubicación, así como los precios y tarifas que tengan establecidos.
+
+###### Artículo 67.
+
+Se entenderá que hay reincidencia, cuando el mismo infractor incurra, en el lapso de un año, en dos o más violaciones al mismo precepto legal, contándose el mencionado plazo a partir de la fecha en que se cometió la primera infracción.
+
+En caso de reincidencia, se podrá aplicar multa hasta por el doble de la impuesta originalmente.
+
+###### Artículo 68.
+
+En relación con aquellos servicios turísticos cuyos reglamentos exijan el otorgamiento, por parte de los prestadores respectivos, de fianzas para garantizar el cumplimiento de los servicios contratados, la Secretaría podrá iniciar el procedimiento para su afectación en los casos en que se haya probado la procedencia del reembolso y el prestador se niegue a efectuarlo, con independencia de las sanciones que procedan.
+
+###### Artículo 69.
+
+Los actos o resoluciones que se dicten en los términos de esta Ley, podrán impugnarse conforme a lo establecido en la Ley de Procedimientos Administrativos del Estado de Querétaro y demás ordenamientos relativos y aplicables en la materia.
+
+## TRANSITORIOS
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Turismo del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 73, de fecha 27 de octubre de 2006.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado, emitirá las normas reglamentarias que resulten necesarias para la aplicación de la presente Ley.
+
+Artículo Cuarto. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases que señala la presente Ley.
+
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
+
+DADO EN EL SALÓN DE SESIONES "CONSTITUYENTES DE 1916-1917" RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS SEIS DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL NUEVE.
+
+A T E N T A M E N T E
+
+LV LEGISLATURA DEL ESTADO DE QUERÉTARO
+
+MESA DIRECTIVA
+
+DIP. MIGUEL MARTÍNEZ PEÑALOZA.
+
+PRESIDENTE
+
+Rúbrica
+
+DIP. JOSÉ GUADALUPE GARCÍA RAMÍREZ.
+
+PRIMER SECRETARIO
+
+Rúbrica
+
+Lic. Francisco Garrido Patrón, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 22, fracción I de la Constitución Política del Estado de Querétaro; expido y promulgo la presente Ley de Turismo del Estado de Querétaro.
+
+Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la Ciudad de Santiago de Querétaro, Qro., el día treinta del mes de julio del año dos mil nueve, para su debida publicación y observancia.
+
+Lic. Francisco Garrido Patrón
+
+Gobernador Constitucional del Estado de Querétaro
+
+Rúbrica
+
+Lic. José Alfredo Botello Montes
+
+Secretario de Gobierno
+
+Rúbrica
