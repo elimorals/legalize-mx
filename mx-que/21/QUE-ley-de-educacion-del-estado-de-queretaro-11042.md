@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-11042"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-15"
-last_updated: "2008-06-20"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACION DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 31 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 15 de agosto de 1996.
 
@@ -896,3 +898,13 @@ P.O. 20 DE JUNIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 31 DE JULIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Educación del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", en fecha quince de agosto mil novecientos noventa y tres, así como todas sus reformas.
+
+Artículo Tercero. Los procedimientos que se encuentren en trámite al momento de entrar en vigor la presente Ley, se tramitarán hasta su conclusión conforme a las disposiciones legales vigentes en el momento en que dieron inicio.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
