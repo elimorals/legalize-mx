@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-comunicaciones-y-64854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2009-01-08"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64854&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-31"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de enero de 2009.
 
@@ -195,7 +195,9 @@ VI. Dar cuenta al Congreso de la Unión, luego que esté abierto el periodo ordi
 
 VII. Refrendar para su validez y observancia constitucional los reglamentos, decretos y acuerdos expedidos por el Presidente de la República en los asuntos que sean de la competencia de la Secretaría;
 
-VIII. Representar al Presidente de la República en los juicios constitucionales de amparo, en los términos de los artículos 14 de la Ley Orgánica de la Administración Pública Federal y 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la propia Constitución y su Ley Reglamentaria, en los casos en que lo determine el Titular del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+VIII. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 49 del presente Reglamento;
 
 IX. Aprobar la organización y funcionamiento de la Secretaría, así como adscribir orgánicamente las unidades administrativas previstas en el presente Reglamento;
 
@@ -431,11 +433,25 @@ III. Asesorar jurídicamente a las unidades administrativas de la Secretaría en
 
 IV. Representar legalmente a la Secretaría en los asuntos contenciosos en que sea parte; intervenir en toda clase de procedimientos judiciales y contenciosos administrativos, en el ámbito de competencia de la misma, ante cualquier autoridad jurisdiccional, y disponer lo conducente para que los servidores públicos y unidades administrativas de la Secretaría, cumplan con las resoluciones legales correspondientes;
 
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+IV bis. Representar al Secretario, a los Subsecretarios, a los Coordinadores Generales, al Oficial Mayor y a los titulares de las unidades administrativas adscritas a éste último, en todos los trámites dentro de los juicios de amparo en los que sean parte, así como suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otro juicio de carácter judicial o contencioso administrativo en los que sean parte dichos servidores públicos;
+
 V. Representar al Titular del Ramo ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades del trabajo en las controversias laborales, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en los que intervenga en representación de la Secretaría, interponiendo los recursos que procedan ante el citado Tribunal y Juntas mencionadas, absolver posiciones a nombre del Titular del Ramo, ejerciendo la representación en el curso del proceso respectivo;
 
 VI. Presentar ante el Ministerio Público competente las denuncias o querellas y designar al personal que podrá presentarla, por hechos probablemente constitutivos de delito en los que la Secretaría haya resultado ofendida o se afecten los intereses de la Federación; asimismo, cuando proceda, otorgar perdón o gestionar desistimientos y acordar conciliaciones en beneficio de la Secretaría;
 
-VII. Elaborar y proponer los informes previos y justificados que en materia de amparo debe rendir el Secretario y el Presidente de la República en los casos en los que se hubiere conferido la representación presidencial, con los elementos que proporcionen las unidades administrativas de la Secretaría, así como los relativos a los Subsecretarios, Coordinadores Generales y Oficial Mayor y las unidades administrativas adscritas a ésta; asimismo, los escritos de demanda o contestación según proceda en las controversias constitucionales o acciones de inconstitucionalidad, intervenir cuando la Secretaría tenga carácter de tercero perjudicado en los juicios de amparo, formular, en general, los recursos y todas las promociones que a dichos juicios se refieran;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+VII. Elaborar y proponer los informes previos y justificados con los elementos que proporcionen las unidades administrativas adscritas a la Secretaría, que en materia de amparo deban presentar los servidores públicos de la Secretaría que no están comprendidos en la fracción IV bis de este artículo y que sean señalados como autoridades responsables;
+
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+VII bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de Comunicaciones y Transportes representar al titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+VII ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de Comunicaciones y Transportes represente al Presidente de la República;
 
 VIII. Resolver las consultas que en materia jurídica formulen las unidades administrativas de la Secretaría y dictaminar cuando corresponda, respecto de la procedencia de sanciones cuya imposición propongan dichas unidades;
 
@@ -467,7 +483,9 @@ La Dirección General Adjunta de Procesos Contenciosos tendrá las siguientes at
 
 I. Atender y dar seguimiento a los procesos contenciosos en que la Secretaría sea parte;
 
-II. Auxiliar al Titular de la Unidad de Asuntos Jurídicos en el ejercicio de las facultades previstas en el artículo 11, fracciones IV, V, VI, VII, XII y XIX de este Reglamento;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+II. Auxiliar al Titular de la Unidad de Asuntos Jurídicos en el ejercicio de las facultades previstas en el artículo 11, fracciones IV, IV bis, V, VI, VII, VII bis, VII ter, XII y XIX de este Reglamento;
 
 III. Formular y presentar ante el Ministerio Público competente, las denuncias o querellas por hechos probablemente constitutivos de delito en los que la Secretaría haya resultado ofendida o tenga interés y, cuando proceda, otorgar perdón o gestionar desistimientos y acordar conciliaciones en beneficio de la Secretaría, y
 
@@ -1715,7 +1733,9 @@ Las ausencias de los Subsecretarios, del Oficial Mayor y de los Coordinadores Ge
 
 Las ausencias de los titulares de las Coordinaciones, Unidades, Direcciones Generales, órganos administrativos desconcentrados y de los Directores Generales de los Centros SCT, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
-Las ausencias del Titular de la Unidad de Asuntos Jurídicos en procedimientos judiciales y contenciosos administrativos serán suplidas por el Director General Adjunto de Procesos Contenciosos.
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2009)</small>
+
+Las ausencias del Titular de la Unidad de Asuntos Jurídicos serán suplidas por el Director General Adjunto de Procesos Contenciosos, por el Director General Adjunto Normativo y por el Director General Adjunto Operativo, en el orden indicado.
 
 ## TRANSITORIOS
 
@@ -1728,3 +1748,9 @@ TERCERO.- Se abroga el Acuerdo por el que los Titulares de los Centros SCT, en e
 CUARTO.- Los asuntos pendientes a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en el presente Reglamento Interior.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Luis Téllez Kuenzler.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 31 DE JULIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
