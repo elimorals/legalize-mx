@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-11042"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-15"
-last_updated: "2008-06-20"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,689 +21,427 @@ state: "QUE"
 ---
 # LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES
+LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACION DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 31 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en la Primera Sección al Núm. 29 del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2018.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
-REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 15 de agosto de 1996.
 
-Los integrantes del CONSEJO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES, en ejercicio de la facultad que nos confieren los artículos 3°, 5°, 15, 16 y 17 de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes; Artículo Sexto Transitorio de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; 5° de la Ley del Procedimiento Administrativo del Estado de Aguascalientes; 2°, 5°, 10, 30, 31, 41 fracción VIII, 42 fracción XII, 43, 45, 45 A y 45 B de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes; 10 fracción II de la Ley que Crea la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes; 12 fracción VIII y 19 fracción XI del Reglamento Interno de la Comisión Estatal de Arbitraje Médico, hemos tenido a bien expedir el “REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES”, al tenor de la siguiente:
+ENRIQUE BURGOS GARCIA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga a los habitantes del mismo hace sabed que:
 
-E X P O S I C I Ó N D E M O T I V O S
+LA QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41, FRACCIONES II Y XXXI DE LA CONSTITUCION POLITICA DEL ESTADO Y... se REMITE la siguiente:
 
-[...]
+LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-Por lo anteriormente expuesto, este Consejo expide el siguiente:
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+###### ARTICULO 1.
 
-###### ARTÍCULO 1°.
+Esta ley, los reglamentos y demás disposiciones que de ella deriven, son de orden público, interés social y de observancia general en todo el territorio del Estado de Querétaro y tiene por objeto regular la educación que impartan el Estado y sus Municipios, los organismos descentralizados de ambos y los particulares con autorización o reconocimiento de validez oficial de estudios.
 
-El presente ordenamiento tiene por objeto regular la estructura, organización y facultades de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes, organismo público descentralizado de la Administración Pública Estatal, cuyo objeto es contribuir a resolver los conflictos suscitados entre los usuarios de los servicios médicos y los prestadores de dichos servicios, conforme a las disposiciones de su Ley de creación.
+###### ARTICULO 2.
 
-###### ARTÍCULO 2°.
+La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regulará por dicho precepto y por las leyes que rijan a estas instituciones, así como por los convenios que las mismas suscriban con la Secretaría de Educación del Estado.
 
-Para los efectos de este Reglamento, se entiende por:
+###### ARTICULO 3.
 
-I. COESAMED: A la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes;
+La educación que impartan el Estado, los Municipios, los organismos descentralizados y los particulares, con autorización o reconocimiento de validez oficial de estudios, en cualquiera de sus tipos y modalidades, se ajustará a lo establecido en los artículos 3º de la Constitución Política de los Estados Unidos Mexicanos, 4º de la Constitución Política del Estado, a la Ley General de Educación, a esta Ley y a los demás reglamentos y normas que emanen de ellas.
 
-II. Comisionado: Al titular de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes y al Presidente del Consejo de la propia Comisión;
+Así, el criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan así como toda la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica que los particulares impartan, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
 
-III. Consejo: Al Consejo de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes;
+a).- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
 
-IV. Ley: A la Ley que Crea la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes;
+b).- Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y (sic)
 
-V. Ley de Entidades Paraestatales: A la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
+c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
-VI. Ley de Responsabilidades: A la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
 
-VII. Reglamento Interno: Al Reglamento Interno de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes.
+d).- Promoverá una actitud de fomento en la práctica de respeto entre la relación ser humano-sociedad-medio ambiente, creando los instrumentos mediante los que el educando y la ciudadanía construyan valores y adquieran conocimientos, aptitudes y habilidades orientados a la defensa y comprensión del ambiente teniendo como fin la prevención de problemas ambientales, para garantizar una mejor calidad de vida y el desarrollo sustentable de los recursos del país.
 
-###### ARTÍCULO 3°.
+###### ARTICULO 4.
 
-Son atribuciones de la COESAMED las que expresamente señala el Artículo 9o. de la Ley.
+El Estado y sus Municipios están obligados a prestar servicios educativos para que toda la población, pueda cursar la educación básica.
 
-###### ARTÍCULO 4°.
+###### ARTICULO 5.
 
-Para el desarrollo y cumplimiento de las funciones y atribuciones que corresponden a la COESAMED, el funcionamiento orgánico de ésta, se establecerá jerárquicamente de la siguiente manera:
+Todos los habitantes del Estado deberán cursar la educación básica. Es obligación de los padres y tutores lograr que sus hijos, hombres y mujeres, y pupilos cursen en igualdad de oportunidades los niveles de este tipo de educación.
 
-I. Órganos de Gobierno: Responsables de la máxima decisión en los asuntos de su competencia con motivo del cumplimiento del objeto de la COESAMED, y son los siguientes:
+###### ARTICULO 6.
 
-a) Consejo; y
+La educación que impartan el Estado, los Municipios y los particulares, cualquiera que sea su tipo y modalidad, promoverá el conocimiento de la geografía, cultura, valores arqueológicos, históricos y artísticos del Estado; tradiciones, lenguas y particularidades de las culturas indígenas, así como la importancia que el Estado de Querétaro ha tenido en la configuración y desarrollo de la historia e identidad de la nación mexicana.
 
-b) Comisionado.
+###### ARTICULO 7.
 
-II. Unidades Administrativas: Dependientes del Comisionado, y responsables de la ejecución de las políticas públicas y de la operación de las atribuciones de la COESAMED para el debido cumplimiento de su objeto, y son:
+La educación es el medio fundamental para adquirir, transmitir, desarrollar y acrecentar la cultura, así como el proceso permanente que contribuye al desarrollo integral del individuo y de la sociedad.
 
-a) Sub Comisión Médica;
+En el proceso educativo deberá asegurarse la participación activa del educando y los padres de familia o tutores, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refieren los artículos 5, 6 y 10 de esta Ley.
 
-1. Jefatura de Orientación y Quejas;
+###### ARTICULO 8.
 
-b) Sub Comisión Jurídica;
+La educación que impartan el Estado, sus Municipios y los organismos descentralizados de ambos, será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa.
 
-c) Jefatura Administrativa; y
+###### ARTICULO 9.
 
-d) Unidad de Comunicación Social y Relaciones Públicas.
+La educación que impartan el Estado y sus Municipios será gratuita y las donaciones que se destinen a dicha educación, en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
-III. Órganos de Control y Evaluación: Responsables de promover, evaluar, mejorar y fortalecer el buen funcionamiento del control interno y gestión, así como estudiar y fiscalizar el ejercicio eficiente de los recursos públicos; además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública, conforme a las disposiciones normativas aplicables en la materia, y son:
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-a) Órgano de Vigilancia; y
+Todas las aportaciones, que acuerden los padres de familia de cada plantel, tendrán siempre el carácter de voluntarias, por lo que no podrá aplicarse sanción alguna para los educandos que no las cubran, ni podrá restringirse por esta causa el derecho a la educación.
 
-b) Órgano Interno de Control.
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-###### ARTÍCULO 5°.
+Las aportaciones podrán otorgare en una sola exhibición o en parcialidades; en numerario, bienes o servicios, deberán ser administradas con honestidad y transparencia por la Asociación de Padres de Familia y serán destinadas al mejoramiento y actividades del Centro Educativo.
 
-Además de los Órganos y Unidades Administrativas señaladas en el artículo 4o. del Reglamento, la COESAMED contará con las Direcciones de Área, Jefaturas de Departamento, Asesores y personal en general que en su caso apruebe el Consejo considerando el presupuesto aprobado y las necesidades para la consecución de su objeto.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-###### ARTÍCULO 6°.
+A la persona que incurra en violación de lo establecido en este precepto, se le aplicarán las sanciones que señale el título IX de la presente ley y los reglamentos respectivos.
 
-El Consejo es el órgano supremo de autoridad de la COESAMED, cuyo objetivo primordial es conducir la política que deba regir en ésta, para el adecuado desarrollo de las atribuciones encomendadas.
+###### ARTICULO 10.
 
-###### ARTÍCULO 7°.
+La educación que impartan el Estado, los Municipios que lo integran, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, además de los fines establecidos en el segundo párrafo del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, tendrá los siguientes:
 
-El Consejo estará integrado en los términos y conforme al procedimiento que establece el Artículo 7o. de la Ley.
+I.- Contribuir al desarrollo integral del individuo, para que ejerza plenamente sus capacidades;
 
-Los Consejeros tendrán derecho de voz y voto en las sesiones del Consejo.
+II.- Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y reflexión críticos;
 
-###### ARTÍCULO 8°.
+III.- Fortalecer la identidad nacional, la conciencia de la soberanía, el respeto por la Historia, los Símbolos Patrios, y las instituciones nacionales; realizando entre otras acciones, honores a la bandera y conmemoraciones cívicas, así como la valoración y promoción de las tradiciones y particularidades culturales de las diversas regiones, comunidades y pueblos indígenas del Estado.
 
-De conformidad con lo dispuesto por el Artículo 11 de la Ley, el Consejo sesionará en forma ordinaria trimestralmente y en forma extraordinaria cuando sea necesario por existir razones de importancia para ello a convocatoria del Comisionado o a iniciativa de cuando menos tres de los integrantes del Consejo.
+IV.- Acorde a la enseñanza nacional, promover el español como un idioma común a los mexicanos, sin menoscabo de proteger y promover el desarrollo de las lenguas indígenas, implementando la educación bilingüe-bicultural en los planteles que impartan educación básica en las diversas regiones, comunidades y pueblos indígenas de la Entidad;
 
-Las decisiones se tomarán por mayoría de votos siempre y cuando exista quórum legal del cincuenta por ciento más uno de los integrantes del Consejo y en caso de empate, el Comisionado tendrá voto de calidad.
+V.- Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-El Comisionado convocará a las sesiones según sea el caso, tratándose de sesiones ordinarias lo hará por lo menos con cinco días hábiles de anticipación al día en que habrá de celebrarse la sesión, anexando a la convocatoria la relación de los asuntos a tratar; y de las extraordinarias por lo menos con veinticuatro horas antes de efectuarse, anexando a su vez los asuntos a tratar.
+VI.- Promover a través de cursos u otras actividades, los valores de la justicia, la ética social, la observancia de la ley y la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
 
-###### ARTÍCULO 9°.
+VII.- Fomentar actividades que estimulen la investigación tecnológica, humanística y la innovación científica;
 
-El Consejo sesionará atento a lo dispuesto por el Artículo 10 de la Ley.
+VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, y en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado;
 
-###### ARTÍCULO 10.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-En las ausencias del Comisionado como Presidente del Consejo, se estará a lo dispuesto por la Ley de Entidades Paraestatales.
+IX.- Estimular la educación física y la práctica del deporte, como elementos indispensables para una vida saludable y para el desarrollo integral del individuo;
 
-###### ARTÍCULO 11.
+X.- Desarrollar actitudes solidarias entre los individuos, para crear conciencia sobre la preservación de la salud, el respeto a la vida como valor fundamental de la persona, la planeación familiar y el ejercicio responsable de la paternidad, sin menoscabo de la libertad y del respeto absoluto de la dignidad humana, así como propiciar el rechazo a los vicios y a todo tipo de discriminación; en especial la que se dé en contra de la mujer.
 
-Los servidores públicos de la COESAMED podrán asistir a las sesiones del Consejo, con voz pero sin voto, cuando así sea acordado por dicho cuerpo colegiado, a fin de que proporcionen o rindan los informes que se requieran para la mejor solución de los asuntos de su competencia.
+XI.- Hacer conciencia de la necesidad del cuidado y protección de los animales, del aprovechamiento racional de los recursos naturales y del medio ambiente, como elementos indispensables para el desarrollo sustentable de la sociedad; y (sic)
 
-El Consejo podrá invitar a sus sesiones a personas ajenas a la COESAMED para efecto de que aporten información para la solución de cierto asunto, dichas personas solo contarán con derecho de voz.
+XII.- Fomentar actitudes solidarias hacia la familia, el trabajo, el ahorro y el bienestar general;
 
-## TÍTULO SEGUNDO. DE LOS ÓRGANOS DE GOBIERNO
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
 
-###### ARTÍCULO 12.
+XIII.- Fomentar en los maestros, padres de familia, encargados de cooperativas escolares y especialmente en los educandos, la adopción de estilos de vida saludables que comprendan el consumo de una dieta correcta y la práctica diaria de actividad física como elementos indispensables del desarrollo integral del individuo. Se entenderá por dieta correcta a aquella que es completa, equilibrada, inocua, suficiente, variada y adecuada.
 
-Para el debido cumplimiento de las atribuciones que establece el Artículo 10 de la Ley, corresponde al Consejo, el ejercicio de las siguientes facultades:
+###### ARTICULO 11.
 
-I. Establecer los lineamientos y políticas de naturaleza administrativa que deberán regir la operación de la COESAMED;
+Además de impartir la educación básica, el Estado y sus Municipios promoverán y atenderán -directamente, mediante sus organismos descentralizados, a través de apoyos o por cualquier otro medio- todos los tipos y modalidades educativas, incluida la educación media y superior, necesarias para el desarrollo del Estado.
 
-II. Revisar y, en su caso, aprobar los programas operativos a que se sujetará la COESAMED;
+## TITULO II. DE LAS ATRIBUCIONES DEL ESTADO Y LOS
 
-III. Aprobar el anteproyecto de presupuesto anual de la COESAMED, sujetándose a las disposiciones establecidas al respecto por la Ley de Presupuesto, Gasto público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios y el Presupuesto de Egresos del Estado;
+AYUNTAMIENTOS
 
-IV. Aprobar anualmente previa opinión de la Secretaría de Finanzas y la Contraloría del Estado, los estados financieros anuales de la COESAMED;
+###### ARTICULO 12.
 
-V. Emitir opiniones sobre los asuntos que someta a su consideración el Comisionado, cuando no estén previstos en este Reglamento u otros ordenamientos que rijan la operación de la COESAMED;
+Es competencia y obligación de las autoridades educativas del Estado, prestar en la Entidad los servicios de educación inicial, básica, indígena, especial y normal para la formación de maestros; así como regular la organización y funcionamiento de los planteles educativos que prestan dichos servicios.
 
-VI. Conocer del avance de los programas que semestralmente le presente el Comisionado;
+###### ARTICULO 13.
 
-VII. Aprobar las propuestas de modificación a la estructura orgánica de la COESAMED; y
+Corresponde de manera exclusiva al Poder Ejecutivo Estatal, por conducto de la Secretaría de Educación del Estado, las siguientes atribuciones:
 
-VIII. Las demás que le confieran otras disposiciones aplicables.
+I.- Elaborar los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación primaria, la secundaria, la normal, la indígena y la correspondiente a la formación de maestros de educación básica, así como también las modificaciones que a dichos contenidos deban llevarse a cabo y comunicarlos a la autoridad educativa federal, tomando en consideración la opinión del Consejo Estatal de Participación Social en la Educación;
 
-###### ARTÍCULO 13.
+II.- Realizar una distribución oportuna y eficiente de los libros de texto gratuitos y demás materiales educativos complementarios que sean proporcionados por la autoridad educativa federal;
 
-Para el adecuado desarrollo de las sesiones del Consejo, el Sub-Comisionado Jurídico, fungirá como Secretario Técnico.
+III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación, con relación al fijado por la autoridad educativa federal;
 
-###### ARTÍCULO 14.
+IV.- Regularizar, mediante programas específicos a los maestros en activo para que obtengan el grado de licenciatura;
 
-Cuando este ordenamiento, o el Reglamento de Procedimientos para la Atención de Quejas no establezcan lineamientos sobre situaciones que sean presentadas a la COESAMED, el Consejo las resolverá y los criterios sustentados en sus decisiones podrán ser tomadas en consideración para subsecuentes situaciones similares.
+V.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, mediante la creación de un instituto especializado, o de los convenios celebrados con la Federación, de conformidad con las disposiciones generales que la Ley General de Educación determine;
 
-###### ARTÍCULO 15.
+VI.- Revalidar y otorgar equivalencias de estudios de la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la autoridad educativa federal expida;
 
-Son facultades del Presidente del Consejo:
+VII.- Otorgar, negar y revocar fundada y motivadamente o el reconocimiento de validez oficial a los particulares para impartir la educación inicial, básica, normal y demás para la formación de maestros de educación básica; y (sic)
 
-I. Convocar a los Consejeros a sesiones ordinarias y extraordinarias;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-II. Conducir las sesiones del Consejo;
+VIII.- Implementar en los planteles de educación básica, estrategias y medidas tendientes a desmotivar el consumo de productos alimenticios con bajo o nulo valor nutricional, por parte de los educandos, así como prohibir la publicidad enfocada al consumismo, al interior de los planteles, salvo la que se encuentre en el producto mismo y en los elementos necesarios para su conservación y exhibición; y
 
-III. Informar al Consejo del avance en la ejecución de los acuerdos adoptados;
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
 
-IV. Presentar al Consejo los asuntos que deberán desahogarse en cada sesión, así como la información y documentación necesaria y suficiente para la adecuada toma de decisiones;
+IX.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias.
 
-V. Suscribir las actuaciones del Consejo; y
+###### ARTICULO 14.
 
-VI. Las demás que le confieran otras disposiciones aplicables.
+Son facultades concurrentes de la autoridad educativa del Estado, con la autoridad educativa federal, las siguientes:
 
-###### ARTÍCULO 16.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 1996)</small>
 
-Corresponde a los Consejeros:
+I.- Promover y prestar los servicios educativos, así como elaborar los programas de estudio distintos a los previstos en las fracciones I y II del artículo 13 de esta Ley, de acuerdo a las necesidades nacionales, regionales y estatales;
 
-I. Asistir a las sesiones a que sean convocados y manifestarse libremente sobre los asuntos planteados;
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 1996)</small>
 
-II. Votar los asuntos que se discutan en el Consejo, a efecto de establecer los acuerdos del caso;
+II.- Revalidar y otorgar equivalencias de estudio distintos de los mencionados en la fracción VI del artículo 13 de esta Ley, de acuerdo con los lineamientos generales que expida la autoridad educativa federal;
 
-III. Expresar su voto particular cuando disientan sobre los acuerdos adoptados por mayoría de sus miembros.
+III.- Otorgar, negar y retirar fundada y motivadamente el reconocimiento de validez oficial a estudios distintos de los de primaria, secundaria, normal y demás para la formación de maestros de educación básica que impartan los particulares;
 
-IV. Suscribir las actas en las que se dé cuenta de las sesiones del Consejo; y
+IV.- Editar libros que impulsen la educación bilingüe y bicultural de los pueblos indigenas y producir otros materiales didácticos distintos de los libros de texto gratuitos;
 
-V. Las demás que les confieran otras disposiciones aplicables.
+V.- Prestar servicios bibliotecarios a fin de apoyar al Sistema Educativo Nacional, a la innovación educativa, así como a la investigación científica, tecnológica y humanística;
 
-## TÍTULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS
+VI.- Promover permanentemente la investigación que sirva como base para la innovación educativa;
 
-### CAPÍTULO I. Del Objeto
+VII.- Impulsar el desarrollo de la enseñanza y la investigación científica, tecnológica y humanística;
 
-###### ARTÍCULO 17.
+VIII.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones, procurando proveer en todas las escuelas del nivel básico del personal necesario capacitado.
 
-Son facultades del Secretario Técnico del Consejo:
+IX.- Promover, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública; y
 
-I. Llevar el registro de los nombramientos de los Consejeros;
+X.- Establecer Consejos de Participación Social en la Educación, en los términos a que se refiere la Ley General de Educación.
 
-II. Convocar, por instrucciones del Presidente del Consejo, con cuando menos cinco días hábiles de anticipación las sesiones ordinarias, y las extraordinarias, con cuando menos veinticuatro horas de antelación;
+Las autoridades educativas del Estado promoverán con las autoridades Federales la celebración de convenios para la eficaz prestación de los servicios educativos a que se refiere este Artículo.
 
-III. Remitir, junto con la convocatoria y el orden del día, a los Consejeros y en su caso a los servidores públicos y/o demás personas que habrán de asistir a las sesiones, la documentación necesaria para su buen desarrollo;
+###### ARTICULO 15.
 
-IV. Llevar el libro de actas del Consejo, en las que deberán asentarse las intervenciones de los presentes en cada sesión, así como los acuerdos que se hayan tomado;
+Los Municipios que integran el Estado, sin perjuicio de la concurrencia de las autoridades educativas federal y estatal, podrán:
 
-V. Dar seguimiento a los acuerdos emanados del Consejo;
+I.- Promover y prestar servicios educativos de cualquier tipo o modalidad, previo convenio con la autoridad educativa competente y de conformidad con sus propios recursos;
 
-VI. Mantener el archivo del Consejo; y
+II.- Editar libros que impulsen la educación bilingüe y bicultural de los pueblos indígenas y producir otros materiales didácticos distintos a los libros de texto gratuitos;
 
-VII. Las demás que le confieran otras disposiciones aplicables.
+III.- Prestar servicios bibliotecarios a fin de apoyar al Sistema Educativo Nacional, a la innovación educativa, así como a la investigación científica, tecnológica y humanística;
 
-###### ARTÍCULO 18.
+IV.- Promover permanentemente la investigación que sirva como base para la innovación educativa;
 
-Corresponde originariamente al Comisionado la representación de la COESAMED, así como también el trámite y resolución de todos los asuntos que sean competencia de ésta. Para tales efectos, ejercerá todas las facultades que resulten necesarias, en términos de lo que expresamente señalan el Artículo 12 de la Ley y la Ley de Entidades Paraestatales, pudiendo delegar la representación en los servidores públicos que determine, sin detrimento de su ejercicio directo.
+V.- Impulsar el desarrollo de la enseñanza e investigación científica, tecnológica y humanística;
 
-###### ARTÍCULO 19.
+VI.- Dar mantenimiento y proveer de equipo necesario a las escuelas públicas;
 
-Para el debido cumplimiento de sus atribuciones, corresponde al Comisionado, el ejercicio de las siguientes facultades:
+VII.- Integrar un Consejo Municipal de Participación Social, que contribuya a elevar la calidad y cobertura de la educación; y
 
-I. Determinar, dirigir y controlar la política de la COESAMED, con sujeción a los lineamientos que emita el Consejo, de conformidad con la normativa que al efecto sea aplicable, así como en congruencia con los objetivos, estrategias y prioridades que establezca en la materia objeto de la COESAMED, el Plan de Desarrollo del Estado y los programas sectoriales que con la misma se vinculen;
+VIII.- Coadyuvar en la implementación de la educación indígena en aquellos casos donde existan pueblos y comunidades con esta característica.
 
-II. Someter al acuerdo del Consejo, los asuntos competencia de éste;
+###### ARTICULO 16.
 
-III. Aprobar, con la participación que le corresponda al Consejo, la organización y funcionamiento de la COESAMED, así como también adscribir las Unidades Administrativas previstas en el presente ordenamiento, conforme a las autorizaciones que al respecto emitan las dependencias competentes;
+La aplicación y vigilancia del cumplimiento de esta ley corresponden al Gobernador del Estado y a los Ayuntamientos, en sus respectivas competencias. El Gobernador del Estado ejercerá sus atribuciones por medio de la Secretaría de Educación, dependencia del Poder Ejecutivo, que ejercerá la rectoría del desarrollo educativo en la Entidad.
 
-IV. Informar anualmente al titular del Ejecutivo Estatal, sobre las actividades de la COESAMED, procurando que este informe sea difundido ampliamente entre la sociedad;
+## TITULO III. EL SISTEMA EDUCATIVO ESTATAL
 
-V. Autorizar el contenido del órgano oficial de difusión de la COESAMED, que de manera trimestral dará a conocer las actividades desarrolladas en el cumplimiento de su objeto;
+### CAPITULO PRIMERO. DE LOS SERVICIOS EDUCATIVOS
 
-VI. Someter a la aprobación del Consejo el Manual General de Organización de la COESAMED, que deberá publicarse en el órgano oficial de difusión de la misma, así como también aquellos manuales de organización, procedimientos y otros, necesarios para el mejor funcionamiento de la institución;
+###### ARTICULO 17.
 
-VII. Nombrar al personal de las unidades adscritas, cuya facultad no esté reservada al Consejo o al titular del Ejecutivo Estatal, así como ordenar la expedición de sus nombramientos y resolver sobre la remoción de los mismos;
+La educación que impartan el Estado y sus Municipios que lo integran, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, es un servicio público. Constituyen los elementos fundamentales del Sistema Educativo Estatal los siguientes:
 
-VIII. Acordar con los titulares de las Unidades Administrativas de la COESAMED los asuntos de su respectiva competencia;
+I.- Los educandos;
 
-IX. Supervisar el ejercicio de las atribuciones de los titulares de las Unidades Administrativas bajo su dependencia directa;
+II.- Los educadores;
 
-X. Designar los representantes de la COESAMED en otras instancias, tales como consejos, órganos de gobierno, instituciones y, en general, en aquellas entidades públicas y privadas que inviten a la COESAMED a participar;
+III.- Las autoridades educativas;
 
-XI. Someter a consideración del Consejo, el Reglamento Interno, así como el de Procedimientos para la Atención de Quejas;
+IV.- Los planes, programas, métodos y materiales educativos;
 
-XII. Disponer y autorizar la emisión de los acuerdos, laudos y opiniones en asuntos de la competencia de la COESAMED;
+V.- Las instituciones educativas del Estado, de los Municipios que lo integran y sus respectivos organismos descentralizados;
 
-XIII. Someter al seno del Consejo el programa presupuesto anual de la COESAMED y verificar su correcta y oportuna ejecución;
+VI.- Las instituciones particulares con autorización o con reconocimiento de validez oficial de estudios, y
 
-XIV. Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos de Control y Evaluación de la COESAMED se realicen de acuerdo con las disposiciones legales aplicables;
+VII.- Las instituciones de educación superior a las que la ley otorga autonomía.
 
-XV. Rendir los informes trimestrales que le presenten las Unidades del Órgano Interno de Control, ante el Consejo, con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales;
+Las instituciones del Sistema Educativo Estatal, impartirán educación de manera que se permita al educando incorporarse a la sociedad y, en su oportunidad, desarrollar una actividad productiva; asimismo, que permita al trabajador incorporarse a dicho sistema.
 
-XVI. Conformar y mantener actualizada la Bibliohemeroteca de la COESAMED; y
+###### ARTICULO 18.
 
-XVII. Las demás que con tal carácter le correspondan como titular de la COESAMED en los términos de las disposiciones normativas aplicables.
+La Secretaría de Educación organizará y vigilará el funcionamiento del Sistema Educativo Estatal en coordinación con los ayuntamientos, de conformidad con el reglamento que al efecto expida el Titular del Poder Ejecutivo del Estado.
 
-###### ARTÍCULO 20.
+###### ARTICULO 19.
 
-Corresponde a los titulares de las Unidades Administrativas, el ejercicio de las siguientes atribuciones genéricas:
+El Sistema Educativo Estatal es un instrumento de organización, estructuración, coordinación, administración y evaluación de los servicios educativos que se prestan en el Estado, sean públicos o privados y de cualquiera que sea su tipo y modalidad.
 
-I. Auxiliar a sus superiores dentro de la esfera de competencia de la Unidad Administrativa a su cargo, en el ejercicio de sus atribuciones;
+###### ARTICULO 20.
 
-II. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las labores encomendadas a la unidad administrativa a su cargo;
+Las autoridades educativas del Estado tomarán las medidas necesarias, tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación, de los habitantes de la Entidad, con una mayor equidad educativa y para el logro de la efectiva igualdad de acceso y permanencia en los servicios educativos.
 
-III. Acordar con su superior jerárquico, la resolución de los asuntos cuya tramitación se encuentre dentro de su competencia;
+De manera preferente, las medidas anteriores se orientarán a los grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja.
 
-IV. Emitir los dictámenes, opiniones o informes que le sean solicitados por su superior jerárquico;
+###### ARTICULO 21.
 
-V. Proponer a su superior jerárquico, el ingreso, promociones, licencias y remociones del personal bajo su adscripción;
+El establecimiento de instituciones educativas que realice el Poder Ejecutivo del Estado, por conducto de otras dependencias de la Administración Pública Estatal, así como la formalización de planes y programas de estudio para dichas instituciones, se harán en coordinación y bajo los lineamientos que determine la autoridad educativa estatal. Dichas Dependencias expedirán constancias, certificados, diplomas y títulos que tendrán la validez correspondiente a los estudios realizados, salvo el caso de los planes y programas de estudio para la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, los cuales serán formulados por la autoridad educativa federal.
 
-VI. Elaborar, de conformidad con los lineamientos de las Unidades competentes de la COESAMED, así como de las dependencias competentes, los informes necesarios para el adecuado desarrollo de las actividades encomendadas a la COESAMED;
+###### ARTICULO 22.
 
-VII. Formular, de conformidad con los lineamientos que al respecto dicten las dependencias competentes y con la participación que le corresponda a la COESAMED, los proyectos de programas y presupuestos relativos a la Unidad Administrativa a su cargo;
+El docente es promotor, coordinador y agente directo del proceso educativo. Deben proporcionársele los medios que contribuyan a su constante capacitación y perfeccionamiento. Para ejercer la docencia en instituciones establecidas por el Estado, por los Municipios que lo integran, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, los maestros deberán satisfacer los requisitos que, en su caso, señalen las leyes, reglamentos y demás disposiciones relativas.
 
-VIII. Coordinar sus actividades con las demás Unidades Administrativas cuando así se requiera para el mejor funcionamiento de la COESAMED;
+El Estado otorgará un salario en los términos que establece la Ley General de Educación, de acuerdo con lo dispuesto en la Ley de Ingresos y el Presupuesto de Egresos, que coadyuve a que todos los educadores integrados al Sistema Educativo Estatal, alcancen un nivel de vida decoroso para su familia, y puedan arraigarse en las comunidades en las que trabajan, disfrutar de una vivienda digna y que puedan disponer del tiempo necesario para su mejoramiento profesional.
 
-IX. Firmar y notificar los acuerdos de trámite, las resoluciones o acuerdos de las autoridades superiores y aquellos que se emitan con fundamento en las atribuciones que le son propias;
+Las autoridades educativas del Estado y de los Municipios que lo integran, establecerán mecanismos que propicien la permanencia de los maestros frente a grupo y otorgarán reconocimientos, distinciones, estímulos o recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio.
 
-X. Autorizar por escrito, conforme a las necesidades del servicio y de acuerdo con su superior jerárquico, a los servidores públicos subalternos a firmar documentación relacionada con los asuntos que competan a la Unidad Administrativa a su cargo;
+###### ARTICULO 23.
 
-XI. Establecer, coordinar y supervisar las políticas, normas, sistemas y procedimientos para la óptima administración de los recursos humanos, materiales y financieros de la COESAMED; y
+Las autoridades educativas del Estado en su respectivo ámbito de competencia, constituirán el sistema estatal de formación, actualización, capacitación y superación profesional para maestros. Tratándose de educación básica se apegarán a los lineamientos generales que emita la autoridad educativa federal, cuyas finalidades se ajustarán a lo dispuesto en la Ley General de Educación.
 
-XII. Las demás que las disposiciones legales y administrativas les confieran, y que les encomiende el Comisionado.
+###### ARTICULO 24.
 
-###### ARTÍCULO 21.
+Las autoridades educativas del Estado revisarán permanentemente las disposiciones, los trámites y procedimientos, con objeto de simplificarlos y reducir las cargas administrativas de los maestros, a fin de alcanzar más horas efectivas de clase.
 
-Corresponde a la Sub Comisión Médica el despacho de los siguientes asuntos:
+###### ARTICULO 25.
 
-I. Implementar los mecanismos de coordinación entre la COESAMED y las instituciones públicas o privadas de salud, para el cumplimiento del objetivo de la COESAMED;
+Los beneficiados directamente por los servicios educativos deberán prestar su servicio social, en los casos y términos que señalen las leyes que regulen el ejercicio profesional y otras disposiciones aplicables. En éstas, se señalará la prestación del servicio social como requisito indispensable para obtener título o grado académico.
 
-II. Llevar a cabo los mecanismos y estrategias de relación con Colegios y Sociedades o Asociaciones de Profesionales de la Medicina disciplinas vinculadas al objeto de la COESAMED;
+###### ARTICULO 26.
 
-III. Dictaminar si las quejas recibidas son competencia de la COESAMED;
+Las instituciones del Sistema Educativo Estatal expedirán certificados y otorgarán constancias, diplomas, título o grados académicos a las personas que hayan concluido sus estudios, de conformidad con los requisitos establecidos en los programas de estudio correspondientes.
 
-IV. Recibir, atender y calificar el fundamento de las quejas presentadas ante la COESAMED;
+### CAPITULO SEGUNDO. DEL FINANCIAMIENTO A LA EDUCACION
 
-V. Solicitar y analizar la información relativa a los hechos materia (sic) la queja;
+###### ARTICULO 27.
 
-VI. Turnar a las autoridades o instituciones correspondientes, los casos que no sean de la competencia de la COESAMED;
+El Gobierno del Estado, con sujeción a las correspondientes disposiciones de ingresos y gasto público que resulten aplicables, concurrirá al financiamiento de los servicios educativos.
 
-VII. Recibir, admitir o rechazar las quejas presentadas por los usuarios de los servicios médicos respecto a la presunta irregularidad en la prestación o negativa de prestación de servicios;
+Los recursos federales recibidos para ese fin por el Gobierno del Estado y las aportaciones que hagan los particulares, no podrán ser transferidos y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la propia entidad.
 
-VIII. Investigar los hechos presumiblemente atribuidos a los prestadores de servicios médicos, en los términos de las quejas presentadas;
+El Gobierno del Estado prestará todas las facilidades y colaboración para que, en su caso, el Ejecutivo Federal verifique la correcta aplicación de dichos recursos.
 
-IX. Instar a las partes involucradas en la queja a llegar a la conciliación;
+El Gobierno del Estado, de conformidad con las disposiciones aplicables, proveerá lo conducente para que el Ayuntamiento de cada municipio reciba recursos para el cumplimiento de las responsabilidades que, en términos del artículo 16 de esta Ley, estén a cargo de la autoridad municipal. Estos también tendrán el carácter de intransferibles.
 
-X. Proponer a las partes, si no hay conciliación o acuerdo, el arbitraje de la COESAMED como medida para dirimir el conflicto materia de la queja;
+En caso de que tales recursos se empleen para fines distintos, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado, sin perjuicio de la responsabilidad civil o penal que resulte.
 
-XI. De acuerdo con el Sub-Comisionado Jurídico, realizar las investigaciones y estudios que requiera el análisis de la queja, a efecto de someter a la consideración del Comisionado el proyecto de laudo o resolución que corresponda;
+###### ARTICULO 28.
 
-XII. Elaborar los proyectos de procedimientos que deberán aplicarse en materia de orientación, recepción y valoración de quejas, conciliación y arbitraje y someterlos a consideración del Comisionado;
+En cumplimiento a lo dispuesto en el artículo anterior, el Gobierno del Estado tomará en cuenta el carácter prioritario de la educación pública para los fines del desarrollo estatal.
 
-XIII. Suscribir los citatorios y cédulas de notificación a usuarios y prestadores de servicios y demás personas relacionadas con los hechos materia de la queja;
+En todo tiempo, procurará fortalecer las fuentes de financiamiento y destinar recursos presupuestarios crecientes, en términos reales, para la educación pública.
 
-XIV. Actuar como conciliador en aquellos casos en que exista reclamación susceptible de solución ante la COESAMED;
+###### ARTICULO 29.
 
-XV. Proponer a los usuarios de los servicios médicos y a los prestadores de servicios la amigable composición;
+Son de interés social las inversiones que en materia educativa realicen el Estado, los Municipios que lo integran, sus organismos descentralizados y los particulares.
 
-XVI. Formular propuestas de conciliación entre las partes;
+### CAPITULO TERCERO. EVALUACION DEL SISTEMA EDUCATIVO
 
-XVII. Elaborar y determinar en su caso, de conformidad con la voluntad de las partes, los convenios que se den como resultado de la amigable composición;
+###### ARTICULO 30.
 
-XVIII. Proponer a las partes el procedimiento de arbitraje, en los casos no conciliados;
+Corresponde al Poder Ejecutivo Estatal, a través de la Secretaría de Educación del Estado, la evaluación del Sistema Educativo en la Entidad.
 
-XIX. Reunir los elementos necesarios para analizar los casos que se sometan al arbitraje;
+Dicha evaluación será sistemática y permanente; sus resultados serán tomados como base para que las autoridades educativas en el ámbito de su competencia, adopten las medidas procedentes para mantener y mejorar el servicio educativo.
 
-XX. Suscribir los citatorios y cédulas de notificación para usuarios, prestadores de servicios y demás personas que, se relacionen con los hechos materia del arbitraje;
+###### ARTICULO 31.
 
-XXI. Citar al o los especialistas que se consideren necesarios para esclarecer algún criterio; y
+Las instituciones educativas establecidas por el Estado, por sus Municipios que lo integran, por sus organismos descentralizados y por los particulares con autorización o reconocimiento de validez oficial de estudios, otorgarán a las autoridades educativas todas las facilidades y colaboración para la evaluación a que este capítulo se refiere, en los términos que marca la Ley General de Educación. La autoridad sólo requerirá dicha colaboración en aspectos relacionados con el proceso educativo, dejando a salvo las competencias de las autoridades que incidan en cada institución en lo particular.
 
-XXII. Las demás que le señale el Comisionado, necesarias para el mejor cumplimiento de sus funciones.
+Dichas instituciones, están obligadas a aportar a la Secretaría de Educación del Estado, la información y documentación que les sea requerida, para verificar el cumplimiento de las normas pedagógicas, contenidos, planes, programas de estudio y métodos aprobados; asimismo, se sujetarán a los procesos de supervisión y vigilancia que se establezcan en el reglamento correspondiente, con excepción de las instituciones públicas que, conforme a la fracción VII del Artículo 3º de la Constitución General de la República, se les hubiere otorgado autonomía.
 
-###### ARTÍCULO 22.
+La autoridad sólo requerirá dicha colaboración en aspectos relacionados con el proceso educativo, dejando a salvo las competencias de las demás autoridades que incidan en cada institución en lo particular.
 
-La Sub Comisión Médica contará con un titular que será el Sub-Comisionado Médico, al cual le corresponderá el ejercicio de las siguientes facultades:
+###### ARTICULO 32.
 
-I. Asesorar al Comisionado en los asuntos de carácter médico que se sometan a su consideración;
+La autoridad educativa estatal, en un plazo de noventa días contados a partir de la conclusión de los correspondientes cursos de cada nivel educativo, dará a conocer a los docentes, alumnos, padres de familia, tutores y sociedad en general, los resultados de las evaluaciones que realice, así como la información global que permita medir el desarrollo y los avances de la educación en la Entidad.
 
-II. Proponer al Comisionado medidas tendientes al mejoramiento operativo de la COESAMED;
+###### ARTICULO 33.
 
-III. Desempeñar los encargos que el Comisionado le encomiende y representar a la COESAMED en los actos que éste determine por acuerdo expreso;
+Cuando los resultados de la evaluación académica sean negativos en más de tres ciclos escolares consecutivos por parte de las instituciones privadas con autorización o con reconocimiento de validez oficial de estudios, será causa de revocación de la autorización o retiro del reconocimiento correspondiente.
 
-IV. Suscribir los documentos relativos al ejercicio de las facultades que les otorgue el presente ordenamiento, delegadas, autorizadas o cuando les correspondan por suplencia;
+## TITULO IV. DE LA EQUIDAD DE LA EDUCACION
 
-V. Participar con voz informativa en el trámite de las quejas que se presenten ante el Consejo;
+###### ARTICULO 34.
 
-VI. Admitir o rechazar las quejas presentadas respecto de la presunta irregularidad en la prestación o negativa de servicios médicos;
+Las autoridades del Estado y de los Municipios que lo integran, tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo y una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos.
 
-VII. Investigar y analizar los hechos presumiblemente atribuidos a los prestadores de servicios médicos, en los términos de las quejas presentadas, así como solicitar la información necesaria;
+Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja.
 
-VIII. Tramitar los procedimientos de conciliación y arbitraje;
+###### ARTICULO 35.
 
-IX. Proponer a las partes el procedimiento de arbitraje en los casos no conciliados;
+Para cumplir lo dispuesto en el artículo anterior, las autoridades educativas del Estado, en el ámbito de su respectiva competencia, llevarán a cabo las actividades siguientes:
 
-X. Proporcionar la información, datos y cooperación técnica que soliciten otras dependencias y entidades de la Administración Pública Federal, de conformidad con las instrucciones que al efecto gire el Comisionado;
+I.- Atenderán de manera especial a escuelas en las que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones;
 
-XI. Establecer los medios de comunicación adecuados con las instituciones públicas y privadas, prestadoras de los servicios médicos, así como con academias y colegios de profesionales de la medicina y disciplinas vinculadas al objeto de la COESAMED;
+II.- Desarrollarán programas de apoyo a docentes que realicen su servicio en localidades aisladas o zonas urbanas marginadas, a fin de fomentar su arraigo en éstas;
 
-XII. Elaborar, actualizar y supervisar el sistema de información y estadística de la COESAMED;
+III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y escuelas que impartan la educación bilingüe y bicultural, así como demás planteles que apoyen en forma continua y estable el aprendizaje y aprovechamiento de los alumnos;
 
-XIII. Elaborar los proyectos de las opiniones médicas o técnicas que se emitan en todos aquellos casos en que no se resuelva la queja mediante la conciliación; y
+IV.- Prestarán servicios educativos para atender a quienes abandonen el sistema regular, facilitándoles la terminación de la primaria y la secundaria;
 
-XIV. Las demás que le sean conferidas en este Reglamento y otras disposiciones legales y reglamentarias aplicables, así como aquellas que le confiera el Comisionado.
+V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos;
 
-#### SECCIÓN ÚNICA. De la Jefatura de Orientación y Quejas
+VI.- Establecerán sistemas de educación a distancia;
 
-###### ARTÍCULO 23.
+VII.- Realizarán campañas de alfabetización y educativas que tiendan a elevar los niveles culturales, sociales y de bienestar a la población, involucrando en estas tareas al educando e instituciones de nivel medio y superior;
 
-La Jefatura de Orientación y Quejas dependerá de la Sub Comisión Médica, dicha Jefatura contará con un titular al cual le corresponderá el despacho de los siguientes asuntos:
+VIII.- Desarrollarán programas para otorgar becas y demás apoyos asistenciales y económicos al educando;
 
-I. Auxiliar a sus superiores dentro de la esfera de competencia de la jefatura a su cargo, en el ejercicio de sus atribuciones;
+IX.- Efectuarán programas permanentes dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos o pupilos;
 
-II. Dar orientación al usuario de manera personal y vía telefónica;
+X.- Otorgarán estímulos a las asociaciones civiles y a las cooperativas de maestros o padres de familia que se dediquen a la enseñanza;
 
-III. Gestionar con el Prestador de Servicios de Salud la atención para el paciente, dentro de las competencias de la COESAMED y darle seguimiento al asunto;
+XI.- Promoverán una mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este Capítulo;
 
-IV. Registrar la información en el sistema electrónico, respecto a la orientación y gestión inmediata;
+XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el Artículo anterior; y
 
-V. Integrar los expedientes correspondientes relacionados con la orientación y la gestión inmediata;
+XIII.- Prestarán servicios educativos para atender a discapacitados y educandos con capacidad y aptitudes sobresalientes, para quienes, además, se promoverán procedimientos y planteles que permitan la acreditación de grados y niveles educativos, tomando como base su madurez y conocimientos adquiridos.
 
-VI. Elaborar los oficios derivados de la orientación y gestión inmediata;
+## TITULO V. DEL PROCESO EDUCATIVO
 
-VII. Aplicar la encuesta de satisfacción a los usuarios de los servicios de la COESAMED; y
+### CAPITULO PRIMERO. TIPOS Y MODALIDADES DE LA EDUCACION
 
-VIII. Las demás que le confieran otras disposiciones aplicables.
+###### ARTICULO 36.
 
-###### ARTÍCULO 24.
+La educación que se imparta dentro del Sistema Educativo Estatal, se integrará por los siguientes tipos, niveles, modalidades, formas y grados:
 
-La Sub Comisión Jurídica contará con un titular que será el Sub-Comisionado Jurídico, el cual tiene encomendado el ejercicio de las siguientes facultades:
+I.- Tipos de Educación
 
-I. Auxiliar al Comisionado, dentro del ámbito de su competencia, en el ejercicio de sus atribuciones;
+a) Básica
 
-II. Desempeñar los encargos que el Comisionado le encomiende y por acuerdo expreso representar a la COESAMED en los actos que su titular determine;
+b) Media
 
-III. Acordar con el Comisionado los asuntos de las Unidades Administrativas de su adscripción;
+c) Superior
 
-IV. Solicitar información adicional a los prestadores de servicios médicos a efecto de precisar datos para que aporten otros elementos que permitan evaluar el grado de cumplimiento de los compromisos derivados de los convenios de conciliación o laudos que resulten de las quejas presentadas en su contra y, en su caso, practicar las diligencias que fueran necesarias para verificar la información recibida;
+II.- Niveles de Educación
 
-V. Informar el estado que guarda el cumplimiento de los compromisos derivados de los convenios de conciliación o laudos que resulten de las quejas presentadas en su contra, a efecto de que dichas Unidades Administrativas conozcan su grado de atención;
+a) Para el tipo Básico
 
-VI. Compilar las distintas normas jurídicas inherentes a la actividad de la COESAMED;
+a.1).- Preescolar
 
-VII. Organizar los criterios derivados de la atención de quejas, con base en los resultados de las diversas Unidades Administrativas de la COESAMED;
+a.2).- Primaria
 
-VIII. Administrar el Archivo Jurídico de la COESAMED;
+a.3).- Secundaria
 
-IX. Recibir y analizar los expedientes de los asuntos remitidos por la Sub Comisión Médica;
+b) Para el tipo Medio
 
-X. Asesorar jurídicamente a las Unidades Administrativas de la COESAMED y establecer los criterios de interpretación de las disposiciones jurídico administrativas que normen su funcionamiento;
+b.1) Bachillerato o sus equivalentes
 
-XI. Dictaminar los convenios, acuerdos o bases de coordinación y colaboración, que celebre la COESAMED con cualesquiera, institución, pública o privada, o con los gobiernos municipales relacionados con el cumplimiento de su objeto;
+b.2) Nivel profesional que no requiera de bachillerato
 
-XII. Llevar el registro de los instrumentos jurídicos que celebre la COESAMED;
+c) Para el tipo superior
 
-XIII. Elaborar los proyectos de ordenamientos jurídico administrativos que se relacionen con la competencia de la COESAMED;
+c.1) Técnico universitario
 
-XIV. Planear, programar, organizar, dirigir y evaluar las actividades de las Unidades Administrativas de su adscripción, conforme a las instrucciones del Comisionado;
+c.2) Licenciatura
 
-XV. Proporcionar la información, datos y cooperación técnica que soliciten otras dependencias de la Administración Pública Estatal, de conformidad con las instrucciones que al efecto gire el Comisionado;
+c.3) Postgrado, que comprende la Especialidad, Maestría y Doctorado.
 
-XVI. Representar a la COESAMED en las actividades, consejos, órganos de gobierno o cuerpos colegiados de cualquier naturaleza en los que ésta participe y que el Comisionado le indique;
+III.- Modalidades de educación
 
-XVII. Suscribir los documentos relativos al ejercicio de las facultades que le otorgue el presente ordenamiento y que le hayan sido delegadas, autorizadas o que le correspondan por suplencia;
+a) Escolarizada, que es aquella cuyos planes y programas se cumplen esencialmente en la escuela.
 
-XVIII. Coordinarse con los demás titulares de las Unidades Administrativas, para el mejor desempeño de los asuntos competencia de la COESAMED;
+b) No escolarizada, que es aquella cuyos planes y programas se cumplen dependiendo de la condición especial del educando.
 
-XIX. Proponer al Comisionado la delegación o las autorizaciones para ejercer facultades en favor de servidores públicos subalternos, en asuntos de su competencia;
+c) Mixta, que es aquella cuyos planes y programas se cumplen tanto en la escuela como atendiendo a la condición especial del educando, en el grado de complementación que determine la autoridad educativa y los reglamentos.
 
-XX. Acordar con los titulares de las Unidades Administrativas de su adscripción;
+IV.- Formas de la educación:
 
-XXI. Formular los anteproyectos de programas y de presupuestos que le correspondan así como también verificar su correcta y oportuna ejecución por parte de las Unidades Administrativas de su adscripción;
+a).- Inicial: es aquella que se ofrece para el fortalecimiento del desarrollo infantil en su primera etapa antes de preescolar.
 
-XXII. Vigilar que se cumpla con las disposiciones aplicables en los asuntos de su competencia;
+b).- Indígena: es aquella que se ofrece en los pueblos y comunidades que por sus características lingüísticas y culturales requieran de ésta.
 
-XXIII. Llevar a cabo los mecanismos de coordinación entre la COESAMED y las dependencias de la Administración Pública Estatal, cuyas funciones se vinculen con la COESAMED, tales como instancias procuradoras de justicia, defensoras de derechos humanos, instituciones educativas (sic) demás agrupaciones de cualquier naturaleza, que sean de interés para el cumplimiento del objeto (sic) la COESAMED;
+c).- Para adultos: es aquella que se ofrece a los mayores de quince años que no hubiesen terminado el tipo básico.
 
-XXIV. Llevar a cabo los mecanismos de coordinación con los gobiernos municipales para el cumplimiento de su objeto;
+d).- Especial: es aquella destinada a individuos con lento aprendizaje o con aptitudes sobresalientes, según el caso.
 
-XXV. Vigilar el cumplimiento de los convenios, acuerdos o bases de coordinación y colaboración que suscriba la COESAMED;
+e).- Para el trabajo: es aquella que se ofrece a efecto de que las personas se puedan incorporar productivamente al mercado laboral o al autoempleo.
 
-XXVI. Brindar asesoría en materia del derecho a la protección de la salud;
+f).- Para discapacitados: es aquella que se ofrece a personas con problemas físicos, temporales o definitivos.
 
-XXVII. Orientar a los usuarios y prestadores de servicios médicos sobre los derechos y obligaciones que consigna la Ley de Salud del Estado de Aguascalientes y otras disposiciones aplicables;
+V.- Grados de la educación: los correspondientes a cada nivel educativo, según los planes de estudio.
 
-XXVIII. Proponer al Comisionado proyectos de reformas, adiciones y/o modificaciones a la normatividad aplicable a la COESAMED;
-
-XXIX. Hacer del conocimiento de las autoridades competentes la presumible comisión de algún ilícito por parte de algún prestador de servicios, cuando de la queja se tengan elementos de convicción suficientes, en el ámbito de su competencia; y
-
-XXX. Las demás que otras disposiciones legales le confieran y que el Comisionado le encomiende.
-
-###### ARTÍCULO 25.
-
-Corresponde al Sub-Comisionado Jurídico el ejercicio de las siguientes facultades y obligaciones específicas:
-
-I. Instar a las partes involucradas en la queja a llegar a la conciliación;
-
-II. Proponer a las partes el arbitraje de la COESAMED, como medida para dirimir el conflicto materia de la queja;
-
-III. Sustanciar el procedimiento de arbitraje;
-
-IV. Realizar las investigaciones y estudios que requiera el análisis de la queja, a efecto de someter a consideración del Comisionado el proyecto de laudo o resolución que corresponda;
-
-V. Fungir como titular de la Unidad de Transparencia en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
-
-VI. Orientar a los usuarios sobre las instancias competentes para resolver conflictos derivados de servicios médicos prestados por quienes carecen de título o cédula profesional;
-
-VII. Elaborar los proyectos de procedimientos que deberán aplicarse en materia de orientación, recepción y valoración de quejas, conciliación y arbitraje, y someterlos a consideración del Comisionado;
-
-VIII. Establecer las relaciones institucionales del caso, con las autoridades encargadas de la procuración e impartición de justicia, en relación con los dictámenes o peritajes médicos que le sean solicitados a la COESAMED;
-
-IX. Dar seguimiento a los acuerdos, laudos y opiniones que emita la COESAMED;
-
-X. Fungir como representante legal de la COESAMED en los procedimientos judiciales y administrativos en que ésta sea parte previo otorgamiento del poder correspondiente;
-
-XI. Supervisar el manejo del registro de instrumentos jurídicos en que se dé cuenta de la participación de la COESAMED;
-
-XII. Coordinar las funciones de asesoría jurídico-administrativa a las distintas Unidades Administrativas de la COESAMED;
-
-XIII. Ejercer las funciones inherentes a la Secretaría Técnica del Consejo, en los términos del Reglamento; y
-
-XIV. Las demás que le confieran el Reglamento y otras disposiciones legales y reglamentarias aplicables, así como aquellas que le otorgue el Comisionado.
-
-###### ARTÍCULO 26.
-
-La Jefatura Administrativa contará con un titular, a dicha Jefatura le corresponde el despacho de los siguientes asuntos:
-
-I. Proponer las políticas, normas, sistemas y procedimientos para la programación, presupuestación y administración integral de los recursos humanos materiales y financieros de que disponga la COESAMED, a efecto de que el Consejo acuerde lo conducente;
-
-II. Elaborar y ejecutar los programas de apoyo para la realización de las funciones de la COESAMED, particularmente en materia de cooperación técnico-administrativa y presupuestal;
-
-III. Coordinar el proceso anual de programación-presupuestación; ejercicio y control presupuestal y contable de la COESAMED con apego a las disposiciones legales aplicables;
-
-IV. Formular los manuales generales, de Organización y de Procedimientos de la COESAMED, con el apoyo de las Unidades Administrativas;
-
-V. Llevar a cabo la administración de los recursos humanos asignados a la COESAMED, de conformidad con las normas vigentes;
-
-VI. Realizar el pago de cualquier remuneración del personal al servicio de la COESAMED;
-
-VII. Coordinar la formulación y ejecución de los programas anuales de obra pública, adquisiciones y de conservación y mantenimiento de bienes muebles e inmuebles, de conformidad con la legislación vigente;
-
-VIII. Cumplir con los ordenamientos legales que rijan en materia de adquisiciones, abasto, conservación, mantenimiento y reparación de bienes muebles e inmuebles y proponer las políticas y criterios que se consideren convenientes para racionalizar y optimizar el desarrollo de los programas correspondientes;
-
-IX. Establecer y coordinar el Sistema de Administración de Documentos y Archivo de la COESAMED y proporcionar la información institucional derivadas de éste, a las Unidades Administrativas que la requieran;
-
-X. Suscribir, cuando proceda, los convenios, contratos y demás documentos que impliquen actos de administración relacionados con su competencia; y
-
-XI. Las demás que le señale el Comisionado, necesarias para, el mejor cumplimiento de sus funciones y que establezcan otras disposiciones legales aplicables.
-
-### CAPÍTULO II. De la Organización y Estructura
-
-###### ARTÍCULO 27.
-
-La Unidad de Comunicación Social y Relaciones Públicas contará con un titular, a la referida Unidad le corresponde el despacho de los siguientes asuntos:
-
-I. Auxiliar al Comisionado en la conducción de las políticas de comunicación social y divulgación de la COESAMED y sus relaciones con los medios de información;
-
-II. Difundir ampliamente entre la sociedad, el informe anual que el Comisionado entregará al titular del Ejecutivo Estatal;
-
-III. Fomentar, desarrollar y producir programas integrales de comunicación social para dar a conocer a la opinión pública los objetivos y programas de la COESAMED y su avance, debiendo apegarse a las disposiciones que en la materia emita la Secretaría General de Gobierno;
-
-IV. Compilar, analizar y evaluar la información que sobre la COESAMED difundan los medios masivos de comunicación;
-
-V. Establecer y operar el programa de difusión de los estudios técnicos normativos de la COESAMED;
-
-VI. Supervisar el Sistema de Información y Estadística de la COESAMED, conforme a los lineamientos que dicten las dependencias competentes;
-
-VII. Producir el órgano oficial de difusión de la COESAMED, que de manera trimestral dará a conocer las actividades desarrolladas en el cumplimiento de su objeto;
-
-VIII. Integrar y mantener actualizada la videoteca, fototeca y el almacén de publicaciones e impresos, para proporcionar a las Unidades Administrativas de la COESAMED, el material que le soliciten para el desarrollo de programas o consulta;
-
-IX. Formular y coordinar el Programa de Capacitación orientado a la profesionalización del personal adscrito a la COESAMED;
-
-X. Conocer, evaluar y dar respuesta a las necesidades de acciones de comunicación social y relaciones públicas de la COESAMED, con base a los estudios de opinión pública que realice;
-
-XI. Integrar y mantener actualizada la información sobre los proyectos y acciones de los sectores público, social y privado que contribuyan al mejoramiento de la prestación de los servicios médicos;
-
-XII. Establecer mecanismos de cooperación con organismos públicos, sociales y privados, tanto nacionales como internacionales, para fortalecer y consolidar la información y documentación de la COESAMED; y
-
-XIII. Las demás que le señale el Comisionado, necesarias para, el mejor cumplimiento de sus funciones y que establezcan otras disposiciones legales aplicables.
-
-###### ARTÍCULO 28.
-
-El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades de la COESAMED; estará integrado por un Comisario Público Propietario y un Suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
-
-El Comisario Público evaluará el desempeño general y por funciones de la COESAMED, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la ley correspondiente.
-
-Para el cumplimiento de las funciones citadas el Consejo y el Comisionado deberán proporcionar la información que solicite el Comisario Público de la COESAMED y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
-
-###### ARTÍCULO 29.
-
-El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la COESAMED, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
-
-### CAPÍTULO I. Del Consejo
-
-###### ARTÍCULO 30.
-
-Para el ejercicio de sus funciones, el Órgano Interno de Control contará con las siguientes Unidades:
-
-I. Unidad Auditora;
-
-II. Unidad Investigadora; y
-
-III. Unidad Substanciadora y Resolutora.
-
-Los titulares de dichas Unidades serán designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
-
-El servidor público que ejerza la función de Unidad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Unidad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades.
-
-El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
-
-#### SECCIÓN PRIMERA. De la Unidad Auditora
-
-###### ARTÍCULO 31.
-
-La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tiene las siguientes funciones:
-
-I. Elaborar y ejecutar, con aprobación del Consejo, el programa anual de auditorías a las diversas áreas que conforman la COESAMED;
-
-II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño de la COESAMED;
-
-III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman la COESAMED;
-
-IV. Coordinar las acciones a fin de verificar que las áreas que conforman la COESAMED cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado;
-
-V. Asistir y participar en el Comité de Adquisiciones y Enajenaciones y en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
-
-VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de la COESAMED sobre el correcto ejercicio del gasto público;
-
-VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
-
-VIII. Rendir informe trimestral al Consejo, a través del Comisionado, sobre el estado que guardan los asuntos de su competencia;
-
-IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
-
-X. Asesorar a los servidores públicos y Unidades Administrativas de la COESAMED en los asuntos de su competencia;
-
-XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los procedimientos de su competencia;
-
-XII. Supervisar que el manual de contabilidad se encuentre actualizado y responda a las necesidades de la COESAMED y a la normatividad aplicable a la materia;
-
-XIII. Participar en los actos de entrega recepción de las Unidades Administrativas; y
-
-XIV. Las demás atribuciones previstas en las disposiciones jurídicas aplicables.
-
-#### SECCIÓN SEGUNDA. De la Unidad Investigadora
-
-###### ARTÍCULO 32.
-
-La Unidad Investigadora es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades, y tiene las siguientes funciones:
-
-I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos a la COESAMED y de particulares, conforme a lo previsto en la Ley de Responsabilidades y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
-
-II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos a la COESAMED, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades;
-
-III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
-
-IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
-
-V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos de la COESAMED o bien, referidas a faltas de particulares en relación con la COESAMED;
-
-VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos a la COESAMED o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
-
-VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos de la COESAMED o de los particulares, habilitando para ello al personal del área correspondiente;
-
-VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
-
-IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita a la COESAMED;
-
-X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades;
-
-XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades;
-
-XII. Habilitar días y horas inhábiles para la práctica de diligencias;
-
-XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
-
-XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
-
-XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
-
-XVI. Rendir informe trimestral al Consejo, a través del Comisionado, sobre el estado que guardan los asuntos de su competencia;
-
-XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los procedimientos contemplados en la Ley de Responsabilidades;
-
-XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
-
-XIX. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
-
-#### SECCIÓN TERCERA. De la Unidad Substanciadora y Resolutora
-
-###### ARTÍCULO 33.
-
-La Unidad Substanciadora y Resolutora es la encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades, y tiene las siguientes funciones:
-
-I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Unidad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos de la COESAMED, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
-
-Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos de la COESAMED.
-
-Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
-
-En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
-
-II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
-
-III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, y ratificar las mismas;
-
-IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
-
-V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades;
-
-VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
-
-VII. Rendir informe trimestral al Consejo, a través del Comisionado, sobre el estado que guardan los asuntos de su competencia;
-
-VIII. Habilitar días y horas inhábiles para la práctica de diligencias;
-
-IX. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
-
-X. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
-
-XI. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones;
-
-XII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los procedimientos contemplados en la Ley de Responsabilidades; y
-
-XIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
-
-## TÍTULO CUARTO. DE LOS ÓRGANOS DE CONTROL Y EVALUACIÓN
-
-###### ARTÍCULO 34.
-
-El Comisionado será suplido en sus ausencias temporales o accidentales por el titular de la Unidad Administrativa que él designe siempre y cuando sea de un nivel jerárquico inmediato inferior.
-
-###### ARTÍCULO 35.
-
-Los Sub-Comisionados, Jefaturas y demás Unidades Administrativas, serán suplidos en sus ausencias temporales o accidentales por el servidor público que designe el Comisionado.
-
-## TÍTULO QUINTO. DE LAS AUSENCIAS Y SUPLENCIAS
-
-### CAPÍTULO ÚNICO. Disposiciones Generales
-
-### CAPÍTULO II. Del Comisionado
-
-###### ARTÍCULO 36.
-
-En caso de ausencia de alguno de los titulares de las Unidades que integran al Órgano Interno de Control, se estará a lo dispuesto por la Ley de Entidades Paraestatales y demás disposición normativa aplicable en la materia.
-
-T R A N S I T O R I O S
+La educación preescolar no constituye requisito previo a la primaria.
 
 ###### ARTICULO 37.
 
@@ -729,7 +467,7 @@ La educación inicial y la especial que impartan instituciones del Sistema Educa
 
 Las autoridades educativas del Estado, promoverán la celebración de convenios con la federación, los municipios y los particulares, con el objeto de establecer programas para la educación de adultos y formación para el trabajo, de acuerdo con las necesidades productivas y sociales de la entidad.
 
-### CAPÍTULO I. De las Facultades Genéricas de las Unidades Administrativas
+### CAPITULO SEGUNDO. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
 ###### ARTICULO 43.
 
@@ -755,7 +493,7 @@ La evaluación de los educandos comprenderá la medición en lo individual de lo
 
 Las instituciones deberán informar periódicamente a los educandos y a los padres de familia o tutores, sobre los resultados y calificaciones de los exámenes parciales y finales, así como, habiéndolas, de aquellas observaciones sobre el desempeño académico de los propios educandos, que permitan lograr mejores aprovechamientos.
 
-### CAPÍTULO II. De la Sub Comisión Médica
+### CAPITULO TERCERO. DEL CALENDARIO ESCOLAR
 
 ###### ARTICULO 46.
 
@@ -833,9 +571,9 @@ La educación que no requiera autorización o no sea susceptible de reconocimien
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPÍTULO III. De la Sub Comisión Jurídica
+### CAPITULO SEGUNDO. DE LAS ASOCIACIONES DE PADRE SE FAMILIA
 
-### CAPÍTULO IV. De la Jefatura Administrativa
+### CAPITULO PRIMERO. DE LOS PADRES DE FAMILIA
 
 ###### ARTICULO 57.
 
@@ -959,7 +697,9 @@ Estas Asociaciones de padres de familia se abstendrán de intervenir en los aspe
 
 La autoridad educativa estatal efectuará programas dirigidos a los padres de familia o a quienes ejerzan la patria potestad, la tutela o custodia de los menores, que les permitan dar mejor atención a sus hijos o pupilos.
 
-### CAPÍTULO V. De la Unidad de Comunicación Social y Relaciones Públicas
+### CAPITULO II. DE LOS CONSEJOS DE PARTICIPACION
+
+SOCIAL
 
 ###### ARTICULO 62.
 
@@ -999,7 +739,7 @@ b).- A los organismos descentralizados, en los casos que les correspondan, confo
 
 RECURSO ADMINISTRATIVO
 
-### CAPÍTULO I. Del Órgano de Vigilancia
+### CAPITULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 67.
 
@@ -1069,7 +809,9 @@ d).- En la misma audiencia, o dentro de un plazo no mayor de 5 días hábiles, l
 
 La Secretaría de Educación podrá ordenar en las instituciones del Sistema Educativo Estatal, la práctica de las diligencias necesarias para constatar la autenticidad de los datos presentados, pudiendo suplir la deficiencia de la queja.
 
-### CAPÍTULO II. Del Órgano Interno de Control
+### CAPITULO SEGUNDO
+
+DEL RECURSO ADMINISTRATIVO.
 
 ###### ARTICULO 72.
 
@@ -1079,58 +821,90 @@ En caso de que el particular cubra una multa, por este sólo hecho queda sin efe
 
 T R A N S I T O R I O S .
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Se abroga el Reglamento Interno de la Comisión Estatal de Arbitraje Médico, publicado el día 15 de enero de 2001 en el Periódico Oficial del Estado.
+Se abroga la Ley de Educación Pública del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" No. 26, del 19 de junio de 1986.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-Quedan sin efectos todas aquellas disposiciones que se opongan al presente Reglamento Interno.
+El Gobierno del Estado reconocerá a todas las organizaciones que a la fecha están constituidas, de los distintos tipos y niveles de educación en términos de las leyes aplicables. Y por lo que respecta a los trabajadores de la educación básica, se reconoce a su sindicato en los términos de la ley de la materia y del convenio de descentralización educativa del 18 de mayo de 1992, de plena vigencia.
 
-###### ARTÍCULO CUARTO.
+###### ARTICULO CUARTO.
 
-Se ordena inscribir el presente Reglamento Interno de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes, en el Registro Público de la Propiedad y del Comercio en el Estado en el libro correspondiente a las Entidades Paraestatales.
+Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-###### ARTÍCULO QUINTO.
+###### ARTICULO QUINTO.
 
-El Consejo de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes deberá efectuar las adecuaciones necesarias a la demás normatividad interna aplicable a la referida Comisión Estatal, con motivo de la entrada en vigor del presente Reglamento Interno.
+Las disposiciones normativas derivadas de la ley mencionada en el artículo segundo anterior, se seguirán aplicando, en lo que no se opongan a la presente Ley, hasta en tanto las autoridades educativas competentes expidan los nuevos reglamentos y la normatividad a que se refiere esta Ley.
 
-###### ARTÍCULO SEXTO.
+Dada en el recinto oficial del Poder Legislativo del Estado, a los 28 días del mes de junio de 1996.
 
-Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, el Consejo de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de su publicación.
+LO TENDRA ENTENDIDO EL C. GOBERNADOR DEL ESTADO Y MANDARA SE IMPRIMA, PUBLIQUE Y OBSERVE
 
-Dado en la sede del Consejo de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes en sesión ordinaria celebrada el 11 de julio de 2018. Siendo aprobado por unanimidad.
+A T E N T A M E N T E
 
-ATENTAMENTE
+DIP. ING. A. LEOPOLDO PERALTA NAVARRETE
 
-LOS INTEGRANTES DEL CONSEJO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES.
+PRESIDENTE DE LA MESA DIRECTIVA
 
-Dra. Jovita Romero Casanova,
+POR EL MES DE JUNIO
 
-REPRESENTANTE DEL COLEGIO DE MÉDICOS DENTISTAS.
+DIP. DORA CRISTINA CHAVARRIA SALAS
 
-Dr. Eduardo David Poletti Vázquez,
+VICEPRESIDENTA.
 
-REPRESENTANTE DE LA ACADEMIA NACIONAL DE MEDICINA.
+DIP. ARQ. J. GISELA ZAMORANO GUERRERO
 
-Dr. Raymundo Alfonso Ballesteros Villalobos,
+SECRETARIA
 
-REPRESENTANTE DESIGNADO POR EL TITULAR DEL PODER EJECUTIVO.
+DIP. LIC. MARTHA AURORA PEREZ SAID
 
-Dr. Juan Carlos Ramírez Ruvalcaba,
+SECRETARIA.
 
-REPRESENTANTE DESIGNADO POR EL TITULAR DEL PODER EJECUTIVO.
+EN CUMPLIMIENTO POR LO DISPUESTO EN LA FRACCION PRIMERA DEL ARTICULO CINCUENTA Y SIETE DE LA CONSTITUCION POLITICA DE ESTA ENTIDAD, Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO EL PRESENTE DECRETO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO A LOS TRECE DIAS DEL MES DE AGOSTO DE MIL NOVECIENTOS NOVENTA Y SEIS.
 
-Dr. Salvador Alonso Sánchez,
+LIC. ENRIQUE BURGOS GARCIA
 
-PRESIDENTE DEL CONSEJO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES.
+GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LIC. ALEJANDRO ESPINOSA MEDINA
+
+SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+TERCERO.- El Poder Ejecutivo deberá emitir el Reglamento Estatal de Organizaciones de Padres de Familia correspondiente, en un plazo no mayor a los 120 días a partir de la publicación de la presente ley. Coadyuvando con las autoridades educativas a la promoción y distribución del mismo, entre los padres de familia de todas las escuelas.
+
+CUARTO.- En tanto se expide el Reglamento referido en el artículo anterior, seguirá rigiendo el Reglamento federal de Asociaciones de Padres de Familia.
+
+P.O. 25 DE ENERO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
-Se expide el REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES, para quedar como sigue:
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga", por lo que remítase para tal efecto al titular del Poder Ejecutivo del Estado de Querétaro.
 
-REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES
+P.O. 20 DE JUNIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 31 DE JULIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Educación del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", en fecha quince de agosto mil novecientos noventa y tres, así como todas sus reformas.
+
+Artículo Tercero. Los procedimientos que se encuentren en trámite al momento de entrar en vigor la presente Ley, se tramitarán hasta su conclusión conforme a las disposiciones legales vigentes en el momento en que dieron inicio.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
