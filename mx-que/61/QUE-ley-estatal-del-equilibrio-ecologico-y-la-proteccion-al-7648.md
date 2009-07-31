@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-7648"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-26"
-last_updated: "2008-04-18"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE FECHA 31 DE JULIO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de mayo de 1988.
 
@@ -2924,3 +2926,15 @@ Esta Ley entrará en vigor a partir del día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 31 DE JULIO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley Estatal de Equilibrio Ecológico y la Protección al Medio Ambiente, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 22, de fecha 26 de mayo de 1998.
+
+Artículo Tercero. La Comisión Estatal de Ecología deberá aprobar su reglamento interior en un plazo que no deberá exceder de noventa días, contados a partir de su instalación.
+
+Artículo Cuarto. El Gobernador del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+Artículo Quinto. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases y disposiciones que señala la presente Ley.
