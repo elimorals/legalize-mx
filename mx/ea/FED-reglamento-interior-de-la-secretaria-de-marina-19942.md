@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-marina-19942"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-05"
-last_updated: "2001-03-05"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19942&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-02-28"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE MARINA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 5 de marzo de 2001.
 
@@ -93,7 +93,9 @@ I.- Ejercer el Alto Mando de la Armada de México y administrar el poder naval d
 
 II.- Someter al acuerdo del Presidente de la República los asuntos encomendados a la Secretaría, así como desempeñar las comisiones y funciones específicas que el Mando Supremo le confiera, manteniéndolo informado sobre el desarrollo de las mismas;
 
-III.- Representar al Presidente de la República en los juicios constitucionales, en los términos de los artículos 19 de la Ley de Amparo y 14 de la Ley Orgánica de la Administración Pública Federal, así como en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el presente Reglamento;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+III.- Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 21 del presente Reglamento;
 
 IV.- Someter a la aprobación del Presidente de la República, la organización de los mandos jurisdiccionales, en los términos que marque la legislación correspondiente;
 
@@ -367,7 +369,17 @@ I.- Asesorar al Secretario respecto de la elaboración de los proyectos de inici
 
 II.- Asesorar en la formulación, modificación, ejecución, revisión, rescisión o terminación de los convenios y contratos en los que la Secretaría sea parte;
 
-III.- Intervenir en los asuntos de carácter legal en que la Secretaría sea parte o revistan interés parar la misma, representando legalmente al Secretario, al Subsecretario y al Oficial Mayor;
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+II bis.- Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de Marina representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+II ter.- Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad, en las que el Secretario de Marina represente al Presidente de la República;
+
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2009)</small>
+
+III.- Intervenir en los asuntos de carácter legal en los que la Secretaría sea parte o revistan interés para la misma, representando legalmente al Secretario, al Subsecretario y al Oficial Mayor, incluidos todos los trámites dentro de los juicios de amparo;
 
 IV.- Ejercitar las acciones jurídicas que competen a la Secretaría, comparecer en los juicios en los que ésta sea parte y denunciar ante el Ministerio Público, del fuero federal o común, los hechos que lo ameriten;
 
@@ -673,13 +685,17 @@ El Jefe del Estado Mayor General de la Armada, en las ausencias del Secretario d
 
 Las ausencias del Inspector y Contralor General de Marina y jefes de unidad serán suplidas por quien designe el Secretario.
 
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2009)</small>
+
 ###### Artículo 25.
 
-Las ausencias de los directores generales por sus directores generales adjuntos y las de éstos por los directores de área que se designen.
+Las ausencias de los directores generales serán suplidas por sus directores generales adjuntos y las de éstos por los directores de área, que se designen.
+
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2009)</small>
 
 ###### Artículo 26.
 
-Las suplencias en los mandos y órganos técnicos, administrativos y operativos, serán efectuadas por quien corresponda la sucesión de mando, de acuerdo a la Ley Orgánica de la Armada de México. En cualquier caso los suplentes actuarán con todas las facultades del titular.
+Las ausencias en los mandos y órganos técnicos, administrativos y operativos, serán suplidas por quien corresponda la sucesión de mando, de acuerdo a la Ley Orgánica de la Armada de México.
 
 ###### Artículo 27.
 
@@ -687,7 +703,7 @@ A fin de que las ausencias temporales del personal directivo de las unidades adm
 
 ###### Artículo 28.
 
-En los juicios de amparo en que el Secretario deba intervenir en representación del Presidente de la República o como titular de la Secretaría, así como en las controversias constitucionales o acciones de inconstitucionalidad, será suplido por los funcionarios mencionados en el artículo 21 de este Reglamento en el orden indicado, o por el Jefe de la Unidad Jurídica.
+(DEROGADO, D.O.F. 31 DE JULIO DE 2009)
 
 ## TRANSITORIOS
 
@@ -698,3 +714,9 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Marina, publicad
 TERCERO.- Los asuntos pendientes a la entrada en vigor de este Reglamento que deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella unidad a la que se haya atribuido la competencia correspondiente en este Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de febrero de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Marina, Marco Antonio Peyrot González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 31 DE JULIO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
