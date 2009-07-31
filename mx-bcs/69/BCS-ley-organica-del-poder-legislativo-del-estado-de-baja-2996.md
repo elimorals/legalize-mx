@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2008-08-07"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -439,17 +439,7 @@ VI.- Proponer al Congreso el nombramiento del Oficial Mayor, Auditor Superior, A
 
 VII.- Proponer al Congreso en Sesión Secreta la destitución de los funcionarios a que se refiere la Fracción anterior, cuando por causas graves o por el buen funcionamiento del Congreso deba hacerse la remoción y proponer a las personas que deban sustituirlas.
 
-> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2008)</small>
-
-VIII.- Presentar un informe por escrito a la legislatura entrante, el cual deberá contener lo siguiente:
-
-a) Relación de los recursos humanos;
-
-b) Inventario de muebles e inmuebles;
-
-c) Estados financieros del año de ejercicio en que informa; y
-
-d) Asuntos Legislativos pendientes en comisión.
+VIII.- (DEROGADA, B.O. 31 DE JULIO DE 2009)
 
 > <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2008)</small>
 
@@ -509,7 +499,9 @@ VII.- DE COMUNICACIONES Y TRANSPORTES.
 
 VIII.- DE ASUNTOS LABORALES Y DE PREVISION SOCIAL.
 
-IX.- DE LA FAMILIA Y LA ASISTENCIA PUBLICA.
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2009)</small>
+
+IX.- DE LA SALUD, LA FAMILIA Y LA ASISTENCIA PUBLICA.
 
 X.- DE ASUNTOS EDUCATIVOS Y DE LA JUVENTUD.
 
@@ -541,9 +533,9 @@ XIX.- DE EQUIDAD Y GENERO.
 
 XX.- DE SEGURIDAD PUBLICA.
 
-> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE JULIO DE 2009)</small>
 
-XXI.- DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA.
+XXI.- DE CIENCIA Y TECNOLOGIA.
 
 > <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2007)</small>
 
@@ -655,7 +647,9 @@ a).- Lo que se refiera al Derecho Laboral y a la Seguridad Social en base a lo d
 
 b).- Las que le señale la Directiva del Congreso y la Gran Comisión.
 
-IX.- DE LA FAMILIA Y LA ASISTENCIA PUBLICA:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE JULIO DE 2009)</small>
+
+IX.- DE LA SALUD, LA FAMILIA Y LA ASISTENCIA PÚBLICA:
 
 a).- Lo relativo a las Instituciones Públicas o Privadas, dedicadas a la Protección de la Familia.
 
@@ -663,7 +657,17 @@ b).- Lo referente a Derecho Familiar.
 
 c).- Lo que concierne a Hospitales, Centros de Readaptación Social, Asilos y en general a todos los establecimientos de Beneficencia Pública o Privada.
 
-d).- Los demás que le ordene la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2009)</small>
+
+d).- Lo relacionado con la Ley de Salud para el Estado, así como las disposiciones sanitarias competencia del Estado.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+e).- Lo relacionado con los casos que afecten o pudieran afectar la salud de la población; y
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+f).- Las demás que le señalen la Directiva del Congreso y la Gran Comisión.
 
 X.- DE ASUNTOS EDUCATIVOS Y DE LA JUVENTUD:
 
@@ -783,13 +787,19 @@ e).- Lo relativo a la normatividad y demás aspectos relacionados con la protecc
 
 f).- En general, toda la legislación relacionada con la Seguridad Pública.
 
-> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE JULIO DE 2009)</small>
 
-XXI.- DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA:
+XXI.- DE LA COMISIÓN DE CIENCIA Y TECNOLOGÍA:
 
-a).- Las normas relativas a la transparencia y acceso a la información pública, y en general, todo asunto relacionado con la materia.
+a).- Las normas relativas a las materias de ciencia y tecnología, su fomento y desarrollo, en el Estado y los Municipios;
 
-b).- Las demás que le señale la Directiva del Congreso.
+b).- Las leyes relacionadas con la ciencia y la tecnología;
+
+c).- La regulación de las acciones que realicen el Estado y los Municipios relacionadas con la ciencia y la tecnología;
+
+d).- Las normas que tengan por objeto impulsar el desarrollo científico y tecnológico, así como la vinculación de (sic) Estado y Municipios con los sectores productivo y social en materia de ciencia y tecnología; y
+
+e).- Las relacionadas con instituciones y centros de educación superior e investigación científica.
 
 > <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2007)</small>
 
@@ -1215,11 +1225,11 @@ IX.- Dictámenes en segunda lectura para su discusión y aprobación en su caso.
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2001)</small>
 
-Los asuntos a que se refieren las fracciones IV, V, VI, VIII Y IX deberán registrarse a mas tardar a las tres de la tarde del día anterior a la celebración de la Sesión Ordinaria, ante el Presidente, o en su defecto, ante el Secretario de la Directiva del Congreso del Estado.
+Los asuntos a que se refieren las fracciones IV, V, VI, VIII Y IX deberán registrarse a más tardar a las tres de la tarde del día anterior a la celebración de la Sesión Ordinaria, ante el Presidente, o en su defecto, ante el Secretario de la Directiva del Congreso del Estado.
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2001)</small>
 
-El orden del día deberá hacerse publico y fijarse en el exterior de la Sala de Sesiones a mas tardar a las seis de la tarde del día anterior a la celebración de la Sesión Ordinaria.
+El orden del día deberá hacerse público y fijarse en el exterior de la Sala de Sesiones a más tardar a las seis de la tarde del día anterior a la celebración de la Sesión Ordinaria.
 
 ###### ARTICULO 98.
 
@@ -1295,13 +1305,13 @@ II.-Cualquier Diputada o Diputado, en caso de considerar que por su complejidad 
 
 III.- Para el supuesto de que el asunto se discuta y resuelva en la misma sesión en la que se dio cuenta al Pleno, el trámite consistirá en el registro de las participaciones de las Diputadas y Diputados que así lo solicitaren, pudiendo hacer una propuesta concreta de modificación o adición de los puntos resolutivos que contenga el dictamen en cuestión. Una vez discutido, el asunto se votará en forma nominal, y resuelto el mismo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor que envíe el oficio respectivo para comunicar a la Legislatura de origen el acuerdo tomado por el Congreso del Estado de Baja California Sur, recaído a su solicitud de adhesión, a su exhorto o petición concreta que haya formulado;
 
-IV.- Para el caso de que la comunicación oficial de alguna Legislatura fuera sólo un oficio con la cita textual del acuerdo económico que se haya tomado en su seno, sin anexo del dictamen respectivo, y por lo tanto sin los elementos de juicio que llevaron a la asunción de tal acuerdo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
+IV.- Para el caso de que la comunicación oficial de alguna Legislatura fuera solo un oficio con la cita textual del acuerdo económico que se haya tomado en su seno, sin anexo del dictamen respectivo, y por lo tanto sin los elementos de juicio que llevaron a la asunción de tal acuerdo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
 
 V.-Cuando el acuerdo económico de alguna Legislatura plantee derogar, abrogar, o proponga reformas o adiciones a alguna ley o leyes federales o a la Constitución Política de los Estados Unidos Mexicanos, invariablemente el asunto se turnará a la Comisión Permanente que corresponda. Sin embargo, cuando tal acuerdo económico no contenga o no se le anexe la exposición de motivos respectiva, o no contenga el proyecto de decreto respectivo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
 
 VI.- Todos aquellos asuntos que se hayan discutido y resuelto con anterioridad por este Congreso, independientemente de que sean enviados por legislaturas diferentes, pero que se refieran al mismo tema, el Presidente de la Mesa Directiva ordenará al Oficial Mayor su archivo definitivo, bastando únicamente que se acuse de recibida tal comunicación oficial y se envíe dicho acuse a la Legislatura de origen;
 
-VII.- Aquellos asuntos que por su contenido y su fecha estén notoriamente desfasados para ser tomados en cuenta, a petición de cualquier Diputada o Diputado se mandaran archivar por el Presidente de la Mesa Directiva, previa consulta ala Asamblea, quien resolverá mediante votación económica; y
+VII.- Aquellos asuntos que por su contenido y su fecha estén notoriamente desfasados para ser tomados en cuenta, a petición de cualquier Diputada o Diputado se mandaran archivar por el Presidente de la Mesa Directiva, previa consulta a la Asamblea, quien resolverá mediante votación económica; y
 
 VIII.- Cuando la naturaleza de los asuntos lo permita y proceda su elaboración, podrán dictaminarse en forma conjunta dos o más asuntos en un solo dictamen.
 
@@ -1931,6 +1941,12 @@ Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de
 
 En caso de falta absoluta del Gobernador del Estado, se procederá de conformidad con lo dispuesto en el Artículo 72 de la Constitución Política del Estado de Baja California Sur.
 
+### CAPITULO PRIMERO
+
+DISPOSICIONES GENERALES.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 218.
 
 (DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
@@ -1946,6 +1962,16 @@ En caso de falta absoluta del Gobernador del Estado, se procederá de conformida
 ###### ARTICULO 221.
 
 (DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
+
+## TITULO OCTAVO. DE LA ENTREGA-RECEPCION
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+
+### CAPITULO SEGUNDO
+
+DE LA DOCUMENTACION.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 222.
 
@@ -1963,13 +1989,19 @@ Hecha la elección de la Directiva, los electos tomarán desde luego, posesión 
 
 Las faltas del Presidente se cubrirán por el Secretario; en su defecto por el miembro restante y por los suplentes en el orden de su nombramiento. Las faltas del Secretario se cubrirán por el miembro restante de la Diputación Permanente y en su defecto, con los suplentes por el orden de su nombramiento.
 
+### CAPITULO TERCERO
+
+DE LAS RESPONSABILIDADES.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 226.
 
 Son facultades de la Diputación Permanente:
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
-I.- Acordar por si o a propuesta del Gobernador, la convocatoria a periodo extraordinario de sesiones;
+I.- Acordar por si o a propuesta del Gobernador, la convocatoria a periódo extraordinario de sesiones;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2028,6 +2060,90 @@ La representación del Poder Legislativo radicará en la Diputación Permanente,
 ###### ARTICULO 235.
 
 Al final de su ejercicio, la Diputación Permanente entregará a la Directiva del período que se inicia, un informe por escrito y detallado de los trabajos realizados, así como un inventario que contenga los expedientes de iniciativas, oficios, memoriales, comunicaciones y demás documentos turnados durante su ejercicio. Quién informe al pleno, deberá abstenerse de emitir opinión alguna sobre los asuntos mencionados.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 236.
+
+Los diputados integrantes de la Gran Comisión como órgano de gobierno del Poder Legislativo al separarse de sus empleos, Cargos o comisiones, deberán rendir a través de su Presidente, un informe de los asuntos de su competencia y entregar los recursos financieros, humanos y materiales que tengan asignados para el ejercicio de sus atribuciones legales, a quienes los sustituyan en sus funciones, acorde a los lineamientos establecidos en este título.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 237.
+
+La entrega-recepción, así como el informe, se efectuará por escrito mediante acta administrativa que describa el estado que guardan los asuntos que esta propia ley les encomienda. En el caso del Presidente de la Gran Comisión este rendirá el informe relacionado con la situación que guardan los recursos humanos.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 238.
+
+La entrega y recepción se hará al tomar posesión del empleo, cargo o comisión, el Presidente de la Gran Comisión entrante, previa protesta que deberá rendir en términos de Ley. Si no existe nombramiento o designación del Presidente de la Gran Comisión entrante, la entrega y recepción se hará al servidor público que para tal efecto se designe.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 239.
+
+Los documentos e información que se anexen al acta administrativa de entrega y recepción del despacho deberán circunscribirse a los aspectos más relevantes, debiendo presentarse en forma concentrada y global por el Presidente de la Gran Comisión en los términos de esta Ley.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 240.
+
+La verificación del contenido del acta correspondiente deberá realizarse por los integrantes de la Gran Comisión entrante, en un término no mayor de quince días hábiles, contados a partir de la fecha de entrega y recepción del despacho; durante dicho lapso el Presidente de la Gran Comisión saliente hará las aclaraciones y proporcionará la información adicional que éstos le soliciten.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 241.
+
+En caso de que el Presidente de la Gran Comisión entrante descubra irregularidades durante el término señalado en el artículo anterior, deberá hacerlo del conocimiento del Pleno del Congreso, para que se aclaren por el Presidente de la Gran Comisión saliente, o en su caso, se proceda de conformidad al régimen de responsabilidades de los servidores públicos. Si el Presidente de la Gran Comisión entrante, no procediera de conformidad con el párrafo anterior, incurrirá en responsabilidad en términos de Ley.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 242.
+
+La entrega del despacho y de los asuntos en trámite encomendados al Presidente de la Gran Comisión saliente no lo exime de las responsabilidades en que hubiere incurrido en términos de ley.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 243.
+
+El Presidente de la Gran Comisión saliente que no entregue los asuntos y recursos a su cargo en los términos de esta Ley, será requerido por el Presidente de la Gran Comisión entrante, para que en un lapso no mayor de quince días hábiles, contados a partir de la fecha de separación del empleo, cargo o comisión, cumpla con esta obligación.
+
+En este caso, el Presidente de la Gran Comisión entrante al tomar posesión o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, para efectos del requerimiento a que se refiere este artículo, a fin de que se promuevan las acciones que correspondan, en aplicación del régimen de responsabilidades de los servidores públicos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 244.
+
+En el caso, el Presidente de la Gran Comisión la documentación de entrega deberá integrarse en la forma siguiente:
+
+I.- El Expediente Protocolario que contendrá:
+
+a). Acto solemne de toma de protesta;
+
+b). Acta administrativa de Entrega-Recepción;
+
+c). Informe de los asuntos de su competencia; y
+
+d). En su caso, acta circunstanciada.
+
+II.- Recursos Humanos:
+
+a). Plantilla de personal;
+
+b). Inventario de recursos humanos;
+
+c). Estructura orgánica;
+
+d). Resumen de plazas; y
+
+e). Sueldos no cobrados.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 245.
+
+El incumplimiento de las disposiciones contenidas en la presente Ley, será sancionado en los términos del Título Tercero de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California Sur, con independencia de las disposiciones del orden penal que sean aplicables al caso en particular.
 
 TRANSITORIOS:
 
@@ -2149,7 +2265,7 @@ El presente Decreto entrara en vigor el día primero de marzo del año dos mil o
 
 ###### ARTÍCULO SEGUNDO.
 
-La Comisión Permanente de Transparencia y Acceso a la Información prevista en la fracción XXI de los artículos 54 y 55 de la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur y la Comisión de Transparencia, Acceso a la Información Pública y Atención Ciudadana contemplada en los artículos 29, 30, 31, 32, 33, 34, 35 y 36 del Capitulo Quinto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur, quedarán derogadas hasta en tanto entre en funciones y operación el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, previsto en el presente Decreto.
+La Comisión Permanente de Transparencia y Acceso a la Información prevista en la fracción XXI de los artículos 54 y 55 de la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur y la Comisión de Transparencia, Acceso a la Información Pública y Atención Ciudadana contemplada en los artículos 29, 30, 31, 32, 33, 34, 35 y 36 del Capítulo Quinto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur, quedarán derogadas hasta en tanto entre en funciones y operación el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, previsto en el presente Decreto.
 
 ###### ARTÍCULO TERCERO.
 
@@ -2192,3 +2308,17 @@ B.O. 10 DE JULIO DE 2008.
 B.O. 7 DE AGOSTO DE 2008.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE JULIO DE 2009.
+
+DECRETO 1799, QUE DEROGA LA FRACCION VIII DEL ARTICULO 51 Y SE ADICIONA UN TITULO OCTAVO A LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Presidente de la Gran Comisión del Congreso del Estado y el Presidente del Tribunal Superior de Justicia del Estado, elaborarán los formatos de instructivos de las actas administrativas de Entrega-Recepción, informes y anexos establecidos en el presente decreto, a los que deberán ajustarse los servidores públicos obligados en el mismo.
+
+B.O. 31 DE JULIO DE 2009.
+
+DECRETO 1800, QUE REFORMA Y ADICIONA LOS ARTICULOS 54 Y 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
