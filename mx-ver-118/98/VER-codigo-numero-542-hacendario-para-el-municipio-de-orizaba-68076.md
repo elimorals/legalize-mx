@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-542-hacendario-para-el-municipio-de-orizaba-68076
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-07"
-last_updated: "2009-04-07"
+last_updated: "2009-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO NUMERO 542 HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2009.
 
 Código publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 7 de abril de 2009.
 
@@ -5517,6 +5517,72 @@ Tercero. En la aplicación de lo dispuesto por el artículo 202 de este Código,
 
 Cuarto. El impuesto de traslación de dominio a que se refiere el Artículo 136 del presente Código, tratándose de casa habitación, en operaciones en que la base sea menor a la cantidad de ocho mil salarios, así como de terrenos con un valor máximo de dos mil cuatrocientos salarios mínimos, se pagará una tasa de medio por ciento de la base gravable determinada, la cual estará vigente a partir de la vigencia del presente y hasta el día 31 de diciembre de 2009.
 
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2009)</small>
+
+Quinto. Los derechos a que se refieren las fracciones I y IV, del artículo 249 de este Código, se causarán de la siguiente manera:
+
+a). A partir de la entrada en vigor del presente Decreto hasta el día 31 de diciembre de 2009, aplicando las siguientes cuotas:
+
+Fracción Derechos Costo
+
+I La ocupación de espacios en Mercado Melchor:
+
+el interior de los mercados $15.00
+
+municipales se pagará Mercado V.
+
+mensualmente, por local: Carranza $25.00
+
+Mercado Emiliano
+
+Zapata:$17.00
+
+IV La ocupación temporal de la 0.035 Salarios
+
+vía pública o áreas municipales mínimos
+
+por vehículos, aparatos
+
+mecánicos o electromecánicos
+
+por tianguis, ferias o similares,
+
+puestos semifijos o ambulantes,
+
+se pagará diariamente por metro
+
+cuadrado o fracción, a razón de:
+
+b). A partir del día 1 de enero de 2010 hasta el 31 de diciembre de 2010, aplicando las siguientes cuotas:
+
+Fracción Derechos Costo en salarios
+
+Mínimos
+
+I La ocupación de espacios en 0.04
+
+el interior de los mercados
+
+municipales se pagará
+
+mensualmente, por local:
+
+IV La ocupación temporal de la 0.05
+
+vía pública o áreas municipales,
+
+por vehículos, aparatos
+
+mecánicos o electromecánicos
+
+por tianguis, ferias o similares,
+
+puestos semifijos o ambulantes,
+
+se pagará diariamente por metro
+
+cuadrado o fracción, a razón de:
+
 DADO EN EL SALÓN DE SESIONES DE LA LXI LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE, A LOS TREINTA DÍAS DEL MES DE MARZO DEL AÑO DOS MIL NUEVE.
 
 FERNANDO GONZÁLEZ ARROYO
@@ -5542,3 +5608,9 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO</small>
+
+G.O. 31 DE JULIO DE 2009.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
