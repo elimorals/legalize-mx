@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "2008-12-24"
+last_updated: "2009-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -2173,7 +2173,7 @@ La resolución de no responsabilidad administrativa, deberá ser publicada en ex
 
 ###### ARTICULO 165.
 
-Cuando se trate (sic) faltas que no sean graves, previa ratificación del escrito inicial de queja o denuncia, se correrá traslado al presunto infractor con copia simple de dicho escrito y sus anexos, concediéndole el plazo de tres días hábiles para que conteste por escrito lo que a su interés convenga. Las partes deberán ofrecer las pruebas respectivas en dichos escritos, mismas que de ser admitidas serán desahogadas en una audiencia, la cual deberá celebrarse dentro de los quince días naturales siguientes a la contestación. Una vez contestada la queja o desahogadas las pruebas en su caso, el órgano competente emitirá dictamen dentro de los diez días siguientes.
+Cuando se trate faltas (sic) que no sean graves, previa ratificación del escrito inicial de queja o denuncia, se correrá traslado al presunto infractor con copia simple de dicho escrito y sus anexos, concediéndole el plazo de tres días hábiles para que conteste por escrito lo que a su interés convenga. Las partes deberán ofrecer las pruebas respectivas en dichos escritos, mismas que de ser admitidas serán desahogadas en una audiencia, la cual deberá celebrarse dentro de los quince días naturales siguientes a la contestación. Una vez contestada la queja o desahogadas las pruebas en su caso, el órgano competente emitirá dictamen dentro de los diez días siguientes.
 
 Se levantará acta circunstanciada de la (sic) diligencias que se practiquen, misma que suscribirán quienes en ellas intervengan, apercibidos de las sanciones en que incurren quienes falten a la verdad.
 
@@ -2625,6 +2625,158 @@ Los Magistrados del Tribunal Estatal Electoral percibirán una remuneración ade
 
 En los períodos en los cuales no se celebren elecciones, el Tribunal Estatal Electoral realizará tareas de capacitación, investigación, documentación y difusión en materia electoral.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+
+## TITULO DECIMO TERCERO. DE LA ENTREGA-RECEPCION
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 199.
+
+El Presidente del Tribunal Superior de Justicia al separarse de sus (sic) empleo, cargo o comisión, deberá rendir a través (sic), un informe de los asuntos de su competencia y entregar los recursos financieros, humanos y materiales que tengan asignados para el ejercicio de sus atribuciones legales, a quien lo sustituya en sus funciones, acorde a los lineamientos establecidos en este Titulo.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 200.
+
+La Entrega-Recepción, así como el informe, se efectuará por escrito mediante acta administrativa que describa el estado que guardan los asuntos que esta propia ley les encomienda. En el caso del Presidente del tribunal Superior de Justicia este rendirá el informe relacionado con la situación que guardan los recursos humanos, bienes muebles e inmuebles y estados financieros.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 201.
+
+La entrega y recepción se hará al tomar posesión del empleo, cargo o comisión, el Presidente entrante, previa protesta que deberá rendir en términos de ley.
+
+Si no existe nombramiento o designación del Presidente entrante, la entrega y recepción se hará al servidor público que para tal efecto se designe.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 202.
+
+Los documentos e información que se anexen al acta administrativa de entrega y recepción del despacho deberán circunscribirse a los aspectos más relevantes, debiendo presentarse en forma concentrada y global por el Presidente en los términos de esta Ley.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 203.
+
+La verificación del contenido del acta correspondiente deberá realizarse por el Presidente entrante, en un término no mayor de quince días hábiles, contados a partir de la fecha de entrega y recepción del despacho; durante dicho lapso el Presidente saliente hará las aclaraciones y proporcionará la información adicional que éstos le soliciten.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 204.
+
+En caso de que el Presidente entrante descubra irregularidades durante el término señalado en el artículo anterior, deberá hacerlo del conocimiento del Pleno del Tribunal Superior de Justicia, para que se aclaren por el Presidente saliente, o en su caso, se proceda de conformidad al régimen de responsabilidades de los servidores públicos. Si el Presidente entrante, no procediera de conformidad con el párrafo anterior, incurrirá en responsabilidad en términos de Ley.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 205.
+
+La entrega del despacho y de los asuntos en trámite encomendados al Presidente saliente no lo exime de las responsabilidades en que hubiere incurrido en los términos de Ley.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 206.
+
+El Presidente saliente que no entregue los asuntos y recursos a su cargo en los términos de esta Ley, será requerido por el Presidente entrante para que en un lapso no mayor de quince días hábiles, contados a partir de la fecha de separación del empleo, cargo o comisión, cumpla con esta obligación.
+
+En este caso, el Presidente entrante al tomar posesión o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, para efectos del requerimiento a que se refiere este artículo, a fin de que se promuevan las acciones que correspondan, en aplicación del régimen de responsabilidades de los servidores públicos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
+
+### CAPITULO SEGUNDO. DE LA DOCUMENTACION
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 207.
+
+La documentación de entrega deberá integrarse en la forma siguiente:
+
+I.- El Expediente Protocolario que contendrá:
+
+a). Acto solemne de toma de protesta;
+
+b). Acta administrativa de Entrega-Recepción;
+
+c). Informe de los asuntos de su competencia; y
+
+d). En su caso, acta circunstanciada.
+
+II.- Los Estados Financieros y Presupuestales contendrán:
+
+a). Balance general;
+
+b). Estado de ingresos ordinarios y extraordinarios;
+
+c). Corte de caja adicional;
+
+d). Estado de ejercicio presupuestal que contenga:
+
+1). Gasto corriente;
+
+2). Transferencias;
+
+3). Gastos de inversión;
+
+4). Erogaciones extraordinarias; y
+
+5). Deuda Pública.
+
+e). Relación de cuentas (en bancos);
+
+f). Programa de inversión; y
+
+g). Calendarización y metas.
+
+III.- Situación Patrimonial:
+
+a). Bienes en almacén;
+
+b). Bienes inmuebles;
+
+c). Bienes muebles;
+
+d). Expedientes en archivo;
+
+e). Material bibliográfico;
+
+f). Contratos; y
+
+g). Inventario de programas de computación.
+
+IV.- Recursos Humanos:
+
+a). Plantilla de personal;
+
+b). Inventario de recursos humanos;
+
+c). Estructura orgánica;
+
+d). Resumen de plazas; y
+
+e). Sueldos no cobrados.
+
+V.- Asuntos en Trámite:
+
+a). Juicios en proceso;
+
+b). Convenios;
+
+c). Informe de obras.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
+
+### CAPITULO TERCERO. DE LAS RESPONSABILIDADES
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+
+###### ARTICULO 208.
+
+El incumplimiento de las disposiciones contenidas en la presente Ley, será sancionado en los términos del Título Tercero de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California Sur, con independencia de las disposiciones del orden penal que sean aplicables al caso en particular.
+
 T R A N S I T O R I O S:
 
 ###### ARTICULO 1o.
@@ -2746,3 +2898,9 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Magistrado Presidente del H. Tribunal Superior de Justicia del Estado de Baja California Sur, deberá de redistribuir los Tocas en las Salas Unitarias que correspondan en razón de la materia, debiéndose publicar dicha redistribución en el Boletín Judicial del Poder Judicial del Estado de Baja California Sur para conocimiento de las partes interesadas en los Tocas respectivos.
+
+B.O. 31 DE JULIO DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Presidente de la Gran Comisión del Congreso del Estado y el Presidente del Tribunal Superior de Justicia del Estado, elaborarán los formatos de instructivos de las actas administrativas de Entrega-Recepción, informes y anexos establecidos en el presente decreto, a los que deberán ajustarse los servidores públicos obligados en el mismo.
