@@ -4,7 +4,7 @@ identifier: "COL-ley-sobre-el-sistema-estatal-de-asistencia-social-de-colima-210
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-30"
-last_updated: "2001-06-16"
+last_updated: "2009-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL PUBLICA PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 1 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de agosto de 1986.
 
@@ -532,3 +534,29 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se derogan el Capitulo Cuarto, denominado "De la Asistencia Privada", de la Ley sobre el Sistema Estatal de Asistencia Social de Colima, aprobada por el H. Congreso del Estado mediante Decreto no. 57 del 21 de agosto de 1986, publicado en el Periódico Oficial el 27 del mismo mes y año así como las demás disposiciones que se opongan al presente ordenamiento.
+
+P.O. 1 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación, en el Periódico Oficial, "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Sobre el Sistema Estatal de Asistencia Social del Estado .de Colima, publicada en el Periódico Oficial el 30 de Agosto de 1986, así como todas sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+El Director General del DIF Estatal deberá elaborar el Reglamento de la presente Ley dentro de los ciento ochenta días siguientes a partir de la entrada en vigor de la misma y el Reglamento Interior y Manuales de Organización dentro de los ciento ochenta días.
+
+###### ARTÍCULO CUARTO.
+
+Las personas designadas como miembros del Patronato del Sistema Estatal para el Desarrollo Integral de la Familia de Colima, nombrados al amparo de la ley que se abroga, mantendrán su vigencia en los mismos términos y condiciones en que fueron expedidos.
+
+###### ARTÍCULO QUINTO.
+
+Los nombramientos del personal de confianza del Sistema Estatal para el Desarrollo Integral de la Familia de Colima, expedidos al amparo de la ley que se abroga, mantendrán su vigencia en los mismos términos y condiciones en que fueron expedidos.
+
+###### ARTÍCULO SEXTO.
+
+Los acuerdos y decretos que se hayan expedido al amparo de las Leyes (sic) que se abrogan por la presente Ley, que otorgan exenciones, prerrogativas, beneficios o estímulos a Instituciones de Asistencia Social Privada, seguirán teniendo sus efectos en los términos que fueron creados. Aquellos acuerdos o decretos que no tengan fecha de terminación expirarán el treinta y uno de diciembre del dos mil nueve.
