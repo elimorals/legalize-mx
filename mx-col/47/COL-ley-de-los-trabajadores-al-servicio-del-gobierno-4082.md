@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2009-07-18"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -105,7 +105,9 @@ Además de quienes realizan las funciones anteriores, tendrán el carácter de t
 
 I.- En el Poder Legislativo: aquellos a los que se refiere el artículo 35 de su Ley Orgánica y los artículos 191 y 192 de su Reglamento; así como lo establecido por el artículo 7 de la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Colima; tales como: Oficial Mayor, Contador Mayor de Hacienda, Subcontralores, Secretarios Particulares, Secretarios Privados y Auxiliares, Directores, Asesores, Jefes de Departamento con funciones de Dirección, Auditores y Contralores;
 
-II.- En el Poder Ejecutivo: Secretario Particular del Gobernador, Representante del Gobierno en el Distrito Federal, Cuerpo de Seguridad, Ayudantes y Choferes al servicio directo del Titular del Ejecutivo; Secretarios de Despacho, Subsecretarios, Oficial Mayor, Procurador, Subprocuradores, Directores Generales, Directores de Area, Subdirectores, Jefes de Departamento con funciones de Dirección, Asesores; Secretarios Particulares, Secretarios Privados; Administradores; Coordinadores; Auditores, Contralores, Valuadores, Peritos, Supervisores, Visitadores; Agentes del Ministerio Público, Oficiales Secretarios; Presidentes de las Juntas de Conciliación y Arbitraje, Procuradores y Subprocuradores de la Defensa del Trabajo, Coordinadores e Inspectores; Integrantes de los Consejos Tutelares o Asistenciales; Vocales Representantes en Dependencias Públicas y Organismos Descentralizados; Directores, Alcaides, Celadores y Personal de Vigilancia en Cárceles e Instituciones de Asistencia y Prevención y Readaptación Social y el personal sujeto a honorarios; todos los miembros operativos de los Servicios Policiacos y de Tránsito, así como los miembros de la Policía Judicial;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2009)</small>
+
+II.- En el Poder Ejecutivo: Secretario Particular del Gobernador, Representante del Gobierno en el Distrito Federal, Cuerpo de Seguridad, Ayudantes y Choferes al servicio directo del Titular del Ejecutivo; Secretarios de Despacho, Subsecretarios, Procurador, Subprocuradores, Directores Generales, Directores de Area, Subdirectores, Jefes de Departamento con funciones de Dirección, Asesores; Secretarios Particulares, Secretarios Privados; Administradores; Coordinadores; Auditores, Contralores, Valuadores, Peritos, Supervisores, Visitadores; Agentes del Ministerio Público, Oficiales Secretarios; Presidentes de las Juntas de Conciliación y Arbitraje, Procuradores y Subprocuradores de la Defensa del Trabajo, Coordinadores e Inspectores; Integrantes de los Consejos Tutelares o Asistenciales; Vocales Representantes en Dependencias Públicas y Organismos Descentralizados; Directores, Alcaides, Celadores y Personal de Vigilancia en Cárceles e Instituciones de Asistencia y Prevención y Readaptación Social y el personal sujeto a honorarios; todos los miembros operativos de los Servicios Policiacos, así como los miembros de la Policía de Procuración de Justicia;
 
 III.- En el Poder Judicial:
 
@@ -113,7 +115,9 @@ a).- Secretarios de Acuerdos del Supremo Tribunal; Secretario Particular; Jueces
 
 IV.- En los Ayuntamientos de la Entidad:
 
-a).- Los Secretarios de los Ayuntamientos, Tesoreros, Oficiales Mayores, Directores Generales, Directores de Area, Subdirectores, Jefes de Departamento con funciones de Dirección, Contralores, Oficiales del Registro Civil, Auditores, Coordinadores, Supervisores e Inspectores.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2009)</small>
+
+a).- Los Secretarios de los Ayuntamientos, Tesoreros, Oficiales Mayores, Directores Generales, Directores de Área, Subdirectores, Jefes de Departamento con funciones de Dirección, Contralores, Oficiales del Registro Civil, Auditores, Coordinadores, Supervisores e Inspectores, así como todos los miembros operativos de los servicios policiacos y de tránsito.
 
 V.- En el Tribunal:
 
@@ -161,7 +165,9 @@ Para los efectos de esta Ley, se entenderán como Titulares:
 
 I.- En el Poder Legislativo, la Comisión de Gobierno Interno y Acuerdos Parlamentarios del Congreso del Estado de Colima, por conducto de su Presidente;
 
-II.- En el Poder Ejecutivo, el Gobernador del Estado, por conducto del Oficial Mayor; y en sus dependencias, los servidores públicos de mayor jerarquía, conforme lo disponga la Ley Orgánica de la Administración Pública;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2009)</small>
+
+II.- En el Poder Ejecutivo, el Gobernador del Estado, por conducto del Secretario de Administración; y en sus dependencias, los servidores públicos de mayor jerarquía, conforme lo disponga la Ley Orgánica de la Administración Pública;
 
 III.- En el Poder Judicial, el Pleno del Supremo Tribunal de Justicia, por conducto del Magistrado Presidente;
 
@@ -188,6 +194,10 @@ En caso de duda en la interpretación de esta Ley y una vez aplicada la supletor
 ###### ARTICULO 16.
 
 El personal operativo de las fuerzas de seguridad del Estado y Municipios, que no desempeñen funciones administrativas, se regirán por sus propios reglamentos, los cuales deberán contener las disposiciones legales para proteger los derechos que correspondan a estos servidores públicos.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2009)</small>
+
+Los Reglamentos respectivos a que se refiere el párrafo anterior, contendrán y regularan en todo caso, el derecho de los cuerpos operativos policiacos a jubilarse y pensionarse, así como todos los demás derechos consagrados en esta Ley.
 
 ###### ARTICULO 17.
 
@@ -1418,3 +1428,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 18 DE JULIO DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
