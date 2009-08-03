@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-profesiones-del-estado-de-queretaro-arteaga-14673"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-11"
-last_updated: "1999-06-11"
+last_updated: "2009-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE PROFESIONES DEL ESTADO DE QUERETARO DE ARTEAGA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROFESIONES DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 3 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 11 de junio de 1999
 
@@ -756,3 +758,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. MARIA GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE AGOSTO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Profesiones del Estado de Querétaro Arteaga publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número veinticuatro, de fecha once de junio de mil novecientos noventa y nueve; así como la Ley que Fija el Arancel para el Cobro de Honorarios del Abogados, publicada en el medio oficial en cita, número treinta y cinco, de fecha primero de septiembre de mil novecientos ochenta y tres.
+
+Artículo Tercero. El Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, así como aquellos instrumentos que correspondan para su eficaz cumplimiento.
