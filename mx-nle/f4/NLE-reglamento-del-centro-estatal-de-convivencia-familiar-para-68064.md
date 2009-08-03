@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-centro-estatal-de-convivencia-familiar-para-6806
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-03"
-last_updated: "2009-04-03"
+last_updated: "2009-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL CENTRO ESTATAL DE CONVIVENCIA FAMILIAR PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de abril de 2009.
 
@@ -51,11 +51,13 @@ El Pleno del Consejo de la Judicatura del Estado, con las facultades de expedir 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en el presente Reglamento, son de orden público, interés social y de observancia obligatoria para todo el personal del Centro Estatal de Convivencia Familiar, los justiciables usuarios de los servicios y las Autoridades Judiciales, así como para toda persona que por cualquier motivo tenga que hacer uso de las instalaciones o servicios prestados por el mismo. Tiene por objeto regular el desarrollo de las convivencias familiares, la recepción y entrega del menor, servicios de Evaluación Psicológica e Investigaciones sociales.
+Las disposiciones contenidas en el presente Reglamento, son de orden público, interés social y de observancia obligatoria para todo el personal del Centro Estatal de Convivencia Familiar, los justiciables usuarios de los servicios y las Autoridades Judiciales, así como para toda persona que por cualquier motivo tenga que hacer uso de las instalaciones o servicios prestados por el mismo. Tiene por objeto regular el desarrollo de las convivencias familiares, la recepción y entrega del menor, servicios de evaluación psicológica, terapia de integración e Investigaciones sociales.
 
-Las actividades sustantivas del Centro Estatal de Convivencia Familiar consisten en facilitar dentro de las instalaciones, la convivencia entre los progenitores y sus hijos, así como estos últimos con la familia extensa del progenitor no custodio; igualmente la recepción y entrega del menor, en los casos que, a juicio de la Autoridad Judicial, éstas no puedan realizarse de manera libre o se ponga en riesgo el interés superior del menor.
+Las actividades sustantivas del Centro Estatal de Convivencia Familiar, consisten en facilitar dentro de las instalaciones, la convivencia entre los progenitores y sus hijos, igualmente la recepción y entrega del menor, en los casos que a juicio de la Autoridad Judicial, éstas no puedan realizarse de manera libre o se ponga en riesgo el interés superior del menor. Igualmente deberá darse terapia de integración cuando exista, in tiempo prolongado se ausencia entre el hijo (s) y el progenitor no custodio; o cuando no haya conocido al hijo por haberse separado los padres antes del nacimiento de éste.
 
 Deberán aplicarse evaluaciones psicológicas e investigaciones sociales que se soliciten al centro, a fin de minimizar los riesgos de daños físicos o psicológicos de los miembros involucrados en controversias familiares, coadyuvando al sano desarrollo emocional de los integrantes de la familia.
 
@@ -65,7 +67,9 @@ Para los efectos del presente Reglamento se entenderán por:
 
 I. Autoridades del Centro: Director (a).
 
-II. Autoridad Judicial: Órganos Jurisdiccionales que conozcan de las causas o controversias de las cuales deriven las convivencias, recepción y entrega del menor, evaluaciones psicológicas e investigaciones sociales.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+II. Autoridad Judicial: Órganos Jurisdiccionales que conozcan de las causas o controversias de las cuales deriven las convivencias, recepción y entrega del menor, evaluaciones psicológicas e investigaciones sociales, visitas domiciliarias y de campo.
 
 III. Centro: Centro Estatal de Convivencia Familiar del Consejo de la Judicatura del Estado de Nuevo León.
 
@@ -89,7 +93,9 @@ XII. Progenitor (es): Padre y/o madre del menor (es).
 
 XIII. Parte: Persona interesada en un juicio y que sostiene en él sus pretensiones.
 
-XIV. Periodo vacacional: Tiempo que determina la Autoridad Judicial para que los progenitores convivan con sus menores hijos durante las vacaciones escolares.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XIV. Periodo vacacional: Tiempo que determina la Autoridad Judicial para que los progenitores convivan con sus menores hijos durante las vacaciones escolares, ya sean éstas las de primavera, verano o invierno.
 
 XV. Terceros de emergencia: Para el caso de cualquier eventualidad en la entrega del menor una vez concluida la convivencia, deberá quien detente la guarda y custodia de éste, proponer dos personas para recogerlo.
 
@@ -103,27 +109,31 @@ XIX. Tribunal: Tribunal Superior de Justicia del Estado de Nuevo León.
 
 XX. Usuario(s): Toda persona que por orden de la Autoridad Judicial se constituye en el Centro, para participar en las convivencias, recepción y entrega de menor, evaluaciones psicológicas e investigación social.
 
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XXI. Terapia de Integración: Tratamiento que tiene como finalidad construir, restablecer o reintegrar el vínculo afectivo del progenitor no custodio, con el menor y el objetivo es el sano desarrollo para el infante y que las convivencias se den en un ambiente adecuado.
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XXII. Asistente de Dirección: Personal calificado para apoyar en tosas las tareas propias de la Coordinación, implementación de trabajos que soliciten los jueces familiares, contestar correspondencia, formas expedientes, certificar y expedir copias de los mismos y atender a los usuarios y a sus representantes y todas las aéreas que le sean asignadas por la Dirección.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 3.
 
-Para el cumplimiento de sus funciones y desarrollo de sus actividades sustantivas, el Centro cuenta con autonomía técnica y operativa, en términos del artículo 79-bis de la Ley Orgánica del Poder Judicial del Estado de Nuevo León, entendiéndose ésta como el desempeño auto responsable de las funciones que le han sido atribuidas legalmente, en la inteligencia, que la aplicación de medios de apremio, es facultad única y exclusiva de los órganos jurisdiccionales.
+Para el cumplimiento de sus funciones y desarrollo de sus actividades sustantivas, el Centro cuenta con autonomía técnica y operativa, en términos del artículo 79-bis de la Ley Orgánica del Poder Judicial del Estado de Nuevo León, entendiéndose ésta como el desempeño auto responsable de las funciones que le han sido atribuidas legalmente, en la inteligencia que la aplicación de los medios de apremio, es facultad única y exclusiva de los órganos jurisdiccionales. Los servicios de convivencia, recepción o entrega de menor, evaluación psicológica, investigaciones sociales y terapias de integración que presta el Centro, serán totalmente gratuitos. Por lo tanto, queda terminantemente prohibido que el personal del Centro, dentro o fuera de él, reciba por sí o interpósita persona, dádiva de cualquier naturaleza, de parte de los usuarios y/o representantes.
 
-Los servicios de convivencia, recepción o entrega de menor, evaluación psicológica e investigaciones sociales que presta el Centro, serán totalmente gratuitos. Por lo tanto, queda terminantemente prohibido que el personal del Centro, dentro o fuera de él, reciba por sí o interpósita (sic) persona, dádiva de cualquier naturaleza, de parte de los usuarios y/o representantes.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
-El Centro proporcionará sus servicios únicamente a las personas que expresamente determine la Autoridad Judicial, derivado de litigios en materia de Derecho Familiar, para lo cual las convivencias, recepción o entrega de menor y evaluaciones psicológicas e investigaciones sociales, se llevarán a cabo en sus instalaciones, con la salvedad de las investigaciones de campo que se requieran para emitir dictamen.
+El Centro proporcionará sus servicios únicamente a las personas que expresamente determine la Autoridad Judicial, derivado de litigios en materia de derecho familiar, para lo cual las convivencias, recepción o entrega de menor y evaluaciones psicológicas, investigaciones sociales y terapias de integración se llevarán a cabo en sus instalaciones, con la salvedad de las investigaciones de campo que se requieran para emitir dictamen.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 5.
 
-El Centro ofrecerá sus servicios al público de lunes a domingo, los trescientos sesenta y cinco días del año. El servicio se proporcionará en los siguientes horarios:
-
-I.- En horario matutino: de las 10:00 a las 14:00 horas.
-
-II.- En horario vespertino: de las 15:00 a las 19:00 horas.
-
-No pudiéndose extender las convivencias, recepción o entrega de menor fuera de estos horarios.
-
-Las citas en el Centro se programarán al público a partir de las 10:00 horas, siendo la última a las 18:00 horas.
+El Centro ofrecerá sus servicios al público, generalmente, de miércoles a domingo, y se proporcionará en el siguiente horario: de las 12:00 a las 20:00, no pudiendo extenderse los servicios que presta el Centro fuera de estos horarios; quedando como descanso para todo el personal del Centro los días lunes y martes de cada semana.
 
 ###### Artículo 6.
 
@@ -131,35 +141,45 @@ Todo asunto relacionado con los medios de comunicación, imagen, difusión y div
 
 ### CAPÍTULO II. DE LA DIRECCIÓN
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 7.
 
 Coordinar y dirigir las acciones sobre el funcionamiento integral del Centro.
 
-Proponer la implementación de nuevas modalidades y formas de convivencias que propicien la optimización de las mismas.
+I. - Proponer la implementación de nuevas modalidades y formas de convivencias que propicien la optimización de las mismas.
 
-Mantener la comunicación permanente con la Presidencia del Consejo de la Judicatura, así como con las Autoridades Judiciales del orden Familiar.
+II.- Mantener la comunicación permanente con la Presidencia del Consejo de la Judicatura, así como con las Autoridades Judiciales del orden Familiar.
 
-Propiciar la comunicación e intercambio de técnicas con otros organismos semejantes a nivel estatal, nacional e internacional.
+III.- Propiciar la comunicación e intercambio de técnicas con otros organismos semejantes a nivel estatal, nacional e internacional.
 
-Supervisar la correcta aplicación de las normas y procedimientos administrativos en materia de recursos humanos y materiales que emita el Consejo de la Judicatura del Estado de Nuevo León.
+IV.- Supervisar la correcta aplicación de las normas y procedimientos administrativos en materia de recursos humanos y materiales que emita el Consejo de la Judicatura del Estado de Nuevo León.
 
-Resolver los incidentes que se susciten durante el desarrollo de las convivencias dentro del Centro.
+V.- Resolver los incidentes que se susciten durante el desarrollo de las convivencias dentro del Centro.
 
-Verificar la correcta expedición de copias certificadas que le sean solicitadas por las autoridades competentes.
+VI.- Verificar la correcta expedición de copias certificadas que le sean solicitadas por las autoridades competentes.
 
-Vigilar se cumplan los servicios que el Centro ofrece.
+VII.- Vigilar se cumplan los servicios que el Centro ofrece.
 
-Rendir mensualmente un informe de actividades al Pleno del Consejo de la Judicatura.
+VIII.- Contestar puntualmente los amparos que le notifique la Autoridad Federal y en los que sea señalada como Autoridad Responsable.
+
+IX.- Rendir mensualmente un informe de actividades al Pleno del Consejo de la Judicatura.
+
+X.- Enviar diariamente el reporte de los servicios prestados a los juzgados solicitantes.
 
 Las ausencias temporales del Director (a) del Centro serán cubiertas por la persona que designe el Consejo de la Judicatura, el Director podrá proponer la persona que pueda suplir su ausencia.
 
-### CAPÍTULO III. DEL REGISTRO DE CONVIVENCIAS, RECEPCIÓN Y ENTREGA DE MENOR, EVALUACIONES PSICOLÓGICAS E INVESTIGACIONES SOCIALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 2009)</small>
+
+### CAPÍTULO III. DEL REGISTRO DE CONVIVENCIAS, RECEPCIÓN Y ENTREGA DE MENOR, EVALUACIONES PSICOLÓGICAS, INVESTIGACIONES SOCIALES Y TERAPIA DE INTEGRACIÓN
 
 ###### Artículo 8.
 
 Las convivencias, recepción y entrega del menor y evaluaciones psicológicas e investigaciones sociales, se llevarán a cabo dentro del horario a que se refiere el artículo 5 del presente reglamento.
 
-La Autoridad Judicial tendrá facultad de agendar las fechas y horarios de las convivencias y recepción y entrega de menor que deban verificarse en el Centro, acorde a lo dispuesto en el artículo 5 de este Reglamento.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+La fijación y programación de fechas y horarios de los servicios que presta el Centro, se hará tomando los acuerdos entre los jueces familiares, tanto tradicionales, como orales y la Dirección del Centro, a fin de hacer óptimos los recursos de tiempos y espacios.
 
 En caso de encontrarse saturados los horarios en que deban prestarse los servicios por el Centro, deberá comunicarse a la Autoridad Judicial a efecto de sugerir días y horarios disponibles para la realización de éstas.
 
@@ -171,9 +191,11 @@ El Centro brindará sus servicios, previa orden por escrito de Autoridad Judicia
 
 Para la práctica de evaluaciones psicológicas y/o socioeconómicas, deberá señalarse la persona a quien debe evaluarse, y el objeto de la misma, precisando quien detenta la guarda y custodia de los menores sujetos a evaluación.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 10.
 
-Una vez programadas las fechas y horarios en que deban prestarse los servicios por el Centro, no podrán modificarse, salvo caso fortuito o fuerza mayor.
+Una vez programadas las fechas y horarios en que deban prestarse los servicios por el Centro, no podrán modificarse, salvo caso fortuito o fuerza mayor, o por razones de servicio, con el deseo de otorgarlo en forma óptima.
 
 Deberá vigilarse el exacto cumplimiento por parte de los involucrados, de los horarios fijados para la prestación de los servicios.
 
@@ -191,9 +213,11 @@ Son motivo de cancelación de los servicios que presta el Centro, cuando:
 
 I. La Autoridad Judicial así lo establezca.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 14.
 
-Son causa de suspensión temporal de las convivencias, recepción y entrega de menor, de evaluaciones psicológicas, o investigación social, las siguientes:
+Son causa de suspensión temporal de las convivencias, recepción y entrega de menor, de evaluaciones psicológicas, investigación social y terapia de integración las siguientes:
 
 I. Se presente caso fortuito o fuerza mayor.
 
@@ -231,11 +255,11 @@ Al ingresar al Centro, podrá realizarse la revisión física de los menores par
 
 En el caso de las convivencias supervisadas, posterior a las revisiones, ingresarán a una sala de transición, con el objeto de que inicien la convivencia con toda tranquilidad.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 19.
 
-Los padres o persona autorizada, se registrarán al ingresar al Centro, debiendo firmar el libro de registro y por ningún motivo podrán hacer anotaciones, comentarios o ralladuras que alteren dicho documento.
-
-Los padres o tutores que tengan la guarda y custodia del menor, así como quienes por disposición judicial no deban participar en las convivencias, deberán esperar previo al inicio o a la conclusión de éstas, en los lugares destinados por el Centro para ello.
+Los padres o tutores que tengan la guarda y custodia del menor, así como quienes por disposición judicial no deban participar en las convivencias, deberán esperar previo al inicio o a la conclusión de estas, en los lugares destinados por el Centro para ello, sin interferir en el desarrollo de la misma; cuando eso suceda, en la primera ocasión se llamará la atención para que se abstenga de desplegar esas conductas, en caso de reincidencia en dichos actos, se rendirá informe al juez de la causa para que dicte las medidas pertinentes.
 
 ###### Artículo 20.
 
@@ -361,9 +385,11 @@ Al término de la convivencia, el padre que convive con el menor, no podrá aban
 
 Los padres que conviven deberán vigilar el correcto comportamiento de sus hijos hacia ellos mismos, a los demás asistentes y hacia el personal del Centro.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 45.
 
-Las convivencias tendrán una duración mínima de una hora y máxima de 3 horas. Tomando en cuenta la edad de los menores y las circunstancias del caso, no pudiendo exceder ninguna convivencia de 3 horas ya sea en los horarios matutinos o vespertinos. En el caso de que los menores o padres requieran supervisión especial o de aquellos que no hayan cumplido los tres años de edad, la convivencia no podrá exceder de dos horas.
+Las convivencias tendrán una duración mínima de una hora y máxima de 3 horas. Tomando en cuenta la edad de los menores y las circunstancias del caso, no pudiendo exceder ninguna convivencia de 3 horas. En el caso de que los menores o padres requieran supervisión especial o de aquellos que no hayan cumplido los tres años de edad, la convivencia no podrá exceder de dos horas.
 
 ###### Artículo 46.
 
@@ -413,9 +439,11 @@ En los casos en que el Centro proporcione el material para el desarrollo de las 
 
 El Centro destinará lugares específicos para ingerir alimentos, debiendo los comensales mantener limpias las instalaciones. Se indicarán las áreas adecuadas para el uso de pelotas y cualquier otro juguete que no requiera de mucho espacio para ser utilizado durante la convivencia.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 56.
 
-Los participantes de alguna convivencia no podrán involucrarse en otra que no sea la suya, cuando tal injerencia ocasione algún trastorno en el desarrollo de su convivencia o de alguna otra.
+Los participantes de alguna convivencia no podrán involucrarse en otra que no sea la suya, cuando tal injerencia ocasione algún trastorno en el desarrollo de su convivencia o de alguna otra, o cuando el progenitor custodio interfiera en la convivencia de tal manera que impida su desarrollo, se aplicaran las medidas previstas en el artículo 19 de este reglamento.
 
 ###### Artículo 57.
 
@@ -443,11 +471,15 @@ Después de 30 minutos de concluido el servicio, no se permitirá a los usuarios
 
 Para el caso de la recepción y entrega de menor con fines vacacionales, se estará a lo ordenado por la Autoridad Judicial.
 
-### CAPÍTULO VIII. DEL DEPARTAMENTO DE PSICOLOGÍA, TRABAJO SOCIAL Y AUXILIARES ADMINISTRATIVOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 2009)</small>
+
+### CAPÍTULO VIII. DEL DEPARTAMENTO DE PSICOLOGÍA, TRABAJO SOCIAL, AUXILIARES ADMINISTRATIVOS Y ASISTENTE DE DIRECCIÓN
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 62.
 
-El Departamento de Psicología tendrá a su cargo la práctica de evaluaciones psicológicas y supervisión de convivencias que se soliciten al Centro; y aquellas funciones que le sean encomendadas por la Dirección.
+El Departamento de Psicología tendrá a su cargo la práctica de evaluaciones psicológicas, terapia de integración y supervisión de convivencias que se soliciten al Centro; y aquellas funciones que le sean encomendadas por la Dirección.
 
 ###### Artículo 63.
 
@@ -456,6 +488,10 @@ El Departamento de Trabajo Social tendrá a su cargo la práctica de evaluacione
 ###### Artículo 64.
 
 Los Auxiliares Administrativos serán las personas encargadas de apoyar, supervisar y vigilar las diversas actividades que se desarrollen en el Centro para su buen funcionamiento.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+La Asistente de Dirección tendrá a su cargo apoyar a la misma, en todas las actividades, necesarias para el buen desarrollo y funcionamiento de las actividades que por ley debe realizar el Centro.
 
 ###### Artículo 65.
 
@@ -689,9 +725,11 @@ De presentarse alguno de los supuestos arriba señalados los objetos, materiales
 
 Si fuese algún objeto sustancia o conducta de las prohibidas también por las leyes respectivas, se hará del conocimiento de las autoridades correspondientes para los efectos jurídicos que procedan tratándose de los conceptos a que se refiere las fracciones X, XI, XII, XII (SIC), XIV y XIX del artículo anterior, el personal de vigilancia impedirá el acceso y no podrá hacerse cargo de su depósito.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 91.
 
-El médico adscrito al Centro prestará sus servicios en el área destinada para ello, y en los horarios que se establecieron en el artículo 6 de este Reglamento.
+El servicio médico, así como el de enfermería prestara sus servicios en el área destinada para ello, y al momento en que sus servicios sean necesarios, para lo cual estarán al llamado de este Centro.
 
 ###### Artículo 92.
 
@@ -720,3 +758,11 @@ CONSEJERO
 EL C. SECRETARIO GENERAL DE ACUERDOS
 
 LIC. ALAN PABEL OBANDO SALAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE AGOSTO DE 2009.
+
+PRIMERO.- Publicación y difusión. Publíquense las presentes reformas en el boletín Judicial y, para su mayor difusión, en el Periódico Oficial del Estado.
+
+SEGUNDO.- Vigilancia. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Boletín Judicial.
