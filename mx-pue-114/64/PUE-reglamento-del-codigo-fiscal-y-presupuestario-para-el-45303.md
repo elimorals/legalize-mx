@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-codigo-fiscal-y-presupuestario-para-el-45303"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-13"
-last_updated: "2009-01-28"
+last_updated: "2009-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO DEL CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 13 de junio de 2005.
 
@@ -243,9 +243,9 @@ La Dirección Jurídica al desahogar las consultas que le formulen las demás au
 
 La Contraloría practicará auditoría cada mes sobre los libros, expedientes, procedimientos y resoluciones que en materia del Recurso Administrativo de Revisión se tramita ante la Dirección Jurídica, con la finalidad de verificar su debido control y la legalidad de su actuación.
 
-## TÍTULO II
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 209)</small>
 
-DE LAS RELACIONES JURÍDICAS FÍSICO-CONTRIBUYENTES Y DE LA COLABORACIÓN ADMINISTRATIVA.
+## TÍTULO II. DE LAS RELACIONES JURÍDICAS FISCO-CONTRIBUYENTES, DE LA COLABORACIÓN ADMINISTRATIVA Y DEL DEBIDO EJERCICIO DE FUNCIONES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -877,7 +877,7 @@ e) Verificar que el propietario o encargado de un establecimiento o la persona q
 
 f) Verificar que el propietario o encargado de un establecimiento mercantil o personas que expendan cualquiera de las substancias y pinturas en aerosol previstas en el artículo 1930, del Código Reglamentario, cuenten con la autorización para vender o distribuir dichas substancias emitida por el Ayuntamiento, y las licencias que deban expedirles las autoridades sanitarias federales y estatales;
 
-g) Verificar que todo establecimiento mercantil que venda o distribuya las substancias referidas en este inciso, tenga en un lugar visible al publico las autorizaciones correspondientes, así como un letrero con la leyenda: “PROHIBIDA LA VENTA U OBSEQUIO A MENORES DE EDAD DE PINTURAS EN AEROSOL, ASÍ COMO SUBSTANCIAS TÓXICAS CUYO CONSUMO POR CUALQUIER VÍA O INHALACIÓN PROLONGADA O REITERADA ORIGINE GRANDES DAÑO PARA LA SALUD”;
+g) Verificar que todo establecimiento mercantil que venda o distribuya las substancias referidas en este inciso, tenga en un lugar visible al publico las autorizaciones correspondientes, así como un letrero con la leyenda: "PROHIBIDA LA VENTA U OBSEQUIO A MENORES DE EDAD DE PINTURAS EN AEROSOL, ASÍ COMO SUBSTANCIAS TÓXICAS CUYO CONSUMO POR CUALQUIER VÍA O INHALACIÓN PROLONGADA O REITERADA ORIGINE GRANDES DAÑO PARA LA SALUD";
 
 h) Para conocer y verificar el cumplimiento de obligaciones fiscales derivadas de diversas disposiciones reglamentarias, que deriven de otros ordenamientos legales, o de los acuerdos o convenios de coordinación administrativa; y
 
@@ -1217,7 +1217,7 @@ XVII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos
 
 La Dirección de Egresos y Control Presupuestal estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+ADICIONADA, P.O. 24 DE FEBRERO DE 2006)
 
 Competencia de la Dirección de Contabilidad.
 
@@ -1859,6 +1859,148 @@ El Presidente, atendiendo a las particularidades del caso, instruiría al Tesore
 
 El Presidente podrá otorgar los actos jurídicos necesarios, para el entero oportuno de recursos al patrimonio fiduciario.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 209)</small>
+
+### CAPÍTULO SEXTO. DISPOSICIONES REGLAMENTARIAS PARA EL DEBIDO EJERCICIO DE FUNCIONES
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 1.- El Director de Recursos Humanos de la Secretaría de Administración y Tecnologías de la Información o su equivalente en cada Organismo Público Descentralizado, deberán verificar que ninguna persona que deba ser incorporada a los recursos humanos del Municipio, ejerza funciones sin haber satisfecho todos los requisitos legales aplicables a su función.
+
+Cuando un servidor público cambie de adscripción y sus documentos obren en los archivos de la Dirección de Recursos Humanos de la Secretaría de Administración y Tecnologías de la Información, en este caso no se le requerirá que los presente nuevamente.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 2.- La Dirección de Recursos Humanos de la Secretaría de Administración y Tecnologías de la Información o su equivalente en los Organismos Públicos Descentralizados, previamente a la contratación de un servidor público, se cerciorará que obre en el expediente del mismo, el documento expedido por la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública del Gobierno del Estado, en el que conste que el sujeto no se encuentra inhabilitado.
+
+Será responsabilidad de la Dirección de Recursos Humanos de la Secretaría de Administración y Tecnologías de la Información o su equivalente en los Organismos Públicos Descentralizados, verificar que las identificaciones que expidan concuerden con el empleo, cargo o comisión que desempeña el servidor público.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 3.- En caso de que un servidor público a quien sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente persona que haya de reemplazarlo, lo abandone sin causa justificada, será responsable el Director de Recursos Humanos de la Secretaría de Administración y Tecnologías de la Información o de su equivalente en los Organismos Públicos Descentralizados, de informarlo por escrito y a la brevedad a la Contraloría, la Sindicatura y el Titular de la Dependencia u Organismo Público Descentralizado respectivo.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 4.- Será responsabilidad de cada Titular de Dependencia u Organismos Públicos Descentralizados, especificar en la orden de separación de un servidor público, si ésta se verifica desde luego o debe continuar en ejercicio de sus funciones entre tanto se presenta la persona que haya de substituirlo, a menos que en la orden de separación se exprese que ésta se verifique inmediatamente, y la ley no lo prohíba.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 5.- En el caso de que un servidor público por razón de su empleo, cargo o comisión, tenga conocimiento de algún hecho o situación de la cual pueda resultar gravemente afectado el patrimonio municipal, deberá informar por escrito a la Contraloría, la Tesorería y en su caso al titular de la Dependencia u Organismo Público Descentralizado para el que labore.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 6.- Cada Titular de Dependencia u Organismo Público Descentralizado será responsable de emitir por escrito las instrucciones y dar seguimiento para el debido control y resguardo de la documentación que sea entregada a los servidores públicos para su administración. La Tesorería dictará la normatividad para el ejercicio de esa atribución.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 7.- En el caso de que algún integrante del Ayuntamiento, sea requerido o deba legalmente rendir informes o presentar documentación a terceros, el Titular de la Dependencia, Organismo Público Descentralizado o Unidad que administre la información, validará con su rúbrica el contenido de los mismos.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 8.- Los resguardos de bienes muebles o inmuebles que suscriban los servidores públicos ante la Unidad Administrativa de cada Dependencia u Organismo Público Descentralizado, señalarán los usos y restricciones a los mismos, que observarán los receptores a fin de que conozcan el objeto al que deberán destinarse, sin que en ningún caso puedan ponerlos en manos de terceros sin autorización previa de cada Unidad Administrativa.
+
+Dichos resguardos deberán ser suscritos por los servidores públicos receptores, en el acto de la recepción de la tenencia de los bienes.
+
+Los titulares de las Unidades Administrativas actualizarán los resguardos en los términos de la normatividad que expida la Secretaría de Administración y Tecnologías de la Información y concentrarán mensualmente en esta Dependencia los mismos para su consolidación.
+
+La Contraloría vigilará que en los manuales respectivos, se identifiquen a las personas que serán garantes de custodiar, vigilar, proteger o dar seguridad a los bienes de propiedad o en cuidado del Municipio.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 9.- En el otorgamiento de concesiones de bienes o servicios, la Dependencia u Organismo Público Descentralizado competente para la custodia y administración de los bienes de que se trate o de la prestación de los servicios públicos, será responsable de la realización de los estudios que sustenten la determinación sobre la idoneidad y la posibilidad de la concesión y de integrar los expedientes necesarios, a fin de que el Ayuntamiento en ejercicio de sus atribuciones determine los procedimientos, criterios de adjudicación, modelos de títulos, y emita el fallo correspondiente; y en general adopte las decisiones que constitucionalmente le corresponden.
+
+Respecto a licencias y permisos, cada Dependencia u Organismo Público Descentralizado además de sujetarse a la regulación aplicable, mantendrá un control actualizado sobre el número de actos administrativos de esta índole otorgados o rechazados y los criterios que adoptó.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 10.- Ningún servidor público podrá participar en el otorgamiento de concesiones, permisos, licencias, autorizaciones, o realizar cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, relaciones profesionales o laborales, socios o sociedades de las que el servidor público o las personas antes referidas formen parte o hayan tenido relaciones comerciales en los cinco años previos al otorgamiento del acto administrativo o convenio de que se trate.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 11.- Para efectos del artículo 50 fracción III de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, la Contraloría al analizar la declaración sobre la situación patrimonial de un servidor público, estará facultada para requerir la información o realizar las investigaciones que se permitan distinguir si la adquisición de bienes o la celebración de contratos que haya realizado el propio servidor público o sus cónyuges o sus dependientes económicos, se relacionan con la información que posee por razón de su empleo, cargo o comisión, en caso de que se deduzca que los datos asentados en la declaración patrimonial no coinciden, dará vista a la Sindicatura Municipal y ésta al Ministerio Público competente.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 12.- Los titulares de las Dependencias u Organismos Públicos Descentralizados, al suscribir contratos, convenios o cualquier acto administrativo o jurídico, que involucren la participación o corresponsabilidad social en el desarrollo de programas municipales, serán responsables de:
+
+I. Corroborar que mediante los mismos no se evadan obligaciones tributarias o se generen condiciones desventajosas para el Municipio;
+
+II. Vigilar que no carezcan de una clara y documentada justificación costo beneficio o de desarrollo social;
+
+III. Corroborar que no se violenten la normatividad municipal y/o los principios de libre empresa o de libre concurrencia; y
+
+IV. Que en general no sean utilizados para eludir una responsabilidad legal.
+
+Los titulares de las Dependencias u Organismos Públicos Descentralizados, documentarán por escrito las instrucciones a los servidores públicos de su adscripción que en cada caso, sean útiles para la observancia de esta disposición.
+
+En caso que estos actos impliquen aplicación de recursos financieros, se deberá obtener previamente el oficio de disponibilidad presupuestal de la Tesorería, validado por la Comisión de Patrimonio y Hacienda Municipal.
+
+Cuando los actos conlleven el uso de un bien inmueble del patrimonio municipal, se deberá obtener previamente la autorización del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 13.- Cada Dependencia u Organismo Público Descentralizado, en el ámbito de su competencia, proporcionara información para su publicación en la página Web del Municipio de Puebla:
+
+I. La lista de servidores públicos responsables de la realización de trámites de particulares, así como el área administrativa de su adscripción, ya sea de la Administración Pública Centralizada o Paramunicipal;
+
+II. Los formatos que deberá llenar y en su caso, costo de los mismos;
+
+III. Los plazos o términos legales para su tramitación;
+
+IV. Los requisitos que deberán satisfacer y el costo de los mismos;
+
+V. Cualquier otro aspecto que sirva para precisar la totalidad de requisitos para cada trámite; y
+
+VI. Cuando los trámites realizados por los particulares no reúnan los requisitos correspondientes, se tendrán por no presentados.
+
+En ningún caso, terceros no mandatados legalmente por las partes podrán gestionar negocios.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 14.- La Dirección Jurídica en la tramitación y resolución de los recursos que sean propios de su competencia, actuará con plena autonomía técnica y deberá rendir mensualmente al Ayuntamiento en Sesión de Cabildo un informe del sentido de las resoluciones que emita, el monto controvertido, las partes y los principales criterios sustentados.
+
+El Síndico con la misma periodicidad, señalada en el párrafo que antecede, comunicará al Ayuntamiento en Sesión de Cabildo sobre los criterios que tomó para la suscripción de transacciones, convenios o el pago de indemnizaciones, incluso ante Tribunales, debiendo ser éstos homogéneos y congruentes entre sí y justificados en cuanto a monto, oportunidad y legalidad.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 15.- En el caso de que los servidores públicos en el ejercicio de sus funciones requieran el auxilio de la fuerza pública el solicitante lo hará constar por escrito. Una vez recibida la solicitud por la Secretaría de Seguridad Pública y Tránsito Municipal, ésta llevará un registro pormenorizado de los recursos humanos, financieros o materiales que fueron prestados o no, debiendo remitir un informe a la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 16.- La Tesorería mantendrá un control actualizado sobre las exenciones, condonaciones, reducciones, prórrogas, subvenciones, o cualquier otra determinación que reduzca, distribuya o aplace el cumplimiento de obligaciones a favor del patrimonio municipal y de los criterios a justificarse que los sustenten.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 17.- El Director de Egresos autorizará los pagos con cargo a la hacienda municipal debiendo corroborar en forma previa:
+
+I. Que el presupuesto que se ejercerá corresponde a la Dependencia u Organismo Público Descentralizado al que se encuentra asignado y lo administra;
+
+II. Que se han reunido las autorizaciones y validaciones necesarias para su procedencia; y
+
+III. Que existe congruencia entre el presupuesto y el destino del recurso que se eroga.
+
+Para adoptar las determinaciones a que se refiere este artículo el Director de Egresos no requiere autorización de autoridad alguna y denunciará ante la Contraloría Municipal cualquier presión tendiente a obligarlo a la realización de una erogación improcedente. Las autoridades que suscriban los documentos de pago, corroborarán la autorización del Director de Egresos a través de la firma de éste en los mismos.
+
+La omisión en la observancia de lo previsto en las fracciones I a III de este artículo, será fuente de responsabilidad imputable al Director de Egresos.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Artículo 81 bis 18.- Para los efectos del artículo anterior se considerará como administrador del presupuesto a la Dependencia u Organismo Público Descentralizado a que se encuentra asignado, por lo que la participación de la Tesorería no podrá ir más allá de la constatación de los extremos referidos para la autorización del gasto.
+
+Cada Dependencia u Organismo Público Descentralizado será responsable de verificar:
+
+I. La procedencia de los pagos;
+
+II. La satisfacción de la contraprestación recibida;
+
+III. En su caso la vigencia de las garantías de cumplimiento o vicios ocultos;
+
+IV. La realización de estudios, pruebas o cualquier otra forma de corroboración procedente;
+
+V. La validación de quien supervise el cumplimiento de los extremos contractuales o normativos que procedan; y
+
+VI. Su congruencia con los presupuestos autorizados.
+
 ## TÍTULO III. DISPOSICIONES REGLAMENTARIAS EN MATERIA DEL RÉGIMEN DE BIENES DEL MUNICIPIO
 
 La concesión es un acto administrativo discrecional.
@@ -2069,6 +2211,14 @@ SEGUNDO.- La Dirección de Catastro, a efecto de determinar la zonificación de 
 
 TERCERO.- Las credenciales oficiales de visitadores, inspectores e interventores, así como su refrendo, expedidas por la Dirección de Recursos Humanos del Ayuntamiento, surtirán sus efectos legales conforme al presente Reglamento. Una vez que finalice su vigencia se librara una nueva de acuerdo a las disposiciones del presente ordenamiento.
 
+Por lo anteriormente expuesto y con fundamento en los dispositivos legales invocados, se somete a la consideración del Honorable Ayuntamiento del Municipio de Puebla, el siguiente:
+
+DICTAMEN
+
+PRIMERO.- Se aprueba en todos sus términos y en lo particular el dictamen que Reforma, Adiciona y Deroga diversas disposiciones del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla, para quedar en los términos que establece el considerando X del presente Dictamen.
+
+SEGUNDO.- Se instruye al Presidente Municipal Constitucional y al Secretario del Honorable Ayuntamiento del Municipio de Puebla, para que realicen las gestiones necesarias tendientes a la publicación del presente documento en el Periódico Oficial del Estado.
+
 P.O. 27 DE MARZO DE 2006.
 
 PRIMERO. El presente Dictamen deberá publicarse en el Periódico Oficial del Estado y entrará en vigor sesenta días hábiles posteriores a su publicación.
@@ -2114,3 +2264,31 @@ Se derogan las disposiciones que se opongan al presente Dictamen.
 ###### ARTÍCULO TERCERO.
 
 Las órdenes, actos o procedimientos suscritos por el Titular del Sistema Municipal de Registro y Fiscalización, se entenderán por emitidos a partir del inicio de la vigencia de la presente reforma por la Unidad de Normatividad y Regulación Comercial en el ámbito de su competencia.
+
+P.O. 3 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días naturales posteriores al inicio de la vigencia del presente Dictamen, los Reglamentos Interiores o sus equivalentes en las Dependencias u Organismos Públicos Descentralizados, identificarán a los servidores públicos que en función de su empleo, cargo o comisión, tengan obligación de administrar recursos hacendarios, materiales o humanos, precisando en forma exhaustiva la competencia de cada uno y los medios y condiciones para su administración o ejercicio.
+
+###### ARTÍCULO TERCERO.
+
+La Tesorería Municipal a cuyo cargo se encuentra la administración hacendaría municipal propondrá dentro de los noventa días naturales siguientes al inicio de la vigencia del presente Dictamen, la normatividad que permita identificar el límite de responsabilidades entre las diversas Áreas de esa Dependencia y las propias ejecutoras del gasto.
+
+###### ARTÍCULO CUARTO.
+
+La Sindicatura Municipal en el mismo plazo, propondrá al Cabildo la normatividad que deberá observarse, a fin de que los medios de defensa que substancia sean resueltos en el mismo orden en que su trámite procesal los coloque en estado de resolución. Dicha normatividad establecerá los mecanismos que permitan controlar y auditar para efectos de responsabilidad de los servidores públicos, el sentido de las resoluciones.
+
+En el mismo documento la Sindicatura Municipal propondrá la normatividad que identifique el límite de responsabilidad respecto a las personas que sean presentadas ante el Juez Calificador y que garanticen la oportunidad y eficiencia de la revisión de su situación jurídica, la remisión y/o informe en su caso a las autoridades competentes o su libertad conforme a la regulación municipal aplicable o derivada de mandamiento de autoridad competente.
+
+###### ARTÍCULO QUINTO.
+
+Durante la conclusión del ejercicio presupuestal 2009, para los efectos del artículo 126 fracción III de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal, el monto máximo hasta por el cual podrá dispensarse el otorgamiento de garantía de cumplimiento es de $89,600.00 (OCHENTA Y NUEVE MIL SEISCIENTOS PESOS 00/100 M.N.), sin perjuicio de que deberá obtener la garantía de la fábrica y/o el proveedor.
+
+###### ARTÍCULO SEXTO.
+
+Dentro de los noventa días naturales posteriores a la publicación en el Periódico Oficial del Estado, de estas reformas y adiciones, la Secretaría de Administración y Tecnologías de la Información fijará la normatividad en relación a los resguardos de los bienes muebles e inmuebles propiedad del Honorable Ayuntamiento.
