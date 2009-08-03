@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-fija-el-arancel-para-el-cobro-de-honorarios-de-7556"
 country: "mx"
 rank: "ley"
 publication_date: "1983-09-01"
-last_updated: "1983-09-01"
+last_updated: "2009-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY QUE FIJA EL ARANCEL PARA EL COBRO DE HONORARIOS DE ABOGADOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROFESIONES DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 3 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 1 de septiembre de 1983.
 
@@ -282,3 +284,13 @@ DIPUTADO SECRETARIO.
 ING. ARMANDO SINECIO LEYVA.
 
 EN CUMPLIMIENTO A LO DISPUESTO POR LA FRACCION SEGUNDA DEL ARTICULO NOVENTA Y TRES DE LA CONSTITUCION POLITICA LOCAL, Y PARA SU DEBIDA OBSERVANCIA, EXPIDO LA PRESENTE LEY A LOS SEIS DIAS DEL MES DE AGOSTO DE MIL NOVECIENTOS OCHENTA Y TRES, EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE AGOSTO DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Profesiones del Estado de Querétaro Arteaga publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número veinticuatro, de fecha once de junio de mil novecientos noventa y nueve; así como la Ley que Fija el Arancel para el Cobro de Honorarios del Abogados, publicada en el medio oficial en cita, número treinta y cinco, de fecha primero de septiembre de mil novecientos ochenta y tres.
+
+Artículo Tercero. El Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, así como aquellos instrumentos que correspondan para su eficaz cumplimiento.
