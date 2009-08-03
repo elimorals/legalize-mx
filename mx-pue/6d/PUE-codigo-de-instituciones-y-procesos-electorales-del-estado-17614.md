@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2006-12-12"
+last_updated: "2009-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -177,9 +177,25 @@ V.- La integración y atribuciones de los órganos electorales y del Tribunal El
 
 VI.- Las etapas del proceso electoral para elegir Diputados, Gobernador y miembros de los Ayuntamientos;
 
-VII.- El sistema de medios de impugnación para garantizar la constitucionalidad y legalidad de los actos y resoluciones de los órganos electorales; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-VIII.- Las sanciones aplicables por el incumplimiento o violación de este Código y disposiciones relativas.
+VII.- El sistema de medios de impugnación para garantizar la constitucionalidad y legalidad de los actos y resoluciones de los órganos electorales;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+VIII.- Los plazos convenientes para el desahogo de las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+IX.- Los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+X.- Las causales de nulidad de votación recibidas en casilla y, de las elecciones; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XI.- Las sanciones aplicables por el incumplimiento o violación de este Código y disposiciones relativas.
 
 ###### ARTÍCULO 2.
 
@@ -247,7 +263,9 @@ El Estado de Puebla es libre y soberano en su régimen interior; su gobierno es 
 
 La organización de los procesos electorales es una función estatal que corresponde realizar al Instituto, con la participación y corresponsabilidad de los ciudadanos, partidos políticos y del Congreso del Estado, conforme a las disposiciones y procedimientos establecidos por las leyes aplicables.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE AGOSTO DE 2009)</small>
+
+El Instituto Electoral del Estado podrá convenir con el Instituto Federal Electoral, que éste se haga cargo de la organización de los procesos electorales locales, en términos de la legislación aplicable. El Instituto Electoral del Estado podrá, mediante convenio con los Ayuntamientos que así lo soliciten, coadyuvar en la elección de las autoridades municipales auxiliares, en términos de la legislación aplicable.
 
 ###### ARTÍCULO 8.
 
@@ -375,9 +393,11 @@ Los Ayuntamientos se renovarán en su totalidad cada tres años.
 
 ## TÍTULO CUARTO. DE LAS ELECCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 19.
 
-Se celebrarán elecciones ordinarias en el Estado, el segundo domingo del mes de noviembre del año anterior a aquél en que concluya el periodo constitucional de:
+Se celebrarán elecciones ordinarias en el Estado, el primer domingo del mes de julio del año anterior a aquél en que concluya el periodo constitucional de:
 
 I.- Diputados al Congreso del Estado;
 
@@ -609,7 +629,9 @@ II.- Contribuir a la integración de los órganos públicos de elección popular
 
 III.- Hacer posible, como organizaciones de ciudadanos, el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen, mediante el voto universal, libre, secreto, directo, personal e intransferible.
 
-Sólo los ciudadanos podrán afiliarse libre, voluntaria e individualmente a los partidos políticos.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Los partidos políticos deberán de constituirse sólo por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo, corresponde a éstos el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en la Constitución Federal y en la Constitución Local.
 
 Se tendrá por inexistente cualquier acuerdo que limite o reduzca la libertad del voto.
 
@@ -627,9 +649,11 @@ Los partidos políticos nacionales y estatales que cuenten con el registro respe
 
 ### CAPÍTULO II. DE LOS PARTIDOS POLÍTICOS NACIONALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 31.
 
-Los partidos políticos nacionales, deberán acreditar ante el Consejo General, durante el mes de febrero del año de la elección:
+Los partidos políticos nacionales, deberán acreditar ante el Consejo General, durante el mes de octubre del año de inicio del proceso electoral:
 
 I.- La vigencia de su registro como partido político nacional, acompañando para tal efecto, copia certificada del documento que los acredite como tales ante el Instituto Federal Electoral;
 
@@ -643,9 +667,11 @@ La resolución que emita el Consejo General surtirá sus efectos en forma inmedi
 
 ### CAPÍTULO III. DE LOS PARTIDOS POLÍTICOS ESTATALES
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 32.
 
-El Consejo General convocará, durante el mes de marzo del año anterior al de las elecciones estatales ordinarias, a los grupos de ciudadanos que pretendan participar en los procesos electorales, a fin de que puedan obtener el registro como partido político estatal.
+El Consejo General convocará, durante el mes de noviembre del año anterior a aquél en que inicie el Proceso Electoral Estatal Ordinario, a los grupos de ciudadanos que pretendan participar en los procesos electorales, a fin de que puedan obtener el registro como partido político estatal.
 
 ###### ARTÍCULO 33.
 
@@ -805,7 +831,13 @@ II.- Utilizar los lugares de uso común para la colocación de su propaganda ele
 
 III.- Recibir financiamiento público y privado para sus actividades en el Estado, en los términos establecidos por este Código; y
 
-IV.- Accesar a los medios de comunicación social, propiedad del Gobierno del Estado, en términos de la legislación aplicable.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+IV.- Acceder a los medios de comunicación social oficiales, en términos de la legislación federal y local aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Asimismo, los partidos políticos accederán a la radio y la televisión conforme a las normas establecidas en la Constitución Federal, la Local y la legislación en la materia. En ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
 ###### ARTÍCULO 44.
 
@@ -843,13 +875,21 @@ El financiamiento público es la aportación que otorga el Estado a los partidos
 
 Los partidos políticos tendrán derecho al financiamiento público, de conformidad a las disposiciones siguientes:
 
-I.- El monto del financiamiento público para el sostenimiento de las actividades ordinarias de los partidos políticos será la cantidad que resulte de multiplicar el treinta y cinco por ciento del salario mínimo vigente en el Estado, por el número total de ciudadanos inscritos en el padrón electoral de la Entidad, con corte al treinta y uno de enero del año de la elección. Dicha cantidad se distribuirá y entregará trianualmente de la manera siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
 
-a) El cincuenta por ciento, en el mes de junio del año de la elección;
+I.- El monto del financiamiento público para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos será la cantidad que resulte de multiplicar el treinta y cinco por ciento del salario mínimo vigente en el Estado, por el número total de ciudadanos inscritos en el padrón electoral de la Entidad, con corte al treinta de septiembre del año de inicio del proceso electoral. Dicha cantidad se distribuirá y entregará trianualmente de la manera siguiente:
 
-b) El veinticinco por ciento, en el mes de junio del año siguiente a la elección; y
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
-c) El veinticinco por ciento restante, en el mes de junio del segundo año siguiente a la elección.
+a) El cincuenta por ciento, en el mes de febrero del año de la elección;
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+b) El veinticinco por ciento, en el mes de febrero del año siguiente a la etapa de la jornada electoral; y
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+c) El veinticinco por ciento restante, en el mes de febrero del segundo año siguiente a la etapa de la jornada electoral.
 
 Cada una de las cantidades a que se refieren los incisos anteriores se otorgarán a los partidos políticos aplicándoles las reglas siguientes:
 
@@ -859,15 +899,25 @@ Cada una de las cantidades a que se refieren los incisos anteriores se otorgará
 
 II.- Para las actividades tendientes a la obtención del voto, cada partido político recibirá financiamiento público conforme a lo siguiente:
 
-En el año de la elección, a cada partido político se le otorgará un monto equivalente al financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año, otorgándose en forma adicional al resto de las prerrogativas;
+En el año de la elección, a cada partido político se le otorgará un monto equivalente al financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año, otorgándose en forma adicional al resto de las prerrogativas.
 
-III.- A fin de propiciar el acceso equitativo a los medios de comunicación social, se otorgará una cantidad adicional, que será el resultado de calcular un quince por ciento del monto del financiamiento público a que se refiere la fracción I de este artículo. Dicha cantidad se distribuirá trianualmente y en forma igualitaria entre los partidos políticos nacionales y estatales; y
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
-IV.- Los partidos políticos estatales que obtengan su registro, para participar en el año del proceso electoral, tendrán derecho al financiamiento público correspondiente al dos por ciento del monto total a repartir en el año de la elección. De la misma forma se procederá con los partidos políticos nacionales que por primera vez participen en las elecciones estatales.
+En caso de que en las elecciones un partido político o coalición no registre la plataforma electoral que sus candidatos sostendrán durante la campaña, no le será entregada ministración de financiamiento público para las actividades tendientes a la obtención del voto;
 
-El monto de las ministraciones a que se refiere el párrafo anterior será entregado en la parte proporcional que corresponda a la anualidad, a partir de la fecha en que surta efectos el registro.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-A los partidos políticos estatales que conserven su registro no se les aplicará lo establecido en el párrafo anterior y se les otorgará financiamiento público como si se tratara de un partido político nacional.
+III.- A fin de propiciar el acceso equitativo a los medios de comunicación social, se otorgará una cantidad adicional, que será el resultado de calcular un quince por ciento del monto del financiamiento público a que se refiere la fracción I de este artículo. En materia de radio y televisión se observará lo dispuesto en la Constitución Federal y en la Constitución Local. Dicha cantidad se distribuirá trianualmente y en forma igualitaria entre los partidos políticos nacionales y estatales; y
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+IV.- Los partidos políticos estatales que obtengan su registro, para participar en el proceso electoral respectivo, tendrán derecho al financiamiento público correspondiente al dos por ciento del monto total a repartir en el año del proceso electoral. De la misma forma se procederá con los partidos políticos nacionales que por primera vez participen en las elecciones estatales.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+A los partidos políticos estatales que conserven su registro, se les otorgará financiamiento público como si se tratara de un partido político nacional.
 
 En caso de que en las elecciones en las que participe un partido político nacional no alcanzara el dos por ciento de la Votación Total, no disfrutará de las ministraciones posteriores del financiamiento público.
 
@@ -889,7 +939,9 @@ II.- Financiamiento procedente de simpatizantes, que se conformará por las cuot
 
 El financiamiento privado a que se refieren las fracciones I y II de este artículo, se sujetará a las reglas siguientes:
 
-a) Cada partido político no podrá recibir anualmente aportaciones en dinero de militantes y/o de simpatizantes, por una cantidad superior al diez por ciento del monto del financiamiento público para actividades ordinarias;
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+a) Cada partido político no podrá recibir anualmente aportaciones en dinero de militantes y/o de simpatizantes, por una cantidad superior al diez por ciento del tope de gastos establecidos para la última campaña para Gobernador del Estado, cuidando que el importe que por financiamiento público reciba cada partido político prevalezca sobre el financiamiento privado de que los institutos políticos se alleguen;
 
 b) De las aportaciones en dinero los partidos políticos deberán expedir recibos foliados en los que se harán constar los datos de identificación del aportante, salvo que hubieren sido obtenidas mediante colectas realizadas en mítines o en la vía pública, siempre y cuando no implique venta de bienes o artículos promocionales. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido. Las aportaciones en especie se harán constar en un contrato celebrado conforme a las leyes aplicables;
 
@@ -975,7 +1027,9 @@ III.- En estos informes se reportarán el origen de los recursos que se hayan de
 
 C.- Informes de precampaña:
 
-I.- A más tardar dentro de treinta días siguientes a que concluya la selección de candidato, fórmula o planilla, los partidos políticos entregarán un informe detallado de los gastos aplicados por cada una de las precampañas, para Gobernador, Diputados y Ayuntamientos respectivamente, dependiendo la elección de que se trate; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+I.- A más tardar dentro de los treinta días siguiente a la fecha en que concluya el proceso interno de selección de candidatos, fórmula o planilla, los partidos políticos y/o coaliciones entregarán un informe, que deberá especificar los montos de los ingresos obtenidos, así como los gastos aplicados en cada una de las precampañas para Gobernador, Diputados por ambos principios y miembros de Ayuntamientos respectivamente, dependiendo la elección de que se trate, en los términos y proporciones que este Código establezca; y
 
 II.- Los informes definitivos de gastos de precampaña deberán especificar los montos de los ingresos, así como su aplicación en los términos y proporciones que este Código establezca.
 
@@ -1023,11 +1077,21 @@ XII.- Abstenerse durante los procesos electorales, al igual que sus candidatos, 
 
 XIII.- Retirar su propaganda de precampaña dentro de los treinta días siguientes a la conclusión de su proceso interno y la de campaña electoral, dentro de los treinta días siguientes a la conclusión de la jornada electoral correspondiente;
 
-XIV.- Promover, de conformidad con sus estatutos, una mayor participación de las mujeres en la vida política en el Estado, a través de su postulación a cargos de elección popular;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-XV.- Cumplir con los acuerdos que tomen los órganos electorales; y
+XIV.- Promover de conformidad con sus estatutos, una participación de las mujeres observando el principio de igualdad y equidad en la vida política en el Estado, a través de su postulación a cargos de elección popular;
 
-XVI.- Las demás que les señale este Código.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XV.- Cumplir con los acuerdos que tomen los órganos electorales;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XVI.- Hacer del conocimiento del Instituto y de la autoridad competente el o los impedimentos del o los candidatos registrados de los que tuviera conocimiento de forma superveniente; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XVII.- Las demás que les señale este Código.
 
 ###### ARTÍCULO 55.
 
@@ -1183,9 +1247,15 @@ IV.- La declaración de haber sido disuelto por acuerdo de sus miembros y de con
 
 V.- El celebrar convenio de fusión con otro partido político de conformidad con las disposiciones electorales federales correspondientes.
 
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 69 bis.- Los partidos políticos nacionales o locales que de acuerdo con la legislación aplicable, pierdan su registro, por ese solo hecho perderán todos los derechos que la Constitución y este Código les otorgue en el ámbito electoral en el Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 70.
 
-En caso de pérdida de registro como partido político estatal, el Consejo General dictará la resolución correspondiente a más tardar en el mes de marzo del año siguiente al de la elección, misma que deberá publicarse en el Periódico Oficial del Estado.
+En caso de pérdida de registro como partido político estatal, el Consejo General dictará la resolución correspondiente a más tardar dentro de los dos meses siguientes a aquél en que concluya el proceso electoral, misma que deberá publicarse en el Periódico Oficial del Estado.
 
 La pérdida de registro de un partido político, no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones, según el principio de mayoría relativa.
 
@@ -1271,7 +1341,9 @@ II.- La Junta Ejecutiva.
 
 El Consejo General será el órgano superior de dirección del Instituto y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios rectores de legalidad, imparcialidad, objetividad, certeza e independencia guíen todas las actividades del Instituto.
 
-El Consejo General se reunirá en la segunda semana del mes de marzo del año de la elección para declarar el inicio del proceso electoral.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+El Consejo General se reunirá en la segunda semana de noviembre del año anterior a la etapa de la jornada electoral para declarar el inicio del proceso electoral.
 
 ###### ARTÍCULO 80.
 
@@ -1487,7 +1559,9 @@ XLIX.- Aprobar los programas de capacitación electoral para los ciudadanos que 
 
 L.- Ordenar la expedición del Bando Solemne para dar a conocer a los habitantes del Estado la declaración de Gobernador electo;
 
-LI.- Coadyuvar, mediante convenio con los Ayuntamientos que así lo soliciten, en la elección de las autoridades municipales auxiliares, en términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+LI.- Convenir, en caso necesario, con el Instituto Federal Electoral, que éste se haga cargo de la organización de los procesos electorales locales, en términos de la legislación aplicable. Asimismo coadyuvar, mediante convenio con los Ayuntamientos que así lo soliciten, en la elección de las autoridades municipales auxiliares, en términos de la legislación aplicable;
 
 LII.- Recibir la solicitud, dictaminar su procedencia, organizar e implementar los procesos de plebiscito y referéndum y, en su caso, declarar la validez de los mismos, en términos de la legislación aplicable;
 
@@ -1495,13 +1569,17 @@ LII.- Recibir la solicitud, dictaminar su procedencia, organizar e implementar l
 
 LlII.- Dictar los acuerdos necesarios a fin de cumplir las anteriores atribuciones y las demás señaladas por este Código;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-LlV.- Establecer lineamientos y formatos para la presentación de informes de gastos de precampañas y campañas electorales; y
+LIV.- Establecer lineamientos y formatos para la presentación de informes de gastos de precampañas y campañas electorales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-LV.- Las demás que le sean conferidas por este Código y disposiciones aplicables.
+LV.- Negar o cancelar el registro, en su caso, al Precandidato o Candidato a quien se le haya sentenciado por autoridad competente, dentro de los plazos del proceso electoral respectivo, por su participación en la comisión del delito de delincuencia organizada, en caso de que la responsabilidad sea imputable exclusivamente a aquéllos; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+LVI.- Las demás que le sean conferidas por este Código y disposiciones aplicables.
 
 ###### ARTÍCULO 90.
 
@@ -1563,7 +1641,9 @@ XIV.- Elaborar el proyecto de convocatoria para las elecciones que establece est
 
 XV.- Entregar el financiamiento público a los partidos políticos, en la forma y términos que determine este Código y el Consejo General;
 
-XVI.- Suscribir el convenio de apoyo y colaboración en materia electoral, que celebren el Gobierno del Estado y el Instituto Federal Electoral;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XVI.- Suscribir los convenios de apoyo y colaboración en materia electoral y de fiscalización que celebren el Instituto y el Instituto Federal Electoral;
 
 XVII.- Enviar para su publicación en el Periódico Oficial del Estado y en los diarios de mayor circulación, la relación completa de los candidatos registrados, así como las cancelaciones de registro y sustitución de candidatos que se presenten, en los términos de este Código;
 
@@ -1917,13 +1997,21 @@ IX.- Elaborar la relación completa de candidatos a los cargos de elección popu
 
 X.- Informar al Director General sobre el desarrollo de sus actividades, para que éste lo haga del conocimiento del Consejo General;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-XI.- Proponer al Consejo General los lineamientos para el monitoreo en los medios de comunicación de las campañas electorales de los partidos políticos, para garantizar el acceso equitativo a los mismos; y
+XI.- Proponer al Consejo General los lineamientos para el monitoreo en los medios de comunicación de las campañas electorales de los partidos políticos, para garantizar el acceso equitativo a los mismos;
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-XII.- Las demás que le confiera el Director General conforme a este Código y disposiciones aplicables.
+XII.- Instrumentar y responsabilizarse de los procedimientos de liquidación de los partidos políticos que pierdan su registro o acreditación, de conformidad con lo previsto en el artículo 70 bis;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XIII.- Realizar los trámites correspondientes para dar cumplimiento a los convenios de coordinación celebrados con el Instituto Federal Electoral en materia de fiscalización; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XIV.- Las demás que le confiera el Director General conforme a este Código y disposiciones aplicables.
 
 > <small>(REFORMADO PRIMERO PARRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -2105,11 +2193,11 @@ I.- El Consejo General, a través del Consejero Presidente, será el responsable
 
 II.- De la lista que el Consejero Presidente presente al Consejo General, éste designará a los Consejeros Electorales y Secretarios propietarios y suplentes por mayoría de votos de los integrantes del Consejo General con derecho a ello.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 114.
 
-El Consejo General designará a los integrantes de los Consejos Distritales, a más tardar en el mes de mayo del año de la elección.
+El Consejo General designará a los integrantes de los Consejos Distritales, a más tardar en el mes de enero del año de la elección.
 
 Los Consejeros Electorales y los Secretarios propietarios y suplentes de los Consejos Distritales, durarán en sus cargos el tiempo del proceso electoral para el que fueron designados.
 
@@ -2121,11 +2209,11 @@ Los Consejeros Electorales y Secretarios de los Consejos Distritales, tendrán d
 
 Dentro de los cinco días siguientes a su designación los Consejeros Electorales elegirán, de entre ellos mismos, al Consejero Presidente. En caso de que transcurrido dicho término no hubiere sido nombrado, el Consejo General procederá a su designación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 117.
 
-Los Consejos Distritales sesionarán para dar inicio a sus actividades, a más tardar en el mes de mayo del año de la elección.
+Los Consejos Distritales sesionarán para dar inicio a sus actividades, a más tardar en el mes de enero del año de la elección.
 
 A partir de su instalación y hasta la conclusión del proceso electoral, los Consejos Distritales sesionarán por lo menos una vez al mes.
 
@@ -2419,11 +2507,11 @@ X.- No ser ni haber sido Procurador General de Justicia ni del Ciudadano, Secret
 
 XI.- No ser ni haber sido Ministro de culto religioso alguno, en términos de la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 130.
 
-Los Consejeros Electorales y los Secretarios de los Consejos Municipales serán designados por el Consejo General a propuesta de su Consejero Presidente, conforme al procedimiento a que se refiere el artículo 113 de este Código a más tardar en el mes de julio del año de la elección.
+Los Consejeros Electorales y los Secretarios de los Consejos Municipales serán designados por el Consejo General a propuesta de su Consejero Presidente, conforme al procedimiento a que se refiere el artículo 113 de este Código, a más tardar en el mes de febrero del año de la elección.
 
 Los Consejeros Electorales y los Secretarios propietarios y suplentes de los Consejos Municipales, durarán en sus cargos el tiempo del proceso electoral para el que fueron designados.
 
@@ -2437,11 +2525,11 @@ Los Consejeros Electorales y Secretarios de los Consejos Municipales, tendrán d
 
 Dentro de los diez días siguientes a su designación, los Consejeros Electorales elegirán, de entre ellos mismos, al Consejero Presidente. En caso de que transcurrido dicho término no se hubiere nombrado, el Consejo General procederá a designarlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 133.
 
-Los Consejos Municipales iniciarán sus sesiones a más tardar en el mes de julio del año de la elección.
+Los Consejos Municipales iniciarán sus sesiones a más tardar en el mes de febrero del año de la elección.
 
 A partir de su instalación y hasta la conclusión del proceso electoral, los Consejos Municipales sesionarán por lo menos una vez al mes.
 
@@ -2721,11 +2809,13 @@ Los empleados eventuales serán aquellos que se contraten por un tiempo determin
 
 Tendrán el carácter de empleados eventuales los Coordinadores Distritales de Organización Electoral y de Capacitación Electoral; los Supervisores Electorales y los Auxiliares Electorales de Capacitación Electoral y de Organización Electoral.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 152.
 
-Los Consejos Distritales designarán a más tardar en la segunda semana del mes de junio del año de la elección, aun número suficiente de Supervisores Electorales y Auxiliares Electorales de Capacitación Electoral y de Organización Electoral, de conformidad con los lineamientos que para tal efecto determine el Consejo General.
+Los Consejos Distritales designarán a más tardar en la segunda semana del mes de febrero del año de la elección, a un número suficiente de Supervisores Electorales y Auxiliares Electorales de Capacitación Electoral y de Organización Electoral, de conformidad con los lineamientos que para tal efecto determine el Consejo General.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 A.- Los Supervisores y Auxiliares Electorales serán designados de entre los ciudadanos que hubieren atendido la convocatoria pública expedida al efecto por el Consejo General. El Consejo Distrital nombrará como Supervisores, a los ciudadanos que obtuvieron la mayor calificación en la evaluación que se les practique.
 
@@ -2747,6 +2837,8 @@ VII.- No militar ni haber militado en los tres años anteriores a su designació
 
 VIII.- Presentar solicitud conforme a la convocatoria que se expida, acompañando los documentos que en ella se establezcan.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 B.- Los Supervisores Electorales tendrán las atribuciones siguientes:
 
 I.- Coordinar las actividades de los Auxiliares Electorales y verificar que las mismas se lleven a cabo;
@@ -2757,6 +2849,8 @@ III.- Informar de manera permanente al Coordinador correspondiente, sobre el des
 
 IV.- Las demás que le encomiende el Coordinador correspondiente, conforme a este Código y disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 C.- Los Auxiliares Electorales de Capacitación Electoral coadyuvarán con los Consejos respectivos en los trabajos de:
 
 I.- Notificar a los ciudadanos que resultaron seleccionados para asistir a los cursos de capacitación electoral, en el procedimiento de insaculación efectuado por el Consejo Distrital;
@@ -2766,6 +2860,8 @@ II.- Impartir los cursos de capacitación a los ciudadanos que habrán de integr
 III.- Auxiliar a los Consejos Distritales en el cumplimiento de sus atribuciones; y
 
 IV.- Las demás que expresamente les confieran los Consejos Distritales, Consejos Municipales y disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 D.- Los Auxiliares Electorales de Organización Electoral coadyuvarán con los Consejos respectivos en los trabajos de:
 
@@ -2907,7 +3003,7 @@ Las autoridades federales, estatales y municipales estarán obligadas a proporci
 
 ARTÍCULO 200 bis.- Los partidos políticos debidamente acreditados o registrados ante el Instituto, con base en sus estatutos o normatividad interna aplicable, podrán realizar precampañas para elegir a los ciudadanos que presentarán como candidatos a puestos de elección popular ante los organismos electorales competentes para su registro.
 
-Ningún ciudadano podrá realizar actividades propagandísticas y publicitarias, con el objeto de promover su imagen personcal, de manera pública y con el inequívoco propósito de establecer su postulación a un cargo de elección popular, sólo podrán realizar tales actividades aquellos ciudadanos que participen dentro de un proceso de selección interna de candidatos a cargos de elección popular que lleven a cabo los partidos políticos, ajustándose siempre a los plazos y disposiciones establecidos en esta Ley.
+Ningún ciudadano podrá realizar actividades propagandísticas y publicitarias, con el objeto de promover su imagen personal, de manera pública y con el inequívoco propósito de establecer su postulación a un cargo de elección popular, sólo podrán realizar tales actividades aquellos ciudadanos que participen dentro de un proceso de selección interna de candidatos a cargos de elección popular que lleven a cabo los partidos políticos, ajustándose siempre a los plazos y disposiciones establecidos en esta Ley.
 
 El incumplimiento a esta norma dará motivo a que el Instituto, a través de sus órganos competentes y en los plazos correspondientes, fundado, motivado y previamente acreditado el incumplimiento, les niegue el registro como candidato.
 
@@ -2923,9 +3019,17 @@ IV.- Aspirante a Candidato o Precandidato.- A los ciudadanos que deciden contend
 
 B.- Del inicio y término de las precampañas:
 
-I.- Los procesos internos de los partidos políticos o coaliciones, orientados a seleccionar a sus candidatos que habrán de contender en las elecciones a que se refiere este Código, sólo podrán realizarse durante el año de la elección de que se trate, a partir del inicio del proceso electoral y deberán concluir necesariamente a más tardar diez días antes del inicio del periodo de registro de candidatos de la elección de que se trate:
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-II.- Las precampañas se iniciarán a partir de los treinta días siguientes de iniciado el proceso electoral y concluirán en los plazos señalados en la fracción anterior. Su duración será en el plazo que fije la normatividad interna del partido político correspondiente, pero en ningún momento podrán iniciar o concluir antes de este plazo. El tiempo se computará a partir de la fecha en que los aspirantes, en términos de la convocatoria respectiva, queden debidamente registrados ante los órganos responsables de la preparación, organización, conducción y validación del proceso interno;
+I.- Los procesos internos de los partidos políticos o coaliciones, orientados a seleccionar a sus candidatos que habrán de contender en las elecciones a que se refiere este Código, sólo podrán realizarse a partir del inicio del proceso electoral y deberán concluir necesariamente a más tardar en la misma fecha que las precampañas;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+II.- En el caso de que el proceso electoral tenga como fin la renovación del Poder Ejecutivo, Legislativo y miembros de Ayuntamientos, las precampañas no podrán exceder de sesenta días, debiendo concluir antes del inicio del plazo de presentación del registro de candidatos.
+
+En el caso de que el proceso electoral tenga como fin la renovación del Poder Legislativo y miembros de Ayuntamientos, las precampañas no podrán exceder de cuarenta días, debiendo concluir antes del inicio del plazo de presentación del registro de candidatos.
+
+Los partidos políticos fijarán los plazos y duración de sus precampañas según su normatividad interna, pero en ningún momento podrán iniciar o concluir fuera de los plazos establecidos. El tiempo se computará a partir de la fecha en que los aspirantes, en términos de la convocatoria respectiva, queden debidamente registrados ante los órganos competentes responsables de la preparación, organización, conducción y validación del proceso interno;
 
 III.- Los partidos políticos que realicen precampañas deberán dar aviso por escrito al Instituto sobre sus procesos internos dentro de los cinco días anteriores al inicio de éstos. El escrito indicará, cuando menos:
 
@@ -2979,9 +3083,13 @@ V.- Rebasar el periodo para actos de precampaña autorizado y rebasar el tope m�
 
 VI.- Emplear o utilizar recursos, en dinero o en especie, por sí o a través de interpósita persona, cualquiera que sea su origen, antes de que inicie la precampaña;
 
-VII.- Contratar publicidad en los medios de comunicación social, para las precampañas, por sí o por interpósita persona;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-VIII.- Fijar su propaganda en contravención a lo establecido en el Capítulo III, Título Primero del Libro Quinto de este Código;
+VII.- Contratar publicidad en radio y/o televisión para las campañas, por sí o por interpósita persona;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+VIII.- Fijar su propaganda en contravención a lo establecido en el Capítulo III, Título Tercero del Libro Quinto de este Código;
 
 IX.- Utilizar en su propaganda símbolos, distintivos, emblemas o figuras con motivo religioso; y
 
@@ -3135,9 +3243,11 @@ Los conflictos de carácter laboral entre el Instituto y su personal, serán res
 
 El proceso electoral deberá entenderse como el conjunto de actos ordenados por la Constitución Federal, la Constitución Local y este Código, realizados por las autoridades electorales, los ciudadanos y los partidos políticos de manera corresponsable, en ejercicio de la función estatal de organizar las elecciones para hacer posible la renovación periódica y pacífica de los integrantes de los Poderes Legislativo, Ejecutivo y miembros de los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 186.
 
-El proceso electoral ordinario iniciará con la primera sesión del Consejo General, que debe celebrar durante la segunda semana del mes de marzo del año de la elección y concluye con los cómputos y declaraciones de validez que realicen los Consejos del Instituto o bien con las resoluciones que, en su caso, pronuncie en última instancia el Tribunal.
+El proceso electoral ordinario iniciará con la primera sesión del Consejo General, que debe celebrar durante la segunda semana del mes de noviembre del año anterior a la etapa de la jornada electoral y concluye con los cómputos y declaraciones de validez que realicen los Consejos del Instituto o bien con las resoluciones que, en su caso, pronuncie en última instancia el Tribunal.
 
 ###### ARTÍCULO 187.
 
@@ -3153,19 +3263,21 @@ III.- Resultados y declaraciones de validez de las elecciones de Diputados, Gobe
 
 La etapa de preparación de las elecciones comprenderá todos los actos desarrollados por el Consejo General y los Consejos Distritales y Municipales, en ejercicio de las atribuciones que este Código les confiere, encaminados a la celebración de la jornada electoral.
 
-> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 189.
 
-La etapa de preparación de las elecciones iniciará con la primera sesión que el Consejo General del Instituto celebre, durante la segunda semana del mes de marzo del año en que deban realizarse las elecciones ordinarias y concluye al inicio de la jornada electoral.
+La etapa de preparación de las elecciones iniciará con la primera sesión que el Consejo General del Instituto celebre, durante la segunda semana del mes de noviembre del año anterior a que deban realizarse las elecciones ordinarias y concluye al inicio de la jornada electoral.
 
 ###### ARTÍCULO 190.
 
 La etapa de la jornada electoral comprenderá todos aquellos actos que se realizan para que los ciudadanos emitan su voto y se garantice la seguridad y efectividad del mismo.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 191.
 
-La etapa de la jornada electoral iniciará a las ocho horas del segundo domingo de noviembre del año de la elección y concluirá con la entrega de los Paquetes Electorales de las respectivas elecciones en los Consejos Distritales y Municipales correspondientes.
+La etapa de la jornada electoral iniciará a las ocho horas del primer domingo de julio del año de los comicios y concluirá con la entrega de los Paquetes Electorales de las respectivas elecciones en los Consejos Distritales y Municipales correspondientes.
 
 ###### ARTÍCULO 192.
 
@@ -3281,23 +3393,27 @@ Ningún ciudadano podrá ser registrado como candidato a distintos cargos en el 
 
 Para el registro de candidatos a cargos de elección popular, el partido político postulante deberá registrar la plataforma electoral que sus candidatos sostendrán durante la campaña.
 
-El partido político deberá presentar y obtener el registro de la plataforma electoral ante el Consejo General, en el mes de mayo del año de la elección. Del registro se expedirá constancia.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+El partido político deberá presentar y obtener el registro de la plataforma electoral ante el Consejo General, en el mes de enero del año de la elección. Del registro se expedirá constancia.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 206.
 
-Los órganos competentes y los plazos para solicitar el registro de candidatos a cargos de elección popular son los siguientes:
+El registro de candidatos a Gobernador, Diputados por ambos principios y miembros de Ayuntamientos se realizará durante la última semana de marzo del año de la elección, ante los órganos competentes siguientes:
 
-I.- A Diputados por el principio de mayoría relativa ante los Consejos Distritales respectivos, o ante el Consejo General de manera supletoria, en la última semana del mes de agosto del año de la elección;
+I.- Ante el Consejo General, para Gobernador del Estado;
 
-II.- A Gobernador del Estado ante el Consejo General en la última semana del mes de agosto del año de la elección;
+II.- Ante los Consejos Distritales respectivos, o ante el Consejo General, para Diputados por el principio de mayoría relativa;
 
-III.- A miembros de los Ayuntamientos ante el Consejo Municipal o Distrital respectivo, o ante el Consejo General de manera supletoria, en la última semana del mes de agosto del año de la elección; y
+III.- Ante el Consejo Municipal o Distrital respectivo, o ante el Consejo General, para miembros de los Ayuntamientos; y
 
-IV.- A Diputados por el principio de representación proporcional ante el Consejo General, en la primera semana del mes de septiembre del año de la elección.
+IV.- Ante el Consejo General, para Diputados por el principio de representación proporcional.
 
-> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2000)</small>
+En los casos de las fracciones II y III de este artículo, cuando la solicitud de registro se presente de manera directa y supletoria, prevalecerá, en todo caso, el registro que acuerde el Consejo General.
 
-En los casos de las fracciones I y III de este artículo, cuando la solicitud de registro se presente de manera directa y supletoria, prevalecerá, en todo caso, el registro que acuerde el Consejo General.
+En el proceso electoral en que se elijan únicamente Diputados por ambos principios y miembros de Ayuntamientos, el plazo para solicitar el registro será durante la última semana de abril del año de la elección, ante los órganos competentes.
 
 ###### ARTÍCULO 207.
 
@@ -3351,15 +3467,19 @@ Si algún partido político no presenta completa la lista estatal de candidatos 
 
 Los Consejos Distritales y Municipales comunicarán al Consejo General las solicitudes de registro de candidatos recibidas, dentro de las veinticuatro horas siguientes a la fecha de su recepción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 213.
 
-Recibida la solicitud de registro de candidatos por el Consejero Presidente del órgano que corresponda, dentro de los tres días siguientes de su recepción verificará que se haya cumplido con todos los requisitos señalados en este Capítulo, conforme a las reglas siguientes:
+Recibida la solicitud de registro de candidatos por el Consejero Presidente del órgano que corresponda, dentro de los cuatro días siguientes de su recepción, verificará que se haya cumplido con todos los requisitos señalados en este Capítulo, conforme a las reglas siguientes:
 
 I.- Si se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que, dentro de las veinticuatro horas siguientes, subsane el o los requisitos omitidos o sustituya al candidato, siempre que esto pueda realizarse dentro de los plazos que señale este Código;
 
 II.- Cualquier solicitud o documentación presentada fuera de dichos plazos será desechada de plano;
 
-III.- Al tercer día siguiente al vencimiento de los plazos referidos en este artículo, los Consejos General, Distritales y Municipales celebrarán sesión cuyo único objeto será registrar las candidaturas que procedan;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+III.- Al cuarto día siguiente al vencimiento de los plazos referidos en este artículo, los Consejos General, Distritales y Municipales celebrarán sesión cuyo único objeto será registrar las candidaturas que procedan. En el proceso electoral en que se elijan únicamente Diputados por ambos principios y miembros de Ayuntamientos los Consejos competentes sesionarán para otorgar los registros respectivos al sexto día, contados a partir del día siguiente de la conclusión de la presentación de registros;
 
 IV.- Los Consejos Distritales y Municipales comunicarán de inmediato al Consejo General, el acuerdo relativo al registro de candidatos, fórmulas o planillas que hayan realizado durante la sesión a que se refiere el párrafo anterior; y
 
@@ -3397,9 +3517,9 @@ Para los efectos de este Código las campañas electorales de los candidatos reg
 
 En el día de la jornada electoral no se permitirán reuniones o actos públicos de campaña, propaganda o proselitismo electorales.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
-Para garantizar la equidad en las campañas electorales deberán suspenderse durante los treinta días anteriores al día de la celebración de la jornada electoral, todo tipo de difusión de logros o avances de cualquier instancia del poder público, así como de entregar beneficios o apoyos provenientes de cualquier programa público de cualquier carácter, salvo los que fueran de carácter emergente por una contingencia natural o bien de los programas de protección civil.
+Para garantizar la equidad en las campañas electorales durante el tiempo que comprendan las mismas y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes estatales, como de los municipios, salvo los que fueran de carácter urgente por una contingencia natural o bien de los programas de protección civil.
 
 ###### ARTÍCULO 218.
 
@@ -3465,6 +3585,10 @@ Propaganda electoral es el conjunto de escritos, publicaciones, imágenes, graba
 
 La propaganda que difundan los partidos políticos, las coaliciones, en su caso, o los candidatos, se ajustará a lo dispuesto por la Constitución Federal y la Constitución Local.
 
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan los poderes públicos, los órganos autónomos, las dependencias y entidades de la Administración Pública Estatal y Municipales o cualquier otro ente público deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
 ###### ARTÍCULO 228.
 
 Los partidos políticos durante sus campañas podrán elaborar propaganda en favor de sus candidatos, sujetándola invariablemente a las normas siguientes:
@@ -3516,6 +3640,10 @@ VII.- La propaganda electoral deberá evitar cualquier ofensa, difamación o cal
 La propaganda que los partidos políticos, las coaliciones, en su caso y los candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones administrativas expedidas en materia de prevención de la contaminación por ruido.
 
 En el caso de que los partidos políticos, coaliciones, en su caso, o sus candidatos contraten espacios en los medios de comunicación impresos, electrónicos o de cualquier tipo, para la realización de su propaganda, se deberá especificar claramente que el espacio referido es pagado por el partido político, coalición, en su caso, o candidato que realizó la contratación y, tratándose de medios impresos, deberá incluirse el nombre de la persona responsable de tal publicación. La contratación respectiva se realizará por el representante del partido político autorizado para tal efecto, quedando sujeto a la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
 
 ###### ARTÍCULO 234.
 
@@ -3609,6 +3737,8 @@ El ciudadano podrá interponer el recurso correspondiente de acuerdo a la legisl
 
 ### CAPÍTULO II. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 246.
 
 En términos del artículo 26 del presente Código, las secciones electorales en que se dividen los municipios tendrán como máximo un mil quinientos electores.
@@ -3663,7 +3793,9 @@ I.- A partir de la fecha de instalación del Consejo Distrital y con base en la 
 
 II.- Una vez realizado lo anterior y definido el número de Casillas que se instalarán de acuerdo al criterio establecido en la fracción anterior, el Consejero Presidente del Consejo Distrital correspondiente propondrá al pleno para su aprobación, la ubicación de los lugares donde se instalarán las Casillas;
 
-III.- El segundo domingo de octubre del año de la elección, el Consejero Presidente del Consejo Distrital, mandará publicar en el municipio o municipios en que estén comprendidas, las Casillas que se instalarán, numeradas progresivamente, así como los nombres de los ciudadanos designados para integrarlas;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+III.- El segundo domingo de junio del año de la elección, el Consejero Presidente del Consejo Distrital, mandará publicar en el municipio o municipios en que estén comprendidas, las Casillas que se instalarán, numeradas progresivamente, así como los nombres de los ciudadanos designados para integrarlas;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -3681,19 +3813,31 @@ Los representantes de los partidos políticos podrán vigilar invariablemente el
 
 Los ciudadanos avecindados en el Estado podrán participar en cada proceso electoral como integrantes de las Casillas, en la forma y términos que este Código dispone, de acuerdo con las bases siguientes:
 
-I.- En el mes de mayo del año de la elección, el Consejo General sorteará un mes del calendario que, junto con el que siga en su orden, serán tomados como base para la insaculación de los nombres de los ciudadanos que, nacidos en esos meses, podrán integrar las Casillas;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-II.- Conforme al resultado obtenido en el sorteo a que se refiere la fracción anterior, del primero al veinte de junio del año en que deban celebrarse las elecciones, los Consejos Distritales procederán a insacular del Listado Nominal integrado con los ciudadanos que obtuvieron su credencial para votar con fotografía al quince de mayo del mismo año, a un diez por ciento de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta; para ello, los Consejos Distritales deberán apoyarse en los centros de cómputo del Instituto Federal Electoral. Podrán estar presentes en la sesión de insaculación, los integrantes del Consejo General y los de la Comisión Local de Vigilancia del Registro Federal de Electores, según la programación que previamente se determine;
+I.- En el mes de enero del año de la elección, el Consejo General sorteará un mes del calendario que, junto con el que siga en su orden, serán tomados como base para la insaculación de los nombres de los ciudadanos que, nacidos en esos meses, podrán integrar las Casillas;
 
-III.- A los ciudadanos que resulten insaculados se les convocará para que asistan a un curso de capacitación que se impartirá del primero de julio al treinta de agosto del año de la elección;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+II.- Conforme al resultado obtenido en el sorteo a que se refiere la fracción anterior, del primero al veinte de febrero del año en que deban celebrarse las elecciones, los Consejos Distritales procederán a insacular del Listado Nominal integrado con los ciudadanos que obtuvieron su credencial para votar con fotografía al quince de enero del mismo año, a un diez por ciento de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta; para ello, los Consejos Distritales deberán apoyarse en los centros de cómputo del Instituto Federal Electoral. Podrán estar presentes en la sesión de insaculación, los integrantes del Consejo General y los de la Comisión Local de Vigilancia del Registro Federal de Electores, según la programación que previamente se determine;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+III.- A los ciudadanos que resulten insaculados se les convocará para que asistan a un curso de capacitación que se impartirá del primero de marzo al treinta de abril del año de la elección;
 
 IV.- Los Consejos Distritales harán una evaluación objetiva para seleccionar, con base en los datos que los ciudadanos aporten durante los cursos de capacitación, a los que resulten aptos en términos de este Código, prefiriendo a los de mayor escolaridad;
 
-V.- En el mes de junio del año de la elección, el Consejo General sorteará las veintinueve letras que comprende el alfabeto, a fin de obtener la letra a partir de la cual, con base en el apellido paterno, se seleccionarán a los ciudadanos que integrarán las Casillas;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-VI.- De acuerdo con los resultados obtenidos en el sorteo a que se refiere la fracción anterior, los Consejos Distritales harán entre el uno de agosto y el diez de septiembre siguiente una relación de aquellos ciudadanos que, habiendo asistido a la capacitación correspondiente, no tengan impedimento alguno para desempeñar el cargo, en los términos de este Código. De esta relación los Consejos Distritales sortearán a los ciudadanos que integrarán las Casillas, a más tardar el doce de septiembre;
+V.- En el mes de febrero del año de la elección, el Consejo General sorteará las veintinueve letras que comprende el alfabeto, a fin de obtener la letra a partir de la cual, con base en el apellido paterno, se seleccionarán a los ciudadanos que integrarán las Casillas;
 
-VII.- A más tardar el catorce de septiembre los Consejos Distritales integrarán las Casillas con los ciudadanos seleccionados, conforme al procedimiento descrito en la fracción anterior, y determinarán según su escolaridad las funciones que cada uno desempeñará en la Casilla. Realizada la integración de las Casillas, los Consejos Distritales, a más tardar el diecisiete de septiembre del año en que se celebre la elección, ordenarán la publicación de las listas de los miembros de las Casillas para todas las secciones electorales en cada distrito, lo que comunicarán al Consejo General;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+VI.- De acuerdo con los resultados obtenidos en el sorteo a que se refiere la fracción anterior, los Consejos Distritales harán entre el uno de abril y el diez de mayo siguiente una relación de aquellos ciudadanos que, habiendo asistido a la capacitación correspondiente, no tengan impedimento alguno para desempeñar el cargo, en los términos de este Código. De esta relación los Consejos Distritales sortearán a los ciudadanos que integrarán las Casillas, a más tardar el doce de mayo;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+VII.- A más tardar el catorce de mayo los Consejos Distritales integrarán las Casillas con los ciudadanos seleccionados, conforme al procedimiento descrito en la fracción anterior, y determinarán según su escolaridad las funciones que cada uno desempeñará en la Casilla. Realizada la integración de las Casillas, los Consejos Distritales, a más tardar el diecisiete de mayo del año en que se celebre la elección, ordenarán la publicación de las listas de los miembros de las Casillas para todas las secciones electorales en cada distrito, lo que comunicarán al Consejo General;
 
 VIII.- Los Consejos Distritales, notificarán personalmente a los integrantes de las Casillas su respectivo nombramiento y les tomarán la protesta de ley; y
 
@@ -3953,7 +4097,7 @@ En el día de la jornada electoral, solo podrán portar armas los miembros unifo
 
 ###### ARTÍCULO 272.
 
-El segundo domingo de noviembre del año de la elección ordinaria, en punto de las siete horas con treinta minutos, los ciudadanos nombrados como Presidente, Secretario y Escrutadores propietarios de las Casillas y los representantes de los partidos políticos o de las coaliciones, en su caso, deberán reunirse en el lugar aprobado para la ubicación de la Casilla, a fin de preparar y organizar el material y documentación electoral para la recepción de la votación.
+El primer domingo de julio del año de comicios correspondientes, en punto de las siete horas con treinta minutos, los ciudadanos nombrados como Presidente, Secretario y Escrutadores propietarios de las Casillas y los representantes de los partidos políticos o de las coaliciones, en su caso, deberán reunirse en el lugar aprobado para la ubicación de la Casilla, a fin de preparar y organizar el material y documentación electoral para la recepción de la votación.
 
 Los ciudadanos nombrados con el carácter de suplentes generales de la Casilla deberán presentarse a la hora señalada en el párrafo anterior. En caso de ausencia de alguno de los propietarios al inicio de la jornada electoral, entrarán en funciones dichos suplentes generales, como lo dispone el artículo 275 de este Código.
 
@@ -3963,7 +4107,9 @@ El Presidente de la Casilla verificará el nombramiento y la personalidad de sus
 
 Una vez instalada la Casilla conforme a lo anterior, en punto de las ocho horas, los presentes en este acto firmarán el apartado correspondiente a la instalación en el acta de la jornada electoral y se procederá a la recepción de la votación.
 
-En ningún caso podrá dar inicio la jornada electoral antes de las ocho horas del segundo domingo del mes de noviembre del año de la elección.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+En ningún caso podrá dar inicio la etapa de jornada electoral antes de las ocho horas del primer domingo del mes de julio del año de la elección correspondiente.
 
 ###### ARTÍCULO 274.
 
@@ -4375,35 +4521,79 @@ II.- Si al abrir el paquete electoral no se encuentra dentro del expediente de c
 
 III.- En caso de que el Consejo Municipal no cuente con el original o la copia del acta de escrutinio y cómputo de la casilla de que se trate, pero los representantes de dos o más partidos políticos tengan en su poder copia del acta y éstas no tengan muestra de alteración, se procederá a efectuar el cotejo de los resultados contenidos en las mismas. Cuando los resultados coincidan se tomarán en cuenta para el cómputo;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-IV.- Si los resultados de las actas no coinciden, o bien no se pueda ejecutar el procedimiento previsto en las fracciones II y III de este artículo, en atención a que las copias de las actas que obran en poder de los partidos políticos presenten muestras de alteración, se procederá a abrir el sobre en que se contengan las boletas electorales para su cómputo, levantándose un acta individual de escrutinio y cómputo de la Casilla. Los resultados se asentarán en la forma establecida para ello, dejándose constancia en el acta circunstanciada correspondiente. De igual manera, se harán constar las objeciones que hubieren manifestado cualquiera de los representantes de los partidos políticos, quedando a salvo sus derechos para impugnar el cómputo;
+IV.- Si los resultados de las actas no coinciden, si no se puede ejecutar el procedimiento previsto en las fracciones II y III de este artículo, existan errores o alteraciones evidentes en las actas o en las copias de las actas que obran en poder de los partidos políticos, o presenten muestras de alteración, se procederá a abrir el sobre en que se contengan las boletas electorales para su cómputo, levantándose un acta individual de escrutinio y cómputo de la Casilla. Los resultados se asentarán en la forma establecida para ello, dejándose constancia en el acta circunstanciada correspondiente. De igual manera, se harán constar las objeciones que hubieren manifestado cualquiera de los representantes de los partidos políticos, quedando a salvo sus derechos para impugnar el cómputo;
 
-(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003) (F. DE E., P.O. 16 DE FEBRERO DE 2004)
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-V.- Cuando existan errores o alteraciones evidentes en las actas, el órgano electoral podrá acordar realizar nuevamente el escrutinio y cómputo de la Casilla, en los términos señalados en la fracción anterior;
+V.- El Consejo Municipal deberá realizar nuevamente el escrutinio y cómputo de votación recibida en casilla en los supuestos siguientes:
+
+a) Ante alguna de las causas previstas en la fracción IV anterior;
+
+b) Cuando el número de votos nulos sea mayor a la diferencia de votos entre los candidatos ubicados en el primero y segundo lugares; y
+
+c) Todos los votos hayan sido depositados a favor de un mismo partido.
 
 (REFORMADA, P.O. 5 DE DICIEMBRE DE 2003) (F. DE E., P.O. 16 DE FEBRERO DE 2004)
 
 VI.- A continuación se abrirán, si los hay, los Paquetes Electorales con muestras de alteración y se realizarán, según sea el caso, las operaciones señaladas en las fracciones anteriores, haciéndose constar lo procedente en el acta circunstanciada;
 
-(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003) (F. DE E., P.O. 16 DE FEBRERO DE 2004)
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-VII.- La suma de los resultados de las operaciones indicadas en las fracciones anteriores, constituirá el cómputo municipal;
+VII.- Durante la apertura de paquetes electorales conforme a lo señalado en los incisos anteriores, el Presidente o el Secretario del Consejo Municipal extraerá: los escritos de protesta, si los hubiere; la lista nominal correspondiente; la relación de ciudadanos que votaron y no aparecen en la lista nominal, así como las hojas de incidentes y la demás documentación que determine el Consejo General en acuerdo previo a la jornada electoral. De la documentación así obtenida, se dará cuenta al Consejo Municipal, debiendo ordenarse conforme a la numeración de las casillas. Las carpetas con dicha documentación quedarán bajo resguardo del Presidente del Consejo para atender los requerimientos que llegare a presentar el Tribunal Electoral u otros órganos del Instituto;
 
-(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003) (F. DE E., P.O. 16 DE FEBRERO DE 2004)
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-VIII.- El órgano electoral verificará el cumplimiento de los requisitos formales de la elección y que los candidatos de la planilla que hayan obtenido la mayoría de los votos cumplan con los requisitos de elegibilidad previstos por la Constitución Local y este Código;
+VIII.- La suma de los resultados de las operaciones indicadas en las fracciones anteriores, constituirá el cómputo municipal;
 
-> <small>(F. DE E., P.O. 16 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-IX.- Se harán constar en el acta circunstanciada los resultados del cómputo municipal y los incidentes; y
+IX.- El órgano electoral verificará el cumplimiento de los requisitos formales de la elección y que los candidatos de la planilla que hayan obtenido la mayoría de los votos cumplan con los requisitos de elegibilidad previstos por la Constitución Local y este Código;
 
-> <small>(F. DE E., P.O. 16 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-X.- El Consejo Municipal formulará la declaratoria de validez de la elección y de elegibilidad de la planilla que haya obtenido el mayor número de votos y expedirá la constancia de mayoría.
+X.- Se harán constar en el acta circunstanciada los resultados del cómputo municipal y los incidentes;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XI.- El Consejo Municipal formulará la declaratoria de validez de la elección y de elegibilidad de la planilla que haya obtenido el mayor número de votos y expedirá la constancia de mayoría;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XII.- Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección en el municipio y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo Municipal deberá realizar el recuento de votos en la totalidad de los paquetes electorales de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el municipio;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XIII.- Si a la conclusión del cómputo se establece que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual, y existe la petición expresa a que se refiere el párrafo anterior, el Consejo Municipal deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XIV.- Conforme a lo establecido en las dos fracciones inmediatas anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Municipal dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente del Consejo Municipal dará aviso inmediato al Consejo General del Instituto: ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales y los representantes de los partidos. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XV.- Si durante el recuento de votos se encuentran en el paquete votos de una elección distinta, se contabilizarán para la elección de que se trate;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XVI.- Se levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XVII.- El Consejo Municipal realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XVIII.- Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los Consejeros Municipales siguiendo el procedimiento establecido en este artículo, no podrán invocarse como causa de nulidad de votación recibida en casilla ante el Tribunal; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+XIX.- En ningún caso podrá solicitarse al Tribunal que realice recuento de votos respecto de las casillas que hayan sido objeto de dicho procedimiento en los Consejos Municipales.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 313.
 
@@ -4423,9 +4613,9 @@ Los cómputos en los Consejos Distritales se sujetarán a los procedimientos sig
 
 I.- En el de Gobernador:
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
-a) Se seguirán las reglas contenidas en las fracciones I, II, III, IV, V y VI del artículo 3l2 de este Código;
+a) Se seguirán las reglas contenidas en las fracciones I a VII y XII a XIX del artículo 312 de este Código;
 
 b) A continuación, se procederá a extraer de los Paquetes Electorales de las Casillas especiales, los Expedientes de Casilla relativos a la elección de Gobernador y se realizarán las operaciones descritas en el inciso anterior;
 
@@ -4435,9 +4625,9 @@ d) Se harán constar en el acta circunstanciada los resultados del cómputo dist
 
 II.- En el de Diputados por el principio de mayoría relativa:
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
-a) Se seguirán las reglas contenidas en las fracciones I, II, III, IV, V y VI del artículo 312 de este Código;
+a) Se seguirán las reglas contenidas en las fracciones I a VII y XII a XIX del artículo 312 de este Código;
 
 b) A continuación, se procederá a extraer de los Paquetes Electorales de las Casillas especiales, los Expedientes de Casilla relativos a la elección de Diputados por el principio de mayoría relativa y se realizarán las operaciones descritas en el inciso anterior;
 
@@ -4611,7 +4801,7 @@ II.- Constancia de asignación de Regidores por el principio de representación 
 
 ###### ARTÍCULO 325.
 
-El Tribunal Electoral del Estado, como máxima autoridad jurisdiccional en materia electoral del Estado, es el organismo de control constitucional local, autónomo e independiente, de carácter permanente, encargado de garantizar que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+El Tribunal Electoral del Estado, como máxima autoridad jurisdiccional en materia electoral del Estado, es el organismo de control constitucional local, autónomo e independiente, de carácter permanente, encargado de garantizar que los actos y resoluciones electorales se sujeten invariablemente a los principios de constitucionalidad, legalidad y definitividad, rectores en los procesos electorales.
 
 ###### ARTÍCULO 326.
 
@@ -4665,7 +4855,9 @@ IV.- De la lista a que se refiere la fracción II de este artículo se designar�
 
 El Congreso designará a los Magistrados del Tribunal, a más tardar en el mes de noviembre del año anterior al de la elección, por un periodo de seis años, pudiendo ser ratificados. Los Magistrados designados, de entre ellos mismos nombrarán al Presidente, dentro de los tres días siguientes a su designación.
 
-En la segunda semana del mes de enero del año de la elección, el Tribunal se reunirá para la declaración formal de inicio de los trabajos jurisdiccionales en relación con el proceso electoral.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+En la segunda semana del mes de septiembre del año anterior a los comicios, el Tribunal se reunirá para la declaración formal de inicio de los trabajos jurisdiccionales en relación con el proceso electoral.
 
 ###### ARTÍCULO 331.
 
@@ -4869,9 +5061,25 @@ III.- Inconformidad.
 
 La revisión es el recurso administrativo a través del cual se combaten los actos o resoluciones de los Consejos Distritales o Municipales o aquellos que produzcan efectos similares. El término para interponerlo será de tres días, contados a partir del día siguiente a aquél en que se tenga conocimiento del acto que se recurre.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 350.
 
-La apelación es el recurso jurisdiccional a través del cual se combaten los actos o resoluciones del Consejo General o aquellos que produzcan efectos similares. El término para interponerlo será de tres días, contados a partir del día siguiente a aquél en que se tenga conocimiento del acto que se recurre.
+La apelación es el recurso jurisdiccional a través del cual se combaten los actos o resoluciones del Consejo General o aquéllos que produzcan efectos similares, así como aquellos asuntos internos de partidos políticos relacionados con:
+
+I.- La elaboración y modificación de los documentos básicos de los partidos políticos estatales;
+
+II.- La determinación de los requisitos y mecanismos para la libre y voluntaria afiliación de los ciudadanos a los partidos políticos estatales;
+
+III.- La elección de los integrantes de los órganos de dirección de los partidos políticos estatales;
+
+IV.- Los procesos deliberativos para la definición de sus estrategias políticas y electorales, y en general, para la toma de decisiones por sus órganos de dirección y de los organismos que agrupen a sus afiliados de los partidos políticos estatales; y
+
+V.- Los procedimientos y requisitos para la selección de precandidatos y candidatos a cargos de elección popular de los partidos políticos contendientes en la elección local correspondiente.
+
+Todas las controversias relacionadas con los asuntos internos de los partidos políticos serán resueltas por los órganos establecidos en sus estatutos para tales efectos, debiendo resolver en tiempo para garantizar los derechos de los militantes. Sólo una vez que se agoten los medios partidistas de defensa los militantes tendrán derecho de acudir ante el Tribunal.
+
+El plazo para interponerlo será de tres días, contados a partir del día siguiente a aquél en se tenga conocimiento del acto que se recurre.
 
 ###### ARTÍCULO 351.
 
@@ -4905,9 +5113,13 @@ El Tribunal será competente para conocer y resolver los recursos jurisdiccional
 
 Serán partes en el proceso:
 
-I.- El recurrente, que invariablemente será el partido político o la coalición, en su caso, que a través de su representante impugne algún acto o resolución de los órganos electorales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
-II.- La autoridad responsable, que será el órgano electoral cuyo acto o resolución se combata a través de algún medio de impugnación; y
+I.- El recurrente, que será quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante, conforme a lo previsto en este ordenamiento;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+
+II.- La autoridad responsable, que será el órgano electoral cuyo acto o resolución se combata a través de algún medio de impugnación; y en su caso, el partido político que haya realizado el acto o emitido la resolución que se impugna; y
 
 III.- El tercero interesado, que lo será el partido político o la coalición, en su caso, que resienta algún perjuicio con el medio de impugnación intentado.
 
@@ -5058,6 +5270,14 @@ VIII.- No se cumpla con alguno de los requisitos que este Código exige.
 En caso de que el recurrente señale erróneamente las disposiciones legales presuntamente violadas o las omita, el recurso será resuelto con fundamento en aquellas que le sean aplicables.
 
 Para la resolución de los recursos, el juzgador deberá suplir, en su caso, la deficiencia en la expresión de agravios, si los mismos pueden deducirse de los hechos expuestos por el recurrente.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 370 bis.- El incidente sobre la pretensión de nuevo escrutinio y cómputo en las elecciones de que conozca el Tribunal, solamente procederá cuando el nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por el artículo 312 fracción XII y demás correlativos del presente Código.
+
+El Tribunal deberá establecer si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos sin necesidad de recontar los votos.
+
+No procederá el incidente en el caso de casillas en las que se hubiere realizado nuevo escrutinio y cómputo en la sesión de cómputo respectiva.
 
 ###### ARTÍCULO 371.
 
@@ -5328,3 +5548,13 @@ P.O. 12 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
