@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-64534"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-11-08"
-last_updated: "2008-11-08"
+last_updated: "2009-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 8 de noviembre de 2008.
 
@@ -237,7 +237,9 @@ Artículo 11
 
 1. A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral; tampoco podrá ser candidato para un cargo federal de elección popular y simultáneamente para otro estatal o municipal. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho, se procederá a la cancelación automática del registro respectivo.
 
-2. Los partidos políticos podrán registrar al mismo tiempo hasta seis fórmulas de candidatos a diputados por mayoría relativa y por representación proporcional, salvo la excepción señalada en el artículo 155 párrafo 5 de este Código.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+2. Los partidos políticos podrán registrar al mismo tiempo hasta seis fórmulas de candidatos a diputados por mayoría relativa y por representación proporcional, salvo la excepción señalada en el artículo 155 párrafo 3, inciso b) de este Código.
 
 ## TÍTULO TERCERO. De la elección de los integrantes del Congreso Local, del Gobernador del Estado y de Concejales a los Ayuntamientos
 
@@ -479,7 +481,9 @@ Artículo 34
 
 1. El Instituto, por conducto de su Consejo General, deberá convocar durante el mes de enero del año anterior a cualquiera de las elecciones locales ordinarias a las organizaciones estatales de ciudadanos que tengan interés en participar en los procesos electorales locales, a fin de que puedan obtener el registro como partido político local.
 
-2. En la convocatoria se señalará el plazo para que las organizaciones interesadas presenten la solicitud de registro como Partido Político local correspondiente, el cual, para los efectos del párrafo tercero del artículo 35 de este Código, no podrá exceder de ciento veinte días contados a partir de su expedición, para lo cual deberán haber cumplido los requisitos establecidos en los artículos 28 y 32 de este Código.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+2. En la convocatoria se señalará el plazo para que las organizaciones interesadas presenten la solicitud de registro como Partido Político local correspondiente, el cual, para los efectos del párrafo cuarto del artículo 35 de este Código, no podrá exceder de ciento veinte días contados a partir de su expedición, para lo cual deberán haber cumplido los requisitos establecidos en los artículos 28 y 32 de este Código.
 
 3. La organización interesada presentará al Consejo General del Instituto la solicitud de registro, acompañándola con los siguientes documentos:
 
@@ -865,15 +869,21 @@ Artículo 62
 
 1. Los partidos políticos tendrán derecho al financiamiento público estatal, aprobado en el presupuesto de egresos del Estado, el cual se otorgará en la forma y términos siguientes:
 
-a) Para el sostenimiento de actividades ordinarias permanentes:
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
 
-I. El monto total a distribuir en forma trianual entre los Partidos Políticos será el que resulte de multiplicar el sesenta y cinco por ciento de un salario mínimo general diario vigente en la zona económica correspondiente al Estado, el 1º. de enero del año siguiente al de la elección de Diputados de Mayoría Relativa, por el número total de ciudadanos inscritos en el Padrón Electoral del Estado de Oaxaca;
+a) Para el sostenimiento de actividades ordinarias permanentes, las prerrogativas que por concepto de financiamiento público estatal se otorguen en forma anual a los Partidos Políticos, se calcularán en la forma siguiente:
 
-II. El Instituto asignará, del monto total determinado, un veinte por ciento el primer año, un treinta por ciento el segundo año y el cincuenta por ciento del total de dicha base el año de la elección;
+I. El monto total a distribuir en forma anual entre los Partidos Políticos será el que resulte de multiplicar el número total de ciudadanos inscritos en el Padrón Electoral del Estado de Oaxaca, por los siguientes porcentajes del salario mínimo general diario vigente en la zona económica que comprenda al Estado, el 1° de enero del año que corresponda:
 
-III. De la cantidad total destinada anualmente para el financiamiento de los Partidos, se asignará el treinta por ciento en forma paritaria a todos los Partidos con registro, el veinte por ciento en forma proporcional a su representación en el Congreso del Estado, y el cincuenta por ciento restante de manera proporcional a la votación obtenida en la elección anterior de Diputados de Mayoría Relativa; y
+A. Quince por ciento el año siguiente al de la elección;
 
-IV. Las cantidades que resulten para ser asignadas a cada Partido Político, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
+B. Veinte por ciento el año anterior al de la elección; y
+
+C. Treinta por ciento el año de la elección.
+
+II. De la cantidad total destinada anualmente para el financiamiento de los Partidos, se asignará el treinta por ciento en forma paritaria a todos los Partidos con registro, el veinte por ciento en forma proporcional a su representación en el Congreso del Estado, y el cincuenta por ciento restante de manera proporcional a la votación obtenida en la elección anterior de Diputados de Mayoría Relativa; y
+
+III. Las cantidades que resulten para ser asignadas a cada Partido Político, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
 
 b) Para gastos de campaña:
 
@@ -1185,15 +1195,13 @@ Artículo 80
 
 4. Los recursos presupuestarios destinados al financiamiento público de los partidos políticos no forman parte del patrimonio del Instituto, por lo que éste no podrá alterar el cálculo para su determinación ni los montos que del mismo resulten conforme al presente Código.
 
-5. El Instituto podrá celebrar el convenio a que se refiere el artículo 41, fracción V, párrafo doce, y 116, fracción IV, inciso d), de la Constitución Federal, siempre que haya sido aprobado por el Consejo General, mediante el voto de siete de sus integrantes con derecho a ello, y se den dos o más de los siguientes supuestos:
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
 
-a) Que no hayan sido designados los Consejeros Electorales del Consejo General del Instituto, en los términos establecidos por este Código;
+5. El Instituto podrá celebrar el convenio a que se refieren los artículos 41, fracción V, párrafo doce y 116, fracción IV, inciso d) de la Constitución Federal y 25 apartado C, segundo párrafo de la Constitución Particular, siempre que haya sido aprobado por las dos terceras partes de los integrantes del Consejo General del Instituto Estatal Electoral.
 
-b) Que el Instituto Estatal Electoral no cuente con presupuesto para el desarrollo de la elección de que se trate;
+En todo caso, serán indelegables e irrenunciables las facultades del Consejo General del Instituto Estatal Electoral para publicar la convocatoria, realizar el cómputo, emitir la declaración de validez y calificación de las elecciones estatales, distritales y municipales y entregar las constancias respectivas. La coadyuvancia del Instituto Federal Electoral sólo procederá en cuestiones de logística y operación electoral, cuyo mando será determinado por el Consejo General del organismo electoral local.
 
-c) Que el Consejo General no haya sesionado en los términos previstos por este Código;
-
-d) Que las prerrogativas del financiamiento público estatal para los partidos políticos no se hayan otorgado por el Instituto.
+Si no se aprobara por la mayoría indicada en el primer párrafo de este numeral, se ordenará el archivo del asunto y no podrá someterse un nuevo proyecto de convenio con relación al mismo proceso electoral.
 
 6. El Instituto se regirá para su organización, funcionamiento y control, por las disposiciones constitucionales relativas y las de este Código.
 
@@ -1231,7 +1239,9 @@ Artículo 84
 
 El Consejo General del Instituto se integrará de la siguiente manera:
 
-a) Un Consejero Presidente, con derecho a voz y voto, que será electo por el voto de las dos terceras partes del Congreso Local a propuesta de las Fracciones Parlamentarias de los partidos representados en la Cámara de Diputados, quien deberá satisfacer los mismos requisitos establecidos para los Consejeros Electorales del Consejo General, en el artículo 86, de este Código;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+a) Un Consejero Presidente, con derecho a voz y voto, que será electo por el voto de las dos terceras partes del Congreso Local, a propuesta de las Fracciones Parlamentarias de los partidos representados en la Cámara de Diputados, quien deberá satisfacer los requisitos establecidos en el artículo 86 de este Código;
 
 b) Un Secretario General con derecho a voz, pero sin voto, elegido por el Consejo General de acuerdo al procedimiento establecido en el artículo 92 fracción II, del presente Código;
 
@@ -1453,9 +1463,13 @@ i) Remitir oportunamente al Poder Ejecutivo el proyecto de presupuesto del Insti
 
 j) Vigilar la instalación de los Consejos Distritales y Municipales;
 
-k) Recibir del contralor general los informes de las revisiones y auditorias que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento del Consejo General; y
+k) Recibir del contralor general los informes de las revisiones y auditorias que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento del Consejo General; y (sic)
 
-l) Las demás que le confieran este Código y las disposiciones relativas.
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+l) Someter oportunamente a la consideración del Consejo General el proyecto de convenio a suscribirse con el Instituto Federal Electoral para que se haga cargo de la organización de los procesos electorales locales, en términos de lo dispuesto en el artículo 25 apartado C, segundo párrafo de la Constitución Particular; y el artículo 80 párrafo 5 de este Código; y
+
+m) Las demás que le confieren este Código y las disposiciones relativas.
 
 Artículo 94
 
@@ -2275,7 +2289,9 @@ Artículo 146
 
 Artículo 147
 
-1. Las precampañas darán inicio en la fecha determinada por el Consejo General, en la resolución que expida a más tardar en la cuarta semana del mes de diciembre del año anterior a la elección.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+1. Las precampañas darán inicio en la fecha determinada por el Consejo General, en el acuerdo que emita dentro de los diez últimos días del mes de diciembre del año anterior a la elección.
 
 2. Para los efectos del párrafo anterior la precampaña de un partido concluye, a más tardar, un día antes de que realice su elección interna o tenga lugar la asamblea respectiva, o equivalente, o la sesión del órgano de dirección que resuelva al respecto, conforme a los estatutos de cada partido.
 
@@ -2415,7 +2431,9 @@ Artículo 159
 
 1. Recibida la solicitud de registro de candidaturas por el Presidente o el Secretario del órgano que corresponda, se verificará dentro de los tres días siguientes que se cumplió con todos los requisitos señalados en el artículo anterior.
 
-2. Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político correspondiente, para que dentro de las cuarenta y ocho horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el artículo 160 de este Código.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+2. Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, de notificará de inmediato al partido político correspondiente, para que dentro de las cuarenta y ocho horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el artículo 157 de este Código.
 
 3. Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 157 de este Código, será desechada de plano y, en su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
 
@@ -2529,7 +2547,9 @@ Artículo 169
 
 2. En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos, deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
 
-3. Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6o. de la Constitución Federal y 3° de la Constitución Local respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a los delitos, las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+3. Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6o. de la Constitución Federal respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellas responsabilidades civiles, administrativas o penales que resulten.
 
 4. El derecho a que se refiere el párrafo anterior se ejercerá en la forma y términos que determine la ley de la materia.
 
@@ -3217,7 +3237,7 @@ Artículo 227
 
 1. Concluidos el escrutinio y el cómputo en cada una de las votaciones, se levantarán las actas correspondientes a cada elección, la que firmarán sin excepción, todos los funcionarios y representantes de partidos que actuaron en la casilla.
 
-2. La negativa de los representantes a firmar esta acta, dejará sin materia los escritos de protesta que presenten.
+2. (DEROGADO, P.O. 4 DE AGOSTO DE 2009)
 
 Artículo 228
 
@@ -3395,7 +3415,9 @@ Artículo 242
 
 5. Se levantará un acta circunstanciada en la que se consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato.
 
-6. El Presidente del Consejo realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+6. El Presidente del Consejo realizará en sesión la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
 
 7. Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los Consejos Distritales siguiendo el procedimiento establecido en este artículo, no podrán invocarse como causa de nulidad ante el Tribunal Electoral.
 
@@ -3439,15 +3461,17 @@ El Presidente del Consejo Distrital, una vez integrados los expedientes proceder
 
 a) Remitir al Tribunal, cuando se hubiera interpuesto el recurso de inconformidad, junto con éste, los escritos de protesta y el informe respectivo, así como copia certificada del expediente de cómputo distrital de la elección cuyos resultados hayan sido impugnados;
 
-> <small>(F. DE E., P.O. 21 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
 
-b) Remitir al Consejo General del Instituto, una vez cumplido el plazo para la interposición del recurso de inconformidad, los expedientes de cómputos distritales de la elección de Gobernador del Estado con las actas originales de las casillas, el original del acta de cómputo distrital y cualquier otra documentación relativa a dicha elección, para los efectos del artículo 256, de éste Código; así como copia certificada de la Constancia de Mayoría y Validez de la fórmula de candidatos a Diputados de Mayoría Relativa que la hubiese obtenido, y un informe de los recursos que se hubieren interpuesto para cada una de las elecciones. De la documentación contenida en el expediente del cómputo distrital enviará copia certificada al Director General del Instituto, cuando se interponga el recurso de inconformidad se enviará copia del mismo a sendas instancias.
+b) Remitir al Consejo General del Instituto, una vez cumplido el plazo para la interposición del recurso de inconformidad, los expedientes de cómputos distritales de la elección de Gobernador del Estado con las actas originales de las casillas, el original del acta de cómputo distrital y cualquier otra documentación relativa a dicha elección, para los efectos del artículo 257, de éste Código; así como copia certificada de la Constancia de Mayoría y Validez de la fórmula de candidatos a Diputados de Mayoría Relativa que la hubiese obtenido, y un informe de los recursos que se hubieren interpuesto para cada una de las elecciones. De la documentación contenida en el expediente del cómputo distrital enviará copia certificada al Director General del Instituto; cuando se interponga el recurso de inconformidad se enviará copia del mismo a sendas instancias.
 
 Artículo 248
 
 1. Los Presidentes de los Consejos Distritales y Municipales Electorales entregarán a la Dirección Ejecutiva de Organización Electoral una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos respectivos.
 
-2. Asimismo, los Presidentes tomarán las medidas necesarias para el depósito, en el lugar señalado para tal efecto, de los sobres que contienen la documentación a que se refiere el artículo 217 de este Código hasta la calificación de todas las elecciones. Una vez realizada la calificación, la Junta General Ejecutiva determinará el mecanismo adecuado para su destrucción.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+2. Asimismo, los Presidentes tomarán las medidas necesarias para el depósito en el lugar señalado para tal efecto, de los sobres que contienen la documentación a que se refiere el artículo 228 de este Código hasta la calificación de todas las elecciones. Una vez realizada la calificación la Junta General Ejecutiva determinará el mecanismo adecuado para su destrucción.
 
 ### CAPÍTULO CUARTO. De los Cómputos Municipales
 
@@ -3509,9 +3533,15 @@ f) El Consejo Municipal Electoral correspondiente expedirá las constancias de a
 
 ### CAPÍTULO SEXTO. De la elección de Diputados por el principio de Representación Proporcional y el cómputo general de la elección de Gobernador del Estado
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
 Artículo 255
 
-El Consejo General sesionará el domingo siguiente al día de la elección a las once de la mañana, con el objeto de hacer el cómputo correspondiente a la elección de diputados de Representación Proporcional y el cómputo general de la elección de Gobernador del Estado.
+1. El Consejo General sesionará el domingo siguiente al día de la elección a las once de la mañana, con el objeto de hacer el cómputo correspondiente a la elección de diputados de Representación Proporcional y el cómputo general de la elección de Gobernador del Estado.
+
+2. Para los efectos de la aplicación de la fracción II del artículo 33 de la Constitución particular, se entiende por votación total emitida la suma de todos los votos depositados en las urnas.
+
+3. En la aplicación de la fracción III del artículo 33 de la Constitución particular, para la asignación de diputados de representación proporcional, se entenderá como votación estatal emitida la que resulte de deducir de la votación total emitida, los votos a favor de los partidos políticos que no hayan obtenido el 1.5 por ciento y los votos nulos.
 
 Artículo 256
 
@@ -3523,11 +3553,15 @@ b) Hará el cómputo de la votación total emitida en toda la circunscripción p
 
 Levantará el acta correspondiente, haciendo constar en que Distritos Electorales uninominales se interpusieron recursos, el contenido y los recurrentes;
 
-c) Hará la declaratoria de aquellos partidos políticos que no hayan obtenido el 1.5 por ciento de la votación total emitida para la lista registrada en la circunscripción plurinominal;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+c) Hará la declaratoria de aquellos partidos políticos que no hayan obtenido el 1.5 por ciento de la votación total emitida para la lista registrada en la circunscripción plurinominal, y llevará a cabo la deducción de los votos a favor de los partidos políticos que no hayan obtenido el 1.5 por ciento y los votos nulos de la votación total emitida para obtener la votación estatal emitida;
 
 d) Se sumarán los votos de los partidos políticos que hubieren alcanzado el 1.5 por ciento, de la votación total emitida para que participen en la asignación de diputados por Representación Proporcional;
 
-e) El resultado de la suma de que habla la fracción anterior, se dividirá entre el número de curules a repartir por Representación Proporcional, para obtener un cociente electoral que será aplicado al partido mayoritario hasta alcanzar el número de curules que legalmente le corresponda en la representación proporcional de acuerdo con su votación obtenida;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
+
+e) El resultado de la suma de que habla la fracción anterior, se dividirá entre el número de curules a repartir por Representación Proporcional, para obtener un cociente electoral que será aplicado al partido mayoritario hasta alcanzar el número de curules que legalmente le corresponda en la representación proporcional de acuerdo con su votación estatal obtenida;
 
 f) Hecho lo anterior, se volverán a sumar los votos de los partidos minoritarios con derecho a la representación proporcional y se dividirá el resultado entre el número de curules a repartir para obtener un segundo cociente electoral, que será aplicado tantas veces como éste se contenga en las votaciones de cada uno de ellos;
 
@@ -3972,3 +4006,9 @@ SECRETARIO.
 DIP. WILFREDO FIDEL VÁSQUEZ LÓPEZ.
 
 SECRETARIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 4 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
