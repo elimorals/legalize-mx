@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2009-07-15"
+last_updated: "2009-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE AGOSTO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -45,13 +45,17 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-PRIMERO.- El territorio de la República se divide en veintinueve Circuitos, cuya circunscripción territorial es la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+
+PRIMERO.- El territorio de la República se divide en treinta y dos circuitos, cuya circunscripción territorial es la siguiente:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
 II.- SEGUNDO CIRCUITO: Estado de México.
 
-III.- TERCER CIRCUITO: Estados de Jalisco y Colima.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+
+III.- TERCER CIRCUITO: Estado de Jalisco.
 
 IV.- CUARTO CIRCUITO: Estado de Nuevo León.
 
@@ -105,6 +109,10 @@ XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
 XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 
+> <small>(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+
+XXXII (SIC).- TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
+
 SEGUNDO.- Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
 
 I.- PRIMER CIRCUITO:
@@ -141,7 +149,7 @@ III.- TERCER CIRCUITO:
 
 3.- Diecinueve juzgados de Distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; cinco en materia administrativa y de trabajo y cinco en materia civil, todos con residencia en Guadalajara.
 
-4.- Dos juzgados de Distrito en el Estado de Colima, con sede en la ciudad del mismo nombre.
+4.- (DEROGADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)
 
 IV.- CUARTO CIRCUITO:
 
@@ -319,13 +327,15 @@ XXIII.- VIGESIMO TERCER CIRCUITO:
 
 XXIV.- VIGESIMO CUARTO CIRCUITO:
 
-1.- Un tribunal colegiado con residencia en Tepic.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 30/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+
+1.- Dos tribunales colegiados con residencia en Tepic.
 
 2.- Un tribunal unitario con sede en Tepic.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 19/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOQUINTO DEL ACUERDO GENERAL 34/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
 
-3.- Cinco juzgados de Distrito en el Estado de Nayarit: tres especializados en Materia de Amparo y Juicios Federales y dos especializados en materia de Procesos Penales Federales, todos con residencia en Tepic.
+3.- Seis juzgados de Distrito en el Estado de Nayarit: dos especializados en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales, dos de Amparo en Materia Penal y dos especializados en Procesos Penales Federales, todos con residencia en Tepic.
 
 XXV.- VIGESIMO QUINTO CIRCUITO:
 
@@ -367,6 +377,16 @@ XXIX.- VIGESIMO NOVENO CIRCUITO:
 
 3.- Tres juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca.
 
+> <small>(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+
+XXXII (SIC).- TRIGESIMO SEGUNDO CIRCUITO:
+
+1.- Un tribunal colegiado con residencia en Colima.
+
+2.- Un tribunal unitario con sede en Colima.
+
+3.- Dos juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre.
+
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de Circuito es la que enseguida se indica:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
@@ -377,7 +397,9 @@ Por lo que toca a los tribunales unitarios con residencia en Toluca, su jurisdic
 
 En cuanto al tribunal unitario con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad.
 
-III.- TERCER CIRCUITO: Estados de Colima y Jalisco.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+
+III.- TERCER CIRCUITO: Estado de Jalisco.
 
 IV.- CUARTO CIRCUITO: Estado de Nuevo León.
 
@@ -461,6 +483,10 @@ XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
 XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 
+> <small>(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+
+XXXII (SIC).- TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
+
 CUARTO.- La jurisdicción territorial de los juzgados de Distrito es la siguiente:
 
 I.- PRIMER CIRCUITO:
@@ -479,7 +505,7 @@ III.- TERCER CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Jalisco, con residencia en Guadalajara y Puente Grande, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-Los juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
 
 IV.- CUARTO CIRCUITO:
 
@@ -651,6 +677,16 @@ XXIX.- VIGESIMO NOVENO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
+> <small>(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+
+XXXII (SIC).- TRIGESIMO SEGUNDO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+> <small>(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2009)</small>
+
+XXXIII.- Los Jueces de Distrito en Materia de Procesos Penales Federales del Primero y Segundo Circuito, los Penales del Tercer Circuito y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
+
 > <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 QUINTO.- Se contará con:
@@ -810,5 +846,35 @@ D.O.F. 15 DE JULIO DE 2009.
 PRIMERO. El presente acuerdo entrará en vigor el uno de agosto de dos mil nueve.
 
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 4 DE AGOSTO DE 2009.
+
+ACUERDO GENERAL 30/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 4 DE AGOSTO DE 2009.
+
+ACUERDO 31/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 4 DE AGOSTO DE 2009.
+
+ACUERDO GENERAL 34/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
