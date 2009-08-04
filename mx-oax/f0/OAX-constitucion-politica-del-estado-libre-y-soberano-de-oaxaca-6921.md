@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2009-05-07"
+last_updated: "2009-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2009.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -623,7 +623,7 @@ VI.- En la propaganda política o electoral que difundan los partidos deberán a
 
 > <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-VII.- Durante el tiempo que comprendan las campanas electorales locales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de los poderes federales y estatales, los municipios y de cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+VII.- Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de los poderes federales y estatales, los municipios y de cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
 La Ley sancionará las infracciones a lo dispuesto en esta disposición;
 
@@ -845,21 +845,23 @@ El Congreso del Estado estará integrado por 25 diputados electos según el prin
 
 I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doce distritos uninominales.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2009)</small>
 
-II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento del total de la votación estatal emitida.
+II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento de la votación total emitida.
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2009)</small>
 
-III.- El Partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados, por el principio de representación proporcional, el número de diputados de su lista estatal que corresponda al porcentaje de votos obtenidos.
+III.- El Partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional, el número de diputados de su lista estatal que corresponda al porcentaje de votos obtenidos, de acuerdo con su votación estatal emitida.
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
 IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2009)</small>
 
-V.- Los partidos políticos tendrán derecho a que les sean reconocidos hasta veinticinco Diputadas o Diputados, sumando a las electas y a los electos por los principios de mayoría relativa y representación proporcional; y
+V.- Los partidos políticos tendrán derecho a que les sean reconocidos hasta veinticinco Diputadas o Diputados, sumando a las electas y a los electos por los principios de mayoría relativa y representación proporcional. El número máximo de Diputados por ambos principios que puede alcanzar cualquier partido político, deberá corresponder a su porcentaje de votación respecto de la votación estatal emitida, más el dieciséis por ciento.
+
+Esta base no se aplicará al partido político que por sus triunfos en distritos, obtenga un porcentaje de curules superior a la suma del porcentaje de su votación estatal emitida, más el dieciséis por ciento.
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
@@ -2449,7 +2451,7 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 > <small>(F. DE E., P.O. 28 DE JULIO DE 2001)</small>
 
-La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 146], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2501,7 +2503,7 @@ En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Es
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-La educación seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que respondan las necesidades del desarrollo integral del Estado.
+La educación seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que responda las necesidades del desarrollo integral del Estado.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3370,3 +3372,7 @@ SEGUNDO.- El Ejecutivo del Estado, en un término que no deberá exceder del 31 
 TERCERO.- Las disposiciones del Decreto de Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2009, la Normatividad para su Ejercicio, la Ley Municipal para el Estado de Oaxaca y los respectivos presupuestos de egresos con que cuenten los municipios del Estado serán aplicables en dicho año en lo que no se contraponga al presente Decreto.
 
 CUARTO.- Los Municipios del Estado a través de sus Ayuntamientos procederán a elaborar sus respectivos presupuestos de egresos con enfoque de resultados a que se refiere la Ley Municipal para el Estado de Oaxaca y a implantar y concluir sus sistemas de evaluación del desempeño institucional en los mismos plazos en que lo haga el Estado. El Congreso del Estado, por conducto de la Comisión Permanente de Presupuesto, Programación y Cuenta Pública y la Auditoría Superior del Estado, como órgano técnico del mismo, promoverán lo conducente en el ámbito de sus respectivas atribuciones para que se cumpla con dicha obligación municipal.
+
+P.O. 4 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
