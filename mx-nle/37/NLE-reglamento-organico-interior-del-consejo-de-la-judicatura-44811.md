@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2007-10-12"
+last_updated: "2009-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -1087,65 +1087,103 @@ XIII. Las demás inherentes a las funciones anteriores y las que le encomiende e
 
 ### CAPITULO IX
 
-DEL ÁREA DE MODERNIZACIÓN TECNOLÓGICA.
+DE LA DIRECCIÓN DE INFORMÁTICA.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 61.
 
 El Consejo de la Judicatura contará con un órgano de administración y tesorería que se denominará Dirección de Administración y Tesorería, y tendrá como función principal ejercer el presupuesto aprobado en la Ley de Egresos del Estado y realizará la administración de acuerdo a las disposiciones legales aplicables y a las instrucciones emitidas por el Pleno; adquirirá los bienes y servicios, y tendrá a su cargo la infraestructura judicial y el recurso humano que garantice la integridad, transparencia y seguridad dentro de la normatividad y procedimientos establecidos en el Poder Judicial; así como intervenir en todos los actos jurídicos que afectan al presupuesto; controlar los registros de bienes muebles e inmuebles del Poder Judicial y cuidar su mantenimiento; suministrar los recursos materiales y proporcionar los servicios a los órganos jurídicos y unidades administrativas; elaborar los programas de capacitación y adiestramiento al personal administrativo y vigilar el cumplimiento de las obligaciones de fiscalización y compromisos contraídos ante otros poderes del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 62.
 
-La Dirección de Administración y Tesorería se integrará con: un Director General, Coordinadores: Jurídico, de Finanzas, de Recursos Humanos; de Adquisiciones, Servicios y Obras, y de Infraestructura judicial, jefes de departamento y demás personal técnico y administrativo que apruebe el Pleno, de acuerdo con disponibilidad presupuestal, y además, para el debido funcionamiento y prevención interna de la Dirección de Administración y Tesorería, en la aplicación de los recursos establecidos en la Ley de Egresos del Estado, se integrará un Comité de Operaciones Patrimoniales, cuyas atribuciones están determinadas en el presente reglamento.
+La Dirección de Administración y Tesorería se integrará con: un Director y Coordinadores: Jurídico, de Finanzas, de Recursos Humanos, de Adquisiciones y Servicios, de Obras, de Calidad y de Mantenimiento, jefes de departamento y demás personal técnico y administrativo que apruebe el Pleno, de acuerdo con la disponibilidad presupuestal y, además, para el debido funcionamiento y prevención interna de la Dirección de Administración y Tesorería, en la aplicación de los recursos establecidos en la Ley de Egresos del Estado, se integrará un Comité de Operaciones Patrimoniales, cuyas atribuciones están determinadas en el presente Reglamento.
 
 Los Coordinadores tendrán las siguientes atribuciones:
 
 a).- Coordinador de Finanzas:
 
-I.- Coordinar los programas, informes, conciliaciones y análisis de todo lo relativo a la administración del presupuesto que le concierne al Poder Judicial del Estado;
+I.- Coordinar los programas, informes, conciliaciones y análisis de todo lo relativo a la administración del presupuesto que le concierne al Poder Judicial del Estado.
 
-II.- Proponer e implantar las políticas financieras y contables que posibiliten el aprovechamiento racional y transparente de los recursos del presupuesto asignado;
+II.- Proponer e implantar las políticas financieras y contables que posibiliten el aprovechamiento racional y transparente de los recursos del presupuesto asignado.
 
-III.- Supervisar la correcta aplicación contable y presupuestal de las partidas, de acuerdo al catálogo de cuentas establecido;
+III.- Supervisar la correcta aplicación contable y presupuestal de las partidas, de acuerdo al catálogo de cuentas establecido.
 
-IV.- Elaborar, analizar y presentar trimestralmente para su aprobación el ante proyecto de la cuenta pública y los reportes financieros necesarios para informar la correcta aplicación del gasto público, y
+IV.- Elaborar, analizar y presentar trimestralmente para su aprobación el ante proyecto de la cuenta pública y los reportes financieros necesarios para informar la correcta aplicación del gasto público, y;
 
-V.- Las demás que se desprenden de leyes, reglamentos y acuerdos generales.
+V.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
 
 b).- Coordinador de Recursos Humanos:
 
-I.- Coordinar la administración de recursos humanos, supervisando que se proporcione oportunamente a todas las áreas del Poder Judicial del Estado, el servicio y apoyo en lo que se refiere a contratación de personal, pago de nómina, pago de prestaciones, registro de puntualidad y asistencia y pago de finiquitos, y
+I.- Coordinar la administración de recursos humanos, supervisando que se proporcione oportunamente a todas las áreas del Poder Judicial del Estado, el servicio y apoyo en lo que se refiere a contratación de personal, pago de nómina, pago de prestaciones, registro de puntualidad y asistencia y pago de finiquitos;
 
-II.- Las demás que se desprenden de leyes, reglamentos y acuerdos generales.
+II.- Diseñar planes y programas para la capacitación del personal administrativo, y;
 
-c).- Coordinador de Adquisiciones, Servicios y Obras:
+III.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
 
-I.- Coordinar el oportuno suministro de los requerimientos solicitados de acuerdo a sus especificaciones y en los términos de negociación apegados a los lineamientos y procedimientos establecidos en la Ley de Adquisiciones y Servicios del Gobierno del Estado, así como la administración del almacén, del control del activo fijo y del control vehicular, y
+c).- Coordinador de Adquisiciones y Servicios.
 
-II.- Las demás que se desprenden de leyes, reglamentos y acuerdos generales.
+I.- Coordinar el oportuno suministro de los requerimientos solicitados de acuerdo a sus especificaciones y en los términos de negociación apegados a los lineamientos y procedimientos establecidos en la Ley de Adquisiciones y Servicios del Estado, así como la administración del almacén, del control del activo fijo y del control vehicular, y;
 
-d).- Coordinador de Infraestructura Judicial:
+II.- Dirigir y coordinar todos los eventos sociales, culturales, deportivos y de otra índole, tanto internos como externos en los que institucionalmente el Poder Judicial del Estado tome parte; desde el diseño de la logística, señalando los requerimientos necesarios, dando seguimiento, hasta la culminación de los mismos;
 
-I.- Coordinar los programas de mantenimiento que permitan el desarrollo de la infraestructura judicial;
+III.- Elaborar, planear y ejecutar programas de prevención general contra accidentes o desastres naturales, ello en conjunto con la Dirección de Protección Civil del Estado, y;
 
-II.- Recibir de los contratistas las obras o remodelaciones y entregarlas a los usuarios debidamente documentadas y finiquitadas a plena satisfacción de la institución;
+IV.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
 
-III.- Coordinar la atención a las solicitudes de las necesidades técnicas que reporten los titulares del Poder Judicial del Estado;
+d).- Coordinador de Obras:
 
-IV.- Implantar coordinadamente con la Dirección de Protección Civil del Estado, los programas para prevenir situaciones en caso de desastres naturales y accidentales;
+I.- Diseñar, planear y ejecutar las obras necesarias para el buen funcionamiento de las edificaciones, instalaciones y equipos del Poder Judicial.
 
-V.- Proyectar las necesidades de equipos de los sistemas eléctricos y demás necesarios para el buen funcionamiento de los edificios del Poder Judicial del Estado, y
+II.- Supervisar la construcción, conservación, operación y administración de las obras del Poder Judicial.
 
-VI.- Las demás que se desprenden de leyes, reglamentos y acuerdos generales.
+III.- Diseñar, planear y recibir las remodelaciones de los contratistas y entregarlas a los usuarios, debidamente documentadas y finiquitadas a plena satisfacción de la institución.
+
+IV.- Conservar y mantener la infraestructura judicial existente, procurando la preservación del patrimonio inmobiliario de la institución.
+
+VI (SIC).- Presentar a la Dirección, en septiembre de cada año, los planes, programas y proyectos de obras, construcciones y remodelaciones para su debida aprobación.
+
+VII.- Atender y dar seguimiento a las solicitudes técnicas que reporten los usuarios del Poder Judicial.
+
+VIII.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
 
 e).- Coordinador Jurídico:
 
 I.- Actuar y asesorar jurídicamente a la administración del Poder Judicial del Estado, proponiendo los criterios de interpretación administrativa de las disposiciones jurídicas que norman su funcionamiento, actualizar permanentemente las bases normativas y representarlas en defensa de sus intereses y patrimonio, y
 
-II.- Las demás que se desprenden de leyes, reglamentos y acuerdos generales.
+II.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
 
-f).- (DEROGADO, P.O. 11 DE OCTUBRE DE 2006)
+f).- Coordinador de Calidad:
+
+I.- Promover, coordinar y supervisar el sistema de calidad dentro del Poder Judicial.
+
+II.- Planear, supervisar y ejecutar los métodos operativos y administrativos que conforman los programas del sistema de calidad.
+
+III.- Diseñar políticas, procedimientos, lineamientos e indicadores de calidad que sean favorables para la productividad, eficacia, eficiencia y calidad en las áreas jurídicas y administrativas del Poder Judicial.
+
+IV.- Promover la cultura de la calidad en el Poder Judicial.
+
+V.- Rendir un informe mensual a la Dirección, de los resultados de los indicadores de calidad y de las encuestas aplicadas a los usuarios y justiciables.
+
+VI.- Presentar a la Dirección, en septiembre de cada año, un programa anual, para la mejora del sistema de calidad.
+
+VII.- Diseñar planes y programas para la capacitación del personal administrativo.
+
+VIII.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
+
+g).- Coordinador de Mantenimiento:
+
+I.- Coordinar, supervisar y ejecutar los programas de mantenimiento preventivos y correctivos, así como realizar y mantener la limpieza que permita el desarrollo de las edificaciones, instalaciones y equipos del Poder Judicial.
+
+II.- Dar atención a las solicitudes técnicas que reporten los usuarios del Poder Judicial.
+
+III.- Conservar y mantener la infraestructura judicial existente, procurando la preservación del patrimonio mobiliario e inmobiliario de la institución.
+
+IV.- Elaborar y presentar a la Dirección, en septiembre de cada año, un programa anual de mantenimientos y de limpieza a las edificaciones, instalaciones y equipos del Poder Judicial.
+
+V.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
 
 ###### Artículo 63.
 
@@ -1225,6 +1263,8 @@ Artículo 63 bis V.- El Comité será presidido por el Director de Administraci�
 
 En las sesiones intervendrá un comisario, que será el titular de la Contraloría Interna. Su función es la de vigilar el exacto cumplimiento de los requisitos y modalidades que impone estas bases y demás leyes aplicables, para el desarrollo de las sesiones y la toma de acuerdos.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+
 Artículo 63 bis VI.- El Comité estará integrado por:
 
 I. Director de Administración y Tesorería del Consejo de la Judicatura;
@@ -1235,9 +1275,7 @@ III. Coordinador de Finanzas; y, (sic)
 
 IV. Contralor Interno;
 
-V. Coordinador Jurídico;
-
-VI. Encargado de obras públicas.
+V. Coordinador Jurídico.
 
 Artículo 63 bis VII.- Si por la naturaleza de algún asunto a tratar se requiere la presencia de un servidor público no enunciado en el artículo anterior, el Comité procederá a invitarlo a la sesión.
 
@@ -1301,6 +1339,8 @@ Artículo 63 bis XXIV.- Es responsabilidad de los integrantes del Comité asisti
 
 Artículo 63 bis XXV.- La falta injustificada por más de tres veces consecutivas, dará lugar a que el presidente del Comité requiera se nombre a otra persona como representante del área correspondiente.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE AGOSTO DE 2009)</small>
+
 ### CAPITULO I. DE LA FUNCION DE VIGILANCIA
 
 Sección 1ª.
@@ -1309,11 +1349,13 @@ GENERALIDADES DE LAS VISITAS DE INSPECCIÓN
 
 ###### Artículo 64.
 
-El Consejo de la Judicatura contará con un órgano encargado de la administración de tecnologías de la información y comunicaciones al que denominará: ÁREA DE MODERNIZACIÓN TECNOLÓGICA, y tendrá como función principal la administración de los proyectos de tecnologías de información y comunicaciones, el sistema de informática del Poder Judicial, el sistema del Tribunal Virtual y tendrá a su cargo toda la operatividad de los sistemas de computo, archivo y estadística, así como el mantenimiento de las redes y equipos de computo a fin de apoyar el desempeño de manera eficiente de las actividades del Poder Judicial, esta área estará a cargo del Director de informática.
+El Consejo de la Judicatura contará con un órgano encargado de la administración de tecnologías de la información y comunicaciones al que denominará: Dirección de Informática y tendrá como función principal la administración de los proyectos de tecnologías de la información y comunicaciones, el sistema de informática del Poder Judicial, el sistema del Tribunal Virtual y tendrá a su cargo toda la operatividad de los sistemas de cómputo, archivo y estadística, así como el mantenimiento de las redes y equipos de cómputo a fin de apoyar el desempeño de manera eficiente de las actividades del Poder Judicial.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 65.
 
-Son atribuciones del área de ÁREA DE MODERNIZACIÓN TECNOLÓGICA:
+Son atribuciones de la Dirección de Informática:
 
 I.- Promover la Cultura Informática dentro del Poder Judicial, de tal forma que el personal conozca y aproveche los beneficios de utilizar la tecnología como herramienta de trabajo para incrementar la eficiencia en sus tareas;
 
@@ -1337,7 +1379,9 @@ X.- Colaborar con las áreas afines de otras instancias de gobierno en proyectos
 
 XI.- Investigar sobre nuevas tecnologías que apoyen las necesidades de los órganos del Consejo de la Judicatura, los juzgados y el Tribunal Superior de Justicia y las áreas a su cargo, así como todas las áreas del Poder Judicial que requieran de su servicio, evaluar su factibilidad e implementar estos proyectos según las disponibilidades presupuestarias;
 
-XII.- El área de Modernización Tecnológica es un área de servicio del Poder Judicial;
+> <small>(REFORMADA, P.O. 05 DE AGOSTO DE 2009)</small>
+
+XII.- La Dirección de Informática es un área de servicio del Poder Judicial;
 
 XIII.- Establecer los programas de capacitación, en materia de tecnología, que apoyen la realización de los proyectos y fomenten la Cultura Informática, en el personal del Poder Judicial de acuerdo a sus necesidades específicas de capacitación;
 
@@ -1347,13 +1391,15 @@ XV.- Apoyar al Instituto de la Judicatura en la elaboración de los programas de
 
 XVI.- Definir los estándares de tecnología por utilizar apoyándose en los estándares de Gobierno del Estado;
 
-XVII.- Proponer soluciones apoyadas en la tecnología que acerquen los servicios del Poder Judicial, y
+XVII.- Proponer soluciones apoyadas en la tecnología que acerquen los servicios del Poder Judicial, y (sic)
 
-XVIII.- Elaborar y presentar al Pleno el informe estadístico trimestral del Poder Judicial, para que por conducto del Presidente se haga su envío al Congreso del Estado.
+XVIII.- Elaborar y presentar al Pleno el informe estadístico trimestral del Poder Judicial, para que por conducto del Presidente se haga su envío al Congreso del Estado;
 
 XIX.- Las demás que se deriven de la Ley u otras disposiciones de carácter general.
 
-Artículo 65 bis.- El área de Modernización Tecnológica estará a cargo de un Director, que deberá ser profesionista en ingeniería de sistemas, o carrera afín, y deberá satisfacer los siguientes requisitos: ser ciudadano mexicano en pleno ejercicio de sus derechos político y civiles; tener experiencia mínima de tres años al día de su nombramiento, y no haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículos, salvo que se haya cometido bajo los influjos del alcohol, o de alguna droga enervante. Será designado por el Pleno, a propuesta del Presidente.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+
+Artículo 65 bis.- La Dirección de Informática estará a cargo de un Director, que deberá ser profesionista en ingeniería de sistemas, o carrera afín, y deberá satisfacer los siguientes requisitos: ser ciudadano mexicano en pleno ejercicio de sus derechos político y civiles; tener experiencia mínima de tres años al día de su nombramiento, y no haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículos, salvo que se haya cometido bajo los influjos del alcohol, o de alguna droga enervante. Será designado por el Pleno, a propuesta del Presidente.
 
 ### CAPITULO II. DE LA FUNCION DE DISCIPLINA
 
@@ -2318,3 +2364,9 @@ P.O. 12 DE OCTUBRE DE 2007.
 PRIMERO: Aprobadas en sesión plenaria del Consejo de la Judicatura de fecha 2 dos de octubre del año 2007 dos mil siete, se ordena su publicación en el Periódico Oficial del Estado y en el Boletín Judicial que edita el Tribunal Superior de Justicia del Estado.
 
 SEGUNDO: Las reformas aludidas entrarán en vigor el día 16 dieciséis de octubre del año 2007 dos mil siete.
+
+P.O. 5 DE AGOSTO DE 2009.
+
+PRIMERO.- Publicación y difusión. Publíquese las presentes reformas en el Boletín Judicial y, para su mayor difusión, en el Periódico Oficial del Estado.
+
+SEGUNDO.- Vigencia. Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Boletín Judicial.
