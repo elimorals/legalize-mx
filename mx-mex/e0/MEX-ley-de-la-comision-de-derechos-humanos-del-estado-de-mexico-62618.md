@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2008-08-14"
+last_updated: "2009-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2009.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -175,9 +175,13 @@ XXII. Celebrar convenios con autoridades e instituciones públicas de los tres n
 
 XXIII. Promover la creación, abrogación, derogación, reforma o adición de ordenamientos legales; así como el mejoramiento permanente de prácticas administrativas para una mejor protección y defensa de los derechos humanos;
 
-XXIV. Proveer lo necesario para la exacta observancia de las atribuciones que la Ley Orgánica Municipal del Estado de México otorga a los Coordinadores Municipales de Derechos Humanos;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
 
-XXV. Proveer en el ámbito administrativo, lo necesario a efecto de garantizar la exacta observancia del proceso de designación de los Coordinadores Municipales de Derechos Humanos, contemplado en la Ley Orgánica Municipal del Estado de México;
+XXIV. Proveer lo necesario para la exacta observancia de las atribuciones que la Ley Orgánica Municipal del Estado de México otorga a los Defensores Municipales de Derechos Humanos;
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
+
+XXV. Proveer en el ámbito administrativo lo necesario a efecto de garantizar la exacta observancia del proceso de designación de los defensores Municipales de Derechos Humanos, contemplado en la Ley Orgánica Municipal del Estado de México;
 
 XXVI. Expedir su Reglamento Interno y demás disposiciones tendentes a regular su organización y funcionamiento;
 
@@ -367,7 +371,9 @@ XX. Formular y presentar informes sobre el ejercicio del presupuesto anual de eg
 
 XXI. Convocar y presidir las sesiones del Consejo Consultivo;
 
-XXII. Emitir la terna de aspirantes a Coordinador Municipal de Derechos Humanos, que corresponda, en términos de la Ley Orgánica Municipal del Estado de México; y
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
+
+XXII. Emitir la terna de aspirantes a Defensor Municipal de Derechos Humanos, que corresponda, en términos de la Ley Orgánica Municipal del Estado de México; y
 
 XXIII. Las demás que le confiera esta Ley y otras disposiciones legales.
 
@@ -397,7 +403,9 @@ l. Coordinar y supervisar a los Visitadores en términos del Reglamento Interno;
 
 II. Proponer al Comisionado los proyectos de Acuerdos, Criterios Generales, Resoluciones de no Responsabilidad, Recomendaciones y Resoluciones de los Recursos de Reconsideración;
 
-III. Vincular, orientar y supervisar las acciones que realicen los Coordinadores Municipales de Derechos Humanos, en términos de la Ley Orgánica Municipal del Estado de México; y
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
+
+III. Vincular, orientar, supervisar y evaluar las acciones que realicen los Defensores Municipales de Derechos Humanos, en términos de la Ley Orgánica Municipal del Estado de México; y
 
 IV. Las demás que les confiera esta Ley, otras disposiciones legales y el Comisionado.
 
@@ -889,9 +897,11 @@ Las autoridades o servidores públicos estatales y municipales deben colaborar y
 
 Las autoridades o servidores públicos estatales y municipales, tienen la obligación de proporcionar al personal de este Organismo, acceso irrestricto e inmediato a los espacios físicos, en que deban practicar las actuaciones a que se refieren la presente Ley y el Reglamento Interno.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 117.
 
-La Comisión cuenta, en el cumplimiento de sus atribuciones, con la colaboración de los Coordinadores Municipales de Derechos Humanos, en términos de las disposiciones legales aplicables.
+La Comisión cuenta, en el cumplimiento de sus atribuciones, con la colaboración de los Defensores Municipales de Derechos Humanos, en términos de las disposiciones aplicables.
 
 ### Capítulo II. De las responsabilidades
 
@@ -1000,3 +1010,17 @@ El SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 6 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá expedir las disposiciones que reglamenten la organización y funcionamiento de las Defensorías Municipales de Derechos Humanos dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, las cuales serán publicadas en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno" y en la Gaceta de la propia Comisión.
+
+QUINTO.- Los Coordinadores Municipales de Derechos Humanos, ahora Defensores Municipales de Derechos Humanos, cuya designación se realizó al amparo de las disposiciones que se modifican, reforman o adicionan, permanecerán en su encargo el periodo para el que fueron designados.
