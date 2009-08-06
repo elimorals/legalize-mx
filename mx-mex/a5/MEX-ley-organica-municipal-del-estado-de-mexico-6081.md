@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2008-12-19"
+last_updated: "2009-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,335 +21,23 @@ state: "MEX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-CÓDIGO DE CONDUCTA INSTITUTO DE SALUD PÚBLICA DEL ESTADO DE GUANAJUATO
+LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2009.
 
-Código publicado en la Segunda Parte en el Número 176 del Periódico Oficial del Estado de Guanajuato, el miércoles 2 de septiembre de 2020.
+Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
-CÓDIGO DE CONDUCTA INSTITUTO DE SALUD PÚBLICA DEL ESTADO DE GUANAJUATO
+El Ciudadano LICENCIADO IGNACIO PICHARDO PAGAZA, Gobernador del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-A las personas servidoras públicas del Instituto de Salud Pública del Estado de Guanajuato
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-El Instituto de Salud Pública del Estado de Guanajuato tiene el objetivo de brindar servicios de salud eficientes, honestos y confiables, por lo cual tiene la misión de ser una institución con profesionales íntegros y comprometidos con la salud de la población, a través de servicios vanguardistas y de calidad. Somos parte de una administración de puertas abiertas, que cree en la transparencia y en la rendición de cuentas.
+DECRETO NUMERO 164
 
-Siendo así, resulta fundamental que quienes colaboramos en esta Institución nos comprometamos a impulsar, promover y difundir relaciones humanas dignas, los principios, valores y reglas de integridad, que orientan las conductas para prevenir conflictos de interés.
+LA H. "LI" LEGISLATURA DEL ESTADO DE MEXICO
 
-Es por ello, que a través del Comité Interno de Ética y Prevención de Conflictos de Interés del Instituto de Salud Pública del Estado de Guanajuato, se elaboró el presente Código de Conducta, como un instrumento que guíe nuestro actuar como personas servidoras públicas de este Instituto; el cual contiene reglas claras del comportamiento ético y conductas generales que debemos observar y cumplir en el desempeño de nuestras funciones, como un esfuerzo conjunto por abatir prácticas indebidas, no transparentes y conductas deshonestas, tanto al interior de la entidad como en todos los ámbitos del quehacer público.
+D E C R E T A :
 
-Te invito a que conozcas nuestro Código de Conducta, a cumplir y respetar lo que en él se establece, y a convertirlo en parte de tu vida y quehacer cotidiano, para que juntos hagamos de "Guanajuato: Grandeza de México".
-
-Dr. Daniel Alberto Díaz Martínez
-
-Director General del ISAPEG
-
-Contenido
-
-1. Introducción
-
-2. Aplicación
-
-3. Glosario
-
-4. Principios rectores del Instituto de Salud Pública del Estado de Guanajuato
-
-5. Misión, visión y valores del Instituto de Salud Pública del Estado de Guanajuato
-
-5.1 Misión
-
-5.2 Visión 2024
-
-5.3 Valores institucionales
-
-6. Comportamiento ético
-
-6.1 Integridad
-
-6.2 Compromiso
-
-6.3 Empatía
-
-6.4 Respeto
-
-6.5 Lealtad
-
-7. Conflicto de interés
-
-8. Uso de lenguaje incluyente
-
-9. De la igualdad y no discriminación
-
-10. Sanciones por la falta de observancia al código de conducta
-
-11. De la interpretación del Código de Conducta
-
-12. Transitorios
-
-El Comité Interno de Ética y Prevención de Conflictos de Interés del Instituto de Salud Pública del Estado de Guanajuato, con fundamento en lo dispuesto por los puntos Décimo Primero, Décimo Segundo y Décimo Tercero del Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación el 12 de octubre de 2018, así como los artículos 3 fracción II y 4 Código de Ética del Poder del Estado de Guanajuato, 33 de los Lineamientos Generales para la Integración y Operación de los Comités Internos de Ética y Prevención de Conflicto de Interés de las dependencias y entidades del Poder Ejecutivo del Estado, se emite el Código de Conducta del Instituto de Salud Pública del Estado de Guanajuato, a efecto de cumplir con el compromiso asignado a este órgano colegiado.
-
-1. Introducción
-
-El Instituto de Salud Pública del Estado de Guanajuato, es un organismo público descentralizado de la Administración Pública Estatal que tiene a su cargo la ejecución de la prestación de servicios de atención integral a la salud individual, familiar y comunitaria de la población abierta, así como de aquellas acciones que en materia de salud establecen las leyes, reglamentos, decretos y acuerdos emitidos por (sic) Gobierno del Estado.
-
-El logro de nuestros objetivos es fundamental para distinguirnos como servidoras y servidores públicos capaces de dar ejemplo, al reflejar nuestros valores en las actividades diarias y en nuestra relación con todas las personas.
-
-El Código de Conducta para las y los servidores públicos que integran el Instituto de Salud Pública del Estado de Guanajuato, establece el comportamiento esperado de quienes forman parte de esta institución; tiene como objetivo fundamental normar el actuar de las personas servidoras públicas, orientar su desempeño en estricto apego a los principios, valores y reglas de integridad, con la finalidad de que se propicie el logro y cumplimiento de la misión, visión y objetivos estratégicos de este Instituto, así como encauzar el compromiso al servicio público.
-
-Dicho documento fue elaborado considerando los principios, valores y reglas de integridad, establecidos en los artículos 5, 6 y 7 del Código de Ética del Poder Ejecutivo del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 34, Segunda Parte, el 15 de febrero de 2019.
-
-Es por ello que este documento rige la convicción del actuar de las y los servidores públicos considerando los valores del Instituto de Salud Pública del Estado de Guanajuato, conformándose como un marco regulatorio de conducta, forjando nuestra identidad como servidoras y servidores públicos en la prestación de servicios de salud.
-
-2. Aplicación
-
-La aplicación del presente Código de Conducta es obligatoria para todas las personas servidoras públicas que integran el Instituto de Salud Pública del Estado de Guanajuato.
-
-Las personas titulares de los órganos desconcentrados por función y territorio, de acuerdo con la estructura orgánica que integra el Instituto de Salud Pública del Estado de Guanajuato, serán promotoras éticas de esta entidad, por ello tendrán la responsabilidad de mantener y fomentar en sus equipos de trabajo una cultura ética y transparente.
-
-3. Glosario
-
-Para efectos del presente documento se entenderá por:
-
-I. Código: Código de Ética del Poder Ejecutivo del Estado de Guanajuato.
-
-II. Código de Conducta: Es la guía de actuación para las y los servidores públicos del ISAPEG en las acciones cotidianas que realizan, basadas en los principios y valores éticos, que tiene por objeto orientar el criterio que deberán observar en el desempeño de sus empleos, cargos o comisiones para prevenir y disuadir la comisión de faltas administrativas.
-
-III. Comité: Comité Interno de Ética y Prevención de Conflictos de Interés del Instituto de Salud Pública del Estado de Guanajuato.
-
-IV. Conducta. Es el comportamiento que las personas servidoras públicas del Instituto de Salud Pública deben observar en el ejercicio de sus funciones.
-
-V. ISAPEG: Instituto de Salud Pública del Estado de Guanajuato.
-
-VI. Ley: Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
-
-VII. Personas servidoras públicas: Quienes desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en los artículos 108 de la Constitución Política de los Estados Unidos Mexicanos y 122 párrafo primero de la Constitución Política para el Estado de Guanajuato.
-
-VIII. Valores: Características que distinguen la actuación de las personas servidoras públicas del Instituto de Salud Pública del Estado de Guanajuato, tendientes a lograr credibilidad y el fortalecimiento de las instituciones públicas y del servicio público.
-
-4. Principios rectores del Instituto de Salud Pública del Estado de Guanajuato
-
-Las personas servidoras públicas que integran el Instituto de Salud Pública del Estado de Guanajuato, en estricto apego a la actuación ética y responsable que deben observar en el desarrollo de sus funciones, cargos o comisiones, deben actuar conforme a los principios constitucionales y legales, de conformidad con lo estipulado en la Ley y el Código.
-
-Es por ello que en términos de los artículos 6 y 16 de la Ley, el Código es el instrumento en el que se puntualiza el comportamiento organizacional que deber (sic) tener como persona servidora pública, pues establece los criterios del quehacer diario.
-
-Los principios rectores del actuar de las y los servidores públicos del Instituto, en términos del artículo 5 del Código son:
-
-I. Legalidad: Hacer sólo aquello que las normas expresamente les confieren y en todo momento someter su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen al empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
-
-II. Honradez: Conducirse con rectitud sin utilizar el empleo, cargo o comisión, para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
-
-III. Lealtad: Corresponder a la confianza que el Estado les ha conferido; tener una vocación absoluta de servicio a la sociedad, y satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
-
-IV. Imparcialidad: Dar a la ciudadanía, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permitir que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer las funciones de manera objetiva.
-
-V. Eficiencia: Actuar en apego a los planes y programas previamente establecidos y optimizar el uso y la asignación de recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
-
-VI. Economía: En el ejercicio del gasto público administrar los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo estos de interés social.
-
-VII. Disciplina: Desempeñar el empleo, cargo o comisión de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
-
-VIII. Profesionalismo: Conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles al empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a las demás personas servidoras públicas como a las y los particulares con los que llegare (sic) a tratar.
-
-IX. Objetividad: Preservar el interés superior de las necesidades colectivas por encima de los intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán ser informadas en estricto apego a la legalidad.
-
-X. Transparencia: En el ejercicio de sus funciones privilegiar el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que se genera, obtiene, adquiere, transforma o conserva; y en el ámbito de su competencia, difundir de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
-
-XI. Rendición de cuentas: Asumir plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican las decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
-
-XII. Competencia por mérito: Seleccionar para los puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
-
-XIII. Eficacia: Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según las responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
-
-XIV. Integridad: Actuar siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo o comisión, convencidas en el compromiso de ajustar la conducta para que impere en el desempeño una ética que responda el interés público y generen certeza plena de la conducta frente a las personas con las que se vinculen u observen su actuar.
-
-XV. Equidad: Procurar que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
-
-5. Misión, visión y valores del Instituto de Salud Pública del Estado de Guanajuato
-
-5.1 Misión
-
-Somos una institución con profesionales íntegros y comprometidos con la salud de la población, a través de servicios vanguardistas y de calidad.
-
-5.2 Visión 2024
-
-Compartir nuestra pasión e inspiración para consolidarnos como referente nacional en salud pública, atención médica y generación de conocimiento, a través del acceso efectivo, con servicios de calidad y reducción de riesgos mediante la participación de la sociedad.
-
-5.3 Valores institucionales
-
-Los valores que fueron establecidos por el ISAPEG y que están alineados a los del Código, rigen el actuar de las personas servidoras públicas en el desempeño de su empleo, cargo o comisión, siendo los siguientes:
-
-I. Integridad: Ser un servidor público honesto que genera confianza y actúa en congruencia con la normatividad que nos rige.
-
-II. Compromiso: Convicción y firme disposición de actuar para contribuir al logro de los objetivos institucionales y la conservación del medio ambiente.
-
-III. Empatía: Reconocer, comprender y apreciar las necesidades y/o requerimientos de la población a la que atendemos para otorgar un servicio de calidad y calidez.
-
-IV. Respeto: Acciones de atención y convivencia en pro de la igualdad y no discriminación.
-
-V. Lealtad: Corresponder a la confianza que el ISAPEG ha conferido, tener una vocación de servicio a la sociedad por encima de los intereses particulares o personales.
-
-6. Comportamiento ético
-
-6.1 Integridad
-
-Las personas servidoras públicas que generan confianza y actúan en congruencia con la normatividad deben:
-
-6.1.1 Sustentar su actuación bajo los principios rectores establecidos en el artículo 5 del Código, en cada una de las acciones que realicen como parte de su empleo, cargo o comisión, especialmente en el uso de los recursos del Instituto.
-
-6.1.2 Abstenerse de elaborar, impulsar, promover, emitir o aplicar políticas públicas, estrategias, normas, lineamientos, disposiciones administrativas y criterios tendientes a favorecer indebidamente a personas, grupos o sectores en detrimento del interés público.
-
-6.1.3 Realizar sus actividades de acuerdo con las funciones, cargo o comisiones, con transparencia, honestidad, lealtad, cooperación y austeridad, sin ostentación, con una clara orientación al interés público.
-
-6.1.4 Conocer y cumplir en el desempeño de las funciones, cargos o comisiones, las leyes, reglamentos y normas aplicables al servicio público; asimismo en aquellos casos en que no exista una norma específica reguladora, actuar con criterios de objetividad, imparcialidad y transparencia, atendiendo a los valores inscritos en este Código de Conducta.
-
-6.1.5 Evitar cualquier tipo de violencia, acoso u hostigamiento sexual o cualquier otra conducta que atente contra la confianza que una persona tiene en su propia dignidad, en estricto apego a los derechos humanos, equidad de género y no discriminación.
-
-6.1.6 Abstenerse de realizar conductas negligentes que pongan en riesgo su propia seguridad o la de terceros.
-
-6.1.7 Conducirse con honestidad, para prevenir un comportamiento que no esté acorde con la normatividad aplicable.
-
-6.1.8 Abstenerse de recibir dinero, dádivas, obsequios, regalos o beneficios personales de terceros, por favorecer o ayudar a otras personas u organizaciones.
-
-6.1.9 Comunicar a superiores o instancias competentes, situaciones, actos o conductas contrarias a la normativa aplicable.
-
-6.2 Compromiso
-
-Las personas servidoras públicas actúan con convicción y firme disposición para contribuir al logro de los objetivos institucionales y la conservación del medio ambiente, para vivir este valor las y los servidores públicos del ISAPEG, deberán:
-
-6.2.1 Realizar sus funciones, cargos o comisiones de forma efectiva, eficiente y con calidad.
-
-6.2.2 Utilizar los recursos financieros y materiales únicamente con la finalidad de cumplir con sus funciones, cargos o comisiones, aprovechándolos en apego a los criterios de optimización, racionalidad, austeridad y ahorro.
-
-6.2.3 Evitar situaciones en las que los intereses personales puedan entrar en conflictos de interés con el Instituto o de terceros.
-
-6.2.4 Impedir situaciones en las que pueda existir posibilidad de obtener un beneficio económico o de cualquier tipo que sea ajeno a sus funciones, cargos o comisiones, o que representen un conflicto de interés.
-
-6.2.5 Actuar con honradez, apego a las leyes y normas en las relaciones de trabajo.
-
-6.2.6 Tomar decisiones de acuerdo con sus funciones, cargos o comisiones en estricto apego a las leyes, principios y valores contenidos en este Código de Conducta.
-
-6.2.7 Conducirse con respeto hacia los compañeros de trabajo, promoviendo el trato amable y cordial con independencia de género, capacidades especiales, edad, religión, lugar de nacimiento o nivel jerárquico, así como desarrollar acciones de protección al medio ambiente y ofrecer a la sociedad un trato imparcial, íntegro, amable, ecuánime, cordial y equitativo, orientado siempre a ayudar a todas las personas, con espíritu de servicio.
-
-6.2.8 Realizar acciones que contribuyan a llevar a cabo las recomendaciones de los organismos protectores de derechos humanos y de prevención de la discriminación.
-
-6.2.9 Abstenerse de obstruir alguna investigación por autoridades de entes fiscalizadores, organismos protectores de derechos humanos y de prevención de la discriminación y/o cualquier otra autoridad en los diferentes ámbitos de competencia.
-
-6.2.10 Abstenerse de asignar o delegar responsabilidades y funciones sin apegarse a las disposiciones administrativas aplicables.
-
-6.2.11 Participar activamente en procesos de formación y o capacitación para el mejoramiento del trabajo, indicadores y desempeño.
-
-6.2.12 Abstenerse de realizar acciones parciales, que no vayan acorde a los principios de legalidad, en el ejercicio de las funciones, cargos o comisiones en las contrataciones públicas, otorgamiento de prórrogas o licencias, permisos o autorizaciones.
-
-6.2.13 Abstenerse de ser parcial en los procesos de selección, designación y contratación de personal o nombrar de manera directa o indirectamente como subalternos a familiares hasta el cuarto grado de parentesco.
-
-6.2.14 Abstenerse de disponer de personal a su cargo de forma indebida, para que realice trámites, asuntos o actividades de carácter personal o familiar, ajenos al servicio público.
-
-6.2.15 Disminuir el impacto al medio ambiente a través de prácticas adecuadas.
-
-6.3 Empatía
-
-Es necesario que las personas servidoras públicas reconozcan, comprendan y aprecien las necesidades y/o requerimientos de la población a la que se atiende para otorgar un servicio de calidad y calidez, por lo cual, para vivir este valor deberán:
-
-6.3.1 Otorgar una atención integral a las personas que atiendan en el desempeño de sus empleos, cargos o comisiones, así como al momento de brindarles algún servicio.
-
-6.3.2 Brindar buen trato a la población que acude para la prestación de un servicio, así como a los compañeros que integran el área de trabajo, evitando prejuicios en pro de la no discriminación y equidad de género.
-
-6.3.3 Utilizar un lenguaje claro, sencillo e incluyente, en términos que las personas usuarias o pacientes puedan entender.
-
-6.3.4 Verificar que las personas usuarias, pacientes o cualquier otra persona que solicite atención o algún servicio comprenda íntegramente la información proporcionada, buscando siempre resolver la problemática planteada.
-
-6.3.5 Considerar las necesidades de las personas usuarias, pacientes o cualquier otra que solicite atención y proveer la mejor manera de satisfacer las mismas en el marco de sus empleos, cargos o comisiones.
-
-6.3.6 Tener como personas servidoras públicas en el ejercicio de las actividades el apoyo entre compañeros de trabajo, así como a la población en general para brindar un buen servicio.
-
-6.3.7 Fomentar el diálogo entre compañeros de trabajo, con independencia de las jerarquías que existan en la organización para la solución de conflictos.
-
-6.3.8 Conducirse con trato digno y cordial, conforme a los protocolos de actuación o atención al público y de cooperación entre servidores públicos.
-
-6.3.9 Orientar y atender de forma oportuna, clara y amable a la población que se brinda el servicio, así como a los compañeros y compañeras que integran el área de trabajo.
-
-6.3.10 Atender de forma oportuna las quejas y/o solicitudes de las personas usuarias referente a la prestación de un servicio.
-
-6.4 Respeto
-
-Para llevar a cabo las acciones de atención y convivencia en pro de la igualdad y no discriminación, las personas servidoras públicas deberán:
-
-6.4.1 Otorgar un trato igualitario y sensible a las personas, reconociendo y aceptando la libre manifestación de las ideas.
-
-6.4.2 Dar un trato amable, cordial y tolerante a la población en general que acuda para la prestación de un servicio.
-
-6.4.3 Atender en forma oportuna a las personas que acuden en busca de un servicio, sin diferencia de edad, condición o jerarquía.
-
-6.4.4 Respetar la dignidad humana, la cual es fundamental en las relaciones de trabajo, ya que de ello depende propiciar un ambiente de trabajo sano y de respeto mutuo.
-
-6.4.5 Abstenerse de hostigar, agredir, amedrentar, acosar, intimidar, extorsionar o amenazar a personal subordinado o compañeras y compañeros de trabajo.
-
-6.4.6 Privilegiar el diálogo, la colaboración y tratar dignamente a toda persona, sin importar su condición, buscando siempre la coincidencia que pudiera existir dentro de las diferencias de criterio, opinión o proceder.
-
-6.4.7 Brindar a las personas servidoras públicas de las distintas dependencias, entidades y/o autoridades con las que, de acuerdo a las funciones, cargo o comisiones, se tenga relación, un trato cordial y amable en un ambiente de colaboración y de respeto, teniendo en cuenta criterios de transparencia y rectitud en el servicio que ofrece por parte de este instituto.
-
-6.4.8 Crear ambientes de trabajo inclusivos que no solo correspondan a las necesidades individuales.
-
-6.5 Lealtad
-
-Para corresponder a la confianza que el ISAPEG ha conferido, las personas servidoras públicas deberán:
-
-6.5.1 Desempeñar las funciones institucionales con un profundo sentido del deber de manera consciente, transparente y confiable.
-
-6.5.2 Abstenerse de divulgar información confidencial, que se tenga en el ejercicio de la función, cargo o comisión.
-
-6.5.3 Abstenerse de divulgar asuntos de carácter confidencial, dentro y fuera del ámbito laboral.
-
-6.5.4 Preservar la buena imagen de la institución dentro y fuera de la misma.
-
-6.5.5 Resguardar la información confidencial que se tenga en el ejercicio de la función, cargo o comisión.
-
-6.5.6 Abstenerse de hacer mal uso de la información, alterando ocultando o eliminando de manera deliberada información pública.
-
-6.5.7 Participar en el ejercicio de su empleo, cargo o comisión, en procedimientos administrativos, teniendo una cultura de denuncia.
-
-7. Conflicto de interés
-
-7.1 Se presentará cuando los intereses personales, familiares o de negocios en el ejercicio del cargo o comisión puedan afectar el desempeño imparcial del ejercicio, por lo que las personas servidoras públicas deberán: Cuidar que sus acciones sean dirigidas siempre en beneficio de la Institución evitando sus propios intereses y que estos puedan influir en la toma de decisiones.
-
-7.2 No utilizar el cargo o función con propósitos privados y evitar relaciones que impliquen el riesgo de corrupción o que puedan ejercer dudas en el proceder y en el ejercicio de sus acciones.
-
-7.3 No utilizar información recibida en el desempeño de sus obligaciones, como medio para obtener beneficios personales o a favor de terceros.
-
-7.4 Excusarse de intervenir en cualquier forma de actuación, tramitación, atención, resolución de asuntos, en los que exista interés personal, familiar, de negocios o de cualquier otro que pueda ocasionar conflictos de interés.
-
-8. Uso de lenguaje incluyente
-
-El lenguaje empleado en este Código de Conducta no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que sus disposiciones son redactadas asegurando un lenguaje incluyente y no sexista.
-
-9. De la igualdad y no discriminación
-
-En el ISAPEG, queda estrictamente prohibido todo tipo de distinción, exclusión, restricción o preferencia que, por acción u omisión, con toda intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
-
-10. Sanciones por la falta de observancia al código de conducta
-
-En caso de incumplimiento a lo previsto en este Código de Conducta se aplicará lo establecido en la Ley y demás disposiciones jurídicas aplicables.
-
-11. De la interpretación del Código de Conducta
-
-Corresponde al Comité interpretar en lo conducente el presente Código, así como analizar y resolver los hechos no previstos que resulten de su aplicación.
-
-12. Transitorios
-
-PRIMERO. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Este Código de Conducta deberá ser revisado por lo menos cada 2 años a efecto de su debida actualización.
-
-TERCERO. El presente Código de Conducta será difundido a través de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Guanajuato, Gto., a 23 de junio de 2020.
-
-Dr. Daniel Alberto Díaz Martínez.
-
-Director General del Instituto de Salud Pública del Estado de Guanajuato y Presidente del Comité Interno de Ética y Prevención de Conflictos de Interés.
-
-Aprobó el Órgano Interno de Control del Instituto de Salud Pública del Estado de Guanajuato.
-
-C.P. Raúl López Torres.
+LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
 ## TITULO I. Del Municipio
 
@@ -965,9 +653,9 @@ VIII. Concluir las obras iniciadas por administraciones anteriores y dar manteni
 
 IX. Crear las unidades administrativas necesarias para el adecuado funcionamiento de la administración pública municipal y para la eficaz prestación de los servicios públicos;
 
-> <small>(ADICIONADA, G.G. 6 DE ENERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
 
-IX Bis. Crear en el ámbito de sus respectivas competencias una Coordinación Municipal de Derechos Humanos, la cual será autónoma en sus decisiones;
+IX Bis. Crear en el ámbito de sus respectivas competencias una Defensoría Municipal de Derechos Humanos, la cual gozará de autonomía en sus decisiones y en el ejercicio de presupuesto;
 
 X. Conocer los informes contables y financieros anuales dentro de los tres meses siguientes a la terminación del ejercicio presupuestal que presentará el tesorero con el visto bueno del síndico;
 
@@ -1049,9 +737,9 @@ XL. Los municipios de manera libre decidirán si tienen oficialías mediadoras-c
 
 XLI. Expedir el Reglamento de las Oficialías Mediadoras-Conciliadoras Municipales;
 
-> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
 
-XLII. Convocar a la designación de los Coordinadores Municipales de Derechos Humanos;
+XLII. Convocar al procedimiento de designación de los Defensores Municipales de Derechos Humanos;
 
 > <small>(ADICIONADA, G.G. 7 DE AGOSTO DE 2008)</small>
 
@@ -2251,89 +1939,191 @@ El ayuntamiento emitirá la declaratoria de municipalización, una vez oído a l
 
 Una vez decretada la municipalización del servicio, si el ayuntamiento carece de recursos para prestarlo, podrá concesionarlo en términos de esta Ley.
 
-### CAPITULO DECIMO. Nombramiento, Atribuciones y Obligaciones del
+### CAPITULO DECIMO. Selección, Nombramiento, Atribuciones y Obligaciones del Defensor Municipal de Derechos Humanos
 
-Coordinador Municipal de Derechos Humanos
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
 
-> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2004)</small>
+Artículo 147 A.- En cada municipio, el ayuntamiento respectivo, mediante acuerdo de cabildo, expedirá con la oportunidad debida una convocatoria abierta a toda la población para designar al Defensor Municipal de Derechos Humanos, que deberá durar en su cargo tres años, contando a partir de la fecha de su designación, pudiendo ser reelecto por el ayuntamiento por una sola vez y por igual periodo, de acuerdo a los lineamientos siguientes:
 
-Artículo 147 A.- En cada municipio, el Ayuntamiento respectivo llevará a cabo una convocatoria abierta a efecto de que se designe al Coordinador Municipal de Derechos Humanos, mismo que durará en su cargo 3 años.
+I. La convocatoria abierta se emitirá 60 días naturales antes del vencimiento del nombramiento del responsable municipal de los derechos humanos en funciones;
 
-De los aspirantes a Coordinadores Municipales de Derechos Humanos que de dicha convocatoria resultaren, se elegirá una terna por el Comisionado de Derechos Humanos y una vez presentada ésta, el cabildo designará al más apropiado.
+II. La convocatoria abierta se publicará y deberá permanecer su difusión por un periodo de cuando menos quince días y no mayor a veinte días naturales, en los lugares de mayor afluencia del municipio, así como en el periódico de mayor circulación dentro del territorio municipal;
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+III. La convocatoria abierta también se difundirá y se hará del conocimiento de las organizaciones y asociaciones interesadas en el respeto, promoción, divulgación y cultura de los derechos humanos;
 
-Artículo 147 B.- El Coordinador Municipal deberá reunir los siguientes requisitos:
+IV. De no ocurrir a la convocatoria más de tres aspirantes, el ayuntamiento deberá emitir una segunda convocatoria dentro de los 10 días naturales siguientes al vencimiento de la primera convocatoria;
 
-I. Ser originario del municipio de que se trate o vecino de él, con residencia efectiva en su territorio no menor de tres años;
+V. En caso de no presentarse suficientes aspirantes a la segunda convocatoria para integrar la terna, los miembros del ayuntamiento podrán proponer como aspirantes a personas que se distingan por su honorabilidad o reconocida autoridad moral, respetabilidad y disposición de servicio con sentido humanista a los más desprotegidos, remitiendo sus expedientes y cédulas personales a la Comisión de Derechos Humanos del Estado de México, para que de entre ellos se elija la terna que se enviará al ayuntamiento para la designación respectiva;
 
-> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
+VI. Si al inicio de la administración municipal no se cuenta con un Defensor Municipal de Derechos Humanos, el ayuntamiento deberá emitir la convocatoria respectiva a más tardar dentro de los quince días naturales siguientes a que se le haya tomado la protesta de ley; y
 
-II. Ser ciudadano mexicano en pleno ejercicio de sus derechos y de reconocida honorabilidad en su municipio;
+VII. Una vez acordada la publicación de la convocatoria abierta por parte del ayuntamiento, copia de la misma será remitida a la Comisión de Derechos Humanos del Estado de México.
 
-III. No desempeñar ningún empleo o cargo público al momento de asumir sus funciones en la coordinación.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
 
-> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
+Artículo 147 B.- El incumplimiento en la emisión de la convocatoria, de quien no la ordene o no la ejecute, será motivo de responsabilidad administrativa, existiendo acción pública para tal efecto, la cual podrá ser informada al Órgano de Control Interno de la Legislatura Estatal por la Comisión de Derechos Humanos del Estado de México.
 
-IV. Tener más de 25 años al momento de su designación;
+Artículo 147 B Bis.- (DEROGADO, G.G. 6 DE AGOSTO DE 2009)
 
-> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
 
-V. Contar preferentemente con licenciatura o especialización en el área de Derechos Humanos.
+Artículo 147 C.- La Defensoría Municipal de los Derechos Humanos es un órgano autónomo del ayuntamiento respectivo, que para el ejercicio de sus funciones debe coordinarse con la Comisión de Derechos Humanos del Estado de México.
 
-> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2004)</small>
+El Defensor Municipal de los Derechos Humanos se constituye en el enlace de coordinación entre las organizaciones no gubernamentales y la Comisión de Derechos Humanos del Estado de México, sin perjuicio de las demás atribuciones que establece la Ley de la Comisión de Derechos Humanos del Estado de México.
 
-Durante el tiempo de su encargo, el Coordinador no podrá desempeñar otro empleo, cargo o comisión públicos; ni realizar cualquier actividad proselitista.
+Las percepciones del Defensor Municipal de Derechos Humanos no podrán ser inferiores a las que correspondan al nivel de director de área en cada ayuntamiento.
 
-> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
 
-Artículo 147 B Bis.- Son causas de separación del Coordinador Municipal de Derechos Humanos:
+Artículo 147 D.- La convocatoria abierta que emita el ayuntamiento para acceder a Defensor Municipal de Derechos Humanos deberá reunir, cuando menos, lo siguiente:
 
-I. Renuncia;
+I. Nombre del ayuntamiento convocante y fundamento legal;
 
-II. Haber sido condenado por un delito que merezca pena corporal; y
+II. Requisitos que esta Ley exige para ser aspirante a Defensor Municipal de Derechos Humanos;
 
-III. Haber estado involucrado en soborno, corrupción, cohecho, así como en cualquier otra conducta ilícita.
+III. Documentos soporte de los requisitos exigidos a tos aspirantes;
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+IV. Plazo para su presentación;
 
-Artículo 147 C.- Son atribuciones del Coordinador Municipal de Derechos Humanos:
+V. Lugar de recepción de los mismos;
 
-I. Recibir las quejas de la población y remitirlas a la Comisión de Derechos Humanos del Estado de México, por conducto de sus visitadurías, conforme al Reglamento Interno de ese organismo;
+VI. Descripción del procedimiento de selección; y
+
+VII. Publicación de resultados.
+
+Artículo 147 D Bis.- (DEROGADO, G.G. 6 DE AGOSTO DE 2009)
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 E.- La Secretaría del ayuntamiento recibirá las solicitudes y documentación de los aspirantes, acusando de recibido y con el folio respectivo y lo hará del conocimiento del ayuntamiento en la sesión de cabildo ordinaria siguiente, a fin de acordar su remisión a la Comisión de Derechos Humanos del Estado de México, para la Declaratoria de Terna, en no más de cinco días hábiles, acompañando copia certificada del punto de acuerdo respectivo.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 F.- Una vez recibida en la Comisión de Derechos Humanos del Estado de México, la documentación de los aspirantes a Defensor Municipal de Derechos Humanos, se realizará el estudio respectivo y en un término de veinte días hábiles se emitirá la Declaratoria de Terna, la cual en diez días hábiles será notificada al ayuntamiento.
+
+Los puntos no previstos en la convocatoria respectiva, serán resueltos conjuntamente por la Comisión de Derechos Humanos del Estado de México y el ayuntamiento respectivo.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 G.- La Comisión de Derechos Humanos del Estado de México notificará al ayuntamiento la declaratoria de Terna y éste lo comunicará a los aspirantes propuestos, a fin de que en la siguiente sesión ordinaria de cabildo, expongan su propuesta de plan de trabajo. Serán los integrantes del ayuntamiento quienes en cabildo decidan la designación del Defensor Municipal de Derechos Humanos.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 H.- La toma de protesta del Defensor Municipal de Derechos Humanos, se realizará en sesión de cabildo, en la que estará presente el Comisionado de los Derechos Humanos o quien lo represente.
+
+La Secretaría del ayuntamiento, dará a conocer a los habitantes el nombramiento respectivo que se publicará en el órgano oficial de difusión del municipio, además de enviar a la Comisión de Derechos Humanos del Estado de México copia certificada del acta de la sesión de cabildo correspondiente al nombramiento.
+
+El Defensor Municipal de Derechos Humanos estará sujeto al régimen de responsabilidades de los servidores públicos, previsto en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 I.- El Defensor Municipal de Derechos Humanos debe reunir los requisitos siguientes:
+
+I. Ser mexicano en pleno goce y ejercicio de sus derechos políticos y civiles;
+
+II. Tener residencia efectiva en el municipio no menor a tres años;
+
+III. Tener preferentemente licenciatura, así como experiencia o estudios en derechos humanos;
+
+IV. Tener más de 23 años al momento de su designación;
+
+V. Gozar de buena fama pública y no haber sido condenado por sentencia ejecutoriada por delito internacional;
+
+VI. No haber sido sancionado en el desempeño de empleo, cargo o comisión en los servicios públicos federal, estatal o municipal, con motivo de alguna recomendación emitida por organismos públicos de derechos humanos; y
+
+VII. No haber sido objeto de sanción de inhabilitación o destitución administrativas para el desempeño de empleo, cargo o comisión en el servicio público, mediante resolución que haya causado estado.
+
+Durante el tiempo de su encargo, el Defensor Municipal de Derechos Humanos no podrá desempeñar otro empleo cargo o comisión públicos, ni realizar cualquier actividad proselitista, excluyéndose las tareas académicas que no riñan con su quehacer.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 J.- El Defensor Municipal de Derechos Humanos dejará de ejercer su encargo por alguna de las causas siguientes:
+
+I. Término del periodo para el que fue electo o reelecto;
+
+II. Renuncia;
+
+III. Incapacidad permanente que le impida el desempeño de sus funciones;
+
+IV. incurrir (sic) en 3 o más faltas de asistencia a sus labores sin causa justificada dentro de un lapso de 30 días;
+
+V. Haber sido condenado mediante sentencia ejecutoriada por delito doloso;
+
+VI. Haber sido sancionado en el desempeño de empleo, cargo o comisión en el servicio público, con motivo de recomendación emitida por organismos públicos de derechos humanos;
+
+VII. Transgreda o incurra, en ejercicio de sus funciones, en conductas graves que sean contrarias a las facultades que esta Ley de (sic) atribuye, a los principios que debe regir el ejercicio de las mismas y a las disposiciones contenidas en la Ley de la Comisión de Derechos Humanos del Estado de México; y
+
+VIII. Desempeñe actividades incompatibles con su cargo, en términos de esta Ley.
+
+En los supuestos a que se refieren las fracciones IV, V, VI, VII y VIII el ayuntamiento citará en sesión de cabildo al Defensor Municipal de Derechos Humanos, en el que se le informará de la o las causas de su separación; se garantizará el que sea escuchado y se recibirán las pruebas que en su favor aporte. El ayuntamiento decidirá lo conducente en presencia del Defensor Municipal de Derechos Humanos y lo notificará a la Comisión de Derechos Humanos del Estado de México.
+
+De no presentarse el Defensor Municipal de Derechos Humanos a la sesión de cabildo respectiva, el ayuntamiento determinará lo conducente, siempre y cuando se verifique que exista evidencia plena de la citación, informando de ello a la Comisión de Derechos Humanos del Estado de México.
+
+En caso de que un Defensor Municipal de Derechos Humanos sea separado de su encargo por causas distintas a las establecidas en el presente artículo y/o por otro procedimiento, será motivo de responsabilidad administrativa para quien aplique uno u otro.
+
+De presentarse renuncia o separación del cargo del Defensor Municipal de Derechos Humanos, el ayuntamiento expedirá una nueva convocatoria dentro de los diez días hábiles siguientes, conforme lo establecen las fracciones II, III, IV, V, VI y VII del artículo 147 A de esta Ley; en tanto, nombrará un encargado del despacho durante el periodo que dure el proceso para la designación del nuevo Defensor Municipal de Derechos Humanos, dando el aviso de rigor a la Comisión de Derechos Humanos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 K.- Son atribuciones del Defensor Municipal de Derechos Humanos:
+
+I. Recibir las quejas de la población de su municipalidad y remitirlas a la Comisión de Derechos Humanos del Estado de México, por conducto de sus visitadurías, en términos de la normatividad aplicable;
 
 II. Informar a la Comisión de Derechos Humanos del Estado, acerca de presumibles violaciones a los derechos humanos por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público que residan en el municipio de su adscripción;
 
-III. Conciliar, con la anuencia de la Comisión, las quejas que por su naturaleza estrictamente administrativa lo permitan;
+III. Observar que la autoridad municipal rinda de manera oportuna y veraz los informes que solicite la Comisión de Derechos Humanos;
 
-IV. Llevar el seguimiento de las recomendaciones que el organismo estatal dirija a las autoridades o servidores públicos del ayuntamiento;
+IV. Verificar que las medidas precautorias o cautelares solicitadas por la Comisión de Derechos Humanos del Estado de México sean cumplidas en sus términos, una vez aceptadas por la autoridad dentro de su municipio;
 
-V. Vigilar que se elaboren y rindan oportunamente los informes que la Comisión de Derechos Humanos del Estado de México solicite a la autoridad municipal, los cuales deberán contener la firma del servidor público respectivo;
+V. Elaborar acta circunstanciada por hechos que puedan ser considerados violatorios de derechos humanos que ocurran dentro de su adscripción, teniendo fe pública solo para ese efecto, debiendo remitirla a la Visitaduría correspondiente dentro de las 24 horas siguientes;
 
-VI. Promover el respeto a los derechos humanos por parte de los servidores públicos del ayuntamiento, por medio de cursos de capacitación y actualización;
+VI. Practicar conjuntamente con el Visitador respectivo las conciliaciones y mediaciones que se deriven de las quejas de las que tenga conocimiento, conforme lo establecen la Ley de la Comisión de Derechos Humanos del Estado de México y su reglamento;
 
-VII. Fortalecer la práctica de los derechos humanos con la participación de los organismos no gubernamentales del municipio;
+VII. Coadyuvar con la Comisión de Derechos Humanos del Estado de México en el seguimiento de las recomendaciones que el organismo dicte en contra de autoridades o servidores públicos que residan o ejerzan funciones dentro del municipio;
 
-VIII. Asesorar a las personas, en especial a los menores, personas de la tercera edad, indígenas, discapacitados y detenidos o arrestados por autoridades municipales, por la comisión de faltas administrativas, a fin de que les sean respetados sus derechos humanos;
+VIII. Proponer medidas administrativas a los servidores públicos para que durante el desempeño de sus funciones, actúen con pleno respeto a los derechos humanos;
 
-IX. Impulsar la protección de los derechos humanos, promoviendo, según las circunstancias del municipio, las disposiciones legales aplicables;
+IX. Desarrollar programas y acciones tendentes a promover los derechos humanos;
 
-X. Proponer acuerdos y circulares que orienten a los servidores públicos del ayuntamiento para que, durante el desempeño de sus funciones, actúen con pleno respeto a los derechos humanos; y
+X. Fomentar y difundir la práctica de los derechos humanos con la participación de organismos no gubernamentales del municipio;
 
-XI. Organizar actividades para la población a efecto de promover el fortalecimiento de la cultura de los derechos humanos.
+XI. Participar en las acciones y programas de los organismos no gubernamentales de derechos humanos de su municipio, así como supervisar las actividades y evento que éstos realicen;
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+XII. Asesorar y orientar a los habitantes de su municipio, en especial a los menores, mujeres, adultos mayores, personas en discapacidad, indígenas y detenidos o arrestados, a fin de que les sean respetados sus derechos humanos;
 
-Artículo 147 D.- El Coordinador Municipal de Derechos Humanos, en todo caso, deberá coordinar acciones con la Comisión de Derechos Humanos del Estado de México, específicamente con el Visitador General de la región a la que corresponda el municipio.
+XIII. Participar, promover y fomentar los cursos de capacitación que imparta la Comisión de Derechos Humanos del Estado de México;
 
-> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2004)</small>
+XIV. Coordinar acciones con autoridades de salud, de seguridad pública estatal y otras que correspondan, para supervisar que en los centros de atención de adicciones de su municipio no se vulneren los derechos humanos de las personas que se encuentran internadas en los mismos;
 
-Artículo 147 D Bis.- Los Coordinadores Municipales de Derechos Humanos ejercerán el presupuesto asignado con sujeción a las políticas de racionalidad, austeridad y disciplina presupuestal, debiendo cumplir con los programas y proyectos definidos por la Comisión de Derechos Humanos.
+XV. Supervisar las comandancias y cárceles municipales, a fin de verificar que cuenten con las condiciones necesarias para realizar sus funciones y no se vulneren los derechos humanos de las personas privadas de su libertad;
 
-> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2004)</small>
+XVI. Realizar investigaciones y diagnósticos en materia económica, social, cultural y ambiental, relacionados con la observancia y vigencia de los derechos humanos, para el planteamiento de políticas públicas y programas que se traduzcan en acciones que en la esfera de su competencia aplique el municipio, informando de ello a la Comisión de Derechos Humanos del Estado de México;
 
-Artículo 147 E.- El Coordinador Municipal de Derechos Humanos, rendirá un informe semestral de actividades al ayuntamiento reunido en sesión solemne de cabildo debiendo asistir el Comisionado de Derechos Humanos o quien lo represente.
+XVII. Proponer a la autoridad municipal y comprometer que privilegie la adopción de medidas para el ejercicio de los derechos siguientes: de protección y asistencia a la familia, a la alimentación, a la vivienda, a la salud, a la educación, a la cultura y a un medio ambiente sano, a partir de un mínimo universal existente que registre avances y nunca retrocesos;
 
-El Coordinador Municipal de Derechos Humanos deberá entregar en dicha reunión el informe respectivo al Comisionado de Derechos Humanos, o en su caso a quien lo represente en la misma.
+XVIII. Promover los derechos de la niñez, de los adolescentes, de la mujer, de los adultos mayores, de las personas en discapacidad, de los indígenas y en sí, de todos los grupos vulnerables; y
+
+XIX. Las demás que les confiera esta Ley, otras disposiciones y la Comisión de Derechos Humanos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 L.- El Defensor Municipal de Derechos Humanos deberá coordinar sus acciones con la Comisión de Derechos Humanos del Estado de México, a través del Visitador General de la región a la que corresponda el municipio.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 M.- El Defensor Municipal de Derechos Humanos ejercerá el presupuesto que le asigne el ayuntamiento, con sujeción a políticas de racionalidad, austeridad y disciplina presupuestal.
+
+Para tal efecto, el ayuntamiento anualmente deberá incluir en su presupuesto de egresos, las partidas correspondientes a la operatividad de la Defensoría Municipal de Derechos Humanos.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 N.- El Defensor Municipal de Derechos Humanos, rendirá un informe anual de actividades al ayuntamiento reunido en Sesión Solemne de Cabildo, debiendo asistir el Comisionado de Derechos Humanos de la entidad o quien lo represente.
+
+El Defensor Municipal de Derechos Humanos deberá entregar en dicha reunión el informe respectivo al Comisionado de Derechos Humanos del Estado de México, o en su caso a quien lo represente en la misma.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 O.- Corresponderá a la Comisión de Derechos Humanos del Estado de México expedir las disposiciones que reglamenten la organización y funcionamiento de las Defensorías Municipales de Derechos Humanos.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2403,7 +2193,7 @@ VI. Promover la capacitación y especialización permanente del personal que lab
 
 VII. Las que el ayuntamiento le asigne.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO SEGUNDO. De los Recursos Administrativos
 
@@ -2860,3 +2650,15 @@ Publíquese el presente decreto en el Periódico Oficial" Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 16 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá expedir las disposiciones que reglamenten la organización y funcionamiento de las Defensorías Municipales de Derechos Humanos, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, las cuales serán publicadas en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno" y en la Gaceta de la propia Comisión.
+
+QUINTO.- Los Coordinadores Municipales de Derechos Humanos, ahora Defensores Municipales de Derechos Humanos, cuya designación se realizó al amparo de las disposiciones que se modifican, reforman o adicionan, permanecerán en su encargo el periodo para el que fueron designados.
