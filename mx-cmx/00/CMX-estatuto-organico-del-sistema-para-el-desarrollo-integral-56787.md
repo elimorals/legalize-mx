@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-56787
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-09-24"
-last_updated: "2008-11-19"
+last_updated: "2009-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56787&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-07-06"
 
 ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE AGOSTO DE 2009.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 24 de septiembre de 2007.
 
@@ -108,7 +108,13 @@ VI. Dirección Ejecutiva de Apoyo a la Niñez
 
 VII. Dirección Ejecutiva de Apoyo a Personas con Discapacidad
 
-VIII. Coordinación de Administración
+> <small>(ADICIONADA, G.O. 6 DE AGOSTO DE 2009)</small>
+
+VII Bis. Dirección Ejecutiva de Niños Talento
+
+> <small>(REFORMADA, G.O. 6 DE AGOSTO DE 2009)</small>
+
+VIII. Dirección Ejecutiva de Administración
 
 IX. Contraloría Interna
 
@@ -368,7 +374,9 @@ IV. Establecer las normas de calidad e higiene que deben reunir los productos qu
 
 V. Vigilar la calendarización y distribución de las raciones alimenticias que distribuya y suministre el Organismo;
 
-VI. Desarrollar el programa anual de suministros alimenticios de los programas a su cargo, en coordinación con las áreas respectivas de la Coordinación de Administración;
+> <small>(REFORMADA, G.O. 6 DE AGOSTO DE 2009)</small>
+
+VI. Desarrollar el programa anual de suministros alimenticios de los programas a su cargo, en coordinación con las áreas respectivas de la Dirección Ejecutiva de Administración;
 
 VII. Planear y aplicar la evaluación y vigilancia del estado de nutrición de grupos y atención prioritaria identificados por esta Dirección, así como programas de orientación alimentaria;
 
@@ -376,11 +384,47 @@ VIII. Proponer a la Dirección General la celebración de convenios o acuerdos i
 
 IX. Someter a consideración de la Dirección General criterios de aplicación general en materia alimentaria en el campo de acción del Organismo;
 
-X. Turnar a las entidades participantes y a la Coordinación de Administración la información proporcionada por las vocalías de desayunos escolares y comités de los Espacios de Alimentación, Encuentro y Desarrollo (EAED) sobre las cuotas de recuperación; y
+> <small>(REFORMADA, G.O. 6 DE AGOSTO DE 2009)</small>
+
+X. Turnar a las entidades participantes y a la Dirección Ejecutiva de Administración la información proporcionada por las vocalías de desayunos escolares y comités de los Espacios de Alimentación, Encuentro y Desarrollo (EAED) sobre las cuotas de recuperación; y
 
 XI. Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
-### CAPÍTULO VIII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE APOYO A LAS PERSONAS CON DISCAPACIDAD
+### CAPÍTULO VII BIS. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE NIÑOS TALENTO
+
+> <small>(ADICIONADO, G.O. 6 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 18 Bis.
+
+A la Dirección Ejecutiva de Niños Talento, le corresponden las siguientes funciones:
+
+I.- Planear, organizar, integrar, dirigir, supervisar, evaluar y dar seguimiento de acuerdo a las normas y los lineamientos establecidos, en el Programa de Niñ@s Talento.
+
+II.- Establecer, de acuerdo a los lineamientos y directrices fijados por la Dirección General, las políticas orientadas a promover, fomentar y operar un sistema de estímulos que permitan el desarrollo de los talentos de las niñ@s de 6 a 13 años de edad, con un promedio de 9.0 de calificación en adelante que vivan en el Distrito Federal y que estudien en escuelas públicas en el Distrito Federal, mediante la impartición de actividades y clases extraescolares.
+
+III.- Promover y fomentar en los beneficiarios de los programas de l@s niñ@s Talento, una cultura de innovación, orientada a la mejora en la convivencia y de las condiciones de vida de los habitantes de la ciudad de México.
+
+IV.- Propiciar la formación de l@s niñ@s Talento con los valores de la equidad de género, la vida en libertad, la identidad de nuestra cultura, y la conciencia ecológica.
+
+V.- Establecer estrategias que permitan apoyar y acompañar el desarrollo de l@s niñ@s a lo largo de toda su formación académica en los niveles de educación primaria y secundaria.
+
+VI.- Elaborar e implementar programas y mecanismos para reconocer la dedicación y esfuerzo de los niños y niñas con mejores calificaciones.
+
+VII.- Fomentar la integración familiar, la motivación permanente, el gusto por las artes, la cultura y los deportes, así como la sana y productiva convivencia en las familias de l@s niñ@s Talento beneficiados, a través de organización de eventos de toda índole, que contribuyan al logro de los objetivos de sus programas.
+
+VIII.- Proponer a la Dirección General las medidas de modernización y simplificación, para mejorar la Eficiencia en la administración de los recursos y la eficacia en el cumplimiento de sus objetivos.
+
+IX.- Proporcionar dentro del ámbito de su competencia la información, cooperación y dictámenes técnicos que le sean requeridos, tanto por las áreas del Organismo, como por las dependencias y entidades de la administración pública federal y local de acuerdo a las políticas que al efecto se establezcan.
+
+X.- Promover relaciones institucionales e interinstitucionales para fortalecer las acciones de los programas de Niñ@s Talento.
+
+XI.- Difundir y promover en las familias de los niños de la ciudad de México una cultura de Excelencia Académica, competitividad y compromiso social.
+
+XII.- Definir los perfiles requeridos del personal adecuado para la operación de los programas; y definir los criterios de selección de tutores para la impartición de las disciplinas.
+
+XIII.- Fungir como enlace en las resoluciones o acuerdos del consejo del Programa de Niñ@s Talento.
+
+XIIV.- Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
 ###### ARTÍCULO 18.
 
@@ -428,15 +472,23 @@ XX. Definir los perfiles requeridos del personal adecuado para la operación de 
 
 > <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
 
-XXI. Promover y fomentar Programas emergentes que permitan abastecer de agua potable para beneficiar a familias de escasos recursos que radican en zonas marginadas, carezcan de este servicio público en forma permanente o lo reciban en forma intermitente, en coordinación con el Sistema de Aguas del Distrito Federal; y
+XXI. Promover y fomentar Programas emergentes que permitan abastecer de agua potable para beneficiar a familias de escasos recursos que radican en zonas marginadas, carezcan de este servicio público en forma permanente o lo reciban en forma intermitente, en coordinación con el Sistema de Aguas del Distrito Federal; y (sic)
 
-> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 6 DE AGOSTO DE 2009)</small>
 
-XXIII (SIC). Las demás que le confiera la Dirección General y las disposiciones aplicables.
+XXII. Las demás que le confiera la Dirección General y las disposiciones aplicables;
 
-### CAPÍTULO IX. DE LAS ATRIBUCIONES DE LA COORDINACIÓN DE ADMINISTRACIÓN
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE AGOSTO DE 2009)</small>
 
-### CAPÍTULO X. DE LAS ATRIBUCIONES DE LA CONTRALORÍA INTERNA
+XXIII. Brindar las facilidades y apoyo necesario para que la Dirección Ejecutiva de Niños Talento lleve a cabo las actividades extraescolares y eventos correspondientes al Programa Niños Talento.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 6 DE AGOSTO DE 2009)</small>
+
+### CAPÍTULO VIII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE APOYO A LAS PERSONAS CON DISCAPACIDAD
+
+### CAPÍTULO IX. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 19.
 
@@ -480,11 +532,13 @@ XVIII. Asistir legalmente a las personas con discapacidad ante la autoridad judi
 
 XIX. Las demás que le confieran la Dirección General y las disposiciones legales vigentes.
 
-### CAPÍTULO XI. DE LAS ATRIBUCIONES COMUNES DE LAS O LOS DIRECTORES Y COORDINADORAS O COORDINADORES
+> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE AGOSTO DE 2009)</small>
+
+### CAPÍTULO X. DE LAS ATRIBUCIONES DE LA CONTRALORÍA INTERNA
 
 ###### ARTÍCULO 20.
 
-A la Coordinación de Administración, le corresponde la atención de los siguientes asuntos:
+A la Dirección Ejecutiva de Administración, le corresponde la atención de los siguientes asuntos:
 
 I. Establecer, de acuerdo a los lineamientos y directrices emitidos por la Dirección General, Dependencias y Entidades Federales y locales y con apego a la normatividad aplicable, las políticas y procedimientos generales a observar en las relaciones laborales con el personal del Organismo, así como coordinar, administrar y supervisar todas las actividades necesarias para atender los requerimientos de los trabajadores de este Organismo, de una manera efectiva, con la aplicación debida de las Políticas, Normas y Procedimientos señalados en las Condiciones Generales de Trabajo vigentes y Leyes Complementarias;
 
@@ -592,7 +646,7 @@ XLVIII. Expedir previo cotejo, copias certificadas de los documentos que obren e
 
 XLIX. Las demás que le confiera la Dirección General y las disposiciones legales vigentes.
 
-### CAPÍTULO XII. DE LAS ATRIBUCIONES DE LA COMISARIA O COMISARIO
+### CAPÍTULO XI. DE LAS ATRIBUCIONES COMUNES DE LAS O LOS DIRECTORES
 
 ###### ARTÍCULO 21.
 
@@ -674,21 +728,27 @@ XXI. Ordenar y realizar visitas e inspecciones a las instalaciones de los provee
 
 XXII. Las demás atribuciones que se deriven de este Estatuto, así como las que le instruya el titular de la Contraloría General, el titular de la Dirección General de Contralorías Internas en Entidades; y las que le otorguen otros ordenamientos jurídicos ó administrativos.
 
-### CAPÍTULO XIII. DE LA SUPLENCIA DE LAS Y LOS SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE AGOSTO DE 2009)</small>
+
+### CAPÍTULO XII. DE LAS ATRIBUCIONES DE LA COMISARIA O COMISARIO
 
 ###### ARTÍCULO 22.
 
 Las Directoras o Directores Ejecutivos y Coordinadoras o Coordinadores serán auxiliados en el desempeño de sus funciones por las o los Directores, Subdirectoras o Subdirectores, Jefas o Jefes de Departamento, Líderes Coordinadores de Proyectos " A " y "C", y en general, por el personal que ellos requieran.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 23.
 
-A las o los Directores Ejecutivos y Coordinadoras o Coordinadores, les corresponden las siguientes atribuciones comunes:
+A las o los Directores Ejecutivos les corresponden las siguientes atribuciones comunes:
 
 I. Acordar con la Directora o Director General sobre la atención y resolución de los asuntos de su competencia, poniendo en práctica el cumplimiento de los mismos;
 
 II. Planear, programar, organizar, ejecutar, controlar y evaluar los programas que le sean encomendados a sus respectivas áreas, en atención a los lineamientos y políticas aplicables, así como asesorar técnicamente en los asuntos de su especialidad a los demás servidores públicos del Organismo;
 
-III. Elaborar los anteproyectos de presupuesto relativos a las respectivas áreas a su cargo y remitirlos a la Coordinación de Administración, en los términos requeridos;
+> <small>(REFORMADA, G.O. 6 DE AGOSTO DE 2009)</small>
+
+III. Elaborar los anteproyectos de presupuesto relativos a las respectivas áreas a su cargo y remitirlos a la Dirección Ejecutiva de Administración, en los términos requeridos;
 
 IV. Atender los asuntos relacionados con la administración del personal adscrito a sus respectivas áreas, conforme a los lineamientos establecidos;
 
@@ -702,7 +762,7 @@ VIII. Mantener permanentemente informado a la Directora o Director General de la
 
 IX. Las demás que les confieran, respectivamente, la Dirección General y las disposiciones legales aplicables.
 
-### CAPÍTULO XIV. DE LAS MODIFICACIONES AL ESTATUTO
+### CAPÍTULO XIII. DE LA SUPLENCIA DE LAS Y LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 24.
 
@@ -741,6 +801,8 @@ XI. Solicitar y verificar que se incluya, en el orden del día, los asuntos que 
 XII. Rendir anualmente un informe sobre los estados financieros, con base en el dictamen de los auditores externos, a la Junta de Gobierno; y
 
 XIII. Las demás inherentes a su función, así como las que expresamente le señale la Contraloría General del Distrito Federal.
+
+### CAPÍTULO XIV. DE LAS MODIFICACIONES AL ESTATUTO
 
 ###### ARTÍCULO 27.
 
@@ -781,3 +843,7 @@ PRIMERO. Las reformas del presente Estatuto entrará en vigor al día siguiente 
 G.O. 19 DE NOVIEMBRE DE 2008.
 
 PRIMERO. Las reformas del presente Estatuto entrará (sic) en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 6 DE AGOSTO DE 2009.
+
+PRIMERO. El presente aviso entrará en vigor al día siguiente de su firma.
