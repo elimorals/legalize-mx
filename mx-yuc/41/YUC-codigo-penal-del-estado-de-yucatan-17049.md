@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2008-07-23"
+last_updated: "2009-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE AGOSTO DE 2009.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -3333,6 +3333,14 @@ III. Que éste no sea fruto de matrimonio.
 
 Faltando alguna de las circunstancias mencionadas, se le impondrá de uno a cinco años de prisión.
 
+> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2009)</small>
+
+Tratándose de las sanciones a que se refiere este artículo, aplicables a la mujer que se procure su aborto, el juez queda facultado para sustituirlas por un tratamiento médico integral; bastará que lo solicite y ratifique la responsable.
+
+> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2009)</small>
+
+El tratamiento referido en este precepto será provisto por las Instituciones de Salud del Estado y tendrá como objeto la atención integral de las consecuencias generadas con motivo de la práctica del aborto provocado, así como el de reafirmar los valores humanos por la maternidad procurando el fortalecimiento de la familia.
+
 ###### ARTÍCULO 393.
 
 El aborto no es sancionable en los siguientes casos:
@@ -3560,3 +3568,9 @@ D.O. 23 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a los 30 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 7 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
