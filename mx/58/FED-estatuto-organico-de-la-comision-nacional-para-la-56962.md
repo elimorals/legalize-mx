@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-56962"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-10-04"
-last_updated: "2007-10-04"
+last_updated: "2009-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-09-20"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE AGOSTO DE 2009.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de octubre de 2007.
 
@@ -609,9 +609,13 @@ XVI. Solicitar a las autoridades competentes, la información y/o documentación
 
 XVII. Participar en el diseño y ejecución de los programas de capacitación permanente para los Defensores de la Comisión Nacional;
 
-XVIII. Formular, en coordinación con la Dirección General de Servicios Legales, las políticas y lineamientos que se deberán observar en relación con las funciones de la Comisión Nacional que le son atribuidas, y
+XVIII. Formular, en coordinación con la Dirección General de Servicios Legales, las políticas y lineamientos que se deberán observar en relación con las funciones de la Comisión Nacional que le son atribuidas, y (sic)
 
-XIX. Atender y resolver las consultas que en materia jurídica formulen las autoridades, las Instituciones Financieras y los Usuarios, y, en coordinación con la Dirección General de Análisis de Servicios y Productos Financieros, atender las que se realicen en materia financiera.
+XIX. Atender y resolver las consultas que en materia jurídica formulen las autoridades, las Instituciones Financieras y los Usuarios, y, en coordinación con la Dirección General de Análisis de Servicios y Productos Financieros, atender las que se realicen en materia financiera;
+
+> <small>(ADICIONADA, D.O.F. 7 DE AGOSTO DE 2009)</small>
+
+XX. Recibir y atender las solicitudes de los usuarios que presuman beneficiarios de algún seguro de vida, ya sean individuales o colectivos, incluyendo aquellos que se obtienen por la contratación de productos y servicios financieros.
 
 Las atribuciones establecidas en el presente artículo podrán ser ejercidas directamente por el Director General o, indistintamente, a través de los Directores de Defensa a Usuarios, de Interventoría y Asuntos Penales o Consultivo; y, en ausencia de éstos, dichas atribuciones serán ejercidas, en el siguiente orden, por los Subdirectores, Jefes de Departamento, Defensores, Interventores, Especialistas o Analistas de su adscripción.
 
@@ -807,7 +811,7 @@ VII. Formalizar los contratos de prestación de servicios profesionales de honor
 
 VIII. Coordinar la elaboración, establecimiento, ejecución, control y evaluación del programa de inducción a la Comisión Nacional y al área de trabajo del personal de nuevo ingreso;
 
-IX. Coordinar el desarrollo, establecimiento, ejecución, control y evaluación del Sistema del Servicio Profesional de Carrera de la Comisión Nacional;
+IX. (DEROGADA, D.O.F. 7 DE AGOSTO DE 2009)
 
 X. Imponer y/o notificar sanciones a los empleados de la Comisión Nacional, en caso de que contravengan las disposiciones aplicables;
 
@@ -1098,3 +1102,9 @@ CUARTO.- Las actuaciones que hayan sido iniciadas por las unidades administrativ
 Atentamente
 
 Ciudad de México, a 20 de septiembre de 2007.- El Presidente de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Luis Alberto Pazos De la Torre.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 7 DE AGOSTO DE 2009.
+
+PRIMERO.- Las presentes adiciones y derogaciones entran en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
