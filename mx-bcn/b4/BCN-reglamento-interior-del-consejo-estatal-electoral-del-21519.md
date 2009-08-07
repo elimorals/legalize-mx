@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-consejo-estatal-electoral-del-21519"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-04-13"
-last_updated: "2001-04-13"
+last_updated: "2009-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO GENERAL ELECTORAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA, PUBLICADO EN EL P.O. DE 7 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de abril de 2001.
 
@@ -1210,3 +1212,19 @@ PRESIDENTE
 LIC. ROBERTO VILLA GONZÁLEZ
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor de forma inmediata a su aprobación por el Pleno del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Consejo Estatal Electoral, aprobado en la Segunda Sesión Ordinaria celebrada en la ciudad de Mexicali, Baja California, el día veintiocho de marzo del año dos mil uno, y reformas aprobadas durante la Séptima Sesión Extraordinaria de fecha veinticuatro de marzo del año dos mil cuatro.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Reglamento en el Periódico Oficial del Estado de Baja California.
