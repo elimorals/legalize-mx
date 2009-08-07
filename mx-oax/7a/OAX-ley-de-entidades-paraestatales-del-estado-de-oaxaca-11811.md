@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "2009-02-14"
+last_updated: "2009-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -43,11 +43,13 @@ LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
 ### CAPITULO I. DISPOSICIONES FUNDAMENTALES
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es reglamentaria de la fracción IV del artículo 90 de la Constitución Política del Estado Libre y Soberano de Oaxaca y tiene por objeto normar la creación, integración, operación, control y evaluación de las entidades que conforman el Sector Paraestatal de la Administración Pública Estatal, así como de los Fideicomisos Públicos en los que el fideicomitente sea el Gobierno del Estado.
+La presente Ley tiene como objeto normar la creación, integración, operación, control y evaluación de las Entidades que conforman el Sector Paraestatal de la Administración Pública Estatal.
 
-Las relaciones del Ejecutivo Estatal o de sus dependencias, con las entidades paraestatales contempladas en esta Ley se sujetarán, en primer término, a lo establecido en esta ley y sus disposiciones reglamentarias, la Ley Orgánica del Poder Ejecutivo del Estado y, sólo en lo no previsto, a la (sic) demás normatividad aplicable.
+Las relaciones del Ejecutivo Estatal o de sus dependencias, con las entidades paraestatales contempladas en esta Ley, se sujetarán en primer término, a lo establecido en esta Ley y sus disposiciones reglamentarias, la Ley Orgánica del Poder Ejecutivo del Estado y en lo no previsto, a la normatividad aplicable.
 
 ###### ARTICULO 2o.
 
@@ -89,7 +91,9 @@ Sin menoscabo de lo dispuesto en el párrafo anterior, las entidades paraestatal
 
 Las entidades quedan sujetas al control y vigilancia del Ejecutivo del Estado, en los términos de esta Ley y de las demás disposiciones aplicables, por conducto de las Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría, en el respectivo ámbito de sus atribuciones y por las dependencias de la Administración Pública Centralizada, que al efecto se determinen como Coordinadoras de Sector o aquellas a que les estén sectorizadas.
 
-Todos los bienes muebles o inmuebles que constituyan el patrimonio del Estado, incluyendo los de las entidades paraestatales, los organismos auxiliares, las unidades de servicios culturales y turísticos y los de las entidades paraestatales de los municipios son inembargables. En consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Gobierno del Estado o de su hacienda, sino que tales sentencias se comunicarán al Titular del Poder Ejecutivo, a fin de que si no hubiere partida en el Presupuesto de Egresos del año siguiente, se solicite de la Legislatura del Estado, la expedición de un decreto especial que autorice la erogación.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
+Los bienes muebles e inmuebles de las Entidades Paraestatales incluyendo los de las Entidades Auxiliares de colaboración son patrimonio del Estado, y por lo tanto, son inembargables. En consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Gobierno del Estado o de su hacienda, sino que tales sentencias se comunicarán al Titular del Poder Ejecutivo, a fin de que si no hubiere partida en el Presupuesto de Egresos, se solicite a la Legislatura del Estado, la expedición de un decreto especial que autorice la erogación para el siguiente ejercicio fiscal. En los mismos términos son inembargables las cuentas bancarias, depósitos en efectivo, todo tipo de valores, fondos y recursos presupuestales y todo derecho de crédito pertenecientes a las Entidades Paraestatales, incluyendo los pertenecientes a las Entidades Auxiliares de Colaboración.
 
 ###### ARTICULO 6o.
 
@@ -141,7 +145,9 @@ I. Órgano de Gobierno, sea cual fuere su denominación, y
 
 II. Director General o equivalente.
 
-En todas las entidades paraestatales, se designará un Subdirector General o equivalente, para auxiliar a los titulares de las direcciones y sustituirlos en sus faltas temporales.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
+Cada Entidad Paraestatal, de acuerdo con su decreto de creación, su estructura orgánica autorizada y presupuesto autorizado, podrá contar con un Subdirector General o equivalente quien auxiliará al Titular de la Entidad en sus funciones y lo suplirá en sus ausencias temporales.
 
 Los Directores Generales y Subdirectores o equivalentes serán designados por el Ejecutivo Estatal y cumplirán los requisitos que exige el artículo 83 de la Constitución Política del Estado.
 
@@ -151,19 +157,25 @@ Aquellas entidades paraestatales cuyo órgano de gobierno sea unipersonal, se se
 
 El Organo de Gobierno de la entidad paraestatal deberá integrarse con:
 
-I. Un Presidente, que será el Titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+I. Un Presidente, que será el Titular de la Secretaría coordinadora del Sector que corresponda;
 
 II. Un Secretario Técnico, que será el Director General de la Entidad Paraestatal o su equivalente;
 
 III. Vocales, el número que dispongan los actos jurídicos de creación; y
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
 
-IV. Un Comisario, que será el Delegado Contralor o el representante de la Secretaría de la Contraloría.
+IV. Un Comisario, que será el Secretario de la Contraloría;
 
-El número de integrantes del órgano de Gobierno comprenderá un mínimo de cinco y un máximo de quince miembros propietarios y de sus respectivos suplentes. Los suplentes serán los servidores públicos que designe el Titular del Poder ejecutivo.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2009)</small>
 
-La calidad de los suplentes designados, se acreditará mediante el oficio respectivo, dirigido al presidente del órgano de gobierno. El cargo de suplente será indelegable de manera que no se podrán acreditar representantes de éste en las sesiones del propio órgano de gobierno.
+El número de integrantes del Órgano de Gobierno comprenderá un mínimo de cinco y un máximo de quince miembros propietarios y de sus respectivos suplentes. Los suplentes serán los servidores públicos que designe cada miembro propietario.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
+La calidad de suplente, se acreditará mediante el oficio respectivo que expida el miembro propietario dirigido al Presidente del Órgano de Gobierno. El cargo de suplente será indelegable, por lo que no se podrán acreditar representantes de éste en las sesiones del Órgano de Gobierno.
 
 En ningún caso, podrán ser miembros del Organo de Gobierno:
 
@@ -189,7 +201,9 @@ IV. Aprobar la concertación de obligaciones para el financiamiento de la entida
 
 V. Aprobar previo informe de los Comisarios y dictamen de los Auditores Externos, los estados financieros anuales de la entidad paraestatal y autorizar la publicación de los mismos;
 
-VI. Aprobar de acuerdo con las leyes aplicables y el Reglamento de esta Ley, las políticas, bases y programas generales, que regulen los convenios, contratos, pedidos o acuerdos que deban celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+VI. Aprobar de acuerdo con las Leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deban celebrar la Entidad Paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
 VII. Proponer al Ejecutivo Estatal, por conducto de la Comisión Intersecretarial de Gasto-Financiamiento, con intervención de la Dependencia Coordinadora de Sector, los convenios de fusión con otras entidades paraestatales;
 
@@ -203,13 +217,21 @@ XI. Aprobar la constitución de reservas y aplicación de excedentes financieros
 
 XII. Observar las normas y bases para la adquisición, arrendamiento y enajenación de muebles e inmuebles que la entidad paraestatal requiera, para la prestación de sus servicios, con sujeción a las disposiciones legales respectivas;
 
-XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios; y
+XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios; y (sic)
 
-XIV. Las demás que le determine el instrumento de creación de la entidad paraestatal.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+XIV. Aprobar y autorizar el Reglamento Interno y los manuales administrativos de la Entidad para su publicación; y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+XV. Las demás que le determine el instrumento de creación de la Entidad Paraestatal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 13.
 
-Serán atribuciones del Director General o equivalente en la entidad paraestatal, las siguientes:
+Al frente de cada Entidad Paraestatal habrá un Director General o equivalente, quien tendrá las siguientes atribuciones:
 
 I. Administrar y representar legalmente a la entidad paraestatal;
 
@@ -225,7 +247,9 @@ VI. Establecer los procedimientos para controlar la calidad de los suministros y
 
 VII. Recabar información y elementos estadísticos, que reflejen el estado de las funciones en la entidad paraestatal, a fin de mejorar las gestiones de la misma;
 
-VIII. Establecer los sistemas de control internos necesarios para alcanzar las metas u objetivos propuestos;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+VIII. Establecer los sistemas de control internos necesarios para alcanzar las metas u objetivos propuestos, así como presentar los proyectos de Reglamento Interno y Manuales Administrativos ante el Órgano de Gobierno para su aprobación;
 
 IX. Presentar trimestralmente al Órgano de Gobierno, el informe del desempeño de las actividades de la entidad paraestatal, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo, se cotejarán las metas propuestas y los compromisos asumidos por la dirección con las realizaciones alcanzadas;
 
@@ -251,11 +275,37 @@ III. Presentar, dentro del ámbito de su competencia, denuncias y formular quere
 
 IV. Emitir y negociar títulos de crédito, conforme a la Ley de Deuda Pública Estatal y Municipal;
 
-V. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas, las que requieran autorización o cláusula especial previa autorización del Órgano de Gobierno. Los poderes generales, para surtir efectos frente a terceros, deberán inscribirse conforme a la Ley respectiva, así como en el Registro de entidades paraestatales de la Administración Pública Estatal; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
 
-VI. Sustituir y revocar poderes generales o especiales.
+V. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas, las que requieran autorización o cláusula especial.
+
+Sólo se requerirá la autorización del Órgano de Gobierno cuando se trate de poderes para actos de administración o de dominio;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+VI. Sustituir y revocar poderes generales o especiales; y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+VII. Autorizar a los titulares de las áreas jurídicas de las Entidades Paraestatales y sus abogados adscritos, el desistimiento de las acciones civiles y a otorgar el perdón o desistimiento en las denuncias o querellas de carácter penal.
 
 El Director General o equivalente, ejercerá las atribuciones a que se refiere este artículo, bajo su más estricta responsabilidad, informando siempre de ello al Órgano de Gobierno.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 14 Bis.
+
+Los titulares de las áreas jurídicas de las Entidades Paraestatales y sus abogados adscritos, no requerirán poder general o especial para comparecer ante autoridades jurisdiccionales, administrativas o del trabajo, ya sean federales, estatales o municipales; bastará para acreditar su representación legal, su nombramiento respectivo. Los servidores públicos indicados, en el ejercicio de esa representación legal, tendrán las siguientes facultades:
+
+I. Representar legalmente tanto a la Entidad Paraestatal, como al Director General de la misma. Esta representación tendrá los efectos de mandato judicial, cuando en el proceso así sea necesario y se entiende conferida sin perjuicio de que, en su caso, el Director General asuma por sí mismo la intervención que en dichos actos le corresponde;
+
+II. Ejercitar cualquier acción civil, denunciar delitos o presentar querellas, desistirse del trámite de las acciones civiles, otorgar el perdón o desistirse de las denuncias o querellas penales, ratificar cualquier demanda o promoción absolver posiciones, transar o celebrar convenios que den fin a los procesos, ofrecer y acudir al desahogo de cualquier prueba, alegar, recurrir cualquier resolución o inconformarse ante autoridades de alzada o amparo, y en general todo acto que permita una defensa adecuada de sus representados;
+
+III. Realizar todo tipo de acto o trámite relacionado con la defensa del patrimonio de la entidad, ante cualquier persona del derecho público o privado, así como ejercitar las acciones vinculadas con la materia;
+
+IV. Dar cuenta de las controversias judiciales o administrativas en general, a la Consejería Jurídica del Gobierno del Estado, para la coordinación de estrategias y acciones legales en defensa de los derechos de las entidades paraestatales; y
+
+V. Las demás que le confieran las leyes y reglamentos vigentes en el Estado o las que le sean delegadas por las autoridades de la Entidad.
 
 ###### ARTICULO 15.
 
@@ -268,6 +318,10 @@ El órgano de Gobierno, deberá celebrar sesiones ordinarias cuando menos trimes
 Podrán celebrarse sesiones extraordinarias, cada vez que el Presidente lo estime conveniente o a petición de una tercera parte del total de los integrantes del Órgano de Gobierno.
 
 Los integrantes del Órgano de Gobierno, participarán en las sesiones a que se refiere este artículo, con voz y voto, a excepción del Secretario Técnico y el Comisario, quienes tendrán voz pero no voto. En caso de empate, el Presidente del Órgano de Gobierno, tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
+La sesión de instalación del Órgano de Gobierno de las Entidades Paraestatales, se celebrará únicamente por cambio del Titular del Poder Ejecutivo; en caso de cambio de titulares de la Administración Pública se realizará sesión ordinaria de presentación de nuevos miembros.
 
 ###### ARTICULO 17.
 
@@ -289,7 +343,9 @@ Toda enajenación de bienes muebles que afecte el patrimonio de las entidades pa
 
 La enajenación o afectación de los bienes inmuebles de las entidades paraestatales, sólo podrá hacerse con autorización de la H. Legislatura del Estado, a propuesta del Titular del Poder Ejecutivo; conforme a la legislación aplicable.
 
-## TITULO II. DE LAS ENTIDADES PARAESTATALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE AGOSTO DE 2009)</small>
+
+## TITULO II. DE LAS ENTIDADES PARAESTATALES Y DE LAS ENTIDADES AUXILIARES DE COLABORACION
 
 ### CAPITULO I. ORGANISMOS DESCENTRALIZADOS
 
@@ -399,13 +455,31 @@ En los contratos constitutivos de Fideicomisos de la Administración Pública Es
 
 Independientemente de lo dispuesto en este Capítulo, el Gobernador del Estado podrá constituir fideicomisos con participación estatal y los sectores privado y social, con la aprobación del Congreso del Estado, cuyo único fin será impulsar el desarrollo sustentable del Estado, en los términos de la Ley de la materia.
 
-### CAPITULO I. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2009)</small>
+
+### CAPITULO V. DE LAS ENTIDADES AUXILIARES DE COLABORACION
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 37 Bis.
+
+Las Entidades Auxiliares de Colaboración contarán con personalidad jurídica y autonomía de gestión, y tendrán por objeto colaborar de manera temporal o permanente en el desempeño de determinadas tareas o asuntos de la Administración Pública Paraestatal, que no estén expresamente conferidas a otras Entidades pero le sean afines. Podrán ser creadas por decreto de la Legislatura del Estado o del Gobernador, y sus autoridades pueden ser colegiadas o unipersonales.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
+ARTICULO 37 Bis A.- Las Entidades Auxiliares de Colaboración dependerán administrativamente de la Entidad Paraestatal que su decreto de creación determine y tendrá atribuciones, funciones y objetivos afines a ésta.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
+ARTICULO 37 Bis B.- Conforme a lo dispuesto en el artículo anterior y para que exista una relación jerárquica entre la Entidad Paraestatal y la Entidad Auxiliar de Colaboración el Titular de esta última, tendrá el nombramiento de Director o equivalente. En caso de Entidades Paraestatales de Servicios Educativos de Nivel Superior, podrán contar con Rectores, de acuerdo con sus instrumentos de creación.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
+ARTICULO 37 Bis C.- La constitución, actuación, extinción y autoridad o autoridades de las Entidades Auxiliares de Colaboración, se sujetaran a lo previsto en su instrumento de creación y supletoriamente en la presente Ley y demás disposiciones legales vigentes.
 
 ## TITULO III. DE LA OPERACION DE LAS ENTIDADES PARAESTATALES
 
-### CAPITULO II. DEL CONTROL Y VIGILANCIA POR PARTE DEL EJECUTIVO ESTATAL
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+### CAPITULO I. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTO
 
 ###### ARTICULO 38.
 
@@ -441,7 +515,7 @@ Las entidades paraestatales, en lo tocante al ejercicio de sus presupuestos, con
 
 Las entidades paraestatales, elaborarán trimestralmente estados financieros y de deuda pública; mismos que, una vez aprobados en los términos de la fracción V del artículo 12 de la presente Ley, deberán publicarse en el Periódico Oficial del Gobierno del Estado, dentro del término de 45 días naturales posteriores al cierre de cada trimestre.
 
-### CAPITULO III. DEL REGISTRO DE ENTIDADES PARAESTATALES
+### CAPITULO II. DEL CONTROL Y VIGILANCIA POR PARTE DEL EJECUTIVO ESTATAL
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
@@ -491,9 +565,29 @@ III. Llevar el control administrativo de los recursos humanos y materiales de la
 
 IV. Dictar las disposiciones que normen la contratación, remuneración y prestaciones, que deban efectuarse a los servidores públicos de las entidades paraestatales;
 
-V. Vigilar que los Acuerdos de Coordinación que se realicen con Dependencias y Entidades Federales, dentro de su respectivo ámbito de competencia, se lleven a cabo dentro del marco de los convenios respectivos; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
 
-VI. Las demás que le determinen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones legales aplicables.
+V. Vigilar que los Acuerdos de Coordinación que se realicen con Dependencias y Entidades Federales, dentro de su respectivo ámbito de competencia, se lleven a cabo dentro del marco de los convenios respectivos;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+VI. Supervisar la instalación y funcionamiento de los Órganos de Gobierno de las Entidades Paraestatales, con el propósito de promover la eficacia y eficiencia de la Administración Pública Paraestatal de conformidad con los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+VII. Vigilar que cada Entidad Paraestatal mantenga actualizada su normatividad;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+VIII. Establecer, coordinadamente con las Entidades Paraestatales un programa de modernización administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública Paraestatal, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+IX. Proponer, para acuerdo del Gobernador del Estado, la organización interna de las Entidades Paraestatales; y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+X. Las demás que le determinen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
@@ -519,9 +613,9 @@ VIII. Vigilar que las entidades paraestatales, cumplan con las normas y disposic
 
 IX. Realizar revisiones tendientes a verificar que en las entidades paraestatales, se observen las normas y disposiciones en materia de sistema de registro, contabilidad, contratación y pago de personal;
 
-X. Establecer, coordinadamente con las entidades paraestatales, un Programa de Modernización Administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo;
+X. (DEROGADA, P.O. 7 DE AGOSTO DE 2009)
 
-XI. Proponer, previo acuerdo del Gobernador del Estado, la organización interna de las entidades paraestatales; y
+XI. (DEROGADA, P.O. 7 DE AGOSTO DE 2009)
 
 XII. Las demás que les determinen las leyes, reglamentos, decretos, acuerdos y demás disposiciones legales aplicables.
 
@@ -549,6 +643,10 @@ VII. Las demás que le determine esta Ley y la normatividad aplicable.
 
 Cuando por reformas a las Leyes, varíe la denominación o atribuciones de las Secretarías de Finanzas, de Administración, y de la Contraloría o de las Coordinadoras de Sector, sus funciones serán ejercidas por la o las dependencias que conforme a la nueva legislación, correspondan tales atribuciones.
 
+### CAPITULO III. DEL REGISTRO DE ENTIDADES PARAESTATALES
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 51.
 
 Se establece el Registro de entidades paraestatales de la Administración Pública Estatal, el cual estará a cargo de la Secretaría de la Contraloría.
@@ -565,7 +663,7 @@ III. Nombramiento y cargo de cada de los integrantes propietarios y suplentes de
 
 IV. Nombramiento, sustitución y en su caso, remoción del Director General;
 
-V. Los poderes generales, especiales y sus revocaciones;
+V. (DEROGADA, P.O. 7 DE AGOSTO DE 2009)
 
 VI. En el caso de las Empresas de Participación Estatal, las actas de asamblea que celebren;
 
@@ -577,11 +675,11 @@ VIII. Los demás documentos o actos que determine el Reglamento de este ordenami
 
 El Reglamento de esta Ley, determinará la constitución y funcionamiento del Registro, así como las formalidades de las inscripciones y anotaciones.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 54.
 
-La Secretaría de la Contraloría, en el mes de noviembre de cada año, publicará en el Periódico Oficial del Gobierno del Estado, la relación de las entidades paraestatales por sectorización, que formen parte de la Administración Pública Estatal.
+El Titular del Poder Ejecutivo del Estado emitirá el acuerdo de sectorización de las entidades Paraestatales. Dicho acuerdo y sus modificaciones deberán publicarse en el Periódico Oficial del Gobierno del Estado. El Control de la sectorización se llevará a cabo a través de la Secretaría de Administración.
 
 TRANSITORIOS:
 
@@ -662,3 +760,15 @@ SEGUNDO.- Los instrumentos de creación de las entidades paraestatales vigentes 
 P.O. 14 DE FEBRERO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado deberá promover ante el Congreso del Estado o emitir, según corresponda, las modificaciones a los instrumentos de creación de las entidades paraestatales, en un término de doce meses contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- El Titular de la Consejería Jurídica del Gobierno del Estado, deberá emitir en un plazo de sesenta días posteriores a la publicación de la reforma, las normas técnicas correspondientes para establecer el Sistema de Coordinación para la Defensa Legal de las Entidades Paraestatales.
+
+CUARTO.- Se derogan las anteriores disposiciones que se opongan al presente decreto.
+
+QUINTO.- El Congreso del Estado procederá a realizar las adecuaciones a las leyes, decretos y demás ordenamientos vigentes, que se deriven de la aplicación del presente decreto.
