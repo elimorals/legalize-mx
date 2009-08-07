@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2009-03-18"
+last_updated: "2009-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2009.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -131,7 +131,7 @@ V.- Secretaría de Administración,
 
 VI.- Secretaría de la Contraloría,
 
-VII.- Secretaría Técnica,
+VII.- (DEROGADA, P.O. 7 DE AGOSTO DE 2009)
 
 VIII.- Secretaría de Cultura,
 
@@ -177,11 +177,11 @@ II.- Coordinación General del Transporte,
 
 III.- (DEROGADA, P.O. 19 DE ENERO DE 2007)
 
-IV.- Coordinación General de Proyectos Estratégicos,
+IV.- (DEROGADA, P.O. 7 DE AGOSTO DE 2009)
 
 V.- (DEROGADA, P.O. 1 DE MAYO DE 2008)
 
-VI.- Coordinación General de Asesores,
+VI.- (DEROGADA, P.O. 7 DE AGOSTO DE 2009)
 
 VII.- Representación del Gobierno del Estado en el Distrito Federal y
 
@@ -441,7 +441,9 @@ IX.- Emitir las normas y disposiciones de la Administración Pública, para la a
 
 X.- Dirigir el Archivo General del Poder Ejecutivo;
 
-XI.- (DEROGADA, P.O. 18 DE MARZO DE 2009)
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+XI.- Definir, previo acuerdo del Gobernador del Estado, los criterios y políticas de descentralización estatal, coordinando los procesos respectivos con las diferentes dependencias y entidades de la Administración Pública;
 
 XII.- Administrar los Almacenes Generales del Gobierno del Estado;
 
@@ -515,29 +517,7 @@ XVIII.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 ###### Artículo 26.
 
-A la Secretaría Técnica corresponde el despacho de los siguientes asuntos:
-
-I.- Establecer los sistemas y procedimientos para la formulación, proceso de aplicación práctica, seguimiento y evaluación de políticas públicas.
-
-II.- Diseñar y coordinar, conjuntamente con las Dependencias y Entidades de la Administración Pública Estatal, la agenda estratégica del Gobernador del Estado.
-
-III.- Diseñar y operar, conjuntamente con las dependencias y entidades de la Administración Pública Estatal, el sistema estatal de información gubernamental.
-
-IV.- Fungir como Secretario Técnico de los gabinetes, en los términos que sean acordados por el Titular del Ejecutivo, dando seguimiento a los compromisos que de ellos emanen.
-
-V.- Atender y dar seguimiento permanente a los acuerdos y compromisos del Gobernador del Estado con los sectores público, social y privado de los ámbitos local y federal.
-
-VI.- Apoyar técnicamente la gestión de las dependencias y entidades de la Administración Pública Estatal, así como proponer las estrategias, líneas de acción y políticas para su fortalecimiento.
-
-VII.- Coordinar y supervisar los Programas de Atención Ciudadana a cargo de las dependencias de la Administración Pública y la operación de los Programas de Audiencias Públicas a cargo del Gobernador del Estado.
-
-VIII.- Definir, previo Acuerdo del Gobernador del Estado, los criterios y políticas de descentralización estatal, coordinando los procesos respectivos con las diferentes dependencias y entidades de la Administración Pública.
-
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2007)</small>
-
-IX.- Formular, coordinar y ejecutar la política de comunicación social y la promoción de las políticas públicas del Poder Ejecutivo del Estado; y
-
-X.- Los demás que le señalen las leyes, decretos y reglamentos.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2009)
 
 ###### Artículo 27.
 
@@ -1013,9 +993,17 @@ III.- Programar y autorizar la inversión pública estatal;
 
 IV.- Controlar y evaluar la ejecución de programas de inversión pública, en relación con el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo;
 
-V.- Reglamentar y coordinar el Sistema Único de Información Geográfica y Estadística del Estado de Oaxaca, incorporando la perspectiva de género y vigilando que la información derivada sea desagregada por sexo, grupos de edad y tipo de localidad; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
 
-VI.- Los demás que le señalen las leyes, decretos y reglamentos.
+V.- Reglamentar y coordinar el Sistema Único de Información Geográfica y Estadística del Estado de Oaxaca, incorporando la perspectiva de género y vigilando que la información derivada sea desagregada por sexo, grupos de edad y tipo de localidad;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+VI.- Diseñar y operar, conjuntamente con las dependencias y entidades de la Administración Pública Estatal, el Sistema Estatal de Información Gubernamental; y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2009)</small>
+
+VII.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 ###### Artículo 42.
 
@@ -1250,3 +1238,13 @@ P.O. 18 DE MARZO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los bienes muebles e inmuebles propiedad del Gobierno del Estado, asignados a los Talleres Gráficos del Gobierno del Estado, pasarán a formar parte de los bienes asignados a la Secretaría General de Gobierno del Estado, de la misma forma, los recursos humanos adscritos a dichos talleres.
+
+P.O. 7 DE AGOSTO DE 2009.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los responsables de la Dependencia y las Coordinaciones que por virtud de este Decreto se suprimen, deberán realizar la entrega recepción de los asuntos en trámite, a las dependencias que a partir de su entrada en vigor serán las responsables del despacho de tales asuntos.
+
+TERCERO.- El Gobernador del Estado, por conducto de las dependencias respectivas, dispondrá de todo lo relativo a los recursos humanos, materiales y presupuestales con que cuentan la Secretaría Técnica, la Coordinación de Proyectos Estratégicos y la Coordinación General de Asesores.
+
+CUARTO.- Se respetan los derechos laborales de los empleados de base, que en su caso estén adscritos a la Secretaría Técnica, la Coordinación de Proyectos Estratégicos y la Coordinación General de Asesores.
