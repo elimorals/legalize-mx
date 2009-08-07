@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2009-03-27"
+last_updated: "2009-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -1393,9 +1393,11 @@ Si las actas de nacimiento o de matrimonio de los divorciados se encuentran en o
 
 El acta de divorcio expresará el nombre apellidos, edad, domicilio y nacionalidad y la clave única del registro de población de los divorciados, los nombres de dos testigos de asistencia; la fecha y lugar en que se celebró el matrimonio, la parte resolutiva de la sentencia que haya decretado el divorcio y los demás datos que especifique la forma respectiva.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 215.
 
-En el divorcio, la falta de registro, no quita a éste sus efectos legales; pero si el registro no se efectúa dentro de los quince días siguientes a la fecha en que causó ejecutoria la sentencia, sujeta a los divorciados a una sanción de diez a treinta días de salario mínimo que impondrá el Oficial del Registro Civil y se enterará en la Recaudación de Rentas del Estado del domicilio del Oficial.
+En el divorcio, la falta de registro, no quita a éste sus efectos legales; pero si el registro no se efectúa dentro de los treinta días siguientes a la fecha en que causó ejecutoria la sentencia, sujeta a los divorciados a una sanción de diez a veinte días de salario mínimo que impondrá el Oficial del Registro Civil y se enterará en la Recaudación de Rentas del Estado del domicilio del Oficial.
 
 #### SECCIÓN NOVENA. DE LAS ACTAS DE DEFUNCIÓN
 
@@ -20552,3 +20554,7 @@ SEGUNDO. Dentro del plazo de 90 días hábiles siguientes a la entrada en vigor 
 TERCERO. Cuando una ley, reglamento, decreto u otras disposiciones jurídicas o administrativas aludan al Oficial del Registro Civil, se entenderá hechas también al titular de la Dirección del Registro Civil del Estado de Coahuila, en lo que le sean aplicables.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
