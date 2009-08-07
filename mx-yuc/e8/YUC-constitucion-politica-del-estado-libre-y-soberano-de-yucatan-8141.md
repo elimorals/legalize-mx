@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2009-07-24"
+last_updated: "2009-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE AGOSTO DE 2009.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -46,6 +46,10 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
 ###### Artículo 1.
 
 Todos los habitantes del Estado de Yucatán, gozarán de las garantias que otorga la Constitución Política de los Estados Unidos Mexicanos, las derivadas de los Acuerdos o Tratados Internacionales, en los que el Estado Mexicano sea parte, y las establecidas en ésta Constitución.
+
+> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2009)</small>
+
+El Estado de Yucatán reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, sin perjuicio de las excluyentes de responsabilidad previstas en el Código Penal del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -751,7 +755,7 @@ XVII.- Expedir y modificar la Ley que regule su estructura y funcionamiento inte
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del Congreso;
+XVIII.- nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del Congreso;
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
@@ -3054,3 +3058,9 @@ D.O. 24 DE JULIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 7 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
