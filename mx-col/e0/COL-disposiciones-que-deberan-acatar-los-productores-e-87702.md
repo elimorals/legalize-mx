@@ -4,7 +4,7 @@ identifier: "COL-disposiciones-que-deberan-acatar-los-productores-e-87702"
 country: "mx"
 rank: "otro"
 publication_date: "2009-05-30"
-last_updated: "2009-05-30"
+last_updated: "2009-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 PRODUCTORES E INTRODUCTORES PARA LA MOVILIZACIÓN DE GANADO PORCINO, CARNE EN CANAL O PROCESADO EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2009.
 
 Decreto publicado en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 2009.
 
@@ -57,9 +57,11 @@ El periodo de permanencia autorizado para el ganado porcino que ingrese para sac
 
 Cualquier persona que pretenda movilizar e introducir ganado porcino al Estado, deberán observar que el transporte de los animales, deberá cumplir con la Norma Oficial NOM-24-ZOO-1995 publicada en el Diario Oficial de la Federación el 16 de octubre de 1995, "Especificaciones y características zoosanitarias para el transporte de animales, sus productos y subproductos, productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales o consumidos por estos"; otorgando un espacio de un metro cuadrado de superficie para dos animales con un peso promedio de 100 kilogramos cada uno y así dar cumplimiento a la norma establecida.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO QUINTO.
 
-La Persona, quien transporte porcinos en pie para su ingreso a el Estado de Colima, deberá obligatoriamente detenerse en los puntos de verificación interna fitozoosanitarios del Estado, para la desinfección del vehículo en los arcos sanitarios que existen; el costo de esta operación será con cargo al transportista introductor de porcinos a la Entidad; el Comité Estatal para el Fomento y Protección Pecuaria de Colima la entregará al transportista una constancia de desinfección firmada y sellada por personal de verificación interna fitozoosanitaria, la cual deberá presentar en los rastros o bien en los lugares de su destino, así como a la autoridad de inspección fitozoosanitaria que le requiera esta constancia.
+La persona o quién transporte ganado porcino en pie para su ingreso al Estado de Colima, deberá obligatoriamente detenerse en los puntos de verificación interna fitozoosanitarios del Estado para la desinfección del vehículo en los arcos sanitarios que existen; el Comité Estatal para el Fomento y Protección Pecuaria de Colima, S.C., entregará al transportista una constancia de desinfección firmada y sellada por personal de verificación interna fitozoosanitaria, la cual deberá presentar en los rastros o bien en los lugares de su destino, así como a la autoridad de inspección fitozoosanitaria que le requiera dicha constancia.
 
 ###### ARTÍCULO SEXTO.
 
@@ -75,7 +77,7 @@ Se establece que el horario para movilizar o introducir dentro del Estado, ganad
 
 ###### ARTÍCULO NOVENO.
 
-Toda persona que introduzca al Estado de Colima o movilice dentro de él, ganado porcino, tiene la obligación de colaborar con una aportación económica de $ 15.00 (Quince Pesos 00/100 M.N.) por cabeza de porcino, para apoyar el financiamiento de las campañas contra las enfermedades del ganado porcino y para la mejora de infraestructura sanitaria, que emprendan las autoridades competentes. Esta aportación se recabará a través del Comité Estatal para el Fomento y Protección Pecuaria de Colima, S.C., organismo auxiliar en materia de salud animal en el Estado, quien será el encargado de entregar el recibo correspondiente al introductor transportista.
+(DEROGADO, P.O. 8 DE AGOSTO DE 2009)
 
 ###### ARTÍCULO DÉCIMO.
 
@@ -120,3 +122,15 @@ EL SECRETARIO DE DESARROLLO RURAL
 C. CARLOS SALAZAR PRECIADO.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El Comité Estatal para el Fomento y Protección Pecuaria de Colima, S.C., restituirá a quien haya realizado algún pago, por concepto de lo previsto en los artículos que se modifican o derogan con el presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
