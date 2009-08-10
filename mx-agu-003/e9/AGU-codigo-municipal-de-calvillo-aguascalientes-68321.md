@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-68321"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-27"
-last_updated: "2009-04-27"
+last_updated: "2009-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE CALVILLO, AGS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2009.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 27 de abril de 2009.
 
@@ -41,27 +41,43 @@ CÓDIGO MUNICIPAL DE CALVILLO, AGS.
 
 ### CAPÍTULO I. De los Fines del Municipio
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 1º.
 
-Las disposiciones del presente Código son de orden público e interés general, de aplicación en todo el territorio del Municipio de Calvillo y obligatorias tanto para los ciudadanos que en él tengan su domicilio, como para los que estén de paso; y reglamentarias del artículo 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos, de los artículos 66, 67, 68, 69, 70, 71 y 72 de la Constitución Política del Estado de Aguascalientes, de los artículos 1°, 89, 90, 91, 92, 93, 94 y demás relativos de la Ley Municipal del Estado de Aguascalientes, así como de las demás leyes que regulan la actividad municipal.
+Las disposiciones del presente Código son de orden público e interés general, de aplicación en todo el territorio del Municipio de Calvillo y obligatorias tanto para las mujeres y hombres que en él tengan su domicilio, como para quienes estén de paso; y reglamentarias del Artículo 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos, de los artículos 66, 67, 68, 69, 70, 71 y 72 de la Constitución Política del Estado de Aguascalientes, de los artículos 1°, 89, 90, 91, 92, 93, 94 y demás relativos de la Ley Municipal del Estado de Aguascalientes, así como de las demás leyes que regulan la actividad municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 2º.
 
-Calvillo es un municipio libre del estado de Aguascalientes, integrado por sus habitantes, territorio y gobierno, que para lograr un desarrollo armónico y equilibrado de la vida social entre las personas que habitan o se establecen en el mismo, se propone como fines:
+Calvillo es un municipio libre del estado de Aguascalientes, integrado por sus habitantes, territorio y gobierno, que para lograr un desarrollo armónico y equilibrado de la vida social entre las mujeres y los hombres que habitan o se establecen en el mismo, se propone como fines:
 
-I.- Garantizar la tranquilidad, seguridad y bienes de las personas;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-II.- Garantizar la moral y el orden público;
+I.- Garantizar la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+II.- Garantizar la moral y el orden público sin trato diferenciado por razones de género buscando ante todo la igualdad entre mujeres y hombres;
 
 III.- Prestar adecuadamente los servicios públicos municipales;
 
-IV.- Preservar y fomentar la educación y la cultura entre sus habitantes;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+IV.- Preservar y fomentar la educación y la cultura entre sus habitantes; sin trato diferenciado por razones étnicas religiosas participación política o de género;
 
 V.- Promover el desarrollo urbano de todos los centros de población del Municipio;
 
-VI.- Promover y organizar la participación ciudadana para cumplir con los planes y programas municipales; y
+VI.- Promover y organizar la participación ciudadana para cumplir con los planes y programas municipales; y (sic)
 
-VII.- Proveer los medios para la aplicación de la justicia en el marco de su competencia.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+VII.- Proveer los medios para la aplicación de la justicia en el marco de su competencia, atendiendo el interés supremo de las familias, los menores y las mujeres, para así garantizar a estos una vida libre de violencia; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+VIII.- Promover la igualdad de género, la no discriminación y la no violencia en contra de las mujeres residentes en el municipio.
 
 ### CAPÍTULO II. Del Nombre y Escudo
 
@@ -117,17 +133,23 @@ En algunas colonias o fraccionamientos se podrán establecer a su vez delegacion
 
 ### CAPÍTULO IV. De la Población
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 11.
 
-Son habitantes del Municipio de Calvillo, las personas que residen habitual o transitoriamente dentro de su territorio, ya sea por decisión propia, por causa de vinculación conyugal, por razón de vivir en un núcleo familiar, por razones de dependencia económica respecto de terceros o por causas análogas y tienen las prerrogativas, derechos y obligaciones señalados en la Constitución Política del estado, y en la legislación Municipal.
+Son habitantes del Municipio de Calvillo, las mujeres y los hombres que residen habitual o transitoriamente dentro de su territorio, ya sea por decisión propia, por causa de vinculación conyugal, por razón de vivir en un núcleo familiar, por razones de dependencia económica respecto de terceros o por causas análogas y tienen las prerrogativas, derechos y obligaciones señalados en la Constitución Política del Estado, y en la legislación Municipal.
 
 ###### Artículo 12.
 
 Se consideran vecinos del Municipio:
 
-I.- Todas las personas nacidas en el Municipio y que residan en su territorio; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-II.- Las personas nacidas fuera del Municipio, con residencia efectiva en él por más de dos años.
+I.- Todas las mujeres y los hombres nacidos en el Municipio y que residan en su territorio; y
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+II.- Las mujeres y los hombres nacidos fuera del Municipio, con residencia efectiva en él por más de dos años.
 
 ###### Artículo 13.
 
@@ -155,7 +177,9 @@ II.- Ser tratados de la misma manera por las autoridades municipales, en igualda
 
 III.- Dedicarse a la profesión, comercio u oficio que le acomode, respetando lo establecido en las leyes, reglamentos y el presente Código, mediante las licencias, permisos o autorizaciones que se señalan en el presente Código;
 
-IV.- Manifestar libremente las ideas, siempre y cuando no se ataque a la moral, a los derechos de terceros, se provoque algún delito o se perturbe el orden público;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+IV.- Manifestar libremente las ideas, siempre y cuando no se ataque a la moral, a los derechos de terceros, se provoque algún delito, se perturbe el orden público, discrimine o se ejerza violencia verbal o escrita al manifestar las ideas en contra de las mujeres residentes en el municipio;
 
 V.- Estar informado de las actividades que realiza el Gobierno Municipal, así como del destino que se le dé a los fondos del Municipio;
 
@@ -163,17 +187,47 @@ VI.- Solicitar de la autoridad municipal los bienes y servicios que corresponde 
 
 VII.- Ser respetado en su persona, vida, familia, bienes y derechos en los términos señalados por la Constitución Política de los Estados Unidos Mexicanos;
 
-VIII.- Votar y ser votado para los cargos públicos municipales de elección popular;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+VIII.- Votar y ser votado para los cargos públicos municipales de elección popular buscando preferentemente que siempre se de la participación de las Mujeres en igualdad de condiciones que los hombres;
 
 IX.- Formar parte de los Comités y Consejos de Colaboración Municipal y Participación Ciudadana;
 
-X.- Ser preferido en igualdad de circunstancias para desempeñar empleos, cargos y comisiones del gobierno municipal;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-XI.- Ser preferido en igualdad de circunstancias para ser proveedor de bienes y servicios de la administración pública municipal y ser beneficiarios de concesiones, licencias y permisos municipales y de contratos de obras o servicios públicos;
+X.- Ser preferidos en igualdad de circunstancias mujeres y hombres para desempeñar empleos, cargos y comisiones del gobierno municipal;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XI.- Ser preferidos en igualdad de circunstancias mujeres y hombres para ser proveedores de bienes y servicios de la administración pública municipal y ser beneficiarios de concesiones, licencias y permisos municipales y de contratos de obras o servicios públicos;
 
 XII.- Participar en los actos de carácter cívico, social, deportivo y cultural que realice el Gobierno Municipal; y
 
 XIII.- Los demás que las constituciones Federal y estatal, así como las leyes, reglamentos y el presente Código les otorguen.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 14 bis.- Toda mujer que se encuentre en el municipio de Calvillo tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos. Estos derechos comprenden entre otros:
+
+I.- Que se respete la vida;
+
+II.- Que se respete su integridad física, psíquica y moral;
+
+III.- A la libertad y seguridad personales;
+
+IV.- A no ser sometida a tortura;
+
+V.- A la igualdad de protección ante y de la ley;
+
+VI.- Que se respete la dignidad inherente a su persona y que se proteja a su familia;
+
+VII.- A un recurso sencillo y rápido ante los tribunales competentes, que la amparen contra actos que violen sus derechos;
+
+VIII.- A la libertad de asociación;
+
+IX.- A la libertad de profesar la religión y las creencias propias dentro de la ley; y
+
+X.- A tener igualdad de acceso a las funciones públicas de su municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones.
 
 ###### Artículo 15.
 
@@ -185,17 +239,27 @@ II.- Ejercer los derechos y libertades protegidos por la Ley, respetando los de 
 
 III.- Inscribirse en el catastro municipal, manifestando las propiedades que tenga y la industria, comercio, profesión o trabajo de que subsista;
 
-IV.- Brindar trato digno a las personas, respetando la diversidad que caracteriza a nuestra la (sic) comunidad;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-V.- Prestar apoyo a los demás habitantes, especialmente a las personas victimizadas o en situación vulnerable;
+IV.- Brindar trato digno a todas las personas, respetando la diversidad, sin discriminar a nadie y respetando los derechos de las mujeres que se consagran en la Constitución del Estado de Aguascalientes y en la Ley de acceso de las mujeres a una vida libre de violencia para el Estado de Aguascalientes y su reglamento, que caracteriza a nuestra comunidad;
 
-VI.- Prevenir riesgos contra la integridad física de las personas;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-VII.- Permitir la libertad de acción de las personas en las vías y espacios públicos;
+V.- Prestar apoyo a los demás habitantes, especialmente Mujeres que sufran violencia de cualquier tipo en sus hogares o fuera de ellos para, proteger su integridad y la de su familia y a personas victimizadas o en situación vulnerable;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+VI.- Prevenir riesgos contra la integridad física de las personas y de las mujeres para que se respete su integridad física, psíquica y moral;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+VII.- Permitir la libertad de acción de las personas en las vías y espacios públicos; evitando ante todo acciones que generen conductas de violencia o discriminación hacia las mujeres;
 
 VIII.- Solicitar servicios de urgencias médicas, rescate o policiales, en situaciones de emergencia;
 
-IX.- Requerir la presencia policiaca en caso de percatarse de la realización de conductas o de hechos violentos que puedan causar daño a personas o bienes de terceros o que afecten la convivencia armónica;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+IX.- Requerir la presencia policíaca en caso de percatarse de la realización de conductas o de hechos violentos que puedan causar daño a personas o bienes de terceros o que afecten la convivencia armónica de los habitantes y de las familias del municipio. Se prestara especial atención a los casos de violencia contra las mujeres de este municipio dentro o fuera de sus hogares;
 
 X.- Conservar limpias las vías y espacios públicos;
 
@@ -279,11 +343,15 @@ Son funciones del Consejo de Participación Ciudadana y Colaboración Municipal 
 
 I.- Servir como vinculo de comunicación entre la administración municipal y la sociedad;
 
-II.- Proponer medidas y reformas necesarias, a fin de mejorar los sistemas administrativos y la mejor prestación de los servicios públicos municipales;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-III.- Vigilar la correcta prestación de los servicios públicos municipales así como el buen desempeño de los servidores públicos, señalando en concreto los defectos del mal funcionamiento del área de que se trate, o el mal desempeño de los servidores; y
+II.- Proponer medidas y reformas necesarias, a fin de mejorar los sistemas administrativos y la mejor prestación de los servicios públicos municipales; estimulando la participación de las mujeres en igualdad de condiciones y oportunidades que los hombres;
 
-IV - Mantener informada a la sociedad de todos aquellos cambios que se den dentro de la administración municipal en la prestación de los servicios públicos a efecto de que sean aprovechados por la ciudadanía.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+III.- Vigilar la correcta prestación de los servicios públicos municipales así como el buen desempeño de los servidores públicos, señalando en concreto los defectos del mal funcionamiento del área de que se trate, o el mal desempeño de los servidores quienes deberán desempeñarse siempre atendiendo y respetando los derechos fundamentales de las mujeres; y
+
+IV.- Mantener informada a la sociedad de todos aquellos cambios que se den dentro de la administración municipal en la prestación de los servicios públicos a efecto de que sean aprovechados por la ciudadanía.
 
 ### CAPÍTULO II. Del Ayuntamiento
 
@@ -303,7 +371,9 @@ El Ayuntamiento del Municipio de Calvillo funcionará en pleno, a través de ses
 
 EL Ayuntamiento del Municipio de Calvillo tiene como función general, el gobierno del Municipio y como atribuciones y facultades las siguientes:
 
-I.- Aprobar y expedir reglamentos, Bando y/o Código Municipal, así como las demás disposiciones administrativas de carácter general necesarias para el ejercicio de sus atribuciones, para su funcionamiento, para la organización y prestación de los servicios públicos municipales, para aquéllas que demanden la tranquilidad y seguridad de las personas y sus bienes, para garantizar la moralidad y salubridad públicas y la participación ciudadana y vecinal, siempre con arreglo a las bases generales previstas en las leyes en materia municipal;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+I.- Aprobar y expedir reglamentos, Bando y/o Código Municipal, así como las demás disposiciones administrativas de carácter general necesarias para el ejercicio de sus atribuciones, para su funcionamiento, para la organización y prestación de los servicios públicos municipales, para aquéllas que demanden la tranquilidad y seguridad de las personas y sus bienes, para garantizar la igualdad entre mujeres y hombres y la moralidad y salubridad públicas y la participación ciudadana y vecinal, siempre con arreglo a las bases generales previstas en las leyes en materia municipal;
 
 II.- Presentar ante el Congreso del Estado las iniciativas de Ley en asuntos de su competencia, en los términos de la Constitución Política del Estado;
 
@@ -381,7 +451,9 @@ XXXVIII.- Coadyuvar en la preservación del ecosistema;
 
 XXXIX.- Proveer al aseo y saneamiento del Municipio;
 
-XL.- Propiciar la cooperación ciudadana para la limpieza de los centros de población del municipio;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XL.- Propiciar la cooperación ciudadana para la limpieza de los centros de población del municipio; sin que exista trado diferenciado por razones de género en esta actividad;
 
 XLI.- Inspeccionar, vigilar y establecer medidas de seguridad y sanciones administrativas para garantizar el cumplimiento del presente Código;
 
@@ -389,17 +461,105 @@ XLII.- Proporcionar seguridad y protección pública a los habitantes y transeú
 
 Prestar los servicios públicos que le corresponden al Municipio;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE AGOSTO DE 2009)</small>
+
 XLIII.- Ejercer la función educativa en el ámbito de su competencia y promover la educación, la cultura, el deporte y la equidad de género en la comunidad;
 
-XLIV.- Promover y organizar la cultura cívica y la participación ciudadana en los asuntos públicos, a fin de propiciar y desarrollar un efectivo ejercicio democrático y representativo del gobierno;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XLIV.- Promover y organizar la cultura cívica y la participación ciudadana en los asuntos públicos, a fin de propiciar y desarrollar un efectivo ejercicio democrático y representativo del gobierno; buscando ante todo la igualdad entre mujeres y hombres;
 
 XLV.- Aplicar la justicia en materia municipal;
 
 XLVI.- Promover el desarrollo económico en el Municipio, facilitando a los particulares, en los términos de ley, el establecimiento de comercios e industrias y la prestación de servicios, así como el desarrollo de las actividades agropecuarias;
 
-XLVII.- Establecer la vinculación con las autoridades estatales y federales, en los términos de ley, a efecto de propiciar el ejercicio armónico de la función gubernativa; y
+XLVII.- Establecer la vinculación con las autoridades estatales y federales, en los términos de ley, a efecto de propiciar el ejercicio armónico de la función gubernativa; y (sic)
 
-XLVIII.- Las demás que le confieran la Constitución General de la República, la particular del Estado, la Ley Municipal del Estado, el presente Código y otras disposiciones legales.
+XLVIII.- Las demás que le confieran la Constitución General de la República, la particular del Estado, la Ley Municipal del Estado, el presente Código y otras disposiciones legales;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+L (SIC).- Aprobar el programa para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñara con base en la perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+LI.- Construir el mecanismo municipal de adelanto a favor de las mujeres, a fecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+LII.- La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda a esta Ley u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 23 bis.- Es objeto del ayuntamiento regular y garantizar la igualdad de género entre mujeres y hombres, la no discriminación, y todos aquellos derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 23 ter.- Son obligaciones del Ayuntamiento en materia de Igualdad y Género las siguientes:
+
+I.- Instrumentar y articular en concordancia con la política nacional y estatal, la política municipal orientada a la atención, prevención, sanción y erradicación de la violencia contra las mujeres;
+
+II.- Promover en concordancia con las entidades federativas, cursos de capacitación y modificaciones conductuales a las personas que atienden a víctimas de violencia contra las mujeres;
+
+III.- Apoyar la creación de programas de reeducación integral para los generadores de violencia contra las mujeres en los términos explícitos y de conformidad con los lineamientos que establece la ley general de acceso de las mujeres a una vida libre de violencia del estado;
+
+IV.- Promover programas educativos sobre la igualdad entre los géneros para eliminar la violencia contra la mujer;
+
+V.- Apoyar la creación de refugios seguros para las victimas de violencia familiar y sexual;
+
+VI.- Participar y coadyuvar en los ejes de acción, de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+VII.- Impartir cursos y talleres de prevención y protección contra la violencia de género en los cuerpos policiacos;
+
+VIII.- Evaluar anualmente la actividad de los cuerpos policiacos y servidores públicos encargados de la atención a la violencia de género;
+
+IX.- Elaborar una guía de asistencia inmediata que seguirían los elementos de seguridad pública cuando se presenten casos de violencia familiar;
+
+X.- Designar a los integrantes del sistema municipal de prevención, atención, sanción y erradicación de la violencia, y vigilar su correcta instalación y funcionamiento;
+
+XI.- Aprobar el programa municipal para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñara con base en la perspectiva de género;
+
+XII.- Construir el mecanismo municipal de adelanto a favor de las mujeres a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo; y
+
+XIII.- La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda este código u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 23 quáter.- El ayuntamiento implementará el programa municipal para la prevención, atención, sanción y erradicación de la violencia el cual deberá contener:
+
+I.- Los objetivos generales y específicos;
+
+II.- Las estrategias a seguir;
+
+III.- Las líneas de acción;
+
+IV.- Los recursos asignados;
+
+V.- Las metas cuantitativas y cualitativas;
+
+VI.- Los responsables de su ejecución;
+
+VII.- Los mecanismo (sic) de evaluación; y
+
+VIII.- El subprograma de capacitación.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 23 quinquies.- Son principios rectores del programa municipal:
+
+I.- La no discriminación;
+
+II.- La autodeterminación y libertad de las mujeres;
+
+III.- La igualdad sustantiva entre mujeres y hombres;
+
+IV.- El pluralismo social y la multiculturaIidad de las mujeres; y
+
+V.- La perspectiva de género que permita incorporar a la mujer como sujeto social.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 23 sexies.- El programa municipal incluirá los ejes de acción, de prevención, atención y sanción, considerando los niveles de intervención que cada eje contempla en términos de los (sic) dispuesto por la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
 
 ###### Artículo 24.
 
@@ -785,9 +945,29 @@ x) Integrar la Comisión representativa del Ayuntamiento en caso de fallecimient
 
 y) Comisionar ediles para que visiten a integrantes del cabildo, en estado de enfermedad o de postración;
 
-z) Llamar a los ediles suplentes cuando proceda, para que asuman el cargo de propietarios, en el evento de que no se hayan presentado a asumirlo o no lo hayan asumido por si mismos y, en su caso, atestiguar la protesta respectiva; y
+z) Llamar a los ediles suplentes cuando proceda, para que asuman el cargo de propietarios, en el evento de que no se hayan presentado a asumirlo o no lo hayan asumido por si mismos y, en su caso, atestiguar la protesta respectiva; y (sic)
 
-XXV.- Las demás que le confieran las leyes, el presente Código, los reglamentos u otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XXV.- Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XXVI.- Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XXVII.- Implementar cursos y talleres de prevención y protección contra la violencia de género;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XXVIII.- Proporcionar a las víctimas de violencia la asesoría necesaria para conocer su situación jurídica y sus derechos;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XXIX.- Promover la cultura de respeto a los derechos fundamentales de las mujeres; y
+
+XXX.- Las demás que le confieran las leyes, el presente Código, los reglamentos u otras disposiciones legales.
 
 ###### Artículo 76.
 
@@ -839,9 +1019,11 @@ XI.- las demás que les otorguen el presente código y demás disposiciones lega
 
 ### CAPÍTULO VII. Del Síndico
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 81.
 
-El síndico municipal será el representante legal del municipio en los asuntos de carácter judicial o litigioso, asimismo le corresponderá la defensa de los intereses municipales y la supervisión del buen uso y manejo de los bienes que integran el patrimonio del municipio.
+El síndico municipal será el representante legal del municipio en los asuntos de carácter judicial o litigioso, asimismo le corresponderá la defensa de los intereses municipales y la supervisión del buen uso y manejo de los bienes que integran el patrimonio del municipio. El Síndico podrá citar a cualquier habitante del municipio de Calvillo Aguascalientes a fin de conciliar los conflictos entre estos siempre y cuando no interfiera en la función de otra autoridad y no se traten de casos donde exista violencia de género, en especial familiar, en cuyos casos está contraindicada cualquier práctica de mediación, negociación o conciliación, para cumplir con los fines plasmados en este Bando.
 
 ###### Artículo 82.
 
@@ -879,7 +1061,9 @@ XV.- Supervisar el funcionamiento del servicio del pie mostrenco;
 
 XVI.- Llevar el registro de los fierros de herrar y supervisar la expedición de las guías para el tráfico de ganado;
 
-XVII.- Servir de árbitro y conciliador a petición de los particulares, a efecto de que se solucionen, por parte de los propios interesados conflictos de carácter social, de vecindad, civil y mercantil. Para estos efectos, el sindico tendrá la facultad de citar a las partes interesadas a comparecer ante él en día y hora determinados, para lo cual los apercibirá de arresto hasta por doce horas y multa equivalente a un día de salario mínimo, que impondrá en caso de desatención al citatorio, sin perjuicio de ordenar la presentación del citado, por conducto de la fuerza pública; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XVII.- Servir de árbitro y conciliador a petición de los particulares, a efecto de que se solucionen, por parte de los propios interesados conflictos de carácter social, de vecindad, civil y mercantil, con excepción de casos de violencia de género, y en especial familiar, en cuyos casos está contraindicada cualquier práctica de mediación, negociación o conciliación. Para estos efectos, el síndico tendrá la facultad de citar a las partes interesadas a comparecer ante él en día y hora determinados, para lo cual los apercibirá de arresto hasta por doce horas y multa equivalente a un día de salario mínimo, que impondrá en caso de desatención al citatorio, sin perjuicio de ordenar la presentación del citado, por conducto de la fuerza pública; y
 
 XVIII.- Las demás que les confieran o impongan las leyes, el presente Código, los reglamentos o el Ayuntamiento.
 
@@ -927,7 +1111,9 @@ Habrá Comisiones permanentes que funcionarán por todo el trienio y se integrar
 
 Las Comisiones tendrán un mínimo de tres integrantes y un máximo de cinco, debiendo ser siempre en número impar.
 
-En su integración se procurará el equilibrio y la mejor representación Política posibles. Cada comisión conocerá de los asuntos que correspondan a las materias que expresamente se les atribuyan, y una o más materias pueden ser atribuidas a una misma Comisión.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+En la medida de lo posible las comisiones y servidores públicos que integren la administración pública municipal, establecerán el mismo número de mujeres y hombres, respetándose la equidad de género.
 
 ###### Artículo 90.
 
@@ -947,9 +1133,15 @@ VI.- Comisión de Desarrollo Económico y Rural Sustentable;
 
 VII.- Comisión de Servicios Públicos y Ecología;
 
-VIII.- Comisión de Agua Potable y Alcantarillado; y
+VIII.- Comisión de Agua Potable y Alcantarillado; y (sic)
 
-IX.- Comisión de Obras Públicas, Vialidad y Transporte.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+IX.- Comisión de Obras Públicas, Vialidad y Transporte; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+X.- Igualdad y Género.
 
 ###### Artículo 91.
 
@@ -1501,9 +1693,11 @@ III.- A solicitud de uno o más Regidores o Síndico, lo acuerde el Ayuntamiento
 
 A las sesiones que no tengan carácter de secretas puede asistir cualquier persona, instalándose en el Salón de Sesiones del Ayuntamiento, pero debe prohibirse la entrada a quienes se encuentren armados, en estado de ebriedad o bajo influencia de drogas o psicotrópicos.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 141.
 
-Los asistentes a las sesiones deben conservar el mayor silencio, respeto y compostura y por ningún motivo pueden tomar parte en los debates, ni realizar manifestaciones de ningún género. En todo caso los asistentes deben guardar las normas de orden, respeto y cordura que el Presidente Municipal disponga para asegurar el adecuado desarrollo de las sesiones.
+Los asistentes a las sesiones deben conservar el mayor silencio, respeto y compostura y por ningún motivo pueden tomar parte en los debates, ni realizar manifestaciones de ningún género. No se permitirá en las sesiones por ningún motivo que se divulguen aseveraciones que impliquen sumisión de un genero hacia otro o impliquen la realización de roles sexuales tradicionales discriminatorios. En todo caso los asistentes deben guardar las normas de orden, respeto y cordura que el Presidente Municipal disponga para asegurar el adecuado desarrollo de las sesiones.
 
 ###### Artículo 142.
 
@@ -1751,9 +1945,15 @@ II.- Cuando se profieran injurias, palabras obscenas, amenazas o serias acusacio
 
 III.- Cuando se trate de exaltar el ánimo del auditorio, para presionar la opinión de los miembros del Ayuntamiento;
 
-IV.- Cuando en el auditorio se observe alguna falta de respeto para alguno de los miembros del Ayuntamiento o para alguno de los servidores públicos; y
+IV.- Cuando en el auditorio se observe alguna falta de respeto para alguno de los miembros del Ayuntamiento o para alguno de los servidores públicos; y (sic)
 
-V.- Cuando se pretenda discutir asuntos de interés particular.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+V.- Cuando se pretenda discutir asuntos de interés particular; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+VI.- Cuando se profieran aseveraciones que impliquen la sumisión de un género hacia otro, o impliquen la realización de roles sexuales tradicionales y discriminatorios.
 
 ###### Artículo 179.
 
@@ -3533,9 +3733,11 @@ En el Municipio de Calvillo habrá las siguientes Delegaciones en Presa de los S
 
 Los delegados serán nombrados por el Presidente Municipal y estarán bajo su mando e instrucciones, a través de la coordinación de comunidades y colonias en todos los asuntos de competencia de la delegación y sólo pueden ejercer las facultades propias de su cargo dentro de las comunidades y en su caso límites territoriales que determine el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 343.
 
-Para nombrar a los delegados el Ayuntamiento podrá convocar a consulta para conocer la opinión de los ciudadanos, conforme a las bases y el procedimiento que acuerde el pleno.
+Para nombrar a los delegados el Ayuntamiento podrá convocar a consulta para conocer la opinión de los ciudadanos, conforme a las bases y el procedimiento que acuerde el pleno, considerando lo dispuesto en el párrafo segundo del artículo 89 del presente código.
 
 ###### Artículo 344.
 
@@ -9039,6 +9241,28 @@ XXVII. Actuar coordinadamente con otras Corporaciones de Seguridad Pública, as�
 
 XXVIII. Estudiar, conocer y respetar este Libro y las demás Leyes aplicables y relativas al servicio de Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 974 bis.- Son obligaciones de los cuerpos de seguridad pública municipal en materia de género:
+
+I. Atender de manera inmediata todos los casos de violencia contra las mujeres que sean recibidos a-través de reportes por cualquier medio o por parte de cualquier persona aun cuando no se tratase de la afectada directa en los números de emergencia o directamente en las oficinas de la Dirección de Seguridad Publica del Municipio de Calvillo o de la Presidencia Municipal o a través de algún elemento en activo de la corporación o de cualquier funcionario municipal en activo. Lo anterior en virtud de lo dispuesto por el artículo 92 Bis y por el Titulo Séptimo Capítulo Primero de la Ley Municipal para el Estado de Aguascalientes;
+
+II. Proporcionar a las víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y derechos;
+
+III. Promover la cultura de respeto a los derechos fundamentales de las mujeres;
+
+IV. Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres;
+
+V. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia;
+
+VI. Implementar cursos y talleres de prevención y protección contra la violencia de género;
+
+VII. Proporcionar a las victimas de violencia el apoyo necesario para conocer su situación jurídica y sus derechos;
+
+VIII. Promover la cultura de respeto a los derechos fundamentales de las mujeres; y
+
+IX.- Cumplimentar sin demora las ORDENES DE PROTECCION emitidas por la autoridad competente, Ministerio Público o Juez de la causa para garantizar a favor de las Mujeres y sus Derechos Fundamentales lo previsto por el Capítulo IV referente a las órdenes de protección de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y por lo previsto por el Capítulo VI del Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+
 ###### Artículo 975.
 
 Son atribuciones de los elementos operativos de la Secretaría:
@@ -9272,6 +9496,10 @@ LXIII. Proporcionar al superior jerárquico de quien dependan, el domicilio, nú
 LXIV. Abstenerse de usar el uniforme o cualquier prenda del mismo, fuera de los actos del servicio o durante sus horas de descanso, salvo instrucciones expresas de la superioridad; y
 
 LXV. Actuar dentro del orden jurídico respetando y haciendo respetar las Leyes que nos rigen.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 995 bis.- Queda estrictamente prohibido a los mandos y elementos operativos de seguridad pública fomentar prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimen o exacerben la violencia contra la mujer- (sic)
 
 ###### Artículo 996.
 
@@ -12391,15 +12619,37 @@ I.- Especializados en Diseño Estructural:
 
 a) En Naves de tipo industrial o similar mayores a diez mil metros cuadrados, o con claros mayores de treinta metros, por cuerpo estructural;
 
-b) En Estructuras de Tipo Especial tales como Puentes Vehiculares o Ferroviarios, Túneles y aquellos claros mayores a quince metros; y
+b) En Estructuras de Tipo Especial tales como Puentes Vehiculares o Ferroviarios, Túneles y aquellos claros mayores a quince metros; y (sic)
 
-II.- Especializados en Instalaciones. Serán los que están debidamente acreditados en la dependencia normativa que corresponda en razón de la especialidad y las autoridades que deban hacer cumplir las Normas Oficiales Mexicanas relacionadas con el tipo (sic) obra o de instalación.
+II.- Especializados en Instalaciones. Serán los que están debidamente acreditados en la dependencia normativa que corresponda en razón de la especialidad y las autoridades que deban hacer cumplir las Normas Oficiales Mexicanas relacionadas con el tipo (sic) obra o de instalación;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+IV (SIC).- Especializados en deslinde, medición y levantamiento topográfico de predios. Que estarán debidamente acreditados para realizar levantamientos topográficos y plasmarlos en documentos que reflejen la situación real de los predios, comparándolos con los respectivos títulos de propiedad; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+V.- Perito especializado en proyectos urbanos. Que estarán capacitados y certificados para realizar estudios de planificación regional e intraurbana, de diseño de fraccionamientos, incorporación de nuevas áreas al desarrollo urbano y armonización del contexto urbano.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 1284.
 
-Para tener derecho a aparecer en el registro de peritos responsable o refrendar su calidad como tal, se requiere:
+Para tener derecho a inscribirse en el registro de peritos responsable o refrendar su calidad como tal, se requiere:
 
-I.- Tener título profesional de ingeniero civil, arquitecto o licenciado en urbanismo;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+I.- Contar con alguno de los siguientes títulos profesionales según el caso:
+
+a) Perito responsable de obra: arquitecto, ingeniero civil, urbanista o áreas comunes a éstas, con un mínimo de cinco años de ejercicio profesional;
+
+b) Perito especializado en diseño estructural: arquitecto, ingeniero y profesionista en áreas comunes con siete años de experiencia en el ramo;
+
+c) Perito especializado en instalaciones: arquitecto, ingeniero o profesionista en áreas comunes con siete años de experiencia;
+
+d) Perito especializado en deslinde, medición y levantamiento topográfico de predios: arquitecto, ingeniero, urbanista y profesionista en áreas comunes con cinco años de ejercicio profesional o persona que certifique contar con siete años en el oficio;
+
+e) Perito especializado en proyectos urbanos: arquitecto, urbanista y profesionista en áreas comunes con tres años de ejercicio.
 
 II.- Estar domiciliado en el estado de Aguasca-lientes (sic) y abalado por el o los Colegios de profesionistas acreditados en la entidad o instituciones de educación superior;
 
@@ -17875,6 +18125,10 @@ II.- Tendrán preferencia para obtener el empadronamiento los vecinos de este mu
 
 III.- Una vez autorizado el respectivo empadronamiento deberán liquidar los derechos establecidos en la ley de ingresos del municipio a la Secretaría de Finanzas y Administración.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 1780 bis.- En todos los establecimientos que el Ayuntamiento determine expedir licencia de funcionamiento o conceder permiso provisional de funcionamiento, se deberán modificar los patrones socioculturales de conducta de mujeres y hombre (sic) para contrarrestar prejuicios, costumbres y todo tipo de práctica que se basen en la premisa de la superioridad o inferioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitiman o exacerban la discriminación y la violencia contra las mujeres.
+
 ### CAPÍTULO III. De los Horarios
 
 ###### Artículo 1781.
@@ -17998,6 +18252,14 @@ XVIII.- Colocar las cajetillas de cigarros, fuera del alcance de la mano del cli
 XIX.- Colocar letreros prohibiendo fumar en el interior del establecimiento; y
 
 XX.- Respetar cualquiera de las limitaciones que le impone este Código así como las demás que se desprendan de otros ordenamientos jurídicos.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 1794 bis.- Queda estrictamente prohibido la colocación de carteles, así como todo tipo de imágenes, retratos o logotipos de personas, sin autorización del titular del derecho, que atenten contra la moral, las buenas costumbres o generen conductas de violencia o discriminación hacia las mujeres.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 1794 ter.- Es obligación del titular de la autorización, licencia o permiso, evitar usar lenguajes e imágenes que refuercen los roles tradicionales del hombre como productor y proveedor, y de la mujer con funciones reproductoras.
 
 ###### Artículo 1795.
 
@@ -21363,9 +21625,15 @@ X.- La suspensión de actos o espectáculos públicos;
 
 XI.- La suspensión o cancelación del empadronamiento;
 
-XII.- El Pago de daños ocasionados al patrimonio municipal, el cual será sin perjuicio de las demás sanciones procedentes; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-XIII.- El arresto hasta por 36 horas.
+XII.- El Pago de daños ocasionados al patrimonio municipal, el cual será sin perjuicio de las demás sanciones procedentes;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XIII.- Restauración obligatoria de los daños causados en inmuebles del patrimonio cultural del municipio; y
+
+XIV.- El arresto hasta por 36 horas.
 
 ###### Artículo 2335.
 
@@ -21463,9 +21731,15 @@ XI.- Provocar, perseguir o asechar por cualquier medio a alguien con el ánimo d
 
 XII.- Disparar, exhibir o portar artefactos similares a las armas de fuego en cualquier lugar público, provocando escándalo o temor en las personas;
 
-XIII.- Resistirse al arresto de si o de un tercero utilizando la violencia física; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-XIV.- Oponerse, impedir o tratar de impedir que una autoridad municipal realice una diligencia legitima o imponga una sanción.
+XIII.- Resistirse al arresto de sí o de un tercero utilizando la violencia física;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XIV.- Realizar actos de violencia contra las mujeres en la comunidad, en términos de la legislación del Estado que regula las modalidades y tipo de violencia de género; y
+
+XV.- Oponerse, impedir o tratar de impedir que una autoridad municipal realice una diligencia legitima o imponga una sanción.
 
 #### SECCIÓN SEGUNDA. De las Faltas Contra el Civismo
 
@@ -21561,9 +21835,13 @@ IX.- Proferir palabras obscenas o cualquier tipo de insulto en la vía pública;
 
 X.- Causar daños a vecinos, transeúntes o vehículos, por omitir las medidas necesarias de aseguramiento de tiestos, plantas u otros objetos;
 
-XI.- Difundir o poner a la vista cualquier tipo de material con sexo explicito o imágenes que sean en contra de la moral y las buenas costumbres; y
+XI.- Difundir o poner a la vista cualquier tipo de material con sexo explicito o imágenes que sean en contra de la moral y las buenas costumbres; y (sic)
 
-XII.- Obstruir, rentar o pedir propina por o para el uso de los espacios públicos para ser utilizados como estacionamiento de vehículos automotores.
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XII.- Realizar acoso contra las mujeres del municipio, siempre y cuando no constituya algún delito; y
+
+XIII.- Obstruir, rentar o pedir propina por o para el uso de los espacios públicos para ser utilizados como estacionamiento de vehículos automotores.
 
 #### SECCIÓN SEXTA. De las Faltas Contra la Integridad de las Personas y sus Bienes
 
@@ -21615,9 +21893,23 @@ V.- Corregir con escándalo, vejar o maltratar a los menores, adultos mayores, a
 
 VI.- Ejecutar, exhibir o asumir actitudes obscenas, de manera pública y por cualquier medio, que atente contra la moral y las buenas costumbres;
 
-VII.- Ingresar por cualquier medio los menores de dieciocho años de edad a centros nocturnos, bares, pulquerías o cualquier otro lugar en que se prohíba su permanencia, esto con independencia de la sanción correspondiente a los establecimientos, de acuerdo con las disposiciones reglamentarias que las rijan; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-VIII.- Propinar a una persona en forma intencional y fuera de riña golpes que no le causen lesión.
+VII.- Ingresar por cualquier medio los menores de dieciocho años de edad a centros nocturnos, bares, pulquerías o cualquier otro lugar en que se prohíba su permanencia, esto con independencia de la sanción correspondiente a los establecimientos, de acuerdo con las disposiciones reglamentarias que las rijan;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+VIII.- Efectuar actos de discriminación o de violencia de género;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+IX.- Efectuar trato diferenciado entre mujeres y hombres en la prestación de cualquier servicio o en el otorgamiento de algún derecho;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+X.- Menospreciar o dar trato diferenciado entre mujeres y hombres que puedan incitar a algún tipo de violencia;
+
+XI.- Propinar a una persona en forma intencional y fuera de riña golpes que no le causen lesión.
 
 ### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
 
@@ -22209,9 +22501,19 @@ IV.- Grupo Cuatro:
 
 a) Demolición o afectación de fincas de Valor Histórico o Arquitectónico;
 
-b) Construcción de edificaciones con superficie mayor de 1000.00 m2 construidos sin la licencia correspondiente, independientemente de la obligación de regularizar la licencia; y
+b) Construcción de edificaciones con superficie mayor de 1000.00 m2 construidos sin la licencia correspondiente, independientemente de la obligación de regularizar la licencia; y (sic)
 
-c) Construir sin respetar el proyecto autorizado con la licencia.
+( REFORMADO, P.O. 10 DE AGOSTO DE 2009)
+
+c) Al perito responsable que infrinja las normas del Reglamento de Imagen Urbana;
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+d) Violación a cualquier norma del Reglamento de Imagen Urbana que no tenga establecida otra sanción;
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+e) Instalación de anuncios sin el permiso o licencia correspondiente en las zonas I, II, III y IV, contempladas en el Reglamento de Imagen Urbana.
 
 ###### Artículo 2417.
 
@@ -22232,6 +22534,10 @@ II.- Se hayan dictado en contravención al texto expreso de alguna disposición 
 III.- Se hayan emitido por Autoridad incompetente, y acatando disposición judicial en ese sentido; y
 
 IV.- La revocación de Licencia será pronunciada por la Autoridad que haya emitido el acto o resolución de que se trate o en su caso, por el superior jerárquico de dicha Autoridad.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+Artículo 2419 bis.- El deterioro o destrucción de inmuebles catalogados o adscritos al patrimonio cultural del municipio, o que afecte dicha acción al contexto urbano, contraponiéndose a las disposiciones del Reglamento de Imagen Urbana, tendrá como sanción la restauración, corriendo los gastos por cuenta del infractor para corregir los efectos causados.
 
 ### CAPÍTULO VI. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
 
@@ -23350,3 +23656,11 @@ SINDICO MUNICIPAL.
 Lic. Toribio Hernández López,
 
 SECRETARIO DE GOBERNACIÓN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 10 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias municipales en lo que se opongan al presente acuerdo.
