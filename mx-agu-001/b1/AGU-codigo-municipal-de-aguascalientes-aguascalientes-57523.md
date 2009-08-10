@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2009-07-27"
+last_updated: "2009-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -247,7 +247,13 @@ XXVIII. Comisión de Admisión de Peritos.
 
 XXIX. Consejo que regula la venta de sustancia de efectos psicotrópicos.
 
-XXX. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XXX. Comité de Actividades Musicales.
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
+XXXI. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
 
 ### CAPÍTULO II. De las Funciones de las Autoridades Municipales
 
@@ -14867,7 +14873,9 @@ IV. Los espacios que no se utilicen para la fijación de anuncios, con respecto 
 
 V. La altura máxima de estos anuncios será de 2.50 metros.
 
-### CAPÍTULO IX. De los Filarmónicos y Grupos Acústicos
+### CAPÍTULO IX. De la Actividad Musical en Vía Pública
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 1240.
 
@@ -15981,53 +15989,155 @@ Los establecimientos dedicados a la renta de salones para fiestas infantiles, ja
 
 Las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales, deberán exhibir las revistas con contenido señalado para adultos en los lugares menos visibles, y limitar su venta a mayores de dieciocho años.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
 ### CAPÍTULO I. Del Ámbito de Aplicaciones y Principios Generales
 
 ###### ARTÍCULO 1339.
 
-Toda persona que individualmente o en grupo se dedique a ofrecer en la vía pública o por otros medios, la música viva y hagan de ella su modo de vida, deberá de contar con acreditación que expida la Dirección General de Gobierno, a través de la Dirección de Reglamentación, y se regirán bajo las disposiciones de este capítulo.
+Toda persona que se dedique a la actividad o a la prestación de servicios relacionados con la ejecución de cualquier género musical en la vía pública, dentro del Municipio de Aguascalientes, deberá de contar con la credencial que expida la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Reglamentación, y se regirán bajo las disposiciones de este capítulo.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 1340.
 
-Para el cumplimiento de las disposiciones de este capítulo, el interesado deberá de exhibir ante la Dirección de Reglamentación la solicitud correspondiente, con todos los datos necesarios acompañada de dos fotografías tamaño infantil por cada uno de los integrantes del grupo, o bien por el filarmónico que haga la solicitud.
+El Municipio contará con un Comité de Actividades Musicales, mismo que es el órgano colegiado, consultivo e imparcial encargado de fomentar y vigilar la actividad de las personas que se dediquen a la actividad musical en vía pública. Cuyos integrantes serán renovados al inicio de cada Administración Municipal, de acuerdo al procedimiento que establezca el H. Ayuntamiento correspondiente.
+
+I. El Comité de Actividades Musicales estará integrado por:
+
+a) Un Presidente.- Que será el Secretario del H. Ayuntamiento y Director General de Gobierno o la persona que éste designe, mismo que tendrá el voto de calidad en caso de empate.
+
+b) Un Secretario Técnico.- Que será el Director de Reglamentación de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno o la persona que éste designe, mismo que tendrá el derecho a voz pero no a voto.
+
+c) Seis vocales, mismos que tendrán derecho a voz y voto y serán los siguientes:
+
+1. El Regidor Presidente de la Comisión de Educación y Cultura del H. Ayuntamiento, o la persona que éste designe.
+
+2. El Titular de la Dirección de Mercados, Estacionamientos y Áreas Comerciales de la Secretaría del H. Ayuntamiento y dirección General de Gobierno o la persona que éste designe.
+
+3. El Director del Instituto Municipal Aguascalentense para la Cultura o la persona que éste designe.
+
+4. Tres representantes de agrupaciones de músicos que deseen participar dentro de la Comisión.
+
+El Presidente, el Secretario Técnico y cada uno de los vocales designarán un suplente. Los anteriores cargos son honoríficos y no percibirán retribución alguna por sus funciones.
+
+II. El Comité de Actividades Musicales tendrá las siguientes facultades y obligaciones:
+
+a) Supervisar el Padrón Municipal de las personas que realicen actividades musicales en vía pública.
+
+b) Proponer a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno la ubicación, de las personas que realicen actividades musicales en vía pública, en el periodo de la Feria Nacional de San Marcos y demás festivales en el año.
+
+c) Realizar los calendarios de festivales populares de música fijando los días, horarios y lugares en coordinación con la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+d) Coordinarse con las demás dependencias del Municipio de Aguascalientes para la organización de los festivales populares de música.
+
+e) Tomar acuerdos sobre situaciones no previstas en el presente capítulo.
+
+III.- El Comité de Actividades Musicales sesionará cuando fuese necesario, a convocatoria por el Secretario Técnico, las sesiones del Comité podrán realizarse con la asistencia de por lo menos la mitad de los integrantes del mismo y sus decisiones serán válidas cuando se tomen por mayoría de votos de los presentes.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 1341.
 
-Una vez presentados los requisitos mencionados en el artículo anterior, la autoridad competente, deberá expedir una credencial al trovador o a cada uno de los integrantes del grupo, con la cuál se acreditará la libertad para ejercer libremente dicho trabajo, de igual manera será un medio de identificación para la persona que la porte.
+Para contar con credencial para poder realizar actividades musicales en la vía pública, el interesado deberá de exhibir, por lo menos quince días hábiles antes de la realización de sus actividades ante la Dirección de Reglamentación, lo siguiente:
 
-Una vez que se ha expedido la credencial inmediatamente la persona acreditada o personas acreditadas se deberán dar de alta en el padrón municipal.
+I. Solicitud que contenga:
+
+a) Fecha
+
+b) Nombre Completo
+
+c) Edad
+
+d) Clave Única de Registro de Población (CURP)
+
+e) Lugar de Nacimiento
+
+f) Domicilio Particular
+
+g) Actividad musical que realiza
+
+h) En su caso, nombre de la agrupación a la que pertenece
+
+i) Firma autógrafa
+
+j) Lugar donde realizará las actividades musicales correspondientes.
+
+II. Identificación oficial.
+
+III. Acta de nacimiento.
+
+IV. Dos fotografías tamaño infantil.
+
+V. Recibo de pago del derecho correspondiente expedido por la Secretaría de Finanzas Públicas Municipales, conforme a lo establecido en la Ley de Ingresos del Municipio de Aguascalientes para el ejercicio fiscal que corresponda en los términos de las políticas de descuento aplicables y que sean establecidas por el H. Ayuntamiento.
+
+Todos los integrantes de las agrupaciones que realicen actividades musicales en vía pública, deberán contar con la credencial referida en el presente artículo.
+
+Una vez presentados los requisitos mencionados en el presente articulo, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Reglamentación, si lo considera procedente, podrá expedir, en un término no mayor a 15 días hábiles, una credencial a la persona que realizará actividades musicales en vía pública, con la cual, éste acreditará la autorización para ejercer dicha actividad en vía pública, ajustándose a las disposiciones jurídicas aplicables.
+
+La Dirección de Reglamentación será responsable de registrar, en un padrón municipal, a las personas que realizan actividades musicales en vía pública. Aquellas personas que dejen de realizar dichas actividades deberán solicitar por escrito su baja del padrón.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 1342.
 
-La credencial tendrá una vigencia por tiempo indefinido, deberá resellarse cada año; una vez que se ha decidido abandonarlo, el trovador o grupo filarmónico, deberá darse de baja del padrón municipal, y el personal del mismo será el encargado de poner en la credencial el sello de cancelada.
+La credencial expedida por la Dirección de Reglamentación tendrá una vigencia de un año y deberá resellarse cada tres meses. En caso de no ser resellada en dicho término, la credencial perderá validez y el interesado deberá realizar de nueva cuenta los trámites y el pago de derechos que correspondan.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 1343.
 
-Todo trovador o integrante de grupo acústico a que se refiere este capítulo, deberá de exhibir la credencial que para el efecto haya expedido la Dirección General de Gobierno, a los inspectores acreditados que así lo requieran.
+Toda persona que realice actividades musicales en vía pública, deberá exhibir la credencial que para tal efecto haya expedido la Dirección de Reglamentación, a los inspectores acreditados que así lo requieran, tanto de la Dirección de Reglamentación como de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, ambas de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno. Nadie podrá realizar actividades musicales en vía pública si no cuenta con credencial vigente y resellada.
 
-###### ARTÍCULO 1344.
+Queda prohibido a las personas que realicen actividades musicales, en función de sus actividades, lo siguiente:
 
-Queda prohibido a los trovadores y grupos musicales, en función de sus actividades, lo siguiente:
-
-l. Ofrecer sus servicios en la vía pública, bajo los efectos de bebidas embriagantes, enervantes, psicotrópicos o cualquier otra sustancia que produzca efectos similares.
+I. Ofrecer sus servicios en la vía pública, bajo los efectos de enervantes, psicotrópicos o cualquier otra sustancia que produzca efectos similares.
 
 II. Escandalizar en la vía pública.
 
-III. Cantar canciones que por el significado de la letra atenten contra la moral y buenas costumbres.
+III. Ejecutar canciones que por el significado de la letra atenten contra la moral y las buenas costumbres.
 
-IV. No portar la credencial vigente.
+IV. No portar la credencial vigente y resellada expedida por la Dirección de Reglamentación de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+V. Exceder el volumen del sonido en alto parlantes, estéreos, radios, o cualquier otro elemento que produzcan sonidos estridentes o molestos a los vecinos o al público en general, en los términos de la Norma Oficial Mexicana aplicable.
+
+VI. Ejercer actividades musicales en avenidas o cruceros principales, así como en los accesos a instituciones religiosas, públicas o de salud.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 1344.
+
+Las violaciones a las disposiciones del artículo anterior serán sancionadas atendiendo a la gravedad de la falta y a los antecedentes que tenga como infractor de la siguiente manera:
+
+1. Multa de 5 a 10 días de Salario Mínimo General Vigente en el Estado de Aguascalientes a las personas que transgredan las disposiciones establecidas en las fracciones I, II y III del artículo 1343 del presente Código.
+
+II. Multa de 10 a 20 días de Salario Mínimo General Vigente en el Estado de Aguascalientes a las personas que transgredan las disposiciones establecidas en las fracciones IV y V del artículo 1343 del presente Código.
+
+III. Suspensión temporal para realizar actividades de la música en vía pública de 30 días a 60 días a las personas que transgredan las disposiciones establecidas en la fracción VI del artículo 1343 del presente Código.
+
+Los inspectores de la Dirección de Mercados, Estacionamientos y Áreas comerciales y así como los inspectores de la Dirección de Reglamentación que observen la violación a las presentes disposiciones, estarán facultados para imponer cualquiera de las siguientes medidas de seguridad:
+
+a) Solicitar el apoyo de la fuerza pública para retirar a las personas que realicen actividades musicales en la vía pública.
+
+b) Asegurar los instrumentos musicales de las personas que infrinjan las disposiciones del presente capítulo.
 
 ###### ARTÍCULO 1345.
 
 Los filarmónicos que ofrezcan sus servicios en la vía pública lo deberán hacer sólo en los lugares que determine la Dirección General de Gobierno.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 1346.
 
-La reincidencia de las contravenciones a estas normas, será motivo suficiente para la cancelación de la credencial.
+La reincidencia en la contravención a estas normas, será motivo suficiente para la cancelación definitiva de la credencial.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 1347.
 
-Será potestativo del propietario de cualquier establecimiento, en cualquiera de sus modalidades, el autorizar el acceso a trovadores o grupos musicales.
+Será potestativo del propietario de cualquier establecimiento, en cualquiera de sus modalidades, el autorizar el acceso a personas que realicen actividades musicales, las cuales podrán prestar sus servicios dentro del horario establecido a la negociación y hasta quince minutos antes de la hora fijada para su cierre por la autoridad municipal.
+
+Será potestativo del propietario de cualquier establecimiento, mientras dure la actuación de los ejecutantes de actividades musicales, apagar los aparatos electrónicos musicales que operen en el local, así como prestar todas las facilidades para el desarrollo de la actividad musical.
 
 ### CAPÍTULO II. De la Nulidad y Eficacia del Acto Administrativo
 
@@ -18946,3 +19056,23 @@ En un plazo no mayor de treinta días hábiles a la entrada en vigor del present
 ###### ARTÍCULO SEXTO.
 
 El Reglamento del Patrimonio Inmobiliario del Municipio de Aguascalientes abroga el Reglamento del Patrimonio Inmobiliario Municipal publicado en el Periódico Oficial del Estado de Aguascalientes, en fecha 1°, de octubre 2001.
+
+P.O. 10 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las solicitudes de credenciales para realizar la actividad musical en vía pública tramitadas antes de la fecha de publicación del presente Decreto, seguirán su curso correspondiente, tal como se establecía previo a presente Decreto. Las nuevas solicitudes, a partir de la entrada en vigor del presente Decreto, seguirán el nuevo procedimiento y requisitos establecidos en el mismo.
+
+###### ARTÍCULO TERCERO.
+
+El Comité de Actividades Musicales deberá quedar conformado a más tardar a los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+El Secretario Técnico del Comité se encargará de realizar la convocatoria a la sesión de instalación del Comité.
+
+El H. Ayuntamiento, designará de entre sus miembros al Regidor o Síndico que se integrará al Comité citado, en un término no mayor a 20 días naturales.
+
+El Secretario Técnico deberá emitir la convocatoria correspondiente para la designación de los tres representantes de las agrupaciones musicales.
