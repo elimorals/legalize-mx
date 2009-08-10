@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2009-08-06"
+last_updated: "2009-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2009.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -475,19 +475,17 @@ El día 1 de agosto de cada año, el ayuntamiento se constituirá solemnemente e
 
 Dicho informe se publicará en la Gaceta Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE AGOSTO DEL 2000)</small>
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 18.
 
-El día 17 de agosto del último año de la gestión del ayuntamiento, en sesión solemne de cabildo deberán comparecer los ciudadanos que, en términos de ley, resultaron electos para ocupar los cargos de presidente municipal, síndico o síndicos y regidores.
+El día 17 de agosto del último año de la gestión del ayuntamiento, en reunión solemne, deberán presentarse los ciudadanos que, en términos de ley, resultaron electos para ocupar los cargos de presidente municipal, síndico o síndicos y regidores.
 
-La sesión tendrá por objeto:
+La reunión tendrá por objeto:
 
-> <small>(REFORMADA, G.G. 11 DE SEPTIEMBRE DE 1997)</small>
+I. Que los miembros del ayuntamiento entrante, rindan la protesta en términos de lo dispuesto por el artículo 144 de la Constitución Política del Estado Libre y Soberano de México. El presidente municipal electo para el período siguiente lo hará ante el representante designado por el Ejecutivo del Estado y a su vez, hará de inmediato lo propio con los demás miembros del ayuntamiento electo;
 
-I. Que los miembros del ayuntamiento entrante, rindan la protesta en términos de lo dispuesto por el artículo 144 de la Constitución Política local. El presidente municipal electo para el período siguiente lo hará ante el representante designado por el Ejecutivo del Estado y a su vez, hará de inmediato lo propio con los demás miembros del ayuntamiento electo;
-
-II. Que los habitantes del municipio conozcan los lineamientos generales del plan y programas de trabajo del ayuntamiento entrante, que será presentado por el presidente Municipal.
+II. Que los habitantes del municipio conozcan los lineamientos generales del plan y programas de trabajo del ayuntamiento entrante, que será presentado por el presidente municipal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE AGOSTO DEL 2000)</small>
 
@@ -495,13 +493,13 @@ II. Que los habitantes del municipio conozcan los lineamientos generales del pla
 
 A las nueve horas del día 18 de agosto del año en que se hayan efectuado las elecciones municipales, el ayuntamiento saliente dará posesión de las oficinas municipales a los miembros del ayuntamiento entrante, que hubieren rendido la protesta de ley, cuyo presidente municipal hará la siguiente declaratoria formal y solemne: "Queda legítimamente instalado el ayuntamiento del municipio de ..., que deberá funcionar durante los años de ...".
 
-> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2009)</small>
 
-A continuación se procederá a la suscripción de las actas y demás documentos relativos a la entrega recepción de la administración municipal, con la participación de los miembros de los ayuntamientos y los titulares de sus dependencias administrativas salientes y entrantes, designados al efecto; la cual se realizará siguiendo los lineamientos, términos, instructivos, formatos, cédulas y demás documentación que disponga el Órgano Superior de Fiscalización del Estado de México para el caso, misma que tendrá en ese acto, la intervención que establezcan las leyes. La documentación que se señala anteriormente deberá ser conocida en la primera sesión de Cabildo por los integrantes del Ayuntamiento a los cuales se les entregará copia de la misma. El ayuntamiento saliente, a través del presidente municipal, presentará al ayuntamiento entrante, con una copia para la Legislatura, un documento que contenga sus observaciones, sugerencias y recomendaciones en relación a la administración y gobierno municipal.
+A continuación se procederá a la suscripción de las actas y demás documentos relativos a la entrega-recepción de la administración municipal, con la participación obligatoria de los miembros de los ayuntamientos y los titulares de sus dependencias administrativas salientes y entrantes, designados al efecto; la cual se realizará siguiendo los lineamientos, términos, instructivos, formatos, cédulas y demás documentación que disponga el Órgano Superior de Fiscalización del Estado de México para el caso, misma que tendrá en ese acto, la intervención que establezcan las leyes. La documentación que se señala anteriormente deberá ser conocida en la primera sesión de Cabildo por los integrantes del Ayuntamiento a los cuales se les entregará copia de la misma. El ayuntamiento saliente, a través del presidente municipal, presentará al ayuntamiento entrante, con una copia para la Legislatura, un documento que contenga sus observaciones, sugerencias y recomendaciones en relación a la administración y gobierno municipal.
 
-> <small>(ADICIONADO, G.G. 11 DE AGOSTO DEL 2000)</small>
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2009)</small>
 
-El ayuntamiento saliente realizara las acciones necesarias para dar cumplimiento a lo dispuesto en los artículos 18 y 19 de la presente Ley.
+El ayuntamiento saliente realizará las acciones necesarias para dar cumplimiento a lo dispuesto en los artículos 18 y 19 de la presente ley, en caso de incumplimiento, se hará del conocimiento de la Contraloría del Poder Legislativo y de las autoridades competentes del Estado, quienes determinarán si existe o no responsabilidad administrativa disciplinaria.
 
 ###### Artículo 20.
 
@@ -2587,7 +2585,7 @@ Publíquese el presente decreto en el Periódico Oficial" Gaceta del Gobierno" d
 
 El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-G.G. 16 DE AGOSTO DE 2009.
+G.G. 6 DE AGOSTO DE 2009.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -2598,3 +2596,9 @@ TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor
 CUARTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá expedir las disposiciones que reglamenten la organización y funcionamiento de las Defensorías Municipales de Derechos Humanos, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, las cuales serán publicadas en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno" y en la Gaceta de la propia Comisión.
 
 QUINTO.- Los Coordinadores Municipales de Derechos Humanos, ahora Defensores Municipales de Derechos Humanos, cuya designación se realizó al amparo de las disposiciones que se modifican, reforman o adicionan, permanecerán en su encargo el periodo para el que fueron designados.
+
+G.G. 10 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
