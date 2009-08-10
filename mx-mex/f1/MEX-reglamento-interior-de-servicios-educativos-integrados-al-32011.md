@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-servicios-educativos-integrados-al-32011
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-10"
-last_updated: "2008-12-18"
+last_updated: "2009-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 10 de junio de 2003.
 
@@ -191,7 +191,9 @@ XVIII. Las demás que le confieran otras disposiciones legales y aquellas que le
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, el Director General se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Coordinación de Operación Educativa;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+I. Coordinación Académica y de Operación Educativa;
 
 II. Coordinación de Administración y Finanzas;
 
@@ -261,11 +263,15 @@ XIII. Las demás que les confieran otras disposiciones legales y aquellas que le
 
 ### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS COORDINACIONES Y DE LA ADSCRIPCION DE LAS DIRECCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 18.
 
-Corresponde a la Coordinación de Operación Educativa:
+Corresponde a la Coordinación Académica y de Operación Educativa:
 
-I. Organizar, operar, supervisar y evaluar los servicios de educación inicial, preescolar, primaria, secundaria, especial, indígena, física, para adultos y de nivel medio superior en su modalidad abierta;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+I. Organizar, operar, supervisar y evaluar los servicios de educación inicial, preescolar, primaria, secundaria, especial, indígena, física, para adultos, de nivel medio superior, en su modalidad abierta y superior para la formación continua y desarrollo profesional del magisterio de SEIEM;
 
 II. Proponer disposiciones técnicas y administrativas para la eficiente organización, operación, supervisión y evaluación del servicio educativo que le corresponda y vigilar su cumplimiento;
 
@@ -279,15 +285,21 @@ VI. Promover el mejoramiento de los centros educativos a su cargo y opinar sobre
 
 VII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 19.
 
-Quedan adscritas a la Coordinación de Operación Educativa:
+Quedan adscritas a la Coordinación Académica y de Operación Educativa:
 
 I. Dirección de Educación Elemental;
 
 II. Dirección de Educación Secundaria y Servicios de Apoyo; y
 
-III. Dirección de Preparatoria Abierta.
+III. Dirección de Preparatoria Abierta;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+IV. Dirección de Educación Superior.
 
 ###### Artículo 20.
 
@@ -335,7 +347,7 @@ Quedan adscritas directamente a la Dirección General:
 
 I. Dirección de Planeación Educativa;
 
-II. Dirección de Educación Superior;
+II. (DEROGADA, G.G. 10 DE AGOSTO DE 2009)
 
 III. Dirección de Carrera Magisterial; y
 
@@ -423,7 +435,9 @@ XV. Otorgar becas comisión al personal de SEIEM, previo acuerdo con el Director
 
 XVI. Elaborar y difundir las convocatorias para la prestación del Período Sabático, así como recibir, analizar y evaluar los programas para la asignación del mismo de conformidad con la normatividad aplicable; y
 
-XVII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+XVII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Coordinador Académico y de Operación Educativa y el Director General.
 
 ###### Artículo 25.
 
@@ -449,11 +463,15 @@ II. Ejecutar los programas y proyectos de apoyo educativo en los servicios a su 
 
 III. Proponer, en el ámbito de su competencia, la prestación de nuevos servicios educativos;
 
-IV. Someter a la consideración del Coordinador de Operación Educativa, propuestas de reformas a los contenidos regionales de los planes y programas de estudio a su cargo;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+IV. Someter a la consideración del Coordinador Académico y de Operación Educativa, propuestas de reformas a los contenidos regionales de los planes y programas de estudio a su cargo;
 
 V. Establecer los lineamientos y mecanismos para el desarrollo de las actividades académicas, de supervisión y evaluación de los servicios de su competencia;
 
-VI. Someter a la consideración del Coordinador de Operación Educativa, lineamientos para supervisar el funcionamiento de los planteles de educación elemental;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+VI. Someter a la consideración del Coordinador Académico y de Operación Educativa, lineamientos para supervisar el funcionamiento de los planteles de educación elemental;
 
 VII. Proponer y ejecutar programas de actualización, capacitación y superación profesional del personal académico adscrito a la Dirección;
 
@@ -461,7 +479,9 @@ VIII. Actualizar el catálogo de centros de trabajo bajo su responsabilidad, inf
 
 IX. Supervisar la adecuada operación de los programas de cómputo y de extensión y vinculación educativa de la Dirección; y
 
-X. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Coordinador de Operación Educativa y el Director General.
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+X. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Coordinador Académico y de Operación Educativa y el Director General.
 
 ###### Artículo 27.
 
@@ -473,11 +493,15 @@ II. Ejecutar los programas y proyectos de apoyo educativo en los servicios a su 
 
 III. Proponer, en el ámbito de su competencia, la prestación de nuevos servicios educativos;
 
-IV. Someter a consideración del Coordinador de Operación Educativa, propuestas de reformas a los contenidos regionales de los planes y programas de estudio a su cargo;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+IV. Someter a la consideración del Coordinador Académico y de Operación Educativa, propuestas de reformas a los contenidos regionales de los planes y programas de estudio a su cargo;
 
 V. Establecer lineamientos y mecanismos para el desarrollo de las actividades académicas, de supervisión y evaluación de los servicios de su competencia;
 
-VI. Someter a la consideración del Coordinador de Operación Educativa, lineamientos para supervisar el funcionamiento de los planteles de educación secundaria;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+VI. Someter a la consideración del Coordinador Académico y de Operación Educativa, lineamientos para supervisar el funcionamiento de los planteles de educación secundaria;
 
 VII. Proponer y ejecutar los programas de actualización, capacitación y superación profesional del personal académico adscrito a la Dirección;
 
@@ -485,7 +509,9 @@ VIII. Actualizar el catálogo de centros de trabajo bajo su responsabilidad, inf
 
 IX. Supervisar la adecuada operación de los programas de cómputo y de extensión y vinculación educativa de la Dirección; y
 
-X. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Coordinador de Operación Educativa y el Director General.
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+X. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Coordinador Académico y de Operación Educativa y el Director General.
 
 ###### Artículo 28.
 
@@ -503,7 +529,9 @@ V. Gestionar ante la autoridad competente, cuando le sea requerido, la revalidac
 
 VI. Resguardar y disponer para su consulta los documentos oficiales de los usuarios del subsistema de preparatoria abierta;
 
-VII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Coordinador de Operación Educativa y el Director General.
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+
+VII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Coordinador Académico y de Operación Educativa y el Director General.
 
 ###### Artículo 29.
 
@@ -766,3 +794,11 @@ G.G. 17 DE DICIEMBRE DE 2008.
 PRIMERO. Publíquese el presente acuerdo en el Periodito Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El Presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor rango que se opongan al presente Acuerdo.
