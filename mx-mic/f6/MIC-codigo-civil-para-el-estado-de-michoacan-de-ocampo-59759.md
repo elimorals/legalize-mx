@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2008-12-30"
+last_updated: "2009-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2009.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -569,7 +569,7 @@ Tiene derecho a que se le reembolsen los gastos necesarios.
 
 ###### Artículo 99.
 
-El que posee en concepto de dueño, por más de un año pacífica, continua y públicamente, aunque su posesión sea de mala fe, con tal que no sea delictuosa, tiene derecho:
+El que posee en concepto de dueño, por más de un año pacífica (sic), continua y públicamente, aunque su posesión sea de mala fe, con tal que no sea delictuosa, tiene derecho:
 
 I. A las dos terceras partes de los frutos industriales que haga producir a la cosa poseída, perteneciendo la otra tercera parte al propietario, si reivindica la cosa antes de que se prescriba; y,
 
@@ -1995,7 +1995,7 @@ Para los efectos de los artículos 112 y 113 se dice legalmente cambiada la caus
 
 ###### Artículo 411.
 
-La prescripción negativa aprovecha a todos, aún a los que por si mismos no pueden obligarse.
+La prescripción negativa aprovecha a todos, aún a los que por sí mismos no pueden obligarse.
 
 ###### Artículo 412.
 
@@ -3203,7 +3203,7 @@ III. Si renuncia a su derecho.
 
 ###### Artículo 670.
 
-La disposición testamentaria que contengan condición de suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
+La disposición testamentaria que contengan (sic) condición de suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
 
 ## TÍTULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
@@ -3273,9 +3273,13 @@ En el caso del artículo que precede, no tendrá validez el testamento mientras 
 
 Se prohíbe a los notarios y a cualesquiera otras personas que hayan de redactar testamentos, dejar hojas en blanco y servirse de abreviaturas o cifras bajo la pena de veinte días de salario mínimo de multa a los notarios y de cien los que no lo fueren.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 680.
 
-Los notarios que hubieren otorgado un testamento y los que lo tengan en su poder, si saben el fallecimiento del testador, deben poner en conocimiento de los interesados la existencia de tal documento, cuando conozcan el domicilio de éstos; y en caso contrario avisarán al Juez de Primera Instancia. La infracción de este artículo se castigará con multa de veinte días de salario.
+Los que tengan en su poder un testamento o los Notarios que lo hubieren otorgado, deben dar aviso a los interesados luego que sepan de la muerte del testador y si no lo hacen serán responsables de los daños y perjuicios que la dilación ocasione. Si los interesados están ausentes o son desconocidos del Notario, la noticia se dará al Juez competente.
+
+En los casos en que se otorgue testamento, el Notario que dé fe de su otorgamiento o la autoridad que lo reciba, deberá formular un aviso provisional de manera electrónica de dicho otorgamiento dentro de las veinticuatro horas siguientes al Archivo General de Notarías encargada de llevar el registro correspondiente en los términos señalados en la legislación aplicable, quien a su vez remitirá el informe al Registro Nacional de Avisos de Testamento en los términos señalados en la Ley del Notariado del Estado.
 
 ### CAPÍTULO II. DEL TESTAMENTO PÚBLICO ABIERTO
 
@@ -4619,7 +4623,7 @@ Los contratos se perfeccionan por el mero consentimiento; excepto aquéllos que 
 
 ###### Artículo 963.
 
-La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
+La validez y el cumplimiento de los contratos no puede (sic) dejarse al arbitrio de uno de los contratantes.
 
 #### SECCIÓN SEGUNDA. DE LA CAPACIDAD
 
@@ -4805,7 +4809,7 @@ Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el d
 
 ###### Artículo 1001.
 
-Los supuestos previstos por el artículo anterior se tendrán por cumplidos mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra, a través de estos medios sea atribuible a las personas obligadas y accesible para su ulterior consulta.
+Los supuestos previstos por el artículo anterior se tendrán por cumplidos mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra, a través de estos medios sea atribuible a las personas obligadas y accesible (sic) para su ulterior consulta.
 
 En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán generar, enviar, recibir, archivar o comunicar la información que contenga los términos exactos en que las partes han decidido obligarse, mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, en cuyo caso el fedatario público, deberá hacer constar en el instrumento los elementos a través de los cuales se atribuye la información a las partes y conservar bajo su resguardo una versión íntegra de la misma para su ulterior consulta, otorgando el instrumento de conformidad con la legislación aplicable que lo rige.
 
@@ -5627,7 +5631,7 @@ Lo mismo tiene lugar respecto de los herederos de aquél que haya contraído una
 
 ###### Artículo 1172.
 
-Cada uno de los herederos del acreedor puede exigir la completa ejecución indivisible, obligándose a dar suficiente garantía para la indemnización de los demás coherederos, pero no puede por si solo perdonar el débito total, ni recibir el valor en lugar de la cosa.
+Cada uno de los herederos del acreedor puede exigir la completa ejecución indivisible, obligándose a dar suficiente garantía para la indemnización de los demás coherederos, pero no puede por sí solo perdonar el débito total, ni recibir el valor en lugar de la cosa.
 
 Si uno solo de los herederos ha perdonado la deuda o recibido el valor de la cosa, el coheredero no puede pedir la cosa indivisible sino devolviendo la porción del heredero que haya perdonado o que haya recibido el valor.
 
@@ -10724,3 +10728,7 @@ P.O. 30 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE AGOSTO DE 2009.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
