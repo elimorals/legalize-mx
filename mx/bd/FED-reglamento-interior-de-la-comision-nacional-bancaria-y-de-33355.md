@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-bancaria-y-de-33355
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-18"
-last_updated: "2007-12-26"
+last_updated: "2009-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33355&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-08-14"
 
 REGLAMENTO INTERIOR DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL BANCARIA Y DE VALORES, PUBLICADO EN EL D.O.F. DE 12 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 18 de agosto de 2003.
 
@@ -1674,3 +1676,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Comisión Nacional Bancaria y de Valores realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a la unidad o área que desaparece, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
 
 TERCERO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite y que conforme al mismo deban ser atendidos por una unidad administrativa diversa a la que hubiera correspondido conforme a las disposiciones vigentes antes de esa fecha, serán transferidos por la unidad administrativa que se encuentre conociendo del asunto de que se trate, a la unidad o unidades administrativas a las que se les haya atribuido la competencia en este ordenamiento.
+
+D.O.F. 12 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Nacional Bancaria y de Valores publicado en el Diario Oficial de la Federación el 18 de agosto de 2003, y reformado mediante Decretos publicados en el mismo órgano oficial de difusión el 21 de diciembre de 2005 y 26 de diciembre de 2007.
+
+TERCERO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de este Reglamento y que, conforme al mismo, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido conforme a las disposiciones que se abrogan, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor del presente Reglamento, pasarán a la nueva unidad o unidades competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
+
+CUARTO.- Se respetarán con estricto apego a la Ley los derechos laborales de los trabajadores de la Comisión Nacional Bancaria y de Valores que, con motivo de la entrada en vigor del presente Reglamento, cambie su adscripción en la organización administrativa de la propia Comisión.
+
+QUINTO.- Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del presente Reglamento serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Comisión Nacional Bancaria y de Valores.
