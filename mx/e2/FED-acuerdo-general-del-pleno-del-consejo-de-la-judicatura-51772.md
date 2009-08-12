@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2009-07-02"
+last_updated: "2009-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE AGOSTO DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -813,9 +813,17 @@ V. Designar a propuesta de su presidente al secretario técnico de la comisión;
 
 VI. Nombrar al personal subalterno que fije el presupuesto;
 
-VII. Participar en el diseño de la política informática e información estadística, en el ámbito de su competencia; y
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE AGOSTO DE 2009)</small>
 
-VIII. Las demás que establezcan la Ley, el Pleno y el presente Acuerdo.
+VII. Participar en el diseño de la política informática e información estadística, en el ámbito de su competencia;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE AGOSTO DE 2009)</small>
+
+VIII. Comisionar temporalmente, cuando quede sin dos magistrados un Tribunal Colegiado, a otro que se integre a éste, debiendo darse preferencia para la designación a los magistrados del propio Circuito o del más cercano, cuando esto sea posible y hacerlo del conocimiento del Pleno; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE AGOSTO DE 2009)</small>
+
+IX. Las demás que establezcan la Ley, el Pleno y el presente Acuerdo.
 
 Sección 8a.
 
@@ -1841,25 +1849,37 @@ XXII. Elaborar y presentar su programa anual de trabajo, de actividades y los re
 
 XXIII. Las demás que le atribuyan expresamente el Pleno o la Comisión de Administración del Consejo.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 105.
 
-La Dirección General de Gestión Administrativa será la encargada de atender los requerimientos de apoyo logístico de los funcionarios del Consejo.
+La Dirección General de Gestión Administrativa será la encargada de atender los requerimientos de atención y apoyo a los Consejeros o a las personas que éstos determinen.
 
 ###### Artículo 106.
 
 El titular de la Dirección General de Gestión Administrativa tendrá las siguientes atribuciones:
 
-I. Llevar a cabo las acciones encaminadas a la atención de los funcionarios del Consejo o de las personas que determine el Presidente, ante los sectores públicos, social y privado;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE AGOSTO DE 2009)</small>
 
-II. Proporcionar a los funcionarios señalados en la fracción anterior el apoyo logístico que sea necesario, en las comisiones y traslados a los eventos a los que asistan o les corresponda realizar en interés del Poder Judicial de la Federación, cuando así les sea requerido;
+I. Realizar las acciones encaminadas a la atención de los Consejeros o de las personas que éstos determinen, en sus compromisos y trámites con los sectores público, social y privado;
 
-III. Auxiliar y proporcionar apoyo a los funcionarios a que se refiere la fracción I de este artículo, en los trámites administrativos y legales ante toda clase de autoridades, instituciones públicas y privadas, particulares y unidades administrativas del Consejo, en los casos que sea necesario;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE AGOSTO DE 2009)</small>
+
+II. Brindar el apoyo logístico necesario a los Consejeros durante las visitas que les corresponda realizar a los órganos jurisdiccionales de los Circuitos en que se divide el Poder Judicial de la Federación, con el auxilio de la Dirección General de Administración Regional; así como otorgar, cuando lo soliciten los propios Consejeros, la asistencia y traslado que requieran en sus comisiones y eventos;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE AGOSTO DE 2009)</small>
+
+III. Auxiliar y proporcionar apoyo a los Consejeros en los trámites administrativos y legales ante toda clase de autoridades, instituciones públicas y privadas, particulares y unidades administrativas del Consejo; así como brindar asistencia a los Consejeros en el trámite de toda la documentación necesaria para los viajes de comisión en las oficinas diplomáticas y ante la Secretaría de Relaciones Exteriores;
 
 IV. Coordinar con las unidades administrativas y órganos auxiliares del Consejo, así como con diversos órganos o instituciones, públicas o privadas, las acciones que coadyuven al objetivo mencionado;
 
-V. Proporcionar a los servidores públicos del Consejo, la información, orientación, formatos e instructivos que sean necesarios para efectuar los trámites administrativos y legales, cuando así se lo soliciten;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE AGOSTO DE 2009)</small>
 
-VI. Dar cuenta al Presidente de todos los asuntos que le hayan sido turnados o que el Presidente le haya encomendado;
+V. Proporcionar a los Consejeros la información, orientación, formatos e instructivos que sean necesarios para efectuar trámites administrativos y legales, así como el traslado de documentos oficiales y confidenciales, cuando así lo soliciten;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE AGOSTO DE 2009)</small>
+
+VI. Realizar actividades auxiliares para la Presidencia, y dar cuenta al Presidente de todos los asuntos que le hayan sido turnados o que el Presidente le haya encomendado;
 
 VII. Rendir un informe anual al Presidente, respecto de las actividades realizadas;
 
@@ -3522,3 +3542,23 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
+
+D.O.F. 12 DE AGOSTO DE 2009.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTICULO 59.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
+
+D.O.F. 12 DE AGOSTO DE 2009.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTICULO 105 Y LAS FRACCIONES I, II, III, V y VI DEL ARTICULO 106.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
