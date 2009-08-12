@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51771"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2009-07-06"
+last_updated: "2009-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE AGOSTO DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -447,9 +447,11 @@ Cuando en razón de un procedimiento administrativo de responsabilidad, cualquie
 
 #### Sección I. De los Organos Competentes
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 12 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 50.
 
-La Contraloría es competente para investigar y conocer de los procedimientos relacionados con las responsabilidades administrativas de los servidores públicos de los órganos administrativos del Consejo. Tratándose de los servidores públicos que hubieren sido nombrados por el Pleno, se requerirá de su autorización, tomada en sesión plenaria, para iniciar la investigación y, en su caso, el procedimiento respectivo.
+La Contraloría es competente para investigar y conocer de los procedimientos relacionados con las responsabilidades administrativas de los servidores públicos de los órganos administrativos del Consejo.
 
 Cuando de un mismo acto se derive alguna causa de responsabilidad de un servidor público adscrito a órgano jurisdiccional, su conocimiento corresponderá al Consejo conforme a las reglas previstas en el Capítulo II de este Título, así como en aquellos casos en que el propio Consejo considere conveniente atraerlos a su conocimiento.
 
@@ -475,9 +477,11 @@ La Contraloría llevará el registro de los servidores públicos sancionados y d
 
 En ningún caso, al expedirse informe público, se hará mención de los procedimientos de responsabilidad que hubieran sido desechados, declarados improcedentes o infundados.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 12 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 55.
 
-La Contraloría propondrá al Pleno, de oficio o previa denuncia o queja, el inicio de la investigación o, en su caso, del procedimiento de responsabilidad administrativa de los servidores públicos que hubieran sido nombrados por el Pleno. En los demás casos, la propia Contraloría dictará el proveído inicial, cualquiera que fuere su sentido.
+La Contraloría, cuando inicie una investigación o procedimiento administrativo de responsabilidad de oficio, o con motivo de denuncia o queja en contra de los servidores públicos que hubieran sido nombrados por el Pleno, lo hará del conocimiento de éste, además deberá informarle de los resultados obtenidos durante la investigación.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL DIVERSO QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE JULIO DE 2009)</small>
 
@@ -1554,3 +1558,11 @@ SEGUNDO.- El contenido de la presente reforma será aplicable en los conflictos 
 TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
+
+D.O.F. 12 DE AGOSTO DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para su difusión, publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial y su Gaceta, así como en los medios electrónicos de consulta pública.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
