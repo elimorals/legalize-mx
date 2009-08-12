@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-acceso-a-la-informacion-publica-gubernamental-394
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-14"
-last_updated: "2006-06-09"
+last_updated: "2009-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, N.L., PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 14 de abril de 2004.
 
@@ -622,3 +624,13 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESE
 SEGUNDO: Mándese publicar el presente acuerdo en el Periódico Oficial del Estado de Nuevo León, a fin de que las modificaciones al Reglamento señaladas en el punto anterior, entren en vigor al día siguiente de su publicación y hágase posteriormente su difusión a través de la Gaceta Municipal.
 
 TERCERO: Gírense las instrucciones al Presidente Municipal y al Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
+
+P.O. 12 DE AGOSTO DE 2009.
+
+Artículo Primero.- Artículo Primero.- (sic) El Reglamento de Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, Nuevo León, publicado en el Periódico Oficial del Estado No. 51 el 14 de Abril de 2004 y todas sus reformas, quedará abrogado al iniciar la vigencia del presente Reglamento.
+
+Artículo Segundo.- Se aprueba el presente Reglamento de Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, Nuevo León, con las modalidades que establece el artículo siguiente.
+
+Artículo Tercero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
+
+Artículo Cuarto.- El Comité tendrá 60 días hábiles siguientes a la entrada en vigor del presente Reglamento para integrarse y comenzar con los trabajos encomendados por este ordenamiento.
