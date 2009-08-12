@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-para-el-estado-de-63083"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-06"
-last_updated: "2009-05-29"
+last_updated: "2009-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2009.
 
 Código publicado en la Sección Extraordinaria del Periódico Oficial del Estado de Michoacán, el sábado 6 de septiembre de 2008.
 
@@ -5463,6 +5463,8 @@ Cuando al hacerse una cesión de bienes sólo hubiera acreedores hipotecarios, s
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 976.
 
 Aceptado el cargo por el síndico, se le pondrá bajo inventario desde el día siguiente del aseguramiento en posesión de los bienes, libros y papeles del deudor. Si éstos estuviesen fuera del lugar de residencia del juicio, se inventariarán con intervención de la autoridad judicial exhortada al efecto, y se citará al deudor para la diligencia por medio de correo certificado.
@@ -5527,7 +5529,7 @@ De los juicios de sucesión
 
 ###### Artículo 986.
 
-El Juez, tan luego como tenga conocimiento de que una persona ha fallecido, nombrará un albacea provisional de la sucesión, en los términos que adelante se expresan, quien se ocupará de inventariar los bienes mortuorios y representará a la sucesión mientras se nombra albacea definitivo o se declara legítimo el testamento en su caso.
+El Juez tan luego corno tenga conocimiento de que una persona ha fallecido, nombrará un albacea provisional de la sucesión, en los términos que adelante se expresan, quien se ocupará de solicitar al Archivo General de Notarías el certificado de existencia o inexistencia de disposición testamentaria del de cujus, así como de inventariar los bienes y representará a la sucesión mientras se nombra albacea definitivo o se declara legítimo el testamento en su caso.
 
 El albacea provisional será nombrado dentro de los presuntos herederos, si al radicarse el juicio sucesorio presentaren los documentos con que pretendan acreditar su entroncamiento con el autor de la herencia; en caso, contrario, designará al representante del Fisco del Estado.
 
@@ -6660,3 +6662,7 @@ P.O. 29 DE MAYO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE AGOSTO DE 2009.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
