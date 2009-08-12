@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-notariado-del-estado-de-michoacan-de-ocampo-6136"
 country: "mx"
 rank: "ley"
 publication_date: "1980-02-21"
-last_updated: "1986-09-11"
+last_updated: "2009-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:11 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 21 de febrero de 1980.
 
@@ -511,11 +511,51 @@ Las enajenaciones de bienes inmuebles cuyo valor fiscal sea mayor a 1 500 veces 
 
 La obligación que tiene el notario de redactar por escrito las cláusulas de los testamentos públicos abiertos, no implica el deber de escribirlas por sí mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 78.
 
-Siempre que se otorgue un testamento público abierto, los notarios darán aviso enseguida al Director del Registro Público de la Propiedad y Archivo General de Notarías, expresando la fecha, nombre del testador y sus generales. El funcionario citado llevará un libro especialmente destinado a asentar las inscripciones relativas, con los datos que se mencionan.
+Siempre que se otorgue un testamento, el Notario ante quien se celebre dicho acto jurídico dará aviso provisional por vía electrónica del testamento otorgado dentro de las veinticuatro horas siguientes, posteriormente y por escrito remitirá el documento dentro de los ocho días hábiles siguientes, el aviso se realizará ante el Archivo General de Notarías, quien deberá llevar registro electrónico y físico de las inscripciones relativas, con los datos que se mencionan.
 
 Los testamentos públicos cerrados se presentarán al notario en tres ejemplares en sobres debidamente asegurados. Uno quedará depositado en la notaría; otro se remitirá a la Dirección del ramo y el tercero lo conservará el testador. En cada sobre el notario asentará la certificación procedente.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2009)</small>
+
+ARTICULO 78 bis.- El aviso contendrá:
+
+I. Nombre del testador;
+
+II. Nacionalidad del testador;
+
+III. Lugar y fecha de nacimiento;
+
+IV. Clave Única de Registro de Población;
+
+V. Estado civil;
+
+VI. Nombres de los padres o tutores;
+
+VII. Nombre del albacea;
+
+VIII. Lugar y fecha de otorgamiento de testamento;
+
+IX. Clase de testamento;
+
+X. Número del instrumento Notarial;
+
+Xl. Nombre del Notario, número y Distrito donde se otorgó el testamento;
+
+XII. Volumen y número de escritura;
+
+XIII. Lugar y fecha del otorgamiento;
+
+XlV. Antecedentes sucesorios o notariales; y,
+
+XV. Los demás datos que permitan la mejor identificación de la voluntad sucesoria.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2009)</small>
+
+ARTICULO 78 ter.- Los presuntos herederos podrán concurrir ante el Archivo General de Notarias a solicitar certificado positivo o negativo testamentario, previa exhibición del acta de defunción del testador.
 
 ###### ARTICULO 79.
 
@@ -1076,3 +1116,7 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Los Notarios Públicos Vitalicios coleccionarán las escrituras privadas y, protocolizarán los Instrumentos que contengan: estipulaciones contractuales, certificaciones de hechos, reconocimiento de obligaciones o derechos, las constancias de manifestación de última voluntad que se hubiesen otorgado ante los jueces que actuaron por receptoría hasta la fecha en que entre en vigor este Decreto; las que deberán formalizarse en un plazo que no excederá de 60 días hábiles, si los interesados se encuentran domiciliados dentro de su respectiva circunscripción o, en 90 días si residen fuera de ella.
+
+P.O. 12 DE AGOSTO DE 2009.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
