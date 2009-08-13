@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-el-fideicomiso-que-administrara-el-fondo-para-1841
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2007-08-31"
+last_updated: "2009-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18418&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-12-27"
 
 LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARA EL FONDO PARA EL FORTALECIMIENTO DE SOCIEDADES Y COOPERATIVAS DE AHORRO Y PRESTAMO Y DE APOYO A SUS AHORRADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 29 de diciembre de 2000.
 
@@ -587,8 +587,6 @@ Para efectos de lo previsto en este precepto, la fracción III del artículo 3, 
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER PARRAFO SEGUNDO DEL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2005)</small>
-
 ###### ARTÍCULO QUINTO.
 
 Las sociedades o asociaciones a que se refiere el primer párrafo del artículo anterior, podrán distribuir productos, servicios y programas gubernamentales, actuar como agentes de pago de los mencionados programas y otorgar créditos o prestar servicios relacionados con éstos, cuando cumplan con los requisitos siguientes:
@@ -613,9 +611,11 @@ Las sociedades o asociaciones que se afilien a una Federación en términos de l
 
 Las restricciones previstas en el párrafo anterior, deberán hacerse constar expresamente en los estatutos sociales o bases constitutivas de las Federaciones, así como en su reglamento interior.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTÍCULO SÉPTIMO.
 
-El régimen previsto en el Artículo 4 bis de esta Ley, será aplicable también a las sociedades cooperativas constituidas con anterioridad a la fecha de entrada en vigor del presente Decreto y que tengan por objeto exclusivamente la captación de recursos de sus socios para su colocación entre éstos, siempre y cuando cumplan con los límites y condiciones previstos en el propio Artículo 4 bis de esta Ley.
+(DEROGADO, D.O.F. 13 DE AGOSTO DE 2009)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -641,11 +641,13 @@ No será aplicable en la realización de las operaciones contenidas en este art�
 
 A las Sociedades de Ahorro y Préstamo y Uniones de Crédito que de conformidad con lo establecido en la Ley de Ahorro y Crédito Popular sean autorizadas por la Comisión como Entidades de Ahorro y Crédito Popular, les será revocada la autorización que les hubiere sido otorgada en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito a partir de la fecha en que surta efectos la autorización para operar como Entidad de Ahorro y Crédito Popular, sin que se ubiquen en estado de disolución y liquidación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO NOVENO.
 
-Las sociedades cooperativas, así como las sociedades, asociaciones civiles y sociedades de solidaridad social que capten recursos de sus socios o asociados para su colocación entre éstos y que tengan la intención de solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidades de Ahorro y Crédito Popular, podrán transformarse en sociedades cooperativas de ahorro y préstamo o en sociedades anónimas, mediante acuerdo de la mayoría de los socios o asociados con derecho a voto. Las sociedades de solidaridad social que se transformen en términos de este artículo, perderán dicho carácter a partir de la fecha en que surta efectos a terceros el acuerdo de transformación, por lo quedarán sin efectos por ministerio de ley, las autorizaciones o permisos que la autoridad competente hubiere otorgado para que se constituyeran con el carácter de sociedad de solidaridad social. Lo anterior no implicara que se ubiquen en estado de disolución y liquidación.
+Las sociedades, asociaciones civiles y sociedades de solidaridad social, que capten recursos de sus Socios o asociados para su colocación entre éstos, distintas a Sociedades Cooperativas de cualquier tipo, que tengan la intención de solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidades de Ahorro y Crédito Popular, podrán transformarse en Sociedades Cooperativas de Ahorro y Préstamo o en sociedades anónimas mediante acuerdo de la mayoría de los Socios o asociados con derecho a voto. Las sociedades de solidaridad social que se transformen en términos de este Artículo, perderán dicho carácter a partir de la fecha en que surta efectos a terceros el acuerdo de transformación, por lo que quedarán sin efectos por ministerio de Ley, las autorizaciones o permisos que la autoridad competente hubiere otorgado para que se constituyeran con el carácter de Sociedad de solidaridad social. Lo anterior no implicará que se ubiquen en estado de disolución y liquidación.
 
 El acuerdo de transformación adoptado de conformidad con lo señalado en el párrafo anterior deberá protocolizarse ante Fedatario Público.
 
@@ -701,13 +703,21 @@ TERCERO.- Las sociedades o asociaciones que hayan dado cumplimiento a lo dispues
 
 La Federación con la opinión de los consultores, clasificará a las sociedades o asociaciones en alguna de las categorías siguientes:
 
-I. Categoría A. Aquellas sociedades o asociaciones que estén en posibilidades de cumplir con los requisitos mínimos para solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidades en términos de esta Ley;
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-II. Categoría B. Aquellas sociedades o asociaciones que requieran de un plan de estabilización financiera y operativa, así como de un programa de ajuste para estar en posibilidades de cumplir con los requisitos mínimos para solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidades;
+I. Categoría A. Aquellas sociedades o asociaciones que estén en posibilidad de cumplir con los requisitos mínimos para solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Sociedades Financieras Populares en términos de esta Ley;
 
-III. Categoría C. Aquellas sociedades o asociaciones que requieran llevar a cabo un proceso de reestructuración que pueda implicar, entre otros aspectos, su fusión con otra sociedad, su escisión o la transmisión de activos y pasivos, entre otros, y que además puedan necesitar apoyos financieros, a fin de estar en posibilidad de cumplir los requisitos mínimos para solicitar la autorización a la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidades, o
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-IV. Categoría D. Aquellas sociedades o asociaciones que no estén en posibilidad de cumplir con los requisitos mínimos para poder solicitar la autorización para constituirse y operar como Entidades.
+II. Categoría B. Aquellas sociedades o asociaciones que requieran de un plan de estabilización financiera y operativa, así como de un programa de ajuste para estar en posibilidades de cumplir con los requisitos mínimos para solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Sociedades Financieras Populares;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+III. Categoría C. Aquellas sociedades o asociaciones que requieran llevar a cabo un proceso de reestructuración que pueda implicar, entre otros aspectos, su fusión con otra Sociedad, su escisión o la transmisión de activos y pasivos, entre otros, y que además puedan necesitar apoyos financieros, a fin de estar en posibilidad de cumplir los requisitos mínimos para solicitar la autorización a la Comisión Nacional Bancaria y de Valores para constituirse y operar como Sociedades Financieras Populares, o
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+IV. Categoría D. Aquellas sociedades o asociaciones que no estén en posibilidad de cumplir con los requisitos mínimos para poder solicitar la autorización para constituirse y operar como Sociedades Financieras Populares.
 
 Para efecto de la clasificación a que se refieren las fracciones anteriores, no se considerará dentro de los requisitos que las sociedades o asociaciones deban cumplir para obtener la autorización de la Comisión Nacional Bancaria y de Valores en términos de lo previsto en este artículo, al dictamen a que se refiere el artículo 9 de la Ley de Ahorro y Crédito Popular.
 
@@ -719,9 +729,11 @@ CUARTO.- Las sociedades o asociaciones que al 1 de julio de 2008 hubieren dado c
 
 Las Federaciones, así como los consultores referidos en el párrafo anterior, deberán desarrollar los programas de asesoría, capacitación y seguimiento que resultarán aplicables a cada una de las sociedades o asociaciones a que se refiere este artículo, a más tardar el 31 de diciembre de 2008.
 
-QUINTO.- Las sociedades o asociaciones que cumplan con todos los requisitos previstos en los artículos Segundo, Tercero y Cuarto Transitorios de este Decreto dentro de los plazos previstos para ello, y que además hayan sido clasificadas por alguna Federación en cualquiera de las Categorías previstas en las fracciones I, II y III del artículo Tercero Transitorio anterior, podrán continuar realizando operaciones que impliquen la captación de recursos de sus socios o asociados para su colocación entre éstos hasta el 31 de diciembre de 2010, en los términos y bajo las condiciones previstos por el artículo Octavo Transitorio del presente Decreto. Lo anterior, siempre y cuando den cumplimiento a todas y cada una de las obligaciones, términos y condiciones contenidas en los programas establecidos en el artículo Cuarto Transitorio anterior, y en el entendido de que a más tardar el 31 de diciembre de 2010 deberán presentar a la Comisión Nacional Bancaria y de Valores su solicitud de autorización para organizarse y funcionar como Entidad de Ahorro y Crédito Popular en términos de la Ley de la materia.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-Las sociedades o asociaciones que de conformidad con lo dispuesto en este artículo, hayan solicitado a la Comisión Nacional Bancaria y de Valores la autorización para organizarse y funcionar como Entidades, podrán seguir captando recursos hasta en tanto reciban una respuesta por parte de la referida Comisión a su solicitud de autorización, siempre y cuando la solicitud haya sido acompañada del dictamen favorable de una Federación.
+QUINTO.- Las sociedades o asociaciones que cumplan con todos los requisitos previstos en los Artículos Segundo, Tercero y Cuarto Transitorios de este Decreto dentro de los plazos previstos para ello, y que además hayan sido clasificadas por alguna Federación en cualquiera de las Categorías previstas en las fracciones I, II y III del Artículo Tercero Transitorio anterior, podrán continuar realizando operaciones que impliquen la captación de recursos de sus Socios o asociados para su colocación entre éstos hasta el 31 de diciembre de 2010, en los términos y bajo las condiciones previstos por el Artículo Octavo Transitorio del presente Decreto. Lo anterior, siempre y cuando den cumplimiento a todas y cada una de las obligaciones, términos y condiciones contenidas en los programas establecidos en el Artículo Cuarto Transitorio anterior, y en el entendido de que a más tardar el 31 de diciembre de 2010 deberán presentar a la Comisión Nacional Bancaria y de Valores su solicitud de autorización para organizarse y funcionar como Sociedad Financiera Popular en términos de la Ley de la materia.
+
+Las sociedades o asociaciones que de conformidad con lo dispuesto en este Artículo, hayan solicitado a la Comisión Nacional Bancaria y de Valores la autorización para organizarse y funcionar como Sociedades Financieras Populares, podrán seguir captando recursos hasta en tanto reciban una respuesta por parte de la referida Comisión a su solicitud de autorización, siempre y cuando dicha solicitud haya sido acompañada del dictamen favorable de una Federación.
 
 SEXTO.- Las Federaciones con la opinión de los consultores con experiencia en finanzas populares contratados por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo, deberán evaluar periódicamente el cumplimiento de los programas de asesoría, capacitación y seguimiento referidos en el artículo Cuarto Transitorio de este Decreto, pudiendo modificar la clasificación originalmente asignada, como consecuencia de la evaluación periódica antes referida.
 
@@ -733,37 +745,37 @@ Las asociaciones o sociedades que en términos de lo previsto en este artículo,
 
 Las asociaciones o sociedades que se encuentren en el supuesto referido en el párrafo anterior, podrán someter por una única ocasión a la Federación la solicitud de ser clasificadas nuevamente, dentro de un plazo de 90 días contado a partir de la fecha en que se les hubiese notificado que fueron clasificadas en la citada categoría D, siempre y cuando hayan efectivamente suspendido las operaciones que implican captación de recursos. En caso de que se hubieren subsanado, a satisfacción de la Federación con la opinión del consultor, las circunstancias que las ubicaron en dicha categoría, podrán continuar con el programa de asesoría, capacitación y seguimiento al cual originalmente estaban sujetas, con adecuaciones que resulten pertinentes.
 
-SÉPTIMO.- Las sociedades o asociaciones a que se refiere el artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, que al 31 de diciembre de 2008 no estén en posibilidad de solicitar la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Entidades, deberán abstenerse de realizar operaciones que impliquen captación de recursos entre sus socios o asociados para su colocación entre éstos.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+SÉPTIMO.- Las sociedades o asociaciones a que se refiere el Artículo Cuarto Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, que al 31 de diciembre de 2008 no estén en posibilidad de solicitar la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Sociedades Financieras Populares, deberán abstenerse de realizar operaciones que impliquen captación de recursos entre sus Socios o asociados para su colocación entre éstos.
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, excepcionalmente podrán continuar llevando a cabo las referidas operaciones hasta el 31 de diciembre de 2010, aquellas sociedades o asociaciones que obtengan una prórroga a su programa de asesoría, capacitación y seguimiento de la Federación a la que se hubieren afiliado o con la que hubieren celebrado contrato de prestación de servicios, con la opinión favorable del consultor con experiencia en finanzas populares contratado por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo.
 
 Para efectos de lo previsto en el párrafo anterior, las asociaciones o sociedades deberán obtener la prórroga en cuestión a más tardar el 31 de diciembre de 2008, siempre que a dicha fecha se encuentren clasificadas en alguna de las Categorías referidas en los incisos a), b) y c) de la fracción IV del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005.
 
-Las sociedades y asociaciones a que hace referencia este artículo, deberán acordar con la Federación a la que se hubiesen afiliado o con la que hayan celebrado contrato de prestación de servicios y con el consultor correspondiente, metas y compromisos periódicos encaminados a la presentación de su solicitud de autorización para organizarse y funcionar como Entidad. Dichos acuerdos deberán ajustarse a lo dispuesto por la Ley de Ahorro y Crédito Popular y la regulación secundaria que de ella derive, en particular a lo relativo a criterios contables, capital mínimo, requerimientos de capitalización, provisionamiento de cartera, control interno y proceso crediticio.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+Las sociedades y asociaciones a que hace referencia este Artículo, deberán acordar con la Federación a la que se hubiesen afiliado o con la que hayan celebrado contrato de prestación de servicios y con el consultor correspondiente, metas y compromisos periódicos encaminados a la presentación de su solicitud de autorización para organizarse y funcionar como Sociedad Financiera Popular. Dichos acuerdos deberán ajustarse a lo dispuesto por la Ley de Ahorro y Crédito Popular y la regulación secundaria que de ella derive, en particular a lo relativo a criterios contables, capital mínimo, requerimientos de capitalización, provisionamiento de cartera, control interno y proceso crediticio.
 
 Las Federaciones deberán incluir en las publicaciones semestrales que deben efectuar en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, un listado en el que se mencionen las sociedades o asociaciones que se hubiesen acogido a la prórroga a la que se refiere el presente artículo.
 
 OCTAVO.- Las sociedades o asociaciones referidas en los artículos Quinto y Séptimo anterior, a partir del 1 de enero de 2009 deberán sujetarse a lo siguiente:
 
-I. No podrán incrementar sus activos crediticios en un porcentaje superior al veinte por ciento anual de su valor al 31 de diciembre de 2008, valuados de conformidad con las disposiciones que emita la Comisión Nacional Bancaria y de Valores para Entidades de Ahorro y Crédito Popular con activos por un monto equivalente a los de la sociedad o asociación de que se trate, durante todo el período en el que se sujeten a este régimen;
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+I. No podrán incrementar sus activos crediticios en un porcentaje superior al veinte por ciento anual de su valor al 31 de diciembre de 2008, valuados de conformidad con las disposiciones que emita la Comisión Nacional Bancaria y de Valores para Sociedades Financieras Populares con activos por un monto equivalente a los de la Sociedad o asociación de que se trate, durante todo el período en el que se sujeten a este régimen;
 
 II. No podrán abrir nuevas sucursales, y
 
-III. No podrán celebrar operaciones distintas a las que les correspondería realizar de acuerdo al Nivel de Operaciones que, en su caso, les podría ser asignado como Entidades de Ahorro y Crédito Popular de acuerdo a su número de activos, ámbito geográfico y número de socios o asociados.
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-Las asociaciones o sociedades que al 31 de diciembre de 2010 no hubieran solicitado la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Entidad de Ahorro y Crédito Popular en términos de la Ley de la materia, deberán abstenerse de realizar operaciones que impliquen captación de recursos.
+III. No podrán celebrar operaciones distintas a las que les correspondería realizar de acuerdo al Nivel de Operaciones que, en su caso, les podría ser asignado como Sociedades Financieras Populares de acuerdo a su número de activos, ámbito geográfico y número de Socios o asociados.
 
-NOVENO.- Las sociedades o asociaciones a que se refieren los artículos Quinto y Séptimo Transitorios de este Decreto podrán distribuir productos, servicios y programas gubernamentales, actuar como agentes de pago de los mencionados programas y otorgar créditos o prestar servicios relacionados con éstos, desde el 1 de enero de 2009 y hasta que la Comisión Nacional Bancaria y de Valores resuelva respecto de su solicitud de autorización, siempre y cuando ésta haya sido presentada en términos del presente Decreto y cumplan con los requisitos siguientes:
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-I. Estén clasificadas en la categoría a que se refiere el inciso a) de la fracción IV del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, o en la categoría contenida en la fracción I del artículo Tercero Transitorio del presente Decreto, y
+Las asociaciones o sociedades que al 31 de diciembre de 2010 no hubieran solicitado la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Sociedad Financiera Popular en términos de la Ley de la materia, deberán abstenerse de realizar operaciones que impliquen captación de recursos.
 
-II. Se sujeten en todo momento a las reglas de operación de los apoyos, programas o servicios gubernamentales correspondientes, así como a las demás normas o disposiciones o acuerdos que resulten aplicables.
-
-A partir del 1 de enero de 2009, las sociedades y asociaciones que no cumplan con los requisitos previstos en la fracción I de este artículo, deberán abstenerse de distribuir productos, servicios y programas gubernamentales, actuar como agentes de pago de los mencionados programas y otorgar créditos o prestar servicios relacionados con aquéllos.
-
-Para efectos de lo señalado en el párrafo anterior, las sociedades y asociaciones que se ubiquen en el supuesto señalado en el mismo párrafo, contarán con un plazo de treinta días hábiles, contados a partir del 1 de enero de 2009, para pagar, liquidar, finiquitar o dar por terminadas las operaciones derivadas de los productos, servicios y programas gubernamentales vigentes a esa fecha.
-
-En caso de que en términos de lo previsto en el último párrafo del artículo Sexto Transitorio del presente Decreto, el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo, tenga conocimiento de que una sociedad o asociación que realice operaciones de las previstas en este artículo, incumpla con los requisitos establecidos en la fracción I de este precepto, deberá informarlo a la Secretaría de la Función Pública, a fin de que dicha Secretaría, por conducto de los Órganos Internos de Control correspondientes, lo haga del conocimiento de las dependencias, entidades u organismos de la Administración Pública Federal encargadas de la administración y distribución de programas, productos o apoyos gubernamentales.
+NOVENO.- (DEROGADO, D.O.F. 13 DE AGOSTO DE 2009)
 
 DÉCIMO.- Para efectos de las evaluaciones que las Federaciones deben llevar a cabo de conformidad con lo dispuesto en los artículos Tercero, Cuarto y Sexto Transitorios de este Decreto, así como en el Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, las Federaciones, con la previa opinión favorable de los consultores a que se hace referencia en los citados preceptos, podrán efectuar modificaciones a la metodología y criterios que en términos de dichos artículos hubiesen formulado, la cual deberá considerar la regulación de carácter prudencial aplicable a Entidades de Ahorro y Crédito Popular que la Comisión Nacional Bancaria y de Valores emita en términos de la Ley de Ahorro y Crédito Popular. Las modificaciones que, en su caso, se efectúen deberán aplicar de forma general y no implicar reducción alguna a los requisitos o estándares originalmente establecidos.
 
@@ -771,7 +783,9 @@ Las Federaciones, con la opinión del consultor referido en el párrafo anterior
 
 Las Federaciones deberán incluir en las publicaciones semestrales que deben efectuar en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, un listado en el que se mencionen las sociedades o asociaciones que hayan afiliado o asesoren en términos de lo previsto en la fracción II del artículo Segundo Transitorio de este Decreto y que cumplan con los requisitos señalados tanto en dicho precepto como en los artículos Tercero y Cuarto Transitorios del presente Decreto.
 
-DÉCIMO PRIMERO.- Las asociaciones o sociedades referidas en los artículos Quinto y Séptimo anteriores, que al 31 de diciembre de 2010 no estén en condiciones de presentar a la Comisión Nacional Bancaria y de Valores su solicitud de autorización para organizarse y funcionar como Entidad de Ahorro y Crédito Popular, deberán abstenerse de realizar operaciones que impliquen captación de recursos entre sus asociados o socios.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+DÉCIMO PRIMERO.- Las asociaciones o sociedades referidas en los Artículos Quinto y Séptimo anteriores, que al 31 de diciembre de 2010 no estén en condiciones de presentar a la Comisión Nacional Bancaria y de Valores su solicitud de autorización para organizarse y funcionar como Sociedad Financiera Popular, deberán abstenerse de realizar operaciones que impliquen captación de recursos entre sus asociados o Socios.
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, podrán continuar llevando a cabo las referidas operaciones hasta el 31 de diciembre de 2012, aquellas asociaciones o sociedades que obtengan una prórroga a su programa de asesoría, capacitación y seguimiento de la Federación a la que se hubieren afiliado o con la que hubieren celebrado contrato de prestación de servicios.
 
@@ -779,11 +793,15 @@ Para efectos de lo previsto en el párrafo anterior, las asociaciones o sociedad
 
 I. Exclusivamente podrán captar recursos de sus asociados o socios mediante préstamos que éstos les otorguen y solamente podrán dar créditos a tales personas;
 
-II. No podrán llevar a cabo las operaciones reservadas para Entidades de Ahorro y Crédito Popular en términos de la Ley de Ahorro y Crédito Popular, ni para cualquier otra entidad financiera que requiera autorización del Gobierno Federal, ni podrán recibir préstamos o créditos de entidades financieras nacionales o extranjeras, fideicomisos públicos u Organismos de Integración; recibir o emitir órdenes de pago en moneda nacional o extranjera; emitir títulos de crédito, en serie o en masa, así como descontar, dar en garantía o negociar dichos títulos; afectar o enajenar los derechos provenientes de los financiamientos que realicen con sus asociados o socios; realizar operaciones por cuenta de sus asociados o socios incluyendo la compra y venta de divisas y operaciones de factoraje financiero; expedir y operar tarjetas de débito, recargables o de crédito, y realizar inversiones en acciones de entidades financieras. Asimismo, no podrán participar en la distribución de productos, servicios y programas gubernamentales, actuar como agentes de pago de los mencionados programas y otorgar créditos o prestar servicios relacionados con aquéllos;
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+II. No podrán llevar a cabo las operaciones reservadas para Sociedades Financieras Populares en términos de la Ley de Ahorro y Crédito Popular, ni para cualquier otra entidad financiera que requiera autorización del Gobierno Federal, ni podrán recibir préstamos o créditos de entidades financieras nacionales o extranjeras, fideicomisos públicos u Organismos de Integración; recibir o emitir órdenes de pago en moneda nacional o extranjera; emitir títulos de crédito, en serie o en masa, así como descontar, dar en garantía o negociar dichos títulos; afectar o enajenar los derechos provenientes de los financiamientos que realicen con sus asociados o Socios; realizar operaciones por cuenta de sus asociados o Socios incluyendo la compra y venta de divisas y operaciones de factoraje financiero; expedir y operar tarjetas de débito, recargables o de crédito, y realizar inversiones en acciones de entidades financieras. Asimismo, no podrán participar en la distribución de productos, servicios y programas gubernamentales, actuar como agentes de pago de los mencionados programas y otorgar créditos o prestar servicios relacionados con aquéllos;
 
 III. Deberán sujetarse a lo dispuesto en el artículo Octavo Transitorio del presente Decreto, y
 
-IV. Presenten a la Comisión su solicitud para organizarse y funcionar como Entidad de Ahorro y Crédito Popular, a más tardar el 31 de diciembre de 2012.
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+IV. Presenten a la Comisión su solicitud para organizarse y funcionar como Sociedades Financieras Populares, a más tardar el 31 de diciembre de 2012.
 
 DÉCIMO SEGUNDO.- Las asociaciones o sociedades que tengan por objeto la captación de recursos de sus asociados o socios para su colocación entre éstos, que no se hayan ajustado a lo previsto en los artículos Segundo, Tercero, Cuarto, Quinto, Sexto y Décimo Primero Transitorios de este Decreto, en los términos, plazos y condiciones en ellos señalados, deberán abstenerse de realizar operaciones que impliquen captación de recursos a partir del día siguiente a aquél en el que se verifique algún incumplimiento a lo dispuesto en los citados artículos Transitorios. En caso contrario, se ubicarán en los supuestos de infracción previstos por la ley y por las disposiciones que resulten aplicables.
 
@@ -799,23 +817,23 @@ Para efectos de lo dispuesto en el párrafo anterior, los administradores, conse
 
 DÉCIMO CUARTO.- Las Federaciones autorizadas por la Comisión Nacional Bancaria y de Valores antes de la entrada en vigor del presente Decreto, contarán con un plazo que vencerá el 31 de diciembre de 2010 para tener afiliadas el número mínimo de entidades a que hace referencia el primer párrafo de la fracción I del artículo 53 de la Ley de Ahorro y Crédito Popular.
 
-DÉCIMO QUINTO.- No resultará aplicable el plazo previsto en el artículo 9 de la Ley de Ahorro y Crédito Popular para que la Comisión Nacional Bancaria y de Valores resuelva las solicitudes de autorización para la organización y funcionamiento de Entidades, que la citada Comisión reciba en cumplimiento a lo dispuesto en los artículos Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, Quinto y Décimo Primero Transitorios del presente Decreto.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-DÉCIMO SEXTO.- Las Federaciones que a la fecha de entrada en vigor del presente Decreto no hayan constituido los Fondos de Protección en términos de lo dispuesto en el artículo Noveno Transitorio del Decreto por el que se expide la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 4 de junio de 2001, deberán constituir los citados Fondos a más tardar el 31 de diciembre de 2008, por lo que podrán administrar temporalmente los Fondos de Protección hasta dicha fecha. La Comisión Nacional Bancaria y de Valores, a solicitud de la Federación y por única ocasión, podrán otorgar discrecionalmente una prórroga de hasta doce meses para constituir los referidos Fondos de Protección, así como para continuar con su administración y para afiliarse o convenir con una Confederación el traspaso de los recursos que integran dichos fondos.
+DÉCIMO QUINTO.- No resultará aplicable el plazo previsto en el artículo 9 de la Ley de Ahorro y Crédito Popular para que la Comisión Nacional Bancaria y de Valores resuelva las solicitudes de autorización para la organización y funcionamiento de Sociedades Financieras Populares, que la citada Comisión reciba en cumplimiento a lo dispuesto en los Artículos Cuarto Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, Quinto y Décimo Primero Transitorios del presente Decreto.
 
-Las Federaciones que no hubieren constituido los Fondos de Protección en términos de lo previsto por el párrafo anterior, o bien que una vez constituidos no se hubiesen afiliado a una Confederación autorizada o convenido con alguna de éstas el traspaso de los recursos de las Entidades que supervisen de manera auxiliar en el plazo previsto en el párrafo anterior, se ubicarán en la causal de revocación prevista por la fracción IX del artículo 60 de la Ley.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-El destino de los recursos que integren los Fondos de Protección administrados por Federaciones a quienes la Comisión Nacional Bancaria y de Valores revoque la autorización para desempeñar la función de supervisión auxiliar, se determinará observando lo dispuesto en el artículo 105 de la Ley.
+DÉCIMO SEXTO.- Las Federaciones que a la fecha de entrada en vigor del presente Decreto no hayan constituido los Fondos de Protección en términos de lo dispuesto en el Artículo Noveno Transitorio del "Decreto por el que se expide la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 4 de junio de 2001, deberán constituir los citados Fondos a más tardar el 31 de diciembre de 2008, por lo que podrán administrar temporalmente los Fondos de Protección hasta dicha fecha. La Comisión Nacional Bancaria y de Valores, a solicitud de la Federación y por única ocasión, podrá otorgar discrecionalmente una prórroga de hasta doce meses para constituir los referidos Fondos de Protección.
 
-DÉCIMO SÉPTIMO.- Las Entidades de Ahorro y Crédito Popular autorizadas por la Comisión Nacional Bancaria y de Valores para organizarse y funcionar con tal carácter, cuyos activos a la fecha de entrada en vigor del presente Decreto, valuados de conformidad con las disposiciones aplicables, tengan un valor inferior al monto previsto en la fracción III del artículo 4 Bis de la Ley de Ahorro y Crédito Popular en los términos definidos en este Decreto, mantendrán dicha autorización a menos de que decidan solicitar su revocación a la referida Comisión. En tal caso, solamente podrán llevar a cabo operaciones que impliquen la captación de recursos de sus asociados o socios, con sujeción a lo dispuesto en los artículos 4 Bis, 4 Bis 1 y 4 Bis 3 del citado ordenamiento legal.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-DÉCIMO OCTAVO.- Las autorizaciones otorgadas por la Secretaría de Hacienda y Crédito Público y la Comisión Nacional Bancaria y de Valores, respectivamente, a las sociedades de ahorro y préstamo y uniones de crédito, quedarán sin efecto por ministerio de ley:
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-I. Tratándose de sociedades de ahorro y préstamo que no hubieren presentado su solicitud de autorización para organizarse y funcionar como Entidad de Ahorro y Crédito Popular, en los términos y dentro de los plazos contenidos en el presente Decreto o bien, habiéndolo hecho, la solicitud hubiese sido denegada.
+DÉCIMO SÉPTIMO.- (DEROGADO, D.O.F. 13 DE AGOSTO DE 2009)
 
-La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación las autorizaciones que, hayan quedado sin efecto con base en lo previsto en la presente fracción, y
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-II. Tratándose de sociedades de ahorro y préstamo y uniones de crédito que hubieren obtenido la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Entidad de Ahorro y Crédito Popular e iniciado operaciones con tal carácter.
+DÉCIMO OCTAVO.- Las autorizaciones otorgadas por la Comisión Nacional Bancaria y de Valores a las uniones de crédito, quedarán sin efecto por ministerio de Ley, tratándose de uniones de crédito que hubieren obtenido la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Sociedad Financiera Popular e iniciado operaciones con tal carácter.
 
 DÉCIMO NOVENO.- Los procedimientos de revocación de las autorizaciones para la constitución y operación de sociedades de ahorro y préstamo que se encuentren llevando a cabo, y que hasta la fecha de entrada en vigor de este Decreto estén en curso, serán concluidos de manera definitiva por la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones que se encontraban vigentes al momento de iniciarse el procedimiento respectivo.
 
@@ -824,3 +842,17 @@ VIGÉSIMO.- El período durante el cual operará el Fideicomiso que Administrar�
 VIGÉSIMO PRIMERO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las cajas que conforman al Sector de Ahorro y Crédito Popular como parte de una campaña de cultura financiera.
 
 VIGÉSIMO SEGUNDO.- Las Comisiones Unidas de Hacienda y Crédito Público y de Fomento Cooperativo y Economía Social de la Cámara de Diputados del Congreso de la Unión realizarán las consultas y estudios necesarios a fin de lograr la actualización de la regulación de las sociedades cooperativas que no realizan intermediación financiera, de acuerdo a su naturaleza, a más tardar el 30 de noviembre de 2007.
+
+D.O.F. 13 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto por el Artículo Segundo siguiente.
+
+SEGUNDO.- Las derogaciones efectuadas por el Artículo TERCERO (sic) del presente Decreto a los Artículos 4 Bis, 4 Bis 1, 4 Bis 2 y 4 Bis 3 de la Ley de Ahorro y Crédito Popular, así como por el Artículo SEXTO del presente Decreto al Artículo Séptimo Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, entrarán en vigor a los 180 días naturales siguientes a la publicación del presente Decreto.
+
+TERCERO.- En tanto la Comisión Nacional Bancaria y de Valores emite las disposiciones de carácter general a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, seguirán aplicándose las emitidas por dicha Comisión en términos de la Ley de Ahorro y Crédito Popular.
+
+CUARTO.- Las referencias que otras Leyes, reglamentos o disposiciones hagan respecto de las Entidades de Ahorro y Crédito Popular, se entenderán efectuadas a las Sociedades Financieras Populares y Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV.
+
+QUINTO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
