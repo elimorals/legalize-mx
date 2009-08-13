@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2009-06-25"
+last_updated: "2009-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -3612,17 +3612,23 @@ III. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
 
 IV. (DEROGADA, D.O.F. 18 DE JULIO DE 2006)
 
+> <small>(ADICIONADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+V. Las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere la Ley General de Sociedades Cooperativas.
+
+> <small>(ADICIONADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+VI. Las asociaciones y sociedades, así como los grupos de personas físicas que capten recursos exclusivamente de sus asociados, socios o integrantes, respectivamente, para su colocación entre éstos, que cumplan con los requisitos siguientes:
+
+a) La colocación y entrega de los recursos captados por las asociaciones y sociedades, así como por los grupos de personas físicas citados, sólo podrá llevarse a cabo a través de alguna persona integrante de la propia asociación, Sociedad o grupo de personas físicas;
+
+b) Sus activos no podrán ser superiores a 350,000 UDIS, y
+
+c) Se abstendrán de promover la captación de recursos a persona indeterminada o mediante medios masivos de comunicación.
+
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
 
 Los emisores a que se refiere la fracción II, que utilicen los recursos provenientes de la colocación para otorgar crédito, deberán ajustarse a las disposiciones de carácter general que, en su caso, expida la Comisión Nacional Bancaria y de Valores en materia de información financiera, administrativa, económica, contable y legal, que deberán dar a conocer al público en los términos de la Ley del Mercado de Valores.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -6071,3 +6077,23 @@ D.O.F. 25 DE JUNIO DE 2009.
 DECRETO POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 46 BIS 1 DE LA LEY DE INSTITUCIONES DE CREDITO.
 
 Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE AGOSTO DE 2009.
+
+TRANSITORIO DEL ARTÍCULO QUINTO
+
+ÚNICO.- El presente Artículo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto por el Artículo Segundo siguiente.
+
+SEGUNDO.- Las derogaciones efectuadas por el Artículo TERCERO (sic) del presente Decreto a los Artículos 4 Bis, 4 Bis 1, 4 Bis 2 y 4 Bis 3 de la Ley de Ahorro y Crédito Popular, así como por el Artículo SEXTO del presente Decreto al Artículo Séptimo Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, entrarán en vigor a los 180 días naturales siguientes a la publicación del presente Decreto.
+
+TERCERO.- En tanto la Comisión Nacional Bancaria y de Valores emite las disposiciones de carácter general a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, seguirán aplicándose las emitidas por dicha Comisión en términos de la Ley de Ahorro y Crédito Popular.
+
+CUARTO.- Las referencias que otras Leyes, reglamentos o disposiciones hagan respecto de las Entidades de Ahorro y Crédito Popular, se entenderán efectuadas a las Sociedades Financieras Populares y Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV.
+
+QUINTO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
