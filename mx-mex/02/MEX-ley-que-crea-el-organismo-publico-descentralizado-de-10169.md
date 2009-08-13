@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-10169"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-28"
-last_updated: "1996-06-28"
+last_updated: "2009-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA DE TECAMAC
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 28 de junio de 1996.
 
@@ -57,7 +57,9 @@ La universidad tecnológica tendrá su domicilio en el municipio de Tecámac.
 
 La universidad tendrá como objeto:
 
-I. Formar técnicos superiores universitarios aptos para la aplicación y generación de conocimientos y la solución creativa de los problemas, con un sentido de innovación al incorporar los avances científicos y tecnológicos de acuerdo con los requerimientos del desarrollo económico y social de la región, el estado y el país;
+> <small>(REFORMADA, G.G. 13 DE AGOSTO DE 2009)</small>
+
+I. Formar Técnicos Superiores y Profesionales Universitarios en los niveles de licenciatura, maestría y doctorado, aptos para la aplicación y generación de conocimiento y la solución creativa de los problemas, con un sentido de innovación al incorporar los avances científicos y tecnológicos de acuerdo con los requerimientos del desarrollo económico y social de la región, el estado y el país;
 
 II. Realizar investigaciones científicas y tecnológicas que permitan el avance del conocimiento, que fortalezcan la enseñanza tecnológica y el mejor aprovechamiento social de los recursos naturales y materiales que contribuyan a elevar la calidad de vida de la sociedad;
 
@@ -440,3 +442,11 @@ LIC. CESAR CAMACHO QUIROZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HECTOR XIMENEZ GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 13 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
