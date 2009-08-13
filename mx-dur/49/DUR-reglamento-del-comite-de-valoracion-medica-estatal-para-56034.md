@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-del-comite-de-valoracion-medica-estatal-para-56034"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-03"
-last_updated: "2007-06-03"
+last_updated: "2009-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "DUR"
 
 REGLAMENTO DEL COMITE DE VALORACION MEDICA ESTATAL PARA TRABAJADORES DE LA SECRETARIA DE EDUCACION DEL ESTADO DE DURANGO SECCION 44 DEL S.N.T.E.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 3 de junio de 2007.
 
@@ -60,9 +60,13 @@ ISSSTE: Al instituto de Seguridad y Servicios Sociales para los Trabajadores del
 
 Sindicato: A los trabajadores agremiados en la sección 44.del S.N.T.E. adscritos a la Secretaria de Educación del Estado de Durango.
 
-Comité de Valoración Medica: Único órgano facultado para aprobar o negar el beneficio solicitado para Trabajadores de la Secretaría de Educación del Estado de Durango agremiados en la Sección 44 del S.N.T.E.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
 
-Dictamen Médico: Es el informe que rinde el Comité de Valoración Medica estatal, en el que se da a conocer sus puntos de vista o resultados respecto del examen o análisis que haya hecho de un caso sometido a sus conocimientos.
+Comité de Valoración Medica: Único órgano facultado para aprobar, negar, modificar o revocar las incapacidades parciales de 3·y 6 meses o totales y permanentes, derivadas de enfermedades catalogadas como profesionales para trabajadores de la Secretaría de Educación del Estado de Durango, agremiados a la Sección 44 del SNTE.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
+
+Dictamen Médico: Es la determinación que emite el Comité de Valoración Médica, respecto del examen o análisis que realice, respecto a los planteamientos de incapacidad sometidos a su conocimiento.
 
 Incapacidad: A cualquier restricción o falta de capacidad para llevar a cabo una actividad en la forma y dentro de los límites considerados normales para el hombre.
 
@@ -84,15 +88,19 @@ Expediente Médico: Registro clínico de un paciente, organizado en forma cronol
 
 ### CAPÍTULO II. DEL OBJETO Y FUNCIONES DEL COMITÉ
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 6.
 
-El objeto del Comité es analizar el diagnostico medico emitido por el ISSSTE por conducto del médico tratante, soportado en base al expediente clínico y los estudios paraclinicos y de gabinete que el Instituto tenga a la disposición, con el fin de obtener elementos para emitir un Dictamen, ya sea aprobado o negado, de acuerdo con el estado medico y la inhabilitación física o mental del trabajador, para determinar el tipo de beneficio correspondiente, ya sea incapacidad Parcial de 3 y 6 meses o Total Permanente, o la negación del mismo.
+El objeto del Comité es analizar el diagnóstico médico, emitido por el ISSSTE, por conducto del médico tratante, soportado en base al expediente clínico, estudios paraclínicos y de gabinete que el Instituto tenga a la disposición, así como los estudios e investigaciones que el propio Comité realice, con el fin de obtener elementos para emitir un Dictamen Médico, sobre la enfermedad catalogada como profesional, aprobando, negando, modificando o revocando la Incapacidad que corresponda.
 
 ###### ARTICULO 7.
 
 Son funciones del Comité:
 
-I. Analizar el diagnostico médico emitido por el ISSSTE por conducto del Medico Tratante, que servirá de base para el pronunciamiento por parte del comité de valoración medica mediante un dictamen por escrito con el fin de otorgar el beneficio de Incapacidad Parcial de 3 y 6 meses o incapacidad Total y Permanente, o la negación del mismo.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2009)</small>
+
+I. Analizar el diagnóstico emitido por el ISSSTE por conducto del Médico Tratante, así como los estudios e investigaciones que considere necesarios, que servirán de base para el Dictamen Médico que emita el Comité de Valoración Médica, en el que se apruebe, niegue, modifique o revoque la incapacidad que corresponda.
 
 II. Recibir mediante oficio el expediente médico que sea proporcionado por el ISSSTE y verificar su debida integración previa a la sesión del Comité.
 
@@ -106,9 +114,17 @@ VI. Revisar que el diagnóstico emitido por el ISSSTE, describa la patología, l
 
 VII. Verificar que los documentos expedidos por el ISSSTE, referentes al diagnóstico, contengan las firmas autógrafas del Medico Tratante.
 
-VIII. Informar al Presidente del Comité sobre la conveniencia de celebrar sesiones extraordinarias de acuerdo al número de expedientes revisados pendientes por dictaminar.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2009)</small>
 
-IX. Las demás que les fijen las leyes, reglamentos, disposiciones administrativas aplicables directa o supletoriamente, y los usos y costumbres.
+VIII. Celebrar sesiones extraordinarias de acuerdo al número de expedientes pendientes por dictaminar.
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2009)</small>
+
+IX. Solicitar a la Secretaría de Educación del Estado de Durango y a la Secretaría de Finanzas y Administración, la información laboral de los trabajadores, cuyos planteamientos de incapacidad sean sometidos a su consideración, previo a la emisión del dictamen médico que proceda.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE AGOSTO DE 2009)</small>
+
+X. Las demás que le fijen las leyes, reglamentos, disposiciones supletorias y las que sean necesarias para el ejercicio de las anteriores.
 
 ###### ARTICULO 8.
 
@@ -120,27 +136,47 @@ b) Antecedentes del historial médico.
 
 c) Diagnóstico emitido por el ISSSTE con el nombre, la firma, fecha y/o sello correspondientes del medico tratante de dicho Instituto.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 9.
 
-El Comité resolverá los dictámenes médicos Incapacidad Parcial de 3 y 6 meses o Incapacidad Total y Permanente, con la siguiente determinación: APROBADO, mismo que se le dará a conocer mediante oficio a la Sección 44 del S.N.T.E. con copia a:
+El Comité emitirá los dictámenes médicos de las incapacidades parciales o totales y permanentes que correspondan, dándolos a conocer a:
 
-a) El Trabajador
+a) A la Sección 44 del SNTE;
 
-b) Secretaría
+b) Al Trabajador;
+
+c) A la Secretaría de Educación.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 10.
 
-Los dictámenes médicos aprobados o negados, ostentarán el sello correspondiente Dictamen Aprobado, Dictamen Negado, además deberán llevar la fecha y firma de los titulares del Comité. Una vez efectuada la valoración, se asentará el resultado en el Acta de la sesión correspondiente, sustentando las causas que fundamenten o motiven cada resolución en los casos en que se apruebe o se niegue.
+Los dictámenes médicos que emita el Comité, deberán llevar la fecha, la firma de los miembros presentes y el sello correspondiente. Una vez efectuada la valoración, se asentará el resultado en el acta de la sesión respectiva, sustentando las causas que fundamenten y motiven cada resolución.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 11.
 
-Si el resultado del dictamen del Comité es negativo a la solicitud, se procederá de la siguiente manera:
+Para la elaboración de los dictámenes que emita el Comité, se procederá de acuerdo a lo siguiente:
 
-I. Se notificará por escrito a la Secretaría, con copia al sindicato y copia al trabajador para que se instrumente la reincorporación al desempeño de sus actividades laborales, remitiéndose en ese sentido el oficio original del dictamen correspondiente.
+I. Los dictámenes médicos en que se apruebe el otorgamiento de una incapacidad, se notificarán y tramitarán de acuerdo a lo dispuesto en el artículo 9 de este Reglamento.
 
-II. El trabajador previa solicitud por escrito al Comité, dentro de los cinco días siguientes a la fecha de la notificación de la negativa de su solicitud, tendrá derecho a ser revalorado, después de haberse realizado los estudios pertinentes a su padecimiento.
+II. Los dictámenes médicos en que se niegue el otorgamiento de una incapacidad, se procederá de la siguiente manera:
 
-III. En caso de que el ISSSTE por conducto del Medico Tratante otorgue una licencia médica, existiendo una solicitud de valoración o de revaloración en trámite, de no estar amparado con otra licencia médica, deberá reincorporarse al desempeño de sus labores hasta que el Comité determine lo que corresponda.
+a) Se notificará por escrito a la Secretaría de Educación, con copia al sindicato y copia al trabajador para que se instrumente la reincorporación al desempeño de sus actividades laborales, remitiéndose en ese sentido el oficio original del dictamen correspondiente.
+
+b) El trabajador previa solicitud por escrito al Comité, dentro de los cinco días siguientes a la fecha de la notificación de la negativa de su solicitud, tendrá derecho de ser revalorado, después de haberse realizado los estudios permanentes a su padecimiento.
+
+c) En el caso de que el ISSSTE por conducto del Médico Tratante otorgue una licencia médica, existiendo una solicitud de valoración o de revaloración en trámite, de no estar amparado con otra licencia médica, deberá reincorporarse al desempeño de sus labores hasta que el Comité determine lo que corresponda.
+
+III. Para los dictámenes médicos en que se modifique, revoque o confirme una incapacidad, se procederá de la siguiente manera:
+
+a) Cuando el Comité tenga conocimiento que un trabajador al que se la (sic) haya otorgado una incapacidad, recupere su capacidad para el servicio, procederá a realizar los análisis y exámenes correspondientes, con la participación de los médicos que estime conveniente, en los términos del artículo 14 de este Reglamento, con el objetivo de emitir un nuevo dictamen en el que se revoque, modifique o confirme la incapacidad otorgada.
+
+b) El Comité, citará por escrito al trabajador, informándole el inicio del procedimiento de revisión de su incapacidad, para que comparezca de manera personal, a expresar lo que a su interés convenga y a presentar los elementos que estime convenientes.
+
+c) Una vez agotados los procedimientos antes citados, en el caso de que le sea revocada la incapacidad, se procederá en los términos en los (sic) dispuesto en el inciso a) de la fracción anterior; en el caso, de que el dictamen médico resuelva la modificación de la incapacidad se procederá en los términos que el propio dictamen establezca; y cuando el dictamen médico confirme la existencia de la incapacidad, ésta continuará vigente.
 
 ### CAPÍTULO III. FUNCIONES DE LOS INTEGRANTES DEL COMITÉ DE VALORACIÓN MÉDICA
 
@@ -167,6 +203,10 @@ El Comité tendrá la facultad de invitar a médicos especialistas externos de r
 ###### ARTICULO 15.
 
 Para que el comité se considere legalmente constituido para sesionar, deberán encontrarse presente el cincuenta por ciento mas uno de los miembros con derecho a voz y voto, siempre y cuando entre ellos se encuentre presente el Presidente o quien lo supla en sus ausencias.
+
+> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 2009)</small>
+
+Las determinaciones del Comité de Valoración Médica Estatal, se tomarán por mayoría de votos de los presentes.
 
 ###### ARTICULO 16.
 
@@ -202,7 +242,9 @@ f) Informar por escrito trimestralmente al titular de la Secretaría de Educaci�
 
 g) Designar un Secretario Ejecutivo que se encargará de hacer operativo el funcionamiento del Comité así como designar a los colaboradores y/o personal de apoyo que se requiera.
 
-h) Notificar por escrito en los términos establecidos en los artículos 9 y 11 fracción I a las autoridades de la Secretaría, en un término no mayor de 3 días hábiles.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
+
+h) Notificar por escrito en los términos establecidos en los artículos 9 y 11, a las autoridades de la Secretaría de Educación en un plazo no mayor a tres días hábiles.
 
 i) Proponer al Comité la necesidad de resolver un caso específico no considerado en el Orden del Día por razones de carácter médico.
 
@@ -238,11 +280,15 @@ d) Moderar los debates que surjan en las sesiones del Comité.
 
 e) Elaborar el acta de cada sesión celebrada por el comité relatando de manera precisa los hechos, especialmente los puntos de divergencia entre las opiniones de los miembros del Comité.
 
-f) Coordinar la preparación y presentación al Comité de las solicitudes de valoración medica de Incapacidad Parcial de 3 y 6 meses o Incapacidad Total y Permanente, que forman el Orden del Día de la sesión.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
+
+f) Coordinar la preparación y presentación al Comité de las solicitudes y los casos de valoración médica de las incapacidades correspondientes.
 
 g) Solicitar al ISSSTE los expedientes médicos que se valorarán en la sesión, mismos que serán requeridos con anticipación por escrito: al Director del Hospital "Dr. Santiago Ramón y Cajal", en caso de trabajadores con adscripción en la Ciudad de Durango, y en casos de trabajadores adscritos a la ciudad de Gómez Palacio, la solicitud por escrito será dirigida a la Delegación Estatal del ISSSTE. El Comité se obliga a devolver al término de la sesión los expedientes proporcionados previa solicitud de acuerdo a las disposiciones que establezca, por el mismo conducto que le fueron proporcionados.
 
-h) Hacer del conocimiento al sindicato, con copia al trabajador, de los dictámenes emitidos en los términos del Artículo 9 y 11 fracción I del presente ordenamiento.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
+
+h) Hacer del conocimiento al Sindicato, con copia al trabajador, de los dictámenes emitidos en los términos de los artículos 9 y 11, del presente ordenamiento.
 
 i) Resguardar copias de los dictámenes médicos revisados por el Comité así como las Actas originales elaboradas en cada sesión.
 
@@ -258,17 +304,23 @@ n) Las que le otorgue el presente Reglamento, las que le encomiende el President
 
 ### CAPÍTULO IV. DE LAS RESOLUCIONES DEL COMITÉ DE VALORACIÓN MÉDICA
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 23.
 
-Con base en la revisión y valoración del diagnóstico médico del ISSSTE, y una vez emitida la opinión técnica de los miembros del Comité, este dictaminará si es aprobada o negada la solicitud correspondiente.
+Con base en la revisión y valoración del diagnóstico médico del ISSSTE y una vez emitida la opinión técnica de los miembros del Comité, este dictaminará si se aprueba, se modifica, se confirma, se revoca o se niega la incapacidad correspondiente.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 24.
 
-DICTAMEN MEDICO APROBADO POR MAYORIA.- Se entiende por dictamen aprobado, cuando a través de los razonamientos médicos y de la valoración del soporte técnico se demuestre la Incapacidad Parcial de 3 y 6 meses o Total y Permanente del trabajador según el caso.
+Se entenderá por dictamen aprobado, cuando a través de los razonamientos médicos y de la valoración del soporte técnico se demuestre la incapacidad parcial de 3 y 6 meses o total y permanente del trabajador según el caso.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 25.
 
-DICTAMEN MEDICO NEGADO POR UNANIMIDAD.- Se entiende por dictamen médico negado, cuando a través de los razonamientos médicos y de valoración, no se compruebe la Incapacidad Parcial de 3 y 6 meses o Incapacidad Total y Permanente del trabajador, según el caso, y el trabajador deberá reincorporarse al desempeño de sus actividades en su centro de trabajo.
+Se entenderá por dictamen médico negado, cuando a través de los razonamientos médicos y de valoración, no se compruebe la incapacidad parcial de 3 y 6 meses o incapacidad total y permanente del trabajador, según el caso, y el trabajador deberá reincorporarse al desempeño de sus actividades en su centro de trabajo.
 
 ###### ARTICULO 26.
 
@@ -349,3 +401,11 @@ LIC. OLIVERIO REZA CUÉLLAR
 SECRETARIO GENERAL DE GOBIERNO
 
 Esta hoja es parte del documento que crea el Reglamento de Valoración Médica Estatal para Trabajadores de la Secretaría de Educación del Estado de Durango, Sección 44 del S.N.T.E.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE AGOSTO DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Acuerdo iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
