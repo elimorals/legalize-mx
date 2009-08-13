@@ -4,7 +4,7 @@ identifier: "LGSC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-08-03"
-last_updated: "2007-11-27"
+last_updated: "2009-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSC"
 
 LEY GENERAL DE SOCIEDADES COOPERATIVAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 3 de agosto de 1994.
 
@@ -42,9 +42,13 @@ LEY GENERAL DE SOCIEDADES COOPERATIVAS
 
 ### Capítulo Unico. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 1.
 
-La presente ley tiene por objeto regular la organización y funcionamiento de las sociedades cooperativas. Sus disposiciones son de interés social y de observancia general en el territorio nacional.
+La presente Ley tiene por objeto regular la constitución, organización, funcionamiento y extinción de las Sociedades Cooperativas y sus Organismos en que libremente se agrupen, así como los derechos de los Socios.
+
+Sus disposiciones son de orden público, interés social y de observancia general en el territorio nacional.
 
 ###### Artículo 2.
 
@@ -126,7 +130,9 @@ III.- Habrá igualdad esencial en derechos y obligaciones de sus socios e iguald
 
 IV.- Tendrán duración indefinida, y
 
-V.- Se integrarán con un mínimo de cinco socios.
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+V.- Se integrarán con un mínimo de cinco Socios, con excepción de aquellas a que se refiere el Artículo 33 Bis de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -276,25 +282,83 @@ Son sociedades cooperativas ordinarias, las que para funcionar requieren únicam
 
 Son sociedades cooperativas de participación estatal, las que se asocien con autoridades federales, estatales, municipales o los órganos político-administrativos del Distrito Federal, para la explotación de unidades productoras o de servicios públicos, dados en administración, o para financiar proyectos de desarrollo económico a niveles local, regional o nacional.
 
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 33.
 
-Las sociedades cooperativas que tengan por objeto realizar actividades de ahorro y préstamo se regirán por esta Ley, así como por lo dispuesto por la Ley de Ahorro y Crédito Popular.
+Las Sociedades Cooperativas que tengan por objeto realizar actividades de ahorro y préstamo se regirán por esta Ley, así como por lo dispuesto por la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
+
+Se entenderá como ahorro, la captación de recursos a través de depósitos de ahorro de dinero de sus Socios; y como préstamo, la colocación y entrega de los recursos captados entre sus mismos Socios.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 33 Bis.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo se constituirán con un mínimo de 25 Socios.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 33 Bis 1.
+
+Las bases constitutivas de las Sociedades Cooperativas de Ahorro y Préstamo, además de lo dispuesto en el Artículo 16 de esta Ley, deberán establecer lo siguiente:
+
+I. El procedimiento para la elección de consejeros y designación de funcionarios de primer nivel;
+
+II. Los requisitos que deberán cumplir las personas que sean electas como consejeros y los designados como funcionarios;
+
+III. Las obligaciones de los consejeros, así como lo relativo a las obligaciones de los funcionarios de primer nivel;
+
+IV. Los lineamientos y objetivos generales de los programas de capacitación que se impartirían a las personas electas como consejeros y designadas como funcionarios; tomando en cuenta la complejidad de las operaciones y la región en la que opera la Sociedad Cooperativa de Ahorro y Préstamo, y
+
+V. En su caso, la zona geográfica en la que operarían.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 33 Bis 2.
+
+Los términos caja, caja popular, caja cooperativa, caja de ahorro, caja solidaria, caja comunitaria, cooperativa de ahorro y crédito, cooperativa de ahorro y préstamo u otras que expresen ideas semejantes en cualquier idioma, que permita suponer la realización de actividades de ahorro y préstamo, sólo podrán ser usadas en la denominación de las Sociedades Cooperativas de Ahorro y Préstamo, o en sus organismos cooperativos, ya sea como palabras simples o como parte de palabras compuestas.
+
+Las cajas de ahorro a que hace mención la legislación laboral, no estarán sujetas a las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 33 Bis 3.
+
+Únicamente las Sociedades Cooperativas de Ahorro y Préstamo podrán realizar operaciones que impliquen captación y colocación de recursos en los términos establecidos en esta Ley y en la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, por lo que queda prohibido a las Sociedades Cooperativas de Producción y de Consumidores constituir secciones de ahorro y préstamo.
 
 ### Capítulo III. Del funcionamiento y la administración
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 34.
 
-La dirección, administración y vigilancia interna de las sociedades cooperativas estará a cargo de:
+La dirección, administración y vigilancia interna de las Sociedades Cooperativas, en general, estará a cargo de los órganos siguientes:
 
 I.- La Asamblea General;
 
 II.- El Consejo de Administración;
 
-III.- El Consejo de Vigilancia, y
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-IV.- Las comisiones que esta Ley establece y las demás que designe la Asamblea General.
+III.- El Consejo de Vigilancia;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+IV.- Las comisiones y comités que esta Ley establece y las demás que designe la Asamblea General, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+V.- Tratándose de las Sociedades Cooperativas de Ahorro y Préstamo, además de los citados órganos, en las fracciones I a IV anteriores, deberán contar, cuando menos con:
+
+a) Comité de Crédito o su equivalente;
+
+b) Comité de Riesgos;
+
+c) Un director o gerente general, y
+
+d) Un auditor Interno.
+
+La Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, podrá establecer excepciones a lo establecido esta fracción, dependiendo del tamaño y Nivel de Operación de la Cooperativa.
 
 ###### Artículo 35.
 
@@ -328,6 +392,10 @@ XI.- Aprobación de las medidas de tipo ecológico que se propongan.
 
 Los acuerdos sobre los asuntos a que se refiere este artículo, deberán tomarse por mayoría de votos en la Asamblea General. En las bases constitutivas se podrán establecer los asuntos en que se requiera una mayoría calificada.
 
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+En el caso de las Sociedades Cooperativas de Ahorro y Préstamo, la Asamblea General además conocerá y resolverá en los mismos términos señalados en el párrafo anterior, aquellos asuntos establecidos en la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
+
 ###### Artículo 37.
 
 Las asambleas generales ordinarias o extraordinarias, deberán ser convocadas en los términos de la fracción X del artículo 16 de esta Ley, con por lo menos 7 días naturales de anticipación. La convocatoria deberá ser exhibida en un lugar visible del domicilio social de la sociedad cooperativa, misma que deberá contener la respectiva orden del día; también será difundida a través del órgano local más adecuado, dando preferencia al periódico, cuando exista en el lugar del domicilio social de la cooperativa. De tener filiales en lugares distintos, se difundirá también en esos lugares. Se convocará en forma directa por escrito a cada socio, cuando así lo determine la Asamblea General.
@@ -356,6 +424,12 @@ Las bases constitutivas pueden autorizar el voto por carta poder otorgada ante d
 
 Cuando los miembros pasen de quinientos o residan en localidades distintas a aquélla en que deba celebrarse la asamblea, ésta podrá efectuarse con delegados socios, elegidos por cada una de las áreas de trabajo. Los delegados deberán designarse para cada asamblea y cuando representen áreas foráneas, llevarán mandato expreso por escrito sobre los distintos asuntos que contenga la convocatoria y teniendo tantos votos como socios representen. Las bases constitutivas fijarán el procedimiento para que cada sección o zona de trabajo designe en una asamblea a sus delegados.
 
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 40 Bis.
+
+De manera alternativa a lo establecido en los Artículos 39 y 40 de la presente Ley, las Sociedades Cooperativas de Ahorro y Préstamo, podrán establecer en sus bases constitutivas la participación de delegados electos por los Socios para que asistan a las asambleas a que se refiere la presente Ley, en representación de los propios Socios. El sistema para la elección de delegados que al efecto se establezca en sus bases constitutivas, deberá garantizar la representación de todos los Socios de manera proporcional con base a las zonas o regiones en que se agrupen las sucursales u otras unidades operativas.
+
 ###### Artículo 41.
 
 El Consejo de Administración será el órgano ejecutivo de la Asamblea General y tendrá la representación de la sociedad cooperativa y la firma social, pudiendo designar de entre los socios o personas no asociadas, uno o más gerentes con la facultad de representación que se les asigne, así como uno o más comisionados que se encarguen de administrar las secciones especiales.
@@ -364,6 +438,14 @@ El Consejo de Administración será el órgano ejecutivo de la Asamblea General 
 
 El nombramiento de los miembros del Consejo de Administración lo hará la Asamblea General conforme al sistema establecido en esta Ley y en sus bases constitutivas. Sus faltas temporales serán suplidas en el orden progresivo de sus designaciones, pudiendo durar en sus cargos, si la Asamblea General lo aprueba hasta cinco años y ser reelectos cuando por lo menos las dos terceras partes de la Asamblea General lo apruebe.
 
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+Tratándose de las Sociedades Cooperativas de Ahorro y Préstamo, los consejeros podrán fungir por un periodo de hasta cinco años, según se establezca en sus bases constitutivas, con posibilidad de una sola reelección, cuando lo apruebe por lo menos las dos terceras partes de la Asamblea General.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+Para garantizar la continuidad en los procesos de toma de decisiones del Consejo de Administración, en las bases constitutivas de la Cooperativa se deberá establecer un sistema de renovación cíclica y parcial de sus consejeros.
+
 ###### Artículo 43.
 
 El Consejo de Administración estará integrado por lo menos, por un presidente, un secretario y un vocal.
@@ -371,6 +453,70 @@ El Consejo de Administración estará integrado por lo menos, por un presidente,
 Tratándose de sociedades cooperativas que tengan diez o menos socios, bastará con que se designe un administrador.
 
 Los responsables del manejo financiero requerirán de aval solidario o fianza durante el período de su gestión.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+Tratándose de las Sociedades Cooperativas de Ahorro y Préstamo, el Consejo de Administración será el órgano responsable de la administración general y de los negocios de la Cooperativa, estará integrado por no menos de cinco ni más de quince personas, quienes serán nombrados o removidos, en su caso, por la Asamblea General.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 43 Bis.
+
+Los consejeros deberán reunir los requisitos siguientes:
+
+I. Acreditar la experiencia y los conocimientos mínimos que en materia financiera y administrativa, establezca la propia Cooperativa en sus bases constitutivas;
+
+II. No desempeñar simultáneamente otro cargo como dirigente, funcionario o empleado en la Cooperativa de que se trate, así como en otras Cooperativas distintas a los Organismos de Integración;
+
+III. No estar inhabilitado para ejercer el comercio;
+
+IV. No estar sentenciado por delitos intencionales patrimoniales;
+
+V. No tener litigio pendiente con la Cooperativa;
+
+VI. No haber celebrado con la Cooperativa, directa o indirectamente, contratos de obras, servicios, suministros o cualquier otro de naturaleza análoga, o participar en empresas con las que la Cooperativa celebre cualquiera de los actos antes señalados;
+
+VII. No desempeñar un cargo público de elección popular o de dirigencia partidista;
+
+VIII. No estar inhabilitado para ejercer cualquier cargo, comisión o empleo en el servicio público federal, estatal o municipal, o en el sistema financiero Mexicano;
+
+IX. No tener parentesco por consanguinidad hasta el primer grado, afinidad hasta el segundo grado, o civil con el director o gerente general, o con alguno de los miembros del Consejo de Administración o de vigilancia de la Cooperativa, y
+
+X. Los demás que esta Ley, la asamblea o las bases constitutivas de la Cooperativa determinen.
+
+La Asamblea General deberá conocer el perfil de los candidatos a desempeñarse como consejeros, y se someterá a su consideración la documentación e información que al efecto determine la misma Asamblea en las bases constitutivas, para evaluar la honorabilidad, historial crediticio y experiencia de negocios de los candidatos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 43 Bis 1.
+
+Son facultades y obligaciones indelegables del Consejo de Administración de las Sociedades Cooperativas de Ahorro y Préstamo:
+
+I. Establecer las políticas generales de administración de la Cooperativa, así como las políticas para otorgamiento de préstamos;
+
+II. Acordar la creación de los comités que sean necesarios para el correcto desarrollo de las operaciones de la Cooperativa;
+
+III. Autorizar los reglamentos que propongan los comités respectivos y los que el propio consejo determine;
+
+IV. Instruir la elaboración y aprobar los manuales de administración y operación, así como los programas de actividades;
+
+V. Autorizar las operaciones que, de acuerdo a las bases constitutivas de la Cooperativa y por su monto o importancia, necesiten de tal autorización;
+
+VI. Aprobar y hacer del conocimiento de la Asamblea General los estados financieros del ejercicio;
+
+VII. Informar a la asamblea sobre los resultados de su gestión cuando menos una vez al año;
+
+VIII. Atender las observaciones que sean señaladas por el Consejo de Vigilancia;
+
+IX. Nombrar al director o gerente general y acordar su remoción, en este último caso previa opinión del Consejo de Vigilancia, de acuerdo al procedimiento que establezcan las bases constitutivas de la Cooperativa.
+
+El Consejo de Administración deberá conocer el perfil del candidato director o gerente general y se someterá a su consideración la documentación e información, que al efecto determine el consejo y permita evaluar la honorabilidad, capacidad técnica, historial crediticio y de negocios de los candidatos;
+
+X. Otorgar los poderes que sean necesarios tanto al director o gerente general como a los funcionarios y personas que se requiera, para la debida operación de la Cooperativa. Estos poderes podrán ser revocados en cualquier tiempo;
+
+XI. Aprobar los planes estratégicos de la Cooperativa, así como los planes y presupuestos anuales, debiendo someterlos a consideración de la Asamblea general, y
+
+XII. Las demás que esta Ley, la asamblea o las bases constitutivas de la Cooperativa determinen.
 
 ###### Artículo 44.
 
@@ -386,9 +532,105 @@ Los miembros de las comisiones establecidas por esta Ley y las demás que design
 
 Tratándose de sociedades cooperativas que tengan diez o menos socios, bastará con designar un comisionado de vigilancia.
 
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 45 Bis.
+
+Tratándose de las Sociedades Cooperativas de Ahorro y Préstamo, el Consejo de Vigilancia será el órgano encargado de supervisar el funcionamiento interno de la Cooperativa, así como el cumplimiento de sus estatutos y demás normatividad aplicable, estará integrado por no menos de tres personas ni más de siete, que serán nombradas y en su caso removidas por la Asamblea General, quienes deberán cumplir los requisitos establecidos en el Artículo 43 Bis.
+
+Los miembros del Consejo de Vigilancia fungirán por un periodo de hasta cinco años, según se establezca en sus bases constitutivas, con posibilidad de una sola reelección cuando lo apruebe por lo menos las dos terceras partes de la Asamblea General.
+
+Para garantizar la continuidad en los procesos de toma de decisiones del Consejo de Vigilancia, en las bases constitutivas de la Cooperativa se deberá establecer un sistema de renovación cíclica y parcial de sus consejeros.
+
 ###### Artículo 46.
 
 El Consejo de Vigilancia ejercerá la supervisión de todas las actividades de la sociedad cooperativa y tendrá el derecho de veto para el solo objeto de que el Consejo de Administración reconsidere las resoluciones vetadas. El derecho de veto deberá ejercitarse ante el presidente del Consejo de Administración, en forma verbal e implementarse inmediatamente por escrito dentro de las 48 horas siguientes a la resolución de que se trate. Si fuera necesario, en los términos de esta Ley y de su reglamento interno, se convocará dentro de los 30 días siguientes, a una Asamblea General extraordinaria para que se avoque a resolver el conflicto.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 46 Bis.
+
+El Consejo de Vigilancia de las Sociedades Cooperativas de Ahorro y Préstamo tendrá las siguientes facultades y obligaciones:
+
+I. Asistir con voz, pero sin voto a las sesiones del Consejo de Administración;
+
+II. Solicitar al Consejo de Administración, al director o gerente general, a los comités de la Cooperativa, la información que requiera para el correcto desempeño de sus funciones;
+
+III. Solicitar al auditor externo la información sobre el desarrollo y resultados de la auditoria;
+
+IV. Convocar a asamblea ordinaria y/o extraordinaria a falta de convocatoria expedida por el Consejo de Administración, en los términos que se establece en el Artículo 37;
+
+V. En su caso, emitir la opinión a que se refiere la fracción IX del Artículo 43 Bis 1;
+
+VI. Vigilar que los actos y decisiones de todos los órganos de la Cooperativa se realicen con apego a las bases constitutivas de la misma y a la normatividad aplicable;
+
+VII. Presentar a la asamblea un informe anual sobre su gestión;
+
+VIII. Informar a la asamblea sobre las irregularidades detectadas en la operación de los órganos de gobierno de la Cooperativa;
+
+IX. Supervisar que las observaciones efectuadas se atiendan y las irregularidades detectadas se corrijan;
+
+X. En su caso, recomendar a la asamblea y justificar la aceptación o rechazo de los estados financieros del ejercicio y del informe del Consejo de Administración, y
+
+XI. Las demás que esta Ley, la asamblea o las bases constitutivas de la Cooperativa determinen.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 46 Bis 1.
+
+El director o gerente general de las Sociedades Cooperativas de Ahorro y Préstamo, deberá reunir los requisitos siguientes:
+
+I. Contar con conocimientos básicos en materia financiera y administrativa, que la propia Sociedad Cooperativa establezca en sus bases constitutivas;
+
+II. No tener alguno de los impedimentos que para ser consejero señala el Artículo 43 Bis de esta Ley, con excepción de lo señalado en la fracción IX;
+
+III. No tener parentesco por consanguinidad hasta el primer grado, afinidad hasta el segundo grado, o civil con alguno de los miembros del Consejo de Administración o de Vigilancia de la Cooperativa, y
+
+IV. Los demás que esta Ley, la asamblea o las bases constitutivas de la Sociedad Cooperativa determinen.
+
+La Asamblea General deberá conocer el perfil del candidato a desempeñarse como director o gerente general y se someterá a su consideración la documentación e información, que al efecto determine la misma Asamblea y permita evaluar la honorabilidad, capacidad técnica, historial crediticio y de negocios de los candidatos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 46 Bis 2.
+
+El director o gerente general de las Sociedades Cooperativas de Ahorro y Préstamo tendrá las siguientes facultades y obligaciones:
+
+I. Asistir, con voz pero sin voto, a las sesiones del Consejo de Administración y de los comités de la Cooperativa;
+
+II. Representar a la Cooperativa en los actos que determinen las bases constitutivas de la Cooperativa, o el Consejo de Administración;
+
+III. Aplicar las políticas establecidas por el Consejo de Administración o por los demás comités de la Cooperativa, actuando en todo momento con apego a las bases constitutivas de la misma y a la normatividad aplicable;
+
+IV. Presentar a la Asamblea General de Socios un informe anual sobre su gestión;
+
+V. Presentar al Consejo de Administración en ocasión de sus juntas ordinarias, los informes sobre la situación financiera y administrativa que guarda la Sociedad;
+
+VI. Preparar y proponer para su aprobación al Consejo de Administración, los planes y el presupuesto de cada ejercicio;
+
+VII. Presentar mensualmente al Consejo de Administración, en ocasión de sus juntas ordinarias, los estados financieros para su aprobación;
+
+VIII. Aplicar los reglamentos y manuales operativos, y proponer al Consejo de Administración los ajustes y modificaciones necesarios a los mismos;
+
+IX. Vigilar la correcta elaboración y actualización de los libros y registros contables y sociales de la Cooperativa, y
+
+X. Las demás que esta Ley, la asamblea, las bases constitutivas o el Consejo de Administración de la Cooperativa determinen.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 46 Bis 3.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo contarán, al menos, con los Comités siguientes, salvo excepciones previstas en el último párrafo del Artículo 34 de esta Ley:
+
+I. Comité de Crédito o su equivalente, que será responsable los (sic) encargados de analizar, y en su caso, aprobar las solicitudes de crédito que presenten los Socios a la Cooperativa, así como las condiciones en que éstos se otorguen, de acuerdo a los manuales y las políticas que hayan sido aprobadas por el Consejo de Administración, y
+
+II. Comité de Riesgos, que será responsable de identificar y medir los riesgos, dar seguimiento de su impacto en la operación y controlar sus efectos sobre los excedentes y el valor del capital social de la Cooperativa.
+
+Dichos comités estarán integrados por no menos de tres personas ni más de siete, quienes no deberán tener alguno de los impedimentos que para ser consejero señala el Artículo 43 Bis de esta Ley, a excepción de la fracción II, siempre y cuando no exista conflicto de interés.
+
+Los miembros de dichos Comités serán designados o removidos en su caso, por el Consejo de Administración. Cuando alguno de éstos, incumpla sus funciones o sean detectadas irregularidades en su actuación, el director o gerente general propondrá su remoción al Consejo de Administración.
+
+El Consejo de Administración emitirá los reglamentos y manuales operativos a los cuales deberán ajustarse los comités citados en el presente Artículo.
 
 ###### Artículo 47.
 
@@ -439,6 +681,12 @@ El Fondo de Reserva se constituirá con el 10 al 20% de los rendimientos que obt
 ###### Artículo 55.
 
 El Fondo de Reserva podrá ser delimitado en las bases constitutivas, pero no será menor del 25% del capital social en las sociedades cooperativas de productores y del 10% en las de consumidores. Este fondo podrá ser afectado cuando lo requiera la sociedad para afrontar las pérdidas o restituir el capital de trabajo, debiendo de ser reintegrado al final del ejercicio social, con cargo a los rendimientos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 55 Bis.
+
+En las Sociedades Cooperativas de Ahorro y Préstamo, el fondo de reserva deberá constituirse por lo menos con el diez por ciento de los excedentes, que se obtengan en cada ejercicio social, hasta alcanzar un monto equivalente a, por lo menos, el diez por ciento de los activos totales de la Sociedad. Este fondo podrá ser afectado, previa decisión de la Asamblea General, cuando lo requiera la Sociedad para afrontar las pérdidas o restituir el capital de trabajo, debiendo de ser reintegrado en ejercicios subsecuentes, con cargo a los excedentes. Se entenderá por capital de trabajo a la diferencia entre activos y pasivos a plazo menor de un año.
 
 ###### Artículo 56.
 
@@ -514,6 +762,14 @@ Cuando la sociedad requiera por necesidades de expansión admitir a más socios,
 
 Ante una inconformidad en la selección, el afectado podrá acudir ante la Comisión de Conciliación y Arbitraje de la propia sociedad cooperativa si es que la hay, la que deberá resolverle por escrito en un término no mayor de 20 días naturales, independientemente de poder ejercer la acción legal que corresponda.
 
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 65 Bis.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo en sus bases constitutivas deberán prever que los Socios podrán solicitar el retiro de sus aportaciones y ahorros en la Sociedad en cualquier tiempo, siempre y cuando no existan operaciones activas pendientes, en cuyo caso deberán liquidarlas previamente.
+
+Igualmente se establecerá que, en el caso de que varios de los Socios soliciten al mismo tiempo el retiro de sus aportaciones y ahorros, la Cooperativa podrá fijar plazos para la entrega de los montos solicitados, de acuerdo a la disponibilidad de capital de trabajo y al índice de capitalización que deba mantener la Sociedad.
+
 ### Capítulo VI. De la disolución y liquidación
 
 ###### Artículo 66.
@@ -550,9 +806,11 @@ Los órganos jurisdiccionales a que se refiere el artículo 9 de esta Ley, resol
 
 Los órganos jurisdiccionales a que se refiere el artículo 9 de esta Ley y los liquidadores, que serán considerados como parte en el proceso de liquidación, vigilarán que los Fondos de Reserva y de Previsión Social y en general el activo de la sociedad cooperativa disuelta tengan su aplicación conforme a esta Ley.
 
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO CE 2009)</small>
+
 ###### Artículo 72.
 
-En los casos de quiebra o suspensión de pagos de las sociedades cooperativas, los órganos jurisdiccionales que señala el artículo 9 aplicarán la Ley de Quiebras y Suspensión de Pagos.
+En los casos de quiebra o suspensión de pagos de las Sociedades Cooperativas, los órganos jurisdiccionales que señala el Artículo 9 aplicarán la Ley de Concursos Mercantiles.
 
 ###### Artículo 73.
 
@@ -564,25 +822,41 @@ Para la fusión de varias sociedades cooperativas se deberá seguir el mismo tr�
 
 ### Capítulo I. De los organismos cooperativos
 
+> <small>(ADICIONADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+#### Sección I. De los Organismos Cooperativos de las Sociedades Cooperativas de Producción y de Consumo
+
+> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 74.
 
-Las sociedades cooperativas se podrán agrupar libremente en federaciones, uniones o en cualquier otra figura asociativa con reconocimiento legal.
+Las Sociedades Cooperativas de producción y de consumo se podrán agrupar libremente en Federaciones, uniones o en cualquier otra figura asociativa con reconocimiento legal.
 
-Las disposiciones establecidas por esta Ley para las sociedades cooperativas, serán aplicables a los organismos cooperativos, salvo lo señalado en los artículos: 2; 11 fracción V; 25; 27; 28; 36 fracciones IX y X; 37 párrafo segundo; 38 fracción I; 43 párrafo segundo; 46 párrafo cuarto; 50 párrafo tercero; 53; 54; 57; 58; 59; 64 fracción II, 65 y 66 fracción II.
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+Las disposiciones establecidas por esta Ley para las Sociedades Cooperativas, serán aplicables a los organismos cooperativos, salvo lo señalado en los artículos: 2; 11 fracción V; 25; 27; 28; 36 fracciones IX y X; 37 párrafo segundo; 38 fracción I; 43 párrafo segundo; 45 párrafo cuarto; 50 párrafo tercero; 53; 54; 55, 56; 57; 58; 59; 64 fracción II, 65 y 66 fracción II.
 
 Las federaciones podrán agrupar a sociedades cooperativas de la misma rama de la actividad económica. Las uniones podrán agrupar a sociedades de distintas ramas de la actividad económica.
+
+(REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)
 
 ###### Artículo 75.
 
 Las confederaciones nacionales se podrán constituir con varias uniones o federaciones de por lo menos diez entidades federativas.
 
+(REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)
+
 ###### Artículo 76.
 
 El Consejo Superior del Cooperativismo es el órgano integrador del Movimiento Cooperativo Nacional; se constituirá con las confederaciones nacionales y con las instituciones u organismos de asistencia técnica al cooperativismo.
 
+(REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)
+
 ###### Artículo 77.
 
 Independientemente de las asambleas generales de las confederaciones nacionales cooperativas, se celebrará cada dos años un Congreso Nacional Cooperativo, al que convocará el Consejo Superior del Cooperativismo.
+
+(REUBICADO, D.O.F. 13 DE AGOSTO DE 2009)
 
 ###### Artículo 78.
 
@@ -605,6 +879,178 @@ VI.- Apoyar la celebración de cursos de educación cooperativa en todos los niv
 VII.- Procurar la solidaridad entre sus miembros, y
 
 VIII.- Contratar trabajadores y/o integrar personal comisionado de los organismos integrantes, en los términos en que se acuerde.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+#### Sección II. De los Organismos Cooperativos de las Sociedades Cooperativas de Ahorro y Préstamo
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo se agruparán en los organismos cooperativos de integración y representación siguientes:
+
+I. En Federaciones, y
+
+II. En una Confederación Nacional.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 1.
+
+Las Federaciones se constituirán con la agrupación voluntaria de Sociedades Cooperativas de Ahorro y Préstamo, fungiendo como los organismos cooperativos de integración y representación, de segundo grado.
+
+Las Federaciones se integrarán con un mínimo de cinco y un máximo de cincuenta Sociedades Cooperativas de Ahorro y Préstamo.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 2.
+
+La Confederación se constituirá con la agrupación de todas las Federaciones de Sociedades Cooperativas de Ahorro y Préstamo, fungiendo como el organismo cooperativo nacional de integración y representación, de tercer grado, del sector cooperativo financiero.
+
+La Confederación agrupará a todas las Federaciones y será órgano de consulta y colaboración del Estado para el diseño, difusión y ejecución de las políticas, programas e instrumentos para el fomento y desarrollo de las Sociedades Cooperativas de Ahorro y Préstamo y sus organismos cooperativos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 3.
+
+Las Federaciones y la Confederación, como organismos cooperativos de integración y representación de las Sociedades Cooperativas de Ahorro y Préstamo, serán instituciones de interés público, con personalidad jurídica y patrimonio propios, adoptarán jurídicamente la naturaleza Cooperativa, sin fines lucrativos.
+
+En cuanto a su constitución, organización y funcionamiento, les aplicará las disposiciones de la presente Ley en lo general, salvo lo dispuesto en el párrafo segundo del Artículo 74 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 4.
+
+Las actividades de las Federaciones y la Confederación serán las propias de su objeto social y tendrán prohibido lo siguiente:
+
+I. Realizar actividades políticas partidistas;
+
+II. Invertir en el capital de Sociedades Cooperativas de Ahorro y Préstamo, y
+
+III. Afiliar a personas físicas o realizar operaciones de manera directa o indirecta con el público.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 5.
+
+Las Federaciones y la Confederación, además de lo dispuesto en el Artículo 78 de la presente Ley, podrán realizar las siguientes funciones:
+
+I. Fungir como representantes legales de sus organizaciones afiliadas, ante personas, organismos, autoridades e instituciones tanto nacionales como extranjeras;
+
+II. Proporcionar entre otros, los servicios de asesoría técnica, legal, financiera y de capacitación;
+
+III. Promover la superación y capacidad técnica y operativa de sus organizaciones afiliadas, así como de sus dirigentes y empleados;
+
+IV. Promover la homologación de manuales, procedimientos, reglamentos y políticas, así como sistemas contables e informáticos, entre sus organizaciones afiliadas, y
+
+V. Llevar un registro de sus organizaciones afiliadas y publicarlo periódicamente por los medios que consideren más conveniente.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 6.
+
+Las Federaciones y la Confederación, en su reglamento interior, al menos deberán definir lo siguiente:
+
+I. Procedimiento general para la admisión, suspensión y exclusión de sus organizaciones afiliadas;
+
+II. Los derechos y obligaciones de las organizaciones afiliadas;
+
+III. Procedimiento general para determinar las cuotas que le deberán aportar las organizaciones afiliadas;
+
+IV. Los mecanismos voluntarios de solución de controversias entre las organizaciones afiliadas;
+
+V. El programa de control y corrección interno para prevenir conflictos de interés y uso indebido de la información, y
+
+VI. Los procedimientos aplicables para el caso de que las organizaciones afiliadas incumplan sus obligaciones.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 7.
+
+La Confederación Nacional y las Federaciones de Sociedades Cooperativas de Ahorro y Préstamo, contarán al menos, con los siguientes órganos e instancias de dirección, administración y vigilancia:
+
+I. Una Asamblea General;
+
+II. Un Consejo Directivo;
+
+III. Un Director General o Gerente General, y
+
+IV. Un Consejo de Vigilancia.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 8.
+
+La Asamblea General será el órgano supremo de la Federación y deberá integrarse con al menos un representante de cada una de las Sociedades Cooperativas de Ahorro y Préstamo afiliadas, con derecho a voz y voto, el cual será electo democráticamente entre sus Socios por un periodo de tres años, con posibilidad de una sola reelección.
+
+La Federación podrá establecer en sus estatutos un sistema de representación proporcional en el que se asignará a cada Cooperativa afiliada el número de votos que proporcionalmente le correspondan, considerando el número de socios y/o activos totales de cada Cooperativa y del total de la Federación. En ningún caso una Cooperativa podrá tener más de veinte por ciento del total de votos en la Asamblea de la Federación.
+
+Para ser representante de la Sociedad Cooperativa ante la Asamblea General de la Federación será indispensable contar con una antigüedad mínima de un año como Socio de la Cooperativa y, preferentemente, ser dirigente o funcionario de primer nivel de la misma,
+
+A las asambleas de las Federaciones deberá acudir con voz pero sin voto un representante de la Confederación.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 9.
+
+La Asamblea general será el órgano supremo de la Confederación y deberá integrarse con al menos un representante, con derecho a voz y voto, de cada una de las Federaciones afiliadas.
+
+La Confederación podrá establecer en sus estatutos un sistema de representación proporcional en el que se asignará a cada Federación afiliada el número de votos que proporcionalmente le correspondan, considerando el número de socios y/o activos totales de cada Federación y del total de la Confederación. En ningún caso una Federación podrá tener más del veinte por ciento del total de votos en la asamblea de la Confederación.
+
+Para ser representante de la Federación ante la Asamblea General de la Confederación será indispensable contar con una antigüedad mínima de un año como Socio de una Cooperativa afiliada a la Federación y, preferentemente, ser dirigente o funcionario de primer nivel de la propia Federación o de alguna de sus Cooperativas afiliadas.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 10.
+
+El Consejo Directivo de las Federaciones y la Confederación, según corresponda, será el órgano de gobierno responsable de la administración general y de los negocios, y de que se cumpla el objeto social del respectivo organismo cooperativo.
+
+El Consejo Directivo de las Federaciones y de la Confederación estará integrado por no menos de cinco personas ni más de quince, quienes serán nombrados y en su caso, removidos por la Asamblea General del respectivo organismo cooperativo, debiendo cumplir al menos con los requisitos que para ser consejero de una Sociedad Cooperativa de Ahorro y Préstamo, señala el Artículo 43 Bis de esta Ley.
+
+Los consejeros de las Federaciones y de la Confederación fungirán por un periodo máximo de hasta cinco años con posibilidad de una sola reelección cuando lo apruebe por lo menos las dos terceras partes de la respectiva Asamblea General. Para garantizar la continuidad en los procesos de toma de decisiones del Consejo Directivo, en las bases constitutivas de las Federaciones y de la Confederación, se deberá establecer un sistema de renovación cíclica y parcial de sus consejeros.
+
+Para ser consejero de las Federaciones y de la Confederación será indispensable contar con una antigüedad mínima de un año como Socio de una Cooperativa.
+
+El Consejo Directivo de las Federaciones y de la Confederación se integrará y funcionará de acuerdo a lo establecido en las propias bases constitutivas de cada organismo, sujetándose a lo señalado en el Artículo 43 Bis 1 de la presente Ley.
+
+Dichos consejos tendrán la representación de sus respectivos organismos cooperativos, así como, las facultades que determinen sus bases constitutivas, entre las cuales deberán considerarse al menos las siguientes:
+
+I. Designar un director o gerente general;
+
+II. Establecer las facultades de representación, y
+
+III. Designar a uno o más comisionados que se encarguen de administrar las secciones especializadas que constituyan los propios Organismos.
+
+Así mismo, el Consejo Directivo de las Federaciones y la Confederación podrán establecer, los reglamentos y manuales operativos a los cuales deberán ajustarse sus órganos de dirección, administración y vigilancia a que se refieren los Artículos contenidos en este Sección.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 11.
+
+El Consejo de Vigilancia de las Federaciones y la Confederación, según corresponda, será el órgano encargado de supervisar el funcionamiento interno del organismo cooperativo, así como el cumplimiento de sus estatutos y demás normatividad aplicable.
+
+El Consejo de Vigilancia de las Federaciones y la Confederación estará integrado por no menos de tres personas ni más de cinco, quienes serán nombrados y en su caso, removidos por la Asamblea General del respectivo organismo cooperativo, debiendo cumplir al menos con los requisitos que para ser consejero de una Sociedad Cooperativa de Ahorro y Préstamo, señala el Artículo 43 Bis de esta Ley.
+
+Los miembros del Consejo de Vigilancia de las Federaciones y la Confederación fungirán por un periodo máximo de hasta cinco años con posibilidad de una sola reelección cuando lo apruebe por lo menos las dos terceras partes de la respectiva Asamblea General; para garantizar la continuidad en los procesos de toma de decisiones del Consejo de Vigilancia, en las bases constitutivas de las Federaciones y la Confederación, se deberá establecer un sistema de renovación cíclica y parcial de sus consejeros.
+
+Para ser miembro del Consejo de Vigilancia será indispensable contar con una antigüedad mínima de un año como Socio de una Cooperativa.
+
+El Consejo de Vigilancia de las Federaciones y la Confederación se integrará y funcionará de acuerdo a lo establecido en las propias bases constitutivas de cada organismo, sujetándose a lo señalado en el Artículo 46 Bis de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 12.
+
+El director o gerente general de las Federaciones y de la Confederación, será nombrado por el respectivo Consejo Directivo del organismo cooperativo, debiendo someterlo a ratificación de su propia Asamblea General.
+
+Las Federaciones y la Confederación, deberán establecer en sus bases constitutivas, los requisitos, facultades y obligaciones del director o gerente general, debiendo aplicar al menos lo señalado para los gerentes o directores generales de Sociedades Cooperativas de Ahorro y Préstamo, según lo establecido en los Artículos 46 Bis 1 y 46 Bis 2 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+###### Artículo 78 Bis 13.
+
+Para el sostenimiento y operación de las Federaciones y la Confederación, el respectivo Consejo Directivo determinará las cuotas que deban pagar cada una de las organizaciones afiliadas, tomando como base los procedimientos aprobados por la Asamblea en el respectivo reglamento interior de cada organismo cooperativo.
 
 ### Capítulo II. De los organismos e instituciones de asistencia técnica al Movimiento Cooperativo Nacional
 
@@ -755,3 +1201,23 @@ D.O.F. 27 DE NOVIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE AGOSTO DE 2009.
+
+TRANSITORIO DEL ARTÍCULO TERCERO DEL DECRETO
+
+ÚNICO.- En las Sociedades Cooperativas de Ahorro y Préstamo y en sus organismos cooperativos de integración y representación, en que a la fecha de publicación de este Decreto no haya una definición clara de la renovación cíclica de sus consejeros, para la aplicación de los Artículos 43, tercer párrafo y 45 Bis, así como los Artículos 78 Bis 10 y Artículo 78 Bis 11 respectivamente, la Asamblea General de Socios, en su próxima sesión ordinaria deberá acordar los mecanismos necesarios para la renovación gradual de sus consejeros.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto por el Artículo Segundo siguiente.
+
+SEGUNDO.- Las derogaciones efectuadas por el Artículo TERCERO (sic) del presente Decreto a los Artículos 4 Bis, 4 Bis 1, 4 Bis 2 y 4 Bis 3 de la Ley de Ahorro y Crédito Popular, así como por el Artículo SEXTO del presente Decreto al Artículo Séptimo Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, entrarán en vigor a los 180 días naturales siguientes a la publicación del presente Decreto.
+
+TERCERO.- En tanto la Comisión Nacional Bancaria y de Valores emite las disposiciones de carácter general a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, seguirán aplicándose las emitidas por dicha Comisión en términos de la Ley de Ahorro y Crédito Popular.
+
+CUARTO.- Las referencias que otras Leyes, reglamentos o disposiciones hagan respecto de las Entidades de Ahorro y Crédito Popular, se entenderán efectuadas a las Sociedades Financieras Populares y Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV.
+
+QUINTO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
