@@ -4,7 +4,7 @@ identifier: "LCNBV"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-28"
-last_updated: "2009-06-25"
+last_updated: "2009-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCNBV"
 
 LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de abril de 1995.
 
@@ -46,9 +46,11 @@ LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
 Se crea la Comisión Nacional Bancaria y de Valores como órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, con autonomía técnica y facultades ejecutivas en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 2.
 
-La Comisión tendrá por objeto supervisar y regular, en el ámbito de su competencia, a las entidades financieras, a fin de procurar su estabilidad y correcto funcionamiento, así como mantener y fomentar el sano y equilibrado desarrollo del sistema financiero en su conjunto, en protección de los intereses del público.
+La Comisión tendrá por objeto supervisar y regular en el ámbito de su competencia a las entidades integrantes del sistema financiero mexicano que esta Ley señala, a fin de procurar su estabilidad y correcto funcionamiento, así como mantener y fomentar el sano y equilibrado desarrollo de dicho sistema en su conjunto, en protección de los intereses del público.
 
 También será su objeto supervisar y regular a las personas físicas y demás personas morales, cuando realicen actividades previstas en las leyes relativas al citado sistema financiero.
 
@@ -60,15 +62,23 @@ I.- Comisión, a la Comisión Nacional Bancaria y de Valores;
 
 II.- Junta de Gobierno o Junta, a la Junta de Gobierno de la Comisión;
 
-III.- Presidente, al Presidente de la Comisión, y
+III.- Presidente, al Presidente de la Comisión, y (sic)
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-IV.- Entidades del sector financiero o entidades financieras, a las sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, especialistas bursátiles, bolsas de valores, sociedades de inversión, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión, almacenes generales de depósito, uniones de crédito, arrendadoras financieras, empresas de factoraje financiero, sociedades de ahorro y préstamo, casas de cambio, sociedades financieras de objeto limitado, instituciones para el depósito de valores, contrapartes centrales, instituciones calificadoras de valores, sociedades de información crediticia, personas que operen con el carácter de entidad de ahorro y crédito popular, así como otras instituciones y fideicomisos públicos que realicen actividades financieras y respecto de los cuales la Comisión ejerza facultades de supervisión;
+IV.- Entidades o entidades financieras integrantes del Sistema Financiero Mexicano:
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+a) A las sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, especialistas bursátiles, bolsas de valores, sociedades de inversión, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión, almacenes generales de depósito, uniones de crédito, arrendadoras financieras, empresas de factoraje financiero, sociedades de ahorro y préstamo, casas de cambio, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple reguladas, sociedades financieras populares, instituciones para el depósito de valores, contrapartes centrales, instituciones calificadoras de valores, sociedades de información crediticia, sociedades financieras comunitarias, sujetas a la supervisión de la Comisión y los organismos de integración financiera rural, así como otras instituciones y fideicomisos públicos que realicen actividades financieras y respecto de los cuales la Comisión ejerza facultades de supervisión, todas ellas constituidas conforme a las Leyes mercantiles y financieras.
 
-V.- Organismos de integración: A las Federaciones y Confederaciones a que se refiere la Ley de Ahorro y Crédito Popular.
+b) A las sociedades cooperativas de ahorro y préstamo, sujetas a la supervisión de la Comisión, a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, integrantes del sector social;
+
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+V.- Federaciones: a las federaciones a que se refiere la Ley de Ahorro y Crédito Popular;
+
+> <small>(ADICIONADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
+VI.- Fondo de protección: Al fondo de protección a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, así como al referido en la Ley de Ahorro y Crédito Popular.
 
 ### CAPITULO II. DE LAS FACULTADES
 
@@ -76,9 +86,11 @@ V.- Organismos de integración: A las Federaciones y Confederaciones a que se re
 
 Corresponde a la Comisión:
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
 
-I.- Realizar la supervisión de las entidades financieras, los organismos de integración, así como de las personas físicas y demás personas morales cuando realicen actividades previstas en las leyes relativas al sistema financiero;
+I.- Realizar la supervisión de las entidades financieras; del fondo de protección a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; de las Federaciones y del fondo de protección a que se refiere la Ley de Ahorro y Crédito Popular, así como de las personas físicas y demás personas morales cuando realicen actividades previstas en las Leyes relativas al sistema financiero.
+
+Tratándose de sociedades cooperativas de ahorro y préstamo, únicamente corresponderá a la Comisión la supervisión de aquellas con niveles de operación I a IV a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo;
 
 II.- Emitir en el ámbito de su competencia la regulación prudencial a que se sujetarán las entidades;
 
@@ -352,9 +364,11 @@ El Presidente y los Vicepresidentes sólo estarán obligados a absolver posicion
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 18.
 
-Las entidades del sector financiero, sociedades emisoras, personas físicas y demás personas morales sujetas conforme a ésta y otras leyes a la supervisión de la Comisión, deberán cubrir los derechos correspondientes en los términos de las disposiciones legales aplicables.
+Las entidades del sector financiero y sociedades emisoras, así como sociedades cooperativas de ahorro y préstamo con niveles de operación I a IV, y el fondo de protección a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; las federaciones y el fondo de protección a que se refiere la Ley de Ahorro y Crédito Popular; así como las demás personas físicas o morales, sujetas conforme a esta y otras Leyes a la supervisión de la Comisión, deberán cubrir los derechos correspondientes en los términos de las disposiciones legales aplicables.
 
 Los derechos a que se refiere este artículo se destinarán a cubrir el presupuesto de la Comisión.
 
@@ -559,3 +573,17 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEXTO.
 
 Se deroga la fracción XXXVII del artículo 4 de la Ley de la Comisión Nacional Bancaria y de Valores.
+
+D.O.F. 13 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto por el Artículo Segundo siguiente.
+
+SEGUNDO.- Las derogaciones efectuadas por el Artículo TERCERO (sic) del presente Decreto a los Artículos 4 Bis, 4 Bis 1, 4 Bis 2 y 4 Bis 3 de la Ley de Ahorro y Crédito Popular, así como por el Artículo SEXTO del presente Decreto al Artículo Séptimo Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, entrarán en vigor a los 180 días naturales siguientes a la publicación del presente Decreto.
+
+TERCERO.- En tanto la Comisión Nacional Bancaria y de Valores emite las disposiciones de carácter general a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, seguirán aplicándose las emitidas por dicha Comisión en términos de la Ley de Ahorro y Crédito Popular.
+
+CUARTO.- Las referencias que otras Leyes, reglamentos o disposiciones hagan respecto de las Entidades de Ahorro y Crédito Popular, se entenderán efectuadas a las Sociedades Financieras Populares y Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV.
+
+QUINTO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
