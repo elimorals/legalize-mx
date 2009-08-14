@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2008-05-16"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -123,9 +123,9 @@ XVII.- El programa contra el alcoholismo;
 
 XVIII.- El programa contra el tabaquismo; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE AGOSTO DE 2009)</small>
 
-XIX.- Programas de prevención y control de enfermedades bucodentales, auditivas y visuales.
+XIX.- La promoción, prevención y el control de las enfermedades cardiovasculares, la obesidad y la diabetes.
 
 ###### ARTÍCULO 5.
 
@@ -827,7 +827,15 @@ De igual forma vigilarán la calidad del agua para uso y consumo humano, así co
 
 ### CAPITULO SEPTIMO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-#### SECCION I. DISPOSICIONES COMUNES
+#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
+
+I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
+
+II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
 
 ###### ARTÍCULO 73.
 
@@ -947,7 +955,7 @@ El Gobierno del Estado, a través de la Secretaría de Salud del Estado y las Au
 
 Las Autoridades Sanitarias del Estado mantendrán campañas permanentes a fin de orientar a la población, en la necesidad de vacunar y mantener bajo control los animales domésticos. Igualmente orientarán a la población sobre los diferentes sistemas para esterilizar a los animales domésticos, en forma voluntaria o en su caso obligatoria.
 
-#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
+#### SECCION I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 89.
 
@@ -971,7 +979,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud rendirán los informes que la Autoridad Sanitaria del Estado requiera acerca de las enfermedades no transmisibles, en los términos de las disposiciones aplicables.
 
-#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
+#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
 ###### ARTÍCULO 92.
 
@@ -995,6 +1003,8 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 ### CAPITULO OCTAVO. DE LA PREVENCION Y REHABILITACION DE DISCAPACITADOS
 
+#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
+
 #### SECCION IV. DE LA LIMPIEZA PUBLICA
 
 #### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
@@ -1002,8 +1012,6 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 #### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
 
 #### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
-
-#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
 
 ### CAPITULO NOVENO. DE LAS ADICCIONES
 
@@ -1045,7 +1053,7 @@ Las Autoridades Sanitarias del Estado tendrán entre sus objetivos, operar estab
 
 ### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
 
-#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS ESTETICOS COMO PELUQUERIAS, SALAS DE BELLEZA O MASAJE
+#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTÍCULO 99.
 
@@ -1073,7 +1081,7 @@ IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, 
 
 Queda estrictamente prohibido vender bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
-#### SECCION X. DE LOS TRANSPORTES DE CARGA
+#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS ESTETICOS COMO PELUQUERIAS, SALAS DE BELLEZA O MASAJE
 
 ###### ARTÍCULO 102.
 
@@ -1103,7 +1111,7 @@ Los establecimientos comerciales que vendan productos derivados del tabaco, debe
 
 A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términos de la normatividad aplicable.
 
-#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL
+#### SECCION X. DE LOS TRANSPORTES DE CARGA
 
 ###### ARTÍCULO 105.
 
@@ -1123,13 +1131,15 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 A los establecimientos, así como a los responsables de los mismos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga la Secretaría de Salud del Estado y los Municipios, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
-#### SECCION I. DE LAS AUTORIZACIONES
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-#### SECCION II. DE LA REVOCACION DE PERMISOS SANITARIOS
+#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL
+
+#### SECCION I. DE LAS AUTORIZACIONES
 
 ### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
-#### SECCION III. DE LOS CERTIFICADOS
+#### SECCION II. DE LA REVOCACION DE PERMISOS SANITARIOS
 
 ###### ARTÍCULO 107.
 
@@ -1150,6 +1160,8 @@ Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, 
 ###### ARTÍCULO 111.
 
 Todo cambio de propietario, de razón o denominación social o domicilio de un establecimiento, deberá ser comunicado a la Autoridad que otorgó la autorización sanitaria o a quien se le haya dado el aviso de funcionamiento, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
+
+#### SECCION III. DE LOS CERTIFICADOS
 
 ###### ARTÍCULO 112.
 
@@ -1848,3 +1860,7 @@ TERCERO. El Poder Ejecutivo del Estado deberá elaborar el reglamento interno de
 P.O. 16 DE MAYO DE 2008.
 
 Único.- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
