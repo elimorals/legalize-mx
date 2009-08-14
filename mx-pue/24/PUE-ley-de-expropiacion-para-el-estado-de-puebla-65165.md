@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-expropiacion-para-el-estado-de-puebla-65165"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-03"
-last_updated: "2008-12-03"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de diciembre de 2008.
 
@@ -87,9 +87,15 @@ XVI.- La fundación, conservación, mejoramiento y crecimiento de los centros de
 
 XVII.- La creación de reservas territoriales que satisfagan las necesidades del suelo urbano para la fundación, conservación y crecimiento de los centros de población, así como para la vivienda, su infraestructura y su equipamiento, tal y como se dispone en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla;
 
-XVIII.- La ordenación de los asentamientos humanos irregulares de los Municipios en la Entidad al desarrollo urbano, en términos de lo establecido en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla; y
+XVIII.- La ordenación de los asentamientos humanos irregulares de los Municipios en la Entidad al desarrollo urbano, en términos de lo establecido en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla; y (sic)
 
-XIX.- Los demás casos previstos por Leyes especiales.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XIX.- La construcción de obras de infraestructura pública y la prestación de servicios públicos, que requieran de bienes inmuebles y sus mejoras, derivada de concesión, de contrato o de cualquier acto jurídico celebrado en términos de las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XX.- Los demás casos previstos por Leyes especiales.
 
 ###### Artículo 3.
 
@@ -400,3 +406,11 @@ Artículo Cuarto.- Se abroga el Reglamento del artículo 18 de la Ley de Expropi
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los trece días del mes de noviembre de dos mil ocho.- Diputada Presidenta- MALINALLI AURORA GARCÍA RUIZ.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR MAURICIO HIDALGO GONZÁLEZ.- Rúbrica.- Diputado Secretario.- RAÚL ERASMO ÁLVAREZ MARÍN.- Rúbrica.-
 
 Diputado Secretario.- GABRIEL GUSTAVO ESPINOSA VÁZQUEZ.- Rúbrica. Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los trece días del mes de noviembre de dos mil ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
