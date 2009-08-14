@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2009-06-25"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2009.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 25 DE JUNIO DE 2009.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE AGOSTO DE 2009.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -5362,6 +5360,14 @@ PRIMERO. El presente Decreto entrará en vigor a los tres meses siguientes de su
 
 SEGUNDO. Los Estados de la Federación y el Distrito Federal contarán con seis meses a partir de la entrada en vigor del Decreto, para crear las leyes, instituciones y órganos que se requieran para la aplicación del presente Decreto.
 
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2009)</small>
+
+La Federación contará con un año a partir de la entrada en vigor del presente decreto, para expedir las leyes y establecer las instituciones y los órganos que se requieran en el orden federal para la implementación del sistema de justicia integral para adolescentes.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2009)</small>
+
+TERCERO. Los asuntos en trámite hasta el momento en que entren en vigor las leyes y se implementen las instituciones y los órganos a que se refiere el transitorio anterior se concluirán conforme a la legislación con que se iniciaron. Los asuntos que se encuentren pendientes de resolución en el momento en que inicie la operación del nuevo sistema se remitirán a la autoridad que resulte competente para que continúe en el conocimiento de éstos hasta su conclusión.
+
 D.O.F. 7 DE ABRIL DE 2006.
 
 Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5565,6 +5571,10 @@ Segundo. Las legislaciones en materia de secuestro de las entidades federativas,
 D.O.F. 1 DE JUNIO DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE AGOSTO DE 2009.
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
