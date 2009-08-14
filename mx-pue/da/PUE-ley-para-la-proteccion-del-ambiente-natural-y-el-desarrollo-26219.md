@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2002-09-18"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCION DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -117,9 +117,21 @@ XII.- Normar el establecimiento de suelos de conservación;
 
 XIII.- Propiciar el establecimiento de zonas intermedias de salvaguarda, entre el suelo de conservación y el urbano, la zona industrial y los asentamientos humanos, la zona federal de barrancas, los embalses de presas, así como las laderas de ríos;
 
-XIV.- Procurar la recuperación de los elementos naturales y de los sitios necesarios para asegurar la restauración; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XV.- Todas las demás acciones orientadas a cumplir los objetivos de este ordenamiento y demás normas aplicables, sin perjuicio de lo reservado a la Federación.
+XIV.- Procurar la recuperación de los elementos naturales y de los sitios necesarios para asegurar la restauración;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XV.- Fomentar acciones tendientes a informar y generar en la población una cultura respecto a la protección ambiental;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XVI.- Promover los mecanismos de protección ambiental mediante el uso de materiales biodegradables; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XVII.- Todas las demás acciones orientadas a cumplir los objetivos de este ordenamiento y demás normas aplicables, sin perjuicio de lo reservado a la Federación.
 
 ###### ARTÍCULO 2.
 
@@ -147,105 +159,209 @@ III.- ÁREAS NATURALES PROTEGIDAS.- Las zonas naturales dentro del territorio de
 
 IV.- BANCOS DE MATERIALES.- Las vetas, yacimientos o depósitos de materiales terrosos y pétreos susceptibles de ser extraídos de su estado natural para ser aprovechados como materia prima;
 
-V.- BIODIVERSIDAD.- La variabilidad de organismos vivos de cualquier fuente, incluidos entre otros, los ecosistemas terrestres, marítimos y acuáticos y los complejos ecológicos de los que forman parte; asimismo la diversidad entre las especies y los ecosistemas;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-VI.- CERTIFICACIONES DE BUENAS PRÁCTICAS AMBIENTALES.- Son reconocimientos que otorga el Ejecutivo del Estado, a través de la Secretaría, con la finalidad de continuar incentivando más allá del cumplimiento de la norma ambiental, las actividades y obras que sean competencia del Estado;
+V.- BIODEGRADABLE.- Es el compuesto químico que se degrada por una acción biológica;
 
-VII.- COMISIÓN ESTATAL DEL AGUA.- La Comisión Estatal de Agua y Saneamiento del Estado de Puebla;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-VIII.- CONSERVACIÓN.- La acción de preservar la biodiversidad y los elementos ambientales con el propósito de permitir y asegurar la continuidad de los procesos evolutivos;
+VI.- BIODlVERSIDAD.- La variabilidad de organismos vivos de cualquier fuente, incluidos entre otros, los ecosistemas terrestres, marítimos y acuáticos y los complejos ecológicos de los que forman parte; asimismo la diversidad entre las especies y los ecosistemas;
 
-IX.- CONTAMINACIÓN.- La presencia en el ambiente de uno o más elementos físicos, químicos, biológicos o de cualquier combinación de ellos, que causen desequilibrio ecológico;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-X.- CONTAMINACIÓN DEL SUELO.- La alteración de las condiciones naturales del suelo, provocadas por la presencia de substancias o materiales físicos, químicos o biológicos que dificulten o imposibiliten la vida vegetal o animal;
+VII.- CERTIFICACIONES DE BUENAS PRÁCTICAS AMBIENTALES.- Son reconocimientos que otorga el Ejecutivo del Estado, a través de la Secretaría, con la finalidad de continuar incentivando más allá del cumplimiento de la norma ambiental, las actividades y obras que sean competencia del Estado;
 
-XI.- CONTAMINACIÓN LUMÍNICA.- Es toda aquella originada por la emisión de rayos luminosos que causen o puedan causar molestias o daños al sentido de la vista;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XII.- CONTAMINACIÓN VISUAL.- La alteración de las cualidades escénicas de la imagen de un paisaje natural o urbano causado por cualquier elemento funcional o simbólico;
+VIII.- COMISIÓN ESTATAL DEL AGUA.- La Comisión Estatal de Agua y Saneamiento del Estado de Puebla;
 
-XIII.- CONTAMINANTE.- Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XIV.- CONTINGENCIA AMBIENTAL.- Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
+IX.- CONSERVACIÓN.- La acción de preservar la biodiversidad y los elementos ambientales con el propósito de permitir y asegurar la continuidad de los procesos evolutivos;
 
-XV.- CRITERIOS ECOLÓGICOS.- Los lineamientos obligatorios contenidos en la presente Ley para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XVI.- CULTURA AMBIENTAL.- Conjunto de conocimientos, costumbres y actividades transmitidas a través de las generaciones, adquiridas por medio de la educación ambiental, que se dirigen a los grupos sociales para el comportamiento armónico con la naturaleza;
+X.- CONTAMINACIÓN.- La presencia en el ambiente de uno o más elementos físicos, químicos, biológicos o de cualquier combinación de ellos, que causen desequilibrio ecológico;
 
-XVII.- DAÑO AMBIENTAL.- Toda pérdida, disminución, detrimento o menoscabo significativo inferido al ambiente o a uno o más de sus componentes;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XVIII.- DESEQUILIBRIO ECOLÓGICO.- La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo de los seres vivos;
+XI.- CONTAMINACIÓN DEL SUELO.- La alteración de las condiciones naturales del suelo, provocadas por la presencia de substancias o materiales físicos, químicos o biológicos que dificulten o imposibiliten la vida vegetal o animal;
 
-XIX.- ECOSISTEMA.- La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XX.- EMERGENCIA ECOLÓGICA.- Situación derivada de actividades humanas o fenómenos naturales que al alterar severamente a sus elementos, pone en peligro uno o varios ecosistemas;
+XII.- CONTAMINACIÓN LUMÍNICA.- Es toda aquélla originada por la emisión de rayos luminosos que causen o puedan causar molestias o daños al sentido de la vista;
 
-XXI.- EMISIÓN.- Es la descarga directa o indirecta a la atmósfera o al medio ambiente de toda sustancia, en cualesquiera de sus estados físicos, químicos, biológicos o de energía;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXII.- ESTUDIO DE IMPACTO AMBIENTAL.- El documento a través del cual la Secretaría da a conocer, con base en estudios de investigación, el impacto ambiental, significativo y potencial que genera o generaría una obra o actividad, así como la forma de evitarlo o atenuarlo, en caso de que sea negativo;
+XIII.- CONTAMINACIÓN VISUAL.- La alteración de las cualidades escénicas de la imagen de un paisaje natural o urbano causado por cualquier elemento funcional o simbólico;
 
-XXIII.- ESTUDIO DE RIESGO.- El documento mediante el cual la Secretaría da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que dicha obra o actividad representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventivas y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación normal de la obra o actividad de que se trate;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXIV.- EVALUACIÓN DEL ESTUDIO DEL IMPACTO.- Es el procedimiento a través del cual la Secretaría, establece las condiciones a que se sujetará la realización de obras y actividades que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables, con el objeto de evitar o reducir al mínimo sus efectos negativos sobre el ambiente;
+XIV.- CONTAMINANTE.- Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
-XXV.- EQUILIBRIO ECOLÓGICO.- La relación de interdependencias entre los elementos naturales que conforman el ambiente y hacen posible la existencia, transformación y desarrollo del ser humano y demás seres vivos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXVI.- FUENTE FIJA.- Es todo establecimiento, que tenga como finalidad desarrollar operaciones o procesos industriales, mercantiles, de servicios o actividades que generen o puedan generar emisiones contaminantes;
+XV.- CONTINGENCIA AMBIENTAL.- Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-XVII.- FUENTE MÓVIL DIRECTA.- Son los vehículos de propulsión mecánica, con motores de combustión interna, así como equipos y maquinaria no fijos o similares que con motivo de su maniobra, generen o puedan generar emisiones contaminantes;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXVIII.- FUENTE MÓVIL INDIRECTA.- Son las personas que en su tránsito generen contaminación en las zonas públicas o en aquellas zonas a cargo del Estado o Municipios;
+XVI.- CRITERIOS ECOLÓGICOS.- Los lineamientos obligatorios contenidos en la presente Ley para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente;
 
-XXIX.- GENERADOR.- Es toda persona o establecimiento, que por sus actividades produzca o pueda producir, fabrique, elabore, transporte, distribuya, comercialice, almacene, posea, use, reuse, recicle, recolecte, trate, deseche, descargue, recupere, incinere o en general realice o consienta, autorice u ordene actos con materiales o sustancias contaminantes o peligrosas;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXX.- IMPACTO AMBIENTAL.- La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+XVII.- CULTURA AMBIENTAL.- Conjunto de conocimientos, costumbres y actividades transmitidas a través de las generaciones, adquiridas por medio de la educación ambiental, que se dirigen a los grupos sociales para el comportamiento armónico con la naturaleza;
 
-XXXI.- INSTRUCCIÓN AMBIENTAL.- Es el proceso permanente de aprendizaje mediante el cual un individuo en forma armónica adquiere conciencia de ser parte de la naturaleza;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXXII.- INSTRUMENTOS DE POLÍTICA AMBIENTAL.- Son los mecanismos necesarios para implementar acciones de preservación, conservación y protección ambiental, tales como: el Ordenamiento Ecológico, la evaluación del impacto ambiental, los instrumentos económicos, la auto regulación y auditorías ambientales, así como la investigación ambiental;
+XVIII.- DAÑO AMBIENTAL.- Toda pérdida, disminución, detrimento o menoscabo significativo inferido al ambiente o a uno o más de sus componentes;
 
-XXXIII.- ESTIMACION DE COSTOS AMBIENTALES.- Es el procedimiento a través del cual se calculan los costos económicos reales de la naturaleza para obtener un producto y éstos sean integrados a las obras o servicios que sean ofrecidos en el mercado;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXXIV.- LEY GENERAL.- La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XIX.- DESEQUILIBRIO ECOLÓGICO.- La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo de los seres vivos;
 
-XXXV.- LEY.- La Ley para la Protección al Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXXVI.- MANEJO DE RESIDUOS.- Es el conjunto de actividades relativas al almacenamiento, recolección, transporte, reuso, tratamiento, reciclaje, recuperación, incineración y disposición final de los residuos;
+XX.- ECOSISTEMA.- La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-XXXVII.- MEDIO AMBIENTE.- Conjunto de elementos naturales o artificiales que hacen posible la existencia y desarrollo de los seres humanos y organismos vivos que interactúan en un lugar y tiempo determinados;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXXVIII.- ORDENAMIENTO ECOLÓGICO.- Es el instrumento de política ambiental que establece el proceso de planeación dirigido a programar el óptimo manejo de los recursos naturales en el territorio estatal, para regular e inducir el uso de suelo con base en su vocación natural y las actividades productivas a través de la aplicación de políticas y criterios para proteger, preservar, conservar, restaurar y aprovechar sustentablemente los recursos naturales;
+XXI.- EMERGENCIA ECOLÓGICA.- Situación derivada de actividades humanas o fenómenos naturales que al alterar severamente a sus elementos, pone en peligro uno o varios ecosistemas;
 
-XXXIX.- PRESERVACIÓN.- El conjunto de políticas y actividades preventivas para propiciar las condiciones de evaluación y continuidad de los ecosistemas y hábitat naturales, así como la conservación de las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XL.- PREVENCIÓN.- Es el conjunto de disposiciones y actividades anticipadas para evitar el deterioro del ambiente;
+XXII.- EMISIÓN.- Es la descarga directa o indirecta a la atmósfera o al medio ambiente de toda sustancia, en cualesquiera de sus estados físicos, químicos, biológicos o de energía;
 
-XLI.- PROTECCIÓN AMBIENTAL.- Son las acciones para prevenir, preservar, restaurar y conservar los elementos del ambiente, así como minimizar, prevenir y controlar la contaminación o deterioro ambiental;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XLII.- PROTECCIÓN CIVIL.- El Sistema Estatal de Protección Civil;
+XXIII.- ESTUDIO DE IMPACTO AMBIENTAL.- El documento a través del cual la Secretaría da a conocer, con base en estudios de investigación, el impacto ambiental, significativo y potencial que genera o generaría una obra o actividad, así como la forma de evitarlo o atenuarlo, en caso de que sea negativo;
 
-XLIII.- RECICLAJE.- Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XLIV.- REGIÓN ECOLÓGICA.- Es la unidad del territorio del Estado que comparte características ecológicas comunes;
+XXIV.- ESTUDIO DE RIESGO.- El documento mediante el cual la Secretaría da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que dicha obra o actividad representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventivas y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación normal de la obra o actividad de que se trate;
 
-XLV.- RESIDUO.- Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permite usarlo nuevamente en el proceso que lo generó;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XLVI.- RESTAURACIÓN.- Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+XXV.- EVALUACIÓN DEL ESTUDIO DEL IMPACTO.- Es el procedimiento a través del cual la Secretaria, establece las condiciones a que se sujetará la realización de obras y actividades que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables, con el objeto de evitar o reducir al mínimo sus efectos negativos sobre el ambiente;
 
-XLVII.- REUSO.- Es la acción de aprovechar un residuo sin un proceso previo de transformación;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XLVIII.- RIESGO AMBIENTAL.- Es la contingencia en el proceso de los fenómenos naturales o artificiales que pueden ser alterados por las condiciones que constituyan un peligro para el medio ambiente;
+XXVI.- EQUILIBRIO ECOLÓGICO.- La relación de interdependencias entre los elementos naturales que conforman el ambiente y hacen posible la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
-XLIX.- SECRETARÍA.- Secretaría de Desarrollo Urbano, Ecología y Obras Públicas del Estado de Puebla;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-L.- SUBSISTEMA DE ÁREAS NATURALES PROTEGIDAS.- Es un diagnóstico e inventario completo de las características bióticas y abióticas, así como su situación legal y socioeconómica que presenta cada área natural protegida, a través de un sistema de información geográfica;
+XXVII.- FUENTE FIJA.- Es todo establecimiento, que tenga como finalidad desarrollar operaciones o procesos industriales, mercantiles, de servicios o actividades que generen o puedan generar emisiones contaminantes;
 
-LI.- SUSTANCIAS DEL GRUPO I.- El grupo de sustancias químicas compuesto por: clorofluorocarbono-11 (CFC-11), CFC-12, CFC-113, CFC-114, CFC-115, halón 1211, halón-1301, halón-2402, tetracloruro de carbono, diclorometano o cualquier mezcla que contenga uno o más de las anteriores sustancias;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-LII.- SUSTANCIAS DEL GRUPO II.- Grupo de sustancias que contenga cualquier clorofluorohidrocarbono (HCFC) o cualquier otra sustancia que dañe o degrade la capa de ozono;
+XXVIII.- FUENTE MÓVIL DIRECTA.- Son los vehículos de propulsión mecánica, con motores de combustión interna, así como equipos y maquinaria no fijos o similares que con motivo de su maniobra, generen o puedan generar emisiones contaminantes;
 
-LIII.- TRATAMIENTO.- Es el proceso al que se someten los residuos, con el objeto de neutralizar, disminuir o eliminar los contaminantes que se le hayan incorporado; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-LIV.- VERIFICACIÓN.- Es el análisis técnico para determinar las emisiones de gases o partículas sólidas o líquidas en la atmósfera, generada por contaminantes.
+XXIX.- FUENTE MÓVIL INDIRECTA.- Son las personas que en su tránsito generen contaminación en las zonas públicas o en aquellas zonas a cargo del Estado o Municipios;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXX.- GENERADOR.- Es toda persona o establecimiento, que por sus actividades produzca o pueda producir, fabrique, elabore, transporte, distribuya, comercialice, almacene, posea, use, reuse, recicle, recolecte, trate, deseche, descargue, recupere, incinere o en general realice o consienta, autorice u ordene actos con materiales o sustancias contaminantes o peligrosas;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXI.- IMPACTO AMBIENTAL.- La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXII.- INSTRUCCIÓN AMBIENTAL.- Es el proceso permanente de aprendizaje mediante el cual un individuo en forma armónica adquiere conciencia de ser parte de la naturaleza;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXIII.- INSTRUMENTOS DE POLÍTICA AMBIENTAL.- Son los mecanismos necesarios para implementar acciones de preservación, conservación y protección ambiental, tales como: el Ordenamiento Ecológico, la evaluación del impacto ambiental, los instrumentos económicos, la autorregulación y auditorías ambientales, así como la investigación ambiental;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXIV.- ESTIMACIÓN DE COSTOS AMBIENTALES.- Es el procedimiento a través del cual se calculan los costos económicos reales de la naturaleza para obtener un producto y éstos sean integrados a las obras o servicios que sean ofrecidos en el mercado;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXV.- LEY GENERAL.- La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXVI.- LEY.- La Ley para la Protección al Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXVII.- MANEJO DE RESIDUOS.- Es el conjunto de actividades relativas al almacenamiento, recolección, transporte, reuso, tratamiento, reciclaje, recuperación, incineración y disposición final de los residuos;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXVIII.- MEDIO AMBIENTE.- Conjunto de elementos naturales o artificiales que hacen posible la existencia y desarrollo de los seres humanos y organismos vivos que interactúan en un lugar y tiempo determinados;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXIX.- ORDENAMIENTO ECOLÓGICO.- Es el instrumento de política ambiental que establece el proceso de planeación dirigido a programar el óptimo manejo de los recursos naturales en el territorio estatal, para regular e inducir el uso de suelo con base en su vocación natural y las actividades productivas a través de la aplicación de políticas y criterios para proteger, preservar, conservar, restaurar y aprovechar sustentablemente los recursos naturales;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XL.- PRESERVACIÓN.- El conjunto de políticas y actividades preventivas para propiciar las condiciones de evaluación y continuidad de los ecosistemas y hábitat naturales, así como la conservación de las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XLI.- PREVENCIÓN.- Es el conjunto de disposiciones y actividades anticipadas para evitar el deterioro del ambiente;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XLII.- PROTECCIÓN AMBIENTAL.- Son las acciones para prevenir, preservar, restaurar y conservar los elementos del ambiente, así como minimizar, prevenir y controlar la contaminación o deterioro ambiental;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XLIII.- PROTECCIÓN CIVIL.- El Sistema Estatal de Protección Civil;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XLIV.- RECICLAJE.- Método de tratamiento que consisten en la transformación de los residuos con fines productivos;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XLV.- REGIÓN ECOLÓGICA.- Es la unidad del territorio del Estado que comparte características ecológicas comunes;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XLVI.- RESIDUO.- Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permite usarlo nuevamente en el proceso que lo generó;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XLVII.- RESTAURACIÓN.- Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XLVIII.- REUSO.- Es la acción de aprovechar un residuo sin un proceso previo de transformación;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XLIX.- RIESGO AMBIENTAL.- Es la contingencia en el proceso de los fenómenos naturales o artificiales que pueden ser alterados por las condiciones que constituyan un peligro para el medio ambiente;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+L.- SECRETARÍA.- Secretaría de Desarrollo Urbano, Ecología y Obras Públicas del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+LI.- SUBSISTEMA DE ÁREAS NATURALES PROTEGIDAS.- Es un diagnóstico e inventario completo de las características bióticas y abióticas, así como su situación legal y socioeconómica que presenta cada área natural protegida, a través de un sistema de información geográfica;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+LII.- SUSTANCIAS DEL GRUPO I.- El grupo de sustancias químicas compuesto por: clorofluorocarbono-11(CFC-11), CFC-12, CFC-113, CFC-114, CFC-II5, halón-1211, halón-1301, halón-2402, tetracloruro de carbono, diclorometano o cualquier mezcla que contenga uno o más de las anteriores sustancias;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+LIII.- SUSTANCIAS DEL GRUPO II.- Grupo de sustancias que contenga cualquier clorofluorohidrocarbono (HCFC) o cualquier otra sustancia que dañe o degrade la capa de ozono;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+LIV.- TRATAMIENTO.- Es el proceso al que se someten los residuos, con el objeto de neutralizar, disminuir o eliminar los contaminantes que se le hayan incorporado; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+LV.- VERIFICACIÓN.- Es el análisis técnico para determinar las emisiones de gases o partículas sólidas o líquidas en la atmósfera, generada por contaminantes.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES, CONCURRENCIAS Y COORDINACIÓN DE LAS AUTORIDADES
 
@@ -301,9 +417,17 @@ XXII.- La atención coordinada con la Federación en asuntos que afecten el equi
 
 XXIII.- La aplicación de sanciones y medidas de seguridad en los términos previstos en esta Ley;
 
-XXIV.- El ejercicio de las funciones que en materia de preservación del equilibrio ecológico y protección al ambiente le transfiera la Federación a través de convenios o acuerdos de coordinación; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXV.- Las demás facultades que en materia de preservación de los ecosistemas y protección al ambiente prevea esta Ley.
+XXIV.- El ejercicio de las funciones que en materia de preservación del equilibrio ecológico y protección al ambiente le transfiera la Federación a través de convenios o acuerdos de coordinación;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXV.- Promover la utilización de materiales biodegradables; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXVI.- Las demás facultades que en materia de preservación de los ecosistemas y protección al ambiente prevea esta Ley.
 
 #### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DE LOS AYUNTAMIENTOS
 
@@ -339,9 +463,17 @@ XII.- Concertar con los Gobiernos Federal y Estatal, así como con los sectores 
 
 XIII.- Atender, en coordinación con el Gobierno del Estado, los asuntos que afecten negativamente el equilibrio ecológico de dos o más Municipios y que generen efectos ambientales dentro de su territorio;
 
-XIV.- Aplicar las sanciones administrativas por violaciones a la presente Ley, y sus Reglamentos, en las materias de su competencia; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XV.- Las demás que conforme a esta Ley, y otras disposiciones les correspondan.
+XIV.- Aplicar las sanciones administrativas por violaciones a la presente Ley, y sus Reglamentos, en las materias de su competencia;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XV.- Implementar políticas públicas encaminadas a fomentar la utilización de materiales biodegradables; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XVI.- Las demás que conforme a esta Ley, y otras disposiciones les correspondan.
 
 ### CAPÍTULO III. DEL CONSEJO ESTATAL DE ECOLOGÍA
 
@@ -1443,7 +1575,9 @@ V.- Emitirá las medidas preventivas y correctivas en los casos de contingencias
 
 La Secretaría y los Ayuntamientos:
 
-I.- Promoverán la instalación de industrias que utilicen tecnologías y combustibles que generen menor contaminación en las zonas que se hubieren determinado como aptas para uso industrial; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+I.- Promoverán la instalación de establecimientos industriales, comerciales y de servicios, en el ámbito de su competencia, que utilicen tecnologías y combustibles que generen menor contaminación en las zonas que se hubieren determinado como aptas, implementando políticas de protección ambiental que incentiven y promuevan la generación y utilización de material biodegradable; y
 
 II.- Regularán y establecerán las medidas tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados, solventes y otras; así como las quemas con fines de desmonte o deshierbe de terrenos.
 
@@ -2194,3 +2328,11 @@ Se derogan todas las disposiciones que se opongan a la presente Ley.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los dieciocho días del mes de julio de dos mil dos.- Diputado Presidente.- MARIO ALBERTO MONTERO SERRANO.- Rúbrica.- Diputada Vicepresidenta.- AMALIA BONIFACIO JACINTO.- Rúbrica.- Diputado Secretario.- JESÚS ENCINAS MENESES.- Rúbrica.- Diputado Secretario.- ARMANDO PASCUAL HERRERA GUZMÁN.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de julio del año dos mil dos.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
