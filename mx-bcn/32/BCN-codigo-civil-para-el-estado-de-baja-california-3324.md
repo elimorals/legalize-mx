@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2009-03-06"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -349,25 +349,25 @@ Las declaraciones de nacimiento se harán presentando al niño ante el Oficial d
 
 Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos; a falta de éstos, los abuelos paternos y, en su defecto, los maternos, dentro de los seis meses siguientes a la fecha en que ocurra aquél. Ante la imposibilidad de éstos, los hermanos podrán hacer la declaración. En los casos en que declaren los abuelos o los hermanos, deberán demostrar su condición ante el Oficial del Registro Civil.
 
-Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el Jefe de familia, en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+
+La declaración de nacimiento se hará en el formato oficial denominado Certificado de Nacimiento, que al efecto expida la Secretaría de Salud.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
 
 Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del Director o de la persona encargada de la administración.
 
-Recibido el aviso, el Oficial del Registro Civil tomará las medidas que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
 
-El aviso de nacimiento debe contener:
+Para dar cumplimiento a la obligación antes señalada, las Instituciones de Salud Públicas o Privadas, de conformidad con las disposiciones correlativas en materia de salud, llevarán el registro correspondiente y expedirán el Certificado de Nacimiento, en el formato oficial correspondiente.
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
 
-I.- Nombre y huella digital de la persona recién nacida;
+La Institución de Salud entregará el certificado a la madre, para la correspondiente inscripción ante la Oficialía del Registro Civil.
 
-II.- Nombre, domicilio y firma del padre y la madre;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2009)</small>
 
-III.- Nombre, firma y número de cédula profesional de médico que atendió el parto, o en su caso el nombre de la matrona o partera;
-
-IV.- Razón social y sello de la Institución Hospitalaria en donde se efectuó el parto; y
-
-V.- Firma del encargado administrativo o responsable de la Institución Hospitalaria donde se efectuó el parto.
+Recibido el certificado de nacimiento, el Oficial del Registro Civil tomará las medidas que sean necesarias a fin de que se levante el Acta de Nacimiento conforme a las disposiciones relativas.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -15974,3 +15974,7 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan en lo conducente, todas las disposiciones normativas que se opongan a la presente reforma.
+
+P.O. 14 DE AGOSTO DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
