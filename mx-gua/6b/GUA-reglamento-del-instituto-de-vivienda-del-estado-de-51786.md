@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-instituto-de-vivienda-del-estado-de-51786"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-12"
-last_updated: "2006-09-12"
+last_updated: "2009-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DEL INSTITUTO DE VIVIENDA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION DE VIVIENDA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 14 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de septiembre de 2006.
 
@@ -682,3 +684,17 @@ SAMUEL ALCOCER FLORES
 EL SECRETARIO DE DESARROLLO SOCIAL Y HUMANO
 
 JOSÉ JUSTINO ARRIAGA SILVA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2009.
+
+Inicio de vigencia del Reglamento
+
+Artículo Primero. El Presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior del Instituto de Vivienda
+
+Artículo Segundo. El Reglamento del Instituto de Vivienda del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 146, Tercera Parte, del 12 de septiembre del 2006, quedará abrogado una vez que se haya dado cumplimiento a lo dispuesto por el Artículo Séptimo Transitorio de la Ley, sin que dicho plazo exceda de tres años contados a partir de que se instaló la Comisión de Vivienda del Estado de Guanajuato.
+
+Hasta en tanto se da cumplimiento a lo establecido en el párrafo anterior, la Dirección General de Administración y Finanzas de la Comisión de Vivienda del Estado de Guanajuato coordinará el enlace de las actividades del Instituto de Vivienda del Estado de Guanajuato, dispuestas en el Artículo Séptimo Transitorio de la Ley, con apego a los Lineamientos expedidos por la Secretaría de la Gestión Pública, así como las precisiones contenidas en el acta administrativa de entrega recepción del Instituto de Vivienda del Estado de Guanajuato a la Comisión de Vivienda del Estado de Guanajuato.
