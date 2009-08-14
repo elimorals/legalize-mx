@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2009-01-14"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -323,11 +323,11 @@ V.- Los anuncios cuando éstos constituyan un ornato y orientación civil para l
 
 ### CAPITULO IV. SEÑALAMIENTO DE LOTES
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 26.
 
-Es objeto de este impuesto el señalamiento de los lotes conforme lo establece la Ley de Desarrollo de Centros Poblados.
+Es objeto de este impuesto el señalamiento de los lotes conforme lo establece la Ley de Desarrollo Urbano del Estado de Sinaloa.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -739,15 +739,13 @@ Los Ayuntamientos por conducto de sus Tesorerías Municipales quedan facultados 
 
 El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento traslativo de dominio de bienes inmuebles mientras no le sea exhibido el comprobante de pago del impuesto que establece este capítulo, o de que no se causó el impuesto porque dicha operación se encuentra en alguno de los supuestos que establece el artículo 46 de esta Ley.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO VII. IMPUESTO DE PLUSVALIA PARA EL DESARROLLO DE CENTROS POBLADOS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 54.
 
-El impuesto a que se refiere este capítulo se cubrirá en la forma y término señalados en la Ley de Desarrollo de Centros Poblados del Estado de Sinaloa y conforme a la tarifa y monto respectivo, que fije el Congreso del Estado.
+(DEROGADO, P.O. 14 DE AGOSTO DE 2009)
 
 ## TITULO TERCERO. DE LOS DERECHOS POR LA PRESTACION DE SERVICIOS PUBLICOS
 
@@ -783,7 +781,9 @@ DIARIO VIGENTE
 
 1.1. Urbanos 1%
 
-1.2. De servicios progresivos en los términos de la Ley de Desarrollo de Centros Poblados, en los que el valor de la vivienda no exceda de 5,500 veces el salario mínimo general diario vigente en la zona. Exento
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+
+1.2. De servicios progresivos en los términos de la Ley de Desarrollo Urbano del Estado de Sinaloa, en los que el valor de la vivienda no exceda de 5,500 veces el salario mínimo general diario vigente en la zona. Exento
 
 El pago de los derechos a cargo de los urbanizadores contenidos en este punto, se deberá enterar a la Tesorería Municipal antes de dar principio a las obras, en caso de autorización para realizar las obras por etapas, el pago se hará proporcionalmente a la inversión correspondiente de cada etapa.
 
@@ -1317,11 +1317,11 @@ La Tesorería Municipal podrá celebrar convenio con los contribuyentes de este 
 
 ### CAPITULO XIII. DE LOS DERECHOS POR COOPERACION PARA OBRAS PUBLICAS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 90.
 
-Los derechos de cooperación para obras públicas se cubrirán en la forma y término señalado en la Ley de Desarrollo de Centros Poblados del Estado de Sinaloa y conforme a la tarifa y monto respectivo, que fije el Congreso del Estado.
+Los derechos de cooperación para obras públicas se cubrirán en la forma y término señalado en la Ley de Desarrollo Urbano del Estado de Sinaloa y conforme a la tarifa y monto respectivo, que fije el Congreso del Estado.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE MARZO DE 1999)</small>
 
@@ -3336,3 +3336,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los beneficios que se deriven de la aprobación del presente Decreto serán aplicables a partir del día primero de enero del año 2009.
+
+P.O. 14 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
