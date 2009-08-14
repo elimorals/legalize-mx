@@ -4,7 +4,7 @@ identifier: "MEX-codigo-reglamentario-del-municipio-de-toluca-67842"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-09"
-last_updated: "2009-07-17"
+last_updated: "2009-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CODIGO REGLAMENTARIO DEL MUNICIPIO DE TOLUCA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL SEMANAL: 17 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL SEMANAL: 14 DE AGOSTO DE 2009.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 9 de marzo de 2009.
 
@@ -5085,11 +5085,33 @@ IX. Sacrificar humanitariamente a los animales a su disposición, cuando represe
 
 X. Las demás que le asignen otras disposiciones.
 
+> <small>(REFORMADO, G.M.S. 14 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 7.
 
-16.- Para el desempeño de sus atribuciones, el Centro contará con un jefe, un encargado del área médico-veterinaria, un encargado del área de epidemiología, un encargado del área administrativa y el personal de apoyo.
+16.- Para el desempeño de sus atribuciones, el Centro contará con un titular, un supervisor de calidad y control interno y dos secciones operativas, que se denominarán, la primera de salud y la segunda de bienestar animal, las que a su vez se integrarán con las áreas siguientes:
 
-Además de lo señalado por otras disposiciones legales, es necesario contar con título de médico veterinario zootecnista para poder ocupar los cargos de jefe del centro y encargado de las áreas médico-veterinario y de epidemiología.
+I. La Sección de Salud:
+
+a) Área de hospitalización;
+
+b) Área de esterilización; y
+
+c) Área de control epidemiológico.
+
+II. La Sección de Bienestar Animal:
+
+a) Área de educación para la tenencia responsable;
+
+b) Área de promoción, estancia temporal y servicios tanatológicos;
+
+c) Área de protección animal;
+
+d) Área de adopciones; y
+
+e) Área de emergencias animales.
+
+Además de lo que señalen otras disposiciones legales, es necesario contar con título de médico veterinario zootecnista, para poder ocupar los cargos de titular del Centro y de sus secciones.
 
 ###### Artículo 7.
 
@@ -8600,3 +8622,9 @@ G.M.S. 17 DE JULIO DE 2009.
 PRIMERO.- Publíquense las presentes modificaciones del Código Reglamentario del Municipio de Toluca en la "Gaceta Municipal" y en la "Gaceta del Gobierno" del Estado, e incorpórese las mismas al ordenamiento que se divulga en el Portal Electrónico del Ayuntamiento.
 
 SEGUNDO.- Estas modificaciones del Código Reglamentario Municipal entrarán en vigor al día siguiente de su publicación en la "Gaceta Municipal" de Toluca.
+
+G.M.S. 14 DE AGOSTO DE 2009.
+
+Primero.- Publíquese la presente reforma del Código Reglamentario del Municipio de Toluca en la "Gaceta Municipal" y en la "Gaceta del Gobierno" del Estado, e incorpórense las mismas al ordenamiento que se divulga en el Portal Electrónico del Ayuntamiento.
+
+Segundo.- La presente reforma del Código Reglamentario del Municipio de Toluca entrará en vigor al momento de su publicación en la "Gaceta Municipal" de Toluca.
