@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-organismo-publico-descentralizado-41393
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2004-10-12"
+last_updated: "2009-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DE PARTICIPACION CIUDADANA DENOMINADO INSTITUTO ESTATAL DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA JUVENTUD, PUBLICADO EN EL P.O. DE 14 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
@@ -364,3 +366,11 @@ EL C. DIRECTOR ESTATAL DEL INSTITUTO ESTATAL DE LA JUVENTUD
 GILBERTO TREVIÑO AGUIRRE
 
 La presente hoja de firmas corresponde al Reglamento Interior del Instituto Estatal de la Juventud, dado en Monterrey, Nuevo León, el día 09 de septiembre de 2004.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2009.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Organismo Público Descentralizado de Participación Ciudadana Denominado Instituto Estatal de la Juventud publicado en el Periódico Oficial del Estado el día 12 de octubre de 2004.
