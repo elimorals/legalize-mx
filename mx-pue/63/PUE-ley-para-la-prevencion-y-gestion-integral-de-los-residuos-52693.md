@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-52693
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-11"
-last_updated: "2006-12-11"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de diciembre de 2006.
 
@@ -87,75 +87,149 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I.- Aprovechamiento: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, rediseño, reciclado y recuperación de materiales secundados o de energía;
 
-II.- Caracterización: Actividad mediante la cual se hace la determinación cualitativa y cuantitativa de los residuos de acuerdo a su composición física, química y biológica;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-III.- Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud pública y a los ecosistemas y sus elementos;
+II.- Biodegradable: Es el compuesto químico que se degrada por una acción biológica;
 
-IV.- Eliminación: Acción tendiente a deshacerse de un bien o de un residuo, mediante una forma de tratamiento de cualquier índole, que lo transforme en un material inerte;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-V.- Estación de transferencia: Unidad de manejo de los residuos sólidos urbanos y/o de manejo especial que reciben estos residuos procedentes del proceso de recolección a través de los vehículos destinados para este propósito y que son transferidos a vehículos de mayor capacidad en volumen y carga para ser transportados al sitio de disposición final;
+III.- Caracterización: Actividad mediante la cual se hace la determinación cualitativa y cuantitativa de los residuos de acuerdo a su composición física, química y biológica;
 
-VI.- Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-VII.- Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
+IV.- Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud pública y a los ecosistemas y sus elementos;
 
-VIII.- Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo integral de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-IX.- Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
+V.- Eliminación: Acción tendiente a deshacerse de un bien o de un residuo, mediante una forma de tratamiento de cualquier índole, que lo transforme en un material inerte;
 
-X.- Ley: Ley para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial para el Estado de Puebla;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XI.- Lixiviado: Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud pública y de los demás organismos vivos;
+VI.- Estación de transferencia: Unidad de manejo de los residuos sólidos urbanos y/o de manejo especial que reciben estos residuos procedentes del proceso de recolección a través de los vehículos destinados para este propósito y que son transferidos a vehículos de mayor capacidad en volumen y carga para ser transportados al sitio de disposición final;
 
-XlI.- Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, caracterización, acopio, transferencia, almacenamiento, barrido, recolección, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XIII.- Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes y de los residuos que éstos generan;
+VII.- Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
 
-XIV.- Microgenerador: Establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XV.- Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar o reducir la generación de residuos y aprovechando, tanto como sea posible, el valor agregado de aquéllos;
+VIII.- Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
 
-XVI.- Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables que involucran a productores, distribuidores, comerciantes, consumidores, usuarios de subproductos, generadores de residuos y, los tres niveles de gobierno;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XVII.- Producto: Bien que generan los procesos productivos a partir de la utilización de materiales primarios o secundarios. Para los fines de los planes de manejo, un producto envasado comprende sus ingredientes o componentes y su envase;
+IX.- Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo integral de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-XVIII.- Producción Limpia: Proceso productivo en el cual se adoptan métodos, técnicas y prácticas, o incorporan mejoras, tendientes a incrementar la eficiencia ambiental de los mismos en términos de aprovechamiento de la energía e insumos y de prevención o reducción de la generación de residuos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XIX.- Programas: Serie ordenada de actividades y operaciones necesarias para alcanzar los objetivos de esta Ley;
+X.- Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
 
-XX.- Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXI.- Recolección: Toda operación consistente en recoger, clasificar o agrupar los residuos para su transporte;
+XI.- Ley: Ley para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial para el Estado de Puebla;
 
-XXII.- Reglamento: El Reglamento de la presente Ley;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXIII.- Remediación: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud pública y el ambiente o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley;
+XII.- Lixiviado: Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud pública y de los demás organismos vivos;
 
-XXIV.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXV.- Residuos de Manejo Especial: Son aquéllos generados en los procesos productivos, que no reúnen las características para ser considerados peligrosos, ni residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+XIII.- Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, caracterización, acopio, transferencia, almacenamiento, barrido, recolección, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XXVI.- Residuos Peligrosos: Son aquéllos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad; los envases, recipientes embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad en lo que establece la Ley General;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXVII.- Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+XIV.- Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes y de los residuos que éstos generan;
 
-XXVIII.- Responsabilidad Compartida: Principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXIX.- Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+XV.- Microgenerador: Establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
 
-XXX.- Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud pública, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXXI.- Secretaría: La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Puebla;
+XVI.- Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar o reducir la generación de residuos y aprovechando, tanto como sea posible, el valor agregado de aquéllos;
 
-XXXII.- Separación Primaria: Acción de segregar los residuos sólidos urbanos y de manejo especial en orgánicos e inorgánicos, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXXIII.- Separación Secundaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados en los términos de esta Ley;
+XVII.- Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables que involucran a productores, distribuidores, comerciantes, consumidores, usuarios de subproductos, generadores de residuos y, los tres niveles de gobierno;
 
-XXXIV.- Sitio Contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud pública, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XXXV.- Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad; y
+XVIII.- Producto: Bien que generan los procesos productivos a partir de la utilización de materiales primarios o secundarios. Para los fines de los planes de manejo, un producto envasado comprende sus ingredientes o componentes y su envase;
 
-XXXVI.- Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XIX.- Producción Limpia: Proceso productivo en el cual se adoptan métodos, técnicas y prácticas, o incorporan mejoras, tendientes a incrementar la eficiencia ambiental de los mismos en términos de aprovechamiento de la energía e insumos y de prevención o reducción de la generación de residuos;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XX.- Programas: Serie ordenada de actividades y operaciones necesarias para alcanzar los objetivos de esta Ley;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXI.- Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXII.- Recolección: Toda operación consistente en recoger, clasificar o agrupar los residuos para su transporte;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXIII.- Reglamento: El Reglamento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXIV.- Remediación: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud pública y el ambiente o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXV.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXVI.- Residuos de Manejo Especial: Son aquéllos generados en los procesos productivos, que no reúnen las características para ser considerados peligrosos, ni residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXVII.- Residuos Peligrosos: Son aquéllos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad; los envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad en lo que establece la Ley General;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXVIII.- Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXIX.- Responsabilidad Compartida: Principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXX.- Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXI.- Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud pública, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXII.- Secretaría: La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXIII.- Separación Primaria: Acción de segregar los residuos sólidos urbanos y de manejo especial en orgánicos e inorgánicos, en los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXIV.- Separación Secundaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados en los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXV.- Sitio Contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud pública, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXVI.- Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XXXVII.- Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
 
 ###### ARTÍCULO 3.
 
@@ -309,9 +383,17 @@ XVI.- Realizar periódicamente los estudios de caracterización y composición d
 
 XVII.- Instrumentar los mecanismos o sistemas tendientes a la separación de los residuos sólidos urbanos de conformidad con lo establecido en esta Ley;
 
-XVIII.- Promover la instrumentación de los planes de manejo del sector gubernamental en las dependencias y entidades de la Administración Pública Municipal y dar el seguimiento correspondiente; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-XIX.- Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
+XVIII.- Promover la instrumentación de los planes de manejo del sector gubernamental en las dependencias y entidades de la administración pública municipal y dar el seguimiento correspondiente;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XIX.- Promover con el sector privado, la instrumentación de planes de manejo tendientes a recolectar los residuos sólidos urbanos que se generan como resultado de su actividad industrial, comercial y de servicios; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+XX.- Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -417,21 +499,35 @@ XI.- Los que determine la Secretaría.
 
 La Secretaría deberá formular e instrumentar los programas necesarios para la prevención y gestión integral de los residuos sólidos urbanos y de manejo especial, de conformidad con esta Ley; para lo cual deberá elaborar un diagnóstico básico que considere la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente, considerando el diagnóstico básico proporcionado por los Ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
+
+Asimismo, la Secretaría fomentará que los generadores utilicen materiales biodegradables.
+
 ###### ARTÍCULO 18.
 
 Los Ayuntamientos, en el ámbito de su competencia, deberán elaborar e instrumentar los programas municipales para la prevención, gestión y manejo integral de los residuos sólidos urbanos, los cuales deben contener:
 
 I.- El diagnóstico básico para la gestión integral de residuos de su competencia, en el que se precise la capacidad y efectividad de la infraestructura disponible para satisfacer la demanda de servicios;
 
-II.- La política municipal en materia de residuos sólidos urbanos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+II.- La política municipal en materia de residuos sólidos urbanos fomentando en los generadores el uso de materiales biodegradables;
 
 III.- La definición de objetivos y metas municipales para la prevención de la generación y el mejoramiento de la gestión de los residuos sólidos urbanos, así como las estrategias y plazos para su cumplimiento;
 
 IV.- Los medios de financiamiento de las acciones consideradas en los programas;
 
-V.- Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-VI.- La asistencia técnica que en su caso brinde la Secretaría.
+V.- Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+VI.- Los criterios para la gestión integral de los residuos sólidos urbanos, que tengan como objeto la protección al medio ambiente a través del uso de materiales biodegradables; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+VII.- La asistencia técnica que en su caso brinde la Secretaría.
 
 ### CAPÍTULO II. DE LOS INSTRUMENTOS ECONÓMICOS
 
@@ -473,9 +569,11 @@ Con el objeto de difundir el conocimiento necesario para contribuir al cambio de
 
 Los programas de educación que desarrollen o fomenten los centros o instituciones educativas públicas y privadas del Estado de Puebla, deberán incorporar contenidos que permitan el desarrollo de hábitos de consumo que reduzcan la generación de residuos y la adopción de conductas que faciliten la separación de los residuos tan pronto como se generen, así como su reutilización, reciclado y manejo ambientalmente adecuados, para crear una cultura ambiental en torno de los residuos.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 23.
 
-La Secretaria, en coordinación con los Ayuntamientos, Organizaciones públicas, privadas y sociales, promoverá diversas actividades de difusión, educación, capacitación, investigación y desarrollo tecnológico para prevenir la generación y lograr una gestión integral de los residuos.
+La Secretaría, en coordinación con los Ayuntamientos, organizaciones públicas, privadas y sociales, promoverá diversas actividades de difusión, educación, capacitación, investigación y desarrollo tecnológico para prevenir la generación y lograr una gestión integral de los residuos, así como el uso de materiales biodegradables.
 
 ###### ARTÍCULO 24.
 
@@ -1236,3 +1334,11 @@ Las erogaciones que deriven de la aplicación de la presente Ley, estarán sujet
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los nueve días del mes de noviembre de dos mil seis.- Diputado Presidente. MIGUEL ÁNGEL CEBALLOS LÓPEZ.- Rúbrica.- Diputada Vicepresidenta.- MARÍA DEL ROSARIO LETICIA JASSO VALENCIA.- Rúbrica.- Diputada Secretaria.- AUGUSTA VALENTINA DÍAZ DE RIVERA HERNÁNDEZ.- Rúbrica. Diputado Secretario.- MIGUEL CÁZARES GARCÍA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diez días de noviembre de dos mil seis.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
