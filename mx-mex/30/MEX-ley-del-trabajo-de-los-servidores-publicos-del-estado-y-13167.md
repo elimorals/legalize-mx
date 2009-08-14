@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2009-01-20"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE AGOSTO DE 2009.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -105,7 +105,9 @@ I. Aquéllos cuyo nombramiento o ejercicio del cargo requiera de la intervenció
 
 II. Aquéllos que tengan esa calidad en razón de la naturaleza de las funciones que desempeñen y no de la designación que se dé al puesto.
 
-Son funciones de confianza: las de dirección, inspección, vigilancia, auditoría, fiscalización, asesoría, procuración y administración de justicia y de protección civil, así como las que se relacionen con la representación directa de los titulares de las instituciones públicas o dependencias, con el manejo de recursos y las que realicen los auxiliares directos de los servidores públicos de confianza.
+> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
+
+Son funciones de confianza: las de dirección, inspección, vigilancia, auditoría, fiscalización, asesoría, procuración y administración de justicia y de protección civil, así como las que se relacionen con la representación directa de los titulares de las instituciones públicas o dependencias, con el manejo de recursos, las que realicen los auxiliares directos, asesores, secretarios particulares y adjuntos, choferes, secretarias y demás personal operativo que les sean asignados directamente a los servidores públicos de confianza o de elección popular.
 
 No se consideran funciones de confianza las de dirección, supervisión e inspección que realizan los integrantes del Sistema Educativo Estatal en los planteles educativos del propio sistema.
 
@@ -699,9 +701,17 @@ II. El mutuo consentimiento de las partes;
 
 III. El vencimiento del término o conclusión de la obra determinantes de la contratación;
 
-IV. La muerte del servidor público; y
+> <small>(REFORMADA, G.G. 14 DE AGOSTO DE 2009)</small>
 
-V. La incapacidad permanente del servidor público que le impida el desempeño de sus labores.
+IV. El término o conclusión de la administración en la cual fue contratado el servidor público a que se refiere el artículo 8 de ésta Ley;
+
+> <small>(REFORMADA, G.G. 14 DE AGOSTO DE 2009)</small>
+
+V. La muerte del servidor público; y
+
+> <small>(ADICIONADA, G.G. 14 DE AGOSTO DE 2009)</small>
+
+VI. La incapacidad permanente del servidor público que le impida el desempeño de sus labores.
 
 ### CAPITULO VIII. De la Suspensión de la Relación Laboral
 
@@ -775,7 +785,7 @@ XV. Ser condenado a prisión como resultado de una sentencia ejecutoriada;
 
 XVI. Portar y hacer uso de credenciales de identificación no autorizadas por la autoridad competente;
 
-XVII. Sustraer tarjetas o listas de puntualidad y asistencia del lugar designado para ello, ya sea la del propio servidor público o la de otro, utilizar o registrar asistencia con gafete-credencial o tarjeta distinto al suyo o alterar en cualquier forma los registros de control de puntualidad y asistencia, siempre y cuando no sea resultado de un error involuntario; y
+XVII. Sustraer tarjetas o listas de puntualidad y asistencia del lugar destinado para ello, ya sea la del propio servidor público o la de otro, utilizar o registrar asistencia con gafete-credencial o tarjeta distinto al suyo o alterar en cualquier forma los registros de control de puntualidad y asistencia, siempre y cuando no sea resultado de un error involuntario; y
 
 XVIII. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere.
 
@@ -1469,27 +1479,43 @@ Las acciones que se deriven de esta ley, de los actos que den origen a la relaci
 
 I. En un mes:
 
-a) Las acciones para pedir la nulidad o la modificación de un nombramiento, a partir de la fecha de su vigencia o alta del servidor público; y
+a) Las acciones para pedir la nulidad o la modificación de un nombramiento, a partir de la fecha de su vigencia o alta del servidor público; y (sic)
 
-b) Las acciones de los servidores públicos para ejercitar el derecho a ocupar el puesto que hayan dejado por accidente o por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
+b) Las acciones de los servidores públicos para ejercitar el derecho a ocupar el puesto que hayan dejado por accidente o por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo;
+
+> <small>(ADICIONADO, G.G. 14 DE AGOSTO DE 2009)</small>
+
+c) En caso de suspensión o despido injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la ley concede, contados a partir del día siguiente al de la fecha del despido o suspensión.
 
 > <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
 II. En dos meses:
 
-a) Las acciones de los servidores públicos para rescindir la relación laboral, a partir del día siguiente en que el servidor público se separe de su trabajo; y
+> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
 
-b) En caso de suspensión o despido injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la ley concede, contados a partir del día siguiente al de la fecha del despido o suspensión.
+a) Las acciones de los servidores públicos para rescindir la relación laboral, a partir del día siguiente a aquél en que ocurra el hecho que da origen a la rescisión o tengan conocimiento del mismo;
 
-> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
 
-III. En cuatro meses:
+b) Las acciones de los titulares de las instituciones públicas o dependencias para rescindir la relación laboral, desde el día siguiente en que sean conocidas las causas;
 
-a) Las acciones de los titulares de las instituciones públicas o dependencias para rescindir la relación laboral, desde el día siguiente en que sean conocidas las causas;
+> <small>(ADICIONADO, G.G. 14 DE AGOSTO DE 2009)</small>
 
-b) En caso de supresión de plazas, las acciones para que se otorgue otra equivalente a la suprimida o la indemnización de ley, a partir del día siguiente de que se informe; y
+c) En caso de supresión de plazas, las acciones para que se otorguen otra equivalente a la suprimida o la indemnización de ley, a partir del día siguiente en que se informe; y
 
-c) La aplicación de medidas disciplinarias a sus servidores públicos, contando el término desde que sean conocidas las causas.
+> <small>(ADICIONADO, G.G. 14 DE AGOSTO DE 2009)</small>
+
+d) La aplicación de medidas disciplinarias a sus servidores públicos, contando el término desde que sean conocidas las causas.
+
+> <small>(REFORMADA, G.G. 14 DE AGOSTO DE 2009)</small>
+
+III. En seis meses:
+
+a) Las acciones para solicitar la ejecución de los laudos del Tribunal o la Sala.
+
+b) (DEROGADO, G.G. 14 DE AGOSTO DE 2009)
+
+c) (DEROGADO, G.G. 14 DE AGOSTO DE 2009)
 
 IV. En dos años:
 
@@ -1497,9 +1523,7 @@ a) Las acciones de los servidores públicos para reclamar indemnizaciones por ri
 
 b) Las acciones de las personas que dependieron económicamente de los servidores públicos fallecidos con motivo de un riesgo de trabajo, para reclamar la indemnización correspondiente; y
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
-
-c) Las acciones para ejecutar los laudos del Tribunal o la Sala.
+c) (DEROGADO, G.G 14 DE AGOSTO DE 2009)
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -1565,13 +1589,17 @@ VII. Dictar la resolución que ordene la suspensión temporal de su cargo de un 
 
 VIII. Conocer de cualquier otro asunto relativo, derivado o directamente vinculado con las relaciones de trabajo.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 14 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 186.
 
-El Tribunal se integrará por un representante de cada uno de los poderes públicos del Estado, en caso de que alguno no designe, se tendrá integrado el Tribunal con los que se hayan designado, un representante de cada uno de los sindicatos mayoritarios a que se refiere el segundo párrafo del artículo 138 de esta ley, un representante de los ayuntamientos de la entidad que será el del municipio de residencia del Tribunal y un árbitro, designado por la mayoría de los representantes, quien fungirá como presidente, y durará en su cargo un término máximo de seis años, pudiendo ser reelecto por un periodo igual.
+El Tribunal se integrará por un representante de cada uno de los poderes públicos del Estado, en caso de que alguno no designe, se tendrá integrado el Tribunal con los que se hayan designado, un representante de cada uno de los sindicatos mayoritarios a que se refiere el segundo párrafo del artículo 138 de esta ley, un representante de los ayuntamientos de la entidad que será el del Municipio de residencia del Tribunal y un árbitro, designado por la mayoría de los representantes a propuesta del Titular del Ejecutivo, quien fungirá como Presidente, y su cargo concluirá al mismo tiempo que el de la administración pública en la cual fue designado, pudiendo ser ratificado a propuesta del Titular del Ejecutivo entrante.
 
-Se podrán instalar en el territorio de la entidad, las Salas Auxiliares del Tribunal que el presupuesto de egresos permita, se integrarán cada una por un representante del sindicato mayoritario, que represente a los servidores públicos municipales, un representante de los ayuntamientos, que será el del municipio de residencia de la Sala y un arbitro que fungirá como presidente, a propuesta del Presidente del Tribunal, que será nombrado por mayoría de los integrantes del Pleno y durará en su cargo tres años, pudiendo ser reelecto por un período igual.
+> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
+
+Se podrán instalar en el territorio de la entidad, las Salas Auxiliares del Tribunal que el presupuesto de egresos permita, se integrarán cada una por un representante del sindicato mayoritario, que represente a los servidores públicos municipales, un representante de los ayuntamientos, que será el del municipio de residencia de la Sala y un árbitro que fungirá como presidente, a propuesta del Secretario del Trabajo, que será nombrado por mayoría de los integrantes del Pleno y podrá durar en su cargo el mismo tiempo que el de la administración pública en la cual fue designado.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 Con excepción de los presidentes, cada uno de los representantes contará con un suplente.
 
@@ -1611,17 +1639,19 @@ VII. No haber sido condenado por delito intencional sancionado con pena corporal
 
 Para ser Presidente de alguna de las Salas auxiliares se reunirán los requisitos del Presidente del Tribunal, solo que deberá contar, con más de veinticinco años de edad y con cuatro años de ejercicio profesional posteriores a la obtención del título de licenciado en derecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 14 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 188.
 
-El Tribunal funcionará en pleno y las resoluciones se tomarán por mayoría de votos de sus integrantes. En caso de ausencia de alguno de ellos, los votos de los ausentes se sumarán al del presidente.
+El Tribunal funcionará en pleno y la resolución que pone fin al juicio se tomará por mayoría de votos de sus integrantes. En caso de ausencia de alguno de ellos, los votos de los ausentes se sumarán al del Presidente.
 
 > <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
 
 Bastará con la certificación del secretario para acreditar la ausencia de alguno de los representantes, sin citatorio previo.
 
-> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
 
-Las resoluciones de las Salas se tomarán por mayoría, en caso de ausencia de alguno de los representantes o falta debidamente certificada por el secretario de la Sala respectiva, sin que conste citatorio previo, el voto del ausente se sumará al del Presidente.
+La resolución de las Salas que pone fin al juicio, se tomará por mayoría, en caso de ausencia de alguno de los representantes o falta debidamente certificada por el secretario de la Sala respectiva, sin que conste citatorio previo, el voto del ausente se sumará al del Presidente.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -1737,11 +1767,11 @@ Pudiendo presentar la documentación comprobatoria de la personalidad en origina
 
 Los servidores públicos; las instituciones y los sindicatos, con facultades para ello, podrán otorgar poder mediante simple comparecencia, previa identificación ante el Tribunal o las Salas para que los representen ante cualquier autoridad del trabajo.
 
+> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 199.
 
-Siempre que dos o más personas ejerciten la misma acción u opongan la misma excepción en un mismo juicio, deberán litigar unidas y con una representación común, salvo que los colitigantes tengan intereses diferentes u opuestos. Si se trata de las partes actoras, el nombramiento del representante común deberá hacerse en el escrito de demanda o en la audiencia de conciliación, demanda, excepciones y ofrecimiento y admisión de pruebas. Si se trata de las demandadas, el nombramiento se hará en el escrito de contestación o en la audiencia a que se ha hecho mención.
-
-El representante común tendrá los derechos, obligaciones y responsabilidades inherentes a un mandatario judicial.
+Siempre que dos o más personas ejerciten la misma acción u opongan la misma excepción en un mismo juicio, deberán litigar unidas y con una representación común, salvo que los colitigantes tengan intereses diferentes u opuestos. Si se trata de las partes actoras, el nombramiento del representante común deberá hacerse en el escrito de demanda o en la audiencia de conciliación, ofrecimiento y admisión de pruebas. Si se trata de las demandadas, el nombramiento se hará en el escrito de contestación o en la audiencia a que se ha hecho mención.
 
 ### CAPITULO IV. De la Competencia
 
@@ -1865,19 +1895,23 @@ Las medidas disciplinarias y medios de apremio se impondrán de plano, sin subst
 
 Los términos comenzarán a correr al día siguiente en que surta efectos la notificación, y se contará completo el día de su vencimiento.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, G.G. 14 DE AGOSTO DE 2009)</small>
+
+Las notificaciones surtirán sus efectos el día en que se practiquen.
+
+> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 212.
 
-Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia del Tribunal o la Sala, éstos podrán ampliar el término de que se trate, en función de la distancia a razón de un día por cada 220 kilómetros.
+Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia del Tribunal o la Sala, estos podrán ampliar el término de que se trate, en función de la distancia a razón de un día por cada 150 Km.
 
 ### CAPITULO VII. De las Notificaciones
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 213.
 
-Las partes desde el escrito inicial de demanda y de la contestación a la misma, respectivamente, deberán señalar domicilio dentro de la colonia, barrio o delegación o pueblo del lugar de ubicación del Tribunal o de las Salas que se trate, para recibir notificaciones; si no lo hacen, las notificaciones personales y de cualquier índole, se harán por estrados o boletín laboral.
+Las partes desde el escrito inicial de demanda y de la contestación a la misma, respectivamente, deberán señalar domicilio dentro del municipio de la residencia del Tribunal o de las Salas que se trate, para recibir notificaciones; si no lo hacen, las notificaciones personales y de cualquier índole, se harán por estrados o boletín laboral.
 
 ###### Artículo 214.
 
@@ -1937,7 +1971,9 @@ IV. Si no obstante el citatorio, no está presente el interesado o su representa
 
 V. Si en la casa, sede, residencia o local, designado para hacer la notificación se negare el interesado, su representante o la persona con quien entienda la diligencia a recibir la notificación, ésta se hará por instructivo que se fijará en la puerta de la misma, adjuntando una copia de la resolución y, en su caso, de la demanda respectiva.
 
-La notificación surtirá sus efectos al día siguiente en que se practique.
+> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
+
+La notificación surtirá sus efectos el día en que se practique.
 
 En todos los casos a que se refiere este artículo, el actuario asentará razón en autos, señalando con precisión los elementos de convicción en que se apoye.
 
@@ -2137,7 +2173,9 @@ Artículo 220 N. En el desahogo de la prueba testimonial se observarán las norm
 
 I. El oferente de la prueba presentará directamente a sus testigos, salvo lo dispuesto en el artículo 220 M fracción II de la presente ley, y el Tribunal o la Sala procederá a recibir su testimonio;
 
-II. El testigo deberá identificarse ante el Tribunal o la Sala y si no puede hacerlo en el momento de la audiencia, el Tribunal o la Sala le concederá un término de tres días para ello; y en caso de no hacerlo en el término conferido, se tendrá por no rendida su declaración;
+> <small>(REFORMADA, G.G. 14 DE AGOSTO DE 2009)</small>
+
+II. El testigo deberá identificarse ante el Tribunal o la Sala y para el caso de no hacerlo en el momento de la audiencia, se le decretará a la parte oferente la deserción por ese testigo.
 
 III. Los testigos serán examinados por separado, en el orden en que fueran ofrecidos. Los interrogatorios se formularán oralmente, salvo lo dispuesto en la fracción III del artículo 220 M de esta ley;
 
@@ -2499,13 +2537,29 @@ En la ejecución de los laudos y convenios que han sido elevados a la categoría
 
 Siempre que en ejecución de un laudo o convenio, deba entregarse una suma de dinero o el cumplimiento de un derecho al servidor público, el Presidente cuidará que se le otorgue personalmente.
 
-Los titulares de las instituciones o dependencias y los sujetos a esta ley, se atendrán a lo dispuesto por los laudos y convenios, ordenando, en su caso el pago de las indemnizaciones sueldos o cualquier prestación en dinero que se determine en ellos, previo el establecimiento de una partida presupuestal específica para la liquidación respectiva.
+Los titulares de las instituciones o dependencias y los sujetos a esta ley, se atendrán a lo dispuesto por los laudos y convenios, ordenando, en su caso el pago de las indemnizaciones, sueldos o cualquier prestación en dinero que se determine en ellos, previo el establecimiento de una partida presupuestal específica para la liquidación respectiva.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, G.G. 14 DE AGOSTO DE 2009)</small>
+
+El Órgano Superior de Fiscalización del Gobierno del Estado de México supervisará el cumplimiento de la obligación relacionada con la partida presupuestal específica y establecerá las responsabilidades en caso de incumplimiento.
+
+> <small>(REFORMADO, G.G. 14 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 252.
 
-En caso de incumplimiento del laudo o convenio en los términos y modalidades establecidas, el Tribunal o la Sala, a petición de la parte interesada, dictará auto para requerir su cumplimiento y, en su caso, establecer los medios de apremio que podrán ser empleados para su cumplimiento y practicar las diligencias necesarias para su ejecución. En la cual no podrán embargar bienes, ni nombrar interventor a la caja de las instituciones o dependencias públicas.
+En caso de incumplimiento del laudo o convenio en los términos o modalidades establecidas en el artículo 251 de esta ley, el Tribunal o Sala, a petición de la parte interesada, dictará auto de requerimiento de pago y embargo, estableciendo los medios de apremio que podrán ser empleados para su cumplimiento y realizará las diligencias necesarias para su ejecución.
+
+La diligencia de requerimiento de pago y embargo se practicará en el domicilio de la institución pública o dependencia demandada, previa citación de su titular o su representante legal; si estos no estuviesen el día y hora fijados la diligencia se practicará con el servidor público que se encuentre presente.
+
+En las diligencias de requerimiento de pago y embargo se observarán las normas siguientes:
+
+I. El actuario requerirá el pago a la persona con quien atienda la diligencia y si no efectúa el mismo procederá al embargo;
+
+II. El actuario podrá, en caso necesario, solicitar el auxilio de la Fuerza Pública, para llevar a cabo la diligencia; y
+
+III. El actuario, bajo su responsabilidad, embargará únicamente los bienes necesarios para garantizar el monto adeudado, para lo cual observará el siguiente orden: a) la partida presupuestal a que se refiere el artículo 251 del presente ordenamiento, b) cuenta bancaria y c) bienes del demandado en términos de la Ley de Bienes del Estado de México y de sus Municipios.
+
+Cuando el embargo deba recaer en bienes que se encuentren fuera del lugar donde se practique la diligencia, el actuario se trasladará al lugar donde manifieste la parte que obtuvo que se encuentren y previa identificación de los mismos, practicará el embargo.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2515,9 +2569,9 @@ Los medios de apremio que podrán ser empleados por el Tribunal o la Sala, para 
 
 I. Requerimiento con amonestación y señalamiento de los medios de apremio que se podrán ordenar;
 
-> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, G.G. 14 DE AGOSTO DE 2009)</small>
 
-II. Multa que podrá ser, de uno hasta quince días del salario base que perciba el servidor público;
+II. Multa que podrá ser, de cincuenta a cien días del salario base que perciba el servidor público; y
 
 > <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
@@ -2746,3 +2800,13 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 14 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor el día dieciocho de agosto de dos mil nueve.
+
+TERCERO.- Cualquier asunto en trámite se sustanciará hasta su conclusión, de conformidad con lo establecido en las disposiciones vigentes hasta antes de la entrada en vigor del presente Decreto.
+
+CUARTO.- El presente Decreto no se aplicará a las relaciones de trabajo que hubiesen surgido con anterioridad a su entrada en vigor, sujetándose éstas a las disposiciones que se encontraban vigentes al momento de su contratación, salvaguardando sus derechos adquiridos.
