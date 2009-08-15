@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2009-05-09"
+last_updated: "2009-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -227,11 +227,11 @@ En lo conducente se aplicará el procedimiento previsto por el artículo 16 de e
 
 ### CAPITULO IV. DE LA INSTALACION DE LA LEGISLATURA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 22.
 
-En la segunda quincena de agosto del año de la elección, el Congreso o la Comisión Permanente, en su caso, se constituirá en Comisión Instaladora de la Legislatura que le sucederá. De inmediato lo comunicará al Instituto Electoral y al Tribunal Electoral del Estado y procederá a ejecutar las acciones preliminares a la junta previa a que se refiere la fracción III del artículo 28 de la Ley, haciéndolo de la siguiente manera:
+En la primera quincena del mes de septiembre del año de la elección, la Comisión Permanente, se constituirá en Comisión Instaladora de la Legislatura que le sucederá. De inmediato lo comunicará al Instituto Electoral y al Tribunal Electoral del Estado y procederá a ejecutar las acciones preliminares a la junta previa a que se refiere la fracción III del artículo 28 de la Ley, haciéndolo de la siguiente manera:
 
 a).- Analizará la documentación electoral que reciba de la Oficialía Mayor y verificará que ésta se encuentre debidamente integrada y completa para su entrega a la Directiva Provisional de la Legislatura entrante;
 
@@ -2254,3 +2254,7 @@ P.O. 28 DE FEBRERO DE 2009.
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El Presente Decreto entraré en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 15 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
