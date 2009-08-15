@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2009-07-25"
+last_updated: "2009-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2009.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -85,7 +85,7 @@ El Congreso tendrá dos períodos ordinarios de sesiones cada año y las sesione
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-El primer período iniciará precisamente el primero de octubre y concluirá el último día de febrero del año siguiente; y el segundo dará inicio el primero de abril y concluirá el treinta y uno de agosto del mismo año. Al abrir y cerrar su períodos de sesiones lo hará por Decreto.
+El primer período iniciará precisamente el primero de octubre y concluirá el último día de febrero del año siguiente; y el segundo dará inicio el primero de abril y concluirá el treinta y uno de agosto del mismo año. Al abrir y cerrar sus períodos de sesiones lo hará por Decreto.
 
 Se consideran días hábiles para el trabajo legislativo y parlamentario, todos los comprendidos dentro de cada uno de los períodos.
 
@@ -305,11 +305,11 @@ DE LA ORGANIZACION DEL PODER LEGISLATIVO.
 
 DE LA INSTALACION DE LA LEGISLATURA.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 27.
 
-En el año de la elección de la Legislatura, el Congreso o la Comisión Permanente, en su caso, se constituirá en Comisión Instaladora de la siguiente Legislatura, lo que deberá comunicar por escrito en el mes de agosto al Instituto Electoral y al Tribunal Electoral del Estado. Con ese carácter instalará la junta previa de la nueva Legislatura.
+En el año de la elección de la Legislatura, la Comisión Permanente, se constituirá en Comisión Instaladora de la siguiente Legislatura, lo que deberá comunicar por escrito en la primera quincena del mes de septiembre al Instituto Electoral y al Tribunal Electoral del Estado. Con ese carácter instalará la junta previa de la nueva Legislatura.
 
 ###### ARTICULO 28.
 
@@ -455,7 +455,7 @@ El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, �
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
-En caso de ausencia del Presidente o cuando éste debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
+En caso de ausencia del Presidente o cuando este debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -1342,3 +1342,7 @@ P.O. 9 DE MAYO DE 2009.
 P.O. 25 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
