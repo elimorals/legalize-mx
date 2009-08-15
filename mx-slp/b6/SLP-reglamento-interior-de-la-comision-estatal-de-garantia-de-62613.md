@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-comision-estatal-de-garantia-de-62613
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-17"
-last_updated: "2008-07-17"
+last_updated: "2009-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE GARANTIA DE ACCESO A LA INFORMACION PUBLICA DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de julio de 2008.
 
@@ -69,25 +69,59 @@ I. Comisión: la Comisión Estatal de Garantía de Acceso a la Información Púb
 
 II. Comisionados: los integrantes de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, electos por el Congreso del Estado, en el desempeño efectivo del cargo;
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+a) Comisionados Numerarios: los integrantes de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luís Potosí, electos por el Congreso del Estado, en el desempeño efectivo del cargo;
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+b) Comisionados Supernumerarios: los electos por el Congreso del Estado que suplirá en el orden de su nombramiento las ausencias y excusas de los Comisionados Numerarios;
+
 III. Ley: la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí;
 
 IV. Pleno: la actuación colegiada de los Comisionados, que constituye el máximo órgano de gobierno de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí;
 
-V. Presidente o Presidenta: el Comisionado o Comisionada que presida la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
 
-VI. Reglamento: el presente Reglamento Interior de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí;
+V. Presidente: el Comisionado que presida la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí y con las facultades que refiere el artículo 85 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, las de este reglamento y las no previstas por acuerdo que determine el Pleno.
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+VI. Reglamento: el presente Reglamento Interior.
 
 VII. Resolución: decisión fundada y motivada dictada por el Pleno, que decide cualesquiera de los procedimientos administrativos de la competencia de la Comisión;
 
-VIII. SEDA: el Sistema Estatal de Documentación y Archivo, y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+VIII. SEDA: el Sistema Estatal de Documentación y Archivos dependiente de esta Comisión, y
 
 IX. Unidades administrativas: la Secretaría Ejecutiva, la Dirección General del SEDA, direcciones, jefaturas de departamento y, en general, los órganos de la Comisión dotados de atribuciones para el auxilio del Pleno en el cumplimiento de sus funciones.
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACIÓN Y COMPETENCIA DE LA COMISION
 
-###### ARTÍCULO 5°.
+(REUBICADO [N. DE E. ANTES EN CAPITULO PRIMERO], P.O. 15 DE AGOSTO DE 2009)
+
+###### ARTICULO 5°.
 
 La Comisión se regirá para su organización y funcionamiento por las disposiciones establecidas en la Ley, el Reglamento y demás disposiciones legales y administrativas que resulten aplicables, así como por los acuerdos que respecto de su régimen interior se tomen por el Pleno.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+ARTICULO 5 bis. La Comisión es un organismo constitucionalmente reconocido, con autonomía patrimonial, de operación y de decisión con domicilio legal en la ciudad de San Luis Potosí, San Luis Potosí, para lo cual se entenderá que:
+
+I. La autonomía patrimonial y de operación implica el contar con un patrimonio propio y elaborar, administrar y controlar su presupuesto en el marco de la Ley; y
+
+II. La autonomía de decisión consiste en la independencia en la toma de decisiones de la Comisión, así como la no supeditación a autoridad o servidor público alguno distinto de los órganos de la propia Comisión.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+ARTICULO 5 ter. La Comisión podrá establecer relaciones de cooperación y suscribir convenios de colaboración y coordinación con los distintos entes obligados para el mejor cumplimiento de las disposiciones previstas en la Ley, este Reglamento y cualquier otra disposición aplicable, asimismo podrá establecer dichas relaciones con cualquier organismo interesado en el objeto de la Ley y del presente Reglamento.
+
+La Comisión podrá organizar y participar en toda actividad que tenga como propósito investigar y difundir el derecho de acceso a la información pública.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+ARTICULO 5 quater. Los Comisionados y el personal de la Comisión se sujetarán a los principios de legalidad, imparcialidad, objetividad, honestidad, independencia, autonomía, equidad y certeza en el desempeño de sus actuaciones. Estos principios incluyen la obligación de la confidencialidad de la información que por razones de su encargo conozcan y manejen, y que estén relacionadas con la tramitación de los recursos interpuestos ante la Comisión, observando puntualmente las disposiciones internas que para este efecto expida la propia Comisión.
 
 ###### ARTICULO 6°.
 
@@ -121,9 +155,11 @@ d) Dirección de Administración y Finanzas
 
 ### CAPITULO TERCERO. DEL PLENO
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 7°.
 
-El Pleno se integra por los Comisionados electos por el Congreso del Estado en términos de la Ley, quienes contarán con voz y voto. Para el desarrollo de las sesiones, el Pleno se auxiliará permanentemente del Secretario Ejecutivo, quien para ese efecto solo contará con voz.
+El Pleno se integra por los Comisionados Numerarios electos por el Congreso del Estado en términos de la Ley, quienes contarán con voz y voto. Para el desarrollo de las sesiones, el Pleno se auxiliará permanentemente del Secretario Ejecutivo, quien para ese efecto solo contará con voz.
 
 ###### ARTICULO 8°.
 
@@ -187,7 +223,7 @@ XXIV. Expedir las normas o bases para disponer de los activos fijos de la Comisi
 
 XXV. Requerir de los entes obligados los informes y documentos necesarios para el ejercicio de sus atribuciones legales y para la resolución de los procedimientos sancionadores, quejas, recursos de revisión y reconsideraciones que se interpongan ante la Comisión;
 
-XXVI. Ordenar a los entes obligados, en los casos particulares, se permita a Ia Comisión el acceso a la información clasificada por éstos como reservada y confidencial, para determinar su debida clasificación, desclasificación o procedencia de otorgar su acceso y en su caso, la ampliación del período de reserva;
+XXVI. Ordenar a los entes obligados, en los casos particulares, se permita a la Comisión el acceso a la información clasificada por éstos como reservada y confidencial, para determinar su debida clasificación, desclasificación o procedencia de otorgar su acceso y en su caso, la ampliación del período de reserva;
 
 XXVII. Prevenir a los quejosos y recurrentes de los errores u omisiones de forma y fondo de los que adolezca el escrito de queja, de revisión o de reconsideración, haciendo efectivos los apercibimientos correspondientes;
 
@@ -201,9 +237,21 @@ XXXI. Resolver sobre la situación de los servidores públicos de la Comisión s
 
 XXXII. Aprobar la integración, al seno de la Comisión, de los comités de Información y de Adquisiciones, así como aquellos que se desprendan de la legislación vigente del Estado;
 
-XXXIII. Dispensar al personal de la Comisión la satisfacción de alguno de los requisitos exigidos para su contratación, cuando lo considere procedente, y
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
 
-XXXIV. Las demás que le señalen la Ley, el Reglamento, y demás disposiciones legales y administrativas que resulten aplicables.
+XXXIII. Calificar las excusas de los comisionados, cuando se invoque conflicto de interés personal;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XXXIV. Interpretar y aplicar las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, de este Reglamento y en su caso publicar y difundir los criterios que el Pleno considere necesaria su publicación;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XXXV. Dispensar al personal de la Comisión la satisfacción de alguno de los requisitos exigidos para su contratación, cuando lo considere procedente, y
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XXXVI. Las demás que le señalen la Ley, el Reglamento, y demás disposiciones legales y administrativas que resulten aplicables.
 
 ###### ARTICULO 11.
 
@@ -263,13 +311,15 @@ Las actas que se levanten con motivo de las sesiones deberán ser firmadas por e
 
 Las resoluciones que se tomen en las sesiones deberán ser firmadas por los Comisionados que intervinieron en la respectiva sesión, aún por el que hubiera votado en contra.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 20.
 
-El Comisionado que hubiese votado en contra (sic) un acuerdo o resolución aprobado por mayoría, tendrá la facultad de presentar el voto particular.
+El Comisionado que hubiese votado en contra un acuerdo o resolución aprobado por mayoría, tendrá la facultad de presentar el voto particular, o bien cuando se hayan aprobado por unanimidad pero que considere que se debió de agregar, omitir o cualquier otra determinación que se debió de adoptar en la resolución.
 
-El voto particular será presentado por escrito y firmado por su autor, exponiendo los argumentos en que se sustenta.
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
 
-El voto particular deberá adjuntarse al acuerdo o resolución que lo motivó, entendiéndose que forma parte de aquél.
+ARTICULO 20 bis. Las sesiones sólo podrán suspenderse por unanimidad o por mayoría de votos de los Comisionados.
 
 ###### ARTICULO 21.
 
@@ -289,7 +339,9 @@ III. Participar en los procesos de nombramiento, evaluación, promoción y remoc
 
 IV. Asistir a las sesiones del Pleno con voz y voto, y dejar asentado en actas el sentido del mismo cuando así lo soliciten;
 
-V. Presentar votos particulares respecto de los acuerdos y resoluciones aprobadas en el Pleno por mayoría y con su voto en contra;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+V. Presentar votos particulares respecto de los acuerdos y resoluciones aprobadas en el Pleno por mayoría y con su voto en contra; o cuando se hayan aprobado por unanimidad pero que considere que se debió de agregar, omitir o cualquier otra determinación que se debió de adoptar en la resolución;
 
 VI. Solicitar, en los términos de este Reglamento, la celebración de sesiones extraordinarias de Pleno;
 
@@ -305,9 +357,17 @@ XI. Pedir informes sobre actividades y ejecución de programas internos al perso
 
 XII. Ser electo Presidente de la Comisión;
 
-XIII. Solicitar licencia al Pleno para separarse temporalmente de su cargo, por causa justificada, y
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
 
-XIV. Las demás que le señalen la Ley, este reglamento y otras disposiciones legales y administrativas que resulten aplicables.
+XIII. Fungir como Comisionado Ponente en los asuntos que le sean turnados;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XIV. Solicitar licencia al Pleno para separarse temporalmente de su cargo, por causa justificada, y
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XV. Las demás que le señalen la Ley, este reglamento y otras disposiciones legales y administrativas que resulten aplicables.
 
 ### CAPITULO QUINTO. DE LA PRESIDENCIA
 
@@ -509,7 +569,9 @@ XIII. Requerir, previo acuerdo del Pleno de la Comisión, a los entes obligados,
 
 XIV. Requerir de los entes obligados los informes y documentos que le resulten necesarios para el ejercicio de sus atribuciones legales y reglamentarias;
 
-XV. Ordenar a los entes obligados, en los casos particulares, se le permita el acceso a la información clasificada por éstos como reservada y confidencial, para determinar su debida clasificación o desclasificación, o ampliación del plazo de reserva;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XV. Ordenar a los entes obligados, en los casos particulares el acceso a la información clasificada por éstos como reservada y confidencial, para determinar su debida clasificación o desclasificación, o ampliación del plazo de reserva, previo acuerdo por el Pleno de la Comisión;
 
 XVI. Proponer al Pleno la imposición de sanciones pecuniarias a los servidores públicos por infracciones a la Ley y a las demás disposiciones legales o reglamentarias, así como los lineamientos en vigor, que conozca con motivo del ejercicio de las facultades a que se refieren las fracciones XII y XIII de este artículo, previa sustanciación del procedimiento administrativo previsto en el artículo 116 de la Ley;
 
@@ -518,6 +580,8 @@ XVII. Ejecutar los programas de capacitación aprobados por el Pleno en materia 
 XVIII. Las demás que le establezcan la Ley, el presente Reglamento y las que le sean encomendadas por el Pleno.
 
 #### Sección Primera. Del Secretario Ejecutivo
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 15 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 32.
 
@@ -539,7 +603,9 @@ VII. Auxiliar al Director General del SEDA en la elaboración de los lineamiento
 
 VIII. Apoyar al Director General del SEDA en la práctica de visitas de verificación en las oficinas de los entes obligados, para comprobar el cumplimiento de sus obligaciones en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública y de información que deba difundirse de oficio;
 
-IX. Apoyar al Director General del SEDA en los procedimientos de verificación de información y documentación seguidos a los entes obligados en las oficinas de la Comisión respecto del cumplimiento de sus obligaciones en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública; información que deba difundirse de oficio y clasificación y desclasificación de información reservada;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+IX. Apoyar al Director General del SEDA en los procedimientos de verificación de información y documentación seguidos a los entes obligados en las oficinas de la Comisión respecto del cumplimiento de sus obligaciones en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública; información que deba difundirse de oficio y clasificación y desclasificación de información reservada, que hayan sido aprobados por el Pleno de la Comisión;
 
 X. Vigilar que los entes obligados cumplan con las disposiciones aplicables en materia de creación, adquisición, entrega, recepción, organización, control, distribución, conservación, custodia, resguardo, restauración, transferencia, selección, depuración, eliminación de documentos, así como las actividades enfocadas a regular, coordinar y dinamizar su uso y divulgación;
 
@@ -585,7 +651,15 @@ XII. Las demás que le establezcan la Ley, el presente Reglamento y las que le s
 
 ###### ARTICULO 34.
 
-Son atribuciones del Secretario Ejecutivo:
+La Secretaría de Actas es el área técnica jurídica de apoyo en el despacho de los asuntos a cargo de la Comisión y de los acuerdos del Pleno; dependerá administrativamente del Comisionado Presidente y se integrará por un titular y el personal autorizado en el presupuesto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE AGOSTO DE 2009)</small>
+
+El Titular de la Secretaría de Actas tiene facultad de certificar y dar fe de los documentos y actos derivados del ejercicio de las funciones de la Comisión dentro y fuera de ésta.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+Además son atribuciones del Secretario Ejecutivo:
 
 I. Coordinar las acciones que, en el ejercicio de sus atribuciones, realicen las unidades administrativas de área que le son adscritas, en función de los acuerdos que tome con el Presidente;
 
@@ -647,15 +721,41 @@ XXIX. Prevenir a los quejosos y recurrentes de los errores u omisiones de forma 
 
 XXX. Requerir de los entes obligados los informes y documentos necesarios para el ejercicio de sus atribuciones legales y para la resolución de los procedimientos sancionadores, quejas, recursos de revisión y reconsideraciones que se interpongan ante la Comisión;
 
-XXXI. Certificar los documentos que obren en los expedientes y archivos de la Comisión, y
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
 
-XXXII. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas tanto por el Pleno como por el Presidente.
+XXXI. Desahogar las actuaciones y diligencias necesarias para su prosecución de los recursos que se tramitan en la Comisión;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XXXII. Realizar proyectos para determinar la debida clasificación, desclasificación o procedencia de acceso a la información y, en su caso, la ampliación del período de reserva de la información reservada y confidencial;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XXXIII. Elaborar, en coordinación con las Direcciones de la Comisión, los planes y programas para la realización de estudios e investigaciones sobre el derecho de acceso a la información y de protección de datos personales, para la debida aplicación de las leyes y demás disposiciones legales y administrativas aplicables;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XXXIV. Representar a la Comisión en los asuntos que el Pleno determine;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XXXV. Proponer los mecanismos para proteger y garantizar la protección de los datos de carácter personal que obren registrados en cualquier soporte físico que permita su tratamiento en la propia Comisión, así como restringir el acceso a la información reservada y confidencial de la misma Comisión, en coordinación con las demás Direcciones y Áreas;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XXXVI. Certificar los documentos que obren en los expedientes y archivos de la Comisión, y
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XXXVII. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas tanto por el Pleno como por el Presidente.
 
 ###### ARTICULO 35.
 
 Son atribuciones del Director Jurídico:
 
-I. Con acuerdo del Presidente representar legalmente a la Comisión con todas las facultades generales y especiales de un apoderado general, aún aquellas que requieran poder o cláusula especial conforme a la ley, entre las que enunciativa, más no limitativamente, se encuentran las de representar al Organismo ante toda clase de personas físicas o morales, sociedades mercantiles, civiles o asociaciones, organismos descentralizados, instituciones públicas o privadas, en juicio o fuera de él, ante toda clase de autoridades, ya sean municipales, estatales, federales, judiciales, civiles, administrativas, penales, legislativas, del trabajo y militares; para desistirse, transigir, comprometer en árbitro, absolver y articular posiciones, recusar jueces o magistrados, recibir pagos, tachar, interrogar, repreguntar testigos, impugnar documentos, ofrecer y rendir pruebas, formular denuncias, acusaciones o querellas, constituir a la Comisión poderdante en parte civil o coadyuvante del Ministerio Público para exigir la reparación del daño y la responsabilidad civil cuando proceda contra terceros y en su caso, otorgar poderes generales o especiales, así como para reconocer firmas o documentos, promover y desistirse de toda clase de juicios, inclusive del juicio de amparo, y entablar toda clase de demandas;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+l. Con acuerdo del Pleno o del Presidente de la Comisión, representar legalmente a la Comisión en los asuntos que le sean encomendados por éstos y con las facultades que ahí se le designen;
 
 II. Proporcionar asesoría jurídica al Pleno, a los Comisionados y al Presidente, así como a las unidades administrativas de la Comisión que lo soliciten;
 
@@ -691,9 +791,17 @@ XVII. Compilar y mantener actualizadas las leyes, reglamentos, decretos, acuerdo
 
 XVIII. Desarrollar los estudios de derecho comparado nacional e internacional, en las materias de la competencia de la Comisión, divulgando los resultados al interior de la misma, para impulsar la evolución de la transparencia en el Estado;
 
-XIX. Extraer de los acuerdos y resoluciones dictadas por el Pleno, los criterios aislados y reiterados en las materias de su competencia, con los que, debidamente estudiados y sistematizados, elaborará y propondrá, a través del Secretario Ejecutivo, los manuales de criterios normativos que, una vez aprobados por el Pleno, serán de observancia obligatoria para los funcionarios y empleados de la Comisión, los que deberán publicarse en la página web de la misma, y
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
 
-XX. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Pleno como por el Presidente, a través del Secretario Ejecutivo.
+XIX. Certificar y dar fe de los documentos y actos derivados del ejercicio de las funciones de la Comisión dentro y fuera de ésta por algún impedimento o ausencia del Secretario de Actas y exclusivamente para algún asunto en particular previo acuerdo del Pleno o del Presidente de la Comisión Estatal de Garantía y Acceso a la Información Pública.
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XX. Extraer de los acuerdos y resoluciones dictadas por el Pleno, los criterios aislados y reiterados en las materias de su competencia, con los que, debidamente estudiados y sistematizados, elaborará y propondrá, a través del Secretario Ejecutivo, los manuales de criterios normativos que, una vez aprobados por el Pleno, serán de observancia obligatoria para los funcionarios y empleados de la Comisión, los que deberán publicarse en la página web de la misma, y
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+XXI. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Pleno como por el Presidente, a través del Secretario Ejecutivo.
 
 ###### ARTICULO 36.
 
@@ -853,15 +961,73 @@ La falta de cumplimiento a lo dispuesto por los manuales, sin la previa y expres
 
 Los Comisionados serán suplidos en sus ausencias temporales o en las definitivas por los comisionados supernumerarios, en el estricto orden de su nombramiento.
 
-Tratándose de falta definitiva se dará inmediato aviso al Congreso del Estado para que se proceda en los términos de la Ley.
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+La ausencia de un Comisionado Numerario es la falta temporal o definitiva de éste para ejercer su cargo.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+La falta temporal es aquella en la que el Comisionado Numerario se ausenta de sus funciones por un periodo que exceda de veinte días naturales con causa justificada.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+Dará inicio una falta temporal a partir de la ausencia de un Comisionado Numerario que exceda de veinte días naturales, la que empezará a contar al día siguiente de este plazo y podrá prolongarse por un periodo hasta de treinta días naturales.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+Una vez iniciada la falta temporal del Comisionado Numerario, el Pleno notificará de forma inmediata al Comisionado Supernumerario de este hecho para que manifieste sí suple o no la falta temporal, esta determinación deberá realizarla por escrito y en periodo máximo de veinticuatro horas. En caso de que acepte deberá de entrar en funciones de manera inmediata y, en caso de que rechace la propuesta el Pleno llamará al Comisionado Supernumerario siguiente en el orden en que fue designado por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+Una vez vencido el plazo de treinta días naturales si el Comisionado Numerario ausente no se presenta a la Comisión para reincorporarse a sus labores o bien no presentara causa justificada para continuar con su ausencia, el Pleno decretará la falta definitiva.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+Durante el tiempo que dure la falta temporal el Comisionado Numerario ausente dejará de percibir percepciones económicas por parte de la Comisión.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+La falta definitiva es aquella en la que el Comisionado Numerario se separa o es separado de su cargo por cualquier causa que fijen las normas respectivas.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+Tratándose de falta definitiva de un Comisionado Numerario el Pleno dará inmediato aviso al Congreso del Estado para que proceda en los y (sic) términos de la Ley y el Comisionado Supernumerario continuará en funciones hasta en tanto no se haga la nueva designación.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+Los Comisionados Supernumerarios cuando ejerzan funciones, percibirán un sueldo igual al del numerario por todo el tiempo que dure la falta temporal y en caso de una excusa o impedimento legal de alguno de los Comisionados Numerarios su desempeño será honorífico
 
 ###### ARTICULO 44.
 
 Sin perjuicio de lo dispuesto en el artículo que antecede, durante las ausencias temporales del Presidente, fungirá como tal el Comisionado Numerario que en forma previa acuerde el Pleno.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+En caso de excusa del Presidente, una vez llamado el Comisionado Supernumerario, el Pleno designará quién debe fungir como Presidente únicamente para el asunto que tenga relación con la excusa.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+ARTICULO 44 bis. La ausencia de los funcionarios de la Comisión será suplida en los términos siguientes:
+
+I.- La del Secretario Ejecutivo por el Director Jurídico; y
+
+II.- La de los Directores, por el funcionario del área inmediato inferior del ausente o quien determine el Pleno de la Comisión Estatal de Garantía y Acceso a la Información Pública.
+
 ###### ARTICULO 45.
 
 Los titulares de las unidades administrativas y, en general, los demás servidores públicos serán suplidos en sus ausencias por sus inmediatos inferiores que de ellos dependan, en el ámbito de sus respectivas competencias, salvo que se trate de personal sindicalizado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE AGOSTO DE 2009)</small>
+
+### CAPITULO DECIMO. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
+
+### CAPITULO NOVENO. DE LAS SUPLENCIAS
+
+###### ARTICULO 46.
+
+Los casos no previstos en este Reglamento Interior serán resueltos por acuerdo del Pleno.
 
 T R A N S I T O R I O S
 
@@ -901,4 +1067,10 @@ LIC. ROSA MARÍA MOTlLLA GARCÍA
 
 (RÚBRICA)
 
-### CAPITULO NOVENO. DE LAS SUPLENCIAS
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE AGOSTO DE 2009.
+
+PRIMERO. El presente Reglamento entrará en vigor el mismo día de su aprobación por el Pleno de esta Comisión Estatal de Garantía y Acceso a la Información Pública del Estado de San Luis Potosí.
+
+SEGUNDO. Se ordena su publicación en el Periódico Oficial del Estado.
