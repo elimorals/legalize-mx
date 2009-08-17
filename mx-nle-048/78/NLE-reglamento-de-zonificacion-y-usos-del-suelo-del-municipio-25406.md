@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-25406
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-01"
-last_updated: "2008-04-23"
+last_updated: "2009-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2002.
 
@@ -119,11 +119,11 @@ El presente Reglamento es de Orden Público e interés social, tiene por objeto 
 
 Este Reglamento se expide con fundamento en los Artículos 27, 73 y 115 de la Constitución Política de los Estados Unidos Mexicanos; los Artículos 118, 119 y 131 de la Constitución Política del Estado de Nuevo León; los Artículos 26, 27, 29, 30, 160, 161, 162, 166 y 168 de la Ley Orgánica de la Administración Pública Municipal; los Artículos 6, 9, 11, 12, 35 y 36 de la Ley General de Asentamientos Humanos; y de conformidad con lo dispuesto en los Artículos 12, 208, 209, 212, 213, 214 y 215 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-En los aspectos de fondo y forma respectivamente y con estricto apego al principio de supremacía de la Ley, se aplicarán en lo no previsto por este Reglamento, la Constitución Política del Estado de Nuevo León, la Ley de la Reforma Agraria, la Ley General de Asentamientos Humanos, Ley General del Equilibrio Ecológico y Protección al Ambiente del Estado, Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado, la Ley del Régimen de Propiedad en Condominio, Código Fiscal, Civil y de Procedimientos Civiles del Estado de Nuevo León y demás disposiciones Jurídicas vigentes y aplicables.
+En los aspectos de fondo y forma respectivamente y con estricto apego al principio de supremacía de la Ley, se aplicarán en lo no previsto por este Reglamento, la Constitución Política del Estado de Nuevo León, la Ley Agraria, la Ley General de Asentamientos Humanos, la Ley General del Equilibrio Ecológico y Protección al Ambiente, así como la del Estado de Nuevo León, la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado, la Ley del Régimen de Propiedad en Condominio, Códigos Fiscal, Civil y de Procedimientos Civiles del Estado de Nuevo León y demás disposiciones jurídicas vigentes y aplicables
 
 ###### Artículo 4.
 
@@ -139,7 +139,9 @@ Corresponden al Ayuntamiento las siguientes atribuciones:
 
 I. Proponer al Congreso del Estado, previo acuerdo del Ayuntamiento y con base en las disposiciones de carácter general que expida en materia de desarrollo urbano, asentamientos humanos y ordenamiento territorial aplicable, la fundación de centros de población en su circunscripción territorial;
 
-II. Elaborar y aprobar los Reglamentos de Zonificación y Usos del Suelo, de Construcción, del Equilibrio Ecológico y la Protección al Ambiente y de Anuncios, así como los ordenamientos aplicables en materia de desarrollo urbano y vigilar el cumplimiento de los mismos;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+II. Elaborar y aprobar los Reglamentos de Zonificación y Usos del Suelo, de Construcción, del Equilibrio Ecológico y la Protección Ambiental y de Anuncios, así como los ordenamientos aplicables en materia de Desarrollo Urbano y vigilar el cumplimiento de los mismos;
 
 III. Elaborar y aprobar los planes de desarrollo urbano, asentamientos humanos u ordenamiento territorial del Municipio, de centros de población o parciales derivados de estos y vigilar el cumplimiento de estos;
 
@@ -175,43 +177,77 @@ VIII. Promover la participación ciudadana y recibir las opiniones que manifiest
 
 IX. Las demás que le señalen la Ley, otras normas y Reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 8.
 
-En los términos de lo dispuesto en los Artículos 12 y 13 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, el Ayuntamiento y el Presidente Municipal para el ejercicio de sus atribuciones y responsabilidades ejecutivas, delegan a favor del Secretario de Desarrollo Urbano, a quién corresponderá aplicar la normatividad contenida en el presente Reglamento, así como vigilar su cumplimiento, las siguientes atribuciones en materia de Desarrollo Urbano:
+En los términos de lo dispuesto en los Artículos 12 y 13 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, el Ayuntamiento y el Presidente Municipal para el ejercicio de sus atribuciones y responsabilidades ejecutivas, delegan a favor del Secretario de Desarrollo Urbano y Obras Públicas, a quien corresponderá aplicar la normatividad contenida en el presente reglamento, así como vigilar su cumplimiento, las siguientes atribuciones en materia de Desarrollo Urbano
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 I. Formular los proyectos de planes de desarrollo urbano, asentamientos humanos u ordenamiento territorial Municipales, de centros de población o parciales derivados de éstos, así como los proyectos de Reglamentos y disposiciones generales en materia de desarrollo urbano y someterlos al Ayuntamiento para su aprobación;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
 II. Administrar y ejecutar los planes de desarrollo urbano, asentamientos humanos u ordenamiento territorial Municipales, de centros de población o parciales derivados de éstos y aprobados por el Ayuntamiento;
 
-III. Aplicar en sus funciones los Reglamentos de Zonificación y Usos del Suelo, de Construcción, del Equilibrio Ecológico y la Protección al Ambiente y de Anuncios aprobados por el Ayuntamiento a través del personal habilitado de la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+III. Aplicar en sus funciones los Reglamentos de Zonificación y Usos del Suelo, de Construcción, del Equilibrio Ecológico y la Protección Ambiental y de Anuncios aprobados por el Ayuntamiento, a través del personal habilitado de la Secretaría;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 IV. Participar en la planeación y delimitación territorial de la zona conurbada de Monterrey o de la región de la cual forma parte el Municipio;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
 V. Administrar la zonificación urbana de los centros de población contenidas en los planes, programas o demás disposiciones de carácter general de desarrollo urbano, asentamientos humanos y ordenamiento territorial del Municipio, en congruencia con los planes y programas de desarrollo urbano, asentamientos humanos y ordenamiento territorial federal y estatal;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 VI. Elaboración y ejecución programas para la regularización de la tenencia de la tierra urbana;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
 VII. Autorización o negativa, con base en el Plan Municipal de Desarrollo Urbano, planes de los centros de población, planes parciales, Reglamentos y demás disposiciones de carácter general, las licencias para ejecutar obras de urbanización, usos y cambios de usos del suelo y edificios, construcciones, fusiones, parcelaciones, subdivisiones y relotificaciones de predios y lotes en los centros de población y en el territorio Municipal; a excepción de las áreas naturales protegidas, debiendo observarse, en su caso, lo dispuesto en la Ley General del Equilibrio Ecológico y Protección al Ambiente y su Reglamento en materia de impacto ambiental; así como los Decretos del Ejecutivo Federal sobre dichas zonas;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 VIII. Autorización o negativa, con base en el Plan Municipal de Desarrollo Urbano, planes de los centros de población, planes parciales, Reglamentos y demás disposiciones de carácter general, la Factibilidad y lineamientos generales, proyecto urbanístico, proyecto ejecutivo, Permisos de venta, prórrogas, terminación de obras y liberación de garantías de todo tipo de fraccionamientos, así como la recepción de los mismos en los centros de población y en el territorio Municipal; en lo referente a las áreas naturales protegidas, deberá observarse, en su caso, lo dispuesto en la Ley General del Equilibrio Ecológico y Protección al Ambiente y su Reglamento en materia de impacto ambiental; así como los Decretos del Ejecutivo Federal sobre dichas zonas;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
 IX. Autorizar la incorporación ó reincorporación a las redes de infraestructura del centro de población las áreas o predios donde deban ejecutarse obras de urbanización, sobre la base de la capacidad instalada y promedio de vida de cada sistema o servicio en particular;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 X. Supervisar y en su caso acordar la recepción de obras de urbanización previa al visto bueno de las dependencias u organismos responsables de la prestación de los servicios públicos y de la Secretaría del Ayuntamiento, en relación con las cesiones de las áreas Municipales que señala la Ley;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
 XI. Aplicación de los criterios ambientales de conservación de áreas naturales;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 XII. Tramitación y Resolución los Recursos jurídicos y administrativos previstos en la Ley y este Reglamento en el ámbito de su competencia;
 
-XIII. Ordenar, imponer y ejecutar las medidas de seguridad y sanciones inscritas en los Reglamentos de la Secretaría, así como aplicar las medidas y procedimientos y turnar los procedimientos coactivos a la Secretaría de Finanzas y Tesorería previstos en la Ley y este Reglamento;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+XIII. Ordenar, imponer y ejecutar las medidas de seguridad y sanciones inscritas en los Reglamentos de la Secretaría, así como aplicar las medidas y procedimientos y turnar los procedimientos coactivos a la Secretaría de Tesorería y Finanzas previstos en la Ley y este Reglamento;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 XIV. Expedición de las licencias para la explotación de bancos de materiales para construcción, así como para la ubicación de escombreras o depósitos de residuos, producto de construcciones;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
 XV. Formular y ejecutar la normatividad que corresponda para las especificaciones y acondicionamientos arquitectónicos que se requieran con el objeto de que las personas con discapacidad se desplacen libremente;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
 XVI. Coordinar, las políticas y prácticas catastrales con los planes y programas Municipales de desarrollo urbano, asentamientos humanos y ordenamiento territorial; y
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 XVII. Las demás que le señalen la Ley, otras normas y Reglamentos aplicables.
 
@@ -1243,23 +1279,35 @@ Los usos y destinos de espacios abiertos se clasifican en:
 
 1.9 Recargas acuíferas.
 
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 24 Bis 1.
 
-La Comisión de Ordenamiento Territorial de Desarrollo Urbano será facultada por el R. Ayuntamiento para tener como objeto el análisis y el estudio de las cuestiones relacionadas con la administración del desarrollo urbano, emitiendo, si son factibles o no los cambios de uso del suelo y los cambios de lineamientos de usos del suelo previo dictamen de las Direcciones de Planeación Urbana y Administración de Desarrollo Urbano. Estará Integrada por:
+La Comisión de Obras Públicas y Desarrollo Urbano, será facultada por el R. Ayuntamiento para tener como objeto el análisis y el estudio de las cuestiones relacionadas con la administración del Desarrollo Urbano, emitiendo si son factibles o no los cambios de uso del suelo y los cambios de lineamientos de usos del suelo, previo dictamen de la Dirección de Control Urbano y de la Coordinación de Planificación Urbana, estará integrada por:
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 I. El Presidente Municipal;
 
-II. El Secretario de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
-III. El Director de Planeación Urbana;
+II. El Secretario de Desarrollo Urbano y Obras Públicas;
 
-IV. El Director de Administración de Desarrollo Urbano; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
-V. Los miembros de la Comisión de Desarrollo Urbano del R. Ayuntamiento.
+III. El Director de Control Urbano
 
-Será presidida por el Presidente Municipal y en su ausencia, será presidida por el Secretario de Desarrollo Urbano. Las sesiones se efectuarán por lo menos dos veces al mes y se requerirá la presencia de la mayoría de los integrantes de dicha comisión. Los acuerdos se tomarán por mayoría de los votos de los integrantes presentes, correspondiendo voto de calidad, en los casos de empate, al que presida la sesión. Se levantará un acta de cada sesión por quién sea designado Secretario de Actas, misma que deberá ser firmada por los miembros presentes de la Comisión.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+IV. El Coordinador de Planificación Urbana; y
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+V. Los Miembros de la Comisión de Obras Públicas y Desarrollo Urbano del R. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+Será presidida por el Presidente Municipal y en su ausencia, será presidida por el Secretario de Desarrollo Urbano y Obras Públicas. Las sesiones se tomarán por mayoría de los votos de los integrantes presentes, correspondiendo voto de calidad, en los casos de empate, al que presida la sesión. Se levantará un acta de cada sesión por quien sea designado Secretario de actas, misma que deberá ser firmada por los miembros presentes de la comisión.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1267,31 +1315,37 @@ Será presidida por el Presidente Municipal y en su ausencia, será presidida po
 
 Las promociones e iniciativas a que se refiere el artículo anterior se someterán al siguiente procedimiento:
 
-I. La Secretaría de Desarrollo Urbano, emitirá un dictamen técnico urbanístico sobre la propuesta, tomando en cuenta de la zona: vialidad, paisaje urbano, lineamientos, servicios públicos y los aspectos ecológicos.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+I. La Secretaría de Desarrollo Urbano y Obras Públicas, emitirá un dictamen técnico urbanístico sobre la propuesta, tomando en cuenta de la zona: vialidad, paisaje urbano, lineamientos, servicios públicos y los aspectos ecológicos.
 
 II. El interesado deberá proporcionar la factibilidad o visto bueno de parte de Comisión Federal de Electricidad, Compañía de Agua y Drenaje y de la Compañía de Gas correspondiente, para satisfacer las necesidades del uso de suelo propuestas, así como las firmas de la mayoría de los propietarios o poseedores de los lotes o predios que se encuentren colindantes al lote en cuestión y deberán ser tres por cada lado, cinco en frente y el lote posterior. Los consultados deberán tener uso habitacional. En todo caso se deberá velar porque no se lesionen intereses o derechos jurídicos adquiridos con anterioridad debiendo estar de acuerdo las dos terceras partes del total de los vecinos.
 
-III. La Secretaría, habiendo considerado las anteriores consultas, formulará una propuesta que presentará a la Comisión de Ordenamiento Territorial de Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
-IV. Una vez resuelto por la Comisión de Ordenamiento Territorial de Desarrollo Urbano, el Secretario de Desarrollo Urbano, dentro de un plazo de seis días hábiles comunicará la resolución a los promoventes.
+III. La Secretaría, habiendo considerado las anteriores consultas, formulará una propuesta que presentará a la Comisión de Obras Públicas y Desarrollo Urbano.
 
-V. En caso de aprobación, el Secretario de Desarrollo Urbano turnará al Secretario del R. Ayuntamiento, la resolución para que éste ordene su publicación en la Gaceta Municipal.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004)</small>
+IV. Una vez resuelto por la Comisión de Obras Públicas y Desarrollo Urbano, el Secretario de Desarrollo Urbano y Obras Públicas, dentro de un plazo de seis días hábiles comunicará la resolución a los promoventes.
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+V. En caso de aprobación, el Secretario de Desarrollo Urbano y Obras Públicas turnará al Secretario del R. Ayuntamiento, la resolución para que éste ordene publicación en la Gaceta Municipal.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 25.
 
-Cuando se solicite la autorización de un uso del suelo que no se contemple en las clasificaciones de este Reglamento, la Secretaría de Desarrollo Urbano y Ecología realizará un dictamen y solicitará la anuencia de los integrantes de la Comisión Ordenamiento Territorial de Desarrollo Urbano del Ayuntamiento.
+Cuando se solicite la autorización de un uso del suelo que no se contemple en las clasificaciones de este Reglamento, la Secretaría de Desarrollo Urbano y Obras Públicas realizará un dictamen y solicitará la anuencia de los integrantes de la Comisión de Obras Públicas y Desarrollo Urbano del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 26.
 
-Cuando se solicite la autorización de algunos giros de considerable impacto urbano, la Secretaría de Desarrollo Urbano y Ecología realizará un dictamen y deberá contar con un visto bueno de los integrantes de la Comisión de Ordenamiento Territorial de Desarrollo Urbano del Ayuntamiento, entre los que se incluyen:
+Cuando se solicite la autorización de algunos giros de considerable impacto urbano, la Secretaría de Desarrollo Urbano y Obras Públicas realizará un dictamen y deberá contar con un visto bueno de los integrantes de la Comisión de Obras Públicas y Desarrollo Urbano del Ayuntamiento, entre los que se incluyen:
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
-
-I.- Conjuntos habitacionales;
+I. (DEROGADA, P.O. 17 DE AGOSTO DE 2009)
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1341,9 +1395,9 @@ Los usos y destinos del suelo complementarios, compatibles e incompatibles en ca
 
 > <small>N. DE E. VÉASE MATRÍZ DE COMPATIBILIDAD DE USOS Y DESTINOS DEL SUELO EN EL P.O. DE 1 DE JULIO DE 2002, PÁGINAS DE LA 44 A LA 61.</small>
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
-### CAPÍTULO I (SIC). DEL CONTROL DE DENSIDAD DE LOS EDIFICIOS
+### CAPÍTULO II. DEL CONTROL DE DENSIDAD DE LOS EDIFICIOS
 
 ###### Artículo 30.
 
@@ -1553,11 +1607,11 @@ i) Remetimientos mínimos cuando no colinden con lotes habitacionales: al frente
 
 En el caso de predios o lotes de configuración geométrica irregular, la Secretaría definirá los remetimientos a respetar por el propietario o poseedor en función del proyecto arquitectónico a realizar en los mismos.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 38.
 
-Los lineamientos autorizados y los previstos en los planes de desarrollo urbano, aplicables a un lote o predio, excepto el coeficiente de uso del suelo, altura y cajones de estacionamientos, podrán ser modificados a solicitud del propietario, siempre y cuando se trate de variaciones pequeñas hasta de un diez por ciento (10%). La solicitud deberá contar con la anuencia de la mayoría de los propietarios de los predios colindantes, quienes manifestarán firmando el escrito correspondiente. La Secretaría de Desarrollo Urbano y Ecología aprobará o rechazará lo solicitado.
+Los lineamientos autorizados y los previstos en los planes de desarrollo urbano, aplicables a un lote o predio, excepto el coeficiente de uso del suelo, altura y cajones de estacionamientos, podrán ser modificados a solicitud del propietario, siempre y cuando se trate de variaciones pequeñas hasta de un diez por ciento (10%). La solicitud deberá contar con la anuencia de la mayoría de los propietarios de los predios colindantes, quienes manifestarán firmando el escrito correspondiente. La Secretaría de Desarrollo Urbano y Obras Públicas aprobará o rechazará lo solicitado.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1585,27 +1639,27 @@ IV. Las instituciones señaladas en la Fracción III, inciso a) e inciso b) del 
 
 Las promociones e iniciativas a que se refiere el Artículo anterior se someterán al siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
-I. La Secretaría de Desarrollo Urbano y Ecología emitirá un dictamen técnico urbanístico sobre el proyecto, tomando en cuenta los requerimientos de la zona, infraestructura, vialidad, servicios públicos, paisaje urbano y los aspectos ecológicos;
+I. La Secretaría de Desarrollo Urbano y Obras Públicas emitirá un dictamen técnico urbanístico sobre el proyecto, tomando en cuenta los requerimientos de la zona, infraestructura, vialidad, servicios públicos, paisaje urbano y los aspectos ecológicos;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
-II. El Secretario de Desarrollo Urbano y Ecología consultará cuando menos a diez propietarios de los lotes o predios inmediatos al proyecto cuya autorización se pretende y a la Junta de Vecinos o Residentes de la colonia involucrada en el sector, zona o corredor urbano de que se trate;
+II. El Secretario de Desarrollo Urbano y Obras Públicas consultará cuando menos a diez propietarios de los lotes o predios inmediatos al proyecto cuya autorización se pretende y a la Junta de Vecinos o Residentes de la colonia involucrada en el sector, zona o corredor urbano de que se trate;
 
 III. (DEROGADA, P.O. 4 DE FEBRERO DE 2004)
 
 IV. (DEROGADA, P.O. 4 DE FEBRERO DE 2004)
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
-V. El Secretario de Desarrollo Urbano y Ecología, habiendo considerado las anteriores consultas, formulará una propuesta que presentará al Ayuntamiento, a través de la Comisión de Ordenamiento Territorial de Desarrollo;
+V. El Secretario de Desarrollo Urbano y Obras Públicas, habiendo considerado las anteriores consultas, formulará una propuesta que presentará al Ayuntamiento, a través de la Comisión de Obras Públicas y Desarrollo Urbano.
 
 VI. El Ayuntamiento en Sesión Ordinaria aprobará, rechazará o modificará la propuesta;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
-VII. Una vez resuelto por el Ayuntamiento, el Secretario de Desarrollo Urbano y Ecología, dentro de un plazo de seis días hábiles comunicará la resolución a los que lo promueven; y
+VII. Una vez resuelto por el Ayuntamiento, el Secretario de Desarrollo Urbano y Obras Públicas, dentro de un plazo de seis días hábiles comunicará la resolución a los que lo promueven; y
 
 VIII. En el caso de aprobación o modificación por el Ayuntamiento, el Presidente Municipal ordenará su publicación en la Gaceta Municipal y la solicitará en el Periódico Oficial del Estado.
 
@@ -1921,11 +1975,11 @@ Para el estacionamiento de vehículos en la vía pública se deberá dejar una d
 
 Todas las áreas de estacionamiento deberán estar perfectamente limitadas y señalizadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 89.
 
-Todo edificio deberá tener dentro del predio un área de estacionamiento suficiente para satisfacer las necesidades generadas por el uso del mismo. Cuando algún uso del suelo o edificios que solicite autorización no se encuentre en la lista anterior, la Secretaría de Desarrollo Urbano y Ecología lo homologará al que considere más semejante, en el caso de número mínimo de cajones de estacionamiento requeridos. El mínimo requerido de cajones de estacionamiento es el que se indica en la siguiente Matriz de Cajones de Estacionamiento:
+Todo edificio deberá tener dentro del predio un área de estacionamiento suficiente para satisfacer las necesidades generadas por el uso del mismo. Cuando algún uso del suelo o edificios que solicite autorización no se encuentre en la lista anterior, la Secretaría de Desarrollo Urbano y Obras Públicas lo homologará al que considere más semejante, en el caso de número mínimo de cajones de estacionamiento requeridos. El mínimo requerido de cajones de estacionamiento es el que se indica en la siguiente Matriz de Cajones de Estacionamiento:
 
 > <small>N. DE E. VÉASE MATRIZ DE CAJONES DE ESTACIONAMIENTO EN EL P.O. DE 1 DE JULIO DE 2002, PÁGINAS DE LA 71 A LA 81.</small>
 
@@ -1941,11 +1995,11 @@ Cuando un predio o edificio tenga múltiples usos del suelo y/o edificios, se ap
 
 Cuando un predio o edificio no tenga capacidad para alojar el número de cajones de estacionamiento que el Reglamento le señale, el propietario o poseedor podrá solucionar la carencia mediante el arrendamiento de algún predio colindante o distante, siempre que se encuentre en un radio no mayor de 150.00 metros y no atraviese una vía principal; o bien, mediante la fusión de un predio de su propiedad o vecinal colindante al principal, en la inteligencia que el predio que se fusiona solamente podrá tener algún otro uso del suelo que garantice el cumplimiento de ofrecer los cajones de estacionamiento tanto del predio principal como del propio.
 
-(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 92.
 
-Cuando en un mismo predio se tengan usos del suelo y/o edificios múltiples y desfasados en horarios, la Secretaría de Desarrollo Urbano y Ecología podrá autorizar que el área de estacionamiento sea menor que la suma total de los requerimientos sin que ésta sea menor al requerimiento mayor de las partes individuales.
+Cuando en un mismo predio se tengan usos del suelo y/o edificios múltiples y desfasados en horarios, la Secretaría de Desarrollo Urbano y Obras Públicas podrá autorizar que el área de estacionamiento sea menor que la suma total de los requerimientos sin que ésta sea menor al requerimiento mayor de las partes individuales.
 
 ###### Artículo 93.
 
@@ -2047,7 +2101,9 @@ b) Trasplantar el (los) árbol (es); o
 
 c) Autorización del procedimiento de tala.
 
-En términos de la aplicación del Reglamento del Equilibrio Ecológico y la Protección al Ambiente.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+En términos de la aplicación del Reglamento del Equilibrio Ecológico y la Protección Ambiental.
 
 ###### Artículo 110.
 
@@ -2061,9 +2117,11 @@ Los árboles de edad centenaria solo podrán ser trasplantados o talados si es a
 
 Cuando se trasplante un árbol de un sitio a otro por cualquier razón, éste deberá resembrase en el mismo predio. Si esto no fuere posible, se hará en el sitio apropiado más cercano a aquel en donde estaba originalmente sembrado.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 113.
 
-Queda prohibido atentar contra la salud de cualquier árbol con acciones tales como: mutilación, poda excesiva o innecesaria, riego dañino, remoción de la corteza, entierro parcial de su tronco, impermeabilización del área radicular y otras similares de conformidad con lo que establece el Reglamento Municipal del Equilibrio Ecológico y la Protección al Ambiente.
+Queda prohibido atentar contra la salud de cualquier árbol con acciones tales como: mutilación, poda excesiva o innecesaria, riego dañino, remoción de la corteza, entierro parcial de su tronco, impermeabilización del área radicular y otras similares de conformidad con lo que establece el Reglamento Municipal del Equilibrio Ecológico y la Protección Ambiental.
 
 ###### Artículo 114.
 
@@ -2113,7 +2171,9 @@ II. El uso del suelo que tendrá el fraccionamiento a desarrollar es igual al us
 
 III. El predio o lote tiene acceso directo por vía pública de uso actual;
 
-IV. La Resolución dictada por la Autoridad Competente, respecto a la manifestación del impacto ambiental producido por el pretendido desarrollo del fraccionamiento y su correspondiente aprobación del proyecto ejecutivo autoriza su ejecución, ya sea en los términos solicitados o de manera condicionada a la modificación del proyecto, de conformidad con lo señalado en los Ordenamientos jurídicos relativos al Reglamento Municipal del Equilibrio Ecológico y Protección al Ambiente;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+IV. La Resolución dictada por la Autoridad Competente, respecto a la manifestación del impacto ambiental producido por el pretendido desarrollo del fraccionamiento y su correspondiente aprobación del proyecto ejecutivo autoriza su ejecución, ya sea en los términos solicitados o de manera condicionada a la modificación del proyecto, de conformidad con lo señalado en los ordenamientos jurídicos relativos al Reglamento Municipal de Equilibrio Ecológico y la Protección Ambiental;
 
 V. El predio o lote no presenta alguna de las características que señala el Artículo 43 del presente Reglamento;
 
@@ -2203,7 +2263,9 @@ V. Original y copia de carta poder certificada ante Notario Público, en caso de
 
 VI. Original y copia de comprobante de domicilio para notificaciones;
 
-VII. Plano del proyecto urbanístico que cumpla con las especificaciones de la Ley, de este Reglamento y de la Constancia de Factibilidad y Lineamientos Generales, incluyendo proyecto de solución al drenaje pluvial, así como estudio hidrológico en las zonas indicadas por la Dirección de Ecología;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+VII. Plano del proyecto urbanístico que cumpla con las especificaciones de la Ley, de este Reglamento y de la Constancia de Factibilidad y Lineamientos Generales, incluyendo proyecto de solución al drenaje pluvial, así como estudio hidrológico en las zonas indicadas por la Coordinación de Asentamientos Humanos y Ecología;
 
 VIII. 12 planos del proyecto urbanístico (graficados en "plotter", copias heliográficas o xerográficas) con planta de ubicación del predio, cuadro de datos del levantamiento topográfico, indicando las curvas de nivel a cada 5 metros, el trazo de las calles, la definición de las manzanas y su lotificación, dimensión y superficies de los lotes, las áreas de suelo para Cesión Municipal de acuerdo a la Ley, cuadro de áreas según usos y destinos del suelo, número de lotes total y según usos y destinos del suelo, datos de identificación del predio y del propietario;
 
@@ -2219,23 +2281,37 @@ XII. Original y copia del pago de derechos por el trámite.
 
 Una vez recibido el expediente la Secretaría analizará y evaluará la solicitud conforme a la Ley, este Reglamento y los planes de desarrollo urbano aprobados; realizará las inspecciones y visitas de campo necesarias y elaborará un dictamen resolutivo expresando las razones para autorizar o negar el proyecto urbanístico.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 127.
 
-La Secretaría, según al dictamen expedirá el Acuerdo correspondiente al proyecto urbanístico del fraccionamiento con un plano sellado y firmado de aprobación, contando con la opinión favorable de los integrantes de la Comisión de Desarrollo Urbano del Ayuntamiento. El plano deberá tener lo siguiente:
+La Secretaría, según al dictamen expedirá el Acuerdo correspondiente al proyecto urbanístico del fraccionamiento con un plano sellado y firmado de aprobación, contando con la opinión favorable de los integrantes de la Comisión de Obras Públicas y Desarrollo Urbano del Ayuntamiento. El plano deberá tener lo siguiente:
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
 1. La distribución de áreas o cuadro de áreas del proyecto;
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
 2. El número de lotes y superficie promedio de los mismos;
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
 3. La zonificación de usos del suelo;
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
 4. La definición de áreas de preservación natural o ecológica;
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
 5. Las secciones de calles; y (sic)
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+
 6. La ubicación de las áreas Municipales.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
 7. Y los demás requisitos que establezca la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León.
 
@@ -2389,11 +2465,9 @@ III.- Regularización patrimonial: Consiste en gestionar la transmisión de bien
 
 La regularización de la Tenencia de la Tierra Urbana como fraccionamiento habitacional se sujetará a las siguientes normas:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
-I.- Solamente el Ayuntamiento a través de la Secretaría de Desarrollo Urbano y Ecología podrá iniciar y continuar las acciones para la regularización de la tenencia de la tierra urbana.
-
-I.- Solamente el Ayuntamiento a través de la Secretaría de Desarrollo Urbano podrá iniciar y continuar las acciones para la regularización de la tenencia de la tierra urbana.
+I.- Solamente el Ayuntamiento a través de la Secretaría de Desarrollo Urbano y Obras Públicas podrá iniciar y continuar las acciones para la regularización de la tenencia de la tierra urbana.
 
 II.- Solo podrán ser beneficiarios de la Regularización quienes al inicio e (sic) la vigencia del presente Reglamento ocupen un lote por familia en el predio por autorizar y no sean propietarios de otro bien inmueble en el municipio. Teniendo preferencia los poseedores de buena fe de acuerdo a la antigüedad de la posesión;
 
@@ -2527,7 +2601,9 @@ El uso del suelo o cambio de uso que se le pretenda dar a un predio, lote o edif
 
 I. Ser predominante, complementario o compatible en la zona secundaria en la cual se localice el predio, lote o edificio;
 
-II. Que las actividades a desarrollar en el predio, lote o edificio sean de bajo riesgo en los términos que señalan la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León y su Reglamento, así como, en lo conducente al Reglamento Municipal de Protección Ambiental;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
+II. Que las actividades a desarrollar en el predio, lote o edificio sean de bajo riesgo en los términos que señalan la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León y su Reglamento, así como, en lo conducente al Reglamento del Equilibrio Ecológico y la Protección Ambiental;
 
 III. Respetar las normas y criterios que establecen la Ley, este Reglamento y los Planes de Desarrollo Urbano aplicables;
 
@@ -2589,21 +2665,21 @@ La Secretaría tendrá la obligación de dar contestación por escrito a todas l
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 150.
 
-Para autorizar la transferencia de derechos y obligaciones de un fraccionamiento, licencia de uso de suelo y/o edificios, la Secretaría de Desarrollo Urbano y Ecología requiere que el interesado presente la siguiente documentación:
+Para autorizar la transferencia de derechos y obligaciones de un fraccionamiento, licencia de uso de suelo y/o edificios, la Secretaría de Desarrollo Urbano y Obras Públicas requiere que el interesado presente la siguiente documentación:
 
 I. Solicitud de autorización;
 
 II. Escrito del interesado en el que manifieste su aceptación de los derechos y obligaciones impuestas en la autorización del fraccionamiento, licencia de uso del suelo y/o edificios;
 
-III. Copia de los Acuerdos firmados y sellados por la autoridad competente respecto de las autorizaciones correspondientes:
+III. Copia de los acuerdos firmados y sellados por la autoridad competente respecto de las autorizaciones correspondientes;
 
 IV. Copia del plano del fraccionamiento ó uso del suelo y/o edificios; y
 
-En su caso, carta poder certificada por Notario Público para la realización del trámite.
+V. En su caso, carta poder certificada por Notario Público para la realización del trámite.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -2977,15 +3053,17 @@ Artículo 183 BIS 1.
 
 *Las sanciones estan marcadas como cuotas de acuerdo al salario minimo vigente
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 184.
 
-Corresponde a la Secretaría de Desarrollo Urbano, decretar e imponer las sanciones previstas en este Reglamento. Son sujetos pasivos responsables de la comisión de las infracciones y consecuentemente para la aplicación de las sanciones, el propietario o poseedor del inmueble, o bien el responsable de las obras que se lleven a cabo en el mismo, contra quienes se podrá emitir el mandamiento en los términos y procedimientos conducentes.
+Corresponde a la Secretaría de Desarrollo Urbano y Obras Públicas, decretar e imponer las sanciones previstas en este Reglamento. Son sujetos pasivos responsables de la comisión de las infracciones y consecuentemente para la aplicación de las sanciones, el propietario o poseedor del inmueble, o bien el responsable de las obras que se lleven a cabo en el mismo, contra quienes se podrá emitir el mandamiento en los términos y procedimientos conducentes.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 185.
 
-La Secretaría de Finanzas y Tesorería Municipal recibirá el pago de la sanción o en su caso ejercerá las acciones legales conducentes para hacer efectivo el cobro de la sanción impuesta.
+La Secretaría de Tesorería y Finanzas, recibirá el pago de la sanción o en su caso ejercerá las acciones legales conducentes para hacer efectivo el cobro de la sanción impuesta.
 
 ## TRANSITORIOS
 
@@ -3070,3 +3148,11 @@ P.O. 23 DE ABRIL DE 2008.
 PRIMERO. Las disposiciones de reformas por adición y modificación al presente artículo, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO. Envíese al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 17 DE AGOSTO DE 2009.
+
+PRIMERO.- Las disposiciones de reformas por modificación y adición al Reglamento de Zonificación y Uso del Suelo del Municipio de Santa Catarina Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se deroga el Reglamento de Zonificación y Usos de Suelo del Municipio de Santa Catarina, Nuevo León, publicado en el Periódico Oficial de fecha 01-primer día del mes de Julio del año 2002- dos mil dos, así como las modificaciones al mismo publicadas el 04 de febrero de 2004, en todo lo que contraponga con el presente Reglamento, las demás disposiciones del citado Reglamento permanecerán vigentes.
+
+TERCERO.- Envíese su publicación al Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno y en la Gaceta Municipal, por parte de la Secretaría del Ayuntamiento del Municipio de Santa Catarina, N. L.
