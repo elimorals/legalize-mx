@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2008-12-26"
+last_updated: "2009-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2006.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 26 DE DICIEMBRE DE 2008.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 17 DE AGOSTO DE 2009.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -176,13 +176,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 26 DE DICIEMBRE DE 2008.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA PRIMERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 17 DE AGOSTO DE 2009.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $172,364.01. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 26 DE DICIEMBRE DE 2008.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA PRIMERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 17 DE AGOSTO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -725,3 +725,141 @@ G. Código de claves vehiculares
 Atentamente
 
 México, D.F., a 16 de diciembre de 2008.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
+
+D.O.F. 17 DE AGOSTO DE 2009.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LAS MODIFICACIONES AL ANEXO 15 DE LA RESOLUCION MISCELANEA FISCAL PARA 2009.</small>
+
+ANEXO 15 de la Primera Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2009, publicada el 7 de agosto de 2009.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
+
+Anexo 15 de la Resolución Miscelánea Fiscal para 2009
+
+Contenido
+
+Impuesto sobre Tenencia o Uso de Vehículos
+
+A. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de vehículos nuevos para el año 2009.
+
+B. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de motocicletas nuevas para el año 2009.
+
+C. Tarifas del impuesto sobre tenencia o uso de aeronaves de año modelo anterior a 2000.
+
+D. Tarifa para determinar la tasa del Impuesto sobre Automóviles Nuevos para el año 2009.
+
+E. Cantidades para aeronaves y helicópteros nuevos para el año 2009.
+
+F. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2009.
+
+G. Código de Claves Vehiculares:
+
+1. Autorizadas.
+
+A. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de vehículos nuevos para el año 2009
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 477,347.76 0.00 3.0
+
+477,347.77 918,629.24 14,320.43 8.7
+
+918,629.25 1,234,739.54 52,711.92 13.3
+
+1,234,739.55 1,550,849.83 94,754.59 16.8
+
+1,550,849.84 En adelante 147,861.11 19.1
+
+B. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de motocicletas nuevas para el año 2009
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 200,000.00 0.00 3.0
+
+200,000.01 275,046.93 6,000.00 8.7
+
+275,046.94 369,693.57 12,529.08 13.3
+
+369,693.58 En adelante 25,117.08 16.8
+
+C. Tarifas del impuesto sobre tenencia o uso de aeronaves de año modelo anterior a 2000.
+
+Tarifa 2009, en pesos
+
+TIPO CUOTA
+
+$
+
+PISTON (HELICE) 2,115.74
+
+TURBOHELICE 11,710.12
+
+REACCION 16,918.38
+
+HELICOPTEROS 2,600.99
+
+D. Tarifa para determinar la tasa del impuesto sobre automóviles nuevos para el año 2009.
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 184,553.81 0.00 2.0
+
+184,553.82 221,464.52 3,691.01 5.0
+
+221,464.53 258,375.39 5,536.63 10.0
+
+258,375.40 332,196.72 9,227.70 15.0
+
+332,196.73 En adelante 20,300.88 17.0
+
+Si el precio del automóvil es superior a $509,615.85 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $509,615.85
+
+E. Cantidades para aeronaves y helicópteros nuevos para el año 2009.
+
+Aeronaves de pistón, turbohélice y helicópteros: $9,557.39
+
+Aeronaves de reacción: $10,294.49
+
+F. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2009.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $172,364.01
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $172,364.02 y hasta $218,327.74
+
+G. Código de claves vehiculares
+
+(VEASE ARCHIVO ANEXO)
+
+Atentamente
+
+México, D.F., a 4 de agosto de 2009.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
