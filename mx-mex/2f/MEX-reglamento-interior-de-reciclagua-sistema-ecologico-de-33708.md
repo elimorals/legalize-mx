@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-reciclagua-sistema-ecologico-de-33708"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-27"
-last_updated: "2003-08-27"
+last_updated: "2009-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE RECICLAGUA, SISTEMA ECOLOGICO DE REGENERACION DE AGUAS RESIDUALES INDUSTRIALES, S.A. DE C.V.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE RECICLAGUA AMBIENTAL, S.A. DE C.V., PUBLICADO EN LA G.G. DE 17 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 27 de agosto de 2003.
 
@@ -340,3 +342,15 @@ COORDINADOR EJECUTIVO DE RECICLAGUA Y
 SECRETARIO DEL CONSEJO DE ADMINISTRACION
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 17 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
+
+SEGÚNDO.- Este Reglamento entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de Reciclagua, Sistema Ecológico de Regeneración de Aguas Residuales Industriales, S.A. de C.V., publicado el 27 de agosto de 2003, en el periódico oficial "Gaceta del Gobierno".
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
