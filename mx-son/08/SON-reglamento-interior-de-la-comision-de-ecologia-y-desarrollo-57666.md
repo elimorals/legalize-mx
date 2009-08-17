@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-comision-de-ecologia-y-desarrollo-576
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-26"
-last_updated: "2007-11-26"
+last_updated: "2009-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA COMISION DE ECOLOGIA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el lunes 26 de noviembre de 2007.
 
@@ -49,35 +49,43 @@ IV.- Difundir y promover la cultura y los valores ecológicos.
 
 Para el cumplimiento de su objeto, la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, en adelante la Comisión, contará con los siguientes Órganos y Unidades Administrativas:
 
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
 I.- Órganos de Gobierno:
 
 La Junta Directiva; y
 
-La Dirección General
+El Comisionado Ejecutivo
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
 II.- Unidades Administrativas:
 
 Coordinación Técnica.
 
-Dirección de Conservación.
+Dirección General de Protección Ambiental.
 
-Dirección de Protección Ambiental.
+Dirección General de Gestión Ambiental.
 
-Dirección Gestión Ambiental.
+Dirección General de Conservación.
 
-Dirección del Centro Ecológico.
+Dirección General de Programas de Mejoramiento Ambiental.
 
-Dirección del Delfinario.
+Dirección General del Centro Ecológico.
 
-Dirección Administración y Finanzas.
+Dirección General del Delfinario.
+
+Dirección General de Administración y Finanzas.
 
 Unidad de Enlace y Asuntos Jurídicos.
 
 Se anexa organigrama estructural de la Comisión.
 
+> <small>(REFORMADO, B.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 3.
 
-La Comisión, por conducto de sus unidades administrativas, planeará sus actividades y conducirá las mismas, en forma programada, con base en las prioridades, restricciones y políticas de desarrollo, que sean necesarias para el logro de los objetivos y metas establecidas en el Plan Estatal de Desarrollo, el Programa Operativo Anual, así como los que establezca la Secretaría de Infraestructura y Desarrollo Urbano, dependencia Coordinadora del Sector, la Junta Directiva o Director General, en el ámbito de sus respectivas atribuciones.
+La Comisión, por conducto de sus unidades administrativas, planeará sus actividades y conducirá las mismas, en forma programada, con base en las prioridades, restricciones y políticas de desarrollo, que sean necesarias para el logro de los objetivos y metas establecidas en el Plan Estatal de Desarrollo, el Programa Operativo Anual, así como los que establezca la Secretaría de Infraestructura y Desarrollo Urbano, dependencia Coordinadora del Sector, la Junta Directiva o Comisionado Ejecutivo, en el ámbito de sus respectivas atribuciones.
 
 ### CAPÍTULO II. DE LA JUNTA DIRECTIVA
 
@@ -133,7 +141,9 @@ III.- Lectura y aprobación del Orden del día;
 
 IV.- Lectura del Acta de la sesión anterior;
 
-V.- Informe del Director General;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+V.- Informe del Comisionado Ejecutivo;
 
 VI.- Informe del Comisario;
 
@@ -153,11 +163,15 @@ En caso de que la reunión convocada no pudiera llevarse a cabo en la fecha prev
 
 El acta de cada sesión deberá ser aprobada y suscrita por el Presidente de la Junta Directiva y todos los integrantes presentes en la sesión, sujetándose al contenido del artículo 11 de este Reglamento.
 
-### CAPÍTULO III. DEL DIRECTOR GENERAL
+> <small>(REFORMADA SU DENOMINACION, B.O. 17 DE AGOSTO DE 2009)</small>
+
+### CAPÍTULO III. DEL COMISIONADO EJECUTIVO
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
-El Director General, además de las facultades y obligaciones que le confiere el artículo 10 de la Ley que crea la Comisión, tendrá las siguientes atribuciones:
+El Comisionado Ejecutivo, además de las facultades y obligaciones que le confiere el artículo 10 de la Ley que crea la Comisión, tendrá las siguientes atribuciones:
 
 I.- Tramitar y resolver los asuntos competencia de la Comisión, así como la representación de la misma ante autoridades federales, municipales y otras dependencias del gobierno estatal, así como ante los sectores social y privado;
 
@@ -183,7 +197,7 @@ XI.- Coordinar y concertar la ejecución de instrumentos económicos y financier
 
 XII.- Ejecutar en el ámbito de su competencia, los procesos estratégicos de planeación, programación y presupuestación;
 
-XIII.- Recibir, investigar y atender o, en su caso, determinar y canalizar ante las autoridades competentes, las denuncias por incumplimiento de las disposiciones jurídicas aplicables a la protección de los recursos, bienes, materias, ecosistemas y medio ambiente;
+XIII.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
 XIV.- Formular a nombre de la Comisión las denuncias y querellas que correspondan, desistirse de las mismas y otorgar discrecionalmente el perdón;
 
@@ -211,7 +225,9 @@ XXV.- Administrar, recopilar y sistematizar y, en su caso, publicar la informaci
 
 XXVI.- Establecer los mecanismos, para que la Coordinación Técnica, programe, dirija, coordine y evalué las labores de las unidades administrativas a su cargo, y establecer mecanismos de integración e interrelación que propicien el óptimo desarrollo de sus responsabilidades;
 
-XXVII.- Delegar facultades a servidores públicos subalternos, así como a personas que presten servicios a esta Comisión, sin perjuicio de su ejercicio directo, mediante acuerdo expreso;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXVII.- Delegar facultades a servidores públicos subalternos, sin perjuicio de su ejercicio directo, mediante acuerdo expreso;
 
 XXVIII.- Diseñar e implantar estándares para el registro de operaciones, control interno y emisión de informes que propicien la evaluación permanente de eficiencia y calidad de gestión operativa de la Comisión;
 
@@ -231,7 +247,9 @@ XXXV.- Suscribir previa autorización de la Junta Directiva, los acuerdos de coo
 
 XXXVI.- Establecer políticas y lineamientos administrativos para la realización de actos de inspección y vigilancia para verificar la debida observancia de la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora y sus disposiciones reglamentarias y de la Normativa Federal aplicable en materia de Equilibrio Ecológico y de Protección al Ambiente;
 
-XXXVII.- Autorizar la propuesta de actualización periódica de tarifas, por concepto de los servicios que proporciona la Comisión, así como los derechos, servicios, concesiones, permisos licencias y en general toda autorización que otorgue la Entidad para la realización de actividades, comerciales, industriales y de servicios o para el aprovechamiento de recursos naturales, solicitadas por la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos o cualquier actividad que afecte o pueda afectar el ambiente o causar desequilibrio ecológico;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXXVII.- Autorizar la propuesta de actualización periódica de tarifas, por concepto de los trámites y servicios que proporciona la Comisión, así como los derechos, servicios, concesiones, permisos, licencias y en general toda autorización que otorgue la Entidad para la realización de actividades comerciales, industriales y de servicios o para el aprovechamiento de recursos naturales, solicitadas por la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos o cualquier actividad que afecte o pueda afectar el ambiente o causar desequilibrio ecológico;
 
 XXXVIII.- Coordinar sus actividades con las Dependencias Federales, Ayuntamientos y Entidades de la Administración Pública Estatal, así como con los Organismos Privados y Sociales que requiera la Comisión para su buen funcionamiento en los términos establecidos en los convenios de coordinación y de concertación respectivos;
 
@@ -245,33 +263,51 @@ XLII.- Expedir, cuando proceda, previo pago de derechos que correspondan, certif
 
 XLIII.- Expedir y suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos mediante los cuales se comisione al personal que realice diligencias que le competan o los que le sean señalados por la Junta Directiva o por encomienda;
 
-XLIV.- Resolver y en su caso inscribir y revalidar en el registro de personas acreditadas las solicitudes de las personas físicas y morales interesadas en realizar trámites ante La Comisión, en los que se regula el acreditamiento de personalidad y otorgar las constancias respectivas de conformidad con las disposiciones aplicables;
+XLIV.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
-XLV.- Resolver los asuntos sobre autorizaciones, licencias, permisos, cesión de derechos y obligaciones, registro y demás actos relativos a sus atribuciones, así como sus respectivas modificaciones, suspensiones, cancelaciones, revocaciones o extinciones; de conformidad con las disposiciones jurídicas aplicables, siguiendo los lineamientos de carácter técnico administrativos establecidos en la Comisión;
+XLV.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
-XLVI.- Cumplir con lo dispuesto en la Ley de Acceso a la Información Pública del Estado de Sonora, atendiendo a través del responsable de la Unidad de Enlace designado, todas las solicitudes que realicen los ciudadanos a la Comisión;
+XLVI.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
 XLVII.- Coordinar las acciones necesarias para la implementación del Sistema Interno de Administración de documentos que permita contar con un archivo acorde a lo establecido en la Ley de Acceso a la Información Pública del Estado de Sonora y los lineamientos emitidos por el Instituto de Transparencia Informativa y de la Ley que Regula la Administración de documentos Administrativos e Históricos del Estado de Sonora;
 
-XLVIII.- Realizar las demás que se le asignen en otras disposiciones jurídicas, aplicables o las que expresamente le encomiende la Junta Directiva.
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XLVIII.- Llevar a cabo actos jurídicos, mecanismos o convenios con las dependencias y entidades de los Gobiernos Federal y Estatal, de las demás Entidades Federativas y de los Municipios del Estado, así como con los sectores social y privado y organizaciones nacionales e internacionales que sean necesarios para la realización conjunta y coordinada de acciones para mejorar y proteger al medio ambiente; y (sic)
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XLIX.- Designar a los Directores de áreas protegidas estatales; y
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XL.- Las demás que le confieran las disposiciones legales aplicables o las que expresamente le encomiende la Junta Directiva.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES GÉNERICAS DE LAS UNIDADES ADMINISTRATIVAS
 
-###### ARTÍCULO 15.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
-Los titulares de las Unidades Administrativas que constituyen la Comisión, tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables ante el Director General de la Comisión de su correcto funcionamiento; auxiliados en la atención y despacho de los asuntos a su cargo, por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de la Comisión.
+###### ARTICULO 15.
 
-Los titulares de las unidades administrativas tendrán las siguientes atribuciones genéricas:
+Los Directores Generales de las Unidades Administrativas que constituyen la Comisión tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables ante el Comisionado Ejecutivo de la Comisión de su correcto funcionamiento; auxiliados en la atención y despacho de los asuntos a su cargo, por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de la Comisión.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+
+Los Directores Generales de las unidades administrativas tendrán las siguientes atribuciones:
 
 I.- Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendadas a la Unidad Administrativa a su cargo;
 
 II.- Fomentar programas de superación y actualización del personal a su cargo, tomando en cuenta las necesidades de investigación, planes y programas de la Comisión;
 
-III.- Conducir sus actividades de acuerdo con los programas aprobados y las políticas que señale el Director General, para el logro de los objetivos y prioridades establecidos por la Comisión;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+III.- Conducir sus actividades de acuerdo con los programas aprobados y las políticas que señale el Comisionado Ejecutivo, para el logro de los objetivos y prioridades establecidos por la Comisión;
 
 IV.- Buscar la coordinación y colaboración con otros organismos e instituciones nacionales e internacionales, en asuntos de interés de la Comisión;
 
-V.- Rendir informes y formular dictámenes, estudios y opiniones que soliciten el Director General y la Coordinación Técnica, así como someter a su aprobación todos aquellos que se elaboren en la Unidad Administrativa a su cargo;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+V.- Rendir informes y formular dictámenes, estudios y opiniones que soliciten el Comisionado Ejecutivo y la Coordinación Técnica, así como someter a su aprobación todos aquellos que se elaboren en la Unidad Administrativa a su cargo;
 
 VI.- Proponer y difundir ante organismos locales, nacionales y extranjeros las actividades de investigación con el fin de lograr mayor presencia de la Comisión ante la comunidad científica;
 
@@ -279,31 +315,47 @@ VII.- Aplicar y vigilar el cumplimiento, de las leyes, reglamentos, decretos, ac
 
 VIII.- Someter a la consideración del Coordinador Técnico, los proyectos de actualización tecnológica y administrativa de la Unidad correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
 
-IX.- Evaluar e informar al Director General el grado de avance de los programas a su cargo, y coadyuvar en la formulación de los informes de actividades que se les solicite;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-X.- Proponer al Director General, la organización interna de la Unidad Administrativa a su cargo, de acuerdo a los requerimientos técnicos de sus funciones;
+IX.- Evaluar e informar al Comisionado Ejecutivo el grado de avance de los programas a su cargo, y coadyuvar en la formulación de los informes de actividades que se les solicite;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+X.- Proponer al Comisionado Ejecutivo, la organización interna de la Unidad Administrativa a su cargo, de acuerdo a los requerimientos técnicos de sus funciones;
 
 XI.- Controlar y vigilar el buen uso de los recursos materiales y todo tipo de bienes que forman parte del patrimonio de la Comisión, asignados a la Unidad Administrativa a su cargo;
 
-XII.- Establecer los mecanismos de coordinación, información, control, evaluación y mejoramiento de la eficiencia operativa de la Unidad Administrativa a su cargo de acuerdo con las disposiciones que emita el Director General;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XIII.- Elaborar el Programa Operativo Anual correspondiente al ámbito de su competencia, estableciendo las metas y objetivos a alcanzar e informar mensualmente a la Dirección General el avance y cumplimiento respectivo;
+XII.- Establecer los mecanismos de coordinación, información, control, evaluación y mejoramiento de la eficiencia operativa de la Unidad Administrativa a su cargo de acuerdo con las disposiciones que emita el Comisionado Ejecutivo;
 
-XIV.- Elaborar el anteproyecto del presupuesto de egresos e ingresos por programas que corresponda a su Unidad Administrativa y someterlo a la consideración del Director General y ejecutarlo conforme a las normas y lineamientos aplicables, asimismo, solicitar a su superior jerárquico las modificaciones y transferencias presupuestales de los recursos que sean necesarios para la ejecución de los programas a su cargo;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XIII.- Elaborar el Programa Operativo Anual correspondiente al ámbito de su competencia, estableciendo las metas y objetivos a alcanzar e informar mensualmente a la Comisión Ejecutiva el avance y cumplimiento respectivo;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XIV.- Elaborar el anteproyecto del presupuesto de egresos e ingresos por programas que corresponda a su Unidad Administrativa y someterlo a la consideración del Comisionado Ejecutivo y ejecutarlo conforme a las normas y lineamientos aplicables, asimismo, solicitar a su superior jerárquico las modificaciones y transferencias presupuestales de los recursos que sean necesarios para la ejecución de los programas a su cargo;
 
 XV.- Proponer la celebración de convenios de cooperación técnica y científica, con las Dependencias y Entidades de las Administraciones Públicas, Federal, Estatal y Municipal y con otras instituciones académicas o de investigación, nacionales o extranjeras;
 
 XVI.- Formular y proponer bases específicas de concertación de acciones con los grupos sociales y con particulares interesados, tendientes a la ejecución de los programas a cargo de la Comisión;
 
-XVII.- Participar en la definición de los criterios e indicadores internos de evaluación de la eficiencia en el cumplimiento de los objetivos y metas de la Comisión, así como someter a la consideración del Director General los proyectos de optimización de la Unidad Administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XVII.- Participar en la definición de los criterios e indicadores internos de evaluación de la eficiencia en el cumplimiento de los objetivos y metas de la Comisión, así como someter a la consideración del Comisionado Ejecutivo los proyectos de optimización de la Unidad Administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
 
 XVIII.- Intervenir en la evaluación, promoción y capacitación del personal de la Unidad Administrativa a su cargo; de acuerdo con las políticas vigentes en materia de administración y desarrollo de recursos humanos;
 
-XIX.- Representar al Director General en reuniones de su área y otras que se le asigne;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XIX.- Representar al Comisionado Ejecutivo en reuniones de su área y otras que se le asigne;
 
 XX.- Proponer de acuerdo a los mecanismos y normas vigentes, las promociones, licencias y recomendaciones del personal a cargo;
 
-XXI.- Proponer al Director General la actualización de tarifas por concepto de los servicios que otorga la Comisión, así como los derechos, sanciones y multas, derivado del incumplimiento a la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Sonora, sus reglamentos y demás disposiciones;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXI.- Proponer al Comisionado Ejecutivo la actualización de tarifas por concepto de los servicios que otorga la Comisión, así como los derechos, sanciones y multas, derivado del incumplimiento a la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Sonora, sus reglamentos y demás disposiciones;
 
 XXII.- Elaborar las estadísticas relativas a los asuntos, competencia de la unidad a su cargo y; (sic)
 
@@ -313,7 +365,9 @@ XXIV.- Formular, conforme a los lineamientos correspondientes, los proyectos de 
 
 XXV.- Implementar y mantener un Sistema Integral de Archivos, que contenga la documentación e información obligatoria de cada Unidad Administrativa, con el fin de dar cumplimiento a la Ley de Acceso a la Información Pública del Estado de Sonora y los lineamientos emitidos por el Instituto de Transparencia Informativa y la Ley que Regula la Administración de Documentos Administrativos e Históricos del Estado de Sonora; y
 
-XXVI.- Las demás que señale el Director General o le confieran otras disposiciones legales.
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXVI.- Las demás que señale el Comisionado Ejecutivo o le confieran otras disposiciones legales.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -323,7 +377,9 @@ Corresponde a la Coordinación Técnica las siguientes atribuciones:
 
 I.- Establecer los sistemas de control para la operación, regulación y supervisión de los programas y proyectos de ámbito de competencia de la Comisión;
 
-II.- Coordinar los mecanismos establecidos por el Director General, para la programación, y evaluación de las labores de las unidades administrativas que conforman a la Comisión, así como establecer mecanismos de integración e interrelación que propicien el óptimo desarrollo de sus responsabilidades;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+II.- Coordinar los mecanismos establecidos por el Comisionado Ejecutivo para la programación y evaluación de las labores de las unidades administrativas que conforman a la Comisión, así como establecer mecanismos de integración e interrelación que propicien el óptimo desarrollo de sus responsabilidades;
 
 III.- Supervisar la aplicación de estudios y diagnósticos relativos a la problemática ambiental local y/o regional del sector y proponer las alternativas de solución y prioridad de atención que requiera;
 
@@ -337,13 +393,19 @@ VII.- Prestar el apoyo técnico que se requiera para la definición de las polí
 
 VIII.- Vigilar el cumplimiento de las actividades y políticas de desarrollo de la Comisión;
 
-IX.- Coordinar las acciones de las propuestas del Director General en relación a la celebración de convenios de cooperación técnica y científica, con las Dependencias y Entidades de las Administraciones Públicas, Federal, Estatal y Municipal y con otras instituciones académicas o de investigación, nacionales o extranjeras;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+IX.- Coordinar las acciones de las propuestas del Comisionado Ejecutivo en relación a la celebración de convenios de cooperación técnica y científica, con las Dependencias y Entidades de las Administraciones Públicas, Federal, Estatal y Municipal y con otras instituciones académicas o de investigación, nacionales o extranjeras;
 
 X.- Asesorar técnicamente en asuntos de su especialidad a las Unidades Administrativas de la Comisión, así como proporcionar la información, los datos y la cooperación técnica que soliciten dichas unidades, de acuerdo con las políticas establecidas al respecto;
 
-XI.- Instrumentar la coordinación y colaboración entre las Unidades Administrativas de la Comisión y la Dirección General;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XII.- Apoyar técnicamente, al Director General en reuniones de su área y otras que se le asignen con motivo de sus funciones establecidas en este Reglamento y en las disposiciones jurídicas aplicables;
+XI.- Instrumentar la coordinación y colaboración entre las Unidades Administrativas de la Comisión y la Comisión Ejecutiva;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XII.- Apoyar técnicamente, al Comisionado Ejecutivo en reuniones de su área y otras que se le asignen con motivo de sus funciones establecidas en este Reglamento y en las disposiciones jurídicas aplicables;
 
 XIII.- Elaborar con la participación de las Unidades Administrativas de la Comisión, las políticas y los lineamientos internos de carácter técnico y administrativo, así como sistemas y procedimientos para desarrollar el proceso de planeación y mejora de capacidades institucionales, además de supervisar el cumplimiento de los objetivos, políticas, estrategias y metas de la Comisión;
 
@@ -353,25 +415,27 @@ XV.- Emitir opinión a las diversas Unidades Administrativa (sic), sobre la real
 
 XVI.- Diseñar criterios e instrumentos de vinculación, entre las diversas unidades, con el fin de mejorar las funciones de la Comisión;
 
-XVII.- Proponer al Director General en el ámbito de sus facultades, las políticas y lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos, conforme a los cuales, las Unidades Administrativas que le sean adscritas, desarrollarán los programas que le sean aprobados, así como los mecanismos de integración y coordinación necesarios entre las distintas unidades administrativas de su adscripción, para la realización de las acciones de su competencia;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XVII.- Proponer al Comisionado Ejecutivo en el ámbito de sus facultades, las políticas y lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos, conforme a los cuales, las Unidades Administrativas que le sean adscritas, desarrollarán los programas que le sean aprobados, así como los mecanismos de integración y coordinación necesarios entre las distintas unidades administrativas de su adscripción, para la realización de las acciones de su competencia;
 
 XVIII.- Supervisar los sistemas de control para la operación y regulación de los programas y proyectos establecidos por las diversas unidades que conforman a la Comisión y que se establezcan en el ámbito de su competencia;
 
 XIX.- Coordinar las acciones necesarias para que las Unidades Administrativas a su cargo, alimenten y actualicen periódicamente, el Sistema Integral de Archivos, para dar cumplimiento a la Ley de Acceso a la Información Pública del Estado de Sonora, así como a los lineamientos emitidos por el Instituto de Transparencia Informativa y la Ley que regula la Administración de Documentos Administrativos e Históricos del Estado de Sonora;
 
-XX.- Elaborar, instrumentar y ejecutar planes, programas y acciones con entidades de gobierno municipal, estatal y federal a efecto de promover programas de mejoramiento ambiental, educación ambiental y divulgación de la cultura ecológica;
+XX.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
 XXI.- Planear, dirigir, coordinar y evaluar los programas de la Comisión, relacionados con la educación ambiental y la promoción del desarrollo sustentable;
 
-XXII.- Proponer y conducir los planes y programas de mejoramiento y educación ambiental, que del quehacer de las distintas direcciones de la Comisión se deriven;
+XXII.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
-XXIII.- Coordinar el seguimiento y operación del Programa de Educación Ambiental para el Estado de Sonora;
+XXIII.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
-XXIV.- Desarrollar, promover y ejecutar el Programa Estatal de Reforestación coordinándose con los gobiernos municipales, apoyando las obras y actividades en materia de forestación y reforestación, que los sectores público, privado y social emprendan para el mejoramiento ambiental, desarrollando la logística necesaria para una operación eficaz;
+XXIV.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
-XXV.- Coordinar el Programa Estatal de Reforestación a través de la producción y desarrollo de especies nativas de la región y la producción de árboles para que sean distribuidas a la población;
+XXV.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
-XXVI.- Promover y desarrollar proyectos prioritarios de mejoramiento ambiental, así como gestionar su financiamiento y la aplicación de tecnologías ambientales sustentables en el ámbito estatal, municipal o regional;
+XXVI.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
 XXVII.- Planear programas de capacitación ambiental para los distintos niveles y sectores, privado, social y público;
 
@@ -379,15 +443,69 @@ XXVIII.- Promover el conocimiento de la normatividad existente, nacional y estat
 
 XXIX.- Planear y ejecutar eventos para el fomento del desarrollo sustentable, como foros, congresos, conferencias, charlas, exposiciones y encuentros;
 
-XXX.- Acordar con la Dirección General y la Dirección de Administración y Finanzas, la operación de programas de mejoramiento, educación y divulgación ambiental, proponiendo y analizando presupuestos hasta obtener la autorización de las instancias citadas;
+XXX.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
-XXXI.- Coordinar el proceso de mejora regulatoria integral de la Comisión y supervisar el cumplimiento de conformidad con los lineamientos que establece la Comisión de Mejora Regulatoria de Sonora, así como asumir las atribuciones que para tal efecto se establecen en la Ley de Mejora Regulatoria para el Estado de Sonora; y
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XXXII.- Las demás que señale el Director General o las que expresamente le encomiende la Junta Directiva.
+XXXI.- Coordinar el proceso de mejora regulatoria integral de la Comisión y supervisar el cumplimiento de conformidad con los lineamientos que establece la Comisión de Mejora Regulatoria de Sonora, así como asumir las atribuciones que para tal efecto se establecen en la Ley de Mejora Regulatoria para el Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXXII.- Atender, y en su caso, inscribir y revalidar, las solicitudes y acreditación de las personas físicas o morales, interesadas en prestar un servicio en materia ambiental ante la Comisión, en el registro;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXXIII.- Realizar los estudios, investigaciones o trabajos de carácter técnico o científico que coadyuven a la prevención y control de contaminación o a la mejora del desempeño ambiental de fuentes contaminantes y en obras o actividades industriales, comerciales o de servicios reservadas al Estado;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXXIV.- Atender, y en su caso inscribir y revalidar en el registro de personas acreditadas, las solicitudes de las personas físicas y morales interesadas en realizar trámites ante la Comisión, en los que se regula el acreditamiento de personalidad y otorgar las constancias respectivas de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXXV.- Recibir, registrar, llevar un control y distribuir toda la correspondencia, promociones, notificaciones y documentos dirigidos a la Comisión, en los libros o programa informático que para tal efecto se autoricen;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXXVI. - Expedir las constancias respecto de la recepción de los documentos que se hayan presentado ante la Comisión, a petición de parte interesada;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXXVII.- Dar seguimiento y vincular con las diferentes dependencias y entidades de la Administración Pública Estatal las propuestas, quejas y sugerencias de personas físicas o morales, públicas o privadas para el mejoramiento y simplificación de los procesos administrativos que se realizan en la Comisión;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXXVIII.- Atender y dar seguimiento de las quejas y denuncias ambientales, y/o en su caso turnar a la autoridad competente;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXXIX.- Solicitar a la Dirección General de Protección Ambiental lleve a cabo las diligencias necesarias para la comprobación de los hechos denunciados, así como para su evaluación correspondiente;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XL.- Diseñar y ejecutar los procedimientos informáticos que sean necesarios para el eficaz funcionamiento de las unidades administrativas y fungir como instancia interna de coordinación, administración, instrumentación y actualización de la publicación de información ambiental en el sitio de internet de la Comisión, y de los sistemas, de conformidad con disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XLI.- Formular y establecer los lineamientos y criterios para asegurar la integridad de la información y del sitio de internet de la Comisión; así como administrar, organizar, actualizar y difundir la información ambiental en coordinación con el área de Comunicación Social y las distintas unidades administrativas de la Comisión y evaluar conjuntamente la información contenida en los registros y generada por los sistemas estadísticos para adecuarla a los requerimientos de los usuarios;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XLII.- Coordinarse con el área administrativa para el manejo y control del archivo;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XLIII.- Notificar las diversas resoluciones administrativas derivadas de los procedimientos o actuaciones de inspección y vigilancia ambiental; así como los diversos actos administrativos que emanen de esta Comisión; y
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XLIV.- Las demás que le confieran las disposiciones legales aplicables o le señale el Comisionado Ejecutivo dentro del ámbito de su competencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 17.
 
-La Dirección de Conservación estará adscrita directamente a la Coordinación Técnica y tendrá las siguientes atribuciones:
+La Dirección General de Conservación estará adscrita directamente a la Comisión Ejecutiva y tendrá las siguientes atribuciones:
 
 I.- Formular, instrumentar y ejecutar programas, estrategias y acciones de evaluación, conservación, regulación y manejo de la biodiversidad y los recursos naturales para inducir un desarrollo sustentable de las actividades productivas, detener y de ser posible revertir el deterioro ambiental, mantener los servicios ambientales, permitir la continuidad de procesos ecológicos y evolutivos de la naturaleza, y preservar la integridad funcional de los distintos ecosistemas del Estado;
 
@@ -435,13 +553,27 @@ XXII.- Participar en consejos consultivos, comités y grupos colegiados en el an
 
 XXIII.- Alimentar y actualizar periódicamente, el Sistema Integral de Archivos, para dar cumplimiento a la Ley de Acceso a la Información Pública del Estado de Sonora, así como a los lineamientos emitidos por el Instituto de Transparencia Informativa y la Ley que Regula la Administración de Documentos Administrativos e Históricos del Estado de Sonora;
 
-XXIV.- Proponer al Director General la política de comunicación de la Comisión relativa a promover una cultura para la conservación, la protección, el manejo y aprovechamiento sustentable y restauración de los ecosistemas y su biodiversidad en el Estado;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XXV.- Las demás que le confieran las disposiciones legales aplicables del Director General de la Comisión en su ámbito de competencia y la esfera de sus atribuciones; (sic)
+XXIV.- Proponer al Comisionado Ejecutivo la política de comunicación de la Comisión relativa a promover una cultura para la conservación, la protección, el manejo y aprovechamiento sustentable y restauración de los ecosistemas y su biodiversidad en el Estado;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXV.- Establecer el Registro Estatal de áreas Naturales Protegidas;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXVI.- Emitir dictamen de congruencia con las políticas y aptitud del suelo del Programa de Ordenamiento Ecológico Territorial de las costas del Estado de Sonora; y
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXVII.- Las demás que le confieran las disposiciones legales aplicables, y el Comisionado Ejecutivo de la Comisión en su ámbito de competencia y la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 18.
 
-La Dirección de Protección Ambiental estará adscrita a la Coordinación Técnica y tendrá las siguientes atribuciones:
+La Dirección General de Protección Ambiental estará adscrita a la Coordinación Técnica y tendrá las siguientes atribuciones:
 
 I.- Apoyar en la formulación, ejecución y evaluación del Programa Estatal de Ecología y Protección al Ambiente, dentro de su área de competencia y responsabilidad;
 
@@ -473,9 +605,11 @@ XIV.- Realizar actividades de gestión dirigidas a obtener apoyos financieros, e
 
 XV.- Apoyar a las Unidades Administrativas de la Comisión, que desarrollen investigación, manejo o exhibición de especies vegetales y animales silvestres, auditar su desempeño en el cumplimiento de la normatividad en materia de prevención y control de la contaminación ambiental, y manejo de flora y fauna silvestre;
 
-XVI.- Participar de manera coordinada con la Dirección de Administración y Finanzas, la Coordinación Técnica y la Unidad de Enlace y Asuntos Jurídicos en la elaboración y actualización del tabulador para la fijación del costo por concepto de multas o sanciones administrativas impuestas por incumplimiento a la normatividad ambiental, materia de la Comisión;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XVII.- Notificar las resoluciones administrativas derivadas de los procedimientos o actuaciones de inspección y vigilancia ambiental dictadas por la Comisión en materia de su competencia;
+XVI.- Participar de manera coordinada con la Dirección General de Administración y Finanzas, la Coordinación Técnica y la Unidad de Enlace y Asuntos Jurídicos en la elaboración y actualización del tabulador para la fijación del costo por concepto de multas o sanciones administrativas impuestas por incumplimiento a la normatividad ambiental, materia de la Comisión;
+
+XVII.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
 XVIII.- Formular los manuales de procedimientos para la realización de inspección, verificación y dictaminación técnica en materia de su competencia;
 
@@ -485,7 +619,9 @@ XX.- Substanciar y tramitar los procedimientos administrativos en general, cuya 
 
 XXI.- Suscribir las resoluciones administrativas derivadas del procedimiento administrativo, proveyendo conforme a derecho y emitiendo para ello los acuerdos y resoluciones correspondientes imponiendo las sanciones y medidas que procedan;
 
-XXII.- Acordar la admisión o no admisión, de los recursos de revisión que se interpongan en contra de los actos que emita, así como otorgar o denegar la suspensión del acto recurrido, proveyendo sobre la admisibilidad de los medios probatorios ofrecidos, conforme a la ley aplicable, así como tener por presentadas las solicitudes de conmutación, revocación o modificación de multas turnándolos en su caso al Director General, para la formulación de la resolución que le corresponde emitir;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXII.- Acordar la admisión o no admisión, de los recursos de revisión que se interpongan en contra de los actos que emita, así como otorgar o denegar la suspensión del acto recurrido, proveyendo sobre la admisibilidad de los medios probatorios ofrecidos, conforme a la ley aplicable, así como tener por presentadas las solicitudes de conmutación, revocación o modificación de multas turnándolos en su caso al Comisionado Ejecutivo, para la formulación de la resolución que le corresponde emitir;
 
 XXIII.- Elaborar los informes previos y justificados que en materia de amparo deban rendir los servidores públicos adscritos a la Dirección de Protección Ambiental, cuando sean señalados como Autoridades responsables, intervenir cuando la Comisión tenga el carácter de tercero perjudicado, interponer todos y cada uno de los recursos que procedan en dicho juicio, ofrecer, presentar y desahogar pruebas, formular alegatos así como realizar cualquier acto en el juicio de amparo que sea necesario para la defensa de los intereses de la Comisión;
 
@@ -493,33 +629,47 @@ XXIV.- Representar legalmente a la Cedes en la contestación de las demandas que
 
 XXV.- Participar con la Coordinación Técnica y la Unidad de Enlace y Asuntos Jurídicos en la coordinación de la descentralización de funciones de inspección y vigilancia, en las materias a que se refiere la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Sonora;
 
-XXVI.- Formular los dictámenes técnicos derivados de las actos de inspección y vigilancia ambiental, cuando exista riesgo inminente de daños o deterioro grave a los ecosistemas, de desequilibrio ecológico a casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o a la salud pública, así como las medidas de urgente aplicación, señalando los plazos para su cumplimiento;
+XXVI.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
-XXVII.- Realizar los estudios, investigaciones o trabajos de carácter técnico o científico que coadyuven a la prevención y control de contaminación o a la mejora del desempeño ambiental de fuentes contaminantes y en obras o actividades industriales, comerciales o de servicio reservadas al Estado;
+XXVII.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
-XXVIII.- Promover cursos de capacitación y actualización al personal de la Dirección de Protección Ambiental en las materias de su competencia;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXVIII.- Promover cursos de capacitación y actualización al personal de la Dirección General de Protección Ambiental en las materias de su competencia;
 
 XXIX.- Proporcionar a las dependencias del gobierno estatal o federal y gobiernos municipales cuando así lo soliciten, asesoría y apoyo técnico en las materias de competencia de la Comisión;
 
 XXX.- Verificar emisiones o descargas de contaminantes ambientales en fuentes de jurisdicción Estatal, en su caso, por sí misma o a través de terceros realizar muestreo perimetral o en ductos y chimenea necesarios para dar seguimiento al cumplimiento de las acciones preventivas y correctivas resultantes de la inspección ambiental;
 
-XXXI.- Solicitar, en su caso al Director General, la revocación, modificación, suspensión o cancelación de autorizaciones, permisos, licencias o concesiones conforme a la legislación aplicable en la materia;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XXXII.- Las demás que le confieran las disposiciones legales aplicables y el Director General dentro de la esfera de sus atribuciones.
+XXXI.- Solicitar al Director General de Gestión Ambiental la revocación, modificación, suspensión o cancelación de autorizaciones, permisos, licencias o concesiones conforme a la legislación aplicable en la materia; y
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXXII.- Las demás que le confieran las disposiciones legales aplicables y el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 19.
 
-La Dirección de Gestión Ambiental estará adscrita a la Coordinación Técnica y tendrá las siguientes atribuciones:
+La Dirección General de Gestión Ambiental estará adscrita a la Coordinación Técnica y tendrá las siguientes atribuciones:
 
 I.- Participar en la formulación, ejecución y evaluación de la política ambiental del Estado, dentro del área de su competencia y responsabilidad;
 
 II.- Aplicar la política general sobre impacto y riesgo ambiental, residuos de manejo especial, así como de la protección al ambiente;
 
-III.- Evaluar y proponer la resolución de las solicitudes de autorizaciones, permisos, licencias y similares en materia de impacto y riesgo ambiental, residuos de manejo especial, así como de la protección al ambiente y aquellas que se descentralicen de la Federación al Estado;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-IV.- Llevar a cabo las visitas de verificación de información y documentación contenida en las distintas solicitudes de autorizaciones, permisos, licencias y similares en materia de impacto y riesgo ambiental, residuos de manejo especial, así como de la protección al ambiente y aquellas que se descentralicen de la Federación al Estado;
+III.- Evaluar y resolver solicitudes de autorizaciones, permisos, licencias y similares en materia ambiental y aquellas que se descentralicen de la Federación al Estado;
 
-V.- Evaluar y proponer al Director General el costo beneficio que implica encargarse de los servicios que descentraliza el Gobierno Federal en el Estado de Sonora, apegados a las disposiciones jurídicas aplicables y a los lineamientos de carácter técnico y administrativo, sistemas y procedimientos establecidos en los acuerdos y convenios correspondientes con las Secretarías del Gobierno Federal;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+IV.- Programar, ordenar y realizar las visitas de verificación de información y documentación contenida en las distintas solicitudes de autorizaciones, permisos, licencias y similares en materia de impacto y riesgo ambiental, residuos de manejo especial, así como de la protección al ambiente y aquellas que se descentralicen de la Federación al Estado;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+V.- Evaluar y proponer al Comisionado Ejecutivo el costo beneficio que implica encargarse de los servicios que descentraliza el Gobierno Federal en el Estado de Sonora, apegados a las disposiciones jurídicas aplicables y a los lineamientos de carácter técnico y administrativo, sistemas y procedimientos establecidos en los acuerdos y convenios correspondientes con las Secretarías del Gobierno Federal;
 
 VI.- Desarrollar criterios ecológicos y demás disposiciones de observancia general que resulten necesarias para proveer, en su esfera administrativa, a la exacta observancia de la legislación ambiental;
 
@@ -527,13 +677,17 @@ VII.- Evaluar y resolver las solicitudes de autorización de quemas a cielo abie
 
 VIII.- Evaluar y emitir la resolución de informes de cumplimiento de condiciones requeridas por la Comisión en las distintas autorizaciones, permisos, licencias y similares en materia de impacto y riesgo ambiental, residuos de manejo especial, así como de la protección al ambiente;
 
-IX.- Apoyar a la Dirección de Conservación y la Dirección General de Protección al Ambiente en los programas a su cargo;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+IX.- Apoyar a la Dirección General de Conservación y la Dirección General de Protección Ambiental en los programas a su cargo;
 
 X.- Administrar, organizar y difundir la información del Sistema Estatal de Información Ambiental;
 
 XI.- Participar y apoyar a los municipios de la Entidad en la elaboración de sus programas de calidad ambiental y en la gestión del monitoreo de contaminantes;
 
-XII.- Proponer a la Dirección General estrategias y políticas en materia de calidad ambiental;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XII.- Proponer a la Comisión Ejecutiva estrategias y políticas en materia de calidad ambiental;
 
 XIII.- Participar en coordinación con otras autoridades el diseño, establecimiento y seguimiento de programas de contingencias ambientales;
 
@@ -541,19 +695,73 @@ XIV.- Elaborar y actualizar un inventario de fuentes fijas de jurisdicción esta
 
 XV.- Supervisar y evaluar la certificación de los nuevos aspirantes interesados en realizar trámites ante la Comisión, así como lo relativo al refrendo estatal de los prestadores de servicios que realicen estudios de impacto ambiental;
 
-XVI.- Integrar, actualizar y difundir el registro estatal de los prestadores de servicios que realicen estudios de impacto ambiental; y
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XVII.- Las demás que le confieran las disposiciones legales aplicables y el Director General dentro del ámbito de su competencia.
+XVI.- Integrar, actualizar y difundir el registro estatal de los prestadores de servicios que realicen estudios de impacto ambiental;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XVII.- Emitir las resoluciones relativas a los asuntos sobre autorizaciones, licencias, permisos, cesión de derechos y obligaciones, registro y demás actos relativos a sus atribuciones, así como sus respectivas modificaciones, suspensiones, cancelaciones, revocaciones o extinciones a petición de parte interesada; de conformidad con las disposiciones jurídicas aplicables, siguiendo los lineamientos de carácter técnico administrativos establecidos por la Comisión;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XVIII.- Acordar la admisión o no admisión, de los recursos de inconformidad que se interpongan en contra de los actos que emita, así como otorgar o denegar la suspensión del acto recurrido, proveyendo sobre la admisibilidad de los medios probatorios ofrecidos, conforme a la Ley aplicable, turnándolo en su caso al Comisionado Ejecutivo, para la formulación de la resolución que le corresponda emitir;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XIX.- Representar legalmente a la Comisión en la contestación de las demandas que tenga que presentar en los Juicios Contenciosos Administrativos, ante el Tribunal de lo Contencioso Administrativo del Estado de Sonora, cuando se impugnen resoluciones administrativas emitidas en el ejercicio de sus atribuciones, interponiendo todos y cada uno de los recursos que procedan en dicho juicio, ofrecer e intervenir en el desahogo de pruebas y formulación de alegatos y realizar cualquier otro acto que resulte necesario para la defensa de los intereses de la Comisión; y
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XX.- Las demás que le confieran las disposiciones legales aplicables o le señale el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 19 BIS.- Corresponden a la Dirección General de Programas de Mejoramiento Ambiental, dependiente de la Comisión Ejecutiva, las siguientes atribuciones:
+
+I.- Elaborar, instrumentar y ejecutar programas y acciones con entidades de los gobiernos municipales, estatal y federal, a efecto de promover programas de mejoramiento ambiental, educación ambiental y divulgación de la cultura ecológica;
+
+II.- Planear, dirigir, coordinar y evaluar los programas de la Comisión, relacionados con la promoción del desarrollo sustentable;
+
+III.- Proponer y conducir los programas de mejoramiento ambiental de las distintas Direcciones de la Comisión que según de sus atribuciones se deriven;
+
+IV.- Desarrollar, promover y ejecutar el Programa Estatal de Reforestación, a través de la producción y desarrollo de especies nativas de la región, coordinándose con los gobiernos municipales y federal, apoyando las obras y actividades en materia de forestación y reforestación que los sectores público, privado y social emprendan para el mejoramiento ambiental, desarrollando la logística necesaria para una operación eficaz;
+
+V.- Dirigir y supervisar la producción y promover la distribución, cuidado y mantenimiento de especies forestales y ornamentales del vivero de la Comisión;
+
+VI.- Custodiar el patrimonio adscrito al vivero de la Comisión;
+
+VII.- Verificar y evaluar la producción de plantas atendiendo a la demanda prevista, llevando un inventario permanente de las especies existentes;
+
+VIII.- Planificar la producción, atención, distribución y expedición de plantas, semillas y material de multiplicación a cargo de la Comisión; así como programar la recolección, acondicionamiento y expedición de semillas de especies nativas y adaptadas;
+
+IX.- Intervenir en la implementación de técnicas conducentes a la conservación, recuperación y mejoramiento de la flora nativa a través de un manejo sustentable;
+
+X.- Coordinar la obtención y distribución de semillas forestales y acciones para las siembras, distribución y donaciones;
+
+XI.- Emitir recomendaciones sobre los posibles impactos derivados de la introducción de especies de flora;
+
+XII.- Proponer a la Comisión Ejecutiva la firma de acuerdos o convenios de coordinación para promover, mejorar y proteger la producción de semillas y plantas nativas en viveros y fomentar el uso de las de mejor calidad;
+
+XIII.- Promover y desarrollar proyectos prioritarios de mejoramiento ambiental, así como gestionar su financiamiento y la aplicación de tecnologías ambientales sustentables en el ámbito estatal, municipal o regional;
+
+XIV.- Acordar con la Comisión Ejecutiva y la Dirección de Administración y Finanzas la operación de programas de mejoramiento, proponiendo y analizando presupuestos hasta obtener la autorización de las instancias citadas; y
+
+XV.- Las demás que le confieran las disposiciones legales aplicables y el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 20.
 
-Corresponde a la Dirección General del Centro Ecológico, dependiente de la Dirección General, las siguientes atribuciones:
+Corresponde a la Dirección General del Centro Ecológico, dependiente de la Comisión Ejecutiva, las siguientes atribuciones:
 
 I.- Instrumentar y ejecutar los planes, programas y acciones autorizadas para la operación del Centro Ecológico;
 
 II.- Promover y difundir la cultura y valores para la protección y conservación de especies silvestres, a través de un parque de exhibiciones de flora y fauna nativas y exóticas;
 
-III.- Gestionar, regularizar y renovar según se requiera, las solicitudes, permisos, autorizaciones, concesiones, donaciones, intercambios, compra, venta defunciones y reportes relacionadas con la operación de la Dirección del Centro Ecológico en materia de manejo seguro y exhibición de especies silvestres o exóticas en cautiverio;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+III.- Gestionar, regularizar y renovar según se requiera, las solicitudes, permisos, autorizaciones, concesiones, donaciones, intercambios, compra, venta, defunciones y reportes relacionadas con la operación de la Dirección General del Centro Ecológico en materia de manejo seguro y exhibición de especies silvestres o exóticas en cautiverio;
 
 IV.- Planear, coordinar y ejecutar acciones estratégicas de promoción y difusión en el ámbito local, estatal, nacional e internacional sobre los servicios que ofrece el Centro Ecológico;
 
@@ -575,13 +783,19 @@ XII.- Elaborar, coordinar y operar, un programa preventivo y correctivo de atenc
 
 XIII.- Coordinar y supervisar las labores de vigilancia, alimentación y saneamiento de las áreas de exhibición de especies en cautiverio;
 
-XIV.- Planear, coordinar, organizar, dirigir y evaluar los servicios generales de aseo, intendencia, mantenimiento de instalaciones y equipo, sistemas de comunicaciones y demás que requieran las áreas operativas de la Dirección del Centro Ecológico;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XIV.- Planear, coordinar, organizar, dirigir y evaluar los servicios generales de aseo, intendencia, mantenimiento de instalaciones y equipo, sistemas de comunicaciones y demás que requieran las áreas operativas de la Dirección General del Centro Ecológico;
 
 XV.- Aplicar, supervisar y coordinar la operación, mantenimiento y mejora continúa del jardín botánico interior y exterior y todo lo relacionado a paisajismo del Centro Ecológico;
 
-XVI.- Establecer normas y procedimientos de seguridad orientados a la prevención y control de accidentes, así como para el cuidado de la salud e integridad física del personal que labora en la Dirección del Centro Ecológico;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XVII.- Fortalecer la infraestructura de apoyo a las acciones de divulgación científica, tecnológica y de educación ambiental que desarrollen las Direcciones de Conservación, Gestión y Protección Ambiental de la Comisión;
+XVI.- Establecer normas y procedimientos de seguridad orientados a la prevención y control de accidentes, así como para el cuidado de la salud e integridad física del personal que labora en la Dirección General del Centro Ecológico;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XVII.- Fortalecer la infraestructura de apoyo a las acciones de divulgación científica, tecnológica y de educación ambiental que desarrollen las Direcciones Generales de Conservación, Gestión y Protección Ambiental de la Comisión;
 
 XVIII.- Operar y mantener actualizada la biblioteca, el banco de datos y los archivos que contienen la información del sistema de acceso a la información;
 
@@ -591,15 +805,39 @@ XX.- Planear y ejecutar los estudios y tareas complementarias para la gestión d
 
 XXI.- Realizar estudios de carácter técnico y científico orientados a mejorar el desarrollo biológico y cuidado de especies silvestres bajo condiciones de cautiverio;
 
-XXII.- Supervisar y asegurar que el establecimiento y desarrollo de exhibiciones de ejemplares de especies silvestres nativas y exóticas, cumplan con las condiciones representativas de su hábitat natural y que hayan sido autorizadas por la Dirección General, por conducto de la Unidad Administrativa competente de la Comisión; y
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XXIII.- Las demás que le confieran las disposiciones legales aplicables y el Director General dentro de la esfera de sus atribuciones; (sic)
+XXII.- Supervisar y asegurar que el establecimiento y desarrollo de exhibiciones de ejemplares de especies silvestres nativas y exóticas, cumplan con las condiciones representativas de su hábitat natural y que hayan sido autorizadas por la Comisión Ejecutiva, por conducto de la Unidad Administrativa competente de la Comisión;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXIII.- Coordinar el seguimiento y operación del Programa de Educación Ambiental para el Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXIV.- Elaborar, instrumentar y ejecutar programas y acciones con entidades de los gobiernos municipales, estatal y federal, a efecto de promover programas de educación ambiental y divulgación de la cultura ecológica;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXV.- Acordar con la Comisión Ejecutiva y la Dirección de Administración y Finanzas, la operación de programas de educación y divulgación ambiental, proponiendo y analizando presupuestos hasta obtener la autorización de las instancias citadas;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXVI.- Proponer y conducir los programas de educación ambiental, que de las distintas Direcciones de la Comisión se deriven según sus atribuciones; y
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXVII.- Las demás que le confieran las disposiciones legales aplicables o le señale el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 21.
 
-Corresponde a la Dirección del Delfinario, dependiente de la Dirección General, las siguientes atribuciones:
+Corresponde a la Dirección General del Delfinario, dependiente de la Comisión Ejecutiva, las siguientes atribuciones:
 
-I.- Instrumentar y ejecutar los programas de desarrollo de la instalación, de atención al público, de operación y mantenimiento de instalaciones y los programas de actividades específicas correspondientes para asegurar la ejecución de las tareas de atención a pacientes, de presentaciones públicas, prestación de servicios e investigación técnica y científica;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+I.- Instrumentar y ejecutar los programas de atención al público, de operación, mantenimiento, conservación y preservación de instalaciones, de programas de actividades específicas correspondientes para asegurar la ejecución de las tareas de atención a pacientes, de presentaciones públicas, prestación de servicios e investigación técnica y científica;
 
 II.- Planear, dirigir, coordinar y evaluar la operación de las áreas de exhibición a cubierto y descubierto, terapia, soporte de vida, interacción con el público, investigación y mercadotecnia;
 
@@ -613,11 +851,15 @@ VI.- Establecer estrategias y procedimientos orientados a la prevención de ries
 
 VII.- Establecer y ejecutar procedimientos o técnicas para domesticar, entrenar y adiestrar mamíferos marinos, propiedad de la Comisión, que puedan ser destinados a la exhibición o terapia de humanos o que puedan tener o ser sometidos al contacto humano directo;
 
-VIII.- Elaborar, en coordinación con la Dirección de Administración y finanzas los manuales de organización y procedimientos de operación del Delfinario y su mantenimiento, conservación y preservación del inmueble;
+VIII.- (DEROGADA, B.O. 17 DE AGOSTO DE 2009)
 
-IX.- Supervisar y evaluar la eficiencia de las tareas regulares de operación, reparación y mantenimiento de edificios, instalaciones, equipo y maquinaria, según los lineamientos emitidos por la Dirección de Administración y Finanzas;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-X.- Planear, coordinar, ejecutar y evaluar la ejecución de los programas educativos y de divulgación de la cultura de protección y conservación de ambientes marinos aprobados por la Dirección General; implementando para ello la creación de infraestructura y equipamiento correspondiente;
+IX.- Supervisar y evaluar la eficiencia de las tareas regulares de operación, reparación y mantenimiento de edificios, instalaciones, equipo y maquinaria, según los lineamientos emitidos por la Dirección General de Administración y Finanzas;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+X.- Planear, coordinar, ejecutar y evaluar la ejecución de los programas educativos y de divulgación de la cultura de protección y conservación de ambientes marinos aprobados por la Comisión Ejecutiva; implementando para ello la creación de infraestructura y equipamiento correspondiente;
 
 XI.- Proponer dirigir y ejecutar la realización de proyectos de investigación, sugiriendo líneas de acción acordes a las funciones propias del delfinario, responsabilizándose de la ejecución de las tareas correspondientes a los programas de investigación que le sean autorizados;
 
@@ -625,19 +867,27 @@ XII.- Procurar y facilitar la vinculación, coordinación y apoyos con Instituci
 
 XIII.- Apoyar los eventos especiales de la Comisión, proporcionando los recursos materiales y humanos disponibles;
 
-XIV.- Administrar en coordinación con la Dirección de Administración y Finanzas, los programas, operaciones y control de ingresos recibidos por los servicios prestados, con estricto apego a los términos de las obligaciones legales y normas oficiales correspondientes e impulsar acciones de promoción financiera para fines de avanzar en su auto-sostenimiento;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XIV.- Establecer, bajo la supervisión de la Dirección General de Administración y Finanzas, los programas, operaciones y control de ingresos recibidos por los servicios prestados, con estricto apego a los términos de las obligaciones legales y normas oficiales correspondientes e impulsar acciones de promoción financiera para fines de avanzar en su auto-sostenimiento;
 
 XV.- Verificar el cumplimiento de trámites y obligaciones jurídicas de orden ambiental privilegiando el uso sustentable de los recursos de vida silvestre bajo su resguardo y la prevención y control de la contaminación del medio;
 
 XVI.- Verificar que el equipo, instalaciones y procedimientos empleados para la exhibición, entrenamiento cuarentena, atención veterinaria, resguardo captura, y transporte de ejemplares vivos se realicen de forma tal que se evite o disminuya la tensión, sufrimiento, traumatismo y dolor que pudiera ocasionárseles;
 
-XVII.- Asegurar que el establecimiento y desarrollo de exhibición de especies, cumplan con las condiciones representativas de su hábitat natural y que hayan sido autorizadas por la Dirección General; y
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XIVIII (SIC).- Las demás que le confieran las disposiciones legales aplicables y el Director General dentro de la esfera de sus atribuciones.
+XVII.- Asegurar que el establecimiento y desarrollo de exhibición de especies, cumplan con las condiciones representativas de su hábitat natural y que hayan sido autorizadas por la Comisión Ejecutiva; y
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XVIII.- Las demás que le confieran las disposiciones legales aplicables y el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 22.
 
-Corresponden a la Dirección de Administración y Finanzas, dependiente de la Dirección General, las siguientes atribuciones:
+Corresponden a la Dirección General de Administración y Finanzas, dependiente de la Comisión Ejecutiva, las siguientes atribuciones:
 
 I.- Coordinar la integración, actualización y avance trimestral del Programa Institucional, del Programa Operativo Anual y del Programa Financiero a cargo de la Comisión;
 
@@ -645,9 +895,13 @@ II.- Coordinar la integración, consolidación, control y ejecución del presupu
 
 III.- Elaborar y presentar de manera global y calendarizada el presupuesto de ingresos y egresos, revisando mensualmente las desviaciones que éste sufra;
 
-IV.- Elaborar mensualmente los estados financieros de la Comisión y proporcionar oportunamente a la Dirección General, la información contable y financiera que le permita conocer la situación que guarda la Comisión para la adecuada toma de decisiones;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-V.- Elaborar trimestralmente los informes financieros para su presentación ante la Secretaría de Hacienda, Junta Directiva y Dirección General de la Comisión;
+IV.- Elaborar mensualmente los estados financieros de la Comisión y proporcionar oportunamente a la Comisión Ejecutiva, la información contable y financiera que le permita conocer la situación que guarda la Comisión para la adecuada toma de decisiones;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+V.- Elaborar trimestralmente los informes financieros para su presentación ante la Secretaría de Hacienda, junta Directiva y Comisión Ejecutiva de la Comisión;
 
 VI.- Coadyuvar en el desarrollo de las acciones de optimización y eficiencia, mediante la implementación de sistemas, técnicas y/o herramientas de apoyo administrativo;
 
@@ -659,15 +913,23 @@ IX.- Administrar y controlar los recursos humanos en coordinación con los funci
 
 X.- Integrar el Programa Anual de Adquisiciones, Arrendamientos y Servicios que se requiera tanto del presupuesto oficial, como otras fuentes de ingresos, necesarios para la operación de la Comisión;
 
-XI.- Tramitar, previa autorización de la Dirección General, la contratación de los servicios de apoyo que se requieran para alcanzar los objetivos de la Comisión;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XI.- Tramitar, previa autorización de la Comisión Ejecutiva, la contratación de los servicios de apoyo que se requieran para alcanzar los objetivos de la Comisión;
 
 XII.- Supervisar la elaboración de las nóminas ordinarias y extraordinarias producto de Convenios, Contratos y/o asesorías que obtengan a través de la Comisión, así como de otros ingresos para pago de personal, de acuerdo a los lineamientos y normatividad aplicable;
 
-XIII.- Solicitar anualmente a los titulares de las Unidades Administrativas el anteproyecto de Presupuestos de Ingresos y Egresos, a fin de consolidarlos y someterlo a consideración de la Dirección General;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XIV.- Administrar y controlar las áreas de Comercialización de las Direcciones del Centro Ecológico y del Delfinario Sonora, a fin de asegurar que los ingresos por concepto de cobro de entradas, venta de alimentos, souvenir y demás servicios que se otorguen, se depositen en tiempo y forma a las cuentas bancarias de la Comisión;
+XIII.- Solicitar anualmente a los Directores Generales de las Unidades Administrativas el anteproyecto de presupuestos de ingresos y egresos, a fin de consolidarlos y someterlo a consideración de la Comisión Ejecutiva;
 
-XV.- Administrar y controlar los ingresos generados por concepto de servicios ambientales que proporcionaran las Direcciones de Protección y Gestión Ambiental y determinar la cuenta concentradora en donde se captaran dichos recursos;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XIV.- Administrar y controlar el área de Comercialización de las Direcciones Generales del Centro Ecológico y del Delfinario, a fin de asegurar que los ingresos por concepto de cobro de entradas, venta de alimentos, souvenir y demás servicios que se otorguen, se depositen en tiempo y forma a las cuentas bancarias de la Comisión;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XV.- Administrar y controlar los ingresos generados por concepto de servicios ambientales y tramitar su recuperación ante la Secretaría de Hacienda;
 
 XVI.- Coordinar y supervisar la actualización del tabulador por pago de derechos por concepto del otorgamiento de concesiones, permisos, licencias y en general por toda autorización que se otorgue por la Comisión, para la realización de actividades comerciales, industriales y de servicios, o para el aprovechamiento de recursos naturales a que se refiera, solicitadas por la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos o cualquier actividad que afecte o pueda afectar el ambiente o causar desequilibrio ecológico;
 
@@ -681,13 +943,27 @@ XX.- Instrumentar el proceso de modernización de los sistemas y equipos inform�
 
 XXI.- Incorporar al portal de transparencia, en su página de Internet toda la información que señala como obligación los artículos 14 y 17 de la Ley de Acceso a la Información Pública del Estado de Sonora y mantenerla actualizada;
 
-XXII.- Establecer los mecanismos de control necesarios para implementar el Sistema Integral de Archivo y mantenerlo actualizado, para la conservación y preservación de la documentación pública que se genera en la Comisión; y
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XXIII.- Las demás que le confieran las disposiciones legales aplicables y el Director General dentro de la esfera de sus atribuciones.
+XXII.- Guardar y custodiar los contratos que celebre la Comisión con los proveedores y prestadores de servicio, que afecten la situación financiera de la Comisión.
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXIII.- Establecer los mecanismos de control necesarios para implementar el Sistema Integral de Archivo y mantenerlo actualizado, para la conservación y preservación de la documentación pública que se genera en la Comisión;
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXIV.- Evaluar y proponer en forma periódica la actualización de precios y tarifas de los productos y servicios que ofrecen el Centro Ecológico y el Delfinario, considerando la tasa de inflación anual y el costo que representa la venta de productos; y
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXV.- Las demás que le confieran las disposiciones legales aplicables o le señale el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 23.
 
-Corresponde a la Unidad de Enlace y Asuntos Jurídicos, dependiente de la Dirección General, las siguientes atribuciones:
+Corresponde a la Unidad de Enlace y Asuntos Jurídicos, dependiente de la Comisión Ejecutiva, las siguientes atribuciones:
 
 I.- Fungir como vínculo único entre el solicitante de información pública de la Comisión y sus Unidades Administrativas y encargarse de recibir y tramitar y notificar las solicitudes de acceso a la información, de conformidad con lo establecido en los artículos 46, 47 y 48 de los Lineamientos Generales para el Acceso a la Información Pública del Estado de Sonora;
 
@@ -697,25 +973,43 @@ III.- Orientar y auxiliar a las personas en la elaboración y entrega de las sol
 
 IV.- Realizar los trámites y gestiones ante la Unidad Administrativa correspondiente para entregar la información solicitada y efectuar las notificaciones correspondientes;
 
-V.- Representar al Director General o a los titulares de las Unidades Administrativas en toda clase de procedimientos administrativos y judiciales en los que tengan interés legal, ofreciendo, presentando y, en su caso, desahogando todo tipo de pruebas y dando contestación y seguimiento a las demandas y reclamaciones en general que lleguen a formularse en su contra o de la Comisión;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-VI.- Apoyar al Director General y Director de Protección Ambiental en la elaboración de los informes previos y justificados a su cargo, así como de los servidores públicos adscritos a la Comisión cuando sean señalados como Autoridades responsables, en el ofrecimiento y presentación y desahogo de pruebas y alegatos, en los recursos que deban interponerse en el juicio de amparo y en la realización de cualquier acto en dicho juicio que sea necesario para la defensa de los intereses de la Comisión;
+V.- Representar al Comisionado Ejecutivo o a los Directores Generales de las Unidades Administrativas en toda clase de procedimientos administrativos y judiciales en los que tengan interés legal, ofreciendo, presentando y, en su caso, desahogando todo tipo de pruebas y dando contestación y seguimiento a las demandas y reclamaciones en general que lleguen a formularse en su contra o de la Comisión;
 
-VII.- Revisar las resoluciones administrativas que deban suscribir el Director General en el ejercicio de las atribuciones que le confieren las disposiciones legales que integran el marco legal de la Comisión;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+VI.- Apoyar al Comisionado Ejecutivo y a las unidades administrativas de la Comisión en la elaboración de los informes previos y justificados a su cargo, así como de los servidores públicos adscritos a la Comisión cuando sean señalados como autoridades responsables, en el ofrecimiento y presentación y desahogo de pruebas y alegatos, en los recursos que deban interponerse en el juicio de amparo y en la realización de cualquier acto en dicho juicio que sea necesario para la defensa de los intereses de la Comisión;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+VII.- Revisar las resoluciones administrativas que deban suscribir el Comisionado Ejecutivo en el ejercicio de las atribuciones que le confieren las disposiciones legales que integran el marco legal de la Comisión;
 
 VIII.- Revisar y emitir opinión respecto de los acuerdos, convenios, contratos, circulares y demás instrumentos públicos en que deba intervenir la Comisión, así como emitir opinión respecto de su formulación, otorgamiento, revocación, rescisión, modificación o terminación anticipada que celebre;
 
-IX.- Guardar y custodiar los acuerdos, convenios, contratos, circulares y demás instrumentos públicos en los que intervenga la Comisión y las unidades administrativas que agrupa la Comisión;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-X.- Sustanciar los recursos establecidos en los ordenamientos jurídicos, en contra de las autorizaciones, permisos y licencias cuya emisión competa a la Comisión, así como en la determinación de suspensiones, conmutaciones, modificaciones, nulificaciones o revocaciones totales o parciales de multas o sanciones administrativas impuestas por incumplimiento a la normatividad ambiental aplicable, en materia de la Comisión recibiendo y desahogando pruebas y alegatos y, en su caso, proponer al Director General, la resolución que proceda, de conformidad con las disposiciones aplicables;
+IX.- Guardar y custodiar los acuerdos, convenios, contratos, circulares y demás instrumentos públicos en los que intervenga la Comisión y las Unidades Administrativas que la agrupan, excepto lo que se celebren con proveedores y prestadores de servicio que afecten la situación financiera de la Comisión;
 
-XI.- Apoyar en la elaboración de las demandas que tengan que presentar el Director General en los juicios contenciosos administrativos, ante la Sala Regional competente o bien cuando proceda ante el Tribunal Federal de Justicia Fiscal y Administrativa; así como la interposición de todos y cada uno de los recursos que procedan en dicho juicio, en la presentación de pruebas y formulación de alegatos y en la realización de cualquier otro acto que resulte necesario para a (sic) defensa de los intereses de la Comisión;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XII.- Apoyar en la elaboración de la contestación de las demandas que tenga que presentar el Director General y el Director de Protección Ambiental, en los Juicios Contenciosos Administrativos, ante el Tribunal de lo Contencioso Administrativo del Estado de Sonora; cuando se impugnen resoluciones administrativas emitidas por ellos; así como en la interposición de todos y cada uno de los recursos que procedan en dicho juicio, en la presentación de pruebas y formulación de alegatos y en la realización de cualquier otro acto que resulte necesario para la defensa de los intereses de la Comisión;
+X.- Sustanciar los recursos establecidos en los ordenamientos jurídicos, en contra de las autorizaciones, permisos y licencias cuya emisión competa a la Comisión, así como en la determinación de suspensiones, conmutaciones, modificaciones, nulificaciones o revocaciones totales o parciales de multas o sanciones administrativas impuestas por incumplimiento a la normatividad ambiental aplicable, en materia de la Comisión recibiendo y desahogando pruebas y alegatos y en su caso proponer al Comisionado Ejecutivo, la resolución que proceda, de conformidad con las disposiciones aplicables;
 
-XIII.- Apoyar a las Direcciones de Gestión y Protección Ambiental en la formulación de lineamientos internos de carácter jurídico, que deben observarse en la realización de inspecciones y determinación de las infracciones que procedan;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XIV.- Verificar en coordinación con las Direcciones de Conservación, Gestión y Protección Ambiental el contenido legal de la documentación e información que sea materia de política ambiental;
+XI.- Apoyar en la elaboración de las demandas que tengan que presentar el Comisionado Ejecutivo en los juicios contenciosos administrativos, ante la Sala Regional competente o bien cuando proceda ante el Tribunal Federal de Justicia Fiscal y Administrativa; así como la interposición de todos y cada uno de los recursos que procedan en dicho juicio, en la presentación de pruebas y formulación de alegatos y en la realización de cualquier otro acto que resulte necesario para la defensa de los intereses de la Comisión;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XII.- Apoyar en la elaboración de la contestación de las demandas que tenga que presentar el Comisionado Ejecutivo, así como a las unidades administrativas de la Comisión, en los Juicios Contenciosos Administrativos, ante el Tribunal de lo Contencioso Administrativo del Estado de Sonora, cuando se impugnen resoluciones administrativas emitidas por ellos; así como en la interposición de todos y cada uno de los recursos que procedan en dicho juicio, en la presentación de pruebas y formulación de alegatos y en la realización de cualquier otro acto que resulte necesario para la defensa de los intereses de la Comisión;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XIII.- Apoyar a las Direcciones Generales de Gestión y Protección Ambiental en la formulación de lineamientos internos de carácter jurídico, que deben observarse en la realización de inspecciones y determinación de las infracciones que procedan;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XIV.- Verificar en coordinación con las Direcciones Generales de Conservación, Gestión y Protección Ambiental el contenido legal de la documentación e información que sea materia de política ambiental;
 
 XV.- Apoyar a las unidades administrativas de la Comisión, cuando así lo requieran, en la realización de licitaciones públicas, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -725,9 +1019,13 @@ XVII.- Analizar, recopilar, compilar, mantener actualizado y promover la difusi�
 
 XVIII.- Participar, con las áreas administrativas de la Comisión, en la aplicación de las disposiciones legales, en materia de responsabilidades oficiales, a los servidores públicos adscritos;
 
-XIX.- Asesorar al Director de Protección Ambiental en las órdenes que emita, fundando y motivando las visitas de inspección a realizar por esa Dirección;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XX.- Asesorar al Director General de la Comisión y participar en coordinación con las Direcciones de Gestión y Protección Ambiental, en las órdenes de clausura parcial, total, temporal o definitiva de las fuentes contaminantes, según proceda conforme a las normas o criterios que establece la Ley del Equilibrio Ecológico y de la Protección al Ambiente del Estado de Sonora y aquellas que resulten aplicables para el objeto de la Comisión;
+XIX.- Asesorar al Director General de Protección Ambiental en las órdenes que emita, fundando y motivando las visitas de inspección a realizar por esa Dirección;
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XX.- Asesorar al Comisionado Ejecutivo de la Comisión y participar en coordinación con las Direcciones de Gestión y Protección Ambiental, en las órdenes de clausura parcial, total, temporal o definitiva de las fuentes contaminantes, según proceda conforme a las normas o criterios que establece la Ley del Equilibrio Ecológico y de la Protección al Ambiente del Estado de Sonora y aquellas que resulten aplicables para el objeto de la Comisión;
 
 XXI.- Apoyar la inspección, vigilancia, verificación y cumplimiento de las disposiciones jurídicas aplicables a la prevención y control de la contaminación ambiental, así como en aquellas materias que le transfiera la Federación al Estado por conducto de la Comisión;
 
@@ -735,17 +1033,25 @@ XXII.- Apoyar, en coordinación con las Unidades Administrativas de la Comisión
 
 XXIII.- Participar en consejos consultivos, comités y grupos colegiados en el análisis y formulación de instrumentos, leyes, normas y reglamentos relacionados con el uso, conservación, protección y restauración de ecosistemas, la biodiversidad, los recursos naturales, y toda aquella legislación ambiental;
 
-XXIV.- Coordinarse en materia jurídica, cuando así lo requiera el Director General de la Comisión, con las unidades de asesoría, apoyo técnico y coordinación de actividades prioritarias, adscritas al titular del Poder Ejecutivo Estatal, para la atención de aquellos asuntos que por su trascendencia así lo requieran;
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XXV.- Participar como enlace de la mejora regulatoria de la Comisión de Ecología y Desarrollo Sustentable y el Gabinete de Mejora Regulatoria de Desarrollo Económico Sustentable de la Coordinación Ejecutiva de Estudios Legislativos y Reglamentarios; y
+XXIV.- Coordinarse en materia jurídica, cuando así lo requiera el Comisionado Ejecutivo de la Comisión, con las unidades de asesoría, apoyo técnico y coordinación de actividades prioritarias, adscritas al titular del Poder Ejecutivo Estatal, para la atención de aquellos asuntos que por su transparencia así lo requieran;
 
-XXVI.- Las demás que le confieran las disposiciones legales aplicables y el Director General dentro de la esfera de sus atribuciones; (sic)
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXV.- Participar como enlace de la mejora regulatoria de la Comisión, en los términos de la ley de la materia; y
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
+
+XXVI.- Las demás que le confieran las disposiciones legales aplicables y el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO VI. DEL CONTROL, EVALUACIÓN Y VIGILANCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 24.
 
-Las funciones de control, evaluación y vigilancia de la Comisión, estarán a cargo del Órgano de Control y Desarrollo Administrativo, órgano desconcentrado de la Secretaría de la Contraloría General, el cual despachará en las oficinas de la Comisión, estando jerárquica, administrativa y funcionalmente dependiente de dicha Secretaría, ejerciendo lo conducente a la misma en el artículo 26 de la Ley Orgánica del Poder Ejecutivo del Estado, su Reglamento Interior y demás ordenamientos jurídicos y disposiciones generales del que se derive competencia para el ejercicio de sus atribuciones, sujetándose además su desempeño a lo dispuesto en las "Normas Generales que establecen el marco de actuación de los órganos de control y desarrollo administrativo adscritos a las entidades de la administración pública estatal".
+Las funciones de control y evaluación de la Comisión, estarán a cargo del Órgano de Control y Desarrollo Administrativo, órgano desconcentrado de la Secretaría de la Contraloría General, el cual despachará en las oficinas de la Comisión, estando jerárquica, administrativa y funcionalmente dependiente de dicha Secretaría, ejerciendo lo conducente a la misma en el artículo 26 de la Ley Orgánica del Poder Ejecutivo del Estado, su Reglamento Interior y demás ordenamientos jurídicos y disposiciones generales del que se derive competencia para el ejercicio de sus atribuciones, sujetándose además su desempeño a lo dispuesto en las "Normas Generales que establecen el marco de actuación de los órganos de control y desarrollo administrativo adscritos a las entidades de la administración pública estatal".
 
 La Comisión para la operación de dicho Órgano, proporcionará los recursos materiales, servicios generales e instalaciones físicas adecuadas y necesarias para su funcionamiento, proporcionando la colaboración técnica y toda la información requerida para el cumplimiento de las funciones que le corresponde desarrollar; (sic)
 
@@ -771,9 +1077,11 @@ La Junta Directiva y demás dependientes jerárquicos de ésta, en su caso, debe
 
 La Comisión, para el logro de su objeto, estará integrada por trabajadores de confianza y de base.
 
+> <small>(REFORMADO, B.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 30.
 
-En la Comisión, los trabajadores de confianza lo serán: el Director General, los Directores y Subdirectores, Administradores, Jefes de Departamento, Asesores y demás personal que efectúe labores de inspección, vigilancia y manejo de fondos.
+En la Comisión, los trabajadores de confianza lo será: el Comisionado Ejecutivo, los Directores Generales y subdirectores, administradores, jefes de departamento, asesores y demás personal que efectúe labores de inspección, vigilancia y manejo de fondos.
 
 ###### ARTÍCULO 31.
 
@@ -781,17 +1089,23 @@ La relación de trabajo entre la Comisión y sus trabajadores, se regirá por la
 
 ### CAPÍTULO VIII. DE LA SUPLENCIA DE FUNCIONARIOS
 
+> <small>(REFORMADO, B.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 32.
 
-El Director General será suplido en sus ausencias temporales, por el Coordinador Técnico y en caso de que dicha ausencia sea mayor de dos meses pero menor de seis, el Gobernador del Estado nombrará un Director General provisional. Cualquier ausencia mayor de seis meses surtirá efecto de separación definitiva, procediéndose a designar nuevo Director General en los términos que señala la Ley.
+El Comisionado Ejecutivo será suplido en sus ausencias temporales, por el Coordinador Técnico y en caso de que dicha ausencia sea mayor de dos meses pero menor de seis, el Gobernador del Estado nombrará un Comisionado Ejecutivo provisional. Cualquier ausencia mayor de seis meses surtirá efecto de separación definitiva, procediéndose a designar nuevo Comisionado Ejecutivo en los términos que señala la Ley.
+
+> <small>(REFORMADO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 33.
 
-En ausencia del Coordinador Técnico, el Director General, determinará que Director suplirá dicha ausencia.
+En ausencia del Coordinador Técnico, el Comisionado Ejecutivo, determinará qué Director General suplirá dicha ausencia.
+
+> <small>(REFORMADO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 34.
 
-Los titulares de las Direcciones y Unidad Administrativa serán suplidos en sus ausencias temporales no mayores de dos meses por un funcionario de jerarquía inmediata inferior que el mismo designe; si la ausencia es mayor de dos meses pero menor de seis, el Director General de la Comisión nombrará un Director provisional. Cualquier ausencia mayor de seis meses surtirá efecto de separación definitiva, procediendo el Director General de la Comisión a designar nuevo Director de la Unidad.
+Los titulares de las Direcciones Generales y Unidad Administrativa serán suplidos en sus ausencias temporales no mayores de dos meses por un funcionario de jerarquía inmediata inferior que el mismo designe; si la ausencia es mayor de dos meses pero menor de seis, el Comisionado Ejecutivo de la Comisión nombrará un Director General provisional. Cualquier ausencia mayor de seis meses surtirá efecto de separación definitiva, procediendo el Comisionado Ejecutivo de la Comisión a designar nuevo Director General de la Unidad.
 
 ## TRANSITORIOS
 
@@ -825,7 +1139,7 @@ Ing. Jorge Luis Cancino Chimalpopoca.- Comisario Ciudadano
 
 Secretario: Lic. Cesar Alejandro Salazar Platt.- Director General de la CEDES
 
-COMISÓN (SIC) DE ECOLOGÍA Y DESARRLLO (SIC) SUSTENTABLE DEL ESTADO DE SONORA
+COMISÓN DE ECOLOGÍA Y DESARRLLO (SIC) SUSTENTABLE DEL ESTADO DE SONORA
 
 Organigrama estructural
 
@@ -862,3 +1176,11 @@ Dirección de
 Gestión
 
 Ambiental
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 17 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
