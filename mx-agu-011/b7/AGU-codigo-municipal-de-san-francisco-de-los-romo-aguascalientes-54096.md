@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2009-07-13"
+last_updated: "2009-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2009.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -43,9 +43,15 @@ CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 1°.
 
-Las disposiciones del presente Código Municipal son de orden público e interés social y reglamentarias del Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 68 de la Constitución Política del Estado de Aguascalientes, 1°,2°,3°,4° y 36 fracción I de la Ley Municipal para el Estado de Aguascalientes, los cuales otorgan al H. Ayuntamiento del Municipio de San Francisco de los Romo, Estado de Aguascalientes, las facultades para aprobar, de acuerdo con las leyes en materia municipal expedidas por el Congreso del Estado, las disposiciones administrativas de observancia general dentro de su jurisdicción, que organicen la administración pública, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+Las disposiciones del presente Código Municipal son de orden público e interés social y reglamentarias del Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 68 de la Constitución Política del Estado de Aguascalientes, 1° , 2°, 3° , 4° y 36 fracción I de la Ley Municipal para el Estado de Aguascalientes, los cuales otorgan al H. Ayuntamiento del Municipio de San Francisco de los Romo, Estado de Aguascalientes, las facultades para aprobar, de acuerdo con las leyes en materia municipal expedidas por el Congreso del Estado, las disposiciones administrativas de observancia general dentro de su jurisdicción, que organicen la administración pública, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+
+Las presentes disposiciones tienen por objeto regular la seguridad general, el civismo, la salubridad, la forestación, la conservación de vialidades y al ornato público, la propiedad y el bienestar de las personas en su seguridad, tranquilidad y disfrute de propiedades particulares, la igualdad entre mujeres y hombres, así como la integridad moral del individuo y de la familia regulando además los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales.
+
+Quedan obligados al cumplimiento y observancia del presente Código, sin distinción todas y todos los habitantes' que conformen la población del Municipio.
 
 ###### ARTICULO 2°.
 
@@ -141,6 +147,8 @@ La utilización por particulares del Escudo o Nombre del Municipio para fines pu
 
 ### CAPITULO IV. Fines del Municipio
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 10.
 
 El Municipio se propone como fines que permitan el logro de un desarrollo armónico y equilibrado para un mejor bienestar colectivo:
@@ -151,11 +159,11 @@ II. Formular acciones con el objeto de que la Administración Pública Municipal
 
 III. Establecer planes y programas que permitan fortalecer los aspectos económicos, sociales y culturales para el mejor desarrollo integral de la población;
 
-IV. Garantizar y preservar la tranquilidad, seguridad y bienes de las personas;
+IV. Garantizar y preservar la tranquilidad, seguridad y bienes de las personas sin trato diferenciado por razones de género o cualquier otra;
 
 V. Coordinarse con los gobiernos federal y estatal, para realizar las acciones necesarias que garanticen la seguridad;
 
-VI. Proveer los medios para la aplicación de la justicia en el marco de su competencia;
+VI. Proveer los medios para la aplicación y acceso a la justicia en el marco de su competencia;
 
 VII. Promover un desarrollo social incluyente para proteger los intereses sociales como son entre otros la salud y la protección a grupos vulnerables;
 
@@ -163,7 +171,7 @@ VIII. Proteger y fomentar la moral y el orden público;
 
 IX. Impulsar y preservar la educación y la cultura entre sus habitantes;
 
-X. Fomentar la cultura cívica entre sus habitantes;
+X. Fomentar la cultura cívico (sic) entre sus habitantes;
 
 XI. Organizar y promover la participación ciudadana en todos los ámbitos que se requiera a fin de cumplir con los planes y programas municipales;
 
@@ -181,15 +189,41 @@ XVII. Promover la política de mejora regulatoria municipal que permita transpar
 
 XVIII. Ampliar y diversificar la participación ciudadana, como un mecanismo de consulta pública que aporte análisis y transparencia de la aplicación de las políticas públicas;
 
-XIX. Promover la transparencia y la rendición de cuentas que garanticen el buen ejercicio de la Administración Pública Municipal; y
+XIX. Promover la transparencia y la rendición de cuentas que garanticen el buen ejercicio de la Administración Pública Municipal;
 
-XX. Todo aquello que redunde en beneficio de los ciudadanos del Municipio, basado en los principios rectores de la equidad, la solidaridad y subsidiariedad.
+XX. Promover la igualdad de género, la no discriminación y la no violencia en contra de las mujeres residentes en el municipio; y
+
+XXI. Todo aquello que redunde en beneficio de los ciudadanos del Municipio, basado en los principios rectores de la equidad, la solidaridad y subsidiariedad.
 
 ### CAPITULO V. De la Población
 
 ###### ARTICULO 11.
 
 Son habitantes del Municipio de San Francisco de los Romo, las personas que residan habitual o transitoriamente dentro de su territorio, tendrán las prerrogativas, derechos y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y la legislación municipal.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 11 A.- Toda mujer que se encuentre en el municipio de San Francisco de los Romo, tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos. Estos derechos comprenden, entre otros a los siguientes:
+
+I. El derecho a que se respete la vida;
+
+II. El derecho a que se respete su integridad física, psíquica y moral;
+
+III. El derecho a la libertad y la seguridad personales;
+
+IV. El derecho a no ser sometida a torturas;
+
+V. El derecho a igualdad de protección ante y de la ley;
+
+VI. El derecho a que se respete la dignidad inherente a su persona y que se proteja a su familia;
+
+VII. El derecho a un recurso sencillo y rápido ante los tribunales competentes, que la ampare contra actos que violen sus derechos;
+
+VIII. El derecho a libertad de asociación;
+
+IX. El derecho a la libertad de profesar la religión y las creencias propias dentro de la ley; y
+
+X. El derecho a tener igualdad de acceso a las funciones públicas de su Municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones.
 
 ###### ARTICULO 12.
 
@@ -219,9 +253,13 @@ La declaración de pérdida de vecindad será competencia del H. Ayuntamiento.
 
 ### CAPITULO I. De las Autoridades del H. Ayuntamiento
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 14.
 
-El H. Ayuntamiento de San Francisco de los Romo, es el Órgano Colegiado de Gobierno y de la Administración Pública Municipal, tiene competencia plena y exclusiva sobre su territorio, población, organización política y administrativa, en los términos que fijen las leyes respectivas, posee en consecuencia personalidad jurídica y patrimonio propio.
+El H. Ayuntamiento de San Francisco de los Romo, es el Órgano Colegiado de Gobierno y de la Administración Pública Municipal, tiene competencia plena y exclusiva sobre su territorio, población, organización política y administrativa, en los términos que fijen las leyes respectivas, posee en consecuencia personalidad jurídica y patrimonio propios.
+
+En la medida de lo posible las comisiones y servidores públicos que integren la administración pública municipal, establecerán el mismo número de mujeres y hombres, respetándose la equidad de género.
 
 ###### ARTICULO 15.
 
@@ -301,9 +339,13 @@ El Presidente Municipal presidirá el H. Ayuntamiento y representará a éste y 
 
 Los Regidores son los encargados de vigilar la buena marcha de los ramos de la Administración Municipal así como de la prestación de los servicios públicos, conforme a las comisiones que le sean asignadas por el H. Ayuntamiento, debiendo dar cuenta a éste de las deficiencias detectadas así como las propuestas para mejorar los servicios de las comisiones que les correspondan y supervisar la aplicación de éstas.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 20.
 
 El Síndico tendrá la procuración, defensa, promoción y la representación jurídica de los intereses municipales del H. Ayuntamiento, en los litigios en que éste fuere parte y en la gestión de los negocios de la Hacienda Municipal, esta última conjuntamente con el Regidor de la Comisión de Hacienda.
+
+El Síndico podrá citar a cualquier habitante del municipio de San Francisco de los Romo, Aguascalientes a fin de conciliar los conflictos entre éstos siempre y cuando no interfiera en la función de otra autoridad y no se traten de casos donde exista violencia de género, en especial familiar, en cuyos casos está contraindicada cualquier práctica de mediación, negociación o conciliación, para cumplir con los fines plasmados en el Articulo 10 fracciones IV, VI y XX del presente Código.
 
 ###### ARTICULO 21.
 
@@ -405,6 +447,8 @@ En las Sesiones Ordinarias podrá el H. Ayuntamiento utilizar la facultad potest
 
 En este tipo de Sesiones, el H. Ayuntamiento escuchará la opinión del público que participe en la sesión y podrá tomarla en cuenta al dictar las resoluciones.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 33.
 
 En las Sesiones con intervención al público, el Secretario del H. Ayuntamiento con la aprobación del Presidente Municipal, podrá suspender en el uso de la palabra al orador y ordenar desalojar el recinto parcial o totalmente en los siguientes casos:
@@ -413,9 +457,11 @@ I. Cuando la persona en el uso de la palabra desvirtúe el tema que se esté tra
 
 II. Cuando se profieran injurias, palabras obscenas, amenazas o serias acusaciones en contra de personas determinadas;
 
-III. Cuando se trate de exaltar el ánimo del auditorio, para presionar la opinión de los Regidores o Síndico; y
+III. Cuando se trate de exaltar el ánimo del auditorio, para presionar la opinión de los Regidores o Síndico;
 
-IV. Cuando en el auditorio se observen faltas de respeto para algún miembro del H. Ayuntamiento, o para alguno de los servidores públicos.
+IV. Cuando en el auditorio se observen faltas de respeto para algún miembro del H. Ayuntamiento, o para alguno de los servidores públicos; y
+
+V. Se proliferen aseveraciones que impliquen sumisión de un género hacia otro, o impliquen la realización de roles sexuales tradicionales y discriminatorios.
 
 ###### ARTICULO 34.
 
@@ -577,31 +623,33 @@ El Presidente Municipal, los Regidores y Síndico que con causa justificada no p
 
 ### CAPITULO VIII. De las Comisiones
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 68.
 
 El H. Ayuntamiento nombrará las Comisiones a efecto de cumplir con las atribuciones y obligaciones que la Ley le confiere al H. Ayuntamiento, se integran Comisiones Permanentes y serán las siguientes:
 
-I. Hacienda, Gobernación y Licencias Comerciales;
+I. Seguridad Pública y Tránsito;
 
-II. Seguridad Pública y Tránsito;
+II. Desarrollo Social y Salud;
 
-III. Alumbrado Público;
+III. Agua Potable, Alcantarillado, Protección al Medio Ambiente y Limpia;
 
-IV. Mercados, Rastros, Parques y Jardines y Panteones;
+IV. Hacienda, Gobernación y Licencias Comerciales;
 
-V. Educación Pública, Acción Cívica, Cultura y Deporte;
+V. Obra Pública, Desarrollo Urbano y Rural;
 
-VI. Desarrollo Social y Salud;
+VI. Mejora Regulatoria, Simplificación, Transparencia e Innovación;
 
-VII. Obras Públicas, Desarrollo Urbano y Rural;
+VII. Alumbrado Público;
 
-VIII. Agua Potable, Alcantarillado, Protección al Medio Ambiente y Limpia;
+VIII. Mercados, Rastros, Parques, Jardines y Panteones;
 
-IX. De Mejora Regulatoria, Simplificación, Transparencia e Innovación.
+IX. Educación Pública, Acción Cívica, Cultura y Deporte;
 
-Todas las que el H. Ayuntamiento considere necesarias para el cumplimiento de sus funciones.
+X. Igualdad de género; y
+
+XI. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 ###### ARTICULO 69.
 
@@ -2168,6 +2216,92 @@ Las decisiones del Comité de Adquisiciones, tienen el carácter de definitivas 
 ###### ARTICULO 144.
 
 Todas las adquisiciones se sujetarán a lo dispuesto en el presente Título y en todo aquello que no esté previsto se aplicará de manera supletoria lo señalado en la Ley Patrimonial del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+APARTADO DECIMO QUINTO
+
+OBLIGACIONES DEL AYUNTAMIENTO EN MATERIA DE IGUALDAD Y GENERO
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 144 A.- El objeto del presente Apartado es regular y garantizar la igualdad de Género entre Mujeres y Hombres, la no discriminación y todos aquellos derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 144 B.- Son obligaciones del Ayuntamiento en materia de Igualdad y Género las siguientes:
+
+I. Instrumentar y articular en concordancia con la política nacional y estatal, la política municipal orientada a la atención, prevención, sanción y erradicación de la violencia contra las mujeres;
+
+II. Promover en concordancia con las entidades federativas, cursos de capacitación y modificaciones conductuales a las personas que atienden a víctimas de violencia contra las mujeres;
+
+III. Apoyar la creación de programas de reeducación integral para los generadores de violencia contra las mujeres en los términos explícitos y de conformidad con los lineamientos que establece la ley General de Acceso de las Mujeres a una Vida Libre de Violencia del Estado;
+
+IV. Promover programas educativos sobre la igualdad entre los géneros para eliminar la violencia contra la mujer;
+
+V. Apoyar la creación de refugios seguros para las víctimas de violencia familiar y sexual;
+
+VI. Participar y coadyuvar en los ejes de acción, de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+VII. Impartir cursos y talleres de prevención y protección contra la violencia de género en los cuerpos policiacos;
+
+VIII. Evaluar anualmente la actividad de los cuerpos policiacos y servidores públicos encargados de la atención a la violencia de género;
+
+IX. Elaborar una guía de asistencia inmediata que seguirían los elementos de seguridad pública cuando se presenten casos de violencia familiar;
+
+X. Designar a los integrantes del sistema municipal de prevención, atención, sanción y erradicación de la violencia, y vigilar su correcta instalación y funcionamiento;
+
+XI. Aprobar el programa municipal para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñará con base en la perspectiva de género;
+
+XII. Construir el mecanismo municipal de adelanto en favor de las mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo; y
+
+XIII. la atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 144 C.- El Ayuntamiento implementará, el Programa Municipal para la Prevención, Atención, Sanción y Erradicación de la Violencia de Género, el cual deberá contener:
+
+I. Los objetivos generales y específicos;
+
+II. Las estrategias a seguir;
+
+III. Las líneas de acción;
+
+IV. Los recursos asignados;
+
+V. Las metas cuantitativas y cualitativas;
+
+VI. Los responsables de su ejecución;
+
+VII. Los mecanismos de evaluación; y
+
+VIII. El subprograma de capacitación.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 144 D.- Son principios rectores del Programa Municipal para la Prevención, Atención, Sanción y Erradicación de la Violencia de Género, los siguientes:
+
+I. La no discriminación;
+
+II. La autodeterminación y libertad de las mujeres;
+
+III. La igualdad sustantiva entre mujeres y hombres;
+
+IV. El respeto a la dignidad de las mujeres;
+
+V. El pluralismo social y la multiculturalidad de las mujeres; y
+
+VI. La perspectiva de género que permita incorporar a la mujer como sujeto social.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 144 E.- El Programa Municipal incluirá siguientes ejes de acción:
+
+I. De prevención;
+
+II. De atención y sanción;
+
+Ambos se incluirán considerando los niveles de intervención que cada eje contempla, en términos de lo dispuesto por (sic) Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Aguascalientes.
 
 # LIBRO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
@@ -5333,7 +5467,7 @@ La periodicidad con que se actualice la información que se publique no podrá s
 
 Las Dependencias y Entidades deberán publicar en el sitio de Internet dentro de los primeros diez días hábiles de los meses de Enero y Junio de cada año, según corresponda, la información relativa al monto, aplicación y destino de los recursos públicos entregados a organismos, institutos, asociaciones, fideicomisos y cualquier otra del derecho privado, así como la ejecución, montos asignados y requisitos de acceso a los programas de apoyo y padrones de beneficiarios de los programas sociales. Dicha información deberá contener por lo menos, los siguientes elementos:
 
-I. El nombre o denominación del Programa;
+l. El nombre o denominación del Programa;
 
 II. La unidad administrativa que lo otorgue o administre;
 
@@ -6773,7 +6907,7 @@ Los casos de traspaso a familiares consanguíneos o en primer grado, ya por inca
 
 Para efecto de lo anterior los locatarios deberán:
 
-l. Recabar la autorización de la Presidencia Municipal;
+I. Recabar la autorización de la Presidencia Municipal;
 
 II. Recabar la opinión de la Unión de Locatarios; y
 
@@ -7755,7 +7889,7 @@ II. Tener su certificado de vacunación vigente;
 
 III. Pasear al animal sólo si éste lleva puesto el collar o pechera con su respectiva correa o cadena y en manos de su propietario o poseedor. El animal que sea considerado como agresivo deberá usar bozal; y
 
-IV Dar un trato digno al animal y en su momento la atención clínica veterinaria adecuada.
+IV. Dar un trato digno al animal y en su momento la atención clínica veterinaria adecuada.
 
 ###### ARTICULO 796.
 
@@ -7767,7 +7901,7 @@ II. Las jaulas deben estar separadas de la cabina;
 
 III. Las jaulas donde se transporten los animales para su confinamiento deberán ser independientes y de tamaño adecuado;
 
-IV Deberán tener ventilación suficiente y estar acomodados de tal forma que permitan su fácil aseo y desinfección; y
+IV. Deberán tener ventilación suficiente y estar acomodados de tal forma que permitan su fácil aseo y desinfección; y
 
 V. Deberán mantenerse en buen estado los vehículos y todos los accesorios, debiendo asearse antes y después de las labores propias.
 
@@ -8301,6 +8435,36 @@ XXIII. Llevar a cabo las detenciones de los vehículos en cumplimiento a lo que 
 
 XXIV. Las demás que señalen las distintas leyes y ordenamientos aplicables.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 842 A.- Son obligaciones, en general, de los Cuerpos de Seguridad Pública Municipal en materia de Equidad de Género, las siguientes:
+
+I. Atender de manera inmediata todos los casos de violencia contra las mujeres;
+
+II. Proporcionar a las presuntas víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y derechos;
+
+III. Atender, obedecer y ejecutar las disposiciones contenidas en las órdenes de protección, dictadas por el Agente del Ministerio Público o por el Juez Penal en términos de la Legislación aplicable; y
+
+IV. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 842 B.- Queda estrictamente prohibido a los elementos operativos de la Dirección de Seguridad Pública Municipal, en cuanto a equidad de género el fomentar prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimaren o exacerben la violencia contra la mujer.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 842 C.- El Presidente Municipal en materia de equidad de género, deberá:
+
+I. Implementar un programa de capacitación permanente para el personal de la Corporación de Seguridad Pública para atender los casos de violencia contra las mujeres;
+
+II. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia;
+
+III. Implementar cursos y talleres de prevención y protección contra la violencia de género;
+
+IV. Proporcionar a las presuntas víctimas de violencia la asesoría necesaria para conocer su situación jurídica y sus derechos; y
+
+V. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
+
 ###### ARTICULO 843.
 
 La Dirección les proporcionará a los elementos de los Cuerpos de Seguridad Pública y Tránsito el uniforme consistente en: pantalón o falda, camisa o blusa, chamarra, calzado, cinturón, insignias y divisas, fornituras, toletes, moscoba y dotación de municiones, armas de fuego en sus formas corta y larga, conforme lo determine la Dirección, según lo dispuesto por el Artículo 839 del presente Código.
@@ -8731,6 +8895,8 @@ XXII. Obstruir calles, avenidas, calzadas, puentes u otros lugares públicos sin
 
 ### CAPITULO V. De las Faltas Contra la Moral y el Civismo
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 881.
 
 Son Faltas contra la Tranquilidad y se sancionarán con multa de 1 a 15 días de salario mínimo general vigente en el Estado o arresto hasta por treinta y seis horas las siguientes:
@@ -8801,9 +8967,19 @@ VIII. Permitir o promover en los menores de edad el acceso a lugares en los que 
 
 IX. Difundir, poner a la vista o vender cualquier tipo de material con sexo explícito o imágenes que vayan en contra de la moral y las buenas costumbres;
 
-X. Permitir, inducir u obligar a menores de edad para que cometan faltas a las presentes disposiciones; y
+X. Permitir, inducir u obligar a menores de edad para que cometan faltas a las presentes disposiciones;
 
-XI. Expender o proporcionar a menores de edad bebidas alcohólicas, tabaco, tóxicos o solventes en cualquier modalidad sin perjuicio de lo dispuesto en otras disposiciones jurídicas.
+XI. Expender o proporcionar a menores de edad bebidas alcohólicas, tabaco, tóxicos o solventes en cualquier modalidad sin perjuicio de lo dispuesto en otras disposiciones jurídicas;
+
+XII. Efectuar actos de discriminación o de violencia de género;
+
+XIII. Efectuar trato diferenciado entre mujeres y hombres en la prestación de cualquier servicio o en el otorgamiento de algún derecho;
+
+XIV. Realizar actos de violencia contra las mujeres en la comunidad, en términos de la legislación del Estado que regula las modalidades y tipos de la violencia de género;
+
+XV. Realizar cualquier tipo de acoso contra las mujeres del municipio, siempre y cuando dicha conducta no sea constitutiva de delito en términos de la Legislación Penal para el Estado de Aguascalientes; y
+
+XVI. Menospreciar o dar trato diferenciado entre mujeres y hombres, que pueda incitar a algún tipo de violencia.
 
 ### CAPITULO VIII. De la Prescripción
 
@@ -15245,7 +15421,7 @@ III. En estos fraccionamientos se podrá autorizar comercio de tipo inmediato en
 
 Podrá existir comercio de tipo periódico sobre vialidades colectoras y en algunos casos servicios de tipo doméstico, los cuales quedarán condicionados a presentar el cuestionario de información básica ambiental y a la dictaminación del mismo, emitida por la autoridad correspondiente.
 
-IV Todo uso o destino que pretenda darse a cualquier predio o inmueble que forme parte de este tipo de fraccionamientos y que no sea compatible a la zona de acuerdo con lo establecido en el Programa de Desarrollo Urbano Municipal correspondiente, así como en el presente Código Municipal, quedará estrictamente prohibido.
+IV. Todo uso o destino que pretenda darse a cualquier predio o inmueble que forme parte de este tipo de fraccionamientos y que no sea compatible a la zona de acuerdo con lo establecido en el Programa de Desarrollo Urbano Municipal correspondiente, así como en el presente Código Municipal, quedará estrictamente prohibido.
 
 V. En caso de que se encuentren establecidos usos del suelo que no sean compatibles a la zona de su ubicación o que sean generadores de ruido mayor al establecido por la legislación vigente en la materia, o que generen y/o emitan sustancias contaminantes, quedarán condicionados a su reubicación en zonas aptas para el desarrollo de sus actividades, en los términos que señale el presente Código Municipal.
 
@@ -16261,7 +16437,7 @@ A dichos anuncios se les aplicará lo previsto por este Código Municipal para l
 
 Los anuncios eventuales de pendón colgante en plano vertical, además de los requisitos aplicables por este Código Municipal, deben llenar los siguientes:
 
-I. La proyección vertical del saliente máximo de los anuncios no deberá rebasar el límite de la propiedad;
+l. La proyección vertical del saliente máximo de los anuncios no deberá rebasar el límite de la propiedad;
 
 II. Sólo podrán permanecer treinta días como máximo, los cuales empezarán a contarse a partir del día en que se otorgó el permiso correspondiente;
 
@@ -16363,7 +16539,7 @@ II. Tratándose de usos comerciales en estas zonas, se podrá utilizar hasta el 
 
 III. Un anuncio domiciliar por inmueble institucional, iluminado u opaco, tales como escuelas, iglesias, servicios de salud o establecimientos similares a los anteriores, cuya superficie del anuncio no deberá exceder de 1.20 metros cuadrados, y
 
-IV En caso de usos comerciales en estas zonas, se podrá utilizar hasta el 20 por ciento de superficie del frente de un inmueble.
+IV. En caso de usos comerciales en estas zonas, se podrá utilizar hasta el 20 por ciento de superficie del frente de un inmueble.
 
 ###### ARTICULO 1602.
 
@@ -16556,6 +16732,8 @@ La Dirección una vez recibida la denuncia popular, integrará el expediente res
 El desahogo de este procedimiento, no excederá de quince días hábiles desde la fecha en que se reciba la denuncia, salvo que exista causa justificada que lo impida.
 
 ### CAPITULO UNICO. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO UNICO. Disposiciones Generales
 
@@ -16937,7 +17115,7 @@ II. Tomar las medidas preventivas necesarias para evitar contingencias ambiental
 
 III. Inspeccionar y vigilar el cumplimiento de la Ley, su reglamento y las Normas Oficiales Mexicanas en materia de generación, recolección, transporte, almacenamiento, tratamiento, reuso, estaciones de transferencia, centros de confinamiento temporal y disposición final de residuos no peligros(sic) en el ámbito de su competencia; y
 
-IV Solicitar al generador o al prestador de servicios de residuos no peligrosos, un plan de contingencias ambientales.
+IV. Solicitar al generador o al prestador de servicios de residuos no peligrosos, un plan de contingencias ambientales.
 
 ###### ARTICULO 1651.
 
@@ -17217,7 +17395,9 @@ Se podrán expedir licencias, permisos o avisos múltiples, que consisten en que
 
 Dicha licencia se otorgará a favor de una persona determinada, para la explotación de uno o varios giros, en domicilio cierto y son intransferibles los derechos que de ella se derivan.
 
-El cambio de domicilio de la negociación o el traspaso de ésta, sin autorización del(sic) la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación, será causa de la revocación de la licencia o permiso y suspensión del aviso. Además en aquellos casos en los que transcurridos noventa días de su expedición no haya iniciado operaciones o las suspenda por dicho plazo sin haberlo notificado a la autoridad municipal competente.
+El cambio de domicilio de la negociación o el traspaso de ésta, sin autorización del (sic) la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación, será causa de la revocación de la licencia o permiso y suspensión del aviso. Además en aquellos casos en los que transcurridos noventa días de su expedición no haya iniciado operaciones o las suspenda por dicho plazo sin haberlo notificado a la autoridad municipal competente.
+
+En los establecimientos a los que se hace referencia en el presente Libro, se deberán modificar los patrones socioculturales de conducta de mujeres y hombres para contrarrestar prejuicios, costumbres y todo tipo de prácticas que se basen en la premisa de la superioridad o inferioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimasen o exacerben la discriminación y la violencia contra las mujeres.
 
 ###### ARTICULO 1678.
 
@@ -17996,6 +18176,14 @@ Todo propietario de un establecimiento de los que señala el presente Título, d
 ###### ARTICULO 1738.
 
 Queda estrictamente prohibida la venta y consumo de bebidas alcohólicas a menores de edad tanto por botella cerrada como por copeo, en los establecimientos comerciales, industriales o de servicio a que se refiere el presente Libro; así como en bailes y espectáculos públicos. Cuando por la apariencia física de las personas sea difícil establecer su mayoría de edad, sólo se podrán expender las bebidas previa presentación de la Cartilla del Servicio Militar Nacional o documento análogo, como puede ser la credencial de elector, en el caso de mujeres.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 1738 A.- Queda estrictamente prohibido en el interior de los establecimientos a los que se hacen referencia en el presente Libro, la colocación de carteles así como todo tipo de imágenes, retratos o logotipos de personas, sin autorización del titular del derecho, que atenten contra la moral, las buenas costumbres o generen conductas de violencia o discriminación hacia las mujeres.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ARTICULO 1738 B.- Es obligación del titular de la autorización, licencia o permiso, evitar usar lenguajes e imágenes que refuercen los roles tradicionales del hombre como productor y proveedor, y de la mujer con funciones reproductoras.
 
 ###### ARTICULO 1739.
 
@@ -20042,3 +20230,7 @@ P.O. 13 DE JULIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE AGOSTO DE 2009.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
