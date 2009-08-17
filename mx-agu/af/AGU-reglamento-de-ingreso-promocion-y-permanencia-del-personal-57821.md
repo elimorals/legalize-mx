@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-ingreso-promocion-y-permanencia-del-personal-5782
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-03"
-last_updated: "2007-12-03"
+last_updated: "2009-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE INGRESO, PROMOCION Y PERMANENCIA DEL PERSONAL ACADEMICO DE LA UNIVERSIDAD POLITECNICA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de diciembre de 2007.
 
@@ -803,6 +803,12 @@ El procedimiento del concurso cerrado deberá ser establecido por la Junta Direc
 
 SEXTO. Las disposiciones relativas a la promoción, al otorgamiento de reconocimientos y estímulos y las de la contratación por tiempo indeterminado, entrarán en vigor una vez que la Universidad haya alcanzado niveles de desarrollo que lo permitan y así lo apruebe la Junta Directiva.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL ACUERDO DE REFORMAS AL REGLAMENTO, NO SE ESPECIFICA LA UBICACION DEL TRANSITORIO QUE SE ADICIONA; POR TAL MOTIVO SE TRANSCRIBE EL REFERIDO PUNTO UNICO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2009)</small>
+
+ÚNICO (SIC).- Adicionar un Artículo Transitorio al Reglamento de Ingreso, Promoción y Permanencia del Personal Académico de la Universidad, para autorizar que la Universidad, integre la Comisión de Ingreso Promoción y Permanencia del Personal Académico, con profesores investigadores de nivel "B" o sus equivalentes, hasta en tanto cuente con la plantilla de personal que cubra con el nivel "C" previsto por el Artículo 21 Fracción II del Reglamento de Ingreso, Promoción y Permanencia del Personal Académico o en un plazo máximo de cinco años.
+
 Dado en la Universidad Politécnica de Aguascalientes, en la Ciudad de Aguascalientes, Ags., a 23 de junio de 2006.
 
 LA JUNTA DIRECTIVA
@@ -848,3 +854,9 @@ Sr. Refugio Marín Ruíz,
 Secretario General de la CROC y Representante del Sector Social.
 
 Las firmas que aparecen en el presente documento corresponden al Reglamento de Ingreso Promoción y Permanencia del Personal Académico de la Universidad Politécnica de Aguascalientes, aprobado por la Junta Directiva el día 23 de junio de 2006.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE AGOSTO DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
