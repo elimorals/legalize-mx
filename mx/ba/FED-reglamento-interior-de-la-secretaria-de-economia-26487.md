@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-26487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-22"
-last_updated: "2009-01-27"
+last_updated: "2009-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26487&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-11-19"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2002.
 
@@ -163,7 +163,9 @@ V.- Dar cuenta al Congreso de la Unión, luego de que inicie el periodo ordinari
 
 VI.- Refrendar, para su validez y observancia constitucionales, los reglamentos, decretos, acuerdos y órdenes expedidos por el Presidente de los Estados Unidos Mexicanos;
 
-VII.- Representar al Presidente de los Estados Unidos Mexicanos en los juicios de amparo, en los términos de los artículos 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos y 14 de la Ley Orgánica de la Administración Pública Federal, así como en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la propia Constitución y su Ley Reglamentaria, en los casos en que lo determine el Ejecutivo Federal, pudiendo ser suplido de conformidad con este Reglamento;
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2009)</small>
+
+VII.- Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 45 del presente Reglamento;
 
 VIII.- Aprobar la organización y funcionamiento de la Secretaría y del sector correspondiente en los términos de la legislación aplicable;
 
@@ -449,9 +451,27 @@ IV.- Determinar el criterio de la Secretaría cuando dos o más de sus unidades 
 
 V.- Interpretar para efectos administrativos las disposiciones jurídicas en las materias competencia de la Secretaría y emitir los criterios generales para su aplicación, que serán de observancia obligatoria para las unidades administrativas de la misma;
 
+> <small>(ADICIONADA, D.O.F. 17 DE AGOSTO DE 2009)</small>
+
+V bis.- Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de Economía representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 17 DE AGOSTO DE 2009)</small>
+
+V ter.- Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de Economía represente al Presidente de la República;
+
 VI.- Representar a la Secretaría ante cualquier autoridad jurisdiccional, administrativa y del trabajo, y autorizar a los servidores públicos de la propia Unidad para representar a la dependencia ante esas autoridades, mediante oficio en el que se deberá indicar el asunto específico para el cual se otorga dicha autorización;
 
-VII.- Formular los informes previos y justificados en los juicios de amparo y contestaciones de demandas en toda clase de procedimientos judiciales, contenciosos-administrativos y del trabajo, ofrecer pruebas, absolver posiciones, comparecer en todo tipo de audiencias, formular alegatos, interponer toda clase de recursos y, en general, vigilar la tramitación de los juicios y atender ante las demás unidades administrativas el cumplimiento de las resoluciones que en ellos se pronuncien, prestando la asesoría que se requiera;
+> <small>(ADICIONADA, D.O.F. 17 DE AGOSTO DE 2009)</small>
+
+VI bis.- Representar al Secretario, a los Subsecretarios, al Oficial Mayor, a los Jefes de Unidad y a los Directores Generales de esta Dependencia, en todos los trámites dentro de los juicios de amparo, así como suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otro juicio de carácter judicial o contencioso administrativo en los que sean parte dichos servidores públicos;
+
+> <small>(ADICIONADA, D.O.F. 17 DE AGOSTO DE 2009)</small>
+
+VI ter.- Formular los informes previos y justificados en materia de amparo que deban presentar los servidores públicos de la Secretaría que no están comprendidos en la fracción anterior de este artículo y que sean señalados como autoridades responsables;
+
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2009)</small>
+
+VII.- Formular las contestaciones de demandas en toda clase de procedimientos judiciales, contenciosos-administrativos y del trabajo, ofrecer pruebas, absolver posiciones, comparecer en todo tipo de audiencias, formular alegatos, interponer toda clase de recursos y, en general, vigilar la tramitación de los juicios y atender ante las demás unidades administrativas el cumplimiento de las resoluciones que en ellos se pronuncien, prestando la asesoría que se requiera;
 
 VIII.- Ejercer las acciones judiciales y contencioso-administrativas que competan a la Secretaría; formular querella o denunciar ante el Ministerio Público los hechos que lo ameriten; otorgar perdón y gestionar ante cualquier autoridad la liberación y devolución de bienes de activo fijo de la Secretaría relacionados con averiguaciones previas, procedimientos judiciales o administrativos de cualquier naturaleza;
 
@@ -1427,6 +1447,10 @@ El Secretario será suplido en sus ausencias, con la prelación siguiente: por e
 
 Las ausencias temporales o la falta de designación de los titulares de los Subsecretarios o del Oficial Mayor se suplirán por los titulares de las unidades administrativas que les sean adscritas en el ámbito de sus respectivas competencias o, en su caso, por el servidor público que éstos designen.
 
+> <small>(ADICIONADO, D.O.F. 17 DE AGOSTO DE 2009)</small>
+
+Las ausencias temporales o la falta de designación del Jefe de la Unidad de Asuntos Jurídicos, serán suplidas por el Director General Adjunto de Legislación y Consulta y por el Director de Asuntos Judiciales, en el orden indicado.
+
 Las ausencias temporales o la falta de designación de los titulares del Secretariado Técnico de la Competitividad, de las coordinaciones generales, de las unidades y direcciones generales, previstos en el artículo 2 de éste Reglamento, así como de los directores generales, directores generales adjuntos, directores y subdirectores de área, jefes de departamento, y demás servidores públicos que se precisan en el Manual General de Organización de la Secretaría, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
 ###### ARTÍCULO 46.
@@ -1538,3 +1562,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el
 SEGUNDO.- Las menciones contenidas en diversas disposiciones respecto de las subsecretarías cuya denominación se modifica por virtud de este Decreto, se entenderán referidas a las denominaciones establecidas en el presente.
 
 TERCERO.- El cambio de denominación del Secretario Técnico de Planeación, Comunicación y Enlace, por el de Secretariado Técnico de la Competitividad, así como su cambio de adscripción, que en su oportunidad efectúe el Secretario de Economía, no afectarán los derechos laborales previamente adquiridos por los trabajadores que ocupan plazas en dicha unidad administrativa.
+
+D.O.F. 17 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
