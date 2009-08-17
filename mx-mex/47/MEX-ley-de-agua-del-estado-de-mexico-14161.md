@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-agua-del-estado-de-mexico-14161"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-10"
-last_updated: "2004-12-21"
+last_updated: "2009-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL AGUA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Cuarte de la Gaceta del Gobierno del Estado de México, el miércoles 10 de marzo de 1999.
 
@@ -391,7 +391,7 @@ Los sectores social y privado no podrán determinar créditos fiscales para su c
 
 Los ayuntamientos podrán constituir organismos descentralizados municipales o intermunicipales, quienes tendrán las funciones que les otorgue la presente ley y demás disposiciones aplicables.
 
-Los organismos públicos descentralizados tendrán personalidad jurídica y patrimonio propios, así como autonomía técnica y administrativa en el manejo de sus recursos, pudiendo ejercer los actos de autoridad que específicamente les señala la presente ley. Su domicilio se ubicará en la cabecera municipal, independientemente de que para el desarrollo de sus atribuciones establezcan delegaciones en donde se requiera.
+Los organismos públicos descentralizados tendrán personalidad jurídica y patrimonio propio, así como autonomía técnica y administrativa en el manejo de sus recursos, pudiendo ejercer los actos de autoridad que específicamente les señala la presente ley. Su domicilio se ubicará en la cabecera municipal, independientemente de que para el desarrollo de sus atribuciones establezcan delegaciones en donde se requiera.
 
 ###### Artículo 29.
 
@@ -431,15 +431,67 @@ Habrá quórum cuando concurran más de la mitad de los integrantes del consejo 
 
 Se podrá invitar a las sesiones del consejo directivo, con voz pero sin voto, a representantes de las dependencias y entidades federales o estatales, así como del ayuntamiento, cuando se trate algún asunto de su competencia, así como a representantes de los usuarios cuando lo determine el consejo directivo.
 
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2009)</small>
+
+###### Artículo 32 Bis.
+
+El Consejo Directivo tendrá las siguientes facultades y obligaciones:
+
+I. Determinar las políticas, normas, criterios técnicos, de organización y administración que orienten las actividades del organismo;
+
+II. Revisar y aprobar los programas de trabajo y el presupuesto general del Organismo;
+
+III. Aprobar la estructura administrativa y los manuales de operación del Organismo;
+
+IV. Revisar y aprobar en su caso, los estados financieros y los balances, así como los informes mensuales y la cuenta pública anual del organismo, del ejercicio inmediato anterior;
+
+V. Someter a consideración del ayuntamiento las tarifas diferentes de los derechos por los servicios de suministro de agua potable, alcantarillado y saneamiento;
+
+VI. Aprobar en su caso, la obtención de créditos necesarios para el cumplimiento de su objeto;
+
+VII. Aprobar su presupuesto de egresos;
+
+VIII. Administrar los ingresos y contribuciones que, en los términos de esta Ley, la Ley de Ingresos de los Municipios para el ejercicio fiscal correspondiente, el Código Financiero del Estado de México y Municipios, y demás disposiciones jurídicas aplicables le corresponda percibir; y
+
+IX. Todas las demás que sean necesarias para el cumplimiento de los objetivos del Organismo.
+
 ###### Artículo 33.
 
 El director general será designado por el consejo directivo y tendrá las atribuciones que le confiera el reglamento de la presente ley, así como el acuerdo del cabildo respectivo.
 
 Para ocupar el cargo de director general, se requerirá tener experiencia mínima de 3 años en mandos medios o superiores de la administración de estos servicios.
 
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2009)</small>
+
+###### Artículo 33 Bis.
+
+El Director General del organismo descentralizado municipal tendrá las siguientes atribuciones:
+
+I. Asumir la Representación jurídica del Organismo;
+
+II. Actuar como autoridad administrativa para instaurar y resolver los procedimientos administrativos comunes e imponer las sanciones contempladas en esta Ley;
+
+III. Certificar la documentación oficial emanada del Consejo Directivo o de cualquiera de sus miembros y cuando se trate de documentación presentada ante el Órgano Superior de Fiscalización del Estado de México;
+
+IV. Supervisar y vigilar que el manejo, administración, registro, control, uso, mantenimiento y conservación de los recursos que conforman el patrimonio del organismo, se realice conforme a las disposiciones legales aplicables;
+
+V. Elaborar conjuntamente con el Órgano de Control Interno, el inventario general de los bienes muebles e inmuebles propiedad del organismo, haciendo que se inscriban en el libro especial, con expresión de sus valores y de todas las características de identificación como el uso y destino de los mismos;
+
+VI. Regularizar la propiedad de los bienes inmuebles del organismo;
+
+VII. Autorizar con su firma y presentar la documentación que deba remitirse al Órgano Superior de Fiscalización del Estado de México; y
+
+VIII. Las demás que le confieran los ordenamientos legales y el Consejo Directivo.
+
 ###### Artículo 34.
 
 El control y vigilancia de cada organismo descentralizado recaerá en el comisario, quien asistirá a todas las sesiones del consejo directivo, con voz pero sin voto. El síndico municipal que designe el ayuntamiento, ejercerá la función de comisario, con las facultades que expresamente le otorgue el reglamento de la presente ley.
+
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2009)</small>
+
+###### Artículo 34 Bis.
+
+Los servidores públicos del organismo además de las atribuciones señaladas en la presente Ley, tendrán las funciones y atribuciones contenidas en sus reglamentos interiores, manuales, acuerdos, circulares y otras disposiciones legales que tiendan a regular el funcionamiento del Organismo y serán responsables del ejercicio de las funciones propias de su competencia.
 
 ###### Artículo 35.
 
@@ -819,7 +871,7 @@ III. Revisar y aprobar los proyectos de los sistemas de tratamiento de aguas res
 
 ###### Artículo 83.
 
-El reglamento de esta ley establecerá los procedimientos para que se cumplan los parámetros máximos permisibles de contaminantes que se puedan descargar al sistema de drenaje, cuando no se cuente con sistemas públicos de tratamiento de aguas residuales. En caso de que alguna población cuente con sistema públicos, se podrán fijar otros parámetros diferentes a fin de igualar la descarga y pueda ser tratada en el sistema respectivo.
+El reglamento de esta ley establecerá los procedimientos para que se cumplan los parámetros máximos permisibles de contaminantes que se puedan descargar al sistema de drenaje, cuando no se cuente con sistemas públicos de tratamiento de aguas residuales. En caso de que alguna población cuente con sistema (sic) públicos, se podrán fijar otros parámetros diferentes a fin de igualar la descarga y pueda ser tratada en el sistema respectivo.
 
 ###### Artículo 84.
 
@@ -1237,7 +1289,7 @@ En cualquier caso, la desincorporación del dominio público se efectuará previ
 
 ###### Artículo 129.
 
-Los terrenos ganados por medios artificiales al encauzar una corriente o al limitar o desecar parcial o totalmente un vaso de propiedad estatal, pasarán del dominio público al privado del Estado mediante decreto de desincorporación. Las obras de encauzamiento o limitación se considerarán como parte integrante de los de la zona de protección respectivas, por lo que estarán sujetas al dominio público del Estado.
+Los terrenos ganados por medios artificiales al encauzar una corriente o al limitar o desecar parcial o totalmente un vaso de propiedad estatal, pasarán del dominio público al privado del Estado mediante decreto de desincorporación. Las obras de encauzamiento o limitación se considerarán como parte integrante de los de la zona de protección respectivas (sic), por lo que estarán sujetas al dominio público del Estado.
 
 ###### Artículo 130.
 
@@ -1463,7 +1515,7 @@ IV. Revocación del título o permiso respectivo, en los términos de lo dispues
 
 ###### Artículo 150.
 
-Las sanciones a que se refiere este capitulo se impondrán sin perjuicio de que la autoridad estatal, municipal o sus descentralizadas, inicien el procedimiento administrativo de ejecución para el cobro de los créditos fiscales.
+Las sanciones a que se refiere este capítulo se impondrán sin perjuicio de que la autoridad estatal, municipal o sus descentralizadas, inicien el procedimiento administrativo de ejecución para el cobro de los créditos fiscales.
 
 Las sanciones económicas que procedan por las faltas previstas en esta ley, tendrán destino específico a favor del ayuntamiento, del organismo prestador de los servicios, o en su caso, de la Comisión, y se impondrán sin perjuicio del cobro de los daños y perjuicios que resulten, así como de las multas por infracciones fiscales y de la aplicación de las sanciones por la responsabilidad penal que resulte.
 
@@ -1473,7 +1525,7 @@ Cuando los hechos que contravengan las disposiciones de esta ley y su reglamento
 
 ###### Artículo 152.
 
-Se entenderá por medidas de seguridad la adaptación y ejecución de acciones y disposiciones que, con apoyo en esta ley, dicten las autoridades del Gobierno del Estado o de los municipios, encaminada a evitar daños que puedan causar las instalaciones, construcciones y obras.
+Se entenderá por medidas de seguridad la adaptación y ejecución de acciones y disposiciones que, con apoyo en esta ley, dicten las autoridades del Gobierno del Estado o de los municipios, encaminada (sic) a evitar daños que puedan causar las instalaciones, construcciones y obras.
 
 ###### Artículo 153.
 
@@ -1596,3 +1648,9 @@ b) Autorización por escrito para la instalación de medidores a costa del usuar
 c) Pago del adeudo del mes de julio a la fecha de la firma del convenio con el usuario, que permita que esté al corriente en sus pagos.
 
 d) En caso de incumplimiento en el pago por más de tres meses.
+
+G.G 17 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
