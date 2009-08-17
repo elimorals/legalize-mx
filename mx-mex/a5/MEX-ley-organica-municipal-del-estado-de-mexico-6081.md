@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2009-08-10"
+last_updated: "2009-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2009.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -881,7 +881,9 @@ II. Ejecutar los acuerdos del ayuntamiento e informar su cumplimiento;
 
 III. Promulgar y publicar en la Gaceta Municipal el Bando Municipal, y ordenar la difusión de las normas de carácter general y reglamentos aprobados por el ayuntamiento;
 
-IV. Asumir la representación jurídica del municipio en los casos previstos por la ley;
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+IV. Asumir la representación jurídica del Municipio;
 
 V. Convocar a sesiones ordinarias y extraordinarias a los integrantes del ayuntamiento;
 
@@ -1307,13 +1309,15 @@ La Comisión de Planeación para el Desarrollo Municipal contará con un mínimo
 
 ### CAPITULO PRIMERO. De las Dependencias Administrativas
 
+> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2009)</small>
+
 ## TITULO IV. Régimen Administrativo
 
 ### CAPITULO SEGUNDO. De la Tesorería Municipal
 
 ###### Artículo 86.
 
-Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el ayuntamiento se auxiliará con las dependencias y entidades de la administración pública municipal, que en cada caso acuerde el cabildo a propuesta del presidente municipal, las que estarán subordinadas a este servidor público.
+Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el ayuntamiento se auxiliará con las dependencias y entidades de la administración pública municipal, que en cada caso acuerde el cabildo a propuesta del presidente municipal, las que estarán subordinadas a este servidor público. El servidor público titular de las referidas dependencias y entidades de la administración municipal, ejercerá las funciones propias de su competencia y será responsable por el ejercicio de dichas funciones y atribuciones contenidas en la Ley, sus reglamentos interiores, manuales, acuerdos, circulares y otras disposiciones legales que tiendan a regular el funcionamiento del Municipio.
 
 ###### Artículo 87.
 
@@ -1321,15 +1325,21 @@ Para el despacho, estudio y planeación de los diversos asuntos de la administra
 
 I. La secretaría del ayuntamiento;
 
-II. La tesorería municipal.
+II. La tesorería municipal;
+
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+III. La Dirección de Obras Públicas o equivalente.
 
 ###### Artículo 88.
 
 Las dependencias y entidades de la administración pública municipal conducirán sus acciones con base en los programas anuales que establezca el ayuntamiento para el logro de los objetivos del Plan de Desarrollo Municipal.
 
+> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 89.
 
-Las dependencias y entidades de la administración pública municipal tales como organismos públicos descentralizados, empresas de participación mayoritaria y fideicomisos, ejercerán las funciones propias de su competencia previstas en esta Ley o en los reglamentos o acuerdos expedidos por los ayuntamientos. En los reglamentos o acuerdos se establecerán las estructuras de organización de las unidades administrativas de los ayuntamientos, en función de las características socio-económicas de los respectivos municipios, de su capacidad económica y de los requerimientos de la comunidad.
+Las dependencias y entidades de la administración pública municipal, tales como organismos públicos descentralizados, empresas de participación mayoritaria y fideicomisos, ejercerán las funciones propias de su competencia previstas y serán responsables del ejercicio de las funciones propias de su competencia, en términos de la Ley o en los reglamentos o acuerdos expedidos por los ayuntamientos. En los reglamentos o acuerdos se establecerán las estructuras de organización de las unidades administrativas de los ayuntamientos, en función de las características socio-económicas de los respectivos municipios, de su capacidad económica y de los requerimientos de la comunidad.
 
 ###### Artículo 90.
 
@@ -1431,13 +1441,25 @@ XV. Solicitar a las instancias competentes, la práctica de revisiones circunsta
 
 XVI. Glosar oportunamente las cuentas del ayuntamiento;
 
-> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
-XVII. Contestar oportunamente los pliegos de observaciones y responsabilidad que haga el Órgano Superior de Fiscalización del Estado de México, informando al ayuntamiento;
+XVII. Contestar oportunamente los pliegos de observaciones y responsabilidad que haga el Órgano Superior de Fiscalización del Estado de México, así como atender en tiempo y forma las solicitudes de información que éste requiera, informando al Ayuntamiento;
 
-XVIII. Expedir copias certificadas de los documentos a su cuidado sólo por acuerdo expreso del ayuntamiento;
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
-XIX. Las que le señalen las demás disposiciones legales y el ayuntamiento.
+XVIII. Expedir copias certificadas de los documentos a su cuidado, por acuerdo expreso del Ayuntamiento y cuando se trate de documentación presentada ante el Órgano Superior de Fiscalización del Estado de México;
+
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+XIX. Recaudar y administrar los ingresos que se deriven de la suscripción de convenios, acuerdos o la emisión de declaratorias de coordinación; los relativos a las transferencias otorgadas a favor del Municipio en el marco del Sistema Nacional o Estatal de Coordinación Fiscal, o los que reciba por cualquier otro concepto; así como el importe de las sanciones por infracciones impuestas por las autoridades competentes, por la inobservancia de las diversas disposiciones y ordenamientos legales, constituyendo los créditos fiscales correspondientes;
+
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+XX. Dar cumplimiento a las leyes, convenios de coordinación fiscal y demás que en materia hacendaria celebre el Ayuntamiento con el Estado;
+
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+XXI. Las que le señalen las demás disposiciones legales y el ayuntamiento.
 
 ###### Artículo 96.
 
@@ -1450,6 +1472,64 @@ II. Caucionar el manejo de los fondos en términos de ley;
 III. No haber sido inhabilitado para desempeñar otro cargo, empleo o comisión públicos;
 
 IV. Cumplir con otros requisitos que señalen las leyes, o acuerde el ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2009)</small>
+
+###### Artículo 96 Bis.
+
+El Director de Obras Públicas o el Titular de la Unidad Administrativa equivalente, tiene las siguientes atribuciones:
+
+I. Realizar la programación y ejecución de las obras públicas y servicios relacionados, que por orden expresa del Ayuntamiento requieran prioridad;
+
+II. Planear y coordinar los proyectos de obras públicas y servicios relacionados con las mismas que autorice el Ayuntamiento, una vez que se cumplan los requisitos de licitación y otros que determine la ley de la materia;
+
+III. Proyectar las obras públicas y servicios relacionados, que realice el Municipio, incluyendo la conservación y mantenimiento de edificios, monumentos, calles, parques y jardines;
+
+IV. Construir y ejecutar todas aquellas obras públicas y servicios relacionados, que aumenten y mantengan la infraestructura municipal y que estén consideradas en el programa respectivo;
+
+V. Determinar y cuantificar los materiales y trabajos necesarios para programas de construcción y mantenimiento de obras públicas y servicios relacionados;
+
+VI. Vigilar que se cumplan y lleven a cabo los programas de construcción y mantenimiento de obras públicas y servicios relacionados;
+
+VII. Cuidar que las obras públicas y servicios relacionados cumplan con los requisitos de seguridad y observen las normas de construcción y términos establecidos;
+
+VIII. Vigilar la construcción en las obras por contrato y por administración que hayan sido adjudicadas a los contratistas;
+
+IX. Administrar y ejercer, en el ámbito de su competencia, de manera coordinada con el Tesorero municipal, los recursos públicos destinados a la planeación, programación, presupuestación, adjudicación, contratación, ejecución y control de la obra pública, conforme a las disposiciones legales aplicables y en congruencia con los planes, programas, especificaciones técnicas, controles y procedimientos administrativos aprobados;
+
+X. Verificar que las obras públicas y los servicios relacionados con la misma, hayan sido programadas, presupuestadas, ejecutadas, adquiridas y contratadas en estricto apego a las disposiciones legales aplicables;
+
+XI. Integrar y verificar que se elaboren de manera correcta y completa las bitácoras y/o expedientes abiertos con motivo de la obra pública y servicios relacionados con la misma, conforme a lo establecido en las disposiciones legales aplicables;
+
+XII. Promover la construcción de urbanización, infraestructura y equipamiento urbano;
+
+XIII. Formular y conducir la política municipal en materia de obras públicas e infraestructura para el desarrollo;
+
+XIV. Cumplir y hacer cumplir la legislación y normatividad en materia de obra pública;
+
+XV. Proyectar, formular y proponer al Presidente Municipal, el Programa General de Obras Públicas, para la construcción y mejoramiento de las mismas, de acuerdo a la normatividad aplicable y en congruencia con el Plan de Desarrollo Municipal y con la política, objetivos y prioridades del Municipio y vigilar su ejecución;
+
+XVI. Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición de inmuebles propiedad del municipio que le sean asignadas;
+
+XVII. Ejecutar y mantener las obras públicas que acuerde el Ayuntamiento, de acuerdo a la legislación y normatividad aplicable, a los planes, presupuestos y programas previamente establecidos, coordinándose, en su caso, previo acuerdo con el Presidente Municipal, con las autoridades Federales, Estatales y municipales concurrentes;
+
+XVIII. Vigilar que la ejecución de la obra pública adjudicada y los servicios relacionados con ésta, se sujeten a las condiciones contratadas;
+
+XIX. Establecer los lineamientos para la realización de estudios y proyectos de construcción de obras públicas;
+
+XX. Autorizar para su pago, previa validación del avance y calidad de las obras, los presupuestos y estimaciones que presenten los contratistas de obras públicas municipales;
+
+XXI. Formular el inventario de la maquinaria y equipo de construcción a su cuidado o de su propiedad, manteniéndolo en óptimas condiciones de uso;
+
+XXII. Coordinar y supervisar que todo el proceso de las obras públicas que se realicen en el municipio se realice conforme a la legislación y normatividad en materia de obra pública;
+
+XXIII. Controlar y vigilar el inventario de materiales para construcción;
+
+XXIV. Integrar y autorizar con su firma, la documentación que en materia de obra pública, deba presentarse al Órgano Superior de Fiscalización del Estado de México;
+
+XXV. Formular las bases y expedir la convocatoria a los concursos para la realización de las obras públicas municipales, de acuerdo con los requisitos que para dichos actos señale la legislación y normatividad respectiva, vigilando su correcta ejecución; y
+
+XXVI. Las demás que les señalen las disposiciones aplicables.
 
 ### CAPITULO CUARTO. De la Contraloría Municipal
 
@@ -2602,3 +2682,9 @@ G.G. 10 DE AGOSTO DE 2009.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 17 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
