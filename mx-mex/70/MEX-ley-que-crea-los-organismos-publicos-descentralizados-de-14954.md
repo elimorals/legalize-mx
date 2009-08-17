@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-los-organismos-publicos-descentralizados-de-14954"
 country: "mx"
 rank: "ley"
 publication_date: "1985-07-16"
-last_updated: "2002-12-11"
+last_updated: "2009-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE CARACTER MUNICIPAL, DENOMINADOS «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA»
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 16 de julio de 1985.
 
@@ -229,11 +229,27 @@ XIV. Revisar y autorizar los libros de Contabilidad y de inventarios que deba ll
 
 XV. Pedir y recibir los informes que requiera del personal del Organismo;
 
-XVI. Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+XVI. Supervisar la administración, registro, control, uso, mantenimiento y conservación adecuados de los bienes del organismo;
+
+> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+
+XVII. Vigilar que el manejo y administración de los recursos que conforman el patrimonio del organismo, se realice conforme a las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+
+XVIII. Autorizar con su firma y presentar la documentación que deba remitirse al Órgano Superior de Fiscalización del Estado de México; y
+
+> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+
+XIX. Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO DECIMO CUARTO.
 
-Corresponde a la Dirección:
+La Dirección tendrá las atribuciones y obligaciones siguientes:
 
 I. Dirigir los servicios que debe prestar el Sistema Municipal con la asesoría del D.I.F.E.M.;
 
@@ -241,13 +257,61 @@ II. Dirigir el funcionamiento del Sistema en todos sus aspectos, ejecutando los 
 
 III. Rendir los informes parciales que la Junta de Gobierno o la Presidencia les solicite;
 
-IV. En coordinación con el Tesorero ejecutar y controlar el presupuesto del Sistema Municipal, en los términos aprobados; y
+IV. En coordinación con el Tesorero ejecutar y controlar el presupuesto del Sistema Municipal, en los términos aprobados; y (sic)
 
-V. Las demás que sean necesarias para el ejercicio de los anteriores a juicio de la Junta de Gobierno y la Presidencia.
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+V. Cuidar que la aplicación de los gastos se haga llenando los requisitos legales conforme al presupuesto respectivo;
+
+> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+
+VI. Elaborar conjuntamente con el Órgano de Control Interno, el inventario general de los bienes muebles e inmuebles propiedad del organismo, haciendo que se inscriban en el libro especial, con expresión de sus valores y de todas las características de identificación como el uso y destino de los mismos;
+
+> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+
+VII. Regularizar la propiedad de los bienes inmuebles del organismo;
+
+> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+
+VIII. Certificar la documentación oficial emanada de la Junta de Gobierno o de cualquiera de sus miembros y cuando se trate de documentación presentada ante el Órgano Superior de Fiscalización del Estado de México;
+
+> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+
+IX. Integrar y autorizar con su firma, la documentación que deba presentarse al Órgano Superior de Fiscalización del Estado de México;
+
+> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+
+X. Supervisar y vigilar que el manejo, administración, registro, control, uso, mantenimiento y conservación de los recursos que conforman el patrimonio del organismo, se realice conforme a las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+
+XI. Las demás que sean necesarias para el ejercicio de los anteriores a juicio de la Junta de Gobierno y la Presidencia.
+
+> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO DECIMO QUINTO.
 
-El Tesorero será responsable del manejo del presupuesto del Sistema Municipal, lo cual hará en coordinación con el Director, debiendo informar los estados financieros mensualmente a la Junta de Gobierno o cuando ésta y la Presidencia lo soliciten.
+El Tesorero será el responsable del manejo del presupuesto del Sistema Municipal, y de la administración de los recursos que conforman el patrimonio del organismo, lo cual hará en coordinación con el Director, debiendo informar los estados financieros mensualmente a la Junta de Gobierno o cuando ésta y la presidencia lo soliciten, además tendrá las siguientes atribuciones:
+
+I. Administrar los recursos que conforman el patrimonio del organismo de conformidad con lo establecido en las disposiciones legales aplicables;
+
+II. Llevar los libros y registros contables, financieros y administrativos de los ingresos, egresos e inventarios;
+
+III. Proporcionar oportunamente a la Junta de Gobierno todos los datos e informes que sean necesarios para la formulación del Presupuesto de Egresos del organismo, vigilando que se ajuste a las disposiciones legales aplicables;
+
+IV. Presentar anualmente a la Junta de Gobierno un informe de la situación contable financiera de la Tesorería del Organismo;
+
+V. Contestar oportunamente los pliegos de observaciones y responsabilidades que haga el Órgano Superior de Fiscalización del Estado de México, así como atender en tiempo y forma las solicitudes de información que éste requiera, informando al Consejo Directivo.
+
+VI. Certificar los documentos a su cuidado, por acuerdo expreso de la Junta de Gobierno y cuando se trate de documentación presentada ante el Órgano Superior de Fiscalización del Estado de México;
+
+VII. Integrar y autorizar con su firma, la documentación que deba presentarse al Órgano Superior de Fiscalización del Estado de México; y
+
+VIII. Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
+
+> <small>(ADICIONADO, G.G.17 DE AGOSTO DE 2009)</small>
+
+ARTICULO DECIMO QUINTO BIS.- Los servidores públicos del organismo además de las atribuciones señaladas en la presente Ley, tendrán las funciones y atribuciones contenidas en sus reglamentos interiores, manuales, acuerdos, circulares y otras disposiciones legales que tiendan a regular el funcionamiento del Organismo y serán responsables del ejercicio de las funciones propias de su competencia.
 
 ###### ARTICULO DECIMO SEXTO.
 
@@ -271,7 +335,7 @@ Las relaciones laborales del Sistema Municipal y sus trabajadores, se regirán p
 
 ### CAPITULO CUARTO. CONTROL Y VIGILANCIA
 
-> <small>(REFORMADO, G.G. 27 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 1994)</small>
 
 ### CAPITULO QUINTO. PRERROGATIVAS Y FRANQUICIAS
 
@@ -348,3 +412,9 @@ Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente a su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 17 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
