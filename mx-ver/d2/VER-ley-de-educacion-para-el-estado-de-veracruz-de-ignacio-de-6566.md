@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2007-09-05"
+last_updated: "2009-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE AGOSTO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -109,9 +109,9 @@ VII. Crear conciencia para preservar la integridad de la familia;
 
 VIII. Promover el conocimiento de los ecosistemas existentes en el territorio del Estado y destacar la importancia de su vinculación con los individuos, en un sentido de mutua pertenencia entre éstos y el medio ambiente;
 
-> <small>(REFORMADA, G.O. 26 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2009)</small>
 
-IX. Crear conciencia de la necesidad de mejorar el ambiente, de preservar el equilibrio ecológico, hacer un aprovechamiento racional de los recursos naturales y promover la cultura de la reforestación;
+IX. Crear conciencia de la necesidad de mejorar el ambiente, preservar el equilibrio ecológico, hacer un aprovechamiento racional de los recursos naturales y promover la cultura de la reforestación, mediante cursos, foros, programas y talleres de educación ambiental en los planteles educativos;
 
 X. Fortalecer el aprecio por la historia de la entidad y de la región;
 
@@ -217,11 +217,17 @@ XIV. Adecuar el sistema estatal de créditos al sistema nacional de créditos, a
 
 XV. Promover la participación social en favor de los servicios educativos;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2009)</small>
 
-XVI. Fomentar y difundir las actividades artísticas, culturales, físico-deportivas y ambientales en todas sus manifestaciones; y
+XVI. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
 
-XVII. Las demás atribuciones que con tal carácter establezca la Ley General de Educación, esta ley y las disposiciones que de las mismas emanen.
+> <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2009)</small>
+
+XVII. Establecer cursos, foros, programas y talleres de educación ambiental, con la finalidad de concientizar a los alumnos, y crear en ellos habilidades y actitudes necesarias, tendientes a comprender y apreciar la relación mutua entre el hombre, su cultura y el medio biofísico circundante; y
+
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2009)</small>
+
+XVIII. Las demás atribuciones que con tal carácter establezca la Ley General de Educación, esta ley y las disposiciones que de la misma emanen.
 
 ###### ARTICULO 15.
 
@@ -321,9 +327,13 @@ I. Los propósitos específicos del aprendizaje;
 
 II. Los contenidos pertinentes y suficientes para la formación de los educandos, organizados de tal modo que se cumplan los propósitos del nivel;
 
-III. Las propuestas didáctico-metodológicas pertinentes a la naturaleza de los educandos, de los propósitos, de los contenidos; y
+III. Las propuestas didáctico-metodológicas pertinentes a la naturaleza de los educandos, de los propósitos, de los contenidos; y (sic)
 
-IV. Los criterios, normas y procedimientos de evaluación y acreditación del aprendizaje.
+IV. Los criterios, normas y procedimientos de evaluación y acreditación del aprendizaje;
+
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2009)</small>
+
+V. Cursos, foros, programas y talleres de educación ambiental en los centros educativos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE AGOSTO DE 2002)</small>
 
@@ -1070,5 +1080,11 @@ G.O. 5 DE SEPTIEMBRE DE 2007.
 DECRETO NUMERO 913.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE AGOSTO DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
