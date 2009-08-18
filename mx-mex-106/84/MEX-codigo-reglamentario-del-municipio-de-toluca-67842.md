@@ -4,7 +4,7 @@ identifier: "MEX-codigo-reglamentario-del-municipio-de-toluca-67842"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-09"
-last_updated: "2009-08-14"
+last_updated: "2009-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CODIGO REGLAMENTARIO DEL MUNICIPIO DE TOLUCA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL SEMANAL: 14 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL SEMANAL: 18 DE AGOSTO DE 2009.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 9 de marzo de 2009.
 
@@ -233,7 +233,9 @@ II. Informe anual del Presidente Municipal;
 
 III. Asistencia del Presidente de la República o del Gobernador del Estado;
 
-IV. Informe semestral del Coordinador Municipal de Derechos Humanos;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+IV. Informe anual del Defensor Municipal de Derechos Humanos;
 
 V. Entrega de llaves de la Ciudad o algún otro reconocimiento que el Ayuntamiento determine otorgar; y
 
@@ -467,49 +469,49 @@ Salvo normas en contrario, las propias disposiciones se observarán en el funcio
 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 3.
 
 1.- La organización y funcionamiento de la Administración Pública Municipal Centralizada se regirán por la Constitución Federal, la Constitución Estatal, la Ley Orgánica Municipal, el Bando Municipal, el presente capítulo y demás disposiciones que resulten aplicables.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 3.
 
-2.- Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de la Administración Pública, auxiliarán al Presidente Municipal las siguientes dependencias:
+2.- Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de la Administración Pública Municipal, auxiliarán al Presidente Municipal las siguientes dependencias:
 
 I. Secretaría del Ayuntamiento;
 
-II. Tesorería Municipal;
+II. Contraloría Municipal;
 
-III. Contraloría Municipal;
+III. Dirección General de Tesorería y Administración;
 
-IV. Dirección General de Gobierno;
+IV. Dirección General de Seguridad Pública y Gobernación;
 
-V. Dirección General de Seguridad Pública, Tránsito y Vialidad;
+V. Dirección General de Desarrollo Social y Participación Ciudadana;
 
-VI. Dirección General de Administración;
+VI. Dirección General de Desarrollo Urbano y Obras Públicas;
 
-VII. Dirección General de Desarrollo Social;
+VII. Dirección General de Servicios Públicos y Medio Ambiente;
 
-VIII. Dirección General de Participación Ciudadana;
+VIII. Dirección General de Desarrollo Económico y Regulación del Comercio;
 
-IX. Dirección General de Desarrollo Urbano y Obras Públicas;
+IX. Unidad de Información, Planeación, Programación y Evaluación;
 
-X. Dirección General de Servicios Públicos;
+X. Unidad de Desarrollo Metropolitano; y
 
-XI. Coordinación General de Planeación y Evaluación;
+XI. Unidad de Comunicación Social.
 
-XII. Coordinación General de Desarrollo Económico;
-
-XIII. Coordinación General de Medio Ambiente;
-
-XIV. Coordinación General de Urbanismo y Vivienda; y
-
-XV. Coordinación General de Comunicación Social.
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-3.- El nombramiento del Secretario del Ayuntamiento, Tesorero Municipal, Contralor Municipal, Directores Generales, Coordinadores Generales y servidores públicos que señale la Ley Orgánica Municipal, lo acordará el Ayuntamiento a propuesta del Presidente Municipal, quien podrá removerlos libremente por causa justificada cuando la remoción no esté determinada en algún otro ordenamiento legal.
+3.- El nombramiento del Secretario del Ayuntamiento, Contralor Municipal, Directores Generales, Jefes de Unidad y servidores públicos que señale la Ley Orgánica Municipal, lo acordará el Ayuntamiento a propuesta del Presidente Municipal, quien podrá removerlos libremente por causa justificada cuando la remoción no esté determinada en algún otro ordenamiento legal.
 
 Dichos servidores públicos serán suplidos en sus ausencias temporales hasta por quince días, por el director de área o por quien tenga el nivel jerárquico inmediato inferior, que ellos designen. En las ausencias mayores de quince días, por el servidor público que designe el Presidente Municipal.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
@@ -525,13 +527,19 @@ IV. No estar inhabilitado para ocupar algún empleo, cargo o comisión en el ser
 
 V. Tener los conocimientos suficientes para poder desempeñar el cargo.
 
+> <small>(REFORMADO [N. DE REPUBLICADO], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 3.
 
 5.- El Presidente Municipal resolverá cualquier controversia sobre la competencia de las dependencias a que se refiere este capítulo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 3.
 
 6.- Los titulares de las dependencias municipales podrán delegar a sus subalternos cualesquiera de sus facultades, salvo aquéllas que la Ley Orgánica Municipal, el Bando Municipal u otros ordenamientos dispongan que deban ser ejercidas por ellos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
@@ -569,11 +577,13 @@ XV. Rendir mensualmente al Presidente Municipal un informe detallado de las acti
 
 XVI. Ejercer las atribuciones específicas que le asigna el presente capítulo y las que les encomiende el Presidente Municipal.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 3.
 
-8.- El Presidente Municipal podrá contar, además, con las unidades administrativas necesarias para atender programas prioritarios, así como servicios de asesoría y de apoyo técnico, conforme al presupuesto de egresos del Municipio.
+8.- El Presidente Municipal podrá contar, además, con las Secretarías Particular, Técnica y Privada, así como servicios de asesoría y de apoyo técnico, conforme al presupuesto de egresos del Municipio.
 
-Para el despacho de los asuntos de la Presidencia Municipal, su titular también podrá constituir comités permanentes o transitorios, integrados con titulares de la (sic) dependencias administrativas o de los organismo auxiliares que determine, según la materia o el tema de que se trate.
+Para el despacho de los asuntos de la Presidencia Municipal, su titular también podrá constituir comités permanentes o transitorios, integrados con titulares de las dependencias administrativas o de los organismo (sic) auxiliares que determine, según la materia o el tema de que se trate.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
@@ -599,7 +609,9 @@ VIII. Expedir las certificaciones y constancias que legalmente procedan, así co
 
 IX. Publicar las disposiciones que determine el Ayuntamiento y el Presidente Municipal, en la Gaceta Municipal;
 
-X. Intervenir y apoyar en la elaboración del proyecto del Bando Municipal, el Código Reglamentario y demás disposiciones de carácter general;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+X. Intervenir y apoyar en la elaboración del proyecto del Bando Municipal, el Código Reglamentario Municipal y demás disposiciones de carácter general;
 
 XI. Intervenir y apoyar en la elaboración del Plan de Desarrollo Municipal;
 
@@ -609,7 +621,9 @@ XIII. Tener a su cargo el acervo bibliohemerográfico con que cuenta el Archivo 
 
 XIV. Editar anualmente el prontuario de legislación municipal;
 
-XV. Instrumentar el debido funcionamiento de la Coordinación Municipal de Derechos Humanos;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+XV. Apoyar el debido funcionamiento de la Defensoría Municipal de Derechos Humanos;
 
 XVI. Requerir a las demás áreas que integran la Administración Pública Municipal la información que sea necesaria con motivo de la integración de los expedientes que sean puestos a consideración del Ayuntamiento;
 
@@ -617,15 +631,23 @@ XVII. Ser el enlace con las distintas instancias federales, estatales y municipa
 
 XVIII. Las demás que le confieran otros ordenamientos.
 
-###### Artículo 3.
+XIX. (SIC)
 
-10.- La Secretaría del Ayuntamiento, para el cumplimiento de sus atribuciones, se auxiliará de la Dirección Jurídica y Consultiva.
-
-DE LA DIRECCIÓN JURÍDICA Y CONSULTIVA
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-11.- El titular de la Dirección Jurídica y Consultiva cuenta con las siguientes atribuciones:
+10.- La Secretaría del Ayuntamiento, para el cumplimiento de sus atribuciones, se auxiliará de la Consejería Jurídica Municipal. También contará con la Subdirección de Apoyo Institucional.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA CONSEJERÍA JURÍDICA MUNICIPAL
+
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+11.- El titular de la Consejería Jurídica Municipal tiene las siguientes atribuciones:
 
 I. Atender los asuntos jurídicos que le correspondan al Ayuntamiento;
 
@@ -633,7 +655,9 @@ II. Asesorar y apoyar a los síndicos en los recursos, juicios y trámites legal
 
 III. Emitir opinión respecto de las consultas legales que le formulen las dependencias municipales;
 
-IV. Atender los juicios de amparo interpuestos en contra de actos de cualquier autoridad municipal;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+IV. Atender los medios de defensa de control constitucional interpuestos en contra de actos de cualquier autoridad municipal;
 
 V. Intervenir en la formulación de denuncias y querellas que procedan y tramitar la reparación de daños y perjuicios, el pago de créditos no fiscales y el reconocimiento o la restitución en el goce de derechos que correspondan al Municipio;
 
@@ -661,13 +685,83 @@ XVI. Suplir las faltas temporales del Secretario del Ayuntamiento, que no exceda
 
 XVII. Las demás que le confieran otros ordenamientos.
 
-#### SECCIÓN TERCERA. DE LA TESORERÍA MUNICIPAL
+XVIII. (SIC)
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN TERCERA. DE LA CONTRALORÍA MUNICIPAL
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-12.- Al titular de la Tesorería Municipal corresponde, además de las atribuciones que le confieren la Ley Orgánica Municipal y el Código Financiero, el despacho de los siguientes asuntos:
+12.- El titular de la Contraloría Municipal tiene las siguientes atribuciones:
 
-I. Emitir las medidas técnico-administrativas necesarias para la mejor organización, funcionamiento y evaluación de las actividades propias de la Tesorería Municipal;
+I. Planear, programar y organizar el sistema de control y evaluación de la Administración Pública Municipal, que permita detectar las desviaciones de los recursos asignados a programas y proponer medidas preventivas y correctivas, así corno informar al Presidente Municipal sobre el avance y problemas detectados en la evaluación de los mismos;
+
+II. Vigilar la aplicación de las normas jurídicas y administrativas en la ejecución de sistemas y procedimientos operacionales y administrativos;
+
+III. Verificar la eficiencia de las medidas de simplificación administrativa;
+
+IV. Fiscalizar e inspeccionar el ejercicio del gasto público municipal y su congruencia con el presupuesto de egresos;
+
+V. Vigilar y supervisar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a las dependencias municipales y organismos auxiliares en su aplicación;
+
+VI. Comprobar el cumplimiento por parte de las dependencias de la Administración Pública Municipal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del gobierno municipal;
+
+VII. Realizar por sí o a solicitud de parte, auditorías y evaluaciones a las dependencias, organismos y autoridades auxiliares del Ayuntamiento, con el fin de promover la eficiencia y transparencia en sus operaciones y verificar el cumplimiento de las metas y objetivos contenidos en sus programas;
+
+VIII. Fiscalizar los recursos estatales y federales derivados de los acuerdos y convenios respectivos, ejercidos por las dependencias municipales y organismos auxiliares;
+
+IX. Vigilar, en la esfera de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas adquiridas por el gobierno municipal, solicitándoles la información relacionada con las operaciones que realicen y fincar las deductivas y responsabilidades que en su caso procedan;
+
+X. Opinar, previamente a su expedición, sobre las normas de contabilidad y de control en materia financiera, de programación y presupuestación que elabore la Dirección General de Tesorería y Administración, así como las normas que en materia de contratación de deuda formule la misma;
+
+XI. Normar y vigilar las actividades de los titulares de las contralorías internas y de los auditores externos de los organismos auxiliares;
+
+XII. Coordinarse con el Órgano Superior de Fiscalización y la Contraloría del Poder Legislativo, para el establecimiento de los mecanismos que permitan mejorar el cumplimiento de sus respectivas atribuciones;
+
+XIII. Informar permanentemente al Presidente Municipal del resultado de las auditorias y evaluaciones practicadas a las dependencias y organismos de la Administración Pública Municipal;
+
+XIV. Atender y dar seguimiento a las quejas, denuncias y sugerencias presentadas por los particulares;
+
+XV. Vigilar el cumplimiento de los estándares de calidad de las obras públicas y las especificaciones técnicas de los materiales utilizados, así como intervenir en la entrega-recepción de las obras públicas municipales;
+
+XVI. Conocer e investigar los actos, omisiones o conductas de los servidores públicos municipales, incluyendo a los titulares de las contralorías internas de los organismos auxiliares, para constituir responsabilidades administrativas y en su caso, aplicar las sanciones procedentes;
+
+XVII. Tramitar y resolver los procedimientos administrativos disciplinarios y resarcitorios, en términos de los ordenamientos legales aplicables;
+
+XVIII. Hacer de conocimiento del Ministerio Público los hechos que a su juicio puedan implicar responsabilidad penal de algún servidor público municipal;
+
+XIX. Realizar las acciones correspondientes en el sistema de altas, bajas y anualidad para la presentación de manifestación de bienes, así como en el sistema integral de responsabilidades;
+
+XX. Intervenir, para efectos de verificación, en las actas de entrega-recepción de las dependencias de la Administración Pública Municipal y de las autoridades auxiliares del Ayuntamiento;
+
+XXI. Establecer medidas y mecanismos de modernización administrativa, tendentes a lograr la eficacia de la vigilancia, fiscalización y control del gasto público municipal;
+
+XXII. Coordinarse con la Secretaría de la Contraloría del Gobierno del Estado, para el mejor cumplimiento de la responsabilidad asignada;
+
+XXIII. Verificar que los servidores públicos municipales cumplan con la obligación de presentar oportunamente la manifestación de bienes, en términos de la ley en la materia; y
+
+XXIV. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+13.- La Contraloría Municipal, para el cumplimiento de sus atribuciones, se auxiliará de las Subdirecciones de Responsabilidades y Situación Patrimonial, de Previsión y Control Administrativo y de Control Financiero.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DE TESORERÍA Y ADMINISTRACIÓN
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+14.- Al titular de la Dirección General de Tesorería y Administración corresponde el despacho de los siguientes asuntos:
+
+I. Emitir las medidas técnico-administrativas necesarias para la mejor organización, funcionamiento y evaluación de las actividades propias de la Dirección General;
 
 II. Formular la política financiera y crediticia del Municipio;
 
@@ -675,43 +769,77 @@ III. Proponer al Ayuntamiento los presupuestos de ingresos y egresos; informar d
 
 IV. Emitir los criterios y políticas para la aplicación de los ordenamientos fiscales, así como resolver las diferencias que se susciten en la interpretación de los mismos, en términos de lo que dispone el Código Financiero;
 
-V. Coordinar la orientación técnica a los contribuyentes en el cumplimiento de sus obligaciones fiscales, el calendario de aplicación de las disposiciones tributarias y los procedimientos para su debida observancia;
+V. Emitir las políticas, normas y lineamientos en los renglones de personal, recursos materiales, recursos financieros y servicios generales de la administración Pública Municipal;
 
-VI. Proporcionar la asesoría en materia de interpretación y aplicación de las leyes tributarias que le sea solicitada por el Ayuntamiento y la Administración Pública Municipal;
+VI. Vigilar el cumplimiento de las disposiciones legales de carácter fiscal, aplicables en el ámbito municipal;
 
-VII. Vigilar la aplicación del procedimiento administrativo de ejecución para recuperar los créditos fiscales;
+VII. Dar cumplimiento a las disposiciones legales que rigen las relaciones entre el Gobierno Municipal y los servidores públicos;
 
-VIII. Emitir las políticas que en materia de ejercicio presupuestal sean de observancia por las dependencias municipales;
+VIII. Adquirir los bienes y servicios que requiera el funcionamiento de la Administración Pública Municipal;
 
-IX. Proponer las disposiciones de racionalidad, austeridad y disciplina presupuestales;
+IX. Proveer oportunamente a las dependencias municipales de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones; y
 
-X. Opinar respecto de las solicitudes de ampliación del monto del gasto operativo de las dependencias administrativas y organismos auxiliares;
+X. Las demás que le confieran otros ordenamientos.
 
-XI. Vigilar que la cuenta pública y los informes mensuales del Ayuntamiento y de los organismos auxiliares se lleven a cabo de manera oportuna y con apego a los lineamientos establecidos por el Órgano Superior de Fiscalización del Poder Legislativo del Estado;
-
-XII. Coadyuvar con el Primer Síndico en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la hacienda pública municipal, así como en la tramitación de los recursos administrativos de inconformidad en materia fiscal que interpongan los contribuyentes;
-
-XIII. Administrar y mantener actualizada la base catastral del Municipio;
-
-XIV. Vigilar la debida garantía del interés fiscal, cuando así lo determinen las disposiciones legales;
-
-XV. Hacer efectivos los depósitos, fianzas, títulos de crédito y en general cualquier garantía o derecho otorgado a favor del Ayuntamiento, incluyendo el adeudo de intereses o de los accesorios legales generados por pago extemporáneo;
-
-XVI. Ejercer en el ámbito de su competencia las atribuciones derivadas del sistema estatal de coordinación hacendaria, así como de los convenios y acuerdos que se celebren en el marco del propio sistema; y
-
-XVII. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-13.- La Tesorería Municipal, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Ingresos, de Egresos, de Contaduría y de Información Geográfica.
+15.- La Dirección General de Tesorería y Administración, para el cumplimiento de sus atribuciones, se auxiliará de la Tesorería Municipal y la Dirección de Administración.
 
-DE LA DIRECCIÓN DE INGRESOS
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-#### SECCIÓN CUARTA. DE LA CONTRALORÍA MUNICIPAL
+SUBSECCIÓN PRIMERA
+
+DE LA TESORERÍA MUNICIPAL
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-14.- El titular de la Dirección de Ingresos cuenta con las siguientes atribuciones:
+16.- El titular de la Tesorería Municipal tiene las siguientes atribuciones:
+
+I. Coordinar la orientación técnica a los contribuyentes en el cumplimiento de sus obligaciones fiscales, el calendario de aplicación de las disposiciones tributarias y los procedimientos para su debida observancia;
+
+II. Proporcionar la asesoría en materia de interpretación y aplicación de las leyes tributarias que le sea solicitada por el Ayuntamiento y la Administración Pública Municipal;
+
+III. Vigilar la aplicación del procedimiento administrativo de ejecución para recuperar los créditos fiscales;
+
+IV. Emitir las políticas que en materia de ejercicio presupuestal sean de observancia por las dependencias municipales;
+
+V. Proponer las disposiciones de racionalidad, austeridad y disciplina presupuestales;
+
+VI. Opinar respecto de las solicitudes de ampliación del monto del gasto operativo de las dependencias administrativas y organismos auxiliares;
+
+VII. Vigilar que la cuenta pública y los informes mensuales del Ayuntamiento y de los organismos auxiliares se lleven a cabo de manera oportuna y con apego a los lineamientos establecidos por el Órgano Superior de Fiscalización del Poder Legislativo del Estado;
+
+VIII. Coadyuvar con el Primer Síndico en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la hacienda pública municipal, así como en la tramitación de los recursos administrativos de inconformidad en materia fiscal que interpongan los contribuyentes;
+
+IX. Administrar y mantener actualizada la base catastral del Municipio;
+
+X. Vigilar la debida garantía del interés fiscal, cuando así lo determinen las disposiciones legales;
+
+XI. Hacer efectivos los depósitos, fianzas, títulos de crédito y en general cualquier garantía o derecho otorgado a favor del Ayuntamiento, incluyendo el adeudo de intereses o de los accesorios legales generados por pago extemporáneo;
+
+XII. Ejercer en el ámbito de su competencia las atribuciones derivadas del sistema estatal de coordinación hacendaria, así como de los convenios y acuerdos que se celebren en el marco del propio sistema; y
+
+XIII. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+17.- La Tesorería Municipal, para el cumplimiento de sus atribuciones, se auxiliará de las Subdirecciones de Ingresos, de Egresos, de Contaduría y de Catastro.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA SUBDIRECCIÓN DE INGRESOS
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+18.- El titular de la Subdirección de Ingresos cuenta con las siguientes atribuciones:
 
 I. Proponer el programa general de recaudación de ingresos tributarios;
 
@@ -731,7 +859,7 @@ VIII. Aplicar el procedimiento administrativo de ejecución para el cobro de cr�
 
 IX. Vigilar el manejo de formas valoradas y valorables, utilizadas en el procedimiento de recaudación;
 
-X. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, verificaciones y demás actos de comprobación de obligaciones fiscales que establezca la legislación;
+X. Ordenar y practicar visitas domiciliarias, auditorias, inspecciones, verificaciones y demás actos de comprobación de obligaciones fiscales que establezca la legislación;
 
 XI. Establecer los sistemas de control y procedimientos internos a que debe ajustarse la revisión del cumplimiento de obligaciones fiscales;
 
@@ -749,11 +877,15 @@ XVII. Ejercer las garantías del interés fiscal que se hubieran dado a favor de
 
 XVIII. Las demás que le confieran otros ordenamientos.
 
-DE LA DIRECCIÓN DE EGRESOS
+> <small>(REFORMADA SU DENOMINACION [N. DE ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA SUBDIRECCIÓN DE EGRESOS
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-15.- El titular de la Dirección de Egresos tiene las siguientes atribuciones:
+19.- El titular de la Subdirección de Egresos tiene las siguientes atribuciones:
 
 I. Proponer el presupuesto anual de egresos;
 
@@ -779,11 +911,15 @@ XI. Asesorar a las dependencias municipales en la elaboración del proyecto de p
 
 XII. Las demás que le confieran otros ordenamientos.
 
-DE LA DIRECCIÓN DE CONTADURÍA
+> <small>(REFORMADA SU DENOMINACION [N. DE ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA SUBDIRECCIÓN DE CONTADURÍA
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-16.- El titular de la Dirección de Contaduría cuenta con las siguientes atribuciones:
+20.- El titular de la Subdirección de Contaduría cuenta con las siguientes atribuciones:
 
 I. Registrar y controlar las operaciones financieras, presupuestales y contables que emanen de las dependencias del Ayuntamiento;
 
@@ -799,11 +935,15 @@ VI. Cumplir con las obligaciones fiscales a que está sujeto el Ayuntamiento; y
 
 VII. Las demás que le confieran otros ordenamientos.
 
-DE LA DIRECCIÓN DE INFORMACIÓN GEOGRÁFICA
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA SUBDIRECCIÓN DE CATASTRO
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-17.- El titular de la Dirección de Información Geográfica tiene las siguientes atribuciones:
+21.- El titular de la Subdirección de Catastro tiene las siguientes atribuciones:
 
 I. Integrar, actualizar y resguardar el padrón catastral con la información gráfica y alfanumérica de los bienes inmuebles del Municipio, del sector público y privado, cualquiera que sea su régimen de propiedad;
 
@@ -841,7 +981,7 @@ XVII. Elaborar citatorios y actas circunstanciadas producto de investigaciones c
 
 XVIII. Fomentar la capacitación y adiestramiento del personal en materia catastral;
 
-XIX. Elaborar las respuestas a las solicitudes presentadas a la Dirección por las personas físicas o jurídicas colectivas y autorizar los documentos relacionados con el procedimiento catastral;
+XIX. Elaborar las respuestas a las solicitudes presentadas por las personas físicas o jurídicas colectivas y autorizar los documentos relacionados con el procedimiento catastral;
 
 XX. Organizar, resguardar y controlar la cartografía catastral del Municipio;
 
@@ -849,7 +989,7 @@ XXI. Integrar, controlar, resguardar, administrar, enriquecer y mantener actuali
 
 XXII. Practicar investigaciones geoinformáticas;
 
-XXIII. Proponer la utilización de productos y programas geográficos;
+XXIII Proponer la utilización de productos y programas geográficos;
 
 XXIV. Expedir las normas, usos y ejecución de la cartografía catastral sobre los sistemas de información geográfica por parte de las dependencias municipales, cuando a éstas le sean autorizadas para el desempeño de sus funciones;
 
@@ -859,133 +999,153 @@ XXVI. Elaborar la cartografía temática de acuerdo con las especificaciones que
 
 XXVII. Las demás que le confieran otros ordenamientos.
 
-###### Artículo 3.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-18.- El titular de la Contraloría Municipal cuenta con las siguientes atribuciones:
+SUBSECCIÓN SEGUNDA
 
-I. Planear, programar y organizar el sistema de control y evaluación de la Administración Pública Municipal, que permita detectar las desviaciones de los recursos asignados a programas y proponer medidas preventivas y correctivas, así como informar al Presidente Municipal sobre el avance y problemas detectados en la evaluación de los mismos;
+DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
-II. Vigilar la aplicación de las normas jurídicas y administrativas en la ejecución de sistemas y procedimientos operacionales y administrativos;
-
-III. Verificar la eficiencia de las medidas de simplificación administrativa;
-
-IV. Fiscalizar e inspeccionar el ejercicio del gasto público municipal y su congruencia con el presupuesto de egresos;
-
-V. Vigilar y supervisar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a las dependencias municipales y organismos auxiliares en su aplicación;
-
-VI. Comprobar el cumplimiento por parte de las dependencias de la Administración Pública Municipal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del gobierno municipal;
-
-VII. Realizar por sí o a solicitud de parte, auditorías y evaluaciones a las dependencias, organismos y autoridades auxiliares del Ayuntamiento, con el fin de promover la eficiencia y transparencia en sus operaciones y verificar el cumplimiento de las metas y objetivos contenidos en sus programas;
-
-VIII. Fiscalizar los recursos estatales y federales derivados de los acuerdos y convenios respectivos, ejercidos por las dependencias municipales y organismos auxiliares;
-
-IX. Vigilar, en la esfera de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas adquiridas por el gobierno municipal, solicitándoles la información relacionada con las operaciones que realicen y fincar las deductivas y responsabilidades que en su caso procedan;
-
-X. Opinar, previamente a su expedición, sobre las normas de contabilidad y de control en materia financiera, de programación y presupuestación que elabore la Tesorería Municipal, así como las normas que en materia de contratación de deuda formule la misma;
-
-XI. Normar y vigilar las actividades de los titulares de las contralorías internas y de los auditores externos de los organismos auxiliares;
-
-XII. Coordinarse con el Órgano Superior de Fiscalización y la Contraloría del Poder Legislativo, para el establecimiento de los mecanismos que permitan mejorar el cumplimiento de sus respectivas atribuciones;
-
-XIII. Informar permanentemente al Presidente Municipal del resultado de las auditorías y evaluaciones practicadas a las dependencias y organismos de la Administración Pública Municipal;
-
-XIV. Atender y dar seguimiento a las quejas, denuncias y sugerencias presentadas por los particulares;
-
-XV. Vigilar el cumplimiento de los estándares de calidad de las obras públicas y las especificaciones técnicas de los materiales utilizados, así como intervenir en la entrega-recepción de las obras públicas municipales;
-
-XVI. Conocer e investigar los actos, omisiones o conductas de los servidores públicos municipales, incluyendo a los titulares de las contralorías internas de los organismos auxiliares, para constituir responsabilidades administrativas y en su caso, aplicar las sanciones procedentes;
-
-XVII. Tramitar y resolver los procedimientos administrativos disciplinarios y resarcitorios, en términos de los ordenamientos legales aplicables;
-
-XVIII. Hacer de conocimiento del Ministerio Público los hechos que a su juicio puedan implicar responsabilidad penal de algún servidor público municipal;
-
-XIX. Realizar las acciones correspondientes en el sistema de altas, bajas y anualidad para la presentación de manifestación de bienes, así como en el sistema integral de responsabilidades;
-
-XX. Intervenir, para efectos de verificación, en las actas de entrega-recepción de las dependencias de la Administración Pública Municipal y de las autoridades auxiliares del Ayuntamiento;
-
-XXI. Establecer medidas y mecanismos de modernización administrativa, tendentes a lograr la eficacia de la vigilancia, fiscalización y control del gasto público municipal;
-
-XXII. Coordinarse con la Secretaría de la Contraloría del Gobierno del Estado, para el mejor cumplimiento de la responsabilidad asignada;
-
-XXIII. Verificar que los servidores públicos municipales cumplan con la obligación de presentar oportunamente la manifestación de bienes, en términos de la ley en la materia; y
-
-XXIV. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-19.- EL titular de la Dirección General de Gobierno tiene las siguientes atribuciones:
+22.- El titular de la Dirección de Administración tiene las siguientes atribuciones:
 
-I. Coordinar y vigilar el adecuado cumplimiento de las leyes, Bando Municipal, el presente Código Reglamentario Municipal y demás disposiciones legales en materia comercial, industrial, de prestación de servicios y de protección civil;
+I. Organizar, coordinar y dirigir los sistemas de reclutamiento, selección, contratación y desarrollo de personal, adquisiciones, guarda y distribución de bienes materiales y servicios generales;
 
-II. Autorizar el otorgamiento, revalidación y revocación de permisos y licencias de funcionamiento, que se relacionen con actividades comerciales, industriales y de prestación de servicios, conforme a las normas jurídicas respectivas;
+II. Llevar a cabo el mantenimiento y resguardo de los bienes muebles del Ayuntamiento;
 
-III. Ordenar y acordar el control, verificación e inspección de las actividades comerciales, industriales y de prestación de servicios que se realicen en el territorio municipal;
+III. Coordinar el Archivo Administrativo del Municipio, salvaguardando la información en términos de las disposiciones legales;
 
-IV. Supervisar que los espectáculos y diversiones públicas se desarrollen conforme a las disposiciones legales aplicables;
+IV. Establecer y mantener una coordinación permanente con las dependencias correspondientes para el ágil y adecuado aprovisionamiento de recursos;
 
-V. Vigilar el cumplimiento de las normas relativas a cultos religiosos, juegos y sorteos permitidos, detonantes y pirotecnias, en el ámbito de la competencia municipal;
+V. Coordinar la elaboración del programa anual de adquisiciones del Ayuntamiento, con base en los lineamientos establecidos para tal efecto;
 
-VI. Vigilar que los jóvenes en edad de hacerlo, realicen el servicio militar nacional, cuidando que se les convoque con oportunidad en el territorio municipal;
+VI. Verificar que se cumplan las disposiciones en materia de trabajo, seguridad e higiene laboral, así como las del presente ordenamiento, respecto de los derechos y obligaciones del personal;
 
-VII. Fomentar la capacitación y actualización de los servidores públicos de la dependencia, para garantizar el estricto cumplimiento de la normatividad relacionada con su competencia; y
+VII. Registrar las altas, bajas, cambios, permisos y licencias por incapacidad, entre otras, del personal y su correcta aplicación en el archivo de expedientes;
 
-VIII. Las demás que le confieran otros ordenamientos.
+VIII. Elaborar y distribuir oportunamente la nómina para el pago al personal que labora en el Ayuntamiento, apegándose al presupuesto autorizado y a los movimientos establecidos;
 
-###### Artículo 3.
+IX. Elaborar programas de capacitación y adiestramiento de personal, conforme a las necesidades institucionales y a las propias del personal;
 
-20.- La Dirección General de Gobierno, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Licencias y Permisos y de Concertación e Inspección.
+X. Fortalecer las relaciones con las agrupaciones sindicales del Ayuntamiento para acordar los asuntos laborales del personal;
 
-DE LA DIRECCIÓN DE PERMISOS Y LICENCIAS
+XI. Dotar adecuada y oportunamente a las dependencias, de acuerdo al presupuesto de egresos respectivo, de los elementos necesarios para su operación y proporcionar los servicios de correspondencia, impresión, fotocopiado, transporte, mantenimiento de edificios, vehículos e intendencia y todos aquellos que sean necesarios para el eficaz desempeño de la oficina;
 
-###### Artículo 3.
+XII. Integrar y actualizar el catálogo general de proveedores para conocer las oportunidades de calidad y precio de los recursos materiales;
 
-21.- El titular de la Dirección de Licencias y Permisos cuenta con las siguientes atribuciones:
+XIII. Vigilar el cumplimiento de las políticas generales establecidas para llevar a cabo las compras y suministro de los artículos y materiales solicitados;
 
-I. Registrar las solicitudes de licencias y permisos, para el ejercicio de la actividad comercial en el Municipio;
+XIV. Implementar y controlar el funcionamiento del sistema de orientación e información al público;
 
-II. Autorizar las licencias o permisos para ejercer la actividad comercial, solicitadas por las personas físicas o jurídicas colectivas, cuando reúnan todos los requisitos, en un plazo no mayor a 15 días hábiles de su presentación, conforme a la normatividad municipal;
+XV. Coordinar, conjuntamente con las instancias correspondientes, las políticas y lineamientos a seguir en materia de organización, operación y control de la documentación generada por las dependencias municipales; y
 
-III. Controlar la realización de espectáculos y diversiones públicas, cuidando que se desarrollen con apego a la normatividad municipal;
+XVI. Las demás que le confieran otros ordenamientos.
 
-IV. Autorizar, en coordinación con las autoridades competentes, la colocación y distribución de anuncios y publicidad diversa en o con vista a la vía pública o en las azoteas de las edificaciones, de conformidad con la normatividad vigente;
-
-V. Mantener actualizados los padrones del comercio establecido, así como de la actividad comercial en vía pública;
-
-VI. Acordar la práctica de la verificación de los establecimientos comerciales y del comercio en vía pública, previo al otorgamiento de la licencia o permiso correspondiente, a fin de constatar que cumplan con los requisitos que establece la normatividad aplicable;
-
-VII. Acordar lo conducente en relación al cambio de propietario, de razón social o cambio de giro en las licencias de funcionamiento del comercio establecido, observando las normas aplicables;
-
-VIII. Cumplimentar las resoluciones dictadas por la autoridad competente, tendentes a cancelar o revocar en definitiva los permisos en vía pública o licencias de comercio establecido en el Municipio;
-
-IX. Cumplimentar las determinaciones de la autoridad competente tendentes a recuperar espacios municipales dados en concesión, comodato, usufructo u otra modalidad jurídica;
-
-X. Coordinarse con la autoridad de tránsito y vialidad, para que se lleven a cabo en forma ordenada las actividades que los particulares realicen en la vía pública; y
-
-XI. Las demás que le confieran otros ordenamientos.
-
-DE LA DIRECCIÓN DE CONCERTACIÓN E INSPECCIÓN
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-22.- El titular de la Dirección de Concertación e Inspección tiene las siguientes atribuciones:
+23.- Para el cumplimiento de sus funciones, la Dirección de Administración se auxiliará de las Subdirecciones de Recursos Humanos, de Recursos Materiales y de Servicios Generales.
 
-I. Controlar y coordinar la inspección a establecimientos comerciales, conforme a las normas establecidas;
+> <small>(REFORMADA SU DENOMINACION [N. DE ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-II. Verificar que las licencias y permisos de funcionamiento, referentes a las actividades comerciales, industriales, de prestación de servicios y de vía pública, cumplan con los requisitos correspondientes y que su funcionamiento se realice de acuerdo a la normatividad exigida por la actividad ejercida;
+DE LA SUBDIRECCIÓN DE RECURSOS HUMANOS
 
-III. Regular la actividad de los vendedores ambulantes, cuidando que se realice en los lugares permitidos;
-
-> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
-
-IV. Ordenar, elaborar y ejecutar las visitas domiciliarias de inspección y los acuerdos sobre medidas preventivas de suspensión de la actividad, clausura provisional y aseguramiento, decomiso o retiro de mercancías, productos, materiales o sustancias que se expendan en la vía pública, en términos de las disposiciones legales aplicables;
-
-V. Dictar y ejecutar los acuerdos de reubicación y ordenamiento del comercio en la vía pública, cuando el interés público así lo requiera; y
-
-VI. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-23.- El titular de la Dirección General de Seguridad Pública, Tránsito y Vialidad tiene las siguientes atribuciones:
+24.- El titular de la Subdirección de Recursos Humanos cuenta con las siguientes atribuciones:
+
+I. Elaborar mecanismos de control para la selección, contratación, inducción, rotación y promoción del personal al servicio del Ayuntamiento;
+
+II. Analizar y vigilar que se cumplan las disposiciones en materia de trabajo, seguridad e higiene, así como las demás normas vigentes en la institución, respecto de los derechos y obligaciones del personal;
+
+III. Aplicar las disposiciones legales laborales que rigen al personal del Ayuntamiento;
+
+IV. Registrar las altas, bajas, cambios de categoría y adscripción, permisos y licencias por incapacidad, entre otras, del personal, y su correcta aplicación en el archivo de expedientes;
+
+V. Elaborar y distribuir oportunamente la nómina para el pago al personal que labora en el Ayuntamiento, apegándose al presupuesto autorizado y descontar la percepción económica correspondiente cuando exista orden de autoridad competente;
+
+VI. Elaborar programas de capacitación y adiestramiento del personal, conforme a las necesidades institucionales y a las del mismo personal;
+
+VII. Fortalecer las relaciones con las agrupaciones sindicales del Ayuntamiento para acordar los asuntos laborales del personal;
+
+VIII. Verificar el correcto cumplimiento de los lineamientos laborales establecidos en los convenios de condiciones de trabajo del personal sindicalizado; y
+
+IX. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA SUBDIRECCIÓN DE RECURSOS MATERIALES
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+25.- El titular de la Subdirección de Recursos Materiales tiene las siguientes atribuciones:
+
+I. Llevar a cabo los procedimientos para la adquisición de los bienes y contratación de servicios apegados a las disposiciones legales aplicables;
+
+II. Autorizar el fincamiento de pedidos y la contratación de servicios;
+
+III. Elaborar los contratos de adquisiciones y de servicios de competencia municipal;
+
+IV. Someter a consideración la autorización de prórroga para la entrega de bienes y servicios que sean solicitados por los proveedores o prestadores de servicios;
+
+V. Mantener actualizado el padrón de proveedores;
+
+VI. Controlar y vigilar el manejo y operación del almacén municipal y ordenarlo de acuerdo a sus características;
+
+VII. Integrar el sistema anual de adquisiciones de bienes y servicios;
+
+VIII. Otorgar el mantenimiento preventivo y correctivo al parque vehicular de la Administración Pública Municipal y el suministro de combustible requerido;
+
+IX. Llevar el registro y control vehicular, proveer su aseguramiento, el pago de contribuciones y la actualización de su documentación para su correcta circulación;
+
+X. Elaborar y mantener actualizado el inventario de bienes muebles;
+
+XI. Proponer que se someta a la consideración de Cabildo, la venta mediante subasta pública o invitación, de los bienes muebles obsoletos y de la chatarra;
+
+XII. Aplicar las sanciones correspondientes al incumplimiento de los pedidos o contratos solicitados, en términos de las disposiciones legales; y
+
+XIII. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA SUBDIRECCIÓN DE SERVICIOS GENERALES
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+26.- El titular de la Subdirección de Servicios Generales tiene las siguientes atribuciones:
+
+I. Planear y controlar el funcionamiento del sistema de orientación e información al público, con relación a los servicios que proporcionan las dependencias municipales;
+
+II. Establecer y difundir, conjuntamente con las instancias correspondientes, las políticas y lineamientos a seguir en materia de organización, operación y control de la documentación generada por las dependencias municipales;
+
+III. Coordinar el mantenimiento óptimo del estado de operación y funcionamiento de los bienes inmuebles que albergan a las dependencias que integran el gobierno municipal;
+
+IV. Mantener actualizado y en condiciones óptimas el manejo y funcionamiento de los módulos de información;
+
+V. Coordinar las acciones de logística en la realización de eventos oficiales;
+
+VI. Elaborar contratos de arrendamiento de los locales comerciales propiedad del Ayuntamiento; y
+
+VII. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA Y GOBERNACIÓN
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+27.- El titular de la Dirección General de Seguridad Pública y Gobernación tiene las siguientes atribuciones:
 
 I. Coordinar el proceso de programación y presupuestación de los recursos humanos, materiales y financieros que se requieran para el funcionamiento de la dependencia;
 
@@ -993,7 +1153,7 @@ II. Integrar el proyecto de presupuesto anual de egresos de la Dirección Genera
 
 III. Coordinar los trámites y gestiones para la contratación, control y movimientos de personal, de los recursos materiales y los servicios generales, conforme a las disposiciones respectivas;
 
-IV. Promover y proponer la normatividad operativa que en materia de seguridad pública, tránsito, vialidad, bomberos y protección civil se requiera para preservar el orden y la paz social en el Municipio;
+IV. Promover y proponer la normatividad operativa que en materia de seguridad pública, tránsito, vialidad, bomberos, protección civil y gobernación se requiera para preservar el orden y la paz social en el Municipio;
 
 V. Vigilar el cumplimiento de las disposiciones normativas, operativas, administrativas y disciplinarias que regulen la actuación del cuerpo de seguridad pública municipal;
 
@@ -1001,7 +1161,7 @@ VI. Vigilar y supervisar que las normas restrictivas en materia de tránsito veh
 
 VII. Coordinar y supervisar la implementación de los programas encaminados a vigilar y garantizar el tránsito en las carreteras y caminos de jurisdicción municipal;
 
-VIII. Establecer y mantener mecanismos de coordinación con organismos federales, estatales y municipales, tendentes a intercambiar ideas y programas para el desarrollo de las funciones de seguridad pública, tránsito y vialidad;
+VIII. Establecer y mantener mecanismos de coordinación con organismos federales, estatales y municipales, tendentes a intercambiar ideas y programas para el desarrollo de las funciones de seguridad pública, tránsito, vialidad, bomberos, protección civil y gobernación;
 
 IX. Supervisar la instrumentación del sistema municipal de formación y capacitación de los agentes de seguridad pública, tránsito y bomberos;
 
@@ -1019,15 +1179,21 @@ XV. Cuidar que se impongan sanciones administrativas a los infractores de los or
 
 XVI. Las demás que le confieran otros ordenamientos.
 
-###### Artículo 3.
-
-24.- La Dirección General de Seguridad Pública, Tránsito y Vialidad, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Seguridad Pública Municipal, de Tránsito Municipal, de Vialidad y Transporte y de Bomberos y Protección Civil.
-
-DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-25.- El titular de la Dirección de Seguridad Pública Municipal cuenta con las siguientes atribuciones:
+28.- La Dirección General de Seguridad Pública y Gobernación, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Seguridad Pública, de Tránsito y Vialidad, de Bomberos y Protección Civil y de Gobernación; la primera contará con las Subdirecciones Operativa y de Política Criminal; la segunda con las Subdirecciones de Tránsito y de Vialidad; la tercera con las Subdirecciones de Bomberos y de Protección Civil; y la cuarta con las Subdirecciones de Formación y Desarrollo, Jurídica y de Análisis Sociopolítico.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+29.- El titular de la Dirección de Seguridad Pública cuenta con las siguientes atribuciones:
 
 I. Vigilar la seguridad pública en el Municipio;
 
@@ -1055,11 +1221,15 @@ XII. Aplicar las sanciones disciplinarias a los integrantes del cuerpo de seguri
 
 XIII. Las demás que le confieran otros ordenamientos.
 
-DE LA DIRECCIÓN DE TRÁNSITO MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION [N. DE ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA DIRECCIÓN DE TRÁNSITO Y VIALIDAD
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-26.- El titular de la Dirección de Tránsito Municipal tiene las siguientes atribuciones:
+30.- El titular de la Dirección de Tránsito y Vialidad tiene las siguientes atribuciones:
 
 I. Promover acuerdos y convenios con las diversas organizaciones sociales y privadas que prestan el servicio de transporte público en el Municipio, a efecto de eficientarlo y racionalizarlo;
 
@@ -1085,59 +1255,45 @@ XI. Atender y resolver las quejas del público sobre la prestación del servicio
 
 XII. Aplicar las sanciones disciplinarias a los agentes de tránsito, con excepción de la remoción, conforme a la legislación relativa al cuerpo de seguridad pública;
 
-XIII. Cuidar que los agentes de tránsito impongan las sanciones por infracciones a las normas legales; y
+XIII. Cuidar que los agentes de tránsito impongan las sanciones por infracciones a las normas legales;
 
-XIV. Las demás que le confieran otros ordenamientos.
+XIV. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, en los términos que las leyes federales y estatales los establezcan;
 
-DE LA DIRECCIÓN DE VIALIDAD Y TRANSPORTE
+XV. Atender, en el ámbito de su competencia, las quejas e inconformidades presentadas por la población relacionadas con el servicio del transporte público concesionado, así como por los diferentes factores que afectan la operación de las vialidades, implantando las medidas y acciones que para tal efecto sean necesarias;
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN GENERAL DE GOBIERNO
+XVI. Realizar estudios, planes y proyectos que permitan la modernización del servicio de transporte público, a través de la introducción de nuevas rutas, modificación de derroteros, ampliación de horarios y frecuencias, cambio de bases, paraderos y en el diseño para el establecimiento de terminales y demás actos orientados al ordenamiento vial, para ser sometidos a la consideración de las autoridades estatales;
 
-###### Artículo 3.
+XVII. Realizar acciones específicas relativas a la prestación y operación de los servicios públicos de vialidad, señalamiento y dispositivos del control de tránsito en el Municipio para mejorar la red vial;
 
-27.- El titular de la Dirección de Vialidad y Transporte cuenta con las siguientes atribuciones:
+XVIII. Gestionar y coordinar la implementación de proyectos de vialidad y transporte, estableciendo los mecanismos de comunicación con instituciones públicas y privadas;
 
-I. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, en los términos que las leyes federales y estatales los establezcan;
+XIX. Realizar cambios de sentido de la circulación, adecuaciones geométricas, semaforización de intersecciones e instalaciones de reductores de velocidad, previo estudio que justifique las medidas;
 
-II. Atender, en el ámbito de su competencia, las quejas e inconformidades presentadas por la población relacionadas con el servicio del transporte público concesionado, así como por los diferentes factores que afectan la operación de las vialidades, implantando las medidas y acciones que para tal efecto sean necesarias;
+XX. Otorgar o en su caso negar vistos buenos, para que las actividades de los particulares en la vía pública se den en forma ordenada, como son cierre de calles, funcionamiento de juegos mecánicos, maniobras de carga y descarga dentro del territorio municipal;
 
-III. Realizar estudios, planes y proyectos que permitan la modernización del servicio de transporte público, a través de la introducción de nuevas rutas, modificación de derroteros, ampliación de horarios y frecuencias, cambio de bases, paraderos y en el diseño para el establecimiento de terminales y demás actos orientados al ordenamiento vial, para ser sometidos a la consideración de las autoridades estatales;
+XXI. Formular e instrumentar programas de educación vial en coordinación con las diferentes instituciones educativas y sociales, a fin de promover una cultura vial ordenada entre la población del Municipio;
 
-IV. Realizar acciones especificas relativas a la prestación y operación de los servicios públicos de vialidad, señalamiento y dispositivos del control de tránsito en el Municipio para mejorar la red vial;
+XXII. Vigilar y mantener la adecuada operación del sistema municipal de semáforos;
 
-V. Proponer convenios y contratos con el sector privado o social, para la realización de estudios y proyectos de ingeniería de tránsito y de infraestructura para el transporte;
+XXIII. Dictaminar sobre la instalación, retiro o reubicación de parabuses, cobertizos, casetas telefónicas o puestos de periódicos que obstruyan la vía pública;
 
-VI. Gestionar y coordinar la implementación de proyectos de vialidad y transporte, estableciendo los mecanismos de comunicación con instituciones públicas y privadas;
+XXIV. Coordinar la colocación de placas de nomenclatura y las tareas de mantenimiento a los señalamientos de las mismas;
 
-VII. Establecer las restricciones para el tránsito de vehículos en la vía pública;
+XXV. Controlar el establecimiento y operación de estacionómetros en la vía pública;
 
-> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
+XXVI. Cuidar que los inspectores de vialidad impongan sanciones por infracciones a las normas de los servicios de vialidad y estacionómetros, en términos de las normas jurídicas respectivas;
 
-VIII. Realizar cambios de sentido de la circulación, adecuaciones geométricas, semaforización de intersecciones e instalación de reductores de velocidad, previo estudio que justifique las medidas;
+XXVII. Las demás que le confieran otros ordenamientos.
 
-IX. Otorgar o en su caso negar vistos buenos, para que las actividades de los particulares en la vía pública se den en forma ordenada, como son cierre de calles, funcionamiento de juegos mecánicos, maniobras de carga y descarga dentro del territorio municipal;
-
-X. Formular e instrumentar programas de educación vial en coordinación con las diferentes instituciones educativas y sociales, a fin de promover una cultura vial ordenada entre la población del Municipio;
-
-> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
-
-XI. Vigilar y mantener la adecuada operación del sistema municipal de semáforos;
-
-XII. Dictaminar sobre la instalación, retiro o reubicación de parabuses, cobertizos, casetas telefónicas o puestos de periódicos que obstruyan la vía pública;
-
-XIII. Coordinar la colocación de placas de nomenclatura y las tareas de mantenimiento a los señalamientos de las mismas;
-
-XIV. Controlar el establecimiento y operación de estacionamientos de servicio al público y de estacionómetros en la vía pública;
-
-XV. Cuidar que los inspectores de vialidad impongan sanciones por infracciones a las normas de los servicios de vialidad, estacionamientos al público y estacionómetros, en términos de las normas jurídicas respectivas; y
-
-XVI. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 DE LA DIRECCIÓN DE BOMBEROS Y PROTECCIÓN CIVIL
 
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 3.
 
-28.- El titular de la Dirección de Bomberos y Protección Civil tiene las siguientes atribuciones:
+31.- El titular de la Dirección de Bomberos y Protección Civil tiene las siguientes atribuciones:
 
 I. Organizar y ejecutar convenios de coordinación con instancias federales y estatales, con el objeto de que se integre un programa de capacitación para los miembros del cuerpo de bomberos;
 
@@ -1185,181 +1341,51 @@ XXII. Imponer sanciones por infracciones a las normas de protección civil, conf
 
 XXIII. Las demás que le confieran otros ordenamientos.
 
-###### Artículo 3.
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-29.- El titular de la Dirección General de Administración tiene las siguientes atribuciones:
+DE LA DIRECCIÓN DE GOBERNACIÓN
 
-I. Emitir las políticas, normas y lineamientos en los renglones de personal, de recursos materiales, financieros, servicios generales e informática de la Administración Pública Municipal;
-
-II. Organizar, coordinar y dirigir los sistemas de reclutamiento, selección, contratación y desarrollo de personal, adquisiciones, guarda y distribución de bienes materiales y servicios generales;
-
-III. Elaborar y actualizar los manuales de operación y sistemas administrativos existentes, adecuándolos a las necesidades de la institución;
-
-IV. Llevar a cabo el mantenimiento y resguardo de los bienes muebles del Ayuntamiento;
-
-V. Elaborar e instrumentar sistemas automatizados que coadyuven a una mejor Administración Pública Municipal;
-
-VI. Coordinar el Archivo Administrativo del Municipio, salvaguardando la información en términos de las disposiciones legales;
-
-VII. Establecer y mantener una coordinación permanente con las dependencias correspondientes para el ágil y adecuado aprovisionamiento de recursos;
-
-VIII. Coordinar la elaboración del programa anual de adquisiciones del Ayuntamiento, con base en los lineamientos establecidos para tal efecto;
-
-IX. Verificar que se cumplan las disposiciones en materia de trabajo, seguridad e higiene laboral, así como las del presente ordenamiento, respecto de los derechos y obligaciones del personal;
-
-X. Registrar las altas, bajas, cambios, permisos y licencias por incapacidad, entre otras, del personal y su correcta aplicación en el archivo de expedientes;
-
-XI. Elaborar y distribuir oportunamente la nómina para el pago al personal que labora en el Ayuntamiento, apegándose al presupuesto autorizado y a los movimientos establecidos;
-
-XII. Elaborar programas de capacitación y adiestramiento de personal, conforme a las necesidades institucionales y a las propias del personal;
-
-XIII. Fortalecer las relaciones con las agrupaciones sindicales del Ayuntamiento para acordar los asuntos laborales del personal;
-
-XIV. Dotar adecuada y oportunamente a las dependencias, de acuerdo al presupuesto de egresos respectivo, de los elementos necesarios para su operación y proporcionar los servicios de correspondencia, conmutador, impresión, fotocopiado, transporte, mantenimiento de edificios, vehículos e intendencia y todos aquellos que sean necesarios para el eficaz desempeño de la oficina;
-
-XV. Integrar y actualizar el catálogo general de proveedores para conocer las oportunidades de calidad y precio de los recursos materiales;
-
-XVI. Vigilar el cumplimiento de las políticas generales establecidas para llevar a cabo las compras y suministro de los artículos y materiales solicitados;
-
-XVII. Elaborar los manuales de organización y procedimientos por área, los sistemas de informática y demás documentos en materia de organización que se consideren de importancia;
-
-XVIII. Implementar y controlar el funcionamiento del sistema de orientación e información al público;
-
-XIX. Coordinar, conjuntamente con las instancias correspondientes, las políticas y lineamientos a seguir en materia de organización, operación y control de la documentación generada por las dependencias municipales; y
-
-XX. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-30.- Para el cumplimiento de sus funciones, la Dirección General de Administración se auxiliará de las Direcciones de Recursos Humanos, de Recursos Materiales, de Tecnologías de la Información y de Apoyo a la Gestión.
+32.- El titular de la Dirección de Gobernación tiene las siguientes atribuciones:
 
-DE LA DIRECCIÓN DE RECURSOS HUMANOS
+I. Colaborar en la atención de asuntos de política interior en el territorio municipal;
 
-###### Artículo 3.
+II. Promover el fortalecimiento de un ambiente de civilidad, respeto y tolerancia, entre las autoridades municipales y los ciudadanos y organizaciones civiles;
 
-31.- El titular de la Dirección de Recursos Humanos cuenta con las siguientes atribuciones:
+III. Obtener la información sociopolítica del territorio municipal;
 
-I. Elaborar mecanismos de control para la selección, contratación, inducción, rotación y promoción del personal al servicio del Ayuntamiento;
+IV. Coordinar las tareas de formación y desarrollo del personal de seguridad pública, tránsito, vialidad, bomberos y protección civil;
 
-II. Analizar y vigilar que se cumplan las disposiciones en materia de trabajo, seguridad e higiene, así como las demás normas vigentes en la institución, respecto de los derechos y obligaciones del personal;
+V. Verificar el cumplimiento de las normas relativas a cultos religiosos, juegos y sorteos permitidos, detonantes y pirotecnias, en el ámbito de la competencia municipal;
 
-III. Aplicar las disposiciones legales laborales que rigen al personal del Ayuntamiento;
+VI. Vigilar que los jóvenes en edad de hacerlo, realicen el servicio militar nacional, cuidando que se les convoque con oportunidad en el territorio municipal;
 
-IV. Registrar las altas, bajas, cambios de categoría y adscripción, permisos y licencias por incapacidad, entre otras, del personal, y su correcta aplicación en el archivo de expedientes;
+VII. Atender los asuntos jurídicos que corresponden a las áreas de la Dirección General;
 
-V. Elaborar y distribuir oportunamente la nómina para el pago al personal que labora en el Ayuntamiento, apegándose al presupuesto autorizado y descontar la percepción económica correspondiente cuando exista orden de autoridad competente;
+VIII. Proporcionar asesoría jurídica de las propias áreas de la Dirección General; y
 
-VI. Elaborar programas de capacitación y adiestramiento del personal, conforme a las necesidades institucionales y a las del mismo personal;
+IX. Las demás que le confiera (sic) otros ordenamientos.
 
-VII. Fortalecer las relaciones con las agrupaciones sindicales del Ayuntamiento para acordar los asuntos laborales del personal;
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-VIII. Verificar el correcto cumplimiento de los lineamientos laborales establecidos en los convenios de condiciones de trabajo del personal sindicalizado;
+#### SECCIÓN SEXTA. DE LA DIRECCIÓN GENERAL DE DESARROLLO SOCIAL Y PARTICIPACIÓN CIUDADANA
 
-IX. Elaborar los manuales de organización del Ayuntamiento, los manuales de procedimientos por área, así como su actualización, adecuándolos a las necesidades de la institución; y
-
-X. Las demás que le confieran otros ordenamientos.
-
-DE LA DIRECCIÓN DE RECURSOS MATERIALES
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-32.- El titular de la Dirección de Recursos Materiales tiene las siguientes atribuciones:
-
-I. Llevar a cabo los procedimientos para la adquisición de los bienes y contratación de servicios apegados a las disposiciones legales aplicables;
-
-II. Autorizar el fincamiento de pedidos y la contratación de servicios;
-
-III. Elaborar los contratos de adquisiciones y de servicios de competencia municipal;
-
-IV. Someter a consideración la autorización de prórroga para la entrega de bienes y servicios que sean solicitados por los proveedores o prestadores de servicios;
-
-V. Mantener actualizado el padrón de proveedores;
-
-VI. Controlar y vigilar el manejo y operación del almacén municipal y ordenarlo de acuerdo a sus características;
-
-VII. Integrar el sistema anual de adquisiciones de bienes y servicios;
-
-VIII. Otorgar el mantenimiento preventivo y correctivo al parque vehicular de la Administración Pública Municipal y el suministro de combustible requerido;
-
-IX. Llevar el registro y control vehicular, proveer su aseguramiento, el pago de contribuciones y la actualización de su documentación para su correcta circulación;
-
-X. Elaborar y mantener actualizado el inventario de bienes muebles;
-
-XI. Proponer que se someta a la consideración de Cabildo, la venta mediante subasta pública o invitación, de los bienes muebles obsoletos y de la chatarra;
-
-XII. Aplicar las sanciones correspondientes al incumplimiento de los pedidos o contratos solicitados, en términos de las disposiciones legales; y
-
-XIII. Las demás que le confieran otros ordenamientos.
-
-DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
-
-#### SECCIÓN SEXTA. DE LA DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA, TRÁNSITO Y VIALIDAD
-
-###### Artículo 3.
-
-33.- El titular de la Dirección de Tecnologías de la Información cuenta con las siguientes atribuciones:
-
-I. Diseñar, implantar y mantener el sistema integral de informática municipal;
-
-II. Elaborar e instrumentar sistemas automatizados que coadyuven a una mejor Administración Pública Municipal;
-
-III. Planear e inspeccionar los requerimientos de servicios en materia de cómputo de las dependencias del Ayuntamiento;
-
-IV. Coordinar y supervisar la utilización de los recursos de procesamiento electrónico de datos instalados en las dependencias municipales, con el objeto de promover los programas de actualización;
-
-V. Organizar, coordinar y supervisar la impartición de cursos de capacitación o actualización en materia de cómputo, en coordinación con el área de recursos humanos;
-
-VI. Supervisar la adquisición de equipo y soporte de cómputo;
-
-VII. Programar la utilización eficiente del equipo de cómputo;
-
-VIII. Custodiar los archivos, salvaguardando la información conforme a las disposiciones legales;
-
-IX. Diseñar los sistemas requeridos en la Administración Pública Municipal;
-
-X. Vigilar que se proporcione con oportunidad el mantenimiento preventivo y correctivo al equipo de cómputo;
-
-XI. Emitir y supervisar el cumplimiento del manual de políticas internas en materia de tecnologías de la información y comunicaciones;
-
-XII. Emitir y supervisar el cumplimiento del manual de políticas en materia de adquisiciones y contrataciones relacionadas con tecnologías de la información y comunicaciones;
-
-XIII. Controlar el uso de las licencias del software que se encuentra en los equipos de cómputo propiedad del Ayuntamiento;
-
-XIV. Llevar el control de la telefonía, implementando los mecanismos necesarios para mantener dicho control en las dependencias municipales; y
-
-XV. Las demás que le confieran otros ordenamientos.
-
-DE LA DIRECCIÓN DE APOYO A LA GESTIÓN
-
-###### Artículo 3.
-
-34.- El titular de la Dirección de Apoyo a la Gestión tiene las siguientes atribuciones:
-
-I. Planear y controlar el funcionamiento del sistema de orientación e información al público, con relación a los servicios que proporcionan las dependencias municipales;
-
-II. Establecer y difundir, conjuntamente con las instancias correspondientes, las políticas y lineamientos a seguir en materia de organización, operación y control de la documentación generada por las dependencias municipales;
-
-III. Coordinar el mantenimiento óptimo del estado de operación y funcionamiento de los bienes inmuebles que albergan a las dependencias que integran el gobierno municipal;
-
-IV. Mantener actualizado y en condiciones óptimas el manejo y funcionamiento de los módulos de información;
-
-V. Coordinar las acciones de logística en la realización de eventos oficiales;
-
-VI. Elaborar contratos de arrendamiento de los locales comerciales propiedad del Ayuntamiento; y
-
-VII. Las demás que le confieran otros ordenamientos.
-
-###### Artículo 3.
-
-35.- El titular de la Dirección General de Desarrollo Social cuenta con las siguientes atribuciones:
+33.- El titular de la Dirección General de Desarrollo Social y Participación Ciudadana cuenta con las siguientes atribuciones:
 
 I. Impulsar la ejecución de programas, proyectos, acciones y obras de desarrollo social, a fin de mejorar el nivel de vida de la población más necesitada;
 
 II. Establecer mecanismos para promover la participación de los sectores público, social y privado en la ejecución de programas, proyectos y acciones de desarrollo social;
 
-III. Establecer programas asistenciales, dirigidos a la población más vulnerable del Municipio;
+III. Impulsar programas asistenciales, dirigidos a la población más vulnerable del Municipio;
 
-IV. Coordinar y promover la participación de los sectores de la población en eventos de carácter educativo, cívico, social, cultural y deportivo;
+IV. Coordinar y promover la participación de los sectores de la población en eventos de carácter educativo, cívico, social y cultural;
 
 V. Participar en el impulso de la educación extraescolar, la alfabetización y educación para adultos y menores de edad en situación extraordinaria;
 
@@ -1371,19 +1397,39 @@ VIII. Generar propuestas e implementarlas entre los habitantes del Municipio, qu
 
 IX. Promover, preservar y fomentar la cultura de los grupos étnicos asentados en el Municipio e impulsar su integración al desarrollo;
 
-X. (DEROGADA, G.M.S. 17 DE JULIO DE 2009)
+X. Apoyar el funcionamiento del Centro Municipal de Salud y Bienestar Animal;
 
-XI. Las demás que le confieran otros ordenamientos.
+XI. Participar de manera coordinada en los programas de desarrollo municipal implantados por las delegaciones y subdelegaciones municipales y consejos de participación ciudadana;
+
+XII. Elaborar, revisar y tener actualizado un censo de población del Municipio;
+
+XIII. Conocer y supervisar el manejo de los fondos económicos y de los asuntos que sean planteados por los delegados, subdelegados y consejos de participación ciudadana en el ejercicio de sus funciones;
+
+XIV. Vigilar que los delegados, subdelegados y consejos de participación ciudadana rindan un informe al Presidente Municipal cada año, en la primera quincena del mes de octubre, independientemente de aquellos que tengan carácter de extraordinario;
+
+XV. Proponer proyectos de disposiciones reglamentarias referentes al ámbito de la actuación de los delegados, subdelegados y consejos de participación ciudadana;
+
+XVI. Coordinar, planear y organizar acciones de carácter educativo, social y cultural, promoviendo la participación de los distintos sectores de sociedad; y
+
+XVII. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-36.- La Dirección General de Desarrollo Social, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Educación, Cultura y Salud, de Fomento al Deporte y del Instituto Municipal de la Mujer.
+34.- La Dirección General de Desarrollo Social y Participación Ciudadana, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Educación, Cultura y Fomento a la Salud, y de Participación Ciudadana y Programas Sociales.
 
-DE LA DIRECCIÓN DE EDUCACIÓN, CULTURA Y SALUD
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+SUBSECCIÓN PRIMERA
+
+DE LA DIRECCIÓN DE EDUCACIÓN, CULTURA Y FOMENTO A LA SALUD
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-37.- El titular de la Dirección de Educación, Cultura y Salud tiene las siguientes atribuciones:
+35.-El titular de la Dirección de Educación, Cultura y Fomento a la Salud tiene las siguientes atribuciones:
 
 I. Propiciar el desarrollo de actividades que promuevan la cultura y la identidad municipal;
 
@@ -1397,39 +1443,201 @@ V. Fomentar acciones que tiendan al desarrollo integral de la juventud en el ter
 
 VI. Apoyar el desarrollo integral de la comunidad otomí y de los miembros de otros grupos indígenas asentados en el Municipio;
 
-VII. Promover y coordinar acciones con instituciones del sector salud, con la finalidad de contribuir a preservar la salud de la población del Municipio, especialmente de los grupos de escasos recursos económicos;
+VII. Promover y coordinar acciones con instituciones del sector salud, con la finalidad de contribuir a preservar la salud de la población, conforme a las facultades que corresponden al Municipio;
 
-VIII. (DEROGADA, G.M.S. 17 DE JULIO DE 2009)
+VIII. Fortalecer los servicios del Centro Municipal de Salud y Bienestar Animal; y
 
 IX. Las demás que le confieran otros ordenamientos.
 
-DE LA DIRECCIÓN DE FOMENTO AL DEPORTE
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-38.- El titular de la Dirección de Fomento al Deporte tiene las siguientes atribuciones:
+36.- La Dirección de Educación, Cultura y Fomento a la Salud, para el cumplimiento de sus atribuciones, se auxiliará de las Subdirecciones de Fomento a la Salud, de Educación y Cultura y del Instituto Municipal de la Juventud.
 
-I. Realizar acciones que fortalezcan el desarrollo deportivo entre los habitantes del Municipio, gestionando y promoviendo eventos deportivos en las comunidades;
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-II. Enlazar comunicación con organizaciones, instituciones educativas e instancias de los gobiernos federal y estatal, que coadyuven a la realización de actividades deportivas;
+SUBDIRECCIÓN DE FOMENTO A LA SALUD
 
-III. Coordinar permanentemente el mantenimiento preventivo y correctivo, en vinculación con la instancia correspondiente, de los parques, áreas verdes e instalaciones deportivas bajo su encargo;
-
-IV. Coordinar la organización, seguimiento y término de los eventos deportivos que la ciudadanía solicite;
-
-V. Concertar con instancias educativas acciones que permitan estimular a los deportistas radicados en el Municipio;
-
-VI. Gestionar la creación de espacios deportivos, a fin de establecer una cultura deportiva, así como gestionar utilitarios para los estudiantes y grupos comunitarios;
-
-VII. Revisar la ejecución de los proyectos planeados por la Dirección y reorientarlos para su buen término; y
-
-VIII. Las demás que le confieran otros ordenamientos.
-
-DE LA DIRECCIÓN DEL INSTITUTO MUNICIPAL DE LA MUJER
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-39.- El titular de la Dirección del Instituto Municipal de la Mujer cuenta con las siguientes atribuciones:
+37.- El titular de la Subdirección de Fomento a la Salud tiene las siguientes atribuciones:
+
+I. Llevar a cabo las acciones necesarias para ejecutar el programa municipal de salud;
+
+II. Coordinar la prestación de los servicios de salud a cargo del Municipio;
+
+III. Proponer convenios o acuerdos de coordinación con instituciones del sector salud, para apoyar las tareas de medicina preventiva;
+
+IV. Difundir las medidas de seguridad sanitaria que sean necesarias para proteger la salud de la población;
+
+V. Supervisar la operación de clínicas y consultorios municipales, a fin de que funcionen conforme a las disposiciones legales;
+
+VI. Impulsar la participación de la comunidad en el cuidado de la salud; y
+
+VII. Las demás que le confiera (sic) otros ordenamientos.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+SUBDIRECCIÓN DE EDUCACIÓN Y CULTURA
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+38.- El titular de la Subdirección de Educación y Cultura cuenta con estas atribuciones:
+
+I. Promover servicios educativos de cualquier tipo o modalidad, de acuerdo a los programas establecidos;
+
+II. Participar en el mantenimiento y equipamiento de las escuelas públicas ubicadas en el territorio municipal, de acuerdo con los recursos disponibles;
+
+III. Impulsar todo tipo de actividades educativas de interés a la sociedad;
+
+IV. Fomentar las acciones de capacitación y organización de los padres de familia y tutores, para que cumplan adecuadamente sus responsabilidades con sus hijos o pupilos;
+
+V. Coordinar la ejecución de toda clase de actividades culturales en el ámbito municipal;
+
+VI. Apoyar los trabajos del Consejo de la Crónica y Acervo Histórico; y
+
+VII. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+SUBDIRECCIÓN DEL INSTITUTO MUNICIPAL DE LA JUVENTUD
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+39.- El titular de la Subdirección del Instituto Municipal de la Juventud tiene las siguientes atribuciones:
+
+I. Proponer el programa municipal de atención a la juventud;
+
+II. Ejecutar las acciones necesarias para el cumplimiento del programa municipal de atención a la juventud;
+
+III. Coordinar los trabajos de las dependencias municipales, que tengan relación con los jóvenes;
+
+IV. Fomentar la vinculación con los sectores público, social y privado, para el cumplimiento de sus fines;
+
+V. Promover tareas que favorezcan la organización juvenil;
+
+VI. Impulsar la capacitación de los jóvenes en sus empleos, ampliando la información sobre el mercado de trabajo disponible;
+
+VII. Apoyar el desarrollo de actividades culturales, artísticas y la expresión creativa de los jóvenes;
+
+VIII. Colaborar en las acciones de orientación vocacional y el aprovechamiento del servicio social de los integrantes de la juventud;
+
+IX. Coadyuvar en la atención a los problemas de salud de los jóvenes, principalmente en los renglones de medicina preventiva, orientación en el campo de la sexualidad, planificación familiar, adicciones y salud mental;
+
+X. Favorecer la participación de la comunidad en acciones de bienestar juvenil; y
+
+XI. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+SUBSECCIÓN SEGUNDA
+
+DE LA DIRECCIÓN DE PARTICIPACIÓN CIUDADANA Y PROGRAMAS SOCIALES
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+40.- El titular de la Dirección de Participación Ciudadana y Programas Sociales cuenta con estas atribuciones:
+
+I. Fomentar la participación ciudadana en todos los aspectos de beneficio social;
+
+II. Coadyuvar con las dependencias municipales en la planeación y ejecución de los planes y programas sociales;
+
+III. Coordinar las acciones que las dependencias municipales lleven a cabo en el territorio correspondiente a las delegaciones y subdelegaciones;
+
+IV. Impulsar las tareas a cargo de los consejos de participación ciudadana;
+
+V. Apoyar al Instituto Municipal de la Mujer, para el adecuado cumplimiento de sus funciones;
+
+VI. Vigilar el cumplimiento de los programas sociales de carácter municipal; y
+
+VII. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+41.- La Dirección de Participación Ciudadana y Programas Sociales, para el cumplimiento de sus atribuciones, se auxiliará de las Subdirecciones de Delegaciones y Subdelegaciones, de Consejos de Participación Ciudadana, del Instituto Municipal de la Mujer y de Programas Sociales.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA SUBDIRECCIÓN DE DELEGACIONES Y SUBDELEGACIONES
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)
+
+###### Artículo 3.
+
+42.- El titular de la Subdirección de Delegaciones y Subdelegaciones tiene las siguientes atribuciones:
+
+I. Coordinar los programas y acciones que los delegados, subdelegados y ciudadanía en general, pretendan realizar en beneficio de la colectividad;
+
+II. Elaborar, revisar y mantener actualizado un censo de población de las delegaciones y subdelegaciones del Municipio;
+
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+III. Informar al Director de Participación Ciudadana y Programas Sociales de los problemas detectados en las delegaciones y subdelegaciones y proponer soluciones a los mismos;
+
+IV. Coadyuvar en el mantenimiento del orden, la tranquilidad y la seguridad de los vecinos de las delegaciones y subdelegaciones, para garantizar la paz pública en el Municipio;
+
+V. Atender los asuntos que le sean planteados por los delegados y subdelegados municipales, remitiéndolos ante los titulares de las dependencias municipales y organismos auxiliares competentes, y darles el seguimiento correspondiente;
+
+VI. Reunir a los delegados y subdelegados por lo menos tres veces al año, pudiendo también hacerlo cuando existan asuntos de carácter urgente;
+
+VII. Vigilar que los delegados y subdelegados rindan un informe anual al Ayuntamiento y a sus representados, en la primera quincena del mes de octubre, independientemente de aquellos que tengan el carácter de extraordinario;
+
+VIII. Cumplir y hacer cumplir el presente ordenamiento y las demás disposiciones aplicables; y
+
+IX. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA SUBDIRECCIÓN DE CONSEJOS DE PARTICIPACIÓN CIUDADANA
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)
+
+###### Artículo 3.
+
+43.- El titular de la Subdirección de Consejos de Participación Ciudadana cuenta con las siguientes atribuciones:
+
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+I. Participar de manera coordinada en los planes y programas de desarrollo municipal, así como informar a la Dirección de Participación Ciudadana y Programas Sociales el avance y desarrollo de los mismos;
+
+II. Promover la participación de la población en la formulación y ejecución del Plan de Desarrollo Municipal;
+
+III. Mantener constante comunicación con la ciudadanía a fin de poder atender las necesidades y los problemas en materia de desarrollo urbano municipal;
+
+IV. Colaborar, participar y proponer nuevas obras de beneficio común, así como promover la participación de la población beneficiada en el mejoramiento y supervisión de los servicios públicos municipales;
+
+V. Mantener actualizada una relación de habitantes por manzanas y sectores;
+
+VI. Reunir a los presidentes de los consejos de participación ciudadana por lo menos tres veces al año, pudiendo también hacerlo cuando existan asuntos de carácter urgente;
+
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+VII. Vigilar que los consejos de participación ciudadana rindan un informe anual al Ayuntamiento y a sus representados, en la primera quincena del mes de octubre, independientemente de aquellos que tengan el carácter de extraordinario;
+
+VIII. Cumplir y hacer cumplir el presente ordenamiento, en lo que respecta a su competencia; y
+
+IX. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA SUBDIRECCIÓN DEL INSTITUTO MUNICIPAL DE LA MUJER
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+44.- El titular de la Subdirección del Instituto Municipal de la Mujer cuenta con las siguientes atribuciones:
 
 I. Elaborar, actualizar, coordinar e instrumentar, con base en los diagnósticos de cada sector involucrado, el programa municipal de las mujeres;
 
@@ -1447,99 +1655,51 @@ VII. Proponer la celebración de convenios o acuerdos de colaboración con organ
 
 VIII. Promover y establecer vínculos de coordinación y colaboración con los organismos federales, estatales y municipales que se ocupen de los asuntos de las mujeres;
 
-IX. Actuar como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidencia Municipal, dependencias municipales, organismos auxiliares y de los sectores social y privado, en materia de equidad de género e igualdad de derechos;
+IX. Fomentar, en coordinación con las autoridades del sector salud, la educación para la salud física y psicológica, la salud reproductiva, así como fortalecer las campañas de prevención y atención de cáncer de mama y cérvico-uterino;
 
-X. Impulsar y proponer ante el Presidente Municipal las acciones, reformas y adiciones a la reglamentación municipal en materia de atención a la mujer;
+X. Promover la realización de programas de atención para las niñas, mujeres adultas y de la tercera edad, mujeres con capacidades diferentes y de otros grupos vulnerables en todas las áreas de su vida;
 
-XI. Fomentar, en coordinación con las autoridades del sector salud, la educación para la salud física y psicológica, la salud reproductiva, así como fortalecer las campañas de prevención y atención de cáncer de mama y cérvico-uterino;
+XI. Impulsar y estimular la capacidad productiva de la mujer, promoviendo sus oportunidades de empleo y poniendo en marcha proyectos productivos y de educación en todos los niveles, que contribuyan a elevar las condiciones culturales y socio-económicas de las mujeres tanto en el medio urbano como rural;
 
-XII. Promover la realización de programas de atención para las niñas, mujeres adultas y de la tercera edad, mujeres con capacidades diferentes y de otros grupos vulnerables en todas las áreas de su vida;
+XII. Participar, organizar y coordinar toda clase de actos y eventos, que giren en torno a la mujer;
 
-XIII. Impulsar y estimular la capacidad productiva de la mujer, promoviendo sus oportunidades de empleo y poniendo en marcha proyectos productivos y de educación en todos los niveles, que contribuyan a elevar las condiciones culturales y socio-económicas de las mujeres tanto en el medio urbano como rural;
+XIII. Promover la realización de estudios e investigaciones para implementar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres;
 
-XIV. Participar, organizar y coordinar toda clase de actos y eventos, que giren en torno a la mujer;
+XIV. Fomentar e impulsar la elaboración de programas y acciones que fortalezcan la familia como eje de promoción de la igualdad de derechos, oportunidades y responsabilidades sin distinción de sexo; y
 
-XV. Promover la realización de estudios e investigaciones para implementar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres;
+XV. Las demás que le confieran otros ordenamientos.
 
-XVI. Fomentar e impulsar la elaboración de programas y acciones que fortalezcan la familia como eje de promoción de la igualdad de derechos, oportunidades y responsabilidades sin distinción de sexo; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-XVII. Las demás que le confieran otros ordenamientos.
+DE LA SUBDIRECCIÓN DE PROGRAMAS SOCIALES
 
-###### Artículo 3.
-
-40.- El titular de la Dirección General de Participación Ciudadana cuenta con las siguientes atribuciones:
-
-I. Fomentar la participación ciudadana en todos los aspectos de beneficio social y coadyuvar con las autoridades en la planeación y ejecución de los planes y programas municipales;
-
-II. Participar de manera coordinada en los programas de desarrollo municipal implantados por las delegaciones y subdelegaciones municipales y consejos de participación ciudadana;
-
-III. Elaborar, revisar y tener actualizado un censo de población del Municipio;
-
-IV. Conocer y supervisar el manejo de los fondos económicos y de los asuntos que sean planteados por los delegados, subdelegados y consejos de participación ciudadana en el ejercicio de sus funciones;
-
-V. Vigilar que los delegados, subdelegados y consejos de participación ciudadana rindan un informe al Presidente Municipal cada año, en la primera quincena del mes de octubre, independientemente de aquellos que tengan carácter de extraordinario;
-
-VI. Proponer proyectos de disposiciones reglamentarias referentes al ámbito de la actuación de los delegados, subdelegados y consejos de participación ciudadana;
-
-VII. Coordinar, planear y organizar acciones de carácter educativo, social y cultural, promoviendo la participación de los distintos sectores de sociedad; y
-
-VIII. Todas las demás que le confieran otros ordenamientos.
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-41.- La Dirección General de Participación Ciudadana, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Delegaciones y Subdelegaciones y de Consejos de Participación Ciudadana.
+45.- El titular de la Subdirección de Programas Sociales cuenta con estas atribuciones:
 
-DE LA DIRECCIÓN DE DELEGACIONES Y SUBDELEGACIONES
+I. Promover y administrar los programas municipales de vivienda y otros de carácter social;
 
-###### Artículo 3.
+II. Coordinar el cumplimiento de los programas sociales de naturaleza federal, en el territorio municipal;
 
-42.- El titular de la Dirección de Delegaciones y Subdelegaciones tiene las siguientes atribuciones:
+III. Fomentar la participación de los sectores público, social y privado, en la ejecución de los programas sociales;
 
-I. Coordinar los programas y acciones que los delegados, subdelegados y ciudadanía en general, pretendan realizar en beneficio de la colectividad;
+IV. Intervenir en la regularización de la tenencia de la tierra urbana, de acuerdo a las disposiciones legales;
 
-II. Elaborar, revisar y mantener actualizado un censo de población de las delegaciones y subdelegaciones del Municipio;
+V. Ejecutar las acciones necesarias para el desarrollo integral de las comunidades indígenas en el territorio municipal; y
 
-III. Informar al Director General de Participación Ciudadana de los problemas detectados en las delegaciones y subdelegaciones y proponer soluciones a los mismos;
+VI. Las demás que le confieran otros ordenamientos.
 
-IV. Coadyuvar en el mantenimiento del orden, la tranquilidad y la seguridad de los vecinos de las delegaciones y subdelegaciones, para garantizar la paz pública en el Municipio;
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-V. Atender los asuntos que le sean planteados por los delegados y subdelegados municipales, remitiéndolos ante los titulares de las dependencias municipales y organismos auxiliares competentes, y darles el seguimiento correspondiente;
+#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 
-VI. Reunir a los delegados y subdelegados por lo menos tres veces al año, pudiendo también hacerlo cuando existan asuntos de carácter urgente;
-
-VII. Vigilar que los delegados y subdelegados rindan un informe anual al Ayuntamiento y a sus representados, en la primera quincena del mes de octubre, independientemente de aquellos que tengan el carácter de extraordinario;
-
-VIII. Cumplir y hacer cumplir el presente ordenamiento y las demás disposiciones aplicables; y
-
-IX. Las demás que le confieran otros ordenamientos.
-
-DE LA DIRECCIÓN DE CONSEJOS DE PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-43.- El titular de la Dirección de Consejos de Participación Ciudadana cuenta con las siguientes atribuciones:
-
-I. Participar de manera coordinada en los planes y programas de desarrollo municipal, así como informar a la Dirección General de Participación Ciudadana el avance y desarrollo de los mismos;
-
-II. Promover la participación de la población en la formulación y ejecución del Plan de Desarrollo Municipal;
-
-III. Mantener constante comunicación con la ciudadanía a fin de poder atender las necesidades y los problemas en materia de desarrollo urbano municipal;
-
-IV. Colaborar, participar y proponer nuevas obras de beneficio común, así como promover la participación de la población beneficiada en el mejoramiento y supervisión de los servicios públicos municipales;
-
-V. Mantener actualizada una relación de habitantes por manzanas y sectores;
-
-VI. Reunir a los presidentes de los consejos de participación ciudadana por lo menos tres veces al año, pudiendo también hacerlo cuando existan asuntos de carácter urgente;
-
-VII. Vigilar que los Consejos de Participación Ciudadana rindan un informe anual al Ayuntamiento y a sus representados, en la primera quincena del mes de octubre, independientemente de aquellos que tengan el carácter de extraordinario;
-
-VIII. Cumplir y hacer cumplir el presente ordenamiento, en lo que respecta a su competencia; y
-
-IX. Las demás que le confieran otros ordenamientos.
-
-###### Artículo 3.
-
-44.- El titular de la Dirección General de Desarrollo Urbano y Obras Públicas cuenta con las siguientes atribuciones:
+46.- El titular de la Dirección General de Desarrollo Urbano y Obras Públicas cuenta con las siguientes atribuciones:
 
 I. Promover y vigilar el desarrollo sustentable de las diversas comunidades y centros de población, mediante una adecuada zonificación basada en la identificación de la problemática sobre el desarrollo urbano en el Municipio;
 
@@ -1577,17 +1737,21 @@ XVII. Elaborar y ejecutar resoluciones de demolición y clausura de obra, así c
 
 XVIII. Las demás que le confieran otros ordenamientos.
 
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 3.
 
-45.- La Dirección General de Desarrollo Urbano y Obras Públicas, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Desarrollo Urbano y de Obras Públicas.
+47.- La Dirección General de Desarrollo Urbano y Obras Públicas, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Desarrollo Urbano y de Obras Públicas; la primera contará con las Subdirecciones de Licencias y Permisos de Construcción, de Operación y Planeación Urbana y de Suelo; y la segunda con las Subdirecciones de Planeación de Obras Públicas y de Operación de Obras Públicas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 DE LA DIRECCIÓN DE DESARROLLO URBANO
 
-#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-46.- El titular de la Dirección de Desarrollo Urbano tiene las siguientes atribuciones:
+48.- El titular de la Dirección de Desarrollo Urbano tiene las siguientes atribuciones:
 
 I. Elaborar, operar y evaluar los planes de desarrollo urbano municipales y parciales, así como las correspondientes zonificaciones de uso del suelo;
 
@@ -1595,13 +1759,13 @@ II. Participar en forma concurrente y coordinada con el gobierno estatal, en la 
 
 III. Expedir las licencias de construcción de obras nuevas, constancia de regularización de obras, constancias de alineamiento, nomenclatura y número oficial, así como la ocupación temporal de la vía pública, además de demoliciones y excavaciones;
 
-IV. Expedir la licencia de uso especifico de suelo, previa opinión favorable de la autoridad municipal competente, para cualquier tipo de local comercial, industrial o de servicios;
+IV. Expedir la licencia de uso específico de suelo, previa opinión favorable de la autoridad municipal competente, para cualquier tipo de local comercial, industrial o de servicios;
 
 V. Emitir las licencias de uso del suelo, conforme al Plan Municipal de Desarrollo Urbano;
 
 VI. Emitir las cédulas informativas de zonificación, así como dar ingreso a las solicitudes para el cambio de uso de suelo, densidad, intensidad y altura de edificaciones que la ciudadanía requiera, previa solicitud de las mismas;
 
-VII. Informar y orientar a los particulares interesados respecto a los trámites que sobre licencias, permisos y cambios le compete otorgar a efectos de facilitar su gestión;
+VII. Informar y orientar a los particulares interesados respecto a los trámites que sobre licencias, permisos y cambios le compete otorgar, a efecto de facilitar su gestión;
 
 VIII. Proponer la constitución de reservas territoriales y ecológicas en el Municipio;
 
@@ -1611,7 +1775,7 @@ X. Promover e impulsar la participación de la ciudadanía en los foros de consu
 
 XI. Vigilar la observancia del Plan Municipal de Desarrollo Urbano, las declaratorias y las normas básicas correspondientes, incluyendo la consecuente utilización del suelo;
 
-XII. Supervisar la ejecución de obras por cooperación así como la construcción y mejoramiento de obras de infraestructura y equipamiento urbano;
+XII. Supervisar la ejecución de obras por cooperación, así como la construcción y mejoramiento de obras de infraestructura y equipamiento urbano;
 
 XIII. Impulsar, mediante el sistema de cooperación, la construcción y mejoramiento de obras de infraestructura y equipamiento urbano;
 
@@ -1621,15 +1785,31 @@ XV. Identificar, declarar y conservar, en términos de las disposiciones legales
 
 XVI. Asignar números oficiales de avenidas y calles;
 
-XVII. Imponer sanciones por infracciones a las normas de desarrollo urbano, en términos de las disposiciones legales aplicables; y
+XVII. Imponer sanciones por infracciones a las normas de desarrollo urbano, en términos de las disposiciones legales aplicables;
 
-XVIII. Las demás que le confieran otros ordenamientos.
+XVIII. Formular proyectos de desarrollo urbano;
+
+XIX. Adquirir suelos y reservas territoriales para el desarrollo urbano;
+
+XX. Proyectar, presupuestar, promover y administrar programas de desarrollo urbano;
+
+XXI. Controlar y coordinar con los sectores público, social y privado, la ejecución de los programas de desarrollo urbano;
+
+XXII. Intervenir en la regularización de la tenencia de la tierra urbana, de acuerdo a las disposiciones legales;
+
+XXIII. Participar en la elaboración y actualización del inventario general de los bienes inmuebles propiedad del Municipio, así como en las acciones relacionadas con los mismos; y
+
+XIV. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 DE LA DIRECCIÓN DE OBRAS PÚBLICAS
 
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 3.
 
-47.- El titular de la Dirección de Obras Públicas cuenta con las siguientes atribuciones:
+49.- El titular de la Dirección de Obras Públicas cuenta con las siguientes atribuciones:
 
 I. Coordinar los proyectos de obras públicas y servicios relacionados con las mismas;
 
@@ -1651,9 +1831,15 @@ IX. Vigilar la construcción en las obras por contrato y por administración que
 
 X. Las demás que le confieran otros ordenamientos.
 
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN OCTAVA. DE LA DIRECCIÓN GENERAL DE SERVICIOS PÚBLICOS Y MEDIO AMBIENTE
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 3.
 
-48.- El titular de la Dirección General de Servicios Públicos tiene las siguientes atribuciones:
+50.- El titular de la Dirección General de Servicios Públicos y Medio Ambiente tiene las siguientes atribuciones:
 
 I. Coordinar los servicios de limpia, recolección, transporte, transferencia y disposición final de residuos sólidos urbanos y de manejo especial, alumbrado público, parques, jardines, panteones y mantenimiento urbano, así como propiciar el mejoramiento y ampliación de la cobertura de los mismos;
 
@@ -1665,39 +1851,31 @@ IV. Promover y coordinar acciones para el manejo adecuado de los desechos sólid
 
 V. Coordinar las actividades en sectores, delegaciones y subdelegaciones municipales en lo referente al mantenimiento de parques, jardines e infraestructura urbana;
 
-VI. Evitar por todos los medios que los residuos sólidos urbanos y de manejo especial, tanto orgánicos como inorgánicos, originen focos de infección, peligro o molestias para la ciudad o la propagación de enfermedades;
+VI. Evitar por todos los medios que los residuos sólidos urbanos y de manejo especial, tanto orgánicos corno inorgánicos, originen focos de infección, peligro o molestias para la ciudad o la propagación de enfermedades;
 
 VII. Programar adecuadamente el mantenimiento de monumentos, calles, caminos y todo tipo de vialidades que contribuyan a optimizar la comunicación de las poblaciones del Municipio;
 
-> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
+VIII. Establecer e instrumentar programas, en coordinación con las autoridades estatales competentes, para mantener en buenas condiciones las calles, caminos y vialidades del Municipio;
 
-VIII. Establecer e instrumentar programas, en coordinación con las autoridades estatales competentes, para mantener en buenas condiciones las calles, caminos y vialidades del Municipio; -
+IX. Cuidar que se ejecuten las facultades municipales en materia de medio ambiente, en términos de las disposiciones legales aplicables;
 
-> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
+X. Las demás que le confieran otros ordenamientos.
 
-IX. Apoyar y fortalecer el funcionamiento del Centro Municipal de Salud y Bienestar Animal;
-
-> <small>(ADICIONADA, G.M.S. 17 DE JULIO DE 2009)</small>
-
-X. Coordinar las acciones requeridas para mantener en condiciones adecuadas el señalamiento vial; y
-
-> <small>(ADICIONADA, G.M.S. 17 DE JULIO DE 2009)</small>
-
-XI. Las demás que le confieran otros ordenamientos.
-
-> <small>(REFORMADO, G.M.S. 17 DE JULIO DE 2009)</small>
-
-###### Articulo 3.
-
-49.- La Dirección General de Servicios Públicos, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Residuos Sólidos, de Alumbrado Público y de Parques, Panteones, Mantenimiento Urbano y Salud Animal.
-
-DE LA DIRECCIÓN DE RESIDUOS SÓLIDOS
-
-#### SECCIÓN OCTAVA. DE LA DIRECCIÓN GENERAL DE DESARROLLO SOCIAL
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-50.- El titular de la Dirección de Residuos Sólidos cuenta con las siguientes atribuciones:
+51.- La Dirección General de Servicios Públicos y Medio Ambiente, para el cumplimiento de sus atribuciones, se auxiliará de las Direcciones de Servicios Públicos y de Medio Ambiente; la primera contará con las Subdirecciones de Residuos Sólidos, de Alumbrado Público y de Parques, Panteones y Mantenimiento Urbano; y la segunda con las Subdirecciones de Normatividad y Protección Ambiental y de Educación Ambiental.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA DIRECCIÓN DE SERVICIOS PÚBLICOS
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+52.- El titular de la Dirección de Servicios Públicos cuenta con las siguientes atribuciones:
 
 I. Coordinar el manejo de los residuos sólidos urbanos y de manejo especial, que se generan dentro de la cobertura a cargo del Ayuntamiento, promoviendo su reutilización;
 
@@ -1709,187 +1887,105 @@ IV. Realizar estudios para el aprovechamiento, industrialización y procesamient
 
 V. Proporcionar mantenimiento a las instalaciones y equipos necesarios para el manejo de los residuos sólidos urbanos y de manejo especial;
 
-VI. Mantener en condiciones higiénicas las vialidades y lugares de dominio público del Municipio, así como controlar la aparición de focos de acumulación de desechos sólidos que provoquen la contaminación del ambiente;
+VI. Mantener en condiciones higiénicas las vialidades y lugares de dominio público del Municipio, así como controlar la aparición de focos de acumulación de residuos sólidos que provoquen la contaminación del ambiente;
 
 VII. Promover la organización y participación ciudadana en los trabajos y campañas colectivas que contribuyan a mejorar la limpieza del Municipio;
 
-VIII. Participar en la instrumentación de convenios con autoridades federales, estatales, municipales y sectores de la ciudadanía para hacer frente a contingencias en materia de residuos sólidos urbanos y de manejo especial;
+VIII. Participar en la instrumentación de convenios con autoridades federales, estatales, municipales, y sectores de la ciudadanía para hacer frente a contingencias en materia de residuos sólidos urbanos y de manejo especial;
 
 IX. Proponer la concesión del servicio de limpia, recolección, transporte, transferencia y disposición final de residuos sólidos urbanos y de manejo especial, cuando así se considere conveniente y vigilar, en su caso, que las empresas concesionadas cumplan con la adecuada prestación del servicio;
 
-X. Coordinar acciones con las instancias federales y estatales, conforme a las disposiciones legales aplicables;
+X. Proponer la planeación estratégica del alumbrado público en el Municipio;
 
-XI. Tener una estrecha relación con la Coordinación General de Medio Ambiente, para realizar acciones conjuntas a favor de la población; y
+XI. Coordinar la instalación de arbotantes con sistema electromecánico o electrónico que generen la iluminación en calles, calzadas, edificios públicos y lugares de uso común;
 
-XII. Las demás que le confieran otros ordenamientos.
+XII. Programar la realización de todas las obras de instalaciones y trabajos que requieran la planeación, ejecución, operación y mantenimiento del sistema de alumbrado público;
 
-DE LA DIRECCIÓN DE ALUMBRADO PÚBLICO
+XIII. Supervisar la aplicación de políticas para implantar el sistema de alumbrado integral y austero en el Municipio;
 
-###### Artículo 3.
+XIV. Llevar a cabo la ampliación del servicio cuando las necesidades de la población o comunidad lo requieran;
 
-51.- El titular de la Dirección de Alumbrado Público tiene las siguientes atribuciones:
+XV. Coordinar el servicio de alumbrado público a cargo del Ayuntamiento;
 
-I. Proponer la planeación estratégica del alumbrado público en el Municipio;
+XVI. Proporcionar el mantenimiento a las instalaciones y equipos necesarios para la prestación del servicio de alumbrado público municipal;
 
-II. Coordinar la instalación de arbotantes con sistema electromecánico o electrónico que generen la iluminación en calles, calzadas, edificios públicos y lugares de uso común;
+XVII. Supervisar permanentemente las redes e instalaciones de alumbrado público, así como su mantenimiento y buen estado y apoyar las acciones necesarias para dotar de alumbrado público a las poblaciones rurales del Municipio;
 
-III. Programar la realización de todas las obras de instalaciones y trabajos que requieran la planeación, ejecución, operación y mantenimiento del sistema de alumbrado público;
+XVIII. Reparar las luminarias, focos, fotoceldas, contactos, arbotantes, bases y cualquier parte integrante del sistema de alumbrado público municipal;
 
-IV. Supervisar la aplicación de políticas para implantar el sistema de alumbrado integral y austero en el Municipio;
+XIX. Dar visto bueno a las instalaciones que realicen los titulares de fraccionamientos o conjuntos urbanos, cuando hagan entrega de los mismos al Ayuntamiento, conjunta o separadamente con Luz y Fuerza del Centro;
 
-V. Llevar a cabo la ampliación del servicio cuando las necesidades de la población o comunidad lo requieran;
+XX. Promover la organización y participación ciudadana en los trabajos y acciones colectivas que contribuyan a mejorar el servicio de alumbrado público;
 
-VI. Coordinar el servicio de alumbrado público a cargo del Ayuntamiento;
+XXI. Programar y ejecutar la creación, mantenimiento y protección de los parques y jardines municipales;
 
-VII. Proporcionar el mantenimiento a las instalaciones y equipos necesarios para la prestación del servicio de alumbrado público municipal;
+XXII. Coordinar la administración, mantenimiento y protección de los panteones a cargo del Ayuntamiento;
 
-VIII. Supervisar permanentemente las redes e instalaciones de alumbrado público, así como su mantenimiento y buen estado y apoyar las acciones necesarias para dotar de alumbrado público a las poblaciones rurales del Municipio;
+XXIII. Proporcionar mantenimiento a las instalaciones y equipos necesarios para la prestación de los servicios de parques, jardines y panteones;
 
-IX. Reparar las luminarias, focos, fotoceldas, contactos, arbotantes, bases y cualquier parte integrante del sistema de alumbrado público municipal;
+XXIV. Promover la organización y participación ciudadana en los trabajos y acciones colectivas que contribuyan a mejorar los parques, jardines y panteones municipales;
 
-X. Dar visto bueno a las instalaciones que realicen los titulares de fraccionamientos o conjuntos urbanos, cuando hagan entrega de los mismos al Ayuntamiento, conjunta o separadamente con Luz y Fuerza del Centro;
+XXV. Llevar a cabo la recuperación de fosas y criptas, a través del procedimiento administrativo común que prevé (sic) el Código de Procedimientos Administrativos del Estado;
 
-XI. Promover la organización y participación ciudadana en los trabajos y acciones colectivas que contribuyan a mejorar el servicio de alumbrado público;
+XXVI. Mantener en buenas condiciones las calles, banquetas y guarniciones a cargo del Ayuntamiento;
 
-XII. Participar en la instrumentación de convenios con autoridades federales, estatales y sectores de la ciudadanía, para hacer frente a contingencias;
+XXVII. Realizar las acciones necesarias tendentes a preservar y mantener en buen estado la infraestructura urbana municipal, así como los edificios públicos municipales;
 
-XIII. Coordinar acciones con las instancias federales y estatales, conforme a lo establecido en las disposiciones legales respectivas; y
+XXVIII. Coordinar las acciones requeridas para mantener en condiciones adecuadas el señalamiento vial;
 
-XIV. Las demás que le confieran otros ordenamientos.
+XXIX. Aplicar señalamiento horizontal y vertical en la red vial del municipio; y
 
-> <small>(REFORMADA SU DENOMINACION, G.M.S. 17 DE JULIO DE 2009)</small>
+XXX. Las demás que le confieran otros ordenamientos.
 
-DE LA DIRECCIÓN DE PARQUES, PANTEONES, MANTENIMIENTO URBANO Y SALUD ANIMAL
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-> <small>(REFORMADO PRMER PARRAFO, G.M.S. 17 DE JULIO DE 2009)</small>
+DE LA DIRECCIÓN DE MEDIO AMBIENTE
 
-###### Artículo 3.
-
-52.- El titular de la Dirección de Parques, Panteones, Mantenimiento Urbano y Salud Animal cuenta con las siguientes atribuciones:
-
-I. Programar y ejecutar la creación, mantenimiento y protección de los parques y jardines municipales;
-
-II. Coordinar la administración, mantenimiento y protección de los panteones a cargo del Ayuntamiento;
-
-III. Proporcionar mantenimiento a las instalaciones y equipos necesarios para la prestación de los servicios de parques, jardines y panteones;
-
-IV. Promover la organización y participación ciudadana en los trabajos y acciones colectivas que contribuyan a mejorar los parques, jardines y panteones municipales;
-
-V. Participar en la instrumentación de convenios con autoridades federales, estatales y sectores de la ciudadanía para hacer frente a contingencias;
-
-VI. Coordinar acciones con las instancias federales y estatales, conforme a la legislación aplicable;
-
-VII. Mantener en buenas condiciones las calles, banquetas y guarniciones a cargo del Ayuntamiento;
-
-VIII. Llevar a cabo la recuperación de fosas y criptas, a través del procedimiento administrativo común que prevé el Código de Procedimientos Administrativos del Estado;
-
-> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
-
-IX. Realizar las acciones necesarias tendentes a preservar y mantener en buen estado la infraestructura urbana municipal, así como los edificios públicos municipales;
-
-> <small>(REFORMADA, G.M.S. 17 DE JULIO DE 2009)</small>
-
-X. Impulsar las actividades del Centro Municipal de Salud y Bienestar Animal, con el propósito de concientizar a la población en la tenencia y cuidado responsable de los animales domésticos;
-
-> <small>(ADICIONADA, G.M.S. 17 DE JULIO DE 2009)</small>
-
-XI. Aplicar señalamiento horizontal y vertical en la red vial del Municipio; y
-
-> <small>(ADICIONADA, G.M.S. 17 DE JULIO DE 2009)</small>
-
-XII. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-53.- El titular de la Coordinación General de Planeación y Evaluación tiene las siguientes atribuciones:
+53.- El titular de la Dirección de Medio Ambiente tiene las siguientes atribuciones:
 
-I. Definir los lineamientos para la formulación del Plan de Desarrollo Municipal, tomando como base el diagnóstico sobre la problemática y las condiciones económicas y sociales del Municipio;
+I. Proponer y ejecutar el programa municipal de protección a la biodiversidad y desarrollo sostenible, en congruencia con el programa estatal y demás disposiciones jurídicas aplicables;
 
-II. Solicitar e integrar las aportaciones de las dependencias municipales y organismos auxiliares al Plan de Desarrollo Municipal;
+II. Realizar las acciones tendentes a prevenir y disminuir la contaminación del ambiente, de manera directa o mediante la coordinación con las dependencias federales, estatales y de otros municipios;
 
-III. Organizar los trabajos para la realización de foros de consulta popular que permitan captar los planteamientos y demandas de los sectores y grupos de la sociedad;
+III. Gestionar la celebración de convenios en materia de protección a la biodiversidad, con los sectores público, social y privado;
 
-IV. Coordinar la elaboración de los programas especiales derivados del Plan de Desarrollo Municipal;
+IV. Promover, fomentar y difundir ante la población, una cultura ambiental, en coordinación con las autoridades educativas y con los sectores representativos de la comunidad municipal;
 
-V. Establecer lineamientos para que las dependencias municipales y organismos auxiliares formulen sus programas operativos anuales con base en los objetivos y metas establecidos en el Plan de Desarrollo Municipal;
+V. Apoyar el funcionamiento del Consejo Municipal de Protección a la Biodiversidad y Desarrollo Sustentable;
 
-VI. Integrar los programas operativos anuales de la Administración Pública Municipal;
+VI. Diseñar y aplicar políticas y acciones, en coordinación con el Organismo de Agua y Saneamiento de Toluca, para la prevención, regulación y control de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado, así como coadyuvar con las dependencias competentes en el control de la explotación de los mantos acuíferos;
 
-VII. Diseñar y operar el sistema de evaluación de programas y acciones de la Administración Pública Municipal, estableciendo los procedimientos para tal efecto;
+VII. Instrumentar programas y acciones de conservación, protección y restauración de la calidad de los suelos, subsuelo y atmósfera;
 
-VIII. Solicitar mensualmente a las dependencias municipales y organismos auxiliares reportes de avances de metas para la evaluación correspondiente;
+VIII. Emitir dictámenes de opinión para otorgar, negar o revocar las licencias municipales para la realización de obras, actividades y servicios públicos o privados, que puedan ocasionar contaminación del aire, agua o suelo, que afecten la flora, fauna, recursos naturales o afecten la salud pública;
 
-IX. Proponer la redefinición de metas o alcances de las acciones y proyectos, con base en los resultados de la evaluación;
+IX. Ordenar y ejecutar visitas de inspección tanto a personas físicas como jurídicas colectivas que tengan fuentes emisoras de contaminantes, así como aplicar las medidas de apremio preventivas y de seguridad, conforme a las disposiciones legales;
 
-X. Organizar los trabajos para la integración de informes anuales de gobierno del Presidente Municipal, formulando el texto y sus anexos, con las aportaciones de las dependencias municipales y organismos auxiliares;
+X. Ejecutar las acciones para controlar el ruido emitido por equipos de sonido, instrumentos musicales y maquinaria móvil para la construcción, que trascienda de las instalaciones donde se realiza la actividad;
 
-XI. Diseñar el sistema de estadística municipal, operándolo de manera coordinada con las diversas dependencias municipales, a fin de contar con la información adecuada para la toma de decisiones;
+XI. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación ambiental causada por fuentes móviles o fijas, que sean de jurisdicción municipal;
 
-XII. Realizar informes, documentos especiales y todo aquel trabajo que requiera integración de análisis de información y estadística;
+XII. Establecer criterios y mecanismos de prevención y control ecológico, derivados de la prestación de servicios públicos municipales, para evitar contaminación;
 
-XIII. Coordinar, dar seguimiento y evaluar las acciones relativas al programa de servicios comunitarios a través de la clave telefónica 072;
+XIII. Realizar tareas de protección, conservación, restauración, producción, ordenación, cultivo, manejo, fomento y aprovechamiento de los ecosistemas forestales y vegetales, así como de la vegetación urbana, que sea de jurisdicción municipal;
 
-XIV. Dar cumplimiento a las disposiciones legales sobre transparencia y acceso a la información pública municipal; y
+XIV. Imponer sanciones por infracciones a las normas de equilibrio ecológico, protección al ambiente, ecosistemas forestales, vegetación urbana y residuos sólidos, conforme a las disposiciones legales respectivas; y
 
 XV. Las demás que le confieran otros ordenamientos.
 
-#### SECCIÓN NOVENA. DE LA DIRECCIÓN GENERAL DE PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN NOVENA. DE LA DIRECCIÓN GENERAL DE DESARROLLO ECONÓMICO Y REGULACIÓN DEL COMERCIO
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-54.- Para el cumplimiento de sus funciones, la Coordinación General de Planeación y Evaluación se auxiliará de las Direcciones de Planeación y de Evaluación.
-
-DE LA DIRECCIÓN DE PLANEACIÓN
-
-###### Artículo 3.
-
-55.- El titular de la Dirección de Planeación cuenta con las siguientes atribuciones:
-
-I. Coordinar la elaboración del Plan de Desarrollo Municipal;
-
-II. Aplicar los mecanismos para la operación del Plan de Desarrollo Municipal;
-
-III. Participar en la elaboración de los programas especiales derivados del Plan de Desarrollo Municipal;
-
-IV. Llevar a cabo la integración de los programas operativos anuales, que aseguren el cumplimiento de los objetivos y acciones planteadas;
-
-V. Asesorar en materia de planeación a las áreas administrativas que lo soliciten;
-
-VI. Participar en la elaboración de los informes anuales del Presidente Municipal;
-
-VII. Proponer instrumentos que permitan integrar una cartera de proyectos estratégicos que solucionen la problemática de infraestructura del Municipio; y
-
-VIII. Las demás que le confieran otros ordenamientos.
-
-DE LA DIRECCIÓN DE EVALUACIÓN
-
-###### Artículo 3.
-
-56.- El titular de la Dirección de Evaluación tiene las siguientes atribuciones:
-
-I. Colaborar en la elaboración del Plan de Desarrollo Municipal;
-
-II. Medir los resultados obtenidos por las dependencias, con el objeto de evaluar su eficiencia y productividad;
-
-III. Plantear ajustes y correcciones al proceso de seguimiento de programas y acciones mediante la identificación de los puntos críticos;
-
-IV. Dar congruencia a los sistemas de evaluación implementados por el gobierno estatal y el sistema de evaluación municipal;
-
-V. Dar seguimiento a los programas, objetivos y metas trazados en el Plan de Desarrollo Municipal;
-
-VI. Coordinar, analizar y elaborar los informes de avances y logros de la Administración Pública Municipal;
-
-VII. Coordinar, analizar y elaborar los informes anuales del Presidente Municipal;
-
-VIII. Coordinar, analizar y elaborar los informes solicitados por el Órgano Superior de Fiscalización, la Contraloría del Poder Legislativo del Estado y la Secretaría de Finanzas del Gobierno del Estado;
-
-IX. Asesorar en materia de evaluación a las áreas de la Administración Pública Municipal que lo soliciten; y
-
-X. Las demás que le confieran otros ordenamientos.
-
-###### Artículo 3.
-
-57.- El titular de la Coordinación General de Desarrollo Económico tiene las siguientes atribuciones:
+54.- El titular de la Dirección General de Desarrollo Económico y Regulación del Comercio tiene las siguientes atribuciones:
 
 I. Proponer al Presidente Municipal las políticas y programas relativos al fomento de las actividades industriales, empresariales, comerciales, de servicios, turísticas, artesanales, agrícolas, acuícolas y pecuarias;
 
@@ -1917,7 +2013,7 @@ XII. Apoyar y fomentar la creación de agroindustrias e impulsar, coordinar y ap
 
 XIII. Promover la realización de ferias y exposiciones artesanales e industriales en el territorio municipal;
 
-XIV. Vigilar, coordinar y controlar administrativamente el buen funcionamiento y fines de los mercados públicos municipales, así como actualizar permanentemente los padrones y expedientes a su resguardo;
+XIV. Coordinar administrativamente el buen funcionamiento y fines de los mercados públicos municipales;
 
 XV. Promover la creación de nuevos mercados, para satisfacer las necesidades de la población;
 
@@ -1933,17 +2029,21 @@ XX. Tramitar y resolver el procedimiento administrativo común, en asuntos relac
 
 XXI. Las demás que le confieran otros ordenamientos.
 
-#### SECCIÓN DÉCIMA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO Y OBRAS PÚBLICAS
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-58.- Para el cumplimiento de sus funciones, la Dirección General de Desarrollo Económico se auxiliara de la Dirección de Fomento Económico.
+55.- Para el cumplimiento de sus funciones, la Dirección General de Desarrollo Económico y Regulación del Comercio se auxiliará de las Direcciones de Desarrollo Económico y de Regulación del Comercio; la primera contará con las Subdirecciones de Promoción, de Empresas Municipales y de Desarrollo Agropecuario; y la segunda con las Subdirecciones de Mercados y del Comercio.
 
-DE LA DIRECCIÓN DE FOMENTO ECONÓMICO
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA DIRECCIÓN DE DESARROLLO ECONÓMICO
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-59.- El titular de la Dirección de Fomento Económico cuenta con las siguientes atribuciones:
+56.- El titular de la Dirección de Desarrollo Económico cuenta con las siguientes atribuciones:
 
 I. Promover en el ámbito federal, estatal y municipal la participación del sector artesanal en congresos, foros y seminarios organizados por instituciones y empresas;
 
@@ -1975,69 +2075,149 @@ XIV. Mantener comunicación permanente con el sector privado, a fin de fomentar 
 
 XV. Las demás que le confieran otros ordenamientos.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LA DIRECCIÓN GENERAL DE SERVICIOS PÚBLICOS
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+DE LA DIRECCIÓN DE REGULACIÓN DEL COMERCIO
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-60.- El titular de la Coordinación General de Medio Ambiente tiene las siguientes atribuciones:
+57.- EL (SIC) titular de la Dirección de Regulación del Comercio tiene las siguientes atribuciones:
 
-I. Definir e implementar las políticas municipales en materia de preservación ecológica y protección al ambiente, considerando las políticas establecidas por la Federación y el Estado;
+I. Coordinar y vigilar el adecuado cumplimiento de las disposiciones legales y reglamentarias en materia comercial, prestación de servicios y mercados públicos;
 
-II. Realizar las acciones tendentes a prevenir y disminuir la contaminación del ambiente, de manera directa o mediante la coordinación con las dependencias federales, estatales y de otros municipios, y gestionar la celebración de convenios con organismos sociales y privados;
+II. Vigilar y controlar el buen funcionamiento de los mercados públicos municipales, así como actualizar permanentemente los padrones y expedientes a su resguardo;
 
-III. Fomentar y difundir ante la población, una conciencia y cultura ambiental, en coordinación con las autoridades educativas y con los sectores representativos de la comunidad municipal;
+III. Autorizar el otorgamiento, revalidación y revocación de permisos y licencias de funcionamiento, que se relacionen con actividades comerciales, industriales y de prestación de servicios, conforme a las normas jurídicas respectivas;
 
-IV. Formular y ejecutar el programa municipal de protección a la biodiversidad y desarrollo sostenible, en congruencia con el programa estatal respectivo;
+IV. Ordenar y acordar el control, verificación e inspección de las actividades comerciales, industriales y de prestación de servicios que se realicen en el territorio municipal;
 
-V. Apoyar el funcionamiento del Consejo Municipal de Protección a la Biodiversidad y Desarrollo Sustentable;
+V. Supervisar que los espectáculos y diversiones públicas se desarrollen conforme a las disposiciones legales aplicables;
 
-VI. Diseñar y aplicar políticas y acciones, en coordinación con el Organismo de Agua y Saneamiento de Toluca, para la prevención, regulación y control de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado, así como coadyuvar con las dependencias competentes en el control de la explotación de los mantos acuíferos;
+VI. Fomentar la capacitación y actualización de los servidores públicos de la dependencia, para garantizar el estricto cumplimiento de la normatividad relacionada con su competencia:
 
-VII. Instrumentar programas y acciones de conservación, protección y restauración de la calidad de los suelos, subsuelo y atmósfera;
+VII. Registrar las solicitudes de licencias y permisos, para el ejercicio de la actividad comercial en el Municipio;
 
-VIII. Emitir dictámenes de opinión para otorgar, negar o revocar las licencias municipales para la realización de obras, actividades y servicios públicos o privados, que puedan ocasionar contaminación del aire, agua o suelo, que afecten la flora, fauna, recursos naturales o afecten la salud pública;
+VIII. Autorizar las licencias o permisos para ejercer la actividad comercial, solicitadas por las personas físicas o jurídicas colectivas, cuando reúnan todos los requisitos, en un plazo no mayor a 15 días hábiles de su presentación, conforme a la normatividad municipal;
 
-IX. Ordenar y ejecutar visitas de inspección tanto a personas físicas como jurídicas colectivas que tengan fuentes emisoras de contaminantes, así como aplicar las medidas de apremio preventivas y de seguridad, conforme a las disposiciones legales;
+VIII (SIC). Controlar la realización de espectáculos y diversiones públicas, cuidando que se desarrollen con apego a la normatividad municipal;
 
-X. Ejecutar las acciones para controlar el ruido emitido por equipos de sonido, instrumentos musicales y maquinaria móvil para la construcción, que trascienda de las instalaciones donde se realiza la actividad;
+IX. Autorizar, en coordinación con las autoridades competentes, la colocación y distribución de anuncios y publicidad diversa en o con vista a la vía pública o en las azoteas de las edificaciones, de conformidad con la normatividad vigente;
 
-XI. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación ambiental causada por fuentes móviles o fijas, que sean de jurisdicción municipal;
+X. Mantener actualizados los padrones del comercio establecido, así como de la actividad comercial en vía pública;
 
-XII. Establecer criterios y mecanismos de prevención y control ecológico, derivados de la prestación de servicios públicos municipales, para evitar contaminación;
+XI. Acordar la práctica de la verificación de los establecimientos comerciales y del comercio en vía pública, previo al otorgamiento de la licencia o permiso correspondiente, a fin de constatar que cumplan con los requisitos que establece la normatividad aplicable;
 
-XIII. Realizar tareas de protección, conservación, restauración, producción, ordenación, cultivo, manejo, fomento y aprovechamiento de los ecosistemas forestales y vegetales, así como de la vegetación urbana, que sea de jurisdicción municipal;
+XII. Acordar lo conducente en relación al cambio de propietario, de razón social o cambio de giro en las licencias de funcionamiento del comercio establecido, observando las normas aplicables;
 
-XIV. Establecer coordinación estrecha con la Dirección de Residuos Sólidos, para realizar acciones conjuntas en materia de gestión integral de residuos sólidos urbanos y de manejo especial;
+XIII. Dar cumplimiento a las resoluciones dictadas por la autoridad competente, tendentes a cancelar o revocar en definitiva los permisos en vía pública o licencias de comercio establecido en el Municipio;
 
-XV. Imponer sanciones por infracciones a las normas de equilibrio ecológico, protección al ambiente, ecosistemas forestales, vegetación urbana y residuos sólidos, en términos de los preceptos jurídicos aplicables; y
+XIV. Cumplimentar las determinaciones de la autoridad competente tendentes a recuperar espacios municipales dados en concesión, comodato, usufructo u otra modalidad jurídica;
 
-XVI. Las demás que le confieran otros ordenamientos.
+XV. Coordinarse con la autoridad de tránsito, y vialidad, para que se lleven a cabo en forma ordenada las actividades que los particulares realicen en la vía pública;
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LA COORDINACIÓN GENERAL DE PLANEACIÓN Y EVALUACIÓN
+XVI. Controlar y coordinar la inspección a establecimientos comerciales, conforme a las normas establecidas;
+
+XVII. Verificar que las licencias y permisos de funcionamiento, referentes a las actividades comerciales, industriales, de prestación de servicios y de vía publica, cumplan con los requisitos correspondientes y que su funcionamiento se realice de acuerdo a la normatividad exigida por la actividad ejercida;
+
+XVIII. Regular la actividad de los vendedores ambulantes, cuidando que se realice en los lugares permitidos;
+
+XIX. Ordenar, elaborar y ejecutar las visitas domiciliarias de inspección, los acuerdos sobre medidas preventivas de suspensión de la actividad, clausura provisional y aseguramiento, decomiso o retiro de mercancías, productos, materiales o sustancias que se expendan en la vía pública, en términos de las disposiciones legales aplicables;
+
+XX. Dictar y ejecutar los acuerdos de reubicación y ordenamiento del comercio en la vía pública, cuando el interés público así lo requiera; y
+
+XXI. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN DÉCIMA. DE LA UNIDAD DE INFORMACIÓN, PLANEACIÓN, PROGRAMACIÓN Y EVALUACIÓN
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-61.- El titular de la Coordinación General de Urbanismo y Vivienda cuanta (sic) con las siguientes atribuciones:
+58.- El titular de la Unidad de Información, Planeación, Programación y Evaluación cuenta con estas atribuciones:
 
-I. Formular proyectos de desarrollo urbano y programas de vivienda;
+I. Definir los lineamientos para la formulación del Plan de Desarrollo Municipal, tomando como base el diagnóstico sobre la problemática y las condiciones económicas y sociales del Municipio;
 
-II. Adquirir suelos y reservas territoriales para el desarrollo urbano y la realización de programas de vivienda;
+II. Solicitar e integrar las aportaciones de las dependencias municipales y organismos auxiliares al Plan de Desarrollo Municipal;
 
-III. Proyectar, presupuestar, promover y administrar programas de desarrollo urbano y vivienda en el Municipio;
+III. Organizar los trabajos para la realización de foros de consulta popular que permitan captar los planteamientos y demandas de los sectores y grupos de la sociedad;
 
-IV. Controlar y coordinar con los sectores público, social y privado, la ejecución de los programas de desarrollo urbano;
+IV. Coordinar la elaboración de los programas especiales derivados del Plan de Desarrollo Municipal;
 
-V. Intervenir en la regularización de la tenencia de la tierra urbana, de acuerdo a las disposiciones legales;
+V. Establecer lineamientos para que las dependencias municipales y organismos auxiliares formulen sus programas operativos anuales con base en los objetivos y metas establecidos en el Plan de Desarrollo Municipal;
 
-VI. Participar en la elaboración y actualización del inventario general de los bienes inmuebles propiedad del Municipio, así como en las acciones relacionadas con los mismos; y
+VI. Integrar los programas operativos anuales de la Administración Pública Municipal;
+
+VII. Diseñar y operar el sistema de evaluación de programas y acciones de la Administración Pública Municipal, estableciendo los procedimientos para tal efecto;
+
+VIII. Solicitar mensualmente a las dependencias municipales y organismos auxiliares reportes de avances de metas para la evaluación correspondiente;
+
+IX. Proponer la redefinición de metas o alcances de las acciones y proyectos, con base en los resultados de la evaluación;
+
+X. Organizar los trabajos para la integración de informes anuales de gobierno del Presidente Municipal, formulando el texto y sus anexos, con las aportaciones de las dependencias municipales y organismos auxiliares;
+
+XI. Diseñar el sistema de estadística municipal, operándolo de manera coordinada con las diversas dependencias municipales, a fin de contar con la información adecuada para la toma de decisiones;
+
+XII. Realizar informes, documentos especiales y todo aquel trabajo que requiera integración de análisis de información y estadística;
+
+XIII. Coordinar, dar seguimiento y evaluar las acciones relativas al programa de servicios comunitarios a través de la clave telefónica 072;
+
+XIV. Dar cumplimiento a las disposiciones legales sobre transparencia y acceso a la información pública municipal;
+
+XV. Elaborar e instrumentar sistemas automatizados que coadyuven a una mejor Administración Pública Municipal;
+
+XVI. Coordinar la utilización de los recursos de procesamiento electrónico de datos instalados en las dependencias municipales, con el objeto de promover los programas de actualización;
+
+XVII. Supervisar la adquisición, utilización y mantenimiento del equipo de cómputo;
+
+XVIII. Llevar el control de la telefonía de las dependencias municipales;
+
+XIX. Elaborar los manuales de organización y procedimientos por área, así como los demás documentos en materia de innovación y calidad; y
+
+XX. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+59.- La Unidad de Información, Planeación, Programación y Evaluación, para el cumplimiento de sus atribuciones, se auxiliará de las Subdirecciones de Planeación, de Evaluación, de Tecnologías de la Información y de Innovación y Calidad.
+
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN DÉCIMA PRIMERA. DE LA UNIDAD DE DESARROLLO METROPOLITANO
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+60.- El titular de la Unidad de Desarrollo Metropolitano tiene las siguientes atribuciones:
+
+I. Proponer los mecanismos de coordinación del Municipio de Toluca con las autoridades de los Gobiernos Federal, del Estado y de los municipios de la Zona Metropolitana del Valle de Toluca, para atender de manera integral los asuntos de carácter metropolitano;
+
+II. Representar al Presidente Municipal en las comisiones u órganos metropolitanos, que coordine el Gobierno del Estado;
+
+III. Coordinar las acciones metropolitanas a cargo de las dependencias municipales y organismos auxiliares, vigilando su cumplimiento;
+
+IV. Realizar estudios para apoyar las actividades con enfoque metropolitano que realiza la Administración Pública Municipal;
+
+V. Asesorar a las autoridades municipales en asuntos de carácter metropolitano;
+
+VI. Fomentar la participación de los vecinos del Municipio de Toluca en acciones y programas de naturaleza metropolitana; y
 
 VII. Las demás que le confieran otros ordenamientos.
 
-### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DESCENTRALIZADA
+> <small>(REFORMADA SU DENOMINACION, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA. DE LA UNIDAD DE COMUNICACIÓN SOCIAL
+
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-62.- El titular de la Coordinación General de Comunicación Social cuenta con las siguientes atribuciones:
+61.- El titular de la Unidad de Comunicación Social cuenta con las siguientes atribuciones:
 
 I. Proponer al Presidente Municipal las líneas de acción para organizar y supervisar un sistema de comunicación entre el Ayuntamiento y la población;
 
@@ -2049,35 +2229,53 @@ IV. Monitorear la información que se transmita y publique en los medios de comu
 
 V. Formular, difundir y supervisar el cumplimiento del manual de imagen institucional;
 
-VI. Elaborar, revisar y aprobar, en su caso, los aspectos técnicos de las impresiones y publicaciones que realice el Ayuntamiento; y
+VI. Elaborar, revisar y aprobar, en su caso, los aspectos técnicos de las impresiones y publicaciones que realice la Administración Pública Municipal; y
 
 VII. Las demás que le confieran otros ordenamientos.
 
-###### Artículo 3.
+### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DESCENTRALIZADA
 
-63.- Las empresas públicas municipales, los organismos descentralizados de carácter municipal, las empresas de participación municipal mayoritaria y los fideicomisos públicos, se considerarán organismos auxiliares del Ayuntamiento.
-
-###### Artículo 3.
-
-64.- Son organismos descentralizados de la Administración Pública Municipal:
-
-I. El Sistema Municipal para el Desarrollo Integral de la Familia de Toluca; y
-
-II. El Organismo de Agua y Saneamiento de Toluca.
+> <small>(REFORMADO Y REUBICADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-65.- La organización y funcionamiento del Sistema para el Desarrollo Integral de la Familia de Toluca se regirán por la Ley que crea a los Organismos Públicos Descentralizados de Asistencia Social de carácter Municipal denominados Sistemas Municipales para el Desarrollo Integral de la Familia, la Ley Orgánica Municipal, el Bando Municipal, el presente ordenamiento, su reglamentación interna y demás normas jurídicas aplicables.
+62.- Las empresas públicas municipales, los organismos descentralizados de carácter municipal, las empresas de participación municipal mayoritaria y los fideicomisos públicos, se considerarán organismos auxiliares del Ayuntamiento.
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 3.
 
-66.- La organización y funcionamiento del Organismo de Agua y Saneamiento de Toluca se ajustarán a la Ley del Agua del Estado, la Ley que crea al Organismo Público Descentralizado por Servicio de carácter Municipal denominado Agua y Saneamiento de Toluca, la Ley Orgánica Municipal, el Bando Municipal, el presente ordenamiento, su reglamentación interna y otras disposiciones legales relacionadas.
+63.- Son organismos descentralizados de la Administración Pública Municipal:
+
+I. El Sistema Municipal para el Desarrollo Integral de la Familia de Toluca;
+
+II. El Organismo de Agua y Saneamiento de Toluca; y
+
+III. El Instituto Municipal de Cultura Física y Deporte de Toluca.
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+64.- La organización y funcionamiento del Sistema para el Desarrollo Integral de la Familia de Toluca se regirán por la Ley que crea a los Organismos Públicos Descentralizados de Asistencia Social de carácter Municipal denominados Sistemas Municipales para el Desarrollo Integral de la Familia, la Ley Orgánica Municipal, el Bando Municipal, el presente ordenamiento, su reglamentación interna y demás normas jurídicas aplicables.
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+65.- La organización y funcionamiento del Organismo de Agua y Saneamiento de Toluca se ajustarán a la Ley del Agua del Estado, la Ley que crea al Organismo Público Descentralizado por Servicio de carácter Municipal denominado Agua y Saneamiento de Toluca, la Ley Orgánica Municipal, el Bando Municipal, el presente ordenamiento, su reglamentación interna y otras disposiciones legales relacionadas.
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 3.
+
+66.- La organización y funcionamiento del Instituto Municipal de Cultura Física y Deporte de Toluca estarán sujetos a la Ley de Cultura Física y Deporte del Estado de México, la Ley Orgánica Municipal, el Bando Municipal, el presente ordenamiento, su reglamentación interna y demás preceptos jurídicos que resulten aplicables.
 
 ## TÍTULO CUARTO. DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
 ### CAPÍTULO PRIMERO. DE LAS RELACIONES LABORALES DE LOS SERVIDORES PÚBLICOS
 
-#### SECCIÓN DÉCIMA TERCERA. DE LA COORDINACIÓN GENERAL DE DESARROLLO ECONÓMICO
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 4.
 
@@ -2109,7 +2307,9 @@ El personal que cobra a través del sistema bancario, está obligado a firmar la
 
 > <small>(REFORMADA SU DENOMINACION, G.M.S. 17 DE JULIO DE 2009)</small>
 
-#### SECCIÓN DÉCIMA CUARTA. DE LA COORDINACIÓN GENERAL DE MEDIO AMBIENTE
+#### SECCIÓN SEGUNDA. DEL PERSONAL DE LA BANDA DE MÚSICA Y DE LA ORQUESTA FILARMÓNICA
+
+> <small>(REFORMADO, G.M.S. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -2181,7 +2381,7 @@ IV. Reponer o reparar los instrumentos asignados, en caso de que se pierdan, des
 
 ### CAPÍTULO SEGUNDO. DE LOS CUERPOS DE SEGURIDAD PÚBLICA, TRÁNSITO Y BOMBEROS
 
-#### SECCIÓN DÉCIMA QUINTA. DE LA COORDINACIÓN GENERAL DE URBANISMO Y VIVIENDA
+#### SECCIÓN PRIMERA. DEL CUERPO DE SEGURIDAD PÚBLICA MUNICIPAL
 
 ###### Artículo 4.
 
@@ -2195,23 +2395,25 @@ IV. Reponer o reparar los instrumentos asignados, en caso de que se pierdan, des
 
 14.- Los elementos policiales tendrán derecho a vacaciones, que se otorgarán en forma escalonada, preferentemente en dos períodos de diez días laborables cada uno, siempre y cuando hayan cumplido seis meses en la corporación.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 4.
 
-15.- Las sanciones disciplinarias a los integrantes del cuerpo de seguridad pública municipal, a que se refiere la Ley de Seguridad Pública del Estado, se aplicarán por el Director de Seguridad Pública Municipal. En lo que toca a la remoción en el cargo, el procedimiento administrativo se tramitará y resolverá por el Director General de Seguridad Pública, Tránsito y Vialidad.
+15.- Las sanciones disciplinarias a los integrantes del cuerpo de seguridad pública municipal, a que se refiere la Ley de Seguridad Pública del Estado, se aplicarán por el Director de Seguridad Pública. En lo que toca a la remoción en el cargo, el procedimiento administrativo se tramitará y resolverá por el Director General de Seguridad Pública y Gobernación.
 
-#### SECCIÓN DÉCIMA SEXTA. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
+#### SECCIÓN SEGUNDA. DEL CUERPO DE AGENTES DE TRÁNSITO
 
 ###### Artículo 4.
 
 16.- Las atribuciones, formación, promoción, derechos, reconocimientos, premios, condecoraciones, deberes, obligaciones, régimen disciplinario y la remoción de los agentes de tránsito, se ajustarán a la Constitución Federal, la Constitución Estatal, la Ley de Seguridad Pública del Estado en lo que respecta al cuerpo de seguridad pública municipal, la Ley Orgánica Municipal, el Libro Octavo del Código Administrativo, el Reglamento de Tránsito del Estado, el Bando Municipal, las secciones primera y segunda del presente capítulo y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 4.
 
-17.- Las sanciones disciplinarias a los agentes de tránsito, se aplicarán por el Director de Tránsito Municipal, en términos de la Ley de Seguridad Pública del Estado.
+17.- Las sanciones disciplinarias a los agentes de tránsito, se aplicarán por el Director de Tránsito y Vialidad, en términos de la Ley de Seguridad Pública del Estado. Respecto a la remoción en el cargo, la tramitación y decisión del procedimiento administrativo compete al Director General de Seguridad Pública y Gobernación.
 
-Respecto a la remoción en el cargo, la tramitación y decisión del procedimiento administrativo compete al Director General de Seguridad Pública, Tránsito y Vialidad.
-
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN TERCERA. DEL CUERPO DE BOMBEROS
 
 ###### Artículo 4.
 
@@ -2253,9 +2455,11 @@ VIII. Mantener en perfecto orden y listas para funcionar con la mayor eficacia y
 
 IX. Destinar los inmuebles y mobiliario de la estación central y demás estaciones, a usos relacionados con el servicio.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 4.
 
-21.- Las sanciones disciplinarias a los integrantes del cuerpo de bomberos, se aplicarán por el Director de Bomberos y Protección Civil, conforme a la Ley de Seguridad Pública del Estado. Tratándose de la remoción en el cargo, el procedimiento administrativo será tramitado y resuelto por el Director General de Seguridad Pública, Tránsito y Vialidad.
+21.- Las sanciones disciplinarias a los integrantes del cuerpo de bomberos, se aplicarán por el Director de Bomberos y Protección Civil, conforme a la Ley de Seguridad Pública del Estado. Tratándose de la remoción en el cargo, el procedimiento administrativo será tramitado y resuelto por el Director General de Seguridad Pública y Gobernación.
 
 ###### Artículo 4.
 
@@ -2265,9 +2469,7 @@ Las aportaciones económicas y materiales que reciba el citado Patronato se dest
 
 ### CAPÍTULO TERCERO. DE LA SEGURIDAD E HIGIENE EN EL TRABAJO DE LOS SERVIDORES PÚBLICOS
 
-#### SECCIÓN SEGUNDA. DEL PERSONAL DE LA BANDA DE MÚSICA Y DE LA ORQUESTA FILARMÓNICA
-
-> <small>(REFORMADO, G.M.S. 17 DE JULIO DE 2009)</small>
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 4.
 
@@ -2277,7 +2479,7 @@ Las aportaciones económicas y materiales que reciba el citado Patronato se dest
 
 24.- Cada uno de los servidores públicos municipales tiene la obligación de mantener en perfecto estado de orden y limpieza el lugar donde realiza sus labores, así como también la maquinaria, equipos, instrumentos y útiles de trabajo, con los elementos que para tal fin le proporcione la autoridad respectiva.
 
-#### SECCIÓN PRIMERA. DEL CUERPO DE SEGURIDAD PÚBLICA MUNICIPAL
+#### SECCIÓN SEGUNDA. DE LA COMISIÓN MIXTA DE SEGURIDAD E HIGIENE
 
 ###### Artículo 4.
 
@@ -2285,7 +2487,9 @@ Las aportaciones económicas y materiales que reciba el citado Patronato se dest
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Director General de Administración; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. Un Secretario Ejecutivo, que será el Director General de Tesorería y Administración; y
 
 III. Cuatro vocales, que serán:
 
@@ -2337,7 +2541,7 @@ VIII. Las demás que sean inherentes a sus atribuciones.
 
 28.- En cada organismo auxiliar quedará constituida una Comisión Mixta de Seguridad e Higiene, cuya integración y atribuciones serán similares a las señaladas en la presente sección, sin que los representantes del Ayuntamiento puedan ser miembros.
 
-#### SECCIÓN SEGUNDA. DEL CUERPO DE AGENTES DE TRÁNSITO
+#### SECCIÓN TERCERA. DE LA PREVENCIÓN DE RIESGOS EN EL TRABAJO
 
 ###### Artículo 4.
 
@@ -2355,7 +2559,7 @@ V. Los servidores públicos asistirán a los cursos o maniobras que en materia d
 
 VI. No se empleará a mujeres embarazadas, en labores peligrosas o insalubres.
 
-#### SECCIÓN TERCERA. DEL CUERPO DE BOMBEROS
+#### SECCIÓN CUARTA. DE LAS CONDICIONES DEL AMBIENTE DE TRABAJO
 
 ###### Artículo 4.
 
@@ -2373,7 +2577,7 @@ Asimismo, en los centros de trabajo en los que se originen contaminantes altamen
 
 En las instalaciones municipales, aun cuando estén provistos de sistemas fijos o semifijos contra incendios, deberán disponer de equipo portátil o extinguidores adecuados al tipo de incendio que pueda ocurrir.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LOS EXÁMENES MÉDICOS Y LAS MEDIDAS PROFILÁCTICAS
 
 ###### Artículo 4.
 
@@ -2385,7 +2589,7 @@ Los servidores públicos están obligados a someterse a los exámenes médicos q
 
 34.- Cuando se tenga conocimiento de que un servidor público ha contraído una enfermedad transmisible o que se encuentra en contacto con personas afectadas con tales padecimientos, deberá someterse a un examen médico periódico, con objeto de darle el tratamiento que le corresponda o, en su caso, prevenir el contagio, sin perjuicio de que se aplique lo dispuesto por la legislación laboral vigente.
 
-#### SECCIÓN SEGUNDA. DE LA COMISIÓN MIXTA DE SEGURIDAD E HIGIENE
+#### SECCIÓN SEXTA. DE LAS PROHIBICIONES EN MATERIA DE SEGURIDAD E HIGIENE
 
 ###### Artículo 4.
 
@@ -2415,9 +2619,11 @@ IX. Las análogas a las anteriores que establezca la Comisión.
 
 36.- La entrega-recepción de las unidades administrativas de las dependencias municipales y organismos auxiliares es el procedimiento a través del cual los servidores públicos, al separarse de su empleo, cargo o comisión, preparan y entregan a quienes los sustituyen en sus funciones, los asuntos de su competencia, así como los recursos humanos, materiales y financieros que les hayan sido asignados para el ejercicio de sus atribuciones legales.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 4.
 
-37.- Los sujetos al procedimiento de entrega-recepción serán el Presidente Municipal, síndicos, regidores, Secretario del Ayuntamiento, Tesorero Municipal, Contralor Municipal, directores generales, coordinadores generales, los servidores públicos que ocupen cargos hasta el nivel de jefe de departamento o equivalentes y aquellos de nivel inferior que por la naturaleza e importancia de sus funciones y por la responsabilidad del puesto o encargo que realizan, les sea requerido por el titular de la dependencia municipal, organismo auxiliar u órgano de control interno, conforme al Manual de Entrega-Recepción emitido por el Órgano Superior de Fiscalización del Poder Legislativo del Estado.
+37.- Los sujetos al procedimiento de entrega-recepción serán el Presidente Municipal, síndicos, regidores, Secretario del Ayuntamiento, Contralor Municipal, Directores Generales, Jefes de Unidad, los servidores públicos que ocupen cargos hasta el nivel de Jefe de Departamento o equivalentes y aquellos de nivel inferior que por la naturaleza e importancia de sus funciones y por la responsabilidad del puesto o encargo que realizan, les sea requerido por el titular de la dependencia municipal, organismo auxiliar u órgano de control interno, conforme al Manual de Entrega-Recepción emitido por el Órgano Superior de Fiscalización del Poder Legislativo del Estado.
 
 ###### Artículo 4.
 
@@ -2431,9 +2637,11 @@ Los servidores públicos que intervienen en el acto tendrán el derecho de anota
 
 En este supuesto, el servidor público entrante, al tomar posesión, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia del estado en que se encuentran los asuntos y recursos, haciéndolo del conocimiento de su jefe inmediato, del titular de la dependencia municipal u organismo auxiliar y de la Contraloría Interna, para los efectos que correspondan.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 4.
 
-40.- En el caso en que el servidor público que deba recibir aún no haya sido designado, el Presidente Municipal, el Director General o el Coordinador General respectivo, nombrará al que intervendrá en la recepción del despacho, comunicando a la Contraloría Interna tal designación.
+40.- En el caso en que el servidor público que deba recibir aún no haya sido designado, el Presidente Municipal, el Director General o el Jefe de Unidad respectivo, nombrará al que intervendrá en la recepción del despacho, comunicando a la Contraloría Interna tal designación.
 
 ###### Artículo 4.
 
@@ -2471,7 +2679,7 @@ En tal situación el servidor público saliente deberá comunicarlo a la Contral
 
 ### CAPÍTULO PRIMERO. DE LAS DELEGACIONES Y SUBDELEGACIONES
 
-#### SECCIÓN TERCERA. DE LA PREVENCIÓN DE RIESGOS EN EL TRABAJO
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 5.
 
@@ -2485,7 +2693,7 @@ En tal situación el servidor público saliente deberá comunicarlo a la Contral
 
 3.- Los delegados y subdelegados durarán en su encargo tres años, entrando en funciones el primer día de diciembre del año de la elección. Los propietarios o suplentes que hayan ejercido las funciones, no podrán ser electos para el período inmediato siguiente.
 
-#### SECCIÓN CUARTA. DE LAS CONDICIONES DEL AMBIENTE DE TRABAJO
+#### SECCIÓN SEGUNDA. DE LA ELECCIÓN DE LOS DELEGADOS Y SUBDELEGADOS
 
 ###### Artículo 5.
 
@@ -2559,7 +2767,7 @@ En caso de no existir registro de planillas en alguna delegación o subdelegaci�
 
 10.- Los delegados y subdelegados entrantes recibirán de los delegados y subdelegados salientes, en presencia del representante del Contralor Municipal, los bienes que correspondan a la delegación o subdelegación, elaborándose el acta de entrega-recepción.
 
-#### SECCIÓN QUINTA. DE LOS EXÁMENES MÉDICOS Y LAS MEDIDAS PROFILÁCTICAS
+#### SECCIÓN TERCERA. DE LAS ATRIBUCIONES DE LOS DELEGADOS Y SUBDELEGADOS
 
 ###### Artículo 5.
 
@@ -2579,7 +2787,9 @@ VI. Recabar la opinión de los vecinos para elaborar su programa de trabajo, el 
 
 VII. Vigilar que los padres de familia envíen a sus hijos a recibir la educación básica;
 
-VIII. Mantener informada a la Dirección General de Participación Ciudadana de cualquier hecho que se suscite dentro de su delegación o subdelegación y acudir puntualmente ante las autoridades municipales cuando sean convocados;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+VIII. Mantener informada a la Dirección General de Desarrollo Social y Participación Ciudadana de cualquier hecho que se suscite dentro de su delegación o subdelegación y acudir puntualmente ante las autoridades municipales cuando sean convocados;
 
 IX. Informar en asamblea pública que se celebre en la primera quincena de octubre de cada año, del cumplimiento de sus responsabilidades, ante el Presidente Municipal o la persona que lo represente;
 
@@ -2623,7 +2833,7 @@ VI. Hacer lo que no este previsto en las disposiciones legales.
 
 El uso del sello de la delegación o subdelegación será exclusivo de los delegados y subdelegados propietarios y estará bajo su custodia y responsabilidad.
 
-#### SECCIÓN SEXTA. DE LAS PROHIBICIONES EN MATERIA DE SEGURIDAD E HIGIENE
+#### SECCIÓN CUARTA. DE LA RELACIÓN CON OTRAS ORGANIZACIONES SOCIALES
 
 ###### Artículo 5.
 
@@ -2667,7 +2877,7 @@ Los delegados y subdelegados supervisarán y vigilarán que la obra realizada po
 
 Los delegados y subdelegados, en términos de sus atribuciones, deberán solicitar a la Tesorería Municipal que acuda a supervisar los eventos a que se refiere el párrafo anterior, e intervenirlos en su caso.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LAS LICENCIAS, RENUNCIAS Y SUSTITUCIONES
 
 ###### Artículo 5.
 
@@ -2705,7 +2915,7 @@ V. Cuando realicen cobros de contribuciones u otros conceptos que no estén auto
 
 ### CAPÍTULO SEGUNDO. DE LOS CONSEJOS DE PARTICIPACIÓN CIUDADANA MUNICIPAL
 
-#### SECCIÓN SEGUNDA. DE LA ELECCIÓN DE LOS DELEGADOS Y SUBDELEGADOS
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 5.
 
@@ -2719,7 +2929,7 @@ V. Cuando realicen cobros de contribuciones u otros conceptos que no estén auto
 
 25.- Los integrantes de los Consejos durarán en su encargo tres años, entrando en funciones el primer día de diciembre del año de la elección. Los propietarios o suplentes que hayan ejercido las funciones, no podrán ser electos para el período inmediato siguiente.
 
-#### SECCIÓN TERCERA. DE LAS ATRIBUCIONES DE LOS DELEGADOS Y SUBDELEGADOS
+#### SECCIÓN SEGUNDA. DE LA ELECCIÓN DE LOS CONSEJOS
 
 ###### Artículo 5.
 
@@ -2793,7 +3003,7 @@ En caso de no existir registro de planillas en algún sector, el Ayuntamiento de
 
 32.- Los Consejos entrantes recibirán de los órganos salientes, en presencia del representante del Contralor Municipal, los bienes que correspondan a los Consejos, elaborándose el acta de entrega-recepción.
 
-#### SECCIÓN CUARTA. DE LA RELACIÓN CON OTRAS ORGANIZACIONES SOCIALES
+#### SECCIÓN TERCERA. DE LA ORGANIZACIÓN DE LOS CONSEJOS
 
 ###### Artículo 5.
 
@@ -2849,7 +3059,7 @@ II. Su conducta contravenga el orden público y provoque graves conflictos que a
 
 III. No cumplan, en forma reiterada, con las atribuciones que les señalan las disposiciones legales.
 
-#### SECCIÓN QUINTA. DE LAS LICENCIAS, RENUNCIAS Y SUSTITUCIONES
+#### SECCIÓN CUARTA. DE LAS ATRIBUCIONES DE LOS CONSEJOS
 
 ###### Artículo 5.
 
@@ -2903,7 +3113,7 @@ XVII. Las demás que determinen otras disposiciones.
 
 2.- Los servicios públicos de suministro de agua potable, drenaje, alcantarillado y tratamiento y disposición de aguas residuales, estarán a cargo del Municipio, quien los ejercerá por medio del Organismo Público Descentralizado por Servicio de Carácter Municipal denominado Agua y Saneamiento de Toluca, mismo que en lo sucesivo se denominará como el Organismo.
 
-#### SECCIÓN SEGUNDA. DE LA ELECCIÓN DE LOS CONSEJOS
+#### SECCIÓN SEGUNDA. DE LA PROGRAMACIÓN
 
 ###### Artículo 6.
 
@@ -2919,7 +3129,7 @@ III. Las fuentes de financiamiento del programa.
 
 4. El programa anual del Organismo será aprobado por el Consejo Directivo del mismo, a propuesta de su Director General, durante el primer trimestre del ejercicio fiscal en el que vaya a ser aplicado. En el primer año de la administración municipal, el programa anual se aprobará conjuntamente con el programa municipal de agua potable, drenaje, alcantarillado y tratamiento y disposición de aguas residuales.
 
-#### SECCIÓN TERCERA. DE LA ORGANIZACIÓN DE LOS CONSEJOS
+#### SECCIÓN TERCERA. DE LA CONSTRUCCIÓN, AMPLIACIÓN Y REHABILITACIÓN
 
 ###### Artículo 6.
 
@@ -2949,7 +3159,7 @@ En estos casos los interesados deberán tramitar ante el Organismo el convenio p
 
 Los servicios de lavado y engrasado de vehículos automotores están obligados a utilizar aguas residuales que cumplan con las normas oficiales mexicanas vigentes y deberán instalar equipo para el tratamiento primario, antes de descargar a los cuerpos receptores.
 
-#### SECCIÓN CUARTA. DE LAS ATRIBUCIONES DE LOS CONSEJOS
+#### SECCIÓN CUARTA. DE LAS SOLICITUDES DEL SERVICIO
 
 ###### Artículo 6.
 
@@ -3035,7 +3245,7 @@ VII. Proyectos y memorias de cálculo de infraestructura hidráulica y sanitaria
 
 VIII. Plano de lotificación con superficies de cada lote.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LOS DICTÁMENES TÉCNICOS
 
 ###### Artículo 6.
 
@@ -3077,7 +3287,7 @@ Cuando el Organismo determine la viabilidad del otorgamiento de los servicios so
 
 15.- El dictamen de factibilidad que determine la improcedencia de la prestación de los servicios solicitados deberá contener las consideraciones técnicas que motivaron dicha decisión.
 
-#### SECCIÓN SEGUNDA. DE LA PROGRAMACIÓN
+#### SECCIÓN SEXTA. DE LOS CONTRATOS PARA LA PRESTACIÓN DE LOS SERVICIOS
 
 ###### Artículo 6.
 
@@ -3111,7 +3321,7 @@ V. Pagar puntualmente los derechos previstos en el Código Financiero, por la pr
 
 VI. Conservar y mantener los sistemas hidráulicos del conjunto hasta la fecha de entrega de los mismos al Organismo, que no podrá exceder de los plazos previstos en la legislación aplicable, en los casos de aprovechamiento de agua en bloque para la construcción de conjuntos habitacionales, industriales, comerciales o de servicios.
 
-#### SECCIÓN TERCERA. DE LA CONSTRUCCIÓN, AMPLIACIÓN Y REHABILITACIÓN
+#### SECCIÓN SÉPTIMA. DEL PADRÓN DE USUARIOS
 
 ###### Artículo 6.
 
@@ -3135,7 +3345,7 @@ VII. En su caso, resultados de las visitas de verificación de las instalaciones
 
 20.- Las personas físicas o jurídicas colectivas que transmitan la propiedad o posesión de un inmueble en el padrón de usuarios, deberán tramitar ante el Organismo, dentro de los treinta días hábiles siguientes a la formalización del contrato de traslación de dominio o cesión de derechos de posesión respectiva e inscripción registral del inmueble, el cambio de propietario. En el caso de no presentar la solicitud del cambio de nombre de manera voluntaria y el Organismo detecte el cambio de propiedad o posesión del inmueble, mediante la verificación domiciliaria que para ello practique, notificará dicha situación al nuevo propietario o poseedor, para que en el término señalado solicite el cambio de nombre en el padrón de usuarios.
 
-#### SECCIÓN CUARTA. DE LAS SOLICITUDES DEL SERVICIO
+#### SECCIÓN OCTAVA. DE LAS CONSTANCIAS DE SERVICIOS
 
 ###### Artículo 6.
 
@@ -3153,7 +3363,7 @@ Las constancias de servicios otorgadas por el Organismo tendrán una vigencia de
 
 En caso de no presentar la constancia de servicios vigente otorgada por el Organismo, la autoridad competente negará la licencia o autorización respectiva.
 
-#### SECCIÓN QUINTA. DE LOS DICTÁMENES TÉCNICOS
+#### SECCIÓN NOVENA. DE LA DISTRIBUCIÓN DE AGUA POTABLE EN CARROS TANQUE
 
 ###### Artículo 6.
 
@@ -3219,7 +3429,7 @@ II. Los carros pipa en que se distribuya agua potable deberán ser exclusivament
 
 III. Los usuarios no podrán utilizar, para la recepción y almacenamiento del agua potable, recipientes que hubiesen sido usados como contenedores de sustancias, materiales y residuos considerados como peligrosos o nocivos para la salud, conforme a las normas oficiales mexicanas correspondientes.
 
-#### SECCIÓN SEXTA. DE LOS CONTRATOS PARA LA PRESTACIÓN DE LOS SERVICIOS
+#### SECCIÓN DÉCIMA. DEL TRATAMIENTO DE AGUAS RESIDUALES
 
 ###### Artículo 6.
 
@@ -3291,7 +3501,7 @@ III. Las obligaciones del permisionario en la utilización de las aguas residual
 
 ### CAPÍTULO SEGUNDO. DEL SERVICIO DE ALUMBRADO PÚBLICO
 
-#### SECCIÓN SÉPTIMA. DEL PADRÓN DE USUARIOS
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 6.
 
@@ -3313,7 +3523,7 @@ V. La aplicación de políticas para implantar el sistema de alumbrado integral;
 
 VI. La ampliación del servicio cuando las necesidades de la población o comunidad lo requieran, siempre que exista la infraestructura de la red eléctrica, por parte del organismo suministrador de energía.
 
-#### SECCIÓN OCTAVA. DE LAS CONSTANCIAS DE SERVICIOS
+#### SECCIÓN SEGUNDA. DE LAS OBRAS E INSTALACIONES
 
 ###### Artículo 6.
 
@@ -3327,7 +3537,7 @@ VI. La ampliación del servicio cuando las necesidades de la población o comuni
 
 42.- Las obras de alumbrado público realizadas por particulares que tengan que ser recibidas por el Municipio, deberán apegarse a las disposiciones legales aplicables, así como a las especificaciones técnicas para los equipos de iluminación e infraestructura; las cuales deberán estar libres de todo adeudo con el organismo suministrador de energía, en el acto de entrega-recepción.
 
-#### SECCIÓN NOVENA. DE LA DISTRIBUCIÓN DE AGUA POTABLE EN CARROS TANQUE
+#### SECCIÓN TERCERA. DE LOS ESTUDIOS TÉCNICOS, PROYECTOS Y OPERACIÓN
 
 ###### Artículo 6.
 
@@ -3343,7 +3553,7 @@ La propia dependencia sugerirá el tipo de instalación subterránea y de equipo
 
 45.- Aquellos aspectos no previstos en este ordenamiento, relativos a las restricciones técnicas de proyectos y operación, serán resueltos conforme al contenido de los contratos, ordenamientos legales y demás disposiciones en la materia.
 
-#### SECCIÓN DÉCIMA. DEL TRATAMIENTO DE AGUAS RESIDUALES
+#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DE LOS TITULARES DE CONJUNTOS URBANOS
 
 ###### Artículo 6.
 
@@ -3353,15 +3563,17 @@ La propia dependencia sugerirá el tipo de instalación subterránea y de equipo
 
 47.- Es deber de los titulares de conjuntos urbanos, construir las redes de alumbrado a través de instalaciones subterráneas y bajo el esquema de operación en grupo con sus respectivos equipos electromecánicos o electrónicos de seguridad, de cableado subterráneo, de control de encendido y apagado automático, y de medición ubicado en los lugares que se determine; independientemente a las de la compañía suministradora de energía eléctrica.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LA ORIENTACIÓN Y PARTICIPACIÓN SOCIAL
+
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 6.
 
-48.- La Dirección General de Servicios Públicos promoverá la elaboración y ejecución de programas y campañas tendentes a lograr la participación social en el análisis y solución de las necesidades de alumbrado público.
+48.- La Dirección General de Servicios Públicos y Medio Ambiente promoverá la elaboración y ejecución de programas y campañas tendentes a lograr la participación social en el análisis y solución de las necesidades de alumbrado público.
 
 Para tal efecto, se promoverá la creación de comités de introducción, conservación y mantenimiento de los sistemas de alumbrado público en los centros de población del Municipio.
 
-#### SECCIÓN SEGUNDA. DE LAS OBRAS E INSTALACIONES
+#### SECCIÓN SEXTA. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS
 
 ###### Artículo 6.
 
@@ -3399,7 +3611,7 @@ V. Tomar y aprovechar ilegalmente, energía eléctrica.
 
 ### CAPÍTULO TERCERO. DEL SERVICIO DE LIMPIA Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS
 
-#### SECCIÓN TERCERA. DE LOS ESTUDIOS TÉCNICOS, PROYECTOS Y OPERACIÓN
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 6.
 
@@ -3409,19 +3621,25 @@ V. Tomar y aprovechar ilegalmente, energía eléctrica.
 
 53.- Para los efectos de este capítulo, son residuos sólidos urbanos los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos. Por su parte, los residuos de manejo especial son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos.
 
-###### Artículo 6.
-
-54.- En ejercicio de sus atribuciones, la Dirección General de Servicios Públicos y la Coordinación General de Medio Ambiente llevarán a cabo acciones coordinadas en materia de gestión integral de residuos sólidos urbanos y de manejo especial.
-
-#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DE LOS TITULARES DE CONJUNTOS URBANOS
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 6.
 
-55.- Los horarios, días, rutas y puntos de recolección de residuos sólidos urbanos y de manejo especial, serán fijados por la Dirección General de Servicios Públicos y se harán del conocimiento del público a través de las delegaciones, subdelegaciones, consejos de participación ciudadana y jefes de manzana.
+54.- En ejercicio de sus atribuciones, la Dirección General de Servicios Públicos y Medio Ambiente llevará a cabo acciones coordinadas en materia de gestión integral de residuos sólidos urbanos y de manejo especial.
+
+#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE LOS PARTICULARES
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 6.
 
-56.- Son auxiliares de las autoridades de la Dirección General de Servicios Públicos, para la aplicación de las disposiciones de este capítulo:
+55.- Los horarios, días, rutas y puntos de recolección de residuos sólidos urbanos y de manejo especial, serán fijados por la Dirección General de Servicios Públicos y Medio Ambiente y se harán del conocimiento del público a través de las delegaciones, subdelegaciones, consejos de participación ciudadana y jefes de manzana.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 6.
+
+56.- Son auxiliares de las autoridades de la Dirección General de Servicios Públicos y Medio Ambiente, para la aplicación de las disposiciones de este capítulo:
 
 I. Los integrantes del cuerpo de seguridad pública municipal;
 
@@ -3515,7 +3733,7 @@ V. Que tengan las condiciones básicas de aseo.
 
 ### CAPÍTULO CUARTO. DEL SERVICIO DE PANTEONES
 
-#### SECCIÓN QUINTA. DE LA ORIENTACIÓN Y PARTICIPACIÓN SOCIAL
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 6.
 
@@ -3569,7 +3787,9 @@ XIX. Temporalidad: Derecho de uso sobre una fosa, osario o nicho que otorga el A
 
 I. Panteones municipales: Son aquellos bienes inmuebles que se destinan para la prestación del servicio público de panteones; y
 
-a. Panteones municipales de administración directa propiedad del Ayuntamiento: Panteón General y Cementerio Municipal, los cuales se operan y controlan a través de la Dirección General de Servicios Públicos, para todo tipo de inhumación de cadáveres, restos humanos y restos humanos áridos o cremados, que procedan preferentemente del territorio municipal;
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+a. Panteones municipales de administración directa propiedad del Ayuntamiento: Panteón General y Cementerio Municipal, los cuales se operan y controlan a través de la Dirección General de Servicios Públicos y Medio Ambiente, para todo tipo de inhumación de cadáveres, restos humanos y restos humanos áridos o cremados, que procedan preferentemente del territorio municipal;
 
 b. Panteones municipales de administración delegacional y subdelegacional: Los cuales se localizan en las delegaciones o subdelegaciones, siendo operados y controlados a través de los delegados, subdelegados, fiscales, comisariados ejidales o administradores de los mismos, que serán destinados para inhumar cadáveres, restos humanos y restos humanos áridos o cremados, procedentes del área de la propia delegación y subdelegación; y
 
@@ -3617,13 +3837,15 @@ En casos extraordinarios o de fuerza mayor, en que tenga que ser sepultado un cu
 
 Los servicios mencionados con anterioridad deberán celebrarse dentro de los horarios fijados; la administración no contraerá ninguna responsabilidad en caso de que el cortejo fúnebre no llegue al panteón con la oportunidad debida.
 
-#### SECCIÓN SEXTA. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS
+#### SECCIÓN SEGUNDA. DEL ESTABLECIMIENTO DE PANTEONES
 
 ###### Artículo 6.
 
 77.- Para que la autoridad municipal autorice el establecimiento, construcción y operación de panteones dentro del Municipio, se deberán cubrir los siguientes requisitos:
 
-I. Solicitar por escrito a través del Presidente Municipal, la autorización del Cabildo para el inicio de los trámites correspondientes; una vez obtenido el acuerdo de este cuerpo colegiado, se turnará a la Comisión de Parques, Jardines y Panteones del Ayuntamiento para el análisis y emisión del dictamen correspondiente, tomando en consideración para ello la opinión de la Dirección General de Servicios Públicos y la autorización de viabilidad emitida por el Instituto de Salud del Estado;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+I. Solicitar por escrito a través del Presidente Municipal, la autorización del Cabildo para el inicio de los trámites correspondientes; una vez obtenido el acuerdo de este cuerpo colegiado, se turnará a la Comisión de Parques, Jardines y Panteones del Ayuntamiento para el análisis y emisión del dictamen correspondiente, tomando en consideración para ello la opinión de la Dirección General de Servicios Públicos y Medio Ambiente y la autorización de viabilidad emitida por el Instituto de Salud del Estado;
 
 II. Acreditar la propiedad del inmueble donde se pretenda establecer el panteón, el cual deberá estar ubicado a más de 500 metros del último grupo de casas habitación o centros educativos. En la zona rural se deberá contar con una superficie mínima de cinco hectáreas y en la zona urbana, de diez;
 
@@ -3657,7 +3879,9 @@ El arreglo de los jardines y la plantación de árboles, arbustos y plantas flor
 
 79.- Para realizar alguna obra dentro de cualquier panteón, público o concesionado, se requerirá:
 
-I. Contar con el permiso de construcción correspondiente, otorgado por la Dirección General de Servicios Públicos;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+I. Contar con el permiso de construcción correspondiente, otorgado por la Dirección General de Servicios Públicos y Medio Ambiente;
 
 II. Tener los planos debidamente autorizados, de acuerdo con los lineamientos establecidos;
 
@@ -3667,27 +3891,33 @@ IV. Autorización de la autoridad sanitaria, cuando ésta sea necesaria.
 
 El incumplimiento de los requisitos mencionados y los daños causados a terceros serán motivo de suspensión de obra.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN TERCERA. DE LAS FOSAS, CRIPTAS Y NICHOS
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 6.
 
-80.- En los panteones se expedirán certificados de derecho de fosa individual o cripta familiar por un período de siete años, quedando prohibida la expedición de títulos de propiedad. Vencido este plazo, los titulares de los derechos de uso temporal deberán presentar ante la Dirección General de Servicios Públicos la solicitud de refrendo anual, durante los primeros 30 días siguientes al vencimiento del periodo anterior. El derecho de uso se extingue por la omisión del refrendo dentro del plazo señalado, volviendo la fosa o cripta al dominio pleno del Ayuntamiento.
+80.- En los panteones se expedirán certificados de derecho de fosa individual o cripta familiar por un período de siete años, quedando prohibida la expedición de títulos de propiedad. Vencido este plazo, los titulares de los derechos de uso temporal deberán presentar ante la Dirección General de Servicios Públicos y Medio Ambiente la solicitud de refrendo anual,· durante los primeros 30 días siguientes al vencimiento del periodo anterior. El derecho de uso se extingue por la omisión del refrendo dentro del plazo señalado, volviendo la fosa o cripta al dominio pleno del Ayuntamiento.
 
-Al vencimiento de la temporalidad o del refrendo, sin actualizar el derecho respectivo, se iniciarán los trámites de recuperación de la fosa o cripta familiar por parte de la Dirección General de Servicios Públicos, a través del procedimiento administrativo común a que se refiere el Código de Procedimientos Administrativos.
+Al vencimiento de la temporalidad o del refrendo, sin actualizar el derecho respectivo, se iniciarán los trámites de recuperación de la fosa o cripta familiar por parte de la Dirección General de Servicios Públicos y Medio Ambiente, a través del procedimiento administrativo común a que se refiere el Código de Procedimientos Administrativos.
 
 ###### Artículo 6.
 
 81.- Los certificados que amparen el derecho correspondiente a perpetuidad no podrán ser objeto de venta, cesión o cualquier otro acto traslativo de dominio; solamente se autorizará la transmisión del derecho de uso del titular al cónyuge y a las personas con quienes se tenga parentesco consanguíneo o por afinidad hasta el cuarto grado, sean ascendientes, descendientes o colaterales.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-82.- Los titulares de los derechos de uso en perpetuidad podrán modificar la cláusula relativa a la designación de beneficiarios, mediante formulación expresa hecha ante la Dirección General de Servicios Públicos y la administración del panteón.
+82.- Los titulares de los derechos de uso en perpetuidad podrán modificar la cláusula relativa a la designación de beneficiarios, mediante formulación expresa hecha ante la Dirección General de Servicios Públicos y Medio Ambiente y la administración del panteón.
 
 Cuando en una perpetuidad no exista familiar del titular, en términos de este capítulo, las fosas o criptas volverán al dominio pleno del Ayuntamiento, previa tramitación del procedimiento administrativo común que regula el Código de Procedimientos Administrativos.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-83.- En razón de que las fosas y criptas en los panteones municipales son propiedad del Ayuntamiento, cuando los titulares de los derechos de uso en perpetuidad no quieran conservar los mismos, deberán presentar su renuncia a ellos, exclusivamente a favor del Ayuntamiento, con la posibilidad de proponer un tercero como titular de esos derechos, quien cubrirá las contribuciones que se causen, previa aprobación de la Dirección General de Servicios Públicos.
+83.- En razón de que las fosas y criptas en los panteones municipales son propiedad del Ayuntamiento, cuando los titulares de los derechos de uso en perpetuidad no quieran conservar los mismos, deberán presentar su renuncia a ellos, exclusivamente a favor del Ayuntamiento, con la posibilidad de proponer un tercero como titular de esos derechos, quien cubrirá las contribuciones que se causen, previa aprobación de la Dirección de Servicios Públicos.
 
 ###### Artículo 6.
 
@@ -3741,9 +3971,11 @@ No se podrán realizar exhumaciones antes del término señalado en este ordenam
 
 92.- Los titulares de derechos de uso sobre fosas y lotes familiares están obligados a la conservación y cuidado de sus monumentos o capillas que se hayan construido con anterioridad a la vigencia de este ordenamiento. Si alguna de las construcciones amenazare ruina, la administración del panteón requerirá al titular para que dentro de un plazo que no exceda de seis meses, realice las reparaciones o la demolición correspondiente, y si no las hiciere, la administración del panteón podrá solicitar la autorización para proceder a demoler la construcción.
 
-La administración del panteón integrará un expediente con la solicitud, acompañada de fotografías, con lo que comprobará el estado ruinoso de la construcción para que la Dirección General de Servicios Públicos dé la autorización para que sea demolida la construcción respectiva o se arreglen las obras de jardinería, todo por cuenta del titular.
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE LOS PARTICULARES
+La administración del panteón integrará un expediente con la solicitud, acompañada de fotografías, con lo que comprobará el estado ruinoso de la construcción para que la Dirección de Servicios Públicos dé la autorización para que sea demolida la construcción respectiva o se arreglen las obras de jardinería, todo por cuenta del titular.
+
+#### SECCIÓN CUARTA. DE LA REPOSICIÓN DE CERTIFICADOS DE DERECHOS DE USO
 
 ###### Artículo 6.
 
@@ -3753,7 +3985,7 @@ En caso de pérdida del certificado de uso, a solicitud del titular se podrá ex
 
 Tratándose de deterioro del certificado de uso, la autoridad municipal podrá expedir certificación relativa a los datos registrados en los libros a cargo del área de panteones y de los administradores de los mismos, previo el pago de derechos correspondientes.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LAS INHUMACIONES, EXHUMACIONES, REINHUMACIONES E INCINERACIONES
 
 ###### Artículo 6.
 
@@ -3851,7 +4083,7 @@ Todo servicio de inhumación deberá ingresar por la puerta principal del pante�
 
 112.- Para el establecimiento y operación de hornos crematorios en cualquier tipo de panteón o lugar, se sujetarán a las disposiciones contenidas en lo que a la materia compete; asimismo se deberá contar con la autorización del Ayuntamiento, antes de que entren en funcionamiento.
 
-#### SECCIÓN SEGUNDA. DEL ESTABLECIMIENTO DE PANTEONES
+#### SECCIÓN SEXTA. DE LOS CADÁVERES DE PERSONAS DESCONOCIDAS Y DEL TRASLADO DE CADÁVERES Y RESTOS HUMANOS
 
 ###### Artículo 6.
 
@@ -3883,7 +4115,7 @@ V. Entre la exhumación y la reinhumación no deberán transcurrir más de veint
 
 VI. Una vez realizado el traslado, el vehículo utilizado deberá ser desinfectado.
 
-#### SECCIÓN TERCERA. DE LAS FOSAS, CRIPTAS Y NICHOS
+#### SECCIÓN SÉPTIMA. DEL OSARIO
 
 ###### Artículo 6.
 
@@ -3895,7 +4127,7 @@ La edificación tendrá en su interior casilleros o nichos individuales, en los 
 
 118.- Todo depósito de restos humanos áridos o cremados deberá ser registrado en los libros correspondientes, para su adecuado control.
 
-#### SECCIÓN CUARTA. DE LA REPOSICIÓN DE CERTIFICADOS DE DERECHOS DE USO
+#### SECCIÓN OCTAVA. DE LA ROTONDA DE PERSONAJES ILUSTRES
 
 ###### Artículo 6.
 
@@ -3905,7 +4137,7 @@ La edificación tendrá en su interior casilleros o nichos individuales, en los 
 
 120.- El Ayuntamiento en sesión de Cabildo, podrá acordar que se solicite al Gobernador del Estado que los restos de una persona oriunda o vecina del Municipio sean inhumados en la Rotonda de los Personajes Ilustres. Para que la autoridad municipal haga dicha solicitud, deberá recabar y enviar las pruebas necesarias que acrediten la trascendencia, relevancia y ejemplaridad de la obra de la persona a quien se pretende honrar con este reconocimiento.
 
-#### SECCIÓN QUINTA. DE LAS INHUMACIONES, EXHUMACIONES, REINHUMACIONES E INCINERACIONES
+#### SECCIÓN NOVENA. DEL SERVICIO FUNERARIO GRATUITO
 
 ###### Artículo 6.
 
@@ -3923,7 +4155,7 @@ III. Fosa bajo el régimen de temporalidad mínima en el panteón que la autorid
 
 IV. Bonificación del 50 por ciento de los derechos que con motivo del servicio hubieren de cubrirse a la Tesorería Municipal.
 
-#### SECCIÓN SEXTA. DE LOS CADÁVERES DE PERSONAS DESCONOCIDAS Y DEL TRASLADO DE CADÁVERES Y RESTOS HUMANOS
+#### SECCIÓN DÉCIMA. DE LA ORGANIZACIÓN Y ADMINISTRACIÓN DE LOS PANTEONES
 
 ###### Artículo 6.
 
@@ -3955,11 +4187,13 @@ XII. Otorgar permiso para que se puedan usar dentro del panteón, grupos musical
 
 XIII. Las demás que le sean necesarias para el mejor cumplimiento de sus funciones.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-124.- Los delegados y subdelegados municipales, presidentes de consejos de participación ciudadana, comisariados ejidales y encargados de los panteones, en su caso, realizarán las funciones propias de los administradores de panteones, siempre bajo la supervisión y vigilancia de la Dirección General de Servicios Públicos.
+124.- Los delegados y subdelegados municipales, presidentes de consejos de participación ciudadana, comisariados ejidales y encargados de los panteones, en su caso, realizarán las funciones propias de los administradores de panteones, siempre bajo la supervisión y vigilancia de la Dirección General de Servicios Públicos y Medio Ambiente.
 
-#### SECCIÓN SÉPTIMA. DEL OSARIO
+#### SECCIÓN DÉCIMA PRIMERA. DEL SERVICIO DE PANTEONES CONCESIONADOS
 
 ###### Artículo 6.
 
@@ -3999,17 +4233,21 @@ El concesionario deberá poner a disposición del Ayuntamiento el cinco por cien
 
 128.- Ningún panteón concesionado podrá entrar en funcionamiento, en forma total o parcial, antes de que sean supervisadas y aprobadas las instalaciones que, conforme a las autoridades relativas, hubieren de construirse o adaptarse.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-129.- Todo tipo de publicidad destinada a promover entre el público la adquisición de lotes, gavetas, nichos o criptas deberá ser aprobada por la Dirección General de Servicios Públicos, quien vigilará que el sistema de ofertas, precios y demás elementos correspondan a lo que al respecto dispone el Código Financiero y sin perjuicio de la competencia que sobre la materia tengan otras dependencias de la Administración Pública Estatal.
+129.- Todo tipo de publicidad destinada a promover entre el público la adquisición de lotes, gavetas, nichos o criptas deberá ser aprobada por la Dirección General de Servicios Públicos y Medio Ambiente, quien vigilará que el sistema de ofertas, precios y demás elementos correspondan a lo que al respecto dispone el Código Financiero y sin perjuicio de la competencia que sobre la materia tengan otras dependencias de la Administración Pública Estatal.
 
 ###### Artículo 6.
 
 130.- Los concesionarios del servicio público de panteones deberán remitir a la autoridad municipal, dentro de los primeros cinco días de cada mes, la relación de cadáveres y restos humanos áridos o cremados, inhumados durante el mes inmediato anterior.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-131.- El Director General de Servicios Públicos deberá atender cualquier queja que por escrito o en forma verbal se hiciere en contra de los concesionarios, debiendo proceder de inmediato a su investigación para que, si se comprueba y resulta justificada, se apliquen las sanciones a que haya lugar y se tomen las medidas conducentes a efecto de que se corrijan las irregularidades y se mantenga la prestación del servicio.
+131.- La Dirección General de Servicios Públicos y Medio Ambiente deberá atender cualquier queja que por escrito o en forma verbal se hiciere en contra de los concesionarios, debiendo proceder de inmediato a su investigación para que, si se comprueba y resulta justificada, se apliquen las sanciones a que haya lugar y se tomen las medidas conducentes a efecto de que se corrijan las irregularidades y se mantenga la prestación del servicio.
 
 ###### Artículo 6.
 
@@ -4035,7 +4273,7 @@ IV. El concesionario, a juicio del Ayuntamiento, infrinja normas del presente or
 
 135.- Terminado el plazo o revocada la concesión, el Ayuntamiento seguirá prestando el servicio público de panteones en las instalaciones existentes, pasando éstas a formar parte del patrimonio municipal.
 
-#### SECCIÓN OCTAVA. DE LA ROTONDA DE PERSONAJES ILUSTRES
+#### SECCIÓN DÉCIMA SEGUNDA. DE LA OCUPACIÓN DE LOS PANTEONES
 
 ###### Artículo 6.
 
@@ -4049,7 +4287,9 @@ IV. El concesionario, a juicio del Ayuntamiento, infrinja normas del presente or
 
 138.- Cuando la afectación sea parcial y en el predio restante existan aún áreas disponibles para sepulturas, se procederá de la manera siguiente:
 
-I. Si el panteón es oficial, la Dirección General de Servicios Públicos dispondrá la exhumación de los restos que estuvieren sepultados dentro del área afectada a fin de reinhumarlos en las fosas que para tal efecto deberá destinar en el predio restante identificable individualmente. Los gastos que se ocasionen con este motivo, serán a cargo del Ayuntamiento; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+I. Si el panteón es oficial, la Dirección General de Servicios Públicos y Medio Ambiente dispondrá la exhumación de los restos que estuvieren sepultados dentro del área afectada a fin de reinhumarlos en las fosas que para tal efecto deberá destinar en el predio restante identificable individualmente. Los gastos que se ocasionen con este motivo, serán a cargo del Ayuntamiento; y
 
 II. Tratándose de un panteón concesionado, los gastos de origen serán absorbidos por el concesionario y el mismo deberá reponer dentro del mismo panteón los espacios afectados.
 
@@ -4057,7 +4297,7 @@ II. Tratándose de un panteón concesionado, los gastos de origen serán absorbi
 
 139.- Cuando sea afectado un panteón oficial o concesionado, la autoridad municipal y el concesionario deberá prever que se proporcionen los medios que permitan, sin costo para los interesados, la reubicación de los restos exhumados.
 
-#### SECCIÓN NOVENA. DEL SERVICIO FUNERARIO GRATUITO
+#### SECCIÓN DÉCIMA TERCERA. DE LAS PROHIBICIONES
 
 ###### Artículo 6.
 
@@ -4083,7 +4323,7 @@ IX. Circular con vehículos de propulsión mecánica y motorizada en el interior
 
 ### CAPÍTULO QUINTO. DEL SERVICIO DE RASTRO
 
-#### SECCIÓN DÉCIMA. DE LA ORGANIZACIÓN Y ADMINISTRACIÓN DE LOS PANTEONES
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 6.
 
@@ -4123,9 +4363,11 @@ XIII. Cualquier otro servicio relacionado con el sacrificio de ganado.
 
 143.- La prestación de los servicios de rastro causará el pago de derechos, en términos de las disposiciones del Código Financiero.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-144.- El rastro estará bajo la administración y operación de un administrador, el cual dependerá de la Coordinación General de Desarrollo Económico.
+144.- El rastro estará bajo la administración y operación de un administrador, el cual dependerá de la Coordinación de Desarrollo Económico.
 
 ###### Artículo 6.
 
@@ -4141,7 +4383,7 @@ IV. Llevar al corriente el registro de los movimientos de ingresos económicos p
 
 V. Las demás que se le asignen.
 
-#### SECCIÓN DÉCIMA PRIMERA. DEL SERVICIO DE PANTEONES CONCESIONADOS
+#### SECCIÓN SEGUNDA. DE LOS USUARIOS
 
 ###### Artículo 6.
 
@@ -4173,7 +4415,7 @@ VII. Cumplir con las medidas administrativas y de operatividad que implemente la
 
 149.- Las concesiones que se otorguen a los particulares para prestar el servicio de rastro, se sujetarán a la Ley Orgánica Municipal, el presente capítulo, las cláusulas de la concesión y demás normas legales relacionadas.
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LA OCUPACIÓN DE LOS PANTEONES
+#### SECCIÓN TERCERA. DE LA INTRODUCCIÓN DE GANADO
 
 ###### Artículo 6.
 
@@ -4191,7 +4433,7 @@ VII. Cumplir con las medidas administrativas y de operatividad que implemente la
 
 153.- El ganado que permanezca más de 72 horas en los corrales sin ser sacrificado empezará a causar las cuotas de servicio extraordinario que fije el Código Financiero. La alimentación de los animales corresponde a los propietarios, de no hacerlo así la administración del rastro la suministrará a costa de éstos.
 
-#### SECCIÓN DÉCIMA TERCERA. DE LAS PROHIBICIONES
+#### SECCIÓN CUARTA. DEL SACRIFICIO DE ANIMALES
 
 ###### Artículo 6.
 
@@ -4237,7 +4479,7 @@ La regulación y programación de la matanza se hará de acuerdo al rol previame
 
 163.- Los esquilmos y desperdicios resultantes del sacrificio son propiedad del rastro. Se entiende como esquilmo, la sangre, estiércol seco o fresco, cerdas, cuernos, pezuñas, hiel, glándulas, huesos, grasas de las pailas; además, todos los productos de los animales enfermos. Se entiende por desperdicios, la basura que se recoge en las instalaciones del rastro.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LA INSPECCIÓN SANITARIA
 
 ###### Artículo 6.
 
@@ -4265,7 +4507,7 @@ El médico examinará cuidadosamente, uno por uno, todos los canales de ganado s
 
 168.- Si el resultado de la inspección sanitaria no fuere satisfactorio para el introductor, éste podrá presentar la reclamación correspondiente ante la administración, designando a un médico veterinario autorizado para reinspeccionar. La administración, con base en las opiniones de los médicos, resolverá lo que estime procedente.
 
-#### SECCIÓN SEGUNDA. DE LOS USUARIOS
+#### SECCIÓN SEXTA. DEL MANEJO DE CARNES Y VÍSCERAS
 
 ###### Artículo 6.
 
@@ -4283,7 +4525,7 @@ El médico examinará cuidadosamente, uno por uno, todos los canales de ganado s
 
 172.- Las vísceras que no sean recogidas por sus propietarios seis horas después de concluido el sacrificio, no serán responsabilidad del rastro, y serán utilizadas o rematadas por la administración, según lo prescriba el médico del servicio sanitario.
 
-#### SECCIÓN TERCERA. DE LA INTRODUCCIÓN DE GANADO
+#### SECCIÓN SÉPTIMA. DEL SERVICIO DE REFRIGERACIÓN
 
 ###### Artículo 6.
 
@@ -4305,7 +4547,7 @@ Con este fin, las carnes deberán ser presentadas para su inspección en las ins
 
 Todas las carnicerías establecidas dentro del territorio municipal estarán obligadas a sacrificar el ganado para su abasto de carnes y derivados, en las instalaciones del rastro.
 
-#### SECCIÓN CUARTA. DEL SACRIFICIO DE ANIMALES
+#### SECCIÓN OCTAVA. DEL TRANSPORTE SANITARIO
 
 ###### Artículo 6.
 
@@ -4329,9 +4571,11 @@ III. Camellones, triángulos, remanentes y glorietas; y
 
 IV. Banquetas y andadores con vegetación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-179.- Las áreas verdes urbanas privadas, excepto las de casas habitación, serán objeto de vigilancia y control de la Dirección General de Servicios Públicos, por lo que cualquier acción como creación, manejo, cambio de uso del suelo, derribo de árboles y remoción de la cubierta vegetal, tendrán que ser previamente autorizados.
+179.- Las áreas verdes urbanas privadas, excepto las de casas habitación, serán objeto de vigilancia y control de la Dirección General de Servicios Públicos y Medio Ambiente, por lo que cualquier acción como creación, manejo, cambio de uso del suelo, derribo de árboles y remoción de la cubierta vegetal, tendrán que ser previamente autorizados.
 
 Las acciones de derribo y remoción de vegetación, así como la disposición de los residuos vegetales producto de éstas, una vez autorizadas por la autoridad municipal, serán responsabilidad del interesado, a quien sólo se dará asesoría al respecto.
 
@@ -4341,13 +4585,17 @@ Las acciones de derribo y remoción de vegetación, así como la disposición de
 
 I. Utilizar sólo especies adecuadas según la imagen urbana o la recomendada por la autoridad municipal;
 
-II. La planta utilizada deberá cumplir las características en cuanto a tamaño, salud y estado físico, que marque la Coordinación General de Medio Ambiente; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. La planta utilizada deberá cumplir las características en cuanto a tamaño, salud y estado físico que marque la Dirección General de Servicios Públicos y Medio Ambiente;
 
 III. Las dimensiones y distancia entre las cepas, la preparación de las mismas, y la tierra a utilizar deberá ser según lo indique la propia autoridad municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-181.- El derribo, poda, extracción o remoción de vegetación de un área verde pública sólo podrá efectuarse previa autorización de la Coordinación General de Medio Ambiente en los casos de que:
+181.- El derribo, poda, extracción o remoción de vegetación de un área verde pública sólo podrá efectuarse previa autorización de la Dirección General de Servicios Públicos y Medio Ambiente en los casos de que:
 
 I. Ponga en riesgo la integridad física de personas, bienes o la infraestructura urbana;
 
@@ -4365,7 +4613,7 @@ Posteriormente la autoridad municipal realizará inspección en el lugar corresp
 
 ### CAPÍTULO SÉPTIMO. DE LOS SERVICIOS DE SEGURIDAD PÚBLICA, TRÁNSITO, VIALIDAD, BOMBEROS Y PROTECCIÓN CIVIL
 
-#### SECCIÓN QUINTA. DE LA INSPECCIÓN SANITARIA
+#### SECCIÓN PRIMERA. DEL SERVICIO DE SEGURIDAD PÚBLICA
 
 ###### Artículo 6.
 
@@ -4375,7 +4623,7 @@ Posteriormente la autoridad municipal realizará inspección en el lugar corresp
 
 183.- El cuerpo de seguridad pública municipal estará al mando del Presidente Municipal, en los términos de las normas jurídicas correspondientes. Dicho cuerpo acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
-#### SECCIÓN SEXTA. DEL MANEJO DE CARNES Y VÍSCERAS
+#### SECCIÓN SEGUNDA. DEL SERVICIO DE TRÁNSITO
 
 ###### Artículo 6.
 
@@ -4549,7 +4797,7 @@ X. En los casos específicos que determinen otras disposiciones legales.
 
 193.- Quienes ejecuten obras en las vías públicas están obligados a instalar los dispositivos auxiliares para el control de tránsito en el lugar de la obra, así como en su zona de influencia, la que nunca será inferior a 20 metros, cuando los trabajos interfieran o hagan peligrar el tránsito seguro de peatones y vehículos.
 
-#### SECCIÓN SÉPTIMA. DEL SERVICIO DE REFRIGERACIÓN
+#### SECCIÓN TERCERA. DEL SERVICIO DE VIALIDAD
 
 ###### Artículo 6.
 
@@ -4599,7 +4847,7 @@ VI. Imponer las multas administrativas que procedan; y
 
 VII. Cumplir las demás atribuciones que les asignen las disposiciones legales.
 
-#### SECCIÓN OCTAVA. DEL TRANSPORTE SANITARIO
+#### SECCIÓN CUARTA. DEL SERVICIO DE BOMBEROS Y PROTECCIÓN CIVIL
 
 ###### Artículo 6.
 
@@ -4611,7 +4859,9 @@ VII. Cumplir las demás atribuciones que les asignen las disposiciones legales.
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Director General de Seguridad Pública, Tránsito y Vialidad; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. Un Secretario Ejecutivo, que será el Director General de Seguridad Pública y Gobernación; y
 
 III. Seis consejeros, que serán:
 
@@ -4685,7 +4935,7 @@ III. Recuperación, que incluirán las estrategias necesarias para la restauraci
 
 ### CAPÍTULO OCTAVO. DEL SERVICIO DE ESTACIONAMIENTOS
 
-#### SECCIÓN PRIMERA. DEL SERVICIO DE SEGURIDAD PÚBLICA
+#### SECCIÓN PRIMERA. DE LOS ESTACIONAMIENTOS AL PÚBLICO AYUNTAMIENTO DE TOLUCA
 
 ###### Artículo 6.
 
@@ -4731,9 +4981,11 @@ a. De autoservicio: Todo aquel estacionamiento en el cual el cliente conduce su 
 
 b. De acomodadores: Es aquel prestado por personal de un establecimiento o giro comercial o de prestación de servicios, así como por un operador distinto.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-210.- Para que un edificio, local o predio pueda destinarse a estacionamiento, se deberá tener permiso de funcionamiento, expedido por la Dirección de Vialidad y Transporte, previa la presentación de los siguientes documentos:
+210.- Para que un edificio, local o predio pueda destinarse a estacionamiento, se deberá tener permiso de funcionamiento, expedido por la Dirección de Tránsito y Vialidad, previa la presentación de los siguientes documentos:
 
 I. Formato de solicitud de permiso, debidamente requisitado;
 
@@ -4775,9 +5027,11 @@ III. El tipo de servicio correspondiente; y
 
 IV. La zona urbana donde se encuentre establecido el establecimiento, diferenciándose el Centro Histórico de la ciudad del resto del territorio municipal.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-214.- La Dirección de Vialidad y Transporte expedirá, dentro de los diez días hábiles siguientes a la solicitud, una cartulina en la que consten la clasificación y zona del estacionamiento, así como la tarifa que esté autorizado a cobrar.
+214.- La Dirección de Tránsito y Vialidad expedirá, dentro de los diez días hábiles siguientes a la solicitud, una cartulina en la que consten la clasificación y zona del estacionamiento, así como la tarifa que esté autorizado a cobrar.
 
 ###### Artículo 6.
 
@@ -4831,9 +5085,11 @@ VIII. Espacio para la hora y día de salida; y
 
 IX. Espacio para anotar el número de placa, en su caso.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-217.- Tratándose de plazas y centros comerciales, los espacios de estacionamiento se consideran de uso público, pudiendo otorgar tiempo de cortesía. Deberán obtener autorización de la Dirección de Vialidad y Transporte para establecer como mecanismo de control la instalación de casetas y cobro por el uso del estacionamiento.
+217.- Tratándose de plazas y centros comerciales, los espacios de estacionamiento se consideran de uso público, pudiendo otorgar tiempo de cortesía. Deberán obtener autorización de la Dirección de Tránsito y Vialidad para establecer como mecanismo de control la instalación de casetas y cobro por el uso del estacionamiento.
 
 ###### Artículo 6.
 
@@ -4867,15 +5123,19 @@ II. En los de acomodadores, robo total o parcial, así como daños causados por 
 
 222.- Los vehículos dados en guarda se presumirán abandonados, cuando su propietario o poseedor no los reclame dentro de los quince días naturales siguientes a su ingreso, siempre que el servicio no se haya contratado por un tiempo mayor. Vencido dicho plazo, el estacionamiento deberá reportar el vehículo a la Dirección de Vialidad y Transporte.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-223.- La Dirección de Vialidad y Transporte revalidará anualmente el permiso de funcionamiento de estacionamientos de servicio al público, previa solicitud que deberán formular los interesados dentro de los 30 días anteriores a la fecha de vencimiento, quienes deberán presentar fotocopia del comprobante de pago de los derechos respectivos.
+223.- La Dirección de Tránsito y Vialidad revalidará anualmente el permiso de funcionamiento de estacionamientos de servicio al público, previa solicitud que deberán formular los interesados dentro de los 30 días anteriores a la fecha de vencimiento, quienes deberán presentar fotocopia del comprobante de pago de los derechos respectivos.
 
 DE ESTACIONÓMETROS EN LA VÍA PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 6.
 
-224.- El funcionamiento de estacionómetros en la vía pública es un servicio que presta el Ayuntamiento, a través de la Dirección de Vialidad y Transporte, mismo que podrá ser concesionado a particulares, de conformidad con la normatividad municipal aplicada en la materia.
+224.- El funcionamiento de estacionómetros en la vía pública es un servicio que presta el Ayuntamiento, a través de la Dirección de Tránsito y Vialidad, mismo que podrá ser concesionado a particulares, de conformidad con la normatividad municipal aplicada en la materia.
 
 Se entiende por estacionómetros los aparatos de medición y control que se utilizan para regular el uso de estacionamiento en vía pública a través del cobro de derechos y de acuerdo a la tarifa autorizada.
 
@@ -4901,7 +5161,7 @@ Los titulares de los vehículos que sean inmovilizados tienen 12 horas para cubr
 
 ### CAPÍTULO PRIMERO. DE LA PROTECCIÓN A LA BIODIVERSIDAD
 
-#### SECCIÓN SEGUNDA. DEL SERVICIO DE TRÁNSITO
+#### SECCIÓN PRIMERA. DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
 ###### Artículo 7.
 
@@ -4913,7 +5173,9 @@ Los titulares de los vehículos que sean inmovilizados tienen 12 horas para cubr
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Coordinador General de Medio Ambiente; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. Un Secretario Ejecutivo, que será el Director General de Servicios Públicos y Medio Ambiente; y
 
 III. Seis consejeros, que serán:
 
@@ -4943,7 +5205,7 @@ V. Presentar el informe de avance de las acciones realizadas; y
 
 VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
 
-#### SECCIÓN TERCERA. DEL SERVICIO DE VIALIDAD
+#### SECCIÓN SEGUNDA. DEL FOMENTO PARA EL DESARROLLO FORESTAL Y VEGETAL
 
 ###### Artículo 7.
 
@@ -4955,7 +5217,9 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Coordinador General de Medio Ambiente; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. Un Secretario Ejecutivo, que será el Director General de Servicios Públicos y Medio Ambiente; y
 
 III. Seis consejeros, que serán:
 
@@ -5001,7 +5265,9 @@ II. Otorgar autorización a los propietarios o poseedores de casa habitación, c
 
 9.- El manejo y mantenimiento de la vegetación urbana se sujetará a lo siguiente:
 
-I. La selección, plantación, mantenimiento, retiro y trasplante de especies arbustivas y arbóreas, deberá realizarse por personal capacitado, con base en el diseño urbano, restricciones y demás lineamientos que se señalen en el dictamen de la Coordinación General de Medio Ambiente;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+I. La selección, plantación, mantenimiento, retiro y trasplante de especies arbustivas y arbóreas, deberá realizarse por personal capacitado, con base en el diseño urbano, restricciones y demás lineamientos que se señalen en el dictamen de la Dirección General de Servicios Públicos y Medio Ambiente;
 
 II. La autoridad municipal autorizará la introducción en el territorio municipal, principalmente en parques, jardines y otras áreas de la ciudad de Toluca, de las siguientes especies de vegetales: Acacia, acer, alamillo, álamo canadiense, álamo plateado, araucaria, árbol de las manitas, cedro blanco, cedro limón, cerezo, ciprés arizona, ciprés italiano, colorín, chimanciparis, ficus, fresno, grevilia, jacaranda, laurel de la india, liquidambar, níspero, olmo chino, pirul, retama, sauce llorón, tejocote, tepozán, trueno rojo y yuca;
 
@@ -5009,7 +5275,9 @@ III. Tratándose de planeación y diseño urbano para forestación en vialidades
 
 IV. Por lo que hace a la planeación y diseño urbano para forestación en camellones, es necesario atender las siguientes normas: En camellones con ancho de hasta un metro, plantar arbustos tipo seto y herbáceas; en camellones de ancho mayor de un metro hasta metro y medio, además de las anteriores, se podrán colocar árboles que justifiquen técnicamente su desarrollo; en camellones con ancho mayor de metro y medio se plantarán los mismos árboles autorizados para el centro del camellón; cuando existan tendidos eléctricos de baja tensión, se autorizarán especies que en su altura máxima permitan una distancia de medio metro libre al último cable; y en las bocacalles se deberá de respetar la distancia de seis metros para permitir la visibilidad a los conductores de vehículos;
 
-V. Cuando la vegetación urbana ubicada en espacios públicos afecte la infraestructura urbana, cause daños o perjuicios a terceros, obstruya alineamientos de las vialidades y afecte a obras públicas, la Coordinación General de Medio Ambiente emitirá el dictamen sobre el caso y la Dirección General de Servicios Públicos realizará las acciones que procedan;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+V. Cuando la vegetación urbana ubicada en espacios públicos afecte la infraestructura urbana, cause daños o perjuicios a terceros, obstruya alineamientos de las vialidades y afecte a obras públicas, la Dirección General de Servicios Públicos y Medio Ambiente emitirá el dictamen sobre el caso y realizará las acciones que procedan;
 
 VI. El particular solicitante entregará a la autoridad municipal diez árboles de dos metros de altura y un mínimo de cinco centímetros de diámetro en su base por cada árbol retirado o trasplantado;
 
@@ -5019,7 +5287,9 @@ VII. Cuando el particular solicitante realice los trabajos anteriores por sus pr
 
 10.- Las personas físicas o jurídicas colectivas que se dediquen a las actividades de mantenimiento y retiro de la vegetación urbana deberán:
 
-I. Registrarse ante la Coordinación General de Medio Ambiente como prestadores del servicio de mantenimiento de la vegetación urbana;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+I. Registrarse ante la Dirección General de Servicios Públicos y Medio Ambiente como prestadores del servicio de mantenimiento de la vegetación urbana;
 
 II. Tramitar la autorización para realizar dichas tareas en bienes de dominio público; y
 
@@ -5043,7 +5313,7 @@ VI. Anillar, descortezar y marcar la vegetación urbana; y
 
 VII. Quemar árboles o realizar cualquier acto que dañe la vegetación urbana.
 
-#### SECCIÓN CUARTA. DEL SERVICIO DE BOMBEROS Y PROTECCIÓN CIVIL
+#### SECCIÓN TERCERA. DE LA PRESERVACIÓN Y FOMENTO DE LA VIDA SILVESTRE
 
 ###### Artículo 7.
 
@@ -5053,7 +5323,7 @@ VII. Quemar árboles o realizar cualquier acto que dañe la vegetación urbana.
 
 13.- Para que las autoridades municipales puedan ejercer las atribuciones en esta materia, es necesario que exista acuerdo o convenio de coordinación con el Gobierno del Estado.
 
-#### SECCIÓN PRIMERA. DE LOS ESTACIONAMIENTOS AL PÚBLICO AYUNTAMIENTO DE TOLUCA
+#### SECCIÓN CUARTA. DE LA PROTECCIÓN Y BIENESTAR ANIMAL
 
 ###### Artículo 7.
 
@@ -5163,7 +5433,7 @@ La cuota de recuperación será fijada por el Ayuntamiento, a propuesta del Pres
 
 ### CAPÍTULO SEGUNDO. DE LA EDUCACIÓN Y CULTURA
 
-#### SECCIÓN PRIMERA. DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
+#### SECCIÓN PRIMERA. DE LAS BECAS ACADÉMICAS
 
 ###### Artículo 7.
 
@@ -5175,7 +5445,9 @@ La cuota de recuperación será fijada por el Ayuntamiento, a propuesta del Pres
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Director General de Desarrollo Social; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. Un Secretario Ejecutivo, que será el Director General de Desarrollo Social y Participación Ciudadana;
 
 III. Cinco vocales, que serán:
 
@@ -5183,7 +5455,9 @@ a. Dos representantes de la Comisión de Educación Pública y Turismo del Ayunt
 
 b. Un representante de la Comisión de Atención a la Juventud, Deporte y Recreación;
 
-c. El Director General de Participación Ciudadana; y
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+c. El Director General de Participación Ciudadana y Programas Sociales; y
 
 d. El Contralor Municipal.
 
@@ -5239,7 +5513,9 @@ X. Presentar certificado médico expedido por alguna institución de salud públ
 
 I. La solicitud de beca se ajustará al tiempo y términos de la convocatoria que al efecto se expida;
 
-II. La solicitud y sus anexos se entregarán a la Dirección de Educación, Cultura y Salud;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. La solicitud y sus anexos se entregarán a la Dirección de Educación, Cultura y Fomento a la Salud;
 
 III. La solicitud será estudiada y dictaminada por el Comité de Selección y Asignación de Becas, sin que pueda admitirse reclamación al respecto;
 
@@ -5247,7 +5523,9 @@ IV. Las becas serán asignadas a partir de un promedio de diez puntos del alumno
 
 V. Respecto de los promedios inferiores a diez puntos, las becas se asignarán tomando en cuenta los ingresos de los padres o tutores, o el estudio socioeconómico de los solicitantes; y
 
-VI. El dictamen se hará del conocimiento del interesado por la Dirección de Educación, Cultura y Salud, conforme a la fecha y términos de la convocatoria.
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+VI. El dictamen se hará del conocimiento del interesado por la Dirección de Educación, Cultura y Fomento a la Salud, conforme a la fecha y términos de la convocatoria.
 
 ###### Artículo 7.
 
@@ -5257,39 +5535,19 @@ La duración de las becas será de diez meses y se realizarán pagos bimestrales
 
 Se procederá a la cancelación de una beca cuando fallezca el alumno, deje de acudir a la escuela o en caso de no cobrar dos apoyos económicos consecutivos.
 
-#### SECCIÓN SEGUNDA. DEL FOMENTO PARA EL DESARROLLO FORESTAL Y VEGETAL
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN SEGUNDA. DEL CONSEJO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE
 
 ###### Artículo 7.
 
-27.- Para convocar, concertar, inducir e integrar las acciones de los participantes e interesados en la cultura física y deporte en el Municipio, conforme a la Ley de Cultura Física y Deporte del Estado, existirá el Consejo Municipal de Cultura Física y Deporte, que se integrará por:
-
-I. Un Presidente, que será el Presidente Municipal;
-
-II. Un Secretario Ejecutivo, que será el Director General de Desarrollo Social; y Seis consejeros, que serán:
-
-a. Dos representantes de la Comisión de Atención a la Juventud, Deporte y Recreación del Ayuntamiento; Un representante de la Comisión de Educación Pública y Turismo del Ayuntamiento; y Tres representantes de asociaciones deportivas municipales a propuesta del Presidente Municipal.
-
-b. Los integrantes del Consejo tendrán derecho a voz y voto, a excepción del Secretario Ejecutivo, que sólo contará con voz. Cuando lo estime conveniente el Presidente Municipal, podrán participar dentro de este órgano, únicamente con voz, consejeros invitados.
-
-c. Salvo el Presidente Municipal, los demás miembros del Consejo podrán designar por escrito a sus respectivos suplentes. El Comité sesionará ordinariamente por lo menos cuatro veces al año y en forma extraordinaria cuando sea convocado.
+27.- (DEROGADO, G.M.S. 18 DE AGOSTO DE 2009)
 
 ###### Artículo 7.
 
-28.- Corresponde al Secretario Ejecutivo del Consejo:
+28.- (DEROGADO, G.M.S. 18 DE AGOSTO DE 2009)
 
-I. Presidir las sesiones de Consejo, en ausencia del Presidente Municipal;
-
-II. Convocar por escrito a los integrantes del Consejo, para la celebración de sesiones;
-
-III. Formular el orden del día de cada sesión;
-
-IV. Levantar el acta de cada sesión;
-
-V. Presentar el informe de avance de las acciones realizadas; y
-
-VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
-
-#### SECCIÓN TERCERA. DE LA PRESERVACIÓN Y FOMENTO DE LA VIDA SILVESTRE
+#### SECCIÓN TERCERA. DEL CONSEJO MUNICIPAL DE LA JUVENTUD
 
 ###### Artículo 7.
 
@@ -5297,7 +5555,9 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Director General de Desarrollo Social; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. Un Secretario Ejecutivo, que será el Director General de Desarrollo Social y Participación Ciudadana;
 
 III. Seis consejeros, que serán:
 
@@ -5327,7 +5587,7 @@ V. Presentar el informe de avance de las acciones realizadas; y
 
 VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
 
-#### SECCIÓN CUARTA. DE LA PROTECCIÓN Y BIENESTAR ANIMAL
+#### SECCIÓN CUARTA. DEL CONSEJO DE LA CRÓNICA Y ACERVO HISTÓRICO
 
 ###### Artículo 7.
 
@@ -5361,7 +5621,9 @@ a. Un representante de la Comisión de Cultura del Ayuntamiento;
 
 b. Un representante de la Comisión de Desarrollo de Pueblos Indígenas, Derechos Humanos, Monumentos y Archivo Municipal;
 
-c. El Director General de Desarrollo Social;
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+c. El Director General de Desarrollo Social y Participación Ciudadana;
 
 d. El Jefe del Archivo Histórico; y
 
@@ -5405,7 +5667,7 @@ VI. Fomentar la participación de integrantes de la población en acciones relac
 
 ### CAPÍTULO CUARTO (SIC). DEL DESARROLLO ECONÓMICO
 
-#### SECCIÓN PRIMERA. DE LAS BECAS ACADÉMICAS
+#### SECCIÓN PRIMERA. DEL CONSEJO CONSULTIVO ECONÓMICO MUNICIPAL
 
 ###### Artículo 7.
 
@@ -5413,7 +5675,9 @@ VI. Fomentar la participación de integrantes de la población en acciones relac
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Coordinador General de Desarrollo Económico; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. Un Secretario Ejecutivo, que será el Director General de Desarrollo Económico y Regulación del Comercio; y
 
 III. Ocho consejeros, que serán:
 
@@ -5449,7 +5713,9 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
 
 > <small>(ADICIONADA, G.M.S. 17 DE JULIO DE 2009)</small>
 
-#### SECCIÓN SEGUNDA. DEL CONSEJO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE
+#### SECCIÓN PRIMERA BIS. DEL CONSEJO CONSULTIVO MUNICIPAL DE TURISMO
+
+> <small>(ADICIONADO, G.M.S. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 7.
 
@@ -5457,19 +5723,21 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
 
 I. Un Presidente que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Coordinador General de Desarrollo Económico; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-III. Seis consejeros, que serán:
+II. Un Secretario Ejecutivo, que será el Director General de Desarrollo Económico y Regulación del Comercio; y
 
-a. Dos representantes de la Comisión de Educación Pública y Turismo del Ayuntamiento;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+III. Cuatro consejeros, que serán:
+
+a. Un representante de la Comisión de Educación Pública y Turismo del Ayuntamiento;
 
 b. Un representante de la Comisión de Desarrollo Económico, Abasto, Mercados y Rastros;
 
-c. El Director General de Participación Ciudadana;
+c. El Director General de Desarrollo Social y Participación Ciudadana; y
 
-d. El Director General de Desarrollo Social; y
-
-e. El Coordinador General de Planeación y Evaluación.
+d. El Jefe de la Unidad de Información, Planeación, Programación y Evaluación.
 
 Los integrantes del Consejo tendrán derecho a voz y voto, a excepción del Secretario Ejecutivo que sólo contará con voz. Cuando lo estime conveniente el Presidente Municipal, podrán participar dentro de este órgano representantes de instituciones y entidades públicas, privadas y sociales, únicamente con voz, en su carácter de consejeros invitados.
 
@@ -5493,7 +5761,7 @@ V. Presentar el informe de avance de las acciones realizadas; y
 
 VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
 
-#### SECCIÓN TERCERA. DEL CONSEJO MUNICIPAL DE LA JUVENTUD
+#### SECCIÓN SEGUNDA. DEL COMITÉ MUNICIPAL DE ATENCIÓN EMPRESARIAL
 
 ###### Artículo 7.
 
@@ -5505,19 +5773,21 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Consejo.
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Coordinador General de Desarrollo Económico; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-III. Cinco vocales, que serán:
+II. Un Secretario Ejecutivo, que será el Director General de Desarrollo Económico y Regulación del Comercio; y
+
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+III. Cuatro vocales, que serán:
 
 a. Un representante de la Comisión de Desarrollo Económico, Abasto, Mercados y Rastros del Ayuntamiento;
 
-b. El Director General de Gobierno;
+b. El Director General de Desarrollo Urbano y Obras Públicas;
 
-c. El Director General de Desarrollo Urbano y Obras Públicas;
+c. El Director General del Organismo de Agua y Saneamiento de Toluca; y
 
-d. El Director General del Organismo de Agua y Saneamiento de Toluca; y
-
-e. El Contralor Municipal.
+d. El Contralor Municipal.
 
 Los integrantes del Comité tendrán derecho a voz y voto, a excepción del Secretario Ejecutivo y el Contralor Municipal que sólo contarán con voz. Cuando lo estime conveniente el Presidente Municipal, podrán participar dentro de este órgano, únicamente con voz, vocales invitados.
 
@@ -5561,11 +5831,13 @@ IV. Dar a conocer a los empresarios solicitantes la respuesta emitida a sus soli
 
 43.- Una vez emitidos favorablemente los dictámenes de factibilidad relacionados con la instalación, ampliación y operación de empresas, la persona beneficiada podrá iniciar de inmediato, en su caso, la construcción de las obras correspondientes, siempre y cuando suscriba una “carta compromiso” que le proponga la autoridad respectiva, en la que se establezca la obligación de dar cumplimiento, en el plazo que se señale, a los requisitos establecidos en la normatividad de cada ámbito de autoridad, así como las consecuencias en el supuesto de incumplimiento.
 
-#### SECCIÓN CUARTA. DEL CONSEJO DE LA CRÓNICA Y ACERVO HISTÓRICO
+#### SECCIÓN TERCERA. DE LA UNIDAD DEPORTIVA "PROFR. FILIBERTO NAVAS VALDÉS"
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 7.
 
-44.- Las instalaciones de la Unidad Deportiva “Profr. Filiberto Navas Valdés”, que en adelante se identificará como la Unidad Deportiva, se destinarán a la realización de actividades de carácter deportivo, conforme a las disposiciones de la presente sección y de los lineamientos internos que expida el Presidente Municipal, a propuesta del Coordinador General de Desarrollo Económico.
+44.- Las instalaciones de la Unidad Deportiva "Profr. Filiberto Navas Valdés”, que en adelante se identificará como la Unidad Deportiva, se destinarán a la realización de actividades de carácter deportivo, conforme a las disposiciones de la presente sección y de los lineamientos internos que expida el Presidente Municipal, a propuesta del Director General de Desarrollo Económico y Regulación del Comercio.
 
 ###### Artículo 7.
 
@@ -5591,11 +5863,13 @@ Los derechos personales de uso son intransferibles, por lo que no se pueden vend
 
 49.- Previa autorización del Presidente Municipal, podrán utilizar las instalaciones de la Unidad Deportiva, en forma gratuita, los deportistas de alto rendimiento o personas que necesiten rehabilitación de salud, siempre que no cuenten con recursos económicos suficientes.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 7.
 
-50.- El Coordinador General de Desarrollo Económico es competente para conocer y resolver cualquier inconformidad que se suscite entre el administrador y los usuarios de la Unidad Deportiva.
+50.- La Dirección de Desarrollo Económico es competente para conocer y resolver cualquier inconformidad que se suscite entre el administrador y los usuarios de la Unidad Deportiva.
 
-#### SECCIÓN PRIMERA. DEL CONSEJO CONSULTIVO ECONÓMICO MUNICIPAL
+#### SECCIÓN CUARTA. DEL USO DE OTRAS INSTALACIONES MUNICIPALES
 
 ###### Artículo 7.
 
@@ -5613,13 +5887,17 @@ V. Las alacenas de los Portales; y
 
 VI. Otras instalaciones municipales similares.
 
-###### Artículo 7.
-
-52.- Las actividades que podrán realizarse en las instalaciones municipales serán preferentemente de carácter cultural, conforme a la autorización de la Coordinación General de Desarrollo Económico y en su caso el permiso que otorgue la Dirección General de Gobierno. Se dará preferencia a las actividades que tengan un fin no lucrativo.
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 7.
 
-53.- La solicitud para el uso de alguna instalación municipal se presentará ante la Coordinación General de Desarrollo Económico, en los formatos que ésta proporcione.
+52.- Las actividades que podrán realizarse en las instalaciones municipales serán preferentemente de carácter cultural, conforme a la autorización de la Dirección General de Desarrollo Económico y Regulación del Comercio. Se dará preferencia a las actividades que tengan un fin no lucrativo.
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 7.
+
+53.- La solicitud para el uso de alguna instalación municipal se presentará ante la Dirección de Desarrollo Económico, en los formatos que ésta proporcione.
 
 ###### Artículo 7.
 
@@ -5645,23 +5923,23 @@ V. Colocar anuncios o propaganda, excepto en los lugares que para ello hayan sid
 
 VI. Realizar pintas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 7.
 
-57.- Las alacenas de los Portales de la ciudad de Toluca no pueden ser objeto de venta, arrendamiento o cualquier otro acto traslativo de dominio. Sólo se podrán dar en usufructo, previa la autorización de la Coordinación General de Desarrollo Económico y la expedición de la licencia o permiso por la Dirección General de Gobierno.
+57.- Las alacenas de los Portales de la ciudad de Toluca no pueden ser objeto de venta, arrendamiento o cualquier otro acto traslativo de dominio. Sólo se podrán dar en usufructo, previa la autorización de la Dirección General de Desarrollo Económico y Regulación del Comercio.
 
 La licencia o permiso señalará los horarios, condiciones y restricciones que deban cumplirse en las actividades comerciales. El contrato de usufructo que celebre la autoridad municipal indicará las obligaciones, prohibiciones y demás disposiciones a cargo de los usufructuarios.
 
 ### CAPÍTULO QUINTO. DE LA PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
 
-#### SECCIÓN PRIMERA BIS. DEL CONSEJO CONSULTIVO MUNICIPAL DE TURISMO
-
-> <small>(ADICIONADO, G.M.S. 17 DE JULIO DE 2009)</small>
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 7.
 
 58.- La formulación, aprobación, colaboración, concertación, ejecución y evaluación de la planeación democrática para el desarrollo municipal, se regirán por la Constitución Federal, la Constitución Estatal, la Ley de Planeación del Estado de México y Municipios, la Ley Orgánica Municipal, el Reglamento de la Ley de Planeación del Estado de México y Municipios, el presente capítulo y demás disposiciones que resulten aplicables.
 
-#### SECCIÓN SEGUNDA. DEL COMITÉ MUNICIPAL DE ATENCIÓN EMPRESARIAL
+#### SECCIÓN SEGUNDA. DE LA COMISIÓN DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
 
 ###### Artículo 7.
 
@@ -5669,7 +5947,9 @@ La licencia o permiso señalará los horarios, condiciones y restricciones que d
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Coordinador General de Planeación y Evaluación; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. Un Secretario Ejecutivo, que será el Jefe de la Unidad de Información, Planeación, Programación y Evaluación; y
 
 III. Diez Consejeros, que serán:
 
@@ -5761,13 +6041,19 @@ b. Un representante de la Comisión de Egresos del Ayuntamiento;
 
 c. El Director Jurídico y Consultivo;
 
-d. Un representante de la Comisión de Patrimonio Municipal del Ayuntamiento;
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+d. El Director General de Tesorería y Administración;
 
 e. El Tesorero Municipal;
 
-f. El Contralor Municipal; y
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-Los integrantes del Comité tendrán derecho a voz y voto, a excepción del Secretario Ejecutivo, el Contralor Municipal y el Director Jurídico y Consultivo, quienes sólo participarán con voz. Cuando lo estime conveniente el Presidente Municipal, podrán participar dentro de este órgano, únicamente con voz, vocales invitados.
+f. El Consejero Jurídico Municipal.
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+Los integrantes del Comité tendrán derecho a voz y voto, a excepción del Secretario Ejecutivo, el Contralor Municipal y el Consejero Jurídico Municipal, quienes sólo participarán con voz. Cuando lo estime conveniente el Presidente Municipal, podrán participar dentro de este órgano, únicamente con voz, vocales invitados.
 
 Salvo el Presidente Municipal, los otros miembros del Comité podrán designar por escrito a sus respectivos suplentes. El Comité sesionará ordinariamente una vez al mes y en forma extraordinaria cuando sea convocado.
 
@@ -5803,23 +6089,25 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Comité.
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Ejecutivo, que será el Director General de Administración; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-III. Seis vocales, que serán:
+II. Un Secretario Ejecutivo, que será el Director General de Tesorería y Administración; y
+
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+III. Cuatro vocales, que serán:
 
 a. Un representante de la Comisión de Egresos del Ayuntamiento;
 
-b. El Director Jurídico y Consultivo; y (sic)
+b. El Contralor Municipal;
 
-c. El titular de la dependencia o unidad administrativa interesada en adquirir, enajenar y arrendar bienes o contratar servicios;
+c. El Consejero Jurídico Municipal; y
 
-d. Un representante de la Comisión de Patrimonio Municipal del Ayuntamiento;
+d. El titular de la dependencia o unidad administrativa interesada en adquirir, enajenar y arrendar bienes o contratar servicios.
 
-e. El Tesorero Municipal;
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-f. El Contralor Municipal.
-
-Los integrantes del Comité tendrán derecho a voz y voto, a excepción del Secretario Ejecutivo, el Contralor Municipal y el Director Jurídico y Consultivo, quienes sólo participarán con voz. Cuando lo estime conveniente el Presidente Municipal, podrán participar dentro de este órgano, únicamente con voz, vocales invitados.
+Los integrantes del Comité tendrán derecho a voz y voto, a excepción del Secretario Ejecutivo, el Contralor Municipal y el Consejero Jurídico Municipal, quienes sólo participarán con voz. Cuando lo estime conveniente el Presidente Municipal, podrán participar dentro de este órgano, únicamente con voz, vocales invitados.
 
 Salvo el Presidente Municipal, los otros miembros del Comité podrán designar por escrito a sus respectivos suplentes. El Comité sesionará ordinariamente una vez al mes y en forma extraordinaria cuando sea convocado.
 
@@ -5863,17 +6151,19 @@ VI. Dar seguimiento a la ejecución de los acuerdos y resoluciones del Comité.
 
 ### CAPÍTULO NOVENO. DE LA ADMINISTRACIÓN DE DOCUMENTOS MUNICIPALES
 
-#### SECCIÓN TERCERA. DE LA UNIDAD DEPORTIVA "PROFR. FILIBERTO NAVAS VALDÉS"
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 7.
 
 77.- La administración de documentos administrativos e históricos del Municipio y sus organismos auxiliares, se regirá por la Ley de Documentos Administrativos e Históricos del Estado, el presente capítulo y demás disposiciones.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 7.
 
-78.- Para la administración de los documentos municipales existirán el Archivo Administrativo dependiente de la Dirección General de Administración y el Archivo Histórico coordinado por la Secretaría del Ayuntamiento. En cada dependencia municipal y organismo auxiliar existirá un archivo de trámite.
+78.- Para la administración de los documentos municipales existirán el Archivo Administrativo dependiente de la Dirección General de Tesorería y Administración y el Archivo Histórico coordinado por la Secretaría del Ayuntamiento. En cada dependencia municipal y organismo auxiliar existirá un archivo de trámite.
 
-#### SECCIÓN CUARTA. DEL USO DE OTRAS INSTALACIONES MUNICIPALES
+#### SECCIÓN SEGUNDA. DEL ARCHIVO ADMINISTRATIVO
 
 ###### Artículo 7.
 
@@ -5909,7 +6199,7 @@ XI. Las demás que señalen otras disposiciones.
 
 81.- Las dependencias municipales y organismos auxiliares podrán solicitar el préstamo de los documentos que hayan generado, mediante oficio firmado por su titular. Se suspenderá el derecho de préstamo a quienes tengan en su poder documentos cuyo plazo de entrega se encuentre vencido.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN TERCERA. DEL ARCHIVO HISTÓRICO
 
 ###### Artículo 7.
 
@@ -5965,23 +6255,29 @@ VII. Las demás que el titular del Archivo determine como necesarios.
 
 85.- Los servidores públicos municipales respetarán los derechos humanos que otorga la Constitución Federal y los tratados internacionales firmados por México, en términos de la Ley de la Comisión de Derechos Humanos del Estado, la Ley Orgánica Municipal, el Reglamento Interno de la Comisión de Derechos Humanos del Estado, el presente capítulo y demás normas legales.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 7.
 
-86.- La Coordinación Municipal de Derechos Humanos, que más adelante se identificará como la Coordinación, estará integrada por:
+86.- La Defensoría de Derechos Humanos, que más adelante se identificará como la Defensoría, estará integrada por:
 
-I. Un Coordinador;
+I. Un Defensor;
 
 II. Los Secretarios Visitadores que sean necesarios; y
 
 III. El personal de apoyo para el desempeño de las funciones.
 
-###### Artículo 7.
-
-87.- El Coordinador Municipal de Derechos Humanos ejercerá las atribuciones señaladas en la Ley Orgánica Municipal. Asimismo, deberá cumplir con los programas de atención a víctimas del delito y grupos vulnerables, así como acudir a la comandancia y cárceles municipales para observar el debido respeto de los derechos humanos.
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 7.
 
-88.- Los Secretarios Visitadores deberán reunir los mismos requisitos que el Coordinador Municipal de Derechos Humanos. Tendrán las siguientes atribuciones:
+87.- El Defensor Municipal de Derechos Humanos ejercerá las atribuciones señaladas en la Ley Orgánica Municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 7.
+
+88.- Los Secretarios Visitadores deberán reunir los mismos requisitos que el Defensor Municipal de Derechos Humanos. Tendrán las siguientes atribuciones:
 
 I. Llevar al corriente los libros de gobierno y de correspondencia;
 
@@ -5993,13 +6289,17 @@ IV. Llevar a cabo las visitas solicitadas por la Comisión de Derechos Humanos d
 
 V. Aquellas que le otorguen las disposiciones legales aplicables.
 
-###### Artículo 7.
-
-89.- Todas las actuaciones que lleve a cabo la Coordinación serán gratuitas. Esta disposición deberá hacerse saber a la población en general.
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 7.
 
-90.- Queda prohibido a los servidores públicos que presten sus servicios en la Coordinación hacer uso de la información y documentación confidencial relativas a los asuntos a su cargo, aún a título personal, por lo que no estarán obligados a rendir testimonio ante ninguna autoridad administrativa o jurisdiccional, cuando esté relacionada su actuación con algún trámite radicado en la propia dependencia.
+89.- Todas las actuaciones que lleve a cabo la Defensoría serán gratuitas. Esta disposición deberá hacerse saber a la población en general.
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 7.
+
+90.- Queda prohibido a los servidores públicos que presten sus servicios en la Defensoría hacer uso de la información y documentación confidencial relativas a los asuntos a su cargo, aún a título personal, por lo que no estarán obligados a rendir testimonio ante ninguna autoridad administrativa o jurisdiccional, cuando esté relacionada su actuación con algún trámite radicado en la propia dependencia.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LOS VISITANTES DISTINGUIDOS
 
@@ -6067,7 +6367,7 @@ El presidente de la mesa directiva presidirá las asambleas generales, auxiliado
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LA ACTIVIDAD FINANCIERA MUNICIPAL
 
-#### SECCIÓN SEGUNDA. DE LA COMISIÓN DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 7.
 
@@ -6077,15 +6377,19 @@ El presidente de la mesa directiva presidirá las asambleas generales, auxiliado
 
 103.- Además de las señaladas en el Código Financiero, son autoridades fiscales municipales:
 
-I. El Director de Ingresos;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
-II. Los jefes de departamento de la Dirección de Ingresos;
+I. El Subdirector de Ingresos;
+
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+II. Los jefes de departamento de la Subdirección de Ingresos;
 
 III. Los notificadores ejecutores; y
 
 IV. Los auditores fiscales.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN SEGUNDA. DEL COBRO DE GASTOS DE EJECUCIÓN FISCAL
 
 ###### Artículo 7.
 
@@ -6177,7 +6481,7 @@ Tratándose de errores de contenido en el documento original, la Secretaría del
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LA CALIFICACIÓN, MEDIACIÓN Y CONCILIACIÓN
 
-#### SECCIÓN SEGUNDA. DEL ARCHIVO ADMINISTRATIVO
+#### SECCIÓN PRIMERA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LAS OFICIALÍAS CALIFICADORAS
 
 ###### Artículo 7.
 
@@ -6225,7 +6529,9 @@ VIII. Apoyar a la Delegación Regional del Instituto Nacional de Migración en e
 
 IX. Acatar las órdenes emitidas por autoridades judiciales respecto de la imposición de arresto o aseguramiento inconmutable de personas;
 
-X. Rendir los informes que le requieran el Secretario del Ayuntamiento y el Director Jurídico y Consultivo; y
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+X. Rendir los informes que le requieran el Secretario del Ayuntamiento y el Consejero Jurídico Municipal; y
 
 XI. Las demás que les atribuyan los ordenamientos municipales aplicables.
 
@@ -6281,7 +6587,7 @@ III. En caso de no ser localizada la persona facultada para recoger al menor, o 
 
 IV. Dependiendo de la gravedad de la infracción, el menor será puesto a disposición del Ministerio Público de Adolescentes.
 
-#### SECCIÓN TERCERA. DEL ARCHIVO HISTÓRICO
+#### SECCIÓN SEGUNDA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LAS OFICIALÍAS MEDIADORAS - CONCILIADORAS
 
 ###### Artículo 7.
 
@@ -6481,7 +6787,9 @@ II. Los comerciantes y productores de artículos nacionales.
 
 7.- Son obligaciones de los comerciantes en general:
 
-I. Inscribirse en el padrón respectivo que elabora la Dirección General de Gobierno, que expedirá la credencial que acredite la actividad;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+I. Inscribirse en el padrón respectivo que elabora la Dirección de Regulación del Comercio, que expedirá la credencial que acredite la actividad;
 
 II. Obtener la licencia o permiso de funcionamiento;
 
@@ -6497,9 +6805,11 @@ VII. Obtener la credencial con fotografía que lo acredite como comerciante; y
 
 VIII. Señalar domicilio para recibir notificaciones, que deberá estar ubicado dentro de la circunscripción municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 8.
 
-8.- Los comerciantes de mercados, tianguis y vía pública a que se refiere este ordenamiento podrán organizarse en uniones y asociaciones de conformidad con la ley de la materia. Las agrupaciones de comerciantes constituidas serán registradas ante la Dirección General de Gobierno; serán órganos de consulta y representación en la defensa de los intereses comunes de sus agremiados.
+8.- Los comerciantes de mercados, tianguis y vía pública a que se refiere este ordenamiento podrán organizarse en uniones y asociaciones de conformidad con la ley de la materia. Las agrupaciones de comerciantes constituidas serán registradas ante la Dirección de Regulación del comercio; serán órganos de consulta y representación en la defensa de los intereses comunes de sus agremiados.
 
 El registro de las uniones de comerciantes se realizará en un libro especial y en el expediente correspondiente a cada una de ellas deberá obrar copia del acta constitutiva, de sus estatutos y de las modificaciones que se les incorporen en la integración de sus órganos directivos.
 
@@ -6507,7 +6817,7 @@ Para tal efecto, las asociaciones harán llegar la información respectiva, dent
 
 ### CAPÍTULO SEGUNDO. DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES Y DE SERVICIO EN ESTABLECIMIENTOS
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN PRIMERA. DE LAS LICENCIAS DE FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
 ###### Artículo 8.
 
@@ -6569,13 +6879,15 @@ VIII. Nombre, cargo, firma y sello oficial de la autoridad municipal que la expi
 
 IX. Lugar y fecha de la expedición.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 8.
 
-14.- Los establecimientos comerciales, industriales y de prestación de servicios, se clasificarán atendiendo al catálogo de giros que emita la Dirección General de Gobierno.
+14.- Los establecimientos comerciales, industriales y de prestación de servicios, se clasificarán atendiendo al catálogo de giros que emita la Dirección General de Desarrollo Económico y Regulación del Comercio.
 
 Aquellos giros que no se contemplen en el catálogo, se entenderán como incluidos desde el momento en que sean autorizados.
 
-#### SECCIÓN SEGUNDA. DEL COBRO DE GASTOS DE EJECUCIÓN FISCAL
+#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE LOS TITULARES DE ESTABLECIMIENTOS
 
 ###### Artículo 8.
 
@@ -6631,7 +6943,7 @@ III. Tratándose de juegos electromecánicos, aparatos que se instalen en circos
 
 ### CAPÍTULO TERCERO. DE LA VENTA DE BEBIDAS ALCOHÓLICAS EN ESTABLECIMIENTOS COMERCIALES Y DE SERVICIOS
 
-#### SECCIÓN PRIMERA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LAS OFICIALÍAS CALIFICADORAS
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 8.
 
@@ -6675,9 +6987,11 @@ XIII. Video bar, restaurante bar con pista de baile y café cantante: Local auto
 
 20.- Fuera de los establecimientos y lugares autorizados, no podrán venderse al público bebidas alcohólicas. Se prohíbe la venta de éstas en instalaciones educativas, fábricas, hospitales, templos, lugares dedicados al culto religioso, tianguis, puestos semifijos, puestos de vendedores ambulantes o cualquier otro lugar que por su naturaleza pueda equipararse a los mencionados.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 8.
 
-21.- La Dirección General de Gobierno podrá ordenar la reubicación de los establecimientos materia de este capítulo, o la cancelación o revocación de las licencias respectivas, cuando:
+21.- La Dirección de Regulación del Comercio podrá ordenar la reubicación de los establecimientos materia de este capítulo, o la cancelación o revocación de las licencias respectivas, cuando:
 
 I. Se vea afectado el orden público;
 
@@ -6699,7 +7013,9 @@ II. Contar con la autorización de uso de suelo expedida por la autoridad munici
 
 III. El local donde se pretenda ubicar el establecimiento deberá tener acceso directo de la vía pública y estar incomunicado del resto del inmueble del que forme parte;
 
-IV. Presentar constancia de la Coordinación General de Medio Ambiente, cuando el giro así lo requiera;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+IV. Presentar constancia de la Dirección General de Servicios Públicos y Medio Ambiente, cuando el giro así lo requiera;
 
 V. Carta de conformidad del Consejo de Participación Ciudadana o Delegación o Subdelegación Municipal;
 
@@ -6717,13 +7033,15 @@ XI. Tratándose de establecimientos con modalidades de alto impacto, se deberá 
 
 XII. Las demás que se deriven de otras disposiciones aplicables.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 8.
 
-23.- La Dirección General de Gobierno, dentro de los diez días siguientes a la presentación de dicha solicitud, procederá a practicar verificación física al local en donde se pretenda ubicar el establecimiento, a efecto de comprobar que el mismo cumpla con los requisitos señalados en el artículo anterior; debiendo en todo caso notificar personalmente al interesado el acuerdo recaído.
+23.- La Dirección de Regulación del Comercio, dentro de los diez días siguientes a la presentación de dicha solicitud, procederá a practicar verificación física al local en donde se pretenda ubicar el establecimiento, a efecto de comprobar que el mismo cumpla con los requisitos señalados en el artículo anterior; debiendo en todo caso notificar personalmente al interesado el acuerdo recaído.
 
 ### CAPÍTULO CUARTO. DE LAS ACTIVIDADES COMERCIALES EN MERCADOS Y CENTRALES DE ABASTO
 
-#### SECCIÓN SEGUNDA. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LAS OFICIALÍAS MEDIADORAS - CONCILIADORAS
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 8.
 
@@ -6751,7 +7069,9 @@ X. Rendir informes cuando le sean solicitados por sus superiores;
 
 XI. Solicitar a la autoridad municipal competente, la revocación de licencias de funcionamiento;
 
-XII. Integrar expedientes de solicitudes sobre cambios y ampliaciones de giro, y los demás que les sean encomendados, turnándolos a la Coordinación General de Desarrollo Económico;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+XII. Integrar expedientes de solicitudes sobre cambios y ampliaciones de giro, y los demás que les sean encomendados, turnándolos a la Dirección de Regulación del Comercio;
 
 XIII. Solicitar operativos de inspección a las autoridades correspondientes, cuando así lo requieran las necesidades del mercado;
 
@@ -6763,15 +7083,19 @@ XVI. Llevar un control de sanciones impuestas a los comerciantes por la autorida
 
 XVII. Las demás que se le asignen.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 8.
 
-25.- Las personas interesadas en ejercer actividades comerciales en mercados, están obligados a obtener licencia de funcionamiento ante la Dirección General de Gobierno, que sólo podrán otorgarse cuando existan locales disponibles con el giro solicitado y se presenten los siguientes documentos:
+25.- Las personas interesadas en ejercer actividades comerciales en mercados, están obligados a obtener licencia de funcionamiento ante la Dirección de Regulación del Comercio, que sólo podrán otorgarse cuando existan locales disponibles con el giro solicitado y se presenten los siguientes documentos:
 
 I. Formato de solicitud por duplicado, debidamente requisitado;
 
 II. Recibo de agua, impuesto predial, luz o teléfono a nombre del solicitante, o constancia domiciliaria expedida por la Secretaría del Ayuntamiento;
 
-III. Constancia expedida por la Coordinación General de Desarrollo Económico, en la que se manifieste que el solicitante no es titular, poseedor o administrador de algún local comercial en el interior de los mercados del Municipio;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+III. Constancia en la que se manifieste que el solicitante no es titular, poseedor o administrador de algún local comercial en el interior de los mercados del Municipio;
 
 IV. Clave Única de Registro de Población;
 
@@ -6799,7 +7123,7 @@ VII. Arrendar, subarrendar, traspasar o vender el espacio que tiene asignado; y
 
 VIII. Las demás circunstancias que establece el presente capítulo.
 
-#### SECCIÓN PRIMERA. DE LAS LICENCIAS DE FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
+#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES Y PROHIBICIONES
 
 ###### Artículo 8.
 
@@ -6873,15 +7197,17 @@ XIII. Permitir o hacerse suministrar el uso de los servicios de luz o agua sin l
 
 29.- Cuando hubiese necesidad de hacer obras de construcción, conservación, reparación o mejoras de servicios públicos en el interior de los inmuebles de los mercados, la autoridad municipal podrá reubicar a los comerciantes a otro lugar, siempre y cuando sea en el mismo mercado.
 
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE LOS TITULARES DE ESTABLECIMIENTOS
+#### SECCIÓN TERCERA. DE LA AMPLIACIÓN Y CAMBIOS DE GIRO
 
 ###### Artículo 8.
 
 30.- Para obtener la autorización de ampliación o cambio de giro, el comerciante deberá presentar ante la administración solicitud en las formas que para el efecto se expidan, debiendo asentar bajo protesta de ley, los datos y requisitos exigidos para el otorgamiento de la licencia de funcionamiento.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 8.
 
-31.- La Dirección General de Gobierno dictará la resolución correspondiente a la solicitud de cambio o ampliación de giro, dentro del término de quince días hábiles posteriores a la fecha de su presentación y sólo podrá ser autorizada por una sola vez durante la Administración Pública Municipal que lo haya otorgado.
+31.- La Dirección de Regulación del Comercio dictará la resolución correspondiente a la solicitud de cambio o ampliación de giro, dentro del término de quince días hábiles posteriores a la fecha de su presentación y sólo podrá ser autorizada por una sola vez durante la Administración Pública Municipal que lo haya otorgado.
 
 ###### Artículo 8.
 
@@ -6891,11 +7217,13 @@ Para que sea reconocida la sucesión de los derechos por carta testamentaria, es
 
 Los beneficiarios por carta testamentaria deberán presentar la solicitud de reconocimiento de sus derechos ante la administración del mercado, en un término no mayor de noventa días siguientes a la fecha de defunción del arrendatario.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN CUARTA. DE LA REGULARIZACIÓN COMERCIAL
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 8.
 
-33.- Los locatarios que no sean titulares y estén en posesión del local sin la autorización de la Dirección General de Gobierno o sin contar con carta testamentaria, deberán gestionar su regularización ante la Coordinación General de Desarrollo Económico.
+33.- Los locatarios que no sean titulares y estén en posesión del local sin autorización o sin contar con carta testamentaria, deberán gestionar su regularización ante la Dirección de Regulación del Comercio.
 
 ###### Artículo 8.
 
@@ -6913,23 +7241,29 @@ IV. Documentos que acrediten la posesión del espacio y recibo al corriente del 
 
 35.- Cuando un comerciante de mercados deje de realizar su actividad y en su lugar otra persona la ejecute como titular, esta última podrá solicitar en arrendamiento el local, siempre y cuando no sea titular de otro puesto en mercados municipales, presente los recibos de pago de obligaciones fiscales por un periodo de tres años anteriores a la fecha y demuestre haber trabajado en forma pacifica y continua, mediante la firma de por lo menos diez comerciantes de la zona en que se encuentra.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LA RECUPERACIÓN Y ASIGNACIÓN DE LOCALES COMERCIALES
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 8.
 
-36.- El procedimiento administrativo de recuperación de los locales de los mercados, se tramitará y decidirá por la Coordinación General de Desarrollo Económico, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado. La resolución será ejecutada por la Dirección de Licencias y Permisos.
+36.- El procedimiento administrativo de recuperación de los locales de los mercados, se tramitará y decidirá por la Dirección de Regulación del Comercio, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado.
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 8.
 
-37.- Cuando por alguna de las causas previstas en este capítulo, el Ayuntamiento recupere locales comerciales en los mercados, podrá otorgarlos en arrendamiento a nuevos locatarios bajo el procedimiento y selección de candidatos que defina la Coordinación General de Desarrollo Económico.
+37.- Cuando por alguna de las causas previstas en este capítulo, el Ayuntamiento recupere locales comerciales en los mercados, podrá otorgarlos en arrendamiento a nuevos locatarios bajo el procedimiento y selección de candidatos que defina la Dirección de Regulación del Comercio.
 
 ###### Artículo 8.
 
 38.- Para la selección de candidatos a obtener en arrendamiento un local recuperado, se seguirá el procedimiento de asignación, en el cual participen los solicitantes que hayan cubierto los requisitos previstos en este capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 8.
 
-39.- Para participar en el procedimiento de asignación de local comercial en mercados, el comerciante deberá presentar solicitud por escrito ante la Coordinación General de Desarrollo Económico, debiendo cubrir entre otros requisitos los siguientes:
+39.- Para participar en el procedimiento de asignación de local comercial en mercados, el comerciante deberá presentar solicitud por escrito ante la Dirección de Regulación del Comercio, debiendo cubrir entre otros requisitos los siguientes:
 
 I. Ser vecino del Municipio;
 
@@ -6941,21 +7275,25 @@ IV. Someterse al procedimiento de asignación; y
 
 V. En caso de ser seleccionado, cumplir los requisitos para la obtención de la licencia correspondiente.
 
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES Y PROHIBICIONES
+#### SECCIÓN SEXTA. DE LAS CENTRALES DE ABASTO
 
 ###### Artículo 8.
 
 40.- Las centrales de abasto se regirán en lo conducente por las disposiciones legales relativas a mercados, su reglamento interior y demás normas aplicables.
 
-El reglamento interior de la central de abastos deberá ser aprobado por la Coordinación General de Desarrollo Económico.
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+El reglamento interior de la central de abastos deberá ser aprobado por la Dirección General de Desarrollo Económico y Regulación del Comercio.
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 8.
 
-41.- Cuando el Municipio preste directamente el servicio, la Coordinación General de Desarrollo Económico estará facultada para establecer la distribución y disposición de los locales y demás áreas necesarias para su buen funcionamiento, conforme a un plano en donde se fije la ubicación y nomenclatura de los mismos, pudiendo ser modificados cuando lo requieran las necesidades públicas.
+41.- Cuando el Municipio preste directamente el servicio, la Dirección General de Desarrollo Económico y Regulación del Comercio estará facultada para establecer la distribución y disposición de los locales y demás áreas necesarias para su buen funcionamiento, conforme a un plano en donde se fije la ubicación y nomenclatura de los mismos, pudiendo ser modificados cuando lo requieran las necesidades públicas.
 
 ### CAPÍTULO QUINTO. DE LAS ACTIVIDADES COMERCIALES EN TIANGUIS Y VÍA PÚBLICA
 
-#### SECCIÓN TERCERA. DE LA AMPLIACIÓN Y CAMBIOS DE GIRO
+#### SECCIÓN PRIMERA. DE LAS ACTIVIDADES COMERCIALES EN TIANGUIS
 
 ###### Artículo 8.
 
@@ -6989,15 +7327,19 @@ VI. Vender animales vivos.
 
 46.- Los puestos establecidos en los tianguis guardarán un orden y se ajustarán al espacio y diseño autorizado, debiendo reunir condiciones mínimas de seguridad, higiene y estética en su funcionamiento y presentación.
 
-###### Artículo 8.
-
-47.- La Dirección General de Gobierno tendrá facultad para retirar de la vía pública cualquier puesto, armazón o implemento utilizado por los comerciantes cuando tales objetos, por su ubicación, presentación, falta de higiene o su naturaleza, obstruyan la vialidad, deterioren el ornato público o representen peligro para la salud, seguridad e integridad física de la población, así como en los casos en que se labore sin el permiso respectivo.
-
-#### SECCIÓN CUARTA. DE LA REGULARIZACIÓN COMERCIAL
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 8.
 
-48.- Las personas que se dediquen a las actividades de comercio en tianguis o vía pública de manera ambulante, fija, semifija o móvil, están obligadas a obtener el permiso de funcionamiento, consistente en una credencial emitida por la Dirección General de Gobierno.
+47.- La Dirección de Regulación del Comercio tendrá facultad para retirar de la vía pública cualquier puesto, armazón o implemento utilizado por los comerciantes cuando tales objetos, por su ubicación, presentación, falta de higiene o su naturaleza, obstruyan la vialidad, deterioren el ornato público o representen peligro para la salud, seguridad e integridad física de la población, así como en los casos en que se labore sin el permiso respectivo.
+
+#### SECCIÓN SEGUNDA. DE LAS ACTIVIDADES COMERCIALES EN LA VÍA PÚBLICA
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 8.
+
+48.- Las personas que se dediquen a las actividades de comercio en tianguis o vía pública de manera ambulante, fija, semifija o móvil, están obligadas a obtener el permiso de funcionamiento, consistente en una credencial emitida por la Dirección de Regulación del Comercio.
 
 ###### Artículo 8.
 
@@ -7051,17 +7393,21 @@ III. Comprobante oficial que acredite estar al corriente en el pago de sus impue
 
 ### CAPÍTULO SEXTO. DE LOS ESPECTÁCULOS Y DIVERSIONES PÚBLICAS
 
-#### SECCIÓN QUINTA. DE LA RECUPERACIÓN Y ASIGNACIÓN DE LOCALES COMERCIALES
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 8.
 
-55.- Las diversiones públicas se clasifican en culturales, de variedad, artísticas, recreativas, deportivas y de diversión, de acuerdo con el catálogo de giros expedido por la Dirección General de Gobierno.
+55.- Las diversiones públicas se clasifican en culturales, de variedad, artísticas, recreativas, deportivas y de diversión, de acuerdo con el catálogo de giros expedido por la Dirección General de Desarrollo Económico y Regulación del Comercio.
 
 La clasificación de los espectáculos deberá ser especificada tanto en la publicidad como en los boletos, como aptos para: todo público; adolescentes y adultos; o sólo adultos.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 8.
 
-56.- Ningún espectáculo o diversión que se realice en salones, teatros, en la calle, plaza, local abierto o cerrado, podrán llevar a cabo publicidad, venta de boletos o abrir al público sin el permiso previo y por escrito de la Dirección General de Gobierno, para la realización de los eventos.
+56.- Ningún espectáculo o diversión que se realice en salones, teatros, en la calle, plaza, local abierto o cerrado, podrán llevar a cabo publicidad, venta de boletos o abrir al público sin el permiso previo y por escrito de la Dirección de Regulación del Comercio, para la realización de los eventos.
 
 ###### Artículo 8.
 
@@ -7069,7 +7415,9 @@ La clasificación de los espectáculos deberá ser especificada tanto en la publ
 
 I. Entregar solicitud, debiendo acreditar la personalidad con la que se ostenta, señalando nombre, domicilio, el Registro Federal de Contribuyentes y aviso de alta fiscal;
 
-II. La solicitud deberá ser presentada con veinte días de anticipación como mínimo a la celebración del evento, debiendo resolver la Dirección General de Gobierno dentro de los diez días siguientes, así como pagar los derechos correspondientes;
+> <small>(REFORMADA, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+VIII (SIC). La solicitud deberá ser presentada con veinte días de anticipación como mínimo a la celebración del evento, debiendo resolver la Dirección de Regulación del Comercio dentro de los diez días siguientes, así como pagar los derechos correspondientes;
 
 III. Indicar la clase de espectáculo o diversión que pretende presentar;
 
@@ -7113,7 +7461,7 @@ Los establecimientos donde se celebren espectáculos y diversiones públicas deb
 
 Si se llegara a determinar que entre la empresa y la persona que revende boletos existe acuerdo previo para ello, tal situación será sancionada en los términos de este ordenamiento.
 
-#### SECCIÓN SEXTA. DE LAS CENTRALES DE ABASTO
+#### SECCIÓN SEGUNDA. DE LAS EMPRESAS Y LOCALES
 
 ###### Artículo 8.
 
@@ -7139,7 +7487,9 @@ Además de que cuenten con las facilidades necesarias para el acceso y el adecua
 
 Las empresas que promuevan ferias, circos, carpas y similares, deberán conservar en buenas condiciones de higiene, las vías y lugares públicos que ocupen, evitando además su deterioro.
 
-La Dirección General de Gobierno podrá en todo tiempo ordenar la suspensión de esta clase de diversiones, así como el retiro de las instalaciones, ya sea por motivo de queja o porque así lo estime conveniente para el interés público. Los permisionarios gozarán de un plazo improrrogable de 24 horas a partir del momento en que reciban la notificación oficial para realizar el retiro que se ordene.
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+La Dirección de Regulación del Comercio podrá en todo tiempo ordenar la suspensión de esta clase de diversiones, así como el retiro de las instalaciones, ya sea por motivo de queja o porque así lo estime conveniente para el interés público. Los permisionarios gozarán de un plazo improrrogable de 24 horas a partir del momento en que reciban la notificación oficial para realizar el retiro que se ordene.
 
 ###### Artículo 8.
 
@@ -7157,7 +7507,7 @@ IV. En los locales donde operan los juegos mencionados, que puede ser el giro co
 
 68.- En todos aquellos lugares donde se prohíba por este y demás ordenamientos, la entrada a los menores de edad, deberán contar con un letrero alusivo en la entrada y en caso de considerarlo necesario, exigir documento que acredite la mayoría de edad.
 
-#### SECCIÓN PRIMERA. DE LAS ACTIVIDADES COMERCIALES EN TIANGUIS
+#### SECCIÓN TERCERA. DE LAS FUNCIONES DE LOS ESPECTÁCULOS Y DE LAS DIVERSIONES
 
 ###### Artículo 8.
 
@@ -7171,21 +7521,27 @@ IV. En los locales donde operan los juegos mencionados, que puede ser el giro co
 
 71.- Las corridas de toros, las peleas de box, la lucha libre, el futbol, el beisbol, el basquetbol, el voleibol y demás eventos deportivos, estarán sujetos a disposiciones generales y aplicables de este ordenamiento, pero el desarrollo de cada evento se regirá por sus reglamentos especiales.
 
-En las corridas de toros, el Director Jurídico y Consultivo nombrará al Juez de Plaza, que presidirá las corridas; la empresa designará un asesor especialista en la materia.
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
+En las corridas de toros, el Consejero Jurídico Municipal nombrará al Juez de Plaza, que presidirá las corridas; la empresa designará un asesor especialista en la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 8.
 
-72.- Los espectáculos de carreras de automóviles, motocicletas, bicicletas y demás vehículos de esta índole, así como de animales, requieren previo a su celebración el permiso correspondiente, el cual deberá ser expedido por la Dirección General de Gobierno, una vez llenados los requisitos establecidos en este ordenamiento.
+72.- Los espectáculos de carreras de automóviles, motocicletas, bicicletas y demás vehículos de esta índole, así como de animales, requieren previo a su celebración el permiso correspondiente, el cual deberá ser expedido por la Dirección General de Desarrollo Económico y Regulación del Comercio, una vez llenados los requisitos establecidos en este ordenamiento.
 
 Los automóviles, motocicletas, bicicletas y demás vehículos similares que tomen parte en los eventos, serán revisados previamente por peritos autorizados quienes certificarán el estado en que se encuentren los vehículos.
 
 La empresa nombrará bajo su responsabilidad los jueces necesarios para las carreras, debiendo recaer el nombramiento en personas con amplio conocimiento en la materia, además de reconocida honestidad y seriedad.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 8.
 
-73.- Los músicos ambulantes, cirqueros, prestidigitadores, faquires, mimos y cualquier persona que realice actividad semejante en la vía pública con objeto de divertir a la gente, deberá obtener el permiso correspondiente expedido por la Dirección General de Gobierno.
+73.- Los músicos ambulantes, cirqueros, prestidigitadores, faquires, mimos y cualquier persona que realice actividad semejante en la vía pública con objeto de divertir a la gente, deberá obtener el permiso correspondiente expedido por la Dirección de Regulación del Comercio.
 
-#### SECCIÓN SEGUNDA. DE LAS ACTIVIDADES COMERCIALES EN LA VÍA PÚBLICA
+#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DE LOS ESPECTADORES
 
 ###### Artículo 8.
 
@@ -7195,7 +7551,7 @@ La empresa nombrará bajo su responsabilidad los jueces necesarios para las carr
 
 75.- Tratándose de compañías de ópera, ballet, conciertos y audiciones puramente musicales, una vez que comience la función, serán cerradas las puertas de las salas, debiendo esperar el público retrasado el intermedio para entrar al salón.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LAS OBLIGACIONES Y PROHIBICIONES
 
 ###### Artículo 8.
 
@@ -7255,7 +7611,7 @@ XVI. Permitir la entrada y estancia de niños menores de tres años en todos los
 
 XVII. Pegar o fijar publicidad en los elementos de equipamiento urbano y lugares no autorizados por el Ayuntamiento, o realizar dicha publicidad sin la autorización previa del evento a realizarse.
 
-#### SECCIÓN SEGUNDA. DE LAS EMPRESAS Y LOCALES
+#### SECCIÓN SEXTA. DE LAS DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 8.
 
@@ -7277,7 +7633,7 @@ IV. La Tesorería Municipal, además de aplicar a la empresa la sanción corresp
 
 ### CAPÍTULO PRIMERO. DE LAS CONSTRUCCIONES
 
-#### SECCIÓN TERCERA. DE LAS FUNCIONES DE LOS ESPECTÁCULOS Y DE LAS DIVERSIONES
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 9.
 
@@ -7291,9 +7647,11 @@ IV. La Tesorería Municipal, además de aplicar a la empresa la sanción corresp
 
 3.- Para el otorgamiento de la licencia de construcción se deberá contar con el dictamen favorable de factibilidad de servicios de agua potable y drenaje, expedida por el Organismo de Agua y Saneamiento de Toluca.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 9.
 
-4.- Para el otorgamiento de la licencia de uso especifico de suelo de cualquier tipo de local comercial, industrial o de servicios, se deberá contar con la opinión favorable de la Dirección de Permisos y Licencias o de la Dirección de Vialidad y Transporte en el caso de estacionamientos al público.
+4.- Para el otorgamiento de la licencia de uso especifico de suelo de cualquier tipo de local comercial, industrial ó de servicios, se deberá contar con la opinión favorable de la Dirección General de Desarrollo Económico y Regulación del Comercio.
 
 ###### Artículo 9.
 
@@ -7303,7 +7661,7 @@ IV. La Tesorería Municipal, además de aplicar a la empresa la sanción corresp
 
 6.- Para efectos de este ordenamiento, los documentos legales que acreditan la propiedad de un predio o inmueble particular son las escrituras, las inmatriculaciones administrativas, las sentencias y las resoluciones administrativas. Los documentos que avalan la propiedad de un predio o inmueble en régimen social son la cesión de derechos, constancia de posesión, certificado parcelario, título agrario o resolución agraria.
 
-#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DE LOS ESPECTADORES
+#### SECCIÓN SEGUNDA. DE LOS PERITOS RESPONSABLES DE OBRA
 
 ###### Artículo 9.
 
@@ -7317,7 +7675,7 @@ IV. La Tesorería Municipal, además de aplicar a la empresa la sanción corresp
 
 9.- El perito responsable de obra deberá entregar al propietario o poseedor de la obra, al término de ésta, la bitácora de la misma y los planos de obra terminada, de los cuales deberá conservar una copia por un periodo no menor de cinco años.
 
-#### SECCIÓN QUINTA. DE LAS OBLIGACIONES Y PROHIBICIONES
+#### SECCIÓN TERCERA. DE LA CONSTRUCCIÓN URBANA
 
 ###### Artículo 9.
 
@@ -7345,7 +7703,7 @@ III. La proyección de un perímetro de un volado, marquesina o volumen habitabl
 
 14.- Para obtener la licencia de construcción en los usos de impacto regional, señalados en el del Plan Municipal de Desarrollo Urbano, se deberán presentar los planos o dibujos con los acabados y colores exteriores, además de un plano con la distribución y uso de la vegetación. Se exceptúan de esta disposición los usos que hayan sido objeto de algún cambio de uso de suelo, densidad, intensidad, altura y que por sus condiciones finales no se les considere como de impacto regional.
 
-#### SECCIÓN SEXTA. DE LAS DISPOSICIONES COMPLEMENTARIAS
+#### SECCIÓN CUARTA. DE LA VÍA PÚBLICA Y OTROS BIENES DE USO COMÚN
 
 ###### Artículo 9.
 
@@ -7411,7 +7769,7 @@ V. Para otros fines que se opongan al interés público o propicien la contamina
 
 24.- Cuando por la realización de obras de construcción se utilice la vía pública, el propietario de las mismas, una vez terminadas o al vencerse la vigencia del permiso, estará obligado a retirar de la vía pública los materiales, las instalaciones y objetos utilizados en ellas. En caso de no hacerlo, lo hará la dependencia correspondiente con cargo al propietario.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LAS EDIFICACIONES
 
 ###### Artículo 9.
 
@@ -7507,7 +7865,7 @@ En el caso de condominios horizontales o verticales, se permitirá únicamente u
 
 46.- Las jaulas para ropa ubicadas sobre la azotea serán de malla ciclónica o de un material similar, y se localizarán en el extremo opuesto a la fachada principal; la malla podrá quedar aparente o del mismo color de la edificación.
 
-#### SECCIÓN SEGUNDA. DE LOS PERITOS RESPONSABLES DE OBRA
+#### SECCIÓN SEXTA. DEL PROYECTO ARQUITECTÓNICO, EL EQUIPAMIENTO Y LA INDUSTRIA
 
 ###### Artículo 9.
 
@@ -7719,15 +8077,17 @@ Se permitirá la colocación de 24 butacas como máximo, cuando la fila desemboq
 
 90.- Los estacionamientos contarán con un área techada o marquesina, para el resguardo de personas o como área de espera, para la entrega de vehículos, tendrá 7.50 metros cuadrados de área como mínimo y uno de sus lados no será menor a 0.60 metros; su piso estará por lo menos 0.15 metros sobre el nivel de la superficie de rodamiento de vehículos.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 9.
 
-91.- Los accesos y salidas a gasolineras y estaciones de gas carburante no deberán generar puntos de conflicto en las circulaciones viales y peatonales sobre la vía pública. Los proyectos de incorporaciones viales de estos usos serán ser aprobados por la Dirección General de Seguridad Pública, Tránsito y Vialidad; deberán garantizar que ningún vehículo al recibir el servicio invada la vía pública y contemplarán una superficie de estacionamiento momentáneo al interior del predio para evitar que los vehículos que esperan ocupen la vía pública. Existirá una distancia de por lo menos 8 metros desde cualquier bomba hasta el límite de la vía pública.
+91.- Los accesos y salidas a gasolineras y estaciones de gas carburante no deberán generar puntos de conflicto en las circulaciones viales y peatonales sobre la vía pública. Los proyectos de incorporaciones viales de estos usos serán ser (sic) aprobados por la Dirección General de Seguridad Pública y Gobernación; deberán garantizar que ningún vehículo al recibir el servicio invada la vía pública y contemplarán una superficie de estacionamiento momentáneo al interior del predio para evitar que los vehículos que esperan ocupen la vía pública. Existirá una distancia de por lo menos 8 metros desde cualquier bomba hasta el límite de la vía pública.
 
 ###### Artículo 9.
 
 92.- Queda prohibida la construcción de estaciones de gas carburante en zonas habitacionales.
 
-#### SECCIÓN TERCERA. DE LA CONSTRUCCIÓN URBANA
+#### SECCIÓN SÉPTIMA. DEL MOBILIARIO URBANO
 
 ###### Artículo 9.
 
@@ -7783,7 +8143,7 @@ Aceptada la obra, la autoridad levantará un acta que dé fe del cumplimiento po
 
 ### CAPÍTULO SEGUNDO. DE LA IMAGEN URBANA
 
-#### SECCIÓN CUARTA. DE LA VÍA PÚBLICA Y OTROS BIENES DE USO COMÚN
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 9.
 
@@ -7813,7 +8173,7 @@ VII. Todas las construcciones nuevas deberán respetar las características pred
 
 En los barrios se prohíbe la construcción de todo tipo de edificaciones que alteren o modifiquen su carácter intrínseco y sólo se permitirán aquellas construcciones que contribuyan a mejorar su aspecto formal dentro de sus mismas características.
 
-#### SECCIÓN QUINTA. DE LAS EDIFICACIONES
+#### SECCIÓN SEGUNDA. DEL PATRIMONIO HISTÓRICO
 
 ###### Artículo 9.
 
@@ -7841,7 +8201,7 @@ III. Los barrios.
 
 109.- Para mejor aprovechamiento, promoción, restauración y preservación de los inmuebles declarados como parte del patrimonio histórico, artístico, arquitectónico y cultural, las autoridades podrán establecer convenios con sus propietarios.
 
-#### SECCIÓN SEXTA. DEL PROYECTO ARQUITECTÓNICO, EL EQUIPAMIENTO Y LA INDUSTRIA
+#### SECCIÓN TERCERA. DE LAS VIALIDADES
 
 ###### Artículo 9.
 
@@ -7887,7 +8247,7 @@ XIV. Los establecimientos comerciales con frente a vía pública de gran intensi
 
 113.- Todas las vialidades empedradas y adoquinadas existentes en los barrios y poblados se deberán respetar y se conservará su aspecto físico.
 
-#### SECCIÓN SÉPTIMA. DEL MOBILIARIO URBANO
+#### SECCIÓN CUARTA. DE LOS ANUNCIOS COMERCIALES
 
 ###### Artículo 9.
 
@@ -8101,7 +8461,7 @@ VII. Colocar propaganda que atente contra la moral, salud y las buenas costumbre
 
 VIII. Utilizar altavoces para anunciar en las zonas educativas y hospitales.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LA REMODELACIÓN Y PINTURA EN FACHADAS DE INMUEBLES
 
 ###### Artículo 9.
 
@@ -8149,11 +8509,13 @@ V. Realizar actividades relacionadas a la construcción en la vía pública, sin
 
 VI. Las demás que señalen otras disposiciones.
 
-#### SECCIÓN SEGUNDA. DEL PATRIMONIO HISTÓRICO
+#### SECCIÓN SEXTA. INFORMACIÓN PÚBLICA Y SEÑALIZACIÓN DE TRÁNSITO
+
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 9.
 
-141.- La Dirección General de Seguridad Pública, Tránsito y Vialidad, conjuntamente con la autoridad estatal que corresponda, realizará lo necesario para que el Municipio cuente con el señalamiento adecuado en materia de circulación vehicular y peatonal, además de la información pública necesaria para la localización de lugares o sitios.
+141.- La Dirección General de Seguridad Pública y Gobernación, conjuntamente con la autoridad estatal que corresponda, realizará lo necesario para que el Municipio cuente con el señalamiento adecuado en materia de circulación vehicular y peatonal, además de la información pública necesaria para la localización de lugares o sitios.
 
 ###### Artículo 9.
 
@@ -8173,7 +8535,7 @@ III. Usar la señalización pertinente en las áreas contiguas a hospitales, esc
 
 144.- Las personas que ocupen la vía pública para realizar una obra son responsables del mantenimiento y buena visibilidad del señalamiento vertical y horizontal existente en la misma, debiendo reponer los señalamientos que resulten afectados.
 
-#### SECCIÓN TERCERA. DE LAS VIALIDADES
+#### SECCIÓN SÉPTIMA. DEL CENTRO HISTÓRICO
 
 ###### Artículo 9.
 
@@ -8287,17 +8649,17 @@ IV. Las demás que se deriven de otras disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. DE LA NOMENCLATURA Y NÚMERO OFICIAL
 
-#### SECCIÓN CUARTA. DE LOS ANUNCIOS COMERCIALES
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 9.
 
 165.- La autorización, colocación y vigencia de la nomenclatura y números oficiales en el Municipio se regirán por la Ley Orgánica Municipal, el Bando Municipal, el presente capítulo y demás disposiciones relativas.
 
+> <small>(REFORMADO, G.M.S. 18 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 9.
 
-166.- La Dirección de Desarrollo Urbano, en coordinación con la Dirección de Vialidad y Transporte, generará la base de datos de la nomenclatura y cartografía de la red de vialidades, espacios públicos, colonias, fraccionamientos, conjuntos urbanos, barrios, delegaciones y subdelegaciones del Municipio.
-
-Asimismo, la autoridad municipal deberá coordinarse con el Servicio Postal Mexicano a fin de que éste le proporcione los códigos postales correspondientes, los cuales deberán estar incluidos en las bases de datos.
+166.- La Dirección de Desarrollo Urbano, en coordinación con la Dirección (sic) Tránsito y Vialidad, generará la base de datos de la nomenclatura y cartografía de la red de vialidades, espacios públicos, colonias, fraccionamientos, conjuntos urbanos, barrios, delegaciones y subdelegaciones del Municipio.
 
 ###### Artículo 9.
 
@@ -8337,8 +8699,6 @@ XIII. Se deberá reforzar la costumbre de referencia popular de los lugares, cal
 
 #### SECCIÓN SEGUNDA. DE LOS CRITERIOS PARA EL ESTABLECIMIENTO DE LA NOMENCLATURA
 
-#### SECCIÓN QUINTA. DE LA REMODELACIÓN Y PINTURA EN FACHADAS DE INMUEBLES
-
 ###### Artículo 9.
 
 169.- Para calles, calzadas o avenidas que sigan un mismo curso y tengan diversos nombres en su longitud, se propondrá y en su caso asignará el que tenga mayor significado histórico para el Municipio, Estado o el país. En caso de que ninguno de los nombres tuviera esa calidad, se le designará uno de mayor importancia, para lo cual deberán tomarse en consideración los ejes rectores de la ciudad y procurar, hasta donde esto sea posible, conservar la nomenclatura actual.
@@ -8354,8 +8714,6 @@ Se realizarán los estudios necesarios para determinar los sitios y vía públic
 171.- Todo conjunto urbano, lotificación en condominio o asentamiento de nueva creación deberá solicitar a la autoridad municipal la asignación de nomenclatura y número oficial. Los nombres y números no podrán ser utilizados con carácter de oficial en tanto no hayan sido aprobados; siendo además responsabilidad de la unidad habitacional la instalación de nomenclatura, números oficiales, así como los señalamientos informativos, de identificación, de destino, recomendación, información general, servicios y turísticos, preventivos, restrictivos.
 
 #### SECCIÓN TERCERA. DE LAS CONDICIONES PARA PROPONER O CAMBIAR LA NOMENCLATURA
-
-#### SECCIÓN SEXTA. INFORMACIÓN PÚBLICA Y SEÑALIZACIÓN DE TRÁNSITO
 
 ###### Artículo 9.
 
@@ -8378,8 +8736,6 @@ V. Para la asignación de nombres comunes, se valorará la importancia o trascen
 VI. Para las propuestas de nombres relativos a hechos históricos, se tomará en cuenta la trascendencia de los mismos, así como su relación con el Municipio, Estado o la Federación.
 
 #### SECCIÓN CUARTA. DE LOS SEÑALAMIENTOS DE NOMENCLATURA
-
-#### SECCIÓN SÉPTIMA. DEL CENTRO HISTÓRICO
 
 ###### Artículo 9.
 
@@ -8430,8 +8786,6 @@ c. En caso de no haber postes, se instalará poste tubular galvanizado de tres p
 176.- El Ayuntamiento, previo dictamen de su Comisión de Nomenclatura, podrá otorgar la autorización a los particulares para la colocación de placas de nomenclatura y su utilización con fines publicitarios, apegándose a los requisitos de diseño, medidas y especificaciones de fabricación establecidas por el capítulo. El área destinada a la publicidad no podrá ser mayor de ocho por 10 centímetros. La autorización podrá ser revocada por el Ayuntamiento, por las causales que se establezcan en la misma. En la autorización respectiva se consignará que la publicidad adherida a las placas de nomenclatura no promueva el consumo de tabaco y bebidas alcohólicas, ni se inserte en ellas ningún tipo de propaganda política, y que dicha publicidad no atente contra la moral y las buenas costumbres de los habitantes del Municipio.
 
 #### SECCIÓN QUINTA. DEL NÚMERO OFICIAL
-
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 9.
 
@@ -8628,3 +8982,29 @@ G.M.S. 14 DE AGOSTO DE 2009.
 Primero.- Publíquese la presente reforma del Código Reglamentario del Municipio de Toluca en la "Gaceta Municipal" y en la "Gaceta del Gobierno" del Estado, e incorpórense las mismas al ordenamiento que se divulga en el Portal Electrónico del Ayuntamiento.
 
 Segundo.- La presente reforma del Código Reglamentario del Municipio de Toluca entrará en vigor al momento de su publicación en la "Gaceta Municipal" de Toluca.
+
+G.M.S. 18 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquense las presentes reformas del Bando de Gobierno del Municipio de Toluca y del Código Reglamentario del Municipio de Toluca en la "Gaceta Municipal" y en la "Gaceta del Gobierno" del Estado, e incorpórese las mismas al ordenamiento que se divulga en el Portal Electrónico del Ayuntamiento.
+
+###### ARTÍCULO SEGUNDO.
+
+Estas modificaciones del Bando Municipal y del Código Reglamentario Municipal entrarán en vigor en el mismo día de su publicación en la "Gaceta Municipal" de Toluca.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a las nuevas normas reglamentarias.
+
+###### ARTÍCULO CUARTO.
+
+la aplicación de las disposiciones reglamentarias referentes al Instituto Municipal de Cultura Física y Deporte de Toluca estará sujeta a la vigencia de la ley que crea a dicho organismo público descentralizado.
+
+###### ARTÍCULO QUINTO.
+
+Cuando alguna dependencia o unidad administrativa pase, conforme a estas reformas reglamentarias, a otra dependencia o unidad, el traspaso se hará incluyendo, al personal a su servicio, el mobiliario, los vehículos, instrumentos, aparatos, archivos y en general los recursos que las mismas hayan venido usando para la atención de los asuntos que tuvieron encomendados conforme a las disposiciones reglamentarias que se modifican.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en estas reformas reglamentarias se dé denominación nueva o distinta a alguna dependencia o unidad administrativa cuyas funciones estén establecidas en normas jurídicas de vigencia anterior, dichas atribuciones se entenderán concedidas a la dependencia que determinen las presentes modificaciones reglamentarias.
