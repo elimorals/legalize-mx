@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2004-02-10"
+last_updated: "2009-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE AGOSTO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -322,6 +322,10 @@ XVII. Establecer las condiciones que deberán cumplirse para el cierre de estaci
 
 XVIII. Evitar el manejo y disposición de residuos de manejo especial líquidos o semisólidos, sin que hayan sido sometidos a procesos para deshidratarlos, neutralizarlos y estabilizarlos;
 
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2009)</small>
+
+XVIII BIS. Evitar que en la transportación, contención y envase de materiales, así como en el manejo de residuos sólidos se utilicen materiales no biodegradables;
+
 XIX. Evitar la disposición final de los residuos sólidos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que puedan solubilizar las sustancias potencialmente tóxicas contenidas en ellos; y
 
 XX. Los demás que establezca el Reglamento y otros ordenamientos aplicables.
@@ -329,6 +333,14 @@ XX. Los demás que establezca el Reglamento y otros ordenamientos aplicables.
 La Secretaría, la Secretaría de Obras y Servicios y las delegaciones ejecutarán, en el marco de su competencia, los contenidos del Programa de Gestión Integral de los Residuos Sólidos.
 
 Los programas de carácter metropolitano que acuerde el Gobierno del Distrito Federal considerarán las disposiciones que esta Ley establece para la gestión integral de los residuos sólidos.
+
+> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 11 Bis.
+
+Además de las facultades establecidas en el artículo 6°, la Secretaría tendrá la facultad de elaborar, difundir y aplicar un programa de sustitución de plásticos, con el fin de reducir el consumo de bolsas, envases, embalajes o empaques de plástico no biodegradable que se utilicen en establecimientos mercantiles y que se entregan para contención, transporte y envase de mercancías.
+
+De la misma manera deberá informar y fomentar la educación de los habitantes del Distrito Federal sobre el impacto negativo que producen los plásticos no biodegradables en el ambiente.
 
 ###### Artículo 12.
 
@@ -444,6 +456,10 @@ X. Tratar térmicamente los residuos sólidos recolectados, sin considerar las d
 
 XI. Diluir o mezclar residuos sólidos o industriales peligrosos en cualquier líquido y su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
 
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2009)</small>
+
+XI BIS. Otorgar a título gratuito bolsas de plástico en los establecimientos mercantiles;
+
 XII. Mezclar residuos peligrosos con residuos sólidos e industriales no peligrosos; y
 
 XIII. Confinar o depositar en sitios de disposición final residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas ambientales del Distrito Federal.
@@ -457,6 +473,22 @@ Los propietarios, directores responsables de obra, contratistas y encargados de 
 El frente de las construcciones o inmuebles en demolición deberán mantenerse en completa limpieza, quedando prohibido almacenar escombros y materiales en la vía pública.
 
 Los responsables deberán transportar los escombros en vehículos adecuados que eviten su dispersión durante el transporte a los sitios que determine la Secretaría de Obras y Servicios.
+
+> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 26 Bis.
+
+Los establecimientos mercantiles no podrán otorgar a título gratuito para la transportación, contención y envase de los productos y/o servicios que presten ó comercialicen bolsas de plástico.
+
+> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2009)</small>
+
+###### Artículo 26 Bis 1.
+
+Los establecimientos mercantiles, productores, prestadores de servicios y comerciantes podrán utilizar materiales de plástico únicamente en los casos que por cuestiones de asepsia o conservación de alimentos o insumos no resulte factible el uso de tecnologías biodegradables como sustitutos.
+
+La utilización de bolsas de plástico sólo será permitida en caso de que sean creadas bajo procedimientos tecnológicos que les den la cualidad de biodegradables.
+
+El reglamento y las normas que en su caso emita la Secretaría, determinarán los estándares tecnológicos que las bolsas de plástico deberán cumplir para contar con la característica de biodegradables.
 
 ### CAPÍTULO III. DE LA CLASIFICACIÓN DE LOS RESIDUOS SÓLIDOS
 
@@ -917,3 +949,21 @@ G.O. 10 DE FEBRERO DE 2004.
 Primero.- El presente Decreto entrará en vigor el día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 Segundo.- Túrnese al jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y publíquese también en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 18 DE AGOSTO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Las sanciones por la violación a disposiciones del presente decreto se aplicarán a los doce meses siguientes de su entrada en vigor.
+
+TERCERO. El programa de sustitución de plástico a que hace referencia el presente decreto deberá crearse con la participación de la comunidad científica y académica a través del Instituto de Ciencia y Tecnología, el sector productivo, asociaciones civiles y organismos representativos en un término máximo de seis meses contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO. La Asamblea Legislativa del Distrito Federal deberá implementar una campaña permanente para dar a conocer a la ciudadanía en general, los derechos y obligaciones que se derivan por la entrada en vigor del presente decreto. Para tal fin, se deberá prever en el Presupuesto de Egresos una partida suficiente para poder llevar a cabo acciones de promoción y publicidad en medios electrónicos e impresos.
+
+QUINTO. El Gobierno del Distrito Federal a través de la Secretaría del Medio Ambiente y de Desarrollo Económico ambas del Distrito Federal, deberán implementar un programa de apoyos a efecto de que las empresas que actualmente producen las bolsas y empaques de plástico, puedan adecuar las tecnologías que tienen a efecto de atender las demandas ambientales y legales implementadas en la presente reforma.
+
+SEXTO. El Gobierno del Distrito Federal y las Delegaciones efectuarán una campaña de difusión del presente decreto.
+
+SÉPTIMO. El Jefe de Gobierno del Distrito Federal deberá actualizar las disposiciones reglamentarias a más tardar noventa días después de la entrada en vigor del presente decreto.
+
+OCTAVO. El Instituto de Ciencia y Tecnología del Distrito Federal instrumentará un programa de asesoramiento al sector productivo para el desarrollo de materiales sustitutos del plástico a más tardar en 120 días de la entrada en vigor del presente decreto.
