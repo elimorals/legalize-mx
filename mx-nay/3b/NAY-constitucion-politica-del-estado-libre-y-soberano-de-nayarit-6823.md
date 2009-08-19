@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2009-06-06"
+last_updated: "2009-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1139,11 +1139,11 @@ Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se
 
 El Gobernador, en el ejercicio de sus funciones constitucionales, podrá dar a conocer sus resoluciones a través de los Secretarios del Despacho, cuando así lo estime pertinente o lo disponga la ley.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
 
 ###### Art. 74.
 
-Para ser Secretario General de Gobierno o Secretario del Despacho, se requiere: Ser mexicano por nacimiento, originario del Estado o vecino de él, en pleno goce de sus derechos, mayor de treinta años de edad, no ser militar en servicio activo, ni ministro de algún culto religioso.
+Para ser Secretario General de Gobierno o Secretario del Despacho se requiere: ser ciudadano mexicano por nacimiento, originario del estado o vecino de él, en pleno goce de sus derechos, mayor de veinticinco años de edad, no ser militar en servicio activo, ni ministro de algún culto religioso y preferentemente contar con título profesional.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
@@ -2860,3 +2860,11 @@ P.O. 6 DE JUNIO DE 2009.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los ayuntamientos de la entidad.
+
+P.O. 19 DE AGOSTO DE 2009.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Artículo Tercero.- Remítase la presente Minuta con Proyecto de Decreto a los Honorables Ayuntamientos Constitucionales del Estado de Nayarit, para los efectos establecidos en el artículo 131 de la Constitución Política del Estado de Nayarit.
