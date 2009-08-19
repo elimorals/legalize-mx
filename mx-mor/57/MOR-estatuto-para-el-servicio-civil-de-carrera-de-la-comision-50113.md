@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-para-el-servicio-civil-de-carrera-de-la-comision-50113
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-04-12"
-last_updated: "2006-04-12"
+last_updated: "2009-08-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MOR"
 
 ESTATUTO PARA EL SERVICIO CIVIL DE CARRERA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ESTATUTO PARA EL SERVICIO PROFESIONAL DE CARRERA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 2006.
 
@@ -127,3 +129,11 @@ MAP. JOSÉ FAUSTO GUTIÉRREZ ARAGÓN
 ING. JUAN CARLOS GILES BUENO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+P.O. 19 DE AGOSTO DE 2009.
+
+PRIMERO.- Queda sin efectos el Estatuto para el Servicio de Civil de Carrera de la Comisión Estatal de Derechos Humanos de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4451 de 12 de abril de 2006.
+
+SEGUNDO.- El presente Estatuto para el Servicio Profesional de la Comisión de Derechos Humanos del Estado de Morelos entrará en vigor al día siguiente de su publicación en el órgano informativo Periódico Oficial "Tierra y Libertad".
