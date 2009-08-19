@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-57826
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-22"
-last_updated: "2007-11-22"
+last_updated: "2009-08-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO, PUBLICADO EN LA G.G. DE 19 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO SE DEJA SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 22 de noviembre de 2007.
 
@@ -406,3 +408,17 @@ O.F.S. Guillermina Martínez García
 Subdirector Académico y Vocal del Comité
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 19 DE AGOSTO DE 2009.
+
+Primero.- Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno.
+
+Segundo.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+Tercero.- El Director del Organismo deberá constituir el COCOE, en los términos del presente Reglamento, dentro de los 30 días siguientes a su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+Cuarto.- Se deja sin efectos el Reglamento Interno del Comité de Control y Evaluación del Tecnológico de Estudios Superiores de Valle de Bravo, publicado en fecha 22 de noviembre de 2007, así como las demás disposiciones de igual o menor jerarquía que se opongan al presente.
+
+Quinto.- La interpretación del presente Reglamento y lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría del Gobierno del Estado de México.
