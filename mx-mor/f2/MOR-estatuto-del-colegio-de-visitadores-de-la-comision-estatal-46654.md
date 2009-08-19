@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-del-colegio-de-visitadores-de-la-comision-estatal-4665
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-10-19"
-last_updated: "2005-10-19"
+last_updated: "2009-08-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 ESTATUTO DEL COLEGIO DE VISITADORES DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ESTATUTO PARA EL COLEGIO DE VISITADORAS Y VISITADORES DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2009., EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Publicado en el Periódico Oficial del Estado de Morelos, el miércoles 19 de octubre de 2005.
 
@@ -106,3 +108,11 @@ MAP. JOSÉ FAUSTO GUTIÉRREZ ARAGÓN
 ING. JUAN CARLOS GILES BUENO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+P.O. 19 DE AGOSTO DE 2009.
+
+PRIMERO.- Queda sin efectos el Estatuto del Colegio de Visitadores de la Comisión Estatal de Derechos Humanos de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4419 de 19 de octubre de 2006.
+
+SEGUNDO.- El presente Estatuto para el Colegio de Visitadoras y Visitadores de la Comisión de Derechos Humanos del Estado de Morelos entrará en vigor al día siguiente de su publicación en el órgano informativo Periódico Oficial "Tierra y Libertad".
