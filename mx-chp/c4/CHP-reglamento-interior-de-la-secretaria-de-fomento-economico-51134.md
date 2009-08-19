@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-fomento-economico-51134
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-21"
-last_updated: "2007-01-03"
+last_updated: "2009-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 21 de junio de 2006.
 
@@ -1038,3 +1040,17 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 Artículo Tercero.- Las Secretarías de Administración, de Finanzas y de Planeación y Desarrollo Sustentable, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que sean necesarias para la adecuación de la estructura funcional del Servicio Estatal de Empleo y de sus proyectos de inversión.
 
 Artículo Cuarto.- En cumplimiento al artículo 8°, de la Ley Orgánica de la Administración Publica del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2009.
+
+Artículo Primero.- El presente reglamento interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Fomento Económico, reformado mediante decreto publicado en el Periódico Oficial del Estado, No. 006 publicación No. 014-A-2007 Ter, del miércoles 03 de enero de 2007, así también, se derogan todas las disposiciones que tengan similar o menor jerarquía que este Reglamento y se opongan al mismo.
+
+Artículo Tercero.- En los casos no previstos en el Reglamento Interior y en los que se presente controversia en cuanto a su aplicación y observancia, el Secretario, resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento, respecto a las Delegaciones, Departamentos y Áreas, y demás actividades del personal, se estará a lo dispuesto por el Manual de Organización y Procedimientos de la Secretaría.
+
+Artículo Quinto.- En tanto se actualizan los Manuales Administrativos respectivos, el Secretario resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el Reglamento Interior en el Periódico Oficial.
