@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interno-de-la-comision-de-los-derechos-humanos-49104
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-01"
-last_updated: "2006-02-01"
+last_updated: "2009-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERNO DE LA COMISION DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 1 de febrero de 2006.
 
@@ -309,49 +309,83 @@ Con las excepciones establecidas en la Ley, corresponde al Presidente de la Comi
 
 ### Capítulo IV. De la Contraloría Interna
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 41.
 
-La Contraloría Interna de la Comisión estará a cargo, de un Contratar que será nombrado por el Consejo General a propuesta del Presidente de la Comisión y que reúna los requisitos establecidos en el artículo 36, de la Ley.
+La Comisión de los Derechos Humanos contará con un órgano interno de Control denominado Contraloría Interna, el cual estará a cargo de un titular nombrado por el Consejo General a propuesta del Presidente de la Comisión y que reúna los requisitos establecidos en el artículo 36 de la Ley, asimismo, podrá contar con el personal profesional, técnico y administrativo necesario de conformidad con el presupuesto autorizado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 42.
 
-Las atribuciones del Contralor Interno, serán las establecidas en la Ley, además de las siguientes:
+Las atribuciones de la Contraloría Interna, serán las establecidas en la Ley, que para el cumplimiento de esta, deberá:
 
 I.- Vigilar el cumplimiento de los manuales administrativos, de organización, procedimientos y servicios, de las normas de control, fiscalización y evaluación, así como de los sistemas y bases de datos de los órganos de la Comisión;
 
-II.- Llevar un estricto control del mobiliario, equipo y bienes al servicio de la Comisión;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+II. Verificar la implementación y cumplimiento de un sistema de control interno en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros.
 
 III.- Recibir, registrar y custodiar las declaraciones de situación patrimonial que deberán presentar el personal de la Comisión, atendiendo lo dispuesto en la legislación aplicable;
 
 IV.- Vigilar que las erogaciones se ajusten al presupuesto de egresos autorizado y se ejerza de acuerdo a la normatividad vigente;
 
-V.- Realizar auditorías de desempeño a los órganos y unidades administrativas de la Comisión, atendiendo los indicadores que se establezcan en el Plan anual de trabajo y los Programas que se autoricen;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
 
-VI.- Establecer los criterios que regirán para la contratación de auditores externos y dar cumplimiento y seguimiento a las observaciones que formulen los auditores y el Órgano Superior de Fiscalización;
+V. Realizar auditorias de desempeño a los órganos y unidades administrativas de la Comisión, atendiendo los indicadores que se autoricen, deriven y en su caso, instaurar los procedimientos administrativos como resultado de dichas auditorías.
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VI. Establecer los criterios que regirán para la contratación de auditores externos y dar seguimiento al cumplimiento de las observaciones que formulen los auditores y el Órgano Superior de Fiscalización.
 
 VII.- Recibir y tramitar las quejas relacionadas con los trabajadores de la Comisión, practicar investigaciones sobre sus actos, instruir los procedimientos y en su caso fincarles la responsabilidad a que haya lugar;
 
-VIII.- Las demás que le asigne el Presidente de la Comisión y que sean acordadas por el Consejo General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2009)</small>
+
+VIII. Intervenir conjuntamente con la Unidad de Asuntos Jurídicos en los actos de entrega-recepción de los servidores públicos de mandos medios y superiores de la Comisión de los Derechos Humanos, con motivo de la separación del cargo, a fin de verificar que se cumpla con la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+IX. Certificar documentos necesarios para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+X. Establecer procedimientos para la constitución del patrimonio que mediante aportaciones en efectivo o en especie hagan las instituciones u organismos públicos, privados o sociales, municipales, nacionales o extranjeros, y/o particulares; que tengan la calidad de donativos.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE AGOSTO DE 2009)</small>
+
+XI. Las demás que le asigne el Presidente de la Comisión y que sean acordadas por el Consejo General.
 
 ### Capítulo V. De la Secretaría Técnica
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 43.
 
-El Secretario Técnico del Consejo General tendrá las siguientes atribuciones:
+La Secretaría Técnica del Consejo General, tendrá las siguientes atribuciones:
 
 A.- Respecto del Consejo:
 
-I. Remitir a los Consejeros, el citatorio, la orden del día y los materiales para las sesiones;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+I. Remitir a los Consejeros, la convocatoria que contenga la orden del día, lugar y fecha de la sesión de consejo ordinaria o extraordinaria a celebrarse, y los materiales para las sesiones;
 
 II. Brindar a los Consejeros el apoyo necesario para el cumplimiento de sus responsabilidades;
 
-III. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que se celebren;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
 
-IV. Formalizar las actas de cada sesión.
+III. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que se celebren al Presidente del Consejo y Consejeros para su aprobación correspondiente;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+IV. Formalizar las actas de cada sesión, mismas que deberán ser aprobadas la sesión ordinaria o extraordinaria próxima a celebrarse;
 
 B.- En cuanto a la Comisión:
 
-I. Supervisar el material que se publique, incluyendo las gacetas e informes especiales o anuales según sea el caso;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+I. Supervisar el material que se publique, incluyendo las gacetas e informes especiales o anuales según sea el caso en conjunto con la Dirección de Divulgación;
 
 II. Promover la comercialización o el control de publicaciones que se relacionen con la materia.
 
@@ -383,15 +417,17 @@ V.- Atender las consultas sobre el estado de algún expediente de queja que soli
 
 VI.- Llevar el control de la base de datos de servidores públicos sancionados como consecuencia de los documentos emitidos por la Comisión;
 
-VII.- Comunicar a las áreas sustantivas la vigencia o modificación de disposiciones legales municipales, estatales, nacionales e internacionales relacionadas con la materia de derechos humanos;
+VII.- (DEROGADA, P.O. 19 DE AGOSTO DE 2009)
 
 VIII.- Las demás que le sean conferidas mediante acuerdo del Consejo General.
 
 ### Capítulo VII. De la Coordinación General
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 46.
 
-La Coordinación General tendrá las siguientes funciones:
+La Coordinación General, para el cumplimiento de sus funciones deberá:
 
 l. Recibir de la Dirección de Orientación, Quejas y Gestoría, las quejas por presuntas violaciones a Derechos Humanos que se presenten directamente en las oficinas de la Comisión o que lleguen por correspondencia, y turnarlas en el estricto orden que les corresponda, a los Visitadores Generales;
 
@@ -409,7 +445,7 @@ VII.- Vigilar que sea distribuida con toda oportunidad la correspondencia relaci
 
 VIII.- Conocer la conclusión de las orientaciones canalizadas a las diferentes instancias;
 
-IX.- Coordinar las actividades de los peritos;
+IX. (DEROGADA, P.O. 19 DE AGOSTO DE 2009)
 
 X.- Las demás que le encomiende el Presidente de la Comisión.
 
@@ -471,9 +507,11 @@ IX.- Las demás que le sean encomendadas por el Presidente de la Comisión o por
 
 #### Sección II. De la Dirección de Orientación, Quejas y Gestoría
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 52.
 
-La Dirección de Orientación, Quejas y Gestoría dependerá de la Coordinación General y tendrá las siguientes funciones:
+La Dirección de Orientación, Quejas y Gestoría dependerá de la Coordinación General y para el cumplimiento de sus funciones deberá:
 
 I.- Realizar las labores de orientación al público cuando de la queja que directamente se presente, se desprenda que no se trata de violaciones a Derechos Humanos. La orientación deberá realizarse de modo tal, que a la persona atendida se le explique la naturaleza de su problema y las posibles formas de solución, y se le proporcionen los datos del funcionario público ante quien puede acudir, así como el domicilio y, en su caso, teléfono de este último, presentándolo por medio de oficio y acompañándolo ante la autoridad que deba atenderla, cuando las circunstancias lo requieran;
 
@@ -493,7 +531,9 @@ VIII.- Administrar el archivo general de la Comisión en cuanto a los expediente
 
 IX.- Realizar las primeras investigaciones en los casos que deba darse el tratamiento de gestoría y una vez reunida las evidencias, turnarlo a Coordinación General para acordar si se admite, brindándose la atención como queja o se realiza orientación jurídica.
 
-X.- Las demás que le encomiende el Presidente de la Comisión.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+X. Las demás que le encomiende el Presidente de la Comisión y el Coordinador General.
 
 Para el cumplimiento de sus funciones la Dirección de Orientación, Quejas y Gestoría, contará con:
 
@@ -501,11 +541,15 @@ a) Un Departamento de Orientación y Gestoría.
 
 b) Un Departamento de Quejas.
 
-#### Sección III. De la Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos emitidos por la Comisión
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE AGOSTO DE 2009)</small>
+
+#### Sección III. De la Dirección de Seguimiento
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 53.
 
-La Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos emitidos por la Comisión, dependerá de la Coordinación General y tendrá las siguientes funciones:
+La Dirección de Seguimiento, dependerá de la Coordinación General y para el cumplimiento de sus funciones deberá:
 
 I.- Operar y administrar el banco de datos en el que se registre la queja desde que se pronuncia la Comisión hasta la conclusión del expediente de cada caso;
 
@@ -539,7 +583,9 @@ V.- Elaborar un informe dirigido a los quejosos comunicándoles el cumplimiento 
 
 VI.- Preparar y entregar al Coordinador General, los proyectos de informes que el Presidente de la Comisión deba enviar a las autoridades;
 
-VII.- Las demás que le sean conferidas por la Presidencia.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VII.- Las demás que le sean conferidas por el Presidente de la Comisión y el Coordinador General.
 
 ### Capítulo VIII. De la Dirección de Planeación, Administración y Finanzas
 
@@ -581,29 +627,47 @@ VI.- Las demás que le sean conferidas.
 
 ### Capítulo X. Dirección de Asuntos Jurídicos
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 56.
 
-La Dirección de Asuntos Jurídicos, tendrá las siguientes atribuciones:
+La Dirección de Asuntos Jurídicos, para el cumplimiento de sus funciones deberá:
 
-I.- Formular ante la institución competente, las denuncias y querellas que procedan; otorgar el perdón, solicitar el desistimiento cuando proceda y acudir ante cualquier autoridad en defensa de los intereses de la Comisión;
+I. Aplicar las políticas, normas y procedimientos que en materia jurídica sean d (sic) la competencia de la Comisión de los Derechos Humanos;
 
-II.- Promover las demandas y representar a la Comisión en todo tipo de procedimientos, esto es, judicial, administrativo o laboral;
+II. Asesorar jurídicamente a las Direcciones que integran la Comisión de los Derechos Humanos en el ámbito de sus facultades, actuando como órgano de consulta;
 
-III.- Proporcionar la asesoría jurídica necesaria a las unidades y órganos que integran la Comisión;
+III. Representar legalmente a la Comisión de los Derechos Humanos ante las autoridades administrativas, judiciales o laborales, en todos los asuntos que se tenga interés jurídico;
 
-IV.- Formular las bases y revisar los términos en que pueden aprobarse los convenios de colaboración y contratos a celebrar por la Comisión, atendiendo los requerimientos de los órganos respectivos y las disposiciones legales relativos a los derechos y obligaciones patrimoniales de la Comisión;
+IV. Revisar y formular anteproyectos de iniciativas de leyes, Reglamentos, Decretos, y Acuerdos que competan a la Comisión;
 
-V.- Hacer valer toda clase de derechos, excepciones y defensas en cualquier procedimiento, ante los Tribunales;
+V. Realizar y formular las bases y requisitos legales a que deban ajustarse los Contratos, Convenios, Concesiones, Autorizaciones y permisos que realice o expida la Comisión;
 
-VI.- Las demás que le sean encomendadas por el Presidente o mediante acuerdo por el Consejo General.
+VI. Autorizar y certificar copias de documentos y constancias que obren en los archivos de la Comisión;
+
+VII. Proporcionar asesoria jurídica a los ciudadanos nacionales y extranjeros con el fin de que acuda (sic) a las instancias correspondientes en caso de que hayan sido objeto de algún delito;
+
+VIII. Formular los informes en los juicios de Amparo en los que el Presidente de la Comisión sea señalado como autoridad responsable y cualquier otro que le sea requerido por autoridad competente;
+
+IX. Gestionar ante las autoridades hacendarías el permiso para otorgar comprobantes que puedan deducirse, cuando reciba aportaciones, vía donativos, que provengan de los sectores social y privado a fin de impulsar su participación y que se destinen a la promoción y protección de los Derechos Humanos.
+
+X. Formular el proyecto de resolución de los Recursos Administrativos competencia de la Comisión, así como los que se interpongan a las resoluciones que dicta la misma;
+
+XI. Enviar a la Secretaría de Gobierno para su publicación en el Periódico Oficial del Estado, los asuntos de interés de la Comisión;
+
+XII. Las demás que en el ámbito de su competencia le asigne el Presidente de la Comisión.
 
 ### Capítulo XI. Dirección de Capacitación, Legislación y Documentación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 57.
 
-La Dirección de Capacitación, Legislación y Documentación, tendrá las siguientes atribuciones:
+La Dirección de Capacitación, Legislación y Documentación, para el cumplimiento de sus funciones deberá:
 
-I.- Promover la capacitación dirigida al personal de la Comisión y fomentar la cultura de respeto a los derechos humanos, mediante actividades dirigidas a toda la población;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+I. Promover que el personal de la Comisión, tenga capacitación constante a efecto de que mediante diversas actividades dirigidas a toda la población fomente la cultura de respeto a los derechos humanos;
 
 II.- Organizar actividades tendientes a brindar capacitación a servidores públicos para impulsar que en el ejercicio de la función pública se anteponga el respeto a las libertades fundamentales;
 
@@ -611,17 +675,33 @@ III.- Promover los valores y la cultura de respecto a los derechos humanos en la
 
 IV.- Organizar y mantener actualizado un archivo de disposiciones legales para consulta de los servidores públicos de la Comisión y de la población interesada en el tema de los derechos humanos;
 
-V.- Colocar en la página web de la Comisión las disposiciones legales locales y municipales, así como los instrumentos internacionales en materia de derechos humanos, para promover su observancia y cumplimiento;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
 
-VI.- Fortalecer el acervo documental del organismo con temas relacionados con los derechos humanos, mismo que deberá estar disponible para el personal del organismo y el público en general;
+V. Actualizar en coordinación con la Dirección de Sistematización, la página Web con las disposiciones legales locales y municipales, así como los instrumentos Internacionales en materia de Derechos Humanos, con la finalidad de promover su observancia y cumplimiento;
 
-VII.- Las demás que le asigne el Presidente o el Consejo General.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VI. Fortalecer con temas de derechos humanos el acervo documental de la biblioteca de este organismo, el cual deberá estar disponible al personal de la comisión y al público en general;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VII. Asistir a los programas de Radio y TV en las que este organismo participe difundiendo la cultura y el respeto a los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VIII. Comunicar a las Áreas sustantivas la vigencia o modificación de disposiciones legales municipales, estatales, nacionales e internacionales, relacionadas con la materia de derechos humanos;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+IX. Las demás que le asigne el Presidente o el Consejo General.
 
 ### Capítulo XII. Dirección de Atención a Víctimas de Violaciones a Derechos Humanos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 58.
 
-La Dirección de Atención a Víctimas de Violaciones a Derechos Humanos, tendrá las siguientes atribuciones:
+La Dirección de Atención a Víctimas de Violaciones a Derechos Humanos, para el cumplimiento de sus funciones deberá:
 
 I.- Formular programas tendientes a brindar atención integral a víctimas de violaciones a Derechos Humanos;
 
@@ -633,13 +713,21 @@ IV.- Establecer coordinación con instituciones de asistencia privada que tengan
 
 V.- Realizar estudios en instrumentos internacionales sobre la protección a víctimas y proponer las adecuaciones en la legislación local;
 
-VI.- Las demás que le encomiende el Presidente del Organismo o el Consejo General.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VI. Integrar debidamente los expedientes de las víctimas y en cuanto sean cubiertos los requerimientos de atención se deberá realizar el acuerdo de conclusión correspondiente.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VII. Las demás que le encomiende el Presidente del Organismo o el Consejo General.
 
 ### Capítulo XIII. Dirección de Sistematización de la Información
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 59.
 
-La Dirección de Sistematización de la Información, tendrá las siguientes funciones:
+La Dirección de Sistematización de la Información, para el cumplimiento de sus funciones deberá:
 
 I.- Elaborar programas de informática para sistematizar las actividades de las diferentes áreas de trabajo, de acuerdo a las necesidades de las mismas;
 
@@ -653,25 +741,65 @@ V.- Proporcionar reporte, gráficas y estadísticas a la Presidencia de la Comis
 
 VI.- Apoyar a la Dirección de Planeación, Administración y Finanzas, en el manejo de la información contable y nóminas, a través de sistemas computarizados;
 
-VII.- Apoyar al área de Comunicación Social en el procesamiento de la información que sea requerida por ésta y a todos los órganos y unidades administrativas que lo requieran;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VII. Apoyar a la Dirección de Divulgación, en el procesamiento de la información que sea requerida por ésta y a todos los órganos y unidades administrativas que lo requieran;
 
 VIII.- Las demás que le sean conferidas.
 
 ### Capítulo XIV. Dirección de Divulgación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 60.
 
-La Dirección de Divulgación, tendrá las siguientes funciones:
+La Dirección de Divulgación, para el cumplimiento de sus funciones deberá:
 
 I.- Proponer al Presidente de la Comisión los criterios que deban seguirse para la divulgación de los contenidos sobre la promoción y protección de los derechos humanos;
 
-II.- Elaborar material documental para dar a conocer a la sociedad, las funciones y actividades de la Comisión;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
 
-III.- Coordinarse con los representantes de los medios de comunicación, para difundir las acciones que organice y lleve a cabo la Comisión;
+II. Elaborar material documental como Gaceta trimestral, folletos, carteles y posters, para dar a conocer a la sociedad las funciones y actividades de la Comisión;
 
-IV.- Organizar las entrevistas y reuniones a que convoque el Presidente con los medios de comunicación, así como en el que participen los demás funcionarios de la Comisión;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
 
-V.- Las demás que le sean encomendadas.
+III. Coordinar y organizar las actividades que se realicen con los medios de comunicación, para difundir las acciones que organice y lleve a cabo la Comisión;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+IV. Elaborar boletines de prensa de las acciones que realiza la Comisión como información oficial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2009)</small>
+
+V. Programar actividades de difusión como stand en ferias regionales e informativas, además de colaborar con otras dependencias e instituciones con módulos informativos;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VI. Buscar espacios disponibles para la instalación de publicidad de la Comisión en escuelas, dependencias, espacios públicos y privados;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VII. Realizar el monitoreo de radio, televisión y prensa escrita para conocer información que sea de interés a la Comisión, además de la elaboración de una síntesis informativa;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+VIII. Programar campañas de difusión de los derechos humanos en radio, televisión y medios impresos, además de elaborar artículos publicitarios para promocionar los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+IX. Llevar a cabo entrevistas en rueda de prensa con los funcionarios de la Comisión y personalidades de distintos organismos o instituciones;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+X. Realizar la cobertura de las firmas de convenios y demás actividades públicas con los funcionarios de la Comisión;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+XI. Mantener actualizada la información de la página Web, con todas las actividades que realice esta Dirección; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE AGOSTO DE 2009)</small>
+
+XII. Las demás que le sean encomendadas.
 
 ### Capítulo XV. Secretaría Particular de la Presidencia
 
@@ -1005,7 +1133,9 @@ En caso de incumplimiento injustificado de una propuesta conciliatoria, el Visit
 
 El Visitador a quien corresponda el conocimiento de una queja susceptible de ser solucionada por la vía conciliatoria, inmediatamente dará aviso al quejoso o agraviado de esta circunstancia, aclarándole en que consiste el procedimiento y sus ventajas. Asimismo, el Visitador mantendrá informado al quejoso o agraviado del avance del trámite conciliatorio hasta su total conclusión.
 
-A todo expediente concluido por medio de conciliación se le deberá dar seguimiento durante noventa días, con excepción de aquellos casos en los que exista una solicitud de ampliación de término por parte de la autoridad, por las particularidades del mismo para su cumplimiento total.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+Será la Dirección de Seguimiento quien mantendrá informado al quejoso o agraviado del avance del trámite conciliatorio hasta su total conclusión.
 
 ###### Artículo 115.
 
@@ -1047,9 +1177,15 @@ V.- Recomendaciones específicas, que son las acciones que se solicitan a la aut
 
 Una vez que la Recomendación haya sido suscrita por el Presidente, se notificará de inmediato a la autoridad o servidor público a la que vaya dirigida, a fin de que el destinatario tome las medidas necesarias para su cumplimiento, para tal efecto se anexará un ejemplar en original de la recomendación. La notificación al quejoso o agraviado se hará mediante un oficio en el que se mencione únicamente una síntesis de los puntos recomendados.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 122.
 
-Las Recomendaciones se divulgarán en los medios de comunicación ya sea de manera íntegra o sintetizada, solamente cuando no sean aceptadas por los servidores públicos a quienes va dirigida.
+Las Recomendaciones se darán a conocer a la opinión pública después de su notificación. Cuando las acciones solicitadas en la recomendación no requieran de discreción para su cabal cumplimiento, se podrán dar a conocer de inmediato a los medios de comunicación.
+
+Las recomendaciones serán dadas a conocer a la opinión pública mediante su publicación en la Gaceta, un boletín de prensa y en la página en Internet de la Comisión, así como mediante las acciones que la Dirección de Divulgación acuerde con el Presidente.
+
+La Coordinación General remitirá a la Dirección de Divulgación copia del oficio de notificación y del texto de la recomendación. Los boletines de prensa, preferentemente, no deberán incluir nombres de agraviados ni de los servidores públicos involucrados en la violación a derechos humanos, a fin de respetar el honor y el buen nombre de las personas.
 
 ###### Artículo 123.
 
@@ -1123,7 +1259,9 @@ VII.- Por acuerdo de acumulación de expedientes;
 
 VIII.- Por haberse solucionado la queja durante el trámite;
 
-IX.- Por haberse emitido Propuesta Conciliatoria;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+IX. Por haberse emitido y aceptado la Propuesta Conciliatoria;
 
 X.- Por no existir materia para seguir conociendo del expediente de queja.
 
@@ -1290,3 +1428,15 @@ Certifica
 Que las firmas que anteceden son auténticas y se encuentran registradas en el libro de reconocimiento de firmas y validan formalmente la certeza del texto consignado en el presente "Reglamento Interno de la Comisión de los Derechos Humanos".
 
 Tuxtla Gutiérrez, Chiapas; a los nueve días del mes de enero del año dos mil seis.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2009.
+
+Artículo Primero.- El presente Acuerdo, entrará en vigor a partir de su aprobación por el Consejo General de la Comisión de los Derechos Humanos.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Acuerdo.
+
+Artículo Tercero.- El Ejecutivo dispondrá se publique en el Periódico Oficial del Estado y el Consejo General de la Comisión de los Derechos Humanos, le dé amplia difusión para los efectos correspondientes.
+
+Artículo Cuarto.- Cúmplase.
