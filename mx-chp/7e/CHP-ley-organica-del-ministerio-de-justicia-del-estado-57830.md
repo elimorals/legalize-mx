@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-ministerio-de-justicia-del-estado-57830"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-24"
-last_updated: "2007-10-24"
+last_updated: "2009-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DEL MINISTERIO DE JUSTICIA DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO, PUBLICADA EN EL P.O. DE 19 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 24 de octubre de 2007.
 
@@ -2558,3 +2560,27 @@ Dado en el salón de Sesiones del Honorable del Congreso del Estado de Chiapas, 
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veinte días del mes de noviembre del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE AGOSTO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales posteriores a su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley Orgánica del Ministerio de Justicia del Estado, publicada mediante Decreto número 308 del Periódico Oficial, de fecha 24 de octubre de 2007, así como todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Procurador, dentro de un término de treinta días naturales contados a partir de la publicación de la presente Ley, deberá someter a consideración del Titular del Poder Ejecutivo del Estado, el proyecto de Reglamento de esta Ley para su aprobación, expedición, publicación y circulación correspondiente.
+
+Artículo Cuarto.- Los elementos de la Policía Especializada y demás personal que se encuentren laborando en ella, se someterán a las disposiciones del servicio de carrera policial que precisa la presente Ley.
+
+Artículo Quinto.- Los miembros de la Policía Especializada, que en el término de tres años a la entrada en vigor de la presente Ley, no cumplan con el perfil requerido para formar parte del Buró Ministerial de Investigación, podrán formar parte de la Policía de Apoyo Ministerial, siempre y cuando cumplan con el perfil y requisitos señalados en la presente Ley.
+
+Artículo Sexto.- En tanto se expide el Reglamento de esta Ley, las Fiscalías Especializadas y Especiales creadas por Acuerdo del Ejecutivo, aplicarán el mismo en todo aquello que no se oponga a las disposiciones de la presente Ley. Una vez publicado el Reglamento referido, quedarán abrogados dichos Acuerdos.
+
+Las fiscalías creadas por Acuerdo del Ejecutivo, subsistirán a través de la presente Ley, mismas que le establecerá sus atribuciones generales.
+
+Artículo Séptimo.- Los recursos humanos, materiales y financieros que actualmente se encuentren asignados a las Fiscalías Especializadas en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y aquellos cometidos en el Poblado de Acteal; en Delitos Cometidos contra Inmigrantes; para la Atención de los Delitos Ambientales; y en la Protección de los Organismos No Gubernamentales para la Defensa de los Derechos Humanos; así como los de la Fiscalía Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia, pasarán a formar parte de la Procuraduría General de Justicia del Estado, quien los reasignará a éstas como corresponda.
+
+Artículo Octavo.- El Titular del Poder Ejecutivo del Estado, expedirá el Reglamento de esta Ley.
+
+Artículo Noveno.- Se derogan todas las disposiciones que se opongan a la presente Ley, con las salvedades previstas en la misma.
