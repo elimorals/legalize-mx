@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-transparencia-y-acceso-a-la-informacion-61268"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-27"
-last_updated: "2008-02-27"
+last_updated: "2009-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE LA COMISION DE LOS DERECHOS HUMANOS DE CHIAPAS
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE LA COMISION DE LOS DERECHOS HUMANOS DE CHIAPAS
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LA COMISIÓN DE LOS DERECHOS HUMANOS DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de febrero de 2008.
 
@@ -431,6 +431,128 @@ Si el recurrente no diere cumplimiento a lo dispuesto en el párrafo anterior, s
 
 Cuando por alguna circunstancia el Recurso se presente indebidamente ante el Instituto u otra instancia que no sea competente, el personal de estos deberá orientar al recurrente para que lo presente ante la Unidad de Acceso que corresponda. Lo anterior no interrumpirá el término a que se refiere en la Ley.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2009)</small>
+
+## Título X
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2009)</small>
+
+### Capítulo I. De la Reproducción de Información y/o envío Sin Costo
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+###### Artículo 40.
+
+La consulta de la información pública será gratuita, salvo las excepciones establecidas en la Ley, pudiendo acceder a dicha información, de manera gratuita toda persona que la solicite en las siguientes modalidades:
+
+I.- Por escrito;
+
+II.- Mediante consulta física;
+
+III.- Mediante consulta al portal Internet de la Comisión;
+
+Tratándose de la entrega o corrección de datos personales, en un medio magnético que genere costos de reproducción o envío, se sujetará al procedimiento de cobro para las solicitudes de acceso a la información prevista en este título.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2009)</small>
+
+### Capítulo II. De la Reproducción de Información y/o envío Con Costo
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+###### Artículo 41.
+
+Los costos para obtener la información, es un formato que implique un gasto específico, no podrán ser superiores al costo de los materiales utilizados en la reproducción de la misma y al costo del envío.
+
+En este sentido implicará costo de la reproducción y/o envío de la información en las siguientes modalidades:
+
+I.- Copias simples.
+
+II.- Copias certificadas.
+
+III.- En medio magnético, óptico o electrónico: CD, DVD, diskette, audio casete, video casete, USB, o cualquier otro mecanismo de almacenamiento de información en forma digital, proporcionado por la Comisión.
+
+IV.- Envío de la información a través de servicio de mensajería.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+###### Artículo 42.
+
+Para la recuperación de los costos de los materiales utilizados en el proceso de respuesta a las solicitudes de acceso a la información, se procederá conforme lo previsto en la fracción VI, del artículo 4°, de la Ley que Garantiza la Transparencia y el Derecho a la Información, Pública para el Estado de Chiapas, por lo que la reproducción y/o envío correrá a cargo del solicitante en los siguiente (sic) términos:
+
+CONCEPTO COSTO
+
+I.- Copia simple, por hoja. $ 01.00
+
+II.- Expedición de copia impresa a color, por hoja. $ 05.00
+
+III.- Fotografía o impresión de documento, por $ 10.00
+
+hoja.
+
+IV.- Medios magnéticos por unidad:
+
+a) Disco compacto (CD o DVD) $ 12.00
+
+b) Disco de 3/2 $ 06.00
+
+c) Audio casete $ 10.00
+
+d) Video casete $ 32.00
+
+V.- Derecho por certificación de documentos 6.0 S.M.D.V.E.
+
+expedidos por la Comisión hasta 20 hojas.
+
+a) Por hoja adicional. $ 05.00
+
+VI.- Envío por correo mensajería a través del Tarifa establecida por el
+
+servicio que el solicitante decida o del Servicio prestador de servicio.
+
+Postal Mexicano.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+###### Artículo 43.
+
+Los solicitantes que proporcionen el material en el que se reproducirá la información pública, quedarán exentos del pago previsto en el artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+###### Artículo 44.
+
+Salvo en el caso de las copias certificadas, los costos referidos en el artículo 42 de este Reglamento, no podrán rebasar el de los materiales utilizados para la reproducción de la información.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+###### Artículo 45.
+
+El envío de la información solicitada, podrá realizarse por correo certificado o mensajería a través del servicio que el solicitante decida o del Servicio Postal Mexicano, con acuse de recibo, siempre y cuando él o los solicitantes hayan cubierto o cubran el servicio respectivo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2009)</small>
+
+### Capítulo III. Del Procedimiento del Cobro
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+###### Artículo 46.
+
+Si la información solicitada esta disponible en la Comisión y esta implica costo de reproducción y/o envío, una vez efectuado el cálculo, la Unidad de Acceso a la Información notificará al solicitante tal situación, para efecto de que se apersone a la Unidad de Acceso y se haga entrega de la orden de pago debidamente requisitada, que deberá contener, entre otros datos: el número de expediente de la solicitud, nombre del solicitante, concepto que se cobra, cantidad de hojas a reproducir, imprimir y/o certificar, en su caso la cantidad y descripción de los medios magnéticos, ópticos o electrónicos a utilizar, monto a pagar, procedimiento de pago, fecha de expedición y firma del servidor público representante de la Unidad de Acceso a la Información Pública, para que en el término de 10 días hábiles efectué el pago.
+
+Si el solicitante manifiesta su negativa, no da contestación a la notificación o no realiza el pago dentro del término antes mencionado, la Unidad de Acceso concluirá el expediente y lo enviará al archivo.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+###### Artículo 47.
+
+La Dirección de Administración, Planeación y Finanzas, a través del titular del Departamento de Recursos Financieros y Contabilidad, será la única área de la Comisión, facultada para recibir el cobro de los costos de reproducción de la información, efectuado de manera directa en sus oficinas, para lo cual recibirá el pago y entregará al solicitante el recibo correspondiente en original y copia, que deberá presentar a la Unidad de Acceso a la Información, para el trámite procedente.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+###### Artículo 48.
+
+Para cualquier caso no previsto en el presente Título, se estará a lo dispuesto en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+
 ## Transitorios
 
 ###### Artículo 1°.
@@ -452,3 +574,15 @@ Cúmplase.
 Dado en el salón de sesiones del Consejo General de la Comisión de los Derechos Humanos, a los 25 días del mes de febrero del año dos mil ocho.
 
 Juan Carlos Moreno Guillén, Presidente de la Comisión de los Derechos Humanos.- Wenceslao de Jesús Lara Martínez, Secretario Técnico del Consejo General de la Comisión de los Derechos Humanos.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2009.
+
+Artículo Primero.- La presente adición entrará en vigor a partir de su aprobación por el Consejo General de la Comisión de los Derechos Humanos.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a esta adición.
+
+Artículo Tercero.- El Ejecutivo dispondrá se publique en el Periódico Oficial del Estado y el Consejo General de la Comisión de los Derechos Humanos, le dé amplia difusión para los efectos correspondientes.
+
+Artículo Cuarto.- Cúmplase.
