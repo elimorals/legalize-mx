@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interno-de-la-comision-de-derechos-humanos-del-56925
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-29"
-last_updated: "2007-08-29"
+last_updated: "2009-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56925&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 29 de agosto de 2007.
 
@@ -39,9 +39,11 @@ EXPOSICIÓN DE MOTIVOS:.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 1º.
 
-El presente ordenamiento reglamenta la Ley de la Comisión de Derechos Humanos del Estado de Morelos y regula la estructura, facultades y funcionamiento como organismo público con autonomía de gestión y presupuestaria, con personalidad jurídica y patrimonio propio, cuyo objeto esencial es la promoción, observancia, estudio, divulgación y protección de los derechos humanos previstos en el orden jurídico mexicano, en los instrumentos jurídicos internacionales que el Estado mexicano ha suscrito y el Senado de la República ha aprobado y, en general, los derechos esenciales del ser humano.
+El presente ordenamiento reglamentario, regula la estructura, facultades y funcionamiento como organismo público con autonomía de gestión y presupuestaria, con personalidad jurídica y patrimonio propio, cuyo objeto es la promoción, observancia, estudio, divulgación y protección, así como la consolidación de una cultura de reconocimiento y respeto a los derechos humanos y fundamentales contenidos en el orden jurídico mexicano y en instrumentos internacionales aprobados por el Senado de la República Mexicana y consagrados en el artículo 2º de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 2º.
 
@@ -319,7 +321,9 @@ El Secretario Ejecutivo tiene todas las funciones, atribuciones y obligaciones q
 
 Cumplirá además las funciones de Secretario Técnico del Consejo, al tenor de las siguientes bases:
 
-I. Preparar las sesiones ordinarias, extraordinaria (sic) y solemnes a que convoque el Presidente;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2009)</small>
+
+I. Preparar las sesiones ordinarias, extraordinarias y solemnes de Consejo a que convoque el Presidente, debiendo elaborar actas suscita (sic) de su desarrollo, asentando exclusivamente las intervenciones que expresamente solicite en sesión consejera o consejero presente, asimismo dará debido registro y seguimiento de los acuerdos que expresamente establezca en ese sentido el propio Consejo;
 
 II. Prestar consultoría jurídica al Consejo o sus miembros en sesión;
 
@@ -329,7 +333,9 @@ IV. Exponer al Consejo en sesión, las funciones, atribuciones y responsabilidad
 
 V. Atender las consultas que en lo particular le hagan las y los Consejos Consultivos.
 
-Además observará todas las responsabilidades y facultades que le confiere el Reglamento Interno de Transparencia, Información Pública y Protección de Datos Personales de la Comisión, el Estatuto del Colegio de Visitadores de la Comisión, el Estatuto para el Servicio Civil de Carrera, el Manual de Organización de la Dirección de Quejas y Orientación, así como con toda aquella disposición que le establezca injerencia.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
+Además observará todas las responsabilidades y facultades que le confiere el Reglamento Interior de Información Pública y Protección de Datos Personales de la Comisión, los estatutos del Colegio de Visitadoras y Visitadores y para el Servicio Profesional de la Comisión y otros ordenamientos internos de organización y administrativos.
 
 ###### Artículo 35º.
 
@@ -351,15 +357,19 @@ V. Unidad de Información Pública, Informática y Estadística, y;
 
 VI. Unidad de enlace con Organismos Públicos de Derechos Humanos y Organizaciones de la Sociedad.
 
-###### Artículo 37.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
 
-Las áreas a que se refiere el artículo anterior, para su funcionamiento, observarán en todo lo que establece el Reglamento y sus respectivos manuales de organización y procedimientos.
+###### Artículo 37º.
 
-En caso de duda en la interpretación y aplicación de los instrumentos a que hace alusión el párrafo anterior, será resuelto por el Presidente.
+La o el Secretario Ejecutivo coordinará las acciones de las áreas a que se refiere el artículo 36 del presente Reglamento, para cumplir con los programas internos de control, planeación, evaluación y acceso a la información pública, así como de capacitación y evaluación permanentes, con objeto de consolidar lineamientos generales de actuación y de atención ciudadana.
+
+En consecuencia se apoyará directamente de las y los funcionarios titulares o adscritos a dichas áreas de la Comisión, para la implementación ágil, eficaz y eficiente de los programas mencionados en el párrafo anterior, debiendo mantener informado permanentemente a la o el Presidente de la Comisión de los resultados respectivos.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 38º.
 
-El Secretario Ejecutivo coordinará las actividades de los visitadores en el desempeño de sus funciones, por lo que propondrá al Presidente periódicamente, lineamientos generales para la unificación de criterios de trámite, resolución y conclusión de expedientes, de acuerdo a lo establecido en la Ley, el Reglamento y otras disposiciones afines de organismo (sic) públicos de derechos humanos.
+La o el Secretario Ejecutivo coordinará las actividades de las y los visitadores y auxiliares jurídicos, en el desempeño de sus funciones, por lo que propondrá al Presidente periódicamente lineamientos generales tendientes a la homologación de criterios en la atención, trámite, resolución y conclusión de expedientes, apoyándose en su caso del (sic) consultas que al respecto se formulen al Colegio de Visitadoras y Visitadores de la Comisión.
 
 ###### Artículo 39º.
 
@@ -385,13 +395,19 @@ VII. Las demás que le instruya el Presidente o el Secretario Ejecutivo.
 
 ### Capítulo IV. De los Visitadores
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 41º.
 
-El nombramiento del titular del Órgano Interno de Control lo hará el Presidente, con la aprobación del Consejo.
+Para ser Visitador o Visitadora de la Comisión se requieren los requisitos establecidos en el artículo 22 de la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 42º.
 
-La Comisión contará con el número de visitadoras y visitadores, que permita cumplir con la función establecida en el artículo 25 de la Ley, las plazas vacantes serán concursadas en términos del Estatuto para el Servicio Civil de Carrera, pero la designación la hará el Presidente de la Comisión.
+La Comisión contará con el número de visitadoras y visitadores, que permita cumplir con la función establecida en el artículo 25 de la Ley.
+
+Las plazas se convocarán en los términos y particularidades establecidas, entre otras normas internas, en el Estatuto para el Servicio Profesional de la Comisión.
 
 ###### Artículo 43º.
 
@@ -453,11 +469,13 @@ XII. Las demás inherentes a su función, así como las que le instruya el Presi
 
 ### Capítulo I. Generalidades
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 49º.
 
-Toda queja que se dirija a la Comisión deberá presentarse por escrito, a través de medio de comunicación electrónico o por teléfono, de la que invariablemente se levantará acta circunstanciada, en la que se asiente síntesis del planteamiento de queja parte del funcionario que la reciba, debiendo contener en su caso firma o huella digital del interesado; los datos mínimos de identificación como nombre, apellidos, domicilios y el número telefónico y todos aquellos datos que permitan la identificación de los implicados en el relato correspondiente.
+Toda queja que se dirija a la Comisión, deberá presentarse por escrito, o bien, cuando los reclamos se desprendan de hechos consignados en medios de comunicación impresos o electrónicos, sean de carácter local o nacional, al igual que vía telefónica y, en general, por cualquier mecanismo informático que permita a la Comisión tener conocimiento del acto, conducta u omisión, que genere violación a derechos humanos, invariablemente se formulará acta circunstanciada por el personal profesional de la Comisión.
 
-En caso que del planteamiento de queja no se obtengan datos suficientes, en razón de que el quejoso o agraviado los desconozca, se considerará improcedente y se desechará la queja, salvo que sea subsanado esto último en plazo de cinco días naturales siguientes a la presentación de queja.
+Se dispensará al o la impetrante la formalidad en la presentación de la queja, cuando se halle dentro de las circunstancias establecidas en el artículo 27 de la Ley, debiendo ser asistido en todo momento por personal profesional de la Comisión, quien deberá dar claridad a su reclamo.
 
 ###### Artículo 50º.
 
@@ -525,21 +543,25 @@ Recibida la queja y asignado número de expediente, se procederá a su registro 
 
 Cuando la queja sea calificada de legal por el Visitador, enviará al quejoso copia del acuerdo de admisión de la instancia, en el que se le informará el resultado de su calificación y se le invitará a mantener comunicación con este Organismo durante la tramitación del expediente, solicitando su presencia, de ser posible en días subsecuentes, para que proporcione datos o evidencias para la mejor tramitación de la queja.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 62º.
 
-Se solicitará el informe a la autoridad correspondiente mediante el cual deberá exhibir las documentales idóneas que acrediten su informe, facilitando al personal de este (sic) Comisión, el acceso a la información que se requiera, señalando domicilio para oír y recibir notificaciones y las personas autorizadas, quien únicamente se le concederá el término máximo de diez días naturales.
+Se solicitará informe a la autoridad o servidor público señalado como responsable, con el cual deberá exhibir u ofrecer evidencias que sustenten el sentido de su informe, mismo que invariablemente será presentado con dos días naturales de anticipación, a la fecha fijada para agotar la etapa conciliatoria, en el supuesto de que esto sea establecido por la o el visitador en el auto correspondiente.
 
-En caso de solicitar prorroga justificada por parte de la autoridad o servidor público a que se refiere el párrafo anterior, previo acuerdo del Presidente o el Secretario Ejecutivo, se concederá hasta por un plazo análogo al anterior.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 63º.
 
-Cuando la queja calificada y en trámite, no se refiera a violaciones a los derechos a la vida, integridad física o psíquica u consideradas graves por el número de afectados, la misma se sujetará a un procedimiento de conciliación con las autoridades involucradas.
+La conciliación es el instrumento por medio del cual la Comisión aplica los principios de inmediación y celeridad, procede en casos no graves y parte del consentimiento del o la quejosa, así como del reconocimiento de la autoridad o servidor público de que se cometió violación a derechos humanos.
+
+El acuerdo de conciliación debe invariablemente incluir medidas para reparar el daño, la aplicación de la justicia, por medio el establecimiento de responsabilidades administrativas, penales y/o civiles, así como el establecimiento de que garanticen la no repetición de actos, conductas u omisiones que conculquen los derechos humanos.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 64º.
 
-En el supuesto del artículo anterior la o el Visitador y el Director de Quejas y Orientación de la Comisión, en su caso, previa citación de las partes, de manera breve y sencilla, presentará a la autoridad la propuesta de conciliación siempre dentro del respeto a los derechos humanos que se consideren afectados, a fin de lograr una solución inmediata y plena de la materia de la queja.
-
-Para tal efecto se deberá escuchar al quejoso, levantándose acta de la audiencia correspondiente.
+El personal profesional de la Dirección de Quejas y Orientación de la Comisión o el Visitador que conozca en vía de queja del asunto, procederá en los términos y particularidades de la Ley.
 
 ###### Artículo 65º.
 
@@ -555,59 +577,37 @@ De no arribarse a la conciliación establecida en los artículos de 60 a 62 del 
 
 Para el efecto de documentar las evidencias de un expediente, la Comisión podrá solicitar la rendición y desahogar todas aquellas evidencias que resulten indispensables, con la sola condición de que éstas se encuentren previstas como tales en el orden jurídico mexicano o no resulten contrarias a la moral.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 68º.
 
-Cuando una autoridad o servidor público, en más de tres ocasiones omita dar respuesta a los requerimientos de información de la Comisión en sendos expedientes, en términos de los Títulos III y IV de la Ley, se hará del conocimiento de la autoridad competente que corresponda, a fin de que, conforme a la Ley de Responsabilidades de los Servidores Públicos, se instaure el procedimiento administrativo y se impongan las sanciones procedentes.
+Cuando en más de tres ocasiones la autoridad o servidores públicos a las (sic) que se requiera informe o pronunciamiento sobre la aceptación de solicitudes o recomendaciones, así como, que habiéndose comprometido a cumplir conciliación, prevalezca en silencio, se tendrán (sic) por cierto el reclamo del quejoso respecto a la violación a los derechos humanos, quedando a salvo la interposición del recurso correspondiente, sin detrimento de que esta Comisión, de vista al superior jerárquico, para que proceda en los términos y particularidades de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 69º.
 
-Rendido el informe correspondiente se le dará copia de la vista a la parte quejoso, para que en un término no mayor de diez días naturales, manifieste lo que a su derecho convenga y ofrezca las evidencias que considere idóneas para acreditar el extremo de sus imputaciones, debiendo precisar que podrá ofrecerlas después de desahogada la vista y hasta en tanto no se emita la resolución correspondiente, considerando además lo siguiente:
+Una vez otorgado el informe de autoridad o servidores públicos a los que se les hubiera solicitado, la o el visitador que conozca del expediente, dará vista del mismo al quejoso, para que en (sic) plazo que no exceda de diez días naturales, señale las evidencias necesarias, para establecer la violación a derechos humanos.
 
-A) El término dar vista significa el acuerdo de recepción del informe de las autoridades involucradas y otorgar copia del (sic) al impetrante. Cuando a criterio del Visitador, el quejoso o agraviado, agraviado deba imponerse de los autos, por la naturaleza del asunto, o por que sea abundante la información remitida por las autoridades informantes, se lo hará saber también en el acuerdo de vista.
-
-B) El visitador preparará la evidencia testimonial o de declaración de la siguiente manera:
-
-I. Dictará el acuerdo en donde se reciba dicha evidencia;
-
-II. En el acuerdo de admisión de la evidencia que nos ocupa, se fijará día y hora para su desahogo, además se le indicará al testigo o al oferente de la evidencia, que en el atesto deberá presentar el original y copia de su identificación oficial, salvo el caso en que se encuentren privados de su libertad;
-
-III. También se le dará vista a la parte contraria para que si es su deseo pueda estar en la diligencia y en su caso quien esté legalmente autorizado podrá formular repreguntas;
-
-IV. Cuando el oferente de la evidencia esté impedido para presentar a quien ha de obsequiar declaración, la o el Visitador lo podrá citar por una sola vez. Sin embargo en caso de no comparecer se declarará desierta la evidencia. También se declarará desierta dicha evidencia, cuando el oferente de la evidencia se comprometa a presentarlos y no comparezcan;
-
-V. Durante el desahogo de esta diligencia, las partes deberán ser respetuosas con ellas mismas y con el personal de esta Comisión, ya que si alguna de ellas incurre en falta de respeto, se suspenderá la diligencia o en su caso a juicio de la o el Visitador solicitará a la parte irrespetuosa que abandone la diligencia y se continuará con el desahogo de la misma, si fuere posible, ya que si la indisciplina se registra por el declarante, se cancelará su desahogo, en perjuicio de la parte que la haya ofrecido;
-
-C) De la evidencia pericial:
-
-La parte que ofrezca esta evidencia, tendrá la obligación de precisar en su promoción, el hecho que trata de poner en evidencia, señalando el nombre del perito y la documentación que lo acredite como tal, exhibiendo copia de tales documentos, ajustándose a las siguientes bases:
-
-I. Al admitir dicha evidencia se le dará vista a la parte contraria para que dentro de cinco días naturales contados a partir de la notificación, ofrezca perito de su parte, y al omitir tal circunstancia tendrá por perdido su derecho;
-
-II. Quien ofrezca una evidencia pericial estará obligado a presentarlo el día y hora que el personal de esta Comisión le señale para que acepte y proteste el cargo, dicho perito tendrá la obligación de exhibir su dictamen durante los diez días naturales siguientes y de no hacerlo perderá su derecho para acreditar el hecho que pretende probar;
-
-III. Quien ofrezca una evidencia pericial estará obligado a pagar los honorarios devengados por aquel, y;
-
-IV. Cuando a juicio del Presidente sea necesario un dictamen en determinada materia, la Comisión pagará los honorarios devengados por dicho perito.
-
-D) Durante el procedimiento que se siga en esta Comisión, no se admitirá la confesión.
-
-E) La evidencia documental, la instrumental de actuaciones y la presuncional en su doble aspecto, se tendrán por desahogadas por su propia y especial naturaleza.
+En caso de que el quejoso, se encuentre en las circunstancias establecidas en el artículo 27 de la Ley y no esté en condiciones de agotar lo dispuesto en el párrafo anterior, la o el visitador responsable de la integración del expediente, recabará las evidencias suficientes, de modo que esté en posibilidad de resolver o concluir la queja.
 
 ### Capítulo IV. De la Conclusión de Expedientes
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 70º.
 
-Los expedientes que se tramiten o resuelvan en la Comisión, serán concluidos de la siguiente manera:
+La Comisión podrá resolver, dar seguimiento y concluir los expedientes de trámite o queja, con base en las siguientes figuras jurídicas:
 
-A). Archivo de expedientes en trámite:
+A. Archivo de expedientes en trámite:
 
-1. Por conciliación, se entiende cuando el agraviado, reclamante, quejoso o impetrante, logra a través de un convenio, que se le restituyan los derechos humanos o fundamentales que le fueron violentados.
+1. Por conciliación: Se entiende cuando el quejoso o agraviado ha sido restituido en sus derechos humanos o fundamentales, en términos de los dispuesto por el (sic) artículo (sic) 34 y 35 de la Ley, evidenciando la autoridad o servidor público el cumplimiento del acuerdo respectivo.
 
 2. Durante la tramitación, se entiende que la autoridad durante el procedimiento le restituye los derechos humanos o fundamentales que le fueron violentados al directamente agraviado.
 
 3. Por no ratificarse la queja, esta causa de conclusión se registra cuando el quejoso no suscribe la queja en primer momento, es decir cuando la misma es interpuesta a su favor por un familiar, amigo, vecino o cualquier persona, o bien cuando la queja es presentada por correo electrónico, vía telefónica, o por cualquier medio de comunicación.
 
-4. Por no desahogar la prevención que le formuló el Visitador o demás personal de este (sic) la Comisión, por cualquiera de las causas previstas en la Ley o en el Reglamento.
+4. Por no desahogar la prevención que le formuló el Visitador o demás personal de esté (sic) la Comisión, por cualquiera de las causas previstas en la Ley o en el Reglamento.
 
 5. Por prescripción:
 
@@ -619,21 +619,21 @@ c) Por desechamiento de la instancia, se dará esta hipótesis legal, cuando a l
 
 d) Por inexistencia de los actos reclamados, se registrará esta hipótesis legal, cuando los actos reclamados, jamás han existido.
 
-6. Por desistimiento, esta hipótesis se actualiza cuando el quejoso expresamente, por comparecencia, por cualquier medio de comunicación electrónico, persona de confianza o familiares, así lo manifiesta, salvo que el acto o actos reclamados sean graves o de lesa humanidad.
+i. Por desistimiento, esta hipótesis se actualiza cuando el quejoso expresamente, por comparecencia, por cualquier medio de comunicación electrónico, persona de confianza o familiares, así lo manifiesta, salvo que el acto o actos reclamados sean graves o de lesa humanidad.
 
-7. Por falta de interés, se actualizará esta causa, cuando el quejoso no exprese manifestación alguna, en relación a los informes producidos por las autoridades involucradas, después de diez días naturales, en que se le haya dado vista.
+ii. Por falta de interés, se actualizará esta causa, cuando el quejoso no exprese manifestación alguna, en relación a los informes producidos por las autoridades involucradas, después de diez días naturales, en que se le haya dado vista.
 
-8. Cuando no se establezca por el quejoso interés jurídico y/o legítimo, en el reclamo de violación a derechos humanos.
+iii. Cuando no se establezca por el quejoso interés jurídico y/o legítimo, en el reclamo de violación a derechos humanos.
 
 B. Archivo de expedientes resueltos:
 
-1. Cuando en un expediente en el que se dictó recomendación, se tenga por cumplida la misma.
+6. Cuando en un expediente en el que se dictó recomendación, se tenga por cumplida la misma.
 
-2. Cuando en un expediente en el que formuló solicitud, se tenga por cumplida la misma.
+7. Cuando en un expediente en el que formuló solicitud, se tenga por cumplida la misma.
 
-3. Por no interponer recurso de impugnación el quejoso, después de haber transcurrido treinta días naturales, en que se le haya notificado el acuerdo de no responsabilidad, o cualquier acuerdo de conclusión de un expediente.
+8. Por no interponer recurso de impugnación el quejoso, después de haber transcurrido treinta días naturales, en que se le haya notificado el acuerdo de no responsabilidad, o cualquier acuerdo de conclusión de un expediente.
 
-4. Cuando se haya dictado acuerdo teniendo por rechazada la recomendación o solicitud, y no interponga el quejo (sic) el recurso de impugnación previsto en el artículo 63 de la Ley de la Comisión Nacional de los derechos Humanos.
+9. Cuando se haya dictado acuerdo teniendo por rechazada la recomendación o solicitud, y no interponga el quejoso el recurso de impugnación previsto en el artículo 63 de la Ley de la Comisión Nacional de los derechos Humanos.
 
 ### Capítulo V. De las Medidas Precautorias
 
@@ -801,13 +801,15 @@ La Comisión podrá allegarse recursos físicos, materiales y financieros para s
 
 ### Capítulo II. De los Informes
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 92º.
 
-El Presidente de la Comisión deberá presentar anualmente un informe al Congreso del Estado y al Gobernador.
+El Presidente de la Comisión deberá presentar un informe anual en los términos y plazos establecidos en el artículo 16 fracción V de la Ley.
 
 ###### Artículo 93º.
 
-El informe anual deberá de presentarse durante el primer período de sesiones ordinarias del Congreso del Estado.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2009)
 
 ###### Artículo 94º.
 
@@ -862,3 +864,15 @@ Lic. César Hidalgo Valverde
 Secretario Ejecutivo
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2009.
+
+PRIMERO.- Se reforma y adicionan los artículos que han quedado establecidos en el presente cuerpo normativo.
+
+SEGUNDO.- Las presentes reformas y adiciones al Reglamento Interno de la Comisión de Derechos Humanos del Estado de Morelos, entrará en vigor al día siguiente de su publicación en el órgano informativo Periódico Oficial "Tierra y Libertad".
+
+TERCERO.- Todos los procedimientos de queja que se hayan sustentado por el personal competente conforme a la Ley de Derechos Humanos del Estado de Morelos, que no impliquen repercusión en materia de las reformas y adiciones descritas en los antecedentes del presente acuerdo de (sic) Consejo Consultivo, así como en alguno de los preceptos no reformados o adicionados del Reglamento Interno de este organismo público, Manual de Organización de la Dirección de Quejas y Orientación, Estatutos o cualesquiera normatividad de observancia interna obligatoria, deberán continuar tramitándose, con base en las disposiciones correspondientes aplicadas antes del 20 de mayo de 2009.
+
+CUARTO.- Difúndase el presente acuerdo entre el personal de la Comisión de Derechos Humanos del Estado de Morelos para conocimiento y efectos.
