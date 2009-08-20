@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2009-06-11"
+last_updated: "2009-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2009.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -202,7 +202,9 @@ XXI.- El programa contra el alcoholismo;
 
 XXII.- El programa contra el tabaquismo;
 
-XXIII.- El programa contra la farmacodependencia;
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+XXIII.- La prevención del consumo de estupefacientes y psicotrópicos y el programa contra la farmacodependencia;
 
 XXIV.- El control sanitario de productos y servicios y de su importación y exportación;
 
@@ -475,6 +477,10 @@ V.- Elaborar información estadística local y proporcionarla a las autoridades 
 VI.- Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y demás disposiciones aplicables, y
 
 VII.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+C. Corresponde a la Federación y a las entidades federativas la prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de esta Ley.
 
 ###### ARTICULO 14.
 
@@ -2978,15 +2984,119 @@ II.- La educación sobre los efectos del uso de estupefacientes, substancias psi
 
 III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+La información que reciba la población deberá estar basada en estudios científicos y alertar de manera clara sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 192.
 
-La Secretaría de Salud elaborará un programa nacional contra la farmacodependencia, y lo ejecutará en coordinación con dependencias y entidades del sector salud y con los gobiernos de las entidades federativas.
+La Secretaría de Salud elaborará un programa nacional para la prevención y tratamiento de la farmacodependencia, y lo ejecutará en coordinación con dependencias y entidades del sector salud y con los gobiernos de las entidades federativas.
+
+Este programa establecerá los procedimientos y criterios para la prevención, tratamiento y control de las adicciones y será de observancia obligatoria para los prestadores de servicios de salud del Sistema Nacional de Salud en todo el territorio nacional y en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
+
+Las campañas de información y sensibilización que reciba la población deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos.
+
+De conformidad con los términos establecidos por el programa nacional para la prevención y tratamiento de la farmacodependencia, los gobiernos de las entidades federativas serán responsables de:
+
+I. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos; y
+
+II. Proporcionar información y brindar la atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 192 Bis.
+
+Para los efectos del programa nacional se entiende por:
+
+I. Farmacodependiente: Toda persona que presenta algún signo o síntoma de dependencia a estupefacientes o psicotrópicos;
+
+II. Consumidor: Toda persona que consume o utilice estupefacientes o psicotrópicos y que no presente signos ni síntomas de dependencia;
+
+III. Farmacodependiente en recuperación: Toda persona que está en tratamiento para dejar de utilizar narcóticos y está en un proceso de superación de la farmacodependencia;
+
+IV. Atención médica: Al conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud;
+
+V. Detección temprana: Corresponde a una estrategia de prevención secundaria que tiene como propósito identificar en una fase inicial el consumo de narcóticos a fin de aplicar medidas terapéuticas de carácter médico, psicológico y social lo más temprano posible;
+
+VI. Prevención: El conjunto de acciones dirigidas a evitar o reducir el consumo de narcóticos, a disminuir situaciones de riesgo y limitar los daños asociados al consumo de dichas sustancias;
+
+VII. Tratamiento: El conjunto de acciones que tienen por objeto conseguir la abstinencia o, en su caso, la reducción del consumo de narcóticos, reducir los riesgos y daños que implican el uso y abuso de dichas sustancias, abatir los padecimientos asociados al consumo, e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de esas sustancias, como de su familia;
+
+VIII. Investigación en materia de farmacodependencia: Tiene por objeto determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo; construyendo las bases científicas para la construcción de políticas públicas y los tratamientos adecuados para los diversos tipos y niveles de adicción; respetando los derechos humanos y su integridad, y
+
+IX. Suspensión de la farmacodependencia: Proceso mediante el cual el farmacodependiente participa en la superación de su farmacodependencia con el apoyo del entorno comunitario en la identificación y solución de problemas comunes que provocaron la farmacodependencia.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 192 Ter.
+
+En materia de prevención se ofrecerá a la población un modelo de intervención temprana que considere desde la prevención y promoción de una vida saludable, hasta el tratamiento ambulatorio de calidad, de la farmacodependencia, el programa nacional fortalecerá la responsabilidad del Estado, principalmente de la Secretaría de Salud, ofreciendo una visión integral y objetiva del problema para:
+
+I. Desarrollar campañas de educación para prevención de adicciones, con base en esquemas novedosos y creativos de comunicación que permitan la producción y difusión de mensajes de alto impacto social, con el fin de reforzar los conocimientos de daños y riesgos de la farmacodependencia, especialmente dirigirá sus esfuerzos hacia los sectores más vulnerables, a través de centros de educación básica;
+
+II. Coordinar y promover con los sectores público, privado y social, las acciones para prevenir la farmacodependencia, con base en la información y en el desarrollo de habilidades para proteger, promover, restaurar, cuidar la salud individual, familiar, laboral, escolar y colectiva;
+
+III. Proporcionar atención integral a grupos de alto riesgo en los que se ha demostrado, a través de diversas investigaciones y estudios, que, por sus características biopsicosociales, tienen mayor probabilidad de uso, abuso o dependencia a narcóticos, y
+
+IV. Realizar las acciones de prevención necesarias con base en la percepción de riesgo de consumo de sustancias en general, la sustancia psicoactiva de uso; las características de los individuos; los patrones de consumo; los problemas asociados a las drogas; así como los aspectos culturales y las tradiciones de los distintos grupos sociales.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 192 Quáter.
+
+Para el tratamiento de los farmacodependientes, las dependencias y entidades de la administración pública en materia de salubridad general, tanto federales como locales, deberán crear centros especializados en tratamiento, atención, y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente.
+
+La ubicación de los centros se basará en estudios rigurosos del impacto de las adicciones en cada región del país y deberá:
+
+I. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen, y
+
+II. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+ARTICULO 192 Quintus.- La Secretaría de Salud realizará procesos de investigación en materia de farmacodependencia para:
+
+I. Determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo;
+
+II. Contar con una base científica que permita diseñar e instrumentar políticas públicas eficaces en materia de farmacodependencia;
+
+III. Evaluar el impacto de los programas preventivos, así como de tratamiento y rehabilitación, estableciendo el nivel de costo-efectividad de las acciones;
+
+IV. Identificar grupos y factores de riesgo y orientar la toma de decisiones;
+
+V. Desarrollar estrategias de investigación y monitoreo que permitan conocer suficientemente, las características de la demanda de atención para problemas derivados del consumo de sustancias psicoactivas, la disponibilidad de recursos para su atención y la manera como éstos se organizan, así como los resultados que se obtienen de las intervenciones;
+
+VI. Realizar convenios de colaboración a nivel internacional que permita fortalecer el intercambio de experiencias novedosas y efectivas en la prevención y tratamiento, así como el conocimiento y avances sobre la materia, y
+
+VII. En toda investigación en que el ser humano sea sujeto de estudio, deberá prevalecer el criterio del respeto a su dignidad, la protección de sus derechos y su bienestar.
+
+En el diseño y desarrollo de este tipo de investigaciones se debe obtener el consentimiento informado y por escrito de la persona y, en su caso, del familiar más cercano en vínculo, o representante legal, según sea el caso, a quienes deberán proporcionárseles todos los elementos para decidir su participación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+ARTICULO 192 Sextus.- El proceso de superación de la farmacodependencia debe:
+
+I. Fomentar la participación comunitaria y familiar en la prevención y tratamiento, en coordinación con las autoridades locales, y las instituciones públicas o privadas, involucradas en los mismos, para la planeación, programación, ejecución y evaluación de los programas y acciones;
+
+II. Fortalecer la responsabilidad social, la autogestión y el auto cuidado de la salud, fomentando la conformación de estilos de vida y entornos saludables que permitan desarrollar el potencial de cada persona, propiciando condiciones que eleven la calidad de vida de las familias y de las comunidades;
+
+III. Reconocer a las comunidades terapéuticas, para la rehabilitación de farmacodependientes, en la que sin necesidad de internamiento, se pueda hacer posible la reinserción social, a través del apoyo mutuo, y
+
+IV. Reconocer la importancia de los diversos grupos de ayuda mutua, que ofrecen servicios gratuitos en apoyo a los farmacodependientes en recuperación, con base en experiencias vivenciales compartidas entre los miembros del grupo, para lograr la abstinencia en el uso de narcóticos.
 
 ###### ARTICULO 193.
 
 Los profesionales de la salud, al prescribir medicamentos que contengan substancias que puedan producir dependencia, se atendrán a lo previsto en los Capítulos V y VI del Título Decimosegundo de esta Ley, en lo relativo a prescripción de estupefacientes y substancias psicotrópicas.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 193 Bis.
+
+Cuando el centro o institución reciba reporte del no ejercicio de la acción penal, en términos del artículo 478 de esta Ley, las autoridades de salud deberán citar al farmacodependiente o consumidor, a efecto de proporcionarle orientación y conminarlo a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos de la misma.
+
+Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente será obligatorio.
 
 ## TITULO DECIMO TERCERO. Publicidad
 
@@ -3147,6 +3257,10 @@ El titular de la autorización de un producto podrá permitir que éste sea elab
 ###### ARTICULO 204.
 
 Los medicamentos y otros insumos para la salud, los estupefacientes, substancias psicotrópicas y productos que los contengan, así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, para su venta o suministro deberán contar con autorización sanitaria, en los términos de esta ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+Las autoridades de seguridad pública de los tres órdenes de gobierno participarán en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando dichas actividades se realicen en lugares públicos, y actuarán conforme a sus atribuciones.
 
 ###### ARTICULO 205.
 
@@ -5328,6 +5442,10 @@ La Secretaría de Salud determinará qué otras enfermedades transmisibles queda
 
 Las personas comprendidas en lo dispuesto en el artículo anterior, quedarán bajo vigilancia y aislamiento en los lugares que la autoridad sanitaria determine, o en los que señale el interesado, si fueran aceptados por la autoridad, en tanto se decida, mediante el examen médico pertinente, si es aceptada o no su internación más allá del sitio de confinamiento, y se le preste, en su caso, la atención médica correspondiente.
 
+### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 363.
 
 La autoridad sanitaria otorgará libre plática a las embarcaciones cuando, de acuerdo a los informes que éstas faciliten antes de su llegada, juzgue que el arribo no dará lugar a la introducción o a la propagación de una enfermedad o daño a la salud.
@@ -6332,6 +6450,136 @@ Las penas previstas en este Capítulo se aplicarán independientemente de las qu
 
 A las personas morales involucradas en la comisión de cualquiera de los delitos previstos en este Capítulo, se les aplicará, a juicio de la autoridad, lo dispuesto en materia de suspensión o disolución en el Código Penal.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 473.
+
+Para los efectos de este capítulo se entenderá por:
+
+I. Comercio: la venta, compra, adquisición o enajenación de algún narcótico;
+
+II. Farmacodependencia: Es el conjunto de fenómenos de comportamiento, cognoscitivos y fisiológicos, que se desarrollan luego del consumo repetido de estupefacientes o psicotrópicos de los previstos en los artículos 237 y 245, fracciones I a III, de esta Ley;
+
+III. Farmacodependiente: Toda persona que presenta algún signo o síntoma de dependencia a estupefacientes o psicotrópicos;
+
+IV. Consumidor: Toda persona que consume o utilice estupefacientes o psicotrópicos y que no presente signos ni síntomas de dependencia;
+
+V. Narcóticos: los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen esta Ley, los convenios y tratados internacionales de observancia obligatoria en México y los que señalen las demás disposiciones legales aplicables en la materia;
+
+VI. Posesión: la tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona;
+
+VII. Suministro: la transmisión material de forma directa o indirecta, por cualquier concepto, de la tenencia de narcóticos, y
+
+VIII. Tabla: la relación de narcóticos y la orientación de dosis máximas de consumo personal e inmediato prevista en el artículo 479 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 474.
+
+Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de sanciones de las entidades federativas, conocerán y resolverán de los delitos o ejecutarán las sanciones y medidas de seguridad a que se refiere este capítulo, cuando los narcóticos objeto de los mismos estén previstos en la tabla, siempre y cuando la cantidad de que se trate sea inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla y no existan elementos suficientes para presumir delincuencia organizada.
+
+Las autoridades federales conocerán de los delitos en cualquiera de los casos siguientes:
+
+I. En los casos de delincuencia organizada.
+
+II. La cantidad del narcótico sea igual o mayor a la referida en el primer párrafo de este artículo.
+
+III. El narcótico no esté contemplado en la tabla.
+
+IV. Independientemente de la cantidad del narcótico el Ministerio Público de la Federación:
+
+a) Prevenga en el conocimiento del asunto, o
+
+b) Solicite al Ministerio Público del fuero común la remisión de la investigación.
+
+La autoridad federal conocerá de los casos previstos en las fracciones II y III anteriores, de conformidad con el Código Penal Federal y demás disposiciones aplicables. En los casos de la fracción IV de este artículo se aplicará este capítulo y demás disposiciones aplicables.
+
+Para efecto de lo dispuesto en el inciso b) de la fracción IV anterior, bastará con que el Ministerio Público de la Federación solicite a la autoridad competente de la entidad federativa, le remita la investigación correspondiente. Las diligencias desahogadas hasta ese momento por las autoridades de las entidades federativas gozarán de plena validez.
+
+En la instrumentación y ejecución de los operativos policíacos que se realicen para cumplir con dichas obligaciones las autoridades se coordinarán en los términos que establece la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables.
+
+El Ministerio Público de la Federación podrá solicitar a las autoridades de seguridad pública de las entidades federativas, le remitan informes relativos a la investigación de los delitos a que se refiere este capítulo.
+
+El Ministerio Público de las entidades federativas deberá informar oportunamente al Ministerio Público de la Federación del inicio de las averiguaciones previas, a efecto de que éste cuente con los elementos necesarios para, en su caso, solicitar la remisión de la investigación en términos de la fracción IV inciso b) de este artículo.
+
+En los casos a que se refiere el segundo párrafo de este artículo, el Ministerio Público del fuero común podrá practicar las diligencias de averiguación previa que correspondan y remitirá al Ministerio Público de la Federación, dentro de los tres días de haberlas concluido, el acta o actas levantadas y todo lo que con ellas se relacione.
+
+Si hubiese detenidos, la remisión se hará sin demora y se observarán las disposiciones relativas a la retención ministerial por flagrancia.
+
+Cuando el Ministerio Público de la Federación conozca de los delitos previstos en este capítulo podrá remitir al Ministerio Público de las entidades federativas la investigación para los efectos del primer párrafo de este artículo, siempre que los narcóticos objeto de los mismos estén previstos en la tabla, la cantidad de que se trate sea inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla y no se trate de casos de la delincuencia organizada.
+
+Si de las constancias del procedimiento se advierte la incompetencia de las autoridades del fuero común, remitirá el expediente al Ministerio Público de la Federación o al juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, para lo cual las diligencias desahogadas hasta ese momento por la autoridad considerada incompetente gozarán de plena validez.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 475.
+
+Se impondrá prisión de cuatro a ocho años y de doscientos a cuatrocientos días multa, a quien sin autorización comercie o suministre, aún gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
+
+Cuando la víctima fuere persona menor de edad o que no tenga capacidad para comprender la relevancia de la conducta o para resistir al agente; o que aquélla fuese utilizada para la comisión de los mismos se aplicará una pena de siete a quince años de prisión y de doscientos a cuatrocientos días multa.
+
+Las penas que en su caso resulten aplicables por este delito serán aumentadas en una mitad, cuando:
+
+I. Se cometan por servidores públicos encargados de prevenir, denunciar, investigar, juzgar o ejecutar las sanciones por la comisión de conductas prohibidas en el presente capítulo. Además, en este caso, se impondrá a dichos servidores públicos destitución e inhabilitación hasta por un tiempo igual al de la pena de prisión impuesta;
+
+II. Se cometan en centros educativos, asistenciales, policiales o de reclusión, o dentro del espacio comprendido en un radio que diste a menos de trescientos metros de los límites de la colindancia del mismo con quienes a ellos acudan, o
+
+III. La conducta sea realizada por profesionistas, técnicos, auxiliares o personal relacionado con las disciplinas de la salud en cualesquiera de sus ramas y se valgan de esta situación para cometerlos. En este caso se impondrá, además, suspensión e inhabilitación de derechos o funciones para el ejercicio profesional u oficio hasta por cinco años. En caso de reincidencia podrá imponerse, además, suspensión definitiva para el ejercicio profesional, a juicio de la autoridad judicial.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 476.
+
+Se impondrá de tres a seis años de prisión y de ochenta a trescientos días multa, al que posea algún narcótico de los señalados en la tabla, en cantidad inferior a la que resulte de multiplicar por mil las cantidades previstas en dicha tabla, sin la autorización correspondiente a que se refiere esta Ley, siempre y cuando esa posesión sea con la finalidad de comerciarlos o suministrarlos, aún gratuitamente.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 477.
+
+Se aplicará pena de diez meses a tres años de prisión y hasta ochenta días multa al que posea alguno de los narcóticos señalados en la tabla en cantidad inferior a la que resulte de multiplicar por mil las previstas en dicha tabla, sin la autorización a que se refiere esta Ley, cuando por las circunstancias del hecho tal posesión no pueda considerarse destinada a comercializarlos o suministrarlos, aún gratuitamente.
+
+No se procederá penalmente por este delito en contra de quien posea medicamentos que contengan alguno de los narcóticos previstos en la tabla, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 478.
+
+El Ministerio Público no ejercerá acción penal por el delito previsto en el artículo anterior, en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla, en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal y fuera de los lugares señalados en la fracción II del artículo 475 de esta Ley. La autoridad ministerial informará al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia.
+
+El Ministerio Público hará reporte del no ejercicio de la acción penal a la autoridad sanitaria de la entidad federativa donde se adopte la resolución con el propósito de que ésta promueva la correspondiente orientación médica o de prevención. La información recibida por la autoridad sanitaria no deberá hacerse pública pero podrá usarse, sin señalar identidades, para fines estadísticos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 479.
+
+Para los efectos de este capítulo se entiende que el narcótico está destinado para su estricto e inmediato consumo personal, cuando la cantidad del mismo, en cualquiera de sus formas, derivados o preparaciones no exceda de las previstas en el listado siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 480.
+
+Los procedimientos penales y, en su caso, la ejecución de las sanciones por delitos a que se refiere este capítulo, se regirán por las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 481.
+
+El Ministerio Público o la autoridad judicial del conocimiento, tan pronto identifique que una persona relacionada con un procedimiento es farmacodependiente, deberá informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda.
+
+En todo centro de reclusión se prestarán servicios de rehabilitación al farmacodependiente.
+
+Para el otorgamiento de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se considerará como antecedente de mala conducta el relativo a que se le haya considerado farmacodependiente, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 482.
+
+Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo empleare para realizar cualquiera de las conductas sancionadas en el presente capítulo o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
+
+Lo mismo se observará respecto de los delitos de comercio, suministro y posesión de narcóticos previstos en los artículos 194, fracción I, 195 y 195 bis del Código Penal Federal.
+
 ## TRANSITORIOS
 
 PRIMERO.- Esta Ley entrará en vigor a partir del primero de julio de mil novecientos ochenta y cuatro.
@@ -6723,3 +6971,19 @@ DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS A LA LEY GENERAL DE SA
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Por lo que se refiere a los establecimientos del sector público, la creación y funcionamiento de los Comités a que se refiere el presente Decreto se sujetarán a los recursos humanos (incluyendo el personal médico y administrativo), materiales y financieros con que cuentan actualmente.
+
+D.O.F. 20 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Para efecto de lo dispuesto en el artículo 474 de la Ley General de Salud, las legislaturas locales y la Asamblea Legislativa del Distrito Federal contarán con el plazo de un año a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la legislación que corresponda.
+
+La Federación y las entidades federativas contarán con el plazo de tres años a partir de la entrada en vigor del presente Decreto, para realizar las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+TERCERO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+CUARTO.- Las autoridades competentes financiaran las acciones derivadas del cumplimiento del presente Decreto con los recursos que anualmente se prevea en el Presupuesto de Egresos de la Federación, sin menoscabo de los recursos que para tales efectos aporten las entidades federativas.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
