@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2009-06-09"
+last_updated: "2009-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2009.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1413,9 +1413,17 @@ II.- Cuando se acredite plenamente que el inculpado no tuvo participación en la
 
 III.- Cuando, aún pudiendo ser delictivos la conducta o los hechos de que se trate, resulte imposible la prueba de su existencia por obstáculo material insuperable;
 
-IV.- Cuando la responsabilidad penal se halla extinguida legalmente, en los términos del Código Penal; y
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
-V.- Cuando de las diligencias practicadas se desprenda plenamente que el inculpado actuó en circunstancias que excluyen la responsabilidad penal.
+IV.- Cuando la responsabilidad penal se haya extinguida (sic) legalmente, en los términos del Código Penal;
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+V.- Cuando de las diligencias practicadas se desprenda plenamente que el inculpado actuó en circunstancias que excluyen la responsabilidad penal, o
+
+> <small>(ADICIONADA, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+VI.- En los demás casos que señalen las leyes.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
@@ -1923,6 +1931,20 @@ Los requerimientos que formule el Procurador General de la República o el servi
 
 La información y documentos así obtenidos sólo podrán ser utilizados en la investigación y para efectos del proceso penal, debiéndose guardar la más estricta confidencialidad. Al servidor público que quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obran en la averiguación, se le sujetará al procedimiento de responsabilidad administrativa y penal, según corresponda.
 
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 180 Bis.
+
+Tratándose de los delitos de narcomenudeo previstos en los artículos 475, 476 y 477 de la Ley General de Salud, para fines de investigación el titular del Ministerio Público de la Federación podrá autorizar que agentes de la policía bajo su conducción y mando compren, adquieran o reciban la transmisión material de algún narcótico para lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente.
+
+El titular del Ministerio Público de la Federación o el servidor público que al efecto designe podrá autorizar, caso por caso, a los titulares del Ministerio Público de las entidades federativas para que, por conducto de sus policías, empleen las técnicas de investigación a que se refiere el párrafo anterior.
+
+Una vez expedida la autorización a que se refieren los párrafos precedentes, el Ministerio Público de la Federación y, en su caso, el Ministerio Público de las entidades federativas, deberá señalar por escrito en la orden respectiva los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que deberán ejecutar la orden.
+
+En las actividades que desarrollen el o los policías que ejecuten la orden se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones a que se refiere el párrafo anterior.
+
+El Ministerio Público de la Federación deberá dar aviso de la autorización prevista en el primer párrafo de este artículo al Ministerio Público de las entidades federativas en las que se ejecute la orden respectiva.
+
 ### CAPITULO III. Atención médica a los lesionados
 
 ###### ARTICULO 181.
@@ -2353,7 +2375,9 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 11) Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 Bis párrafo tercero;
 
-12) Contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 Bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+12) Contra la salud, previsto en los artículos 194, 195, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -2475,9 +2499,9 @@ XIII. De la Ley de los Sistemas de Ahorro para el Retiro, los previstos en los a
 
 XIV. De la Ley de Quiebras y Suspensión de Pagos, los previstos en el artículo 96;
 
-> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
-XV. De la Ley General de Salud, los previstos en las fracciones I, II y III del artículo 464 Ter;
+XV. De la Ley General de Salud, los previstos en las fracciones I, II y III del artículo 464 Ter, y en los artículos 475 y 476;
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -4721,11 +4745,9 @@ Cuando en el curso del proceso el inculpado enloquezca, se suspenderá el proced
 
 La vigilancia del recluído estará a cargo de la autoridad administrativa federal correspondiente.
 
-### CAPITULO III
+### CAPITULO III. De los farmacodependientes
 
-De los que tienen el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 500.
 
@@ -4819,7 +4841,7 @@ En las Entidades federativas donde hubiere dos o más tribunales para menores, c
 
 (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO I. Disposiciones generales
 
@@ -4827,31 +4849,27 @@ En las Entidades federativas donde hubiere dos o más tribunales para menores, c
 
 ###### ARTICULO 523.
 
-Cuando el Ministerio Público tenga conocimiento de que una persona ha hecho uso indebido de estupefacientes o psicotrópicos, al iniciar su averiguación, se pondrá inmediatamente en relación con la autoridad sanitaria federal correspondiente para determinar la intervención que ésta deba tener en el caso.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+El Ministerio Público al iniciar la averiguación previa, dará aviso a la autoridad sanitaria correspondiente, cuando un farmacodependiente cometa un delito, a fin de que dicha autoridad intervenga en los términos de las disposiciones aplicables, sin perjuicio de lo previsto en el artículo 199, segundo párrafo, del Código Penal Federal.
 
 ###### ARTICULO 524.
 
-Si la averiguación se refiere a la adquisición y posesión de estupefacientes o psicotrópicos, el Ministerio Público, de acuerdo con la autoridad sanitaria a que se refiere el artículo anterior, precisará acuciosamente si esa posesión tiene por finalidad exclusiva el uso personal que de ellos haga el indiciado. En este caso, y siempre que el dictamen hecho por la autoridad sanitaria indique que el inculpado tiene el hábito o necesidad de consumir ese estupefaciente o psicotrópico y la cantidad sea la necesaria para su propio consumo, no hará consignación a los tribunales; en caso contrario, ejercitará acción penal.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+(DEROGADO, D.O.F. 20 DE AGOSTO DE 2009)
 
 ###### ARTICULO 525.
 
-Si se hubiere hecho la consignación y dentro de las setenta y dos horas que señala el artículo 19 constitucional, se formula o se rectifica el dictamen en el sentido de que el inculpado tiene hábito o la necesidad de consumir el estupefaciente o psicotrópico y la cantidad sea la necesaria para su propio consumo, el Ministerio Público se desistirá de la acción penal sin necesidad de consulta al Procurador y pedirá al tribunal que el detenido sea puesto a disposición de la autoridad sanitaria federal para su tratamiento, por el tiempo necesario para su curación.
+(DEROGADO, D.O.F. 20 DE AGOSTO DE 2009)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 526.
 
-Si el inculpado está habituado o tiene la necesidad de consumir estupefacientes o psicotrópicos y además de adquirir o poseer los necesarios para su consumo, comete cualquier delito contra la salud, se le consignará, sin perjuicio de que intervenga la autoridad sanitaria federal para su tratamiento.
+Si el inculpado además de adquirir o poseer los estupefacientes o psicotrópicos necesarios para su consumo personal, comete cualquier delito contra la salud, se le consignará, sin perjuicio de que intervenga la autoridad sanitaria competente para su tratamiento o programa de prevención.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 527.
 
-Cuando exista aseguramiento de estupefacientes o psicotrópicos, los peritos de la autoridad sanitaria federal o cualesquiera otros oficiales, rendirán al Ministerio Público o a los tribunales, un dictamen sobre los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen cuando hubiere detenido, será rendido dentro del término de setenta y dos horas a que se refiere el artículo 19 constitucional.
+Cuando exista aseguramiento de estupefacientes o psicotrópicos, el Ministerio Público o el juez solicitarán la elaboración del dictamen pericial correspondiente a la autoridad competente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen cuando hubiere detenido, será rendido a más tardar dentro del plazo de setenta y dos horas a que se refiere el artículo 19 constitucional.
 
 TITULO DECIMOTERCERO
 
@@ -5546,3 +5564,19 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que contravengan o se opongan a lo dispuesto en el presente Decreto.
 
 ...
+
+D.O.F. 20 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Para efecto de lo dispuesto en el artículo 474 de la Ley General de Salud, las legislaturas locales y la Asamblea Legislativa del Distrito Federal contarán con el plazo de un año a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la legislación que corresponda.
+
+La Federación y las entidades federativas contarán con el plazo de tres años a partir de la entrada en vigor del presente Decreto, para realizar las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+TERCERO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+CUARTO.- Las autoridades competentes financiaran las acciones derivadas del cumplimiento del presente Decreto con los recursos que anualmente se prevea en el Presupuesto de Egresos de la Federación, sin menoscabo de los recursos que para tales efectos aporten las entidades federativas.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
