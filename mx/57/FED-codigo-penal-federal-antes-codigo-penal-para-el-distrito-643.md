@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2009-06-24"
+last_updated: "2009-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2009.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2269,7 +2269,15 @@ Se impondrá prisión de diez a veinticinco años y de cien hasta quinientos dí
 
 I.- Produzca, transporte, trafique, comercie, suministre aun gratuitamente o prescriba alguno de los narcóticos señalados en el artículo anterior, sin la autorización correspondiente a que se refiere la Ley General de Salud.
 
-Para los efectos de esta fracción, por producir se entiende: manufacturar, fabricar, elaborar, preparar o acondicionar algún narcótico, y por comerciar: vender, comprar, adquirir o enajenar algún narcótico;
+Para los efectos de esta fracción, por producir se entiende: manufacturar, fabricar, elaborar, preparar o acondicionar algún narcótico, y por comerciar: vender, comprar, adquirir o enajenar algún narcótico.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+Por suministro se entiende la transmisión material de forma directa o indirecta, por cualquier concepto, de la tenencia de narcóticos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+El comercio y suministro de narcóticos podrán ser investigados, perseguidos y, en su caso sancionados por las autoridades del fuero común en los términos de la Ley General de Salud, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
 
 II.- Introduzca o extraiga del país alguno de los narcóticos comprendidos en el artículo anterior, aunque fuere en forma momentánea o en tránsito.
 
@@ -2281,19 +2289,29 @@ IV.- Realice actos de publicidad o propaganda, para que se consuma cualesquiera 
 
 Las mismas penas previstas en este artículo y, además, privación del cargo o comisión e inhabilitación para ocupar otro hasta por cinco años, se impondrán al servidor público que, en ejercicio de sus funciones o aprovechando su cargo, permita, autorice o tolere cualesquiera de las conductas señaladas en este artículo.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 195.
 
-Se impondrá de cinco a quince años de prisión y de cien a trescientos cincuenta días multa, al que posea alguno de los narcóticos señalados en el artículo 193, sin la autorización correspondiente a que se refiere la Ley General de Salud, siempre y cuando esa posesión sea con la finalidad de realizar alguna de las conductas previstas en el artículo 194.
+Se impondrá de cinco a quince años de prisión y de cien a trescientos cincuenta días multa, al que posea alguno de los narcóticos señalados en el artículo 193, sin la autorización correspondiente a que se refiere la Ley General de Salud, siempre y cuando esa posesión sea con la finalidad de realizar alguna de las conductas previstas en el artículo 194, ambos de este código.
 
-No se procederá en contra de quien, no siendo farmacodependiente se le encuentre en posesión de alguno de los narcóticos señalados en el artículo 193, por una sola vez y en cantidad tal que pueda presumirse que está destinada a su consumo personal.
+La posesión de narcóticos podrá ser investigada, perseguida y, en su caso sancionada por las autoridades del fuero común en los términos de la Ley General de Salud, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
 
-No se procederá por la simple posesión de medicamentos, previstos entre los narcóticos a los que se refiere el artículo 193, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+Cuando el inculpado posea alguno de los narcóticos señalados en la tabla prevista en el artículo 479 de la Ley General de Salud, en cantidad igual o superior a la que resulte de multiplicar por mil las ahí referidas, se presume que la posesión tiene como objeto cometer alguna de las conductas previstas en el artículo 194 de este código.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
-ARTICULO 195 bis.- Cuando la posesión o transporte, por la cantidad como por las demás circunstancias del hecho, no pueda considerarse destinada a realizar alguna de las conductas a que se refiere el artículo 194 de este Código y no se trate de un miembro de una asociación delictuosa, se aplicarán las penas previstas en las tablas contenidas en el apéndice 1 de este ordenamiento, si el narcótico no se encuentra comprendido en las mismas, se aplicará hasta la mitad de las penas señaladas en el artículo anterior.
+ARTICULO 195 bis.- Cuando por las circunstancias del hecho la posesión de alguno de los narcóticos señalados en el artículo 193, sin la autorización a que se refiere la Ley General de Salud, no pueda considerarse destinada a realizar alguna de las conductas a que se refiere el artículo 194, se aplicará pena de cuatro a siete años seis meses de prisión y de cincuenta a ciento cincuenta días multa.
+
+El Ministerio Público Federal no procederá penalmente por este delito en contra de la persona que posea:
+
+I. Medicamentos que contengan narcóticos, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+
+II. Peyote u hongos alucinógenos, cuando por la cantidad y circunstancias del caso pueda presumirse que serán utilizados en las ceremonias, usos y costumbres de los pueblos y comunidades indígenas, así reconocidos por sus autoridades propias.
+
+Para efectos de este capítulo se entiende por posesión: la tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona.
+
+La posesión de narcóticos podrá ser investigada, perseguida y, en su caso sancionada por las autoridades del fuero común en los términos de la Ley General de Salud, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2351,15 +2369,15 @@ Si en las conductas descritas en los dos párrafos anteriores no concurren las c
 
 Si el delito fuere cometido por servidor público de alguna corporación policial, se le impondrá, además la destitución del empleo, cargo o comisión públicos y se le inhabilitará de uno a cinco años para desempeñar otro, y si el delito lo cometiere un miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, se le impondrá, además de la pena de prisión señalada, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a cinco años para desempeñar cargo o comisión públicos.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 199.
 
-Al farmacodependiente que posea para su estricto consumo personal algún narcótico de los señalados en el artículo 193 no se le aplicará pena alguna. El Ministerio Público o la autoridad judicial del conocimiento, tan pronto como se enteren en algún procedimiento de que una persona relacionada con él es farmacodependiente, deberán informar de inmediato a las autoridades sanitarias, para los efectos del tratamiento que corresponda.
+El Ministerio Público o la autoridad judicial del conocimiento, tan pronto conozca que una persona relacionada con algún procedimiento por los delitos previstos en los artículos 195 o 195 bis, es farmacodependiente, deberá informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda.
 
-Todo procesado o sentenciado que sea farmacodependiente quedará sujeto a tratamiento.
+En todo centro de reclusión se prestarán servicios de rehabilitación al farmacodependiente.
 
-Para la concesión de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se considerará como antecedente de mala conducta el relativo a la farmacodependencia, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento adecuado para su curación bajo vigilancia de la autoridad ejecutora.
+Para el otorgamiento de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se considerará como antecedente de mala conducta el relativo a la farmacodependencia, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -6444,3 +6462,19 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el
 D.O.F. 24 DE JUNIO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Para efecto de lo dispuesto en el artículo 474 de la Ley General de Salud, las legislaturas locales y la Asamblea Legislativa del Distrito Federal contarán con el plazo de un año a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la legislación que corresponda.
+
+La Federación y las entidades federativas contarán con el plazo de tres años a partir de la entrada en vigor del presente Decreto, para realizar las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+TERCERO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+CUARTO.- Las autoridades competentes financiaran las acciones derivadas del cumplimiento del presente Decreto con los recursos que anualmente se prevea en el Presupuesto de Egresos de la Federación, sin menoscabo de los recursos que para tales efectos aporten las entidades federativas.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
