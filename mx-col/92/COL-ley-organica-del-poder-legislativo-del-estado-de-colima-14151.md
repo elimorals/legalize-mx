@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2009-08-15"
+last_updated: "2009-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -451,7 +451,7 @@ El Presidente y Vicepresidente durarán en sus cargos, un mes pudiendo ser reele
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
-El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, éste debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, la Asamblea, exigiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión.
+El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, este debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, la Asamblea, exigiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -627,7 +627,9 @@ Son facultades de la Comisión de Gobierno:
 
 I.- Elaborar un plan de trabajo y presentarlo al Congreso para su aprobación, durante el primer período de sesiones;
 
-II.- Proponer a la Asamblea la designación del Oficial Mayor y del Contador Mayor de Hacienda, así como pedir su remoción y vigilar el funcionamiento de ambas dependencias;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+II.- Proponer a la Asamblea la designación del Oficial Mayor, así como pedir su remoción y vigilar el funcionamiento de la citada dependencia;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -749,9 +751,9 @@ XII.- Salud, Asistencia Social y Protección a la Niñez, Juventud, Adultos Mayo
 
 XIII.- Desarrollo Municipal, Participación Ciudadana, Peticiones, y Ediciones Legislativas;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-XIV.- Vigilancia de la Contaduría Mayor de Hacienda; y
+XIV.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
@@ -795,11 +797,13 @@ En caso de no lograrse la mayoría simple, las comisiones serán asignadas entre
 
 Las Comisiones de Responsabilidades y de Hacienda y Presupuesto, respectivamente, se integrarán por cinco Diputados, de conformidad con los términos que señale el Reglamento respectivo.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-La Comisión de Vigilancia de la Contaduría Mayor de Hacienda estará integrará (sic) por cinco Diputados y será asignada la presidencia de la misma al grupo parlamentario que represente la primera minoría. En caso de que el titular del Poder Ejecutivo pertenezca al partido político de primera minoría esta responsabilidad recaerá a la segunda minoría.
+La Comisión de vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado estará integrada por cinco Diputados y será asignada la presidencia de la misma al grupo parlamentario que represente la primera minoría. En caso de que el titular del Poder Ejecutivo pertenezca al partido político de primera minoría esta responsabilidad recaerá a la segunda minoría.
 
-Corresponde a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda el vigilar al órgano fiscalizador del Congreso, proponiendo medidas para su eficaz funcionamiento, cuidando que la asesoría contable, administrativa, fiscal y jurídica que se le solicite se proporcionen en forma eficaz y eficiente. En el caso de auditorías se accederá solo a procesos concluidos.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+La Comisión de Vigilancia del Órgano Superior de Auditarla y Fiscalización Gubernamental del Estado, tendrá las facultades previstas en la Ley de la materia.
 
 Ningún Diputado podrá formar parte de más de cuatro comisiones ni ser Presidente de más de una.
 
@@ -819,23 +823,27 @@ DE LOS ORGANOS DE FISCALIZACION Y ADMINISTRACION DEL CONGRESO.
 
 Los órganos de fiscalización y administración del Congreso son:
 
-I.- La Contaduría Mayor de Hacienda; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+I.- El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y
 
 II.- La Oficialía Mayor.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 61.
 
-La Contaduría Mayor de Hacienda es el órgano técnico auxiliar del Congreso con autonomía y jurisdicción en materia de fiscalización de la Hacienda Pública que le faculte la Ley expedida por este H. Congreso del Estado.
+El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, gozará de autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones, para decidir sobre su organización interna, funcionamiento, recursos humanos y materiales, así como sus determinaciones y resoluciones. Tendrá a cargo la función de fiscalización que se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2000)</small>
+Dicho órgano estará integrado por los servidores públicos que establezca su Ley, los cuales estarán sujetos al servicio civil de carrera; y en él se revisarán y fiscalizarán las cuentas de los caudales públicos del erario del Estado.
 
-Será aprobado por el Congreso, a propuesta de la Comisión de Gobierno y por mayoría absoluta.
+Para elegir al Auditor Superior del Estado el Congreso emitirá la convocatoria y lo designará con el voto de las dos terceras partes de los Diputados presentes en los términos que determine la Ley de la materia. Durará en el cargo un periodo de siete años y podrá ser reelecto por un período más. Durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los diputados presentes. Sus atribuciones serán las que le otorgue: la Constitución, esta Ley, su Reglamento, las disposiciones que dicte el propio Congreso y los demás ordenamientos legales.
 
-Tiene a su cargo la fiscalización, control y evaluación de la hacienda pública, la revisión de las cuentas públicas del Gobierno del Estado y de los Ayuntamientos, así como de practicar auditorías a los organismos públicos descentralizados, entidades paraestatales o paramunicipales y, en general, a los organismos que administren o reciban fondos o valores públicos, además de las atribuciones que le otorgue: la Constitución, esta Ley, su Reglamento, las disposiciones que dicte el propio Congreso y los demás ordenamientos legales.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 62.
 
-Las facultades, atribuciones y organización de la Contaduría Mayor de Hacienda se regulan conforme a lo establecido en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado.
+Las facultades, atribuciones y organización del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, se regulan conforme a lo establecido en su Ley.
 
 ###### ARTICULO 63.
 
@@ -889,9 +897,11 @@ Los recursos financieros serán suministrados a los grupos parlamentarios confor
 
 Cuando un Diputado sea el único acreditado por un partido político o se haya declarado independiente, por tanto, no integre grupo parlamentario, tendrá derecho a recibir la parte proporcional que corresponda de la partida de apoyo financiero a que se refiere el primer párrafo de este artículo, así como a los demás apoyos de ley.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 70.
 
-Los grupos parlamentarios están obligados a destinar los recursos que se les otorguen exclusivamente para el cumplimiento de sus funciones, y deberán rendir un informe anual de su aplicación y manejo a la Contaduría Mayor de Hacienda, para los efectos de la Cuenta Pública.
+Los grupos parlamentarios están obligados a destinar los recursos que se les otorguen exclusivamente para el cumplimiento de sus funciones, y deberán rendir un informe anual de su aplicación y manejo al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, para los efectos de la Cuenta Pública.
 
 ## TITULO TERCERO
 
@@ -1346,3 +1356,9 @@ P.O. 25 DE JULIO DE 2009.
 P.O. 15 DE AGOSTO DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 21 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
