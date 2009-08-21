@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2008-09-12"
+last_updated: "2009-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DECIMO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 21 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -1378,3 +1380,39 @@ P.O. 12 DE SEPTIEMBRE DE 2008.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado dentro del término de sesenta días, deberá realizar las adecuaciones correspondientes al Reglamento del Consejo Ciudadano de Seguridad Pública del Estado de Baja California.
+
+P.O. 21 DE AGOSTO DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado de Baja California, salvo lo previsto en los artículos transitorios siguientes.
+
+SEGUNDO.- La Secretaría de Seguridad Pública del Estado cantará con el plazo de cuatro años a partir de la entrada en vigor de esta Ley, para expedir el reglamento para la organización y funcionamiento del Centro de Evaluación y Control de Confianza del Estado de Baja California, nombrar al director de dicho ente; así como acreditar la operación, funcionamiento y los respectivos procesos de evaluación ante el Centro Nacional de Certificación y Acreditación, de conformidad con lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública, y de manera progresiva practicar las evaluaciones a los Agentes del Ministerio Público, Peritos, Miembros y Elementos de apoyo de las Instituciones de Seguridad Pública del Estado conforme al calendario aprobado por el Consejo Nacional de Seguridad Pública.
+
+TERCERO.- Todos los Agentes del Ministerio Público, Peritos, Miembros y Elementos de apoyo de las Instituciones de Seguridad Pública del Estado deberán contar con el certificado a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, y la presente Ley, en los términos y plazos previstos en el artículo transitorio anterior. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+CUARTO.- Los Agentes del Ministerio Público, Peritos, Miembros y Elementos de apoyo de las Instituciones de Seguridad Pública del Estado que obtengan el certificado y que satisfagan los requisitos de ingreso y permanencia que se establecen en la Ley General del Sistema Nacional de Seguridad Pública y la presente Ley, ingresarán o serán homologados al servicio de carrera en las ramas ministerial, policial y pericial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables, de conformidad con lo previsto en la presente Ley en un plazo de un año a partir de la fecha de expedición del Certificado.
+
+QUINTO.- El Ejecutivo del Estado y los Ayuntamientos deberán desarrollar el sistema de prestaciones y complementario de seguridad social para el retiro y jubilación de los Miembros de las Instituciones Policiales, en un plazo de un año a partir de que se haya cumplido con lo previsto en el artículo cuarto transitorio.
+
+SEXTO.- El Ejecutivo del Estado y los Ayuntamientos deberán expedir el ordenamiento para la integración, organización y funcionamiento de las instancias encargadas del conocimiento y resolución de los procedimientos de carrera policial y régimen disciplinario.
+
+SÉPTIMO.- Las instancias encargadas del conocimiento y resolución de los procedimientos de la carrera policial y régimen disciplinario entrarán en funciones en un plazo de noventa días posteriores a la entrada en vigencia de esta Ley.
+
+OCTAVO.- Las faltas administrativas y ausencias de requisitos de permanencia, acontecidas con anterioridad a la entrada en vigor de esta Ley, se substanciarán, resolverán y ejecutarán por la Contraloría Interna, en la forma y términos previstos en Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado de Baja California.
+
+Las infracciones al régimen disciplinario y las causas de Separación Definitiva por falta de requisitos de permanencia y demás casos previstos en esta ley que acontezcan con posterioridad a la entrada en vigor de la presente Ley, serán substanciadas y resultas en los términos de esta Ley.
+
+NOVENO.- El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias de la presente Ley.
+
+DÉCIMO.- Se abrogan la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado de Baja California, y la Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California, publicadas en el Periódico Oficial del Estado de Baja California, el 16 de Enero de 2004 y el 17 de Abril de 1998, respectivamente, a partir de la entrada en vigor de la presente Ley, salvo las excepciones previstas en los presentes artículos transitorios.
+
+UNDÉCIMO.- El Ejecutivo del Estado, a partir de que el Consejo Nacional de Seguridad Pública y las Conferencias que prevé el Sistema Nacional de Seguridad Pública expidan los criterios para el establecimiento de la Academia de Seguridad Pública del Estado de Baja California y el contenido del Programa Rector, expedirá el reglamento conforme al cual se organizará y funcionará la Academia de Seguridad Pública del Estado de Baja California; así como el nombramiento del Director del mismo.
+
+DUODÉCIMO.- El Instituto Estatal de Seguridad Pública hasta en tanto se establezca la Academia de Seguridad Pública del Estado de Baja California y el Centro de Evaluación y Control de Confianza del Estado de Baja California, en los términos previstos en los artículos Segundo y Undécimo, seguirá funcionando en la forma y términos previstos en la Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California, reglamentos y demás disposiciones legales
+
+DÉCIMO TERCERO.- El Ejecutivo del Estado, a partir de que el Consejo Nacional de Seguridad Pública y las Conferencias que prevé el Sistema Nacional de Seguridad Pública expidan los criterios para el establecimiento de los Institutos y los contenidos del Programa Rector, expedirá el reglamento conforme al cual se organizará y funcionará el Instituto de Estudios Avanzados de Procuración de Justicia del Estado; así como el nombramiento del Director del mismo.
+
+DÉCIMO CUARTO.- El Instituto de Capacitación y Formación de la Procuraduría General de Justicia del Estado, hasta en tanto se establezca el Instituto de Estudios Avanzados de Procuración de Justicia del Estado, seguirá funcionando en la forma y términos previstos en la ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California.
+
+DÉCIMO QUINTO.- El presidente del Consejo Estatal de Seguridad Pública, a través del Secretario Ejecutivo del mismo, podrá establecer en los términos de esta ley, las medidas necesarias, para sesionar hasta en tanto se expida el reglamento en los términos del artículo Noveno transitorio de la presente ley.
+
+DÉCIMO SEXTO.- Deberán revisarse los ordenamientos legales concernientes a la atención y protección de la victima u ofendido, así como al combate de la delincuencia organizada, a efecto de que se realicen las observaciones pertinentes, en congruencia con la presente ley.
