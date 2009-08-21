@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48161"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-05-09"
+last_updated: "2009-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -479,13 +479,15 @@ II.- A los usuarios de servicio medido que sin tener adeudos de ejercicios anter
 
 A los usuarios de cuota mínima que paguen por anualidad en los términos de la fracción I de este artículo y que posteriormente se les instale medidor, se les ajustará su facturación en los términos de la fracción anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 27.
 
-Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados jubilados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, y que comprueben ser propietarios debiendo exhibir los siguientes documentos:
+Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados, adultos mayores y personas con discapacidad en los términos de la Ley de la materia, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan y que comprueben ser propietarios, debiendo exhibir los siguientes documentos:
 
-I.- Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+I.- Original y copia de la credencial que lo acredite como pensionado o jubilado, adulto mayor o con capacidad diferente, según sea el caso, expedidos por institución oficial mexicana; y
 
 II.- Credencial de elector en la que aparezca el domicilio respecto del cual se solicita el descuento.
 
@@ -550,6 +552,12 @@ P.O. 7 DE MARZO DE 2009.
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE AGOSTO DE 2009.
+
+PRIMERO.- El beneficio a que se refiere este Decreto se otorgará a los usuarios que se encuentren al corriente en el pago de los servicios de Agua Potable, Alcantarillado y Saneamiento.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
