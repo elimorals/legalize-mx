@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-adquisiciones-enajenaciones-arrendamientos-y-46361"
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-16"
-last_updated: "2005-09-16"
+last_updated: "2009-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL SECTOR PUBLICO EN EL ESTADO DE GUANAJUATO
 
-LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL SECTOR PUBLICO EN EL ESTADO DE GUANAJUATO
+LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PÚBLICO EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el viernes 16 de septiembre de 2005.
 
@@ -73,9 +73,9 @@ III. Comités: Los Comités de adquisiciones, enajenaciones, arrendamientos y co
 
 IV. Compras Consolidadas: Aquéllas que efectúen en un solo contrato dos o más sujetos de esta Ley o bien, entre dos o más dependencias y/o entidades;
 
-V. Concurso: El Procedimiento administrativo de evaluación mediante el cual, los sujetos de esta Ley seleccionan a la persona más idónea para la prestación de servicios de asesoría, capacitación, informáticos y de estudios e investigaciones;
+V. (DEROGADA, P.O. 21 DE AGOSTO DE 2009)
 
-VI. Concursante: La persona que presente su propuesta en cualquier procedimiento de concurso;
+VI. (DEROGADA, P.O. 21 DE AGOSTO DE 2009)
 
 VII. Contrato Abierto: Aquel que permite adquirir y arrendar bienes o contratar servicios por una cantidad, un presupuesto o un plazo mínimo y máximo;
 
@@ -119,7 +119,13 @@ II. La adquisición de bienes muebles que deban incorporarse, adherirse o destin
 
 III. La enajenación de bienes muebles propiedad de los sujetos de esta Ley, y
 
-IV. Los servicios de cualquier naturaleza, siempre y cuando no sean de carácter laboral, o asimilados a éstos, cuya prestación genere una obligación de pago.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+IV. Los servicios relacionados con el objeto de la Ley, cuya prestación genere una obligación de pago.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+En el caso de la contratación de servicios para asesorías, capacitación, informáticos, estudios e investigaciones que no se relacionen con el objeto de esta Ley, se sujetará a las disposiciones legales, reglamentarias o administrativas que resulten aplicables y en lo que no se oponga a éstas, por el Código Civil para el Estado de Guanajuato. Dichas contrataciones deberán ser revisadas por los órganos de control interno, emitiendo las observaciones que correspondan.
 
 ###### Artículo 7.
 
@@ -131,9 +137,13 @@ II. Los servicios de mercado de valores y de banca y crédito;
 
 III. Los bienes adquiridos o recibidos en consignación por las dependencias y entidades, para su comercialización a sus empleados y al público en general;
 
-IV. La contratación de servicios personales bajo el régimen fiscal de honorarios asimilados a salarios, y
+IV. La contratación de servicios personales bajo el régimen fiscal de honorarios asimilados a salarios, y (sic)
 
-V. La adquisición de reservas territoriales necesarias para la construcción de infraestructura pública.
+V. La adquisición de reservas territoriales necesarias para la construcción de infraestructura pública;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+VI. Los actos y contratos relacionados con la prestación de servicios profesionales.
 
 ###### Artículo 8.
 
@@ -315,9 +325,13 @@ A las reuniones del Comité asistirán, un representante del Órgano de Control 
 
 Los comités tendrán las siguientes atribuciones:
 
-I. Publicar en los términos de esta Ley, las convocatorias de la licitación, subasta o concurso;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-II. Intervenir en los actos de presentación y apertura de ofertas de las licitaciones, subastas o concursos, según corresponda;
+I. Publicar en los términos de esta Ley, las convocatorias de la licitación o subasta;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+II. Intervenir en los actos de presentación y apertura de ofertas de las licitaciones o subastas, según corresponda;
 
 III. Evaluar las ofertas conforme a los criterios establecidos en esta Ley y los que en su caso se indiquen en las bases respectivas, y emitir los fallos correspondientes;
 
@@ -443,13 +457,17 @@ VI. Las que realicen por sí, o a través de empresas que formen parte del mismo
 
 VII. Las demás que por cualquier causa se encuentren impedidas por disposición de Ley.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 39.
 
-Los licitantes, postores o concursantes, bajo protesta de decir verdad, deberán señalar que participan en condiciones que no impliquen ventajas ilícitas respecto de otros interesados.
+Los licitantes o postores, bajo protesta de decir verdad, deberán señalar que participan en condiciones que no impliquen ventajas ilícitas respecto de otros interesados.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 40.
 
-En las adquisiciones que se realicen al amparo de esta Ley, no podrá solicitarse una marca específica o una empresa determinada, salvo que exista dictamen técnico debidamente justificado por las áreas solicitante y normativa, a juicio del comité.
+En las adquisiciones que se realicen al amparo de esta Ley, no podrá solicitarse una marca específica o una empresa determinada, salvo que existan razones técnicas debidamente justificadas por las áreas solicitante y normativa, a juicio del comité.
 
 ### CAPÍTULO SEGUNDO. DE LAS GARANTÍAS PARA CONTRATAR
 
@@ -487,7 +505,7 @@ I. Licitación Pública;
 
 II. Licitación Restringida;
 
-III. Concurso;
+III. (DEROGADA, P.O. 21 DE AGOSTO DE 2009)
 
 IV. Subasta, y
 
@@ -777,6 +795,10 @@ Corresponde a los comités, previo acuerdo de los sujetos de esta Ley, la enajen
 
 Los bienes muebles propiedad de los sujetos de esta Ley que les resulten inútiles, incosteables u obsoletos, deberán ser dados de baja a través del dictamen formulado por la Secretaría u Órgano de Administración correspondiente y podrán ser enajenados a título oneroso o gratuito en los términos de esta Ley.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+En los supuestos no previstos en el párrafo anterior, por causa justificada y mediante acuerdo del sujeto de la ley que corresponda, podrán ser enajenados a título gratuito los bienes muebles en favor de los municipios, de instituciones educativas, de beneficencia, de la Federación o de otras entidades federativas, observando las demás disposiciones legales que resulten aplicables.
+
 ###### Artículo 76.
 
 En los casos que, de acuerdo al dictamen respectivo, no sea recomendable la rehabilitación de un bien mueble y sea más costeable su enajenación en el estado en que se encuentre, se determinará como destino su venta a través de subasta pública, a excepción de los siguientes supuestos:
@@ -787,9 +809,13 @@ II. Cuando no se presenten por lo menos tres posturas;
 
 III. Cuando sea más costosa la realización del procedimiento de enajenación que el valor estimado de los bienes muebles;
 
-IV. Cuando se rescinda un contrato adjudicado conforme a este procedimiento; en tal supuesto, conforme al criterio de adjudicación, el comité celebrará un nuevo contrato de enajenación con el postor que resulte mas aceptable de los que participaron en la subasta, y
+IV. Cuando se rescinda un contrato adjudicado conforme a este procedimiento; en tal supuesto, conforme al criterio de adjudicación, el comité celebrará un nuevo contrato de enajenación con el postor que resulte mas aceptable de los que participaron en la subasta, y (sic)
 
-V. Cuando el destino de los bienes muebles propiedad del Estado sea la donación a los municipios, a instituciones educativas, de beneficencia, o a otras entidades federativas, por acuerdo del sujeto de esta Ley que corresponda.
+V. Cuando el destino de los bienes muebles propiedad del Estado sea la donación a los municipios, a instituciones educativas, de beneficencia, o a otras entidades federativas, por acuerdo del sujeto de esta Ley que corresponda;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+VI. Cuando se pacte el pago en especie de una obligación y esto represente una ventaja o ahorro económico para el Estado.
 
 En los supuestos señalados, se podrán enajenar directamente los bienes, siempre y cuando, tratándose de enajenación a título oneroso, el interesado pague el precio mínimo determinado para esos efectos por el comité respectivo.
 
@@ -833,29 +859,27 @@ Las subastas de bienes muebles, deberán ser realizadas en apego al procedimient
 
 ###### Artículo 83.
 
-Las contrataciones de servicios para asesorías, capacitación, informáticos, estudios e investigaciones, se llevarán a cabo mediante concurso con invitación a por lo menos tres personas, aplicando en lo conducente, el procedimiento de licitación restringida.
-
-La contratación de los servicios referidos en el párrafo anterior, requerirá de la autorización del titular de la dependencia, entidad u Órgano de Administración solicitante, en donde se justifique que son indispensables para el cumplimiento de los programas autorizados, y que no se cuenta con personal adscrito a los mismos que esté capacitado o disponible para su realización.
-
-En las bases y propuestas técnicas del concurso, así como en su evaluación, se tomarán en cuenta aspectos cualitativos específicos, como son entre otros, la experiencia, honestidad, prestigio e infraestructura que garanticen la prestación de un servicio idóneo para los sujetos de esta Ley.
-
-Concluida la prestación del servicio, el titular del área administrativa responsable de su recepción deberá emitir un dictamen que evalúe el resultado obtenido y si éste cumplió con el objeto del contrato.
+(DEROGADO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### Artículo 84.
 
-La contratación de servicios para asesorías, capacitación, informáticos, estudios e investigaciones, se llevará a cabo de manera directa, cuando el importe del contrato no exceda del monto máximo previsto para la modalidad de adjudicación directa en la Ley del Presupuesto General de Egresos del Estado de Guanajuato para el ejercicio fiscal correspondiente.
+(DEROGADO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### Artículo 85.
 
-Tratándose de servicios distintos a los señalados en el artículo anterior, se aplicará el procedimiento de contratación que corresponda, atendiendo al monto del servicio a contratar.
+(DEROGADO, P.O. 21 DE AGOSTO DE 2009)
 
 ### CAPÍTULO SEXTO. DE LA ADJUDICACIÓN DIRECTA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 86.
 
-Los comités previo acuerdo de los sujetos de esta Ley, podrán autorizar contratos sin llevar a cabo las licitaciones o concursos que establece esta Ley, en los supuestos que a continuación se señalan:
+Los comités, previo acuerdo de los sujetos de esta Ley, podrán autorizar contratos sin llevar a cabo las licitaciones que establece esta Ley, en los supuestos que a continuación se señalan:
 
-I. Cuando se declare desierta una licitación o concurso por segunda vez;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+I. Cuando se declare desierta una licitación por segunda vez;
 
 II. Cuando se trate de adquisiciones de bienes perecederos, productos alimenticios básicos o semiprocesados y bienes usados, con excepción de vehículos de motor. Tratándose de bienes usados, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones de banca y crédito o terceros autorizados para ello, conforme a las disposiciones aplicables;
 
@@ -867,9 +891,23 @@ V. Cuando no existan por lo menos tres proveedores, previa investigación de mer
 
 VI. Cuando se trate de estudios de mercado a que se refiere esta Ley o de servicios de asesorías al comité para el cumplimiento de sus atribuciones;
 
-VII. Cuando se hubiese rescindido el contrato o no se haya formalizado el mismo por causa imputable al proveedor; en este supuesto, los comités verificarán previamente si dentro de los que participaron en la licitación o concurso conforme al criterio de adjudicación que establece esta Ley, existe otra oferta que resulte aceptable, en cuyo caso, el contrato se celebrará con el licitante o concursante respectivo;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-VIII. Cuando el objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para producir otros, en la cantidad necesaria para efectuar las pruebas que demuestren su funcionamiento. En estos casos la dependencia, entidad u Órgano de Administración deberá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituya a favor de los sujetos de esta Ley.
+VII. Cuando se hubiese rescindido el contrato o no se haya formalizado el mismo por causa imputable al proveedor; en este supuesto, los comités verificarán previamente si dentro de los que participaron en la licitación conforme al criterio de adjudicación que establece esta Ley, existe otra oferta que resulte aceptable, en cuyo caso, el contrato se celebrará con el licitante;
+
+VIII. Cuando el objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para producir otros, en la cantidad necesaria para efectuar las pruebas que demuestren su funcionamiento. En estos casos la dependencia, entidad u Órgano de Administración deberá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituya a favor de los sujetos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+IX. Cuando el conocimiento público de las especificaciones de los bienes o servicios a contratar pudieran afectar la seguridad pública del Estado o de los municipios, o comprometer información de índole reservada o confidencial, en términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+X. Cuando se trate de adquisiciones de bienes muebles necesarios para la operación de las unidades de negocio de las dependencias y entidades de la administración pública estatal que sostengan actividades empresariales conforme a los regímenes fiscales que les apliquen y que dentro del Gobierno del Estado se dediquen a la comercialización, con excepción de vehículos; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+XI. Cuando por razón del monto de adquisición, arrendamiento o servicio resulte inconveniente realizar el procedimiento de licitación, en función de la oportunidad de que se trate, sujetándose para tal efecto al monto de que para la modalidad de la adjudicación directa contemple la Ley de Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente.
 
 Con excepción de lo previsto en la fracción VII, se contratará a las personas que cuenten con capacidad de respuesta inmediata y con los recursos que sean necesarios.
 
@@ -883,15 +921,19 @@ La opción que los comités ejerzan deberá fundarse y motivarse en el dictamen 
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 88.
 
-Los contratos serán elaborados en términos de la presente Ley, de las bases de la licitación, concurso o subasta, del fallo de adjudicación y de las demás disposiciones aplicables.
+Los contratos serán elaborados en términos de la presente Ley, de las bases de la licitación o subasta, del fallo de la adjudicación y de las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 89.
 
-En los contratos regulados por esta Ley, deberá pactarse la condición de precio fijo. En casos justificados se podrán pactar decrementos o incrementos en los precios, de acuerdo con la fórmula que determine previamente el comité respectivo en las bases de la licitación o concurso.
+En los contratos regulados por esta Ley, deberá pactarse la condición de precio fijo. En casos justificados se podrán pactar decrementos o incrementos en los precios, de acuerdo con la fórmula que determine previamente el comité respectivo en las bases de la licitación.
 
-En ningún caso procederán ajustes que no hubieren sido considerados en las propias bases de la licitación, concurso o subasta. Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
+En ningún caso procederán ajustes que no hubieren sido considerados en las propias bases de la licitación o subasta. Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
 
 ###### Artículo 90.
 
@@ -899,11 +941,15 @@ En la formalización y cumplimiento de los contratos deberá observarse lo sigui
 
 I. El contrato se suscribirá en un plazo no mayor de diez días hábiles, contados a partir de la fecha en que se notifique el fallo de adjudicación correspondiente. Los comités podrán celebrar contratos preparatorios para garantizar la operación;
 
-II. Cuando se hubiere adjudicado el contrato como resultado de una licitación, concurso o subasta, y no se formalice por causas imputables al licitante, postor o concursante dentro del plazo a que se refiere la fracción anterior, podrán los comités adjudicar el contrato al participante siguiente en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-III. El licitante o concursante a quien se hubiere adjudicado el contrato no estará obligado a suscribirlo y por tanto, a suministrar los bienes o a prestar el servicio, si la Secretaría, dependencia, entidad u Órgano de Administración, por causas no imputables al propio licitante o concursante, no suscribe el contrato dentro del plazo establecido en este artículo
+II. Cuando se hubiere adjudicado el contrato como resultado de una licitación o subasta, y no se formalice por causas imputables al licitante o postor dentro del plazo a que se refiere la fracción anterior, podrán los comités adjudicar el contrato al participante siguiente en los términos de esta Ley;
 
-Si el licitante o concursante opta por suscribir el contrato, las obligaciones asumidas por ambas partes, derivadas de las disposiciones legales aplicables, de las bases de la licitación o concurso respectivo, se prorrogarán en igual plazo al del atraso en la formalización del contrato;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+III. El licitante a quien se hubiere adjudicado el contrato no estará obligado a suscribirlo y por tanto, a suministrar los bienes o a prestar el servicio, si la Secretaría, dependencia, entidad u Órgano de Administración, por causas no imputables al propio licitante, no suscribe el contrato dentro del plazo establecido en este artículo.
+
+Si el licitante opta por suscribir el contrato, las obligaciones asumidas por ambas partes, derivadas de las disposiciones legales aplicables, de las bases de la licitación, se prorrogarán en igual plazo al del atraso en la formalización del contrato;
 
 IV. Los derechos y obligaciones que se deriven del contrato, no podrán cederse, con excepción de los derechos de cobro, en cuyo caso se deberá expresar en el contrato respectivo o bien, sujetarse a la conformidad previa del comité, la que una vez solicitada, se emitirá en un plazo no mayor a cinco días hábiles;
 
@@ -1087,9 +1133,11 @@ Los órganos de control interno realizarán las investigaciones para la comproba
 
 ### CAPÍTULO PRIMERO. DE LAS INFRACCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 115.
 
-Son infracciones cometidas por los licitantes, concursantes, postores o proveedores, en los procedimientos y contratos previstos en esta Ley, las siguientes:
+Son infracciones cometidas por los licitantes, postores o proveedores, en los procedimientos y contratos previstos en esta Ley, las siguientes:
 
 I. Proporcionar a los sujetos de esta Ley información falsa o documentación alterada;
 
@@ -1097,7 +1145,9 @@ II. No cumplir con las obligaciones a su cargo en los plazos pactados en el cont
 
 III. Declararse en concurso mercantil, quiebra o suspensión de pagos una vez formalizado el contrato;
 
-IV. Realizar prácticas desleales para con los sujetos de esta Ley o demás licitantes, concursantes o postores;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+IV. Realizar prácticas desleales para con los sujetos de esta Ley o demás licitantes o postores;
 
 V. No formalizar el contrato adjudicado en el plazo de Ley, y
 
@@ -1115,9 +1165,11 @@ Los proveedores que cometan la infracción establecida en la fracción II del ar
 
 Cuando se incurra en reincidencia en la comisión de dicha infracción, se prohibirá la participación del proveedor en los procesos de contratación regulados por esta Ley, durante un plazo máximo de un año. Lo anterior, sin perjuicio de lo previsto en el artículo 37 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 118.
 
-Los licitantes, concursantes, postores o proveedores que cometan las infracciones contenidas en las fracciones I, III, IV, V y VI del artículo 115 de esta Ley, serán sancionados con una multa por un importe equivalente de tres a cien salarios mínimos vigentes en el Estado elevado al mes.
+Los licitantes, postores o proveedores que cometan las Infracciones contenidas en las fracciones I, III, IV, V y VI del artículo 115 de esta Ley, serán sancionados con una multa por un Importe equivalente de tres a cien salarios mínimos vigentes en el Estado elevado al mes.
 
 Tratándose de reincidencia, se impondrá una multa por un monto de hasta el doble de la impuesta con anterioridad.
 
@@ -1165,9 +1217,11 @@ Los servidores públicos que infrinjan las disposiciones de esta Ley, serán san
 
 ### CAPÍTULO PRIMERO. DE LA INTERPOSICIÓN Y PROCEDENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 125.
 
-Las personas interesadas podrán inconformarse por escrito ante el órgano de control interno correspondiente, por las resoluciones o los actos que contravengan las disposiciones de esta Ley, dentro de los diez días hábiles siguientes a aquél en que éstos se realicen o notifiquen, o el inconforme tenga conocimiento de los mismos.
+Las personas interesadas podrán inconformarse por escrito ante el órgano de control interno correspondiente, por las resoluciones o los actos que contravengan las disposiciones de esta Ley, dentro de los cinco días hábiles siguientes a aquél en que éstos se realicen o notifiquen, o el inconforme tenga conocimiento de los mismos.
 
 Transcurrido el plazo referido, precluye para los interesados el término para interponer el recurso de inconformidad.
 
@@ -1195,27 +1249,81 @@ En el recurso de inconformidad que se presente en los términos a que se refiere
 
 Cuando el recurso de inconformidad se declare improcedente y se advierta que se hizo con el único propósito de retrasar o entorpecer el procedimiento de contratación, se impondrá al inconforme una multa con arreglo a lo establecido por el artículo 118 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### Artículo 127 Bis.
+
+El recurso de inconformidad es improcedente contra actos:
+
+I. Respecto de los cuales hubiere consentimiento expreso o tácito, entendiendo que se da este último cuando los actos dentro de los procesos licitatorios no fueron combatidos en el plazo establecido en el artículo 125;
+
+II. Que no afecten los intereses jurídicos del recurrente;
+
+III. Consumados de un modo irreparable a juicio del órgano de control interno correspondiente; y
+
+IV. Que sean inexistentes, derivada esta circunstancia claramente de las constancias de autos.
+
+Las causales de improcedencia deberán ser examinadas de oficio.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### Artículo 127 Ter.
+
+Procede el sobreseimiento cuando:
+
+I. El inconforme se desista del recurso;
+
+II. Durante el proceso apareciere o sobreviniere alguna de las causales de improcedencia a que se refiere el artículo anterior; y
+
+III. El inconforme fallezca durante la tramitación del recurso, si su derecho es intransmisible o si su muerte lo deja sin materia, o siendo persona moral se haya declarado en concurso, suspensión de pagos o disolución, ya sea por disposición legal o por resolución de autoridad competente.
+
 ### CAPÍTULO SEGUNDO. DEL TRÁMITE Y RESOLUCIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 128.
 
-Presentado el recurso de inconformidad, el órgano de control interno correspondiente podrá decretar la suspensión del procedimiento de adjudicación, hasta en tanto se resuelva lo conducente. Una vez notificada la suspensión, cualquier acto que contravenga dicha medida cautelar, será nula.
+Presentado el recurso de inconformidad, el órgano de control interno correspondiente podrá de oficio o a petición de parte decretar la suspensión provisional del procedimiento de adjudicación hasta en tanto se resuelva lo conducente, en función de las pruebas que aporte la convocante al rendir su informe justificado o cualquiera de las partes. Una vez notificada dicha medida cautelar, cualquier acto que la contravenga será nulo.
 
-El órgano de control interno correspondiente, en un plazo no mayor a cinco días hábiles contados a partir de la recepción del informe justificado previsto en el artículo 130 de esta Ley, podrá decretar la suspensión del procedimiento de contratación, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+El órgano de control correspondiente, en un plazo no mayor a cinco días hábiles contados a partir de la recepción del informe justificado previsto en el artículo 130 de esta Ley, podrá decretar de oficio o a petición de parte la suspensión definitiva del procedimiento de contratación, cuando:
 
 I. Se advierta que existan o pudieran existir actos contrarios a las disposiciones de esta Ley o a las disposiciones que de ella deriven, o bien, que de continuarse con el procedimiento de contratación pudieran producirse daños o perjuicios al patrimonio o presupuesto de los sujetos de esta Ley;
 
 II. Con la suspensión no se cause perjuicio al interés público y no se contravengan disposiciones de orden público, y
 
-III. Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiera ocasionar a la convocante o a otro proveedor, mediante fianza por el monto que fije el órgano de control interno correspondiente; sin embargo, otro proveedor interesado, podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efectos la suspensión.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+III. Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiera ocasionar a la convocante o a otro proveedor, mediante garantía por el monto que fije el órgano de control interno correspondiente; sin embargo, otro proveedor interesado, podrá dar contragarantía equivalente a la que corresponda a la garantía, en cuyo caso quedará sin efectos la suspensión.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+Con independencia de que se declare la suspensión de manera provisional o definitiva, el órgano de control interno solicitará a las partes las garantías a que se refiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+El incumplimiento a lo previsto en este artículo, será sancionado de conformidad con la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### Artículo 128 Bis.
+
+Las formas de garantizar los daños y perjuicios a que se refiere el artículo anterior, serán las siguientes:
+
+I. Depósito en dinero ante las oficinas recaudadoras de la secretaría o depósito bancario; y
+
+II. Fianza o contrafianza otorgada por institución autorizada constituida a favor de la Secretaría.
 
 ###### Artículo 129.
 
 Recibido el recurso de inconformidad se correrá traslado con copia del mismo, al tercero o terceros proveedores interesados para que en el término de cinco días hábiles, manifiesten lo que a su interés convenga.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 130.
 
-El órgano de control interno correspondiente, solicitará a la autoridad emisora del acto motivo de la inconformidad un informe justificado, en el que dé respuesta a los puntos del recurso de inconformidad presentado, proporcione la documentación requerida y manifieste si a su parecer se reúnen los requisitos contenidos en el artículo 128 de esta Ley para otorgar la suspensión; dicho informe deberá rendirse en un plazo de cinco días hábiles contados a partir del día hábil siguiente a aquél en que se le corra traslado del escrito de inconformidad.
+El órgano de control interno correspondiente solicitará a la autoridad emisora del acto motivo de la inconformidad, un informe justificado en el que dé respuesta a los puntos del recurso de inconformidad presentado, proporcione la documentación requerida y manifieste si a su parecer se causa perjuicio al interés público, a efecto de determinar el monto de la garantía para conceder la suspensión definitiva; dicho informe deberá rendirse en un plazo de cinco días hábiles contados a partir del día hábil siguiente a aquél en que se le corra traslado del escrito de inconformidad.
 
 ###### Artículo 131.
 
@@ -1233,7 +1341,9 @@ I. La nulidad del procedimiento a partir del acto o actos irregulares, estableci
 
 II. La nulidad total del procedimiento;
 
-III. La declaración de improcedencia de la inconformidad, o
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+III. La declaración de improcedencia o el sobreseimiento de la inconformidad; o
 
 IV. El reconocimiento de la validez del procedimiento o acto impugnado.
 
@@ -1241,15 +1351,19 @@ En los supuestos previstos por las fracciones I y II, cuando existan elementos q
 
 En el supuesto previsto por la fracción III, deberá determinarse lo conducente sobre la posible responsabilidad del inconforme, en los términos del artículo 127 de esta Ley.
 
-La resolución que ponga fin al recurso de inconformidad podrá ser impugnada ante el Tribunal de lo Contencioso Administrativo del Estado de Guanajuato.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+La resolución que ponga fin al recurso de inconformidad será inatacable.
 
 ###### Artículo 134.
 
 La resolución deberá ser notificada por escrito al inconforme, al tercero o terceros proveedores interesados y por oficio a la autoridad emisora del acto motivo de la inconformidad, en un plazo de cinco días hábiles.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 135.
 
-Dictada la resolución del recurso de inconformidad en el supuesto de la fracción II del artículo 133, los comités respectivos deberán proceder a verificar conforme al criterio de adjudicación, si dentro de la licitación, concurso o subasta, existe otra oferta o postura que resulte aceptable, en cuyo caso, el contrato se celebrará con el proveedor respectivo, que ofrezca las mejores condiciones para el Estado.
+Dictada la resolución del recurso de inconformidad en el supuesto de la fracción II del artículo 133, los comités respectivos deberán proceder a verificar conforme al criterio de adjudicación, si dentro de la licitación o subasta, existe otra oferta o postura que resulte aceptable, en cuyo caso, el contrato se celebrará con el proveedor respectivo, que ofrezca las mejores condiciones para el Estado.
 
 ## TÍTULO UNDÉCIMO. BIENES INMUEBLES
 
@@ -1344,3 +1458,11 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE AGOSTO DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto, se tramitarán y resolverán conforme a las disposiciones aplicables al momento en que se iniciaron.
