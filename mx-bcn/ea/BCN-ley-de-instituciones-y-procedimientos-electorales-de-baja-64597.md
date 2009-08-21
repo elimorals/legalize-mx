@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procedimientos-electorales-de-baja-64597
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-19"
-last_updated: "2008-11-19"
+last_updated: "2009-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 19 de noviembre de 2008.
 
@@ -5761,7 +5761,9 @@ DÉCIMO.- El Congreso del Estado, dentro de los cinco días siguientes a la entr
 
 DÉCIMO PRIMERO.- El registro o acreditación que hayan obtenido los partidos políticos estatales o nacionales, en términos de la Ley que se abroga conservará su validez hasta en tanto no se actualicen los supuestos de cancelación conforme al presente Decreto.
 
-DÉCIMO SEGUNDO.- El Consejo General dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley. Deberá expedir su Reglamento Interior a más tardar el 31 de enero de 2009; y expedir los demás reglamentos que se deriven de la Ley a más tardar en el mes de junio de 2009.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+DÉCIMO SEGUNDO.- El Consejo General dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley. Deberá expedir su Reglamento Interior a más tardar el 31 de enero de 2009; y expedir los demás reglamentos que se deriven de la Ley a más tardar en el mes de septiembre de 2009.
 
 DÉCIMO TERCERO.- Los Consejos Distritales Electorales conformados para el proceso electoral 2007, continuarán con la misma integración, hasta en tanto el Consejo General designe a los nuevos integrantes conforme al presente Decreto.
 
@@ -5804,3 +5806,9 @@ JOSÉ GUADALUPE OSUNA MILLÁN.
 SECRETARIO GENERAL DE GOBIERNO.
 
 JOSÉ FRANCISCO BLAKE MORA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE AGOSTO DE 2009.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
