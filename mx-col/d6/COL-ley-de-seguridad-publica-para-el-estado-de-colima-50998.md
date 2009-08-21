@@ -4,7 +4,7 @@ identifier: "COL-ley-de-seguridad-publica-para-el-estado-de-colima-50998"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-17"
-last_updated: "2009-07-25"
+last_updated: "2009-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 17 de junio de 2006.
 
@@ -1637,6 +1637,146 @@ XIV. En general, a miembros de las organizaciones civiles interesadas en contrib
 
 Las reglas anteriores podrán ser complementadas por otras que emitan los Consejos Estatal y Municipales, en el ámbito de sus competencias.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE AGOSTO DE 2009)</small>
+
+### CAPÍTULO VI. DEL CONSEJO CIUDADANO PARA LA SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 111.
+
+El Consejo Ciudadano para la Seguridad Pública es un órgano colegiado de consulta, análisis opinión, que tiene por objeto coadyuvar con las autoridades de seguridad pública del Estado, en la evaluación de acciones y programas en materia de seguridad pública y prevención del delito.
+
+En cada uno de los municipios del Estado deberá conformarse un comité ciudadano de seguridad pública, cuyo titular formará parte del Consejo Ciudadano para la Seguridad Pública del Estado en su calidad de consejero y en representación de su respectivo municipio. Dicho comité tendrá la misma naturaleza que el Consejo a que se refiere este Capítulo,
+
+El Consejo y Comité, respectivamente, estarán integrados en la forma, y término que determine el Reglamento y, en su caso, el Ayuntamiento correspondiente. Dicho cargo será honorífica y ciudadanizado.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 112.
+
+El Consejo y los Comités tendrán las siguientes atribuciones, en el ámbito de sus respectivas competencias.
+
+I.- Emitir opiniones y sugerencias en materia de seguridad pública, realizando las que en derecho procedan;
+
+II.- Establecer el vínculo con organizaciones del sector social y privado que desarrollen actividades relacionadas con las materias de seguridad pública y prevención del delito, a fin de coadyuvar al mejoramiento de la seguridad pública en el Estado y sus Municipios;
+
+III.- Proponer políticas, programas, estrategias y acciones vinculadas a la prevención, investigación y combate al delito, y en general a lo relacionado con la seguridad pública en el Estado y sus Municipios;
+
+IV.- Opinar sobre el otorgamiento de reconocimientos a los servidores públicos que se destacan en el ejercicio de sus funciones de seguridad pública o que realicen acciones relevantes;
+
+V.- Informar periódicamente a la sociedad sobre las acciones del Consejo Ciudadano y los Comités, en materia de seguridad pública;
+
+VI.- Impulsar campañas para motivar la denuncia ciudadana;
+
+VII.- Conocer, analizar e integrar los reclamos ciudadanos en las funciones de prevención e investigación del delito, así como de seguridad pública y formular las propuestas y peticiones tendientes a satisfacerlas;
+
+VIII.- Establecer comunicación y coordinación con las diferentes autoridades, cuando la naturaleza de los temas así lo exija;
+
+IX.- Turnar a la Comisión Ejecutiva las determinaciones que se deban ejecutar a través de ésta;
+
+X.- Publicar la convocatoria correspondiente para la renovación del Consejo Ciudadano para la Seguridad Pública del Estado y los Comités;
+
+XI.- Opinar sobre la validación de los ciudadanos que hayan acudido a la convocatoria; y
+
+XII.- Las demás que sean necesarias para el cumplimento de las funciones del Consejo Ciudadano para la Seguridad Pública y de los Comités.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 113.
+
+El pleno del Consejo Ciudadano de Seguridad Pública, y de los Comités, sesionará de manera ordinaria cada año de conformidad con el Reglamento Interno de dicho Consejo, pudiendo hacerlo de manera extraordinaria en tos casos que establezca ese mismo Ordenamiento.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 114.
+
+El pleno emitirá convocatoria abierta al público en general para la integración del Consejo Ciudadano de Seguridad Pública y de los comités, en la que se establecerán los requisitos que deberá reunir cada una de las personas aspirantes a formar parte de él.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 115.
+
+El Consejo Ciudadano para la Seguridad Pública del Estado y los Comités, realizarán la validación de las personas que hayan acudido a la convocatoria de conformidad al Reglamento Interno de dicho Consejo.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 116.
+
+Las personas que hayan acudido a la convocatoria y que tengan su constancia de validación formarán parte del Consejo Ciudadano para la Seguridad Pública del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 117.
+
+El Consejo Ciudadano para la Seguridad Pública del Estado se integrará por:
+
+I.- El Gobernador del Estado o persona que designe para su encargo;
+
+II.- El Presidente de la Comisión de Seguridad Pública, Prevención y Readaptación Social y Protección Civil del H. Congreso del Estado; y
+
+III.- Representantes de organizaciones civiles, estudiantiles y religiosas del sector empresarial, obrero, patronal y de todas aquellas organizaciones legalmente constituidas que representen el sector privado de la sociedad, de entre las cuales se formará la Comisión Ejecutiva.
+
+La misma estructura servirá para integrar los Comités, pero en el ámbito municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 118.
+
+Todos los integrantes del Consejo Ciudadano para la Seguridad Pública del Estado para los efectos de su funcionamiento formarán el Consejo General.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 119.
+
+El Consejo Ciudadano para la Seguridad Pública del Estado para su funcionamiento contará con.
+
+1.- Un Presidente.- que será el Gobernador del Estado o persona que designe para su encargo;
+
+2.- Un Vicepresidente;
+
+3.- Un Secretario:
+
+4.- Un Tesorero;
+
+5.- Una Dirección Operativa; y
+
+6.- La Comisión Ejecutiva.
+
+Las personas que tomen los cargos mencionados en los numerales 2, 3, 4; 5 y 6, de éste artículo deberán pertenecer al sector privado de la sociedad de conformidad con la fracción III, del artículo 117 de este Ordenamiento y serán electos democráticamente por los miembros del Consejo Ciudadano para la Seguridad Pública del Estado.
+
+La misma estructura servirá para integrar los Comités, pero en el ámbito municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 120.
+
+La Comisión Ejecutiva se compondrá de siete miembros los cuales nunca podrán ser los representantes del sector público, y sólo podrán ser aquellos que son mencionados por el artículo 117 en su fracción III de este Ordenamiento.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 121.
+
+Los siete miembros de la Comisión Ejecutiva tendrán los siguientes cargos:
+
+1.- Un presidente;
+
+2.- Un Secretario; y
+
+3.- Cinco vocales.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 122.
+
+Para determinar cuál será el cargo que tomarán cada uno de los ciudadanos que integrarán la Comisión Ejecutiva, se propondrán por parte del Consejo Ciudadano para la Seguridad Pública del Estado a siete aspirantes de conformidad con la fracción III del artículo 117, los cuales serán votados por el Consejo General y de acuerdo a la cantidad de votos serán designados en sus puestos de conformidad con el Reglamento Interno del Consejo Ciudadano para la Seguridad Pública del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 123.
+
+Las dependencias y órganos desconcentrados de la administración pública estatal, proporcionarán al Consejo Ciudadano la información y datos necesarios para la realización de sus funciones, salvo aquellos que sean determinados como reservados o confidenciales en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
@@ -1672,3 +1812,13 @@ P.O. 25 DE JULIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Ejecutivo del Estado expedirá el Reglamento para la Prevención y Seguridad Escolar, en un plazo no mayor de ciento ochenta días naturales a partir de la entrada en vigor del presente ordenamiento.
+
+P.O. 21 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Consejo Ciudadano para la Seguridad Pública, se conformará y empezará sus funciones, en un plazo no mayor de 120 días a partir de la entrada en vigor del presente Ordenamiento.
+
+TERCERO.- Una vez conformado el Consejo Ciudadano para la Seguridad Pública, en un plazo no mayor de sesenta días elaborará su Reglamento Interno.
+
+CUARTO.- El Ejecutivo del Estado garantizará los recursos materiales y humanos necesarios para el funcionamiento del presenté Consejo Ciudadano para la Seguridad Pública.
