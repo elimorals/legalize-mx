@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "2009-03-20"
+last_updated: "2009-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
@@ -246,9 +246,9 @@ El Director General tendrá las siguientes facultades y Obligaciones:
 
 6.- Llevar las relaciones laborales de acuerdo con las disposiciones legales establecidas en la Ley del Servicio Civil para los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas del Estado de B. C., debiendo celebrar sus contratos laborales de manera independiente al Estado y al Municipio.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-7.- Tener la representación jurídica del organismo para los actos de dominio de administración y para pleitos y cobranzas, así como para absolver y articular posiciones y llevar a cabo convenios de orden civil, laboral o de cualquier índole. Estas atribuciones podrán ser delegadas a terceras personas, previa aprobación de la Presidenta del Sistema.
+7.- Tener la representación jurídica del organismo para los actos de dominio de administración y para pleitos y cobranzas, así como para absolver y articular posiciones y llevar a cabo convenios de orden civil, laboral o de cualquier índole, inclusive presentar denuncias y/o querellas ante cualquier instancia y autoridad, respecto de aquellos hechos que puedan constituir o constituyan delitos, quedando facultado, bajo su mas estricta responsabilidad, para otorgar el perdón a nombre de la Institución cuando le sea reparado el daño causado. Estas atribuciones podrán ser delegadas a terceras personas, previa aprobación de la (sic) Presidente del Sistema.
 
 8.- Presentar al Consejo los planes y labores, informes de actividades y estados financieros anuales.
 
@@ -481,3 +481,9 @@ UNICO.- La presente reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 20 DE MARZO DE 2009.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 21 DE AGOSTO DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+ENTRADA EN VIGOR.
