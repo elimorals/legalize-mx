@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2009-01-23"
+last_updated: "2009-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -445,7 +445,7 @@ X. Informar al cabildo el estado que guardan los negocios públicos y suministra
 
 XI. Llevar los libros siguientes: el de actas de las sesiones de cabildo, donde se asienten todos los asuntos tratados y los acuerdos tomados, de conformidad con este apartado; el libro en que se registren en orden cronológico los reglamentos, y demás disposiciones generales que expida el Ayuntamiento y el libro en que se registren los visitantes distinguidos;
 
-XII. Conservar el archivo del ayuntamiento, ordenándolo por expedientes numerados, haciendo cada año un índice de los correspondientes a él, coleccionando todos los del año en uno o mas legajos y forma de libros;
+XII. Conservar el archivo del ayuntamiento, ordenándolo por expedientes numerados, haciendo cada año un índice de los correspondientes a él, coleccionando todos los del año en uno o más legajos y forma de libros;
 
 XIII. Llevar un archivo sobre citatorios, ordenes del día y cualquier material informativo que ayude para aclaraciones futuras;
 
@@ -517,7 +517,7 @@ IV. Someter a la aprobación del Ayuntamiento los proyectos de reglamentos inter
 
 V. Vigilar el cumplimiento de los Planes Nacionales y Estatales de Desarrollo por parte de las autoridades municipales;
 
-VI. Someter al Ayuntamiento la aprobación del Plan Municipal de Desarrollo Integral y la Declaratoria de Provisiones, Usos, Reservas y Destinos de Areas y Predios;
+VI. Someter al Ayuntamiento la aprobación del Plan Municipal de Desarrollo Integral y la Declaratoria de Provisiones, Usos, Reservas y Destinos de Áreas y Predios;
 
 VII. Resolver sobre las peticiones de los particulares en materia de permisos para el aprovechamiento de los bienes del dominio público municipal, cuyas autorizaciones tendrán siempre el carácter de temporales, revocables y nunca serán gratuitos;
 
@@ -543,9 +543,9 @@ Para el estudio, planeación y despacho de los diversos asuntos de la administra
 
 I. Secretaría General de Gobierno Municipal;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-II. Secretaría de Economía y Finanzas y Tesorería Municipal;
+II. Secretaría de Finanzas;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
@@ -553,7 +553,7 @@ III. Secretaría de Desarrollo Sustentable del Municipio de Querétaro;
 
 IV. Secretaría de Desarrollo Social;
 
-V. Secretaría de Administración; y
+V. Secretaría de Administración; y (sic)
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
@@ -715,9 +715,9 @@ XIII. Identificar, declarar y conservar zonas, edificaciones o elementos con val
 
 XIV. Recibir y revisar los fraccionamientos por parte del municipio en coordinación con la Secretaría de Servicios Públicos Municipales;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-XV. Proponer ante la Secretaría de Economía y Finanzas y Tesorería Municipal la derrama del Impuesto sobre aumento de Valores y Mejoría Específica de la Propiedad;
+XV. Proponer ante la Secretaría de Finanzas la derrama del Impuesto sobre aumento de Valores y Mejoría Específica de la Propiedad;
 
 XVI. Establecer normas técnicas de construcción y de seguridad para las edificaciones públicas y privadas;
 
@@ -807,9 +807,9 @@ VIII. Promover y realizar estudio e investigaciones que conduzcan al conocimient
 
 IX. Promover o efectuar estudios para conocer la organización social de la comunidad, con la finalidad de programar adecuadamente las acciones de educación ambiental e implementar los modelos de utilización de recursos y eficientizar la participación de la comunidad;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-X. En coordinación con la Secretaría de Economía y Finanzas Municipales y Tesorería Municipal, participar en la formulación del Programa Anual del Gasto Público, en la definición del Presupuesto de Egresos, de Obras del Programa Nacional de Solidaridad;
+X. En coordinación con la Secretaría de Finanzas, participar en la formulación del Programa Anual del Gasto Público, en la definición del Presupuesto de Egresos, de Obras del Programa Nacional de Solidaridad;
 
 XI. Evaluar la programación, la promoción, la documentación y la ejecución de las obras del Programa Nacional de Solidaridad;
 
@@ -1037,7 +1037,7 @@ Los trabajadores de base deberán ser preferentemente queretanos y en todo caso,
 
 ###### ARTICULO 94.
 
-Por trabajador se entiende a toda persona física que presta servicios materiales, intelectuales o de ambos géneros, en virtud del nombramiento que le fuere expedido por la autoridad o funcionario facultado legalmente para hacerlo conforme a la Ley, entendiéndose así mismo como tal, a aquél que prestando igual tipo de servicio figurase solamente en listas de raya.
+Por trabajador se entiende a toda persona física que presta servicios materiales, intelectuales o de ambos géneros, en virtud del nombramiento que le fuere expedido por la autoridad o funcionario facultado legalmente para hacerlo conforme a la Ley, entendiéndose a sí mismo como tal, a aquél que prestando igual tipo de servicio figurase solamente en listas de raya.
 
 ###### ARTICULO 95.
 
@@ -1773,7 +1773,7 @@ XXXI. Los juegos de azar o de apuestas en público o en privado, salvo los expre
 
 Son infracciones que afectan la imagen urbana:
 
-I. Fijar rótulos salientes en la calle, salvo que lo ordene algún precepto lega, o con permiso de la autoridad municipal;
+I. Fijar rótulos salientes en la calle, salvo que lo ordene algún precepto legal, o con permiso de la autoridad municipal;
 
 II. Fijar avisos, anuncios o propagandas en edificios o construcciones públicas y escuelas; monumentos históricos, artísticos o de ornato; arbotantes, kioscos, puentes, postes, árboles, casas particulares y bardas; carteleras ajenas, excepto en las carteleras que para ese efecto autoriza la autoridad municipal;
 
@@ -2073,9 +2073,9 @@ III. Obtener de la autoridad municipal el número oficial que corresponda a cada
 
 IV. Tener siempre claros y descubiertos los números oficiales, con la obligación de reponerlos cuando falten o se destruyan;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-V. Cercar sus lotes baldíos y mantener limpios, evitando la insalubridad y el mal aspecto, en la inteligencia que de no acatar esta disposición, la Secretaría de Desarrollo Urbano y de Obras Públicas Municipales procederá a cercarlo a costa del propietario del inmueble y cobrárselo por conducto de la Secretaría de Finanzas y Tesorería Municipal; y
+V. Cercar sus lotes baldíos y mantener limpios, evitando la insalubridad y el mal aspecto, en la inteligencia que de no acatar esta disposición, la Secretaría de Desarrollo Sustentable del Municipio de Querétaro procederá a cercarlo a costa del propietario del inmueble y cobrárselo por conducto de la Secretaría de Finanzas;
 
 VI. Construir letrinas o fosas sépticas en los lugares que carezcan de sistema de drenaje, a fin de no contaminar el agua o el suelo.
 
@@ -2109,399 +2109,301 @@ Queda prohibido realizar sin licencia municipal, excavaciones, zanjas o caños e
 
 En materia de construcción y de servicios urbanos para el municipio de Querétaro, se apegará a la normativa que establece dicho reglamento en vigor y el Código Urbano para el Estado de Querétaro.
 
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS, APARTADOS Y ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 APARTADO CUARTO
 
 DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 200.
 
-El presente apartado, tiene por objeto la preservación y restauración del equilibrio ecológico, así como la protección al ambiente, de conformidad con las facultades que se derivan de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 201.
 
-Se consideran de utilidad pública:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
-I. El establecimiento de áreas naturales protegidas de jurisdicción local y de zonas prioritarias de preservación y restauración del equilibrio ecológico en el territorio municipal;
-
-II. El establecimiento de zonas intermedias de salvaguardia, como medida de prevención ante la presencia de actividades consideradas como riesgosas;
-
-III. El establecimiento de medidas para la prevención y el control de la contaminación del aire, agua y suelo, en el territorio municipal; y
-
-IV. Las demás acciones que se realicen para dar cumplimiento a los fines del presente apartado, en congruencia y sin perjuicio de las atribuciones de la Federación y el Estado.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ## TITULO SEGUNDO. DE LAS FACULTADES DEL AYUNTAMIENTO, DE LA GESTION AMBIENTAL MUNICIPAL Y DE LA PARTICIPACIÓN SOCIAL
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO II. De la Gestión Amibental (sic) Municipal
 
 ###### ARTICULO 202.
 
-Corresponde al Ayuntamiento:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
-I. La formulación y conducción de la política y de los criterios ecológicos en congruencia con los que en su caso hubiera formulado la Federación y el Estado;
-
-II. La preservación y restauración del equilibrio ecológico y la protección al ambiente que se realicen dentro del territorio del Municipio;
-
-III. La prevención y control de emergencias ecológicas y contingencias ambientales, cuando por su naturaleza la magnitud o gravedad de los desequilibrios ecológicos o daño al ambiente no rebasen el territorio municipal, ni su ámbito de competencia en la materia;
-
-IV. La creación y administración de áreas naturales protegidas de competencia municipal, en coordinación con el Gobierno del Estado;
-
-V. La prevención y control de la contaminación de la atmósfera, generada por fuentes fijas de giros menores, fuentes naturales, quemas y fuentes móviles;
-
-VI. El establecimiento de las medidas para hacer efectiva la prohibición de emisiones contaminantes que rebasen los niveles máximos permisibles y resulten perjudiciales al equilibrio ecológico o al ambiente, salvo en las zonas o en los casos de fuentes emisoras de jurisdicción municipal;
-
-VII. La verificación del cumplimiento de las normas técnicas ecológicas de emisión máxima permisible de contaminantes a la atmósfera, por parte de los giros menores y de las fuentes móviles, mediante el establecimiento y operación de sistemas de verificación;
-
-VIII. El establecimiento de medidas para retirar de la circulación los vehículos automotores que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera;
-
-IX. Las que establezcan los reglamentos y normas técnicas ecológicas aplicables;
-
-X. La puesta en práctica de medidas de tránsito y vialidad para evitar que los niveles de concentración de contaminantes en la atmósfera emitidos por los vehículos automotores emitidos por los vehículos automotores, rebasen los límites máximos permisibles que determinen los reglamentos y normas técnicas ecológicas aplicables;
-
-XI. El condicionamiento de las autorizaciones para el uso de suelo o de las licencias de construcción u operación, al resultado satisfactorio de la evaluación de impacto ambiental, en el caso de proyectos de obras, acciones y servicios que se ejecuten;
-
-XII. La prevención y control de la contaminación de aguas federales que tenga asignadas o concesionadas para la prestación de servicios públicos y de las que se descarguen en los sistemas de drenaje y alcantarillo de los centros de población;
-
-XIII. La verificación del cumplimiento de las normas técnicas ecológicas que se expidan para el vertimiento de aguas residuales en los sistemas de drenaje y alcantarillado municipales;
-
-XIV. El dictamen de las solicitudes de permiso para descargar aguas residuales en los sistemas de drenaje y alcantarillado municipales, con base en las disposiciones que al efecto se establezcan en las normas técnicas ecológicas aplicables;
-
-XV. La regulación de la imagen de los centros de población para protegerlos de la contaminación visual;
-
-XVI. La preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, centrales y mercados de abastos, panteones, rastros, calles, parques urbanos y jardines, tránsito y transporte local;
-
-XVII. El manejo y disposición final de los residuos que no sean peligrosos, así como la vigilancia del manejo de los residuos sólidos industriales no peligrosos en su jurisdicción;
-
-XVIII. El establecimiento de las medidas necesarias en el ámbito de su competencia, para imponer las sanciones correspondientes por infracciones al presente ordenamiento;
-
-XIX. La concertación de acciones con los sectores social y privado en materia de equilibrio ecológico y protección al ambiente en el ámbito de su competencia; y
-
-XX. Las demás que conforme a la Ley Estatal del Equilibrio Ecológico y la Protección al ambiente, en vigor, y a este ordenamiento legal le correspondan.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO III. De la Participación Social
 
 ###### ARTICULO 203.
 
-El Ayuntamiento podrá celebrar convenios con los demás municipios cuando estas acciones impliquen medidas comunes de beneficio ecológico.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 204.
 
-El Ayuntamiento podrá celebrar Convenios de Coordinación con el Estado o la Federación, para la realización de acciones en materias de las Leyes General y Estatal del Equilibrio Ecológico y la Protección al Ambiente y de este apartado.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO I. Formulación y Conducción de la Política Ecológica
 
 ###### ARTICULO 205.
 
-Con base en el Sistema Estatal de Concertación Social, el Ayuntamiento promoverá la participación de los grupos sociales en la formulación de la política ecológica local y la aplicación de sus instrumentos; en la elaboración de los programas que tengan por objeto la preservación y restauración del equilibrio ecológico y la protección al ambiente; en acciones de información y vigilancia, y en general, las acciones ecológicas que se emprendan.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 206.
 
-Para efectos del artículo anterior, el Ayuntamiento:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
-I. Convocará a representantes de las organizaciones obreras, empresariales, campesinas, de productores agropecuarios, de las comunidades, de instituciones educativas y de investigación, de instituciones privadas no lucrativas y a otros representantes de la sociedad local, así como a los particulares en general, para que manifiesten su opinión y propuestas;
-
-II. Celebrará convenios de concertación con organizaciones obreras y empresariales para la protección del ambiente en los lugares de trabajo y unidades habitacionales, que se consideren necesarias;
-
-III. Promoverá la celebración de convenios con los diversos medios de comunicación para la difusión, información y promoción de acciones ecológicas. Para esto efectos, se buscará la participación de artistas, intelectuales, científicos y en general, de personalidades cuyos conocimientos y ejemplo contribuyan a formar y orientar a la opinión pública; y
-
-IV. Promoverá el establecimiento de premios y reconocimientos a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente en el municipio.
+> <small>(DEROGADO CON LOS CAPITULOS, APARTADO Y ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ## TITULO TERCERO. DE LA POLITICA ECOLOGICA MUNICIPAL
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ### CAPITULO II. De los Instrumentos de la Política Ecológica
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 ###### ARTICULO 207.
 
-Para la formulación y conducción de la política ecológica del Municipio, se observarán los siguientes principios:
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
-I. Los ecosistemas son patrimonio común de la sociedad y de su equilibrio dependen la vida y las posibilidades productivas del municipio;
-
-II. Los ecosistemas y sus elementos deben ser aprovechados de manera que se asegure una productividad óptima y sostenible, compatible con su equilibrio e integridad;
-
-III. Las autoridades y los particulares deben asumir la corresponsabilidad de la preservación y restauración del equilibrio ecológico y la protección al ambiente;
-
-IV. La responsabilidad respecto al equilibrio ecológico comprende tanto las condiciones presentes como las que determinen la calidad de vida de las generaciones;
-
-V. La prevención de las causas que generan los desequilibrios ecológicos en el medio más eficaz para evitarlos;
-
-VI. Los recursos naturales renovables deben utilizarse de manera que se asegure su óptimo aprovechamiento, a la vez que el mantenimiento de su diversidad y renovabilidad;
-
-VII. Los recursos naturales no renovables deben utilizarse de modo que se evite el peligro de su agotamiento y la generación de efectos ecológicos adversos;
-
-VIII. La coordinación entre los distintos niveles de gobierno y la concertación con la sociedad, son indispensables para la eficacia de las acciones ecológicas; y
-
-IX. El control y la prevención de la contaminación ambiental; el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural de los asentamientos humanos, son elementos fundamentales para elevar la calidad de vida de la población. Las autoridades, en los términos de este y otros ordenamientos legales, tomarán las medidas necesarias, para preservar este derecho.
+> <small>(DEROGADO CON EL APARTADO Y ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO I. De la Prevención y Control de la Contaminación Atmosférica
 
 ###### ARTICULO 208.
 
-En la planeación del desarrollo municipal, se considerarán el ordenamiento ecológico que establezcan la Federación y el Estado, así como la política económica municipal.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 209.
 
-Para la expedición de la factibilidad de giro y la licencia municipal, el Ayuntamiento considerará la resolución de impacto ambiental que expidan tanto la Federación como el Estado, sobre proyectos de establecimientos comerciales, industriales o de servicios.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 210.
 
-El Ayuntamiento formulará el Programa Municipal de Ecología, conforme a lo dispuesto en este apartado, la Ley de Planeación y demás disposiciones aplicables y vigilará su aplicación y evaluación periódica.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 211.
 
-El Ayuntamiento promoverá y realizará actividades de educación ambiental en las comunidades del municipio, con el propósito de incrementar la concientización de la población respecto a la prevención y protección del ambiente, coordinándose para tal efecto con las autoridades federales y estatales competentes en la materia.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 212.
 
-El Ayuntamiento mantendrá un sistema permanente de información y vigilancia sobre la calidad del ambiente en el territorio del Municipio, para lo cual podrá solicitar la colaboración de personas y grupos interesados. Asimismo, propondrá acuerdos y convenios de coordinación con la Federación y con el Estado, respectivamente, para apoyar la vigilancia en materias reservadas a esos niveles de gobierno.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON LOS CAPITULOS, APARTADO Y ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ## TITULO CUARTO. DE LA PROTECCION AL AMBIENTE
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO II. De la Prevención y Control de la Contaminación del Agua
 
 ###### ARTICULO 213.
 
-Se prohíbe emitir a la atmósfera contaminantes como humos, polvos, gases, vapores y olores que rebasen los límites máximos permisibles establecidos en las normas técnicas ecológicas y demás disposiciones aplicables, o que causen molestias a la población, representen riesgos para la salud pública o para los ecosistemas.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 214.
 
-En materia de prevención y control de la contaminación atmosférica, el Ayuntamiento, en el ámbito de su competencia:
-
-I. Convendrá con quienes realicen actividades que contaminen la atmósfera y en su caso, les requerirá la instalación de los equipos de control o la aplicación de las medidas necesarias para reducir o eliminar las emisiones contaminantes. Asimismo, promoverá ante la Federación o el Estado la celebración de convenios con quienes realicen actividades contaminantes que competan a esos niveles de gobierno;
-
-II. Integrará y mantendrá actualizado el inventario de fuentes emisoras de contaminantes a la atmósfera, quienes deberán proporcionar la información que les sea requerida. El Ayuntamiento podrá verificar en todo momento las fuentes emisoras de su competencia;
-
-III. Establecerá las medidas y la coordinación necesaria con el Gobierno del Estado para la realización de programas de verificación de emisiones contaminantes de vehículos automotores y para retirar de la circulación a aquellos vehículos que contaminen ostensiblemente;
-
-IV. Llevará a cabo campañas para racionalizar el uso del automóvil particular, así como para su afinación y mantenimiento. Por su parte, programará el mejoramiento del transporte urbano y suburbano de pasajeros;
-
-V. Promoverá en las zonas que se hubieren determinado como aptas para uso industrial próximas a áreas habitacionales, la instalación de industrias no contaminantes;
-
-VI. Convendrá con los propietarios o poseedores de establecimientos comerciales, de servicios, de reparación y mantenimiento, e industriales, su reubicación cuando sean motivo de quejas por parte de la población, constatadas por la autoridad competente, referidas a la emisión de contaminantes a la atmósfera. Asimismo, en previsión de molestias de este tipo, analizará minuciosamente las solicitudes de licencias de funcionamiento y en caso de expedirlas especificará que de ocasionar molestias a la población por emisiones contaminantes a la atmósfera se cancelará la licencia otorgada;
-
-VII. Establecerá y operará, en coordinación con el Gobierno del Estado, un sistema de monitoreo de la calidad del aire en las zonas más críticas, conforme a las normas técnicas ecológicas aplicables;
-
-VIII. Identificará las áreas generadoras de tolvaneras dentro del territorio del municipio y establecerá programas de control con la participación de la población;
-
-IX. Vigilará que los servicios municipales no propicien o produzcan contaminación atmosférica; y
-
-X. Tomará las medidas preventivas para evitar contingencias ambientales por contaminación atmosférica, en coordinación con el Gobierno del Estado.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 215.
 
-Se prohibe realizar quemas al aire libre de cualquier material o residuo, sólido o líquido, o con fines de desmonte y deshierbe de terrenos sin la autorización expresa del Ayuntamiento. Quienes pretendan llevar a cabo una quema, deberán presentar su solicitud por escrito justificando ampliamente el motivo por el que se requiere dicha acción. El Ayuntamiento analizará la solicitud y en su caso consultará con las autoridades federales o estatales competentes y resolverá, en un plazo no mayor de 15 días hábiles, aprobando, condicionando o negando el permiso.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 216.
 
-Queda prohibido transportar en vehículos descubiertos cualquier tipo de material o residuo que por sus características pueda desprender polvos y olores.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO III. Residuos Sólidos No Peligrosos
 
 ###### ARTICULO 217.
 
-No podrán descargarse en los sistemas municipales de drenaje y alcantarillado de los centros de población aguas residuales diferentes a las domésticas, sin la autorización del Ayuntamiento, previo dictamen favorable emitido por la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología del Gobierno del Estado, a través de la Dirección de Ecología.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 218.
 
-Las descargas de aguas residuales de cualquier tipo, a los Sistemas Municipales de Drenaje y Alcantarillado, deberán registrarse ante el Ayuntamiento, en los formatos que para este efecto se expidan.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 219.
 
-En materia de prevención y control de la contaminación del agua, el Ayuntamiento, en el ámbito de su competencia:
-
-I. Llevará y actualizará el registro de las descargas de agua a los Sistemas de drenaje y alcantarillado que administren y proporcionará la información al Gobierno del Estado para que sea integrada al Registro Nacional de Descargas, a cargo de la Federación;
-
-II. Apoyará al gobierno del Estado en el control de la calidad de las descargas que hayan obtenido su registro, para lo cual tomará en cuenta las condiciones particulares de descarga que haya fijado la autoridad competente, así como las normas técnicas ecológicas aplicables a cada caso;
-
-III. Promoverá el reuso de aguas residuales tratadas, en la industria, la agricultura y el riego de áreas verdes, siempre y cuando satisfagan las normas técnicas ecológicas aplicables;
-
-IV. Vigilará que los servicios municipales no propicien o produzcan contaminación del agua; y
-
-V. Dará aviso a las autoridades federales o estatales de la ocurrencia de los casos de contaminación del agua que se detecten en el municipio y correspondan a esas esferas de atención.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 220.
 
-Los responsables de las descargas instalarán y operarán los sistemas de tratamiento que les sean requeridos por las autoridades federales, estatales o municipales y construirán en sus descargas finales las obras de aforo y muestreo, así como los accesos necesarios, a fin de facilitar la vigilancia.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 221.
 
-En sitios y comunidades donde no se cuente o no sean convenientes las redes de drenaje y alcantarillado, el Ayuntamiento promoverá y autorizará la construcción y operación de letrinas, fosas sépticas u otros sistemas alternos.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 222.
 
-Se prohibe descargar cualquier tipo de residuo sólido en los sistemas municipales de drenaje y alcantarillado.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO IV. Emisiones de Ruido, Vibraciones, Energía Térmica y Lumínica
 
 ###### ARTICULO 223.
 
-Queda prohibido descargar residuos sólidos de cualquier tipo en la vía pública, caminos, cauces, vasos, terrenos agrícolas o baldíos, etc.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 224.
 
-Los particulares que realicen actividades que generen residuos sólidos y no utilicen el servicio municipal de recolección, manejo y transporte, y quieran depositarlos en los sitios oficialmente establecidos, deberán obtener la autorización del Ayuntamiento, garantizar que no son residuos peligrosos, pagar los derechos correspondientes y sujetarse a las disposiciones aplicables.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 225.
 
-En materia de residuos sólidos, el Ayuntamiento, en el ámbito de su competencia:
-
-I. Promoverá y autorizará el establecimiento de centros de acopio de materiales reciclables, a fin de racionalizar la utilización de materias primas y reducir la generación de residuos sólidos. Para tal efecto, promoverá la educación y la difusión entre la población sobre las formas de aprovechamiento integral de los residuos sólidos;
-
-II. Podrá celebrar acuerdos de coordinación con los Ayuntamientos de los municipios colindantes, excepto los de otras entidades federativas, a fin de recibir o enviar residuos sólidos no peligros para su disposición final en sitios oficialmente establecidos;
-
-III. Llevará un inventario de los sitios autorizados de disposición final de residuos sólidos no peligrosos y de las fuentes generadoras; que incluirá un registro de las cantidades que se producen, sus componentes y las características de los sistemas y sitios de manejo, transporte, almacenamiento, alojamiento, recuperación, tratamiento y disposición final;
-
-IV. Vigilará que los servicios municipales no propicien o generen residuos sólidos sin control; y
-
-V. Dará aviso a la Federación de los casos en que se estén generando, almacenando, recolectando, transportando, tratando o disponiendo residuos sólidos peligrosos sin control o autorización.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 226.
 
-Queda prohibido transportar residuos sólidos en vehículos que no estén debidamente protegidos para evitar su dispersión en el ambiente.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 227.
 
-Los propietarios de predios y terrenos que estén siendo utilizados como tiraderos clandestinos de residuos sólidos, darán aviso al Ayuntamiento notificando este hecho, a fin de que se proceda a su clausura definitiva, quienes omitan dar aviso a las autoridades, se harán acreedores a las sanciones correspondientes.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO V. Contaminación Visual y Protección del Paisaje
 
 ###### ARTICULO 228.
 
-Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumínica que rebasen los límites establecidos por las normas técnicas ecológicas que para el efecto se expidan, o aquellas que motiven protestas de la población por las molestias que ocasionan y que sean verificadas por autoridades competentes.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 229.
 
-No se autorizará, en zonas habitacionales o colindantes a ellas, así como a centros escolares y hospitalarios, la instalación de establecimientos comerciales, industriales, de servicios y cualesquier otros que por sus emisiones de ruido, vibraciones, energía térmica y lumínica puedan ocasionar molestias a la población.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO VI. Regulación de Actividades que Pueden Generar Efectos Nocivos. Actividades Comerciales, Industriales y de Servicios
 
 ###### ARTICULO 230.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005)
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005) (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 231.
 
-Quedan sujetos a la autorización del Ayuntamiento los proyectos de fachadas de construcciones en sitios históricos, monumentos, zonas arqueológicas y coloniales, así como en las orillas de caminos y carreteras, con el fin de proteger la imagen de esos sitios.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS Y APARTADO QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO I. De las Areas Naturales Protegidas de Interés Municipal
 
 ###### ARTICULO 232.
 
-Previamente a la expedición de la factibilidad de giro y de la licencia de funcionamiento, el Ayuntamiento verificará que los establecimientos comerciales industriales o de servicios que pretendan ubicarse en zonas habitacionales o colindantes a ellas, no sean fuentes de contaminación del aire, el agua, o el suelo; no emitan ruido, vibraciones o energía térmica y lumínica; no produzcan contaminación visual; no causen deterioro de plantas y áreas verdes, y no interfieran con el tráfico vehicular.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 EXTRACCION DE MATERIALES DE CONSTRUCCION
 
 ###### ARTICULO 233.
 
-Quienes pretendan realizar la explotación de bancos de materiales de construcción u ornamento, deberán presentar planes de control de emisiones de polvos; control de arrastre de sedimentos; control de emisiones de ruido y vibraciones, y de restauración de las áreas donde haya concluido la explotación.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ## TITULO QUINTO. DE LA PRESERVACION Y RESTAURACION DEL EQUILIBRIO ECOLOGICO Y CONSERVACION DE LOS RECURSOS NATURALES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO II. De la Preservación y Restauración del Equilibrio Ecológico
 
 ###### ARTICULO 234.
 
-La determinación de áreas naturales protegidas tiene como propósito:
-
-I. Preservar los ambientes naturales dentro de las zonas de los asentamientos humanos y en su entorno para contribuir a mejorar la calidad de vida de la población y mantener su equilibrio ecológico;
-
-II. Proteger poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas, sitios de interés histórico, cultural, arqueológico y de manejo tradicional de los recursos naturales, en armonía con su entorno;
-
-III. Proteger sitios escénicos para asegurar la calidad del ambiente y promover el turismo; y
-
-IV. Dotar a la población de áreas para su esparcimiento, a fin de contribuir a formar conciencia ecológica sobre el valor e importancia de los recursos naturales del Estado.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 235.
 
-Las áreas naturales protegidas del Municipio son:
-
-I. Parques urbanos municipales; y
-
-II. Parques de barrio.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 236.
 
-Los parques urbanos municipales son aquellas áreas de uso público, constituidas por los gobiernos estatal y municipal en los centros de población, para alcanzar y preservar el equilibrio ecológico de las áreas urbanas e industriales, entre las construcciones, equipamientos e instalaciones respectivas y los elementos de la naturaleza, de manera que se mantenga un ambiente sano; se promueva el esparcimiento de la población y se protejan los valores artísticos, históricos y de belleza natural que se signifiquen en el municipio.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 237.
 
-Los parques de barrio son aquellas áreas de uso público destinadas a la recreación y esparcimiento de la población, que considerarán dentro de sus instalaciones: áreas verdes y de descanso, juegos infantiles, baños, bodega y estacionamiento, en la siguiente proporción:
-
-5,000 A 7,500 HAB. 1 HECTÁREA
-
-7,500 A 10,000 HAB. 2.8 HECTÁREAS
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 238.
 
-Las áreas naturales protegidas del Municipio se registrarán en el Sistema Estatal de Áreas Naturales Protegidas a cargo del Gobierno del Estado.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 239.
 
-Las áreas naturales protegidas del Municipio se establecerán mediante declaratorias que expida el Presidente Municipal, conforme a las disposiciones aplicables.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 240.
 
-Las declaratorias para el establecimiento, conservación, administración, desarrollo y vigilancia de las áreas naturales protegidas por el Municipio, contendrán, sin perjuicio de los dispuesto por otras leyes, los siguientes elementos:
-
-I. La delimitación previa del área, señalando la superficie, ubicación, deslinde y en su caso, la zonificación correspondiente;
-
-II. La descripción de actividades que podrán llevarse a cabo en el área correspondiente y las modalidades y limitaciones a que se sujetarán;
-
-III. La causa de utilidad pública que en su caso fundamente la expropiación de terrenos, para que el Municipio adquiera su dominio, cuando al establecerse un área natural protegida se requiera dicha resolución, con total apego a las leyes respectivas; y
-
-IV. Los lineamientos para la elaboración de un programa de manejo del área.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 241.
 
-Las declaratorias deberán publicarse en el Diario Oficial “La Sombra de Arteaga” del Gobierno del Estado y se notificarán previamente a los propietarios o poseedores de los predios afectados, en forma personal cuando se conocieren sus domicilios. En caso contrario, se hará una segunda publicación que surtirá efectos de notificación. Las declaratorias se inscribirán en el o los Registros Públicos de la Propiedad que correspondan.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO I. Observancia del Reglamento
 
 ###### ARTICULO 242.
 
-Los criterios de preservación y restauración del equilibrio ecológico serán considerados en:
-
-I. Las autorizaciones para el cambio de uso del suelo;
-
-II. El ordenamiento ecológico local, los planes de desarrollo urbano y otros planes territoriales; y
-
-III. La planeación y ejecución de campañas de reforestación, saneamiento ambiental y concientización de la población.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 243.
 
-Se prohibe derribar, mutilar o maltratar árboles en el territorio del municipio sin causa justificada y sin el permiso de la autoridad competente.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
-Para la debida procedencia de lo relativo a este artículo, se observará lo dispuesto por el Capítulo III del apartado II del Libro Tercero de este Código.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ## TITULO SEXTO. DE LAS MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO II. Inspección y Vigilancia
 
 ###### ARTICULO 244.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO III. Medidas de Seguridad
 
 ###### ARTICULO 245.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTICULO 246.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001) (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO I. Permisos y Licencias
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 247.
 
-Cuando se presenten emergencias ecológicas o contingencias ambientales que no rebasen el territorio del Municipio o no requieran de la acción exclusiva del Estado o la Federación, o en casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o la salud pública, la autoridad municipal como medida de seguridad, podrá ordenar la retención de sustancias o materiales contaminantes correspondientes y promoverá ante las autoridades competentes en los términos de las leyes relativas, la ejecución de las medidas de seguridad que en dichos ordenamientos se establecen.
-
-Cuando los ordenamientos a que se refiere el párrafo anterior no incluyan medidas de seguridad para hacer frente a los riesgos de desequilibrio ecológico, la autoridad municipal competente, previa opinión de las Autoridades Federales o Estatales emitirán las disposiciones conducentes.
+(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
 APARTADO QUINTO
 
@@ -2515,7 +2417,7 @@ DE LAS ACTIVIDADES COMERCIALES
 
 ###### ARTICULO 248.
 
-Es competencia del Ayuntamiento y facultad de la Secretaría de Finanzas y Tesorería Municipal llevar a cabo la expedición, control y cancelación o revocación de las licencias y permisos de funcionamiento de establecimientos, así como la inspección y ejecución fiscal, auditorías que le competan y todas las atribuciones que le correspondan de conformidad con las disposiciones de este Código y demás reglamentos aplicables.
+Es competencia del Ayuntamiento y facultad de la Secretaría de Finanzas llevar a cabo la expedición, control y cancelación o revocación de las licencias y permisos de funcionamiento de establecimientos, así como la inspección y ejecución fiscal, auditorias que le competan y todas las atribuciones que le correspondan de conformidad con las disposiciones de este Código y demás reglamentos aplicables.
 
 ###### ARTICULO 249.
 
@@ -2541,9 +2443,9 @@ El ejercicio del comercio se regirá fundamentalmente en las leyes y reglamentos
 
 I. Todos los establecimientos comerciales en el municipio tendrán derecho a abrir al público de lunes a domingo de las 08:00 a las 22:00 horas en forma ininterrumpida salvo las excepciones que contempla el presente apartado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-II. La Secretaría de Economía y Finanzas y Tesorería Municipal podrá expedir permiso a los establecimientos para que puedan permanecer abiertos al público en horas no comprendidas en los horarios autorizados, previo pago de los derechos correspondientes, con la anuencia por escrito, fundada y motivada, del Delegado Municipal que corresponda y de la Comisión de Desarrollo Rural y Económico, atendiendo al impacto social que se genere en la zona, la ubicación del establecimiento en donde se verificará que se encuentre en áreas comerciales, en vialidades de fácil acceso, con la debida iluminación a las horas que se requiera, en los siguientes casos:
+II. La Secretaría de Finanzas podrá expedir permiso a los establecimientos para que puedan permanecer abiertos al público en horas no comprendidas en los horarios autorizados, previo pago de los derechos correspondientes, con la anuencia por escrito, fundada y motivada, del Delegado Municipal que corresponda y de la Comisión de Desarrollo Rural y Económico, atendiendo al impacto social que se genere en la zona, la ubicación del establecimiento en donde se verificará que se encuentre en áreas comerciales, en vialidades de fácil acceso, con la debida iluminación a las horas que se requiera, en los siguientes casos:
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
@@ -2619,9 +2521,9 @@ XIII. De las 06:00 horas a las 22:00 horas de lunes a domingo: misceláneas;
 
 XIV. De las 08:00 a las 20:00 horas de lunes a viernes, y sábados de 08:00 a 15:00 horas: todos los giros de talleres automotrices y de servicios, talleres mecánicos y eléctricos, vulcanizadoras, talleres de hojalatería y pintura, ferretería y plomerías, herrería, carpintería, pailerías, talleres de torno, taller de mofles, establecimientos dedicados a la venta e instalación de equipos de carburación a gas LP y similares;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-XV. Se exceptúa de lo que dispone la fracción anterior, los talleres mecánicos, vulcanizadoras, talleres eléctricos y grúas que sean colindantes a las carreteras y lo (sic) que estén ubicados dentro de los parques industriales, los que podrán permanecer abiertos las 24:00 horas de lunes a domingo, previa autorización de la Secretaría de Economía y Finanzas y Tesorería Municipal; así como los establecimientos comerciales que sean anexos a gasolineras colindantes a carreteras o parques industriales.
+XV. Se exceptúa de lo que dispone la fracción anterior, los talleres mecánicos, vulcanizadoras, talleres eléctricos y grúas que sean colindantes a las carreteras y los que estén ubicados dentro de los parques industriales, los que podrán permanecer abiertos las 24:00 horas de lunes a domingo, previa autorización de la Secretaría de Economía y Finanzas y Tesorería Municipal; así como los establecimientos comerciales que sean anexos a gasolineras colindantes a carreteras o parques industriales.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
@@ -2647,9 +2549,9 @@ III. La Delegación realizará las verificaciones necesarias y procederá en cas
 
 IV. Cuando la Delegación, determine que existen faltas graves o reiteradas, correrá traslado de la queja al comerciante para que éste conteste en un plazo de diez días hábiles y ofrezca las documentales que acrediten su contestación, independientemente de la sanción a que se haya hecho acreedor; y
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-V. Transcurrido el plazo para que el comerciante dé contestación; se turnará a la Secretaría de Economía y Finanzas y Tesorería Municipal, quien con la opinión de la Comisión de Desarrollo Rural y Económico determinará en caso necesario, la revocación o suspensión temporal de la Licencia de Funcionamiento.
+V. Transcurrido el plazo para que el comerciante dé contestación; se turnará a la Secretaría de Finanzas, quien con la opinión de la Comisión de Desarrollo Rural y Económico determinará en caso necesario, la revocación o suspensión temporal de la Licencia de Funcionamiento.
 
 ###### ARTICULO 254.
 
@@ -2675,13 +2577,13 @@ I. Todo comerciante deberá registrarse en el padrón respectivo del Municipio;
 
 II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-III. El traspaso de los derechos sobre las licencias de empadronamiento, cambio de giros mercantiles, anexas y bajas, deberá solicitarse por escrito a la administración del mercado o Central de Abasto y a la Secretaría de Economía y Finanzas y Tesorería Municipal, siendo esta última la que otorgue la autorización correspondiente;
+III. El traspaso de los derechos sobre las licencias de empadronamiento, cambio de giros mercantiles, anexas y bajas, deberá solicitarse por escrito a la administración del mercado o Central de Abasto y a la Secretaría de Finanzas, siendo esta última la que otorgue la autorización correspondiente;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-IV. Los comerciantes de los mercados sobre ruedas, tianguis, etc., deberán solicitar el permiso correspondiente a la Secretaría de Economía y Finanzas y Tesorería Municipal cada día que se instalen y con la debida anticipación, y se ubicarán en el lugar que les asigne la Autoridad Municipal;
+IV. Los comerciantes de los mercados sobre ruedas, tianguis, etc., deberán solicitar el permiso correspondiente a la Secretaría de Finanzas cada día que se instalen y con la debida anticipación, y se ubicarán en el lugar que les asigne la Autoridad Municipal;
 
 V. Tendrán los comerciantes la obligación de conservar limpio e higiénico el lugar donde realicen sus actividades; y
 
@@ -2921,9 +2823,9 @@ Para el otorgamiento de licencias a que se refiere este ordenamiento, deberá co
 
 El registro de la licencia deberá revalidarse anualmente, para este efecto, lo (sic) interesados dentro de los tres primeros meses de cada año, deberán presentar solicitud por escrito, acompañada de los siguientes documentos:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-I. Fotocopia del comprobante de la Secretaría de Economía y Finanzas y Tesorería Municipal que acredite haber cubierto los derechos correspondientes al periodo anterior; y
+I. Fotocopia del comprobante de la Secretaría de Finanzas que acredite haber cubierto los derechos correspondientes al periodo anterior; y
 
 II. Fotocopia de la licencia de funcionamiento, así como la patente respectiva.
 
@@ -3391,7 +3293,7 @@ El Presidente Municipal dictará las medidas y disposiciones necesarias para el 
 
 ###### ARTICULO 367.
 
-La presidencia municipal contará con organismo asesor que se denominará Comisión de Box y Lucha Libre Profesional. Dicha Comisión será un cuerpo técnico dependiente de laa (sic) Autoridad municipal.
+La presidencia municipal contará con organismo asesor que se denominará Comisión de Box y Lucha Libre Profesional. Dicha Comisión será un cuerpo técnico dependiente de laaAutoridad (sic) municipal.
 
 La Comisión estará constituida por cinco miembros que serán designados por el Presidente Municipal; uno de los cuales tendrá el carácter de Presidente y los cuatro restantes de vocales.
 
@@ -3899,7 +3801,7 @@ III. Conservación del Patrimonio:
 
 a) Todas las fincas inventariadas por Patrimonio de Ley, deberán sujetarse a lo estipulado por la Ley Federal sobre Monumentos y Zonas históricas, por lo que para cualquier intervención que en las mismas se pretendiere llevar a cabo, deberán sujetarse a los criterios del Instituto Nacional de Antropología e Historia, para aquellos datos hasta 1900 y por el Ayuntamiento de Querétaro, a través de su Dirección de Obras Públicas, de la Comisión de Planeación Urbana, para las de este siglo, como requisito previo a las premisas de intervención; y
 
-b) Asimismo, esta disposición se hace extensiva para áreas urbanas en donde se pretenda modificar la traza o substancialmente el paisaje, pudiendo el Ayuntamiento coordinarse con las instancias a que de lugar: INAH Y SEDUE.
+b) Asimismo, esta disposición se hace extensiva para áreas urbanas en donde se pretenda modificar la traza o substancialmente el paisaje, pudiendo el Ayuntamiento coordinarse con las instancias a que de lugar: INAH y SEDUE.
 
 IV. Regulación de la imagen visual:
 
@@ -4163,7 +4065,7 @@ El Registro Civil es la institución que se encarga de inscribir y dar publicida
 
 El Registro Civil en el Municipio queda integrado de la siguiente manera:
 
-I. Oficialía 001adscrita a la Delegación Centro Histórico.
+I. Oficialía 001 adscrita a la Delegación Centro Histórico.
 
 II. Oficialía 002 adscrita a la Delegación Felipe Carrillo Puerto.
 
@@ -4431,7 +4333,7 @@ Cuando no exista acta en una de las Oficialías del Municipio, ni duplicado de l
 
 ###### ARTICULO 493.
 
-Para rectificar o modificar actas del Registro Civil, se estará a las autorizaciones judiciales o administrativas que remitan los tribunales o la coordinación estatal del Registro Civil respectivamente, sin poder asentarse, mas que lo resuelto judicialmente o lo consignado en los oficios emitidos por la autoridad administrativa. Toda anotación hecha de más se tendrá por no puesta, independientemente de la responsabilidad de quien las hiciere. Igualmente, las anotaciones o autorizadas se tendrán por no puestas.
+Para rectificar o modificar actas del Registro Civil, se estará a las autorizaciones judiciales o administrativas que remitan los tribunales o la coordinación estatal del Registro Civil respectivamente, sin poder asentarse, más que lo resuelto judicialmente o lo consignado en los oficios emitidos por la autoridad administrativa. Toda anotación hecha de más se tendrá por no puesta, independientemente de la responsabilidad de quien las hiciere. Igualmente, las anotaciones o autorizadas se tendrán por no puestas.
 
 ### CAPITULO UNICO. Disposiciones Generales
 
@@ -5305,11 +5207,11 @@ II. Se abrirá la fosa impregnando el lugar de una emulsión acuosa de criolina 
 
 III. Descubierta la fosa o cripta y levantadas las lozas, se perforarán dos orificios en el ataúd, uno en cada extremo, inyectando en uno, cloro naciente para que escape el gas por el otro; después se procederá a la apertura del ataúd, haciendo circular cloro naciente y quienes deban asistir estarán provistos de equipo de seguridad e higiene necesario.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 669.
 
-Si al efectuarse una exhumación por tiempo cumplido, se encuentra todavía el cuerpo en estado de descomposición, no se llevará a cabo aquella, volviéndose a cubrir la fosa o cripta, dando aviso el administrador del panteón, al Oficial del Registro Civil, para el refrendo correspondiente, cubriendo los familiares para el efecto los derechos en la Secretaría de Economía y Finanzas y Tesorería Municipal.
+Si al efectuarse una exhumación por tiempo cumplido, se encuentra todavía el cuerpo en estado de descomposición, no se llevará a cabo aquella, volviéndose a cubrir la fosa o cripta, dando aviso el administrador del panteón, al Oficial del Registro Civil, para el refrendo correspondiente, cubriendo los familiares para el efecto los derechos en la Secretaría de Finanzas.
 
 ### CAPITULO VII. Panteón de los Queretanos Ilustres
 
@@ -5445,7 +5347,7 @@ IV. Señalar los lugares para cada uno de los procedimientos anteriores;
 
 V. Llevar un estricto control de las fosas para cuyo efecto, las numerará progresivamente en el plano. En el mismo hará las anotaciones o señalamientos cuando las fosas queden vacías por cualquier circunstancia;
 
-VI. Llevar al día el registro de sus movimientos con lo siguientes datos como mínimo:
+VI. Llevar al día el registro de sus movimientos con los siguientes datos como mínimo:
 
 a) Nombre de la persona fallecida y sepultado así como fecha de inhumación.
 
@@ -6981,11 +6883,11 @@ APARTADO SEGUNDO
 
 DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 914.
 
-Las sanciones por violaciones a las disposiciones de este código, serán aplicadas por el Presidente Municipal, quien podrá delegar esta función en el Secretario de Economía y Finanzas y Tesorero Municipal, el Regidor del ramo o la autoridad competente según el caso.
+Las sanciones por violaciones a las disposiciones de este código, serán aplicadas por el Presidente Municipal, quien podrá delegar esta función en el Secretario de Finanzas, el Regidor del ramo o la autoridad competente según el caso.
 
 ###### ARTICULO 915.
 
@@ -7391,19 +7293,19 @@ b) La condición socioeconómica del infractor.
 
 c) Las sanciones podrán ser de carácter técnico y/o económicas, según los amerite el caso.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-El proceso de ejecución de sanciones será por medio de un escrito dirigido a la Dirección General Jurídica, en donde se indicarán las causas y montos y los infractores cubrirán los importes en la caja de la Secretaría de Economía y Finanzas y Tesorería Municipal.
+El proceso de ejecución de sanciones será por medio de un escrito dirigido a la Dirección General Jurídica, en donde se indicarán las causas y montos y los infractores cubrirán los importes en la caja de la Secretaría de Finanzas.
 
 Será aceptable por parte del Ayuntamiento la contribución de fuentes luminosas de anuncios, canchas, etc., salvo en los casos en que afecten la imagen urbana o la Preservación del Patrimonio Histórico, contravengan disposiciones en materia de Desarrollo Urbano o se Provoque Perturbación y/o deslumbramiento a los transeúntes y conductores que circulen por las vialidades.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-El Departamento de Alumbrado Público exhortará por escrito a los propietarios o responsables para que corrijan la anomalía en un plazo de 30 días. De no acatar la disposición se procederá a través de requerimiento y/o clausura temporal por conducto de la Dirección General Jurídica y la Secretaría de Economía y Finanzas y Tesorería Municipal hasta lograr subsanar la causa del problema.
+El Departamento de Alumbrado Público exhortará por escrito a los propietarios o responsables para que corrijan la anomalía en un plazo de 30 días. De no acatar la disposición se procederá a través de requerimiento y/o clausura temporal por conducto de la Dirección General Jurídica y la Secretaría de Finanzas hasta lograr subsanar la causa del problema.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-Cuando se elaboren convenios o una vez pasado, sean establecidos compromisos posteriores a su vencimiento entre el Gobierno Municipal y particulares, y éstos no se cumplan en el término de 30 días, se procederá a notificar por escrito al titular o representante legal de la empresa, de no haber respuesta se procederá a través de la Dirección General Jurídica y la Secretaría de Economía y Finanzas y Tesorería Municipal con la notificación de embargo, para recuperar el monto de lo establecido en el convenio o compromiso de la obra, acción misma que será realizada por el propio personal del Municipio o de un tercero.
+Cuando se elaboren convenios o una vez pasado, sean establecidos compromisos posteriores a su vencimiento entre el Gobierno Municipal y particulares, y éstos no se cumplan en el término de 30 días, se procederá a notificar por escrito al titular o representante legal de la empresa, de no haber respuesta se procederá a través de la Dirección General Jurídica y la Secretaría de Finanzas con la notificación de embargo, para recuperar el monto de lo establecido en el convenio o compromiso de la obra, acción misma que será realizada por el propio personal del Municipio o de un tercero.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
 
@@ -7511,7 +7413,7 @@ VI. Si se trata de trabajadores de confianza, podrán ser removidos, libremente 
 
 Las medidas disciplinarias enumeradas en el artículo anterior las impondrá el administrador del Rastro, corrigiendo en el acto las faltas que se hubieren cometido.
 
-Unicamente el Presidente Municipal está facultado para sancionar al Administrador del Rastro y para aplicar el cese a los trabajadores de confianza del mismo establecimiento.
+Únicamente el Presidente Municipal está facultado para sancionar al Administrador del Rastro y para aplicar el cese a los trabajadores de confianza del mismo establecimiento.
 
 ###### ARTICULO 984.
 
@@ -7527,11 +7429,11 @@ II. La edad, educación, ilustración, costumbres y conducta del infractor; y
 
 III. Los motivos que lo impulsaron a infringir las disposiciones vigentes y sus condiciones económicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 986.
 
-Los usuarios que se encuentren debidamente acreditados conforme a lo dispuesto por el apartado correspondiente que contravengan las disposiciones administrativas y legales, serán sancionados con multas que serán calificadas por el Secretario de Economía y Finanzas y Tesorero Municipal o la autoridad que le corresponda saber de la sanción cometida por el usuario.
+Los usuarios que se encuentren debidamente acreditados conforme a lo dispuesto por el apartado correspondiente que contravengan las disposiciones administrativas y legales, serán sancionados con multas que serán calificadas por el Secretario de Finanzas o la autoridad que le corresponda saber de la sanción cometida por el usuario.
 
 Queda a criterio del C. Presidente Municipal el revocar el permiso de los usuarios que infrinjan reiteradamente las disposiciones referentes al Rastro Municipal, facultándosele para que en tal caso, le suspenda por tiempo indefinido el permiso para operar en las instalaciones e inmediaciones del Rastro Municipal.
 
@@ -8013,6 +7915,28 @@ SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 
 TERCERO.- Se derogan los artículos 76, 505 a 606 del Código Municipal de Querétaro; así como todos aquellos preceptos legales de igual o menor jerarquía que se opongan al presente ordenamiento.
 
-CUARTO.- El Reglamento de Limpia, publicado el día 25 de Mayo de 2005, en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga", quedará abrogado según lo señalada en el articulo segundo transitorio.
+CUARTO.- El Reglamento de Limpia, publicado el día 25 de Mayo de 2005, en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga", quedará abrogado según lo señalada en el artículo segundo transitorio.
 
 QUINTO.- Se instruye al Instituto Municipal de Capacitación, para que en coordinación con la Secretaria de Servicios Públicos Municipales, diseñen y operen programas de capacitación en las materias contempladas por el presente Reglamento.
+
+P.O. 21 DE AGOSTO DE 2009.
+
+REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Se deroga el Apartado Cuarto, "DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE", del Libro Segundo, "GOBERNACIÓN", del Código Municipal de Querétaro; así como todas aquellas disposiciones de igual o menor jerarquía que contravengan lo establecido en el presente ordenamiento legal.
+
+CUARTO. Se instruye a la Secretaría de Administración para que realice los trabajos correspondientes para la correcta integración de los manuales de procedimientos y de operación de la Dirección de Ecología Municipal.
+
+P.O. 21 DE AGOSTO DE 2009.
+
+ACUERDO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CODIGO MUNICIPAL DEL ESTADO DE QUERETARO.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Notifíquese a los titulares de la Secretaría General de Gobierno Municipal, de la Secretaría de Administración y de la Secretaría de Finanzas.
