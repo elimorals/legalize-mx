@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2009-07-21"
+last_updated: "2009-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -295,29 +295,51 @@ Todo ciudadano guanajuatense tiene derecho a participar en la vida política del
 
 Los ciudadanos guanajuatenses tienen el derecho de afiliarse, individual y libremente, al Partido o Asociación Política de su preferencia, cumpliendo con los requisitos estatutarios de ingreso.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 17.
 
-Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Para ello tendrán el derecho exclusivo de postular candidatos por sí mismos, candidatos comunes o a través de coaliciones, en los términos que establezca la Ley de la materia.
+Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Para ello tendrán el derecho exclusivo de postular candidatos por sí mismos o a través de coaliciones en los términos que establezca la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 Sólo los ciudadanos guanajuatenses podrán formar partidos políticos estatales y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
 El Estado garantizará que los partidos políticos cuenten, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades. La Ley determinará las formas específicas de su intervención en los procesos electorales, sus derechos, prerrogativas, formas y reglas de financiamiento, los topes y bases a sus gastos de precampaña y de campaña, así como el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 El financiamiento público para los partidos políticos que mantengan su registro o acreditación después de cada elección se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
 Para que un Partido Político Estatal conserve su registro, reciba financiamiento y goce de los derechos y las prerrogativas que esta Constitución y la Ley le conceda, deberá obtener el dos por ciento de la votación válida estatal de Diputados al Congreso del Estado bajo el principio de mayoría relativa, lo cual deberá ser declarado por el Consejo General del Instituto Electoral del Estado de Guanajuato en la sesión que siga a la calificación de la elección.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 Para que un Partido Político Nacional tenga derecho a recibir financiamiento público, deberá haber conservado su acreditación y obtenido cuando menos el dos por ciento de la votación válida estatal de Diputados al Congreso del Estado bajo el principio de mayoría relativa, lo cual deberá ser declarado por el Consejo General del Instituto Electoral del Estado de Guanajuato en la sesión que siga a la calificación de la elección.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
 Los partidos políticos deberán rendir informes justificados sobre el origen y uso de todos los recursos con que cuenten, para efectos de la fiscalización a que se refiere el artículo 31 de esta Constitución, en los términos de la Ley de la materia. Dichos informes serán públicos.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 La Ley fijará los criterios para establecer los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia Ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
 La Ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales. La duración de las campañas en el año de elecciones para Gobernador no durarán más de setenta y cinco días, las campañas para elegir Diputados al Congreso no durarán más de cuarenta y cinco días y las campañas para elegir ayuntamientos no durarán más de sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales. La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la Ley.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
 Los partidos políticos accederán a la radio y la televisión, conforme a las normas establecidas por el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la Ley de la materia.
 
@@ -792,10 +814,6 @@ Los Diputados en ejercicio no podrán desempeñar ningún empleo, cargo o comisi
 #### SECCION SEGUNDA. DE LOS PERIODOS DE SESIONES
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
-
-ARTICULO. 51.- El Congreso del Estado tendrá cada año tres Periodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de febrero y concluirá a más tardar el 31 de mayo, y el tercero comenzará el 1º de agosto y concluirá a más tardar el 31 de agosto.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 51.
 
@@ -3104,3 +3122,7 @@ Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguien
 Artículo Segundo.- La prohibición para el desempeño de un cargo de elección popular, con otro cargo o empleo público, comenzará a regir para los presidentes municipales, síndicos y regidores propietarios que se elijan a partir de las elecciones de Ayuntamientos para el periodo 2009-2012.
 
 Artículo Tercero.- El Congreso del Estado efectuará las adecuaciones respecto a la incompatibilidad de cargos correspondientes en la legislación estatal, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto.
+
+P.O. 21 DE AGOSTO DE 2009.
+
+Artículo Único. El presente Decreto entrará en vigor el 1° primero de noviembre del 2009, dos mil nueve, previa su publicación en el Periódico Oficial del Gobierno del Estado.
