@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-sistema-estatal-de-asistencia-social-guanajuato-55
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-19"
-last_updated: "2006-08-01"
+last_updated: "2009-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de septiembre de 1986.
 
@@ -49,7 +49,9 @@ La presente Ley regirá en el Estado de Guanajuato, sus disposiciones son de ord
 
 I.- Crear y establecer las bases y procedimientos del Sistema Estatal de Asistencia Social;
 
-II.- La promoción y prestación de los servicios de asistencia social que establece la Ley de Salud del Estado de Guanajuato; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+II.- La promoción y prestación de los servicios de asistencia social que establece la Ley de Salud del Estado de Guanajuato, de acuerdo a lo dispuesto por la Ley General de Salud; y
 
 III.- Coordinar el acceso a los servicios de asistencia social, garantizando a través de los convenios respectivos, la concurrencia y colaboración de los Gobiernos Federal, Estatal y Municipal, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado.
 
@@ -57,13 +59,11 @@ III.- Coordinar el acceso a los servicios de asistencia social, garantizando a t
 
 El Gobierno del Estado en forma prioritaria proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, y también a apoyar, en su formación, subsistencia y desarrollo a individuos con carencias familiares esenciales no superables en forma autónoma.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
-
-La asistencia social comprende acciones de previsión, prevención, promoción, atención, protección y rehabilitación.
+Para los efectos de esta Ley se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo y las familias, así como la protección física, mental y social de personas y familias en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
@@ -85,9 +85,13 @@ III.- Adolescentes que estén sujetos a proceso y a quienes se les haya impuesto
 
 IV.- Mujeres en períodos de gestación o lactancia;
 
-V.- Ancianos en desamparo, incapacidad, marginación o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-VI.- Inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, alteraciones de los sistemas nervioso y músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
+V.- Adultos mayores en desamparo, marginación, con discapacidad o sujetos a maltrato;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+VI.- Personas con discapacidad por causa de ceguera, debilidad visual, sordera, alteraciones de los sistemas nervioso y músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
 
 VII.- Indigentes;
 
@@ -113,9 +117,11 @@ XIII.- Personas afectadas por desastres.
 
 Los servicios de asistencia social de jurisdicción federal, se realizarán a través de las dependencias y entidades de la Administración Pública Federal competentes y de acuerdo a sus atribuciones, de conformidad a las leyes respectivas, con la participación que se convenga con el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 6o.
 
-De acuerdo a lo dispuesto en la Ley General de Salud, corresponde al Gobierno del Estado, como autoridad en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de su jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud.
+De acuerdo a lo dispuesto en la Ley General de Salud, corresponde al Gobierno del Estado, como autoridad en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de su jurisdicción territorial y con base a las normas oficiales mexicanas que al efecto establezca la Secretaría de Salud.
 
 ###### ARTICULO 7o.
 
@@ -141,13 +147,17 @@ I.- Garantizar la extensión cuantitativa y cualitativa de los servicios, prefer
 
 II.- Definir criterios de distribución de universos de usuarios, de regionalización, de escalonamiento de los servicios; y
 
-III.- Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de los grupos sociales desprotegidos.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+III.- Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención Integral de los grupos vulnerables.
 
 ###### ARTICULO 12.
 
 El Gobierno del Estado, a través del Organismo a que se refiere el Artículo 16 de esta Ley, en su carácter de autoridad sanitaria tendrá respecto de la asistencia social, las siguientes atribuciones:
 
-I.- Supervisar la aplicación de las normas técnicas que rijan la prestación de los servicios de salud en materia de asistencia social, así como la difusión y adecuación de las mismas entre los integrantes del Sistema Estatal de Salud;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+I.- Supervisar la aplicación de las normas oficiales mexicanas que rijan la prestación de los servicios de salud en materia de asistencia social, así como la difusión de las mismas entre los integrantes del Sistema Estatal de Salud;
 
 II.- Vigilar el estricto cumplimiento de esta Ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competen a las dependencias y entidades de la Administración Pública Federal;
 
@@ -175,15 +185,23 @@ XI.- Las demás que le otorguen las leyes aplicables.
 
 Para los efectos de esta ley; se entienden como servicios en materia de asistencia social, los siguientes:
 
-I.- La atención a personas que, por sus carencias socio-económicas o por problemas de invalidez, minusvalía o incapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo;
+I.- La atención a personas que, por sus carencias socio-económicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+II.- La atención en establecimientos especializados a menores y adultos mayores en estado de abandono o desamparo;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+III.- La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la etapa de la vejez;
 
 IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos, minusválidos o incapaces sin recursos;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+V.- La prestación de servicios de asistencia jurídica, psicológica y de orientación social, especialmente a menores, adultos mayores o personas con discapacidad, sin recursos;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -191,7 +209,9 @@ VII.- El apoyo a la educación y capacitación para el trabajo de personas con c
 
 VIII.- La prestación de servicios funerarios;
 
-IX.- La prevención de invalidez, minusvalía o incapacidad y su rehabilitación en centros especializados;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+IX.- La prevención de la discapacidad y la rehabilitación en centros especializados;
 
 X.- La orientación nutricional y la alimentación complementaria a personas de escasos recursos y a población de zonas marginadas;
 
@@ -223,7 +243,9 @@ XIX.- Los demás que tiendan a modificar y mejorar las circunstancias de caráct
 
 Para los efectos del artículo anterior, el Sistema Estatal de Asistencia Social, tendrá a su cargo:
 
-I.- La administración del patrimonio de la Beneficencia Pública, observando lo establecido por la Ley Orgánica de Servicio Social en el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+I.- La administración del patrimonio de la Beneficencia Pública, observando lo establecido por la Ley del Patrimonio Inmobiliario del Estado de Guanajuato y las leyes de la materia;
 
 II.- La promoción, supervisión, vigilancia y evaluación de las Instituciones de Asistencia Privada;
 
@@ -233,9 +255,11 @@ IV.- Aquellos servicios que por sus características requieran de atención espe
 
 V.- Las demás que las disposiciones generales le otorguen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 15.
 
-La operación de los servicios en materia de Asistencia Social, se sujetará a la normatividad técnica que emita la Secretaría de Salud y la Autoridad Estatal, en el ámbito de sus respectivas competencias.
+La operación de los servicios en materia de asistencia social, .se sujetará a las normas oficiales mexicanas que emita la Secretaría de Salud.
 
 Las instituciones particulares que presten los servicios de asistencia a que se refiere el párrafo anterior se regirán por los ordenamientos locales de la materia y por la reglamentación municipal que corresponda a los Ayuntamientos.
 
@@ -267,9 +291,13 @@ V.- Coordinar las funciones relacionadas con la Beneficencia Pública y la Asist
 
 VI.- Fomentar, apoyar, coordinar y evaluar las actividades que lleven a cabo las instituciones de asistencia o asociaciones civiles y todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de minusválidos sin recursos;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-VIII.- Llevar a cabo acciones en materia de prevención de invalidez, minusvalía o incapacidad y de rehabilitación de inválidos, en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
+VII.- Normar, supervisar y en su caso operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de adultos mayores desamparados y de personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+VIII.- Llevar a cabo acciones en materia de prevención de la discapacidad y de rehabilitación de personas con discapacidad, en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
 
 IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación, en su caso, de las autoridades asistenciales del Gobierno del Estado y de los Municipios;
 
@@ -279,17 +307,23 @@ XI.- Realizar y promover la capacitación de recursos humanos para la asistencia
 
 XII.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social a que se refiere la fracción XIV del Artículo 13 de esta Ley;
 
-XIII.- Prestar servicios de asistencia jurídica y de orientación social a menores, ancianos y minusválidos, inválidos o incapaces, sin recursos;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+XIII.- Prestar servicios de asistencia jurídica, psicológica y de orientación social a menores, adultos mayores y personas con discapacidad, sin recursos;
 
 XIV.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva;
 
 XV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
-XVI.- Realizar estudios e investigaciones en materia de invalidez, minusvalía e incapacidad;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+XVI.- Realizar estudios e investigaciones en materia de discapacidad;
 
 XVII.- Participar en programas de rehabilitación y educación especial;
 
-XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de los inválidos, minusválidos e incapaces; y (sic)
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía a las personas con discapacidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2006)</small>
 
@@ -307,7 +341,9 @@ En casos de desastre, como inundaciones, terremotos, derrumbes, explociones (sic
 
 En la prestación de servicios y en la realización de acciones, el Organismo actuará en coordinación con las dependencias y entidades del Gobierno del Estado y de los Municipios, según la competencia que a éstas otorguen las Leyes.
 
-El Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica social y ocupacional, para las personas que sufran cualquier tipo de invalidez, minusvalía o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+El Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica social y ocupacional, para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
 
 El Organismo observará una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del Sector Salud y de los sectores social y privado.
 
@@ -337,7 +373,13 @@ II.- Junta de Gobierno; y
 
 III.- Dirección General.
 
-La vigilancia de la operación del organismo estará a cargo de un Comisario.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+El control y vigilancia del Organismo estará a cargo de un órgano de vigilancia.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+El órgano de vigilancia tendrá el carácter de contraloría interna, la cual será la responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros con el fin de determinar el correcto desempeño del Organismo.
 
 ###### ARTICULO 23.
 
@@ -361,33 +403,53 @@ V.- Las demás que sean necesarias para el ejercicio de las facultades anteriore
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 26.
 
-La Junta de Gobierno estará integrada por los titulares de las siguientes dependencias: Secretaría de Salud, Secretaría de Educación, Cultura y Recreación, Procuraduría General de Justicia del Estado y por el Director del Sistema Estatal para el Desarrollo Integral de la Familia.
+La Junta de Gobierno estará integrada por:
+
+I.- El Titular de la Secretaría de Salud;
+
+II.- El Titular de la Secretaría de Desarrollo Social y Humano;
+
+III.- El Titular de la Secretaría de Educación;
+
+IV.- El Titular de la Secretaría de la Gestión Pública;
+
+V.- El Procurador General de Justicia del Estado; y
+
+VI.- El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
 
 Los miembros de la Junta de Gobierno serán suplidos por los Representantes que al efecto designen cada uno de los miembros propietarios de la misma.
 
-La Junta de Gobierno contará con un Secretario Técnico, designado por la misma, a propuesta del Director General.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+La Junta de Gobierno contará con una secretaría técnica, designada por la misma, a propuesta del Director General del Organismo.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto, con excepción del titular de la Secretaría de la Gestión Pública, quien sólo tendrá derecho a voz.
 
 ###### ARTICULO 27.
 
 La Junta de Gobierno tendrá las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-I.- Otorgar al Director General, poder para ejercer actos de dominio;
+I.- Autorizar al Director General, para ejercer actos de dominio;
 
 II.- Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-III.- Aprobar los Reglamentos Interiores, que le presente para tal efecto el Director General; así como la organización general del Organismo y los Manuales de Procedimientos y Servicio al Público;
+III.- Aprobar los reglamentos y disposiciones administrativas de observancia general que le presente para tal efecto el Director General;
 
 IV.- Designar y remover, a propuesta del Director General del Organismo, a los servidores públicos superiores;
 
-V.- Conocer los informes, dictámenes y recomendaciones del comisario y del Auditor Externo;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+V.- Conocer los informes, dictámenes y recomendaciones del Contralor Interno y de auditores externos, en caso de que se considere necesaria su contratación;
 
 VI.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se hagan a favor del Organismo;
 
@@ -409,9 +471,11 @@ La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el e
 
 La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 30.
 
-El Director General será ciudadano mexicano por nacimiento, tener 30 años de edad como mínimo y con experiencia en materia administrativa y de asistencia social.
+Para ser Director General del Organismo se requiere ser ciudadano mexicano por nacimiento, tener 30 años de edad como mínimo y contar con experiencia en materia administrativa y de asistencia social.
 
 El Gobernador del Estado designará y removerá libremente al Director General.
 
@@ -433,33 +497,43 @@ VI.- Planear, dirigir y controlar el funcionamiento del Organismo con sujeción 
 
 VII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
 
-VIII.- Actuar en representación de Organismo con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes; y
+VIII.- (DEROGADA, P.O. 21 DE AGOSTO DE 2009)
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-IX.- Representar jurídicamente al Organismo como apoderado general para pleitos y cobranzas, con facultades de administración y aquéllas que requieran cláusula especial de acuerdo con la Ley; así como para ejercer actos de dominio, con autorización expresa de la Junta de Gobierno;
+IX.- Representar jurídicamente al Organismo como apoderado general para pleitos y cobranzas, con facultades de administración y aquéllas que requieran cláusula especial de acuerdo con la Ley y delegar o sustituir esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente; así como para ejercer actos de dominio, con autorización expresa de la Junta de Gobierno;
 
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1994)</small>
 
 X.- Formular los proyectos de Reglamentos Interiores del Organismo y someterlos, para su aprobación, a la Junta de Gobierno; y
 
-XI.- Las demás que sean necesarias para el ejercicio de las anteriores.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+XI.- Autorizar constancias y certificar copias de los documentos originales que obran en los archivos del Organismo; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+XII.- Las demás que sean necesarias para el ejercicio de las anteriores.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 32.
 
-El Comisario será designado y removido libremente por el Gobernador del Estado y será ciudadano mexicano por nacimiento y con experiencia profesional no menor de cinco años.
+El Contralor Interno será designado y removido libremente por el Secretario de la Gestión Pública y será ciudadano mexicano por nacimiento y con experiencia profesional no menor de cinco años.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 33.
 
-El Comisario tendrá las siguientes atribuciones:
+El Contralor Interno tendrá las siguientes atribuciones:
 
-I.- Vigilar que la Administración de los recursos y el funcionamiento del Organismo, se hagan de acuerdo con lo que dispongan esta Ley y los programas y presupuestos aprobados;
+I.- Vigilar la correcta aplicación del presupuesto de egresos del Organismo;
 
-II.- Practicar las revisiones de los estados financieros y las de carácter administrativo que se requieran;
+II.- Verificar que se cuente con el registro e inventario actualizado de los bienes muebles e inmuebles del Organismo;
 
-III.- Recomendar a la Junta de gobierno y al Director General, las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Organismo;
+III.- Participar en la entrega-recepción de la administración del Organismo;
 
-IV.- Asistir a las sesiones del Patronato y de la Junta de Gobierno; y
+IV.- Verificar los estados financieros del Organismo; y
 
 V.- Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
 
@@ -505,11 +579,11 @@ La Procuraduría en Materia de Asistencia Social estará a cargo de un Procurado
 
 La Procuraduría en Materia de Asistencia Social, contará con los Procuradores Auxiliares que sean necesarios para el cumplimiento de sus funciones, los cuales serán designados por el Procurador General.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 42.
 
-Los requisitos para ser Procurador General y Procurador Auxiliar, así como sus funciones, se establecerán en el Reglamento Interior que para el efecto expida la Junta de Gobierno.
+Los requisitos para ser Procurador General y Procurador Auxiliar, así como sus funciones, se establecerán en el reglamento interior que para el efecto apruebe la Junta de Gobierno.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
 
@@ -557,17 +631,17 @@ En el Reglamento Interior de la Procuraduría en Materia de Asistencia Social, s
 
 ### CAPITULO CUARTO. De la Orientación Familiar
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 46.
 
-Con el objeto de contribuir al establecimiento de bases sólidas para el desarrollo integral de la familia, se promoverá la creación de centros de orientación familiar, los cuales encauzarán sus actividades a la investigación de las causas de desintegración familiar y a la promoción de los valores que deben prevalecer en la relación entre los cónyuges y los hijos.
+Con el objeto de contribuir al establecimiento de bases sólidas para el desarrollo integral de la familia, se promoverá la creación de centros de orientación familiar, los cuales encauzarán sus actividades a la promoción de los valores en los que se sustente el desarrollo familiar y la atención de la familia, a través de programas interinstitucionales de atención.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 47.
 
-Los centros de orientación familiar, de acuerdo con las posibilidades del sistema para el desarrollo integral de la familia, se instalarán en aquellos lugares que decida la Junta de Gobierno por sí, o en coordinación con los sistemas municipales.
+Los centros de orientación familiar, de acuerdo con las posibilidades del Organismo, se instalarán en aquellos lugares que decida la Junta de Gobierno por sí o en coordinación con los sistemas para el desarrollo integral de la familia de los municipios.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
 
@@ -587,7 +661,9 @@ V.- Fomentar la paternidad y la maternidad responsable;
 
 VI.- Asesorar a los padres de familia para atender problemas de alcoholismo, drogadicción y otros semejantes, que atenten contra la integridad de la familia tanto de alguno de los cónyuges como de los hijos; y
 
-VII.- En general, brindar la atención a todas aquellas cuestiones indispensables para el bienestar del núcleo familiar.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+VII.- En general, brindar la atención a todas las familias a través de programas interinstitucionales de atención.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
@@ -595,11 +671,11 @@ VII.- En general, brindar la atención a todas aquellas cuestiones indispensable
 
 Los centros de orientación familiar se sujetarán en cuanto a su integración, organización y funcionamiento a las disposiciones contenidas en el Reglamento Interior, que para tal efecto expida la Junta de Gobierno.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 50.
 
-Los Sistemas Municipales para el Desarrollo Integral de la Familia, procurarán la creación, en el ámbito de su competencia, de centros de orientación familiar de conformidad con lo que dispone el presente Capítulo.
+Los sistemas para el desarrollo integral de la familia de los municipios, procurarán la creación, en el ámbito de su competencia, de centros de orientación familiar de conformidad con lo que dispone el presente capítulo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 1994)</small>
 
@@ -625,7 +701,9 @@ III.- Distribuir y coordinar acciones entre las partes de manera proporcional y 
 
 IV.- Coordinar y proponer programas para el establecimiento y apoyo de la Beneficencia Pública y la Asistencia Privada, Estatal y Municipal; y
 
-V.- Fortalecer el patrimonio de los Sistemas Municipales para el Desarrollo Integral de la Familia.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+V.- Fortalecer el patrimonio de los sistemas para el desarrollo integral de la familia de los municipios.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
@@ -659,7 +737,9 @@ IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan l
 
 El Organismo, con el objeto de ampliar la cobertura de los servicios de asistencia social, fincados en la solidaridad ciudadana, promoverá en toda la Entidad, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares, las que, con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten dichos servicios con sujeción a los ordenamientos que las rijan.
 
-El Organismo aplicará, difundirá y adecuará las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios en materia de asistencia social, prestándoles la asesoría técnica necesaria y los apoyos conducentes.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+El Organismo supervisará la aplicación y difundirá las normas oficiales mexicanas que dichas instituciones deberán observar en la prestación de los servicios en materia de asistencia social, prestándoles la asesoría técnica necesaria y los apoyos conducentes.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
@@ -673,13 +753,15 @@ A propuesta del Organismo, el Gobierno del Estado dictaminará el otorgamiento d
 
 El Organismo mediante la inducción promoverá la organización y participación activa de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
 
-El Organismo pondrá especial atención en la promoción de acciones de la comunidad en beneficio de menores en estado de abandono, minusválidos, inválidos e incapaces física o mentalmente.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+El Organismo pondrá especial atención en la promoción de acciones de la comunidad en beneficio de menores en estado de abandono, personas con discapacidad y adultos mayores.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 59.
 
-El Gobierno del Estado directamente o a través del Organismo, promoverá la organización y participación de la comunidad para que, en base al apoyo y la solidaridad social, coadyuve en la prestación de servicios asistenciales para el desarrollo Integral de la Familia.
+El Gobierno del Estado directamente o a través del Organismo, promoverá la organización y participación de la comunidad para que, con base al apoyo y la solidaridad social, coadyuve en la prestación de servicios asistenciales para el desarrollo integral de la familia.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
@@ -689,7 +771,9 @@ La participación de la comunidad a que se refiere el artículo anterior, tiene 
 
 Dicha participación será a través de las siguientes acciones:
 
-I.- Promoción de hábitos de conducta y valores que contribuyan a la protección de los grupos desprotegidos, a su superación y a la prevención de invalidez;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+I.- Promoción de hábitos de conducta y de valores que contribuyan a la protección de los grupos desprotegidos, a su superación y a la prevención de la discapacidad;
 
 II.- Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios en materia de asistencia social, bajo la Dirección y control de las autoridades correspondientes;
 
@@ -748,3 +832,7 @@ Artículo Segundo.- La Secretaría de Finanzas y Administración instrumentará 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE AGOSTO DE 2009.
+
+Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
