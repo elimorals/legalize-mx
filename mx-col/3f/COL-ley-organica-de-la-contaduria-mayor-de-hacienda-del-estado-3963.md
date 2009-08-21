@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-contaduria-mayor-de-hacienda-del-estado-3963
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-08-27"
-last_updated: "2004-07-24"
+last_updated: "2009-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO, PUBLICADA EN EL P.O. DE 21 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 27 de agosto de 1988.
 
@@ -418,3 +420,17 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- La revisión y fiscalización de la cuenta pública municipal correspondiente al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
 
 Tercer.- Para el caso de la aprobación por el Cabildo y su remisión al Congreso del Estado del dictamen de revisión de los resultados de la cuenta pública, correspondiente al primer semestre de 2004, por única vez se amplía el plazo al 31 de agosto de 2004, sujetándose la Contaduría Mayor de Hacienda y el Congreso para su revisión y fiscalización a la fecha establecida en el artículo 33, fracción XI, de la Constitución Política del Estado Libre y Soberano de Colima.
+
+P.O. 21 DE AGOSTO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor el día de publicación en el Periódico Oficial "El Estado de Colima" y se aplicará lo dispuesto en los artículos transitorios siguientes.
+
+Segundo.- A partir de la entrada en vigor de esta Ley, se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Colima, sin perjuicio de que los asuntos que se encuentren en trámite o en proceso en el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado al entrar en vigor la Ley materia del presente Decreto, se seguirán tramitando hasta su conclusión en términos de la referida de la Contaduría Mayor de Hacienda del Estado de Colima.
+
+Tercero.- La presentación, revisión, fiscalización dictamen de las cuentas públicas del segundo semestre del ejercicio fiscal 2008, primero y segundo del ejercicio fiscal 2009, se tramitarán hasta su conclusión en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Colima y demás legislación vigente antes de la entrada en vigor del presente Decreto.
+
+Cuarto.- Las disposiciones jurídicas que contravengan o se opongan a la presente reforma quedan derogadas.
+
+Quinto.- Las referencias que se hagan en otras Leyes y disposiciones administrativas respecto a la Contaduría Mayor de Hacienda, se tendrán efectuadas al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, conforme a la Ley que se expide mediante el presente Decreto.
+
+Sexto.- Los convenios de colaboración que se hubieren celebrado con anterioridad a la entrada en vigor de este Decreto, por la Contaduría Mayor de Hacienda, con la Auditoría Superior de la Federación, así como los convenios y contratos de arrendamiento conservarán su valor y eficacia, hasta en tanto se sustituyan.
