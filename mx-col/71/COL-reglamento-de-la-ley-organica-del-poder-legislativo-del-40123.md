@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2009-08-15"
+last_updated: "2009-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -235,7 +235,9 @@ En la primera quincena del mes de septiembre del año de la elección, la Comisi
 
 a).- Analizará la documentación electoral que reciba de la Oficialía Mayor y verificará que ésta se encuentre debidamente integrada y completa para su entrega a la Directiva Provisional de la Legislatura entrante;
 
-b).- Solicitará a la Oficialía Mayor, la elaboración del inventario de instalaciones, bienes muebles y asuntos legislativos pendientes y a la Contaduría Mayor de Hacienda el informe de la situación financiera del Poder Legislativo, documentación que deberá obrar en su poder a más tardar el día 15 de septiembre;
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+b).- Solicitará a la Oficialía Mayor, la elaboración del inventario de instalaciones, bienes muebles y asuntos legislativos pendientes y del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, el informe de la situación financiera del Poder Legislativo, documentación que deberá obrar en su poder a más tardar el día 15 de septiembre;
 
 c).- Solicitará por escrito al Presidente del Instituto Electoral del Estado, le informe el orden que hayan obtenido los Diputados electos por el principio de mayoría para los efectos previstos en los artículos 31, segundo párrafo y 41, de la Ley, así como el domicilio de todos los Diputados electos;
 
@@ -497,11 +499,11 @@ Las comisiones se encargarán de estudiar y analizar los asuntos de su competenc
 
 El Presidente de cada Comisión presentará en el mes de noviembre de cada año el programa de trabajo que dicha Comisión pretenda llevar a cabo en el siguiente ejercicio. En él detallará programas, acciones y metas por alcanzar, así como el costo financiero que deberá coincidir con la solicitud que al efecto haya presentado a la Comisión de Gobierno, en los términos del artículo 10 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 46.
 
-Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades, de Vigilancia de la Contaduría Mayor de Hacienda, y de Derechos Humanos, Atención al Migrante, y Promoción de la Equidad y Género, las que estarán integradas por cinco Diputados las dos primeras y siete la última; en éstas, los Diputados restantes tendrán el carácter de vocales.
+Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades, de Hacienda y Presupuesto y de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y de Derechos Humanos, Atención al Migrante, y Promoción de la Equidad y Género, las que estarán integradas por cinco Diputados las tres primeras y siete la última; en éstas, los Diputados restantes tendrán el carácter de vocales.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2006)</small>
 
@@ -537,7 +539,9 @@ XII.- Salud, Asistencia Social, y Protección a la Niñez, Juventud, Adultos May
 
 XIII.- Desarrollo Municipal, Participación Ciudadana, Peticiones, y Ediciones Legislativas;
 
-XIV.- Vigilancia de la Contaduría Mayor de Hacienda; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+XIV.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y
 
 XV.- Ciencia, Tecnología e Innovación Gubernamental.
 
@@ -745,7 +749,9 @@ II.- Dictaminar sobre los asuntos que en materia de juicio político y de declar
 
 III.- Estudiar y dictaminar los asuntos relativos a incompatibilidades en el servicio público de los Diputados;
 
-IV.- Conocer, analizar y emitir dictamen en los asuntos relacionados con responsabilidades administrativas provenientes de las auditorías que practique la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+IV.- Conocer, analizar y emitir dictamen en los asuntos relacionados con responsabilidades administrativas provenientes de las auditorías que practique el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
 
 V.- Recibir las declaraciones anuales de situación patrimonial de los Diputados y servidores públicos del Poder Legislativo y proceder de conformidad con la ley de la materia; y
 
@@ -885,17 +891,11 @@ VIII.- Promover y atender, en su caso, a grupos de estudiantes que visiten las i
 
 IX.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 67.
 
-Corresponde a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda conocer de los siguientes asuntos:
-
-I.- Vigilar la organización y funcionamiento de la Contaduría Mayor de Hacienda;
-
-II.- Emitir dictámenes sobre la revisión de las cuentas públicas estatal y municipales practicadas por la Contaduría Mayor de Hacienda, cuando por alguna causa exista inconformidad por los términos en que fueron hechas las revisiones o existan quejas por la actuación del personal comisionado;
-
-III.- Vigilar que la asesoría contable, fiscal, administrativa y jurídica que se le solicite a la Contaduría Mayor de Hacienda sea proporcionada oportunamente; y
-
-IV.- Las demás que le confiera la Ley Orgánica del Poder Legislativo, de la Contaduría Mayor de Hacienda y otros ordenamientos legales aplicables.
+La Comisión de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, tendrá las facultades previstas en la Ley de la materia.
 
 ###### Artículo 68.
 
@@ -961,13 +961,15 @@ Los asuntos de competencia concurrente, deberán turnarse a las Comisiones respe
 
 Las Comisiones, por conducto de su Presidente, podrán requerir al archivo y oficinas públicas la información y copia de los documentos necesarios para el estudio y dictamen de los asuntos que les fueren turnados.
 
-### CAPITULO VIII
+### CAPITULO VIII. DE LOS ÓRGANOS DE FISCALIZACIÓN Y ADMINISTRACIÓN DEL CONGRESO
 
-DE LOS ORGANOS DE FISCALIZACION Y ADMINISTRACION DEL CONGRESO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE AGOSTO DE 2009)</small>
 
 SECCION A
 
-DE LA CONTADURIA MAYOR DE HACIENDA
+ÓRGANO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN GUBERNAMENTAL DEL ESTADO
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 82.
 
@@ -987,13 +989,17 @@ En los recesos del Congreso, las comisiones continuarán estudiando y despachand
 
 ###### Artículo 86.
 
-La Contaduría Mayor de Hacienda es el órgano de fiscalización del Poder Legislativo, dependerá directamente de la Comisión de Hacienda y Presupuesto y su vigilancia y supervisión estará a cargo de la Comisión de Vigilancia de dicho órgano. Sus atribuciones y facultades estarán consignadas en su Ley Orgánica y Reglamento Respectivo.
+El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, dependerá directamente de la Comisión de Hacienda y Presupuesto y su vigilancia y supervisión estará a cargo de la Comisión de Vigilancia de dicho órgano. Sus atribuciones y facultades estarán consignadas en su Ley Orgánica y Reglamento Respectivo.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 #### SECCION C. DE LOS ORGANOS DE APOYO DE LA OFICIALIA MAYOR
 
 ###### Artículo 87.
 
-Al frente de la Contaduría Mayor de Hacienda estará un Contador Mayor, quien será auxiliado por uno o más Subcontadores, el titular será designado por el Pleno del H. Congreso del Estado a propuesta de la Comisión de Gobierno; los Subcontadores serán nombrados por la Comisión de Gobierno y deberán reunir los requisitos señalados por Ley Orgánica de la Contaduría Mayor de Hacienda.
+Al frente del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, estará el Auditor Superior quien será designado por el voto de las dos terceras partes de los Diputados presentes en los términos que determine la Ley de la materia. Durará en el cargo un período de siete años y podrá ser reelecto por un período más. Durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los diputados presentes.
+
+El Auditor Superior de Fiscalización, deberá reunir los requisitos que establecen en las fracciones I, y II del artículo 69 y fracción XI Bis de la Constitución Local.
 
 SECCION B
 
@@ -2258,3 +2264,9 @@ P.O. 9 DE MAYO DE 2009.
 P.O. 15 DE AGOSTO DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 21 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
