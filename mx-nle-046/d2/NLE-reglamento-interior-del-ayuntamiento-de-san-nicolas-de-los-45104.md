@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-ayuntamiento-de-san-nicolas-de-los-4510
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-03"
-last_updated: "2008-09-29"
+last_updated: "2009-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de junio de 2005.
 
@@ -85,9 +85,11 @@ El Palacio Municipal deberá contar con una (sic) área suficientemente amplia y
 
 ### CAPÍTULO II. DE LA INSTALACIÓN
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 10.
 
-El Presidente Municipal en funciones previo acuerdo con la totalidad de su R. Ayuntamiento, con al menos 5 días de anticipación, convocará por escrito a cada uno de los integrantes del R. Ayuntamiento electo oficialmente a concurrir y participar en una Sesión Solemne, el día 30 de octubre del año que corresponde a la celebración de elecciones para la renovación de Ayuntamientos, en la que otros puntos rendirán su protesta de ley estos últimos.
+El Presidente Municipal en funciones previo acuerdo con la totalidad de su R. Ayuntamiento, con al menos cinco días de anticipación, convocará por escrito a cada uno de los integrantes del R. Ayuntamiento electo oficialmente, a concurrir y participar en una sesión solemne mediante la cual tomarán posesión, de conformidad con lo dispuesto por la Constitución Política del Estado libre y soberano de Nuevo León y la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
 
 ###### ARTÍCULO 11.
 
@@ -113,13 +115,15 @@ Continuando el Presidente Municipal saliente con la siguiente mención:
 
 Concluyendo de esta manera con la toma de protesta a los integrantes del R. Ayuntamiento entrante a quienes se les invitará a que ocupen de nuevo sus lugares y se continuará con el desarrollo de la sesión.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 14.
 
-Antes de decretar la clausura de la sesión solemne a la que se hace referencia en los artículos anteriores, se hará la declaratoria que a partir de las 00:00 horas del día 31 de octubre queda oficial y legítimamente instalado el R. Ayuntamiento electo del Municipio de San Nicolás de los Garza, Nuevo León.
+Una vez rendida la protesta de ley a que se refiere el artículo anterior, quedará legitimamente instalado el R. Ayuntamiento electo.
 
 ###### ARTÍCULO 15.
 
-El Ayuntamiento entrante celebrará dentro de las siguientes veinticuatro horas la primera sesión ordinaria en la que entre otros asuntos, se designará al Secretario del Ayuntamiento y al Secretario de Finanzas y Tesorería Municipal.
+(REFORMADO [N. DE E. DEROGADO], P.O. 21 DE AGOSTO DE 2009)
 
 ###### ARTÍCULO 16.
 
@@ -1226,6 +1230,12 @@ Dado en el Salón de Sesiones del R. Ayuntamiento de San Nicolás de los Garza, 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 29 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
