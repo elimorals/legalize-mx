@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-del-deporte-del-distrito-6283
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-11"
-last_updated: "2008-09-11"
+last_updated: "2009-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62836&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-08"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 11 de septiembre de 2008.
 
@@ -126,9 +126,11 @@ IV. Secretaría de Finanzas; y
 
 V. Oficialía Mayor.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 9.
 
-El cargo de miembro de la Junta de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes, no obstante, cada titular podrá nombrar a su suplente, con nivel mínimo de Dirección General.
+El cargo de miembro de la Junta de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes, no obstante, cada titular podrá nombrar a un suplente, con nivel mínimo de Director de Área.
 
 La Junta de Gobierno podrá invitar a participar en sus sesiones a las demás dependencias, delegaciones y entidades de la Administración Pública del Distrito Federal, así como a los representantes de las organizaciones e instituciones de los sectores social y privado que estime pertinentes, cuando considere que se vayan a tratar asuntos que requieren su presencia.
 
@@ -753,3 +755,11 @@ QUINTO.- Los recursos humanos, financieros y materiales a cargo de la Dirección
 SEXTO.- Los asuntos competencia de la Dirección General del Instituto del Deporte del Distrito Federal y la Coordinación General de Cultura Deportiva, Física y de Salud del Distrito Federal, a partir de la entrada en vigor del presente Decreto, serán tramitados y resueltos por el Instituto del Deporte del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal en la Ciudad de México, a los ocho días del mes de septiembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO M. DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 21 DE AGOSTO DE 2009.
+
+PRIMERO. - Publíquese el presente Decreto en la Gaceta Oficia del Distrito Federal.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
