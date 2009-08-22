@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2009-04-01"
+last_updated: "2009-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2009.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -167,7 +167,13 @@ Igualdad entre las partes.
 
 Se garantiza a las partes, en condiciones de igualdad, el pleno e irrestricto ejercicio de las facultades y derechos previstos en las Constituciones Federal y Local, los Tratados Internacionales ratificados por el Estado Mexicano, así como en este Código.
 
-Los jueces no podrán mantener, directa o indirectamente, comunicación con alguna de las partes o sus defensores, sobre los asuntos sometidos a su conocimiento, salvo con la presencia de todas ellas. La contravención a este precepto será sancionada en los términos que establezcan las leyes. Corresponde a los jueces preservar el principio de igualdad procesal y despejar los obstáculos que impidan su vigencia o la debiliten.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
+
+Salvo las excepciones que autoriza este Código, y las derivadas de la Ley Estatal de Protección a Testigos, los jueces no podrán mantener, directa o indirectamente, comunicación con alguna de las partes o sus defensores, sobre los asuntos sometidos a su conocimiento, salvo con la presencia de todas ellas. La contravención a este precepto será sancionada en los términos que establezcan las leyes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
+
+Corresponde a los jueces preservar el principio de igualdad procesal y despejar los obstáculos que impidan su vigencia o la debiliten.
 
 ###### Artículo 14.
 
@@ -825,6 +831,10 @@ IV. La pena o medida de seguridad que pueda imponerse por el hecho de cuya perse
 
 El agente del Ministerio Público deberá aplicar los criterios de oportunidad y otras facultades discrecionales sobre la base de razones objetivas y sin discriminación, valorando las pautas descritas en cada caso individual, según los criterios generales que al efecto se hayan dispuesto por la Procuraduría General de Justicia del Estado. En los casos en que se verifique un daño, éste deberá ser previamente reparado en forma razonable.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DEL 2009)</small>
+
+En los casos de la fracción II del presente artículo, el Ministerio Público podrá ofrecer al imputado medidas especiales de protección, de conformidad con la ley de la materia.
+
 ###### Artículo 84.
 
 Plazo.
@@ -1056,6 +1066,10 @@ Funciones del Ministerio Público.
 El Ministerio Público ejercerá la acción penal en la forma establecida por la ley y practicará u ordenará todos los actos de investigación necesarios para descubrir la verdad sobre los hechos materia de la denuncia o querella.
 
 Dirigirá la investigación bajo control jurisdiccional en los actos que así lo requieran, conforme a la ley. En el cumplimiento de sus funciones, el Ministerio Público vigilará que la policía cumpla con los requisitos de la legalidad de los actos de investigación que lleva a cabo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
+
+Se asegurará de resguardar la prueba y de establecer medidas especiales de protección para los intervinientes y testigos en riesgo y sus allegados, de acuerdo con la Ley Estatal de Protección a Testigos.
 
 ###### Artículo 107.
 
@@ -1877,6 +1891,8 @@ El Juez valorará éstos elementos de prueba conforme a las reglas generales est
 
 En todos los casos la autoridad judicial deberá, antes de pronunciarse, convocar a una audiencia para oír a las partes y, en su caso, para recibir directamente la prueba.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 175.
 
 Resolución.
@@ -1890,8 +1906,6 @@ II. La enunciación del hecho o hechos que se le atribuyen y su preliminar calif
 III. La indicación de la medida y las razones por las cuales el Juez estima que los presupuestos que la motivan concurren en el caso; y
 
 VI. La fecha en que vence el plazo máximo de vigencia de la medida y demás modalidades para su cumplimiento.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 176.
 
@@ -2409,13 +2423,25 @@ Secreto de las actuaciones de investigación.
 
 Las actuaciones de investigación realizadas por el Ministerio Público y por la policía serán secretas para los terceros ajenos al procedimiento. El imputado y los demás intervinientes en el procedimiento podrán examinar los registros y los documentos de la investigación y obtener copia de los mismos, salvo los casos exceptuados por la ley.
 
-El Ministerio Público podrá disponer que determinadas actuaciones, registros o documentos, sean mantenidos en secreto respecto del imputado o de los demás intervinientes, cuando lo considere necesario para la eficacia de la investigación. En tal caso, deberá identificar las piezas o actuaciones respectivas, de modo que no se vulnere la reserva, y fijar un plazo no superior a diez días para la preservación del secreto. Cuando el Ministerio Público necesite superar este período, debe fundamentar su solicitud ante el Juez competente. La información recabada no podrá ser presentada como prueba en juicio sin que el imputado haya podido ejercer adecuadamente su derecho a la defensa.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
-El imputado o cualquier otro interviniente, podrá solicitar del Juez competente que ponga término al secreto o que lo límite en cuanto a su duración, a las piezas o actuaciones abarcadas por él, o a las personas a quienes afecte.
+El Ministerio Público podrá solicitar excepcionalmente al juez que cierta información se mantenga bajo reserva, cuando sea indispensable para evitar la destrucción, alteración u ocultamiento de pruebas, la intimidación o amenaza o influencia a los testigos del hecho, a fin de asegurar el éxito de la investigación, o para la protección de personas o bienes jurídicos.
 
-Sin perjuicio de lo dispuesto en los párrafos anteriores, no se podrá impedir el acceso del imputado o su defensor a la declaración del propio imputado o a cualquier otra actuación en que hubiere intervenido o tenido derecho a intervenir, a las actuaciones en las que participe la autoridad judicial, y a los informes producidos por peritos.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
-No procederá la reserva de información del resultado de las actuaciones, registros o documentos respecto del imputado, una vez que se haya presentado la acusación en su contra, salvo los casos de excepción previstos en este Código.
+Si el juez considera procedente la solicitud, así lo resolverá y determinará el plazo de la reserva, siempre que sean oportunamente revelados para no afectar el derecho de defensa. El órgano judicial competente, deberá revisar cada mes la reserva para determinar si subsisten los motivos que la justifiquen. La reserva podrá ser prorrogada cuando sea estrictamente indispensable, pero no más allá de la formulación de la acusación, hecha excepción de los casos de intervinientes y testigos en riesgo y sus allegados, en los cuales la reserva continuará hasta que éstos rindan testimonio en la Audiencia de Debate de Juicio Oral. En estos casos, el juez proporcionará al imputado el tiempo necesario para preparar el contra examen del testigo.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
+
+En los supuestos anteriores, el Tribunal decretará las medidas de protección necesarias para salvaguardar la integridad del interviniente o testigo en riesgo y de sus allegados, de acuerdo con la Ley Estatal de Protección a Testigos.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
+
+Para estos efectos, se entenderá por testigos o intervinientes en riesgo en una investigación criminal o en un proceso penal, todas las personas que puedan verse intimidadas, amenazadas o presionadas por razón de su participación actual o futura, por ser testigos, víctimas, o servidores públicos del sistema de justicia, o allegados a ellos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
+
+Por allegados de los intervinientes se entiende, para los efectos de este Código, a las personas ligadas con vínculos de parentesco o afectivos con el testigo, que se vean en situación de riesgo o peligro por las actividades de éste en el proceso.
 
 ###### Artículo 231.
 
@@ -2757,7 +2783,9 @@ Anticipo de prueba.
 
 Al concluir la declaración del testigo ante el Ministerio Público, éste le hará saber la obligación que tiene de comparecer y declarar durante la Audiencia de debate de juicio oral, así como de comunicar cualquier cambio de domicilio o de morada hasta esa oportunidad.
 
-Si al hacérsele la prevención prevista en el párrafo anterior, el testigo manifestare la imposibilidad de concurrir a la Audiencia de Debate del Juicio Oral, por tener que ausentarse a larga distancia, vivir en el extranjero o exista motivo que hiciere temer su muerte, su incapacidad física o mental que le impidiese declarar, o algún otro obstáculo semejante, las partes podrán solicitar al Juez o, en su caso, al Tribunal de Juicio Oral, que se reciba su declaración anticipadamente. La solicitud de desahogo de prueba anticipada podrá plantearse desde que se presente la denuncia y hasta antes de la celebración de la citada audiencia.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
+
+Si al hacérsele la prevención prevista en el párrafo anterior, el testigo manifestare la imposibilidad de concurrir a la Audiencia de Debate del Juicio Oral, por tener que ausentarse a larga distancia, vivir en el extranjero o exista motivo que hiciere temer su muerte, su incapacidad física o mental que le impidiese declarar, se trate de un interviniente o testigo en riesgo al cual sea imposible dar protección de otra forma, o algún otro obstáculo semejante, las partes podrán solicitar al Juez o, en su caso, al Tribunal de Juicio Oral, que se reciba su declaración anticipadamente. La solicitud de desahogo de prueba anticipada podrá plantearse desde que se presenta la denuncia y hasta antes de la celebración de la citada audiencia.
 
 ###### Artículo 268.
 
@@ -3485,13 +3513,17 @@ La valoración de la prueba en la sentencia requerirá el señalamiento del o de
 
 ###### Artículo 334.
 
-Deber de testificar,
+Deber de testificar.
 
 Salvo disposición en contrario, toda persona tendrá la obligación de concurrir al llamamiento judicial y de declarar la verdad de cuanto conozca y le sea preguntado; asimismo, no deberá ocultar hechos, circunstancias ni elementos.
 
 El testigo no estará en la obligación de declarar sobre hechos que le puedan deparar responsabilidad penal.
 
 Si después de comparecer se niega a declarar sin causa legítima, previo los apercibimientos respectivos, se le podrá imponer un arresto hasta por doce horas, y si al término del mismo persiste en su actitud, se promoverá acción penal en su contra por el delito de desobediencia a un mandato legítimo de autoridad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
+
+Con el objeto de que cumpla con sus deberes procesales, se podrán disponer medidas especiales de protección cuando el interviniente, testigo o sus allegados sean considerados en riesgo, en los términos de la Ley Estatal de Protección a Testigos, de acuerdo con lo previsto en el último párrafo del artículo 266 de este Código.
 
 ###### Artículo 335.
 
@@ -3565,9 +3597,11 @@ Con todo, si las personas enumeradas en las fracciones anteriores renunciaren a 
 
 Testimonios especiales.
 
-Cuando deba recibirse testimonio de menores de edad, víctimas de los delitos de violación o secuestro, sin perjuicio de la fase en que se encuentre el proceso, el juzgador podrá ordenar su recepción en sesión privada y con el auxilio de familiares o peritos especializados. Para estas diligencias deberán utilizarse las técnicas audiovisuales adecuadas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DEL 2009)</small>
 
-La misma regla podrá aplicarse cuando algún menor de edad deba declarar por cualquier motivo.
+Cuando deba recibirse testimonio de menores de edad, víctimas del delito, o de otros intervinientes que se encuentren en riesgo, sin perjuicio de la fase en que se encuentre el proceso, el juzgador podrá ordenar su recepción de acuerdo a los mecanismos del resguardo señalados por el artículo 24 de la Ley Estatal de Protección a Testigos.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 Las personas que no puedan concurrir al Tribunal, por estar físicamente impedidas, serán examinadas en el lugar donde se encuentren y su testimonio será trasmitido por sistemas de reproducción a distancia. De no ser posible, el testimonio se grabará por cualquier medio y se reproducirá en el momento oportuno en el Tribunal.
 
@@ -4572,3 +4606,9 @@ P.O. 1 DE ABRIL DE 2009.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones de la presente Ley, serán aplicables a los mecanismos de protección otorgados a los intervinientes y testigos y sus allegados, en los términos de lo dispuesto por el artículo 342 del Código de Procedimientos Penales del Estado.
