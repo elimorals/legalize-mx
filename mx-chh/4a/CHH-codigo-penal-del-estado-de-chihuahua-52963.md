@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2009-04-01"
+last_updated: "2009-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2009.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3067,6 +3067,14 @@ A quien con el propósito de inculpar o exculpar a alguien indebidamente en un p
 
 La pena de prisión se aumentará en una mitad para el testigo falso que fuere examinado en un procedimiento penal, cuando su testimonio se rinda para producir convicción sobre la responsabilidad del imputado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
+
+Las mismas penas se le impondrán a quien, por cualquier medio, amenace, intimide o presione indebidamente a un interviniente o testigo en riesgo y sus allegados, para inculpar o exculpar a alguien en una investigación criminal o en un proceso penal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
+
+Las penas previstas en este artículo se aumentarán en una mitad cuando se trate de servidores públicos en el ejercicio de sus funciones.
+
 ###### Artículo 309.
 
 A quien examinado como perito por la autoridad judicial o administrativa dolosamente falte a la verdad en su dictamen, se le impondrán de tres a ocho años de prisión y de cien a trescientos días multa.
@@ -3078,6 +3086,14 @@ Si el agente se retracta espontáneamente de sus declaraciones falsas o de su di
 ###### Artículo 311.
 
 A quien aporte testigos falsos conociendo esta circunstancia, o logre que un testigo, perito, intérprete o traductor falte a la verdad o la oculte al ser examinado por la autoridad pública en el ejercicio de sus funciones, se le impondrán de seis meses a cinco años de prisión y de cincuenta a doscientos días multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
+
+Las mismas penas se le impondrán a quien, por cualquier medio, amenace, intimide o presione a un interviniente o testigo y sus allegados, para que no declare, declare falsamente u oculte la verdad, en una investigación criminal o en un proceso penal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
+
+Las penas previstas en este artículo se aumentarán en una mitad cuando se trate de servidores públicos en el ejercicio de sus funciones.
 
 ###### Artículo 312.
 
@@ -3514,3 +3530,9 @@ P.O. 1 DE ABRIL DE 2009.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones de la presente Ley, serán aplicables a los mecanismos de protección otorgados a los intervinientes y testigos y sus allegados, en los términos de lo dispuesto por el artículo 342 del Código de Procedimientos Penales del Estado.
