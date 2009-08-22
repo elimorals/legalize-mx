@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-trabajo-del-tribunal-de-conciliacion-354
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-10"
-last_updated: "2003-12-10"
+last_updated: "2009-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE TRABAJO DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE ZACATECAS
 
-REGLAMENTO INTERIOR DE TRABAJO DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE ZACATECAS
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE TRABAJO DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE ZACATECAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 10 de diciembre de 2003.
 
@@ -250,6 +252,12 @@ XXX. Las demás que le asigne la ley, este Reglamento y el Pleno y el presidente
 ###### ARTÍCULO 27.
 
 Los Secretarios Auxiliares de Acuerdos tendrán las mismas facultades y obligaciones que el Secretario General de Acuerdos y lo suplirán en sus faltas temporales o definitivas, hasta en tanto se nombre nuevo titular de la Secretaría General de Acuerdos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 27 BIS.- Cuando se llame a los Magistrados Suplentes a integrar el Pleno -por licencia, renuncia o excusa de los Titulares de los sectores- y también se encuentren impedidos legalmente para conocer de los asuntos planteados, el Secretario Auxiliar de Acuerdo de mayor antigüedad habrá de sustituirlos en los casos específicos que llegaren a presentar.
 
 ### CAPÍTULO NOVENO. DE LAS MESAS DE TRÁMITE O INSTRUCCIÓN
 
@@ -554,3 +562,9 @@ EL SECRETARIO GENERAL DE ACUERDOS
 LIC. FRANCISCO HERNÁNDEZ LÓPEZ
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2009.
+
+Artículo único.- La presente adición al Reglamento Interior del Tribunal de Conciliación y Arbitraje del Estado de Zacatecas, entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial, Órgano del Estado.
