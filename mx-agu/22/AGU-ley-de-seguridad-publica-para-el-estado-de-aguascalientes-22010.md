@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-publica-para-el-estado-de-aguascalientes-22010
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-16"
-last_updated: "2008-09-01"
+last_updated: "2009-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2001.
 
@@ -909,6 +909,10 @@ VII.- Las demás que determinen las leyes que sean necesarias para incrementar l
 
 Las autoridades estatales y municipales encargadas de la Seguridad Pública dentro del ámbito de sus respectivas competencias, coordinarán operativa y administrativamente las materias y actividades señaladas en el artículo anterior mediante convenios generales o específicos de coordinación.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2009)</small>
+
+En materia de video vigilancia, se deberá cumplir con lo establecido en la Ley y el Reglamento que rigen dicha actividad.
+
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 47.
@@ -1225,6 +1229,10 @@ XII.- Las demás que determine el Secretario de Seguridad Pública del Estado de
 
 Estas funciones bajo ninguna circunstancia suplen ni limitan las atribuciones de las distintas Instituciones de los tres niveles de gobierno.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2009)</small>
+
+La obtención, el tratamiento, así como los mecanismos de acceso a las imágenes con o sin sonido captadas o grabadas con fines de seguridad pública se desarrollarán en estricto apego a la Ley de Video Vigilancia del Estado.
+
 ### CAPITULO III. De los Registros en Seguridad Pública
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
@@ -1258,6 +1266,10 @@ La Secretaría, la Procuraduría, la Dirección General, los Municipios y las em
 12. Registros administrativos de licencias de manejo, permisos para circular, faltas administrativas, padrón del transporte público; y
 
 13. Aquellos que se consideren de interés para la Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2009)</small>
+
+Para la integración de dichas bases de datos, cuando se trate de imágenes con o sin sonido captadas o grabadas en lugares públicos o privados abiertos a la ciudadanía por cuerpos de seguridad pública estatal o municipales, o por prestadores de servicio de seguridad privada, se deberán cumplir los mecanismos de obtención, tratamiento, acceso y validación que establece la Ley de Video Vigilancia del Estado.
 
 ###### ARTICULO 72.
 
@@ -2102,6 +2114,12 @@ Las autorizaciones para la portación de armas de fuego expedidas por autoridad 
 Los nombramientos de funcionarios y elementos que hayan sido realizados con anterioridad al presente Decreto serán validos y legales, hasta en tanto el encargado de realizarlos, no estime oportuno formalizar uno diferente en apego a los requisitos que el presente Decreto impone.
 
 P.O. 1 DE SEPTIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE AGOSTO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
