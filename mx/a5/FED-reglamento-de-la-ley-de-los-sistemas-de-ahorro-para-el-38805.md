@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-los-sistemas-de-ahorro-para-el-38805"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-30"
-last_updated: "2005-05-02"
+last_updated: "2009-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38805&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-04-29"
 
 REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MAYO DE 2005
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO, PUBLICADO EN EL D.O.F. DE 24 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 30 de abril de 2004.
 
@@ -1922,3 +1924,17 @@ La Comisión Nacional del Sistema de Ahorro para el Retiro deberá publicar en e
 ###### ARTÍCULO QUINTO.
 
 Las acciones que lleve a cabo la Comisión Nacional del Sistema de Ahorro para el Retiro para el cumplimiento de las disposiciones del presente Decreto, se sujetarán al presupuesto aprobado para dicha Comisión, sin que implique la asignación de recursos adicionales.
+
+D.O.F. 24 DE AGOSTO DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el 30 de abril de 2004 y reformado mediante publicación en dicho periódico oficial de fecha 2 de mayo de 2005.
+
+TERCERO. El plazo de dos años a que se refiere el artículo quinto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el 21 de enero de 2009, empezará a computarse una vez concluido el plazo de 90 días naturales a que se refiere la fracción I del artículo quinto transitorio antes mencionado.
+
+CUARTO. A efecto de dar cumplimiento a lo previsto por el artículo quinto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el 21 de enero de 2009 y a lo previsto por el artículo anterior, el IMSS deberá proporcionar a las Administradoras toda la información que sea útil para la localización de los Trabajadores cuyas Cuentas Individuales hayan sido asignadas.
+
+QUINTO. Las Cuentas Individuales que hayan sido asignadas con anterioridad a la entrada en vigor del presente Reglamento, y que se encuentren inactivas permanecerán en la Administradora a la que hayan sido asignadas. La Administradora que maneje estas Cuentas Individuales fungirá como prestadora de servicio.
+
+Las Cuentas Individuales que se encuentren activas y que hayan sido asignadas antes de la entrada en vigor del presente Reglamento, serán reasignadas de conformidad con lo establecido en el artículo 76 de la Ley y el presente Reglamento.
