@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-6794
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-15"
-last_updated: "2009-04-15"
+last_updated: "2009-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-14"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 15 de abril de 2009.
 
@@ -283,7 +283,9 @@ VIII. Establecer los lineamientos y políticas que orienten la colaboración que
 
 IX. Refrendar para su validez y observancia constitucionales los reglamentos, decretos, acuerdos y órdenes expedidos por el Presidente de la República, cuando se refieran a asuntos de la competencia de la Secretaría;
 
-X. Representar al Presidente de la República en los juicios constitucionales en los términos de los artículos 19 de la Ley de Amparo y 14 de la Ley Orgánica, así como en las controversias constitucionales a que se refiere el artículo 105 de la propia Constitución y su Ley Reglamentaria, en los casos en que así lo determine el Titular del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+X. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 86 del presente Reglamento;
 
 XI. Aprobar la organización y funcionamiento de la Contraloría Interna de la Secretaría, atribuyéndole otras facultades que no estén comprendidas en este Reglamento y que sean necesarias para su cometido legal, informando al Presidente de la República sobre las medidas que se hubieran adoptado al respecto;
 
@@ -471,7 +473,17 @@ I. Fijar, sistematizar, unificar y difundir los criterios de interpretación y d
 
 II. Formular, revisar y someter a la consideración del Secretario los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas relativas a los asuntos competencia de la Secretaría;
 
-III. Representar legalmente al Secretario y a las unidades administrativas de la Secretaría en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención;
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+II bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría representar al titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+II ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario represente al Presidente de la República;
+
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+III. Representar legalmente al Secretario y a las unidades administrativas señaladas en el artículo 3, apartado A, del presente Reglamento en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención;
 
 IV. Asesorar jurídicamente a las unidades administrativas de la Secretaría, actuar como órgano de consulta y realizar los estudios e investigaciones jurídicos que requiera el desarrollo de las atribuciones de la Secretaría;
 
@@ -490,6 +502,10 @@ X. Instruir los recursos de revisión que se interpongan en contra de actos o re
 XI. Proponer la declaratoria que corresponda hacer a la Secretaría en los términos del ordenamiento legal en materia de responsabilidades y presentar, previo acuerdo del servidor público que determine el Secretario, las denuncias o querellas ante el Ministerio Público, el Congreso de la Unión o las dependencias respectivas sobre los hechos delictuosos en que la Nación resulte ofendida para iniciar los procedimientos penales, políticos y administrativos a que haya lugar;
 
 XII. Instrumentar los informes en los juicios de amparo e interponer toda clase de recursos o medios impugnativos, así como actuar en los juicios en que la Secretaría sea parte e intervenir en el cumplimiento de las resoluciones respectivas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+XII bis. Representar al Secretario y a los Subsecretarios en todos los trámites dentro de los juicios de amparo en los que actúen como autoridades responsables;
 
 XIII. Coordinarse con la Procuraduría y con la Procuraduría General de Justicia del Distrito Federal para la investigación de los delitos del orden federal o común que se detecten con motivo de las acciones operativas de la Secretaría, coadyuvando en representación de la misma en los procedimientos penales, políticos y administrativos correspondientes;
 
@@ -2475,6 +2491,12 @@ Las ausencias de los supervisores regionales serán suplidas por los supervisore
 
 Durante las ausencias del Coordinador General de Órganos de Vigilancia y Control, de los Titulares de Unidad, Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento, éstos serán suplidos por los servidores públicos de la jerarquía inmediata inferior que designen los correspondientes Coordinador General de Órganos de Vigilancia y Control, Titulares de Unidad, Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento.
 
+(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2009) (F. DE E., D.O.F. 3 DE SEPTIEMBRE DE 2009)
+
+###### ARTÍCULO 90.
+
+Las ausencias del Titular de la Unidad de Asuntos Jurídicos serán suplidas, por el Director General Adjunto Jurídico Contencioso, por el Director General Adjunto de Legislación y Consulta, por el Director General Adjunto de Asuntos Penales, por el Director General Adjunto de Servicios e Innovación Jurídicos, por el Coordinador Jurídico Contencioso o por el Director de Amparos, en el orden mencionado, todos ellos adscritos a la Unidad de Asuntos Jurídicos.
+
 ...
 
 ## TRANSITORIOS
@@ -2500,3 +2522,9 @@ OCTAVO.- La Oficialía Mayor de la Secretaría de la Función Pública realizar�
 NOVENO.- Los sistemas electrónicos con que cuenta la Secretaría seguirán siendo operados por la unidad administrativa competente hasta antes de la entrada en vigor de este Decreto, y hasta en tanto no se realicen las adecuaciones tecnológicas y se brinde la capacitación necesaria para su transferencia a las unidades administrativas que en virtud del presente ordenamiento estarían facultadas para operar los mismos.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de la Función Pública, Salvador Vega Casillas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 24 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
