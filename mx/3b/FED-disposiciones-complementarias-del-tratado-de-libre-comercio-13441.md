@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2009-03-18"
+last_updated: "2009-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,329 +18,69 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO POR EL QUE SE MODIFICA EL ARTICULO 1 DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 31 DE DICIEMBRE DE 2002, POR LO QUE RESPECTA A LOS ARANCELES APLICABLES A LAS MERCANCIAS ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
+AVISO POR EL QUE SE INFORMA LA ELIMINACION DE LAS CUOTAS COMPENSATORIAS DEFINITIVAS IMPUESTAS A LAS IMPORTACIONES DE PEROXIDO DE HIDROGENO ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA, INDEPENDIENTEMENTE DEL PAIS DE PROCEDENCIA. ESTA MERCANCIA SE CLASIFICA EN LA FRACCION ARANCELARIA 2847.00.01 DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 18 de marzo de 2009.
+Aviso publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 24 de agosto de 2009.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131, de la propia Constitución; 2019 del Tratado de Libre Comercio de América del Norte; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
+AVISO POR EL QUE SE INFORMA LA ELIMINACION DE LAS CUOTAS COMPENSATORIAS DEFINITIVAS IMPUESTAS A LAS IMPORTACIONES DE PEROXIDO DE HIDROGENO ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA, INDEPENDIENTEMENTE DEL PAIS DE PROCEDENCIA. ESTA MERCANCIA SE CLASIFICA EN LA FRACCION ARANCELARIA 2847.00.01 DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION.
+
+La Secretaría de Economía (la "Secretaría"), emite el presente aviso con base en los siguientes:
+
+RESULTANDOS
+
+Resolución final
+
+1. El 18 de agosto de 2004 se publicó en el Diario Oficial de la Federación (DOF) la resolución final de la investigación antidumping sobre las importaciones de peróxido de hidrógeno originarias de los Estados Unidos, independientemente del país de procedencia. Esta mercancía se clasifica en la fracción arancelaria 2847.00.01 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (TIGIE).
+
+Monto de las cuotas compensatorias
+
+2. En la resolución definitiva citada en el punto anterior se determinaron las cuotas compensatorias siguientes:
+
+A. Para las importaciones originarias de las empresas Eka Chemicals, Inc. y FMC Corporation: 0 (cero) por ciento.
+
+B. Para las importaciones originarias de la empresa Degussa Corporation: 6.87 por ciento.
+
+C. Para las importaciones originarias de la empresa Solvay Chemicals, Inc.: 7.99 por ciento.
+
+D. Para las importaciones originarias de todas las demás empresas exportadoras de Estados Unidos: 22.69 por ciento.
+
+Revisión
+
+3. El 28 de noviembre de 2006 se publicó en el DOF la resolución por la que se declaró el inicio de la revisión de la cuota compensatoria definitiva impuesta a las importaciones provenientes de Evonik Degussa Corporation (“Degussa” antes Degussa Corporation) y Eka Chemicals Inc. (Eka). El 5 de julio de 2007 se publicó la resolución preliminar en la que se determinó la continuación de la revisión y la modificación de la cuota compensatoria definitiva de 6.87 a 56.74 por ciento para las importaciones de Degussa, así como la conclusión de la revisión para Eka, sin la imposición de cuota compensatoria.
+
+4. El 18 de diciembre de 2008 la Secretaría publicó en el DOF la resolución final de la revisión. Se impuso una cuota compensatoria definitiva de 51.69 por ciento a las importaciones de peróxido de hidrógeno originarias de Estados Unidos provenientes de Degussa.
+
+Procedimiento relacionado
+
+Solicitud de revisión por un Panel Binacional
+
+5. El 16 de enero de 2009 Degussa solicitó que un Panel Binacional establecido conforme al capítulo XIX del Tratado de Libre Comercio de América del Norte revisara la resolución final del 18 de diciembre de 2008. El 5 de marzo de 2009 Degussa desistió de su solicitud y, una vez que las participantes en dicho procedimiento, entre ellas la autoridad investigadora, emitieron su testimonio de concurrencia, la Sección Mexicana de los Tratados de Libre Comercio publicó en el DOF el 27 de mayo de 2009 el aviso de terminación correspondiente.
+
+Aviso sobre la vigencia de cuotas compensatorias
+
+6. El 2 de enero de 2009 se publicó en el DOF el Aviso sobre la vigencia de cuotas compensatorias, mediante el cual se dio a conocer que, entre otras, las cuotas compensatorias definitivas impuestas a las importaciones de peróxido de hidrógeno estarían vigentes hasta el 19 de agosto de 2009, salvo que cualquier productor nacional interesado manifestara por escrito su interés en que se iniciara un procedimiento de examen, al menos 25 días antes del término de vigencia de la misma. Dicho plazo venció el 15 de julio de 2009.
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según decreto publicado en el Diario Oficial de la Federación el 8 de diciembre del mismo año, cuyo decreto de promulgación fue publicado en ese órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
+Competencia
 
-Que los artículos 1108 y 1206, así como el Anexo I “Reservas en relación con medidas existentes y compromisos de liberalización” del TLCAN establecen la apertura de los servicios de transporte de carga en los estados fronterizos de México y de los Estados Unidos de América a partir del 18 de diciembre de 1995, y en todo el territorio de ambos países a partir del 1 de enero de 2000;
+7. La Secretaría de Economía es competente para emitir el presente aviso, conforme a lo dispuesto en los artículos 16 y 34 fracciones V y XXXI de la Ley Orgánica de la Administración Pública Federal; 1, 2, 4, 11, 12 y 16 fracciones I, V y último párrafo del Reglamento Interior de la Secretaría de Economía; 11.3 del Acuerdo relativo a la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 (Acuerdo Antidumping); 5 fracción VII, 67, 70 y 70 B de la Ley de Comercio Exterior (LCE); y 109 del Reglamento de la Ley de Comercio Exterior (RLCE).
 
-Que de conformidad con el Capítulo XX del TLCAN, que establece las disposiciones aplicables a los procedimientos para la solución de controversias, el 2 de febrero de 2000 se integró el panel arbitral solicitado por México con el objeto de determinar el incumplimiento de los Estados Unidos de América a las obligaciones del Anexo I a que se refiere el considerando anterior; así como a las de trato nacional y trato de la nación más favorecida previstas en los artículos 1102, 1103, 1202 y 1203 de dicho Tratado, en materia de servicios de transporte transfronterizo;
+8. Conforme a lo dispuesto en los artículos 70 y 70 B de la LCE y 109 del RLCE, las cuotas compensatorias definitivas se eliminarán en un plazo de cinco años contados a partir de su entrada en vigor, a menos que, antes de concluir dicho plazo, la Secretaría haya iniciado un procedimiento de revisión anual en el que se analice tanto la discriminación de precios o monto de las subvenciones como el daño; o bien un examen de vigencia de cuota compensatoria derivado de la manifestación de interés por parte de la rama de producción nacional de que se inicie el mismo.
 
-Que el 6 de febrero de 2001 el panel arbitral emitió su informe final en el que determinó el incumplimiento de los Estados Unidos de América a las obligaciones señaladas en el considerando anterior, y recomendó a dicho país llevar a cabo las acciones necesarias para cumplir con los compromisos establecidos en el TLCAN;
+9. Ninguna parte interesada solicitó la revisión anual a que se refiere el punto anterior y ningún productor nacional expresó por escrito a esta Secretaría su interés en que se inicie el examen de vigencia de la cuota compensatoria. En consecuencia, conforme a lo dispuesto en los artículos 11.3 del Acuerdo relativo a la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994, 70 y 70 B de la LCE y 109 del RLCE es procedente emitir el siguiente:
 
-Que a partir de la fecha señalada en el considerando que antecede los gobiernos de México y los Estados Unidos de América realizaron diversas gestiones con objeto de lograr la apertura de los servicos (sic) de transporte transfronterizo prevista en el TLCAN, sin obtener los resultados deseados;
+AVISO
 
-Que como parte de las gestiones mencionadas, el 27 de abril de 2007, los gobiernos de México y de los Estados Unidos de América acordaron la implementación de un Programa Demostrativo de acceso al autotransporte de carga (Programa Demostrativo) con vigencia de un año, prorrogado por acuerdo de ambos países hasta 2010, el cual permitiría a un número limitado de empresas de los dos países prestar los servicios de transporte transfronterizo;
+10. A partir del 20 de agosto de 2009 se eliminan las cuotas compensatorias definitivas impuestas a las importaciones de peróxido de hidrógeno originarias de los Estados Unidos, independientemente del país de procedencia. Esta mercancía se clasifica en la fracción arancelaria 2847.00.01 de la TIGIE.
 
-Que con motivo de la aprobación de la Ley Omnibus de Asignaciones para el año fiscal de 2009, el Congreso de los Estados Unidos de América prohibió a su Departamento de Transporte utilizar fondos para establecer o mantener el Programa Demostrativo y, como consecuencia, dicho Departamento ha dejado de operarlo;
+11. Comuníquese este Aviso a la Administración General de Aduanas del Servicio de Administración Tributaria para los efectos legales correspondientes.
 
-Que la cancelación del Programa Demostrativo evidencia que los Estados Unidos de América y México no han logrado alcanzar una solución mutuamente satisfactoria a la controversia en materia de transporte transfronterizo en los términos de los artículos 2018 y 2019 del TLCAN, y que el citado país continúa sin dar cumplimiento tanto a sus obligaciones internacionales conforme al TLCAN como a las recomendaciones del panel arbitral antes referido;
+12. El presente Aviso entrará en vigor el día siguiente a su publicación en el DOF, pero en términos de la LCE, la eliminación de las cuotas compensatorias surtirá sus efectos a partir del 20 de agosto de 2009.
 
-Que el párrafo 1 del artículo 2019 del TLCAN establece la posibilidad de que en caso de que el panel arbitral resuelva en una controversia que una medida es incompatible con las obligaciones de dicho Tratado, si la Parte demandada no ha llegado a un acuerdo mutuamente satisfactorio con la Parte reclamante esta última podrá suspender la aplicación de beneficios de efecto equivalente a la Parte demandada hasta el momento en que alcancen un acuerdo sobre la resolución de la controversia;
-
-Que en virtud de lo anterior, resulta procedente suspender beneficios de efecto equivalente a los Estados Unidos de América, por lo que se considera conveniente eliminar los aranceles preferenciales que prevé el Tratado de mérito a las importaciones de determinados bienes originarios del citado país;
-
-Que para los efectos del párrafo anterior, es necesario modificar el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002 y que fue modificado por los diversos dados a conocer en el mismo medio informativo el 17 de agosto de 2005, el 12, 13 y 29 de septiembre de 2006, y el 8 de mayo y 30 de junio de 2007, y
-
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Decreto cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
-
-DECRETO
-
-Artículo Único.- Se modifica el artículo 1 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, por lo que respecta a los aranceles aplicables a las mercancías originarias de los Estados Unidos de América clasificadas en las siguientes fracciones arancelarias:
-
-Fracción Descripción Arancel de
-
-Importación
-
-0604.91.02 Árboles de navidad. 20%
-
-0703.10.01 Cebollas. 10%
-
-0705.11.01 Repolladas. 10%
-
-0802.12.01 Sin cáscara. 20%
-
-0804.10.01 Frescos. 20%
-
-0804.10.99 Los demás. 20%
-
-0806.10.01 Frescas. 45%
-
-0808.20.01 Peras. 20%
-
-0809.10.01 Chabacanos (damascos,
-
-albaricoques). 20%
-
-0809.20.01 Cerezas. 20%
-
-0810.10.01 Fresas (frutillas). 20%
-
-0813.50.01 Mezclas de frutas u otros
-
-frutos, secos, o de frutos
-
-de cáscara de este Capítulo. 20%
-
-1902.19.99 Las demás. 10%
-
-2004.10.01 Papas (patatas). 20%
-
-2005.40.01 Chícharos (guisantes,
-
-arvejas) (Pisum sativum). 20%
-
-2008.11.01 Sin cáscara. 20%
-
-2008.11.99 Los demás. 20%
-
-2008.19.01 Almendras. 20%
-
-2008.19.99 Los demás. 20%
-
-2008.60.01 Cerezas. 20%
-
-2009.80.01 Jugo de cualquier otra
-
-fruta o fruto, u hortaliza. 20%
-
-2009.90.01 Que contengan únicamente
-
-jugo de hortaliza. 20%
-
-2009.90.99 Los demás. 20%
-
-2103.10.01 Salsa de soja (soya). 20%
-
-2103.90.99 Los demás. 20%
-
-2104.10.01 Preparaciones para sopas,
-
-potajes o caldos; sopas,
-
-potajes o caldos, preparados. 10%
-
-2106.90.06 Concentrados de jugos de
-
-una sola fruta, legumbre u
-
-hortaliza, enriquecidos con
-
-minerales o vitaminas. 15%
-
-2106.90.07 Mezclas de jugos
-
-concentrados de frutas,
-
-legumbres u hortalizas,
-
-enriquecidos con minerales
-
-o vitaminas. 15%
-
-2106.90.08 Con un contenido de sólidos
-
-lácteos superior al 10%,
-
-en peso. 15%
-
-2201.10.01 Agua mineral. 20%
-
-2204.10.99 Los demás. 20%
-
-2204.21.02 Vinos tinto, rosado,
-
-clarete o blanco, cuya
-
-graduación alcohólica sea
-
-hasta de 14% Alc. Vol.
-
-a la temperatura de 20ºC
-
-(equivalente a 14 grados
-
-centesimales Gay-Lussac a
-
-la temperatura de 15°C), en
-
-vasijería de barro, loza o vidrio. 20%
-
-2206.00.99 Las demás. 20%
-
-2306.30.01 De semillas de girasol. 15%
-
-2306.49.99 Los demás. 15%
-
-2309.10.01 Alimentos para perros
-
-o gatos, acondicionados
-
-para la venta al por menor. 10%
-
-3213.10.01 Colores en surtidos. 15%
-
-3304.30.01 Preparaciones para manicuras
-
-y pedicuros. 15%
-
-3304.99.99 Las demás. 15%
-
-3305.10.01 Champúes. 15%
-
-3305.30.01 Lacas para el cabello. 15%
-
-3305.90.99 Las demás. 15%
-
-3306.10.01 Dentífricos. 15%
-
-3306.20.01 De filamento de nailon. 15%
-
-3306.20.99 Los demás. 15%
-
-3306.90.99 Los demás. 15%
-
-3307.10.01 Preparaciones para afeitar
-
-o para antes o después
-
-del afeitado. 15%
-
-3307.20.01 Desodorantes corporales y
-
-antitraspirantes. 15%
-
-3924.10.01 Vajilla y demás artículos
-
-para el servicio de mesa o
-
-de cocina. 20%
-
-3924.90.99 Los demás. 20%
-
-3926.40.01 Estatuillas y demás artículos
-
-de adorno. 20%
-
-4816.20.01 Papel autocopia. 10%
-
-4818.10.01 Papel higiénico. 10%
-
-4820.20.01 Cuadernos. 10%
-
-4901.99.99 Los demás. 20%
-
-4911.10.99 Los demás. 20%
-
-4911.99.02 Boletos o billetes de
-
-rifas, loterías, espectáculos,
-
-ferrocarriles u otros servicios
-
-de transporte. 20%
-
-4911.99.03 Impresos con claros para escribir. 20%
-
-4911.99.05 Tarjetas plásticas para
-
-identificación y para crédito,
-
-sin cinta magnética. 20%
-
-4911.99.99 Los demás. 20%
-
-5511.10.01 De fibras sintéticas discontinuas
-
-con un contenido de estas
-
-fibras superior o igual al
-
-85% en peso. 15%
-
-5511.30.01 De fibras artificiales discontinuas. 15%
-
-5704.90.99 Los demás. 20%
-
-5705.00.99 Los demás. 20%
-
-7013.49.03 De vidrio calizo. 20%
-
-7113.19.99 Los demás. 20%
-
-8302.41.01 Herrajes para cortinas venecianas. 20%
-
-8302.41.02 Cortineros. 20%
-
-8302.41.04 Cerraduras sin llave,
-
-picaportes o pasadores. 20%
-
-8302.41.99 Los demás. 20%
-
-8304.00.99 Los demás. 20%
-
-8418.10.99 Los demás. 15%
-
-8418.21.01 De compresión. 20%
-
-8419.81.01 Cafeteras. 20%
-
-8421.39.99 Las demás. 10%
-
-8422.11.01 De tipo doméstico. 15%
-
-8450.12.01 De uso doméstico. 20%
-
-8450.12.99 Las demás. 20%
-
-8516.79.99 Los demás. 20%
-
-8517.11.01 Teléfonos de auricular
-
-inalámbrico combinado con
-
-micrófono. 20%
-
-8548.10.01 Desperdicios y desechos
-
-de pilas, baterías de pilas o
-
-acumuladores, eléctricos;
-
-pilas, baterías de pilas
-
-y acumuladores, eléctricos,
-
-inservibles. 20%
-
-9004.10.01 Gafas (anteojos) de sol. 15%
-
-9403.20.99 Los demás. 15%
-
-9504.30.99 Los demás. 15%
-
-9608.10.01 De metal común. 20%
-
-9608.10.99 Los demás. 20%
-
-9608.20.01 Rotuladores y marcadores con
-
-punta de fieltro u otra punta
-
-porosa. 20%
-
-9608.99.99 Los demás. 20%
-
-9609.10.01 Lápices. 20%
+México, D.F., a 7 de agosto de 2009.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
 
 ###### ARTICULO UNICO.
 
