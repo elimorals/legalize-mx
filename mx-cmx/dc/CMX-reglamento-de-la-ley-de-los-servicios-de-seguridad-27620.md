@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-los-servicios-de-seguridad-27620"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-14"
-last_updated: "2003-01-14"
+last_updated: "2009-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27620&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2002-12-11"
 
 REGLAMENTO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRESTADOS POR EMPRESAS PRIVADAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 24 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 14 de enero de 2003.
 
@@ -939,3 +941,19 @@ QUINTO.- Los Prestadores del Servicio que cuenten con autorización vigente en l
 SEXTO.- Los particulares que presten servicios de seguridad o custodia de personas en el Distrito Federal, deben obtener la autorización y la cédula a que se refieren los artículos 5° apartado A y 26 de este Reglamento, dentro de los 60 días hábiles siguientes a su entrada en vigor.
 
 Dado en la residencia oficial del Jefe de Gobierno del Distrito Federal, a los once días del mes de diciembre del año dos mil dos. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTÍZ PINCHETTI.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBÓN.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 24 DE AGOSTO DE 2009.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de los Servicios de Seguridad Prestados por Empresas Privadas, publicado en la Gaceta Oficial del Distrito Federal el 14 de enero de 2003.
+
+TERCERO. Las personas físicas o morales que a la fecha de entrada en vigor del Reglamento, presten servicios o realicen actividades de seguridad privada en el Distrito Federal y tengan vigentes sus respectivos permisos, autorizaciones, constancias del aviso de registro o licencias, continuarán en ejercicio de los mismos hasta el vencimiento del plazo respectivo, sin perjuicio de las obligaciones compatibles que les impone este Reglamento. Al concluir la vigencia de su autorización, permiso o revalidación sólo podrán prestar servicios o realizar actividades con el permiso, autorización, constancia del aviso de registro y la licencia que se otorgue de conformidad con la Ley y este Reglamento.
+
+CUARTO. Los procedimientos administrativos, supervisiones o verificaciones iniciados bajo la vigencia de los ordenamientos abrogados, continúan hasta su conclusión bajo las reglas que ellos les imponen.
+
+QUINTO. La Secretaría, por conducto de la Dirección General, expedirá el Manual de Normas Técnicas y Trámites Administrativos en un término de noventa días contados a partir de la entrada en vigor de este Reglamento.
+
+SEXTO. Los Lineamientos, trámites y servicios al público, que establece el presente Reglamento, contarán con su formato correspondiente, mismo que será publicado en la Gaceta Oficial del Distrito Federal e incorporados al Manual de Trámites y Servicios al Público del Distrito Federal.
