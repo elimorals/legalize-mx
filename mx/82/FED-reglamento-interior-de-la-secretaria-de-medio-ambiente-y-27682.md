@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-medio-ambiente-y-27682"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-21"
-last_updated: "2006-11-30"
+last_updated: "2009-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27682&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-01-17"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 21 de enero de 2003.
 
@@ -155,7 +155,9 @@ V. Dar cuenta al Congreso de la Unión, una vez abierto el período de sesiones 
 
 VI. Refrendar, para su validez y observancia constitucionales, los reglamentos, decretos, acuerdos y órdenes expedidos por el Presidente de la República, sobre los asuntos de la competencia de la Secretaría;
 
-VII. Representar al Presidente de la República en los juicios constitucionales de amparo, en los términos de los artículos 14 de la Ley Orgánica de la Administración Pública Federal y 19 de la Ley de Amparo Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la propia Constitución y su ley reglamentaria, en los casos en que lo determine el titular del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+VII. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos que determine el Titular del Ejecutivo Federal, pudiendo ser suplido en términos del artículo 152 del presente Reglamento, así como nombrar y remover delegados o representantes en dichos procedimientos;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -639,7 +641,7 @@ XX. Las demás que le confiera el titular de la Secretaría y las que le señale
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 14.
+###### ARTÍCULO 14.
 
 La Unidad Coordinadora de Asuntos Jurídicos tendrá las atribuciones siguientes:
 
@@ -659,13 +661,13 @@ VI. Realizar investigaciones jurídicas y de derecho comparado en materia ambien
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-VII.- Dictaminar jurídicamente, previo a su presentación ante el Comité Consultivo Nacional de Normalización correspondiente, los proyectos de normas oficiales mexicanas y las normas oficiales mexicanas definitivas que en el ámbito de su competencia expida la Secretaría, así como gestionar la publicación correspondiente en el Diario Oficial de la Federación;
+VII. Dictaminar jurídicamente, previo a su presentación ante el Comité Consultivo Nacional de Normalización correspondiente, los proyectos de normas oficiales mexicanas y las normas oficiales mexicanas definitivas que en el ámbito de su competencia expida la Secretaría, así como gestionar la publicación correspondiente en el Diario Oficial de la Federación;
 
 VIII. Coadyuvar, en el ámbito de su competencia, con la Unidad Coordinadora de Participación Social y Transparencia, en materia de transparencia y acceso a la información;
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-IX.- Resolver los recursos administrativos de su competencia y del Secretario, en su caso, y representar legalmente a éste, a la Secretaría y a sus unidades administrativas en los procedimientos administrativos, de responsabilidades y jurisdiccionales en que se requiera su intervención, con excepción de aquellos que estén expresamente encomendados a las unidades jurídicas de los órganos desconcentrados y a las delegaciones federales de la Secretaría por este Reglamento o por disposición del Secretario;
+IX. Resolver los recursos administrativos de su competencia y del Secretario, en su caso, y representar legalmente a éste, a la Secretaría y a sus unidades administrativas en los procedimientos administrativos, de responsabilidades y jurisdiccionales en que se requiera su intervención, con excepción de aquellos que estén expresamente encomendados a las unidades jurídicas de los órganos desconcentrados y a las delegaciones federales de la Secretaría por este Reglamento o por disposición del Secretario;
 
 X. Solicitar la intervención del Procurador General de la República en los asuntos contenciosos que le competan en los términos del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, proporcionándole opinión jurídica y elementos de juicio en cada caso;
 
@@ -677,7 +679,7 @@ XIII. Expedir, cuando proceda, certificaciones de documentos que obren en los ar
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XIV.- Designar, dentro de los notarios autorizados por la dependencia competente para ello, a los que deben intervenir en las operaciones inmobiliarias o de otra índole competencia de la Secretaría;
+XIV. Designar, dentro de los notarios autorizados por la dependencia competente para ello, a los que deben intervenir en las operaciones inmobiliarias o de otra índole competencia de la Secretaría;
 
 XV. Dictaminar la procedencia jurídica de los convenios, contratos y demás actos jurídicos de las unidades administrativas de la Secretaría que deriven en obligaciones para la dependencia, así como llevar el control y registro de los mismos y de los que celebren los órganos desconcentrados;
 
@@ -687,21 +689,29 @@ XVII. Iniciar, a petición de las unidades administrativas de la Secretaría, el
 
 XVIII. Establecer criterios en la resolución de los recursos administrativos de su competencia, y de aquellos que correspondan a otras unidades administrativas de la Secretaría y, cuando proceda, de sus órganos desconcentrados;
 
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+XIX. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos en los que dicha representación corresponda a la Secretaría de Medio Ambiente y Recursos Naturales, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+XIX Bis. Representar al Secretario, Subsecretarios, Directores Generales y demás servidores públicos de la Dependencia en todos los trámites dentro de los juicios de amparo, en los términos del primer párrafo del artículo 19 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, pudiendo acreditar delegados conforme a dicho precepto;
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+XIX Ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que la Secretaría de Medio Ambiente y Recursos Naturales represente al Presidente de la República;
+
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XIX.- Elaborar, proponer y en su caso rendir los informes previos y justificados que, en materia de amparo, deban rendir el Presidente de la República, en los casos en los que se hubiere conferido la representación presidencial, y el Secretario, así como los relativos a los demás servidores públicos que sean señalados como responsables; los escritos de demanda o contestación según proceda, en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la Secretaría tenga el carácter tercero en los juicios de amparo, y formular, en general, los incidentes, recursos y demás promociones que a dichos juicios se refieran;
+XX. Representar al Secretario ante el Tribunal Federal de Conciliación y Arbitraje y, en su caso, ante otras autoridades laborales, en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional; emitir dictámenes, promover demandas de cese de los empleados de base de la Secretaría, contestar demandas laborales, formular y absolver posiciones, desistirse o allanarse y, en general, presentar las promociones que se requieran en el curso del procedimiento;
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XX.- Representar al Secretario ante el Tribunal Federal de Conciliación y Arbitraje y, en su caso, ante otras autoridades laborales, en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional; emitir dictámenes, promover demandas de cese de los empleados de base de la Secretaría, contestar demandas laborales, formular y absolver posiciones, desistirse o allanarse y, en general, presentar las promociones que se requieran en el curso del procedimiento;
+XXI. Formular, a nombre de la Secretaría, las denuncias y querellas que a su juicio correspondan, y otorgar discrecionalmente el perdón, así como aprobar el otorgamiento de éste, solicitado por los delegados federales de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXI.- Formular, a nombre de la Secretaría, las denuncias y querellas que a su juicio correspondan, y otorgar discrecionalmente el perdón, así como aprobar el otorgamiento de éste, solicitado por los delegados federales de la Secretaría;
-
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
-
-XXII.- Solicitar a la dependencia competente la reivindicación de la propiedad federal administrada por la Secretaría, así como la destinada a ésta;
+XXII. Solicitar a la dependencia competente la reivindicación de la propiedad federal administrada por la Secretaría, así como la destinada a ésta;
 
 XXIII. Participar con las unidades administrativas competentes de la Secretaría en la aplicación de las disposiciones jurídicas en materia laboral, y de responsabilidades de los servidores públicos;
 
@@ -711,7 +721,7 @@ XXV. Gestionar ante el Diario Oficial de la Federación, las publicaciones de lo
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXVI.- Tramitar la regulación jurídica de los bienes inmuebles que bajo cualquier título ocupe la Secretaría en territorio nacional, así como asesorar jurídicamente a las unidades administrativas de la Secretaría para la adquisición y protección jurídica de los mismos;
+XXVI. Tramitar la regulación jurídica de los bienes inmuebles que bajo cualquier título ocupe la Secretaría en territorio nacional, así como asesorar jurídicamente a las unidades administrativas de la Secretaría para la adquisición y protección jurídica de los mismos;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -723,9 +733,9 @@ XXVIII. Convocar, conducir y coordinar la integración y funcionamiento del Comi
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXIX.- Designar, autorizar y delegar tanto a los servidores públicos adscritos a la Coordinación como a los servidores públicos que detenten puestos en los que se desempeñen funciones internas de asesoría, dictaminación y defensa jurídica, adscritos a las unidades administrativas de la Secretaría, facultades para ejercer las atribuciones previstas en este artículo, así como para representar, contestar demandas, denunciar, querellarse, comparecer a audiencias e intervenir en todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendientes a la defensa de los intereses de la Secretaría;
+XXIX. Designar, autorizar y delegar tanto a los servidores públicos adscritos a la Coordinación como a los servidores públicos que detenten puestos en los que se desempeñen funciones internas de asesoría, dictaminación y defensa jurídica, adscritos a las unidades administrativas de la Secretaría, facultades para ejercer las atribuciones previstas en este artículo, así como para representar, contestar demandas, denunciar, querellarse, comparecer a audiencias e intervenir en todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendientes a la defensa de los intereses de la Secretaría;
 
-XXX.- (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2006)
+XXX. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2006)
 
 XXXI. Validar las consultas y los criterios de carácter jurídico planteados por las unidades administrativas de la Secretaría;
 
@@ -735,19 +745,19 @@ XXXIII. Realizar estudios que permitan desarrollar la investigación y el análi
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXXIV.- Auxiliarse, para el ejercicio de las atribuciones previstas en este artículo, de los directores generales adjuntos de lo contencioso administrativo y judicial; de legislación y consulta, y de legalidad ambiental, en los términos de este Reglamento;
+XXXIV. Auxiliarse, para el ejercicio de las atribuciones previstas en este artículo, de los directores generales adjuntos de lo contencioso administrativo y judicial; de legislación y consulta, y de legalidad ambiental, en los términos de este Reglamento;
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXXV.- Constituirse como depositario y custodio de acuerdos interinstitucionales en que la dependencia sea parte, de conformidad con la legislación aplicable;
+XXXV. Constituirse como depositario y custodio de acuerdos interinstitucionales en que la dependencia sea parte, de conformidad con la legislación aplicable;
 
 > <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXXVI.- Interpretar las normas administrativas y en su caso asesorar a las áreas administrativas para que lleven a cabo el cumplimiento de las mismas;
+XXXVI. Interpretar las normas administrativas y en su caso asesorar a las áreas administrativas para que lleven a cabo el cumplimiento de las mismas;
 
 > <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXXVII.- Realizar auditorías legales a delegaciones federales y unidades administrativas y órganos desconcentrados de la Secretaría;
+XXXVII. Realizar auditorías legales a delegaciones federales y unidades administrativas y órganos desconcentrados de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -755,11 +765,11 @@ XXXVIII. Atender los procesos de peticiones ciudadanas en el marco del Acuerdo d
 
 > <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XXXIX.- Revisar y en su caso, opinar instrumentos jurídicos internacionales que propongan las unidades administrativas de la Secretaría, así como participar en reuniones de seguimiento y evaluación de compromisos en materia internacional que sean competencia de la Secretaría;
+XXXIX. Revisar y en su caso, opinar instrumentos jurídicos internacionales que propongan las unidades administrativas de la Secretaría, así como participar en reuniones de seguimiento y evaluación de compromisos en materia internacional que sean competencia de la Secretaría;
 
 > <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
-XL.- Resolver y en su caso, inscribir en el registro de personas acreditadas las solicitudes de las personas físicas y morales interesadas en realizar trámites ante la Secretaría, en los que se regula el acreditamiento de personalidad y otorgar las constancias respectivas, de conformidad con las disposiciones legales aplicables;
+XL. Resolver y en su caso, inscribir en el registro de personas acreditadas las solicitudes de las personas físicas y morales interesadas en realizar trámites ante la Secretaría, en los que se regula el acreditamiento de personalidad y otorgar las constancias respectivas, de conformidad con las disposiciones legales aplicables;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -827,7 +837,7 @@ XVII. Las demás que le confiera el Titular de la Secretaría, así como las que
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 16.
+###### ARTÍCULO 16.
 
 La Unidad Coordinadora de Delegaciones tendrá las atribuciones siguientes:
 
@@ -2791,7 +2801,7 @@ XX. Formular y proveer a la Dirección General de Impacto y Riesgo Ambiental, la
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 113.
+###### ARTÍCULO 113.
 
 La Dirección General de Investigación sobre la Contaminación Urbana y Regional, tendrá las siguientes atribuciones:
 
@@ -2931,7 +2941,7 @@ XVIII. Emitir opiniones y formular informes técnicos a partir de estudios e inv
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 117.
+###### ARTÍCULO 117.
 
 La Unidad Ejecutiva de Administración y Asuntos Jurídicos, tendrá las siguientes atribuciones:
 
@@ -3287,13 +3297,13 @@ Corresponde a los subprocuradores, en el ámbito de las atribuciones de su compe
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 121.
+###### ARTÍCULO 121.
 
 Al frente de cada dirección general habrá un director general quien tendrá las facultades genéricas a que se refiere el artículo 19 del presente Reglamento.
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 122.
+###### ARTÍCULO 122.
 
 La Dirección General de Planeación y Concertación de Auditorías tendrá las siguientes atribuciones:
 
@@ -3351,7 +3361,7 @@ XII. Las demás que le confieran las disposiciones jurídicas aplicables, así c
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 124.
+###### ARTÍCULO 124.
 
 La Dirección General Técnica en Auditorías tendrá las siguientes atribuciones:
 
@@ -3497,7 +3507,7 @@ XI. Las demás que le confieran las disposiciones jurídicas aplicables y las en
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 128.
+###### ARTÍCULO 128.
 
 La Dirección General de Inspección y Vigilancia Forestal tendrá las atribuciones siguientes:
 
@@ -3533,7 +3543,7 @@ XV. Las demás que le confieran las disposiciones jurídicas aplicables y las en
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 129.
+###### ARTÍCULO 129.
 
 La Dirección General de Inspección Ambiental en Puertos, Aeropuertos y Fronteras tendrá las atribuciones siguientes:
 
@@ -3561,7 +3571,7 @@ XI. Las demás que le confieran las disposiciones jurídicas aplicables y las en
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 130.
+###### ARTÍCULO 130.
 
 La Dirección General de Inspección y Vigilancia de Vida Silvestre, Recursos Marinos y Ecosistemas Costeros tendrá las atribuciones siguientes:
 
@@ -3613,7 +3623,7 @@ XXIII. Las demás que le confieran las disposiciones jurídicas aplicables y las
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 131.
+###### ARTÍCULO 131.
 
 Las Direcciones Generales de Inspección de Fuentes de Contaminación; de Impacto Ambiental y Zona Federal Marítimo Terrestre; de Inspección Ambiental en Puertos, Aeropuertos y Fronteras; de Inspección y Vigilancia Forestal y de Inspección y Vigilancia de Vida Silvestre, Recursos Marinos y Ecosistemas Costeros, en las materias de su respectiva competencia, tendrán además las siguientes atribuciones genéricas:
 
@@ -4041,7 +4051,7 @@ XXIX. Las demás que le confieran las disposiciones jurídicas aplicables y las 
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 139.
+###### ARTÍCULO 139.
 
 Al frente de cada una de las delegaciones de la Procuraduría Federal de Protección al Ambiente habrá un delegado, quien será auxiliado por los subdelegados, subdirectores, jefes de departamento, inspectores y demás personal necesario para el desempeño de sus atribuciones que autorice el presupuesto respectivo.
 
@@ -4197,7 +4207,9 @@ La Procuraduría Federal de Protección al Ambiente contará con un órgano inte
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-Artículo141.- La Comisión Nacional de Áreas Naturales Protegidas tendrá las atribuciones siguientes:
+###### ARTÍCULO 141.
+
+La Comisión Nacional de Áreas Naturales Protegidas tendrá las atribuciones siguientes:
 
 I. Fomentar y desarrollar actividades tendientes a la conservación de los ecosistemas y su biodiversidad en las áreas naturales protegidas, en sus zonas de influencia, en las áreas de refugio para proteger especies acuáticas y otras especies que por sus características la Comisión determine como prioritarias para la conservación;
 
@@ -4226,10 +4238,6 @@ XII. Emitir recomendaciones a autoridades federales, de las entidades federativa
 XIII. Elaborar los programas de protección y administrar las áreas de refugio para proteger especies acuáticas, y
 
 XIV. Las que en materia de áreas naturales protegidas, competencia de la Federación, se establecen en la Ley Orgánica de la Administración Pública Federal; la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en la materia, así como en otras leyes y reglamentos, decretos y acuerdos, salvo las que directamente correspondan al Presidente de la República, al Secretario o a otra unidad administrativa de la Secretaría, conforme a las disposiciones jurídicas aplicables.
-
-###### ARTÍCULO 141.
-
-La Comisión Nacional de Áreas Naturales Protegidas estará a cargo de un Presidente y tendrá las atribuciones que en materia de áreas naturales protegidas, competencia de la Federación, se establecen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en la materia, así como en este Reglamento y las demás disposiciones jurídicas aplicables. Asimismo, tendrá a su cargo la formulación, ejecución y evaluación de los programas de desarrollo regional sustentable para la conservación de los ecosistemas y su biodiversidad, aplicables a las zonas marginadas situadas en las regiones en que se ubiquen dichas áreas naturales protegidas, en sus zonas de influencia y otras que por sus características la Comisión determine como prioritarias para la conservación.
 
 ###### ARTÍCULO 142.
 
@@ -4269,7 +4277,7 @@ IX. Direcciones de Áreas Naturales Protegidas.
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 143.
+###### ARTÍCULO 143.
 
 El Comisionado Nacional tendrá las facultades siguientes:
 
@@ -4327,7 +4335,7 @@ IX. Las demás que le confiera el Comisionado Nacional.
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 145.
+###### ARTÍCULO 145.
 
 La Dirección General de Operación Regional tendrá las atribuciones siguientes:
 
@@ -4481,7 +4489,7 @@ XIX. Las demás que expresamente le otorguen las disposiciones jurídicas aplica
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 149.
+###### ARTÍCULO 149.
 
 La Dirección de Evaluación y Seguimiento tendrá las atribuciones siguientes:
 
@@ -4504,74 +4512,6 @@ VIII. Coordinar los programas y estrategias de monitoreo de ecosistemas y su bio
 IX. Evaluar, en coordinación con las entidades del Sector que corresponda, el efecto de las políticas generales, tanto ambientales como de desarrollo, en las áreas naturales protegidas de competencia de la Federación, y sus zonas de influencia, áreas de refugio para proteger especies acuáticas, así como sobre las especies y poblaciones prioritarias para la conservación.
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-150.- Las Direcciones Regionales se establecerán, de conformidad con las disposiciones jurídicas aplicables, en el domicilio y con la circunscripción territorial que determine el Comisionado Nacional mediante acuerdo que se publique en el Diario Oficial de la Federación. Dichas Direcciones Regionales tendrán las atribuciones siguientes:
-
-I. Apoyar la coordinación de las estrategias regionales de cooperación y obtención de recursos que lleve a cabo la Comisión, para el establecimiento, protección, manejo, aprovechamiento sustentable y restauración para la conservación de las áreas naturales protegidas competencia de la Federación y sus zonas de influencia, de las áreas de refugio para proteger especies acuáticas, así como de los programas de subsidios y de los proyectos de especies y poblaciones prioritarias para la conservación, con la participación que corresponda a otras unidades administrativas competentes de la Secretaría;
-
-II. Coadyuvar con la Dirección General de Desarrollo Institucional y Promoción en la ejecución de acciones de difusión y cooperación internacional que lleve a cabo la Secretaría, así como dirigir y dar cumplimiento a los compromisos internacionales asumidos en materia de áreas naturales protegidas competencia de la Federación;
-
-III. Supervisar los proyectos y programas de difusión que fomenten el desarrollo institucional y conservación de las áreas naturales protegidas, sus zonas de influencia, áreas de refugio para proteger especies acuáticas, así como de las especies prioritarias para la conservación, atendiendo a las políticas establecidas por la Dirección General de Desarrollo Institucional y Promoción y con la participación que corresponda a las demás unidades administrativas de la Secretaría;
-
-IV. Coadyuvar en la protección, manejo y restauración de los ecosistemas y su biodiversidad en las áreas naturales protegidas competencia de la Federación y de las áreas de refugio para proteger especies acuáticas que se encuentren dentro de su circunscripción territorial, de conformidad con las disposiciones jurídicas aplicables;
-
-V. Ejecutar con las unidades administrativas de la Secretaría los proyectos y acciones de recuperación de especies y poblaciones prioritarias, en las áreas naturales protegidas competencia de la Federación, sus zonas de influencia, en las áreas de refugio para proteger especies acuáticas y en aquellas regiones y hábitat que por sus características la Comisión determine como prioritarias para la conservación;
-
-VI. Coordinar la formulación y ejecución de los programas de manejo de las áreas naturales protegidas y de los programas de protección de las áreas de refugio para proteger especies acuáticas, ubicadas dentro de la circunscripción territorial de su competencia;
-
-VII. Formular y ejecutar el programa de manejo de las áreas naturales protegidas y de los programas de protección de las áreas de refugio para proteger especies acuáticas de la región de su competencia, que no cuenten con director designado;
-
-VIII. Emitir los dictámenes técnicos y opiniones que correspondan a la Comisión, conforme a las disposiciones jurídicas aplicables, que le soliciten las unidades administrativas de la Secretaría dentro de los procedimientos para el otorgamiento de las autorizaciones, permisos y concesiones en materia de impacto ambiental, forestal, zona federal marítimo terrestre, vida silvestre, cambio de uso del suelo en terrenos forestales y cualquier otra relativa a las áreas naturales protegidas de la región de su competencia;
-
-IX. Emitir opinión respecto a los aprovechamientos, servicios, obras y actividades que se pretendan autorizar por parte de las autoridades competentes, en las áreas naturales protegidas competencia de la Federación y sus zonas de influencia, así como en las áreas de refugio para proteger especies acuáticas que se encuentren dentro de su circunscripción territorial y que no cuenten con director designado;
-
-X. Administrar los terrenos propiedad de la Nación u otros bienes inmuebles destinados a la Secretaría o a la Comisión, que se encuentren en las áreas naturales protegidas competencia de la Federación que no cuenten con un director designado;
-
-XI. Participar en la elaboración y ejecución de los programas de ordenamiento ecológico regionales, locales y marinos en donde se ubiquen las áreas naturales protegidas competencia de la Federación y sus zonas de influencia, así como las áreas de refugio para proteger especies acuáticas, en coordinación con las unidades administrativas competentes de la Secretaría;
-
-XII. Otorgar, modificar, prorrogar, suspender, anular y declarar la extinción de las licencias, permisos, autorizaciones y demás resoluciones administrativas que no sean expresamente concesiones o asignaciones, en aquellas áreas naturales protegidas de la región de su competencia, cuando se trate de personas que tengan fines económicos o lucrativos, y revocar los mismos a petición de autoridad competente;
-
-XIII. Establecer las políticas y dirigir los programas y proyectos de la Comisión en materia de protección, manejo, aprovechamiento sustentable y restauración para la conservación de las áreas naturales protegidas competencia de la Federación y de las áreas de refugio para proteger especies acuáticas que se encuentren en la circunscripción de su competencia y que no tengan un director designado;
-
-XIV. Coordinar la participación de las direcciones de las áreas naturales protegidas que se encuentren dentro de su circunscripción territorial, en los programas, proyectos y acciones de recuperación de especies y poblaciones prioritarias para la conservación;
-
-XV. Elaborar diagnósticos relativos a la problemática local o regional en las materias competencia de la Comisión;
-
-XVI. Proponer, opinar y suscribir convenios o acuerdos de coordinación con los gobiernos de las entidades federativas y sus municipios, así como convenios de concertación con los sectores social y privado, a excepción de aquéllos que tengan por objeto la transferencia de funciones y atribuciones o el otorgamiento de la administración y manejo de las áreas naturales protegidas, así como notificar de su formalización a la Dirección de Asuntos Jurídicos;
-
-XVII. Auxiliar a las unidades administrativas centrales de la Comisión en la formulación y seguimiento de los convenios y contratos que se ejecuten dentro de su circunscripción territorial;
-
-XVIII. Proporcionar la información, documentación y datos técnicos que le sean solicitados por las demás unidades administrativas de la Comisión y de la Secretaría, órganos desconcentrados y demás dependencias y entidades de la Administración Pública Federal;
-
-XIX. Contratar las obras, estudios y servicios relacionados con éstas, previstos en su presupuesto, de conformidad con las disposiciones legales aplicables, así como supervisar su ejecución y notificar de su formalización a la Dirección Ejecutiva de Administración y Efectividad Institucional y a la Dirección de Asuntos Jurídicos;
-
-XX. Integrar y establecer, conforme a los lineamientos aplicables en la materia, los proyectos de conservación y mantenimiento de los inmuebles con que cuente la Dirección Regional y las de Áreas Naturales Protegidas de su circunscripción territorial;
-
-XXI. Suscribir, previo cumplimiento de la normatividad en la materia, los contratos de arrendamiento de inmuebles necesarios para las áreas naturales protegidas que se ubiquen dentro de su circunscripción territorial, así como notificar de su formalización a la Dirección Ejecutiva de Administración y Efectividad Institucional y a la Dirección de Asuntos Jurídicos;
-
-XXII. Suministrar los bienes y servicios que requiera la operación de la región a su cargo y de las direcciones de las áreas naturales protegidas para el ejercicio de sus atribuciones, suscribiendo, previo cumplimiento de la normatividad en la materia, los contratos que se requieran para tales efectos;
-
-XXIII. Promover la constitución y coadyuvar en el funcionamiento de los consejos asesores y otras formas de participación social en las áreas naturales protegidas competencia de la Federación, que se encuentren en su circunscripción territorial;
-
-XXIV. Fungir como secretario técnico del consejo asesor de las áreas naturales protegidas de la región de su competencia, que no cuenten con un director designado, así como dar seguimiento a las actividades que se deriven de los acuerdos del mismo;
-
-XXV. Coordinar las acciones de concertación que lleven a cabo los directores de las áreas naturales protegidas competencia de la Federación, con los grupos sociales y privados interesados en apoyar el manejo, administración y desarrollo sustentable de las áreas a su cargo;
-
-XXVI. Asesorar a las entidades federativas, municipios y propietarios o poseedores que lo requieran, en el establecimiento, protección, manejo, restauración, administración y aprovechamiento sustentable de los ecosistemas y su biodiversidad en las áreas naturales protegidas de competencia local y privadas, así como promover el establecimiento de sistemas estatales y regionales de conservación;
-
-XXVII. Llevar el registro de los pagos de contribuciones realizados por los usuarios con motivo de sus obligaciones derivadas del cumplimiento de las disposiciones legales aplicables en materia de áreas naturales protegidas competencia de la Federación, de las áreas que se encuentren dentro de la circunscripción territorial de la región de que se trate, que no cuenten con director designado;
-
-XXVIII. Dar seguimiento a las acciones que en materia de investigación y colecta científicas se lleven a cabo dentro de las áreas naturales protegidas de competencia Federal y sus zonas de influencia, así como en las áreas de refugio para proteger especies acuáticas;
-
-XXIX. Ejercer dentro de la circunscripción territorial de su competencia, las atribuciones a que se refiere el artículo 150 Bis del presente Reglamento, respecto de las áreas naturales protegidas que no cuenten con un director designado;
-
-XXX. Coadyuvar con la Dirección Ejecutiva de Administración y Efectividad Institucional en la administración de los bienes inmuebles en destino de conformidad con la legislación aplicable, y
-
-XXXI. Las demás que les confiera el titular de la Secretaría, el Comisionado Nacional, las que les señalen las disposiciones jurídicas aplicables y las que le correspondan a las unidades administrativas a su cargo.
-
-Las direcciones regionales tendrán la estructura administrativa que determine el Comisionado Nacional, en la que habrá una área jurídica, la cual ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 148 del presente Reglamento, con excepción de las contenidas en las fracciones XV a XIX del citado artículo.
-
-Para otorgar el perdón a que se refiere el artículo 148, fracción V, de este Reglamento, las áreas jurídicas de las direcciones regionales deberán obtener previamente la aprobación expresa y por escrito del titular de la Dirección de Asuntos Jurídicos.
 
 ###### ARTÍCULO 150.
 
@@ -4643,9 +4583,7 @@ Las direcciones regionales tendrán la estructura administrativa que determine e
 
 Para otorgar el perdón a que se refiere el artículo 148, fracción V, de este Reglamento, las áreas jurídicas de las direcciones regionales deberán obtener previamente la aprobación expresa y por escrito del titular de la Dirección de Asuntos Jurídicos.
 
-> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-###### Artículo 150 Bis.
+###### ARTÍCULO 150 Bis.
 
 Las Direcciones de Áreas Naturales Protegidas se establecerán en la circunscripción territorial que determine la declaratoria respectiva y tendrán las atribuciones siguientes:
 
@@ -4693,7 +4631,7 @@ XXI. Las demás que les atribuya expresamente el Comisionado Nacional, así como
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 151.
+###### ARTÍCULO 151.
 
 Los directores generales de la Comisión podrán, en el ámbito de sus respectivas competencias, revisar, confirmar, modificar, revocar y nulificar, en su caso, las resoluciones que dicten los directores regionales y los de las áreas naturales protegidas en ejercicio de sus atribuciones, así como resolver los recursos administrativos que se interpongan contra dichas resoluciones.
 
@@ -4701,9 +4639,11 @@ El Comisionado Nacional contará con las atribuciones que se señalan en el pár
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 152.
 
-Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la dependencia estarán a cargo de los Subsecretarios de Planeación y Política Ambiental, de Fomento y Normatividad Ambiental, y de Gestión para la Protección Ambiental, en el orden mencionado y, en ausencia de éstos, del Oficial Mayor. En los juicios de amparo en que deba intervenir el Secretario en representación del Presidente de la República o como titular de la dependencia, así como en las controversias constitucionales o acciones de inconstitucionalidad, será suplido indistintamente por los servidores públicos antes señalados y en el orden indicado o por el titular de la Coordinación General Jurídica.
+Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la dependencia estarán a cargo de los Subsecretarios de Planeación y Política Ambiental, de Fomento y Normatividad Ambiental, y de Gestión para la Protección Ambiental, en el orden mencionado y, en ausencia de éstos, el Oficial Mayor.
 
 ###### ARTÍCULO 153.
 
@@ -4713,7 +4653,7 @@ Las ausencias de los titulares de los órganos desconcentrados y de las unidades
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 154.
+###### ARTÍCULO 154.
 
 Las ausencias temporales o definitivas de los titulares de las unidades coordinadoras, coordinaciones generales, jefes de unidad, directores generales y delegados federales serán suplidas por los servidores públicos de la jerarquía inmediata inferior que designen los correspondientes titulares de las unidades antes mencionadas.
 
@@ -4725,7 +4665,7 @@ El titular de la Unidad Coordinadora de Asuntos Jurídicos será suplido en sus 
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-###### Artículo 155.
+###### ARTÍCULO 155.
 
 Las ausencias de los titulares de los órganos internos de control y de las áreas de auditoría, quejas y responsabilidades, señalados en este Reglamento, serán suplidas de acuerdo a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
@@ -4788,3 +4728,7 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan los artículos 44 a 109 del Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales.
+
+D.O.F. 24 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
