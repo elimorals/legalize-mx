@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-los-sistemas-de-ahorro-para-el-38805"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-30"
-last_updated: "2005-05-02"
+last_updated: "2009-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38805&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,147 +19,21 @@ issue_date: "2004-04-29"
 ---
 # REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
+REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO, PUBLICADO EN EL D.O.F. DE 24 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014 (ABROGADO).
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
-Reglamento publicado en la Tercera Sección, del Periódico Oficial del Estado de Puebla, el miércoles 27 de octubre de 2010.
+Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 30 de abril de 2004.
 
-ACUERDO del Honorable Cabildo del Municipio de Puebla, de fecha 12 de agosto de 2010, que aprueba el Dictamen presentado por la Comisión de Gobernación, Justicia y Seguridad Pública, por el cual se expide el REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Honorable Ayuntamiento del Municipio de Puebla.- 2008-2011.- Secretaría del Honorable Ayuntamiento.- Dirección Jurídica.- 06/SG/PPI-B.
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 13 y 31 de la Ley Orgánica de la Administración Pública Federal; y 3, fracción IX, 23, 37, 56, 58, fracción VII, 60, fracción VI, 61, fracciones I, IV y XVI, 74 ter, 82, 84, 88, 89, 95, 96 y 99 de la Ley de los Sistemas de Ahorro para el Retiro, he tenido a bien expedir el siguiente:
 
-BLANCA MARÍA DEL SOCORRO ALCALÁ RUIZ, Presidenta Municipal Constitucional del H. Ayuntamiento del Municipio de Puebla, a sus habitantes hace saber:
+REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-Los integrantes de la Comisión de Gobernación, Justicia y Seguridad Pública, con fundamento en lo establecido por los artículos 21, 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos; 4, 79 y 105 de la Ley General de Sistema Nacional de Seguridad Pública; 102, 103 y 105 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla; 78 fracción IV, 79, 80, 84, 138 fracciones VII y XVIII de la Ley Orgánica Municipal; 31 fracciones VIII y XIII del Código Reglamentario para el Municipio de Puebla, y 15 fracción I, 29 fracciones I y IV de la Ley Orgánica de la Administración Pública del Estado; y
-
-ÚNICO.- Que en Sesión Ordinaria de Cabildo de fecha doce de agosto del presente año, fue APROBADO por Unanimidad de votos el Dictamen presentado por la Comisión de Gobernación, Justicia y Seguridad Pública, en los siguientes términos:
-
-REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
-
-CONSIDERANDO.
-
-Por lo anterior, con fundamento en lo dispuesto por los artículos 21, 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos; 4, 79 y 105 de la Ley General del Sistema Nacional de Seguridad Pública; 102, 103 y 105 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla., y 2, 78 fracción IV, 79, 84 fracciones I, II, III, IV y V, 118 y 120 de la Ley Orgánica Municipal, el Honorable Ayuntamiento del Municipio de Puebla, ha tenido a bien expedir el siguiente:
-
-REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
-
-## TÍTULO PRIMERO
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-###### Artículo 1.
-
-El presente Reglamento es de carácter general, interés público y observancia obligatoria para los elementos de la Secretaría de Seguridad Pública y Tránsito Municipal, así como para la Academia de Seguridad Pública del Municipio de Puebla y tiene por objeto establecer las bases normativas para la organización, funcionamiento y regulación del Servicio Profesional de Carrera Policial.
-
-###### Artículo 2.
-
-El Servicio Profesional de Carrera Policial, es el mecanismo de carácter obligatorio y permanente que garantiza la igualdad de oportunidades en la selección, ingreso, formación, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación, promoción y registro del desempeño del personal en activo y en la terminación de su carrera, de manera planificada y con sujeción a derecho con base en el mérito, la capacidad y la evaluación periódica y continua.
-
-###### Artículo 3.
-
-Para los efectos de este Reglamento, se entenderá por:
-
-l. Academia.- La Academia de Seguridad Pública del Municipio de Puebla;
-
-II. Aspirante.- La persona que manifiesta su interés por ingresar al Servicio Profesional de Carrera Policial, a fin de incorporarse al procedimiento de selección;
-
-III. Ayuntamiento.- El Honorable Ayuntamiento del Municipio de Puebla;
-
-IV. Cadete.- La persona que cumplió con los requisitos del procedimiento de selección y se encuentra inscrito en el proceso de formación inicial;
-
-V. Comité.- El Comité Municipal del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública y Tránsito Municipal;
-
-VI. Comisario.- El Secretario de Seguridad Pública y Transito Municipal;
-
-VII. Comisión de Honor.- La Comisión de honor y Justicia de la Secretaría de Seguridad Publica y Tránsito Municipal;
-
-VIII. Consejo Estatal.- El Consejo Estatal de Seguridad Pública;
-
-IX. Dirección General.- La Dirección General de Apoyo Técnico del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
-
-X. Elemento.- El personal operativo, adscrito a la Secretaría;
-
-XI. Estado.- El estado Libre y Soberano de Puebla;
-
-XII. Ley Estatal.- Ley de Seguridad Pública del estado de Puebla;
-
-XIII. Ley General.- La Ley General del Sistema Nacional de Seguridad Pública;
-
-XIV. Miembro del Servicio.- El elemento de la Secretaría de Seguridad Pública y Transito Municipal que forma parte del Servicio Profesional de Carrera Policial;
-
-XV. Perfil del puesto.- La descripción específica de los requisitos, habilidades y demás conocimientos que debe tener el personal del Servicio Profesional de Carrera Policial para el ejercicio de las funciones correspondientes a su categoría y grado;
-
-XVI. Personal operativo.- Personal de la Secretaría que tiene la calidad de Policía o Policía de Tránsito;
-
-XVII. Plaza de nueva creación.- La posición presupuestaria adicional al gasto regularizable que respalda un puesto, sólo puede ser ocupado por un servidor público a la vez, tiene una adscripción determinada y se crea cuando sea estrictamente indispensable, desde el punto de vista técnico y funcional, para la consecución de los objetivos institucionales del Servicio Operativo;
-
-XVIII. Plaza vacante.- La posición presupuestaria incluida dentro del gasto regularizable que respalda un puesto que sólo puede ser ocupado por un integrante del Servicio de Carrera a la vez, con una adscripción determinada y que se encuentra desocupada por cualquier causal ordinaria o extraordinaria;
-
-XIX. Policía Municipal de carrera.- La persona integrante de la Secretaría de Seguridad Pública y Tránsito Municipal que cumple con todos los requisitos que establece el Servicio Profesional de Carrera Policial;
-
-XX. Profesionalización.- El proceso de capacitación integral constituido por la formación inicial, continua y especializada, orientada al desarrollo del personal inscrito en el Servicio Profesional de Carrera Policial;
-
-XXI. Registro Nacional.- El Registro Nacional del Personal de Seguridad Pública;
-
-XXII. Reglamento.- El presente Reglamento;
-
-XXIII. Reglamento Interior.- El Reglamento Interior de la Secretaría de Seguridad Pública y Tránsito Municipal del Honorable Ayuntamiento del Municipio de Puebla;
-
-XXIV. Secretaría.- La Secretaría de Seguridad Pública y Tránsito Municipal del Honorable Ayuntamiento del Municipio de Puebla;
-
-XXV. Servicio.- El Servicio Profesional de Carrera Policial; y
-
-XXVI. Sistema.- El Sistema de Seguridad Pública del Estado.
-
-###### Artículo 4.
-
-Toda referencia al género masculino, incluyendo los cargos y puestos en el Reglamento, lo es también para el género femenino cuando de su texto y contexto, no se establezca expresamente para uno u otro género.
-
-###### Artículo 5.
-
-El Servicio tiene por objeto profesionalizar a los elementos y homologar su carrera, su estructura, su integración y operación para el óptimo cumplimiento de la función de seguridad pública a cargo del Estado Mexicano, tal como lo disponen el artículo 26 fracción V de la Ley Estatal; los artículos 21, párrafos nueve y diez, y 115 constitucionales, así como sus leyes reglamentarias.
-
-###### Artículo 6.
-
-Los principios rectores del Servicio son: solidaridad, honestidad, legalidad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, a través de los cuales debe asegurarse la certeza, objetividad, imparcialidad y eficacia, para salvaguardar la integridad, los derechos de las personas, así como para preservar la libertad, el orden y la paz públicos, conforme a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
-
-###### Artículo 7.
-
-Al Servicio sólo se podrá ingresar, permanecer y ascender a la categoría, Jerarquía o grado inmediato superior, mediante los términos y condiciones que establece la Ley, el Reglamento y demás disposiciones aplicables.
-
-###### Artículo 8.
-
-El Servicio funcionará mediante los siguientes procedimientos:
-
-I. Planeación;
-
-II. Reclutamiento;
-
-III. Selección de aspirantes;
-
-IV. Formación inicial;
-
-V. Ingreso;
-
-VI. Formación continua y especializada;
-
-VII. Evaluación para la permanencia;
-
-VIII. Desarrollo y promoción;
-
-IX. Estímulos;
-
-X. Sistema disciplinario;
-
-XI. Separación y retiro; y
-
-XII. Medios de impugnación.
-
-###### Artículo 9.
-
-El Ayuntamiento a través de la Secretaría y de sus órganos correspondientes, podrá emitir las guías, los lineamientos generales para la elaboración y aplicación de los mecanismos, así como las herramientas de los procedimientos que integran el Servicio, en coordinación con la autoridad competente.
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### ARTÍCULO 1o.
 
@@ -177,11 +51,19 @@ III. Aportaciones al FOVISSSTE, las enteradas por las dependencias y entidades p
 
 IV. Aportaciones al INFONAVIT, las enteradas por los patrones de conformidad con lo previsto en el artículo 29 fracción II de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
+> <small>(ADICIONADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+IV bis. Buzón, cada una de las cuentas de correo electrónico habilitadas por la Entidad Central a la Comisión y a los Participantes en los Sistemas de Ahorro para el Retiro;
+
 V. Cuenta ISSSTE, la cuenta que el Banco de México tiene abierta a nombre del ISSSTE, en la que se depositan los recursos correspondientes al SAR-ISSSTE, de conformidad con lo dispuesto en el artículo 90 BIS I de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 VI. Cuenta Concentradora, aquélla operada por el Banco de México en la que se depositan los recursos correspondientes al Seguro de RCV, aportaciones voluntarias y complementarias de retiro, en tanto se lleven a cabo los procesos de individualización para transferirlos a las Administradoras elegidas por los Trabajadores, así como conservar los recursos de aquellos Trabajadores que no elijan Administradora;
 
 VII. Cuenta FOVISSSTE, la cuenta que el Banco de México le lleva al FOVISSSTE, conforme a lo establecido en el artículo 122 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+> <small>(ADICIONADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+VII bis. Entidad Central, la persona moral que proporcione los medios electrónicos de comunicación a efecto de que la Comisión notifique sus actos administrativos a través de correo electrónico, así como para el envío de documentos digitales de los Participantes en los Sistemas de Ahorro para el Retiro a la Comisión;
 
 VIII. Entidades Receptoras, las entidades autorizadas por el IMSS y el INFONAVIT para recibir el pago de las cuotas del Seguro de RCV, de Aportaciones al INFONAVIT, aportaciones voluntarias y aportaciones complementarias de retiro. Asimismo, podrán recibir las aportaciones del SAR-ISSSTE cuando así lo determine la Comisión mediante reglas de carácter general;
 
@@ -200,6 +82,10 @@ XIV. ISSSTE, el Instituto de Seguridad y Servicios Sociales de los Trabajadores 
 XV. Ley, la Ley de los Sistemas de Ahorro para el Retiro;
 
 XVI. Manual de Procedimientos Transaccionales, el manual que elaboren las Empresas Operadoras, de conformidad con el título de concesión, en donde se especifiquen los formatos electrónicos, sistemas, características y demás aspectos técnicos y operativos, relativos a la transmisión de las transacciones informáticas que constituyen el flujo de información entre la Comisión, los Participantes en los Sistemas de Ahorro para el Retiro y los Institutos de Seguridad Social;
+
+> <small>(ADICIONADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+XVI bis. Prestador de Servicios de Certificación, la persona o institución pública que proporcione servicios relacionados con firmas electrónicas que, en su caso, expida certificados digitales que confirmen el vínculo entre un firmante y los datos de verificación de su firma electrónica avanzada, utilizando para ello la infraestructura de clave pública que administra Banco de México;
 
 XVII. SAR-ISSSTE, al Sistema de Ahorro para el Retiro previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -225,9 +111,9 @@ Cuando en este Reglamento se haga referencia a Administradora, Base de Datos Nac
 
 La Comisión deberá contar con un sistema que permita a los Trabajadores consultar la proyección del saldo que alcanzará su Cuenta Individual al momento de pensionarse. Este sistema deberá ser accesible para los Trabajadores a efecto de que puedan realizar la consulta a través de equipos y sistemas automatizados o de telecomunicación.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN ENTRE INSTITUCIONES
+### CAPÍTULO II. DE LAS ADMINISTRADORAS Y SOCIEDADES DE INVERSIÓN
 
-#### SECCIÓN PRIMERA. DE LA COMISIÓN DE HONOR
+#### Sección I. De las Administradoras
 
 ###### ARTÍCULO 4o.
 
@@ -271,2654 +157,1784 @@ Para tal efecto, las Administradoras que cobren comisiones sobre saldo, sólo po
 
 Las Administradoras en términos del artículo 37 de la Ley, sólo podrán cobrar comisiones por cuota fija a los Trabajadores por la prestación de cualquiera de los siguientes servicios:
 
-I. Expedición de estados de cuenta adicionales a los previstos en la Ley, y
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2005)</small>
 
-II. Reposición de documentación de la Cuenta Individual.
+I. Expedición de estados de cuenta adicionales a los previstos en la Ley;
+
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+II. Reposición de documentación de la Cuenta Individual, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE MAYO DE 2005)</small>
+
+III. Gestión de trámites ante autoridades o instancias distintas a los Institutos de Seguridad Social, exclusivamente relacionados con su cuenta individual, siempre que lo solicite o autorice el Trabajador de que se trate o sus beneficiarios.
 
 Para la protección de los recursos de los Trabajadores, las Administradoras sólo podrán cobrar comisiones por cuota fija por el depósito de recursos en las subcuentas de aportaciones voluntarias y complementarias de retiro, cuando los depósitos no se efectúen a través del proceso de recaudación de cuotas y aportaciones.
 
 Las comisiones por cuota fija que pretendan cobrar las Administradoras, deberán detallarse por conceptos específicos e incluirse en la estructura de comisiones que sometan previamente a la autorización de la Junta de Gobierno de la Comisión, estando condicionada su procedencia a esta autorización.
 
-#### SECCIÓN SEGUNDA. DEL COMITÉ
+#### Sección II. De las Sociedades de Inversión Especializadas de Fondos para el Retiro
 
 ###### ARTÍCULO 9o.
 
 Las Administradoras deberán procurar que las Sociedades de Inversión que operen otorguen la mayor seguridad y rentabilidad de los recursos de los Trabajadores.
 
-###### Artículo 10.
+###### ARTÍCULO 10.
 
-El Comité establecerá la adecuada coordinación con los responsables de las respectivas instancias, para la mejor aplicación de todos los procedimientos que regulan el servicio.
+Las Administradoras podrán operar varias Sociedades de Inversión de conformidad con lo dispuesto por el artículo 47 de la Ley, de las cuales al menos una deberá integrar fundamentalmente su cartera por valores cuyas características específicas preserven el valor adquisitivo del ahorro de los Trabajadores, así como por aquellos otros valores que a juicio de la Junta de Gobierno de la Comisión se orienten al propósito mencionado.
 
-###### Artículo 11.
+###### ARTÍCULO 11.
 
-En todos los artículos en donde se establezca la intervención del Ayuntamiento, el Comisario realizará las gestiones necesarias para su cumplimiento.
+Los Trabajadores tendrán derecho a elegir que los recursos de su Cuenta Individual, a excepción de los correspondientes a la Subcuenta de Vivienda y Subcuenta del Fondo de la Vivienda, sean invertidos en una o más Sociedades de Inversión que sean operadas por la Administradora que opere su cuenta, siempre que sean compatibles con lo establecido en el prospecto de información de la Sociedad de Inversión de que se trate, de acuerdo a las disposiciones de carácter general que al efecto expida la Comisión, y que el objeto social de la Sociedad de Inversión lo permita.
 
-###### Artículo 12.
+###### ARTÍCULO 12.
 
-El Ayuntamiento integrará el Servicio y se homologará atendiendo los lineamientos de carácter nacional y estatal, con la finalidad de hacer posible la coordinación de la carrera policial, las estructuras, la escala jerárquica, la formación y el ejercicio de sus atribuciones, para cumplir con la función de la seguridad pública.
+Las Administradoras podrán, de conformidad con lo establecido en el artículo 47 de la Ley, solicitar la autorización de la Comisión para constituir, organizar y operar Sociedades de Inversión adicionales. A efecto de brindar al Trabajador una opción de bajo riesgo para la inversión de sus recursos, las Administradoras estarán obligadas a operar por lo menos una Sociedad de Inversión cuya cartera de valores se integre fundamentalmente por valores cuyas características específicas preserven el valor adquisitivo del ahorro de los Trabajadores.
 
-###### Artículo 13.
+En el caso de que la Comisión autorice la modificación del régimen de inversión de la Sociedad de Inversión que se encontraba obligada a la integración de su cartera de valores en los términos del párrafo anterior, los Trabajadores que tuvieran recursos invertidos en ésta, tendrán derecho a invertirlos en otra Sociedad de Inversión operada por la Administradora de que se trate, o a traspasar su Cuenta Individual a otra Administradora.
 
-Para el cumplimiento del Reglamento, el Ayuntamiento podrá coordinarse con otras instancias, considerando la normatividad, convenios, acuerdos o resoluciones aplicables.
+Los Trabajadores tendrán derecho a conocer la modificación del régimen de inversión de la Sociedad de Inversión donde se encuentren sus recursos, así como a elegir la opción que más les convenga. Para tal efecto las Administradoras deberán enviar a dichos Trabajadores un comunicado a través de correo certificado o de cualquier medio electrónico que proporcione acuse de recibo, mediante el cual se haga de su conocimiento lo anterior. Adicionalmente, las Administradoras deberán publicar en dos periódicos de circulación nacional y en el Diario Oficial de la Federación un aviso en que se informe de la modificación al régimen de inversión de la Sociedad de Inversión y del derecho de los Trabajadores a invertir sus recursos en otra Sociedad de Inversión.
 
-###### Artículo 14.
+Las Administradoras que no envíen las notificaciones o no realicen las publicaciones a que se refiere el presente artículo responderán de los daños y perjuicios que se causen a los Trabajadores por la modificación al régimen de inversión de la Sociedad de Inversión en que tuvieren invertidos sus recursos.
 
-El Comité podrá proponer al Consejo Nacional de Seguridad Pública, acuerdos, programas específicos y convenios relativos al Servicio, a través de los consejos municipales y regionales relacionados con la materia y demás instancias de coordinación del Sistema Nacional de Seguridad Pública.
+###### ARTÍCULO 13.
 
-## TÍTULO SEGUNDO. DE LA ESTRUCTURA DEL SERVICIO
+Las Administradoras podrán solicitar la aprobación de la Comisión para reformar el objeto social de las Sociedades de Inversión que operen para que puedan invertir recursos que pertenezcan exclusivamente a una o más de las diversas subcuentas de la Cuenta Individual en lo particular. A efecto de lo anterior, deberán sujetarse a los criterios generales que, en su caso, expida la Comisión.
 
-###### Artículo 15.
+En caso de que la reforma sea aprobada, para garantizar el respeto de los derechos de los Trabajadores las Administradoras deberán notificarles tal circunstancia dentro de los veinte días hábiles siguientes de haber obtenido dicha aprobación a través de correo certificado o de cualquier medio electrónico que proporcione acuse de recibo, en el cual deberán hacer del conocimiento del Trabajador, por lo menos lo siguiente:
 
-Para el óptimo funcionamiento del Servicio, su homologación y el despacho de los asuntos de su competencia, éste contará con la estructura jerárquica establecida de acuerdo a la distribución terciaria, quedando sujeta la misma, a la previa justificación funcional que se haga y a la existencia de disponibilidad presupuestal, de acuerdo con el tabulador nominal vigente, en categorías, jerarquías o grados.
+a) Las reformas al objeto social de la Sociedad de Inversión;
 
-###### Artículo 16.
+b) El derecho del Trabajador a elegir la o las Sociedades de Inversión a las que desee transferir sus recursos, y
 
-Los miembros del Servicio, se organizarán de conformidad con las siguientes categorías, jerarquías o grados:
+c) La Sociedad de Inversión a la que se transferirán sus recursos, en caso de no ejercer el Trabajador su derecho de elección a que se refiere el inciso anterior.
 
-I. Comisario, correspondiendo esta categoría al Secretario de Seguridad Pública Tránsito Municipal y cuyo nombramiento será conforme a lo establecido por la Ley Orgánica Municipal.
+En el caso del inciso c) anterior, las Administradoras deberán de transferir los recursos a la Sociedad de Inversión que más beneficie los intereses del Trabajador de acuerdo a su perfil.
 
-II. Oficiales:
+Los Trabajadores podrán ejercer el derecho de elegir la o las Sociedades de Inversión a las que deseen transferir sus recursos, dentro del plazo que establezca la Comisión, mismo que deberá ser contado a partir de que haya transcurrido el plazo a que se refiere el párrafo segundo del presente artículo. El Trabajador podrá elegir Sociedades de Inversión cuyo objeto social y régimen de inversión sean compatibles con el tipo de recursos a transferir.
 
-a) Subinspector, jerarquía que tendrán los titulares de las Direcciones de Seguridad Pública y de Tránsito Municipal;
+Asimismo, las Administradoras deberán publicar en dos periódicos de circulación nacional y el Diario Oficial de la Federación un aviso en que se informe de la reforma al objeto social de la Sociedad de Inversión, las características de los Trabajadores que tengan derecho a solicitar la transferencia de sus recursos y la fecha de terminación del plazo para solicitar dicha transferencia.
 
-b) Oficial, grado que corresponderá a los Subdirectores, o Coordinadores Operativos o Responsables del Área de Supervisión; y
+Si una vez transcurrido el plazo fijado el Trabajador no ejerce el derecho a solicitar la transferencia de sus recursos, las Administradoras podrán transferir los recursos que hubieren estado invertidos en la Sociedad de Inversión cuyo objeto se modifique y que no correspondan al tipo de inversiones a conservar, a otra u otras Sociedades de Inversión cuyo objeto y régimen de inversión sea compatible con el tipo de recursos de que se trate de acuerdo con lo establecido en el artículo 47 de la Ley, debiendo las Administradoras considerar aquella que más beneficie al Trabajador.
 
-c) Suboficial, grado que corresponderá a los Jefes de Sector, o de Grupo de Motopatrulleros, o de Grupo de Policía Turística, o de la Unidad de Traslados, o de la Unidad Canina o de Grupo Táctico o de Servicios Periciales.
+Las Administradoras que no envíen las notificaciones o no realicen las publicaciones a que se refiere el presente artículo responderán de los daños y perjuicios que se causen a los Trabajadores por la reforma al objeto social de la Sociedad de Inversión en que tuvieren invertidos sus recursos o por la transferencia de sus recursos a otra Sociedad de Inversión. También serán responsables cuando transfieran los recursos, en términos del párrafo anterior, a una Sociedad de Inversión que no sea compatible con el perfil del Trabajador.
 
-III. Escala básica:
+###### ARTÍCULO 14.
 
-a) Policía Primero;
+La Comisión, de conformidad con lo dispuesto por el artículo 43 de la Ley, establecerá mediante reglas de carácter general el régimen de inversión de las Sociedades de Inversión, el cual tendrá como principal objetivo otorgar la mayor rentabilidad a los recursos de los Trabajadores.
 
-b) Policía Segundo;
+En caso de que la Comisión, previa opinión favorable de su Comité Consultivo y de Vigilancia y aprobación de su Junta de Gobierno, modifique el régimen de inversión para establecer los requisitos para invertir en determinadas Sociedades de Inversión, de acuerdo con lo establecido por los artículos 43 y 47 de la Ley, las Administradoras deberán notificar tal situación a los Trabajadores que correspondan, dentro de los veinte días hábiles siguientes a la modificación del régimen de inversión a través de correo certificado o de cualquier medio electrónico que proporcione acuse de recibo, en el cual deberán hacer del conocimiento del Trabajador, por lo menos lo siguiente:
 
-c) Policía Tercero; y
+a) La modificación al régimen de inversión;
 
-d) Policía.
+b) El derecho del Trabajador a elegir la o las Sociedades de Inversión a las que desee transferir sus recursos, y
 
-El Jefe de Grupo de Ciclopolicías, los comandantes de compañía y otros jefes de grupo no indicados en el presente artículo, tendrán la categoría de Policía Primero.
+c) La Sociedad de Inversión a la que se transferirán sus recursos, en caso de no ejercer el Trabajador su derecho de elección a que se refiere el inciso anterior.
 
-De entre los miembros del servicio, con la excepción ya señalada para el Comisario, serán asignadas estas categorías, jerarquías o grados, de acuerdo al número previsto para cada uno, con base en la escala terciaria en la que está conformada la Secretaría, la disposición presupuestal correspondiente y lo señalado en el Reglamento.
+En el caso del inciso c) anterior, las Administradoras deberán de transferir los recursos a la Sociedad de Inversión que más beneficie los intereses del Trabajador de acuerdo a su perfil.
 
-###### Artículo 17.
+Los Trabajadores tendrán derecho, dentro del plazo que establezca la Comisión, mismo que deberá ser contado a partir de la fecha de vencimiento del plazo a que se refiere el párrafo segundo del presente artículo, a elegir las Sociedades de Inversión a las que deseen transferir sus recursos. El Trabajador podrá elegir Sociedades de Inversión cuyo objeto social y régimen de inversión sean compatibles con el tipo de recursos a transferir y por lo tanto los mismos puedan ser recibidos e invertidos por las Sociedades de Inversión seleccionadas.
 
-Para mejorar la integración, desarrollo, funcionamiento de la estructura orgánica, las escalas jerárquicas y la homologación de funciones, dentro del Servicio, la Secretaría realizará las acciones necesarias para implementar el Ceremonial, el Protocolo, el Código de Ética, el Manual de Uniformes y las Divisas por categoría, jerarquía o grado.
+Asimismo, las Administradoras deberán publicar en dos periódicos de circulación nacional y en el Diario Oficial de la Federación un aviso en que se informe de la modificación al régimen de inversión de la Sociedad de Inversión, las características de los Trabajadores para el derecho a solicitar la transferencia de sus recursos y la fecha de terminación del plazo para solicitar dicha transferencia.
 
-###### Artículo 18.
+Si una vez transcurrido el plazo fijado el Trabajador no ejerce el derecho a solicitar la transferencia de sus recursos, las Administradoras podrán transferir los recursos que hubieren estado invertidos en la Sociedad de Inversión cuyo régimen de inversión se modifique y que no correspondan al tipo de inversiones a conservar, a otra u otras Sociedades de Inversión operadas por las mismas, cuyo objeto y régimen de inversión sean compatibles con el tipo de recursos de que se trate de acuerdo con lo establecido en el artículo 47 de la Ley, debiendo las Administradoras considerar aquella que más beneficie al Trabajador.
 
-(DEROGADO, P.O. 28 DE MARZO DE 2014)
+Las Administradoras que no envíen las notificaciones o no realicen las publicaciones a que se refiere el presente artículo responderán de los daños y perjuicios que se causen a los Trabajadores por la modificación al régimen de inversión de la Sociedad de Inversión en que tuvieren invertidos sus recursos o por la transferencia de sus recursos a otra Sociedad de Inversión. También serán responsables cuando transfieran los recursos, en términos del párrafo anterior, a una Sociedad de Inversión que no sea compatible con el perfil del Trabajador.
 
-###### Artículo 19.
+###### ARTÍCULO 15.
 
-(DEROGADO, P.O. 28 DE MARZO DE 2014)
+Las Administradoras celebrarán con una institución para el depósito de valores, por sí mismas o a través de las empresas, instituciones de crédito o casas de bolsa, los actos necesarios para la guarda y administración de las acciones de las Sociedades de Inversión que operen y deberán distinguirlas de las inversiones propias que realicen, las de terceros o las constituidas con los recursos de los Trabajadores.
 
-###### Artículo 20.
+###### ARTÍCULO 16.
 
-El perfil del grado de los integrantes de Servicio, se establecerá en el Manual de Perfiles y Grados que para tal efecto elabore el Comité, en coordinación con la Unidad Administrativa que corresponda y la Academia.
+La Comisión determinará las medidas y procedimientos para la concertación, liquidación, guarda y custodia de valores aprobados por su Junta de Gobierno, oyendo la opinión favorable del Comité Consultivo y de Vigilancia, adquiridos fuera del territorio nacional, así como para evitar conflictos de interés. Las operaciones con estos valores se sujetarán a los usos y sanas prácticas de los mercados, atendiendo a los intereses de los Trabajadores.
 
-###### Artículo 21.
+###### ARTÍCULO 17.
 
-Cada miembro del Servicio para poder desempeñar un puesto, cargo o comisión, deberá sujetarse al perfil establecido y desarrollar las funciones y actividades inherentes al mismo.
+Las Sociedades de Inversión que celebren operaciones con los instrumentos a que se refiere el artículo 48 fracción IX de la Ley, podrán mantener los contratos abiertos correspondientes en mercados organizados y listados o, tratándose de operaciones no celebradas en estos mercados, deberán documentarlas mediante contratos marco. Lo anterior de conformidad con las características que, tanto de las operaciones como de los contratos, autorice el Banco de México, a propuesta de la Comisión.
 
-## TÍTULO TERCERO. DE LOS ÓRGANOS COLEGIADOS
+Asimismo, las Sociedades de Inversión podrán garantizar las operaciones con los instrumentos a que se refiere el párrafo anterior, conforme a las disposiciones aplicables.
 
-###### Artículo 22.
+###### ARTÍCULO 18.
 
-Para el óptimo funcionamiento del Servicio, la coordinación de acciones, la homologación de la función policial, y la seguridad jurídica, contará con los órganos colegiados siguientes:
+Las Sociedades de Inversión deberán celebrar contratos de intermediación, inversión, o depósito y administración con casas de bolsa o instituciones de crédito, para la adquisición de valores o concertación de operaciones dentro del territorio nacional.
 
-l. La Comisión de Honor; y
+###### ARTÍCULO 19.
 
-II. El Comité.
+Los valores objeto de las operaciones celebradas en el mercado nacional, deberán estar inscritos en el Registro Nacional de Valores. Tratándose de valores adquiridos en el exterior este requisito no será aplicable.
 
-### CAPÍTULO PRIMERO. DE LA ESCALA JERÁRQUICA EN EL SERVICIO
+###### ARTÍCULO 20.
 
-###### Artículo 23.
+Las Sociedades de Inversión sólo podrán adquirir valores que sean objeto de oferta pública, a través de colocaciones primarias o a través de operaciones de mercado abierto.
 
-La Comisión de Honor es el órgano colegiado de carácter permanente, cuyos integrantes tendrán cargos honoríficos y será la encargada de conocer, resolver e imponer las sanciones administrativas y separación por causales extraordinarias del Servicio, así como recibir y resolver los recursos de revocación e inconformidad tratándose de conductas probablemente constitutivas de delitos o violaciones a disposiciones administrativas; independientemente de la sanción, corrección disciplinaria o acto de separación, que debe ser ejecutada por dicha Comisión, deberá hacerlas del conocimiento de manera inmediata de la autoridad competente.
+Para efectos de lo dispuesto por el párrafo anterior se entenderá que son valores objeto de oferta pública en México, los que tengan este carácter conforme a lo dispuesto por la Ley del Mercado de Valores y los criterios de la Comisión Nacional Bancaria y de Valores. Se entenderá que son operaciones de mercado abierto aquéllas en las que participe el Banco de México ya sea por cuenta propia o en su carácter de agente financiero del Gobierno Federal.
 
-###### Artículo 24.
+En las operaciones celebradas en mercados del exterior se estará a las normas del mercado de que se trate para determinar cuándo se entiende que un valor es objeto de oferta pública o una operación es de mercado abierto.
 
-Para el cumplimiento de sus atribuciones, la Comisión de Honor contará con el apoyo de las Unidades Administrativas de la Secretaría, así como de los grupos de trabajo que al efecto se establezcan.
+###### ARTÍCULO 21.
 
-La Unidad de Asuntos Internos remitirá a la Comisión de Honor los expedientes relativos a las investigaciones de queja contra los miembros del servicio a efecto de que se inicie el procedimiento correspondiente y determine conforme a derecho e igualmente coadyuvará con la misma en las investigaciones que le encomiende.
+Las Administradoras deberán registrar diariamente en la Bolsa Mexicana de Valores, todas las operaciones que realicen con acciones de las Sociedades de Inversión que operen, su volumen diario operado por cada una de dichas Sociedades de Inversión y el precio vigente resultado de la valuación de las mismas.
 
-###### Artículo 25.
+Cuando se presenten las minusvalías previstas en el artículo 44 de la Ley, las Administradoras deberán realizar los ajustes necesarios, a más tardar el día hábil siguiente al que se haya dictaminado la minusvalía, a efecto de registrar el precio de las acciones de las Sociedades de Inversión que operen, en la Bolsa Mexicana de Valores.
 
-La Comisión de Honor, se integrará de la siguiente forma:
+###### ARTÍCULO 22.
 
-I. Un Presidente, que será designado por el Presidente Municipal, dentro de los miembros de la Secretaría;
+Las Sociedades de Inversión deberán respetar el límite máximo del parámetro de control de riesgo que determinen en su prospecto de información y que se ajuste a las disposiciones de carácter general que en materia de régimen de inversión expida la Comisión.
 
-II. Un Secretario Ejecutivo, que será un representante de la Comisión de Gobernación, Justicia y Seguridad Pública;
+Asimismo, en caso de que una Sociedad de Inversión se encuentre fuera del parámetro de riesgo aplicable, por causas imputables a la Administradora que la opere, y no por efectos de la variación de precios, deberá cubrir las minusvalías que en su caso se presenten con cargo a la reserva especial, y en caso de que ésta resulte insuficiente, con cargo a su capital social, de conformidad con el artículo 44 de la Ley y con las reglas de carácter general que para tal efecto emita la Comisión.
 
-III. Un Secretario Técnico, que será el Titular de la Coordinación Jurídica;
+### CAPÍTULO III. Disposiciones Comunes
 
-IV. Siete vocales, que serán los titulares de las direcciones, Administrativa, de Seguridad Pública. Tránsito Municipal, Centro de Emergencia y Respuesta Inmediata, Academia de Seguridad Pública, Prevención del Delito y Atención a Víctimas y Asuntos Internos; y
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-V. Un representante de la Contraloría Municipal, quien tendrá derecho a voz pero no a voto.
+###### ARTÍCULO 23.
 
-A las sesiones de la Comisión de Honor podrá asistir el miembro del Servicio considerado como probable infractor y un elemento de la Unidad Administrativa a la que se encuentre adscrito aquél, quien sólo tendrá derecho a voz, nombrado por el titular de ésta y de quien se puedan obtener elementos de consideración sobre el asunto que se vaya a tratar.
+Los Trabajadores deberán contar con una sola Cuenta Individual de los Sistemas de Ahorro para el Retiro.
 
-###### Artículo 26.
+En caso de que el Trabajador cuente con dos o más Cuentas Individuales, éstas se unificarán en la institución financiera que, de conformidad con la Ley, pueda operar todas las subcuentas que integran su Cuenta Individual.
 
-La Comisión de Honor tendrá las atribuciones y facultades siguientes:
+De conformidad con lo anterior, la Comisión establecerá los criterios y determinará las características de los sistemas operativos y tecnológicos que permitan la unificación de las Cuentas Individuales de los Trabajadores.
 
-I. Analizar las faltas cometidas y causales de separación extraordinaria de los miembros del Servicio, escuchando en todo caso los argumentos del probable infractor;
+###### ARTÍCULO 24.
 
-II. Recibir y determinar conforme corresponda, los expedientes de queja que remita la Unidad de Asuntos Internos, pudiéndose auxiliar de la misma el cumplimiento de sus atribuciones;
+Las Cuentas Individuales de los Trabajadores que acumulen recursos bajo dos o más de los distintos regímenes a que se refiere el artículo anterior, deberán integrarse por las subcuentas que correspondan a cada uno de los regímenes en que hayan acumulado recursos.
 
-III. Determinar y graduar la aplicación de sanciones a los miembros infractores del servicio, de conformidad con el presente Reglamento y el Reglamento Interior;
+Tratándose de las subcuentas de aportaciones voluntarias y complementarias de retiro sólo podrá haber una de cada una de éstas por Cuenta Individual.
 
-IV. Conocer y resolver sobre los medios de impugnación que se interpongan en contra de las resoluciones emitidas por la misma;
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-V. Informar al Comité de la separación de los miembros del Servicio por incumplimiento de los requisitos de permanencia;
+En el caso de Trabajadores no Afiliados que posteriormente se encuentren sujetos a un régimen diferente, los recursos correspondientes a la Subcuenta de Ahorro a Largo Plazo de su Cuenta Individual se deberán mantener separados de la subcuenta de aportaciones complementarias de retiro, salvo que el trabajador manifieste por escrito a la Administradora su decisión de que tales recursos sean acumulados.
 
-VI. Supervisar y atestiguar las Evaluaciones del Desempeño realizadas al personal de la Secretaria; y
+###### ARTÍCULO 25.
 
-VII. Las demás que señale el Reglamento, así como las disposiciones legales y administrativas aplicables.
+En caso de que las Administradoras tengan conocimiento, por cualquier medio, de que se encuentran operando la Cuenta Individual de un Trabajador que ya tuviese abierta otra u otras Cuentas Individuales, deberán proceder, en coordinación con las Empresas Operadoras, a la unificación de las cuentas correspondientes.
 
-###### Artículo 27.
+###### ARTÍCULO 26.
 
-La Comisión de Honor sesionará en la sede de la Secretaría, de acuerdo a lo siguiente:
+En caso de que un Trabajador abra una Cuenta Individual conforme al artículo 74 ter de la Ley y ya contara con una Cuenta Individual abierta conforme a los artículos 74 o 74 bis de la Ley, se deberá observar lo siguiente:
 
-l. La convocatoria será emitida por el Secretario Técnico;
+I. Los recursos correspondientes a la Subcuenta de Ahorro a Largo Plazo se acumularán en la subcuenta de aportaciones complementarias de retiro, siempre que la primera no otorgue derecho a efectuar retiro parcial o total de los recursos antes de que su titular tenga derecho a una pensión. En caso contrario se podrán mantener las subcuentas separadas, y
 
-II. Se le deberá notificar a sus miembros por escrito, con al menos setenta y dos horas de anticipación;
+II. Los recursos correspondientes a la subcuenta de aportaciones voluntarias se acumularán en la misma subcuenta de la Cuenta Individual unificadora.
 
-III. Se especificarán los asuntos a tratar; y
+###### ARTÍCULO 27.
 
-IV. Las sesiones serán privadas.
+Las Administradoras podrán establecer subcuentas adicionales a las señaladas en el presente Reglamento, para otorgar opciones de ahorro a los Trabajadores, conforme a las disposiciones de carácter general que emita la Comisión.
 
-### CAPÍTULO SEGUNDO. DE LOS NIVELES DE MANDO
+### CAPÍTULO IV. DE LAS CUENTAS INDIVIDUALES DE LOS TRABAJADORES AFILIADOS
 
-#### SECCIÓN PRIMERA. DEL EXAMEN TOXICOLÓGICO
+#### Sección I. De los Derechos de los Trabajadores Afiliados relacionados con su Cuenta Individual
 
-###### Artículo 28.
+###### ARTÍCULO 28.
 
-Sólo en casos extraordinarios, se convocará a reunión en otro lugar, por cuestiones de seguridad o por confidencialidad respecto a los asuntos que vayan a tratarse.
+El Trabajador Afiliado en relación con su Cuenta Individual, tendrá los siguientes derechos:
 
-#### SECCIÓN SEGUNDA. DEL EXAMEN MÉDICO
+I. Elegir la Administradora en la que desee abrir su Cuenta Individual;
 
-###### Artículo 29.
+II. El envío de sus recursos, en términos del artículo 29 de este Reglamento, a las Administradoras que cobren las comisiones más bajas, cuando el Trabajador Afiliado no elija Administradora;
 
-Habrá quórum legal en las sesiones de la Comisión de Honor, con la mitad más uno de sus integrantes. Todos los miembros tendrán derecho a voz y voto, sus resoluciones serán tomadas por mayoría simple, en caso de empate, el Presidente tendrá voto de calidad.
+III. Tramitar su registro en la Administradora de su elección, por cualquiera de los medios a que se refiere el artículo 30 del presente Reglamento;
 
-En caso de no existir quórum legal, se citará a una segunda sesión dentro de las setenta y dos horas siguientes, la cual se realizará con los integrantes que se encuentren presentes.
+IV. Solicitar información a la Administradora elegida a través de cualquier medio de comunicación disponible, a efecto de que el Trabajador Afiliado cuente con información relacionada con su Cuenta Individual;
 
-#### SECCIÓN TERCERA. DEL EXAMEN DE CONOCIMIENTOS GENERALES
+V. Celebrar un contrato de administración de fondos para el retiro con la Administradora en que se registre el Trabajador Afiliado, donde consten los términos y condiciones sobre los cuales se administrará la Cuenta Individual del mismo;
 
-###### Artículo 30.
+VI. Realizar aportaciones voluntarias y complementarias de retiro a su Cuenta Individual, por cualquiera de los medios a que se refiere el artículo 45, del presente Reglamento;
 
-El voto de los integrantes será secreto y se realizará mediante papeletas que serán depositadas en una urna transparente cerrada.
+VII. Designar beneficiarios, para que cuando proceda, éstos dispongan de las aportaciones voluntarias y complementarias de retiro que sean depositadas en la Cuenta Individual del Trabajador Afiliado;
 
-El Secretario Técnico de la Comisión de Honor deberá elaborar un acta circunstanciada en la que se registre el desarrollo, las resoluciones, la votación y acuerdos tomados en cada sesión.
+VIII. Elegir que los recursos de su Cuenta Individual, a excepción de los correspondientes a la Subcuenta de Vivienda, sean invertidos en una o más Sociedades de Inversión que sean operadas por la Administradora que opere su cuenta, siempre que sean compatibles con lo establecido en el prospecto de información de la Sociedad de Inversión de que se trate;
 
-###### Artículo 31.
+IX. Recibir, por lo menos dos veces al año, en el domicilio que le indique el Trabajador Afiliado a la Administradora que opere su Cuenta Individual, los estados de cuenta y demás información sobre la misma;
 
-El miembro del Servicio considerado como probable infractor, deberá, ser notificado del hecho que se le imputa con mínimo de cinco días hábiles previos a la fecha de la sesión, en donde la Comisión de Honor sustanciará el procedimiento correspondiente, corriéndole traslado de la acusación que se le imputa y dejando a su disposición el expediente para consulta en el lugar que se le indique, a efecto de que manifieste lo que a su derecho corresponda.
+X. Solicitar el traspaso de su Cuenta Individual a otra Administradora distinta a la que la venía administrando, en términos de lo dispuesto por el artículo 49 del presente Reglamento;
 
-###### Artículo 32.
+XI. Solicitar el resarcimiento de los daños y perjuicios causados, cuando el Trabajador Afiliado acredite haber sido objeto de un registro o traspaso indebido en términos de lo dispuesto por los artículos 34 y 51 de este Reglamento;
 
-Cuando algún integrante de la Comisión de Honor tenga una relación afectiva, familiar, profesional, diferencia personal o de otra índole con el miembro del Servicio considerado como probable infractor, o con el representante de éste, que impida una actuación imparcial de su encargo, deberá excusarse.
+XII. Realizar retiros de su Cuenta Individual conforme a lo establecido en la Ley del Seguro Social, la Ley, este Reglamento y las disposiciones de carácter general que al efecto emita la Comisión;
 
-###### Artículo 33.
+XIII. A que las Empresas Operadoras tengan la información de las Cuentas Individuales del Trabajador Afiliado en la Base de Datos Nacional SAR;
 
-Si algún miembro de la Comisión de Honor no se excusare, debiendo hacerlo, podrá ser recusado por el miembro del Servicio considerado como probable infractor, o su representante, para que se abstenga del conocimiento del asunto, debiendo el Presidente resolver sobre el particular.
+XIV. Que el IMSS e INFONAVIT proporcionen de manera continua a los Participantes en los Sistemas de Ahorro para el Retiro, la información relacionada con el Trabajador Afiliado y con las resoluciones otorgadas a éstos o a sus beneficiarios para la procedencia de disposición de los recursos de la Cuenta Individual, y
 
-###### Artículo 34.
+XV. Los demás que establezcan las disposiciones aplicables.
 
-El Presidente de la Comisión de Honor tendrá las atribuciones y obligaciones siguientes:
+Los derechos a que se refiere el presente artículo deberán considerarse en forma enunciativa mas no limitativa.
 
-l. Presidir la Comisión de Honor;
+#### Sección II. De la Asignación de los Trabajadores Afiliados
 
-II. Proponer las estrategias organizativas y administrativas para el desarrollo de sus procedimientos y la aplicación de los instrumentos correspondientes;
+###### ARTÍCULO 29.
 
-III. Proponer la agenda de trabajo;
+Para proteger los intereses de los Trabajadores que no elijan Administradora, sus recursos serán enviados a las Administradoras que cobren las comisiones más bajas, de conformidad con los criterios de la Junta de Gobierno de la Comisión para preservar el equilibrio de los Sistemas de Ahorro para el Retiro, las cuales les deberán abrir una Cuenta Individual, de conformidad con lo previsto por el artículo 76 de la Ley.
 
-IV. Presidir y coordinar las reuniones de trabajo;
+A efecto de brindar al Trabajador Afiliado seguridad jurídica respecto de la Administradora a la que se enviaron sus recursos, las Empresas Operadoras deberán tener disponible para consulta de las Administradoras y de la Comisión, una base de datos que contenga los nombres de los Trabajadores Afiliados cuyos recursos fueron enviados a una Administradora en términos del párrafo anterior.
 
-V. Ser enlace entre la Comisión de Honor y otras entidades; y
+Las Administradoras deberán aplicar a las Cuentas Individuales de los Trabajadores Afiliados cuyos recursos les fueren enviados, las mismas condiciones de contratación y comisiones vigentes establecidas para las demás Cuentas Individuales que tengan registradas.
 
-VI. Las demás que señale el Reglamento, las disposiciones legales y administrativas aplicables.
+Asimismo, las Administradoras deberán tener actualizados los datos de los Trabajadores Afiliados cuyos recursos les fueren enviados, conforme la información que por vía electrónica reciban de las Empresas Operadoras y que se deriven de actualizaciones del catálogo nacional de asegurados que el IMSS entregue a dichas Empresas Operadoras.
 
-#### SECCIÓN CUARTA. DEL EXAMEN DEL ESTUDIO DE PERSONALIDAD
+#### Sección III. Del Proceso de Registro de los Trabajadores Afiliados
 
-###### Artículo 35.
+###### ARTÍCULO 30.
 
-El Secretario Técnico de la Comisión de Honor tendrá las atribuciones y obligaciones siguientes:
+El Trabajador Afiliado tendrá derecho a elegir la Administradora en la que desee abrir su Cuenta Individual, por alguno de los siguientes medios:
 
-I. Citar a los miembros de la Comisión de Honor a la sesión que corresponda;
+I. De manera directa, para lo cual el Trabajador Afiliado podrá acudir a las oficinas o sucursales de la Administradora seleccionada;
 
-II. Verificar la existencia de quórum legal para sesionar;
+II. A través de los agentes promotores que actúen por cuenta y orden de las Administradoras, o
 
-III. Coordinar las actividades de los grupos de trabajo que se hayan establecido;
+III. A través de los equipos y sistemas automatizados o de telecomunicación previstos en el contrato de administración de fondos para el retiro.
 
-IV. Elaborar las actas circunstanciadas a que haya lugar y darlas a conocer a los integrantes de la Comisión de Honor, a fin de recabar las firmas correspondientes; y
+En el caso previsto en la fracción III, deberá observarse lo dispuesto por los artículos 89 al 94 del Código de Comercio.
 
-V. Apoyar al Presidente en todas las funciones y cumplir con las responsabilidades que le designe.
+Los equipos y sistemas automatizados o de telecomunicación se emplearán en beneficio del Trabajador Afiliado a efecto de brindar mayor comodidad, agilidad y simplicidad en el proceso de registro.
 
-#### SECCIÓN QUINTA. DE LA PRUEBA DE CONTROL Y CONFIANZA
+###### ARTÍCULO 31.
 
-###### Artículo 36.
+El Trabajador Afiliado tendrá derecho a celebrar un contrato de administración de fondos para el retiro con la Administradora que haya elegido, en términos del artículo 29 fracción III de la Ley.
 
-Los vocales tendrán como obligación cumplir con todas las funciones y responsabilidades que les designe el Presidente.
+###### ARTÍCULO 32.
 
-###### Artículo 37.
+Se establecerán medidas para proteger los recursos del Trabajador Afiliado durante el proceso de registro. Para tal efecto las Empresas Operadoras con base en la información contenida en la Base de Datos Nacional SAR, certificarán la procedencia del registro del Trabajador Afiliado en la Administradora que haya elegido, haciendo del conocimiento de la Administradora de que se trate, de la aceptación o rechazo de registro.
 
-Son facultades y obligaciones del representante de la Contraloría Municipal, las conferidas en su Reglamento Interior, así como en los ordenamientos legales aplicables.
+El registro de un Trabajador Afiliado en una Administradora, surtirá efectos jurídicos a partir de su inscripción en la Base de Datos Nacional SAR, momento en el que se entenderá manifestado el consentimiento de la Administradora para obligarse en los términos del contrato de administración de fondos para el retiro, por lo que la falta de firma del representante de la Administradora en el contrato, no afectará la validez del mismo.
 
-###### Artículo 38.
+El Trabajador Afiliado tendrá derecho a solicitar información a la Administradora elegida a través de cualquier medio de comunicación disponible, a efecto de que cuente con información relacionada al estado que guarda su trámite de registro.
 
-El Comité es el órgano colegiado encargado de ejecutar las disposiciones administrativas relativas al Servicio y cuyos miembros tendrán cargos honoríficos.
+###### ARTÍCULO 33.
 
-#### SECCIÓN SEXTA. DEL EXAMEN DE CAPACIDAD FÍSICO-ATLÉTICA
+Las Empresas Operadoras para otorgar seguridad al Trabajador Afiliado al realizar la certificación a que se refiere el artículo anterior, deberán verificar que no se encuentra registrada en la Base de Datos Nacional SAR otra Cuenta Individual a nombre del Trabajador Afiliado.
 
-###### Artículo 39.
+Asimismo, las Empresas Operadoras deberán verificar que se cumple con lo establecido en la Ley y en las disposiciones de carácter general que al efecto establezca la Comisión para la apertura de la Cuenta Individual del Trabajador Afiliado.
 
-El Comité para el desahogo de los asuntos de su competencia, se auxiliará de las Unidades Administrativas de la Secretaría y podrá constituir además, los grupos de trabajo necesarios para la realización de sus funciones, que serán, entre otras, la supervisión de los siguientes procedimientos:
+###### ARTÍCULO 34.
 
-l. Reclutamiento;
+Para proteger los intereses de los Trabajadores Afiliados, las Administradoras serán responsables del registro indebido de Trabajadores Afiliados.
 
-II. Selección e Ingreso;
+La Administradora deberá resarcir el monto de las comisiones cobradas durante la administración indebida de la Cuenta Individual, calculadas a partir de la fecha de certificación del registro por la Empresa Operadora de que se trate, a aquel Trabajador Afiliado que acredite haber sido objeto de un registro indebido. Lo anterior, sin perjuicio de las sanciones que conforme a la Ley u otros ordenamientos legales fueren aplicables.
 
-III. Permanencia;
+Para efectos de lo señalado en el párrafo anterior, el Trabajador Afiliado podrá manifestar por escrito ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, que la Administradora efectuó su registro sin que hubiera otorgado su consentimiento, dentro de los ciento ochenta días hábiles siguientes a la fecha en que el Trabajador Afiliado tenga conocimiento que fue inscrito en la Base de Datos Nacional SAR. Una vez transcurrido el plazo se entenderá que el registro fue realizado a entera satisfacción del Trabajador Afiliado.
 
-IV. Promociones;
+El Trabajador Afiliado que haga del conocimiento de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, que ha sido objeto de un registro indebido, dentro del plazo señalado en el párrafo anterior, y siempre que tal circunstancia haya sido acreditada, podrá solicitar su registro en otra Administradora, sin necesidad de que transcurra el periodo mínimo de permanencia que le hubiera sido aplicable.
 
-V. Estímulos;
+#### Sección IV. De la Integración de la Cuenta Individual de los Trabajadores Afiliados
 
-VI. Capacitación;
+###### ARTÍCULO 35.
 
-VII. Conclusión del Servicio;
+Las Cuentas Individuales de los Trabajadores Afiliados se integrarán conforme al artículo 74 de la Ley, por las siguientes subcuentas:
 
-VIII. Autorización de Procedimientos e Instructivos; y
+I. Retiro, cesantía en edad avanzada y vejez, relativa al Seguro de RCV, en la cual deberán identificarse por separado los recursos correspondientes a las cuotas por el ramo de retiro, de los recursos correspondientes a las cuotas y aportaciones por los ramos de cesantía en edad avanzada y vejez, así como de los de la cuota social;
 
-IX. Supervisión presencial de las evaluaciones del Desempeño, Habilidades, Destrezas y Conocimientos.
+II. Vivienda;
 
-Asimismo, para efectos del seguimiento, control y trámite de los procedimientos que se lleven a cabo por el Comité, éste podrá contar con un grupo de apoyo para el desahogo de los trámites administrativos y jurídicos, o bien apoyarse con las Unidades Administrativas correspondientes.
+III. Aportaciones Voluntarias, y
 
-En casos específicos, el Comité podrá auxiliarse de especialistas y expertos en la materia, quienes tendrán el carácter de invitados a las sesiones de trabajo, con voz pero sin voto.
+IV. Aportaciones Complementarias de Retiro.
 
-###### Artículo 40.
+#### Sección V. De la Recepción de Cuotas y Aportaciones de los Trabajadores Afiliados
 
-El Comité estará integrado de la siguiente forma:
+###### ARTÍCULO 36.
 
-I. Un Presidente, que será el Comisario;
+La recaudación de las cuotas del Seguro de RCV, de las Aportaciones al INFONAVIT, amortización por créditos de vivienda y las actualizaciones y recargos por pagos extemporáneos y, en su caso, de las aportaciones voluntarias o complementarias de retiro de los Trabajadores Afiliados, se llevará a cabo por las Entidades Receptoras, que actuarán por cuenta y orden de los Institutos de Seguridad Social respectivos, previo convenio que celebren con éstos.
 
-II. Un Secretario Ejecutivo, que será el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública o quien éste designe;
+###### ARTÍCULO 37.
 
-III. Un Secretario Técnico que será el Director de la Academia de la Secretaría;
+Las Entidades Receptoras, al recibir la información y los recursos relativos a las obligaciones obrero patronales, deberán depositar los recursos correspondientes al Seguro de RCV y, en su caso, las aportaciones voluntarias y complementarias de retiro, en la Cuenta Concentradora a que se refiere el artículo 75 de la Ley.
 
-IV. Seis vocales que serán designados por el Presidente Municipal, de entre las Unidades Administrativas de la Secretaría;
+Las instituciones de crédito que presten servicios de Entidad Receptora deberán contar con los medios, sistemas y procedimientos que permitan el depósito en la Cuenta Concentradora y en la cuenta que el Banco de México le lleve al INFONAVIT, de los recursos que reciban.
 
-V. Un representante de la Comisión de Gobernación, Justicia y Seguridad Pública;
+Las Entidades Receptoras que no tengan el carácter de institución de crédito, deberán contratar los servicios de una institución de crédito para el depósito de los recursos que recauden en las cuentas a que se refiere el párrafo anterior.
 
-VI. Un representante de la Tesorería Municipal; y
+Tratándose de los recursos provenientes de las Aportaciones al INFONAVIT, de su actualización, accesorios y descuentos a los Trabajadores Afiliados por concepto de créditos de vivienda otorgados al amparo de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las Entidades Receptoras deberán transferirlos al Banco de México en los términos de la Ley del mencionado Instituto.
 
-VII. Un representante de la Contralaría Municipal.
+La Secretaría calculará el monto de las aportaciones que corresponde efectuar al Gobierno Federal y el correspondiente a las cuotas sociales del Seguro de RCV, a que se refiere el artículo 168, fracciones III y IV, de la Ley del Seguro Social, de acuerdo a la información que le entreguen las Empresas Operadoras. Con base en la información referida, la Secretaría determinará los importes totales que se entregarán a cada Administradora, así como a la Cuenta Concentradora según sea el caso.
 
-###### Artículo 41.
+###### ARTÍCULO 38.
 
-Los integrantes del Comité podrán designar representantes, quienes deberán tener como mínimo la categoría inmediata inferior del titular. El voto emitido por sus integrantes, será secreto, y se llevará a cabo mediante el procedimiento que en su momento determine la misma.
+El IMSS y el INFONAVIT determinarán en los convenios que celebren con las Entidades Receptoras, las comisiones máximas que podrán cobrar estas entidades por la recaudación de las cuotas y aportaciones de los Trabajadores Afiliados.
 
-###### Artículo 42.
+#### Sección VI. De la Dispersión de las Cuotas y Aportaciones de los Trabajadores Afiliados a las Administradoras
 
-El Comité tendrá las siguientes atribuciones:
+###### ARTÍCULO 39.
 
-l. Coordinar y dirigir el Servicio en el ámbito de su competencia;
+Las Empresas Operadoras deberán identificar la Administradora en que esté registrado cada uno de los Trabajadores Afiliados, y dispersar la información relativa a las cuotas y aportaciones correspondientes a las subcuentas a que se refiere el artículo 35 de este Reglamento.
 
-II. Aprobar y supervisar los procedimientos relativos a:
+###### ARTÍCULO 40.
 
-a) Planeación;
+Los recursos que por cualquier causa no puedan individualizarse o dispersarse por encontrarse en alguno de los procesos de aclaración, serán acumulados en la Cuenta Concentradora hasta que se resuelva la aclaración.
 
-b) Reclutamiento;
+Las cuotas y aportaciones de los Trabajadores Afiliados que no elijan Administradora, según conste en la Base de Datos Nacional SAR, serán conservadas en la Cuenta Concentradora hasta que los Trabajadores lleven a cabo su registro o la Comisión les asigne Administradora en los términos del artículo 29 de este Reglamento.
 
-c) Selección de aspirantes;
+Para la protección de los intereses de los Trabajadores Afiliados, la información de los recursos que se encuentren en aclaración, así como la correspondiente a las cuotas y aportaciones de los Trabajadores Afiliados que no elijan Administradora deberá ser conservada por las Empresas Operadoras.
 
-d) formación inicial;
+###### ARTÍCULO 41.
 
-e) Ingreso;
+Para la dispersión de las cuotas y aportaciones de los Trabajadores Afiliados, las Empresas Operadoras podrán contratar los servicios de Instituciones de Crédito Liquidadoras, para lo cual requerirán previa opinión favorable de la Comisión y del Banco de México.
 
-f) Formación continua y especializada;
+Las Instituciones de Crédito Liquidadoras deberán:
 
-g) Evaluación para la permanencia;
+I. Recibir de la Cuenta Concentradora los recursos provenientes del Seguro de RCV y, en su caso, de las aportaciones voluntarias y complementarias de retiro de los Trabajadores Afiliados, para ser transferidos a las Administradoras;
 
-h) Desarrollo y promoción;
+II. Entregar a las Administradoras los recursos provenientes del Seguro de RCV y, en su caso, de las aportaciones voluntarias y complementarias de retiro de los Trabajadores Afiliados;
 
-i) Estímulos; y
+III. Recibir y entregar los recursos de la Subcuenta de Vivienda a las Administradoras que correspondan por cuenta y orden del INFONAVIT;
 
-j) Evaluación del Desempeño, Habilidades, Destrezas y Conocimientos.
+IV. Reportar diariamente a las Empresas Operadoras, la recepción y entrega de los recursos mencionados en las fracciones anteriores.
 
-III. Determinar quiénes de los aspirantes cumplen con los requisitos que se establecen en todos los casos, a través de los procedimientos mencionados en el párrafo anterior;
+Las Empresas Operadoras deberán reportar a la Comisión, la información a que se refiere la presente fracción, en los términos y con las características previstas en las reglas generales aplicables a la entrega de información que emita la Comisión.
 
-IV. Verificar el cumplimiento de los requisitos de ingreso y permanencia de los miembros del Servicio y expedir los pases para las evaluaciones;
+###### ARTÍCULO 42.
 
-V. Aprobar los mecanismos para el otorgamiento de estímulos a los miembros del Servicio;
+Las Instituciones de Crédito Liquidadoras deberán contar con los medios y sistemas requeridos para la operación del sistema electrónico de pago que determine la Comisión, oyendo la opinión del Banco de México.
 
-VI. Proponer las reformas necesarias al Servicio;
+#### Sección VII. De la Individualización de las cuotas y aportaciones de los Trabajadores Afiliados
 
-VII. Conocer y resolver sobre el otorgamiento de constancias de grado y ascensos;
+###### ARTÍCULO 43.
 
-VIII. Conocer y resolver las controversias que se susciten en materia del Servicio, de asuntos que no se encuentren dentro del ámbito de competencia de la Comisión de Honor;
+Las Administradoras, para la individualización de los recursos e información de las Cuentas Individuales de los Trabajadores Afiliados que administren, deberán llevar a cabo las siguientes acciones:
 
-IX. Conocer de las bajas o separación del Servicio por: renuncia, muerte, jubilación o remoción de los integrantes, así como por el incumplimiento de los requisitos de permanencia que señala el Reglamento;
+I. Recibir, por medio de las Empresas Operadoras a través de medios electrónicos o excepcionalmente de manera directa en sus oficinas, la información de los recursos correspondientes a las cuotas del Seguro de RCV, de las Aportaciones al INFONAVIT, de las aportaciones voluntarias y de las aportaciones complementarias de retiro correspondientes a cada Trabajador;
 
-X. Coordinarse con las demás autoridades e instituciones, a cuya área de atribuciones y actividades correspondan obligaciones relacionadas con el Servicio; y
+II. Recibir, registrar e invertir en las Sociedades de Inversión que administren, los recursos de la subcuenta de retiro, cesantía en edad avanzada y vejez, relativa al Seguro de RCV, de la subcuenta de aportaciones voluntarias y de la subcuenta de aportaciones complementarias de retiro, de acuerdo al porcentaje de participación que hayan determinado los Trabajadores Afiliados, y
 
-XI. Las demás que señale el Reglamento, así como las disposiciones legales y administrativas aplicables para el funcionamiento del Servicio.
+III. Registrar la información correspondiente a las Aportaciones al INFONAVIT, así como los rendimientos generados de acuerdo a la tasa de interés determinada y notificada por el INFONAVIT.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2014)</small>
+###### ARTÍCULO 44.
 
-Para el cumplimiento correcto del presente artículo, el Comité contará con un registro del Plan Individual de Carrera Policial, que contenga mínimamente una base de datos con la información completa del miembro del servicio, para lo cual, las diferentes áreas que integran la Secretaría, deberán de proporcionar la información que corresponda.
+Las Administradoras deberán entregar a las Empresas Operadoras, la información relativa a las cuotas y aportaciones que se depositen en las Cuentas Individuales de los Trabajadores Afiliados.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2014)</small>
+#### Sección VIII. De las Aportaciones Voluntarias y Complementarias de Retiro de los Trabajadores Afiliados
 
-###### Artículo 42 Bis.
+###### ARTÍCULO 45.
 
-El Plan Individual de Carrera es la herramienta que contiene el registro de la ruta profesional de cada miembro del servicio, desde el momento en que ingresa a la Institución y hasta que causa baja de la misma; con la intención de fomentar en el integrante un sentido de pertenencia y para otorgarle certeza y certidumbre al conservar la categoría y jerarquía a la que vaya accediendo. Al respecto el registro de Plan Individual de Carrera se integrará por:
+Los Trabajadores Afiliados tendrán en todo tiempo el derecho a realizar aportaciones voluntarias o complementarias de retiro a su Cuenta Individual, pudiendo realizarlas por cualquiera de los siguientes medios:
 
-I. Ascenso de nivel escolar o grado académico;
+I. De manera directa, para lo cual el Trabajador Afiliado o su patrón podrán acudir a las oficinas o sucursales de la Administradora que opere la Cuenta Individual;
 
-II. Promociones de grado;
+II. A través de las entidades receptoras o de las personas morales que, en su caso, presten los servicios de recepción de ese tipo de recursos a la Administradora, o
 
-III. Comisiones en Unidades Administrativas;
+III. A través de los equipos y sistemas automatizados o de telecomunicación previstos en el contrato de administración de fondos para el retiro.
 
-IV. Cursos de capacitación continua, especializada u otros;
+###### ARTÍCULO 46.
 
-V. Estímulos, reconocimientos o recompensas obtenidos;
+Para protección de los Trabajadores Afiliados, las Administradoras no podrán por ningún motivo, recibir aportaciones voluntarias o complementarias de retiro a través de sus agentes promotores.
 
-VI. Sanciones basadas en el Régimen Disciplinario;
+###### ARTÍCULO 47.
 
-VII. Fecha de evaluaciones: control de confianza, habilidades, destrezas, conocimientos y desempeño; y
+Tendrán derecho a disponer de los recursos depositados en las subcuentas de aportaciones voluntarias o de aportaciones complementarias de retiro, aquellas personas que designen como sus beneficiarios, los Trabajadores Afiliados titulares de las Cuentas Individuales en que se hayan depositado los recursos correspondientes a esas subcuentas, y a falta de los beneficiarios designados, se estará a lo dispuesto por el derecho común de cada entidad federativa, considerando el domicilio del titular de la Cuenta Individual.
 
-VIII. Actividades inherentes al servicio, como son las remisiones y aseguramientos.
+#### Sección IX. Del Derecho de los Trabajadores Afiliados a la información de su Cuenta Individual
 
-#### SECCIÓN SÉPTIMA. DEL EXAMEN PATRIMONIAL Y DE ENTORNO SOCIAL
+###### ARTÍCULO 48.
 
-###### Artículo 43.
+Los Trabajadores Afiliados tendrán derecho a recibir, por lo menos dos veces al año, en el domicilio que indiquen, sus estados de cuenta y el estado de inversiones, donde se deberán destacar las aportaciones patronales, del Estado y del Trabajador Afiliado, y el número de días de cotización registrado durante cada bimestre que comprenda el periodo del estado de cuenta, así como las comisiones cobradas por la Administradora y las Sociedades de Inversión que ésta administre.
 
-El Comité, tendrá las siguientes obligaciones:
+Los Trabajadores podrán notificar para tal efecto a la Administradora que opere su Cuenta Individual, sus cambios de domicilio.
 
-l. Aprobar el manual operativo de procedimientos, materia del Reglamento;
+Los estados de cuenta a que se refiere el primer párrafo, serán enviados semestralmente, el primero comprenderá la información relativa al periodo comprendido del 1o. de enero al 30 de junio, y el segundo al periodo comprendido del 1o. de julio al 31 de diciembre de cada año. Los documentos señalados deberán ser enviados a los Trabajadores Afiliados en un plazo no mayor a treinta días naturales siguientes a la fecha de corte.
 
-II. Vigilar que se emitan, publiquen y difundan las convocatorias correspondientes para el cumplimiento de los objetivos del Servicio en los términos que señala el Reglamento;
+Las Administradoras sólo podrán suspender el envío de los estados de cuenta cuando se cercioren justificadamente de que la dirección proporcionada no existe, o de que el Trabajador Afiliado no tiene su domicilio en el lugar indicado. En ambos casos, las Administradoras deberán conservar los estados de cuenta a través de medios electrónicos e imprimirlos cuando el Trabajador Afiliado lo solicite.
 
-III. Determinar las formas de reclutamiento;
+En todo caso los estados de cuenta se sujetarán a lo dispuesto en las reglas de carácter general que para tal efecto emita la Comisión.
 
-IV. Verificar que la Unidad Administrativa responsable de Operar el procedimiento de ingreso y Selección, compruebe la autenticidad de los documentos presentados por los aspirantes, mediante compulsa;
+#### Sección X. Del Traspaso de Cuentas Individuales de los Trabajadores Afiliados
 
-V. Vigilar que se reciban las solicitudes y documentación de los aspirantes, en la fecha señalada en la convocatoria;
+###### ARTÍCULO 49.
 
-VI. Verificar que la Unidad de Análisis, realice la consulta correspondiente en el Registro Nacional los antecedentes de los aspirantes, imprimiendo el comprobante de la consulta que emita el Sistema;
+Los Trabajadores Afiliados tendrán derecho a solicitar el traspaso de su Cuenta Individual a otra Administradora distinta a la que la venía administrando, a través de los medios a que se refiere el artículo 30 de este Reglamento, en los siguientes casos:
 
-VII. Supervisar que se den a conocer los resultados a todos los aspirantes, aún cuando resultaran como no aptos para el puesto, en el caso de los que resultaran aptos, supervisará que se proceda con la aplicación de las evaluaciones de selección, mediante la aplicación del procedimiento correspondiente;
+I. Transcurrido un año calendario contado a partir de que se registró o contado a partir de la última ocasión en que haya ejercitado su derecho a traspaso;
 
-VIII. Registrar los nombramientos y constancias de grado;
+II. Si la Administradora que opere la Cuenta Individual modificara su estructura de comisiones, siempre y cuando la modificación implique un incremento en las comisiones que se cobren al Trabajador Afiliado;
 
-IX. Verificar que se cumplan los requisitos de ingreso y permanencia de los integrantes del Servicio; y
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2005)</small>
 
-X. Las demás que le confieran las leyes y el Reglamento.
+III. Si la Administradora modificara el régimen de inversión de la Sociedad de Inversión en que el Trabajador Afiliado tenga invertidos sus recursos;
 
-###### Artículo 44.
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2005)</small>
 
-El Comité podrá sugerir, proponer y/o solicitar a la Academia, programas y eventos académicos acordes a los procedimientos de formación inicial, continua y especializada y evaluación para la permanencia del personal en activo.
+IV. Si la Administradora que opere la Cuenta Individual entrara en estado de disolución o se fusionara con otra Administradora. Para efectos de esta fracción, el derecho de traspaso sólo corresponderá a los Trabajadores Afiliados que se encuentren registrados en la Administradora fusionada;
 
-#### SECCIÓN OCTAVA. DE LA ORGANIZACIÓN DE LOS EXÁMENES Y EVALUACIONES
+> <small>(ADICIONADA, D.O.F. 2 DE MAYO DE 2005)</small>
 
-###### Artículo 45.
+V. Si el Trabajador Afiliado elige traspasar su Cuenta Individual a una Administradora que cobre comisiones más bajas que las que cobra la Administradora que opere su Cuenta Individual.
 
-Los integrantes del Comité tendrán derecho a voz y voto, a excepción de los representantes de la Tesorería y Contraloría Municipal, quienes sólo tendrán voz. Dichos integrantes deberán cumplir las encomiendas que les sean encargadas por el Presidente de la misma.
+El traspaso se realizará de conformidad con lo establecido en los artículos 74 y 78 de la Ley y en las disposiciones de carácter general que expida la Comisión.
 
-El Comité sesionará en las oficinas de la Secretaría, previa convocatoria del Secretario Técnico, teniendo quórum legal si se encontrasen la mitad más uno de sus miembros.
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-Las resoluciones o acuerdos del Comité se tomarán por votación de la mayoría de sus integrantes presentes y los votos serán ejercidos de manera económica.
+ARTÍCULO 49 bis. Para efectos de lo dispuesto por el artículo 49, fracción V, en relación con el artículo 74 de la Ley, se estará a los siguientes criterios y condiciones:
 
-###### Artículo 46.
+I. La Comisión desarrollará una metodología de comisiones equivalentes sobre saldo a un plazo no mayor a un año, considerando la estructura de comisiones autorizada para cada Administradora, en la que utilizará el salario, antigüedad y saldo de la Cuenta Individual representativos de los Trabajadores Afiliados.
 
-El Presidente del Comité tendrá las atribuciones y obligaciones siguientes:
+II. Los Trabajadores Afiliados podrán solicitar el traspaso de su Cuenta Individual de una Administradora, si la comisión equivalente a que se refiere la fracción anterior que corresponda a la Administradora que opera su Cuenta Individual, es mayor a la de la Administradora elegida por el Trabajador Afiliado para traspasar su Cuenta Individual.
 
-l. Presidir el Comité;
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-II. Ostentar la representación legal del Comité, por sí mismo o por a quien él delegue esta facultad;
+ARTÍCULO 49 ter. La Comisión publicará en el Diario Oficial de la Federación y en su sitio de Internet, la metodología de comisiones equivalentes prevista en el artículo anterior y las comisiones equivalentes sobre saldo a un plazo no mayor a un año que cobre cada Administradora.
 
-III. En caso de empate en la votación, emitir voto de calidad;
+###### ARTÍCULO 50.
 
-IV. Proponer las normas operativas y técnicas del Servicio;
+En ningún caso podrán ser discriminados los Trabajadores Afiliados, por lo que la Administradora Receptora y la Administradora Transferente no podrán negarse a efectuar el traspaso solicitado, cuando se cumpla con las disposiciones legales establecidas al efecto.
 
-V. Plantear las estrategias organizativas y administrativas para el desarrollo de sus procedimientos y la aplicación de los instrumentos correspondientes;
+###### ARTÍCULO 51.
 
-VI. Formular las políticas para la profesionalización y desarrollo del personal del Servicio;
+Para proteger los intereses de los Trabajadores Afiliados, las Administradoras Receptoras serán responsables del traspaso indebido de Cuentas Individuales de Trabajadores Afiliados.
 
-VII. Verificar que el Servicio opere de manera coordinada;
+Las Administradoras Receptoras deberán resarcir el monto de los rendimientos que debieron generarse en la Cuenta Individual, calculados desde la fecha de liquidación del traspaso indebido, así como las comisiones cobradas durante la administración indebida de la cuenta, que le hubieren cobrado, a aquel Trabajador Afiliado que acredite haber sido objeto de un traspaso indebido sin perjuicio de las sanciones que conforme a la Ley u otros ordenamientos legales fueren aplicables.
 
-VIII. Comprobar que los procedimientos, que se encuentran contenidos en el artículo 42 fracción II del Reglamento, se realicen con eficiencia y eficacia conforme a los tiempos y formas establecidas;
+Para efectos de lo señalado en el párrafo anterior, el Trabajador Afiliado podrá manifestar por escrito ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o ante la Administradora Transferente, que se efectuó el traspaso de su Cuenta Individual sin que hubiera otorgado su consentimiento, dentro de los ciento ochenta días hábiles siguientes a que el Trabajador Afiliado tenga conocimiento que fue inscrito en la Base de Datos Nacional SAR. Una vez transcurrido este plazo se entenderá que el traspaso fue realizado a satisfacción del Trabajador Afiliado.
 
-IX. Proponer al Comité los programas y presupuestos necesarios para dar soporte a los compromisos de las metas de profesionalización del Servicio, así como los relacionados con el sistema de estímulos de los miembros de Servicio que se encuentren en el plan carrera (sic);
+El Trabajador Afiliado que haga del conocimiento de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o de la Administradora Transferente, que ha sido objeto de un traspaso indebido, dentro del plazo señalado en el párrafo anterior, y siempre que tal circunstancia haya sido acreditada, podrá solicitar el traspaso de su Cuenta Individual a otra Administradora, sin necesidad de que transcurra el periodo mínimo de permanencia que le hubiera sido aplicable.
 
-X. Verificar los procesos para el desarrollo y promoción en los términos del Reglamento;
+#### Sección XI. Del Retiro de Recursos de las Cuentas Individuales de los Trabajadores Afiliados
 
-XI. Proponer la agenda y el orden del día de las sesiones del Comité;
+###### ARTÍCULO 52.
 
-XII. Coordinar las sesiones del Comité;
+La Comisión determinará mediante reglas de carácter general los medios a través de los cuales podrá efectuarse el retiro de los recursos de las Cuentas Individuales de los Trabajadores Afiliados, debiéndose considerar entre otros medios, que el Trabajador Afiliado o sus beneficiarios, según se trate, puedan acudir directamente ante la Administradora correspondiente para tal fin, o bien, cuando así lo acuerden con dicha entidad financiera, puedan efectuar el retiro a que tengan derecho a través de equipos y sistemas automatizados o de telecomunicación.
 
-XIII. Ser enlace del Comité, con el Ayuntamiento y otras entidades; y
+###### ARTÍCULO 53.
 
-XIV. Las demás que señale el Reglamento y las disposiciones legales y administrativas aplicables.
+Las Administradoras que tengan indicios o conocimiento de que una pensión cuyo pago tengan a su cargo, deba terminarse o suspenderse, deberán comunicarlo al IMSS, a efecto de que evalúe el caso y lleve a cabo las acciones que procedan en términos de las leyes correspondientes.
 
-###### Artículo 47.
+###### ARTÍCULO 54.
 
-El Secretario Técnico del Comité tendrá las atribuciones y obligaciones siguientes:
+Cuando cualquier Participante en los Sistemas de Ahorro para el Retiro o Institutos de Seguridad Social detecten la existencia de una Cuenta Individual de un Trabajador Afiliado ya pensionado, lo comunicarán al IMSS, el que, previo los procesos de verificación que en su caso establezca, podrá determinar el destino de los recursos depositados en la Cuenta Individual encontrada, ya sea que deban aplicarse al financiamiento de la pensión otorgada o bien, entregarse en una sola exhibición cuando así proceda, a cuyo efecto deberá notificarse al Trabajador.
 
-l. Citar a los miembros del Comité a la sesión que corresponda, haciéndoles de su conocimiento el orden del día y recabando las propuestas que al respecto se formulen;
+Tratándose de la Subcuenta de Vivienda, sus recursos serán solicitados por el IMSS al INFONAVIT, para que sean utilizados en los términos antes dispuestos.
 
-II. Verificar el quórum legal para sesionar;
+#### Sección XII. De la participación de las Empresas Operadoras en beneficio de los Trabajadores Afiliados
 
-III. Elaborar y dar a conocer a los miembros del Comité las actas circunstanciadas a que haya lugar a fin de recabar las firmas correspondientes;
+###### ARTÍCULO 55.
 
-IV. Coordinar las actividades de los grupos de trabajo que se hayan establecido;
+Para tener una Base de Datos Nacional SAR con la información necesaria para garantizar que los Trabajadores Afiliados puedan ejercitar sus derechos de registro, traspaso y retiro en una Administradora de Fondos para el Retiro, dicha base, conforme al artículo 57 de la Ley, deberá contener:
 
-V. Informar periódicamente al Presidente sobre el cumplimiento de los acuerdos emitidos por el Comité; y
+I. Clave y denominación o razón social de la Administradora en que se encuentre abierta cada Cuenta Individual de los Trabajadores Afiliados;
 
-VI. Coadyuvar con el Presidente en todas las funciones y responsabilidades que le designe.
+II. La clave de identificación de cada Cuenta Individual de los Trabajadores Afiliados;
 
-#### SECCIÓN PRIMERA. DE LOS PLANES DE ESTUDIO
+III. El domicilio de los Trabajadores Afiliados de conformidad con los procedimientos que al efecto se establezcan;
 
-###### Artículo 48.
+IV. Los saldos de las subcuentas que integren la Cuenta Individual de los Trabajadores Afiliados de conformidad con los procedimientos que al efecto se establezcan;
 
-Son facultades y obligaciones de los vocales:
+V. Los movimientos históricos de registro, traspaso, retiro, devolución de pagos indebidos o en exceso, unificación, Separación de Cuentas y demás procesos operativos de cada Cuenta Individual de los Trabajadores Afiliados;
 
-I. Asistir a las sesiones del Comité con derecho a voz y voto;
+VI. La información de los Trabajadores Afiliados proporcionada por el IMSS e INFONAVIT, para el proceso de recaudación de cuotas y aportaciones, así como para determinar la procedencia del registro, unificaciones, Separación de Cuentas, retiros y de los demás procedimientos en que se utilice información proporcionada por dichos Institutos;
 
-II. Presentar al Comité propuestas que se consideren necesarias para el cumplimiento de su objeto;
+VII. El nombre del patrón, que efectúe el entero de cuotas y aportaciones a favor de los Trabajadores Afiliados;
 
-III. Desempeñar las comisiones que por acuerdo del Comité se les asignen;
+VIII. La información de los créditos de vivienda otorgados por el INFONAVIT;
 
-IV. Emitir su voto respecto de los asuntos que se sometan a su consideración; y
+IX. La información de los Trabajadores Afiliados que no hayan elegido Administradora;
 
-V. Las demás atribuciones que les confiera el Reglamento.
+X. La información relativa a las Cuentas Individuales Inactivas de Trabajadores Afiliados, considerándose como tales a aquellas cuentas que no hayan tenido movimientos por depósitos de cuotas y aportaciones durante el periodo de un año calendario contado a partir del último depósito realizado;
 
-#### SECCIÓN SEGUNDA. DE LOS PROGRAMAS DE ESTUDIO
+XI. La información relativa a las cuentas inhabilitadas de Trabajadores Afiliados, considerándose como tales a aquellas cuentas que una Administradora haya dejado de operar y cuyo saldo en todas sus subcuentas sea cero, derivado de un proceso de disposición de recursos, unificación, Separación de Cuentas o de traspaso de cuentas;
 
-###### Artículo 49.
+XII. La información relativa a los agentes promotores en las Administradoras, y
 
-Son facultades y obligaciones de los representantes de la Tesorería y Contraloría Municipal, las conferidas en su Reglamento Interior, así como en los ordenamientos legales aplicables.
+XIII. La demás información que señale la Ley, así como la que soliciten los Institutos de Seguridad Social de acuerdo a sus facultades legales previstas en sus respectivas leyes.
 
-###### Artículo 50.
+###### ARTÍCULO 56.
 
-El Comité en los casos que señalen las disposiciones legales aplicables, se coordinará con las autoridades competentes en la materia, para lograr los fines del Reglamento.
+La operación de las Empresas Operadoras asegurará el buen funcionamiento de los Sistemas de Ahorro para el Retiro en beneficio de los Trabajadores Afiliados, para lo cual realizarán las siguientes funciones:
 
-## TÍTULO CUARTO. DE LA PROFESIONALIZACIÓN
+I. Administrar la Base de Datos Nacional SAR, para lo cual deberán:
 
-###### Artículo 51.
+a) Obtener la información de los Trabajadores Afiliados procedente de los Sistemas de Ahorro para el Retiro e integrarla en la Base de Datos Nacional SAR, así como corregir o depurar ésta cuando la información recibida revele errores en los registros, de conformidad con la normatividad aplicable;
 
-El desarrollo de los procesos de formación se realizará sobre las siguientes bases:
+b) Mantener en operación los mecanismos de seguridad requeridos para la administración de la Base de Datos Nacional SAR y disponer de planes de contingencia para salvaguardar su integridad y continuidad del servicio a los Participantes en los Sistemas de Ahorro para el Retiro, IMSS, INFONAVIT y la Comisión, y
 
-l. La Academia será la responsable del desarrollo de las actividades de formación inicial, continua y especializada, las cuales se impartirán de acuerdo con la programación establecida; y
+c) Mantener actualizada la Base de Datos Nacional SAR con la información relativa a los Trabajadores Afiliados.
 
-II. La Academia informará mensualmente al Comité y a quien conforme a derecho corresponda, sobre el avance en el cumplimiento de las metas previstas en materia de profesionalización.
+II. Promover un ordenado proceso de elección de Administradora por los Trabajadores Afiliados;
 
-#### SECCIÓN PRIMERA. DEL NOMBRAMIENTO
+III. Proporcionar a los Trabajadores Afiliados información sobre los Sistemas de Ahorro para el Retiro a través de equipos y sistemas automatizados o de telecomunicación;
 
-###### Artículo 52.
+IV. Identificar las Cuentas Individuales de los Trabajadores Afiliados en las Administradoras;
 
-El personal docente a fin de garantizar la excelencia en el Servicio, deberá reunir como mínimo los siguientes requisitos:
+V. Certificar los registros de los Trabajadores Afiliados en las Administradoras;
 
-l. Acreditar documentalmente el conocimiento de la asignatura o tema a impartir;
+VI. Controlar los procesos de traspaso de las Cuentas Individuales de los Trabajadores Afiliados, para lo cual deberán:
 
-II. Contar preferentemente con experiencia en la docencia;
+a) Comprobar que los procesos de traspaso de las Cuentas Individuales de los Trabajadores Afiliados sean efectuados conforme a la normatividad aplicable, y
 
-III. Contar con disposición para seguir especializándose en la materia que imparte o afines; y
+b) Allegarse, conforme a la normatividad aplicable, de la información que permita verificar que los procesos de traspaso de las Cuentas Individuales de los Trabajadores Afiliados sean realizados en términos de los procedimientos que al efecto se establezcan en las reglas de carácter general que expida la Comisión.
 
-IV. Tener por lo menos un nivel de escolaridad grado académico superior a aquel que tengan los integrantes del Servicio a quienes esté capacitando. Podrá exceptuarse de este requisito a quienes por su preparación y capacidad reconocida sean habilitados por el Comité para impartir el curso del que se trate.
+VII. Coadyuvar al proceso de localización de los Trabajadores Afiliados para permitir un ordenado traspaso de las Cuentas Individuales de estos últimos de una Administradora a otra;
 
-## TÍTULO QUINTO. DE LA PLANEACIÓN
+VIII. Coadyuvar al proceso de localización de subcuentas de Trabajadores Afiliados a fin de presentar un ordenado traspaso del saldo de la Subcuenta de Vivienda, aportaciones subsecuentes y el saldo de la Subcuenta de Vivienda afectado como garantía contingente, para el caso de Trabajadores Afiliados a quienes se les otorgó un crédito de vivienda al amparo del artículo 43 bis de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
-###### Artículo 53.
+IX. Operar y llevar el control de los procesos operativos del Sistema de Ahorro para el Retiro de los Trabajadores Afiliados en los que intervengan;
 
-La planeación permite determinar las necesidades cuantitativas y cualitativas que el personal del Servicio requiere, así como su plan de carrera para el eficiente ejercicio de sus funciones, de acuerdo con los criterios emitidos por el Comité, las sugerencias realizadas por la Academia, la estructura orgánica, las categorías, jerarquías o grados y el perfil del puesto por competencia.
+X. Servir de concentradora y distribuidora entre los Participantes en los Sistemas de Ahorro para el Retiro, IMSS, INFONAVIT y la Comisión de la información relativa al Sistema de Ahorro para el Retiro de los Trabajadores Afiliados, para lo cual deberán:
 
-###### Artículo 54.
+a) Desarrollar un sistema que permita a la Comisión, IMSS, INFONAVIT y Participantes en los Sistemas de Ahorro para el Retiro consultar y dar seguimiento a las Cuentas Individuales de los Trabajadores Afiliados y a los trámites realizados por éstos, evitando cualquier acceso a información de la Base de Datos Nacional SAR por personas que no se encuentren expresamente autorizadas para ello legalmente;
 
-La Planeación tiene como objeto proyectar, establecer y coordinar los diversos procedimientos de reclutamiento, selección de aspirantes, formación inicial, ingreso, formación continua y especializada, evaluación para la permanencia, desarrollo y promoción, estímulos, sistema disciplinario, separación y retiro, acorde a sus necesidades integrales.
+b) Desarrollar los sistemas y adecuaciones necesarias a los mismos, para asegurar el buen funcionamiento del Sistema de Ahorro para el Retiro de los Trabajadores Afiliados, sujetándose a los criterios que determine la Comisión;
 
-#### SECCIÓN SEGUNDA. DE LOS DERECHOS; IMPEDIMENTOS Y OBLIGACIONES DE LOS MIEMBROS DEL SERVICIO
+c) Administrar el sistema de información de la Subcuenta de Vivienda de conformidad con los lineamientos que al efecto establezca la Comisión conjuntamente con el INFONAVIT;
 
-###### Artículo 55.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-El plan de carrera del miembro del Servicio, deberá comprender la ruta profesional desde que éste ingrese a la Secretaría hasta su separación, en el que se fomentará su sentido de pertenencia a la institución, conservando la categoría, jerarquía o grado que vaya obteniendo, a fin de infundirle certeza y certidumbre.
+d) Informar a las Administradoras, sobre las tasas de rendimiento que deberán aplicar a la Subcuenta de Vivienda de conformidad con la información que le proporcione el INFONAVIT;
 
-La categoría, jerarquía o grado del miembro del Servicio tendrá validez en todo el territorio nacional.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-###### Artículo 56.
+e) Informar a quien la Comisión les indique, las tasas de rendimiento de la Cuenta Concentradora que, a su vez, les haya informado la Secretaría, y
 
-Todos los responsables de la aplicación del Reglamento colaborarán y se coordinaran con el responsable de la planeación, a fin de proporcionarle toda la información necesaria para el cumplimiento de sus funciones.
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-#### SECCIÓN TERCERA. DEL REINGRESO AL SERVICIO
+f) Prestar servicios relacionados con las cuentas individuales de los Trabajadores a los demás Participantes en los Sistemas de Ahorro para el Retiro.
 
-###### Artículo 57.
+XI. Establecer el procedimiento que permita que la información derivada del Sistema de Ahorro para el Retiro de los Trabajadores Afiliados fluya de manera ordenada entre los Participantes en los Sistemas de Ahorro para el Retiro, IMSS, INFONAVIT y la Comisión;
 
-A través de sus diversos procedimientos, el Comité, deberá:
+XII. Desarrollar y someter a aprobación de la Comisión el Manual de Procedimientos Transaccionales, así como mantenerlo actualizado conforme a la normatividad vigente.
 
-l. Registrar y procesar la información necesaria para la definición del catálogo general de puestos del Servicio, de manera coordinada con las instancias correspondientes;
+El IMSS e INFONAVIT podrán opinar respecto de las operaciones y procesos en los que el Manual de Procedimientos Transaccionales prevea su participación;
 
-II. Proyectar las necesidades cuantitativas y cualitativas del Servicio y de sus integrantes, referentes a capacitación, evaluación, separación y retiro; con el fin de que la estructura del Servicio tenga el número de elementos conforme la Estructura Terciaria, para su óptimo funcionamiento;
+XIII. Contar con los sistemas de información, infraestructura de comunicaciones y de cómputo, e instalaciones requeridas para cumplir con las obligaciones a su cargo, en los términos de la normatividad aplicable;
 
-III. Elaborar estudios prospectivos de los escenarios del Servicio, para determinar las necesidades de formación que requerirá el mismo en el corto y mediano plazo, con el fin de permitir a sus integrantes cubrir los perfiles del grado por competencia de las diferentes categorías y jerarquías;
+XIV. Distribuir los fondos de las cuotas y aportaciones recibidas en la Cuenta Concentradora a las Administradoras correspondientes;
 
-IV. Analizar los resultados de las evaluaciones para la permanencia de los miembros del Servicio, emitiendo las conclusiones conducentes;
+XV. Procurar mantener depurada la Base de Datos Nacional SAR, para lo cual deberán:
 
-V. Realizar los demás estudios, programas, acciones y trabajos que sean necesarios para el desarrollo del Servicio; y
+a) Identificar las Cuentas Individuales duplicadas de los Trabajadores Afiliados;
 
-VI. Ejercer las demás funciones que le señale este procedimiento y demás disposiciones legales y administrativas correspondientes.
+b) Incentivar la unificación, separación y traspaso de Cuentas Individuales de los Trabajadores Afiliados;
 
-## TÍTULO SEXTO. DEL RECLUTAMIENTO
+c) Identificar las invasiones de números de seguridad social y hacerlas del conocimiento de las Administradoras, IMSS e INFONAVIT, y
 
-###### Artículo 58.
+d) Iniciar de oficio los procesos de unificación y Separación de Cuentas de los Trabajadores Afiliados que sean necesarios de conformidad con los procedimientos que al efecto se establezcan.
 
-El reclutamiento del Servicio, permite atraer al mayor número de aspirantes que cubran el perfil del puesto y demás requisitos para la ocupación de una plaza vacante o de nueva creación dentro de la escala básica, a través de la difusión en medios internos y externos.
+XVI. Coadyuvar para la devolución de los pagos indebidos o en exceso;
 
-### CAPÍTULO TERCERO. DEL PERFIL DEL GRADO DEL POLICÍA DE CARRERA
+XVII. Someter la previsión de ingresos y egresos a la consideración de la Comisión en forma previa a la aprobación de su plan de trabajo anual y quinquenal;
 
-#### SECCIÓN ÚNICA. DE LOS DESCANSOS, PERÍODOS VACACIONALES, PERMISOS Y LICENCIAS
+XVIII. Disponer de un sistema de costeo de las operaciones que lleven a cabo, que les permita proponer las comisiones que cobren por los servicios que presten a los Participantes en los Sistemas de Ahorro para el Retiro, y
 
-###### Artículo 59.
+XIX. Las demás que señalen la Ley, el presente Reglamento y el título de concesión.
 
-El reclutamiento tiene como objeto establecer la integración del primer nivel de policía de la Escala Básica del Servicio para ser seleccionado, capacitado, evitar el abandono de la corporación y preservar los principios constitucionales de eficiencia y profesionalismo en el Servicio.
+#### Sección XIII. De la participación del IMSS e INFONAVIT en beneficio de los Trabajadores Afiliados
 
-#### SECCIÓN PRIMERA. DEL EXAMEN DE DESEMPEÑO, CONOCIMIENTOS Y HABILIDADES
+###### ARTÍCULO 57.
 
-###### Artículo 60.
+Para el correcto funcionamiento de los Sistemas de Ahorro para el Retiro en beneficio de los Trabajadores Afiliados el IMSS realizará las siguientes acciones:
 
-El presente procedimiento sólo es aplicable a los aspirantes a ingresar al nivel de policía dentro de la escala básica del Servicio. Las demás categorías, jerarquías o grados, estarán sujetos al procedimiento de promoción y ascensos.
+I. Proporcionar de manera continua a las Empresas Operadoras la información relacionada con los Trabajadores Afiliados para que éstos puedan registrarse o ser asignados en las Administradoras y retirar los recursos de su Cuenta Individual;
 
-###### Artículo 61.
+II. Entregar a las Empresas Operadoras la información relativa a las cuotas y aportaciones obrero patronales, contenida en las cédulas de determinación que dicho Instituto emita a los patrones;
 
-Para los efectos de reclutar a los aspirantes a ingresar al Servicio, éstos deberán cumplir con los requisitos del perfil, de grado por competencia, las condiciones y los términos de la convocatoria que al efecto emita el Comité.
+III. Recibir e incluir en las cédulas de determinación, la información que le remita el INFONAVIT conforme a lo establecido en la fracción II del artículo 58 de este Reglamento;
 
-###### Artículo 62.
+IV. Realizar de conformidad con la Ley del Seguro Social y sus reglamentos, y con base en la información que le proporcione la Comisión o las Empresas Operadoras, acciones tendientes a que los patrones formulen las aclaraciones relativas a las cuotas y aportaciones que enteren y que no puedan ser individualizadas. A tal efecto, el IMSS informará a la Comisión o a las Empresas Operadoras las acciones realizadas;
 
-Previo al reclutamiento, la Secretaría podrá organizar eventos de inducción para motivar el acercamiento de los aspirantes a ingresar al Servicio.
+V. Emitir opinión respecto de las operaciones y procesos en los que el Manual de Procedimientos Transaccionales prevea su participación;
 
-###### Artículo 63.
+VI. Celebrar convenios con el INFONAVIT a efecto de determinar las comisiones máximas que podrán cobrar las Entidades Receptoras por la recaudación de las cuotas y aportaciones de los Trabajadores Afiliados, y
 
-Para dar certeza y transparencia al proceso de reclutamiento, se emitirá convocatoria pública y abierta, para todos los interesados que deseen ingresar al Servicio, misma que se publicará en por lo menos dos diarios de mayor circulación del Municipio de Puebla y en los medios oficiales de difusión del Ayuntamiento, además se colocará en los lugares que a criterio del Comité, puedan ser fuentes eficaces de reclutamiento.
+VII. Las demás que establezcan las disposiciones aplicables.
 
-###### Artículo 64.
+###### ARTÍCULO 58.
 
-Cuando existan plazas vacantes o de nueva creación de policía, el Comité emitirá la convocatoria dirigida a todo aspirante que desee ingresar al Servicio, misma que tendrá las siguientes características
+Para el correcto funcionamiento de los Sistemas de Ahorro para el Retiro en beneficio de los Trabajadores Afiliados, el INFONAVIT realizará las siguientes acciones:
 
-I. Señalará en forma precisa los puestos sujetos a reclutamiento y el perfil del puesto por competencia que deberán cubrir los aspirantes;
+I. Proporcionar de manera continua a las Empresas Operadoras la información relativa a sus afiliados para que éstos puedan registrarse o ser asignados en las Administradoras;
 
-II. Precisará los requisitos que deberán cumplir y la documentación que deberán presentar los aspirantes;
+II. Proporcionar de manera continua a las Empresas Operadoras y al IMSS la información sobre los Trabajadores Afiliados a los que les haya sido otorgado o cancelado un crédito de vivienda;
 
-III. Señalara el lugar, fecha y hora de la recepción de documentos requeridos;
+III. Realizar de conformidad con la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y sus reglamentos, y con base en la información que le proporcione la Comisión o las Empresas Operadoras, acciones tendientes a que los patrones formulen las aclaraciones relativas a las Aportaciones al INFONAVIT que enteren y que no puedan ser individualizadas. A tal efecto, el INFONAVIT informará a la Comisión o a las Empresas Operadoras las acciones realizadas;
 
-IV. Precisará lugar, fecha y hora para la aplicación de los exámenes de selección de aspirantes; para quienes cumplan con los requisitos de la convocatoria;
+IV. Coadyuvar en lo conducente para que se consideren en las Subcuentas de Vivienda los resultados de los procesos de unificación y Separación de Cuentas;
 
-V. Señalará fecha del fallo relacionado con los requisitos del reclutamiento y con las evaluaciones que se vayan a aplicar; y
+V. Entregar los recursos de la Subcuenta de Vivienda a la Administradora que corresponda, o en su caso, al Trabajador Afiliado o sus beneficiarios que tenga derecho a recibirlos, dentro de un plazo máximo de quince días hábiles contado a partir de que se solicite el retiro de los mismos;
 
-VI. Precisará los requisitos, condiciones y duración de la formación inicial.
+VI. Emitir opinión respecto de las operaciones y procesos en los que el Manual de Procedimientos Transaccionales prevea su participación;
 
-#### SECCIÓN SEGUNDA. DE LA VIGENCIA DE LAS EVALUACIONES
+VII. Celebrar convenios con el IMSS a efecto de determinar las comisiones máximas que podrán cobrar las Entidades Receptoras por la recaudación de las cuotas y aportaciones de los Trabajadores Afiliados, y
 
-###### Artículo 65.
+VIII. Las demás que establezcan las disposiciones aplicables.
 
-Los aspirantes no podrán ser discriminados por razones de sexo, religión, estado civil, origen étnico o condición social, o cualquier otra que viole el principio de igualdad de oportunidades, para quienes cumplan con los requisitos de la convocatoria. Los requisitos del perfil del puesto, en ningún caso constituyen discriminación alguna.
+### CAPÍTULO V. DE LAS CUENTAS INDIVIDUALES DE LOS TRABAJADORES INSCRITOS EN EL ISSSTE
 
-#### SECCIÓN PRIMERA. DE LA CONDECORACIÓN AL MÉRITO POLICIAL
+#### Sección I. De los Derechos de los Trabajadores Inscritos en el ISSSTE relacionados con su Cuenta Individual
 
-###### Artículo 224.
+###### ARTÍCULO 59.
 
-La condecoración al mérito policial se otorgará en primera y segunda clase, a los miembros del Servicio que realicen los siguientes actos:
+El Trabajador inscrito en el ISSSTE en relación con su Cuenta Individual, tendrá los siguientes derechos:
 
-l. Actos de relevancia excepcional en beneficio de la Secretaría;
+I. Elegir que una Administradora opere su Cuenta Individual;
 
-II. Actos de reconocido valor extraordinario y mérito en el desarrollo de las acciones siguientes:
+II. Solicitar el traspaso de su Cuenta Individual de una ICEFA a una Administradora a través de los medios a que se refiere el artículo 60 del presente Reglamento y conforme a las reglas de carácter general que emita la Comisión;
 
-a) Por su diligencia en el aseguramiento de delincuentes;
+III. Tramitar su registro en la Administradora de su elección, por cualquiera de los medios a que se refiere el artículo 60 del presente Reglamento;
 
-b) Por auxiliar con éxito a la población en general en accidentes y/o situaciones de peligro o emergencia, así como en la preservación de sus bienes;
+IV. Solicitar información a la Administradora elegida a través de cualquier medio de comunicación disponible, a efecto de que el Trabajador inscrito en el ISSSTE cuente con información relacionada a su Cuenta Individual;
 
-c) En cumplimiento de sus funciones de naturaleza excepcional y en condiciones difíciles;
+V. Celebrar un contrato de administración de fondos para el retiro con la Administradora en que se registre el Trabajador inscrito en el ISSSTE, donde consten los términos y condiciones sobre los cuales se administrará la Cuenta Individual del mismo;
 
-d) Consistentes en operaciones o maniobras de riesgo extraordinario;
+VI. Realizar aportaciones voluntarias a su Cuenta Individual, por cualquiera de los medios a que se refiere el artículo 78 del presente Reglamento;
 
-e) Los que comprometan la vida de quien las realice; y
+VII. Designar beneficiarios, para que cuando proceda, éstos dispongan de las aportaciones voluntarias que sean depositadas en la Cuenta Individual del Trabajador inscrito en el ISSSTE;
 
-f) Actos heroicos que conserven los bienes de la Nación, Estado o Municipio.
+VIII. Elegir que los recursos de su Cuenta Individual, a excepción de los correspondientes a la Subcuenta del Fondo de la Vivienda, sean invertidos en una o más Sociedades de Inversión que sean operadas por la Administradora que opere su cuenta, siempre que sean compatibles con lo establecido en el prospecto de información de la Sociedad de Inversión de que se trate;
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2014)</small>
+IX. Recibir, por lo menos dos veces al año, en el domicilio que le indique el trabajador inscrito en el ISSSTE a la Administradora que opere su Cuenta Individual, los estados de cuenta y demás información sobre la misma;
 
-A los miembros del servicio que recaigan en las acciones previstas en los incisos e) y f) del presente artículo, de manera complementaria podrán ser acreedores a una remuneración de carácter económica, la que dependerá de la disponibilidad presupuestal de la Secretaría.
+X. Solicitar el traspaso de su Cuenta Individual a otra Administradora distinta a la que la venía administrando, en términos de lo dispuesto por el artículo 82 del presente Reglamento;
 
-###### Artículo 225.
+XI. Solicitar el resarcimiento de los daños y perjuicios causados, cuando el Trabajador inscrito en el ISSSTE acredite haber sido objeto de un registro o traspaso indebido en términos de lo dispuesto por los artículos 64 y 85 de este Reglamento;
 
-Se confiere a los miembros del Servicio en primera clase, por efectuar espontáneamente los actos referidos y en segunda clase, cuando su ejecución provenga del cumplimiento de una orden superior.
+XII. Realizar retiros de su Cuenta Individual conforme a lo establecido en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la Ley, este Reglamento y las disposiciones de carácter general que al efecto emita la Comisión;
 
-###### Artículo 66.
+XIII. A que las Empresas Operadoras tengan la información de las Cuentas Individuales del Trabajador inscrito en el ISSSTE en la Base de Datos Nacional SAR;
 
-Los aspirantes a ingresar al Servicio deberán cubrir y comprobar los siguientes requisitos:
+XIV. Que el ISSSTE proporcione de manera continua a los Participantes en los Sistemas de Ahorro para el Retiro, la información relacionada con el Trabajador inscrito en el ISSSTE y con las resoluciones otorgadas a éstos o sus beneficiarios para la procedencia de disposición de los recursos de la Cuenta Individual;
 
-l. Tener 18 años de edad cumplidos;
+XV. Que las ICEFAS en términos de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la demás normatividad aplicable, sigan operando las Cuentas Individuales de los Trabajadores inscritos en el ISSSTE, cuando no se registren en una Administradora, y
 
-II. Ser de nacionalidad mexicana;
+XVI. Los demás que establezcan las disposiciones aplicables.
 
-III. Ser de notoria buena conducta;
+Los derechos a que se refiere el presente artículo deberán considerarse en forma enunciativa mas no limitativa.
 
-IV. No haber sido condenado por sentencia irrevocable por delito doloso;
+#### Sección II. Del Proceso de Registro de los Trabajadores inscritos en el ISSSTE
 
-V. No estar sujeto a proceso penal;
+###### ARTÍCULO 60.
 
-VI. Acreditar que ha concluido los estudios de bachillerato o equivalente;
+El Trabajador inscrito en el ISSSTE tendrá derecho a elegir la Administradora en la que desee abrir su Cuenta Individual, por alguno de los siguientes medios:
 
-VII. Haber cumplido con el servicio militar, con excepción de las mujeres;
+I. De manera directa, para lo cual el Trabajador inscrito en el ISSSTE podrá acudir a las oficinas o sucursales de la Administradora seleccionada;
 
-VIII. Aprobar las evaluaciones del procedimiento de selección de aspirantes y la formación inicial, en su caso;
+II. A través de los agentes promotores que actúen por cuenta y orden de las Administradoras, o
 
-IX. Contar con los requisitos del perfil del puesto por competencia;
+III. A través de los equipos y sistemas automatizados o de telecomunicación previstos en el contrato de administración de fondos para el retiro.
 
-X. Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, no padecer tabaquismo ni alcoholismo y someterse a las evaluaciones periódicas que determine el Comité, para comprobar el no uso de este tipo de sustancias;
+En el caso previsto en la fracción III, deberá observarse lo dispuesto por los artículos 89 al 94 del Código de Comercio.
 
-XI. No estar suspendido o inhabilitado;
+Los equipos y sistemas automatizados o de telecomunicación se emplearán en beneficio del Trabajador inscrito en el ISSSTE a efecto de brindar mayor comodidad, agilidad y simplicidad en el proceso de registro.
 
-XII. Cumplir con los deberes y las obligaciones establecidas en el procedimiento de Ingreso;
+###### ARTÍCULO 61.
 
-XIII. No ser ministro de algún culto religioso;
+El Trabajador inscrito en el ISSSTE tendrá derecho a celebrar un contrato de administración de fondos para el retiro con la Administradora que haya elegido, en términos del artículo 29 fracción III de la Ley.
 
-XIV. No tener modificaciones en el color de la piel mediante dibujos, figuras o textos realizados con tinta o cualquier otro pigmento conocido como tatuajes;
+###### ARTÍCULO 62.
 
-XV. No tener perforaciones corporales: al personal femenino sólo se le permite una perforación en cada oreja;
+Se establecerán medidas para proteger los recursos del Trabajador inscrito en el ISSSTE durante el proceso de registro. Para tal efecto, las Empresas Operadoras con base en la información contenida en la Base de Datos Nacional SAR, certificarán la procedencia del registro del Trabajador inscrito en el ISSSTE en la Administradora que haya elegido, haciendo del conocimiento de la Administradora de que se trate, de la aceptación o rechazo de registro.
 
-XVI. En caso de haber pertenecido a una corporación policial, o a las fuerzas armadas o empresa de seguridad privada, deberá presentar la baja correspondiente, debiendo ésta ser de carácter voluntario, ya que cualquier otro motivo de baja será impedimento para su ingreso; y
+El registro de un Trabajador inscrito en el ISSSTE en una Administradora, surtirá efectos jurídicos a partir de su inscripción en la Base de Datos Nacional SAR, momento en el que se entenderá manifestado el consentimiento de la Administradora para obligarse en los términos del contrato de administración de fondos para el retiro, por lo que la falta de firma del representante de la Administradora en el contrato, no afectará la validez del mismo.
 
-XVII. No tener en el Registro Nacional algún impedimento para ser seleccionado.
+El Trabajador inscrito en el ISSSTE tendrá derecho a solicitar información a la Administradora elegida a través de cualquier medio de comunicación disponible, a efecto de que cuente con información relacionada al estado que guarda su trámite de registro.
 
-###### Artículo 67.
+###### ARTÍCULO 63.
 
-El cumplimiento de los requisitos señalados en el artículo anterior, serán condiciones de permanencia en el Servicio, con excepción de la fracción I.
+Las Empresas Operadoras para otorgar seguridad al Trabajador inscrito en el ISSSTE al realizar la certificación a que se refiere el artículo anterior, deberán verificar que no se encuentra registrada en la Base de Datos Nacional SAR otra Cuenta Individual a nombre del Trabajador inscrito en el ISSSTE.
 
-###### Artículo 68.
+Asimismo, las Empresas Operadoras deberán verificar que se cumple con lo establecido en la Ley y en las disposiciones de carácter general que al efecto establezca la Comisión para la apertura de la Cuenta Individual del Trabajador inscrito en el ISSSTE.
 
-En todos los casos, sin excepción, el aspirante deberá identificarse plenamente con documento oficial vigente con fotografía y el pase de examen debidamente requisitado, al momento de la recepción de sus documentos y al ser evaluado.
+###### ARTÍCULO 64.
 
-###### Artículo 69.
+Para proteger los intereses de los Trabajadores inscritos en el ISSSTE, las Administradoras serán responsables del registro indebido de Trabajadores inscritos en el ISSSTE.
 
-Si en el curso de la aplicación del Reglamento, en lo relativo al Reclutamiento, Selección de aspirantes o dentro de su vida activa en el Servicio, se dejare de cumplir con los anteriores requisitos, se suspenderá el procedimiento y en su caso, serán separados del mismo los aspirantes, cadetes o miembros del Servicio que se encuentren en este supuesto.
+La Administradora deberá resarcir el monto de las comisiones cobradas durante la administración indebida de la Cuenta Individual, calculadas a partir de la fecha de certificación del registro por la Empresa Operadora de que se trate, a aquel Trabajador inscrito en el ISSSTE que acredite haber sido objeto de un registro indebido. Lo anterior, sin perjuicio de las sanciones que conforme a la Ley u otros ordenamientos legales fueren aplicables.
 
-###### Artículo 70.
+Para efectos de lo señalado en el párrafo anterior, el Trabajador inscrito en el ISSSTE podrá manifestar por escrito ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, que la Administradora efectuó su registro sin que hubiera otorgado su consentimiento, dentro de los ciento ochenta días hábiles siguientes a la fecha en que el Trabajador inscrito en el ISSSTE tenga conocimiento que fue inscrito en la Base de Datos Nacional SAR. Una vez transcurrido el plazo se entenderá que el registro fue realizado a entera satisfacción del Trabajador inscrito en el ISSSTE.
 
-Los aspirantes a ingresar al Servicio deberán presentar en el lugar, fecha y hora señalados en la convocatoria, la siguiente documentación:
+El Trabajador inscrito en el ISSSTE que haga del conocimiento de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, que ha sido objeto de un registro indebido, dentro del plazo señalado en el párrafo anterior, y siempre que tal circunstancia haya sido acreditada, podrá solicitar su registro en otra Administradora, sin necesidad de que transcurra el periodo mínimo de permanencia que le hubiera sido aplicable.
 
-l. Solicitud de empleo con fotografía, escrita de puño y letra del aspirante;
+#### Sección III. De la Integración de la Cuenta Individual de los Trabajadores inscritos en el ISSSTE
 
-II. Copia Certificada de Acta de nacimiento, de reciente expedición;
+###### ARTÍCULO 65.
 
-III. Clave Única de Registro de Población;
+Las Cuentas Individuales de los Trabajadores inscritos en el ISSSTE se integrarán conforme al artículo 74 bis de la Ley, por las siguientes subcuentas:
 
-IV. Constancia de modo honesto de vida;
+I. Subcuenta de Ahorro para el Retiro;
 
-V. Identificación Oficial con fotografía, vigente;
+II. Subcuenta del Fondo de la Vivienda, y
 
-VI. Licencia de manejo vigente;
+III. Subcuenta de aportaciones voluntarias.
 
-VII. Pre afiliación al Instituto Mexicano del Seguro Social;
+#### Sección IV. De la Recepción de Aportaciones de los Trabajadores inscritos en el ISSSTE
 
-VIII. Constancia reciente de antecedentes no penales emitida por la autoridad competente;
+###### ARTÍCULO 66.
 
-IX. Certificado de estudios de preparatoria o bachillerato, como grado mínimo, debidamente legalizado;
+La recaudación de los recursos correspondientes a las subcuentas a que se refiere el artículo 74 bis de la Ley, se llevará a cabo a través de las ICEFAS o de las Entidades Receptoras, según lo determine la Comisión de conformidad con lo dispuesto por los artículos 90 BIS-C y 90 BIS-F de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-X. Cartilla liberada del Servicio Militar Nacional;
+###### ARTÍCULO 67.
 
-XI. Constancia de no estar suspendido, ni haber sido destituido o inhabilitado por resolución firme para el ejercicio de empleos, cargos o comisiones en el servicio público, ni estar sujeto a procedimiento administrativo alguno;
+Las dependencias y entidades públicas determinarán el monto a pagar correspondiente al SAR-ISSSTE, e integrarán esta información en detalle por cada Trabajador y consolidada por el periodo de pago en los medios informáticos que para tal efecto les proporcionen las Empresas Operadoras, conforme a lo que determine la Comisión.
 
-XII. Copia de la baja voluntaria correspondiente en caso de haber pertenecido a alguna corporación de seguridad pública, fuerza armada o empresa de seguridad privada;
+Los medios informáticos deberán permitir a las dependencias y entidades públicas realizar correcciones a que hubiera lugar cuando se trate de errores en el ingreso de la información por Trabajador.
 
-XIII. Comprobante de domicilio vigente;
+###### ARTÍCULO 68.
 
-XIV. Carta de exposición de motivos para el ingreso a la Institución;
+Las Empresas Operadoras que reciban la información relativa a la determinación de pago de cada dependencia o entidad pública, deberán validar la información que sea ingresada, para que en caso de ser procedente, se emita y entregue una clave de pago para que la dependencia o entidad pública realice el entero en la ICEFA o Entidad Receptora.
 
-XV. Declaración bajo protesta de decir verdad de no ser ministro de algún culto religioso;
+###### ARTÍCULO 69.
 
-XVI. Tres cartas de recomendación, una de ellas, en su caso, de su último empleo; en hoja membretada, firmada y de ser posible sellada; y
+Las ICEFAS o Entidades Receptoras al recibir el pago a que se refiere el artículo anterior, deberán validar el monto enterado con la clave de pago, y en caso de ser procedente depositar los recursos en la Cuenta ISSSTE y la Cuenta FOVISSSTE, respectivamente.
 
-XVII. Certificado médico con grupo sanguíneo, expedido por institución del sector salud.
+###### ARTÍCULO 70.
 
-###### Artículo 71.
+Las Instituciones de Crédito o Entidades Receptoras no podrán recibir el pago de las aportaciones bimestrales cuando el monto no sea consistente con la clave de pago emitida por las Empresas Operadoras, o cuando se determine que la clave de pago no es válida de acuerdo al proceso de generación de las Empresas Operadoras.
 
-No serán reclutados los aspirantes que, por los medios de prueba adecuados y consultando la información en el Registro Nacional, tengan algún impedimento para ser seleccionados de acuerdo con el Reglamento y demás disposiciones aplicables.
+###### ARTÍCULO 71.
 
-###### Artículo 72.
+Las instituciones de crédito que presten servicios de Entidad Receptora deberán contar con los medios, sistemas y procedimientos que permitan el depósito en la Cuenta ISSSTE y en la Cuenta FOVISSSTE, de los recursos que reciban.
 
-El Comité en un término no mayor de quince días hábiles posteriores al término del periodo de entrega de la documentación, dará a conocer a los aspirantes los resultados del reclutamiento, devolviendo la documentación recibida a aquellos que no hubieren sido reclutados.
+Las Entidades Receptoras que no tengan el carácter de institución de crédito, deberán contratar los servicios de una institución de crédito para el depósito de los recursos que recauden en las cuentas a que se refiere el párrafo anterior.
 
-#### SECCIÓN SEGUNDA. DE LA CONDECORACIÓN AL MÉRITO CÍVICO
+###### ARTÍCULO 72.
 
-###### Artículo 226.
+Las Entidades Receptoras cobrarán por la recaudación de los recursos de los Trabajadores inscritos en el ISSSTE, las comisiones que determine la Comisión, en términos de lo señalado en los artículos 90 BIS-C y 90 BIS-J de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-La condecoración al mérito cívico se otorgará, a los miembros del Servicio considerados por la comunidad donde ejerzan funciones como respetables ejemplos de dignidad cívica, diligente cumplimiento de la ley, firme defensa de los derechos humanos, respeto a las instituciones públicas y en general, por un relevante comportamiento ciudadano.
+#### Sección V. De la Dispersión e Individualización de las Aportaciones de los Trabajadores inscritos en el ISSSTE
 
-###### Artículo 73.
+###### ARTÍCULO 73.
 
-Una vez cubiertos los requisitos y documentos anteriores, el Comité instruirá la aplicación de las evaluaciones de selección y, en su caso, proveerá lo necesario para comenzar la formación inicial.
+Las ICEFAS o Entidades Receptoras, según sea el caso, deberán entregar a las Empresas Operadoras la información de la recaudación de los recursos correspondientes a la Subcuenta de Ahorro para el Retiro, a las Aportaciones al FOVISSSTE, y en su caso, a las aportaciones voluntarias que hayan recibido, identificada con la clave de pago.
 
-## TÍTULO SÉPTIMO. DE LA SELECCIÓN
+###### ARTÍCULO 74.
 
-###### Artículo 74.
+Las Empresas Operadoras, con base en la información proporcionada por las dependencias y entidades públicas, ICEFAS o Entidades Receptoras, deberán identificar y transferir a la Administradora o ICEFA correspondiente, la información relativa a las aportaciones de cada una de las subcuentas de la Cuenta Individual que cada una administre del SAR-ISSSTE. Asimismo, en forma simultánea deberán transferir al ISSSTE y FOVISSSTE la misma información de cada una de las Administradoras e ICEFAS.
 
-La selección de aspirantes permite elegir, de entre quienes hayan cubierto los requisitos del reclutamiento, a los que cubran el perfil de grado por competencia de policía dentro de la escala básica para ingresar al Servicio, mediante la aprobación de la evaluación correspondiente y la formación inicial, a fin de obtener el carácter de aspirante seleccionado.
+###### ARTÍCULO 75.
 
-###### Artículo 75.
+Las Empresas Operadoras ordenarán la transferencia de los recursos recaudados a las Administradoras correspondientes, con excepción de las Aportaciones al FOVISSSTE.
 
-La selección de aspirantes tiene como objeto aplicar dicha evaluación mediante los diversos exámenes, para determinar si el aspirante cumple con los conocimientos, habilidades, destrezas, competencias, actitudes y aptitudes psicológicas, físicas, intelectuales y de conocimientos, conforme al perfil del grado por competencia, así como los requerimientos de la formación inicial y preservar los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez.
+###### ARTÍCULO 76.
 
-###### Artículo 76.
+Para la dispersión de las aportaciones de los Trabajadores inscritos en el ISSSTE, las Empresas Operadoras podrán contratar los servicios de Instituciones de Crédito Liquidadoras, para lo cual requerirán previa opinión favorable de la Comisión y del Banco de México.
 
-El aspirante que haya cubierto satisfactoriamente los requisitos correspondientes al reclutamiento, deberá ser evaluado en los términos y las condiciones que el Reglamento establece.
+Las Instituciones de Crédito Liquidadoras deberán:
 
-###### Artículo 77.
+I. Recibir de la Cuenta ISSSTE, cuando así corresponda, los recursos relativos a la Subcuenta de Ahorro para el Retiro y, en su caso, a las aportaciones voluntarias de los Trabajadores inscritos en el ISSSTE, para ser transferidos a las Administradoras;
 
-El aspirante que hubiese aprobado la evaluación a que se refiere el Reglamento, estará obligado a llevar el curso de formación inicial que deberá cubrir asistiendo al Programa de Formación Inicial en la Academia, el cual comprenderá los contenidos mínimos y las equivalencias de los planes y programas validados por el Secretariado Ejecutivo.
+II. Entregar a las Administradoras, cuando así corresponda, los recursos relativos a la Subcuenta de Ahorro para el Retiro y, en su caso, de las aportaciones voluntarias de los Trabajadores inscritos en el ISSSTE;
 
-#### SECCIÓN TERCERA. DE LA CONDECORACIÓN AL MÉRITO SOCIAL
+III. Recibir y entregar a las Administradoras, por cuenta y orden del FOVISSSTE, los recursos por concepto de retiro, o devolución de pagos indebidos o en exceso que correspondan de las Subcuentas del Fondo de la Vivienda, y
 
-###### Artículo 227.
+IV. Reportar diariamente a las Empresas Operadoras, la recepción y entrega de los recursos mencionados en las fracciones anteriores.
 
-La condecoración al mérito social se otorgará, a los miembros del Servicio que se distingan por el cumplimiento excepcional a favor de la comunidad, poniendo en alto el prestigio y dignidad de la Secretaría, mediante acciones que beneficien directamente a grupos de personas determinadas.
+Las Empresas Operadoras deberán reportar a la Comisión, la información a que se refiere la presente fracción, en los términos y con las características previstas en las reglas generales aplicables a la entrega de información que emita la Comisión.
 
-###### Artículo 78.
+###### ARTÍCULO 77.
 
-Durante el curso de formación inicial se celebrará un contrato de prestación de Servicios profesionales, entre el aspirante seleccionado y el Ayuntamiento, en el que se incluirá el compromiso de permanencia del aspirante y la pena convencional en caso de no dar cumplimiento al mismo.
+Las Instituciones de Crédito Liquidadoras deberán contar con los medios y sistemas requeridos para la operación del sistema electrónico de pago que determine la Comisión, oyendo la opinión del Banco de México.
 
-###### Artículo 79.
+#### Sección VI. De las Aportaciones Voluntarias de los Trabajadores inscritos en el ISSSTE
 
-En lo referente a la formación inicial, sólo podrán ingresar a ella, aquellos aspirantes seleccionados que hubieren aprobado los exámenes a que se refiere el artículo 80 del Reglamento.
+###### ARTÍCULO 78.
 
-###### Artículo 80.
+Los Trabajadores inscritos en el ISSSTE tendrán en todo tiempo el derecho a realizar aportaciones voluntarias a su Cuenta Individual, pudiendo realizarlas por cualquiera de los siguientes medios:
 
-El aspirante, para ingresar a la formación inicial, deberá aprobar los exámenes y estudios siguientes:
+I. De manera directa, para lo cual el Trabajador inscrito en el ISSSTE o las dependencias y entidades públicas podrán acudir a las oficinas o sucursales de la Administradora que opere la Cuenta Individual;
 
-l. Examen toxicológico;
+II. A través de las ICEFAS, entidades receptoras o las personas morales que, en su caso, presten los servicios a las Administradoras para llevar a cabo la recepción de dichos recursos, o
 
-II. Examen médico;
+III. A través de los equipos y sistemas automatizados o de telecomunicación previstos en el contrato de administración de fondos para el retiro.
 
-III. Examen de conocimientos generales y habilidades intelectuales básicas;
+###### ARTÍCULO 79.
 
-IV. Estudio de personalidad;
+Para la protección de los Trabajadores inscritos en el ISSSTE, las Administradoras no podrán por ningún motivo, recibir aportaciones voluntarias a través de sus agentes promotores.
 
-V. Examen de capacidad físico-atlética;
+###### ARTÍCULO 80.
 
-VI. Examen patrimonial y de entorno social; y
+Tendrán derecho a disponer de los recursos depositados en la subcuenta de aportaciones voluntarias, aquellas personas que designen como sus beneficiarios, los Trabajadores inscritos en el ISSSTE titulares de las Cuentas Individuales en que se hayan depositado los recursos correspondientes a esas subcuentas, y a falta de los beneficiarios designados, se estará a lo dispuesto por el derecho común de cada entidad federativa, considerando el domicilio del titular de la Cuenta Individual.
 
-VII. Evaluación de Control de Confianza.
+#### Sección VII. Del Derecho de los Trabajadores inscritos en el ISSSTE a la información de su Cuenta Individual
 
-#### SECCIÓN CUARTA. DE LA CONDECORACIÓN AL MÉRITO EJEMPLAR
+###### ARTÍCULO 81.
 
-###### Artículo 228.
+Los Trabajadores inscritos en el ISSSTE tendrán derecho a recibir, por lo menos dos veces al año, en el domicilio que indiquen, sus estados de cuenta y el estado de inversiones, donde se deberán destacar las aportaciones patronales y del Trabajador inscrito en el ISSSTE, y el número de días de cotización registrado durante cada bimestre que comprenda el periodo del estado de cuenta, así como las comisiones cobradas por la Administradora y las Sociedades de Inversión que ésta administre.
 
-La condecoración al mérito ejemplar se otorgará, a los miembros del Servicio que se distingan en forma sobresaliente en las disciplinas científica, artística o cultural y que sea de relevante interés, prestigio y dignidad para la Secretaría.
+Los Trabajadores podrán notificar para tal efecto a la Administradora que opere su Cuenta Individual, sus cambios de domicilio.
 
-###### Artículo 81.
+Los estados de cuenta a que se refiere el primer párrafo, serán enviados semestralmente, el primero comprenderá la información relativa al periodo comprendido del 1o. de enero al 30 de junio, y el segundo al periodo comprendido del 1o. de julio al 31 de diciembre de cada año. Los documentos señalados deberán ser enviados a los Trabajadores inscritos en el ISSSTE en un plazo no mayor a treinta días naturales siguientes a la fecha de corte.
 
-El examen toxicológico es el medio por el cual se detecta al aspirante que presenta adicciones a cualquier tipo de droga o sustancia psicotrópica.
+Las Administradoras sólo podrán suspender el envío de los estados de cuenta cuando se cercioren justificadamente de que la dirección proporcionada no existe, o de que el Trabajador inscrito en el ISSSTE no tiene su domicilio en el lugar indicado. En ambos casos, las Administradoras deberán conservar los estados de cuenta a través de medios electrónicos e imprimirlos cuando el Trabajador inscrito en el ISSSTE lo solicite.
 
-#### SECCIÓN QUINTA. DE LA CONDECORACIÓN AL MÉRITO TECNOLÓGICO
+En todo caso los estados de cuenta se sujetarán a lo dispuesto en las reglas de carácter general que para tal efecto emita la Comisión.
 
-###### Artículo 229.
+#### Sección VIII. Del Traspaso de Cuentas Individuales de los Trabajadores inscritos en el ISSSTE
 
-La condecoración al mérito tecnológico se otorgará, en primera y segunda clase, a los miembros del Servicio que inventen, diseñen o mejoren algún instrumento, aparato, sistema o método que sea de utilidad y prestigio para la Secretaría, el Municipio, el Estado o la Nación.
+###### ARTÍCULO 82.
 
-###### Artículo 230.
+Los Trabajadores inscritos en el ISSSTE, tendrán derecho a solicitar el traspaso de su Cuenta Individual a una Administradora diferente a la que opere la cuenta, en los siguientes casos:
 
-Se confiere en primera clase a los miembros del Servicio que sean autores de un invento o modificación de utilidad para la Secretaría, el Ayuntamiento, el Estado o la Nación y en segunda clase para los que inicien reformas o métodos de instrucción o procedimientos, que impliquen un progreso real para la Secretaría.
+I. Transcurrido un año calendario contado a partir de que se registró o contado a partir de la última ocasión en que haya ejercitado su derecho a traspaso;
 
-###### Artículo 82.
+II. Si la Administradora que opere la Cuenta Individual modificara su estructura de comisiones, siempre y cuando la modificación implique un incremento en las comisiones que se cobren al Trabajador inscrito en el ISSSTE;
 
-Este examen se realizará mediante la aplicación de la tecnología más avanzada con la que se cuente. Los casos reactivos positivos, se confirmarán de inmediato y el reporte de los resultados positivos deberá ser entregado en forma individualizada con la firma del químico responsable de su aplicación.
+III. Si la Administradora modificara el régimen de inversión de la Sociedad de Inversión en que el Trabajador inscrito en el ISSSTE tenga invertidos sus recursos;
 
-###### Artículo 83.
+IV. Cuando la Administradora entre en estado de disolución o se fusione con otra Administradora, o
 
-El aspirante que resulte positivo a este examen, después de haber sido confirmado el resultado, no podrá ingresar bajo ninguna circunstancia al Servicio.
+V. Cuando el traspaso que se solicite sea a una Administradora que cobre comisiones menores conforme a los criterios que determine la Comisión. Para ejercer el derecho a que se refiere esta fracción se deberá cumplir con lo siguiente:
 
-###### Artículo 84.
+a) Que en la Cuenta Individual sólo haya recursos acumulados bajo el régimen del ISSSTE, o
 
-A efecto de mantener los estándares de calidad que garanticen la confiabilidad de los exámenes y resultados de la evaluación toxicológica, el Ayuntamiento podrá convenir que se lleven a cabo con laboratorios de servicios periciales, centros de evaluación Federal, Estatal o Municipal o laboratorios del Estado, que acrediten los Lineamientos Generales de Operación, conforme a las Normas Oficiales Mexicanas.
+b) Que en caso de haber en la Cuenta Individual recursos del Seguro de RCV, el titular de la Cuenta Individual sea un Trabajador que no esté cotizando al IMSS a la fecha del traspaso.
 
-###### Artículo 85.
+En el caso de fusión entre Administradoras, el derecho de traspaso sólo corresponde a los Trabajadores que se encuentren registrados en la Administradora fusionada.
 
-El Comité deberá asegurarse por los medios idóneos que las personas responsables de la obtención y manejo de muestras, guarden la debida cadena de custodia de las mismas.
+###### ARTÍCULO 83.
 
-#### SECCIÓN SEXTA. DE LA CONDECORACIÓN AL MÉRITO FACULTATIVO
+Los Trabajadores inscritos en el ISSSTE tendrán derecho a solicitar el traspaso de su Cuenta Individual de una ICEFA a una Administradora a través de los medios a que se refiere el artículo 60 del presente Reglamento y conforme a las reglas de carácter general que emita la Comisión.
 
-###### Artículo 231.
+###### ARTÍCULO 84.
 
-La condecoración al mérito facultativo se otorgará, en primera y segunda clase, a los miembros del Servicio que se hayan distinguido por realizar en forma brillante su formación. Se otorgará, en primera clase a los que obtengan primer lugar en todos los años y en segunda clase a los que hayan obtenido primeros y/o segundos lugares en todos los años.
+En ningún caso podrán ser discriminados los Trabajadores inscritos en el ISSSTE, por lo que la Administradora Receptora y la Administradora Transferente no podrán negarse a efectuar el traspaso solicitado, cuando se cumpla con las disposiciones legales establecidas al efecto.
 
-###### Artículo 86.
+###### ARTÍCULO 85.
 
-En los casos en que algún miembro del Servicio en activo, al momento de presentar este examen estuviere tomando medicamentos, deberá informar a la Academia y al personal del laboratorio encargado de recibir las muestras, presentando la receta original.
+Para proteger los intereses de los Trabajadores inscritos en el ISSSTE, las Administradoras Receptoras serán responsables del traspaso indebido de Cuentas Individuales de Trabajadores inscritos en el ISSSTE.
 
-###### Artículo 87.
+Las Administradoras Receptoras deberán resarcir el monto de los rendimientos que debieron generarse en la Cuenta Individual, calculados desde la fecha de liquidación del traspaso indebido, así como las comisiones cobradas durante la administración indebida de la cuenta, que le hubieren cobrado, a aquel Trabajador inscrito en el ISSSTE que acredite haber sido objeto de un traspaso indebido sin perjuicio de las sanciones que conforme a la Ley u otros ordenamientos legales fueren aplicables.
 
-El examen médico permite identificar y conocer el estado de salud del aspirante, mediante entrevista médica, exploración completa, estudio antropométrico, estudios de laboratorio y gabinete, a fin de detectar enfermedades crónico-degenerativas, incapacidad para realizar esfuerzo físico, signos clínicos de abuso de alcohol, tabaco y drogas, antecedentes heredofamiliares, personales y patológicos que impidan el buen desempeño de la función a la que aspira.
+Para efectos de lo señalado en el párrafo anterior, el Trabajador inscrito en el ISSSTE podrá manifestar por escrito ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o ante la Administradora Transferente, que se efectuó el traspaso de su Cuenta Individual sin que hubiera otorgado su consentimiento, dentro de los ciento ochenta días hábiles siguientes a que el Trabajador inscrito en el ISSSTE tenga conocimiento que fue inscrito en la Base de Datos Nacional SAR. Una vez transcurrido este plazo se entenderá que el traspaso fue realizado a satisfacción del Trabajador inscrito en el ISSSTE.
 
-#### SECCIÓN SÉPTIMA. DE LA CONDECORACIÓN AL MÉRITO DOCENTE
+El Trabajador inscrito en el ISSSTE que haga del conocimiento de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o de la Administradora Transferente, que ha sido objeto de un traspaso indebido, dentro del plazo señalado en el párrafo anterior, y siempre que tal circunstancia haya sido acreditada, podrá solicitar el traspaso de su Cuenta Individual a otra Administradora, sin necesidad de que transcurra el periodo mínimo de permanencia que le hubiera sido aplicable.
 
-###### Artículo 232.
+#### Sección IX. Del Retiro de Recursos de las Cuentas Individuales de los Trabajadores inscritos en el ISSSTE
 
-La condecoración al mérito docente se otorgará, en primera y segunda clase, a los miembros del Servicio que hayan desempeñado actividades docentes con distinción y eficiencia por un tiempo mínimo de tres años, pudiendo computarse en varios periodos.
+###### ARTÍCULO 86.
 
-###### Artículo 233.
+La Comisión determinará mediante reglas de carácter general los medios a través de los cuales podrá efectuarse el retiro de los recursos de las Cuentas Individuales, debiéndose considerar entre otros medios, que el Trabajador inscrito en el ISSSTE o sus beneficiarios, según se trate, puedan acudir directamente ante la Administradora correspondiente para tal fin, o bien, cuando así lo acuerden con dicha entidad financiera, puedan efectuar el retiro a que tengan derecho a través de equipos y sistemas automatizados o de telecomunicación.
 
-Se confiere, en primera clase al miembro del Servicio que imparta asignaturas de nivel superior y, en segunda clase al que imparta asignaturas no especificadas en la clasificación anterior.
+###### ARTÍCULO 87.
 
-###### Artículo 88.
+Las Administradoras que tengan indicios o conocimiento de que una pensión cuyo pago tengan a su cargo, deba terminarse o suspenderse, deberán comunicarlo al ISSSTE, a efecto de que evalúe el caso y lleve a cabo las acciones que procedan en términos de las leyes correspondientes.
 
-Este examen comprenderá, además de la revisión de la historia clínica de cada aspirante, los siguientes aspectos:
+#### Sección X. De la participación de las Empresas Operadoras en beneficio de los Trabajadores inscritos en el ISSSTE
 
-I. Estudio antropométrico:
+###### ARTÍCULO 88.
 
-a) Peso; y
+Para tener una Base de Datos Nacional SAR con la información necesaria para garantizar que los Trabajadores inscritos en el ISSSTE puedan ejercitar sus derechos de registro, traspaso y retiro en una Administradora de Fondos para el Retiro, dicha base, conforme al artículo 57 de la Ley, deberá contener:
 
-b) Talla.
+I. Clave y denominación o razón social de la Administradora o ICEFA en que se encuentre abierta cada Cuenta Individual de los Trabajadores inscritos en el ISSSTE;
 
-II. Signos vitales:
+II. La clave de identificación de cada Cuenta Individual de los Trabajadores inscritos en el ISSSTE;
 
-a) Presión arterial;
+III. El domicilio de los Trabajadores inscritos en el ISSSTE de conformidad con los procedimientos que al efecto se establezcan;
 
-b) Pulso;
+IV. Los saldos de las subcuentas que integren la Cuenta Individual de los Trabajadores inscritos en el ISSSTE de conformidad con los procedimientos que al efecto se establezcan;
 
-c) Temperatura; y
+V. Los movimientos históricos de registro, traspaso, retiro, devolución de pagos indebidos o en exceso, unificación, Separación de Cuentas y demás procesos operativos de cada Cuenta Individual de los Trabajadores inscritos en el ISSSTE;
 
-d) Frecuencia cardiaca respiratoria.
+VI. La información de los Trabajadores inscritos en el ISSSTE proporcionada por el ISSSTE y FOVISSSTE para el proceso de recaudación de aportaciones, así como para determinar la procedencia del registro, unificaciones, Separación de Cuentas, retiros y de los demás procedimientos en que se utilice información proporcionada por dicho Instituto y fondo;
 
-III. Entrevista médica:
+VII. El nombre de la dependencia o entidad que efectúe el entero de aportaciones a favor de los Trabajadores inscritos en el ISSSTE;
 
-a) Revisión de historia clínica.
+VIII. La información de los créditos de vivienda otorgados por el FOVISSSTE;
 
-IV. Exploración completa que incluya:
+IX. La información de los Trabajadores inscritos en el ISSSTE que no hayan elegido Administradora;
 
-a) Agudeza visual; y
+X. La información relativa a las Cuentas Individuales Inactivas de los Trabajadores inscritos en el ISSSTE, considerándose como tales a aquellas cuentas que no hayan tenido movimientos por depósitos de aportaciones durante el periodo de un año calendario contado a partir del último depósito realizado;
 
-b) Valoración de fondo de ojo y exploraciones neurológicas, osteomioarticular y por segmento.
+XI. La información relativa a las Cuentas Inhabilitadas de los Trabajadores inscritos en el ISSSTE, considerándose como tales a aquellas cuentas que una Administradora haya dejado de operar y cuyo saldo en todas sus subcuentas sea cero, derivado de un proceso de disposición de recursos, unificación, Separación de Cuentas o de traspaso de cuentas;
 
-V. Exámenes de laboratorio:
+XII. La información relativa a los agentes promotores en las Administradoras, y
 
-a) Biometría hemática completa;
+XIII. La demás información que señale la Ley, así como la que soliciten los Institutos de Seguridad Social de acuerdo a sus facultades legales previstas en sus respectivas leyes.
 
-b) Química sanguínea, que incluya glucosa, urea, creatinina, ácido úrico, colesterol y triglicéridos; y
+###### ARTÍCULO 89.
 
-c) Examen general de orina.
+La operación de las Empresas Operadoras asegurará el buen funcionamiento de los Sistemas de Ahorro para el Retiro en beneficio de los Trabajadores inscritos en el ISSSTE, para lo cual realizarán las siguientes funciones:
 
-VI. Estudios de gabinete:
+I. Administrar la Base de Datos Nacional SAR, para lo cual deberán:
 
-a) Tele de tórax.
+a) Obtener la información de los Trabajadores inscritos en el ISSSTE procedente de los Sistemas de Ahorro para el Retiro e integrarla en la Base de Datos Nacional SAR, así como corregir o depurar ésta cuando la información recibida revele errores en los registros, de conformidad con la normatividad aplicable;
 
-###### Artículo 89.
+b) Mantener en operación los mecanismos de seguridad requeridos para la administración de la Base de Datos Nacional SAR y disponer de planes de contingencia para salvaguardar su integridad y continuidad del servicio a los Participantes en los Sistemas de Ahorro para el Retiro, ISSSTE, FOVISSSTE y la Comisión, y
 
-A efecto de mantener los estándares de calidad que garanticen la confiabilidad de los exámenes y resultados de la evaluación médica, el Ayuntamiento podrá convenir que se lleven a cabo con Instituciones Públicas o Privadas de Salud, que cuenten con infraestructura y tecnología idóneas para realizar el examen médico completo, de laboratorio y radiológico.
+c) Mantener actualizada la Base de Datos Nacional SAR con la información relativa a los Trabajadores inscritos en el ISSSTE.
 
-Cada evaluación médica será firmada, sellada y hará énfasis en la detección de enfermedades crónico-degenerativas, signos clínicos de abuso de alcohol, tabaco y drogas o incapacidad para realizar esfuerzo físico; de la misma manera, cada evaluación médica deberá contener una recomendación por parte del médico para realizar la evaluación de técnicas de la función policial; si la instrucción es no presentar la evaluación, deberá de ser justificada con base en su diagnóstico.
+II. Promover un ordenado proceso de elección de Administradora por los Trabajadores inscritos en el ISSSTE;
 
-#### SECCIÓN OCTAVA. DE LA CONDECORACIÓN AL MÉRITO DEPORTIVO
+III. Proporcionar a los Trabajadores inscritos en el ISSSTE información sobre los Sistemas de Ahorro para el Retiro a través de equipos y sistemas automatizados o de telecomunicación;
 
-###### Artículo 234.
+IV. Identificar las Cuentas Individuales de los Trabajadores inscritos en el ISSSTE en las Administradoras e ICEFAS;
 
-La condecoración al mérito deportivo se otorgará, en primera y segunda clase, a los miembros del Servicio que se distingan en cualquiera de las ramas del deporte.
+V. Certificar los registros de los Trabajadores inscritos en el ISSSTE en las Administradoras;
 
-Se confiere en primera clase, a quien por su participación en cualquier disciplina deportiva en representación de la Secretaria, ya sea en justas de nivel municipal, estatal, nacional o internacional, obtenga alguna presea y en segunda clase, a quien impulse o participe en alguna de las ramas del deporte, en beneficio de la Secretaría.
+VI. Controlar los procesos de traspaso de las Cuentas Individuales de los Trabajadores inscritos en el ISSSTE, para lo cual deberán:
 
-###### Artículo 90.
+a) Comprobar que los procesos de traspaso de las Cuentas Individuales de los Trabajadores inscritos en el ISSSTE sean efectuados conforme a la normatividad aplicable, y
 
-El examen de conocimientos generales, tiene como objeto conocer el perfil cultural del aspirante.
+b) Allegarse, conforme a la normatividad aplicable, de la información que permita verificar que los procesos de traspaso de las Cuentas Individuales de los Trabajadores inscritos en el ISSSTE sean realizados en términos de los procedimientos que al efecto se establezcan en las reglas de carácter general que expida la Comisión.
 
-#### SECCIÓN NOVENA. DE LA MENCIÓN HONORÍFICA, EL DISTINTIVO Y LA CITACIÓN
+VII. Coadyuvar al proceso de localización de los Trabajadores inscritos en el ISSSTE para permitir un ordenado traspaso de las Cuentas Individuales de estos últimos de una Administradora a otra;
 
-###### Artículo 235.
+VIII. Coadyuvar al proceso de localización de los Trabajadores inscritos en el ISSSTE para permitir un ordenado traspaso de las Cuentas Individuales de estos últimos de una ICEFA a una Administradora;
 
-La mención honorífica se otorgará, al miembro del Servicio por acciones sobresalientes o de relevancia no consideradas para el otorgamiento de condecoraciones.
+IX. Coadyuvar al proceso de localización de Subcuentas del Fondo de la Vivienda a fin de presentar un ordenado traspaso de saldos y de las aportaciones subsecuentes, para el caso de Trabajadores inscritos en el ISSSTE a quienes se les otorgó un crédito para vivienda conforme a lo establecido en los artículos 103 y 107 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-La propuesta sólo podrá presentarla el superior jerárquico correspondiente ante la Comisión de Honor.
+X. Operar y llevar el control de los procesos operativos del Sistema de Ahorro para el Retiro de los Trabajadores inscritos en el ISSSTE en los que intervengan;
 
-###### Artículo 236.
+XI. Servir de concentradora y distribuidora entre los Participantes en los Sistemas de Ahorro para el Retiro, ISSSTE, FOVISSSTE y la Comisión de la información relativa al Sistema de Ahorro para el Retiro de los Trabajadores inscritos en el ISSSTE para lo cual deberán:
 
-El distintivo se otorga por actuación sobresaliente en el cumplimiento del servicio, o desempeño académico en cursos debido a intercambios interinstitucionales.
+a) Desarrollar un sistema que permita a la Comisión, ISSSTE, FOVISSSTE y Participantes en los Sistemas de Ahorro para el Retiro consultar y dar seguimiento a las Cuentas Individuales de los Trabajadores inscritos en el ISSSTE y a los trámites realizados por éstos, evitando cualquier acceso a información de la Base de Datos Nacional SAR por personas que no se encuentren expresamente autorizadas para ello legalmente;
 
-###### Artículo 237.
+b) Desarrollar los sistemas y adecuaciones necesarias a los mismos, para asegurar el buen funcionamiento del Sistema de Ahorro para el Retiro de los Trabajadores inscritos en el ISSSTE, sujetándose a los criterios que determine la Comisión;
 
-La citación es el reconocimiento verbal y escrito conferido al miembro del Servicio, por haber realizado un hecho relevante, que no esté considerado para el otorgamiento de los estímulos antes referidos a juicio de la Comisión de Honor.
+c) Administrar el sistema de información de la Subcuenta del Fondo de la Vivienda, de conformidad con los lineamientos que al efecto establezca la Comisión conjuntamente con el FOVISSSTE;
 
-### CAPÍTULO TERCERO. DE LA RECOMPENSA
+d) Informar a las Administradoras y a las ICEFAS, sobre las tasas de rendimiento que deberán aplicar a la Subcuenta del Fondo de la Vivienda de conformidad con la información que le proporcione el FOVISSSTE, y
 
-###### Artículo 238.
+e) Informar a quien la Comisión les indique, las tasas de rendimiento de la Cuenta ISSSTE que, a su vez, les haya informado la Secretaría.
 
-Recompensa es la remuneración de carácter económico que se otorga, dependiendo de la disponibilidad presupuestal de la Secretaria, a fin de incentivar la conducta de los miembros del Servicio, creando conciencia de que el esfuerzo y sacrificio son honrados y reconocidos por la misma y el Ayuntamiento.
+XII. Establecer el procedimiento que permita que la información derivada del Sistema de Ahorro para el Retiro de los Trabajadores inscritos en el ISSSTE fluya de manera ordenada entre los Participantes en los Sistemas de Ahorro para el Retiro, ISSSTE, FOVISSSTE y la Comisión;
 
-###### Artículo 239.
+XIII. Desarrollar y someter a aprobación de la Comisión el Manual de Procedimientos Transaccionales, así como mantenerlo actualizado conforme a la normatividad vigente.
 
-Para efectos de otorgamiento de recompensas serán evaluadas las siguientes circunstancias:
+El ISSSTE y FOVISSSTE podrán opinar respecto de las operaciones y procesos en los que el Manual de Procedimientos Transaccionales prevea su participación;
 
-I. La relevancia de los actos que, en términos de proyección, favorezcan la imagen de la Secretaría; y
+XIV. Contar con los sistemas de información, infraestructura de comunicaciones y de cómputo, e instalaciones requeridas para cumplir con las obligaciones a su cargo, en los términos de la normatividad aplicable;
 
-II. El grado de esfuerzo y sacrificio, así como si se rebasaron los límites del deber, o si se consiguieron resultados sobresalientes en las actuaciones del miembro del Servicio.
+XV. Distribuir los fondos de las aportaciones recibidas en la Cuenta ISSSTE a las Administradoras correspondientes;
 
-###### Artículo 240.
+XVI. Procurar mantener depurada la Base de Datos Nacional SAR, para lo cual deberán:
 
-En el caso de que el miembro del Servicio que se hubiere hecho merecedor a la entrega de una recompensa fallezca, ésta será entregada a quien legalmente corresponda.
+a) Identificar las Cuentas Individuales duplicadas de los Trabajadores inscritos en el ISSSTE;
 
-###### Artículo 241.
+b) Incentivar la unificación, separación y traspaso de Cuentas Individuales de los Trabajadores inscritos en el ISSSTE;
 
-Si un miembro del Servicio pierde la vida al realizar actos que merecieren el otorgamiento de algún reconocimiento, la Comisión de Honor resolverá a fin de conferírselo post-mortem a quien legalmente corresponda.
+c) Identificar las invasiones de números de seguridad social y hacerlas del conocimiento de las Administradoras, ISSSTE y FOVISSSTE, y
 
-## TÍTULO DÉCIMO QUINTO. DEL SISTEMA DISCIPLINARIO
+d) Iniciar de oficio los procesos de unificación y Separación de Cuentas de los Trabajadores inscritos en el ISSSTE que sean necesarios de conformidad con los procedimientos que al efecto se establezcan.
 
-### CAPÍTULO PRIMERO. DEL RÉGIMEN DISCIPLINARIO
+XVII. Coadyuvar al proceso de unificación de Cuentas Individuales en ICEFAS;
 
-###### Artículo 242.
+XVIII. Coadyuvar para la devolución de los pagos indebidos o en exceso;
 
-En caso de incumplimiento por parte de los miembros del Servicio a los ordenamientos señalado en el Reglamento y en el Reglamento Interior, se impondrán las correcciones disciplinarias o sanciones señaladas en éstos y en los demás ordenamientos en la materia.
+XIX. Someter la previsión de ingresos y egresos a la consideración de la Comisión en forma previa a la aprobación de su plan de trabajo anual y quinquenal;
 
-###### Artículo 243.
+XX. Disponer de un sistema de costeo de las operaciones que lleven a cabo, que les permita proponer las comisiones que cobren por los servicios que presten a los Participantes en los Sistemas de Ahorro para el Retiro, y
 
-El sistema disciplinario permite aplicar las sanciones y correcciones disciplinarias, a que se haga acreedor el miembro del Servicio que transgreda los principios de actuación; viole las leyes, las normas disciplinarias aplicables o desobedezca órdenes de su superior dentro del Servicio.
+XXI. Las demás que señalen la Ley, el presente Reglamento y el título de concesión.
 
-###### Artículo 244.
+#### Sección XI. De la participación del ISSSTE en beneficio de los Trabajadores inscritos en el ISSSTE
 
-El sistema disciplinario tiene como objeto asegurar que la conducta de los miembros del Servicio, se sujete a las disposiciones constitucionales, locales y municipales según corresponda, al cumplimiento de las órdenes de su superior jerárquico y a los altos conceptos del honor, la justicia y la ética.
+###### ARTÍCULO 90.
 
-###### Artículo 245.
+Para el correcto funcionamiento de los Sistemas de Ahorro para el Retiro en beneficio de los Trabajadores, el ISSSTE realizará las siguientes acciones:
 
-El presente procedimiento regula las sanciones y correcciones disciplinarias aplicables a los miembros del Servicio, que violen los principios de actuación, las disposiciones administrativas y las órdenes de sus superiores jerárquicos.
+I. Proporcionar de manera continua a las Empresas Operadoras la información relativa a los Trabajadores que se encuentren inscritos en dicho Instituto para que éstos puedan registrarse en las Administradoras y retirar los recursos de su Cuenta Individual;
 
-### CAPÍTULO SEGUNDO. DE LA DISCIPLINA
+II. Proporcionar de manera continua a las Empresas Operadoras la información sobre los Trabajadores inscritos en dicho Instituto a los que les haya sido otorgado o cancelado un crédito de vivienda;
 
-###### Artículo 246.
+III. Coadyuvar en lo conducente en los procesos de unificación o Separación de Cuentas;
 
-El Título Quinto, Capítulo Primero de la Ley Estatal, señala que la disciplina es la base de la integración, funcionamiento y organización del Servicio, por lo que los miembros del mismo, deberán sujetar su conducta a la observancia de este procedimiento, las leyes, disposiciones reglamentarias, órdenes de sus superiores jerárquicos, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
+IV. Entregar los recursos de la Subcuenta del Fondo de la Vivienda a la Administradora o ICEFA que corresponda, o en su caso, al Trabajador inscrito en el ISSSTE o sus beneficiarios que tengan derecho a recibirlos, dentro de un plazo máximo de quince días hábiles contado a partir de que se solicite el retiro de los mismos;
 
-###### Artículo 247.
+V. Emitir opinión respecto de las operaciones y procesos en los que el Manual de Procedimientos Transaccionales prevea su participación, y
 
-La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el Servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes, reglamentos, disposiciones administrativas y lo relativo al ceremonial y protocolo, así mismo demanda respeto y consideración mutua entre quien ostente una jerarquía y sus subordinados.
+VI. Las demás que establezcan las disposiciones aplicables.
 
-### CAPÍTULO TERCERO. DE LAS SANCIONES
+#### Sección XII. De los Trabajadores inscritos en el ISSSTE que no se registren en una Administradora
 
-###### Artículo 248.
+###### ARTÍCULO 91.
 
-Las sanciones solamente serán impuestas al miembro del Servicio, mediante resolución formal de la Comisión de Honor, por violaciones o faltas a los deberes establecidos en las leyes, el procedimiento y demás disposiciones aplicables.
+Los Trabajadores inscritos en el ISSSTE que no se registren en una Administradora tendrán derecho a que las ICEFAS sigan operando sus Cuentas Individuales, sujetándose a lo dispuesto por la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y a la demás normatividad aplicable.
 
-###### Artículo 249.
+###### ARTÍCULO 92.
 
-La ejecución de sanciones que imponga la Comisión de Honor, se realizará sin perjuicio de las que corresponda aplicar, en su caso, a otra autoridad por la responsabilidad administrativa o penal que proceda.
+Las ICEFAS, estarán obligadas a continuar operando, en términos de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, las Cuentas Individuales de aquellos Trabajadores que no hayan solicitado el traspaso de sus recursos a una Administradora.
 
-###### Artículo 250.
+### CAPÍTULO VI. DE LAS CUENTAS INDIVIDUALES DE LOS TRABAJADORES NO AFILIADOS
 
-En el caso de la suspensión, el infractor quedará separado del Servicio y puesto a disposición del Departamento de Recursos Humanos de la Secretaría, desde el momento en que se le notifique la fecha de la audiencia y hasta la resolución definitiva correspondiente.
+#### Sección I. De los Derechos de los Trabajadores no Afiliados relacionados con su Cuenta Individual
 
-###### Artículo 251.
+###### ARTÍCULO 93.
 
-En caso de que el presunto infractor no resultare responsable, será restituido en el goce de todos sus derechos.
+El Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE en relación con su Cuenta Individual, tendrá los siguientes derechos:
 
-###### Artículo 252.
+I. Elegir la Administradora en la que desee abrir su Cuenta Individual;
 
-De conformidad con la Ley General y la Ley Estatal en sus artículos 26 fracción IV y 83, las sanciones que serán aplicables al miembro del Servicio infractor, son las siguientes:
+II. Tramitar su registro en la Administradora de su elección, por cualquiera de los medios a que se refiere el artículo 94 del presente Reglamento;
 
-l. Amonestación;
+III. Solicitar información a la Administradora elegida a través de cualquier medio de comunicación disponible, a efecto de que el Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE cuente con información relacionada con su Cuenta Individual;
 
-II. Cambio de Adscripción;
+IV. Celebrar un contrato de administración de fondos para el retiro con la Administradora en que se registre el Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE, donde consten los términos y condiciones sobre los cuales se administrará la Cuenta Individual del mismo;
 
-III. Suspensión;
+V. Realizar aportaciones para abono a su Cuenta Individual, de conformidad con lo establecido en el artículo 101 del presente Reglamento;
 
-IV. Remoción.
+VI. Designar beneficiarios, para que cuando proceda, éstos dispongan de los recursos que sean depositados en las subcuentas a que se refiere el artículo 109 de este Reglamento de la Cuenta Individual del Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE;
 
-###### Artículo 253.
+VII. Elegir que los recursos de su Cuenta Individual, sean invertidos en una o más Sociedades de Inversión que sean operadas por la Administradora que opere su cuenta, siempre que sean compatibles con lo establecido en el prospecto de información de la Sociedad de Inversión de que se trate;
 
-La aplicación de dichas sanciones se hará a juicio de la Comisión de Honor. En todo caso deberá registrarse en el expediente personal del infractor la sanción que se le aplique.
+VIII. Recibir, por lo menos dos veces al año, en el domicilio que le indique el Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE a la Administradora que opere su Cuenta Individual, los estados de cuenta y demás información sobre la misma;
 
-###### Artículo 91.
+IX. Solicitar el traspaso de su Cuenta Individual a otra Administradora distinta a la que la venía administrando, en términos de lo dispuesto por el artículo 104 del presente Reglamento;
 
-Para la correcta aplicación de este examen, el Comité, se asegurará de que se apliquen los procedimientos en los términos de los convenios celebrados con el Estado y de conformidad con la normatividad aplicable:
+X. Solicitar el resarcimiento de los daños y perjuicios causados, cuando el Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE acredite haber sido objeto de un traspaso indebido en términos de lo dispuesto por el artículo 106 de este Reglamento;
 
-a) Aplicar el instrumento a partir de perfiles, que garanticen su objetividad, validez, confiabilidad, transparencia y sistematización;
+XI. Realizar retiros de su Cuenta Individual conforme a lo establecido en la Ley, el artículo 108 de este Reglamento y a las disposiciones de carácter general que al efecto emita la Comisión;
 
-b) Definir las competencias relacionadas con los perfiles de cada puesto; y
+XII. A que las Empresas Operadoras tengan la información de las Cuentas Individuales del Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE en la Base de Datos Nacional SAR, y
 
-c) Aplicar un instrumento homologado a nivel nacional, coordinado con la Dirección General.
+XIII. Los demás que establezcan las disposiciones aplicables.
 
-###### Artículo 92.
+Los derechos a que se refiere el presente artículo deberán considerarse en forma enunciativa mas no limitativa.
 
-El estudio de personalidad es la evaluación por la cual, se conoce el perfil psicológico del aspirante a fin de evitar el ingreso de aquéllos que muestren alteraciones psicopatológicas.
+#### Sección II. Del Proceso de Registro de los Trabajadores no Afiliados
 
-Este estudio ponderará características de personalidad y coeficiente intelectual, con base en el perfil de ingreso y medirá los aspectos internos del sujeto y su relación con el ambiente, estabilidad emocional, motivación, juicio social, acatamiento de reglas, apego a figuras de autoridad y relaciones interpersonales, entre otras.
+###### ARTÍCULO 94.
 
-### CAPÍTULO ÚNICO. DE LA INTEGRACIÓN DE LOS ÓRGANOS COLEGIADOS
+Los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE tendrán derecho a elegir la Administradora en la que desee abrir su Cuenta Individual, por alguno de los siguientes medios:
 
-#### SECCIÓN PRIMERA. DE LA GRADUACIÓN DE SANCIONES
+I. De manera directa, para lo cual el Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE podrá acudir a las oficinas o sucursales de la Administradora seleccionada;
 
-###### Artículo 254.
+II. A través de los agentes promotores que actúen por cuenta y orden de las Administradoras, o
 
-Para graduar con equidad la imposición de las sanciones, la Comisión de Honor, tomará en consideración los factores siguientes:
+III. A través de los equipos y sistemas automatizados o de telecomunicación previstos en el contrato de administración de fondos para el retiro.
 
-l. Gravedad de la infracción;
+En el caso previsto en la fracción III, deberá observarse lo dispuesto por los artículos 89 al 94 del Código de Comercio.
 
-II. Daños causados a la Secretaría;
+Los equipos y sistemas automatizados o de telecomunicación se emplearán en beneficio del Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE a efecto de brindar mayor comodidad, agilidad y simplicidad en el proceso de registro.
 
-III. Daños infligidos a la ciudadanía;
+###### ARTÍCULO 95.
 
-IV. Prácticas que vulneren el funcionamiento de la Secretaría;
+El Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE tendrá derecho a celebrar un contrato de administración de fondos para el retiro con la Administradora que haya elegido, en términos del artículo 29 fracción III de la Ley.
 
-V. La reincidencia del responsable;
+###### ARTÍCULO 96.
 
-VI. La categoría jerarquía o grado el nivel académico y la antigüedad en el Servicio;
+Se establecerán medidas para proteger los recursos del Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE durante el proceso de registro. Para tal efecto las Empresas Operadoras con base en la información contenida en la Base de Datos Nacional SAR, certificarán la procedencia del registro del Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE en la Administradora que haya elegido, haciendo del conocimiento de la Administradora de que se trate, de la aceptación o rechazo de registro.
 
-VII. Las circunstancias y medios de ejecución;
+El registro de un Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE en una Administradora, surtirá efectos jurídicos a partir de su inscripción en la Base de Datos Nacional SAR, momento en el que se entenderá manifestado el consentimiento de la Administradora para obligarse en los términos del contrato de administración de fondos para el retiro, por lo que la falta de firma del representante de la Administradora en el contrato, no afectará la validez del mismo.
 
-VIII. Las circunstancias socioeconómicas del miembro del Servicio;
+El Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE tendrá derecho a solicitar información a la Administradora elegida a través de cualquier medio de comunicación disponible, a efecto de que cuente con información relacionada al estado que guarda su trámite de registro.
 
-IX. En su caso, el monto del beneficio, daño o perjuicio económicos derivado del incumplimiento de obligaciones;
+###### ARTÍCULO 97.
 
-X. Conducta observada con anterioridad al hecho;
+Las Empresas Operadoras para otorgar seguridad al Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE al realizar la certificación a que se refiere el artículo anterior, deberán verificar que no se encuentra registrada en la Base de Datos Nacional SAR otra Cuenta Individual a nombre del Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE.
 
-XI. Intencionalidad o negligencia;
+Asimismo, las Empresas Operadoras deberán verificar que se cumple con lo establecido en la Ley y en las disposiciones de carácter general que al efecto establezca la Comisión para la apertura de la Cuenta Individual del Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE.
 
-XII. Afectación al servicio;
+#### Sección III. De la Integración de la Cuenta Individual de los Trabajadores no Afiliados
 
-XIII. Daños producidos a otros miembros del Servicio; y
+###### ARTÍCULO 98.
 
-XIV. Daños causados al material y equipo.
+Las Cuentas Individuales de los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE se integrarán conforme al artículo 74 ter de la Ley, por las siguientes subcuentas:
 
-###### Artículo 93.
+I. Subcuenta de Ahorro a Largo Plazo;
 
-La aplicación del estudio de personalidad se hará con la instancia evaluadora que al efecto designe el Comité.
+II. Subcuenta de Aportaciones Voluntarias, y
 
-#### SECCIÓN SEGUNDA. DE LA AMONESTACIÓN
+III. Las demás que establezca la Comisión mediante disposiciones de carácter general.
 
-###### Artículo 255.
+Los Trabajadores podrán abrir las Cuentas Individuales a que se refiere este artículo cuando no se encuentren en los supuestos previstos en los artículos 74, 74 bis o 74 quinquies de la Ley.
 
-La amonestación es el acto por el cual se advierte al miembro del Servicio, sobre la acción indebida u omisión en que incurrió en el ejercicio de sus funciones.
+###### ARTÍCULO 99.
 
-###### Artículo 256.
+Las Administradoras podrán establecer montos mínimos de inversión por Cuenta Individual o por subcuenta.
 
-Mediante la amonestación se informa al miembro del Servicio las consecuencias de su infracción y se le exhorta a que enmiende su conducta para no incurrir en una nueva, apercibiéndolo de que, en caso contrario, se hará acreedor a una sanción mayor. La aplicación de esta sanción se hará en términos que no denigren al probable infractor, en público o en privado, a criterio de la Comisión de Honor.
+###### ARTÍCULO 100.
 
-###### Artículo 257.
+La Base de Datos Nacional SAR se integrará con la información necesaria para garantizar que los Trabajadores no Afiliados puedan ejercitar sus derechos de registro, traspaso y retiro en una Administradora de Fondos para el Retiro.
 
-Dependiendo de la gravedad de la falta se aplicará una u otra forma de amonestación, pero en todo caso, procederá la amonestación pública cuando el probable infractor se niegue a recibir la notificación de la resolución.
+#### Sección IV. De la Recepción de Aportaciones de los Trabajadores no Afiliados
 
-###### Artículo 258.
+###### ARTÍCULO 101.
 
-La amonestación pública se hará frente a los miembros del Servicio de la unidad a la que se encuentre adscrito el infractor, quienes deberán ostentar el mismo o mayor grado que el sancionado. De ninguna manera se le amonestará en presencia de subordinados en categoría, jerárquica o grado.
+Los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE tendrán derecho a realizar aportaciones para abono en sus Cuentas Individuales, de manera directa en la Administradora que opere su cuenta o a través de las personas morales que, en su caso, presten servicios a la Administradora para llevar a cabo la recepción de dichos recursos.
 
-###### Artículo 94.
+Las aportaciones efectuadas por los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE deberán invertirse en las Sociedades de Inversión correspondientes a más tardar el segundo día hábil siguiente a su entero en la Administradora o en las personas morales, que en su caso, presten el servicio de recepción a la misma.
 
-Para la aplicación del estudio de personalidad, la instancia evaluadora deberá tomar en cuenta las siguientes características psicodiagnósticas a evaluar:
+Las Administradoras deberán enviar a las Empresas Operadoras la información relativa a las aportaciones que reciban en términos de este artículo.
 
-l. Actitud productiva y con sentido de responsabilidad;
+###### ARTÍCULO 102.
 
-II. Apego a normas;
+Para protección de los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE, las Administradoras no podrán recibir recursos de las subcuentas a que se refiere el artículo 98 de este Reglamento a través de agentes promotores.
 
-III. Asertividad;
+#### Sección V. Del Derecho de los Trabajadores no Afiliados a la información de su Cuenta Individual
 
-IV. Capacidad de análisis y síntesis;
+###### ARTÍCULO 103.
 
-V. Capacidad de Juicio;
+Los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE tendrán derecho a recibir, por lo menos dos veces al año, en el domicilio que indiquen, sus estados de cuenta y el estado de inversiones, donde se deberán destacar las aportaciones del Trabajador no Afiliado o que no se encuentren inscritos en el ISSSTE y las comisiones cobradas por la Administradora y las Sociedades de Inversión que ésta administre.
 
-VI. Capacidad Intelectual;
+Los Trabajadores podrán notificar para tal efecto a la Administradora que opere su Cuenta Individual, sus cambios de domicilio.
 
-VII. Estabilidad emocional;
+Los estados de cuenta a que se refiere el primer párrafo, serán enviados semestralmente, el primero comprenderá la información relativa al periodo comprendido del 1o. de enero al 30 de junio, y el segundo al periodo comprendido del 1o. de julio al 31 de diciembre de cada año. Los documentos señalados deberán ser enviados a los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE en un plazo no mayor a treinta días naturales siguientes a la fecha de corte.
 
-VIII. Ética personal y profesional;
+Las Administradoras sólo podrán suspender el envío de los estados de cuenta cuando se cercioren justificadamente de que la dirección proporcionada no existe, o de que el Trabajador no Afiliado o que no se encuentren inscrito en el ISSSTE no tiene su domicilio en el lugar indicado. En ambos casos, las Administradoras deberán conservar los estados de cuenta a través de medios electrónicos e imprimirlos cuando el Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE lo solicite.
 
-IX. Habilidades sociales;
+En todo caso los estados de cuenta se sujetarán a lo dispuesto en las reglas de carácter general que para tal efecto emita la Comisión.
 
-X. Iniciativa;
+#### Sección VI. Del Traspaso De Cuentas Individuales de los Trabajadores no Afiliados
 
-XI. Manejo de conflicto;
+###### ARTÍCULO 104.
 
-XII. Manejo de la Agresividad;
+Los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE tendrán derecho a solicitar el traspaso de sus Cuentas Individuales a otra Administradora distinta a la que las venía administrando, a través de los medios a que se refiere el artículo 94 de este Reglamento.
 
-XIII. Perseverancia;
+El traspaso se realizará de conformidad con lo establecido en los artículos 74 ter y 78 de la Ley y en las disposiciones de carácter general que expida la Comisión.
 
-XIV. Relaciones Interpersonales;
+###### ARTÍCULO 105.
 
-XV. Resolución de problemas;
+En ningún caso podrán ser discriminados los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE, por lo que la Administradora Receptora y la Administradora Transferente no podrán negarse a efectuar el traspaso solicitado, cuando se cumpla con las disposiciones legales establecidas al efecto.
 
-XVI. Sociabilidad;
+###### ARTÍCULO 106.
 
-XVII. Tolerancia;
+Deberán protegerse los intereses de los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE. Para tal efecto, las Administradoras Receptoras serán responsables del traspaso indebido de Cuentas Individuales de Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE.
 
-XVIII. Toma de decisiones; y
+Las Administradoras Receptoras deberán resarcir el monto de los rendimientos que debieron generarse en la Cuenta Individual del Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE, calculados desde la fecha de liquidación del traspaso indebido, así como las comisiones cobradas durante la administración indebida de la cuenta, que le hubieren cobrado, a aquel Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE que acredite haber sido objeto de un traspaso indebido sin perjuicio de las sanciones que conforme a la Ley u otros ordenamientos legales fueren aplicables.
 
-XIX. Trabajo en equipo.
+Para efectos de lo señalado en el párrafo anterior, el Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE podrá manifestar por escrito ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o ante la Administradora Transferente, que se efectuó el traspaso de su Cuenta Individual sin que hubiera otorgado su consentimiento, dentro de los ciento ochenta días hábiles siguientes a que el Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE tenga conocimiento que fue inscrito en la Base de Datos Nacional SAR. Una vez transcurrido este plazo se entenderá que el traspaso fue realizado a satisfacción del Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE.
 
-###### Artículo 95.
+El Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE que haga del conocimiento de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o de la Administradora Transferente, que ha sido objeto de un traspaso indebido, dentro del plazo señalado en el párrafo anterior, y siempre que tal circunstancia haya sido acreditada, podrá solicitar el traspaso de su Cuenta Individual a otra Administradora, sin necesidad de que transcurra el periodo mínimo de permanencia que le hubiera sido aplicable.
 
-A efecto de mantener los estándares de confiabilidad de los resultados del estudio de personalidad, el Comité deberá considerar los siguientes aspectos:
+#### Sección VII. Del Retiro de Recursos de las Cuentas Individuales de los Trabajadores no Afiliados
 
-I. Aplicar instrumentos de evaluación psicológica estandarizado (sic) a nivel nacional;
+###### ARTÍCULO 107.
 
-II. Garantizar que el personal que realice la aplicación de las pruebas, cuente con formación y experiencia en evaluación psicológica; y
+La Comisión determinará mediante reglas de carácter general los medios a través de los cuales podrá efectuarse el retiro de los recursos de las Cuentas Individuales, debiéndose considerar entre otros medios, que el Trabajador no Afiliado o que no se encuentre inscrito en el ISSSTE o sus beneficiarios, según se trate, puedan acudir directamente ante la Administradora correspondiente para tal fin, o bien, cuando así lo acuerden con dicha entidad financiera, puedan efectuar el retiro a que tengan derecho a través de equipos y sistemas automatizados o de telecomunicación.
 
-III. Sujetarse estrictamente a normas de objetividad, validez, confiabilidad, transparencia y sistematización.
+###### ARTÍCULO 108.
 
-###### Artículo 96.
+Los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE tendrán derecho a realizar retiros parciales o totales de la subcuenta en la que se depositen los recursos destinados a su pensión en los términos y condiciones que señalen los prospectos de información de las Sociedades de Inversión en que se encuentren invertidos sus recursos.
 
-El Comité establecerá una batería de pruebas psicológicas que evalúen las características establecidas en el artículo 94 conforme a su categoría.
+###### ARTÍCULO 109.
 
-I. Elementos con nivel educativo medio o superior:
+Tendrán derecho a disponer de los recursos depositados en las subcuentas a que se refiere el artículo 98 de este Reglamento, aquellas personas que designen como sus beneficiarios, los Trabajadores no Afiliados o que no se encuentren inscritos en el ISSSTE titulares de las Cuentas Individuales en que se hayan depositado los recursos correspondientes a esas subcuentas, y a falta de los beneficiarios designados, se estará a lo dispuesto por el derecho común de cada entidad federativa, considerando el domicilio del titular de la Cuenta Individual.
 
-a) Prueba de personalidad;
+### CAPÍTULO VII. DE LOS FONDOS DE PREVISIÓN SOCIAL
 
-b) Prueba de inteligencia; y
+###### ARTÍCULO 110.
 
-c) Prueba de adaptabilidad al puesto.
+Las Administradoras de acuerdo al artículo 74 quáter de la Ley, podrán prestar a las empresas privadas o a las dependencias y entidades públicas, los siguientes servicios:
 
-II. Elementos con nivel educativo bajo:
+I. Realizar el registro individualizado de los recursos del Fondo de Previsión Social;
 
-a) Prueba de personalidad;
+II. Administrar e invertir los recursos del Fondo de Previsión Social sin individualizarlos, y
 
-b) Prueba de escala básica de inteligencia; y
+III. Administrar, invertir e individualizar los recursos provenientes del Fondo de Previsión Social en Cuentas de Fondos de Previsión Social.
 
-c) Prueba de adaptabilidad al puesto.
+###### ARTÍCULO 111.
 
-###### Artículo 97.
+Las Administradoras que presten servicios a las empresas privadas o a las dependencias y entidades públicas relativos a Fondos de Previsión Social, deberán expedir los documentos y avisos que les indique la Comisión.
 
-La prueba de control de confianza tiene como objeto contar en la Secretaria con elementos confiables y honestos que actúen con apego a la legalidad y a la ética profesional, así como determinar la integridad del miembro del Servicio, por medio de modelos de comportamiento y actitudes, relacionados con su ámbito laboral.
+###### ARTÍCULO 112.
 
-La prueba de Control y Confianza sólo será aplicada en el Centro Estatal de Evaluación y Control de Confianza, en cumplimiento de la Ley Estatal y la Ley General por lo que el Comité se asegurará que, una vez cubiertos todos los requisitos de la convocatoria y haber aprobado todas las evaluaciones anteriores, la Unidad Administrativa encargada de operar el Ingreso y Selección, solicite la programación de fechas de aplicación al Centro Estatal de Evaluación y Control de confianza, conforme los planes establecidos dentro del Servicio.
+Las Administradoras podrán cobrar comisiones por la prestación de cualquiera de los servicios a que se refiere el artículo 110 de este Reglamento de acuerdo a lo que establezcan con las empresas privadas, o en su caso, con las dependencias y entidades públicas, en el contrato respectivo.
 
-#### SECCIÓN TERCERA. DEL CAMBIO DE ADSCRIPCIÓN
+###### ARTÍCULO 113.
 
-###### Artículo 259.
+La entrega y retiro de los recursos de Fondos de Previsión Social se realizará de conformidad con lo que pacten las Administradoras con las empresas privadas, o en su caso, las dependencias y entidades públicas, a la naturaleza del Fondo de Previsión Social, o en su caso, a lo dispuesto por el derecho común de cada entidad federativa considerando el domicilio del titular de la Cuenta de Fondos de Previsión Social.
 
-El cambio de adscripción del miembro del Servicio, consiste en su traslado de una actividad, área y lugar especifico a otra.
+###### ARTÍCULO 114.
 
-###### Artículo 260.
+La Comisión supervisará la administración de los recursos de Fondos de Previsión Social a que se refiere el artículo 74 quáter de la Ley, conforme a lo siguiente:
 
-Cuando por un mismo hecho, a dos o más miembros del Servicio, de una misma adscripción, se les imponga esta sanción, sus funciones serán diferentes.
+I. Verificará la existencia del contrato celebrado entre la Administradora y la persona que le confíe la administración del Fondo de Previsión Social, y
 
-###### Artículo 261.
+II. Que los recursos del Fondo de Previsión Social sean invertidos en la o las Sociedades de Inversión elegidas.
 
-En ningún caso, el cambio de adscripción debido a necesidades del servicio, o a cambios o rotaciones de personal para lograr mayor efectividad en el ejercicio de sus funciones, debe considerarse como una sanción por lo que no procederá la interposición de ningún recurso administrativo contra esta instrucción.
+###### ARTÍCULO 115.
 
-###### Artículo 98.
+Las Administradoras deberán conservar a disposición de la Comisión copia del contrato que celebren con las empresas privadas, o en su caso, con las dependencias y entidades públicas.
 
-El examen de capacidad físico-atlético, consistirá en la aplicación de pruebas de velocidad, fuerza muscular, elasticidad y resistencia en carrera, con la finalidad de valorar el rendimiento del aspirante en esta área.
+###### ARTÍCULO 116.
 
-Para presentar este examen será requisito indispensable acreditar previamente el examen médico correspondiente.
+Las Administradoras deberán entregar a la Comisión la información estadística de los Fondos de Previsión Social a los que presten sus servicios.
 
-###### Artículo 99.
+La Comisión podrá requerir a las Administradoras la información estadística de los Fondos de Previsión Social con la periodicidad que sea necesaria.
 
-El examen de capacidad fisico-atlético, podrá llevarse a cabo en los términos de los convenios que celebren el Ayuntamiento y otras instancias federales o estatales o en la Unidad Administrativa Municipal facultada para ello.
+###### ARTÍCULO 117.
 
-###### Artículo 100.
+Las Administradoras y las empresas privadas, o en su caso, dependencias y entidades públicas, serán responsables de establecer los términos y condiciones aplicables a la inversión y administración de los recursos de Fondos de Previsión Social.
 
-El examen patrimonial y de entorno social, tendrá como objetivo determinar la fama pública del aspirante en el núcleo social en que se desenvuelve, su composición y convivencia familiar, datos económicos, vivienda, antecedentes escolares, antecedentes de trabajo, así como su actividad e intereses actuales.
+Asimismo, las Administradoras y las empresas privadas, o en su caso, dependencias y entidades públicas, serán responsables de las minusvalías por violación del régimen de inversión pactado en los contratos, que puedan presentarse.
 
-El examen Patrimonial y de Entorno Social, sólo será aplicado por el Centro Estatal de Evaluación y Control de Confianza, por lo que el Comité deberá asegurarse de que la unidad Administrativa encargada de operar el Ingreso y Selección, solicite la programación de las pruebas, conforme las necesidades de planeación del Servicio, así como de que el personal de Ingreso cumpla con las instrucciones emitidas por el Centro Estatal para la aplicación del mismo.
+###### ARTÍCULO 118.
 
-#### SECCIÓN CUARTA. DE LA SUSPENSIÓN
+Atendiendo a su naturaleza, los recursos de los Fondos de Previsión Social podrán ser invertidos en Sociedades de Inversión que se elijan entre aquellas que tengan por objeto recibir Fondos de Previsión Social.
 
-###### Artículo 262.
+La Comisión establecerá mediante disposiciones de carácter general, los términos en que se llevará la administración de los recursos a que se refiere el presente artículo.
 
-La suspensión es la interrupción de la relación jurídica administrativa existente entre el probable infractor y la Secretaría, misma que no excederá de 90 días naturales o del término que establezcan otras leyes administrativas, derivada de la violación de algún principio de actuación, leyes, disposiciones administrativas, ordenes de sus superiores jerárquicos o por estar sujeto el miembro del Servicio a un proceso penal.
+###### ARTÍCULO 119.
 
-###### Artículo 263.
+Las Administradoras podrán no constituir reserva especial en las Sociedades de Inversión que tengan por objeto exclusivo la inversión de recursos provenientes de Fondos de Previsión Social, de conformidad con lo dispuesto por el segundo párrafo del artículo 28 de la Ley.
 
-El miembro del Servicio que esté sujeto a proceso penal como probable responsable de la comisión de algún hecho sancionado en la ley como delito grave, será en todo caso, suspendido por la Comisión de Honor desde que se dicte el auto de formal prisión y hasta que se emita sentencia ejecutoriada.
+###### ARTÍCULO 120.
 
-En caso de que ésta fuese condenatoria serán removidos; si por el contrario, fuese absolutoria, se le restituirá en sus derechos.
+Los Trabajadores que tengan a su favor Fondos de Previsión Social establecidos por empresas privadas o dependencias y entidades públicas en términos del artículo 74 quáter de la Ley, tendrán los derechos que se consagren en el contrato respectivo y los que atiendan a la naturaleza del Fondo de Previsión Social.
 
-###### Artículo 264.
+### CAPÍTULO VIII. DE LAS CUENTAS INDIVIDUALES DE LOS TRABAJADORES ESTATALES O MUNICIPALES
 
-La suspensión se aplica con la finalidad de lograr mejores resultados en un proceso penal y brindar seguridad a la sociedad.
+###### ARTÍCULO 121.
 
-###### Artículo 265.
+Las dependencias o entidades públicas estatales o municipales que cuenten con un sistema de pensiones de contribución definida con base en Cuentas Individuales, que otorguen a sus Trabajadores la propiedad sobre los recursos aportados, podrán contratar con Administradoras los servicios de administración, inversión e individualización de recursos provenientes de Fondos de Previsión Social.
 
-Al miembro del Servicio que se le suspenda en sus funciones, se le deberá recoger su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de las mismas, mientras se resuelve su situación jurídica.
+###### ARTÍCULO 122.
 
-###### Artículo 266.
+Las Cuentas Individuales de los Trabajadores Estatales o Municipales se integrarán conforme al artículo 74 quinquies de la Ley, por las siguientes subcuentas:
 
-Concluida la suspensión el integrante comparecerá ante el titular de la unidad de su adscripción, a quien informará en su caso, por escrito, de su reingreso al Servicio.
+I. Subcuenta de Fondos de Previsión Social;
 
-###### Artículo 267.
+II. Subcuenta de aportaciones voluntarias, y
 
-La suspensión no prejuzga sobre la responsabilidad que se le impute al miembro del Servicio, lo cual se hará constar expresamente en la determinación de la misma.
+III. Subcuenta de aportaciones complementarias de retiro.
 
-###### Artículo 101.
+###### ARTÍCULO 123.
 
-Cada uno de los exámenes relativos a la selección de aspirantes implica diferentes condiciones para su realización, las cuales deben ser coordinadas por la Academia y supervisadas por el Comité, observando los lineamientos que al efecto establezca la Dirección General.
+Los Trabajadores Estatales o Municipales tendrán derecho a realizar aportaciones en sus Cuentas Individuales de manera directa en la Administradora que opere su cuenta o a través de las personas morales que, en su caso, presten servicios a la Administradora para llevar a cabo la recepción de aportaciones.
 
-###### Artículo 102.
+###### ARTÍCULO 124.
 
-Al término de cada jornada de exámenes, la lista de los evaluados deberá ser firmada para su constancia por el evaluador o el prestador de servicios y el coordinador asignado, quien estará presente para vigilar el exacto cumplimiento de su aplicación.
+Las aportaciones efectuadas por los Trabajadores Estatales o Municipales deberán invertirse en las Sociedades de Inversión correspondientes, a más tardar el segundo día hábil siguiente a su entero en la Administradora o en las personas morales, que en su caso, presten el servicio de recepción de aportaciones.
 
-#### SECCIÓN QUINTA. DE LA REMOCIÓN
+###### ARTÍCULO 125.
 
-###### Artículo 268.
+Los recursos de la subcuenta de Fondos de Previsión Social serán invertidos en Sociedades de Inversión en términos de lo dispuesto por el artículo 118 de este Reglamento.
 
-La remoción es la terminación de la relación jurídica entre el miembro del Servicio y el Ayuntamiento, sin responsabilidad para éste último.
+###### ARTÍCULO 126.
 
-###### Artículo 269.
+Los Trabajadores Estatales o Municipales tendrán derecho a realizar retiros de las subcuentas de Fondos de Previsión Social y de aportaciones complementarias de retiro en los términos que establezca la legislación local aplicable, el reglamento del sistema de seguridad social que corresponda, o el acto jurídico que dé origen al depósito de los recursos.
 
-De conformidad con la Ley General y la Ley Estatal son causales de remoción las siguientes:
+###### ARTÍCULO 127.
 
-I. Faltar a su jornada de trabajo más de tres veces en un lapso de treinta días, sin causa justificada;
+Los recursos de la subcuenta de aportaciones complementarias de retiro serán destinados a complementar la pensión de los Trabajadores Estatales o Municipales o a retirarlos en una sola exhibición conjuntamente con los recursos destinados a complementar su pensión.
 
-II. Acumular más de ocho inasistencias injustificadas durante un año;
+###### ARTÍCULO 128.
 
-III. Presentarse a su jornada laboral en estado de embriaguez o bajo los efectos de algún narcótico, droga o enervante;
+Los Trabajadores Estatales o Municipales tendrán derecho a hacer retiros de la subcuenta de aportaciones voluntarias en los términos que establezca el prospecto de información de cada Sociedad de Inversión de conformidad con lo establecido por el artículo 79 de la Ley.
 
-IV. Abandonar sin el consentimiento de un superior el área de Servicio asignada;
+###### ARTÍCULO 129.
 
-V. Negarse a cumplir la sanción o el correctivo disciplinario impuesto;
+Para la designación de beneficiarios y el reconocimiento de su derecho a disponer de los recursos destinados a las subcuentas a que se refiere el artículo 122 de este Reglamento, deberá estarse a lo dispuesto por la Ley, a la naturaleza jurídica del Fondo de Previsión Social, y en su caso, a la legislación local aplicable.
 
-VI. Presentar incapacidad parcial o total, física o mental que le impida el desempeño de sus labores. En este caso se aplicará el procedimiento de retiro, en lo conducente;
+###### ARTÍCULO 130.
 
-VII. Cometer actos inmorales durante su jornada laboral;
+Los Trabajadores Estatales o Municipales que tengan abierta una Cuenta individual en términos del artículo 74 quinquies de la Ley, podrán a su vez, tener una Cuenta Individual en la que se depositen los recursos provenientes de los regímenes previstos en los artículos 74, 74 bis y 74 ter de la Ley.
 
-VIII. Incurrir en faltas de probidad, honradez, actos de violencia, amagos, injurias y/o malos tratos en contra de sus superiores e inferiores jerárquicos, compañeros o contra sus familiares de unos u otros, ya sea dentro o fuera de las horas de servicio;
+En este caso, no será aplicable lo dispuesto por el artículo 23 de este Reglamento.
 
-IX. Desobedecer, sin causa justificada, una orden recibida de un superior jerárquico;
+###### ARTÍCULO 131.
 
-X. Hacer anotaciones falsas o impropias en documentos de carácter oficial, e instalaciones;
+Los Trabajadores Estatales o Municipales que tengan abierta una Cuenta Individual en términos del artículo 74 quinquies de la Ley, tendrán los derechos que atiendan a la naturaleza del Fondo de Previsión Social y los consagrados en la legislación local aplicable.
 
-XI. Registrar por otro miembro del Servicio los controles de asistencia, firmar por otro miembro del Servicio las listas de asistencia, o permitir a otra persona suplantar su registro en las mismas;
+###### ARTÍCULO 132.
 
-XII. Revelar información de la Secretaría, relativa a su funcionamiento, dispositivos de seguridad, armamento y en general todo aquéllo que afecte directamente la seguridad de la Institución o la integridad física de cualquier persona;
+La Base de Datos Nacional SAR se integrará con la información necesaria para garantizar que los Trabajadores Estatales o Municipales puedan ejercitar los derechos relacionados con el mismo en una Administradora de Fondos para el Retiro.
 
-XIII. Introducir, poseer, consumir o comercializar bebidas alcohólicas, estupefacientes, psicotrópicos, enervantes, narcóticos o instrumentos, productos o armamentos cuyo uso pueda afectar la seguridad de la Secretaría o vaya en contra de la normatividad de la misma;
-
-XIV. Ocultar, sustraer, destruir, retener o traspapelar intencionalmente, documentos o expedientes propiedad de la Secretaría; así como retenerlos o no proporcionar información relacionada con su función cuando se le solicite;
-
-XV. Sustraer, esconder, dañar y/o destruir intencionalmente material, vestuario, equipo y en general todo aquéllo, propiedad de la Secretaría, de sus compañeros y demás personal de la Institución;
-
-XVI. Negarse a cumplir con las funciones encomendadas por sus superiores o incitar a sus compañeros a omitirlas;
-
-XVII. Hacer acusaciones de hechos que no pudiera comprobar en contra de sus superiores e inferiores jerárquicos, compañeros y demás personal de la Secretaría;
-
-XVIII. Poner en riesgo, por negligencia o imprudencia, la seguridad de la Secretaría y la vida de las personas; y
-
-XIX. Las demás que señale el Reglamento y las disposiciones legales aplicables en la materia.
-
-###### Artículo 103.
-
-Los resultados de todos los exámenes deberán ser reportados directamente al Comité en un plazo no mayor de tres días hábiles a partir de la conclusión de los mismos. A excepción del de Control y Confianza y Patrimonio y Entorno Social, realizados por el Centro Estatal de Evaluación y Control de Confianza.
-
-#### SECCIÓN SEXTA. DEL PROCEDIMIENTO DE LA REMOCIÓN
-
-###### Artículo 270.
-
-La remoción se realizará conforme el siguiente procedimiento:
-
-I. Se iniciará mediante denuncia por escrito ante la Comisión de Honor por cualquier miembro del Servicio, señalando con toda precisión los hechos causal (sic) de remoción;
-
-II. El escrito de denuncia deberá mencionar los elementos probatorios, para demostrar la responsabilidad del miembro del Servicio;
-
-III. La Comisión de Honor verificará que cumpla los requisitos para el inicio del procedimiento;
-
-IV. La Comisión de Honor, de advertir que carece de dichos requisitos, sin mayor sustanciación, requerirá al denunciante para que subsane lo procedente y aporte los medios de prueba necesarios, en un término de quince días hábiles;
-
-V. Transcurrido dicho término sin que se hubiere desahogado el requerimiento por parte del denunciante, la Comisión de Honor dará vista a la Unidad de Asuntos Internos, para los efectos legales que corresponda y desechará la denuncia por notoriamente improcedente;
-
-VI. De reunir la denuncia los requisitos exigidos, la Comisión de Honor dictará acuerdo de inicio y notificará al miembro del Servicio imputado corriéndole copia de la misma y sus anexos, para que en un término de quince días hábiles formule un informe sobre todos y cada uno de los hechos que se le atribuyen y ofrezca pruebas;
-
-VII. El informe a que alude la fracción anterior, deberá referirse a todos y cada uno de los hechos imputados y comprendidos en la denuncia, afirmándolos o negándolos, expresando los que ignore por no ser propios o refiriéndolos como crea que tuvieron lugar;
-
-VIII. De igual forma, se notificará al titular de la Unidad Administrativa de la adscripción del miembro del servicio, para que participe a lo largo del procedimiento y manifieste lo conducente;
-
-IX. En caso de que el miembro del Servicio no rinda el informe respectivo, o bien, en el mismo no suscitare explícitamente controversia, se presumirán aceptados los hechos que se le imputan. En caso de no ofrecer pruebas, precluirá su derecho para ofrecerlas con posterioridad, con excepción de las pruebas supervenientes;
-
-X. Presentado el informe por parte del miembro del Servicio o transcurrido el término para ello, la Comisión de Honor, acordará sobre la admisión y preparación de las pruebas ofrecidas oportunamente y señalará, dentro del término de los quince días hábiles siguientes a aquél, día y hora para la celebración de la audiencia en la que se llevará a cabo su desahogo y se recibirán los alegatos;
-
-XI. Si el miembro del Servicio deja de comparecer ante la Comisión de Honor, sin causa justificada a la audiencia anterior, se desahogarán las pruebas que se encuentren preparadas y aquéllas cuya preparación corra a cargo del miembro del Servicio, se tendrán por desiertas, por falta de interés procesal de su parte;
-
-XII. Concluido el desahogo de pruebas, si las hubiere, el miembro del Servicio podrá formular alegatos en forma oral o por escrito, tras lo cual la Comisión de Honor, elaborará el proyecto de resolución respectivo;
-
-XIII. La audiencia podrá diferirse hasta por una sola vez, siempre que la causa sea justificada, teniéndose por desiertas las pruebas que no pudieran desahogarse en la misma;
-
-XIV. Se presumirán como ciertos los hechos de la denuncia, sobre los cuales el miembro del Servicio no suscitare explícitamente controversia, cuando éstos se encuentren sustentados en algún medio probatorio, salvo prueba en contrario;
-
-XV. Una vez verificada la audiencia y desahogadas las pruebas, la Comisión de Honor resolverá en la misma sesión sobre la inexistencia de la responsabilidad o imponiendo al miembro del Servicio la remoción. La resolución se notificará personalmente al interesado dentro de los quince días siguientes;
-
-XVI. Si del informe, o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad a cargo del miembro del Servicio, o de otras personas, se podrá dar vista a la Unidad de Asuntos Internos para que inicie el procedimiento correspondiente y en su caso, solicite se lleve a cabo la celebración de otra u otras audiencias.
-
-###### Artículo 271.
-
-Contra la resolución de la Comisión de Honor, que recaiga sobre el miembro del Servicio, por alguna de las causales de remoción de este procedimiento, procederá el recurso administrativo de revocación.
-
-## TÍTULO DÉCIMO SEXTO. DE LA SEPARACIÓN Y RETIRO
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-###### Artículo 272.
-
-La separación y retiro es el procedimiento mediante el cual cesan los efectos del nombramiento y se da por terminada la relación jurídica laboral entre el miembro del Servicio y el Ayuntamiento de manera definitiva, mismos que se regirán conforme a la normatividad aplicable.
-
-###### Artículo 273.
-
-Los miembros del Servicio, podrán ser separados de su cargo si no cumplen con los requisitos que las leyes vigentes señalen para permanecer en la Secretaría, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación.
-
-###### Artículo 274.
-
-Es causal de separación extraordinaria del Servicio, el incumplimiento de los requisitos de permanencia que debe mantener en todo tiempo el miembro del Servicio.
-
-###### Artículo 275.
-
-Los requisitos de permanencia dentro del servicio son:
-
-l. Mantener en todo caso vigentes los requisitos de ingreso, a que se refiere el procedimiento de reclutamiento durante todo el Servicio. En el caso de comprobarse, que dichos requisitos no permanecen o que se hayan presentado documentos falsos se procederá a la separación inmediata del miembro del Servicio de que se trate, en cualquier tiempo;
-
-II. Aprobar las evaluaciones relativas a la formación continua y especializada. Cuando el miembro del Servicio no apruebe una evaluación deberá presentarla nuevamente, en los términos del Reglamento. De no aprobar la segunda evaluación se procederá a la separación del miembro del Servicio y causará baja en el Registro Nacional;
-
-III. Aprobar los exámenes periódicos y permanentes de las evaluaciones relativas al procedimiento de evaluación para la permanencia, los cuales se realizarán en cualquier tiempo y por lo menos cada dos años;
-
-IV. Aprobar las evaluaciones a que se refiere el procedimiento de desarrollo y promoción. En el caso de que el miembro del Servicio no apruebe tres veces el examen de promoción será separado del servicio y removido;
-
-V. Aprobar los exámenes toxicológicos y/o de confianza, que se le apliquen; y
-
-VI. Observar las prohibiciones, los principios de actuación y las obligaciones a que se refiere el procedimiento de ingreso.
-
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE SEPARACIÓN
-
-###### Artículo 276.
-
-la separación del miembro del Servicio, por una causa extraordinaria, se realizará mediante el siguiente procedimiento:
-
-I. Los titulares del Comité, la Academia o la Unidad de Asuntos Internos, tendrán acción para interponer queja ante la Comisión de Honor, cuando a su juicio se advierta que el miembro del Servicio, ha incurrido en una causal de separación extraordinaria;
-
-II. Una vez recibida la queja, la Comisión de Honor verificará que se hayan adjuntado los documentos y las demás pruebas correspondientes;
-
-III. De advertirse que el escrito de queja carece de los requisitos o pruebas señalados en el párrafo anterior, la Comisión de Honor requerirá a la parte quejosa para que en un término no mayor de treinta días hábiles subsane la omisión; transcurrido dicho término, sin que se hubiere cumplido el requerimiento, dará vista a la Unidad de Asuntos Internos de la Secretaría, para los efectos legales que correspondan;
-
-IV. Dentro de la queja se deberá señalar el requisito de ingreso o permanencia que presuntamente haya sido incumplido por el miembro del Servicio de que se trate, adjuntando los documentos y demás pruebas que se consideren pertinentes;
-
-V. Cuando la causa del procedimiento sea a consecuencia de la no aprobación de las evaluaciones a que se refiere el procedimiento de desarrollo y promoción, la Comisión de Honor resolverá lo conducente;
-
-VI. De reunir los requisitos anteriores, la Comisión de Honor dictará un acuerdo de inicio, informando al titular de la Unidad Administrativa de la adscripción del miembro del Servicio y citará a este último a una audiencia, notificándole que deberá comparecer personalmente a manifestar lo que a su derecho convenga, en torno a los hechos que se le imputen, corriendo traslado con el escrito de petición al que se refiere la fracción I del presente artículo, indicando el lugar en donde se encuentra el expediente a efecto de que pueda consultarlo;
-
-VII. Una vez iniciada la audiencia, la Comisión de Honor dará cuenta de las constancias que integran el expediente; acto seguido, el miembro del Servicio manifestará lo que a su derecho convenga y presentará las pruebas que estime convenientes. En caso de no comparecer, sin causa justificada, ésta se desahogará sin su presencia y se tendrán por ciertas las imputaciones hechas en su contra dándose por precluído su derecho a ofrecer pruebas y a formular alegatos;
-
-VIII. Una vez contestada la queja por parte del miembro del Servicio, dentro de la propia audiencia, se abrirá la etapa de ofrecimiento, admisión y desahogo de pruebas;
-
-IX. Las pruebas que se ofrezcan deberán ser correlacionadas con los hechos de los que se ocupa el procedimiento, manifestando que es lo que se desea probar;
-
-X. La prueba confesional no será admitida;
-
-XI. Si las pruebas requieren de preparación, la Comisión de Honor proveerá lo conducente y señalará fecha para su desahogo, la que tendrá lugar dentro de los quince días hábiles siguientes;
-
-XII. En caso de que alguna prueba ofrecida requiera de un medio específico para su desahogo el oferente deberá de aportar el mismo;
-
-XIII. El oferente de la prueba es el responsable de la comparecencia de las personas cuyo testimonio haya ofrecido y en Caso de no contar con la posibilidad de cumplir Con ello deberá de manifestarlo al momento de ofrecer la probanza para que sea la Comisión de Honor quien cite a las personas;
-
-XIV. En caso de que alguna de las prueba admitidas no se desahogare por causas no imputables al oferente se citara por única vez a una nueva audiencia para su desahogo. Si a pesar de lo anterior no es posible el desahogo de las pruebas pendientes, estas se tendrán por no ofrecidas;
-
-XV. Concluido el desahogo de pruebas, si las hubiere, el miembro del Servicio podrá formular alegatos, en forma oral o por escrito, tras lo cual se elaborará el proyecto de resolución respectivo;
-
-XVI. La Comisión de Honor podrá suspender al miembro del Servicio hasta en tanto resuelve lo conducente;
-
-XVII. Una vez desahogada la audiencia y agotadas las diligencias correspondientes, la Comisión de Honor emitirá la resolución correspondiente; y
-
-XVIII. Al ser separado el miembro del Servicio, deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
-
-###### Artículo 277.
-
-Contra la resolución de la Comisión de Honor que recaiga sobre el miembro del Servicio por alguna de las causales de separación extraordinaria a que se refiere el Reglamento, procederá el recurso administrativo de revocación, en los términos correspondientes.
-
-###### Artículo 278.
-
-Las resoluciones de la Comisión de Honor se emitirán y aplicarán con independencia de la responsabilidad penal o administrativa a que hubiere lugar.
-
-## TÍTULO DÉCIMO SÉPTIMO. DE LOS MEDIOS DE IMPUGNACIÓN
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-###### Artículo 279.
-
-Los recursos constituyen el medio de impugnación mediante el cual el miembro del Servicio hace valer el ejercicio de sus derechos, la seguridad y certidumbre jurídica dentro del Servicio.
-
-###### Artículo 280.
-
-Los recursos tienen por objeto asegurar el ejercicio de los derechos de los aspirantes y del miembro del Servicio, para hacer prevalecer la igualdad de oportunidades, su capacidad y consolidar el principio constitucional de legalidad.
-
-###### Artículo 281.
-
-Las autoridades y los superiores jerárquicos, deberán actuar conforme a derecho y deberán responder, ante la Comisión de Honor a los recursos que se interpongan para controvertir esos actos
-
-###### Artículo 282.
-
-Los únicos recursos previstos en el Reglamento son: inconformidad y revocación.
-
-###### Artículo 283.
-
-En contra de las resoluciones que no tengan expresamente señalado un recurso y que afecten el interés jurídico del miembro del servicio que interponerlo (sic), procederá el de inconformidad, siempre y cuando el Reglamento no señale la improcedencia de los medios de impugnación.
-
-###### Artículo 284.
-
-Los términos para la interposición de los recursos se contarán en días hábiles y empezarán a correr al día siguiente del que se tenga conocimiento del hecho impugnado.
-
-###### Artículo 285.
-
-La interposición del recurso no suspenderá los efectos de la resolución, pero tendrá por objeto que ésta no aparezca en el expediente u hoja de Servicios del miembro del Servicio de que se trate, hasta en tanto no se resuelva definitivamente el recurso.
-
-### CAPÍTULO SEGUNDO. DEL RÉGIMEN DE LOS MEDIOS DE IMPUGNACIÓN
-
-###### Artículo 286.
-
-Todos los actos en general, correcciones disciplinarias, sanciones y actos de separación que realicen las autoridades, deberán cumplir con los siguientes requisitos:
-
-l. Ser expedido por autoridad competente, debidamente fundado y motivado;
-
-II. Tener objeto que pueda ser materia del mismo, determinado o determinable, preciso en cuanto a las circunstancias de tiempo, modo y lugar previstos por la normatividad aplicable;
-
-III. Cumplir con la finalidad de interés público regulado por las normas en que se concreta, sin que puedan perseguir otros fines distintos;
-
-IV. Constar por escrito y con la firma autógrafa de la autoridad que lo expida, salvo en aquellos casos en que las normas aplicables autoricen otra forma de expedición;
-
-V. Ser expedido sujetándose a las disposiciones relativas a este procedimiento;
-
-VI. Ser expedido sin que medie error sobre el objeto, causa o motivo o sobre el fin del acto;
-
-VII. Ser expedido sin que medie dolo o violencia en su emisión;
-
-VIII. Mencionar específicamente la autoridad competente del cual emana;
-
-IX. Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documentos o nombre completo de los aspirantes o del miembro del servicio de que se trate;
-
-X. Ser expedido señalando lugar y fecha de emisión;
-
-XI. Tratándose de actos de autoridad que deban notificarse, se hará mención de la oficina en que se encuentre y pueda ser consultado el expediente respectivo; y
-
-XII. Tratándose de actos administrativos recurribles deberá hacerse mención del recurso procedente.
-
-###### Artículo 287.
-
-La actuación de la autoridad o el superior jerárquico dentro del procedimiento de la ejecución del acto, se desarrollará con arreglo a los principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe.
-
-### CAPÍTULO TERCERO. DEL RECURSO DE REVOCACIÓN
-
-###### Artículo 288.
-
-El Recurso de Revocación a que se refiere el Reglamento, se interpondrá ante la Comisión de Honor y procederá contra las resoluciones que emita ésta, respecto de la remoción, separación y retiro, correcciones disciplinarias cumplidas dentro de las instalaciones y contra las sanciones establecidas en el presente ordenamiento.
-
-###### Artículo 289.
-
-El aspirante o el miembro del Servicio podrá interponer ante la Comisión de Honor el Recurso de Revocación, dentro del término de quince días. Una vez vencido dicho plazo el recurso será desechado de plano, sin que proceda recurso alguno.
-
-###### Artículo 290.
-
-El Recurso de Revocación tiene como finalidad confirmar, modificar o revocar la resolución impugnada y en contra de lo que en el mismo se resuelva no procede recurso alguno.
-
-###### Artículo 104.
-
-El resultado de "apto", es aquél que refleja la acreditación satisfactoria de los requerimientos de la totalidad de los estudios y exámenes.
-
-###### Artículo 105.
-
-El resultado de "recomendable con observaciones", es aquel que cumple con los parámetros de cualquiera de los exámenes y estudios, pero que existen características que deben marcarse en situaciones críticas por posible inconsistencia en los resultados que, por no ser graves, pueden ser superadas en los procedimientos subsecuentes del sistema integral.
-
-###### Artículo 106.
-
-El resultado de "no apto" significa el incumplimiento a los requerimientos de cualquiera de los exámenes y estudios. Este resultado excluye de forma definitiva al aspirante para ingresar al Servicio.
-
-#### SECCIÓN ÚNICA. DE LA TRAMITACIÓN DEL RECURSO DE REVOCACIÓN
-
-###### Artículo 291.
-
-El Recurso de Revocación se sustanciará de conformidad con el siguiente procedimiento:
-
-l. Se interpondrá por escrito firmado por el recurrente quien señalará:
-
-a. Sus datos generales;
-
-b. Domicilio para notificaciones y en su caso, las personas autorizadas para recibirlas;
-
-c. Jerarquía o grado;
-
-d. Antigüedad en el servicio;
-
-e. Adscripción;
-
-f. Acto que recurre y quien lo ordenó;
-
-g. Fecha en que se le notificó o tuvo conocimiento del mismo;
-
-h. Agravios que se le causan; e
-
-i. Únicamente en los casos en que el recurrente impugne un acto en el cual el procedimiento correspondiente no contemple el ofrecimiento de pruebas, deberán ofrecerse éstas en la interposición del recurso, apegándose al procedimiento establecido en el artículo 275 del Reglamento, respecto de las pruebas.
-
-II. Una vez presentado el recurso, la Comisión de Honor resolverá respecto de su admisión. En el caso de advertir en el escrito correspondiente la falta de algún requisito se le hará saber al recurrente para que lo subsanen en el término de tres días, con el apercibimiento que en caso de no hacerlo se desechará;
-
-III. En la resolución que admita el recurso, se resolverá respecto de las pruebas ofrecidas, mandando preparar lo necesario para el desahogo de las que sean admitidas dentro del plazo de diez días hábiles, en la audiencia que para tal efecto se cite, en la que el aspirante o miembro del Servicio, podrá formular alegatos en forma oral o por escrito;
-
-IV. La Comisión de Honor podrá solicitar, en un término de tres días hábiles, que se rindan los informes que estimen pertinentes; y
-
-V. Una vez admitido el recurso y en su caso, desahogadas las pruebas o recibidos los informes solicitados, la Comisión de Honor dictará dentro de los cinco días hábiles siguientes, la resolución correspondiente, en contra de la cual no procederá recurso alguno.
-
-###### Artículo 292.
-
-La resoluciones que emita la Comisión de Honor con motivo del recurso, deberán ser notificadas al aspirante o al miembro del Servicio dentro de los tres días hábiles siguientes a su emisión.
-
-###### Artículo 293.
-
-El Recurso de Revocación no procederá, en ningún caso, contra los criterios y resultados de las evaluaciones que se hubieren aplicado.
-
-###### Artículo 294.
-
-Se aplicarán supletoriamente, dentro de este procedimiento, la normatividad de la materia y en su defecto, la reglamentación procesal civil del Estado, así como los principios generales del acto administrativo.
-
-###### Artículo 295.
-
-Es improcedente el recurso cuando:
-
-l. No afecte el interés del recurrente;
-
-II. Sean dictados por autoridad diferente a las señaladas en este recurso; y
-
-III. Se hayan consentido, entendiéndose por consentimiento el de aquéllos contra los que no se promovió el recurso en el plazo establecido.
-
-###### Artículo 296.
-
-Procede el sobreseimiento del recurso en los siguientes supuestos:
-
-I. Cuando el promovente se desista expresamente de su recurso;
-
-II. Cuando en el expediente quede demostrado que no existe acto o resolución impugnada;
-
-III. Cuando hayan cesado los efectos de la resolución impugnada; y
-
-IV. Por fallecimiento del recurrente.
-
-### CAPÍTULO CUARTO. DEL RECURSO DE INCONFORMIDAD
-
-###### Artículo 297.
-
-El Recurso de Inconformidad se interpondrá, dentro de cinco días hábiles siguientes al de la fecha de notificación o conocimiento de hecho, por los aspirantes o miembros del Servicio ante la Comisión de Honor quién deberá conocer sobre la admisión, integración y resolución del recurso y procede en contra de:
-
-l. El resultado obtenido en alguno de los exámenes establecidos en el Reglamento; y
-
-II. La suspensión.
-
-###### Artículo 298.
-
-El Recurso de Inconformidad que se interponga deberá ser presentado por escrito, precisando lo siguiente:
-
-l. Nombre del inconforme;
-
-II. Domicilio para oír y recibir notificaciones, en su caso, las personas autorizadas para recibirlas;
-
-III. Jerarquía o grado;
-
-IV. Antigüedad en el servicio;
-
-V. Adscripción;
-
-VI. Acto que recurre y quién lo ordeno;
-
-VII. Precisar la fecha de notificación, o la fecha en que tuvo conocimiento de la misma;
-
-VIII. Narración de los hechos;
-
-IX. Agravios que dan motivo a la impugnación;
-
-X. Ofrecer las pruebas que estime convenientes apegándose al procedimiento establecido en el artículo 275 del Reglamento, respecto de las pruebas; y
-
-XI. Firma del recurrente;
-
-###### Artículo 299.
-
-El Recurso de inconformidad se substanciará de la siguiente manera:
-
-l. Una vez presentado el recurso, la Comisión de Honor resolverá respecto de su admisión. En el caso de advenir en el escrito correspondiente la falta de algún requisito se le hará saber al recurrente para que lo subsanen (sic) en el término de tres días, con el apercibimiento que en caso de no hacerlo se desechará;
-
-II. En la resolución que admita el recurso, se resolverá respecto de las pruebas ofrecidas, mandando preparar lo necesario para el desahogo de las que sean admitidas dentro del plazo de cinco días hábiles, en la audiencia que para tal efecto se cite, en la que el aspirante o miembro del Servicio, podrá formular alegatos en forma oral o por escrito;
-
-III. La Comisión de Honor podrá solicitar, en un término de tres días hábiles, que se rindan los informes que estimen pertinentes; y
-
-IV. Una vez admitido el recurso y en su caso, desahogadas las pruebas o recibidos los informes solicitados, la Comisión de Honor dictará dentro de los tres días hábiles siguientes, la resolución correspondiente, en contra de la cual no procederá recurso alguno.
-
-###### Artículo 300.
-
-La Comisión de Honor, al resolver el recurso, podrá:
-
-I. Declararlo improcedente;
-
-II. Sobreseer el recurso;
-
-III. Confirmar el acto reclamado; o
-
-IV. Revocar el acto impugnado, en cuyo caso podrá, modificar u ordenar la modificación del acto, ordenando que sea dictado uno nuevo u ordenar la reposición del procedimiento.
-
-En contra de la resolución que emita la Comisión de Honor no procede recurso alguno.
-
-###### Artículo 301.
-
-La Comisión de Honor dará trámite al recurso a que se refiere este Capítulo, determinando lo conducente y, en su caso, dictará las medidas que estime necesarias para la adecuada operación del Servicio.
-
-### CAPÍTULO QUINTO. DEL SILENCIO ADMINISTRATIVO
-
-###### Artículo 302.
-
-Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de diez días para que la autoridad resuelva lo que corresponda. Transcurrido dicho plazo sin que se notifique la resolución, el interesado entenderá que las resoluciones fueron pronunciadas en sentido negativo y podrá interponer los medios de impugnación correspondientes, a menos que en las disposiciones aplicables se prevea lo contrario.
-
-###### Artículo 303.
-
-A petición del miembro del Servicio, se deberá expedir constancia de la resolución, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad que corresponda.
-
-###### Artículo 304.
-
-Salvo disposición expresa en contrario, los plazos para que la autoridad conteste empezarán a correr al día hábil inmediato siguiente a la presentación del escrito correspondiente. Las actuaciones y diligencias administrativas se practicarán en días hábiles, pudiéndose continuar aun en aquellos considerados como inhábiles siempre que el caso lo amerite.
-
-###### Artículo 107.
-
-El Comité, una vez que reciba los resultados, hará oficialmente del conocimiento del aspirante su aceptación o no al Servicio y, en su caso, la fecha de nueva aplicación del examen.
-
-###### Artículo 108.
-
-El aspirante que haya aprobado los exámenes toxicológico, médico, de conocimientos generales, de personalidad, estudio de capacidad físico-atlético, de control de confianza, patrimonial y de entorno social, tendrá derecho a recibir la formación inicial.
-
-###### Artículo 109.
-
-Quienes como resultado de la aplicación del procedimiento de selección de aspirantes, ingresen al curso de formación inicial, serán considerados cadetes de la Academia.
-
-### CAPÍTULO ÚNICO. DEL DESARROLLO DE LOS PROCESOS DE FORMACIÓN
-
-###### Artículo 110.
-
-Todos los cadetes se sujetarán a las disposiciones legales aplicables y al régimen interno de la Academia.
-
-## TÍTULO OCTAVO. DE LA FORMACIÓN INICIAL
-
-###### Artículo 111.
-
-La formación inicial es el procedimiento que permite que los cadetes que aspiran a ingresar al Servicio, realicen actividades académicas encaminadas a lograr el óptimo desempeño de sus funciones de acuerdo con el perfil del puesto.
-
-###### Artículo 112.
-
-La formación, inicial tiene como objeto involucrar a los cadetes en procesos educativos para personal de nuevo ingreso, dirigidos a la adquisición de conocimientos y el desarrollo de habilidades, destrezas, aptitudes y actitudes que, en congruencia con el perfil del puesto, les permitan garantizar los principios constitucionales de eficiencia y profesionalismo.
-
-###### Artículo 113.
-
-La formación inicial será la primera etapa de la formación de los policías municipales de carrera, en acuerdo con las demás etapas, niveles de escolaridad y grados referidos en el procedimiento de formación continua y especializada.
-
-Estas actividades tienen el objetivo de concebir la formación con una misma visión nacional integradora y deben recibir la acreditación formal que corresponda por parte de la autoridad competente.
-
-###### Artículo 114.
-
-La formación inicial se impartirá bajo un sistema presencial, considerando los contenidos mínimos y las equivalencias de los planes y programas validados por la Academia en coordinación con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
-
-###### Artículo 115.
-
-La formación inicial tendrá una duración mínima de 875 horas clase y se desarrollará a través de actividades académicas escolarizadas, impartidas diariamente, la cual tendrá validez en toda la República, de acuerdo con los convenios que se pacten con la Federación o los Estados.
-
-Al cadete le será reconocido, en todo caso, el curso de formación inicial con la calificación que hubiere obtenido.
-
-###### Artículo 116.
-
-Además de las facultades establecidas en el Reglamento Interior, la Academia será la encargada de formar, actualizar, especializar, evaluar y certificar a los cadetes.
-
-###### Artículo 117.
-
-La Academia con base en la detección de sus necesidades, propondrá al Comité el establecimiento de programas anuales de formación para los cadetes.
-
-###### Artículo 118.
-
-·Los resultados aprobatorios de las evaluaciones de formación inicial que realice la Academia a los cadetes, serán requisito indispensable para su ingreso al Servicio.
-
-###### Artículo 119.
-
-El Ayuntamiento realizará las acciones conducentes para homologar el perfil del grado por competencia que sella la el Reglamento.
-
-### CAPÍTULO TERCERO. DE LOS PLANES Y PROGRAMAS
-
-###### Artículo 120.
-
-El Plan de Estudios es el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje (asignaturas o módulos), propuestos para la formación de los cadetes, con el propósito de garantizar una preparación teórico-práctica suficiente, que posibilite un desempeño eficaz y responsable de la función policial.
-
-### CAPÍTULO ÚNICO. DEL SISTEMA DE PLANEACIÓN
-
-###### Artículo 121.
-
-El Programa de Estudios es la propuesta básica de aprendizaje que agrupa determinados contenidos derivados del plan de estudios a desarrollar en un periodo definido de tiempo y con propósitos concretos. Es además, una guía para el cadete en la conducción y desarrollo del proceso de enseñanza y aprendizaje.
-
-###### Artículo 122.
-
-Los planes de estudio deberán contener como base para su homologación coordinada, los siguientes elementos:
-
-l. Fundamentación del plan: explicación general del por qué y para qué de la propuesta de formación que alcanzará el cadete que curse la capacitación;
-
-II. Objetivos curriculares: enunciado de las metas que definen el tipo de resultado que la Academia se compromete a obtener dentro de un término dado;
-
-III. Propósitos formativos: enunciado de las metas que definen el tipo de perfil profesional que la Academia se compromete a formar dentro de un término establecido;
-
-IV. Perfil de ingreso: requerimientos mínimos necesarios que deben reunir los aspirantes antes de ingresar al curso o actividad académica;
-
-V. Perfil de egreso: descripción de las funciones y actividades que podrá realizar el cadete, en su ejercicio profesional y laboral, como resultado de su formación;
-
-VI. Características curriculares: datos del curso, aspectos cronológicos, evaluación y organización de las asignaturas o módulos que comprende el plan curricular;
-
-VII. Requisitos y criterios académico administrativos para su desarrollo: enunciado de la duración global y específica del Plan, en horas/clase, número de unidades didácticas, etapa educativa en que se desarrollará, calendario académico y horario de actividades, requisitos a cubrir por los aspirantes y exigidos para el ingreso a la institución educativa, apoyos que ofrece a los cadetes, criterios de acreditación del plan de estudios, reconocimientos que otorga, número de créditos globales y específicos del Plan;
-
-VIII. Programas de estudio de cada unidad didáctica;
-
-IX. Evaluación curricular: descripción breve de la metodología para evaluar el plan curricular;
-
-X. Criterios: antecedentes del proyecto, perfil del docente, perfil del tutor, campo de trabajo, procedimientos de titulación, de certificación, acreditación;
-
-XI. Infraestructura con que cuenta la institución, anexos jurídicos y materiales;
-
-XII. Hoja de Registro y autorización de la Dirección General de Apoyo Técnico del Secretariado Ejecutivo; y
-
-XIII. Informe trimestral de cumplimiento de metas dirigido a la Dirección General de Vinculación y Seguimiento del Secretariado Ejecutivo.
-
-###### Artículo 123.
-
-Los programas de estudio deberán contener los siguientes elementos metodológicos, como base de la homologación coordinada:
-
-l. Nombre de la unidad didáctica correspondiente;
-
-II. Datos generales y de ubicación que comprenderán: duración en horas/clase, destinadas a la teoría y a la práctica, etapa de la unidad didáctica, taller, curso teórico, seminario, etc., etapa o fase en que se desarrolla, principales relaciones con otras unidades didácticas, valor en créditos, clave de la unidad y horas-clase semanarias;
-
-III. Introducción: descripción del significado, relevancia y beneficio que se aportará a la formación del cadete y su vinculación con el plan de estudios, así como de los contenidos que se abordarán, los métodos y procedimientos de trabajo que se sugieren aplicar y los resultados que se esperan alcanzar;
-
-IV. Objetivos de aprendizaje: el enunciado de los comportamientos o pautas de conducta que deberán manifestar los cadetes al concluir el proceso de enseñanza y aprendizaje promovido por la corporación de que se trate;
-
-V. Contenido temático: consiste en el desglose de los conocimientos agrupados y organizados en unidades temáticas, que pretenden promoverse durante el desarrollo de la unidad didáctica;
-
-VI. Metodología de enseñanza y aprendizaje: comprende la descripción general de las estrategias, técnicas didácticas y actividades que se sugieren para el desarrollo de este proceso en donde se debe especificar el rol del alumno y el maestro;
-
-VII. Procedimientos de evaluación y acreditación: consiste en una descripción de los criterios y procedimientos de evaluación del aprendizaje de los participantes y lineamientos para acreditar la unidad didáctica;
-
-VIII. Bibliografía o fuentes de consulta: listado del material bibliográfico, hemerográfico, documental, videográfico o de otro tipo que sea requerido, señalando específicamente al autor, título, editorial, lugar, año y edición;
-
-IX. Hoja de Registro y autorización de la Dirección General de Apoyo Técnico del Secretariado Ejecutivo; y
-
-X. Informe trimestral de cumplimiento de metas dirigido a la Dirección General de Vinculación y Seguimiento del Secretariado Ejecutivo.
-
-### CAPÍTULO CUARTO. DEL DESARROLLO DE LOS PROCESOS DE FORMACIÓN
-
-###### Artículo 124.
-
-El desarrollo de los procesos de formación se realizará sobre las siguientes bases de coordinación:
-
-l. La Academia será la responsable directa del desarrollo de las actividades académicas de formación, que impartirá tantas veces sea necesario de acuerdo con su programación; y
-
-II. Previo al inicio de las actividades académicas de formación, la Academia deberá enviar a la Dirección General, sus planes y programas de estudio.
-
-###### Artículo 125.
-
-El cadete que haya concluido satisfactoriamente las actividades académicas de formación inicial, mediante la aprobación de todas las materias del plan de estudios, tendrá derecho a obtener la constancia correspondiente.
-
-###### Artículo 126.
-
-El cadete que haya completado favorablemente cuando menos uno de los niveles de estudio que constituyen la formación inicial, tendrá derecho a que la Academia le extienda una constancia parcial que incluya las calificaciones obtenidas.
-
-## TÍTULO NOVENO. DEL INGRESO AL SERVICIO
-
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
-
-###### Artículo 127.
-
-El procedimiento de ingreso regula la incorporación al Servicio de los cadetes egresados de la formación inicial, para ocupar una plaza vacante o de nueva creación de la cual derivan los derechos y obligaciones del nuevo miembro del mismo.
-
-###### Artículo 128.
-
-Por virtud del ingreso se formaliza la relación jurídico-administrativa entre el nuevo miembro del Servicio y el Ayuntamiento.
-
-###### Artículo 129.
-
-El nombramiento es el documento formal que se expide al miembro del Servicio de nuevo ingreso, del cual se deriva la relación jurídico administrativa, en la que prevalecen los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez, adquiriendo los derechos de estabilidad, permanencia, formación, promoción y desarrollo, ascensos, estímulos y retiro, así como las obligaciones correspondientes, en términos de las disposiciones aplicables.
-
-###### Artículo 130.
-
-El Ayuntamiento expedirá los nombramientos a los miembros del Servicio, constituyéndose en el documento formal que se otorga al personal de nuevo ingreso.
-
-###### Artículo 131.
-
-El nombramiento contendrá como mínimo los siguientes datos:
-
-I. Fecha y lugar de expedición;
-
-II. Nombre completo del integrante del Servicio;
-
-III. Clave Única de Identificación Permanente (CUIP);
-
-IV. Categoría, jerarquía o grado; y
-
-V. Nombre y firma de quien lo expide.
-
-###### Artículo 132.
-
-Al recibir su nombramiento, el miembro del Servicio deberá protestar el cargo de la siguiente forma:
-
-"Protesto desempeñar leal y patrióticamente el cargo de policía, cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Puebla y las leyes, reglamentos y disposiciones que de ellas emanen".
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO IX. DE LOS PLANES DE PENSIONES ESTABLECIDOS POR PATRONES O DERIVADOS DE CONTRATACIÓN COLECTIVA
 
 #### Sección I. Del Registro de los Planes de Pensiones y de Actuarios
 
-###### Artículo 133.
+###### ARTÍCULO 133.
 
-El miembro del Servicio gozará de los siguientes derechos:
+Los planes de pensiones establecidos por patrones o derivados de contratación colectiva, o por dependencias o entidades a que se refieren los artículos 190 de la Ley del Seguro Social y 90 Bis-O de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, que se soliciten sean registrados por los patrones, se presentarán ante la Comisión en los términos que ésta determine mediante disposiciones de carácter general.
 
-I. Recibir el nombramiento como miembro del Servicio;
+###### ARTÍCULO 134.
 
-II. Estabilidad y permanencia en el Servicio en los términos y bajo las condiciones que prevén los procedimientos de formación inicial, ingreso, formación continua y especializada, evaluación para la permanencia, así como desarrollo y promoción, que establece el Reglamento y demás disposiciones aplicables;
+Para ser registrado como actuario autorizado para dictaminar planes de pensiones ante la Comisión en términos de lo dispuesto por el artículo 82 de la Ley, se requiere:
 
-III. Percibir las remuneraciones correspondientes a su cargo y demás prestaciones acordes con las características del Servicio, su categoría, jerarquía o grado;
+I. Presentar la solicitud correspondiente ante la Comisión;
 
-IV. Gozar de las prestaciones de seguridad social que les correspondan;
+II. Tener Cédula Profesional de Actuario o Licenciado en Actuaría; en caso de ser extranjero, se debe presentar la documentación equivalente a la mencionada, conforme a las disposiciones legales aplicables;
 
-V. Recibir, sin costo alguno, el equipo de trabajo necesario para el debido ejercicio de sus funciones;
+III. Gozar de reconocido prestigio profesional y no haber sido condenado por sentencia firme por delito doloso;
 
-VI. Recibir formación continua y especializada para el mejor desempeño de sus funciones;
+IV. Contar con experiencia profesional mínima de cinco años en consultoría actuarial;
 
-VII. Ser evaluado por segunda ocasión, previa asesoría correspondiente, cuando en alguna evaluación no haya resultado aprobado, en los términos previstos en los procedimientos de formación continua y especializada;
+V. Acreditar a satisfacción de la Comisión, que se cuenta con los conocimientos requeridos para practicar la valuación de planes de pensiones, y
 
-VIII. Ascender a una categoría, jerarquía o grado superior, cuando haya cumplido con los requisitos que establece el procedimiento de desarrollo y promoción y exista una plaza vacante o de nueva creación;
+VI. No ser empleado de alguno de los Institutos de Seguridad Social, de la Secretaría, del Banco de México, de la Comisión, ni de las Comisiones Nacionales Bancaria y de Valores o de Seguros y Fianzas.
 
-IX. Interponer los medios de impugnación contra actos u omisiones de órganos o autoridades relacionados con el Servicio;
+###### ARTÍCULO 135.
 
-X. Recibir asesoría jurídica cuando, en ejercicio de sus funciones, se vea involucrado en algún problema legal con motivo de su función;
+El periodo de vigencia del registro de actuario autorizado para dictaminar planes de pensiones conforme a lo establecido en el artículo 82 de la Ley, así como el correspondiente a sus revalidaciones, será de tres años.
 
-XI. Abstenerse de cumplir órdenes contrarias a las disposiciones legales; y
+###### ARTÍCULO 136.
 
-XII. Los demás que establezcan las disposiciones aplicables y todos los procedimientos del Servicio.
+Para las revalidaciones del registro se deberá presentar ante la Comisión la solicitud respectiva, notificando por escrito cualquier modificación a los datos proporcionados con anterioridad.
 
-###### Artículo 134.
+###### ARTÍCULO 137.
 
-Los miembros del Servicio tendrán los siguientes impedimentos:
-
-l. Desempeñar otro empleo, cargo o comisión relacionado con la seguridad pública en los gobiernos Federal, Estatal o Municipal, salvo los de carácter docente y aquéllos que autorice expresamente el Comité;
-
-II. Realizar servicios técnicos o profesionales relacionados con la seguridad pública, para cualquier persona o empresa; y
-
-III. Ejercer o desempeñar las funciones de depositario o apoderado judicial, síndico, administrador; interventor en quiebra o concurso, notario, corredor, comisionista o árbitro.
-
-###### Artículo 135.
-
-Los miembros del Servicio sólo podrán portar las armas de cargo que les hayan sido autorizadas individualmente, o aquéllas que se le hubiesen asignado en lo particular y que estén registradas colectivamente para la Secretaria, de conformidad con la Ley Federal de Armas de Fuego y Explosivos.
-
-###### Artículo 136.
-
-Las armas sólo podrán ser portadas durante el tiempo del ejercicio de sus funciones, o para un horario, misión o comisión determinados de acuerdo con los ordenamientos de la Secretaría.
-
-###### Artículo 137.
-
-Los miembros del Servicio, deberán cumplir las obligaciones siguientes:
-
-l. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas de algún delito o falta administrativa. Su actuación será de acuerdo a la normatividad aplicable, congruente, oportuna y proporcional al hecho;
-
-II. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su raza, religión, sexo, condición económica o social, preferencia sexual, ideología política o por algún otro motivo;
-
-III. Abstenerse en todo momento y bajo cualquier circunstancia de infligir o permitir actos de tortura u otros tratos o sanciones crueles, inhumanos o degradantes, aun cuando se trate de una orden superior o se argumenten circunstancias especiales tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; en cuanto tenga conocimiento de ello, lo deberá denunciar inmediatamente ante la autoridad competente;
-
-IV. Abstenerse de participar en cualquier acto de corrupción, sujetándose a los principios de legalidad, eficiencia, profesionalismo y honradez;
-
-V. Velar por la vida e integridad física de las personas aseguradas en tanto se ponen a disposición de la autoridad competente;
-
-VI. Participar en misiones de coordinación con otras corporaciones policiales, así como brindarles el apoyo que conforme a derecho proceda;
-
-VII. Obedecer las órdenes de sus superiores jerárquicos y cumplir con todas sus obligaciones, siempre y cuando sea conforme a derecho;
-
-VIII. Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan, con las excepciones que determinen las leyes;
-
-IX. Ejercer su función con plena observancia a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado Libre y Soberano de Puebla, con apego al orden jurídico, respetando los derechos humanos amparados por éste y los tratados internacionales en los que México sea parte;
-
-X. Conducirse siempre con dedicación y disciplina sujetándose a los principios de la jerarquía y subordinación. En ningún caso, la obediencia debida podrá amparar órdenes que entrañen la ejecución de actos que manifiestamente vayan contra el derecho;
-
-XI. En el ejercicio de sus funciones, deberá actuar con la decisión necesaria, sin demora, cuando de ello dependa evitar un daño grave, inmediato e irreparable, rigiéndose al hacerlo por los principios de legalidad, necesidad y racionalidad en la utilización de la fuerza por los medios a su alcance;
-
-XII. Utilizar las armas en las situaciones en que exista un riesgo racionalmente grave para su vida, su integridad física o la de terceras personas, o en aquellas circunstancias que puedan suponer un grave riesgo para la seguridad ciudadana y de conformidad con los principios a que se refiere la fracción anterior;
-
-XIII. Participar en las evaluaciones establecidas para su permanencia y desarrollo en el Servicio;
-
-XIV. Participar en los programas de formación obligatoria a que se refieren los procedimientos de formación inicial; formación continua y especializada, sin menoscabo de otras condiciones de desempeño que deba cubrir, en los términos que establezca su nombramiento;
-
-XV. Fomentar la disciplina, responsabilidad; decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en su caso, en el personal bajo su mando;
-
-XVI. Portar su identificación oficial, así como los uniformes, insignias y equipo reglamentario que le ministre la corporación, mientras se encuentre en servicio;
-
-XVII. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso adecuado de ellos sólo en el desempeño del servicio. El uso de las armas se reservará exclusivamente para actos del servicio que así lo demanden;
-
-XVIII. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de la corporación;
-
-XIX. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
-
-XX. Realizar las acciones que procedan, privilegiando la persuasión, cooperación o advertencia, con el fin de mantener la observancia de la ley y restaurar el orden y la paz públicos;
-
-XXI. Proporcionar a los gobernados su nombre cuando se lo soliciten y mostrar su identificación de manera respetuosa en el desempeño de sus funciones;
-
-XXII. Informar a su superior jerárquico, a la brevedad posible, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría o jerárquica (sic). Tratándose de actos u omisiones de un superior jerárquico deberá informarlo al superior jerárquico de éste;
-
-XXIII. Abstenerse de introducir a las instalaciones de la corporación bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
-
-XXIV. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias de carácter ilegal, prohibido o controlado, salvo los casos en que su consumo sea autorizado mediante prescripción médica, avalada y certificada por los servicios médicos de la corporación;
-
-XXV. Abstenerse de presentarse, a prestar sus servicios, bajo el influjo de bebidas embriagantes y de consumirlas en las instalaciones de la misma o en actos del servicio;
-
-XXVI. Abstenerse de convocar o participar en cualquier práctica de inconformidad, rebeldía o indisciplina en contra del mando o alguna otra autoridad;
-
-XXVII. Expedir por escrito las órdenes cuando lo solicite un subalterno, con objeto de salvaguardar la seguridad de éste, por la naturaleza de las mismas. Esta solicitud deberá formularse dentro de la disciplina y subordinación debida;
-
-XXVIII. Abstenerse de emitir órdenes que menoscaben la dignidad de quien las reciba, o que sean contradictorias, injustas o impropias;
-
-XXIX. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la corporación, dentro o fuera del servicio;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XXX. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas y juegos u otros lugares de este tipo, salvo que actúe en ejercicio de sus funciones;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XXXI. En caso de encontrarse cumpliendo alguna comisión especial en el servicio, realizarlo correcta y enfocada estrictamente a la actividad encomendada; y
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XXXII. Las demás que determinen sus superiores jerárquicos, el Comisario y el Comité, en apego a las disposiciones aplicables.
+La Comisión podrá rechazar cualquier solicitud en caso de que no se cumpla con cualquier requisito establecido en esta Sección, tanto para el registro inicial como para sus revalidaciones.
 
 #### Sección II. De la Suspensión y Cancelación de Registros
 
-###### Artículo 138.
+###### ARTÍCULO 138.
 
-En materia de investigación de delitos, de conformidad con lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el miembro del Servicio actuará bajo la conducción del Ministerio Público estando obligado a:
+La Comisión suspenderá o cancelará el registro de un actuario autorizado para dictaminar planes de pensiones o de un agente promotor cuando dejen de satisfacer alguno o algunos de los requisitos para su registro o incurra en faltas graves en el ejercicio de su actividad.
 
-l. Auxiliar en el ámbito de su competencia al Ministerio Público, en relación a acciones u omisiones que puedan ser constitutivas de un delito. En el ejercicio de esta atribución, el miembro del Servicio deberá informar de inmediato y bajo su más estricta responsabilidad al mismo para que éste, determine lo conducente;
+###### ARTÍCULO 139.
 
-II. Cuando se tenga conocimiento de una denuncia por una fuente anónima o su contenido no sea lo suficientemente claro, el miembro del Servicio estará obligado a verificar dicha información para que, en su caso, el Ministerio Público le dé trámite legal o la deseche de plano;
+La Comisión para suspender o cancelar el registro de un actuario autorizado para dictaminar planes de pensiones o de un agente promotor, deberá proceder conforme a lo siguiente:
 
-III. Participar en auxilio de las autoridades competentes, en la investigación y persecución de delitos, en el aseguramiento de personas y/o bienes relacionados con la investigación de los delitos, cumpliendo sin excepción los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+I. Notificará personalmente al interesado la determinación de que se trate;
 
-IV. Practicar aseguramientos en los casos de flagrancia en los términos de ley y poner a disposición de las autoridades competentes a las personas y/o bienes que se hayan asegurado o estén bajo su custodia, con estricto cumplimiento de los plazos legalmente establecidos;
+II. Concederá al interesado un plazo de quince días hábiles contados a partir del día siguiente de que surta efectos la notificación señalada en la fracción anterior, para manifestar lo que a su derecho convenga ofreciendo o acompañando, en su caso, las pruebas que considere convenientes, y
 
-V. Informar y asentar en el registro de detenciones correspondiente, el aseguramiento de personas sin dilación alguna;
+III. Dictará y notificará la resolución correspondiente considerando la gravedad de la falta cometida, los argumentos hechos valer y las pruebas ofrecidas.
 
-VI. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realicen;
+En el caso de que el interesado no manifieste lo que a su derecho convenga dentro del plazo a que se refiere la fracción II anterior, la resolución correspondiente quedará firme.
 
-VII. Recabar los datos que sirvan para la identificación de los involucrados en la investigación del delito;
-
-VIII. En casos de urgencia, apoyarse en los servicios periciales disponibles para la investigación del hecho;
-
-IX. Informar a la persona al momento de su aseguramiento, sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
-
-X. Cuidar que los indicios, rastros, objetos, instrumentos o productos del delito sean conservados. Para este efecto impedirá el acceso a toda persona ajena a la investigación y procederá a su clausura si se trata de local cerrado, o su aislamiento si se trata de lugar abierto y evitará que se alteren o borren de cualquier forma los vestigios del hecho o se remuevan los instrumentos usados para llevarlo a cabo, en tanto intervienen los peritos;
-
-XI. Entrevistar a los testigos presumiblemente útiles para descubrir la verdad. De las entrevistas que se practiquen se dejará constancia y se utilizarán meramente como un registro de la investigación;
-
-XII. Reunir toda la información que pueda ser útil al Ministerio Público que conozca del asunto, para acreditar el hecho calificado como delito y la probable responsabilidad del asegurado;
-
-XIII. Incorporar a las bases de datos criminalísticas, la información que puede ser útil en la investigación de los delitos y utilizar su contenido para el desempeño de sus atribuciones;
-
-XIV. Expedir informes y demás documentos generados con motivo de sus funciones de investigación del delito;
-
-XV. En materia de atención a la víctima u ofendido por algún delito, el miembro del Servicio, en su caso, deberá realizar y asentar constancia de lo siguiente:
-
-a) Prestar auxilio inmediato a las víctimas y proteger a los testigos en observancia a lo dispuesto por la Ley Federal contra la Delincuencia Organizada, el Reglamento y demás normas aplicables;
-
-b) Informar a la víctima u ofendido sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
-
-c) Recibir todos los indicios y elementos de prueba que la victima u ofendido aporte en el ejercicio de su derecho de coadyuvancia, para la comprobación de los hechos calificados presuntamente como delitos y la probable responsabilidad del asegurado, informando de inmediato al Ministerio Público a cargo del asunto, para que éste acuerde lo conducente;
-
-d) Otorgar las facilidades que las leyes establezcan para identificar al imputado en los casos de delitos en contra de la integridad física de las personas, delitos sexuales o privación ilegal de la libertad, así como tomar las medidas necesarias para evitar que se ponga en peligro la integridad física y psicológica de la victima u ofendido, en el ámbito de su competencia;
-
-e) Tomar las medidas necesarias y que estén a su alcance para que la víctima u ofendido reciba atención médica y psicológica de urgencia, en el ejercicio de esta atribución; y
-
-XV (SIC). Las demás que le confieran el Reglamento y otras leyes.
-
-En el ejercicio de la función investigadora a que se refiere este artículo, queda estrictamente prohibido al miembro del Servicio, recibir declaraciones del asegurado o detener a alguna persona fuera de los casos de flagrancia, sin que medien instrucciones escritas del Ministerio Público, del Juez o del Tribunal.
-
-###### Artículo 139.
-
-Los miembros del Servicio que se hayan separado voluntariamente de su cargo, así como los policías que hayan permanecido a otras corporaciones y su baja obedezca a renuncia voluntaria, podrán reingresar al Servicio siempre y cuando se cumplan los requisitos siguientes:
-
-I. Que exista acuerdo favorable por parte del Comité;
-
-II. Que exista plaza vacante o de nueva creación;
-
-III. Que cumpla con los requisitos establecidos en el procedimiento de reclutamiento y selección de aspirantes; y
-
-IV. Que acredite los exámenes relativos al procedimiento de desarrollo y promoción del último grado en el que ejerció su función.
-
-### CAPÍTULO SEGUNDO. DE LA CONVOCATORIA PÚBLICA Y ABIERTA
+### CAPÍTULO X. DE LA CONTABILIDAD Y AUTOMATIZACIÓN
 
 #### Sección I. De la Contabilidad
 
-###### Artículo 140.
+###### ARTÍCULO 140.
 
-Para efectos de reingreso, el miembro del Servicio que se hubiese separado voluntariamente mantendrá en todo caso la categoría, jerarquía y el nivelo grado académico que hubiere obtenido durante su carrera.
+Las Administradoras, Sociedades de Inversión y Empresas Operadoras estarán obligadas a llevar en forma consistente, libros y registros de contabilidad en los que se harán constar todas las operaciones que realicen, para lo cual se sujetarán a los sistemas de registro, catálogo de cuentas, criterios y procedimientos establecidos en las disposiciones de carácter general que les sean aplicables.
 
-## TÍTULO DÉCIMO. DEL RÉGIMEN DE REMUNERACIONES Y PRESTACIONES
+###### ARTÍCULO 141.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+Las Sociedades de Inversión que pretendan introducir nuevas cuentas al catálogo autorizado por la Comisión, deberán anexar a su solicitud el proyecto de cuentas y la justificación correspondiente.
 
-###### Artículo 141.
+###### ARTÍCULO 142.
 
-El Ayuntamiento cubrirá a miembros del Servicio una remuneración económica por los servicios prestados. Para ello, procederá a la separación del tabulador salarial del personal policial, de aquel del personal administrativo.
+Los estados financieros trimestrales deberán publicarse dentro del mes siguiente al periodo al que correspondan, en dos periódicos de circulación nacional, con excepción del último trimestre del ejercicio, que se publicará con los estados financieros anuales dentro de los noventa días naturales siguientes al día treinta y uno de diciembre del año respectivo. En los mismos plazos, las Administradoras y Sociedades de Inversión deberán proporcionar a la Comisión y al Banco de México la demás información contable que la Comisión les requiera.
 
-###### Artículo 142.
-
-La remuneración que se asigne en los tabuladores para cada una de las categorías, jerarquías o grados del Servicio, deberá estar comprendida en el Presupuesto de Egresos, la cual constituirá el salario total antes de aplicar las retenciones por impuestos, sin perjuicio de las prestaciones ya establecidas o que se establezcan.
+Los estados financieros se publicarán bajo la responsabilidad de los administradores y comisarios que hayan aprobado la autenticidad de los datos contenidos en los mismos.
 
 #### Sección II. De la Automatización
 
-###### Artículo 143.
+###### ARTÍCULO 143.
 
-La remuneración no podrá ser disminuida durante la vigencia del Presupuesto de Egresos, pero podrá incrementarse en los términos que fije el Ayuntamiento.
+El intercambio de información entre las Empresas Operadoras, los Institutos de Seguridad Social y los demás Participantes en los Sistemas de Ahorro para el Retiro, deberá efectuarse por medios electrónicos y sólo cuando por contingencias se justifique, previa autorización de la Comisión, podrá efectuarse por otros medios, preservando la confidencialidad de la misma, en términos de lo dispuesto en el artículo 65 de la Ley.
 
-###### Artículo 144.
+###### ARTÍCULO 144.
 
-A las remuneraciones de los miembros del Servicio, se les aplicarán descuentos en los casos siguientes:
+Los Participantes en los Sistemas de Ahorro para el Retiro deberán establecer equipos y sistemas automatizados o de telecomunicación para la atención de los Trabajadores, que deberán permitir que se presenten las solicitudes de los diversos trámites que los Trabajadores realicen ante dichos participantes. En todo caso, estos medios deberán sujetarse a las reglas de carácter general que emita la Comisión.
 
-l. Cuando deriven del sistema de seguridad social;
+Asimismo, se deberán establecer y proporcionar sistemas de identificación electrónica que permitan a los Trabajadores efectuar los trámites antes referidos.
 
-II. Cuando sean por concepto de impuestos;
+###### ARTÍCULO 145.
 
-III. Cuando sean decretados por autoridad judicial competente;
+Los Participantes en los Sistemas de Ahorro para el Retiro, respecto de los sistemas automatizados, deberán cumplir, cuando menos, con los siguientes requisitos:
 
-IV. Aquéllos que sean para cubrir pagos por la adquisición de bienes, servicios o préstamos en efectivo, adquiridos al amparo de los convenios que al efecto celebre el Ayuntamiento con empresas comerciales o instituciones crediticias y aceptadas libremente por los miembros del Servicio sin poder exceder del veinte por ciento de su salario;
+I. Contar con los equipos informáticos, programas, procedimientos y políticas de respaldo de información que aseguren la consistencia e integridad de dicha información;
 
-V. Cuando por negligencia comprobada se haya afectado el patrimonio del Ayuntamiento, en cuyo caso se estará a lo que la Contraloría Municipal determine en cuanto al monto y al plazo de pago; y
+II. Contar con interfaces lógicas y físicas de comunicación con las Empresas Operadoras, los Institutos de Seguridad Social, la Comisión y los Trabajadores;
 
-VI. Por pago de lo indebido.
+III. Desarrollar los manuales operativos y de procedimientos para la operación de los sistemas, respaldo de información y programas de contingencia;
 
-El monto total de los descuentos no podrá exceder del treinta por ciento del importe de la remuneración total, con excepción de los decretados por la autoridad judicial, en cuyo caso el monto será fijado por la misma.
+IV. Desarrollar los planes generales de mantenimiento preventivo y correctivo de la infraestructura tecnológica con que cuente, y
 
-En el caso de lesiones sufridas en el desempeño de sus funciones, el pago de la remuneración se hará de acuerdo a la calificación que de las mismas haga la institución de seguridad social de que se trate, de conformidad con las disposiciones legales aplicables.
+V. Automatizar los procesos operativos y contables en base a las especificaciones mínimas requeridas mediante disposiciones de carácter general.
 
-###### Artículo 145.
+###### ARTÍCULO 146.
 
-El régimen de seguridad social para los miembros del Servicio será el mismo que para el resto de los trabajadores del Ayuntamiento.
+Las Administradoras y Sociedades de Inversión deberán observar en todo caso lo siguiente:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2014)</small>
+I. La compatibilidad técnica con los equipos y programas de la Comisión y de las Empresas Operadoras, y
 
-###### Artículo 146.
+II. Los asientos contables y registros de operación que emanen de dichos sistemas, expresados en lenguaje natural o informático, se emitirán de conformidad a las disposiciones aplicables, a fin de garantizar la autenticidad e inalterabilidad de la información respecto a la seguridad del sistema empleado.
 
-En los días de descanso, cuando los miembros del Servicio, disfruten de permiso, vacaciones o les sea asignada alguna comisión, recibirán el monto íntegro de su salario.
+###### ARTÍCULO 147.
 
-###### Artículo 147.
+La información que las Administradoras, Sociedades de Inversión y Empresas Operadoras lleven en sistemas automatizados y que sea entregada a la Comisión no podrá ser modificada o sustituida posteriormente por la entidad emisora, salvo por determinación expresa de la Comisión o, en su caso, de otras autoridades competentes, con motivo de las correcciones que sean estrictamente necesarias, o bien del esclarecimiento de hechos y eventual deslinde de responsabilidades.
 
-Los miembros del Servicio que tengan más de doce meses consecutivos de trabajo, disfrutarán de dos periodos anuales de vacaciones pagadas, de catorce días naturales cada uno, en las fechas que se señalen al efecto.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 2 DE MAYO DE 2005)</small>
 
-### CAPÍTULO TERCERO. DE LOS REQUISITOS Y DOCUMENTACIÓN DE LOS ASPIRANTES
+### CAPÍTULO X BIS. DE LAS NOTIFICACIONES POR CORREO ELECTRÓNICO
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-###### Artículo 148.
+ARTÍCULO 147 bis-A. La Comisión podrá notificar, en términos del artículo 111 de la Ley, sus actos administrativos a través de correo electrónico.
 
-Los miembros del Servicio tienen derecho a percibir la prima vacacional correspondiente en los términos legales establecidos.
+Asimismo, los Participantes en los Sistemas de Ahorro para el Retiro podrán atender los actos administrativos que les sean notificados y realizar cualquier tipo de promociones ante la Comisión, mediante documentos digitales enviados por correo electrónico.
 
-###### Artículo 149.
+Los documentos digitales a que se refiere el presente artículo deberán tener asociada la firma electrónica avanzada de la persona facultada para emitir el documento digital.
 
-Cuando por necesidades de la operatividad, los miembros del Servicio no pudieren disfrutar de las vacaciones en los periodos previamente señalados, disfrutará (sic) de ellas en el periodo que expresamente acuerde con su superior jerárquico, una vez que haya desaparecido la causa que impidió el disfrute de ese derecho.
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-###### Artículo 150.
+ARTÍCULO 147 bis-B. Para efectos de lo dispuesto en el artículo anterior, la Comisión y los Participantes en los Sistemas de Ahorro para el Retiro deberán contar, conforme a las disposiciones de carácter general que emita la Comisión, con un certificado que confirme el vínculo entre la identidad de la persona facultada para emitir el documento digital y los datos de verificación de su firma electrónica avanzada, el cual deberá ser expedido por el Prestador de Servicios de Certificación que determine la Comisión.
 
-En ningún caso los miembros del Servicio que trabajen en periodos de vacaciones tendrán derecho a doble pago por ese concepto.
+Asimismo, la Comisión y los Participantes en los Sistemas de Ahorro para el Retiro deberán contar con Buzones que permitan la emisión y transmisión automática de los acuses de recibo correspondientes. La Comisión determinará la Entidad Central que administrará los Buzones a que se refiere el presente Reglamento.
 
-Las vacaciones no serán acumulables entre periodos ni con permisos; por lo que prescribirá el derecho de vacaciones para los miembros del Servicio que no las disfrute (sic), según lo disponen las leyes de la materia.
+Dicha Entidad Central deberá mantener un directorio electrónico de las personas que la Comisión y los referidos Participantes autoricen para enviar información en términos de este capítulo. Para tal efecto, la Comisión y los Participantes en los Sistemas de Ahorro para el Retiro deberán enviar a la Entidad Central la información correspondiente y mantenerla actualizada.
 
-###### Artículo 151.
+Los sistemas de dicha Entidad Central deberán estar sincronizados con el estándar internacional de tiempo denominado "Tiempo Universal Coordinado".
 
-Cuando los miembros del Servicio se encuentren disfrutando de vacaciones y sea necesaria su presencia, éstas se suspenderán y las retomarán cuando desaparezca la causa que motivó la suspensión, previo acuerdo expreso con su superior jerárquico.
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-###### Artículo 152.
+ARTÍCULO 147 bis-C. La firma electrónica avanzada será aquella firma electrónica que cumpla con los requisitos contemplados en los artículos 97 fracciones I a IV y 98 del Código de Comercio.
 
-Las jornadas diarias de trabajo para los miembros del Servicio, serán las que establezcan las diferentes unidades de adscripción, de acuerdo con las actividades que el mismo servicio demande, debiendo ser como mínimo de ocho horas.
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-###### Artículo 153.
+ARTÍCULO 147 bis-D. En los documentos digitales, una firma electrónica avanzada producirá los siguientes efectos jurídicos:
 
-Permiso, es la prestación que se da a los miembros del Servicio para ausentarse de sus obligaciones laborales, con goce de sueldo íntegro.
+I. Sustituirá a la firma autógrafa del firmante;
 
-###### Artículo 154.
+II. Garantizará la integridad del documento, y
 
-Los miembros del Servicio tienen derecho a cuatro días de permiso durante el año, no pudiendo disfrutar de más de dos días consecutivos. En todo caso, corresponde al jefe inmediato, la autorización para el otorgamiento del mismo.
+III. Producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa teniendo el mismo valor probatorio.
 
-###### Artículo 155.
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-El permiso no se otorgará cuando se encuentre ligado al periodo vacacional o día de descanso normal u obligatorio.
+ARTÍCULO 147 bis-E. El documento digital en el cual conste el acto administrativo a notificar, deberá contener la firma electrónica avanzada del funcionario competente que emita el acto. Asimismo, dicho documento deberá acompañarse de la cédula de notificación respectiva, la cual deberá ser firmada electrónicamente por el notificador designado por la Comisión para tales efectos.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-###### Artículo 155 Bis.
+ARTÍCULO 147 bis-F. Las notificaciones por correo electrónico podrán ser practicadas a través de un notificador o del funcionario que haya firmado el documento digital donde conste el acto administrativo a que se refiere el artículo anterior.
 
-Licencia, es la autorización que de manera especial se otorga a los miembros del servicio, para ausentarse de sus obligaciones laborales, misma que se otorgará únicamente en los siguientes casos y condiciones:
+La Comisión deberá designar a los servidores públicos que estarán facultados para la práctica de notificaciones a través de correo electrónico.
 
-I. Por enfermedad;
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-II. Por muerte de un familiar; y
+ARTÍCULO 147 bis-G. La práctica de las notificaciones, así como el envío de documentos digitales en términos del artículo 147 bis-A del presente Reglamento, deberá efectuarse en días y horas hábiles. Se considerarán días hábiles los que labore la Comisión, y horas hábiles las comprendidas entre las 7:30 y las 18:00 horas.
 
-III. Por embarazo.
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-En el caso de la fracción I, la licencia se ajustara a lo dispuesto por la Ley de Trabajadores al Servicio del Ayuntamiento; en el supuesto previsto en la fracción II, el permiso se otorgará solo cuando se trata de familiares ascendientes o descendientes en primer grado, por un tiempo no mayor a tres días; y por cuanto hace a la fracción III, esta se sujetara en los términos de la ley de la materia.
+ARTÍCULO 147 bis-H. Las notificaciones que realice la Comisión a través de correo electrónico, se tendrán por practicadas en la hora y fecha que establezcan los acuses de recibo que se reciban automáticamente del Buzón correspondiente.
 
-## TÍTULO DÉCIMO PRIMERO. DE LA FORMACIÓN CONTINUA Y ESPECIALIZADA
+La hora y fecha que deberán establecer los acuses de recibo, será la del momento en el que se reciban los documentos digitales en el Buzón habilitado al Participante en los Sistemas de Ahorro para el Retiro que se notifique. Dichos acuses de recibo deberán cumplir con los requisitos que determine la Comisión.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+Cuando se realice una notificación o se reciba un documento digital en un día u hora inhábil, deberá tenerse por practicada la notificación o por recibido el documento digital, el día u hora hábil siguiente a aquel que señale el acuse de recibo emitido por el Buzón correspondiente.
 
-###### Artículo 156.
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-La formación continua y especializada, integra las actividades académicas encaminadas a lograr la actualización y perfeccionamiento de conocimientos, habilidades, destrezas, competencias, aptitudes y actitudes del miembro del Servicio, para el óptimo desempeño de sus funciones, así como de sus evaluaciones periódicas y certificación como requisito de permanencia en el Servicio.
+ARTÍCULO 147 bis-I. Las notificaciones a través de correo electrónico surtirán sus efectos el día hábil siguiente a aquél en que fueron practicadas y el cómputo de los plazos empezará a correr a partir del día hábil siguiente a aquél en que surta efectos la notificación.
 
-###### Artículo 157.
+La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a aquella en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
 
-La formación continua y especializada tiene como objeto lograr el desempeño profesional de los miembros del Servicio en todas sus categorías, jerarquías o grados, a través de procesos de formación continua y especializada dirigidos a la actualización de sus conocimientos, el desarrollo y perfeccionamiento de sus habilidades, destrezas y actitudes necesarios para responder adecuadamente a la demanda social de preservar la seguridad pública, garantizando los principios constitucionales.
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-###### Artículo 158.
+ARTÍCULO 147 bis-J. Cuando los Participantes en los Sistemas de Ahorro para el Retiro envíen un documento digital a la Comisión, recibirán el acuse de recibo que contenga el sello digital.
 
-Las etapas de formación continua y especializada de los miembros del servicio, se realizarán a través de actividades académicas como carreras, diplomados, especialidades, cursos, seminarios, talleres, estadías, congresos, entre otros, que se impartan en la Academia e instituciones educativas nacionales e internacionales. Estas actividades tienen el objetivo de concebir la formación con una misma visión nacional integradora y deben recibir la acreditación formal que corresponda por parte de la autoridad competente.
+El sello digital es el mensaje electrónico que acredita que un documento digital fue recibido por la Comisión y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el sello digital identificará que la Comisión recibió el documento digital y se presumirá que dicho documento fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado.
 
-###### Artículo 159.
+### CAPÍTULO XI. DE LA INSPECCIÓN DE LOS PARTICIPANTES EN LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-La formación continua tendrá una duración mínima de 145 horas por año para lodo miembro del Servicio y podrá desarrollarse de manera permanente o intermitente, en función del programa de estudios.
+###### ARTÍCULO 148.
 
-###### Artículo 160.
+La Comisión llevará a cabo la inspección de los Participantes en los Sistemas de Ahorro para el Retiro de acuerdo a un programa anual de visitas de inspección, que será aprobado por el Presidente de la Comisión en el mes de diciembre del año inmediato anterior a aquel en que vaya a ser aplicado. En el programa deberán definirse la forma y términos en que será ejecutado, así como el calendario de actividades para su cumplimiento.
 
-El miembro del Servicio que haya concluido satisfactoriamente las actividades académicas de formación en las etapas, niveles de escolaridad y grado académico, tendrá derecho a obtener la certificación, título, constancia, diploma o reconocimiento que corresponda.
+###### ARTÍCULO 149.
 
-###### Artículo 161.
+Las visitas de inspección se realizarán tomando en consideración las características operativas y administrativas de los Participantes en los Sistemas de Ahorro para el Retiro, así como los resultados de la vigilancia o de las visitas de inspección realizadas con anterioridad.
 
-Cuando el resultado de la evaluación de la formación continua de un miembro del Servicio no sea aprobatorio, podrá presentar una segunda evaluación, la cual en ningún caso podrá realizarse en un periodo menor a sesenta días naturales y superior a los ciento veinte días transcurridos después de la notificación que se le haga por escrito de dicho resultado.
+###### ARTÍCULO 150.
 
-Si la evaluación la realizó una institución educativa distinta a la Academia, y el resultado no fuere aprobatorio, se atenderá a las cláusulas que para tal efecto se hayan establecido en el contrato o convenio respectivo.
+La Comisión contará con inspectores y visitadores que, de conformidad a lo previsto por el artículo 95 de la Ley, deberán reunir los siguientes requisitos:
 
-De no aprobar la segunda evaluación, el miembro del Servicio no podrá participar en los procedimientos de desarrollo y promoción.
+I. Tener experiencia en materia financiera, económica, contable, fiscal, jurídica, administrativa, informática o de auditoría;
 
-### CAPÍTULO SEGUNDO. DE LA ELEVACIÓN DE LOS NIVELES DE ESCOLARIDAD
+II. Haber acreditado las medidas que establezca la Comisión para demostrar sus conocimientos;
 
-###### Artículo 162.
+III. No tener relación de parentesco consanguíneo hasta el cuarto grado, civil o por afinidad con los consejeros, contralores normativos y funcionarios de los tres primeros niveles directivos de los Participantes en los Sistemas de Ahorro para el Retiro, y
 
-La elevación de los niveles de escolaridad dentro del Servicio, estará dirigida a aquellos miembros del Servicio que tengan estudios de educación básica y media.
+IV. No prestar servicios profesionales de asesoría o consultoría a ninguno de los Participantes en los Sistemas de Ahorro para el Retiro.
 
-### CAPÍTULO SEGUNDO. DE LOS EXÁMENES Y EVALUACIONES PARA LA SELECCIÓN DE ASPIRANTES
+###### ARTÍCULO 151.
 
-###### Artículo 163.
+Las visitas que la Comisión ordene en el ejercicio de sus facultades de inspección, tendrán una duración máxima de cuatro meses, pudiendo prorrogarse por un periodo de hasta dos meses por una sola ocasión, y tendrán por objeto:
 
-El Comité promoverá ante los Institutos Nacional y Estatal para la Educación de los Adultos y la Unidad de Preparatoria Abierta, la firma de convenios, para desarrollar en la Secretaría programas abiertos de educación básica, media y media superior.
+I. Verificar el cumplimiento de las disposiciones aplicables a los Sistemas de Ahorro para el Retiro y la observancia de los usos y sanas prácticas en los mercados financieros;
 
-###### Artículo 164.
+II. Evaluar la estructura de organización y los sistemas de información, contabilidad, inversión, administración de riesgos y de control interno en relación a los Sistemas de Ahorro para el Retiro;
 
-El programa de formación especializada, se desarrollará bajo los siguientes lineamientos:
+III. Investigar o aclarar situaciones observadas a través de la función de vigilancia;
 
-l. La Academia presentará a la Dirección General de Apoyo Técnico del Secretariado Ejecutivo sus programas de formación especializada, mediante el formato establecido para ello;
+IV. Investigar operaciones relacionadas con quejas e inconformidades, avisos de incumplimiento y reclamaciones, así como con denuncias presentadas ante la autoridad competente;
 
-II. Los recursos que se determinen para la formación especializada, podrán destinarse para el pago de los siguientes rubros de gasto: docentes, matricula, material didáctico y de apoyo económico para asistir a las actividades académicas programadas a favor de los Ayuntamientos;
+V. Comprobar la ejecución de acciones correctivas ordenadas por la Comisión, así como el cumplimiento de los planes de regularización que se hubieren implementado;
 
-III. Los programas de especialización serán impartidos por instructores y personal docente que cuenten con la acreditación correspondiente;
+VI. Verificar el funcionamiento de los sistemas informáticos con los que se opere la Base de Datos Nacional SAR por parte de las Empresas Operadoras;
 
-IV. Las actividades académicas de especialización se realizarán de conformidad con los lineamientos establecidos en el Programa Rector de Profesionalización autorizado por el Consejo Nacional de Seguridad Pública, para los cuales se considerarán los aspectos y necesidades regionales en los que se señalarán las características y duración de dichas actividades; y
+VII. Verificar el funcionamiento de los sistemas informáticos de las Administradoras para el registro, traspaso, retiro, unificación, Separación de Cuentas y demás procesos relacionados a las Cuentas Individuales;
 
-V. La Academia tramitará la obtención de la constancia por la formación especializada de los miembros del Servicio, a través de las instituciones que hayan impartido los cursos.
+VIII. Comprobar el cumplimiento de las obligaciones a cargo de los Participantes en los Sistemas de Ahorro para el Retiro, en términos de la Ley, el presente Reglamento, las disposiciones de carácter general que expida la Comisión, su título de concesión, Manual de Procedimientos Transaccionales y demás disposiciones normativas aplicables, y
 
-###### Artículo 165.
+IX. Verificar los actos de que tenga conocimiento la Comisión que puedan involucrar la contravención a las normas que regulan los Sistemas de Ahorro para el Retiro.
 
-Los miembros del Servicio, a través del Comité, podrán solicitar su ingreso en distintas actividades de formación especializada a desarrollarse en la Academia u otras Instituciones de Formación Policial, con el fin de desarrollar su propio perfil profesional y alcanzar en lo futuro distintas posiciones y promociones; para tal efecto deberán cumplir con los siguientes requisitos:
+###### ARTÍCULO 152.
 
-l. Los cursos solicitados deberán ser acordes al plan de estudios de los miembros del Servicio y serán requisito indispensable para sus promociones;
+Las visitas de inspección se practicarán por orden expresa de la Comisión en términos de la Ley y del Reglamento Interior de dicha Comisión, que se expedirá mediante oficio que contendrá lo siguiente:
 
-II. Desempeñarse correctamente en el ejercicio de sus funciones; y
+I. Nombre de la persona visitada;
 
-III. Acreditar la formación inicial y continua, así como las evaluaciones para la permanencia.
+II. La fundamentación y motivación del acto;
 
-Lo anterior se llevará a cabo siempre y cuando exista disponibilidad presupuestal y las necesidades del Servicios (sic) lo permitan.
+III. El periodo sujeto a revisión, precisando la fecha cierta y determinada de inicio y fin de dicho periodo;
 
-## TÍTULO DÉCIMO SEGUNDO. DE LA EVALUACIÓN PARA LA PERMANENCIA EN EL SERVICIO
+IV. La indicación del lugar o lugares donde deba efectuarse la visita de inspección. El incremento de lugares a visitar deberá notificarse a la persona visitada;
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+V. El nombre de los inspectores o visitadores que efectuarán la visita de inspección, quienes la podrán realizar en forma conjunta o separada;
 
-### CAPÍTULO TERCERO. DE LA ENTREGA DE RESULTADOS
+VI. El nombre del inspector o visitador que coordine la visita de inspección, y
 
-###### Artículo 166.
+VII. Nombre, cargo y firma del servidor público competente que la expide.
 
-La evaluación para la permanencia permite valorar, tanto en forma individual como colectiva, los aspectos cualitativos y cuantitativos de la actuación de los miembros del Servicio, considerando su conocimiento y cumplimiento de las funciones y metas, en relación con las habilidades, aptitudes, actitudes, capacidades, formación recibida y rendimiento profesional; la cual será obligatoria y deberá llevarse a cabo de conformidad con el tiempo y forma que al efecto establezca el Secretariado Ejecutivo y el Consejo Estatal de Seguridad Pública a través del Centro Estatal de Evaluación de Control y Confianza.
+###### ARTÍCULO 153.
 
-###### Artículo 167.
+Los inspectores o visitadores designados para realizar la visita de inspección podrán sustituirse o incrementarse en número por la autoridad emisora de la orden. La sustitución o incremento de inspectores o visitadores se notificará por escrito a la persona visitada.
 
-La evaluación para la permanencia tiene por objeto ponderar el desempeño y el rendimiento profesional de los miembros del Servicio, tomando en cuenta las metas programáticas establecidas, la formación inicial, continua y especializada recibida, su desarrollo y promociones obtenidas.
+###### ARTÍCULO 154.
 
-###### Artículo 168.
+La orden de visita de inspección será notificada mediante cédula que deberá contener los siguientes datos:
 
-Los miembros del Servicio serán citados por el Comité en cualquier tiempo, para la práctica de los exámenes y estudios que integran este procedimiento. En caso de no asistir en el lugar y hora que para el efecto se haya determinado, sin mediar causa justificada, se les tendrá por no presentados con resultado de no aptos.
+I. Nombre y domicilio de la visitada;
 
-###### Artículo 169.
+II. Lugar, fecha y hora en que se realiza la notificación;
 
-La evaluación para la permanencia consistirá en los exámenes obligatorios descritos en el procedimiento de Selección de Aspirantes, además el de conocimientos; habilidades y el de desempeño.
+III. Nombre del inspector o visitador que realiza la diligencia de notificación y la referencia del documento que lo identifique como tal;
 
-###### Artículo 170.
+IV. Disposiciones legales en que se funda la notificación;
 
-El examen de Conocimientos y Habilidades, es el medio que permite valorar los conocimientos generales, el cumplimiento de la función policial y las metas asignadas al miembro del Servicio, en función de sus habilidades, capacidades, formación recibida, rendimiento profesional, adecuación al puesto y sus niveles de actuación con respecto a su función.
+V. Descripción del acto que se notifica, y
 
-Este tiene como objetivo estimular el desarrollo profesional y personal del miembro del Servicio y actualizarlo constantemente en sus conocimientos básicos, así como determinar si éste cumple con los principios de legalidad, eficiencia, profesionalismo y honradez, detectando áreas de oportunidad para la profesionalización.
+VI. Nombre y cargo de la persona que recibe la notificación y la referencia del documento que lo acredita como representante legal o, en ausencia de éste, como empleado de la visitada.
 
-###### Artículo 171.
+En caso de que la persona que reciba la notificación se niegue a firmar la misma, se hará constar este hecho en la cédula.
 
-Los exámenes de Conocimientos y Habilidades y Evaluación del Desempeño, se aplicarán en estricto cumplimiento de los lineamientos y Guía emitidos por el Secretariado Ejecutivo, con la supervisión y participación del Comité.
+###### ARTÍCULO 155.
 
-###### Artículo 172.
+La visita de inspección se realizará conforme a lo siguiente:
 
-Los exámenes de Conocimientos y Habilidades y Evaluación del Desempeño, miden las habilidades y destrezas, así como las capacidades físicas y mentales, aptitudes en el manejo de armas de fuego y técnicas de tiro policial, capacidad física, defensa policial, detección y conducción de presuntos responsables, conducción de vehículos policiales, operación de equipos de radiocomunicación y manejo de bastón PR-24, para determinar si el sustentante es apto para enfrentar situaciones operativas propias de su función.
+l. Se iniciará con la notificación de la cédula y entrega de la orden de visita respectiva que se realice al representante legal de la visitada;
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+II. Si al presentarse el inspector o visitador en el lugar o lugares designados para la visita de inspección, no se encontrara el representante legal de la visitada, dejará citatorio con la persona que se encuentre en dicho lugar o lugares para que el mencionado representante legal lo espere a hora determinada del día hábil siguiente para ser notificado de la orden de visita respectiva;
 
-###### Artículo 173.
+III. En caso de no atender dicho citatorio, la visita de inspección se iniciará notificando y entregando la orden de visita al empleado que se encuentre en el lugar o lugares visitados;
 
-Para acceder a los exámenes de Conocimientos y Habilidades y Evaluación del Desempeño, el miembro del Servicio deberá presentar un certificado médico reciente, avalado por una institución pública, además de presentar la documentación que determine el Comité a través del procedimiento respectivo.
+IV. Los inspectores o visitadores, al notificar la cédula y entregar la orden de vista respectiva, procederán a identificarse ante el representante legal de la visitada o ante la persona con quien se entienda la diligencia. Para tal efecto, en el acta que se levante con motivo del inicio de la visita, se asentará:
 
-###### Artículo 174.
+a) El nombre y cargo de los inspectores o visitadores asignados a la visita, así como el del coordinador de la visita;
 
-La vigencia del Examen de Conocimientos y Habilidades, será de dos años; mientras que la duración de la evaluación de Desempeño será de un año, tomando este como aquél ejercicio en el que se aplica la evaluación sin considerar el mes.
+b) El número de oficio de comisión en el que se les autorizó para intervenir en la visita;
 
-### CAPÍTULO SEGUNDO. DE LA ACADEMIA
+c) El nombre y cargo del servidor público que expidió el o los oficios de comisión;
 
-###### Artículo 175.
+d) El número o clave de las credenciales que acreditan a los inspectores o visitadores como servidores públicos de la Comisión, y
 
-La vigencia del examen toxicológico y la evaluación de control de confianza, serán las que determine la Federación y en su defecto las que establezca el Comité.
+e) La fecha de expedición y de vencimiento de las credenciales a que se refiere el inciso anterior, así como el nombre y puesto del servidor público que las expidió.
 
-###### Artículo 176.
+Los oficios de comisión, así como las credenciales que acreditan a los inspectores o visitadores como servidores públicos de la Comisión, se deberán mostrar y entregar en copia al representante legal de la visitada o a la persona con quien se entienda la diligencia, a efecto de que éste se cerciore de la identidad de los inspectores o visitadores que intervendrán en la visita, haciendo constar este hecho en el acta que al efecto se levante.
 
-El Comité, en coordinación con el Consejo Estatal, emitirá una constancia de conclusión del proceso de evaluación para la permanencia, a los miembros del Servicio que hayan aprobado satisfactoriamente las evaluaciones.
+Asimismo, en el acta de inicio de visita, se hará constar en su caso, las acciones de la visitada tendientes a obstaculizar dicho inicio, esta acta deberá ser levantada en presencia de dos testigos nombrados por la visitada, y cuando ésta no los designe los nombrará el inspector o visitador, hecho que se hará constar en el acta, misma que deberá ser firmada por todos los que intervengan, haciéndose constar igualmente, los casos en que el representante legal de la visitada o a la persona con quien se entienda la diligencia o los testigos se nieguen a firmarla; en todo caso se entregará copia del acta a la visitada.
 
-###### Artículo 177.
+Los inspectores o visitadores asignados para practicar la visita de inspección, levantarán las actas circunstanciadas que estimen necesarias para hacer constar los hechos u omisiones de que tengan conocimiento y, en su caso, las acciones de la visitada tendientes a obstaculizar el desarrollo de la visita debiendo observar las formalidades previstas en este artículo.
 
-Al término de la evaluación para la permanencia, la lista de los miembros del Servicio que fueron evaluados, deberá ser firmada para su constancia, por el Presidente del Comité y por el titular de la Academia, debiendo éste último estar presente durante el proceso.
+###### ARTÍCULO 156.
 
-###### Artículo 178.
+Los inspectores y visitadores realizarán sus funciones sujetándose al horario de labores de la visitada; no obstante lo anterior, la Comisión podrá habilitar días y horas cuando lo estime necesario para el desarrollo de la visita.
 
-El Comité, coordinado con el Consejo de Honor y de manera conjunta con la Contraloría Municipal y la Academia, emitirán un acta de cierre de aplicación de las Evaluaciones de Conocimientos y Habilidades y la de Desempeño.
+###### ARTÍCULO 157.
 
-## TÍTULO DÉCIMO TERCERO. DEL DESARROLLO Y PROMOCIÓN
+Al inicio y durante el desarrollo de la visita de inspección, los inspectores o visitadores que en ella intervengan podrán requerir la información o documentación que estimen necesaria para la realización del objeto de la visita, dicho requerimiento deberá constar por escrito y será entregado al representante legal de la visitada o a la persona con quien se entienda la visita, para que en el plazo que se señale en dicho requerimiento sea entregada a los inspectores la información o documentación solicitadas.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+A petición del interesado, los inspectores o visitadores podrán prorrogar el plazo para que la visitada entregue la información o documentación solicitada.
 
-###### Artículo 179.
+###### ARTÍCULO 158.
 
-El procedimiento de desarrollo y promoción permite a los miembros del Servicio ocupar plazas vacantes o de nueva creación de mayor responsabilidad, nivel de remuneración, categoría, jerarquía o grado inmediato superior en el escalafón, dentro de la estructura de la Secretaría.
+Para el levantamiento de las actas circunstanciadas a que se refiere el artículo 155 último párrafo, de este Reglamento, el inspector o visitador formulará citatorio al representante legal de la visitada para que éste lo espere a una hora determinada del día hábil siguiente y, en caso de su ausencia, se levantará con el empleado de la visitada con quien se entienda la visita de inspección.
 
-###### Artículo 180.
+Una vez consignados en el acta circunstanciada los hechos u omisiones que dieron lugar a su levantamiento, se hará constar en la misma que la visitada tendrá un plazo máximo de cinco días hábiles contados a partir del día hábil siguiente a aquel en que se haya levantado el acta, para que manifieste por escrito lo que a su interés convenga, acompañando al efecto la documentación que soporte sus argumentos.
 
-El procedimiento de desarrollo y promoción del Servicio tiene como objeto preservar el principio del mérito, la evaluación periódica y la igualdad de oportunidades mediante el desarrollo, la promoción y los ascensos de los miembros del Servicio, hacia las categorías, jerarquías o grados superiores, con base en los resultados de la aplicación de los procedimientos de formación inicial, continua y especializada, de la evaluación para la permanencia, de los resultados de los exámenes específicos de este procedimiento y a la antigüedad, en competencia con los demás concursantes.
+###### ARTÍCULO 159.
 
-###### Artículo 181.
+Cuando en la práctica de una visita de inspección se conozcan hechos que contravengan la normatividad aplicable que no puedan ser acreditados con la documentación de la visitada, el representante legal o el funcionario competente de la visitada, a requerimiento expreso del coordinador de la visita, deberá rendir un informe por escrito de tales hechos, proporcionando al efecto la documentación que le sea solicitada.
 
-Las jerarquías o grados deberán relacionarse en su conjunto con los niveles y las categorías de remuneración que les correspondan, según lo establecido por la autoridad competente, procurando que entre un cargo inferior y el inmediato superior existan condiciones de remuneración proporcionales y equitativas entre sí.
+Dicho informe deberá ser rendido por escrito por la persona visitada dentro de un plazo que no excederá de cinco días hábiles, contados a partir del día hábil siguiente al requerimiento del mismo.
 
-###### Artículo 182.
+A petición del interesado, los inspectores o visitadores podrán prorrogar por una sola ocasión el plazo para que la visitada entregue la información o documentación solicitada.
 
-Los miembros del Servicio podrán sugerir al Comité su plan de estudios, o su adecuación con base a su interés y a los grados de especialización.
+###### ARTÍCULO 160.
 
-### CAPÍTULO SEGUNDO. DE LA MOVILIDAD VERTICAL Y HORIZONTAL EN LA SECRETARÍA
+Los inspectores y visitadores, en ejercicio de sus funciones y para el mejor cumplimiento de las comisiones encomendadas, podrán fotocopiar la documentación que sea solicitada durante el desarrollo de la visita que obre en poder de las personas visitadas, la que, previo cotejo con sus originales, se deberá certificar por aquéllos con la asistencia de dos testigos que designe la visitada y se anexarán tanto a los informes que rindan, como a las actas que levanten con motivo de la visita.
 
-###### Artículo 183.
+###### ARTÍCULO 161.
 
-La movilidad en el Servicio podrá ser:
+De toda visita de inspección se levantará un acta de conclusión en el lugar donde se practicó la visita, en la que se referirán los hechos y omisiones de los que hayan conocido los inspectores o visitadores. El acta de conclusión deberá cumplir con las formalidades previstas para las actas de inicio y circunstanciadas a que aluden los artículos 155 último párrafo y 158 primer párrafo de este Reglamento.
 
-l. Vertical: de trayectoria ascendente hacía posiciones de mayor categoría, jerarquía o grado, donde las funciones serán más complejas y de mayor responsabilidad; y
+La Comisión previo análisis de los argumentos y pruebas aportadas por la visitada en el acta levantada, emitirá mediante oficio las medidas para su corrección y el plazo en que se deberán llevar a cabo. La Comisión supervisará el cumplimiento de estas medidas, con independencia de la aplicación de las sanciones que correspondan conforme a lo previsto por la Ley. En el caso de que como resultado de la visita de inspección se detecten hechos que contravengan la normatividad y que afecten intereses patrimoniales de los Institutos de Seguridad Social, se deberá hacer esto del conocimiento de dichos Institutos.
 
-II. Horizontal o lateral: corresponde a su adscripción en diferentes unidades especializadas donde se cumplan condiciones de equivalencia, homologación y afinidad entre los cargos que se comparan, a través de los respectivos perfiles de grado del Servicio.
+###### ARTÍCULO 162.
 
-###### Artículo 184.
+Cuando la naturaleza de las irregularidades de que se tenga conocimiento así lo requiera, el Presidente de la Comisión dictará las medidas necesarias para su regularización y podrá designar por el tiempo que estime conveniente a uno o más inspectores o visitadores para que efectúen la supervisión respectiva, careciendo estos últimos de facultades de resolución, limitándose a informar periódicamente sobre los avances de la regularización ordenada.
 
-La movilidad vertical se realizará conforme al procedimiento de desarrollo y promoción dentro de la misma Secretaria, con base en:
+### CAPÍTULO XII. DE LA VIGILANCIA DE LOS PARTICIPANTES EN LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-l. Disponibilidad de una plaza vacante o de nueva creación;
+###### ARTÍCULO 163.
 
-II. Requisitos de participación;
+La Comisión llevará a cabo la vigilancia de los Participantes en los Sistemas de Ahorro para el Retiro mediante el análisis, revisión, comprobación y evaluación de la información y situación de los procesos operativos, financieros y económicos a que se encuentran sujetos dichos participantes de conformidad con las disposiciones legales y administrativas que regulan los Sistemas de Ahorro para el Retiro.
 
-III. Requisitos de escalafón;
+La Comisión a través de sus actos de vigilancia, podrá proponer medidas correctivas y de mejoras a los Participantes de los Sistemas de Ahorro para el Retiro.
 
-IV. Expediente disciplinario;
+###### ARTÍCULO 164.
 
-V. Exámenes específicos para la promoción;
+La información que solicite la Comisión en ejercicio de sus facultades de vigilancia, a los Participantes en los Sistemas de Ahorro para el Retiro, deberá reunir las características, calidad, oportunidad, requisitos, forma, periodicidad y presentación que la Comisión establezca en el propio requerimiento o en su caso en las reglas de carácter general que en materia de supervisión y vigilancia se emitan.
 
-VI. Trayectoria y experiencia;
+Además, la Comisión podrá requerir directamente a los consejeros independientes y contralores normativos de las Administradoras, la información y documentación que considere necesaria, misma que deberá reunir las características y requisitos que se señalen, así como proporcionarse dentro de los plazos que se establezcan.
 
-VII. Resultados de la formación inicial, continua y especializada;
+###### ARTÍCULO 165.
 
-VIII. Nivel de escolaridad;
+La corrección de las irregularidades que se detecten, como consecuencia del ejercicio de las facultades de vigilancia, se llevará a cabo mediante el establecimiento de programas especiales, los cuales serán obligatorios para los Participantes en los Sistemas de Ahorro para el Retiro.
 
-IX. Resultados de la evaluación para la permanencia;
+### CAPÍTULO XIII. DE LA INTERVENCIÓN ADMINISTRATIVA Y GERENCIAL
 
-X. Valoración de hojas de servicios;
+###### ARTÍCULO 166.
 
-XI. Requisitos de antigüedad;
+En caso de que la Junta de Gobierno disponga la intervención administrativa o la gerencial en términos de los artículos 96 o 97 de la Ley, el Presidente de la Comisión deberá designar al interventor administrativo o al interventor gerente. La designación recaerá en un servidor público de la Comisión.
 
-XII. Anteriores promociones; y
+El interventor percibirá su remuneración con cargo a la persona intervenida. La Junta de Gobierno de la Comisión determinará el monto de las percepciones del interventor atendiendo a las responsabilidades que se asuman.
 
-XIII. Promociones por mérito especial.
+###### ARTÍCULO 167.
 
-###### Artículo 185.
+El interventor administrativo se encargará exclusivamente de llevar a cabo la regularización de las operaciones que motivaron la intervención, para lo cual podrá realizar directamente los actos necesarios que se autoricen en el acuerdo de intervención, o instruir al órgano de administración de la sociedad intervenida para que se corrijan.
 
-La movilidad horizontal se realizará dentro de la misma Secretaría y entre corporaciones federales, estatales y municipales, siempre que se cumplan las condiciones de equivalencia, homologación y afinidad entre los cargos horizontales, con base en el perfil del grado por competencia.
+###### ARTÍCULO 168.
 
-###### Artículo 186.
+La sociedad intervenida administrativamente deberá cumplir con las instrucciones que dicte el interventor y otorgarle el apoyo que requiera para llevar a cabo la regularización de las operaciones de que se trate, poniendo a su disposición los informes, registros y en general la documentación de la sociedad, así como el acceso a los sistemas automatizados, oficinas y locales que estime necesarios para el cumplimiento del objetivo que dio lugar a dicha intervención.
 
-Además de las fracciones I, V, VI y VIII del artículo 183 del Reglamento, para que la movilidad horizontal tenga lugar, se requiere tener la categoría, jerarquía o grado equivalente entre corporaciones, debiendo procurar la mayor analogía posible entre los puestos.
+###### ARTÍCULO 169.
 
-### CAPÍTULO TERCERO. DE LA MIGRACIÓN DE LOS ELEMENTOS EN ACTIVO HACIA EL SERVICIO
+Para que sea declarada la intervención gerencial a que se refiere el artículo 97 de la Ley, el Presidente de la Comisión presentará a la Junta de Gobierno un informe que deberá contener el nombre de la sociedad de que se trate, y expresar los motivos por los que considera que las irregularidades detectadas afectan la estabilidad, solvencia o liquidez de la persona supervisada y ponen en peligro los intereses de los Trabajadores o el sano y equilibrado desarrollo de los Sistemas de Ahorro para el Retiro. Dicho informe será acompañado de la propuesta para que sea ordenada la intervención gerencial.
 
-###### Artículo 187.
+###### ARTÍCULO 170.
 
-Con objeto de llevar a cabo la migración de todos los elementos en activo de la Secretaría hacia el Servicio, el Comité deberá precisar el número de policias en activo en ejercicio de sus derechos.
+La intervención administrativa o la gerencial que decrete la Comisión se iniciará con la orden correspondiente, en oficio expedido por el Presidente de la Comisión, el cual contendrá, por lo menos, lo siguiente:
 
-###### Artículo 188.
+I. Lugar y fecha de su expedición;
 
-Una vez precisado el estado de fuerza de la Secretaría, el Comité identificará a cada uno de los elementos que realicen funciones de manera análoga y con mayor afinidad a cada uno de los perfiles de grado, a fin de distribuirlos de acuerdo con la escala jerárquica de conformidad con los siguientes criterios:
+II. Nombre de la sociedad a quien se dirija;
 
-I. Resultados de la formación inicial, continua y especializada;
+III. Fundamentación y expresión de los motivos que originaron la intervención;
 
-II. Número de faltas de asistencia, incumplimiento de servicios y/o de órdenes de servicio;
+IV. Los objetivos que se persiguen con la intervención de que se trate;
 
-III. Correcciones disciplinarias y sanciones recibidas;
+V. Las medidas dictadas para la normalización de las operaciones irregulares;
 
-IV. Resultados de los exámenes y estudios que se hubieran aplicado;
+VI. Nombre de la persona designada para practicar la intervención, y
 
-V. Aprobación de su hoja de servicios; y
+VII. Lugar o lugares en que habrá de practicarse.
 
-VI. Contar con la edad de retiro.
+###### ARTÍCULO 171.
 
-###### Artículo 189.
+El interventor designado por la Comisión para practicar la intervención administrativa o la gerencial, la entenderá con el funcionario o empleado de mayor jerarquía de la sociedad intervenida que se encuentre en las oficinas de ésta, a quien notificará y hará entrega del oficio a que se refiere el artículo anterior, levantando al efecto acta circunstanciada ante dos testigos que le sean propuestos por las personas antes señaladas y, en caso de no hacerlo, por los que designe el propio interventor.
 
-El Comité aplicará una evaluación a los elementos en activo, de conformidad con el perfil de grado, para determinar:
+El interventor deberá rendir un informe sobre las actividades realizadas con motivo de su designación.
 
-I. Si tienen derecho a conservar la categoría y jerarquía o grado, en los términos de la distribución previamente llevada a cabo;
+###### ARTÍCULO 172.
 
-II. Si tienen derecho a una promoción; y
+Cuando los objetivos de la intervención se hubieren alcanzado y las operaciones irregulares que la motivaron se hayan normalizado, la Comisión procederá a levantarla. Lo anterior será comunicado al representante legal de la persona intervenida mediante oficio que expida el Presidente de la Comisión.
 
-III. Si deben descender de jerarquía o grado.
+### CAPÍTULO XIV. DE LA DISOLUCIÓN Y LIQUIDACIÓN DE LAS ADMINISTRADORAS
 
-Todos los elementos en activo pasarán a formar parte del Servicio, conforme vayan superando las pruebas que integran dicha evaluación.
+###### ARTÍCULO 173.
 
-### CAPÍTULO CUARTO. DEL DESARROLLO Y PROMOCIÓN
+Para proceder a la disolución y liquidación de una Administradora, deberán liquidarse de manera ordenada los activos de las Sociedades de Inversión que opere, en un plazo de ciento ochenta días naturales, prorrogables por un plazo igual, traspasando los recursos a la Cuenta Concentradora conforme éstos se tengan líquidos.
 
-###### Artículo 190.
+Durante el plazo mencionado, los Trabajadores registrados en la Administradora en proceso de disolución deberán elegir una nueva Administradora que les opere su Cuenta Individual, a fin de que, durante el plazo a que se refiere el párrafo anterior, se proceda a realizar el traspaso de las Cuentas Individuales y la Administradora original pueda concluir su liquidación.
 
-Para lograr la promoción, los miembros del Servicio accederán por concurso interno a la siguiente categoría, jerarquía o grado que les corresponda, en concordancia con el artículo 14 fracción VII y Título Cuarto de la Ley Estatal.
+Terminado el plazo previsto en el presente artículo, aquellas cuentas que no hayan solicitado ser traspasadas por sus Trabajadores titulares, serán asignadas a las Administradoras que cobren las comisiones más bajas de conformidad con los criterios determinados por la Junta de Gobierno de la Comisión.
 
-###### Artículo 191.
+###### ARTÍCULO 174.
 
-Para participar en los concursos de desarrollo y promoción, los miembros del Servicio deberán cumplir con los perfiles del puesto y aprobar las evaluaciones a que se refiere este procedimiento.
+En el caso de que se ordene la intervención administrativa o gerencial de una Administradora o de una Sociedad de Inversión, que tenga como consecuencia la revocación de su autorización, se procederá de conformidad con lo dispuesto en el artículo 56 de la Ley, así como con lo previsto para la disolución y liquidación de las Administradoras por el artículo anterior.
 
-###### Artículo 192.
+### CAPÍTULO XV. DISPOSICIONES GENERALES
 
-Al personal que sea promovido le será otorgada la nueva categoría, jerarquía o grado, mediante la constancia de grado correspondiente.
+###### ARTÍCULO 175.
 
-###### Artículo 193.
+El informe semestral a que se refiere la fracción XIII del artículo 5o. de la Ley, que la Comisión debe rendir al Congreso de la Unión, deberá presentarse a más tardar en la última semana de los meses de agosto y febrero de cada año. El informe correspondiente al primer semestre abarcará los meses de enero a junio y el correspondiente al segundo semestre los meses de julio a diciembre de cada año. El informe referido contendrá información de los Sistemas de Ahorro para el Retiro relativa al desarrollo de dichos sistemas, proceder de los Participantes en los Sistemas de Ahorro para el Retiro y observancia de los derechos de los Trabajadores.
 
-Para que los miembros del Servicio puedan participar en el proceso de desarrollo y promoción deberán cubrir, entre otros, los siguientes requisitos:
+En relación con los reportes trimestrales que la Comisión debe dar a conocer a la opinión pública de conformidad con el artículo 5o. fracción XIV de la Ley, los trimestres se computarán en función del año calendario, y deberán contener información precisa sobre las materias previstas en dicho precepto.
 
-l. Haber obtenido calificaciones aprobatorias en los procedimientos de formación inicial, continua y especializada, así como de la evaluación para la permanencia;
+###### ARTÍCULO 176.
 
-II. Estar en servicio activo;
+En la celebración de actos, contratos y operaciones que realicen las Administradoras o Sociedades de Inversión de acuerdo a su objeto social con entidades extranjeras o en mercados del exterior, se podrán aplicar las leyes del lugar de su celebración y, en su defecto, los usos y prácticas internacionales.
 
-III. Presentar la documentación requerida para ello, conforme al procedimiento y plazo establecido en la convocatoria;
+Para efectos del conocimiento y resolución de las controversias que pudieran derivar de los actos, contratos y operaciones a que se refiere el párrafo anterior, realizados por las Administradoras y las Sociedades de Inversión con entidades extranjeras o en mercados del exterior, podrán sujetarse al arbitraje o al tribunal u órgano jurisdiccional que determinen las partes o al que, además de tener competencia por razón de la materia, se encuentre ubicado en el lugar de celebración de los actos, contratos y operaciones de que se trate, de conformidad con lo que establezcan las leyes mexicanas aplicables.
 
-IV. Contar con la antigüedad necesaria dentro del Servicio y en ocupación del grado inmediato inferior;
+###### ARTÍCULO 177.
 
-V. Acumular el número de créditos académicos requeridos para cada grado en la escala jerárquica;
+El límite a la participación en el mercado de los Sistemas de Ahorro para el Retiro previsto en el artículo 26 de la Ley se deberá calcular sobre el total de afiliados al IMSS e ISSSTE.
 
-VI. Haber observado buena conducta en el desempeño de sus funciones; y
+La Comisión dará a conocer el límite a la participación en el mercado y la base sobre la que se haya calculado.
 
-VII. Los demás que se señalen en la convocatoria respectiva.
+###### ARTÍCULO 178.
 
-###### Artículo 194.
+El programa de autorregulación de las Administradoras, el cual contendrá el plan de funciones del contralor normativo y las medidas para preservar su cumplimiento, se sujetará a las disposiciones de carácter general que emita la Comisión.
 
-Cuando el miembro del Servicio esté imposibilitado temporalmente por enfermedad comprobada, para participar total o parcialmente en las evaluaciones de promoción, tendrá derecho de presentarse una vez desaparecida esa causa, siempre que el plazo se encuentre dentro del periodo señalado desde el inicio hasta la conclusión de las evaluaciones relativas a la promoción.
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2005)</small>
 
-### CAPÍTULO QUINTO. DE LAS PROMOCIONES POR MÉRITO ESPECIAL Y DEL ESCALAFÓN
+###### ARTÍCULO 179.
 
-###### Artículo 195.
+Los Participantes en los Sistemas de Ahorro para el Retiro, que en términos del artículo 100 Bis de la Ley presenten programas de corrección por omisiones o contravenciones a las normas aplicables en materia de los Sistemas de Ahorro para el Retiro que deriven de los programas de autorregulación aplicados por el contralor normativo, deberán señalar en los mismos lo siguiente:
 
-(DEROGADO, P.O. 28 DE MARZO DE 2014)
+I. Las omisiones o contravenciones a las normas aplicables en materia de los Sistemas de Ahorro para el Retiro en que incurrieron;
 
-###### Artículo 196.
+II. Que el programa de corrección de que se trata no se encuentra en alguno de los supuestos establecidos en los incisos a), b) o c) del artículo 100 bis de la Ley;
 
-(DEROGADO, P.O. 28 DE MARZO DE 2014)
+III. Las acciones ejecutadas por el Participante en los Sistemas de Ahorro para el Retiro para corregir la omisión o contravención a la Ley;
 
-###### Artículo 197.
+IV. El calendario en el que se señalen las acciones futuras y el tiempo necesario para concluir el programa de corrección.
 
-(DEROGADO, P.O. 28 DE MARZO DE 2014)
+El Participante en los Sistemas de Ahorro para el Retiro, una vez que haya concluido con las acciones señaladas en el calendario a que se refiere la presente fracción, deberá comunicar a la Comisión la conclusión del programa de corrección en un plazo no mayor a 3 días hábiles contado a partir de la fecha en que concluya dicho programa, a efecto de que la Comisión tome conocimiento de la corrección de la omisión o contravención a la normatividad que, en su caso, corresponda al programa de corrección.
 
-###### Artículo 198.
+En caso de que el Participante en los Sistemas de Ahorro para el Retiro no concluya con las acciones señaladas en el calendario a que se refiere la presente fracción, el programa de corrección se considerará incumplido y, por lo tanto, no procederá el beneficio señalado en el artículo 100 bis de la Ley; de conformidad con lo anterior, la Comisión impondrá al Participante en los Sistemas de Ahorro para el Retiro la sanción que corresponda a las infracciones cometidas, en términos de lo dispuesto por los artículos 99 y 100 de la Ley;
 
-(DEROGADO, P.O. 28 DE MARZO DE 2014)
+V. La infracción que en términos de lo establecido en el artículo 100 de la Ley corresponda a la omisión o contravención a que se refiere el programa de corrección que se presente, y
 
-###### Artículo 199.
+VI. Los demás requisitos que determine la Comisión.
 
-(DEROGADO, P.O. 28 DE MARZO DE 2014)
+La Comisión, en un plazo de 30 días hábiles contado a partir de la fecha de recepción del programa de corrección, deberá notificar al Participante en los Sistemas de Ahorro para el Retiro de que se trate, la procedencia o no del programa presentado, así como la clasificación de la infracción que lo motiva.
 
-###### Artículo 200.
+De resultar procedente el programa de corrección, la Comisión impondrá como multa la cantidad que corresponda al 25% de la multa mínima prevista en la Ley conforme a la clasificación de la infracción que haya motivado dicho programa. El Participante en los Sistemas de Ahorro para el Retiro, dentro de los 15 días hábiles siguientes a la fecha en que surta efectos la notificación, deberá proceder al pago de la multa respectiva, así como presentar ante la Comisión el comprobante de pago correspondiente en el plazo señalado en el primer párrafo del artículo 101 de la Ley.
 
-(DEROGADO, P.O. 28 DE MARZO DE 2014)
-
-###### Artículo 201.
-
-(DEROGADO, P.O. 28 DE MARZO DE 2014)
-
-###### Artículo 202.
-
-(DEROGADO, P.O. 28 DE MARZO DE 2014)
-
-### CAPÍTULO SEXTO. DEL PROCEDIMIENTO PARA EL DESARROLLO Y LA PROMOCIÓN
-
-###### Artículo 203.
-
-Cuando existan plazas vacantes o de nueva creación susceptibles de promoción, el Comité expedirá la convocatoria respectiva, en la que se señalará el procedimiento a seguir.
-
-###### Artículo 204.
-
-Para la aplicación del procedimiento de desarrollo y promoción, el Comité elaborará los instructivos operacionales, en los que se establecerán además de la convocatoria, lo siguiente:
-
-l. Las plazas vacantes por categoría, jerarquía o grado y escalafón;
-
-II. Descripción del sistema selectivo;
-
-III. Calendario mediante el cual se programen actividades, publicación de convocatoria, trámite de documentos, valuaciones y entrega de resultados;
-
-IV. Duración del procedimiento, indicando plazos máximos y mínimos para las diferentes evaluaciones;
-
-V. Temario de los exámenes específicos y bibliografía para cada categoría, jerarquía o grado;
-
-VI. Para cada procedimiento de promoción, el Comité de manera conjunta con la Academia, elaborará los exámenes específicos y proporcionará los temarios de estudio y bibliografía correspondientes a cada jerarquía o grado y escalafón; y
-
-VII. Los miembros del Servicio serán promovidos de acuerdo a la calificación global obtenida y a los resultados de los exámenes específicos para ascender a la siguiente categoría, jerarquía o grado.
-
-###### Artículo 205.
-
-En caso de que un miembro del Servicio desista de participar en el desarrollo y promoción, deberá informarlo por escrito al Comité.
-
-###### Artículo 206.
-
-Cuando por necesidades del servicio, un miembro se vea impedido para anticipar en el desarrollo y promoción, el titular del área a la que se encuentre adscrito lo hará del conocimiento expreso del Comité.
-
-###### Artículo 207.
-
-Las mujeres miembros del Servicio que se encuentren embarazadas, podrán participar en el procedimiento de promoción bajo su responsabilidad y se les aplicarán las evaluaciones que determine el Comité.
-
-###### Artículo 208.
-
-Los miembros del Servicio que participen en las evaluaciones para el desarrollo y promoción podrán ser excluidos del mismo, si se encuentran en algunas de las siguientes circunstancias:
-
-I. Inhabilitados por resolución administrativa o sentencia judicial ejecutoriada;
-
-II. Sujetos a un proceso penal; y
-
-III. En cualquier otro supuesto que le impida física y/o legalmente participar.
-
-### CAPÍTULO SÉPTIMO. DE LAS EVALUACIONES PARA EL DESARROLLO Y PROMOCIÓN
-
-###### Artículo 209.
-
-El Comité, para efectos de promoción aplicará los siguientes exámenes y estudios.
-
-I. Examen toxicológico;
-
-II. Examen médico;
-
-III. Examen específico para la promoción, relativa a la jerarquía o grado a que se aspire;
-
-IV. Estudio de personalidad;
-
-V. Estudio patrimonial y de entorno social; y
-
-VI. Examen de control de confianza.
-
-###### Artículo 210.
-
-Los exámenes a que se refiere el artículo anterior, se aplicarán de conformidad a lo dispuesto en este Reglamento para los procedimientos de selección de aspirantes y evaluación para la permanencia.
-
-### CAPÍTULO OCTAVO. DE LA ANTIGÜEDAD
-
-###### Artículo 211.
-
-Además de los otros requisitos ya establecidos, la edad y antigüedad en el grado o jerarquía para participar en el procedimiento de desarrollo y promoción, se ajustarán a la disponibilidad presupuestal y como mínimo a lo establecido en el siguiente cuadro:
-
-CATEGORÍA JERARQUÍA NIVEL EDAD DURACIÓN
-
-DE DE - EN EL
-
-MANDO INGRESO GRADO
-
-AL PUESTO
-
-Escala Básica Policía Subordinado 18 años 3 años
-
-Policía Tercero Subordinado 21 años 3 años
-
-Policía Segundo Subordinado 24 años 3 años
-
-Policía Primero Subordinado 27 años 3 años
-
-Oficiales Suboficial Operativo 30 años 3 años
-
-Oficial Operativo 33 años 3 años
-
-Subinspector Superior 36 años 4 años
-
-###### Artículo 212.
-
-La Secretaria emitirá una constancia en donde se describan los datos generales del miembro del Servicio, así como la fecha de ingreso y el tiempo de servicio en cada nivel, jerarquía o grado en los cuales se haya desempeñado, a fin de acreditar la antigüedad que requiere el interesado.
-
-###### Artículo 213.
-
-Para la aplicación de los exámenes y estudios relativos al desarrollo y promoción de los miembros del Servicio, se podrán contratar instancias evaluadoras conforme a las disposiciones legales aplicables.
-
-###### Artículo 214.
-
-El Comité, una vez que reciba los resultados de las evaluaciones del presente procedimiento, por parte de la instancia evaluadora, los hará oficialmente del conocimiento del miembro del Servicio y de las instituciones competentes y en su caso, llevará a cabo la promoción de que se trate.
-
-## TÍTULO DÉCIMO CUARTO. DE LOS ESTÍMULOS
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-###### Artículo 215.
-
-Los estímulos son el reconocimiento que se otorga a los miembros del Servicio por la realización de acciones destacadas.
-
-###### Artículo 216.
-
-Los estímulos tienen como objeto reconocer la calidad, efectividad y lealtad de los miembros del Servicio en activo, por sus méritos y acciones relevantes.
-
-###### Artículo 217.
-
-Los estímulos a que pueden hacerse acreedores los miembros del Servicio, se sujetarán a los resultados de las Evaluaciones de Desempeño y al régimen dispuesto por el Comité.
-
-###### Artículo 218.
-
-Las acciones de los miembros que se propongan para la entrega de algún estímulo, serán motivo de un sólo reconocimiento de los contemplados en este procedimiento, pero no impedirá el otorgamiento de algún otro u otros reconocimientos por parte de otras instituciones, asociaciones u organismos nacionales, o internacionales.
-
-###### Artículo 219.
-
-Todo estímulo otorgado por la Secretaria, será acompañado de la constancia que lo acredite, el resultado obtenido en la Evaluación del Desempeño y, en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
-
-###### Artículo 220.
-
-La ceremonia de entrega oficial de estímulos, se realizará en un evento protocolario que coincida con un acontecimiento de importancia relevante y será encabezado por el Presidente Municipal y/o el Comisario.
-
-###### Artículo 221.
-
-Conforme lo estipule la Ley Estatal en su artículo 26 fracción VII y el Reglamento de la misma en su artículo 65, los estímulos a que se pueden hacer acreedores los miembros del Servicio son:
-
-l. Premio Municipal al Buen Policía;
-
-II. Condecoración;
-
-III. Mención honorífica;
-
-IV. Distintivo;
-
-V. Citación; y
-
-VI. Recompensa.
-
-### CAPÍTULO SEGUNDO. DE LA CONDECORACIÓN
-
-###### Artículo 222.
-
-Es la presea o joya que galardona un acto o hecho relevante del miembro del Servicio.
-
-###### Artículo 223.
-
-Las condecoraciones que se otorguen al miembro del Servicio en activo de la Secretaría, serán las siguientes:
-
-l. Mérito Policial;
-
-II. Mérito Cívico;
-
-III. Mérito Social;
-
-IV. Mérito Ejemplar;
-
-V. Mérito Tecnológico;
-
-VI. Mérito Facultativo;
-
-VII. Mérito Docente; y
-
-VIII. Mérito Deportivo.
+En caso de que el programa de corrección presentado no cumpla con los requisitos señalados en las fracciones I a VI anteriores, se tendrá por no presentado el programa de corrección y la Comisión impondrá al Participante en los Sistemas de Ahorro para el Retiro la sanción que corresponda a las infracciones cometidas, en términos de lo dispuesto por los artículos 99 y 100 de la Ley.
 
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el párrafo siguiente.
+
+Lo previsto en el artículo 35, exclusivamente por lo que se refiere a las aportaciones complementarias de retiro, así como lo establecido en los artículos 59 al 132 del presente Reglamento, entrará en vigor conforme a lo establecido en el segundo párrafo del Artículo Primero Transitorio del decreto por el que se reforma y adiciona la Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el 10 de diciembre de 2002.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente ordenamiento.
+Se abroga el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro publicado en el Diario Oficial de la Federación el día 10 de octubre de 1996, salvo lo dispuesto en el artículo cuarto transitorio. Asimismo, se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
 
 ###### ARTÍCULO TERCERO.
 
-La migración hacia el Servicio, del personal operativo en activo contemplado para efectos del presente Reglamento, se dará desde el momento en que este último inicie su vigencia y de acuerdo a la suficiencia presupuestal correspondiente.
+Los acuerdos, circulares, reglas de carácter general, acuerdos delegatorios y demás disposiciones y actos administrativos de carácter general, expedidos por la Comisión Nacional del Sistema de Ahorro para el Retiro antes de la entrada en vigor del presente Reglamento, continuarán en vigor y conservarán plena validez y eficacia jurídicas, en lo que no se opongan al presente Reglamento.
 
 ###### ARTÍCULO CUARTO.
 
-Para cumplir con la función del Servicio Profesional de Carrera Policial, se integrará y se instalará la Comisión de Honor y Justicia de la Secretaría de Seguridad Pública y Tránsito Municipal, en un término no mayor de sesenta días naturales, a partir de la publicación del Reglamento en el Periódico Oficial del Estado de Puebla.
+Los trámites y procedimientos pendientes de resolución a la fecha de entrada en vigor del presente Reglamento, se resolverán conforme a las disposiciones del Reglamento de la Ley de los Sistemas de Ahorro para el Retiro publicado en el Diario Oficial de la Federación el día 10 de octubre de 1996.
+
+Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de abril de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 2 DE MAYO DE 2005
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los acuerdos, circulares, reglas de carácter general, acuerdos delegatorios y demás disposiciones y actos administrativos de carácter general, expedidos por la Comisión Nacional del Sistema de Ahorro para el Retiro antes de la entrada en vigor del presente Decreto, continuarán en vigor y conservarán plena validez y eficacia jurídicas, en lo que no se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los trámites y procedimientos de resolución que a la fecha de entrada en vigor del presente Decreto, se encuentren pendientes se resolverán conforme a las disposiciones aplicables vigentes hasta antes de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Nacional del Sistema de Ahorro para el Retiro deberá publicar en el Diario Oficial de la Federación y en su sitio Internet la metodología de comisiones equivalentes sobre saldo a un plazo no mayor a un año a que se refiere el artículo 49 bis, adicionado al Reglamento de la Ley de los Sistemas de Ahorro para el Retiro por el presente Decreto, a más tardar treinta días hábiles después de la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO QUINTO.
 
-Para dar cumplimiento al transitorio tercero del Reglamento Interior de la Secretaría de Seguridad Pública y Tránsito Municipal, aprobado en sesión ordinaria de Cabildo el catorce de diciembre de dos mil nueve, se deberá instalar el Comité Municipal del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública y Tránsito Municipal, para que sea el encargado de ejecutar las disposiciones administrativas relativas a la profesionalización de los integrantes de la Secretaría, en un término no mayor de sesenta días naturales a partir de la publicación del Reglamento en el Periódico Oficial del Estado de Puebla.
+Las acciones que lleve a cabo la Comisión Nacional del Sistema de Ahorro para el Retiro para el cumplimiento de las disposiciones del presente Decreto, se sujetarán al presupuesto aprobado para dicha Comisión, sin que implique la asignación de recursos adicionales.
 
-Atentamente.- "Sufragio Efectivo. No Reelección". H. Puebla de Zaragoza, a 26 de julio de 2010.- Los Integrantes de La Comisión de Gobernación, Justicia y Seguridad Pública.- Presidente.- REGIDOR JORGE RENÉ SÁNCHEZ JUÁREZ.- Secretario.- REGIDOR GERARDO MEJÍA RAMÍREZ.- Vocal.- REGIDOR PABLO MONTIEL SOLANA.- Vocal.- REGIDOR HUMBERTO VÁZQUEZ ARROYO.- Rúbricas.
+D.O.F. 24 DE AGOSTO DE 2009.
 
-Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Municipio de Puebla.- Periodo 2008-2011.- Secretaría del Honorable Ayuntamiento.
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-El Secretario del Ayuntamiento del Municipio de Puebla, en ejercicio de las facultades que le confieren los artículos 138 fracción VII de la Ley Orgánica Municipal y 7 fracción IV del Reglamento Interior de la Secretaría del Ayuntamiento del Municipio de Puebla. CERTIFICA: Que las presentes copias fotostáticas compuestas de sesenta y tres fojas útiles por su anverso, son copia de su original, a las que me remito, tuve a la vista y cotejé, relativas al Dictamen del Honorable Ayuntamiento del Municipio de Puebla, por el que se aprueba el Reglamento del Servicio Profesional de Carrera Policial para la Secretaría de Seguridad Pública y Tránsito Municipal del Honorable Ayuntamiento del Municipio de Puebla, mismo que obra en el archivo de la Dirección Jurídica de la Secretaría del Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los veinticinco días del mes de agosto del año dos mil diez, para los efectos legales a que haya lugar, quedando registrada con el numero 2439.- El Secretario del Ayuntamiento del Municipio de Puebla.- LICENCIADO CÉSAR PÉREZ LÓPEZ.- Rúbrica.
+SEGUNDO. Se abroga el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el 30 de abril de 2004 y reformado mediante publicación en dicho periódico oficial de fecha 2 de mayo de 2005.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+TERCERO. El plazo de dos años a que se refiere el artículo quinto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el 21 de enero de 2009, empezará a computarse una vez concluido el plazo de 90 días naturales a que se refiere la fracción I del artículo quinto transitorio antes mencionado.
 
-P.O. 28 DE MARZO DE 2014.
+CUARTO. A efecto de dar cumplimiento a lo previsto por el artículo quinto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el 21 de enero de 2009 y a lo previsto por el artículo anterior, el IMSS deberá proporcionar a las Administradoras toda la información que sea útil para la localización de los Trabajadores cuyas Cuentas Individuales hayan sido asignadas.
 
-PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+QUINTO. Las Cuentas Individuales que hayan sido asignadas con anterioridad a la entrada en vigor del presente Reglamento, y que se encuentren inactivas permanecerán en la Administradora a la que hayan sido asignadas. La Administradora que maneje estas Cuentas Individuales fungirá como prestadora de servicio.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Dictamen.
-
-P.O. 23 DE DICIEMBRE DE 2014.
-
-PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
-
-SEGUNDO. Se abroga el Reglamento del Servicio Profesional de Carrera Policial para la Secretaría de Seguridad Pública y Tránsito Municipal del Honorable Ayuntamiento del Municipio de Puebla, publicado en el Periódico Oficial del Estado el 27 de octubre del año 2010, y sus reformas publicadas en el Periódico citado en fecha 18 de marzo de 2014.
-
-TERCERO. Los procedimientos seguidos al miembro del Servicio que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Reglamento, así como las resoluciones de fondo materia de los mismos, deberán substanciarse y concluirse de conformidad a las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
-
-CUARTO. Para efectos del miembro del Servicio se dispondrá un periodo de migración que no excederá de un año, para que cubra con los siguientes criterios: 1) Que haya realizado y aprobado las evaluaciones de control de confianza, 2) Que tenga la equivalencia a la formación inicial o equivalente, y 3) Que cubra con el perfil con relación a la renivelación académica, en su caso.
-
-Una vez cumplido el plazo, los miembros del servicio que no cumplan con alguno de los criterios citados, le serán cesados los efectos de su nombramiento.
-
-QUINTO. La Secretaría emitirá los lineamientos para la aplicación de los mecanismos y de las herramientas de los procedimientos del servicio que se señalan en este Reglamento, en coordinación con las autoridades competentes.
-
-SEXTO. Dentro de los 30 días siguientes a la publicación del presente Reglamento, se instalará la Comisión del Servicio Profesional de Carrera Policial, Honor y Justicia de la Secretaría de Seguridad Pública y Tránsito Municipal.
+Las Cuentas Individuales que se encuentren activas y que hayan sido asignadas antes de la entrada en vigor del presente Reglamento, serán reasignadas de conformidad con lo establecido en el artículo 76 de la Ley y el presente Reglamento.
