@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-7165"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-21"
-last_updated: "2004-06-29"
+last_updated: "2009-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD, PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE REINSERCION SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES, PUBLICADA EN EL P.O. DE 24 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Morelos, el 21 de marzo de 1973.
 
@@ -1006,3 +1008,35 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga la Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, Promulgada el 20 de marzo de 1973, y vigente desde el 21 de marzo de 1973 y se abrogan los reglamentos derivados de dicha ley; se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley. Las disposiciones reglamentarias derivadas de la Ley que se abroga, seguirán aplicando en lo que no contraríen a las disposiciones de la presente Ley, en tanto se expide el Reglamento de la misma.
+
+TERCERO.- Esta Ley surtirá efectos para todos aquellos procedimientos penales iniciados a la entrada en vigor del Nuevo Sistema de Impartición de Justicia Penal Acusatorio Adversarial, promulgado en el periódico oficial 4570 de fecha veintidós de noviembre del dos mil siete y que entró en vigor el Treinta de octubre del dos mil ocho en el Primer Distrito Judicial.
+
+CUARTO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, Promulgada el 20 de marzo de 1973, y vigente desde el 21 de mazo de 1973. Seguirá rigiendo en lo conducente en los procedimientos iniciados con anterioridad a la vigencia de esta nueva Ley.
+
+QUINTO.- En un plazo de ciento ochenta días hábiles contados a partir de la fecha de entrada en vigor de la presente ley, deberá expedirse el Reglamento de la presente Ley.
+
+SEXTO.- El Titular del Poder Ejecutivo, por conducto de la Subsecretaría, en un plazo de 30 días naturales posteriores a la expedición del Reglamento de la presente Ley, convocará a la creación del Consejo Empresarial para la Reinserción Social a que hace referencia la presente Ley.
+
+El Consejo Empresarial para la Reinserción Social, deberá de expedir su reglamento Interior en un plazo que no exceda de 90 días naturales posteriores a su conformación y deberá publicarlo en el Periódico Oficial "Tierra y Libertad".
+
+SÉPTIMO.- La Subsecretaría de Reinserción Social establecerá los programas a que hace referencia la presente Ley en un plazo que no exceda de 90 días naturales posteriores a la expedición del Reglamento.
+
+OCTAVO.- Se extingue el Patronato para la Readaptación y la Reincorporación Social por el Empleo y la Industria Penitenciaria del Estado de Morelos creado por la Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, Promulgada el 20 de marzo de 1973, y vigente desde el 21 de marzo de 1973.
+
+La Secretaría de Seguridad Pública deberá de realizar los ajustes a su Reglamento Interior en un plazo que no exceda de 60 días naturales posteriores a la publicación de la presente Ley, a efecto de poner en operación a la Unidad Administrativa de su dependencia que formará parte del Patronato. Los recursos humanos, materiales y financieros que actualmente tiene el Patronato para la Readaptación y la Reincorporación Social por el Empleo y la Industria Penitenciaria del Estado de Morelos, una vez concluido el proceso de extinción del mismo, pasarán a formar parte de la Secretaría de Seguridad Pública, y se destinarán a la operación administrativa del nuevo Patronato y los programas señalados en la presente Ley, que al efecto implemente la Subsecretaría de Reinserción Social.
+
+NOVENO.- El Secretario de Seguridad Pública convocará a la sesión de instalación del Consejo de Patronos, en un plazo que no exceda de 30 días naturales posteriores a la publicación del Reglamento de la presente Ley.
+
+DÉCIMO.- Se instruye a las dependencias de la administración pública que inicien el proceso de extinción del organismo público descentralizado denominado Patronato para la Readaptación y la Reincorporación Social por el Empleo y la Industria Penitenciaria del Estado de Morelos.
+
+DÉCIMO PRIMERO.- El Poder Judicial, a través del Tribunal Superior de Justicia y del Tribunal Unitario de Justicia para Adolescentes, en un plazo no mayor a 60 días, de conformidad con las necesidades del servicio, designará el número necesario de Jueces de Ejecución a que se refiere esta Ley.
+
+DÉCIMO SEGUNDO.- El Congreso del Estado, en un plazo no mayor de noventa días contados a partir de la fecha en que entre en vigor la presente Ley, deberá reformar la Ley de Justicia para Adolescentes del Estado de Morelos y la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes, con el objeto de prever la figura del Juez de Ejecución, conforme a lo previsto en la exposición de motivos de la presente iniciativa y adecuar las disposiciones de esas Leyes a lo previsto en este ordenamiento.
+
+DÉCIMO TERCERO.- En tanto se modifican la Ley de Justicia para Adolescentes del Estado de Morelos y la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes, las atribuciones de ejecución que estos ordenamientos asignan al Magistrado Unitario, serán ejercidas por el Juez o Jueces de Ejecución que para tal efecto se designen.
