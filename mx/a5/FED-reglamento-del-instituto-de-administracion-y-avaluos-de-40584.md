@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-de-administracion-y-avaluos-de-40584"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-02"
-last_updated: "2009-04-15"
+last_updated: "2009-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40584&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-08-31"
 
 REGLAMENTO DEL INSTITUTO DE ADMINISTRACION Y AVALUOS DE BIENES NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el jueves 2 de septiembre de 2004.
 
@@ -651,9 +651,11 @@ XVI. Las demás que les encomiende el Presidente del INDAABIN o el Coordinador d
 
 Cada Delegación Regional estará a cargo de un Delegado Regional, quien se auxiliará en el ejercicio de sus facultades por los Subdelegados de Avalúos y Administrativo, así como por el personal que se requiera para satisfacer las necesidades del servicio y en los términos del presupuesto autorizado.
 
+(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE AGOSTO DE 2009) (F. DE E., D.O.F. 3 DE SEPTIEMBRE DE 2009)
+
 ###### ARTÍCULO 15.
 
-El Presidente del INDAABIN será suplido en sus ausencias por el Director General o por el Coordinador de Desarrollo Institucional que sea competente para atender el asunto de que se trate.
+Las ausencias del Presidente del INDAABIN serán suplidas por los Directores Generales Jurídico, de Avalúos, del Patrimonio Inmobiliario Federal, de Administración y Obras en Inmuebles Federales, de Administración y Finanzas, así como por el Coordinador de Desarrollo Institucional, en el orden mencionado.
 
 Los Directores Generales, el Coordinador de Desarrollo Institucional y los Delegados Regionales del INDAABIN, serán suplidos en sus ausencias por el servidor público adscrito al área de su responsabilidad que sea competente para atender el asunto de que se trate.
 
@@ -852,3 +854,7 @@ SÉPTIMO.- Continuarán en vigor los acuerdos que hayan sido expedidos por el Se
 OCTAVO.- La Oficialía Mayor de la Secretaría de la Función Pública realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos de presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
 
 NOVENO.- Los sistemas electrónicos con que cuenta la Secretaría seguirán siendo operados por la unidad administrativa competente hasta antes de la entrada en vigor de este Decreto, y hasta en tanto no se realicen las adecuaciones tecnológicas y se brinde la capacitación necesaria para su transferencia a las unidades administrativas que en virtud del presente ordenamiento estarían facultadas para operar los mismos.
+
+D.O.F. 24 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
