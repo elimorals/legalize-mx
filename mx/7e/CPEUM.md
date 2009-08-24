@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2009-08-14"
+last_updated: "2009-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2009.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1774,6 +1774,14 @@ VIII.- Las demás que le confiere expresamente esta Constitución.
 
 La Cámara de Diputados, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley; y en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
 
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 127 de esta Constitución y en las leyes que en la materia expida el Congreso General.
+
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+Los poderes federales Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos, prevé el artículo 74 fracción IV de esta Constitución y demás disposiciones legales aplicables.
+
 ###### Art. 76.
 
 Son facultades exclusivas del Senado:
@@ -2944,9 +2952,9 @@ Las leyes federales no limitarán la facultad de los Estados para establecer las
 
 Los ayuntamientos, en el ámbito de su competencia, propondrán a las legislaturas estatales las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
-Las legislaturas de los Estados aprobarán las leyes de ingresos de los municipios, revisarán y fiscalizarán sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles.
+Las legislaturas de los Estados aprobarán las leyes de ingresos de los municipios, revisarán y fiscalizarán sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 127 de esta Constitución.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3029,6 +3037,14 @@ Los diputados a las legislaturas de los Estados no podrán ser reelectos para el
 > <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 Las legislaturas de los Estados se integrarán con diputados elegidos según los principios de mayoría relativa y de representación proporcional, en los términos que señalen sus leyes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+Corresponde a las legislaturas de los Estados la aprobación anual del presupuesto de egresos correspondiente. Al señalar las remuneraciones de servidores públicos deberán sujetarse a las bases previstas en el artículo 127 de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+Los poderes estatales Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en sus constituciones locales, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación de los presupuestos de egresos de los Estados, establezcan las disposiciones constitucionales y legales aplicables.
 
 > <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
 
@@ -3222,7 +3238,13 @@ V.- La Asamblea Legislativa, en los términos del Estatuto de Gobierno, tendrá 
 
 a).- Expedir su ley orgánica, la que será enviada al Jefe de Gobierno del Distrito Federal para el solo efecto de que ordene su publicación;
 
-b).- Examinar, discutir y aprobar anualmente el presupuesto de egresos y la ley de ingresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+b) Examinar, discutir y aprobar anualmente el presupuesto de egresos y la ley de ingresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto. Al señalar las remuneraciones de servidores públicos deberán sujetarse a las bases previstas en el artículo 127 de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+Los órganos del Distrito Federal, Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en su Estatuto de Gobierno, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos del Distrito Federal, establezcan las disposiciones del Estatuto de Gobierno y legales aplicables.
 
 Dentro de la ley de ingresos, no podrán incorporarse montos de endeudamiento superiores a los que haya autorizado previamente el Congreso de la Unión para el financiamiento del presupuesto de egresos del Distrito Federal.
 
@@ -3580,9 +3602,9 @@ II.- Por cada seis días de trabajo, disfrutará el trabajador de un día de des
 
 III.- Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año;
 
-> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
-IV.- Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuída durante la vigencia de éstos.
+IV.- Los salarios serán fijados en los presupuestos respectivos sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de esta Constitución y en la ley.
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 1961)</small>
 
@@ -3678,11 +3700,25 @@ Ningún individuo podrá desempeñar a la vez dos cargos federales de elección 
 
 No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o determinado por la ley posterior.
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
 ###### Art. 127.
 
-El Presidente de la República, los Ministros de la Suprema Corte de Justicia de la Nación, los Diputados y Senadores al Congreso de la Unión, los Representantes a la Asamblea del Distrito Federal y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los Presupuestos de Egresos de la Federación y del Distrito Federal o en los presupuestos de las entidades paraestatales, según corresponda.
+Los servidores públicos de la Federación, de los Estados, del Distrito Federal y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+VI. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus competencias, expedirán las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
 ###### Art. 128.
 
@@ -5575,6 +5611,24 @@ Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de
 D.O.F. 14 DE AGOSTO DE 2009.
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE AGOSTO DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
+
+Segundo. Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+Tercero. A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto las percepciones de los ministros de la Suprema Corte de Justicia de la Nación, los magistrados del Tribunal Electoral del Poder Judicial de la Federación, los magistrados de Circuito, los jueces de Distrito, los consejeros de la Judicatura Federal, los integrantes del Consejo General del Instituto Federal Electoral y los magistrados y jueces de los Poderes Judiciales Estatales, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+Cuarto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán expedir o adecuar la legislación, de conformidad con los términos del presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
+
+Quinto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
 
 ###### ARTICULO PRIMERO.
 
