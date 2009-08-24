@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-privada-del-estado-de-aguascalientes-31499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-26"
-last_updated: "2005-08-08"
+last_updated: "2009-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "AGU"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2009.
 
-Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 26 de mayo de 2003.
+Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de mayo de 2003.
 
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
@@ -89,9 +89,15 @@ V. Las personas físicas que en forma independiente desempeñan la función de v
 
 VI. Las personas físicas o morales, que presten los servicios de sistemas de alarmas en todas sus modalidades;
 
-VII. A toda persona física o moral, que preste servicios de investigación privada; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2009)</small>
 
-VIII. En general, toda persona física o moral que realice actividades similares y auxiliares relacionadas con la Seguridad Pública.
+VII. A toda persona física o moral, que preste servicios de investigación privada;
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2009)</small>
+
+VIII. Las personas físicas o morales, que realicen actividades de video vigilancia en términos de la Ley de la materia; y
+
+IX. En general, toda persona física o moral que realice actividades similares y auxiliares relacionadas con la Seguridad Pública.
 
 ###### Artículo 5°.
 
@@ -173,7 +179,13 @@ d). Sistema de alarmas;
 
 e). Investigación privada;
 
-f). Seguridad, protección y vigilancia interna.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2009)</small>
+
+f). Seguridad, protección y vigilancia interna;
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2009)</small>
+
+g). Video vigilancia.
 
 El diseño, fabricación, reparación, instalación, mantenimiento, supervisión o comercialización de equipos, dispositivos, aparatos, servicios, sistemas o procedimientos técnicos especializados aplicables en alguna de las anteriores modalidades serán prestados con las autorizaciones otorgadas por las autoridades competentes en los términos de los ordenamientos que resulten aplicables;
 
@@ -403,13 +415,27 @@ VI. Vigilar que su personal cumpla con las obligaciones que le fijan esta Ley y 
 
 VII. Informar inmediatamente a la autoridad competente, de aquellas conductas que se presuman delictivas, en las que intervenga su personal, debiendo aportar los datos de que disponga para el esclarecimiento de los hechos;
 
-VIII. Mantener vigente la garantía otorgada para prestar los servicios de seguridad privada; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2009)</small>
 
-IX. Responder solidariamente de los daños y perjuicios que cause su personal al prestar sus servicios.
+VIII. Mantener vigente la garantía otorgada para prestar los servicios de seguridad privada;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2009)</small>
+
+IX. Responder solidariamente de los daños y perjuicios que cause su personal al prestar sus servicios;
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2009)</small>
+
+X. En su caso, acatar las disposiciones establecidas en la Ley de Video Vigilancia del Estado; y
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2009)</small>
+
+XI. Las demás que ésta u otras leyes dispongan.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 22.
 
-Para el cumplimiento de la fracción VIII del artículo anterior, los montos de las garantías se calcularán conforme al salario mínimo general vigente en el Estado, considerando las modalidades señaladas en el artículo 8° de esta Ley, para lo cual, en las modalidades señaladas en los incisos c) y d), así corno a las personas morales cuyo objeto social sea prestar los servicios en las modalidades señaladas en los Incisos a), b) y e), el monto de la garantía será mínimo de 385 días de salario y hasta 5000 días de salario.
+Para el cumplimiento de la Fracción VIII del artículo anterior, los montos de las garantías se calcularán conforme al salario mínimo general vigente en el Estado, considerando las modalidades señaladas en el Artículo 8° de esta Ley, para lo cual, en las modalidades señaladas en los incisos c), d) y g), así como a las personas morales cuyo objeto social sea prestar los servicios en las modalidades señaladas en los incisos a), b) y e), el monto de la garantía será mínimo de 385 días de salario y hasta 5000 días de salario.
 
 A las personas físicas que en forma personal e independiente soliciten o presten los servicios en las modalidades señaladas en los incisos a) y b), así como a las personas físicas o morales que soliciten o presten los servicios en la modalidad señalada en el inciso f), el monto de la garantía será mínimo de 13 días de salario y hasta 169 días de salario.
 
@@ -502,6 +528,10 @@ III. Cualquier otra medida de seguridad o control que impida que se sigan genera
 ###### Artículo 36.
 
 La Secretaría podrá solicitar en cualquier momento el apoyo de otras autoridades para la realización de las visitas de verificación y el cumplimiento de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2009)</small>
+
+Tratándose de actividades de video vigilancia, los órganos competentes podrán realizar cualquier acto de supervisión en términos de la Ley y Reglamento que regulen dicha actividad.
 
 ### CAPITULO SEPTIMO. De las Sanciones
 
@@ -638,3 +668,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 24 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
