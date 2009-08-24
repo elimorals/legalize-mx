@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-integral-de-seguridad-publica-del-estado-de-330
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2008-10-29"
+last_updated: "2009-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DEL SISTEMA INTEGRAL DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 24 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de julio de 2003.
 
@@ -2370,3 +2372,69 @@ TERCERO.- Los recursos humanos, financieros y materiales de las unidades adminis
 CUARTO.- Los asuntos que con motivo de este Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la dependencia que tenga el asunto a su cargo.
 
 QUINTO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, deberá interpretarse conforme al presente ordenamiento, en lo que se oponga al mismo.
+
+P.O. 24 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Sistema Integral de Seguridad Pública del Estado de Morelos, promulgada y publicada en el Periódico Oficial "Tierra y Libertad" número 4268 el 30 de Julio del 2003, así como todas las disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+La Ley Orgánica de la Procuraduría General de Justicia del Estado deberá ajustar su contenido de conformidad con lo establecido en la presente ley en un plazo de 4 meses contados a partir de la entrada en vigor de este ordenamiento.
+
+El Consejo de Honor y Justicia a que se refiere el artículo 162 de esta ley, deberá instalarse en un plazo de dos meses, a efecto de aplicar las sanciones referidas en el artículo 50 párrafo segundo de la Ley Orgánica de la Procuraduría contra agentes del ministerio público, peritos y elementos de la policía ministerial.
+
+En tanto se ajusta el procedimiento señalado en el párrafo anterior, la Visitaduría seguirá conociendo de los asuntos iniciados contra el personal de la Procuraduría en los términos de la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+Los Consejos de Honor y Justicia de la Secretaría de Seguridad Pública y de las áreas de seguridad pública municipal, deberán quedar instalados, conforme lo establece esta ley, en un plazo de dos meses, para los mismos efectos del artículo anterior.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal deberá expedir en un plazo máximo de 90 días naturales a partir del inicio de su vigencia, el reglamento de la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal, deberá expedir en un plazo de 60 días naturales a partir del inicio de vigencia de la presente ley, el Reglamento Interior del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo Estatal, deberá adecuar en un plazo de 45 días naturales, a partir del inicio de vigencia de la presente ley, el Reglamento Interior de la Secretaría de Seguridad Pública del Estado de Morelos.
+
+###### ARTÍCULO OCTAVO.
+
+La Ley del Colegio Estatal de Seguridad Pública, publicada en el Periódico Oficial "Tierra y Libertad" número 4445 de fecha 15 de marzo de 2006, y el Estatuto Orgánico del Colegio Estatal de Seguridad Pública publicado en el Periódico Oficial "Tierra y Libertad" número 4469 de fecha 28 de junio de 2006, seguirán vigentes en lo que no se oponga al presente ordenamiento, en tanto se expide el reglamento interior del Secretariado Ejecutivo a que se refiere el Artículo Sexto Transitorio. Una vez publicado el reglamento de referencia, se abrogarán ambos ordenamientos.
+
+La Junta de Gobierno del Colegio Estatal de Seguridad Pública sesionará ordinaria o extraordinariamente las veces que sea necesario, a efecto de garantizar la liquidación de las obligaciones financieras del organismo, validación del inventario y remanentes financieros que se deberán transferir al Secretariado Ejecutivo a más tardar el 31 de diciembre de 2009.
+
+El Secretario Ejecutivo, asumirá el carácter de superior jerárquico del titular del Colegio, el cual se constituirá en la unidad académica a que se refiere esta ley, desde el inicio de vigencia de la misma, con independencia del proceso de liquidación del organismo, que se hará del conocimiento de la Junta de Gobierno, en términos del artículo 14 fracción X de la Ley del Colegio Estatal de Seguridad Pública.
+
+###### ARTÍCULO NOVENO.
+
+En un marco de respeto a sus derechos laborales, el personal de base y de confianza que se encuentre laborando en la Secretaría de Seguridad Pública, la Procuraduría General de Justicia del Estado el Secretariado Ejecutivo, y el de las áreas de seguridad pública municipales, tendrán un plazo de cuarenta y cinco días naturales contados a partir de la entrada en vigor de esta ley para optar por cualquiera de las alternativas siguientes:
+
+I. Manifestar por escrito su voluntad de permanecer en la dependencia en cuyo caso deberá someterse al régimen administrativo de seguridad pública y a las evaluaciones de control de confianza y aprobarlas;
+
+II. Acogerse a la reubicación dentro de la Administración Pública Estatal de acuerdo con su perfil y de conformidad con la disponibilidad presupuestal; u
+
+III. Optar por la liquidación correspondiente.
+
+Las instituciones de seguridad pública contarán con un período de dos años a partir del inicio de la vigencia de la presente ley, a efecto de culminar con los procesos de evaluación y control de confianza dispuestos en la fracción I de este artículo. Mientras tanto, el personal que así lo haya manifestado será recontratado bajo el régimen administrativo de seguridad pública y quedará en espera de la calendarización y resultado de su evaluación.
+
+El Colegio calendarizará las evaluaciones por institución a efecto de cumplir en tiempo y forma con este plazo.
+
+El personal que opte por lo dispuesto en la fracción I de este artículo y no se someta o no apruebe las evaluaciones de control de confianza dentro del plazo a que se refieren los párrafos anteriores, dejará de prestar sus servicios en las instituciones de seguridad pública del Estado de Morelos en los términos de esta ley.
+
+El personal del Colegio Estatal de Seguridad Pública, dada la naturaleza de organismo descentralizado, sólo podrá optar por las fracciones I y III de este artículo.
+
+###### ARTÍCULO DÉCIMO.
+
+En un plazo que no podrá exceder de un año a partir de la entrada en vigor de la presente ley, el titular del Poder Ejecutivo, someterá a consideración del Poder Legislativo la iniciativa de Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública, que se basará en los estudios técnicos, jurídicos y de factibilidad presupuestal necesarios; mientras tanto los elementos a que se refiere el artículo 123 fracción XIII, párrafo tercero de la Constitución General gozarán de las prestaciones del régimen de seguridad social al que se encuentren inscritos.
+
+El término para la aprobación y publicación de dicha ley no podrá exceder de dieciocho meses contados a partir de la entrada en vigor de esta.
