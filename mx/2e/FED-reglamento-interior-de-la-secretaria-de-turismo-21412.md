@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-turismo-21412"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-15"
-last_updated: "2008-11-14"
+last_updated: "2009-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21412&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-13"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 15 de junio de 2001.
 
@@ -721,17 +721,17 @@ I. Aplicar y difundir entre las unidades administrativas de la Secretaría y sus
 
 II. Instrumentar las actividades relacionadas con la programación que permitan a la Secretaría cumplir con el ejercicio correcto y oportuno del presupuesto;
 
-> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
-III. Proporcionar a las unidades administrativas de la Secretaría y a sus órganos administrativos desconcentrados, los recursos financieros que requieran para su operación, de conformidad con la asignación presupuestal aprobada, así como autorizar las afectaciones presupuestales y la documentación comprobatoria conforme a las normas establecidas para tal efecto;
+III. Proporcionar a las unidades administrativas de la Secretaría y a sus órganos administrativos desconcentrados, los recursos financieros que requieran para su operación, de conformidad con la asignación presupuestaria aprobada, así como autorizar las afectaciones presupuestarias y la documentación comprobatoria conforme a las normas establecidas para tal efecto;
 
-> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
-IV. Proponer y difundir las normas y políticas de gasto para su observancia en la Secretaría, instrumentando los mecanismos de control de los ingresos y egresos presupuestales y no presupuestales de sus unidades administrativas y sus órganos administrativos desconcentrados;
+IV. Proponer y difundir las normas y políticas de gasto para su observancia en la Secretaría, instrumentando los mecanismos de control de los ingresos y egresos presupuestarios y no presupuestarios de sus unidades administrativas y sus órganos administrativos desconcentrados;
 
-> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
-V. Integrar el informe del estado de posición financiera y de ejecución de presupuesto de la Secretaría y sus órganos administrativos desconcentrados, elaborando los informes internos y externos de situación financiera presupuestal respectivos;
+V. Integrar el informe del estado de posición financiera y de ejecución de presupuesto de la Secretaría y sus órganos administrativos desconcentrados, elaborando los informes internos y externos de situación financiera presupuestaria respectivos;
 
 VI. Elaborar la cuenta pública de la Secretaría, con la colaboración de las demás unidades administrativas y del Centro de Estudios Superiores en Turismo;
 
@@ -873,11 +873,13 @@ VII. Suscribir convenios para el préstamo e intercambio de material documental,
 
 VIII. Las demás que expresamente determine el titular de la Secretaría.
 
-> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 25 Ter.
 
-La Corporación Ángeles Verdes es el órgano administrativo desconcentrado de la Secretaría de Turismo, con autonomía técnica, operativa y de gestión, la cual tiene a su cargo la prestación de servicios integrales de información, orientación, asesoría, asistencia, de emergencia mecánica, auxilio y apoyo al turista nacional y extranjero.
+La Corporación Ángeles Verdes es el órgano administrativo desconcentrado de la Secretaría de Turismo, la cual tiene a su cargo la prestación de servicios integrales de información, orientación, asesoría, asistencia, de emergencia mecánica, auxilio y apoyo al turista nacional y extranjero.
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
 
 La administración de la Corporación Ángeles Verdes, estará a cargo de un Jefe de la Unidad, que será nombrado y removido libremente por el Secretario de Turismo.
 
@@ -903,11 +905,15 @@ VII. Coordinar el desarrollo de programas especiales de información, orientaci�
 
 VIII. Instrumentar, en el ámbito de su competencia, las acciones para el desarrollo y mejoramiento del Programa Paisano en coordinación con las dependencias y entidades de la Administración Pública Federal participantes;
 
-IX. Coordinar la red nacional de oficinas y módulos de orientación e información turística, con la participación que corresponda a otras dependencias y entidades de la administración Pública Federal, a los gobiernos de las entidades federativas y de los municipios;
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+IX. Coordinar la red nacional de oficinas y módulos de orientación e información turística, con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal, a los gobiernos de las entidades federativas y de los municipios;
 
 X. Efectuar visitas de supervisión a módulos y oficinas de información;
 
-XI. Proponer los mecanismos y creación de organismos que se estimen necesarios, así como suscribir los instrumentos jurídicos que se consideren pertinentes, ya sean nacionales o internacionales, para allegarse de recursos económicos y materiales necesarios para cumplir con los objetivos y funciones que tiene encomendados;
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+XI. Suscribir, observando las disposiciones aplicables y en coordinación con las instancias competentes, los instrumentos jurídicos nacionales o internacionales que se consideren pertinentes, para allegarse de recursos económicos y materiales necesarios para cumplir con los objetivos y funciones que tiene encomendados;
 
 XII. Coordinar la instrumentación y vigilancia de las medidas de asistencia y auxilio a los turistas;
 
@@ -977,12 +983,20 @@ PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publica
 
 SEGUNDO.- Dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, el Secretario de Turismo expedirá el reglamento que regule la administración y funcionamiento del Órgano Administrativo Desconcentrado Corporación Ángeles Verdes; que será publicado en el Diario Oficial de la Federación.
 
-TERCERO.- Los recursos materiales, financieros y tecnológicos, con que cuente la Dirección General de Servicios al Turista, que haya venido utilizando en la realización de sus funciones; se transferirán para su operación y funcionamiento, de manera no onerosa, al órgano desconcentrado que se crea a través del presente Decreto, por lo que no se asignará presupuesto adicional para tal efecto, en el presente ejercicio fiscal.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
-CUARTO.- Los recursos humanos y el personal de apoyo que se encuentra adscrito a la Dirección General de Servicios al Turista, se transfieren al órgano administrativo desconcentrado, creado mediante este Decreto; en el entendido de que les serán respetados sus derechos laborales.
+TERCERO.- Los recursos materiales, financieros y tecnológicos, con que cuente la Dirección General de Servicios al Turista, que haya venido utilizando en la realización de sus funciones; se transferirán para su operación y funcionamiento, de manera no onerosa, al órgano administrativo desconcentrado que se crea a través del presente Decreto, por lo que no se asignará presupuesto adicional para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
+CUARTO.- Con apego a sus derechos laborales, los servidores públicos que a la entrada en vigor del presente Decreto se encuentren adscritos a la Dirección General de Servicios al Turista, serán transferidos al órgano administrativo desconcentrado creado mediante este Decreto. Los recursos presupuestarios aprobados a dicha Dirección General para cubrir las erogaciones de servicios personales correspondientes, se transferirán a dicho órgano, por lo que no se autorizarán erogaciones adicionales para ese rubro de gasto.
 
 QUINTO.- Al entrar en vigor el presente Decreto, las menciones que se hagan en cualquier disposición administrativa, a la Dirección General de Servicios al Turista, se entenderán hechas a la Corporación Ángeles Verdes.
 
 SEXTO.- Al entrar en vigor el presente Decreto, la Corporación Ángeles Verdes se subroga en los derechos y obligaciones asumidos por la Dirección General de Servicios al Turista.
 
 SÉPTIMO.- Se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
+
+D.O.F. 24 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
