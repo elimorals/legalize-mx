@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2009-08-17"
+last_updated: "2009-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2009.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -563,6 +563,10 @@ Los ayuntamientos no podrán revocar sus acuerdos sino en aquellos casos en que 
 
 Las sesiones del ayuntamiento serán presididas por el presidente municipal o por quien lo sustituya legalmente; constarán en un libro de actas en el cual deberán asentarse los extractos de los acuerdos y asuntos tratados y el resultado de la votación. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal éstos constarán íntegramente en el libro de actas debiendo firmar en ambos casos los miembros del ayuntamiento que hayan estado presentes, debiéndose difundir en la Gaceta Municipal entre los habitantes del municipio. De las actas, se les entregará copia certificada a los integrantes del Ayuntamiento que lo soliciten en un plazo no mayor de ocho días.
 
+> <small>(ADICIONADO, G.G. 25 DE AGOSTO DE 2009)</small>
+
+Todos los acuerdos de las sesiones públicas que no contengan información clasificada y el resultado de su votación, serán difundidos por lo menos cada tres meses en la Gaceta Municipal, así como los datos de identificación de las actas que contengan acuerdos de sesiones privadas o con información clasificada, incluyendo en cada caso, la causa que haya calificado privada la sesión, o el fundamento legal que clasifica la información.
+
 ### CAPITULO TERCERO. Atribuciones de los Ayuntamientos
 
 ###### Artículo 31.
@@ -653,9 +657,9 @@ XXXIV. Elaborar y poner en ejecución programas de financiamiento de los servici
 
 XXXV. Coadyuvar en la ejecución de los planes y programas federales y estatales;
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.G. 25 DE AGOSTO DE 2009)</small>
 
-XXXVI. Editar, publicar y circular la "Gaceta Municipal" órgano oficial, cuando menos cada tres meses para la difusión de los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
+XXXVI. Editar, publicar y circular la Gaceta Municipal órgano oficial, cuando menos cada tres meses para la difusión de todos los acuerdos de Cabildo de las sesiones públicas que no contengan información clasificada, los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
 
 XXXVII. Organizar y promover la instrucción cívica que mantenga a los ciudadanos en conocimiento del ejercicio de sus derechos;
 
@@ -1325,7 +1329,7 @@ Para el despacho, estudio y planeación de los diversos asuntos de la administra
 
 I. La secretaría del ayuntamiento;
 
-II. La tesorería municipal;
+II. La tesorería municipal.
 
 > <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
@@ -1475,7 +1479,7 @@ IV. Cumplir con otros requisitos que señalen las leyes, o acuerde el ayuntamien
 
 > <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2009)</small>
 
-###### Artículo 96 Bis.
+###### Artículo 96. Bis.
 
 El Director de Obras Públicas o el Titular de la Unidad Administrativa equivalente, tiene las siguientes atribuciones:
 
@@ -2688,3 +2692,9 @@ G.G. 17 DE AGOSTO DE 2009.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 25 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
