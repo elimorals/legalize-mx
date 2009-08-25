@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2008-03-06"
+last_updated: "2009-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE AGOSTO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -463,19 +463,21 @@ VI. Realizar las investigaciones y estudios que le sean encomendados por el pres
 
 VII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el presidente de la Comisión Nacional.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 29.
 
 (Estructura de la Dirección General de Planeación y Análisis)
 
-Para el ejercicio de sus atribuciones, la Dirección General de la Planeación y Análisis contará con las siguientes áreas:
+Para el ejercicio de sus atribuciones, la Dirección General de Planeación y Análisis contará con las siguientes áreas:
 
-I. Planeación, y
+I. Planeación,
 
-II. Análisis.
+II. Análisis, y
 
-Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+III. Evaluación.
+
+Además contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
 ###### Artículo 30.
 
@@ -2022,6 +2024,12 @@ SEGUNDO. El presente Acuerdo entrará en vigor el día 1 de agosto de 2007, salv
 TERCERO. La parte conducente del Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en el Diario Oficial de la Federación.
 
 D.O.F. 6 DE MARZO DE 2008.
+
+PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE AGOSTO DE 2009.
 
 PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
 
