@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-56057"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-06"
-last_updated: "2007-07-06"
+last_updated: "2009-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56057&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-06-14"
 
 REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 26 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de julio de 2007.
 
@@ -1804,3 +1806,19 @@ México, D.F. a 14 de junio de 2007.- El Auditor Superior de la Federación, C.P
 > <small>(F. DE E., D.O.F. 9 DE JULIO DE 2007)</small>
 
 En sesión de fecha 14 de junio de 2007, la Comisión de Vigilancia de la Auditoría Superior de la Federación de la Cámara de Diputados acordó, con fundamento en lo dispuesto por el artículo 74, fracción V, de la Ley de Fiscalización Superior de la Federación, ratificar el presente Reglamento de la Auditoría Superior de la Federación expedido por el Auditor Superior de la Federación el catorce de junio de 2007 y se suscribe por triplicado, para efecto de que uno obre en los archivos de la Comisión de Vigilancia de la Auditoría Superior de la Federación, el otro en el archivo de la Auditoría Superior de la Federación y el último se remita al Diario Oficial de la Federación para su publicación.- Integrantes de la Comisión de Vigilancia.- El Presidente, Dip. Antonio Ortega Martínez.- Rúbrica.- Los Secretarios: Dip. Pablo Trejo Pérez, Dip. Alma Edwviges Alcaraz Hernández, Dip. Mario Alberto Salazar Madera, Dip. Antonio Valladolid Rodríguez, Dip. Gerardo Sosa Castelán, Dip. Jaime Cervantes Rivera, Dip. Alan Notholt Guerrero y Dip. Elías Cárdenas Márquez.- Rúbricas.- Y los Integrantes: Dip. Carlos Altamirano Toledo, Dip. Itzcóatl Tonatiuh Bravo Padilla, Dip. Hugo Eduardo Martínez Padilla, Dip. Moisés Alcalde Virgen, Dip. Javier Guerrero García, Dip. José Martín López Cisneros, Dip. Horacio Emigdio Garza Garza y Dip. Gustavo Ramírez Villarreal.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 26 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior de la Federación, publicado en el Diario Oficial de la Federación el 6 de julio de 2007.
+
+TERCERO.- La Dirección General Jurídica continuará con la práctica de las auditorías correspondientes a la revisión y fiscalización de la Cuenta Pública 2008 iniciadas por la Dirección General Contenciosa y de Auditoría de Desempeño de Legalidad y dará seguimiento a las recomendaciones y acciones promovidas que se encuentren en trámite en la Dirección General Contenciosa y de Auditoría de Desempeño de Legalidad, a la entrada en vigor del presente Reglamento.
+
+CUARTO.- Los procedimientos para el fincamiento de las responsabilidades resarcitorias iniciados por los Auditores Especiales y que se encuentren en trámite o en proceso, a la entrada en vigor del presente Reglamento, continuarán siendo instruidos por los Auditores Especiales que los iniciaron, con el auxilio de la Dirección General de Responsabilidades y de la Dirección General de Responsabilidades a los Recursos Federales en Estados y Municipios, según corresponda.
+
+QUINTO.- La Dirección General Jurídica conocerá y atenderá los asuntos, juicios, denuncias penales, controversias constitucionales, juicios de amparo y cualquier otro procedimiento, que se encuentre en trámite en la Dirección General Contenciosa y de Auditoría de Desempeño de Legalidad, a la entrada en vigor del presente Reglamento.
+
+SEXTO.- La Dirección General Jurídica conocerá y atenderá los asuntos que se encuentren en trámite en la Dirección General Consultiva y de Asistencia Jurídica, a la entrada en vigor del presente Reglamento.
