@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-asentamientos-humanos-del-179
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-23"
-last_updated: "2008-09-24"
+last_updated: "2009-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y ASENTAMIENTOS HUMANOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 26 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 23 de agosto de 2000.
 
@@ -3656,3 +3658,23 @@ PRIMERO.- Remítase al Titular del Poder Ejecutivo para su publicación en el Pe
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan o de cualquier forma contravengan lo previsto en el presente.
 
 TERCERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 26 DE AGOSTO DE 2009.
+
+Artículo Primero. Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+Artículo Segundo. Se abroga la Ley de Ordenamiento Territorial y Asentamientos Humanos del Estado de Morelos, publicada en el Periódico Oficial del Gobierno del Estado de fecha 23 de agosto del 2000.
+
+Artículo Tercero. Se derogan todas las disposiciones que contravengan lo establecido en esta Ley.
+
+Los permisos, autorizaciones o licencias que se estén tramitando actualmente y aquellos que se presenten hasta antes de la expedición de los reglamentos a que se refiere esta Ley, se atenderán conforme a las disposiciones aplicables que les dieron origen.
+
+Las personas que hayan obtenido permisos, autorizaciones o licencias expedidas con anterioridad y que a partir de la entrada en vigor de la presente Ley, sean sujetas a infracciones, sanciones y medidas de seguridad, se sujetarán a lo establecido en el Título Octavo de la presente Ley.
+
+Artículo Cuarto. El Gobierno del Estado deberá expedir y publicar en el Periódico Oficial "Tierra y Libertad", los reglamentos a que se refiere la presente Ley, dentro de un plazo no mayor de seis meses calendario. En tanto sucede la publicación de dichos reglamentos, continuarán aplicándose los anteriores, en lo que no se contrapongan a lo establecido en la presente Ley.
+
+Artículo Quinto. A partir de la entrada en vigor de esta Ley y la publicación de los reglamentos que de ella deriven, los municipios contarán con un plazo máximo de cuatro meses para expedir y publicar en el Periódico Oficial, los reglamentos correspondientes. En tanto esto sucede, seguirán aplicándose los reglamentos municipales anteriores, en lo que no se contrapongan a esta Ley y los reglamentos derivados de la misma.
+
+Artículo Sexto. Los programas de desarrollo urbano de competencia estatal o municipal, que se hayan formulado conforme a la Ley de Ordenamiento Territorial y Asentamientos Humanos del Estado de Morelos publicada en el Periódico Oficial del Gobierno del Estado de fecha 23 de agosto del 2000, permanecerán vigentes hasta en tanto se cancelen y/o modifiquen, considerando los supuestos y procedimientos de este ordenamiento jurídico o se formulen nuevos programas.
+
+Artículo Séptimo. La Comisión Estatal de Reservas Territoriales deberá elaborar el Programa Estatal de Reservas Territoriales a que se refiere el Artículo 96 de esta Ley, en un plazo no mayor de 180 días posteriores a la publicación de la misma, conforme a los lineamientos señalados en esta Ley y el reglamento en la materia.
