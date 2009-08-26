@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2008-07-16"
+last_updated: "2009-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -215,17 +215,23 @@ La afectación de aportaciones federales y sus accesorios como garantía o fuent
 
 El Congreso del Estado a través del Órgano técnico de fiscalización será el responsable de supervisar, vigilar, fiscalizar, constatar e informar de la correcta aplicación de los recursos de los fondos de aportaciones federales que reciban el estado y los municipios, así como fincar, en su caso, las responsabilidades correspondientes.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2009)</small>
 
-###### ARTÍCULO 15.
+###### Artículo 15.
 
-Se instituye el Fondo de Aportaciones Estatales para el Desarrollo Económico de los Municipios que se determinará aplicando el 1.5% al monto total que resulte de la suma de los ingresos propios, participaciones federales e ingresos coordinados señalados en la Ley de Ingresos para el Gobierno del Estado de Morelos, que se distribuirá entre los municipios con base a los coeficientes de participación que a continuación se indican:
+Se instituye el Fondo de Aportaciones Estatales para el Desarrollo Económico de los Municipios que se determinará aplicando, sólo para efectos de referencia, el 1.5% al monto total que resulte de la suma de los ingresos propios, participaciones federales e ingresos coordinados señalados en la Ley de Ingresos para el Gobierno del Estado de Morelos, que se distribuirá entre los municipios con base a los coeficientes de participación que a continuación se indican:
 
 (VEASE ARCHIVO ANEXO)
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
+
 Los recursos que de este Fondo reciban los municipios se invertirán incrementando la productividad económica, única y exclusivamente en infraestructura, equipamiento y capital de trabajo, en las ramas agropecuarias y artesanales; si fuera necesario para apoyar estas áreas podrá ser, en ese caso, lo relacionado al comercio, industria y servicios, en la proporción y conforme a los programas previamente aprobados por el Ayuntamiento; en ningún caso podrá ser utilizado para el pago de nóminas o su equivalente en el gasto corriente o de operación; su ingreso y su aplicación en el gasto lo registrarán en la Cuenta Pública Municipal.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
+
 En caso de desastres naturales o presencia de brotes epidémicos, que pongan en grave riesgo la vida o salud de los habitantes de la localidad, será factible utilizar los recursos reales y existentes de este Fondo, previa autorización del Cabildo Municipal; en tales casos se dará aviso inmediato a las autoridades competentes y al Congreso del Estado, que valorará tal medida.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 La distribución por municipios se incluirá en el Presupuesto de Egresos del Gobierno del Estado de cada ejercicio fiscal.
 
@@ -426,3 +432,11 @@ P.O. 16 DE JULIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 26 DE AGOSTO DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+Artículo Segundo. Por única ocasión, a partir de la entrada en vigor de este Decreto y hasta el 31 de diciembre de 2009, los recursos del Fondo instituido en el artículo 15 de la Ley de Coordinación Hacendaria para el Estado de Morelos podrán ser utilizados para el pago de pasivos registrados en la última cuenta pública municipal que se haya presentado al momento de la entrada en vigor de este Decreto, con excepción de los que se refieran al pago de nóminas o su equivalente en el gasto corriente de operación, aguinaldos, pago de bonos especiales o indemnizaciones por término de gestión, salvo que provengan de resolución jurisdiccional.
+
+Artículo Tercero. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
