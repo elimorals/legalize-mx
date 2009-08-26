@@ -1,0 +1,1414 @@
+---
+title: "LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA"
+identifier: "CHP-ley-del-sistema-estatal-de-seguridad-publica-70286"
+country: "mx"
+rank: "ley"
+publication_date: "2009-08-26"
+last_updated: "2009-08-26"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70286&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-chp"
+scjn_id: "70286"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "183"
+reform_count: "7"
+scjn_last_update: "2025-12-10"
+issue_date: "2009-07-15"
+state: "CHP"
+---
+# LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
+
+LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 2009.
+
+Juan Sabines Guerrero, Gobernador del Estado de Chiapas, a sus habitantes hace saber: Que la Comisión Permanente de la Honorable Sexagésima Tercera Legislatura del Congreso del Estado, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
+
+Decreto Número 263
+
+La Honorable Sexagésima Tercera Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política Local; y,
+
+Considerando.
+
+Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir la siguiente:
+
+LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
+
+## Título Primero. Disposiciones Preliminares
+
+### Capítulo Único. De su Objeto y Ámbito de Aplicación
+
+###### Artículo 1.
+
+La presente Ley es de orden público e interés social, y tiene por objeto regular la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, así como establecer la distribución de competencias y las bases de coordinación entre las diversas autoridades de Seguridad Pública del Estado, sus Municipios y las instancias del Sistema Nacional de Seguridad Pública.
+
+Sus disposiciones son de observancia general en todo el territorio del Estado de Chiapas.
+
+###### Artículo 2.
+
+La seguridad pública es una función a cargo de la Federación, del Estado y de los municipios, cuyos fines son salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos y la reinserción social del individuo, en términos de esta Ley, la Ley General del Sistema Nacional de Seguridad Pública, las políticas y lineamientos que emanen del Sistema Nacional de Seguridad Pública, la Constitución Local y en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+
+El Estado y los Municipios desarrollarán políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+
+###### Artículo 3.
+
+La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de la autoridad competente en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+
+###### Artículo 4.
+
+El Sistema Estatal de Seguridad Pública contará para su funcionamiento y operación con las instancias, instrumentos, políticas, acciones y servicios previstos en la presente Ley, tendientes a cumplir los fines de la Seguridad Pública.
+
+La coordinación, en un marco de respeto a las atribuciones entre las instancias de la Federación, el Estado y los Municipios, será el eje del Sistema Estatal de Seguridad Pública.
+
+###### Artículo 5.
+
+Para los efectos de esta Ley, se entenderá por:
+
+I. Academias: a la Institución de Formación, de Capacitación y de Profesionalización Policial;
+
+II. Bases de Datos Criminalísticas y de Personal: Las bases de datos nacionales y la información contenida en ella, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las demás necesarias para la operación del Sistema.
+
+III. Carrera Ministerial: al Servicio Profesional de Carrera Ministerial;
+
+IV. Carrera Pericial: al Servicio Profesional de Carrera Pericial;
+
+V. Carrera Policial: al Servicio Profesional de Carrera Policial;
+
+VI. Consejo Estatal: al Consejo Estatal de Seguridad Pública;
+
+VII. Instituciones de Seguridad Pública: a las Instituciones Policiales, de Procuración de Justicia, Establecimientos Penitenciarios de Detención Preventiva o de Centros de Arraigo y dependencias encargadas de la Seguridad Pública a nivel Estatal y municipal;
+
+VIII. Procuraduría de Justicia: a la Procuraduría General de Justicia del Estado que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
+
+IX. Instituciones Policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel Estatal y municipal, que realicen funciones similares;
+
+X. Institutos: a los órganos de las instituciones de seguridad pública del Estado, encargados de la formación y actualización especializada de aspirantes y servidores públicos de las funciones ministerial, pericial y de policía ministerial;
+
+XI. Programa Rector: al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia, respectivamente;
+
+XII. Registro Nacional: al Registro Nacional de Personal de Seguridad Pública;
+
+XIII. Secretaría: a la Secretaría de Seguridad y Protección Ciudadana;
+
+XIV. Secretario Ejecutivo: al Titular del Secretariado Ejecutivo del Sistema;
+
+XV. Sistema: al Sistema Estatal de Seguridad Pública;
+
+XVI. Estado: al Gobierno del Estado de Chiapas;
+
+XVII. Municipios: A todos los Municipios que integran el Estado de Chiapas;
+
+XVIII. Sistema Nacional: al Sistema Nacional de Seguridad Pública.
+
+###### Artículo 6.
+
+Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficiencia, honradez, lealtad, imparcialidad y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, y las leyes y reglamentos que de ellos emanen. Deberán fomentar la participación ciudadana y rendir cuentas en términos de ley.
+
+###### Artículo 7.
+
+Las Instituciones de Seguridad Pública del Estado y los Municipios, así como las de la Federación, en el ámbito de su competencia y en los términos de esta Ley, deberán coordinarse para:
+
+I. Integrar el Sistema y cumplir con sus objetivos y fines;
+
+II. Formular políticas integrales, sistemáticas, continuas y evaluables, así como programas y estrategias, en materia de seguridad pública;
+
+III. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones, a través de las instancias previstas en esta ley;
+
+IV. Proponer, ejecutar y evaluar el Programa Estatal de Procuración de Justicia, el Programa Estatal de Seguridad Pública, el Programa Estatal de Prevención del Delito y demás instrumentos programáticos;
+
+V. Distribuir a los integrantes del Sistema, actividades específicas para el cumplimiento de los fines de la Seguridad Pública en la Entidad;
+
+VI. Regular los procedimientos de selección, ingreso, formación, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación y registro de los servidores públicos de las Instituciones de Seguridad Pública de la Entidad y los Municipios;
+
+VII. Regular los sistemas disciplinarios, así como de reconocimientos, estímulos y recompensas;
+
+VIII. Determinar criterios uniformes para la organización, operación y modernización tecnológica de las Instituciones de Seguridad Pública;
+
+IX. Establecer y controlar bases de datos criminalísticos y de personal;
+
+X. Realizar acciones y operativos conjuntos de las Instituciones de Seguridad Pública;
+
+XI. Determinar la participación de la comunidad y de instituciones académicas en coadyuvancia de los procesos de evaluación de las políticas de prevención del delito, así como de las Instituciones de Seguridad Pública, a través de mecanismos eficaces;
+
+XII. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos; y,
+
+XIII. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
+
+###### Artículo 8.
+
+La coordinación, evaluación y seguimiento de lo dispuesto en esta Ley, se hará con respeto a las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y la Ley General del Sistema Nacional de Seguridad Pública establecen para las instituciones y autoridades que integran el Sistema.
+
+###### Artículo 9.
+
+Los Consejos Municipales e Intermunicipales de Seguridad Pública, así como las demás instancias del Sistema observarán lo dispuesto en las instancias, disposiciones, registros, acuerdos, resoluciones, mecanismos de coordinación que emitan el Consejo Estatal y el Consejo Nacional de Seguridad Pública.
+
+En caso de contradicción entre las resoluciones y acuerdos generales adoptados por los Consejos Municipales e Intermunicipales, el Consejo Estatal determinará la que deba prevalecer.
+
+## Título Segundo. De las Instancias de Coordinación y la Distribución de Competencias del Sistema Estatal de Seguridad Pública
+
+### Capítulo I. De la organización del Sistema Estatal de Seguridad Pública
+
+###### Artículo 10.
+
+El Sistema se integrará por:
+
+I. El Consejo Estatal de Seguridad Pública, que será la instancia de coordinación, planeación e implementación del Sistema Estatal de Seguridad Pública, siendo responsable de dar seguimiento a los acuerdos, lineamientos y políticas emitidas por el Consejo Nacional de Seguridad Pública;
+
+II. Los Consejos municipales e Intermunicipales; y,
+
+III. El Secretariado Ejecutivo del Sistema.
+
+El Tribunal Superior de Justicia del Estado contribuirá con las instancias que integran el sistema, en la formulación de estudios, lineamientos e implementación de acciones que permitan alcanzar los fines de la seguridad pública.
+
+### Capítulo II. Del Consejo Estatal de Seguridad Pública
+
+###### Artículo 11.
+
+El Consejo Estatal estará integrado por:
+
+I. El Presidente, que será el Gobernador del Estado;
+
+II. El Vicepresidente, que será el Secretario General de Gobierno;
+
+III. El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
+
+IV. El Representante o Delegado en el Estado de:
+
+a) La Secretaría de la Defensa Nacional.
+
+b) La Secretaría de Marina.
+
+c) La Secretaría de Comunicaciones y Transportes.
+
+d) La Procuraduría General de la República.
+
+e) La Policía Federal.
+
+f) El Instituto Nacional de Migración.
+
+V. El Procurador General de Justicia del Estado;
+
+VI. El Secretario de Infraestructura;
+
+VII. El Secretario de Seguridad y Protección Ciudadana;
+
+VIII. El Secretario Ejecutivo del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
+
+IX. El Secretario de Transportes;
+
+X. El Subsecretario de Protección Civil; y,
+
+XI. Los Presidentes Municipales.
+
+Sus integrantes tendrán derecho a voz y voto; a cada sesión, se invitará cuando menos a dos representantes de la sociedad civil o de la comunidad, de conformidad con los temas a tratar, cuya participación será de carácter honorífico.
+
+A convocatoria del Presidente del Consejo Estatal, podrán participar además los servidores públicos que por razón de sus atribuciones estén vinculados con los fines de la Seguridad Pública, así como los auxiliares en la materia, interviniendo en las sesiones con voz pero sin voto.
+
+El Presidente de la Comisión de los Derechos Humanos del Estado de Chiapas será invitado permanente del Consejo Estatal con derecho a voz.
+
+Las actas que se levanten con motivo de las Sesiones del Consejo Estatal, serán válidas con la sola firma de los funcionarios mencionados en las fracciones I, II, III, V, VII, VIII y X, siendo formalmente válidos los acuerdos para todos los miembros del mismo.
+
+Los funcionarios mencionados en las fracciones IV, VI, IX y XI, ocuparán el cargo de vocales.
+
+Los acuerdos y resoluciones emitidos por el Consejo Estatal, se aprobarán por mayoría simple de votos, de los miembros presentes y serán ejecutados por el Secretario Ejecutivo. En caso de empate, tendrá voto de calidad el Presidente.
+
+Con excepción del Secretario Ejecutivo, los demás cargos serán honoríficos.
+
+###### Artículo 12.
+
+Los titulares y el personal de confianza de las unidades administrativas del Secretariado Ejecutivo, del Centro Estatal de Control de Confianza Certificado y de las dependencias que presten asesoría en materia operativa, técnica y jurídica a los integrantes del Consejo Estatal, se considerará personal de seguridad pública y será de libre designación y remoción; se sujetarán a las evaluaciones de certificación y control de confianza.
+
+###### Artículo 13.
+
+El Consejo Estatal tendrá las siguientes atribuciones:
+
+I. La Coordinación, planeación y supervisión del Sistema Estatal de Seguridad Pública.
+
+II. Promover y vigilar el cumplimiento de los convenios y resoluciones de los programas y acuerdos derivados del Sistema Nacional de Seguridad Pública.
+
+III. La determinación de lineamientos para el establecimiento de políticas generales así como ejecutar, dar seguimiento y evaluar sus acciones, a través de las instancias previstas en materia de Seguridad Pública en el Estado.
+
+IV. La determinación de medidas para vincular la Seguridad Pública del Estado con el Sistema Nacional, los Estatales, Regionales y Municipales.
+
+V. La formulación de los Programas Estatales de Seguridad Pública, de Procuración de Justicia y de Prevención del Delito y la evaluación periódica de este.
+
+VI. La coordinación, planeación y seguimiento a los programas o acciones que se planteen dentro del comité técnico de seguridad en carreteras.
+
+VII. La propuesta, emisión y evaluación de las reglas y bases normativas de funcionamiento para que las corporaciones policiacas federales, estatales y municipales realicen acciones preventivas y operativos conjuntos.
+
+VIII. El establecimiento, supervisión, consulta y actualización del sistema de información nacional sobre seguridad pública del Estado y todos los instrumentos de información que permitan el eficaz cumplimiento de esta función.
+
+IX. Promover la organización, administración, operación, coordinación y modernización tecnológica de las instancias de Seguridad Pública.
+
+X. La formulación, al Titular del Ejecutivo Estatal, de propuestas de iniciativas y reformas de leyes y reglamentos, en materia de Seguridad Pública.
+
+XI. El análisis y, en su caso, aprobación de proyectos y estudios de la materia, que se sometan a su consideración, por conducto del Secretario Ejecutivo.
+
+XII. Coadyuvar, en el ámbito de su competencia, en los programas de cooperación internacional sobre seguridad pública que proponga el Consejo Nacional.
+
+XIII. La formulación de recomendaciones administrativas a las autoridades correspondientes, para que las instituciones de Seguridad Pública, locales y municipales, y los auxiliares de Seguridad Pública desarrollen de manera eficaz sus funciones.
+
+XIV. La expedición de reglas para la organización y funcionamiento del Sistema Estatal de Seguridad Pública.
+
+XV. Atender y fomentar la inducción de acciones de participación ciudadana en el Estado.
+
+XVI. Proponer a los Ayuntamientos la instalación de los Consejos Municipales e Intermunicipales de coordinación de Seguridad Pública.
+
+XVII. Promover la implementación de políticas en materia de atención a víctimas del delito.
+
+XVIII. Promover la homologación y desarrollo de los modelos ministerial, policial y pericial en las Instituciones de Seguridad Pública y evaluar sus avances, de conformidad con las leyes respectivas.
+
+XIX. Vigilar que en los criterios para la distribución de recursos de los fondos de aportaciones estatales para la Seguridad Pública, se observen las disposiciones establecidas en la Ley de Coordinación Fiscal y en el Convenio de Coordinación en Materia de Seguridad Pública que se celebre para tal efecto.
+
+XX. Evaluar periódicamente el cumplimiento de los objetivos y metas de los programas de Seguridad Pública y otros, relacionados a través de los indicadores de desempeño que implemente el propio Consejo Estatal.
+
+XXI. Llevar a cabo la evaluación periódica de los programas de Seguridad Pública y otros relacionados.
+
+XXII. Recomendar la remoción de los titulares de las instituciones de Seguridad Pública del Estado y los Municipios, previa opinión fundada y motivada del Secretariado Ejecutivo, por el incumplimiento de las obligaciones establecidas en la presente Ley y demás disposiciones legales aplicables.
+
+XXIII. Promover políticas de coordinación y colaboración con el Poder Judicial del Estado y los órganos jurisdiccionales del mismo.
+
+XXIV. Conformar las Comisiones que considere necesarias para el ejercicio de sus atribuciones.
+
+XXV. La celebración de acuerdos, programas, planes y convenios generales y específicos, sobre las materias de coordinación.
+
+XXVI. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
+
+###### Artículo 14.
+
+El Presidente del Consejo Estatal tendrá las siguientes atribuciones:
+
+I. Presidir las sesiones del Consejo Estatal;
+
+II. Convocar, por conducto del Secretario Ejecutivo, a las Sesiones del Consejo Estatal;
+
+III. Proponer al Consejo Estatal la instalación de las Comisiones para estudiar o evaluar políticas y acciones en materia de seguridad pública;
+
+IV. Proveer las medidas necesarias para la ejecución de las políticas y resoluciones adoptadas por el Consejo Estatal;
+
+V. Integrar, por conducto del Secretario Ejecutivo y las respectivas Comisiones, las propuestas para los programas estatales, municipales o especiales sobre seguridad pública para su trámite legal;
+
+VI. Celebrar convenios, en representación del Consejo Estatal, con otras autoridades federales, estatales y municipales; así como con el Poder Judicial y Legislativo del Estado;
+
+VII. Instruir al Secretario Ejecutivo para promover y vigilar el cumplimiento de los acuerdos, convenios y demás resoluciones del Consejo Estatal; y,
+
+VIII. Todas aquellas que le asignen expresamente las disposiciones jurídicas aplicables y las que le confiera el propio Consejo Estatal.
+
+###### Artículo 15.
+
+El Vicepresidente del Consejo Estatal tendrá las siguientes atribuciones:
+
+I. Presidir, en sustitución del Gobernador del Estado, las sesiones ordinarias y extraordinarias del Consejo Estatal;
+
+II. Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo;
+
+III. Informar al Consejo, por conducto del Secretario Ejecutivo, sobre el resultado de la operatividad, políticas y resoluciones del Consejo Estatal;
+
+IV. Las demás que le sean asignadas por el Presidente del Consejo Estatal.
+
+###### Artículo 16.
+
+Los integrantes del Consejo Estatal tendrán las siguientes funciones:
+
+I. Asistir a las sesiones del Consejo Estatal y participar en ellas con voz y voto;
+
+II. Desempeñar las comisiones de trabajo que presiden o que conformen;
+
+III. Proponer al Consejo Estatal los acuerdos y resoluciones que estimen convenientes, en el marco de su competencia;
+
+IV. Aprobar, en su caso, las actas, acuerdos y resoluciones que se deriven de las sesiones ordinarias y extraordinarias del Pleno;
+
+V. Proponer la celebración de convenios, acuerdos u otros instrumentos normativos, dentro de su competencia y atribuciones legales, así como vigilar su cumplimiento;
+
+VI. Asesorar en materia de Seguridad Pública a los Presidentes Municipales, por conducto de los Consejos Municipales e Intermunicipales de Seguridad Pública;
+
+VII. Actualizar y consultar el Sistema Nacional de Información de Seguridad Pública; y,
+
+VIII. Todas aquellas que les sean expresamente encomendadas por el Consejo Estatal.
+
+### Capítulo III. De las sesiones del Consejo Estatal
+
+###### Artículo 17.
+
+El Consejo Estatal podrá funcionar en Pleno o en comisiones. El Pleno sesionará ordinariamente, por lo menos cada tres meses y extraordinariamente en cualquier momento.
+
+El Secretario Ejecutivo, previo acuerdo con el Presidente, emitirá las convocatorias respectivas e integrará la agenda de los asuntos a tratar.
+
+El quórum para las sesiones del Consejo Estatal se integrará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por mayoría simple de votos de los integrantes presentes del Consejo Estatal y, en caso de empate, el Presidente del Consejo Estatal o quien lo supla en sus ausencias, tendrá voto de calidad.
+
+Corresponderá al Presidente del Consejo Estatal, además, la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema.
+
+Los miembros del Consejo Estatal podrán formular propuestas de acuerdos que permitan el mejor funcionamiento del Sistema.
+
+###### Artículo 18.
+
+Las convocatorias para las sesiones del Consejo Estatal contendrán la fecha y lugar en que se celebrarán, naturaleza de la sesión y el orden del día que tendrá por lo menos los siguientes puntos:
+
+I. Lista de Asistencia.
+
+II. Verificación del Quórum para declarar la apertura de la sesión.
+
+III. Lectura y, en su caso, aprobación del acta de la sesión anterior.
+
+IV. Los informes y cuentas que rinda el Secretario Ejecutivo de los asuntos a su cargo, y de los demás acuerdos del Consejo Estatal.
+
+V. Los temas determinados a tratar; y,
+
+VI. Asuntos Generales (cuando se trate de sesión ordinaria).
+
+###### Artículo 19.
+
+Son comisiones permanentes del Consejo Estatal, las siguientes:
+
+I. De Información.
+
+II. De Certificación y Acreditación.
+
+III. De Prevención del Delito y Participación Ciudadana.
+
+Estas comisiones se coordinarán con el Secretario Ejecutivo para dar seguimiento al cumplimiento de las disposiciones aplicables por parte de las Dependencias, Institutos u Organismos competentes para cada caso.
+
+El Consejo Estatal determinará el objeto, integrantes, deberes y funcionamiento de las mismas.
+
+En las Comisiones podrán participar expertos de instituciones académicas, de investigación y agrupaciones del sector social y privado relacionados con su objeto.
+
+### Capítulo IV. De los Consejos Municipales e Intermunicipales de Seguridad Pública
+
+###### Artículo 20.
+
+El Consejo promoverá la instalación y funcionamiento de los Consejos Municipales e Intermunicipales de Seguridad Pública.
+
+###### Artículo 21.
+
+Los municipios que integran el Consejo Estatal de Seguridad Pública instalarán a propuesta de este último, los Consejos Municipales e Intermunicipales de Coordinación de Seguridad Pública, los cuales se integrarán de manera similar al propio cuerpo consultivo estatal y tendrá las funciones relativas a hacer posible la coordinación, planeación e implementación del Sistema en sus respectivos ámbitos de gobierno. Asimismo, serán los responsables de dar seguimiento a los acuerdos, lineamientos y políticas emitidos por el, en sus respectivos ámbitos de competencia.
+
+Por Consejo Municipal se entiende a aquel que se instala en un solo municipio, atendiendo la problemática que, en materia de Seguridad Pública, se presenta dentro del mismo.
+
+Por Consejo Intermunicipal se entiende a aquel que se instala con la participación de dos o más municipios, en atención a sus características regionales, demográficas y de incidencia delictiva.
+
+###### Artículo 22.
+
+Los Consejos Municipales se integran con:
+
+I. El Presidente Municipal, que será el Presidente del Consejo;
+
+II. El Síndico Municipal;
+
+III. Un representante del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
+
+IV. El Fiscal del Ministerio Público con jurisdicción en el Municipio;
+
+V. El Director de la Seguridad Pública del Municipio;
+
+VI. Los Representantes de las Dependencias Estatales en materia de Seguridad Pública de la Jurisdicción;
+
+VII. El Comité de Consulta y Participación Ciudadana del Municipio;
+
+VIII. Los funcionarios que designe el Secretario General de Gobierno;
+
+IX. Un Coordinador de Prevención del Delito, que será nombrado por el H. Ayuntamiento; y,
+
+X. Un Secretario Ejecutivo, que será nombrado por el Consejo Municipal a propuesta del Presidente del Consejo Municipal.
+
+###### Artículo 23.
+
+Los Consejos Intermunicipales se integran con:
+
+I. Un Presidente que será electo de entre los Presidentes Municipales de los municipios que lo conforman, por un periodo de un año.
+
+II. Los funcionarios que designe el Secretario General de Gobierno;
+
+III. Los funcionarios que designe el Secretario de Seguridad y Protección Ciudadana, con atribuciones en Seguridad Pública y reinserción social;
+
+IV. Los Agentes del Ministerio Público con jurisdicción en los municipios coordinados, cuando fueren varios, la Procuraduría de Justicia designará al representante;
+
+V. Un representante del Secretariado Ejecutivo del Consejo Estatal;
+
+VI. Los Coordinadores de Prevención del Delito y de los municipios integrantes; y,
+
+VII. Un Secretario Ejecutivo, que será nombrado por los integrantes del Consejo a propuesta del Presidente.
+
+###### Artículo 24.
+
+Tanto en los Consejos Municipales como en los Intermunicipales, y cuando hubieren sido convocados para ello, podrán participar con voz pero sin voto, las personas que por razones de sus actividades se relacionen con la Seguridad Pública.
+
+###### Artículo 25.
+
+Para el ejercicio de sus funciones los Consejos Municipales e Intermunicipales, tendrán las siguientes atribuciones:
+
+I. Formular lineamientos para el establecimiento de políticas municipales o intermunicipales en materia de Seguridad Pública;
+
+II. Proponer a los Presidentes Municipales reformas a Reglamentos municipales en materia de Seguridad Pública;
+
+III. Formular propuestas al Sistema Estatal de Seguridad Pública;
+
+IV. Coordinarse con el Sistema, a través del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
+
+V. Conocer y, en su caso, aprobar proyectos y estudios que el Consejo someta a su consideración, por conducto del Secretariado Ejecutivo;
+
+VI. Conformar las Comisiones que considere necesarias para el ejercicio de sus atribuciones; y,
+
+VII. Todas las demás que le confiera el Consejo Estatal de Seguridad Pública.
+
+Los Consejos Municipales, además de las atribuciones antes mencionadas, deberán formular los Programas Municipales de Seguridad Pública y de prevención del Delito.
+
+###### Artículo 26.
+
+Los Consejos Municipales e Intermunicipales, tendrán como comisiones permanentes las siguientes:
+
+I. De información;
+
+II. De Certificación y Acreditación;
+
+III. De Prevención del Delito y Participación Ciudadana.
+
+Estas Comisiones se coordinarán con el Secretario Ejecutivo del Consejo respectivo, para dar seguimiento al cumplimiento de las disposiciones y lineamientos emitidos por el Consejo Estatal; el funcionamiento de estas Comisiones, se determinará en los Reglamentos propios de cada Consejo.
+
+### Capítulo V. Del Secretariado Ejecutivo del Consejo
+
+###### Artículo 27.
+
+El Secretario Ejecutivo será nombrado por el titular del Poder Ejecutivo del Estado, y representará al Consejo Estatal, quien tendrá a su cargo la administración y representación del Organismo Público Descentralizado de la Administración Pública Estatal, con las atribuciones establecidas en esta Ley, el decreto de creación del organismo y demás disposiciones aplicables.
+
+###### Artículo 28.
+
+El Secretario Ejecutivo del Consejo, deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos civiles y políticos.
+
+II. Tener veinticinco años al momento de la designación.
+
+III. Ser de reconocida capacidad y probidad y contar con experiencia en áreas de Seguridad Pública.
+
+IV. No haber sido condenado por delito doloso.
+
+V. No pertenecer al estado eclesiástico o ser ministro de algún culto religioso.
+
+VI. No tener antecedentes negativos en los registros Estatal y personal de Seguridad Pública.
+
+VII. Contar con título profesional de nivel Licenciatura debidamente registrado; y,
+
+VIII. No haber sido inhabilitado como servidor público.
+
+###### Artículo 29.
+
+El Secretario Ejecutivo, tendrá entre otras las siguientes atribuciones:
+
+I. Convocar previo acuerdo con el Presidente, a las sesiones del Consejo Estatal;
+
+II. Elaborar y certificar los acuerdos que se tomen en el Consejo Estatal a través de las respectivas actas, llevar el archivo de estas así como los demás documentos de dicho órgano;
+
+III. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de su Presidente;
+
+IV. Coordinar y dar seguimiento a las comisiones que se conformen dentro del órgano colegiado;
+
+V. Elaborar y someter a la aprobación del Consejo Estatal el programa estatal de Seguridad Pública e informar sobre el programa de Seguridad Pública que proponga el Consejo Nacional;
+
+VI. Ejercer la dirección administrativa sobre la estructura de apoyo que se determine, para el eficaz desempeño de sus funciones;
+
+VII. Asesorar y proponer al respecto de las políticas, lineamientos y acciones a aplicar, para el buen desempeño de las instituciones de Seguridad Pública Estatal y Municipales;
+
+VIII. Elaborar y publicar anualmente el informe de actividades del Consejo Estatal;
+
+IX. Coordinar las acciones a instrumentar en el Servicio Estatal de Apoyo a la carrera policial y las instituciones estatales de formación policial;
+
+X. Impulsar y dar seguimiento a la homologación de la Carrera Policial, la Profesionalización y el Régimen Disciplinario en las Instituciones de Seguridad Pública y de Procuración de Justicia;
+
+XI. Proponer a las instituciones de Seguridad Pública, la realización de acciones conjuntas conforme a las bases y reglas que emita el Consejo Estatal y sin menoscabo de otras que realicen las autoridades competentes;
+
+XII. Supervisar y otorgar seguimiento a la atención de denuncias por faltas administrativas y delitos cometidos por los integrantes de las instituciones de Seguridad Pública o de los particulares involucrados en estas áreas;
+
+XIII. Administrar, impulsar mejoras y sistematizar los instrumentos de información del Sistema Estatal, así como requerir y recabar de las instituciones de Seguridad Pública Estatal y Municipal los datos que requiera el Sistema Nacional de Información;
+
+XIV. Proponer al Consejo Estatal las políticas, lineamientos, protocolos y acciones para el buen desempeño de las Instituciones de Seguridad Pública;
+
+XV. Coordinar la realización de estudios especializados sobre las materias de Seguridad Pública y formular recomendaciones a las instancias de coordinación previstas en el presente ordenamiento;
+
+XVI. Proponer a las instituciones encargadas, las medidas necesarias para hacer efectiva la coordinación y preservación de la Seguridad Pública;
+
+XVII. Realizar estudios específicos en materia de Seguridad Pública;
+
+XVIII. Informar periódicamente al Consejo Estatal y a su Presidente de sus actividades;
+
+XIX. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema;
+
+XX. Verificar el cumplimiento de las disposiciones de esta ley, los convenios generales y específicos en la materia, así como las demás disposiciones aplicables e informar lo conducente al Consejo Estatal;
+
+XXI. Verificar que los programas, estrategias, acciones, políticas y servicios que adopten los Consejos Municipales e Intermunicipales de Seguridad Pública, cumplan con los lineamientos y acuerdos generales que dicte el Consejo Estatal;
+
+XXII. Proponer los criterios de evaluación de las instituciones de Seguridad Pública en los términos de la ley;
+
+XXIII. Integrar los criterios para la distribución de los fondos de seguridad pública y someterlos a la aprobación del Consejo Estatal, en términos de las disposiciones legales aplicables;
+
+XXIV. Gestionar ante las autoridades competentes, la ministración de los fondos de seguridad pública, de conformidad con los criterios aprobados por el Consejo Estatal y las demás disposiciones aplicables;
+
+XXV. Coadyuvar con el Órgano Superior de Fiscalización, del H. Congreso del Estado, y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de los fondos de ayuda federal, así como del cumplimiento de esta Ley;
+
+XXVI. Supervisar la correcta aplicación de los recursos de los fondos por las dependencias ejecutoras y por los municipios;
+
+XXVII. Elaborar y someter a consideración del Consejo Estatal, opinión fundada y razonada por la que se recomiende la remoción de los titulares de las instituciones de Seguridad pública;
+
+XXVIII. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos a que se refiere el artículo 94 de esta Ley, e informar al respecto al Consejo Nacional;
+
+XXIX. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema;
+
+XXX. Las demás que le confieran las leyes, reglamentos, acuerdos, decretos y que sean necesarias para el funcionamiento del Consejo Estatal.
+
+###### Artículo 30.
+
+El Secretariado Ejecutivo, a través de la Unidad de Sistematización, será el responsable de la operación del Sistema Nacional de Información de Seguridad Pública en la Entidad, teniendo dicha Unidad las siguientes atribuciones:
+
+I. Establecer, administrar y resguardar las bases de datos criminalísticos y de personal del Sistema, en los términos que señale el Centro Nacional de Información;
+
+II. Brindar asesoría a las instituciones de Seguridad Pública para la integración de información, interconexión, acceso, uso, intercambio y establecimiento de medidas de seguridad para las bases de datos;
+
+III. Dar seguimiento al suministro y actualización de las Bases de Datos de las distintas instituciones de Seguridad Pública, al Centro Nacional de Información; y,
+
+IV. Las demás que establezcan el Consejo Estatal, su Presidente, y el Reglamento del Secretariado Ejecutivo.
+
+###### Artículo 31.
+
+El Secretariado Ejecutivo, a través de la Unidad de Prevención del Delito, Participación Ciudadana y Apoyo a instancias, tendrá como principales atribuciones:
+
+I. Proponer al Consejo Estatal lineamientos de prevención social del delito, a través del diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas;
+
+II. Promover la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
+
+III. Emitir opiniones y recomendaciones, dar seguimientos y evaluar los programas implementados por las Instituciones de Seguridad Pública para:
+
+a) Prevenir la violencia infantil y juvenil;
+
+b) Promover la erradicación de la violencia especialmente la ejercida contra niñas, niños, jóvenes, mujeres, indígenas, adultos mayores, dentro y fuera del seno familiar;
+
+c) Prevenir la violencia generada por el uso de armas, el abuso de drogas y alcohol; y,
+
+d) Garantizar la atención integral a las víctimas.
+
+IV. Realizar, por sí o por terceros, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública estatal;
+
+V. Realizar, por sí o por terceros, encuestas victimológicas, de fenómenos delictivos y otras que coadyuven a la prevención del delito;
+
+VI. Promover la inclusión de contenidos relativos a la prevención del delito en los programas educativos, de salud, de desarrollo social y, en general, en los diversos programas de las dependencias y entidades estatales, así como colaborar con los Municipios en esta misma materia;
+
+VII. Organizar seminarios, conferencias y ponencias sobre prevención social del delito;
+
+VIII. Coordinarse con otras instancias competentes en la materia para el ejercicio de sus funciones;
+
+IX. Promover la participación ciudadana para el fortalecimiento del Sistema en los términos de esta Ley; y,
+
+X. Las demás que establezcan el Consejo Estatal, su Presidente, y el Reglamento del Secretariado Ejecutivo.
+
+### Capítulo VI. De la Distribución de Competencias
+
+###### Artículo 32.
+
+La concurrencia de facultades entre el Estado y los Municipios, quedará distribuida conforme a lo siguiente:
+
+Corresponde al Estado y los Municipios, en el ámbito de sus respectivas competencias:
+
+I. Garantizar el cumplimiento de la presente Ley y demás disposiciones en la materia;
+
+II. Contribuir, en el ámbito de sus competencias, a la efectiva coordinación del Sistema;
+
+III. Aplicar y supervisar los procedimientos relativos a la Carrera Policial, Profesionalización y Régimen Disciplinario;
+
+IV. Constituir y operar las Comisiones y las Academias a que se refiere esta Ley;
+
+V. Asegurar su integración a las bases de datos criminalísticos y de personal;
+
+VI. Designar a un responsable del control, suministro y adecuado manejo de la información a que se refiere esta Ley;
+
+VII. Integrar y consultar en las bases de datos de personal de Seguridad Pública, los expedientes de los aspirantes a ingresar en las Instituciones Policiales;
+
+VIII. Abstenerse de contratar y emplear en las Instituciones Policiales a personas que no cuentan con el registro y certificado emitido por el Centro Estatal de Control de Confianza Certificado;
+
+IX. Coadyuvar a la integración y funcionamiento del Desarrollo Policial, Ministerial y Pericial;
+
+X. Integrar y consultar la información relativa a la operación y Desarrollo Policial para el registro y seguimiento, en las bases de datos criminalísticos y de personal de Seguridad Pública;
+
+XI. Destinar los fondos de ayuda federal para la seguridad pública exclusivamente a estos fines y nombrar a un responsable de su control y administración;
+
+XII. Participar en la ejecución de las acciones para el resguardo de las Instalaciones Estratégicas del país; y,
+
+XIII. Las demás atribuciones específicas que se establezcan en esta Ley, la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables.
+
+## Título Tercero. Disposiciones Comunes a los Integrantes de las Instituciones de Seguridad Pública
+
+### Capítulo I. De las Obligaciones y Sanciones de los Integrantes de las Instituciones de Seguridad Pública
+
+###### Artículo 33.
+
+Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones de Seguridad Pública se sujetarán a las siguientes obligaciones:
+
+I. Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución;
+
+II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
+
+III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+
+IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
+
+V. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
+
+VI. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
+
+VII. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+
+VIII. Velar por la vida e integridad física de las personas detenidas;
+
+IX. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
+
+X. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las Instituciones de Seguridad Pública;
+
+XI. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+
+XII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+
+XIII. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
+
+XIV. Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;
+
+XV. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
+
+XVI. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
+
+XVII. Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a las disposiciones aplicables;
+
+XVIII. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones;
+
+XIX. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
+
+XX. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
+
+XXI. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones;
+
+XXII. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
+
+XXIII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
+
+XXIV. Sujetarse a la rotación de personal;
+
+XXV. Rendir su declaración de situación patrimonial ante el Centro Estatal de Control de Confianza Certificado; y,
+
+XXVI. Los demás que establezcan las disposiciones legales aplicables.
+
+###### Artículo 34.
+
+Además de lo señalado en el artículo anterior, los integrantes de las Instituciones Policiales, tendrán específicamente las obligaciones siguientes:
+
+I. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
+
+II. Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en los términos de las leyes correspondientes;
+
+III. Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
+
+IV. Ejecutar los mandamientos judiciales y ministeriales;
+
+V. Obtener y mantener actualizado su Certificado Único Policial;
+
+VI. Obedecer las órdenes de los superiores jerárquicos o de quienes ejerzan sobre él funciones de mando y cumplir con todas sus obligaciones, realizándolas conforme a derecho;
+
+VII. Responder, sobre la ejecución de las órdenes directas que reciba, a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
+
+VIII. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+
+IX. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
+
+X. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia; y,
+
+XI. Las demás que establezcan las disposiciones legales aplicables.
+
+Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
+
+###### Artículo 35.
+
+El documento de identificación de los integrantes de las instituciones de Seguridad Pública deberá contener al menos nombre, cargo, fotografía, huella digital y clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, así como, las medidas de seguridad que garanticen su autenticidad.
+
+Todo servidor público tiene la obligación de identificarse salvo los casos previstos en la ley, a fin de que el ciudadano se cerciore de que cuenta con el registro correspondiente.
+
+###### Artículo 36.
+
+Los integrantes de las Instituciones de Seguridad Pública deberán llenar un Informe Policial Homologado que contendrá, cuando menos, los siguientes datos:
+
+I. El área que lo emite;
+
+II. El usuario capturista;
+
+III. Los Datos Generales de registro;
+
+IV. Motivo, que se clasifica en;
+
+a) Tipo de evento, y
+
+b) Subtipo de evento.
+
+V. La ubicación del evento y, en su caso, los caminos;
+
+VI. La descripción de hechos, que deberá detallar modo, tiempo y lugar, entre otros datos.
+
+VII. Entrevistas realizadas, y
+
+VIII. En caso de detenciones:
+
+a) Señalar los motivos de la detención;
+
+b) Descripción de la persona;
+
+c) El nombre del detenido y apodo, en su caso;
+
+d) Descripción de estado físico aparente;
+
+e) Objetos que le fueron encontrados;
+
+f) Autoridad a la que fue puesto a disposición; y,
+
+g) Lugar en el que fue puesto a disposición.
+
+El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
+
+###### Artículo 37.
+
+Las instituciones de Seguridad Pública, deberán establecer en sus respectivos ordenamientos legales las sanciones correspondientes al incumplimiento de los deberes previstos en la Ley General del Sistema Nacional de Seguridad Pública, en esta ley, los procedimientos y los órganos competentes que conocerán de éstos, sin perjuicio de lo establecido en las demás Leyes aplicables.
+
+Las sanciones serán al menos, las siguientes:
+
+a) Amonestación o apercibimiento;
+
+b) Suspensión de funciones con pérdida de remuneración, y
+
+c) Remoción o separación del servicio.
+
+### Capítulo II. De los Sistemas Complementarios de Seguridad Social y Reconocimientos
+
+###### Artículo 38.
+
+Las Instituciones de Seguridad Pública, deberán garantizar, al menos, las prestaciones previstas como mínimas para los trabajadores al servicio del Estado y los municipios y generarán, de acuerdo a sus necesidades, y con cargo a sus presupuestos, una normatividad de régimen complementario de seguridad social y reconocimientos, en términos de lo previsto en el artículo 123, apartado B, fracción XIII, tercer párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### Artículo 39.
+
+Las Instituciones de Seguridad Pública conforme a lo dispuesto en esta Ley, realizarán y someterán a las autoridades que corresponda, los estudios técnicos pertinentes para la revisión, actualización y fijación de sus tabuladores y las zonas en que éstos deberán regir.
+
+### Capítulo III. De las Academias e Institutos
+
+###### Artículo 40.
+
+El Estado establecerá y operará Academias e Institutos que serán responsables de aplicar los Programas Rectores de Profesionalización que tendrán, entre otras, las siguientes funciones:
+
+I. Aplicar los procedimientos homologados del Sistema Nacional de Seguridad Pública, en sustitución de los del Sistema Estatal, de conformidad con lo que dispone el artículo 47 de la Ley General del Sistema Nacional de Seguridad Pública;
+
+II. Capacitar en materia de investigación científica y técnica a los servidores públicos;
+
+III. Proponer y desarrollar los programas de investigación académica en materia ministerial, pericial y policial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+
+IV. Proponer las etapas, niveles de escolaridad y grados académicos de la Profesionalización;
+
+V. Promover y prestar servicios educativos a sus respectivas Instituciones;
+
+VI. Aplicar las estrategias para la profesionalización de los aspirantes y servidores públicos;
+
+VII. Proponer y aplicar los contenidos de los planes y programas para la formación de los servidores públicos a que se refiere el Programa Rector;
+
+VIII. Garantizar la equivalencia de los contenidos mínimos de planes y programas de Profesionalización;
+
+IX. Revalidar equivalencias de estudios de la Profesionalización;
+
+X. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
+
+XI. Realizar los estudios para detectar las necesidades de capacitación de los Servidores Públicos y proponer los cursos correspondientes;
+
+XII. Proponer y, en su caso, publicar las convocatorias para el ingreso a las Academias e Institutos;
+
+XIII. Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes;
+
+XIV. Expedir constancias de las actividades para la profesionalización que impartan;
+
+XV. Proponer la celebración de convenios con Instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia a los servidores públicos;
+
+XVI. Supervisar que los aspirantes e integrantes de las Instituciones Policiales se sujeten a los manuales de las Academias e Institutos; y,
+
+XVII. Las demás que establezcan las disposiciones legales aplicables.
+
+###### Artículo 41.
+
+En materia de planes y programas de Profesionalización para las Instituciones Policiales, la Secretaría tendrá la facultad de proponer a las Instancias de Coordinación de esta ley lo siguiente:
+
+I. Los contenidos básicos de los programas para la formación, capacitación y profesionalización de los mandos de las Instituciones policiales;
+
+II. Los aspectos que contendrá el Programa Rector;
+
+III. Que los integrantes de las Instituciones Policiales se sujeten a los programas correspondientes a las Academias y de estudios superiores policiales;
+
+IV. El diseño y actualización de políticas y normas para el reclutamiento y selección de candidatos a las Instituciones Policiales y vigilar su aplicación;
+
+V. Estrategias y políticas de desarrollo de formación de los integrantes de las Instituciones Policiales;
+
+VI. Los programas de investigación académica en materia policial; y,
+
+VII. Las demás que establezcan otras disposiciones legales.
+
+## Título Cuarto. Del Servicio de Carrera en las Instituciones de Seguridad Pública y Procuración de Justicia
+
+### Capítulo I. Disposiciones Generales
+
+###### Artículo 42.
+
+El Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia, comprenderá lo relativo a las Policías Preventivas, al Ministerio Público y a los peritos.
+
+###### Artículo 43.
+
+El Consejo Estatal, promoverá la implementación del Servicio de Carrera en sus diferentes niveles, comprendiendo los requisitos y procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, evaluación, ascenso, dignificación y separación del servicio, a través de las instancias administrativas de formación a la carrera policial y ministerial.
+
+La Policía Ministerial y los Miembros del Buró Ministerial de Investigación de la Procuraduría General de Justicia del Estado, se sujetarán a lo dispuesto en la Ley Orgánica que la rige, en materia de carrera policial.
+
+###### Artículo 44.
+
+Las legislaciones correspondientes establecerán los términos que regirán en el Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia.
+
+###### Artículo 45.
+
+Las instituciones de Seguridad Pública del Estado y los Municipios se sujetarán a los planes y programas que en materia de profesionalización implemente el Sistema Nacional de Seguridad Pública, por conducto de la Secretaría de Seguridad Pública Federal, mismos que serán promovidos por el Consejo Estatal de Seguridad Pública a través de la (sic) instancias administrativas de formación a la carrera policial y ministerial.
+
+###### Artículo 46.
+
+El Estado establecerá en sus respectivas leyes los procedimientos de separación y remoción aplicables a los servidores públicos de las Instituciones de Procuración de Justicia, que cuando menos, comprenderán los aspectos previstos en el artículo siguiente.
+
+###### Artículo 47.
+
+La terminación del Servicio de Carrera será:
+
+I. Ordinaria, que comprende:
+
+a) Renuncia;
+
+b) Incapacidad permanente para el desempeño de las funciones; y,
+
+c) Jubilación.
+
+II. Extraordinaria, que comprende:
+
+a) Separación por el incumplimiento de los requisitos de ingreso y permanencia, o
+
+b) Remoción por incurrir en causas de responsabilidad con motivo de su encargo.
+
+###### Artículo 48.
+
+El Programa Rector de Profesionalización es el instrumento en el que se establecen los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de las Instituciones de Procuración de Justicia.
+
+###### Artículo 49.
+
+Los servidores públicos de las Instituciones de Procuración de Justicia están obligados a participar en las actividades de profesionalización que determine la institución respectiva, los cuales deberán cubrir un mínimo de 60 horas clase anuales.
+
+### Capítulo II. Del Desarrollo Policial
+
+###### Artículo 50.
+
+El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Integrantes de las Instituciones Policiales y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales referidos en el artículo 6 de la presente Ley.
+
+###### Artículo 51.
+
+Las relaciones jurídicas entre las Instituciones Policiales y sus integrantes se rigen por la fracción XIII, del apartado B, del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, las disposiciones, registros, acuerdos, resoluciones, mecanismos de coordinación que prevé la Ley General del Sistema Nacional de Seguridad Pública, la presente Ley y demás disposiciones legales aplicables.
+
+Todos los servidores públicos de las Instituciones Policiales del Estado y los municipios que no pertenezcan a la Carrera Policial, se considerarán trabajadores de confianza. Los efectos de su nombramiento se podrán dar por terminados en cualquier momento, de conformidad con las disposiciones aplicables, y en caso de que no acrediten las evaluaciones de control de confianza.
+
+###### Artículo 52.
+
+La legislación del Estado establecerá la organización jerárquica de las Instituciones Policiales, considerando al menos las categorías siguientes:
+
+I. Comisarios;
+
+II. Inspectores;
+
+III. Oficiales; y,
+
+IV. Escala Básica.
+
+En las policías ministeriales se establecerán al menos niveles jerárquicos equivalentes a las primeras tres fracciones del presente artículo, con las respectivas categorías, conforme al modelo policial previsto en esta Ley.
+
+### Capítulo Único. De la Acreditación y Control de Confianza
+
+## Título Quinto. De Acreditación y Control de Confianza de los Integrantes de las Instituciones de Seguridad Pública
+
+### Capítulo Único. De la Información Estatal
+
+###### Artículo 53.
+
+El Centro Estatal de Control de Confianza, es un órgano Administrativo Desconcentrado, jerárquicamente subordinado al Consejo Estatal de seguridad Pública, con plena autonomía administrativa, presupuestal, técnica, de gestión, de operación y de ejecución, para lo cual contará con las atribuciones previstas en su Decreto de Creación y demás disposiciones aplicables.
+
+###### Artículo 54.
+
+El Centro Estatal de Control de Confianza Certificado, cumplirá los objetivos y fines de la evaluación y certificación de los integrantes de las Instituciones de Seguridad Pública.
+
+###### Artículo 55.
+
+Los certificados que emita el Centro Estatal de Control de Confianza Certificado o Instituciones Privadas, sólo tendrán validez si cuentan con la acreditación vigente del Centro Nacional de Certificación y Acreditación.
+
+Cuando en los procesos de certificación a cargo del Centro Estatal de Control de Confianza Certificado, intervengan Instituciones privadas, éstas deberán contar con la acreditación vigente del Centro Nacional de Certificación y Acreditación. En caso contrario, el proceso carecerá de validez.
+
+###### Artículo 56.
+
+El Centro Estatal de Control de Confianza Certificado aplicará las evaluaciones a que se refiere esta Ley, tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los Integrantes de las Instituciones de Seguridad Pública; así como en términos de las disposiciones, registros, acuerdos, resoluciones, mecanismos de coordinación que emita el Consejo Nacional; para tal efecto, tendrá las siguientes facultades:
+
+I. Evaluar y certificar a los policías y cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado, además del personal de la Procuraduría de Justicia y del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad, en acciones relacionadas con su ingreso, permanencia y para el desempeño de sus actividades.
+
+II. Evaluar y certificar a los policías y cuerpos de seguridad de los Municipios del Estado que por acuerdo y solicitud así lo requieran, en acciones relacionadas con su ingreso, permanencia y para el desempeño de sus actividades.
+
+III. Formular, diseñar, programar, ejecutar, conducir y dar seguimiento a un sistema de control de base de datos y registro de policías, cuerpos de seguridad y personal de la Procuraduría de Justicia.
+
+IV. Suscribir con los diversos órganos de seguridad, de control de confianza y certificación de la Federación y otros Estados, los acuerdos que se requieran para el cumplimiento de su objeto.
+
+V. Suscribir con los Municipios del Estado y demás personas los acuerdos necesarios para llevar a cabo las acciones a que se refiere el presente instrumento.
+
+VI. Crear, ejecutar y dar seguimiento a un sistema o programa de base de datos que garantice el registro de situación patrimonial de los policías, cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado y del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad, así como de sus familiares, desde el registro, modificación y conclusión.
+
+VII. Participar en representación del Ejecutivo del Estado, en las reuniones que convoque el Centro de Investigación y Seguridad Nacional y, en general con cualquier otra autoridad o persona que tenga funciones relacionadas con el objeto de creación del Centro, debiendo informar permanentemente al Ejecutivo de las acciones y los resultados derivados de las mismas.
+
+VIII. Establecer los mecanismos, instrumentos y procedimientos de evaluación sistemático y periódico a los policías, cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado, además del personal de la Procuraduría de Justicia y del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad, para garantizar su actuación, mediante certificación de que su conducta se apega a la ética y a la normatividad institucional, buscando en ello la inhibición de los actos de corrupción, impunidad y penetración del crimen organizado, y en general, cualquier otra acción que le permita el cumplimiento del objeto de su creación.
+
+IX. Comunicar e informar a las autoridades competentes las conductas o el incumplimiento de las normas administrativas de aquellos servidores públicos que detecte el Centro en el ejercicio de sus funciones, para que aquellas inicien los procedimientos y determinen las sanciones que resulten procedentes.
+
+X. Comprobar los niveles de escolaridad de los integrantes de las Instituciones de Seguridad Pública; y,
+
+XI. Las demás que sean necesarias para el cumplimiento de su objeto, así como las que se le atribuya por el Ejecutivo del Estado o le confiera su Reglamento Interior, las leyes y demás normatividad que le resulte aplicable.
+
+## Título Sexto. De la Información Sobre Seguridad Pública
+
+### Capítulo I. Del Registro Administrativo de Detenciones
+
+###### Artículo 57.
+
+El Estado y los municipios, suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que diariamente se genere sobre Seguridad Pública mediante los sistemas e instrumentos tecnológicos respectivos.
+
+El Presidente del Consejo dictará las medidas necesarias, además de las ya previstas en la Ley, para la integración y preservación de la información administrada y sistematizada mediante los instrumentos de información sobre Seguridad Pública.
+
+La Procuraduría de Justicia tendrá acceso a la información contenida en las bases de datos criminalísticos y de personal, en el ámbito de su función de investigación y persecución de los delitos.
+
+La información sobre administración de justicia, podrá ser integrada a las bases de datos criminalísticas y de personal, a través de convenios con el Poder Judicial del Estado y con estricto apego a las disposiciones legales aplicables.
+
+El acceso a las bases de datos del sistema estará condicionado al cumplimiento de esta Ley, los acuerdos generales, los convenios y demás disposiciones que de la propia Ley emanen.
+
+###### Artículo 58.
+
+El Consejo determinará las bases para incorporar otros servicios o instrumentos que tiendan a integrar la información sobre Seguridad Pública y los mecanismos modernos que den agilidad y rapidez a su acceso.
+
+La Secretaría y la Procuraduría de Justicia, implementarán los mecanismos que permitan agilizar el intercambio de información sobre bases de datos criminalísticos que permitan facilitar la investigación y persecución de los delitos.
+
+Los integrantes del Sistema están obligados a compartir la información sobre Seguridad Pública que obre en sus bases de datos, con las de la Unidad de Sistematización, en los términos de las disposiciones normativas aplicables.
+
+La información contenida en las bases de datos del Sistema Nacional de Información sobre seguridad pública, podrá ser certificada por la autoridad respectiva y tendrá el valor probatorio que las instancias de coordinación determinen.
+
+###### Artículo 59.
+
+El Estado y los Municipios, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su Red Local correspondiente, con las bases de datos criminalísticos y de personal del Sistema, previstas en la presente Ley.
+
+El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán con un número único de atención a la ciudadanía. El Secretario Ejecutivo adoptará las medidas necesarias para la homologación de los servicios.
+
+## Título Séptimo. De los Registros de Detención, Información de Personal y de Armamento
+
+### Capítulo II. Del Sistema Único de Información Criminal
+
+###### Artículo 60.
+
+Los agentes policiales del Estado y los Municipios que realicen detenciones, deberán dar aviso administrativo de inmediato a la Unidad de Sistematización y al Centro Nacional de Información de la detención, a través del Informe Policial Homologado.
+
+###### Artículo 61.
+
+El registro administrativo de la detención deberá contener, al menos, los datos siguientes:
+
+I. Nombre y, en su caso, apodo del detenido;
+
+II. Descripción física del detenido;
+
+III. Motivo, circunstancias generales, lugar y hora en que se haya practicado la detención;
+
+IV. Nombre de quien o quienes hayan intervenido en la detención. En su caso, rango y área de adscripción; y,
+
+V. Lugar a donde será trasladado el detenido.
+
+###### Artículo 62.
+
+La Procuraduría de Justicia deberá actualizar la información relativa al registro, tan pronto reciba a su disposición al detenido, recabando lo siguiente:
+
+I. Domicilio, fecha de nacimiento, estado civil, grado de estudios y ocupación o profesión;
+
+II. Clave Única de Registro de Población;
+
+III. Grupo étnico al que pertenezca;
+
+IV. Descripción del estado físico del detenido;
+
+V. Huellas dactilares;
+
+VI. Identificación antropométrica; y,
+
+VII. Otros medios que permitan la identificación del individuo.
+
+El Ministerio Público y la policía deberán informar a quien lo solicite de la detención de una persona y, en su caso, la autoridad a cuya disposición se encuentre, de conformidad a las disposiciones legales aplicables.
+
+###### Artículo 63.
+
+La información capturada en el Registro Administrativo de Detenciones será confidencial y reservada. A la información contenida en el registro sólo podrán tener acceso:
+
+I. Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables; y,
+
+II. Los probables responsables, estrictamente para la rectificación de sus datos personales y para solicitar que se asiente en el mismo el resultado del procedimiento penal, en términos de las disposiciones legales aplicables.
+
+Bajo ninguna circunstancia se podrá proporcionar información contenida en el Registro a terceros. El Registro no podrá ser utilizado como base de discriminación, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
+
+Al servidor público que quebrante la reserva del Registro o proporcione información sobre el mismo, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
+
+###### Artículo 64.
+
+Las Instituciones de Seguridad Pública serán responsables de la administración, guarda y custodia de los datos que integran este registro; su violación se sancionará de acuerdo con las disposiciones previstas en la legislación penal aplicable.
+
+### Capítulo III. Del Registro del Personal de Seguridad Pública
+
+###### Artículo 65.
+
+El Estado y los Municipios serán responsables de integrar y actualizar el sistema único de información criminal, con la información que generen las Instituciones de Seguridad Pública.
+
+###### Artículo 66.
+
+Dentro del sistema único de información criminal se integrará una base estatal de datos de consulta obligatoria en las actividades de Seguridad Pública, sobre personas indiciadas, procesadas o sentenciadas, donde se incluyan su perfil criminológico, medios de identificación, recursos y modos de operación.
+
+Esta base estatal de datos se actualizará permanentemente y se conformará con la información que aporten las Instituciones de Seguridad Pública, relativa a las investigaciones, procedimientos penales, órdenes de detención y aprehensión, procesos penales, sentencias o ejecución de penas.
+
+###### Artículo 67.
+
+La Procuraduría de Justicia podrá reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones aplicables, pero la proporcionarán al sistema único de información criminal inmediatamente después que deje de existir tal condición.
+
+###### Artículo 68.
+
+El Sistema Estatal de Información Penitenciaria es la base de datos que, dentro del sistema único de información criminal, contiene, administra y controla los registros de la población penitenciaria del Estado y los Municipios en sus respectivos ámbitos de competencia.
+
+###### Artículo 69.
+
+La base de datos deberá contar, al menos, con el reporte de la ficha de identificación personal de cada interno con fotografía, debiendo agregarse los estudios técnicos interdisciplinarios, datos de procesos penales y demás información necesaria para la integración de dicho sistema.
+
+### Capítulo IV. Del Registro de Armamento y Equipo
+
+###### Artículo 70.
+
+El Registro Nacional del Personal de Seguridad Pública, contendrá la información actualizada, relativa a los integrantes de las Instituciones del Estado y los Municipios, el cual contendrá, por lo menos:
+
+I. Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes en el servicio, así como su trayectoria en la seguridad pública;
+
+II. Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público; y,
+
+III. Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron.
+
+Cuando a los integrantes de las Instituciones de Seguridad Pública se les dicte cualquier auto de procesamiento, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, se notificará inmediatamente al Registro.
+
+###### Artículo 71.
+
+Las autoridades competentes del Estado y los municipios inscribirán y mantendrán actualizados permanentemente en el Registro los datos relativos a los integrantes de las Instituciones de Seguridad Pública, en los términos de esta Ley.
+
+Para efectos de esta Ley, se consideran miembros de las Instituciones de Seguridad Pública, a quienes tengan un nombramiento o condición jurídica equivalente, otorgado por autoridad competente.
+
+La infracción a esta disposición se sancionará en términos de la presente Ley.
+
+### Capítulo I. De los Servicios de Atención a la Población
+
+###### Artículo 72.
+
+Además de cumplir con las disposiciones contenidas en otras leyes, las autoridades competentes del Estado y los municipios manifestarán y mantendrán permanentemente actualizado el Registro Nacional de Armamento y Equipo, el cual incluirá:
+
+I. Los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo; y,
+
+II. Las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula y demás elementos de identificación.
+
+###### Artículo 73.
+
+Las instituciones de Seguridad Pública mantendrán un registro de los elementos de identificación de huella balística de las armas asignadas a los servidores públicos de las instituciones de Seguridad Pública. Dicha huella deberá registrarse en una base de datos del Sistema.
+
+###### Artículo 74.
+
+En el caso de que los integrantes de las Instituciones de Seguridad Pública aseguren armas o municiones, lo comunicarán de inmediato al Registro Nacional de Armamento y Equipo y las pondrán a disposición de las autoridades competentes, en los términos de las normas aplicables.
+
+###### Artículo 75.
+
+Cualquier persona que ejerza funciones de Seguridad, sólo podrá resguardar y utilizar las armas de cargo que le hayan sido autorizadas individualmente o aquellas que se les hubiesen asignado, y que estén registradas colectivamente para la corporación de Seguridad Pública o auxiliares de esta, a que pertenezcan, de conformidad con la Ley Federal de Armas de Fuego y Explosivos.
+
+###### Artículo 76.
+
+Las armas sólo podrán ser portadas durante el tiempo del ejercicio de funciones o para un horario, misión o comisión determinados, de acuerdo a los ordenamientos de cada institución.
+
+###### Artículo 77.
+
+La información que proporcionen las instituciones de Seguridad Pública del Estado y los Municipios del uso que se indica tendrá como objetivo específico, manifestar el registro nacional de armamento y equipo, la relación de armamento, parque vehicular, decomiso de armas, equipo antimotines, y, en general, de todo aquel material y equipo que se utiliza en las instituciones de Seguridad Pública Estatal y Municipales.
+
+###### Artículo 78.
+
+El incumplimiento a las disposiciones de este capítulo, dará lugar a que la portación o posesión de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
+
+## Título Octavo. De los Servicios de Atención a la Población y De la Participación Ciudadana
+
+### Capítulo II. De la Participación Ciudadana
+
+###### Artículo 79.
+
+El Secretariado Ejecutivo, a través de su Unidad de Prevención del Delito, Participación Ciudadana y Apoyo a Instancias, establecerá los mecanismos eficaces para que la sociedad participe con base, en los mecanismos que establezca el Centro Nacional de Prevención del Delito y Participación Ciudadana en el seguimiento, evaluación y supervisión del Sistema, en los términos de esta ley y demás ordenamientos aplicables.
+
+Dicha participación se realizará en coadyuvancia y corresponsabilidad con las autoridades, a través de:
+
+I. La comunidad, tenga o no estructura organizativa; y,
+
+II. La sociedad civil organizada.
+
+###### Artículo 80.
+
+La Unidad de Prevención del Delito, Participación Ciudadana y Apoyo a instancias impulsará las acciones necesarias para que el Estado y los municipios, establezcan un servicio para la localización de personas y bienes.
+
+###### Artículo 81.
+
+La Unidad de Prevención del Delito, Participación Ciudadana y Apoyo a Instancias promoverá que el Estado y los municipios establezcan un servicio de comunicación que reciba los reportes de la comunidad, sobre las emergencias, faltas y delitos de que tenga conocimiento.
+
+El servicio tendrá comunicación directa con las Instituciones de Seguridad Pública, de salud, de protección civil y las demás asistenciales públicas y privadas.
+
+###### Artículo 82.
+
+Para mejorar el servicio de Seguridad Pública, las instancias de coordinación que prevé esta Ley promoverán la participación de la comunidad a través de las siguientes acciones:
+
+I. Participar en la evaluación de las políticas y de las instituciones de seguridad pública;
+
+II. Opinar sobre políticas en materia de Seguridad Pública;
+
+III. Sugerir medidas específicas y acciones concretas para esta función;
+
+IV. Realizar labores de seguimiento;
+
+V. Proponer reconocimientos por méritos o estímulos para los Integrantes de las Instituciones;
+
+VI. Realizar denuncias o quejas sobre irregularidades; y,
+
+VII. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de Seguridad Pública.
+
+###### Artículo 83.
+
+La Unidad de Prevención del Delito, Participación Ciudadana y Apoyo a Instancias, promoverá que las Instituciones de Seguridad Pública cuenten con una entidad de consulta y participación de la comunidad, para alcanzar los propósitos del artículo anterior.
+
+La participación ciudadana en materia de evaluación de políticas y de instituciones, se sujetará a los indicadores previamente establecidos con la autoridad sobre los siguientes temas:
+
+I. El desempeño de sus integrantes;
+
+II. El servicio prestado; y,
+
+III. El impacto de las políticas públicas en prevención del delito.
+
+Los resultados de los estudios deberán ser entregados a las Instituciones de Seguridad Pública, así como a los Consejos del Sistema, según corresponda. Estos estudios servirán para la formulación de políticas públicas en la materia.
+
+###### Artículo 84.
+
+La Unidad de Sistematización deberá proporcionar la información necesaria y conducente para el desarrollo de las actividades en materia de participación ciudadana. No se podrá proporcionar la información que ponga en riesgo la seguridad pública o personal.
+
+###### Artículo 85.
+
+La legislación del Estado establecerá políticas públicas de atención a la víctima, que deberán prever, al menos los siguientes rubros:
+
+I. Atención de la denuncia en forma pronta y expedita;
+
+II. Atención jurídica, médica y psicológica especializada;
+
+III. Medidas de protección a la víctima; y,
+
+IV. Otras, en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+
+### Capítulo I. Disposiciones Generales
+
+###### Artículo 86.
+
+En el marco de las instancias de coordinación de Seguridad Pública se promoverá la participación de la sociedad en tareas de planeación y supervisión de la Seguridad Pública a través del Comité de Consulta y Participación Ciudadana, en el Estado, Regionales y cada uno de los municipios que lo conforman, para:
+
+I. Conocer y opinar sobre políticas de Seguridad Pública, sugiriendo medidas específicas y acciones concretas para mejorar esta función;
+
+II. Otorgar el apoyo requerido por el Consejo y los Consejos Municipales de Seguridad Pública para lograr la participación de la comunidad;
+
+III. Promover y participar la implementación del programa de prevención del delito en el Estado;
+
+IV. Realizar labores de seguimiento en relación al cumplimiento de los objetivos en materia de Seguridad Pública;
+
+V. Proponer el otorgamiento de reconocimientos por meritos o estímulos para los integrantes de las instituciones policiales;
+
+VI. Realizar denuncias o quejas sobre irregularidades en la actuación de los integrantes de las corporaciones de Seguridad Pública; y,
+
+VII. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño de la función de Seguridad Pública.
+
+###### Artículo 87.
+
+Para alcanzar los fines de la participación ciudadana a que se refiere el artículo anterior, el Consejo Estatal, los Consejos Municipales e Intermunicipales, promoverán la instalación de los comités de consulta y participación ciudadana tomando en consideración a:
+
+I. Personas cuya actividad esté vinculada con la Prevención, Procuración, Administración de Justicia y Reinserción Social;
+
+II. Servidores Públicos cuyas funciones legales sean concordantes con las acciones previstas en algunas de las fracciones del artículo anterior;
+
+III. Instituciones que tengan señalado en su objeto social el fomento a las actividades educativas, culturales o deportivas y que se interesen en coadyuvar con los propósitos y fines de los programas de Seguridad Pública; y,
+
+IV. Ciudadanos que realicen actividades relacionadas con el tema de Seguridad Pública.
+
+Para proceder a la integración de estos comités, el Consejo Estatal, los Consejos Municipales e Intermunicipales, convocarán a los sectores sociales de la comunidad llamando a las personas más representativas e interesadas en colaborar con la Seguridad Pública.
+
+## Título Noveno. De las Responsabilidades de los Servidores Públicos
+
+### Capítulo II. De los Delitos contra el funcionamiento del Sistema Estatal de Seguridad Pública
+
+###### Artículo 88.
+
+Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos locales y municipales por el manejo o aplicación ilícita de los recursos previstos en los fondos a que se refiere la presente ley, serán determinadas y sancionadas conforme las disposiciones legales aplicables y por las autoridades competentes.
+
+Serán consideradas violaciones graves a la Constitución y a las leyes que de ella emanan, las acciones u omisiones previstas en esta ley, que se realicen en forma reiterada o sistemática.
+
+###### Artículo 89.
+
+La Auditoría Superior de la Federación, fiscalizará los recursos federales que ejerzan el Estado y los municipios en materia de Seguridad Pública, en términos de las disposiciones aplicables sin perjuicio de la fiscalización que, por convenio o conforme a su competencia, deba realizar el Órgano de Fiscalización Superior del H. Congreso del Estado.
+
+### Capítulo I. Disposiciones Preliminares
+
+###### Artículo 90.
+
+Se sancionará de uno a cuatro años de prisión y de cien a seiscientos días multa, a quien dolosa, ilícita y reiteradamente, con el objetivo de obtener un lucro o beneficio para sí o para un tercero, se abstenga de proporcionar la información que esté obligado en términos de esta Ley, a pesar de ser requerido.
+
+Se impondrá además, la destitución e inhabilitación por un plazo igual al de la pena impuesta para desempeñarse en otro empleo, puesto, cargo o comisión en cualquier orden de gobierno.
+
+###### Artículo 91.
+
+Se sancionará con dos a ocho años de prisión y de quinientos a mil días multa, a quien:
+
+I. Ingrese dolosamente a las bases de datos del Sistema Estatal de Seguridad Pública previstos en esta Ley, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan;
+
+II. Divulgue de manera ilícita información clasificada de las bases de datos o sistemas informáticos a que se refiere esta Ley;
+
+III. Inscriba o registre en la base de datos del personal de las instituciones de seguridad pública, prevista en esta Ley, como miembro o integrante de una institución de Seguridad Pública de cualquier orden de gobierno, a persona que no cuente con la certificación exigible conforme a la Ley, o a sabiendas de que la certificación es ilícita; y,
+
+IV. Asigne nombramiento de policía, ministerio público o perito oficial a persona que no haya sido certificada y registrada en los términos de esta Ley.
+
+Si el responsable es o hubiera sido servidor público de las instituciones de seguridad pública, se impondrá hasta una mitad más de la pena correspondiente, además, la inhabilitación por un plazo igual al de la pena de prisión impuesta para desempeñarse como servidor público en cualquier orden de gobierno, y en su caso, la destitución.
+
+###### Artículo 92.
+
+Se sancionará con cinco a doce años de prisión y de doscientos a ochocientos días multa, a quien falsifique el certificado a que se refiere la presente Ley, lo altere, comercialice o use a sabiendas de su ilicitud.
+
+###### Artículo 93.
+
+Las sanciones previstas en este capítulo se impondrán sin perjuicio de las penas que correspondan por otros delitos previstos en el ordenamiento penal del estado, según corresponda.
+
+## Título Décimo. De los Fondos de Ayuda Para la Seguridad Pública
+
+### Capítulo II. De la Cancelación y Suspensión de Ministración de los Recursos
+
+###### Artículo 94.
+
+Los fondos de ayuda federal para la seguridad pública a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, se componen con los recursos destinados a la Seguridad Pública previstos en los fondos que establece el artículo 25, fracciones IV y VII, de la Ley de Coordinación Fiscal para tal objeto. Los recursos que se programe, presupueste y aporte la federación al Estado y municipios, así como su ejercicio, control, vigilancia, información, evaluación y fiscalización, estarán sujetos a dicho ordenamiento y a la presente Ley; asimismo, únicamente podrán ser destinados a los fines de seguridad pública referidos en la citada Ley de Coordinación Fiscal.
+
+El Estado y los municipios deberán concentrar los recursos en una cuenta específica, así como los rendimientos que generen, a efecto de identificarlos y separarlos del resto de los recursos que con cargo a su presupuesto destinen a seguridad pública.
+
+Las autoridades correspondientes del Estado y los municipios deberán rendir informes trimestrales al Secretariado Ejecutivo del Consejo sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos, su destino así como los recursos comprometidos, devengados y pagados.
+
+Las aportaciones estatales a los fondos de ayuda federal para la seguridad pública, serán determinadas en el Presupuesto de Egresos del Estado, y serán destinados exclusivamente a estos fines.
+
+###### Artículo 95.
+
+Para efectos de control, vigilancia, transparencia y supervisión del manejo de los recursos previstos en el artículo que antecede, así como para determinar si se actualizan los supuestos a que se refiere el artículo 83, compete al Secretario Ejecutivo:
+
+I. Requerir, indistintamente, a las autoridades hacendarias y de seguridad pública, entre otras, del Estado y de los municipios, informes relativos a:
+
+a) El ejercicio de los recursos de los fondos y el avance en el cumplimiento de los programas o proyectos financiados con los mismos;
+
+b) La ejecución de los programas de seguridad pública del Estado derivados del Programa Nacional y Estatal de Seguridad Pública;
+
+II. Efectuar, en cualquier momento, visitas de verificación y revisiones de gabinete de los documentos, instrumentos y mecanismos inherentes o relativos al ejercicio de los recursos en las instituciones de seguridad pública del Estado y municipios, a fin de comprobar el cumplimiento a las disposiciones legales y reglamentarias aplicables, así como de las obligaciones a su cargo; de igual forma, podrá requerir la información que considere necesaria indistintamente a las autoridades hacendarias o de seguridad pública locales correspondientes; y,
+
+III. Las demás acciones que resulten necesarias para la consecución de lo dispuesto en este artículo.
+
+De manera supletoria a lo previsto en este artículo se aplicará la Ley de Procedimientos Administrativos para el Estado de Chiapas y el Código Civil.
+
+### Capítulo Único. De la Prestación del Servicio
+
+###### Artículo 96.
+
+Para evitar la cancelación o suspensión de los recursos a que se refiere el artículo 94 de esta Ley, las instituciones de seguridad pública se abstendrán de:
+
+I. Incumplir las obligaciones relativas al suministro, intercambio y sistematización de la información de Seguridad Pública, o violar las reglas de acceso y aprovechamiento de la información de las bases de datos previstas en esta Ley;
+
+II. Incumplir los procedimientos y mecanismos para la certificación de los integrantes de las Instituciones de Seguridad Pública;
+
+III. Omitir la implementación del servicio telefónico estatal de emergencia;
+
+IV. Aplicar los recursos aportados para la seguridad pública para fines distintos a los que disponen las normas jurídicas aplicables;
+
+V. Aplicar criterios, normas y procedimientos distintos a los establecidos por el Centro Estatal de Control de Confianza Certificado;
+
+VI. Establecer y ejecutar un Modelo Policial básico distinto al determinado por el Consejo;
+
+VII. Establecer servicios de carrera ministerial y policial sin sujetarse a lo dispuesto en esta Ley y las disposiciones que de ella emanan;
+
+VIII. Omitir la constitución y puesta en operación de las instancias, centros de control de confianza y academias a que se refiere esta Ley; y,
+
+IX. Cualquier incumplimiento a las obligaciones de la presente Ley, que afecte a los mecanismos de coordinación en materia de Seguridad Pública.
+
+###### Artículo 97.
+
+El procedimiento al que se sujetarán las visitas y revisiones a que se refiere el artículo 95, fracción II, y sobre las causas de cancelación de los recursos a que se refiere el artículo 96, se sujetará a las reglas siguientes:
+
+I. En la orden de visita o revisión correspondiente se señalará el servidor público que la practicará, la institución, así como el periodo u objeto que haya de verificarse o revisarse;
+
+II. La visita se practicará preferentemente en las oficinas principales de la institución o dependencia visitada; en caso de no ser posible por cualquier causa, se realizará en cualquier domicilio de la propia institución o dependencia o, en caso necesario, en las instalaciones del Secretariado Ejecutivo; estando obligados los servidores públicos de las instituciones o dependencias visitadas a proporcionar todas las facilidades necesarias y atender los requerimientos que se les formulen;
+
+III. En caso de advertirse incumplimiento de las obligaciones derivadas de la Ley General del Sistema Nacional de Seguridad Pública y de esta Ley, los acuerdos generales o los convenios, el Secretariado Ejecutivo solicitará se aclare o subsane la acción u omisión que dio origen al incumplimiento;
+
+La suspensión en el otorgamiento de los recursos no implica la pérdida de los mismos por parte del Estado o los Municipios, por lo que podrán aclarar o subsanar la acción u omisión que dio origen al incumplimiento, mientras no se emita la resolución que declare la cancelación;
+
+IV. En un plazo no mayor a quince días hábiles, posteriores a la terminación de la visita, el Secretariado Ejecutivo presentará al Consejo Estatal el informe correspondiente al cumplimiento o incumplimiento de las obligaciones sujetas a verificación, así como toda la información que resulte necesaria para el efecto;
+
+V. El Secretariado dará vista a la institución o dependencia visitada o revisada, para que en un plazo de veinte días hábiles, aporte la información pertinente para desvirtuar las imputaciones que, en su caso, se formulen en su contra;
+
+VI. Transcurrido el plazo antes mencionado, en caso de incumplimiento, el Secretariado presentará al Consejo Estatal un proyecto de resolución, en que se contengan las conclusiones de la visita o revisión practicadas; y,
+
+VII. En el proyecto de resolución señalará si la institución o dependencia revisada o visitada puede ser acreedora a la cancelación de los fondos, en cuyo caso el Secretario Ejecutivo propondrá al Consejo Estatal las medidas procedentes.
+
+El Consejo Estatal resolverá sobre la existencia de incumplimiento y determinará, en su caso, las responsabilidades que otras leyes establezcan.
+
+## Título Décimo Primero. De los Servicios de Seguridad Privada
+
+###### Artículo 98.
+
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado; deberán obtener autorización previa de la Secretaría; en este caso, los particulares autorizados, deberán cumplir la regulación local.
+
+Conforme a las bases que esta ley dispone, las instancias de coordinación promoverán que las leyes locales prevean los requisitos y condiciones para la prestación del servicio, la denominación, los mecanismos para la supervisión y las causas y procedimientos para determinar sanciones.
+
+###### Artículo 99.
+
+Los servicios de seguridad privada son auxiliares a la función de Seguridad Pública. Sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente del Estado y los municipios, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva.
+
+###### Artículo 100.
+
+Los particulares que se dediquen a estos servicios, así como el personal que utilicen, se regirán en lo conducente, por las normas que esta ley y las demás aplicables que se establecen para las Instituciones de Seguridad Pública; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre la delincuencia.
+
+Los ordenamientos legales del Estado establecerán conforme a la normatividad aplicable, la obligación de las empresas privadas de seguridad, para que su personal sea sometido a procedimientos de certificación, evaluación y control de confianza.
+
+## Transitorios
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- De manera progresiva y en un plazo de cuatro años a partir de la entrada en vigor de este Decreto, las Instituciones de Seguridad Pública, por conducto del Centro Estatal de Control de Confianza Certificado, deberán practicar las evaluaciones respectivas a sus integrantes, de conformidad con lo dispuesto en esta Ley, sus respectivos ordenamientos legales y el calendario aprobado por el Consejo Estatal.
+
+Artículo Tercero.- Todos los integrantes de las Instituciones de Seguridad Pública deberán contar con el certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y esta Ley, en los términos y plazos previstos en el artículo transitorio anterior. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Artículo Cuarto.- Los servicios de carrera vigentes en las Instituciones de Seguridad Pública a la fecha de entrada en vigor de este Decreto, deberán ajustarse a los requisitos, criterios y procedimientos que establece esta Ley y las leyes aplicables, en la rama correspondiente, en un plazo no mayor a un año.
+
+Artículo Quinto.- Los servidores públicos que obtengan el certificado y que satisfagan los requisitos de ingreso y permanencia que se establecen en esta Ley y los ordenamientos legales federales y estatales aplicables, ingresarán o serán homologados al servicio de carrera, en las ramas ministerial, policial y pericial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables, de conformidad con lo previsto en el presente Decreto.
+
+Artículo Sexto.- El Consejo Estatal someterá a consideración del Ejecutivo Estatal las disposiciones reglamentarias de la presente Ley en un plazo no mayor a dieciocho meses a partir de la entrada en vigor de este Decreto, para su aprobación y publicación.
+
+Artículo Séptimo.- Se abroga la Ley del Sistema Estatal de Seguridad Pública y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumplimiento a este decreto.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 14 días del mes de Julio del año dos mil nueve.- D.P.C. Ana Elisa López Coello.- D.S.C. José Ernestino Mazariegos Zenteno.- Rúbricas.
+
+De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los quince días del mes de julio del año dos mil nueve.
+
+Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
