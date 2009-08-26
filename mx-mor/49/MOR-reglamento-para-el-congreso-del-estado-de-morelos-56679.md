@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2009-07-11"
+last_updated: "2009-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -1623,7 +1623,29 @@ II.- Coordinación de Televisión; y
 
 III.- Las unidades administrativas que se señalen en sus disposiciones administrativas internas de acuerdo con el presupuesto autorizado.
 
-### CAPÍTULO PRIMERO
+### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN JURÍDICA
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 173 BIS.- La Dirección Jurídica es el órgano jurídico especializado del Congreso del Estado adscrito a la Secretaría del Congreso y dependiente de la Mesa Directiva, cuya función es la defensa del Poder Legislativo en los procesos jurídicos en los que éste sea parte, llevando a cabo sus actividades en forma programada y con base en los principios de integridad, honestidad, congruencia, eficacia, productividad y pertinencia.
+
+El titular de dicho Órgano será el Director Jurídico, quien dependerá en forma directa del Secretario del Congreso y de la Presidencia de la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 173 TER.- Para el buen desempeño de sus funciones la Dirección Jurídica tendrá las siguientes atribuciones:
+
+I. Expedir, previa autorización del Presidente de la Mesa Directiva, las certificaciones que se soliciten.
+
+II. Llevar a cabo actividades de prevención tendientes a evitar posibles conflictos jurídicos para el Congreso.
+
+III. Recibir las ratificaciones de escritos, denuncias y controversias que señalen las leyes como competencia del Congreso del Estado.
+
+IV. Brindar atención integral a procedimientos y procesos jurídicos en materia de amparo, laboral, burocrática, administrativa, civil, mercantil, penal, constitucional y demás áreas jurídicas en las que el Congreso sea parte.
+
+V. Asesorar, analizar y emitir, de acuerdo con los ordenamientos internos, opinión jurídica sobre las iniciativas, dictámenes, instrumentos jurídicos o cualquier otro documento que le sean requeridos por el Pleno, los Diputados de manera individual, las Comisiones, la Mesa Directiva, la Secretaría o los órganos internos del Congreso.
+
+VI. Las demás que de manera específica establezca la Ley Orgánica para el Congreso, su Reglamento y el Pleno del Congreso del estado le confieran.
 
 ###### ARTÍCULO 172.
 
@@ -1647,13 +1669,15 @@ VI. Promover todas aquellas acciones necesarias para desarrollar la imagen insti
 
 La página de internet aludida en la fracción IV que antecede, no debe contener propaganda, publicidad o información comercial ni de proselitismo político.
 
-### CAPÍTULO I. DE LAS OBLIGACIONES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2009)</small>
+
+### CAPÍTULO PRIMERO
 
 ## TÍTULO DÉCIMO. DE LOS SERVIDORES PÚBLICOS DEL CONGRESO
 
-### CAPÍTULO SEGUNDO. DE LOS SECRETARIOS TECNICOS Y ASESORES
+### CAPÍTULO I. DE LAS OBLIGACIONES
 
-### CAPÍTULO UNICO
+### CAPÍTULO SEGUNDO. DE LOS SECRETARIOS TECNICOS Y ASESORES
 
 ###### ARTÍCULO 174.
 
@@ -1671,7 +1695,7 @@ V. Abstenerse de ostentar su calidad de servidor público del Congreso, en el de
 
 El incumplimiento a lo dispuesto en este artículo será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado el presente reglamento y las Condiciones General (sic) de Trabajo.
 
-### CAPÍTULO ÚNICO. DE SU ELABORACIÓN
+### CAPÍTULO UNICO
 
 ###### ARTÍCULO 175.
 
@@ -1721,7 +1745,7 @@ CAPÍTULO TECERO (SIC)
 
 DE LOS EX DIPUTADOS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DE SU ELABORACIÓN
 
 ###### ARTÍCULO 177.
 
@@ -1731,13 +1755,15 @@ Quienes hayan ocupado el cargo de diputado, podrán conservar dentro del Recinto
 
 (DEROGADO, P.O. 7 DE MAYO DE 2007)
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 179.
 
 El Congreso a través de la Secretaría del Congreso, llevará un libro de registro con fotografía de quienes hayan ocupado el cargo de Diputado. En el mismo se anotarán los nombres de quienes estén designados como sus beneficiarios, para el otorgamiento de la prestación que les confiere la Ley.
 
 ## TÍTULO DÉCIMO PRIMERO. DEL PÚBLICO ASISTENTE A LAS SESIONES
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 180
 
@@ -1930,5 +1956,15 @@ La presente reforma entrará en vigor el mismo día de su aprobación por el Ple
 A partir de la entrada en vigor de la presente reforma, la Junta Política y de Gobierno deberá publicar de inmediato, la convocatoria para la designación de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia.
 
 ###### ARTÍCULO TERCERO.
+
+Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
+
+P.O. 26 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
 
 Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
