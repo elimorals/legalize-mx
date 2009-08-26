@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2009-07-11"
+last_updated: "2009-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -135,7 +135,9 @@ c) Copia certificada de la constancia de mayoría y validez de la elección de G
 
 d) La notificación en su caso de las resoluciones emitidas por el Tribunal Estatal Electoral y el Tribunal Electoral del Poder Judicial de la Federación, recaídas a los recursos interpuestos contra las elecciones de diputados de mayoría, de asignación de diputados de representación proporcional y de la elección de Gobernador.
 
-II. Entregar credenciales de identificación y acceso a los diputados electos que integrarán la nueva legislatura.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2009)</small>
+
+II. Entregar a los diputados electos que integrarán la nueva legislatura las credenciales de identificación y acceso, y convocarlos a una reunión informativa, misma que deberá ser celebrada antes de la Junta previa.
 
 III. Citar a los diputados electos a la junta previa para los efectos establecidos en el artículo siguiente de esta Ley.
 
@@ -487,9 +489,15 @@ XXV. Dentro de su ámbito de competencia, dar puntual cumplimiento a las decisio
 
 XXVI. Exigir al Secretario de Administración y Finanzas, la exhibición de una fianza antes de iniciar el ejercicio de sus funciones, misma que deberá ser renovada en forma anual;
 
-XXVII. Vigilar que el Secretario de Administración y Finanzas y los servidores públicos que manejen fondos o valores, otorguen y mantengan vigentes las fianzas a que hace referencia el presente ordenamiento; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2009)</small>
 
-XXVIII. Las demás que se deriven de esta Ley, del Reglamento y de las disposiciones o acuerdos que emita el Congreso del Estado.
+XXVII. Vigilar que el Secretario de Administración y Finanzas y los servidores públicos que manejen fondos o valores, otorguen y mantengan vigentes las fianzas a que hace referencia el presente ordenamiento;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2009)</small>
+
+XXVIII. Designar a los Encargados de Despacho de la Secretaría del Congreso y/o de la Secretaría de Administración y Finanzas, así como a los encargados de despacho de aquéllas áreas del Congreso donde existan ausencias temporales o definitivas que sean de su competencia, con las excepciones previstas en la Ley y el Reglamento.
+
+XXIX. Las demás que se deriven de esta Ley, del Reglamento y de las disposiciones o acuerdos que emita el Congreso del Estado.
 
 ###### Artículo 37.
 
@@ -667,9 +675,9 @@ g) Las designaciones de los Magistrados que integran el Poder Judicial, para lo 
 
 h) Designar en caso de licencia de algún diputado a quien deba cubrir la ausencia en las comisiones respectivas;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2009)</small>
 
-IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno, al Coordinador del área de Comunicación Social del Congreso del Estado, así como a los Directores y Titular de la Unidad General Administrativa de la Auditoría Superior de Fiscalización del Congreso del Estado;
+IV. Designar al Secretario Técnico de la propia Junta Política y de Gobierno, al Coordinador del área de Comunicación Social del Congreso del Estado, a los Directores y Titular de la Unidad General Administrativa de la Auditoría Superior de Fiscalización del Congreso del Estado, así como a los Encargados de Despacho del Instituto de Investigaciones Legislativas, Dirección de Radio y Televisión del Congreso del Estado y Coordinación de Comunicación Social;
 
 V. Impulsar la conformación de puntos de acuerdo relacionados con el contenido de las propuestas, iniciativas, dictámenes o minutas que requieran de su votación en el pleno del Congreso el Estado, a fin de agilizar el trabajo legislativo;
 
@@ -1287,6 +1295,14 @@ Los órganos del Congreso del Estado, deberán presentar a la Junta Política y 
 
 Los órganos del Congreso del Estado deberán presentar a la Junta Política y de Gobierno, al término de cada año de ejercicio constitucional, un informe anual de las actividades que por ley les corresponden.
 
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
+
+Artículo 89 BIS.- En caso de ausencia temporal o definitiva de los titulares de la Secretaría del Congreso y/o de la Secretaría de Administración y Finanzas, el Presidente de la Mesa Directiva procederá a designar a un Encargado de Despacho, en tanto el Pleno del Congreso, a propuesta de la Junta Política y de Gobierno, designa en su caso, al nuevo titular.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
+
+Artículo 89 TER.- En caso de ausencia temporal o definitiva de los titulares de la Dirección del Instituto de Investigaciones Legislativas y Dirección de Radio y Televisión del Congreso, Coordinación de Comunicación Social, la Junta Política y de Gobierno procederá a designar, mediante acuerdo a un Encargado de Despacho, en tanto se designa en su caso al nuevo titular.
+
 ###### Artículo 90.
 
 Para el funcionamiento interno, el Congreso del Estado contará además con las direcciones, subdirecciones y jefaturas de departamento autorizadas en el presupuesto del Congreso del Estado.
@@ -1294,6 +1310,10 @@ Para el funcionamiento interno, el Congreso del Estado contará además con las 
 ###### Artículo 91.
 
 Para ocupar cualquiera de los cargos a que se refieren los artículos anteriores, deberá acreditarse ante la Junta Política y de Gobierno, la documentación relativa con los requisitos que cada cargo requiere.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
+
+Artículo 91 BIS.- Los encargados de despacho deberán cumplir y acreditar los mismos requisitos que se prevén para los titulares y tendrán las mismas atribuciones que los titulares en tanto funjan como tales.
 
 ### CAPÍTULO IV. DE LA AUDITORÍA SUPERIOR DE FISCALIZACIÓN
 
@@ -1878,5 +1898,15 @@ La presente reforma entrará en vigor el mismo día de su aprobación por el Ple
 A partir de la entrada en vigor de la presente reforma, la Junta Política y de Gobierno deberá publicar de inmediato, la convocatoria para la designación de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia.
 
 ###### ARTÍCULO TERCERO.
+
+Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
+
+P.O. 26 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
 
 Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
