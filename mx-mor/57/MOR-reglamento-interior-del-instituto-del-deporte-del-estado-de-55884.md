@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-instituto-del-deporte-del-estado-de-558
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-06"
-last_updated: "2007-06-06"
+last_updated: "2009-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE Y CULTURA FISICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 6 de junio de 2007.
 
@@ -244,3 +246,11 @@ EL SECRETARIO DE EDUCACIÓN
 ING. JOSÉ LUIS RODRÍGUEZ MARTÍNEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE AGOSTO DE 2009.
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto del Deporte del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4536 de fecha seis de junio de dos mil siete.
