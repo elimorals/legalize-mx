@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2008-12-10"
+last_updated: "2009-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -115,115 +115,119 @@ V.- APROVECHAMIENTO SOSTENIBLE: La utilización de los recursos naturales en for
 
 VI.- APROVECHAMIENTO DE LOS RESIDUOS: Conjunto de acciones cuyo objetivo es recuperar el valor económico de aquellos residuos que puedan ser reciclables y que no signifiquen un riesgo en su reutilización;
 
-VII.- CARACTERIZACIÓN DE SITIOS CONTAMINADOS: Es la determinación cualitativa y cuantitativa de los contaminantes químicos o biológicos presentes, provenientes de materiales o residuos peligrosos, para estimar la magnitud y tipo de riesgos que conlleva dicha contaminación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2009)</small>
 
-VIII.- CONSERVACIÓN: La permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del desarrollo, con el fin de no provocar un impacto ambiental negativo y asegurar para las generaciones presentes y venideras, un ambiente propicio para su desarrollo y los recursos naturales que les permitan satisfacer sus necesidades;
+VII.- CAMBIO CLIMÁTICO: Proceso evolutivo mediante el cual las emisiones antropogénicas derivadas de la actividad humana, de gases termoactivos, comúnmente denominadas gases de efecto invernadero, ejercen presión sobre el sistema climático cambiando la composición de la atmósfera terrestre e incrementando la temperatura media del planeta;
 
-IX.- CONTAMINANTE: Toda materia o energía en cualquiera de sus estados físicos y formas, que al incorporarse o actuar en el ambiente altere o modifique negativamente su composición y condición natural;
+VIII.- CARACTERIZACIÓN DE SITIOS CONTAMINADOS: Es la determinación cualitativa y cuantitativa de los contaminantes químicos o biológicos presentes, provenientes de materiales o residuos peligrosos, para estimar la magnitud y tipo de riesgos que conlleva dicha contaminación;
 
-X.- CONTAMINACIÓN: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
+IX.- CONSERVACIÓN: La permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del desarrollo, con el fin de no provocar un impacto ambiental negativo y asegurar para las generaciones presentes y venideras, un ambiente propicio para su desarrollo y los recursos naturales que les permitan satisfacer sus necesidades;
 
-XI.- CONTAMINACIÓN VISUAL: Alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico, que tenga carácter comercial o propagandístico o cualquier situación que provoque mal aspecto en relación con su entorno.
+X.- CONTAMINANTE: Toda materia o energía en cualquiera de sus estados físicos y formas, que al incorporarse o actuar en el ambiente altere o modifique negativamente su composición y condición natural;
 
-XII.- CONTINGENCIA AMBIENTAL: Situación de riesgo derivada de actividades humanas o fenómenos naturales que puede poner en peligro la integridad de uno o varios ecosistemas, así como la salud de la población;
+XI.- CONTAMINACIÓN: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
-XIII.- CONTROL: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento y demás disposiciones legales aplicables;
+XII.- CONTAMINACIÓN VISUAL: Alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico, que tenga carácter comercial o propagandístico o cualquier situación que provoque mal aspecto en relación con su entorno.
 
-XIV.- CRITERIOS ECOLÓGICOS: Los lineamientos destinados a preservar y restaurar el equilibrio y proteger el ambiente;
+XIII.- CONTINGENCIA AMBIENTAL: Situación de riesgo derivada de actividades humanas o fenómenos naturales que puede poner en peligro la integridad de uno o varios ecosistemas, así como la salud de la población;
 
-XV.- CUENCA HIDROLÓGICA: Espacio físico-geográfico que comprende una superficie de escurrimiento natural común en donde interactúan los sistemas hidrológicos y físicos;
+XIV.- CONTROL: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento y demás disposiciones legales aplicables;
 
-XVI.- CULTURA ECOLÓGICA: Conjunto de conocimientos, hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
+XV.- CRITERIOS ECOLÓGICOS: Los lineamientos destinados a preservar y restaurar el equilibrio y proteger el ambiente;
 
-XVII.- DAÑO AMBIENTAL: Toda pérdida, deterioro o menoscabo que se actualice en cualquiera de los elementos que conforman un ecosistema, un recurso biológico o natural, o en los que condicionan la salud o la calidad de vida de la población, como resultado de la actividad humana, en contravención a esta Ley, su Reglamento, Normas Oficiales y demás disposiciones jurídicas que resulten aplicables;
+XVI.- CUENCA HIDROLÓGICA: Espacio físico-geográfico que comprende una superficie de escurrimiento natural común en donde interactúan los sistemas hidrológicos y físicos;
 
-XVIII.- DESARROLLO SUSTENTABLE: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas; se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no comprometa la satisfacción de las necesidades de las generaciones futuras;
+XVII.- CULTURA ECOLÓGICA: Conjunto de conocimientos, hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
 
-XIX.- DESEQUILIBRIO ECOLÓGICO: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
+XVIII.- DAÑO AMBIENTAL: Toda pérdida, deterioro o menoscabo que se actualice en cualquiera de los elementos que conforman un ecosistema, un recurso biológico o natural, o en los que condicionan la salud o la calidad de vida de la población, como resultado de la actividad humana, en contravención a esta Ley, su Reglamento, Normas Oficiales y demás disposiciones jurídicas que resulten aplicables;
 
-XX.- DISPOSICIÓN FINAL: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
+XIX.- DESARROLLO SUSTENTABLE: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas; se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XXI.- ECOSISTEMA: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+XX.- DESEQUILIBRIO ECOLÓGICO: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
-XXII.- EDUCACIÓN AMBIENTAL: Proceso permanente y sistematizado de aprendizaje con el propósito de que una persona adquiera conciencia de ser parte integrante de la naturaleza y actúe positivamente hacia ella;
+XXI.- DISPOSICIÓN FINAL: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
 
-XXIII.- EQUILIBRIO ECOLÓGICO: La relación armónica de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del ser humano y demás seres vivos;
+XXII.- ECOSISTEMA: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-XXIV.- ELEMENTOS NATURALES: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del hombre;
+XXIII.- EDUCACIÓN AMBIENTAL: Proceso permanente y sistematizado de aprendizaje con el propósito de que una persona adquiera conciencia de ser parte integrante de la naturaleza y actúe positivamente hacia ella;
 
-XXV.- EMERGENCIA ECOLÓGICA: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas;
+XXIV.- EQUILIBRIO ECOLÓGICO: La relación armónica de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
-XXVI.- EVALUACIÓN DEL RIESGO AMBIENTAL: Proceso metodológico para determinar la probabilidad o posibilidad de que se produzcan efectos adversos, como consecuencia de la exposición de los seres vivos a las sustancias contenidas en los residuos peligrosos o agentes infecciosos que los forman;
+XXV.- ELEMENTOS NATURALES: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del hombre;
 
-XXVII.- FAUNA SILVESTRE: Las especies animales que subsisten sujetas a los procesos de selección natural, cuyas poblaciones habitan temporal o permanentemente en el territorio estatal y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
+XXVI.- EMERGENCIA ECOLÓGICA: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas;
 
-XXVIII.- FLORA SILVESTRE: Las especies vegetales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
+XXVII.- EVALUACIÓN DEL RIESGO AMBIENTAL: Proceso metodológico para determinar la probabilidad o posibilidad de que se produzcan efectos adversos, como consecuencia de la exposición de los seres vivos a las sustancias contenidas en los residuos peligrosos o agentes infecciosos que los forman;
 
-XXIX.- GENERADOR: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
+XXVIII.- FAUNA SILVESTRE: Las especies animales que subsisten sujetas a los procesos de selección natural, cuyas poblaciones habitan temporal o permanentemente en el territorio estatal y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
-XXX.- GESTIÓN INTEGRAL DE RESIDUOS: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+XXIX.- FLORA SILVESTRE: Las especies vegetales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
 
-XXXI.- IMPACTO AMBIENTAL: Modificación del ambiente ocasionado por la acción del hombre o de la naturaleza;
+XXX.- GENERADOR: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
 
-XXXII.- INVENTARIO DE RESIDUOS: Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en este ordenamiento;
+XXXI.- GESTIÓN INTEGRAL DE RESIDUOS: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-XXXIII.- LEY ESTATAL: La presente Ley; así mismo podrá hacerse referencia a ella como ESTA LEY, u otra expresión análoga;
+XXXII.- IMPACTO AMBIENTAL: Modificación del ambiente ocasionado por la acción del hombre o de la naturaleza;
 
-XXXIV.- LEY GENERAL: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XXXIII.- INVENTARIO DE RESIDUOS: Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en este ordenamiento;
 
-XXXV.- MANIFESTACIÓN DEL IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios de análisis de riesgo, el impacto ambiental significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XXXIV.- LEY ESTATAL: La presente Ley; así mismo podrá hacerse referencia a ella como ESTA LEY, u otra expresión análoga;
 
-XXXVI.- MANEJO INTEGRAL: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+XXXV.- LEY GENERAL: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXXVII.- MEJORAMIENTO: La modificación planeada de los elementos y condiciones de un ambiente alterado, a fin de beneficiar a los organismos vivos que lo habitan y proteger los bienes materiales del hombre;
+XXXVI.- MANIFESTACIÓN DEL IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios de análisis de riesgo, el impacto ambiental significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-XXXVIII.- MICROGENERADOR: Establecimiento industrial, comercial o de servicios, que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
+XXXVII.- MANEJO INTEGRAL: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-> <small>(F. DE E., P.O. 5 DE OCTUBRE DE 2005)</small>
+XXXVIII.- MEJORAMIENTO: La modificación planeada de los elementos y condiciones de un ambiente alterado, a fin de beneficiar a los organismos vivos que lo habitan y proteger los bienes materiales del hombre;
 
-XXXIX.- Someter a consideración... (sic) ORDENAMIENTO ECOLÓGICO: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+XXXIX.- MICROGENERADOR: Establecimiento industrial, comercial o de servicios, que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
 
-XL.-PLAN DE MANEJO: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2009)</small>
 
-XLI.- PRESERVACIÓN: El conjunto de políticas y medidas para mantener las condiciones que propician la evolución y continuidad de los procesos naturales;
+XL.- ORDENAMIENTO ECOLÓGICO: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-XLII.- PREVENCIÓN: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XLI.- PLAN DE MANEJO: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
 
-XLIII.- PROTECCIÓN: El conjunto de políticas y medidas para prevenir y controlar el deterioro ambiental;
+XLII.- PRESERVACIÓN: El conjunto de políticas y medidas para mantener las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-XLIV.- RECURSO NATURAL: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XLIII.- PREVENCIÓN: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-XLV.- REGIÓN ECOLÓGICA: La unidad del territorio estatal que comparte características ecológicas comunes;
+XLIV.- PROTECCIÓN: El conjunto de políticas y medidas para prevenir y controlar el deterioro ambiental;
 
-XLVI.- RESERVA ECOLÓGICA: Área relativamente extensa con uno o varios ecosistemas con características sobresalientes, poco o no alterados por actividades humanas, donde las comunidades y especies son de importancia nacional; con frecuencia poseen ecosistemas o formas de frágiles zonas de importante diversidad biótica o geológica, especies de plantas y animales endémicas en peligro de extinción o de particular importancia para la conservación de los recursos genéticos;
+XLV.- RECURSO NATURAL: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-XLVII.- RESIDUO: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+XLVI.- REGIÓN ECOLÓGICA: La unidad del territorio estatal que comparte características ecológicas comunes;
 
-XLVIII.- RESIDUO NO PELIGROSO: Material que proviene de actividad desarrollada por el hombre, que no sea residuo peligroso o de lenta degradación;
+XLVII.- RESERVA ECOLÓGICA: Área relativamente extensa con uno o varios ecosistemas con características sobresalientes, poco o no alterados por actividades humanas, donde las comunidades y especies son de importancia nacional; con frecuencia poseen ecosistemas o formas de frágiles zonas de importante diversidad biótica o geológica, especies de plantas y animales endémicas en peligro de extinción o de particular importancia para la conservación de los recursos genéticos;
 
-XLIX.- RESIDUOS PELIGROSOS: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables, biológicas, infecciosas, irritantes o mutagénicas, representan un peligro para el equilibrio ecológico o el ambiente;
+XLVIII.- RESIDUO: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
-L.- RESTAURACIÓN: Conjunto de actividades encaminadas a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+XLIX.- RESIDUO NO PELIGROSO: Material que proviene de actividad desarrollada por el hombre, que no sea residuo peligroso o de lenta degradación;
 
-LI.- RECICLADO: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
+L.- RESIDUOS PELIGROSOS: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables, biológicas, infecciosas, irritantes o mutagénicas, representan un peligro para el equilibrio ecológico o el ambiente;
 
-LII.- REMEDIACIÓN: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud y el ambiente o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley;
+LI.- RESTAURACIÓN: Conjunto de actividades encaminadas a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LIII.- RESIDUOS DE MANEJO ESPECIAL: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos, definidos como tales en la Ley General para la Prevención y Gestión Integral de los Residuos;
+LII.- RECICLADO: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
 
-LIV.- RESIDUOS SÓLIDOS URBANOS: Los generados en las casas-habitación, orgánicos o inorgánicos, que resultan de la eliminación de los materiales que se utilizan en actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+LIII.- REMEDIACIÓN: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud y el ambiente o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley;
 
-LV.- REUTILIZACIÓN: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+LIV.- RESIDUOS DE MANEJO ESPECIAL: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos, definidos como tales en la Ley General para la Prevención y Gestión Integral de los Residuos;
 
-LVI.- SITIO CONTAMINADO: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que haya sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
+LV.- RESIDUOS SÓLIDOS URBANOS: Los generados en las casas-habitación, orgánicos o inorgánicos, que resultan de la eliminación de los materiales que se utilizan en actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-LVII.- TRATAMIENTO: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad;
+LVI.- REUTILIZACIÓN: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 
-LVIII.- TRATAMIENTO DE AGUA RESIDUAL: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+LVII.- SITIO CONTAMINADO: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que haya sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
 
-LIX.- VOCACIÓN NATURAL: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos y para mantener la tasa de renovación de las especies;
+LVIII.- TRATAMIENTO: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad;
 
-LX.- SECRETARÍA: La Secretaría de Desarrollo Urbano y Ecología.
+LVIX.- TRATAMIENTO DE AGUA RESIDUAL: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+
+LX.- VOCACIÓN NATURAL: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos y para mantener la tasa de renovación de las especies;
+
+LXI.- SECRETARÍA: La Secretaría de Desarrollo Urbano y Ecología.
 
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA DEL ESTADO Y LOS MUNICIPIOS Y DE LA GESTIÓN AMBIENTAL
 
@@ -287,9 +291,13 @@ XXII.- La expedición de Normas Técnicas Ecológicas Estatales y el establecimi
 
 XXIII.- La aplicación de sanciones administrativas por violaciones a la presente Ley, sus reglamentos y demás disposiciones, en los términos previstos en la presente ley;
 
-XXIV.- Celebrar convenios en materia ambiental; y
+XXIV.- Celebrar convenios en materia ambiental; y (sic)
 
-XXV.- Las demás atribuciones que conformen a esta Ley y otros ordenamientos aplicables le correspondan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2009)</small>
+
+XXV.- La formulación, desarrollo y ejecución del Programa Estatal contra el Cambio Climático, el cual debe incluir medidas de mitigación para las consecuencias negativas que genera sobre el entorno natural, así como de adaptación ante los efectos inevitables de este fenómeno, y
+
+XXVI.- Las demás atribuciones que conformen a esta Ley y otros ordenamientos aplicables le correspondan.
 
 ###### ARTÍCULO 8.
 
@@ -361,9 +369,13 @@ XXX.- Coadyuvar en la promoción de la prevención de la contaminación del suel
 
 XXXI.- Coadyuvar con la Federación en la protección y conservación de especies de flora y fauna nativas;
 
-XXXII.- Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales; y
+XXXII.- Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales; y (sic)
 
-XXXIII.- Las demás facultades que conforme a esta Ley u otras disposiciones legales le correspondan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2009)</small>
+
+XXXIII.- Conducir el proceso de implementación y funcionamiento del Programa Estatal contra el Cambio Climático, así como coordinarse con las autoridades competentes para su aplicación en los Municipios del Estado, y
+
+XXXIV.- Las demás facultades que conforme a esta Ley u otras disposiciones legales le correspondan.
 
 Las atribuciones que esta Ley otorga al Poder Ejecutivo del Estado, serán ejercidas a través de la Secretaría, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de la ley.
 
@@ -389,7 +401,7 @@ VIII.- El establecimiento de medidas para retirar de la circulación, los vehíc
 
 IX.- El otorgamiento de las concesiones para el establecimiento y operación de sistemas de verificación vehicular, cumpliéndose previamente con los requisitos que señale la normatividad aplicable;
 
-X.-La puesta en práctica de medidas de inspección, medición y evaluación, para evitar que los niveles de concentración de contaminantes en la atmósfera emitidos por los vehículos automotores, rebasen los límites máximos permisibles que determinen los reglamentos, la Normas Oficiales Mexicanas y las Normas Técnicas Ecológicas Estatales aplicables;
+X.- La puesta en práctica de medidas de inspección, medición y evaluación, para evitar que los niveles de concentración de contaminantes en la atmósfera emitidos por los vehículos automotores, rebasen los límites máximos permisibles que determinen los reglamentos, la Normas Oficiales Mexicanas y las Normas Técnicas Ecológicas Estatales aplicables;
 
 XI.- Otorgamiento de las autorizaciones para el uso del suelo y de las licencias de construcción u operación, dependiendo del resultado satisfactorio de la evaluación de impacto ambiental, en el caso de proyectos de obras, acciones y servicios que se mencionan en esta Ley;
 
@@ -439,7 +451,11 @@ I).- Coadyuvar en la prevención de la contaminación de sitios con materiales y
 
 J).- Efectuar el cobro por el pago de los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la operación y el fortalecimiento de los mismos;
 
-XXIV.- Las demás facultades que conforme a esta Ley les corresponden.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2009)</small>
+
+XXIV.- Coadyuvar con la Secretaría, en la aplicación de las acciones que deriven del Programa Estatal contra el Cambio Climático, y
+
+XXV.- Las demás facultades que conforme a esta Ley les corresponden.
 
 En cada municipio podrá existir una unidad administrativa encargada de aplicar las disposiciones de esta ley y demás ordenamientos de la materia.
 
@@ -2510,6 +2526,12 @@ La Sexagésima Segunda Legislatura del H. Congreso del Estado, tiene a bien exho
 ###### ARTÍCULO CUARTO.
 
 La Sexagésima Segunda Legislatura del H. Congreso del Estado, tiene a bien exhortar de manera atenta y respetuosa a la Cámara Nacional de Comercio, Servicios y Turismo de Chihuahua y a la Confederación Patronal de la República Mexicana en Chihuahua, para que promuevan entre sus agremiados el uso y distribución de bolsas reciclables o biodegradables, como contribución a la disminución de la contaminación que producen las bolsas de polietileno o con derivados del petróleo.
+
+P.O. 26 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Desarrollo Urbano y Ecología del Gobierno del Estado de Chihuahua, contara con un plazo de ciento ochenta días hábiles para la elaboración del Programa Estatal contra el Cambio Climático, mismos que comenzarán a computarse a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO QUINTO.
 
