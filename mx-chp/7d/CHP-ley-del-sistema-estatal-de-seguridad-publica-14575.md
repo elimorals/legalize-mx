@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-estatal-de-seguridad-publica-14575"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-05"
-last_updated: "2006-12-20"
+last_updated: "2009-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEPTIMO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, PUBLICADA EN EL P.O. DE 26 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 5 de mayo de 1999.
 
@@ -918,3 +920,21 @@ P.O. 20 DE DICIEMBRE DE 2006.
 Artículo Primero.- El presente decreto, entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente decreto.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE AGOSTO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- De manera progresiva y en un plazo de cuatro años a partir de la entrada en vigor de este Decreto, las Instituciones de Seguridad Pública, por conducto del Centro Estatal de Control de Confianza Certificado, deberán practicar las evaluaciones respectivas a sus integrantes, de conformidad con lo dispuesto en esta Ley, sus respectivos ordenamientos legales y el calendario aprobado por el Consejo Estatal.
+
+Artículo Tercero.- Todos los integrantes de las Instituciones de Seguridad Pública deberán contar con el certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y esta Ley, en los términos y plazos previstos en el artículo transitorio anterior. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Artículo Cuarto.- Los servicios de carrera vigentes en las Instituciones de Seguridad Pública a la fecha de entrada en vigor de este Decreto, deberán ajustarse a los requisitos, criterios y procedimientos que establece esta Ley y las leyes aplicables, en la rama correspondiente, en un plazo no mayor a un año.
+
+Artículo Quinto.- Los servidores públicos que obtengan el certificado y que satisfagan los requisitos de ingreso y permanencia que se establecen en esta Ley y los ordenamientos legales federales y estatales aplicables, ingresarán o serán homologados al servicio de carrera, en las ramas ministerial, policial y pericial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables, de conformidad con lo previsto en el presente Decreto.
+
+Artículo Sexto.- El Consejo Estatal someterá a consideración del Ejecutivo Estatal las disposiciones reglamentarias de la presente Ley en un plazo no mayor a dieciocho meses a partir de la entrada en vigor de este Decreto, para su aprobación y publicación.
+
+Artículo Septimo.- Se abroga la Ley del Sistema Estatal de Seguridad Pública y se derogan las demás disposiciones que se opongan a la presente Ley.
