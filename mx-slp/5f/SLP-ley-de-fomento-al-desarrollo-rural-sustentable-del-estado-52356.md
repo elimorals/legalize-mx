@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-52356
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-19"
-last_updated: "2008-12-18"
+last_updated: "2009-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSI
+LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el martes 19 de septiembre de 2006.
 
@@ -71,197 +71,263 @@ IX. Conservar y mejorar la infraestructura hidráulica en el sector rural, y
 
 X. Determinar los mecanismos de coordinación entre las instituciones públicas federal, estatales, municipales o privadas que incidan en el sector rural, con la participación de las organizaciones de productores, en lo individual o en forma colectiva, en los procesos de planeación, regulación, fomento y promoción del desarrollo agrícola, hidráulico, pecuario, pesquero, acuícola, apícola, ecoturismo y agroindustrial del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 3°.
 
-Para los efectos de esta Ley se entenderá por:
+Para los efectos de esta Ley, se entenderá por:
 
-Acuacultura: se entiende como el cultivo de especies de la flora y la fauna acuática, mediante el empleo de métodos y técnicas para su desarrollo controlado en todo estado biológico y ambiental acuático y en cualquier tipo de instalación.
+I. Acuacultura: se entiende como el cultivo de especies de la flora y la fauna acuática, mediante el empleo de métodos y técnicas para su desarrollo controlado en todo estado biológico y ambiental acuático y en cualquier tipo de instalación;
 
-Acuacultor: persona física o moral que intervenga en el proceso de producción acuícola.
+II. Acuacultor: persona física o moral que intervenga en el proceso de producción acuícola;
 
-Agostadero: terreno cubierto con una vegetación nativa o mejorada y que constituye una fuente de forraje para el pastoreo extensivo de los animales domésticos y fauna silvestre, que por su naturaleza, ubicación, potencial y aptitud no pueden ser considerados susceptibles para la agricultura.
+III. Aditivo: sustancia que se agrega a los alimentos para animales, sin valor nutritivo que mejoran la eficiencia alimenticia, incrementan la resistencia de los animales a las enfermedades, y facilita la disponibilidad de los nutrimentos esenciales con el uso mínimo de energía;
 
-Agostadero nativo: es aquel que sustenta vegetación propia del lugar.
+IV. Agostadero: terreno cubierto con una vegetación nativa o mejorada, y que constituye una fuente de forraje para el pastoreo extensivo de los animales domésticos y fauna silvestre, que por su naturaleza, ubicación, potencial y aptitud no pueden ser considerados susceptibles para la agricultura;
 
-Agostadero mejorado: es aquél en que mediante la fertilización, obras de conservación de suelo yagua, control de especies indeseables y otros métodos, se incremente la productividad forrajera de la vegetación nativa.
+V. Agostadero nativo: es aquél que sustenta vegetación propia del lugar;
 
-Agroindustria: empresas destinadas a la producción, procesamiento, transformación, servicios o comercialización de productos agropecuarios, pesqueros y acuícolas.
+VI. Agostadero mejorado: es aquél en que mediante la fertilización, obras de conservación de suelo y agua, control de especies indeseables y otros métodos, se incremente la productividad forrajera de la vegetación nativa;
 
-Apiario: conjunto de colmenas pobladas, instaladas en un lugar determinado.
+VII. Agroindustria: empresas destinadas a la producción, procesamiento, transformación, servicios o comercialización de productos agropecuarios, pesqueros y acuícolas;
 
-Apicultor: toda persona física o moral dedicada a la cría, reproducción, mejoramiento y explotación de las abejas.
+VIII. Apiario: conjunto de colmenas pobladas, instaladas en un lugar determinado;
 
-Apicultora la actividad que comprende la cría, reproducción, mejoramiento y explotación de las abejas, para producción de miel y cera.
+IX. Apicultor: moda persona física o moral dedicada a la cría, reproducción, mejoramiento y explotación de las abejas;
 
-Arete: objeto plástico o metálico que se fija en las orejas del ganado mayor y menor que tiene grabadas las siglas, números o cifras que identifican al animal o a su propietario.
+X. Apicultura: la actividad que comprende la cría, reproducción, mejoramiento y explotación de las abejas para producción de miel y cera;
 
-Asistencia Técnica: conjunto de actividades tendientes a mejorar los niveles de producción y productividad mediante acciones continuadas, programadas y actualizadas, basadas en la experiencia y la investigación, con mecanismos como la transferencia de tecnología e inspecciones técnicas que se realicen a las explotaciones productivas.
+XI. Arete: objeto plástico o metálico que se fija en las orejas del ganado mayor y menor que tiene grabadas las siglas, números o cifras que identifican al animal o a su propietario;
 
-Avicultor: la persona física o moral que se dedique a la cría, reproducción, mejoramiento y explotación de las abejas.
+XII. Asistencia técnica: conjunto de actividades tendientes a mejorar los niveles de producción y productividad mediante acciones continuadas, programadas y actualizadas, basadas en la experiencia y la investigación, con mecanismos como la transferencia de tecnología e inspecciones técnicas que se realicen a las explotaciones productivas;
 
-Avicultura: la cría, reproducción, mejoramiento y explotación de las especies y variedades de aves domésticas, útiles para la alimentación humana o para la obtención de otros beneficios, directamente o por el aprovechamiento de sus productos y subproductos.
+XIII. Avicultor: la persona física o moral que se dedique a la cría, reproducción, mejoramiento y explotación de las aves domésticas;
 
-Agricultura orgánica: es un sistema de producción en el cual se utilizan insumos naturales para producir alimentos libres de residuos tóxicos, mediante un programa de manejo que no daña y proteja al medio ambiente y la salud humana. No se incluye el uso de pesticidas, fertilizantes ni otros productos de origen químico para producir.
+XIV. Avicultura: la cría, reproducción, mejoramiento y explotación de las especies y variedades de aves domésticas, útiles para la alimentación humana o para la obtención de otros beneficios, directamente o por el aprovechamiento de sus productos y subproductos;
 
-Actor: es un integrante ocasional de la cadena productiva que contribuye de manera indirecta en la generación de valor con los instrumentos de apoyo del estado y federales.
+XV. Agricultura orgánica: es un sistema de producción en el cual se utilizan insumos naturales para producir alimentos libres de residuos tóxicos, mediante un programa de manejo que no daña y proteja al medio ambiente y la salud humana. No se incluye el uso de pesticidas, fertilizantes, ni otros productos de origen químico para producir;
 
-Agente: es un integrante de la cadena productiva que genera valor o productor, comercializador, industrial.
+XVI. Actor: es un integrante ocasional de la cadena productiva que contribuye de manera indirecta, en la generación de valor con los instrumentos de apoyo del Estado y federales;
 
-Caprinocultura: la cría, reproducción, mejoramiento y explotación de los caprinos.
+XVII. Agente: es un integrante de la cadena productiva que genera valor o productor, comercializador, industrial;
 
-Caprinocultor: la persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los caprinos.
+XVIII. Alimento: conjunto de ingredientes, minerales, vitaminas, y otros compuestos (aditivos y suplementos), que mezclados conforman una dieta balanceada en su contenido nutrimental, destinada a cumplir con las necesidades alimenticias de un especie animal y fase productiva determinada;
 
-Carga animal óptima: es el número de animales que pueden ser alimentados mediante el uso de la vegetación presente, sin detrimento de los recursos naturales.
+XIX. B (Beta) adrenérgico agonista receptor: las sustancias fisiológicas son la epinefrina y norepinefrina. Las sustancias sintéticas son moléculas orgánicas que algunas de ellas cuando se suministran a los animales, se unen a un receptor B adrenérgico, originando un complejo que actúa promoviendo la producción de proteína y disminuyendo la síntesis de grasa;
 
-Certificado zoosanitario: documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, o por quienes ésta apruebe, para certificar el cumplimiento de las normas en materia de sanidad animal.
+XX. Caprinocultura: la cría, reproducción, mejoramiento y explotación de los caprinos;
 
-Certificado fitosanitario: documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, o por quienes ésta apruebe, para constatar el cumplimiento de las normas en materia de sanidad vegetal.
+XXI. Caprinocultor: la persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los caprinos;
 
-Colmena: la caja o cajón que se destina para habitación de las abejas, a fin de que ahí finquen sus panales para almacenamiento de miel y cera.
+XXII. Carga animal óptima: es el número de animales que pueden ser alimentados mediante el uso de la vegetación presente, sin detrimento de los recursos naturales;
 
-Comercialización: acciones tendientes a obtener condiciones favorables para la compra-venta de productos, subproductos y servicios agrícolas, ganaderos, turísticos, pesqueros, apícolas y acuícolas.
+XXIII. Cadena alimenticia: se refiere al sistema integral que incluye la unidad de producción primaria, que comprende las unidades de producción pecuaria de una especie productiva en especial, de los establecimientos y organismos que la apoyan, obteniéndose productos directos e indirectos del animal vivo o sacrificado, que se transforman en la unidad de producción secundaria, obteniéndose productos y subproductos alimenticios e industriales, que se comercializan para cubrir la demanda del consumidor final;
 
-Condición de pastizal o agostadero: es el estado que presenta la vegetación del pastizal con respecto a la condición óptima o establecida en el Coeficiente de Agostadero.
+XXIV. Calidad alimenticia: es un indicador garantizado del contenido nutrimental de un ingrediente o alimento, especificando los valores mínimos de cada elemento con referencia a una medida de peso o volumen, en un lapso de tiempo que se especifica con una fecha de caducidad;
 
-Control de movilización: es el proceso que incluye: previo a la movilización, la expedición de la guía de tránsito, del certificado zoosanitario y los dictámenes y constancias correspondientes; durante la movilización, la verificación física de animales, sus productos y subproductos, así como de los productos biológicos, químicos, farmacéuticos y alimenticios para uso en animales o consumo por éstos, con el fin primordial de evitar la diseminación de enfermedades de una zona a otra.
+XXV. Carnicería: establecimiento donde se realiza la venta de carne proveniente de diversas especies animales, especialmente de bovino, y que proceden de otras fuentes, ya sea estatal, de entidades vecinas, e incluso de importación. Generalmente la presentación básica es la canal, para que el expendedor realice los cortes que el cliente solicite;
 
-Constancia de origen de productos regulados fitosanitarios: es el documento que avala la sanidad de los productos a movilizar en el Estado.
+XXVI. Certificado zoosanitario: documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, o por quienes ésta apruebe, para certificar el cumplimiento de las normas en materia de sanidad animal;
 
-Decantador: a quien se dedique a la purificación, refinación o exportación de miel de abeja.
+XXVII. Certificado fitosanitario: documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, o por quienes ésta apruebe, para constatar el cumplimiento de las normas en materia de sanidad vegetal;
 
-Empresas lecheras: a todas las personas físicas o morales legalmente constituidas o a las sociedades de hecho, con fundos denominados ranchos, establos o granjas lecheras formados por tierras propias, poseídas o arrendadas, con ganado lechero, edificaciones y maquinarias u otros implementos que se dediquen a la explotación de las razas mencionadas y produzcan e industrialicen la leche y sus derivados.
+XXVIII. Colmena: la caja o cajón que se destina para habitación de las abejas, a fin de que ahí finquen sus panales para almacenamiento de miel y cera;
 
-Enfermedad: ruptura del equilibrio en la integración entre un animal o vegetal, un agente biológico y el medio ambiente, que provoca alteraciones en las manifestaciones vitales del primero.
+XXIX. Comercialización: acciones tendientes a obtener condiciones favorables para la compra-venta de productos, subproductos y servicios agrícolas, ganaderos, turísticos, pesqueros, apícolas y acuícolas;
 
-Enjambre: conjunto de abejas compuestas por reina y obreras, que por proceso natural tienden a dividirse de la colmena madre.
+XXX. Condición de pastizal o agostadero: es el estado que presenta la vegetación del pastizal con respecto a la condición óptima, o establecida en el coeficiente de agostadero;
 
-Enzootia: cualquier enfermedad del ganado que se manifiesta habitualmente o en épocas fijas, en determinadas regiones.
+XXXI. Control de movilización: es el proceso que incluye, previo a la movilización, la expedición de la guía de tránsito, del certificado zoosanitario, los dictámenes y constancias correspondientes; durante la movilización, la verificación física de animales, sus productos y subproductos, así como de los productos biológicos, químicos, farmacéuticos y alimenticios para uso en animales o consumo por éstos, con el fin primordial de evitar la diseminación de enfermedades de una zona a otra;
 
-Epizootia: enfermedad que acomete a una o varias especies de animales, por una causa general y transitoria con una frecuencia o intensidad mayor a la normal.
+XXXII. Constancia de origen de productos regulados fitosanitarios: es el documento que avala la sanidad de los productos a movilizar en el estado;
 
-Equivalencia: para efectos de esta ley un vientre bovino o unidad animal equivale a: una yegua, tres cerdas, seis cabras, cinco borregas, cien gallinas, cincuenta conejas y cinco colmenas de abejas.
+XXXIII. CEFPP: Comité Estatal de Fomento y Protección Pecuaria;
 
-Para las especies no incluidas en el párrafo anterior, la equivalencia será determinada por la SEDARH mediante acuerdo de su titular que se publicará en el Periódico Oficial del Estado.
+XXXIV. CG-EM: Cromatografía de Gas Acoplado a un Espectrómetro de Masas;
 
-Especies diversas: aquéllas especies silvestres que constituyen una explotación zootécnica económica no enumerada.
+XXXV. CLAR: Cromatógrafo de Líquidos de Alta Resolución;
 
-Especies menores: las aves, los conejos y las abejas, así como aquellas otras especies no silvestres que constituyen una explotación zootécnica económica no enumerada.
+XXXVI. Clenbuterol (clorhidrato): nombre químico: hidrocloro, 4 amino alfa [(Pert-butylamino)metil]- 3,5 diclorobenzil alcohol. Es un a (sic) adrenérgíco agonista receptor, potente bronquio dilatador, anabólico y agente lipolítico y repartidor que fomenta la producción de proteína y reduce la grasa. Prohibido su uso como promotor de la producción animal, debido a su efecto residual en los productos cárnicos que al consumirse ocasionan efectos negativos en la salud humana, originando un efecto tóxico que se manifiesta por un malestar general, trastornos de tipo cardiovascular y respiratorio que afectan su salud e, incluso, agrava el cuadro clínico de personas previamente afectadas, y en caso de complicación grave, sobrevenir la muerte;
 
-Especies de peletería: aquéllas cuya piel sea susceptible de aprovecharse en la industria.
+XXXVII. CLIC: Certificado Libre Clenbuterol;
 
-Establecimiento Tipo Inspección Federal (TIF): cualquier negociación o empresa facultada por la SAGARPA para sacrificar, conservar, beneficiar o aprovechar los ganados de abasto o sus carnes, productos o subproductos en el que se observan los lineamientos vigentes sobre instalaciones, equipamiento y proceso sanitario de la carne.
+XXXVIII. COLIC: Constatación Libre de Clenbuterol;
 
-Establo: empresa pecuaria especializada en la cría, reproducción, mejoramiento, manejo y comercialización de ganado bovino lechero.
+XXXIX. Comercios (diversos de venta de productos cárnicos): establecimientos de autoservicio o especializados en la venta de carnes y subproductos, conservados en refrigeración o congelación;
 
-Estación cuarentenaria: conjunto de instalaciones especializadas para el aislamiento de animales, donde se practican medidas zoosanitarias para prevenir y controlar la diseminación de enfermedades y plagas de los animales.
+XL. Conversión alimenticia: es la medida de producción directa o incremento de peso de un animal, expresado en cantidad de alimento (kilogramos) consumido, para lograr un kilogramo de producto o peso corporal;
 
-Evaluación periódica de agostadero: proceso de vigilancia que permite observar los cambios en la condición del agostadero.
+XLI. Decantador: a quien se dedique a la purificación, refinación o exportación de miel de abeja;
 
-Explotación pecuaria o ganadera: conjunto de actividades y bienes necesarios para la cría, reproducción, mejoramiento y explotación de las distintas especies de ganado y especies de animales domésticos, así como el aprovechamiento de los productos y subproductos del mismo, o su engorda, ordeña, trasquila, preparación, conservación o empaque, todo ello con propósito de comercialización.
+XLII. Empresas lecheras: a todas las personas físicas o morales legalmente constituidas o a las sociedades de hecho, con fundos denominados ranchos, establos o granjas lecheras formados por tierras propias, poseídas o arrendadas, con ganado lechero, edificaciones y maquinarias u otros implementos que se dediquen a la explotación de las razas mencionadas, y produzcan e industrialicen la leche y sus derivados;
 
-Fauna: conjunto de animales de una región determinada.
+XLIII. Enfermedad: ruptura del equilibrio en la interacción entre un animal o vegetal, un agente biológico y el medio ambiente, que provoca alteraciones en las manifestaciones vitales del primero;
 
-Flora: conjunto de las plantas que crecen en una región.
+XLIV. Enjambre: conjunto de abejas compuestas por reina y obreras, que por proceso natural tienden a dividirse de la colmena madre;
 
-Fierro, reseña o marca de herrar: la que se graba de manera visible en cualquier parte del cuerpo del ganado mayor y menor con hierro candente o marcado en frío.
+XLV. Enzootia: cualquier enfermedad del ganado que se manifiesta habitualmente o en épocas fijas, en determinadas regiones;
 
-Ganadería: conjunto de acciones para la explotación racional de especies animales orientadas a la producción de carne, leche, huevo, miel, piel, lana y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano.
+XLVI. Epizootia: enfermedad que acomete a una o varias especies de animales, por una causa general y transitoria, con una frecuencia o intensidad mayor a la normal;
 
-Ganadero: persona física o moral que se dedica a la cría, producción, fomento y explotación racional de alguna especie animal.
+XLVII. Equivalencias: para efectos de esta Ley un vientre bovino o unidad animal equivale a, una yegua, tres cerdas, seis cabras, cinco borregas, cien gallinas, cincuenta conejas y cinco colmenas de abejas.
 
-Ganado: conjunto de animales domésticos que aprovecha el hombre para obtener sus productos o subproductos y que coadyuven con él a realizar sus trabajos o para trasladarlo de un lugar a otro.
+Para las especies no incluidas en el párrafo anterior, la equivalencia será determinada por la SEDARH mediante acuerdo de su titular, que se publicará en el Periódico Oficial del Estado;
 
-Ganado mayor: las especies bovina y equina, comprendiendo esta última la caballar, mular y asnal.
+XLVIII. Especies diversas: aquéllas especies silvestres que constituyen una explotación zootécnica económica no enumerada;
 
-Ganado menor: las especies ovina, caprina y porcina.
+XLIX. Especies menores: las aves, los conejos y las abejas, así como aquellas otras especies no silvestres que constituyen una explotación zootécnica económica no enumerada;
 
-Ganado lechero: para la especie bovina son los animales de las razas «Holstein u Holandesa», «Jersey», «Guernsey», «Suiza», «Ayrshiere», «Shorthorn» y sus cruzas. Para la especie caprina, son los animales de las razas «Granadina», «Toggenburg», «Alpino», «Saanen», «Nubia», «Murciana», o las cruzas de éstas; y todas aquellas razas conocidas por las Asociaciones correspondientes.
+L. Especies de peletería: aquéllas cuya piel sea susceptible de aprovecharse en la industria;
 
-Granja avícola: la empresa pecuaria especializada en la cría, reproducción, mejoramiento y explotación de aves.
+LI. Establecimiento Tipo Inspección Federal (TIF): cualquier negociación o empresa facultada por la SAGARPA para sacrificar, conservar, beneficiar o aprovechar los ganados de abasto o sus carnes, productos o subproductos, en el que se observan los lineamientos vigentes sobre instalaciones, equipamiento y proceso sanitario de la carne;
 
-Granja caprina: la empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los caprinos, ya sea para pie de cría, producción de leche o para el abasto.
+LII. Establo: empresa pecuaria especializada en la cría, reproducción, mejoramiento, manejo y comercialización de ganado bovino lechero;
 
-Granja ovina: la empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los ovinos o borregos ya sea para pie de cría, producción de leche o para el abasto.
+LIII. Estación cuarentenaria: conjunto de instalaciones especializadas para el aislamiento de animales, donde se practican medidas zoosanitarias para prevenir y controlar la diseminación de enfermedades y plagas de los animales;
 
-Granja porcícola: la empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los cerdos, ya sea para pie de cría o para el abasto.
+LIV. Evaluación periódica de agostadero: proceso de vigilancia que permite observar los cambios en la condición del agostadero;
 
-INIFAP: Instituto Nacional de Investigación Forestal, Agrícola y Pecuaria.
+LV. Explotación pecuaria o ganadera: conjunto de actividades y bienes necesarios para la cría, reproducción, mejoramiento y explotación de las distintas especies de ganado y especies de animales domésticos, así como el aprovechamiento de los productos y subproductos del mismo, o su engorda, ordeña, trasquila, preparación, conservación o empaque, todo ello con propósito de comercialización;
 
-Identificación electrónica: elemento electromagnético que se implanta por vía subcutánea o intramuscular en el animal, el cual contiene los datos de identidad del mismo y de su propietario.
+LVI. Eficiencia alimenticia: es el rendimiento de producción directa o incremento de peso de un animal, expresado en kilogramos, con relación al consumo de un kilogramo de alimento;
 
-Leche: se considera como leche el producto íntegro natural del ordeño completo de la glándula mamaria de uno o más animales sanos, con exclusión del producto obtenido quince días antes del parto y cinco días después.
+LVII. ELISA: ensayo de enzima ligado a un inmuno absorbente;
 
-Se designará con el nombre genérico de Leche a la producida por las hembras bovinas. La que proceda de otras especies de animales se denominará con el nombre de la productora.
+LVIII. Empacadora de carne: establecimiento que procesa carne fresca o congelada mediante sistemas mecanizados, para la elaboración de cortes, piezas especiales, subproductos alimenticios (embutidos), los cuales se empacan con y sin vacío para su conservación;
 
-Leche adulterada: a la que se han sustraído alguno o varios de sus componentes normales o a la que se ha agregado cualquiera otra sustancia.
+LIX. Fauna: conjunto de animales de una región determinada;
 
-Leche alterada: aquélla en la que cualquiera de sus componentes ha sufrido modificación o transformación natural.
+LX. Flora: conjunto de las plantas que crecen en una región;
 
-Leche sucia: la que deja sedimento mayor que el permitido para cada una de las categorías sanitarias correspondientes.
+LXI. Fierro, reseña o marca de herrar: la que se graba de manera visible en cualquier parte del cuerpo del ganado mayor y menor, con hierro candente o marcado en frío;
 
-Leche contaminada: aquella cuya cuenta de bacterias sea superior a las permitidas en la categoría sanitaria que fije el Reglamento.
+LXII. Frigorífico fijo y móvil: centros refrigerados fijos instalados en bodegas o en los comercios de venta de productos cárnicos y móviles, son auto transportes refrigerados que se utilizan para la distribución de productos cárnicos a las empresas dedicadas a su comercialización;
 
-Marca de venta: es potestativa y se pone comúnmente en el miembro anterior del mismo lado del fierro que se nulifica.
+LXIII. Ganadería: conjunto de acciones para la explotación racional de especies animales orientadas a la producción de carne, leche, huevo, miel, piel, lana y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano;
 
-Media estabulación: el ganado que duerme diariamente en establo y se mantiene en el campo durante el día.
+LXIV. Ganadero: persona física o moral que se dedica a la cría, producción, fomento y explotación racional de alguna especie animal;
 
-Mejoramiento del pastizal: son las prácticas de manejo tendientes a elevar la condición del pastizal, como fertilización, conservación del suelo y agua, control de plantas indeseables y división de potreros, entre otras.
+LXV. Ganado: conjunto de animales domésticos que aprovecha el hombre para obtener sus productos o subproductos, y que coadyuven con él a realizar sus trabajos o para trasladarlo de un lugar a otro;
 
-Ordeña de campo: la que se hace fuera del establo.
+LXVI. Ganado mayor: las especies bovina y equina, comprendiendo ésta última la caballar, mular y asnal;
 
-Organismos auxiliares en materia de sanidad animal y vegetal: aquéllas organizaciones de productores, comercializadores, agroindustriales responsables de la ejecución de los programas de sanidad animal y sanidad vegetal en el Estado.
+LXVII. Ganado menor: las especies ovina, caprina y porcina;
 
-Ovinocultor: la persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los ovinos o borregos.
+LXVIII. Ganado lechero: para la especie bovina son los animales de las razas, "Holstein u Holandesa", "Jersey", "Guernsey", "Suiza", "Ayrshiere", "Shorthorn" y sus cruzas. Para la especie caprina son los animales de las razas, "Granadina", "Toggenburg", "Alpino", "Saanen", "Nubia", "Murciana", o las cruzas de éstas; y todas aquellas razas conocidas por las asociaciones correspondientes;
 
-Ovinocultura: la cría, reproducción, mejoramiento y explotación de los ovinos o borregos.
+LXIX. Granja avícola: la empresa pecuaria especializada en la cría, reproducción, mejoramiento y explotación de aves;
 
-Pastizal: terreno donde abundan los pastos, o donde las gramíneas son la vegetación predominante, que sirven para la alimentación del ganado.
+LXX. Granja caprina: la empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los caprinos, ya sea para pie de cría, producción de leche o para el abasto;
 
-Pasto: nombre que se le da a las especies de la familia de las gramíneas.
+LXXI. Granja ovina: la empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los ovinos o borregos, ya sea para pie de cría, producción de leche o para el abasto;
 
-Patente: es el documento que la autoridad municipal expide al ganadero para comprobar que su fierro, marca, señal o tatuaje ha quedado legalmente registrado o revalidado.
+LXXII. Granja porcícola: la empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los cerdos, ya sea para pie de cría o para el abasto;
 
-Pesca: se entiende como el acto de extraer, capturar y colectar por cualquier procedimiento autorizado especies biológicas o elementos biogenéticos, cuyo medio de vida total, parcial o temporal sea el agua.
+LXXIII. Ingrediente alimenticio: elemento que se integra en una dieta alimenticia que se caracteriza por su contenido nutrimental que puede ser de tipo energético, proteíco bajo o alto, fibroso y de origen animal o vegetal;
 
-Pescador: persona física o moral que con fines de explotación y aprovechamiento extraiga, capture o colecte especies acuáticas.
+LXXIV. Inocuidad alimenticia: alimentos de origen animal que garantizan un mínimo de riesgo de contaminación física, química o microbiológica de diversos productos y subproductos de origen animal, indicando que son sanos y no causan daño a la salud del consumidor, asegurando la calidad de los productos y favoreciendo su acceso al mercado regional, nacional e internacional;
 
-Porcicultor: la persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los cerdos.
+LXXV. Inspector certificador: profesional que tiene como actividad dar seguimiento a un proceso de vigilancia, verificación, inspección y toma de muestras del elemento crítico de constatación, en cada una de las etapas de un sistema de certificación;
 
-Porcicultura: la cría, reproducción, mejoramiento y explotación de los cerdos.
+LXXVI: INIFAP: Instituto Nacional de Investigación Forestal, Agrícola y Pecuaria;
 
-Producción pecuaria: es el conjunto de actividades relacionadas con las acciones pecuarias, comerciales, industriales, aquellas conexas con el ramo y con las que en forma habitual o accidental se efectúan relacionados con éstas.
+LXXVII. Identificación electrónica: elemento electromagnético que se implanta por vía subcutánea o intramuscular en el animal, el cual contiene los datos de identidad del mismo y de su propietario;
 
-Pradera: es el agostadero constituido mediante la siembra y cultivo de especies mejoradas o inducidas.
+LXXVIII. Leche: se considera como leche el producto íntegro natural del ordeño completo de la glándula mamaria de uno o más animales sanos, con exclusión del producto obtenido quince días antes del parto y cinco días después. Se designará con el nombre genérico de "leche" a la producida por las hembras bovinas. La que proceda de otras especies de animales, se denominará con el nombre de la productora;
 
-Punto de Verificación e Inspección (PVI): instalación ubicada en las vías terrestres de acceso y tránsito por el Estado, así como en centros de sacrificio y comercialización de animales, donde se constata el cumplimiento de las legislaciones federales y estatales aplicables en materia de sanidad animal.
+LXXIX. Leche adulterada: a la que se han sustraído alguno o varios de sus componentes normales, o a la que se ha agregado cualquier otra sustancia;
 
-Plaga: presencia de un agente biológico en una área determinada, que causa enfermedad o alteración en la salud de la población vegetal.
+LXXX. Leche alterada: aquélla en la que cualquiera de sus componentes ha sufrido modificación o transformación natural;
 
-Plantas indeseables: aquéllas que provocan daños al animal o que causan disminución de la productividad forrajera del agostadero.
+LXXXI. Leche sucia: la que deja sedimento mayor que el permitido para cada una de las categorías sanitarias correspondientes;
 
-Potrero: parte de terreno, generalmente cercado, donde se siembran pastos de buena calidad destinados a la alimentación de todo tipo de ganado.
+LXXXII. Leche contaminada: aquélla cuya cuenta de bacterias sea superior a las permitidas en la categoría sanitaria que fije el Reglamento;
 
-Productor de leche: la persona física o moral, que se dedique a la explotación de ganado lechero.
+LXXXIII. Nocivo: es un elemento, sustancia o compuesto que resulta tóxico, dañino o perjudicial, que integrado a un alimento puede causar trastornos o malestar grave en el receptor, e incluso originar la muerte;
 
-Rastro: establecimiento donde se da el servicio de sacrificio de animales para la alimentación y comercialización al mayoreo de sus productos.
+LXXXIV. Marca de venta: es potestativa y se pone comúnmente en el miembro anterior del mismo lado del fierro que se nulifica;
 
-Sanidad agropecuaria (animal y vegetal): al conjunto de acciones y medidas orientadas a la prevención, control y erradicación de las plagas y enfermedades que afectan a los animales y las plantas.
+LXXXV. Media estabulación: el ganado que duerme diariamente en establo y se mantiene en el campo durante el día;
 
-Señal de sangre: son cortes, incisiones o perforaciones que se hacen en las orejas del ganado mayor y menor.
+LXXXVI. Mejoramiento del pastizal: son las prácticas de manejo tendientes a elevar la condición del pastizal, como fertilización, conservación del suelo y agua, control de plantas indeseables y división de potreros, entre otras;
 
-Subproducto animal: el que se deriva de un producto pecuario.
+LXXXVII. Ordeña de campo: la que se hace fuera del establo;
 
-SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de la administración pública federal.
+LXXXVIII. Organismos auxiliares en materia de sanidad animal y vegetal: aquéllas organizaciones de productores, comercializadores, agroindustriales responsables de la ejecución de los programas de sanidad animal y sanidad vegetal en el Estado;
 
-SEDARH: Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, de la administración pública estatal.
+LXXXIX. Obrador: taller mecanizado o artesanal destinado a la producción de cortes de carne, al procesamiento de subproductos cárnicos, y venta directa y comercialización de sus productos;
 
-SEGAM: Secretaría de Ecología y Gestión Ambiental, de la administración pública estatal.
+XC. Origen: en el caso de la producción primaria, se refiere a la unidad de producción pecuaria y el animal plenamente identificado, que es punto de partida hacia una movilización o proceso de transformación como es el rastro, donde es convertido especialmente en productos y subproductos alimenticios para el consumo humano, y requiere de un seguimiento estricto para poder establecer su trazabilidad y rastreabilidad;
 
-SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales, de la administración pública federal.
+XCI. Ovinocultor: la persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los ovinos o borrega (sic);
 
-Tatuaje: son los dibujos, números o signos que se graban en la piel del ganado mayor, mediante el uso de substancias químicas.
+XCII. Ovinocultura: la cría, reproducción, mejoramiento y explotación de los ovinos o borregos;
 
-Zona libre: área geográfica determinada en la cual se ha eliminado o no se han presentado casos positivos de una enfermedad o plaga específica, durante un periodo preciso, de acuerdo con las normas oficiales y las medidas zoosanitarias y fitozoosanitarias que la autoridad competente establezca.
+XCIII. Pastizal: terreno donde abundan los pastos, o donde las gramíneas son la vegetación predominante, que sirven para la alimentación del ganado;
+
+XCIV. Premezcla: revoltura uniforme de uno a más micro ingredientes que forman la base de un contenido nutrimental, para integrarse a una dieta alimenticia determinada;
+
+XCV. Pasto: nombre que se le da a las especies de la familia de las gramíneas;
+
+XCVI. Patente: es el documento que la autoridad municipal expide al ganadero para comprobar que su fierro, marca, señal o tatuaje ha quedado legalmente registrado o revalidado;
+
+XCVII. Pesca: se entiende como el acto de extraer, capturar y colectar por cualquier procedimiento autorizado, especies biológicas o elementos biogenéticos, cuyo medio de vida total, parcial o temporal sea el agua;
+
+XCVIII. Pescador: persona física o moral que con fines de explotación y aprovechamiento extraiga, capture o colecte especies acuáticas;
+
+XCIX. Porcicultor: la persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los cerdos;
+
+C. Porcicultura: la cría, reproducción, mejoramiento y explotación de los cerdos;
+
+CI. Producción pecuaria: es el conjunto de actividades relacionadas con las acciones pecuarias, comerciales, industriales, aquellas conexas con el ramo y las que en forma habitual o accidental se efectúan relacionados con éstas;
+
+CII. Pradera: es el agostadero constituido mediante la siembra y cultivo de especies mejoradas o inducidas;
+
+CIII. Punto de Verificación e Inspección (PVI): instalación fija o móvil, ubicada en sitio estratégico para la vigilancia de la movilización fitozoosanitaria, para proteger, conservar e incluso favorecer el estatus de las campañas oficiales de erradicación de plagas y enfermedades;
+
+CIV. Plaga: presencia de un agente biológico en una área determinada, que causa enfermedad o alteración en la salud de la población vegetal;
+
+CV. Plantas indeseables: aquéllas que provocan daños al animal, o que causan disminución de la productividad forrajera del agostadero;
+
+CVI. Potrero: parte de terreno, generalmente cercado, donde se siembran pastos de buena calidad destinados a la alimentación de todo tipo de ganado;
+
+CVII. Productor de leche: la persona física o moral que se dedique a la explotación de ganado lechero;
+
+CVlII. RAPE: rastro prototipo estatal, son plantas operativas que implican las cinco especies domesticas productivas como son, bovinos, caprinos, ovinos, pórcinos y equinos, las cuales son procesadas para su transformación, aprovechamiento de residuos, despojos, conservación, distribución y función primordial de obtención de productos y subproductos carnicol destinados para el consumo humano y derivados para consumo animal, debiendo cumplir con las especificaciones sanitarias y de proceso de acuerdo a la normatividad federal, estatal, y de inocuidad y calidad nutrimental establecidas, debiéndose asegurar la trazabilidad, tanto de los animales, como de los derivados carnicol producidos;
+
+CIX. Rastreabilidad: proceso que permite dar seguimiento a un problema epidemiológico que requiere darle seguimiento para determinar la causa, debiendo seguir un sistema retrospectivo que permite garantizar la ubicación de cada sector de la movilización, desde el consumidor hasta el sitio y causa que originó el problema;
+
+CX. Rastro: establecimiento donde se da el servicio de sacrificio de animales para la alimentación y comercialización al mayoreo de sus productos;
+
+CXI. Sanidad agropecuaria (animal y vegetal): al conjunto de acciones y medidas orientadas a la prevención, control y erradicación de las plagas y enfermedades que afectan a los animales y las plantas;
+
+CXII. Señal de sangre: son cortes, incisiones o perforaciones que se hacen en las orejas del ganado mayor y menor;
+
+CXIII. Subproducto animal: el que se deriva de un producto pecuario;
+
+CXIV. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de la administración pública federal;
+
+CXV. SEDARH: Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, de la administración pública estatal;
+
+CXVI. SEGAM: Secretaría de Ecología y Gestión Ambiental, de la administración pública estatal;
+
+CXVII. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales, de la administración pública federal;
+
+CXVIII. SEIPP: Sistema Estatal de Identificación de Propiedades Pecuarias;
+
+CXIX. SICELIC: Sistema de Certificación Libre de Clenbuterol;
+
+CXX. SSSLP: Servicios de Salud del Estado de San Luis Potosí;
+
+CXXI. Tatuaje: son los dibujos, números o signos que se graban en la piel del ganado mayor, mediante el uso de substancias químicas;
+
+CXXII. TIF: Tipo Inspección Federal, las instalaciones en donde se sacrifican animales o procesan, envasan, empacan, refrigeran, o industrializan bienes de origen animal, y están sujetas a la regulación de la Secretaría, en coordinación, con la Secretaría de Salud, de acuerdo al ámbito de competencia de cada secretaría, y cuya certificación es a petición de parte;
+
+CXXIII. Tóxico: sustancia que por contacto, ingesta o inoculación resulta dañino, destructivo o aún letal para las funciones de un organismo vivo;
+
+CXXIV. Trazabilidad: proceso que permite darle seguimiento a un animal, producto o subproducto pecuario, mediante un sistema en el que se registran las etapas de su movilización, desde el origen hasta el destino final que generalmente es el consumido, y
+
+CXXV. Zona libre: área geográfica determinada en la cual se ha eliminado o no se han presentado casos positivos de una enfermedad o plaga específica, durante un periodo preciso, de acuerdo con las normas oficiales y las medidas zoosanitarias y fitozoosanitarias que la autoridad competente establezca.
 
 ###### ARTICULO 4°.
 
@@ -313,11 +379,7 @@ IX. Códigos de Procedimientos Civiles y Penales para el Estado, y
 
 X. Ley Orgánica del Municipio Libre.
 
-TlTULO SEGUNDO
-
-DE LAS AUTORIDADES Y SUS ATRIBUCIONES
-
-## TITULO CUARTO. DE LA INFRAESTRUCTURA HIDRAULlCA EN EL SECTOR AGROPECUARIO
+## TITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ### CAPITULO I. De las Autoridades
 
@@ -507,11 +569,11 @@ L. Celebrar, en coordinación con las organizaciones de productores, patronatos 
 
 LI. Disponer la realización de corridas de ganado, de acuerdo al procedimiento que para el efecto establezca el Reglamento de esta Ley;
 
-LlI. Promover, en coordinación con la autoridad competente, la preservación y restauración de la biodiversidad de los ecosistemas;
+LII. Promover, en coordinación con la autoridad competente, la preservación y restauración de la biodiversidad de los ecosistemas;
 
-LlII. Promover acciones para incentivar la producción orgánica en el estado y sus municipios;
+LIII. Promover acciones para incentivar la producción orgánica en el estado y sus municipios;
 
-LlV. Impulsar en todo el estado la certificación orgánica de productos, con agencias certificadoras con reconocido prestigio;
+LIV. Impulsar en todo el estado la certificación orgánica de productos, con agencias certificadoras con reconocido prestigio;
 
 LV. Promover la capacitación de productores, técnicos e inspectores en producción orgánica, a través de congresos, seminarios y cursos;
 
@@ -521,7 +583,7 @@ LVII. Crear el Consejo Estatal para la Agricultura Orgánica;
 
 LVIII. Llevar un registro base de productores que se encuentran realizando actividades propias del proceso de transición. Los productores voluntariamente podrán adherirse a este registro el cual no podrá extenderse por un periodo mayor a tres años;
 
-LlX. Llevar el registro de los laboratorios públicos y privados, que realicen análisis de productos agropecuarios orgánicos e insumos para su producción, previa acreditación conforme las regulaciones establecidas por ésta;
+LIX. Llevar el registro de los laboratorios públicos y privados, que realicen análisis de productos agropecuarios orgánicos e insumos para su producción, previa acreditación conforme las regulaciones establecidas por ésta;
 
 LX. Determinar y aplicar las sanciones que se deriven del incumplimiento de esta Ley y su Reglamento, y
 
@@ -651,11 +713,7 @@ II. Comunicar de inmediato a las autoridades competentes que correspondan la pre
 
 III. Reportar de inmediato a las autoridades competentes que correspondan, el sacrificio clandestino de animales.
 
-TlTULO TERCERO
-
-DEL DESARROLLO RURAL
-
-## TITULO QUINTO. DE LA AGRICULTURA
+## TITULO TERCERO. DEL DESARROLLO RURAL
 
 ### CAPITULO I. De la Planeación y Programación de Desarrollo Rural
 
@@ -1061,7 +1119,7 @@ III. Promover la capacitación y asistencia técnica en procesos administrativos
 
 IV. Promocionar los productos locales en otros Estados o en el ámbito internacional.
 
-## TITULO SEXTO. DISPOSICIONES PRELIMINARES
+## TITULO CUARTO. DE LA INFRAESTRUCTURA HIDRAULICA EN EL SECTOR AGROPECUARIO
 
 ### CAPITULO UNICO
 
@@ -1085,7 +1143,7 @@ III. La rehabilitación integral o parcial de pozos que permita aumentar su efic
 
 IV. El ahorro del agua, mediante acciones que eficienticen la conducción y su aplicación como son: revestimiento de canales o utilización de sistemas presurizados, en los distritos y unidades de riego del estado para mejorar la distribución del recurso hídrico a través de estructuras de manejo y control.
 
-## TITULO SEPTIMO. DE LA MOVILlZACION DE ANIMALES, PRODUCTOS y SUBPRODUCTOS DE ORIGEN AGROPECUARIO
+## TITULO QUINTO. DE LA AGRICULTURA
 
 ### CAPITULO I. Del Desarrollo Agrícola
 
@@ -1407,7 +1465,7 @@ La SEDARH brindará la asesoría técnica que la materia requiera a los producto
 
 Los interesados en la movilización de vegetales sus productos y subproductos en el interior del estado, deberán comprobar su procedencia mediante certificado de origen expedido por el organismo auxiliar correspondiente.
 
-## TITULO OCTAVO. DE LA INDUSTRIA LECHERA
+## TITULO SEXTO. DISPOSICIONES PRELIMINARES
 
 ### CAPITULO I. Del Fomento y Mejoramiento de la Ganadería
 
@@ -2237,7 +2295,9 @@ Los mostrencos y orejanos que fueren enajenados, serán venteados con la marca m
 
 Para el caso de los animales que hayan sido retirados del derecho de vía, la autoridad municipal al identificar al propietario observará el siguiente procedimiento:
 
-I. Notificará en forma indubitable al dueño para que lo recoja en un término de cinco días y cubra los gastos que se hayan originado por su traslado, alimentación y cuidado, y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2009)</small>
+
+I. Notificará en forma indubitable al dueño para que lo recoja en un término de ocho días, y cubra los gastos que se hayan originado por su traslado, alimentación y cuidado, y
 
 II. Si al término del plazo que establece el inciso anterior no acude o compareciendo se niega a pagar, se ordenará su venta en la forma y términos que establecen el artículo 244 de la presente Ley, depositándose en su caso, el remanente en favor del propietario.
 
@@ -2279,7 +2339,7 @@ II. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal e 
 
 III. Difundir, entre los productores, las acciones realizadas en las campañas zoosanitarias, con el propósito de lograr una mayor participación en las mismas de los productores.
 
-## TITULO NOVENO. DE LA OVINOCULTURA Y LA CAPRINOCULTURA
+## TITULO SEPTIMO. DE LA MOVILIZACION DE ANIMALES, PRODUCTOS Y SUBPRODUCTOS DE ORIGEN AGROPECUARIO
 
 ### CAPITULO I. De las Vías Pecuarias, Aguajes y Abrevaderos
 
@@ -2847,7 +2907,7 @@ Los ganaderos poseedores de más de doscientas cabezas de ganado vacuno, tendrá
 
 El Gobierno del Estado, conjuntará recursos con el Gobierno Federal y Municipal, así como con las Uniones Ganaderas Regionales y las Asociaciones Ganaderas Locales, para apoyar a los productores de bajos recursos en la construcción de instalaciones de uso común, que permita manejar el ganado de la comunidad y lograr llevar a cabo las acciones de control de las campañas zoosanitarias.
 
-## TITULO DECIMO. DE LA PORCICULTURA
+## TITULO OCTAVO. DE LA INDUSTRIA LECHERA
 
 ### CAPITULO I. Generalidades
 
@@ -2997,7 +3057,7 @@ La movilización de la leche y el ganado lechero se sujetará a las disposicione
 
 Para el transporte de leche, se deberá recabar autorización a través de la Asociación de Productores de Leche, de las Autoridades Sanitarias y municipales correspondientes debiéndose cumplir con todas las disposiciones sanitarias aplicables.
 
-## TITULO DECIMO. PRIMERO DE LA AVICULTURA
+## TITULO NOVENO. DE LA OVINOCULTURA Y LA CAPRINOCULTURA
 
 ### CAPITULO I. Generalidades
 
@@ -3083,7 +3143,7 @@ Los médicos veterinarios debidamente acreditados por la autoridad competente, a
 
 Los propietarios y responsables de las explotaciones en las que se identificaran animales con reacción positiva a las pruebas diagnósticas de brucelosis, deberán aislarlos y acatar las disposiciones establecidas en las normas oficiales mexicanas para su tratamiento.
 
-## TITULO DECIMO SEGUNDO. SEGUNDO DE LA APICULTURA
+## TITULO DECIMO. DE LA PORCICULTURA
 
 ### CAPITULO I. Generalidades
 
@@ -3161,7 +3221,7 @@ Los médicos veterinarios debidamente acreditados por la autoridad competente, a
 
 Los propietarios y responsables de las explotaciones en las que se identificaran animales con reacción positiva a las pruebas diagnósticas de la Fiebre Porcina Clásica y la Enfermedad de Aujeszky, deberán aislarlos y acatar las disposiciones establecidas en las normas oficiales mexicanas para su tratamiento.
 
-## TITULO DECIMO TERCERO. DEL EJERCICIO PROFESIONAL
+## TITULO DECIMO. PRIMERO DE LA AVICULTURA
 
 ### CAPITULO I. Generalidades
 
@@ -3275,7 +3335,7 @@ Los médicos veterinarios debidamente acreditados por la autoridad competente, a
 
 Los propietarios y responsables de las explotaciones en las que se identificaran animales con reacción positiva a las pruebas diagnósticas de la Salmonelosis, la Enfermedad de Newcastle y la Influenza Aviar, deberán aislarlos y acatar las disposiciones establecidas en las normas oficiales mexicanas para su tratamiento.
 
-## TITULO DECIMO CUARTO. DE LA ENSEÑANZA AGRONOMICA Y ZOOTECNICA DE LA SEGURIDAD GANADERA
+## TITULO DECIMO SEGUNDO. SEGUNDO DE LA APICULTURA
 
 ### CAPITULO I. Generalidades
 
@@ -3471,7 +3531,7 @@ Todo embarque de miel fuera de la entidad, deberá acompañarse del permiso que 
 
 La SEDARH, podrá revisar las colmenas, previo aviso dado al propietario, cuando se presuma el peligro de plagas y enfermedades que pongan en peligro la apicultura de una región determinada. En caso de omisión u oposición por parte de un apicultor, la SEDARH, tomará las medidas legales que considere convenientes, a fin de obligar al productor a facilitar la revisión, independientemente de la aplicación de las sanciones a que hubiere lugar.
 
-## TITULO DECIMO QUINTO. DE LA DENUNCIA CIUDADANA; Y DE LAS INFRACCIONES Y SANCIONES; DE LOS PROCEDIMIENTOS PARA LA APLlCACION DE SANCIONES
+## TITULO DECIMO TERCERO. DEL EJERCICIO PROFESIONAL
 
 ### CAPITULO UNICO
 
@@ -3511,6 +3571,8 @@ La carencia de cualquier requisito legal, impide el ejercicio de la profesión, 
 
 En casos de peligro derivado de conflictos o siniestros públicos, todos los profesionales a que se refiere esta Ley, colaborarán con el Ejecutivo del Estado, prestando servicios de emergencia.
 
+## TITULO DECIMO CUARTO. DE LA ENSEÑANZA AGRONOMICA Y ZOOTECNICA DE LA SEGURIDAD GANADERA
+
 ### CAPITULO I. De la Enseñanza Agronómica y Zootécnica
 
 ###### ARTICULO 464.
@@ -3527,15 +3589,53 @@ La SEDARH, en coordinación con las organizaciones ganaderas y los organismos au
 
 Los cuerpos de Seguridad Pública en el estado, que dependen de la Secretaría General de Gobierno y de la Procuraduría General de Justicia del Estado, establecerán grupos especiales para atender los problemas de seguridad ganadera.
 
-### CAPITULO I. De la Denuncia Ciudadana
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2009)</small>
 
-### CAPITULO II. De las Infracciones y Sanciones
+### CAPITULO III. Inocuidad y Calidad, Agroalimentaria
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
+
+ARTICULO 466 BIS. El Ejecutivo del Estado, a través de la SEDARH, y en coordinación con los ayuntamientos, llevarán a cabo la vigilancia activa del ganado que llega a los rastros, para la detección de los padecimientos considerados en las campañas sanitarias obligatorias, así como de todos aquellos padecimientos y presencia de sustancias tóxicas que lo afecten, o que estén presentes en los animales, que al ser transformados en alimento permanezcan en los mismos y ocasionen efectos negativos leves, severos o aún la muerte, al ser consumidos por el humano y, por tanto, que se determinen como prioritarios para su control. Este proceso de vigilancia deberá integrarse en sistemas de certificación que integren la metodología técnica y práctica apropiada que al ser aplicados, garanticen la salud e inocuidad de los animales, de los alimentos resultantes del proceso de transformación y del hombre al ser ingeridos por éste.
+
+Los diferentes sistemas de vigilancia activa y de certificación que se encuentren especificados en esta Ley y su reglamento, podrán ser cedidos y llevados a cabo por organismos o instituciones auxiliares de la Entidad mediante la suscripción de un convenio, quienes serán los responsables de llevar a cabo las actividades operativas, de certificación y dictamen de resultados que garanticen la veracidad de estas acciones.
+
+La SEDARH, en coordinación con la Secretaría de Salud, y de acuerdo a su normatividad podrá participar, cooperar y, en su caso, responsabilizarse de la vigilancia, procesamiento y certificación de todos los productos y subproductos alimenticios de origen animal, que se producen y se comercializan en la Entidad.
+
+La SEDARH podrá coordinarse con autoridades federales, estatales y municipales, para que en el ámbito de su competencia lleven a cabo las diferentes acciones que requiere el SICELlC, para dar cumplimiento práctico y efectivo con el contenido del artículo anterior, pudiendo en caso de considerarlo necesario, ceder mediante la celebración de convenios de coordinación o de colaboración con organismos auxiliares, como el Comité Estatal de Fomento y Protección Pecuaria (CEFPP), las diversas actividades operativas de certificación, especialmente en referencia a la certificación preventiva y correctiva vinculada a la cadena de producción primaria y que tiene como punto de destino final el rastro, sitio donde se llevará a cabo las acciones relacionadas con la certificación del ganado que ingresa al rastro, ya sea procedente de la Entidad o de otros Estados.
+
+La metodología de muestreo, técnicas oficiales y el procedimiento metodológico del SICELlC, se establecerá en el Reglamento de esta Ley, y la SEDARH elaborará un manual de procedimientos correspondiente, los cuales deberán ser elaborados y aprobados por las instancias competentes.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
+
+ARTICULO 466 TER. La SEDARH dictaminará las características y especificaciones de los productos y materias primas para uso o consumo animal, así como las recomendaciones sobre su prescripción, aplicación, retiro, uso, prohibición y certificación para su control.
+
+La SEDARH establecerá en el Reglamento de esta Ley, el listado de las sustancias o productos cuyo uso o consumo en animales, están autorizados para ser utilizados o incluidos en los alimentos destinados para su alimentación o aplicación, así como las sustancias o productos que estén prohibidos por causar efectos nocivos en los animales y, sobre todo, en la salud del humano, al ser ingeridos principalmente a través de sus productos y subproductos alimenticios; dentro de las sustancias prohibidas para su uso en la alimentación animal se encuentra el clenbuterol.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
+
+ARTICULO 466 QUATER. Para realizar una vigilancia activa e impedir el uso del clenbuterol, el Ejecutivo del Estado, por sí mismo, a través de la SEDARH, o mediante la institución auxiliar operativa, establecerá un programa integral de certificación estatal denominado: Sistema de Certificación Libre de Clenbuterol (SICELlC), el cual mediante una verificación continua garantizará la ausencia de este compuesto, tanto en la fase de procesamiento de alimentos, como en su suministro al ganado bovino y finalmente, la presencia de esta sustancia en el animal que afecta la inocuidad de los productos y subproductos cárnicos resultantes.
+
+La SEDARH, o en su caso, el organismo oficial operativo, será la o el responsable de llevar a cabo la certificación preventiva crítica libre de clenbuterol, cuyo programa de control se centra exclusivamente en la vigilancia del ganado bovino que entra al rastro y que es certificado antes del sacrificio, ya sea proveniente de la Entidad o fuera de ella. Este es el lapso final crítico donde confluye el ganado de origen interno y externo y es muestreado sin excepción, requiriéndose para el caso, llevar un estricto control del origen del ganado y poder certificar la trazabilidad de la producción primaria. Los casos que resulten negativos se les otorgará el sello de Certificado Libre de Clenbuterol (CLlC), el cual será aplicado a los productos y subproductos cárnicos resultantes.
+
+La SEDARH o, en su caso, el organismo oficial autorizado, llevará a cabo la certificación del ganado bovino procedente de otros Estados que llegan a sacrifico, los cuales deberán llegar debidamente documentados para garantizar su origen, de otra manera serán retornados al no disponerse de una trazabilidad confiable. Los casos que resulten negativos se les otorgará el sello de CLlC, el cual será aplicado a los productos y subproductos cárnicos resultantes.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
+
+ARTICULO 466 QUINQUE. El productor, introductor, tablajero, persona física o moral radicada en el Estado o fuera de el, que desee ser usuario del servicio de sacrificio en un rastro autorizado, rastro Prototipo Estatal (RAPE) o Rastro TIF, deberá obligatoriamente estar registrado en el Sistema Estatal de Identificación de Propiedades Pecuarias (SEIPP).
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
+
+ARTICULO 466 SEXTIES. Los SSSLP son los responsables del control, certificación e inocuidad de los productos y subproductos alimenticios que fueron procesados en la Entidad o provenientes de otro estado. En el caso específico del SICELlC, se llevará a cabo una fase de certificación de los productos y subproductos cárnicos que se encuentren disponibles en carnicerías, obradores, empacadoras, frigoríficos fijos y móviles, y diversos comercios, los cuales deberán contar con un sello de garantía CLlC y, en su defecto, realizar la prueba de constatación individual o por lote, y en caso de resultar negativa se le otorgará el sello de constatación libre de clenbuterol; la muestra que resulte positiva será decomisada, destruida, y el propietario del producto se hará acreedor a las sanciones que la Ley de Salud del Estado de San Luis Potosí dispone para el caso.
+
+## TITULO DECIMO QUINTO. DE LA DENUNCIA CIUDADANA; Y DE LAS INFRACCIONES Y SANCIONES; DE LOS PROCEDIMIENTOS PARA LA APLlCACION DE SANCIONES
+
+### CAPITULO I. De la Denuncia Ciudadana
 
 ###### ARTICULO 467.
 
 Se concede acción pública para la denuncia ante las autoridades competentes, de cualquier infracción a las disposiciones de esta Ley y su reglamento y, de igual manera para obtener de la autoridad su intervención para que en ejercicio de las atribuciones que esta Ley le confiere, desahoguen los procedimientos administrativos para la aplicación de sanciones, de conformidad a lo establecido en esta Ley.
 
-### CAPITULO III. De los Procedimientos para la Aplicación de las Sanciones
+### CAPITULO II. De las Infracciones y Sanciones
 
 ###### ARTICULO 468.
 
@@ -3705,11 +3805,19 @@ LXXVI. No hacer del conocimiento de los apicultores ubicados a una distancia men
 
 LXXVII. No tomar las precauciones necesarias para evitar que el fuego llegue a las colmenas instaladas en las cercanías del predio sujeto a quemas autorizadas;
 
-LXXVIII. Expedir certificados zoosanitarios y de movilización de productos y subproductos de origen animal sin la autorización expresa de las autoridades competentes, y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2009)</small>
 
-LXXIX. Las demás que establezca esta Ley y disposiciones reglamentarias.
+LXXVIII. Expedir certificados zoosanitarios y de movilización de productos y subproductos de origen animal sin la autorización expresa de las autoridades competentes;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2009)</small>
+
+LXXIX. Cuando se identifique un ganado a través de las pruebas oficiales, la detección de clenbuterol, será sujeto de decomiso para su destrucción total sin ningún resarcimiento económico por parte de la autoridad. Cuando el ganado sea introducido al rastro por una persona distinta al propietario, será copartícipe de la falta y responsable mutuo de las sanciones que correspondan.
+
+El ganado de un propietario, introductor, o tablajero, o cualquier otra persona que por segunda ocasión reincida en la falta citada en el párrafo que antecede, se le cancelará en forma definitiva la licencia para introducir ganado a todos los rastros de la Entidad, boletinando al resto de los Estados de la república para su conocimiento, y
+
+LXXX. Las demás que establezca esta Ley y disposiciones reglamentarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 471.
 
@@ -3729,35 +3837,35 @@ VI. Arresto administrativo.
 
 En caso de personas detenidas por la comisión de delitos, éstas serán puestas inmediatamente a disposición del Ministerio público.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO SEPTIMO PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO OCTAVO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO NOVENO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO DECIMO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO DECIMO PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO DECIMOPRIMER PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO DECIMOPRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO DECIMOSEGUNDO PARRAFO, P.O. 17 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO DECIMOSEGUNDO PÁRRAFO, P.O. 17 DE ABRIL DE 2008)</small>
 
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2008)</small>
 
 ARTICULO 471 BIS. La imposición de las multas a que se refiere la fracción V del artículo anterior, se determinará en la forma siguiente.
 
-l. Con un equivalente de veinte días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, X, XI, XII, XV, XVII, XVIII, XIX, XX, XXI, XXlI, XXV, XXVI, XXXl, XXXIII, XXXVI, XXXVII; LIV, LV, LVI, LVII, LIX, LX, LXI, LXIII, LXIV, LXV, LXXIII y LXXV del artículo 470 de esta Ley;
+I. Con un equivalente de veinte días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, X, XI, XII, XV, XVII, XVIII, XIX, XX, XXI, XXII, XXV, XXVI, XXXI, XXXIII, XXXVI, XXXVII; LIV, LV, LVI, LVII, LIX, LX, LXI, LXIII, LXIV, LXV, LXXIII y LXXV del artículo 470 de esta Ley;
 
 II. Con un equivalente de cinco días hasta cien días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en la fracción XXXIV del artículo 470 de esta Ley;
 
-III. Con un equivalente de diez hasta cincuenta días de salario mínimo vigente en la Entidad, a quién cometa las infracciones señaladas en las fracciones V, VI, VII, VIII, XVI, XXIV, XXVlI, XXVlll, XXIX, XXXV, XXXVIII y LXVI del artículo 470 de esta Ley;
+III. Con un equivalente de diez hasta cincuenta días de salario mínimo vigente en la Entidad, a quién cometa las infracciones señaladas en las fracciones V, VI, VII, VIII, XVI, XXIV, XXVII, XXVIII, XXIX, XXXV, XXXVIII y LXVI del artículo 470 de esta Ley;
 
 IV. Con un equivalente de diez hasta cien días de salario mínimo vigente en la Entidad, a quien cometa la infracción señalada en la fracción IX del artículo 470 de está Ley;
 
@@ -3783,7 +3891,7 @@ III. Omitan el ejercicio de sus facultades o incumplan con las obligaciones que 
 
 IV. Las demás que establezca esta Ley y disposiciones reglamentarias.
 
-### CAPITULO UNICO
+### CAPITULO III. De los Procedimientos para la Aplicación de las Sanciones
 
 ###### ARTICULO 473.
 
@@ -3808,6 +3916,8 @@ La resolución, la autoridad deberá dictarla tomando en cuenta los datos propor
 Las multas tendrán carácter de créditos fiscales y las resoluciones que dicte la autoridad competente se notificarán personalmente al afectado por oficio o cédula de notificación; la Secretaría de Finanzas o la tesorería municipal, según sea el caso, procederán a su cobro.
 
 La SEDARH celebrará convenios con la Secretaría de Finanzas, para que todos los recursos provenientes del rubro de sanciones, se reintegren a la SEDARH, para que esté en posibilidades de atender emergencias climatológicas o problemas de plagas, enfermedades, que afecten al sector agropecuario.
+
+### CAPITULO UNICO
 
 ###### ARTICULO 476.
 
@@ -3845,7 +3955,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE ABRIL DE 2008.
 
@@ -3858,3 +3968,9 @@ P.O. 18 DE DICIEMBRE DE 2008.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 27 DE AGOSTO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
