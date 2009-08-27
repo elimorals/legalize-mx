@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2009-06-09"
+last_updated: "2009-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE AGOSTO DE 2009.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -248,7 +248,9 @@ II. La clase de comercio ú operaciones á que se dedique;
 
 III. La fecha en que deba comenzar ó haya comenzado sus operaciones;
 
-IV. El domicilio con especificación de las sucursales que hubiere establecido, sin perjuicio de inscribir las sucursales en el Registro del Partido judicial en que estén domiciliadas;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+IV. El domicilio con especificación de las sucursales que hubiere establecido;
 
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2009)</small>
 
@@ -288,7 +290,13 @@ XVII. (DEROGADA POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY D
 
 XVIII. (DEROGADA POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-XIX. Las fianzas de los corredores.
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+XIX. Las autorizaciones de los corredores públicos para registrar información;
+
+> <small>(ADICIONADA, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+XX. Las garantías mobiliarias que hubiere otorgado, así como los actos jurídicos por los que constituya un privilegio especial o derecho de retención sobre bienes muebles a favor de terceros, en los términos de lo dispuesto por los artículos 32 bis 1 a 32 bis 9 del presente Capítulo.
 
 (ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
@@ -306,21 +314,29 @@ b) Análisis de la forma precodificada y la verificación de la existencia o ine
 
 c) Calificación, en la que se autorizará en definitiva la inscripción en la base de datos mediante la firma electrónica del servidor público competente, con lo cual se generará o adicionará el folio mercantil electrónico correspondiente, y
 
-d) Emisión de una boleta de inscripción que será entregada física o electrónicamente.
+d) Emisión de una boleta de inscripción que será entregada física o electrónicamente;
+
+> <small>(ADICIONADA, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+III. La inscripción de actos que sean enviados por medios electrónicos de acuerdo al artículo 30 bis 1 de este Código, con el pago de derechos en línea, será inmediata, definitiva y no será susceptible de calificación por parte del responsable de oficina o registrador.
 
 El reglamento del presente Capítulo desarrollará el procedimiento registral de acuerdo con las bases anteriores.
 
-(ADICIONADO, D.O.F. 29 DE MAYO DE 2000)(REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
 
 ###### Art. 21 Bis 1.
 
-La prelación entre derechos sobre dos o más actos que se refieran a un mismo folio mercantil electrónico, se determinará por el número de control que otorgue el registro, cualquiera que sea la fecha de su constitución o celebración.
+La prelación entre derechos sobre dos o más actos que se refieran a un mismo folio mercantil electrónico, se determinará por el número de control o en su caso por el sello digital de tiempo que otorgue el registro, cualquiera que sea la fecha de su constitución o celebración.
 
 (REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
 ###### Art. 22.
 
 Cuando, conforme a la ley, algún acto o contrato deba inscribirse en el Registro Público de la Propiedad o en registros especiales, su inscripción en dichos registros será bastante para que surtan los efectos correspondientes del derecho mercantil, siempre y cuando en el Registro Público de Comercio se tome razón de dicha inscripción y de las modificaciones a la misma.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+El registro de las garantías mobiliarias deberá sujetarse a lo establecido en la Sección Única del presente Capítulo.
 
 (REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
@@ -382,39 +398,53 @@ Las certificaciones se expedirán previa solicitud por escrito que deberá conte
 
 Cuando la solicitud respectiva haga referencia a actos aún no inscritos, pero ingresados a la oficina del Registro Público de Comercio, las certificaciones se referirán a los asientos de presentación y trámite.
 
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+La Secretaría podrá establecer, mediante lineamientos, mecanismos para el trámite y la expedición de certificaciones por medios electrónicos.
+
 (ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
 ###### Art. 30 Bis.
 
 La Secretaría podrá autorizar el acceso a la base de datos del Registro Público de Comercio a personas que así lo soliciten y cumplan con los requisitos para ello, en los términos de este Capítulo, el reglamento respectivo y los lineamientos que emita la Secretaría, sin que dicha autorización implique en ningún caso inscribir o modificar los asientos registrales.
 
-La Secretaría certificará los medios de identificación que utilicen las personas autorizadas para firmar electrónicamente la información relacionada con el Registro Público de Comercio, así como la de los demás usuarios del mismo, y ejercerá el control de estos medios a fin de salvaguardar la confidencialidad de la información que se remita por esta vía.
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
 
-(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+La Secretaría expedirá los certificados digitales que utilicen las personas autorizadas para firmar electrónicamente la información relacionada con el Registro Público de Comercio y demás usuarios; asimismo, podrá reconocer para el mismo fin certificados digitales expedidos por otras autoridades certificadoras siempre y cuando, a su juicio, presenten el mismo grado de confiabilidad y cumplan con las medidas de seguridad que al efecto establezca la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
 
 ###### Art. 30 Bis 1.
 
-Cuando la autorización a que se refiere el artículo anterior se otorgue a notarios o corredores públicos, dicha autorización permitirá, además, el envío de información por medios electrónicos al Registro y la remisión que éste efectúe al fedatario público correspondiente del acuse que contenga el número de control a que se refiere el artículo 21 bis 1 de este Código.
+Cuando la autorización a que se refiere el artículo anterior se otorgue a notarios o corredores públicos, dicha autorización permitirá, además, el envío de información por medios digitales al Registro y la remisión que éste efectúe al fedatario público correspondiente del acuse que contenga el número de control o sello digital de tiempo a que se refiere el artículo 21 bis 1 de este Código.
 
-Los notarios y corredores públicos que soliciten dicha autorización deberán otorgar una fianza a favor de la Tesorería de la Federación y registrarla ante la Secretaría, para garantizar los daños que pudieran ocasionar a los particulares en la operación del programa informático, por un monto mínimo equivalente a 10 000 veces el salario mínimo diario vigente en el Distrito Federal.
+Los notarios y corredores públicos que soliciten dicha autorización deberán otorgar una fianza o garantía a favor de la Tesorería de la Federación y registrarla ante la Secretaría, para garantizar los daños que pudieran ocasionar a los particulares y a la Secretaría con motivo de la operación del programa informático y el uso de la información del registro, incluida la que corresponde a la Sección Única del presente Capítulo, por un monto mínimo equivalente a 10 000 veces el salario mínimo diario vigente en el Distrito Federal.
 
-En caso de que los notarios o corredores públicos estén obligados por la ley de la materia a garantizar el ejercicio de sus funciones, sólo otorgarán la fianza a que se refiere el párrafo anterior por un monto equivalente a la diferencia entre ésta y la otorgada.
+En caso de que los notarios o corredores públicos estén obligados por la ley de la materia a garantizar el ejercicio de sus funciones, sólo otorgarán la fianza o garantía a que se refiere el párrafo anterior por un monto equivalente a la diferencia entre ésta y la otorgada. Esta garantía podrá otorgarse de manera solidaria por parte de los colegios o agrupaciones de notarios o corredores públicos.
 
-Dicha autorización y su cancelación deberán publicarse en el Diario Oficial de la Federación.
-
-(REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE AGOSTO DE 2009)</small>
 
 ###### Art. 31.
 
-Los registradores no podrán denegar la inscripción de los documentos mercantiles que se les presenten, salvo cuando:
+Los registradores no podrán denegar o suspender la inscripción de los actos que conforme al reglamento o lineamientos se consideren de registro inmediato. En los demás casos, tampoco podrán denegar o suspender la inscripción de los documentos mercantiles que se les presenten, salvo cuando:
+
+(REFORMADA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
 
 I. El acto o contrato que en ellos se contenga no sea de los que deben inscribirse;
 
+(REFORMADA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
+
 II. Esté en manifiesta contradicción con los contenidos de los asientos registrales preexistentes, o
+
+(REFORMADA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
 
 III. El documento de que se trate no exprese, o exprese sin claridad suficiente, los datos que deba contener la inscripción.
 
+(REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+
 Si la autoridad administrativa o judicial ordena que se registre un instrumento rechazado, la inscripción surtirá sus efectos desde que por primera vez se presentó.
+
+(REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
 El registrador suspenderá la inscripción de los actos a inscribir, siempre que existan defectos u omisiones que sean subsanables. En todo caso se requerirá al interesado para que en el plazo que determine el reglamento de este Capítulo las subsane, en el entendido de que, de no hacerlo, se le denegará la inscripción.
 
@@ -439,6 +469,104 @@ A falta del consentimiento unánime de los interesados, la rectificación sólo 
 El concepto rectificado surtirá efectos desde la fecha de su rectificación.
 
 El procedimiento para efectuar la rectificación en la base de datos lo determinará la Secretaría en los lineamientos que al efecto emitan.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN ÚNICA.
+
+Del Registro Único de Garantías Mobiliarias.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+###### Art. 32 Bis 1.
+
+Las garantías mobiliarias que se constituyan con apego a éste u otros ordenamientos jurídicos del orden mercantil, su modificación, transmisión o cancelación, así como cualquier acto jurídico que se realice con o respecto de ellas, serán susceptibles de inscripción en los términos de esta Sección.
+
+En las garantías mobiliarias quedan comprendidos, sin perjuicio de aquellos que por su naturaleza mantengan ese carácter, los actos jurídicos mercantiles por medio de los cuales se constituya, modifique, transmita o cancele un privilegio especial o derecho de retención sobre bienes muebles en favor de terceros.
+
+Se presumen mercantiles todas las garantías mobiliarias otorgadas en favor de un comerciante, las cuales únicamente estarán sujetas a inscripción en los términos de esta Sección.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+###### Art. 32 Bis 2.
+
+Se constituye el Registro Único de Garantías Mobiliarias, en adelante el Registro, como una sección del Registro Público de Comercio, en donde se inscribirán las garantías a que se refiere el artículo anterior, con lo que se dará publicidad de las mismas para los efectos que establezcan éste u otros ordenamientos jurídicos. Esta sección se sujetará a las bases especiales de operación a que se refieren los artículos siguientes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+###### Art. 32 Bis 3.
+
+El Registro estará exclusivamente a cargo de la Secretaría; su operación se llevará por medios digitales, mediante el programa informático establecido por la Secretaría y en una base de datos nacional.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+###### Art. 32 Bis 4.
+
+La inscripción de las garantías mobiliarias, su modificación, transmisión o cancelación, así como la de cualquier acto vinculado con ellas, se realizará de manera inmediata a su recepción, previo pago de los derechos correspondientes, y en el folio de su otorgante.
+
+Salvo prueba en contrario, se presume que los otorgantes de garantías mobiliarias autorizan la inscripción de las mismas en el Registro.
+
+El procedimiento para la inscripción de garantías mobiliarias en el Registro se llevará de acuerdo a las bases siguientes:
+
+I.- Será automatizado;
+
+II.- Las inscripciones, anotaciones o cualquier acto vinculado con ellas deberá realizarse a través de medios digitales, utilizando para ello la forma precodificada establecida al efecto;
+
+III.- El Registro generará la boleta que corresponda, misma que se entregará de manera digital a su solicitante, y
+
+IV.- Serán inscribibles, en su caso y de acuerdo a lo establecido en el Reglamento, todos los documentos mercantiles a través de los cuales se constituya, modifique, transmita o cancele una garantía mobiliaria.
+
+Se encuentran facultados para llevar a cabo inscripciones o anotaciones en el Registro los fedatarios públicos, los jueces y las oficinas habilitadas de la Secretaría en las entidades federativas, así como las entidades financieras, los servidores públicos y otras personas que para tales fines autorice la Secretaría.
+
+Los acreedores, instancias de autoridad o personas facultadas que realicen inscripciones o anotaciones sobre garantías mobiliarias, serán responsables para todos los efectos legales de la existencia y veracidad de la información y documentación relativa a las inscripciones y anotaciones que lleven a cabo. Si una institución financiera o persona moral autorizada realiza la inscripción o anotación y es parte del contrato como acreedor prendario, fideicomisario o fiduciario, será responsable, independientemente del empleado o funcionario que realiza la inscripción.
+
+Será responsabilidad de quien realice una inscripción o anotación, llevar a cabo la rectificación de los errores materiales o de concepto que las mismas contengan. Se entiende que se comete un error de concepto, cuando al expresar en la inscripción o anotación alguno de los contenidos convencionales o formales de la garantía o acto objeto a registro, se altere o varíe su sentido en virtud de un juicio equivocado de quien la lleve a cabo. Todos los demás errores se considerarán materiales.
+
+Los acreedores, instancias de autoridad o personas facultadas para llevar a cabo inscripciones o anotaciones en el Registro, responden por los daños y perjuicios que se pudieren originar por tal motivo. El afectado podrá optar por reclamar los daños y perjuicios que se le ocasionen mediante su cálculo y acreditación o por sanción legal. La sanción legal se calculará y exigirá en un monto equivalente a 1,000 veces el salario mínimo diario general vigente en el Distrito Federal. Lo anterior, sin perjuicio de las sanciones penales o administrativas a que hubiere lugar.
+
+Salvo que la vigencia de la inscripción o anotación se establezca en la forma precodificada, ésta tendrá una vigencia de un año, misma que será susceptible de ser renovada.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+###### Art. 32 Bis 5.
+
+En los términos que establezca el Reglamento respectivo, de igual forma serán susceptibles de anotarse en el Registro, los avisos preventivos; las resoluciones judiciales o administrativas, así como cualquier acto que por su naturaleza constituya, modifique, transmita o cancele una garantía mobiliaria.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+###### Art. 32 Bis 6.
+
+Las garantías mobiliarias inscritas de conformidad con la presente Sección, surtirán efectos frente a terceros de conformidad con las leyes respectivas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+###### Art. 32 Bis 7.
+
+Cualquier interesado estará facultado para solicitar a la Secretaría la expedición de certificaciones respecto de los actos inscritos en el Registro, previa presentación de la solicitud correspondiente y pago de los derechos respectivos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+###### Art. 32 Bis 8.
+
+Las normas reglamentarias del Registro desarrollarán, entre otros:
+
+I. Los procedimientos y requisitos técnicos y operativos con motivo de inscripciones, anotaciones, certificaciones y consultas que se lleven a cabo;
+
+II. Las características de las formas precodificadas para la inscripción y anotación en el Registro;
+
+III. Los criterios de clasificación de las distintas garantías, así como de los bienes afectos a las mismas;
+
+IV. El procedimiento para la renovación de las inscripciones;
+
+V. Los procedimientos y requisitos para la rectificación, modificación o cancelación de la información del Registro, y
+
+VI. Cualquier otro dato, requisito, procedimiento o condición necesarios para la adecuada operación del Registro.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+
+###### Art. 32 Bis 9.
+
+No será aplicable a esta Sección, lo dispuesto por los artículos 18, segundo párrafo, con excepción de las facultades previstas para la Secretaría; 20; 20 bis; 21, salvo por lo señalado en su fracción XX; 21 bis; 23; 25; 26; 31; 32 y 32 bis.
 
 ### CAPÍTULO III.
 
@@ -9311,3 +9439,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 D.O.F. 9 DE JUNIO DE 2009.
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE AGOSTO DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Registro Único de Garantías Mobiliarias a que se refiere la Sección Única del Capítulo II del Título Segundo del Libro Primero del Código de Comercio, deberá iniciar operaciones a más tardar dentro del año siguiente a la entrada en vigor del presente Decreto, con apego a las normas reglamentarias que se expidan al efecto.
+
+Tercero. Hasta en tanto inicie operaciones el Registro Único de Garantías Mobiliarias, no será exigible ninguna inscripción a través del mismo.
