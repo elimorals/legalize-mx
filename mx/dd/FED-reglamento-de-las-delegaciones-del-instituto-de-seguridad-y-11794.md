@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-delegaciones-del-instituto-de-seguridad-y-117
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-01"
-last_updated: "2002-11-28"
+last_updated: "2009-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11794&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-09-18"
 
 REGLAMENTO DE LAS DELEGACIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGANICO DE LAS DELEGACIONES ESTATALES Y REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 27 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 1 de octubre de 1997.
 
@@ -922,3 +924,15 @@ SEGUNDO.- En su oportunidad inscríbanse las presentes reformas en el Registro P
 D.O.F. 28 DE NOVIEMBRE DE 2002.
 
 Unico.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Reglamento abroga al Reglamento de las Delegaciones del ISSSTE, publicado en el Diario Oficial de la Federación el 1ro. de octubre de 1997, así como todas sus reformas y adiciones.
+
+TERCERO.- Las actuales Delegaciones del Instituto conservarán su circunscripción territorial, en tanto la Junta Directiva del Instituto no la modifique con base en este Reglamento.
+
+CUARTO.- Lo establecido en el artículo 19 Apartado C, estará vigente hasta en tanto se autoricen y registren las modificaciones a la estructura orgánica del FOVISSSTE.
+
+QUINTO.- Continuarán vigentes los instrumentos jurídicos que permitan la aplicación del presente Reglamento, hasta en tanto se emitan las normas relativas al presente ordenamiento.
