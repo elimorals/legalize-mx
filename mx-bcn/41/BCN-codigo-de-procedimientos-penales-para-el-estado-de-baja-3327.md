@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-03-20"
+last_updated: "2009-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -249,9 +249,9 @@ c) (DEROGADO, P.O. 13 DE FEBRERO DE 2009)
 
 La anuencia podrá otorgarse por los disponentes secundarios de manera inmediata.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
-La autorización que deberá otorgar el Ministerio Público no podrá exceder de las 72 horas siguientes a la certificación de muerte del donador y se (sic) de la pérdida de la vida. En caso de muerte cerebral en términos de la Ley General de Salud, el plazo será de hasta 6 horas siempre y cuando se haya expedido el certificado de defunción.
+La autorización deberá otorgarse con la mayor inmediatez posible, misma que no podrá exceder de las 72 horas siguientes a la hora en que se dé fe de la pérdida de la vida; en caso de muerte cerebral en términos de la Ley General de Salud, el plazo será de hasta 6 horas.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2009)</small>
 
@@ -3740,3 +3740,9 @@ P.O. 13 DE FEBRERO DE 2009.
 P.O. 20 DE MARZO DE 2009.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 28 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
