@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-la-universidad-tecnologica-de-puebla-7606"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-08"
-last_updated: "1994-11-08"
+last_updated: "2009-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA LA UNIVERSIDAD TECNOLOGICA DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 8 de noviembre de 1994.
 
@@ -77,9 +77,17 @@ II.- Realizar investigación en las áreas de su competencia que se traduzca en 
 
 III.- Desarrollar programas de apoyo técnico en beneficio de la sociedad;
 
-IV.- Promover la cultura tecnológica, científica y humanística estatal, nacional e internacional; y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
 
-V.- Desarrollar funciones de vinculación con los sectores público, privado y social para contribuir con el desarrollo de la comunidad.
+IV.- Promover la cultura tecnológica, científica y humanística estatal, nacional e internacional;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
+
+V.- Desarrollar funciones de vinculación con los sectores público, privado y social para contribuir con el desarrollo de la comunidad; y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2009)</small>
+
+VI.- Ofrecer programas de continuidad de estudios para sus egresados, y para egresados del nivel Técnico Superior Universitario o Profesional Asociado de otras Instituciones de Educación Superior, que permitan a los estudiantes alcanzar el nivel académico de licenciatura. Para que “LA UNIVERSIDAD” pueda ofrecer programas de continuidad de estudios, los cuales operarán con base en los requisitos y el modelo pedagógico, académico y administrativo aprobado por “LA SECRETARÍA”, a través de la Subsecretaría de Educación Superior y por conducto de la Coordinación General de Universidades Tecnológicas.
 
 ###### ARTICULO 5º.
 
@@ -362,3 +370,19 @@ LIC. MANUEL BARTLETT DIAZ.
 EL SECRETARIO DE GOBERNACION
 
 LIC. CARLOS PALAFOX VAZQUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Directivo y el Rector de la Universidad, en el ámbito de sus atribuciones emitirán los acuerdos y circulares necesarios, tendientes a la aplicación de lo dispuesto en el presente Decreto, asimismo, realizarán los trámites y gestiones pertinentes ante las Dependencias de los Gobiernos Federal y Estatal, para el cumplimiento del mismo.
