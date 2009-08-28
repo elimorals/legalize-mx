@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2008-08-08"
+last_updated: "2009-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -651,15 +651,9 @@ d).- El valor de avalúo que practique la autoridad fiscal municipal, cuando és
 
 En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
 
-V.- La tasa inicial del Impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos, suburbanos y rústicos que en los Reglamentos del Catastro Inmobiliario de los Municipios del Estado se clasifiquen como predios no edificados o baldíos y se encuentren comprendidos en éstos, los predios que teniendo construcciones se encuentren en estado de abandono, presentando condiciones de inseguridad y de improductividad, siempre y cuando cuenten con servicios de agua, electricidad y drenaje; entre tanto conserven esa calidad, será ascendente y aumentará automáticamente el 25% (veinticinco por ciento) cada año hasta completar diez años, al final de los cuales se interrumpe.
-
-Los efectos de esta Fracción no serán aplicables:
-
-1.- A los predios destinados para su venta o que vendan los fraccionamientos debidamente autorizados en tanto no sean recibidos por el Gobierno del Estado y Municipio.
-
-2.- Ni a los predios no edificados que formen parte de una unidad comercial o industrial.
+V.- La tasa del Impuesto que corresponda pagar, será la que se determine en la Ley de Ingresos de cada Municipio del Estado, para el ejercicio fiscal correspondiente.
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
@@ -2157,7 +2151,7 @@ Si se intnerpone (sic) el recurso de condonación no podrá hacer uso del recurs
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE JUNIO DE 2008)</small>
 
-DE LA APLICACIÓN DEL REDONDEO
+DE LA APLICACION DEL REDONDEO
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2008)</small>
 
@@ -2362,3 +2356,7 @@ En tanto no se adecuen los reglamentos municipales, se continuarán aplicando lo
 ###### ARTICULO CUARTO.
 
 Los sujetos que hayan causado el Impuesto conforme al artículo 75 BIS B de la Ley de Hacienda Municipal del Estado de Baja California, antes de la entrada en vigor del presente Decreto y que aún no lo hayan pagado, se regirán por la disposición vigente al momento de su causación.
+
+P.O. 28 DE AGOSTO DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
