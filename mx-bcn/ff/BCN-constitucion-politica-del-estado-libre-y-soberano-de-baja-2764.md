@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2009-05-22"
+last_updated: "2009-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -177,13 +177,13 @@ La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá un
 
 Toda persona tiene el derecho a la práctica del deporte, a la cultura física y a gozar de un medio ambiente adecuado para su desarrollo y bienestar. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
-Toda persona tiene derecho a acceder a la información que la ley atribuye el carácter de pública. La Ley de la materia deberá observar entre otros los principios de máxima publicidad y gratuidad, asimismo, deberá establecer los procedimientos para acceder a la información pública y señalar aquella que tenga el carácter de reservada o confidencial.
+Toda persona sin necesidad de acreditar interés alguno, tiene derecho a acceder a la información que la ley atribuye el carácter de pública, a sus datos personales, o a la rectificación de éstos. La Ley de la materia deberá observar, entre otros, los principios de protección a los datos personales, máxima publicidad y gratuidad; asimismo, deberá establecer los mecanismos de acceso a la información pública, de protección de los datos personales, así como los procedimientos de revisión, y señalar aquella que tenga el carácter de reservada o confidencial.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
-La Ley establecerá un organismo ciudadano con atribuciones de consulta, propuesta, promoción y difusión del acceso a la información pública. Sus titulares tendrán carácter honorífico.
+Los procedimientos señalados en el párrafo anterior se sustanciaran ante órganos u organismos especializados, imparciales y con autonomía operativa, de gestión y de decisión, en los términos que señale la normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -3094,3 +3094,15 @@ CUARTO.- La reforma al primer párrafo del artículo 17 de la Ley Orgánica del 
 P.O. 22 DE MAYO DE 2009.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 28 DE AGOSTO DE 2009.
+
+Primero.- Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del estado Libre y Soberano de Baja California.
+
+Segundo.- En su oportunidad, pronunciada la declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja california, remítase al Ejecutivo la presente reforma Constitucional para los efectos conducentes.
+
+Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Cuarto.- Una vez que entre en vigor la anterior reforma, este H. Congreso deberá adecuar las leyes secundarias.
+
+Quinto.- Hasta en tanto no se hagan las reformas a las que se hace referencia en el Artículo anterior, los asuntos iniciados o que se inicien en ese lapso, se regirán por las leyes vigentes de la materia.
