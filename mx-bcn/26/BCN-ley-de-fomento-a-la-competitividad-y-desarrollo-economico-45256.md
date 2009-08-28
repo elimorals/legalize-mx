@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2007-08-31"
+last_updated: "2009-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -501,6 +501,18 @@ d) Más del 66%, en mercados del país 5 puntos
 
 e) Más del 66%, en mercados extranjeros 6 puntos
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2009)</small>
+
+VII. Prestaciones Laborales
+
+Esquema 1. Por la prestación de beneficios laborales otorgados por la misma empresa sin costo alguno para el trabajador:
+
+a) Por servicio de comedor 1 punto
+
+b) Por servicio de transporte público o privado 1 punto
+
+c) Por servicio de guardería 1 punto
+
 El plazo para que la Empresa cumpla con los supuestos previstos en las fracciones I, II y III, será de 2 años, contado a partir de que se determine la procedencia de la solicitud de Estímulos fiscales.
 
 El período para tomar como referencia el promedio de los conceptos previstos en las fracciones IV, V y VI, será de un año, contado a partir de que la Empresa empiece a recibir el Estímulo fiscal.
@@ -866,3 +878,7 @@ Se condona a los contribuyentes a que se refiere el artículo 181 que se adicion
 ###### ARTÍCULO CUARTO.
 
 Se deroga el artículo segundo transitorio del Decreto número 185, publicado en el Periódico Oficial del Estado, el día 24 de febrero de 2006.
+
+P.O. 28 DE AGOSTO DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
