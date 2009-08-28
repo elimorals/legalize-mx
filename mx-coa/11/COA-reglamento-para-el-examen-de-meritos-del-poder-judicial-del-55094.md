@@ -4,7 +4,7 @@ identifier: "COA-reglamento-para-el-examen-de-meritos-del-poder-judicial-del-550
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-21"
-last_updated: "2007-03-21"
+last_updated: "2009-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO PARA EL EXAMEN DE MERITOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 AGOSTO DE 2009
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el miércoles 21 de marzo de 2007.
 
@@ -43,6 +43,8 @@ REGLAMENTO PARA EL EXAMEN DE MÉRITOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA 
 
 El presente Reglamento tiene por objeto establecer los lineamientos e implementar los mecanismos para la aplicación del examen de méritos, como una de las condiciones para el ingreso y ascenso en la carrera judicial, en los términos del Capítulo II, Título Cuarto, de la Ley Orgánica del Poder Judicial del Estado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 2.
 
 Corresponde al Consejo de la Judicatura del Estado vigilar el exacto cumplimiento de este Reglamento conforme a las facultades conferidas por la Constitución Política del Estado y la Ley Orgánica del Poder Judicial.
@@ -51,19 +53,31 @@ Corresponde al Consejo de la Judicatura del Estado vigilar el exacto cumplimient
 
 Para los efectos del presente Reglamento se entenderá por:
 
-EL CONSEJO.- El Consejo de la Judicatura del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 AGOSTO DE 2009)</small>
 
-PLENO.- El Pleno del Tribunal Superior de Justicia.
+I. Consejo: El Consejo de la Judicatura del Estado.
 
-INSTITUTO.- El Instituto de Especialización Judicial.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 AGOSTO DE 2009)</small>
 
-LEY.- La Ley Orgánica del Poder Judicial del Estado.
+II. Pleno: El Pleno del Tribunal Superior de Justicia.
 
-SECRETARÍA.- La Secretaría de Acuerdos del Consejo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 AGOSTO DE 2009)</small>
+
+III. Instituto: El Instituto de Especialización Judicial.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 AGOSTO DE 2009)</small>
+
+IV. Ley: La Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 AGOSTO DE 2009)</small>
+
+V. Secretaría: La Secretaría de Acuerdo y Trámite del Consejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 4.
 
-Las vacantes o nuevas plazas que se registren en los cargos judiciales, con excepción de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo del Poder Judicial del Estado, se cubrirán mediante la aplicación de las fases, pruebas y evaluaciones previstas en este Reglamento, que los aspirantes deberán presentar y aprobar como uno de los requisitos para ser designados titulares en el cargo al que se aspire.
+Las vacantes o nuevas plazas que se registren en los cargos judiciales, con excepción de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso- Administrativo y del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado, se cubrirán mediante la aplicación de las fases, pruebas y evaluaciones previstas en este Reglamento, que los aspirantes deberán presentar y aprobar como uno de los requisitos para ser designados titulares en el cargo al que se aspire.
 
 En el examen podrán participar quienes laboren en los órganos jurisdiccionales y dependencias del Poder Judicial, así como el público en general con estudios concluidos de Licenciatura en Derecho, siempre y cuando reúnan los requisitos señalados en este Reglamento.
 
@@ -95,25 +109,37 @@ La convocatoria para el examen de méritos a que se refiere este Reglamento, con
 
 I.- Las categorías de la carrera judicial, por materia o materias, para las cuales se convoca a examen de méritos para ingreso o ascenso;
 
-II.- Las bases y trámites a los que quedan sujetas las etapas del examen;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
 
-III.- Los requisitos que deberán reunir los aspirantes para ser examinados conforme a la Ley;
+II.- Las bases y trámites a los que quedan sujetas las fases del examen;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
+
+III.- Los requisitos que deberán reunir los aspirantes, de conformidad con los previstos para ocupar el cargo, así como aquellos para ser examinados, de acuerdo con este reglamento y demás disposiciones aplicables;
 
 IV.- El lugar o lugares, plazo y documentos necesarios para la inscripción. En los casos en que se requieran documentos oficiales, se deberán presentar en copia certificada;
 
-V.- La fecha, hora y lugar o lugares en que tendrán verificativo las etapas del examen;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
+
+V.- La fecha, hora y lugar o lugares en que tendrán verificativo las fases del examen o, en su caso, el medio en que se señalarán oportunamente;
 
 VI.- La calificación mínima aprobatoria que se exija.
 
-La convocatoria deberá señalar los temas de derecho que serán objeto de evaluación; para el efecto se formularán y prepararán las guías de estudio respectivas, que se entregarán a los interesados al presentar su solicitud.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
-Además de (sic) de los documentos necesarios para la inscripción del aspirante, deberá acompañar su currículum vitae con copias simples de los comprobantes que justifique o acredite la información que contenga.
+La convocatoria deberá señalar los temas de derecho que serán objeto de evaluación; para el efecto se formularán y prepararán los temarios de estudio respectivos, a los que podrían acceder los interesados a través de los mecanismos que determine el Consejo.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
+
+Además de los documentos necesarios para su inscripción, el aspirante deberá acompañar su currículum vitae con copias simples de los comprobantes que justifiquen o acrediten la información que contenga.
 
 ###### ARTÍCULO 9.
 
 La convocatoria se publicará en los estrados del Tribunal Superior de Justicia, Tribunales Especializados, Tribunales Unitarios, y Juzgados del Estado, sin perjuicio de que se le dé amplia difusión por otros medios.
 
-El plazo para presentar las solicitudes de inscripción será de diez días hábiles improrrogables, contado a partir de la fecha que señale la convocatoria.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
+
+El plazo para presentar las solicitudes de inscripción será de siete días hábiles improrrogables, contado a partir de la fecha que señale la convocatoria.
 
 ###### ARTÍCULO 10.
 
@@ -131,11 +157,15 @@ El Instituto llevará un registro de solicitudes, e integrará un expediente a c
 
 Las solicitudes que se reciban y los expedientes formados se enviarán con una relación al Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 12.
 
-El Consejo examinará los expedientes de los aspirantes y excluirá, en su caso, a los que no reúnan los requisitos que señale la convocatoria. No se harán públicos los motivos de la exclusión, salvo que así lo solicite el interesado.
+El Consejo examinará los expedientes de los aspirantes y excluirá, en su caso, a los que no reúnan los requisitos que señale la convocatoria, además de aquellos que no gocen de buena fama pública; para el efecto el Consejo podrá realizar las investigaciones conducentes y solicitar las constancias que se requieran a las instancias correspondientes. No se harán públicos los motivos de la exclusión, salvo que así lo solicite el interesado.
 
-Sólo serán consideradas las solicitudes que satisfagan todos y cada uno de los requisitos previstos y sean presentadas en el plazo contemplado en la convocatoria.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
+
+Sólo serán considerados los aspirantes cuyas solicitudes satisfagan, al momento de su presentación, todos y cada uno de los requisitos previstos en la ley para el cargo al que se aspire, así como aquellos contenidos en la convocatoria y que sean presentadas en el plazo contemplado en la convocatoria. Para estos efectos, el Consejo de la Judicatura publicará en los estrados de los órganos jurisdiccionales del Estado y a través de los medios que acuerde, la lista de los aspirantes que sustentarán el examen.
 
 El Consejo proporcionará a los aspirantes considerados una identificación o contraseña que indique el número asignado. Sin este documento no podrá sustentar el examen.
 
@@ -149,107 +179,157 @@ Las fases que comprende el examen se llevarán a cabo en el lugar o lugares, dí
 
 El examen de méritos para ingresar y ascender en la carrera judicial, comprenderá las fases siguientes:
 
-I.- Fase de valoración de aptitudes;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
 
-II.- Fase de evaluación de conocimientos; y
+I.- Fase de evaluación de conocimientos;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
+
+II.- Fase de valoración de aptitudes; y
 
 III.- Fase de evaluación de méritos.
 
-#### SECCIÓN PRIMERA. DE LA FASE DE VALORACIÓN DE APTITUDES
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 2009)</small>
+
+#### SECCIÓN PRIMERA. DE LA FASE DE VALORACIÓN DE CONOCIMIENTOS
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 15.
 
-La fase de valoración de aptitudes comprenderá la evaluación de las aptitudes, capacidades y competencias psicológicas y vocacionales para desempeñar un cargo dentro de los órganos del Poder Judicial.
+Mediante la fase de evaluación de conocimientos se calificarán el grado de saber y cultura en materia de derecho y las capacidades técnico - jurídicas de los aspirantes.
+
+La evaluación de los conocimientos podrá ser común en las categorías y cargos de los diversos órganos jurisdiccionales, conforme lo determine el Consejo, considerando la materia o materias de que se trate y atendiendo a las necesidades del servicio.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 16.
 
-La evaluación de esta fase estará a cargo de una Comisión conformada por tres integrantes: por un miembro adscrito al Centro de Evaluación Psicosocial del Poder Judicial, un académico o experto en la materia y un miembro del Instituto, todos designados por el Consejo.
+La fase de evaluación de conocimientos comprende las siguientes etapas:
 
-La Comisión será presidida por el representante del Instituto, quien tendrá voto de calidad.
+I. Examen escrito;
+
+II. Resolución de caso práctico; y
+
+III. Examen oral.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 17.
 
-La Comisión encargada de la fase de valoración de aptitudes formulará los reactivos que contendrán cada evaluación, las pruebas y demás exámenes que estime pertinentes en relación a los cargos vacantes que estén contenidos en la convocatoria respectiva. La Comisión podrá auxiliarse de instituciones educativas o profesionales en la materia, previo el convenio suscrito para tales efectos.
+La evaluación escrita consistirá en la aplicación de examen escrito que formule el Instituto, que podrá apoyarse para la elaboración de los reactivos correspondientes en las instituciones, organizaciones y personas que determine el Consejo.
 
-Los resultados de la evaluación que emita la Comisión en esta fase serán de dos tipos: acreditado o no acreditado.
+Para tales efectos, previamente se determinarán para cada examen, por parte del Consejo, a propuesta del Instituto, los temas de derecho que serán objeto de evaluación y su respectivo temario de estudio, conforme a cada materia o materias de especialización del cargo, mismos que se harán del conocimiento de los aspirantes en los términos de lo dispuesto por el artículo 8 de este Reglamento.
 
-Sólo los aspirantes acreditados en esta etapa pasarán a la fase de evaluación de conocimientos siguiente.
+El examen escrito será calificado por el Instituto, que podrá apoyarse en medios electrónicos para ello, previamente aprobados por el Consejo.
+
+La calificación minima aprobatoria será de 85 (ochenta y cinco) puntos.
+
+Sólo los aspirantes con calificación aprobatoria podrán presentar la evaluación de la etapa de resolución del caso práctico a que se refiere este Reglamento. Los resultados de esta etapa se publicarán en los estrados de los órganos jurisdiccionales del Estado, así como a través de los medios que determine el Consejo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 18.
 
-Mediante la fase de evaluación de conocimientos se calificarán el grado de saber y cultura en materia de derecho y las capacidades técnico-jurídicas de los aspirantes.
+La resolución del caso práctico consistirá en la evaluación en la que el aspirante resolverá un caso que pudiera presentarse en el desempeño del cargo al que aspira, según corresponda el mismo.
 
-La evaluación de los conocimientos en sus etapas oral y escrita que comprende esta fase podrá ser común para las categorías de Secretarios de Acuerdo y Trámite, Secretarios de Estudio y Cuenta y Actuarios para Juzgados de Primera Instancia y Letrados, según la materia que corresponda.
+En esta etapa, el Consejo, a propuesta del Instituto, determinará el caso concreto que deban resolver los sustentantes en atención al cargo judicial al que se aspiren, mismo caso que podrá ser aplicable a la totalidad de los aspirantes para cada cargo en particular.
+
+El caso práctico a resolver tendrá, preferentemente, las siguientes características: que no haya sido resuelto a la fecha en que lo proponga el Instituto, que sea alguno de los que con mayor frecuencia se presentan conforme a la materia de que se trate y que su complejidad sea de tipo medio.
+
+En la solución del caso práctico los aspirantes podrán llevar consigo las leyes, códigos y demás elementos materiales que consideren necesarios, mismos que deberán ser autorizados por el Consejo.
+
+La evaluación de esta etapa estará a cargo de una comisión integrada por, cuando menos, tres miembros que designe el Consejo, que integrará tantas comisiones como sean necesarias, atendiendo al número de aspirantes. Para tal evaluación se considerarán los siguientes aspectos:
+
+I. La aptitud del sustentante para proponer una resolución jurídicamente razonable del caso práctico a resolver, tendrá un valor máximo de 40 puntos;
+
+II. La demostración del conocimiento de la técnica de la materia procesal de que se trate, tendrá un valor máximo de 30 puntos: y
+
+III. La argumentación, congruencia, claridad y redacción jurídica contenidas en el proyecto, tendrá un valor máximo de 30 puntos.
+
+Se aplicará una escala de 10 (diez) a 100 (cien) puntos, la calificación mínima aprobatoria será de 85 (ochenta y cinco) puntos.
+
+La Comisión levantará un acta en la que se hará constar las calificaciones, debiendo remitir dicha acta al Instituto para los efectos del artículo 21 de este reglamento.
+
+Sólo los aspirantes con calificación aprobatoria podrán presentar el examen oral a que se refiere este Reglamento. Los resultados de esta etapa se publicarán en los estrados de los órganos jurisdiccionales del Estado, así como a través de los medios que determine el Consejo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 19.
 
-Para la evaluación de conocimientos, el Consejo designará sendas Comisiones, atento al número de aspirantes, los lugares donde habrá de aplicarse y las materias que se contemplen en la convocatoria.
+El examen oral y (sic) consistirá en una evaluación en donde cada sustentante expondrá un tema de derecho atendiendo a la especialización de la materia del cargo al que aspira.
 
-La Comisión o Comisiones se integrarán por tres miembros: dos de ellos serán designados de entre aquellos propuestos por las instituciones y organizaciones educativas, académicas o profesionales en materia de derecho, por especialidad, que previa invitación y convenio, sean auxiliares en la aplicación del examen de méritos. El tercero será designado entre los Magistrados del Tribunal Superior de Justicia, de los Tribunales Especializados del Poder Judicial, de Tribunales Unitarios o el Visitador General, así como de ex Magistrados o ex Jueces en retiro, previa invitación y aceptación correspondiente.
+Este examen será público, sin embargo no podrán tener acceso a él los aspirantes que lo hayan o no sustentado.
 
-Cuando el examen se aplique para Secretario de Estudio y Cuenta de las Salas del Tribunal Superior de Justicia o de alguno de los tribunales especiales del Poder Judicial, siempre deberá ser llamado como tercer miembro de la Comisión a un Magistrado integrante de dichos órganos jurisdiccionales, según corresponda.
+La exposición se sustentará ante una Comisión integrada por, cuando menos, tres miembros que designe el Consejo, quien deberá considerar que sean conocedores de las materias y con solvencia profesional para la aplicación de los exámenes. El Consejo aprobará la integración de tantas Comisiones como sean necesarias, ateniendo al número de aspirantes, los lugares donde habrá de aplicarse y las materias que se contemplen en la convocatoria.
 
-La Comisión será presidida por el funcionario o ex funcionario judicial designado por el Consejo, quien tendrá voto de calidad.
+Para tales efectos, previamente se determinarán para cada examen, por parte del Consejo, a propuesta del Instituto, los temas de derecho que serán objeto de evaluación, conforme a cada materia de especialización del cargo, mismos que se harán del conocimiento de los aspirantes en los términos de lo dispuesto por el artículo 8 de este Reglamento.
 
-Los miembros de la Comisión a que se refiere este artículo, con excepción de los funcionarios judiciales en activo y quienes gocen de jubilación, recibirán los honorarios que determine el Consejo, con cargo al presupuesto del Poder Judicial o al Fondo de Mejoramiento de la Administración de Justicia.
+Para el desarrollo del examen oral, el aspirante elegirá al azar aquellos temas que expondrá en el momento que le corresponda sustentarlo. El aspirante realizará su exposición y la Comisión, si lo juzga conveniente, hará las réplicas que considere necesarias. En este examen los sustentantes no podrán utilizar material alguno de apoyo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 20.
 
-La fase de evaluación de conocimientos se realizará en dos etapas:
+El examen oral será calificado por la Comisión que corresponda, tomando en cuenta el desarrollo del tema y el acierto en las respuestas en los casos de réplicas, para lo cual el Consejo determinará la metodología de evaluación.
 
-I.- La primera etapa consistirá en una evaluación oral en donde cada sustentante, ante los miembros de la Comisión, expondrá un tema de derecho atendiendo a la especialización de la materia del cargo al que aspira.
+Se aplicará una escala de 10 (diez) a 100 (cien) puntos, la calificación mínima aprobatoria será de 85 (ochenta y cinco) puntos.
 
-Para tales efectos, previamente se determinarán para cada examen, por parte de la Comisión, los temas de derecho que serán objeto de evaluación y su respectiva guía de estudio, conforme a cada materia de especialización del cargo, mismos que se harán del conocimiento de los aspirantes en los términos de lo dispuesto por el artículo 8 de este Reglamento.
+La Comisión respectiva levantará acta en la que se hará constar las calificaciones, haciendo mención de las circunstancias relevantes en que se realizó el examen, debiendo remitir dicha acta al Instituto para los efectos del artículo 21 de este reglamento.
 
-Los integrantes de la Comisión elaborarán los reactivos que se sujetarán a evaluación oral para cada examen y, al azar, el aspirante elegirá aquellos que expondrá en el momento en que le corresponda sustentarlo. El aspirante realizará su exposición y la Comisión, si lo juzga conveniente, hará las réplicas que considere necesarias.
+Sólo los aspirantes con calificación aprobatoria podrán pasar a la fase de valoración de aptitudes a que se refiere este Reglamento. Los resultados de esta etapa se publicarán en los estrados de los órganos jurisdiccionales del Estado, así como a través de los medios que determine el Consejo.
 
-II.- La segunda etapa, consistirá en una evaluación escrita en la que el aspirante resolverá un caso práctico que pueda presentarse en el desempeño de su cargo, según corresponda el mismo.
-
-En esta etapa, los miembros de la Comisión determinarán el caso concreto que deberán resolver los sustentantes, según la materia de especialización, mismo caso que será aplicable para la totalidad de los aspirantes para cada cargo en particular.
-
-Tratándose del examen oral, los aspirantes no podrán utilizar material alguno de apoyo. En la solución del caso práctico en el examen escrito, todos los aspirantes podrán llevar consigo las leyes, códigos y demás elementos materiales que consideren necesarios, mismos que deberán ser autorizados por los miembros de la Comisión.
+> <small>(REFORMADO Y REUBICADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 21.
 
-Los exámenes oral y escrito serán calificados por la Comisión aplicando una escala de 50 (cincuenta) a 100 (cien) puntos, con los siguientes valores: 50% al examen oral y 50% al escrito. La calificación mínima aprobatoria será de 80 (ochenta) puntos.
+En cada una de las etapas de la fase de evaluación de conocimientos, el Instituto levantará un acta en la que se harán constar los resultados totales de las calificaciones, haciendo mención de las circunstancias relevantes en las que se realizaron los exámenes, debiendo remitir dicha acta al Consejo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 22.
 
-Para la calificación de los exámenes la Comisión evaluará en su caso, los siguientes aspectos:
+El Consejo proveerá lo conducente para la metodología y aplicación de la fase de evaluación de conocimientos, a fin de garantizar la igualdad, imparcialidad y objetividad de las evaluaciones; sus decisiones en cuanto a su implementación y aplicación no admitirán recurso alguno.
 
-I.- Para el examen oral se tomará en cuenta el desarrollo del tema y el acierto en las respuestas en los casos de réplicas por parte de la Comisión.
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 2009)</small>
 
-II.- Para el examen escrito, la calificación deberá asignarse dentro de una escala de 0 (cero) a 100 (cien) puntos, la que se obtendrá considerando los siguientes aspectos:
+#### SECCIÓN SEGUNDA. DE LA FASE DE VALORACIÓN DE APTITUDES
 
-a. La aptitud del sustentante para proponer una resolución jurídicamente razonable del caso práctico a resolver, tendrá un valor máximo de 40 puntos;
-
-b. La demostración del conocimiento de la técnica de la materia procesal de que se trate, tendrá un valor máximo de 40 puntos; y
-
-c. La argumentación, congruencia, claridad y redacción jurídica contenidas en el proyecto, tendrá un valor máximo de 20 puntos.
-
-#### SECCIÓN SEGUNDA. DE LA FASE DE EVALUACIÓN DE CONOCIMIENTOS
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 23.
 
-La Comisión o Comisiones levantarán un acta en la que se hará constar los resultados totales de las calificaciones, haciendo mención de las circunstancias en que se realizó el examen, debiendo remitir copia de dicha acta al Consejo.
+La fase de valoración de aptitudes comprenderá la evaluación de las aptitudes, actitudes, capacidades y competencias psicológicas y vocacionales para desempeñar un cargo dentro de los órganos del Poder Judicial.
 
-Sólo los aspirantes con la calificación mínima aprobatoria pasarán a la fase de evaluación de méritos a que se refiere este Reglamento.
+La evaluación de esta fase estará a cargo de una institución, ya sea educativa o especializada en estas evaluaciones designada por el Consejo, a propuesta del Instituto, previo el convenio suscrito para tales efectos.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 24.
 
-La Comisión o Comisiones resolverán y proveerán lo conducente para la aplicación de esta fase, a fin de garantizar la igualdad, imparcialidad y objetividad de la evaluación y sus decisiones en cuanto a su implementación y aplicación no admitirán recurso alguno, salvo lo dispuesto por el artículo 36 de este Reglamento.
+La institución encargada de la fase de valoración de aptitudes formulará los reactivos que contendrá cada evaluación, las pruebas y demás exámenes que estime pertinentes en relación a los cargos que se aspire y que estén contenidos en la convocatoria respectiva.
+
+Los resultados de la evaluación que emita la institución en esta fase serán de dos tipos: acreditado o no acreditado.
+
+Las pruebas, instrumentos y contenido de este examen serán confidenciales y sólo se podrán (sic) a conocer a los miembros del Consejo y, en su caso, al interesado, previa solicitud.
+
+Sólo los aspirantes acreditados en esta fase pasarán a la evaluación de méritos. Los resultados de esta fase se publicarán en los estrados de los órganos jurisdiccionales del Estado, así como a través de los medios que determine el Consejo.
 
 #### SECCIÓN TERCERA. DE LA FASE DE EVALUACIÓN DE MÉRITOS
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 25.
 
-Mediante la fase de evaluación de méritos se valorarán las cualidades, éticas y deontológicas, así como laborales y académicas de los aspirantes para ocupar los cargos vacantes en los órganos jurisdiccionales o, en su caso, formar parte integrante de la reserva judicial.
+Mediante la fase de evaluación de méritos se valorarán las cualidades, éticas y deontológicas, así como laborales y académicas de los aspirantes para ocupar los cargos vacantes en los órganos jurisdiccionales o, en su caso, el orden de prelación en la reserva judicial.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 26.
 
-La evaluación de esta fase estará a cargo del Consejo, a través del mecanismo que determine para el efecto.
+La evaluación de esta fase estará a cargo del Consejo, a través del mecanismo que determine para el efecto, considerando invariablemente los indicadores a que se refiere el artículo 27 de este reglamento.
 
-En los casos de calificaciones idénticas o con diferencia de hasta cinco puntos entre dos o más aspirantes, la evaluación de méritos determinará a la persona que resulte más idónea de entre ellos.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 27.
 
@@ -259,37 +339,51 @@ I.- Antecedentes académicos;
 
 II.- Antecedentes laborales;
 
-III.- Si están incluidos en la carrera judicial o si cuentan con la experiencia de trabajo en órgano jurisdiccional;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
 
-IV.- Conducta profesional; y
+III.- Si están incluidos en la carrera judicial o si cuentan con la experiencia de trabajo en órgano jurisdiccional; y
 
-V.- Fama pública.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
+
+IV.- Conducta profesional.
+
+V.- (DEROGADA, P.O. 28 DE AGOSTO DE 2009)
 
 Para los efectos de este artículo, el Consejo podrá solicitar a los aspirantes en cualquier momento, dentro de esta fase, la información y documentación que considere procedente y tendrá la facultad de verificar la certeza o autenticidad de los mismos.
 
 La Visitaduría Judicial General del Poder Judicial tendrá voz, pero no voto, en esta fase del examen.
 
-La evaluación de los indicadores a que se refiere este artículo se realizará aplicando una escala de 50 a 100 puntos. La calificación mínima aprobatoria será de 80 puntos.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 28.
 
-El Consejo, con base en el resultado de la evaluación de conocimientos y méritos, establecerá la calificación final y el orden de prelación para ocupar los cargos vacantes y, en su caso, el lugar que corresponda al aspirante que apruebe en la reserva judicial, con la indicación de la categoría y materia que le corresponda.
+El Consejo, con base en el resultado de la evaluación de conocimientos y considerando el resultado de la evaluación de méritos, realizará las asignaciones de cargos vacantes y establecerá el orden de prelación en la reserva judicial, con la indicación de la categoría y materia que le corresponda.
 
 El Consejo deberá fundar y motivar la determinación que desestime o niegue los méritos de un aspirante. En este caso no se hará pública la evaluación hecha, salvo que lo solicite el interesado.
 
 #### SECCIÓN CUARTA. PREVENCIONES COMUNES DE LAS FASES DEL EXAMEN DE MÉRITOS
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 29.
 
-Los aspirantes deberán identificarse para la presentación del examen en cada fase, ante los miembros de la Comisión o del Consejo, según el caso, con la contraseña que incluya el número asignado y con alguno de los siguientes documentos en original: cédula profesional, pasaporte o credencial para votar con fotografía. En caso de no hacerlo, serán descalificados.
+Los aspirantes deberán identificarse para la presentación del examen en cada fase, ante los miembros de la instancia que le corresponda aplicarla, con la contraseña que incluya el número asignado y con alguno de los siguientes documentos en original: cédula profesional, pasaporte o credencial para votar con fotografía. En caso de no hacerlo, serán descalificados.
+
+También serán descalificados los aspirantes que habiendo acreditado alguna de las etapas o fases a que se refiere este título, no se presenten a la siguiente que corresponda en el día, lugar y hora que determine la convocatoria respectiva.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 30.
 
-El contenido y metodología que se apliquen en las fases de valoración de aptitudes y de evaluación de conocimientos a que se refiere este capítulo deberán ser aprobados previamente por el Consejo.
+El contenido y metodología que se apliquen en las fases de evaluación de conocimientos y valoración de aptitudes a que se refiere este capítulo deberán ser aprobados previamente por el Consejo.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 31.
 
-Todo miembro de las Comisiones de las fases de valoración de aptitudes y de evaluación de conocimientos, deberán excusarse de participar en el examen cuando tengan algún vínculo laboral, de parentesco, económico o de cualquier otra índole que afecte su imparcialidad con los aspirantes. La calificación de impedimentos y la sustitución correspondiente serán resueltas por el Consejo.
+Todo miembro de las instancias que participen en la evaluación de las fases de conocimientos y valoración de aptitudes, deberá excusarse de participar cuando tengan algún vínculo laboral, de parentesco, económico o de cualquier otra índole que afecte su imparcialidad con los aspirantes. La calificación de impedimentos y la sustitución correspondiente serán resueltas por el Consejo.
 
 ###### ARTÍCULO 32.
 
@@ -311,43 +405,51 @@ En la implementación y aplicación del examen de méritos, el Consejo podrá to
 
 El Consejo, será la única autoridad facultada para acordar readscripciones, nombramientos y ascensos en los términos que establecen la Ley y este Reglamento.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 35.
 
-Los aspirantes que obtengan una calificación aprobatoria, promediando las fases previstas en este Reglamento, ocuparán los cargos vacantes o, en su caso, pasarán a formar parte de la lista de la reserva judicial, la que deberá difundirse en términos del artículo 69 de la Ley.
+Los aspirantes que obtengan una calificación aprobatoria en la fase de evaluación de conocimientos, que acrediten la valoración de aptitudes y evaluados sus méritos por el Consejo conforme a este reglamento, ocuparán los cargos vacantes o, en su caso, pasarán a formar parte de la lista de la reserva judicial, la que deberá difundirse en términos del artículo 69 de la Ley.
 
-El orden de los integrantes en la lista de la reserva judicial será elaborado por el Consejo, en forma descendente, tomando en consideración las calificaciones promediadas de las fases del examen a que se refiere este Reglamento. Dicha lista iniciará a partir del integrante que haya obtenido la calificación más alta y que no haya sido designado para ocupar un cargo vacante.
+El Consejo de la Judicatura elaborará la lista de la reserva judicial tomando en consideración las disposiciones previstas en el artículo 28 de este Reglamento.
+
+La lista de la reserva judicial será vigente hasta en tanto se integre aquella con los resultados que se obtengan en nuevo examen de meritos que se aplique conforme a este Reglamento y demás disposiciones aplicables.
 
 ###### ARTÍCULO 36.
 
 Para los efectos del presente Capítulo, el titular de la Secretaría integrará todos los expedientes de los aspirantes que hayan sustentado el examen a que se refiere este Reglamento, señalando los resultados obtenidos en las fases del examen de méritos conforme a lo previsto por este ordenamiento.
 
-## TÍTULO CUARTO. DE LOS RECURSOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 2009)</small>
+
+## TÍTULO CUARTO. DEL RECURSO DE REVISIÓN
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 37.
 
-Los aspirantes a ocupar un cargo dentro de un órgano jurisdiccional y, en su caso a integrar la lista de la reserva judicial, podrán inconformarse con la calificación obtenida en alguna fase del procedimiento del examen, mediante el recurso de reconsideración.
+Las decisiones del Consejo de la Judicatura serán definitivas e inatacables, salvo aquella relativa a la formación de la lista de la reserva judicial en la que procederá el recurso de revisión ante el propio Consejo, que deberá presentarse dentro de los cinco días hábiles posteriores a la fecha de su publicación en los estrados de los órganos jurisdiccionales del Poder Judicial del Estado.
 
-El recurso deberá presentarse a través de escrito razonado ante la instancia que aplicó y evaluó la fase del examen correspondiente, dentro de los tres días hábiles posteriores a la publicación de resultados, para su revisión, y en su caso, modificación, acompañando los elementos que consideren convenientes para la justificación y acreditación de su dicho.
+El recurso sólo podrá interponerse por las personas que hayan participado en el examen de méritos, que hayan acreditado la totalidad de las fases previstas en este reglamento y que integren la lista de reserva judicial objeto del recurso.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 38.
 
-La instancia respectiva deberá resolver el recurso en un período que no excederá de cinco días hábiles posteriores a su presentación por el interesado.
+Los interesados deberán presentar el recurso a que se refiere este capítulo ante la Secretaría a través de escrito razonado, acompañando los elementos que consideren convenientes para la justificación y acreditación de su dicho.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 39.
 
-Contra la designación de los cargos vacantes que realice el Consejo, procederá el recurso de reconsideración ante el propio Consejo, dentro de los cinco días hábiles siguientes a la fecha de inicio del cargo.
+El Consejo deberá resolver el recurso en un período que no excederá de diez días hábiles posteriores a su presentación por el interesado.
 
-Para tales efectos, los interesados deberán presentar el recurso a través de escrito razonado, acompañando los elementos que consideren convenientes para la justificación y acreditación de su dicho.
-
-En este caso, en su carácter de tercero interesado, el Consejo deberá oír al aspirante que fue designado en el cargo.
-
-El Consejo deberá resolver el recurso en un período que no excederá de cinco días hábiles posteriores a su presentación por el interesado.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 40.
 
-La resolución del recurso de reconsideración de las Comisiones de cada una de las fases del examen y del Consejo serán definitivas e inatacables.
+Las resoluciones del recurso de revisión del Consejo, serán definitivas e inatacables.
 
 ## TRANSITORIOS
 
@@ -424,3 +526,35 @@ LA LICENCIADA MARÍA ANGÉLICA GIRÓN GARCÍA, SECRETARIA DE ACUERDO Y TRÁMITE 
 LA SECRETARIA DE ACUERDO Y TRÁMITE
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Difúndase el Acuerdo mediante el cual se aprobaron estas reformas así como a través de los medios que determine el Consejo.
+
+###### ARTÍCULO TERCERO.
+
+A las personas que hayan sustentado y aprobado el examen de méritos aplicado en el año 2006 y que ocupen una plaza, acorde al cargo para el que sustentaron, con carácter de interino sujeta a una condición de temporalidad en la fecha en que se apruebe la lista de reserva judicial conforme a este Reglamento, serán tomados en cuenta preferentemente para las readscripciones y plazas de nueva creación, previa evaluación de su desempeño y méritos por parte del Consejo de la Judicatura, de conformidad con las disposiciones contenidas en este ordenamiento.
+
+Las personas a que se refiere este artículo que aspiren a diverso cargo del que vienen ocupando con carácter interino, deberán someterse a las evaluaciones previstas en el presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los integrantes de los órganos jurisdiccionales en funciones que hayan sido designados en sus cargos con nombramientos de carácter interino que no cuenten con el requisito de haber sustentado y aprobado el examen de méritos, podrán inscribirse a aquel a que se convoquen una vez de conformidad con las presentes reformas, a fin de seguir en el desempeño del cargo que ocupan o con el objeto de ascender en la carrera judicial; desde luego, sujetos a su aprobación y a la calificación que se hagan acreedores en igualdad de circunstancias con los demás aspirantes. Sin este requisito no podrán seguir en el desempeño de los cargos asignados interinamente.
+
+El Consejo de la Judicatura notificará a los servidores judiciales que tengan un nombramiento con el carácter de interino, para los efectos conducentes.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones previstas en el artículo cuarto transitorio del Reglamento que se reforma, continuará vigentes en su sentido, observando las presentes reformas.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan a las presentes reformas.
