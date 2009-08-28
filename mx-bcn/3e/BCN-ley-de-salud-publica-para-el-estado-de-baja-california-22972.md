@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2009-08-14"
+last_updated: "2009-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -855,7 +855,9 @@ VI.- Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artr�
 
 VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishmaniasis, tripanosomiasis, y oncocercosis;
 
-VIII.- Sífilis, infecciones gonocóccicas y otras enfermedades de transmisión sexual;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
+
+VIII.- Sífilis, infecciones gonocóccicas, virus del papiloma humano y otras enfermedades de transmisión sexual;
 
 IX.- Lepra y mal del pinto;
 
@@ -1864,3 +1866,7 @@ P.O. 16 DE MAYO DE 2008.
 P.O. 14 DE AGOSTO DE 2009.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2009.
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial del Estado.
