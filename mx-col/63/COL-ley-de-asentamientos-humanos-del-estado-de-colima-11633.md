@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2008-07-05"
+last_updated: "2009-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -2599,6 +2599,18 @@ Toda obra de urbanización y edificación deberá respetar y responder a los lin
 
 Los desarrollos turísticos, campestres y granjas que se localicen fuera de los límites de un centro de población, requerirán la elaboración de su Programa Parcial de Urbanización, conforme los lineamientos del Programa Regional de Desarrollo Urbano previsto en el artículo 40 de esta Ley y las disposiciones del Reglamento Estatal de Zonificación.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2009)</small>
+
+Tratándose de la propiedad social en área parcelada y que el predio a urbanizar no esté comprendido dentro del Programa Municipal de Desarrollo Urbano de un centro de población y que la urbanización no sea dedicada al fraccionamiento para la vivienda, bastará con que el titular de la parcela en la que se pretenda hacer la obra de urbanización, exhiba el Certificado Parcelario debidamente inscrito en el Registro Agrario Nacional.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2009)</small>
+
+Cuando se trate de las tierras de uso común de ejidos o comunidades bastara exhibir copia certificada por el Registro Agrario Nacional de la Carpeta Básica o Carpeta Agraria, que contenga el plano de la delimitación de las tierras de uso común aprobado por la Asamblea. Así mismo acompañar la autorización de Asamblea para que se realicen las obras de urbanización en los terrenos de uso común.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2009)</small>
+
+Para los efectos de los párrafos 3° y 4° de este artículo, el interesado deberá contar con el Programa Parcial de Desarrollo Urbano respecto de la superficie a urbanizar, el cual deberá estar debidamente aprobado por las autoridades municipales correspondientes, así como cumplir con todas las disposiciones legales relacionadas con el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
+
 ###### ARTICULO 257.
 
 En el caso de las áreas y predios donde existan cauces, escurrimientos, arroyos o cuerpos de agua y se pretenda urbanizar, el Ayuntamiento deberá tramitar ante las dependencias competentes en la materia, la delimitación de las afectaciones y zonas de protección necesarias para garantizar el funcionamiento adecuado del sistema hidráulico al que pertenezcan. Estas áreas de dominio público no se considerarán para definir, en ningún concepto, las áreas de cesión para destinos que correspondan a la urbanización.
@@ -4342,3 +4354,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Ayuntamientos deberán reformar sus reglamentos de construcciones para incluir esta disposición a más tardar tres meses después de la entrada en vigor de éste decreto.
 
 TERCERO.- Quedan derogadas todas las disposiciones que se opongan a éste artículo.
+
+P.O. 29 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
