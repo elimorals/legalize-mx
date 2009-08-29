@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2009-04-01"
+last_updated: "2009-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -114,6 +114,10 @@ Derechos.
 El imputado, acusado o condenado podrá ejercer, durante la ejecución de las medidas judiciales o penas impuestas, los derechos y las facultades que las leyes penales, penitenciarias y los reglamentos le otorgan, y planteará personalmente, por medio de su defensor o de cualquier persona en quien él delegue, ante el tribunal que corresponda, las observaciones que, con fundamento en aquellas reglas, estime convenientes.
 
 Los derechos y beneficios que esta Ley prevé para el sentenciado le serán informados al interesado por la autoridad penitenciaria desde el momento en que se empiece a ejecutar la sentencia.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2009)</small>
+
+La persona en calidad de interno, gozará del derecho a recibir copias de la legislación estatal vigente aplicable a la ejecución de penas y medidas de seguridad.
 
 ###### Artículo 6.
 
@@ -1545,6 +1549,10 @@ Programas educativos.
 
 La educación que se imparta en los establecimientos penitenciarios del Sistema se ajustará a los programas oficiales que el Estado Mexicano establezca en materia educativa.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2009)</small>
+
+En los establecimientos penitenciarios se promoverá la instrucción para las mujeres que carezcan de estudios, así como para aquellas que se hubieren encontrado realizando sus estudios antes de su reclusión o que tengan estudios inconclusos, así como propiciar la educación sexual y reproductiva a través de programas de información destinados a ello.
+
 ###### Artículo 139.
 
 Documentación oficial.
@@ -1807,6 +1815,10 @@ Los internos estarán autorizados para comunicarse periódicamente, de forma ora
 
 Las comunicaciones de los internos quedarán sujetas a las disposiciones del Código de Procedimientos.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2009)</small>
+
+Se procurará que la situación de la persona interna no destruya o debilite los lazos con su familia y se tratará de ayudar a resolver los problemas de la misma, para ello se practicarán visitas periódicas a la familia y se organizarán actividades de orientación familiar.
+
 ###### Artículo 169.
 
 Comunicación Inmediata.
@@ -1920,5 +1932,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 1 DE ABRIL DE 2009.
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
