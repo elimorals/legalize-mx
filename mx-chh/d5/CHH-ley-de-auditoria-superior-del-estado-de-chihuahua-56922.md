@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-auditoria-superior-del-estado-de-chihuahua-56922"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2009-06-13"
+last_updated: "2009-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2007.
 
@@ -551,7 +551,9 @@ I. El lugar, día y hora en que se inicie la auditoría o revisión;
 
 II. El nombre y cargo de la persona ante quien se realice la identificación de los auditores o personal comisionado de la Auditoría Superior;
 
-III. La entrega del oficio de comisión signado por el Auditor Superior, en donde constará el objeto de la auditoría o revisión; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2009)</small>
+
+III. La entrega del oficio de comisión signado por el Auditor Superior o por los auditores a que se refieren los artículos 17 y 18 de la presente Ley, en donde constará el objeto de la auditoría o revisión; y
 
 IV. El nombre, cargo y firma de quienes intervinieron, y si hubiere negativa o impedimento se hará constar tal circunstancia. El personal comisionado de la Auditoría Superior entregará copia al servidor público que intervino en el acto.
 
@@ -599,13 +601,17 @@ La Auditoría Superior debe presentar al Congreso el Informe Técnico de Resulta
 
 El Informe Técnico de Resultados deberá contener al menos:
 
-I. La evaluación de la gestión, el cumplimiento financiero y la normatividad;
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2009)</small>
 
-II. El cumplimiento de los principios de contabilidad gubernamental y de las disposiciones contenidas en los ordenamientos legales correspondientes;
+I. El acta a que se refiere el artículo 31 de la presente ley;
 
-III. El señalamiento, en su caso, de las irregularidades detectadas y la estimación cuantificable de las mismas; y
+II. La evaluación de la gestión, el cumplimiento financiero y la normatividad;
 
-IV. Los comentarios, observaciones de los auditados y la opinión del Auditor Superior.
+III. El cumplimiento de los principios de contabilidad gubernamental y de las disposiciones contenidas en los ordenamientos legales correspondientes;
+
+IV. El señalamiento, en su caso, de las irregularidades detectadas y la estimación cuantificable de las mismas; y
+
+V. Los comentarios, observaciones de los auditados y la opinión del Auditor Superior.
 
 ## TÍTULO SEGUNDO. DEL PROCESO DE LA FISCALIZACIÓN Y SU SEGUIMIENTO
 
@@ -710,3 +716,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones relativas a los nuevos requisitos para su designación, así como la periodicidad en el ejercicio del cargo del Auditor Superior del Estado, serán aplicables a partir de la próxima elección de dicho servidor público.
+
+P.O. 29 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
