@@ -4,7 +4,7 @@ identifier: "COL-ley-del-instituto-colimense-de-la-infraestructura-fisica-69862"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-15"
-last_updated: "2009-08-15"
+last_updated: "2009-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL INSTITUTO COLIMENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de agosto de 2009.
 
@@ -217,11 +217,13 @@ La junta de gobierno se integrará por:
 
 I. Un Presidente, que será el Secretario de Educación del Gobierno del Estado;
 
-II. Seis Vocales que serán; cada uno, un representante de los siguientes funcionarios del Gobierno del Estado:
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2009)</small>
+
+II. Nueve Vocales que serán; cada uno, un representante de los siguientes funcionarios del Gobierno del Estado:
 
 - El Secretario General de Gobierno;
 
-- El Secretario de Planeación;
+- El Secretario de Planeacion;
 
 - El Secretario de Finanzas;
 
@@ -230,6 +232,12 @@ II. Seis Vocales que serán; cada uno, un representante de los siguientes funcio
 - El Director de Planeación Educativa de la Secretaría de Educación; y
 
 - El Director del INCOIFED;
+
+- Un representante de la Sección VI del SNTE;
+
+- Un representante de la Sección 39 del SNTE;
+
+- Un representante de la Asociación Estatal de Padres de Familia.
 
 El cargo de miembro de la Junta de Gobierno será honorífico y por el que no se recibirá retribución, emolumento o compensación alguna.
 
@@ -392,3 +400,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 13 del mes de agosto del año dos mil nueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMÁN. Rúbrica. EL SECRETARIO DE EDUCACIÓN Y DIRECTOR GENERAL DE LA COORDINACIÓN DE LOS SERVICIOS EDUCATIVOS DEL ESTADO, PROFR. MARGARITO ESPINOSA MIJARES. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
