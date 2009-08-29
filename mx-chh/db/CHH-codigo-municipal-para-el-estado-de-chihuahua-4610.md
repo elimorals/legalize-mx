@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2009-04-11"
+last_updated: "2009-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2009.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1295,13 +1295,13 @@ I.- Tener, por lo menos, veintiún años;
 
 II.- Ser mexicano y del estado seglar;
 
-III.- Tener buena conducta y la capacidad suficiente para el desempeño del cargo; y
+III.- Tener buena conducta y la capacidad suficiente para el desempeño del cargo; y (sic)
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2005)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 2009) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2009)
 
 IV.- No ser cónyuge, pariente consanguíneo o afín, en línea recta, sin limitación de grado o colateral por consanguinidad, dentro del cuarto grado o por afinidad dentro del segundo, del Presidente Municipal, del Presidente Seccional, de los Regidores o del Síndico.
 
-Se exceptúa de lo dispuesto en el párrafo anterior a quien tenga una antigüedad mínima de un año en su puesto o función, al momento de la toma de posesión de los integrantes del ayuntamiento o de las Juntas Municipales, según sea el caso.
+Se exceptúa de lo anterior a quienes estén ocupando un cargo con anterioridad a la toma de posesión de los funcionarios públicos mencionados en el párrafo anterior.
 
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
@@ -3970,3 +3970,9 @@ P.O. 11 DE ABRIL DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
