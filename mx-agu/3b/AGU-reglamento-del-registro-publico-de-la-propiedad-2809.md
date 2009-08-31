@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-registro-publico-de-la-propiedad-2809"
 country: "mx"
 rank: "reglamento"
 publication_date: "1980-06-15"
-last_updated: "2007-07-09"
+last_updated: "2009-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD
+REGLAMENTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el domingo 15 de junio de 1980.
 
@@ -749,7 +749,9 @@ Las inscripciones de embargos se harán insertándose íntegra el acta levantada
 
 La Sección Tercera registrará:
 
-I.- Los arrendamientos;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2009)</small>
+
+I.- Los arrendamientos y avisos de contrato de arrendamiento;
 
 II.- Las Fundaciones de Beneficencia Privada que se establezcan conforme a la Ley de la materia;
 
@@ -770,6 +772,16 @@ En todas las inscripciones de arrendamiento deberá constar: Además de las cond
 ###### ARTICULO 93.
 
 En caso de novación del arrendamiento o prórroga no se hará nueva inscripción en forma, sino que se anotará marginalmente la inscripción primitiva, haciéndose constar en la anotación las nuevas modalidades del contrato.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 93
+
+BIS.- Los avisos de contrato de arrendamiento deberán de contener la ubicación del inmueble, nombre del propietario, datos de registro, anexando copia de identificación oficial y comprobantes de domicilio de los contratantes y obligado solidario en su caso.
+
+Los avisos de contrato de arrendamiento deberán ser presentados en ésta Dirección General, o en los Catastros Municipales, quienes tendrán obligación de remitirlos en un plazo no mayor a 30 días naturales a la fecha de su recepción.
+
+Inmediatamente que se haga una inscripción se pondrá al calce del aviso de contrato de arrendamiento un sello que exprese: “Con esta fecha se agrega bajo el número _____ del legajo número ____ de avisos de contrato de arrendamiento. Aguascalientes, Ags., Lugar y fecha. Firma del Registrados y sello del Registro.”
 
 ###### ARTICULO 94.
 
@@ -1368,3 +1380,9 @@ P.O. 9 DE JULIO DE 2007.
 PRIMERO.- Las adiciones y reformas contenidas en el presente Acuerdo inician su vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los notarios públicos quedan obligados a la observancia de las presentes reformas, una vez que haya sido implementado el sistema de Protocolo Abierto.
+
+P.O. 31 DE AGOSTO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma a este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
