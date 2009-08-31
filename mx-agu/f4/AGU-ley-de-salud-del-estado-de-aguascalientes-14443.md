@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2009-07-13"
+last_updated: "2009-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -521,13 +521,17 @@ h).- La información relativa a las condiciones, recursos y servicios de salud;
 
 i).- La educación para la salud;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
 
 j).- La orientación y vigilancia en materia de nutrición, dando mayor importancia a los programas de nutrición destinados a los niños y niñas;
 
-k).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
+
+k).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre, poniendo especial atención a los riesgos que produce la exposición a la radiación ultravioleta y otras similares;
 
 l).- La salud ocupacional y el saneamiento básico;
 
@@ -543,7 +547,7 @@ q).- El programa contra el alcoholismo;
 
 r).- El programa contra el tabaquismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
 
@@ -1539,23 +1543,33 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 Las autoridades sanitarias del Estado establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 114.
 
 Corresponde a la Secretaría de Salud y al Gobierno del Estado, en sus respectivos ámbitos de competencia:
 
-I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
+I. Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
 
-II.- Vigilar la calidad del agua para uso y consumo humano;
+II. Vigilar la calidad del agua para uso y consumo humano;
 
-III.- Promover y apoyar el saneamiento básico;
+III. Promover y apoyar el saneamiento básico;
 
-IV.- Asesorar en criterios de ingeniería sanitaria de obras públicas y privadas excepto lo relativo a los establecimientos de salud;
+IV Asesorar en criterios de ingeniería sanitaria de obras públicas y privadas excepto lo relativo a los establecimientos de salud;
 
-V.- Disponer y verificar que se cuente con información toxicológica adecuada, en las que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas;
+V Disponer y verificar que se cuente con información toxicológica adecuada, en las que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas;
 
-VI.- Vigilar la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes; y
+VI. Vigilar la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes;
 
-VII.- En general, ejercer actividades similares a las anteriores situaciones que causen riesgos o daños a la salud de las personas.
+VII. Desarrollar y difundir investigación permanente y sistemática de los riesgos y daños que para la salud de la población represente la exposición a los rayos ultravioleta;
+
+VIII. Establecer un índice de exposición a la radiación ultravioleta emitida por el sol, el cual deberá establecer un grado de riesgo por exposición, a efecto de prevenir afectaciones a la salud de la población del Estado;
+
+IX. Publicar diariamente por medios electrónicos necesarios el índice mencionado en la Fracción anterior, correspondiente a las diferentes horas del día; y
+
+X. En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas.
 
 ###### ARTICULO 115.
 
@@ -3092,3 +3106,21 @@ El Poder Ejecutivo deberá emitir los reglamentos que sean necesarios para garan
 ###### ARTÍCULO TERCERO.
 
 En el Presupuesto de Egresos del Gobierno del Estado de Aguascalientes para el Ejercicio Fiscal del Año 2010, se deberán contemplar los recursos suficientes para dar pleno cumplimiento a la aplicación de los cuidados paliativos a los enfermos en etapa terminal, previstos en la presente Ley.
+
+P.O. 31 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigencia a los quince días naturales siguientes a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La autoridad estatal en materia de salud deberá emitir los estándares seguros del índice de exposición a los rayos ultravioleta referidos en la presente reforma a más tardar a los siguientes quince días naturales de la entrada en vigencia de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+A más tardar a los siguientes treinta días naturales de la entrada en vigencia de la presente reforma, la autoridad estatal en materia de salud, deberá publicar diariamente por medios electrónicos el índice de exposición a los rayos ultravioleta, difundiendo alertas y recomendaciones a la población de acuerdo a los riesgos existentes conforme a las características técnicas del índice señalado.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto de Educación del Estado de Aguascalientes, en un plazo no mayor a quince días posteriores a la entrada en vigencia del presente Decreto, deberá emitir los lineamientos necesarios para la prevención de los riesgos asociados con la exposición excesiva a los rayos ultravioleta de conformidad con lo que se estipula en el presente Decreto.
