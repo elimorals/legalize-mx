@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2009-06-04"
+last_updated: "2009-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SON"
 ---
 # CODIGO PENAL PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 2009.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -710,6 +708,12 @@ Cuando en el supuesto señalado en el párrafo anterior se cause la muerte de un
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ARTICULO 65 BIS.- Cuando el delito culposo sea cometido, durante el desarrollo de su oficio o empleo, por el conductor de un transporte de servicio público, privado o escolar, encontrándose en estado de embriaguez o bajo el influjo de estupefacientes, psicotrópicos o cualquier otra substancia que afecte las facultades psicomotrices, la sanción será de uno a nueve años de prisión, de veinte a doscientos cincuenta días multa y suspensión hasta por diez años o privación definitiva de la licencia para manejar o del derecho para ejercer profesión u oficio en la materia. En caso de que se cause la muerte o infrinja lesiones que pongan en peligro la vida de una o más personas, la sanción privativa de la libertad será de tres a nueve años.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+ARTICULO 65 TER.- Cuando se trate del delito de lesiones culposas cometido en agravio de dos o más personas menores de seis o mayores de sesenta y cinco años, o en contra de personas que padezcan alguna discapacidad física o mental, que se encuentren en alguna guardería, estancia infantil, centro de desarrollo, jardín de niños, albergue, asilo, casa de apoyo o cualquier lugar o entidad pública, social o privada que se dedique a su cuidado, educación, guarda, custodia, protección, curación o rehabilitación, la sanción será de uno a ocho años de prisión y de cuarenta a trescientos días multa. Si en el supuesto anterior alguno de los ofendidos es privado de la vida, la sanción será de dos a veinte años de prisión.
+
+Independientemente de las sanciones que le correspondan por la comisión de otros delitos, para todos los efectos legales, se considerará coautor del delito culposo referido en el párrafo anterior, a todo servidor público o persona física que omita realizar inspecciones o visitas de reconocimiento o vigilancia, conforme al programa anual de inspecciones establecido, o habiéndolas practicado, haga constar o proporcione datos falsos respecto de las características de construcción, medidas, materiales o elementos de seguridad de los lugares ahí referidos, o no reporte en tiempo y forma los resultados de la inspección a su superior jerárquico; así como al servidor público que, teniendo atribución competencial de emitir resoluciones sobre medidas correctivas y de seguridad con base en los resultados de dichas diligencias, no las emita o emitiéndolas, no cuide de su debida y oportuna ejecución dentro de los plazos de ley. Igualmente, se considerará coautor del delito culposo de referencia a quien, teniendo a su cargo la responsabilidad de atender las instrucciones o señalamientos resultantes de las diligencias referidas, haga caso omiso de ellas.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
@@ -2761,11 +2765,9 @@ Al responsable de cualquier homicidio intencional que no tenga señalada una san
 
 Cuando en la comisión del delito de homicidio, intervengan dos o más personas, sin que exista entre éstas acuerdo previo, y no constare quién o quiénes infirieron la lesión mortal, a todos se les impondrá de cuatro a quince años de prisión.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JUNIO DE 2009)</small>
+(REFORMADO PRIMER PARRAFO, B.O. 4 DE JUNIO DE 2009) (F. DE E., B.O. 16 DE MAYO DE 2011)
 
 ###### ARTICULO 258.
 
@@ -3868,3 +3870,21 @@ B.O. 4 DE JUNIO DE 2009.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor en un plazo de noventa días naturales, contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 31 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los trámites y servicios que se encuentren pendientes de revisión o resolución en la Unidad Estatal de Protección Civil, se seguirán según lo dispuesto en la Ley de Protección Civil para el Estado de Sonora y su Reglamento que se encuentren vigentes al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a treinta días contados a partir de la entrada en vigor de la presente Ley, el Titular del Ejecutivo Estatal y los ayuntamientos, en su respectivo ámbito de competencia, deberán realizar las adecuaciones pertinentes y emitir las disposiciones administrativas necesarias para cumplir cabalmente con las disposiciones de este ordenamiento.
