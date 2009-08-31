@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-ley-del-patrimonio-del-estado-de-quintana-4691
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-15"
-last_updated: "2005-06-15"
+last_updated: "2009-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 REGLAMENTO DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2009.
 
-Reglamento publicado en el Bis del Periódico Oficial del Estado de Quintana Roo, el miércoles 15 de junio de 2005.
+Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 15 de junio de 2005.
 
 LIC. FÉLIX ARTURO GONZÁLEZ CANTO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 90 FRACCIÓN XVIII Y EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONE EL ARTÍCULO 91 FRACCIONES VI Y XII AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, Y CON FUNDAMENTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO, TODOS ORDENAMIENTOS VIGENTES EN EL ESTADO, TENGO A BIEN EXPEDIR EL PRESENTE:
 
@@ -643,9 +643,15 @@ En el caso de las Entidades, éstas deberán de contar con la autorización de s
 
 En cualquier caso, se levantará acta en que se haga constar el desarrollo del procedimiento.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2009)</small>
+
+No se procederá a la subasta en los casos en que, el Comité de Afectación, Destino Final y Baja de Bienes Muebles de la Administración Pública centralizada del Poder Ejecutivo del Estado, resuelva respecto de la conveniencia de transferir la propiedad de determinados bienes a título gratuito como parte de las acciones de coordinación interinstitucional para la aplicación de los recursos en el fortalecimiento de los planes y programas en materia de seguridad pública, gestión integral de residuos sólidos, educación, salud, asistencia social y en el otorgamiento de apoyos a instituciones o particulares. En estos casos la traslación de dominio solo podrá realizarse por conducto de la Oficialía Mayor, como Dependencia facultada para suscribir los instrumentos legales correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
+
 ###### Artículo 82.
 
-Para determinar el monto de los bienes a que se refiere el artículo anterior, las Dependencias y Entidades deberán requerir a la Oficialía, para que en términos del artículo 40 de la Ley, establezca los precios mínimos en base al avalúo practicado.
+Para determinar el monto de los bienes a que se refiere el primer párrafo del artículo anterior, las Dependencias y Entidades deberán requerir a la Oficialía, para que en términos del artículo 40 de la Ley, establezca los precios mínimos en base al avalúo practicado.
 
 ###### Artículo 83.
 
@@ -854,3 +860,9 @@ VÍCTOR MANUEL VIVEROS SALAZAR
 EL SECRETARIO DE HACIENDA
 
 FREDY EFRÉN MARRUFO MARTÍN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quinta Roo.
