@@ -4,7 +4,7 @@ identifier: "SON-ley-de-responsabilidades-de-los-servidores-publicos-del-8399"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-09"
-last_updated: "1998-12-14"
+last_updated: "2009-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 9 de abril de 1984.
 
@@ -471,7 +471,13 @@ XXV.- Supervisar que los servidores públicos sujetos a su dirección, cumplan c
 
 XXVI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público.
 
-XXVII.- Las demás que le impongan las leyes y reglamentos.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+XXVII.- Abstenerse de llevar a cabo, con motivo del cumplimiento del ejercicio del servicio público, cualquier acto u omisión que, dolosa o culposamente, propicie daño a bienes ajenos, a las instalaciones que se encuentren bajo su cuidado o a cualquier persona; y
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+XXVIII.- Las demás que le impongan las leyes y reglamentos.
 
 ###### ARTICULO 64.
 
@@ -536,6 +542,10 @@ IV.- Destitución del puesto.
 V.- Sanción Económica, e
 
 VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+Será sancionado directamente con la destitución o la inhabilitación previstas por las fracciones IV y VI que anteceden, o con ambas conjuntamente según la gravedad del caso, el servidor público que teniendo atribución para realizar visitas domiciliarias o de reconocimiento, inspecciones, verificaciones o comprobaciones sobre el cumplimiento de requisitos, obligaciones o condiciones a cargo de propietarios, poseedores, administradores o encargados de inmuebles, oficinas públicas o privadas, omita realizarlas conforme al programa anual de inspecciones establecido o, habiéndolas realizado, asiente falsamente el resultado de la diligencia correspondiente, o no reporte en tiempo y forma dichos resultados a su superior jerárquico. De igual forma, será sancionado el servidor público que, teniendo la atribución de emitir resoluciones sobre medidas correctivas y de seguridad con base en los resultados de las precitadas diligencias, no tome y mande ejecutar las decisiones correspondientes en los plazos de ley.
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique el lucro o cause daños o perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo general vigente en la capital del Estado y de tres a diez años si excede de dicho límite.
 
@@ -940,3 +950,21 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones y preceptos que en lo conducente se opongan a la presente Ley.
+
+B.O. 31 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los trámites y servicios que se encuentren pendientes de revisión o resolución en la Unidad Estatal de Protección Civil, se seguirán según lo dispuesto en la Ley de Protección Civil para el Estado de Sonora y su Reglamento que se encuentren vigentes al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en Vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a treinta días contados a partir de la entrada en vigor de la presente Ley, el Titular del Ejecutivo Estatal y los ayuntamientos, en su respectivo ámbito de competencia, deberán realizar las adecuaciones pertinentes y emitir las disposiciones administrativas necesarias para cumplir cabalmente con las disposiciones de este ordenamiento.
