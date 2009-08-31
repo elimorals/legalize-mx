@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2009-06-04"
+last_updated: "2009-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SON"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 2009.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -1745,9 +1743,9 @@ III.- Que no pueda ocurrir ante el Juez a solicitar la orden de aprehensión, po
 
 Se califican como delitos graves, los previstos en los siguientes artículos del Código Penal para el Estado de Sonora:
 
-> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
-Homicidio por culpa, previsto en el artículo 65, tercer párrafo; los supuestos previstos por el artículo 65 BIS; homicidio previsto en el artículo 123; rebelión, previsto en el artículo 124; evasión de presos, previsto en el artículo 134 cuando su comisión sea dolosa; asociación delictuosa, previsto en el artículo 142, tercer párrafo, en el caso de los supuestos previstos en el cuarto párrafo; violación de correspondencia, previsto en el segundo párrafo del artículo 152; corrupción de personas menores de edad previsto en los párrafos tercero, cuarto y quinto del artículo 168; utilización de imágenes y/o voces de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho para la pornografía previsto en el artículo 169 BIS 1; tortura, previsto en el artículo 181; abusos deshonestos previstos en el cuarto párrafo del artículo 213 únicamente en los supuestos de los párrafos segundo y tercero; violación y las figuras equiparadas, previstas en los artículos 218, 219 y 220; asalto, previsto en el artículo 241; lesiones que ponen en peligro la vida, previsto en el artículo 244, independientemente de las prevenciones establecidas en los artículos 245, 246, 247, 248 y 251; homicidio, previsto en el artículo 252, cuando se den los supuestos previstos en los artículos 256, 257, 258 y 259 párrafo segundo; auxilios o inducción al suicidio, cuando le correspondan las sanciones previstas en el segundo párrafo del artículo 264; aborto sin consentimiento y con violencia, previsto en el artículo 267; abandono de personas, previsto en el artículo 275, cuando le corresponda las sanciones señaladas en los párrafos segundo y tercero del mismo numeral; extorsión, previsto en el artículo 293; privación ilegal de la libertad, previsto en el artículo 294, cuando se da alguno de los supuestos establecidos en el artículo 295; secuestro, previsto en los artículos 296, 297, 297 BIS, 297-B, 298, 298-A, 299 y 300; trata de personas previsto en el artículo 301-J, sustracción de menores e incapaces, previsto en el artículo 301-E; robo, previsto en los artículos 308, fracciones I, IV, VII, VIII, IX y X, excepto lo previsto en el penúltimo párrafo de este artículo, y 308 BIS; abigeato respecto de ganado bovino, en los términos de los artículos 312 y 313 y, respecto de ganado equino, ovino, caprino y porcino, en los términos del párrafo cuarto del artículo 312; abuso de confianza, en los casos del segundo párrafo del artículo 317; fraude, en los casos del segundo párrafo del artículo 320; despojo con intervención de autor intelectual en despoblado, en los términos del artículo 323, párrafo tercero en relación con el cuarto; daños, previsto en el artículo 327, cuando se trata de comisión dolosa; encubrimiento, previsto en los párrafos tercero y cuarto del artículo 329.
+Homicidio por culpa, previsto en el artículo 65, tercer párrafo; los supuestos previstos por el artículo 65 Bis; los supuestos previstos en la última parte del primer párrafo y segundo párrafo del artículo 65 Ter; homicidio previsto en el artículo 123; rebelión, previsto en el artículo 124; evasión de presos, previsto en el artículo 134 cuando su comisión sea dolosa; asociación delictuosa, previsto en el artículo 142, tercer párrafo, en el caso de los supuesto previstos en el cuarto párrafo; violación de correspondencia, previsto en el segundo párrafo del artículo 152; corrupción de personas menores de edad previsto en los párrafos tercero, cuarto y quinto del artículo 168; utilización de imágenes y/o voces de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho para la pornografía previsto en el artículo 169 Bis 1; tortura, previsto en el artículo 181; abusos deshonestos previstos en el cuarto párrafo del artículo 213 únicamente en los supuestos de los párrafos segundo y tercero; violación y las figuras equiparadas, previstas en los artículos 218, 219 y 220; asalto, previsto en el artículo 241; lesiones que ponen en peligro la vida, previsto en el artículo 244, independientemente de las prevenciones establecidas en los artículos 245, 246, 247. 248 y 251; homicidio, previsto en el artículo 252, cuando se den los supuestos previstos en los artículos 256, 257, 258 Y 259 párrafo segundo; auxilio o inducción al suicidio, cuando le correspondan las sanciones previstas en el segundo párrafo del artículo 264; aborto sin consentimiento y con violencia, previsto en el artículo 267; abandono de personas, previsto en el artículo 275, cuando le corresponda las sanciones señaladas en los párrafos segundo y tercero del mismo numeral; extorsión, previsto en el artículo 293; privación ilegal de la libertad, previsto en el artículo 294, cuando se da alguno de los supuestos establecidos en el artículo 295; secuestro, previsto en los artículos 296, 297, 297 Bis, 297-B, 298, 298-A, 299 y 300; trata de personas previsto en el artículo 301-.J; sustracción de menores e incapaces, previsto en el artículo 301-E; robo, previsto en los artículos 308, fracciones I, IV, VlI, VIlI, lX y X, excepto lo previsto en el penúltimo párrafo de este artículo, y 308 Bis; abigeato respecto de ganado bovino, en los términos del artículo 312 y 313 y, respecto de ganado equino, ovino, caprino y porcino, en los términos del párrafo cuarto del artículo 312; abuso de confianza, en los casos del segundo párrafo del artículo 317; fraude, en los casos del segundo párrafo del artículo 320; despojo con intervención de autor intelectual en despoblado, en los términos del artículo 323, párrafo tercero en relación con el cuarto; daños, previsto en el artículo 327, cuando se trata de comisión dolosa; encubrimiento, previsto en los párrafos tercero y cuarto del artículo 329.
 
 Los delitos señalados en el párrafo anterior también serán considerados como graves aún en los casos de tentativa.
 
@@ -4234,3 +4232,21 @@ B.O. 4 DE JUNIO DE 2009.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor en un plazo de noventa días naturales, contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 31 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los trámites y servicios que se encuentren pendientes de revisión o resolución en la Unidad Estatal de Protección Civil, se seguirán según lo dispuesto en la Ley de Protección Civil para el Estado de Sonora y su Reglamento que se encuentren vigentes al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en Vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a treinta días contados a partir de la entrada en vigor de la presente Ley, el Titular del Ejecutivo Estatal y los ayuntamientos, en su respectivo ámbito de competencia, deberán realizar las adecuaciones pertinentes y emitir las disposiciones administrativas necesarias para cumplir cabalmente con las disposiciones de este ordenamiento.
