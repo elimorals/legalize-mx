@@ -4,7 +4,7 @@ identifier: "AGU-ley-patrimonial-del-estado-de-aguascalientes-17534"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-25"
-last_updated: "2005-08-08"
+last_updated: "2009-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000.
 
@@ -629,11 +629,17 @@ III. Por concurso; y
 
 IV. Por compra directa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2009)</small>
+
 ###### ARTICULO 54.
 
-Las adquisiciones, arrendamientos y prestación de servicios de bienes muebles con valor superior a los quince mil veces el salario mínimo general vigente en el Estado se adjudicarán por regla general a través de licitaciones, mediante convocatoria pública, para que libremente se presenten propuestas solventes a fin de asegurar al Estado y a los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
+Las adquisiciones, arrendamientos y prestación de servicios de bienes muebles con valor superior a los quince mil veces el salario mínimo general vigente en el Estado, se adjudicarán por regla general a través de licitaciones, mediante convocatoria pública, para que libremente se presenten propuestas solventes a fin de asegurar al Estado y a los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos, así como la protección al medio ambiente y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
 
 A todos los montos de adquisición establecidos para los distintos tipos de procedimientos, se les deberá agregar el Impuesto al Valor Agregado que corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2009)</small>
+
+Tratándose de adquisiciones de madera, muebles y suministros de oficina de este material, deberán requerirse certificados otorgados por terceros, previamente registrados ante la Secretaría de Medio Ambiente y Recursos Naturales, que garanticen el manejo sustentable de los bosques de donde proviene la madera de dichas adquisiciones. Para las adquisiciones de papel para uso de oficina, se deberá requerir un mínimo de 50% de fibras de material reciclado y blanqueado libre de cloro. En caso de incumplimiento, se estará a lo dispuesto por la presente Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 55.
 
@@ -1442,3 +1448,13 @@ El presente Decreto entrará su vigencia al día siguiente al de su publicación
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos y contratos que se encuentren pendientes de resolución, se tramitarán hasta su total conclusión de conformidad con las disposiciones jurídicas vigentes al momento de su realización.
+
+P.O. 31 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Comité de Adquisiciones y Enajenaciones del Gobierno del Estado, los Comités Municipales y los Comités de las Dependencias y Entidades, según sea el caso, deberán establecer en un plazo no mayor a 120 días a partir de la entrada en vigencia del presente Decreto, los aspectos de sustentabilidad ambiental en sus políticas, bases y lineamientos, con el objeto de optimizar y utilizar de forma sustentable los recursos naturales para disminuir costos financieros y ambientales, para lo cual deberán solicitar la opinión de la Secretaría de Medio Ambiente y Recursos Naturales.
