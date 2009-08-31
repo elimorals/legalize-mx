@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-140-de-bienes-y-concesiones-del-estado-de-sonora-848
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2008-07-14"
+last_updated: "2009-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -785,6 +785,18 @@ VI.- Servicios complementarios.
 
 La Comisión Estatal, en el ámbito de la administración pública directa, emitirá las normas conforme a las cuales las dependencias deberán operar sus almacenes, debiendo establecer los procedimientos que resulten necesarios, para vincular estas actividades con las relativas a inventarios de bienes muebles de activo fijo, adquisiciones y con las demás que resulten pertinentes. En iguales términos procederán los órganos de gobierno de las entidades en la administración pública paraestatal, para lo cual emitirán las bases generales que correspondan.
 
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+Será responsabilidad de la Comisión Estatal y de la dependencia o entidad responsable del almacén o bodega respectivo, el almacenaje de materiales peligrosos que por sus características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes biológico-infecciosos, durante su normal manejo, transporte y almacenamiento, puedan representar un peligro para la salud, medio ambiente o infraestructura, en cuyo caso deberán tomarse las medidas necesarias para garantizar su adecuado resguardo.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+Bajo ninguna circunstancia se podrán almacenar materiales de los señalados en el párrafo anterior, en bodegas o almacenes, propios o utilizados por cualquier concepto jurídico por dependencias o entidades del Gobierno del Estado, que se encuentren a menos de mil metros de distancia de instituciones de educación pública o privada, guarderías, estancias infantiles, centros de desarrollo para infantes, albergues, asilos o casas de apoyo para personas con discapacidad o adultos mayores, así como de áreas residenciales.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+ARTICULO 90 BIS.- Los almacenes y bodegas propios o los utilizados, por cualquier concepto jurídico, por dependencias o entidades del Gobierno del Estado, deberán reunir los requisitos de seguridad y protección civil que se establezcan en la normatividad que para tal efecto emita la Unidad Estatal de Protección Civil.
+
 ## TITULO SEPTIMO. DE LA INFORMACION, DEL CONTROL Y DE LA VERIFICACION
 
 ### CAPITULO UNICO. DE LA INFORMACION, DEL CONTROL Y DE LA VERIFICACION
@@ -998,3 +1010,21 @@ B.O. 14 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 31 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los trámites y servicios que se encuentren pendientes de revisión o resolución en la Unidad Estatal de Protección Civil, se seguirán según lo dispuesto en la Ley de Protección Civil para el Estado de Sonora y su Reglamento que se encuentren vigentes al momento de la entrada en vigor del presente Decreto
+
+###### ARTÍCULO TERCERO.
+
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a treinta días contados a partir de la entrada en vigor de la presente Ley, el Titular del Ejecutivo Estatal y los ayuntamientos, en su respectivo ámbito de competencia, deberán realizar las adecuaciones pertinentes y emitir las disposiciones administrativas necesarias para cumplir cabalmente con las disposiciones de este ordenamiento.
