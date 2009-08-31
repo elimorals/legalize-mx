@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-civil-para-el-estado-de-sonora-46456"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-03"
-last_updated: "2005-10-03"
+last_updated: "2009-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 2009
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 3 de octubre de 2005.
 
@@ -85,6 +85,10 @@ XI.- Consejo Estatal: Consejo Estatal de Protección Civil;
 
 XII.- Consejo Municipal: Consejo Municipal de Protección Civil;
 
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+XII Bis.- Coordinador Estatal: Coordinador Estatal de la Unidad Estatal de Protección Civil;
+
 XIII.- Desastre: Evento ocasionado por uno o varios agentes destructivos que genera daños severos impidiendo las actividades ordinarias de una comunidad;
 
 XIV.- Damnificado: Persona que sufre en su integridad física o en sus bienes daños de consideración o es afectada gravemente en sus actividades por los efectos de una emergencia o un desastre;
@@ -105,11 +109,17 @@ XXI.- Programa Estatal: Programa Estatal de Protección Civil;
 
 XXII.- Programa Municipal: Programa Municipal de Protección Civil;
 
-XXIII.- Programa Interno: El que se circunscribe a inmuebles determinados con el fin de establecer las acciones preventivas y de auxilio destinadas a salvaguardar la integridad física de las personas que concurren a ellos, así como proteger tanto los propios inmuebles como los bienes muebles que contengan;
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+XXIII.- Programa Interno: El Programa Interno de Protección Civil, el cual se circunscribe a inmuebles determinados con el fin de establecer las acciones preventivas y de auxilio destinadas a salvaguardar la integridad física de las personas que concurren a ellos, así como proteger tanto los propios inmuebles como los bienes muebles que contengan;
 
 XXIV.- Protección civil: El conjunto de principios, normas, acciones, procedimientos, conductas incluyentes, solidarias, participativas y corresponsables que llevan a cabo coordinada y concertadamente la sociedad y las autoridades, para la prevención, mitigación, preparación, auxilio, apoyo, rehabilitación, restablecimiento y reconstrucción relacionada con la salvaguarda de la integridad física de las personas, sus bienes y entorno, frente a la eventualidad o presencia de un riesgo, emergencia, siniestro o desastre;
 
 XXV.- Riesgo: Probabilidad de que se produzca un daño, originado por un agente destructivo;
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+XXV Bis.- Riesgo Inminente: Probabilidad de que se produzca un daño originado por un agente destructivo en forma inmediata o en un plazo tan breve, que no permita la imposición de medidas correctivas, de tal manera que amenace con un siniestro, emergencia o desastre;
 
 XXVI.- Servicios vitales: Los que en su conjunto proporcionan las condiciones mínimas de vida y bienestar social, a través de los servicios públicos de una ciudad o centro de población, tales como: energía eléctrica, agua potable, salud, abasto, alcantarillado, limpia, transporte, comunicaciones, energéticos y el sistema administrativo;
 
@@ -145,7 +155,9 @@ I.- El Gobernador del Estado;
 
 II.- El Secretario de Gobierno;
 
-III.- La Unidad Estatal;
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+III.- El Coordinador Estatal;
 
 IV.- Los ayuntamientos; y
 
@@ -209,7 +221,9 @@ IX.- Promover la participación de los grupos sociales de su respectiva comunida
 
 X.- Fomentar la cultura de protección civil entre la población, a través de la promoción y organización de eventos, cursos, ejercicios y simulacros, campañas de difusión y capacitación, que permitan mejorar la capacidad de respuesta de los participantes en el Sistema Municipal;
 
-XI.- Realizar actos de inspección, para constatar el cumplimiento de las disposiciones relativas a la constitución de unidades internas y a la formulación y aplicación de los programas internos a cargo de propietarios, poseedores o encargados de los establecimientos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+XI.- Realizar actos de inspección, conforme al programa anual relativo que se establezca al efecto, para constatar el cumplimiento de las disposiciones relativas a la constitución de Unidades Internas y a la formulación y aplicación de los Programas Internos a cargo de propietarios, poseedores o encargados de los establecimientos, edificaciones o inmuebles siguientes:
 
 a) Edificios departamentales de hasta cuatro unidades de vivienda.
 
@@ -223,7 +237,9 @@ e) Rastros de semovientes, aves y empacadoras.
 
 f) Estacionamientos.
 
-g) Establecimientos que tengan menos de mil quinientos metros cuadrados de construcción.
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+g) Establecimientos, edificaciones o inmuebles que tengan hasta mil quinientos metros cuadrados de construcción, que conforme a esta Ley no sean competencia del Estado.
 
 XII.- Promover la constitución de un fondo, con recursos públicos y privados, para hacer frente a los riesgos, emergencias, siniestros o desastres que puedan generarse o se generen por agentes destructivos dentro del territorio del municipio;
 
@@ -234,6 +250,22 @@ XIV.- Ejecutar las medidas correctivas y de seguridad en el ámbito de su compet
 XV.- Imponer las sanciones correspondientes conforme a la presente Ley; y
 
 XVI.- Las demás que señale esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 6 Bis.
+
+Las dependencias y entidades de la administración pública municipal deberán:
+
+I.- Capacitar a su personal en materia de protección civil, ya sea por conducto de la propia Unidad Municipal o por medio de sus empleados o personas físicas y morales que se encuentren acreditados o registrados ante la Unidad Estatal;
+
+II.- Realizar simulacros, cuando menos, una vez cada seis meses;
+
+III.- Cumplir con las acciones correctivas y observaciones a los programas internos que determine la autoridad competente en los términos de esta Ley y el Reglamento, con la finalidad de solventar las deficiencias y/o irregularidades que presenten los mismos;
+
+IV.- Orientar a los usuarios de los establecimientos, edificaciones o inmuebles sobre métodos y acciones para evitar o minimizar los daños en caso de que se presenten riesgos, emergencias, siniestros o desastres; y
+
+V.- Ejecutar las medidas correctivas y de seguridad que determine la autoridad competente, en los términos previstos en esta Ley y su Reglamento.
 
 ###### ARTÍCULO 7.
 
@@ -401,11 +433,17 @@ XVIII.- Dictaminar y autorizar, previo pago de los derechos correspondientes, lo
 
 Los montos recaudados por concepto de derechos serán destinados para la ejecución de los programas de protección civil correspondientes
 
-XIX.- Realizar actos de inspección a fin de constatar el cumplimiento de las disposiciones relativas a la constitución de unidades internas y a la formulación y aplicación de los programas internos a cargo de los establecimientos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
 
-a) Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, campamentos turísticos y centros vacacionales.
+XIX.- Realizar actos de inspección, conforme al programa anual relativo que se establezca al efecto, a fin de constatar el cumplimiento de las disposiciones relativas a la constitución de Unidades Internas y a la formulación y aplicación de los Programas Internos a cargo de los establecimientos, edificaciones o inmuebles siguientes:
 
-b) Instituciones educativas del sector privado, en todos sus niveles.
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+a) Viviendas y edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, condominios, campamentos turísticos y centros vacacionales.
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+b) Instituciones educativas de los sectores público o privado, en todos sus niveles.
 
 c) Maternidades, hospitales, centros médicos, clínicas y puestos de socorro, del sector privado.
 
@@ -423,7 +461,9 @@ i) Centros comerciales, mercados, supermercados, bodegas, depósitos de cosas o 
 
 j) Oficinas públicas y privadas
 
-k) Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores a mil metros cuadrados.
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+k) Industrias, talleres o bodegas.
 
 l) Granjas para ganadería, porcicultura, avicultura, cunicultura y apicultura.
 
@@ -433,13 +473,29 @@ n) Terminales y estaciones de ferrocarriles, de transporte de carga, de transpor
 
 o) Centrales de correos, teléfonos, telégrafos, estaciones y torres de radio, televisión y sistemas de microondas.
 
-p) Otros que por sus características y magnitud sean similares a los mencionados en los incisos anteriores, con un área mayor a los mil quinientos metros cuadrados y tengan una afluencia masiva de personas, o bien representen un riesgo de daños para la población;
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+p) Guarderías, estancias infantiles y centros de desarrollo para infantes, albergues y casas de apoyo para personas con discapacidad o adultos mayores, de los sectores público, privado y social; y
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+q) Otros que por sus características y magnitud sean similares a los mencionados en los incisos anteriores, con un área mayor a mil quinientos metros cuadrados o que tengan una afluencia masiva de personas o representen un riesgo de daños para la población.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción Xl del artículo 6° de esta Ley, compartan o estén ubicados dentro de una misma unidad de construcción, la Unidad Estatal será competente para realizar visitas de inspección a los mismos.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+Asimismo, la Unidad Estatal será competente para inspeccionar a todos los establecimientos o edificaciones que se encuentren ubicados en un radio de quinientos metros a partir de las edificaciones a que se refiere el inciso m) de esta fracción.
 
 XX.- Operar un sistema de información telefónica relacionado con protección civil;
 
 XXI.- Ejercer las funciones que asuma el Estado como consecuencia de convenios o acuerdos de coordinación concertados con la Federación;
 
 XXII.- Celebrar acuerdos y convenios de colaboración y concertación con los sectores público, social y privado para el eficaz cumplimiento de sus funciones;
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2009)</small>
 
 XXIII.- Ejecutar las medidas correctivas y de seguridad en el ámbito de su competencia, sin perjuicio de las sanciones que correspondan;
 
@@ -450,6 +506,26 @@ XXV.- Llevar el registro e inspección del manejo, almacenamiento, transporte y 
 XXVI.- Certificar y llevar el registro de las empresas especializadas en la elaboración de los conceptos enmarcados en los numerales del uno al nueve, de la fracción XVII, del artículo 13 de la presente Ley. En caso de que no existan en la entidad empresas certificadas por la Unidad Estatal para la elaboración de lo (sic) conceptos enmarcados en los numerales del uno al nueve, de esta fracción, la Unidad Estatal estará facultada para elaborar los mismos, previo pago de los derechos correspondientes; y
 
 XXVII.- Las demás que le confieran esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 13 Bis.
+
+Para el cabal cumplimiento de su objeto, la Unidad Estatal contará con un Departamento Especial de Inspecciones, el cual tendrá las siguientes atribuciones:
+
+I.- Elaborar el programa anual de inspecciones;
+
+II.- Realizar visitas de inspección a los establecimientos, edificaciones e inmuebles a que se refiere el artículo 13, fracción XIX, y 37 de esta Ley;
+
+III.- Verificar que se cumplan adecuadamente las condiciones de seguridad en materia de protección civil en los establecimientos, edificaciones o inmuebles del ámbito de su competencia;
+
+IV.- Dar seguimiento a los procesos administrativos instaurados a través de las visitas de inspección;
+
+V.- Apoyar en los operativos que implemente la Unidad Estatal;
+
+Vl.- Desarrollar todas aquellas funciones inherentes al área de su competencia; y
+
+VIl.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO IV. DEL PROGRAMA ESTATAL DE PROTECCIÓN CIVIL
 
@@ -643,6 +719,8 @@ Los centros de distribución de ayuda operados por autoridades en situaciones de
 
 ### CAPÍTULO ÚNICO. DE LAS OBLIGACIONES DE LOS PARTICULARES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 33.
 
 Los habitantes del Estado de Sonora podrán organizarse de manera libre y voluntaria para participar y apoyar en forma coordinada las acciones de protección civil que prevén los Programas Estatal y Municipales.
@@ -677,9 +755,11 @@ VI.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO I. DE LAS VISITAS DE INSPECCIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE AGOSTO DE 2009)</small>
+
 ###### ARTÍCULO 37.
 
-Los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas, o bien representen un riesgo de daños para la población, están obligados a contar con una unidad interna y a elaborar un programa interno, que será revalidado anualmente, en los términos de esta Ley y su reglamento.
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a los que se refieren la fracción Xl del artículo 6º y la fracción XIX del artículo 13 de esta Ley, que por su uso y destino concentren o reciban una afluencia masiva de personas, o que representen un riesgo para la población, están obligados a contar con una Unidad Interna y a elaborar un Programa Interno, en los términos de esta Ley y su Reglamento. Dicho Programa Interno deberá ser presentado ante las autoridades de protección civil competentes para su dictamen y, en su caso, aprobación y será revalidado anualmente.
 
 Los organizadores de espectáculos de concentración masiva de personas en lugares abiertos y de duración temporal, deberán contar con programas internos que se presentaran para aprobación, ante la Unidad Estatal, por lo menos con veinticuatro horas de anticipación a la del inicio del espectáculo.
 
@@ -689,21 +769,43 @@ Las personas a que se refiere el artículo anterior, deberán:
 
 I.- Capacitar a su personal en materia de protección civil;
 
-II.- Practicar simulacros cuando menos una vez cada seis meses;
+II.- Practicar simulacros cuando menos una vez cada seis meses.
 
-III.- Ejecutar las medidas correctivas o de seguridad que determine la autoridad competente en los términos previstos en esta Ley; y
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
-IV.- Orientar a los usuarios del inmueble sobre métodos y acciones para evitar o minimizar los daños en caso de que se presenten riesgos, emergencias, siniestros o desastres.
+Las personas a que se refiere el artículo anterior, así como las autoridades que participen en la realización de simulacros, deberán dar aviso inmediato a las autoridades de protección civil competentes de las deficiencias, irregularidades, fallas u omisiones que se detectaren con motivo de la práctica de dichos simulacros;
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+III.- Ejecutar de inmediato las medidas correctivas o de seguridad que determine la autoridad competente, en los términos previstos en esta Ley y su Reglamento;
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+IV.- Orientar a los usuarios del establecimiento, edificación o inmueble sobre los métodos y las acciones para evitar o minimizar los daños, en caso de que se presenten riesgos, emergencias, siniestros o desastres; y
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+V.- Contar con un seguro de responsabilidad civil por daños a terceros, por los importes que fije el Reglamento.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+En las estancias, guarderías e instituciones de educación básica y media superior, deberán realizarse los simulacros al menos tres veces al año y bajo condiciones que repliquen las situaciones presentes durante las operaciones ordinarias de esos establecimientos, bajo la supervisión de la autoridad competente. En los simulacros a que se refiere este párrafo, participarán los padres de familia de las citadas instituciones, en los términos del reglamento de la presente Ley.
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 39.
 
-Los programas internos deberán hacer referencia a equipos de seguridad, señales informativas, preventivas, restrictivas y de obligación, avisos de protección civil, luces de emergencia, instructivos y manuales para situaciones de emergencia, las zonas de seguridad y los demás aspectos que determinen la Unidad Estatal y los ayuntamientos, en el ámbito de su competencia.
+Los Programas Internos deberán hacer referencia a equipos de seguridad, luces de emergencia, ubicación de extintores, rutas de evacuación, salidas de emergencia, señales informativas, preventivas, restrictivas y de obligación, avisos de protección civil, instructivos y manuales para situaciones de emergencia, las zonas de seguridad y los demás aspectos que determinen la Unidad Estatal y los ayuntamientos, en el ámbito de su competencia.
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 40.
 
-Las personas que pretendan construir inmuebles como los referidos por el artículo 37 de esta Ley deberán presentar un diagnóstico de riesgo en materia de protección civil a la Unidad Estatal o al ayuntamiento, según corresponda, la que en su caso expedirá la autorización respectiva.
+Las personas que pretendan construir, reconstruir, modificar o remodelar los establecimientos, edificaciones o inmuebles referidos en el artículo 37 de esta Ley, previamente deberán presentar un diagnóstico de riesgo en materia de protección civil a la Unidad Estatal o al ayuntamiento, según corresponda, para que dichas autoridades expidan o, en su caso, nieguen la autorización respectiva.
 
-Las autoridades municipales no podrán expedir la licencia de construcción sin acreditar la autorización a que se refiere párrafo anterior.
+Si en la revisión del diagnóstico de riesgo, la autoridad competente detectare deficiencias o irregularidades, lo hará del conocimiento de las personas a que se refiere el párrafo anterior. En todo caso, la autoridad competente expedirá la autorización respectiva una vez que hayan sido solventadas las deficiencias o irregularidades señaladas.
+
+Las autoridades municipales competentes no podrán expedir la licencia de construcción sin que los solicitantes acrediten la autorización a que se refiere el primer párrafo de este artículo.
 
 ###### ARTÍCULO 41.
 
@@ -719,7 +821,7 @@ Es obligación de todos los habitantes del Estado con capacidad de ejercicio inf
 
 ###### ARTÍCULO 43.
 
-Los ayuntamientos y la Unidad Estatal, en el ámbito de su competencia, podrán realizar visitas de inspección a los establecimientos a que se refiere los artículos 6, fracción XI y 13, fracción XVIII, respectivamente, a fin de comprobar el cumplimiento de las disposiciones contenidas en esta Ley y de las normas que deriven de las mismas, relativas al establecimiento de unidades internas y a la formulación y aplicación de los programas internos.
+La Unidad Estatal y los ayuntamientos, en el ámbito de su respectiva competencia, realizarán visitas de inspección a los establecimientos, edificaciones o inmuebles a que se refieren las fracciones XI del artículo 6º y XIX del artículo 13 de esta Ley, respectivamente, conforme al programa anual relativo que se establezca al efecto, a fin de verificar el cumplimiento de las disposiciones contenidas en la misma, su Reglamento, normas técnicas y términos de referencia que deriven de las mismas, relativas al establecimiento de Unidades Internas, a la formulación y aplicación de los Programas Internos y a los diagnósticos de riesgo.
 
 Las visitas podrán ser ordinarias o extraordinarias, las primeras se efectuarán en días y horas hábiles, mientras que las segundas en cualquier tiempo.
 
@@ -749,11 +851,19 @@ IX.- En el caso de obstaculización u oposición a la práctica de la diligencia
 
 Quien realice la visita de verificación podrá obtener copias de documentos relacionados con dicha diligencia, así como tomar fotografías del lugar u objetos supervisados y allegarse de cualquier medio de prueba que pueda obtenerse de la visita, de todo lo cual se asentará constancia en el acta relativa.
 
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 45 Bis.
+
+Si durante la visita realizada, el inspector detectare que el giro del establecimiento verificado no corresponde al uso del suelo permitido para esa zona por el ayuntamiento, dará aviso a la autoridad municipal correspondiente para los efectos legales a que haya lugar.
+
 ###### ARTÍCULO 46.
 
 Transcurrido el plazo a que se refiere la fracción VII del artículo 44, dentro del término de cinco días hábiles, y considerando las circunstancias que hubiesen concurrido y las pruebas aportadas, en su caso, dictará la resolución que proceda, debidamente fundada y motivada, notificándola personalmente al visitado.
 
-La resolución que se dicte deberá señalar si el visitado requiere llevar a cabo medidas correctivas tendentes a cumplimentar lo señalado en el programa interno respectivo y, en su caso, los plazos para ejecutarlas.
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+La resolución que se dicte deberá señalar si el visitado requiere solventar las observaciones por omisiones o contravenciones asentadas en el acta; llevar a cabo acciones y medidas correctivas o de seguridad tendientes a cumplimentar lo señalado en el Programa Interno, así como lo relativo al establecimiento o funcionamiento de la Unidad Interna; los plazos para ejecutarlas y, en su caso, las infracciones o sanciones a que hubiere lugar en caso de incumplimiento.
 
 ### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
@@ -763,11 +873,15 @@ Son medidas correctivas:
 
 I.- La construcción o reconstrucción para mejorar el acceso a los inmuebles o salidas de emergencia respecto de los mismos;
 
-II.- El resguardo, o en su caso, destrucción de objetos, productos y sustancias que puedan ocasionar algún daño o peligro;
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+II.- El resguardo, o en su caso, la destrucción inmediata de objetos, materiales, productos y sustancias que puedan ocasionar algún daño o peligro, sobre todo aquellos que sean inflamables o explosivos;
 
 III.- El retiro de instalaciones o equipo que, por las condiciones en que se encuentren, constituyan un riesgo; y
 
-IV.- El abastecimiento e instalación de sistemas y equipo de seguridad requerido según el riesgo deducido del tipo de actividad, obra o servicio.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+IV.- El abastecimiento y la instalación de sistemas y equipo de seguridad requerido según el riesgo deducido del tipo de actividad, obra o servicio, sobre todo detectores de humo y alarmas contra incendio, de conformidad con la normatividad aplicable.
 
 ###### ARTÍCULO 48.
 
@@ -815,11 +929,37 @@ III.- Incumplir con las medidas y acciones de protección civil derivadas de los
 
 IV.- Incumplir los requerimientos que dicte la autoridad competente en los términos de esta Ley y su Reglamento;
 
-V.- Impedir a los inspectores de protección civil el acceso a sus instalaciones; y
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2009)</small>
 
-VI.- Ejecutar, ordenar o favorecer actos u omisiones que impidan u obstaculicen las acciones de inspección, prevención, auxilio o apoyo a la población en caso de desastre.
+V.- Impedir a los inspectores de protección civil el acceso a los establecimientos, edificaciones o inmuebles;
 
-Las infracciones a que se refiere este artículo serán sancionadas por la Unidad Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, con multa equivalente de cincuenta a cinco mil días de salario mínimo general diario vigente en la capital del Estado, sin perjuicio de las sanciones penales o civiles que sean aplicables.
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2009)</small>
+
+Vl.- Ejecutar, ordenar o favorecer actos u omisiones que impidan u obstaculicen las acciones de inspección, prevención, auxilio o apoyo a la población en caso de desastre;
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+VII.- No presentar oportunamente el diagnóstico de riesgo a que se refiere el artículo 40 de la presente Ley, incumplir lo establecido en el mismo o las observaciones, acciones o medidas correctivas o de seguridad que respecto a dicho diagnóstico determine la autoridad competente;
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+VIII.- No contar con la revalidación anual del Programa Interno;
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+IX.- No practicar los simulacros a que se refiere la fracción II del artículo 38 de esta Ley, u omitir dar el aviso señalado en el último párrafo de dicha fracción;
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+X.- Propiciar o generar condiciones de riesgo, alto riesgo o riesgo inminente; y
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2009)</small>
+
+Xl.- No contar con un seguro de responsabilidad civil por daños a terceros.
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+Las infracciones a que se refiere este artículo serán sancionadas por la Unidad Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, con multa equivalente de cincuenta a veinte mil días de salario mínimo general diario vigente en la capital del Estado, sin perjuicio de las sanciones penales o civiles que sean aplicables.
 
 ###### ARTÍCULO 52.
 
@@ -850,6 +990,20 @@ Además de las sanciones que se impongan al infractor, la autoridad de protecci�
 Las sanciones impuestas por la Unidad Estatal o los ayuntamientos se harán efectivas por conducto de la Secretaría de Hacienda y las Tesorerías Municipales, respectivamente, mediante el procedimiento administrativo de ejecución, en los términos de las leyes fiscales aplicables.
 
 El monto de las sanciones que se impongan se destinará a la ejecución de los programas de protección civil correspondientes y tendrán el carácter de crédito fiscal para su cobro.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 54 Bis.
+
+Los funcionarios de protección civil que no cumplan con lo establecido en esta ley, incurrirán en responsabilidad, debiendo ser sancionados conforme a lo que establezca la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, sin perjuicio de la responsabilidad civil o penal en que pudieran incurrir.
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
+
+###### ARTÍCULO 54 Bis 1.
+
+Cuando los Inspectores, con motivo del ejercicio de sus atribuciones, tengan conocimiento de una infracción a las disposiciones de la presente Ley o su Reglamento, asentarán dichas circunstancias en las actas respectivas, a fin de que se dicten las medidas correctivas y de seguridad y apliquen las sanciones establecidas en esta Ley, según corresponda.
+
+Los verificadores no podrán recibir alguna gratificación o dádivas con el propósito de omitir o alterar la información de las actuaciones de las diligencias, quedando sujetos en todo caso a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
 ###### ARTÍCULO 55.
 
@@ -1006,3 +1160,23 @@ EDUARDO TOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUBIAL ASTIAZARÁN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los trámites y servicios que se encuentren pendientes de revisión o resolución en la Unidad Estatal de Protección Civil, se seguirán según lo dispuesto en la Ley de Protección Civil para el Estado de Sonora y su Reglamento que se encuentren vigentes al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en Vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a treinta días contados a partir de la entrada en vigor de la presente Ley, el Titular del Ejecutivo Estatal y los ayuntamientos, en su respectivo ámbito de competencia, deberán realizar las adecuaciones pertinentes y emitir las disposiciones administrativas necesarias para cumplir cabalmente con las disposiciones de este ordenamiento.
