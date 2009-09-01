@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2009-08-12"
+last_updated: "2009-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1105,9 +1105,13 @@ XXXVII. Elaborar y presentar informes con la periodicidad que le sean requeridos
 
 XXXVIII. Las demás que determine el Pleno, el Presidente y las Comisiones de Carrera Judicial, de Adscripción y de Creación de Nuevos Organos.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 73.
 
-El Secretario Ejecutivo de Administración se encargará de apoyar a la Comisión de Administración en el manejo óptimo de los recursos humanos e informáticos, así como en el control de la seguridad, protección civil, servicios médicos y desarrollo infantil del Poder Judicial de la Federación, con apego al Presupuesto de Egresos asignado al Consejo, autorizado por la Cámara de Diputados y por los acuerdos determinados por el Pleno, de conformidad con los principios de honestidad, economía, eficiencia, eficacia, celeridad, buena fe y transparencia.
+El Secretario Ejecutivo de Administración se encargará de apoyar a la Comisión de Administración en el manejo óptimo de los recursos humanos, así como en el control de la seguridad, protección civil, servicios médicos y desarrollo infantil del Poder Judicial de la Federación, con apego al Presupuesto de Egresos asignado al Consejo, autorizado por la Cámara de Diputados y por los acuerdos determinados por el Pleno, de conformidad con los principios de honestidad, economía, eficiencia, eficacia, celeridad, buena fe y transparencia.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 74.
 
@@ -1115,7 +1119,7 @@ El titular de la Secretaría Ejecutiva de Administración tendrá las siguientes
 
 I. Asistir, cuando así se determine, a las sesiones del Pleno y de la Comisión de Administración;
 
-II. Coordinar las acciones con la Secretaría Ejecutiva de Finanzas para la elaboración del anteproyecto del Presupuesto de Egresos, así como para la propuesta de su distribución y ejercicio.
+II. Coordinar las acciones con la Secretaría Ejecutiva de Finanzas para la elaboración del anteproyecto del Presupuesto de Egresos, así como para la propuesta de su distribución y ejercicio;
 
 III. Coordinar el sistema de administración de recursos humanos del Consejo;
 
@@ -1149,51 +1153,33 @@ XVII. Organizar el otorgamiento de los servicios administrativos, que en materia
 
 XVIII. Supervisar las acciones que en materia de desconcentración y simplificación administrativa desarrollen las áreas administrativas competentes del Consejo;
 
-XIX. Dirigir los apoyos técnicos que permitan al Consejo establecer la política informática y de telecomunicaciones del Poder Judicial de la Federación;
+XIX. Dirigir y evaluar la operación y funcionamiento de las unidades administrativas adscritas a esta secretaría ejecutiva;
 
-XX. Supervisar la formulación y difusión de las normas y las disposiciones técnicas y administrativas a las que deberán ajustarse las (sic) órganos jurisdiccionales y unidades administrativas del Poder Judicial de la Federación para la planeación, organización, desarrollo, operación, supervisión y evaluación de las herramientas informáticas;
+XX. Administrar, supervisar y evaluar la instrumentación del Programa Nacional de Protección Civil del Consejo;
 
-XXI. Verificar y evaluar el Plan Estratégico de Desarrollo Informático, así como el informe de sus avances a la Comisión de Administración y al Pleno del Consejo;
+XXI. Emitir y proponer a la Comisión de Administración, los lineamientos para la operación de los sistemas de seguridad y vigilancia en todo el país, tanto de los servidores públicos como de los inmuebles;
 
-XXII. Dirigir el procedimiento de desarrollo e implantación de sistemas informáticos que requieran los órganos jurisdiccionales, auxiliares y las unidades administrativas del Consejo y los órganos jurisdiccionales;
+XXII. Dirigir la vigilancia de bienes muebles e inmuebles del Poder Judicial de la Federación;
 
-XXIII. Efectuar la dotación de infraestructura de telecomunicaciones y redes de datos para el buen funcionamiento de las aplicaciones informáticas del Poder Judicial de la Federación;
+XXIII. Operar los sistemas de seguridad y vigilancia de los inmuebles del Consejo en el Distrito Federal y zona metropolitana;
 
-XXIV. Coordinar la normativa, estandarización y difusión del uso de tecnologías informáticas en los órganos jurisdiccionales, auxiliares y unidades administrativas del Poder Judicial de la Federación;
+XXIV. Elaborar y presentar informes, con la periodicidad que le sean requeridos por la Comisión de Administración y por el Pleno;
 
-XXV. Dirigir el apoyo y asesoría informática a las unidades administrativas, órganos jurisdiccionales, oficinas de correspondencia común a éstos y demás áreas del Poder Judicial de la Federación;
+XXV. Suscribir las credenciales del personal del Poder Judicial de la Federación, de los niveles 8 al 24 del Catálogo General de Puestos;
 
-XXVI. Participar, en el ámbito de su competencia, en los sistemas de estadística de la Judicatura Federal;
+XXVI. Proponer al Pleno del Consejo, a través de la Comisión de Administración, en coordinación con las Secretarías Ejecutivas de Finanzas y de Obra, Recursos Materiales y Servicios Generales, una estrategia para continuar optimizando el aprovechamiento de los recursos materiales y humanos del Consejo;
 
-XXVII. Colaborar, en el ámbito de su competencia, en la automatización y puesta en funcionamiento de las oficinas de correspondencia común;
+XXVII. Presidir los comités de:
 
-XXVIII. Dirigir y evaluar la operación y funcionamiento de las unidades administrativas adscritas a esta secretaría ejecutiva;
+- Protección Civil;
 
-XXIX. Administrar, supervisar y evaluar la instrumentación del Programa Nacional de Protección Civil del Consejo;
+- Apoyos Médicos; y
 
-XXX. Emitir y proponer a la Comisión de Administración, los lineamientos para la operación de los sistemas de seguridad y vigilancia en todo el país, tanto de los servidores públicos como de los inmuebles;
+- Los demás que determine el Pleno; y
 
-XXXI. Dirigir la vigilancia de bienes muebles e inmuebles del Poder Judicial de la Federación;
+XXVIII. Las demás que establezcan el Pleno y la Comisión de Administración.
 
-XXXII. Operar los sistemas de seguridad y vigilancia de los inmuebles del Consejo en el Distrito Federal y zona metropolitana;
-
-XXXIII. Elaborar y presentar informes, con la periodicidad que le sean requeridos por la Comisión de Administración y por el Pleno;
-
-XXXIV. Suscribir las credenciales del personal del Poder Judicial de la Federación, de los niveles 8 al 24 del Catálogo General de Puestos;
-
-XXXV. Proponer al Pleno del Consejo, a través de la Comisión de Administración, en coordinación con las Secretarías Ejecutivas de Finanzas y de Obra, Recursos Materiales y Servicios Generales, una estrategia para continuar optimizando el aprovechamiento de los recursos materiales y humanos del Consejo;
-
-XXXVI. Presidir los comités de:
-
--Protección Civil;
-
--Informática;
-
--Apoyos Médicos; y
-
--Los demás que determine el Pleno; y
-
-XXXVII. Las demás que establezcan el Pleno y la Comisión de Administración.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 75.
 
@@ -1201,25 +1187,25 @@ La Secretaría Ejecutiva de Administración contará, para el adecuado ejercicio
 
 I. Recursos Humanos;
 
-> <small>(F. DE E., D.O.F. 12 DE OCTUBRE DE 2006)</small>
-
 II. Servicios al Personal;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+III. Seguridad y Protección Civil;
 
-III. Aplicaciones Informáticas;
+IV. Servicios Médicos y Desarrollo Infantil; y
 
-IV. Sistemas de Redes Informáticas;
+V. Las demás que determine el Pleno.
 
-V. Seguridad y Protección Civil;
-
-VI. Servicios Médicos y Desarrollo Infantil; y
-
-VII. Las demás que determine el Pleno.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 76.
 
-El Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales se encargará de apoyar a la Comisión de Administración en los proyectos de contratación de obra pública, en la supervisión de obra y manejo óptimo de los inmuebles, en la contratación de recursos materiales y de prestación de servicios en general del Poder Judicial de la Federación, así como auxiliar al Comité Técnico del Fondo de Apoyo a la Administración de Justicia y a los titulares de órganos jurisdiccionales en materia de bienes asegurados y decomisados. Asimismo, se encargará de supervisar la operación de las administraciones regionales, con apego al Presupuesto de Egresos asignado al Consejo, autorizado por la Cámara de Diputados y por los acuerdos establecidos por el Pleno, de conformidad con los principios de honestidad, economía, eficiencia, eficacia, celeridad y buena fe.
+El Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales se encargará de apoyar a la Comisión de Administración en los proyectos de contratación de obra pública, en la supervisión de obra y manejo óptimo de los inmuebles, en la contratación de recursos materiales y de prestación de servicios en general del Poder Judicial de la Federación, así como auxiliar al Comité Técnico del Fondo de Apoyo a la Administración de Justicia y a los titulares de órganos jurisdiccionales en materia de bienes asegurados y decomisados; de supervisar la operación de las administraciones regionales, con apego al Presupuesto de Egresos asignado al Consejo, autorizado por la Cámara de Diputados y por los acuerdos establecidos por el Pleno, de conformidad con los principios de honestidad, economía, eficiencia, eficacia, celeridad y buena fe.
+
+> <small>(F. DE E., D.O.F. 23 DE SEPTIEMBRE DE 2009)</small>
+
+Asimismo, se encargará del manejo óptimo de los recursos de las tecnologías de información y comunicaciones.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 77.
 
@@ -1231,7 +1217,7 @@ II. Presidir los Comités de:
 
 - Adquisiciones, Arrendamientos, Obra y Servicios;
 
-> <small>(F. DE E., D.O.F. 12 DE OCTUBRE DE 2006)</small>
+- Informática;
 
 - Administración Inmobiliaria;
 
@@ -1285,7 +1271,7 @@ XX. Definir y proponer los procedimientos para la operación de las administraci
 
 XXI. Someter a la consideración de la Comisión de Administración la designación, cambio de adscripción y renuncia de los titulares de las administraciones regionales y delegaciones administrativas;
 
-XXII. Dirigir la normativa para la administración de recursos humanos en las unidades foráneas;
+XXII. Aplicar la normativa para la administración de recursos humanos en las unidades foráneas;
 
 XXIII. Evaluar la operación de las administraciones regionales y delegaciones administrativas y promover ante las unidades administrativas normativas, estrategias de modernización, desconcentración o mejora continua de los procesos administrativos;
 
@@ -1295,19 +1281,41 @@ XXV. Fomentar acciones en materia de capacitación y desarrollo del personal res
 
 XXVI. Verificar el suministro oportuno de bienes y servicios a los órganos jurisdiccionales y áreas administrativas;
 
-XXVII. Coordinar con las áreas competentes la realización de las acciones de recepción y custodia de los bienes decomisados y asegurados, no reclamados o abandonados, así como coadyuvar con la Secretaría Técnica del Fondo de Apoyo a la Administración de Justicia en la realización de las acciones relativas al destino final de dichos bienes;
+XXVII. Dirigir los apoyos técnicos que permitan al Consejo establecer la política de tecnologías de la información y comunicaciones;
 
-XXVIII. Instrumentar con apoyo en la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, las acciones orientadas a la localización de inmuebles requeridos para la expansión de espacios físicos o instalación de nuevos órganos jurisdiccionales de acuerdo a las normas y lineamientos que establezcan la Comisión de Administración y el Pleno;
+> <small>(F. DE E., D.O.F. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XXIX. Llevar el registro o bitácora, mediante una base de datos, de cada uno de los inmuebles ocupados por el Poder Judicial de la Federación para el control de las obras de mantenimiento, remodelación o ampliación que en cada uno se realicen;
+XXVIII. Supervisar la formulación y difusión de las normas y las disposiciones técnicas y administrativas a las que deberán ajustarse los órganos jurisdiccionales y unidades administrativas del Poder Judicial de la Federación para la planeación, organización, desarrollo, operación, supervisión y evaluación de las herramientas informáticas;
 
-XXX. Coadyuvar con la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia y la Dirección General de Responsabilidades de la Contraloría, en el registro, análisis y clasificación de la información sobre bienes decomisados y asegurados no reclamados o abandonados que los jueces de distrito pongan, por conducto de la Contraloría del Poder Judicial de la Federación, a disposición del Consejo para determinar su destino;
+XXIX. Verificar y evaluar el Plan Estratégico de Desarrollo Informático, así como el informe de sus avances a la Comisión de Administración y al Pleno del Consejo;
 
-XXXI. Coadyuvar con la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia en la elaboración de la lista de los bienes decomisados y asegurados no reclamados o abandonados, que deba ser sometida a consideración del citado Comité para determinar su destino;
+> <small>(F. DE E., D.O.F. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XXXII. Auxiliar a los jueces de distrito sobre las medidas que deban tomar para evitar el deterioro y la destrucción de los bienes asegurados, bienes decomisados y asegurados no reclamados o abandonados;
+XXX. Dirigir el procedimiento de desarrollo e implantación de sistemas informáticos que requieran los órganos jurisdiccionales, los órganos auxiliares y las unidades administrativas del Consejo;
 
-XXXIII. Las demás que le atribuyan el Pleno y la Comisión de Administración.
+XXXI. Efectuar la dotación de infraestructura de telecomunicaciones y redes de datos para el buen funcionamiento de las aplicaciones informáticas del Poder Judicial de la Federación;
+
+XXXII. Coordinar la normativa, estandarización y difusión del uso de tecnologías informáticas en los órganos jurisdiccionales, auxiliares y unidades administrativas del Poder Judicial de la Federación;
+
+XXXIII. Dirigir el apoyo y asesoría informática a las unidades administrativas, órganos jurisdiccionales, oficinas de correspondencia común a éstos y demás áreas del Poder Judicial de la Federación;
+
+XXXIV. Colaborar, en el ámbito de su competencia, en la automatización y puesta en funcionamiento de las oficinas de correspondencia común;
+
+XXXV. Coordinar con las áreas competentes la realización de las acciones de recepción y custodia de los bienes decomisados y asegurados, no reclamados o abandonados, así como coadyuvar con la Secretaría Técnica del Fondo de Apoyo a la Administración de Justicia en la realización de las acciones relativas al destino final de dichos bienes;
+
+XXXVI. Instrumentar con apoyo en la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, las acciones orientadas a la localización de inmuebles requeridos para la expansión de espacios físicos o instalación de nuevos órganos jurisdiccionales de acuerdo a las normas y lineamientos que establezcan la Comisión de Administración y el Pleno;
+
+XXXVII. Llevar el registro o bitácora, mediante una base de datos, de cada uno de los inmuebles ocupados por el Poder Judicial de la Federación para el control de las obras de mantenimiento, remodelación o ampliación que en cada uno se realicen;
+
+XXXVIII. Coadyuvar con la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia y la Dirección General de Responsabilidades de la Contraloría, en el registro, análisis y clasificación de la información sobre bienes decomisados y asegurados no reclamados o abandonados que los jueces de distrito pongan, por conducto de la Contraloría del Poder Judicial de la Federación, a disposición del Consejo para determinar su destino;
+
+XXXIX. Coadyuvar con la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia en la elaboración de la lista de los bienes decomisados y asegurados no reclamados o abandonados, que deba ser sometida a consideración del citado Comité para determinar su destino;
+
+XL. Auxiliar a los jueces de distrito sobre las medidas que deban tomar para evitar el deterioro y la destrucción de los bienes asegurados, bienes decomisados y asegurados no reclamados o abandonados; y
+
+XLI. Las demás que le atribuyan el Pleno y la Comisión de Administración.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 78.
 
@@ -1317,9 +1325,11 @@ I. Administración Regional;
 
 II. Inmuebles y Mantenimiento;
 
-III. Recursos Materiales y Servicios Generales; y
+III. Recursos Materiales y Servicios Generales;
 
-IV. Las demás que determine el Pleno.
+IV. Informática; y
+
+V. Las demás que determine el Pleno.
 
 ###### Artículo 79.
 
@@ -2223,201 +2233,75 @@ XVIII. Suscribir, previo dictamen favorable, y en coordinación con la Direcció
 
 XIX. Las demás que le atribuyan el Pleno, la Comisión de Administración y el Secretario Ejecutivo de Administración.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 119.
 
-La Dirección General de Aplicaciones Informáticas se encargará de impulsar la operación eficiente y la modernización de todos los componentes intangibles de los equipos de cómputo (software), mediante el desarrollo de programas de cómputo, procedimientos, reglas, documentación y datos asociados, que garanticen la adecuada operación de los sistemas de cómputo.
+La Dirección General de Informática será la encargada de impulsar la operación eficiente y la modernización en la automatización de los procesos necesarios para el ejercicio de las funciones del Consejo, a través de la generación de programas y mantenimiento de la infraestructura de cómputo.
 
-Esta dirección tendrá funciones consultivas y propositivas en relación con la adquisición de aplicaciones para los sistemas de cómputo, así como para el desarrollo de aplicaciones propias del Consejo, por lo que las operaciones de compra deberán contar con la opinión previa de ésta y realizarse por conducto de las áreas competentes del Consejo para tal efecto, con cargo a los recursos presupuestales correspondientes.
+Además de lo señalado en el párrafo anterior, esta dirección tendrá funciones consultivas y propositivas para la adquisición de los insumos necesarios para la consecución de sus fines, por lo que las operaciones de compra deberán contar con la opinión previa de ésta y realizarse por conducto de las áreas competentes del Consejo con cargo a los recursos presupuestales correspondientes.
 
-> <small>N. DE E. CONFORME A LA PRESENTE REFORMA, EL ARTICULO HA SIDO MODIFICADO EN FORMA INTEGRA RESPECTO A SU ESTRUCTURA.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 120.
 
-El titular de la Dirección General de Aplicaciones Informáticas tendrá las siguientes atribuciones:
+El titular de la Dirección General de Informática tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+I. Establecer políticas generales en materia de tecnologías de la información y comunicaciones;
 
-I. Establecer lineamientos generales para integrar e instrumentar una política con apoyos técnicos, que permitan al Consejo establecer lineamientos adecuados en materia de aplicaciones informáticas para beneficio del Poder Judicial de la Federación;
+II. Elaborar y difundir las disposiciones técnicas y administrativas a las que deberán ajustarse los órganos jurisdiccionales y unidades administrativas del Consejo para la planeación, organización, desarrollo, operación, supervisión y evaluación de las aplicaciones informáticas y herramientas de desarrollo informático;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+III. Elaborar anualmente el Plan Estratégico de Tecnologías de la Información y Comunicaciones y someterlo a la autorización de la Comisión de Administración y del Pleno del Consejo;
 
-II. Formular, someter y difundir las normas y las disposiciones técnicas y administrativas a las que deberán ajustarse los órganos jurisdiccionales y unidades administrativas del Poder Judicial de la Federación para la planeación, organización, desarrollo, operación, supervisión y evaluación de las aplicaciones informáticas y herramientas de desarrollo informático;
+IV. Informar trimestralmente, a la Comisión de Administración y al Pleno, respecto de la ejecución y avances del Plan Estratégico de Tecnologías de la Información y Comunicaciones;
 
-III. Ejecutar y actualizar anualmente el plan estratégico de desarrollo informático, junto con la Dirección General de Sistemas de Redes Informáticas, así como informar de sus avances a la Comisión de Administración y al Pleno del Consejo;
+V. Realizar la investigación tecnológica y elaborar los estudios correspondientes para la evaluación, selección e implantación de las tecnologías de información y comunicaciones para su aprovechamiento en el Consejo;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+VI. Elaborar el anteproyecto de presupuesto anual correspondiente al Plan Estratégico de Tecnologías de la Información y Comunicaciones;
 
-IV. Realizar la investigación tecnológica y elaborar los estudios correspondientes para la evaluación, selección e implantación de tecnologías para el desarrollo de aplicaciones informáticas y bancos de información institucionales, servicios profesionales e insumos en materia de sistemas;
+VII. Elaborar e implementar, en coordinación con la Dirección General de Servicios al Personal, la planeación, diseño, programación y ejecución de los cursos de capacitación en materia de informática que requieran los órganos jurisdiccionales y áreas administrativas del Consejo, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos;
 
-V. Elaborar, en coordinación con la Dirección General de Sistemas de Redes Informáticas, el anteproyecto de presupuesto anual en materia informática y telecomunicaciones, de conformidad con el plan estratégico de desarrollo informático y mediante el análisis e integración de los requerimientos de las unidades administrativas que forman el Consejo y los de los órganos jurisdiccionales del Poder Judicial de la Federación;
+VIII. Proporcionar el servicio especializado que garantice la continuidad operativa de los procesos necesarios para el ejercicio de las funciones del Consejo;
 
-VI. Elaborar e implementar en coordinación con la Dirección General de Servicios al Personal, el programa de capacitación informática para el personal del Poder Judicial de la Federación;
+IX. Elaborar e implementar las medidas de seguridad necesarias para salvaguardar la información contenida en medios electrónicos;
 
-VII. Participar con la Dirección General de Servicios al Personal, en la planeación, diseño, programación y ejecución de los cursos de capacitación en materia de informática que requieran los órganos jurisdiccionales y áreas administrativas del Consejo, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos;
+X. Brindar apoyo y asesoría, respecto de los servicios de tecnologías de la información y comunicaciones que presta esta Dirección;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+XI. Desarrollar estudios técnicos de viabilidad y factibilidad y emitir, en su caso, dictámenes para la adquisición de herramientas de tecnologías de la información y comunicaciones, necesarios para satisfacer los requerimientos de sistematización requeridos por las áreas administrativas del Consejo y órganos jurisdiccionales, así como vigilar y evaluar su manejo y funcionalidad;
 
-VIII. Diseñar, desarrollar, programar, implantar y mantener las aplicaciones informáticas que requieran los órganos jurisdiccionales y áreas administrativas del Consejo para su mejor desempeño, así como para la administración de los recursos humanos, financieros, materiales, y otros servicios o proyectos específicos;
+XII. Llevar a cabo el diagnostico oportuno para la atención de los procesos necesarios para el ejercicio de las funciones del Consejo;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+XIII. Brindar asesoría a las áreas competentes en los aspectos técnicos y de control administrativo para la formulación de bases de concurso, contratos, condiciones de pago, entregas, otorgamiento de licencias y servicios de tecnologías de la información y comunicaciones;
 
-IX. Seleccionar, proponer, difundir y estandarizar el uso de tecnologías para el desarrollo y mantenimiento de aplicaciones informáticas que permitan apoyar a los órganos jurisdiccionales y áreas administrativas del Consejo en el desempeño de sus labores, así como establecer y publicitar las normas a las que deberán ajustarse;
+XIV. Colaborar, en el ámbito de su competencia, en la automatización y puesta en funcionamiento de las oficinas de correspondencia común y realizar las acciones necesarias para detectar posibles anomalías en el sistema de turno;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+XV. Asistir a congresos y reuniones con el fin de mejorar los servicios de tecnologías de la información y comunicaciones en los órganos jurisdiccionales y áreas administrativas del Consejo;
 
-X. Proporcionar el servicio especializado que garantice la continuidad operativa de las aplicaciones informáticas del Poder Judicial de la Federación;
+XVI. Participar en los comités y grupos de trabajo que la Comisión de Administración y el Pleno del Consejo determinen;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+XVII. Elaborar, mantener actualizados y en caso de ser necesario, coordinar la aplicación de los planes de contingencia en el ámbito de su competencia;
 
-XI. Formular y aplicar la normativa necesaria para resguardar y proteger las aplicaciones informáticas desde su diseño, implantación y operación, así como garantizar la integridad de la información que en ellos se genere;
+XVIII. Asesorar a la Dirección General de Recursos Materiales y Servicios Generales, en el manejo de los inventarios;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+XIX. Opinar y participar con la Dirección General de Inmuebles y Mantenimiento en el diseño e implantación de los sistemas de cableado estructurado para los servicios de voz y datos, a fin de asegurar el servicio y funcionamiento adecuado de las redes informáticas del Consejo;
 
-XII. Brindar apoyo y asesoría informática a órganos jurisdiccionales, oficinas de correspondencia común a éstos, a las unidades administrativas y demás áreas del Poder Judicial de la Federación; desarrollar programas de soporte y asesoría técnica y vigilar y evaluar su aplicación y funcionalidad;
+XX. Apoyar a la Dirección General de Recursos Materiales y Servicios Generales en la planeación, diseño, implantación y mantenimiento de la infraestructura de telefonía que asegure el buen funcionamiento y la comunicación de las personas que laboran en el Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+XXI. Instalar y mantener un centro de atención para la consulta y resolución de problemas relacionados con las tecnologías de la información y las comunicaciones;
 
-XIII. Desarrollar estudios técnicos de viabilidad y factibilidad y emitir, en su caso, dictámenes para la adquisición de herramientas de desarrollo de sistemas informáticos, aplicaciones o servicios profesionales necesarios para satisfacer los requerimientos de sistematización requeridos por las áreas administrativas y órganos jurisdiccionales del Poder Judicial de la Federación, así como vigilar y evaluar su manejo y funcionalidad;
+XXII. Participar con la Dirección General de Inmuebles y Mantenimiento en el cálculo del suministro de energía eléctrica para la construcción y remodelación de inmuebles, a fin de asegurar el servicio y funcionamiento adecuado de los sistemas de cómputo, de telefonía y de redes del Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+XXIII. Asesorar al área competente para la contratación de seguros de bienes informáticos, bajo cualquier supuesto; y
 
-XIV. Mantener relaciones con comités y grupos de usuarios, así como con representantes de organizaciones externas, proveedores de bienes y servicios informáticos, a fin de asegurar el oportuno diagnóstico, atención de requerimientos de aplicaciones informáticas y contar con las mejores condiciones en el desarrollo de los proyectos;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XV. Brindar asesoría a las áreas competentes en los aspectos técnicos y de control administrativo para la formulación de bases de concurso, contratos, condiciones de pago, entregas, otorgamiento de licencias y servicios de informática;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XVI. Colaborar, en el ámbito de su competencia, en la automatización y puesta en funcionamiento de las oficinas de correspondencia común y realizar las acciones necesarias para detectar posibles anomalías en el sistema de turno;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XVII. Asistir a congresos y reuniones con el fin de mejorar los servicios de informática y sistemas en los órganos jurisdiccionales y áreas administrativas del Consejo;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XVIII. Participar en los comités y grupos de trabajo que la Comisión de Administración y el Pleno del Consejo determinen;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XIX. Elaborar, mantener actualizados y en caso de ser necesario, coordinar la aplicación de los planes de contingencia en el ámbito de su competencia;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XX. Formular y proponer su respectivo anteproyecto de presupuesto con apego a las políticas y lineamientos vigentes en la materia;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XXI. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos; y
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XXII. Las demás que le atribuyan el Pleno, la Comisión de Administración y el Secretario Ejecutivo de Administración.
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
+XXIV. Las demás que le atribuyan el Pleno, la Comisión de Administración y el Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales.
 
 ###### Artículo 121.
 
-La Dirección General de Sistemas de Redes Informáticas se encargará de impulsar la operación eficiente y la modernización de los sistemas de cómputo (hardware) y las redes de telecomunicaciones, mediante el desarrollo de políticas para su adecuado mantenimiento y administración. Asimismo, esta unidad administrativa será la responsable de asegurar que se preste adecuadamente el servicio de la Internet y del funcionamiento y mantenimiento de la Intranet y del sitio Web del Consejo.
-
-Esta dirección tendrá funciones consultivas y propositivas en relación con la adquisición del equipamiento y desarrollo de los sistemas de cómputo y de telecomunicaciones, por lo que las operaciones de compra deberán contar con la opinión previa de ésta y realizarse por conducto de las áreas competentes del Consejo para tal efecto, con cargo a los recursos presupuestales correspondientes.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 122.
 
-La Dirección General de Sistemas de Redes Informáticas tendrá las siguientes atribuciones:
-
-I. Ejecutar y actualizar anualmente el plan estratégico de desarrollo informático, junto con la Dirección General de Informática, así como informar de sus avances a la Comisión de Administración y al Pleno del Consejo;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-II. Realizar los estudios y análisis técnicos necesarios para renovar permanentemente la infraestructura de cómputo y telecomunicaciones del Poder Judicial de la Federación;
-
-III. Brindar un nivel de servicio de la red con excelencia a los servidores públicos del Poder Judicial de la Federación;
-
-IV. Racionalizar el gasto en la infraestructura informática;
-
-V. Proporcionar seguridad en la transmisión, almacenamiento y acceso a la información jurídica o administrativa;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-VI. Brindar asesoría a la Dirección General de Recursos Materiales y Servicios Generales, en la descripción de los sistemas de cómputo y de telecomunicaciones para la elaboración del control de inventario de los bienes utilizados para esos propósitos, circunstancia que deberá informarse a la Secretaría Ejecutiva de Administración del Consejo;
-
-VII. Hacer la planeación rigurosa de la red que evite, oportunamente, la obsolescencia o su saturación, considerando su crecimiento en forma controlada;
-
-VIII. Establecer un Programa de Recuperación de Desastres Informáticos, mediante un centro de respaldo y operación alterno que permita subsanar cualquier contingencia que se presente, y evitar, con ello, que se interrumpa la continuidad de los servicios de la red;
-
-IX. Proponer, oportunamente, a la Comisión de Administración el cambio de tecnología para que los servicios integrados de datos, videoconferencia y telefonía puedan brindarse de una manera más eficiente;
-
-X. Opinar sobre la mejora y cambio de los equipos de comunicación que sirvan para la transmisión de información por la red, tomando en consideración la actualización de aquellos que sean compatibles con las más avanzadas tecnologías de operación;
-
-XI. Aumentar la seguridad en los sistemas de comunicaciones y de cómputo, para proteger la información que en ellos se difunde, así como para evitar la infiltración de intrusos (hackers);
-
-XII. Realizar el análisis y propuestas para concentrar las comunicaciones en un solo edificio, y poder instalar y mantener, además, otro de características similares como sitio alterno;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XIII. Evaluar y proponer uso de tecnología que permita al Poder Judicial de la Federación disminuir los costos de adquisición y mantenimiento de los equipos de cómputo y de telefonía, así como de los sistemas de redes;
-
-XIV. Establecer grupos de monitoreo de la red con software de uso específico y con procedimientos de respuesta de alta eficiencia;
-
-XV. Establecer programas de capacitación permanentes para el personal involucrado, enfocados a cubrir un plan de carrera y orientado tanto al aspecto técnico como al organizacional;
-
-XVI. Proponer la contratación, renovación, uso y aprovechamiento de licencias de software, de uso en la red, en las condiciones más favorables para el Poder Judicial de la Federación, conforme al artículo 134 constitucional y al acuerdo general que regule las adquisiciones del Consejo;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XVII. Planear, implantar y mantener la infraestructura de los sistemas de cómputo, de telecomunicaciones y de redes convergentes de voz y datos, que aseguren el buen funcionamiento, la conectividad y la interoperabilidad de las aplicaciones informáticas del Poder Judicial de la Federación;
-
-XVIII. Formular y proponer su respectivo anteproyecto de presupuesto con apego a las políticas y lineamientos vigentes en la materia;
-
-XIX. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XX. Opinar y participar con la Dirección General de Inmuebles y Mantenimiento en el diseño e implantación de los sistemas de cableado estructurado para los servicios de voz y datos, a fin de asegurar el servicio y funcionamiento adecuado de las redes informáticas del Poder Judicial de la Federación;
-
-XXI. Apoyar a la Dirección General de Recursos Materiales y Servicios Generales en la planeación, diseño, implantación y mantenimiento de la infraestructura de telefonía que asegure el buen funcionamiento y la comunicación de las personas que laboran en el Poder Judicial de la Federación;
-
-XXII. Establecer y mantener en funcionamiento un grupo especializado de personal que permita la operación continua e ininterrumpida de la red y la telefonía por la Intranet, las veinticuatro horas del día de los trescientos sesenta y cinco días del año;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XXIII. Instalar y mantener un centro de atención para la consulta y resolución de problemas relacionados con los equipos de cómputo, con los servicios de Internet e Intranet y con la telefonía por Intranet, al servicio de los servidores públicos del Poder Judicial de la Federación como usuarios finales;
-
-XXIV. Coordinarse con la Dirección General de Informática con el fin de que las actividades de ambas direcciones permitan establecer el mejor servicio, con los mejores equipos y la más adecuada tecnología informática a favor de los usuarios del Poder Judicial de la Federación y la más oportuna y completa información al público en general;
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XXV. Participar en los comités y grupos de trabajo que la Comisión de Administración y el Pleno del Consejo determinen;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XXVI. Formular y aplicar la normativa necesaria para resguardar y proteger los equipos de cómputo y de telefonía, así como de los sistemas de redes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XXVII. Participar con la Dirección General de Inmuebles y Mantenimiento en el cálculo del suministro de energía eléctrica para la construcción y remodelación de inmuebles, a fin de asegurar el servicio y funcionamiento adecuado de los sistemas de cómputo, de telefonía y de redes del Poder Judicial de la Federación;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XXVIII. Mantener relaciones con comités y grupos de usuarios, así como con representantes de organizaciones externas, proveedores de bienes informáticos, prestadores de servicios y otros, a fin de asegurar el oportuno diagnóstico y atención de requerimientos de los sistemas de cómputo, de telefonía y de redes;
-
-(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007) (F. DE E., D.O.F. 30 DE MAYO DE 2007)
-
-XXIX. Brindar asesoría a las áreas competentes en los aspectos técnicos y de control administrativo para la formulación de bases de concurso, contratos, condiciones de pago, entregas, otorgamiento de licencias y servicios de informática;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XXX. Asesorar al área competente en el aseguramiento de bienes informáticos por traslado y por siniestro; y
-
-> <small>(REFORMADA [N. DE E. REUBICADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE MAYO DE 2007)</small>
-
-XXXI. Las demás que le atribuyan el Pleno, la Comisión de Administración y el Secretario Ejecutivo de Administración.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 1 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 123.
 
@@ -3558,6 +3442,14 @@ D.O.F. 12 DE AGOSTO DE 2009.
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTICULO 105 Y LAS FRACCIONES I, II, III, V y VI DEL ARTICULO 106.
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
+
+D.O.F. 1 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
