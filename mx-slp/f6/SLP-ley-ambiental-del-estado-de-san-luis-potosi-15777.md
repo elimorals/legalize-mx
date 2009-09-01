@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2009-03-28"
+last_updated: "2009-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1387,7 +1387,9 @@ Corresponderá a la SEGAM, regular, seleccionar, determinar y autorizar los siti
 
 La SEGAM, en coordinación con los ayuntamientos, para los efectos de este capitulo promoverán:
 
-I. El uso de sistemas de reciclamiento de desechos sólidos para disminuir su cantidad, a través de la separación y clasificación, así como la operación de sistemas de reciclaje;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+
+I. El uso de sistemas de reciclamiento de desechos sólidos para disminuir su cantidad, a través de la separación y clasificación, así como la operación de sistemas de reciclaje y la eliminación del uso de bolsas de plástico;
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -1431,13 +1433,17 @@ V. La disposición final de lodos provenientes de procesos industriales y de pla
 
 VI. El vertido directo de lodos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales, que no se consideren como residuos peligrosos, a cuerpos receptores de jurisdicción estatal o en los sistemas de drenaje y alcantarillado municipal;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
 
-VII. La circulación de vehículos en áreas urbanas o consideradas como tales, según los respectivos planes o programas de desarrollo urbano y ordenamiento ecológico y conforme al respectivo reglamento, cuando su carga contenga sustancias peligrosas, ya fueren materias primas, productos, subproductos, desechos o residuos, y
+VII. La circulación de vehículos en áreas urbanas o consideradas como tales, según los respectivos planes o programas de desarrollo urbano y ordenamiento ecológico, y conforme al respectivo reglamento, cuando su carga contenga sustancias peligrosas, ya fueren materias primas, productos, subproductos, desechos o residuos;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
 
-VIII. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado.
+VIII. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado, y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+
+IX. La dádiva de bolsas de plástico o polietileno por parte de establecimientos mercantiles, utilizadas para la trasportación, contención y envase de los productos que comercialicen. Esta prohibición quedará sin efecto en el caso de que las bolsas de plástico utilizadas, cuenten con la calidad de biodegradables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -1453,11 +1459,17 @@ ARTICULO109. Con el objeto de prevenir y controlarlos efectos nocivos que pudier
 
 I. De concientización y organización vecinal para evitar que se depositen y arrojen a la vía publica residuos de cualquier tipo, así como de limpia del frente de los predios por sus propietarios;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
 
-II. De limpieza y control de las predios baldíos para evitar que se transformen en lugares de almacenamiento irregular de residuos sólidos municipales y de manejo especial, y focos de insalubridad pública y contaminación, y
+II. De limpieza y control de los predios baldíos para evitar que se transformen en lugares de almacenamiento irregular de residuos sólidos municipales y de manejo especial, y focos de insalubridad pública y contaminación;
 
-III. Cualquier otro tendiente a prevenir y controlar la contaminación originada por estos residuos, así como a rehabilitar sitios contaminados.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+
+III. Cualquier otro tendiente a prevenir y controlar la contaminación originada por estos residuos, así como a rehabilitar sitios contaminados, y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+
+IV. De concientización y organización ciudadana vecinal para promover la cultura, educación y capacitación ambientales, para la eliminación del uso de bolsas de plástico.
 
 Los distribuidores, propietarios o responsables de la venta directa o indirecta de aceites lubricantes automotrices, así como los talleres de mantenimiento automotriz, estarán obligados a recoger los envases que hubiesen vendido, así como a recolectar y almacenar adecuadamente y de conformidad con la normatividad ambiental aplicable, los aceites lubricantes ya usados a efecto de que éstos puedan a su vez ser recolectados por empresas debidamente autorizadas por la autoridad competente, para lo cual se establecerán los mecanismos de coordinación necesarios para llevarlo a cabo conforme a los lineamientos que determinen las autoridades competentes.
 
@@ -2396,3 +2408,11 @@ SEGUNDO. La Quincuagésima Octava legislatura del Honorable Congreso del Estado 
 P.O. 28 DE MARZO DE 2009.
 
 UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. La Comisión de Ecología y Medio Ambiente del Honorable Congreso del Estado, acuerda presentar iniciativa que plantee exentar de obligaciones fiscales, a las personas morales que utilicen y obsequien bolsas de plástico biodegradables.
