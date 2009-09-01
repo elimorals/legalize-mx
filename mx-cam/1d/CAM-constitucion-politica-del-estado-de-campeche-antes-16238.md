@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2008-09-09"
+last_updated: "2009-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -84,6 +84,10 @@ La Bandera, el Himno y el Escudo Nacionales, así como el Himno y el Escudo prop
 ###### ARTICULO 6.
 
 Además de lo que la Constitución Política de los Estados Unidos Mexicanos prescribe sobre derechos garantizados para los habitantes de la República, los del Estado de Campeche gozarán de los demás derechos que la presente Constitución les otorga.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+
+Toda persona tiene derecho a que se respete su vida. Este derecho estará protegido por la ley desde el momento de la fecundación o concepción hasta su muerte natural, con las salvedades ya previstas en las leyes ordinarias.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -391,7 +395,7 @@ Las sesiones de todos los órganos colegiados de dirección serán públicas en 
 
 Las disposiciones de la legislación electoral y del Reglamento Interior del Instituto, que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casilla estarán integradas por ciudadanos, quienes gozaran de las facultades e investidura que establezca la mencionada legislación;
 
-VI.- El Instituto Electoral del Estado de Campeche podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales, lo cual no lo releva de su obligación y responsabilidad. El acuerdo para la celebración del convenio correspondiente deberá ser aprobado por las dos terceras partes de los consejeros electorales y deberá contener los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del convenio y el proyecto de reestructuración administrativa, financiera y laboral del propio Instituto Electoral;
+VI.- El Instituto Electoral del Estado de Campeche podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales, lo cual no lo releva de su obligación y responsabilidad. El acuerdo para la celebración del convenio correspondiente deberá ser aprobado por las dos terceras partes de los consejeros electorales y deberá contener los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del convenio y el proyecto de reestructuración administrativa, financiera y laboral del propio Instituto Electoral
 
 Lo anterior, deberá ser aprobado con dos años de anticipación al inicio de la respectiva jornada electoral, a fin de que el Congreso, en su caso, realice las modificaciones legales que considere necesarias y adopte las previsiones presupuestales que se requieran;
 
@@ -473,7 +477,7 @@ a).- Para obtener el registro de sus listas de candidatos a diputados de represe
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
-b) Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la circunscripción plurinominal, tendrá derecho a que le sean atribuidos diputados, según el principio de representación proporcional;
+b). Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la circunscripción plurinominal, tendrá derecho a que le sean atribuidos diputados, según el principio de representación proporcional;
 
 c).- Al partido político que cumpla con lo dispuesto por las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista que le corresponda en la circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
@@ -903,7 +907,7 @@ Los miembros de la Diputación Permanente serán suplidos en la forma que determ
 
 Las facultades de la Diputación Permanente, además de las que expresamente le concede esta Constitución, son las siguientes:
 
-I.- Convocar al Congreso, por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado o a solicitud del Ejecutivo, a sesiones extraordinarias. La convocatoria señalará con toda precisión el objeto de las sesiones y la fecha en que deban comenzar, no pudiendo el Congreso ocuparse sino de los asuntos precisados en la convocatoria;
+I.- Convocar al Congreso, por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a solicitud del Ejecutivo, a sesiones extraordinarias. La convocatoria señalará con toda precisión el objeto de las sesiones y la fecha en que deban comenzar, no pudiendo el Congreso ocuparse sino de los asuntos precisados en la convocatoria;
 
 II.- Emitir dictamen sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el período inmediato de sesiones ordinarias sigan tratándose;
 
@@ -917,7 +921,7 @@ VI.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia cuan
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
-VII.- Conceder en su caso, a los Diputados en ejercicio, licencia para separarse de sus funciones;
+VII.- Conceder, en su caso, a los Diputados en ejercicio, licencia para separarse de sus funciones;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -927,7 +931,7 @@ IX.- Nombrar con carácter provisional a los empleados de las dependencias del C
 
 X.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal Superior de Justicia, que le someta a su consideración el Gobernador del Estado, así como aceptar las renuncias de los propios funcionarios judiciales;
 
-XI.- Convocar a sesiones extraordinarias en el caso de delitos oficiales o del orden común, de que se acuse a los altos funcionarios públicos del Estado, en cuyo caso, no se tratará de ningún negocio del Congreso ni se prolongarán las sesiones por más tiempo que el indispensable para resolver el asunto que se precisó en la Convocatoria;
+XI.- Convocar a sesiones extraordinarias en el caso de delitos oficiales o del orden común, de que se acuse a los altos funcionarios públicos del Estado, en cuyo caso, no se tratará ningún negocio del Congreso ni se prolongarán las sesiones por más tiempo que el indispensable para resolver el asunto que se precisó en la Convocatoria;
 
 XII.- Las demás que le confiera esta Constitución.
 
@@ -1035,7 +1039,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 71.
 
@@ -1207,7 +1211,7 @@ La función de consejero jurídico del Gobernador estará a cargo de la dependen
 
 ### CAPITULO XVIII. De los Municipios del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 77.
 
@@ -1245,9 +1249,9 @@ Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- No tener más de 65 años de edad, ni menos de 35, el día del nombramiento.
+II.- No tener más de 65 años de edad, ni menos de 35, el día del nombramiento;
 
-III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Abogado o Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello.
+III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Abogado o Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
@@ -1569,7 +1573,7 @@ I. Cada Municipio será gobernado por un cuerpo colegiado, denominado Ayuntamien
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
-a) El Ayuntamiento ejercerá las facultades que al gobierno municipal otorga la Constitución Política de los Estados Unidos mexicanos (sic), las que le otorga esta Constitución y las que le confieran las leyes que de ellas emanen.
+a) El Ayuntamiento ejercerá las facultades que al gobierno municipal otorga la Constitución Política de los Estados Unidos mexicanos (sic), las que le otorga esta Constitución y las que le confieran las leyes que de ellas .
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1601,7 +1605,7 @@ V.- Cada Comisaría Municipal será administrada por una sóla persona, auxiliar
 
 Los presidentes, regidores, síndicos y comisarios durarán en sus cargos tres años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 103.
 
@@ -2045,7 +2049,7 @@ P.O. 29 DE MAYO DE 1954.
 
 REPUBLICADO, P.O. 3 DE JUNIO DE 1954.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.x</small>
 
 P.O. 17 DE SEPTIEMBRE DE 1955.
 
@@ -2375,6 +2379,10 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 Segundo.- La renovación escalonada de Consejeros Electorales estipulada en el párrafo V del artículo 24 de la Constitución Política del Estado de Campeche se llevará a cabo a partir de la próxima elección de Consejeros Electorales. Para tal fin se elegirán en la sesión convocada para tales fines en primer término al Consejero Presidente y tres Consejeros para el periodo enunciado en la referida norma Constitucional y posteriormente a los tres consejeros restantes para un periodo de tres años.
 
-Tercero.- Cualquier trabajo atinente a redefinir la conformación actual de los distritos electorales locales podrá llevarse a cabo tomando en consideración el Censo General de Población y Vivienda 2010.
+Tercero.- Cualquier trabajo atinente a redefinir la conformación actual de los distritos electorales locales podrá llevarse a cabo tomando en consideración el Censó General de Población y Vivienda 2010.
 
 Cuarto.- Se derogan todas las disposiciones legales y administrativas que se opongan al contenido del presente decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2009.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
