@@ -1,0 +1,432 @@
+---
+title: "REGLAMENTO DE LA LEY PARA EL APROVECHAMIENTO DE ENERGIAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICION ENERGETICA"
+identifier: "FED-reglamento-de-la-ley-para-el-aprovechamiento-de-energias-69882"
+country: "mx"
+rank: "reglamento"
+publication_date: "2009-09-02"
+last_updated: "2009-09-02"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69882&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "69882"
+scjn_status: "ABROGADO (A)"
+gazette: "Diario Oficial de la Federación"
+original_category: "REGLAMENTO"
+original_gazette_section: "2 PRIMERA SECCION"
+reform_count: "2"
+scjn_last_update: "2017-05-04"
+issue_date: "2009-08-31"
+---
+# REGLAMENTO DE LA LEY PARA EL APROVECHAMIENTO DE ENERGIAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICION ENERGETICA
+
+REGLAMENTO DE LA LEY PARA EL APROVECHAMIENTO DE ENERGIAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICION ENERGETICA
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de septiembre de 2009.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 31, 32 bis, 33, 34, 35 y 39 de la Ley Orgánica de la Administración Pública Federal y 1, 2, 6, 7, 8, 11, 12, 14, 17, 20, 21 y 22 de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética, he tenido a bien expedir el siguiente:
+
+REGLAMENTO DE LA LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICIÓN ENERGÉTICA
+
+## TÍTULO PRIMERO
+
+Disposiciones generales.
+
+### Capítulo I
+
+Disposiciones preliminares.
+
+###### Artículo 1.
+
+El presente ordenamiento tiene por objeto reglamentar la Ley para el Aprovechamiento de Energías renovables y el Financiamiento de la Transición Energética.
+
+###### Artículo 2.
+
+Además de las definiciones contenidas en el artículo 3o de la Ley mencionada en el artículo anterior, para efectos del presente reglamento se establecen las siguientes:
+
+I. Beneficios Económicos Netos: La relación de costos, efectos positivos y riesgos relativos, directos e indirectos, de la Generación Renovable, en el contexto de la transición energética, de acuerdo con lo señalado en el artículo 15 del presente reglamento;
+
+II. Cogeneración Eficiente: Es la generación de energía eléctrica, conforme a lo establecido en la fracción II del artículo 36 de la Ley del Servicio Público de Energía Eléctrica, siempre que el proceso tenga una eficiencia superior a la mínima que establezca la Comisión;
+
+III. Consejo: El Consejo Consultivo para las Energías renovables;
+
+IV. Generación Renovable: La producción de electricidad a partir de las Energías renovables;
+
+V. Inventario: El Inventario Nacional de las Energías renovables, y
+
+VI. Red Eléctrica: Cualquiera de las redes que forman parte del Sistema Eléctrico Nacional.
+
+###### Artículo 3.
+
+La interpretación para efectos administrativos y la aplicación del presente reglamento corresponde a la Secretaría, a la Comisión y a la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias.
+
+###### Artículo 4.
+
+La Secretaría promoverá que la utilización de las distintas fuentes de energía para la Generación Renovable se lleve a cabo de conformidad con los siguientes criterios:
+
+I. Fortalecimiento de la seguridad energética del país, al diversificar las fuentes de energía para la generación eléctrica;
+
+II. Disminución en la variación de los costos de la energía eléctrica, producida por la volatilidad en los precios de los combustibles de origen fósil;
+
+III. Reducción en los costos de operación, al integrar la generación en redes de media tensión;
+
+IV. Fomento en el desarrollo social de las comunidades donde se utilizan o se llevan a cabo los proyectos;
+
+V. Participación social en los proyectos correspondientes;
+
+VI. Impulso en el desarrollo regional, industrial y tecnológico del país, así como la creación de empleos;
+
+VII. Reducción en los impactos ambientales y en la salud pública causados por el uso de combustibles de origen fósil;
+
+VIII. Reducción en las emisiones de gases de efecto invernadero, en la generación de electricidad, mediante el uso de Energías renovables y Cogeneración Eficiente, y
+
+IX. Aprovechamiento de la biomasa proveniente de las actividades agrícolas, pecuarias, silvícolas, acuícolas, algacuícolas y pesqueras, mediante las tecnologías limpias.
+
+La Secretaría considerará los criterios señalados en el presente artículo para diseñar y ejecutar la política energética, y para determinar Energías renovables en términos del artículo 3o., fracción II, inciso g) de la Ley.
+
+### Capítulo II
+
+De la colaboración, coordinación y concertación entre la Secretaría, autoridades y el sector social.
+
+#### Sección I. De los convenios y acuerdos de colaboración, coordinación y concertación
+
+###### Artículo 5.
+
+La Secretaría, para la implementación de la Estrategia y del Programa, así como para el establecimiento y actualización del Inventario, podrá celebrar convenios y acuerdos de colaboración con dependencias y entidades de la Administración Pública Federal.
+
+En los convenios o acuerdos de coordinación que celebre la Secretaría con las autoridades de los gobiernos de las entidades federativas, se preverán los órganos y unidades administrativas responsables del cumplimiento de las obligaciones pactadas; el cronograma de actividades y las responsabilidades necesarias para cumplir con el objeto de los mismos.
+
+###### Artículo 6.
+
+La Secretaría podrá celebrar convenios de concertación para promover la participación de las personas y del sector social involucrados en la formulación y aplicación de medidas para la transición energética, y para el establecimiento y actualización del Inventario.
+
+#### Sección II. Del Consejo
+
+###### Artículo 7.
+
+El Consejo se integra con los miembros siguientes:
+
+I. Un presidente, que será el servidor público que designe el titular de la Secretaría;
+
+II. Un representante por cada una de las Secretarías de Medio Ambiente y Recursos Naturales; Economía; Hacienda y Crédito Público, y Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+III. Un representante de la Comisión;
+
+IV. Un representante de la Comisión Nacional para el Uso Eficiente de la Energía;
+
+V. Un representante del Suministrador, y
+
+VI. Seis representantes de los diversos sectores involucrados en la promoción de la Generación Renovable y el desarrollo y aplicación de tecnologías relacionadas, en términos de las reglas que al efecto se emitan, designados por el presidente del Consejo.
+
+###### Artículo 8.
+
+El Consejo contará con un secretario técnico, que será designado por el propio Consejo a propuesta de su presidente.
+
+###### Artículo 9.
+
+El presidente del Consejo y los demás miembros representantes de las dependencias y entidades de la Administración Pública Federal tendrán al menos nivel de Director General y podrán designar a un suplente, que deberá tener, al menos, nivel Director General Adjunto o equivalente.
+
+###### Artículo 10.
+
+Por instrucciones de su presidente se podrá invitar a las sesiones del Consejo a otras autoridades federales, de las entidades federativas y municipales, así como a personas físicas y organizaciones relacionadas con las Energías renovables, cuando se estime conveniente por la naturaleza de los asuntos a tratar. Los invitados participarán con voz pero sin voto.
+
+###### Artículo 11.
+
+El Consejo aprobará, a propuesta de su presidente, las reglas para su funcionamiento, mismas que deberán establecer, cuando menos, los aspectos siguientes:
+
+I. El procedimiento para convocar a las sesiones, tanto ordinarias como extraordinarias, y para dejar constancia de los acuerdos tomados;
+
+II. El procedimiento para, en su caso, asegurar la participación de personas físicas o morales de los sectores vinculados a las materias objeto de la Ley, y
+
+III. Los mecanismos para la conformación de comisiones y grupos de trabajo sobre temas específicos, cuando así se considere necesario.
+
+###### Artículo 12.
+
+El Consejo sesionará en forma ordinaria dos veces al año, por lo menos, previa convocatoria que haga el secretario técnico por instrucciones del presidente del Consejo.
+
+###### Artículo 13.
+
+Los acuerdos del Consejo se tomarán por mayoría de los miembros presentes, en caso de empate, el presidente tiene voto de calidad.
+
+## TÍTULO SEGUNDO
+
+Del Inventario Nacional de las Energías Renovables y de la Planeación.
+
+### Capítulo I
+
+Del Inventario.
+
+###### Artículo 14.
+
+La Secretaría establecerá el Inventario, el cual integrará la información disponible acerca del potencial de las distintas fuentes de Energías renovables que sean aprovechables en diferentes regiones del territorio nacional y zonas donde el Estado Mexicano ejerce soberanía y jurisdicción.
+
+La información básica del Inventario será publicada en la página electrónica de la Secretaría.
+
+###### Artículo 15.
+
+La Secretaría, a efecto de determinar los Beneficios Económicos Netos potenciales de la Generación Renovable, que serán tomados en cuenta en la elaboración y evaluación del Programa, considerará lo siguiente:
+
+I. Los ahorros generados, en su caso, en el Sistema Eléctrico Nacional por la Generación Renovable;
+
+II. El aporte de capacidad estimado para cada una de las distintas tecnologías de Generación Renovable, de acuerdo con la metodología que elabore la Comisión, referida en la fracción III del artículo 31 del presente reglamento;
+
+III. Los beneficios económicos del uso de Energías renovables en comunidades sin acceso a la Red Eléctrica;
+
+IV. Los riesgos y costos de las diferentes combinaciones de tecnologías de generación para el Sistema Eléctrico Nacional en su conjunto;
+
+V. Las Externalidades valoradas conforme a la metodología referida en el artículo siguiente;
+
+VI. En su caso, los beneficios derivados de los bonos de carbono u otros recursos que provengan de mecanismos internacionales de financiamiento, y
+
+VII. Los demás aspectos que determine la Secretaría.
+
+###### Artículo 16.
+
+La Secretaría elaborará la metodología para la valoración de Externalidades asociadas con la generación de electricidad y la revisará cada tres años.
+
+Las Externalidades de las tecnologías de Generación Renovable se evaluarán comparativamente con aquellas basadas en combustibles fósiles que estén siendo consideradas por la Secretaría para la instalación de nuevas centrales de generación.
+
+La metodología propuesta por la Secretaría será remitida a la Secretaría de Hacienda y Crédito Público, a la Secretaría de Medio Ambiente y Recursos Naturales y a la Secretaría de Salud, para que en el ámbito de sus competencias emitan la opinión que resulte aplicable dentro de los tres meses siguientes.
+
+La Secretaría, previa opinión y análisis con las dependencias antes indicadas, emitirá la metodología correspondiente.
+
+### Capítulo II
+
+Del Programa Especial para el Aprovechamiento de Energías Renovables.
+
+###### Artículo 17.
+
+La Secretaría elaborará anualmente una prospectiva de energías renovables en la que se analizará la penetración de las Energías renovables en el país, como parte de la transición energética de la Estrategia Nacional de Energía, prevista en la fracción VI del artículo 33 de la Ley Orgánica de la Administración Pública Federal.
+
+###### Artículo 18.
+
+La prospectiva de energías renovables a la que se refiere el artículo anterior servirá de guía para la elaboración y ejecución del Programa por parte de la Secretaría.
+
+###### Artículo 19.
+
+La Secretaría incluirá en el Programa lo previsto en el artículo 11 de la Ley, especificando lo siguiente:
+
+I. Metas para la Generación Renovable, para las distintas tecnologías;
+
+II. Metas para proyectos de Cogeneración Eficiente como parte de la expansión de la capacidad de generación del Sistema Eléctrico Nacional;
+
+III. Las obras de conducción de energía eléctrica y elementos que permitan aprovechar las Energías renovables y mantener una óptima estabilidad, calidad y seguridad del Sistema Eléctrico Nacional;
+
+IV. Las estrategias y acciones que se llevarán a cabo para promover las diferentes fuentes de Energías renovables y así alcanzar las metas establecidas en el Programa;
+
+V. Metas de electrificación rural con Energías renovables;
+
+VI. Objetivos, metas y líneas de acción a cargo de las dependencias de la Administración Pública Federal competentes en materia de desarrollo rural y social, de acuerdo a lo señalado en el Capítulo II del Título Tercero del presente ordenamiento, y
+
+VII. Acciones para el apoyo a la investigación y el desarrollo tecnológico nacionales, según lo establecido en el Capítulo III del Título Tercero de este reglamento.
+
+Cuando exista justificación para ello, las metas a las que se refieren las fracciones I y II del presente artículo podrán establecerse de manera diferenciada para las distintas regiones del país.
+
+###### Artículo 20.
+
+La Secretaría, en la ejecución y evaluación del Programa, tomará en cuenta las opiniones del Consejo, así como los comentarios y propuestas procedentes que resulten de los mecanismos de consulta que determine.
+
+###### Artículo 21.
+
+La Secretaría solicitará a las dependencias y entidades de la Administración Pública Federal la información que, en su caso, se requiera para la evaluación del Programa.
+
+###### Artículo 22.
+
+El programa anual del Suministrador deberá ser congruente con lo referido en las fracciones I, II, III y IV del artículo 19 del presente reglamento.
+
+###### Artículo 23.
+
+La evaluación del Programa se llevará a cabo durante el cuarto año del período constitucional de la gestión gubernamental, o antes si la Secretaría lo considera necesario.
+
+### Capítulo III
+
+De la Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía.
+
+###### Artículo 24.
+
+La Estrategia comprenderá los recursos del sector público consolidados para el cumplimiento de los fines indicados en el artículo 22 de la Ley, incluyendo los previstos en el Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía.
+
+La Secretaría de Hacienda y Crédito Público, en términos de las disposiciones aplicables, será la encargada de realizar la consolidación de provisiones del sector público en el Presupuesto de Egresos de la Federación a que se refiere el artículo 24 de la Ley.
+
+## TÍTULO TERCERO
+
+De las acciones de gobierno para la Generación Renovable.
+
+### Capítulo I
+
+De la Integración de las tecnologías para la Generación Renovable en el desarrollo industrial nacional.
+
+###### Artículo 25.
+
+La Secretaría de Economía, en coordinación con la Secretaría, definirá las políticas y medidas para fomentar una mayor integración nacional de equipos y componentes para el aprovechamiento de las Energías renovables y su transformación eficiente.
+
+###### Artículo 26.
+
+La Secretaría de Economía emitirá un informe anual sobre los logros alcanzados y obstáculos enfrentados para la integración nacional de equipos y componentes para la Generación Renovable. Este informe será publicado en la página electrónica de dicha dependencia.
+
+### Capítulo II
+
+De las acciones vinculadas al desarrollo social y rural.
+
+###### Artículo 27.
+
+La Secretaría promoverá la Generación Renovable como un medio para dar acceso a la energía eléctrica en aquellas comunidades que no cuenten con este servicio, mediante:
+
+I. Información y asesoría a las comunidades interesadas en proyectos de Generación Renovable, y
+
+II. Mecanismos de promoción para facilitar la implementación de dichos proyectos.
+
+### Capítulo III
+
+De la promoción de la investigación y desarrollo tecnológico.
+
+###### Artículo 28.
+
+La Secretaría, con la participación que corresponda al Consejo Nacional de Ciencia y Tecnología, promoverá la investigación aplicada y el desarrollo de tecnologías para la generación con fuentes de Energías renovables considerando, entre otros, los siguientes criterios:
+
+I. La congruencia de sus objetivos con los de la Ley, el presente reglamento, la Estrategia y el Programa;
+
+II. El fomento del desarrollo de nuevos conocimientos, materiales, técnicas, procesos, servicios y tecnologías en materia de Energías renovables;
+
+III. La viabilidad técnica, ambiental, financiera, administrativa, social y de ejecución para el efectivo cumplimiento de sus objetivos;
+
+IV. La vinculación de sus resultados con el desarrollo económico y social nacional y regional, incluyendo la generación de empleos, y
+
+V. El máximo beneficio económico neto con los menores impactos en el menor tiempo posible.
+
+## TÍTULO CUARTO
+
+De la regulación de la Generación Renovable y la Cogeneración Eficiente.
+
+### Capítulo I
+
+De las disposiciones administrativas de la Comisión.
+
+###### Artículo 29.
+
+La Comisión establecerá las metodologías para el cálculo de las contraprestaciones por los servicios que se presten entre sí el Suministrador y los generadores renovables o cogeneradores eficientes, para lo cual deberá tomar en consideración los costos eficientes asociados a la prestación de dichos servicios.
+
+###### Artículo 30.
+
+Para los efectos de lo dispuesto en el artículo anterior, la Comisión solicitará la opinión de la Secretaría de Hacienda y Crédito Público y de la Secretaría. Una vez que reciban el proyecto de metodología enviado por la Comisión, dichas dependencias deberán emitir su opinión en un plazo máximo de 20 días hábiles, de lo contrario, se entenderá que no tienen comentarios al respecto.
+
+###### Artículo 31.
+
+La Comisión, para la regulación de la Generación Renovable y la Cogeneración Eficiente, expedirá e inscribirá en su registro público lo siguiente:
+
+I. Directivas y metodologías para el cálculo de las contraprestaciones y las directrices a que se sujetarán los modelos de contrato para proyectos de pequeña producción y producción independiente de energía;
+
+II. Criterios, metodologías y directrices a que se sujetarán los modelos de contrato, procedimientos de intercambio de energía y sus correspondientes sistemas de compensaciones, para proyectos de autoabastecimiento con Energías renovables y para proyectos de Cogeneración Eficiente;
+
+III. Metodologías para determinar la aportación al Sistema Eléctrico Nacional de capacidad de generación de las distintas tecnologías;
+
+IV. Reglas generales de interconexión al Sistema Eléctrico Nacional atendiendo los requerimientos planteados por el Suministrador y escuchando la opinión de los generadores renovables y cogeneradores eficientes;
+
+V. Lineamientos y mecanismos para promover el desarrollo de las actividades de Generación Renovable y de Cogeneración Eficiente, y
+
+VI. Lineamientos para la expedición de las licitaciones a las que se refiere el Capítulo II del Título Cuarto del presente reglamento.
+
+###### Artículo 32.
+
+Las metodologías mencionadas en la fracción III del artículo anterior preverán la probabilidad de disponibilidad de capacidad en las horas de máxima demanda de acuerdo con las características de las tecnologías para la Generación Renovable y la Cogeneración Eficiente.
+
+###### Artículo 33.
+
+La Comisión requerirá a la Comisión Federal de Electricidad, la revisión y, en su caso, la adecuación de las reglas de despacho aplicables a la Generación Renovable y a la Cogeneración Eficiente, justificando los ajustes que estime necesarios.
+
+El Centro Nacional de Control de Energía realizará las gestiones necesarias para atender las adecuaciones anteriores, dentro del plazo que la Comisión determine y que no deberá exceder de cincuenta días hábiles a partir de la recepción de la solicitud.
+
+###### Artículo 34.
+
+Cuando la infraestructura de transmisión sea insuficiente, la Comisión emitirá disposiciones de carácter general para regular el acceso de nuevos proyectos de generación a dicha infraestructura, así como para programar su ampliación de manera concertada con los posibles interesados en el desarrollo de proyectos de Generación Renovable y de Cogeneración Eficiente.
+
+###### Artículo 35.
+
+Para propósitos de este reglamento los generadores renovables para autoabastecimiento de hasta 0.5 MW, tendrán los mismos derechos que los permisionarios, en los términos de la Ley del Servicio Público de Energía Eléctrica.
+
+El Suministrador deberá informar a la Comisión sobre el inicio y terminación de la operación de estos generadores renovables y de la capacidad instalada, así como reportar semestralmente la energía intercambiada neta con el Sistema Eléctrico Nacional. El intercambio de energía eléctrica por parte de los generadores renovables a los que se refiere este artículo estará sujeto a los modelos de contrato expedidos por la Comisión.
+
+### Capítulo II
+
+De las licitaciones para proyectos de Generación Renovable y de Cogeneración Eficiente.
+
+###### Artículo 36.
+
+El Suministrador llevará a cabo licitaciones separadas para proyectos de Generación Renovable y para proyectos de Cogeneración Eficiente, de acuerdo con las metas que establezca el Programa, referidas en las fracciones I y II del artículo 19 de este reglamento.
+
+Las convocatorias y bases de licitación que se emitan para la Generación Renovable responderán a las metas establecidas en el Programa y deberán ajustarse a los principios siguientes:
+
+I. Las convocatorias podrán ser nacionales o regionales;
+
+II. Señalarán la capacidad máxima solicitada y su rango de variación permitido;
+
+III. Los participantes podrán ofrecer la capacidad total solicitada o una capacidad parcial;
+
+IV. Las bases de la licitación procurarán la máxima flexibilidad posible a los interesados para plantear el contenido técnico de sus propuestas en cuanto a tecnología específica, diseño, ingeniería, construcción y ubicación de las instalaciones, y
+
+V. Se incluirán mecanismos para fomentar tanto a aquellos proyectos de generación que aporten capacidad en firme al sistema como a aquellos que puedan estar disponibles en la (sic) horas de mayor demanda de la Red Eléctrica.
+
+###### Artículo 37.
+
+La Comisión elaborará las metodologías para la determinación de contraprestaciones máximas que pagarán los suministradores a los generadores que utilicen Energías renovables, con base en los costos eficientes estimados para el desarrollo de los proyectos más una utilidad razonable.
+
+La determinación de las contraprestaciones máximas podrá sujetarse a cualquiera de los siguientes esquemas:
+
+I. Contraprestaciones por capacidad y energía que reflejen, respectivamente, los costos fijos, incluyendo el rendimiento sobre la inversión, y los variables en que incurra el permisionario, y
+
+II. Una contraprestación por unidad de energía que incorpore las retribuciones por concepto de capacidad y de energía.
+
+###### Artículo 38.
+
+Las contraprestaciones establecidas se mantendrán durante la vigencia del convenio respectivo, y serán ajustables conforme a lo señalado en la metodología expedida por la Comisión.
+
+###### Artículo 39.
+
+El convenio se adjudicará a quien ofrezca la energía eléctrica requerida al menor costo, tomando en cuenta lo siguiente:
+
+I. En caso de que las bases de licitación establezcan las contraprestaciones referidas en la fracción I del artículo 37 del presente reglamento, las propuestas se compararán con base en el costo económico total de largo plazo, y
+
+II. En caso de que las bases de licitación establezcan las contraprestaciones referidas en la fracción II del artículo 37 del presente reglamento, las propuestas se compararán con base en la contraprestación incluida en cada una de ellas.
+
+###### Artículo 40.
+
+La Comisión otorgará los permisos correspondientes para proyectos de pequeña producción o de producción independiente, según sea el caso, a los solicitantes que cumplan lo establecido en la Ley del Servicio Público de Energía Eléctrica y su reglamento en lo que resulten procedentes.
+
+### Capítulo III
+
+De los proyectos de Generación Renovable y de Cogeneración Eficiente fuera de convocatoria.
+
+###### Artículo 41.
+
+La Comisión publicará en el Diario Oficial de la Federación las directrices a que se sujetarán los modelos de contrato y las reglas de procedencia que regirán la adquisición por parte del Suministrador de energía eléctrica producida por los generadores renovables y por los cogeneradores eficientes fuera de convocatoria.
+
+###### Artículo 42.
+
+La entrega de energía eléctrica al Sistema Eléctrico Nacional por generadores renovables y por cogeneradores eficientes fuera de convocatoria se podrá llevar a cabo con los permisos correspondientes otorgados por la Comisión, conforme a lo establecido en la Ley del Servicio Público de Energía Eléctrica y su reglamento, en lo que resulten procedentes.
+
+###### Artículo 43.
+
+Los proyectos a los que se refiere este Capítulo podrán recibir una contraprestación por capacidad y energía asociada, cuando se encuentren dentro de las metas establecidas en el Programa y mencionadas en las fracciones I y II del artículo 19 de este reglamento, de acuerdo a las disposiciones administrativas que expida la Comisión. Los proyectos que no se encuentren incluidos en el Programa, únicamente recibirán pago por la energía entregada al Suministrador, en los términos que emita la Comisión.
+
+###### Artículo 44.
+
+La Comisión determinará las contraprestaciones por energía y capacidad, para los proyectos de Generación Renovable y las metodologías para la determinación de las contraprestaciones de los proyectos de Cogeneración Eficiente materia de este Capítulo. Para tales efectos, la Comisión podrá considerar total o parcialmente los Beneficios Económicos Netos referidos en el artículo 15 del presente reglamento, según el grado de cumplimiento de las metas establecidas en las fracciones I y II del artículo 19 de este ordenamiento.
+
+###### Artículo 45.
+
+En el caso específico de los convenios que se celebren entre el Suministrador y Petróleos Mexicanos o sus organismos subsidiarios, para proyectos de Cogeneración Eficiente, éstos deberán contener acuerdos para lograr un manejo integral de la energía térmica y eléctrica en los procesos industriales y cumplir con los criterios de eficiencia mínima que establezca la Comisión.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presidente del Consejo propondrá las reglas referidas en el artículo 11 de este reglamento en la primera sesión de dicho órgano colegiado, que deberá realizarse dentro de los tres meses siguientes a la entrada en vigor del presente ordenamiento.
+
+TERCERO.- Dentro de los dos meses siguientes a la entrada en vigor del presente reglamento, el Suministrador enviará a la Comisión su propuesta en relación con el contenido de las fracciones I a III del artículo 31 de este ordenamiento.
+
+CUARTO.- El Suministrador deberá proponer a la Comisión las Reglas generales de interconexión al Sistema Eléctrico Nacional, a las que se refiere la fracción IV del artículo 31 de éste reglamento, dentro de los tres meses siguientes a la entrada en vigor del presente ordenamiento.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan Rafael Elvira Quesada.- Rúbrica.- La Secretaria de Energía, Georgina Yamilet Kessel Martínez.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Alberto Cárdenas Jiménez.- Rúbrica.- El Secretario de Salud, José Ángel Córdova Villalobos.- Rúbrica.
