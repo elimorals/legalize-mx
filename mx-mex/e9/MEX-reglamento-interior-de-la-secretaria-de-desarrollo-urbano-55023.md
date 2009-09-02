@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-55023
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-22"
-last_updated: "2007-03-22"
+last_updated: "2009-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 22 de marzo de 2007.
 
@@ -119,7 +119,9 @@ XVII. Autorizar conjuntos urbanos habitacionales de más de mil viviendas; indus
 
 XVIII. Comparecer ante la Legislatura del Estado, en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de México, para informar de la situación que guarda su ramo o sector correspondiente o bien, cuando se discuta una iniciativa de ley o se estudie un asunto competencia del sector a su cargo.
 
-XIX. Representar legalmente a la Secretaría y delegar esta representación en el ámbito de su competencia.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XIX. Otorgar poderes para comparecer a juicio en su representación.
 
 XX. Desempeñar las comisiones y funciones que el Gobernador del Estado le confiera y mantenerlo informado del desarrollo de las mismas.
 
@@ -159,7 +161,9 @@ VII. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servid
 
 VIII. Apoyar al Secretario en el desempeño de las funciones que tenga encomendadas como coordinador de sector.
 
-IX. Delegar en funcionarios subalternos el ejercicio de sus atribuciones, previa autorización del Secretario, a fin de mejorar la prestación de los trámites y servicios de su competencia.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Delegar en servidores públicos subalternos el ejercicio de sus atribuciones, previa autorización del Secretario, a fin de mejorar la prestación de los trámites y servicios de su competencia, salvo aquellas que las disposiciones legales les señalen como indelegables.
 
 X. Suscribir, en el ámbito de su competencia y previa determinación del Secretario, acuerdos y convenios con los sectores público, social y privado, así como celebrar los contratos que requieran para el cumplimiento de sus funciones.
 
@@ -175,15 +179,23 @@ XV. Expedir constancias o copias certificadas de los documentos existentes en su
 
 XVI. Elaborar, actualizar y aplicar los manuales administrativos y demás disposiciones que rijan la organización y funcionamiento de la Dirección General a su cargo.
 
-XVII. Elaborar y someter a la aprobación del Secretario, proyectos de normas técnicas en materia de su competencia.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XVII. Elaborar y someter a la aprobación del Secretario, en el ámbito de su competencia, proyectos de normas técnicas en materia de desarrollo urbano, vivienda y construcciones; así como vigilar su cumplimiento.
 
 XVIII. Habilitar a servidores públicos, así como días y horas inhábiles, para la práctica de diligencias relacionadas con el ejercicio de sus atribuciones.
 
 XIX. Fomentar la coordinación y participación de los sectores público, social y privado en materia de ordenamiento territorial de los asentamientos humanos y de desarrollo urbano de los centros de población.
 
-XX. Representar legalmente a la Dirección General a su cargo y delegar esta representación en el ámbito de su competencia.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
-XXI. Las demás que les confieren otros ordenamientos legales y aquellas que les encomiende el Secretario.
+XX. Otorgar poderes para comparecer a juicio en su representación.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XXI. Cumplir los compromisos que, en el área de sus respectivas competencias, adquiera la Secretaría en los convenios y acuerdos que celebre.
+
+XXII. Las demás que les confieren otros ordenamientos legales y aquellas que les encomiende el Secretario.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
 
@@ -199,7 +211,9 @@ II. Realizar audiencias públicas para la elaboración o modificación del Plan 
 
 III. Ejecutar y evaluar, en coordinación con las demás autoridades vinculadas con el desarrollo urbano, el Plan Estatal de Desarrollo Urbano, los planes regionales de desarrollo urbano y los planes parciales que de ellos deriven, así como de sus respectivos programas de acciones.
 
-IV. Vigilar y dictaminar la congruencia de los planes de desarrollo urbano de competencia municipal, con las políticas y estrategias del Plan Estatal de Desarrollo Urbano y, en su caso, del Plan Regional de Desarrollo Urbano.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Dictaminar la congruencia de los planes de desarrollo urbano de competencia municipal con las políticas y estrategias del Plan Estatal de Desarrollo Urbano y, en su caso, del Plan Regional de Desarrollo Urbano, así como de los parciales que deriven de éstos.
 
 V. Asesorar a las autoridades municipales que lo soliciten, en la elaboración o modificación de planes municipales de desarrollo urbano y de centros de población, así como de los planes parciales que de ellos deriven, debiendo informar lo conducente al Secretario.
 
@@ -217,7 +231,23 @@ XI. Suscribir convenios urbanísticos con municipios y particulares, previo acue
 
 XII. Evaluar lo relativo a los asentamientos humanos en el Estado de México, con el propósito de establecer la situación, problemática y perspectiva del desarrollo urbano estatal, así como de determinar la eficacia de las políticas y objetivos previstos en los planes de desarrollo urbano.
 
-XIII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XIII. Promover estudios para mejorar el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano en la entidad, así como impulsar proyectos para su financiamiento.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XIV. Dictaminar, en el ámbito de competencia de la Secretaría, las propuestas que le formulen las dependencias y organismos auxiliares, respecto a la asignación de usos, destinos y reservas para equipamiento urbano.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XV. Establecer la congruencia del Plan Estatal de Desarrollo Urbano con el Plan de Desarrollo del Estado de México, así como con el Plan Nacional de Desarrollo, los programas sectoriales y los programas de ordenación de las zonas conurbadas interestatales.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XVI. Emitir licencias de uso de suelo, así como autorizar cambios de uso de suelo, de densidad, intensidad o de altura de edificaciones, para la integración de conjuntos urbanos que se ubiquen en el territorio de municipios a los que aún no se les han transferido dichas funciones.
+
+XVII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
 
 ###### Artículo 10.
 
@@ -229,9 +259,13 @@ II. Elaborar los acuerdos de autorización de conjuntos urbanos, subrogación de
 
 III. Autorizar las relotificaciones; el inicio de obras de urbanización, de infraestructura y de equipamiento urbano, así como prórrogas para su ejecución; la promoción y publicidad; la enajenación o gravamen de lotes y la liberación o sustitución de garantías, en los conjuntos urbanos autorizados.
 
-IV. Aprobar el proyecto de lotificación y los planos arquitectónicos de las obras de equipamiento urbano de los conjuntos urbanos.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
-V. Emitir dictámenes de impacto regional y, en su caso, autorizar la prórroga de su vigencia.
+IV. Aprobar el proyecto de lotificación de conjuntos urbanos.
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+V. Emitir dictámenes de impacto regional.
 
 VI. Emitir constancias de viabilidad para conjuntos urbanos y lotificaciones en condominio.
 
@@ -239,21 +273,29 @@ VII. Expedir dictámenes técnicos en los procedimientos de expropiación de inm
 
 VIII. Emitir constancias para la obtención de los beneficios fiscales que prevé el Código Financiero del Estado de México y Municipios, en adquisición de predios destinados a la ejecución de conjuntos urbanos habitacionales de tipo social progresivo, de interés social y popular.
 
-IX. Autorizar la apertura, prolongación, ampliación o modificación de las vías públicas de la infraestructura vial local y regularizar, en su caso, las existentes.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
-X. Emitir cédulas informativas de zonificación y licencias de uso del suelo, así como autorizar cambios de uso de suelo, de densidad e intensidad y de altura de edificaciones, para la autorización de conjuntos urbanos que se ubiquen en el territorio de municipios a los que aún no se les haya trasferido formalmente dichas funciones.
+IX. Autorizar la apertura, prolongación, ampliación o modificación de las vías públicas que constituyan la infraestructura vial local.
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+X. Emitir cédulas informativas de zonificación para la autorización de conjuntos urbanos en predios que se ubiquen en el territorio de municipios a los que aún no se les hayan transferido formalmente dichas funciones.
 
 XI. Ejercer directamente, cuando la atención de los asuntos así lo requiera, las atribuciones asignadas a las Direcciones Regionales y Residencias Locales.
 
 XII. Expedir autorizaciones y refrendos de peritos, así como ordenar su inscripción en el Registro Estatal de Desarrollo Urbano.
 
-XIII. Expedir órdenes de pago de los derechos que se causen por los servicios que preste, así como de las multas que imponga.
+XIII. (DEROGADA, G.G. 2 DE SEPTIEMBRE DE 2009)
 
-XIV. Atender, en su ámbito de competencia, las denuncias ciudadanas de hechos o actos que constituyan infracciones a las disposiciones legales que regulan el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XIV. Atender las denuncias ciudadanas de hechos o actos que constituyan infracciones a las disposiciones jurídicas que regulan el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población.
 
 XV. Vigilar, en su ámbito de competencia, el cumplimiento de las disposiciones legales que regulan el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población.
 
-XVI. Verificar el cumplimiento de las obligaciones que establecen los acuerdos de autorización de fraccionamientos y conjuntos urbanos, así como las señaladas en las autorizaciones subsecuentes y, en su caso, imponer las medidas de seguridad y/o las sanciones que prevén las disposiciones legales en la materia.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XVI. Verificar el cumplimiento de las obligaciones que establecen los acuerdos de autorización de fraccionamientos y conjuntos urbanos, así como las señaladas en las demás autorizaciones que se otorguen durante la ejecución de los desarrollos autorizados y, en su caso, imponer las medidas de seguridad y/o las sanciones que prevén las disposiciones legales en la materia.
 
 XVII. Emitir mandamientos de visitas de verificación; tramitar y resolver procedimientos administrativos; emitir y notificar citatorios; otorgar y resolver garantías de audiencia; determinar infracciones a las leyes de desarrollo urbano e imponer medidas de seguridad y/o sanciones; formular denuncias penales, así como tramitar y resolver los recursos de inconformidad que los particulares interpongan en contra de sus actos.
 
@@ -261,17 +303,39 @@ XVIII. Coordinarse con las autoridades federales, estatales y municipales para l
 
 XIX. Planear, programar, supervisar, controlar y evaluar el funcionamiento de las Direcciones Regionales y Residencias Locales, de acuerdo con las disposiciones legales que regulan su actuación.
 
-XX. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XX. Determinar la ubicación de las áreas de donación estatal que se localicen fuera de los conjuntos urbanos, subdivisiones y lotificaciones para condominio y coordinar su recepción, entrega y transmisión de propiedad con las unidades administrativas encargadas de su incorporación al patrimonio inmobiliario del Estado.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XXI. Establecer medidas y acciones en coordinación con la Secretaría General de Gobierno y demás autoridades federales, estatales y municipales competentes para prevenir asentamientos humanos irregulares.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XXII. Verificar que las acciones de suelo y vivienda cumplan con las disposiciones en materia de ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XXIII. Establecer y vigilar el cumplimiento de programas de adquisición de reservas territoriales para el equipamiento urbano del Estado, con la participación que corresponda a otras autoridades.
+
+XXIV. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
 
 ###### Artículo 11.
 
 Corresponde a la Dirección General de Control Urbano:
 
-I. Supervisar la ejecución de las obras de infraestructura, urbanización y equipamiento urbano de fraccionamientos, conjuntos urbanos, subdivisiones de predios y lotificaciones para condominio, que se hayan autorizado conjuntamente por las autoridades municipales y estatales correspondientes.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
-II. Coordinar con los municipios y las autoridades estatales que correspondan, la entrega y recepción de las obras de infraestructura, urbanización y equipamiento urbano de los fraccionamientos, conjuntos urbanos y subdivisiones de predios autorizados.
+I. Supervisar, conjuntamente con las autoridades estatales y municipales competentes, la ejecución de las obras de infraestructura, urbanización y equipamiento urbano, derivadas de las autorizaciones de fraccionamientos, conjuntos urbanos, subdivisiones y lotificaciones para condominio.
 
-III. Coordinar con la Secretaría de Finanzas la recepción y entrega de las áreas de donación a favor del Gobierno del Estado.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+II. Coordinar con los municipios y las autoridades estatales que correspondan, la entrega y recepción de las obras de infraestructura, urbanización y equipamiento urbano que establezcan los acuerdos de autorización de los fraccionamientos, conjuntos urbanos y subdivisiones de predios autorizados.
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+III. Coordinar con los municipios la entrega, recepción y transmición de la propiedad de las áreas de donación que establezcan los acuerdos de autorización de fraccionamientos, conjuntos urbanos, lotificaciones para condominio y subdivisiones, con excepción de las de carácter estal que se ubiquen fuera de los conjuntos urbanos, subdivisiones y lotificaciones para condominio.
 
 IV. Solicitar la reclamación o requerimiento de pago de las pólizas de fianzas que garanticen, a favor del Gobierno del Estado de México, la construcción de las obras de infraestructura, urbanización y equipamiento urbano que establezcan los acuerdos de autorización de fraccionamientos, conjuntos urbanos, lotificaciones para condominio y subdivisiones de predios.
 
@@ -279,11 +343,23 @@ V. Coordinar con las dependencias u organismos auxiliares estatales, la entrega 
 
 VI. Coordinarse con las dependencias federales, estatales y municipales para el ejercicio de sus funciones y, en su caso, solicitar el auxilio de la fuerza pública.
 
-VII. Presentar a la Dirección General de Operación Urbana los documentos que se requieran para la celebración y resolución de garantías de audiencia, relacionadas con el cumplimiento de las obligaciones que prevean los acuerdos de autorización de conjuntos urbanos, subdivisiones y lotificaciones para condominio, que se vinculen con la donación de áreas para equipamiento urbano y ejecución de obras de infraestructura, urbanización y equipamiento urbano.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
-VIII. Realizar el seguimiento y vigilar que se cumplan los compromisos que asuma la Secretaría en los convenios y acuerdos que celebre.
+VII. Determinar el incumplimiento de las obligaciones prevista en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y lotificaciones para condominio, en materia de áreas de donación y ejecución de las obras de infraestructura, urbanización y equipamiento urbano e informar lo conducente a la Dirección General de Operación Urbana.
 
-IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+VIII. (DEROGADA, G.G. 2 DE SEPTIEMBRE DE 2009)
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Autorizar los proyectos ejecutivos y memoria de cálculo de las obras de urbanización, infraestructura y equipamiento urbano, establecidas en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y lotificaciones para condominio.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+X. Realizar la apertura y autorizar el cierre de la bitácora de supervisión de las obras de urbanización, infraestructura y equipamiento urbano, establecidas en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y lotificaciones para condominio.
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XI. Las demás que le confieren otras ordenamientos legales y aquellas que le encomiende el Secretario.
 
 #### SECCIÓN II. DE LAS DIRECCIONES REGIONALES
 
@@ -293,31 +369,45 @@ Corresponde a las Direcciones Regionales:
 
 I. Coordinar, supervisar, controlar y evaluar el desempeño de las Residencias Locales bajo su adscripción, de acuerdo con las disposiciones legales que regulan su funcionamiento.
 
-II. Autorizar, previo acuerdo con el Director General de Operación Urbana, las fusiones, subdivisiones y relotificaciones de predios, cualquiera que sea el número de lotes resultantes, a excepción de las atribuidas a las Residencias Locales.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
-III. Autorizar la lotificación para condominios horizontales o mixtos.
+II. Autorizar, previo acuerdo con el Director General de Operación Urbana, las fusiones, subdivisiones y relotificaciones de predios de superficie mayor a tres mil metros cuadrados, cualquiera que sea el número de lotes resultantes.
 
-IV. Emitir dictámenes urbanos.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
-V. Autorizar las subrogaciones de titular; el inicio de obras de urbanización, de infraestructura y de equipamiento urbano, así como las prórrogas para su ejecución; la promoción y publicidad; la enajenación o gravamen de lotes y la liberación o sustitución de garantías, de las subdivisiones de predios y lotificaciones para condominio que autorice.
+III. Autorizar, previo acuerdo con el Director General de Operación Urbana, la lotificación para condominios horizontales o mixtos.
 
-VI. Expedir licencias de uso del suelo de impacto regional, respecto de predios o inmuebles que se ubiquen en municipios a los que no se les haya transferido dicha función.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Emitir constancias de aprovechamiento inmobiliario.
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+V. Autorizar el inicio de obras de urbanización, infraestructura y equipamiento urbano, así como las prórrogas para su ejecución; la promoción y publicidad; la enajenación o gravamen de lotes, la liberación o sustitución de garantías y la subrogación de derechos y obligaciones que deriven de las autorizaciones de subdivisión de predios y lotificación para condominio.
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Expedir licencias de uso del suelo que requieran dictamen de impacto regional, respecto de predios o inmuebles que se ubiquen en municipios a los que no se les haya transferido dicha función.
 
 VII. Autorizar, previo acuerdo con el Director General de Operación Urbana, vías públicas locales y subdivisiones de áreas remanentes; así como fusiones, subdivisiones y relotificaciones para la ejecución de los programas federales o estatales de regularización de la tenencia de la tierra.
 
 VIII. Autorizar, previo acuerdo con el Director General de Operación Urbana, cambios de uso de suelo, de densidad e intensidad de su aprovechamiento y de altura de edificaciones, en predios o inmuebles que se ubiquen en municipios a los que no se les haya transferido dicha función.
 
-IX. Dictaminar las solicitudes de apertura, clausura, prolongación, ampliación, modificación o regularización de vías públicas locales de su adscripción territorial y, en su caso, someterlas a la autorización del Director General de Operación Urbana.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Dictaminar las solicitudes de apertura, prolongación, ampliación, modificación de vías públicas locales y someterlas a la autorización del Director General de Operación Urbana.
 
 X. Declarar la extinción de las autorizaciones que expida, por renuncia expresa de sus titulares.
 
 XI. Expedir constancias o copias certificadas de los documentos existentes en sus archivos, cuando se traten de asuntos relacionados con sus atribuciones.
 
-XII. Expedir órdenes de pago de los derechos que se causen por los servicios que presten, así como de las multas que impongan.
+XII. (DEROGADA, G.G. 2 DE SEPTIEMBRE DE 2009)
 
 XIII. Coordinarse con las dependencias federales, estatales y municipales para la ejecución de las medidas de seguridad y/o las sanciones que imponga conforme a las leyes de la materia y, en su caso, solicitar el auxilio de la fuerza pública.
 
-XIV. Participar en el desalojo de asentamientos humanos irregulares, en coordinación con la Secretaría General de Gobierno y demás autoridades federales, estatales y municipales competentes.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XIV. Ejecutar las acciones que le correspondan para evitar asentamientos humanos irregulares, en coordinación con la Secretaría General de Gobierno y demás autoridades federales, estatales y municipales competentes.
 
 XV. Atender, en su ámbito de competencia, las denuncias ciudadanas de hechos o actos que constituyan infracciones a las disposiciones legales que regulan el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población.
 
@@ -325,13 +415,21 @@ XVI. Vigilar, en su ámbito de competencia, el cumplimiento de las disposiciones
 
 XVII. Celebrar convenios con los particulares, previo acuerdo del Director General de Operación Urbana, para la terminación de procedimientos administrativos, en los términos que dispone el Código de Procedimientos Administrativos del Estado de México.
 
-XVIII. Verificar el cumplimiento de las obligaciones que deriven de los dictámenes, licencias y autorizaciones que emita y, en su caso, imponer las medidas de seguridad y/o las sanciones que prevén las disposiciones legales en la materia.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XVIII. Verificar el cumplimiento de las obligaciones que deriven de las licencias y autorizaciones que emita y, en su caso, imponer las medidas de seguridad y/o las sanciones que prevén las disposiciones legales en la materia.
 
 XIX. Habilitar a servidores públicos, así como días y horas inhábiles, para la práctica de diligencias relacionadas con el ejercicio de sus atribuciones.
 
 XX. Emitir mandamientos de visita de verificación; tramitar y resolver procedimientos administrativos; emitir y notificar citatorios; otorgar y resolver garantías de audiencia; determinar infracciones a las leyes de desarrollo urbano e imponer medidas de seguridad y/o sanciones; formular denuncias penales, así como tramitar y resolver los recursos de inconformidad que los particulares interpongan en contra de sus actos.
 
-XXI. Las demás que les confieren otros ordenamientos legales y aquellas que les encomiende el Director General de Operación Urbana o el Secretario.
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XXI. Delegar en servidores públicos subalternos el ejercicio de sus atribuciones, previa autorización del Director General de Operación Urbana, sin perjuicio de su ejercicio directo.
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XXII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
 
 Las Direcciones Regionales estarán adscritas a la Dirección General de Operación Urbana.
 
@@ -355,15 +453,21 @@ I. Autorizar, previo acuerdo con el Director Regional de su adscripción, las fu
 
 II. Coordinarse, previo acuerdo con el Director Regional de su adscripción, con las dependencias federales, estatales y municipales para la ejecución de las medidas de seguridad y/o las sanciones que imponga y, en su caso, solicitar el auxilio de la fuerza pública.
 
-III. Expedir cédulas informativas de zonificación y licencias de uso de suelo, a excepción de las de impacto regional, de predios o inmuebles que se ubiquen en municipios a los que no se les hayan transferido dichas funciones.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
-IV. Expedir dictámenes urbanos e integrar los expedientes para cambios de uso del suelo, de densidad e intensidad de su aprovechamiento y altura de edificaciones que no impliquen impacto regional, respecto de predios o inmuebles que se ubiquen en municipios a los que no se les hayan transferido dichas funciones.
+III. Expedir cédulas informativas de zonificación así como licencias de uso de suelo, a excepción de las que requieran dictamen de impacto regional, de predios o inmuebles que se ubiquen en municipios a los que no se les hayan transferido estas funciones.
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Integrar los expedientes para cambios de uso del suelo, de densidad e intensidad de su aprovechamiento y altura de edificaciones que no impliquen impacto regional, respecto de predios o inmuebles que se ubiquen en municipios a los que no se les hayan transferido dichas funciones.
 
 V. Expedir constancias o copias certificadas de los documentos existentes en sus archivos, cuando se traten de asuntos relacionados con sus atribuciones.
 
 VI. Participar en el desalojo de asentamientos humanos irregulares en coordinación con la Secretaría General de Gobierno y demás autoridades federales, estatales y municipales competentes.
 
-VII. Dictaminar las solicitudes de fusión, subdivisión, lotificación para condominio y relotificación de predios o inmuebles con superficie mayor a tres mil metros cuadrados, que se ubiquen dentro de su adscripción territorial y someterlas a la autorización del Director Regional.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Integrar las solicitudes de fusión, subdivisión y relotificación de predios o inmuebles con superficie mayor a tres mil metros cuadrados, así como las relativas a la lotificación para condominio que se ubiquen dentro de su adscripción territorial y someterlas a la autorización del Director Regional.
 
 VIII. Atender, en su ámbito de competencia, las denuncias ciudadanas de hechos o actos que constituyan infracciones a las disposiciones legales que regulan el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población.
 
@@ -375,13 +479,27 @@ XI. Habilitar a servidores públicos, así como días y horas inhábiles, para l
 
 XII. Declarar la extinción de las autorizaciones que expida, por renuncia expresa de sus titulares.
 
-XIII. Autorizar prórrogas y subrogaciones de titulares de las autorizaciones que expida.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XIII. Autorizar prórrogas y subrogacion de derechos y obligaciones derivadas de las autorizaciones que expida, de conformidad con las disposiciones jurídicas de la materia.
 
 XIV. Emitir mandamientos de visita de verificación; tramitar y resolver procedimientos administrativos; emitir y notificar citatorios; otorgar y resolver garantías de audiencia; determinar infracciones a las leyes de desarrollo urbano e imponer medidas de seguridad y/o sanciones; formular denuncias penales, así como tramitar y resolver los recursos de inconformidad que los particulares interpongan en contra de sus actos.
 
-XV. Expedir órdenes de pago de los derechos que se causen por los servicios que presten, así como de las multas que impongan.
+XV. (DEROGADA, G.G. 2 DE SEPTIEMBRE DE 2009)
 
-XVI. Las demás que les confieren otros ordenamientos legales y aquellas que les encomienden sus superiores jerárquicos.
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XVI. Custodiar los inmuebles que pongan bajo su resguardo los agentes del Ministerio Público, tratándose de delitos cometidos por fraccionadores.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XVII. Integrar los expedientes de constancias de aprovechamiento inmobiliario.
+
+XVIII. Las demás que les confieran otros ordenamientos legales y aquellas que les encomienden sus superiores jerárquicos.
+
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+Los Residentes Locales podrán delegar en servidores públicos subalternos el ejercicio de las atribuciones previstas en las fracciones IV, VII y XVII del presente artículo, previa autorización del Director Regional, sin perjuicio de su ejercicio directo.
 
 ###### Artículo 15.
 
@@ -469,15 +587,21 @@ V. Residencia Local Texcoco.
 
 Corresponde a la Coordinación Administrativa:
 
-I. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+I. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales y financieros, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría.
 
 II. Coordinar la formulación e integración del anteproyecto de presupuesto anual de egresos de la Secretaría, presentándolo para su validación a la Secretaría de Finanzas; así como calendarizar los recursos del presupuesto autorizado.
 
-III. Ejecutar los procedimientos para el ejercicio y control del presupuesto de gasto corriente y de inversión, y verificar su aplicación por parte de las Direcciones Regionales.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+III. Ejecutar los procedimientos para el ejercicio y control del presupuesto de gasto corriente y de inversión, y verificar su aplicación por parte de las Direcciones Generales.
 
 IV. Coordinar, consolidar y controlar la información sobre el ejercicio del gasto e informar al Secretario sobre el comportamiento del mismo.
 
-V. Controlar y verificar la aplicación del presupuesto de la Secretaría y dictaminar la procedencia de traspasos presupuestarios que las unidades administrativas de la Secretaría soliciten.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+V. Controlar, ejecutar y registrar la aplicación del presupuesto autorizado a la Secretaría, así como analizar y, en su caso, tramitar los traspasos presupuestarios.
 
 VI. Cumplir y hacer cumplir las normas y políticas aplicables en materia de administración de recursos humanos, materiales y financieros.
 
@@ -507,7 +631,9 @@ XVIII. Supervisar el registro, mantenimiento y conservación de los bienes muebl
 
 XIX. Diseñar y proponer instrumentos técnico-administrativos para mejorar la administración de los recursos asignados a la Secretaría.
 
-XX. Integrar y mantener actualizados los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XX. Integrar y mantener actualizados los manuales administrativos de la Secretaría y someterlos a la validación del Secretario, así como a la aprobación de la Secretaría de Finanzas.
 
 XXI. Expedir constancias o copias certificadas de los documentos existentes en sus archivos, cuando se traten de asuntos relacionados con sus atribuciones.
 
@@ -527,19 +653,25 @@ I. Vigilar el cumplimiento de los programas, subprogramas y proyectos de las uni
 
 II. Verificar que los asuntos de la Secretaría se realicen con apego a las normas y procedimientos internos de operación y disposiciones legales vigentes.
 
-III. Realizar supervisiones, revisiones, auditorías y evaluaciones administrativas, financieras, contables, operacionales y técnicas a las unidades administrativas de la Secretaría, tendientes a verificar su desempeño institucional y el cumplimiento de las normas y disposiciones que regulan su funcionamiento, así como las relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, programas de inversión, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados a la dependencia, y dar seguimiento a la atención de las observaciones derivadas de tales acciones.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+III. Realizar supervisiones, revisiones, auditorías y evaluaciones y demás acciones de control y evaluación que establecen las disposiciones jurídicas de la materia, a las unidades administrativas de la Secretaría, tendientes a verificar su desempeño institucional y el cumplimiento de las normas y disposiciones que regulan su funcionamiento, así como las relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, programas de inversión, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados a la dependencia, y dar seguimiento a la atención de las observaciones derivadas de tales acciones, así como de las realizadas por otras instancias de fiscalización.
 
 IV. Verificar el adecuado ejercicio del presupuesto de egresos de la Secretaría, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad en la materia.
 
 V. Recibir y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos adscritos a la Secretaría por probable responsabilidad administrativa.
 
-VI. Recibir y tramitar ante la Secretaría de la Contraloría, los recursos administrativos de inconformidad que se promuevan en contra de los actos y resoluciones que emita este órgano de control interno para su instrucción y resolución.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Conocer, tramitar y resolver los recursos administrativos de inconformidad que se promuevan en contra de los actos y resoluciones que emita este órgano de control interno para su instrucción y resolución.
 
 VII. Evaluar las medidas de simplificación administrativa y mejora continua adoptadas por la Secretaría, proponiendo, en su caso, otras que considere conveniente.
 
 VIII. Promover acciones de control preventivo y de autocontrol, tendientes a modernizar la gestión de las unidades administrativas de la Secretaría.
 
-IX. Dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos de la Secretaría.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Dar vista a la autoridad competente de los hechos de que tenga conocimiento que puedan ser constitutivos de delitos e instar al área competente del Gobierno del Estado para formular, cuando así se requiera, las querellas a que hubiere lugar.
 
 X. Promover la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos adscritos a la Secretaría sujetos a esta obligación.
 
@@ -549,7 +681,43 @@ XII. Proponer al titular de la Secretaría la implementación de normas compleme
 
 XIII. Difundir entre el personal de la Secretaría toda disposición en materia de control que incida en el desarrollo de sus labores.
 
-XIV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario de la Contraloría.
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XIV. Elaborar y cumplir con el Programa Anual de Control y Evaluación, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XV. Realizar las acciones de control y evaluación, respecto al ejercicio de los recursos federales que aplique la Secretaría, de acuerdo con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XVI. Proponer y acordar con las unidades administrativas de la Secretaría que sean auditadas, las acciones de mejora y plazos para su realización, derivadas de las acciones de control y evaluación, tendentes a fortalecer el control interno y la gestión de la dependencia, así como vigilar su implementación.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XVII. Elaborar diagnósticos de la Secretaría, con base en las acciones de control y evaluación realizadas.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XVIII. Solicitar a las unidades administrativas de la Secretaría, la información y requerimientos necesarios para cumplir con sus atribuciones.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XIX. Expedir constancias o certificar copias de documentos existentes en sus archivos, así como de la impresión documental de datos contenidos en los sistemas informáticos de la Secretaría de la Contraloría y, otros que operen con relación a los asuntos de su competencia.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XX. Iniciar, substanciar y resolver procedimientos administrativos, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás ordenamientos aplicables, en contra de servidores públicos adscritos a la Secretaría.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XXI. Acordar la suspensión temporal de los servidores públicos de la Secretaría durante la substanciación del procedimiento administrativo, de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, dando aviso a la autoridad correspondiente.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
+XXI. Fincar pliegos preventivos de responsabilidad y determinar las responsabilidades administrativas resarcitorias, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+XXII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario de la Contraloría.
 
 ### CAPÍTULO V. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
 
@@ -567,9 +735,11 @@ El Secretario será suplido en sus ausencias temporales hasta por 15 días, por 
 
 Los Directores Generales y el Coordinador Administrativo serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Secretario.
 
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 24.
 
-Los Directores Regionales, Subdirectores, Residentes Locales, Jefes de Unidad y de Departamento, serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe su superior jerárquico.
+Los Directores Regionales, Directores, Subdirectores, Residentes Locales, Jefes de Unidad y de Departamento, serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por el servidor público que designe su superior jerárquico.
 
 T R A N S I T O R I O S
 
@@ -608,3 +778,13 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 2 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a este Acuerdo.
