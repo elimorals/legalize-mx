@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-contraloria-general-35938"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-31"
-last_updated: "2003-12-31"
+last_updated: "2009-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA, PUBLICADO EN EL P.O. DE 2 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 31 de diciembre de 2003.
 
@@ -970,3 +972,21 @@ EN LOS CASOS NO PREVISTOS EN EL PRESENTE REGLAMENTO Y EN LOS QUE SE PRESENTE CON
 DADO EN EL PALACIO DE GOBIERNO, RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS 02 DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL TRES.
 
 GOBERNADOR DEL ESTADO, PABLO SALAZAR MENDIGUCHIA.- SECRETARIO DE GOBIERNO, RUBEN F. VELAZQUEZ LOPEZ.- CONTRALORA GENERAL, MUNA DORA BUCHAHIN ABULHOSN.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Contrataría General, publicado en el Periódico Oficial del Estado número 213, de fecha 31 de diciembre de 2003, así como sus reformas y adiciones, y las disposiciones que de éste emanen, y se derogan aquellas otras que se opongan al presente Reglamento.
+
+Artículo Tercero.- En los casos no previstos en el presente reglamento y en los que se presente controversia en cuanto a su aplicación y observancia el Secretario resolverá lo procedente.
+
+Artículo Cuarto.- En las cuestiones no previstas en el presente Reglamento, respecto de las áreas, departamentos, oficinas y demás funciones del personal, se estará a lo dispuesto por el Manual de Organización de la Secretaría.
+
+Artículo Quinto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a ciento veinte días hábiles, después de la publicación del presente Reglamento.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario queda facultado para resolver las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial del Estado.
