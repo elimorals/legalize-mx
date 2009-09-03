@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2009-07-16"
+last_updated: "2009-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -230,9 +230,7 @@ VI. A la Secretaría de Desarrollo Social:
 
 1.- Subsecretaría de Participación Ciudadana;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE JUNIO DE 2007)</small>
-
-2.- El Instituto para la Atención de los Adultos Mayores en el Distrito Federal;
+2.- (DEROGADO, G.O. 3 DE SEPTIEMBRE DE 2009)
 
 > <small>(REFORMADO, G.O. 16 DE ABRIL DE 2007)</small>
 
@@ -240,9 +238,15 @@ VI. A la Secretaría de Desarrollo Social:
 
 4.- Dirección General del Servicio Público de Localización Telefónica (LOCATEL);
 
-5.- (DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
-6.- Dirección General del Instituto de Asistencia e Integración Social del Distrito Federal.
+5.- Dirección General del Instituto de Asistencia e Integración Social del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+
+Asimismo, se le adscribe el Órgano Desconcentrado denominado Instituto para la Atención de los Adultos Mayores en el Distrito Federal.
+
+6.- (DEROGADO, G.O. 3 DE SEPTIEMBRE DE 2009)
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -3700,45 +3704,9 @@ Articulo 60 Cuater (sic).- (DEROGADO, G.O. 16 DE JULIO DE 2009)
 
 DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE JUNIO DE 2007)</small>
-
 ###### Artículo 61.
 
-El Instituto para la Atención de los Adultos Mayores en el Distrito Federal tiene por objeto tutelar el ejercicio de los derechos de las personas adultas mayores, operando su pensión alimentaria y promoviendo ante las dependencias y entidades competentes las acciones y programas que aseguren el mejoramiento y fortalecimiento de sus condiciones sociales y de salud y la elevación de su calidad de vida. Para tal efecto cuenta con las siguientes atribuciones:
-
-I. Recibir y dar tramite a las solicitudes de Pensión Alimentaria para Adultos Mayores;
-
-II. Promover instrumentos de colaboración con las instancias de la Administración Pública del Distrito Federal, que propicien la atención integral de las personas adultas mayores;
-
-III. Proponer al titular de la Secretaría y operar los programas y acciones para generar una cultura de la vejez y el envejecimiento;
-
-IV. Promover la difusión, reconocimiento y ejercicio de los derechos de las personas adultas mayores;
-
-V. Actualizar permanentemente el padrón de beneficiarios, requisitos y procedimientos para el ejercicio del derecho a la pensión;
-
-VI. Proponer ante las instancias competentes, acciones y programas de promoción de la salud;
-
-VII. Operar el programa de visitas médicas domiciliarias para las personas adultas mayores beneficiarios de una pensión alimentaria;
-
-VIII. Realizar estudios y diagnósticos sobre la situación social y familiar de las personas adultas mayores;
-
-IX. Propiciar espacios de interlocución entre ciudadanía y gobierno para solucionar necesidades y demandas sociales en materia de envejecimiento;
-
-X. Promover entre los sectores social y privado los programas de gobierno a favor de las personas adultas mayores;
-
-XI. Promover ante las instancias competentes la capacitación y sensibilización de los servidores públicos y el personal que atiende a las personas adultas mayores, en materia de promoción y educación para la salud, geronto-geriatría y aspectos de participación social y comunitaria;
-
-XII. Promover la formación y fortalecimiento de redes sociales de apoyo para las personas adultas mayores, involucrando de manera coordinada a la familia, la comunidad y a las instituciones de gobierno;
-
-XIII. Promover el mejoramiento de las condiciones de vida de las personas adultas mayores;
-
-XIV. Fomentar, promover y fortalecer grupos de ayuda mutua para personas adultas mayores;
-
-XV. Proponer la creación y funcionamiento de Centros de Día para la atención de las personas adultas mayores;
-
-XVI. Implementar programas de acompañantes voluntarios y cuidadores primarios, que incluyan la asesoría y capacitación; y
-
-XVII. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
+(DEROGADO, G.O. 3 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 62.
 
@@ -6720,33 +6688,57 @@ XI. Asistir cuando se le instruya en términos de las disposiciones jurídicas y
 
 XII. Las demás que le instruya el Titular de la Dirección General de Legalidad; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 102-B.
 
-Corresponde a la Dirección de Recursos de Reclamación de Responsabilidad Patrimonial:
+Corresponde a la Dirección de Recursos de Reclamación de Daño Patrimonial:
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
 I. Conocer, desahogar, resolver y determinar la existencia o no de la relación de causalidad entre el funcionamiento del servicio público o actividad administrativa irregular y el daño producido y, en su caso, la valoración del daño causado, así como el monto en dinero o en especie de la indemnización, en términos de la Ley de Responsabilidad Patrimonial del Distrito Federal y su Reglamento;
 
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+
 II. Desechar de plano las reclamaciones de indemnización por responsabilidad patrimonial, presentadas en contra de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, por notoriamente improcedentes;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
 III. Calcular, determinar e imponer las multas a los promoventes de reclamaciones en términos de la Ley de Responsabilidad Patrimonial del Distrito Federal y su Reglamento;
 
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+
 IV. Hacer del conocimiento de las autoridades competentes, los actos u omisiones que puedan ser constitutivos de delito, de responsabilidad administrativa o violación a cualquier otra disposición jurídica o administrativa y que se desprendan del procedimiento administrativo en materia de responsabilidad patrimonial;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
 V. Determinar la distribución de la indemnización, en los casos en que dos o más dependencias, órganos desconcentrados, delegaciones y entidades concurran en la producción de los daños patrimoniales reclamados, dando la intervención que corresponda a las unidades administrativas de la Secretaría de Finanzas;
 
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+
 VI. Participar en el mecanismo de autorización de traspaso de los montos presupuestales asignados a las diferentes dependencias, órganos desconcentrados, delegaciones y entidades de la administración pública, en materia de responsabilidad patrimonial, cuando así lo soliciten las unidades administrativas de la Secretaría de Finanzas;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
 VII. Aprobar los convenios que celebren las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, con los reclamantes de responsabilidad patrimonial afectados, a fin de dar por concluida la controversia;
 
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+
 VIII. Establecer y administrar el registro de indemnizaciones a que hayan sido condenadas las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, en términos de la Ley de Responsabilidad Patrimonial del Distrito Federal y su Reglamento;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
 IX. Proponer políticas y mecanismos que tiendan a evitar la generación de daños en los bienes o derechos de los particulares por actividad administrativa irregular de la Administración Pública del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+
 X. Expedir previo cotejo copias certificadas de los documentos, así como de aquellos a los cuales se tenga acceso con motivo del desarrollo de sus funciones;
 
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+
 XI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su unidad administrativa de apoyo técnico-operativo, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas; y
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
 
 XII. Las demás que le instruya el Titular de la Dirección General de Legalidad; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
@@ -12574,9 +12566,9 @@ XIV. Las demás que señalen las disposiciones normativas y, en general, todas a
 
 (ADICIONADO, G.O. 24 DE ABRIL DE 2009) (REUBICADO, G.O. 16 DE JULIO DE 2009)
 
-#### SECCION VII
+#### SECCION VII. ADSCRITO A LA SECRETARIA DE DESARROLLO SOCIAL
 
-ADSCRITAS A LA SECRETARIA DE TURISMO.
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 205.
 
@@ -12662,11 +12654,147 @@ IX. Administrar la calidad de los pavimentos de las vialidad es (sic) a cargo de
 
 X. Proponer para su autorización conjunta por parte de la Secretaría de Obras y Servicios y de la Secretaría de Finanzas, los precios de venta de las emulsiones, mezclas asfálticas en sus diferentes modalidades y derivados para las Dependencias, Órganos Desconcentrados y Entidades del Gobierno del Distrito Federal, así como los de la Federación, Estados, Municipios y particulares.
 
-(REUBICADA Y REFORMADA, G.O. 31 DE ENERO DE 2001)
+> <small>(REFORMADA SU DENOMINACION, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 208.
 
-(DEROGADO, G.O. 19 DE ENERO DE 2007)
+El Órgano Desconcentrado Instituto para la Atención de los Adultos Mayores en el Distrito Federal tiene por objeto tutelar el ejercicio de los derechos de las personas adultas mayores, operando su pensión alimentaria y promoviendo ante las dependencias y entidades competentes las acciones y programas que aseguren el mejoramiento y fortalecimiento de sus condiciones sociales y de salud y la elevación de su calidad de vida. Para tal efecto cuenta con las siguientes atribuciones:
+
+I. Recibir y dar trámite a las solicitudes de Pensión Alimentaria para los Adultos Mayores;
+
+II. Promover instrumentos de colaboración con las instancias de la Administración Pública del Distrito Federal que propicien la atención integral de las personas adultas mayores;
+
+III. Proponer ante las instancias competentes y operar los programas y acciones para generar una cultura de la vejez y el envejecimiento;
+
+IV. Promover la difusión, reconocimiento y ejercicio de los derechos de las personas adultas mayores;
+
+V. Actualizar permanentemente el padrón de beneficiarios, requisitos y procedimientos para el ejercicio del derecho a la pensión;
+
+VI. Proponer ante las instancias competentes, acciones y programas de promoción de la salud;
+
+VII. Operar el programa de visitas médicas domiciliarias para las personas adultas mayores beneficiarios de una pensión alimentaria;
+
+VIII. Realizar estudios y diagnósticos sobre la situación social y familiar de las personas adultas mayores;
+
+IX. Propiciar espacios de interlocución entre ciudadanía y gobierno para solucionar necesidades y demandas sociales en materia de envejecimiento;
+
+X. Promover entre los sectores social y privado los programas de gobierno a favor de las personas adultas mayores;
+
+XI. Promover ante las instancias competentes la capacitación y sensibilización de los servidores públicos y el personal que atiende a las personas adultas mayores, en materia de promoción y educación para la salud, geronto-geriatría y aspectos de participación social y comunitaria;
+
+XII. Promover la formación y fortalecimiento de redes sociales de apoyo para las personas adultas mayores, involucrando de manera coordinada a la familia, la comunidad y a las instituciones de gobierno;
+
+XIII. Promover el mejoramiento de las condiciones de vida de las personas adultas mayores;
+
+XIV. Fomentar, promover y fortalecer grupos de ayuda mutua para personas adultas mayores;
+
+XV. Proponer la creación y funcionamiento de Centros de Día para la atención de las personas adultas mayores;
+
+XVI. Implementar programas de acompañantes voluntarios y cuidadores primarios, que incluyan la asesoría y capacitación; y
+
+XVII. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 209.
+
+El Órgano Desconcentrado Instituto para la Atención de los Adultos Mayores en el Distrito Federal tendrá autonomía técnica, administrativa y financiera para el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 210.
+
+Para el despacho de los asuntos que competen al Órgano Desconcentrado Instituto para la Atención de los Adultos Mayores en el Distrito Federal se le adscriben:
+
+I. Dirección de la Pensión Alimentaria;
+
+II. Dirección de Atención al Envejecimiento; y
+
+III. Las demás que requiera para el cumplimiento de su objeto, en atención a la suficiencia presupuestal y las que se señalen en el dictamen de estructura orgánica autorizada.
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 211.
+
+La Dirección de la Pensión Alimentaria cuenta con las siguientes atribuciones:
+
+I. Dirigir, dar seguimiento y evaluar la operación de la Pensión Alimentaria en las 16 Delegaciones del Distrito Federal;
+
+II. Asegurar la actualización permanente del padrón de adultos mayores pensionados y garantizar el manejo seguro y confidencial del mismo;
+
+III. Asegurar la calidad de la atención a los derechohabientes de la Pensión Alimentaria;
+
+IV. Elaborar la propuesta del programa operativo anual para la pensión alimentaria y dar seguimiento al cumplimiento del mismo;
+
+V. Solicitar la disponibilidad de recursos económicos para el otorgamiento de la pensión alimentaria a los adultos mayores derechohabientes;
+
+VI. Dar seguimiento a los procesos de dispersión mensual de la pensión alimentaria;
+
+VII. Informar permanentemente al titular del Instituto y a las instancias correspondientes sobre el estado y avance del Programa de la Pensión Alimentaria;
+
+VIII. Coadyuvar en el desarrollo de modelos, programas y acciones de atención integral a los adultos mayores pensionados en el Distrito Federal que establezca el titular del Instituto;
+
+IX. Participar en la planeación estratégica y operativa del programa de visitas médicas domiciliarias en el cual colabora el personal de la Dirección de la Pensión Alimentaria;
+
+X. Establecer vinculación al interior del Instituto, con las dependencias de la Administración Pública del Distrito Federal y otras instancias para la realización de acciones conjuntas que conlleven a la mejor operación de los programas encomendados al área;
+
+XI. Participar en la planeación y operación de los diagnósticos sociales y de salud de los adultos mayores que gozan del beneficio económico de la pensión alimentaria;
+
+XII. Difundir y vigilar la actualización y aplicación de la normatividad para la operación de la Pensión Alimentaria y de los programas encomendados al área;
+
+XIII. Establecer los mecanismos que garanticen a los adultos mayores pensionados y familiares la prestación de servicios de atención, información y orientación de conformidad con los principios que señala la normatividad correspondiente;
+
+XIV. Desarrollar en coordinación con las otras áreas correspondientes del Instituto el programa anual de capacitación y actualización del personal operativo y normativo; y
+
+XV. Dirigir y supervisar el desempeño del personal a su cargo.
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 212.
+
+La Dirección de Atención al Envejecimiento cuenta con las siguientes atribuciones:
+
+I. Dirigir, coordinar, supervisar y evaluar los programas y acciones en materia de atención integral a los adultos mayores, acorde con las políticas establecidas por el Gobierno del Distrito Federal;
+
+II. Planear, programar y presupuestar acciones en materia de promoción del envejecimiento activo;
+
+III. Establecer los lineamientos y elementos técnico normativos, para el desarrollo de las actividades sustantivas de las áreas que integran la Dirección;
+
+IV. Conducir la elaboración de modelos de atención geronto-geriátrica;
+
+V. Dirigir la operación de los programas de atención geronto-geriátricos en el Instituto;
+
+VI. Dirigir el establecimiento de un sistema de evaluación permanente de las acciones que se realizan en cada uno de los programas encomendados a la Dirección;
+
+VII. Determinar e implementar criterios de calidad para la atención a las personas adultas mayores;
+
+VIII. Guiar las actividades para fomentar la participación de la familia y la comunidad, en los programas de atención integral de las personas adultas mayores;
+
+IX. Dirigir la operación del Programa de Visitas Médicas Domiciliarias a las Personas Mayores de 70 años;
+
+X. Dirigir el diseño e implementación de modelos de evaluación y control de la atención geriátrica del Instituto;
+
+XI. Coordinar con las diferentes instancias del Gobierno del Distrito Federal, Instituciones y organizaciones de la sociedad civil, la realización de programas y acciones de atención a las personas adultas mayores;
+
+XII. Establecer programas de capacitación al personal en geriatría y gerontología;
+
+XIII. Establecer y coordinar programas de capacitación a la comunidad en materia de apoyos sociales a los adultos mayores;
+
+XIV. Elaborar el Programa Operativo Anual de la Dirección de Atención al Envejecimiento;
+
+XV. Planear actividades que generen el conocimiento en las áreas de gerontología, geriatría y disciplinas afines al quehacer del Instituto;
+
+XVI. Participar en la elaboración y operación del sistema de seguimiento y evaluación de las actividades del Instituto;
+
+XVII. Dirigir y supervisar el desempeño del personal a su cargo así como informar al área correspondiente, de las irregularidades administrativas detectadas;
+
+XVIII. Elaborar los informes que le sean solicitados por el titular del Instituto en la forma y periodicidad requeridos;
+
+XIX. Integrar y analizar periódicamente el avance de los programas, con la finalidad de detectar en forma oportuna, las desviaciones e implementar las estrategias necesarias para su corrección;
+
+XX. Informar permanentemente al titular del Instituto, los avances y desviaciones que ocurran en la programación y operación de los servicios, así como de las estrategias y medidas aplicadas para su atención; y
+
+XXI. Difundir la normatividad nacional e internacional en materia de promoción de envejecimiento activo, cultura de la vejez y derechos de las personas adultas mayores.
 
 ## TRANSITORIOS
 
@@ -13133,3 +13261,13 @@ PRIMERO. - Publíquese el presente Decreto en la Gaceta Oficia (sic) del Distrit
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. - Los recursos humanos, materiales, técnicos y financieros de la Dirección General de la Planta de Asfalto, que por virtud de este Decreto se extingue, se transferirán al Órgano Desconcentrado Planta de Asfalto del Distrito Federal, en los términos y condiciones que establezcan las disposiciones administrativas aplicables.
+
+G.O. 3 DE SEPTIEMBRE DE 2009.
+
+Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. - El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero. - Los recursos humanos, materiales, técnicos y financieros, así como los asuntos que se encuentren en trámite en el Instituto para la Atención de los Adultos Mayores en el Distrito Federal que por virtud de este Decreto se extingue, se transferirán al Órgano Desconcentrado que se crea, en los términos y condiciones que establezcan las disposiciones administrativas aplicables.
+
+Cuarto. - El Órgano Desconcentrado que por virtud de este decreto se crea, deberá adecuar su estructura orgánica y actualizar su Manual Administrativo en los plazos y condiciones que establezca la Contraloría General.
