@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-contaduria-mayor-de-hacienda-de-56066
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-09"
-last_updated: "2007-07-09"
+last_updated: "2009-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56066&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2007-06-28"
 
 REGLAMENTO INTERIOR DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 3 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 9 de julio de 2007.
 
@@ -631,3 +633,17 @@ SECRETARIA
 (Firma)
 
 DIP. ELVIRA MURILLO MENDOZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 3 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Contador Mayor.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, Publicado en la Gaceta Oficial del Distrito Federal el 9 de julio de 2007, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Los procedimientos que se hubieren iniciado durante la vigencia del Reglamento Interior abrogado, se continuarán de conformidad con las disposiciones de dicho Reglamento.
+
+CUARTO.- Los Manuales de Procedimientos que actualmente operan en la Contaduría deberán ser actualizados en un periodo de doce meses contados a partir de la publicación del presente Reglamento; plazo dentro del cual, estarán vigentes, en lo que no se opongan al presente Reglamento.
+
+QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
