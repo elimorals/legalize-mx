@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2008-07-22"
+last_updated: "2009-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2009.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -243,11 +243,13 @@ Con la participación democrática de la sociedad, compete al Gobierno del Estad
 
 Todos los habitantes del Estado tienen derecho a gozar de un ambiente sano, por lo que, en la esfera de su competencia y concurrentemente con los Ayuntamientos, el Gobierno del Estado llevará a cabo programas para conservar, proteger y mejorar los recursos naturales de la entidad, así como para prevenir y combatir la contaminación ambiental. Las leyes que al efecto se expidan serán de orden público e interés social y fomentarán la cultura de protección a la naturaleza, el mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y la protección y propagación de la flora y la fauna existentes en el territorio del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 16.
 
-El Estado de San Luis Potosí reconoce y respeta la supremacía de la vida humana. Queda prohibida la pena de muerte, la cual no podrá aplicarse en ningún caso.
+El Estado de San Luis Potosí reconoce la vida humana como fundamento de todos los derechos de los seres humanos, por lo que la respeta y protege desde el momento de su inicio en la concepción. Queda prohibida la pena de muerte, la cual no podrá aplicarse en ningún caso.
+
+No es punible la muerte dada al producto de la concepción, cuando sea consecuencia de una acción culposa de la mujer; el embarazo sea resultado de una violación o de una inseminación indebida; o de no provocarse el aborto la mujer corra peligro de muerte.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2552,3 +2554,9 @@ III. En lo sucesivo, a partir de la vigencia de este Decreto, toda referencia qu
 P.O. 22 DE JULIO DE 2008.
 
 UNICO. Previa aprobación por cuando menos las tres cuartas partes de los ayuntamientos de la Entidad, la reforma y adición a que se refiere este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Previa su aprobación por cuando menos tres cuartas partes de los ayuntamientos de la Entidad, el presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
