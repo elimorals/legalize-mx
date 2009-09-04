@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2009-03-20"
+last_updated: "2009-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -513,9 +513,11 @@ Dentro de los tres días de haberse hecho saber una corrección disciplinaria a 
 
 Los tribunales no admitirán nunca incidentes, recursos o promociones, notoriamente maliciosos o improcedentes. En resolución debidamente fundada y motivada, los desecharán de plano, sin necesidad de mandarlos hacer saber a las otras partes, ni dar traslado, ni formar artículo.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Art. 59.
 
-Los jueces y magistrados podrán ordenar que se subsane toda omisión que notaren en la substanciación, para el solo efecto de regularizar el procedimiento.
+Por una ocasión, sobre una cuestión concreta, de forma oficiosa o a petición de parte, los jueces y magistrados podrán ordenar que se subsanen omisiones en la substanciación, para el solo efecto de regularizar el procedimiento, siempre que no se trate de violaciones a las formalidades del mismo, que no se afecte algún derecho procesal adquirido por alguna de las partes o cuando no incida en el fondo del negocio planteado y que la regularización se realice dentro de los tres días siguientes al en que surta efectos la notificación del auto a regularizar.
 
 ###### Art. 60.
 
@@ -5928,3 +5930,7 @@ Artículo Primero. El presente decreto entrará en vigor el cuarto día siguient
 Artículo Segundo. Las reformas y adiciones relativas al Código de Procedimientos Civiles para el Estado de Guanajuato, sobre el juicio sumario de pago o aseguramiento de alimentos, sólo serán aplicables a los nuevos procedimientos que se inicien a partir de la entrada en vigor del presente decreto.
 
 Artículo Tercero. Los juicios actualmente en trámite que tengan por objeto el pago o aseguramiento de alimentos continuarán tramitándose en la vía en que hayan sido admitidos.
+
+P.O. 4 DE SEPTIEMBRE DE 2009.
+
+Artículo Único. El presente Decreto entrará en vigor al cuarto día de su publicación en el Periódico Oficial para el Estado de Guanajuato.
