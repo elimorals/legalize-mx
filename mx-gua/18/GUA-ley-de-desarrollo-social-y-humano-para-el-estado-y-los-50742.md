@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-social-y-humano-para-el-estado-y-los-50742"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-02"
-last_updated: "2006-06-02"
+last_updated: "2009-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de junio de 2006.
 
@@ -45,11 +45,17 @@ LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
 La presente Ley es de orden público e interés social, y tiene por objeto:
 
-l. Promover y garantizar a los habitantes del Estado el pleno ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política para el Estado de Guanajuato y en la Ley General de Desarrollo Social, asegurando el acceso de toda la población al desarrollo social y humano;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-II. Señalar las atribuciones de los gobiernos estatal y municipal, establecer las instituciones responsables del desarrollo social y humano, así como definir los principios y lineamientos generales a los que deben sujetarse las políticas públicas de desarrollo social y humano;
+I. Promover y garantizar a los habitantes del Estado el pleno ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos, en instrumentos jurídicos internacionales, en la Constitución Política para el Estado de Guanajuato y en la Ley General de Desarrollo Social, asegurando el acceso de toda la población al desarrollo social y humano;
 
-III. Fortalecer las bases y principios generales para la planeación, ejecución, evaluación y seguimiento de los programas y acciones de las políticas públicas estatales y municipales de desarrollo social y humano;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+II. Señalar las atribuciones de los gobiernos estatal y municipal, establecer las instituciones responsables del desarrollo social y humano, así como definir los principios y lineamientos generales a los que deben sujetarse las políticas públicas;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+III. Fortalecer las bases y principios generales para la planeación, ejecución, evaluación y seguimiento de los programas y acciones de las políticas públicas;
 
 IV. Generar las condiciones económicas, sociales, culturales y políticas que favorezcan integralmente el desarrollo humano de la población;
 
@@ -57,11 +63,21 @@ V. Instituir un Sistema Estatal para el Desarrollo Social y Humano;
 
 VI. Promover acciones que propicien el desarrollo social de la familia;
 
-VII. Fomentar el sector social de la economía y la economía social;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-VIII. Regular y garantizar la prestación de los bienes y servicios contenidos en los programas sociales, y
+VII. Fomentar el sector social de la economía;
 
-IX. Fomentar la organización y participación ciudadana para el desarrollo social y humano.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. Regular y garantizar la prestación de los bienes y servicios contenidos en los programas;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Fomentar la organización y participación ciudadana para el desarrollo social y humano, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+X. Establecer mecanismos de evaluación de los programas y acciones de la política pública estatal.
 
 ###### Artículo 2.
 
@@ -79,11 +95,29 @@ V. Organizaciones: Las agrupaciones civiles y sociales, legalmente constituidas,
 
 VI. Personas en situación de vulnerabilidad: Las personas o grupos de personas que por diferentes factores o la combinación de ellos, enfrentan situaciones específicas de riesgo social, marginación o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención del Gobierno para lograr su bienestar;
 
-VII. Políticas públicas: Las políticas públicas para el desarrollo social y humano;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-VIII. Secretaría: La Secretaría de Desarrollo Social y Humano, y
+VII. Políticas públicas: Las políticas públicas estatal y municipales para el desarrollo social y humano;
 
-IX. Sistema Estatal: El Sistema Estatal para el Desarrollo Social y Humano.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. Programa social: Instrumento que conjuga acciones y proyectos gubernamentales coherentes con las políticas públicas, tendiente a contribuir y fortalecer las condiciones y oportunidades de diferentes sectores de la población, para satisfacer sus necesidades individuales y sociales, que permitan elevar su calidad de vida;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Secretaría: La Secretaría de Desarrollo Social y Humano;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+X. Sector social de la economía: Aquel que se encuentra conformado por los ejidos, organizaciones de trabajadores, cooperativas, comunidades, empresas sociales y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XI. Sistema Estatal: El Sistema Estatal para el Desarrollo Social y Humano, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XII. Zonas de atención prioritaria: Conjunto de localidades urbanas o rurales definidas por la Secretaría, con base en los índices de marginación y rezago social, caracterizadas por su población que vive condiciones de vulnerabilidad.
 
 ###### Artículo 3.
 
@@ -99,11 +133,17 @@ I. El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría y d
 
 II. Los Ayuntamientos, por conducto del área encargada del desarrollo social municipal, así como las dependencias y entidades que integran la administración pública municipal, en el ámbito de sus respectivas competencias.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Las autoridades estatales y municipales ejercerán sus atribuciones de manera coordinada, de conformidad con lo previsto en esta Ley.
+
 ###### Artículo 5.
 
 Corresponde al Titular del Poder Ejecutivo del Estado en el ámbito de su competencia:
 
-I. Generar condiciones para el desarrollo social y humano estableciendo acciones en coordinación con las organizaciones civiles y sociales, instituciones académicas, grupos empresariales y los habitantes del Estado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+I. Generar condiciones para el desarrollo social y humano mediante acciones coordinadas con las organizaciones, el sector social de la economía, las instituciones académicas, los grupos empresariales y los habitantes del Estado;
 
 II. Establecer el Sistema Estatal;
 
@@ -111,7 +151,9 @@ III. Convenir programas, acciones y recursos con el Ejecutivo Federal y los ayun
 
 IV. Aprobar los programas de desarrollo social y humano, y
 
-V. Incluir anualmente en la iniciativa de Ley del Presupuesto General de Egresos del Estado de Guanajuato del ejercicio fiscal que corresponda, los recursos para la ejecución y cumplimiento de las metas y objetivos de los programas de desarrollo social y humano, así como la previsión de los apoyos a los municipios para el cumplimiento de sus programas en la materia.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+V. Incluir anualmente en la iniciativa de Ley del Presupuesto General de Egresos del Estado de Guanajuato del ejercicio fiscal que corresponda, los recursos para la ejecución, cumplimiento y evaluación de las políticas públicas, de las metas y de los objetivos de los programas de desarrollo social y humano, así como la previsión de los apoyos a los municipios para el cumplimiento de sus programas en la materia.
 
 ###### Artículo 6.
 
@@ -119,17 +161,23 @@ La Secretaría tendrá las siguientes atribuciones:
 
 l. Operar el Sistema Estatal y los programas de desarrollo social y humano en el Estado, en coordinación con las dependencias y entidades de la administración pública estatal relacionadas con la materia, de conformidad con lo establecido en la Ley de Planeación para el Estado de Guanajuato;
 
-II. Promover la celebración de convenios y mecanismos de coordinación con dependencias y entidades del Ejecutivo federal y estatal, así como con organizaciones sociales y privadas, para la realización de los programas relacionados con el desarrollo social y humano;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+II. Promover la celebración de convenios y mecanismos de coordinación con dependencias y entidades del Ejecutivo federal y estatal, así como con las organizaciones y el sector social de la economía, para la realización de los programas relacionados con el desarrollo social y humano;
 
 III. Coordinar con los ayuntamientos los programas y acciones en materia de desarrollo social y humano;
 
 IV. Diseñar las reglas de operación para la ejecución anual de los programas en el ámbito de su competencia;
 
-V. Promover y fomentar la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de las políticas públicas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+V. Promover y fomentar la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de la política pública estatal, de las metas y de los objetivos de los programas de desarrollo social y humano;
 
 VI. Proporcionar la información que requiera el Consejo para el cumplimiento de sus atribuciones;
 
-VII. Generar y promover instrumentos de financiamiento popular y de proyectos productivos para el desarrollo social;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Generar y promover instrumentos de financiamiento popular y de apoyos a proyectos productivos para el desarrollo social;
 
 VIII. Promover y apoyar procesos de educación participativa que faciliten el involucramiento corresponsable de la población en el desarrollo social y humano;
 
@@ -137,9 +185,15 @@ IX. Implementar los mecanismos de coordinación para ejercer los fondos y recurs
 
 X. Informar a la Secretaría de Desarrollo Social del Gobierno Federal sobre el ejercicio de los fondos y recursos federales que los ayuntamientos realicen en los términos de los convenios específicos;
 
-XI. Informar a la sociedad sobre las acciones en torno al desarrollo social, y
+XI. Informar a la sociedad sobre las acciones en torno al desarrollo social, y (sic)
 
-XII. Las demás que le señalen esta Ley y las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XII. Promover y fomentar la organización y participación social para acercar programas, servicios y acciones en torno al desarrollo social y humano, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XIII. Las demás que le señalen esta Ley y las disposiciones jurídicas aplicables.
 
 ###### Artículo 7.
 
@@ -157,7 +211,9 @@ IV. Las demás que le señalen esta Ley y las disposiciones jurídicas aplicable
 
 Los ayuntamientos tendrán las siguientes atribuciones:
 
-I. Formular, aprobar y ejecutar los programas municipales de desarrollo social y humano, de conformidad con los Planes de Gobierno y de Desarrollo municipales;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+I. Formular, aprobar y ejecutar los programas municipales de desarrollo social y humano, de conformidad con las políticas públicas nacional y estatal en materia de desarrollo social y humano, así como con los Planes de Gobierno y de Desarrollo municipales;
 
 II. Realizar y mantener actualizado un diagnóstico de los problemas en materia de desarrollo social y humano por conducto de la dependencia o entidad que designe;
 
@@ -169,25 +225,33 @@ V. Convenir acciones de desarrollo social con municipios de otras Entidades Fede
 
 VI. Ejercer los fondos y recursos federales y estatales transferidos o convenidos en materia social en los términos de las leyes respectivas; así como informar a la Secretaría, sobre el avance y resultados de esas acciones;
 
-VII. Realizar el control y la evaluación de los programas y acciones de desarrollo social;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Realizar el control y la evaluación de las políticas públicas municipales y de las metas y objetivos de los programas;
 
 VIII. Promover el debate y la concertación entre los diversos actores sociales en la búsqueda de soluciones a los problemas del desarrollo social;
 
 IX. Concertar acciones con los sectores social y privado en materia de desarrollo social y humano;
 
-X. Promover la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de las políticas públicas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+X. Promover la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de las políticas públicas municipales y de las metas y objetivos de los programas;
 
 XI. Informar a la sociedad sobre las acciones en torno al desarrollo social y humano, y
 
 XII. Las demás que les señalen esta Ley y las disposiciones jurídicas aplicables.
 
-## TÍTULO SEGUNDO. De las políticas estatales y municipales para el desarrollo social y humano
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+## TÍTULO SEGUNDO. De las políticas públicas estatal y municipales para el desarrollo social y humano
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 9.
 
-Las políticas estatales y municipales para el desarrollo social y humano, en concordancia con las políticas nacionales en la materia, se sujetarán a los siguientes principios:
+Las políticas públicas para el desarrollo social y humano, en concordancia con las políticas públicas nacionales en la materia, se sujetarán a los siguientes principios:
 
 I. Libertad: Capacidad de las personas para elegir los medios para su desarrollo personal así como para participar en el desarrollo social y humano;
 
@@ -197,11 +261,15 @@ III. Solidaridad: Colaboración entre personas, grupos sociales y ámbitos de go
 
 IV. Integralidad: Articulación y complementariedad de programas y acciones que conjunten los diferentes beneficios sociales, en el marco de las políticas públicas;
 
-V. Participación social: Derecho de las personas y organizaciones a intervenir e integrarse, individual o colectivamente, en la formulación, ejecución y evaluación de las políticas, programas y acciones del desarrollo social y humano;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+V. Participación social: Derecho de las personas y organizaciones a intervenir e integrarse, individual o colectivamente, en la formulación, ejecución y evaluación de las políticas públicas y de las metas y objetivos de los programas del desarrollo social y humano;
 
 VI. Sustentabilidad: Preservación del equilibrio ecológico, protección al ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-VII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Respeto a la diversidad: Reconocimiento a las personas sin importar su origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
 
 VIII. Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a los recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado;
 
@@ -215,7 +283,9 @@ Las políticas públicas tendrán los siguientes objetivos:
 
 l. Propiciar las condiciones que aseguren el disfrute de los derechos individuales y sociales, garantizando el acceso a los programas de desarrollo social y humano y la igualdad de oportunidades, así como el abatimiento de la discriminación y la exclusión social;
 
-II. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+II. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, autoempleo, eleve el nivel de ingreso y mejore su distribución;
 
 III. Fomentar el desarrollo social equilibrado, y
 
@@ -231,9 +301,25 @@ II. Seguridad social y programas asistenciales;
 
 III. Desarrollo regional y microregional;
 
-IV. Infraestructura social básica, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-V. Fomento del sector social de la economía y la economía social.
+IV. Infraestructura social básica;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+V. Fomento del sector social de la economía;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Desarrollo sustentable;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Atención a grupos vulnerables, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. Equidad de género.
 
 ###### Artículo 12.
 
@@ -247,9 +333,15 @@ La planeación del desarrollo social y humano del Estado incluirá los programas
 
 La misma obligación tendrán los ayuntamientos en lo conducente, respecto de los programas municipales derivados de los Planes de Gobierno Municipal y Planes Municipales de Desarrollo.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Las autoridades estatales y municipales deberán coordinar esfuerzos para llevar a cabo las acciones relacionadas con la planeación del desarrollo social, la ejecución de acciones e inversiones en la materia, con el fin de simplificar trámites y optimizar recursos en los programas.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 14.
 
-La elaboración y actualización del diagnóstico y evaluación de la problemática relativa al desarrollo social y humano, corresponde a la autoridad responsable de la planeación en el Estado.
+La elaboración y actualización del diagnóstico de la problemática relativa al desarrollo social y humano, y de la evaluación de la política pública estatal y de las metas y objetivos de los programas, corresponde a la Secretaría, con el auxilio de la autoridad responsable de la planeación en el Estado.
 
 ###### Artículo 15.
 
@@ -271,17 +363,69 @@ VII. Los programas de abasto social de productos básicos;
 
 VIII. Los programas de vivienda;
 
-IX. Los programas y fondos públicos que promuevan la generación y conservación del empleo y las actividades productivas, así como el fortalecimiento de las empresas sociales y su vinculación con la innovación tecnológica;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Los programas y fondos públicos que promuevan la generación y conservación del empleo y las actividades productivas, así como el fortalecimiento del sector social de la economía y su vinculación con la innovación tecnológica;
 
 X. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación y equipamiento urbano, y
 
 XI. Los programas para la protección al ambiente y preservación de los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 15 Bis.
+
+Las reglas de operación de los programas en materia de desarrollo social deberán regirse por la normatividad aplicable y establecerán como mínimo:
+
+I. El diagnóstico de la situación que guarde el desarrollo social;
+
+II. La población objetivo;
+
+III. La entidad o dependencia responsable del programa;
+
+IV. Las metas programadas;
+
+V. La programación presupuestal;
+
+VI. Los procedimientos y requisitos de acceso;
+
+VII. El análisis lógico;
+
+VIII. Los mecanismos de evaluación y los indicadores de resultados, gestión y servicios para medir su cobertura, calidad e impacto;
+
+IX. Las formas de participación social y de corresponsabilidad social, y
+
+X. La articulación con dependencias y otros programas de desarrollo social aplicables.
+
+Las reglas de operación se publicarán en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 ### CAPÍTULO III. Del financiamiento y el gasto
 
 ###### Artículo 16.
 
 Los recursos presupuestales estatales asignados a los programas de desarrollo social podrán ser complementados con recursos provenientes de los gobiernos federal y municipales, así como con aportaciones de los sectores social y privado y de los organismos internacionales de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 16 Bis.
+
+La Secretaría determinará las zonas de atención prioritaria, que representen un interés para el Estado, para la asignación de los recursos que permitan elevar los índices de bienestar de la población y el desarrollo de infraestructura, atendiendo a los siguientes criterios:
+
+I. Concurrencia presupuestal de las dependencias y entidades de la administración pública estatal para atender los rubros deficitarios;
+
+II. Infraestructura social básica y complementaria;
+
+III. Resultados de los indicadores de marginación, así como índices de pobreza y de desarrollo social, y
+
+IV. Evaluación por resultados.
+
+La Secretaría promoverá el otorgamiento de estímulos fiscales dentro de las zonas de atención prioritaria, a efecto de propiciar actividades generadoras de empleo, financiamiento y diversificación de actividades productivas.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 16 Ter.
+
+El Ejecutivo del Estado deberá establecer una asignación presupuestal emergente de desarrollo social para responder a los fenómenos económicos y presupuestales imprevistos. El Poder Legislativo del Estado en la Ley del Presupuesto General de Egresos del Estado de Guanajuato, por el ejercicio fiscal que corresponda, determinará el monto y las reglas mínimas a las que quedará sujeta su distribución y aplicación, incluyendo las previsiones correspondientes para garantizar que los recursos sean utilizados en el ejercicio fiscal.
 
 ###### Artículo 17.
 
@@ -299,6 +443,10 @@ III. En el caso de los recursos estatales transferidos a los municipios, deberá
 
 Los ayuntamientos y el Gobierno del Estado fomentarán las actividades productivas para promover la generación de empleos e ingresos de personas, familias, grupos y organizaciones productivas.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+La Secretaría, en coordinación con las dependencias y entidades del ramo, promoverá la atracción de inversiones, la capacitación y la coinversión, además de fomentar en programas y proyectos la inclusión de actividades productivas y el desarrollo de actividades generadoras de ingreso autónomo, orientadas a fortalecer económicamente a las personas o familias en condiciones de vulnerabilidad que participen en aquellos.
+
 ###### Artículo 19.
 
 El Gobierno del Estado y los ayuntamientos, cada año, harán del conocimiento público sus programas operativos de desarrollo social y humano, a través de los medios más accesibles a la población, en un plazo máximo de 90 días a partir de la aprobación de sus presupuestos de egresos anuales respectivos.
@@ -307,13 +455,43 @@ El Gobierno del Estado y los ayuntamientos, cada año, harán del conocimiento p
 
 La publicidad e información relativa a los programas de desarrollo social y humano deberán identificarse perfectamente incluyendo la siguiente leyenda: "Este programa es público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al desarrollo social".
 
-### CAPÍTULO I. Del objeto e integración
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO II. Del Consejo Consultivo para el Desarrollo Social y Humano
+### CAPÍTULO IV. Del sector social de la economía
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 20 Bis.
+
+La Secretaría en coordinación con las dependencias encargadas de las actividades económicas, turísticas y agropecuarias promoverá la atracción de inversiones, capacitación, coinversión y fomento en los programas y proyectos de economía social, así como el desarrollo de actividades generadoras de ingreso orientadas al fortalecimiento económico de la población participante en ellos, de conformidad con lo establecido en las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 20 Ter.
+
+Para ser objeto de la presente Ley, las empresas sociales tendrán como fin:
+
+I. Promover el desarrollo integral del ser humano mediante el fomento de producción de autoconsumo y autoempleo;
+
+II. Contribuir al desarrollo socioeconómico de la región o zonas de atención prioritaria;
+
+III. Generar prácticas que consoliden una cultura solidaria, creativa, emprendedora y de autoempleo;
+
+IV. Participar en el diseño de programas y proyectos de desarrollo económico y social, y
+
+V. Fomentar en sus miembros la participación y acceso a la capacitación, el trabajo, la información, gestión y distribución equitativa de beneficios sin discriminación alguna.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 20 Quater.
+
+El Ejecutivo del Estado en coordinación con los municipios estimulará la organización de personas, familias y grupos sociales, destinando recursos públicos para promover proyectos productivos; identificar oportunidades de inversión, y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades.
+
+### CAPÍTULO I. Del objeto e integración
 
 ## TÍTULO TERCERO. Del Sistema Estatal de Desarrollo Social y Humano
 
-### CAPÍTULO III. Del Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano
+### CAPÍTULO II. Del Consejo Consultivo para el Desarrollo Social y Humano
 
 ###### Artículo 21.
 
@@ -325,15 +503,27 @@ II. Establecer la colaboración entre las dependencias y entidades estatales en 
 
 III. Promover la concurrencia, vinculación y congruencia de los programas, acciones e inversiones de los gobiernos federal, estatal y municipales con los objetivos, estrategias y prioridades de las políticas públicas;
 
-IV. Fomentar la participación de las personas y organizaciones en el desarrollo social y humano, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-V. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la política estatal.
+IV. Fomentar la participación de las personas y organizaciones en el desarrollo social y humano;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+V. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la política estatal, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Impulsar y fortalecer al sector social de la economía.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 22.
 
-La coordinación del Sistema Estatal corresponde al Ejecutivo del Estado, a través de la Secretaría, con la concurrencia de las dependencias y entidades estatales relacionadas con la materia, los municipios, las organizaciones y las empresas sociales, de conformidad con la Ley de Planeación para el Estado de Guanajuato y en concordancia con el Sistema Nacional de Desarrollo Social.
+La coordinación del Sistema Estatal corresponde al Ejecutivo del Estado, a través de la Secretaría, con la concurrencia de las dependencias y entidades estatales relacionadas con la materia, los municipios, las organizaciones y el sector social de la economía, de conformidad con la Ley de Planeación para el Estado de Guanajuato y en concordancia con el Sistema Nacional de Desarrollo Social.
 
-### CAPÍTULO ÚNICO. De la participación de las organizaciones
+### CAPÍTULO III. Del Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 23.
 
@@ -389,23 +579,33 @@ El funcionamiento y organización del Consejo se regulará además de lo dispues
 
 La Secretaría prestará al Consejo la colaboración y apoyo necesario para el ejercicio de sus atribuciones.
 
-### CAPÍTULO ÚNICO. De las sanciones
+### CAPÍTULO I. De la participación de las organizaciones
 
 ###### Artículo 29.
 
-La autoridad responsable de la planeación en el Estado integrará y actualizará los datos relativos al Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano, con el propósito de asegurar la transparencia, la equidad y la eficacia de los programas sociales. Los ayuntamientos remitirán a través del área administrativa correspondiente, la información relativa a dichos programas, cuando se ejerzan recursos federales o estatales.
+La Secretaría tiene a su cargo la integración, operación y actualización del Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano, con el propósito de asegurar la transparencia, la equidad y la eficacia de los programas sociales. Los ayuntamientos remitirán a través del área administrativa correspondiente, la información relativa a dichos programas, cuando se ejerzan recursos federales o estatales.
+
+Para los fines señalados en el párrafo anterior, la Secretaría podrá auxiliarse de las autoridades de planeación en el Estado.
 
 ###### Artículo 30.
 
 El Gobierno del Estado podrá convenir con los ayuntamientos la integración de los beneficiarios de sus programas sociales financiados con recursos propios al Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 31.
 
-Las dependencias y entidades que ejecuten los programas de desarrollo social deberán incorporar al Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano, la información de aquellas personas y sus familias que se ven beneficiadas con los mismos.
+Las dependencias y entidades que ejecuten los programas de desarrollo social deberán incorporar al Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano, la información de aquellas personas o familias que se ven beneficiadas con los mismos, en los términos que establezca la Secretaría.
 
-La reserva y confidencialidad de datos personales que integren el Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano se regirán de conformidad con la Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato.
+El Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano será público y de uso exclusivo para fines sociales, con las reservas y confidencialidad de datos personales que lo integren de conformidad con las normatividad aplicable.
 
 ## TÍTULO CUARTO. De la participación social
+
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO II. Del Registro Estatal de Organizaciones de la Sociedad
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 32.
 
@@ -423,13 +623,101 @@ El Gobierno del Estado y los ayuntamientos estimularán la organización de pers
 
 Las organizaciones que tengan por objeto impulsar el bienestar y el desarrollo social y humano en el Estado, podrán participar en la elaboración, promoción, ejecución y evaluación de los programas en los términos de la Ley de planeación para el Estado de Guanajuato.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+El Gobierno del Estado podrá realizar acciones e inversiones conjuntas con diferentes organizaciones. Las organizaciones podrán participar corresponsablemente en la ejecución de programas y acciones en materia de desarrollo social.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Las organizaciones podrán recibir recursos o fondos públicos para operar proyectos para el desarrollo social, quedando sujetas a la supervisión, control y vigilancia de las autoridades competentes, conforme a las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO ÚNICO. De la evaluación de la política pública estatal de desarrollo social y humano
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 36.
+
+La Secretaría constituirá y mantendrá actualizado el Registro Estatal de Organizaciones de la Sociedad, con el objeto de asentar los datos de las organizaciones que contribuyan con sus acciones al desarrollo social de la entidad.
+
+El Registro tendrá las finalidades siguientes:
+
+I. Contar con bases de datos fidedignas que permitan medir el impacto de la promoción y participación social para el desarrollo social;
+
+II. Reconocer las acciones que lleven a cabo las organizaciones, para el otorgamiento de apoyos y estímulos públicos;
+
+III. Mantener un control sobre los recursos asignados a las organizaciones registradas, para dar transparencia en su aplicación;
+
+IV. Dar seguimiento al cumplimiento de las acciones contempladas en el convenio suscrito con la autoridad correspondiente, y
+
+V. Garantizar la transparencia e imparcialidad.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 37.
+
+Las organizaciones inscritas en el Registro Estatal de Organizaciones de la Sociedad, tendrá (sic) las obligaciones siguientes:
+
+I. Informar a la Secretaría, cualquier modificación a su objeto, domicilio, representación legal o estatutos en un plazo máximo de quince días hábiles contados a partir de la misma;
+
+II. Mantener a disposición de las autoridades competentes, la información relativa a las actividades que realicen, así como las facilidades para la supervisión correspondiente;
+
+III. Destinar la totalidad de los recursos programados al cumplimiento de las acciones concertadas o respecto de las cuales se expida la constancia de objeto social;
+
+IV. Abstenerse de efectuar actividades, proselitismo o propaganda con fines políticos, y
+
+V. Las demás que se establezcan en el convenio que suscriban con la autoridad correspondiente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+## TÍTULO QUINTO. De la evaluación
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO ÚNICO. De las Sanciones
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 38.
+
+La evaluación de la política pública estatal de desarrollo social y humano estará a cargo de la Secretaría o del órgano que designe, cuyo objeto será el de revisar periódicamente el cumplimiento de los programas sociales en materia de desarrollo social y humano.
+
+La Secretaría determinará la programación de acciones de evaluación en función de la naturaleza técnica de los programas.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 39.
+
+La evaluación se realizará sobre las acciones de la política pública estatal de desarrollo social y humano encaminada a conocer la operación y resultados cualitativos para abatir la pobreza y mejorar el desarrollo humano en el Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 40.
+
+Las evaluaciones permitirán conocer y valorar el diseño, operación, resultados e impacto de los programas estatales y municipales de desarrollo social.
+
+Con base en los resultados de las evaluaciones se deberán formular las observaciones y recomendaciones para la reorientación, fortalecimiento y presupuestación del gasto social.
+
+La evaluación será interna o externa, misma que se le deberá dar publicidad.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+## TÍTULO SEXTO. De las Responsabilidades
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 41.
 
 Los servidores públicos que contravengan las disposiciones de esta Ley, serán sancionados de conformidad con la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin perjuicio de las demás responsabilidades a que haya lugar en el ejercicio de sus funciones.
 
 Los ciudadanos y los servidores públicos deberán denunciar ante la Secretaría de la Gestión Pública o las Contralorías Municipales, según corresponda, las acciones y omisiones que tengan conocimiento que presumiblemente constituyan irregularidades o impliquen incumplimiento a lo dispuesto por esta Ley.
 
-## TÍTULO QUINTO. De las responsabilidades
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 42.
+
+Cuando las organizaciones proporcionen información falsa con el objeto de recibir indebidamente los apoyos contenidos en los programas de desarrollo social y humano, las dependencias y entidades de la administración pública estatal procederán a suspender, en lo sucesivo, la ministración de los mismos. En caso de que ya se hubieren otorgado, solicitarán su reintegro, sin perjuicio de que se apliquen las sanciones que resulten procedentes.
 
 ## TRANSITORIOS
 
@@ -452,3 +740,11 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 SAMUEL ALCOCER FLORES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente decreto, deberá quedar constituido e instalado el Registro Estatal de Organizaciones de la Sociedad.
