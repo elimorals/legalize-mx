@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-juventud-del-estado-de-guanajuato-51522"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-18"
-last_updated: "2006-08-18"
+last_updated: "2009-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 4 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de agosto de 2006.
 
@@ -616,3 +618,59 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 SAMUEL ALCOCER FLORES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA LEY.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2009.
+
+Entrada en vigor de la Ley
+
+Artículo Primero. La presente Ley entrará en vigor noventa días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la Ley para la Juventud del Estado de Guanajuato
+
+Artículo Segundo. Se abroga la Ley para la Juventud del Estado de Guanajuato, contenida en el Decreto número 289, expedida por la Quincuagésimo Novena Legislatura, publicado en el Periódico Oficial del Gobierno del Estado, número 132, tercera parte, de fecha 18 de agosto de 2006, con las salvedades que se establecen en los artículos siguientes.
+
+Derogación de disposiciones que se opongan a la presente Ley
+
+Artículo Tercero. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+Término para expedir la reglamentación del Ejecutivo
+
+Artículo Cuarto. El Titular del Poder Ejecutivo del Estado expedirá los reglamentos a que se refiere esta Ley, en un plazo no mayor de noventa días contados a partir de la entrada en vigor de la misma.
+
+Término para expedir la reglamentación de los municipios
+
+Artículo Quinto. Los ayuntamientos, en el ámbito de sus respectivas competencias, emitirán y en su caso, adecuarán los reglamentos a que se refiere esta Ley, en un plazo no mayor de seis meses a la entrada en vigor de la misma.
+
+Designación de los representantes ante el Consejo Directivo
+
+Artículo Sexto. Por única ocasión y para efectos de la instalación del Consejo Directivo del Instituto de la Juventud Guanajuatense, el Titular del Poder Ejecutivo designará en forma directa a los representantes de las organizaciones de atención a la juventud y del sector privado, descritos en las fracciones VIII y IX del artículo 17 del presente Decreto.
+
+Término para crear los organismos municipales
+
+Artículo Séptimo. Los ayuntamientos que a la fecha de entrada en vigor de la Ley no cuenten con un organismo municipal, en el ámbito de sus respectivas competencias, tendrán un plazo de seis meses, para contar con el organismo municipal, en los términos de la presente Ley.
+
+Disposiciones para la constitución del Instituto
+
+Artículo Octavo. El Ejecutivo del Estado contará con un plazo de treinta días contados a partir de la entrada en vigor del presente Decreto, para implementar el Instituto de la Juventud Guanajuatense.
+
+En tanto no se constituya el organismo mencionado, la Comisión Estatal del Deporte y Atención a la Juventud a través de su órgano desconcentrado denominado Instituto Estatal de la Juventud de Guanajuato, continuará ejerciendo las atribuciones que en materia de juventud le otorga la Ley que abroga el Artículo Segundo Transitorio del presente Decreto.
+
+Sustitución patronal y de obligaciones
+
+Artículo Noveno. El Instituto de la Juventud Guanajuatense, una vez constituido, sustituirá en todas las obligaciones y derechos a la Comisión Estatal del Deporte y Atención a la Juventud, en materia de juventud.
+
+Asignación de recursos al Instituto
+
+Artículo Décimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la asignación de recursos al Instituto de la Juventud Guanajuatense, conforme sus atribuciones.
+
+Los recursos humanos, materiales y financieros de la Comisión Estatal del Deporte y Atención a la Juventud que se destinaban a la operación y funcionamiento de su órgano desconcentrado denominado Instituto Estatal de la Juventud de Guanajuato, se reasignarán al Instituto de la Juventud Guanajuatense.
+
+Respeto a los derechos laborales adquiridos
+
+Artículo Undécimo. Las personas que a la entrada en vigor de la presente Ley presten un servicio personal subordinado a la Comisión Estatal del Deporte y Atención a la Juventud, a través de su órgano desconcentrado denominado Instituto Estatal de la Juventud de Guanajuato, pasarán a formar parte del Instituto de la Juventud Guanajuatense, de acuerdo a sus funciones y capacidad, y conservarán las remuneraciones, prestaciones y antigüedad de las cuales gozan a la entrada en vigor de la presente Ley.
+
+Denominación de la CEDAJ y competencia del Instituto
+
+Artículo Duodécimo. La Comisión Estatal del Deporte y Atención a la Juventud, continuará con su denominación actual, hasta en tanto sea modificada la Ley del Deporte y Cultura Física para el Estado de Guanajuato, excluyendo de su competencia los temas de atención a la juventud, las cuales se entenderán conferidos al Instituto de la Juventud Guanajuatense.
