@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-administracion-publica-del-municipio-de-57382"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-26"
-last_updated: "2007-10-26"
+last_updated: "2009-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE APODACA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 26 de octubre de 2007.
 
@@ -651,9 +651,11 @@ Para el despacho de los asuntos de su competencia, el C. Secretario de Servicios
 
 ### CAPÍTULO XIII. SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 24.
 
-A la Secretaría de Seguridad Pública y Vialidad, le corresponde mantener el orden público, coordinar las acciones para la prevención y atención de desastres naturales, la seguridad y tranquilidad de la ciudadanía e instrumentar el adecuado y permanente flujo vehicular, la seguridad vial y el respeto a los reglamentos gubernamentales administrativos y de policía, así como el que regula el tráfico de automóviles, camiones y demás vehículos de motor en el Municipio, correspondiéndole el despacho de los siguientes asuntos.
+A la Secretaría de Seguridad Pública y Vialidad, le corresponde mantener el orden público, coordinar las acciones para la prevención y atención de desastres naturales, la seguridad y tranquilidad de la ciudadanía e instrumentar el adecuado y permanente flujo vehicular, la seguridad vial y el respeto a los reglamentos gubernamentales administrativos y de policía, así como el que regula el tráfico de automóviles, camiones y demás vehículos de motor en el municipio, correspondiéndole el despacho de los siguientes asuntos.
 
 I.- Vigilar que se respete el orden público.
 
@@ -697,7 +699,9 @@ XX.- Conservar y mantener en condiciones optimas de higiene las celdas municipal
 
 XXI.- Los demás que señalen las Leyes y los Reglamentos vigentes en materia de policía y tránsito, como competencia del Municipio, o le sean atribuidos por el C. Presidente Municipal.
 
-Para el despacho de los asuntos de su competencia, el C. Secretario de Seguridad Pública y Vialidad se auxiliará de las Direcciones: Administrativa; Policía; Prevención al Delito; Tránsito; Academia de Policía; Jurídico; Protección Civil; y Auxiliares.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Para el despacho de los asuntos de su competencia, el C. Secretario de Seguridad Pública y Vialidad se auxiliará de la Subsecretaría de Seguridad Pública y Vialidad y de las Direcciones: Administrativa; Policía; Prevención al Delito; Tránsito; Academia de Policía; Jurídico; Protección Civil; y Auxiliares.
 
 ### CAPÍTULO XIV. CONTRALORÍA MUNICIPAL
 
@@ -1126,3 +1130,9 @@ ING. JESÚS RODRIGO GARCÍA VILLARREAL
 Secretario Del R. Ayuntamiento
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
