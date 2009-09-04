@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-bienes-y-servicios-del-municipio-de-tijuana-24553
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-08"
-last_updated: "2002-03-08"
+last_updated: "2009-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE BIENES Y SERVICIOS DEL MUNICIPIO DE TIJUANA BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de marzo de 2002.
 
@@ -51,13 +51,19 @@ Por lo anteriormente expuesto, y con fundamento en los artículos 115 de la Cons
 
 REGLAMENTO DE BIENES Y SERVICIOS DEL MUNICIPIO DE TIJUANA BAJA CALIFORNIA
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+## TÍTULO PRIMERO. Disposiciones Generales
+
 ### Capitulo Primero
 
 Naturaleza Jurídica y Sujetos Obligados.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de interés público y tiene por objeto regular el manejo, administración, régimen y disposición de los bienes municipales así como la concesión de servicios públicos municipales, o parte de ellos.
+El presente Reglamento es de interés público y tiene por objeto regular el manejo, administración, régimen, el aprovechamiento y disposición de los bienes municipales así como la concesión de servicios públicos municipales, o parte de ellos.
 
 ###### Artículo 2.
 
@@ -85,17 +91,19 @@ Todas las dependencias de la Administración Pública Municipal centralizada y d
 
 Las entidades paramunicipales, llevarán sus propios controles, registros y manuales y sus titulares responderán por el buen uso y manejo de sus bienes. Las competencias y obligaciones que este Reglamento atribuye a la Oficialía Mayor en el caso de la administración pública centralizada, serán también atribuidas a los titulares de las entidades paramunicipales por lo que a su patrimonio se refiere.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 7.
 
 Conforme al capitulo primero del presente Reglamento, las dependencias y entidades deberán llevar cuatro inventarios conforme a lo siguiente:
 
-I.- Inventario de bienes muebles del dominio público.
+Inventario de bienes muebles del dominio público.
 
-II.- Inventario de bienes muebles del dominio privado.
+Inventario de bienes muebles del dominio privado.
 
-III.- Inventario de bienes inmuebles del dominio público.
+Inventario de bienes inmuebles del dominio público.
 
-IV.- Inventario de bienes inmuebles del dominio privado.
+Inventario de bienes inmuebles del dominio privado.
 
 Los bienes o derechos intangibles, se registrarán en los inventarios de bienes muebles según sea el caso.
 
@@ -107,13 +115,17 @@ Las dependencias y entidades paramunicipales estarán obligadas a actualizar per
 
 La adquisición de bienes municipales se hará conforme al reglamento respectivo. Los bienes municipales que deban donar los fraccionadores por el desarrollo de suelo, serán tramitados conforme al reglamento de la materia.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 10.
 
-Adquirido un bien a favor del Municipio, la oficialía Mayor hará la asignación del mismo a la dependencia o área del gobierno que corresponda, señalando el régimen de dominio público o privado en el que lo haya registrado a efecto de que las propias dependencias registren en sus propios inventarios como corresponda.
+Adquirido un bien a favor del Municipio, la oficialía Mayor hará la asignación del mismo a la dependencia o área del gobierno que corresponda, señalando el régimen de dominio público o privado en el que lo haya registrado a efecto de que las dependencias los registren en sus propios inventarios como corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 11.
 
-El registro que haga la Oficialía Mayor del bien de que se trate, como de dominio público o dominio privado se hará observando los artículos 3 y 4 de este Reglamento. Los bienes muebles que tengan un uso interno para efectos administrativos serán de dominio privado. Los vehículos de automotor o de cualquier otra especie al servicio del transporte de cosas o personas, siempre se reputarán por principio como bienes del dominio público.
+El registro que haga la Oficialía Mayor del bien de que se trate, como de dominio público o dominio privado se hará observando los artículos 3 y 4 de este Reglamento. Los bienes muebles que tengan un uso interno para efectos administrativos serán de dominio privado. Los vehículos de automotor o de cualquier otra especie al servicio del transporte de cosas o personas, siempre se reputarán por principio como bienes muebles del dominio público.
 
 Los bienes inmuebles que se utilizan como vialidades, banquetas, callejones, parques, jardines, edificios públicos y áreas de equipamiento e infraestructura urbana, se reputan como bienes del dominio público por ministerio del presente Reglamento sin que sea necesario el trámite para declararlos como tales a que se refiere el artículo 13 del presente ordenamiento.
 
@@ -165,9 +177,9 @@ CONTENIDO DEL EXPEDIENTE TÉCNICO:
 
 6. Deslinde topográfico certificado del inmueble a desincorporar, emitido por la Dirección Administración (sic) Urbana.
 
-7. oficios expedidos por la comisión federal de electricidad y comisión estatal de servicios públicos acreditando qué no cuenta con ningún tipo de uso sobre el bien inmueble que implique la instalación de cables vías y o tuberías etc.
+7- oficios expedidos por la comisión federal de electricidad y comisión estatal de servicios públicos acreditando qué no cuenta con ningún tipo de uso sobre el bien inmueble que implique la instalación de cables vías y o tuberías etc.
 
-8. cuando el particular solicitante se encuentre constituido como persona moral, deberá acreditar su personalidad a través de poder general expedido por notario publico.
+8.- cuando el particular solicitante se encuentre constituido como persona moral, deberá acreditar su personalidad a través de poder general expedido por notario publico
 
 Para la enajenación de los bienes una vez autorizada, se procederá conforme lo siguiente:
 
@@ -175,9 +187,9 @@ Para la enajenación de los bienes una vez autorizada, se procederá conforme lo
 
 I.- El Tesorero o funcionario equivalente procederá en subasta pública si el valor de los bienes muebles dictaminado por peritos en la materia excede de 2000 salarios mínimos vigentes en la entidad.
 
-II.- Si el valor de la enajenación es menor al rango citado en la fracción anterior se podrá hacer la venta directa mediante invitación a tres postores que no tengan relación familiar con ningún miembro del ayuntamiento ni de los funcionarios públicos de primer segundo y tercer nivel, debiendo autorizarse la venta por el Tesorero, el Oficial Mayor y el Síndico Municipal.
+II.- Si el valor de la enajenación es menor al rango citado en la fracción anterior se podrá hacer la venta directa mediante invitación a tres postores que no tengan relación familiar con ningún miembro del ayuntamiento ni de los funcionarios públicos de primer segundo y tercer nivel, debiendo autorizarse la venta por el Tesorero, el Oficial Mayor y el Sindico Municipal.
 
-III.- Tratándose de bienes inmuebles la venta se hará a petición de parte interesada o por subasta pública sea cual fuere su valor, salvo el caso de colindantes o los causantes en la adquisición de un bien inmueble respecto del ayuntamiento, quienes tendrán preferencia si pagan el avaluó fijado por peritos. Igual derecho de preferencia tendrán las personas colindantes cuando se trate de alineación de calles, callejones, banquetas y similares. Si varias personas se encuentran en esta situación se le venderá al que de entre ellos presente la mejor postura.
+III.- Tratándose de bienes inmuebles la venta se hará a petición de parte interesada o por subasta pública sea cual fuere su valor, salvo el caso de colindantes o los causantes en la adquisición de un bien inmueble respecto del ayuntamiento, quienes tendrán preferencia si pagan el avaluó fijado por peritos igual derecho de preferencia tendrán las personas colindantes cuando se trate de alineación de calles, callejones, banquetas y similares. Si varias personas se encuentran en esta situación se le venderá al que de entre ellos presente la mejor postura.
 
 Para la subasta pública de bienes inmuebles, el tesorero, tramitara la venta conforme a lo siguiente:
 
@@ -197,87 +209,215 @@ De no haber postores en la primera convocatoria que ofrezcan cuando menos la pos
 
 V.- Resuelto el ganador, el Tesorero así lo declarará por escrito y comunicará al ayuntamiento el resultado de la licitación publica para su conocimiento con copia certificada para el interesado. Así mismo informara al Presidente Municipal para que otorguen la escritura correspondiente ante notario de la jurisdicción, dentro de los treinta días siguientes al pago de la postura.
 
-### Capítulo Cuarto
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-De la Concesión de Bienes de Dominio Público.
+## TÍTULO SEGUNDO. De las Concesiones
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ANTES CAPITULO CUARTO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+### Capítulo Primero
+
+De Bienes del Dominio Público.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 16.
 
+A la Administración Pública Municipal corresponde la rectoría sobre los bienes del dominio público, la prestación de los servicios públicos, y la definición de la participación de los particulares en estos rubros mediante la concesión temporal que se otorgue al efecto.
+
 Los bienes del dominio público municipal pueden ser dados en concesión para su explotación o uso particular, o bien como parte de diversa concesión de algún servicio público. En estos casos no será necesaria la desincorporación razón por la cual los bienes concesionados deberán permanecer en el régimen del dominio público.
+
+Se entiende por servicio público aquella actividad atribuida como función municipal en la ley, que tiene por finalidad satisfacer necesidades de interés general, y que pueden ser realizados en forma directa por el Municipio o mediante concesionario, con sujeción a un régimen de Derecho Público o Privado, según corresponda.
+
+Se entiende por concesión, para los efectos de este Reglamento, el acto administrativo en virtud del cual el Ayuntamiento confiere a una persona física o moral el uso, aprovechamiento o explotación de bienes de dominio público, o, en su caso, la prestación de un servicio público, con sujeción a las disposiciones de este reglamento y demás disposiciones legales aplicables, así como conforme a la declaratoria de necesidad y al título de concesión que al efecto se emita.
+
+Este Reglamento se aplicará de manera supletoria a los diversos ordenamientos jurídicos que regulen la prestación de los diversos servicios públicos en el Municipio de Tijuana.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 16 BIS.- Las concesiones sobre bienes de dominio público y prestación de servicios públicos, no crean derechos reales, simplemente otorgan frente a la Administración y sin perjuicio de terceros, el derecho de usar los bienes materia de la concesión, aprovecharlos u (sic) explotarlos de conformidad con las reglas y condiciones que se establezcan en los ordenamientos legales aplicables y el Título de concesión respectivo.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 16 TER.- Las concesiones sobre bienes del dominio público y de servicios públicos, serán por tiempo determinado, excepcionalmente su plazo de vigencia será fijado por el Ayuntamiento en forma tal que durante ese lapso el concesionario amortice financieramente el total de las inversiones que deba efectuar y podrá ser prorrogado hasta por un plazo igual al señalado originalmente, previo dictamen de la Dependencia solicitante, dando cumplimiento a las disposiciones administrativas correspondientes y atendiendo tanto para el otorgamiento de la concesión como para la prórroga, en su caso, a cualquiera de los siguientes criterios:
+
+I. El monto de la inversión que el concesionario pretenda destinar;
+
+II. El plazo de amortización de la inversión realizada;
+
+III. El beneficio social y económico que signifique para el Municipio;
+
+IV. La necesidad del servicio que preste;
+
+V. El cumplimiento por parte del concesionario de las obligaciones a su cargo, y
+
+VI. La reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
+
+La prórroga a que se refiere este artículo deberá ser solicitada, en su caso, dentro de los tres primeros meses del último año de vigencia de la concesión.
+
+Al término del plazo de la concesión, o de la última prórroga que en su caso se hubiere concedido, las obras e instalaciones adheridas de manera permanente al inmueble concesionado pasarán a formar parte del patrimonio del Municipio de Tijuana.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 17.
 
 Para dar en concesión un bien inmueble del dominio público se estará a lo siguiente:
 
-I.- Se requerirá de la autorización del ayuntamiento. Si la concesión excede del termino del periodo gubernamental del ayuntamiento que se trate, el acuerdo que la autorice debe tomarse con el voto favorable de cuando menos las dos terceras partes de los miembros del cabildo. Para la explotación de un bien del dominio privado tan solo se requerirá de la aprobación de la mayoría de los miembros del Cabildo.
+Si la concesión excede del término del periodo constitucional del Ayuntamiento, el acuerdo que la autorice debe tomarse con el voto favorable de cuando menos las dos terceras partes de los miembros del cabildo.
 
-II.- Cuando la concesión sea promovida por el ayuntamiento se hará mediante licitación pública aplicando en lo conducente las normas relativas a la enajenación de bienes. Cuando la concesión sea a solicitud de parte interesada y el ayuntamiento apruebe darle curso, la Tesorería hará del conocimiento, del público general mediante publicación en el órgano oficial de difusión y en uno de los de mayor circulación, emplazando por un término no menor de 30 y no mayor de 90 días naturales a las personas que pudieran también interesarse y realizar mejor oferta.
+Para la explotación o afectación de un bien propiedad municipal, el Ayuntamiento deberá aprobar la autorización correspondiente con el voto favorable de las dos terceras partes de los integrantes del Cabildo.
 
-III.- Si la concesión de un bien inmueble resulta necesaria para la concesión de un servicio público conforme al capitulo siguiente, se aplicarán las reglas relativas al citado capítulo y a las especificas del servicio público a concesionar conforme a su propio reglamento en lo que no se opongan al presente.
+Cuando la concesión sea promovida por el Ayuntamiento se hará mediante licitación pública conforme al siguiente procedimiento:
 
-IV.- El contrato administrativo en el que se otorgue la concesión deberá contener las cláusulas necesarias que garanticen al ayuntamiento, el término, la calidad, seguridad y buen uso del bien concesionado así como el procedimiento de remunicipalizacion o terminación del Bien de manera anticipada.
+a) Se constituirá un Comité Técnico conformado por el Administrador Municipal, el Tesorero, el Síndico, el Titular del Área involucrada y un Regidor designado expresamente por el Cabildo; de acuerdo con la materia de la concesión; órgano que autorizará las bases y la emisión de la responsable de llevar a cabo el proceso de licitación respectivo, teniendo ésta última el carácter de autoridad convocante.
 
-Si el ganador de la licitación no estuviera de acuerdo con el contrato administrativo que el ayuntamiento autorice como definitivo, en un periodo máximo de quince días hábiles a partir de su aprobación, se desestimará al ganador y se ofrecerá al segundo y hasta tercer lugar respectivamente. En su defecto se declarará desierta la licitación.
+b) Las convocatorias para la licitación pública de concesiones deberán indicar:
 
-El contenido de la presente fracción, deberá aparecer de manera expresa en la convocatoria respectiva y la participación en el concurso produce el efecto de su expresa aceptación por parte de los concursantes.
+I. Nombre de la autoridad convocante;
 
-### Capitulo Quinto
+II. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones que regirán la licitación y el costo de dichas bases;
 
-De lo (sic) Servicios Públicos.
+III. El objeto de la convocatoria;
+
+IV. Las características generales del bien o servicio a concesionar;
+
+V. La modalidad de la concesión;
+
+VI. Fecha, hora y lugar de celebración del acto de presentación y apertura de propuestas presentadas en el sobre cerrado para obtener el Título de concesión;
+
+VI (SIC). Los requisitos adicionales que considere pertinentes la autoridad convocante.
+
+c) Las bases y especificaciones de las licitaciones públicas para el otorgamiento de concesiones contendrán como mínimo lo siguiente:
+
+I. Nombre de la Dependencia responsable de la licitación;
+
+II. Poderes que deberán acreditarse; fecha, hora y lugar de la junta de aclaraciones a las bases de licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; la fecha, hora y lugar para la presentación y apertura de las propuestas y comunicación del fallo;
+
+III. Señalamiento de que será causa de descalificación, el incumplimiento de alguno de los requisitos establecidos en las bases de licitación;
+
+IV. El criterio o criterios de selección de las etapas técnica y económica;
+
+V. Las características técnicas mínimas del servicio público a prestar, o, en su caso, la descripción del bien a concesionar;
+
+VI. Descripción completa del proyecto técnico que debe satisfacerse por el concesionario en caso de que la concesión tenga como modalidad la realización de obras; y en el caso de servicios públicos, las especificaciones mínimas que deberá cumplir la propuesta;
+
+VII. Propuesta de tarifa para la prestación de un servicio y las contraprestaciones relacionadas con la concesión de un bien;
+
+VIII. Propuesta del plazo de la concesión;
+
+IX. El proyecto, soportes financieros y la información necesaria para evaluar la propuesta, así como la información financiera y económica que la Dependencia responsable considere necesaria para evaluar la consistencia de las propuestas;
+
+X. Capital mínimo requerido por la autoridad;
+
+XI. Las contraprestaciones ofrecidas por el otorgamiento de la concesión, sin perjuicio de lo que establezca la Ley de Ingresos;
+
+XII. La aportación de capital mínimo que en su caso se requiera, la cual no podrá ser inferior del 30% del monto de la inversión a realizar, y
+
+XIII. Las demás que considere pertinentes la convocante de acuerdo con la naturaleza de los servicios o las características del bien a concesionar.
+
+Los participantes en las licitaciones públicas deberán garantizar su solvencia y acreditar su capacidad jurídica, técnica, administrativa y financiera, además de satisfacer los requisitos previstos en las bases de licitación pública. Las concesiones sólo podrán otorgarse a personas físicas o morales de nacionalidad mexicana.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 17 BIS.- El procedimiento de licitación se llevará a cabo en dos etapas conforme a lo siguiente:
+
+I. En la primera etapa, los participantes entregarán sus propuestas técnicas y económicas en dos sobres cerrados en forma inviolable y por separado; se procederá a la apertura de la propuesta técnica exclusivamente y se desecharán y serán devueltas las que hubieran omitido alguno de los requisitos exigidos en las bases;
+
+II. Los participantes rubricarán todas las propuestas técnicas presentadas. Los sobres que contengas las ofertas económicas serán firmados por los licitantes y los servidores públicos de la Dependencia responsable de la licitación, quedando en custodia de ésta las propuestas aceptadas, quien informará la fecha, lugar y hora en que se llevará a cabo la segunda etapa;
+
+III. En la evaluación técnica se considerará la factibilidad técnica de la postura, su factibilidad para ser utilizada comercialmente y los costos de inversión, operación y mantenimiento relacionados con cada una de las alternativas tecnológicas que se presenten;
+
+IV. La evaluación técnica deberá desechar a aquellas posturas técnicas que no sean factibles, y viables, o que comercialmente no sean convenientes a juicio de la Dependencia responsable por representar algún riesgo para los usuarios. El criterio de selección de posturas técnicas en esta etapa estará en función del menor costo de vida del proyecto, el cual incluirá los costos de inversión, operación y mantenimiento inherentes a las tecnologías propuestas;
+
+V. En la fecha establecida se emitirá el fallo técnico donde se señalen los participantes que cumplieron con la evaluación técnica y los que fueron eliminados, levantándose el acta correspondiente;
+
+VI. En la segunda etapa, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieran sido desechadas en la primera etapa o en la evaluación de las mismas, y se dará lectura en voz alta a las propuestas contenidas en los documentos presentados por los licitantes;
+
+VII. La evaluación económica deberá considerar la viabilidad financiera de la propuesta, así como la consistencia de la información presentada. Las posturas que no cumplan con estos requisitos serán desechadas; y
+
+VIII. La concesión de un servicio público se adjudicará a la persona que, dentro de los licitantes, presente la proposición de menor costo a los usuarios. En los casos de concesiones de bienes del dominio público Municipal, la concesión se adjudicará a la persona que de entre los licitantes, reúna las condiciones económicas requeridas por las bases de licitación y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+
+La proposición ganadora estará a disposición de los participantes durante diez días hábiles a partir de que se haya pronunciado el fallo, para que manifiesten lo que a su derecho convenga.
+
+Cuando la concesión sea a solicitud de parte interesada y el ayuntamiento apruebe darle curso, la Tesorería hará del conocimiento, del público general mediante publicación en el órgano oficial de difusión y en uno de los periódicos de mayor circulación municipal, emplazando por un término no menor de 30 y no mayor de 90 días naturales a las personas que pudieran también interesarse.
+
+Si como consecuencia de la publicación a que se refiere el párrafo que antecede, se apersonare ante el Municipio más interesados al otorgamiento de la concesión de que se trate, se dará inicio al proceso de licitación contenido en este Capitulo.
+
+Si la concesión de un bien inmueble resulta necesaria para la concesión de un servicio público, se aplicarán las reglas previstas en este capítulo y las especificas del servicio público a concesionar conforme a su propio reglamento en lo que no se opongan al presente.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 17 TER.- El título de concesión para la explotación de bienes de dominio público o para la prestación de un servicio público, deberá contener, cuando menos, los siguientes requisitos:
+
+I. Nombre y domicilio del concesionario;
+
+II. Objeto de la concesión:
+
+a) En el caso de concesiones de bienes de dominio público debe señalarse la ubicación topográfica del bien objeto de la concesión y las características físicas del bien, así como la ubicación y descripción de las obras, y
+
+b) En el caso de concesiones para la prestación de servicios públicos, la determinación de la forma y las condiciones en que éstos se llevarán a cabo;
+
+III. Los mecanismos para fijar y modificar las tarifas correspondientes en las concesiones de servicio público;
+
+IV. Prohibición de variar las condiciones de la concesión sin la previa autorización de la Dependencia solicitante;
+
+V. Prohibición de gravar o transferir la concesión sin la previa autorización del Ayuntamiento;
+
+VI. Duración de la concesión;
+
+VII. Condiciones de entrega a la autoridad competente de los bienes o servicios sujetos a concesión;
+
+VIII. Causas de revocación y de caducidad de la concesión, y
+
+IX. Los seguros y fianzas de concurso y desempeño que, en su caso, sea necesario contratar.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 17 QUATER.- Los participantes inconformes con el otorgamiento de la concesión podrán promover el recurso previsto en el Reglamento de Justicia Municipal o acudir en juicio ante el Tribunal de lo Contencioso Administrativo del Estado de Baja California.
+
+En caso de que los participantes inconformes interporgan algún recurso o medio de defensa legal en contra de la resolución por la que otorgue una concesión, sólo procederá la suspensión de la adjudicación correspondiente siempre que así lo solicite por escrito el recurrente y que garantice mediante fianza los daños y perjuicios que pudieran ocasionarse al Municipio o a terceros, cuyo monto será fijado por la autoridad que conozca del medio de defensa respectivo, cuyo monto nunca será inferior al 20% ni superior al 50% del valor de la propuesta ganadora del proceso de licitación que se este impugnando.
+
+Sin embargo, el tercero perjudicado dentro del proceso antes referido, podrá otorgar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efectos la suspensión.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+### Capítulo Segundo
+
+De los Servicios Públicos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 18.
 
-Se entiende por servicio publico aquella actividad de derecho publico atribuida como función municipal en la ley, que tiene por finalidad proporcionar un bien o servicio a la ciudadanía, así como aquellos servicios necesarios para que las funciones de derecho publico municipal puedan ser ejercidas.
+Los servicios municipales se prestaran conforme a los reglamentos de la materia específica y podrán ser concesionados salvo los que tengan que ver con un ejercicio directo de autoridad. El ejercicio de autoridad no es materia de concesión a particulares.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 19.
 
-Los servicios municipales se prestaran conforme a los reglamentos de la materia especifica y podrán ser concesionados salvo los que tengan que ver con un ejercicio directo de autoridad. El ejercicio de autoridad no es concecionable (sic) a los particulares.
+Para concesionar un servicio público, se requiere de la declaración previa del ayuntamiento de encontrarse imposibilitado para prestar el servicio o la razón fundada y acreditada de que es conveniente para el municipio dar en concesión determinado servicio. Para que el ayuntamiento emita la declaración a que se refiere el presente artículo, deberá acreditar plenamente y de manera razonable el estado de imposibilidad o conveniencia de que se trate, justificando las razones de tipo económico, técnico, social y legal.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 20.
 
-Para concesionar un servicio publico, se requiere de la declaración previa del ayuntamiento de encontrarse imposibilitado para prestar el servicio o la razón fundada y acreditada de que es conveniente para el municipio dar en concesión determinado servicio. Para que el ayuntamiento emita la declaración a que se refiere el presente artículo, deberá acreditar plenamente y de manera razonable el estado de imposibilidad o conveniencia de que se trate, justificando las razones de tipo económico, técnico, social y legal.
+Realizada la declaración por el ayuntamiento a que se refiere el articulo anterior o la publicación de que un particular desea un concesión de servicio publico determinado, se procederá a realizar la concesión mediante licitación publica, conforme el procedimiento establecido en el artículo 17 de este Reglamento, así como las siguientes disposiciones:
 
-Cuando la concesión sea a solicitud de parte interesada y el ayuntamiento apruebe darle curso, en un término no menor de 30 y no mayor de 90 días naturales la tesorería hará del conocimiento del público general mediante publicación en el órgano oficial de difusión y en uno de los de mayor circulación, notificando a las personas que pudieran también interesarse y realizar mejor oferta.
+I.- La convocatoria deberá especificar si se trata de licitación estatal, nacional o Internacional y si involucra el uso, aprovechamiento o explotación de Bienes Municipales.
+
+II.- Cuando el servicio sea altamente especializado, el Ayuntamiento podrá determinar que la licitación sea por invitación restringida a un máximo de tres participantes.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+### Capítulo Tercero. De la Revocación de las Concesiones
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 21.
 
-Realizada la declaración por el ayuntamiento a que se refiere el articulo anterior o la publicación de que un particular desea una concesión de servicio publico determinado, se procederá a realizar la concesión mediante licitación publica, conforme las siguientes bases:
+El título de concesión deberá precisar la dependencia que será la autoridad reguladora de la concesión y contener las condiciones particulares que garanticen al ayuntamiento, el término, la calidad, seguridad y el procedimiento, así como causas de revocación y remunicipalización del servicio de manera anticipada.
 
-I.- Se lanzará convocatoria publica especificando el servicio que se concesiona con todos los datos y elementos técnicos necesarios para que los particulares presenten sus propuestas. La convocatoria deberá especificar si se trata de licitación estatal, nacional o Internacional y si involucra el uso, aprovechamiento o explotación de Bienes Municipales.
-
-II.- Las bases del concurso deberán estar disponibles de manera impresa y digital, de tal forma que sean accesibles y su costo se especificara en la convocatoria.
-
-III.- En el acuerdo de Cabildo a que refiere el artículo 20, el ayuntamiento podrá determinar que la licitación sea por invitación restringida a un mínimo de tres participantes, cuando el servicio sea altamente especializado.
-
-IV.- Cuando se concesionen bienes y servicios mediante licitación pública, la convocatoria deberá reunir los siguientes requisitos:
-
-a) Mención de que convoca un Comité integrado por el Tesorero, el Síndico, el titular del Área involucrada y cuatro regidores designados expresamente por el Cabildo para la convocatoria especifica.
-
-b) Número de licitación.
-
-c) La indicación del lugar, fecha y horario en que los interesados podrán obtener las bases, requisitos y especificaciones técnicas del bien o servicio y en su caso el costo y forma de pago para adquirirla.
-
-d) La descripción general de especificaciones técnicas y características de los bienes y/o servicios que se ofrecen en concesión y en su caso, fecha de inicio y terminación del servicio.
-
-e) Lugar y plazo de entrega de propuestas.
-
-f) La fecha, hora y lugar de celebración del acto de presentación y apertura de sobres con propuestas.
-
-g) Fecha en la cual se dará a conocer el fallo.
-
-V.- La convocatoria deberá publicarse en dos de los diarios de mayor circulación en el estado, o nacionales en su caso, indicando a los interesados que las propuestas se recibirán en sobre cerrado y que serán abiertos públicamente ante la presencia de los concursantes presentes y de los integrantes del Comité, de los que será seleccionado el que reúna las mejores condiciones en cuanto a calidad, garantía, confiabilidad, precio, financiamiento, tiempo de entrega y seriedad del concursante tomando como base sus antecedentes industriales, capacidad técnica, comerciales y financieros. Las condiciones de costo o ganancia no determinan al ganador, salvo cuando dos o más concursantes reúnan las mismas calidades a juicio del Comité.
-
-Previo al día de fallo y antes de abrir los sobres cerrados, el comité dará a conocer públicamente el método de calificación de propuestas.
-
-VI.- La persona física o moral ganadora del concurso deberá otorgar a satisfacción del Ayuntamiento, fianza que garantice el cumplimiento de sus obligaciones en razón de la concesión.
-
-Cuando la fianza otorgada sea expedida por compañía afianzadora, solamente se aceptarán aquellas en que la afianzadora cuente con agente autorizado domiciliado en la ciudad de Tijuana, Baja California que y con la leyenda de que renuncia al fuero de su domicilio y vecindad, sometiéndose a las autoridades judiciales y fiscales del Estado; debiendo estar avalado por Procuraduría Federal del Consumidor, el monto de operación y de la póliza deberán ser mayores al importe de la valía por la que se expide la fianza.
-
-###### Artículo 22.
-
-El contrato administrativo en el que se otorgue la concesión deberá precisar que dependencia será la autoridad reguladora de la concesión y contener las cláusulas necesarias particulares que garanticen al ayuntamiento, el término, la calidad, seguridad y el procedimiento, así como causas de revocación y remunicipalización del servicio de manera anticipada.
-
-En todo caso, la revocación se sujetara a las siguientes reglas generales:
+El procedimiento de revocación se sujetara a las siguientes reglas generales:
 
 I.- Se notificará al concesionario en su domicilio sobre el inicio de revisión de la situación general de la concesión sobre cualquier aspecto, técnico, operativo, financiero o cualquier especie.
 
@@ -293,27 +433,39 @@ El concesionario podrá impugnar la resolución en los términos del Reglamento 
 
 V.- La autoridad municipal podrá declarar la intervención de plano de la concesión y el concesionario estará obligado a entregar la administración y operación de la misma de manera precautoria, mediante acuerdo que funde y motive las razones de la intervención, con base en que la prestación del servicio sea deficiente, se corra el peligro de un daño patrimonial al municipio o de la población, se atente contra la seguridad pública, el medio ambiente o la salud de la comunidad.
 
-###### Artículo 23.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-Si el ganador de la licitación no estuviera de acuerdo con el contrato administrativo que el ayuntamiento autorice como definitivo, en un periodo máximo de quince días hábiles a partir de su aprobación, se desestimará al ganador y se ofrecerá al segundo y hasta tercer lugar respectivamente. En su defecto se declarará desierta la licitación.
+###### Artículo 22.
 
-###### Artículo 24.
+Si el ganador de la licitación no estuviera de acuerdo con el título de concesión que el ayuntamiento otorgue, dispondrá de un periodo máximo de quince días hábiles a partir de su aprobación, para inconformarse. En caso que deje de manifestar oposición, se desestimará su otorgamiento y se ofrecerá al segundo y hasta tercer lugar respectivamente. En su defecto el Ayuntamiento declarará desierta la licitación.
 
-Las reglas expresadas en los artículos 22 y 23 del presente reglamento deberán aparecer de manera expresa en la convocatoria respectiva y la participación en el concurso, produce el efecto de su expresa aceptación por parte de los concursantes.
-
-###### Artículo 25.
-
-En lo no previsto por el presente reglamento, se aplicará en lo conducente el reglamento de adquisiciones municipales.
+(REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)
 
 Previsiones Generales
 
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 23.
+
+Con el objeto de dar transparencia en la administración y enajenación de bienes, el síndico municipal emitirá las normas técnicas y administrativas necesarias para el mejor control y curso de los trámites que se señalan en el presente ordenamiento.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 24.
+
+En todo lo previsto en lo relacionado con la venta y enajenación de bienes municipales, se aplicarán supletoriamente las reglas del derecho común para las subastas judiciales.
+
+###### Artículo 25.
+
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2009)
+
 ###### Artículo 26.
 
-Con el objeto de dar mayor transparencia en la administración y enajenación de bienes, el sindico municipal emitirá la norma técnica administrativas necesarias para el mejor control y curso de los trámites que se señalan en el presente ordenamiento.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 27.
 
-En todo lo no previsto en lo relacionado con la venta y enajenación de bienes municipales, se aplicarán supletoriamente las reglas del derecho común para las subastas judiciales.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2009)
 
 ## Artículos Transitorios
 
@@ -322,3 +474,13 @@ Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente d
 Artículo Segundo.- Se deroga cualquier disposición que se oponga al presente Reglamento.
 
 Artículo Tercero.- Los trámites de concesión o enajenación que se hayan iniciado conforme a la legislación anterior a la aprobación del presente reglamento, se concluirán conforme a tales disposiciones, salvo el requisito de obtener la autorización del Congreso del Estado misma que será sustituida por el requisito de la autorización y ratificación del Ayuntamiento, mediante la aprobación de las dos terceras partes de sus integrantes en sesión de Cabildo.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2009.
+
+Primero.- Las reformas y modificaciones realizadas al presente reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, Órgano de difusión oficial, para efectos de su difusión exclusivamente, publíquese en un diario de los de mayor circulación del Municipio.
+
+Segundo.- Se reforman los artículos 16, 17, 18, 19, 20, 21, 22, 23, 24 y se derogan los artículos 25, 26 y 27 del Reglamento de Bienes y Servicios del Municipio de Tijuana, así como cualquier disposición que se oponga al presente Reglamento.
+
+Tercero.- Los trámites de concesión o enajenación que se hayan iniciado conforme a la legislación vigente a la aprobación de las reformas y modificaciones al reglamento, se concluirán conforme a tales disposiciones.
