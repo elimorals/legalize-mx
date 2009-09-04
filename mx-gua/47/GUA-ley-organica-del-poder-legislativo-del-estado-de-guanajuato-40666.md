@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-406
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-08-13"
-last_updated: "2007-10-12"
+last_updated: "2009-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -85,27 +85,37 @@ Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobr
 
 ### Capítulo Primero. De la Entrega Recepción
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 10.
 
-En el año de la elección para la renovación del Congreso del Estado, la Diputación Permanente deberá integrar un expediente que entregará a más tardar el 22 de septiembre al Comité de Transición a que refiere la fracción I del artículo 50 de la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato que contendrá, por lo menos:
+A más tardar el 21 de septiembre se integrará el Comité de Transición de conformidad con lo establecido por la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato.
 
-a) El Diario de los Debates y las actas levantadas con motivo de las sesiones del Pleno y de la Diputación Permanente;
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-b) Las minutas levantadas con motivo de las reuniones de las diversas comisiones ordinarias y en su caso las especiales;
+Artículo 10 bis.- La Diputación Permanente deberá integrar un expediente que entregará a más tardar el 22 de septiembre al Comité de Transición que contendrá, por lo menos:
 
-c) La relación de las iniciativas y asuntos en trámite, así como el estado que guardan cada uno y la Comisión que los atienda;
+I. El Diario de los Debates y las actas levantadas con motivo de las sesiones del Pleno, de la Diputación Permanente y de la Mesa Directiva;
 
-d) La documentación relativa a la situación financiera y contable del Congreso, así como la información vinculada con ella;
+II. Las minutas levantadas con motivo de las reuniones de las diversas comisiones permanentes y, en su caso, las especiales;
 
-e) La documentación relativa a las cuentas y deudas públicas del Estado, de los ayuntamientos y demás organismos estatales o municipales;
+III. La relación de las iniciativas y asuntos en trámite, así como el estado que guardan cada uno y la comisión que los atienda;
 
-f) La plantilla y los expedientes del personal al servicio del Congreso;
+IV. La documentación relativa a la situación financiera y contable del Congreso, así como la información vinculada con ella;
 
-g) El inventario, registro, catálogo y resguardo de los bienes muebles e inmuebles del Congreso;
+V. La documentación relativa a las cuentas y deudas públicas del Estado, de los ayuntamientos y demás organismos estatales o municipales;
 
-h) La información relativa a los procesos de fiscalización; y
+VI. La plantilla y los expedientes del personal al servicio del Congreso;
 
-i) La demás información que se estime procedente.
+VII. El inventario, registro, catálogo y resguardo de los bienes muebles e inmuebles del Congreso;
+
+VIII. La información relativa a los procesos de fiscalización; y
+
+IX. La demás información que se estime procedente.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 10 ter.- El Comité de Transición verificará que el expediente contenga la información a que se refiere el artículo anterior y se levantará un acta de entrega-recepción en la que los diputados en funciones, en nombre de la Legislatura saliente, entregarán el expediente respectivo a los diputados electos, quienes lo recibirán en nombre de la Legislatura entrante.
 
 ### Capítulo Segundo. De los Actos Preparatorios de la Instalación
 
@@ -147,9 +157,11 @@ Acto continuo, se procederá a elegir a un segundo vicepresidente, quien ejercer
 
 La elección de la Mesa Directiva se comunicará al Gobernador del Estado, al Presidente del Supremo Tribunal de Justicia, a la Cámara de Diputados del Congreso de la Unión, al Senado de la República, al Presidente de la República, al Presidente de la Suprema Corte de Justicia de la Nación, a los órganos legislativos de los Estados y del Distrito Federal, y a los Ayuntamientos del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 14.
 
-El día 25 de septiembre a las 12:00 doce horas, la Mesa Directiva electa conducirá la Sesión de Instalación y Apertura del Primer Periodo Ordinario de Sesiones del Primer Año de Ejercicio Constitucional de la Legislatura.
+El día 25 de septiembre la Mesa Directiva electa dirigirá la sesión de Instalación y Apertura del Primer Periodo Ordinario de Sesiones del Primer Año de Ejercicio Constitucional de la legislatura la cual iniciará a las 00:01 horas.
 
 El Presidente de la Mesa Directiva ordenará la comprobación del quórum, y el Secretario procederá a comprobarlo a efecto de celebrar la sesión. Declarado éste, el Presidente abrirá la sesión, misma que se ceñirá a los siguientes puntos:
 
@@ -203,7 +215,7 @@ Los diputados asistirán con voz y voto a las sesiones del Pleno del Congreso. L
 
 Se entiende que los diputados que falten a más de tres sesiones consecutivas, sin causa justificada o sin previo aviso a la presidencia, renuncian a concurrir a sesiones hasta el periodo inmediato siguiente, llamándose desde luego a los suplentes. Los diputados solamente podrán dejar de concurrir a las sesiones y reuniones de Comisión, por causas justificadas en los términos de esta Ley.
 
-Los diputados asistirán a las comisiones que integren, debiendo permanecer desde el principio hasta su conclusión.
+> <small>(DEROGADO TERCER PARRAFO [N. DE E. CUARTO PARRAFO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 Los diputados que no formen parte de la Diputación Permanente podrán asistir a la sesión, así como a las comisiones de las que no sean miembros, con voz pero sin voto.
 
@@ -215,17 +227,33 @@ Se justificará la ausencia de un diputado, cuando previamente a la sesión a la
 
 Tratándose de las Comisiones, las ausencias de los diputados se justificarán por el Presidente de la Comisión que corresponda, aplicando lo dispuesto en el párrafo anterior.
 
-Para efecto de las sanciones por inasistencia al Pleno o a Comisión, el diputado contará con un término de tres días para justificar su inasistencia, contados a partir de la celebración de la sesión o reunión.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Para efecto de las sanciones por inasistencia al Pleno, a la Diputación Permanente o a Comisión, el diputado contará con un término de tres días hábiles para justificar su inasistencia, contados a partir de la celebración de la sesión o reunión.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+El Secretario General informará por escrito al Presidente del Órgano Legislativo de que se trate, previamente al inicio de la sesión o reunión correspondiente, de la imposibilidad de algún diputado para asistir a la misma, siempre que la inasistencia se origine porque el diputado esté desempeñando una función propia de su encargo. El Secretario General remitirá además la documentación relativa a la encomienda que se encuentre desempeñando el diputado. En este supuesto la inasistencia será justificada.
 
 ###### Artículo 20.
 
 Los diputados en funciones tendrán el derecho a percibir la dieta que se determine en la Ley del Presupuesto General de Egresos del Estado de Guanajuato, misma que establecerá los recursos necesarios para cumplir con sus obligaciones.
 
-Asimismo, los diputados tendrán derecho a que se les sufraguen los gastos médicos por enfermedad de ellos mismos, de su cónyuge, concubina o concubinario, e hijos dependientes económicamente, conforme a las previsiones que se contengan en la Ley del Presupuesto General de Egresos del Estado y de acuerdo a las disposiciones que emita la Comisión de Administración.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Asimismo, los diputados tendrán derecho a que se les sufraguen los gastos médicos por enfermedad de ellos mismos, de su cónyuge, concubina o concubinario, los hijos o ascendientes que dependan económicamente de los diputados, conforme a las previsiones que se contengan en la Ley del Presupuesto General de Egresos del Estado de Guanajuato y de acuerdo a las disposiciones que emita la Comisión de Administración.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+De forma excepcional, atendiendo a circunstancias médicas especificas y previo acuerdo de la Junta de Gobierno y Coordinación Política, se sufragarán los gastos médicos, exclusivamente de los diputados, aun y cuando hubiesen concluido el periodo para el cual fueron electos.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 21.
 
-Los diputados deberán permanecer en las sesiones del Congreso, de la Diputación Permanente y en las reuniones de comisiones de que formen parte hasta su conclusión. Se considerará como falta injustificada, cuando un diputado abandone definitivamente la sesión o la reunión de la Comisión, sin permiso de la presidencia.
+Los diputados deberán permanecer en las sesiones del Congreso, de la Diputación Permanente y en las reuniones de comisiones de que formen parte hasta su conclusión. Se considerará como inasistencia, cuando un diputado abandone definitivamente la sesión o la reunión de la Comisión, sin permiso de la presidencia.
+
+Para los efectos del párrafo anterior, el secretario del órgano legislativo correspondiente levantará la certificación cuando el diputado hubiere abandonado la sesión o la reunión de la Comisión sin contar con el permiso de la presidencia.
 
 ###### Artículo 22.
 
@@ -243,9 +271,11 @@ Los diputados deberán abstenerse de invocar o hacer uso de su condición de par
 
 Los diputados deberán observar en todo momento las normas sobre incompatibilidades, establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y las leyes que de ellas emanen. El diputado que se encuentre en el supuesto de incompatibilidad tendrá quince días para optar entre la diputación y el cargo incompatible. Si no ejerciera la opción en el plazo señalado, se entenderá que pide licencia por tiempo indefinido a su función legislativa.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 26.
 
-Los diputados deberán abstenerse de desempeñar algún otro empleo, cargo o comisión públicos por el que se disfrute de sueldo, sin obtener previamente licencia del Pleno o de la Diputación Permanente, en su caso. En tanto se encuentren desempeñando dicho cargo, empleo o comisión públicos cesarán en su función representativa. La infracción de esta disposición será castigada con la pérdida del carácter de diputado. Se exceptúan los cargos o empleos docentes.
+Los diputados deberán abstenerse de desempeñar algún otro empleo, cargo o comisión públicos por el que se disfrute de sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero. En tanto se encuentren desempeñando dicho cargo, empleo o comisión públicos cesarán en su función representativa. La infracción de esta disposición será castigada con la pérdida del carácter de diputado. Se exceptúan los cargos o empleos docentes.
 
 ###### Artículo 27.
 
@@ -347,15 +377,39 @@ La disminución de la dieta en los supuestos de las fracciones I y II del artíc
 
 La disminución de dieta en los supuestos de las fracciones III y IV del artículo anterior, será de cinco días y de un día de dieta, respectivamente.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Para los efectos conducentes, por día de dieta se entenderá un día de la dieta total integrada mensual del diputado.
+
 Las sanciones contempladas en las fracciones I a III del artículo anterior serán aplicadas por la Mesa Directiva y ejecutadas por el Presidente, el que dará cuenta al Congreso o a la Diputación Permanente; la sanción contemplada en la fracción IV será aplicada por la Comisión respectiva y ejecutada por su Presidente.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 40.
 
-La sanción prevista en la fracción V del artículo 34 de esta Ley, será decretada por el voto de las dos terceras partes de los diputados asistentes a la sesión de Pleno, a propuesta del Presidente de la Mesa Directiva.
+La sanción prevista en la fracción V del artículo 34 de esta Ley, será decretada por el voto de las dos terceras partes de los diputados presentes en la sesión, a propuesta de la Mesa Directiva.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 41.
 
-El diputado contra quien se solicite la sanción disciplinaria, tendrá derecho de audiencia, para que se le oiga por sí o a través de otro diputado.
+El diputado contra quien se inicie un procedimiento disciplinario tendrá derecho de audiencia.
+
+Para tal efecto, tratándose de las sanciones contempladas en las fracciones IV y V del artículo 34 de esta ley, la mesa directiva o la comisión, según sea el caso, observarán el procedimiento siguiente:
+
+I. El presidente de la mesa directiva o de la comisión, según sea el caso, notificará al diputado el inicio del procedimiento, informándole de la falta que se le imputa;
+
+II. El diputado dentro del término de tres días hábiles manifestará por escrito lo que a su interés convenga y aportar pruebas documentales;
+
+III. El diputado, dentro de los tres días hábiles siguientes al vencimiento del término señalado en la fracción anterior, formulará alegatos por escrito; y
+
+IV. Agotado el término establecido en la fracción anterior, la comisión o la mesa directiva, resolverán en definitiva sobre la aplicación de la sanción tratándose de la disminución de la dieta, instruyendo en su caso, la ejecución de la misma. Tratándose de la remoción de comisiones, la mesa directiva propondrá la resolución correspondiente al Pleno del Congreso.
+
+Las notificaciones que se deban de practicar a los diputados se tendrán por válidamente efectuadas cuando se practiquen en las oficinas de los grupos o de las representaciones parlamentarias de su adscripción en el Congreso del Estado.
+
+Para el procedimiento establecido en este artículo será aplicable de manera supletoria el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+
+Para el efecto de las sanciones contempladas en las fracciones I a III del artículo 34 de esta Ley, el derecho de audiencia se sustanciará de plano por la mesa directiva o la presidencia de la comisión, según corresponda, en la misma sesión o reunión en que se solicita la sanción, concediéndose al diputado en contra de quien se solicita, manifieste por sí o a través de otro diputado lo que a su interés convenga.
 
 ## Título Cuarto. De la Organización del Congreso del Estado
 
@@ -389,7 +443,9 @@ I.- Establecer el calendario de sesiones;
 
 II.- Asegurar el adecuado desarrollo de las sesiones;
 
-III.- Realizar la interpretación de las normas de esta Ley y de los demás ordenamientos relativos a la actividad parlamentaria que se requiera para el cumplimiento de sus atribuciones, así como para la adecuada conducción de las sesiones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Realizar la interpretación de las normas de esta Ley y de los demás ordenamientos relativos a la actividad parlamentaria que se requiera para el cumplimiento de sus atribuciones, así como para la adecuada conducción de las sesiones, proponiendo los acuerdos respectivos al Pleno del Congreso;
 
 IV.- Formular las medidas necesarias para el desarrollo de los debates y discusiones de los asuntos que se traten en las sesiones. Lo anterior, sin perjuicio de lo que disponga esta Ley;
 
@@ -405,9 +461,11 @@ El Presidente al dirigir las sesiones velará por el equilibrio entre las libert
 
 El Presidente responderá sólo ante el Pleno cuando en el ejercicio de sus atribuciones se aparte de las disposiciones que las rigen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 46.
 
-La Mesa Directiva es dirigida y coordinada por el Presidente y se reunirá las veces necesarias para desahogar su trabajo durante los periodos de sesiones.
+La Mesa Directiva es dirigida y coordinada por el Presidente y se reunirá las veces necesarias para desahogar su trabajo.
 
 A las reuniones de la Mesa Directiva, concurrirá el Director General de Apoyo Parlamentario, quien fungirá como secretario técnico de la misma.
 
@@ -439,7 +497,9 @@ I.- Citar a sesiones;
 
 II.- Presidir las sesiones;
 
-III.- Formular la propuesta de orden del día que corresponda a los asuntos que se presenten en las sesiones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Proponer el orden del día con los asuntos que se presenten;
 
 IV.- Cuidar que tanto los diputados como el público asistente a las sesiones, observen el orden y compostura debidos;
 
@@ -449,37 +509,73 @@ VI.- Someter a discusión los asuntos previstos para la sesión;
 
 VII.- Conceder la palabra a los diputados, siguiendo el orden en que haya sido solicitada en los términos de esta Ley;
 
-VIII.- Firmar, en unión de los secretarios, las leyes y decretos que se manden al Gobernador del Estado para su promulgación y publicación, en su caso; así como las actas de las sesiones, cuando hayan sido aprobadas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-IX.- Dar el curso a los negocios y dictar los trámites que deban recaer en los asuntos con que se de cuenta a la Asamblea, así como proponer los acuerdos de trámite que recaigan a las comunicaciones y correspondencia que se dirijan al Congreso;
+VIII.- Decretar recesos en las sesiones cuando existan causas justificadas;
 
-X.- Exhortar a los diputados que falten a las sesiones, para que ocurran a las siguientes y notificarles, en su caso, la sanción a que se hayan hecho acreedores;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XI.- Calificar e informar sobre la justificación de las faltas de asistencia de los diputados, informando a la Asamblea;
+IX.- Firmar, en unión de los secretarios, las leyes y decretos que se manden al Gobernador del Estado para su promulgación y publicación, en su caso; así como las actas de las sesiones, cuando hayan sido aprobadas;
 
-XII.- Pedir el auxilio de la fuerza pública cuando se haga necesario, para la conservación del orden dentro del recinto;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XIII.- Designar de entre los diputados a quien deba representar al Congreso, en los actos a los que él no pudiere concurrir;
+X.- Dar el curso a los negocios y dictar los trámites que deban recaer en los asuntos con que se de cuenta a la Asamblea, así como proponer los acuerdos de trámite que recaigan a las comunicaciones y correspondencia que se dirijan al Congreso;
 
-XIV.- Tener la representación del Congreso ante los Poderes Federal y Estatal, los de las entidades federativas, los municipios y las organizaciones, instituciones y ciudadanía en general;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XV.- Fungir como representante legal del Congreso, con facultades generales y especiales, pudiendo delegar estas facultades; comunicando al Pleno del Congreso el uso de las mismas;
+XI.- Exhortar a los diputados que falten a las sesiones, para que ocurran a las siguientes y notificarles, en su caso, la sanción a que se hayan hecho acreedores;
 
-XVI.- Comunicar a los diputados las sanciones que les hayan sido impuestas por la Mesa Directiva;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XVII.- Informar inmediatamente a las autoridades competentes, cuando se cometan hechos posiblemente constitutivos de un delito en el recinto oficial;
+XII.- Calificar sobre la justificación de las faltas de asistencia de los diputados, informando a la Asamblea y a la Mesa Directiva;
 
-XVIII.- Asistir a las reuniones de la Junta de Gobierno y Coordinación Política, para el efecto de discutir e integrar la propuesta de orden del día;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XIX.- Proponer las sanciones con relación a las conductas que atenten contra la disciplina parlamentaria;
+XIII.- Pedir el auxilio de la fuerza pública cuando se haga necesario, para la conservación del orden dentro del recinto oficial;
 
-XX.- Designar comisiones de cortesía y de protocolo que resulten pertinentes para cumplir con el ceremonial;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XXI.- Comunicar al Secretario General las instrucciones, observaciones y propuestas que sobre las tareas a su cargo formule la Mesa Directiva;
+XIV-. Designar de entre los diputados a quien deba representar al Congreso, en los actos a los que él no pudiere concurrir;
 
-XXII.- Nombrar al término de la sesión de clausura del periodo ordinario de sesiones, dos comisiones para que participen al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia, la clausura del periodo; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XXIII.- Las demás que le señale esta Ley.
+XV.- Tener la representación del Congreso ante los Poderes Federal y Estatal, los de las entidades federativas, los municipios y las organizaciones, instituciones y ciudadanía en general;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XVI.- Fungir como representante legal del Congreso, con facultades generales y especiales, pudiendo delegar estas facultades; comunicando al Pleno del Congreso el uso de las mismas;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XVII.- Comunicar a los diputados las sanciones que les hayan sido impuestas por la Mesa Directiva;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XVIII.- Informar inmediatamente a las autoridades competentes, cuando se cometan hechos posiblemente constitutivos de un delito en el recinto oficial;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XIX.- Asistir a las reuniones de la Junta de Gobierno y Coordinación Política, para el efecto de discutir e integrar la propuesta de orden del día;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XX.- Proponer las sanciones con relación a las conductas que atenten contra la disciplina parlamentaria;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XXI.- Designar comisiones de cortesía y de protocolo que resulten pertinentes para cumplir con el ceremonial;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XXII.- Comunicar al Secretario General las instrucciones, observaciones y propuestas que sobre las tareas a su cargo formule la Mesa Directiva;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XXIII.- Nombrar al término de la sesión de clausura del periodo ordinario de sesiones, dos comisiones para que comuniquen al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia, la clausura del periodo; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XXIV.- Las demás que le señale esta Ley.
 
 ###### Artículo 50.
 
@@ -559,7 +655,9 @@ I.- Ejercer el gobierno interior del Congreso;
 
 II.- Conducir las relaciones políticas con los otros dos poderes del Estado, los ayuntamientos de la Entidad, los poderes de la Federación o de otros Estados y demás organismos y entidades públicas, nacionales e internacionales;
 
-III.- Establecer el programa legislativo de los periodos de sesiones, en coordinación con la Conferencia Parlamentaria;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Establecer el programa legislativo;
 
 IV.- Presentar a la Mesa Directiva y al Pleno, proyectos de puntos de acuerdo, pronunciamientos y declaraciones que entrañen una posición política del Congreso;
 
@@ -567,11 +665,15 @@ V.- Proponer al Pleno la integración de las comisiones permanentes y especiales
 
 VI.- Proponer al Pleno para su aprobación, los nombramientos del Secretario General, del Contralor Interno, del Coordinador de Comunicación Social, del Titular del Instituto de Investigaciones Legislativas, del Director General de Administración, del Director General de Apoyo Parlamentario y del Titular de la Unidad de Estudios de las Finanzas Públicas, atendiendo a lo dispuesto por esta Ley sobre el servicio civil de carrera;
 
-VII.- Proponer la terna para la designación del Auditor General del Órgano de Fiscalización Superior, y en su caso su ratificación;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VII.- Proponer la terna para la designación del titular del Órgano de Fiscalización Superior, y en su caso su designación para un segundo periodo;
 
 VIII.- Los relativos a la ratificación de los funcionarios del Órgano de Fiscalización Superior;
 
-IX.- Proponer la remoción del Auditor General del Órgano de Fiscalización Superior cuando se actualice alguna de las causas previstas en el artículo 62 de la Ley de Fiscalización Superior del Estado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+IX.- Proponer la remoción del titular del Órgano de Fiscalización Superior cuando se actualice alguna de las causas previstas en el artículo 62 de la Ley de Fiscalización Superior del Estado;
 
 X.- Ser el conducto para proponer al Pleno la solicitud al Gobernador del Estado, para que comparezcan funcionarios del Poder Ejecutivo para que, informen cuando se discuta o estudie un asunto relativo a las funciones que aquellos ejerzan;
 
@@ -611,45 +713,45 @@ El Secretario General del Congreso fungirá como Secretario Técnico de la Junta
 
 ###### Artículo 62.
 
-La Conferencia Parlamentaria se integrará con los diputados que conforman la Junta de Gobierno y Coordinación Política, y con los diputados presidentes de las Comisiones Permanentes.
-
-La Conferencia Parlamentaria sesionará por lo menos dos ocasiones al año y será presidida por el Presidente del Congreso.
-
-El Secretario General fungirá como Secretario Técnico de la Conferencia.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 63.
 
-La Conferencia Parlamentaria tendrá las siguientes atribuciones:
-
-I.- Formular la agenda de los asuntos a tratar en el ejercicio legal de la Legislatura, por periodos de sesiones;
-
-II.- Impulsar el trabajo de las comisiones para la elaboración y cumplimiento de los trabajos legislativos;
-
-III.- Dar seguimiento al desarrollo del trabajo legislativo en relación a la agenda referida en la fracción I de este artículo; y
-
-IV.- Las demás que le asigne esta Ley y el Pleno del Congreso.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2009)
 
 ### Capítulo Único. De los Grupos Parlamentarios y Representaciones Parlamentarias
 
 #### Sección Primera. De la Elección de las Comisiones
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 64.
 
-El Pleno elegirá a los integrantes de las comisiones permanentes, a propuesta de la Junta de Gobierno y Coordinación Política, en votación por cédula, a más tardar en la segunda sesión ordinaria del Primer Periodo Ordinario.
+El Pleno elegirá a los integrantes de las comisiones permanentes, a propuesta de la Junta de Gobierno y Coordinación Política, en votación por cédula, a más tardar en la segunda sesión ordinaria del Primer Periodo Ordinario del Primer año de ejercicio de la Legislatura.
 
-Los integrantes de las comisiones podrán renovarse o ratificarse anualmente, salvo los casos previstos en el párrafo primero del artículo 65.
+La integración de las comisiones podrá modificarse en cualquier tiempo.
+
+Para la integración de las comisiones, la Junta de Gobierno y Coordinación Política tomará en cuenta la pluralidad representada en el Congreso y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones.
+
+Al proponer la integración de las comisiones, la Junta postulará también a los diputados que deban presidirlas y fungir como secretarios. Al hacerlo, cuidará que su propuesta incorpore a los diputados pertenecientes a los distintos Grupos Parlamentarios y Representaciones Parlamentarias, de tal suerte que se refleje la proporción que representen en el Pleno, y tome en cuenta los antecedentes y la experiencia legislativa de los diputados.
+
+Si un diputado se separa del Grupo Parlamentario al que pertenecía en el momento de conformarse las comisiones, el Coordinador del propio grupo podrá solicitar su sustitución.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 65.
 
-Solo por causas graves calificadas por las dos terceras partes de los diputados asistentes a la sesión, podrá dispensarse temporal o definitivamente o removerse del cargo a quien integre alguna Comisión, haciéndose desde luego, por la propia Asamblea, el nombramiento del diputado o diputados sustitutos con el carácter de temporal o definitivo.
+El Pleno, a petición de cualquier diputado y previo estudio por parte de la Mesa Directiva, de los motivos invocados, podrá remover o dispensar temporal o definitivamente de una comisión a cualquiera de sus integrantes, siempre que sea aprobado por el voto de las dos terceras partes de los diputados presentes en la sesión, haciéndose desde luego, por la propia Asamblea, el nombramiento del diputado o diputados sustitutos con el carácter de temporal o definitivo.
 
-El Pleno podrá dispensar temporal o definitivamente a algún diputado para que deje de integrar una o varias comisiones, a petición de parte y previo estudio de los motivos o razones invocadas.
+Para que pueda proponerse la remoción o dispensa, temporal o definitiva, de un diputado de la comisión de la que forme parte, deberá seguirse en lo conducente el procedimiento señalado en el artículo 41.
 
 #### Sección Segunda. De las Reuniones de Trabajo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 66.
 
-Las comisiones, para atender asuntos de su competencia y los que le hayan sido turnados por la Presidencia del Congreso, se reunirán por lo menos una vez al mes, excepción hecha de la Comisión de Responsabilidades que lo hará cuando lo requiera el trámite de algún asunto de su competencia.
+Las comisiones se reunirán cuantas veces sean necesarias para atender asuntos de su competencia y los que le hayan sido turnados por la Presidencia del Congreso.
 
 Cada Comisión contará con el apoyo permanente de una Secretaría Técnica, cuyos titulares serán nombrados por el Director General de Apoyo Parlamentario.
 
@@ -657,13 +759,19 @@ Cada Comisión contará con el apoyo permanente de una Secretaría Técnica, cuy
 
 El Presidente de la Comisión convocará a reunión de trabajo con anticipación de al menos veinticuatro horas, informando de los asuntos a tratar, así como lugar, día y hora de la reunión, salvo en el caso de asuntos urgentes.
 
-Si el Presidente no convoca o se niega a convocar lo podrán hacer los diputados que constituyan la mayoría de la Comisión, observándose en lo conducente, lo señalado en el párrafo anterior y dando aviso por conducto de la Secretaría General al Presidente del Congreso.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Los diputados que constituyan la mayoría de la Comisión podrán solicitar por escrito al presidente de la Comisión que convoque a reunión, expresando el día y hora para ello. Si el Presidente no convoca o no da respuesta por escrito a la petición dentro de las veinticuatro horas siguientes, aquéllos podrán convocar, observándose en lo conducente, lo señalado en el párrafo anterior y dando aviso por conducto de la Secretaría General al Presidente del Congreso.
 
 ###### Artículo 68.
 
 Para que las comisiones se reúnan válidamente se requiere de la presencia de la mayoría de sus integrantes.
 
 Las comisiones tomarán sus decisiones por mayoría de votos de sus miembros. En caso de empate en la votación de un proyecto de dictamen o resolución deberá repetirse la votación en la misma reunión, y si resultase empate por segunda vez, se discutirá y votará de nuevo el asunto en la reunión inmediata.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Las resoluciones del Presidente podrán ser reclamadas por cualquiera de los diputados que integren la Comisión y se resolverán por mayoría de votos de sus integrantes presentes.
 
 ###### Artículo 69.
 
@@ -739,9 +847,11 @@ III.- Acordar reuniones de trabajo en lugar distinto al recinto oficial;
 
 IV.- Aprobar las minutas de las reuniones de trabajo;
 
-V.- Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones que les hayan sido turnados, dentro de los ciento veinte días naturales siguientes a la fecha de turno. En caso contrario, deberán informar a la Mesa Directiva de los motivos que les impiden dictaminar, atender o resolver señalando fecha probable para ello. Si en esa fecha probable no dictaminan, la Mesa Directiva lo informará al Pleno y de ser el caso, se acordará un nuevo turno a Comisión distinta a la omisa;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-VI.- Rendir por escrito, un informe anual de sus actividades a la Mesa Directiva;
+V.- Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones que les hayan sido turnados;
+
+VI.- (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2009)
 
 VII.- Establecer la vinculación con los Poderes de la Federación, dependencias y entidades de la Administración Pública Estatal, con los Ayuntamientos del Estado, organismos autónomos y el Poder Judicial, para el mejor desarrollo de sus atribuciones, por conducto de la Junta de Gobierno y Coordinación Política;
 
@@ -779,7 +889,9 @@ I.- Convocar a las reuniones de trabajo;
 
 II.- Proponer el orden del día de las reuniones;
 
-III.- Calificar e informar sobre la justificación de las faltas de asistencia de los diputados, informando a la Comisión;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Calificar sobre la justificación de las faltas de asistencia de los diputados, informando a la Comisión y a la Mesa Directiva;
 
 IV.- Proponer el trámite que deba recaer a la correspondencia y comunicaciones con que se de cuenta en la Comisión;
 
@@ -791,13 +903,17 @@ VII.- Elaborar o vigilar la adecuada elaboración de los proyectos de dictámene
 
 VIII.- Solicitar a la Secretaría General haga constar toda reunión a que se hubiere citado y no se lleve a cabo por falta de quórum, precisando los diputados que asistieron y los que hayan comunicado oportunamente su inasistencia. La certificación correspondiente se remitirá a la Presidencia de las comisiones para que se integre a la minuta siguiente, debiendo dar aviso a la Presidencia del Congreso;
 
-IX.- Decretar recesos en las reuniones de trabajo cuando existan causas justificadas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+IX.- Proponer a los integrantes de la Comisión, recesos en las reuniones de trabajo, cuando exista causa justificada, mismos que deberán ser aprobados por la mayoría de sus integrantes;
 
 X.- Cuidar que se observe el orden y compostura debidos en las reuniones de trabajo;
 
 XI.- Levantar la reunión de trabajo por falta de orden o quórum en la misma;
 
-XII.- Dar seguimiento al trabajo de las subcomisiones; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XII.- Dar seguimiento al trabajo de las subcomisiones y grupos de trabajo; y
 
 XIII.- Las demás que le señale la presente Ley.
 
@@ -1069,7 +1185,7 @@ V.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de t
 
 Corresponde a la Comisión de Equidad de Género, el conocimiento y dictamen de los siguientes asuntos:
 
-I.- Los que se refieran a iniciativas de leyes de seguridad social, de salud, civiles y penales, para regular derechos y responsabilidades familiares, particularmente con relación a la paternidad;
+I.- (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2009)
 
 II.- Los que se refieran a las iniciativas de ley, reformas y adiciones relacionadas con la equidad de género;
 
@@ -1089,7 +1205,9 @@ I.- Los relacionados con los planes de desarrollo agropecuario que ejecute el Go
 
 II.- Los relativos a las acciones del gobierno estatal en materia de desarrollo rural y mejoramiento de los ejidatarios, comuneros y pequeños propietarios agrícolas, forestales y ganaderos, que sean de competencia estatal de conformidad con las disposiciones de la Ley de la materia;
 
-III.- Los referentes a las acciones que se realicen en materia de fomento agropecuario y para la preservación y el cuidado de los recursos naturales y el medio ambiente; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Los referentes a las acciones que se realicen en materia de fomento agropecuario; y
 
 IV.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento de esta Comisión.
 
@@ -1101,7 +1219,9 @@ I.- Los que se refieran a reformas a la Constitución Política de los Estados U
 
 II.- Los que se refieran a Leyes reglamentarias u orgánicas que deriven de alguna disposición de la Constitución Política para el Estado y los que la Constitución Federal le autorice a reglamentar;
 
-III.- Los que se refieran al conocimiento de licencia del Gobernador, de los diputados y de los magistrados del Supremo Tribunal de Justicia del Estado y los demás servidores públicos que establezca la Constitución Política para el Estado de Guanajuato y las Leyes que de ella emanen. Así como el conocimiento de las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Los que se refieran al conocimiento de licencia del Gobernador, de los diputados y de los Magistrados del Supremo Tribunal de Justicia del Estado y los demás servidores públicos que establezca la Constitución Política para el Estado de Guanajuato y las leyes que de ella emanen. Así como el conocimiento de las renuncias y separaciones de los Magistrados del Supremo Tribunal de Justicia del Estado y Consejeros del Poder Judicial;
 
 IV.- Los relativos al cambio de residencia de los Poderes del Estado y de las Cabeceras Municipales. Estos cambios se autorizarán siempre en forma provisional y condicionados a la duración de la causa que los motive;
 
@@ -1111,13 +1231,21 @@ VI.- Los que se refieren a la substanciación del trámite para declarar desapar
 
 VII.- Los que se refieren a la suspensión o revocación de mandato de alguno o algunos miembros de los ayuntamientos;
 
-VIII.- Los que se refieren a reformas a la Ley de Fiscalización Superior del Estado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-IX.- La propuesta para la designación de Gobernador interino, provisional o sustituto en los casos previstos por la Constitución Política para el Estado Guanajuato;
+VIII.- Los que se refieren a la renuncia al cargo de los integrantes de los ayuntamientos;
 
-X.- Nombrar entre los vecinos, cuando se declare la nulidad de elección de Ayuntamiento, a los miembros del Consejo Municipal, en tanto se celebran nuevos comicios;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XI.- Las solicitudes relativas a la autorización para ocupar dos cargos públicos;
+IX.- Los que se refieren a reformas a la Ley de Fiscalización Superior del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+X.- La propuesta para la designación de Gobernador interino, provisional o sustituto en los casos previstos por la Constitución Política para el Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XI.- Nombrar entre los vecinos, cuando se declare la nulidad de elección de Ayuntamiento, a los miembros del Consejo Municipal, en tanto se celebran nuevos comicios;
 
 XII.- Los relativos a la creación de nuevos municipios, así como los relativos a la división política del Estado;
 
@@ -1129,7 +1257,9 @@ XV.- Los referentes a la aprobación del Presupuesto General de Egresos del Esta
 
 XVI.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
-Los asuntos relacionados con las fracciones VIII, XIII, XIV y XV, se dictaminarán en comisiones unidas con Hacienda y Fiscalización, fungiendo como Secretario el Presidente de la Comisión de Gobernación y Puntos Constitucionales.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Los asuntos relacionados con las fracciones IX, XIII, XIV y XV, se dictaminarán en comisiones unidas con Hacienda y Fiscalización, fungiendo como Secretario, el Presidente de la Comisión de Gobernación y Puntos Constitucionales.
 
 ###### Artículo 96.
 
@@ -1147,19 +1277,41 @@ V.- Los que se refieran a la desafectación de los bienes del dominio público d
 
 VI.- Los que se refieran a la autorización con que deba contar el Ejecutivo Estatal y los ayuntamientos, para contraer adeudos que garanticen con gravámenes de sus fuentes de percepción de ingresos;
 
-VII.- Los que se refieran a la autorización con que deba contar el Ejecutivo del Estado y los ayuntamientos, para afectar participaciones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-VIII.- Los que se refieran a reformas a la Ley de Fiscalización Superior del Estado;
+VII.- Los que se refieran a la autorización con que deba contar el Ejecutivo del Estado y los ayuntamientos, para afectar en garantía, como fuente de pago, o en administración, los ingresos presentes o futuros o aquéllos que tengan derecho a percibir en participaciones federales, aportaciones o ingresos propios, de cualquier naturaleza, sean derechos, productos, aprovechamientos, impuestos o cualquier otro ingreso;
 
-IX.- Los que se refieran a las recomendaciones de montos máximos de las remuneraciones de los integrantes de los ayuntamientos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-X.- Los relativos a la aprobación de los montos máximos y limites para la contratación de obra pública en los términos de la Ley de la materia;
+VIII.- Los relativos a la autorización para la constitución de fideicomisos de financiamiento que prevé la Ley de la materia, así como para la novación, reestructuración o refinanciamiento de la deuda pública;
 
-XI.- Los relativos a los informes de resultados que emita el Órgano de Fiscalización Superior; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XII.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+IX.- Los referidos a la autorización para la emisión de valores, certificados, obligaciones, bonos y otros títulos de crédito o instrumentos representativos de deuda pública.
 
-Los asuntos relacionados con las fracciones I, II, III y VIII se dictaminarán en comisiones unidas con la Comisión de Gobernación y Puntos Constitucionales, presidiendo la Comisión de Hacienda y Fiscalización.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+X.- Los que se refieran a reformas a la Ley de Fiscalización Superior del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XI.- Los que se refieran a las recomendaciones de montos máximos de las remuneraciones de los integrantes de los ayuntamientos;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XII.- Los relativos a la aprobación de los montos máximos y límites para la contratación de obra pública en los términos de la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XIII.- Los relativos a los informes de resultados que emita el Órgano de Fiscalización Superior; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XIV.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Los asuntos relacionados con las fracciones I, II, III y X se dictaminarán en comisiones unidas con la Comisión de Gobernación y Puntos Constitucionales, presidiendo la Comisión de Hacienda y Fiscalización.
 
 ###### Artículo 97.
 
@@ -1171,13 +1323,29 @@ II.- Los que se refieran a la legislación civil o penal;
 
 III.- Los que se relacionen con proyectos de modificación a las Leyes Orgánicas del Poder Judicial y del Ministerio Público;
 
-IV.- Los referentes a las designaciones de Magistrados del Supremo Tribunal de Justicia, del Tribunal de lo Contencioso Administrativo y del Tribunal Estatal Electoral; así como de los Consejeros Magistrados del Poder Judicial;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-V.- El relativo a la ratificación de nombramiento del Procurador General de Justicia del Estado;
+IV.- Los referentes a las designaciones y a las reelecciones de Magistrados del Supremo Tribunal de Justicia; así como a las designaciones de Consejeros del Poder Judicial;
 
-VI.- Los relativos a la concesión de amnistía; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-VII.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+V.- Los referentes a las designaciones y ratificaciones de Magistrados del Tribunal de lo Contencioso Administrativo;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VI.- Los referentes a las designaciones y ratificaciones de Magistrados del Tribunal Electoral del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VII.- El relativo a la ratificación de nombramiento del Procurador General de Justicia del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VIII.- Los relativos a la concesión de amnistía; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+IX.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
 ###### Artículo 98.
 
@@ -1407,23 +1575,41 @@ El orden del día de las sesiones, se entregará a los diputados por conducto de
 
 Los asuntos que deban presentarse a Sesión, seguirán el orden que a continuación se expresa:
 
-a) Lectura y en su caso, aprobación del orden del día;
+(REFORMADA [N. DE E. ADICIONADA, ANTES INCISO A)], P.O. 4 DE SEPTIEMBRE DE 2009)
 
-b) Acta de la sesión anterior para ser discutida y aprobada en su caso;
+I.- Lectura y, en su caso, aprobación del orden del día;
 
-c) Comunicaciones provenientes del Gobierno Federal, del Poder Ejecutivo, del Poder Judicial, de los ayuntamientos de la Entidad y de los Poderes de otros Estados y correspondencia de particulares;
+(REFORMADA [N. DE E. ADICIONADA, ANTES INCISO B)], P.O. 4 DE SEPTIEMBRE DE 2009)
 
-d) Iniciativas de Ley del Ejecutivo, de los diputados, del Supremo Tribunal de Justicia, de los ayuntamientos o concejos municipales y la iniciativa popular, en su caso;
+II.- Acta de la sesión anterior para ser discutida y aprobada en su caso;
 
-e) Minutas de decreto remitidas por el Congreso de la Unión;
+(REFORMADA [N. DE E. ADICIONADA, ANTES INCISO C)], P.O. 4 DE SEPTIEMBRE DE 2009)
 
-f) Informes de las comisiones legislativas;
+III.- Comunicaciones provenientes de los Poderes de la Unión, del Poder Ejecutivo, del Poder Judicial, de los Organismos Autónomos, de los ayuntamientos de la entidad y de los Poderes de otros Estados y correspondencia de particulares;
 
-g) Proposiciones de Puntos de Acuerdo presentados por las comisiones legislativas;
+(REFORMADA [N. DE E. ADICIONADA, ANTES INCISO D)], P.O. 4 DE SEPTIEMBRE DE 2009)
 
-h) Dictámenes de las comisiones, para su discusión y aprobación, en su caso; y
+IV.- Iniciativas del Ejecutivo, de los diputados, del Pleno del Supremo Tribunal de Justicia, de los ayuntamientos o concejos municipales y la iniciativa popular, en su caso;
 
-i) Asuntos generales.
+(REFORMADA [N. DE E. ADICIONADA, ANTES INCISO E)], P.O. 4 DE SEPTIEMBRE DE 2009)
+
+V.- Minutas de decreto remitidas por el Congreso de la Unión;
+
+(REFORMADA [N. DE E. ADICIONADA, ANTES INCISO F)], P.O. 4 DE SEPTIEMBRE DE 2009)
+
+VI.- Informes de resultados del Órgano de Fiscalización Superior;
+
+(REFORMADA [N. DE E. ADICIONADA, ANTES INCISO G)], P.O. 4 DE SEPTIEMBRE DE 2009)
+
+VII.- Proposiciones de puntos de acuerdo presentados por las comisiones legislativas;
+
+(REFORMADA [N. DE E. ADICIONADA, ANTES INCISO H)], P.O. 4 DE SEPTIEMBRE DE 2009)
+
+VIII.- Dictámenes de las comisiones, para su discusión y aprobación, en su caso; y
+
+(REFORMADA [N. DE E. ADICIONADA, ANTES INCISO I)], P.O. 4 DE SEPTIEMBRE DE 2009)
+
+IX.- Asuntos generales.
 
 ###### Artículo 124.
 
@@ -1511,9 +1697,11 @@ Si se tratare de la sesión solemne en la que el Gobernador del Estado deba rend
 
 En el momento de rendir la protesta el Gobernador del Estado, los diputados, así como el Presidente, y demás asistentes deberán estar de pie.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 137.
 
-Cuando se trate de la sesión en que el Gobernador presente el informe anual a que se refiere el artículo 78 de la Constitución Política para el Estado, el Presidente del Congreso, en su caso, dará un mensaje en representación del Congreso, con las formalidades que correspondan al acto; durante la sesión no procederán intervenciones o interrupciones por parte de los legisladores. El informe será analizado en sesiones posteriores.
+El informe del estado que guarda la administración pública estatal que envíe el Gobernador del Estado será analizado por el Congreso en los términos que acuerde la Junta de Gobierno y Coordinación Política.
 
 ###### Artículo 138.
 
@@ -1591,9 +1779,11 @@ Los dictámenes deberán contener una exposición clara y precisa del asunto a q
 
 Las comisiones podrán recabar de todas las oficinas públicas estatales la información que se estime necesaria, previa solicitud. Esta deberá ser por escrito o mediante la comparecencia de sus titulares, con autorización del Ejecutivo del Estado, en el recinto oficial del Congreso, ante las comisiones o la Asamblea.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 151.
 
-Para que pueda ser puesto a discusión un proyecto de Ley, decreto o acuerdo, deben ser distribuidas a los diputados las copias que contengan los dictámenes correspondientes de manera previa y mediando al menos cuarenta y ocho horas a la sesión en que se vayan a discutir, salvo en los casos que el Congreso del Estado nombre Gobernador interino, provisional o sustituto, o bien, cuando designe a los integrantes de los concejos municipales, en los términos de la Constitución Política para el Estado de Guanajuato.
+Para que pueda ser puesto a discusión un proyecto de ley, decreto o acuerdo, deben ser distribuidas a los diputados las copias que contengan los dictámenes correspondientes de manera previa y mediando al menos cuarenta y ocho horas a la sesión en que se vayan a discutir, salvo en los casos que el Congreso del Estado nombre Gobernador interino, provisional o sustituto, cuando designe a los integrantes de los concejos municipales, en los términos de la Constitución Política para el Estado de Guanajuato, o bien, cuando medie acuerdo de la Junta de Gobierno y Coordinación Política.
 
 Para que pueda ser materia de discusión un voto particular, debe ser entregado por el diputado o diputados que lo suscriban al Presidente de la Mesa Directiva y distribuido a los diputados cuando menos veinticuatro horas antes de la sesión en que se vaya a discutir.
 
@@ -1673,9 +1863,11 @@ c) Por alguna proposición suspensiva que presente algún miembro de la Asamblea
 
 d) Por decretarse un receso por el Presidente del Congreso o de la Diputación Permanente, en su caso, cuando exista causa justificada.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 157.
 
-Para la discusión y votación de todo proyecto de Ley, se requiere cuando menos la concurrencia de las dos terceras partes del número total de diputados que integren el Congreso.
+Para la discusión y votación de todo proyecto de Ley, se requiere la mayoría absoluta del número total de los diputados que integran el Congreso.
 
 ###### Artículo 158.
 
@@ -1721,15 +1913,21 @@ Los artículos no reservados en lo particular se tendrán por aprobados con la d
 
 La reserva en lo particular deberá acompañarse siempre de una propuesta, misma que deberá entregarse a la Mesa Directiva; de ser aceptada, se modificará el dictamen en sus términos, en caso contrario, se tendrá por aprobado el texto del dictamen, sin necesidad de votarlo nuevamente.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 168.
 
-Votado un proyecto de Ley o decreto, si así lo acuerda la Asamblea o el Presidente, podrá ser enviado a los secretarios de la Mesa Directiva para que en unión con el Presidente de la Comisión Dictaminadora, elaboren la minuta en los términos que deba publicarse y, aprobada ésta, se remitirá al Gobernador del Estado, para los efectos constitucionales correspondientes.
+Votado un proyecto de ley, decreto o acuerdo, si así lo acuerda la Asamblea o el Presidente, podrá ser enviado a los secretarios de la Mesa Directiva para que en unión con el Presidente de la Comisión Dictaminadora, elaboren la minuta en los términos que deba publicarse y, aprobada ésta, se remitirá al Gobernador del Estado, para los efectos constitucionales correspondientes o a las autoridades que se señalen en el acuerdo respectivo, según corresponda.
 
 ### Capítulo Sexto. De la Expedición de Leyes
 
 ###### Artículo 169.
 
 Hay tres clases de votaciones: nominales, económicas y por cédula.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+La votación podrá recogerse, previo acuerdo y conforme al sistema electrónico que el Congreso autorice.
 
 ###### Artículo 170.
 
@@ -1772,6 +1970,10 @@ A propuesta de una tercera parte de los integrantes del Congreso, cualquier asun
 ###### Artículo 174.
 
 Tratándose de elección por cédula, si ninguno de los candidatos propuestos obtuvieren la mayoría de votos, se repetirá la elección entre los que hayan alcanzado mayor número, quedando electo en el segundo escrutinio el que reuniere la mayoría. Si hubiere igualdad de sufragios en dos o más candidatos, entre ellos se hará la elección; pero habiendo al mismo tiempo otro candidato que haya obtenido mayor número de votos que aquéllos, se le tendrá por primer competidor y el segundo se sacará por votación de entre los primeros. Repetida la votación, quedará electo el candidato que obtenga mayoría de votos y resultando empate entre los candidatos, se decidirá mediante sorteo quien deba resultar electo.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+Se seguirá el mismo procedimiento, exceptuando lo relativo al sorteo, para la elección, nombramiento o designación de personas a cargos públicos que para su aprobación se requiera de un porcentaje especial. No se tendrá por aprobada la elección, nombramiento o designación que no alcance dicho porcentaje. Si después de las rondas de votación señaladas en el párrafo anterior, ninguno de los propuestos obtiene la votación requerida, se tendrán por rechazadas las propuestas.
 
 ###### Artículo 175.
 
@@ -2205,15 +2407,21 @@ V.- Ejecutar y dar seguimiento a los acuerdos del Pleno del Congreso o de la Dip
 
 VI.- Cuidar la oportuna elaboración del Diario de los Debates;
 
-VII.- Cuidar el correcto control del archivo parlamentario del Congreso;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VII.- Cuidar el correcto control del archivo general del Congreso;
 
 VIII.- Coadyuvar en la comunicación, coordinación y colaboración con los Poderes federales, estatales y los ayuntamientos; así como con entidades y funcionarios públicos, organizaciones y ciudadanos en general;
 
 IX.- Coordinar, en su caso, los eventos en los que el Congreso participe o promueva;
 
-X.- Rendir previo acuerdo de el Presidente del Congreso, los informes previos y justificados en los juicios de amparo en los que el Congreso sea señalado como parte;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XI.- Expedir copias certificadas de la documentación que obre en los archivos del Congreso;
+X.- Rendir los informes previos y justificados en los juicios de amparo en los que el Congreso sea señalado como parte;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XI.- Emitir certificaciones y expedir copias certificadas de la documentación que obre en los archivos del Congreso;
 
 XII.- Cuidar que los expedientes que el Congreso hubiese tramitado, sigan su curso vigilando el cumplimiento de todos los acuerdos;
 
@@ -2267,7 +2475,9 @@ IV.- Formular y ejecutar programas de formación y capacitación de personal té
 
 V.- Convocar a concursos de investigación;
 
-VI.- Tener a su cargo la Biblioteca y el Archivo Histórico; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VI.- Tener a su cargo la Biblioteca; y
 
 VII.- Las demás que acuerde el Pleno del Congreso o la Diputación Permanente.
 
@@ -2371,9 +2581,11 @@ d) Ejecutar los acuerdos de las comisiones; y
 
 e) Elaborar los proyectos de dictámenes de los asuntos turnados a comisiones;
 
-X, Asesorar y atender los asuntos legales del Congreso, en sus aspectos consultivo y contencioso.
+X. Asesorar y atender los asuntos legales del Congreso, en sus aspectos consultivo y contencioso.
 
-El Director General de Apoyo Parlamentario rendirá previo acuerdo con el Presidente del Congreso, los informes previos y justificados en los juicios de amparo en los que el Congreso sea señalado como parte, en ausencia del Secretario General.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+El Director General de Apoyo Parlamentario rendirá los informes previos y justificados en los juicios de amparo en los que el Congreso sea señalado como parte, y emitirá las certificaciones correspondientes y copias certificadas, en ausencia del Secretario General.
 
 ###### Artículo 243.
 
@@ -2453,7 +2665,9 @@ La Unidad del Diario de los Debates, es el área encargada de la oportuna elabor
 
 I.- Dar seguimiento, cuidar la impresión y el archivo de todas las discusiones que se efectúen en el Pleno y en la Diputación Permanente; y la elaboración del Diario de los Debates;
 
-II.- Controlar el archivo parlamentario debiendo salvaguardar, registrar y archivar las iniciativas, dictámenes, decretos, actas, comunicados y correspondencia, expedientes y demás información vinculada con la actividad parlamentaria del Congreso y con los juicios de que éste sea parte; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+II.- Controlar el archivo general debiendo salvaguardar, registrar y archivar las iniciativas, dictámenes, decretos, actas, comunicados y correspondencia, expedientes y demás información vinculada con la actividad parlamentaria del Congreso y con los juicios en los que éste sea parte; y
 
 III.- Notificar los documentos parlamentarios, decretos, dictámenes y acuerdos, así como la correspondencia, oficios y circulares que deriven de las sesiones de Pleno, de la Diputación Permanente y de las comisiones.
 
@@ -2664,3 +2878,9 @@ Artículo Segundo. Dentro de los quince días siguientes a la entrada en vigor d
 Artículo Tercero. Los asuntos que se encuentren en trámite o en proceso ante la Comisión de Desarrollo Económico y Social, y Atención al Migrante, relacionados con la competencia que se establece en el presente decreto para la Comisión de Atención al Migrante, continuarán tramitándose por la Comisión de Desarrollo Económico y Social, en los términos de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
 
 Artículo Cuarto. Los asuntos que se encuentren en trámite o en proceso ante la comisión especial creada para analizar y dictaminar las iniciativas y demás asuntos que en materia de turismo se presentaran ante el Congreso del Estado, relacionados con la competencia que se establece en el presente decreto para la Comisión de Turismo, continuarán tramitándose por dicha comisión especial, en los términos del acuerdo del Pleno del Congreso del Estado de fecha 3 de julio de 2007 y de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
+
+P.O. 4 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga el acuerdo del Pleno del Congreso del Estado, relativo a las Disposiciones para acreditar las asistencias de las Diputadas y Diputados de la Sexagésima Legislatura del Congreso del Estado, aprobadas por el Pleno en sesión del 19 de octubre de 2006.
