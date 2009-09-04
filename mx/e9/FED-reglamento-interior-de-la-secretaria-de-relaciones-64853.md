@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-relaciones-64853"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2009-01-08"
+last_updated: "2009-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-30"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de enero de 2009.
 
@@ -173,7 +173,9 @@ IV. Asistir al Presidente de la República en el manejo de las relaciones exteri
 
 V. Someter al acuerdo del Presidente de la República, e informarle sobre el desarrollo de los asuntos encomendados a la Secretaría;
 
-VI. Representar al Presidente de la República en los juicios constitucionales, en los términos de los artículos 14 de la Ley Orgánica de la Administración Pública Federal y 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la propia Constitución y su Ley Reglamentaria, en los casos en que lo determine el Titular del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el Titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 53 del presente Reglamento;
 
 VII. Asistir a las reuniones convocadas por el Presidente de la República de conformidad con lo dispuesto por los artículos 6o. y 7o. de la Ley Orgánica de la Administración Pública Federal;
 
@@ -203,7 +205,9 @@ XIX. Aprobar la organización y funcionamiento de la Secretaría y adscribir org
 
 XX. Presidir en su caso, las comisiones que sean necesarias para el buen funcionamiento de la Secretaría y designar a sus miembros, así como establecer las unidades de coordinación, asesoría y apoyo técnico que requiera el funcionamiento administrativo de la misma;
 
-XXI. Aprobar y ordenar la publicación, en el Diario Oficial de la Federación del Manual General de Organización, así como los demás manuales de organización, de procedimientos y de servicios necesarios para el buen funcionamiento de la Secretaría;
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+
+XXI. Aprobar y ordenar la publicación, en el Diario Oficial de la Federación, del Manual General de Organización, así como aprobar y expedir los demás manuales de organización, de procedimientos y de servicios necesarios para el buen funcionamiento de la Secretaría;
 
 XXII. Aprobar los programas de trabajo de la Secretaría y el proyecto de presupuesto de egresos correspondiente y, en su caso, sus modificaciones;
 
@@ -1233,11 +1237,23 @@ IX. Tramitar, previo análisis y dictamen de su procedencia, los exhortos o cart
 
 X. Representar legalmente a la Secretaría en toda clase de juicios en que sea parte;
 
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+
+X bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de Relaciones Exteriores representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+
+X ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de Relaciones Exteriores represente al Presidente de la República;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+
+X quáter. Representar al Secretario, a los Subsecretarios, al Oficial Mayor y demás servidores públicos de esta Dependencia señalados como autoridades responsables, en todos los trámites dentro de los juicios de amparo;
+
 XI. Suscribir oficios, escritos y todas aquellas promociones que exija el trámite procesal de los juicios, incluyendo el de amparo o de cualquiera otra controversia, en representación o en ausencia del Secretario, Subsecretarios, Oficial Mayor, Jefe de Unidad y Directores Generales, según corresponda; así como desahogar los trámites y asistir a las audiencias y diligencias convocadas por los órganos jurisdiccionales;
 
 XII. Interponer los recursos o cualquier otro medio de impugnación en contra de las resoluciones y sentencias dictadas por los órganos del Poder Judicial de la Federación, por el Tribunal Federal de Justicia Fiscal y Administrativa, y por el Tribunal Federal de Conciliación y Arbitraje;
 
-XIII. Elaborar y proponer los informes previos y justificados que en materia de amparo deban rendir el Secretario y el Presidente de la República en los casos en los que se hubiere conferido la representación oficial, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables; asimismo, los escritos de demanda o contestación en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la Secretaría tenga carácter de tercero perjudicado en los juicios de amparo, así como formular, en general, todas las promociones que a dichos juicios se refieran;
+XIII. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)
 
 XIV. Representar al Secretario ante el Tribunal Federal de Conciliación y Arbitraje, así como ante los Tribunales Estatales de Conciliación y Arbitraje en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado “B” del artículo 123 Constitucional; formular dictámenes, demandas de ceses de sus empleados, contestación de demandas laborales, formulación y absolución de posiciones, desistimientos o allanamientos y, en general, todas aquellas promociones que se requieran en el curso del procedimiento;
 
@@ -1277,7 +1293,9 @@ XXXI. Expedir copias certificadas de los documentos, fichas microfilmadas o docu
 
 XXXII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
-De conformidad con lo dispuesto en el artículo 14 del presente Reglamento, el Director General de Asuntos Jurídicos, para el ejercicio de sus atribuciones, se auxiliará del Director General Adjunto de Asuntos Jurídicos, del Director Jurídico Contencioso, del Director de Nacionalidad y Naturalización, del Director de Permisos Artículo 27 Constitucional, del Director de Asistencia Jurídica Internacional, del Director Consultivo y de Normatividad; de los Subdirectores de lo Contencioso Administrativo, de Asuntos Penales, de Asuntos Laborales, de Nacionalidad, de Naturalización, de Sociedades, de Asistencia Jurídica, de Exhortos y Cartas Rogatorias, para Asuntos Especiales y Técnico Legal; así como de los Jefes de Departamento correspondientes a cada Subdirección.
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+
+De conformidad con lo dispuesto en el artículo 14 del presente Reglamento, el Director General de Asuntos Jurídicos, para el ejercicio de sus atribuciones, se auxiliará del Director General Adjunto de Asuntos Jurídicos, del Director Jurídico Contencioso, del Director de Asistencia Jurídica Internacional, del Director de Nacionalidad y Naturalización, del Director de Permisos Artículo 27 Constitucional, y del Director Consultivo y de Normatividad; de los Subdirectores de lo Contencioso Administrativo, de Asuntos Penales, de Asuntos Laborales, de Asistencia Jurídica, de Exhortos y Cartas Rogatorias, de Nacionalidad, de Naturalización, de Sociedades, para Asuntos Especiales, y Técnico Legal; así como de los Jefes de Departamento correspondientes a cada Subdirección.
 
 ###### ARTÍCULO 34.
 
@@ -1853,7 +1871,7 @@ La Secretaría proporcionará al Titular del Órgano Interno de Control los recu
 
 El Secretario será suplido en sus ausencias temporales por el Subsecretario de Relaciones Exteriores. En caso de ausencia temporal del Secretario y del Subsecretario de Relaciones Exteriores, fungirán como encargados del despacho los Subsecretarios para América del Norte; para América Latina y el Caribe; para Asuntos Multilaterales y Derechos Humanos, y por el Oficial Mayor, en el orden enunciado. En caso de ausencia temporal de todos los servidores públicos mencionados, el Secretario designará al servidor público encargado del despacho.
 
-Asimismo, las ausencias del Secretario para efectos del artículo 33, fracciones X, XI y XII del presente Reglamento, serán suplidas por el Director General de Asuntos Jurídicos.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 54.
 
@@ -1866,6 +1884,10 @@ El Jefe de la Unidad de Relaciones Económicas y Cooperación Internacional ser�
 El Consultor Jurídico será suplido en sus ausencias por el Consultor Jurídico Adjunto que designe y a falta de cualquiera de éstos, por el servidor público que designe el primero; los titulares de las respectivas Secciones Mexicanas de las Comisiones Internacionales de Límites y Aguas, serán suplidos en sus ausencias temporales por el servidor público que designen; los Directores Generales serán suplidos en sus ausencias temporales por el Director General Adjunto o el Director de Área que designen; y las ausencias temporales de los Directores Generales Adjuntos, Directores de Área y Subdirectores serán suplidas por el servidor público que designe el Director General.
 
 En los demás casos, en que por alguna razón no exista titular de las unidades administrativas citadas, quedará encargado del despacho provisionalmente el Director General Adjunto o el Director de Área que designe el jefe superior jerárquico.
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+
+ARTÍCULO 55 bis. Las ausencias del Director General de Asuntos Jurídicos, serán suplidas por el Director General Adjunto y por los Directores que se señalan en el último párrafo del artículo 33, en el orden establecido.
 
 ###### ARTÍCULO 56.
 
@@ -1950,3 +1972,11 @@ Las modificaciones a la estructura orgánica que deriven de la entrada en vigor 
 Los cambios en la estructura y programas para atender el contenido del presente Reglamento, serán cubiertos con el presupuesto autorizado a la Secretaría de Relaciones Exteriores.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- La Secretaria de Relaciones Exteriores, Patricia Espinosa Cantellano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 4 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
