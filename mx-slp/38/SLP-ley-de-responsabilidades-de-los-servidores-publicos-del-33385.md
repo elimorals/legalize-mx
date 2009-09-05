@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2008-05-10"
+last_updated: "2009-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -478,6 +478,12 @@ XIV. Informar por escrito al jefe inmediato, o en su caso al superior jerárquic
 XV. Abstenerse durante el ejercicio de sus funciones de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, títulos, valores, bienes o cesión de derechos, así como objetos mediante enajenación a su favor en precio notoriamente inferior al que el objeto de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII de este artículo, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión, y que implique intereses en conflicto. Esta prevención será aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión. Para los efectos de esta fracción, no se considerará lo que reciba el servidor público en una o más ocasiones de una misma persona física o moral de las antes mencionadas durante un año, cuando el valor acumulado de lo recibido no sea superior a diez veces el salario mínimo diario vigente en el Estado en el momento de su recepción. En ningún caso podrá recibir de dichas personas títulos, valores, bienes inmuebles o cesiones de derechos sobre juicios o controversias en las que se dirima la titularidad de los derechos de posesión o de propiedad sobre bienes de cualquier clase;
 
 XVI. Desempeñar su empleo, cargo o comisión sin obtener o pretender beneficios adicionales a las contraprestaciones comprobables que el Estado o municipio, o en su caso las entidades respectivas, le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XIII de este artículo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+XVI Bis. Abstenerse de ordenar o ejecutar actos u omisiones que impliquen el incumplimiento o la elusión por simulación de lo establecido en la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, en beneficio propio o de cualesquiera otros servidores públicos, así como para las personas señaladas en la fracción XIII de este mismo artículo;
 
 XVII. Abstenerse de aprovechar su influencia, documentos o información privilegiada de que dispone, con el fin de obtener beneficios para sí o de las personas señaladas en la fracción XIII del presente artículo, así como de brindar atención o asesoría profesional, a cualquier persona física o moral cuyas actividades profesionales, comerciales, industriales o del servicio público, se encuentren o hayan estado directa o indirectamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión, o sujetas a su jurisdicción con motivo de su encargo. Esta prevención será aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
 
@@ -1012,3 +1018,29 @@ I. Por única vez, para los efectos que se establecen en el artículo 63 de la L
 II. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias a este mismo Decreto, y
 
 III. En lo sucesivo, a partir de la vigencia de este Decreto, toda referencia que en las disposiciones legales, reglamentarias y administrativas se hagan al Consejo Estatal Electoral, se entenderán hechas al Consejo Estatal Electoral y de Participación Ciudadana.
+
+P.O. 5 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO. Para efectos de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, que contiene el artículo Primero de este Decreto, las instancias competentes de los órganos de la autoridad, deberán designar las unidades encargadas de la elaboración de los tabuladores y del Manual Reglamentario de Administración de Remuneraciones, a más tardar un mes después de la entrada en vigor de la Ley y, en el mismo plazo, deberán iniciar funciones. Asimismo, deberán publicar la lista de unidades en el órgano oficial de información o difusión que corresponda, en función de su nivel de gobierno. La formación de las estructuras a que se refiere esta disposición, deberá hacerse con los recursos humanos, materiales y presupuestarios asignados, por lo que no deberán implicar erogaciones adicionales.
+
+CUARTO. Para. los efectos de lo dispuesto en el antepenúltimo párrafo del artículo 26 de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, que se expide mediante este Decreto, sólo en lo que respecta al Ejercicio Fiscal 2009, el Comité Técnico de Valoración de las Remuneraciones de los Servidores Públicos del Estado, sesionará en el mes de octubre, con los integrantes a que se refieren las fracciones I, II, III, IV y V del citado artículo 26, previa convocatoria que al efecto emita el titular del Poder Ejecutivo.
+
+Instalada la primera sesión del Comité, en los términos del párrafo anterior, se ocupará de girar invitación a las cámaras y asociaciones empresariales más representativas del Estado, para que designen a quienes habrán de representar al sector privado, en términos de lo dispuesto por la fracción VI del artículo 26 la (sic) Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+
+QUINTO. A partir de la entrada en vigor de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, se deberá elaborar anualmente el Catálogo General de Puestos del Gobierno del Estado y sus Municipios, tomando en consideración los tabuladores de remuneraciones de servidores.
+
+SEXTO. Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida, en la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+SEPTIMO. A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor este Decreto, las percepciones de los magistrados y jueces del Poder Judicial del Estado, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+A. Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en el artículo 10 de la Ley que se expide con el presente Decreto, se mantendrán durante el tiempo que dure su encargo.
+
+B. Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y, cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en el artículo 10 de la Ley que se expide con este Decreto.
+
+C. Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse, si la remuneración total no excede el monto máximo antes referido.
+
+OCTAVO. Todas las disposiciones legales que aludan a los emolumentos, salarios, sueldos, percepciones o cualquier expresión similar alusiva a la remuneración de los servidores públicos, deberán entenderse en los términos de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
