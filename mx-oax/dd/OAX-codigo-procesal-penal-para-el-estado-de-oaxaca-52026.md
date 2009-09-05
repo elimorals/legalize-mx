@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2009-04-18"
+last_updated: "2009-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR SUCESIVAMENTE EN LOS TERMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006 Y 5 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR SUCESIVAMENTE EN LOS TERMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2009.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -4717,9 +4717,11 @@ Si se suscita controversia sobre la restitución o su forma, se dispondrá que l
 
 ## ARTICULOS TRANSITORIOS
 
-PRIMERO. Entrada en vigor
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente, en las siete regiones que componen el Estado de Oaxaca. Se implementará primero en los Distritos Judiciales de la región del Istmo; un año después en los de la Mixteca y así consecutivamente en los distritos de las regiones de la Costa, Cuenca y Valles Centrales. Finalmente se implementará simultáneamente en las regiones de la Cañada y de la Sierra (Norte y Sur). En caso de que las partidas presupuestarias lo permitan, los períodos de la implementación escalonada podrán reducirse.
+PRIMERO.- Entrada en Vigor
+
+Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente, en las regiones del Istmo y la Mixteca; y a partir del nueve de marzo del dos mil diez, consecutivamente, cada año en los distritos de las regiones de la Costa, Cuenca y Valles Centrales. Finalmente se implementará en las regiones de la Cañada y la Sierra (Norte y Sur). En caso de que las partidas presupuestales lo permitan, los períodos de su vigencia podrán reducirse previo Decreto de la Cámara de Diputados.
 
 SEGUNDO. Derogaciones
 
@@ -4882,3 +4884,7 @@ P.O. 31 DE AGOSTO DE 2007.
 P.O. 18 DE ABRIL DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2009.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
