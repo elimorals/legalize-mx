@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-tribunal-electoral-del-poder-30055"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-22"
-last_updated: "2003-04-22"
+last_updated: "2009-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 22 de abril de 2003.
 
@@ -953,3 +955,11 @@ MAGDO. ZEFERINO ESQUERRA CORPUS.
 LIC. ADRIANA MONTER GUERRERO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Reglamento estará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Reglamento Interior del Tribunal Electoral del Poder Judicial del Estado de San Luis Potosí, publicado en edición extraordinaria del Periódico Oficial del Estado, el veintidós de abril del dos mil tres, así como todas las disposiciones reglamentarias que se opongan al contenido del presente.
