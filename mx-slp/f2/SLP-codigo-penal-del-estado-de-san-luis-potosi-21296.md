@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2009-07-04"
+last_updated: "2009-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2009.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2671,6 +2671,10 @@ No se impondrá sanción alguna, en el caso de la fracción I del artículo 257 
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 261.
 
 Comete el delito de falso testimonio quien:
@@ -2761,7 +2765,7 @@ Si el procesado o sentenciado fue inculpado por cualquiera de los delitos consid
 
 ###### ARTICULO 271.
 
-Para los efectos de este Título, se entiende por servidor público toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal, en los poderes legislativo y judicial, y en la administración municipal, incluyendo las entidades paraestatales y paramunicipales.
+Para los efectos de este Titulo se entiende por servidor público, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal, en los poderes legislativo, y judicial, y en la administración municipal, incluyendo las entidades paraestatales y paramunicipales, así como los organismos constitucionales autónomos, y los tribunales administrativos del Estado.
 
 Se impondrán las mismas sanciones del delito de que se trate a cualquier persona que sin ser servidor público participe en alguno de los delitos previstos en este Título.
 
@@ -2811,15 +2815,33 @@ IV. Tiene conocimiento, por razón de su empleo, cargo o comisión, de que puede
 
 V. Sustrae, destruye, oculta, utiliza o inutiliza ilícitamente, por sí o por interpósita persona, información o documentación que se encuentra bajo su custodia o a la cual tiene acceso o de la que tiene conocimiento en virtud de su empleo, cargo o comisión;
 
-VI. Tiene obligación por razón de su empleo, cargo o comisión de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, e incumpliendo su deber los daña en cualquier forma; pierde o sustrae las cosas que se encuentran bajo su cuidado, o
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VII. Otorga empleo, cargo o comisión públicos o celebra contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, en ejercicio de sus funciones o con motivo de ellas, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se le nombró o no se cumplirá el contrato otorgado.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Tiene obligación por razón de su empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares; instalaciones u objetos, e incumpliendo su deber los daña en cualquier forma; pierde o sustrae las cosas que se encuentran bajo su cuidado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Otorga empleo, cargo o comisión públicos, o celebra contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, en ejercicio de sus funciones o con motivo de ellas, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se le nombró, o no se cumplirá el contrato otorgado, u (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. En razón de su cargo ordene o ejecute actos u omisiones que impliquen el incumplimiento, o la elusión por simulación, de lo establecido en la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, en beneficio propio o de otros servidores públicos.
 
 ###### ARTICULO 277.
 
 El delito a que se refiere el artículo anterior se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de veinte a sesenta días del salario que perciba al momento de la comisión del delito y destitución e inhabilitación del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-Al infractor de las fracciones IV o VI del artículo anterior, se le impondrá una pena de tres a siete años de prisión, sanción pecuniaria de sesenta a ciento cuarenta días del salario que perciba al momento de la comisión del delito y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+Al infractor de las fracciones IV, VI y VIII del artículo anterior, se le impondrá una pena de tres a siete años de prisión, sanción pecuniaria de sesenta a ciento cuarenta días del salario que perciba al momento de la comisión del delito, y destitución e inhabilitación por el doble de la pena de prisión impuesta, para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO IX. CONCUSION
 
@@ -3432,3 +3454,29 @@ P.O. 4 DE JULIO DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presenté Decreto.
+
+TERCERO. Para efectos de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, que contiene el artículo Primero de este Decreto, las instancias competentes de los órganos de la autoridad, deberán designar las unidades encargadas de la elaboración de los tabuladores y del Manual Reglamentario de Administración de Remuneraciones, a más tardar un mes después de la entrada en vigor de la Ley y, en el mismo plazo, deberán iniciar funciones. Asimismo, deberán publicar la lista de unidades en el órgano oficial de información o difusión que corresponda, en función de su nivel de gobierno. La formación de las estructuras a que se refiere esta disposición, deberá hacerse con los recursos humanos, materiales y presupuestarios asignados, por lo que no deberán implicar erogaciones adicionales.
+
+CUARTO. Para. los efectos de lo dispuesto en el antepenúltimo párrafo del artículo 26 de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, que se expide mediante este Decreto, sólo en lo que respecta al Ejercicio Fiscal 2009, el Comité Técnico de Valoración de las Remuneraciones de los Servidores Públicos del Estado, sesionará en el mes de octubre, con los integrantes a que se refieren las fracciones I, II, III, IV y V del citado artículo 26, previa convocatoria que al efecto emita el titular del Poder Ejecutivo.
+
+Instalada la primera sesión del Comité, en los términos del párrafo anterior, se ocupará de girar invitación a las cámaras y asociaciones empresariales más representativas del Estado, para que designen a quienes habrán de representar al sector privado, en términos de lo dispuesto por la fracción VI del artículo 26 la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+
+QUINTO. A partir de la entrada en vigor de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, se deberá elaborar anualmente el Catálogo General de Puestos del Gobierno del Estado y sus Municipios, tomando en consideración los tabuladores de remuneraciones de servidores.
+
+SEXTO. Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida, en la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+SEPTIMO. A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor este Decreto, las percepciones de los magistrados y jueces del Poder Judicial del Estado, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+A. Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en el artículo 10 de la Ley que se expide con el presente Decreto, se mantendrán durante el tiempo que dure su encargo.
+
+B. Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y, cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en el artículo 10 de la Ley que se expide con este Decreto.
+
+C. Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse, si la remuneración total no excede el monto máximo antes referido.
+
+OCTAVO. Todas las disposiciones legales que aludan a los emolumentos, salarios, sueldos, percepciones o cualquier expresión similar alusiva a la remuneración de los servidores públicos, deberán entenderse en los términos de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
