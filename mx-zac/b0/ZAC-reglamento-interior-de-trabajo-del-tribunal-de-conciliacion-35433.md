@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-trabajo-del-tribunal-de-conciliacion-354
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-10"
-last_updated: "2009-08-22"
+last_updated: "2009-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE TRABAJO DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE TRABAJO DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2009.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE SEPTIEMBRE DE 2009 NO APLICA AL ARTICULADO DE LA REFORMA PUBLICADA EN EL P.O. DE 22 DE AGOSTO DE 2009.]</small>
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 10 de diciembre de 2003.
 
