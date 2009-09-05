@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2008-11-27"
+last_updated: "2009-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -273,9 +273,11 @@ El carácter colegiado y deliberativo de la Asamblea, se regirá por los princip
 
 La Asamblea Legislativa estará invariablemente presidida por una Mesa Directiva, con facultades para regular su funcionamiento en sesiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 24.
 
-Los diputados tomarán asiento en la sala de sesiones “Lic. Benito Juárez García” conforme a su afiliación en grupos o representaciones parlamentarias y ocuparán siempre la misma curul.
+Los diputados tomarán asiento en la sala de sesiones Lic. Benito Juárez García, conforme a su afiliación en grupos o representaciones parlamentarias y ocuparán siempre la misma curul, de conformidad al acuerdo emitido por la Comisión de Gobierno.
 
 Sólo tendrán acceso al estrado de la Mesa Directiva, además de los diputados, el Secretario General y el personal que el presidente de la Mesa Directiva autorice, cuando por la naturaleza de los asuntos que vayan a tratarse sea necesaria su presencia.
 
@@ -609,9 +611,11 @@ V. La Mesa Directiva de la Diputación Permanente tiene en lo conducente las mis
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 51.
 
-La Legislatura contará para el estudio, dictamen y despacho de los asuntos de su competencia, con el número y tipo de comisiones que le resulten necesarias.
+Para los efectos del estudio y dictamen de iniciativas de leyes, decretos o acuerdos, y despachar los demás asuntos de su competencia, la legislatura contará con el número y tipo de comisiones legislativas que le resulten necesarias.
 
 Por su naturaleza, las comisiones pueden ser ordinarias, especiales o de investigación.
 
@@ -625,59 +629,89 @@ Cuando algún miembro de las comisiones tuviere interés personal justificado, y
 
 #### Sección Segunda. Competencia de las Comisiones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 54.
 
-Las atribuciones de las comisiones ordinarias y especiales se derivarán de su denominación, de las que les otorguen la ley y este reglamento, o, en su caso, de los asuntos que motivaren su integración.
+La competencia de las comisiones ordinarias y especiales se derivará de su denominación, de las que les otorgue la ley y este reglamento, o en su caso, de los asuntos que motivaren su integración.
 
 Las comisiones dictaminarán conjuntamente cuando la naturaleza del asunto así lo exija y corresponda a su competencia observando las formalidades contenidas por la Ley y este Reglamento.
 
 Cuando exista duda respecto de la competencia de las comisiones, decidirán sobre el particular la Mesa Directiva de la Asamblea o la Diputación Permanente en su caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 55.
 
-La competencia de las Comisiones Legislativas ordinarias es enunciativamente la que a continuación se indica:
+La competencia de las Comisiones Legislativas ordinarias abarca enunciativamente los temas o materias que a continuación se indican:
 
 I. Gobernación y Puntos Constitucionales.
 
-a) Iniciativas que propongan adiciones o reformas a la Constitución Local;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-b) Iniciativas y minutas de adición o reforma a la Constitución General;
+a) Enmiendas a las Constituciones General y Local;
+
+b) (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2009)
 
 c) Convenios entre el Estado y la federación, o entre aquél y otras entidades federativas o municipios;
 
-d) Materias legislativas relacionadas con expropiaciones, defensoría de oficio, ministerio público, profesiones y actividades técnicas, notariado y registro civil;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-e) Electorales e integración del Consejo y Tribunal Electoral del Estado;
+d) Expropiaciones, defensoría de oficio, ministerio público, notariado y registro civil;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+e) Cuestiones electorales, y las relativas al Instituto Estatal Electoral; integración del Consejo y Tribunal Electoral del Estado;
 
 f) Solicitudes de rehabilitación de la ciudadanía;
 
 g) Convenios de límites relativos al territorio del estado y al de los municipios;
 
-h) Los que tengan por objeto facultar al Ejecutivo para representar al Estado y los que le otorguen facultades extraordinarias;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-i) Los relativos al cambio de residencia de los poderes, del recinto oficial del Congreso y de residencia de las cabeceras municipales;
+h) Facultar al ejecutivo en términos de lo que dispone la Constitución local, para representar al estado y los que le otorguen facultades extraordinarias;
 
-j) Acuerdos sobre la comparecencia ante el Congreso de servidores públicos del Poder Ejecutivo, de los municipios y otros invitados;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+i) Cambio de residencia de los poderes, cabeceras municipales y traslado provisional del recinto oficial del Congreso;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+j) Comparecencia de servidores públicos ante el Congreso;
 
 k) Lo relativo a la designación de Gobernador interino, provisional o sustituto;
 
-l) El estudio de renuncias o licencias del propio Gobernador, diputados, magistrados de los órganos jurisdiccionales, integrantes de los Ayuntamientos, y de todos aquellos funcionarios que señalen las leyes donde debe intervenir el Congreso;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+l) Renuncias o licencias del Gobernador, diputados, integrantes de Ayuntamientos, magistrados de los órganos jurisdiccionales, y de todos aquellos servidores públicos en que por mandato de ley deba intervenir el Congreso;
 
 m) Autorizaciones al Gobernador para salir del territorio del Estado en los casos que establece la ley;
 
-n) El estudio sobre la procedencia de la ratificación del Procurador General de Justicia y el de las propuestas para la designación de los magistrados de los tribunales locales en los casos en que proceda la intervención del Congreso;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-ñ) Iniciativas sobre la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley;
+n) Ratificación del Procurador General de Justicia;
 
-o) Lo relativo a la prevención de ilícitos, cárceles o sistemas penitenciarios, combate a la drogadicción o a la delincuencia en el ámbito estatal y municipal;
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-p) La legislación orgánica de los poderes constitucionales del Estado y de los municipios, y
+o) Designación de los magistrados de los tribunales locales en los casos en que proceda la intervención del Congreso;
 
-q) Las demás que determine la Asamblea legislativa.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+p) Conocer concurrentemente los asuntos relativos a la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+q) Lo relativo a fa prevención de ilícitos, cárceles o sistemas penitenciarios, combate a la drogadicción o a la delincuencia;
+
+r) La legislación orgánica de los poderes constitucionales del Estado y de los municipios, y
+
+s) Las demás que determine la Asamblea legislativa.
 
 II. Investigación Legislativa.
 
-a) Elaborar los estudios y análisis de legislación correlativa de otros Estados de la República y del Distrito Federal, así como de legislación comparada de otros países que permitan obtener información para integrar los proyectos legislativos en general;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+a) Elaborar los estudios y análisis de legislación comparada;
 
 b) Auxiliar a otras comisiones en la formulación de los dictámenes o criterios técnicos tanto jurídicos como legislativos, cuando le fueren solicitados o así lo disponga la Asamblea;
 
@@ -689,19 +723,33 @@ e) Las demás que determine la Asamblea Legislativa.
 
 III. Justicia y Derechos Humanos.
 
-a) Iniciativas de reforma a las leyes penales y civiles;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-b) El estudio sobre la determinación de responsabilidades administrativas de los servidores públicos;
+a) Los relativos a la legislación penal y civil;
 
-c) Los relativos a la impartición y procuración de justicia civil, penal, para adolescentes, estatal o municipal;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-d) Los relativos a la seguridad pública en el ámbito estatal y municipal;
+b) Responsabilidad administrativa, penal y política de los servidores públicos;
 
-e) Los relacionados con el desahogo de los procedimientos tendientes a determinar la suspensión o revocación del mandato de alguno o algunos de los integrantes del Ayuntamiento;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-f) Los que tengan por objeto garantizar el cumplimiento del respeto a los derechos humanos;
+c) Los relativos a la procuración e impartición de justicia;
 
-g) Los informes que se presenten al Congreso, relativos a la situación de los derechos humanos en la entidad;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+d) Los relativos a la seguridad pública;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+e) Los relacionados con el desahogo de los procedimientos tendientes a determinar la suspensión o revocación del mandato de uno o varios de los integrantes del Ayuntamiento;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+f) Los que tengan por objeto garantizar el respeto a los derechos humanos;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+g) La atención a los informes y recomendaciones que se presenten al Congreso, relativos a la situación de los derechos humanos en la entidad;
 
 h) Los que tengan por objeto, en los casos de declaración de procedencia o de juicio político, determinar si el denunciado se encuentra comprendido dentro de la categoría de servidores públicos de conformidad con la Constitución Local;
 
@@ -715,29 +763,43 @@ l) Las demás que determine la Asamblea legislativa.
 
 IV. Asuntos Indígenas.
 
-a) Los que tengan como fin crear leyes, instituciones y programas de desarrollo económico, social y cultural en las zonas serranas del Estado;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+a) Los concernientes al desarrollo económico, social y cultural en las zonas serranas del Estado;
 
 b) Los relacionados con la aplicación y respeto a los derechos y cultura indígenas;
 
-c) En general, los asuntos de competencia de la administración estatal y municipal en materia indígena, siempre que tales asuntos deban desahogarse ante el Congreso, y
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+c) En general, los asuntos de competencia de la administración estatal y municipal en materia indígena, siempre que deban desahogarse ante el Congreso, y
 
 d) Las demás que determine la Asamblea legislativa.
 
 V. Hacienda, Cuenta Pública y Presupuesto.
 
-a) Los relacionados con la normatividad presupuestaria y financiera que legalmente corresponda conocer al Congreso;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-b) Los relativos a las leyes fiscales;
+a) Los relacionados con la normatividad presupuestaria y financiera;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+b) Los relativos a la legislación fiscal;
 
 c) Los relativos a resolver sobre el incumplimiento de las disposiciones contenidas en las leyes de coordinación fiscal federal y estatal;
 
 d) Los que se vinculen con el endeudamiento público estatal o municipal;
 
-e) Los que se refieran al reavalúo de las fincas urbanas o rústicas;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+e) Conocer concurrentemente los asuntos que se refieran al reavalúo de las fincas urbanas o rústicas;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
 f) Los que tengan por finalidad autorizar al titular del Poder Ejecutivo para gravar, enajenar, ceder o avalar bienes patrimoniales, muebles o inmuebles, o a constituir derechos reales sobre los mismos;
 
-g) La designación o ratificación del Presidente del Patronato para Administrar el Impuesto Adicional destinado a favor de la Universidad Autónoma de Nayarit;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+g) Conocer concurrentemente sobre la designación o ratificación del Presidente del Patronato para la Administración del Impuesto Especial destinado a favor de la Universidad Autónoma de Nayarit;
 
 h) Los relativos a la determinación de las bases, montos y plazos de las participaciones económicas federales o estatales;
 
@@ -745,7 +807,9 @@ i) Los que se deriven de la Ley del Órgano de Fiscalización Superior;
 
 j) Los que tengan por finalidad la regulación o creación de instituciones o programas de desarrollo social que traigan consigo la creación de fondos de inversión pública en el Estado o municipios, para su opinión si se le es requerida;
 
-k) Los que tengan por objeto autorizar las tablas de valores unitarios de suelo y construcciones; y (sic)
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+k) Conocer concurrentemente lo relacionado a las tablas de valores unitarios de suelo y construcciones;
 
 l) Las que le otorgue la legislación hacendaria y fiscal, estatal y municipal; y
 
@@ -755,11 +819,15 @@ VI. Educación, Cultura, Ciencia y Tecnología.
 
 a) Los que se relacionen con la prestación, organización, ejecución y evaluación de la política educativa del Estado y los municipios;
 
-b) Los que tengan por finalidad la regulación del sistema educativo local, incluidas las reformas constitucionales de la materia;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+b) Los que tengan por finalidad la regulación del sistema educativo, profesiones y actividades técnicas;
 
 c) Los vinculados con la desafectación de los bienes inmuebles de la Escuela Normal Superior de Nayarit;
 
-d) La designación o ratificación del Presidente del Patronato para la Administración del Impuesto Adicional destinado a favor de la Universidad Autónoma de Nayarit;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+d) Conocer concurrentemente sobre la designación o ratificación del Presidente del Patronato para la Administración del Impuesto Especial destinado a la Universidad Autónoma de Nayarit;
 
 e) Los relativos a la apertura y funcionamiento de los centros de educación que impartan particulares;
 
@@ -781,7 +849,9 @@ m) Conocer en la etapa que señala la Ley, del otorgamiento al Premio Estatal Me
 
 n) Lo relacionado con la regulación o creación de organismos públicos descentralizados o fideicomisos que tengan por finalidad el impulso de la ciencia y tecnología; y
 
-ñ) Las demás que determine la Asamblea legislativa.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+o) Las demás que determine la Asamblea legislativa.
 
 VII. Trabajo y Previsión Social.
 
@@ -813,7 +883,9 @@ b) Los asuntos relacionados con el Plan Estatal de Desarrollo;
 
 c) Los relativos al servicio profesional de carrera de los servidores públicos;
 
-d) Los que tengan por finalidad autorizar al Titular del Poder Ejecutivo para gravar, enajenar, ceder o avalar bienes patrimoniales, muebles o inmuebles, o a constituir derechos reales sobre los mismos, y
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+d) Conocer concurrentemente los asuntos que tengan por finalidad autorizar al titular del Poder Ejecutivo para gravar, enajenar, ceder o avalar bienes patrimoniales, muebles o inmuebles, o a constituir derechos reales sobre los mismos, y
 
 e) Las demás que determine la Asamblea Legislativa.
 
@@ -821,7 +893,9 @@ X. Desarrollo Económico y Social.
 
 a) Los relativos a la implementación de las políticas de planeación del desarrollo económico y social del Estado y los municipios;
 
-b) Los que se traten sobre la autorización de convenios entre el Estado y la federación, o entre éstos con los municipios, respecto de programas o financiamiento para el desarrollo;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+b) Conocer concurrentemente sobre la autorización de convenios entre el estado y la federación, o entre éstos con los municipios, respecto de programas o financiamiento para el desarrollo;
 
 c) Los relacionados con la creación de organismos destinados al fomento y desarrollo de las actividades productivas del Estado o los municipios;
 
@@ -857,7 +931,9 @@ a) Los que tengan por objeto legislar en materia de organización, prestación d
 
 b) Los relacionados con la regulación o celebración de convenios o concesiones de tránsito y transporte;
 
-c) Los relativos a la preservación de los monumentos y obras del patrimonio cultural, que deba ser declarado con las modalidades que al efecto establezcan las leyes, y
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+c) Concurrentemente los asuntos relativos a la preservación de los monumentos y obras del patrimonio cultural, que deba ser declarado con las modalidades que al efecto establezcan las leyes, y
 
 d) Las demás que determine la Asamblea Legislativa.
 
@@ -865,7 +941,9 @@ XIV. Asuntos Municipales.
 
 a) Los asuntos legislativos que se relacionen con el municipio en todos los ramos de su gobierno y administración, con excepción de los de carácter hacendario, presupuestal, de revisión de la cuenta, fiscalización y desarrollo urbano;
 
-b) Las iniciativas o solicitudes sobre la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley; y
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+b) Conocer concurrentemente los asuntos relativos a la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley; y
 
 c) Las demás que determine la Asamblea Legislativa.
 
@@ -887,7 +965,9 @@ b) Los relativos a los planes y programas de desarrollo urbano;
 
 c) Los que se refieran al reavalúo de las fincas urbanas o rústicas;
 
-d) Los que tengan por objeto modificar los valores de suelo y construcción, y
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+d) Conocer concurrentemente lo relacionado a las tablas de valores unitarios de suelo y construcciones, y
 
 e) Las demás que determine la Asamblea Legislativa.
 
@@ -907,7 +987,9 @@ a) Los que tengan por finalidad impulsar la eficiencia de los servicios educativ
 
 b) Los relacionados a políticas legislativas sobre fomento al empleo y actividades productivas para la juventud;
 
-c) Los relativos a combatir la drogadicción y delincuencia juvenil en el ámbito estatal o municipal, y
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+c) Los relativos a combatir la drogadicción y delincuencia juvenil, y
 
 d) Las demás que determine la Asamblea Legislativa.
 
@@ -935,19 +1017,27 @@ e) Las demás que determine la Asamblea Legislativa.
 
 XXI. Asuntos Pesqueros y Desarrollo Acuícola.
 
-a) Los relacionados con el fomento a la organización productiva de la pesca, y acuícola así como en acciones e inversiones gubernamentales que se convengan para la ejecución de programas del sector;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-b) Los relacionados con la creación de organismos públicos descentralizados o fideicomisos que tengan por finalidad el impulso y fomento de las actividades productivas pesqueras y acuícola, y
+a) Los relacionados con el fomento a la organización productiva de la pesca, y desarrollo acuícola así como en acciones e inversiones gubernamentales que se convengan para la ejecución de programas del sector;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+b) Los relacionados con la creación de organismos públicos descentralizados o fideicomisos que tengan por finalidad el impulso y fomento de las actividades productivas pesqueras y desarrollo acuícola, y
 
 c) Las demás que determine la Asamblea legislativa.
 
 XXII. Transparencia e Información Gubernamental.
 
-a) Conocer del estudio y dictamen de las iniciativas de reformas a la Ley de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+a) Lo concerniente al tema de la transparencia y acceso a la información pública;
 
 b) Los relativos al ámbito de competencia y funcionamiento de la Unidad de Enlace de Acceso a la Información Pública del Congreso del Estado;
 
-c) El estudio y dictamen sobre la designación del Titular del Instituto de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+c) Designación del Presidente del Instituto de Transparencia y Acceso a la Información Pública del Estado;
 
 d) Impulsar acuerdos relativos a la celebración de foros de difusión y promoción que fomenten en la sociedad la cultura de la transparencia, uso y aprovechamiento de la información pública;
 
@@ -963,13 +1053,17 @@ La competencia de las Comisiones Legislativas especiales es enunciativamente la 
 
 I. Condecoraciones, Ceremonial y Protocolo.
 
-a) Los concernientes a la creación, otorgamiento o revocación de medallas al mérito ciudadano de quienes se hagan merecedores por sus aportaciones académicas, artísticas, deportivas o culturales;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+a) Conocer concurrentemente en lo concerniente a la creación, otorgamiento o revocación de medallas al mérito ciudadano a favor de quienes se hagan merecedores por sus aportaciones académicas, artísticas, deportivas o culturales;
 
 b) Los relacionados al otorgamiento de premios y condecoraciones;
 
 c) Los relativos a las propuestas para emitir la declaración de Benemérito del Estado;
 
-d) Llevar a cabo las funciones de ceremonial y protocolo que determine el Presidente del Congreso, y
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+d) Llevar a cabo las funciones de ceremonial y protocolo que determine el Presidente del Congreso, y las que prevean las normas internas del Congreso; y
 
 e) Las demás que determine la Asamblea Legislativa.
 
@@ -977,9 +1071,13 @@ II. Gran Jurado.
 
 A. Sección Instructora:
 
-a) Con relación al juicio político contra los servidores públicos, practicar todas las diligencias necesarias para la comprobación de la conducta o hechos materia de éste, tendiente a establecer las características y circunstancias del caso y precisar la intervención que haya tenido el servidor público denunciado, que permitan determinar su posible responsabilidad política a efecto de presentar sus conclusiones para el trámite correspondiente de conformidad con la ley de la materia;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-b) Los relativos al desahogo del procedimiento para la declaración de procedencia de los servidores públicos, practicando todas las diligencias conducentes a establecer la existencia del delito y en su caso la probable responsabilidad del inculpado así como la subsistencia de la inmunidad procesal cuya remoción se solicita, dictaminando si ha lugar o no a proceder penalmente en contra del inculpado, y
+a) Con relación al juicio político seguido a servidores públicos, practicar las diligencias necesarias para la comprobación de la conducta o hechos materia de éste, tendiente a establecer las características y circunstancias del caso y precisar la intervención que haya tenido el servidor público denunciado, que permitan determinar en su caso la posible responsabilidad política a efecto de presentar sus conclusiones para el trámite correspondiente de conformidad con la ley de la materia;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+b) Los relativos al desahogo del procedimiento para la declaración de procedencia de los servidores públicos, practicando las diligencias conducentes a establecer la eventual existencia del delito y en su caso la probable responsabilidad del inculpado así como la subsistencia o no de la inmunidad procesal cuya remoción se solicita, dictaminando si ha lugar a proceder penalmente en contra del inculpado, y
 
 c) Dar cuenta, en los términos de la Ley y este Reglamento, sobre los dictámenes correspondientes al presidente del Congreso para los efectos que procedan;
 
@@ -989,13 +1087,17 @@ a) En materia de juicio político, formular las conclusiones en vista a las cons
 
 b) Dar cuenta, en los términos de la Ley y este Reglamento, sobre los dictámenes correspondientes al presidente del Congreso para los efectos que procedan;
 
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 III. Suspensión o Desaparición de Ayuntamientos.
 
-Corresponde a esta Comisión elaborar y presentar los dictámenes relacionados con el desahogo de procedimientos que tengan por objeto suspender Ayuntamientos o declarar su desaparición con arreglo a lo dispuesto en las Constituciones General y local, así como las leyes de la materia.
+Elaborar y presentar los dictámenes relacionados con el desahogo de procedimientos que en relación con los Ayuntamientos, tengan por objeto suspender o declarar su desaparición con arreglo a lo dispuesto por las Constituciones General y Local, y las leyes de la materia.
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
 IV. Comisiones de Investigación.
 
-Corresponderá a estas comisiones cuando así lo autorice el voto afirmativo de la mayoría absoluta de los integrantes de la Asamblea, atender exclusivamente los asuntos que en específico les sean encomendados, rindiendo a su conclusión un informe por escrito.
+Corresponderá a estas comisiones cuando así lo autorice el voto afirmativo de la mayoría absoluta de los integrantes de la Asamblea, atender exclusivamente los asuntos que en específico les hubiesen sido encomendados, rindiendo a su conclusión un informe por escrito.
 
 #### Sección Tercera. Junta Directiva de las Comisiones
 
@@ -1191,23 +1293,53 @@ Se exceptuarán los casos en que, previamente y con oportunidad, el presidente d
 
 #### Sección Segunda. Orden del Día de las Sesiones
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 78.
 
-Los documentos y asuntos que sean tratados en las sesiones, así como los requerimientos de orden logístico, de asistencia y apoyo parlamentario, serán preparados y entregados por los titulares de las dependencias competentes, con la intervención que corresponda a los Órganos del Gobierno Interior del Congreso.
+El orden del día es el documento que rige los trabajos de la Asamblea, y solo podrá modificarse en el transcurso de la sesión con el voto afirmativo de la mayoría absoluta de los diputados que integran el Congreso.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 79.
 
-El orden del día de las sesiones que se someterá a la aprobación de la Asamblea, será integrado por acuerdo de la Presidencia de la Mesa Directiva, y la Comisión de Gobierno, con las solicitudes que oportunamente reciba de las comisiones y grupos parlamentarios. Los diputados que no formen parte de ningún Grupo Parlamentario podrán solicitar la inclusión de puntos al orden del día.
+El orden del día de las sesiones que se someterá a la aprobación de la Asamblea, será integrado por acuerdo de la Presidencia de la mesa directiva, y la Comisión de Gobierno, con las solicitudes que oportunamente reciba por parte de diputados en lo individual, Comisiones, grupos o representaciones parlamentarias.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 80.
 
 En el orden del día se incluirán obligatoriamente los asuntos básicos y los complementarios que procedan, así como los extraordinarios, si hubiere.
 
-Los trámites relativos a las iniciativas de ley, decreto o acuerdo, se considerarán básicos.
+Los trámites relativos a la lectura del acta, comunicaciones, iniciativas recibidas y desahogo de dictámenes, se considerarán enunciativamente como básicos.
 
-Tendrán el carácter de puntos complementarios del orden del día, los asuntos generales que versen sobre declaraciones, denuncias, proposiciones, posiciones y opiniones que traten asuntos de interés general, los cuales se incluirán previa solicitud por escrito, a más tardar un día antes de cada sesión, y se autorizarán atendiendo la importancia cuantitativa de cada Grupo Parlamentario y al criterio de equidad. Estos asuntos deberán ser solicitados con una breve explicación de su contenido y objeto, indicando si requieren o no turno a Comisión. La Presidencia de la Mesa Directiva y la Comisión de Gobierno resolverán favorablemente las solicitudes cuando se trate de asuntos de interés general y sean de la competencia del Congreso, o contribuyan al cumplimiento de las funciones parlamentarias.
+Tendrán el carácter de puntos complementarios del orden del día, los asuntos generales que versen enunciativamente sobre lo siguiente:
 
-Los puntos extraordinarios de naturaleza superveniente, se incluirán en el orden del día únicamente por acuerdo de la Comisión de Gobierno con la Mesa Directiva.
+I. Declaraciones;
+
+II. Efemérides;
+
+III. Denuncias;
+
+IV. Informes;
+
+V. Proposición o presentación de iniciativas, y
+
+VI. Posiciones u opiniones políticas.
+
+Estos asuntos se incluirán en el orden del día previa solicitud por escrito, a más tardar un día antes de cada sesión. El orador contará con un tiempo de hasta 10 minutos para su exposición.
+
+Tratándose de iniciativas o proposiciones de Acuerdo con petición de urgente y obvia resolución, la solicitud que se formule deberá acompañar información fehaciente que justifique su contenido, y objeto. La Presidencia de la mesa directiva y la Comisión de Gobierno podrán resolver la improcedencia en los siguientes supuestos:
+
+I. Cuando la solicitud no cumpla las formalidades de su presentación;
+
+II. No se refiera a asuntos de interés general, y
+
+III. El asunto no sea de la competencia del Congreso.
+
+Los puntos extraordinarios de naturaleza superveniente, se incluirán en el orden del día únicamente por acuerdo de la Comisión de Gobierno con la mesa directiva.
+
+Las disposiciones contenidas en la presente sección aplicarán en lo conducente a las reuniones de la Diputación Permanente.
 
 ###### Artículo 81.
 
@@ -1345,6 +1477,10 @@ Tratándose del trámite de las observaciones del Gobernador a las resoluciones 
 
 Las iniciativas presentadas se darán a conocer ante la Asamblea por conducto de la Secretaría de la Mesa Directiva y, de considerarlo pertinente por su importancia, el presidente del Congreso dispondrá su lectura. Enseguida ordenará su turno a la o las comisiones legislativas competentes, para su estudio y dictamen.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+La Mesa Directiva a través de la Secretaría General, contará con 10 días hábiles a partir de la fecha en que se informe a la Asamblea o Diputación Permanente para turnar la iniciativa a las comisiones competentes.
+
 ###### Artículo 93.
 
 Los documentos principales que constituyen el proceso legislativo, salvo aquellos que tengan el carácter de reservado o confidencial y los de mero trámite, llevarán el control siguiente:
@@ -1369,9 +1505,13 @@ Las formalidades que se estimen pertinentes serán aplicadas en el desarrollo de
 
 Las iniciativas de ley o decreto deberán reunir los siguientes requisitos:
 
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 I. El escrito deberá estar dirigido al Diputado Presidente de la Mesa Directiva de la Asamblea o Diputación Permanente;
 
-II. Se presentará por escrito y en respaldo magnético que concuerde fielmente con el documento impreso, mismo que consignará el nombre, cargo y la firma de su autor o autores, en términos claros y precisos, y deberá entregarse a la Secretaría General del Congreso;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+II. Se presentará por escrito y en respaldo magnético que concuerde fielmente con el documento impreso, mismo que consignará el nombre, cargo y la firma de su autor o autores, en términos claros y precisos, y deberá entregarse a la Secretaría General del Congreso, quien en el acuse de recibo correspondiente registrará fecha y hora de presentación;
 
 III. La personalidad jurídica de quien o quienes las suscriban, en los términos expresamente señalados por la Constitución local;
 
@@ -1395,9 +1535,13 @@ b) Deberán presentarse por escrito y en respaldo electrónico;
 
 c) La solicitud deberá estar dirigida a la Presidencia de la Mesa Directiva o de la Comisión de Gobierno;
 
-d) Contendrán fundamento, una breve exposición de los motivos y la parte resolutiva;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-e) Fecha, nombre y firma del diputado o Comisión que hace la propuesta; y
+d) Contendrán fundamento, exposición de los motivos y la parte resolutiva;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+e) Fecha, Nombre y firma del diputado o Comisión que hace la propuesta; y
 
 f) El documento deberá ser entregado a la Secretaría General del Congreso.
 
@@ -1411,13 +1555,13 @@ El trámite de las iniciativas de acuerdo observará el siguiente procedimiento:
 
 I.- Si el escrito de registro expresa que se presenta con solicitud de urgente y obvia resolución se estará a lo siguiente:
 
-> <small>(F. DE E., P.O. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-a) Se deberá presentar con un día de anticipación a la sesión en que se desahogará;
+a) Se deberá presentar con un día de anticipación a la sesión en que se desahogará, el escrito deberá acompañar información fehaciente que justifique su contenido y objeto;
 
-> <small>(F. DE E., P.O. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-b) El expositor contará con un tiempo de hasta cinco minutos para su presentación;
+b) El expositor contará para su desahogo en sesión con un tiempo de hasta diez minutos;
 
 > <small>(F. DE E., P.O. 20 DE AGOSTO DE 2008)</small>
 
@@ -1441,7 +1585,9 @@ g) De obtenerse una votación que no apruebe la urgente y obvia resolución, el 
 
 II.- Si la solicitud de registro manifiesta únicamente presentación y solicita su turno a comisiones para estudio y dictamen, se observará lo siguiente:
 
-a) El expositor contará con un tiempo de hasta cinco minutos para su presentación;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+a) El expositor contará con un tiempo de hasta 10 minutos para su presentación;
 
 b) La presidencia de la Mesa Directiva dictará el turno a comisiones, y ordenará su publicación en la página electrónica del Congreso;
 
@@ -1507,11 +1653,15 @@ Puestos a consideración de la Asamblea los dictámenes con sus respectivos proy
 
 I. Proyectos de ley o decreto hasta en dos ocasiones en sesiones consecutivas;
 
-II. Proyectos de Acuerdo una sola lectura; y (sic)
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
-III. A petición del Presidente de la Mesa Directiva cuando los proyectos sean extensos, previa autorización de la Asamblea, únicamente se dará lectura al contenido principal del dictamen, omitiéndose la del articulado;
+II. Proyectos de Acuerdo una sola lectura, y
 
-IV. Cuando los proyectos a juicio del Presidente sean extensos, este someterá a la autorización de la Asamblea, dar lectura únicamente al contenido principal del dictamen.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+III. A petición del Presidente de la Mesa Directiva cuando los proyectos sean extensos, previa autorización de la Asamblea, únicamente se dará lectura al contenido principal del dictamen, omitiéndose la del articulado.
+
+IV. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 107.
 
@@ -1551,7 +1701,11 @@ IV. Referirse al tema objeto del debate. Los debates sobre aspectos de carácter
 
 V. Los criterios de los dictámenes se discutirán, en su caso, junto con las propuestas contenidas en los proyectos respectivos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 VI. Cuando el dictamen en su parte resolutiva conste de un solo artículo o punto enumerado, se discutirá de una vez en lo general y en lo particular, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
 VII. Todo dictamen estará sujeto a discusión en lo general; la discusión en lo particular se realizará sólo sobre los artículos reservados.
 
@@ -1671,27 +1825,29 @@ VII. Declaratoria que apruebe o rechace.
 
 La Comisión de Gobierno podrá acordar la celebración de debates sobre asuntos de interés general, abarcando un máximo de quince minutos por Grupo Parlamentario, partido político o diputado sin partido debidamente acreditados.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 125.
 
 La discusión para argumentar exclusivamente sobre la procedencia de la urgente y obvia resolución atenderá a las siguientes disposiciones:
 
 I. En la presentación de proposiciones de Acuerdo con solicitud de urgente y obvia resolución se sujetará a las siguientes reglas:
 
-b (sic)) Posterior a la exposición del autor se abrirá un sólo turno de oradores en el que podrán participar un diputado a favor y otro en contra;
+a) Posterior a la exposición del autor se abrirá un sólo turno de oradores en el que podrán participar un diputado a favor y otro en contra;
 
-c) La participación de cada orador se ajustará a un tiempo máximo de tres minutos; y
+b) La participación de cada orador se ajustará a un tiempo máximo de diez minutos; y
 
-d) No procederán participaciones para rectificación de hechos o alusiones personales.
+c) Únicamente procederán hasta dos participaciones para rectificación de hechos o alusiones personales por un tiempo de hasta cinco minutos.
 
 II. Cuando se trate de dictámenes con proyecto de ley o decreto susceptibles de dispensa de trámites se sujetará a las siguientes prescripciones:
 
 a) Procederá la discusión de la urgente y obvia resolución siempre y cuando en la misma sesión se haya agotado una lectura;
 
-b) Se abrirá un sólo turno de oradores que agrupará hasta dos participaciones a favor y hasta dos en contra;
+b) Se abrirá un solo turno de oradores que agrupará hasta dos participaciones a favor y hasta dos en contra;
 
-c) Las participaciones de cada orador se ajustará a un tiempo máximo de tres minutos;
+c) Las participaciones de cada orador se ajustará a un tiempo máximo de diez minutos;
 
-d) Procederán con autorización del presidente hasta dos participaciones para rectificación de hechos o alusiones personales por un tiempo de hasta tres minutos.
+d) Procederán con autorización del presidente hasta dos participaciones para rectificación de hechos o alusiones personales por un tiempo de hasta cinco minutos.
 
 #### Sección Séptima. Moción Suspensiva
 
@@ -1699,17 +1855,27 @@ d) Procederán con autorización del presidente hasta dos participaciones para r
 
 Cualquier diputado podrá solicitar moción suspensiva a la discusión de un proyecto, debiendo presentarla por escrito, debidamente motivada, ante la Secretaría General, un día antes de la sesión correspondiente para que el asunto quede registrado. Aprobado un proyecto en lo general no se admitirán a trámite mociones suspensivas al discutirse en lo particular.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 127.
 
 El desahogo de la moción suspensiva se llevará a cabo mediante el siguiente procedimiento:
 
-I. Lectura de la propuesta, y
+I. Lectura de la propuesta, y (sic)
 
-II. Discusión y votación, pudiendo hablar únicamente hasta tres individuos en pro y hasta tres en contra por cinco minutos cada uno.
+II. Discusión y votación, pudiendo hablar únicamente hasta tres individuos en pro y hasta tres en contra por diez minutos cada uno.
+
+III. Podrán participar para rectificación de hechos o alusiones personales hasta tres oradores por un tiempo máximo de cinco minutos.
 
 No podrá proponerse más de una moción suspensiva en la discusión de un mismo proyecto.
 
-Las mociones suspensivas procederán cuando, a juicio de la Legislatura: no sea posible continuar la discusión del proyecto por no contarse con la información necesaria para dictar la resolución; el dictamen fuere presentado con inconsistencias de orden técnico, o no hubiere, en ese momento, condiciones para buscar esclarecer las dudas presentadas o lograr consensos básicos.
+Las mociones suspensivas procederán cuando, a juicio de la legislatura se presente alguna de las siguientes causas:
+
+a) Ocurriesen hechos supervenientes que pudieran colocar en entredicho la viabilidad del proyecto de resolución que se discute;
+
+b) No sea posible continuar la discusión del proyecto por no contarse con la información necesaria para dictar la resolución, y
+
+c) El dictamen fuere presentado con inconsistencias de orden técnico, o no hubiere, en ese momento, condiciones para buscar esclarecer las dudas presentadas o lograr consensos básicos.
 
 ###### Artículo 128.
 
@@ -1953,13 +2119,15 @@ Para ese efecto, se encargará de la recepción, integración, tramitación y co
 
 En su actuación, el Secretario General se rige por lo dispuesto en la Ley y demás ordenamientos que regulan la vida interior del Congreso, así como por las normas, políticas, lineamientos y acuerdos que dicte la Comisión de Gobierno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
 ## TÍTULO CUARTO. Organización y Funciones Administrativas del Congreso
 
 ### Capítulo III. Oficialía Mayor
 
 ###### Artículo 158.
 
-Al Secretario General le corresponde observar las facultades y (sic)
+Al Secretario General le corresponde observar las facultades y obligaciones siguientes:
 
 I. Coordinar y supervisar los trabajos de las direcciones, coordinaciones y departamentos a su cargo, a efecto de que cumplan con sus atribuciones y observen las políticas, lineamientos y acuerdos del Congreso y de la Comisión de Gobierno;
 
@@ -1987,7 +2155,9 @@ XII. Establecer, en el ámbito de su competencia, los enlaces necesarios con el 
 
 XIII. Preparar los informes de labores y del cumplimiento de atribuciones con el apoyo de las dependencias a su cargo;
 
-XIV. Coordinar la elaboración de la Gaceta Parlamentaria e instruir la difusión de los documentos relativos a las actividades del Congreso;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+XIV. Coordinar la elaboración, y difusión de la Gaceta Parlamentaria, cuya publicación deberá realizarse preferentemente en medio electrónico cuando menos una vez al mes;
 
 XV. Instrumentar los procedimientos para la certificación y autentificación documental;
 
@@ -2057,7 +2227,19 @@ Las ausencias temporales de los directores y coordinadores serán suplidas por e
 
 La Dirección de Proceso Legislativo es la dependencia operativa encargada de atender y desahogar las actividades relacionadas con la preparación y desarrollo de los trámites legislativos, con las siguientes funciones:
 
-a) Llevar el control y registro de las iniciativas presentadas al Congreso, conforme a lo dispuesto en este reglamento;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+
+a) Llevar el control y registro de las iniciativas presentadas al Congreso, en el que se consigne enunciativamente los siguientes datos:
+
+I. Autor;
+
+II. Materia;
+
+III. Fecha y hora de presentación;
+
+IV. Fecha de aviso a la Asamblea o Diputación Permanente, y
+
+V. Fecha de turno a Comisiones.
 
 b) Con acuerdo del Secretario General, proporcionar los servicios de asesoría técnico-procesal a las comisiones legislativas, así como a sus miembros; para la elaboración de los estudios y proyectos de dictamen;
 
@@ -2838,6 +3020,10 @@ P.O. 8 DE NOVIEMBRE DE 2008.
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 P.O. 27 DE NOVIEMBRE DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
 
