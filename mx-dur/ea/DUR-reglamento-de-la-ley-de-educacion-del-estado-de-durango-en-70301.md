@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-la-ley-de-educacion-del-estado-de-durango-en-7030
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-07"
-last_updated: "2008-02-07"
+last_updated: "2009-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO DE LA LEY DE EDUCACION DEL ESTADO DE DURANGO, EN MATERIA DE ORGANIZACION Y EL FUNCIONAMIENTO DE LOS CENTROS DE DISTRIBUCION DE ALIMENTOS, UBICADOS EN LOS CENTROS ESCOLARES DE EDUCACION BASICA DEL SISTEMA ESTATAL DE EDUCACION Y EN LOS PLANTELES INCORPORADOS AL MISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 7 de febrero de 2008.
 
@@ -37,9 +37,11 @@ REGLAMENTO DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE ORGANIZA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento será aplicable en todo el territorio del Estado de Durango y es de observancia general y obligatoria, para la instalación de centros de distribución de alimentos que funcionan en los centros escolares de educación básica del sistema estatal de educación y en los planteles incorporados al mismo.
+El presente Reglamento será aplicable en todo el territorio del Estado de Durango y es de observancia general y obligatoria, para la instalación y operación de centros de distribución de alimentos fue funcionan en los centros escolares de educación básica del sistema estatal de educación y en los planteles incorporados al mismo.
 
 Estas disposiciones son de interés público y tienen como finalidad adicional hacer frente a los graves problemas de salud pública que se derivan de una inadecuada alimentación de las niñas y los niños, así como una mala higiene en el procesamiento de los alimentos.
 
@@ -47,37 +49,43 @@ Estas disposiciones son de interés público y tienen como finalidad adicional h
 
 En la aplicación del presente Reglamento, se promoverá la participación de las dependencias y entidades estatales y municipales competentes, padres de familia, directivos escolares, docentes y educandos.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 3.
 
-Para los efectos de este Reglamento se entenderá por:
+Para los efectos de este Reglamento se entenderá por.
 
-l. Centro de distribución de alimentos: Tienda escolar, cooperativa, cafetería, puesto semi-fijo, o cualquier otro local donde se expendan alimentos al interior de los centros de educación básica en la Entidad para el consumo de los alumnos y personal de la institución educativa;
+I. Asociación de Padres de Familia: Representación de los padres de familia del Centro Educativo.
 
-II. Centros educativos: Centros escolares de educación básica del sistema estatal de educación y planteles incorporados al mismo;
+II. Centro de Distribución de Alimentos: Tienda escolar, desayunadores y comedores escolares, cafetería, puesto semi-fijo, o cualquier otro local donde se expendan alimentos al interior de los centros de educación básica en la Entidad para el consumo de los alumnos y personal de la institución educativa.
 
-III. COPRISED: Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, dependiente de la Secretaría de Salud;
+III. Centros Educativos: Centros escolares de educación básica del Sistema Estatal de Educación y planteles incorporados al mismo.
 
-IV. Consejo de participación: Consejo escolar de participación social;
+IV. COPRISED: Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, dependiente de la Secretaría de Salud.
 
-V. DIF Estatal: Sistema para el Desarrollo integral de la Familia del Estado de Durango;
+V. Consejo de Participación Social: Consejo escolar de Participación Social.
 
-VI. Directivo (s): Personal que pertenece al sistema estatal de educación y los planteles incorporados al mismo, con la asignación de funciones de planeación, coordinación, control, evaluación y seguimiento educativas (sic);
+VI. Dictamen Técnico: Documento emitido por COPRISED o DIF Estatal, en el cual se hace constar los resultados de la verificación sanitaria o de contenido nutricional de los alimentos en los Centros Educativos.
 
-VII. Lineamientos: Acuerdos Administrativo mediante el cual se establecen los Lineamientos sobre el contenido nutricional de los alimentos que se expendan en los centros escolares de nivel básico, del sistema estatal de educación y en los planteles incorporados al mismo;
+VII. DIF Estatal: Sistema para el Desarrollo Integral de la Familia del Estado de Durango.
 
-VIII. Permisionario: Persona física o moral a la que se le concede la autorización temporal, por parte de la Secretaría de Educación del Estado de Durango, para la distribución de alimentos en los centros de educación básica en el estado;
+VIII. Directivo(s): Personal que pertenece al sistema estatal de educación y los planteles incorporados al mismo, con la asignación de funciones educativas de planeación, coordinación, control, evaluación y seguimiento.
 
-IX. Permiso temporal: Documento expedido por la Secretaría de Educación del Estado de Durango para la distribución de alimentos en los centros de educación básica;
+IX. Lineamientos: Acuerdo Administrativo expedido por la SEED, Secretaría de Salud y DIF Estatal, mediante el cual se establecen los Lineamientos sobre el contenido nutricional de los alimentos que se expendan en los centros escolares de nivel básico del sistema estatal de educación y en los planteles incorporados al mismo.
 
-X. SEED: Secretaría de Educación del Estado de Durango; y
+X. Permisionario: Persona física o moral a la que se le concede la autorización temporal, por parte de la Secretaría de Educación del Estado de Durango, para la distribución de alimentos en los centros de educación básica en el estado.
 
-XI. Secretaría de Salud: Secretaría de Salud del Estado de Durango;
+XI. Permiso Temporal: Documento expedido por la Secretaría de Educación del Estado de Durango para la distribución de alimentos en los centros de educación básica, con vigencia de un ciclo escolar.
 
-DEL OBJETO DEL REGLAMENTO
+XII. SEED: Secretaría de Educación del Estado de Durango.
+
+XIII. Secretaría de Salud: Secretaría de Salud del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 4.
 
-El presente Reglamento tiene por objeto establecer los criterios mínimos que se deberán considerar para el otorgamiento de permisos temporales a terceros, para el uso y aprovechamiento de los espacios físicos para realizar actos de distribución y comercialización de alimentos, en los centros escolares pertenecientes al sistema educativo estatal y en los planteles educativos del mismo.
+El presente Reglamento tiene por objeto establecer los criterios mínimos que se deberán considerar para el otorgamiento de permisos temporales a terceros, para el uso y aprovechamiento de los espacios físicos para realizar actos de distribución y comercialización de alimentos, en los centros escolares pertenecientes al Sistema Educativo Estatal y en los planteles incorporados al mismo.
 
 ###### Artículo 5.
 
@@ -85,33 +93,61 @@ Para el cumplimiento de lo dispuesto en el artículo anterior, se regulan las co
 
 ### CAPÍTULO II. OPERACIÓN Y ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 6.
 
-Para la aplicación del presente Reglamento, el DIF Estatal, la SEED y la Secretaría de Salud, en la materia de su competencia especifica, se auxiliarán de las instancias, oficinas y servidores públicos que cada una tengan establecidas en los municipios de la Entidad, a fin de facilitar los trámites que deban satisfacer los solicitantes de la autorización temporal correspondiente.
+Para la aplicación del presente Reglamento, el DIF Estatal, la SEED y la Secretaría de Salud en la materia de su competencia específica, se auxiliarán de las instancias, oficinas y servidores públicos que cada una tengan establecidas en los municipios de la Entidad, a fin de facilitar los trámites que deban realizar los solicitantes de la autorización temporal correspondiente.
 
 ###### Artículo 7.
 
 Para que una persona física o moral pueda hacer uso de espacios físicos en los inmuebles de los centros educativos, para realizar cualquier acto de comercialización de alimentos deberá obtener un permiso temporal debidamente formalizado, para lo cual deberá cumplir con el siguiente procedimiento:
 
-I. Para el efecto de obtenerlo, por parte de la SEED, el solicitante deberá presentar al Directivo del Centro educativo la siguiente documentación: solicitud por escrito, certificados de salud de quienes vayan a tener contacto directo con los alimentos así como el equipo de trabajo necesario;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
-II. El Consejo de participación de cada Centro educativo recibirá las solicitudes y demás requisitos por conducto del Directivo en el periodo de abril a junio de cada año lectivo, evaluando las propuestas y emitiendo un dictamen que deberá ser aprobado por los integrantes del mismo;
+I. Para efecto de obtener el Permiso Temporal, por parte de la SEED, el solicitante deberá presentar al Directivo del Centro Educativo la siguiente documentación: formato de solicitud debidamente requisitada, certificados de salud vigentes de quienes vayan a tener contacto directo con los alimentos expedido por la Secretaría de salud;
 
-III. Una vez agotado el procedimiento anterior, el Directivo solicitara a la SEED directamente a la Dirección de Educación Básica "A" y/o “B” y a la Dirección de Asuntos Jurídicos y Laborales que emita el dictamen conteniendo la viabilidad jurídica del otorgamiento del permiso temporal, dicho dictamen se hará del conocimiento al solicitante antes del termino del ciclo escolar en que fue presentada la solicitud;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
-IV. De ser favorable el dictamen el solicitante deberá realizar el pago que determine el Consejo de participación por concepto de apertura, así como el porcentaje de las utilidades que deberá entregar al Centro educativo, a efecto de recibir autorización temporal por parte del Directivo, quien registrará estos recursos en el rubro de ingresos propios;
+II. La Asociación de Padres de Familia de cada Centro Educativo recibirá las solicitudes y demás requisitos, por conducto del Directivo, en el periodo del 1° de abril al 30 junio del año lectivo, evaluando las propuestas y emitiendo su opinión, mediante un escrito que permanecerá en el expediente del Permisionario;
 
-V. Para ratificar el permiso temporal el permisionario solicitar su aviso de funcionamiento ante la Secretaría de Salud, a través de la COPRISED;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
-VI. Una vez otorgado el aviso de funcionamiento, la Secretaría de Salud, por conducto de la COPRISED, procederá a realizar una visita de verificación sanitaria inicial de las condiciones del establecimiento, de conformidad con lo establecido por la legislación sanitaria correspondiente, emitiendo el dictamen técnico;
+III. Una vez agotado el procedimiento anterior, el Directivo llevará la solicitud debidamente sellada y firmada por el Director y el Presidente de la Asociación de Padres de Familia, a la SEED, directamente al nivel educativo correspondiente, para que a su vez sea turnada a la Dirección de Asuntos Jurídicos y Laborales quien emitirá el dictamen correspondiente conteniendo la viabilidad jurídica del otorgamiento del permiso temporal; dicho dictamen se hará del conocimiento al Permisionario antes del término del ciclo escolar en que fue presentada la solicitud;
 
-VII. En caso de que el dictamen técnico no sea favorable, el permiso temporal quedará sin efecto; y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
-VIII. Con motivo de la obtención del permiso temporal para la instalación del Centro de distribución de alimentos, en caso de que se trate de la instalación de gas de uso doméstico, el permisionario deberá tramitar un seguro de responsabilidad civil a entera satisfacción de la SEED, que ampare la obligación que tiene de reparar los daños y perjuicios producidos a un tercero, a consecuencia de una acción u omisión, propia o de otro por el que deba responder. (DE ACUERDO A LA NOM-009-SSA2-1993 PARA EL FOMENTO DE LA SALUD DEL ESCOLAR)
+IV. De ser favorable el dictamen, el solicitante deberá realizar el pago que determine la Asociaron de Padres de Familia y el Directivo, por concepto de apertura, con un monto máximo de 10 salarios mínimos vigentes en el Estado, de acuerdo a las condiciones socioeconómicas del solicitante y los factores económicos de la región y/o Centro Educativo; así como el porcentaje de las utilidades que deberá entregar al Centro Educativo, quien registrará estos recursos en el rubro de ingresos propios;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+V. Una vez aprobada la solicitud el Permisionario tramitará su aviso de funcionamiento ante la secretaría de Salud, a través de la COPRISED;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Otorgado el aviso de funcionamiento, la Secretaría de Salud, por conducto de la COPRISED, en coordinación con la SEED y el DIF Estatal procederán a realizar una visita de verificación sanitaria y contenido nutricional, emitiendo los dictámenes técnicos correspondientes;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+VII. En caso de que el dictamen técnico no sea favorable, se procederá en los términos que establece el Capítulo V del presente Reglamento;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. Con motivo de la obtención del Permiso Temporal para la instalación del Centro de distribución de alimentos, en caso de que se trate de la instalación de gas de uso doméstico, el Permisionario deberá tramitar el permiso ante la Autoridad de Protección Civil que radique en el domicilio en donde se ejercerá la actividad, y anexarlo a su solicitud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+IX. En caso de que los Dictámenes Técnicos sean favorables, se validará colocando un sello en el Permiso Temporal el cual tendrá vigencia por el ciclo escolar.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 8.
 
-No deberán utilizarse para fines de venta, distribución y consumo de alimentos, los espacios destinados para clases, áreas deportivas, culturales y de uso común de los Centros educativos.
+No deberán utilizarse para fines de venta, distribución y consumo de alimentos, los espacios destinados para clases, áreas deportivas, culturales y de uso común de los Centros Educativos, sin la aprobación del Directivo del propio centro, ni deambular por ellas o ampliar el área destinada para la distribución previamente señalada.
+
+Queda estrictamente prohibida la entrada de vendedores ambulantes al interior de los Centros Educativos.
+
+El Directivo no podrá celebrar compromisos por escrito con los particulares y/o empresas privadas, tratándose de alimentos para su venta y distribución al interior del plantel.
 
 DEL PERMISO TEMPORAL Y LA INSTALACIÓN DE LOS CENTROS DE DISTRIBUCIÓN DE ALIMENTOS
 
@@ -149,33 +185,39 @@ La SEED, así como los Centros educativos no serán responsables de los siniestr
 
 ### CAPÍTULO III. RESPONSABILIDADES DEL PERMlSlONARlO
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 17.
 
-El Permisionario deberá garantizar la calidad nutricional y las condiciones sanitarias de los alimentos que se expendan en los Centros de distribución con motivo del permiso temporal que se le haya otorgado, en términos de los lineamientos o normas que establezca la Secretaría de Salud.
+El Permisionario deberá garantizar la calidad nutricional y las condiciones sanitarias de los alimentos que se expendan en los Centros de Distribución con motivo del permiso temporal que se le haya otorgado, en términos de los lineamientos o normas que establezca la Secretaría de Salud, el DIF estatal y la SEED.
 
 ###### Artículo 18.
 
 El Permisionario será responsable de reparar los daños y perjuicios producidos a un tercero, derivado de una acción u omisión, propia o de otro por el que deba responder, en la que haya habido algún tipo de culpa o negligencia por el ejercicio de su permiso.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 19.
 
-Los precios que se fijen a los alimentos en los Centros de distribución, serán establecidos por el Permisionario, con acuerdo de la SEED y del Consejo de participación, tratando de que estén acordes a la economía de los padres de familia y según la región de que se trate.
+Los precios que se fijen a los alimentos en los Centros de Distribución, serán establecidos por el Permisionarío, en acuerdo con el Directivo y la Asociación de Padres de Familia, tratando de que estén acordes a la economía de los padres de familia y según la región económica de que se trate.
 
-DE LOS DIRECTIVOS
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 20.
 
-Los Directivos realizaran las gestiones necesarias para conceder o negar, en su caso, el permiso temporal para la instalación de Centros de distribución de alimentos en los Centros educativo (sic) de su responsabilidad.
+Los Directivos realizarán las gestiones necesarias en coordinación con la Asociación de Padres de Familia, para conceder o negar en su caso, el Permiso Temporal para la instalación de Centros de Distribución de Alimentos en los Centros Educativos de su responsabilidad.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 21.
 
-Será responsabilidad de los Directivos que se lleve a cabo la supervisión periódica del cumplimento de las obligaciones establecidas en los permisos temporales correspondientes, para lo cual privilegiara la coordinación con el personal del DIF Estatal, de la SEED y de la Secretaría de Salud, en sus respectivos ámbitos de competencia.
+Será responsabilidad de los Directivos solicitar que se lleve a cabo la supervisión periódica del cumplimiento de las obligaciones establecidas en los permisos temporales correspondientes, para lo cual privilegiará la coordinación con el personal del DIF Estatal, de la SEED y de la Secretaría de Salud, en sus respectivos ámbitos de competencia; así como hacer cumplir el Reglamento por el personal a su cargo.
 
-DEL PERSONAL DEL CENTRO EDUCATIVO
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 22.
 
-Quedan excluidos de participar, asociarse y coadyuvar con fines de lucro en las actividades de distribución de alimentos en los Centros educativos en la entidad, salvo en aquellos casos que sea justificable ante el Consejo de Participación Social, la inclusión del personal docente administrativo y de servicios de las escuelas, con el objeto de proteger la función primordial de su responsabilidad laboral.
+El personal docente, administrativo y de servicios de las escuelas, a excepción de colegios particulares, quedan excluidos de participar, asociarse y coadyuvar con fines de lucro en las actividades de distribución de alimentos en los Centros Educativos en la entidad, con el objeto de proteger la función primordial de su responsabilidad laboral.
 
 ###### Artículo 23.
 
@@ -183,31 +225,47 @@ El personal de los Centros educativos, deberá promover buenas prácticas de hig
 
 DE LOS PADRES DE FAMILIA
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 24.
 
-Los padres de familia en lo particular o a través de organizaciones, asociaciones u otros organismos similares deberán participar de manera comprometida en el fomento de prácticas de higiene y hábitos de alimentación saludables para sus hijos, con el objeto de formar conductas tendentes a la protección de la salud.
+Los padres de familia en lo particular o a través de organizaciones, asociaciones u otros organismos similares, deberán participar de manera comprometida en el fomento de prácticas de higiene y hábitos de alimentación saludables para sus hijos, con el objeto de formar conductas tendentes a la protección de la salud. Podrán informar por escrito a la SEED de las anomalías que detecten en los Centros de Distribución de Alimentos referentes a su operación.
 
 ###### Artículo 25.
 
 Los padres de familia deberán asistir a reuniones de información y capacitación que el DIF Estatal, la SEED y la Secretaría de Salud impartan sobre prácticas alimenticias, alimentación y promoción de prácticas sanitarias, con objeto de fortalecer los hábitos alimenticios de la familia.
 
-DE LOS CONSEJOS DE PARTICIPACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+DE LA ASOCIACIÓN DE PADRES DE FAMILIA
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 26.
 
-Es competencia de los Consejos de participación, dictaminar las solicitudes para el permiso temporal de Centros de distribución de alimentos, por conducto de su mesa directiva, una vez que se conozca el expediente respectivo y se constate el cumplimiento de los requerimientos establecidos en el presente Reglamento.
+Es competencia de la Asociación de Padres de Familia, colaborar con el Directivo para dictaminar las solicitudes para el Permiso Temporal de Centros de Distribución de Alimentos, por conducto de su mesa directiva, una vez que se conozca el expediente respectivo y se constate el cumplimiento de los requerimientos establecidos en el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 27.
 
-Le corresponde al Consejo de participación, aplicar estrategias de supervisión y vigilancia del cumplimiento de las disposiciones de este Reglamento, aplicables a los Centros de distribución de alimentos que funcionen en los Centros educativos.
+Es responsabilidad de la Asociación de Padres de Familia, vigilar y reportar en su caso, según corresponda, tanto al personal de la Secretaría de Salud, el DIF Estatal y la SEED, las anomalías e irregularidades que se presenten en los Centros de Distribución de Alimentos.
+
+> <small>(ADICIONADA SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 28.
 
-Es responsabilidad de los Consejos de participación, vigilar y reportar en su caso, según corresponda, tanto al personal de la Secretaría de Salud, el DIF Estatal y la SEED, las anomalías e irregularidades que se presenten en los Centros de distribución de alimentos.
+Le corresponde al Consejo de Participación Social, aplicar estrategias de supervisión y vigilancia del cumplimiento de las disposiciones de este Reglamento, aplicables a los Centros de Distribución de Alimentos que funcionen en los Centros Educativos.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 29.
 
-Es obligación de los integrantes de los Consejos de participación, asistir a las reuniones relacionadas con la información y el funcionamiento de los Centros de distribución de alimentos, así como a los eventos de capacitación relacionados con la formación y fomento de una cultura de buenos hábitos alimenticios.
+Es obligación de los integrantes de los Consejos de Participación Social, asistir a las reuniones relacionadas con la información y el funcionamiento de los Centros de Distribución de Alimentos, así como a los eventos de capacitación relacionados con la formación y fomento de una cultura de buenos hábitos alimenticios.
 
 DE LAS INSTITUCIONES
 
@@ -215,11 +273,17 @@ DE LAS INSTITUCIONES
 
 Para el cumplimento de lo dispuesto en este Reglamento, se establecen las siguientes responsabilidades Institucionales:
 
-I. La SEED resolverá por conducto de la Dirección de Asuntos Jurídicos y Laborales sobre la solicitud de permiso temporal para operar los Centros de distribución, así como determinará los días hábiles o laborales y horarios en que se prestará el servicio de acuerdo al calendario escolar y vigilará el cumplimiento de las disposiciones estipuladas a este respecto en el presente Reglamento.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+I. La SEED resolverá por conducto de la Dirección de Asuntos Jurídicos y Laborales sobre la solicitud de Permiso Temporal para operar los Centros de Distribución de Alimentos, así mismo en coordinación con el nivel educativo correspondiente determinará los días hábiles o laborales y horarios en que se prestara el servicio, de acuerdo al calendario escolar y vigilará el cumplimiento de las disposiciones estipuladas a este respecto en el presente Reglamento.
+
+La Secretaría de Educación promoverá la celebración de Acuerdos o Convenios de Colaboración con autoridades Municipales, para que en el ámbito de sus facultades vigilen el ejercicio del comercio en la vía pública al exterior de instalaciones de los centros Educativos.
 
 II. La Secretaría de Salud, a través de la COPRISED de conformidad con la normatividad correspondiente, verificará y vigilará las condiciones sanitarias de los alimentos, utensilios, instalaciones y personal que prepare y expenda alimentos en los Centros educativos de nivel básico, de conformidad con la normatividad sanitaria vigente, y
 
-III. El DIF Estatal verificará el contenido nutricional y el tipo de productos que se expendan en los centros de distribución de alimentos.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+III. El DIF Estatal verificará el contenido nutricional y el tipo de productos que se expendan en los centros de Distribución de Alimentos, emitiendo el Dictamen Técnico correspondiente.
 
 ###### Artículo 31.
 
@@ -227,13 +291,17 @@ La SEED en coordinación con la Secretaría de Salud y el DIF Estatal, desarroll
 
 ### CAPÍTULO IV. ATRIBUCIONES INSTITUCIONALES
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 32.
 
-La SEED otorgará y revocará en su caso, el permiso temporal para la operación de los Centros de distribución que se ubiquen en el interior de los Centros educativos, a través de los directivos escolares, en coordinación con los Consejos participación y con la opinión del área jurídica de la SEED.
+La SEED podrá otorgar y revocar en su caso fundando y motivando, el Permiso Temporal para la operación de los Centros de Distribución que se ubiquen en el interior de los Centros Educativos, haciéndolo del conocimiento a los Directivos escolares, en coordinación con los Consejos de Participación Social y con la opinión del área jurídica de la SEED.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 33.
 
-La SEED a través de los Supervisores de zona vigilará el cumplimiento del presente Reglamento y los Lineamientos en todo el Estado; específicamente en los Centros educativos, en coordinación con las asociaciones de padres de familia y los Consejos de participación.
+La SEED a través de los Supervisores de Zona vigilará el cumplimiento y seguimiento del presente Reglamento y los Lineamientos en todo el Estado; específicamente en los Centros Educativos, en coordinación con las Asociaciones de Padres de Familia y los Consejos de Participación Social.
 
 ###### Artículo 34.
 
@@ -253,19 +321,21 @@ El DIF Estatal, vigilará el contenido nutricional de los alimentos que se expen
 
 Los permisos otorgados en contravención de lo dispuesto en el presente Reglamento no tendrán validez alguna, generando las consecuencias legales y responsabilidades atribuibles a los servidores públicos de la SEED, que hubieren procedido sin observarlo.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 38.
 
-Cada Centro de distribución de alimentos estará obligado a contribuir con el Centro educativo con un porcentaje de las utilidades netas mismo que se establecerá en el documento del permiso temporal, a propuesta del Consejo de participación.
+Cada Centro de Distribución de Alimentos estará obligado a contribuir con el Centro Educativo con un porcentaje de las utilidades netas, en común acuerdo con la Asociación de Padres de Familia y el Directivo.
 
 ###### Artículo 39.
 
 Los recursos aportados por el Permisionario, en términos del artículo anterior, serán aplicados para el mejoramiento de la infraestructura de los Centros educativos y para una mejor instrucción de los educandos, los cuales serán sujetos a control por parte de la autoridad correspondiente de la SEED, de conformidad con las disposiciones aplicables.
 
-QUEJAS E INCONFORMIDADES
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 40.
 
-Toda queja o inconformidad que se derive de la aplicación del presente Reglamento podrá presentarse ante las autoridades del Centro educativo, quien la turnará a la instancia correspondiente, sin perjuicio de enterar a la Secretaría de Salud, la SEED, el DIF Estatal y los órganos de control interno de estas dependencias, la cual será atendida de conformidad con las atribuciones que les correspondan y con apego a la legislación respectiva
+Toda queja o inconformidad que se derive de la aplicación del presente Reglamento podrá presentarse por escrito ante las autoridades del Centro Educativo, quien la turnará a la instancia correspondiente, sin perjuicio de enterar a la Secretaria de Salud, la SEED, el DIF Estatal y los órganos de control interno de estas dependencias, la cual será atendida de conformidad con las atribuciones que les correspondan y con apego a la legislación respectiva.
 
 SANCIONES
 
@@ -275,15 +345,35 @@ En caso de incumplimiento de lo estipulado en el presente Reglamento, por parte 
 
 I. Amonestación por escrito;
 
-II. Multa por reincidencia;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
-III. Suspensión temporal del permiso; y
+II. Clausura temporal del Centro de Distribución de Alimentos de 5 días hábiles;
 
-IV. Suspensión definitiva del permiso.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+III. Suspensión definitiva del Permiso.
+
+IV. (REFORMADA [N. DE E. DEROGADA], P.O. 6 DE SEPTIEMBRE DE 2009)
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 42.
 
-Independientemente de lo anterior, el Permisionario estará sujeto a las sanciones que la Secretaría de Salud, a través de la COPRISED aplique, de conformidad con su legislación sanitaria correspondiente.
+La COPRISED en coordinación con La SEED, sancionarán de acuerdo a lo establecido en el presente Reglamento.
+
+Si durante la visita de verificación por parte de la SEED, COPRISED Y DIF estatal se detectan vendedores ambulantes al exterior del Centro Educativo, deberán dar vista a la Autoridad Municipal para que ésta, a través de los Inspectores Municipales, proceda de conformidad con las atribuciones que les correspondan.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 43.
+
+El Permisionario estará sujeto a las sanciones que la Secretaria de Salud, a través de la COPRISED aplique, de conformidad con su legislación sanitaria correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 44.
+
+El Directivo estará sujeto a las sanciones que la SEED imponga derivado del incumplimiento en la aplicación y vigilancia del presente Reglamento.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -324,3 +414,11 @@ DIRECTOR GENERAL DEL SISTEMA DIF ESTATAL
 DRA. ELVIA E. PATRICIA HERRERA GUTIÉRREZ
 
 SECRETARIA DE SALUD Y DIRECTORA GENERAL DE LOS SERVICIOS DE SALUD EN EL ESTADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2009.
+
+Artículo primero. El presente Decreto de Reformas entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo segundo. Se derogan las disposiciones normativas y administrativas, que se opongan al presente Decreto.
