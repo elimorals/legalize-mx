@@ -4,7 +4,7 @@ identifier: "LOPDC"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-09-04"
-last_updated: "2006-09-04"
+last_updated: "2009-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPDC"
 
 LEY ORGANICA DE LA PROCURADURIA DE LA DEFENSA DEL CONTRIBUYENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -96,7 +96,9 @@ V.- Promover el estudio, la enseñanza y la divulgación de las disposiciones fi
 
 VI.- Instalar el Servicio Profesional de Carrera para los asesores y personal jurídico, tomando como base los principios de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal;
 
-VII.- Informar anualmente al Congreso de la Unión sobre el ejercicio de su función y comparecer siempre que sea convocado para ese efecto, ante el Pleno o las Comisiones camerales correspondientes;
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2009)</small>
+
+VII.- Atender, dentro de los límites legales que en la materia existan para las autoridades fiscales, las obligaciones sobre transparencia e información que impone la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, difundiendo entre la población en general, a través de la página electrónica que tenga establecida en el sistema "Internet", las principales acciones que haya realizado tanto en defensa de los contribuyentes como para mejorar la relación entre éstos y las autoridades fiscales, en términos estrictos de las facultades que esta Ley le concede. Asimismo y con el objeto de garantizar el cumplimiento de esta Ley, la Procuraduría proporcionará los datos estadísticos más relevantes para que el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, publique al menos semestralmente en el Diario Oficial de la Federación, la información sobre sus principales actividades administrativas;
 
 VIII.- Imponer las multas en los supuestos y montos que en esta Ley se establecen;
 
@@ -214,9 +216,13 @@ Artículo. 12.- El Órgano de Gobierno de la Procuraduría es un cuerpo colegiad
 
 I.- El Procurador de la Defensa del Contribuyente, quien tendrá voto de calidad en caso de empate en las decisiones del Órgano de Gobierno, y
 
-II.- Seis consejeros independientes, los cuales serán designados por el Senado de la República o, en su caso, por la Comisión Permanente del Congreso de la Unión.
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2009)</small>
 
-El Senado de la República preservará un adecuado equilibrio al designar a dichos consejeros, tomando en cuenta a los representantes de las principales universidades del país, a los representantes de asociaciones profesionales, así como a las principales cámaras empresariales. Estos nombramientos deberán recaer en personas que cuenten con amplia experiencia en la materia fiscal y contable y quienes por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos y puedan contribuir a mejorar las funciones de la Procuraduría.
+II.- Seis consejeros independientes, los cuales serán designados por el titular del Ejecutivo Federal.
+
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2009)</small>
+
+El Presidente de la República preservará un adecuado equilibrio al designar a dichos consejeros, tomando en cuenta a los representantes de las principales universidades del país, a los representantes de asociaciones profesionales, así como a las principales cámaras empresariales. Estos nombramientos deberán recaer en personas que cuenten con amplia experiencia en la materia tributaria y quienes por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos y puedan constituir a mejorar las funciones de la Procuraduría.
 
 Al aceptar el cargo cada consejero independiente deberá suscribir un documento donde declare, bajo protesta de decir verdad, que no tiene impedimento alguno para desempeñarse como consejero, así como aceptar los derechos y obligaciones derivados de tal cargo.
 
@@ -405,3 +411,9 @@ De acuerdo con la fracción XIV del artículo 5 de esta Ley, las personas que al
 México, D.F., a 26 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Micaela Aguilar González, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de agosto de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 7 DE SEPTIEMBRE DE 2009.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
