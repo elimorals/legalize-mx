@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2009-04-06"
+last_updated: "2009-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -67,27 +67,41 @@ a).- Que el crédito que se le exige se ha extinguido legalmente;
 
 b).- Que el monto del crédito es inferior al exigible;
 
-c).- Que es poseedor, a título de propietario de los bienes embargados en el procedimiento económico coactivo seguido a otras personas, o acreedor preferente al fisco, y
+(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009) (F. DE E., P.O. 21 DE SEPTIEMBRE DE 2009)
+
+c).- Que es poseedor, a título de propietario de los bienes embargados o acreedor preferente al fisco; y
 
 d).- Que el procedimiento coactivo no se ajustó a la ley. En este último caso, la oposición no podrá hacerse valer, sino contra la resolución que se apruebe el remate; salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación;
 
 V.- De los juicios en los que se impugne la negativa de una autoridad para ordenar la devolución de cantidades pagadas indebidamente;
 
-VI.- De los juicios en contra de las resoluciones definitivas que constituyan créditos fiscales, por responsabilidades de los servidores públicos del Estado, de los Ayuntamientos y sus Organismos Descentralizados;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+VI.- De los juicios en contra de las resoluciones definitivas por responsabilidades de los servidores públicos del Estado, de los Ayuntamientos y sus Organismos Descentralizados;
 
 VII.- De los juicios en contra de las resoluciones dictadas conforme a una ley especial, que le otorgue competencia al Tribunal de lo Contencioso Administrativo del Estado;
 
-VIII.- De los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios;
+(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2009) (F. DE E., P.O. 21 DE SEPTIEMBRE DE 2009)
 
-Para los efectos de la primera y segunda fracción de este Artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando su interposición sea optativa para el particular.
+VIII.- De las controversias suscitadas entre la Administración Pública y los Agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y sus Municipios; y
 
-El Procedimiento Contencioso Administrativo no procederá en el caso de controversias que se susciten en materia electoral y laboral, así como las derivadas de universidades o instituciones educativas constituidas como organismos descentralizados y que gocen de personalidad jurídica y patrimonio propio.
+IX.- De los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios;
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+Para los efectos de las dos primeras Fracciones de este Artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando, previéndolo, el afectado opte por no agotarlo y acuda directamente al Tribunal.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+El Procedimiento Contencioso Administrativo, no procederá en el caso de controversias que se susciten en materia electoral y laboral, así como las derivadas de universidades o instituciones educativas constituidas como organismos descentralizados, que gocen de personalidad jurídica y patrimonio propios y que no hubieren actuado como autoridades.
 
 Asimismo, quedan excluidos del procedimiento establecido en esta Ley, los actos y conductas de los servidores públicos en el ejercicio de sus funciones, los cuales se regulan por las legislaciones respectivas.
 
-###### ARTICULO 3º.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
-Para todo lo no previsto en esta Ley, se aplicará de manera supletoria lo dispuesto en el Código de Procedimientos Civiles del Estado.
+###### ARTICULO 3°.
+
+Para todo lo no previsto en esta Ley, se aplicará de manera supletoria el Código de Procedimientos Civiles del Estado, siempre que sus disposiciones no contravengan al procedimiento contencioso aquí regulado, ni sean contrarias a la naturaleza propia del derecho administrativo y fiscal.
 
 ###### ARTICULO 4º.
 
@@ -121,9 +135,11 @@ La gestión de negocios no procederá en el Procedimiento de lo Contencioso Admi
 
 La representación legal de los particulares se otorgará en escritura pública o carta poder, firmada ante dos testigos y ratificada la firma del otorgante ante notario público, o ante el Secretario General de Acuerdos del Tribunal.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
-Los particulares, o sus representantes, podrán autorizar por escrito a un Licenciado en Derecho que tenga cédula profesional registrada ante el Tribunal, para que a su nombre reciban notificaciones
+###### ARTICULO 8°.
+
+Los particulares o sus representantes, podrán autorizar por escrito a un licenciado en Derecho para que a su nombre reciba notificaciones, siempre que anexe copia certificada de su cédula profesional o que la misma esté registrada ante el Poder Judicial del Estado.
 
 La persona así autorizada podrá ser promociones de trámite, rendir pruebas, alegar en las audiencias e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
 
@@ -141,15 +157,29 @@ Las que deben desahogarse fuera de la residencia del Tribunal, deberán encomend
 
 Cuando las leyes o reglamentos de las distintas dependencias administrativas estatales, municipales, de sus órganos descentralizados o de otras personas, establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo, o bien, intentar desde luego el juicio ante el Tribunal.
 
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+Cuando la resolución recaída a un recurso administrativo, no satisfaga el interés jurídico del recurrente, y éste la controvierta en el juicio contencioso administrativo, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de nulidad no planteados en el recurso.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+Asimismo, cuando la resolución a un recurso administrativo declare por no interpuesto o lo deseche por improcedente, siempre que el Tribunal competente determine la procedencia del mismo, el juicio contencioso administrativo procederá en contra de la resolución objeto del recurso, pudiendo en todo caso hacer valer conceptos de nulidad no planteados en el recurso.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 11.
 
-El Tribunal para hacer cumplir sus determinaciones, podrá hacer uso de los siguientes medios de apremio y medidas disciplinarias:
+El Tribunal para hacer cumplir sus determinaciones, con independencia de las previstas para el cumplimiento de las sentencias y de la suspensión del acto impugnado, podrá hacer uso de los siguientes medios de apremio y medidas disciplinarias:
 
-I.- Amonestación,
+I. Amonestación;
 
-II.- Arresto hasta por treinta y seis horas, que podrá conmutarse a solicitud del infractor por una multa en cantidad equivalente hasta de treinta días de salario mínimo general vigente en el Estado de Aguascalientes; y
+II. Multa que podrá ser de uno hasta treinta días de salario mínimo general vigente en el Estado de Aguascalientes;
 
-III.- El auxilio de la fuerza pública.
+III. Arresto hasta por treinta y seis horas; o
+
+IV. El auxilio de la fuerza pública.
+
+Para la imposición de los medios de apremio y medidas disciplinarias anteriores no será necesario sujetarse al orden antes establecido.
 
 ###### ARTICULO 12.
 
@@ -165,11 +195,11 @@ Toda resolución durante el procedimiento debe notificarse, a más tardar, al d�
 
 Al Actuario que sin causa justificada incumpla con esta obligación o practique notificaciones en forma contraria a las formalidades conducentes, se le impondrá una multa que no excederá del treinta por ciento de su salario mensual; en caso de reincidencia, se dará vista al Consejo de la Judicatura Estatal, el cual, previa audiencia del Actuario, podrá imponerle una sanción hasta por treinta días de suspensión. De persistir en la omisión, el Consejo determinará la destitución del Actuario, sin responsabilidad para el Estado.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 14.
 
-Las notificaciones se practicarán siguiendo las reglas del Código de Procedimientos Civiles del Estado.
+Las notificaciones se practicarán siguiendo las reglas del Código de Procedimientos Civiles del Estado, excepto en el caso de las autoridades, las cuales se harán por oficio.
 
 ###### ARTICULO 15.
 
@@ -301,7 +331,9 @@ La demanda se presentará directamente ante el Tribunal o se podrá enviar por c
 
 La presentación deberá hacerse dentro de los quince días siguientes a aquél en que haya surtido efectos la notificación del acto o resolución impugnado.
 
-En los casos de negativa ficta, el interesado no está obligado a interponer el juicio dentro del término previsto en el párrafo precedente, pudiendo presentar la demanda en cualquier tiempo, mientras no se dicte la resolución expresa, y siempre que haya transcurrido el plazo para que opere dicha negativa.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+En los casos de negativa ficta, el interesado no está obligado a interponer el juicio dentro del término previsto en el párrafo precedente, pudiendo presentar la demanda en cualquier tiempo, mientras no se dicte la resolución expresa, y siempre que haya transcurrido el plazo para que opere dicha resolución ficta.
 
 Cuando se pida la nulidad de un acto favorable a un particular, las autoridades podrán presentar la demanda dentro de los cinco años siguientes a la fecha en que sea emitida la resolución, salvo que haya producido efecto de trato (sic) sucesivo. En este caso se podrá demandar la nulidad en cualquier época, sin exceder de los cinco años del último efecto. Los alcances de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda.
 
@@ -349,15 +381,17 @@ Si la notificación fue por edictos, deberá señalar la fecha de la última pub
 
 Cuando las pruebas documentales no obren en poder del actor o cuando no hubiera podido obtenerlas, a pesar de tratarse de documentos que de manera legal se encuentren a su disposición, éste deberá señalar el archivo o ligar en que se hallen para que, a su costa, se mande expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible. Para este efecto, deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que se acompañe copia de la solicitud debidamente presentada. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
-Si al examinarse la demanda o su ampliación en casos de negativa ficta, se advierte que ésta es oscura, irregular o incompleta, o que no se adjuntaron los documentos señalados en el presente artículo, se requerirá mediante notificación personal al actor para que la aclare, corrija, complete o exhiba los documentos aludidos, en un plazo de tres días, apercibiéndolo que de no hacerlo, se desechará de plano la demanda o se tendrán por no ofrecidas las pruebas.
+Si al examinarse la demanda o su ampliación en casos de negativa ficta, se advierte que ésta es oscura, irregular o incompleta, con excepción de la omisión a expresar conceptos de nulidad o que no se adjuntaron los documentos señalados en el presente Artículo, se requerirá mediante notificación personal al actor para que la aclare, corrija, complete o exhiba los documentos aludidos, en un plazo de tres días, apercibiéndolo que de no hacerlo, se desechará de plano la demanda o se tendrán por no ofrecidas las pruebas.
 
 ###### ARTICULO 31.
 
 Cuando se impugne una negativa ficta, el actor tendrá derecho de ampliar la demanda, dentro de los quince días siguientes a la fecha en que surta efectos la notificación del acuerdo recaído a la contestación de la misma.
 
-También podrá ampliar la demanda, cuando en la contestación se sostenga que el juicio es improcedente, por consentimiento tácito, si el actor considera que la notificación del acto impugnarlo se practicó de manera legal.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+También podrá ampliar la demanda, cuando en la contestación se sostenga que el juicio es improcedente, por consentimiento tácito, si el actor considera que la notificación del acto impugnado se practicó de manera ilegal y cuando con motivo de la contestación, se introduzcan cuestiones que, sin violar el primer párrafo del Articulo 37, no sean conocidas por el actor al presentar la demanda.
 
 Cuando se alegue que el acto administrativo no fue notificado o que lo fue de manera ilegal se estará a lo siguiente:
 
@@ -437,9 +471,11 @@ Dentro del término de tres días, se acordará sobre la contestación de la dem
 
 ### CAPITULO VII. De las Pruebas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 40.
 
-En los juicios que se tramiten ante el Tribunal, serán admisibles toda clase de pruebas, excepto la confesional mediante absolución de posiciones, las que no tengan relación inmediata con los hechos controvertidos y las contrarias a la moral y al derecho.
+En los juicios que se tramiten ante el Tribunal, serán admisibles toda clase de pruebas, excepto la confesional mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades, así como las que no tengan relación inmediata con los hechos controvertidos y las contrarias a la moral y al derecho.
 
 Las pruebas supervenientes podrán presentarse, siempre que no se haya dictado sentencia.
 
@@ -567,9 +603,9 @@ El Magistrado resolverá sobre la autenticidad del documento en la sentencia def
 
 El actor podrá solicitar la suspensión de la resolución o del acto administrativo, que tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto se pronuncia sentencia. La podrá solicitar el actor en su demanda o en cualquier momento del juicio antes de la sentencia.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
-Cuando la suspensión se pida en la demanda, si procede, deberá concederse en el auto admisorio, haciéndolo saber de inmediato a la autoridad demandad para su cumplimiento.
+Cuando la suspensión se pida en la demanda, si procede, deberá concederse por el Magistrado en el mismo auto en que la admita, haciéndolo saber de inmediato a la autoridad demandada para su cumplimiento sin demora, quien deberá informar dentro del término de 24 horas el cumplimiento dado a la suspensión.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
@@ -649,6 +685,10 @@ II.- Los fundamentos legales en que se apoyen para producir la resolución y la 
 
 III.- Los puntos resolutivos en que se expresen, con claridad, las resoluciones o actos administrativos cuya nulidad o validez se declare.
 
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Tribunal se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
+
 ###### ARTICULO 61.
 
 Serán causas de anulación de una resolución o de un procedimiento administrativo:
@@ -685,17 +725,17 @@ Las sentencias del Tribunal, no recurridas en tiempo y forma, tendrán fuerza de
 
 La cosa juzgada es la verdad legal y contra ella no es admisible recurso, ni prueba alguna, salvo los casos expresamente determinados por la ley. Hay cosa juzgada cuando la sentencia ha causado ejecutoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 65.
 
-Las sentencias causan ejecutoria en los siguientes casos:
+Las sentencias causan ejecutoria y las resoluciones que pongan fin al juicio sin que resuelvan el fondo causaran estado, en los siguientes casos:
 
-I.- Cuando no admiten ningún medio de impugnación;
+I. Cuando transcurrido el plazo para interponer juicio de amparo, no se interponga el mismo.
 
-II.- Cuando, admitiendo algún recurso, no fueran recurridas, o habiendo sido, se haya declarado improcedente o el promovente se haya desistido del mismo; y
+II. Cuando se deseche, sobresea o niegue el amparo que hubiere sido interpuesto.
 
-III.- Cuando hayan sido consentidas expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante.
+III. Cuando hayan sido consentidas expresamente por las partes que hubieren actuado en el juicio con la calidad de particulares, sus representantes legítimos o sus mandatarios con poder bastante.
 
 La declaración de que una sentencia ha causado ejecutoria se hará de oficio y no admite recurso alguno.
 
@@ -707,9 +747,11 @@ Cuando haya causado ejecutoria una sentencia favorable al actor, el Tribunal la 
 
 El Tribunal se cerciorará si las autoridades u organismos correspondientes han cumplido con los términos de la sentencia y en el plazo señalado para ello, y de no ser así, de oficio o a petición de parte, los requerirá para que la cumplan, previniéndolas de que, en caso de desacato, se les impondrá una multa de hasta por el equivalente a doscientos cincuenta días de salario mínimo vigente en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 68.
 
-Cuando la autoridad demandada persista en su actitud, el Tribunal deberá solicitar del titular de la dependencia estatal, municipal u organismo a quien se encuentre subordinada, que conmine al servidor público responsable para que dé cumplimiento a la resolución del Tribunal, sin perjuicio de que se apliquen los medios de apremio por una vez más.
+Cuando la autoridad demandada persista en su actitud, el Tribunal deberá solicitar del titular de la dependencia estatal, municipal u organismo a quien se encuentre subordinada, que conmine al servidor público responsable para que dé cumplimiento a la resolución del Tribunal, sin perjuicio de que se apliquen los medios de apremio por una vez más a la autoridad demandada y en su caso, al superior de ésta conforme a lo previsto en el numeral anterior.
 
 Si no se da cumplimiento a la resolución, no obstante los requerimientos anteriores, el Tribunal podrá decretar la destitución del servidor público responsable, excepto que goce de fuero constitucional.
 
@@ -743,7 +785,9 @@ El recurso de reclamación procederá, en contra de las siguientes resoluciones 
 
 I.- Las que admitan o desechen la demanda, la contestación o las pruebas;
 
-II.- Las que decreten o nieguen el sobreseimiento del juicio;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+II.- Las que decreten o nieguen el sobreseimiento del juicio, antes de la audiencia a que se refiere el Artículo 58 de esta Ley;
 
 III.- Las que admitan o rechacen la intervención del coadyuvante o del tercero;
 
@@ -864,3 +908,9 @@ P.O. 6 DE ABRIL DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
