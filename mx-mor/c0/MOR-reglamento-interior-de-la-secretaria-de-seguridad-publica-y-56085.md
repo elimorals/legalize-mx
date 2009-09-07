@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-seguridad-publica-y-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-22"
-last_updated: "2007-06-22"
+last_updated: "2009-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA Y TRANSITO METROPOLITANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 22 de junio de 2007.
 
@@ -165,7 +165,13 @@ XXXIII.- Intervenir como conciliador en los conflictos, que atenten contra la se
 
 XXXIV.- Informar de sus funciones al regidor del ramo mensualmente, y
 
-XXXV.- Las demás que determinen la Ley Orgánica Municipal del Estado de Morelos, la Ley del Sistema Integral de Seguridad Pública del Estado de Morelos, el presente Reglamento y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+XXXV.- En lo relativo a la Dependencia a su cargo, solventar las observaciones generadas por el órgano de fiscalización del Poder Legislativo, y
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+XXXVI.- Las demás que determinen la Ley Orgánica Municipal del Estado de Morelos, la Ley del Sistema Integral de Seguridad Pública del Estado de Morelos, el presente Reglamento y demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DEL SUBSECRETARIO OPERATIVO
 
@@ -732,3 +738,19 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano informativo que edita el Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Acuerdo.
+
+TERCERO.- Publíquese el presente Acuerdo en la Gaceta Municipal y désele amplia difusión entre el personal del Ayuntamiento.
+
+CUARTO.- Una vez suscrito el instrumento jurídico y/o administrativo, según corresponda, por parte del Ayuntamiento de Cuernavaca y la Secretaría de Relaciones Exteriores a través de su Delegación en el Estado, se considera un término de treinta días hábiles para dar inicio al funcionamiento y servicio de la Unidad de Enlace para la Tramitación de Pasaportes Nacionales Ordinarios, adscrita a la Subsecretaría del Ayuntamiento.
+
+QUINTO.- Las Dependencias que modifican su estructura, deberán realizar y presentan las modificaciones a sus Manuales de Organización y Procedimientos a la Secretaría de Administración y Sistemas en un término que no exceda los treinta días naturales siguientes a la publicación del presente Acuerdo; así mismo, y en el mismo plazo y en coordinación con la Tesorería Municipal, deberán hacer los ajustes correspondientes al Presupuesto de Egresos y a los Programas Operativos Anuales.
+
+SEXTO.- Lo no previsto en el presente Acuerdo, será resuelto por el Cabildo.
