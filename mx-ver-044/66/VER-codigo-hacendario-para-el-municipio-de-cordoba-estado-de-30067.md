@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-para-el-municipio-de-cordoba-estado-de-30067"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-18"
-last_updated: "2008-07-25"
+last_updated: "2009-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE CORDOBA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE SEPTIEMBRE DE 2009.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el día viernes 21 de marzo de 2003.
 
@@ -1599,6 +1599,18 @@ Si existiere algún crédito por concepto de contribuciones por mejoras a favor 
 
 El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del uno por ciento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 136 bis.- Para los traslados de dominio en que el inmueble sea destinado a la industria, el impuesto se causará, liquidará y pagará aplicando a la base gravable determinada el .3% siempre que se cumpla con los siguientes requisitos:
+
+a) Constancia de la autorización del uso de suelo para dicho fin, expedida por el Director de Obras Públicas;
+
+b) El Registro Federal de Causantes emitido por la Secretaría de Hacienda y Crédito Público; donde se autorice el giro adecuado, tratándose de persona física;
+
+c) En el caso de la persona moral, el acta constitutiva inscrita en el Registro Público de la Propiedad y del Comercio de esta ciudad, así como su Registro Federal de Causantes correspondiente al giro de la industria.
+
 ###### Artículo 137.
 
 En las adquisiciones que se hagan constar en escritura pública, los Notarios calcularán el impuesto bajo su responsabilidad, lo enterarán una vez expensados para ello, mediante declaración que presentarán ante la Tesorería en la forma oficial autorizada y lo harán constar en el testimonio. En los demás casos, los contribuyentes enterarán el impuesto mediante la forma oficial autorizada ante dicha Tesorería.
@@ -2615,21 +2627,85 @@ Interés Social 0
 
 Popular 0
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
 Si el terreno es de uso:
 
 De 1 a 40 M2.
 
 Salarios Mínimos
 
-Comercial 9
+Comercial 4.5
 
-Industrial 8
+Industrial 4
+
+Agropecuario 1
+
+De servicio 1.5
+
+De 41 a 60 M2
+
+Salarios Mínimos
+
+Comercial 5
+
+Industrial 5
+
+Agropecuario 1.5
+
+Servicio 2
+
+De 61 a 80 m2
+
+Salarios Mínimos
+
+Comercial 6
+
+Industrial 6
 
 Agropecuario 2
 
+De servicio 2.5
+
+De 81 a 100 m2
+
+Salarios Mínimos
+
+Comercial 7
+
+Industrial 7
+
+Agropecuario 2.5
+
 De servicio 3
 
-De más de 40 a 60 M2
+De 101 a 150 m2
+
+Salarios Mínimos
+
+Comercial 8
+
+Industrial 6
+
+Agropecuario 5
+
+De Servicio 3.5
+
+De 151 a 200 m2.
+
+Salarios Mínimos
+
+Comercial 9
+
+Industrial 9
+
+Agropecuario 7.5
+
+De Servicio 4
+
+De 201 a 300 m2.
 
 Salarios Mínimos
 
@@ -2637,71 +2713,35 @@ Comercial 10
 
 Industrial 10
 
-Agropecuario 3
-
-Servicio 4
-
-De más de 60 a 80 M2
-
-Salarios Mínimos
-
-Comercial 12
-
-Industrial 12
-
-Agropecuario 4
-
-De servicio 5
-
-De más de 80 a 100 M2
-
-Salarios Mínimos
-
-Comercial 14
-
-Industrial 14
-
 Agropecuario 5
 
-De servicio 6
+De Servicio 5
 
-De más de 100 a 150 M2
+De 301 a 500 m2.
 
 Salarios Mínimos
 
-Comercial 16
+Comercial 12.5
 
-Industrial 16
+Industrial 12.5
 
 Agropecuario 10
 
-De Servicio 7
+De servicio 7.5
 
-De más de 150 a 200 M2.
-
-Salarios Mínimos
-
-Comercial 18
-
-Industrial 18
-
-Agropecuario 15
-
-De servicio 8
-
-De más de 200 a 300 M2.
+De 501 a 1,000 m2.
 
 Salarios Mínimos
 
-Comercial 20
+Comercial 15
 
-Industrial 20
+Industrial 15
 
 Agropecuario 10
 
 De Servicio 10
 
-De más de 300 a 500 M2.
+De más de 1,000 m2.
 
 Salarios Mínimos
 
@@ -2712,30 +2752,6 @@ Industrial 25
 Agropecuario 20
 
 De servicio 15
-
-De más de 500 a 1,000 M2.
-
-Salarios Mínimos
-
-Comercial 30
-
-Industrial 30
-
-Agropecuario 20
-
-De Servicio 20
-
-De más de 1,000 M2.
-
-Salarios Mínimos
-
-Comercial 50
-
-Industrial 50
-
-Agropecuario 40
-
-De servicio 30
 
 c) Para fusionar, subdividir o relotificar, en términos de la normatividad aplicable, por metro cuadrado o fracción sobre el total de la superficie:
 
@@ -3325,7 +3341,7 @@ Agropecuario 20
 
 De servicio 30
 
-i)De uso de suelo, según clasificación, por metro cuadrado o fracción
+i) De uso de suelo, según clasificación, por metro cuadrado o fracción
 
 Salarios mínimos
 
@@ -5906,3 +5922,9 @@ G.O. 25 DE JULIO DE 2008.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE SEPTIEMBRE DE 2009.
+
+Artículo primero. El presente Decreto entrará en vigor el día primero de enero del año 2010, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente decreto.
