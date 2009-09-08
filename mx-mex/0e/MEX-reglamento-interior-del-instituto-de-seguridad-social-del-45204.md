@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-seguridad-social-del-45204
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-09"
-last_updated: "2005-06-09"
+last_updated: "2009-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 8 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 9 de junio de 2005.
 
@@ -540,3 +542,15 @@ C.P. RODOLFO DAVIS CONTRERAS
 SECRETARIO DEL HONORABLE CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 8 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior del Instituto de Seguridad Social del Estado de México y Municipios, publicado el 9 de junio del 2005 en el Periódico Oficial "Gaceta del Gobierno".
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que sean contrarias a las establecidas en el presente Reglamento.
