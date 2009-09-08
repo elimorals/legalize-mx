@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-servicios-de-salud-de-michoacan-59778"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-13"
-last_updated: "2008-02-13"
+last_updated: "2009-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE SERVICIOS DE SALUD DE MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE SERVICIOS DE SALUD DE MICHOACAN, PUBLICADO EN EL P.O. DE 8 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 13 de febrero de 2008.
 
@@ -451,6 +453,10 @@ El titular de la Contraloría Interna, será designado por la Secretaría de Con
 
 Al titular de la Contraloría Interna le corresponden el ejercicio de las facultades que establecen los artículos 194, 195 y 196 del Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán y otras disposiciones normativas aplicables.
 
+###### Artículo 20.
+
+Al titular de la Contraloría Interna le corresponden el ejercicio de las facultades que establecen los artículos 194, 195 y 196 del Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán y otras disposiciones normativas aplicables.
+
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
 ###### Artículo 21.
@@ -650,3 +656,15 @@ SECRETARIA DE CONTRALORÍA Y DESARROLLO
 ADMINISTRATIVO
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de los Servicios de Salud de Michoacán publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 13 de febrero de 2008 y se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento Interior.
