@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-organismo-publico-descentralizado-39461
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-23"
-last_updated: "2005-07-18"
+last_updated: "2009-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DE PARTICIPACION CIUDADANA DEL GOBIERNO DEL ESTADO DE NUEVO LEON, DENOMINADO CONSEJO DE DESARROLLO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DE PARTICIPACION CIUDADANA DEL GOBIERNO DEL ESTADO DE NUEVO LEON DENOMINADO CONSEJO DE DESARROLLO SOCIAL, PUBLICADO EN EL P.O. DE 8 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 23 de abril de 2004.
 
@@ -452,3 +454,19 @@ P.O. 18 DE JULIO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes Reformas y Adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2009.
+
+###### ARTICULO PRIMERO
+
+Se abroga el Reglamento Interior del Organismo Público Descentralizado de Participación Ciudadana del Gobierno del Estado de Nuevo León, denominado Consejo de Desarrollo Social publicado en el Periódico Oficial del Estado de fecha 23 de abril de 2004 y sus reformas publicadas en el Periódico Oficial del Estado en fecha 18 de junio de 2005.
+
+###### ARTICULO SEGUNDO
+
+El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO ADMINISTRATIVO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO: Se aprueba el presente Reglamento Interior del Organismo Público Descentralizado de Participación Ciudadana del Gobierno de Estado de Nuevo León, denominado Consejo de Desarrollo Social en los términos establecidos en este instrumento jurídico.
+
+SEGUNDO: El Titular de la Presidencia Ejecutiva del Consejo de Desarrollo Social realizará lo conducente a fin de que el presente Acuerdo sea publicado en el Periódico Oficial del Estado.
