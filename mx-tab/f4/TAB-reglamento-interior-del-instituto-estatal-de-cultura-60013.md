@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-estatal-de-cultura-60013"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-09"
-last_updated: "2008-02-09"
+last_updated: "2009-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el lunes 9 de febrero de 2008.
 
@@ -559,9 +559,13 @@ VII.- Revisar antes de la etapa de impresión, las obras que se editen a través
 
 VIII.- Apoyar y asesorar cuando así lo soliciten, a las unidades administrativas del Instituto, en la revisión y corrección de estilo de obras, convocatorias y documentos;
 
-IX.- Programar y coordinar otras actividades literarias como: certámenes literarios, presentaciones de libros, recitales, conferencias, mesas redondas, encuentros literarios, así como coadyuvar en la organización de ferias de libros; y
+IX.- Programar y coordinar otras actividades literarias como: certámenes literarios, presentaciones de libros, recitales, conferencias, mesas redondas, encuentros literarios, así como coadyuvar en la organización de ferias de libros; y (sic)
 
-X.- Coordinar las acciones del Consejo Consultivo de Literatura del Instituto, conjuntamente con la Coordinación de Vinculación Cultural con Municipios e Instituciones.
+X.- Coordinar las acciones del Consejo Consultivo de Literatura del Instituto, conjuntamente con la Coordinación de Vinculación Cultural con Municipios e Instituciones;
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XI.- Coordinar el funcionamiento de las librerías con que cuente el Instituto, así como las que mediante acuerdo o convenio celebrado con particulares tenga a su cargo.
 
 ###### ARTÍCULO 21.
 
@@ -776,3 +780,15 @@ DIRECTORA GENERAL DEL INSTITUTO ESTATAL DE CULTURA
 PROFA. ROSA BEATRIZ LUQUE GREENE
 
 SECRETARIA DE EDUCACIÓN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los recursos financieros, materiales, mobiliario, instrumentos, aparatos, archivos y en general el equipo utilizado por la librería del Centro de Investigaciones de las Cultura-s Olmeca y Maya (C/COM) serán transferidos al patrimonio del Instituto Estatal de Cultura.
+
+TERCERO. El Instituto Estatal de Cultura dictará y adoptará las medidas administrativas necesarias para garantizar el funcionamiento oportuno, en los términos del presente Acuerdo, de la librería ubicada en el Centro de Investigaciones de las Culturas Olmeca y Maya (CICOM).
+
+CUARTO. Se derogan todas las disposiciones administrativas que se opongan al presente Acuerdo.
