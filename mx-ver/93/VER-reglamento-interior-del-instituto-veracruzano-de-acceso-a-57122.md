@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-instituto-veracruzano-de-acceso-a-57122
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-20"
-last_updated: "2008-07-24"
+last_updated: "2009-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACION
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 20 de septiembre de 2007.
 
@@ -429,7 +429,7 @@ XII. Recabar la votación de los Consejeros y registrada en el acta de sesión c
 
 XIII. Firmar las actas, acuerdos y resoluciones del Consejo, con la finalidad de dar fe de los actos ahí contenidos;
 
-XlV. Ejecutar las instrucciones que el Presidente del Órgano de Gobierno le gire, relativas a atender las labores administrativas del Instituto;
+XIV. Ejecutar las instrucciones que el Presidente del Órgano de Gobierno le gire, relativas a atender las labores administrativas del Instituto;
 
 XV. Instruir y supervisar la Oficialía de Partes, la Actuaría y el Archivo del Instituto;
 
@@ -793,11 +793,17 @@ XXV. Las demás que señale la Constitución Local, la Ley, su Reglamento, el pr
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LAS SUPLENCIAS
 
-> <small>(REFORMADO, G.O. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, G.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 23.
 
-Las ausencias temporales del Presidente del Consejo, menores a 60 días naturales serán suplidas por el Consejero designado para el período inmediato posterior. En caso de renuncia o ausencia definitiva de alguno de los Consejeros, se comunicará al H. Congreso del Estado.
+Las ausencias temporales menores de sesenta días naturales de los consejeros, serán suplidas en los términos que acuerde el órgano de Gobierno cuando apruebe la licencia correspondiente.
+
+En caso de fuerza mayor la suplencia corresponderá al consejero designado para el periodo inmediato posterior, si éste declina la suplencia la llevará a cabo el tercer consejero.
+
+Las ausencias del presidente del Consejo, serán suplidas por el consejero que él designe. En caso de no existir tal designación se estará a lo dispuesto en el párrafo anterior.
+
+La suplencia no operará para los efectos de la integración del quórum del Consejo General y del órgano de Gobierno.
 
 > <small>(REFORMADO, G.O. 24 DE JULIO DE 2008)</small>
 
@@ -1040,6 +1046,14 @@ Tercero.- La presente reforma entrará en vigor al día siguiente de su publicac
 G.O. 24 DE JULIO DE 2008.
 
 Único. El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial.
+
+G.O. 9 DE SEPTIEMBRE DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+Segundo. El presente acuerdo entrará en vigor al día siguiente hábil de su publicación en la Gaceta Oficial del estado.
+
+Tercero. Publíquese en la página de internet del Instituto.
 
 ###### Artículo 43.
 
