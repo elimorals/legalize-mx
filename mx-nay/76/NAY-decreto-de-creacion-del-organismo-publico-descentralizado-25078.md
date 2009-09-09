@@ -4,7 +4,7 @@ identifier: "NAY-decreto-de-creacion-del-organismo-publico-descentralizado-25078
 country: "mx"
 rank: "decreto"
 publication_date: "2002-06-05"
-last_updated: "2002-06-05"
+last_updated: "2009-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 DECRETO DE CREACION DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO UNIVERSIDAD TECNOLOGICA DE LA COSTA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2009.
 
 Decreto publicado en la Séptima Sección del Periódico Oficial del Estado de Nayarit, el miércoles 5 de junio del 2002.
 
@@ -59,17 +59,29 @@ La "Universidad Tecnológica de la Costa", tendrá su domicilio en la ciudad de 
 
 La Universidad tendrá como objeto:
 
-I.Ofrecer programas cortos de educación superior de dos años, con las características de intensidad, pertinencia, flexibilidad y calidad.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-II.Formar, a partir de egresados de bachillerato, Técnicos Superiores Universitarios aptos para la aplicación de conocimientos y la solución de problemas con un sentido de innovación en la incorporación de los avances científicos y tecnológicos.
+I.Ofrecer programas de educación superior en todas sus modalidades, así como cursos de actualización, especialización académica escolar y extraescolar, con las características de intensidad, pertinencia, flexibilidad y calidad.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+II.Promover una educación de alta calidad que forme Universitarios capaces de aplicar, innovar y transmitir conocimientos actuales académicamente pertinentes y socialmente relevantes.
 
 III.Desarrollar estudios o proyectos en las áreas de su competencia, que se traduzcan en aportaciones que contribuyan al mejoramiento y mejor eficacia de la producción de bienes y/o servicios y a la evaluación de la calidad de vida de la comunidad.
 
 IV.Desarrollar programas de apoyo técnico en beneficio de la comunidad.
 
-V.Promover la cultura científica y tecnológica; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-VI.Desarrollar funciones de vinculación con los sectores público, privado y social para contribuir al desarrollo tecnológico y social de la comunidad.
+V.Promover la cultura científica y tecnológica;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+VI.Desarrollar funciones de vinculación con los sectores públicos, privados y sociales para contribuir al desarrollo tecnológico y social de la comunidad; y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+VII.Prestar servicios de asesoría, elaboración de proyectos, desarrollo de prototipos y capacitación.
 
 ###### ARTICULO 5°.
 
@@ -434,3 +446,9 @@ Y en cumplimiento de lo dispuesto en la fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2009.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
