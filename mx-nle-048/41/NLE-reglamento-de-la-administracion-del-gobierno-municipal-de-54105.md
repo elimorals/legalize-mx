@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-administracion-del-gobierno-municipal-de-54105
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-22"
-last_updated: "2008-05-28"
+last_updated: "2009-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LA ADMINISTRACION DEL GOBIERNO MUNICIPAL DE SANTA CATARINA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de enero de 2007.
 
@@ -111,7 +111,9 @@ XVII. Calificar y sancionar a los infractores de los reglamentos municipales.
 
 XVIII. Informar al Ayuntamiento del estado que guardan los negocios municipales.
 
-XIX. Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XIX. Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 XX. Las demás que le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
@@ -223,7 +225,9 @@ XXIV.- Asesorar y conciliar a los particulares a fin de encontrar una solución 
 
 XXV.- Coordinarse con todos los cuerpos de auxilio, dependencias municipales, voluntarios y sociedad civil para salvaguardar la vida y los bienes de los ciudadanos, de manera preventiva y en casos de desastre actuar oportunamente.
 
-XXVI.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XXVI.- Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 XXVII.- Las demás que le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
@@ -293,7 +297,9 @@ XXV.- Conocer, tramitar y resolver de los recursos administrativos previstos en 
 
 XXVI.- Autorizar la baja de muebles e inmuebles que por sus condiciones no cumplan con los requisitos mínimos indispensables en el servicio.
 
-XXVII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XXVII.- Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 XXVIII.- Las demás que le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
@@ -427,7 +433,9 @@ L.- Llevar el registro de los profesionistas autorizados para elaborar planos de
 
 LI.- Realizar de manera directa, por contrato o concertación, estudios sobre los problemas urbanos y la Administración Municipal.
 
-LII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública; y,
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+LII.- Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 LIII.- Las demás que le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
@@ -459,7 +467,9 @@ VII.- Promover la participación de la Comunidad a través de la formación de g
 
 VIII.- Fomentar la participación del sector empresarial que repercuta en empleos.
 
-IX. Las demás que le señalen como de su competencia las Leyes y reglamentos vigentes.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+IX.- Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
@@ -527,7 +537,9 @@ XXIV.- Proporcionar los servicios médicos a través de la Clínica Municipal.
 
 XXV.- Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-XXVI.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XXVI.- Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 XXVII.- Las demás le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
@@ -593,11 +605,17 @@ XIII.- Recibir, tramitar y resolver sobre el otorgamiento de permisos para traba
 
 XIV.- (DEROGADA, P.O. 28 DE MAYO DE 2008)
 
-XVI (SIC).- Los demás que en las materias de su competencia le atribuyan al municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-XVII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+XV.- Los demás que en las materias de su competencia le atribuyan al municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-XVIII.- Las demás le señalen como de su competencia las Leyes y Reglamentos vigentes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XVI.- Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XVII.- Las demás le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
@@ -703,7 +721,9 @@ XXXIX.- Coordinar y vigilar las funciones de las dependencias a su cargo y el ej
 
 XL.- Las demás que señalen como de su competencia las leyes y reglamentos y demás disposiciones jurídicas vigentes y el Presidente Municipal.
 
-XLI.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XLI.- Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
@@ -735,9 +755,9 @@ VIII.- Informar al Presidente Municipal sobre el resultado de la evaluación de 
 
 IX.- Solicitar la intervención o participación de auditores externos y consultores que coadyuven al cumplimiento de las funciones de verificación y vigilancia.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-X.- Convocar a la integración y funcionamiento de la Comisión de Honor y Justicia de los Cuerpos Adscritos a la Secretaría de Seguridad Pública y Vialidad.
+X.- Convocar a la integración y funcionamiento, así como presidir la Comisión de Honor y Justicia de los Cuerpos Adscritos a la Secretaría de Seguridad Pública y Vialidad.
 
 XI.- Vigilar que las obras públicas se realicen de acuerdo a la planeación, programación y presupuestación aprobada, supervisándolas directamente o a través de los órganos de control interno de las dependencias municipales, sin demérito de la responsabilidad de la entidad encargada de la ejecución de dichas obras.
 
@@ -747,13 +767,17 @@ XIII.- Conocer e investigar las conductas de los servidores públicos, que pueda
 
 XIV.- Ejercer funciones de supervisión para mantener actualizado el inventario general de los bienes muebles e inmuebles que constituyan el patrimonio del Municipio.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-XV.- Convocar y presidir el Comité de Transparencia, quien será el encargado de vigilar que se cumpla con lo establecido en la Ley de Acceso a la Información Pública de Nuevo León.
+XV.- Vigilar y presidir el Comité de Transparencia, quien será el encargado de vigilar que se cumpla lo establecido en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-XVI.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+XVI.- Vigilar y presidir el Comité de Acceso a la Información, quien será el encargado de vigilar que se cumpla lo establecido en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XVII.- Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
 
@@ -797,9 +821,9 @@ X.- Los demás que en la materia de su competencia le atribuyan al municipio las
 
 XI.- Realizar acciones encaminadas a promover, proteger, fomentar y restablecer la salud de la comunidad en coordinación con las autoridades Federales y Estatales.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-XII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+XII.- Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2008)</small>
 
@@ -861,7 +885,9 @@ n).- Brindar apoyo a los adultos en plenitud con mayor vulnerabilidad, ofreciend
 
 o).- Ofrecer un servicio de calidad y calidez, promovido a niños y niñas a través de actividades pedagógicas, alimentarías, y de salud que favorezcan el desarrollo integral del niño, en beneficio a madres trabajadoras.
 
-VII.- Vigilar el adecuado cumplimiento de la Ley de Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+VII.- Vigilar el adecuado cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 VIII.- Las demás que le señalen como de su competencia las Leyes y Reglamentos vigentes.
 
@@ -1048,3 +1074,11 @@ P.O. 28 DE MAYO DE 2008.
 PRIMERO.- Las disposiciones de reformas por adición y modificación al presente reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Envíese al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 9 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- Las disposiciones de reformas por modificación y adición al Reglamento de la Administración del Gobierno Municipal de Santa Catarina, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se deroga el Reglamento de la Administración del Gobierno Municipal de Santa Catarina, Nuevo León, publicado en el Periódico Oficial de fecha 22-veintidós días del mes de Enero del año 2007-dos mil siete, así mismo de las Reformas al Reglamento de la Administración del Gobierno de Santa Catarina, Nuevo León, publicado con fecha 28 de mayo de 2008, en todo lo que contraponga con el presente Reglamento, las demás disposiciones del citado Reglamento permanecerán vigentes.
+
+TERCERO.- Envíese su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General del Gobierno y en la Gaceta Municipal, por parte de Secretaría del Ayuntamiento del Municipio de Santa Catarina, N. L.
