@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-general-de-justicia-del-2588"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-30"
-last_updated: "1999-05-18"
+last_updated: "2009-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2588&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1996-04-26"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 9 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 30 de abril de 1996.
 
@@ -641,3 +643,35 @@ D.O.F. 18 DE MAYO DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
+
+(NOTA: EL 9 DE SEPTIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 102/2009, DECLARÓ LA INVALIDEZ DE ESTA LEY, LA CUAL SURTIÓ EFECTOS EL 10 DE SEPTIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+G.O. 9 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor a los treinta días naturales siguientes a su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal publicada en el Diario Oficial de la Federación el 30 de abril de 1996 y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+En ningún caso podrán aplicarse en forma retroactiva normas que afecten la situación administrativa o laboral del personal que presta sus servicios en la Procuraduría.
+
+###### ARTÍCULO QUINTO.
+
+El Jefe de Gobierno del Distrito Federal emitirá en un lapso de noventa días naturales, contados a partir de la entrada en vigor de este Decreto, el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal.
+
+###### ARTÍCULO SEXTO.
+
+La Asamblea Legislativa asignará y proveerá los recursos necesarios para la instrumentación de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones relativas a los exámenes de control de confianza a que hace referencia la ley, se aplicarán en los términos que señala la Ley General del Sistema Nacional de Seguridad Pública y la legislación secundaria.
