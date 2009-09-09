@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2009-06-13"
+last_updated: "2009-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2009.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1273,11 +1273,11 @@ Las leyes objetadas quedarán ratificadas si más del cincuenta por ciento de lo
 
 El Instituto Estatal Electoral efectuará el cómputo de los resultados del referéndum y ordenará su publicación en el periódico oficial. Lo mismo hará con el texto de las leyes ratificadas y, en su caso, remitirá al Congreso o a la Diputación Permanente las que no lo hayan sido para que proceda a su derogación o abrogación inmediata. En este último caso, se convocará a período extraordinario de sesiones en un plazo que no excederá de quince días hábiles a partir de la fecha de su recepción.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 74.
 
-Si se hubiese vencido el plazo que el Gobernador tiene para formular observaciones, el decreto o ley de que se trate será considerado promulgado y el Presidente del Congreso o de la Diputación Permanente, en su caso, podrá ordenar su publicación en el Periódico Oficial del Estado, si el Ejecutivo no lo hace dentro de los diez días siguientes a dicho vencimiento.
+Si se hubiese vencido el plazo que el Gobernador tiene para formular observaciones, el decreto o ley de que se trate será considerado promulgado, y por aprobación del Pleno Legislativo se podrá ordenar su publicación en el Periódico Oficial del Estado, si el Ejecutivo no lo hace dentro de los diez días siguientes a dicho vencimiento.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3528,3 +3528,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones relativas a los nuevos requisitos para su designación, así como la periodicidad en el ejercicio del cargo del Auditor Superior del Estado, serán aplicables a partir de la próxima elección de dicho servidor público.
+
+P.O. 9 DE SEPTIEMBRE DE 2009
+
+###### ARTÍCULO PRIMERO.
+
+Por lo que respecta a la reforma constitucional, conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizando que sea, publíquese en el Periódico Oficial del Estado, junto con la reforma a la Ley Orgánica del Poder Judicial.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
