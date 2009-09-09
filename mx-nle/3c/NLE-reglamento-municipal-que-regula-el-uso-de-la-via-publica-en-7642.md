@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-municipal-que-regula-el-uso-de-la-via-publica-en-764
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-08"
-last_updated: "1995-11-08"
+last_updated: "2009-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO MUNICIPAL QUE REGULA EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL EN CD. SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de noviembre de 1995.
 
@@ -69,9 +69,13 @@ III.- COMERCIO EN PUESTO SEMIFIJO: Toda actividad comercial en la vía pública 
 
 IV.- COMERCIO POPULAR: Toda actividad comercial en la vía pública que se realiza obedeciendo a la tradición, folklore, atractivo turístico o acontecimiento extraordinario en el Municipio o región de que se trate y que por lo mismo, sus características están definidas con calidad de lugar y época. Se asimilan a esta categoría los circos y ferias.
 
-V.- MERCADOS RODANTES: Toda actividad comercial que se realiza en determinados días por semana y en segmentos prefijados de la vía o lugares públicos o terrenos de propiedad privada afectando las vías públicas, por un grupo de personas físicas organizadas en uniones de oferentes, asociaciones de comerciantes o cualesquiera otra denominación que adopten con esta finalidad.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-VI.- OFERENTE ITINERANTE: Toda actividad comercial realizada mediante cualquier tipo de vehículo o sin él que permanezca establecido en la vía o lugares públicos, promoviendo sus productos o efectos de comercio sin que dicha permanencia sea cotidiana. Se asimila a esta modalidad toda actividad de promoción o publicidad realizada por personas morales o físicas, mediante la cual se entregue de manera onerosa o gratuita al público transeúnte o domiciliario, algún producto.
+V.- MERCADOS RODANTES: Toda actividad comercial que se realiza en determinados días por semana en un horario de 7:00 a.m. a 16:00 p.m. y en segmentos prefijados de la vía o lugares públicos o terrenos de propiedad afectando las vías públicas, por un grupo de personas físicas organizadas en uniones de oferente, asociaciones de comerciantes o cualesquiera otra denominación que adopten con esta finalidad, estableciéndose como límitante que no deberán de existir otros grupos de oferentes en un área de 1,500 metros a la redonda.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+VI.- OFERENTE ITINERANTE: Toda actividad comercial realizada mediante cualquier tipo de vehículo o sin él, que permanezca establecido en la vía pública o lugares públicos de forma eventual, promoviendo sus productos o efectos de comercio sin que dicha permanencia sea cotidiana. Se asimila a esta modalidad toda actividad de promoción o publicidad realizada por personas morales o físicas, mediante la cual se entregue de manera onerosa o gratuita al público transeúnte o domiciliario, algún producto.
 
 C A P I T U L O T E R C E R O
 
@@ -83,15 +87,21 @@ Son autoridades competentes para conocer y aplicar las disposiciones del present
 
 I.- El R. Ayuntamiento.
 
-II.- El Presidente Municipal.
+II.- (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2009)
 
-III.- El Secretario del R. Ayuntamiento
+III.- El Secretario del R. Ayuntamiento.
 
-IV.- El Secretario de Finanzas y Tesorero.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-V.- El Director de Comercio.
+IV.- El Secretario de Tesorería y Finanzas.
 
-VI.- Los Inspectores de Comercio.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+V.- El Director de Comercio y Alcoholes.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+VI.- Los Inspectores de Comercio y Alcoholes.
 
 ###### ARTICULO 7.
 
@@ -99,13 +109,21 @@ Son facultades de las Autoridades mencionadas dentro de la esfera de su competen
 
 I.- Del R. Ayuntamiento:
 
-a).- La aprobación de los permisos de las solicitudes respectivas, no excediendo los mismos de 6 - seis meses y a su vencimiento, podrán ser renovados.
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+El R. Ayuntamiento por conducto de la Dirección de Comercio y Alcoholes realizará:
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+a).- La aprobación de los permisos de las solicitudes respectivas, no excediendo de 3-tres meses y a su vencimiento, podrán ser renovados.
 
 b).- Elaborar y ejecutar los convenios que celebren las Autoridades con los comerciantes.
 
 c).- Autorizar los cambios de domicilio de los giros mercantiles.
 
-d).- Autorizar los traspasos, traslados, cambio de giro, nombre de los permisos que apruebe o expida.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+d).- Autorizar los traspasos, traslados o cambio de giro exclusivamente a familiares directos que apruebe o expida.
 
 e).- Otorgar solamente un permiso por persona.
 
@@ -117,27 +135,33 @@ h).- Otorgar preferentemente permisos a las personas residentes en este Municipi
 
 i).- Establecer la declaratoria de las áreas restringidas, precisando en cada caso sus límites y colindancias.
 
-j).- Conocer del recurso de revisión
+j).- Conocer del recurso de revisión.
 
-II.-Del Presidente Municipal:
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-a).- Autorizar permisos provisionales no mayores de treinta días.
+k).- Autorizar o en su caso revocar por conducto de la Comisión correspondiente los permisos provisionales no mayores a 30 días
 
-b).- Revocar los permisos provisionales.
+II.- (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2009)
 
 III.- Del Secretario del Ayuntamiento:
 
-a).- Recibir las solicitudes y turnarlas a la Comisión correspondiente para su estudio, quiénes la presentaran al Cabildo para su aprobación o rechazo.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-b).- Notificar a los solicitantes la aprobación o negación del permiso requerido.
+a).- Por conducto de la Dirección de Comercio y Alcoholes, recibirá las solicitudes para su estudio correspondiente.
+
+b).- (DEROGADO, P.O. 9 DE SEPTIEMBRE DE 2009)
 
 c).- Conocer del Recurso de Inconformidad.
 
-IV.- Del Secretario de Finanzas y Tesorero:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+IV.- Del Secretario de Tesorería y Finanzas:
 
 Imponer las sanciones a que se haga acreedor el titular del permiso o quién lo prevea, por contravenir este Reglamento y la Ley de Hacienda de los Municipios y hacerlas efectivas.
 
-V.- Del Director de Comercio:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+V.- Del Director de Comercio y Alcoholes:
 
 a).- Vigilar la correcta aplicación de este Reglamento y proponer las medidas necesarias tendientes el mejoramiento de la actividad regulada por este ordenamiento.
 
@@ -145,7 +169,13 @@ b).- Coordinar, controlar y vigilar el padrón de comerciantes.
 
 c).- Expedir el gafete o credencial de identidad con fotografía al titular del permiso, una vez aprobado.
 
-VI.- De los Inspectores de Comercio:
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+d).- Supervisar y coordinar a los inspectores adscritos a su cargo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+VI.- De los Inspectores de Comercio y Alcoholes:
 
 a).- Retirar de la vía pública los puestos o estructuras que carezcan de permiso municipal o se encuentren abandonados, previo aviso en pegote 24 horas antes.
 
@@ -153,7 +183,11 @@ b).- Efectuar en coordinación con otras dependencias Municipales y/o Estatales,
 
 c).- Realizar las investigaciones de las solicitudes para los permisos.
 
-d).- Llevar a cabo las indicaciones de la Dirección de Comercio.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+d).- Llevar a cabo las indicaciones de la Dirección de Comercio y Alcoholes.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 e).- Aplicar las sanciones y medidas de seguridad que corresponden según sea el caso y en general, las demás atribuciones previstas en este Reglamento.
 
@@ -165,53 +199,37 @@ DE LOS REQUISITOS PARA EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD 
 
 Para dedicarse a la actividad comercial que se refiere a los Artículos que anteceden, se deberá contar con el permiso, autorización o credencial de los cuales se entregarán en forma personal y directa a los solicitantes y cumplir con los siguientes requisitos:
 
-I.- Entregar solicitud por escrito, en donde señale su domicilio particular, para oir y recibir notificaciones por parte del Municipio, así como croquis de la ubicación exacta donde solicita el permiso.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-II.- Presentar copia de comprobante de domicilio, así como copia fotostática de la credencial de elector con fotografía, además de dos fotografías.
+I.- Tramitar la solicitud en las oficinas de la Dirección de Comercio y Alcoholes.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+II.- Presentar copia de comprobante de domicilio, copia fotostática de la credencial de elector con fotografía, así como croquis de la ubicación exacta donde solicita el permiso.
 
 III.- Señalar el giro o actividad específica a realizar, informando además el tipo de mercancía o servicio que se venderá o promocionará.
 
-IV.- Toda persona que elabore y/o venda alimentos en vía pública, deberá obtener su Certificado de Salud, expedido por la Autoridad Municipal, una vez aprobados los exámenes de reacciones febriles y copros, los cuales se realizarán cada cuatro meses.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+IV.- Una vez aprobado el permiso correspondiente, toda persona que elabore y/o venda alimentos en vía pública, deberá obtener su Certificado de Salud, expedido por la Autoridad Municipal, el cual deberá refrendarse cada 6-seis meses y permanecer visible al público en general.
 
 V.- Tramitar personalmente el permiso. No se expedirá permiso alguno, si no es al solicitante.
 
-VI.- Cubrir un pago de tramitación equivalente a un día de salario, en las siguientes modalidades:
+VI.- (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2009)
 
-a).- COMERCIO AMBULANTE
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-b).- COMERCIO EN PUESTO FIJO
-
-c).- COMERCIO EN PUESTO SEMI-FIJO
-
-d).- COMERCIO POPULAR
-
-e).- MERCADOS RODANTES
-
-f).- OFERENTE ITINERANTE
-
-VII.- Cubrir una cuota en base a días de salario mínimo vigente en la zona económica que le corresponde a éste municipio, en la siguiente forma:
-
-a).- COMERCIO AMBULANTE (un día mensual)
-
-b).- COMERCIO EN PUESTO FIJO (dos días mensuales)
-
-c).- COMERCIO EN PUESTO SEMI-FIJO (un día mensual)
-
-d).- COMERCIO POPULAR (dos días mensuales)
-
-e).- MERCADOS RODANTES (dos días mensuales)
-
-f).- OFERENTES ITINERANTES (un día mensual)
-
-LOS ESTABLECIMIENTOS QUE FUNCIONEN EN AVENIDAS PRINCIPALES Y/O EN UN RADIO DE 300 METROS DE PLAZAS PRINCIPALES, CUBRIRAN UN PAGO EXTRA DEL 50% DE LA CUOTA QUE LE CORRESPONDA.
+VII.- Cubrir el pago del permiso correspondiente ante la Secretaría de Tesorería y Finanzas, de conformidad con los parámetros establecidos en la Ley de Hacienda para los Municipios.
 
 VIII.- Atender personalmente el puesto o negocio.
 
 IX.- Contar con el consentimiento por escrito de los vecinos del área donde se pretenda establecer. Este trámite lo realizará la Dirección de Comercio.
 
-X.- Contar con el capital y las instalaciones adecuadas y necesarias para dicha actividad.
+X.- (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2009)
 
-XI.- Autorizado el permiso y recibido el mismo por el beneficiario, se dará un plazo de 30 días naturales a partir de la fecha de recepción para el inicio de sus actividades. La omisión traerá como consecuencia la anulación.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XI.- Autorizado el permiso y recibido el mismo por el beneficiario, se dará un plazo de 30-treinta días naturales a partir de la fecha de recepción para el inicio de sus actividades. La omisión a esta fracción, así como el mal uso del mismo, traerá como consecuencia la revocación del permiso.
 
 C A P I T U L O Q U I N T O
 
@@ -229,7 +247,9 @@ III.- Colaborar con las Autoridades Municipales para el mejoramiento de su activ
 
 IV.- Participar en cursos de capacitación y superación cuando se les requiera.
 
-V.- Cumplir con los requisitos sanitarios que establecen la Sub-Secretaría de Salud Municipal y la Sub-Secretaría Estatal de Salud, de acuerdo a sus disposiciones sanitarias. En el caso de los comerciantes que preparen y/o vendan alimentos: Uso de gorro, red o mandil, contar con bote para la basura con bolsa plástica y tapa, contar con depósito de agua potable, con capacidad mínima de 20 lts. con tapa y llave, utilizar loza desechable.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+V.- Cumplir con los requisitos sanitarios que establecen la Secretaría Estatal de Salud y la Dirección de Regulación Sanitaria y Municipio Saludable, de acuerdo a sus disposiciones sanitarias. En el caso de los comerciantes que preparen y/o vendan alimentos: uso de gorro, red o mandil, contar con depósito de agua potable, con capacidad mínima de 20 litros con tapa y llave, utilizar loza desechable.
 
 VI.- Contar con el mobiliario apropiado según sea el caso y mantenerlos siempre en buenas condiciones. La Autoridad podrá negar el permiso correspondiente cuando considere que el mobiliario del solicitante no sea conveniente para cubrir tal propósito.
 
@@ -291,27 +311,17 @@ Las amonestaciones se aplicarán en violaciones cometidas involuntariamente y qu
 
 Es causa de retiro de las mercancías e implementos de trabajo de la vía públicas, hacer caso omiso o reincidir en dos o más faltas al presente Reglamento en menos de un mes de exhorto.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 14.
 
-La violación de los artículos 4, 8, 9, 10 del presente Reglamento, serán sancionables de la siguiente manera:
+La violación de los artículos 4, 8, 9, 10 del presente Reglamento, serán sancionables a través de la Secretaría de Tesorería y Finanzas, conforme a los parámetros establecidos.
 
-I.- Comercio ambulante de 2 a 20 cuotas.
-
-II.- Comercio en puesto fijo de 10 a 100 cuotas.
-
-III.- Comercio en puesto semifijo de 10 a 50 cuotas.
-
-IV.- Comercio popular de 5 a 50 Cuotas.
-
-V.- Mercado rodante de 20 a 100 cuotas.
-
-VI.- Oferente itinerante de 2 a 20 cuotas.
-
-Para efectos de este Artículo, se entenderá por una cuota un día de salario mínimo vigente en la zona económica que le corresponda a este municipio y el pago de las multas por violaciones al presente Reglamento, se efectuará en la Dirección de Ingresos de la Secretaria de Finanzas y Tesorería Municipal.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 15.
 
-La suspensión temporal se aplicará en establecimientos que causen controversia al funcionar, por adecuación de zonas de comercio o bien como medidas de seguridad, higiene y salubridad.
+La suspensión temporal se aplicará en establecimientos que causen controversia al funcionar sin las medidas de seguridad, higiene y salubridad.
 
 ###### ARTICULO 16.
 
@@ -420,3 +430,13 @@ ARTURO AYALA MARTÍNEZ
 C. SECRETARIO DEL AYUNTAMIENTO
 
 LIC. LEOPOLDO H. SALINAS GAYTAN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- Las disposiciones de reformas por modificación y adición al Reglamento que Regula el Uso de la Vía Pública en el Ejercicio de la Actividad Comercial en el Municipio de Santa Catarina, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se deroga el Reglamento que Regula el Uso de la Vía Pública en el Ejercicio de la Actividad Comercial en Cd. Santa Catarina, N.L., publicado en el Periódico Oficial de fecha 08-ocho días del mes de Noviembre del año 1995-mil novecientos noventa y cinco, en todo lo que contraponga con el presente Reglamento, las demás disposiciones del citado Reglamento permanecerán vigentes.
+
+TERCERO.- Enviese su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno y en la Gaceta Municipal, por parte de la Secretaría del Ayuntamiento del Municipio de Santa Catarina, N.L.
