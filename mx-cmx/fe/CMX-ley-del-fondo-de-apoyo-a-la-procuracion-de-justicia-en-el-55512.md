@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-fondo-de-apoyo-a-la-procuracion-de-justicia-en-el-55512
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-17"
-last_updated: "2007-05-17"
+last_updated: "2009-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55512&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-02"
 
 LEY DEL FONDO DE APOYO A LA PROCURACION DE JUSTICIA EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de mayo de 2007.
 
@@ -180,11 +180,13 @@ Los bienes muebles o inmuebles que sean adquiridos con recursos del Fondo para l
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-SEGUNDO. Los vehículos automotores de cualquier tipo que se encuentran a disposición de las autoridades ministeriales o judiciales en los depósitos destinados a tal efecto, y que no hayan sido reclamados por su propietarios (sic) hasta el mes de diciembre de dos mil cinco, se pondrán inmediatamente a la venta, conforme a las disposiciones administrativas aplicables, imponiendo la obligación a quienes los adquieran de destruirlos totalmente, para hacer uso únicamente de los metales que de compactación y reciclamiento se obtengan.
+> <small>(REFORMADO, G.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-TERCERO. Los bienes muebles, tales como mobiliario, equipo, joyas, obras de arte, electrodomésticos y de cualquier otra especie, a disposición de las autoridades mencionadas en el transitorio precedente, no reclamados hasta diciembre de dos mil cinco, se pondrán también inmediatamente a la venta.
+SEGUNDO.- Los vehículos de cualquier tipo y autopartes, que se encuentren a disposición de las autoridades ministeriales o judiciales en los Depósitos destinados a tal efecto y, que no hayan sido recogidos por sus propietarios o por quienes tienen derecho o interés jurídico en ellos, hasta el 31 de diciembre del dos mil ocho, no obstante haber sido notificados ya sea en términos del Código de Procedimientos Penales o a través de la Gaceta Oficial del Distrito Federal, y hubiese transcurrido el término que se refiere el artículo 55 del Código Penal para el Distrito Federal, la Procuraduría General de Justicia del Distrito Federal, dispondrá de dichos bienes, determinando la Oficialía Mayor por conducto de la unidad administrativa que corresponda que se pongan inmediatamente a la venta, imponiendo exclusivamente a quienes los adquieran como desecho ferroso vehicular, la obligación de destruirlos totalmente, para hacer uso únicamente de los metales que de su compactación y reciclamiento se obtengan; destinando el producto obtenido de la enajenación de los mismos, a través de cualquiera de los procedimientos establecidos en las disposiciones administrativas aplicables, a los Fondos de Apoyo a la Procuración y Administración de Justicia.
 
-Los productos de las enajenaciones relacionadas en los artículos transitorios anteriores, se depositarán en la cuenta de fondos propios del Fondo de Apoyo a la Procuración de Justicia, y treinta días naturales después de la constitución del fideicomiso correspondiente, se entregará la parte que corresponde al Tribunal Superior de Justicia del Distrito Federal, para que a su vez deposite los recursos en el apartado de fondos propios del Fondo de Apoyo a la Administración de Justicia.
+> <small>(REFORMADO, G.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+TERCERO.- Los bienes muebles, tales como mobiliario, equipo, joyas, obras de arte, electrodomésticos y de cualquier otra especie, a disposición de las autoridades mencionadas en el transitorio precedente, y que no hayan sido recogidos por sus propietarios o por quienes tienen derecho o interés jurídico en ellos, hasta el 31 de diciembre del dos mil ocho, no obstante haber sido notificados ya sea en términos del Código de Procedimientos Penales o a través de la Gaceta Oficial del Distrito Federal, y hubiese transcurrido el término que se refiere el artículo 55 del Código Penal para el Distrito Federal, la Procuraduría General de Justicia del Distrito Federal, dispondrá de dichos bienes, determinando la Oficialía Mayor por conducto de la unidad administrativa que corresponda, el destino final más conveniente para los mismos, de conformidad con los procedimientos establecidos en las disposiciones administrativas aplicables.
 
 CUARTO. La Procuraduría General de Justicia, notificará a través de una publicación en la Gaceta de Gobierno del Distrito Federal, una relación de los depositantes del dinero en efectivo, y en billetes de depósito, que tenga a su disposición hasta el mes de diciembre de dos mil seis, a efecto de que pasen los interesados a recoger dichas cantidades en la Oficialía Mayor de la Procuraduría, en un plazo no mayor de 15 días, apercibiéndose que para el caso de no hacerlo el dinero ingresará al Fondo de Apoyo a la Procuración de Justicia, para todos los efectos legales procedentes.
 
@@ -193,3 +195,11 @@ QUINTO. El Jefe de Gobierno del Distrito Federal, deberá expedir el reglamento 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los doce días del mes de abril del año dos mil siete. POR LA MESA DIRECTIVA.- DIP. RAMÓN JIMÉNEZ LÓPEZ, PRESIDENTE.- DIP. EDY ORTIZ PIÑA, SECRETARIO.- DIP. CELINA SAAVEDRA ORTEGA, SECRETARIA.- Firmas.
 
 En cumplimiento de los dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los dos días del mes de mayo del año dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 9 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Publíquese en la Gaceta del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
