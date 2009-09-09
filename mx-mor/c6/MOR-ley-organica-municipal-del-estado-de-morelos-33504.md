@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2008-12-12"
+last_updated: "2009-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -235,6 +235,16 @@ De conformidad con el Articulo 111 de la Constitución Estatal, el Estado de Mor
 
 33.- Zacualpan.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 5 Bis.
+
+Para los efectos de esta Ley se entenderá por:
+
+I.- Ayuntamiento: el órgano colegiado y deliberante en el que se deposita el gobierno y la representación jurídica y política del Municipio, integrada por el Presidente Municipal. Síndico y Regidores;
+
+II.- Comisiones del Ayuntamiento: los grupos de regidores integrados por área de competencia o de servicios, designados por la mayoría del Ayuntamiento.
+
 ## TÍTULO SEGUNDO. DE LOS ELEMENTOS DEL MUNICIPIO
 
 ### CAPÍTULO I. DE LA POBLACIÓN
@@ -353,15 +363,33 @@ Los centros de población que estimen haber llenado los requisitos señalados pa
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que se renovará de conformidad a lo establecido en la Constitución Política del Estado Libre y Soberano de Morelos.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 15 Bis.
+
+Los Municipios a través de sus funcionarios y servidores públicos darán debido cumplimiento a las disposiciones que emanan de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos, en especial a sus principios rectores de no discriminación, autodeterminación, libertad e igualdad de las mujeres, respeto a la dignidad de las mujeres, así como la incorporación de la perspectiva de género en sus políticas públicas, todo ello con el fin de garantizar en sus territorios el derecho de acceso de las mujeres a una vida libre de violencia, dentro de un medio ambiente adecuado que favorezca su desarrollo y bienestar.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 15 Ter.
+
+Los servidores públicos que presten sus servicios para los Municipios, deberán abstenerse de cualquier práctica discriminatoria en el ejercicio de su cargo o comisión pudiendo incurrir en alguno de los supuestos que señala la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Morelos, independientemente de los procedimientos que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
+
 ###### Artículo 16.
 
 La elección de los miembros de los Ayuntamientos, así como los requisitos que deban satisfacer, se regirán por las disposiciones relativas de la Constitución Política y al Código Electoral del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 17.
 
-El gobierno municipal está a cargo de un Ayuntamiento, el cual se integra por un Presidente Municipal y un Sindico, electos por el sistema de mayoría relativa; además, con los Regidores electos por el principio de representación proporcional, en el número que corresponda de acuerdo con lo que se dispone en la presente Ley; por cada uno de los miembros del Ayuntamiento se elegirá un suplente.
+El gobierno municipal está a cargo de un Ayuntamiento, el cual se integra por un Presidente Municipal y un Síndico, electos por el sistema de mayoría relativa; además, con los Regidores electos por el principio de representación proporcional, en el número que corresponda de acuerdo con lo que se dispone en la presente Ley; por cada uno de los miembros del Ayuntamiento se elegirá un suplente.
 
-Los Presidentes Municipales, Regidores y Síndicos del Ayuntamiento, electos popularmente por elección directa, deberán reunir los requisitos exigidos por la Constitución Política del Estado, y no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen funciones propias de estos cargos, cualquiera que sea la denominación que se les dé, deberá reunir los requisitos que establece el artículo 117 de la Constitución local, con excepción de la fracción V, y no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplente, si podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos del Ayuntamiento, electos popularmente por elección directa, deberán reunir los requisitos exigidos por la Constitución Política del Estado, y no podrán ser reelectos para el período inmediato.
+
+Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen funciones propias de estos cargos, cualquiera que sea la denominación que se les dé, deberán reunir los requisitos que establece el artículo 117 de la Constitución local, con excepción de la fracción V, y no podrán ser electos para el período inmediato. El Cabildo tomará en cuenta esta designación para previo acuerdo, autorizar de manera inmediata la licencia.
+
+Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 ###### Artículo 18.
 
@@ -383,13 +411,15 @@ VI. Tres regidores: Amacuzac, Atlatlahucan, Coatlán del Río, Huitzilac, Jantet
 
 Los Ayuntamientos residirán en las cabeceras de sus municipios y sólo por decreto del Congreso podrán trasladarse a otro lugar comprendido dentro de los límites del mismo.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 20.
 
 Los cargos municipales de elección popular son irrenunciables. Los miembros electos de un Ayuntamiento podrán excusarse de asumir el cargo, antes de rendir la protesta legal correspondiente o durante el ejercicio de su función, por causa grave y justificada que será calificada por el Cabildo.
 
-En caso de declararse procedente la excusa, se llamará de inmediato al suplente respectivo y si éste no pudiera asumir el cargo, se procederá a nombrar al sustituto conforme a la Ley.
+En caso de declararse procedente la excusa, se llamará de inmediato al suplente respectivo y si éste no pudiera asumir el cargo, se procederá a nombrar al sustituto conforme a esta Ley.
 
-Los miembros de los Ayuntamientos solo podrán excusarse de asumir el cargo o solicitar licencias temporales o por tiempo indefinido, por causas graves y justificadas que serán resueltas y calificadas por el Cabildo.
+Los miembros de los Ayuntamientos sólo podrán excusarse de asumir el cargo o solicitar licencias temporales, determinadas y definitivas por causas graves y justificadas que serán resueltas y calificadas por el Cabildo.
 
 ###### Artículo 21.
 
@@ -439,11 +469,13 @@ Instalado el Ayuntamiento, el Presidente Municipal comunicará la forma como que
 
 Al día siguiente de la toma de posesión, el Ayuntamiento celebrará su primera sesión ordinaria de Cabildo, en la que se plantearán y resolverán los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-I. Designar a los titulares de las dependencias de la administración pública municipal, con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal y el Titular de la Seguridad Pública municipal, que serán nombrados por el Presidente;
+I. Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la instancia administrativa de la mujer, con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal y el Titular de la Seguridad Pública municipal, que serán nombrados por el Presidente;
 
 II. Determinar las comisiones municipales que atiendan los ramos de la Administración Pública de acuerdo a sus necesidades y con base a las facultades consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, las cuales deberán ser colegiadas y permanentes, así como designar a los titulares de las mismas.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 El número y denominación de las comisiones, será determinado por los integrantes del Ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
 
@@ -493,7 +525,11 @@ t) Equidad de Género;
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
-u) Asuntos de la Juventud.
+u) Asuntos de la Juventud;
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+v) Igualdad de Género.
 
 En la asignación de Comisiones se deberá respetar el principio de equidad.
 
@@ -577,9 +613,13 @@ Los Ayuntamientos sólo podrán sesionar con la asistencia de la mayoría de sus
 
 Los Ayuntamientos no podrán revocar sus acuerdos, sino en aquellos casos en que hubieren sido dictados en contravención a la Ley, lo exija el interés público o hayan desaparecido las causas que los motivaron, siguiendo el procedimiento y las formalidades que fueron necesarios para adoptarlos.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 33.
 
-Las sesiones serán siempre presididas por el Presidente Municipal o por quien lo sustituya legalmente; de ésta se levantará acta circunstanciada que constará en un libro de actas, en el cual deberán de asentarse los extractos de los acuerdos y asuntos tratados y el resultado de las votaciones. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal, estos constarán íntegramente en el libro debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, ante el Secretario del Ayuntamiento, que asistirá a las sesiones de Cabildo con voz informativa pero sin voto, dando fe de todo lo actuado en ellas. De las actas levantadas por el Secretario del Ayuntamiento se les entregará copia certificada, en un plazo no mayor de ocho días, a los integrantes del Ayuntamiento que lo soliciten. En caso de no cumplir con esta disposición, el Secretario del Ayuntamiento será sancionado conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+Las sesiones serán siempre presididas por el Presidente Municipal o por quien lo sustituya legalmente; de ésta se levantará acta circunstanciada que constará en un libro de actas, en el cual deberán de asentarse los extractos de los acuerdos y asuntos tratados y el resultado de las votaciones. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal, estos constarán íntegramente en el libro debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, ante el Secretario del Ayuntamiento, que asistirá a las sesiones de Cabildo con voz informativa, pero sin voto, dando fe de todo lo actuado en ellas.
+
+De las actas levantadas por el Secretario del Ayuntamiento se les entregará copia certificada, en un plazo no mayor de ocho días, a los integrantes del Ayuntamiento. En caso de no cumplir con esta disposición, el Secretario del Ayuntamiento será sancionado conforme a lo establecido en la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Morelos.
 
 ###### Artículo 34.
 
@@ -597,7 +637,7 @@ III.- La aprobación o expedición de los Bandos de Policía y de Gobierno y de 
 
 IV.- Cuando se decida sobre la modificación de la categoría política de los centros de población o se altere la división dentro del Municipio;
 
-V.- La designación de delegados municipales;
+V.- (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2009)
 
 VI.- Cuando se decida sobre los salarios, dietas, emolumentos, prestaciones o cualquier otra prerrogativa económica que perciban los integrantes del Ayuntamiento; y
 
@@ -605,13 +645,13 @@ VII.- Las demás que establezca la Constitución Política de los Estados Unidos
 
 En los casos referidos anteriormente se requerirá el voto de las dos terceras partes de los miembros del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 36.
 
-Durante el ejercicio del Ayuntamiento, cada treinta y uno de octubre, el Presidente Municipal, en sesión solemne de Cabildo, rendirá un informe escrito respecto de las actividades desarrolladas en la anualidad que corresponda, ante el propio Cabildo.
+Durante el ejercicio del Ayuntamiento, en el mes de diciembre, el Presidente Municipal, presentará por escrito el informe respecto de las actividades desarrolladas por la administración pública municipal y el estado que guarda ésta, por la anualidad que corresponda.
 
-En esta sesión, el Regidor que represente a la primera minoría, comentará en términos generales el informe rendido; para tal efecto, el Presidente Municipal hará llegar a este Regidor y a los demás miembros del Ayuntamiento una copia de su informe, cuando menos con ocho días de anticipación a la presentación del mismo.
-
-En el último año de la gestión administrativa del Ayuntamiento, el informe se hará en forma global, comprendiendo la totalidad del período constitucional.
+En el último año de la gestión administrativa del Ayuntamiento, el informe se presentará en forma global, comprendiendo la totalidad del período constitucional.
 
 ###### Artículo 37.
 
@@ -721,7 +761,11 @@ XXVIII. Autorizar la ejecución de las obras públicas municipales en coordinaci
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-XXIX. Exigir la exhibición de la garantía, hipotecaria o pecuniaria o cualquier otra modalidad que establezca la ley, al Tesorero municipal y a todos los servidores públicos que manejen fondos o valores municipales;
+XXIX. Exigir la exhibición de la garantía, hipotecaria o pecuniaria o cualquier otra modalidad que establezca la ley, al Tesorero municipal y a todos los servidores públicos que manejen fondos o valores municipales.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+En todo caso, el presidente municipal, el tesorero municipal y todos los demás servidores públicos que manejan fondos o valores del municipio, serán responsables por los pliegos de observaciones que se deriven de la revisión de la Cuenta Pública que realice la Auditoría Superior de Fiscalización del Congreso del Estado;
 
 XXX. Revisar y en su caso aprobar el Plan Municipal de Desarrollo, los programas del mismo emanen y las modificaciones que a uno u otros se hagan, de conformidad con los planes de desarrollo nacional y estatal y de los programas y subprogramas que de ellos deriven;
 
@@ -747,7 +791,9 @@ XL. Conocer y en su caso aprobar por mayoría calificada las reformas o adicione
 
 XLI. Participar en el ámbito de su competencia de acuerdo a las facultades que en materia de salud, educación, seguridad, medio ambiente, asentamientos humanos, desarrollo urbano y asociaciones religiosas y culto público que les concedan las Leyes Federales y Locales;
 
-XLII. Enajenar y dar en arrendamiento, usufructo o comodatos los bienes del Municipio, previa autorización de las dos terceras partes de sus integrantes;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XLII. Enajenar y dar en arrendamiento, usufructo o comodato o donación, los bienes del Municipio, previa autorización de las dos terceras partes de sus integrantes;
 
 XLIII. Promover y apoyar los programas estatales y federales de capacitación y organización para el trabajo; y en general, coadyuvar con las autoridades federales y estatales en la ejecución de los mismos;
 
@@ -785,17 +831,53 @@ LVIII. Proporcionar instrucción cívica a los ciudadanos del Municipio, con el 
 
 LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y (sic)
 
-LX. En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras leyes y reglamentos;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+LX. En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras Leyes y reglamentos aplicables, así como también institucionalizar la perspectiva de género en la administración pública municipal y dar cumplimiento a lo que establece la Ley de Igualdad de Derechos y Oportunidades entre Mujeres y Hombres en el Estado de Morelos;
 
-LXI. Los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior de Fiscalización, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe, y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+LXI. Los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior de Fiscalización, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+LXII. Crear los comités, comisiones y consejos de carácter consultivo que se consideren necesarios, para el desarrollo de los asuntos competencia de la administración municipal.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+LXIII. En el último·año de su ejercicio constitucional, los ayuntamientos salientes deberán incluir en la cuenta pública por lo menos, la siguiente información:
+
+a) Los recursos ejercidos;
+
+b) En su caso, obras pendientes de concluir;
+
+c) Balanzas:
+
+1) De ingresos recaudados al cierre de su ejercicio;
+
+2) De egresos ejercidos al cierre de su ejercicio;
+
+d) Cuentas bancarias, señalando las instituciones, los números de cuenta y saldos al cierre;
+
+e) Contratos comprometidos (pasivos);
+
+f) Número de personal, plazas ocupadas, vacantes y aguinaldo del ejercicio fiscal correspondiente;
+
+g) Empréstitos;
+
+h) Relación de bienes muebles e inmuebles;
+
+i) Relación de juicios pendientes, y
+
+j) Listado de pago de indemnizaciones por término de administración, compensaciones, finiquitos, prima vacacional y demás emolumentos a los integrantes del Cabildo, Secretarios, Subsecretarios, Directores y demás personal.
+
+Lo anterior deberá ser publicado en el Periódico Oficial Tierra y Libertad, en la Gaceta Municipal y en el portal de internet del Municipio.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
-LXII. Las demás que les concedan las leyes, reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
+LXIV. Las demás que les concedan las leyes, reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
 
 ###### Artículo 39.
 
@@ -869,7 +951,9 @@ XII. Nombrar y remover a los servidores públicos municipales cuya designación 
 
 XIII. Visitar los centros de población del Municipio para conocer los problemas de las localidades y tomar las medidas tendientes a su resolución y, en su caso, proponer al Ayuntamiento la creación, reconocimiento y denominación de los centros de población en el Municipio, proponer las expropiaciones de bienes por causas de utilidad pública, ésta última para someterla a la consideración del Poder Ejecutivo del Estado;
 
-XIV. Informar al Ayuntamiento respecto del cumplimiento dado a los acuerdos y resoluciones de éste;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XIV. Presentar en el mes de diciembre de cada año, por escrito, un informe del estado que guarde la administración y de las labores desarrolladas durante el año;
 
 XV. Presentar el día treinta y uno de octubre de cada año, en sesión solemne de Cabildo, un informe del estado que guarde la administración y de las labores desarrolladas durante el año, así como dar contestación a las cuestiones que se le formulen por los regidores y síndico integrantes del Cabildo;
 
@@ -901,7 +985,9 @@ XXVI. Otorgar a los organismos electorales el apoyo de la fuerza pública, así 
 
 XXVII. Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados y fideicomisos que formen parte de la infraestructura administrativa;
 
-XXVIII. Solicitar la autorización respectiva al Cabildo en caso de que se requiera la ampliación presupuestal según lo establece la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+XXVIII. Presidir las Juntas de Gobierno de los Organismos Operadores Municipales e Intermunicipales, así como los comités, comisiones y consejos consultivos que se consideren necesarios, para el desarrollo de los asuntos competencia de la administración municipal, mismos que tendrán carácter honorífico;
 
 XXIX. Presidir las Juntas de Gobierno de los Organismos Operadores Municipales e Intermunicipales;
 
@@ -957,7 +1043,9 @@ II. Con el apoyo de la dependencia correspondiente del Ayuntamiento, procurar, d
 
 III. Suplir en sus faltas temporales al Presidente Municipal;
 
-IV. Practicar, a falta o por ausencia del Ministerio Público, las primeras diligencias penales, remitiéndolas inmediatamente al Agente del Ministerio Público correspondiente, así como el o los detenidos relacionados con la misma.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Practicar, a falta o por ausencia del Ministerio Público, las primeras diligencias penales, remitiéndolas inmediatamente al Agente del Ministerio Público correspondiente, así como el o los detenidos relacionados con la misma; así mismo y cuando se trate de asuntos de violencia familiar solicitar la inmediata intervención del Sistema para el Desarrollo Integral de la Familia Municipal y de la policía preventiva municipal para que de manera preventiva realice un seguimiento del asunto para proteger a la victima;
 
 V. Con el apoyo de la dependencia correspondiente del Ayuntamiento, formular y actualizar los inventarios de bienes muebles, inmuebles y valores que integren el patrimonio del Municipio, haciendo que se inscriban en un libro especial, con expresión de sus valores y todas las características de identificación, así como el uso y destino de los mismos, dándolo a conocer al Ayuntamiento y al Congreso del Estado, con las modificaciones que sufran en su oportunidad;
 
@@ -975,6 +1063,10 @@ X. Admitir, substanciar y resolver los recursos administrativos que sean de su c
 
 Los Síndicos no podrán desistirse, transigir, comprometerse en árbitros, ni hacer cesión de bienes o derechos municipales, sin la autorización expresa que en cada caso les otorgue el Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+Para realizar la actualización de los inventarios de bienes muebles a que se refiere la fracción V del artículo anterior, el Síndico podrá formular la desincorporación de bienes muebles mediante donación a instituciones con fines altruistas; la enajenación deberá realizarse previo avalúo del tesorero municipal o formal subasta; instrucción a disposición final ordenando su destrucción o compactación, previa autorización del cabildo.
+
 ### CAPÍTULO IV. DE LOS REGIDORES
 
 ###### Artículo 47.
@@ -987,7 +1079,9 @@ Son atribuciones de los Regidores:
 
 I. Asistir puntualmente a las sesiones de Cabildo ordinarias, extraordinarias y solemnes así como participar en las discusiones con voz y voto, sin que puedan abstenerse de votar, salvo que exista impedimento legal; en caso de impedimento físico o legal, para poder asistir a las sesiones, el interesado deberá dar aviso oportunamente al Secretario del Ayuntamiento;
 
-II. Proponer al Ayuntamiento los proyectos de reglamentos municipales, la modificación o actualización de los ya existentes;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+II. Proponer al Ayuntamiento los proyectos de reglamentos municipales, la modificación o actualización de los ya existentes, incorporando en todo momento la perspectiva de género;
 
 III. Vigilar la rama de la administración municipal que les haya sido encomendada, informando periódicamente al Ayuntamiento de sus gestiones, así como de aquellas que le designe en forma directa el Presidente Municipal;
 
@@ -1007,9 +1101,11 @@ X. Las demás que esta Ley, los reglamentos y otros ordenamientos le señalen.
 
 ### CAPÍTULO V. DE LA PLANEACIÓN MUNICIPAL
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 49.
 
-Los Ayuntamientos, para impulsar el desarrollo dentro de su ámbito territorial, formularán sus Planes Municipales de Desarrollo, así como sus programas de desarrollo urbano y demás programas relativos.
+Los Ayuntamientos, para impulsar el desarrollo dentro de su ámbito territorial, formularán sus Planes Municipales de Desarrollo, así como sus programas de desarrollo urbano y demás programas relativos, mismos que se realizaran tomando en cuenta la perspectiva de género.
 
 ###### Artículo 50.
 
@@ -1031,7 +1127,7 @@ Cuando dos o más centros urbanos, situados en territorio de dos o más Municipi
 
 Los Planes Municipales, los programas que de ellos se desprendan y las adecuaciones consecuentes a los mismos, que sean aprobados por los Ayuntamientos, serán publicados en el Periódico Oficial del Gobierno del Estado de Morelos y se difundirán a nivel municipal, por publicaciones en gacetas o periódicos locales.
 
-Los Planes de Desarrollo Municipal podrán ser modificados o suspendidos cuando cambien drásticamente, a juicio del Ayuntamiento, las condiciones de carácter económico, social, político o demográfico en que se elaboraron. En este caso deberá seguirse el mismo procedimiento que su utilizó para se elaboración y aprobación.
+Los Planes de Desarrollo Municipal podrán ser modificados o suspendidos cuando cambien drásticamente, a juicio del Ayuntamiento, las condiciones de carácter económico, social, político o demográfico en que se elaboraron. En este caso deberá seguirse el mismo procedimiento que se utilizó para su elaboración y aprobación.
 
 ###### Artículo 54.
 
@@ -1051,11 +1147,25 @@ Los Municipios, en los términos de las Leyes aplicables, podrán celebrar conve
 
 Los planes y programas municipales de desarrollo tendrán su origen en un sistema de planeación democrática, mediante la consulta popular a los diferentes sectores sociales del Municipio, debiendo sujetarse a lo dispuesto por la Ley Estatal de Planeación.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 58.
 
-En cada uno de los treinta y tres Municipios que conforman el Estado, funcionará un Comité de Planeación para el Desarrollo Municipal que, coordinado por el Comité de Planeación para el Desarrollo del Estado de Morelos, será un organismo auxiliar del Municipio que tendrá por objeto formular, actualizar, instrumentar y evaluar el Plan Municipal.
+En cada uno de los treinta y tres municipios que conforman el Estado, funcionará un Comité de Planeación para el Desarrollo Municipal que, coordinado por el Comité de Planeación para el Desarrollo del Estado de Morelos, será un organismo auxiliar del Municipio que tendrá por objeto formular, actualizar, instrumentar y evaluar el Plan Municipal.
 
-Para los efectos de esta Ley, al referirse al Comité de Planeación para el Desarrollo Municipal, se podrán emplear las siglas COPLADEMUN, y en las referencias al Comité de Planeación para el Desarrollo del Estado de Morelos, se podrán utilizar las siglas COPLADE-MORELOS.
+Para los efectos de esta Ley, al referirse al Comité de Planeación para el Desarrollo Municipal, se podrán emplear las siglas COPLADEMUN, y en las referencias al Comité de Planeación para el Desarrollo del Estado de Morelos, se podrán utilizar las siglas COPLADE.
+
+El funcionario que para efecto de coordinar las actividades de los COPLADEMUN nombre cada Ayuntamiento deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano Mexicano.
+
+II. Tener título y cedula profesional de una profesión afín a las áreas de Planeación, Desarrollo Urbano y/o Administración.
+
+III. Tener reconocida calidad ética y solvencia moral.
+
+IV. Contar con experiencia, en las áreas de Planeación, Desarrollo Urbano y/o Administración.
+
+V. No haber sido sancionado anteriormente por su desempeño corno servidor en la Administración Pública o Privada.
 
 ###### Artículo 59.
 
@@ -1063,9 +1173,11 @@ Para su funcionamiento, los Comités de Planeación para el Desarrollo Municipal
 
 ### CAPÍTULO VI. DE LA FACULTAD REGLAMENTARIA DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 60.
 
-Los Ayuntamientos expedirán, dentro de sus respectivas jurisdicciones, su Bando de Policía y Gobierno, reglamento interior, reglamentos y disposiciones administrativas de observancia general, de acuerdo con lo establecido en el Artículo 115 Fracción II, Párrafo Segundo de la Constitución Política de los Estados Unidos Mexicanos.
+Los Ayuntamientos expedirán, dentro de sus respectivas jurisdicciones, su Bando de Policía y Gobierno, reglamento interior, reglamentos y disposiciones administrativas de observancia general, de acuerdo con lo establecido en el Artículo 115 Fracción II, Párrafo Segundo de la Constitución Política de los Estados Unidos Mexicanos, incorporando la perspectiva de género.
 
 ###### Artículo 61.
 
@@ -1101,73 +1213,27 @@ Los Bandos de Policía y Gobierno, los reglamentos, circulares y disposiciones a
 
 ### CAPÍTULO VIII (SIC). DEL SERVICIO CIVIL DE CARRERA
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 65.
 
-Los Ayuntamientos institucionalizarán el servicio civil de carrera, por medio del reglamento correspondiente, el cual tendrá los siguientes propósitos:
-
-I.- Garantizar la estabilidad y seguridad en el empleo;
-
-II.- Fomentar la vocación de servicio, mediante una motivación adecuada;
-
-III.- Promover la capacitación permanente del personal;
-
-IV.- Procurar la lealtad a las instituciones del Municipio;
-
-V.- Promover la eficiencia y la eficacia de los servidores públicos municipales;
-
-VI.- Mejorar las condiciones laborales de los servidores públicos municipales;
-
-VII.- Garantizar promociones justas y otras formas de progreso laboral con base en sus méritos;
-
-VIII.- Garantizar a los servidores públicos municipales el ejercicio de los derechos que les reconocen las leyes y otros ordenamientos jurídicos, y
-
-IX.- Contribuir al bienestar de los servidores públicos municipales y sus familias, mediante el desarrollo de actividades educativas, de asistencia, culturales, deportivas, recreativas y sociales.
+Los Ayuntamientos reglamentarán las condiciones del ejercicio del servicio público, conforme lo disponga el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y la ley que al efecto emita el Congreso del Estado.
 
 ###### Artículo 66.
 
-Para la institucionalización del servicio civil de carrera, los Ayuntamientos establecerán:
-
-I.- Las normas, políticas y procedimientos administrativos que definirán qué servidores públicos municipales participarán en el servicio civil de carrera;
-
-II.- Un estatuto del personal;
-
-III.- Un sistema de mérito para la selección, promoción, ascenso y estabilidad personal;
-
-IV.- Un sistema de clasificación de puestos;
-
-V.- Un sistema de plan de salarios, tabulador de puestos y estímulos;
-
-VI.- Un sistema de capacitación, actualización y desarrollo de personal; y
-
-VII.- Un sistema de evaluación periódica al desempeño laboral.
+(DEROGADO, P.O. 9 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 67.
 
-La institucionalización del servicio civil de carrera será responsabilidad de la dependencia encargada de la administración de servicios, recursos humanos, materiales y servicios técnicos del Municipio, a la cual estará adscrita una comisión integrada por quienes el Ayuntamiento designe.
-
-La Comisión designada podrá auxiliarse del organismo público constitucional para el desarrollo y fortalecimiento municipal e instituciones académicas.
+(DEROGADO, P.O. 9 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 68.
 
-La Comisión del Servicio Civil de Carrera tendrá las siguientes funciones:
-
-I.- Promover ante las dependencias y entidades de la administración pública municipal, la realización de los programas específicos del servicio civil de carrera;
-
-II.- Promover mecanismos de coordinación entre las dependencias y entidades de la administración pública municipal, para uniformar y sistematizar los métodos de administración y desarrollo del personal, encaminados a instrumentar el servicio civil de carrera;
-
-III.- Determinar y proponer los elementos que permitan la adecuación e integración del marco jurídico y administrativo que requiera la instauración del servicio civil de carrera;
-
-IV.- Promover mecanismos de participación permanente, para integrar y unificar los planteamientos de las dependencias y entidades de la administración pública municipal, así como los correspondientes a las representaciones sindicales, en la instrumentación del servicio civil de carrera;
-
-V.- Estudiar y admitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del servicio civil de carrera, con los instrumentos del Plan de Desarrollo Municipal;
-
-VI.- Evaluar periódicamente los resultados de las acciones orientadas a la instrumentación del servicio civil de carrera; y
-
-VII.- Las demás que señale el Ayuntamiento, que sean necesarias para el cumplimiento de su objeto.
+(DEROGADO, P.O. 9 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 69.
 
-En la aplicación del presente capítulo se atenderá en lo conducente, lo dispuesto por la Ley del Servicio Civil del Estado de Morelos.
+(DEROGADO, P.O. 9 DE SEPTIEMBRE DE 2009)
 
 ### CAPÍTULO IX. DE LA ASISTENCIA SOCIAL
 
@@ -1191,13 +1257,39 @@ El Sistema Municipal para el Desarrollo Integral de la Familia, a través del Si
 
 Para el desarrollo de sus actividades, los Sistemas Municipales para el Desarrollo Integral de la Familia contarán, además de las partidas que les asignen en el Presupuesto de Egresos de su Municipio, con los subsidios, subvenciones y demás ingresos que los Gobiernos Federal, Estatal y Municipal les otorguen, así como las aportaciones, donaciones, legados y demás liberalidades que reciban; las concesiones, permisos, licencias y autorizaciones que les otorguen conforme a la Ley y, en general los demás bienes, muebles e inmuebles, derechos e ingresos que obtengan por cualquier título.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 73 Bis.
+
+Sin perjuicio de las facultades conferidas a los Sistemas Municipales para el Desarrollo Integral de la Familia para garantizar el derecho de las mujeres a una vida libre de violencia, dichos Sistemas Municipales tendrán las siguientes atribuciones:
+
+I.- Implementar a través de la procuraduría de la defensa del menor y la familia el procedimiento de la mediación previsto por la Ley para prevenir, atender, sancionar y erradicar la violencia familiar en el Estado de Morelos;
+
+II.- Imponer las sanciones administrativas previstas en la ley para prevenir, atender, sancionar y erradicar la violencia familiar en el Estado de Morelos;
+
+III.- Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a víctimas y generadores de la violencia familiar;
+
+IV.- Promover acciones y programas de protección social, a las receptoras de la violencia familiar;
+
+V.- Coadyuvar con las dependencias competentes en las acciones y programas de seguimiento a los casos en que tenga conocimiento de dicha violencia, y
+
+VI.- Tramitar ante los Jueces competentes, las órdenes de protección de carácter urgente y temporal, que se requieran para la salvaguarda de los derechos de las personas receptoras de la violencia familiar.
+
+Además de lo señalado por la presente Ley, los Sistemas Municipales para el desarrollo integral de la familia, deberán observar en lo conducente, lo dispuesto por la Ley para prevenir, atender, sancionar y (sic) la violencia familiar en el Estado de Morelos.
+
 ### CAPÍTULO X. DEL CRONISTA MUNICIPAL
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 74.
 
-En cada Municipio, cuando las posibilidades económicas lo permitan, existirá un Cronista Municipal nombrado por el Ayuntamiento, de conformidad con las disposiciones reglamentarias de cada Municipio, quien tendrá como función la recopilación, custodia y difusión de la memoria histórica y cultural del Municipio, durará en su cargo un período de gobierno y podrá ser reelecto a juicio del Ayuntamiento que inicie un nuevo período de gobierno.
+En cada Municipio, existirá un Cronista o un Consejo de Cronistas, según las circunstancias de cada uno de éstos; en su caso, dicho Consejo se integrará previa convocatoria que haga el Ayuntamiento, de acuerdo con la estructura que ellos mismos designen, quienes tendrán como función la recopilación, custodia y difusión de la memoria histórica y cultural del Municipio.
 
-La designación del cronista municipal deberá recaer en una persona destacada por sus méritos y aportaciones a la cultura municipal.
+La Coordinación o representación del Consejo será rotativa cada año. El coordinador del Consejo fungirá a su vez como el Cronista de la Ciudad. El Cronista o en su caso, los integrantes del Consejo, durarán en su cargo un período de gobierno y podrán ser reelectos por el Ayuntamiento que inicie un nuevo período de gobierno.
+
+El Consejo de Cronistas Municipales deberá integrarse por personas destacadas por sus méritos y aportaciones a la cultura municipal; mismos requisitos que deberá tener el Cronista.
+
+Para ambos casos, la administración municipal entrante contará con un término de sesenta días naturales, contados a partir del inicio de su ejercicio constitucional, para la designación y toma de protesta del Cronista o Consejo de Cronistas.
 
 ## TÍTULO CUARTO. RÉGIMEN ADMINISTRATIVO
 
@@ -1276,6 +1368,10 @@ El Ayuntamiento deberá exigir la exhibición de la fianza, antes de iniciar el 
 > <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2006)</small>
 
 El monto de la fianza será determinado, por cada Ayuntamiento proporcionalmente al monto del presupuesto ejercido. En ningún caso el Tesorero Municipal podrá tomar posesión de su cargo si omite cumplir con este requisito.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+Los servidores públicos del ayuntamiento serán responsables por los pliegos de observaciones que se deriven de la revisión de la Cuenta Pública que realice la Auditoría Superior de Fiscalización.
 
 ###### Artículo 80.
 
@@ -1633,6 +1729,8 @@ IV. La preparación, desarrollo y vigilancia del proceso electoral estará a car
 
 Los asuntos serán resueltos por mayoría de votos; en caso de empate, el Presidente tendrá voto de calidad; la Junta sesionará por citación del Presidente y podrán concurrir a las sesiones con voz pero sin voto, los candidatos registrados o un representante de éstos;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 V. Contra las resoluciones de la Junta Electoral podrá interponerse el recurso de revisión ante el Ayuntamiento, en cuyo caso se observará lo siguiente:
 
 a) Deberá presentarse dentro del término de setenta y dos horas a partir del momento en que se tenga conocimiento del acto impugnado;
@@ -1645,7 +1743,7 @@ d) Se ofrecerán las pruebas, que serán únicamente documentales y técnicas, y
 
 e) La interposición del recurso de revisión corresponde exclusivamente al candidato debidamente registrado ante la Junta Electoral Municipal; y
 
-f) El Ayuntamiento resolverá el recurso de plano en un término de mayor de cinco días y su fallo será definitivo e inacatable;
+f) El Ayuntamiento resolverá el recurso de plano en un término no mayor de cinco días y su fallo será definitivo e inatacable;
 
 VI. El Ayuntamiento, en sesión que celebrará el domingo siguiente a la fecha de los comicios, calificará la elección de los ayudantes municipales y entregará a los elegidos la correspondiente constancia de mayoría;
 
@@ -1967,9 +2065,13 @@ V. Vigilar la correcta vialidad de personas y vehicular en las calles y caminos;
 
 VI. Auxiliar en los programas de salud, dotación de servicios públicos municipales y vigilancia del correcto mantenimiento de los mismos;
 
-VII. Efectuar programas que tiendan a prevenir el delito y las faltas administrativas; y
+VII. Efectuar programas que tiendan a prevenir el delito y las faltas administrativas; y (sic)
 
-VIII. Los demás que establezcan las Leyes y sus reglamentos.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+IX (SIC).- Diseñar la política en materia de seguridad pública para la prevención, atención y erradicación de la violencia contra las mujeres y la familia en el marco de la política integral con perspectiva de género, y
+
+X.- Los demás que establezcan las Leyes y sus reglamentos.
 
 ###### Artículo 134.
 
@@ -2259,6 +2361,8 @@ Los convenios que se celebren con Municipios de otra u otras entidades requerir�
 
 ### CAPÍTULO I. DE LAS LICENCIAS DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 166.
 
 Los Municipios, cuando así fuere necesario y carezcan de la capacidad administrativa y financiera para ello, podrán prestar los servicios públicos municipales con el concurso del Gobierno del Estado, previa aprobación del Congreso local.
@@ -2317,13 +2421,41 @@ VI.- Los servidores públicos que desempeñen funciones en las administraciones 
 
 ###### Artículo 171.
 
-Los integrantes del Ayuntamiento, requieren de licencia otorgada por el Cabildo para separarse de sus funciones; las faltas podrán ser temporales o indefinidas, siendo las primeras aquellas que no excedan de quince días.
+Los integrantes del Ayuntamiento, requieren de licencia otorgada por el Cabildo para separarse de sus funciones; las cuales podrán ser.
+
+I.- Temporales, que no excederán de quince días,
+
+II.- Determinadas: hasta por noventa días naturales, y
+
+III.- Definitivas.
+
+Las ausencias del Presidente Municipal, serán suplidas en los términos del Artículo 172 y 172 bis de ésta Ley. Las de los Síndicos y Regidores, no se suplirán cuando no excedan de tres sesiones consecutivas, si se excedieran el Cabildo llamará al suplente respectivo.
+
+Para cubrir las ausencias definitivas de los miembros de los ayuntamientos, serán llamados los suplentes respectivos, para que dentro de un término de tres días, se presenten a desempeñar sus funciones.
+
+Los integrantes del Ayuntamiento tendrán derecho a solicitar licencia para separarse del cargo en caso de contender a un cargo de elección popular.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 172.
 
-Las faltas temporales del Presidente Municipal serán suplidas por el Síndico; las indefinidas por el suplente respectivo, y si faltare o se encontrare imposibilitado éste, el congreso, a propuesta de la terna que remita el Gobernador del Estado y por aprobación de las dos terceras partes de los integrantes del Congreso, se designará al sustituto.
+Las licencias temporales y determinadas del Presidente Municipal, serán suplidas por el Síndico y las licencias definitivas por el suplente respectivo. En caso de que el Síndico y/o el suplente faltaren o se encuentren imposibilitados para ocupar el cargo, el Cabildo en sesión extraordinaria designará mediante acuerdo, al Presidente Municipal que cubra las licencias temporales y determinadas de entre los regidores que integran el cabildo.
 
-La ausencia del Síndico y de los Regidores no se suplirá necesariamente, cuando la falta no exceda de quince días mientras haya el número suficiente de miembros para constituir el quórum; cuando el número de miembros sea insuficiente para sesionar o la falta sea indefinida se llamará al suplente respectivo y a falta o imposibilidad de éste, el Congreso del Estado designará al sustituto en la forma indicada en el párrafo anterior.
+Tratándose de las licencias definitivas, serán cubiertas por el suplente respectivo, si éste faltare o se encontrase imposibilitado para ocupar el cargo, el Cabildo notificará al Ejecutivo del Estado, quien en un plazo máximo de diez días, contados a partir de la notificación, remitirá al Congreso del Estado la terna para ocupar el cargo de Presidente Municipal respectivo, y por aprobación de las dos terceras partes de los integrantes del Congreso, se designará al sustituto en un término máximo de cinco días hábiles, contados a partir de que se reciba la terna.
+
+En tanto el Congreso designa al Presidente Municipal sustituto, el Cabildo acordará de entre sus miembros, quien cubrirá la ausencia definitiva del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 172 Bis.
+
+La ausencia del Síndico y de los Regidores no se suplirá necesariamente, cuando la falta no exceda de quince días mientras haya el número suficiente de miembros para constituir el quórum; cuando el número de miembros sea insuficiente para sesionar o la falta sea definitiva se llamará al suplente respectivo y a falta o imposibilidad de éste, el Congreso del Estado designará al sustituto en la forma indicada en el artículo anterior.
+
+La autorización o en su caso la revocación de las licencias por reintegrarse anticipadamente a su cargo en el Ayuntamiento, deberá acordarse por el Cabildo en un plazo de setenta y dos horas, contados a partir de que recibió la solicitud respectiva.
+
+Para la autorización de las licencias y su terminación y/o revocación, deberá seguirse el mismo trámite ante el cabildo.
+
+Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determinan los integrantes del Cabildo, por mayoría calificada y por una sola ocasión.
 
 ###### Artículo 173.
 
@@ -2343,9 +2475,11 @@ Para los efectos de la responsabilidad de que se trata este capítulo, se consid
 
 La declaración de procedencia, para determinar si se procede penalmente en contra de los Presidentes Municipales, será hecha en términos de lo que establece el artículo 136 de la Constitución Política del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 176.
 
-Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos se estará a lo dispuesto en el título séptimo de la Constitución Política Local y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos se estará a lo dispuesto en el título séptimo de la Constitución Política Local y la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### Artículo 177.
 
@@ -2592,6 +2726,20 @@ P.O. 12 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Por esta única ocasión, la disposición prevista en el artículo 36 y la fracción XIV del artículo 41 de esta Ley se aplicará a partir del año 2012. Los presidentes municipales que tomen posesión el 1º de noviembre de 2009, presentarán el 31 de octubre de 2010 y 2011, por escrito, el informe a que hacen referencia dichos artículos, mientras que el informe correspondiente a su tercer año de ejercicio, lo deberán presentar por escrito en el mes de diciembre de 2012, conforme a lo previsto en los artículos 36 y 41 fracción XIV de esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente reforma.
 
 ###### ARTÍCULO CUARTO.
 
