@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "2007-11-12"
+last_updated: "2009-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 9 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -4030,3 +4032,25 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 12 DE NOVIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 9 DE SEPTIEMBRE DE 2009.
+
+Primero.- La presente Ley entrará en vigor a los sesenta días de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Se abroga la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, publicada en el Periódico Oficial del Estado de Fecha 3 de marzo de 1999.
+
+Tercero.- Se derogan todas las disposiciones que se opongan a lo establecido en la presente Ley.
+
+Cuarto.- Los Municipios promoverán, en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, en las materias de su competencia.
+
+Quinto.- Los planes y programas de desarrollo urbano que se encuentren vigentes hasta la fecha de entrada en vigor de esta Ley se mantendrán en sus términos y surtirán todos sus efectos legales, hasta en tanto no se deroguen o modifiquen de manera expresa.
+
+Sexto.- Las factibilidades expedidas con anterioridad a la entrada en vigencia de la presente Ley, continuarán el proceso de autorización de las etapas subsecuentes hasta los actos definitivos, conforme a las disposiciones, ordenamientos, procedimientos y documentación requerida, según lo previsto en la Ley objeto de su autorización.
+
+Séptimo.- Las disposiciones contenidas en el Título Décimo, Capítulo Tercero, denominado "Directores Responsables de Obra", de la Ley que se aprueba, entrarán en vigor a los ciento ochenta días naturales siguientes a la entrada en vigor del presenté Decreto, mientras tanto podrán desempeñar las funciones de los directores responsables de obra, los profesionistas que cuenten con cédula profesional expedida por la autoridad competente en las materias afines a los cálculos o avales que emitan.
+
+Octavo.- Las disposiciones contenidas en el Título Cuarto, Capítulo Segundo, denominado "De las Zonas Metropolitanas", de la presente Ley, entrarán en vigor hasta en tanto se reforme los artículos 23, párrafos quinto y sexto, y 132; último párrafo, de la Constitución Política del Estado de Nuevo león a fin de incluir el concepto de zona metropolitana.
+
+Noveno.- Las disposiciones contenidas en el Título Séptimo, Capítulo Quinto, denominado "De las Zonas de Riesgo", de la presente Ley, se aplicarán a partir de los sesenta días siguientes a la fecha en que se publique el Atlas de Riesgo, respectivo en el Periódico Oficial del Estado.
+
+Décimo.- La habilitación de las vías públicas con pavimentos que se refieran en las disposiciones de la presente Ley, se seguirán realizado conforme al Reglamento de Pavimentos publicado en el Periódico Oficial del Estado, de fecha 6 de octubre de 2003 y hasta en tanto se publique la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León.
