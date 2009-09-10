@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-58196
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-12"
-last_updated: "2007-12-12"
+last_updated: "2009-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 10 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 12 de diciembre de 2007.
 
@@ -434,3 +436,17 @@ C.P. Juan Carlos Ramírez Quintana
 Contralor Interno
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 10 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento del Comité Interno de Control y Auditoría (sic) del Colegio de Bachilleres del Estado de México, publicado en la "Gaceta del Gobierno" el 12 de diciembre de 2007.
+
+CUARTO.- El Director General del Organismo deberá constituir el COCOE, en los términos del presente Reglamento, dentro de los 30 días hábiles siguientes a su publicación en la Gaceta del Gobierno.
+
+QUINTO.- La interpretación del presente Reglamento y lo no previsto en el mismo, será resuelta por la Secretaría de la Contraloría del Gobierno del Estado de México.
