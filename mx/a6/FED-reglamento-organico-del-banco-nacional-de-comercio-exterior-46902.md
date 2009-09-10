@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-nacional-de-comercio-exterior-469
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "1996-03-14"
+last_updated: "2009-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46902&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGANICO DEL BANCO NACIONAL DE COMERCIO EXTERIOR, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -71,13 +71,13 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPITULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 7o.
 
-El capital social del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $5,000'000,000.00 (cinco mil millones de pesos 00/100 M.N.). Dicho capital social estará representado por 33'000,000 (treinta y tres millones) de certificados de aportación patrimonial de la Serie “A”, con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno, y por 17'000,000 (diecisiete millones) de certificados de aportación patrimonial de la Serie “B”, con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno.
+El capital social del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $14,009,105,800.00 (catorce mil nueve millones ciento cinco mil ochocientos pesos 00/100 m.n.). Dicho capital social estará representado por 92,460,098 (noventa y dos millones cuatrocientos sesenta mil noventa y ocho) certificados de aportación patrimonial de la serie "A" con valor nominal de $100.00 (cien pesos m.n.) cada uno y por 47,630,960 (cuarenta y siete millones seiscientos treinta mil novecientos sesenta) certificados de aportación patrimonial de la serie "B", con valor nominal de $100.00 (cien pesos m.n.) cada uno.
 
-El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este Reglamento.
+El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este Reglamento, el cual será publicado en el Diario Oficial de la Federación.
 
 ###### ARTICULO 8o.
 
@@ -151,29 +151,33 @@ II.- Transcurrido el plazo que el Consejo Directivo señale, que no podrá ser i
 
 La administración del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, estará encomendada a un Consejo Directivo, y a un Director General, en sus respectivas esferas de competencia, de conformidad con su Ley Orgánica.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 16.
 
-El Consejo Directivo estará integrado por trece consejeros distribuidos de la siguiente forma:
+El Consejo Directivo estará integrado por quince consejeros distribuidos de la siguiente forma:
 
-I.- Nueve consejeros representarán a la Serie "A" de certificados de aportación patrimonial que serán:
+I. Nueve consejeros representarán a la serie “A” de certificados de aportación patrimonial, que serán:
 
-a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo,
+a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo.
 
-b) El Secretario de Comercio y Fomento Industrial, quien tendrá el carácter de Vicepresidente,
+b) El Secretario de Economía, quien tendrá el carácter de vicepresidente.
 
-c) Los titulares de las Secretarías de Programación y Presupuesto, Agricultura y Recursos Hidráulicos, Relaciones Exteriores y de Energía, Minas e Industria Paraestatal; y los Subsecretarios de: Hacienda y Crédito Público y de Comercio Exterior, así como el Director General del Banco de México,
+c) Los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural y Pesca y Alimentación; Relaciones Exteriores; Energía; el Subsecretario de Hacienda y Crédito Público; el Subsecretario de Egresos; el Subsecretario de Comercio Exterior y el Gobernador del Banco de México.
 
-Cada Consejero de la Serie "A" titular de una Secretaría designará a su suplente. Los restantes suplentes de la serie "A" serán designados por la Secretaría de Hacienda Crédito Público, debiendo recaer dichas designaciones en servidores públicos de la Administración Pública Federal o profesionales independientes de reconocida honorabilidad, experiencia y prestigio en materia económica y financiera.
+Los consejeros nombrarán a sus suplentes, considerando preferentemente a los servidores públicos de nivel inferior inmediato siguiente, en el caso de que no se cumpla la regla anterior, los consejeros podrán designar a un servidor público de la administración pública federal o profesionales independientes de reconocida honorabilidad, experiencia y prestigio en materia económica y financiera.
 
-II.- Dos consejeros de la Serie "B" que serán designados por el Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público de entre los Directores Generales de las Instituciones de Banca Múltiple, y los máximos directivos de organismos y empresas cuyo objeto esté vinculado directamente con el de la Sociedad, y dos consejeros de la propia Serie "B" que podrán ser electos y designados en reunión especial por los miembros integrantes de la Comisión Consultiva de la Institución, con el acuerdo de por los menos las dos terceras partes de votos de los presentes.
+II. Cuatro consejeros de la serie “B” que serán designados por el Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público de entre los directores de las instituciones de banca múltiple, y los máximos directivos de organismos y empresas cuyo objeto esté vinculado directamente con el de la Sociedad.
 
-Los consejeros suplentes representantes de la Serie "B" serán designados por el Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público.
+Los consejeros suplentes representantes de la serie “B” serán designados por el Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público.
 
-La designación y la renuncia de los consejeros serán presentadas a la Secretaría de Hacienda y Crédito Público a través del Consejo Directivo de la Sociedad.
+III. Dos consejeros de la serie “B” designados por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público que tendrán el carácter de consejeros independientes. Los nombramientos de consejeros independientes deberán recaer en personas de nacionalidad mexicana que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos. Adicionalmente, dichos consejeros deberán observar lo señalado en los artículos 22 y 23, segundo párrafo, y fracciones II a VI de la Ley de Instituciones de Crédito.
 
-Los consejeros de la Serie "B" que se designen para cubrir vacantes, durarán en su cargo el tiempo que falte por transcurrir al consejero sustituido.
+El Consejo Directivo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con el objeto de la sociedad.
 
-El cargo de consejero es personal y no podrá desempeñarse por medio de representantes.
+En el orden del día de las sesiones del Consejo Directivo se deberán listar los asuntos a tratar y no deberán incluirse asuntos generales.
+
+El cargo de consejero es personal y no podrá ser desempeñado por medio de representantes.
 
 ###### ARTICULO 17.
 
@@ -442,3 +446,11 @@ D.O.F. 14 DE MARZO DE 1996.
 PRIMERO.- El presente Acuerdo, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Banco Nacional de Comercio Exterior, S.N.C., en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+D.O.F. 10 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Acuerdo entra en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El capital pagado de la Sociedad a la vigencia del presente Acuerdo ascenderá a la cantidad de $14,009,105,800.00 (catorce mil nueve millones ciento cinco mil ochocientos pesos 00/100 m.n.).
+
+TERCERO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente acuerdo, se realicen a su Reglamento Orgánico.
