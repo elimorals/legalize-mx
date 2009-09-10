@@ -4,7 +4,7 @@ identifier: "TAM-codigo-electoral-para-el-estado-de-tamaulipas-66370"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-29"
-last_updated: "2008-12-29"
+last_updated: "2009-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre del 2008.
 
@@ -327,11 +327,11 @@ Por votación efectiva se entenderá la que resulte de deducir de la votación e
 
 Si después de aplicarse el cociente electoral aún quedaren diputaciones por distribuir, se utilizarán en forma decreciente los restos mayores, que son los remanentes de votos que tuvieron los partidos políticos una vez restados los utilizados en las asignaciones anteriores.
 
-En ningún caso un partido político podrá contar con más de 22 diputados por ambos principios.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-(NOTA: EL 25 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2009, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, EN TANTO PRESENTA UNA OMISIÓN LEGISLATIVA, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+En ningún caso un partido político podrá contar con más de 22 diputados por ambos principios. Tampoco podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos el porcentaje que obtuvo de la votación estatal efectiva. Se exceptúa de lo anterior el partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento.
 
-LAS DIPUTACIONES OBTENIDAS SEGÚN EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, SE ASIGNARÁN EN EL ORDEN EN QUE FUERON REGISTRADOS LOS CANDIDATOS EN LAS LISTAS ESTATALES DE CADA PARTIDO POLÍTICO.
+Las diputaciones obtenidas según el principio de representación proporcional, se asignarán en el orden en que fueron registrados los candidatos en las listas estatales de cada partido político.
 
 ### CAPITULO II. De la Elección de Gobernador
 
@@ -383,9 +383,11 @@ En todos los municipios sus ayuntamientos se complementarán con regidores segú
 
 Para la asignación de regidores electos según el principio de representación proporcional, se atenderá el orden en que los candidatos a regidores hayan sido registrados por los partidos políticos en su respectiva planilla.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 34.
 
-Tendrán derecho a la asignación de regidores de representación proporcional, los partidos políticos que en la elección de ayuntamientos no hayan obtenido la mayoría relativa, siempre que la votación recibida a su favor sea igual o mayor al 1.5 % del total de la votación municipal emitida para el ayuntamientos correspondiente.
+Tendrán derecho a la asignación de regidores de representación proporcional, los partidos políticos que en la elección de ayuntamientos no hayan obtenido la mayoría relativa, siempre que la votación recibida a su favor sea igual o mayor al 1.5 % del total de la votación municipal emitida para el ayuntamiento correspondiente.
 
 ###### Artículo 35.
 
@@ -1117,7 +1119,9 @@ II.- En el informe será reportado el resultado de los ingresos y gastos ordinar
 
 III.- Si de la revisión que realice la Unidad de Fiscalización se encuentran anomalías errores u omisiones, se notificará al partido a fin de que las subsane o realice las aclaraciones conducentes. En todo caso los informes trimestrales tienen carácter exclusivamente informativo para la autoridad; y
 
-IV.- Durante el año del proceso electoral federal se suspenderá la obligación establecida en este apartado.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+IV.- Durante el año del proceso electoral local se suspenderá la obligación establecida en este apartado.
 
 B.- Informes anuales:
 
@@ -1195,7 +1199,9 @@ III.- El acuerdo expreso de cómo se distribuirán los votos los partidos polít
 
 IV.- El emblema y los colores que identifican la coalición;
 
-V.- La plataforma electoral común que ofrecerán la coalición y el candidato, candidatos o planillas, las cuales, que deberán publicarse y difundirse durante la campaña electoral respectiva;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+V.- La plataforma electoral común que ofrecerán la coalición y el candidato, candidatos o planillas, la cual deberá publicarse y difundirse durante la campaña electoral respectiva;
 
 VI.- En su caso, la forma y términos de acceso de tiempos en la radio y la televisión;
 
@@ -1923,7 +1929,9 @@ XI.- Por conducto del Secretario, recibir, tramitar y remitir a la instancia cor
 
 XII.- Recibir la solicitud y resolver sobre el registro de los observadores electorales;
 
-XIII.- Designar, a propuesta del Presidente, un coordinador encargado de la organización y la capacitación electoral en cada distrito, dependiente de las direcciones ejecutivas de Organización Electoral, y de Capacitación Electoral y Servicio Profesional Electoral. Los coordinadores actuarán exclusivamente durante el proceso electoral;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+XIII.- Designar, a propuesta del Presidente, un coordinador encargado de la organización y la capacitación electoral en cada distrito, dependiente de las direcciones ejecutivas de Organización Electoral y de Capacitación Electoral. Los coordinadores actuarán exclusivamente durante el proceso electoral;
 
 XIV.- Capacitar, por medio del Consejo Municipal, a los ciudadanos que habrán de integrar las mesas directivas de casillas en los términos que establece este Código;
 
@@ -2535,7 +2543,9 @@ Cuando las condiciones geográficas de una sección hagan difícil el acceso de 
 
 Igualmente, podrán instalarse en las secciones que acuerden los Consejos Distritales, las casillas especiales a que se refiere el artículo 235 de este Código.
 
-En cada casilla se procurará la instalación de mamparas donde los votantes puedan demitir (sic) en secreto su sufragio. El diseño y ubicación de estas mamparas en las casillas garantizará esta característica del voto del elector.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+En cada casilla se procurará la instalación de mamparas donde los votantes puedan emitir en secreto su sufragio. El diseño y ubicación de estas mamparas en las casillas garantizará esta característica del voto del elector.
 
 ###### Artículo 232.
 
@@ -2563,7 +2573,9 @@ IX.- Los Consejos Distritales entregarán a los integrantes de las mesas directi
 
 Las casillas deberán ubicarse en lugares que reúnan los siguientes requisitos:
 
-I.- Acceso fácil y libre acceso de los electores;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+I.- Acceso fácil y libre de los electores;
 
 II.- Instalación adecuada Propicien la instalación de canceles o elementos modulares para garantizar el secreto en la emisión del voto;
 
@@ -2581,7 +2593,9 @@ El procedimiento para determinar la ubicación de las casillas será el siguient
 
 I.- Del 1 al 20 de febrero del año en que se celebre la elección, los Consejos Municipales recorrerán las secciones correspondientes con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo anterior;
 
-II.- Entre el 21 y el 31 de febrero del año de la elección, los Consejos Municipales presentarán a los Consejos Distritales correspondientes, una lista proponiendo los lugares en que habrán de ubicarse las casillas;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+II.- Entre el 21 y el último día de febrero del año de la elección los Consejos Municipales presentarán a los Consejos Distritales correspondientes, una lista proponiendo los lugares en que habrán de ubicarse las casillas;
 
 III.- Recibidas las listas, los Consejos Distritales examinarán que los lugares propuestos cumplan con los requisitos fijados por el Artículo anterior y, en su caso, harán los cambios necesarios;
 
@@ -2591,9 +2605,11 @@ V.- El Presidente del Consejo Distrital ordenará la publicación de la lista de
 
 VI.- En su caso, el Presidente del Consejo Distrital ordenará una segunda y última publicación de las listas de ubicación de casillas, y los funcionarios que las integran dentro de los cinco días anteriores al de la jornada electoral.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 235.
 
-Los Consejos Distritales determinarán la instalación de casillas especiales para la recepción del voto de los electores que se encuentren transitoriamente fuera de su sección, del municipio o del distrito electoral correspondiente a su domicilio.
+Los Consejos Distritales determinarán la instalación de casillas especiales para la recepción del voto de los electores que se encuentren transitoriamente fuera del municipio o del distrito electoral correspondiente a su domicilio.
 
 Para la integración de las mesas directivas y ubicación de las casillas especiales, se aplicarán las mismas reglas establecidas para las casillas ordinarias.
 
@@ -2913,7 +2929,9 @@ Los presidentes de mesa directiva de casilla permitirán emitir su voto a aquell
 
 En el caso referido en el párrafo anterior, los presidentes de mesa directiva de casilla, además de identificar a los electores en los términos de éste Código, se cerciorarán de su residencia en la sección correspondiente por el medio que estime más efectivo.
 
-El presidente de la mesa directiva de casilla recogerá las credenciales para votar con fotografía que tengan muestras de alteración o no pertenezcan al ciudadano, y pondrá a quienes las presenten. El Secretario de la mesa directiva de casilla anotará el incidente en el acta respectiva, con mención expresa del nombre del ciudadano o ciudadanos presuntamente responsables.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+El presidente de la mesa directiva de casilla recogerá las credenciales para votar con fotografía que tengan muestras de alteración o no pertenezcan al ciudadano, y pondrá a quienes las presenten a disposición de las autoridades. El secretario de la mesa directiva de casilla anotará el incidente en el acta respectiva, con mención expresa del nombre del ciudadano o ciudadanos presuntamente responsables.
 
 Las personas con discapacidad y los mayores de 70 años tendrán preferencia para emitir su voto, sin necesidad de hacer fila. El Presidente de la mesa directiva de casilla debe garantizar los derechos políticos de estos electores y asegurar el mejor acceso y ayuda posible para que expresen su voto.
 
@@ -2979,9 +2997,11 @@ Los representantes de los partidos políticos o coaliciones podrán presentar al
 
 El secretario recibirá tales escritos y los incorporará al expediente electoral de la casilla, sin que pueda mediar discusión sobre su admisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 262.
 
-En las casillas especiales para recibir la votación de los electores que transitoriamente se encuentren fuera de su sección, en lo procedente, se aplicarán las reglas establecidas en los artículos anteriores y las siguientes:
+En las casillas especiales para recibir la votación de los electores que transitoriamente se encuentren fuera del municipio o del distrito correspondiente a su domicilio, en lo procedente, se aplicarán las reglas establecidas en los artículos anteriores y las siguientes:
 
 I.- El elector, además de exhibir su credencial para votar con fotografía, a requerimiento del presidente de la mesa directiva de casilla, deberá mostrar el pulgar derecho para constatar que no ha votado en otra casilla; y
 
@@ -3547,7 +3567,9 @@ Constituyen infracciones al presente Código de los extranjeros, las conductas q
 
 Constituyen infracciones al presente Código de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
-I.- No informar mensualmente al Instituto del origen y destino de los recursos que obtengan para el desarrollo de las actividades tendentes a la obtención del registro;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+I.- No informar bimestralmente al Instituto del origen y destino de los recursos que obtengan para el desarrollo de las actividades tendentes a la obtención del registro;
 
 II.- Permitir que en la creación del partido político intervengan organizaciones gremiales u otras con objeto social diferente a dicho propósito, salvo el caso de agrupaciones políticas nacionales; y
 
@@ -3570,8 +3592,6 @@ I.- La inducción a la abstención, a votar por un precandidato candidato, parti
 II.- Realizar o promover aportaciones económicas a un aspirante a precandidato, precandidato, candidato, partido político o coalición; y
 
 III.- El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
-
-(NOTA: EL 25 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, EN TANTO PRESENTAN UNA OMISIÓN LEGISLATIVA, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 ###### Artículo 321.
 
@@ -3637,9 +3657,31 @@ b).- Con amonestación pública; y
 
 c).- Con multa de hasta tres mil días de salario mínimo general vigente para la capital del Estado, según la gravedad de la falta.
 
-VII.- Cuando el Instituto conozca del incumplimiento por parte de los notarios públicos a las obligaciones que el presente Código les impone, la Secretaría Ejecutiva integrará un expediente que se remitirá a la autoridad competente, para que proceda en los términos de la legislación aplicable. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-VIII.- Cuando el Instituto tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones religiosas, iglesias o agrupaciones de cualquier religión, informará a la Secretaría de Gobernación para los efectos legales conducentes.
+VII.- Cuando el Instituto conozca del incumplimiento por parte de los notarios públicos a las obligaciones que el presente Código les impone, la Secretaría Ejecutiva integrará un expediente que se remitirá a la autoridad competente, para que proceda en los términos de la legislación aplicable. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+VIII.- Cuando el Instituto tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones religiosas, iglesias o agrupaciones de cualquier religión, informará a la Secretaría de Gobernación para los efectos legales conducentes; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+IX.- Respecto de las autoridades o los servidores públicos de los poderes públicos, órganos autónomos, órganos de gobierno municipales y cualquier otro ente público del Estado, en términos de los artículos 151 de la Constitución Política del Estado de Tamaulipas; 53 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas y demás relativos aplicables de los mismos ordenamientos:
+
+a) Apercibimiento privado o público;
+
+b) Amonestación privada o pública;
+
+c) Suspensión;
+
+d) Destitución del puesto;
+
+e) Sanción económica; ó
+
+f) Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años, si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en la capital del Estado, y de tres años a diez años si excede de dicho límite.
 
 ###### Artículo 322.
 
@@ -4028,3 +4070,9 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dieciocho días del mes de diciembre del año dos mil ocho.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO.- NO REELECCION".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2009.
+
+Artículo Unico. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
