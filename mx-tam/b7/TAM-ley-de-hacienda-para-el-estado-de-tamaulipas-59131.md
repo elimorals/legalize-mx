@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2008-12-18"
+last_updated: "2009-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -525,9 +525,11 @@ b) La que resulte de considerar, por cada trabajador a su servicio, el importe d
 
 c) La que resulte de aplicar el 40 por ciento a los importes consignados en las estimaciones de obra o en los comprobantes que esté obligado a expedir en los términos de las disposiciones fiscales federales, tratándose de contribuyentes que realicen obras de construcción aún en los casos en que no hubieran celebrado los contratos correspondientes. El porcentaje mencionado podrá ser menor cuando el contribuyente compruebe que el tipo de obra realizada implica una menor proporción de mano de obra.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 49.
 
-Este impuesto se causará con la tasa del 2 por ciento sobre la base a que se refiere el artículo 48 de la presente ley.
+Este impuesto se causará con la tasa del 2 por ciento sobre la base a que se refiere el artículo 47 de la presente ley.
 
 ###### Artículo 50.
 
@@ -1636,3 +1638,9 @@ DECRETO No. LX-649, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 62, 75 Y 76
 ###### ARTICULO UNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de enero de 2009.
+
+P.O. 10 DE SEPTIEMBRE DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
