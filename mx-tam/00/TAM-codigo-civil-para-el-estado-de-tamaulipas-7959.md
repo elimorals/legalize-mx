@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2009-07-07"
+last_updated: "2009-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -2655,9 +2655,9 @@ ART. 642.- Sólo puede constituirse el patrimonio de la familia con bienes, sito
 
 ART. 643.- Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-ART. 644.- El valor de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar hasta 30,000 veces el importe del salario mínimo general, fijado para la zona económica donde se encuentre el domicilio de la familia, con sujeción al avalúo realizado por perito oficial, debidamente autorizado, en el que determinará el valor comercial de los bienes en cuestión.
+ART. 644.- El valor de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar hasta 35,000 veces el importe del salario mínimo general fijado para la zona económica donde se encuentre el domicilio de la familia, con sujeción al avalúo realizado por perito oficial debidamente autorizado, en el que se determinará el valor comercial de los bienes en cuestión.
 
 ART. 645.- Cuando por cualquier causa el valor de los bienes afectos al patrimonio de la familia es inferior al máximo fijado en el artículo anterior, podrá ampliarse el patrimonio hasta el límite legal.
 
@@ -9972,3 +9972,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
