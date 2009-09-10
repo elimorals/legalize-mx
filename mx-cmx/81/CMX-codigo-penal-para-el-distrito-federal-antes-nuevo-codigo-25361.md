@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2008-03-13"
+last_updated: "2009-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE SEPTIEMBRE DE 2009.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1050,9 +1050,11 @@ Existe emoción violenta, cuando en virtud de las circunstancias que desencadena
 
 La riña es la contienda de obra entre dos o más personas con el propósito de causarse daño.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 138.
 
-El homicidio y las lesiones son calificadas cuando se cometan con: ventaja, traición, alevosía, retribución, por el medio empleado, saña o en estado de alteración voluntaria.
+El homicidio y las lesiones son calificadas cuando se cometan con: ventaja, traición, alevosía, retribución, por el medio empleado, saña, en estado de alteración voluntaria u odio.
 
 I. Existe ventaja:
 
@@ -1074,9 +1076,15 @@ IV. Existe retribución: Cuando el agente lo cometa por pago o prestación prome
 
 V. Por los medios empleados: Se causen por inundación, incendio, minas, bombas o explosivos, o bien por envenenamiento, asfixia, tormento o por medio de cualquier otra sustancia nociva para la salud;
 
-VI. Existe saña: Cuando el agente actúe con crueldad o con fines depravados; y
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-VII. Existe estado de alteración voluntaria: Cuando el agente lo comete en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares.
+VI. Existe saña: Cuando el agente actúe con crueldad;
+
+VII. Existe estado de alteración voluntaria: Cuando el agente lo comete en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares;
+
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. Existe odio cuando el agente lo comete por la condición social o económica; vinculación, pertenencia o relación con un grupo social definido; origen étnico o social; la nacionalidad o lugar de origen; el color o cualquier otra característica genética; sexo; lengua; género; religión; edad; opiniones; discapacidad; condiciones de salud; apariencia física; orientación sexual; identidad de genero; estado civil; ocupación o actividad de la víctima.
 
 ###### ARTÍCULO 139.
 
@@ -4137,3 +4145,9 @@ El Juez de Paz Civil notificará personalmente a la parte agraviada para que den
 SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
 
 SÉPTIMO.- El Tribunal Superior de Justicia del Distrito Federal deberá realizar las adecuaciones administrativas y laborales para que se cumpla el procedimiento seguido ante los Jueces de Paz Civil que señala este Decreto en los términos y plazos allí señalados y entren en vigor el mismo día que este instrumento.
+
+G.O. 10 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
