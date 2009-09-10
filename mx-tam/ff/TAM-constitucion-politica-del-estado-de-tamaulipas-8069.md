@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2009-07-07"
+last_updated: "2009-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -477,37 +477,37 @@ Las Legislaturas del Estado se integrarán con diputados elegidos según los pri
 
 El Congreso del Estado se integrará por 22 Diputados electos según el principio de votación Mayoritaria Relativa, mediante el sistema de Distritos Electorales Uninominales, y con 14 Diputados que serán electos según el principio de Representación Proporcional y el sistema de listas estatales, votadas en la circunscripción plurinominal que constituye la Entidad.
 
-(NOTA: EL 18 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2009, DECLARÓ LA INVALIDEZ DEL ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. LX-721, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE PARRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 27.
 
-La asignación de los 14 Diputados Electos según el principio de Representación Proporcional y el sistema de asignación por listas estatales, se sujetará a las siguientes bases y a lo que disponga la ley.
+La asignación de los 14 diputados electos según el principio de representación proporcional y el sistema de asignación por listas estatales, se sujetará a las siguientes bases y a lo que disponga la ley:
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
 I.- Un partido político, para obtener el registro de sus listas estatales, deberá acreditar que participa con candidatos a Diputados por el principio de Mayoría Relativa en por lo menos las dos terceras partes de los Distritos Electorales Uninominales;
 
-II.- (DEROGADA, P.O. 20 DE OCTUBRE DE 2000)
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
+II.- A todos los partidos políticos que hayan obtenido por lo menos el 1.5 % del total de la votación estatal emitida, se les asignará un diputado; y
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-III.- A todos los partidos políticos que hayan obtenido por lo menos el 1.5 % del total de la votación estatal emitida, se les asignará un diputado; y
+III.- Para la asignación de las diputaciones de representación proporcional que resten, después de deducidas las utilizadas en el caso de la fracción II, se estará a las reglas y fórmulas que la ley establezca para tales efectos.
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-IV.- Para la asignación de las Diputaciones de Representación Proporcional que resten, después de deducidas las utilizadas en el caso de la fracción III, se estará a las reglas y fórmulas que la Ley establezca para tales efectos.
+Ningún partido político podrá contar con más de 22 diputados por ambos principios.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, [N. DE E.] ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-En ningún caso un partido político podrá contar con más de 22 Diputados por ambos principios.
+Tampoco podrá contar con un número de diputados por ambos principios, que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal efectiva. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-Los Diputados electos según el principio de Representación Proporcional se asignarán en el orden de que fueron registrados en las listas estatales de cada partido político.
+Los diputados electos según el principio de Representación Proporcional se asignarán en el orden en que fueron registrados en las listas estatales de cada partido político.
 
 ###### Art. 28.
 
@@ -1365,13 +1365,11 @@ El primero de octubre inmediato a la elección entrará el Gobernador a ejercer 
 
 La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este cargo por causa grave, que calificará el Congreso.
 
-(NOTA: EL 18 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2009, DECLARÓ LA INVALIDEZ DEL ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 83.
 
-Si no hubiere habido elección de Gobernador, si se hubiere hecho ésta y expedida la declaratoria por el Consejo General Instituto Electoral de Tamaulipas para el primero de octubre del año de la elección, pero el electo no se presentare a tomar posesión de su cargo, cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente, aquel o ésta, en su caso, en Sesión Permanente y Secreta por dieciocho del número total de sus miembros, si se tratare del Congreso, o por la mayoría si se tratare de la Diputación Permanente.
+Si no se hubiera celebrado elección de Gobernador o si se hubiere hecho ésta y expedido la declaratoria por el Consejo General del Instituto Electoral de Tamaulipas para el día de la toma de posesión, pero el electo no se presentare a asumir su cargo, cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que designe el Congreso por diecinueve del número total de sus miembros, en sesión que tendría el carácter de permanente hasta cumplir su objeto.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -3842,6 +3840,10 @@ P.O. 7 DE JULIO DE 2009.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2009.
+
+Artículo Unico. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO QUINTO.
 
