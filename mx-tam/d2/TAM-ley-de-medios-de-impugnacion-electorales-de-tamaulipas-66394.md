@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-medios-de-impugnacion-electorales-de-tamaulipas-66394"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-29"
-last_updated: "2008-12-29"
+last_updated: "2009-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIOS DE IMPUGNACION ELECTORALES DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre de 2008.
 
@@ -117,11 +117,11 @@ Los plazos se computarán de momento a momento, y si están señalados por días
 
 Cuando el acto o resolución reclamada en el medio de impugnación respectivo no se produzca durante el desarrollo de un proceso electoral, el cómputo de los plazos se hará contando solamente los días hábiles, debiendo entenderse por tales todos los días a excepción de los sábados, domingos y los inhábiles en términos de ley.
 
-(NOTA: EL 25 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 12.
 
-Los recursos previstos en esta Ley se interpondrán a más tardar a los dos días posteriores a aquel en que se tuvo conocimiento o se hubiese notificado el acto o resolución impugnado; salvo el recurso de inconformidad, cuyo plazo se prevé en el capítulo respectivo del Libro Segundo de esta Ley.
+Los medios de impugnación previstos en esta ley deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquél en que se tuvo conocimiento o se hubiese notificado el acto o resolución impugnado.
 
 ### CAPITULO III. De los Requisitos del Medio de Impugnación
 
@@ -685,11 +685,9 @@ Cuando se impugne por nulidad toda la elección de Gobernador, el respectivo rec
 
 El recurso de inconformidad sólo podrá ser promovido por los partidos políticos.
 
-(NOTA: EL 25 DE AGOSTO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 73.
 
-El recurso de inconformidad deberá presentarse dentro de los tres días contados a partir del día siguiente de que concluya la práctica de los cómputos de elección de que se trate.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 74.
 
@@ -850,3 +848,9 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dieciocho días del mes de diciembre del año dos mil ocho.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2009.
+
+Artículo Unico. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
