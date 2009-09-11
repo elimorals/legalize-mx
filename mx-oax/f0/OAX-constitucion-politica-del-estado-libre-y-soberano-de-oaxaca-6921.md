@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2009-08-04"
+last_updated: "2009-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2009.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -239,9 +239,9 @@ Las autoridades de los municipios y comunidades preservarán el tequio como expr
 
 En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo definirá la competencia del Estado y de los Municipios en materia de salubridad local.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2009)</small>
 
-Los habitantes del Estado tienen todas las garantías y libertades consagradas en esta Constitución, sin distinción alguna de su origen, raza, color, sexo, idioma, religión, opinión política, condición o actividad social.
+En el Estado de Oaxaca se protege y garantiza el derecho a la vida. Todo ser humano desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales hasta su muerte natural. Los habitantes del Estado tienen todas las garantías y libertades consagradas en esta Constitución, sin distinción alguna de su origen, raza, color, sexo, idioma, religión, opinión pública, condición o actividad social.
 
 > <small>(ADICIONADO, P.O. 26 DE JULIO DE 2008)</small>
 
@@ -855,7 +855,7 @@ III.- El Partido que cumpla con los supuestos señalados en las fracciones I y I
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
+IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán, en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2009)</small>
 
@@ -3376,3 +3376,7 @@ CUARTO.- Los Municipios del Estado a través de sus Ayuntamientos procederán a 
 P.O. 4 DE AGOSTO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2009.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
