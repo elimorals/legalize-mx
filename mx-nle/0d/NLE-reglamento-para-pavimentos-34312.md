@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-pavimentos-34312"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-06"
-last_updated: "2003-10-06"
+last_updated: "2009-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "NLE"
 
 REGLAMENTO PARA PAVIMENTOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA CONSTRUCCION Y REHABILITACION DE PAVIMENTOS DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 11 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de octubre de 2003.
 
@@ -515,3 +517,19 @@ C.P. JOSÉ MARIO GARZA BENAVIDES
 EL C. SECRETARIO DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 
 ARQ. OSCAR BULNES VALERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2009.
+
+Primero.- La presente Ley entrará en vigor a los noventa días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento de Pavimentos, publicado en el Periódico Oficial del Estado de fecha 6 de octubre de 2003.
+
+Tercero.- Las obras de pavimentación que a la fecha de entrada en vigor de la presente Ley se encuentren aprobadas o en ejecución, se concluirán en los términos que se hubieren autorizado.
+
+Cuarto.- La Agencia contará con un plazo máximo de un año a partir de la entrada en vigor de esta Ley, para emitir las Normas Técnicas Estatales a que se refieren los artículos 6 y 7 de la misma, mientras tanto, sólo podrán fungir como laboratorios acreditados, aquéllos que cuenten con certificación emitida por la Secretaría de Comunicaciones y Transportes del Gobierno Federal, conforme a la Norma N-CAL-2-05-001/05 emitida por dicha Secretaría, del mismo modo, solo podrán fungir como profesionales responsables, las personas que cuenten con estudios en ingeniería civil con la respectiva cédula profesional y certificado de estudios emitido por institución de educación superior que los acrediten como especialistas en vías terrestres.
+
+Quinto.- Los Municipios ajustarán la reglamentación con que cuenten en esta materia, en un plazo de seis meses contados a partir de la entrada en vigor de la presente Ley.
+
+Sexto.- En un plazo no mayor a noventa días hábiles a partir de la entrada en vigor de la presente Ley, el Consejo Técnico deberá aprobar, a propuesta de la Agencia, su Reglamento Interior a que se refiere el Artículo 9 de esta Ley.
