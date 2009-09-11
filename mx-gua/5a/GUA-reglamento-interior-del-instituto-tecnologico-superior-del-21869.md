@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-tecnologico-superior-del-2186
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2009-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DEL SUR DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DEL SUR DE GUANAJUATO, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -384,3 +386,15 @@ GERARDO LUIS RODRÍGUEZ OROZCO.
 EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMÍREZ VALENZUELA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero. El presente Reglamento Interior entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga el Reglamento Interior del ITSUR contenido en el Decreto Gubernativo número 65, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 52-B, Tercera Parte de fecha 30 de junio del 2001.
+
+Artículo Tercero. El Director General deberá realizar los trámites presupuestales y administrativos que se requieran, ante las instancias federales y estatales correspondientes, para contar con la estructura orgánica que se deriva de este Reglamento Interior, según lo demande el crecimiento del ITSUR.
+
+Artículo Cuarto. El Consejo Directivo deberá aprobar los manuales de organización, de puestos y de procesos, así como los demás lineamientos que se deriven del presente Reglamento Interior, a propuesta del Director General del ITSUR, en un plazo no mayor de un año, contado a partir de la entrada en vigor del presente Decreto Gubernativo.
