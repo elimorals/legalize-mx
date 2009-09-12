@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2009-07-28"
+last_updated: "2009-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,65 +21,21 @@ state: "CHP"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE RATIFICAN LOS LINEAMIENTOS GENERALES APROBADOS MEDIANTE ACUERDO INE/CG133/2014 PARA APLICARLOS AL PERIODO DE CAMPAÑA DEL PROCESO ELECTORAL PARA INTEGRAR LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD DE MÉXICO; SE ORDENA LA REALIZACIÓN DEL MONITOREO DE LAS TRANSMISIONES SOBRE LAS CAMPAÑAS ELECTORALES DEL PROCESO ELECTORAL SEÑALADO; SE APRUEBA EL CATÁLOGO DE PROGRAMAS DE RADIO Y TELEVISIÓN QUE DIFUNDEN NOTICIAS; SE APRUEBA LA METODOLOGÍA QUE DEBERÁ UTILIZARSE PARA REALIZAR EL MONITOREO DE DICHAS TRANSMISIONES EN LOS PROGRAMAS EN RADIO Y TELEVISIÓN QUE DIFUNDAN NOTICIAS Y SE APRUEBA LA INSTITUCIÓN DE EDUCACIÓN SUPERIOR QUE LLEVARÁ A CABO DICHO MONITOREO
+CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2009.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 7 de diciembre de 2016.
+Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.- Consejo General.- INE/CG118/2016.
+TIBURCIO FERNANDEZ RUIZ, General de División del Ejército Nacional y Gobernador Constitucional del Estado Libre y Soberano de Chiapas, a sus habitantes hago saber:
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE RATIFICAN LOS LINEAMIENTOS GENERALES APROBADOS MEDIANTE ACUERDO INE/CG133/2014 PARA APLICARLOS AL PERIODO DE CAMPAÑA DEL PROCESO ELECTORAL PARA INTEGRAR LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD DE MÉXICO; SE ORDENA LA REALIZACIÓN DEL MONITOREO DE LAS TRANSMISIONES SOBRE LAS CAMPAÑAS ELECTORALES DEL PROCESO ELECTORAL SEÑALADO; SE APRUEBA EL CATÁLOGO DE PROGRAMAS DE RADIO Y TELEVISIÓN QUE DIFUNDEN NOTICIAS; SE APRUEBA LA METODOLOGÍA QUE DEBERÁ UTILIZARSE PARA REALIZAR EL MONITOREO DE DICHAS TRANSMISIONES EN LOS PROGRAMAS EN RADIO Y TELEVISIÓN QUE DIFUNDAN NOTICIAS Y SE APRUEBA LA INSTITUCIÓN DE EDUCACIÓN SUPERIOR QUE LLEVARÁ A CABO DICHO MONITOREO
+Que la H. XXVIII Legislatura del mismo, ha tenido a bien decretar:
 
-ANTECEDENTES
+La XXVIII Legislatura Constitucional del Estado Libre y Soberano de Chiapas, con su carácter de Asamblea Constituyente, en nombre del Pueblo decreta la siguiente:
 
-[…]
+CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-CONSIDERANDO
-
-[...]
-
-En razón de los Antecedentes y Considerandos expresados, y con fundamento en lo dispuesto por los artículos 41, Bases III, Apartados A y B, y V, Apartado A, párrafo I de la Constitución Política de los Estados Unidos Mexicanos; 1, numeral 2; 5, numeral 1; 29; 30 numerales 1, inciso h) y 2; 31, numeral 1; 35, numeral 1; 44, numeral 1, incisos k), n), aa)y (sic) jj); 49; 51, numeral 1, incisos a), b), c), f) y w); 160, numerales 1 y 3; 162, numeral 1, inciso a); 173, numeral 6; 185; 30, numeral 1, incisos e) y h) y 44, numeral 1 incisos n), gg) y jj) de la Ley General de Instituciones y Procedimientos Electorales; así como, los artículos 4, numerales 1 y 2; 6, numeral 1, inciso g); 7, numeral 3; 32, numeral 2; y 66, numerales 1 y 2 del Reglamento de Radio y Televisión en Materia Electoral, el Consejo General del Instituto Nacional Electoral emite el siguiente:
-
-ACUERDO
-
-PRIMERO. Se ratifican los Lineamientos Generales que, sin afectar la libertad de expresión y la libre manifestación de las ideas ni pretender regular dichas libertades, se recomendaron a los noticiarios respecto de la información y difusión de las actividades de precampaña y campaña de los Partidos Políticos y de los candidatos independientes, que fueron aplicados durante el Proceso Electoral Federal 2014-2015, en cumplimiento a lo dispuesto por el artículo 160, numeral 3 de la Ley General de Instituciones y Procedimientos Electorales, con excepción al Lineamiento IX “Consultas Populares”, conforme a lo establecido en el Considerando 10 del presente Acuerdo, para que sean aplicados durante el periodo de campaña del Proceso Electoral para integrar la Asamblea Constituyente de la Ciudad de México.
-
-SEGUNDO. Se ordena la realización del monitoreo de las transmisiones sobre campañas electorales del proceso para integrar la Asamblea Constituyente de la Ciudad de México en los programas que difundan noticias, de conformidad con el Articulo VII Transitorio, fracción IV del Decreto publicado en el Diario Oficial de la Federación el veintinueve de enero de dos mil dieciséis, por el que se reforman y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia política de la Ciudad de México.
-
-TERCERO. Se aprueba el catálogo de programas de radio y televisión que difunden noticias, en los términos que se indican en el Considerando 22 del presente Acuerdo, con la finalidad de realizar el monitoreo sobre las campañas del proceso para elegir la Asamblea Constituyente de la Ciudad de México, mismo que acompaña al presente como Anexo 1.
-
-CUARTO. En términos del Considerando 24 del presente Acuerdo, se aprueba la Metodología que deberá utilizarse para realizar el monitoreo de las transmisiones sobre las campañas del proceso para elegir la Asamblea Constituyente de la Ciudad de México, en los programas en radio y televisión que difundan noticias, mismo que acompaña al presente como Anexo 2.
-
-QUINTO. Se instruye al Secretario Ejecutivo para que, en términos de lo establecido en los artículos 21, fracción II; 49, primer y segundo párrafos, y 50 del Reglamento del Instituto Federal Electoral en materia de adquisiciones, arrendamientos de muebles y servicios, así como del considerando 27 del presente Acuerdo, gire sus instrucciones a las áreas respectivas para que se analice la ruta de la contratación de bienes o servicios requeridos para llevar a cabo el monitoreo citado, para que, en su caso, se lleven a cabo las contrataciones mediante procedimientos de excepción a la licitación pública. Para tal efecto, se puede contar con la opinión de los asesores de la Dirección Jurídica y la Contraloría General, de acuerdo con sus facultades.
-
-SEXTO. Se instruye a la Unidad Técnica de Servicios de Informática para que realice los ajustes necesarios al Sistema de Monitoreo de noticiarios utilizado en el Proceso Electoral Federal 2014-2015 y pueda operar para el monitoreo de espacios noticiosos para las campañas del proceso para integrar la Asamblea Constituyente de la Ciudad de México.
-
-SÉPTIMO. Se ratifican los requerimientos técnicos que deberán atender el Instituto Nacional Electoral y la Facultad de Ciencia (sic) Políticas y Sociales de la Universidad Nacional Autónoma de México, para la realización del monitoreo y análisis del contenido de las transmisiones en los programas en radio y televisión que difundan noticias durante las campañas del Proceso Electoral para integrar la Asamblea Constituyente de la Ciudad de México en los términos del considerando 28 del presente Acuerdo.
-
-OCTAVO. Se instruye a la Secretaría Ejecutiva, para que realice las acciones conducentes para la firma del convenio de colaboración específico con la Facultad de Ciencia (sic) Políticas y Sociales de la Universidad Nacional Autónoma de México, con el propósito de establecer las bases de coordinación para realizar el monitoreo de la (sic) transmisiones de los programas de radio y televisión que difundan noticias relacionadas con las campañas del proceso para elegir la Asamblea Constituyente de la Ciudad de México, anexando los requerimientos conforme al punto de Acuerdo SÉPTIMO.
-
-NOVENO. Se instruye a la Secretaría Ejecutiva para que, a través de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica y con la colaboración de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos del Instituto Nacional Electoral, se lleve a cabo, por lo menos cada quince días, la difusión de los resultados arrojados por el monitoreo de los tiempos de transmisión sobre las campañas del Proceso Electoral para integrar la Asamblea Constituyente de la Ciudad de México, a través de los tiempos en radio y televisión destinados al Instituto Nacional Electoral así como en su sitio web, a través de una sección especial que contenga los resultados del monitoreo de la cobertura noticiosa.
-
-DÉCIMO. Se instruye a la Secretaría Ejecutiva para que realice las gestiones necesarias para la publicación del presente Acuerdo en el Diario Oficial de la Federación.
-
-DÉCIMO PRIMERO. Se ordena a la Unidad Técnica de Servicios de Informática a que publique en la página de internet del Instituto los Lineamientos que se ratifican mediante el presente Acuerdo.
-
-DÉCIMO SEGUNDO. Se ordena a la Secretaría Ejecutiva para que por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos notifique el presente Acuerdo a los concesionarios previstos en el Catálogo referido en el punto de Acuerdo TERCERO.
-
-El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Consejo General celebrada el 16 de marzo de dos mil dieciséis, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
-
-Se aprobaron en lo particular los Puntos de Acuerdo Tercero y Cuarto originalmente circulados, por nueve votos a favor de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y dos votos en contra de los Consejeros Electorales, Doctor José Roberto Ruiz Saldaña y Licenciada Alejandra Pamela San Martín Ríos y Valles.
-
-El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
-
-Los anexos pueden ser consultados en las siguientes direcciones electrónicas:
-
-http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/03_Marzo/CGex201603-16/CGex201603-16_ap19_x1.pdf
-
-http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/03_Marzo/CGex201603-16/CGex201603-16_ap19x2.pdf
-
-http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/03_Marzo/CGex201603-16/CGex201603-16_ap19_x3.pdf
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 ## TITULO PRIMERO. DEL ESTADO Y SU TERRITORIO
 
@@ -155,15 +111,23 @@ II.- Desempeñar los cargos concejiles del Municipio de su vecindad, las funcion
 
 ### CAPITULO II. DE LAS ELECCIONES
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
 
-ARTICULO 14 BIS.- Las elecciones de Diputados al Congreso y miembros de los ayuntamientos del Estado, se celebrarán el primer domingo de julio del año de la elección.
+ARTICULO 14 BIS.- Las elecciones de Diputados al Congreso y miembros de los Ayuntamientos del Estado, se celebrarán el primer domingo de julio del año de la elección.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
 
 La actuación de los Poderes Públicos durante los procesos electorales será imparcial; sus servidores públicos deberán abstenerse de intervenir directa o indirectamente a favor o en contra de cualquier partido político, coalición, candidato o precandidato.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
+
 Las autoridades estatales, municipales, así como las delegaciones del órgano ejecutivo federal, así como los órganos constitucionales autónomos deberán cesar la difusión pública de obras y programas durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada electoral. Se exceptúa de lo anterior la difusión de campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia, así como aquellos en los que resulte imprescindible su difusión derivado de caso fortuito o fuerza mayor.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
+
 Cualquier violación a esta disposición, será sancionada en términos de esta Constitución y de la legislación de la materia, con independencia de lo dispuesto en el Código Penal.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
 
 Apartado A.- De los Ciudadanos Chiapanecos
 
@@ -177,15 +141,23 @@ Los ciudadanos tendrán derecho a la afiliación a los partidos políticos, el c
 
 Los ciudadanos tendrán derecho a participar en las consultas ciudadanas de conformidad con lo establecido en la Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
+
 Apartado B.- De los Partidos Políticos
 
 Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática del Estado; como organizaciones de ciudadanos, hacen posible el acceso de éstos al ejercicio del poder público, de acuerdo con los principios y programas que postulen. Su participación en los procesos electorales se sujetará a lo dispuesto por esta Constitución y las leyes aplicables.
 
-Los partidos políticos deben incluir entre sus candidatos propietarios a diputados al Congreso del Estado y a integrantes de los ayuntamientos a no más del setenta por ciento de un solo sexo y no menos del treinta por ciento de jóvenes menores de treinta años.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
 
-La intervención en la vida interna de los partidos por parte de las autoridades electorales locales, sólo podrá ser conforme a las disposiciones que establezcan esta Constitución y las leyes respectivas.
+La intervención en la vida interna de los partidos por parte de las autoridades electorales locales, sólo podrá ser conforme a las disposiciones que establezcan esta constitución y las leyes respectivas.
 
-En caso de incumplimiento de lo prescrito en el párrafo anterior, no se registrarán a los candidatos de los partidos políticos o coaliciones de la elección de que se trate, hasta en tanto se garantice la equidad de género y el porcentaje de jóvenes.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
+
+Los Partidos Políticos deben incluir entre sus candidatos propietarios a diputados al Congreso del Estado y a integrantes de los Ayuntamientos a no más del setenta por ciento de un solo sexo y no menos del treinta por ciento de jóvenes menores de treinta años, e incluir al menos uno con discapacidad, salvo los casos de inelegibilidad que establezca la ley de la materia.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
+
+En caso de incumplimiento de lo prescrito en el párrafo anterior, no se registrarán a los candidatos de los partidos políticos o coaliciones de la elección de que se trate, hasta en tanto se garantice la equidad de género, el porcentaje de jóvenes y discapacitados.
 
 Asimismo, en las zonas con predominancia en población indígena, los partidos políticos podrán registrar preferentemente candidatos de origen indígena.
 
@@ -205,7 +177,9 @@ Los partidos políticos y coaliciones, podrán celebrar procesos de selección i
 
 Las campañas políticas tendrán como finalidad, la obtención del voto a favor de los candidatos que representan a los partidos políticos o coaliciones que los postulan, a través de la difusión de su plataforma electoral y el debate ideológico; en la propaganda política o electoral que difundan los partidos o coaliciones deberán abstenerse de expresiones que denigren o calumnien a las instituciones, a los propios partidos o a las personas.
 
-La campaña de gobernador no podrá exceder de noventa días; la de diputados al Congreso del Estado y la de miembros de los Ayuntamientos, de sesenta días.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
+
+La campaña de Gobernador; la de Diputados al Congreso del Estado y la de miembros de los Ayuntamientos, no podrá exceder de sesenta días.
 
 Los candidatos que postulen los partidos políticos y las coaliciones estarán obligados a participar en los debates organizados por la autoridad electoral correspondiente. Cualquier partido político o candidato que no cumpla con las anteriores disposiciones será sancionado en los términos de la Ley de la materia.
 
@@ -224,6 +198,8 @@ El Instituto de Elecciones y Participación Ciudadana, distribuirá a los partid
 Se prohíbe a los partidos políticos y coaliciones por sí, por tercero o por interpósita persona, la contratación o adquisición de tiempos en radio y televisión. Asimismo, ninguna persona pública o privada, a titulo propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión, dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos o precandidatos a puestos de elección popular. El Instituto de Elecciones y Participación Ciudadana en su caso, será el único facultado para la contratación de tiempo aire adicional en términos de la Ley de la materia.
 
 Las prohibiciones mencionadas en los párrafos anteriores, comprenden la contratación en el extranjero o en estados aledaños, de todo tipo de mensajes en los canales de radio y televisión que tengan cobertura en el Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
 
 Apartado C.- De las Autoridades Electorales
 
@@ -553,7 +529,7 @@ El Instituto de Investigaciones Legislativas tendrá a su cargo el Secretariado 
 
 La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídicos y Comunicación Social dependerán de la Junta de Coordinación Política; la Secretaría de Servicios Parlamentarios y el Instituto de Investigaciones Legislativas dependerán de la Mesa Directiva y las Unidades de Apoyo que se creen guardarán la relación de dependencia que señale la Ley Orgánica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
 
 ## TITULO TERCERO. DE LOS PODERES PUBLICOS Y LAS ELECCIONES
 
@@ -565,7 +541,7 @@ La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídi
 
 ###### ARTICULO 16.
 
-El Congreso del Estado se integra en su totalidad con Diputados Electos cada tres años. La elección de Diputados se verificará el primer domingo de julio del año de la elección. Por cada Diputado propietario se elegirá un suplente.
+El Congreso del Estado se integrará en su totalidad con diputados electos cada tres años. La elección de diputados se verificará el primer domingo de julio del año de la elección. Por cada diputado propietario se elegirá un suplente, ambos del mismo género.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1997)</small>
 
@@ -863,7 +839,7 @@ XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
 
-XXIX.- Para la revisión de la Cuenta Pública que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
+XXIX.- Para la revisión de la Cuenta Publica que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
@@ -942,6 +918,10 @@ III.- Entregar los informes del resultado de la revisión de las cuentas públic
 IV.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Estado y efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas en la Ley.
 
 V.- Determinar los daños y perjuicios que afecten a la Hacienda Pública Estatal y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades: promover las acciones de responsabilidad a que se refiere el Título Noveno de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrán la intervención que señale la Ley.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2009)</small>
+
+VI.- Revisar y fiscalizar de manera cualitativa, las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos.
 
 El Órgano de Fiscalización Superior del Congreso del Estado, deberá guardar reserva de sus actuaciones y observaciones, hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
@@ -1167,7 +1147,9 @@ VI.- Fomentar por todos los medios posibles la educación popular y procurar el 
 
 Las obras públicas serán realizadas por el Poder Ejecutivo, por sí o adjudicándolas en concurso, mediante convocatoria, en los términos de la Ley respectiva; asimismo, podrá decretar la requisa y pago de materiales para la ejecución de éstas;
 
-VII.- (DEROGADA, P.O. 17 DE JUNIO DE 1999)
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2009)</small>
+
+VII.- Para mejorar e incrementar el índice de desarrollo humano en la Entidad, deberá alinear las políticas públicas en materia de desarrollo social del Estado a los Objetivos de Desarrollo del Milenio del PNUD de la ONU;
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 1999)</small>
 
@@ -1261,7 +1243,7 @@ XXVI.- Crear Patronatos en los cuales participe la ciudadanía como coadyuvante 
 
 XXVII.- Convocar a plebiscito en los términos que establezca esta Constitución y la ley de la materia, la cual dispondrá los requisitos, alcances, términos y procedimientos, a los que estará sujeto el ejercicio de esta facultad.
 
-A través del plebiscito, el titular del Poder Ejecutivo del Estado, podrá consultar a la ciudadanía para que expresen su aprobación o rechazo previo a actos o decisiones del mismo que no interfieran o impliquen actos o resoluciones de los Poderes Legislativo y Judicial.
+A través del plebiscito, el titular del Poder Ejecutivo del Estado, podrá consultar a la ciudadanía para que expresen su aprobación o rechazo previo a actos o decisiones del mismo que no interfieran o impliquen actos o resoluciones de los Poderes Legislativo y Judicial;
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1954,6 +1936,10 @@ VII.- La policía preventiva municipal estará al mando del Presidente Municipal
 El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
 
 VIII.- Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expida el Congreso del Estado con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2009)</small>
+
+IX.- Para mejorar e incrementar el índice de desarrollo humano de su población, los Ayuntamientos deberán alinear las políticas públicas en materia de desarrollo social del Municipio a los Objetivos de Desarrollo del Milenio del PNUD de la ONU.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -3502,3 +3488,27 @@ Artículo Primero.- Remítase el Decreto por el que se reforman diversas disposi
 Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial:
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE JULIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Con excepción a lo dispuesto por los artículos 16, 61, de la Constitución Política del Estado, por única ocasión:
+
+a) Se suspende el Proceso Electoral Ordinario para renovar al Congreso del Estado y a los miembros del ayuntamiento del año dos mil diez, a efecto de que se realice en el año dos mil doce, a fin de hacer concurrentes los procesos electorales locales con los procesos electorales federales.
+
+b) El período de la Sexagésima Tercera Legislatura, se prorroga hasta el día treinta de septiembre del año dos mil doce.
+
+c) La elección para diputados locales al Congreso del Estado que integrarán la Sexagésima Cuarta Legislatura y miembro de los ayuntamientos, tendrá verificativo el primer domingo de julio del año dos mil doce; y tomarán protesta el día 1º de octubre de ese año.
+
+d) El Congreso del Estado de conformidad con el párrafo tercero del artículo 61, de la Constitución, designará los concejos municipales correspondientes que tomarán protesta el día primero de enero de dos mil once y cesarán en sus funciones el 30 de septiembre del año 2012. El Congreso del Estado deberá aprobar la integración y designación de los concejos municipales en el mes de noviembre del año dos mil diez.
+
+Artículo Cuarto.- Para los efectos del presente decreto, en la integración de los concejos municipales, se tendrá como máximo al cuarenta por ciento de sus integrantes de un mismo género.
