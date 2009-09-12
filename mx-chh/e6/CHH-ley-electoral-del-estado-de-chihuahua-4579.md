@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-4579"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-28"
-last_updated: "2009-03-14"
+last_updated: "2009-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de diciembre de 1994.
 
@@ -4836,3 +4838,11 @@ Para los efectos de lo dispuesto por el Artículo Quinto Transitorio del Decreto
 ###### ARTICULO CUARTO.
 
 En todo lo no previsto para la próxima designación de consejeros y magistrados electorales, se estará a los acuerdos que celebre la Junta de Coordinación Parlamentaria.
+
+P.O. 12 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley Electoral del Estado de Chihuahua de 1994, y se deroga el Decreto No. 692/09 II P. O.
+
+TERCERO.-A efecto de establecer los topes de precampaña para el proceso electoral del año 2010, el Instituto Estatal Electoral realizará el ejercicio respectivo aplicando las reglas establecidas en la presente reforma como vigentes en el proceso electoral local próximo anterior y tomando como base las variables de salario mínimo y padrón electoral que se utilizaron en el mismo.
