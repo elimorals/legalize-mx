@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2009-07-28"
+last_updated: "2009-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2009.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -111,15 +111,23 @@ II.- Desempeñar los cargos concejiles del Municipio de su vecindad, las funcion
 
 ### CAPITULO II. DE LAS ELECCIONES
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
 
-ARTICULO 14 BIS.- Las elecciones de Diputados al Congreso y miembros de los ayuntamientos del Estado, se celebrarán el primer domingo de julio del año de la elección.
+ARTICULO 14 BIS.- Las elecciones de Diputados al Congreso y miembros de los Ayuntamientos del Estado, se celebrarán el primer domingo de julio del año de la elección.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
 
 La actuación de los Poderes Públicos durante los procesos electorales será imparcial; sus servidores públicos deberán abstenerse de intervenir directa o indirectamente a favor o en contra de cualquier partido político, coalición, candidato o precandidato.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
+
 Las autoridades estatales, municipales, así como las delegaciones del órgano ejecutivo federal, así como los órganos constitucionales autónomos deberán cesar la difusión pública de obras y programas durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada electoral. Se exceptúa de lo anterior la difusión de campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia, así como aquellos en los que resulte imprescindible su difusión derivado de caso fortuito o fuerza mayor.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
+
 Cualquier violación a esta disposición, será sancionada en términos de esta Constitución y de la legislación de la materia, con independencia de lo dispuesto en el Código Penal.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
 
 Apartado A.- De los Ciudadanos Chiapanecos
 
@@ -133,15 +141,23 @@ Los ciudadanos tendrán derecho a la afiliación a los partidos políticos, el c
 
 Los ciudadanos tendrán derecho a participar en las consultas ciudadanas de conformidad con lo establecido en la Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
+
 Apartado B.- De los Partidos Políticos
 
 Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática del Estado; como organizaciones de ciudadanos, hacen posible el acceso de éstos al ejercicio del poder público, de acuerdo con los principios y programas que postulen. Su participación en los procesos electorales se sujetará a lo dispuesto por esta Constitución y las leyes aplicables.
 
-Los partidos políticos deben incluir entre sus candidatos propietarios a diputados al Congreso del Estado y a integrantes de los ayuntamientos a no más del setenta por ciento de un solo sexo y no menos del treinta por ciento de jóvenes menores de treinta años.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
 
-La intervención en la vida interna de los partidos por parte de las autoridades electorales locales, sólo podrá ser conforme a las disposiciones que establezcan esta Constitución y las leyes respectivas.
+La intervención en la vida interna de los partidos por parte de las autoridades electorales locales, sólo podrá ser conforme a las disposiciones que establezcan esta constitución y las leyes respectivas.
 
-En caso de incumplimiento de lo prescrito en el párrafo anterior, no se registrarán a los candidatos de los partidos políticos o coaliciones de la elección de que se trate, hasta en tanto se garantice la equidad de género y el porcentaje de jóvenes.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
+
+Los Partidos Políticos deben incluir entre sus candidatos propietarios a diputados al Congreso del Estado y a integrantes de los Ayuntamientos a no más del setenta por ciento de un solo sexo y no menos del treinta por ciento de jóvenes menores de treinta años, e incluir al menos uno con discapacidad, salvo los casos de inelegibilidad que establezca la ley de la materia.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
+
+En caso de incumplimiento de lo prescrito en el párrafo anterior, no se registrarán a los candidatos de los partidos políticos o coaliciones de la elección de que se trate, hasta en tanto se garantice la equidad de género, el porcentaje de jóvenes y discapacitados.
 
 Asimismo, en las zonas con predominancia en población indígena, los partidos políticos podrán registrar preferentemente candidatos de origen indígena.
 
@@ -161,7 +177,9 @@ Los partidos políticos y coaliciones, podrán celebrar procesos de selección i
 
 Las campañas políticas tendrán como finalidad, la obtención del voto a favor de los candidatos que representan a los partidos políticos o coaliciones que los postulan, a través de la difusión de su plataforma electoral y el debate ideológico; en la propaganda política o electoral que difundan los partidos o coaliciones deberán abstenerse de expresiones que denigren o calumnien a las instituciones, a los propios partidos o a las personas.
 
-La campaña de gobernador no podrá exceder de noventa días; la de diputados al Congreso del Estado y la de miembros de los Ayuntamientos, de sesenta días.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
+
+La campaña de Gobernador; la de Diputados al Congreso del Estado y la de miembros de los Ayuntamientos, no podrá exceder de sesenta días.
 
 Los candidatos que postulen los partidos políticos y las coaliciones estarán obligados a participar en los debates organizados por la autoridad electoral correspondiente. Cualquier partido político o candidato que no cumpla con las anteriores disposiciones será sancionado en los términos de la Ley de la materia.
 
@@ -180,6 +198,8 @@ El Instituto de Elecciones y Participación Ciudadana, distribuirá a los partid
 Se prohíbe a los partidos políticos y coaliciones por sí, por tercero o por interpósita persona, la contratación o adquisición de tiempos en radio y televisión. Asimismo, ninguna persona pública o privada, a titulo propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión, dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos o precandidatos a puestos de elección popular. El Instituto de Elecciones y Participación Ciudadana en su caso, será el único facultado para la contratación de tiempo aire adicional en términos de la Ley de la materia.
 
 Las prohibiciones mencionadas en los párrafos anteriores, comprenden la contratación en el extranjero o en estados aledaños, de todo tipo de mensajes en los canales de radio y televisión que tengan cobertura en el Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
 
 Apartado C.- De las Autoridades Electorales
 
@@ -509,7 +529,7 @@ El Instituto de Investigaciones Legislativas tendrá a su cargo el Secretariado 
 
 La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídicos y Comunicación Social dependerán de la Junta de Coordinación Política; la Secretaría de Servicios Parlamentarios y el Instituto de Investigaciones Legislativas dependerán de la Mesa Directiva y las Unidades de Apoyo que se creen guardarán la relación de dependencia que señale la Ley Orgánica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
 
 ## TITULO TERCERO. DE LOS PODERES PUBLICOS Y LAS ELECCIONES
 
@@ -521,7 +541,7 @@ La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídi
 
 ###### ARTICULO 16.
 
-El Congreso del Estado se integra en su totalidad con Diputados Electos cada tres años. La elección de Diputados se verificará el primer domingo de julio del año de la elección. Por cada Diputado propietario se elegirá un suplente.
+El Congreso del Estado se integrará en su totalidad con diputados electos cada tres años. La elección de diputados se verificará el primer domingo de julio del año de la elección. Por cada diputado propietario se elegirá un suplente, ambos del mismo género.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1997)</small>
 
@@ -819,7 +839,7 @@ XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
 
-XXIX.- Para la revisión de la Cuenta Pública que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
+XXIX.- Para la revisión de la Cuenta Publica que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
@@ -3457,7 +3477,7 @@ Artículo Segundo. Se derogan todas las disposiciones que se opongan a este Decr
 
 P.O. 3 DE ABRIL DE 2009.
 
-AArtículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial.
+Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
 
@@ -3474,3 +3494,21 @@ P.O. 28 DE JULIO DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Con excepción a lo dispuesto por los artículos 16, 61, de la Constitución Política del Estado, por única ocasión:
+
+a) Se suspende el Proceso Electoral Ordinario para renovar al Congreso del Estado y a los miembros del ayuntamiento del año dos mil diez, a efecto de que se realice en el año dos mil doce, a fin de hacer concurrentes los procesos electorales locales con los procesos electorales federales.
+
+b) El período de la Sexagésima Tercera Legislatura, se prorroga hasta el día treinta de septiembre del año dos mil doce.
+
+c) La elección para diputados locales al Congreso del Estado que integrarán la Sexagésima Cuarta Legislatura y miembro de los ayuntamientos, tendrá verificativo el primer domingo de julio del año dos mil doce; y tomarán protesta el día 1º de octubre de ese año.
+
+d) El Congreso del Estado de conformidad con el párrafo tercero del artículo 61, de la Constitución, designará los concejos municipales correspondientes que tomarán protesta el día primero de enero de dos mil once y cesarán en sus funciones el 30 de septiembre del año 2012. El Congreso del Estado deberá aprobar la integración y designación de los concejos municipales en el mes de noviembre del año dos mil diez.
+
+Artículo Cuarto.- Para los efectos del presente decreto, en la integración de los concejos municipales, se tendrá como máximo al cuarenta por ciento de sus integrantes de un mismo género.
