@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2009-07-13"
+last_updated: "2009-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1307,7 +1307,7 @@ III.- Que uno de los cónyuges realice actos de violencia familiar contra el otr
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-En todo cambio de domicilio será necesario el consentimiento de ambos, si no existiere acuerdo, el Juez de lo Familiar correspondiente procurará avenirlos y si no lo lograse, resolverá lo que fuere más convenientee.
+En todo cambio de domicilio será necesario el consentimiento de ambos, si no existiere acuerdo, el Juez de lo Familiar correspondiente procurará avenirlos y si no lo lograse, resolverá lo que fuere más conveniente.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
 
@@ -12519,7 +12519,7 @@ El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del 
 
 Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
 
-No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en esta artículo.
 
 ###### Artículo 2280.
 
@@ -15795,7 +15795,11 @@ XIII.- El testimonio de las informaciones ad-perpetuam promovidas y protocolizad
 
 XIV.- Las resoluciones judiciales en que se admita una demanda cuyos efectos, en caso de prosperar, alteren la situación de bienes o derechos cuya inscripción sea indispensable en el Registro;
 
-XV.- Los demás títulos que la ley ordena expresamente que sean registrados.
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+XV.- La determinación dictada por el Ministerio Público o la resolución del Juez Penal en el que se decrete el aseguramiento de bienes inmuebles;
+
+XVI.- Los demás títulos que la ley ordena expresamente que sean registrados.
 
 Los jueces en los casos en que sus resoluciones deban registrarse, darán los avisos a que se refiere el artículo 2891 comprendiendo en ellos los datos necesarios para fijar el carácter de litigioso que desde ese momento corresponde a los bienes en cuestión y la naturaleza y alcance del litigio entablado.
 
@@ -16344,3 +16348,9 @@ P.O. 13 DE JULIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
