@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2009-09-11"
+last_updated: "2009-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -797,6 +797,10 @@ CON EL ESTADO DE CHIAPAS.
 
 Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CERRO DE LA GINETA"; de este punto siguiendo con rumbo S49°30'E al "CERRO TRES CRUCES"; de este punto con rumbo S27°00'E a un punto denominado "SIN PENSAR" y que se localiza cerca de la estación de "SAN RAMÓN"; continuando con éste punto con rumbo SO3º00'E a la pesquería o agencia de policía denominada "CACHIMBO", correspondiente esta población al Estado de Oaxaca, la que se localiza en la orilla de la isla de León en el Océano Pacífico.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+El Territorio del Estado de Oaxaca, geográficamente se conforma por ocho regiones que son: Cañada, Costa, Istmo, Mixteca, Sierra Norte, Sierra Sur, Cuenca del Papaloapan y Valles Centrales.
+
 ## TITULO CUARTO. Del Gobierno del Estado
 
 ### CAPITULO I. De la Forma de Gobierno y División de Poderes
@@ -807,11 +811,11 @@ El Estado adopta para su régimen interior la forma de gobierno republicano, rep
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
-La elección de los ayuntamientos se hará mediante el sufragio universal, libre, secreto y directo. En los municipios con comunidades que se rigen por el sistema de usos y costumbres, se observará lo dispuesto por el artículo 25, apartado A, fracción II, de esta Constitución y la Legislación reglamentaria. No habrá autoridad intermedia entre éstos y el Gobierno del Estado.
+La elección de los ayuntamientos se hará mediante el sufragio universal, libre, secreto y directo. En los municipios con comunidades que se rigen por el sistema de usos y costumbres, se observará lo dispuesto por el artículo 25, apartado A, fracción III, de esta Constitución y la Legislación reglamentaria. No habrá autoridad intermedia entre éstos y el Gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato; con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -847,7 +851,7 @@ I.- Para obtener el registro de su lista estatal, el partido político que lo so
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2009)</small>
 
-II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento de la votación total emitida.
+II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento del total de la votación total emitida.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2009)</small>
 
@@ -855,7 +859,7 @@ III.- El Partido que cumpla con los supuestos señalados en las fracciones I y I
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán, en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
+IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2009)</small>
 
@@ -909,7 +913,7 @@ El Gobernador del Estado no puede ser electo diputado durante el período de su 
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-Las Magistradas y Magistrados del Tribunal Superior de Justicia, la Secretaria o Secretario General de Gobierno, las y los Secretarios de los diferentes ramos de la Administración Pública Estatal, Subsecretarias o Subsecretarios de Gobierno, la Procuradora o el Procurador General de Justicia, las Presidentas o los Presidentes Municipales, Militares en servicio activo y cualquier otra u otro servidor público de la Federación, del Estado o de los Municipios con facultades ejecutivas, sólo pueden ser electas o electos si se separan de sus cargos con noventa días de anticipación a la fecha de su elección.
+Las Magistradas y Magistrados del Tribunal Superior de Justicia, la Secretaria o Secretario General de Gobierno, las y los Secretarios de los diferentes ramos de la Administración Pública Estatal, Subsecretarias o Subsecretarios de Gobierno, la Procuradora o el Procurador General de Justicia, las Presidentas o los Presidentes Municipales, Militares en servicio activo y cualquier otra u otro servidor público de la Federación, del Estado o de los Municipios con facultades ejecutivas, sólo pueden ser electas o electos sí se separan de sus cargos con noventa días de anticipación a la fecha de su elección.
 
 Para los efectos de esta última disposición se consideran también como militares en servicio activo, los jefes y oficiales de las fuerzas de seguridad pública del Estado, cualesquiera que sea su denominación.
 
@@ -1005,7 +1009,7 @@ La Ciudad de Oaxaca de Juárez y zona conurbada, será el lugar donde la Legisla
 
 ###### ARTICULO 49.
 
-Toda resolución de la Legislatura tendrá el carácter de Ley, Decreto, Iniciativa ante el Congreso de la Unión, o acuerdo. La Ley Reglamentaria determinará la forma y términos de las mismas.
+Toda resolución de la Legislatura tendrá el carácter de Ley, Decreto, Iniciativa ante el Congreso de la Unión, o acuerdo. La Ley Reglamentaria determinará la forma y término de las mismas.
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes
 
@@ -3380,3 +3384,7 @@ P.O. 4 DE AGOSTO DE 2009.
 P.O. 11 DE SEPTIEMBRE DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
