@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-07-13"
+last_updated: "2009-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -719,7 +719,9 @@ Al responsable del delito de usura se le aplicarán de 2 a 8 años de prisión y
 
 La Extorsión consiste en la obtención de un lucro para sí o para otro, causando un perjuicio patrimonial a la víctima, al obligarlo, sin derecho, mediante uso de la fuerza física o moral, a hacer, tolerar o dejar de hacer algo.
 
-Al responsable de Extorsión se le aplicarán de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+Al responsable de Extorsión se le aplicarán, además de la pena de decomiso, de:
 
 I. 4 a 10 años de prisión y de 50 a 350 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados;
 
@@ -1659,6 +1661,12 @@ El día multa equivale a la percepción neta diaria del responsable del hecho de
 
 Si el responsable se negare a cubrir el importe de la multa que se le imponga, se hará efectiva en términos de la presente legislación.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 100 A.- El decomiso consistirá en la pérdida de la propiedad, a favor de las víctimas u ofendidos y/o del Estado, de los bienes relacionados con el hecho punible o de los utilizados como instrumento para cometerlo.
+
+El destino de los bienes decomisados atenderá a lo establecido por el Artículo 117 de esta Legislación Penal.
+
 ###### Artículo 101.
 
 La Reparación de Daños y Perjuicios consiste en:
@@ -1785,13 +1793,21 @@ La autoridad jurisdiccional, tomando en cuenta las circunstancias del hecho deli
 
 Las autoridades competentes que conozcan del procedimiento, procederán al inmediato aseguramiento de los bienes relacionados con el hecho punible en cualquier etapa del procedimiento penal, cualquiera que sea la naturaleza de los instrumentos, objetos o productos utilizados, para el posterior efecto del decomiso si son de uso prohibido. Si son de uso lícito, se decomisarán solamente cuando el hecho delictivo sea doloso. Si pertenecen a un tercero, sólo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título esté en alguno de los supuestos de la figura jurídica del encubrimiento, independientemente de la naturaleza jurídica de dicho tercero y de la relación de éste con el responsable del hecho delictivo básico, en su caso.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+Cuando se trate de bienes inmuebles se deberá ordenar la inscripción respectiva en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 117.
 
-El destino de los instrumentos, objetos o productos del hecho delictivo se determinará por la autoridad jurisdiccional al pago de la reparación de los daños y perjuicios, y si éstos no pudieren establecerse, para beneficio de la administración de justicia, según su utilidad.
+El destino de los instrumentos, objetos o productos del hecho delictivo se determinará por la autoridad jurisdiccional en primer lugar al pago de la reparación de daños y perjuicios a favor de las víctimas u ofendidos, y en caso de existir remanente, al Fondo de Atención a Víctimas u Ofendidos del Delito.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 Si se tratare de substancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, la que, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Dicha autoridad podrá disponer aún antes de declararse su decomiso, estas medidas de precaución, incluyendo su destrucción, si fuere indispensable.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 Respecto de los objetos o valores que se encuentren a disposición de las autoridades investigadoras o judiciales que no hayan sido asegurados o decomisados y que no sean recogidos por quien tenga derecho a ello en un lapso de noventa días naturales, contados a partir de la notificación que se haga al interesado se procederá de la siguiente forma:
 
@@ -5596,3 +5612,9 @@ P.O. 13 DE JULIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
