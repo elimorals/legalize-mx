@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2009-04-18"
+last_updated: "2009-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4049,6 +4049,22 @@ IV.- A quienes por cualquier medio alteren las mercancías o productos o reduzca
 
 Lo mandado en este Artículo se observará sin prejuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa con base en leyes especiales.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPITULO IV.
+
+Del tráfico de concesiones y permisos del servicio publico de transporte.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+240 Bis.- Al propietario de vehículo que preste por sí o por interpósita persona el servicio público mixto de pasaje y carga, servicio público de pasajeros urbanos y suburbanos, servicio público de alquiler en su modalidad de taxi, servicio de carretones de tracción animal, servicio público de alquiler de mototaxi, servicio público de carga ligera y servicio público de acarreo de materiales, sin contar con la concesión que otorga el Poder Ejecutivo del Gobierno del Estado de Oaxaca, se le impondrá de dos a seis años de prisión y de cien a quinientos días multa.
+
+Al servidor público que de cualquier forma intervenga en el otorgamiento de una concesión para la prestación de los servicios públicos antes mencionados u otorgue permisos o placas de circulación que permitan la prestación de los servicios a que se refiere el párrafo anterior, sin cumplir con los requisitos establecidos por las leyes, se le impondrá de dos a diez años de prisión, multa de trescientos a ochocientos días multa, así como la destitución del empleo, cargo o comisión e inhabilitación por cuatro años para ocupar otro cargo.
+
+Al que gestione u obtenga una concesión, permiso o placas de circulación que permitan la prestación de los servicios públicos establecidos en el primer párrafo de este artículo, sin cumplir con los requisitos establecidos por las leyes, se le impondrá de dos a seis años de prisión y de doscientos a seiscientos días multa.
+
+Las autoridades competentes, procederán al inmediato aseguramiento de los vehículos que podrían ser materia del decomiso, durante la averiguación o en el proceso.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1995)</small>
 
 TITULO DECIMOSEGUNDO.
@@ -5017,6 +5033,12 @@ Los delitos previstos en este Capítulo se perseguirán por querella.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO III BIS.
 
 Retención.
@@ -5030,12 +5052,6 @@ La retención se perseguirá por querella y se sancionará con las penas del abu
 (REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 
 379.- El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicables en lo conducente las disposiciones del artículo 366 de este Código.
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO IV.
 
@@ -5592,6 +5608,10 @@ P.O. 21 DE NOVIEMBRE DE 2008.
 P.O. 18 DE ABRIL DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2009.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
