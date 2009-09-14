@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-para-el-estado-de-oaxaca-16758"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-30"
-last_updated: "1999-06-30"
+last_updated: "2009-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. 14 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el miércoles 30 de junio de 1999.
 
@@ -936,3 +938,23 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 AL C. . .
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Reglamento de la presente Ley deberá publicarse dentro de los ciento ochenta días siguientes a la fecha de la entrada en vigor de la misma.
+
+TERCERO.- Queda abrogada la Ley de Protección Civil para el Estado de Oaxaca, publicada en el Periódico Oficial de 30 de junio de 1999, dejando sin efectos cualquier ordenamiento jurídico o administrativo emitido con anterioridad que contravenga lo dispuesto por esta Ley.
+
+CUARTO.- La Junta Directiva del Instituto Estatal de Protección Civil, se integrará dentro de los quince días siguientes a la fecha de publicación de esta Ley.
+
+QUINTO.- El personal que preste sus servicios a la Dirección Estatal de Protección Civil, quedará adscrito al Instituto Estatal de Protección Civil, se regirán con la Ley del Servicio Civil para los Empleados del Gobierno del Estado y se respetarán sus derechos laborales.
+
+SEXTO.- La, Secretaría de Finanzas, tomará las medidas conducentes para transferir al Instituto, el presupuesto asignado de la Dirección Estatal de Protección Civil.
+
+Los bienes muebles e inmuebles que tiene asignados la Dirección de Protección Civil, pasarán a formar parte del patrimonio del Instituto Estatal de Protección Civil.
+
+SÉPTIMO.- Los convenios, contratos y demás actos jurídicos celebrados por el Director Estatal de Protección Civil se entenderán subrogados al Director General del Instituto Estatal de Protección Civil.
