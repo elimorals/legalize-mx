@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-permisos-de-construccion-del-municipio-de-65599"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-22"
-last_updated: "2008-12-22"
+last_updated: "2009-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NLE"
 
 REGLAMENTO DE PERMISOS DE CONSTRUCCION DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de diciembre de 2008.
 
@@ -1750,6 +1750,106 @@ La imposición de las sanciones antes referidas al perito responsable de la obra
 
 En materia de recursos y denuncia, se estará a lo dispuesto en la Ley vigente de la materia.
 
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+## TITULO DECIMO QUINTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPITULO XIX (SIC). PROGRAMAS DE INCENTIVOS PARA EL USO DE MATERIALES ECOLÓGICOS EN LA EDIFICACIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 250.
+
+Corresponde a la Autoridad Municipal implementar Programas de Incentivos para el Uso de Nuevas Tecnologías Ecológicas en la Construcción y/o edificación y fraccionamientos.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 251.
+
+El Programa de Incentivos en el uso de nuevas Tecnologías Ecológicas en la Construcción y/o edificación y fraccionamientos solo será aplicable para las construcciones que se realicen dentro del territorio del Municipio de Guadalupe, Nuevo León.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 252.
+
+El Programa tiene por objeto promover mediante incentivos, un cambio en la conducta de las personas que realizan actividades industriales, comerciales y de servicios, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sustentable, mediante sistemas constructivos o tecnologías que permitan el aprovechamiento del medio ambiente para lograr una edificación sana o bioclimática, que utilice los recursos naturales para su subsistencia.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 253.
+
+La Secretaría de Finanzas y Tesorería Municipal otorgará incentivos de hasta un 25% (veinticinco porciento) de acuerdo a la Ley de Hacienda para los Municipios del Estado de N.L. y la Ley de Ingresos para los Municipios del Estado de Nuevo León para el año 2009, en lo que respecta al pago de derechos de los servicios prestados por el Centro a los Ciudadanos.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 254.
+
+El Centro por conducto de la Secretaría de Finanzas incentivará a los ciudadanos en la construcción de edificación cuando utilicen nuevas tecnologías que favorezcan al Medio Ambiente, mismos que serán determinados en base al presupuesto invertido de constructor para la preservación del Medio Ambiente, ya sea en el equipamiento o en la infraestructura necesaria para la aplicación del mencionado subsidio.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 255.
+
+El Centro deberá informar a la Secretaría de Finanzas y Tesorería Municipal para que en común acuerdo y en base al análisis realizado en costo beneficio, y de acuerdo a lo mencionado en el artículo 257 se determine el porcentaje del subsidio.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 256.
+
+Las Tecnologías ecológicas a utilizar para todo tipo de Construcción y/o edificación y fraccionamientos son:
+
+I. Instalación de plantas de tratamiento de aguas negras (para riego de jardines, parques, control de incendios, etc.).
+
+II. Utilización de energía solar y eólica.
+
+III. Instalación del sistema de captación de agua de lluvia (cisterna), para que sea utilizada en riego de parques y jardines, sanitarios, control de incendios, etc.
+
+IV. Instalación de adoquín ecológico en calles y banquetas.
+
+V. Realización de pozos de absorción para agua de lluvia en parques, jardines y franjas de amortiguamiento y/o absorción.
+
+VI. Creación de áreas verdes en techos.
+
+VII. Instalación de cristal reflejante (ventanas duovent).
+
+VIII. Aplicación de impermeabilizante acrílico.
+
+IX. Instalación de muros y lozas con aligerantes térmicos.
+
+X. Aplicación de pinturas y recubrimientos térmicos.
+
+XI. Instalación de sistemas de riego.
+
+XII. Instalación de subestación eléctrica.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 257.
+
+Los incentivos Fiscales solo podrán otorgarse previo estudio del Centro de Desarrollo Urbano y Ecología, en coordinación con la Dirección de Ingresos de la Secretaría de Finanzas y Tesorería Municipal de acuerdo a la siguiente tabla de Incentivos Fiscales Ambientales:
+
+% DEL TOTAL DE LA INVERSIÓN EN % DE DESCUENTO
+
+LA EDIFICACIÓN APLICABLE
+
+15 25
+
+10 20
+
+5 15
+
+Hasta 4 5
+
+Del punto medio del porcentaje del total de la inversión hacia arriba se tomará en cuenta el descuento aplicable.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 258.
+
+Los anteriores incentivos fiscales, serán aplicables únicamente al costo del pago de derechos de los servicios prestados por el Centro de Desarrollo Urbano y Ecología en concesiones, autorizaciones, licencias y permisos y serán transferibles, no gravables y quedarán sujetos al interés público; así como a cualquier otra tecnología que se presente y que se demuestre su eficiencia.
+
 ## TRANSITORIOS
 
 PRIMERO. Se Abroga el Reglamento de Construcción publicado en el Periódico Oficial No. 122 en fecha viernes 11 de octubre de 1991.
@@ -1771,3 +1871,19 @@ PRESIDENTA MUNICIPAL
 LIC. ALFONSO RODRIGUEZ OCHOA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Adiciones al Reglamento de Permisos de Construcción del Municipio de Guadalupe, Nuevo León entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes Adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al encargado del despacho de la Presidencia Municipal, a fin de que instruya al C. Secretario del Ayuntamiento, para que mande publicar las Adiciones del presente Reglamento en el Periódico Oficial del Estado de Nuevo León, así como en la Gaceta Municipal.
