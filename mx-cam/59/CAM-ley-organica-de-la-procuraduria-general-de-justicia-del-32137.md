@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-procuraduria-general-de-justicia-del-32137"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-06-30"
-last_updated: "2003-06-30"
+last_updated: "2009-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2003.
 
@@ -493,6 +493,22 @@ El Ministerio Público podrá expedir copias certificadas de constancias o regis
 
 Cuando lo soliciten el denunciante, el querellante, el aportador de datos, la víctima, el ofendido, el indiciado o su defensor, para el ejercicio de derechos o el cumplimiento de obligaciones previstos en la ley, sólo se les entregarán copias de sus comparecencias o de las documentales que aporten; podrán tener acceso a la información de los datos que obren en la averiguación previa, en la sede o lugar que determine el Agente del Ministerio Público que corresponda.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 36.
+
+Las inscripciones de antecedentes penales se llevarán a cabo por la Dirección de Servicios Periciales, las cuáles se cancelarán cuando:
+
+I.- El sentenciado cumpla con la perta que le fue impuesta en sentencia ejecutoria, para ello se tomará en cuenta lo siguiente:
+
+A) Si la sentencia fue impuesta por la comisión de un delito culposo, la cancelación se hará una vez cumplida la sentencia impuesta.
+
+B) En el caso de delitos dolosos, se hará cuando transcurra una cantidad de tiempo igual a la mitad de la pena privativa de libertad que haya sido impuesta y no se haya reincidido en otro delito durante ese período de tiempo; en este, último caso el cálculo se hará contabilizando un período de tiempo igual al de la penalidad impuesta por la comisión del delito.
+
+II.- La pena se haya declarado extinguida; y
+
+III.- El sentenciado sea declarado inocente por resolución que haya causado ejecutoria.
+
 ## TRANSITORIOS
 
 Primero.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
@@ -512,3 +528,9 @@ C. José del C. Gómez Casanova, Diputado Presidente.- C. Juan Antonio Martínez
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, el día veintisiete del mes de Junio del año dos mil tres.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
