@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2009-09-05"
+last_updated: "2009-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006 Y 5 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -343,12 +343,6 @@ ATAQUE A LAS VIAS DE COMUNICACIÓN, previsto en los artículos 170 y 172.
 
 DELITOS COMETIDOS EN PERJUICIO DE PERSONAS MENORES DE EDAD O DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO, previstos por los artículos 194 fracciones I y II, 195 fracciones I, II, III y IV, 196 y 197 fracciones I, II y III.
 
-CORRUPCION DE MENORES, (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
-
-PORNOGRAFÍA INFANTIL, (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
-
-LENOCINIO DE MENORES.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
 EL ABUSO DE AUTORIDAD, previsto en el artículo 208, fracciones XXIII, XXIV, XXXVIII y XLI, LA FALSIFICACION DE SELLOS, LLAVES, CUÑOS, TROQUELES Y MARCAS, previstos en los artículos 224 y 225, así como la FALSIFICACION DE DOCUMENTOS E INFORMES FALSOS DADOS A UNA AUTORIDAD, previstos por los artículos 226, 227, 228, 229 y 230; VARIACION DEL NOMBRE O DEL DOMICILIO previsto en el artículo 232; y USURPACION DE FUNCIONES previsto en el artículo 233, todo del Código Penal del Estado, CUANDO SE COMETAN POR EXTRANJEROS O SERVIDORES PÚBLICOS, conforme al artículo 235 BIS del Código Penal del Estado.
@@ -368,8 +362,6 @@ INFANTICIDIO, previsto en el artículo 308 y sancionado por el 309, primera part
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
 SECUESTRO, previsto en los artículos 348, 348 BIS y 348 BIS A
-
-TRAFICO DE MENORES, (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
@@ -391,7 +383,9 @@ TORTURA, previsto en los artículos 2, 3, 4, de la Ley Estatal para Prevenir y S
 
 DELITOS ELECTORALES, previstos en los artículos 395 y 398 del Código Penal para el Estado Libre y Soberano de Oaxaca.
 
-LA INDUCCION DE MENORES A LA FARMACODEPENDENCIA, (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+DEL TRAFICO DE CONCESIONES Y PERMISOS DEL SERVICIO PUBLICO DE TRANSPORTE, previsto y sancionado por el artículo 240 Bis.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
@@ -2999,11 +2993,11 @@ El Tribunal no podrá dejar de examinar durante la instrucción, a los testigos 
 
 Todos los habitantes del Estado que no tengan excusa legal, están obligados a acudir al llamamiento judicial que se les haga y prestar su declaración sobre lo que se les pregunte con referencia a los hechos respecto de los cuales se les señala como testigos.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
+
 ###### Art. 409.
 
 No se obligará a declarar al cónyuge, tutor, curador o pupilo del inculpado, ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente sin limitación de grados; en la colateral consanguínea hasta dentro del cuarto grado y en la de afinidad hasta el segundo inclusive, ni a los que están ligados con él por amor, respeto, cariño o estrecha amistad; pero si estas personas tuvieran voluntad de declarar espontáneamente después de que el funcionario que practique la diligencia les advierta que pueden abstenerse de hacerlo, se les recibirá su declaración haciéndose constar esta circunstancia en el acta correspondiente.
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
 
 ###### Art. 410.
 
@@ -4276,5 +4270,9 @@ P.O. 18 DE ABRIL DE 2009.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 5 DE SEPTIEMBRE DE 2009.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
