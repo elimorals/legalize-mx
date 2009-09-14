@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-de-suelo-del-municipio-de-645
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-17"
-last_updated: "2008-11-17"
+last_updated: "2009-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACION Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 17 de noviembre de 2008.
 
@@ -1091,6 +1091,16 @@ En lo que respecta a este Reglamento al control, vigilancia, infracciones, sanci
 
 En materia de recursos y denuncia, se estará a lo dispuesto en la Ley vigente en la materia
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+## TITULO IX. PROGRAMAS DE INCENTIVOS PARA EL USO DE MATERIALES ECOLOGICOS EN LA EDIFICACION
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTICULO 123.
+
+En lo correspondiente al Programa de Incentivos para el Uso de Materiales Ecológicos en la Edificación, se estará a lo dispuesto al REGLAMENTO DE PERMISOS DE CONSTRUCCIÓN DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN en vigor.
+
 ## TRANSITORIOS
 
 PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
@@ -1110,3 +1120,19 @@ PRESIDENTA MUNICIPAL
 LIC. ALFONSO RODRÍGUEZ OCHOA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Adiciones al Reglamento Municipal de Zoonificación y Usos del Suelo entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes Adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al encargado del Despacho de la Presidencia Municipal, a fin de que instruya al C. Secretario del Ayuntamiento, para que mande publicar las Adiciones del presente Reglamento en el Periódico Oficial del Estado de Nuevo León, así como en la Gaceta Municipal.
