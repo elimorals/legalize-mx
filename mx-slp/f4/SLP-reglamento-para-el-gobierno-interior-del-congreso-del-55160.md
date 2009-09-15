@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2007-02-15"
+last_updated: "2009-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -246,6 +246,14 @@ Al hacer uso de la palabra el Presidente, en el ejercicio de sus funciones, debe
 Los vicepresidentes deben auxiliar al Presidente de la Directiva en el desempeño de sus funciones y suplirlo en sus ausencias, en el orden en que hayan sido electos.
 
 En las ausencias del Presidente están facultados para rendir los informes previos y justificados en los juicios de amparo, así como oficios relativos a asuntos contenciosos en que el Congreso sea parte.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+En caso de ausencia definitiva del Presidente, el Vicepresidente que lo supla deberá solicitar a la Junta presente la propuesta respectiva a efecto de que el Pleno, en su sesión inmediata siguiente, elija al Presidente que deberá concluir el periodo correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+La Junta cuidará que el diputado propuesto para ocupar la Presidencia hasta la conclusión del periodo, pertenezca al mismo grupo parlamentario que el Presidente al que sustituya.
 
 #### Sección Segunda. De los Secretarios y Prosecretarios
 
@@ -515,9 +523,11 @@ II. Citar por escrito a los diputados que faltaron a que asistan a la siguiente 
 
 III. Disolver la sesión y redactar el acta correspondiente.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 52.
 
-Al iniciar y clausurar las sesiones, el Presidente de la Directiva expresará: "Se inicia la sesión y se declaran válidos los acuerdos que en ella se tomen"; y para clausurarlas dirá: "Se levanta la sesión"; tocando el "gong" en ambos casos.
+Al iniciar y clausurar las sesiones el Presidente de la Directiva expresará: "Inicia la sesión y se declaran válidos los acuerdos que se tomen"; y para clausurarlas dirá: "Se levanta la sesión"; haciendo repicar la campana en ambos casos.
 
 ###### ARTICULO 53.
 
@@ -1884,3 +1894,21 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2009.
+
+DECRETO 842 POR EL QUE SE ADICIONA EL ARTICULO 13 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2009.
+
+DECRETO 843 POR EL QUE SE REFORMA EL ARTICULO 52 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Junta de Coordinación Política contará con un plazo de noventa días, contados a partir de la vigencia de este Decreto, para presentar al Pleno, para su aprobación, una campana a escala de la de "Dolores Hidalgo", conforme a las características y materiales que la misma Junta disponga.
