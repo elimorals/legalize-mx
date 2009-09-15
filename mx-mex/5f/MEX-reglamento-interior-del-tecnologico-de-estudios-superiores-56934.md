@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-5693
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-13"
-last_updated: "2007-08-13"
+last_updated: "2009-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE JOCOTITLAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 13 de agosto de 2007.
 
@@ -109,7 +109,13 @@ VII. Promover la modernización administrativa, mejora regulatoria y gestión de
 
 VIII. Resolver, en el ámbito administrativo, las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
 
-IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende la Junta Directiva.
+> <small>(ADICIONADA, G.G. 15 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Coordinar y supervisar el funcionamiento de las Unidades de Estudios Superiores y, en su caso, disponer las acciones y estrategias para el cumplimiento de sus objetivos.
+
+X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende la Junta Directiva.
+
+> <small>(REFORMADO, G.G. 15 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 11.
 
@@ -121,23 +127,31 @@ II. Dirección de Vinculación y Extensión.
 
 III. Subdirección de Estudios Profesionales.
 
-IV. Subdirección de Extensión.
+IV. Subdirección de Servicios Escolares.
 
-V. Subdirección de Servicios Administrativos.
+V. Subdirección de Extensión.
 
-VI. División de Ingeniería Electromecánica.
+VI. Subdirección de Servicios Administrativos.
 
-VII. División de Ingeniería industrial.
+VII. División de Ingeniería Electromecánica.
 
-VIII. División de Ingeniería en Sistemas Computacionales.
+VIII. División de Ingeniería industrial.
 
-IX. División de Arquitectura.
+IX. División de Ingeniería en Sistemas Computacionales.
 
-X. División de Ingeniería Mecatrónica.
+X. División de Arquitectura.
 
-XI. Unidad Jurídica.
+XI. División de Ingeniería Mecatrónica.
 
-El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
+XII. División de Licenciatura en Contaduría.
+
+XIII. Unidad Jurídica.
+
+El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
+
+El Tecnológico podrá contar con unidades administrativas desconcentradas, denominadas Unidades de Estudios Superiores, las cuales se ubicarán en los municipios que determine la Junta Directiva y tendrán por objeto instrumentar programas académicos y de investigación correspondientes al Organismo.
+
+Las Unidades de Estudios Superiores se adscribirán directamente al Director General y sus funciones se establecerán en el Manual General de Organización del Tecnológico.
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS DE LOS DIRECTORES, SUBDIRECTORES Y JEFES DE DIVISION
 
@@ -183,9 +197,13 @@ XVI. Las demás que les confieren otras disposiciones legales y aquellas que les
 
 ### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES
 
+> <small>(REFORMADO, G.G. 15 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 14.
 
-Corresponde a la Dirección Académica planear, coordinar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería electromecánica, ingeniería industrial, ingeniería en sistemas computacionales, arquitectura, e ingeniería mecatrónica, así como coordinar los servicios escolares de cómputo y promover el desarrollo académico y de investigación del Tecnológico.
+Corresponde a la Dirección Académica planear, coordinar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería electromecánica, ingeniería industrial, ingeniería en sistemas computacionales, arquitectura, ingeniería mecatrónica y licenciatura en contaduría, así como coordinar los servicios escolares y de cómputo y promover el desarrollo académico y de investigación del Tecnológico.
+
+> <small>(REFORMADO, G.G. 15 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 15.
 
@@ -193,15 +211,19 @@ Quedan adscritas a la Dirección Académica:
 
 I. Subdirección de Estudios Profesionales.
 
-II. División de Ingeniería Electromecánica.
+II. Subdirección de Servicios Escolares.
 
-III. División de Ingeniería Industrial.
+III. División de Ingeniería Electromecánica.
 
-IV. División de Ingeniería en Sistemas Computacionales.
+IV. División de Ingeniería Industrial.
 
-V. División de Arquitectura.
+V. División de Ingeniería en Sistemas Computacionales.
 
-VI. División de Ingeniería Mecatrónica.
+VI. División de Arquitectura.
+
+VII. División de Ingeniería Mecatrónica.
+
+VIII. División de Licenciatura en Contaduría.
 
 ###### Artículo 16.
 
@@ -242,6 +264,30 @@ XI. Promover entre los alumnos del Tecnológico la realización del servicio soc
 XII. Promover la titulación de los alumnos egresados del Tecnológico.
 
 XIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director Académico y el Director General.
+
+> <small>(ADICIONADO, G.G. 15 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 18 bis.- Corresponde a la Subdirección de Servicios Escolares:
+
+I. Integrar y mantener actualizado el registro de titulación y de las carreras que imparte el Tecnológico, ante las instancias educativas correspondientes.
+
+II. Formular y proponer al Director Académico las normas y políticas en materia de control escolar.
+
+III. Coordinar, ejecutar y difundir los procesos de preinscripción, inscripción y reinscripción de los alumnos del Tecnológico, con base en la normatividad correspondiente.
+
+IV. Coordinar y controlar el registro de los alumnos en las asignaturas que cursan y de las calificaciones que obtengan, mediante los medios estadísticos correspondientes.
+
+V. Emitir, controlar y verificar la documentación oficial que avale la instrucción académica de los alumnos en el Tecnológico.
+
+VI. Conducir y evaluar el proceso de titulación de los alumnos del Tecnológico.
+
+VII. Programar, organizar y controlar el proceso de asignación de becas a los estudiantes y profesores del Tecnológico.
+
+VIII. Prestar a los estudiantes el servicio de psicología y realizar las gestiones para su incorporación al régimen facultativo del seguro social.
+
+IX. Llevar el registro y estadística del desempeño escolar de los alumnos del Tecnológico, con base en su especialidad y grado académico.
+
+X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director Académico y el Director General.
 
 ###### Artículo 19.
 
@@ -438,3 +484,13 @@ M. EN C. ROBERTO LAURELES SOLANO
 DIRECTOR GENERAL DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE JOCOTITLAN Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 15 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
