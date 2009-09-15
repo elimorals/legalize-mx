@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2008-12-18"
+last_updated: "2009-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -745,7 +745,9 @@ f) Las demás que deriven de esta Ley y del Reglamento;
 
 II. De los vicepresidentes:
 
-a) Sustituir en las faltas temporales al Presidente, de acuerdo a lo dispuesto en el Reglamento.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+a) Sustituir en las faltas temporales y definitivas al Presidente, de acuerdo a lo dispuesto en el Reglamento.
 
 b) Las demás que deriven de esta Ley y del Reglamento;
 
@@ -1816,3 +1818,9 @@ P.O. 18 DE DICIEMBRE DE 2008.
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
