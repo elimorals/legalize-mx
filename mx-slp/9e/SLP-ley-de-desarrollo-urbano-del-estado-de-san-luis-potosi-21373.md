@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2008-03-06"
+last_updated: "2009-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -193,9 +193,19 @@ XXVII. SUELO URBANIZABLE: aquél cuyas características lo hacen susceptible de 
 
 XXVIII. SUELO URBANIZADO: aquél donde habiéndose ejecutado las obras de urbanización, cuenta con su incorporación o reincorporación municipal;
 
-XXIX. URBANIZACION: el proceso técnico para lograr a través de la acción material y de manera ordenada, la adecuación de los espacios que el ser humano y sus comunidades requieren para su asentamiento, y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
-XXX. ZONA DE CONURBACION: el área que se determina en la declaratoria en donde se reconozca el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población comprendidos en sus límites.
+XXIX. URBANIZACION: el proceso técnico para lograr, a través de la acción material y de manera ordenada, la adecuación de los espacios que el ser humano y sus comunidades requieren para su asentamiento;
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+XXX. VIVIENDA DE INTERES SOCIAL: aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por quince, el salario mínimo general elevado al año, vigente en el Distrito Federal; el lote fraccionado no podrá ser menor de setenta y cinco metros cuadrados, y con un frente mínimo de cinco metros lineales;
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+XXXI. VIVIENDA POPULAR: aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco, el salario mínimo general elevado al año, vigente en el Distrito Federal; el lote fraccionado no podrá ser menor de noventa metros cuadrados, y con un frente mínimo de seis metros lineales, y
+
+XXXII. ZONA DE CONURBACION: el área que se determina en la declaratoria en donde se reconozca el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población comprendidos en sus límites.
 
 ###### ARTICULO 6º.
 
@@ -2143,7 +2153,7 @@ II. Anteproyecto arquitectónico o de diseño urbano de ser el caso, y memoria d
 
 III. Llevar anexo el recibo de pago del predial del inmueble al corriente, y
 
-IV. En su caso, el estudio técnico justificativo para cambio de uso de terrenos forestales o de aptitud preferentemente forestal; y la manifestación de impacto ambiental presentada previamente por el promovente ante la SEMARNAT para su evaluación, así como las autorizaciones emitidas por la misma, cuando se trate de obras o actividades previstas en el artículo 28 de la LGEEPA o en el reglamento de la misma, en materia de impacto ambiental.
+IV. En su caso, el estudio técnico justificativo para cambio de uso de terrenos forestales o de aplitud preferentemente forestal; y la manifestación de impacto ambiental presentada previamente por el promovente ante la SEMARNAT para su evaluación, así como las autorizaciones emitidas por la misma, cuando se trate de obras o actividades previstas en el artículo 28 de la LGEEPA o en el reglamento de la misma, en materia de impacto ambiental.
 
 La licencia de uso del suelo no faculta a su titular para iniciar la ejecución de construcción u obra alguna; dicha licencia será personalísima; intransferible; inembargables los derechos derivados de la misma; e inalienable; y no será objeto de fusión o escisión, tratándose de sociedades mercantiles legalmente constituidas.
 
@@ -2185,7 +2195,7 @@ La licencia de uso del suelo señalará, para el respectivo predio, los usos de 
 
 En los casos en que el uso del suelo pueda generar impacto ambiental significativo, o en los casos de actividades riesgosas, el ayuntamiento respectivo, una vez recibida la solicitud para la expedición de la licencia, remitirá sin demora en un plazo máximo de cinco días hábiles, contados a partir de la recepción del documento, la solicitud con sus anexos a la SEGAM y la SEDUVOP, cuando así proceda, para recabar su dictamen técnico sobre el uso solicitado, debiendo dichas autoridades emitirlos en un término improrrogable de diez días hábiles contados a partir de la fecha en que reciban la solicitud correspondiente.
 
-La SEGAM y la SEDUVOP podrán pedir la opinión de otras dependencias y organismos respecto de los eventuales efectos del uso solictado en la prestación de los servicios públicos, aplicándose en tal caso los plazos establecidos en el párrafo anterior.
+La SEGAM y la SEDUVOP podrán pedir la opinión de otras dependencias y organismos respecto de los eventuales efectos del uso solicitado en la prestación de los servicios públicos, aplicándose en tal caso los plazos establecidos en el párrafo anterior.
 
 La licencia de uso del suelo, no faculta a su titular, para iniciar la ejecución de construcción u obra alguna.
 
@@ -2197,7 +2207,7 @@ La vigencia de la licencia de uso del suelo se sujetará a lo siguiente:
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-I. La primera licencia que otorgue el ayuntamiento tendrá el carácter de previa y será válida durante doce meses contados a partir de su expedición lapso en el cual si fuere el caso, el propietario llevará a cabo la construcción o adecuación del inmueble de que se trate; si no concluyera dentro de ese término, dicha licencia podrá prorrogarse por doce meses más. Concluida la construcción o adecuación respectiva, se otorgará una licencia indefinida que quedará sujeta al mantenimiento de las características y cumplimiento de las condiciones de su otorgamiento y al pago anual de derechos correspondientes;
+I. La primera licencia que otorgue el ayuntamiento tendrá el carácter de previa y será válida durante doce meses contados a partir de su expedición, lapso en el cual si fuere el caso, el propietario llevará a cabo la construcción o adecuación del inmueble de que se trate; si no concluyera dentro de ese término, dicha licencia podrá prorrogarse por doce meses más. Concluida la construcción o adecuación respectiva, se otorgará una licencia indefinida que quedará sujeta al mantenimiento de las características y cumplimiento de las condiciones de su otorgamiento y al pago anual de derechos correspondientes;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2599,7 +2609,9 @@ II. Subdivisión de los predios: el acto mediante el cuál, previa autorización
 
 III. Relotificación de predios: la obra por la que dos o más lotes de un fraccionamiento, se modifican en sus dimensiones y superficies o su localización originalmente establecidas en el proyecto de traza y lotificación aprobado, previa autorización expedida en los casos que contempla ésta Ley;
 
-IV. Areas de donación: las que deben cederse gratuitamente al respectivo Ayuntamiento para las correspondientes obras de equipamiento urbano y la prestación de los servicios públicos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Areas de donación: las que deben cederse gratuitamente por el fraccionador al respectivo ayuntamiento, para las correspondientes obras de equipamiento urbano y la prestación de los servicios públicos.
 
 Estos bienes son inalienables, imprescriptibles e inembargables, mientras no se les desafecten del servicio público al que se hallen destinados.
 
@@ -2695,9 +2707,9 @@ I. Tendrá por objeto facilitar a las capas de la población de más bajos ingre
 
 II. Su promoción, organización y ejecución corresponderá a la Secretaría o al ayuntamiento respectivo, y a organismos públicos de vivienda, en su caso, asociados con cooperativas y demás organizaciones sociales legalmente constituidas, siempre y cuando no se persiga una finalidad de lucro;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
-III. Estos fraccionamientos estarán destinados únicamente a vivienda unifamiliar, y la superficie mínima de los lotes será de noventa metros cuadrados; salvo cuando se trate de fraccionamientos económicos de interés social, en los que la superficie mínima del lote será de sesenta y siete metros cincuenta centímetros cuadrados, con un frente mínimo de cuatro metros cincuenta centímetros lineales;
+III. Estos fraccionamientos estarán destinados únicamente a vivienda unifamiliar, y la superficie minima de los lotes se ajustará a lo dispuesto por la fracción XXXI del articulo 5° de la presente Ley; salvo cuando se trate de fraccionamientos económicos de interés social, la superficie mínima del lote será la dispuesta en la fracción XXX del artículo 5° de este Ordenamiento, y
 
 IV. Para la ocupación física de los lotes, será suficiente que éstos estén dotados de las obras mínimas para infraestructura que señale el Reglamento de ésta Ley.
 
@@ -2831,13 +2843,31 @@ III. Unidad médica;
 
 IV. Juegos infantiles,
 
-V. Jardín vecinal o áreas verdes arboladas, o
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
-VI. Las demás que sean de beneficio social y que determinen los colonos con anuencia del Ayuntamiento.
+V. Parques deportivos;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Jardines y áreas arboladas, o
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Las demás que sean de beneficio social y que determinen los colonos, con anuencia del ayuntamiento respectivo.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+En el área de donación destinada a jardines se deberán diseñar pozos de absorción de aguas pluviales, cuando las condiciones del proyecto de los escurrimientos superficiales lo permiten; y deberán entregarse al ayuntamiento con tomas de agua, banquetas, guarniciones, botes o contenedores de basura, arboladas y con alumbrado público.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+En caso de que el fraccionamiento no cuente con agua suficiente para el adecuado mantenimiento de jardines o áreas arboladas en el área de donación, se llevará a cabo la construcción de obras de equipamiento de parques deportivos.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+Toda área de donación destinada a equipamiento deberá contar con tomas de agua, descarga de albañal, banquetas, guarniciones y alumbrado público.
 
 Las obras de equipamiento para el fraccionamiento industrial comprenderán: área jardinada, zona deportiva y centro de capacitación para los trabajadores.
-
-> <small>(DEROGADO TERCER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 177.
 
@@ -3796,3 +3826,11 @@ P.O. 6 DE MARZO DE 2008.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todos los fraccionamientos que no hayan sido aprobados por el ayuntamiento respectivo a la entrada en vigor del presente Decreto, deberán sujetarse a las disposiciones de éste último.
+
+TERCERO. Se derogan todas las disposiciones legales y administrativas que se opongan a este Decreto.
