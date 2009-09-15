@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2008-01-26"
+last_updated: "2009-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -188,6 +188,10 @@ II. Los inmuebles de su propiedad destinados al servicio de los gobiernos federa
 III. Los inmuebles del dominio público utilizados para la prestación de servicios públicos, como mercados, rastros, hospitales, panteones, zoológicos, jardines botánicos, museos, bibliotecas públicas, parques y los demás similares o análogos a ellos; y
 
 IV. Los demás a los que las leyes les asignen este carácter.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+ARTICULO 9° BIS. Los bienes muebles destinados al servicio público, que por sus características físicas o mecánicas, sean considerados inservibles o inadecuados para la prestación del servicio correspondiente, sólo podrán enajenarse con fines de reciclaje.
 
 ### CAPITULO IV. Régimen Jurídico de los Bienes de Dominio Público del Estado y Municipios
 
@@ -556,6 +560,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
 
 P.O. 26 DE ENERO DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2009.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
