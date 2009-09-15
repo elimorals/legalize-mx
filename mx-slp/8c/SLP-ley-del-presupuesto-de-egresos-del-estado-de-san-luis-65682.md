@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-presupuesto-de-egresos-del-estado-de-san-luis-65682"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-18"
-last_updated: "2008-12-18"
+last_updated: "2009-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSI, PARA EL EJERCICIO FISCAL DEL AÑO 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -81,67 +81,85 @@ En los poderes, Legislativo y Judicial, y en los organismos autónomos, estas fa
 
 ### Capítulo II. De las Erogaciones
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 4°.
 
-Las erogaciones previstas en este Presupuesto para el Ejercicio Fiscal del año 2009, importarán la cantidad de $23,965'720,655 (VEINTITRES MIL NOVECIENTOS SESENTA Y CINCO MILLONES SETECIENTOS VEINTE MIL SEISCIENTOS CINCUENTA Y CINCO PESOS M.N.), con el propósito de desarrollar las estrategias y proyectos previstos en el Plan Estatal de Desarrollo 2003 - 2009 y su actualización, en concordancia con las prioridades estatales; distribuidos al tenor de los siguientes:
+Las erogaciones previstas en este Presupuesto para el Ejercicio Fiscal del año 2009, importarán la cantidad de $26,025'587,391 (VEINTISEIS MIL VEINTICINCO MILLONES QUINIENTOS OCHENTA Y SIETE MIL TRESCIENTOS NOVENTA Y UN PESO M.N.), con el propósito de desarrollar las estrategias y proyectos previstos en el Plan Estatal de Desarrollo 2003-2009 y su actualización, en concordancia con las prioridades estatales, distribuidos al tenor de los siguientes:
 
 EJES MONTO
 
-Desarrollo Humano y Oportunidad Social $ 7,300´277,566
+Desarrollo Humano y Oportunidad Social 7,887'965,128.00
 
-Educación Integral y Formación de Capital $10,034´677,864
+Educación Integral y Formación de Capital Humano 10,712'758,137.00
 
-Humano
+Desarrollo Empresarial e Impulso a la Competitividad 969'694,144.00
 
-Desarrollo Empresarial e Impulso a la $ 1,099´201,388
+Crecimiento Ordenado y Sustentabilidad 1,487'687,538.00
 
-Competitividad
+Seguridad y Justicia 2,684'524,075.00
 
-Crecimiento Ordenado y Sustentabilidad $ 970´486,740
-
-Seguridad y Justicia $2,472'208,781
-
-Buen Gobierno y Desarrollo Institucional $ 2,088'868,316
+Buen Gobierno y Desarrollo Institucional 2,282'958,369.00
 
 ###### ARTICULO 5°.
 
 El Poder Legislativo administrará y ejercerá su respectivo presupuesto, de conformidad con lo dispuesto en la fracción X del artículo 57 de la Constitución Política del Estado de San Luis Potosí, la Ley de Presupuesto, y demás disposiciones aplicables.
 
-Las erogaciones previstas para el Poder Legislativo en el año 2009, importan la cantidad de $178'100,275 (CIENTO SETENTA Y OCHO MILLONES CIEN MIL DOSCIENTOS SETENTA Y CINCO PESOS M.N.), incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por conceptos de seguridad social, incluyendo servicio médico y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+Las erogaciones previstas para el Poder Legislativo en el año 2009, importan la cantidad de $191'100,275 (CIENTO NOVENTA Y UN MILLONES CIEN MIL DOSCIENTOS SETENTA Y CINCO PESOS M.N.), incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por conceptos de seguridad social, incluyendo servicio médico y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 6°.
 
-La Auditoría Superior del Estado, órgano autónomo del Congreso del Estado, contará con una asignación de $80'695,698 (OCHENTA MILLONES SEISCIENTOS NOVENTA Y CINCO MIL SEISCIENTOS NOVENTA Y OCHO PESOS M.N.), incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por conceptos de seguridad social, incluyendo servicio médico y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación.
+La Auditoría Superior del Estado, órgano autónomo del Congreso del Estado, contará con una asignación de $92;555,816 (NOVENTA Y DOS MILLONES QUINIENTOS CINCUENTA Y CINCO MIL OCHOCIENTOS DIECISEIS PESOS M.N.), incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por conceptos de seguridad social, incluyendo servicio médico y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación.
 
 ###### ARTICULO 7°.
 
 El Poder Judicial administrará y ejercerá su respectivo presupuesto, de conformidad con lo dispuesto en el artículo 92 de la Constitución Política del Estado de San Luis Potosí, la Ley de Presupuesto, y demás disposiciones aplicables.
 
-Las erogaciones previstas para el Poder Judicial en el año 2009, importan la cantidad de $528'573,989 (QUINIENTOS VENTIOCHO MILLONES QUINIENTOS SETENTA Y TRES MIL NOVECIENTOS OCHENTA Y NUEVE PESOS M.N.), incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por conceptos de seguridad social, incluyendo servicio médico, y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación del propio Poder Judicial, del Consejo de la Judicatura y del Tribunal Electoral.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+Las erogaciones previstas para el Poder Judicial en el año 2009 importan la cantidad de $576'949,809 (QUINIENTOS SETENTA Y SEIS MILLONES NOVECIENTOS CUARENTA Y NUEVE MIL OCHOCIENTOS NUEVE PESOS M.N.), incluidas las previsiones por incrementos salariales, así como las prestaciones económicas. repercusiones por conceptos de seguridad social, incluyendo servicio médico, y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación del propio Poder Judicial, del Consejo de la Judicatura, y del Tribunal Electoral.
 
 ###### ARTICULO 8°.
 
 Para cumplir con lo dispuesto por la Ley Electoral del Estado de San Luis Potosí, las erogaciones asignadas a las autoridades electorales, y partidos políticos, incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por concepto de seguridad social, y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación, suman la cantidad de $209´386,000 (DOSCIENTOS NUEVE MILLONES TRESCIENTOS OCHENTA Y SEIS MIL PESOS M.N.); distribuidas conforme a lo siguiente: Consejo Estatal Electoral y de Participación Ciudadana $106'373,054 (CIENTO SEIS MILLONES TRESCIENTOS SETENTA Y TRES MIL CINCUENTA Y CUATRO PESOS M.N.); Financiamiento a Partidos y Agrupaciones Políticas $103'012,946 (CIENTO TRES MILLONES DOCE MIL NOVECIENTOS CUARENTA Y SEIS PESOS M.N.).
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 9°.
 
-Las erogaciones destinadas a la Comisión Estatal de Derechos Humanos, incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por concepto de seguridad social, y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación, suman la cantidad de $23'301,328 (VENTITRES MILLONES TRESCIENTOS UN MIL TRESCIENTOS VEINTIOCHO PESOS M. N.).
+Las erogaciones destinadas a la Comisión Estatal de Derechos Humanos, incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por concepto de seguridad social, y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación, suman la cantidad de $24'087,829 (VEINTICUATRO MILLONES OCHENTA Y SIETE MIL OCHOCIENTOS VEINTINUEVE PESOS M.N.).
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 10.
 
-La Universidad Autónoma de San Luis Potosí tendrá una erogación prevista para el año 2009, que ímporta la cantidad de $1'326,458,055 (UN MIL TRESCIENTOS VEINTISEIS MILLONES CUATROCIENTOS CINCUENTA Y OCHO MIL CINCUENTA Y CINCO PESOS M.N.) en la que se incluye la aportación establecida en la Constitución Política del Estado de San Luis Potosí, en su artículo 11; y la aportación federal.
+La Universidad Autónoma de San Luis Potosí tendrá una erogación prevista para el año 2009 que importa la cantidad de $1,303'026,033 (UN MIL TRESCIENTOS TRES MILLONES VEINTISEIS MIL TREINTA Y TRES PESOS M.N.) en la que se incluye la aportación establecida en la Constitución Política del Estado de San Luis Potosí en su artículo 11; y la aportación federal.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 11.
 
-Las erogaciones destinadas a la Comisión Estatal de Garantía de Acceso a la Información Pública, incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por concepto de seguridad social, y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación, suman la cantidad de $13'956,393 (TRECE MILLONES NOVECIENTOS CINCUENTA Y SEIS MIL TRESCIENTOS NOVENTA Y TRES PESOS M.N.).
+Las erogaciones destinadas a la Comisión Estatal de Garantía de Acceso a la Información Pública, incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por concepto de seguridad social, y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación, suman la cantidad de $16'720,392 (DIECISEIS MILLONES SETECIENTOS VEINTE MIL TRESCIENTOS NOVENTA Y DOS PESOS M.N.).
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 12.
 
-Los subsidios a las instituciones en materia de asistencia social, salud, educativas y culturales, importan la cantidad de $53'666,527 (CINCUENTA Y TRES MILLONES SEISCIENTOS SESENTA Y SEIS MIL QUINIENTOS VEINTISIETE PESOS M.N.), los cuales, para su otorgamiento, deberán ser previamente autorizados por la Secretaría; por lo que las coordinadoras de sector a que se refiere la Ley de Planeación, presentarán a ésta un informe detallando el costo-beneficio de las actividades de sus sectorizadas, con el fin de determinar la viabilidad de los recursos a otorgar, a través del Presupuesto.
+Los subsidios a las instituciones en materia de asistencia social, salud, educativas y culturales, importan la cantidad de $53'954,289 (CINCUENTA Y TRES MILLONES NOVECIENTOS CINCUENTA Y CUATRO MIL DOSCIENTOS OCHENTA Y NUEVE PESOS M.N.), los cuales, para su otorgamiento, deberán ser previamente autorizados por la Secretaría, por lo que las coordinadoras de sector a que se refiere la Ley de Planeación, presentarán a ésta un informe detallando el costo-beneficio de las actividades de sus sectorizadas, con el fin de determinar la viabilidad de los recursos a otorgar a través del Presupuesto.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 13.
 
-Este Presupuesto prevé erogaciones de saneamiento financiero para el pago de deuda de la administración pública estatal, por un monto de $289'829,870 (DOSCIENTOS OCHENTA Y NUEVE MILLONES OCHOCIENTOS VEINTINUEVE MIL OCHOCIENTOS SETENTA PESOS M.N.).
+Este Presupuesto prevé erogaciones de saneamiento financiero para el pago de deuda de la administración pública estatal, por un monto de $402'809, 108 (CUATROCIENTOS DOS MILLONES OCHOCIENTOS NUEVE MIL CIENTO OCHO PESOS M.N.).
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+ARTICULO 13 BIS. A fin de cumplimentar las disposiciones contenidas en el artículo 9° de la Ley de Responsabilidad Patrimonial del Estado y Municipios de San Luis Potosí, se establece una previsión presupuestal en un fondo de hasta $962,000 (NOVECIENTOS SESENTA Y DOS MIL PESOS M.N.).
 
 ## TITULO SEGUNDO. DE LA EJECUCION Y CONTROL PRESUPUESTARIO DEL GASTO PUBLICO
 
@@ -151,11 +169,13 @@ Este Presupuesto prevé erogaciones de saneamiento financiero para el pago de de
 
 Las dependencias y entidades, así como los poderes, Legislativo, y Judicial, y los organismos autónomos, no podrán ejercer los recursos del ejercicio anterior, recibidos pero no devengados; debiendo reintegrarlos a la Secretaría, a más tardar el 31 de enero del 2009.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 15.
 
-Tratándose de gasto de inversión, o de programas, cuya normatividad de aplicación requiera que se rebase la asignación presupuestal aprobada, la Comisión podrá autorizar la prórroga respectiva, en el ámbito del Poder Ejecutivo del Estado.
+Tratándose del capítulo de gasto de inversión o de programas cuya normatividad de aplicación requiera que se rebase la asignación presupuestal aprobada, la Comisión podrá autorizar la prórroga respectiva, en el ámbito del Poder Ejecutivo del Estado.
 
-Los recursos asignados a gasto de inversión no son objeto de reducción para complementar erogaciones destinadas a los capítulos de gasto corriente (1000, 2000, 3000), salvo que los mismos estén considerados en el expediente técnico de la obra o programa.
+Los recursos asignados al capítulo de gasto de inversión no son objeto de reducción para complementar erogaciones destinadas al capítulo de gasto corriente en los subcapítulos (1000, 2000, 3000), salvo que los mismos estén considerados en el expediente técnico de la obra o programa.
 
 ### Capítulo II. De las Modificaciones al Presupuesto
 
@@ -163,19 +183,27 @@ Los recursos asignados a gasto de inversión no son objeto de reducción para co
 
 La Secretaría podrá autorizar ampliaciones líquidas hasta por el monto que el ejecutor del gasto solicitante, respalde con el recibo oficial por concepto de ingresos propios, según lo preceptuado en el artículo 6° de la Ley de Presupuesto, asignando el recurso mediante un número de obra.
 
-En la adecuación presupuestal del gasto de inversión, la Secretaría considerará reducciones en un programa, siempre y cuando se beneficie otro de mayor impacto social, aún y cuando su aplicación no corresponda al mismo ejecutor del gasto.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
-La Secretaría podrá determinar la procedencia de la adecuación presupuestal del gasto de inversión en primera instancia, y su acuerdo será validado por la Comisión.
+En la adecuación presupuestal del capítulo de gasto de inversión, la Secretaría considerará reducciones en un programa siempre y cuando se beneficie otro de mayor beneficio social, aún y cuando su aplicación no corresponda al mismo ejecutor del gasto.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+La Secretaría podrá determinar la procedencia de la adecuación presupuestal del capítulo de gasto de inversión en primera instancia, y su acuerdo será validado por la Comisión.
 
 La Comisión analizará y será la instancia para autorizar la aplicación de los ingresos adicionales, en los términos que para el efecto señala la Ley de Presupuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 17.
 
-La Comisión analizará disponer de los saldos de los capítulos de gasto de operación y programas que no estuvieren agotados, ni comprometidos, a efecto de transferirlos para atender los ejes estratégicos del Plan Estatal de Desarrollo 2003 - 2009 y su actualización.
+La Comisión analizará disponer de los saldos del capítulo de gasto corriente y programas que no estuvieren agotados, ni comprometidos, a efecto de transferirlos para atender los ejes estratégicos del Plan Estatal de Desarrollo 2003-2009 y su actualización.
 
 En el caso de que los ajustes al Presupuesto afecten naturalezas de gasto cuyo presupuesto esté comprometido mediante contrato, o se trate de gastos efectuados con documentación comprobatoria en tránsito, el ejecutor del gasto, después de aplicado el ajuste, cuenta con diez días naturales para solicitar el reintegro de los recursos a la Secretaría de Finanzas, anexando como soporte las copias simples de los documentos que prueban que los recursos están comprometidos; en ningún caso será viable el reintegro presupuestal por periodos, importes y a naturalezas de gasto distintas a las que fueron objeto de ajuste.
 
-No serán materia de ajuste presupuestal, las naturalezas de gasto que de manera consensuada determinen como irreductibles la Secretaria, la Oficialía, y la Contraloría, en el seno de la Comisión.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+No serán materia de ajuste presupuestal, las naturalezas de gasto que de manera consensuada determinen como irreductibles, la Secretaría, la Oficialía Mayor, y la Contraloría.
 
 ### Capítulo III. De los Servicios Personales
 
@@ -211,9 +239,11 @@ Por lo que respecta al Fondo para el Desarrollo Turístico, así como al Fondo E
 
 ### Capítulo Único. De la Evaluación y Seguimiento del Presupuesto
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 22.
 
-En la Cuenta Pública se incorporará un capitulo especial en el que informará, de manera analítica, sobre las transferencias y subsidios ejercidos durante el periodo, y podrá incluir proyecciones a futuro. Lo anterior aplicará en relación con las transferencias distintas a las contenidas en el capítulo 4000 del Presupuesto autorizado para el ejercicio, de conformidad con el clasificador por objeto del gasto.
+En la Cuenta Pública se incorporará un capítulo especial en el que informará, de manera analítica, sobre las transferencias y subsidios ejercidos durante el periodo, y podrá incluir proyecciones a futuro. Lo anterior aplicará en relación con las transferencias distintas a las contenidas en el subcapítulo 4000 del Presupuesto autorizado para el ejercicio, de conformidad con el clasificador por objeto del gasto.
 
 ###### ARTICULO 23.
 
@@ -249,4 +279,12 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. VER ANEXOS EN EL P.O. DE 18 DE DICIEMBRE DE 2008, PAGINAS DE LA 11 A LA 58.</small>
+> <small>N. DE E. VER ANEXOS I A IV MODIFICADOS A LA LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSI, 2009 EN EL P.O. DE 15 DE SEPTIEMBRE DE 2009, PAGINAS DE LA 6 A LA 48.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las demás disposiciones que se opongan al presente Decreto.
