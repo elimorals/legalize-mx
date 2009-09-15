@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-571-de-instituciones-y-procedimientos-58784"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 571 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 1 de enero de 2008.
 
@@ -5323,13 +5323,15 @@ j) Durante la Primera semana de Septiembre se efectuará la publicación de la l
 
 k) La elección de Ayuntamientos y Diputados se llevará a cabo el primer domingo de Octubre de 2008.
 
-DÉCIMO NOVENO.- En la elección de Ayuntamientos y Diputados a celebrarse en el año de 2008 y 2012, los partidos políticos o coaliciones ejercerán las prerrogativas en radio y televisión propiedad de Gobierno del Estado en los términos previstos por los artículos 45 incisos c) y d) y 46-Bis inciso b) del Código Electoral que se abroga.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUM. 118, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2009, EL TRANSITORIO VIGESIMO PASA A SER EL ACTUAL TRANSITORIO.</small>
 
-VIGÉSIMO.- El proceso electoral de Gobernador de 2011, se llevará a cabo en las siguientes fechas y plazos:
+DÉCIMO NOVENO.- El proceso electoral de Gobernador de 2011, se llevará a cabo en las siguientes fechas y plazos:
 
 a) El 15 de Mayo de 2010 iniciará el proceso electoral de Gobernador.
 
-b) En el mes de mayo se designaran al Presidente y a los consejeros electorales de los Consejos Distritales.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+b) En el mes de mayo se designaran al Presidente y a los Consejeros Electorales de los Consejos Distritales.
 
 c) En el mes de Junio se Instalaran los Consejos Distritales.
 
@@ -5341,13 +5343,27 @@ f) Del 15 al 30 de Octubre se registraran los candidatos a Gobernador ante el Co
 
 g) En el mes de Noviembre se realizarán los recorridos por las secciones electorales para la ubicación de las casillas electorales.
 
-h) En Segunda semana de Diciembre se llevará acabo (sic) la aprobación de la lista de ubicación de casillas.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
-i) En la primera semana de Enero se llevará acabo (sic) publicación de la lista de ubicación e integración de las mesas directivas de casilla.
+h) En Segunda semana de Diciembre se llevará a cabo la aprobación de la lista de ubicación de casillas.
 
-j) La elección de Gobernador se llevará a cabo el primer domingo de Febrero de 2011.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
-VIGÉSIMO PRIMERO.- En la elección de Gobernador a celebrarse en el año 2011, los partidos políticos o coaliciones ejercerán las prerrogativas en radio y televisión propiedad de Gobierno del Estado en los términos previstos por los artículos 45 incisos c) y d) y 46-Bis inciso a) del Código Electoral que se abroga.
+i) En la primera semana de Enero se llevará a cabo la publicación de la lista de ubicación e integración de las mesas directivas de casilla.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+j) Por única ocasión, la jornada electoral para elegir al Gobernador del Estado de Guerrero se realizará el día domingo 30 de enero de 2011.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+VIGÉSIMO.- Con objeto de lograr la plena concurrencia de la jornada electoral de los procesos electorales estatales y federales, y garantizar que se realice el primer domingo de julio de 2015, el Gobernador del Estado de Guerrero que resulte electo el domingo 30 de enero de 2011 durará en el ejercicio del encargo del 1 de abril de 2011 al 26 de octubre de 2015.
+
+Las elecciones ordinarias para elegir Gobernador del Estado de Guerrero, en términos de lo dispuesto por el artículo 24 de esta Ley, se celebrarán el primer domingo de julio de 2015.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+VIGÉSIMO PRIMERO.- El Instituto Electoral del Estado de Guerrero ajustará el calendario electoral para la próxima elección de Gobernador del Estado de Guerrero, para lo cual observará lo dispuesto en el artículo Décimo Noveno transitorio de esta Ley, y en las disposiciones constitucionales y legales aplicables, garantizando el desarrollo oportuno de los actos comprendidos dentro de cada una de las etapas del proceso electoral.
 
 VIGÉSIMO SEGUNDO.- El porcentaje de votación para que los partidos políticos conserven su registro será del 2% de la votación estatal emitida en cualesquiera de las elecciones que se celebren en el proceso electoral del año 2008; del 2.5% para el proceso electoral a celebrarse en el año 2011 y del 3% a partir del proceso electoral a celebrarse en el año 2012.
 
@@ -5400,3 +5416,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. ARMANDO CHAVARRÍA BARRERA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
