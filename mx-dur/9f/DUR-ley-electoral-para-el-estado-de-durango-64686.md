@@ -4,7 +4,7 @@ identifier: "DUR-ley-electoral-para-el-estado-de-durango-64686"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2009-06-18"
+last_updated: "2009-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "DUR"
 
 LEY ELECTORAL PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
-Con fecha 05 de Noviembre de 2008, los CC. Diputados integrantes del Grupo parlamentario el Partido Revolucionario Institucional de esta H. LXIV Legislatura, presentaron Iniciativa de Decreto que contiene la Ley Electoral para el Estado de Durango; de igual manera con fecha 13 de Noviembre de 2007, los CC. Diputados integrantes del Grupo Parlamentario del Partido Acción Nacional, de la LXIV Legislatura, presentaron Iniciativa de Decreto que contiene reforma a los artículos 31, 93, 94, 95 bis, 114, 116, 187a, 204, 206, y 207 del Código Estatal Electoral; mismas que fueron turnadas a la Comisión de Gobernación integrada por los CC. Diputados: Ernesto Abel Alanis Herrera, Claudia Ernestina Hernández Espino, Juan José Cruz Martínez, Fernando Ulises Adame de León y René Carreón Gómez, Presidente, Secretario y Vocales respectivamente, mismos que emitieron su dictamen favorable en base a los siguientes:
+Con fecha 05 de Noviembre de 2008, los CC. Diputados integrantes del Grupo parlamentario el Partido Revolucionario Institucional de esta H. LXIV Legislatura, presentaron Iniciativa de Decreto que contiene la Ley Electoral para el Estado de Durango; de igual manera con fecha 13 de Noviembre de 2007, los CC. Diputados integrantes del Grupo Parlamentario del Partido Acción Nacional, de la LXIV Legislatura, presentaron Iniciativa de Decreto que contiene reforma a los artículos 31, 93, 94, 95 bis, 114, 116, 187 a, 204, 206, y 207 del Código Estatal Electoral; mismas que fueron turnadas a la Comisión de Gobernación integrada por los CC. Diputados: Ernesto Abel Alanis Herrera, Claudia Ernestina Hernández Espino, Juan José Cruz Martínez, Fernando Ulises Adame de León y René Carreón Gómez, Presidente, Secretario y Vocales respectivamente, mismos que emitieron su dictamen favorable en base a los siguientes:
 
 CONSIDERANDOS
 
@@ -2905,7 +2905,7 @@ IV. Precandidato: es el ciudadano que pretende ser postulado por un partido pol�
 
 ### CAPÍTULO I. DE LAS PRECAMPAÑAS
 
-> <small>N. DE E. EN EL P.O. DE 16 DE NOVIEMBRE DE 2008 ESTE ARTÍCULO SE PUBLICÓ EN LAS PÁGINAS 143 Y SU CONTINUACIÓN EN LA 142.</small>
+> <small>N. DE E. EN EL P.O. DE 16 DE NOVIEMBRE DE 2008 ESTE ARTÍCULO SE PUBLICO EN LAS PÁGINAS 143 Y SU CONTINUACIÓN EN LA 142.</small>
 
 ARTICULO 196
 
@@ -3235,7 +3235,9 @@ I. Para la elección de Gobernador del Estado, el Consejo Estatal, previo al ini
 
 a) El número de ciudadanos inscritos en el padrón electoral al treinta y uno de diciembre del año anterior al de la elección;
 
-b) El setenta por ciento del salario mínimo general vigente en la capital del Estado para el año de la elección;
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
+
+b) El treinta por ciento del salario mínimo general vigente en la capital del Estado para el año de la elección;
 
 Ambas cantidades se multiplicarán y el resultado será el tope de campaña.
 
@@ -5093,7 +5095,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. OLIVERIO REZA CUELLAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE JUNIO DE 2009.
 
@@ -5104,3 +5106,9 @@ SEGUNDO.- Si de la aplicación de las bases para el financiamiento público de l
 TERCERO.- El Titular del Poder Ejecutivo, a efecto de proveer lo necesario para la distribución del financiamiento público a los partidos políticos, según la fórmula y reglas previstas en el presente decreto, deberá efectuar las reasignaciones y transferencias presupuestales en la Ley de Egresos del Estado de Durango (sic) Libre y Soberano de Durango para el Ejercicio Fiscal 2009.
 
 CUARTO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente.
+
+P.O. 15 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente decreto.
