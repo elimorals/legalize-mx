@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-documentacion-para-el-estado-de-morelos-6600"
 country: "mx"
 rank: "ley_general"
 publication_date: "1995-12-06"
-last_updated: "2002-07-31"
+last_updated: "2009-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY GENERAL DE DOCUMENTACION PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ESTATAL DE DOCUMENTACION Y ARCHIVOS DE MORELOS, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de diciembre de 1995.
 
@@ -558,3 +560,23 @@ P.O. 31 DE JULIO DE 2002.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 16 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley General de Documentación para el Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", el 6 de diciembre de 1995.
+
+TERCERO.- Por lo que se refiere al Instituto Estatal de Documentación, y los derechos laborales de los trabajadores del Instituto Estatal de Documentación se conservan en el estado en que se encontraban, rigiéndose por la Ley del Servicio Civil del Estado de Morelos.
+
+CUARTO.- El Ejecutivo del Estado dispondrá de un plazo de ciento veinte días naturales, contados a partir de la fecha en que entre en vigor esta Ley, para publicar el Reglamento Interior del Instituto Estatal de Documentación.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+SEXTO.- El Instituto Morelense de Información Pública y Estadística del Estado de Morelos y el Instituto Estatal de Documentación, expedirán los lineamientos, normas o disposiciones administrativas que correspondan en un plazo no mayor de 60 días hábiles.
+
+Hasta en tanto no se expidan los lineamientos, normas o disposiciones administrativas a que se refiere la presente ley, quedan vigentes los que aparecen publicados en el Periódico Oficial 4671, de fecha 31 de diciembre, como la designación de los titulares de las áreas coordinadoras de archivo que ya hubiesen sido designados, y las demás disposiciones administrativas aplicables.
+
+SÉPTIMO.- Las designaciones de los titulares de los archivos de las dependencias y entidades a que se refiere esta Ley, deberán notificarse al Instituto Estatal de Documentación y al Instituto Morelense de Información Pública y Estadística del Estado de Morelos, según sea el caso, a más tardar 30 días hábiles posteriores a la publicación de la presente Ley.
+
+OCTAVO.- Remítase al Ejecutivo del Estado para los efectos legales correspondientes.
