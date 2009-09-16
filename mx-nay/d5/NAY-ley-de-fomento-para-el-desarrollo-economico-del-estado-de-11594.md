@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-para-el-desarrollo-economico-del-estado-de-11594
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-10"
-last_updated: "2002-09-28"
+last_updated: "2009-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 10 de diciembre de 1997.
 
@@ -390,3 +392,25 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Se abroga la Ley de Fomento para el Desarrollo Económico del Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, el 10 de diciembre de 1997.
+
+Artículo Tercero.- Los Apoyos contenidos en esta Ley no tendrán carácter retroactivo a la aplicación de la misma.
+
+Artículo Cuarto.- El Reglamento de la presente Ley deberá expedirse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor de este ordenamiento. Mientras se expide dicho reglamento continuará aplicándose el reglamento de la ley que se abroga, en tanto no se oponga a la presente.
+
+Dentro del mismo plazo, los ayuntamientos deberán adecuar la reglamentación correspondiente para el debido cumplimiento de la presente ley dentro del ámbito municipal.
+
+Artículo Quinto.- El Acuerdo que establezca los sectores y actividades económicas prioritarias de la economía estatal se expedirá por parte del Ejecutivo Estatal y los Ayuntamientos en un plazo máximo de sesenta días contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Sexto.- El Consejo Estatal de Mejora Regulatoria, se instalará en un plazo de sesenta días a partir de la entrada en vigor de la presente Ley.
+
+Artículo Séptimo.- Para lo dispuesto en el primer párrafo del artículo 53 de la presente ley, la gradualidad en las asignaciones deberán sujetarse a los siguientes plazos y porcentajes:
+
+I. Dentro del plazo de dos años contados a partir de la entrada en vigor de la presente ley, deberán destinar cuando menos el 10 %; y
+
+II. Concluido el plazo a que se refiere la fracción anterior, la Secretaría revisará la gradualidad de referencia para que en los siguientes tres años se alcance el porcentaje del 35%.
