@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interno-del-sistema-para-el-desarrollo-integral-6142
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-30"
-last_updated: "2008-05-30"
+last_updated: "2009-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 30 de mayo de 2008.
 
@@ -87,29 +87,43 @@ La vigilancia de la operación del Sistema quedará a cargo de un Comisario, cuy
 
 El Sistema para el cumplimiento de sus funciones, contará con las unidades administrativas siguientes:
 
-I. Direcciones de Área;
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-II. Coordinaciones;
+I. Subdirección General;
 
-III. Subdirecciones;
+II. Direcciones de Área;
 
-IV. Jefaturas de Departamento, y
+III. Coordinaciones;
 
-V. Comités Especiales.
+IV. Subdirecciones;
+
+V. Jefaturas de Departamento, y
+
+VI. Comités Especiales.
 
 Además de las anteriores contará con las unidades técnicas y de administración aprobadas, modificadas o ratificadas por la Junta de Gobierno, acorde con su presupuesto de egresos, quienes ejercerán sus funciones y atribuciones de conformidad con las disposiciones jurídicas aplicables, ajustándose a los lineamientos, normas y políticas internas que fije la persona titular de la Dirección General y a las que en su caso establezca la Administración Pública Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 7.
 
-Para la atención de los asuntos que le competen, la Dirección General contará con las unidades administrativas siguientes:
+Para la atención de los asuntos que le competen, la Dirección General del Sistema contará con las unidades administrativas siguientes:
 
-I. Dirección de Asistencia Social y Rehabilitación;
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-II. Dirección de Fortalecimiento Familiar y Desarrollo Comunitario;
+I. Subdirección General;
 
-III. Procuraduría de la Defensa del Menor y la Familia, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-IV. Dirección de Administración y Finanzas.
+II. Dirección de Desarrollo Integral Familiar y Asistencia Social;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+III. Dirección de Sistemas Alimentarios y Nutrición;
+
+IV. Procuraduría de la Defensa del Menor y la Familia, y
+
+V. Dirección de Administración y Finanzas.
 
 ###### Artículo 8.
 
@@ -193,7 +207,9 @@ El Presidente o Presidenta será la máxima autoridad del Sistema y tendrá las 
 
 El Presidente o Presidenta tendrá la representación del Sistema, por lo que será quien acudirá a los eventos internacionales, nacionales y estatales con la representación oficial, siendo portavoz de los derechos y necesidades de los grupos vulnerables.
 
-### CAPÍTULO QUINTO. DE LA PERSONA TITULAR DE LA DIRECCIÓN GENERAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL Y LA SUBDIRECCIÓN GENERAL
 
 ###### Artículo 22.
 
@@ -205,19 +221,27 @@ II. Representar al Sistema en las actividades de coordinación y concertación c
 
 III. Establecer, dirigir y controlar las políticas del Sistema, estableciendo mecanismos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles, aplicando las medidas adecuadas a efecto de que las funciones que tiene encomendadas, se realicen de manera organizada, congruente, eficaz y eficiente;
 
-IV. Difundir los criterios de interpretación y de aplicación de las disposiciones jurídicas competencia del Sistema;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Establecer los lineamientos para la difusión de los criterios de interpretación y de aplicación de las disposiciones jurídicas competencia del Sistema;
 
 V. Expedir copias certificadas de aquellos documentos y constancias existentes en los archivos del Sistema, cuando deban ser exhibidas ante las autoridades judiciales, administrativas o de trabajo, y en general, ante cualquier autoridad;
 
-VI. Vigilar el funcionamiento de las asociaciones civiles, que presten servicios de asistencia social, con la finalidad de verificar el cumplimiento de sus objetivos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Coordinarse con las asociaciones civiles que presten servicios de asistencia social;
 
 VII. Expedir autorizaciones, constancias y permisos en la materia de su competencia y de conformidad con las disposiciones jurídicas aplicables;
 
 VIII. Ordenar que se elabore el Proyecto Estratégico de Desarrollo del Sistema, así como su actualización periódica, sometiéndolo a la aprobación de fa Junta de Gobierno; proyecto que deberá contener, la política general y las políticas particulares en materia de Asistencia Social;
 
-IX. Supervisar la Ejecución del Proyecto Estratégico de Desarrollo, aprobado por la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-X. Coordinar las actividades técnicas, administrativas y financieras del Sistema, para lograr una mayor eficiencia, eficacia y economía;
+IX. Planear la ejecución del Proyecto Estratégico de Desarrollo, aprobado por la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+X. Coordinar las actividades técnicas, administrativas y financieras del Sistema;
 
 XI. Autorizar las erogaciones generales del presupuesto anual y someter a la aprobación de la Junta de Gobierno las erogaciones extraordinarias;
 
@@ -241,13 +265,19 @@ XX. Vigilar la adecuada aplicación en tiempo y forma de los fondos federales y 
 
 XXI. Promover la participación de la sociedad en los programas de asistencia social, con la finalidad de que coadyuven en el cumplimiento de los objetivos de los programas;
 
-XXII. Promover y coordinar la conformación y funciones de los voluntariados, con la finalidad de que desarrollen sus labores conforme a los objetivos del Sistema;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-XXIII. Atraer y solicitar donaciones y apoyos procedentes de la iniciativa privada para beneficio de los programas del Sistema;
+XXII. Promover la confirmación de los voluntariados;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXIII. Atraer y solicitar donaciones procedentes para beneficio de los Programas y Operaciones del Sistema;
 
 XXIV. Promover la corresponsabilidad ciudadana en actividades de Asistencia Social;
 
-XXV. Coordinar y supervisar las acciones de comunicación interna y externa del Sistema;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXV. Emitir las políticas de comunicación interna y externa del Sistema;
 
 XXVI. Proponer métodos de difusión para lograr la proyección del Sistema;
 
@@ -258,6 +288,30 @@ XXVIII. Proponer para su autorización a la Junta de Gobierno, previo acuerdo co
 XXIX. Autorizar la inscripción de las instituciones de asistencia privada en el directorio Estatal e informarle a la Junta de Gobierno, y
 
 XXX. Las demás que le sean encomendadas por la Junta de Gobierno, la Presidencia y demás disposiciones jurídicas aplicables, así como las que adquiera por delegación o suplencia.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 22 Bis.
+
+Corresponde a la Subdirección General, el ejercicio de las siguientes atribuciones específicas:
+
+I. Apoyar a todas las Direcciones de Área en la difusión de los criterios de interpretación y de aplicación de las disposiciones jurídicas competencia del Sistema;
+
+II. Vigilar el funcionamiento de las asociaciones civiles que presten servicios de asistencia social, con la finalidad de verificar el cumplimiento de sus objetivos;
+
+III. Supervisar la ejecución del proyecto estratégico de desarrollo, aprobado por la Junta de Gobierno;
+
+IV. Supervisar la eficiencia, eficacia y economía de las actividades técnicas, administrativas y financieras del Sistema;
+
+V. Coordinar las funciones de los voluntariados, con la finalidad de que desarrollen las labores conforme a los objetivos del Sistema;
+
+VI. Planear y proponer al Director General los posibles donadores;
+
+VII. Implementar las políticas de comunicación interna y externa del Sistema;
+
+VIII. Atender los asuntos que le sean conferidos por el Director General, así como las atribuciones genéricas establecidas por el artículo 24 de esta (si) Reglamento, con excepción de las fracciones XV y XVI, y
+
+IX. Las demás que le sean encomendadas por la Junta de Gobierno, la Presidencia y demás disposiciones jurídicas aplicables, así como las que adquiera por delegación o suplencia.
 
 ### CAPÍTULO SEXTO. DE LAS ATRIBUCIONES GENÉRICAS DE LAS PERSONAS TITULARES DE LAS DIRECCIONES DE ÁREA
 
@@ -331,9 +385,11 @@ XXX. Las demás que le confiera la persona titular de la Dirección General y la
 
 ### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS PERSONAS TITULARES DE LAS DIRECCIONES DE ÁREA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 25.
 
-Corresponde a la Dirección de Asistencia Social y Rehabilitación, el ejercicio de las siguientes atribuciones específicas:
+Corresponde a la Dirección de Desarrollo Integral Familiar y Asistencia Social, el ejercicio de las siguientes atribuciones específicas:
 
 I. Planear, programar, organizar, dirigir, coordinar ejecutar y evaluar los proyectos y programas en materia de asistencia social y de rehabilitación que tenga a su cargo;
 
@@ -341,15 +397,17 @@ II. Formular proyectos de prevención, detección, atención y tratamiento a fav
 
 III. Promover acciones enfocadas al desarrollo de personas con discapacidad, que por sus carencias socioeconómicas no puedan desarrollarse en el medio en que habiten, o que sean receptoras de violencia;
 
-IV. Ejecutar y vigilar las acciones necesarias para apoyar los programas dirigidos a la atención de población en riesgo de desnutrición, de menores en situación de desamparo, adultos mayores, mujeres en situación de violencia, población en riesgo de contingencia, y atención psicosocial de victimas de violencia familiar, y de personas con discapacidad en coordinación con la dependencia correspondiente;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Ejecutar y vigilar las acciones necesarias para apoyar los programas dirigidos a la población en riesgo de contingencia y atención psicosocial de víctimas de violencia familiar, adultos mayores, mujeres en situación de violencia y de personas con discapacidad en coordinación con la dependencia correspondiente;
 
 V. Supervisar la operación eficiente de los Centros Asistenciales que tenga á su cargo, así como los de rehabilitación e integración, y de las unidades básicas de rehabilitación, vigilando el respeto a los derechos humanos y el sustento de los sujetos albergados;
 
-VI. Promover acciones y programas que tiendan a elevar los niveles nutricionales de la población vulnerable, en localidades rurales y urbanas marginadas del Estado;
+VI. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2009)
 
-VII. Establecer con acuerdo de la Dirección General las políticas que en materia alimentaría rijan para todo el Estado;
+VII. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2009)
 
-VIII. Organizar, coordinar y supervisar las funciones y procedimientos en apego a la normatividad existente en materia de asistencia social, alimentaría y de nutrición en la Entidad;
+VIII. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2009)
 
 IX. Aplicar acciones y programas que ayuden a disminuir el deterioro emocional, funcional y cognitivo de los adultos mayores;
 
@@ -387,11 +445,111 @@ XXV. Promover la organización social para impulsar programas de Asistencia Soci
 
 XXVI. Coordinar con los Sistemas DIF Municipales, brigadas médicas preventivas y de rehabilitación, dirigidas a la población vulnerable, y
 
-XXVII. Las demás que le confiera la persona titular de la Dirección General, la Presidenta o Presidente del Sistema y las disposiciones legales y reglamentarias relativas.
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXVII. Promover, coordinar, supervisar y evaluar los proyectos dirigidos al fortalecimiento de la familiar;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXVIII. Llevar a cabo la operación y el desarrollo del programa modelo Morelos SUPERA;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXIX. Llevar a cabo acciones de mejora continua de los procesos del programa modelo Morelos SUPERA;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXX. Elaboración de planes estratégicos para el fortalecimiento familiar y comunitario;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXXI. Operar, coordinar y supervisar la construcción y mejoramiento de las viviendas de las familias, como espacio de desarrollo de los hogares morelenses;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXXII. Generar enlaces con instancias nacionales e internacionales, cuyo objetivo sea promover valores y principios fundamentales de la familia y el desarrollo comunitario;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXXIII. Llevar a cabo acciones de intervención para la implementación de proyectos productivos en materia ecológica, protección al medio ambiente y aprovechamiento de los recursos naturales;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXXIV. Operar, coordinar y supervisar proyectos alternativos para mejor aprovechamiento de la energía eléctrica, solar y manejo adecuado de excretas;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXXV. Generar programas, cursos de capacitación y actualización para promotores de los mismos en los treinta y tres municipios del Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXXVI. Formular proyectos de programas enfocados a la orientación y fortalecimiento familiar y comunitario, con la finalidad de captar recursos federales, estatales y de la iniciativa privada que fortalezcan las estrategias del área;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXXVII. Generar el sustento estadístico y sociodemográfico que respalde la aplicación de programas que beneficien directamente a las familias morelenses en condiciones de vulnerabilidad y marginación;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXXVIII. Establecer diplomados en orientación familiar a nivel estatal y en todos los ámbitos para profesionalizar al personal que proporciona atención a la familia;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XXXIX. Participar de forma activa en los programas implementados por otras dependencias cuyos objetivos se asemejan a los de esta Dirección;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XL. Realizar los informes de seguimiento del programa con la finalidad de evaluar los avances del mismo;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XLI. Vigilar el debido cumplimiento de la legislación federal y estatal que le competa, así como los lineamientos de carácter estatal que sean emitidos por la generación de sus proyectos;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XLII. Generar estrategias de difusión y publicación de los resultados obtenidos de los proyectos de desarrollo humano y comunitario en los municipios del Estado en coordinación con el área correspondiente;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XLIII. Promover la formación de promotores comunitarios que coadyuven el fortalecimiento de la organización y participación familiar y comunitaria;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XLIV. Realizar todo tipo de investigaciones que ayuden a conocer la dinámica y situación social de la familia en comunidades morelenses;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XLV. Establecer vínculos con autoridades Federales, Estatales y Municipales para desarrollar en el ámbito de su competencia, la política de fortalecimiento familiar y comunitario;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XLVI. Implementar estrategias de apoyo, para hacer posible el establecimiento de centros de orientación familiar en cada Municipio;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XLVII. Supervisar y evaluar los proyectos internos y externos del Sistema; tanto entidades públicas como privadas; que contengan objetivos de desarrollo familiar y comunitario;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XLVIII. Proponer el diseño, evaluación y sistematización de cédulas sociodemográficas;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+XLIX. Promover y supervisar los eventos conmemorativos de la familia que realice el Sistema;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+L. Vigilar que la información generada sea confiable sobre los datos de los sujetos beneficiados de los programas, y
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+LI. Las demás que le confiera la Dirección General, la Presidenta o Presidente del Sistema y las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 26.
 
-El Sistema, de conformidad con sus recursos presupuestales, contará con Centros de Asistencia a cargo de la Dirección de Asistencia Social y Rehabilitación, cuyas funciones y facultades serán las siguientes:
+El Sistema, de conformidad con sus recursos presupuestales, contará con Centros de Asistencia a cargo de la Procuraduría de la Defensa del Menor y la Familia, cuyas funciones y facultades serán las siguientes:
 
 I. Llevar el control de ingresos y egresos de los albergados;
 
@@ -413,59 +571,21 @@ IX. Salvaguardar en todo momento la integridad física y psicológica de los suj
 
 X. Las demás que les sean conferidas por los ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 27.
 
-Corresponden a la Dirección de Fortalecimiento Familiar y Desarrollo Comunitario, las siguientes atribuciones:
+Corresponden a la Dirección de Sistemas Alimentarios y Nutrición las siguientes atribuciones:
 
-I. Promover, coordinar, supervisar y evaluar los proyectos dirigidos al fortalecimiento de la familia y la comunidad, impulsando el desarrollo de las capacidades de organización y gestión, para el mejoramiento social de la comunidad;
+I. Ejecutar y vigilar las acciones necesarias para apoyar los programas dirigidos a la atención de población en riesgo de desnutrición;
 
-II. Llevar a cabo la operación y el desarrollo del programa modelo Morelos SUPERA;
+II. Promover acciones y programas que tiendan a elevar los niveles nutricionales de la población vulnerable, en localidades rurales y urbanas marginadas del Estado;
 
-III. Llevar a cabo acciones de mejora continua de los procesos del programa modelo Morelos SUPERA;
+III. Establecer con acuerdo de la Dirección General las políticas que en materia alimentaria rijan para todo el Estado;
 
-IV. Elaboración de planes estratégicos para el fortalecimiento familiar y comunitario;
+IV. Organizar, coordinar y supervisar las funciones y procedimientos en apego a la normatividad existente en materia alimentaria y de nutrición en la Entidad, y
 
-V. Operar, coordinar y supervisar la construcción y mejoramiento de las viviendas de las familias, como espacio de desarrollo de los hogares morelenses;
-
-VI. Generar enlaces con instancias nacionales e internacionales, cuyo objetivo sea promover valores y principios fundamentales de la familia y el desarrollo comunitario;
-
-VII. Llevar a cabo acciones de intervención para la implementación de proyectos productivos en materia de ecología, protección al medio ambiente y aprovechamiento de los recursos naturales:
-
-VIII. Operar, coordinar y supervisar proyectos alternativos para mejor aprovechamiento de la energía eléctrica, solar y manejo adecuado de excretas;
-
-IX. Generar programas, cursos de capacitación y actualización para promotores de los mismos en los treinta y tres municipios del Estado;
-
-X. Formular proyectos de programas enfocados a la orientación y fortalecimiento familiar y comunitario, con la finalidad de captar recursos federales, estatales y de la iniciativa privada que fortalezcan las estrategias del área;
-
-XI. Generar el sustento estadístico y sociodemográfico que respalde la aplicación de programas que beneficien directamente a las familias morelenses en condiciones de vulnerabilidad y marginación;
-
-XII. Establecer diplomados en orientación familiar a nivel estatal y en todos los ámbitos para profesionalizar al personal que proporciona atención a la familia;
-
-XIII. Participar de forma activa en los programas implementados por otras dependencias cuyos objetivos se asemejen a los de esta Dirección;
-
-XIV. Realizar los informes de seguimiento del programa con la finalidad de evaluar los avances del mismo;
-
-XV. Vigilar el debido cumplimiento de la legislación federal y estatal que le competa, así como los lineamientos de carácter estatal que sean emitidos por la generación de sus proyectos;
-
-XVI. Generar estrategias de difusión y publicación de los resultados obtenidos de los proyectos de desarrollo humano y comunitario en los municipios del Estado en coordinación con el área correspondiente;
-
-XVII. Promover la formación de promotores comunitarios que coadyuven al fortalecimiento de la organización y participación familiar y comunitaria;
-
-XVIII. Realizar todo tipo de investigaciones que ayuden a conocer la dinámica y situación social de la familia en comunidades morelenses;
-
-XIX. Establecer vínculos con autoridades Federales, Estatales y Municipales para desarrollar en el ámbito de su competencia, la política de fortalecimiento familiar y comunitario;
-
-XX. Implementar estrategias de apoyo, para hacer posible el establecimiento de centros de orientación familiar en cada Municipio;
-
-XXI. Supervisar y evaluar los proyectos internos y externos del Sistema; tanto de entidades públicas como privadas; que contengan objetivos de desarrollo familiar y comunitario;
-
-XXII. Proponer el diseño, evaluación y sistematización de cedulas sociodemográficas;
-
-XXIII. Promover y supervisar tos eventos conmemorativos de la familia que realice el Sistema;
-
-XXIV. Vigilar que la información generada sea confiable sobre los datos de los sujetos beneficiados de los programas, y
-
-XXV. Las demás que le confiera la persona titular de la Dirección. General, las disposiciones legales y reglamentarias aplicables.
+V. Las demás que le confiera la persona titular de la Dirección General, la Presidenta o Presidente del Sistema y las disposiciones legales reglamentarias relativas a elevar el nivel de nutrición en el Estado de la población vulnerable y de alta marginación.
 
 ###### Artículo 28.
 
@@ -659,13 +779,19 @@ Para el logro de su objeto, el Subcomité para el Control de las Adquisiciones, 
 
 I. Presidencia: La persona titular de la Dirección General del Sistema;
 
-II. Secretaría Ejecutiva: la persona representante del Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Morelos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+II. Representante del Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Morelos;
 
 III. Secretaría Técnica: La persona titular de la Dirección de Administración y Finanzas;
 
-IV. Dos Vocales: Las personas titulares de la Dirección de Asistencia Social y Rehabilitación, y de la Dirección de Fortalecimiento Familiar y Desarrollo Comunitario;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-V. Dos Asesores: Las personas titulares del órgano del Control Interno adscrito al Sistema y del área Jurídica, quienes participarán con voz pero sin voto, y
+IV. Tres Vocales: Las personas titulares de la Dirección de Sistemas Alimentarios y Nutrición, Procuraduría de la Defensa del Menor y la Familia, y la Dirección de Fortalecimiento Familiar y Asistencia Social;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+V. Dos Asesores: Los titulares del Órgano de Control Interno adscrito al Sistema y del Departamento Jurídico del Sistema, quienes participarán con voz pero sin voto, y
 
 VI. Invitados: Los que se consideren necesarios que asistan para proporcionar o aclarar la información de los asuntos a tratar, de acuerdo con las necesidades particulares del Sistema, quienes tendrán derecho a voz, pero no a voto.
 
@@ -842,3 +968,13 @@ EL SECRETARIO DE SALUD
 DR. VÍCTOR MANUEL CABALLERO SOLANO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- La Dirección General del Sistema, en el término máximo de sesenta días naturales contados a partir de la vigencia del presente Acuerdo, someterá a consideración de la Junta de Gobierno, los ajustes a la estructura orgánica del Sistema, así como los manuales administrativos.
+
+TERCERO.- La Dirección General del Sistema deberá inscribir el presente Acuerdo, dentro de los treinta días naturales siguientes a su publicación, en el Registro Público de los Organismos Auxiliares, de conformidad con lo que establece el Reglamento del Registro Público de los Organismos Descentralizados del Poder Ejecutivo del Gobierno del Estado de Morelos.
