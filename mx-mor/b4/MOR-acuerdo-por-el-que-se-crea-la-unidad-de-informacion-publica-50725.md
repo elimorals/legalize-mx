@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-por-el-que-se-crea-la-unidad-de-informacion-publica-507
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-06-07"
-last_updated: "2006-06-07"
+last_updated: "2009-09-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 ACUERDO POR EL QUE SE CREA LA UNIDAD DE INFORMACIÓN PÚBLICA DE LA AUDITORIA SUPERIOR GUBERNAMENTAL DEL CONGRESO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ACUERDO MEDIANTE EL CUAL SE EFECTÚA LA READSCRIPCIÓN DE LA UNIDAD DE INFORMACIÓN PÚBLICA Y SE MODIFICA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA AUDITORÍA SUPERIOR DE FISCALIZACIÓN DEL CONGRESO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 16 DE SEPTIEMBRE DEL 2009, EL PRESENTE ORDENAMIENTO SE DEJA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: SIN EFECTOS.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de junio de 2006.
 
@@ -104,3 +106,23 @@ EL AUDITOR SUPERIOR GUBERMANETAL (SIC)
 C.P. GERARDO CASAMATA GÓMEZ
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Se deja sin efectos el Acuerdo por el que se crea la Unidad de Información Pública de la Auditoría Superior Gubernamental del Congreso del Estado de Morelos publicado en el Periódico Oficial "Tierra y Libertad" número 4464 de fecha siete de junio de dos mil seis.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor a partir de la fecha de su firma.
+
+###### ARTÍCULO TERCERO.
+
+En términos del artículo 68 de la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO CUARTO.
+
+Las Unidades Administrativas de la Auditoría Superior de Fiscalización, dispondrán de un término de cinco días hábiles para remitir al Consejo de Información Clasificada sus respectivos catálogos de expedientes que contengan la información que deba clasificarse como reservada a fin de que se acuerde lo conducente.
