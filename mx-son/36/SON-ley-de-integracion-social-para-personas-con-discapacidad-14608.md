@@ -4,7 +4,7 @@ identifier: "SON-ley-de-integracion-social-para-personas-con-discapacidad-14608"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-12"
-last_updated: "2005-10-17"
+last_updated: "2009-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INTEGRACION SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1999.
 
@@ -125,7 +125,9 @@ VIII.- Persona con discapacidad: Todo ser humano que padece temporal o permanent
 
 IX.- Rehabilitación: El conjunto de acciones médicas, psicológicas, sociales, educativos y ocupacionales que tienen por objeto que las personas con discapacidad puedan obtener su máximo grado de recuperación a fin de realizar actividades que les permitan integrarse a la vida social y productiva;
 
-X.- Equiparación de oportunidades: Proceso mediante el cual el ambiente físico, la vivienda, el transporte, los servicios sociales y sanitarios, la educación, la capacitación, el empleo, la vida cultural y social, incluyendo todas las instalaciones deportivas y de recreo se hacen accesibles para todos;
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2009)</small>
+
+X.- Equiparación o igualdad de oportunidades: Proceso de adecuaciones y mejoras constantes en el ámbito jurídico, político, social y cultural y de bienes y servicios, mediante el cual las personas con discapacidad logren una integración comunitaria, y convivencia armónica y mejores niveles de competitividad en la sociedad;
 
 XI.- Ayudas técnicas: Aquellos dispositivos tecnológicos que contribuyen a la movilidad, comunicación y vida cotidiana de las personas con discapacidad;
 
@@ -143,9 +145,7 @@ XV.- Organizaciones de y para personas con discapacidad: Todas aquellas figuras 
 
 XVI.- Programa estatal: El programa estatal para el bienestar y la incorporación al desarrollo integral de las personas con discapacidad;
 
-> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
-
-XVII.- Igualdad de oportunidades: Proceso mediante el cual la información, la vivienda, el transporte, los servicios de salud y sanitarios, la educación, la capacitación, el empleo, las instalaciones deportivas y de recreo y, en general, la vida cultural y la infraestructura social se hacen accesibles para todos;
+XVII.- (DEROGADA, B.O. 17 DE SEPTIEMBRE DE 2009)
 
 > <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
 
@@ -247,7 +247,9 @@ II.- Igualdad de oportunidades laborales, considerando su perfil manual, técnic
 
 III.- Desplazarse libremente en los espacios públicos, abierto o cerrados; así como tener las facilidades necesarias de acceso y desplazamiento en el interior de espacios laborales, comerciales y recreativos;
 
-IV.- Igualdad en el uso de los servicios públicos, quedando para su uso exclusivo los cajones especiales de estacionamiento;
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2009)</small>
+
+IV.- Contar con cajones de estacionamiento exclusivos cercanos a los accesos principales, tanto en dependencias públicas, privadas, centros comerciales y en domicilios particulares de personas con discapacidad que lo ameriten;
 
 V.- Asociarse con la finalidad de contribuir a su óptima integración;
 
@@ -307,9 +309,15 @@ IX.- La promoción y difusión de la cultura de la discapacidad con el objeto de
 
 X.- Impulsar en las escuelas de educación especial para sordos, la implementación de programas de oralización y el modelo educativo bilingüe para los mismos.
 
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 8o.
 
 Sin perjuicio de los derechos que consagran la Constitución Política de los Estados Unidos Mexicanos y otras disposiciones legales, la Secretaría y los Ayuntamientos, directamente o a través del organismo y organismos municipales respectivamente, impulsarán con las autoridades competentes la promoción y defensa de los derechos de las personas con discapacidad.
+
+Los poderes Ejecutivo, Legislativo y Judicial, promoverán que se cumplan los compromisos contenidos en la Convención sobre los Derechos de las Personas con Discapacidad.
+
+Dentro del marco de los derechos fundamentales y los comprometidos en los convenios internacionales, se garantizará el ejercicio pleno de los derechos de las personas con discapacidad a participar en la vida política y pública del Estado.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -665,9 +673,17 @@ V.- Apoyar a los centros educativos con material didáctico acorde a las necesid
 
 VI.- Formar, capacitar, actualizar y evaluar al personal docente y de apoyo que atiende a menores con discapacidad;
 
-VII.- Garantizar que las bibliotecas públicas a su cargo cuenten con áreas adecuadas y equipamiento apropiado para las personas con discapacidad; y
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2009)</small>
 
-VIII.- Celebrar convenios con toda clase de instituciones con el objeto de apoyar el proceso educativo.
+VII.- Garantizar que las bibliotecas públicas a su cargo cuenten con áreas adecuadas y equipamiento apropiado para las personas con discapacidad;
+
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 2009)</small>
+
+VIII.- Celebrar convenios con toda clase de instituciones con el objeto de apoyar el proceso educativo; y
+
+> <small>(ADICIONADA, B.O. 17 DE SEPTIEMBRE DE 2009)</small>
+
+IX.- Promover la difusión del lenguaje de señas mexicano para que sea incorporado a mayor número de personas; asimismo, desarrollar programas para la capacitación, formación y certificación de intérpretes de señas.
 
 ###### ARTÍCULO 43.
 
@@ -687,11 +703,11 @@ Cuando dentro del sistema educativo regular se detecte la presencia de menores c
 
 Las escuelas de educación especial deberán contar con el material didáctico, equipo e infraestructura para una mayor y eficiente atención a las personas con necesidades de educación especial. Asimismo, las escuelas de educación regular, desde preescolar, educación básica y superior contarán con infraestructura tecnológica y materiales necesarios para un óptimo desarrollo académico.
 
-> <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 47.
 
-La Secretaría de Educación y Cultura proveerá y creará infraestructura, espacios y mobiliario acordes a las necesidades de la población con discapacidad en sus planteles y promoverá lo correspondiente ante los niveles de educación media superior y superior, especialmente cuando se trate de bibliotecas, salones de clase, baños y espacios deportivos, involucrando para ello a alumnos, sociedades de padres de familia, organismos no lucrativos de la sociedad civil y demás interesados en dicha causa.
+La Secretaría de Educación y Cultura proveerá y creará infraestructura, espacios y mobiliario en sus planteles, acordes a las necesidades de la población con discapacidad y promoverá lo correspondiente ante los niveles de educación media superior y superior, especialmente cuando se trate de bibliotecas, salones de clase, baños y espacios deportivos, involucrando para ello a alumnos, sociedades de padres de familia, organismos no lucrativos de la sociedad civil y demás interesados en dicha causa.
 
 ###### ARTÍCULO 48.
 
@@ -987,6 +1003,10 @@ I.- En las zonas comerciales y zona centro de las ciudades, así como en todos l
 
 II.- Los cajones especiales de estacionamiento que se destinen a personas con discapacidad, deberán ubicarse lo más cerca posible a las entradas y salidas principales y contar con una rampa, en caso de ser necesaria. Los cajones especiales deberán tener la anchura suficiente para que la persona que utilice silla con ruedas, pueda bajar del vehículo con facilidad.
 
+> <small>(ADICIONADO, B.O. 17 DE SEPTIEMBRE DE 2009)</small>
+
+ARTÍCULO 89 BIS.- Los ayuntamientos podrán otorgar permisos para estacionamientos exclusivos a favor de personas con discapacidad ubicados de manera adyacente a su domicilio particular, los cuales se distinguirán con guarniciones pintadas de color azul.
+
 > <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### ARTÍCULO 90.
@@ -1230,5 +1250,11 @@ POR TANTO, mando se publique en el Boletín Oficial del Estado y se le de el deb
 B.O. 17 DE OCTUBRE DE 2005.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 17 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
