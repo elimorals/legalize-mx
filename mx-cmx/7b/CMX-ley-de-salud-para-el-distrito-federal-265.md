@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "2008-10-22"
+last_updated: "2009-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE OCTUBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE SALUD DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 17 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987.
 
@@ -2003,3 +2005,27 @@ Tercero.- El Consejo de Trasplantes del Distrito Federal deberá ser instalado 6
 Cuarto.- La Asamblea Legislativa del Distrito Federal dispondrá las medidas presupuestales necesarias para la correcta instalación y funcionamiento del Centro de Trasplantes del Distrito Federal en los Presupuestos de Egresos del Distrito Federal de 2008 y sucesivos, entre los cuales, se asignarán recursos para la realización de campañas permanentes para la creación y fomento de una cultura de donación de órganos y tejidos.
 
 Quinto.- Las presentes reformas derogan en lo conducente y aplicable lo establecido en el artículo Séptimo Transitorio del Decreto de creación de la Ley de Voluntad Anticipada para el Distrito Federal, en relación con las facultades en materia de donación de órganos y tejidos.
+
+G.O. 17 DE SEPTIEMBRE DE 2009.
+
+Primero.- Esta Ley entrará en vigor un día después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+Tercero.- Se abroga la Ley de Salud para el Distrito Federal publicada en el Diario Oficial de la Federación el día 15 de enero de 1987.
+
+Cuarto.- Se derogan todas las disposiciones legales que se opongan a las de la presente Ley.
+
+Quinto.- En tanto se expidan las disposiciones reglamentarias y administrativas derivadas de esta Ley, seguirán en vigor las que rigen actualmente, en lo que no la contravengan, y sus referencias a la Ley de Salud para el Distrito Federal que se deroga, se entienden hechas en lo aplicable a la presente Ley.
+
+Sexto.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de la Ley de Salud para el Distrito Federal que se deroga, se tramitarán y resolverán conforme a las disposiciones de la citada Ley.
+
+Séptimo.- El Jefe de Gobierno contará con un plazo de 180 días para la publicación en la Gaceta Oficial del Distrito Federal de las adecuaciones, actualización y nuevas disposiciones reglamentarias, que establece la presente Ley.
+
+Octavo.- El Jefe de Gobierno contará con un plazo de 60 días para la publicación del Reglamento de la Agencia de Protección Sanitaria del Distrito Federal en la Gaceta Oficial del Distrito Federal.
+
+Noveno.- La Asamblea Legislativa del Distrito Federal proveerá en los Presupuestos de Egresos del Distrito Federal para 2010 y los años subsecuentes, los recursos necesarios para la creación y funcionamiento de los órganos desconcentrados, así como para la operación de los programas institucionales previstos en cumplimiento de la presente Ley.
+
+Décimo.- El Jefe de Gobierno, por conducto de la Secretaría de Salud, de la Secretaría de Finanzas, de la Oficialía Mayor y de la Contraloría General, todas del Distrito Federal, deberán proveer en la esfera administrativa las adecuaciones y movimientos en materia de recursos humanos, financieros, materiales y de servicios generales, para el funcionamiento de la Agencia de Protección Sanitaria del Distrito Federal.
+
+Undécimo.- La Secretaría deberá crear un programa prioritario que garantice la detección y control de riesgos sanitarios en el Distrito Federal, de conformidad a los términos establecidos en la presente Ley.
