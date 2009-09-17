@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-53-2006-del-pleno-del-consejo-de-al-51224"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-08-11"
-last_updated: "2006-08-11"
+last_updated: "2009-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51224&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-10"
 
 ACUERDO GENERAL 53/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS LINEAMIENTOS PARA EL ARRENDAMIENTO Y ADQUISICION DE INMUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2009.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 11 de agosto de 2006.
 
@@ -471,9 +471,13 @@ IV. Que se obligue a la devolución cuando sea requerido para ello, o cuando dej
 
 V. Que en ningún caso, se trate de servidores públicos del Poder Judicial de la Federación.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 41/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 38.
 
-Instancias competentes. Corresponderá a la Comisión de Administración otorgar las autorizaciones para la asignación de espacios, quien velará que con su otorgamiento no se afecte el interés público, ni del Poder Judicial de la Federación.
+Instancias competentes. Corresponderá al Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales, otorgar la autorización para la asignación temporal de espacios, que sometan a su consideración, el Director General de Recursos Materiales y Servicios Generales, tratándose de inmuebles ubicados en el Distrito Federal y zona metropolitana, y el Director General de Administración Regional, para los inmuebles ubicados en el interior de la República, quienes, previamente a la propuesta que formulen, deberán verificar que, con su otorgamiento, no se afecte el interés público, ni del Poder Judicial de la Federación.
+
+En los Lineamientos para la Asignación Temporal de Espacios que apruebe la Comisión de Administración, se establecerá la obligación del Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales, de presentarle informes periódicos sobre las autorizaciones otorgadas.
 
 ###### ARTICULO 39.
 
@@ -848,3 +852,13 @@ TERCERO.- Se abroga el "Acuerdo General del Pleno del Consejo de la Judicatura F
 CUARTO.- El Catastro de Inmuebles del Consejo de la Judicatura Federal, así como el Sistema de Administración de Inmuebles, deberán establecerse, de conformidad con las disposiciones de este ordenamiento, dentro del término de seis meses, contados a partir del inicio de la vigencia del presente acuerdo.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 53/2006, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos para el Arrendamiento y Adquisición de Inmuebles en el Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de diez de julio de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers y Miguel A. Quirós Pérez.- México, Distrito Federal, a diez de julio de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de estas reformas, al Acuerdo General 53/2006, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos para el Arrendamiento y Adquisición de Inmuebles en el Consejo de la Judicatura Federal y al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo, respectivamente.
