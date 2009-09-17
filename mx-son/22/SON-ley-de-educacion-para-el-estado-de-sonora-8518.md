@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2007-07-05"
+last_updated: "2009-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -426,6 +426,16 @@ La Secretaría podrá imponer a las instituciones educativas ubicadas en la cate
 La evaluación de los educandos comprenderá la medición en lo individual de los conocimientos, las habilidades, las destrezas y, en general, del logro de los propósitos establecidos en los planes y programas de estudio. Así como procesos de evaluación cualitativa para tener una versión integral del avance de los educandos.
 
 Las instituciones educativas deberán informar periódicamente a los educandos y, en su caso, a los padres de familia o tutores, los resultados y calificaciones de los exámenes parciales y finales; así como, de haberlas, aquellas observaciones sobre el desempeña académico de los propios educandos que permitan lograr mejores aprovechamientos.
+
+> <small>(ADICIONADO, B.O. 17 DE SEPTIEMBRE DE 2009)</small>
+
+ARTICULO 41 BIS.- La Secretaría ofrecerá a los estudiantes de nivel medio superior en el Estado interesados en adquirirla, una herramienta de acreditación internacional de conocimientos y habilidades competitivas, emprendedoras y humanistas, para la continuación de estudios superiores y acceso al mercado laboral.
+
+Las instituciones de educación media superior y aquellas que operen en forma análoga a las instituciones de educación media superior, así como las instituciones de educación secundaria, podrán adoptar la herramienta en sus planes y programas de estudio, de conformidad con los lineamientos que para tal efecto establezca la Secretaría.
+
+La Secretaría emitirá las disposiciones legales y administrativas necesarias para la implementación y operación de la acreditación internacional de conocimientos y habilidades competitivas, emprendedoras y humanistas y vigilará constantemente que la misma se ajuste a las demandas académicas y laborales internacionales, proporcionadas por instituciones u organismos con reconocimiento y experiencia en la materia, en México y otros países.
+
+Para la promoción, implementación y operación del modelo, la Secretaría contará con el fondo de acreditación internacional de conocimientos y habilidades competitivas, emprendedoras y humanistas, sujeto a la disponibilidad presupuestal correspondiente.
 
 #### SECCION III. DEL CALENDARIO ESCOLAR
 
@@ -952,3 +962,17 @@ B.O. 5 DE JULIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 17 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días siguientes a la fecha de entrada en vigor del presente decreto, la Secretaría de Educación y Cultura emitirá las disposiciones legales y administrativas necesarias para la promoción, implementación y operación de la acreditación internacional de conocimientos y habilidades competitivas, emprendedoras y humanistas.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Hacienda proveerá lo necesario a efecto de que en el presupuesto de egresos del siguiente ejercicio fiscal se contemplen los recursos necesarios para la promoción, implementación y operación de la acreditación internacional de conocimientos y habilidades competitivas, emprendedoras y humanistas.
