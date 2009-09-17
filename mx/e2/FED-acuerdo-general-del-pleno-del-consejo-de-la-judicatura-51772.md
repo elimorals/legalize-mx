@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2009-09-01"
+last_updated: "2009-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1259,7 +1259,9 @@ XIV. Proponer a la Comisión de Administración el programa de ejecución anual 
 
 XV. Emitir la normativa para la administración de los inmuebles institucionales, en materia de obras, mantenimiento y prestación de servicios generales;
 
-XVI. Administrar los inmuebles, así como someter a la aprobación de los órganos colegiados competentes, las autorizaciones para el uso de espacios disponibles en inmuebles institucionales y, en su caso, suscribir los mismos;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2009)</small>
+
+XVI. Administrar los inmuebles, así como, cuando resulte procedente, otorgar las autorizaciones que sometan a su consideración el Director General de Recursos Materiales y Servicios Generales, tratándose de inmuebles ubicados en el Distrito Federal y zona metropolitana, y el Director General de Administración Regional, para los inmuebles ubicados en el interior de la República, respecto de la asignación temporal de espacios y suscribir dichas autorizaciones, en su caso;
 
 XVII. Participar y coordinar en la asignación y el mantenimiento de las casas-habitación destinadas al uso de magistrados y jueces del Poder Judicial de la Federación;
 
@@ -3454,3 +3456,11 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
+
+D.O.F. 17 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de estas reformas, al Acuerdo General 53/2006, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos para el Arrendamiento y Adquisición de Inmuebles en el Consejo de la Judicatura Federal y al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo, respectivamente.
