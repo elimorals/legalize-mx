@@ -4,7 +4,7 @@ identifier: "SON-ley-de-expropiacion-por-causa-de-utilidad-publica-8439"
 country: "mx"
 rank: "ley"
 publication_date: "1972-07-15"
-last_updated: "1988-03-28"
+last_updated: "2009-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE EXPROPIACION POR CAUSA DE UTILIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE MARZO DE 1988.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 17 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 15 de julio de 1972.
 
@@ -266,3 +268,17 @@ B.O. 28 DE MARZO DE 1988.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 17 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Expropiación por Causa de Utilidad Pública publicada en el Boletín Oficial del Gobierno del Estado de Sonora de fecha 15 de julio de 1972.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de expropiación que se encuentran en trámite al momento de la entrada en vigor de esta ley, se resolverán de conformidad con la ley que se abroga, debiéndose respetar en todos los casos la garantía de audiencia del propietario del bien a afectar.
