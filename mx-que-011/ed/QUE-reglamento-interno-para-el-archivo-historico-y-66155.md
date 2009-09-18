@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interno-para-el-archivo-historico-y-66155"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-09"
-last_updated: "2009-01-09"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 REGLAMENTO INTERNO PARA EL ARCHIVO HISTORICO Y ADMINISTRATIVO DEL MUNICIPIO DE EL MARQUES, QRO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 9 de enero de 2009.
 
@@ -713,9 +713,11 @@ En los casos de reincidencia para particulares, la Secretaría de Finanzas podr�
 
 Las resoluciones dictadas por las autoridades en la aplicación del presente Reglamento, que pongan fin a un procedimiento o instancia, podrán ser impugnadas por los afectados, mediante recurso de revisión, siendo optativo agotarlo ante la Autoridad Municipal que corresponda de donde emane el acto administrativo o acudir a la vía jurisdiccional contencioso-administrativa.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 44.
 
-Por lo que respecta al procedimiento de sustanciación del recurso de revisión a que se refiere el artículo anterior, los particulares y autoridades competentes, sujetarán sus actuaciones a las disposiciones contenidas en el Título Sexto, Capitulo I, de la Ley de Procedimientos Administrativos para el Estado y Municipios.
+Por lo que respecta al procedimiento de sustanciación del recurso de revisión a que se refiere el artículo anterior, los particulares y autoridades competentes, sujetarán sus actuaciones a las disposiciones contenidas en el Título Sexto, Capitulo I, de la Ley de Procedimientos Administrativos del Estado de Querétaro.
 
 ## TRANSITORIOS
 
@@ -744,3 +746,11 @@ LIC. ENRIQUE VEGA CARRILES
 PRESIDENTE MUNICIPAL DE EL MARQUÉS, QRO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- Publíquese la presente reforma en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en la Gaceta Municipal" por una sola ocasión.
+
+SEGUNDO.- La presente Reforma entrará en vigor al día siguiente de su publicación en los medios precisados en el Transitorio anterior.
