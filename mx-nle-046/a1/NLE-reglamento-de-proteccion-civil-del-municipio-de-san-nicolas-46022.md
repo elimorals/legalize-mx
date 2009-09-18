@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-del-municipio-de-san-nicolas-460
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-22"
-last_updated: "2005-08-22"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO DE PROTECCION CIVIL DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial, el lunes 22 de agosto de 2005.
 
@@ -429,9 +429,13 @@ h) El Director General de Protección Civil y Medio Ambiente, como Vocal;
 
 i) El Director General de Salud Pública, como Vocal;
 
-j) Los Representantes de las Dependencias Federales, Estatales y Municipales establecidas en la Ciudad que determine el propio Consejo, como vocales; y
+j) Los Representantes de las Dependencias Federales, Estatales y Municipales establecidas en la Ciudad que determine el propio Consejo, como vocales; y (sic)
 
 k) Los Coordinadores de las Unidades o Grupos de Trabajo creados dentro de la Dirección Municipal de Protección Civil, como Vocales.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+l) La Guardia Municipal;
 
 II.- Los Representantes de los Grupos Voluntarios como los diferentes cuerpos de auxilio formados en patronatos o Asociaciones Civiles; que operen en el Municipio, que prestarán auxilio al Consejo Municipal de Protección Civil, interviniendo en las sesiones con voz y voto.
 
@@ -463,9 +467,15 @@ VIII.- Elaborar, publicar y distribuir material informativo de protección civil
 
 IX.- Fomentar la mejora y adecuación del Sistema Municipal de Protección Civil;
 
-X.- Impulsar acciones de capacitación especializada en operaciones de rescate dentro de los cuerpos institucionales de Protección Civil, así como la capacitación del mayor número de sectores de la población, para que los ciudadanos conozcan las medidas preventivas de accidentes y de cómo actuar cuando éstos ocurran; y
+X.- Impulsar acciones de capacitación especializada en operaciones de rescate dentro de los cuerpos institucionales de Protección Civil, así como la capacitación del mayor número de sectores de la población, para que los ciudadanos conozcan las medidas preventivas de accidentes y de cómo actuar cuando éstos ocurran; y (sic)
 
-XI.- Las demás atribuciones afines a éstas, que establezcan las leyes y reglamentos en la materia.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+XI.- Auxiliar a las autoridades competentes en las acciones tendientes a la prevención de desbordamiento de cauces, tales como el cierre de calles y demás que sean pertinentes para hacer frente a las contingencias.
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+XII.- Las demás atribuciones afines a éstas, que establezcan las leyes y reglamentos de la materia
 
 ###### Artículo 24.
 
@@ -1742,3 +1752,11 @@ SECRETARIO DEL AYUNTAMIENTO
 Dado en el Salón de Sesiones del R. Ayuntamiento de San Nicolás de los Garza,
 
 Nuevo León, a los 28-veintiocho días del mes de Julio del 2005-dos mil cinco.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
