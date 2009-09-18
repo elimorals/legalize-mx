@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2008-12-31"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,13 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
 ERNESTO PERUSQUIA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a todos sus habitantes, sabed, que:
 
 EL CONGRESO CONSTITUYENTE DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, acatando lo dispuesto por el decreto de 22 de marzo del corriente año, y acuerdo de 26 del mismo, dados por el C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y en cumplimiento del artículo 13 del Decreto de 27 de marzo del propio año, que expidió el Gobernador Provisional del Estado, ha tenido a bien decretar la siguiente:
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA CONSTITUCIÓN, DANDO COMO RESULTADO UN TEXTO DIFERENTE, Y SI BIEN, DIVERSOS ARTÍCULOS QUEDARON INTACTOS, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2008.</small>
 
 > <small>(REFORMADA, P.O.31 DE MARZO DE 2008)</small>
 
@@ -53,7 +51,9 @@ El Estado de Querétaro es parte integrante de la Federación Mexicana, es libre
 
 Son ley suprema en la entidad, las disposiciones que establezcan la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 2.
 
@@ -61,9 +61,11 @@ El Estado garantizará el respeto a la persona y a los derechos humanos, promove
 
 Toda persona gozará de los derechos que establecen la Constitución Política de los Estados Unidos Mexicanos, las leyes federales, los tratados internacionales con aprobación del Senado, esta Constitución y las leyes que de ella emanen.
 
-Tiene derecho además de estar informada y de manifestar libremente sus ideas sin más límite que lo señalado por la Constitución Política de los Estados Unidos Mexicanos; el derecho de réplica será ejercido en los términos dispuestos por la ley.
+Tiene derecho, además, a estar informada y a manifestar libremente sus ideas, sin más límite que lo señalado por la Constitución Política de los Estados Unidos Mexicanos; el derecho de réplica será ejercido en los términos dispuestos por la ley.
 
-Las autoridades del Estado salvaguardarán el régimen de los derechos y las libertades de todas las personas por el sólo hecho de encontrarse en el territorio estatal. Los derechos fundamentales no podrán ser limitados o restringidos; en su interpretación se resolverá siempre a favor del gobernado.
+El Estado de Querétaro reconoce, protege y garantiza el derecho a la vida de todo ser humano, desde el momento de la fecundación, como un bien jurídico tutelado y se le reputa como nacido para todos los efectos legales correspondientes, hasta la muerte. Esta disposición no deroga las excusas absolutorias ya contempladas en la legislación penal.
+
+Las autoridades del Estado salvaguardarán el régimen de los derechos y las libertades de todas las personas, por el sólo hecho de encontrarse en el territorio estatal. Los derechos fundamentales no podrán ser limitados o restringidos; en su interpretación se resolverá siempre a favor del gobernado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1224,3 +1226,7 @@ El Presidente de la Comisión Estatal de Derechos Humanos cumplirá el periodo p
 ###### ARTÍCULO OCTAVO.
 
 El actual Auditor Superior del Estado, cumplirá el periodo por el que fue electo y continuará en el cargo por un año más y podrá ser ratificado por un periodo adicional de siete años.
+
+P.O. 18 DE SEPTIEMBRE DE 2009.
+
+Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
