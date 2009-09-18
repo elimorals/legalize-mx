@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2009-07-10"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -935,6 +935,12 @@ Cuando una Comisión considere que un asunto que le ha sido turnado no es de su 
 
 Para que el dictamen de cualquiera de las Comisiones pueda ser sometido a la Asamblea deberá presentarse suscrito por la mayoría de los Diputados que integren la comisión correspondiente y ser entregado con una anticipación de veinticuatro horas a los Diputados, salvo los casos en que el asunto haya sido recibido con el carácter de urgente, por acuerdo del Pleno, a solicitud del orador o de algún otro Diputado, o por un Acuerdo Legislativo. Si algún Diputado disintiera del criterio sustentado, podrá formular su voto particular, que dará a conocer por su lectura íntegra en la misma sesión, inmediatamente después de que sea leído el dictamen de que se trate.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+Previa autorización de los Diputados, la entrega de dictámenes podrá hacerse en archivo electrónico a través del sistema interno de transmisión y comunicación de información del Congreso denominado intranet, debiendo quedar constancia de su recepción, a cuyo efecto, la Oficialía mayor recabará los recibos que confirmen que el archivo electrónico de que se trate ha quedado a disposición de los interesados.
+
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 49 Bis.
@@ -961,7 +967,11 @@ c) Solicitar a los titulares de los Órganos de Soporte Técnico y de Apoyo del 
 
 Para el despacho de los asuntos que les hayan sido turnados por el Pleno del Congreso, las Comisiones sesionarán a convocatoria de su Presidente, quien informará de ello a la Oficialía Mayor para la programación y apoyo de las sesiones. Los Presidentes de las Comisiones deberán convocar a sesión cuando así lo soliciten al menos, la mitad más uno de sus integrantes.
 
-La convocatoria deberá incluir el orden del día a tratar, lugar, fecha y hora de la sesión; en su entrega se levantará acuse de recepción.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+La convocatoria deberá incluir el orden del día a tratar, lugar, fecha y hora de la sesión; en su entrega se levantará acuse de recibo. Podrá enviarse a los Diputados integrantes de la Comisión que corresponda, previa su autorización, en archivo electrónico a través del sistema interno de transmisión y comunicación del Congreso denominado intranet, y deberá contener la totalidad de la información relativa al asunto o asuntos para los que se haya convocado, tales como expediente y sus anexos, así como el proyecto de dictamen, en cuyo caso, deberá quedar registro de su recepción por los Diputados.
 
 Las sesiones de las Comisiones iniciarán sus trabajos en la hora señalada en la convocatoria respectiva, si se encuentran presentes al menos, la mitad más uno de sus integrantes; si no se cumple con este quórum en un plazo máximo de treinta minutos, contados a partir de la hora señalada en la convocatoria, la sesión no se llevará a cabo, debiéndose citar a una sesión subsecuente.
 
@@ -1091,7 +1101,11 @@ I.- Asistir, a través de su titular, a las sesiones del Pleno del Congreso, as�
 
 II.- Atender los encargos que le solicite el Presidente de la Directiva para el ejercicio de las atribuciones de ésta y de su Presidente;
 
-III.- Ser conducto para la entrega de dictámenes, proyectos de dictámenes y convocatorias a los Diputados para las sesiones de las Comisiones y de los Comités, así como para otros casos que le indiquen el Presidente de los otros Órganos Legislativos. Para cumplir con este cometido, previa autorización de los Diputados a quienes se dirigirá la información, la Oficialía Mayor podrá utilizar los medios electrónicos de transmisión de datos de que disponga el Congreso, debiendo recabar la constancia de recepción correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Ser conducto para la entrega de dictámenes, proyectos de dictámenes y convocatorias a los Diputados para las sesiones de las Comisiones y de los Comités, así como para otros casos que le indiquen el Presidente de la Directiva o los Presidentes de los otros Órganos Legislativos. Para cumplir con este cometido, previa autorización de los Diputados a quienes se dirigirá la información, la Oficialía Mayor podrá enviarlo en archivo electrónico mediante el sistema interno de transmisión y comunicación de información denominado intranet, de que disponga el Congreso, debiendo recabar la constancia de recepción correspondiente;
 
 IV.- Formular y preparar la documentación que requiera el Congreso para el desarrollo del trabajo legislativo, incluyendo la correspondencia oficial de la que se deba dar cuenta en las sesiones, de acuerdo a las instrucciones que le gire la Secretaría de la Directiva;
 
@@ -1259,7 +1273,13 @@ I.- Coordinar el uso de los recursos de informática y computación en las activ
 
 II.- Utilizar los recursos informáticos del Congreso para el desarrollo de los trabajos legislativos, técnicos y administrativos, mediante la consulta de bases de datos y el acceso a sistemas de información interna y externa;
 
-III.- Desarrollar un sistema eficaz de comunicación y transmisión de información de formato electrónico, mediante la integración de recursos telefónicos, internet, correo electrónico y de otros medios disponibles;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Desarrollar un sistema eficaz de comunicación y transmisión de información en formato electrónico, mediante la integración de recursos telefónicos, internet, intranet, correo electrónico y de otros medios disponibles.
+
+La Dirección de Informática se coordinará con la Oficialía Mayor y el Centro de Estudios Legislativos para garantizar la operación del sistema interno de transmisión y comunicación de información del Congreso denominado intranet, para su aplicación al proceso legislativo;
 
 IV.- Asesorar y dar opiniones técnicas en relación a la adquisición y contratación de equipo y programas de cómputo, así como sugerir las políticas y los estándares apropiados para el desarrollo de un sistema de computación e informática integral del Poder Legislativo del Estado;
 
@@ -1541,8 +1561,6 @@ Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará
 
 ### CAPITULO III. DE LAS DELIBERACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2006)</small>
-
 ###### Artículo 102.
 
 La iniciativa de Ley, en los términos de los Artículos 68 y 69 de la Constitución Política Local, corresponde a todo Diputado, Autoridad Pública en el Estado o cualquier ciudadano nuevoleonés.
@@ -1550,6 +1568,12 @@ La iniciativa de Ley, en los términos de los Artículos 68 y 69 de la Constituc
 ###### Artículo 103.
 
 Las iniciativas a que se refiere el artículo anterior, deberán presentarse por escrito y firmadas, incluyendo una parte con la exposición de los motivos que la fundamenten y concluirán sugiriendo la forma en que se solicite sean aprobadas por el Congreso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+Las iniciativas que presenten los Diputados o cualquier autoridad pública en el Estado, deberán acompañarse además en archivo electrónico, incluyendo los anexos que contenga. Será potestativo para el ciudadano acompañar a su iniciativa la versión en archivo electrónico de la misma.
 
 ###### Artículo 104.
 
@@ -1560,6 +1584,12 @@ Las iniciativas formuladas por los Poderes Ejecutivo y Judicial o por cualquier 
 El Congreso recibirá para su resolución las propuestas o denuncias de la Ciudadanía, suscritas por él o los promoventes, acompañarse (sic) de las pruebas de que se disponga e invocando el fundamento legal que demuestre la procedencia y competencia del Congreso del Estado, debiendo ser ratificada dentro de los siguientes tres días hábiles.
 
 De no cumplir con los requisitos antes señalados será desechada de plano y será archivada por la Oficialía Mayor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+Es aplicable a lo previsto en este artículo, lo dispuesto en el segundo párrafo del 103 de este Reglamento.
 
 ###### Artículo 106.
 
@@ -1572,6 +1602,12 @@ Ninguna Ley ni Reglamento podrá tener reformas sin previa iniciativa turnada a 
 ###### Artículo 108.
 
 Una vez que se haya dado cuenta con alguna iniciativa, si es procedente se turnará a la Comisión que corresponda, para que con arreglo a los Artículos 47 y 48 de este Reglamento, la estudie y formule el dictamen respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+El expediente iniciado se pondrá a disposición del Presidente de la Comisión correspondiente en archivo electrónico a través del sistema interno de transmisión y comunicación de información del Congreso denominado intranet, sin perjuicio de proporcionarlo documentalmente si lo solicita.
 
 ###### Artículo 109.
 
@@ -2222,3 +2258,7 @@ P.O. 10 DE JUNIO DE 2009.
 P.O. 10 DE JULIO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2009.
+
+Único.- El presente Decreto entrará en vigor a los ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
