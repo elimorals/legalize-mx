@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2009-06-30"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -971,7 +971,7 @@ a).- de las acciones de petición de herencia.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
+El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgado por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
 
 b).- de las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
@@ -1099,7 +1099,7 @@ IX.- Si ha conocido del negocio como juez, árbitro o asesor, resolviendo algún
 
 X.- Si ha sido abogado o mandatario, perito o testigo en el negocio de que se trate;
 
-XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grado, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no ha pasado un año, de haber seguido un juicio civil, o una causa criminal, como acusador, querellante o denunciante, o se haya constituido parte civil en causa criminal seguida contra cualquiera de ellas;
+XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grado, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no ha pasado un año, de haber seguido de un juicio civil, o una causa criminal, como acusador, querellante o denunciante, o se haya constituido parte civil en causa criminal seguida contra cualquiera de ellas;
 
 XII.- Cuando alguno de los litigantes o de sus abogados es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge, o de alguno de sus expresados parientes o se ha constituido parte civil en causa criminal seguida contra cualquiera de ellos, siempre que el Ministerio Público haya ejercitado la acción penal;
 
@@ -5423,6 +5423,36 @@ El Juez de Primera Instancia estará facultado para intervenir de oficio en los 
 
 En los mismos asuntos con la salvedad de las prohibiciones legales, el juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 882
+
+Bis.- Cuando a petición de parte interesada, se deba resolver provisionalmente sobre la custodia y la convivencia de las niñas y los niños con sus padres, previamente se dará vista a la parte contraria y, en caso de desacuerdo, se señalará día y hora que tenga verificativo la audiencia que resolverá sobre la custodia y la convivencia de los menores, misma que se efectuara dentro de los quince días siguientes.
+
+En la sesión donde sean escuchados los menores deberán ser representados por el asistente de menores correspondiente, adscrito al Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, quien no requerirá comparecer para protestar el cargo. Para que tenga verificativo la audiencia respectiva, el juez de lo familiar tomará en consideración la programación de audiencias que tenga la Institución.
+
+Quien tenga a los menores bajo su cuidado, los presentará a la audiencia, para que sean escuchados por el juez y el Ministerio Público adscrito.
+
+El juez de lo familiar, oyendo la opinión del Representante Social y valorando todos y cada uno de los elementos que tenga a su disposición, pudiendo incluir valoración psicológica del menor y de las partes que solicitan la custodia, determinará a quién de los progenitores corresponderá la custodia provisional de los menores de edad.
+
+A falta o imposibilidad de los progenitores para tener la custodia de los menores se considerarán las hipótesis previstas en los artículos 994 y 995 del Código Civil.
+
+Las medidas que se tomen deberán tener como principio fundamental el interés superior del menor.
+
+Cuando cambie de domicilio el ascendiente que conserva la guarda y custodia, éste tiene la obligación de informar al juez y a quien no ejerce la custodia, los datos del nuevo domicilio y número telefónico pera efecto de mantener la comunicación del menor y del ascendiente que no ejerza la guarda y custodia. El incumplimiento de esta disposición dará lugar a lo establecido en el artículo 89 de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 882
+
+Ter.- El ascendiente que no le sea otorgada la custodia podrá convivir tal y como lo fije el juez, en términos de lo previsto por el Artículo 1024-Bis del presente ordenamiento.
+
+El juez de lo familiar, antes de regular el derecho de convivencia de manera provisional, deberá tomar en cuenta todos los elementos que estén a su alcance para decidir bajo el principio del interés superior del menor. En especial valorará el hecho de que una de las partes manifieste que ha habido violencia familiar, pudiendo solicitar valoración psicoemocional que determine si existen síntomas en el menor, de haber vivido cualquier tipo de violencia familiar, ya sea psicológica, física o sexual, independientemente de que exista o no indagatoria al respecto, a fin de proteger la integridad física y psicológica de los hijos.
+
+En caso de duda y para salvaguarda de los hijos menores de edad o incapaces, deberá ordenar que las convivencias se realicen en el Centro de Convivencia Familiar Supervisada, únicamente durante el procedimiento.
+
+Las convivencias de manera provisional no se otorgarán por el juez de lo familiar cuando exista peligro para la integridad física, sexual o psicológica de los hijos menores de edad.
+
 ###### Artículo 883.
 
 No se requieren formalidades especiales para acudir ante el juez, cuando se solicite su intervención en un problema familiar.
@@ -5431,13 +5461,39 @@ No se requieren formalidades especiales para acudir ante el juez, cuando se soli
 
 Conocerán los jueces de Primera instancia de las solicitudes sobre declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de calificación de impedimentos de matrimonio, de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres o tutores y en general todas las cuestiones familiares similares que reclamen la intervención judicial.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+Esta disposición no es aplicable a los casos de divorcio o de pérdida de la patria potestad
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+Tratándose de violencia familiar prevista en el artículo 983 Ter del Código Civil para el Estado de Quintana Roo, el juez determinará las medidas procedentes para la protección de los menores y de la parte agredida. Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 885.
 
-Las controversias señaladas en el artículo anterior se tramitarán en forma incidental.
+Podrá acudirse al juez de lo familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Las copias respectivas de la comparecencia y demás documentos, serán tomados como pruebas, debiendo relacionarse en forma pormenorizada con todos y cada uno de los hechos narrados por el compareciente, así como los medios de prueba que presente, haciéndole saber el juez al interesado que puede contar con el patrocinio de un defensor de oficio para conocer de su procedimiento y como consecuencia, éste ordenará dar parte a la institución de Defensoría de Oficio para que, en su caso, asesore o patrocine a éste. Una vez hecho lo anterior se correrá traslado, a la parte demandada, la que deberá comparecer, en la misma forma dentro del término de nueve días. En tales comparecencias las partes deberán ofrecer las pruebas respectivas. Al ordenarse ese traslado, el juez deberá señalar el día y hora para la celebración de la audiencia respectiva.
+
+La audiencia se llevará a cabo dentro de los treinta días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial deberá ser proveída dentro del término de tres días. Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes.
+
+Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al actuario del juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en el Estado de Quintana Roo, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie a falsedad resultante.
 
 ###### Artículo 886.
 
 La sentencia que resuelva la controversia será apelable en el efecto devolutivo y podrá ejecutarse sin necesidad de otorgar fianza.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 886
+
+Bis.- Ninguna excepción dilatoria ni recusación podrán impedir que el juez adopte las medidas provisionales sobre el depósito de personas, alimentos y menores. Después de tomadas dichas medidas, se dará el trámite correspondiente a la cuestión planteada.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 886
+
+Ter.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre los que verse, y se citará dentro de ocho días, para audiencia indiferibles, en que se reciba, se oigan brevemente las alegaciones, y se dicte la resolución dentro de los tres días siguientes.
 
 ###### Artículo 887.
 
@@ -5503,7 +5559,7 @@ Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de su
 
 Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido también en la demarcación.
 
-En caso de duda será competente por razón del territorio el juez de paz o menor que haya prevenido y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; el hecho de haber conocido indebidamente de casos correspondientes a otras demarcaciones, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior de Justicia.
+En caso de duda será competente por razón del territorio el juez de paz o menor que haya prevenido y en ningún casos se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; el hecho de haber conocido indebidamente de caos correspondientes a otras demarcaciones, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior de Justicia.
 
 ###### Artículo 6o.
 
@@ -5800,3 +5856,7 @@ P.O. 30 DE JUNIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 18 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
