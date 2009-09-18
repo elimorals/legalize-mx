@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-25781
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-27"
-last_updated: "2009-03-03"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002
 
@@ -85,7 +85,9 @@ Los medios de impugnación regulados por esta Ley, tienen por objeto garantizar 
 
 Los medios de impugnación reglamentados por este ordenamiento son:
 
-I. El recurso de revocación, en todo tiempo para combatir los actos y resoluciones de los Consejos Distritales, Juntas Distritales Ejecutivas, y de las Contralorías Internas del Instituto y del Tribunal, con excepción de lo dispuesto para el Juicio de Nulidad;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+I. El recurso de revocación, en todo tiempo para combatir los actos y resoluciones de los Consejos Municipales y Distritales, Juntas Municipales y Distritales Ejecutivas, con excepción de lo dispuesto para el Juicio de Nulidad;
 
 II. El juicio de inconformidad, para garantizar la legalidad, de los actos y resoluciones de los órganos centrales del Instituto, durante el tiempo que transcurra entre la conclusión de un proceso electoral y el inicio del siguiente, así como durante estos exclusivamente en la etapa de preparación de la elección;
 
@@ -119,7 +121,9 @@ Son partes en el procedimiento de los medios de impugnación, las siguientes:
 
 I. El actor, que será quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante, observando las reglas de legitimación previstas por esta Ley;
 
-II. La autoridad responsable, que será el órgano que haya realizado el acto o emitido la resolución que se impugna; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+II. La autoridad u órgano partidista señalado como responsable, que será el órgano que haya realizado el acto o emitido la resolución que se impugna; y
 
 III. El tercero interesado, que será el ciudadano, el partido político, la coalición, el candidato, la organización o agrupación política que tengan un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor.
 
@@ -281,13 +285,17 @@ Para los efectos del párrafo anterior, se entiende por días hábiles, todos lo
 
 Los medios de impugnación previstos en esta Ley, deberán promoverse dentro de los tres días siguientes, contados a partir de que se tenga conocimiento o se hubiese notificado el acto o resolución que se impugne, de conformidad con las disposiciones del presente ordenamiento.
 
-En el caso de actos o resoluciones de los Consejos Distritales y Juntas Distritales Ejecutivas, el recurso de revocación deberá de interponerse dentro de las cuarenta y ocho horas siguientes, contadas a partir de que se tenga conocimiento o se hubiese notificado el acto o resolución a combatir.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+En el caso de actos o resoluciones de los Consejos Municipales y Distritales, así como de las Juntas Municipales y Distritales Ejecutivas, el recurso de revocación deberá de interponerse dentro de las cuarenta y ocho horas siguientes, contadas a partir de que se tenga conocimiento o se hubiere notificado el acto o resolución a combatir.
 
 ### Capítulo Séptimo. De la Interposición y sus Efectos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 26.
 
-Los medios de impugnación deberán interponerse por escrito ante la autoridad responsable del acto o resolución que se impugna, el cual deberá cumplir además, con los siguientes requisitos:
+Los medios de impugnación deberán interponerse por escrito ante la autoridad u órgano partidista señalado como responsable del acto o resolución que se impugna, el cual deberá cumplir además, con los siguientes requisitos:
 
 I. Señalar el nombre del actor y el carácter con el que promueve;
 
@@ -297,7 +305,9 @@ III. Mencionar el nombre de las personas autorizadas por el promovente, para los
 
 IV. Acreditar la personalidad del promovente, con los documentos necesarios que señala esta Ley;
 
-V. Señalar el acto o resolución que se impugne y la autoridad responsable del mismo;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+V. Señalar el acto o resolución que se impugne y la autoridad u órgano partidista señalado como responsable del mismo;
 
 VI. Mencionar de manera expresa y clara los hechos en que se basa la impugnación;
 
@@ -337,7 +347,9 @@ En ningún caso la interposición de los medios de impugnación previstos en est
 
 Los medios de impugnación previstos en esta Ley serán improcedentes, cuando:
 
-I. No se interpongan por escrito, ante el órgano competente que dictó el acto o resolución impugnada;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+I. No se interpongan por escrito, ante la autoridad u órgano partidista que dictó el acto o resolución impugnada;
 
 II. El conocimiento del acto o resolución que se impugne, no sea competencia del Consejo General o del Tribunal;
 
@@ -353,9 +365,17 @@ VII. En su caso, no se haya agotado antes el recurso de revocación;
 
 VIII. Se impugne más de una elección en un mismo escrito;
 
-IX. La improcedencia se derive de alguna disposición de esta Ley; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
-X. Que el promovente carezca de legitimación en términos de lo dispuesto en la Ley.
+IX. La improcedencia se derive de alguna disposición de esta Ley;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+X. Que el promovente carezca de legitimación en términos de lo dispuesto en la Ley; y
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+XI. Cuando no se hayan agotado las instancias previas establecidas por las leyes o normas internas de los partidos políticos, según corresponda, salvo que se considere que los órganos partidistas competentes no estuviesen integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
 Las causales de improcedencia deberán ser examinadas de oficio.
 
@@ -365,7 +385,9 @@ Procede el sobreseimiento de los medios de impugnación que hayan sido admitidos
 
 I. El promovente se desista expresamente por escrito;
 
-II. La autoridad responsable del acto o resolución impugnada, lo modifique o revoque, de tal manera que quede totalmente sin materia el medio de impugnación respectivo, antes de que se dicte resolución;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+II. La autoridad u órgano partidista señalado como responsable del acto o resolución impugnada, lo modifique o revoque, de tal manera que quede totalmente sin materia el medio de impugnación respectivo, antes de que se dicte resolución;
 
 III. Aparezca alguna causal de improcedencia en los términos de esta Ley; o
 
@@ -373,15 +395,21 @@ IV. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos p
 
 ### Capítulo Noveno. De las Reglas de Trámite
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 33.
 
-El órgano electoral que reciba un medio de impugnación, en contra de uno de sus actos o resoluciones, de inmediato y bajo su más estricta responsabilidad, deberá:
+La autoridad u órgano partidista que reciba un medio de impugnación, en contra de uno de sus actos o resoluciones, de inmediato y bajo su más estricta responsabilidad, deberá:
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
 
 I. Remitir por la vía más expedita, a la Secretaría General del Instituto o al Tribunal, según sea el caso, copia del escrito por el que se promueva el medio de impugnación, precisando fecha y hora de su presentación;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 II. Hacerlo del conocimiento público, inmediatamente a su recepción, mediante cédula que se fijará en los estrados en la que deberá constar el día y hora de su publicación; y
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
 
 III. La cédula a que se refiere la fracción anterior, deberá publicarse durante el plazo de veinticuatro horas.
 
@@ -389,7 +417,9 @@ III. La cédula a que se refiere la fracción anterior, deberá publicarse duran
 
 Dentro del plazo de fijación a que se refiere la fracción III del Artículo anterior el ciudadano, el candidato, la organización de ciudadanos, la agrupación política, los partidos políticos o coaliciones, en los términos de los Artículos 9 y 11 de esta Ley, podrán comparecer como terceros interesados, con los escritos que consideren pertinentes, los cuales deberán cumplir con los siguientes requisitos:
 
-I. Presentarse ante la autoridad responsable del acto o resolución impugnada;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+I. Presentarse ante la autoridad u órgano partidista señalado como responsable del acto o resolución impugnada;
 
 II. En su caso, hacer constar el nombre del partido político o coalición que lo presenta;
 
@@ -405,19 +435,29 @@ VII. Hacer constar el nombre y la firma autógrafa del promovente.
 
 Cuando se incumpla con cualquiera de los requisitos previstos en las fracciones I, V y VII, se tendrá por no presentado el escrito respectivo.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 35.
 
-Inmediatamente al vencimiento del plazo de fijación a que se refiere la fracción III del artículo 33 de este ordenamiento, el órgano responsable del acto o resolución impugnada que reciba un medio de impugnación, deberá remitir a la Secretaría General del Instituto o Tribunal, según corresponda, lo siguiente:
+Inmediatamente al vencimiento del plazo de fijación a que se refiere la fracción III del Artículo 33 de este ordenamiento, la autoridad o el órgano partidista señalado como responsable del acto o resolución impugnada que reciba un medio de impugnación, deberá remitir a la Secretaría General del Instituto o Tribunal, según corresponda, lo siguiente:
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
 
 I. El escrito original mediante el cual se interpone, las pruebas y demás documentos que se hayan acompañado al mismo;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 II. Copia certificada del documento en que conste el acto o resolución impugnada;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
 
 III. En su caso, los escritos de los terceros interesados y coadyuvantes, las pruebas y demás documentación que se haya acompañando (sic) a los mismos;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
+
 IV. Tratándose del juicio de nulidad, copia certificada del expediente completo con todas las actas relativas al cómputo de la elección o asignación impugnada, así como las hojas de incidentes y escritos de protesta que obren en su poder;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
 
 V. Un informe circunstanciado, que por lo menos deberá contener:
 
@@ -435,25 +475,47 @@ D) Los demás elementos que se estimen necesarios para la resolución del medio 
 
 Una vez cumplidas las reglas de trámite a que se refiere el capitulo anterior y recibida la documentación a que se refiere el Artículo 35, el Tribunal realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación de los medios de impugnación, aplicando las siguientes reglas:
 
-I. El Magistrado Presidente turnara el asunto de inmediato a un Magistrado Supernumerario quien tendrá la obligación de verificar que el escrito que contenga el medio de impugnación cumpla con los requisitos y términos previstos por esta Ley; instruyendo las diligencias que estime procedentes hasta dejar el expediente en estado de resolución.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
-II. Tratándose de asuntos que ameriten su desechamiento, previo acuerdo que en ese sentido emita el Magistrado Presidente, el Magistrado Supernumerario elaborara el proyecto de resolución del cual conocerá y resolverá el pleno.
+I. El Magistrado Presidente turnará el asunto de inmediato a un Magistrado Numerario que hará las veces de instructor quien tendrá la obligación de verificar que el escrito que contenga el medio de impugnación cumpla con los requisitos y términos previstos por esta Ley; instruyendo las diligencias que estime procedentes hasta dejar el expediente en estado de resolución;
 
-III. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el Magistrado Supernumerario dictara el auto de admisión; una vez sustanciado el expediente se declarara cerrada la instrucción; y el Magistrado Presidente, por riguroso orden, asignara el asunto a un Magistrado Numerario, quien a su juicio elaborara la ponencia que habrá de presentarse al pleno para su discusión y aprobación, en su caso.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
-IV. El Magistrado Ponente, podrá ordenar por conducto del Magistrado Supernumerario que instruyo la causa, la complementación de documentación, información o la realización de diligencias para mejor proveer. En todo caso, se resolverá con los elementos que obren en autos.
+II. Tratándose de asuntos que ameriten su desechamiento, previo acuerdo que en ese sentido emita el Magistrado Presidente, el Magistrado Numerario que fungió como instructor elaborará el proyecto de resolución del cual conocerá y resolverá el pleno;
 
-V. Durante el tiempo que transcurra entre la conclusión de un proceso electoral y el inicio del siguiente, las funciones que en este articulo se señalan a cargo de los magistrados supernumerarios, serán realizadas por el Secretario General del Tribunal.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+III. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el Magistrado Numerario que hará las veces de instructor dictará el auto de admisión; una vez sustanciado el expediente se declarará cerrada la instrucción; acto seguido elaborará la ponencia que habrá de presentarse al pleno para su discusión y aprobación, en su caso;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+IV. El Magistrado que realice la ponencia, podrá ordenar la complementación de documentación, información o la realización de diligencias para mejor proveer. En todo caso, se resolverá con los elementos que obren en autos;
+
+V. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2009)
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 37.
 
-Si el órgano del Instituto, incumple con la obligación prevista en la fracción II del Artículo 33 de esta Ley, el Tribunal lo requerirá de inmediato para que en un plazo no mayor a veinticuatro horas, según lo establezca en el acuerdo respectivo, proceda a su cumplimiento y remita las constancias correspondientes. En los mismos términos se le requerirá cuando omita enviar cualquiera de los documentos señalados en el Artículo 35 de esta Ley.
+Si la autoridad o el órgano partidista, incumple con la obligación prevista en la fracción II del Artículo 33 de esta Ley, el Tribunal lo requerirá de inmediato para que en un plazo no mayor a veinticuatro horas, según lo establezca en el acuerdo respectivo, proceda a su cumplimiento y remita las constancias correspondientes. En los mismos términos se le requerirá cuando omita enviar cualquiera de los documentos señalados en el Artículo 35 de esta Ley.
 
-Si la autoridad responsable no envía el informe circunstanciado en los términos precisados en el Articulo 35 de este ordenamiento, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario.
+Si la autoridad o el órgano partidista señalado como responsable no envía el informe circunstanciado en los términos precisados en el Articulo 35 de este ordenamiento, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario.
 
 ###### Artículo 38.
 
 El Presidente del Tribunal, podrá solicitar a las autoridades federales o requerir a las autoridades estatales, municipales y a los órganos del Instituto, así como a las partes, cualquier informe, elemento o documentación que obrando en su poder, pueda servir para la sustanciación o resolución de los medios de impugnación. En casos extraordinarios, podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, y que asimismo permita resolver dentro de los plazos establecidos.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 38
+
+Bis.- En la vía incidental se atenderá la pretensión de nuevo escrutinio y cómputo de las elecciones de que conozca el Tribunal, y solamente procederá cuando el nuevo escrutinio y cómputo no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto en la Ley Electoral.
+
+El Tribunal deberá establecer si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos por el propio Tribunal sin necesidad de recontar los votos.
+
+No procederá el incidente en el caso de casillas en las que se hubiere realizado nuevo escrutinio y cómputo en la sesión de cómputo respectiva.
+
+En el caso de que el resultado del nuevo escrutinio y cómputo modifique los resultados, el Tribunal tomará las medidas necesarias para que se expidan los documentos que acreditan a quienes hayan resultado como candidatos electos, una vez que haya causado estado la resolución.
 
 ###### Artículo 39.
 
@@ -483,11 +545,13 @@ II. En los asuntos que se les turnen, tenga interés cualquier pariente consangu
 
 III. Exista pública amistad o enemistad con las partes o relación civil o mercantil entre ellas.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 43.
 
-Cuando los Magistrados no se excusen a pesar de existir alguno de los impedimentos señalados en el artículo anterior, procederá la recusación con causa por cualquiera de las partes, siempre que ésta se formule por escrito expresando las circunstancias y fundamentos, dentro de las veinticuatro horas siguientes a la publicación del acuerdo de designación del Magistrado Ponente.
+Cuando los Magistrados no se excusen a pesar de existir alguno de los impedimentos señalados en el artículo anterior, procederá la recusación con causa por cualquiera de las partes, siempre que ésta se formule por escrito expresando las circunstancias y fundamentos, dentro de las veinticuatro horas siguientes a la asignación del medio de impugnación al Magistrado que fungirá como instructor.
 
-Inmediatamente, el Pleno del Tribunal resolverá la excusa o recusación y ordenará, si ésta fuese procedente, la reasignación del Magistrado Ponente.
+Inmediatamente, el Pleno del Tribunal resolverá la excusa o recusación y ordenará si ésta fuese procedente, la reasignación del Magistrado que instruirá la causa.
 
 ### Capítulo Décimo Primero. De las Sentencias del Tribunal
 
@@ -513,11 +577,11 @@ VII. En su caso, el plazo para su cumplimiento.
 
 Si el promovente omite señalar los preceptos jurídicos presuntamente violados o se citan de manera equivocada, el organismo competente para resolver tomará en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 46.
 
-Deberá publicarse en los estrados del Tribunal, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión.
-
-En casos extraordinarios, el Tribunal podrá diferir la resolución de un asunto listado.
+Deberá publicarse en los estrados del Tribunal, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión, o en un plazo menor cuando se trate de asuntos de urgente resolución
 
 ###### Artículo 47.
 
@@ -541,7 +605,9 @@ II. Declarar la nulidad de la votación emitida en una o varias casillas para la
 
 III. Declarar la nulidad de la elección de que se trate, cuando se actualicen los supuestos que establece esta Ley;
 
-IV. Modificar los cómputos estatal y distrital de la elección de gobernador, los distritales de la elección de diputados de mayoría relativa y los municipales para la elección de miembros de los ayuntamientos, cuando sean impugnados por error aritmético;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Modificar los cómputos estatal y distrital de la elección de Gobernador, los distritales de la elección de Diputados de mayoría relativa y los municipales para la elección de miembros de los Ayuntamientos, cuando sean impugnados por error aritmético o bien por el recuento de sufragios que se hubiese efectuado;
 
 V. Revocar o modificar las constancias de mayoría expedidas a favor del Gobernador, fórmula de candidatos a Diputados de mayoría relativa o la planilla de miembros de los Ayuntamientos;
 
@@ -633,13 +699,17 @@ Las sentencias o resoluciones que pongan fin a los medios de impugnación previs
 
 I. Al actor personalmente, cuando hubiese señalado domicilio en la Ciudad de Chetumal, o por estrados cuando no lo señale;
 
-II. Al órgano responsable del acto o resolución impugnada, por oficio; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+II. A la autoridad u órgano partidista señalado como responsable del acto o resolución impugnada, por oficio; y
 
 III. A los terceros interesados y coadyuvantes, personalmente cuando hubiesen señalado domicilio en la Capital del Estado, o por estrados cuando no lo señalen.
 
 Las notificaciones a que se refiere este Artículo, se harán dentro de las veinticuatro horas siguientes de haberse dictado la sentencia o resolución que se notifica.
 
-Lo anterior, con excepción de los casos en que se trate de sentencias o resoluciones dictadas con motivo de la interposición de recursos de revocación en contra de actos o resoluciones de los Consejos Distritales o Juntas Distritales Ejecutivas, en este caso, las notificaciones a que se refiere este Artículo, se harán inmediatamente y sin dilación alguna.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+Lo anterior, con excepción de los casos en que se trate de sentencias o resoluciones dictadas con motivo de la interposición de recursos de revocación en contra de actos o resoluciones de los Consejos Municipales y Distritales; así como de las Juntas Municipales y Distritales Ejecutivas, en este caso, las notificaciones a que se refiere este Artículo, se harán inmediatamente y sin dilación alguna.
 
 ###### Artículo 62.
 
@@ -651,11 +721,13 @@ No requerirán de notificación y surtirán sus efectos al día siguiente de su 
 
 Independientemente de aplicar los medios de apremio y correcciones disciplinarias previstos en el presente ordenamiento, el Tribunal podrá adoptar las medidas que considere necesarias para asegurar el cumplimiento de sus sentencias.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 64.
 
-El órgano del Instituto, responsable del acto o resolución que fue motivo de impugnación, deberá informar al Tribunal el cumplimiento de la sentencia que le hubiese sido notificada, en los términos y plazos señalados en ella.
+La autoridad u órgano partidista señalado como responsable del acto o resolución que fue motivo de impugnación, deberá informar al Tribunal el cumplimiento de la sentencia que le hubiese sido notificada, en los términos y plazos señalados en ella.
 
-En caso contrario, el Tribunal requerirá al órgano responsable para que en el término de veinticuatro horas, dé cumplimiento a lo ordenado en la sentencia, con el apercibimiento de hacerlo del conocimiento del superior jerárquico para los efectos legales correspondientes, si no cumple con los resolutivos.
+En caso contrario, el Tribunal requerirá a la autoridad o al órgano partidista señalado como responsable para que en el término de veinticuatro horas, dé cumplimiento a lo ordenado en la sentencia, con el apercibimiento de hacerlo del conocimiento del superior jerárquico para los efectos legales correspondientes, si no cumple con los resolutivos.
 
 ###### Artículo 65.
 
@@ -669,17 +741,15 @@ En adición a lo dispuesto en los artículos anteriores, el Tribunal podrá real
 
 ### Capítulo Primero. De la Procedencia
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 67.
 
-El recurso de revocación conocerá y resolverá el Consejo General, y el Pleno, en su caso.
-
-Procederá en todo tiempo para impugnar los actos o resoluciones de los Consejos Distritales y de las Juntas Distritales Ejecutivas del Instituto; con excepción de los relativos a los cómputos, asignaciones, declaraciones de validez y otorgamiento de constancias de mayoría relativa o de asignación por el principio de representación proporcional, que realicen de conformidad con la Ley Electoral.
-
-El recurso de revocación procederá para impugnar actos o resoluciones de la Contraloría Interna del Instituto y del Tribunal, durante y fuera de los procesos electorales.
+El recurso de revocación conocerá y resolverá el Consejo General, y el Pleno, en su caso. Procederá en todo tiempo para impugnar los actos o resoluciones de los Consejos Municipales, Distritales, así como de las Juntas Municipales y Distritales Ejecutivas del Instituto; con excepción de los relativos a los cómputos, asignaciones, declaraciones de validez y otorgamiento de constancias de mayoría relativa o de asignación por el principio de representación proporcional, que realicen de conformidad con la Ley Electoral.
 
 ###### Artículo 68.
 
-Los recursos de revocación sólo podrán promoverse por los servidores generales y de confianza, en el caso del segundo párrafo del artículo anterior.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 69.
 
@@ -687,15 +757,19 @@ Los recursos de revocación a que se refiere el primer párrafo del artículo 67
 
 ### Capítulo Segundo. De la Sustanciación y Resolución
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 70.
 
-El órgano electoral desconcentrado o la Contraloría Interna del Instituto o del Tribunal que reciba un recurso de revocación, procederá en términos de los Artículos 33, 34 y 35 de esta Ley.
+El órgano electoral desconcentrado que reciba un recurso de revocación procederá en términos de los Artículos 34 y 35 de esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 71.
 
-Si el órgano electoral desconcentrado o la Contraloría Interna del Instituto o del Tribunal incumplen con alguna de las obligaciones previstas en los artículos señalados en el numeral que antecede, la Secretaría General los requerirá de inmediato para que sin dilación alguna remitan las constancias y documentos que haya omitido enviar o que en su caso, se consideran fundamentales para la resolución del recurso.
+Si el órgano electoral desconcentrado incumple con alguna de las obligaciones previstas en los artículos señalados en el numeral que antecede, la Secretaría General los requerirá de inmediato para que sin dilación alguna remita las constancias y documentos que haya omitido enviar o que en su caso, se consideran fundamentales para la resolución del recurso.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
 
 Ante la negativa se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario. En todo caso se resolverá con los elementos que obren en autos.
 
@@ -727,9 +801,13 @@ El Consejo General o el Tribunal, en su caso, declarará la improcedencia o sobr
 
 El juicio de inconformidad que conocerá y resolverá el Tribunal, procederá en contra de:
 
-I. Los acuerdos o resoluciones que se dicten en la sustanciación o que pongan fin al recurso de revocación, con excepción de los relacionados con la Contraloría Interna del Instituto y del Tribunal; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
-II. Actos o resoluciones de los órganos centrales del Instituto, con excepción de los que son materia del Juicio de Nulidad o de sanción impuesta con motivo al procedimiento seguido por las Contralorías Internas.
+I. Los acuerdos o resoluciones que se dicten en la sustanciación o que pongan fin al recurso de revocación; y
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+II. Actos o resoluciones de los órganos centrales del Instituto, con excepción de los que son materia del Juicio de Nulidad.
 
 ###### Artículo 77.
 
@@ -767,9 +845,9 @@ Tratándose de la inelegibilidad de candidatos a diputados de mayoría relativa 
 
 La votación recibida en una casilla, será nula cuando:
 
-I. Sin causa justificada, se haya ubicado en distinto lugar autorizado por el Consejo Distrital Electoral correspondiente.
+I. Sin causa justificada, se haya ubicado en distinto lugar autorizado por el Consejo Distrital Electoral correspondiente;
 
-II. Se hubiese instalado en lugar que no cumpla con los requisitos establecidos por la Ley Electoral.
+II. Se hubiese instalado en lugar que no cumpla con los requisitos establecidos por la Ley Electoral;
 
 III. Se reciba la votación en fecha distinta a la señalada para la celebración de la elección;
 
@@ -779,11 +857,13 @@ V. Se impida el acceso a las casillas a los representantes acreditados de los pa
 
 VI. Se haya permitido sufragar a personas sin credencial para votar o hubiesen votado personas cuyos nombres no aparezcan en la lista nominal de electores, salvo los casos de excepción que señala la Ley Electoral, y siempre que ello sea determinante para el resultado de la votación;
 
-VII. Exista error o dolo en el cómputo de votos que beneficie a cualquiera de los candidatos, y sea determinante para el resultado de la votación.
+VII. Exista error o dolo en el cómputo de votos que beneficie a cualquiera de los candidatos, y sea determinante para el resultado de la votación;
 
 VIII. Realizar sin causa justificada, el escrutinio y cómputo en sitio diferente al de la casilla;
 
-IX. Se entregue sin causa justificada, el paquete electoral al Consejo Distrital Electoral correspondiente, fuera de los plazos que la Ley Electoral establece;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Se entregue sin causa justificada, el paquete electoral al Consejo Municipal o Distrital Electoral correspondiente, fuera de los plazos que la Ley Electoral establece;
 
 X. Se ejerza violencia física o presión de alguna autoridad o particular sobre los funcionarios de la Mesa Directiva de Casilla o sobre los electores, de tal manera que afecte la libertad o el secreto del voto, y esos hechos sean determinantes para el resultado de la votación en la casilla de que se trate;
 
@@ -917,9 +997,21 @@ IV. Siendo candidato registrado, sea indebidamente declarado inelegible y el par
 
 V. Se le niegue indebidamente participar como observador electoral;
 
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aún cuando no estén afiliados al partido señalado como responsable.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 96.
 
-El juicio para la protección de los derechos político electorales del ciudadano quintanarroense, sólo será procedente cuando el ciudadano que se considere agraviado haya agotado previamente la instancia administrativa, en su caso, y realizado los trámites necesarios para ejercer el derecho político electoral presuntamente violado, en la forma y en los plazos establecidos en los ordenamientos electorales respectivos.
+El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+
+En los casos de actos o resoluciones dictados por órganos partidistas, se deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
 ###### Artículo 97.
 
@@ -994,3 +1086,7 @@ V. El 15 de marzo del año de la elección en caso de que se impugnen los cómpu
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
