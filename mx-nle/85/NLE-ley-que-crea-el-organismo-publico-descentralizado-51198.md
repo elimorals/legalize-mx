@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-51198"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-10"
-last_updated: "2006-07-10"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO PARQUE FUNDIDORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 10 de julio de 2006.
 
@@ -125,19 +125,39 @@ II. El Presidente Ejecutivo, que será designado por el Titular del Ejecutivo de
 
 III. El Director General, quien tendrá el carácter de Secretario Técnico del Consejo; y
 
-IV. Siete Vocales, que serán:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Once Vocales, que serán:
 
 a) El Secretario de Finanzas y Tesorero General del Estado;
 
-b) El Secretario de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
-c) El Director General de la Corporación para el Desarrollo Turístico de Nuevo León;
+b) El Director General de la Corporación para el Desarrollo Turístico de Nuevo León;
 
-d) El Presidente del Consejo para la Cultura y las Artes de Nuevo León; y
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
-e) Tres personas físicas o representantes de organizaciones, no gubernamentales relacionadas con las actividades del “Parque Fundidora”, por invitación del Titular del Poder Ejecutivo.
+c) El Presidente del Consejo para la Cultura y las Artes de Nuevo León;
 
-Cuando así se requiera por el asunto a tratar, será opcional para el Consejo de Administración invitar. a representantes de otras dependencias u organismos públicos o privados, federales, estatales o municipales, quienes sólo tendrán derecho a voz y no formarán parte del Consejo.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+d) El Rector de la Universidad Autónoma de Nuevo León;
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+e) El Rector del Instituto Tecnológico y de Estudios Superiores de Monterrey;
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+f) El Presidente de la Confederación Patronal de México, Capítulo Nuevo León; y
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+g) Cinco personas físicas o representantes de organizaciones o personas morales, con amplio reconocimiento, que por su actividad u objeto, se relacione con la consecución del bienestar social, el cuidado del medio ambiente, el fomento al turismo, la industria o el comercio, y el desarrollo integral de la comunidad, por invitación del titular del Poder Ejecutivo, quienes durarán en su cargo tres años, pudiendo ser ratificados por otros períodos iguales.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+Cuando así se requiera por el asunto a tratar, se podrá invitar a personas físicas o morales ampliamente relacionadas por su interés en los temas comunitarios y del buen desarrollo del Parque Fundidora, así como a los representantes de los comités de concesionarios y comités de usuarios del Parque Fundidora que se constituyan; y a otras dependencias, entidades y organismos públicos o privados, federales, estatales o municipales, quienes sólo tendrán derecho a voz y no formarán parte del Consejo.
 
 Los integrantes del Consejo de Administración podrán ser representados en sus ausencias por quien designe cada titular para este efecto, con el carácter de suplente, mediante documento que se le remita al Secretario Técnico del Consejo de Administración.
 
@@ -229,9 +249,11 @@ IV. Las demás que establezca esta Ley, el Reglamento Interior del Organismo y l
 
 ### CAPÍTULO IV. DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 15.
 
-El Director General será nombrado y removido libremente por el Gobernador del Estado.
+El Director General será nombrado y removido por el Gobernador del Estado. Los integrantes del Consejo de Administración podrán proponer al titular del Poder Ejecutivo una terna para designar a quien fungirá con tal carácter. De igual manera, los integrantes del Consejo de Administración podrán proponer la remoción del Director General cuando existan causas debidamente justificadas que afecten el cumplimiento de los fines del Organismo.
 
 ###### Artículo 16.
 
@@ -339,7 +361,7 @@ El "Parque Fundidora", dentro del marco legal, podrá contratar los instrumentos
 
 ###### Artículo 22.
 
-EI "Parque Fundidora" queda sometido a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Paraestatal, de conformidad con lo establecido por la Ley de Administración Financiera para el Estado de Nuevo León.
+El "Parque Fundidora" queda sometido a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Paraestatal, de conformidad con lo establecido por la Ley de Administración Financiera para el Estado de Nuevo León.
 
 ###### Artículo 23.
 
@@ -384,3 +406,9 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 EL C. SECRETARIO DE DESARROLLO ECONÓMICO
 
 GUSTAVO ALARCÓN MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
