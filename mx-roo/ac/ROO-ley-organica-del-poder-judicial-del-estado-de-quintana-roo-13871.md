@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2008-03-11"
+last_updated: "2009-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -1331,6 +1331,14 @@ El Instituto de Defensoría Pública, es un órgano del Poder Judicial, con pers
 
 La Contraloría Interna del Poder Judicial es el órgano de control y supervisión del cumplimiento de las normas de funcionamiento administrativo y presupuestal que rijan a los órganos, unidades, servidores públicos y empleados del propio Poder Judicial, con excepción de aquellas que correspondan al Tribunal Superior de Justicia.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 103 Bis.
+
+El Centro de Convivencia Familiar Supervisada es un órgano del Consejo de la Judicatura del Estado, con autonomía técnica y operativa, que tiene por objeto facilitar la convivencia paterno-filial en aquellos casos que, a juicio de los titulares de los juzgados y salas, ésta no puede realizarse de manera libre o se ponga en riesgo el interés superior del menor.
+
+Los servicios del Centro de Convivencia Familiar Supervisada, se otorgarán de forma gratuita en sus instalaciones.
+
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 104.
@@ -1800,3 +1808,7 @@ PRIMERO.- El presente decreto entrará en vigor el día 1º de Septiembre del a�
 SEGUNDO.- En tanto entra en vigor el presente decreto, los servicios de ayuda técnico-legal a aquellas personas que carecen de recursos para contratar abogados o defensores particulares y el servicio de defensoría de oficio y asistencia jurídica seguirán siendo proporcionados por el Centro de Asistencia Jurídica del Poder Judicial del Estado.
 
 TERCERO.- Publíquese el presente decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 18 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
