@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2009-07-04"
+last_updated: "2009-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -1345,7 +1345,9 @@ I.- Lista de presentes y, en su caso, declaración de quórum;
 
 II.- Lectura y aprobación en su caso del acta de la sesión anterior. En caso de discrepancia con el contenido del acta, se aclarará con el Secretario y de subsistir aquélla, podrán hacer uso de la palabra dos diputados en pro y dos en contra, después de lo cual se someterá a decisión del pleno;
 
-III.- Comunicaciones de los Poderes de la Unión, de los poderes Ejecutivo y Judicial del Estado, de los ayuntamientos del mismo, así como de las legislaturas de los estados;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Comunicaciones de los Poderes de la Unión, de los Poderes Ejecutivo y Judicial del Estado, de los Ayuntamientos del mismo, de las Legislaturas de los Estados, así como la correspondencia despachada;
 
 IV.- Iniciativas de ley o decreto;
 
@@ -2250,3 +2252,9 @@ La Junta de Coordinación Parlamentaria, con fundamento en lo dispuesto por el a
 P.O. 4 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
