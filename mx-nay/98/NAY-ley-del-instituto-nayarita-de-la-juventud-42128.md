@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-instituto-nayarita-de-la-juventud-42128"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-22"
-last_updated: "2004-12-22"
+last_updated: "2009-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DEL INSTITUTO NAYARITA DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 19 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 22 de diciembre de 2004.
 
@@ -300,3 +302,19 @@ Dado en San Juan de Abajo, municipio de Bahía de Banderas, Nayarit, a los once 
 Dip. Presidente, Manuel Narváez Robles.- Rúbrica.- Dip. Secretario, Enrique Mejía Pérez.- Rúbrica.- Dip. Secretario, Juan Manuel Mier Pecina.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veinte días del mes de diciembre del año dos mil cuatro.- C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2009.
+
+Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- El Reglamento de esta Ley deberá ser expedido en un plazo no mayor de 180 días naturales contados a partir de la entrada en vigor de la presente.
+
+Tercero.- El Instituto Nayarita de la Juventud en un plazo de 180 días contados a partir de la entrada en vigor de la presente Ley, deberá elaborar el Programa.
+
+Cuarto.- Se abroga el decreto número 8626, publicado en el Periódico Oficial del Estado el 22 de diciembre del año 2004.
+
+Quinto.- El Instituto que se crea con la presente ley seguirá ejerciendo los recursos financieros y materiales asignados al Instituto Nayarita de la Juventud constituido mediante el decreto que se abroga; asimismo quedan a salvo los derechos laborales adquiridos por los servidores públicos de dicho organismo descentralizado.
+
+Sexto.- Los nombramientos para integrar la Junta de Gobierno del Instituto Nayarita de la Juventud que al amparo del Decreto que se abroga realizaron la Secretaría de Planeación y Desarrollo, la Comisión de Atención a la Juventud del H. Congreso del Estado, el Instituto del Deporte del Estado y las Universidades o Instituciones públicas de nivel superior, quedarán sin efectos a partir de la entrada en vigor de la presente ley.
