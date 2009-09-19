@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-242
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2002-02-16"
+last_updated: "2009-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 19 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2009 (ABROGADO).
 
 Reglamento publicado en Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 16 de febrero de 2002.
 
@@ -1498,3 +1500,31 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO.
 LIC. JOSE LUIS BRAVO MENDEZ.
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2009.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, publicado en la Edición Extraordinaria del Periódico Oficial del Estado, el sábado 16 de febrero de 2002.
+
+TERCERO. Se derogan los acuerdos, circulares, instructivos y demás disposiciones administrativas que se opongan en lo conducente al presente Reglamento.
+
+CUARTO. Los asuntos que a la entrada en vigor de este Reglamento que se estén tramitando en las unidades administrativas o dependencias de la Procuraduría señaladas en el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, publicado en la Edición Extraordinaria del Periódico Oficial del Estado, el sábado 16 de febrero de 2002, pasarán al conocimiento de las unidades administrativas que asuman sus atribuciones, salvo lo que disponga el Procurador mediante Acuerdo.
+
+QUINTO. Los órganos colegiados que al momento de la entrada en vigor del presente Reglamento continúen en funciones, se conformarán por las áreas o unidades administrativas y órganos y sus titulares que asuman las atribuciones de los integrantes anteriores.
+
+De conformidad con lo anterior, la Comisión de Honor y Justicia de la Procuraduría continuarán en funciones en términos de lo dispuesto en la Ley Orgánica de la Procuraduría General de Justicia del Estado, aprobada el 03 de diciembre de 1998 y publicada en la Edición Extraordinaria del Periódico Oficial del Estado, el sábado diecinueve de diciembre de 1998 y el Reglamento Interior de la Dirección General de la Policía Ministerial del Estado, publicado en el Periódico Oficial del Estado el 24 de Septiembre de 2003, hasta en tanto resuelva los procedimientos de responsabilidad administrativa iniciados con antelación a la entrada en vigor de la Ley Orgánica de la Procuraduría General de Justicia del Estado publicada en Periódico Oficial el 07 de julio de 2009, así como los que refiere el siguiente Transitorio.
+
+El Comité Evaluación, Validación y Certificación del Personal de la Procuraduría, creado mediante el Acuerdo General AG/06/2008, continuará en funciones en los términos de dicho ordenamiento y hasta en tanto el Procurador determine mediante acuerdo la estructura y funcionamiento del Órgano Colegiado adscrito al Centro de Evaluación y Control de Confianza a que se refiere el artículo 154 de este reglamento; asimismo, hasta en tanto no suceda lo anterior, además deberá realizar las funciones que señala el artículo 155 de este ordenamiento.
+
+SEXTO. Los procedimientos de responsabilidad administrativa iniciados con antelación a la entrada en vigor de la (sic) presente reglamento en contra del personal sustantivo de la Institución, así como, los que se inicien en el periodo transitorio de noventa días naturales posteriores a la entrada en vigor del mismo, serán resueltos por la Contraloría Interna de la Institución de conformidad con las leyes de la materia, y por la Comisión de Honor y Justicia de conformidad con la Ley Orgánica de la Procuraduría General de Justicia del Estado, aprobada el 03 de diciembre de 1998 y publicada en la Edición Extraordinaria del Periódico Oficial del Estado, el sábado diecinueve de diciembre de 1998 y el Reglamento Interior de la Dirección General de la Policía Ministerial del Estado, publicado en el Periódico Oficial del Estado el 24 de Septiembre de 2003.
+
+SÉPTIMO. La.Dirección (sic) de Administración, previo acuerdo con el Procurador, realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos de la Ley Orgánica y del presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestal.
+
+OCTAVO. El Procurador General de Justicia del Estado y los Titulares de las unidades o áreas administrativas de la Procuraduría, expedirán los Manuales de Organización y de Procedimientos de la Procuraduría en un plazo no mayor a noventa días.
+
+NOVENO. El Procurador en términos del artículo 126 de la Ley Orgánica y 278 de este reglamento, instalará el Consejo de Carrera de Procuración de Justicia y sus órganos auxiliares, en un plazo no mayor a noventa días. Una vez instalado, el Consejo de Carrera deberá expedir las normas reglamentarias o el Estatuto correspondiente para la migración del personal sustantivo al Servicio de Carrera de Procuración de Justicia en un plazo no mayor a noventa días.
