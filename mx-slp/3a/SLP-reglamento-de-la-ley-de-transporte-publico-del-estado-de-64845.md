@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-transporte-publico-del-estado-de-64845"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-25"
-last_updated: "2005-08-25"
+last_updated: "2009-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO DE LA LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO DE LA LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE FECHA 19 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de agosto de 2005.
 
@@ -476,3 +478,19 @@ EL SECRETARIO DE COMUNICACIONES Y TRANSPORTES
 LIC. JOSÉ ERNESTO PIÑA CÁRDENAS
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Transporte Público del Estado de San Luis Potosí, publicado en el Periódico oficial del Estado el 25 de agosto de 2005.
+
+TERCERO. Se abroga el Reglamento de la Ley de Transporte Público del Estado en Materia de Publicidad en Vehículos de Transporte Público Concesionado, publicado en el Periódico Oficial del Estado el 11 de septiembre de 1997.
+
+CUARTO. Se abrogan todas aquellas disposiciones administrativas, de igual o menor jerarquía, que se opongan al presente Reglamento.
+
+QUINTO. Los concesionarios del servicio público de automóvil de alquiler de sitio que conforme lo establecido en el artículo 33, fracción I, inciso c), numerales 2) y 7) del presente Reglamento, se encuentren obligados a modificar el color y rótulos de sus unidades, contarán con plazo de seis meses a partir de la entrada en vigor de este mismo Reglamento para implementar las modificaciones respectiva (sic).
+
+SEXTO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Reglamento, se resolverán en los términos de los reglamentos y demás disposiciones administrativas que se abrogan.
