@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-10941"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-13"
-last_updated: "1999-06-11"
+last_updated: "2009-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSI PUBLICADA EN EL P.O. DE 19 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de marzo de 1997.
 
@@ -666,3 +668,23 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días de su public
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- En términos de las atribuciones del Consejo de la Comisión Estatal de Derechos Humanos, éste modificará y aprobará en congruencia con lo dispuesto en este Decreto, a más tardar dentro de los sesenta días contados a partir de la entrada en vigor del mismo, el Reglamento interno de la Comisión. Mientras ello ocurre, mantendrá su vigencia el actual, en lo que no se oponga al presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Esta Ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Decreto Legislativo No. 774 del 13 de marzo de 1997, relativo a la Ley de la Comisión Estatal de los Derechos Humanos.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. La Comisión deberá expedir su Reglamento Interior dentro de los ciento ochenta días siguientes a la entrada en vigor de la misma.
+
+QUINTO. La Comisión deberá expedir el Reglamento del Servicio Profesional en Derechos Humanos de la presente Ley, dentro de los ciento ochenta días siguientes a la entrada en vigor de la misma.
+
+SEXTO. El Contralor Interno de la Comisión será electo por el Congreso, a más tardar noventa días después de entrar en vigor esta Ley. El primer titular de la Contraloría Interna durará en su encargo hasta el 31 de marzo de 2011. A partir del año 2011, los titulares de la Contraloría Interna durarán en su encargo cuatro años, de acuerdo a lo estipulado en el' artículo 79 de la presente Ley.
+
+SEPTIMO. La Comisión, a efecto de instrumentar lo establecido en el presente Decreto, contemplará en su proyecto de presupuesto anual para el ejercicio fiscal 2010, lo relacionado con el establecimiento de la Dirección de Equidad y No-Discriminación, a efecto de instituirla dentro de los seis primeros meses siguientes a la entrada en vigor de este Ordenamiento.
+
+OCTAVO. El Consejo de la Comisión en funciones al momento de la entrada en vigor de esta Ley, continuará en ejercicio hasta el fin del periodo para el que fue designado.
+
+NOVENO. Para la atención de los expedientes en trámite al momento de la entrada en vigor de la presente Ley, la Comisión aplicará de inmediato los principios establecidos en el Capítulo Segundo del Titulo Primero. Respecto del procedimiento aplicable a dichos expedientes, se sujetará a las nuevas normas, siempre que beneficien a la persona víctima, peticionaria o quejosa.
