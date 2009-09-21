@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-libro-segundo-del-codigo-para-la-56021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-22"
-last_updated: "2007-05-22"
+last_updated: "2009-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL LIBRO SEGUNDO DEL CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 22 de mayo de 2007.
 
@@ -2793,45 +2793,61 @@ La verificación de los límites de emisión de contaminantes a la atmósfera de
 
 ### CAPÍTULO VII. DE LOS VEHÍCULOS OSTENSIBLEMENTE CONTAMINANTES
 
+> <small>(REFORMADO, G.G. 21 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 286.
 
-La Secretaría en coordinación con las autoridades de tránsito y de comunicaciones y transportes, retirarán de la circulación los vehículos ostensiblemente contaminantes.
+La Secretaría en coordinación con la autoridad de Tránsito competente, detectará y retirará de la circulación a los vehículos automotores ostensiblemente contaminantes que circulen en territorio estatal.
 
 ###### Artículo 287.
 
 La Secretaría además de imponer las sanciones que procedan, determinará las medidas que deberá observar el propietario del vehículo ostensiblemente contaminante para que pueda circular.
 
+> <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 288.
 
-El Procedimiento al que se ajustara la Secretaría, para imponer las sanciones a que se refiere el artículo anterior y en su caso, autorizar la circulación del vehículo ostensiblemente contaminante, será el siguiente:
+El Procedimiento al que se ajustará la Secretaría, para imponer las sanciones a que se refiere el artículo anterior para el caso de vehículos automotores ostensiblemente contaminantes o por falta de verificación respectiva, se llevará a cabo en las siguientes modalidades:
 
-A indicación del personal de la Secretaría del Gobierno del Estado de México o de la autoridad ambiental municipal que corresponda, el oficial de tránsito procederá a efectuar la detención del vehículo infractor y solicitará a su conductor la documentación correspondiente.
+I. Tratándose de vehículos detenidos, por falta de holograma de verificación y certificado de verificación vehicular vigente, se procederá de la siguiente manera:
 
-Se hará del conocimiento al conductor el motivo de la detención del vehículo automotor, por parte del personal de la Secretaría y Tránsito del Gobierno del Estado de México o de la autoridad ambiental municipal que corresponda.
+a) A solicitud del servidor público habilitado de la Secretaría, el agente de tránsito procederá a efectuar la detención del vehículo automotor que no cuente con holograma y certificado de verificación vehicular vigente.
 
-El personal de la Secretaría del Gobierno del Estado de México o de la autoridad ambiental municipal llevará a cabo la revisión y evaluación del vehículo automotor, para determinar si es ostensiblemente contaminante.
+b) En el caso de que los propietarios o legítimos poseedores de vehículos automotores, que no cuenten con holograma y certificado de verificación vehicular vigente; se harán acreedores a la multa establecida en el artículo 2.265 fracción I del Código, colocando en la constancia de emisiones del vehículo sancionado, la leyenda "Sancionado por Incumplimiento al Programa de Verificación Vehicular Obligatorio Vigente", debiendo presentar ante cualquier verificentro autorizado en territorio estatal, recibo que acredite el pago de la multa en un término no mayor a treinta días naturales, contados a partir de la fecha de sanción.
 
-El conductor que considere que las emisiones de su vehículo automotor no rebasan los límites máximos permisibles podrá solicitar que el vehículo sea trasladado a un verificentro para efectuar las mediciones correspondientes, en cuyo caso no causará costo alguno.
+c) En caso de que el vehículo automotor sea detenido por segunda ocasión y no porte el holograma y certificado de verificación vehicular vigente, se procederá al retiro de una placa de circulación al vehículo automotor y se le entregará a cambio una constancia que acredite el retiro de la placa, así como, la hoja de sanción al conductor del vehículo automotor. El trámite para recuperar la placa será realizado de acuerdo a las disposiciones que emita la Secretaría, en el manual correspondiente.
 
-Si el vehículo detenido aprueba la revisión, se le regresarán sus documentos y podrá volver a la circulación sin mayor trámite.
+d) Los propietarios o legítimos poseedores de vehículos automotores, sancionados por falta de certificado de verificación vehicular vigente, deberán de realizar la prueba de emisiones contaminantes teniendo que aprobarla para obtener el certificado holograma de verificación vehicular correspondiente ante cualquier verificentro autorizado en territorio estatal, mismo que deberá ser presentado en original ante la Secretaría para obtener la placa de circulación retenida.
 
-El traslado de los vehículos detenidos será con el personal de la Dirección General de Seguridad Pública y Tránsito, en donde quedará a disposición de la Secretaría o de la autoridad ambiental municipal.
+II. Vehículos Ostensiblemente Contaminantes:
 
-La Secretaría o la autoridad ambiental municipal, notificará al conductor el inicio del procedimiento administrativo, haciéndole saber sus derechos e indicándole fecha, hora y lugar, para el desahogo de su garantía de audiencia.
+a) Aquellos vehículos automotores que en circulación emitan humo negro o azul.
 
-Una vez efectuado el desahogo de la garantía de audiencia, la Secretaría o la autoridad ambiental municipal, impondrá las sanciones previstas por el Código.
+A solicitud del servidor público habilitado de la Secretaría, el agente de tránsito procederá a efectuar la detención del vehículo automotor, solicitando al propietario o legal poseedor del mismo la siguiente documentación:
 
-Una vez concluido el procedimiento y cumplida la resolución, la Secretaría podrá autorizar la circulación del vehículo contaminante para que sea conducido al taller que designe el interesado, siendo el plazo máximo de treinta días.
+Vehículos automotores matriculados en el Estado de México; tarjeta de circulación y/o formato único de control vehicular y holograma de verificación vehicular vigente.
 
-Para el caso de taxis y microbuses detenidos y sancionados por falta de verificación o por contaminar, deberán pagar la multa correspondiente y verificar en la Entidad en la que suceda la detención y aplicación de la sanción respectiva.
+Vehículos automotores matriculados en el Distrito Federal; tarjeta de circulación, holograma de verificación vehicular vigente emitido por cualquier verificentro autorizado en el Distrito Federal, con su holograma correspondiente.
 
-Tratándose de vehículos detenidos, por contaminar o sancionados por falta de la verificación próxima anterior se procederá a:
+Vehículos automotores matriculados en otras entidades federativas, servicio público federal; tarjeta de circulación y en su caso el holograma de verificación vehicular vigente.
 
-Retiro de una placa y la tarjeta de circulación entregándole un permiso para circular por tres días hábiles.
+b) El personal de la Secretaría hará del conocimiento al propietario o legal poseedor del vehículo automotor el motivo de la detención, el cual deberá identificarse y mostrar su oficio de comisión.
 
-Se entregará al conductor del vehículo un documento en el que se hará constar la retención de los documentos a que se refiere el párrafo anterior.
+c) Las unidades móviles de verificación vehicular, contarán con equipo analizador de gases para evaluar las emisiones contaminantes de escape de los vehículos automotores, mismas que serán tripuladas por personal de la Secretaría, que llevará a cabo una prueba estática de emisiones contaminantes a vehículos automotores con combustible a gasolina o diesel, de conformidad con los límites máximos permisibles de emisión establecidos en el Programa de Verificación Vehicular Vigente.
 
-El propietario o conductor deberá pagar la multa de veinte días de salario mínimo general vigente en la "Zona Económica A" y presentarla en el Verificentro donde deberá verificar la unidad. De obtener un resultado aprobatorio se le entregará la constancia correspondiente con la leyenda "sancionado por ostensiblemente contaminante", y se adherirá el holograma a un cristal del vehículo de forma visible. En caso de incumplimiento se estará a lo previsto en el Código.
+d) Si el vehículo automotor detenido por emitir humo negro o azul, cumple satisfactoriamente con la prueba estática de emisiones contaminantes, se le entregará al propietario o legal poseedor del vehículo automotor, la "Constancia Técnica de Evaluación de Emisiones Contaminantes" con la leyenda "APROBADO", y se procederá a realizar la devolución de los documentos solicitados y podrá volver a la circulación sin mayor trámite.
+
+e) En el caso de que el vehículo automotor detenido por emitir humo negro o azul, rebase los límites máximos permisibles para vehículos con combustible a gasolina o diesel, se le entregará al propietario o legal poseedor del vehículo automotor, la "Constancia Técnica de Evaluación de Emisiones Contaminantes" con la leyenda "NO APROBADO", dicho documento acreditará que es un vehículo automotor ostensiblemente contaminante; procediendo a retirar una de las placas de circulación colocando en la constancia de emisiones del vehículo sancionado, la leyenda "Sancionado por Incumplimiento al Programa de Verificación Vehicular Obligatorio Vigente por Ostensiblemente Contaminante", el cual permite la circulación del vehículo automotor sin una placa por un plazo no mayor a 30 días naturales a partir de la fecha de la sanción.
+
+f) Una vez acreditada la sanción del vehículo automotor como ostensiblemente contaminante al rebasar los límites máximos permisibles de emisiones contaminantes, se impondrá al propietario o legal poseedor del vehículo automotor, la sanción establecida en el artículo 2.265 fracción II del Código, así como el retiro de una placa de circulación, contando con un plazo de treinta días naturales para efectuar las reparaciones mecánicas necesarias para que el vehículo automotor sancionado apruebe la verificación vehicular ante cualquier verificentro autorizado en territorio estatal y obtenga el certificado holograma de verificación correspondiente.
+
+g) En caso de que un vehículo automotor sea detenido por ostensiblemente contaminante por segunda ocasión y que cuente con una sanción previa procederá lo siguiente:
+
+Para aquellos vehículos automotores que no hayan efectuado la reparación mecánica y verificación vehicular correspondiente en el plazo de treinta días naturales otorgados en la primera sanción, el propietario o legal poseedor del vehículo automotor, se hará acreedor a la multa establecida en el artículo 2.265 fracción III del Código, colocando en la constancia de emisiones del vehículo sancionado, la leyenda "Sancionado por Incumplimiento al Programa de Verificación Vehicular Obligatorio Vigente por Ostensiblemente Contaminante Reincidente" contando nuevamente con un plazo de treinta días naturales para efectuar la reparación mecánica y efectuar la verificación vehicular correspondiente ante cualquier verificentro autorizado en territorio estatal obteniendo el holograma de verificación vehicular vigente.
+
+En caso de que el vehículo automotor Ostensiblemente Contaminante Reincidente no haya efectuado la reparación mecánica y verificación vehicular correspondiente, el propietario o legal poseedor del vehículo automotor se hará acreedor a la multa establecida en el artículo 2.265 fracción IV del Código, así como el retiro de la segunda placa de circulación.
+
+El trámite para recuperar la o las placas de circulación deberá efectuarse en los depósitos de la Secretaría lugar donde se concentran las placas de circulación retenidas, debiendo acreditar la aprobación de la verificación vehicular correspondiente ante cualquier verificentro autorizado en territorio estatal, así como el cumplimiento de las demás disposiciones que emita la Secretaría, en el manual correspondiente.
 
 ### CAPÍTULO VIII. DE LOS VERIFICENTROS
 
@@ -3634,3 +3650,15 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 21 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría del Medio Ambiente, proveerá lo necesario para dar cumplimiento a lo establecido por el presente Acuerdo.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
