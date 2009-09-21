@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2009-08-10"
+last_updated: "2009-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1061,23 +1061,23 @@ Departamento de Evaluación a Obras Públicas.
 
 Departamento de Evaluación a Servicios Públicos.
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO:
+IX.- SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO:
 
-Secretaría Particular;
+Secretaría Particular.
 
 Departamento de Junta Municipal de Reclutamiento.
 
-Coordinación Administrativa
+Coordinación Administrativa.
 
-Subsecretaría del H. Ayuntamiento y Subdirección General de Gobierno
+Subsecretaría del H. Ayuntamiento y Subdirección General de Gobierno.
 
-Dirección de Justicia Municipal
+Dirección de Justicia Municipal.
 
 Departamento de Servicios Médicos, Psicología y Trabajo Social.
 
-Dirección de Asuntos Jurídicos:
+Dirección de Asuntos Jurídicos.
 
 Coordinación de Asuntos de Cabildo.
 
@@ -1085,29 +1085,31 @@ Coordinación Jurídica de lo Contencioso.
 
 Coordinación Jurídico-Legislativa.
 
-Dirección de Reglamentación:
+Dirección de Reglamentación.
 
 Coordinación de Licencias.
 
 Coordinación de Verificación.
 
-Dirección de Mercados, Estacionamientos y Áreas Comerciales:
+Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
 Departamento de Mercados y Estacionamientos.
 
-Departamento de Áreas Comerciales.
+Departamento de Áreas Comerciales
 
-Dirección de la Unidad Municipal de Protección Civil.
+Dirección Municipal de Protección Civil.
+
+Departamento de Verificación, Inspección y Capacitación.
 
 Departamento Operativo de Protección Civil.
 
-Dirección de Bomberos:
+Dirección de Bomberos.
 
 Departamento de Atención Médica Prehospitalaria.
 
 Departamento de Bomberos.
 
-Dirección de Asuntos Internos de Seguridad Pública y Tránsito.
+Dirección de Asuntos Internos de Seguridad Pública.
 
 Departamento de Procedimientos, Registro y Estadística.
 
@@ -14545,6 +14547,8 @@ Los pagos de licencias, permisos y sanciones, se realizarán en las cajas recept
 
 De los establecimientos dedicados a la renta de películas, videos, cintas, discos compactos, salas de cine y cualquier otro equipo que transmita sonido o imágenes
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 1214.
 
 Los anuncios, en consideración al lugar en que se fijen, coloquen o instalen, se clasifican de la siguiente manera:
@@ -15963,15 +15967,31 @@ Los establecimientos dedicados a la renta de equipos de cómputo para Internet o
 
 ###### ARTÍCULO 1335.
 
-Los establecimientos dedicados a la renta de películas, videos, cintas, discos compactos y cualquier otro equipo que transmita sonido o imágenes, deberá solicitar licencia de funcionamiento en los términos de este Código y deben cumplir con las siguientes obligaciones:
+Los establecimientos dedicados a la venta, renta y/o intercambio de fonogramas o videogramas, deberán solicitar licencia de funcionamiento en los términos de este Código y cumplir con las siguientes obligaciones:
 
 l. Operar en un horario de las nueve a las veintitrés horas.
 
 II. Prohibir que laboren menores de edad dentro del establecimiento.
 
-III. Prohibir la exhibición y renta de películas clasificadas como exclusivas para adultos a menores de edad, así como la proyección de éstas películas en el interior del establecimiento.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-IV. Deberán contar con un área de acceso para muestreo del catálogo de películas clasificadas para adultos.
+III. Prohibir la exhibición, venta, renta y/o intercambio de videogramas clasificados como exclusivos para adultos a menores de edad, así como la proyección de estos videogramas en el interior del establecimiento.
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Deberán contar con un área de acceso para muestreo del catálogo de videogramas con contenido pornográfico.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+V. Deberán vender, rentar y/o intercambiar fonogramas o videogramas cuya reproducción sea lícita.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 1335
+
+BIS.- Los establecimientos dedicados a la venta, renta y/o intercambio de fonogramas o videogramas que incumplan con la obligación prevista en la fracción V del artículo anterior, serán sancionados con la clausura definitiva del establecimiento y el aseguramiento de la mercancía ilícita.
+
+En cualquier momento, la Dirección de Reglamentación podrá solicitar el auxilio de la Secretaria de Seguridad Pública y Tránsito Municipal para la realización de las diligencias en donde se impongan y ejecuten las sanciones previstas en el párrafo anterior.
 
 ###### ARTÍCULO 1336.
 
@@ -18313,19 +18333,19 @@ e) Utilización de agua sin el pago correspondiente en la construcción de barda
 
 ###### ARTÍCULO 1575.
 
-Se aplicarán las sanciones de clausura definitiva, y revocación de la licencia permiso para operar o construir a quienes en un período de seis meses reincidan en las mismas infracciones previstas por este ordenamiento.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
 
 ###### ARTÍCULO 1576.
 
-Para el caso de que se den las condiciones previstas de emergencia general o situación de desastre, la Dirección de la Unidad Municipal de Protección Civil y la Dirección de Bomberos estarán facultados para tomar las medidas necesarias de evacuación de personas, o desocupación de edificios, como resultado de la inspección y dictamen emitidos por peritos autorizados, sin que tales tipos de medidas constituyan una sanción en si.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
 
 ###### ARTÍCULO 1577.
 
-La demolición parcial o total de obras, solo se aplicará, por resolución expresa de la autoridad competente, y en base a los peritajes de profesionales en la materia que así lo justifiquen.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
 
-###### ARTICULO 1578.
+###### ARTÍCULO 1578.
 
-En todos aquellos casos en que al ocurrir un siniestro, existan responsables, sin perjuicio de lo que las leyes determinen, se podrá proveer como sanción la de reposición de obra, o bien dañado, así como el pago de daños y perjuicios conforme lo dispone el Código Civil vigente en el Estado.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
 
 ###### ARTÍCULO 1579.
 
@@ -19076,3 +19096,59 @@ El Secretario Técnico del Comité se encargará de realizar la convocatoria a l
 El H. Ayuntamiento, designará de entre sus miembros al Regidor o Síndico que se integrará al Comité citado, en un término no mayor a 20 días naturales.
 
 El Secretario Técnico deberá emitir la convocatoria correspondiente para la designación de los tres representantes de las agrupaciones musicales.
+
+P.O. 21 DE SEPTIEMBRE DE 2009.
+
+DECRETO POR EL QUE SE MODIFICA LA FRACCION IX DEL ARTICULO 98 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones Municipales que contravengan lo dispuesto en el presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+La Dirección Municipal de Protección Civil deberá presentar la propuesta del Programa Municipal de Protección Civil y de los manuales de las bases y tablas técnicas a la Comisión de Gobernación del H. Ayuntamiento en un término no mayor a 120 días naturales. La Comisión tendrá 120 días naturales para revisar la propuesta y en caso de considerarla correcta, presentarla al H. Ayuntamiento para su aprobación.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan los artículos 1575, 1576, 1577 y 1578 del Código Municipal de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Las modificaciones a la fracción IX del artículo 98 del Código Municipal de Aguascalientes, establecidas en el presente Decreto, no afectarán, de ninguna manera, el presupuesto autorizado a la Dirección Municipal de Protección Civil para el ejercicio fiscal que corresponda.
+
+P.O. 21 DE SEPTIEMBRE DE 2009.
+
+DECRETO POR EL QUE SE EMITE EL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones Municipales que contravengan lo dispuesto en el presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+La Dirección Municipal de Protección Civil deberá presentar la propuesta del Programa Municipal de Protección Civil y de los manuales de las bases y tablas técnicas a la Comisión de Gobernación del H. Ayuntamiento en un término no mayor a 120 días naturales. La Comisión tendrá 120 días naturales para revisar la propuesta y en caso de considerarla correcta, presentarla al H. Ayuntamiento para su aprobación.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan los artículos 1575, 1576, 1577 y 1578 del Código Municipal de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Las modificaciones a la fracción IX del artículo 98 del Código Municipal de Aguascalientes, establecidas en el presente Decreto, no afectarán, de ninguna manera, el presupuesto autorizado a la Dirección Municipal de Protección Civil para el ejercicio fiscal que corresponda.
+
+P.O. 21 DE SEPTIEMBRE DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 1335 Y 1335 BIS DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
