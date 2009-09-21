@@ -1,0 +1,1854 @@
+---
+title: "LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO"
+identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
+country: "mx"
+rank: "ley_organica"
+publication_date: "2009-09-21"
+last_updated: "2009-09-21"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-hid"
+scjn_id: "70231"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "38"
+reform_count: "42"
+scjn_last_update: "2026-08-28"
+issue_date: "2009-09-09"
+state: "HID"
+---
+# LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
+
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
+
+MIGUEL ÁNGEL OSORIO CHONG, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+
+QUE LA LX LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+
+D E C R E T O NÚM. 196
+
+> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2010)</small>
+
+QUE CONTIENE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO.
+
+El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado Libre y Soberano de Hidalgo, D E C R E T A:
+
+A N T E C E D E N T E S.
+
+POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+
+D E C R E T O
+
+> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2010)</small>
+
+QUE CONTIENE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO.
+
+## TÍTULO PRIMERO. DE LA INTEGRACIÓN DEL PODER LEGISLATIVO
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 1.
+
+La presente Ley, es de orden público y tiene por objeto regular la organización y estructura del Poder Legislativo del Estado, cuya titularidad recae en un Órgano denominado Congreso del Estado Libre y Soberano de Hidalgo.
+
+###### ARTÍCULO 2.
+
+Corresponde al Congreso del Estado, las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, esta Ley y demás ordenamientos legales.
+
+###### ARTÍCULO 3.
+
+El ejercicio de las funciones de los Diputados durante el período constitucional de tres años, conforma una Legislatura, la que se identificará según el número ordinal que le corresponda.
+
+###### ARTÍCULO 4.
+
+El Congreso del Estado, se integra con Diputados electos en su totalidad por sufragio universal, libre, secreto y directo, conforme a los principios de votación mayoritaria relativa y de representación proporcional, en el número y términos que determinen la Constitución Política del Estado de Hidalgo y la Legislación Electoral. La Legislatura se renovará en su totalidad cada tres años, y ninguno de sus integrantes, podrá ser reelecto para el periodo inmediato.
+
+###### ARTÍCULO 5.
+
+Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Períodos Ordinarios de Sesiones cada año, en los términos previstos por el Titulo Sexto, de la Constitución Política del Estado de Hidalgo. Los períodos no podrán prorrogarse más allá de las fechas previstas en este Título.
+
+El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
+
+El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos periodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
+
+## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA Y DEL RECINTO OFICIAL DEL CONGRESO
+
+### CAPÍTULO I. DE LA INSTALACIÓN DE LA LEGISLATURA
+
+###### ARTÍCULO 6.
+
+En el año de renovación de la Legislatura, la Diputación Permanente en funciones, se constituirá en Comisión Instaladora.
+
+###### ARTÍCULO 7.
+
+La Comisión Instaladora, estará facultada para:
+
+I.- Recibir de los Diputados, electos las constancias que los acrediten como tales, expedidas por la Autoridad Electoral, a fin de hacer la inscripción correspondiente en el Libro de Registro;
+
+II.- Recibir la notificación de las resoluciones firmes que dicte el Tribunal Electoral del Estado, respecto de los medios de impugnación que haya conocido, de conformidad con lo dispuesto por la Ley de la materia;
+
+III.- Entregar a la Directiva de la Junta Preparatoria, los registros y en general, la documentación relativa al funcionamiento y ejercicio de la Legislatura saliente;
+
+IV.- Citar dentro de los ocho días naturales, previos al inicio de la Legislatura entrante a los Diputados Electos, quienes con la asistencia de la mayoria absoluta de los mismos se constituirán en Junta Preparatoria y bajo la conducción de la Comisión Instaladora procederán, mediante votación por cédulas, a la elección de los miembros que conformarán su Directiva, misma que se integrará por un Presidente, un Vicepresidente y dos Secretarios, los que una vez electos, de inmediato rendirán protesta. El Presidente de la Comisión Instaladora preguntará: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo que se les ha conferido, mirando en todo por el bien y prosperidad del Estado de Hidalgo?". Los interrogados contestarán: "Si protesto". El Presidente de la Comisión Instaladora, dirá: "Si así no lo hicieren, que la sociedad se los demande". Acto continuo, el Presidente de la Comisión Instaladora, solicitará a los Diputados electos que pasen a ocupar los lugares correspondientes en las curules;
+
+V.- Citar de nueva cuenta, en caso de no existir Quórum, para que se presenten en la fecha y hora que se les señale, apercibiéndolos que de no asistir con causa justificada, se llamará en definitiva a sus respectivos suplentes; y
+
+VI.- Recibir el Acta a que se refiere el Artículo 93 de la presente Ley.
+
+###### ARTÍCULO 8.
+
+Una vez que los integrantes de la Directiva de la Junta Preparatoria hayan tomado posesión, el Presidente de la misma, designará una Comisión de Cortesía que se conformará por tres Diputados, quienes se encargarán de acompañar y despedir a la Comisión Instaladora. Para tal efecto, se declarará un receso.
+
+###### ARTÍCULO 9.
+
+Una vez reanudada la Sesión, el Presidente de la Directiva de la Junta Preparatoria convocará a los Diputados Electos, miembros de la nueva Legislatura; dentro de los cinco días naturales anteriores al inicio de sus funciones, a efecto de celebrar la Sesión Constitutiva.
+
+Dentro de ese mismo plazo, se convocará a los Coordinadores de los Grupos Legislativos a efecto de conformar e instalar la Junta de Gobierno.
+
+###### ARTÍCULO 10.
+
+El día señalado para la celebración de la Sesión Constitutiva de la Legislatura, se observará lo siguiente:
+
+I.- El Presidente de la Directiva comprobará la existencia del Quórum y posteriormente dará a conocer el Orden del Día, el cual deberá ceñirse al cumplimiento de los siguientes puntos: Declaración del Quórum; protesta constitucional de los Diputados Electos presentes; elección de los integrantes de la primera Directiva de la nueva Legislatura; declaración legal de la Constitución de la Legislatura; declaratoria de la Constitución de los Grupos Legislativos; La declaración en favor del diputado que en términos del Artículo 98 de ésta ley corresponda el cargo de Presidente de Junta de Gobierno; cita para la primera Sesión Ordinaria de la Legislatura.
+
+En caso de no asistir cuando menos las dos terceras partes de los integrantes de la nueva Legislatura, la Directiva, citará a los Diputados Electos para que se presenten en la fecha y hora que se les señale, apercibiéndolos que de no existir causa justificada de su inasistencia, se procederá a llamar en definitiva a sus respectivos suplentes.
+
+Cuando verificado el Quórum, algún Diputado Electo no hubiere asistido a la Sesión constitutiva, el Presidente de la Directiva, lo citará para que se presente a rendir la protesta de Ley correspondiente en la fecha y hora que se le señale, apercibiéndolo que de no asistir sin causa justificada, se llamará en definitiva a su Suplente.
+
+De no presentarse ni uno ni otro y tratándose de Diputados Electos por el principio de mayoría relativa, se declarará vacante la diputación y se notificará a la Autoridad Electoral a efecto de que convoque a Elección Extraordinaria.
+
+Cuando los Diputados sean de representación proporcional, se llamará a quien tenga derecho conforme a la Ley de la materia;
+
+II.- Acto seguido, los Diputados otorgarán la protesta de Ley a que se refiere el Artículo 155 de la Constitución Política del Estado. Al efecto, el Presidente de la Directiva, puesta de pie la Asamblea, rendirá la protesta en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Diputado que la sociedad me ha conferido, mirando en todo por el bien prosperidad del Estado de Hidalgo. Y si así no lo hiciere, que la sociedad me lo demande". A continuación, el propio Presidente de la Directiva preguntará a los demás Diputados: ¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Diputado que se les ha conferido, mirando en todo, por el bien y prosperidad del Estado de Hidalgo? ". Los interrogados contestarán: "Si protesto". El Presidente de la Directiva, dirá: "Si así no lo hicieren, que la sociedad se los demande".
+
+Los Diputados que se presenten o sean llamados al ejercicio del cargo con posterioridad a la Sesión Constitutiva de la Legislatura, rendirán la protesta en la primera Sesión ordinaria no solemne, en la que estén presentes, ante el Presidente de la Directiva en los términos de la fórmula anterior.
+
+Ningún Diputado, podrá asumir su cargo, sin rendir la protesta legal;
+
+III.- Efectuada la protesta, se elegirá a los integrantes de la primera Directiva, que fungirá en el mes de abril del primer año de ejercicio constitucional, la cual, se conformará por un Presidente, un Vicepresidente, dos Secretarios propietarios y dos Secretarios suplentes. Una vez electos, el Presidente de la Directiva de la Junta Preparatoria, les tomará la protesta de ley en términos de lo establecido por el Artículo 7, fracción IV de la presente Ley, hecho lo anterior, los Diputados electos, ocuparán los lugares destinados a la Directiva del Congreso;
+
+IV.- Instalada la primera Directiva, el Presidente de ésta hará la siguiente declaratoria: "La ...(número ordinal que corresponda) Legislatura del Congreso del Estado Libre y Soberano de Hidalgo, se declara legítimamente constituida hoy (día, mes y año) para el desempeño de sus funciones constitucionales":
+
+V.- Acto seguido, se procederá a realizar la declaración a favor del Diputado al que corresponda ser Presidente de la Junta de Gobierno; y
+
+VI.- Una vez instalada la Legislatura y elegida la primera Directiva, deberá comunicarse lo anterior por escrito al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia y al Gobernador Electo, cuando proceda.
+
+Lo anterior, también deberá hacerse del conocimiento mediante oficio, a los Poderes Ejecutivo, Legislativo y Judicial de la Nación, así como a las Legislaturas de los Estados de la Federación y a la Asamblea Legislativa del Distrito Federal.
+
+Asimismo, se remitirá al Poder Ejecutivo del Estado, a efecto de que la elección de la Directiva se dé a conocer en el Peri6dico Oficial del Estado.
+
+### CAPÍTULO II. DEL RECINTO OFICIAL DEL CONGRESO DEL ESTADO
+
+###### ARTÍCULO 11.
+
+El Congreso del Estado, residirá en la Ciudad de Pachuca de Soto y podrá cambiar temporalmente su Sede, previo Decreto que emita la Legislatura correspondiente, siempre que las circunstancias lo justifiquen, en los términos que establecen los Artículos 27 y 45 de la Constitución Política del Estado de Hidalgo.
+
+###### ARTÍCULO 12.
+
+Es Recinto Oficial, aquél que mediante Decreto determine el Congreso del Estado, el cual es inviolable. El acceso de la fuerza pública se permitirá sólo con la autorización o a solicitud del Presidente de la Directiva, quien asumirá el mando de la misma. Para todos los efectos conducentes se considera que forman parte del Recinto Oficial del Congreso, los edificios y demás inmuebles que alberguen Dependencias, Oficinas y Bienes del Poder Legislativo.
+
+Asimismo, el Presidente de la Directiva, podrá solicitar el auxilio de la fuerza pública, para salvaguardar el fuero constitucional de los Diputados. Cuando sin mediar autorización se hiciere presente la fuerza pública, el Presidente de la Directiva podrá decretar la suspensión de la Sesión hasta que la misma hubiere abandonado el Recinto.
+
+###### ARTÍCULO 13.
+
+Siempre que sea necesario, el Presidente de la Directiva podrá solicitar guardia militar para la custodia del edificio, estando sujeta a sus órdenes, exclusivamente.
+
+###### ARTÍCULO 14.
+
+Ninguna autoridad, podrá ejecutar mandatos judiciales o administrativos sobre bienes del Congreso del Estado; ni en las personas o bienes de los Diputados que lo integren cuando se encuentren en el interior de las instalaciones.
+
+Serán nulos de pleno derecho, los actos que se realicen en contravención a lo dispuesto en éste Artículo, independientemente de la responsabilidad en que incurra quien o quienes los hayan ordenado o ejecutado.
+
+###### ARTÍCULO 15.
+
+Toda persona que concurra a las Sesiones se presentará sin armas y deberá guardar compostura; el infractor será expulsado del edificio y en caso de que realice un hecho que la Ley señale como delito, el Presidente de la Directiva ordenará su detención y lo consignará a la Autoridad competente.
+
+## TÍTULO TERCERO. DE LOS DIPUTADOS
+
+### CAPÍTULO I. DE LA CONDICIÓN DE DIPUTADO
+
+###### ARTÍCULO 16.
+
+Para asumir las funciones como Diputado se requiere:
+
+I.- Ser declarado electo en los términos de la Ley Electoral del Estado de Hidalgo;
+
+II.- Acreditarse con la Constancia de Mayoría Relativa o de Representación Proporcional; y
+
+III.- Rendir la protesta constitucional prevista en el Artículo 155 de la Constitución Política del Estado de Hidalgo y 10, fracción II de esta Ley.
+
+###### ARTÍCULO 17.
+
+Los Diputados gozan del fuero que otorga la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Hidalgo.
+
+###### ARTÍCULO 18.
+
+Los Diputados, son inviolables por las opiniones que manifiesten en el desempeño de su cargo y no podrán ser reconvenidos o enjuiciados por ellas.
+
+###### ARTÍCULO 19.
+
+Los Diputados, son responsables por los delitos que cometan durante el tiempo de su cargo, pero no podrán ser detenidos ni ejercitarse en su contra acción penal, hasta que, seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los Tribunales Comunes y/o Federales, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Hidalgo y las Leyes Penales vigentes.
+
+En demandas del orden civil, mercantil, familiar, laboral y agrario, los Diputados no gozarán de fuero alguno.
+
+###### ARTÍCULO 20.
+
+Los Diputados en ejercicio, no podrán desempeñar ningún empleo, cargo o comisión de los Gobiernos Federal, Estatal o Municipal, salvo el académico o de beneficencia pública. La violación de ésta disposición será sancionada con la pérdida del cargo de Diputado.
+
+###### ARTÍCULO 21.
+
+Serán causas para que el Congreso del Estado decrete la suspensión de los derechos y obligaciones de los Diputados, las siguientes:
+
+I.- La licencia concedida en los términos de la Constitución Política del Estado de Hidalgo y de esta Ley;
+
+II.- La resolución del Congreso del Estado en la que se declare que ha lugar a proceder penalmente en su contra; y
+
+III.- La resolución del Congreso que erigido en Órgano de Acusación, determine que ha lugar a proceder en contra del Diputado.
+
+###### ARTÍCULO 22.
+
+El Congreso del Estado, decretará concluido el encargo de los Diputados, por alguna de las siguientes causas:
+
+I.- Por resolución firme condenatoria del Tribunal Superior de Justicia erigido como Jurado de Sentencia;
+
+II.- Por sentencia firme condenatoria dictada por los tribunales en caso de encontrarse penalmente responsable de un delito;
+
+III.- Por ausencia o incapacidad declaradas judicialmente;
+
+IV.- Por muerte; y
+
+V.- Por extinción del mandato constitucional, para el cual fue electo.
+
+### CAPÍTULO II. DE LOS DERECHOS DE LOS DIPUTADOS
+
+###### ARTÍCULO 23.
+
+Los derechos de los Diputados, serán efectivos desde el momento mismo en que rindan la protesta de Ley.
+
+###### ARTÍCULO 24.
+
+Todos los Diputados, tienen la misma categoría e iguales atribuciones.
+
+###### ARTÍCULO 25.
+
+Son derechos de los Diputados además de los otorgados por la Constitución Política del Estado de Hidalgo y demás disposiciones legales aplicables, los siguientes:
+
+I.- Asistir con voz y voto a las Sesiones del Pleno, de las comisiones a las que pertenezcan y de la Diputación Permanente, cuando formen parte de ella;
+
+II.- Elegir y ser electo para formar parte de la Directiva del Congreso del Estado;
+
+III.- Formar parte de cuando menos dos Comisiones Legislativas;
+
+IV.- Iniciar Leyes, Decretos y proponer Reformas y Acuerdos;
+
+V.- Formar parte de un Grupo Legislativo o constituirse en una representación partidista o como Diputado independiente;
+
+VI.- Participar en los trabajos, deliberaciones, debates, comparecencias y en general, en los procedimientos previstos en esta Ley;
+
+VII.- Contar con los servicios legislativos y de asesoría que requiera para el desempeño de sus funciones; y
+
+VIII.- Ocupar las curules que les sean asignadas por Acuerdo de la Junta de Gobierno.
+
+###### ARTÍCULO 26.
+
+Los Diputados, percibirán una remuneración denominada dieta; será igual para cada uno de ellos, se fijará en el Presupuesto de Egresos del Poder Legislativo y sólo podrá ser objeto de descuento, en los términos establecidos por la presente Ley y demás disposiciones legales aplicables.
+
+###### ARTÍCULO 27.
+
+Los Diputados podrán ausentarse de sus funciones con causa justificada, previa calificación del Presidente de la Directiva. Cuando la ausencia justificada no excediere del término de quince días, el Presidente de la Directiva, concederá autorización por ese lapso sin que ello implique reducción a la dieta del interesado.
+
+Se exceptúan de lo anterior, las ausencias por enfermedad cuya duración será la de la incapacidad médica y las de maternidad, que se extenderán hasta por noventa días.
+
+###### ARTÍCULO 28.
+
+Cuando la ausencia justificada exceda de quince días y sea menor de sesenta días, el Pleno o la Diputación Permanente, en su caso, concederá al interesado licencia temporal sin goce de dieta. En caso de licencia por tiempo indefinido se llamará a su Suplente, quien ejercerá las funciones durante el periodo de licencia.
+
+###### ARTÍCULO 29.
+
+Los permisos y las licencias, se concederán en tal forma que no impidan el desarrollo normal de las actividades del Congreso del Estado.
+
+En caso de ausencias injustificadas de los integrantes del Congreso, se aplicarán las disposiciones relativas contenidas en la presente Ley y demás ordenamientos legales aplicables.
+
+### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS DIPUTADOS
+
+###### ARTÍCULO 30.
+
+Son obligaciones de los Diputados:
+
+I.- Rendir la protesta de Ley y tomar posesión de su cargo;
+
+II.- Asistir puntualmente a las Sesiones del Congreso del Estado, así como a las de las Comisiones Legislativas de que formen parte;
+
+III.- Cumplir con las encomiendas que le sean asignadas por el Pleno, la Diputación Permanente o sus respectivos Presidentes;
+
+IV.- Informar por escrito a la Directiva sobre el cumplimiento y resultados de las encomiendas, representaciones y Comisiones Especiales que les asignen;
+
+V.- Permanecer en el Salón de Sesiones del Pleno, de la Diputación Permanente o de las Comisiones, durante el desarrollo de las Sesiones;
+
+VI.- Conducirse con respeto en sus intervenciones durante las Sesiones y los Trabajos Legislativos en los que participe, absteniéndose de ejecutar ademanes y pronunciar palabras ofensivas o injuriosas en contra de los miembros del Congreso del Estado o de terceros, así como realizar cualquier otro acto que altere el desarrollo de las Sesiones;
+
+VII.- Hacer uso de la tribuna, respetando el orden, la cortesía y la disciplina parlamentaria;
+
+VIII.- Abstenerse de hacer uso de la palabra durante las Sesiones, si el Presidente de la Directiva, no se la ha concedido:
+
+IX.- Solicitar autorización al Presidente de la Directiva, cuando por causa justificada, no pueda asistir a las Sesiones o Reuniones de Trabajo;
+
+X.- Acatar las disposiciones de la Directiva del Pleno o de la Diputación Permanente;
+
+XI.- Guardar prudente reserva de todos los asuntos que se traten o resuelvan en las Sesiones que tengan el carácter de secretas;
+
+XII.- Presentar declaración patrimonial, en los casos, términos y condiciones que establezca la presente Ley;
+
+XIII.- Desempeñar en la Directiva del Pleno o de la Diputación Permanente, el cargo para el que fuere electo;
+
+XIV.- Rendir anualmente su informe de labores como Diputado, en los términos del Artículo 30, Párrafo Tercero, de la Constitución Política del Estado de Hidalgo; y
+
+XV.- Las demás que señale la Constitución Política del Estado, esta Ley y su Reglamento.
+
+###### ARTÍCULO 31.
+
+Ningún Diputado, podrá excusarse de realizar las tareas propias de su cargo, salvo por causa justificada, que calificará el Presidente de la Directiva, el Pleno o la Diputación Permanente en su caso.
+
+###### ARTÍCULO 32.
+
+Los Diputados, durante el tiempo de su encargo, están impedidos para intervenir directa o indirectamente, como apoderados, representantes, abogados o directivos de empresa, respecto de contratos de obra, servicios o abastecimiento con los Gobiernos del Estado y Municipales.
+
+Asimismo, deberán anteponer sus funciones de representantes populares, sobre cualquier otra actividad, comisión o servicio.
+
+### CAPÍTULO IV. DE LA DISCIPLINA DE LOS DIPUTADOS
+
+###### ARTÍCULO 33.
+
+Los Diputados guardarán el debido respeto y compostura en el interior del Recinto Oficial, en las Sesiones y en cualquier acto de carácter oficial.
+
+###### ARTÍCULO 34.
+
+Los Diputados observarán las normas de cortesía y respeto para los demás miembros del Congreso y con los funcionarios e invitados al Recinto Oficial.
+
+###### ARTÍCULO 35.
+
+Los Diputados en el ejercicio de sus funciones, tanto al Recinto Oficial como fuera de él, observarán una conducta y comportamiento en congruencia con su dignidad de representantes populares.
+
+###### ARTÍCULO 36.
+
+Los Diputados durante sus intervenciones en la Tribuna o en cualquier acto oficial, se abstendrán de afectar o lesionar la dignidad de otro Diputado, demás servidores públicos así como de cualquier otra persona.
+
+### CAPÍTULO V. DE LAS SANCIONES DISCIPLINARIAS
+
+###### ARTÍCULO 37.
+
+Las sanciones disciplinarias que se aplicarán a los Diputados, son:
+
+I.- Apercibimiento;
+
+II.- Amonestación;
+
+III.- Amonestación con constancia en el Acta; y
+
+IV.- Disminución de la dieta.
+
+###### ARTÍCULO 38.
+
+Los Diputados, serán apercibidos por el Presidente de la Directiva o a moción de cualquiera de los Diputados, previa calificación del Presidente de la Directiva, cuando:
+
+I.- No guarden el orden o compostura en la Sesión; y
+
+II.- No guarden la reserva de los asuntos tratados en las Sesiones Secretas.
+
+###### ARTÍCULO 39.
+
+Los Diputados serán amonestados por el Presidente de la Directiva, cuando:
+
+I.- Sin justificación, uno o varios Diputados, perturben al Presidente de la Directiva, en el desarrollo de la Sesión;
+
+II.- Uno o varios Diputados, alteren el orden de la Sesión con interrupciones; y
+
+III.- Un Diputado, agotado el tiempo para su intervención, conforme a las reglas establecidas en esta Ley y su Reglamento, pretendiere continuar haciendo uso indebido de la Tribuna.
+
+###### ARTÍCULO 40.
+
+Los Diputados serán amonestados con constancia en Acta Especial por el Presidente de la Directiva, cuando:
+
+I.- En la misma Sesión en la que se le aplicó una amonestación, incurra de nueva cuenta en alguna de las causas previstas en el Artículo anterior;
+
+II.- Haya provocado un tumulto en el Pleno;
+
+III.- Porten armas dentro del Recinto Oficial Legislativo; y
+
+IV.- Profiera amenazas, injurias o calumnias a uno o varios de los Diputados, a los miembros de las Instituciones de la Federación, del Estado, Ayuntamientos, o a particulares.
+
+En el caso de la fracción III, constará la amonestación en Acta Especial, sin perjuicio de la responsabilidad en que pudiera incurrir, prevista por otras disposiciones legales.
+
+En el supuesto de la fracción IV, el Presidente de la Directiva por sí o a solicitud del ofendido, instará al Diputado ofensor para que retire las manifestaciones vertidas. En tal caso, el Presidente de la Directiva ordenará que tales imputaciones no consten en el Acta Especial.
+
+No podrá llamarse al orden, al orador que critique a los servidores públicos por faltas o errores cometidos en el despacho de sus atribuciones.
+
+###### ARTÍCULO 41.
+
+La dieta de los Diputados, será disminuida cuando se presente alguno de los siguientes supuestos:
+
+I.- En un Periodo de Sesiones, acumule más de una amonestación con constancia en Acta Especial;
+
+II.- Se haya conducido con violencia en el desarrollo de una Sesión;
+
+III.- Cuando falte a las Sesiones sin causa justificada; y
+
+IV.- Cuando acumule tres retardos consecutivos en un mes.
+
+###### ARTÍCULO 42.
+
+Tratándose de disminución de la dieta, se observará lo siguiente:
+
+I.- La sanción será aplicada por el Presidente de la Directiva, previo acuerdo que someta al Pleno o a la Diputación Permanente para su aprobación;
+
+II.- En el caso de las fracciones I y II del Artículo anterior, la disminución de la dieta podrá ser de hasta un diez por ciento de la misma, correspondiente a un mes, a juicio del Pleno o de la Diputación Permanente;
+
+III.- En el caso de la fracción III del Artículo anterior, la disminución de la dieta será del cien por ciento correspondiente al día de inasistencia; y
+
+IV.- En el caso de la fracción IV, la disminución de la dieta equivaldrá a un día de inasistencia, por cada tres retardos consecutivos en el mes.
+
+###### ARTÍCULO 43.
+
+Cuando algún Diputado deje de asistir a tres Sesiones consecutivas, sin previa autorización del Presidente de la Directiva o causa justificada, se llamará al Suplente, quien ejercerá las funciones durante el resto del periodo de Sesiones correspondiente.
+
+###### ARTÍCULO 44.
+
+Los Diputados que acumulen más de tres faltas consecutivas e injustificadas a las Sesiones de las Comisiones a las que pertenezcan, serán removidos por el Pleno, a solicitud de la Comisión respectiva, procediéndose a elegir al nuevo integrante que habrá de suplirlo.
+
+La Secretaría del Congreso, notificará al Diputado interesado la resolución en la que se dicte la procedencia de la remoción.
+
+###### ARTÍCULO 45.
+
+Para determinar las sanciones señaladas en el presente Capítulo, podrá constituirse una Comisión Especial que analice la procedencia de las mismas.
+
+## TÍTULO CUARTO. DE LAS FACULTADES Y FUNCIONAMIENTO DEL CONGRESO DEL ESTADO
+
+### CAPÍTULO I. DE LAS FACULTADES DEL CONGRESO
+
+###### ARTÍCULO 46.
+
+El Congreso del Estado, funcionará en Pleno o en Diputación Permanente y tendrá las facultades que le otorgan la Constitución Política de los Estados Unidos Mexicanos, la del Estado, la presente Ley y los demás ordenamientos legales vigentes.
+
+###### ARTÍCULO 47.
+
+Es competencia exclusiva de los Diputados, la presentación de Iniciativas de reforma, adición, derogación o abrogación de la presente Ley.
+
+Esta Ley no podrá ser vetada por el titular del Poder Ejecutivo del Estado, únicamente le será turnada para los efectos de su publicación.
+
+###### ARTÍCULO 48.
+
+El Congreso del Estado, tendrá plena autonomía en la elaboración y ejercicio de su presupuesto y para organizarse administrativamente, con apego a las disposiciones legales aplicables.
+
+###### ARTÍCULO 49.
+
+El Congreso del Estado, para su funcionamiento, podrá contar con los Órganos Administrativos, de Fiscalización, Investigación y Asesoría que su Presupuesto le permita.
+
+###### ARTÍCULO 50.
+
+El Congreso del Estado, expedirá su Reglamento Interior, que fijará las bases complementarias para su funcionamiento no previstas por esta Ley.
+
+### CAPÍTULO II. DEL PLENO DEL CONGRESO
+
+###### ARTÍCULO 51.
+
+El Pleno, es el órgano máximo de deliberación y debate del Congreso del Estado.
+
+Se reunirá válidamente con la presencia de la mayoría de sus miembros y adoptará sus decisiones por mayoría simple de los presentes, salvo en los casos de excepción señalados en esta Ley y en la Constitución Política del Estado de Hidalgo.
+
+###### ARTÍCULO 52.
+
+El Pleno, sesionará en los períodos establecidos por el Artículo 38 de la Constitución Política del Estado de Hidalgo y 5 de esta Ley.
+
+### CAPÍTULO III. DE LA DIRECTIVA DEL CONGRESO
+
+###### ARTÍCULO 53.
+
+La Directiva del Congreso, es el Órgano de Dirección de los Trabajos del Pleno o de la Diputación Permanente, en su caso; representante del Congreso en los asuntos de carácter legal, político y protocolario; intérprete de las disposiciones parlamentarias y garante de la inviolabilidad del Recinto legislativo y del respeto al fuero de los Legisladores.
+
+###### ARTÍCULO 54.
+
+La Directiva del Congreso, estará integrada tanto en los periodos Ordinarios de Sesiones, como en las Sesiones Extraordinarias, por un Presidente, un Vicepresidente, dos Secretarios Propietarios y dos Secretarios Suplentes, electos por mayoría de votos de los Diputados presentes en la Sesión correspondiente.
+
+> <small>(F. DE E., P.O.15 DE FEBRERO DE 2010)</small>
+
+La Directiva de la Diputación Permanente se compondrá de un Presidente, un Vicepresidente, un secretario propietario y dos suplentes comunes.
+
+###### ARTÍCULO 55.
+
+En la última sesión de la Diputación Permanente, con la mayoría de los Diputados de la Legislatura y bajo la conducción de la Directiva de la Diputación Permanente, se elegirá a la Directiva que deba fungir en el primer mes del siguiente Periodo Ordinario de Sesiones: y rendirán protesta en los términos del Artículo 7 fracción IV, de la presente Ley.
+
+El mismo procedimiento será aplicable tratándose de Periodos Extraordinarios de Sesiones.
+
+> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2010)</small>
+
+En caso de no ser posible nombrar a la Directiva que presidirá los trabajos del siguiente periodo de Sesiones, por falta de Quórum o alguna otra causa, la Directiva en funciones de la Diputación Permanente, seguirá actuando hasta en tanto se nombre a la nueva Directiva.
+
+###### ARTÍCULO 56.
+
+Durante los Períodos Ordinarios de Sesiones, la Directiva se renovará en su totalidad mensualmente, sin que los que hayan sido sus miembros, puedan ser electos para integrar otra Directiva en el mismo periodo de Sesiones.
+
+A la Presidencia de la Directiva, podrán acceder los Diputados en proporción a la representatividad de los Grupos Legislativos y al número de meses que integran los períodos de Sesiones.
+
+Los integrantes de la Directiva, tanto de la Diputación Permanente como de las Sesiones Extraordinarias, durarán en su cargo todo el período de receso o el tiempo que dure la Sesión Extraordinaria, en su caso.
+
+###### ARTÍCULO 57.
+
+Las Sesiones Extraordinarias, serán convocadas conforme a lo dispuesto en el Tercer Párrafo del Artículo 5 de esta Ley.
+
+###### ARTÍCULO 58.
+
+Una vez electa la Directiva del Congreso, deberá comunicarse por escrito a los Titulares de los Poderes Ejecutivo y Judicial del Estado. Asimismo, a los Poderes Legislativo, Ejecutivo y Judicial de la Nación, a las Legislaturas de las Entidades Federativas y a la Asamblea Legislativa del Distrito Federal.
+
+Asimismo, se solicitará al Ejecutivo del Estado, que la elección de la Directiva se dé a conocer en el Periódico Oficial del Estado.
+
+###### ARTÍCULO 59.
+
+En ausencia temporal del Presidente de la Directiva, ejercerá todas las funciones el Vicepresidente y en ausencia de éste, se estará a lo dispuesto por el Artículo 66 de esta Ley.
+
+###### ARTÍCULO 60.
+
+Los integrantes de la Directiva, sólo podrán ser removidos con el voto de las dos terceras partes de los Diputados presentes, por las siguientes causas:
+
+I.- Transgredir, en forma grave o reiterada, las disposiciones contenidas en esta Ley o las normas reglamentarias;
+
+II.- Incumplir los acuerdos del Congreso; y
+
+III.- Faltar injustificadamente, a tres Sesiones consecutivas del Pleno o de la Diputación Permanente, en su caso o a reuniones de la Directiva.
+
+###### ARTÍCULO 61.
+
+La Directiva del Congreso, se reunirá una vez por semana y tendrá las siguientes atribuciones:
+
+I.- Conocer de los asuntos que sean dirigidos al Congreso del Estado;
+
+II.- Dar seguimiento a los asuntos que sean competencia del Congreso;
+
+III.- Elaborar la propuesta del orden del día que regirá las Sesiones;
+
+IV.- Cuidar que los dictámenes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su formulación y presentación; y
+
+V.- Las demás que le otorguen la Constitución Política del Estado de Hidalgo, esta Ley, su Reglamento y las disposiciones que emita el Congreso del Estado.
+
+Las decisiones al interior de la Directiva, se tomarán por mayoría simple de votos de sus integrantes. El Presidente de la Directiva contará con voto de calidad en caso de empate.
+
+#### SECCIÓN PRIMERA. DE LA PRESIDENCIA DEL CONGRESO
+
+###### ARTÍCULO 62.
+
+El Presidente de la Directiva, es el Presidente del Congreso.
+
+En el ejercicio de sus atribuciones debe velar por el equilibrio entre las libertades de los Legisladores y de los Grupos Legislativos, por la eficacia en el cumplimiento de las funciones constitucionales del Congreso, así como hacer prevalecer el interés general del Poder Legislativo por encima de los intereses particulares o de grupo.
+
+###### ARTÍCULO 63.
+
+Son atribuciones del Presidente de la Directiva del Congreso:
+
+I.- Presidir las Sesiones y coordinar las acciones de la Directiva del Congreso;
+
+II.- Presidir, citar, abrir, suspender, levantar y clausurar las S8siones del Congreso;
+
+III.- Dar curso reglamentario, a los planteamientos y dictar los trámites que deban recaer en los asuntos con que se dé cuenta al Congreso;
+
+IV.- Declarar la existencia de Quórum o la falta de éste;
+
+V.- Someter a la aprobación del Pleno, la propuesta de Orden del Día;
+
+VI.- Conceder a los Diputados, el uso de la palabra, de acuerdo con el turno en que hubiese sido solicitada, dirigir los debates y discusiones, ordenar se proceda a las votaciones y formular la declaratoria correspondiente;
+
+VII.- Llamar al orden por sí o a excitativa de algún Diputado, a los miembros del Congreso del Estado, así como al público asistente a las Sesiones, dictando las medidas necesarias para preservarlo;
+
+VIII.- Nombrar las comisiones de protocolo y cortesía;
+
+IX.- Declarar después de tomadas las votaciones, aprobadas o desechadas las mociones o proposiciones consideradas;
+
+X.- Tomar la protesta a los integrantes de la nueva Directiva, así como a los funcionarios a que se refieren los Artículos 56 fracción VII y 59 fracción III de la Constitución Política del Estado de Hidalgo;
+
+XI.- Dar contestación al informe anual que rinda el Titular del Poder Ejecutivo del Estado;
+
+XII.- Requerir a las Comisiones, para que presenten sus dictámenes con la oportunidad debida;
+
+XIII.- Firmar las Actas de las Sesiones, inmediatamente después de su aprobación, así como las Leyes y Decretos que deban remitirse al Titular del Poder Ejecutivo del Estado, para los efectos conducentes;
+
+XIV.- Preservar la inviolabilidad del Recinto Legislativo y velar por el respeto al fuero constitucional de los Diputados;
+
+XV.- Solicitar el auxilio de la fuerza pública, cuando se requiera resguardar el Recinto del Congreso o mantener el orden de las Sesiones;
+
+XVI.- Conceder a los Diputados que así lo soliciten, las autorizaciones a que se refiere el Artículo 27 de esta Ley;
+
+XVII.- Someter al pleno la aprobación de las licencias solicitadas por los Diputados y en su caso, autorizar aquellas que la presente Ley le faculta;
+
+XVIII.- Erigir al Congreso del Estado en Órgano de Acusación o Gran Jurado, según sea el caso, previo desahogo del procedimiento respectivo;
+
+XIX.- Calificar la causa de las inasistencias de los Legisladores para los efectos legales correspondientes;
+
+XX.- Ordenar el descuento a la dieta de los Diputados, por las inasistencias o retardos injustificados en que incurran;
+
+XXI.- Llamar al Diputado Suplente que ejercerá el cargo, en los casos establecidos por la Constitución Política del Estado de Hidalgo y la presente Ley;
+
+XXII.- Representar legalmente al Congreso en los asuntos en que éste sea parte, pudiendo delegar tal representación, por conducto de los servidores públicos a quienes en cada caso corresponda el asunto, según la distribución de competencias establecidas en la presente Ley; y
+
+XXIII.- Las demás que le otorguen la Constitución Política del Estado de Hidalgo, esta Ley, su Reglamento y Acuerdos que emita el Congreso del Estado.
+
+###### ARTÍCULO 64.
+
+Cuando el Presidente de la Directiva haya de tomar la palabra en el ejercicio de las funciones que esta Ley le señala, permanecerá sentado; más si quisiera tomar parte en la discusión de algún tema, pedirá en voz alta la palabra a la Vicepresidencia y usará de ella conforme a las reglas prescritas para los demás miembros del Congreso. Entretanto, ejercerá sus funciones el Vicepresidente y en ausencia de éste, se estará a lo dispuesto por el Artículo 66 de esta Ley.
+
+###### ARTÍCULO 65.
+
+Cuando el Presidente de la Directiva no observe las prescripciones de esta Ley, cualquier Diputado podrá solicitar moción de orden.
+
+#### SECCIÓN SEGUNDA. DE LA VICEPRESIDENCIA DEL CONGRESO
+
+###### ARTÍCULO 66.
+
+El Vicepresidente, es aquél que asiste al Presidente de la Directiva en el ejercicio de sus funciones y lo suple en caso de ausencia, así como cuando el Presidente haga uso de la palabra durante las Sesiones para emitir su parecer respecto a los asuntos objeto de debate. Cuando el Vicepresidente haya que sustituir al Presidente por ausencia, lo hará con todas las facultades del cargo. En caso de ausencia del Vicepresidente, ejercerá el cargo, el menos antiguo de los miembros presentes que hubieran desempeñado cualquiera de estos cargos y no habiendo ninguno de éstos, los Secretarios en ejercicio, según el orden de su nombramiento.
+
+#### SECCIÓN TERCERA. DE LOS SECRETARIOS DEL CONGRESO
+
+###### ARTÍCULO 67.
+
+Son atribuciones de los Secretarios:
+
+I.- Auxiliar al Presidente de la Directiva, para el buen desempeño de sus funciones;
+
+II.- Vigilar la preparación y el orden de los asuntos en cartera, a tratar en la Sesión correspondiente;
+
+III.- Pasar lista de asistencia, verificar la existencia del Quórum, dar lectura al Orden del Día, al Acta de la Sesión anterior, así como a las diversas comunicaciones recibidas por el Congreso del Estado, que turne la Directiva;
+
+IV.- Integrar las actas de las Sesiones y firmarlas junto con el Presidente de la Directiva, una vez que hayan sido aprobadas, turnándolas al Secretario de Servicios Legislativos, para su archivo;
+
+V.- Formar expedientes, de cada uno de los asuntos que se traten en el Congreso del Estado, anotando los trámites que se den a las resoluciones tomadas sobre los mismos, expresándose la fecha de cada uno;
+
+VI.- Vigilar que los expedientes sean entregados a las respectivas Comisiones para su Dictamen y cuidar que éste, junto con las Iniciativas que lo motiven, circulen oportunamente entre los Diputados;
+
+VII.- Firmar, junto con el Presidente de la Directiva, las Leyes, Decretos y Acuerdos Económicos, que apruebe el Congreso del Estado;
+
+VIII.- Recibir, registrar y realizar el cómputo de la votación de los Diputados, comunicando el resultado al Presidente de la Directiva;
+
+IX.- Rendir en la última Sesión del periodo para el que fue electo, un informe sobre el estado que guardan los expedientes pasados a Comisión;
+
+X.- Firmar la correspondencia oficial; esta facultad podrá delegarse por Acuerdo del Pleno, al Secretario de Servicios Legislativos del Congreso; y
+
+XI.- Las demás que se deriven de esta Ley, su Reglamento o de los Acuerdos que emita el Congreso del Estado.
+
+Estas funciones podrán ser desahogadas por los Secretarios por conducto del Secretario de Servicios Legislativos, en uso de las facultades que le concede el Artículo 194 de esta Ley.
+
+###### ARTÍCULO 68.
+
+Las ausencias de los Secretarios propietarios serán cubiertas por los Secretarios Suplentes, conforme al orden de su designación. Cuando funcione la Diputación Permanente, las ausencias del Secretario Propietario, serán cubiertas por el Suplente.
+
+#### SECCIÓN CUARTA. DE LA DIPUTACIÓN PERMANENTE
+
+###### ARTÍCULO 69.
+
+La Diputación Permanente, actuará durante los recesos del Congreso del Estado, con las atribuciones que le señala la Constitución Política del Estado de Hidalgo, la presente Ley, su Reglamento y las demás disposiciones legales aplicables.
+
+###### ARTÍCULO 70.
+
+La integración de la Diputación Permanente y su Directiva serán electas por el Pleno, en la última Sesión de cada periodo Ordinario de Sesiones.
+
+La Diputación Permanente estará compuesta de nueve Diputados con carácter de Propietarios y dos más como Suplentes generales, que únicamente actuarán en funciones en ausencia de algún Propietario.
+
+Su Directiva, se compondrá en la forma y términos establecidos en el Artículo 54 de la presente Ley.
+
+El Pleno cuidará que en la composición de la Diputación Permanente, estén representados todos los Grupos Legislativos que integren la Legislatura.
+
+###### ARTÍCULO 71.
+
+La Diputación Permanente se instalará al término de la última Sesión Ordinaria; debiendo remitir las comunicaciones a que se refiere el Artículo 58 de esta Ley.
+
+###### ARTÍCULO 72.
+
+Las Sesiones de la Diputación Permanente, tendrán lugar, cuando menos, una vez a la semana, en los días y horas que ésta determine.
+
+Las Sesiones serán válidas, cuando se encuentren presentes por lo menos cinco de los Diputados integrantes de la Diputación Permanente.
+
+###### ARTÍCULO 73.
+
+Cuando el Congreso del Estado celebre Sesiones Extraordinarias, la Diputación Permanente no suspenderá sus trabajos. La convocatoria para celebrar las Sesiones Extraordinarias, cuidará que no coincidan los horarios para su desahogo, con los de la Diputación Permanente.
+
+###### ARTÍCULO 74.
+
+En la segunda Sesión del período ordinario siguiente, la Diputación Permanente dará cuenta del uso que hubiere hecho de sus facultades.
+
+#### SECCIÓN QUINTA. DE LAS COMISIONES
+
+###### ARTÍCULO 75.
+
+El Congreso del Estado, para el ejercicio de sus funciones, contará con Comisiones Permanentes, Especiales, de Protocolo y Cortesía. En el reglamento de esta Ley, se regulará la organización y funcionamiento de las mismas.
+
+Las comisiones continuarán funcionando en los recesos del Congreso y los asuntos que resuelvan podrán despacharse en el siguiente periodo de sesiones, se trate de ordinarios o extraordinarios.
+
+Las Comisiones de Protocolo y Cortesía que designe el Presidente de la Directiva, para dar cumplimiento al ceremonial, tendrán el carácter de transitorias.
+
+###### ARTÍCULO 76.
+
+Durante el mes inmediato posterior a la instalación de cada Legislatura, a propuesta de la Junta de Gobierno y mediante votación económica, el Pleno elegirá a los integrantes de las Comisiones Permanentes.
+
+###### ARTÍCULO 77.
+
+Serán Comisiones Permanentes las siguientes:
+
+I.- Comisión Inspectora de la Auditoria Superior del Estado;
+
+II.- Comisión de Legislación y Puntos Constitucionales;
+
+III.- Comisión de Hacienda;
+
+IV.- Comisión de Gobernación;
+
+V.- Comisión de Educación;
+
+VI.- Comisión de Juventud y del Deporte;
+
+VII.- Comisión de Seguridad Pública y Justicia;
+
+VIII.- Comisión de Derechos Humanos;
+
+IX.- Comisión de Salud;
+
+X.- Comisión de Medio Ambiente;
+
+XI.- Comisión de Población y Migración;
+
+XII.- Comisión de Industria, Comercio y Servicios;
+
+XIII.- Comisión de Obras Públicas, Desarrollo Urbano y Vivienda;
+
+XIV.- Comisión de Equidad de Género;
+
+XV.- Comisión de Comunicaciones y Transportes;
+
+XVI.- Comisión Instructora;
+
+XVII.- Comisión de Corrección y Estilo;
+
+XVIII.- Comisión de Asuntos Indígenas;
+
+XIX.- Comisión de Asuntos del Campo;
+
+XX.- Comisión de Desarrollo Regional;
+
+XXI.- Comisión del Trabajo;
+
+XXII.- Comisión de Protección Civil;
+
+XXIII.- Comisión de Asuntos Metropolitanos;
+
+XXIV.- Comisión de Ciencia y Tecnología;
+
+XXV.- Comisión de Turismo;
+
+XXVI.- Comisión de Transparencia y Acceso a la Información Pública Gubernamental; y
+
+XXVII.- Comisión de Cultura.
+
+Los Diputados que integren estas Comisiones, fungirán durante todo el Ejercicio Constitucional. Cuando las circunstancias lo justifiquen, el Pleno aprobará las modificaciones que se estimen pertinentes.
+
+###### ARTÍCULO 78.
+
+Los integrantes de las Comisiones, podrán ser sustituidos por causa justificada, mediante determinación del Pleno, de conformidad con lo establecido en el Artículo 43 de la presente Ley.
+
+###### ARTÍCULO 79.
+
+Las comisiones permanentes, a excepción de la Inspectora de la Auditoria Superior y de la Instructora, serán dobles, distinguiéndose con las denominaciones de primera y segunda.
+
+A las primeras Comisiones, pasaran los asuntos para su estudio y dictamen, y a las segundas, los Proyectos o Acuerdos que hubieren sido vetados por el titular del Poder Ejecutivo del Estado, a fin de realizar nuevo estudio, con vista a las objeciones hechas, pudiendo formular modificaciones y adiciones a los proyectos presentados.
+
+###### ARTÍCULO 80.
+
+Las Comisiones Especiales, serán aprobadas por el Pleno, a propuesta de la Junta de Gobierno, mediante Acuerdo Económico, cuando la urgencia o importancia de un asunto lo amerite.
+
+Las Comisiones Especiales, tendrán la competencia que se les atribuya en el acto de su aprobación; contarán con el número de integrantes que el Pleno determine y fungirán por el tiempo que se requiera para el despacho de los asuntos que les dieron origen.
+
+###### ARTÍCULO 81.
+
+La Comisión Inspectora de la Auditoria Superior, será presidida por el Presidente de la Junta de Gobierno.
+
+###### ARTÍCULO 82.
+
+Las comisiones serán electas por mayoría simple, estarán integradas, a excepción de la de Legislación y puntos Constitucionales, Instructora y la de Hacienda, con un mínimo de tres Diputados y un máximo de cinco, actuando como Presidente el electo en primer término y los dos siguientes como Secretarios.
+
+A las presidencias de las comisiones, se accederá en forma proporcional a la representación que tengan los Grupos Legislativos.
+
+###### ARTÍCULO 83.
+
+Las comisiones de Legislación y Puntos Constitucionales, Instructora y de Hacienda, se integrarán por cinco Diputados; en el caso de la Comisión Instructora fungirá como Presidente y Secretarios de las mismas los electos en primer y segundo término respectivamente, quedando los restantes como vocales.
+
+La Comisión Instructora tendrá las funciones y atribuciones que le confieren la Constitución Política del Estado de Hidalgo, la Ley de Responsabilidades de los Servidores Públicos, esta Ley, su reglamento y las disposiciones legales aplicables. Asimismo, deberá estar integrada por Diputados representantes de los Grupos Legislativos reconocidos en la Legislatura.
+
+###### ARTÍCULO 84.
+
+Los Diputados integrantes del Congreso del Estado, pueden asistir con voz y sin derecho a voto, a las Reuniones de las Comisiones a las que no pertenezcan y exponer su parecer sobre el asunto a estudio.
+
+###### ARTÍCULO 85.
+
+Las primeras y segundas Comisiones, procederán a estudiar, analizar y dictaminar las Iniciativas y demás asuntos que les sean turnados por la Directiva, presentarán por escrito su Dictamen o resolutivo correspondiente ante ésta última, en un plazo no mayor de treinta días hábiles, contados a partir del día siguiente de haber recibido los expedientes respectivos, a fin de ser incluidos en la Agenda de Sesiones y someterlos a la aprobación del Pleno.
+
+###### ARTÍCULO 86.
+
+Cuando una Comisión, considere necesario demorar o suspender el despacho de algún asunto, lo expondrá fundamentándolo al Presidente de la Directiva. Dicho plazo podrá prorrogarse hasta por veinte días hábiles para que emita su Dictamen.
+
+###### ARTÍCULO 87.
+
+El Dictamen, deberá estar firmado por la mayoría de los integrantes de la Comisión; en caso de que alguno de los integrantes no estuviere de acuerdo con el mismo, presentará voto particular por escrito debidamente fundamentado, pudiendo exponer ante el Pleno o la Diputación Permanente en su caso, los motivos y fundamentos que lo originaron.
+
+###### ARTÍCULO 88.
+
+Las Comisiones pueden solicitar de cualquier Dependencia del Estado y Entidades Públicas, los informes o copias de documentos que estimen necesarios para el mejor estudio de los asuntos, así como la comparecencia de servidores públicos que apruebe la Junta de Gobierno, salvo que se trate de informes o documentos que conforme a la Ley, deben mantenerse en secreto.
+
+El Titular de la Dependencia o Entidad Pública, estará obligado a proporcionar la información en un plazo de diez días hábiles, si así no lo hiciere, dicha omisión será calificada como falta grave y será sujeto del procedimiento que establezca la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+
+Con motivo de alguna promoción o escrito dirigidos al Congreso o a alguna Comisión en particular, se deberá designar domicilio ubicado en la población donde resida el Poder Legislativo, para que se hagan las notificaciones correspondientes.
+
+En caso de no cumplirse lo señalado en el párrafo anterior, las notificaciones se harán por estrados, aún las de carácter personal.
+
+###### ARTÍCULO 89.
+
+Cuando a las Comisiones, le sean tomados asuntos cuya naturaleza no amerite la elaboración de un Dictamen, podrán rendir al Pleno o a la Diputación Permanente un informe de su tramitación.
+
+###### ARTÍCULO 90.
+
+Las comisiones rendirán informe al Pleno, del estado que guardan los expedientes que les han sido turnados a más tardar al final de cada período Ordinario de Sesiones y a la Secretaría, cuando ésta lo solicite.
+
+###### ARTÍCULO 91.
+
+En los recesos del Congreso, las Comisiones conservarán los expedientes que tuvieren en su poder. Después de cerrado el último periodo de Sesiones de la Legislatura a la que pertenezcan, los Presidentes de las Comisiones deberán entregar a la Secretaría de la Directiva de la Diputación Permanente, los expedientes que quedaron sin despachar, para que así pasen a la Legislatura siguiente.
+
+### CAPÍTULO IV. DE LOS GRUPOS LEGISLATIVOS
+
+###### ARTÍCULO 92.
+
+Los Diputados, podrán organizarse en Grupos Legislativos, para expresar los principios y lineamientos de sus respectivos Partidos Políticos, coadyuvar al mejor desarrollo del Proceso Legislativo, con el fin de orientar y estimular la formación de criterios unificados para la concertación de los trámites de los asuntos del Congreso del Estado.
+
+###### ARTÍCULO 93.
+
+Los Grupos Legislativos, estarán integrados por un mínimo de dos Diputados, que serán acreditados a más tardar en la última Sesión de la Junta Preparatoria, realizada antes de la instalación de la Legislatura; para lo cual, deberán presentar una acta en la que conste la decisión de los Diputados de un mismo Partido Político de constituirse en Grupo Legislativo, especificando la denominación del mismo; la lista de sus integrantes; nombre y firma de quienes lo conforman; así como el nombre del Diputado que haya sido designado como su Coordinador.
+
+Examinada la documentación referida en el párrafo que antecede por el Presidente de la Directiva, éste hará la declaratoria de constitución de los Grupos Legislativos.
+
+Acto seguido, se convocará a los coordinadores de los grupos legislativos a efecto de conformar e instalar la Junta de Gobierno.
+
+###### ARTÍCULO 94.
+
+Sólo puede constituirse un Grupo Legislativo, por cada Partido Político representado en el Congreso del Estado.
+
+Los Diputados que dejen de pertenecer a un Grupo Legislativo y que no se integren a otro existente, se considerarán como Diputados independientes y se les reconocerá en lo individual para que puedan desempeñar sus funciones de representación popular.
+
+###### ARTÍCULO 95.
+
+En el caso, de que un Partido Político sólo esté representado por un Diputado, éste integrará una Representación Partidista, pero de ninguna forma se podrá considerar como Grupo Legislativo.
+
+### CAPÍTULO V. DE LA JUNTA DE GOBIERNO
+
+###### ARTÍCULO 96.
+
+La conducción de los Trabajos Legislativos, se ejercerá a través de un Órgano Colegiado denominado Junta de Gobierno.
+
+###### ARTÍCULO 97.
+
+La Junta de Gobierno, estará integrada por los Diputados Coordinadores de cada uno de los Grupos Legislativos que se encuentren representados en el Congreso del Estado, del Presidente de la Directiva en turno, y en su caso, por los Diputados de las Representaciones Partidistas.
+
+###### ARTÍCULO 98.
+
+La integración de la Junta de Gobierno, se regirá de acuerdo a las siguientes reglas:
+
+I.- Cuando un Grupo Legislativo tiene mayoría absoluta en el Congreso:
+
+a).- Será Presidente de la Junta de Gobierno, el Diputado Coordinador del Grupo Legislativo que tenga mayoría absoluta; entendiéndose por ésta, la mitad más uno del total de Diputados que integran la legislatura;
+
+b).- Será Secretario, el Diputado Coordinador del Grupo Legislativo que represente la primera minoría; y
+
+c).- Serán Vocales, los demás Diputados integrantes de la Junta.
+
+II.- Cuando ningún Grupo Legislativo tenga mayoría absoluta en el Congreso, el Grupo Legislativo que represente la mayoría simple, entendiéndose por ésta, el grupo de Diputados que tiene un mayor número de integrantes que el resto de los demás, elegirá el año de ejercicio constitucional en que presidirá la Junta de Gobierno; correspondiendo al Grupo Legislativo que represente la primera minoría (sic) escoger en segundo término, el año de ejercicio constitucional en que presidirá; quedando el tercer año no seleccionado, para que lo presida el Grupo que represente la segunda minoría.
+
+El tercer año lo podrá ocupar la segunda minoría, siempre que se integre con un treinta por ciento del total de Diputados que conforman la Legislatura, de lo contrario, ocupará la Presidencia de la Junta de Gobierno, el Grupo Legislativo que obtuvo la mayoría simple.
+
+El Secretario será el Diputado que por acuerdo de la Junta de Grupos legislativos; se determine.
+
+En este supuesto, los integrantes de la Junta de Grupos Legislativos, durarán en su encargo un año, con excepción de los vocales, quienes podrán volver a ocupar dicho encargo; y
+
+III.- Cuando dos o más Grupos legislativos tengan el mismo número de Diputados para elegir al Presidente de la Junta de Gobierno, en turno, se tomará como base, el porcentaje de votación electoral, que haya obtenido cada Partido Político en los comicios respectivos, siguiéndose con el criterio de la fracción anterior.
+
+El Secretario será el Diputado que por acuerdo de la Junta de Gobierno, se determine.
+
+En este supuesto, los integrantes de la Junta de Gobierno, durarán en su encargo un año, con excepción de los vocales, quienes podrán volver a ocupar dicho encargo.
+
+###### ARTÍCULO 99.
+
+Para el funcionamiento de la Junta de Gobierno, se observará lo siguiente:
+
+I.- La Junta de Gobierno, deberá reunirse cuando menos dos veces por mes durante los Periodos Ordinarios y fuera de éstos, por lo menos una. Las reuniones serán convocadas a solicitud del Presidente de la Junta de Gobierno;
+
+II.- La Junta de Gobierno, tomará sus decisiones por consenso, pero en el caso de que éste no se obtenga, las adoptará por mayoría de votos de los Coordinadores de los Grupos Legislativos quienes dispondrán de voto ponderado conforme al número de Diputados que integren sus respectivos Grupos respecto del total de la Legislatura;
+
+El Presidente de la Directiva en turno, concurrirá únicamente con derecho a voz, sin derecho a voto; y
+
+III.- En las Sesiones de Junta de Gobierno, podrán participar a invitación del Presidente, asesores, personal de apoyo para el desarrollo de los trabajos, representantes de grupos de interés, peritos y todas aquellas personas, que por acuerdo, designen los integrantes de la Junta.
+
+###### ARTÍCULO 100.
+
+La Junta de Gobierno, tendrá las siguientes atribuciones:
+
+I.- Conducir los Trabajos Legislativos del Congreso;
+
+II.- Proponer los esquemas para la vinculación política con los ámbitos de Gobierno Federal, Estatal y Municipal y en su caso, con los Organismos Internacionales similares;
+
+III.- Coadyuvar en el desarrollo de los Trabajos del Congreso, así como elaborar propuestas para el mejoramiento del mismo;
+
+IV.- Impulsar la conformación de Acuerdos relacionados con el contenido de los asuntos que requieran de su votación en el Pleno, a fin de agilizar el trabajo Legislativo;
+
+V.- Proponer al Pleno del Congreso, la integración de las Comisiones Permanentes y Especiales, así como de Comités que se acuerden;
+
+VI.- Formular la Agenda Legislativa que regirá los trabajos en cada período de Sesiones Ordinarias y Extraordinarias, así como de la Diputación Permanente; y
+
+VII.- Las demás que le encomiende el Pleno del Congreso, la presente Ley, su Reglamento y demás ordenamientos legales.
+
+###### ARTÍCULO 101.
+
+El Presidente de la Junta de Gobierno, tendrá las siguientes atribuciones:
+
+I.- Mantener la comunicación entre el Poder Legislativo y los Poderes Ejecutivo y Judicial del Estado;
+
+II.- Conducir las relaciones con los ámbitos de Gobierno Federal, Estatal y Municipal;
+
+III.- Representar al Congreso del Estado, en actos convocados por cualquiera de los ámbitos de Gobierno Federal, Estatal y Municipal;
+
+IV.- Coordinar el funcionamiento interno de la Junta de Gobierno;
+
+V.- Convocar a Sesiones de la Junta de Gobierno;
+
+VI.- Ejecutar los Acuerdos de la Junta de Gobierno; proveyendo lo necesario para su debido cumplimiento;
+
+VII.- Presidir la Comisión Inspectora de la Auditoria Superior;
+
+VIII.- Presentar a la Junta de Gobierno el Proyecto de Presupuesto Anual de Egresos del Poder Legislativo, para su Acuerdo;
+
+IX.-. Proponer al Pleno del Congreso, previo Acuerdo de la Junta de Gobierno, a las personas que habrán de ocupar los cargos de Auditor Superior del Estado y del Secretario de Servicios Legislativos;
+
+X.- Dirigir y supervisar la organización y funcionamiento administrativo del Congreso;
+
+XI.- Proponer a la Junta de Gobierno, la creación de las unidades administrativas, que sean necesarias;
+
+XII.- Expedir los nombramientos de los Servidores Públicos de las Áreas Administrativas del Poder Legislativo, con excepción de los mencionados en la fracción IX del presente Artículo;
+
+XIII.- Nombrar y remover al personal del Congreso en los casos que no sea competencia del Pleno, así como resolver sobre las solicitudes de renuncias o licencias de los mismos;
+
+XIV.- Suscribir las Operaciones Financieras, Convenios y demás actos jurídicos que conforme a la naturaleza del Poder Legislativo sean procedentes, previo Acuerdo de la Junta de Gobierno;
+
+XV.- Informar anualmente al Pleno, de las actividades de la Junta de Gobierno;
+
+XVI.- Proponer al Pleno del Congreso, los Reglamentos que habrán de regular su conducción, previo Acuerdo de la Junta de Gobierno; y
+
+XVII.- Las demás que le confieran el Pleno o la Diputación Permanente, la Junta de Gobierno, la presente Ley, su Reglamento y otras disposiciones legales.
+
+###### ARTÍCULO 102.
+
+El Secretario de la Junta de Gobierno, tendrá las siguientes funciones:
+
+I.- Auxiliar al Presidente de la Junta de Gobierno, para el buen desempeño de sus funciones;
+
+II.- Preparar el orden de los asuntos a tratar en las Sesiones de la Junta de Gobierno;
+
+III.- Pasar lista de asistencia a los integrantes de la Junta de Gobierno y verificar la existencia del Quórum, a falta de éste, se citará por segunda ocasión a sus integrantes, debiéndose celebrar la Sesión con el número de Diputados que asistan y en la que los acuerdos que se tomen serán válidos;
+
+IV.- Dar lectura al Orden del Día que regirá las Sesiones, al Acta de la Sesión anterior, así como a las comunicaciones remitidas a la Junta de Gobierno;
+
+V.- Elaborar las Actas de las Sesiones de la Junta de Gobierno;
+
+VI.- Verificar la integración de los expedientes de cada uno de los asuntos que se traten en las Sesiones de la Junta de Gobierno;
+
+VII.- Recibir, registrar y realizar el cómputo de la votación de los Diputados integrantes de la Junta de Gobierno, comunicando el resultado al Presidente de la misma;
+
+VIII.- Presentar ante la Junta de Gobierno, en la última Sesión de cada año de Ejercicio Constitucional, los resultados de la gestión de éste Órgano;
+
+IX.- Llevar el registro cronológico de los Acuerdos tomados en la Junta de Gobierno; y
+
+X.- Las demás que le confiera la Junta de Gobierno; la presente ley, su Reglamento y demás disposiciones legales.
+
+## TÍTULO QUINTO. DEL PROCESO LEGISLATIVO
+
+### CAPÍTULO I. DE LAS SESIONES
+
+###### ARTÍCULO 103.
+
+La Sesión es el tiempo que emplea el Congreso del Estado para tratar en el Pleno, en la Diputación Permanente o en Comisiones, de acuerdo a un Orden del Día aprobado, los asuntos cuyo conocimiento, discusión, dictaminación, votación y aprobación, son de su competencia.
+
+###### ARTÍCULO 104.
+
+Para que puedan celebrarse legalmente las Sesiones, será necesario que concurran, cuando menos, la mitad más uno del número total de Diputados que integran el Pleno.
+
+En el caso de la Diputación Permanente, se estará a lo establecido en el Artículo 72 de esta Ley.
+
+Para la celebración de las Sesiones de las Comisiones, será necesario que concurran, cuando menos dos de los Diputados que las integran, mismas que serán reguladas en el Reglamento de la presente Ley.
+
+###### ARTÍCULO 105.
+
+Cuando una Sesión no pueda efectuarse por falta de Quórum, los Diputados presentes se instalarán en Junta, bajo la dirección del Presidente de la Directiva o de quien deba suplirlo conforme a la Ley y en ausencia de éstos, por cualquiera de los miembros que se encuentren presentes, con el objeto de levantar el Acta respectiva.
+
+###### ARTÍCULO 106.
+
+Las Sesiones, deberán celebrarse en el Recinto que ordinaria o extraordinariamente, se destine al efecto.
+
+###### ARTÍCULO 107.
+
+Para que las Sesiones puedan realizarse fuera del Recinto destinado al Poder Legislativo; deberá expedirse previamente el Decreto respectivo, habilitándose como Recinto Oficial, el lugar y sitio donde deberán efectuarse.
+
+###### ARTÍCULO 108.
+
+Las Sesiones del Congreso del Estado, serán Ordinarias y Extraordinarias; podrán ser Públicas o Secretas; Solemnes; de Juicio Político o Declaración de Procedencia, en los términos de los Artículos 153 Y 154 de la Constitución Política del Estado de Hidalgo.
+
+###### ARTÍCULO 109.
+
+Las Sesiones Ordinarias se celebrarán durante los períodos a que se refieren los Artículos 38 de la Constitución Política del Estado de Hidalgo y 5 de la presente Ley, debiendo hacerlo cuando menos dos veces por semana. Al inicio del Ejercicio Constitucional de la Legislatura, los Diputados aprobarán los días mínimos de la semana en que deberán celebrar éstas. En caso de que se requiera aumentar los días, se hará por Acuerdo del Pleno.
+
+###### ARTÍCULO 110.
+
+Son Periodos Extraordinarios de Sesiones, los que se celebran fuera de los Periodos Ordinarios indicados en el Artículo 38 de la Constitución Política del Estado de Hidalgo. En ellos, sólo se ventilarán los asuntos que específicamente hayan motivado la convocatoria respectiva.
+
+###### ARTÍCULO 111.
+
+En los casos especificados en los Artículos 64 primer párrafo y 66 de la Constitución Política del Estado de Hidalgo, el Pleno o la Diputación Permanente, en su caso, deberán reunirse, previa Convocatoria que formule el Presidente de la Directiva, en el Recinto Legislativo al día siguiente en que se reciba la solicitud de licencia, renuncia o haya acaecido la falta del Gobernador del Estado. Si por falta de Quórum o cualquier otra causa, no pudiera efectuarse la Sesión, los presentes compelerán a los ausentes a fin de que se realice a la brevedad posible.
+
+En caso de que el Presidente de la Directiva se negare o estuviese imposibilitado para convocar, la Convocatoria podrá ser suscrita por el treinta por ciento del Pleno del Congreso o de la Diputación Permanente, según corresponda.
+
+En caso de persistir la falta de Quórum, podrán ser llamados los Diputados Suplentes, en los términos que la presente Ley establezca.
+
+###### ARTÍCULO 112.
+
+Las Sesiones del Congreso del Estado, podrán ser Públicas o Secretas. Serán Secretas, las Sesiones en que se traten los siguientes asuntos: las acusaciones que se presenten contra los Servidores Públicos a que se refiere el Artículo 2 de la Ley de Responsabilidades de los Servidores Públicos; las comunicaciones que se dirijan a la legislatura con la nota de reservado; los trámites que la Directiva considere para tal efecto y cuando se desahoguen asuntos en que uno o más Diputados, soliciten sean tratados de ésta manera, con la aprobación de la mayoría.
+
+A las Sesiones Secretas, podrán asistir, además de los Diputados, los Servidores Públicos del Congreso del Estado, que sean estrictamente necesarios, quienes están obligados a guardar la más absoluta reserva de Ley, sobre los asuntos tratados en ellas.
+
+###### ARTÍCULO 113.
+
+Las Sesiones serán suspendidas, cuando a juicio del Presidente de la Directiva, uno o varios Diputados realicen algún hecho que la ley señale como delito, durante una Sesión del Pleno o de la Diputación Permanente, en su caso.
+
+Si los hechos que la Ley señala como delitos se cometieran durante el receso o después de levantada la Sesión, el Presidente de la Directiva dará cuenta al Pleno después de reanudada la Sesión o al comienzo de la siguiente, para los efectos legales a que haya lugar.
+
+El Presidente de la Directiva, informará inmediatamente a las Autoridades competentes de los hechos cometidos en el Recinto Oficial.
+
+###### ARTÍCULO 114.
+
+Durante el Primer Periodo Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier titulo recursos públicos.
+
+El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoria Superior del Estado, siga su curso.
+
+La Auditoria Superior tiene la obligación de entregar al Congreso del Estado, el Informe del Resultado de la Revisión de la Cuenta Pública, a más tardar en la segunda quincena del mes de marzo del año siguiente al de su presentación.
+
+En el segundo y para que rijan en el año siguiente se ocupará prioritariamente de examinar y aprobar, en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el 15 de diciembre de cada año.
+
+###### ARTÍCULO 115.
+
+Son Sesiones Solemnes, las destinadas a tratar un determinado hecho o acontecimiento que el Congreso del Estado, estime de especial significado, serán públicas y a ellas podrán asistir invitados especiales. Siempre será solemne, la Sesión de apertura del primer Periodo Ordinario de Sesiones de cada Legislatura y aquellas en las que tome posesión el Gobernador de la Entidad y en las que informe a la Legislatura, sobre el estado que guardan los diversos ramos de la Administración Pública. Tendrá el mismo carácter, cuando acuda el Presidente de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO 116.
+
+En el caso de las Sesiones en que el Congreso del Estado, se erigiera como Órgano de Acusación o en Gran Jurado, se celebrarán de conformidad con lo que establecen los Artículos 153 y 154 de la Constitución Política del Estado de Hidalgo y la Ley de Responsabilidades de los Servidores Públicos.
+
+###### ARTÍCULO 117.
+
+Los asuntos a tratar en las Sesiones, tendrán el siguiente orden:
+
+I.- Verificación de Quórum, mediante pase de lista;
+
+II.- Lectura y aprobación del Orden del Día;
+
+III.- Lectura del Acta de la Sesión anterior, para efecto de su aprobación, en su caso;
+
+IV.- Lectura de las comunicaciones oficiales, procedentes de los Poderes Ejecutivo y Judicial del Estado, así como de la Auditoria Superior del Estado y de los Municipios del Estado;
+
+V.- Lectura de las comunicaciones oficiales de los Poderes Federales, de los Estados, del Distrito Federal y de los Municipios de otras Entidades Federativas;
+
+VI.- Lectura de las comunicaciones enviadas por particulares, previo análisis de la procedencia jurídica, por parte de la Directiva;
+
+VII.- Lectura de las comunicaciones de la Directiva;
+
+VIII.- Lectura de las Iniciativas de Leyes o Decretos provenientes de las Autoridades señaladas en el Artículo 47 de la Constitución Política del Estado de Hidalgo, con excepción de lo dispuesto en el Artículo 127 de la presente Ley;
+
+IX.- Lectura, discusión y votación de Dictámenes;
+
+X.- Lectura de Decretos devueltos al Congreso, con observaciones del Titular del Poder Ejecutivo del Estado;
+
+XI.- Decretos pendientes de promulgación, cuando hubiera transcurrido el plazo señalado en el Artículo 53 de la Constitución Política del Estado de Hidalgo, en relación con el 51 del mismo ordenamiento legal; y
+
+XII.- Asuntos generales, los que deberán ser registrados en términos de lo dispuesto por el Reglamento de la presente Ley.
+
+###### ARTÍCULO 118.
+
+Durante el desarrollo de las Sesiones a propuesta de uno o más Diputados o por Iniciativa propia, el Presidente de la Directiva podrá decretar recesos, siempre y cuando sea para concretar un Acuerdo Legislativo, integrar debidamente un expediente o cuando por la importancia de algún asunto, se considere conveniente.
+
+###### ARTÍCULO 119.
+
+Los Servidores Públicos del Poder Ejecutivo, asistirán a las Sesiones, siempre que fueren enviados por el Gobernador de la Entidad o citados por Acuerdo del Congreso del Estado, sin perjuicio de la libertad que tienen de asistir a ellas cuando así lo consideren y tomar asiento en el lugar que se les asigne para tal efecto.
+
+Igualmente podrán ser citados en los mismos términos del párrafo anterior, los integrantes y Servidores Públicos de los Ayuntamientos, de los Organismos Autónomos y cualquier persona física o moral, que reciban, por cualquier titulo recursos públicos.
+
+### CAPÍTULO II. DE LA APERTURA Y CLAUSURA DE LOS PERIODOS DE SESIONES
+
+### CAPÍTULO III. DE LAS INICIATIVAS
+
+###### ARTÍCULO 120.
+
+El día señalado para la apertura del primer Periodo Ordinario de Sesiones, después del pase de lista y leída, discutida y aprobada el Acta de la Sesión constitutiva de la Legislatura o de la Junta Previa, según sea el caso, el Presidente de la Directiva, puesto de pie hará la siguiente declaratoria: "La ...(número de orden) Legislatura del Congreso del Estado de Hidalgo, abre hoy .... (día, mes y año) el primer Periodo Ordinario de Sesiones, correspondiente al (número de orden) año de ejercicio Constitucional". En seguida, el Gobernador del Estado, presentará al Congreso un informe por escrito sobre el estado que guarda la Administración Pública; el Presidente del Congreso contestará brevemente dicho informe; posteriormente se levantará la Sesión y se citará a los Diputados para la próxima. Lo anterior, sin perjuicio de lo dispuesto en la fracción XXV del Artículo 71 de la Constitución Política del Estado de Hidalgo.
+
+En los demás periodos, en la primera Sesión el Presidente de la Directiva declarará formalmente la iniciación de los trabajos de la siguiente manera: "La ...(número de orden) Legislatura del Congreso del Estado de Hidalgo, abre hoy ....(día, mes y año) el (número de orden) periodo de Sesiones (Ordinario o Extraordinario), correspondiente al (número de orden) año de Ejercicio Constitucional".
+
+###### ARTÍCULO 121.
+
+Terminados los trabajos ordinarios y extraordinarios, el día de la clausura, el Presidente de la Directiva hará la siguiente declaratoria: "La ...(número de orden) Legislatura del Congreso del Estado de Hidalgo, cierra hoy …(día, mes y año) el (primero, segundo ...) período de Sesiones (ordinarias o extraordinarias), correspondiente al (primer, segundo o tercer) año de Ejercicio Constitucional".
+
+###### ARTÍCULO 122.
+
+Una vez designada la Directiva de la Diputación Permanente, el día de la Apertura de Sesiones, el Presidente de la misma, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la ....(número de orden) Legislatura del Congreso del Estado de Hidalgo, abre hoy (día, mes y año), sus Sesiones correspondientes al (primero o segundo) receso del (primer, segundo o tercer) año de Ejercicio Constitucional".
+
+###### ARTÍCULO 123.
+
+Terminados los trabajos de la Diputación Permanente, el día de la Clausura, el Presidente de la Directiva, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la ...(número de orden) Legislatura del Congreso del Estado de Hidalgo, clausura hoy (día, mes y año) las Sesiones correspondientes al (primero, segundo, tercero, cuarto ...) receso del (primer, segundo o tercer) año de Ejercicio Constitucional.
+
+### CAPÍTULO IV. DE LOS ACUERDOS ECONÓMICOS
+
+###### ARTÍCULO 124.
+
+Las Iniciativas, serán de Ley y Decreto.
+
+El derecho de iniciar Leyes y Decretos compete:
+
+I.- Al Gobernador del Estado;
+
+II.- A los Diputados;
+
+III. Al Tribunal Superior de Justicia, en su ramo;
+
+IV.- A los Ayuntamientos;
+
+V.- Al Procurador General de Justicia del Estado, en su ramo; y
+
+VI.- A los ciudadanos del Estado y personas morales domiciliadas en la Entidad, por conducto de los Ayuntamientos o de los Diputados de sus respectivos Distritos Electorales.
+
+###### ARTÍCULO 125.
+
+Todas las Iniciativas de Leyes y Decretos, deberán presentarse al Presidente de la Directiva y cubrir los siguientes requisitos:
+
+I.- Formularse por escrito, firmadas por el o los autores;
+
+II.- Deberán contener exposición de motivos, en la que se expresará el objeto, utilidad y los elementos en que se fundamenten y sustenten; y
+
+III.- Contener Proyecto del articulado.
+
+###### ARTÍCULO 126.
+
+Toda Iniciativa de Ley o Decreto, presentada por el Gobernador del Estado o por el Tribunal Superior de Justicia, pasará de inmediato a la Comisión respectiva para su Estudio y Dictamen.
+
+###### ARTÍCULO 127.
+
+Las iniciativas presentadas por los Diputados, Ayuntamientos y Procurador General de Justicia, en los términos del Artículo 125 de esta Ley, después de su lectura ante el Pleno, pasarán a la Comisión respectiva para su Estudio y Dictamen.
+
+###### ARTÍCULO 128.
+
+Cuando se presenten al Congreso del Estado, iniciativas o asuntos, cuyo contenido sea ya del conocimiento de alguna Comisión, se turnarán a ésta.
+
+###### ARTÍCULO 129.
+
+Ninguna Iniciativa de Ley o Decreto, podrá discutirse sin que primero pase a las Comisiones correspondientes, para la elaboración del Dictamen.
+
+###### ARTÍCULO 130.
+
+Discutido y desechado en lo general, un Dictamen referente a una iniciativa, no podrá volver a presentarse en el mismo período de Sesiones.
+
+###### ARTÍCULO 131.
+
+En la reforma, derogación o abrogación de Leyes o Decretos del Congreso del Estado, se observarán los mismos trámites establecidos para su formación.
+
+### CAPÍTULO V. DE LOS DICTÁMENES
+
+### CAPÍTULO VI. DE LAS DISCUSIONES
+
+###### ARTÍCULO 132.
+
+Serán Acuerdos Económicos, aquellas resoluciones que recaigan a propuestas que al interior del Congreso se realicen, las cuales, por su naturaleza no son Ley ni Decreto y no requieren promulgación del Ejecutivo.
+
+###### ARTÍCULO 133.
+
+La facultad de presentar propuestas de Acuerdos Económicos, compete a:
+
+I.- Diputados;
+
+II.- Comisiones;
+
+III.- Grupos Legislativos; y
+
+IV.- Junta de Gobierno.
+
+###### ARTÍCULO 134.
+
+El Congreso en vía de Acuerdo Económico puede resolver cualquier asunto que se someta a su consideración, cuando para ello no se requiera la aprobación de una Ley o Decreto.
+
+###### ARTÍCULO 135.
+
+Toda propuesta de Acuerdo Económico, una vez leída en el Pleno o en la Diputación Permanente será turnada a Comisiones para su Estudio y Dictamen, salvo en aquellos casos que por su naturaleza o extrema urgencia, requiera de ser aprobada en la misma Sesión en que se presenta para lo cual, se someterá a la consideración del Pleno o de la Diputación Permanente, en su caso, si, se aprueba su discusión y votación.
+
+###### ARTÍCULO 136.
+
+Toda propuesta de Acuerdo Económico deberá cubrir los siguientes requisitos:
+
+I.- Deberá formularse por escrito en los supuestos que señala el Artículo que antecede; y
+
+II.- Contendrá una breve reseña del problema planteado y las consideraciones en que se funde y motive, la propuesta de Acuerdo Económico.
+
+###### ARTÍCULO 137.
+
+Toda propuesta de Acuerdo Económico que se dictamine, se someterá a votación del Pleno o de la Diputación Permanente en su caso, para su aprobación, previa lectura del mismo.
+
+###### ARTÍCULO 138.
+
+Cuando en el Congreso se discuta una propuesta de Acuerdo Económico y no fuere aprobada, la Presidencia preguntará si se turna nuevamente a Comisiones, para un nuevo análisis y dictamen, en caso de negativa, se tendrá como asunto concluido.
+
+### CAPITULO VII. DE LAS VOTACIONES
+
+###### ARTÍCULO 139.
+
+Los Dictámenes, son los documentos que contienen la exposición clara, precisa y fundada de las consideraciones que emiten por escrito las Comisiones, respecto de las iniciativas que les sean turnadas, conteniendo Proyectos de Ley o Decreto, que se presentan a la Directiva para que se sometan a la consideración del Pleno o de la Diputación Permanente, en su caso.
+
+###### ARTÍCULO 140.
+
+Los Dictámenes, deberán contener:
+
+I.- El nombre de la Comisión o Comisiones Legislativas que lo suscriban y el asunto sobre el cual dictaminan;
+
+II.- Antecedentes;
+
+III.- Considerandos que sustenten el apoyo, modificación o rechazo del contenido de la iniciativa o asunto;
+
+IV.- Puntos resolutivos;
+
+V.- Proyecto de texto de Ley o Decreto; y.
+
+VI.- Fecha y espacio para el nombre y firma de los Diputados integrantes de la Comisión o Comisiones que lo emiten.
+
+###### ARTÍCULO 141.
+
+Las Comisiones, procederán a estudiar, analizar y dictaminar las iniciativas de Ley o Decreto, de conformidad a las atribuciones que les da esta Ley y su Reglamento. Presentarán por escrito su Dictamen dentro de los treinta días hábiles contados a partir de la fecha de recibidos los expedientes respectivos, salvo que medie Acuerdo del Pleno o de la Diputación Permanente, en su caso, para modificar este plazo.
+
+Las Comisiones podrán citar a las personas que se presuma tengan conocimiento de la iniciativa, a fin de aclarar o ampliar los motivos de la misma.
+
+###### ARTÍCULO 142.
+
+Presentados los Dictámenes, se les dará lectura y concluida la misma, el Pleno o la Diputación Permanente, en su caso, acordarán si se procede a la discusión y votación o si se produce una segunda lectura. Las discusiones y los trámites se sujetarán a lo dispuesto por esta Ley y su Reglamento.
+
+### CAPÍTULO VIII. DE LA FÓRMULA PARA LA EXPEDICIÓN DE LEYES, DECRETOS Y ACUERDOS ECONÓMICOS
+
+###### ARTÍCULO 143.
+
+Todo proyecto de Ley o Decreto, se discutirá en lo general y en lo particular; es decir, en su conjunto y en cada uno de sus Artículos.
+
+###### ARTÍCULO 144.
+
+La discusión de un Dictamen, se iniciará con la lectura del mismo y del voto particular si lo hubiere.
+
+En aquellos casos en que la iniciativa haya pasado directamente a Comisiones, se leerá ésta, a propuesta de algún Diputado y con la aprobación del Pleno.
+
+###### ARTÍCULO 145.
+
+A continuación, el Presidente de la Directiva formulará la lista de los Diputados que soliciten la palabra en pro o en contra del Dictamen, formulada la lista, los oradores hablarán alternativamente en pro o en contra, según el orden de inscripción.
+
+###### ARTÍCULO 146.
+
+Los demás Diputados que no estén inscritos para hacer uso de la palabra, podrán pedirla para aclarar hechos o contestar alusiones personales.
+
+###### ARTÍCULO 147.
+
+Queda estrictamente prohibida, cualquier discusión en forma de diálogo.
+
+###### ARTÍCULO 148.
+
+Las intervenciones de los oradores, en las discusiones, no podrán durar más de diez minutos sin permiso del Pleno o de la Diputación Permanente, en su caso.
+
+###### ARTÍCULO 149.
+
+Los Servidores Públicos del Poder Ejecutivo, no podrán oralmente hacer proposición o modificación alguna en las Sesiones, pues todas las iniciativas e indagaciones del Ejecutivo deberán dirigirse al Congreso mediante oficio; pero deberán permanecer en la Sesión a efecto de aclarar algún punto del debate.
+
+###### ARTÍCULO 150.
+
+Cuando sólo hubiera oradores en pro, podrán hablar hasta tres Diputados, salvo autorización expresa del Presidente de la Directiva, además de los miembros de la comisión dictaminadora.
+
+###### ARTICULO 151.
+
+Cuando sólo hubiere oradores en contra, después de tres intervenciones, el Presidente de la Directiva preguntará si el asunto está suficientemente discutido, en caso contrario, continuarán las intervenciones.
+
+###### ARTÍCULO 152.
+
+Cuando nadie pida la palabra, uno de los integrantes de la Comisión expondrá los fundamentos que ésta tuvo para emitir su Dictamen.
+
+Hecha la exposición anterior, se procederá a la votación.
+
+###### ARTÍCULO 153.
+
+Iniciada la discusión, nadie puede interrumpir al orador, si no es para reclamar el orden.
+
+###### ARTÍCULO 154.
+
+Cuando algún orador inscrito no estuviere presente en el salón en el momento de su turno, se declarará desierta su participación.
+
+###### ARTÍCULO 155.
+
+Podrá votarse en un sólo acto, un Proyecto de Dictamen en lo general, así como uno o varios o la totalidad de sus Artículos en lo particular, siempre que no hayan sido impugnados.
+
+###### ARTÍCULO 156.
+
+El día señalado para la discusión de un Dictamen, se dará aviso al autor de la iniciativa, a fin de que si lo estima pertinente, pueda participar en ella por sí o por medio de representante.
+
+###### ARTÍCULO 157.
+
+Iniciada la discusión de un Dictamen, sólo podrá suspenderse en los siguientes casos:
+
+I.- Por Acuerdo del Pleno o de la Diputación Permanente a fin de dar preferencia a otro asunto de mayor urgencia;
+
+II.- Por falta de Quórum;
+
+III.- Por desórdenes en el Recinto Legislativo; y
+
+IV.- Por acuerdo de las dos terceras partes de los Diputados presentes en la Sesión, en cuyo caso, se deberá fijar de inmediato la fecha y hora en que la discusi6n deberá continuar.
+
+###### ARTÍCULO 158.
+
+En el caso de la fracción I del Artículo anterior, se leerá la propuesta y sin otro requisito que el de escuchar a dos Diputados, uno en pro y otro en contra, se preguntará al Pleno o a la Diputación Permanente, si se toma de inmediato en consideración; en caso negativo, se continuará la discusión anterior y en caso afirmativo, se suspenderá la discusión para dar preferencia al otro asunto, el que se discutirá a continuación aprobándose o rechazándose.
+
+###### ARTÍCULO 159.
+
+En los demás casos, la suspensión se concederá de inmediato, pero sin que pueda interrumpirse al orador en turno por éste motivo. Si se aprueba la suspensión, el Presidente de la Directiva, fijará desde luego día y hora en que la discusión deberá continuar.
+
+###### ARTÍCULO 160.
+
+No podrá presentarse más de una petición de suspensión de discusión de un Dictamen.
+
+###### ARTÍCULO 161.
+
+Cuando hubieren hablado todos los oradores inscritos que puedan hacer uso de la palabra, el Presidente de la Directiva, preguntará si el asunto está suficientemente discutido. En caso afirmativo, se procederá inmediatamente a la votación; en caso contrario, continuará la discusión, bastando que hablen un Diputado en pro y otro en contra.
+
+###### ARTÍCULO 162.
+
+Declarado el Proyecto suficientemente discutido, se preguntará si se aprueba o no en lo general y en lo particular; en caso de votación afirmativa, se considerará como aprobado en ambos sentidos; si se impugnan uno o varios Artículos, podrá discutirse en lo particular.
+
+En caso de votación negativa, se preguntará si el Proyecto vuelve a la Comisión. Si la resolución es afirmativa, volverá a la Comisión para el efecto de su reforma, en sentido contrario, se tendrá por desechada.
+
+###### ARTÍCULO 163.
+
+Siempre que un asunto vuelva a la Comisión, ésta deberá presentar Dictamen en el sentido de la discusión; pudiendo pasar a una Comisión Especial, en caso de que aquella lo solicite y lo acuerde favorablemente el Pleno o la Diputación Permanente.
+
+###### ARTÍCULO 164.
+
+En la Sesión en que se vote un Dictamen, podrán presentarse por escrito adiciones o modificaciones a los Artículos propuestos.
+
+Leída la adición o modificación y expuestos los fundamentos por su autor, se preguntará si se admite o no la adición o modificación; admitida, se pasará a la Comisión respectiva para su inclusión; en caso contrario, se tendrá por desechada.
+
+###### ARTÍCULO 165.
+
+Todos los Proyectos de Ley o Decretos que consten de más de veinte Artículos, serán discutidos y votados por Títulos, Capítulos, Artículos, Fracciones, Incisos o Párrafos, según la división que hubieren hecho sus autores o la Comisión, siempre que así lo acuerde el Congreso a moción de alguno de sus miembros; pudiendo, además, reservar varios Artículos para votarlos en un sólo acto.
+
+### CAPÍTULO IX. DEL CEREMONIAL
+
+###### ARTÍCULO 166.
+
+Todos los asuntos que el Congreso debe resolver, lo hará mediante votación del Pleno o de la Diputación Permanente.
+
+La votación se tomará por mayoría de votos de los presentes, en los términos de esta Ley, salvo disposición expresa en otro sentido.
+
+Mientras se efectúa la votación, ningún miembro del Congreso deberá salir del salón, ni excusarse de votar.
+
+###### ARTÍCULO 167.
+
+La mayoría de votos, será simple, absoluta o calificada, entendiéndose por:
+
+I.- Mayoría simple, la que se obtiene con la mitad más uno de los Diputados presentes;
+
+II.- Mayoría absoluta, la que se obtiene con la mitad más uno de los Diputados que integran el Congreso del Estado; y
+
+III.- Mayoría calificada, cualquiera que sea superior a las anteriores, de acuerdo a lo que establezcan esta ley, su Reglamento y otras disposiciones legales.
+
+###### ARTÍCULO 168.
+
+Las formas de votación, serán:
+
+I.- Económica;
+
+II.- Nominal; y
+
+III.- Por Cédula.
+
+###### ARTÍCULO 169.
+
+Por regla general, las votaciones, se harán en forma económica levantando la mano, para lo cual el Presidente en primer término, solicitará la votación a favor, en seguida la votación en contra y al final, las abstenciones; salvo en los casos siguientes:
+
+I.- Será votación nominal:
+
+a).- Cuando se trate de un Proyecto de Ley ó Decreto en lo general y/o en lo particular;
+
+b).- Cuando se trate de dictámenes emitidos por la Comisión Instructora; y
+
+c).- Cuando lo pida un Diputado y sea apoyado por tres ó más. Esta propuesta será sometida a votación económica del Pleno, para determinar su procedencia.
+
+II.- Será votación por Cédula:
+
+a).- Cuando se trate de elegir personas, salvo el caso previsto el (sic) Artículo 76 de la presente Ley.
+
+En todos los tipos de votación se podrá utilizar un sistema electrónico para que cada Diputado desde su curul, tenga la opción de votar a favor, en contra o abstención y los resultados aparezcan en un tablero, además podrá incorporarse el mecanismo necesario para que desde su curul cada Diputado pueda también votar por la elección de personas.
+
+###### ARTÍCULO 170.
+
+La Votación Nominal, se llevará mediante el siguiente procedimiento: Cada Diputado se pondrá de pie y dirá en voz alta su nombre y apellido, manifestando la expresión: "a favor", "en contra" o "abstención", que corresponderá a si aprueba, no aprueba o se abstiene respecto de la propuesta respectiva. La Secretaría recogerá, la votación y el Presidente de la Directiva declarará el resultado.
+
+###### ARTÍCULO 171.
+
+Si al dar la Secretaría cuenta del resultado de la Votación Económica, algún miembro del Congreso se mostrara inconforme, el Presidente de la Directiva solicitará a la Secretaría realice un nuevo conteo de los votos emitidos, para lo cual, los Diputados que voten a favor mantendrán su mano levantada.
+
+###### ARTÍCULO 172.
+
+En la Votación por Cédulas, éstas serán entregadas por la Secretaria de Servicios Legislativos, a los Diputados para que emitan su voto y las depositen directamente en la urna dispuesta para tal efecto.
+
+Concluida la votación, el Presidente de la Directiva extraerá las Cédulas una después de otra y las leerá en voz alta, a efecto de que la Secretaría recabe los nombres de las personas y el número de votos obtenidos por cada uno de ellos.
+
+###### ARTÍCULO 173.
+
+Las Cédulas en blanco, se considerarán como abstención. Las Cédulas que contengan más de una propuesta, serán nulas.
+
+###### ARTÍCULO 174.
+
+En caso de empate en las votaciones, se repetirá la votación en la misma Sesión y si por segunda vez resultare empate, el Presidente de la Directiva tendrá voto de calidad.
+
+###### ARTÍCULO 175.
+
+Tratándose de reformas a la Constitución Política del Estado de Hidalgo, se requerirá la aprobación de por los menos las dos terceras partes del total de los Diputados del Congreso.
+
+###### ARTÍCULO 176.
+
+Para calificar los casos como urgentes, se requieren de las dos terceras partes de los votos de los presentes.
+
+###### ARTÍCULO 177.
+
+En los casos de elección de los Servidores Públicos, cuyo nombramiento deba aprobar el Congreso, durante la votación, aquellos deberán abandonar el Recinto Legislativo, hasta en tanto se verifica la misma, por lo que al emitirse, la Presidencia ordenará el reingreso de los mismos, a fin de que conozcan el resultado de la votación.
+
+### CAPÍTULO I. DE LA AUDITORIA SUPERIOR DEL ESTADO
+
+###### ARTÍCULO 178.
+
+Las Leyes ó Decretos, se expedirán mediante la fórmula siguiente:
+
+"El Congreso del Estado Libre y Soberano de Hidalgo, ha tenido a bien expedir el siguiente Decreto Número.."
+
+(Texto de la Ley o Decreto)
+
+Al calce, los firmarán el Presidente y los Secretarios de la Directiva en ejercicio y se remitirán al titular del Poder Ejecutivo de la Entidad, para los efectos precisados en el Artículo 51 de la Constitución Política del Estado de Hidalgo.
+
+###### ARTÍCULO 179.
+
+Los Acuerdos Económicos, previa aprobación del Pleno, serán autorizados por la Secretaría de la Directiva y se comunicarán insertándose en oficio.
+
+### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
+
+###### ARTÍCULO 180.
+
+En las Sesiones, el Presidente de la Directiva ocupará el lugar central del estrado; a su derecha tomará asiento el Vicepresidente, en la parte de abajo los Secretarios y los demás Diputados tomarán asiento en las curules que les hayan sido asignadas por la Junta de Gobierno.
+
+###### ARTÍCULO 181.
+
+Cuando deba asistir el Gobernador del Estado a Sesión del Congreso, previamente se nombrará una Comisión de Protocolo y Cortesía integrada por tres Diputados para que lo acompañen al Recinto de Sesiones y lo mismo se hará cuando se retire de dicho lugar.
+
+###### ARTÍCULO 182.
+
+En el Recinto del Congreso, el Gobernador, tomará asiento a la derecha del Presidente del Congreso; el Presidente del Tribunal Superior de Justicia, lo hará a la izquierda del mismo; en caso de asistencia del Presidente de los Estados Unidos Mexicanos o su representante, tomará asiento a la derecha del Presidente del Congreso y el Gobernador a la izquierda del mismo, quedando el Presidente del Tribunal Superior de Justicia a la izquierda del Gobernador. El Vicepresidente tomará asiento en el extremo derecho del Presidente del Congreso.
+
+###### ARTÍCULO 183.
+
+Para los ciudadanos Magistrados del Tribunal Superior de Justicia y demás Servidores Públicos asistentes e invitados especiales, se reservarán lugares previamente.
+
+###### ARTÍCULO 184.
+
+Al entrar al Recinto el Gobernador u otro invitado de honor, todos los asistentes deberán de ponerse de pie, a excepción del Presidente de la Directiva, quién lo hará hasta el momento en que aquél llegue al Estrado.
+
+## TÍTULO SEXTO. DE LOS ÓRGANOS AUXILIARES DEL CONGRESO DEL ESTADO
+
+###### ARTÍCULO 185.
+
+Para el desempeño y ejercicio de sus atribuciones, el Congreso del Estado, se auxiliará de los siguientes Órganos Técnicos y Administrativos:
+
+I.- Auditoria Superior del Estado;
+
+II.- Secretaría de Servicios Legislativos;
+
+III.- Coordinación de Asesoría;
+
+IV.- Dirección General de Servicios Administrativos;
+
+V.- Instituto de Estudios Legislativos;
+
+VI.- Centro de Desarrollo y Estudios Municipales; y
+
+VII.- Dirección de Comunicación Social,
+
+Los Órganos Técnicos y Administrativos del Congreso del Estado, tendrán las atribuciones que les señalen la Constitución Política del Estado de Hidalgo, esta Ley, su Reglamento, el propio que rija sus actividades y demás ordenamientos legales.
+
+###### ARTÍCULO 186.
+
+Para ser Titular de alguno de los Órganos Técnicos y Administrativos señalados anteriormente, se requiere:
+
+I.- Ser ciudadano hidalguense;
+
+II.- Ser de reconocida honestidad;
+
+III.- No haber recibido sentencia firme condenatoria por delito doloso que amerite pena corporal; y
+
+IV.- Contar con los conocimientos y experiencia comprobables para el buen desempeño de su cargo.
+
+### CAPÍTULO III. DE LA COORDINACIÓN DE ASESORÍA
+
+###### ARTÍCULO 187.
+
+La facultad fiscalizadora del Congreso, se ejercerá por conducto de la Auditoria Superior del Estado de Hidalgo, dependiente del Congreso del Estado, quien tendrá a su cargo la revisión y fiscalización de la Cuenta Pública de los sujetos de la misma, que señala la Constitución Política del Estado de Hidalgo y demás leyes y Reglamentos aplicables.
+
+###### ARTÍCULO 188.
+
+El titular de la Auditoria Superior del Estado será nombrado de conformidad con el procedimiento y requisitos establecidos en la Ley de la Auditoria Superior del Estado del Estado de Hidalgo.
+
+###### ARTÍCULO 189.
+
+La Auditoria Superior del Estado, contará con las Unidades Administrativas que señale su ley.
+
+###### ARTÍCULO 190.
+
+La Comisión Inspectora de la Auditoria Superior del Estado, recibirá y revisará el Informe del Resultado de la Revisión de las Cuentas Públicas, para su trámite correspondiente al Pleno del Congreso.
+
+###### ARTÍCULO 191.
+
+El Auditor Superior del Estado, será el responsable del resguardo y custodia de las Cuentas Públicas mientras sean exigibles, en los términos que dispone la Ley.
+
+###### ARTÍCULO 192.
+
+El Auditor Superior del Estado, contará con las facultades que señala la Constitución Política del Estado, la Ley de la materia y las demás disposiciones legales aplicables.
+
+### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE SERVICIOS ADMINISTRATIVOS
+
+###### ARTÍCULO 193.
+
+La Secretaría de Servicios Legislativos estará a cargo de un Secretario, será designado por el Pleno a propuesta del Presidente Junta de Gobierno, previo Acuerdo de la misma, quien tendrá las siguientes funciones:
+
+I.- Auxiliar a los Diputados en todo lo relativo al Proceso Legislativo y coordinar a los Órganos Auxiliares en esta materia;
+
+II.- Auxiliar a la Directiva en las funciones que le señale esta Ley y su Reglamento;
+
+III.- Auxiliar a la Junta de Gobierno en las funciones que le señale esta Ley y su Reglamento;
+
+IV.- Auxiliar y dar cumplimiento a las decisiones tomadas por la Junta de Gobierno, en el ámbito de su competencia;
+
+V.- Dar seguimiento a los asuntos que se traten en las Sesiones de la Junta de Gobierno, hasta su total conclusión;
+
+VI.- Llevar a cabo los trámites administrativos, relacionados con el Proceso Legislativo de las Iniciativas y Proyectos presentados al Pleno;
+
+VII.- Coordinar los servicios de apoyo necesarios para la celebración de las Sesiones del Pleno, de la Diputación Permanente y de las Comisiones Permanentes y Especiales;
+
+VIII.- Coordinar los servicios de estenografía, videograbación y transmisión de las Sesiones en medios de comunicación;
+
+IX.- Llevar los registros y demás documentos establecidos, para el control y seguimiento de los asuntos del Congreso;
+
+X.- Auxiliar al Presidente y a los Secretarios de la Directiva, en la elaboración de las Actas de las Sesiones Ordinarias y Extraordinarias, para su revisión, antes de dar cuenta de ellas al Pleno;
+
+XI.- Expedir y certificar, la documentación correspondiente;
+
+XII.- Mantener actualizado el diario de debates y la estadística de las Sesiones;
+
+XIII.- Firmar la correspondencia del Congreso, en suplencia de la Secretaría;
+
+XIV.- Dirigir la biblioteca y el archivo del Congreso del Estado, ejecutando las medidas convenientes para el cuidado, mantenimiento y actualización de sus acervos;
+
+XV.- Coordinar a los Órganos Auxiliares del Congreso, los servicios que estos presten en materia de Proceso Legislativo;
+
+XVI.- Llevar el registro cronológico de las Leyes, Decretos y Acuerdos Económicos que expida el Congreso;
+
+XVII.- Coordinar la Unidad de Acceso a la Información Pública Gubernamental, y vigilar que cumpla con las facultades que le conceden la Ley de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento Interior del Comité de Acceso a la Información Pública Gubernamental del Poder Legislativo del Estado de Hidalgo;
+
+XVIII.- Proponer Planes y Programas de Capacitación para el personal técnico y administrativo del Congreso, en materia de Proceso Legislativo;
+
+XIX.- Supervisar, autorizar y actualizar el contenido de la información que se publique en la página electrónica del Congreso, en Internet o cualquier otro medio electrónico o impreso, así como la que la Unidad de Acceso a la Información Pública Gubernamental proporcione a los peticionarios de información; y
+
+XX.- Las demás que le señale esta Ley, su Reglamento y los Acuerdos emanados del Pleno o de la Diputación Permanente, en su caso.
+
+> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2010)</small>
+
+La Secretaria de Servicios Legislativos, para el cumplimiento de sus fines, contará con el número de colaboradores que autorice el Presupuesto de Egresos del Poder Legislativo y contará para el buen desempeño de sus funciones con el apoyo de la Coordinación de Asesoría.
+
+### CAPÍTULO V. DEL INSTITUTO DE ESTUDIOS LEGISLATIVOS
+
+###### ARTÍCULO 194.
+
+La Coordinación de Asesoría contará con el número de asesores que autorice el Presupuesto de Egresos del Poder Legislativo, además de los propuestos por los Grupos Legislativos, los que estarán bajo la coordinación de un Director General, quien será designado por el Presidente de la Junta de Gobierno y tendrá las siguientes atribuciones:
+
+I.- Representar legalmente al Congreso y dar seguimiento a los asuntos en los que éste sea parte, por delegación del Presidente de la Directiva;
+
+II.- Auxiliar a la Junta de Gobierno, en las funciones que tiene encomendadas e integrar los expedientes que sean de su competencia;
+
+III.- Auxiliar a los diversos Grupos Legislativos en cuestiones jurídicas, inherentes al Trabajo Legislativo;
+
+IV.- Auxiliar a las diversas Comisiones Legislativas en la elaboración de sus Dictámenes;
+
+V.- Dar seguimiento a los procedimientos de carácter jurisdiccional y demás trámites legales, en los que el Congreso del Estado sea parte;
+
+VI.- Orientar a los Ayuntamientos en cuestiones inherentes al Trabajo Legislativo;
+
+VII.- Auxiliar a la Secretaría de Servicios Legislativos, en las tareas propias del Proceso Legislativo;
+
+VIII.- Auxiliar en el ámbito de su competencia, a la Auditoria Superior del Estado, en la integración, interposición y seguimiento de denuncias de carácter penal y procedimientos en materia de responsabilidad de los servidores públicos;
+
+IX.- Coordinar los trabajos de los Secretarios Técnicos, adscritos a las Comisiones Permanentes y Especiales;
+
+X.- Gestionar y promover Planes y Programas de Capacitación, tendientes a profesionalizar, actualizar y especializar el Cuerpo de Asesores;
+
+XI.- Auxiliarse de asesoría especializada externa, dependiente del sector público, de Instituciones Académicas o Prestadores de Servicios Privados, cuando así se requiera para el mejor desempeño de sus funciones;
+
+XII.- Auxiliar a la Directiva en la substanciación del procedimiento en términos del Título Tercero, Capítulo V de la presente Ley;
+
+XIII.- Apoyar en la integración de los expedientes respectivos, cuando el Congreso del Estado se erija como Órgano de Acusación o Gran Jurado; y
+
+XIV.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+### CAPÍTULO VI. DEL CENTRO DE DESARROLLO Y ESTUDIOS MUNICIPALES
+
+###### ARTÍCULO 195.
+
+La Dirección General de Servicios Administrativos, es el Órgano del Congreso del Estado, encargado de la administración de los recursos humanos, materiales y financieros del mismo.
+
+###### ARTÍCULO 196.
+
+La Dirección General de Servicios Administrativos, estará a cargo de un Director General, nombrado por el Presidente de la Junta de Gobierno y le corresponderán las siguientes atribuciones:
+
+I.- Planear, organizar, coordinar y promover el desarrollo del personal, así como los recursos financieros y materiales con los que cuente el Poder Legislativo;
+
+II.- Definir y establecer objetivos, políticas y procedimientos en materia de administración y desarrollo de personal, recursos materiales y financieros del Poder Legislativo;
+
+III.- Brindar apoyo a las Dependencias del Poder Legislativo para su óptimo funcionamiento;
+
+IV.- Elaborar el Anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo;
+
+V.- Vigilar que se ejerza el Presupuesto de acuerdo a la programación y calendarización aprobadas;
+
+VI.- Tramitar y realizar las transferencias y ampliaciones presupuéstales que se requieran para el mejor funcionamiento del Congreso, en los términos de la Legislación aplicable; previa autorización del Presidente de la Junta de Gobierno;
+
+VII.- Informar periódicamente al Presidente de la Junta de Gobierno, del ejercicio y desarrollo del Presupuesto y Programas;
+
+VIII.- Administrar y comprobar la aplicación de los recursos, para efectos de integrar la Cuenta Pública correspondiente;
+
+IX.- Concertar, previa autorización del Presidente de la Junta de Gobierno, las operaciones y Convenios Financieros con Instancias Externas;
+
+X.- Firmar, previa autorización del Presidente de la Junta de Gobierno, la documentación referente a las erogaciones y pagos que con cargo al Presupuesto de Egresos ejerza el Poder Legislativo;
+
+XI.- Integrar la nómina del Poder Legislativo, vigilando que los pagos se efectúen en los términos de Ley;
+
+XII.- Establecer y operar un sistema integral de capacitación y desarrollo de personal, acorde a las necesidades del Poder Legislativo;
+
+XIII.- Dirigir, planear, coordinar, controlar y supervisar las actividades encaminadas a la construcción, combinación y mantenimiento de las tecnologías de información;
+
+XIV.- Proporcionar los medios tecnológicos necesarios para integrar, generar, verificar y utilizar la información que de las diferentes áreas emana;
+
+XV.- Aplicar los Programas de Incentivos, Calificación de Méritos, Evaluación del Rendimiento y Estímulos, que propicien la superación de los Servidores Públicos, de acuerdo a los criterios previamente establecidos;
+
+XVI.- Administrar, conservar y mantener, el Patrimonio del Poder Legislativo;
+
+XVII.- Efectuar la recepción, guarda, custodia, registro y control de los bienes destinados al uso de las Dependencias del Poder Legislativo;
+
+XVIII.- Planear, organizar, coordinar y controlar las actividades referentes a adquisiciones, almacenes, suministros, servicios generales, acervo administrativo, control patrimonial y servicios médico preventivos, previa autorización del Presidente de la Junta de Gobierno;
+
+XIX.- Elaborar un informe anual de actividades y aplicación de recursos a su cargo; y
+
+XX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+###### ARTÍCULO 197.
+
+La Dirección General de Servicios Administrativos, contará con las Unidades Administrativas, de acuerdo al Presupuesto que el propio Congreso del Estado le asigne, para cumplir con sus funciones.
+
+### CAPÍTULO VII. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+
+###### ARTÍCULO 198.
+
+El Instituto de Estudios Legislativos, es el Órgano Técnico Administrativo del Congreso del Estado, que estará a cargo de un Director General, que designará el Presidente de la Junta de Gobierno en los términos de su Reglamento, y contará con el personal que requiera para el desempeño de sus funciones, de acuerdo al Presupuesto que el propio Congreso del Estado le asigne, teniendo como atribuciones las siguientes:
+
+I.- Realizar las investigaciones legislativas, que le sean solicitadas por el Pleno, la Diputación Permanente, en su caso, los Grupos Legislativos y las Comisiones Permanentes o Especiales;
+
+II.- Recopilar, ordenar y facilitar la consulta de Leyes, documentos y bibliografía relacionadas con el Proceso Legislativo;
+
+III.- Establecer mecanismos de colaboración y coordinación, con Instituciones afines para el cumplimiento de sus objetivos;
+
+IV.- Brindar apoyo en las consultas que les soliciten los miembros del Congreso del Estado.
+
+Dependencias Oficiales, Académicas y a Particulares, relacionadas con la Legislación;
+
+V.- Realizar estudios para el perfeccionamiento de las prácticas legislativas del Congreso del Estado;
+
+VI.- Apoyar en el análisis de Iniciativas de Leyes y Decretos, así como en la elaboración de los cuadros comparativos que con respecto a las mismas se formulen;
+
+VII.- Editar y difundir la Gaceta Legislativa y demás publicaciones que contribuyan a la divulgación de estudios y asuntos legislativos;
+
+VIII.- Organizar y dirigir actividades académicas en materia de capacitación, actualización y operación de planes de estudio para cursos, seminarios, diplomados, especialidades y cualquier otra afin; y
+
+IX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
+
+###### ARTÍCULO 199.
+
+El Centro de Desarrollo y Estudios Municipales, es el Órgano Encargado de la Investigación y Análisis de los temas relacionados con el Fortalecimiento y el Desarrollo Municipal, con el propósito de atender las necesidades de información de los Diputados, Comisiones legislativas y de los demás órganos del Poder legislativo, así como el de brindar la asesoría a los Ayuntamientos, que así lo requieran, para coadyuvar al desempeño de sus atribuciones.
+
+###### ARTÍCULO 200.
+
+El Centro de Desarrollo y Estudios Municipales, estará a cargo de un Director General, que será nombrado por el Presidente de la Junta de Gobierno, el cual contará con las áreas administrativas y personal, que se le asigne en el Presupuesto de Egresos correspondiente.
+
+###### ARTÍCULO 201.
+
+El Centro de Desarrollo y Estudios Municipales, tendrá las siguientes funciones:
+
+I.- Realizar investigaciones, estudios, análisis y proyectos, relacionados con el desarrollo municipal, a fin de que los Diputados, Comisiones Legislativas y demás Órganos del Poder Legislativo, cuenten con la información oportuna y actualizada en el momento de tomar decisiones, en el marco de las atribuciones que en esta materia, le otorga la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado de Hidalgo y otras Leyes relacionadas;
+
+II.- Brindar la asesoría necesaria a los Ayuntamientos y a sus integrantes, en materia jurídica a fin de que actualicen de manera permanente el marco legal, en el que se rigen sus decisiones reglamentarias;
+
+III.- Intervenir en el estudio de los Proyectos o Iniciativas, cuando se trate de reformar o modificar las leyes que inciden en el marco legal municipal y que son atribución del Congreso del Estado;
+
+IV.- Promover la realización de acciones conjuntas para el desarrollo y la colaboración municipal, que prevean una mayor participación de la comunidad, de las Asociaciones de Municipios, así como de las distintas organizaciones sociales y privadas en la materia;
+
+V.- Integrar un Sistema Estatal de Informática sobre Desarrollo y Fortalecimiento Municipal, que contenga un banco de datos sobre los distintos aspectos relativos a esas materias;
+
+VI.- Promover y difundir, por si o mediante Convenio con las Dependencias y Entidades de la Administración Pública Estatal y con los Gobiernos de los Municipios, con Instituciones Académicas o de Investigación del Estado o del país, con Asociaciones de Municipios, así como con los Sectores Social y Privado, los resultados de trabajos, estudios, investigaciones o eventos en aquellas materias que sean del interés del Centro;
+
+VII.- Diseñar, proponer e impulsar, coordinadamente con las Instancias competentes, mecanismos de reinscripción de cuentas que permitan en el marco de las atribuciones de la Auditoria Superior, una mayor transparencia y participación de la ciudadanía en la Gestión Pública Municipal;
+
+VIII.- Coadyuvar con las Instancias que correspondan, en el diseño de mecanismos efectivos de control y fiscalización sobre las Aportaciones Federales y Estatales a los Gobiernos Municipales, así como convenir, en coordinación con las Dependencias competentes, la elaboración de Programas de Capacitación y Desarrollo Administrativo para Servidores Públicos de los Ayuntamientos;
+
+IX.- Proponer un Sistema de Profesionalización y Capacitación para los Servidores Públicos y empleados en general de los Ayuntamientos;
+
+X.- Organizar y participar en Reuniones Nacionales y Estatales, sobre Federalismo y Municipio, a efecto de analizar temas prioritarios, problemas comunes e identificar experiencias exitosas; y
+
+XI.- Las demás que le confieran esta ley, su Reglamento y los ordenamientos legales aplicables.
+
+### CAPÍTULO ÚNICO. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
+
+###### ARTÍCULO 202.
+
+Corresponderá a la Coordinación de Comunicación Social del Congreso del Estado:
+
+I.- Mantener contacto permanente, con los medios de comunicación social electrónicos y escritos, a fin de garantizar la plena y oportuna información hacia la sociedad, acerca de las actividades y opiniones que se deriven de las funciones del Congreso del Estado;
+
+II.- Fungir como Instancia de Apoyo al Pleno o de la Diputación Permanente en su caso, de las Comisiones Permanentes y Especiales y de los Órganos Técnicos y Administrativos del Congreso del Estado, en lo que se refiere a la difusión social de sus acuerdos, labores y propuestas;
+
+III.- Reflejar el carácter y composición plural del Congreso del Estado, en cuanto a la comunicación social, preservando las características de objetividad y de atención a la demanda ciudadana;
+
+IV.- Brindar, a través de sus áreas, el apoyo institucional que los Diputados soliciten, en lo que corresponda a esta materia;
+
+V.- Recabar, analizar y sintetizar la información pública sobre el Trabajo Legislativo, con el objeto de definir las estrategias de comunicación; y
+
+VI.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO A SEGUIR PARA RESOLVER LOS CONFLICTOS A QUE SE REFIERE LA FRACCIÓN XIII DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
+
+## TÍTULO SÉPTIMO
+
+###### ARTÍCULO 203.
+
+Para los efectos del presente Titulo, la Auditoria Superior del Estado, será el Órgano responsable de llevar a cabo auditorias, atender y recibir quejas, realizar investigaciones y aplicar el procedimiento y las sanciones inherentes a las responsabilidades administrativas de los servidores Públicos del Congreso local, así como llevar el registro y control de sus declaraciones de situación patrimonial, previstos en la ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+
+###### ARTÍCULO 204.
+
+Están obligados a presentar declaración de situación patrimonial ante la Auditoria Superior del Estado, bajo protesta de decir verdad:
+
+I.- Los Diputados;
+
+II.- El Secretario de Servicios Legislativos;
+
+III.- El Auditor Superior del Estado; los Directores, Auditores y Jefes de Departamento; y
+
+IV.- Directores Generales y de Área, Subdirectores, Auditores, Jefes de Departamento y sus equivalentes.
+
+###### ARTÍCULO 205.
+
+La declaración patrimonial, deberá presentarse en los siguientes plazos:
+
+I.- La inicial, dentro de los sesenta días hábiles siguientes al inicio de sus funciones;
+
+II.- La anual de modificación patrimonial, en el mes de mayo de cada año; y
+
+III.- La final, dentro de los treinta días hábiles siguientes a la conclusión de sus funciones o separación del cargo.
+
+Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, excepto en el case (sic) de los Diputados y los Presidentes Municipales, quedará sin efectos el nombramiento respectivo previa declaración del Congreso del Estado. Lo mismo ocurrirá cuando se omita, la declaración establecida en la fracción II.
+
+###### ARTÍCULO 206.
+
+La Auditoria Superior del Estado, emitirá las bases y normas, proporcionando gratuitamente los formatos, manuales e instructivos, bajo los cuales el servidor público deberá presentar su declaración patrimonial.
+
+###### ARTÍCULO 207.
+
+Con relación a este Capítulo, en lo no previsto en esta Ley y su Reglamento, se aplicara en lo que corresponda supletoriamente, la Ley de Responsabilidades de los Servidores Públicos.
+
+## TÍTULO OCTAVO
+
+###### ARTÍCULO 208.
+
+La Legislatura del Estado de Hidalgo, se erigirá en Órgano de Acusación o Gran Jurado, respectivamente, para conocer de los procesos correspondientes a Juicio Político y de Declaración de Procedencia, por las causas y bajo el procedimiento que la propia Constitución Política del Estado de Hidalgo y la Ley de Responsabilidades de los Servidores Públicos de aplicación local, establezcan.
+
+###### ARTÍCULO 209.
+
+Corresponde a la Legislatura del Estado, por conducto de la Comisión Instructora, desahogar los procedimientos relativos al Juicio Político y Declaración de Procedencia, de conformidad con las disposiciones previstas en la Constitución Política del Estado de Hidalgo, esta Ley y la Ley de Responsabilidades de los Servidores Públicos de aplicación local.
+
+## TÍTULO NOVENO
+
+###### ARTÍCULO 210.
+
+Planteado un conflicto de los previstos en la fracción XIII del Artículo 56 de la Constitución Política del Estado, debidamente fundado y apoyado, el Pleno o la Diputación Permanente, designará una Comisión Especial de tres Diputados que se avoque al conocimiento y estudio del asunto, citando de inmediato a la parte supuestamente causante del conflicto, o algún representante suyo, debidamente acreditado, a una audiencia que se verificará dentro de los cinco días siguientes; si no comparece, se le tendrá por inconforme con cualquier arreglo y después de analizar las pruebas ofrecidas, la Comisión, en un plazo de tres días, formulará su Dictamen, resolviendo en definitiva el Pleno o la Diputación Permanente.
+
+###### ARTÍCULO 211.
+
+Si la parte citada o su representante comparecen, será oída por la Comisión y admitidas las pruebas que en derecho sean procedentes, señalándose día y hora para el desahogo de las que su naturaleza lo requieran.
+
+###### ARTÍCULO 212.
+
+Diez días después de desahogadas todas las pruebas y oído el alegato de las partes, la Comisión rendirá su Dictamen, resolviendo en definitiva el Pleno o la Diputación Permanente, ésta resolución será incombatible e inobjetable.
+
+###### ARTÍCULO 213.
+
+En cualquiera de los casos previstos en los Artículos anteriores, los miembros de la Comisión podrán hacer uso de la palabra hasta en tres ocasiones, ya sea que hable uno sólo de sus miembros o los tres, para apoyar y sostener su Dictamen, cuando éste sea objetado por algún otro Diputado.
+
+###### ARTÍCULO 214.
+
+Si el Congreso conoció de algún asunto de los que se mencionan en este Capítulo, y entró en receso antes de ser resuelto, la Comisión designada seguirá conociéndolo y tocará resolver a la Diputación Permanente. Si fue la Diputación Permanente la que primeramente conoció del asunto y antes de resolverlo, inició la Legislatura nuevo período de Sesiones, seguirá actuando la comisión designada y corresponderá al Pleno resolver. Si el conflicto fue planteado y la Legislatura concluye su Período Constitucional, se pasará el asunto junto con toda la documentación que integre el expediente respectivo, para que sea la nueva Legislatura quién continúe el procedimiento y resuelva en definitiva.
+
+T R A N S I T O R I O S
+
+PRIMERO.- La presente Ley entrará en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- La presente Ley Abroga la Ley Orgánica Del Poder Legislativo del Estado de Hidalgo, publicada en el Periódico Oficial, el lunes 10 de mayo de 2004, así como las disposiciones que contravengan este ordenamiento.
+
+TERCERO.- Todo lo que refiere esta Ley, relativo a la Auditoría Superior del Estado de Hidalgo y al Auditor Superior, se refiere al Órgano Superior de Fiscalización y al Auditor Superior del Órgano Superior de Fiscalización, hasta en tanto no se realicen las reformas a la Constitución Política del Estado de Hidalgo y a la Ley del Órgano Superior de Fiscalización,
+
+AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS DIECISIETE DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL NUEVE.
+
+PRESIDENTE
+
+DIP. REYES VARGAS PAREDES.
+
+SECRETARIO
+
+DIP. ALFREDO BEJOS NICOLÁS
+
+SECRETARIO
+
+DIP. HORACIO TREJO BADILLO
+
+EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
+
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS NUEVE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL NUEVE.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
+
+LIC. MIGUEL ANGEL OSORIO CHONG.
