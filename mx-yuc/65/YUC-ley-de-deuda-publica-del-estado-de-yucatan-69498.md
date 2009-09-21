@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-deuda-publica-del-estado-de-yucatan-69498"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2009-07-24"
+last_updated: "2009-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 24 de julio de 2009.
 
@@ -151,7 +151,9 @@ IV.- Se informe al Congreso dentro de los cuarenta y cinco días naturales poste
 
 V.- Se señale, en caso de que se incurra en Endeudamiento Neto Adicional, en la cuenta pública y se presupueste su pago.
 
-La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada. Asimismo, una vez que el saldo insoluto del capital de la deuda contratada rebase el 3% de los Ingresos Ordinarios durante el ejercicio fiscal correspondiente, no se podrá disponer de nueva deuda al amparo de lo estipulado en este artículo sino hasta que transcurran 30 días naturales después de la fecha en la que se realice el pago total de dicho saldo insoluto de capital.
+> <small>(REFORMADO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada. Asimismo, una vez que el saldo insoluto del capital de la deuda contratada rebase el 3% de los Ingresos Ordinarios durante el ejercicio fiscal correspondiente, no se podrá disponer de nueva deuda al amparo de lo estipulado en el segundo párrafo de este artículo sino hasta que transcurran 30 días naturales después de la fecha en la que se realice el pago total de dicho saldo insoluto de capital.
 
 ###### Artículo 6.
 
@@ -183,7 +185,9 @@ VII.- Negociar los términos y condiciones, contratar, celebrar y, en su caso, l
 
 VIII.- Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Estado, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación aplicable, así como otorgar las garantías que se requieran, siempre que la deuda haya sido autorizada o contratada en los términos de esta Ley. Los fideicomisos señalados en esta fracción no serán considerados parte de la administración pública paraestatal y la deuda emitida por los mismos podrá ser con o sin recurso legal contra el Sujeto Obligado fideicomitente;
 
-IX.- Notificar a la Secretaría de Hacienda y Crédito Público y a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal y demás disposiciones legales aplicables, cualquier afectación de Participaciones en Ingresos Federales y/o cualquier afectación de Aportaciones Federales, que se utilice como fuente de pago o de cualquier otra forma, que correspondan al Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de los ingresos provenientes de las Participaciones en Ingresos Federales y/o provenientes de las Aportaciones Federales de que se trate, la cual sólo podrá ser incrementada con la previa aprobación del Congreso, siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier incremento que modifique la instrucción antes mencionada notificada por el Ejecutivo del Estado, por conducto de la Secretaría, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente, deberá también notificarse al Registro;
+> <small>(REFORMADA, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+IX.- Notificar a la Secretaría de Hacienda y Crédito Público y a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal y demás disposiciones legales aplicables, cualquier afectación de Participaciones en Ingresos Federales y/o cualquier afectación de Aportaciones Federales, que se utilice como fuente de pago o de cualquier otra forma, que correspondan al Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de los ingresos provenientes de las Participaciones en Ingresos Federales y/o provenientes de las Aportaciones Federales de que se trate, la cual sólo podrá ser modificada con la previa aprobación del Congreso, siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ejecutivo del Estado, por conducto de la Secretaría, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente, deberá también notificarse al Registro;
 
 X.- Autorizar a los Sujetos Obligados Paraestatales para gestionar y contratar deuda, según se señala en el artículo 12 de esta Ley;
 
@@ -221,7 +225,9 @@ IX.- Negociar los términos y condiciones, contratar, celebrar y, en su caso, ll
 
 X.- Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación aplicable, así como otorgar las garantías que se requieran, siempre que el endeudamiento haya sido autorizado o contratado en los términos de esta Ley. Los fideicomisos mencionados en esta fracción, no serán considerados parte de la administración pública paramunicipal y la deuda emitida por los mismos podrá ser con o sin recurso legal contra el Sujeto Obligado fideicomitente;
 
-XI.- Notificar a la Secretaría de Hacienda y Crédito Público y a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal y demás disposiciones legales aplicables, por conducto de un funcionario facultado para ello, cualquier afectación de Participaciones en Ingresos Federales y/o de las Aportaciones Federales, que correspondan al Municipio. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de afectación de Participaciones en Ingresos Federales, y/o de Aportaciones Federales, la cual sólo podrá ser incrementada con la previa aprobación del Congreso siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes, para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ayuntamiento, por conducto del funcionario facultado para ello, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal, deberá también notificarse al Registro;
+> <small>(REFORMADA, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+XI.- Notificar a la Secretaría de Hacienda y Crédito Público y a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal y demás disposiciones legales aplicables, por conducto de un funcionario facultado para ello, cualquier afectación de Participaciones en Ingresos Federales y/o de las Aportaciones Federales, que correspondan al Municipio. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de afectación de Participaciones en Ingresos Federales, y/o de Aportaciones Federales, la cual sólo podrá ser modificada con la previa aprobación del Congreso siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes, para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ayuntamiento, por conducto del funcionario facultado para ello, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal, deberá también notificarse al Registro;
 
 XII.- Solicitar la capacitación que brinde la Secretaría en todo lo relativo a la concertación y contratación de deuda;
 
@@ -356,3 +362,11 @@ GOBERNADORA DEL ESTADO
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 21 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
