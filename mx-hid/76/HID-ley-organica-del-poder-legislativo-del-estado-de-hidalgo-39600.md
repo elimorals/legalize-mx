@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-39600"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-05-10"
-last_updated: "2008-11-10"
+last_updated: "2009-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, PUBLICADA EN EL P.O. DE 21 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2004.
 
@@ -2110,3 +2112,11 @@ P.O. 10 DE NOVIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- La presente Ley Abroga la Ley Orgánica Del Poder Legislativo del Estado de Hidalgo, publicada en el Periódico Oficial, el lunes 10 de mayo de 2004, así como las disposiciones que contravengan este ordenamiento.
+
+TERCERO.- Todo lo que refiere esta Ley, relativo a la Auditoría Superior del Estado de Hidalgo y al Auditor Superior, se refiere al Órgano Superior de Fiscalización y al Auditor Superior del Órgano Superior de Fiscalización, hasta en tanto no se realicen las reformas a la Constitución Política del Estado de Hidalgo y a la Ley del Órgano Superior de Fiscalización.
