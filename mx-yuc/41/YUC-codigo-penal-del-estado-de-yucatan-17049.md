@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2009-08-07"
+last_updated: "2009-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -1729,7 +1729,9 @@ Cuando el incumplimiento se refiera únicamente a los hijos o exista imposibilid
 
 A quien dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de obligaciones de asistencia familiar que la ley determina, se le impondrá prisión de uno a seis años.
 
-### CAPÍTULO VII. VIOLENCIA INTRAFAMILIAR
+### CAPÍTULO VII. VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 223.
 
@@ -1807,21 +1809,29 @@ En el caso de incesto cometido por el descendiente o por los hermanos la sanció
 
 En ambos casos se privará al infractor de sus derechos de familia.
 
+> <small>(REFORMADA SU DENOMINACION, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
 ### CAPÍTULO IV. PRIVACIÓN ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTÍAS
 
 ###### ARTÍCULO 228.
 
-Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave calificada como delito por la autoridad jurisdiccional, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma respecto a su integridad física, psíquica, moral o ambas.
+Por violencia familiar se considera el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, psicológica, patrimonial, económica o sexual, ejercida en contra de un miembro de la familia por otro integrante de la misma, dentro o fuera del domicilio familiar.
 
-Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante, adoptado, que habite en la casa de la víctima, y realice los actos señalados en el párrafo anterior.
+> <small>(REFORMADO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-A quien cometa el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión y perderá en su caso el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
+Comete el delito de violencia familiar el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante, adoptado, o mantengan o hayan mantenido una relación de hecho y realice los actos señalados en el párrafo anterior.
+
+> <small>(REFORMADO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y, en su caso, la privación de la patria potestad o del derecho de pensión alimenticia, según corresponda. Asimismo se le sujetará a tratamiento psicológico especializado.
 
 Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en cuyo caso, se perseguirá de oficio.
 
+> <small>(REFORMADO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 229.
 
-Se equipara a la violencia intrafamiliar y se sancionará con seis meses a cuatro años de prisión, al que realice cualesquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona o de cualquier otra que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de la misma, siempre y cuando, el agresor y el agredido habiten en la misma casa.
+Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión, al que realice cualesquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona o de cualquier otra que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de la misma.
 
 ###### ARTÍCULO 230.
 
@@ -3574,3 +3584,9 @@ D.O. 7 DE AGOSTO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 21 DE SEPTIEMBRE DE 2009
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
