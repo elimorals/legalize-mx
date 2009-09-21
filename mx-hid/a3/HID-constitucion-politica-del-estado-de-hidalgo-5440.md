@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2009-03-31"
+last_updated: "2009-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -643,9 +643,7 @@ Cuando algún Diputado deje de asistir a tres Sesiones consecutivas, sin previa 
 
 Durante el Primer Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier título recursos públicos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano Superior de Fiscalización, siga su curso.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -793,11 +791,11 @@ III. Expedir las leyes reglamentarias y ejercer las facultades que le otorga la 
 
 IV. Iniciar Leyes y Decretos ante el Congreso General;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-V. Expedir y aprobar su Ley reglamentaria, así como la Ley que regule las facultades y organización interna del Organo de Fiscalización Superior, conforme a las bases establecidas en esta Constitución.
+V. Expedir y aprobar su Ley reglamentaria, así como la Ley que regule las facultades y organización interna de la Auditoría Superior, conforme a las bases establecidas en esta Constitución.
 
-El Organo de Fiscalización Superior del Congreso del Estado, es el órgano técnico responsable de la revisión y fiscalización de las Cuentas Públicas del Estado y de los Municipios, de acuerdo a la Legislación correspondiente;
+La Auditoría Superior del Estado de Hidalgo, es el Órgano Técnico responsable de la fiscalización de las Cuentas Públicas del Estado y de los Ayuntamientos, de acuerdo a la legislación correspondiente;
 
 VI. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)
 
@@ -815,9 +813,9 @@ IX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
 X. Nombrar al ciudadano que debe suplir al Gobernador Constitucional, en caso de falta temporal o definitiva de éste;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-XI. Conceder a los Diputados, Gobernador, Magistrados, Consejeros del Consejo de la Judicatura, Procurador General de Justicia y Subprocurador de Asuntos Electorales, licencia para separarse de sus cargos, en los términos establecidos por esta Constitución;
+XI. Conceder a los Diputados, Gobernador, Auditor Superior, Magistrados, Consejeros del Consejo de la Judicatura, Procurador General de Justicia y Subprocurador de Asuntos Electorales, licencia para separarse de sus cargos, en los términos establecidos por esta Constitución;
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -829,17 +827,15 @@ XIII. Resolver los conflictos que se susciten entre dos o más municipios del Es
 
 XIV. Dar posesión a los Diputados Suplentes en caso de inhabilitación o licencia de los Diputados Propietarios;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-XV. Nombrar al Titular del Organo de Fiscalización Superior del Congreso del Estado y al Secretario de Servicios Legislativos;
+XV. Nombrar al Auditor Superior y al Secretario de Servicios Legislativos;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
 
 XVI. Decretar se tramite la reivindicación de los bienes Estatales y Municipales, sin perjuicio de las facultades que para ello correspondan al Poder Ejecutivo del Estado y a los gobiernos municipales;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-XVII. Recibir, revisar y fiscalizar las cuentas públicas justificadas a que está obligada a rendir toda persona física o moral que reciba a cualquier titulo, fondos del Erario Público, comprendidos en el presupuesto de egresos del año correspondiente;
+XVII. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2009)
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -901,79 +897,81 @@ f) Las normas que regulen los procedimientos para la solución de los conflictos
 
 XXX. Aprobar, por el voto de las dos terceras partes del total de sus miembros, los convenios de asociación que suscriban los municipios del Estado de Hidalgo con aquellos que pertenezcan a otra entidad federativa;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-XXXI. Recibir, revisar y fiscalizar la Cuenta Pública del Estado, las de los Ayuntamientos, de las Entidades Paraestatales y Paramunicipales y demás sujetos de revisión.
+XXXI. Fiscalizar la Cuenta Pública del Estado, de los Ayuntamientos, Entidades Paraestatales, Organismos Autónomos, Organismos Descentralizados Municipales, Empresas de Participación Municipal y las de cualquier persona física o moral, pública o privada que capte, recaude, administre, maneje, ejerza, resguarde o custodie fondos o recursos de la Federación, Estado o Municipios; con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
+Para la fiscalización de las Cuentas Públicas, se apoyará en la Auditoría Superior. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o gastos realizados, se determinarán las responsabilidades de acuerdo a la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los planes y programas, la Auditoría Superior sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
 
-Para la revisión y fiscalización de la Cuenta Pública, el Congreso se apoyará en el Órgano de Fiscalización Superior, el cual cuenta con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna y funcionamiento. Se encargará de revisar sin excepción, la Cuenta de las Haciendas Públicas; el manejo, custodia y la aplicación de fondos y recursos de los Poderes del Estado, a través de la Cuenta Pública Estatal, de los Ayuntamientos y demás sujetos de revisión, así como de verificar el cumplimiento de los objetivos contenidos en los planes y programas establecidos en los términos de las Leyes respectivas.
+Las Entidades fiscalizadas, deberán presentar su Cuenta Pública ante la Auditoría Superior a más tardar el día 31 de marzo del Ejercicio Fiscal posterior al que se trate, salvo lo previsto por la Ley.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
-
-El Órgano de Fiscalización Superior, establecerá y difundirá las normas, procedimientos, métodos y sistemas contables y de auditoria para la revisión de las cuentas Públicas, asimismo formulará las recomendaciones, que sobre el particular procedan a los sujetos de revisión.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
-
-En el cumplimiento de sus funciones, tendrá atribuciones para investigar los actos u omisiones que impliquen irregularidad o conducta ilícita en el ingreso, egreso, control, administración y aplicación de fondos y recursos Federales en los términos convenidos con dicho ámbito, de los Poderes del Estado, de los Ayuntamientos y demás organismos autónomos del Estado y sujetos de revisión establecidos en la Legislación aplicable: Efectuará visitas domiciliarias, únicamente para exigir la exhibición de los documentos indispensables para la realización de sus investigaciones.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
-
-Determinará los daños y perjuicios que afecten a las Haciendas Públicas Estatales o al patrimonio de las Entidades Estatales o Municipales y fincará a los responsables, las indemnizaciones y sanciones correspondientes; en su caso, promoverá ante autoridades competentes el fincamiento de otras responsabilidades o las acciones a que se refiere el Título Décimo de esta Constitución y podrá presentar denuncias y querellas penales, conforme a la Ley de la materia.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-La revisión de Cuenta Pública, tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ha ajustado a los criterios señalados en el presupuesto aprobado, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de los objetivos en los planes, programas y subprogramas. El Órgano de Fiscalización Superior tiene la obligación de entregar al Congreso del Estado, el Informe del Resultado de la Revisión de la Cuenta Pública, a más tardar en la segunda quincena del mes de marzo del año siguiente al de su presentación.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-La función de revisión y fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Sin perjuicio del principio de anualidad el Órgano de Fiscalización Superior podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas estatales. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Para tal efecto, de manera previa a la presentación del Informe del Resultado se darán a conocer a las Entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán se valoradas por el Órgano de Fiscalización Superior para la elaboración del Informe del Resultado de la Revisión de la Cuenta Pública.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-El Órgano de Fiscalización Superior, enviará a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que sea entregado al Congreso del Estado el Informe del Resultado, las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo anterior, no aplicará a los pliegos de observaciones a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-El Órgano de Fiscalización Superior deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las Entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-En el caso de las recomendaciones al desempeño de las entidades fiscalizadas deberán precisar ante el Órgano de Fiscalización Superior las mejoras o, en su caso, justificar su improcedencia.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-El Órgano de Fiscalización Superior deberá entregar al Congreso del Estado, los días 15 de los meses de febrero y agosto de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Si de la revisión que se realice aparecieren diferencias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, habrá lugar a determinar la responsabilidad de acuerdo con la Ley.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
-
-El Órgano de Fiscalización Superior, también informará al Pleno del Congreso, a través de la Comisión inspectora, de las Cuentas que se encuentren pendientes o en el proceso de revisión, explicando la razón por la que no se han concluido;
+El Congreso concluirá la revisión de las Cuentas Públicas a más tardar el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas de los Informes del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior, siga su curso;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
 XXXII. Las demás que le sean concedidas por esta Constitución.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-#### SECCION VI. DE LA DIPUTACION PERMANENTE
+#### SECCION VI. DE LA AUDITORIA SUPERIOR
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 56 Bis.
+
+La Auditoría Superior del Estado de Hidalgo, cuenta con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
+
+La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+La Auditoría Superior tiene las siguientes atribuciones:
+
+I.- Fiscalizar en forma posterior los ingresos y egresos, el manejo, la custodia y la aplicación de recursos que ejerzan los Poderes del Estado, los Ayuntamientos, Entidades Paraestatales, Organismos Autónomos y demás entidades fiscalizadas.
+
+Las Entidades fiscalizadas llevarán el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos o asignados. Asimismo, facilitarán el auxilio que requiera la Auditoría Superior en el ejercicio de sus funciones, para tal efecto, deberán proporcionar la información y documentación que se les solicite de conformidad con los procedimientos establecidos en la Ley y sin perjuicio de la competencia de otras autoridades.
+
+II.- Realizar auditorías sobre el desempeño, emitiendo las recomendaciones correspondientes en los términos de Ley; las entidades fiscalizadas deberán precisar ante ésta, las mejoras realizadas o, en su caso, justificar su improcedencia.
+
+Sin perjuicio del principio de anualidad la Auditoría Superior podrá solicitar y revisar de manera casuística y concreta, cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión, abarque para su ejecución y pago, diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas, utilizando información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada.
+
+Las observaciones, recomendaciones y demás acciones que al respecto emita la Auditoría Superior, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión y se sujetarán a los procedimientos y términos que establezca la Ley.
+
+III.- Revisar los procesos concluidos que las entidades fiscalizadas reporten en los Informes de Avance de Gestión Financiera.
+
+De igual manera, sin perjuicio del principio de posterioridad, derivado de denuncias que presuman daño a la Hacienda Pública del Estado o del Municipio o al patrimonio de las entidades fiscalizadas, la Auditoría Superior podrá requerir a éstas procedan a la revisión, durante el Ejercicio Fiscal en curso, de los hechos motivo de la denuncia y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. La Auditoría Superior rendirá un informe específico al Congreso y en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+
+IV.- Entregar al Congreso del Estado, los Informes del Resultado de la Revisión, a más tardar el último día hábil del mes de febrero del año siguiente al de la presentación de la Cuenta Pública. Dentro de dichos informes se incluirán las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos públicos por parte de las entidades fiscalizadas, la verificación del desempeño en el cumplimiento de los objetivos de los programas y el relativo a las observaciones de la Auditoría Superior, que incluya además las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+
+V.- Dar a conocer a las entidades fiscalizadas, con antelación a la presentación de los Informes de Resultado, los resultados finales y las observaciones preliminares que se deriven de la fiscalización de la Cuenta Pública, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan en términos de la Ley, las cuales deberán ser valoradas por la Auditoría Superior para la elaboración del Informe del Resultado de la Revisión.
+
+VI.- Enviar a través del Auditor Superior a las entidades fiscalizadas y de ser procedente a otras autoridades competentes, las recomendaciones y acciones promovidas que correspondan a más tardar a los 10 días hábiles posteriores a que sean entregados al Congreso los Informes del Resultado de la Revisión, para que en un plazo de hasta 30 días hábiles contados a partir del siguiente en que se les notifique, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo, se harán acreedores a las sanciones establecidas en Ley. Lo anterior no aplicará a los pliegos de observaciones y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+
+En el caso de las recomendaciones al desempeño de las entidades fiscalizadas, deberán precisar ante la Auditoría Superior las mejoras o en su caso, justificar su improcedencia.
+
+La Auditoría Superior, deberá pronunciarse a más tardar en un plazo que no excederá de 90 días hábiles, sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+
+VII.- Entregar al Congreso del Estado, dentro de los primeros 15 días de los meses de febrero y agosto de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
+
+La Auditoria Superior, deberá guardar reserva de sus actuaciones hasta que se rindan los Informes del Resultado de la Revisión al Congreso; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+También informará al Pleno del Congreso, a través de la Comisión, de las Cuentas Públicas que se encuentren pendientes o en proceso de fiscalización, explicando la razón por la que no se ha concluido.
+
+VIII.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso; control, administración y aplicación de recursos públicos que ejerzan los Poderes del Estado, los Ayuntamientos, Organismos Autónomos y demás entidades fiscalizadas; efectuar visitas domiciliarias para exigir únicamente la exhibición de libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las entidades fiscalizadas; necesarias para conocer directamente, el ejercicio de sus funciones. Asimismo, podrá imponer medidas de apremio a quienes incumplan sus requerimientos y con ello obstaculicen su función.
+
+IX.- Determinar los daños y perjuicios que afecten a las Haciendas Públicas Estatal o Municipales o al patrimonio de las Entidades Estatales o Municipales y fincar a los responsables, las indemnizaciones y sanciones correspondientes; en su caso, promover ante las Autoridades competentes el fincamiento de otras, responsabilidades o las acciones de responsabilidad a que se refiere el Título Décimo de esta Constitución y presentar denuncias y querellas penales, conforme a la Ley de la materia.
+
+X.- Establecer y difundir los procedimientos y métodos de auditoría para la fiscalización de las Cuentas Públicas.
+
+El Congreso designará al titular de la Auditoría Superior a quien se le denominará Auditor Superior del Estado de Hidalgo, por el voto de las dos terceras partes de los miembros presentes; la Ley determinará el procedimiento para su designación. El Auditor Superior durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. La renuncia o remoción por las causas graves que la Ley señale, deberán ser aprobadas con el mismo número de votos requeridos para su nombramiento, además de lo previsto en el Titulo Décimo de esta Constitución.
+
+Las ausencias, remoción, falta absoluta y renuncia del Auditor Superior se regirán por lo dispuesto en la Ley de la Auditoría Superior del Estado de Hidalgo.
+
+Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones, científicas, docentes, artísticas o de beneficencia.
+
+(REFORMADA SU DENOMINACION [N. DE E. REUBICADA, ANTES SECCION VI], P.O. 21 DE SEPTIEMBRE DE 2009) (F. DE E., P.O. 15 DE FEBRERO DE 2010)
+
+#### SECCION VII. DE LA DIPUTACION PERMANENTE
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
-
-#### SECCION I. DEL GOBERNADOR
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 57.
 
@@ -1011,9 +1009,9 @@ IV. Resolver asuntos de su competencia y recibir durante el receso del Congreso 
 
 V. Conocer las propuestas de nombramiento de los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y las de los Magistrados del Tribunal Electoral del Estado y de su licencia o renuncia, en los términos que establezca la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-VI. Nombrar con carácter interino al Auditor Superior del Organo de Fiscalización Superior del Congreso del Estado;
+VI. Nombrar con carácter interino al Auditor Superior del Estado de Hidalgo;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1047,9 +1045,9 @@ La Diputación Permanente dará cuenta en la segunda sesión del Congreso, del u
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
-#### SECCION II. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
+#### SECCION I. DEL GOBERNADOR
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 61.
 
@@ -1157,9 +1155,9 @@ El Gobernador del Estado, podrá ausentarse de la Entidad, sin licencia del Cong
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
-#### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
+#### SECCION II. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ###### Artículo 71.
 
@@ -1325,9 +1323,9 @@ LIV. Las demás que le confiera esta Constitución y la General de la República
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
-#### SECCION IV. DE LA PLANEACION ESTATAL DEL DESARROLLO
+#### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO, 1 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 72.
 
@@ -1379,9 +1377,9 @@ El Gobernador podrá delegar en cualquier funcionario, las facultades otorgadas 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1987)</small>
 
-#### SECCION V. DEL MINISTERIO PUBLICO
+#### SECCION IV. DE LA PLANEACION ESTATAL DEL DESARROLLO
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, 1 DE OCTUBRE DE 1987)</small>
 
 ###### Artículo 82.
 
@@ -1431,9 +1429,9 @@ La ley determinará las características del sistema estatal de planeación demo
 
 Así mismo, la Ley facultará al Ejecutivo Estatal para que establezca los procedimientos de participación y consulta popular en el sistema estatal de planeación democrática y los criterios para la formulación, instrumentación del Plan y los Programas de Desarrollo.
 
-#### SECCION I. DE LOS TITULARES DEL GOBIERNO MUNICIPAL
+#### SECCION V. DEL MINISTERIO PUBLICO
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 88.
 
@@ -1889,11 +1887,11 @@ Los resultados del ejercicio de dichos recursos serán evaluados por las instanc
 
 Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, en tanto se expida éste, continuará vigente el del año inmediato anterior.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 110.
 
-Las cuentas de los caudales públicos, deberán glosarse sin excepción, por el Organo de Fiscalización Superior del Congreso del Estado.
+Las cuentas de los caudales públicos, deberán fiscalizarse sin excepción, por la Auditoría Superior.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2255,11 +2253,11 @@ VIII. Promover el mejoramiento de los servicios y el acrecentamiento del patrimo
 
 IX. Formular anualmente su proyecto de Ley de Ingresos, que será sometido a la aprobación del Congreso del Estado;
 
-X. Analizar y Aprobar en su caso, el Presupuesto de Egresos, que cada año le será presentado por el Presidente Municipal, así como la cuenta comprobada de gastos mensuales del ejercicio en curso, en los términos que señale la ley.
+X. Analizar y Aprobar en su caso, el Presupuesto de Egresos, que cada año le será presentado por el Presidente Municipal, así como la cuenta comprobada de gastos mensuales del ejercicio en curso, en los términos que señale la ley;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-XI. Presentar al Congreso del Estado a más tardar el 31 de marzo de cada año, la Cuenta Pública del año anterior, con excepción a la correspondiente a la del tercer año de ejercicio, que deberá presentar a más tardar el 15 de enero;
+XI. Presentar a la Auditoría Superior del Estado a más tardar el 31 de marzo de cada año, la Cuenta Pública del año anterior, con excepción a la correspondiente a la del tercer año de ejercicio, que deberá presentar a más tardar el 15 de febrero;
 
 XII. Vigilar el cumplimiento del Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales en lo que respecta a su municipio, así como cumplir su Programa Municipal de Desarrollo;
 
@@ -2267,7 +2265,7 @@ XIII. Promover el desenvolvimiento material, social, cultural, artístico, depor
 
 XIV. Mantener actualizada la Estadística del municipio;
 
-XV. Facultar al Presidente municipal para que pueda celebrar contratos con particulares e instituciones oficiales, sobre asuntos de interés público, requiriéndose la aprobación de las dos terceras partes de los miembros del Ayuntamiento en la enajenación de bienes inmuebles propiedad del municipio o para comprometer a éste por un plazo mayor al periodo del gobierno municipal en funciones.
+XV. Facultar al Presidente municipal para que pueda celebrar contratos con particulares e instituciones oficiales, sobre asuntos de interés público, requiriéndose la aprobación de las dos terceras partes de los miembros del Ayuntamiento en la enajenación de bienes inmuebles propiedad del municipio o para comprometer a éste por un plazo mayor al periodo del gobierno municipal en funciones;
 
 XVI. Admitir o desechar la licencia que soliciten los Síndicos o los Regidores;
 
@@ -2291,7 +2289,7 @@ h). Intervenir en la formulación y aplicación de programas de transporte publi
 
 i). Celebrar convenios para la administración y custodia de las Zonas Federales.
 
-En lo conducente, los ayuntamientos podrán expedir los reglamentos y disposiciones administrativas que sean necesarios de conformidad con lo dispuesto en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+En lo conducente, los ayuntamientos podrán expedir los reglamentos y disposiciones administrativas que sean necesarios de conformidad con lo dispuesto en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XVIII. Cuando dos o más centros urbanos situados en territorios municipales del Estado de Hidalgo y otra u otras entidades federativas formen o tiendan a formar una continuidad demográfica, el Estado y los municipios respectivos planearán con la Federación y él o los otros Estados y sus municipios y regularán en el ámbito de sus competencias, de manera conjunta y coordinada, el desarrollo de dichos centros, con apego a la Ley Federal de la materia, observando las normas vigentes en el Estado y
 
@@ -2345,9 +2343,9 @@ El titular del Poder Ejecutivo Federal tendrá el mando de la fuerza pública en
 
 XI. Solicitar la autorización del Ayuntamiento para ausentarse del municipio por más de quince días;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-XII. Presentar ante el Organo de Fiscalización Superior del Congreso del Estado, su Declaración Patrimonial Inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual durante el mes de mayo de cada año y de conclusión de encargo, dentro de los treinta días hábiles siguientes y
+XII. Presentar ante la Auditoría Superior del Estado de Hidalgo, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual durante el mes de mayo de cada año y de conclusión de encargo, dentro de los treinta días hábiles siguientes y
 
 XIII. Las demás que esta Constitución y las leyes le confieran.
 
@@ -2417,11 +2415,11 @@ Para los efectos de la responsabilidad se reputarán como servidores públicos a
 
 El Gobernador del Estado, será responsable por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales que de ésta emanen, por traición a los intereses del Estado, por delitos graves del orden común, así como por el manejo indebido de fondos y recursos de esta Entidad Federativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 150.
 
-Serán sujetos de juicio político: Los Diputados al Congreso Local, los Presidentes Municipales, los Síndicos Procuradores, los Regidores, los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, los Consejeros del Consejo de la Judicatura, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Subprocurador de Asuntos Electorales, el Oficial Mayor y los coordinadores que nombre el Ejecutivo, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes, de los Organismos Públicos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones asimiladas a Éstas, Fideicomisos Públicos de esta Entidad Federativa y Jueces de Primera Instancia, por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la comisión de los delitos del Orden Común que se cometan durante su gestión.
+Serán sujetos de juicio político: los Diputados al Congreso Local, el Auditor Superior, los Presidentes Municipales, los Síndicos Procuradores, los Regidores, los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, los Consejeros del Consejo de la Judicatura, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Subprocurador de Asuntos Electorales, el Oficial Mayor y los Coordinadores que nombre el Ejecutivo, el Consejero Presidente los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes, de los Organismos Públicos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas, Fideicomisos Públicos de esta Entidad Federativa y Jueces de Primera Instancia, por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la comisión de los delitos del Orden Común que se cometan durante su gestión.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -3070,3 +3068,19 @@ TERCERO.- La revisión de las Cuentas Públicas correspondientes al ejercicio fi
 P.O. 31 DE MARZO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente, al de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- La Auditoría Superior del Estado iniciará sus funciones a la entrada en vigor del presente Decreto y su Titular será el actual Auditor Superior del Órgano de Fiscalización Superior del Estado. Las funciones de fiscalización a que se refiere el Artículo 56 fracción XXXI y 56 Bis de este Decreto, se llevarán a cabo en los términos del propio Decreto, a partir de la revisión de la Cuenta Pública correspondiente al Ejercicio Fiscal 2008.
+
+TERCERO.- En tanto la Auditoría Superior del Estado no empiece a ejercer las atribuciones a que se refiere esté Decreto, el Órgano de Fiscalización Superior continuará ejerciendo las atribuciones que actualmente tiene conforme al Artículo 56 fracción XXXI de la Constitución Política del Estado, la Ley del Órgano de Fiscalización Superior y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente Decreto.
+
+Una vez creada la Auditoría Superior del Estado, todos los recursos humanos, materiales y patrimoniales del Órgano de Fiscalización Superior, pasarán a formar parte de aquella.
+
+CUARTO.- Las adecuaciones legales reglamentarias pertinentes derivadas del presente Decreto, se llevarán a cabo dentro de los treinta días hábiles siguientes a la entrada en vigor del mismo.
+
+QUINTO.- En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la entrada en vigor del presente Decreto, en que se haga referencia a la Contaduría Mayor de Hacienda u Órgano de Fiscalización Superior del Estado de Hidalgo, se entenderán referidos a la Auditoría Superior del Estado de Hidalgo.
+
+SEXTO.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
