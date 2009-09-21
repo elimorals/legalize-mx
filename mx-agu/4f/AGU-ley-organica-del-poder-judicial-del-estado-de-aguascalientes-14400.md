@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2009-07-13"
+last_updated: "2009-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -149,7 +149,9 @@ IX.- Designar a Magistrados de una Sala para que transitoriamente integren otra 
 
 X.- Conocer los informes del Consejo de la Judicatura Estatal por lo que respecta a las licencias otorgadas a los Jueces y emitir opiniones de los mismos;
 
-XI.- Conocer de las renuncias de los servidores públicos a que se refiere la fracción que antecede;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+XI.- Conocer y resolver las solicitudes de indemnización en términos de lo establecido por el Título Octavo del Libro Segundo de la Legislación Penal del Estado de Aguascalientes;
 
 XII.- Excitar a los Jueces para que administren pronta y cumplida justicia, de oficio o a moción de las partes interesadas;
 
@@ -173,7 +175,7 @@ XXI.- Resolver las recusaciones y excusas del Presidente del Supremo Tribunal de
 
 XXII.- Conocer y resolver las controversias que se susciten entre los miembros de las Salas y las que surjan entre éstas;
 
-XXIII.- Ejercitar las demás facultades que le confieren las Leyes; y
+XXIII.- Ejercitar las demás facultades que le confieren las Leyes; y (sic)
 
 XXIV.- Aprobar el presupuesto anual de egresos del Poder Judicial.
 
@@ -1209,7 +1211,9 @@ El fondo para la administración de justicia, se integra con:
 
 a).- Los intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común;
 
-b).- Los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas de los Códigos Penal y Procesal Penal. La declaración de que tales cantidades pasan a formar parte del fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código de Procedimientos Penales;
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+b).- Los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas de la Legislación Penal para el Estado de Aguascalientes. La declaración de que tales cantidades pasan a formar parte del Fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con la Legislación Penal para el Estado de Aguascalientes;
 
 c).- Los muebles y valores depositados por cualquier motivo ante los tribunales de justicia del fuero común, que no fueren retirados por el depositario o por quien tenga derecho a ello, dentro del plazo de noventa días previo requerimiento;
 
@@ -1217,7 +1221,9 @@ d).- Donaciones, herencias y legados;
 
 e).- Las multas y sustituciones de pena impuesta por los órganos jurisdiccionales estatales;
 
-f).- El motivo de la reparación del daño cuando la parte ofendida renuncie a él o no reclame dentro del plazo de seis meses, a partir de la notificación de que queda a su disposición. La declaración de que tales cantidades pasan a formar parte del fondo, se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+f).- El monto de la reparación del daño cuando la parte ofendida renuncie a él o no reclame dentro del plazo de seis meses, a partir de la notificación de que queda a su disposición. La declaración de que tales cantidades pasan a formar parte del fondo, se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con la Legislación Penal para el Estado de Aguascalientes.
 
 ###### ARTICULO 83.
 
@@ -1606,3 +1612,17 @@ El presente Decreto entrará en vigencia a los noventa días de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 El Supremo Tribunal de Justicia deberá expedir su Reglamento Interior antes de la entrada en vigencia del presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia, el primero de enero del año dos mil diez.
+
+###### ARTÍCULO SEGUNDO.
+
+El Presupuesto de Egresos para el Ejercicio Fiscal del año dos mil diez, deberá prever los recursos necesarios para la creación y funcionamiento del Fondo para la Indemnización de Sentenciados Absueltos.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo, deberá emitir las Reglas de Operación para la Administración del Fondo para la Indemnización de Sentenciados Absueltos, en un plazo no mayor a noventa días naturales, contados a partir de la publicación del presente Decreto.
