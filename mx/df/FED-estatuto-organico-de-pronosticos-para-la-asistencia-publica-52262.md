@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pronosticos-para-la-asistencia-publica-522
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-11-22"
-last_updated: "2008-06-23"
+last_updated: "2009-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52262&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-17"
 
 ESTATUTO ORGANICO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE SEPTIEMBRE DE 2009.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de noviembre de 2006.
 
@@ -59,7 +59,17 @@ INDICE
 
 ### CAPITULO IX. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
-### CAPITULO X DE LAS MODIFICACIONES AL ESTATUTO
+### CAPITULO X DE LAS MODIFICACIONES AL ESTATUTO. CONSIDERANDO
+
+Que Pronósticos para la Asistencia Pública es un organismo público descentralizado con personalidad jurídica y patrimonio propio, cuya coordinación sectorial corresponde a la Secretaría de Hacienda y Crédito Público, la cual dicta las políticas normativas, coordina la programación y presupuestación, conoce la operación y evalúa los resultados, conservando Pronósticos para la Asistencia Pública la autonomía de gestión para el cabal cumplimento de su objeto y de los objetivos y metas señalados en sus programas;
+
+Que Pronósticos para la Asistencia Pública tiene como objeto y fin la obtención de recursos destinados a la Asistencia Pública, conforme al artículo segundo de su Decreto de Creación;
+
+Que el presente Estatuto Orgánico tiene por objeto establecer genéricamente las bases de integración, organización, ámbitos de competencia, facultades, funciones y responsabilidad que corresponden a las áreas que integran el organismo y la manera en que operará la suplencia del Director General y los titulares de dichas áreas, por lo que ha tenido a bien expedir el siguiente:
+
+ESTATUTO ORGANICO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+
+INDICE
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -79,7 +89,9 @@ INDICE
 
 ### CAPITULO IX. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
-### CAPITULO X. DE LAS MODIFICACIONES AL ESTATUTO
+### CAPITULO X DE LAS MODIFICACIONES AL ESTATUTO
+
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1o.
 
@@ -117,6 +129,8 @@ La administración del organismo estará a cargo de un Consejo Directivo y de un
 
 En lo no previsto en el presente Estatuto Orgánico, se estará a lo dispuesto en la Ley Federal de las Entidades Paraestatales y su Reglamento, así como en el Decreto de Creación de Pronósticos y en las demás disposiciones que resulten aplicables.
 
+### CAPITULO II. DE LA ORGANIZACION DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+
 ###### Artículo 6o.
 
 Para el estudio, planeación, despacho y control de los asuntos de su competencia, Pronósticos para efectos enunciativos contará con las siguientes unidades administrativas:
@@ -144,6 +158,8 @@ Pronósticos contará además con un Organo Interno de Control, que se regirá c
 Asimismo, Pronósticos contará con las unidades subalternas que se requieran, que le sean autorizadas y se definan en el Manual de Organización.
 
 El domicilio legal de Pronósticos será el Distrito Federal; los domicilios de las Subdirecciones Regionales será determinado por el Director General.
+
+### CAPITULO III. DEL CONSEJO DIRECTIVO
 
 ###### Artículo 7o.
 
@@ -217,6 +233,8 @@ X. Las demás que el Consejo Directivo le señale.
 
 El funcionamiento del Consejo Directivo se sujetará a lo dispuesto en los artículos 18o. y 19o. del Reglamento de la Ley Federal de las Entidades Paraestatales.
 
+### CAPITULO IV. DEL DIRECTOR GENERAL
+
 ###### Artículo 14o.
 
 Al frente de Pronósticos habrá un Director General, a quien corresponde la representación, trámite y resolución de los asuntos competencia del organismo, quien además de las facultades y obligaciones que se señalan en el Decreto de Creación, en la Ley Federal de las Entidades Paraestatales, en el Reglamento de la Ley Federal de las Entidades Paraestatales y demás disposiciones aplicables, contará con las siguientes:
@@ -249,6 +267,8 @@ Los Subdirectores Generales, Coordinadores y Directores de Area deberán realiza
 
 El Director General podrá delegar cualquiera de sus facultades en otros servidores públicos de Pronósticos, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o determinación del Consejo Directivo le correspondan exclusivamente.
 
+### CAPITULO V. DE LAS UNIDADES ADMINISTRATIVAS
+
 ###### Artículo 17o.
 
 Los titulares de las Subdirecciones Generales, Coordinaciones, Direcciones de Area y Gerencias, que reporten al Director General tendrán las facultades genéricas siguientes:
@@ -272,6 +292,8 @@ VIII. Proponer el nombramiento y remoción de su personal de apoyo, así como de
 IX. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por Delegación o les correspondan por suplencia; y
 
 X. Las demás que les señalen otras disposiciones legales o reglamentarias, así como aquellas que instruya el Director General dentro del ámbito de sus facultades y de las atribuciones de las unidades subalternas de su adscripción.
+
+### CAPITULO VI. AMBITOS DE COMPETENCIA
 
 ###### Artículo 18o.
 
@@ -325,19 +347,21 @@ III. Promover y coordinar el establecimiento y operación de los nuevos negocios
 
 IV. Las demás que les señalen otras disposiciones legales o reglamentarias, así como aquellas que instruya el Director General dentro del ámbito de sus facultades y de las atribuciones de las unidades subalternas de su adscripción.
 
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 22o.
 
-El titular del área de Tecnologías de la Información y Comunicaciones tendrá las facultades genéricas siguientes:
+El titular del área de Informática tendrá las facultades siguientes:
 
-I. Determinar, establecer y dirigir las estrategias de Innovación y Tecnologías de la Información y Comunicaciones que permitan aprovechar estas potencialidades como ventajas competitivas del negocio;
+I. Mantener actualizada la infraestructura de operaciones para su desempeño eficiente en el ámbito de captación de apuestas y operación de concursos y sorteos;
 
-II. Asegurar la continuidad de la operación sustantiva de los sistemas de captación de apuestas dentro de los niveles de servicio establecidos que permitan mantener y mejorar los índices de rentabilidad de la institución y de satisfacción al cliente;
+II. Planear, proponer y, en su caso, ejecutar de acuerdo a los estándares internacionales de calidad y seguridad la implementación de tecnología, comunicaciones, procesos de calidad, de seguridad informática y administración de proyectos, a las unidades administrativas de la Entidad, acorde al ámbito de sus respectivas competencias;
 
-III. Planear el desarrollo y coordinar la actualización de la tecnología informática de la Entidad y brindar soporte a la infraestructura de hardware y software disponible;
+III. Planear, proponer y en su caso, conducir proyectos sobre desarrollo de nuevos productos y nuevos canales de venta, vigilando que éstos se adecuen a las políticas de seguridad y calidad informática;
 
-IV. Coordinar el análisis y/o adecuaciones de estructuras organizacionales, procesos y procedimientos; y
+IV. Coordinar el análisis y proponer la adecuación de estructuras organizacionales para alcanzar una mayor eficiencia operativa institucional bajo el establecimiento e instrumentación de modelos de calidad total, mejora continua y seguridad de la información; y
 
-V. Las demás que les señalen otras disposiciones legales o reglamentarias, así como aquellas que instruya el Director General dentro del ámbito de sus facultades y de las atribuciones de las unidades subalternas de su adscripción.
+V. Las demás que señalen otras disposiciones legales o reglamentarias aplicables, así como aquellas que instruya el Director General del organismo dentro del ámbito de su competencia y aquellas que les correspondan a las unidades de su adscripción.
 
 ###### Artículo 23o.
 
@@ -350,6 +374,8 @@ II. Determinar, establecer y dirigir los canales de comunicación entre Pronóst
 III. Implementar los mecanismos necesarios que permitan conocer la percepción de nuestros clientes hacia la Entidad, así como del ambiente laboral; y
 
 IV. Las demás que les señalen otras disposiciones legales o reglamentarias, así como aquellas que instruya el Director General dentro del ámbito de sus facultades y de las atribuciones de las unidades subalternas de su adscripción.
+
+### CAPITULO VII. DE LOS ORGANOS DE VIGILANCIA Y CONTROL
 
 ###### Artículo 24o.
 
@@ -367,9 +393,13 @@ Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de
 
 Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades serán suplidas conforme a lo previsto en el Reglamento interior de la Secretaría mencionada.
 
+### CAPITULO VIII. DE LOS COMITES Y SUBCOMITES
+
 ###### Artículo 26o.
 
 Pronósticos contará para el desempeño de sus funciones con los comités o subcomités técnicos especializados que determine su Consejo Directivo y aquellos previstos por la normatividad, los cuales tendrán la estructura y funciones que determine la misma.
+
+### CAPITULO IX. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
 ###### Artículo 27o.
 
@@ -378,6 +408,8 @@ Durante las ausencias temporales del Director General, el despacho y resolución
 ###### Artículo 28o.
 
 Las ausencias temporales de los Coordinadores, Subdirectores Generales, los Directores, Subdirectores de área y Gerentes serán suplidas, para el despacho de los asuntos de su competencia, por los servidores públicos de jerarquía inmediata inferior del área de su responsabilidad a los que, por las circunstancias y naturaleza de cada asunto en particular, les corresponda conocer.
+
+### CAPITULO X. DE LAS MODIFICACIONES AL ESTATUTO
 
 ###### Artículo 29o.
 
@@ -406,3 +438,7 @@ D.O.F. 23 DE JUNIO DE 2008.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a lo dispuesto en el presente Acuerdo.
+
+D.O.F. 21 DE SEPTIEMBRE DE 2009.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
