@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-09-14"
+last_updated: "2009-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -4893,25 +4893,69 @@ Si una vez concluida la tercera fase del procedimiento penal ordinario, el proce
 
 Este precepto también regirá en los procedimientos que tengan por objeto la aplicación de una medida de seguridad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEGISLACION.</small>
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 537.
 
-El organismo que dicte cualquiera de las resoluciones que dan derecho a indemnización fijará su importe en ella en términos de lo ordenado por las leyes aplicables, tomando en cuenta los días que haya estado privado de la libertad el inculpado absuelto.
+La persona que tenga derecho a la indemnización referida en el Artículo 536 de esta Ley, podrá hacerla válida mediante escrito presentado ante el Pleno del Supremo Tribunal de Justicia dentro del término de dos meses contados a partir de que cause estado la sentencia o la resolución que declare el sobreseimiento.
+
+El Pleno del Supremo Tribunal de Justicia requerirá al Juez para que remita el expediente, y fijará el importe de la indemnización en base a las siguientes reglas:
+
+I. Si la persona estaba desempleada al momento de dar inicio la prisión preventiva, se le deberá indemnizar en razón de un día de salario mínimo general vigente en el Estado por cada día que se le haya privado de la libertad;
+
+II. Si la persona tenia empleo al momento de dar inicio la prisión preventiva, y al concluirla aún lo conserva, deberá recibir indemnización a razón del salario real que dejó de percibir en su fuente de empleo, además de alguna otra prestación laboral de la que no haya gozado por estar privada de la libertad;
+
+III. En caso de que la persona contara con empleo al momento de dar inicio la prisión preventiva, y que en el transcurso del periodo que fue privada de su libertad se le rescindiera su relación laboral, deberá recibir indemnización equivalente a las prestaciones que con motivo de un despido injustificado ordena la legislación laboral aplicable;
+
+IV. En caso de que al momento de dar inicio la prisión preventiva no fuera un trabajador asalariado pero desarrollara alguna actividad económica por cuenta propia, deberá recibir indemnización equivalente al promedio de ingresos que por dicha actividad recibía diariamente hasta el momento de su detención, multiplicado por el número de días que haya estado privada de su libertad.
+
+En ningún caso la indemnización por cada día de privación de la libertad, podrá ser mayor a veinticinco días de salario mínimo general vigente en el Estado.
+
+Siempre que el afectado lo solicite, se deberá ordenar la publicación en el Periódico Oficial del Estado, de un extracto de la sentencia o de la resolución que declare el sobreseimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEGISLACION.</small>
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 538.
 
-La indemnización fijada en el artículo anterior, no impedirá que, quien pretenda una indemnización superior, la reclame ante los tribunales competentes por la vía que corresponda, pero la aceptación de la suma fijada inicialmente, impedirá toda reclamación posterior.
+La indemnización que se otorgue en términos del Artículo anterior, no será impedimento para que quien la reciba pueda ejercer otras acciones ante los tribunales competentes por la vía que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEGISLACION.</small>
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 539.
 
-El Estado estará siempre obligado al pago, sin perjuicio de su derecho a repetir de algún otro obligado. Para ello, una vez realizado el pago al sentenciado absuelto, se podrá exigir a quienes hayan contribuido dolosamente o por culpa grave al error judicial, el monto de la cantidad entregada, por vía judicial.
+El Estado pagará la indemnización regulada en este Título haciendo uso del Fondo para la Indemnización de Sentenciados Absueltos; una vez pagada la indemnización, el Poder Ejecutivo, a través de la vía civil correspondiente, podrá exigir la cantidad erogada a los particulares que hayan contribuido al error judicial; tratándose de servidores públicos que hayan intervenido por el ejercicio de sus funciones, se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, en materia de responsabilidad administrativa resarcitoria.
 
 ###### Artículo 540.
 
 La aplicación de una ley posterior más benigna durante el procedimiento que torne injusta la pena o la medida de seguridad, no habilitará la indemnización en este título regulada, así como la declaratoria de inconstitucionalidad de la norma que en su momento se haya aplicado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEGISLACION.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 541.
 
-(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2006)
+El Fondo para la Indemnización de Sentenciados Absueltos, únicamente podrá ser destinado a lo establecido por este Título y estará integrado por:
+
+I. La aportación anual que se le asigne en el Presupuesto de Egresos del Estado de Aguascalientes;
+
+II. Las aportaciones que para este fin realicen los particulares u organismos privados, públicos y sociales, nacionales e internacionales de manera altruista;
+
+III. Los productos financieros que se obtengan de las inversiones y reinversiones de los recursos asignados al Fondo;
+
+IV. Lo recuperado por el Estado en términos del Artículo 539 de esta Ley; y
+
+V. Los demás ingresos que por Ley le sean asignados.
+
+La Secretaría de Finanzas del Estado, constituirá este Fondo y lo pondrá a disposición del Supremo Tribunal de Justicia del Estado, a fin de que entregue las indemnizaciones correspondientes.
+
+En ningún caso, la Secretaría de Finanzas del Estado podrá disponer del capital mediante el que se constituya el Fondo, mismo que se deberá invertir en valores gubernamentales de renta fija del más alto rendimiento, a fin de que se incremente con los intereses que se acumulen.
 
 # LIBRO TERCERO. EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -5618,3 +5662,17 @@ P.O. 14 DE SEPTIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia, el primero de enero del año dos mil diez.
+
+###### ARTÍCULO SEGUNDO.
+
+El Presupuesto de Egresos para el Ejercicio Fiscal del año dos mil diez, deberá prever los recursos necesarios para la creación y funcionamiento del Fondo para la Indemnización de Sentenciados Absueltos.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo, deberá emitir las Reglas de Operación para la Administración del Fondo para la Indemnización de Sentenciados Absueltos, en un plazo no mayor a noventa días naturales, contados a partir de la publicación del presente Decreto.
