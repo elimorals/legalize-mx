@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-65189"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-27"
-last_updated: "2008-12-27"
+last_updated: "2009-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATAN PARA EL EJERCICIO FISCAL 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 27 de diciembre de 2008.
 
@@ -199,9 +199,19 @@ El Gobierno del Estado, a través de la Secretaría de Hacienda, percibirá los 
 
 PESOS
 
-INGRESOS EXTRAORDINARIOS $350'192,900.00
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
-I. Empréstitos $280'000,000.00
+INGRESOS EXTRAORDINARIOS $1,940'192,900.00
+
+> <small>(REFORMADA, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
+I. Empréstitos $1,870'000,000.00
+
+Para el ejercicio fiscal 2009 el monto
+
+máximo de endeudamiento neto será
+
+de $ 1,450'000,000.00
 
 II. Los apoyos extraordinarios que otorgue
 
@@ -371,11 +381,13 @@ Subsidio Federal para la Universidad
 
 Autónoma de Yucatán. $1,038'980,800.00
 
+> <small>(REFORMADO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 11.
 
-El total de ingresos para el Ejercicio Fiscal 2009 será de: $16,740'690,000.00
+El total de ingresos para el Ejercicio Fiscal 2009 será de: $ 18,330'690,000.00
 
-SON: DIEZ Y SEIS MIL SETECIENTOS CUARENTA MILLONES SEISCIENTOS NOVENTA MIL PESOS 00/100 MONEDA NACIONAL.
+SON: DIECIOCHO MIL TRESCIENTOS TREINTA MILLONES SEISCIENTOS NOVENTA MIL PESOS M.N.
 
 ###### Artículo 12.
 
@@ -448,3 +460,45 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. ROLANDO RODRIGO ZAPATA BELLO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 21 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo del Estado de Yucatán para:
+
+a) Que por conducto de la Secretaría de Hacienda y la Secretaría de Planeación y Presupuesto, según corresponda, contrate y ejerza financiamientos, bancarios o bursátiles, hasta por un monto de $ 1,870' 000,000.00 (mil ochocientos setenta millones de pesos, M.N.) y hasta por un plazo de veinticinco años, en apego a lo establecido por los artículos 4 y 5 de la Ley de Deuda Pública del Estado de Yucatán.
+
+Los financiamientos autorizados podrán contratarse directamente o através (sic) de fideicomisos que se constituyan para dicho fin. Los recursos obtenidos en dichos financiamientos deberán destinarse a inversión pública productiva que cumpla con los fines y disposiciones contenidos en la fracción XV del artículo 2 de la Ley de Deuda Pública del Estado de Yucatán y para cubrir los demás desembolsos y costos directamente relacionados con la obtención de los financiamientos, tales como: constitución de reservas, costos de colocación, pago de coberturas de tasas de interés, contratos de garantías, otros gastos y honorarios, así como comisiones inherentes al proceso de financiamiento antes referido.
+
+b) Destinar del monto establecido en el inciso a) que antecede, una cantidad máxima de $ 500'000,000.00 (quinientos millones de pesos, M.N.) para reestructurar o refinanciar el saldo de la deuda pública vigente.
+
+Una vez que se concrete dicha operación el Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, deberá notificar a la Tesorería de la Federación, la cancelación de dicho pasivo con la finalidad de que ésta proceda a desafectar las participaciones federales comprometidas para garantizar el pago de los pasivos refinanciados.
+
+c) Afectar de manera irrevocable en garantía y/o como fuente de pago de los financiamientos autorizados en el presente Decreto hasta el treinta por ciento de los ingresos y/o derechos de las participaciones federales que correspondan al Gobierno del Estado de Yucatán
+
+Dicha afectación deberá hacerse en apego a lo establecido por la Ley de Deuda Pública del Estado de Yucatán, así como por la legislación aplicable, incluyendo la Ley de Coordinación Fiscal.
+
+d) Que por conducto de la Secretaría de Hacienda y la Secretaría de Planeación y Presupuesto, según corresponda, gestione, negocie y acuerde los términos y condiciones correspondientes y suscriba los contratos e instrumentos jurídicos necesarios, incluyendo, sin limitación: contratos y títulos de crédito, de cobertura de tasas de interés, de garantía, de fideicomiso así como contratos con calificadoras, con asesores financieros y con asesores legales.
+
+Todo lo anterior en apego a lo establecido en la Ley de Deuda Pública del Estado de Yucatán, y en los términos que estime más favorables para la Hacienda Pública Estatal.
+
+Asimismo, se autoriza al Ejecutivo del Estado para que concurra a la firma del o de los contratos correspondientes por conducto de sus funcionarios o representantes legalmente investidos para la celebración de dichos actos jurídicos.
+
+De acuerdo a lo establecido en la fracción VI del artículo 7 de la Ley de Deuda Pública del Estado de Yucatán los fideicomisos no serán considerados parte de la administración pública paraestatal.
+
+Para asegurar la viabilidad de la estructura de los financiamientos, basada en la afectación de participaciones federales que del Fondo General de participaciones le correspondan al Estado de Yucatán, de conformidad con lo establecido en la fracción IX del artículo 7 de la Ley de Deuda Pública del Estado de Yucatán y del artículo 9 de la Ley de Coordinación Fiscal, el Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, deberá notificar irrevocablemente a la Tesorería de la Federación la afectación de participaciones federales aprobada en el presente Decreto. Dicha instrucción sólo podrá ser modificada con la previa aprobación del Congreso, siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos.
+
+e) Que en relación con los empréstitos que le sean otorgados por las instituciones financieras que correspondan, pueda solicitar, suscribir y documentar créditos tipo puente, hasta por el cien por ciento del monto autorizado, exclusivamente destinados a los fines establecidos en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los contratos y actos jurídicos en general, que sean celebrados en ejecución y cumplimiento de este decreto, deberán inscribirse en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios que lleva la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones del reglamento del artículo 9 de la Ley de Coordinación Fiscal, y en el Registro previsto en el Capítulo IV de la Ley de Deuda Pública del Estado de Yucatán.
