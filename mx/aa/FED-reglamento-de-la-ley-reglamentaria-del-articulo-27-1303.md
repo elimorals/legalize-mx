@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-reglamentaria-del-articulo-27-1303"
 country: "mx"
 rank: "reglamento"
 publication_date: "1959-08-25"
-last_updated: "1990-01-08"
+last_updated: "2009-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1303&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1959-08-24"
 
 REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1990.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO, PUBLICADO EN EL D.O.F. DE 22 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 25 de agosto de 1959.
 
@@ -614,3 +616,39 @@ Las autorizaciones que se hayan concedido con base en las disposiciones del art�
 ###### ARTICULO CUARTO.
 
 Hasta en tanto la Secretaría de Comercio y Fomento Industrial no emita la Norma de Información Comercial correspondiente a la elaboración de aceites lubricantes para uso en vehículos automotrices, ésta seguirá efectuándose en los términos y condiciones de calidad vigentes.
+
+D.O.F. 22 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan el Reglamento de la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, publicado en el Diario Oficial de la Federación el 25 de agosto de 1959; el Reglamento de Trabajos Petroleros, publicado en el Diario Oficial de la Federación el 27 de febrero de 1974, y se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente reglamento.
+
+TERCERO.- Todos los contratos celebrados y las autorizaciones, permisos y demás actos jurídicos que se hayan concedido con fundamento en el reglamento de la Ley Reglamentaria que se abroga, de conformidad con el artículo transitorio anterior, se mantendrán vigentes en todo aquello que no presente una contradicción con lo establecido en las disposiciones de este ordenamiento.
+
+Las solicitudes de asignaciones, permisos y autorizaciones que se encuentren en trámite a la entrada en vigor del presente reglamento, se resolverán conforme a las disposiciones jurídicas vigentes al inicio del procedimiento correspondiente.
+
+CUARTO.- Para los efectos del artículo transitorio anterior, Petróleos Mexicanos y sus Organismos Subsidiarios dentro del plazo de un año contado a partir de la fecha de entrada en vigor de este reglamento, revisarán los contratos, autorizaciones, permisos y actos jurídicos antes referidos, con el objeto de modificarlos, sustituirlos o solicitar su modificación o sustitución, por otros que guarden congruencia con las disposiciones jurídicas vigentes, si así procede.
+
+QUINTO.- En materia de asignaciones petroleras:
+
+I. Se tendrán por revocadas aquellas en las que Petróleos Mexicanos o sus Organismos Subsidiarios no hayan realizado actividades o ejercido los derechos consignados en las mismas durante los tres años anteriores a la entrada en vigor del presente reglamento, salvo aquellas en que los Organismos Descentralizados tengan programas y proyectos de inversión autorizados o en proceso de autorización o aquellas en que habiendo solicitado el ejercicio de los recursos durante el presente ejercicio fiscal y previo a la publicación de este reglamento, éstos no hayan sido autorizados, lo cual deberán manifestar a la Secretaría en un plazo de noventa días naturales;
+
+II. Aquéllas que no se tengan por revocadas conforme a la fracción anterior y respecto de las cuales Petróleos Mexicanos o sus Organismos Subsidiarios expresen en un plazo de noventa días naturales su interés por mantenerlas vigentes, deberán ser revisadas por la Secretaría y por la Comisión Nacional de Hidrocarburos en un plazo de tres años contados a partir de la fecha de entrada en vigor del presente reglamento, a efecto de modificarlas o, en su caso, sustituirlas para asegurar su congruencia con las disposiciones legales y normativas en vigor.
+
+Para la citada revisión los Organismos Descentralizados deberán presentar la información necesaria en los términos del presente ordenamiento, conforme al calendario que al efecto dichas autoridades expidan, y
+
+III. Las que conforme a las fracciones anteriores se mantengan vigentes pero Petróleos Mexicanos o sus Organismos Subsidiarios no expresen interés por ejercer los derechos respectivos, se tendrán también por revocadas.
+
+SEXTO.- En el plazo de un año contado a partir de la fecha de entrada en vigor del presente reglamento, la Secretaría:
+
+I. Pondrá en operación el sistema nacional de información de hidrocarburos a que hace referencia el presente ordenamiento, y
+
+II. Expedirá las disposiciones administrativas de carácter general en materia de Asignaciones Petroleras.
+
+SÉPTIMO.- Dentro de un plazo de seis meses, contados a partir de la entrada en vigor del presente ordenamiento, la Secretaría y sus Órganos Desconcentrados, en el ámbito de sus respectivas competencias, emitirán:
+
+I. Las disposiciones administrativas de carácter general en materia de transporte, almacenamiento, distribución y ventas de primera mano, a que hace referencia el artículo 21 de este ordenamiento, y
+
+II. Las disposiciones administrativas a que hace referencia el artículo 23 de este ordenamiento.
+
+OCTAVO.- En tanto se expiden los decretos de creación o de reorganización de los Organismos Subsidiarios de Petróleos Mexicanos, las disposiciones del presente reglamento se aplicarán a los Organismos Subsidiarios Pemex Exploración y Producción; Pemex Refinación; Pemex Gas y Petroquímica Básica, y Pemex Petroquímica, creados por la Ley Orgánica de Petróleos Mexicanos y Organismos Subsidiarios.
