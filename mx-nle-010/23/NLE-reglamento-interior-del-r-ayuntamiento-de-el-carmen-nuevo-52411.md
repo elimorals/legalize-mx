@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-de-el-carmen-nuevo-52411
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-24"
-last_updated: "2006-11-24"
+last_updated: "2009-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE EL CARMEN, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de noviembre de 2006.
 
@@ -843,9 +843,41 @@ XXI. Refrendar con el Presidente Municipal los acuerdos del Ayuntamiento.
 
 XXII. Y las demás que le fijen las Leyes, Reglamentos, el Presidente Municipal o el propio Ayuntamiento.
 
-### CAPÍTULO I. Disposiciones generales
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO VII
+
+TESORERÍA MUNICIPAL.- Funciones Principales:
+
+1.- Ejercer el control del gasto municipal en base al presupuesto autorizado, en los rubros de gasto corriente e inversión.
+
+2.- Validar contablemente todos los trámites que general egresos (ordenes de pago, solicitudes de cheque, órdenes de compra y comprobación de gasto).
+
+3.- Validar documentación que se tramita para pago de proveedores de bienes y servicios, revisando se cumpla con los requisitos fiscales vigentes, presente las autorizaciones de firma correspondientes, que incluyan en cada caso el soporte documental que demuestre el uso y destino del bien o servicio.
+
+4.- Mantener un registro oportuno en el sistema de cuentas de los adeudos con proveedores de bienes y servicios, para proporcionar información a nuestros clientes internos (funcionarios municipales) y externos (proveedores y prestadores de servicios) de las facturas que se adeudan y los vencimientos o rezagos en cada caso.
+
+5.- Programar y supervisar de acuerdo al flujo de pagos proyectado (sic) los pagos a proveedores y nóminas de personal activo y jubilado y/o pensionado de la Administración.
+
+6.- Coadyuvar en la planeación y ejecución de programa de presupuestos de egresos anual de la Administración.
+
+7.- Registrar todas las operaciones financieras.
+
+8.- Analizar, verificar y conciliar las cifras resultantes de los registros contables, expresados en las cuentas contempladas en el catálogo oficial.
+
+9.- Emitir los datos financieros.
+
+10.- Suscribir los cheques al concluir el proceso de revisión y autorización, efectuado por la dirección de egresos, con el fin de cumplir con el requisito bancario.
+
+11.- Preparación de proyecto de ingresos.
+
+12.- Presentación de los presupuestos de ingresos y egresos.
+
+13.- Firmar en forma mancomunada con el Presidente Municipal todas las cuentas de cheques del municipio.
 
 ## TITULO TERCERO. Del público en las sesiones
+
+### CAPÍTULO I. Disposiciones generales
 
 ###### ARTICULO 80.
 
@@ -892,3 +924,9 @@ PRESIDENTE MUNICIPAL
 C. IMELDA VILLARREAL FERNANDEZ
 
 SRIA. DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
