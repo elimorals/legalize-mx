@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-profesionalizacion-del-638
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-11"
-last_updated: "2008-06-11"
+last_updated: "2009-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE PROFESIONALIZACION DEL SERVIDOR PUBLICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE PROFESIONALIZACION DEL SERVIDOR PUBLICO, PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 11 de junio de 2008.
 
@@ -446,3 +448,17 @@ Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dos días del mes del junio de dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Guillermo Sauza Brindis, Secretario de Administración.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Instituto de Profesionalización del Servidor Público, publicado en el Periódico Oficial del Estado, número 098-2ª Sección, de fecha 11 de junio de dos mil ocho, así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento.
+
+Artículo Tercero.- En los casos no previstos en el presente Reglamento, y en los que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General resolverá lo conducente.
+
+Artículo Cuarto.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial del Estado.
