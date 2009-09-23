@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2009-05-13"
+last_updated: "2009-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -1509,6 +1509,14 @@ Se impondrán de cuatro a siete años de prisión, a quien implante a una mujer 
 
 Si el delito se realiza con violencia o de ella resulta un embarazo, la pena aplicable será de cinco a quince años de prisión.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 186 Bis.
+
+A quien sin el consentimiento de una persona y a través de cualquier medio, le provoque esterilidad.
+
+Este delito se sancionará con una pena de cuatro a siete años de prisión y sanción pecuniaria de cuarenta a ciento veinte días de salario mínimo, más la reparación del daño.
+
 ###### Artículo 187.
 
 Además de las penas previstas en este capítulo, la autoridad jurisdiccional podrá imponer a los responsables la suspensión para ejercer la profesión, o, en caso de tratarse de servidores públicos, la destitución e inhabilitación para el desempeño del empleo, cargo o comisión por un tiempo igual al de la pena de prisión impuesta.
@@ -1931,7 +1939,7 @@ Sólo se procederá por el delito de estupro por querella de la parte ofendida.
 
 ###### Artículo 240.
 
-Cuando el sujeto activo contraiga matrimonio con la víctima, se extinguirá la acción penal.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ### Capítulo V. Fraude
 
@@ -2026,6 +2034,10 @@ III.- El delito fuere cometido por la persona que tenga al ofendido bajo su cust
 IV.- El delito fuere cometido al encontrarse la víctima a bordo de un vehículo particular o de servicio público.
 
 V.- El delito fuere cometido en despoblado o lugar solitario.
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+VI.- El delito fuere cometido por ministro o dirigente de un culto religioso.
 
 ###### Artículo 249.
 
@@ -3467,21 +3479,13 @@ Para la individualización de las sanciones previstas en este título, el Juez t
 
 Cuando los delitos a que se refieren los artículos 422 y 428 del presente código, sean cometidos por servidores públicos miembros de alguna corporación policíaca, las penas previstas serán aumentadas hasta en una mitad y además, se impondrán destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
 
+> <small>(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ### Capítulo I. Atentados Contra el Saneamiento del Ambiente y la Ecología del Estado
 
 ###### Artículo 416.
 
-Comete el delito de desaparición forzada de personas, el servidor público, que con motivo de sus atribuciones detenga y mantenga oculta a una o varias personas, o bien autorice, apoye o consienta que otros lo hagan, sin reconocer la existencia de tal privación, o negándose a informar de manera precisa sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y de las garantías procesales pertinentes.
-
-A quien cometa el delito de desaparición forzada de personas, se le sancionará con prisión de quince a cuarenta años, multa de trescientos a quinientos días de salario, así como con la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, hasta por dos tantos de la pena de prisión impuesta.
-
-Al particular, que por orden, autorización o con apoyo de un servidor público participe en los actos descritos en el primer párrafo, se le impondrá una pena de prisión de ocho a quince años y multa de trescientos a quinientos días de salario.
-
-Estas penas podrán ser disminuidas hasta en una tercera parte, cuando quien hubiere participado en la comisión del delito, suministre información que permita esclarecer los hechos; y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
-
-La acción penal derivada de la desaparición forzada de personas y la pena que se imponga judicialmente al responsable de la misma, no estarán sujetas a prescripción.
-
-No se considerará como desaparición forzada de personas o tortura, las molestias o penalidades que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ### Capítulo II. Ecocidio
 
@@ -4468,3 +4472,17 @@ P.O. 13 DE MAYO DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Decreto
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+DECRETO No. 262, POR EL QUE SE ADICIONAN Y DEROGAN LOS ARTICULOS 186-BIS, 240 Y 248 DEL CODIGO PENAL PARA EL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+DECRETO No. 321, POR EL QUE SE DEROGAN EL CAPITULO II, DEL TITULO DECIMO OCTAVO Y EL ARTICULO 416 DEL CODIGO PENAL PARA EL ESTADO DE CHIAPAS.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
