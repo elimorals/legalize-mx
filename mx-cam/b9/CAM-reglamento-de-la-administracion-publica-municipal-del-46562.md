@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-administracion-publica-municipal-del-46562"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-05"
-last_updated: "2005-10-05"
+last_updated: "2009-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,13 +20,11 @@ state: "CAM"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL MUNICIPIO DE CALKINI, CAMPECHE
 
-REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL
+REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 5 de octubre de 2005.
-
-H. AYUNTAMIENTO DE CALKINI
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
@@ -73,6 +71,14 @@ IX. La Dirección de Comunicación Social;
 X. La Dirección de Contraloría;
 
 XI. La Dirección de Planeación, Desarrollo Social y Económico.
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XII. La Dirección de Planeación
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XIII. La Dirección de Desarrollo Social y Económico
 
 ###### Artículo 5.
 
@@ -486,13 +492,31 @@ VIII. Formular programas de actividades para realizar revisiones financieras u o
 
 IX. Practicar revisiones a todas las dependencias del Ayuntamiento. así como proceder al seguimiento de los programas, convenios, contratos o acuerdos que efectúe el propio Ayuntamiento con organismos del sector gubernamental y privado, vigilando que se logren los objetivos planeados, evaluando aspectos normativos, administrativos, financieros y de control;
 
-X. Informar al Presidente Municipal sobre los resultados de las revisiones que se efectúen, haciendo del conocimiento del Síndico de Hacienda dichos resultados cuan.do sean detectadas irregularidades para los efectos que resulten procedentes;
+X. Informar al Presidente Municipal sobre los resultados de las revisiones que se efectúen, haciendo del conocimiento del Síndico de Hacienda dichos resultados cuando sean detectadas irregularidades para los efectos que resulten procedentes;
 
 XI. Comunicar al Sindico los hechos irregulares que realicen los servidores públicos municipales durante el desarrollo de sus funciones, cuando se considere que se encuentran tipificados como delitos en la legislación penal correspondiente, para los efectos de proceder conforme a derecho;
 
-XII. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones reglamentarias.
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XII. Garantizar y promover el derecho a la información pública;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XIII. Tener bajo su adscripción y supervisión al Departamento de Transparencia y Acceso a la Información Pública del Municipio;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XIV. Impulsar y establecer prácticas que fomenten el acceso y consulta de la información pública de la municipalidad, y que fortalezcan la transparencia en las acciones del gobierno municipal;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XV. Coordinar el diseño, mantener actualizado y administrar la Página de Internet del Municipio; y
+
+XVI. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones reglamentarias.
 
 ### CAPITULO XI. LA DIRECCION DE PLANEACION, DESARROLLO SOCIAL Y ECONOMICO
+
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO POR EL QUE SE REFORMA EL PRESENTE ORDENAMIENTO, PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO PARA QUEDAR CONFORMADO POR QUINCE FRACCIONES.</small>
 
 ###### Artículo 29.
 
@@ -512,29 +536,85 @@ VI. Formular diagnósticos socioeconómicos que permitan conocer la situación r
 
 VII. Levantar y mantener actualizado el Inventario de la Obra Pública Municipal;
 
-VIII. Servir de órgano de consulta de los Gobiernos Federal, Estatal y de los sectores social y privado en materia de desarrollo económico y social del Municipio; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-IX. Proponer y coordinar las políticas y programas municipales de desarrollo económico;
+VIII. Formular diagnósticos que permitan conocer la situación real de la infraestructura urbana y rural del Municipio;
 
-X. Impulsar, coordinar y promover las actividades comerciales, industriales, agropecuarias y de pesca en todas sus ramas y en especial de aquellas de interés general para la población y de fomento al turismo;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XI. Apoyar las acciones del Organismo Público Descentralizado denominado "Sistema Municipal de Desarrollo Integral de la Familia";
+IX. Elaborar, proponer y dar seguimiento al Programa Anual de Obras o Inversiones que realice el Municipio, como dependencia ejecutora, independientemente de que su fuente de financiamiento sea municipal, estatal o federal;
 
-XII. Participar en la administración de las empresas paramunicipales en términos de Ley y por disposición del Ayuntamiento;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XIII. Promover y difundir los lugares turísticos del Municipio;
+X. Proponer proyectos de infraestructura que beneficien al municipio ante los gobiernos federal y estatal, otros organismos estatales, nacionales o internacionales, para la atracción de recursos que permitan su ejecución;
 
-XIV. Promover y apoyar la instalación de nuevas tiendas de artículos básicos de consumo popular;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XV. Vigilar en el ámbito de su competencia el funcionamiento de las empresas paramunicipales con el propósito de que cumplan los objetivos para los cuales fueron creadas;
+XI. Apoyar en la definición de las prioridades, objetivos, estrategias y metas de los planes, programas y acciones municipales;
 
-XVI. Coordinar y vigilar que las dependencias a su cargo cumplan con los programas a ellas encomendadas;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XVII. Promover y gestionar la creación de nuevas empresas con el propósito de generar fuentes de trabajo;
+XII. Identificar, estudiar y dar seguimiento a los criterios y fórmulas, a través de las cuales los gobiernos federal y estatal transfieran recursos públicos al Ayuntamiento;
 
-XVIII. Planear, coordinar y promover las actividades artesanales propias del Municipio, a través del apoyo y organización de los artesanos; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XIX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones reglamentarias.
+XIII. Coadyuvar en el seguimiento de los programas, planes y acciones municipales a efecto de garantizar su adecuada operación, ejecución y cumplimiento;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XIV. Coadyuvar en el diseño de procedimientos técnico-administrativos que permitan el aprovechamiento óptimo de los recursos existentes para la realización de los programas de inversión municipal, considerando el cumplimiento de lo establecido en el respectivo presupuesto de egresos y las disposiciones aplicables sobre transferencias de recursos federales y estatales;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XV. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales y reglamentarias vigentes.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 29 Bis.
+
+La Dirección de Desarrollo Social y Económico es la dependencia encargada de la instrumentación y ejecución de acciones que promuevan mejores condiciones de vida y el bienestar de los habitantes, familias y comunidades de la jurisdicción municipal, para tal fin contará con las siguientes atribuciones:
+
+l. Diseñar, proponer y ejecutar políticas, programas y acciones en materia de educación, salud, alimentación y demás rubros que promuevan el desarrollo social en el Municipio;
+
+II. Concertar y coadyuvar con las dependencias federales, estatales, instituciones particulares y demás dependencias municipales, la operación y ejecución de acciones en su ámbito de competencia;
+
+III. Establecer y coordinar programas que impulsen el desarrollo educativo de los habitantes del municipio;
+
+IV. Diseñar e instrumentar programas municipales para la asignación de becas académicas, así como coordinarse con instituciones y organizaciones publicas o privadas para obtenerlas en favor de los habitantes del municipio;
+
+V. Establecer programas y propiciar convenios con las autoridades competentes que promuevan entre la ciudadanía, una cultura de respeto al medio ambiente y a los recursos naturales existentes en el Municipio;
+
+VI. Supervisar, evaluar y dar seguimiento a los planes y programas de desarrollo social del Ayuntamiento;
+
+VII. Promover la participación de la comunidad en los programas que impulse la municipalidad para el bienestar social;
+
+VIII. Elaborar y dar seguimiento a los diagnósticos existentes del Municipio en materia de desarrollo social;
+
+IX. Elaborar, proponer, coordinar y ejecutar políticas, programas y acciones que fomenten la actividad económica y la generación de empleos en el Municipio;
+
+X. Coadyuvar y mantener comunicación con las dependencias federales y estatales encargadas de la promoción y el fomento económico;
+
+XI. Participar en la administración de las empresas paramunicipaIes;
+
+XII. Promover acciones de coordinación con los sectores público, social y privado que permitan el diseño y ejecución de proyectos productivos prioritarios para el Municipio;
+
+XIII. Proponer al Cabildo, el otorgamiento de estímulos tributarios conforme lo establece la Ley para el Fomento de Actividades Económicas y Empresariales del Estado, a los inversionistas que pretendan establecerse en el municipio;
+
+XIV. Diseñar y desarrollar acciones que fomenten y fortalezcan la actividad artesanal, agrícola, pesquera, comercial y turística;
+
+XV. Proponer acciones que contribuyan al fortalecimiento de la Infraestructura productiva existente en el Municipio;
+
+XVI. Brindar información respecto los programas productivos, empresariales y de créditos que existan y asesoría en la gestión;
+
+XVII. Promover la organización de eventos que apoyen la comercialización de productos agrícolas, ganaderos, pesqueros, artesanales y de otros productos o servicios que se generen en el Municipio;
+
+XVIII. Fomentar el establecimiento de tiendas de artículos básicos y de consumo popular;
+
+XIX. Impulsar la capacitación y asistencia técnica integral en la (sic) micros, pequeñas y medianas empresas establecidas en el Municipio;
+
+XX. Elaborar y dar seguimiento a un Diagnostico Económico que permita conocer las principales actividades económicas que se desarrollan en el Municipio, su estado e impacto en la vida de la población;
+
+XXI. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales y reglamentarias vigentes.
 
 ## TITULO III. DE LA ADMINISTRACION PUBLICA MUNICIPAL DESCENTRALIZADA
 
@@ -599,3 +679,31 @@ Por su parte, los organismos de la Administración Pública Municipal descentral
 TRANSITORIOS (SIC)
 
 El presente reglamento entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado y deroga. Cualquier otro documento o disposición referente dictado por autoridad competente.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+ACUERDO POR EL QUE SE ADICIONA EL ARTICULO 28 DEL REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL.
+
+PRIMERO.- El presente acuerdo entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Departamento de Transparencia y Acceso a la Información Pública será integrado con los recursos humanos y materiales que permita el Presupuesto de Egresos del Municipio de Calkini para el Ejercicio Fiscal 2007 y en términos de lo dispuesto en dicho instrumento.
+
+TERCERO.- Cúmplase.
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+ACUERDO POR EL QUE SE ADICIONAN Y REFORMAN LOS ARTÍCULOS 4, 29 Y 29 BIS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL.
+
+PRIMERO.- El presente acuerdo entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan Todas las disposiciones administrativas expedidas por el H. Ayuntamiento del Municipio de Calkiní, en lo que se oponga al contenido del presente Acuerdo.
+
+TERCERO.- Hágase el correspondiente registro en el Libro de Reglamentos del Municipio de Calkini.
+
+CUARTO.- Se ratifica el nombramiento otorgado por el Cabildo en sesión del día 1 de Octubre del año dos mil seis respecto a la Dirección de Desarrollo Social y Económico.
+
+CUARTO (SIC).- La Dirección de Desarrollo Social y Económico se integrará con los recursos humanos y materiales que permita el Presupuesto de Egresos del Municipio de Calkiní para el Ejercicio Fiscal 2007 y en términos de lo dispuesto en dicho instrumento. En todo caso, se dará prioridad a los recursos que a la fecha se venían destinando para esas labores y que se encontraba a cargo de la Dirección de Planeación, Desarrollo Social y, Económico.
+
+QUINTO.- Cúmplase.
