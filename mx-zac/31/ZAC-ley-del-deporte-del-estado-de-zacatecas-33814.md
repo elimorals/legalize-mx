@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-deporte-del-estado-de-zacatecas-33814"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-16"
-last_updated: "2003-08-16"
+last_updated: "2009-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DEL DEPORTE DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LA LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 23 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 16 de agosto de 2003.
 
@@ -642,3 +644,21 @@ DR. RICARDO MONREAL ÁVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMÁS TORRES MERCADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Se abroga la Ley del Deporte del Estado de Zacatecas, publicada en el Suplemento número 66 del Periódico Oficial, Órgano de Gobierno del Estado correspondiente al día 16 de Agosto de 2003. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Las instituciones y figuras a las que la esta Ley cambia de denominación, naturaleza o estructura, deberán arreglarse a las disposiciones de este ordenamiento, dentro de los 60 días naturales siguientes a la entrada en vigor de esta Ley.
+
+TERCERO. El Consejo Consultivo del Sistema Estatal de Cultura Física y Deporte deberá quedar integrado dentro de los 90 días naturales siguientes a la entrada en vigor de esta Ley.
+
+CUARTO. La persona Titular del Ejecutivo expedirá el Reglamento dentro de los 60 días naturales siguientes a la integración del Consejo Consultivo.
+
+QUINTO. La integración del Registro Estatal del Deporte, deberá realizarse dentro de los 365 días naturales siguientes a la integración del Consejo Consultivo.
+
+SEXTO. Las reformas necesarias que generen las disposiciones de esta Ley en la Ley Orgánica del Municipio, en las leyes de Salud y Educación y en la legislación relativa al desarrollo urbano y obra pública del Estado, deberán ser aprobadas por la Legislatura dentro de los 365 días siguientes al inicio de vigencia de esta Ley.
+
+SÉPTIMO. Para este ejercicio fiscal, los recursos necesarios para llevar a cabo los programas y la implementación de las acciones que se deriven de la presente Ley, se cubrirán con cargo al presupuesto autorizado a las dependencias y entidades estatales y municipales a las que esta Ley señala competencia.
