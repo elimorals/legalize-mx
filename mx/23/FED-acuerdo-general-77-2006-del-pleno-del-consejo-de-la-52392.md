@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-77-2006-del-pleno-del-consejo-de-la-52392"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-12-08"
-last_updated: "2006-12-08"
+last_updated: "2009-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52392&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-11-29"
 
 ACUERDO GENERAL 77/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL SISTEMA DE REGISTRO Y CONTROL DE GUARDIAS DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE SEPTIEMBRE DE 2009.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 8 de diciembre de 2006.
 
@@ -51,7 +51,9 @@ QUINTO.- A fin de dar cumplimiento a las disposiciones legales y normativa indic
 
 SEXTO.- En tal sentido, se considera necesario dotar a los tribunales de Circuito y juzgados de Distrito, de instrumentos ágiles que permitan conocer de forma inmediata la designación a que se refiere el considerando que antecede y, de esta forma, desahogar oportunamente los asuntos de su competencia, con lo que se contribuye a la impartición expedita de la justicia federal;
 
-SEPTIMO.- En razón de lo expuesto se estima conveniente que, mediante el aprovechamiento de las tecnologías de información, se implemente un Sistema de Registro y Control de Guardias de los Tribunales de Circuito y Juzgados de Distrito, que opere en la Red de Comunicaciones del Poder Judicial de la Federación, de tal forma que, además de los avisos que se fijan en los locales de los órganos jurisdiccionales, a través de la Intranet también se haga del conocimiento de los tribunales y juzgados federales, los datos que permitan identificar y localizar al secretario de guardia que estará encargado de la recepción de las promociones y asuntos indicados, fuera del horario de labores;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 40/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE SEPTIEMBRE DE 2009)</small>
+
+SEPTIMO.- En razón de lo expuesto se estima conveniente que, mediante el aprovechamiento de las tecnologías de información, se implemente un Sistema de Registro y Control de Guardias de los Tribunales de Circuito y juzgados de Distrito, que opere a través de Intranet e Internet, de tal forma que, además de los avisos que se fijan en los locales de los órganos jurisdiccionales, también se hagan del conocimiento de los tribunales y juzgados federales, así como de la población en general por medios electrónicos, los datos que permitan identificar y localizar al secretario de guardia que estará encargado de la recepción de las promociones y asuntos indicados, fuera del horario de labores;
 
 OCTAVO.- Conforme a los artículos 61, fracciones I a III, y 85, fracciones III a V del Acuerdo General del Pleno del Consejo de la Judicatura Federal que Reglamenta la Organización y Funcionamiento del Propio Consejo, publicado en el Diario Oficial de la Federación el tres de octubre de dos mil seis, compete a la Comisión de Vigilancia, Información y Evaluación el establecimiento de los medios adecuados para el óptimo funcionamiento de los órganos del Poder Judicial de la Federación, razón por la cual se estima esa Comisión debe supervisar las acciones necesarias para la implementación y funcionamiento del mencionado sistema de registro y control de guardias, lo que deberá de llevar a cabo a través de su Secretaría Ejecutiva.
 
@@ -63,7 +65,9 @@ PRIMERO.- Se establece el Sistema de Registro y Control de Guardias de los Tribu
 
 SEGUNDO.- Todos los tribunales de Circuito o juzgados de Distrito que por su actividad jurisdiccional, tengan la necesidad de designar a un secretario de guardia, para que fuera del horario de labores reciba promociones o asuntos urgentes, o de término, deberán utilizar el Sistema de Registro y Control de Guardias, además de fijar los avisos acostumbrados en el local del órgano jurisdiccional y, en su caso, en la oficina de correspondencia común respectiva.
 
-TERCERO.- La información contenida en el Sistema de Registro y Control de Guardias, será de uso interno para los servidores públicos de los tribunales de Circuito y juzgados de Distrito, así como de las diversas áreas que conforman el Consejo de la Judicatura Federal.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 40/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE SEPTIEMBRE DE 2009)</small>
+
+TERCERO.- La información contenida en el Sistema de Registro y Control de Guardias, podrá ser utilizada por los servidores públicos de los tribunales de Circuito y juzgados de Distrito; así como por las diversas áreas que conforman el Consejo de la Judicatura Federal y la población en general.
 
 CUARTO.- El secretario designado para realizar la guardia deberá, mediante la utilización de la clave de acceso correspondiente, ingresar en el sistema los datos necesarios para su identificación y localización, cuando menos un día antes de la fecha en que inicie su función.
 
@@ -86,3 +90,13 @@ TERCERO.- En la consecución del objetivo de este Acuerdo, se utilizarán los re
 CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá implementar el Sistema de Registro y Control de Guardias de los Tribunales de Circuito y Juzgados de Distrito, en un plazo no mayor a quince días naturales a partir de la entrada en vigor del presente acuerdo.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 77/2006, del Pleno del Consejo de la Judicatura Federal, que Establece el Sistema de Registro y Control de Guardias de los Tribunales de Circuito y Juzgados de Distrito, fue aprobado en sesión de veintinueve de noviembre de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Elvia Díaz de León D´Hers y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintinueve de noviembre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 77/2006, del Pleno del Consejo de la Judicatura Federal, que Establece el Sistema de Registro y Control de Guardias de los Tribunales de Circuito y Juzgados de Distrito.
