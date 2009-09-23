@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-entrega-recepcion-para-el-municipio-de-san-50645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-22"
-last_updated: "2006-05-22"
+last_updated: "2009-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ENTREGA-RECEPCION PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de mayo de 2006.
 
@@ -173,9 +173,11 @@ XIV. Las hojas que integren el Acta Administrativa de Entrega-Recepción, así c
 
 La Contraloría es la Dependencia encargada de planear, programar, dirigir y controlar el Proceso de Entrega-Recepción de la Administración Pública Municipal, el cual se instrumentará y operará mediante ensayos previos y se establecerá el sistema de seguimiento, verificación y solventación de observaciones detectadas en las diferentes revisiones practicadas por esa Dependencia.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 13.
 
-Para los efectos de lo dispuesto en la fracción I del artículo 6 de este Reglamento, la información presentada en los Anexos deberá poseer como fecha de corte la comprendida en un período no mayor de 15-quince días antes de la fecha en que se celebre la Entrega-Recepción.
+Para los efectos de lo dispuesto en la fracción I del artículo 6 de este Reglamento, la información presentada en los Anexos deberá poseer como fecha de corte la comprendida en un período no mayor a un mes calendario antes de la fecha en que se celebre la Entrega-Recepción.
 
 ###### Artículo 14.
 
@@ -394,3 +396,15 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se aprueban las REFORMAS POR MODIFICACIÓN AL REGLAMENTO DE ENTREGA-RECEPCIÓN PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, por las razones y términos anteriormente señalados.
+
+SEGUNDO. Mándese publicar el presente acuerdo en el Periódico Oficial del Estado. Hágase posteriormente su difusión a través de la Gaceta Municipal.
+
+TERCERO. Gírense las instrucciones al C. Lic. Fernando Margáin Berlanga, Presidente Municipal y a la C. Lic. Ma. Emilda Ortiz Caballero, Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
