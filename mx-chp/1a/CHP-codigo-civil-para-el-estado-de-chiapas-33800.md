@@ -4,7 +4,7 @@ identifier: "CHP-codigo-civil-para-el-estado-de-chiapas-33800"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-02-02"
-last_updated: "2009-05-13"
+last_updated: "2009-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Alcance al Periódico Oficial Estado de Chiapas, el 2 de febrero de 1938.
 
@@ -767,9 +767,13 @@ V.- EL ADULTERIO HABIDO ENTRE LAS PERSONAS QUE PRETENDAN CONTRAER MATRIMONIO, CU
 
 VI.- EL ATENTADO CONTRA LA VIDA DE ALGUNO DE LOS CASADOS PARA CONTRAER MATRIMONIO CON EL QUE QUEDE LIBRE;
 
-VII.- LA FUERZA O MIEDO GRAVES. EN CASO DE RAPTO, SUBSISTE EL IMPEDIMENTO ENTRE EL RAPTOR Y LA RAPTADA, MIENTRAS ESTA NO SEA RESTITUIDA AL LUGAR SEGURO, DONDE LIBREMENTE PUEDA MANIFESTAR SU VOLUNTAD;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-VIII.- LA EMBRIAGUEZ HABITUAL, LA MORFINOMANIA, HETEROMANIA Y EL USO INDEBIDO Y PERSISTENTE DE LAS DEMAS DROGAS ENERVANTES. LA IMPOTENCIA INCURABLE PARA LA COPULA, LA SIFILIS, LA LOCURA, LAS ENFERMEDADES CRONICAS O INCURABLES QUE SEAN, ADEMAS CONTAGIOSAS O HEREDITARIAS, LOS DEFECTOS DE CONFORMACION QUE IMPIDAN LAS FUNCIONES RELATIVAS, CONTRARIANDO LOS FINES DEL MATRIMONIO. LA IMPOTENCIA NO SERA IMPEDIMENTO CUANDO EXISTA POR LA EDAD O POR OTRA CAUSA CUALQUIERA, EN AMBOS CONTRAYENTES O SEA CONOCIDA DE ELLOS;
+VII.- LA FUERZA O MIEDO GRAVES, O CUALQUIER CIRCUNSTANCIA QUE IMPIDA LA MANIFESTACION LIBRE DE LA VOLUNTAD;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+VIII.- LA EMBRIAGUEZ HABITUAL, EL USO INDEBIDO Y PERSISTENTE DE CUALQUIER TIPO DE DROGAS ENERVANTES, O PADECER UNA ENFERMEDAD INCURABLE QUE SEA CONTAGIOSA O HEREDITARIA, QUE IMPIDA LAS FUNCIONES RELATIVAS A CUMPLIR LOS FINES DEL MATRIMONIO;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2009)</small>
 
@@ -781,7 +785,9 @@ X.- EL MATRIMONIO SUBSISTENTE CON PERSONAS DISTINTAS DE AQUELLA CON QUIEN SE PRE
 
 XI.- LA VIOLENCIA EJERCIDA DURANTE EL NOVIAZGO POR UNA DE LAS PARTES HACIA EL OTRO O POR LOS DOS.
 
-DE ESTOS IMPEDIMENTOS SOLO SON INDISPENSABLES LA FALTA DE EDAD Y EL PARENTEZCO (SIC) DE CONSANGUINIDAD EN LA LINEA COLATERAL DESIGUAL.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+DE ESTOS IMPEDIMENTOS SOLO SON DISPENSABLES LA FALTA DE EDAD Y EL PARENTESCO DE CONSANGUINIDAD EN LA LINEA COLATERAL DESIGUAL. EN EL CASO DE ENFERMEDAD A QUE SE REFIERE LA FRACCION VIII, EL IMPEDIMENTO SERA DISPENSABLE CUANDO AMBOS CONTRAYENTES ACREDITEN FEHACIENTEMENTE HABER OBTENIDO DE INSTITUCION O MEDICO ESPECIALISTA, EL CONOCIMIENTO DE LOS ALCANCES, LOS EFECTOS Y LA PREVENCION DE LA ENFERMEDAD QUE SEA EL MOTIVO DEL IMPEDIMENTO, Y MANIFIESTEN SU CONSENTIMIENTO PARA CONTRAER MATRIMONIO.
 
 ART. 154.- EL ADOPTANTE NO PUEDE CONTRAER MATRIMONIO CON EL ADOPTADO O SUS DESCENDIENTES, EN TANTO QUE DURE EL LAZO JURIDICO RESULTANTE DE LA ADOPCION.
 
@@ -10672,3 +10678,9 @@ Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decr
 Artículo Tercero.- La Dirección del Registro Civil del Estado, en un término no mayor de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto deberá someter a la consideración del Titular del Poder Ejecutivo del Estado, el proyecto de reformas y adiciones al Reglamento del Registro Civil del Estado de Chiapas referentes a la adición al artículo 56, del Código Civil para el Estado de Chiapas, para efectos de su expedición y publicación correspondiente.
 
 Artículo Cuarto.- A partir de la fecha de entrada en vigor del presente decreto, y por el término de un año, los menores nacidos en territorio del Estado que no cuenten con el registro de nacimiento correspondiente en virtud de que alguno o ambos padres son de nacionalidad extranjera y carecen de documentación que acredite su legal estancia en territorio nacional, serán registrados de manera gratuita, cumpliendo con los requisitos que al efecto establezca el Reglamento del Registro Civil para la Entidad. La Dirección y las Oficialías del Registro Civil del Estado deberán dar publicidad a esta disposición por los medios que consideren idóneos.
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
