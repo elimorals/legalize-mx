@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-atencion-a-la-familia-y-grupos-vulnerables-para-50467
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-02"
-last_updated: "2006-05-02"
+last_updated: "2009-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE ATENCION A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -53,7 +53,9 @@ Para los efectos de este Código se entenderá por:
 
 I. Adultos mayores: Aquellas personas de 60 años o más;
 
-II. Albergue: Lugar en el que se refugian las personas víctimas de violencia familiar, con el fin de resguardar su integridad física y psicoemocional;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+II. Albergue: Lugar en el que se refugian las personas que se encuentran en estado de necesidad o enfrentan actos de discriminación, abuso, violencia, maltrato o abandono;
 
 III. Asistencia Social: Al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan a las personas su desarrollo integral así como la protección física, mental y social de ellos cuando se encuentren en estado de necesidad, desprotección o desventaja física y mental;
 
@@ -87,11 +89,15 @@ XVII. Gerontología: Servicio otorgado por personas dedicadas al estudio del env
 
 XVIII. Grupos Vulnerables: Conjunto de individuos que, por circunstancias de pobreza, estado de salud, edad, género o discapacidad, se encuentran en una situación de mayor indefensión y no cuentan con los recursos necesarios para satisfacer sus necesidades básicas, obstaculizando su Desarrollo Humano;
 
-XIX. IDH: Al Instituto de Desarrollo Humano del Estado de Chiapas;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XIX. DIF-Chiapas: Al Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas;
 
 XX. Independiente: Es la persona a la que sus condiciones físicas y mentales aún le permite valerse por sí misma;
 
-XXI. Integración Social: Al conjunto de acciones que realizan las Dependencias y Entidades de la Administración Pública del Estado y la sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores su desarrollo integral;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XXI. Integración Social: Al conjunto de acciones que realizan las Dependencias y Entidades de la Administración Pública del Estado y la sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a los grupos vulnerables su desarrollo integral;
 
 > <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -105,13 +111,19 @@ XXV. Maltrato Psícoemocional: Al patrón de conducta consistente en actos u omi
 
 XXVI. Menores: Para los efectos de ésta, son las niñas y los niños recién nacidos y que no hayan cumplido los 12 años y adolescentes desde los 12 años hasta los que no hayan cumplido los 18 años;
 
-XXVII. Organizaciones Sociales: A las Instituciones que se encuentren legalmente constituidas, que se ocupen de la materia y que tengan por objeto el estudio, prevención y atención de la violencia familiar;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XXVIII. Persona con discapacidad: A todo ser humano que padece permanentemente disminución en sus facultades físicas o mentales que le impide realizar una actividad normal;
+XXVII. Organizaciones Sociales: A las instituciones que se encuentren legalmente constituidas, que se ocupen de la asistencia social y que tengan por objeto el estudio, prevención, asistencia, atención y rehabilitación de las personas que enfrenten situaciones de riesgo, o actos como discriminación, abuso, violencia, maltrato o abandono;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XXVIII. Persona con Discapacidad: Toda persona que presenta una deficiencia física, mental, intelectual o sensorial, ya sea de naturaleza permanente o temporal que le impiden su participación plena y efectiva en la sociedad en igualdad de condiciones con los demás;
 
 XXIX. Prevención: Conjunto de disposiciones y medidas que integran políticas públicas encaminadas a prevenir riesgos (en salud, discapacidad, muerte, violencia sexual); advertir o informar de los derechos para evitar la discriminación, la violencia, el maltrato a menores y adolescentes, mujeres, personas con discapacidad y adultos mayores;
 
-XXX. Procuraduría: A la Procuraduría de la Familia y Grupos Vulnerables, organismo dependiente del Instituto de Desarrollo Humano;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XXX. Procuraduría: A la Procuraduría de la Familia y Adopciones, organismo dependiente del DIF-Chiapas;
 
 XXXI. Rehabilitación: A la aplicación de un conjunto de medidas médicas, físicas, psicológicas, educacionales y vocacionales dirigidas al individuo discapacitado con el objeto de que logre la máxima capacidad funcional, social y productiva;
 
@@ -135,9 +147,11 @@ XXXVII. Vulnerabilidad: La Condición de indefensión económica, jurídica o so
 
 El Gobierno del Estado, en forma prioritaria proporcionará servicios de Asistencia Social, coadyuvando en su formación, subsistencia y desarrollo de aquellos que se encuentran en condiciones de vulnerabilidad, no superables en forma autónoma por ellos, encaminados al desarrollo social y humano.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 4°.
 
-La Asistencia Social y la Asistencia Privada, tendrán como objetivo promover acciones tendientes a mejorar las circunstancias de carácter social, dirigidas a modificar y desarrollar la protección de las personas en estado de vulnerabilidad.
+La Asistencia Social y la Asistencia Privada, tendrán como objetivo promover acciones tendentes a mejorar las circunstancias de carácter social, dirigidas a modificar y desarrollar la protección de las personas en estado de vulnerabilidad, para lograr su incorporación a una vida plena y productiva. La asistencia social comprenderá acciones de previsión, prevención y rehabilitación.
 
 ###### Artículo 5°.
 
@@ -183,9 +197,11 @@ III. Establecer y llevar a cabo conjuntamente, programas interinstitucionales qu
 
 IV. Mejorar las condiciones de vida de la población, a través de la aplicación de políticas de desarrollo social y humano que reconozca la diversidad social, cultural, étnica, de edad, género y paridad.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 9°.
 
-El Sistema Estatal de Asistencia Social, estará a cargo de la Secretaría de Desarrollo Social, Secretaría de Salud y del IDH, siendo éste último, el coordinador de la asistencia social, tal y como dispone el Artículo 12, de este Código.
+El Sistema Estatal de Asistencia Social, estará a cargo de la Secretaría de Desarrollo Social, Secretaría de Salud y del DIF-Chiapas, siendo éste último, el coordinador de la asistencia social, tal y como dispone el artículo 12, de este Código.
 
 ###### Artículo 10.
 
@@ -247,17 +263,23 @@ XIV. Las demás que le otorguen las leyes aplicables.
 
 ### Capítulo II. Del Sistema de Asistencia social en el Estado
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 12.
 
-En los términos del Artículo 9°, de este Código, eI IDH, es el organismo coordinador del Sistema Estatal de Asistencia Social, que tendrá como objetivo la promoción de la asistencia social, la prestación de servicios en ese campo, la coordinación de acciones que en la materia lleven a cabo las instituciones publicas y privadas, así como la realización de las demás acciones que establece este Código y las disposiciones legales aplicables.
+En los términos del artículo 9°, de este Código, el DIF-Chiapas, es el organismo coordinador del Sistema Estatal de Asistencia Social, que tendrá como objetivo la promoción de la asistencia social, la prestación de servicios en ese campo, la coordinación de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece este Código y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 13.
 
-Para la aplicación del presente ordenamiento el IDH, podrá ser asistido por los Sistemas Municipales IDH o análogos.
+Para la aplicación del presente ordenamiento, el DIF-Chiapas, podrá ser asistido por los sistemas municipales DIF.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 14.
 
-EI IDH, para el logro de sus objetivos tendrá las atribuciones siguientes:
+El DIF-Chiapas, para el logro de sus objetivos tendrá las atribuciones siguientes:
 
 I. Planear, coordinar, ejecutar y evaluar políticas y acciones de integración e inclusión, protección y desarrollo de individuos, grupos y familias en estado y/o en riesgo de vulnerabilidad, marginación e indefensión;
 
@@ -299,55 +321,55 @@ XVII. Prestación de servicios funerarios; y,
 
 XVIII. Las demás que establezcan las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 15.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, el IDH contará con los siguientes órganos superiores:
-
-I. Junta de Gobierno;
-
-II. Patronato; y,
-
-III. Dirección General.
-
-La vigilancia de la operación del lDH estará a cargo de un Comisario.
+Para el estudio, planeación y despacho de los asuntos que le competen al DIF-Chiapas, éste contará con los órganos que le señale su respectivo Decreto de Creación.
 
 ###### Artículo 16.
 
-La Junta de Gobierno, estará integrada por el Gobernador del Estado, quien la presidirá, y por los titulares de las Secretarías de Gobierno, Planeación y Finanzas, Administración, Educación, Desarrollo Social, Salud, la Contraloría General y la Fiscalía General del Estado.
-
-Los miembros de la Junta de Gobierno, serán suplidos por los representantes que al efecto designe cada uno de los miembros propietarios de la misma.
-
-La Junta de Gobierno contará con un Secretario Técnico, que será el titular de la Secretaría de Desarrollo Social.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 17.
 
-El Patronato estará integrado por un Presidente y cinco vocales designados y removidos libremente por el Presidente de la Junta de Gobierno, los que no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores social y privado, mismo que se regirá por su reglamento interior.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 18.
 
-El Comisario será designado y removido libremente por el Presidente de la Junta de Gobierno y será mexicano por nacimiento y con experiencia profesional no menor de cinco años en contaduría pública.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 19.
 
-El IDH recomendará y promoverá el establecimiento de organismos similares en los municipios de la entidad, a los cuales prestará apoyo y colaboración técnica y administrativa en materia de Asistencia Social.
+El DIF-Chiapas recomendará y promoverá el establecimiento de organismos similares en los municipios de la entidad, a los cuales prestará apoyo y colaboración técnica y administrativa en materia de asistencia social.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 20.
 
-El Gobierno del Estado a través del lDH conforme a su ámbito de competencia, promoverá que las dependencias y entidades del Estado y de los municipios destinen los recursos necesarios a los programas de servicios en materia de asistencia social.
+El Gobierno del Estado, a través del DIF-Chiapas conforme a su ámbito de competencia, promoverá que las dependencias y entidades del Estado y de los municipios destinen los recursos necesarios a los programas de servicios en materia de asistencia social.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 21.
 
-El IDH podrá emitir opinión sobre los subsidios que el Gobierno del Estado pretenda otorgar a instituciones públicas o privadas que actúen en el campo de la asistencia social.
+El DIF-Chiapas podrá emitir opinión sobre los subsidios que el Gobierno del Estado pretenda otorgar a instituciones públicas o privadas que actúen en el campo de la asistencia social.
 
 ### Capítulo III. De la Coordinación y Concertación
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 22.
 
-Con el propósito de asegurar la adecuada coordinación de acciones, en el ámbito de la prestación de los servicios en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos vulnerables, el Gobierno del Estado, a través del IDH, podrá celebrar convenios o acuerdos para la coordinación de acciones a nivel estatal o municipal, con las dependencias de la administración pública federal y con las entidades federativas, en los términos del presente Código.
+Con el propósito de asegurar la adecuada coordinación de acciones, en el ámbito de la prestación de los servicios en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos vulnerables, el Gobierno del Estado, a través del DIF-Chiapas, podrá celebrar convenios o acuerdos para la coordinación de acciones a nivel estatal o municipal, con las dependencias de la administración pública federal y con las entidades federativas, en los términos del presente Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 23.
 
-Con el objeto de, ampliar la cobertura y la calidad de los servicios en materia de asistencia social a nivel estatal y municipal, el Gobierno del Estado, a través del IDH, promoverá la celebración de convenios entre éste y los gobiernos municipales, a fin de:
+Con el objeto de ampliar la cobertura y la calidad de los servicios en materia de asistencia social a nivel estatal y municipal, el Gobierno del Estado, a través del DIF-Chiapas, promoverá la celebración de convenios entre éste y los gobiernos municipales, a fin de:
 
 I. Establecer programas conjuntos;
 
@@ -359,13 +381,17 @@ IV. Coordinar y proponer programas para el establecimiento y apoyo de la benefic
 
 V. Fortalecer el patrimonio de los sistemas municipales para el desarrollo de la asistencia social.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 24.
 
-El Gobierno del Estado, a través del IDH, promoverá ante los gobiernos municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática, a fin de conocer las demandas de servicios básicos de asistencia social para los grupos vulnerables y coordinar su oportuna atención.
+El Gobierno del Estado, a través del DIF-Chiapas, promoverá ante los gobiernos municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática, a fin de conocer las demandas de servicios básicos de asistencia social para los grupos vulnerables y coordinar su oportuna atención.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 25.
 
-El Gobierno del Estado, a través del IDH, celebrará convenios para la concertación de acciones de asistencia social, con los sectores social y privado, con el objeto de coordinar su participación en la realización de programas de asistencia social, que coadyuven al cumplimiento de los objetivos a que se refiere este Código.
+El Gobierno del Estado, a través del DIF-Chiapas, celebrará convenios para la concertación de acciones de participación social, con los sectores social y privado, con el objeto de coordinar su participación en la realización de programas de asistencia social, que coadyuven al cumplimiento de los objetivos a que se refiere este Código.
 
 ###### Artículo 26.
 
@@ -373,29 +399,39 @@ Los convenios a que se refiere el artículo anterior, deberán ajustarse a las s
 
 I. Definirán las responsabilidades que asuman los integrantes de los sectores social y privado;
 
-II. Determinarán las acciones de orientación, estímulo y apoyo que llevará a cabo el Gobierno del Estado, por conducto del IDH;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+II. Determinarán las acciones de orientación, estímulo y apoyo que llevará a cabo el Gobierno del Estado, por conducto del DIF-Chiapas;
 
 III. Fijarán el objeto, materia y alcances jurídicos de los compromisos que asuman las partes; y,
 
 IV. Las demás estipulaciones que de común acuerdo establezcan las partes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 27.
 
-El Gobierno del Estado, con la finalidad de ampliar la cobertura de los servicios de asistencia social, promoverá en toda la entidad, a través del IDH, la creación de Instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares, que con sus propios recursos presten dichos servicios, con sujeción a los ordenamientos de este Código, y demás legislación aplicable.
+El Gobierno del Estado, con la finalidad de ampliar la cobertura de los servicios de asistencia social, promoverá en toda la Entidad, a través del DIF-Chiapas, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares, que con sus propios recursos presten dichos servicios, con sujeción a los ordenamientos de este Código, y demás legislación aplicable.
 
 De igual forma, aplicará, difundirá y adecuará las normas técnicas que dichas Instituciones deberán observar en la prestación de los servicios, en materia de asistencia social.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 28.
 
-A propuesta del IDH, el Gobierno del Estado, dictaminará el otorgamiento de estímulos fiscales a los sectores social y privado, que presten servicios en materia de asistencia social.
+A propuesta del DIF-Chiapas, el Gobierno del Estado, dictaminará el otorgamiento de estímulos fiscales a los sectores social y privado, que presten servicios en materia de asistencia social.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 29.
 
-El Gobierno del Estado, a través del IDH, promoverá la participación de la comunidad, en la atención de aquellos casos que por sus características requieran de acciones de asistencia social, así como el concurso coordinado de las dependencias y entidades públicas, poniendo especial atención a los grupos vulnerables.
+El Gobierno del Estado, a través del DIF-Chiapas, promoverá la participación de la comunidad, en la atención de aquellos casos que por sus características requieran de acciones de asistencia social, así como el concurso coordinado de las dependencias y entidades públicas, poniendo especial atención a los grupos vulnerables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 30.
 
-El Gobierno del Estado, directamente o a través del IDH, con el objeto de fortalecer la estructura de la comunidad y de propiciar la solidaridad ante las necesidades reales de la población, promoverá la participación de la misma, para que coadyuve en la prestación de servicios asistenciales, a través de las acciones siguientes:
+El Gobierno del Estado, directamente o a través del DIF-Chiapas, con el objeto de fortalecer la estructura de la comunidad y de propiciar la solidaridad ante las necesidades reales de la población, promoverá la participación de la misma, para que coadyuve en la prestación de servicios asistenciales, a través de las acciones siguientes:
 
 I. La promoción de hábitos de conducta y de valores, que contribuyan a la protección de los grupos vulnerables, a su superación y a la prevención de discapacidad;
 
@@ -415,27 +451,35 @@ V. Otras actividades que contribuyan a la protección de los grupos vulnerables.
 
 Se entiende por asistencia privada, al conjunto de actividades realizadas por particulares, dirigidas a modificar y mejorar el desarrollo y protección de las personas en estado de vulnerabilidad.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 32.
 
-Las instituciones de asistencia privada, contarán con personalidad jurídica y patrimonio propio, careciendo de fines lucrativos, y ejecutarán actos de asistencia social con bienes de propiedad particular, reconociéndolas el Estado como auxiliares de la asistencia social; serán Fundaciones o Asociaciones constituidas conforme a las leyes vigentes.
+Las instituciones de asistencia privada, son personas morales con fines no lucrativos, contarán con personalidad jurídica y patrimonio propio, y ejecutarán sus actos con bienes de propiedad privada; el Estado las reconocerá como auxiliares de la asistencia social y podrán constituirse conforme a las leyes vigentes en fundaciones, asociaciones, entre otras.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 33.
 
-Las instituciones de asistencia privada, para realizar servicios asistenciales deberán someterse a lo dispuesto por las leyes, reglamentos, estatutos y demás disposiciones que tengan carácter obligatorio, otorgando dichos servicios sin discriminación y con total respeto a los derechos humanos.
+Las instituciones de asistencia privada, deberán someterse a lo dispuesto por este Código, leyes, reglamentos, estatutos, normas oficiales mexicanas y demás disposiciones con carácter obligatorio que tengan por objeto regular la materia de asistencia social y los servicios asistenciales que se deriven de la misma, con total observancia y respeto a los derechos humanos.
 
 ###### Artículo 34.
 
 Las instituciones de asistencia privada, gozarán de estímulos, subsidios y facilidades administrativas que les confieran las leyes.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 35.
 
-Cuando reciban donaciones, las instituciones de asistencia privada, deberán de informar a la Junta, al presentar su informe anual.
+·Cuando las instituciones de asistencia privada reciban donaciones, deberán informar a la Junta de Asistencia Privada, al presentar su informe anual.
 
-Las instituciones al recibir donativos y hacerlos deducibles del impuesto sobre la renta, deberán cumplir con los requisitos que exigen las leyes fiscales, y además, que la institución cuente con la autorización para expedir recibos correspondientes.
+De igual manera, al recibir donativos y hacerlos deducibles del impuesto sobre la renta, deberán cumplir con los requisitos que exigen las leyes fiscales vigentes, además de contar con la autorización para expedir los recibos correspondientes.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 36.
 
-Dentro de los primeros cinco días del mes de diciembre de cada año, las instituciones de asistencia privada, deberán remitir a la Junta, los presupuestos de ingresos, egresos, inversiones y el plan de trabajo del siguiente año, en los términos y formas que para tal efecto la Junta expida.
+Dentro de los primeros cinco días hábiles del mes de diciembre de cada año, las instituciones de asistencia privada, deberán remitir a la Junta de Asistencia Privada, su informe anual de actividades, los presupuestos de ingresos, egresos, inversiones y el plan de trabajo del siguiente año, en los términos y formas que para tal efecto la Junta expida.
 
 ###### Artículo 37.
 
@@ -467,33 +511,37 @@ Los municipios instrumentarán, un sistema municipal de asistencia social, con b
 
 ### Capítulo II. De la Junta de Asistencia Privada del Estado
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 42.
 
-Se crea la Junta de Asistencia Privada del Estado, con el objeto de fomentar, cuidar y desarrollar a las instituciones de ese tipo, así como la defensa de los bienes que se destinen para su objeto, y el ejercicio de las acciones que con respecto a ellos, deriven de la Ley o de la voluntad de los particulares.
+Se crea la Junta de Asistencia Privada del Estado, con el objeto de supervisar y fomentar el adecuado desarrollo de las instituciones de ese tipo, así como la defensa de los bienes que se destinen para su objeto, y el ejercicio de las acciones que con respecto a ellos, deriven de la Ley o de la voluntad de los particulares.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 43.
 
-La Junta, será integrada por un representante que al efecto designe cada uno de los titulares de la H. Junta de Gobierno, del IDH, quienes no podrán ser de rango inferior al de Director de área, participando con voz y voto en las reuniones de la Junta, para quedar de la siguiente forma:
+La Junta, será integrada por un representante que al efecto designe cada uno de los Titulares de las Dependencias u Organismos siguientes, quienes no podrán ser de rango inferior al de Director, participando con voz y voto en las reuniones de la Junta:
 
-I. Representante de la Secretaría de Gobierno;
+I. Representante de la Secretaría General de Gobierno;
 
-II. Representante de la Secretaría de Planeación y Finanzas;
+II. Representante de la Secretaría de Hacienda;
 
-III. Representante de la Secretaría de Administración;
+III. Representante de la Secretaría de Salud;
 
-IV. Representante de la Secretaría de Salud;
+IV. Representante de la Secretaría de Educación;
 
-V. Representante de la Secretaría de Educación;
+V. Representante de la Secretaría de Desarrollo Social;
 
-VI. Representante de la Secretaría de Desarrollo Social;
+VI. Representante de la Procuraduría General de Justicia del Estado; y,
 
-VII. Fiscalía General del Estado; y,
+VII. Representante de la Secretaría de la Función Pública.
 
-VIII. Contraloría General.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 44.
 
-La Junta de Gobierno, del IDH, facultará al Director General del Instituto, para fungir como Secretario Ejecutivo de la Junta de Asistencia Privada, quien tendrá las facultades y atribuciones de acuerdo con el presente Código, contando además con la representación de la misma.
+La Junta de Gobierno del DIF-Chiapas, facultará al Director General del Sistema, para fungir como Secretario Ejecutivo de la Junta de Asistencia Privada, quien tendrá las facultades y atribuciones de acuerdo con el presente Código, contando además con la representación de la misma.
 
 El pleno de representantes que forman la Junta de Asistencia Privada, designará de entre sus integrantes, a un Secretario Técnico para auxiliar al Secretario Ejecutivo de la misma.
 
@@ -501,7 +549,9 @@ El pleno de representantes que forman la Junta de Asistencia Privada, designará
 
 Son atribuciones y obligaciones de la Junta de Asistencia Privada, las siguientes:
 
-I. Vigilar que las instituciones cumplan con lo establecido en el presente Código, con sus estatutos y demás disposiciones legales que les sean aplicables;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+l. Supervisar que las instituciones de asistencia privada cumplan con lo establecido en el presente Código, con sus estatutos y demás disposiciones legales que les sean aplicables;
 
 II. Fomentar la agrupación de instituciones para la obtención de financiamientos, capacitación y asistencia técnica;
 
@@ -511,13 +561,37 @@ IV. Estimular la creación, ampliación y mejora de los servicios de asistencia 
 
 V. Crear y mantener actualizado el registro de instituciones de asistencia privada, en los términos de este Código;
 
-VI. Las demás que le confiera este Código y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Revisar y autorizar, los estatutos, normas y demás ordenamientos que rijan la vida interna de las instituciones de asistencia privada;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Promover la creación de instituciones de asistencia privada y fomentar su desarrollo;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. Desarrollar programas de capacitación y evaluación dirigidos al personal que preste servicios dentro de las instituciones privadas de asistencia social;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Sancionar a las instituciones por incumplimiento a las disposiciones de este Código, independientemente de las que correspondan por las infracciones previstas en otros ordenamientos legales;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+X. Expedir el reglamento interno de la Junta; y,
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XI. Las demás que le confiera este Código y otras disposiciones legales aplicables.
 
 ###### Artículo 46.
 
 Son facultades y atribuciones del Secretario Ejecutivo, las siguientes:
 
-I. Rendir ante la Junta de Gobierno, del IDH, su informe anual de actividades, así como proporcionar la información que le sea solicitada por el mismo;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+I. Rendir ante la Junta de Gobierno del DIF-Chiapas, su informe anual de actividades, así como proporcionar la información que le sea solicitada por la misma;
 
 II. Ordenar la realización de visitas de inspección y vigilancia de las instituciones de asistencia privada, con objeto de evaluar su eficaz funcionamiento;
 
@@ -615,13 +689,17 @@ En este caso, o cuando la gravedad del mismo lo amerite, el Secretario Ejecutivo
 
 Las violaciones a este Código, traerá como consecuencia la imposición de las sanciones previstas en la misma, sin perjuicio de las responsabilidades de cualquier índole, que pudieran ser reclamadas a quien o quienes incurrieron en dichas faltas. Al aplicarse las sanciones, se tomará en cuenta la gravedad de la infracción, las circunstancias particulares del caso y la reincidencia.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 57.
 
-Los visitadores, inspectores y auditores que envíen al Secretario Ejecutivo, informes que contengan hechos falsos, serán destituidos de su cargo y puestos a disposición de la autoridad competente, en términos del Artículo 263, del Código Penal Vigente del Estado de Chiapas.
+Los visitadores, inspectores y auditores que envíen al Secretario Ejecutivo, informes que contengan hechos falsos, serán destituidos de su cargo y puestos a disposición de la autoridad competente, en términos de la legislación aplicable.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 58.
 
-Las Instituciones y sus miembros, que hagan uso de recursos públicos que el Gobierno del Estado les transfiera, estarán sujetos a este Código y demás disposiciones aplicables.
+Las Instituciones y sus miembros estarán sujetos a este Código y demás disposiciones aplicables.
 
 Las responsabilidades civiles y penales, en que incurran los miembros de las instituciones y de la Junta, se regularán por las disposiciones aplicables, según corresponda.
 
@@ -633,11 +711,15 @@ I. Amonestación por escrito;
 
 II. Sanción pecuniaria de acuerdo a la gravedad o reincidencia de la infracción; las que podrán ser de diez a ciento cincuenta días de salario mínimo vigente en la entidad;
 
-III. Suspensión de la certificación;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+III. Suspensión del registro;
 
 IV. Retiro temporal del subsidio; y,
 
-V. Cancelación de la certificación y retiro definitivo del subsidio.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+V. Cancelación del registro y retiro definitivo del subsidio.
 
 Cuando el hecho cometido por el infractor, sea un ilícito que la Ley castigue con pena corporal, independientemente de la sanción, se hará del conocimiento del Ministerio Público.
 
@@ -663,17 +745,25 @@ II. Establecer las normas y las bases y procedimientos que contribuyan a la prot
 
 Corresponde a las autoridades estatales y municipales, en el ámbito de sus competencias, asegurar a menores la protección y el ejercicio de sus derechos y la toma de medidas necesarias para su bienestar, tomando en cuenta los derechos y deberes de sus madres, padres, y demás ascendientes, tutores y custodios, u otras personas que sean responsables de los mismos. De igual manera y sin perjuicio de lo anterior, es deber y obligación de la comunidad a la que pertenecen y, en general de todos los integrantes de la sociedad, el respeto y el auxilio en el ejercicio de sus derechos.
 
-En cada uno de los municipios del Estado, se establecerá un Comité Municipal de Seguimiento y Vigilancia de la aplicación de este Código, el cual será presidido por el Presidente Municipal e integrado por el lDH municipal, o en su caso, el organismo denominado DIF municipal, existente en cada municipio; así como por las autoridades que realicen funciones relacionadas con desarrollo social, salud, educación, y seguridad pública en el municipio.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-El Presidente Municipal, podrá invitar a participar en el Comité Municipal de Seguimiento y Vigilancia de la aplicación de la Ley, para la protección de los derechos de los menores, a representantes del IDH, la Secretaría de Salud, Planeación y Finanzas, Desarrollo Social, Educación, Seguridad Pública, Pueblos Indios, Fiscalía General del Estado, Consejo Estatal de Población, Instituto del Deporte, e Instituto de la Mujer; así como a representantes de organizaciones sociales y privadas, dedicadas a la atención de los menores, asociaciones de padres de familia y a especialistas en el tema.
+En cada uno de los municipios del Estado, se establecerá un Comité Municipal de Seguimiento y Vigilancia de la aplicación de este Código, el cual será presidido por el Presidente Municipal e integrado por el DIF Municipal; así como por las autoridades que realicen funciones relacionadas con desarrollo social, salud, educación, y seguridad pública en el Municipio.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+El Presidente Municipal, podrá invitar a participar en el Comité Municipal de Seguimiento y Vigilancia para la protección de los derechos de los menores, a representantes del DIF-Chiapas, de las Secretarías de Salud, Hacienda, Desarrollo Social, Educación, Seguridad y Protección Ciudadana, Pueblos Indios, Procuraduría General de Justicia del Estado, Instituto de Población y Ciudades Rurales, Instituto del Deporte e Instituto Estatal de las Mujeres; así como a representantes de organizaciones sociales y privadas, dedicadas a la atención de los menores, asociaciones de padres de familia y a especialistas en el tema.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 63.
 
-El IDH, atendiendo a los acuerdos que resulten de la coordinación que se establezca, expedirá los manuales, instructivos o circulares que sean necesarios para el eficaz cumplimiento de este ordenamiento.
+El DIF-Chiapas, atendiendo a los acuerdos que resulten de la coordinación que se establezca, expedirá los manuales, instructivos o circulares que sean necesarios para el eficaz cumplimiento de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 64.
 
-El IDH, queda facultado para expedir, con base en este ordenamiento, los instructivos que considere necesarios para desarrollar, hacer explícitas y determinar la forma en que deben cumplirse las disposiciones en materia de protección a los derechos de los menores.
+El DIF-Chiapas, queda facultado para expedir, con base en este ordenamiento, los instructivos que considere necesarios para desarrollar, hacer explícitas y determinar la forma en que deben cumplirse las disposiciones en materia de protección a los derechos de los menores.
 
 ###### Artículo 65.
 
@@ -901,25 +991,33 @@ Corresponde al padre y a la madre los deberes enunciados en el artículo anterio
 
 Es obligación de los progenitores, miembros de la familia y responsables del cuidado de las niñas y niños, el que éstos reciban la aplicación de las vacunas que comprenden el esquema básico; acudiendo para ello a las clínicas del sector salud del Estado o centros temporales de vacunación.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 82.
 
-La Secretaría de Desarrollo Social en coordinación con eI IDH, instrumentarán los mecanismos conforme a los cuales las autoridades y las instituciones los apoyen y asistan en el cumplimiento de sus responsabilidades.
+La Secretaría de Desarrollo Social en coordinación con el DIF-Chiapas, instrumentarán los mecanismos conforme a los cuales las autoridades y las instituciones los apoyen y asistan en el cumplimiento de sus responsabilidades.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 83.
 
-El Gobierno del Estado a través de la Secretaría de Desarrollo Social y el IDH, en coordinación con las demás instancias locales y federales, establecerán las normas y los mecanismos necesarios a fin de que, cuando los menores se vean separados de su familia de origen, se procure su reencuentro con ella, o bien para la localización de sus familiares en los casos de abandono, sustracción ilícita, separación por sentencia judicial, ausencia o muerte de los progenitores.
+El Gobierno del Estado a través de la Secretaría de Desarrollo Social y el DIF-Chiapas, en coordinación con las demás instancias locales y federales, establecerán las normas y los mecanismos necesarios a fin de que, cuando los menores se vean separados de su familia de origen, se procure su reencuentro con ella, o bien para la localización de sus familiares en los casos de abandono, sustracción ilícita, separación por sentencia judicial, ausencia o muerte de los progenitores.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 84.
 
-Cuando un menor se vea privado de su familia tendrá derecho a recibir el apoyo de la Secretaría de Desarrollo Social y del IDH, quienes deberán brindarle asistencia social, atención integral y en su caso, proporcionarle un hogar provisional.
+Cuando un menor se vea privado de su familia tendrá derecho a recibir el apoyo de la Secretaría de Desarrollo Social y del DIF-Chiapas, quienes deberán brindarle asistencia social, atención integral y en su caso, proporcionarle un hogar provisional.
 
 ## Título Tercero. De la Procuración
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 85.
 
-Para una mejor defensa y protección de los derechos de menores, eI IDH, a través de la Procuraduría de Familia y Grupos Vulnerables, además de las facultades que le confiere otras disposiciones legales, será la instancia especializada con funciones de autoridad para la efectiva, procuración del respeto de tales derechos.
+Para una mejor defensa y protección de los derechos de menores, el DIF-Chiapas, a través de la Procuraduría, además de las facultades que le confieren otras disposiciones legales, será la instancia especializada con funciones de autoridad para la efectiva procuración del respeto de tales derechos.
 
 ###### Artículo 86.
 
@@ -929,7 +1027,9 @@ I. Vigilar la observancia de las garantías constitucionales que salvaguardan lo
 
 II. Representar legalmente los intereses de los menores ante las autoridades judiciales o administrativas, sin contravenir las disposiciones legales aplicables;
 
-III. Conciliar, en caso de conflicto en el núcleo familiar cuando se vulneren los derechos y garantías de los menores;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+III. Aplicar los medios alternativos de solución de conflictos, en caso de que se presenten conflictos familiares, cuando se vulneren los derechos y garantías de los menores, en los términos de este Código y de la Ley de Justicia Alternativa del Estado de Chiapas.
 
 IV. Denunciar ante el Fiscal del Ministerio Público, todos aquellos hechos que se presuman constitutivos de un delito, coadyuvando en la averiguación previa;
 
@@ -945,9 +1045,11 @@ IX. Aplicar las sanciones establecidas en este Código; y,
 
 X. Las demás que le confieran expresamente las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 87.
 
-Cuando el IDH tenga conocimiento o reciba una denuncia, por un supuesto hecho o maltrato a los derechos de los menores, se procederá de la siguiente manera:
+Cuando el DIF-Chiapas tenga conocimiento o reciba una denuncia, por un supuesto hecho o maltrato a los derechos de los menores, se procederá de la siguiente manera:
 
 I. Turnará el asunto a la Procuraduría;
 
@@ -975,13 +1077,19 @@ II. Solicitar el apoyo y cooperación de una casa hogar para albergarlos, en cas
 
 III. Realizar la denuncia correspondiente ante el Fiscal del Ministerio Público, en casos graves, para la integración de la averiguación previa.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 90.
 
-La Fiscalía General del Estado, deberá establecer dentro de su estructura orgánica, Fiscalías del ministerio público especializadas en delitos cometidos en contra de menores de 18 años, las cuales deberán estar integradas por personal especializado en la atención de menores.
+La Procuraduría General de Justicia del Estado, deberá establecer dentro de su estructura orgánica, Fiscalías del Ministerio Público especializadas en delitos cometidos en contra de menores de 18 años, las cuales deberán estar integradas por personal especializado en la atención de menores.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 91.
 
-En lo relativo al proceso de conciliación o arbitraje, así como en las infracciones, la Procuraduría, aplicará en lo conducente de manera supletoria, lo señalado en el título segundo, del Libro Tercero de este Código.
+En lo relativo a los medios de solución de conflictos, de conciliación, mediación o arbitraje, la Procuraduría, aplicará el procedimiento previsto en el Título Segundo, del Libro Tercero de este Código, así como lo señalado en la Ley de Justicia Alternativa del Estado de Chiapas.
+
+Referente a las infracciones, la Procuraduría, aplicará en lo conducente lo previsto en el Título Segundo, del Libro Tercero de este Código.
 
 La Procuraduría, para asistir a los menores indígenas en las diligencias que así lo requieran, podrá solicitar la colaboración de traductores a la Comisión Nacional de Pueblos Indígenas o a la Secretaría de Pueblos Indios del Gobierno del Estado y demás instituciones afines.
 
@@ -997,11 +1105,17 @@ I. El Pleno: Es el órgano colegiado honorario integrado por los titulares de la
 
 II. Un Presidente: Que será el Gobernador del Estado, quien tendrá voto de calidad;
 
-III. Un Vicepresidente: Que será la Presidenta del Patronato del Instituto de Desarrollo Humano;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-IV. Un Secretario técnico: Que será el titular del Instituto de Desarrollo Humano;
+III. Un Vicepresidente: Que será la Presidenta del Consejo Ciudadano Consultivo;
 
-V. Vocales A: Que serán los titulares de las dependencias y entidades siguientes: Secretaría de Desarrollo Social, de Planeación y Finanzas, de Administración, de Salud, Educación, Pueblos Indios, Seguridad Pública, Fiscalía General del Estado, Consejo Estatal de Población, Instituto del Deporte e Instituto de la Mujer; y,
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Un Secretario Técnico: Que será el titular del Sistema para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+V. Vocales A: Que serán los titulares de las Dependencias y Entidades siguientes: Secretarías de Desarrollo Social, de Hacienda, de Salud, de Educación, de Pueblos Indios, de Seguridad y Protección Ciudadana, Procuraduría General de Justicia del Estado, Instituto de Población y Ciudades Rurales, Instituto del Deporte e Instituto Estatal de las Mujeres; y,
 
 VI. Vocales B: Que serán tres diputados integrantes de las comisiones de atención de la mujer y la niñez, equidad y género, atención a grupos vulnerables, del Honorable Congreso del Estado; quienes podrán participar con voz pero no con voto.
 
@@ -1109,9 +1223,11 @@ VIII. Proponer al Pleno la integración de grupos auxiliares de trabajo, que no 
 
 IX. Representar al Comité para todos los actos que se requiera.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 101.
 
-Corresponde a la Presidenta del Patronato del IDH:
+Corresponde a la Presidenta del Consejo Ciudadano Consultivo:
 
 I. Fungir como vicepresidente del Comité; y,
 
@@ -1149,9 +1265,11 @@ XIII. Mantener permanentemente informados al Pleno y al Presidente sobre la situ
 
 XIV. Promover y mantener la coordinación con instituciones y dependencias que coadyuven a mejorar las condiciones de los menores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 103.
 
-Corresponde al titular del IDH, además de las atribuciones establecidas en el artículo anterior:
+Corresponde al titular del DIF-Chiapas, además de las atribuciones establecidas en el artículo anterior:
 
 I. Planear, coordinar y evaluar políticas y acciones de integración e inclusión, protección y desarrollo de las niñas y adolescentes y sus familias en estado de riesgo de vulnerabilidad, marginación e indefensión;
 
@@ -1175,7 +1293,7 @@ X. Realizar encuestas o investigaciones sobre cualquier asunto que se refiera a 
 
 XI. Gestionar ante los Ayuntamientos Municipales, la habilitación de espacios especiales, plazas y parques públicos, destinados a la asistencia social, recreación y esparcimiento de menores;
 
-XII. Celebrar convenios con las dependencias y entidades de la administración publica federal, estatal y municipales, así como los sectores público, social y privado, para el cumplimiento de los objetivos enumerados en este artículo; y,
+XII. Celebrar convenios con las dependencias y entidades de la administración pública federal, estatal y municipales, así como los sectores público, social y privado, para el cumplimiento de los objetivos enumerados en este artículo; y,
 
 XIII. Las que establezcan las leyes y demás disposiciones jurídicas aplicables.
 
@@ -1183,7 +1301,9 @@ XIII. Las que establezcan las leyes y demás disposiciones jurídicas aplicables
 
 El Comité contará con los vocales siguientes:
 
-Vocales A. Integrado por los titulares de las Secretarías de Desarrollo Social, de Planeación y Finanzas, de Administración, de Salud, de Educación, Pueblos Indios, Seguridad Pública, Fiscalía General del Estado, Consejo Estatal de Población, Instituto del Deporte y del Instituto de la Mujer.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+Vocales A. Integrado por los titulares de las Secretarías de Desarrollo Social, de Hacienda, de Salud, de Educación, de Pueblos Indios, de Seguridad y Protección Ciudadana, Procuraduría General de Justicia del Estado, Instituto de Población y Ciudades Rurales, Instituto del Deporte y del Instituto Estatal de las Mujeres.
 
 Vocales B. Integrado por tres diputados de la Comisión de Atención de la Mujer y la Niñez y/o Equidad y Género del Congreso del Estado.
 
@@ -1227,9 +1347,11 @@ Para efectos del artículo anterior, el Ejecutivo Estatal establecerá programas
 
 Los menores adictos a sustancias que producen dependencia, tendrán derecho a recibir tratamiento médico, tendiente a su rehabilitación, tomándose las medidas necesarias a fin de apoyar su salud física y psicológica, para tal fin la Secretaría de Salud, reforzará y creará programas integrales enfocados a la problemática particular asociada a los distintos tipos de drogas y a las formas de dependencia física y emocional.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 108.
 
-Tratándose de menores con adicciones que producen dependencia, se atenderá para su rehabilitación en la Dirección de Atención a Grupos Vulnerables, del IDH o en su caso, se canalizará a una institución que le brinde el servicio correspondiente.
+Tratándose de menores con adicciones que producen dependencia, se atenderá para su rehabilitación en la Dirección de Atención a Grupos Vulnerables, del DIF-Chiapas o, en su caso, se canalizará al CENTRA dependiente de la Procuraduría General de Justicia del Estado o alguna otra institución que le brinde el servicio correspondiente.
 
 ###### Artículo 109.
 
@@ -1245,31 +1367,41 @@ Aún cuando el menor se encuentre en custodia de su padre, madre, tutor o de cua
 
 ###### Artículo 112.
 
-La Secretaría de Desarrollo Social, en coordinación con el IDH, tendrán la obligación de establecer un programa específico y prioritario para brindar a los menores en situación de callé, las medidas de defensa jurídica, de provisión, protección y asistencia.
+La Secretaría de Desarrollo Social, en coordinación con el DIF-Chiapas, tendrán la obligación de establecer un programa específico y prioritario para brindar a los menores en situación de calle, las medidas de defensa jurídica, de provisión, protección y asistencia.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 113.
 
-La Secretaría de Desarrollo Social y eI IDH, establecerán la coordinación y concertación, con organismos, instituciones e instancias competentes para generar la participación efectiva de la comunidad y de las organizaciones sociales, en beneficio de los menores en situación de calle.
+La Secretaría de Desarrollo Social y el DIF-Chiapas, establecerán la coordinación y concertación, con organismos, instituciones e instancias competentes para generar la participación efectiva de la comunidad y de las organizaciones sociales, en beneficio de los menores en situación de calle.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 114.
 
-La Secretaría de Desarrollo Social y el IDH, impulsarán e implementarán medidas tendientes a prevenir y evitar que los menores realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
+La Secretaría de Desarrollo Social y el DIF-Chiapas, impulsarán e implementarán medidas tendientes a prevenir y evitar que los menores realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 115.
 
-Para la atención a los menores en situación de calle, el lDH brindará el apoyo de terapias psicológicas, a través de la Dirección de Atención a Grupos Vulnerables, así como los aspectos legales, por medio de la Procuraduría; además de la participación, que en el ámbito de su competencia corresponda a los Gobiernos Municipales.
+Para la atención a los menores en situación de calle, el DIF-Chiapas brindará el apoyo de terapias psicológicas, a través de la Dirección de Atención a Grupos Vulnerables, así como los aspectos legales, por medio de la Procuraduría; además de la participación, que en el ámbito de su competencia corresponda a los gobiernos municipales.
 
 ###### Artículo 116.
 
-La Secretaría de Desarrollo Social, la Secretaría de Salud y eI IDH, propiciarán con la participación de los organismos públicos e instituciones privadas, los programas dirigidos a los menores con discapacidad, para su rehabilitación, su integración familiar, educativa, social y la creación de talleres para capacitación laboral, así como la recreación y participación en el deporte y demás medios dirigidos a su rehabilitación.
+La Secretaría de Desarrollo Social, la Secretaría de Salud y el DIF-Chiapas, propiciarán con la participación de los organismos públicos e instituciones privadas, los programas dirigidos a los menores con discapacidad, para su rehabilitación, su integración familiar, educativa y social; así como, la creación de talleres para capacitación laboral, la recreación y participación en el deporte y demás medios dirigidos a su rehabilitación.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 117.
 
-La Secretaría de Desarrollo Social, en coordinación con el IDH, implementarán las acciones encaminadas en la protección y cuidado de menores con discapacidad, los servicios inherentes a estas medidas se proporcionarán gratuitamente, cuando las condiciones económicas de los afectados así lo requieran.
+La Secretaría de Desarrollo Social, en coordinación con el DIF-Chiapas, implementará las acciones encaminadas en la protección y cuidado de menores con discapacidad, los servicios inherentes a estas medidas se proporcionarán gratuitamente, cuando las condiciones económicas de los afectados así lo requieran.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 118.
 
-Para la atención de los menores con discapacidad, el lDH brindará el apoyo de rehabilitación, a través de la Dirección de Atención a Grupos Vulnerables.
+Para la atención de los menores con discapacidad, el DIF-Chiapas brindará el apoyo de rehabilitación, a través de la Dirección de Atención a Grupos Vulnerables.
 
 ## Título Sexto. De las Sanciones y Recursos
 
@@ -1311,13 +1443,15 @@ IV. La condición económica del infractor.
 
 ###### Artículo 123.
 
-Las resoluciones dictadas por la Procuraduría, con fundamento en las disposiciones de este Código y demás disposiciones, podrán recurrirse de acuerdo a lo previsto en la Ley de Justicia Administrativa del Estado de Chiapas.
+Las resoluciones dictadas por la Procuraduría, con fundamento en las disposiciones de este Código y demás disposiciones aplicables, podrán recurrirse de acuerdo a lo previsto en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
 # Libro Tercero. De la Prevención, Asistencia y Atención Integral de la Violencia Familiar
 
 ## Título Primero. Disposiciones Normativas
 
 ### Capítulo IV. De las Niñas, Niños y Adolescentes en Situación de Calle
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 124.
 
@@ -1333,49 +1467,59 @@ Corresponde a la Procuraduría, organismo con carácter de autoridad, la prevenc
 
 ### Capítulo V. De las Niñas, Niños y Adolescentes con Discapacidad
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 127.
 
 Se crea el órgano interdisciplinario denominado Consejo Estatal para la Asistencia, Prevención y Atención Integral de la Violencia Familiar, que será presidido por el titular del Poder Ejecutivo del Estado, integrándose con los titulares de las instituciones señaladas en el artículo 128, del presente ordenamiento, que deberán trabajar en la temática de la violencia familiar.
 
-En cada uno de los municipios del Estado, se establecerá un Consejo Municipal para la Asistencia, Prevención y Atención Integral de la Violencia Familiar, el cual será presidido por el Presidente Municipal e integrado por el titular del IDH, o en su caso, el organismo análogo existente en cada municipio; así como por las autoridades municipales que realicen funciones relacionadas con el desarrollo social, salud, educación y seguridad pública.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-El Presidente Municipal, podrá invitar a participar en el Consejo Municipal para la Asistencia, Prevención y Atención Integral de la Violencia Familiar, a representantes del IDH, del Supremo Tribunal de Justicia del Estado, las Secretarias de Salud, Planeación y Finanzas, Desarrollo Social, Educación, Seguridad Pública, Pueblos Indios, Fiscalía General del Estado, Consejo Estatal de Población, Instituto del Deporte, Instituto de la Mujer y Comisión de los Derechos Humanos; así como a representantes de organizaciones sociales y privadas dedicadas a la atención de la violencia familiar, asociaciones de padres de familia y especialistas en el tema.
+En cada uno de los municipios del Estado, se establecerá un Consejo Municipal para la Asistencia, Prevención y Atención Integral de la Violencia Familiar, el cual será presidido por el Presidente Municipal e integrado por el titular del DIF Municipal; así como por las autoridades municipales que realicen funciones relacionadas con el desarrollo social, salud, educación y seguridad pública.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+El Presidente Municipal, podrá invitar a participar en el Consejo Municipal para la Asistencia, Prevención y Atención Integral de la Violencia Familiar, a representantes del DIF-Chiapas, del Tribunal Superior de Justicia del Estado, las Secretarías de Salud, de Hacienda, de Desarrollo Social, de Educación, de Seguridad y Protección Ciudadana, de Pueblos Indios, Procuraduría General de Justicia del Estado, Instituto de Población y Ciudades Rurales, Instituto del Deporte, Instituto Estatal de las Mujeres y Comisión de los Derechos Humanos; así como a representantes de organizaciones sociales y privadas dedicadas a la atención de la violencia familiar, asociaciones de padres de familia y especialistas en el tema.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 128.
 
 El Consejo Estatal deberá quedar conformado con los titulares de las instituciones siguientes:
 
-I. EI IDH, a través de la Procuraduría;
+I. El DIF-Chiapas, a través de la Procuraduría;
 
-II. La Secretaría de Gobierno;
+II. La Secretaría General de Gobierno;
 
-III. Tres representantes del Congreso del Estado; uno de la Comisión de Equidad y Género, otro de la Comisión de Atención a la Mujer y la Niñez; y otro de la Comisión de Atención a Grupos Vulnerables.
+III. Tres representantes del Congreso del Estado; uno de la Comisión de Equidad y Género, otro de la Comisión de Atención a la Mujer y la Niñez; y otro de la Comisión de Atención a Grupos Vulnerables;
 
-IV. La Secretaría de Salud;
+IV. Tribunal Superior de Justicia del Estado;
 
 V. La Secretaría de Educación;
 
-VI. La Fiscalía General del Estado;
+VII (SIC). La Procuraduría General de Justicia del Estado;
 
-VII. La Secretaría de Desarrollo Social;
+VIII. La Secretaría de Desarrollo Social;
 
-VIII. El Supremo Tribunal de Justicia;
+IX. La Secretaría de Salud;
 
-IX. La Secretaría de Pueblos Indios;
+X. La Secretaría de Pueblos Indios;
 
-X. La Secretaría de Seguridad Pública;
+XI. La Secretaría de Seguridad y Protección Ciudadana;
 
-XI. El Instituto de la Mujer;
+XII. El Instituto Estatal de las Mujeres;
 
-XII. El Instituto del Deporte;
+XIII. El Instituto del Deporte;
 
-XIII. El Consejo Estatal de Población; y,
+XIV. El Instituto de Población y Ciudades Rurales; y,
 
-XIV. Un representante por las Instituciones privadas, que en razón de su actividad conozca los asuntos de violencia familiar.
+XV. Un representante por las instituciones privadas, que en razón de su actividad conozca los asuntos de violencia familiar.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 129.
 
-Para sus funciones, el Consejo contará con una Secretaría Técnica, cuya titularidad dependerá del IDH, a través del Procurador de Familia y Grupos Vulnerables, mismo que tendrá a su cargo la operatividad y aplicación del presente Código.
+Para sus funciones, el Consejo contará con una Secretaría Técnica, cuya titularidad dependerá del DIF-Chiapas, a través de la Procuraduría, misma que tendrá a su cargo la operatividad y aplicación del presente Código.
 
 Sesionará en forma ordinaria, cada tres meses y en forma extraordinaria, cuando el Presidente lo requiera o bien, cuando la mitad de sus miembros lo solicite, a través de la Secretaria Técnica, quien emitirá la convocatoria correspondiente.
 
@@ -1479,11 +1623,15 @@ El Consejo podrá sugerir a las instituciones públicas y privadas que presten s
 
 ### Capítulo II. Del Recurso Administrativo
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 143.
 
 La asistencia y atención integral que se proporcione en materia de violencia familiar por cualquier institución, ya sea privada o perteneciente a la administración pública del Estado, será dirigido a las personas generadoras y receptoras de tal violencia, basándose en modelos psicoterapéuticos reeducativos integrales que tienden a eliminarla, del mismo modo estará libre de perjuicios (sic) de género, raza, etnia, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo, y no contará entre sus criterios con patrones estereotipados de comportamiento o prácticas sociales y culturales basadas en conceptos de inferioridad o de subordinación.
 
-Para la debida asistencia y atención integral, cualquier persona que sea receptora de violencia familiar, el Ejecutivo del Estado, proveerá lo conducente para efectos de crear centros de atención, los cuales dependan del IDH, en los que se alberguen de manera temporal, según lo disponga la autoridad competente, dependiendo de cada caso en concreto.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+Para la debida asistencia y atención integral de cualquier persona que sea receptora de violencia familiar, el Ejecutivo del Estado, proveerá lo conducente para efectos de crear centros de atención, los cuales dependerán del DIF-Chiapas, en los que se alberguen de manera temporal, según lo disponga la autoridad competente, dependiendo de cada caso en concreto.
 
 ###### Artículo 144.
 
@@ -1493,9 +1641,11 @@ La atención a quienes incurran en actos de violencia familiar, se basará en mo
 
 El personal de las instituciones, deberá ser profesional y acreditado por las instituciones públicas y privadas, debiendo contar con la inscripción y registro correspondiente ante las Secretarías de Educación y de Salud, dicho personal deberá participar en los procesos de selección, capacitación y sensibilización, que las mismas secretarías establezcan, a fin de que cuenten con el perfil de aptitudes adecuadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 146.
 
-Corresponde a la Procuraduría, ya sus respectivas procuradurías auxiliares dentro del Estado, dependiente del IDH, en materia de violencia familiar, las siguientes atribuciones:
+Corresponde a la Procuraduría, y a sus respectivas Procuradurías auxiliares dentro del Estado, dependiente del DIF-Chiapas, en materia de violencia familiar, las siguientes atribuciones:
 
 I. Llevar constancias administrativas de aquellos actos que de conformidad con el presente Código, se consideren violencia familiar y que sean hechos de su conocimiento;
 
@@ -1537,7 +1687,7 @@ En materia de violencia familiar, la Secretaría de Gobierno le corresponde:
 
 > <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
-I. Emitir los lineamientos técnico jurídicos a que se sujetará el procedimiento dispuesto en el Título Segundo del Libro Tercero, del presente Código;
+I. Emitir los lineamientos técnico (sic) jurídicos a que se sujetará el procedimiento dispuesto en el Título Segundo del Libro Tercero, del presente Código;
 
 II. Establecer las bases para el sistema del registro de la información estadística en el Estado, sobre violencia familiar;
 
@@ -1561,9 +1711,11 @@ V. El modelo de atención y el plan terapéutico; y,
 
 VI. La infraestructura física y técnico administrativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 150.
 
-Corresponde a la Secretaría de Educación del Gobierno Estatal, en coordinación con el IDH:
+Corresponde a la Secretaría de Educación, en coordinación con el DIF-Chiapas:
 
 I. Diseñar el programa general de asistencia integral y prevención de la violencia familiar;
 
@@ -1581,7 +1733,9 @@ VII. Llevar registro de instituciones gubernamentales y organizaciones sociales 
 
 VIII. Implementar acciones educativas que promuevan la equidad y la igualdad entre los géneros, así como una cultura de la no violencia; y,
 
-IX. Las demás que determinen la Secretaría de Educación y el IDH.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Las demás que determinen la Secretaría de Educación y el DIF-Chiapas.
 
 ###### Artículo 151.
 
@@ -1605,9 +1759,11 @@ IV. Desarrollar programas que impulsen una cultura de paz, a través de la promo
 
 ###### Artículo 153.
 
-La Procuraduría, así como las Procuradurías auxiliares en el Estado, deberán conocer, tramitar y resolver, a través del procedimiento previsto en el presente capítulo, los asuntos que contengan elementos de violencia familiar que sean de su competencia.
+La Procuraduría así como las Procuradurías auxiliares en el Estado, deberán conocer, tramitar y resolver, a través de los medios alternativos de solución de conflictos previstos en la Ley de Justicia Alternativa del Estado de Chiapas, los asuntos que contengan elementos de violencia familiar que sean de su competencia, siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables, no se afecten derechos de terceros o exista recurrencia de leyes federales.
 
-No será materia del procedimiento previsto en el presente Código, los derechos relativos al estado civil de las personas o los que las Leyes le otorguen el carácter de irrenunciables o que constituyan ilícitos perseguibles de oficio.
+No será materia del procedimiento previsto en el presente Código, los derechos relativos al estado civil de las personas o los que las leyes le otorguen el carácter de irrenunciables o que constituyan ilícitos perseguibles de oficio.
+
+Los Procuradores adscritos a la Procuraduría de Familia y Adopciones dependiente del DIF-Chiapas, son considerados especialistas públicos por ministerio de ley, de conformidad con lo establecido por la Ley de Justicia Alternativa del Estado de Chiapas.
 
 ###### Artículo 154.
 
@@ -1617,25 +1773,35 @@ I. De oficio: cuando por cualquier medio se tenga conocimiento de un hecho const
 
 II. A petición de parte: cuando la persona receptora de violencia familiar solicite la instauración del procedimiento.
 
-Será obligación de la procuraduría, antes de iniciar cualquier procedimiento, preguntar a las partes si estos se encuentran dirimiendo sus conflictos ante autoridad civil o penal; informará a las partes del contenido y alcances del presente Código y de los procedimientos administrativos, civiles y penales que existan en la materia; así como de las sanciones a que se harán acreedores en caso de incumplimiento o reincidencia.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+Será obligación de la Procuraduría, antes de iniciar cualquier procedimiento, preguntar a las partes si éstos se encuentran dirimiendo sus conflictos ante autoridad civil o penal; informará a las partes del contenido y alcances del presente Código y de los medios alternativos de solución de conflictos previstos en el mismo, de los procedimientos civiles y penales que existan en la materia; así como de las sanciones a que se harán acreedores en caso de incumplimiento o reincidencia.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 155.
 
-Las partes en conflicto familiar podrán resolver sus diferencias mediante los procedimientos de:
+Las partes en conflicto familiar podrán resolver sus diferencias a través de los medios alternativos de solución de conflictos los cuales podrán ser:
 
-I. Conciliación; y,
+I. Conciliación;
 
-II. Arbitraje.
+II. Mediación; y,
 
-Los procedimientos previstos en el presente Código, no excluyen ni son un requisito previo para llevar a cabo el procedimiento jurisdiccional. En caso de que exista un litigio en relación con el mismo asunto, el conciliador o el árbitro le enviará al juez de la causa, la resolución de la conciliación o el laudo respectivo.
+III. Arbitraje.
 
-El procedimiento de arbitraje estará sujeto a lo dispuesto en la legislación civil del Estado.
+Los medios alternativos deberán ser previos al proceso jurisdiccional a cargo de los tribunales del fuero común; sin embargo, en caso de que persista el conflicto y aún habiéndose iniciado el proceso jurisdiccional, las personas pueden recurrir en cualquier momento a los procedimientos previstos en este Código; en consecuencia, podrán aplicarse tanto en controversias jurídicas que no han sido planteadas ante los órganos jurisdiccionales, como en aquellas que sean materia de un procedimiento judicial formal instaurado, pero, en este último caso, en tanto no se concluya la tramitación del medio alternativo, no se continuará el proceso jurisdiccional de conformidad con las disposiciones establecidas en la Ley de Justicia Alternativa del Estado de Chiapas.
+
+Cuando las partes comparezcan a la Procuraduría para someter el conflicto a los medios alternativos de solución, estando en trámite un procedimiento judicial, sin hacerlo del conocimiento del Juez, el procurador, en su caso, deberá comunicarlo de inmediato al órgano jurisdiccional que corresponda, a fin de salvaguardar sus derechos procesales.
+
+El procedimiento de arbitraje estará sujeto a lo dispuesto en la Ley de Justicia Alternativa del Estado de Chiapas.
 
 ###### Artículo 156.
 
 La representación jurídica de las personas receptoras de violencia familiar, que carezcan de capacidad de ejercicio y tengan conflictos de intereses con quien ejerza la patria potestad, la tutela, estén encargados de personas adultas mayores o de personas con discapacidad, la tendrá:
 
-I. El Procurador de Familia y Grupos Vulnerables, para actuar ante cualquier autoridad y ejercer las acciones conducentes, en los términos del código civil y penal para el Estado; y,
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+I. El Procurador de la Familia y Adopciones, para actuar ante cualquier autoridad y ejercer las acciones conducentes, en los términos del Código Civil y Penal para el Estado; y,
 
 II. El fiscal del Ministerio Público para actuar en el procedimiento a que se refiere este Código.
 
@@ -1651,23 +1817,23 @@ I. Cuando lo solicite la persona receptora de violencia familiar y esté en peli
 
 II. Cuando se trate de personas que carezcan de capacidad de ejercicio y exista conflicto de intereses entre éste y quien ejerza la patria potestad o la tutela, para salvaguardar su integridad física o psicoemocional.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 159.
 
-Cada procedimiento de solución de los conflictos familiares, se llevará a cabo en una sola audiencia de conciliación y resolución, la cual se podrá suspender por una sola vez, a efecto de reunir todos los elementos de convicción necesarios, para apoyar las propuestas de las partes, así como por la necesidad de la práctica de estudios y elaboración de informes o dictámenes, relativos a los hechos constitutivos de la denuncia, en todo caso, tratándose de menores así como de personas adultas mayores, antes de dictar la resolución o de establecer la conciliación, deberá escuchárseles atendiendo a su edad y condición, a fin de que su opinión sea tomada en cuenta en todos los asuntos que le afecten.
+En los procedimientos de conciliación, mediación o arbitraje, cuando se trate de derechos de menores así como de personas adultas mayores, antes de dictar la resolución o de establecer lo procedente, el Procurador deberá escucharles atendiendo a su edad y condición, a fin de que su opinión sea tomada en cuenta en todos los asuntos que le afecten.
 
 ###### Artículo 160.
 
-Al iniciar la audiencia de conciliación, se procurará la avenencia entre las partes, proporcionando para ese efecto, toda clase de alternativas, exhortándoles a conocer las consecuencias, en caso de continuar.
-
-Una vez que las partes lleguen a una conciliación, se celebrará el convenio correspondiente que será firmado por quienes intervengan en el mismo.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 161.
 
-Las partes deberán asistir personalmente a la audiencia, en la cual, no se aceptará la representación, pero podrán estar asistidas por persona de su confianza.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 162.
 
-El convenio deberá de contener, además de los acuerdos a que lleguen las partes, las medidas de atención psicoterapéuticas reeducativas integrales a que quedarán sujetas y éste será firmado por las partes y por un representante de la Procuraduría, una vez que se les haya leído y se les haya hecho saber los alcances del mismo.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 163.
 
@@ -1675,35 +1841,15 @@ Si alguna de las partes no acepta la continuación del procedimiento conciliator
 
 ###### Artículo 164.
 
-El procedimiento arbitral, se llevará a cabo de la siguiente forma:
-
-I. Dentro de los tres días hábiles siguientes a la sujeción al procedimiento arbitral, se celebrará una audiencia de ofrecimiento y desahogo de pruebas. Aquellas que por su naturaleza no se puedan desahogar en la audiencia referida, se llevarán a cabo en la fecha que para el efecto se señale, dentro de los quince días naturales siguientes a la celebración de la misma;
-
-II. Se podrá decretar en todo tiempo, la práctica de cualquier diligencia probatoria, siempre, que se estime necesaria y sea conducente para el conocimiento, de la verdad sobre los puntos controvertidos;
-
-III. El acuerdo de las partes, dará por terminado el procedimiento, independientemente de la etapa procesal en la que se encuentre, siempre y cuando no se haya dictado la resolución correspondiente;
-
-IV. Desahogadas las pruebas, las partes formularán sus alegatos que se asentarán en autos;
-
-V. Para la admisión y valoración de las pruebas se aplicarán las reglas previstas en el Código de Procedimientos Civiles para el Estado;
-
-VI. Formulados los alegatos, se procederá a emitir el laudo y a notificarlo a las partes; y,
-
-VII. La resolución, en su caso, deberá de contener las medidas de atención psicoterapéuticas, educativas integrales a que se sujetarán las partes.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 165.
 
-Cuando alguna de las partes incumpla con las obligaciones contraídas en el convenio o, en su caso, la resolución del procedimiento arbitral, la otra parte podrá acudir ante la autoridad jurisdiccional competente para solicitar su ejecución, en los términos previstos por el código de procedimientos civiles para el Estado, con independencia de la sanción administrativa que se aplique al infractor en términos de este ordenamiento.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 166.
 
-El conciliador o árbitro tiene la obligación de preservar el orden en las audiencias, para hacer efectivas sus determinaciones, podrá aplicar las siguientes medidas de apremio:
-
-I. Apercibimiento;
-
-II. Expulsión de las instalaciones de la Procuraduría o de las Procuradurías Auxiliares en el Estado, donde se verifique la audiencia de quienes impidan el buen desarrollo de la misma. La persona que se resista a cumplir con dicha orden será desalojada del local; y,
-
-III. Uso de la fuerza pública.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 167.
 
@@ -1719,9 +1865,13 @@ III. Para el debido seguimiento y evaluación de las medidas implementadas en ca
 
 Se consideran infracciones al presente Código:
 
-I. El no asistir sin causa justificada a los citatorios que gire la Procuraduría, que se señalan en este Código;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-II. El incumplimiento al convenio derivado del procedimiento de conciliación;
+I. El no asistir sin causa justificada a los citatorios que gire la Procuraduría, que se señalen en este Código;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+II. El incumplimiento a la resolución derivada de la conciliación, mediación o arbitraje; y (sic),
 
 III. El incumplimiento al laudo derivado del arbitraje; y,
 
@@ -1745,7 +1895,7 @@ Para la acreditación de las infracciones y de la reincidencia a que hacen menci
 
 ###### Artículo 171.
 
-Contra las resoluciones y la imposición de sanciones previstas en este Código, procederá el recurso que establece la Ley de Justicia Administrativa del Estado.
+Contra las resoluciones y la imposición de sanciones previstas en este Código, procederá el recurso que al respecto establece la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
 # Libro Cuarto. De las Personas con Discapacidad
 
@@ -1787,7 +1937,7 @@ XII. Los programas de vialidad;
 
 XIII. Las guarderías para menores con discapacidad;
 
-XlV. Los servicios de turismo;
+XIV. Los servicios de turismo;
 
 XV. La asesoría para la construcción de vivienda;
 
@@ -1797,13 +1947,15 @@ XVII. La creación de servicios de medicina de rehabilitación en las unidades h
 
 XVIII. La integración de las mujeres con discapacidad, a los diversos programas con una política transversal de equidad y género.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 174.
 
-Corresponde al Gobernador del Estado, a través de las dependencias y entidades, como la Secretaría de Salud, Secretaría de Educación, Secretaría de Obras Públicas y Vivienda, Secretaría de Planeación y Finanzas, Secretaría de Desarrollo Social, el IDH y los' Ayuntamientos Municipales, la aplicación de este Código, en el ámbito de sus respectivas competencias.
+Corresponde al Gobernador del Estado, a través de las Dependencias y Entidades, como la Secretaría de Salud, Secretaría de Educación, Secretaría de Infraestructura, Secretaría de Hacienda, Secretaría de Desarrollo Social y el DIF-Chiapas, la aplicación de este Código, en el ámbito de sus respectivas competencias.
 
 > <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
-Asimismo, llevarán acabo estudios, investigaciones y exámenes que estimen convenientes, utilizando los equipos necesarios y los medios que la ciencia y la tecnología emplean, para identificar y valorar las posibles causas de discapacidades y para determinar las alteraciones de salud en las personas; a fin de promover mediante la expedición de las disposiciones correspondientes, el establecimiento de medidas de prevención, rehabilitación integral, e integración social.
+Asimismo, llevarán a cabo estudios, investigaciones y exámenes que estimen convenientes, utilizando los equipos necesarios y los medios que la ciencia y la tecnología emplean, para identificar y valorar las posibles causas de discapacidades y para determinar las alteraciones de salud en las personas; a fin de promover mediante la expedición de las disposiciones correspondientes, el establecimiento de medidas de prevención, rehabilitación integral, e integración social.
 
 Las personas con discapacidad, tendrán acceso a los programas de prevención de riesgos, accidentes o enfermedades que se relacionen con la causa o los efectos que originaron la misma, que para tal efecto se implementen, en los ámbitos Federal, Estatal y Municipal.
 
@@ -1859,7 +2011,9 @@ i) Enfermedad metabólica en recién nacido;
 
 j) Discapacidades provocadas por accidentes.
 
-VIII. Proporcionar en todo el Estado, la información sobre prevención de la discapacidad, así como realizar los estudios e investigaciones de detección temprana de los problemas generadores de discapacidad, brindando los cuidados preventivos quien proporcione la rehabilitación;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. Proporcionar en todo el Estado la información sobre prevención de la discapacidad, así como realizar los estudios e investigaciones de detección temprana de los problemas generadores de discapacidad, brindando los cuidados preventivos que proporcione la rehabilitación;
 
 IX. Proporcionar, a través de los centros hospitalarios y clínicas de las instituciones de salud del Estado, la asesoría y orientación física y psicológica, a quienes presenten una discapacidad, así como a los familiares de los mismos;
 
@@ -1869,7 +2023,9 @@ X. Gestionar los recursos necesarios, para impulsar los programas de adquisició
 
 XI. Brindar a través de todas sus unidades de servicio en el Estado, la asistencia médica;
 
-XII. Detectar y canalizar al centro de rehabilitación, unidades básicas y simplificadas dependientes del IDH-Estatal, a todas las personas con cualquier tipo de discapacidad como son:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XII. Detectar y canalizar al centro de rehabilitación, unidades básicas y simplificadas dependientes del DIF-Chiapas, a todas las personas con cualquier tipo de discapacidad como son:
 
 a) Ciegos y débiles visuales;
 
@@ -1899,11 +2055,17 @@ XVI. Expedir a través de sus unidades de atención medica, a las personas con d
 
 XVII. Realizar campañas permanentes para la detección de personas con discapacidad;
 
-XVIII. Promover la capacitación de los propios profesionales de la salud, así como de los maestros, funcionarios públicos, empresarios, asociaciones y clubes de servicio o bien de aquellos miembros de la comunidad que realizan actividades de apoyo a la salud, como son los parteros empíricos o promotores voluntarios; y,
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+XVIII. Promover la capacitación de los propios profesionales de la salud, así como de los maestros, funcionarios públicos, empresarios, asociaciones y clubes de servicio o bien de aquellos miembros de la comunidad que realizan actividades de apoyo a la salud, como son los parteros empíricos o promotores voluntarios;
 
-XIX. Las demás que las leyes y la Comisión, le encomienden.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XIX. Fomentar entre las Dependencias Estatales y Municipales, las acciones necesarias encaminadas a permitir a las personas con discapacidad visual, el acceso de mascotas domésticas en este caso tratándose de perros guías certificados, en todos los inmuebles públicos, así como en lugares donde se presten servicios al público y establecimientos mercantiles;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XX. Las demás que las leyes y la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, le encomienden.
 
 ###### Artículo 177.
 
@@ -1931,9 +2093,11 @@ IX. Promover la modificación de los criterios de asignación de becas, en insti
 
 X. Las demás que las leyes y la Comisión, le encomienden.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 178.
 
-Corresponde a la Secretaría de Obras Públicas y Vivienda, promover e impulsar las siguientes actividades:
+Corresponde a la Secretaría de Infraestructura, promover e impulsar las siguientes actividades:
 
 I. Las facilidades urbanísticas y arquitectónicas;
 
@@ -1955,7 +2119,7 @@ VIII. Verificar en coordinación con las autoridades municipales, que los planes
 
 IX. Vigilar que en las terminales de transporte de servicio público, en sus diversas modalidades y en las que sea competente, se eliminen las barreras físicas que impidan el libre desplazamiento de las personas con discapacidad;
 
-X. Promover que en los estacionamientos públicos y privados, se destine por lo menos un cajón por cada veinticinco o fracción, a partir de doce; para uso exclusivo de personas con discapacidad, siendo ubicados lo mas cerca posible de la entrada a la edificación; mismos que tendrán las especificaciones técnicas requeridas;
+X. Promover que en los estacionamientos públicos y privados, se destine por lo menos un cajón por cada veinticinco o fracción, a partir de doce; para uso exclusivo de personas con discapacidad, siendo ubicados lo más cerca posible de la entrada a la edificación; mismos que tendrán las especificaciones técnicas requeridas;
 
 XI. Verificar que en los cambios de nivel de los espacios exteriores públicos, cuando se requiera el uso de circulaciones verticales, se provea de escaleras con pasamanos, rampas y escalinatas; las que tendrán las especificaciones técnicas que determinen las técnicas de construcción, emitidas por la autoridad correspondiente;
 
@@ -1963,7 +2127,7 @@ XII. En coordinación con las autoridades municipales, vigilar que las vías pú
 
 XIII. Sugerir a los municipios, que en todas las rutas o senderos peatonales, banquetas, andadores o pasajes; se cuente en los puntos de cruce, con los arroyos vehiculares, y rampas especiales para sillas de ruedas; mismas que tendrán las medidas que técnicamente se requieran;
 
-XIV. Promover ante las dependencias y entidades, así como ante los sectores público o privado y los municipios de Chiapas; que en los centros comerciales, oficinas publicas, aeropuertos, terminales de autobuses, gasolineras y similares; se instale al menos un sanitario con un inodoro especial para sillas de ruedas, considerando los siguientes lineamientos:
+XIV. Promover ante las dependencias y entidades, así como ante los sectores público o privado y los municipios de Chiapas; que en los centros comerciales, oficinas públicas, aeropuertos, terminales de autobuses, gasolineras y similares; se instale al menos un sanitario con un inodoro especial para sillas de ruedas, considerando los siguientes lineamientos:
 
 a) Ubicarlos en unidades separadas para ambos sexos, o estar integrados a los núcleos públicos de hombres y mujeres;
 
@@ -1985,9 +2149,11 @@ XVI. Proponer ante la autoridad correspondiente, que la instalación de alarmas 
 
 XVII. Las demás que el Ejecutivo del Estado y la Comisión acuerden.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 179.
 
-Corresponde a la Secretaría de Planeación y Finanzas, promover e impulsar las siguientes actividades:
+Corresponde a la Secretaría de Hacienda, promover e impulsar las siguientes actividades:
 
 I. Establecer las normas sobre los subsidios u otro tipo de apoyo que conceda el Gobierno del Estado a favor de entidades, instituciones públicas y privadas, organismos de y para personas con discapacidad;
 
@@ -1999,23 +2165,31 @@ IV. Establecer las normas y mecanismos de programación, ejercicio, control, eva
 
 V. Las demás que le competan y le encomiende el Ejecutivo del Estado y la Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 180.
 
-Corresponde a la Secretaría de Planeación y Finanzas, constituir un fondo con las recaudaciones provenientes de las multas, que por violación a este Código se impongan; con la finalidad de integrarlos a la partida presupuestal destinada a los subsidios que conforme a la normatividad vigente, el Gobierno del Estado otorgue a los organismos y/o instituciones en beneficio de las personas con discapacidad.
+Corresponde a la Secretaría de Hacienda, constituir un fondo con las recaudaciones provenientes de las multas, que por violación a este Código se impongan; con la finalidad de integrarlos a la partida presupuestal destinada a los subsidios que conforme a la normatividad vigente, el Gobierno del Estado otorgue a los organismos y/o instituciones en beneficio de las personas con discapacidad.
 
 La Secretaría, deberá reglamentar lo relativo a la recaudación de las multas que sean impuestas por infracción al Código.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 181.
 
-La Secretaría de Planeación y Finanzas, promoverá los subsidios necesarios, a efecto de impulsar programas de integración social, en favor de las personas con discapacidad.
+La Secretaría de Hacienda, promoverá los subsidios necesarios, a efecto de impulsar programas de integración social, a favor de las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 182.
 
-La Secretaría de Planeación y Finanzas, ejecutará además de las facultades señaladas en este Libro, los acuerdos que la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, convengan.
+La Secretaría de Hacienda, ejecutará además de las facultades señaladas en este Libro, los acuerdos que la Comisión para la Integración al Desarrollo de las Personas con Discapacidad convenga.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 183.
 
-Corresponde al lDH las siguientes atribuciones:
+Corresponde al DIF-Chiapas las siguientes atribuciones:
 
 I. Definir y establecer políticas que garanticen la igualdad de derechos impulsando las acciones necesarias en el Estado, cuyo objetivo sea el desarrollo humano de las personas con discapacidad;
 
@@ -2035,13 +2209,17 @@ VIII. Recibir y canalizar ante las instancias competentes, las quejas sobre la a
 
 IX. Realizar censo o padrón de personas con discapacidad, para contar con una base de datos que permita elaborar estrategias de atención;
 
-X. Promover la enseñanza, el manejo y la difusión de los lenguajes de señas y BraiIle, para la atención de personas con discapacidad;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+X. Promover la enseñanza, el manejo y la difusión de los lenguajes de señas, Braille y otras formas de comunicación, para la atención y tratamiento de las personas con discapacidad;
 
 > <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
 XI. Expedir los instructivos que considere necesarios para desarrollar, hacer explicitas y determinar la forma en que deben cumplirse las disposiciones en materia de discapacidad; para su obligatoriedad y general observancia, debiendo ser publicados en el Periódico Oficial del Estado;
 
-XII. Promover ante los IDH o DIF Municipales, diseños metodológicos que permitan conocer la población total de personas con discapacidad, sus necesidades y medidas de prevención de la discapacidad, actualizando sistemáticamente los registros;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XII. Promover ante el DIF-Chiapas o DIF Municipales, diseños metodológicos que permitan conocer la población total de personas con discapacidad, sus necesidades y medidas de prevención de la discapacidad, actualizando sistemáticamente los registros;
 
 > <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2067,13 +2245,21 @@ XVIII. Impartir cursos de capacitación para el manejo de la rehabilitación int
 
 XIX. Celebrar convenios de concertación y colaboración, con instancias propiciadoras del cambio científico, para la estructuración, producción y fabricación de órtesis, prótesis y ayudas técnicas, susceptibles de generar para la población con discapacidad;
 
-XX. El IDH, en coordinación con la Secretaría de Educación y la Secretaría de Salud, brindarán atención oportuna a menores de todas las edades con alteraciones en su desarrollo, a fin de detectar oportunamente cualquier tipo de discapacidad, a través de los programas de promoción a la salud, prevención de la discapacidad, estimulación múltiple temprana y escuelas de educación especial;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XXI. EI IDH, a través de su centro de desarrollo infantil, brindará cursos de sensibilización en materia de discapacidad, que permita mantener informados a los padres de familia sobre riesgos y atención oportuna ante cualquier problema de discapacidad;
+XX. El DIF-Chiapas, en coordinación con la Secretaría de Educación y la Secretaría de Salud, brindarán atención oportuna a menores de todas las edades con alteraciones en su desarrollo, a fin de detectar oportunamente cualquier tipo de discapacidad, a través de los programas de promoción a la salud, prevención de la discapacidad, estimulación múltiple temprana y escuelas de educación especial;
 
-XXII. EI IDH, en coordinación con la Secretaría de Educación y la Secretaría de Salud, vigorizará el mecanismo de referencia y contrarreferencia que permita retroalimentar los servicios de salud, apoyo psicológico y atención educativa;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-XXIII. EI IDH promoverá ante el Instituto Nacional para las Personas Adultas Mayores, la implementación de programas de promoción y prevención a la discapacidad, rehabilitación, capacitación y trabajo, cultura, recreación, deporte y educación, que permitan brindar atención y apoyo a las personas adultas mayores que tengan algún tipo de discapacidad;
+XXI. El DIF-Chiapas, a través de su centro de desarrollo infantil, brindará cursos de sensibilización en materia de discapacidad, que permita mantener informados a los padres de familia sobre riesgos y atención oportuna ante cualquier problema de discapacidad;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XXII. El DIF-Chiapas, en coordinación con la Secretaría de Educación y la Secretaría de Salud, vigorizará el mecanismo de referencia y contrarreferencia que permita retroalimentar los servicios de salud, apoyo psicológico y atención educativa;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+XXIII. El DIF-Chiapas promoverá ante el Instituto Nacional para las Personas Adultas Mayores, la implementación de programas de promoción y prevención a la discapacidad, rehabilitación, capacitación y trabajo, cultura, recreación, deporte y educación, que permitan brindar atención y apoyo a las personas adultas mayores que tengan algún tipo de discapacidad;
 
 > <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2095,11 +2281,11 @@ IV. Establecer lineamientos específicos, impulsando ante la Comisión, la proye
 
 V. Las demás que el Ejecutivo del Estado y la Comisión acuerden.
 
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 185.
 
-El Gobernador del Estado constituirá la Comisión, con el objeto de establecer acciones específicas de concertación, coordinación, planeación y promoción de los trabajos necesarios, a fin de garantizar condiciones favorables a las personas con discapacidad. En esta Comisión, participarán representantes de las organizaciones de personas con discapacidad, del Sistema Estatal de Salud, del Sistema Estatal de Seguridad Pública, del Consejo Estatal para la Cultura y las Artes, del Instituto del Deporte, del Sector Educativo Estatal, de las asociaciones políticas, filantrópicas, religiosas así como todos los organismos privadas (sic) que tengan relación con el presente Código.
+El Gobernador del Estado constituirá la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, con el objeto de establecer acciones específicas de concertación, coordinación, planeación y promoción de los trabajos necesarios, a fin de garantizar condiciones favorables a las personas con discapacidad. En esta Comisión, participarán representantes de las organizaciones de personas con discapacidad, del Sistema Estatal de Salud, del Sistema Estatal de Seguridad Pública, del Consejo Estatal para las Culturas y las Artes de Chiapas, del Instituto del Deporte, del Sector Educativo Estatal, de las asociaciones políticas, filantrópicas, religiosas, así como todos los organismos privados que tengan relación con el presente Código.
 
 ### Capítulo IV. De la Asistencia y Atención
 
@@ -2115,13 +2301,17 @@ II. El establecimiento de centros de orientación, diagnóstico y atención temp
 
 III. Los programas especializados de capacitación, orientación y rehabilitación sexual para las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 187.
 
-El IDH, establecerá acciones de coordinación con instituciones públicas y privadas para impulsar la investigación y la producción de ayudas técnicas con el propósito de facilitar su adquisición.
+El DIF-Chiapas, establecerá acciones de coordinación con instituciones públicas y privadas para impulsar la investigación y la producción de ayudas técnicas con el propósito de facilitar su adquisición.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 188.
 
-EI IDH, promoverá el otorgamiento de estímulos fiscales, subsidios, y otros apoyos a favor de entidades, Instituciones públicas y privadas, organismos de y para personas con discapacidad, cuyo objeto sea la producción y adquisición de bienes de procedencia nacional o extranjera o la prestación de servicios para las personas con discapacidad, entre los que se podrán considerar los siguientes:
+El DIF-Chiapas, promoverá el otorgamiento de estímulos fiscales, subsidios, y otros apoyos a favor de entidades, instituciones públicas y privadas, organismos de y para personas con discapacidad, cuyo objeto sea la producción y adquisición de bienes de procedencia nacional o extranjera o la prestación de servicios para las personas con discapacidad, entre los que se podrán considerar los siguientes:
 
 I. Artículos o accesorios de uso personal;
 
@@ -2145,23 +2335,31 @@ Los medicamentos, accesorios, dispositivos, implementos y demás bienes y servic
 
 ### Capítulo I. Del Procedimiento Conciliatorio y de Arbitraje
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 189.
 
-El IDH, promoverá la integración de las personas con discapacidad, en el sistema ordinario de trabajo, o en su caso, su incorporación a sistemas de trabajo protegido, en condiciones salubres, dignas y de mínimo riesgo para su seguridad. Al efecto, impulsará entre los sectores públicos y privados, la creación y desarrollo de una bolsa de trabajo. Asimismo, vigilará y recomendará que las condiciones en que se desempeñe su trabajo, sean acordes a su discapacidad personal.
+El DIF-Chiapas, promoverá la integración de las personas con discapacidad, en el sistema ordinario de trabajo, o en su caso, su incorporación a sistemas de trabajo protegido, en condiciones salubres, dignas y de mínimo riesgo para su seguridad. Al efecto, impulsará entre los sectores públicos y privados, la creación y desarrollo de una bolsa de trabajo. Asimismo, vigilará y recomendará que las condiciones en que se desempeñe su trabajo, sean acordes a su discapacidad personal.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 190.
 
-EI IDH, recomendará a la instancia competente, el otorgamiento de incentivos para aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones, realicen adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
+El DIF-Chiapas, recompensará a la instancia competente, el otorgamiento de incentivos para aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones, realicen adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 191.
 
-EI IDH, coadyuvará al desarrollo de programas de capacitación y autoempleo, para las personas con discapacidad con la finalidad de integrarlos a la convivencia familiar y social, procurando su desarrollo personal.
+El DIF-Chiapas, coadyuvará al desarrollo de programas de capacitación y autoempleo, para las personas con discapacidad con la finalidad de integrarlos a la convivencia familiar y social, procurando su desarrollo personal.
 
 ### Capítulo II. De los Medios de Impugnación
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 192.
 
-Sin perjuicio de lo que consagran la Constitución Política de los Estados Unidos Mexicanos y otras disposiciones legales, el IDH, impulsará con las autoridades competentes, la promoción y defensa de los derechos de las personas con discapacidad, conforme a este Código.
+Sin perjuicio de lo que consagran la Constitución Política de los Estados Unidos Mexicanos y otras disposiciones legales, el DIF-Chiapas, impulsará con las autoridades competentes, la promoción y defensa de los derechos de las personas con discapacidad, conforme a este Código.
 
 Al efecto, se integrará un cuerpo de especialistas que asista, oriente y defienda a las personas con discapacidad.
 
@@ -2195,9 +2393,11 @@ III. Las autoridades estatales y municipales correspondientes, contribuirán a g
 
 IV. Las personas con discapacidad, podrán incorporarse, previa solicitud y autorización de la autoridad administrativa correspondiente, a las excepciones contempladas en los programas de restricción a la circulación vehicular.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 197.
 
-EI IDH, impulsará el diseño e instrumentación permanente con la autoridad competente, de programas y campañas de educación vial y cortesía urbana, encaminados a motivar los hábitos de respeto hacia las personas con discapacidad, en su tránsito por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable.
+El DIF-Chiapas, impulsará el diseño e instrumentación permanente con la autoridad competente, de programas y campañas de educación vial y cortesía urbana, encaminados a motivar los hábitos de respeto hacia las personas con discapacidad, en su tránsito por la vía pública y en lugares de acceso público, de conformidad con la legislación aplicable.
 
 ###### Artículo 198.
 
@@ -2207,9 +2407,11 @@ Las personas invidentes, que requieren para su desplazamiento de perros guía o 
 
 ### Capítulo III. Del Empleo y de la Capacitación
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 199.
 
-El IDH, en coordinación con las Dependencias y Entidades del Ejecutivo, promoverá en los centros públicos de desarrollo infantil del Estado:
+El DIF-Chiapas, en coordinación con las Dependencias y Entidades del Ejecutivo, promoverá en los centros públicos de desarrollo infantil del Estado:
 
 I. La admisión y atención de menores con discapacidad;
 
@@ -2219,9 +2421,11 @@ III. El establecimiento de programas de asesoría y orientación, dirigidos a pr
 
 IV. El establecimiento de mecanismos que permitan la adecuada canalización y atención de los menores en el sistema de educación especial, así como su incorporación al sistema de educación ordinario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 200.
 
-EI IDH, impulsará los programas de capacitación que existan en los tres niveles de gobierno, para la atención de las personas con discapacidad, promoviendo su admisión y atención en las instituciones públicas y privadas del Estado, y canalización médica, que para el caso se requiera.
+El DIF-Chiapas, impulsará los programas de capacitación que existan en los tres niveles de Gobierno, para la atención de las personas con discapacidad, promoviendo su admisión y atención en las Instituciones Públicas y Privadas del Estado, y canalización médica, que para el caso se requiera.
 
 Asimismo, proporcionará asesorías para procurar estimular en el seno familiar, el conocimiento, manejo y respeto de los derechos de las personas con discapacidad.
 
@@ -2233,23 +2437,27 @@ Las bibliotecas públicas, procurarán contar con áreas determinadas y equipami
 
 ### Capítulo IV. De la Promoción y Defensa de los Derechos de las Personas con Discapacidad
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 202.
 
-Para la atención de personas con discapacidad, las Dependencias y entidades de la Administración Pública Estatal, se organizarán por sectores, siendo para los efectos de este Código, los siguientes: Sector Salud, Bienestar y Seguridad Social, la Secretaría de Salud; Sector Educativo, la Secretaría de Educación; Sector Capacitación y Trabajo, la Secretaría de Administración; Sector Comunicación Social, Comunicación Social de Gobierno del Estado; Sector Recreación y Deporte, el Instituto del Deporte; Sector Cultural, el Consejo Estatal para la Cultura y las Artes; Sector Desarrollo Urbano, la Secretaría (sic) Obras Públicas y Vivienda y Sector proyectos legislativos, Secretaría de Gobierno.
+Para la atención de personas con discapacidad, las Dependencias y Entidades de la Administración Pública Estatal, se organizarán por sectores, siendo para los efectos de este Código, los siguientes: Sector Salud, Bienestar y Seguridad Social, la Secretaría de Salud; Sector Educativo, la Secretaría de Educación; Sector Capacitación y Trabajo, la Secretaría del Trabajo; Sector de Comunicación Social, El Instituto de Comunicación Social e Información Pública; Sector Recreación y Deporte, el Instituto del Deporte; Sector Cultural, el Consejo Estatal para las Culturas y las Artes de Chiapas; Sector de Desarrollo Urbano, la Secretaría de Infraestructura y Sector Proyectos Legislativos, Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 203.
 
 Los sectores para la atención de personas con discapacidad, estarán integrados de la manera siguiente:
 
-I. Sector Salud, Bienestar y Seguridad Social:
+I. Sector salud, bienestar y seguridad social:
 
 a) Secretaría de Salud;
 
 b) Instituto de Salud del Estado de Chiapas;
 
-c) Instituto de Seguridad Social al Servicio de los Trabajadores del Estado;
+c) Instituto de Seguridad Social al Servicio de los Trabajadores del Estado de Chiapas;
 
-d) IDH a través de la oficina correspondiente;
+d) DIF-Chiapas, a través de la oficina correspondiente;
 
 II. Sector Educativo:
 
@@ -2257,59 +2465,69 @@ a) Secretaría de Educación;
 
 b) Universidad Autónoma de Chiapas;
 
-c) Universidad de Ciencias y Artes de Chiapas;
-
-d) Colegio de Bachilleres;
-
-e) IDH a través de la oficina correspondiente.
+c) DIF-Chiapas, a través de la oficina correspondiente.
 
 III. Sector capacitación y trabajo:
 
-a) Secretaría de Administración;
+a) Secretaría del Trabajo;
 
-b) Secretaría de Desarrollo Económico, a través del Servicio Estatal de Empleo;
+b) Secretaría de Hacienda;
 
-c) Secretaría de Gobierno;
+c) Secretaría General de Gobierno;
 
-d) IDH Estatal a través de la oficina correspondiente;
+d) Secretaría de Economía;
+
+e) Secretaría de Desarrollo Social;
+
+f) Secretaría de Pueblos Indios;
+
+g) Instituto Estatal de las Mujeres;
+
+h) DIF-Chiapas, a través de la oficina correspondiente;
 
 IV. Sector Comunicación Social:
 
-a) Comunicación Social de Gobierno del Estado;
+a) Instituto de Comunicación Social e Información Pública;
 
-b) Sistema Chiapaneco de Radio y Televisión
+b) Sistema Chiapaneco de Radio, Televisión y Cinematografía;
 
-c) IDH Estatal a través de la oficina correspondiente.
+c) DIF-Chiapas, a través de la oficina correspondiente.
 
-V. Sector Recreación y Deporte:
+V. Sector recreación y deporte:
 
-a) Instituto del deporte;
+a) Instituto del Deporte;
 
-b) Secretaría de Turismo;
+b) Secretaría de Turismo y Relaciones Internacionales;
 
-c) IDH Estatal a través de la oficina correspondiente.
+c) DIF-Chiapas, a través de la oficina correspondiente.
 
-VI. Sector Cultural:
+VI. Sector cultural:
 
-a) Consejo Estatal para la Cultura y las Artes;
+a) Consejo Estatal para las Culturas y las Artes de Chiapas;
 
-b) IDH Estatal a través de la oficina correspondiente.
+b) Secretaría de Pueblos Indios;
 
-VII. Sector Desarrollo Urbano:
+c) DIF-Chiapas, a través de la oficina correspondiente.
 
-a) Secretaría de Obras Públicas y Vivienda;
+VII. Sector desarrollo urbano:
 
-b) IDH Estatal a través de la oficina correspondiente.
+a) Secretaría de Infraestructura.
 
-VIII. Sector Proyectos Legislativos:
+b) Secretaría de Seguridad y Protección Ciudadana;
 
-a) Secretaría de Gobierno a través de la Dirección de Asuntos Jurídicos;
+c) DIF-Chiapas, a través de la oficina correspondiente.
 
-b) Fiscalía General del Estado;
+VIII. Sector proyectos legislativos:
 
-c) Secretaría de Planeación y Finanzas;
+a) Secretaría General de Gobierno;
 
-e) IDH Estatal, a través de la oficina correspondiente.
+b) Procuraduría General de Justicia del Estado;
+
+c) Secretaría de Hacienda;
+
+d) DIF-Chiapas, a través de la oficina correspondiente.
+
+Será invitado permanente a las sesiones de la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, el Instituto de la Consejería Jurídica y de Asistencia Legal y la Comisión de los Derechos Humanos y cuando se considere pertinente, las instituciones del ámbito federal.
 
 ###### Artículo 204.
 
@@ -2379,7 +2597,9 @@ Al sector proyectos legislativos, le corresponde promover la actualización del 
 
 La Comisión para las personas con discapacidad del Estado de Chiapas, queda integrada de la siguiente manera:
 
-I. Un presidente, que será el Director General del IDH;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+I. Un presidente, que será el Director General del DIF-Chiapas;
 
 II. Un Secretario Técnico, que será el Secretario de Salud;
 
@@ -2393,7 +2613,9 @@ b) El representante del Sistema Estatal de Salud;
 
 c) El representante del Sistema Estatal de Seguridad Pública;
 
-d) El representante del Consejo Estatal para la Cultura y las Artes;
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+d) El representante del Consejo Estatal para las Culturas y las Artes de Chiapas;
 
 e) El representante del Instituto del Deporte;
 
@@ -2403,7 +2625,9 @@ g) Los representantes de las asociaciones políticas, filantrópicas y religiosa
 
 h) Los representantes de los organismos privados que tengan relación con la materia;
 
-i) El representante de la Fiscalía General del Estado;
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+i) El representante de la Procuraduría General de Justicia del Estado;
 
 j) Los representantes de cada una de las Dependencias y Entidades de la Administración Pública Estatal, que tengan relación con el objeto de la Ley de la materia; y,
 
@@ -2523,17 +2747,21 @@ V. Nombre de la persona, que fungirá como representante ante la Comisión para 
 
 El certificado a que se refiere el Artículo anterior, deberá presentarse anualmente, ante la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, a efecto de refrendar el registro otorgado y adquirir representatividad ante la citada Comisión.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 225.
 
-EI IDH, según sea el caso, a través de la Procuraduría, actuando como instancia conciliatoria, atenderá las controversias que involucren los derechos de las personas con discapacidad, incluyendo menores de edad o los casos de violencia familiar que padezcan, para dar la solución correspondiente. De advertir, que se trata de posibles violaciones a los derechos humanos, procederá a tramitar la queja ante la Comisión Nacional o Estatal de Derechos Humanos.
+El DIF-Chiapas, según sea el caso, a través de la Procuraduría, actuando como instancia conciliatoria, atenderá las controversias que involucren los derechos de las personas con discapacidad, incluyendo menores de edad o los casos de violencia familiar que padezcan, para dar la solución correspondiente. De advertir, que se trate de posibles violaciones a los derechos humanos, procederá a tramitar la queja ante las Comisiones Nacional o Estatal de los Derechos Humanos.
 
 ## Título Tercero (sic). De la Vigilancia, Infracciones, Sanciones y los Recursos
 
 ### Capítulo I. De la Coordinación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 226.
 
-EI IDH, promoverá e impulsará que las autoridades competentes del Estado, vigilen los derechos de las personas con discapacidad e impongan las sanciones por las violaciones al presente Código, y demás disposiciones que de ella emanen, en el ámbito de sus respectivas competencias.
+El DIF-Chiapas, promoverá e impulsará que las autoridades competentes del Estado, vigilen los derechos de las personas con discapacidad e impongan las sanciones por las violaciones al presente Código, y demás disposiciones que de ella emanen, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 227.
 
@@ -2547,21 +2775,27 @@ III. Multa equivalente de 50 a 100 veces el salario mínimo vigente en el Estado
 
 IV. Si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa será equivalente a un día de su jornal, salario o ingreso diario, tratándose de personas desempleadas sin ingresos, la multa máxima será el equivalente a un día de salario mínimo.
 
-Será competencia exclusiva de la Secretaría de Planeación y Finanzas, la recaudación de las multas que sean impuestas por infracción a la inobservancia del presente Código.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+Será competencia exclusiva de la Secretaría de Hacienda, la recaudación de las multas que sean impuestas por infracción a la inobservancia del presente Código.
 
 ###### Artículo 228.
 
 Para la imposición de sanciones se observará lo dispuesto en las leyes hacendarías del Estado, considerándose crédito fiscal toda sanción económica, impuesta por infracciones al presente Código y demás disposiciones que de ella emanen.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 229.
 
-Contra las resoluciones en las que se impongan sanciones contenidas en este Código, procederá el recurso previsto en la Ley de Justicia Administrativa para el Estado de Chiapas.
+Contra las resoluciones en las que se impongan sanciones contenidas en este Código, procederá el recurso de revisión previsto por la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
 # Libro Quinto. De los Derechos de las Personas Adultas Mayores en el Estado
 
 ## Título Primero. Disposiciones Generales
 
 ### Capítulo I. De su Integración
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 230.
 
@@ -2599,13 +2833,17 @@ c) Fomentar la participación, así como apoyar la actividad de las organizacion
 
 Las dependencias estatales y municipales dentro de sus planes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a los adultos mayores.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 235.
 
-Corresponderá al IDH, promover la interrelación sistemática de acciones en favor de los Adultos Mayores que llevan a cabo las instituciones públicas, además de operar programas que trasciendan en el desarrollo humano de los adultos mayores.
+Corresponderá al DIF-Chiapas, promover la interrelación sistemática de acciones en favor de los adultos mayores que llevan a cabo las Instituciones Públicas, además de operar programas que trasciendan en el desarrollo humano de los adultos mayores.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 236.
 
-El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y el IDH, promoverá, ejecutará y coordinará con la federación y los municipios, convenios de colaboración, para que las instituciones públicas de salud y asistencia social implementen programas preventivos hacia la vejez, brinden información gerontológico disponible en los ámbitos médico, socioeconómico, jurídico y demás relativos, con el objeto de incrementar la cultura de los adultos mayores.
+El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y el DIF-Chiapas, promoverá, ejecutará y coordinará con la Federación y los Municipios, convenios de colaboración, para que las instituciones públicas de salud y asistencia social implementen programas preventivos hacia la vejez, brinden información gerontológica disponible en los ámbitos médico, socioeconómico, jurídico y demás relativos, con el objeto de incrementar la cultura de los adultos mayores.
 
 ## Título Segundo. De los Principios y Derechos
 
@@ -2713,6 +2951,8 @@ Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o so
 
 ### Capítulo I. De la Vigilancia
 
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 239.
 
 la familia del adulto mayor deberá cumplir su función social, por lo tanto, de manera constante y permanente deberá hacerse cargo de cada una de las personas adultas mayores que formen parte de ella, conociendo sus necesidades, proporcionándoles los elementos necesarios para su atención integral.
@@ -2749,15 +2989,19 @@ Los adultos mayores tendrán derecho a ser cuidados por sus descendientes, así 
 
 Los adultos mayores tendrán derecho a permanecer en el seno de una familia, siempre que se les asegure la convivencia familiar y comunitaria. Cuando el cumplimiento de éste derecho peligre por razones socioeconómicas, ambientales y de salud, las instituciones públicas competentes procurarán las oportunidades que se requieran para superar la problemática familiar, así como la capacitación y orientación de los descendientes.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 246.
 
-Los adultos mayores no podrán ser separados de su familia, salvo en circunstancias especiales determinadas por la Ley. En este caso, tendrán derecho a la protección y asistencia jurídica por parte del IDH.
+Los adultos mayores no podrán ser separados de su familia, salvo en circunstancias especiales determinadas por la Ley. En este caso, tendrán derecho a la protección y asistencia jurídica por parte del DIF-Chiapas.
 
 ###### Artículo 247.
 
 La medida cautelar administrativa de protección, tendiente a remover temporalmente del seno familiar a la persona adulta mayor, sólo se aplicará, cuando la conducta que la originó sea atribuible a alguien que conviva con ella y no exista otra alternativa.
 
-Si no existiera otra alternativa que remover de la casa al adulto mayor para su ubicación temporal, deberán tenerse en cuenta, en primer término, a la familia en línea descendiente o colateral; o con las personas con quienes mantenga lazos afectivos. Agotados estos recursos, se procederá a ubicarlo en los programas que para este efecto promueva y gestionen las entidades facultadas para realizarlo, o en su caso, en la Casa Hogar del IDH.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+Si no existiera otra alternativa que remover de la casa al adulto mayor para su ubicación temporal, deberán tenerse en cuenta, en primer término, a la familia en línea descendiente o colateral; o con las personas con quienes mantenga lazos afectivos. Agotados estos recursos, se procederá a ubicarlo en los programas que para este efecto promueva y gestionen las Entidades facultadas para realizarlo, o en su caso, en la casa hogar del DIF-Chiapas.
 
 Siempre deberá informarse al adulto mayor, en forma adecuada, sobre los motivos que justifican la aplicación de la medida cautelar y se escuchará su opinión.
 
@@ -2777,9 +3021,11 @@ III. Gastos por terapia o atención especializada, en gerontología, geriatría 
 
 IV. Gastos funerarios.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 250.
 
-Si el obligado preferente se ausentara, sufriera incapacidad temporal o imposibilidad de hecho para cumplir con el deber de brindar alimentos a un adulto mayor, el Estado le procurará brindar supletoriamente los alimentos por medio de la incorporación de éstas a procesos de promoción social y desarrollo humano, mediante programas interinstitucionales en los que, de acuerdo con su situación particular, intervendrán el IDH, gestionando su incorporación a las estancias para personas adultas mayores.
+Si el obligado preferente se ausentara, sufriera incapacidad temporal o imposibilidad del hecho para cumplir con el deber de brindar alimentos a un adulto mayor, el Estado le procurará brindar supletoriamente los alimentos por medio de la incorporación de éstas a procesos de promoción social y desarrollo humano, mediante programas institucionales en los que de acuerdo con su situación particular, intervendrá el DIF-Chiapas, gestionando su incorporación a las estancias para personas adultas mayores.
 
 ###### Artículo 251.
 
@@ -2795,13 +3041,17 @@ Corresponde a los grupos de la sociedad civil organizada de adultos mayores, par
 
 Los descendientes o el encargado del adulto mayor, estarán obligados a velar por su estado físico, intelectual, moral, afectivo, espiritual y social.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 254.
 
-Cuando los descendientes descuiden o abandonen a una persona adulta mayor, el IDH denunciará esta situación al Fiscal del Ministerio Público, quien realizará las investigaciones correspondientes; en caso de abandono el Representante Social solicitará aI IDH, en auxilio de sus funciones, se ingrese al adulto mayor a un centro asistencia.
+Cuando los descendientes descuiden o abandonen a una persona adulta mayor, el DIF-Chiapas denunciará esta situación al Fiscal del Ministerio Público, quien realizará las investigaciones correspondientes; en caso de abandono, el representante social solicitará al DIF-Chiapas, en auxilio de sus funciones, se ingrese al adulto mayor a un centro asistencial.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 255.
 
-La Secretaría de Desarrollo Social en coordinación con el IDH, deberá tomar las medidas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo.
+La Secretaría de Desarrollo Social, en coordinación con el DIF-Chiapas deberá tomar las medidas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo.
 
 ## Título Cuarto. De las Facultades y Obligaciones de las Autoridades
 
@@ -2883,7 +3133,9 @@ I. Garantizar el acceso a la atención médica en las clínicas y hospitales, co
 
 II. Proporcionarles una cartilla médica de auto-cuidado que será utilizada indistintamente en las instituciones públicas y privadas, en la cual se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos administrados, reacciones secundarias e implementos para aplicar/os, tipo de dieta suministrada, consultas médicas y asistencia a grupos de auto-cuidado;
 
-III. En coordinación con el lDH del Estado y Municipios, implementará programas con el objeto de proporcionar los medicamentos que necesiten para mantener un buen estado de salud;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+III. En coordinación con el DIF-Chiapas y los DIF Municipales, implementará programas con el objeto de proporcionar los medicamentos que necesiten para mantener un buen estado de salud;
 
 IV. Fomentar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de los adultos mayores; y,
 
@@ -2947,39 +3199,49 @@ Los adultos mayores tienen derecho a participar de manera activa, en las festivi
 
 En todo momento, el adulto mayor tiene la libre opción de integrarse a las actividades implementadas para la población en general, o las específicas para ellos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ### Capítulo II. Del Poder Ejecutivo
 
 ###### Artículo 276.
 
-Corresponde a la Secretaría de Desarrollo Económico:
+La Secretaría de Economía en coordinación con la Secretaría de Turismo y Relaciones Internacionales, promoverán actividades de recreación y turismo con tarifas preferentes, diseñadas para personas adultas mayores.
 
-I. Implementar los programas necesarios, a efecto de promover el empleo para los adultos mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio, experiencia o conocimientos teóricos y prácticos; y,
+Para tal efecto, se realizarán acciones respectivas a fin de que en parques, jardines, kioscos, plazas públicas, teatros al aire libre y demás lugares públicos destinados a la recreación, se cuente con espacios y actividades que faciliten la integración de los adultos mayores.
 
-II. Impulsar programas de autoempleo para los adultos mayores, de acuerdo a su profesión u oficio a través de apoyos financieros, de capitalización y la creación de redes de producción, distribución y comercialización.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 277.
 
-La Secretaría de Desarrollo Económico en coordinación con la de Desarrollo Social, promoverán actividades de recreación y turismo con tarifas preferentes, diseñadas para personas adultas mayores.
+Para garantizar el derecho a la recreación y turismo, la Secretaría de Economía en coordinación con la Secretaría de Turismo y Relaciones Internacionales, difundirá permanentemente, a través del Instituto de Comunicación Social del Estado de Chiapas, las actividades que se realizan a favor de los adultos mayores.
 
-Para tal efecto, se realizarán acciones respectivas a fin de que en parques, jardines, kioscos, plazas públicas, teatros al aire libre y demás lugares públicos destinados a la recreación, se cuente con espacios y actividades que faciliten la integración de los adultos mayores.
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ### Capítulo III. De la Secretaría de Desarrollo Social
 
 ###### Artículo 278.
 
-Para garantizar el derecho a la recreación y turismo, la Secretaría de Desarrollo Económico en coordinación con la Secretaría de Turismo, difundirá permanentemente, a través de los medios masivos de comunicación, las actividades, que se realizan a favor de los adultos mayores.
+Corresponde a la Secretaría del Trabajo:
+
+I. Implementar los programas necesarios, a efecto de promover el empleo para los adultos mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio, experiencia o conocimientos teóricos y prácticas; e,
+
+II. Impulsar programas de autoempleo para los adultos mayores, de acuerdo a su profesión u oficio a través de apoyos financieros, de capitalización y la creación de redes de producción, distribución y comercialización.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ### Capítulo IV. De la Secretaría de Salud
 
 ###### Artículo 279.
 
-Corresponde al IDH, en materia de adultos mayores:
+Corresponde al DIF-Chiapas, en materia de adultos mayores:
 
 I. Proporcionar en forma gratuita los servicios de asistencia y orientación jurídica, en especial aquellos que se refieren a su integridad y la seguridad de su patrimonio;
 
 II. Realizar programas de prevención y protección para los adultos mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
 
-III. Coadyuvar con la Fiscalía General del Estado, en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+III. Coadyuvar con la Procuraduría General de Justicia del Estado, en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
 
 IV. Impulsar y promover el reconocimiento y ejercicio de los derechos de los adultos mayores;
 
@@ -2999,7 +3261,7 @@ XI. Las demás que le confieran otros ordenamientos jurídicos.
 
 ## Título Quinto. Del Consejo para la Integración de las Personas Adultas Mayores del Estado
 
-### Capítulo Único. Del Proceso Especial de Protección ante la Procuraduría del Instituto de Desarrollo Humano
+### Capítulo Único. De su Naturaleza, Objeto y Atribuciones
 
 ### Capítulo V. De la Secretaría de Educación
 
@@ -3007,35 +3269,39 @@ XI. Las demás que le confieran otros ordenamientos jurídicos.
 
 Se crea el Consejo para la Integración de los Adultos Mayores del Estado, como un órgano honorario de consulta, asesoría y evaluación de acciones de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración y desarrollo de los adultos mayores.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 281.
 
-El Consejo estará integrado por los Titulares de:
+El Consejo estará integrado por los titulares de:
 
 I. La Secretaría de Desarrollo Social, quien fungirá como su Presidente;
 
-II. El Instituto de Desarrollo Humano, quien fungirá como Secretario Técnico;
+II. El DIF-Chiapas, quien fungirá como Secretario Técnico;
 
 III. La Secretaría de Salud;
 
 IV. La Secretaría de Educación;
 
-V. La Secretaría de Desarrollo Económico;
+V. La Secretaría de Economía;
 
-VI. La Secretaría de Seguridad Pública;
+VI. La Secretaría de Seguridad y Protección Ciudadana;
 
 VII. La Secretaría de Pueblos Indios;
 
-VIII. La Fiscalía General del Estado;
+VIII. La Secretaría del Trabajo;
 
-IX. El Instituto del Deporte;
+IX. La Procuraduría General de Justicia del Estado;
 
-X. El Instituto de Seguridad Social para los Trabajadores al Servicio del Estado;
+X. El Instituto del Deporte;
 
-XI. El Consejo Estatal de Población; y,
+XI. El Instituto de Seguridad Social para los Trabajadores al Servicio del Estado;
 
-XII. Los Diputados del H. Congreso del Estado, de las Comisiones relacionadas con la materia.
+XII. El Instituto de Población y Ciudades Rurales; y,
 
-Los titulares de las Dependencias antes señaladas, podrán nombrar a un representante del nivel jerárquico inmediato, quienes asistirán de manera permanente a las sesiones del Consejo.
+XIII. Los Diputados del H. Congreso del Estado, de las Comisiones relacionadas con la materia.
+
+Los titulares de las dependencias antes señaladas, podrán nombrar a un representante del nivel jerárquico inmediato, quienes asistirán de manera permanente a las sesiones del Consejo.
 
 El Consejo podrá invitar también, con la aprobación de la mayoría de sus integrantes, a que asistan a las sesiones que celebre, a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de adultos mayores, mismos que tendrán derecho a voz pero no a voto.
 
@@ -3109,17 +3375,25 @@ XI. Realizar los trabajos que le encomiende el Presidente del Consejo.
 
 La integración de los grupos de trabajo, sus atribuciones y las sesiones del Consejo, serán definidas en el reglamento que al efecto se expida.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 287.
 
-Con el objeto de proteger en cada uno de los Municipios del Estado, los derechos de los adultos mayores, los Ayuntamientos establecerán el Consejo Municipal para la Integración de las Personas Adultas Mayores, el cual será presidido por el Presidente Municipal e Integrado por el IDH, o, en su caso, el organismo denominado DIF existente en cada municipio, así como por las autoridades que realicen funciones relacionadas con el desarrollo social, salud, educación y seguridad pública.
+Con el objeto de proteger en cada uno de los municipios del Estado, los derechos de los adultos mayores, los Ayuntamientos establecerán el Consejo Municipal para la Integración de las Personas Adultas Mayores, el cual será presidido por el Presidente Municipal e integrado por el DIF Municipal, así como por las autoridades que realicen funciones relacionadas con el desarrollo social, salud, educación y seguridad pública.
 
-El Presidente Municipal podrá invitar a participar en el Consejo, a representantes del IDH, las Secretarías de Salud, Desarrollo Social, Educación, Seguridad Pública, Pueblos Indios, Fiscalía General del Estado, Consejo Estatal de Población, Instituto del Deporte; así como a representantes de organizaciones sociales y privadas dedicadas a la atención de los adultos mayores.
+El Presidente Municipal podrá invitar a participar en el Consejo, a representantes del DIF-Chiapas, de las Secretarías de Salud, de Desarrollo Social, de Educación, de Seguridad y Protección Ciudadana, de Pueblos Indios, de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales, del Instituto del Deporte; así como a representantes de organizaciones sociales y privadas dedicadas a la atención de los adultos mayores.
 
-## Título Sexto. Del Proceso Especial de Protección ante el Instituto de Desarrollo Humano
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-### Capítulo I. De las Reglas para la Imposición de Sanciones
+## Título Sexto. Del Proceso Especial de Protección ante el DIF-Chiapas
 
-### Capítulo VI. De la Secretaría de Desarrollo Económico
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
+### Capítulo Único. Del Proceso Especial de Protección ante la Procuraduría
+
+### Capítulo VI. De la Secretaría de Economía y la Secretaría de Turismo y Relaciones Internacionales
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 288.
 
@@ -3163,15 +3437,19 @@ I. Prevención escrita acerca de la violación o amenaza contra el derecho de qu
 
 II. Orden mediante la cual se aperciba el cese inmediato de la situación que viola o amenaza con violar el derecho en cuestión.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 296.
 
-Contra lo resuelto por la Procuraduría, podrá interponerse el recurso de revocación y se substanciará conforme a los dispuesto por la Ley de Justicia Administrativa del Estado de Chiapas.
+Contra lo resuelto por la Procuraduría, podrá interponerse el recurso que proceda de acuerdo a lo dispuesto por la Ley de Procedimientos Administrativos para el Estado de Chiapas y se substanciará conforme a la misma.
 
 ## Título Séptimo. De las Sanciones
 
-### Capítulo II. De las Sanciones y Medidas de Seguridad
+### Capítulo I. De las Reglas para la Imposición de Sanciones
 
-### Capítulo VII. Del Instituto de Desarrollo Humano
+### Capítulo VII. De la Secretaría del Trabajo
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 297.
 
@@ -3185,7 +3463,11 @@ III. La magnitud del daño ocasionado; y,
 
 IV. La reincidencia del infractor.
 
-### Capítulo Único. De su Naturaleza, Objeto y Atribuciones
+### Capítulo II. De las Sanciones y Medidas de Seguridad
+
+### Capítulo VIII. Del Sistema para el Desarrollo Integral de la Familia
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 298.
 
@@ -3230,3 +3512,13 @@ Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintitrés días del mes de marzo del año dos mil seis.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.-. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El DIF-Chiapas y cada uno de los DIF municipales, en el ámbito de su competencia, realizará las acciones necesarias para que .los órganos colegiados previstos en este ordenamiento queden instalados a más tardar en noventa días contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
