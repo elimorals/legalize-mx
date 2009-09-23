@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-registro-publico-de-la-propiedad-y-del-56363"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-11"
-last_updated: "2009-01-07"
+last_updated: "2009-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, PUBLICADO EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 11 de julio del 2007.
 
@@ -1296,3 +1298,15 @@ PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de s
 SEGUNDO. Se deroga el artículo 2, y el Capítulo II del TÍTULO PRIMERO del Reglamento del Registro Público de la Propiedad y del Comercio del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4544 de fecha 11 de julio de 2007, y las disposiciones administrativas que se opongan al presente Reglamento.
 
 TERCERO. En el término de dieciocho meses contados a partir de la entrada en vigor del presente instrumento, el Instituto deberá ajustar sus Manuales de Organización al mismo.
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento del Registro Público de la Propiedad y del Comercio del Estado de Morelos, publicado el día once de julio del año dos mil siete, en el Periódico Oficial "Tierra y Libertad" número 4544.
+
+TERCERO.- Se derogan las disposiciones administrativas de rango igual o inferior que se opongan al presente Reglamento.
+
+CUARTO.- Las facultades conferidas al Director del Registro Público de la Propiedad en la Ley del Registro Público de la Propiedad y del Comercio del Estado, se entenderán conferidas al Director General del Instituto.
+
+QUINTO.- En un plazo no mayor a 90 días la Dirección General del Instituto del Registro Público de la Propiedad y del Comercio del Estado de Morelos, deberá publicar en el Periódico Oficial, el Catálogo de trámites y servicios, requisitos y tiempos de respuesta.
