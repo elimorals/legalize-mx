@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-de-energias-alternativas-66152"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-31"
-last_updated: "2009-05-13"
+last_updated: "2009-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA DEL INSTITUTO DE ENERGIAS ALTERNATIVAS, RENOVABLES, BIOCOMBUSTIBLES Y ENERGIAS ELECTRICAS DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de diciembre de 2008.
 
@@ -137,23 +137,25 @@ II. La Dirección General.
 
 La Junta de Gobierno es el Órgano Supremo de Gobierno del «Instituto», responsable de fijar las políticas, programas, objetivos y metas del organismo, así como, de evaluar sus resultados operativos, administrativos, financieros y en general, el desarrollo de sus actividades.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 9.
 
-La Junta de Gobierno del Instituto se integrará por:
+La Junta de Gobierno del Instituto se Integrará por:
 
-I. Un Presidente, que será el Titular de la Secretaría para el Desarrollo de la Frontera Sur.
+I. Un Presidente, que será el Titular de la Secretaría de Hacienda.
 
-II. Un Secretario Técnico, que será el funcionario del «Instituto», que determine la propia Junta de Gobierno.
+II. Un Secretario Técnico, que será el funcionario del “Instituto”, que determine la propia Junta de Gobierno.
 
-III. Tres Vocales, que serán:
+III. Tres Vocales que serán:
 
-a).- El Secretario de Hacienda.
+a) El Secretario para el Desarrollo de la Frontera Sur.
 
-b).- El Secretario de Medio Ambiente y Vivienda.
+b) El Secretario de Medio Ambiente y Vivienda.
 
-c).- El Secretario del Campo.
+c) El Secretario del Campo.
 
-Los integrantes de la Junta de Gobierno, contarán con voz y voto, y podrán designar a un representante con cargo mínimo de Director o su equivalente, debidamente acreditado por éstos ante la propia Junta, quienes contarán también con voz y voto.
+Los Integrantes de la Junta de Gobierno, contarán con voz y voto, y podrán designar a un representante con cargo mínimo de director o su equivalente, debidamente acreditado por estos ante la propia Junta, quienes contarán también con voz y voto.
 
 ###### Artículo 10.
 
@@ -318,3 +320,11 @@ Artículo Tercero.- Las referencias, atribuciones o menciones que hagan otros or
 Artículo Cuarto.- En un plazo no mayor de noventa días naturales siguientes a la entrada en vigor del presente decreto, el Director del Instituto de Energías Alternativas, Renovables, Biocombustibles y Eléctricas del Estado de Chiapas, deberá someter a la consideración de la Junta de Gobierno, el proyecto de Reglamento Interior del Instituto, para su aprobación, debiendo ser enviado al Titular del Ejecutivo del Estado para los efectos de su expedición y publicación correspondiente.
 
 Artículo Quinto.- Las Dependencias normativas en el ámbito de sus respectivas competencias, realizarán las acciones técnico-administrativas necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 23 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
+
+Artículo Tercero.- El Ejecutivo dispondrá se publique, circule y se le dé el debido cumplimiento.
