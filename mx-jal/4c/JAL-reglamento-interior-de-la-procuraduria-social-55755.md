@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-procuraduria-social-55755"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-19"
-last_updated: "2007-10-04"
+last_updated: "2009-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA PROCURADURIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 19 de mayo de 2007.
 
@@ -47,9 +47,11 @@ REGLAMENTO INTERIOR DE LA PROCURADURÍA SOCIAL
 
 La Procuraduría Social como dependencia del Poder Ejecutivo Estatal, tiene a su cargo las funciones y el despacho de los asuntos que expresamente le encomiende la Constitución Política del Estado de Jalisco, la Ley Orgánica de la Procuraduría Social, el presente ordenamiento y demás disposiciones legales, así como los acuerdos y lineamientos emanados del Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 2°.
 
-Este reglamento tiene por objeto desarrollar las disposiciones orgánicas y potestativas que establece la Ley a cargo de la Procuraduría.
+Este reglamento tiene por objeto determinar la competencia, facultades y obligaciones de los servidores públicos de la Procuraduría Social, así como los lineamientos operativos que rigen el actuar de dicha dependencia.
 
 ###### Artículo 3º.
 
@@ -79,15 +81,37 @@ IV. Representar a la Procuraduría en los juicios en que sea parte la misma, as�
 
 V. Instruir se efectúen los acuerdos administrativos emitidos por la Procuraduría, relativos a procedimientos administrativos instaurados con motivo de las irregularidades detectadas en las dependencias u oficinas visitadas;
 
-VI. Instruir la realización de estudios y emisión de opiniones y dictámenes derivados de consultas jurídicas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-VII. Presidir el Comité de Clasificación de Información Pública directamente o a través de quien él designe;
+VII. Presidir el Comité de Clasificación de Información Pública por sí o a través del servidor público que designe;
 
-VIII. Proponer medidas que se consideren convenientes, para el mejoramiento de la impartición y procuración de justicia, así como las reformas legales necesarias para el funcionamiento de la Procuraduría Social;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-IX. Expedir los manuales de organización y de operación de la Procuraduría; y
+VIII. Proponer las medidas que se consideren convenientes para el mejoramiento de la impartición y procuración de justicia, así como las reformas legales necesarias para el funcionamiento de la Procuraduría;
 
-X. Las demás que le confieran disposiciones legales aplicables y las que le otorgue el Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Expedir los manuales de operación y funcionamiento de la Procuraduría;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+X. Determinar las normas de control y evaluación técnico jurídica de las unidades administrativas y órganos de la Procuraduría, con base en las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+XI. Establecer las políticas y procedimientos en materia de reclutamiento, selección y designación del personal de la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+XII. Formular los lineamientos generales que normen las relaciones laborales de la dependencia conforme a la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+XIII. Proporcionar, a través de las unidades administrativas respectivas, servicios periciales de parte a los usuarios de la Procuraduría Social que reciban patrocinio o defensoría legal por conducto de las Subprocuradurías respectivas, de conformidad con el presente Reglamento; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+XIV. Las demás que le confieran las disposiciones legales atinentes, así como las que le otorgue el Ejecutivo del Estado.
 
 ###### Artículo 5°.
 
@@ -95,7 +119,9 @@ Para el desarrollo de sus funciones, la Procuraduría podrá coordinar sus activ
 
 ### CAPÍTULO III. DE LAS SUBPROCURADURÍAS Y DIRECCIONES GENERALES
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 6.
 
 La Procuraduría para el ejercicio de sus atribuciones, funciones y despacho, se integrará con las siguientes unidades administrativas:
 
@@ -107,19 +133,25 @@ III. Subprocuraduría de Servicios Jurídicos Asistenciales;
 
 IV. Coordinación General de Regiones;
 
-V. Coordinación Jurídica;
+V. Dirección General de Visitaduría;
 
-VI. Coordinación de Comunicación Social;
+VI. Dirección General Administrativa;
 
-VII. Dirección General Administrativa;
+VII. Coordinación Jurídica;
 
-VIII. Dirección General de Visitaduría; y
+VIII. Coordinación de Comunicación Social;
+
+IX. Coordinación de Planeación e Información;
+
+X. Dirección de Asuntos Internos; y
 
 XI. Aquellas unidades administrativas que se requieran y lo permita el presupuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 7°.
 
-Corresponde a los subprocuradores y directores generales las siguientes funciones y atribuciones:
+Corresponde a los subprocuradores y Directores Generales las siguientes funciones y atribuciones:
 
 I. Desempeñar las comisiones y ejecutar las instrucciones que el Procurador le delegue y encomiende, y mantenerlo informado sobre el desarrollo de sus actividades;
 
@@ -137,7 +169,9 @@ VII. Proponer al Procurador la delegación de las facultades que estime necesari
 
 VIII. Proponer al Procurador la firma de convenios de coordinación y concertación para facilitar la consecución de las funciones atribuidas a su respectiva área;
 
-IX. Informar a la unidad administrativa competente, las irregularidades en que incurran los servidores públicos a su cargo en el desempeño de sus funciones, así como sobre los hechos delictivos en que puedan incurrir y que fueren de su conocimiento;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Informar a la unidad administrativa competente, las irregularidades en que incurran los servidores públicos a su cargo en el desempeño de sus funciones, así como acerca de los hechos delictivos en que éstos puedan incurrir y que fueren de su conocimiento;
 
 X. Elaborar los Manuales de Procedimientos de las Unidades Administrativas de su adscripción, con apoyo de la Dirección General Administrativa, los cuales deberán ser validados por el Procurador; y
 
@@ -145,9 +179,11 @@ XI. Las demás que le señalen el Procurador y las demás disposiciones legales 
 
 #### SECCIÓN I. DE LA SUBPROCURADURÍA DE LA DEFENSORÍA DE OFICIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 8°.
 
-Además de lo dispuesto por el Título Segundo, Capítulo Segundo de la Ley, son atribuciones y facultades del Subprocurador de la Defensoría de Oficio las siguientes:
+Además de lo dispuesto por la Ley, son atribuciones y facultades del Subprocurador de la Defensoría de Oficio las siguientes:
 
 I. Proporcionar la defensa legal, organizando el sistema estatal de defensoría de oficio, de conformidad con la Ley;
 
@@ -161,9 +197,17 @@ V. Coordinar la prestación de los servicios de los agentes de la Subprocuradur�
 
 VI. Rendir al Procurador un informe mensual de actividades, así como cuando éste lo solicite;
 
-VII. Realizar visitas periódicas a las áreas de trabajo de los servidores públicos adscritos a la Subprocuraduría, informándose de la atención que los mismos dediquen a los asuntos que tengan encomendados; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-VIII. Celebrar juntas con los servidores públicos adscritos a la Subprocuraduría, con los coordinadores regionales y demás servidores públicos de la Procuraduría que se requiera para el buen funcionamiento de la misma.
+VII. Realizar visitas periódicas a las áreas de trabajo de los servidores públicos adscritos a la Subprocuraduría, informándose de la atención que los mismos dediquen a los asuntos que tengan encomendados;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. Celebrar juntas con los servidores públicos adscritos a la Subprocuraduría, con los coordinadores regionales y demás servidores públicos de la Procuraduría que se requiera para el buen funcionamiento de la misma; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Prestar el servicio de defensoría de oficio en materia familiar a los usuarios de la Procuraduría que lo soliciten.
 
 ###### Artículo 9°.
 
@@ -205,9 +249,17 @@ VIII. Atender con cortesía y profesionalismo a los usuarios;
 
 IX. Cumplir y hacer que el personal a su cargo, cumpla las obligaciones necesarias para que se brinde una defensa completa y eficaz;
 
-X. Organizar, dirigir, supervisar y despachar los asuntos del área a su cargo; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-XI. Las demás que le encomienden sus superiores.
+X. Organizar, dirigir, supervisar y despachar los asuntos del área a su cargo;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+XI. Supervisar que los agentes sociales a su cargo realicen adecuadamente sus funciones; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+XII. Las demás que le encomienden sus superiores.
 
 ###### Artículo 12.
 
@@ -225,7 +277,9 @@ V. Brindar defensa jurídica al inculpado y comparecer a todas las diligencias q
 
 VI. Contestar y formular las conclusiones a que se refiere el Código de Procedimientos Penales, en el momento procesal oportuno;
 
-VII. Comunicar a su defendido el estado procesal en que se encuentra su asunto, informar los requisitos para su libertad provisional bajo caución en caso de procedencia, así como aquellos para obtener los beneficios de preliberación que en su caso correspondan;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Comunicar a su defendido y, en su caso, a los familiares de éste, el estado procesal en que se encuentra su asunto, informar los requisitos para su libertad provisional bajo caución en caso de procedencia, así como aquellos para obtener los beneficios de preliberación que en su caso correspondan;
 
 VIII. Llevar el registro, control y expedientes de los asuntos en que intervenga; y
 
@@ -235,9 +289,9 @@ IX. Realizar las diligencias y demás promociones que sean necesarias para una a
 
 Son atribuciones especiales del Director de lo Familiar, las siguientes:
 
-> <small>(F. DE E., P.O. 23 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-I. Prestar el servicio de defensoría de oficio en materia familiar, a través de los agentes de los agentes de la Procuraduría, a las personas que lo soliciten o en los casos en los que el Estado o un órgano de éste demande a los particulares;
+I. Prestar el servicio de defensoría de oficio en materia familiar, a través de los agentes de la Procuraduría, a las personas que el Estado o un órgano de éste los demande. En los demás casos, se podrá otorgar el servicio de asistencia legal sólo a los particulares cuyos ingresos mensuales sean menores a cinco salarios mínimos, correspondientes al área geográfica correspondiente a la Zona Metropolitana de Guadalajara, lo cual se comprobará mediante el recibo de nómina correspondiente. En caso de no contar con comprobante de ingresos o recibo de nómina, se llevará a cabo el estudio socio económico de ingresos a que hace referencia el artículo 27 del presente Reglamento; y (sic)
 
 II. Verificar se lleve el control, registro y expediente de todos los procedimientos o asuntos en que intervengan, desde el inicio de su intervención, hasta que culmine ésta o el procedimiento;
 
@@ -245,9 +299,11 @@ III. Supervisar que los Agentes Sociales en los Juzgados de lo familiar realicen
 
 IV. Derivar a la parte defendida a trabajo social, cuando lo considere conveniente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 14.
 
-Son atribuciones de la Dirección de Defensa de Adolescentes, las siguientes:
+Son atribuciones del Director de Defensa de Adolescentes, las siguientes:
 
 I. Prestar el servicio de defensoría de oficio a los adolescentes y adultos jóvenes que se encuentren sujetos a los procedimientos a que se refiere la Ley de Justicia Integral para Adolescentes, cuando no cuenten con asistencia de un defensor particular;
 
@@ -297,11 +353,15 @@ IV. En su caso, coordinarse con las demás áreas, para que cuando haya violaci�
 
 #### SECCIÓN II. DE LA SUBPROCURADURÍA DE REPRESENTACIÓN SOCIAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 17.
 
-Además de lo dispuesto por el Título Segundo, Capítulo Cuarto de la Ley, son atribuciones y facultades del Subprocurador de Representación Social las siguientes:
+Además de lo dispuesto por la Ley, son atribuciones y facultades del Subprocurador de Representación Social las siguientes:
 
-l. Dirigir y coordinar la actuación de los agentes de la Procuraduría adscritos a juzgados y salas del Supremo Tribunal de Justicia del Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+l. Dirigir y coordinar la actuación de los agentes sociales de la Subprocuraduría de Representación Social comisionados a juzgados y salas del Supremo Tribunal de Justicia del Estado;
 
 II. Intervenir con el carácter de representante social, ante los órganos correspondientes, para la protección de los intereses individuales y sociales, en los términos de la Ley;
 
@@ -311,17 +371,21 @@ IV. Iniciar procesos y ejercitar acciones legales, como representante del inter�
 
 V. Apersonarse en su carácter de representante social en los juicios y procedimientos en que existan intereses privados y públicos que afecten derechos de menores, incapaces, ausentes y adultos mayores; y
 
-VI. Vigilar que toda medida que el Estado adopte frente a los adolescentes que realizan conductas ilícitas, deba interpretarse y aplicarse siempre en el sentido de fortalecer los derechos de aquéllos.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Vigilar que toda medida que el Estado adopte frente a los adolescentes, deba interpretarse y aplicarse siempre en el sentido de fortalecer los derechos de aquéllos.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 18.
 
 La Subprocuraduría contará con las siguientes direcciones y coordinación:
 
-I. Dirección de lo Civil;
+I. Dirección de lo Civil, Mercantil y Segunda Instancia;
 
-II. Dirección de lo Familiar y Atención a Adolescentes;
+II. Dirección de Representación Social en Materia Familiar;
 
-III. Dirección de Segunda Instancia y lo Laboral; y
+III. Dirección de Atención a Niñas, Niños, Adolescentes, Adultos Mayores, Incapaces y Violencia Intrafamiliar; y
 
 IV. Coordinación de Archivos Notariales.
 
@@ -333,19 +397,29 @@ I. Organizar, dirigir, supervisar y despachar los asuntos del área a su cargo;
 
 II. Vigilar en su carácter de representación social, el respeto a los derechos de los menores de edad, incapaces y adultos mayores;
 
-III. Intervenir en todos los procedimientos que por ley corresponda en su carácter de representante social; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-IV. Representar los derechos de los menores, incapaces, ausentes y adultos mayores.
+III. Intervenir en todos los procedimientos que por ley corresponda en su carácter de representante social;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Representar los derechos de los menores, incapaces, ausentes y adultos mayores; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+V. Supervisar que los agentes sociales a su cargo realicen adecuadamente sus funciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 20.
 
-Son atribuciones especiales del Director de lo Civil, las siguientes:
+Son atribuciones especiales del Director de lo Civil, Mercantil y de Segunda Instancia, las siguientes:
 
-I. Representar los derechos e intereses de las personas que por disposición de la
+I. (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 2009)
 
-Ley le competan;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-II. Intervenir en los procesos civiles en los términos de la Ley de la materia;
+II. Intervenir en los procesos civiles, mercantiles y de segunda instancia en los términos de la legislación aplicable en la materia;
 
 III. Promover las acciones y defensas que le competen en términos de diversas disposiciones legales;
 
@@ -355,27 +429,31 @@ V. Desahogar las audiencias y diligencias que sean de su competencia; y
 
 VI. Representar los derechos a intereses de las personas que por disposición de la Ley le competan.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 21.
 
-Son atribuciones del Director de lo Familiar y Atención a Adolescentes, las siguientes:
+Son atribuciones del Director de Representación Social en Materia Familiar, las siguientes:
 
-I. Informar al Consejo Estatal de Familia, a los Sistemas de Desarrollo Integral de la Familia, organismos asistenciales y demás dependencias u organismos competentes, los asuntos en los que se vean afectados menores de edad, incapaces y adultos mayores, para que reciban la atención correspondiente;
+I. Intervenir en los procesos familiares en los términos de la Ley de la materia;
 
-II. Coordinarse con los diferentes organismos gubernamentales y no gubernamentales para la canalización y atención a las personas que por disposición de las leyes de la materia competa a la Procuraduría;
+II. Representar los derechos e intereses de las personas que por disposición de la Ley le competan;
 
-III. Verificar que se realicen las acciones necesarias para rehabilitar y atender como sujetos prioritarios de asistencia social, respetándoles sus derechos fundamentales a los menores de doce años, a quienes se compruebe o atribuya la realización de un hecho delictuoso; y
+III. Desahogar las audiencias y diligencias que sean de su competencia; y
 
-IV. Recibir y atender las denuncias por violaciones a los derechos de los menores de edad, adultos mayores e incapaces que sean presentadas por parte de los particulares u organismos públicos, en los términos previstos por las leyes y, en su caso, ejercitar las acciones que correspondan.
+IV. Vigilar en su carácter de representación social, el respeto a los derechos de los menores de edad, incapaces y adultos mayores.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 22.
 
-Son atribuciones de la Dirección de Segunda Instancia y lo Laboral, las siguientes:
+Son atribuciones especiales del Director de Atención a Niñas, Niños, Adolescentes, Adultos Mayores, Incapaces, Mujeres y Violencia Intrafamiliar, las siguientes:
 
-I. Vigilar que en los conflictos individuales que se susciten entre los Titulares de las dependencias y entidades públicas y sus trabajadores, se respeten los derechos laborales; y
+I. Coordinarse con los diferentes organismos gubernamentales y no gubernamentales para la canalización y atención a las personas que por disposición de las leyes de la materia competa conocer a la Procuraduría;
 
-II. Prestar el servicio de defensoría de oficio en materia laboral burocrático cuando así lo soliciten y no cuenten con asistencia de un defensor particular.
+II. Recibir y atender las denuncias por violaciones a los derechos de los menores de edad, adultos, incapaces, mujeres y por violencia intrafamiliar y, en su caso, ejecutar las acciones que correspondan; y
 
-La Procuraduría queda exceptuada de intervenir en las controversias o conflictos en materia de relaciones de trabajo que se susciten entre los servidores públicos que presten sus servicios en los tribunales y Consejo de la Judicatura y del Instituto Electoral del Estado de Jalisco, y las controversias o conflictos de carácter colectivo.
+III. Las demás que determinen los ordenamientos jurídicos aplicables.
 
 ###### Artículo 23.
 
@@ -385,9 +463,17 @@ I. Recibir los avisos que los notarios públicos deben dar en los términos de l
 
 II. Archivar y clasificar en forma sistemática y ordenada los avisos que los notarios públicos le presenten en cumplimiento de sus obligaciones y demás documentación propia de la Procuraduría, garantizando su conservación y fácil consulta;
 
-III. Tomar las medidas necesarias para preservar el acervo del archivo, y controlar su consulta en los términos del presente reglamento; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-IV. Brindar una orientación amplia y eficiente a los usuarios de los servicios del archivo.
+III. Tomar las medidas necesarias para preservar el acervo del archivo, y controlar su consulta en los términos del presente reglamento;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Brindar una orientación amplia y eficiente a los usuarios de los servicios del archivo; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+V. Rendir los informes que le soliciten las autoridades competentes.
 
 #### SECCIÓN III. DE LA SUBPROCURADURÍA DE SERVICIOS JURÍDICOS ASISTENCIALES
 
@@ -401,7 +487,9 @@ II. Establecer mecanismos de coordinación y concertación con los sectores púb
 
 III. Promover y desarrollar, en caso de que así lo convengan las partes, los métodos alternos para la solución de los conflictos que se le planteen en los términos de la ley de la materia; y
 
-IV. Brindar servicios de asesoría legal y patrocinio, gratuitos, en los asuntos legales del orden civil y mercantil, cuando las personas que soliciten el servicio cumplan las condiciones y requisitos que fija el presente reglamento y las leyes de la materia.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Brindar servicios de asesoría legal y patrocinio, gratuitos, en los asuntos legales del orden civil, mercantil y laboral burocrático, siempre y cuando las personas que soliciten el servicio cumplan las condiciones y requisitos que fija el presente reglamento y las leyes de la materia.
 
 ###### Artículo 25.
 
@@ -421,13 +509,23 @@ Son atribuciones de las direcciones en general:
 
 l. Organizar, dirigir, supervisar y despachar los asuntos del área a su cargo;
 
-II. Vigilar se preste el servicio de asesoría jurídica asistencial en las áreas de su competencia preferentemente a los sujetos de asistencia social, en los términos del Código de Asistencia Social; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-III. Brindar asistencia legal, y en su caso, patrocinio en los asuntos judiciales del área de su competencia, a las personas que reciban ingresos mensuales menores a cinco salarios mínimos, correspondientes al área geográfica correspondiente a la Zona Metropolitana de Guadalajara, en los términos de la Ley, el presente Reglamento y de los manuales de operaciones.
+II. Vigilar se preste el servicio en las áreas de su competencia preferentemente a los sujetos de asistencia social, en los términos del Código de Asistencia Social;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+III. Brindar asistencia legal y, en su caso, patrocinio en los asuntos del área de su competencia, a las personas que reciban ingresos mensuales menores a cinco salarios mínimos, correspondientes al área geográfica correspondiente a la Zona Metropolitana de Guadalajara, lo cual se comprobará mediante el recibo de nómina correspondiente. En caso de no contar con comprobante de ingresos o recibo de nómina, se llevará a cabo el estudio socio económico de ingresos a que hace referencia el artículo 27 del presente Reglamento; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Supervisar que los agentes sociales a su cargo realicen adecuadamente sus funciones.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 27.
 
-Previo al otorgamiento del servicio de patrocinio legal, en los asuntos judiciales, se requerirá un estudio socio económico elaborado por un trabajador social del área correspondiente, para determinar si el solicitante es sujeto de asistencia social.
+Previo al otorgamiento del servicio de patrocinio legal, en los asuntos judiciales, y en caso de no tener comprobante de ingresos, se requerirá un estudio socio económico de ingresos elaborado por un trabajador social del área correspondiente, para determinar si el solicitante es sujeto de asistencia social.
 
 ###### Artículo 28.
 
@@ -451,37 +549,57 @@ Una vez presentado el escrito por el interesado o bien, transcurrido el plazo ot
 
 En caso de que se resuelva procedente el retiro del servicio prestado, el Agente queda obligado a seguir patrocinando al interesado, por un período de quince días naturales, posteriores a la notificación que al respecto se le efectúe, a efecto de que el interesado tome las providencias, que a sus intereses convenga.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 30.
 
-Son atribuciones de la Dirección de lo Civil y Mercantil las siguientes:
+Son atribuciones del Director de lo Civil y Mercantil las siguientes:
 
 I. Asesorar jurídica y gratuitamente a las personas que soliciten el servicio de los asuntos que se le planteen en materia civil y mercantil; y
 
 II. Patrocinar los asuntos en materia civil y mercantil, a las personas que sean sujetos de los servicios en términos del presente reglamento.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 31.
 
-Son atribuciones de la Dirección de lo Laboral Burocrático las siguientes:
+Son atribuciones del Director de lo Laboral Burocrático las siguientes:
 
-I. Asesorar jurídica y gratuitamente a las personas que soliciten el servicio de los asuntos que se le planteen en materia laboral burocrático; y
+l. Organizar, dirigir, supervisar y despachar los asuntos del área a su cargo;
 
-II. Patrocinar los asuntos en favor de los trabajadores al servicio del Estado y sus municipios, que sean sujetos de los servicios de la Procuraduría en términos de la Ley.
+II. Asesorar jurídica y gratuitamente a las personas que soliciten el servicio de los asuntos que se le planteen en materia laboral burocrático;
+
+III. Patrocinar los asuntos en favor de los trabajadores al servicio del Estado y sus municipios, que sean sujetos de los servicios de la Procuraduría en términos de la Ley; y
+
+IV. Supervisar que los agentes sociales a su cargo realicen adecuadamente sus funciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 32.
 
-Son atribuciones de la Dirección de Trabajo Social las siguientes:
+Son atribuciones del Director de Trabajo Social las siguientes:
 
 I. Organizar y vigilar las actividades del área a su cargo;
 
 II. Elaborar los dictámenes socioeconómicos correspondientes, en términos del inciso a) de la fracción III del artículo 3° y la fracción IV del 22 de la Ley;
 
-III. Entrevistarse con los solicitantes de los servicios de la Procuraduría y practicar visitas domiciliarias para corroborar la situación social y económica de los mismos; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-IV. Remitir los resultados y dictamen del estudio socio económico al Procurador y a las subprocuradurías, para el trámite que corresponda.
+III. Entrevistarse con los solicitantes de los servicios de la Procuraduría y practicar visitas domiciliarias para corroborar la situación social y económica de los mismos;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Remitir los resultados y dictámenes del estudio socio económico, así como de los técnicos y periciales de parte al Procurador y a las subprocuradurías, para el trámite que corresponda; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+V. Supervisar que el personal a su cargo realice adecuadamente sus funciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 33.
 
-Son atribuciones de la Dirección de Atención Ciudadana y Conciliación:
+Son atribuciones del Director de Atención Ciudadana y Conciliación:
 
 I. Organizar y vigilar las actividades del área a su cargo;
 
@@ -513,13 +631,19 @@ XII. Llevar el registro de desempeño de los agentes mediadores y conciliadores 
 
 La Procuraduría contará con un Coordinador General de Regiones que tendrá a su cargo la supervisión de las coordinaciones regionales en materia de defensoría de oficio, representación social y servicios jurídicos asistenciales, en los términos que determinen los Subprocuradores en el ámbito de sus respectivas atribuciones.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 35.
 
-El Coordinador General de Regiones se encargará de supervisar que en todas las regiones en las que presta sus servicios la Procuraduría, se haga en forma eficiente y con austeridad en la aplicación de los recursos de la misma.
+El Coordinador General de Regiones tendrá las siguientes atribuciones:
 
-Asimismo, rendirá un informe mensual al Procurador y a los Subprocuradores, respecto de los servicios que presta la Procuraduría en el Estado.
+I. Supervisar que en todas las regiones en las que presta sus servicios la Procuraduría, se haga en forma eficiente y con austeridad en la aplicación de los recursos de la misma;
+
+II. Coordinar y atender, en coordinación con la Dirección General Administrativa, las cuestiones administrativas de las Oficinas Regionales, apoyándose para ello en los Coordinadores Regionales;
+
+III. Coadyuvar con el Procurador para el mejor desarrollo de las funciones de la Procuraduría en el interior del Estado, coordinando actividades con organismos gubernamentales, de la sociedad civil, universidades públicas y privadas, asociaciones de profesionistas e instituciones, así como con la sociedad en general, a fin de establecer una red social con todos los sectores en comento que contribuyan a generar y mantener un mejor funcionamiento de la Procuraduría Social; y
+
+IV. Rendir un informe mensual al Procurador y a los Subprocuradores, respecto de los servicios que presta la Procuraduría en el Estado.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2007)</small>
 
@@ -627,17 +751,19 @@ Ayotlán
 
 Degollado
 
-V.- Región 05 Sureste con sede en Tamazula de Gordiano, comprendiendo los municipios de:
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+V. Región 05 Sureste con sede en Tamazula de Gordiano, a la que corresponden los municipios de:
 
 Concepción de Buenos Aires
 
 Jilotlán de los Dolores
 
-Manuel M. Diéguez
+Santa María del Oro
 
 Mazamitla
 
-La Manzarilla de la Paz
+La Manzanilla de la Paz
 
 Pihuamo
 
@@ -847,17 +973,49 @@ El Procurador, los Subprocuradores, el Coordinador General de Regiones y los Coo
 
 Son atribuciones de la Coordinación Jurídica, las siguientes:
 
-I. Representar a la Procuraduría en los juicios y procedimientos en que sea parte la misma;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-II. Intervenir en los juicios de garantías interpuestos en contra de actos de los servidores públicos de la Procuraduría, emanados del desempeño de sus funciones;
+I. Representar a la Procuraduría en los juicios y procedimientos en que sea parte y asesorar al personal que se vea involucrado en los asuntos de la dependencia;
 
-III. Realizar estudios y emitir opiniones y dictámenes derivados de consultas jurídicas formuladas por el Procurador o los titulares de las unidades administrativas de la Procuraduría;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-IV. Fungir como Unidad de Transparencia en términos de la Ley de Transparencia y Acceso a la Información Pública;
+II. Intervenir en los términos de la ley de la materia en los juicios de garantías interpuestos en contra de actos de los servidores públicos de la Procuraduría, emanados del desempeño de sus funciones;
 
-V. Analizar las excusas e impedimentos de los subprocuradores, directores generales, Coordinador General de Regiones, coordinadores regionales y demás servidores públicos de la Procuraduría y turnarlos al superior jerárquico correspondiente, para su calificación, en los términos de la Ley; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-VI. Proponer al Procurador las reformas legales que considere convenientes para el funcionamiento de la Procuraduría.
+III. Tramitar los procedimientos laborales correspondientes, de conformidad con la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y remitir las actuaciones al Procurador para que dicte la resolución respectiva;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Realizar estudios y emitir opiniones y dictámenes derivados de consultas jurídicas formuladas por el Procurador o los titulares de las unidades administrativas de la Procuraduría;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+V. Fungir como Unidad de Transparencia en términos de la Ley de Transparencia y Acceso a la Información Pública;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Tener a su cargo la oficialía de partes, para la recepción de toda la información y documentación de la Procuraduría, así como encargarse de despacharla a las unidades correspondientes, lo cual tendrá que realizar dentro de las veinticuatro horas siguientes a su recepción, salvo los casos de urgencia o excepción, en los que deberá turnarlos en forma inmediata;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Elaborar convenios, contratos y demás instrumentos jurídicos que se requieran para el adecuado desempeño de las atribuciones de la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. Apoyar al Procurador en el análisis de las excusas e impedimentos de los Subprocuradores, Directores Generales, Coordinador General de Regiones, Coordinadores Regionales y demás servidores públicos de la Procuraduría y turnarlos al superior jerárquico correspondiente, para su calificación, en los términos de la Ley;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Proponer al Procurador las reformas legales que considere convenientes para el funcionamiento de la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+X. Rendir los informes que le sean solicitados por el Procurador; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+XI. Las demás que le señalen las disposiciones jurídicas aplicables y las que le confiera el Procurador.
 
 #### SECCIÓN VII. COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
@@ -871,13 +1029,15 @@ II. Realizar consultas con las Subprocuradurías y Direcciones Generales para es
 
 III. Apoyar y capacitar a los funcionarios en estrategias de medios de comunicación y asesorar a las diversas direcciones en el manejo de la comunicación institucional;
 
-IV. Desarrollar y proponer proyectos de mejoramiento y modernización permanente de acuerdo a información y documentación obtenida, con el fin de proporcionar un apoyo sistemático racional para la eficaz toma de decisiones y resolución de problemas;
+IV. (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 2009)
 
 V. Desarrollar en la Procuraduría la acción informadora del Gobierno del Estado con relación a sus actividades;
 
 VI. Difundir logros y proyectos de la Procuraduría;
 
-VII. Establecer un sistema de monitoreo de medios de comunicación para conocer el manejo de la información inherente a la Procuraduría y, en su caso, complementar y/o hacer las aclaraciones pertinentes;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Establecer un sistema de monitoreo de medios de comunicación para conocer el manejo de la información inherente a la Procuraduría y, en su caso, complementar o hacer las aclaraciones pertinentes;
 
 VIII. Elaborar y aplicar estudios de opinión a la ciudadanía, así como proponer mecanismos de mejora a la imagen institucional de la Procuraduría;
 
@@ -885,43 +1045,67 @@ IX. Colaborar con todas las áreas de la Procuraduría en eventos institucionale
 
 X. Coadyuvar en el diseño, implementación y actualización de la información en la página de Internet de la Procuraduría.
 
-#### SECCIÓN VIII. DE LA DIRECCIÓN GENERAL DE VISITADURÍA
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-#### SECCIÓN IX. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
+#### SECCIÓN VIII. DE LA COORDINACIÓN DE PLANEACIÓN E INFORMACIÓN
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 41 Bis.
+
+Son atribuciones de la Coordinación de Planeación e Información, las siguientes:
+
+I. Coadyuvar con el Procurador Social, Subprocuradores, Directores Generales y Coordinador General de Regiones, en la formulación, actualización e instrumentación de programas operativos anuales y objetivos estratégicos que incidan en la elaboración de los planes estatales y regionales dentro de la competencia de la dependencia;
+
+II. Supervisar y dar seguimiento a las actividades de la dependencia para que éstas sigan los lineamientos normativos y metodológicos de la planeación estatal, los objetivos del Plan Estatal y de los planes regionales, así como también procurar la compatibilidad y la coordinación de sus programas con los que formulen los gobiernos federal y municipales;
+
+III. Proponer al Procurador el plan institucional de la dependencia, ajustándose previamente a la Ley, el presente Reglamento y los respectivos planes y programas;
+
+IV. Desarrollar y proponer proyectos de mejoramiento y modernización permanente de acuerdo a información y documentación obtenida, con el fin de proporcionar un apoyo sistemático racional para la eficaz toma de decisiones y resolución de problemas;
+
+V. Participar con cada una de las áreas en la elaboración del anteproyecto del presupuesto de egresos anual de la Procuraduría en la etapa de planeación; para definir las prioridades, objetivos, estrategias, metas y resultados siguiendo los lineamientos normativos y metodológicos de la planeación estatal, los objetivos del Plan Estatal y de los Planes Regionales;
+
+VI. Realizar las actividades pertinentes en materia de registro, integración, análisis y generación de información dentro de la competencia de la Procuraduría para la formulación del informe de Gobierno del Poder Ejecutivo;
+
+VII. Auxiliar al Procurador en el control, seguimiento y evaluación de los proyectos especiales y el cumplimiento de los objetivos y metas establecidos dentro del Programa Operativo Anual; y
+
+VIII. Las demás que le señalen las disposiciones jurídicas aplicables y las que le confiera el Procurador.
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES SECCION VIII], P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+#### SECCIÓN IX. DE LA DIRECCIÓN GENERAL DE VISITADURÍA
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 42.
 
 Son atribuciones y facultades del Director General de Visitaduría las siguientes:
 
-I. Elaborar el calendario de las visitas ordinarias a los diversos organismos instituciones que de conformidad a la Ley le competen, para someterlo a la aprobación del Procurador, y en su caso, vigilar que el mismo se cumpla en los puntos y tiempos especificados;
+I. Elaborar el calendario de las visitas ordinarias a los diversos organismos e instituciones que de conformidad a la Ley le competen, para someterlo a la aprobación del Procurador, y en su caso, vigilar que el mismo se cumpla en los puntos y tiempos especificados;
 
-II. Vigilar que los agentes visitadores a su cargo, lleven a cabo con apego a la Ley, la práctica de las visitas de inspección ordinarias y extraordinarias que se les encomienden;
+II. Vigilar que los agentes sociales a su cargo lleven a cabo, con apego a la Ley, la práctica de las visitas de inspección ordinarias y extraordinarias que se les encomienden;
 
-III. Expedir y remitir a firma del Procurador las órdenes de visita a las notarías públicas en el Estado, las Oficinas del Registro Civil, Oficinas del Registro Público de la Propiedad, cárceles municipales y estatales, así como en Instituciones que atienden a niñas, niños y adolescentes, en la forma y términos que determinen las leyes;
+III. Expedir y remitir a firma del Procurador las órdenes de visita a las notarías públicas en el Estado, las Oficinas del Registro Civil, Oficinas del Registro Público de la Propiedad, cárceles municipales y estatales, así como en instituciones que atienden a niñas, niños y adolescentes, en la forma y términos que determinen las leyes;
 
-IV. Desarrollar y ejercer las normas de control y evaluación técnico jurídica de las unidades administrativas y órganos de la Procuraduría, con base en las disposiciones jurídicas aplicables;
+IV. Practicar visitas de inspección a las instituciones, dependencias, oficinas o áreas, cuyas funciones deban ser supervisadas por la Procuraduría Social en los términos señalados por la legislación aplicable;
 
-V. Realizar las visitas de inspección a cárceles municipales y estatales en los términos que las leyes determinen;
+V. Instruir a los agentes visitadores para que levanten acta de visita y rindan informe pormenorizado de las visitas realizadas y, en su caso, detallar las posibles irregularidades que afecten la observancia a las disposiciones legales correspondientes y comunicarlo de inmediato al director general, para que éste a su vez lo informe al Procurador para los efectos legales correspondientes;
 
-VI. Practicar visitas de evaluación técnico jurídica a las unidades administrativas de la Procuraduría, así como a otras instituciones, dependencias, oficinas o áreas, cuyas funciones deban ser supervisadas por la Procuraduría en los términos señalados por la legislación aplicable;
+VI. Encomendar y distribuir equitativamente las cargas de trabajo de los agentes sociales;
 
-VII. Instruir a los agentes visitadores para que levanten acta de visita y rindan informe pormenorizado de las visitas realizadas y, en su caso, detallar las posibles irregularidades que afecten la observancia a las disposiciones legales correspondientes y comunicarlo de inmediato al director general, para que éste a su vez lo informe al Procurador para los efectos legales correspondientes;
+VII. Integrar y rendir los informes y estadísticas que establezca la normatividad interna de la Procuraduría y aquéllos que le sean solicitados por el Procurador; y
 
-VIII. Encomendar y distribuir equitativamente las cargas de trabajo de los agentes visitadores;
+VIII. Recibir los resultados de las visitas practicadas por las Direcciones de Notarías, Registro Público de la Propiedad y Civil, y de Atención a Cárceles y Organismos de Asistencia Social, las que según el caso, deberá remitir a la autoridad competente para que proceda de acuerdo con lo previsto en la Ley de la materia.
 
-IX. Recibir e investigar las quejas que se formulen en contra de los servidores públicos de la Procuraduría y, en su caso, ejecutar los procedimientos administrativos o laborales correspondientes; e
-
-X. Integrar y rendir los informes y estadísticas que establezca la normatividad interna de la Procuraduría y aquéllos que le sean solicitados por el Procurador.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 43.
 
 La Dirección General de Visitaduría, para el ejercicio de las atribuciones que la Ley le confiere, contará con las siguientes direcciones especializadas:
 
-I. Dirección de Notarías, Registro Público de la Propiedad y Civil;
+I. Dirección de Notarías, Registro Público de la Propiedad y Civil; y
 
-II. Dirección de Atención a Cárceles y Organismos de Asistencia Social; y
-
-III. Dirección de Asuntos Internos.
+II. Dirección de Atención a Cárceles y Organismos de Asistencia Social.
 
 ###### Artículo 44.
 
@@ -947,7 +1131,9 @@ IV. Practicar visitas a las oficinas del Registro Civil, para verificar el cumpl
 
 V. Practicar visitas a las oficinas del Registro Público de la Propiedad del Estado, para verificar el cumplimiento de sus atribuciones, conforme a las disposiciones legales correspondientes; y
 
-VI. Remitir al Subprocurador los resultados de las visitas practicadas para la formulación de los pliegos de observaciones correspondientes.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Remitir al Director General de Visitaduría los resultados de las visitas practicadas.
 
 ###### Artículo 46.
 
@@ -963,75 +1149,59 @@ IV. Practicar visitas a las autoridades que tengan bajo su guarda adolescentes o
 
 V. Practicar visitas de inspección a las instituciones de asistencia social que alberguen o atiendan a niñas, niños o adolescentes, incapaces o adultos mayores con el fin de garantizar el respeto de sus derechos; y
 
-VI. Remitir los resultados de las visitas practicadas para la formulación de los pliegos de observaciones correspondientes.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Remitir los resultados de las visitas practicadas al Director General de Visitaduría.
 
 ###### Artículo 47.
 
-Son atribuciones del Director de Asuntos Internos, las siguientes:
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2009)
 
-I. Establecer, controlar, evaluar y dar trámite a los procedimientos de recepción, atención y seguimiento de las quejas y denuncias que se presenten en contra de los servidores públicos de la Procuraduría;
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-II. Desarrollar y mantener actualizado el sistema de registro sobre sanciones administrativas impuestas a los servidores públicos de la Procuraduría, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
+#### SECCIÓN X. DE LA DIRECCIÓN GENERAL ADMINISTRATIVA
 
-III. Integrar la documentación que deba ser enviada al Ministerio Público, en aquellos casos en que, con motivo de sus funciones, apareciere la probable comisión de un delito por parte de servidores públicos de la Procuraduría;
-
-IV. Recibir y tramitar, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, los recursos administrativos que presenten los servidores públicos de la institución que hayan sido sancionados por faltas administrativas;
-
-V. Verificar, en coordinación con la Dirección de Recursos Humanos y Materiales, si el personal que pretende ingresar a la Procuraduría ha sido sancionado con anterioridad por violaciones a la legislación en materia de Responsabilidades de los Servidores Públicos o de otras disposiciones aplicables;
-
-VI. Someter a consideración del Procurador el proyecto del Programa Anual de Supervisión y Control de Auditorías;
-
-VII. Practicar, dirigir y supervisar las auditorías que deban realizarse a las unidades administrativas de la Procuraduría, conforme a los lineamientos establecidos por el Procurador;
-
-VIII. Vigilar que las unidades administrativas de la Procuraduría cumplan con las disposiciones de racionalidad, austeridad y disciplina presupuestal establecidas en las normas jurídicas aplicables y en los lineamientos que al efecto emita el Procurador; y
-
-IX. Fungir como Secretario Técnico del Comité de Clasificación de información Pública.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 48.
 
-Son atribuciones y facultades del Director General de Administración las siguientes:
+Son atribuciones del Director General Administrativo las siguientes:
 
-I. Definir los esquemas de revisión y los procedimientos de control de la Procuraduría;
+I. Definir los esquemas de revisión y los procedimientos de control administrativo de la Procuraduría;
 
 II. Cuidar que el ejercicio del presupuesto de egresos asignado a la Procuraduría se ajuste a los planes y programas aprobados por el Procurador y se aplique estrictamente para el cumplimiento de las funciones encomendadas a la Procuraduría;
 
-III. Velar por el cumplimiento de las normas legales en materia de registro, control, pago y prestaciones al personal; adquisiciones, arrendamientos, uso, conservación, destino, afectación, enajenación, baja de bienes muebles e inmuebles, almacenes, contratos en general y demás activos y recursos materiales de la Procuraduría, así como todo lo relativo al gasto corriente;
+III. Vigilar que las unidades administrativas de la Procuraduría cumplan con las disposiciones de racionalidad, austeridad y disciplina presupuestal establecidas en las normas jurídicas aplicables y en los lineamientos que al efecto emita el Procurador;
 
-IV. Someter a la consideración del Procurador, oportunamente el anteproyecto de presupuesto de egresos anual de la Procuraduría y, una vez autorizado, supervisar la adecuada ejecución y proponer las modificaciones que se requieran;
+IV. Velar por el cumplimiento de las normas legales en materia de registro, control, pago y prestaciones al personal; adquisiciones, arrendamientos, uso, conservación, destino, afectación, enajenación, baja de bienes muebles e inmuebles, almacenes, contratos en general y demás activos y recursos materiales de la Procuraduría, así como todo lo relativo al gasto corriente;
 
-V. Proporcionar apoyo administrativo y técnico a las Subprocuradurías y direcciones de la Procuraduría, para planear, programar, presupuestar, controlar y evaluar sus actividades respecto al ejercicio del gasto público;
+V. Someter a la consideración del Procurador, oportunamente el anteproyecto de presupuesto de egresos anual de la Procuraduría y, una vez autorizado, supervisar la adecuada ejecución y proponer las modificaciones que se requieran;
 
-VI. Autorizar la documentación necesaria para el ejercicio del presupuesto y presentar al Procurador lo que corresponda a las erogaciones que deberán ser autorizadas por él, conforme a la ley;
+VI. Proporcionar apoyo administrativo y técnico a las Subprocuradurías, Direcciones Generales, Coordinaciones y demás unidades administrativas de la Procuraduría, para planear, programar, presupuestar, controlar y evaluar sus actividades respecto al ejercicio del gasto público;
 
-VII. Presentar los estados financieros y demás información financiera, presupuestal y contable para los efectos de la cuenta pública, en los términos de ley;
+VII. Autorizar la documentación necesaria para el ejercicio del presupuesto y presentar al Procurador lo que corresponda a las erogaciones que deberán ser autorizadas por él, conforme a la ley;
 
-VIII. Dirigir con el apoyo de las Direcciones Generales las relaciones laborales de la Procuraduría conforme a los lineamientos que al efecto establezca el Procurador;
+VIII. Presentar los estados financieros y demás información financiera, presupuestal y contable para los efectos de la cuenta pública, en los términos de ley;
 
-IX. Proponer al Procurador normas y criterios técnico-administrativos y contables, para la mejor organización y funcionamiento de la Procuraduría;
+IX. Expedir los nombramientos de los servidores públicos de la Procuraduría;
 
-X. Someter a la aprobación del Procurador el proyecto de Manual General de Organización, así como coordinar la elaboración y/o actualización de los Manuales de Procedimientos y de Servicios al Público;
+X. Coordinar la ejecución del Programa Anual de Adquisiciones de Bienes y Servicios, necesarios para el desarrollo de las actividades de la Procuraduría;
 
-XI. Expedir los nombramientos de los servidores públicos de la Procuraduría y ejecutar las resoluciones y acuerdos sobre los movimientos del personal, así como los casos de terminación de los efectos de nombramiento o, en su caso, cese de los efectos de los mismos;
+XI. Autorizar y suscribir los convenios y contratos en los que la Procuraduría sea parte y afecten los bienes que tengan asignados o su presupuesto interno, y los demás documentos que impliquen actos de administración, conforme a la Ley de Adquisiciones y Enajenaciones del Estado;
 
-XII. Autorizar y coordinar la ejecución del Programa Anual de Adquisiciones de Bienes y Servicios, necesarios para el desarrollo de las actividades de la Procuraduría;
+XII. Coordinar y apoyar la ejecución de los programas de capacitación institucional y profesional del personal de la Procuraduría;
 
-XIII. Autorizar y suscribir los convenios y contratos en los que la Procuraduría sea parte y afecten los bienes que tengan asignados o su presupuesto interno, y los demás documentos que impliquen actos de administración, conforme a la Ley de Adquisiciones y Enajenaciones del Estado;
+XIII. Supervisar la normatividad interna en materia de procesamiento electrónico y de telecomunicaciones, con base en los lineamientos que determine la autoridad competente; así como coordinar su aplicación y vigilar que los recursos presupuestales autorizados para la adquisición, arrendamiento y contratación de equipo, materiales y servicios en la materia, se apliquen de acuerdo a los programas y disposiciones legales aplicables;
 
-XIV. Coordinar y apoyar la ejecución de los programas de capacitación institucional y profesional del personal de la Procuraduría;
+XIV. Participar en la elaboración y ejecución del Servicio Civil de Carrera para agentes y demás personal de la Procuraduría y de los programas de reclutamiento, selección, ingreso, formación, permanencia, promoción, evaluación y desarrollo de dichos servidores públicos;
 
-XV. Supervisar la normatividad interna en materia de procesamiento electrónico y de telecomunicaciones, con base en los lineamientos que determine la autoridad competente; así como coordinar e instrumentar su aplicación y vigilar que los recursos presupuestales autorizados para la adquisición, arrendamiento y contratación de equipo, materiales y servicios en la materia, se apliquen de acuerdo a los programas y disposiciones legales aplicables;
+XV. Proponer al Procurador las políticas y procedimientos en materia de reclutamiento, selección y designación del personal administrativo de la Procuraduría;
 
-XVI. Participar, en la elaboración y ejecución del Servicio Civil de Carrera para agentes y demás personal de la Procuraduría y de los programas de reclutamiento, selección, ingreso, formación, permanencia, promoción, evaluación y desarrollo de dichos servidores públicos;
+XVI. Procurar el adecuado abastecimiento de los recursos materiales y suministrar los servicios generales y de obra pública que requiera la Procuraduría;
 
-XVII. Establecer y aplicar las políticas y procedimientos en materia de reclutamiento, selección y designación del personal administrativo de la Procuraduría;
+XVII. Apoyar el establecimiento, control y evaluación del Programa Interno de Protección Civil para el personal, instalaciones, bienes e información de la Procuraduría, así como aplicar las normas que se emitan para la operación, desarrollo y vigilancia de dicho programa; y
 
-XVIII. Abastecer los recursos materiales y suministrar los servicios generales y de obra pública que requiera la Procuraduría;
-
-XIX. Apoyar el establecimiento, control y evaluación del Programa Interno de Protección Civil para el personal, instalaciones, bienes e información de la Procuraduría, así como aplicar las normas que se emitan para la operación, desarrollo y vigilancia de dicho programa;
-
-XX. Operar los servicios de correspondencia, mensajería, limpieza, fumigación, mantenimiento de equipo, vigilancia, transporte, talleres, intendencia, diseño gráfico y los demás necesarios para apoyar el adecuado funcionamiento de la dependencia; y
-
-XXI. Fungir como oficialía de partes, para la recepción de toda la información y documentación de la Procuraduría, así como encargarse de despacharla a las unidades correspondientes, lo cual tendrá que realizar dentro de las veinticuatro horas siguientes a su recepción, salvo los casos de urgencia o excepción, en los que deberá turnarlos en forma inmediata.
+XVIII. Operar los servicios de correspondencia, mensajería, limpieza, fumigación, mantenimiento de equipo, vigilancia, transporte, talleres, intendencia, diseño gráfico y los demás necesarios para apoyar el adecuado funcionamiento de la dependencia.
 
 ###### Artículo 49.
 
@@ -1039,21 +1209,43 @@ Son atribuciones del Director de Recursos Financieros y Materiales, las siguient
 
 l. Cuidar que el ejercicio del presupuesto de egresos asignado a la Procuraduría se ajuste a los planes y programas aprobados por el Procurador y se aplique estrictamente para el cumplimiento de las funciones encomendadas a la Procuraduría;
 
-II. Proponer normas y criterios técnicos-administrativos y contables, para la mejor organización y funcionamiento de la Procuraduría; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-III. Abastecer los recursos materiales y suministrar los servicios generales y de obra pública que requiera la Procuraduría.
+II. Proponer normas y criterios técnicos-administrativos y contables, para la mejor organización y funcionamiento de la Procuraduría;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+III. Abastecer los recursos materiales y suministrar los servicios generales y de obra pública que requiera la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Cumplir con las normas legales en materia de adquisiciones, arrendamientos, uso, conservación, destino, afectación, enajenación, control patrimonial, baja de bienes muebles e inmuebles, almacenes, contratos en general y demás activos y recursos materiales de la Procuraduría, así como todo lo relativo al gasto corriente; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+V. Coordinar los trabajos para la elaboración del presupuesto anual de la Procuraduría Social, recabando de cada una de las unidades administrativas las propuestas correspondientes y presentar la propuesta final al Procurador para su revisión.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 50.
 
 Son atribuciones del Director de Recursos Humanos, las siguientes:
 
-I. Velar por el cumplimiento de las normas legales en materia de registro, control, pago y prestaciones al personal; adquisiciones, arrendamientos, uso, conservación, destino, afectación, enajenación, baja de bienes muebles e inmuebles, almacenes, contratos en general y demás activos y recursos materiales de la Procuraduría, así como todo lo relativo al gasto corriente;
+I. Dirigir, con el apoyo de las unidades administrativas de la Procuraduría las relaciones laborales de la dependencia conforme a los lineamientos que al efecto establezca el Procurador;
 
-II. Dirigir con el apoyo de las Direcciones Generales las relaciones laborales de la Procuraduría conforme a los lineamientos que al efecto establezca el Procurador;
+II. Someter a la aprobación del Procurador el proyecto de Manual General de Organización, así como coordinar la elaboración y actualización de los Manuales de Procedimientos y de Servicios al Público con las unidades administrativas que integran la Procuraduría;
 
-III. Someter a la aprobación del Procurador el proyecto de Manual General de Organización, así como coordinar la elaboración y/o actualización de los Manuales de Procedimientos y de Servicios al Público; y
+III. Tramitar los movimientos administrativos de los servidores públicos, de conformidad con las normas legales en materia de ingreso, permanencia, registro, control y prestaciones de los mencionados servidores; y ejecutar las resoluciones y acuerdos sobre los movimientos del personal, así como los casos de terminación de los efectos de nombramiento o, en su caso, cese de los efectos de los mismos;
 
-IV. Elaborar los nombramientos de los servidores públicos de la Procuraduría y ejecutar las resoluciones y acuerdos sobre los movimientos del personal, así como los casos de terminación de los efectos de nombramiento o, en su caso, cese de los efectos de los mismos.
+IV. Auxiliar a la Dirección General Administrativa en la implementación de un sistema de capacitación y actualización de los servidores públicos de la Procuraduría, actividad que realizará en coordinación con las demás unidades administrativas;
+
+V. Ejecutar el Servicio Civil de Carrera para agentes y demás personal de la Procuraduría, así como los programas de reclutamiento, selección, ingreso, formación, permanencia, promoción, evaluación y desarrollo de dichos servidores públicos, en los términos que establezca la ley;
+
+VI. Aplicar las políticas y procedimientos en materia de reclutamiento, selección y designación del personal administrativo de la Procuraduría;
+
+VII. Coordinar y apoyar la ejecución de los programas de capacitación institucional y profesional del personal de la Procuraduría; y
+
+VIII. Ejecutar, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información de la Procuraduría, así como aplicar las normas que se emitan para la operación, desarrollo y vigilancia de dicho programa.
 
 ###### Artículo 51.
 
@@ -1063,33 +1255,115 @@ I. Establecer y difundir las normas y las políticas para regular la administrac
 
 II. Coordinar la aplicación de las políticas, estrategias y acciones encaminadas a establecer y mantener actualizada la Red Institucional de Informática y Telecomunicaciones;
 
-III. Planear, diseñar, desarrollar, implantar, evaluar y proporcionar el mantenimiento preventivo y correctivo de los sistemas informáticos, de telecomunicaciones y de modernización tecnológica y administrativa de la Procuraduría y sus unidades administrativas, así como el apoyo técnico que le requieran en estas materias; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-IV. Asesorar y actualizar a las unidades administrativas de la Procuraduría, sobre las innovaciones tecnológicas en materia de informática, telecomunicaciones y modernización administrativa, que puedan contribuir al mejoramiento de la calidad de sus servicios y actividades.
+III. Planear, diseñar, desarrollar, implantar, evaluar y proporcionar el mantenimiento preventivo y correctivo de los sistemas informáticos, de telecomunicaciones y de modernización tecnológica y administrativa de la Procuraduría y sus unidades administrativas, así como el apoyo técnico que le requieran en estas materias;
 
-### CAPÍTULO IV. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Asesorar y actualizar a las unidades administrativas de la Procuraduría, sobre las innovaciones tecnológicas en materia de informática, telecomunicaciones y modernización administrativa, que puedan contribuir al mejoramiento de la calidad de sus servicios y actividades; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+V. Acatar la normatividad interna en materia de procesamiento electrónico y de telecomunicaciones, con base en los lineamientos que determine la autoridad competente; así como instrumentar su aplicación cuidando que los recursos presupuestales autorizados para la adquisición, arrendamiento y contratación de equipo, materiales y servicios en la materia, se apliquen de acuerdo a los programas y disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+#### SECCIÓN XI. DE LA DIRECCIÓN DE ASUNTOS INTERNOS
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 51 Bis.
+
+Son atribuciones del Director de Asuntos Internos, las siguientes:
+
+I. Tramitar los procedimientos de recepción, atención y seguimiento de las quejas y denuncias que se formulen y presenten en contra de los servidores públicos de la Procuraduría, ejecutar los procedimientos administrativos correspondientes, de conformidad con la Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado, y remitir las actuaciones al superior jerárquico del servidor público o al Procurador, según sea el caso, para que dicten la resolución respectiva;
+
+II. Practicar visitas de evaluación a las unidades administrativas y servidores públicos de la Procuraduría;
+
+III. Desarrollar y mantener actualizado el sistema de registro sobre sanciones administrativas impuestas a los servidores públicos de la Procuraduría, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
+
+IV. Integrar la documentación que deba ser enviada al Ministerio Público, en aquellos casos en que, con motivo de sus funciones, apareciere la probable comisión de un delito por parte de servidores públicos de la Procuraduría;
+
+V. Verificar, en coordinación con la Dirección de Recursos Humanos, si el personal que pretende ingresar a la Procuraduría ha sido sancionado con anterioridad por violaciones a la legislación en materia de responsabilidades de los servidores públicos o de otras disposiciones aplicables;
+
+VI. Someter a consideración del Procurador el proyecto del Programa Anual de visitas a las unidades administrativas de la dependencia;
+
+VII. Practicar, dirigir y supervisar las auditorías que deban realizarse a las unidades administrativas y servidores públicos de la Procuraduría, conforme a los lineamientos establecidos por el Procurador;
+
+VIII. Verificar que los servidores públicos de la Procuraduría cumplan con la normatividad aplicable;
+
+IX. Integrar y rendir los informes y estadísticas que establezca la normatividad interna de la Procuraduría y aquéllos que le sean solicitados por el Procurador;
+
+X. Fungir como Secretario Técnico del Comité de Clasificación de Información Pública; y
+
+XI. Las demás que le señalen las disposiciones jurídicas aplicables y las que le confiera el Procurador.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO IV. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 52.
 
 Durante las ausencias temporales del Procurador, lo suplirán en el despacho de los asuntos de la Procuraduría en el orden siguiente, el Subprocurador de Defensoría de Oficio, de Representación Social y de Servicios Jurídicos Asistenciales.
 
-En las ausencias definitivas del Procurador, la suplencia de éste se hará en el mismo orden que se señala el párrafo anterior, en tanto el Gobernador del Estado designe Procurador.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+En las ausencias definitivas del Procurador, la suplencia de éste se hará en el mismo orden que señala el párrafo anterior, en tanto el Gobernador del Estado designe Procurador.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 53.
 
-El Subprocurador de Defensoría de Oficio, será suplido por el encargado del área Penal o, en su caso, por el servidor público designado mediante acuerdo que éste suscriba con el Procurador.
+El Subprocurador de Defensoría de Oficio, será suplido por el encargado del área Penal o, en su caso, por el servidor público designado mediante acuerdo que suscriba el Procurador.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 54.
 
-El Subprocurador de Representación Social, será suplido por el encargado del área Civil o, en su caso, por el servidor público designado mediante acuerdo que éste suscriba con el Procurador.
+El Subprocurador de Representación Social, será suplido por el encargado del área Civil, Mercantil y Segunda Instancia o, en su caso, por el servidor público designado mediante acuerdo que suscriba el Procurador.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 55.
 
-El Subprocurador de Servicios Jurídicos Asistenciales, será suplido por el encargado del área Civil o, en su caso, por el servidor público designado mediante acuerdo que éste suscriba con el Procurador.
+El Subprocurador de Servicios Jurídicos Asistenciales, será suplido por el encargado del área Civil y Mercantil o, en su caso, por el servidor público designado mediante acuerdo que suscriba el Procurador.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 56.
 
-Las ausencias temporales de los titulares de la Dirección General de Administración, la Dirección General de Visitaduría y de las coordinaciones serán suplidas por el servidor público designado mediante acuerdo que éstos suscriban con el Procurador.
+Las ausencias temporales de los titulares de la Dirección General Administrativa, la Dirección General de Visitaduría y de las Coordinaciones serán suplidas por el servidor público designado mediante acuerdo que suscriba con el Procurador.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 57.
+
+Los servidores públicos deberán hacer del conocimiento de su superior jerárquico o, en su caso, de la unidad administrativa correspondiente de la Procuraduría, cualquier conducta irregular o hecho presuntamente delictivo que detecten en el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 58.
+
+La Procuraduría Social podrá proporcionar, a través de las unidades administrativas respectivas, servicios periciales de parte a los usuarios de la misma que sean patrocinados o reciban defensoría de oficio por conducto de las Subprocuradurías respectivas, de conformidad con el presente Reglamento y previo el pago de derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 59.
+
+Los peritajes de parte a los que hace referencia el artículo anterior serán emitidos por servidores públicos que tengan capacidad o conocimiento en la materia, arte o profesión sobre la que verse dicho peritaje, y sólo cuando sea indispensable para el trámite judicial correspondiente, previa aprobación del Subprocurador que corresponda.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 60.
+
+En ningún otro caso se podrán emitir peritajes de parte por servidores públicos de la Procuraduría Social.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 61.
+
+En caso de que en el transcurso de un procedimiento judicial patrocinado por la Procuraduría Social se detectara que el usuario, para acceder al servicio gratuito, proporcionó información falsa o incompleta respecto a sus ingresos y se demuestre que no tenía derecho a recibir dicho beneficio, la Procuraduría Social tendrá acción en contra de dicho usuario para recuperar los gastos generados por el trámite realizado, de acuerdo al arancel de abogados vigente.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1130,3 +1404,9 @@ PRIMERO. Las presentes modificaciones al Reglamento Interior de la Procuraduría
 SEGUNDO. El Procurador Social deberá realizar las acciones que sean necesarias para establecer las Coordinaciones Regionales de la Procuraduría Social en las circunscripciones territoriales establecidas en el presente Reglamento, de conformidad con la disponibilidad presupuestaria.
 
 TERCERO. Hasta en tanto se establezcan las Coordinaciones Regionales como lo señala el presente Reglamento, el Procurador Social podrá, mediante acuerdo, establecer las circunscripciones territoriales conforme a los recursos con los que cuenta.
+
+P.O. 24 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Hasta en tanto se realizan las modificaciones legales correspondientes, los procedimientos de responsabilidad administrativa serán sustanciados por la Dirección de Asuntos Internos y ratificados por el Director General de Visitaduría.
