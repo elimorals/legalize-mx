@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2009-02-19"
+last_updated: "2009-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -619,13 +619,17 @@ I. Ser ciudadano duranguense por nacimiento en pleno ejercicio de sus derechos, 
 
 II. Ser mayor de veintiocho años.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
 
-III. Poseer el día de su nombramiento, con antigüedad mínima de cinco años, título de Licenciado en Derecho; y
+III. Poseer el día de su nombramiento, con antigüedad mínima de cinco años, título de nivel licenciatura; y
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
 
 IV. No haber sido condenado a más de un año de prisión, excepto el caso del delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime, seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+
+Cuando la designación como titular de la Secretaría, recaiga en militares con licencia o retiro, se estará a lo dispuesto en el artículo 11 de la Ley Orgánica de la Administración Pública del Estado de Durango.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2710,3 +2714,9 @@ I. Dentro de los cinco días siguientes a la entrada en vigor del presente decre
 II. La Junta Directiva del Secretariado Ejecutivo emitirá el reglamento interior correspondiente dentro de los treinta días siguientes a la entrada en vigor del presente decreto;
 
 III. Los asuntos que se encuentren en trámite o en proceso en los que el Fideicomiso denominado Fondo de Seguridad Pública en el Estado de Durango, sea parte o tenga interés ella entrada en vigor del presente decreto, continuarán tramitándose hasta resolución de conformidad con las normas y el procedimiento vigente al momento de haber iniciado su respectivo desahogo.
+
+P.O. 24 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
