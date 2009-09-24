@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2009-07-13"
+last_updated: "2009-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE SEPTIEMBRE DE 2009.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -349,23 +349,37 @@ Las facultades del Director General previstas en las fracciones III, IV, V, VI, 
 
 ### CAPITULO III. ATRIBUCIONES Y FACULTADES ESPECIFICAS QUE CORRESPONDEN A LAS UNIDADES ADMINISTRATIVAS DE LA FINANCIERA
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 17.
 
 Corresponde a la Unidad para la Administración Integral de Riesgos:
 
-I. Formular y proponer la metodología para identificar, medir, monitorear e informar los riesgos cuantificables que enfrenta la Institución en sus operaciones;
+I. Coordinar que el proceso de administración de riesgos considere todos los riesgos en que incurre la Financiera dentro de sus diversas unidades de negocio;
 
-II. Supervisar que la administración de riesgos sea integral y considere los riesgos en que incurre la Institución dentro de sus diversas líneas y unidades de negocio;
+II. Proponer al Comité de Administración Integral de Riesgos para su aprobación las metodologías, modelos y parámetros para identificar, medir, vigilar, limitar, controlar, informar y revelar los distintos tipos de riesgos a que se encuentra expuesta la Financiera, así como sus modificaciones;
 
-III. Proponer la metodología para definir los límites por línea y unidad de negocio y por tipo de riesgo y supervisar su cumplimiento;
+III. Coordinar la verificación de la observación de los límites globales y específicos, así como los niveles de tolerancia aceptables por tipo de riesgo cuantificables, desglosados por unidad de negocio o factor de riesgo, causa u origen de éstos, utilizando, para tal efecto, los modelos, parámetros y escenarios para la medición y control del riesgo establecidos por el Comité de Administración Integral de Riesgos;
 
-IV. Informar al Comité de Administración Integral de Riesgos sobre la exposición global y por tipo de riesgo de la Institución;
+IV. Coordinar la evaluación de los riesgos no cuantificables y el probable impacto que dichos riesgos pudieran tener en la adecuada operación de la Financiera;
 
-V. Investigar, documentar e informar al Comité de Administración Integral de Riesgos sobre las causas que originan desviaciones a los límites de exposición al riesgo, así como proponer acciones correctivas, y
+V. Dirigir la verificación de la suficiencia, integridad, consistencia y grado de integración de los sistemas de procesamiento de información para el análisis de riesgos, así como de su contenido;
 
-VI. En el desempeño de sus funciones, la Unidad para la Administración Integral de Riesgos tendrá las facultades y atribuciones genéricas a que hace referencia el artículo 50 del presente Estatuto.
+VI. Coordinar la verificación de la consistencia, precisión, integridad, oportunidad y validez de las fuentes de información utilizadas en los modelos de medición;
+
+VII. Comunicar al Comité de Administración Integral de Riesgos, la información relativa a:
+
+a). La exposición tratándose de riesgos discrecionales, así como la incidencia e impacto en el caso de los riesgos no discrecionales de la Financiera, por unidad de negocio o factor de riesgo, causa u origen de éstos. Los informes sobre la exposición de riesgo deberán incluir un análisis de sensibilidad y pruebas bajo diferentes escenarios, incluyendo los extremos. En este último caso deberán incluirse escenarios donde los supuestos fundamentales y los parámetros utilizados se colapsen, así como los planes de contingencia que consideren la capacidad de respuesta de la Financiera ante dichas condiciones.
+
+b). Las desviaciones que, en su caso, se presenten con respecto a los límites de exposición y los niveles de tolerancia al riesgo establecidos.
+
+c). Las propuestas de acciones correctivas necesarias como resultado de una desviación observada respecto a los límites de exposición y niveles de tolerancia al riesgo autorizados;
+
+VIII. Coordinar la investigación y documentación de las causas que originan desviaciones a los límites establecidos de exposición al riesgo, identificar si dichas desviaciones se presentan en forma reiterada e informar de manera oportuna sus resultados al Comité de Administración Integral de Riesgos, a la Dirección General y al responsable de las funciones de auditoría interna;
+
+IX. Recomendar a la Dirección General y al Consejo apoyado por el Comité de Administración Integral de Riesgos, disminuciones a las exposiciones observadas y/o modificaciones a los límites globales y específicos de exposición al riesgo y niveles de tolerancia según sea el caso; y
+
+X. Presentar al Comité de Administración Integral de Riesgos, las metodologías para la valuación, medición y control de los riesgos de nuevas operaciones, productos y servicios, así como la identificación de los riesgos implícitos que presentan.
 
 ###### ARTICULO 18.
 
@@ -391,11 +405,17 @@ II. Coadyuvar con el Director General en el cumplimiento de sus obligaciones rel
 
 III. Planear y dirigir acciones para llevar a cabo permanentemente las funciones de auditoría interna en materia de administración integral de riesgos;
 
-IV. Coadyuvar con el Comité de Auditoría y el Comité de Administración Integral de Riesgos, en el cumplimiento de las disposiciones aplicables a la administración del riesgo operativo, tecnológico y legal;
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
 
-V. Dirigir las actividades de administración y control de la Normateca Institucional de la Financiera, y
+IV. Coadyuvar con el Comité de Auditoría y con el Comité de Administración Integral de Riesgos en el cumplimiento de las disposiciones aplicables a la administración del riesgo operativo, tecnológico, de mercado, liquidez, crédito, legal, y en función a las necesidades de la Institución; y (sic)
 
-VI. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo.
+V. Dirigir las actividades de administración y control de la Normateca Institucional de la Financiera, y (sic)
+
+VI. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo;
+
+> <small>(ADICIONADA, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Fungir como enlace y coordinador ante los Organos Fiscalizadores en las Auditorías Internas y Externas aplicadas en la Institución, así como coadyuvar con las Unidades Administrativas responsables de los procesos sustantivos en la coordinación y seguimiento de los trabajos inherentes a la solventación de las observaciones y/o señalamientos que hayan realizado las instancias fiscalizadoras.
 
 ###### ARTICULO 22.
 
@@ -1837,7 +1857,9 @@ VII. El Director General Adjunto Técnico y de Instrumentación Legal;
 
 VIII. El Director General Adjunto (sic) Finanzas, Operaciones y Sistemas;
 
-IX. El Prosecretario del Consejo Directivo, y (sic)
+> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
+
+IX. El Gerente de Fomento adscrito a la Dirección Ejecutiva de Promoción de Negocios con Intermediarios Financieros Rurales;
 
 X. El Titular del Organo Interno de Control, en calidad de asesor;
 
@@ -1899,6 +1921,10 @@ VI. El Subdirector Corporativo de Normatividad de Crédito;
 
 VII. El Titular de la Unidad para la Administración Integral de Riesgos;
 
+> <small>(ADICIONADA, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
+
+VII Bis. El Director Ejecutivo Fiduciario;
+
 VIII. Un representante de la Secretaría de Hacienda y Crédito Público, en calidad de asesor;
 
 IX. Un representante del Banco de México, en calidad de asesor;
@@ -1913,7 +1939,9 @@ XI. El Titular del Organo Interno de Control de la Financiera, en calidad de ase
 
 XII. El Titular de la Contraloría Interna, en calidad de asesor.
 
-Los integrantes previstos en los incisos I a VII acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VIII a XII acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
+
+Los integrantes previstos en los incisos I al VII Bis acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VIII al XII acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
 
 Para casos específicos podrán invitarse a expertos externos en calidad de asesores.
 
@@ -2086,5 +2114,9 @@ D.O.F. 19 DE JUNIO DE 2009.
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 13 DE JULIO DE 2009.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE SEPTIEMBRE DE 2009.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
