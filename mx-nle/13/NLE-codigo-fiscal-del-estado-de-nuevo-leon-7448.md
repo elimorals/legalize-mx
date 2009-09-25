@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2007-12-31"
+last_updated: "2009-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -2435,9 +2435,9 @@ II.- Cuando el embargado efectúe el pago del crédito fiscal u obtenga resoluci
 
 III.- Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
-IV.- Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de las autoridades fiscales, administrativas o judiciales o hayan sido retenidos o asegurados por las mismas y los propietarios de los mismos no los retiren dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+IV.- Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de las autoridades fiscales, administrativas o judiciales o hayan sido retenidos o asegurados por las mismas y los propietarios de los mismos no los retiren dentro de sesenta días naturales contados a partir de la fecha en que se ponga a su disposición.
 
 > <small>(ADICIONADO [N. DE E. ANTES SEGUNDO PARRAFO DE LA FRACCION III], P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -2940,3 +2940,7 @@ Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del añ
 P.O. 31 DE DICIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2008.
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
