@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2008-07-07"
+last_updated: "2009-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -715,7 +715,9 @@ VI.- Efectuar visitas de inspección a las Agencias del Ministerio Público para
 
 VII.- Hacer entrega a las Agencias del Ministerio Público de los bienes recuperados o instrumentos de delito que obren en su poder, y así lo soliciten conforme a las disposiciones establecidas en el Reglamento;
 
-VIII.- Informar al Director General de Averiguaciones Previas de aquellos casos en que transcurridos tres meses desde la recepción en la Dirección de los bienes recuperados e instrumentos del delito, las Agencias del Ministerio Público, no hubiesen solicitado la devolución de los mismos, para que éste ordene a tales Agencias que realicen la debida notificación a sus posibles propietarios con todas las formalidades legales requeridas, bajo el apercibimiento de que de no reclamarlos en un lapso de tres meses a partir de la notificación, éstos causarán abandono a favor del Ejecutivo del Estado para ser vendidos a través de las instancias y procedimientos correspondientes, y el valor obtenido se destinará al mejoramiento del sistema integral de procuración de justicia, con deducción de los gastos realizados;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+VlII.- Informar al Director General de Averiguaciones Previas de aquellos casos en que transcurridos sesenta días naturales desde la recepción en la Dirección de los bienes recuperados e instrumentos del delito, las Agencias del Ministerio Público, no hubiesen solicitado la devolución de los mismos, para que éste ordene a tales Agencias que realicen la debida notificación a sus posibles propietarios con todas las formalidades legales requeridas, bajo el apercimiento (sic) de que de no reclamados (sic) en un lapso de sesenta días naturales a partir de la notificación, éstos causarán abandono a favor del Ejecutivo del Estado para ser vendidos a través de las instancias y procedimientos correspondientes, y el valor obtenido se destinará al mejoramiento del sistema integral de procuración de justicia, con deducción de los gastos realizados;
 
 IX.- Operar una base de datos para el adecuado control de los bienes recuperados e instrumentos de delito vinculados a las averiguaciones previas;
 
@@ -2052,3 +2054,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 7 DE JULIO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado de Nuevo León.
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+Única.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficiar del Estado.
