@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2007-03-05"
+last_updated: "2009-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -687,43 +687,57 @@ Las comisiones que designe el presidente del Congreso del Estado para dar cumpli
 
 El pleno del Congreso del Estado podrá acordar, por el voto de las dos terceras partes de sus integrantes, la constitución de comisiones especiales cuando se estimen necesarias para hacerse cargo de un asunto específico. El acuerdo que las establezca señalará su objeto, los diputados integrantes que la conformarán y el plazo para efectuar las tareas que se les hayan encomendado. Cumplido su objeto, concluirán con sus funciones.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 92.
 
 La competencia de las comisiones de dictamen legislativo es la que se deriva de su denominación, así como de las normas que rigen el funcionamiento del Congreso del Estado; para el efecto, se designarán las siguientes comisiones:
 
 I.- De Gobernación y Puntos Constitucionales;
 
-II.- De Hacienda;
+II.- Primera de Hacienda;
 
-III.- De Presupuestos Municipales;
+III.- Segunda de Hacienda;
 
-IV.- De Educación, Cultura y Deporte;
+IV.- De Presupuestos y Asuntos Municipales;
 
-V.- De Justicia, Seguridad Pública y Derechos Humanos;
+V.- De Educación y Cultura;
 
-VI.- De Asuntos Agrícolas, Agrarios, del Trabajo, Ganadero e Industrial;
+VI.- De Deporte y Juventud;
 
-VII.- De Obras y Servicios Públicos;
+VII.- De Justicia y Derechos Humanos;
 
-VIII.- De Desarrollo Social y Asistencia Pública;
+VIlII (SIC).- De Seguridad Pública;
 
-IX.- De Asuntos Fronterizos:
+IX.- De Fomento Agrícola y Ganadero;
 
-X.- De Fomento Económico;
+X.- De Pesca y Acuacultura;
 
-XI.- Del Medio Ambiente y Salud;
+XI.- De Asuntos del Trabajo;
 
-XII.- De Transparencia, Comunicación y Enlace Social;
+XII.- De Obras y Servicios Públicos;
 
-XIII.- De Asuntos de Equidad y Género;
+XIII.- De Desarrollo Social y Asistencia Pública;
 
-XIV.- De Asuntos Indígenas;
+XIV.- De Asuntos Fronterizos;
 
-XV.- De Atención a Grupos Vulnerables;
+XV.- De Fomento Económico y Turismo;
 
-XVI.- De Examen Previo y Procedencia Legislativa; y
+XVI.- De Energía y Medio Ambiente;
 
-XVII.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
+XVII. De Salud;
+
+XVIlI.- De Transparencia, Comunicación y Enlace Social;
+
+XIX.- De Asuntos de Equidad y Género;
+
+XX.- De Asuntos Indígenas;
+
+XXI.- De Atención a Grupos Vulnerables de la Sociedad;
+
+XXII.- De Examen Previo y Procedencia Legislativa; y
+
+XXIII.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
 
 ###### ARTÍCULO 93.
 
@@ -865,9 +879,11 @@ La administración de los recursos presupuestales y patrimoniales del Congreso d
 
 Cada Grupo Parlamentario tendrá, dentro de la Comisión de Administración, voto ponderado en relación directa al número de diputados que representan.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 112.
 
-Esta comisión estará integrada por un diputado de cada uno de los Grupos Parlamentarios acreditados en el Congreso del Estado, quienes gozarán del derecho a voz y voto, y por el Presidente en turno con derecho a voz. Los miembros de esta comisión no podrán formar parte de las comisiones de Régimen Interno y Concertación Política ni de la de Vigilancia del Instituto Superior de Auditoría y Fiscalización.
+Esta comisión estará integrada por hasta dos diputados de cada Grupo Parlamentario acreditado en el Congreso del Estado. Todos los integrantes gozarán del derecho a voz y el voto ponderado será expresado por el diputado que al efecto señale cada Grupo Parlamentario. Los miembros de esta comisión no podrán formar parte de las comisiones de Régimen Interno y Concertación Política ni de la de Vigilancia del Instituto Superior de Auditoría y Fiscalización.
 
 ###### ARTÍCULO 113.
 
@@ -1688,3 +1704,9 @@ SALA DE SESIONES DEL H. CONGRESO DEL ESTADO
 Hermosillo, Sonora, a 27 de febrero de 2007.
 
 C. DIP. FRANCISCO GARCÍA GÁMEZ, DIPUTADO PRESIDENTE, RUBRICA. C. DIP. REYNALDO MILLÁN COTA, DIPUTADO SECRETARIO, RUBRICA. C. DIP. LUIS MELECIO CHAVARÍN GAXIOLA, DIPUTADO SECRETARIO, RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 25 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
