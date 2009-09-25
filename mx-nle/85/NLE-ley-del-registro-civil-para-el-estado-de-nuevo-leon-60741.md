@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-registro-civil-para-el-estado-de-nuevo-leon-60741"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2008-04-10"
+last_updated: "2009-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR UNA VEZ QUE INICIE LA VIGENCIA DE LA REFORMA AL CODIGO CIVIL DEL ESTADO DE NUEVO LEON EN MATERIA DE REGISTRO CIVIL Y OBLIGACIONES DE LOS OFICIALES DEL REGISTRO CIVIL, EN CONGRUENCIA CON ESTA LEY.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 10 de abril de 2008.
 
@@ -483,7 +481,11 @@ En todo momento se podrá requerir al interesado la presentación de documentos 
 
 La resolución que resuelva la solicitud de aclaración se notificará al Oficial, quien deberá hacer las anotaciones al margen de la respectiva acta, sea que se conceda o se niegue lo solicitado.
 
-### CAPÍTULO X. DEL REGISTRO EXTEMPORÁNEO DE NACIMIENTOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO X. DEL REGISTRO EXTEMPORÁNEO DE NACIMIENTOS Y DE LA SOLICITUD DE INSCRIPCIÓN DE LA PATERNIDAD DE HIJOS NACIDOS FUERA DE MATRIMONIO
 
 ###### Artículo 51.
 
@@ -514,6 +516,18 @@ De no reunirse los requisitos anteriores, se atenderá lo establecido en los Có
 Presentada la solicitud y los demás requisitos establecidos, se citará dentro de los tres días hábiles siguientes al interesado a una audiencia, en donde ratificará el contenido de su solicitud, y en la cual intervendrán dos testigos, mayores de edad, designados por el interesado, teniendo preferencia quienes sean parientes. En la misma se desahogarán las pruebas y el interesado podrá formular los alegatos de su intención; procediendo el Director a resolver sin demora alguna o dentro de los tres días hábiles siguientes.
 
 En lo no previsto en este capítulo, se aplicará de manera supletoria el Código Civil y en su defecto el Código de Procedimientos Civiles, ambos del Estado de Nuevo León.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 53 Bis.
+
+Cuando el hijo de mujer soltera no sea reconocido voluntariamente por el padre, podrá acudir ésta ante el Oficial del Registro Civil, con el objeto de que su hijo tenga la certeza de conocer quién es su padre biológico; percibir de sus ascendientes la satisfacción de sus necesidades y la obtención de una vida digna que permita su desarrollo; ejercer su derecho a la identidad y solicitar la Inscripción de nacimiento del menor.
+
+En este caso, el Oficial del Registro Civil con base en la solicitud que le haga la madre en los términos del Reglamento, deberá citar al presunto padre por medio de correo certificado o por telégrafo para que comparezcan en el lugar, día, hora, mes y año, que se le Indique a efecto de que, con asistencia de la madre, y de no mediar oposición se proceda al reconocimiento administrativo de filiación, levantándose el acta correspondiente; dicha citación podrá exceder del término de tres días hábiles.
+
+De no presentarse el presunto padre en la fecha indicada o de existir oposición a la paternidad atribuida, se procederá a inscribir el nacimiento del menor con los apellidos de la madre; en ese caso, se deberá orientar a la interesada fa fin de que inicie ante los Tribunales Judicial el reconocimiento del menor o la investigación de la paternidad en los términos del Código Civil y el de Procedimientos Civiles del Estado.
 
 ###### Artículo 54.
 
@@ -750,3 +764,9 @@ JOSÉ NATIVIDAD GONZÁLEZ PARÁS
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 RODRIGO MEDINA DE LA CRUZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+Articulo Único,- El Presente Decreto entrará en vigor el 30 de septiembre de 2009.
