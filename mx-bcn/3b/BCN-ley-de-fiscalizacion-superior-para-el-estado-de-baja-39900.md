@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-para-el-estado-de-baja-39900"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-21"
-last_updated: "2007-09-14"
+last_updated: "2009-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 21 de mayo de 2004.
 
@@ -841,13 +841,19 @@ VI. Las demás que le señale el Auditor Superior de Fiscalización del Estado y
 
 El Auditor Superior de Fiscalización del Estado durante el ejercicio de su cargo, no podrá:
 
-I. Formar parte de algún partido político. Se entiende que es parte de un partido político cuando se participa en actos políticos partidistas y se haga cualquier tipo de propaganda o promoción partidistas, bajo alguna designación que les haya hecho el partido político de que se trate;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+I. Ocupar cargo de dirigente de algún partido político;
 
 II. Desempeñar otro empleo o encargo en los sectores público, privado o social, salvo los de docencia, y los no remunerados en asociaciones científicas, artísticas o de beneficencia; y,
 
 III. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia el Órgano para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines a que se encuentra afecta.
 
-El Auditor Superior de Fiscalización, no podrá desempeñar cargo alguno en los poderes o entidades fiscalizados durante los dos años siguientes a la terminación de su gestión.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 85.
 
@@ -960,3 +966,13 @@ P.O. 18 DE MAYO DE 2007.
 P.O. 14 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+SEGUNDO.- El actual Auditor Superior de Fiscalización durará en su encargo el tiempo para el cual fue designado de conformidad con la legislación vigente que nos rige.
+
+TERCERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto en el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+CUARTO.- La reforma al artículo 84 de la Ley de Fiscalización Superior para el Estado de Baja California, entrará en vigor, una vez que cobre vigencia la reforma a los artículos 22, 27, 37, 90 y 100 de la Constitución Política del Estado, referida en los artículos transitorios antes citados.
