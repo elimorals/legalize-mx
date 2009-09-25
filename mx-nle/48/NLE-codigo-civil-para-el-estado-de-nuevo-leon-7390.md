@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2009-01-14"
+last_updated: "2009-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -791,41 +791,49 @@ Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendie
 
 ### CAPITULO II. ACTAS DE NACIMIENTO
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 57.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél. Esta presentación no tendrá lugar cuando exista el certificado de nacido vivo a que se refiere el artículo siguiente, cuyo documento será suficiente para el registro.
+Las declaraciones de nacimiento se harán presentando al menor ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre el menor. Esta presentación no tendrá lugar cuando exista el certificado de nacido vivo o de nacimiento a que se refiere el artículo siguiente, cuyo documento será suficiente para el registro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 58.
 
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos dentro de los cuarenta días naturales de ocurrido. A falta de los padres, los abuelos están obligados a hacerlo en igual plazo. Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los quince días siguientes, mediante la entrega del certificado de nacido vivo, de muerte fetal o de defunción, de acuerdo con las formas expedidas por la Dirección del Registro Civil, la misma obligación tiene el hombre o la mujer jefe de familia en cuya casa haya tenido lugar el alumbramiento si éste ocurrió fuera de la casa paterna.
+Tienen obligación de declarar el nacimiento ante el Oficial del Registro Civil, el padre y la madre o cualquiera de ellos inmediatamente, y cuando esto no fuera dentro de los treinta días naturales de ocurrido. A falta de los padres, o por incapacidad de ellos, en igual plazo están obligados a hacerlo los abuelos, el hombre o la mujer jefe de familia en cuya casa haya tenido lugar el alumbramiento si éste ocurrió fuera del lugar de residencia de la madre. Los médicos, cirujanos o parteras que hubieren asistido al parto, tienen obligación de entregar el certificado de nacido vivo o de nacimiento, de muerte fetal o de defunción, en los términos de la ley aplicable. Asimismo, tienen obligación de dar aviso del nacimiento de un menor, al Director del Registro Civil inmediatamente dentro de los tres días siguientes a la expedición del certificado de nacido vivo o nacimiento, a través del formato que para tal efecto expida la Dirección del Registro Civil, el cual deberá contener como mínimo los siguientes datos: nombre, apellidos, edad y domicilio de la madre, así como la huella del dedo pulgar derecho de la madre, lugar y fecha del nacimiento y sexo del menor y demás datos que se establezcan en la Ley del Registro Civil y su Reglamento.
 
-Recibido el aviso, el Oficial del Registro Civil, en observancia a lo dispuesto por el artículo 337, levantará el acta de nacimiento conforme a las disposiciones relativas, o expedirá la orden de inhumación.
+Recibido el certificado, el Oficial del Registro Civil en observancia a lo dispuesto por el artículo 337, levantará el acta de nacimiento conforme a las disposiciones relativas, o en su caso expedirá la orden de inhumación.
 
-(REFORMADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 59.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el año, mes, día hora y lugar de nacimiento, el Sexo, el nombre y apellidos que le correspondan sin que por motivo alguno pueda omitirse; la expresión de si es presentado vivo o muerto según el certificado de nacimiento, el nombre, edad, domicilio y nacionalidad de los padres, el nombre, domicilio y nacionalidad de los abuelos paternos y maternos, el nombre, edad, domicilio y nacionalidad de los testigos. Si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
+El acta de nacimiento se extenderá con asistencia de dos testigos designados por los interesados, a quienes se les deberá hacer del conocimiento el contenido y alcance jurídico de las disposiciones relacionadas con el delito de falsedad en declaraciones y en informes dados a una autoridad, contenidos en el Código Penal para el Estado, además se le protestará a fin de que se conduzcan con verdad y se les apercibirá de las sanciones aplicables.
 
-En el caso de no exhibirse el mencionado certificado, se tomará al margen del acta la impresión digital del presentado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
-Si el nacimiento ocurriere en un establecimiento de reclusión, el Oficial del Registro Civil deberá asentar como domicilio del nacido el Municipio donde haya acontecido.
-
-(REFORMADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
-
-###### Art. 60.
-
-Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres, se asentará a éstos como sus progenitores, salvo sentencia judicial en contrario.
+Contendrá el año, mes, día, hora y lugar de nacimiento, el sexo, el nombre y apellidos que le correspondan sin que por motivo alguno pueda omitirse: la expresión de si es presentado vivo o muerto, según el certificado de nacimiento; el nombre, edad, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; y, el nombre, edad, domicilio y nacionalidad de los testigos. Si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
+En el caso de no exhibirse el mencionado certificado, se tomará al margen del acta la impresión digital del presentado.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+
+Si el nacimiento ocurriere en un establecimiento de reclusión, el Oficial del Registro Civil deberá asentar como domicilio del nacido el Municipio donde haya acontecido.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+###### Art. 60.
+
+Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres, se asentará a éstos como sus progenitores, salvo sentencia ejecutoria en contrario.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Art. 61.
 
-Cuando el nacido fuere presentado como hijo de matrimonio se anotarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona que hubiere hecho la presentación. Los testigos de que habla el artículo 59 declararán también acerca de la nacionalidad de los padres del presentado ante el Registro.
+Cuando el nacido fuere presentado como hijo de matrimonio, se anotarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona que hubiere hecho la presentación, así como el parentesco que tenga con el presentado. Los testigos a que se refiere el artículo 59 declararán también acerca de la nacionalidad de los padres del presentado ante el Registro.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -833,25 +841,43 @@ Cuando el nacido fuere presentado como hijo de matrimonio se anotarán los nombr
 
 Cuando no se presente copia certificada del matrimonio, solo se asentará el nombre del padre o de la madre cuando éstos lo soliciten por sí o por apoderado en los términos que establece el artículo 49. Se asentará también el nombre y apellidos de los abuelos correspondientes según el caso.
 
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se dá el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida; pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
-En estos casos por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota, se testarán de oficio dichas palabras por quien tenga a su cargo las actas.
+En los términos de este capítulo, el padre y la madre que no estuvieren casados entre sí, tienen el derecho de reconocer voluntariamente a su hijo, en ningún caso la madre dejará de reconocerlo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+Cuando no sea reconocido el hijo durante la minoría de edad, el Ministerio Público podrá hacer la investigación de la paternidad o maternidad ante los Tribunales de acuerdo con las disposiciones relativas en este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+Cuando el hijo de mujer soltera no sea reconocido voluntariamente por el padre, la madre en los términos de lo dispuesto por la Ley del Registro Civil y su Reglamento, podrá acudir ante el Oficial del Registro Civil a solicitar sea inscrito el nacimiento del menor y se ejerza plenamente el derecho a la identidad.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+Por ningún motivo se asentará que un menor es de padre o madre desconocido, ni se utilizarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota, se testarán de oficio dichas palabras por quien tenga a su cargo las actas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 El Oficial del Registro Civil que viole lo dispuesto en el párrafo anterior, será destituido de su cargo sin perjuicio de las sanciones penales que pudieran corresponderle.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 63.
 
-Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+No se asentará que es hijo nacido fuera del matrimonio cuando sus padres tuvieran impedimento para contraerlo entre sí, sólo se asentará el nombre de ambos padres si lo pidieren, observándose lo dispuesto por el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 64.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+Cuando el hijo nazca de una mujer casada, se observará lo siguiente:
 
-En éste como en el caso del artículo anterior, se observará lo previsto en los dos últimos párrafos del artículo 62.
+I.- Si la madre vive con su marido, en ningún caso ni a petición de persona alguna, podrá el Oficial del Registro Civil asentar como padre a otro que no sea el mismo marido; salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare;
+
+II.- Si la madre manifiesta que no vive con su marido, en los trescientos días que precedan al nacimiento del hijo, se asentará su nombre y el del padre distinto al marido si éste lo solicita con el consentimiento de la madre; en este caso la separación de los cónyuges se acreditará ante el Oficial del Registro Civil con cualquier constancia o documento idóneo y con la declaración de dos testigos en los términos del primer párrafo del artículo 59, quienes preferentemente no deberán tener parentesco por consanguinidad con los padres.
+
+El marido podrá reclamar judicialmente la paternidad constituida en los términos anteriores y deberá probarla a través de cualquiera de los medios de prueba autorizados por la ley. El plazo para hacer valer esta acción será de un año contado a partir de la inscripción del nacimiento del hijo ante el Oficial del Registro Civil, si está presente; desde el día en que llegó al lugar, si estuvo ausente; desde el día en que descubrió el hecho, si no sabía del nacimiento.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
@@ -881,11 +907,13 @@ En las actas que se levanten en tales casos, se expresarán las circunstancias q
 
 Si con el expósito o menor abandonado se hubieren encontrado papeles u objetos que puedan conducir a la identificación de aquél, la Procuraduría de la Defensa del Menor y la Familia ordenará sea confiado al Ministerio Público respectivo, quien lo hará constar en el acta circunstanciada correspondiente, de la cual entregará copia a quien recoja al menor.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 69.
 
-Se prohibe al Oficial del Registro Civil y a los testigos que conforme al artículo 59 deban asistir al acto, hacer inquisición sobre la paternidad o maternidad. En el acta solo se expresara lo que deben declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+Se prohíbe al Oficial del Registro Civil y a los testigos que conforme al artículo 59 deban asistir al acto, hacer inquisición sobre la paternidad o maternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño y los testigos.
+
+Cuando el Oficial del Registro Civil sospeche que quien o quienes presenten al niño o atestigüe falsamente, enviará las constancias al Ministerio Público, para los fines a que haya lugar y dará aviso a la Procuraduría de la Defensa del Menor y la Familia, suspendiéndose el trámite hasta en tanto se resuelva.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -913,11 +941,11 @@ Si en el puerto no hubiere funcionario de esta clase, se entregará la constanci
 
 Si el nacimiento ocurriere en un transporte aéreo o marítimo extranjero, se observará lo previsto en el artículo 15 por lo que toca a las solemnidades del registro.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 74.
 
-Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas.
+Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, conforme las reglas antes establecidas.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -925,11 +953,11 @@ Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en 
 
 Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas: una de nacimiento y otra de defunción.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 76.
 
-En el caso de nacimiento múltiple, se levantará acta para cada individuo y se harán constar las particularidades que los distinga y quien nació primero, según las noticias que comunique el médico, cirujano, matrona o personas que hayan asistido el parto.
+En el caso de nacimiento múltiple, se levantará acta para cada individuo y se harán constar la (sic) particularidades que los distinga y quién nació primero, según el certificado de nacido vivo o de nacimiento que expida el médico, cirujano, partera o el testimonio que tenga (sic) de ello las personas que hayan asistido al parto.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1293,7 +1321,7 @@ Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina 
 
 ###### Art. 122.
 
-Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a Derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora él nombre del difunto se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general todo lo que pueda conducir a identificar a la persona. Siempre que se adquieran mayores datos se comunicarán al Oficial del Registro Civil para que los anote.
+Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Publico comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a Derecho. Cuando el Ministerio Publico averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora él nombre del difunto se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general todo lo que pueda conducir a identificar a la persona. Siempre que se adquieran mayores datos se comunicarán al Oficial del Registro Civil para que los anote.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -2235,7 +2263,7 @@ Los consortes que no se encuentren en el caso previsto en los anteriores párraf
 
 ###### Art. 273.
 
-(DEROGADO, P.O.10 DE SEPTIEMBRE DE 2006)
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 ###### Art. 274.
 
@@ -2591,33 +2619,39 @@ Por violencia familiar se considera la conducta o el acto abusivo de poder u omi
 
 ### CAPITULO I. DE LOS HIJOS DE MATRIMONIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
 ## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACIÓN
 
 ### CAPITULO II. DE LAS PRUEBAS DE FILIACION DE LOS HIJOS NACIDOS DE MATRIMONIO
 
 ###### Art. 324.
 
-Se presumen hijos de los cónyuges:
+Se presumen hijos de los cónyuges, salvo prueba en contrario:
 
 I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
 
 II.- Los hijos nacidos dentro de los 300 días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 325.
 
-Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento, o que aun habiéndolo tenido existan razones biológicas o fisiológicas plenamente comprobadas que imposibiliten la concepción.
+Contra esta presunción será admitido todo medio de prueba autorizado por la ley.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 326.
 
-El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa, o que aun habiéndolo tenido existan razones biológicas o fisiológicas plenamente comprobadas que imposibiliten la concepción.
+El marido no podrá desconocer al hijo, alegando no ser su padre biológico, aunque la madre declare que no es hijo de su esposo, a no ser que el nacimiento se le haya ocultado o que estando separada de su cónyuge viva maritalmente con otro hombre y éste reconozca como suyo al hijo de aquélla, en términos de lo dispuesto por el artículo 64.
+
+También podrá desconocer al hijo cuando demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa o que aun habiéndolo tenido, existan razones biológicas o fisiológicas plenamente comprobadas que imposibiliten la concepción.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 327.
 
-El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste, pueden sostener en tales casos que el marido es el padre.
+El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho, tuvo lugar la separación provisional regulada para los casos de divorcio y nulidad acreditándolo con cualquier medio de prueba autorizado por la ley.
 
 ###### Art. 328.
 
@@ -2633,9 +2667,11 @@ III.- Si ha reconocido expresamente por suyo al hijo de su mujer;
 
 IV.- Si el hijo no nació capaz de vivir.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Art. 329.
 
-Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
+Las cuestiones relativas a la paternidad del hijo nacido después de los trescientos días de la disolución del matrimonio o a partir de la separación de hecho de los cónyuges según el supuesto del artículo 64, podrán promoverse en el plazo de un año contado a partir del nacimiento del hijo, por la persona a quien perjudique o beneficie la filiación.
 
 ###### Art. 330.
 
@@ -2715,9 +2751,13 @@ III.- Que el presunto padre tenga la edad exigida por el artículo 361.
 
 Declarado nulo un matrimonio, haya habido buena o mala fé en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Art. 345.
 
-No basta el dicho de la madre para excluir de la paternidad al marido. Mientras que éste viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
+No basta el dicho de la madre para excluir de la paternidad al marido, salvo en el último caso previsto en el primer párrafo del artículo 326.
+
+Mientras que el marido viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
 
 ###### Art. 346.
 
@@ -2859,9 +2899,11 @@ El Oficial del Registro Civil, el Juez de Primera Instancia en su caso, y el not
 
 El hombre o la mujer podrán reconocer a un hijo habido antes de su matrimonio o durante éste; y tendrán derecho de llevarlo a vivir al domicilio conyugal, con el consentimiento expreso de su cónyuge.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Art. 374.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, salvo lo dispuesto por el artículo 64 ó cuando el marido lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
 
 ###### Art. 375.
 
@@ -3249,11 +3291,15 @@ Los hijos menores de edad no emancipados, están bajo la patria potestad mientra
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 414.
 
-La patria potestad se ejerce por el padre y la madre conjuntamente. Solamente por falta o impedimento de éstos, corresponderá a los abuelos. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
+En los términos de este capítulo, el padre, la madre y los abuelos paternos y maternos son los titulares de la patria potestad sobre los hijos o nietos menores de edad; se ejerce conjuntamente por los padres y solamente por falta o Impedimento de éstos, corresponderá su ejercicio a los abuelos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
@@ -3275,15 +3321,17 @@ En el caso del artículo 414, los abuelos a quienes les corresponde la patria po
 
 Si no se pusieren de acuerdo decidirá el Juez oyendo a los ascendientes, conforme a lo establecido en el artículo 418.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 415 Bis.
 
-Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, a quienes se les solicitará su opinión si han cumplido doce años. El ejercicio de este derecho, queda supeditado a que no represente riesgo para el menor y a la acreditación del cumplimiento de la obligación alimenticia.
+Los titulares de la patria potestad, aun cuando no conserven la custodia, tienen el derecho de convivencia con sus descendientes, a quienes se les solicitará su opinión si han cumplido doce años. El ejercicio de este derecho, queda supeditado a que no represente riesgo para el menor y a la acreditación del cumplimiento de la obligación alimenticia.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+No podrán impedirse; sin justa causa, las relaciones personales entre el menor, padres y abuelos. Quien ejerza su custodia tiene la obligación de respetar, procurar y permitir la convivencia con quien no la detenta y tenga la patria potestad; en caso de oposición, a petición de cualquiera de ellos, el juez resolverá lo conducente en atención al interés superior del menor debiendo precisar los días y las horas para el ejercicio de tal derecho.
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus ascendientes. Quien ejerza su custodia tiene la obligación de respetar, procurar y permitir la convivencia con quien no la tenga y ejerza la patria potestad; en caso de oposición, a petición de cualquiera de ellos, el juez resolverá lo conducente en atención al interés superior del menor debiendo precisar los días y las horas para el ejercicio de tal derecho. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior.
+Corresponde a los abuelos asumir las expensas del goce y disfrute de su derecho para convivir con sus nietos menores de edad, mas dicha facultad no representa subordinación de los derechos de quien o quienes ejerzan la patria potestad y a la libertad que tienen de dirigir su formación.
+
+Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refieren los párrafos anteriores.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
@@ -3305,11 +3353,11 @@ Las obligaciones, facultades y restricciones establecidas para los tutores, se a
 
 La anterior custodia podrá terminar por decisión del pariente que la realiza, por quien o quienes ejercen la patria potestad o por resolución judicial.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 418.
 
-En todos los casos en que se requiera la intervención judicial para decidir sobre la patria potestad y la custodia de los menores sujetos a ellas, deberá oírseles si han cumplido doce años; y se resolverá lo que sea más conveniente a su bienestar. Lo mismo se observará en los asuntos relativos a la formación y educación de los menores.
+En todos los casos en que se requiera la intervención judicial para decidir sobre la patria potestad, la custodia y la convivencia de los menores sujetos a ellas, deberá oírseles si han cumplido doce años; y se resolverá lo que sea más conveniente a su bienestar. Lo mismo se observará en los asuntos relativos a la formación y educación de los menores.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -16682,3 +16730,7 @@ Segundo.- En relación a las modificaciones al Artículo 2 de la Ley que Crea el
 Tercero.- El Ejecutivo Estatal emitirá el Reglamento de la Ley que Crea el Consejo Estatal de Adopciones de Nuevo León, dentro de los treinta días naturales una vez recibido el proyecto que dispone el Artículo Transitorio anterior.
 
 Cuarto.- El Ejecutivo del Estado a través de la Secretaria de Finanzas y Tesorería General del Estado, determinará la reasignación presupuestal que corresponda al Consejo Estatal de Adopciones, dentro del Ejercicio Fiscal 2009.
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+Artículo Único.- El presente Decreto entrará en vigor el 30 de septiembre de 2009.
