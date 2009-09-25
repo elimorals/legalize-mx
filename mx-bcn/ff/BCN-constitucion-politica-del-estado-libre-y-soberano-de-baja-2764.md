@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2009-08-28"
+last_updated: "2009-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -461,11 +461,17 @@ La Ley fijará los requisitos y el procedimiento para la elección de los Consej
 
 El Congreso del Estado tendrá cada año de ejercicio constitucional, dos períodos de sesiones ordinarias que comprenderán del primero de octubre al último día de enero de cada año y del primero de abril al último día de julio; y períodos en los que funcionará la Comisión Permanente, los que abarcarán del primero de febrero al último día de marzo y del primero de agosto al último día de septiembre.
 
-En el Primer Período Ordinario, antes de concluir el año, examinará, discutirá y aprobará el Presupuesto del Estado correspondiente al siguiente Ejercicio Fiscal, decretando las contribuciones y percepciones necesarias para cubrirlo e impondrá también las contribuciones y demás ingresos para cubrir las necesidades de los Municipios del Ejercicio Fiscal siguiente y determinará las bases, montos y plazos conforme a los cuales cubrirá la Federación sus participaciones a los propios Municipios.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
-En el Segundo Período Ordinario, el Congreso se ocupará preferentemente del examen, discusión y aprobación de las Cuentas Públicas del año anterior, tanto del Estado como de los Municipios. En esta función el Congreso investigará si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto; comprobando la exactitud y justificación de los gastos hechos y determinará las responsabilidades que resultaren.
+En ambos periodos ordinarios, la Legislatura del Estado estudiará y votará los dictámenes de las cuentas públicas y modificaciones presupuestales, que sean presentados a su consideración, así como las iniciativas de Leyes, decretos o acuerdos económicos; y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
 
-En ambos Períodos Ordinarios, la Legislatura del Estado estudiará y votará las iniciativas de Leyes o Decretos que se presenten y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+En el Primer Periodo Ordinario, antes de concluir el año, examinará, discutirá y aprobará las Leyes de Ingresos del Estado y de los Municipios, así como los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Públicos Autónomos, correspondientes al ejercicio fiscal siguiente, en los términos de la Ley de materia.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+En el Segundo Periodo Ordinario, el Congreso concluirá la revisión, análisis, dictaminación y, en su caso, aprobación o no aprobación, de las Cuentas Públicas recibidas en el ejercicio anterior, que hayan sido fiscalizadas en los términos de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -525,13 +531,13 @@ IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayunta
 
 X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
-XI.- Aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado;
+XI.- Aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Públicos Autónomos, en los términos de la Ley de (sic) materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que se determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
-XII.- Revisar, analizar, auditar y dictaminar por medio del Organo de Fiscalización Superior del Estado para su aprobación o desaprobación las cuentas públicas anuales del Gobierno del Estado, Municipios, Organismos e Instituciones Descentralizadas, Empresas de Participación Estatal, Fideicomisos, Organismos Públicos constitucionalmente autónomos y demás entidades que administren recursos públicos;
+XII.- Revisar, analizar y auditar por medio del Órgano de Fiscalización Superior del Estado, las cuentas anuales de las Entidades fiscalizables, y dictaminar la aprobación o no aprobación de las mismas, en los términos de la Ley de la materia. Asimismo, sin perjuicio del principio de an (sic) y posterioridad, podrá solicitar y revisar, de manera concreta, información de ejercicios anteriores al de la Cuenta Publica en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, pero exclusivamente cuando el proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior del Estado emita, solo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión;
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2004)</small>
 
@@ -627,7 +633,7 @@ XXXVIII.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas 
 
 ### CAPITULO IV.. DEL ORGANO DE FISCALIZACION SUPERIOR
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 28.
 
@@ -767,37 +773,51 @@ La elección de la Mesa Directiva se comunicará al Titular del Ejecutivo del Es
 
 ###### ARTICULO 37.
 
-El Congreso del Estado contará con un órgano de fiscalización denominado Órgano de Fiscalización Superior, de carácter técnico y con autonomía de gestión en el ejercicio de sus atribuciones para decidir sobre su organización, recursos, funcionamiento y resoluciones.
+El Congreso del Estado contará con un órgano de fiscalización denominado Órgano de Fiscalización Superior, con autonomía técnica y de gestión en ejercicio de sus atribuciones para decidir sobre su organización interna, recursos, funcionamiento y resoluciones, el cual se sujetará a lo siguiente:
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2004)</small>
+I.- El Órgano de Fiscalización Superior será administrado y dirigido por un Auditor Superior de Fiscalización, quien actuará con plena independencia e imparcialidad y responderá solo al mandato de la Ley.
 
-El Órgano Superior de Fiscalización Superior será administrado y dirigido por un Auditor Superior de Fiscalización, quien actuará con plena independencia e imparcialidad y responderá solo al mandato de la Ley.
+II.- Para su designación y remoción será necesaria la aprobación de las dos terceras partes de los Diputados presentes, en la sesión de Pleno del Congreso del Estado.
 
-Será designado por mayoría calificada del Congreso del Estado y podrá ser removido en los mismos términos de su elección.
+III.- La Ley determinará el procedimiento para la designación del Auditor Superior de Fiscalización. Podrá ser removido, exclusivamente, por las causas graves que la Ley señale o por las causas y conforme a los procedimientos previstos en el Titulo Octavo de esta Constitución.
 
-Para ser Auditor Superior de Fiscalización se requiere además de los requisitos establecidos en las fracciones I, II, V, VI, VII del artículo 60 de esta Constitución, poseer Título Profesional de Contador Público, Licenciado en Derecho o profesión afín, así como tener reconocido prestigio profesional, capacidad y experiencia técnica. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los remunerados en asociaciones científicas, docentes, artísticas o de beneficiencia (sic).
+IV.- El nombramiento de Auditor Superior de Fiscalización será por períodos de siete años.
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2004)</small>
+V.- Durante el ejercicio de su encargo no podrá ocupar cargo de dirigente de algún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los remunerados en asociaciones científicas, docentes, artistas o de beneficencia.
 
-El Auditor Superior de Fiscalización, no podrá desempeñar cargo alguno en los poderes o entidades fiscalizados durante los dos años siguientes a la terminación de su gestión.
+VI.- Para ser nombrado Auditor Superior de Fiscalización se requiere:
 
-El Órgano de Fiscalización Superior, tendrá las atribuciones siguientes:
+a).- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
 
-I.- Fiscalizar la administración, manejo, custodia y aplicación de fondos, subsidios y recursos de los poderes del Estado y de las entidades públicas estatales, incluyendo a los municipios, organismos dotados de autonomía y particulares, cuando manejen recursos de origen público, que incluirá auditoría de desempeño, eficiencia, economía, legalidad y cumplimiento;
+b).- Tener cuando menos 35 años cumplidos el día de la designación;
 
-II.- Entregar el informe de resultado de la revisión de la Cuenta Pública al Congreso del Estado dentro de los plazos que establece la Ley. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los planes y programas respectivos, que comprenderá los comentarios y observaciones de los auditados, mismo que tendrá carácter público.
+c).- Haber residido en el Estado durante los diez años anteriores al día de su designación;
 
-El Órgano de Fiscalización Superior deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+d).- Poseer Título profesional de Contador Público, o Titulo afín;
 
-III.- Dar a conocer al Congreso del Estado los actos u omisiones en que se presuma alguna irregularidad o conducta ilícita en la administración, manejo, custodia y aplicación de fondos y recursos públicos;
+e).- Tener reconocido prestigio profesional y experiencia técnica de por lo menos cinco años en materia de administración pública, así como de control, auditoría financiera y de responsabilidades;
 
-IV.- Efectuar visitas domiciliarias en los términos que señale la Ley;
+f).- Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y
 
-V.- Proponer las bases para la determinación de daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal, o al Patrimonio de las Entidades Públicas Estatales y Municipales; así como para las indemnizaciones y sanciones pecuniarias correspondientes a los responsables, haciéndolo del conocimiento del Congreso quien procederá conforme a la Ley.
+g).- No haber ocupado cargo de elección popular, ni haber sido titular de los Poderes Ejecutivo, Legislativo y Judicial, Municipios y Organismos Públicos Autónomos, así como titular de sus respectivas Entidades, Dependencias y Unidades Administrativas equivalentes, durante los dos años previos al día de la designación.
 
-La Ley determinará el procedimiento para la designación del Auditor Superior de Fiscalización. Dicho titular durará en su encargo cuatro años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la Ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Octavo de esta Constitución.
+VII.- El Órgano de Fiscalización Superior, tendrá las atribuciones siguientes:
 
-Los poderes del Estado y los sujetos de fiscalización proporcionarán auxilio al Órgano de Fiscalización Superior para el ejercicio de sus funciones.
+a).- Fiscalizar la administración, manejo, custodia y aplicación de fondos, subsidios y recursos de los poderes del Estado y de las entidades públicas estatales, incluyendo a los municipios, organismos dotados de autonomía y particulares, cuando manejen recursos de origen público, que incluirá auditoria de desempeño, eficiencia, economía y cumplimiento;
+
+Las atribuciones de fiscalización se desarrollarán conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+b).- Entregar los informes de resultados de las revisiones de las Cuentas Públicas al Congreso del Estado en los términos y plazos que establece la Ley de la materia, mismos que tendrán carácter público.
+
+El Órgano de Fiscalización Superior deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este Artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+c).- Dar a conocer al Congreso del Estado los actos u omisiones en que se presuma alguna irregularidad o conducta ilícita en la administración, manejo, custodia y aplicación de fondos y recursos públicos;
+
+d).- Efectuar visitas domiciliarias en los términos que señale la Ley;
+
+e).- Proponer las bases para la determinación de daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal, o al Patrimonio de las Entidades Públicas Estatales y Municipales; así como para las indemnizaciones y sanciones pecuniarias correspondientes a los responsables, haciéndolo del conocimiento del Congreso quien procederá conforme a la Ley
+
+Los Poderes del Estado y los sujetos de fiscalización proporcionarán auxilio al Órgano de Fiscalización Superior para el ejercicio de sus funciones.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
@@ -971,7 +991,7 @@ XI.- Cuidar la recaudación y correcta inversión de los caudales del Estado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2008)</small>
 
-XII.- Fomentar, impulsar y promover el desarrollo sustentable de la pesca y acuacultura en el Estado, considerando la participación del sector social y privado, así como coordinarse con la Federación y los Municipios de nuestra Entidad, cuando su intervención sea requerida para el ejercicio de las atribuciones que en esta materia les competan de conformidad con la presente Constitución y las leyes que correspondan.
+XII.- Fomentar, impulsar y promover el desarrollo sustentable de la pesca y acuacultura en el Estado, considerando la participación del sector social y privado, así como coordinarse con la Federación y los Municipios de nuestra Entidad, cuando su intervención sea requerida para el ejercicio de las atribuciones que en esta materia les competan de conformidad con la presente Constitución y las leyes que correspondan;.
 
 XIII.- Expedir los títulos profesionales con arreglo a las leyes y reconocer la validez de los que se expidan, en otras Entidades de la Federación, observando lo dispuesto en la fracción V del Artículo 121 de la Constitución de los Estados Unidos Mexicanos;
 
@@ -1863,11 +1883,15 @@ Pertenecen al Estado, además de los bienes de dominio público, de las contribu
 
 El Congreso expedirá la Ley de Hacienda que establecerá las bases para la fijación de los impuestos, derechos y participaciones y la manera de hacerlos efectivos, y que regule la organización de las oficinas recaudadoras.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 90.
 
-El presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos.
+Los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial, Organismos Públicos Autónomos y Municipios, se formularán en los términos de la Ley de la materia, en los cuales serán obligatoriamente incluidos los gastos y las dotaciones necesarias para atender los servicios públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+Los resultados obtenidos del ejercicio del presupuesto serán evaluados por el Órgano de Fiscalización Superior, con el objeto de propiciar que los recursos económicos se asignen en sus respectivos presupuestos con base a los resultados de las evaluaciones realizadas. Esto sin menoscabo de sus atribuciones de fiscalización.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -2033,11 +2057,11 @@ IX (sic).- La Ley fijará cuáles son los empleados de confianza y cuáles los d
 
 La Ley del Servicio Civil determinará cual es el procedimiento y el órgano competente para dirimir los conflictos que surjan entre el Gobierno del Estado de Baja California y sus trabajadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 100.
 
-Los recursos económicos de que disponga el Gobierno del Estado y los Municipios así como sus respectivas administraciones públicas descentralizadas, se administrarán con eficiencia, eficacia y honradez, de acuerdo a las metas que estén destinados dentro de sus respectivos Presupuestos de Egresos. Los servidores públicos tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+Los recursos económicos de que dispongan los Poderes Ejecutivo, Legislativo y Judicial, los Organismos Públicos Autónomos y los Municipios así como sus respectivas administraciones públicas descentralizadas, se administrarán con eficiencia, eficacia, economía, transparencia y honradez, de acuerdo a las metas que estén destinados dentro de sus respectivos Presupuestos de Egresos. Los servidores públicos tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
 
@@ -3106,3 +3130,13 @@ Tercero.- La presente reforma entrará en vigor al día siguiente de su publicac
 Cuarto.- Una vez que entre en vigor la anterior reforma, este H. Congreso deberá adecuar las leyes secundarias.
 
 Quinto.- Hasta en tanto no se hagan las reformas a las que se hace referencia en el Artículo anterior, los asuntos iniciados o que se inicien en ese lapso, se regirán por las leyes vigentes de la materia.
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El actual Auditor Superior de Fiscalización durará en su encargo el tiempo para el cual fue designado de conformidad con la legislación vigente que nos rige.
+
+TERCERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto en el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+CUARTO.- La reforma al artículo 84 de la Ley de Fiscalización Superior para el Estado de Baja California, entrará en vigor, una vez que cobre vigencia la reforma a los artículos 22, 27, 37, 90 y 100 de la Constitución Política del Estado, referida en los artículos transitorios antes citados.
