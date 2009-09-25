@@ -4,7 +4,7 @@ identifier: "NLE-ley-reglamentaria-del-registro-publico-de-la-propiedad-y-7911"
 country: "mx"
 rank: "ley"
 publication_date: "1972-01-22"
-last_updated: "1983-12-26"
+last_updated: "2009-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 22 de enero de 1972.
 
@@ -241,9 +241,13 @@ La prelación con razón de hora y fecha de presentación de un título se adqui
 
 ### CAPITULO VII. PROCEDIMIENTO PARA EFECTUAR LAS INSCRIPCIONES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 26o.
 
-Los interesados deberán presentar para su registro, los documentos por duplicado, para el efecto de que en la copia se asiente la anotación de la inscripción correspondiente, en forma progresiva, añadiéndose una hoja en blanco para posteriores anotaciones, y el original se le devuelva con la anotación de haberse registrado en su fecha y bajo el número que le corresponda, haciéndose constar asimismo, la hora en que el documento fue presentado para su registro, debiendo cumplir además en su caso con lo dispuesto por el Artículo 2910 del Código Civil vigente en el Estado.
+Los interesados deberán presentar para su registro, los documentos por duplicado, y procedente el registro, se expedirá constancia de inscripción, consignándose fecha, hora, minuto y segundo en que el documento fue presentado, entregando ésta y el original al interesado, debiendo cumplir además, en su caso, con lo dispuesto por el artículo 2910 del Código Civil vigente en el Estado.
 
 ### CAPITULO VIII. DE LOS TITULOS Y DOCUMENTOS AUTENTICOS
 
@@ -271,9 +275,23 @@ IV.- La naturaleza, extensión, condiciones y cargas del derecho que se constitu
 
 V.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, salvo que se trate de un derecho cuya cuantía sea indeterminada;
 
-VI.- Que el acto de que se trate contenga todas las condiciones esenciales propias a su naturaleza jurídica; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- Nombre, nacionalidad, edad, estado civil, domicilio, profesión u ocupación de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto, debiendo en este último caso consignarse las generales del representante. Las personas morales se designarán por el nombre oficial que lleven, por su denominación o razón social.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+VI.- Que el acto de que se trate contenga todas las condiciones esenciales propias a su naturaleza jurídica;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+VII.- Nombre, nacionalidad, edad, estado civil, domicilio, profesión u ocupación de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto, debiendo en este último caso, consignarse las generales del representante. Tratándose de personas físicas de nacionalidad mexicana, deberán proporcionar además su Clave Única de Registro de Población. Las personas morales deberán mencionar su denominación o razón social, así como su Registro Federal de Contribuyentes; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+VIII.- Citar el número de expediente catastral.
 
 ### CAPITULO X. DE OTROS REQUISITOS
 
@@ -586,3 +604,9 @@ UNICO:- Las presentes reformas entrarán en vigor el día de su publicación en 
 P.O. 26 DE DICIEMBRE DE 1983.
 
 UNICO: Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+Primero.- El presente Decreto entraré en vigor a los quince días naturales siguientes del de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las disposiciones de este decreto se aplicarán a los documentos ingresados para su registro a partir de la fecha de inicio de su vigencia, no obstante haberse celebrado en fecha anterior.
