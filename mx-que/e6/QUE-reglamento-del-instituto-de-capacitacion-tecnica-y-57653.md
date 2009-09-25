@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-instituto-de-capacitacion-tecnica-y-57653"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-23"
-last_updated: "2007-11-23"
+last_updated: "2009-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO DEL INSTITUTO DE CAPACITACION TECNICA Y PROFESIONAL DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. 25 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO MANTENDRA SU VIGENCIA EN LO QUE NO SE OPONGA AL NUEVO REGLAMENTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBREDE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 23 de noviembre de 2007.
 
@@ -706,3 +708,15 @@ Lic. Juan Martín Granados Torres
 Procurador General de Justicia
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE APROBACION QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+Artículo primero. El presente Reglamento entrará en vigor al siguiente día de su publicación en el periódico oficial de Gobierno del Estado.
+
+Artículo segundo. El Reglamento del Instituto de Capacitación Técnica y Profesional y el Reglamento de la Policía de Investigación del Delito, mantendrán su vigencia en lo que no se oponga al presente Reglamento.
+
+Artículo tercero...
