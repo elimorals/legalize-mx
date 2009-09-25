@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-publica-del-estado-de-guanajuato-24593"
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-05"
-last_updated: "2007-06-15"
+last_updated: "2009-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 25 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 5 de abril de 2002.
 
@@ -1636,3 +1638,23 @@ Artículo Quinto. El Ejecutivo del Estado deberá adecuar los reglamentos corres
 Artículo Sexto. Las referencias en cualquier otro ordenamiento legal o reglamentario que se hagan al Instituto para la Formación de los Cuerpos de Seguridad Pública del Estado, se entenderán hechas al Instituto Estatal de Ciencias Penales; asimismo, las referencias al Consejo Estatal de Seguridad Pública se entenderán hechas al Consejo Estatal de Consulta y Participación Ciudadana.
 
 Artículo Séptimo. Los trámites y procedimientos que se hayan iniciado previamente a la entrada en vigencia del presente decreto, se llevarán a cabo conforme a las disposiciones vigentes a la fecha de presentación ante las autoridades correspondientes, hasta su conclusión.
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor a los ciento ochenta días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley de Seguridad Pública para el Estado de Guanajuato, contenida en el Decreto Legislativo número 111, expedido por la Quincuagésima Octava Legislatura, publicado en el Periódico Oficial del Gobierno del Estado número 41, Segunda Parte, del 5 de abril del 2002.
+
+Artículo Tercero. El Ejecutivo del Estado deberá revisar los Programas de Seguridad Pública y de Prevención del Delito a fin de adecuarlos, en su caso, a los requerimientos de esta ley y de la Ley General del Sistema Nacional de Seguridad Pública.
+
+Artículo Cuarto. El Ejecutivo del Estado deberá expedir los reglamentos de esta ley, en un término de ciento ochenta días contados a partir de la publicación del presente Decreto, permaneciendo vigentes los reglamentos existentes, en aquello que no se opongan al contenido de la presente ley.
+
+Asimismo, deberá adecuar el Decreto Gubernativo número 88, que crea el Organismo Público Descentralizado denominado «Centro de Evaluación y Control de Confianza del Estado de Guanajuato», para hacerlo acorde con el dispositivo que establece las funciones del Secretariado Ejecutivo y la presidencia del Consejo Directivo del organismo descentralizado de referencia.
+
+Artículo Quinto. Los ayuntamientos deberán expedir o adecuar los reglamentos que deriven de esta ley, en el ámbito de su competencia, dentro de los treinta días posteriores a la entrada en vigor del presente Decreto, permaneciendo vigentes los reglamentos existentes, en aquello que no se opongan al contenido de la presente ley.
+
+Artículo Sexto. El Ejecutivo del Estado, implementará y pondrá en operación la Secretaría Ejecutiva en un plazo de noventa días a partir de la entrada en vigor del presente decreto.
+
+La Secretaría de Finanzas y Administración realizará los ajustes presupuestales dentro de la Procuraduría General de Justicia del Estado y la Secretaría de Seguridad Pública, para dotar de los recursos humanos, materiales y financieros al Secretariado Ejecutivo del Sistema, para el cumplimiento de sus funciones, de conformidad con el presente Decreto.
+
+Para efectos de lo anterior, el Ejecutivo del Estado deberá llevar a cabo, en el transcurso de dicho plazo, las acciones, programas y previsiones que resulten necesarias para la instrumentación de dicha Secretaría Ejecutiva.
