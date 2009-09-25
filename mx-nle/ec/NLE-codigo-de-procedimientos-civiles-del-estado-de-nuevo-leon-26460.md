@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2009-02-20"
+last_updated: "2009-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -8053,11 +8053,17 @@ Se sujetarán al procedimiento oral, así como a las reglas especiales de esta s
 
 I.- La custodia provisional de los menores respecto de quienes ejercen la patria potestad; en este supuesto, cuando haya menores de doce años, éstos preferentemente deberán permanecer bajo custodia de la madre, salvo los casos de excepción contemplados por el artículo 414 Bis del Código Civil para el Estado de Nuevo León. Debiendo en todo caso el Juez, escuchar la opinión de los menores que han cumplido doce años, resolviendo siempre conforme al interés superior de éstos.
 
-II.- La convivencia entre los padres en relación con sus hijos, o entre éstos y aquellos, mientras estén sujetos a la patria potestad, y
+II.- La convivencia entre los padres en relación con sus hijos, o entre éstos y aquellos, mientras estén sujetos a la patria potestad, y (sic)
 
-III.- Los derechos de posesión de estado de padre o de hijo a que se refiere el artículo 353 del Código Civil para el Estado en vigor.
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
-Están legitimados para acudir en esta vía las personas que ejercen la patria potestad, pero en ella no se ventilará discusión alguna sobre el derecho de su ejercicio y no será procedente cuando dicha cuestión haya sido motivo de sentencia ejecutoria.
+III.- La convivencia de los abuelos con sus nietos menores de edad, y
+
+IV.- Los derechos de posesión de estado de padre o de hijo a que se refiere el artículo 353 del Código Civil para el Estado en vigor.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+Están legitimados para acudir en esta vía las personas que tienen la patria potestad, pero en ella no se ventilará discusión alguna sobre el derecho de su ejercicio y no será procedente cuando dicha cuestión ha sido motivo de sentencia ejecutoria.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -9464,3 +9470,7 @@ P.O. 20 DE FEBRERO DE 2009.
 Primero.- El presente Decreto entrará en vigor el día1 de julio de 2009.
 
 Segundo.- Las disposiciones del presente Decreto no serán aplicables a los procedimientos jurisdiccionales iniciados con anterioridad a la vigencia del mismo.
+
+P.O. 25 DE SEPTIEMBRE DE 2009.
+
+Articulo Único.- El Presente Decreto entrará en vigor el 30 de septiembre de 2009.
