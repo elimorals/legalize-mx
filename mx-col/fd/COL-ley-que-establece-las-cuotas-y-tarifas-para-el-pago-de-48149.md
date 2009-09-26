@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48149"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-05-09"
+last_updated: "2009-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,7 +51,7 @@ D E C R E T O No. 315
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Coquimatlán, Colima, para quedar en los siguientes términos:
 
-> <small>(REFORMADA SU DENOMINACION, P.O.26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable, Alcantarillado y Saneamiento del Municipio de Coquimatlán, Colima.
 
@@ -85,7 +85,9 @@ El pago correspondiente por los servicios de agua potable y alcantarillado, ser�
 
 b) Doméstico zona urbana:
 
-Comprende: La cabecera municipal, Las colonias: Camichines I, Camichines II, Cazumba I, Cazumba II, Las Higueras I, Las Higueras II, Elías Zamora, Emiliano Zapata, Jardines del Llano; Las Moras y San Miguel. 2.775 S/M
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Comprende: La cabecera municipal, Las colonias: Camichines I, Camichines II, Cazumba I, Cazumba II, Las Higueras I, Las Higueras II, Elías Zamora, Emiliano Zapata, Jardines del Llano, Las Moras, Las Moras II,Santa Rita y San Miguel, 2.775 S/M
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -353,7 +355,7 @@ El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publica
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2009, el beneficio a que se refieren el artículo 23 fraccion II de esta Ley, se amplía hasta el 31 de mayo del citado año, además de no generar los recargos correspondientes en dicha prórroga.
+Para el ejercicio fiscal 2009, el beneficio a que se refieren el artículo 23 fracción II de esta Ley, se amplía hasta el 31 de mayo del citado año, además de no generar los recargos correspondientes en dicha prórroga.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -392,3 +394,7 @@ El presente decreto entrará en vigor el día 1° de enero de 2008, previa su pu
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
