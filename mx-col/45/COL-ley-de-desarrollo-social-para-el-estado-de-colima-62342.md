@@ -4,7 +4,7 @@ identifier: "COL-ley-de-desarrollo-social-para-el-estado-de-colima-62342"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2008-07-19"
+last_updated: "2009-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de julio de 2008.
 
@@ -481,9 +481,13 @@ XXIII.- Mantener informada a la población y a la Comisión Estatal acerca de lo
 
 XXIV.- Las demás que le confieran esta Ley, otras Leyes y demás Ordenamientos aplicables en la materia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
 ## TÍTULO CUARTO.
 
-DE LA POLÍTICA ESTATAL DE DESARROLLO SOCIAL.
+DE LA POLÍTICA ESTATAL DE DESARROLLO SOCIAL Y HUMANO.
 
 ### CAPÍTULO I.
 
@@ -529,23 +533,11 @@ IX.- Propiciar la participación de los migrantes Colimenses, canalizando sus re
 
 X.- Promover y garantizar formas propias de organización y participación de la sociedad en la formulación, instrumentación, control, seguimiento, evaluación y actualización de los programas y las políticas de desarrollo social.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 28], P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 27.
-
-La política de desarrollo humano tendrá los siguientes objetivos:
-
-I.- Generar las condiciones que aseguren el disfrute de los derechos que propicien el desarrollo integral del ser humano, garantizando la instrumentación de programas y acciones que permitan a los Colimenses y habitantes del Estado, acceder a un mayor desarrollo de la persona y a la vigencia de los valores éticos y morales;
-
-II.- Promover la consolidación de un gobierno de principios y valores que coordine los esfuerzos de todos los Colimenses y habitantes del Estado para mejorar su entorno y hacer de la vida cotidiana un ejercicio responsable de convivencia;
-
-III.- Regenerar el tejido social desde el ser humano, la familia y las relaciones sociales, formando personas responsables y solidarias;
-
-IV.- Promover que el objetivo central de toda acción política sea el ser humano para incrementar sus capacidades básicas y oportunidades de desarrollo;
-
-V.- Fortalecer la integralidad de las familias Colimenses y de las que habitan en el Estado, y promover mediante acciones y programas el desarrollo humano de sus miembros en busca de un mayor bienestar; y
-
-VI.- Instrumentar programas y acciones de desarrollo familiar y humano; (sic)
-
-###### Artículo 28.
 
 La política de desarrollo social debe incluir, cuando menos, las siguientes vertientes:
 
@@ -561,11 +553,19 @@ V.- Promoción y fomento de la participación ciudadana en el desarrollo social;
 
 VI.- Fomento del sector social de la economía.
 
-###### Artículo 29.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 29], P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 28.
 
 El Ejecutivo del Estado y los Ayuntamientos de los Municipios harán del conocimiento público, cada año, sus programas operativos de desarrollo social, a través de los medios más accesibles a la población, en un plazo máximo de 90 días a partir de la aprobación de sus presupuestos de egresos anuales respectivos.
 
-###### Artículo 30.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 30], P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 29.
 
 Son prioritarios y de interés público los programas sociales:
 
@@ -599,19 +599,27 @@ XIV.- Los programas dirigidos al desarrollo integral de la familia;
 
 XV.- Los programas dirigidos a los pueblos indígenas;
 
-XVI.- Los programas dirigidos al apoyo de las mujeres y, en especial a las madres solteras en condiciones de desventaja o de exclusión;
+XVI.- Los programas dirigidos al apoyo de las mujeres y en especial a las madres solteras en condiciones de desventaja o de exclusión;
 
-XVII.- Los programas para la seguridad social y, de modo especial, el pago oportuno de las jubilaciones y las pensiones;
+XVII.- Los programas para la seguridad social y de modo especial, el pago oportuno de las jubilaciones y las pensiones;
 
 XVIII.- Los programas dirigidos a migrantes; y
 
 XIX.- Los programas para la protección del ambiente y preservación de los recursos naturales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 31], P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 30.
+
+Los programas sociales que se establezcan no deberán contar con los mismos objetivos y preferentemente tendrán una población objetivo distinto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 32], P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 31.
-
-Los programas sociales que se establezcan no deberán contar con los mismos objetivos y preferentemente tendrán una población objetivo distinta.
-
-###### Artículo 32.
 
 Los programas de desarrollo social se definen como:
 
@@ -625,7 +633,11 @@ IV.- Regionales: Los formulados para resolver problemas de inequidad en el desar
 
 V.- Comunitarios: Los formulados con el objeto de incorporar al desarrollo a comunidades en situaciones de desigualdad.
 
-###### Artículo 33.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 33], P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 32.
 
 Los programas de desarrollo social contendrán, al menos, los siguientes elementos:
 
@@ -639,17 +651,325 @@ IV.- Bases de participación social organizada; y
 
 V.- Mecanismos de evaluación y control.
 
-### CAPÍTULO II.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-DE LA EJECUCIÓN.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 34], P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 33.
+
+Las dependencias y entidades que ejecuten programas sociales deberán incorporar al Padrón la información de aquellas personas y sus familias que se vean beneficiadas con los mismos, su situación socioeconómica y en general, toda la que se requiera dentro de sus reglas de operación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO I BIS.
+
+DE LA POLÍTICA ESTATAL Y MUNICIPAL DE DESARROLLO HUMANO.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 34.
 
-Las dependencias y entidades que ejecuten programas sociales deberán incorporar al Padrón la información de aquellas personas y sus familias que se vean beneficiadas con los mismos, su situación socioeconómica y, en general, toda la que se requiera dentro de sus reglas de operación.
+Para efectos de esta Ley, por desarrollo humano se entiende como el proceso mediante el cual se amplían las oportunidades de los individuos a efecto de fortalecer y promover el desarrollo personal.
 
-### CAPÍTULO III.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-DE LAS ZONAS DE ATENCIÓN PRIORITARIA.
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis.
+
+Corresponde al Estado en coordinación con los sectores académico, social, privado y de la sociedad en su conjunto, el fortalecimiento de las capacidades humanas, materiales y organizativas de los individuos, en particular, aquellos en desventaja, a fin de que puedan valerse por sí mismos, elevar la calidad de vida de sus familias y participar de manera corresponsable en la solución de sus propios problemas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 1.
+
+Para los efectos de esta ley, el desarrollo humano implica:
+
+a) Un proceso conducente al mantenimiento y ampliación de las opciones para el desarrollo de las personas en todas las esferas;
+
+b) La existencia en los niveles del desarrollo de capacidades y opciones esenciales que permitan que todas las personas participen en la sociedad, contribuyan a ella y se desarrollen plenamente;
+
+c) Procurar de manera productiva, equitativa, participativa y sostenible, las oportunidades de vida tanto de las actuales como de las futuras generaciones, para aumentar su poder adquisitivo; y
+
+d) La libertad de que gozan los individuos para estar en aptitud de elegir entre distintas opciones y formas de vida, teniendo como factores fundamentales que permiten a las personas ser libres en ese sentido, la posibilidad de alcanzar una vida larga y saludable, poder adquirir conocimientos individual y socialmente valiosos y tener la capacidad de tener los recursos necesarios para disfrutar un nivel de vida decoroso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 2.
+
+La política de desarrollo humano tendrá los siguientes objetivos:
+
+I.- Generar las condiciones que aseguren el disfrute de los derechos que propicien el desarrollo integral del ser humano, garantizando la instrumentación de programas y acciones que permitan a los colimenses y habitantes del Estado, acceder a un mayor desarrollo de la persona y a la vigencia de los valores éticos y morales;
+
+II.- Fortalecer y promover el desarrollo personal para facilitar el conocimiento, la toma de conciencia y de decisión, y como consecuencia la acción como base transformadora del desarrollo humano;
+
+III.- Promover la consolidación de un gobierno de principios y valores que coordine los esfuerzos de todos los colimenses y habitantes del Estado para mejorar su entorno y hacer de la vida cotidiana un ejercicio responsable de convivencia;
+
+IV.- Regenerar el tejido social desde el ser humano, la familia y las relaciones sociales, formando personas responsables y solidarias;
+
+V.- Promover que el objetivo central de toda acción política sea el ser humano para incrementar sus capacidades básicas y oportunidades de desarrollo;
+
+VI.- Fortalecer la integralidad de las familias colimenses y de las que habitan en el Estado, y promover mediante acciones y programas el desarrollo humano de sus miembros en busca de un mayor bienestar; y
+
+VII.- Instrumentar programas y acciones de desarrollo familiar y humano.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 3.
+
+Corresponde al titular del Poder Ejecutivo del Estado en el ámbito de su competencia:
+
+I.- Generar condiciones para el desarrollo humano estableciendo acciones en coordinación con las organizaciones civiles y sociales, instituciones académicas, grupos empresariales, sindicatos y los habitantes del Estado;
+
+II.- Convenir programas, acciones y recursos con el Ejecutivo Federal y los Ayuntamientos con el propósito de generar las condiciones de desarrollo humano; y
+
+III.- Incluir anualmente en el proyecto de Presupuesto de Egresos del Estado del ejercicio fiscal que corresponda, los recursos para la ejecución y cumplimiento de las metas y objetivos de los programas de desarrollo humano, así como la previsión de los apoyos a los municipios para el cumplimiento de sus programas en la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 4.
+
+La Secretaría tendrá las siguientes atribuciones:
+
+I.- Operar los programas de desarrollo humano en el Estado, en coordinación con las dependencias y entidades de la administración pública estatal relacionadas con la materia, de conformidad con lo establecido en la Ley de Planeación para el Desarrollo del Estado;
+
+II.- Promover la celebración de convenios y mecanismos de coordinación con dependencias y entidades del Ejecutivo Federal y Estatal, así como con organizaciones sociales y privadas, para la realización de los programas relacionados con el desarrollo humano;
+
+III.- Coordinar con los Ayuntamientos los programas y acciones en materia de desarrollo humano;
+
+IV.- Diseñar las reglas de operación para la ejecución anual de los programas en el ámbito de su competencia;
+
+V.- Promover y fomentar la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de las políticas públicas;
+
+VI.- Realizar el control y la evaluación de los programas y acciones de desarrollo humano que el Ejecutivo apruebe;
+
+VII.- Realizar anualmente un diagnóstico general sobre el nivel de desarrollo humano;
+
+VIII.- Implementar los mecanismos de coordinación para ejercer los fondos y recursos federales transferidos o convenidos en materia humano (sic), en los términos de las leyes respectivas; así como informar a la Secretaría de Desarrollo Social del Gobierno Federal, sobre el avance y resultados generados con los mismos; y
+
+IX. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 5.
+
+La Secretaría de Salud tendrá las siguientes atribuciones:
+
+I.- Llevar a cabo campañas de prevención y control de enfermedades transmisibles;
+
+II.- Coordinar con las dependencias, entidades de la administración pública estatal y federal y los Ayuntamientos los programas y acciones en materia de acceso a los servicios médicos;
+
+III.- Proponer y ejecutar programas de apoyo en los rubros de alimentación, atención médica y orientación e información en materia de salud que redunde en una mejor calidad de vida, mediante los cuales se fomente el desarrollo humano;
+
+IV.- Llevar a cabo programas y acciones en coordinación con las dependencias estatales y municipales para otorgar atención médica especializada a menores de edad, adultos mayores, mujeres embarazadas y discapacitados;
+
+V.- Llevar a cabo los Programas de Desarrollo Humano que implemente el Gobierno del Estado; y
+
+VI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 6.
+
+La Secretaría de Educación tendrá las siguientes atribuciones:
+
+I. Promover y apoyar procesos de educación participativa que faciliten el involucramiento corresponsable de la población en el desarrollo humano;
+
+II. Promover la celebración de convenios y mecanismos de coordinación con dependencias educativas públicas y privadas federales y estatales, para la aplicación de los programas relacionados con el desarrollo humano;
+
+III.- Proponer y ejecutar programas de apoyo educativo, mediante los cuales se fomente el desarrollo humano;
+
+IV.- Coordinar con las dependencias, entidades de la administración pública estatal y federal y los Ayuntamientos los programas y acciones en materia de desarrollo humano;
+
+V.- Diseñar las reglas de operación para la ejecución anual de los programas en el ámbito de su competencia;
+
+VI.- Dar cumplimiento a los programas y acciones de desarrollo humano que se implementen; y
+
+VII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 7.
+
+La Secretaría de Fomento Económico tendrá las siguientes atribuciones:
+
+I.- Proponer y ejecutar programas de proyectos productivos que contribuyan a fortalecer el desarrollo humano;
+
+II.- Promover y fomentar la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de las políticas públicas;
+
+III. Fomentar e impulsar el desarrollo municipal y regional de la economía, con el propósito de favorecer la inversión en proyectos productivos que incidan en la generación de empleos;
+
+IV. Llevar a cabo programas que promuevan la generación y conservación del empleo y las actividades productivas;
+
+V.- Llevar a cabo los programas;
+
+VI.- Llevar a cabo los programas y acciones de desarrollo humano que implemente el Gobierno del Estado;
+
+VII.- Concertar acciones con los sectores social y privado en materia de desarrollo humano;
+
+VIII.- Promover en coordinación con la Secretaría y los Ayuntamientos las actividades productivas para la generación de empleos e ingresos de personas que incidan en un mayor grado de desarrollo humano; y
+
+IX.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 8.
+
+El DIF, tendrá las siguientes atribuciones:
+
+I.- Llevar a cabo en coordinación con la Secretaría las acciones que propicien el desarrollo social de los integrantes de las familias;
+
+II.- Promover la celebración de convenios y mecanismos de coordinación con dependencias y entidades del Ejecutivo Federal y Estatal, así como con organizaciones sociales y privadas, para la realización de los programas relacionados con el desarrollo humano;
+
+III.- Canalizar a las personas que lo requieran a los programas de apoyo para el pleno desarrollo humano;
+
+IV.- Dar cumplimiento a los programas de desarrollo humano que se implementen en el Estado; y
+
+V.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 9.
+
+Los Ayuntamientos tendrán las siguientes atribuciones:
+
+I.- Aprobar y ejecutar el Programa Municipal de Desarrollo Humano, de conformidad con los planes de gobierno y de desarrollo municipales;
+
+II.- Realizar anualmente un diagnóstico general sobre el nivel de desarrollo humano, el que se enviara a la Secretaría para su análisis y valoración;
+
+III.- Coordinarse con la Secretaría, y demás dependencias estatales competentes en materia de desarrollo humano, para la ejecución de los programas y acciones en la materia;
+
+IV.- En Coordinación con otros municipios llevar a cabo programas y acciones en materia de desarrollo humano;
+
+V.- Llevar a cabo convenios con municipios de otras entidades federativas, con aprobación del Congreso del Estado, en materia de desarrollo humano;
+
+VI.- Ejercer los fondos y recursos federales y estatales transferidos o convenidos en los términos de las leyes respectivas; así como informar a la Secretaría, sobre el avance y resultados de esas acciones;
+
+VII.- Realizar el control y la evaluación de los programas y acciones de desarrollo humano;
+
+VIII.- Concertar acciones con los sectores social y privado en materia de desarrollo humano;
+
+IX.- Promover la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de las políticas públicas; y
+
+X.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 10.
+
+El Ejecutivo del Estado será la autoridad rectora en la planeación, ejecución y evaluación de las políticas y programas de desarrollo humano en la Entidad, y por su parte, los Ayuntamientos en sus respectivos ámbitos de competencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 11.
+
+Los programas en esta materia, serán formulados y ejecutados por las dependencias estatales de acuerdo con su competencia u objeto, en coordinación con la Secretaría, y en su caso, con la concurrencia de los Ayuntamientos y la participación de los sectores social y privado, en el marco del Sistema.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 12.
+
+El proceso de planeación del desarrollo humano en el ámbito estatal y municipal, deberá ser acorde con los principios, objetivos e instrumentos que establece esta Ley, ajustándose a lo dispuesto en la Ley de Planeación para el Desarrollo del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 13.
+
+La planeación, programación y ejecución se llevará a cabo a través de:
+
+I.- El Plan Estatal de Desarrollo;
+
+II.- El Programa Estatal de Desarrollo Humano;
+
+III.- El Plan Municipal de Desarrollo; y
+
+IV.- El Programa Municipal de Desarrollo Humano.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 14.
+
+La elaboración y actualización del diagnóstico y evaluación de la problemática relativa al desarrollo humano, corresponde a la Secretaría, quien la llevará a cabo en forma anual.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 15.
+
+Para los efectos del artículo anterior se deberá utilizar la información estadística e indicadora que genere el Sistema de Información Integral de Desarrollo Social en el Estado y los datos otorgados por los Ayuntamientos, para lo que deberá considerar cuando menos los siguientes indicadores:
+
+I.- Ingreso corriente per cápita;
+
+II.- Rezago educativo promedio en el hogar;
+
+III.-Acceso a los servicios de salud;
+
+IV.- Acceso a la seguridad social;
+
+V.- Calidad y espacios de la vivienda;
+
+VI.- Acceso a los servicios básicos en la vivienda;
+
+VII.- Acceso a la alimentación;
+
+VIII.- Grado de cohesión social;
+
+IX.- Discriminación Social; y
+
+X.- Condición de desamparo por discapacidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 16.
+
+Se implementarán campañas de difusión para que la población en general tenga conocimientos del contenido, reglas de operación y beneficios de los programas de desarrollo humano que se apliquen en la Entidad, la que se dará a conocer a través de los medios de comunicación más accesibles.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 34 Bis 17.
+
+La publicidad e información relacionada a los programas de desarrollo humano estatal y municipal deberán identificarse con el escudo estatal o toponímico municipal en los términos que señala la ley en la materia y deberán incluir las siguientes leyendas: "Este programa utiliza recursos públicos y es ajeno a cualquier partido e interés político." "Queda prohibido el uso para fines distinto al desarrollo humano." "Quien haga uso indebido de este programa deberá ser denunciado y sancionado conforme a lo que dispone la ley de la materia.”
+
+### CAPÍTULO II.
+
+DE LA EJECUCIÓN.
 
 ###### Artículo 35.
 
@@ -679,9 +999,9 @@ I.- Creará y operará un Sistema de Información Integral de Desarrollo Social 
 
 II.- Recibirá las propuestas de los Ayuntamientos, organizaciones civiles y de la sociedad en general a fin de analizarlas y, en su caso, incorporarlas a los criterios de ejecución del Programa de Desarrollo Social, coordinándose para ello con el Consejo Consultivo.
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-DE LAS DEFINICIONES Y MEDICIÓN DE POBREZA, MARGINACIÓN Y DESARROLLO HUMANOS.
+DE LAS ZONAS DE ATENCIÓN PRIORITARIA.
 
 ###### Artículo 39.
 
@@ -759,9 +1079,9 @@ El Ejecutivo del Estado y los Ayuntamientos de los Municipios podrán aportar re
 
 El Ejecutivo del Estado brindará financiamiento a personas en situación de desventaja, que carecen de medios para acceder a recursos de la banca comercial, a través de esquemas organizativos orientados al ahorro, el manejo crediticio, a la capacitación y al desarrollo de proyectos productivos.
 
-### CAPÍTULO I.
+### CAPÍTULO IV.
 
-DE LA PLANEACIÓN Y PROGRAMACIÓN.
+DE LAS DEFINICIONES Y MEDICIÓN DE POBREZA, MARGINACIÓN Y DESARROLLO HUMANOS.
 
 ###### Artículo 48.
 
@@ -803,9 +1123,9 @@ X.- Condición de desamparo por discapacidad.
 
 DE LA PLANEACIÓN PARA EL DESARROLLO SOCIAL EN EL ESTADO.
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-DE LA DIFUSIÓN DE LOS PROGRAMAS DE DESARROLLO SOCIAL.
+DE LA PLANEACIÓN Y PROGRAMACIÓN.
 
 ###### Artículo 52.
 
@@ -921,9 +1241,9 @@ V.- Las estrategias para la coordinación y concertación de acciones para el de
 
 Los Municipios serán entes primordiales en la ejecución de los Programas de Desarrollo Social, que en coordinación con los Gobiernos Federal y Estatal, establecerán las líneas de acción y recursos en los convenios que para tal efecto celebren.
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-DEL FINANCIAMIENTO Y GASTO.
+DE LA DIFUSIÓN DE LOS PROGRAMAS DE DESARROLLO SOCIAL.
 
 ###### Artículo 68.
 
@@ -951,9 +1271,9 @@ Cuando en una localidad exista población indígena, aunque sea ésta migrante, 
 
 La Secretaría promoverá que se publiquen en sistema braile, los programas de desarrollo social en donde pueda ser beneficiada una persona con discapacidad visual; de igual forma, contará con personal capacitado para dar asesoría sobre estos programas a las personas con discapacidad auditiva.
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-DE LA ASISTENCIA SOCIAL.
+DEL FINANCIAMIENTO Y GASTO.
 
 ###### Artículo 74.
 
@@ -997,9 +1317,9 @@ Los recursos estatales y municipales presupuestados para los programas de desarr
 
 En el caso de los presupuestos federales descentralizados, el Estado y los Municipios acordarán con la Administración Pública Federal el destino y los criterios del gasto, a través de los convenios de coordinación.
 
-### CAPÍTULO I.
+### CAPÍTULO IV.
 
-DEL FOMENTO A LAS ACTIVIDADES PRODUCTIVAS DE BENEFICIO SOCIAL.
+DE LA ASISTENCIA SOCIAL.
 
 ###### Artículo 82.
 
@@ -1013,9 +1333,9 @@ En coordinación con las demás instancias del Sistema Estatal de Desarrollo Soc
 
 DEL FOMENTO AL DESARROLLO SOCIAL.
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-DEL FONDO DE CONTINGENCIA SOCIAL.
+DEL FOMENTO A LAS ACTIVIDADES PRODUCTIVAS DE BENEFICIO SOCIAL.
 
 ###### Artículo 84.
 
@@ -1055,9 +1375,9 @@ VII.- Programas para promover los encadenamientos productivos y las exportacione
 
 VIII.- Apoyo para que puedan participar en ferias y eventos nacionales e internacionales.
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-DEL FOMENTO DEL SECTOR SOCIAL DE LA ECONOMÍA.
+DEL FONDO DE CONTINGENCIA SOCIAL.
 
 ###### Artículo 86.
 
@@ -1071,9 +1391,9 @@ En ningún caso este fondo podrá ser destinado a fines distintos del gasto soci
 
 El fondo de contingencia social, podrá conformarse, además, con recursos que aporten los organismos internacionales, los sectores público, social y privado.
 
-### CAPÍTULO I.
+### CAPÍTULO III.
 
-DEL OBJETO, INTEGRACIÓN Y COORDINACIÓN.
+DEL FOMENTO DEL SECTOR SOCIAL DE LA ECONOMÍA.
 
 ###### Artículo 88.
 
@@ -1091,9 +1411,9 @@ El Ejecutivo Estatal y los Ayuntamientos cuidarán que el fomento al sector soci
 
 DEL SISTEMA ESTATAL DE DESARROLLO SOCIAL.
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-DE LOS CONVENIOS PARA EL DESARROLLO SOCIAL ENTRE EL ESTADO Y LOS MUNICIPIOS.
+DEL OBJETO, INTEGRACIÓN Y COORDINACIÓN.
 
 ###### Artículo 91.
 
@@ -1493,9 +1813,9 @@ Serán funciones específicas de los comités ciudadanos de desarrollo social op
 
 Todas las observaciones, reclamaciones, advertencias, sugerencias y peticiones en general que sean presentadas ante las autoridades por los comités ciudadanos de desarrollo social, deberán recibir una respuesta adecuada y pertinente dentro de un plazo que nunca podrá ser mayor a diez días.
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-DE LA COMISIÓN DE EVALUACIÓN.
+DE LOS CONVENIOS PARA EL DESARROLLO SOCIAL ENTRE EL ESTADO Y LOS MUNICIPIOS.
 
 ###### Artículo 120.
 
@@ -1513,9 +1833,9 @@ II.- Los recursos, obras, acciones y apoyos de los programas sociales que se eje
 
 En los casos en que el cumplimiento de los programas sociales previstos en los Convenios para el Desarrollo Social requiera la determinación de compromisos específicos entre las partes o con un tercero, se suscribirán los anexos de ejecución que resulten necesarios.
 
-### CAPÍTULO I.
+### CAPÍTULO III.
 
-DE LA PARTICIPACIÓN Y ORGANIZACIÓN SOCIAL.
+DE LA COMISIÓN DE EVALUACIÓN.
 
 ###### Artículo 123.
 
@@ -1601,9 +1921,9 @@ La organización y funcionamiento de la Comisión de Evaluación, se establecer�
 
 DE LA PARTICIPACIÓN SOCIAL.
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-EL REGISTRO DE ORGANIZACIONES PARA EL DESARROLLO SOCIAL.
+DE LA PARTICIPACIÓN Y ORGANIZACIÓN SOCIAL.
 
 ###### Artículo 130.
 
@@ -1647,9 +1967,9 @@ Las organizaciones estarán sometidas a la supervisión de la Secretaría, sin p
 
 El Gobierno Estatal y los Gobiernos Municipales procurarán la participación organizada, amplia, plural y democrática, a través de figuras asociativas, en el ámbito de la comunidad, ejido, colonia, barrio o delegación o cualquier otra unidad territorial en donde se apliquen programas sociales, para la priorización de sus demandas y gestión de obras, acciones y apoyos.
 
-### CAPÍTULO III.
+### CAPÍTULO II.
 
-DE LA PARTICIPACIÓN DE LA SOCIEDAD ORGANIZADA EN EL MANEJO O ADMINISTRACIÓN DE RECURSOS PÚBLICOS.
+EL REGISTRO DE ORGANIZACIONES PARA EL DESARROLLO SOCIAL.
 
 ###### Artículo 138.
 
@@ -1713,9 +2033,9 @@ VII.- Llevar a cabo las operaciones correspondientes conforme a las disposicione
 
 VIII.- Las demás inherentes al cumplimiento de su objeto social o que le confiera esta Ley, otras Leyes y demás Ordenamientos aplicables en la materia.
 
-### CAPÍTULO IV.
+### CAPÍTULO III.
 
-DE LA DENUNCIA CIUDADANA.
+DE LA PARTICIPACIÓN DE LA SOCIEDAD ORGANIZADA EN EL MANEJO O ADMINISTRACIÓN DE RECURSOS PÚBLICOS.
 
 ###### Artículo 145.
 
@@ -1745,9 +2065,9 @@ Para el otorgamiento de los recursos públicos a las organizaciones sociales par
 
 Las organizaciones para el desarrollo social estarán sometidas al escrutinio de la Comisión Estatal y de la Comisión de Evaluación, sin perjuicio de lo que establezcan las leyes respectivas para el uso de fondos públicos.
 
-### CAPÍTULO V.
+### CAPÍTULO IV.
 
-DE LA CONTRALORÍA SOCIAL.
+DE LA DENUNCIA CIUDADANA.
 
 ###### Artículo 152.
 
@@ -1791,9 +2111,9 @@ Toda denuncia popular siempre tendrá una respuesta por escrito. Los plazos para
 
 En caso de que la contraloría social reciba una denuncia sobre hechos que no sean de su competencia, ésta deberá de remitirla a la autoridad competente para su conocimiento.
 
-### CAPÍTULO I.
+### CAPÍTULO V.
 
-DE LA EVALUACIÓN.
+DE LA CONTRALORÍA SOCIAL.
 
 ###### Artículo 157.
 
@@ -1851,9 +2171,9 @@ Los Ayuntamientos determinarán en sesión de Cabildo, los lineamientos y requis
 
 DE LA EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL.
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-OBJETIVO DE LA EVALUACIÓN.
+DE LA EVALUACIÓN.
 
 ###### Artículo 166.
 
@@ -1961,9 +2281,9 @@ El seguimiento de la política de desarrollo social tendrá por objeto verificar
 
 Las evaluaciones deberán ser objetivas, imparciales y oportunas.
 
-### CAPÍTULO I.
+### CAPÍTULO II.
 
-INFRACCIONES Y SANCIONES.
+OBJETIVO DE LA EVALUACIÓN.
 
 ###### Artículo 184.
 
@@ -2001,9 +2321,9 @@ Sin menoscabo de los artículos precedentes de este Capítulo, la Secretaría ll
 
 DE LAS INFRACCIONES, SANCIONES Y MEDIOS DE DEFENSA.
 
-### CAPÍTULO II.
+### CAPÍTULO I.
 
-DE LOS MEDIOS DE DEFENSA.
+INFRACCIONES Y SANCIONES.
 
 ###### Artículo 191.
 
@@ -2034,6 +2354,10 @@ Los servidores públicos que incurran en las conductas previstas en el artículo
 ###### Artículo 194.
 
 Los representantes de las asociaciones civiles o sociales que hagan un uso indebido de los recursos destinados a los programas de desarrollo social y humano, o que violen la normatividad de los programas con el fin de favorecer a personas o grupos que no forman parte de la población objetivo, serán sancionados en los términos de la legislación aplicable.
+
+### CAPÍTULO II.
+
+DE LOS MEDIOS DE DEFENSA.
 
 ###### Artículo 195.
 
@@ -2068,3 +2392,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 11 del mes de julio del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE DESARROLLO SOCIAL, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a los 120 días siguientes al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los programas y acciones que el Gobierno del Estado y en su caso, los municipios lleven acabo (sic) con motivo de las disposiciones de esta Ley, los podrán realizar a través de la dirección o instituto que para tales efectos deberán crear de acuerdo a su disponibilidad financiera.
