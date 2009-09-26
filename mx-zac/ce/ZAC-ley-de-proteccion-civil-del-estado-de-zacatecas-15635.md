@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-del-estado-de-zacatecas-15635"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-01"
-last_updated: "2008-12-24"
+last_updated: "2009-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero del 2000.
 
@@ -81,9 +81,11 @@ LEY DE PROTECCION CIVIL DEL ESTADO DE ZACATECAS
 
 La presente ley es de orden público e interés social y tiene por objeto regular las acciones que en materia de Protección Civil se lleven a cabo en la Entidad, siendo su observancia obligatoria para las autoridades, organismos, dependencias e instituciones de carácter público, social, académico o privado, grupos voluntarios y en general para todos los habitantes del Estado de Zacatecas.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 2.
 
-Se entiende por Protección Civil al conjunto de principios, normas y procedimientos a través de cuya observancia el Gobierno y la sociedad, llevan a cabo acciones para proteger la vida y el patrimonio de la población, la planta productiva, la prestación de servicios públicos y el medio ambiente, frente a la eventualidad de un desastre provocado por agentes naturales o humanos.
+Se entiende por Protección Civil al conjunto de principios, normas, medidas y procedimientos a través de cuya observancia el Gobierno y la sociedad, llevan a cabo acciones para proteger la vida y el patrimonio de la población, la planta productiva, la prestación de servicios públicos y el medio ambiente, así como para la recuperación de la población ante la eventualidad de un desastre provocado por agentes naturales o humanos.
 
 ###### Artículo 3.
 
@@ -115,13 +117,15 @@ XII. ORGANIZACIONES CIVILES.- Asociaciones de personas, legalmente constituidas 
 
 XIII. PREALERTA.- Estado permanente de prevención de los organismos de respuesta de la protección civil, con base en la información sobre la probable presencia de un fenómeno destructivo;
 
-XIV. PREVENCIÓN.- Conjunto de disposiciones y medidas anticipadas, cuya finalidad estriba en impedir o disminuir los efectos que se producen ante una emergencia siniestro o desastre;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-XV. RIESGO.- Grado de probabilidad de pérdidas de vidas, personas heridas, propiedad dañada o actividad económica suspendida, durante un período y una región determinados.
+XIV. PREVENCIÓN.- Conjunto de disposiciones, medidas y acciones anticipadas para la autoprotección y autocuidado, cuya finalidad estriba en impedir o disminuir los efectos del impacto destructivo de los fenómenos perturbadores sobre la vida y bienes de la población, que se producen ante una emergencia siniestro o desastre;
+
+XV. RIESGO.- Grado de probabilidad de pérdidas de vidas, personas heridas, propiedad dañada o actividad económica suspendida, durante un período y una región determinados;
 
 XVI. SERVICIOS VITALES.- Los que en su conjunto proporcionan las condiciones mínimas de vida y bienestar social, a través de los servicios públicos, tales como energía eléctrica, agua potable, salud, abasto, alcantarillado, limpia, transporte, comunicaciones, energéticos y el sistema administrativo;
 
-XVII. SIMULACRO.- Ejercicio para la toma de decisiones y adiestramiento en Protección Civil, en una comunidad o área preestablecida mediante la simulación de una emergencia o desastre, para promover una coordinación más efectiva de respuesta por parte de las autoridades y la población.
+XVII. SIMULACRO.- Ejercicio para la toma de decisiones y adiestramiento en Protección Civil, en una comunidad o área preestablecida mediante la simulación de una emergencia o desastre, para promover una coordinación más efectiva de respuesta por parte de las autoridades y la población;
 
 XVIII. SINIESTRO.- Al hecho funesto, daño grave, destrucción, o pérdida importante que sufren los seres humanos en su persona o en sus bienes, causados por la presencia de un riesgo, emergencia o desastre;
 
@@ -207,9 +211,13 @@ El Sistema Estatal está integrado por:
 
 I. El Consejo Estatal;
 
-II. La Dirección Estatal; y
+II. La Dirección Estatal; y (sic)
 
-III. Las unidades de Protección Civil.
+III. Las unidades de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Los consejos municipales de protección civil.
 
 ###### Artículo 15.
 
@@ -455,6 +463,10 @@ Cada Unidad Operativa estará integrada por representantes de los diferentes org
 
 Corresponde al Presidente Municipal, coordinar y dirigir técnica y operativamente la atención de emergencias, para lo cual contará con el apoyo de la Unidad Municipal de Protección Civil.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+En los presupuestos de egresos de los municipios, deberán integrarse partidas presupuestales suficientes para el funcionamiento de las unidades municipales de protección civil.
+
 ###### Artículo 35.
 
 La Unidad Municipal de Protección Civil se integra por:
@@ -484,6 +496,10 @@ III. Programas Internos de protección civil presentados bajo los criterios que 
 ###### Artículo 39.
 
 El Órgano Municipal encargado de la materia de Protección Civil de cada Municipio, será responsable de elaborar, instrumentar, dirigir y operar la ejecución de los programas en la materia, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social, privado, académico, grupos voluntarios y la población en general.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 39 bis.- Para el funcionamiento de los consejos municipales de protección civil a que se refiere la fracción IV del artículo 14 de la presente Ley, se aplicará en lo conducente el Capítulo III del Título Primero de este ordenamiento.
 
 ## TITULO II. DE LA ORGANIZACIÓN OPERATIVA Y DE LOS PROGRAMAS Y ACCIONES DE PROTECCIÓN CIVIL
 
@@ -597,9 +613,23 @@ La Dirección Estatal en coordinación con las dependencias de los Gobiernos Fed
 
 ### CAPÍTULO V. DE LOS GRUPOS VOLUNTARIOS
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 54.
 
-Se reconocen como grupos voluntarios las instituciones, organizaciones y asociaciones que dentro del objeto social, establezcan acciones de prevención y auxilio en materia de protección civil o áreas relacionadas con la operación de sistemas de emergencia.
+Se reconocen como grupos voluntarios las instituciones, organizaciones y asociaciones que dentro del objeto social, establezcan acciones de prevención y auxilio en materia de protección civil o áreas relacionadas con la operación de sistemas de emergencia, los cuales tendrán los derechos y obligaciones siguientes:
+
+I. Recibir por parte de la Dirección Estatal y las Unidades de Protección Civil de los municipios, en el ámbito de su competencia, los cursos de capacitación y adiestramiento en materia de protección civil, los cuales deberán ser acordes con las políticas nacional y estatal en la materia;
+
+II. Recibir, en los términos de la legislación aplicable, reconocimientos por las acciones realizadas en beneficio de la población;
+
+III. Contar con un directorio actualizado de sus miembros;
+
+IV. Coadyuvar en la difusión de los programas y acciones de protección civil;
+
+V. Coordinarse bajo el mando de las autoridades competentes, en casos de emergencias y desastres, y
+
+VI. Comunicar a las autoridades la presencia de una situación de probable o inminente riesgo.
 
 ###### Artículo 55.
 
@@ -780,3 +810,9 @@ Artículo sexto. Dentro de los noventa días naturales siguientes a la publicaci
 Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
 
 Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que contravengan este Decreto.
