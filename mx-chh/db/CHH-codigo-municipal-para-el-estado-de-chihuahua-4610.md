@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2009-08-29"
+last_updated: "2009-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1921,7 +1921,9 @@ En ejercicio de sus funciones, el Presidente Municipal no podrá ausentarse del 
 
 Cuando deba ausentarse por un término de quince días o menos, bastará con que dé aviso de su salida al Ayuntamiento, con el objeto de que este último designe de entre sus regidores al que deba encargarse del despacho de los asuntos de la Presidencia, hasta el regreso del Presidente Municipal.
 
-Cuando el Presidente Municipal salga del territorio de su municipio por dos días o menos tiempo o en días inhábiles para la administración, no es necesario dar aviso al Ayuntamiento, pues en tales casos bastará con que dé aviso al Secretario del mismo, para que éste se encargue del despacho de los asuntos de la Presidencia, sujetándose a las atribuciones que le otorga la propia ley y sin invadir las facultades que le corresponden al Presidente Municipal.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+Cuando el Presidente Municipal salga del territorio de su municipio, por cinco días o menos tiempo o en días inhábiles para la administración, no es necesario dar aviso al Ayuntamiento, pues en tales casos bastará con que dé aviso al Secretario del mismo, para que éste se encargue del despacho de los asuntos de la Presidencia, sujetándose a las atribuciones que le otorga la propia ley y sin invadir las facultades que le corresponden al Presidente Municipal.
 
 Si el Presidente Municipal requiere ausentarse por más de quince días deberá solicitar licencia en los términos del artículo siguiente.
 
@@ -1933,7 +1935,9 @@ El Presidente Municipal, los regidores y el síndico no podrán separarse del ej
 
 En caso de falta temporal o definitiva del Presidente Municipal se llamará al suplente, quien estará obligado a desempeñar el cargo o a justificar su negativa ante el Ayuntamiento; aceptada la justificación, el propio Ayuntamiento designará de entre sus miembros al que deba desempeñarlo.
 
-En la hipótesis prevista en el caso anterior, en tanto se rinda protesta de ley, el Secretario del Ayuntamiento quedará encargado del despacho de los asuntos de la Presidencia, siempre que entre la falta y la protesta no transcurran más de dos días. Si en la rendición de protesta se prolongara por más de dos días, contados a partir de la fecha en que el Presidente Municipal se hubiera separado de su encargo, o cuando la falta sea definitiva, el despacho de los asuntos quedará a cargo del Regidor de Gobernación, hasta el momento en que rinda protesta el suplente o el regidor que sea designado para desempeñar el cargo.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+En la hipótesis prevista en el caso anterior, en tanto se rinda protesta de ley, el Secretario del Ayuntamiento quedará encargado del despacho de los asuntos de la Presidencia, siempre que entre la falta y la protesta no transcurran más de cinco días. Si la rendición de protesta se prolongara por más de cinco días, contados a partir de la fecha en que el Presidente Municipal se hubiera separado de su encargo, o cuando la falta sea definitiva, el despacho de los asuntos quedará a cargo del Regidor de Gobernación, hasta el momento en que rinda protesta el suplente o el regidor que sea designado para desempeñar el cargo.
 
 ###### ARTICULO 102.
 
@@ -3976,3 +3980,7 @@ P.O. 29 DE AGOSTO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
