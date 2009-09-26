@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2005-08-03"
+last_updated: "2009-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO URBANO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -1643,6 +1643,12 @@ El mejoramiento es la acción tendiente a reordenar o renovar las zonas de incip
 
 Las zonas deterioradas física o funcionalmente en forma total o parcial, podrán ser declaradas por los gobiernos Estatal o municipales, espacios dedicados al mejoramiento, con el fin de reordenarlos, renovarlos, regenerarlos, restaurarlos o protegerlos y lograr el mejor aprovechamiento de su ubicación, infraestructura, equipamiento, suelo y elementos de acondicionamiento del espacio, integrándolas al desarrollo urbano, particularmente en beneficio de los habitantes de dichas zonas.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTICULO 111-A.
+
+Los propietarios de lotes baldíos, construcciones inconclusas y casas abandonadas ubicados en centros de población del Estado, tienen la obligación de edificar el frente o el perímetro de sus lotes, o en su caso, por lo menos reconstruir, restaurar o terminar el frente de sus casas, cuando la Secretaría y los ayuntamientos, en el ámbito de sus respectivas competencias, determinen que sus propiedades son causantes de problemas de ecología, seguridad y salud públicas, o representen deterioro del contexto urbano.
+
 ###### ARTICULO 112.
 
 Los programas de desarrollo urbano para la ejecución de acciones de mejoramiento en los centros de población establecerán, además de lo previsto en el artículo 65 de este Código, las normas para:
@@ -1655,9 +1661,15 @@ III.- La dotación de servicios, equipamiento o infraestructura urbana, en área
 
 IV.- La acción integrada del Estado que articule la regularización de la tenencia del suelo urbano con la dotación de servicios y satisfactores básicos, que tiendan a integrar a la comunidad urbana;
 
-V.- La celebración de convenios entre autoridades, propietarios y los sectores público, social y privado, en que se atiendan sus respectivos intereses o a través de la expropiación de predios por causa de utilidad pública; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-VI.- Las demás que se consideren necesarias para la eficacia de la acción de mejoramiento.
+V.- La celebración de convenios entre autoridades, propietarios y los sectores público, social y privado, en que se atiendan sus respectivos intereses o a través de la expropiación de predios por causa de utilidad pública;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+VI.- La coordinación entre el Gobierno del Estado y los ayuntamientos, a través de la Secretaría y las Direcciones de Obras y Servicios Públicos o sus equivalentes en los municipios, dirigida a integrar, ejecutar y evaluar acciones, de obra autofinanciables para la construcción, reconstrucción, restauración y terminación de muros y fachadas de lotes baldíos, así como construcciones inconclusas y casas deshabitadas; y
+
+VII.- Las demás que se consideren necesarias para la eficacia de la acción de mejoramiento.
 
 #### SECCION CUARTA. CRECIMIENTO
 
@@ -4848,3 +4860,7 @@ P.O. 12 DE JUNIO DE 2004.
 P.O. 3 DE AGOSTO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
