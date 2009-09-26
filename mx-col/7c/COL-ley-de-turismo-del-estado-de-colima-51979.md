@@ -4,7 +4,7 @@ identifier: "COL-ley-de-turismo-del-estado-de-colima-51979"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2006-09-23"
+last_updated: "2009-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TURISMO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Suplemento No. 8 al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -85,33 +85,41 @@ X. Otorgar las facilidades a los prestadores de servicios para la defensa de sus
 
 La Secretaría podrá celebrar todo tipo de convenios o acuerdos con organismos del sector, incluyendo a cámaras y colegios, para el cumplimiento de los objetivos de esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 4.
 
 Para los efectos de esta ley, se entiende por:
 
-I. Estado: El Estado Libre y Soberano de Colima;
+I. Ley: la presente Ley;
 
-II. Ejecutivo del Estado: El Titular del Poder Ejecutivo de (sic) Estado Libre y Soberano de Colima;
+II. Ley General: La Ley General de Turismo;
 
-III. Secretario: El Secretario de Turismo en el Estado;
+III. Estado: El Estado Libre y Soberano de Colima;
 
-IV. Secretaría: La Secretaría de Turismo del Estado;
+IV. Ejecutivo del Estado: El Titular del Poder Ejecutivo de Estado Libre y Soberano de Colima;
 
-V. Consejo: El Consejo Consultivo Turístico;
+V. Secretario: El Secretario de Turismo en el Estado;
 
-VI. Actividad Turística: Las acciones que realizan las personas físicas o morales destinadas a invertir, desarrollar y comercializar los destinos y atractivos turísticos, así como la prestación de los servicios necesarios y vinculados al turismo, y que se considera una de las principales actividades económicas y de alta prioridad en el Estado;
+VI. Secretaría: La Secretaría de Turismo del Estado;
 
-VII. Prestador de Servicios Turísticos: La persona física o moral que habitualmente proporcione, intermedie o contrate con el Turista, la prestación de los servicios a que se refiere la presente ley;
+VII. Consejo: El Consejo Consultivo Turístico;
 
-VIII. Sector: Es el conjunto de organismos públicos, privados y sociales que por sus funciones y objetivos están vinculados al turismo;
+VIII. Actividad Turística: Las acciones que realizan las personas físicas o morales destinadas a invertir, desarrollar y comercializar los destinos y atractivos turísticos, así como la prestación de los servicios necesarios y vinculados al turismo, y que se considera una de las principales actividades económicas y de alta prioridad en el Estado;
 
-IX. Servicios Turísticos: Son aquellos proporcionados por cualquier prestador de servicios en zona turística;
+IX. Prestador de Servicios Turísticos: La persona física o moral que habitualmente proporcione, intermedie o contrate con el Turista, la prestación de los servicios a que se refiere la presente ley;
 
-X. Turismo: Actividad que se presta cuando uno o más individuos se trasladan a uno o más sitios diferentes de su residencia habitual con el propósito de recreación, salud, descanso, trabajo y cultura, creando con esto beneficios económicos para la región, al consumir bienes y servicios;
+X. Programa de Ordenamiento: El Programa de Ordenamiento Turístico del Estado;
 
-XI. Turista: La persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios a que se refiere esta ley, sin perjuicio de lo dispuesto por la Ley General de Población para los efectos migratorios; y
+XI. Sector: Es el conjunto de organismos públicos, privados y sociales que por sus funciones y objetivos están vinculados al turismo;
 
-XII. Zona Turística: Área destinada o desarrollada principalmente para la actividad turística y en la que se prestan servicios turísticos, incluyendo zonas arqueológicas.
+XII. Servicios Turísticos: Son aquellos proporcionados por cualquier prestador de servicios en zona turística;
+
+XIII. Turismo: Actividad que se presta cuando uno o más individuos se trasladan a uno o más sitios diferentes de su residencia habitual con el propósito de recreación, salud, descanso, trabajo y cultura, creando con esto beneficios económicos para la región, al consumir bienes y servicios;
+
+XIV Turista: La persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios a que se refiere esta ley, sin perjuicio de lo dispuesto por la Ley General de Población para los efectos migratorios; y
+
+XV. Zona Turística: Área destinada o desarrollada principalmente para la actividad turística y en la que se prestan servicios turísticos, incluyendo zonas arqueológicas.
 
 ###### Artículo 5.
 
@@ -152,6 +160,14 @@ La Secretaría promoverá ante el Ejecutivo del Estado la coordinación con la S
 ###### Artículo 10.
 
 Con base en este capítulo, la Secretaría planeará sus actividades, de manera que se cumplan con los objetivos y deberes que le imponen la Ley Federal de Turismo y la Ley Orgánica de la Administración Pública Estatal. Asimismo, formulará un programa de inversiones turísticas que pondrá a consideración del ejecutivo, para su aprobación.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 10 Bis.
+
+El Estado, a través de la Secretaria y los Municipios, en el ámbito de sus respectivas competencias, estimularán y promoverán entre la iniciativa privada y el sector social la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con objeto de detonar el desarrollo regional.
+
+Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Registro Nacional de Turismo y el Atlas Turístico de México.
 
 ### CAPÍTULO III. DE LOS ÓRGANOS MUNICIPALES DE TURISMO
 
@@ -207,7 +223,9 @@ V. Proponer a la autoridad competente, a los Prestadores de Servicios Turístico
 
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO I. DE LA PROMOCION Y FOMENTO TURÍSTICO
+### CAPÍTULO IV. DEL PROGRAMA DE REORDENAMIENTO TURÍSTICO DEL TERRITORIO DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 16.
 
@@ -231,11 +249,17 @@ Cuando los programas derivados del Plan Estatal de Turismo sean susceptibles de 
 
 La Secretaría procurará que en toda región que se pretenda desarrollar turísticamente, se realicen obras que satisfagan las necesidades fundamentales de los prestadores de servicios y de los turistas, tales como: vías de acceso, energía eléctrica, agua potable y otros inherentes a la correcta prestación del servicio, además de lo dispuesto en los Planes de Ordenamiento Ecológicos y Territorial. Para tal propósito se coordinará con las autoridades correspondientes.
 
-### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
+### CAPÍTULO V. TURISMO ACCESIBLE
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 21.
 
 El Turismo Social comprende todos aquellos instrumentos y medios a través de los cuales, los grupos de estudiantes, trabajadores del campo y de la ciudad, jubilados, pensionados, de la tercera edad y otros similares, tengan acceso a sitios de interés turístico Estatal y Nacional, histórico artístico y cultural, con el objeto de lograr el descanso y el esparcimiento familiar en condiciones adecuadas de economía, seguridad y comodidad. Las dependencias y las entidades de la administración pública Estatal, coordinarán y promoverán esfuerzos entre ellas y con los Gobiernos Federal y Municipales, concertarán e inducirán la acción social y privada para el desarrollo ordenado del turismo social.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+En la competencia municipal, le corresponde a la dependencia responsable de atender la materia turística en el municipio, promover e impulsar el turismo social. En el reglamento que al efecto expida el ayuntamiento se establecerán los lineamientos por los cuales la dependencia municipal atenderá el turismo social.
 
 ###### Artículo 22.
 
@@ -245,7 +269,11 @@ La Secretaría, escuchando a los Organismos del Sector, formulará coordinará y
 
 La Secretaría promoverá inversiones que tiendan a incrementar las instalaciones destinadas al turismo social y realizará gestiones ante los Prestadores de Servicios Turísticos, con el objeto de solicitar precios y tarifas preferenciales, así como paquetes que hagan posible el cumplimiento de los objetivos de este Capítulo.
 
-### CAPÍTULO I. DEL TURISMO SUSTENTABLE
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+Los poderes públicos, los organismos autónomos, y los municipios del Estado promoverán entre sus trabajadores el turismo social.
+
+### CAPÍTULO I. DE LA PROMOCION Y FOMENTO TURÍSTICO
 
 ###### Artículo 24.
 
@@ -259,15 +287,65 @@ Podrán ser consideradas como zona de desarrollo turístico prioritario, aquéll
 
 La Secretaría, cuando se trate de proyectos de inversión en zonas de desarrollo turístico prioritario, emitirá su opinión ante la instancia o dependencia competente, para que sea considerada en el otorgamiento de los permisos y estímulos correspondientes, procurando siempre la armonía con el medio ambiente.
 
-### CAPÍTULO II. TURISMO DE NATURALEZA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
 
-### CAPÍTULO II. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
+###### Artículo 26 Bis.
+
+Considerado el instrumento de la política turística bajo el enfoque social, ambiental y territorial, el Programa tiene como objetivo conocer e inducir el uso del suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad a las disposiciones aplicables en materia de medio ambiente y asentamientos humanos.
+
+El programa de ordenamiento turístico del territorio del Estado, en su elaboración deberá:
+
+I. Determinar el área a ordenar describiendo sus recursos turísticos; incluyendo un análisis de riesgo de las mismas;
+
+II. Proponer los criterios para la determinación de los planes o programas de desarrollo urbano, así como del uso del suelo, con el propósito de preservar los recursos naturales y aprovechar de manera adecuada y sustentable los recursos turísticos respectivos; y
+
+III. Definir los lineamientos para su ejecución, seguimiento, evaluación y modificación.
+
+Para su elaboración se debe promover la participación de grupos y organizaciones sociales y empresariales, instituciones academistas y de investigación y demás considerados expertos en materia turística.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 26 Bis 1.
+
+La Secretaría elaborará y propondrá el programa para su aprobación al Ejecutivo Estatal, dentro del mes de enero de cada año, quien lo analizará conjuntamente con las autoridades municipales del Estado, de no haber modificación o precisión alguna por parte de éstos, el Ejecutivo Estatal ordenará su expedición y publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 26 Bis 2.
+
+El programa será evaluado anualmente por la Secretaría, ciento ochenta días después de su publicación en el Periódico Oficial del Estado, solicitando la opinión de los señalados por el tercer párrafo del numeral 20 Bis, así como de los Órganos Municipales de Turismo, con el objeto de evaluar su correcto desempeño e instrumentar los mecanismos necesarios tendientes a su perfeccionamiento. El resultado de la evaluación será remitido al Poder Ejecutivo Estatal para las observaciones correspondientes, las cuales deberán ser atendidas por el siguiente programa anual que sea presentado por la Secretaría.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO III. CULTURA TURÍSTICA
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 26 Bis 3.
+
+La Secretaría, con el apoyo y coordinación de las dependencias competentes de las (sic) Administración Pública del Estado, promoverá la prestación de servicios turísticos con accesibilidad que tengan por objeto beneficiar a la población con alguna discapacidad.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 26 Bis 4.
+
+Los prestadores de servicios deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a sus servicios en condiciones adecuadas. La misma obligación se cierne sobre las autoridades respecto a los sitios culturales con afluencia turística.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 26 Bis 5.
+
+La Secretaría y los Órganos Municipales de Turismo del Estado vigilarán que las disposiciones establecidas por este capítulo se cumplan, así como las establecidas en la Ley para la Integración y Desarrollo Social de las Personas con Discapacidad del Estado de Colima y demás aplicables.
+
+### CAPÍTULO IV. REGISTRO NACIONAL DE TURISMO
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO III. DE LA VERIFICACIÓN
+### CAPÍTULO I. DEL TURISMO SUSTENTABLE
 
 ###### Artículo 27.
 
@@ -297,6 +375,8 @@ Cuando se trate de inversiones en el sector turístico, la Secretaría en apego 
 
 La Comisión Dictaminadora de los Programas Económicos, una vez recibida la propuesta por parte de la Secretaría, actuará de conformidad a lo previsto en el Capítulo Tercero de la ley a que se refiere el artículo anterior.
 
+### CAPÍTULO II. TURISMO DE NATURALEZA
+
 ###### Artículo 34.
 
 La Secretaría promoverá acciones de coordinación y formulará recomendaciones en la elaboración de planes y programas de estudios con las instancias educativas competentes, para que se promueva a través de libros de texto o cualquier otro medio didáctico, el significado de la actividad turística y su importancia para el Estado, y para la formación de profesionales y asesores en esta actividad.
@@ -313,7 +393,49 @@ La Secretaría propondrá al Ejecutivo del Estado la celebración de acuerdos co
 
 La Secretaría propondrá al Ejecutivo del Estado programas de capacitación, y se coordinará con la Secretaría de Turismo del Gobierno Federal, con otras dependencias estatales y entidades municipales, organismos de los sectores social y privado, a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística, tanto a prestadores de servicios turísticos, como a servidores públicos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+###### Artículo 37 Bis.
+
+La Secretaría en coordinación con los Municipios, promoverán y fomentarán entre la población programas y actividades que difundan la cultura con el fin de crear el conocimiento de los beneficios de la cultura turística.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 37 Bis 1.
+
+En conjunto con la Secretaría de Educación del Estado, se crearán y promoverán programas que difundan la importancia de respetar y conservar los atractivos turísticos, así como mostrar un espíritu de servicio y hospitalidad hacia el turista.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 37 Bis 2.
+
+En conjunto con la Secretaría de Cultura, se establecerán programas que tengan por objeto fomentar y promover la cultura en el Estado, dichos programas deberán ser difundidos entre los prestadores de servicios turísticos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO II. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
+
+###### Artículo 37 Bis 3.
+
+El Estado y los municipios podrán contar con información sobre los prestadores de servicios turísticos a nivel nacional, con el objeto de conocer el mercado turístico y establecer comunicación con las empresas cuando se requiera, mediante el Registro Nacional de Turismo que es el catálogo público de prestadores de servicios turísticos del país.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 37 Bis 4.
+
+De conformidad a lo dispuesto por la Ley General, el Estado y sus Municipios cuentan con la facultad de operar el Registro Nacional de Turismo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 37 Bis 5.
+
+La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la Secretaría Federal, siendo responsabilidad de la Secretaría y de los Municipios constatar la veracidad de la información proporcionada por los prestadores de servicios turísticos en el Estado.
+
 ## TÍTULO CUARTO
+
+### CAPÍTULO III. DE LA VERIFICACIÓN
 
 ###### Artículo 38.
 
@@ -355,6 +477,8 @@ La prestación de los Servicios Turísticos se regirá por lo que las partes con
 
 En la prestación de los servicios turísticos no se permitirá la discriminación por origen étnico o nacional, capacidad diferente, condición social, condición de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana.
 
+> <small>N. DE E. LA MODIFICACION PUBLICADA POR DECRETO No. 642, EN EL P.O. DE 26 DE SEPTIEMBRE DE 2009, REFERENTE AL ARTICULO 48 CORRESPONDE AL ARTICULO 47 DE TEXTO ORIGINAL.</small>
+
 ###### Artículo 47.
 
 Los Prestadores de Servicios Turísticos tendrán los siguientes derechos:
@@ -373,9 +497,23 @@ VI. Ser incluidos en los catálogos, directorios y guías turísticas elaborados
 
 VII. Participar en los programas de capacitación turística que promueva o lleve a cabo la Secretaría;
 
-VIII. Recibir apoyo de la Secretaría, siempre que sea solicitado para el beneficio del Sector; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-IX. Recibir del turista la remuneración convenida por los servicios turísticos que proporcione.
+VIII. Recibir apoyo de la Secretaría, siempre que sea solicitado para el beneficio del Sector;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Recibir del turista la remuneración convenida por los servicios turísticos que proporcione;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+X. Aparecer en el Registro Nacional de Turismo, así como recibir los beneficios que se les otorguen por ello; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+XI. Solicitar al personal encargado de las visitas de inspección y demás procedimientos de verificación, se identifiquen y presenten la documentación que autoriza su actuación.
+
+> <small>N. DE E. LA MODIFICACION PUBLICADA POR DECRETO No. 642, EN EL P.O. DE 26 DE SEPTIEMBRE DE 2009, REFERENTE AL ARTICULO 49 CORRESPONDE AL ARTICULO 48 DE TEXTO ORIGINAL.</small>
 
 ###### Artículo 48.
 
@@ -389,7 +527,9 @@ III. Proporcionar a la Secretaría toda la información y facilitar la documenta
 
 IV. Observar estrictamente las disposiciones de esta Ley y de la Ley Federal de Turismo y demás ordenamientos legales que normen su actividad y vigilar que sus dependientes y empleados cumplan con los mismos;
 
-V. Anunciar ostensiblemente en los lugares de acceso al establecimiento, sus precios y tarifas y los servicios que éstos incluyen. Cuando se trate de la prestación de servicios de guías de turistas, guías de buceo y guías especializados, al momento de la contratación del servicio, informarán su tarifa y lo que éste incluye;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+V. Anunciar ostensiblemente en los lugares de acceso al establecimiento, sus precios, tarifas y los servicios que éstos incluyen, así como la dirección, teléfono o correo electrónico, tanto del responsable del establecimiento como de la autoridad competente ante la que puede presentar sus quejas. Cuando se trate de la prestación de servicios de guías de turistas, guías de buceo y guías especializados, al momento de la contratación del servicio, informarán su tarifa y lo que éste incluye;
 
 VI. Realizar en idioma español los anuncios publicitarios de sus establecimientos y del servicio que se preste, pudiendo poner en otro idioma con letra de igual o menor tamaño dentro del mismo anuncio la traducción de lo escrito en español;
 
@@ -399,13 +539,67 @@ VIII. Proporcionar al turista los bienes o servicios ofrecidos en los términos 
 
 IX. Implementar las medidas de seguridad en los establecimientos y lugares donde prestan sus servicios;
 
-X. Garantizar al usuario la tranquila y segura disposición y uso de los bienes y servicios prestados; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-XI. Contar con los formatos foliados y de porte pagado en el sistema de quejas de turistas, en los términos de la Norma Oficial Mexicana respectiva.
+X. Garantizar al usuario la tranquila y segura disposición y uso de los bienes y servicios prestados;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+XI. Participar en el manejo responsable de los recursos naturales, arqueológicos, históricos y culturales, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+XII. Inscribirse en el Registro Nacional de Turismo y actualizar los datos oportunamente;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+XIII. Expedir, aun sin solicitud del turista, factura detallada, nota de consumo o documento fiscal que ampare los cobros realizados por la prestación del servicio turístico proporcionado;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+XlV. Profesionalizar a sus trabajadores y empleados en los términos de las leyes respectivas, en coordinación con la Secretaría;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+XV. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+XVI. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada los servicios, ubicación, costo, restricciones y demás aspectos de interés para el turista.
 
 ###### Artículo 49.
 
 La Secretaría orientará y protegerá al turista, brindándole información, recibiendo sus quejas, sugerencias o planteamientos; promoviendo la conciliación de sus intereses con los prestadores de servicios o alguna autoridad del orden público para lo cual turnará o atenderá en su caso los asuntos relacionados con la afectación de sus derechos, cuando por su condición de turista así lo requiera.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 49 Bis.
+
+Corresponde a la Secretaría promover la competitividad de la actividad turística en el Estado, y en coordinación con las dependencias y entidades competentes de la administración pública del Estado, fomentar:
+
+I. La formulación de políticas públicas, modelos y acciones que incrementen la calidad y competitividad en la materia;
+
+II. La profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad;
+
+III. La modernización de empresas turísticas;
+
+IV. El otorgamiento de incentivos distintivos, certificados o reconocimientos a los prestadores de servicios turísticos, de acuerdo a los lineamientos que establezca la propia Secretaría;
+
+V. El diseño y ejecución de acciones de coordinación entre dependencias y entidades del Estado y de los Municipios para la promoción y establecimiento de empresas turísticas; y
+
+VI. La realización de acciones para favorecer las inversiones y proyectos turísticos de alto impacto en el sector, así como agilizar los mecanismos y procedimientos administrativos que faciliten su desarrollo y conclusión.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 49 Bis 1.
+
+La Secretaría, conjuntamente con la Secretaria de Educación del Estado, realizarán estudios e investigaciones en materia turística, y llevarán a cabo acciones para mejorar y complementar la enseñanza turística a nivel superior y de posgrado en el Estado, dirigida al personal de instituciones públicas, privadas y sociales vinculadas y con objeto social relativo al turismo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 49 Bis 2.
+
+El Estado y los Municipios promoverán el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística. Asimismo, establecerán lineamientos, contenidos y alcances a fin de promover y facilitar la certificación de competencias laborales.
 
 ###### Artículo 50.
 
@@ -432,6 +626,40 @@ En los casos en que el turista resida en el extranjero podrá presentar su queja
 ###### Artículo 52.
 
 Es facultad de la Secretaría realizar visitas de verificación a los Prestadores de Servicios Turísticos, a efecto de constatar el debido cumplimiento de los deberes a su cargo establecidos en esta Ley y su reglamento, buscando la excelencia en la prestación de los servicios turísticos.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 52 Bis.
+
+Los turistas, con independencia de los derechos que les asisten como consumidores, gozarán de los siguientes derechos:
+
+I. Recibir información útil, precisa, veraz y detallada, con carácter previo, sobre todas y cada una de las condiciones de prestación de los servicios turísticos;
+
+II. Obtener los bienes y servicios turísticos en las condiciones contratadas;
+
+III. Obtener los documentos que acrediten los términos de su contratación, y en cualquier caso, las correspondientes facturas o comprobantes fiscales legalmente emitidas;
+
+IV. Recibir del prestador de servicios turísticos, los bienes y servicios de calidad, acordes con la naturaleza y cantidad de la categoría que ostente el establecimiento elegido;
+
+V. Recibir los servicios sin ser discriminado;
+
+VI. Disfrutar el libre acceso y goce de todo el patrimonio turístico, así como su permanencia en las instalaciones de dichos servicios, sin las limitaciones que las derivadas de los reglamentos específicos de cada actividad; y
+
+VII. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos por las leyes correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 52 Bis 1.
+
+Son deberes del turista:
+
+I. Observar las normas usuales de convivencia en los establecimientos turísticos;
+
+II. Respetar el entorno natural y patrimonio cultural de los sitios en los que se realice una actividad turística;
+
+III. Acatar las prescripciones particulares de establecimientos mercantiles y empresas cuyos servicios turísticos disfruten o contraten y, particularmente las normas y reglamentos mercantiles de uso o régimen interior; y
+
+IV. Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o documento que ampare el pago en el plazo pactado.
 
 ###### Artículo 53.
 
@@ -498,3 +726,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 21 días del mes de septiembre del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE TURISMO, LIC. MARCELINO BRAVO SANDOVAL. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
