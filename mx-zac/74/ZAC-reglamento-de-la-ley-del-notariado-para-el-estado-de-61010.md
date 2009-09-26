@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-del-notariado-para-el-estado-de-61010"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-30"
-last_updated: "2008-04-30"
+last_updated: "2009-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 30 de abril de 2008.
 
@@ -159,9 +159,11 @@ III. Una vez publicada la Convocatoria, el Presidente del Colegio, previa solici
 
 IV. De igual manera, El Coordinador solicitará por escrito a los titulares de los Poderes del Estado, así como al Presidente del Colegio, para que designen representantes, propietario y suplente, para integrar el Jurado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 11.
 
-Los interesados deberán presentar personalmente ante la Dirección, su solicitud por triplicado, firmada y acompañada de la documentación original a que se refiere la Ley.
+Los interesados deberán presentar personalmente ante la Dirección, su solicitud por triplicado, firmada y acompañada de la documentación a que se refiere la Ley.
 
 ###### Artículo 12.
 
@@ -679,7 +681,9 @@ Para los efectos de los testimonios a que se refiere el capítulo IV del Título
 
 El Notario, podrá expedir testimonios, de conformidad con lo siguiente:
 
-I. En la parte superior del margen izquierdo, llevará el sello de autorizar y al final lo autorizará con su firma, sello y en su caso el holograma, quinegrama o cualquier otra medida de seguridad adoptada por el Colegio y autorizada por la Dirección; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+I. En la parte superior del margen izquierdo, llevará el sello de autorizar y al final lo autorizará con su firma y sello. A fin de proteger la autenticidad de dichos testimonios, el papel en que se impriman deberá llevar una seria (sic) de medidas de seguridad, determinadas entre la Dirección y el Colegio y serán obligatorias. Para asegurar la existencia y homogeneidad de tales mediadas (sic), el Colegio proveerá a costa de los Notarios de sus hojas de papel testimonio; y
 
 II. Puede expedirlos a cada parte o al autor del acto o hecho consignado en el instrumento en que hayan intervenido, o en su caso, a sus sucesores o causahabientes legalmente reconocidos.
 
@@ -747,7 +751,9 @@ V. Certificar la documentación solicitada por autoridades judiciales, administr
 
 VI. Recibir los avisos de testamento, expedientes, manuscritos, libros, folios y demás documentos que conforme a la Ley y este Reglamento, deban entregar los Notarios para deposito y custodia en el Archivo; así como regresar los que previa revisión, no deban obrar en éste;
 
-VII. Recibir de los Notarios, los avisos de otorgamiento y revocación de poderes;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+VII. De conformidad con lo establecido en el último párrafo del artículo 94 de la Ley, recibir de los Notarios, los avisos de otorgamiento y revocación de poderes que contengan facultades para actos de dominio, así como solicitar aquellos que considere necesarios;
 
 VIII. Rendir a las autoridades judiciales y administrativas competentes, así como a los Notarios, información con respecto a los avisos, testamentos y poderes;
 
@@ -795,7 +801,9 @@ El Director será responsable de la custodia de los protocolos, sellos, libros y
 
 La custodia de libros y volúmenes junto con sus apéndices, a que se refiere el artículo 89 de la Ley, deberá realizarse conforme al procedimiento siguiente:
 
-I. La documentación será recibida de acuerdo con el inventario que para ese efecto haya formulado el Notario, mismo que se cotejará con cada libro o volumen y sus apéndices e índices. El contenido de cada libro deberá ser respaldado y entregado en programa informático. Los apéndices deberán entregarse encuadernados y cubiertos con pastas duras.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+I. La documentación será recibida de acuerdo con el inventario que para ese efecto haya formulado el Notario, mismo que se cotejará con cada libro o volumen y sus apéndices e índices. El contenido de cada libro y su índice deberá ser respaldado y entregado en programa informático. Los apéndices deberán entregarse encuadernados y cubiertos con pastas duras.
 
 En caso de que el inventario presentado no coincida con los libros, volúmenes y documentos que se entreguen, a solicitud del Notario y bajo su responsabilidad, se dará un plazo de tres días naturales para que se subsane el error, si ello no ocurriera, se archivarán definitivamente, quedando constancia de la omisión en el acta respectiva;
 
@@ -912,3 +920,11 @@ CARLOS PINTO NUÑEZ
 EL COORDINADOR GENERAL JURÍDICO
 
 MIGUEL DE SANTIAGO REYES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+Primero.- El presente Decreto Gubernativo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones administrativas que contravengan este instrumento.
