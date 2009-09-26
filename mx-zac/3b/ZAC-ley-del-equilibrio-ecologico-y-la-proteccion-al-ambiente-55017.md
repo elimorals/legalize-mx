@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-55017"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2008-08-30"
+last_updated: "2009-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de marzo de 2007.
 
@@ -159,55 +159,59 @@ XXXII. Fuente Móvil: Todo vehículo ya sea tractocamiones, autobuses, camiones,
 
 XXXIII. Impacto ambiental: La modificación al ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-XXXIV. Instituto: El Instituto de Ecología y Medio Ambiente del Estado;
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-XXXV. Ley: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas;
+XXXIV. Incineración: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
-XXXVI. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XXXV. Instituto: El Instituto de Ecología y Medio Ambiente del Estado;
 
-XXXVII. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial; especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente, así como la forma de evitarlo o atenuarlo en caso de impacto negativo;
+XXXVI. Ley: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas;
 
-XXXVIII. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+XXXVII. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXXIX. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+XXXVIII. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial; especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente, así como la forma de evitarlo o atenuarlo en caso de impacto negativo;
 
-XL. Medidas de prevención y mitigación: El conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
+XXXIX. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-XLI. Normas estatales ambientales: El conjunto de reglas científicas o tecnológicas donde se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades, uso, destino de bienes, causen o puedan causar desequilibrio ecológico o daño al ambiente y además uniforman principios, criterios, políticas y estrategias en la materia;
+XL. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-XLII. Normas oficiales mexicanas: El conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en el Diario Oficial de la Federación, que establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniforman principios, criterios, políticas y estrategias en la materia;
+XLI. Medidas de prevención y mitigación: El conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
 
-XLIII. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar a las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+XLII. Normas estatales ambientales: El conjunto de reglas científicas o tecnológicas donde se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades, uso, destino de bienes, causen o puedan causar desequilibrio ecológico o daño al ambiente y además uniforman principios, criterios, políticas y estrategias en la materia;
 
-XLIV. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XLIII. Normas oficiales mexicanas: El conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en el Diario Oficial de la Federación, que establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniforman principios, criterios, políticas y estrategias en la materia;
 
-XLV. Protección: El conjunto de políticas y medidas para mejorar el ambiente y evitar su deterioro;
+XLIV. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar a las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
 
-XLVI. Reciclaje: El proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
+XLV. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-XLVII. Recolección: La acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
+XLVI. Protección: El conjunto de políticas y medidas para mejorar el ambiente y evitar su deterioro;
 
-XLVIII. Recursos biológicos: Los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+XLVII. Reciclaje: El proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
 
-XLIX. Recursos genéticos: El material genético de valor real o potencial;
+XLVIII. Recolección: La acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
 
-L. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XLIX. Recursos biológicos: Los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
 
-LI. Región ecológica: La unidad de territorio que comparte características ecológicas comunes;
+L. Recursos genéticos: El material genético de valor real o potencial;
 
-LII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+LI. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-LIII. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológicoinfecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
+LII. Región ecológica: La unidad de territorio que comparte características ecológicas comunes;
 
-LIV. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+LIII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
-LV. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
+LIV. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológicoinfecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
 
-LVI. Tratamiento de Agua Residual: El proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+LV. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LVII. Verificación: La medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria, y
+LVI. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
 
-LVIII. Vocación Natural: Las características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+LVII. Tratamiento de Agua Residual: El proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+
+LVIII. Verificación: La medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria, y
+
+LIX. Vocación Natural: Las características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
 ## TÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y SU COORDINACIÓN
 
@@ -1623,9 +1627,15 @@ XVI. Formular y aplicar programas de gestión de calidad del aire, con base en l
 
 XVII. Llevar a cabo campañas para racionalizar el uso de los vehículos automotores, así como para la afinación y mantenimiento de los mismos;
 
-XVIII. Emitir las disposiciones y establecer las medidas, consignadas en el reglamento correspondiente para evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas, plásticos, lubricantes, solventes y otras, y las quemas con fines de desmonte o deshierbe de terrenos, y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-XIX. Ejercerán las demás facultades que les confieren las disposiciones legales y reglamentarias aplicables.
+XVIII. Emitir las disposiciones y establecer las medidas, consignadas en el reglamento correspondiente para evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas, plásticos, lubricantes, solventes y otras, y las quemas con fines de desmonte o deshierbe de terrenos;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+XIX. Establecer las medidas necesarias para prohibir la incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado;
+
+XX. Ejercerán las demás facultades que les confieren las disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 140.
 
@@ -1765,9 +1775,15 @@ III. Es necesario prevenir y reducir la generación de residuos sólidos, munici
 
 IV. La utilización de plaguicidas, fertilizantes y sustancias tóxicas, debe ser compatible con el equilibrio de los ecosistemas y considerar sus efectos sobre la salud humana a fin de prevenir los daños que pudiera ocasionar;
 
-V. En los suelos contaminados por la presencia de materiales o residuos peligrosos, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones, de tal manera que puedan ser utilizados en cualquier tipo de actividad prevista por el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable, y
+V. En los suelos contaminados por la presencia de materiales o residuos peligrosos, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones, de tal manera que puedan ser utilizados en cualquier tipo de actividad prevista por el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable, y (sic)
 
-VI. Realizar las gestiones ante la Secretaría del Medio Ambiente y Recursos Naturales, con la finalidad de que se lleve a cabo la remedición de los sitios contaminados derivados de actividades mineras.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Realizar las gestiones ante la Secretaría del Medio Ambiente y Recursos Naturales, con la finalidad de que se lleve a cabo la remedición de los sitios contaminados derivados de actividades mineras;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+VII. La prohibición de la incineración de residuos sólidos, por considerar sus efectos dañinos contra la salud y el medio ambiente.
 
 ###### Artículo 154.
 
@@ -1852,6 +1868,12 @@ IV. La compatibilidad con otras actividades de las zonas;
 V. La infraestructura existente y necesaria para la atención de emergencias ecológicas, y
 
 VI. La infraestructura para la dotación de servicios básicos.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 160 Bis.
+
+Se prohíbe la incineración de residuos sólidos de manejo especial en el Estado.
 
 ###### Artículo 161.
 
@@ -2360,3 +2382,17 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Se derogan las disposiciones que contravengan este Decreto.
 
 Tercero.- El Ejecutivo del Estado deberá modificar la reglamentación de la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas, para ajustarla de conformidad con las reformas presentadas en este decreto en materia de cambio climático, a más tardar en un plazo de 90 días naturales después de su entrada en vigor.
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá modificar la reglamentación de la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas, para ajustarla de conformidad con las reformas presentadas en este Decreto en materia de incineración de residuos sólidos, a más tardar en un plazo de 90 días después de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial Órgano de Gobierno del Estado.
