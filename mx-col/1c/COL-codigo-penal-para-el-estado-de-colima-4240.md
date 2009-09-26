@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2009-05-09"
+last_updated: "2009-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -1645,9 +1645,9 @@ Al que destruya, inutilice, quite o cambie un dispositivo o señal de seguridad 
 
 Se impondrán de tres días a tres años de prisión y multa hasta por 30 unidades e inhabilitación de derechos para conducir vehículos hasta por tres años al que conduzca un vehículo sin observar los deberes de cuidado que le incumben de acuerdo con las circunstancias y sus condiciones personales y ponga en peligro la vida o la salud personal o los bienes de alguien.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-Cuando la inobservancia de los deberes de cuidado consista en conducir vehículos en estado de ebriedad o bajo el influjo de algún tipo de estupefaciente, psicotrópico o vegetales que determine la Ley General de Salud como ilegales, se impondrán de tres días a cuatro años de prisión y multa hasta por 50 unidades e inhabilitación de derechos para conducir vehículos hasta por cuatro años.
+Cuando la inobservancia de los deberes de cuidado consista en conducir vehículos en estado de ebriedad o bajo el influjo de algún tipo de estupefaciente, psicotrópico o vegetales que determine la Ley General de Salud como ilegales, o con motivo de competencias realizadas con otro u otros vehículos, sin el permiso de la autoridad competente, o en lugares no idóneos o especializados para dicho fin, se impondrán de tres días a cuatro años de prisión y multa hasta por 50 unidades e inhabilitación de derechos para conducir vehículos hasta por cuatro años.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2007)</small>
 
@@ -3524,5 +3524,9 @@ P.O. 25 DE ABRIL DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 9 DE MAYO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
