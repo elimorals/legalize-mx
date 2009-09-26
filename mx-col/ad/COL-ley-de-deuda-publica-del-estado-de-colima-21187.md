@@ -4,7 +4,7 @@ identifier: "COL-ley-de-deuda-publica-del-estado-de-colima-21187"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-28"
-last_updated: "2008-03-01"
+last_updated: "2009-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de abril del 2001.
 
@@ -143,9 +143,19 @@ Es competencia del Congreso:
 
 I.- Aprobar los montos anuales de endeudamiento directo o indirecto por ejercicio fiscal, de las entidades a que se refiere el artículo 2° de esta Ley;
 
-II.- Autorizar los montos adicionales de endeudamiento no considerados en las leyes de ingresos para el Estado o generales de ingresos de los municipios y requeridos por razones imprevistas o extraordinarias, previamente justificados por el titular del Ejecutivo o el Ayuntamiento respectivo, en su caso; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-III.- Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
+II.- Autorizar los montos adicionales de endeudamiento no considerados en las leyes de ingresos del Estado o de los municipios y requeridos por razones imprevistas o extraordinarias, mediante Decreto o reforma a la Ley de Ingresos de la entidad de que se trate.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Autorizar la afectación en fuente de pago, en garantía o ambas de las participaciones y/o aportaciones federales suceptibles (sic) de afectarse de conformidad a la legislación aplicable, así como el mecanismo a través del cual se realice la afectación.
+
+Cuando dos o más municipios sometan una iniciativa ante el Congreso para que se expida una autorización global de endeudamiento, constitución de garantías, fuente de pago o ambas, el mecanismo de afectación y pago se podrá adherir al esquema autorizado aquellos municipios que así lo decidan y cumplan con los demás requerimientos previstos en la ley; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+IV.- Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
 
 ###### ARTICULO 10.
 
@@ -153,7 +163,9 @@ Corresponde al titular del Ejecutivo:
 
 I.- Remitir anualmente al Congreso las iniciativas de Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado, en las que se señalen los montos de endeudamiento público a contratar y a erogar en el ejercicio correspondiente;
 
-II.- Suscribir los contratos o cualesquiera otro instrumento jurídico para contraer obligaciones de deuda pública directa o indirecta, así como autorizar las garantías necesarias para su pago;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+II.- Suscribir los contratos o cualesquiera otro instrumento jurídico para contraer obligaciones de deuda pública directa o indirecta, así como autorizar las garantías, fuentes de pago o ambas, necesarias para el cumplimiento de dichas obligaciones;
 
 (REFORMADA, P.O. 22 DE MARZO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
 
@@ -189,11 +201,21 @@ VI.- Aprobar la constitución de los fideicomisos o instrumentos jurídicos proc
 
 VII.- Aprobar los lineamientos para la operación de los fideicomisos o instrumentos jurídicos y garantías o fuentes de pago procedentes del ámbito municipal y, en su caso, del paramunicipal;
 
-VIII.- Aprobar los convenios para que el Gobierno suscriba obligaciones financieras por cuenta del Ayuntamiento y opere los fideicomisos o instrumentos jurídicos a que se refiere la fracción anterior; y
+VIII.- Aprobar los convenios para que el Gobierno suscriba obligaciones financieras por cuenta del Ayuntamiento y opere los fideicomisos o instrumentos jurídicos a que se refiere la fracción anterior; y (sic)
 
-IX.- Las demás que determinen ésta y otras disposiciones legales y reglamentarias.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-La votación a la que se refieren las fracciones II, III, VI y VIII anteriores, será de cuando menos las dos terceras partes de los miembros que integran el Cabildo.
+IX.- Gestionar ante el Congreso las solicitudes de autorización de endeudamiento y en su caso, la afectación en fuente de pago, garantía o ambas de las participaciones y/o aportaciones federales susceptibles de afectarse de conformidad a la legislación aplicable, así como el mecanismo a través del cual se realice tal afectación.
+
+Dos o más municipios podrán someter la iniciativa ante el Congreso para que se expida una autorización global de endeudamiento y constitución de garantías, fuente de pago o ambas, con la afectación de las participaciones y/o aportaciones federales susceptibles de afectarse en términos de la legislación federal, incluyendo el mecanismo de afectación y pago, el cual se podrá constituir por conducto del Ejecutivo del Estado a favor de todos los municipios, y se podrán adherir al esquema autorizado aquellos municipios que así lo decidan y cumplan con los demás requerimientos previstos en ésta ley.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+X.- Las demás que determine esta ley y otras disposiciones legales y reglamentarias.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+Para las aprobaciones a que se refiere las fracciones II, III, VI, VIII y IX anteriores, será necesario el voto a favor de cuando menos las dos terceras partes de los miembros que integran el Cabildo.
 
 El Ayuntamiento se auxiliará en materia de deuda pública de la Tesorería Municipal. El reglamento de cada municipio, regulará la participación que corresponda al presidente municipal, el síndico, los regidores, el secretario del Ayuntamiento y las dependencias municipales correspondientes.
 
@@ -207,13 +229,15 @@ II.- Analizar los contratos, convenios o cualesquier otro instrumento jurídico 
 
 III.- Tramitar la reestructuración de la deuda directa y, en caso requerido, la indirecta respectiva;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-IV.- Afectar en garantía o como fuente de pago directo, los ingresos propios y/o las participaciones que en ingresos federales correspondan, por las obligaciones contraídas directamente, como avalista o deudor solidario;
+IV.- Afectar en garantía o como fuente de pago directo, los ingresos propios, las participaciones y/o aportaciones que en ingresos federales correspondan al Estado, susceptibles de afectarse en términos de la legislación aplicable, por las obligaciones contraídas directamente, como avalista o deudor solidario;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-V.- Intervenir en la constitución de los fideicomisos o instrumentos jurídicos procedentes que operen como la instancia o conducto legal para recibir las participaciones que le correspondan al Estado en los ingresos federales o sus propios ingresos y afectarlos en garantía o como fuente de pago directo de la deuda pública estatal y, de requerirse, en lo concerniente a la municipal;
+V.- Intervenir en la constitución de los fideicomisos o instrumentos jurídicos procedentes que operen como la instancia o conducto legal para recibir las participaciones y/o aportaciones que le correspondan al Estado en los ingresos federales susceptibles de afectarse en términos de la legislación aplicable o en sus propios ingresos y afectarlos en garantía, como fuente de pago o ambas, de la deuda pública estatal y, de requerirse, en lo concerniente a la municipal.
+
+Los fideicomisos que se implementen conforme a lo preceptuado en el párrafo que antecede, no serán considerados parte de a (sic) Administración Pública Paraestatal o Paramunicipal. Con el fin de cumplir con sus obligaciones en términos de la Ley de Coordinación Fiscal, tales fideicomisos podrán servir como instrumentos de captación y/o distribución de la totalidad de las participaciones y/o aportaciones federales susceptibles de afectarse como garantía o fuente de pago de conformidad a la legislación aplicable, incluyendo los recursos que correspondan a los municipios para su posterior entrega a los mismos, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega de los recursos al estado y los municipios acorde a la ley y los convenios aplicables, sin perjuicio de cumplir con los fines de la (sic) afectaciones que, como garantía o fuente de pago o ambas, hubieren realizado el Estado y/o los municipios a favor de sus acreedores;
 
 VI.- Asesorar a los Ayuntamientos, así como a sus organismos, empresas y fideicomisos que lo soliciten, en la contratación y reestructuración de financiamientos;
 
@@ -251,11 +275,11 @@ Las operaciones de endeudamiento autorizadas, así como su inscripción en el Re
 
 ### CAPÍTULO IV. DE LAS GARANTÍAS Y AVALES
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 18.
 
-El Gobierno del Estado podrá afectar en garantía o como fuente de pago directo de préstamos o financiamientos referidos en esta Ley, las participaciones que le correspondan de los ingresos federales o sus propios ingresos, previa aprobación del Congreso en la ley de ingresos y presupuesto de egresos del Gobierno del Estado. Lo mismo podrán hacer los Ayuntamientos con la aprobación de por lo menos las dos terceras partes de los integrantes del Cabildo.
+El Gobierno del Estado podrá afectar en garantía o como fuente de pago o ambas de préstamos o financiamientos referidos en esta ley, las participaciones y/o aportaciones que le correspondan de los ingresos federales o sus propios ingresos, susceptibles de afectarse en términos de la legislación aplicable previa aprobación del Congreso en la Ley de Ingresos del Gobierno del Estado. Lo mismo podrán hacer los Ayuntamientos con la aprobación de por lo menos las dos terceras partes de los integrantes del Cabildo, debiendo obtener la autorización del Congreso.
 
 ###### ARTICULO 19.
 
@@ -307,14 +331,20 @@ Dado en Palacio de Gobierno, a los 27 días del mes de Abril del año dos mil un
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.- Rúbrica.- EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE MARZO DE 2003.
 
-UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 1 DE MARZO DE 2008.
 
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El ESTADO DE COLIMA".
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
