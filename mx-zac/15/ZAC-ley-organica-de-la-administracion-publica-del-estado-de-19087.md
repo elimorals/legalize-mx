@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-19087"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2008-12-24"
+last_updated: "2009-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2000.
 
@@ -175,7 +175,7 @@ VII. Secretaría de Desarrollo Económico;
 
 VIII. Secretaría de Turismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -301,23 +301,23 @@ XIII. Fijar y divulgar el Calendario Oficial del Estado, organizar los actos cí
 
 XIV. Ejecutar los acuerdos, decretos o declaratorias que conforme a la ley expida el Gobernador del Estado respecto a expropiaciones, ocupaciones temporales y limitaciones de dominio por causa de utilidad pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 XV. Coordinar las actividades del Consejo Estatal de Seguridad Pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XVI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
 XVII. Coordinar el Sistema Estatal de Protección Civil y, en auxilio o coordinación con las autoridades federales, diseñar y ejecutar programas para la protección y seguridad de los habitantes del Estado, así como para la prevención, combate y atención de catástrofes naturales, alentando la participación ciudadana corresponsable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XVIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -325,15 +325,15 @@ XIX. Acordar con el Gobernador del Estado, el otorgamiento, modificación, trans
 
 XX. Dar trámite a las solicitudes que presenten los particulares y que no estén reservadas a otras dependencias, sobre otorgamiento de autorizaciones, concesiones, permisos y licencias gubernamentales, así como a la terminación, suspensión o revocación de las ya otorgadas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XXI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XXII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XXIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
@@ -773,7 +773,9 @@ XVI. Realizar visitas de verificación a los prestadores de servicios turístico
 
 XVII. Impulsar la creación del Consejo Consultivo Turístico del Estado, integrando en su seno a los sectores social y privado relacionados con la actividad turística;
 
-XVIII. Promover en los Municipios la vocación turística de la Entidad, la constitución de órganos municipales de turismo, así como de consejos consultivos de turismo municipales y en su caso, coordinarse con los mismos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+XVIII. Promover en los Municipios con vocación turística de la Entidad, la constitución de órganos municipales de turismo, así como de consejos consultivos de turismo municipales y en su caso, coordinarse con los mismos, así como apoyar a las localidades que sean declaradas pueblo mágico;
 
 XIX. Diseñar, instrumentar y mantener actualizado el Registro Estatal de Turismo;
 
@@ -791,7 +793,7 @@ XXV. Fomentar la cultura turística entre la población, y
 
 XXVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1113,11 +1115,11 @@ III. Que corresponda al Gobierno del Estado la facultad de nombrar a la mayoría
 
 Son fideicomisos públicos del Estado, aquellos que constituya el Gobierno de la Entidad, con el propósito de auxiliar al Poder Ejecutivo en la realización de acciones prioritarias, con la estructura orgánica que determine la ley de la materia.
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
 
 ## TÍTULO CUARTO. De los Tribunales Administrativos del Estado
 
-(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003
 
 ### CAPÍTULO ÚNICO
 
@@ -1171,7 +1173,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE ENERO DE 2003.
 
@@ -1193,7 +1195,7 @@ Asimismo se derogan todas aquellas disposiciones que contravengan el presente De
 
 TERCERO.- Los recursos humanos, materiales y financieros con los que actualmente cuenta el Consejo Estatal de Turismo, pasarán a formar parte de la Secretaría de Turismo, debiéndose respetar los derechos laborales que los servidores públicos hubieren adquirido.
 
-CUARTO.- La Secretaría de Finanzas deberá incluir e4n Presupuesto de Egresos del Estado para el Ejercicio Fiscal de dos mil cinco, a la Secretaría de Turismo.
+CUARTO.- La Secretaría de Finanzas deberá incluir en Presupuesto de Egresos del Estado para el Ejercicio Fiscal de dos mil cinco, a la Secretaría de Turismo.
 
 P.O. 10 DE DICIEMBRE DE 2005.
 
@@ -1234,3 +1236,11 @@ Artículo sexto. Dentro de los noventa días naturales siguientes a la publicaci
 Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
 
 Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+Artículo primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan al presente Instrumento Legislativo.
+
+Artículo tercero.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2010, deberán incluirse las partidas presupuestales para los municipios declarados pueblo mágico.
