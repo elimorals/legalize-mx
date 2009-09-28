@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-vivienda-51516"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-31"
-last_updated: "2009-06-25"
+last_updated: "2009-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51516&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-28"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL DE VIVIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE SEPTIEMBRE DE 2009.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 31 de agosto de 2006.
 
@@ -35,9 +35,11 @@ ESTATUTO ORGANICO DE LA COMISION NACIONAL DE VIVIENDA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 1.
 
-La Comisión Nacional de Vivienda, es un organismo descentralizado, de utilidad pública e interés social, no sectorizado, con personalidad jurídica y patrimonio propio, que tiene por objeto el fomento, la coordinación, la promoción y la instrumentación de la política y el programa nacional de vivienda del Gobierno Federal de conformidad con la Ley de Vivienda, Ley General de Asentamientos Humanos y demás disposiciones aplicables.
+La Comisión Nacional de Vivienda, es un organismo descentralizado, de utilidad pública e interés social, no sectorizado, con personalidad jurídica y patrimonio propio, que ejercerá sus facultades en todo el territorio nacional y tiene por objeto el fomento, la coordinación, la promoción y la instrumentación de la política y el programa nacional de vivienda del Gobierno Federal de conformidad con la Ley de Vivienda, Ley General de Asentamientos Humanos y demás disposiciones aplicables.
 
 ###### Artículo 2.
 
@@ -67,9 +69,11 @@ VI. Organismos Nacionales de Vivienda, al Fondo de Vivienda del Instituto de Seg
 
 Para su operación, administración y funcionamiento, la Comisión contará con una Junta de Gobierno y un Director General.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 6.
 
-Para el ejercicio de sus funciones, la Comisión contará con las unidades administrativas siguientes:
+Para el ejercicio de sus funciones, la Comisión contará con las unidades administrativas centrales siguientes:
 
 I. Dirección General;
 
@@ -91,7 +95,13 @@ IX. Coordinación General del Secretariado de la Comisión; y
 
 X. Organo Interno de Control.
 
-Las unidades administrativas de la Comisión, para el ejercicio de sus atribuciones, se auxiliarán por los directores de área, subdirectores, jefes de departamento, personal de enlace, jefes de oficina, y demás personal técnico y administrativo que se requieran por las necesidades del servicio.
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2009)</small>
+
+Las Unidades Administrativas de la Comisión ejercerán sus facultades en todo el territorio.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2009)</small>
+
+Las unidades administrativas de la Comisión, para el ejercicio de sus atribuciones, se auxiliarán por los directores de área, subdirectores, jefes de departamento, personal de enlace, jefes de oficina, visitadores y demás personal técnico y administrativo que se requieran por las necesidades del servicio.
 
 ### CAPITULO SEGUNDO. DE LA JUNTA DE GOBIERNO
 
@@ -209,7 +219,9 @@ XXII. Proporcionar la información, los datos o la cooperación técnica que le 
 
 XXIII. Aplicar los ordenamientos que integran el marco jurídico de la Comisión, conforme a las facultades y atribuciones que les confiere este Estatuto y demás disposiciones jurídicas aplicables o que le sean delegadas y, en su caso, imponer las sanciones que procedan y resolver los recursos administrativos que al respecto se promuevan;
 
-XXIV. Expedir copias certificadas de los documentos que obren en los archivos de la unidad administrativa a su cargo; y
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2009)</small>
+
+XXIV. Expedir copias certificadas de los documentos que obren en los archivos de la unidad administrativa a su cargo, así como las constancias de identificación del personal que de ellos dependan, a fin de habilitarlos para la práctica de actos relacionados con el ejercicio de sus facultades y autorizar la emisión de gafetes de identificación; y
 
 XXV. Las demás que le señalen otras disposiciones legales y administrativas, así como las que le confiera el Director General dentro de la esfera de sus facultades y las disposiciones jurídicas aplicables.
 
@@ -253,9 +265,17 @@ XVII. Promover la concertación de acciones entre las instancias de la Administr
 
 XVIII. Promover con las instituciones captadoras de ahorro y los organismos de vivienda, el establecimiento de programas que incorporen compromisos entre ahorro previo, subsidios y complemento crediticio para adquirir vivienda;
 
-XIX. Formular, ejecutar, conducir, coordinar, evaluar y dar seguimiento a la Política de Subsidios del Gobierno Federal, de conformidad con lo previsto en la Ley, el Programa Nacional de Vivienda y demás disposiciones aplicables, con la participación que corresponda a los sectores público, social y privado; y
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2009)</small>
 
-XX. Participar en el diseño de las reglas de distribución de subsidios federales a fin de que se apeguen a la Política de Subsidios del Gobierno Federal.
+XIX. Formular, ejecutar, conducir, coordinar, evaluar y dar seguimiento a la Política de Subsidios del Gobierno Federal, de conformidad con lo previsto en la Ley, el Programa Nacional de Vivienda y demás disposiciones aplicables, con la participación que corresponda a los sectores público, social y privado;
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2009)</small>
+
+XX. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, verificaciones y demás actos que establezcan las disposiciones correspondientes, sin menoscabo de las facultades que al respecto tengan el órgano interno de control en la CONAVI y otras instancias fiscalizadoras, para comprobar el cumplimiento de dichas disposiciones por parte de los beneficiarios, entidades ejecutoras y cualquier participante en la ejecución, dispersión, otorgamiento y aplicación de subsidios federales en materia de vivienda; en su caso, determinar el incumplimiento de las disposiciones que establezcan dichos subsidios, imponiendo las sanciones correspondientes y determinando el monto que deberá ser reintegrado a la Federación como aprovechamientos y sus accesorios que deriven del ejercicio de las facultades a que se refiere esta fracción; y
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2009)</small>
+
+XXI. Participar en el diseño de las reglas de distribución de subsidios federales a fin de que se apeguen a la Política de Subsidios del Gobierno Federal.
 
 ###### Artículo 15.
 
@@ -536,5 +556,11 @@ El presente Estatuto Orgánico fue aprobado por la H. Junta de Gobierno de la Co
 D.O.F. 25 DE JUNIO DE 2009.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Notifíquese a la H. Junta de Gobierno de la Comisión Nacional de Vivienda.
+
+D.O.F. 28 DE SEPTIEMBRE DE 2009.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Notifíquese a la H. Junta de Gobierno de la Comisión Nacional de Vivienda.
