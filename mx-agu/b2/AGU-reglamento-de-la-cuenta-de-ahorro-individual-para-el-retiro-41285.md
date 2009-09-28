@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-cuenta-de-ahorro-individual-para-el-retiro-412
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-11"
-last_updated: "2004-10-11"
+last_updated: "2009-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA CUENTA DE AHORRO INDIVIDUAL PARA EL RETIRO DE LOS SERVIDORES PUBLlCOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de octubre de 2004.
 
@@ -185,9 +185,11 @@ Para las aportaciones que el servidor público decida realizar por vía de descu
 
 Para las aportaciones voluntarias que el servidor público decida realizar a su subcuenta de ahorro individual, no existirá limitación alguna en tanto montos mínimos ni máximos.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTICULO 25.
 
-Las aportaciones voluntarias que el servidor público decida realizar podrán ser retiradas en no más de un 20%, y éstas deberán ser previa solicitud con al menos tres días de anticipación, en dos momentos del ejercicio, que serán el día último hábil del mes de junio y el día treinta y uno del mes de diciembre de cada año, asimismo, los intereses correrán la misma suerte que el principal.
+Las aportaciones voluntarias que el servidor público decida realizar podrán ser retiradas en un porcentaje del 20%, previa solicitud con al menos tres días de anticipación, en dos momentos del ejercicio, que serán del día último hábil del mes de junio y el día treinta y uno del mes de diciembre de cada año, o por circunstancias extraordinarias, de carácter emergente general y de interés público la Junta Directiva podrá autorizar el retiro de los recursos en un porcentaje mayor o hasta su totalidad y en otro momento del ejercicio; asimismo, los intereses generados correrán la misma suerte que el principal.
 
 ### CAPITULO VII. De los Comprobantes y Estados de Cuenta
 
@@ -450,3 +452,9 @@ El suscrito L.A. y E.C.F. Femando Carrillo López en mi calidad de Secretario de
 L.A. y E.C.F. Fernando Carrillo López,
 
 SECRETARIO DE LA JUNTA DIRECTIVA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
