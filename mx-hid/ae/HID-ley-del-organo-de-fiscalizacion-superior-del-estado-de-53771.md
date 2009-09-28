@@ -4,7 +4,7 @@ identifier: "HID-ley-del-organo-de-fiscalizacion-superior-del-estado-de-53771"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2008-04-07"
+last_updated: "2009-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA AUDITORIA SUPERIOR DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 28 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -846,3 +848,25 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicac
 SEGUNDO.- La revisión de las Cuentas Públicas correspondientes al Ejercicio Fiscal 2007, se perfeccionará y concluirá en términos de la presente Ley, en el año 2009.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga la Ley del Órgano de Fiscalización del Estado de Hidalgo, Publicada en el Periódico Oficial del Gobierno del Estado de Hidalgo el 29 de Diciembre de 2006.
+
+TERCERO.- La Auditoría Superior del Estado de Hidalgo iniciará sus funciones a la entrada en vigor del presente Decreto y su titular será el actual Auditor Superior del Órgano de Fiscalización Superior del Estado.
+
+CUARTO.- La revisión y fiscalización de la Cuenta Pública del ejercicio fiscal 2007, se concluirá de conformidad con lo previsto en la Ley vigente al momento de su recepción.
+
+QUINTO.- La revisión y fiscalización de la Cuenta Pública correspondiente al ejercicio fiscal 2008, se llevará conforme a las disposiciones previstas en esta Ley. Los Informes Previos con los resultados de la revisión de las Cuentas Públicas correspondientes al ejercicio fiscal 2008 que a la entrada en vigor del presente Decreto ya hayan sido notificados a los sujetos de revisión, deberán notificarse nuevamente para los efectos que señala el Artículo 18 de la presente Ley.
+
+SEXTO.- En todas las disposiciones legales o administrativas, resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia de la ley materia del presente decreto, en que se haga referencia a la Contaduría Mayor de Hacienda u Órgano de Fiscalización Superior del Estado de Hidalgo, se entenderán referidos a la Auditoría Superior del Estado de Hidalgo.
+
+SÉPTIMO.- Todos los equipos, archivos, expedientes, papeles y en general los bienes del Órgano de Fiscalización Superior, pasarán a formar parte de la Auditaría Superior del Estado de Hidalgo, quedando destinados y afectos a su servicio. La Auditoría Superior del Estado se subroga en todos los derechos de aquél.
+
+OCTAVO.- Los servidores públicos del Órgano de Fiscalización Superior pasarán a formar parte de la Auditoría Superior del Estado de Hidalgo y se respetarán sus derechos, en los términos de Ley.
+
+NOVENO.- Los asuntos que se encuentren en trámite o en proceso ante el Órgano de Fiscalización Superior al entrar en vigor la Ley materia de este Decreto, con excepción del proceso de fiscalización, continuarán tramitándose por la Auditoría Superior del Estado de Hidalgo en los términos de la Ley del Órgano de Fiscalización Superior.
+
+DÉCIMO.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
