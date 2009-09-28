@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-el-fomento-del-desarrollo-basado-en-el-conocimiento-38
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-19"
-last_updated: "2005-06-22"
+last_updated: "2009-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY PARA EL FOMENTO DEL DESARROLLO BASADO EN EL CONOCIMIENTO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE IMPULSO AL CONOCIMIENTO Y A LA INNOVACION TECNOLOGICA PARA EL DESARROLLO DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 28 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 19 de marzo de 2004.
 
@@ -564,3 +566,29 @@ Artículo Tercero.- El Consejo Consultivo de Ciudadano (sic) del Instituto de In
 Artículo Cuarto.- En un plazo no mayor de noventa días contados a partir de la fecha de instalación de la Junta de Gobierno del Instituto de Innovación y Transferencia de Tecnología de Nuevo León, ésta deberá aprobar, a propuesta del Director General del Instituto de Innovación y Transferencia de Tecnología de Nuevo León, el Reglamento Interior para el Instituto de Innovación y Transferencia de Tecnología de Nuevo León.
 
 Artículo Quinto.- Los recursos humanos, materiales y financieros con los que actualmente cuenta el Consejo de Ciencia y Tecnología del Estado de Nuevo León, a partir de la entrada en vigor del presente Decreto, se aplicarán tanto al objeto del Instituto de Innovación y Transferencia de Tecnología de Nuevo León como a la Unidad de Coordinación de Ciencia y Tecnología del Estado de Nuevo León.
+
+P.O. 28 DE SEPTIEMBRE DE 2009.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley para el Fomento del Desarrollo Basado en el Conocimiento, publicada en el Periódico Oficial del Estado el 19 de marzo de 2004, y todas sus reformas.
+
+Tercero.- Dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley, deberán quedar instalados:
+
+I. El Consejo General;
+
+II. La Junta de Gobierno del Instituto;
+
+III. El Comité Financiero a que se refiere el artículo 13 de la presente Ley;
+
+IV. El Consejo Académico Ciudadano; y
+
+V. El Comité Ciudadano.
+
+Cuarto.- El Consejo General formulará y aprobará el Programa Estratégico dentro de los siguientes seis meses, contados a partir de la fecha de su instalación.
+
+Quinto.- En un plazo no mayor a noventa días hábiles a partir de la instalación de la Junta de Gobierno del Instituto, ésta deberá aprobar, a propuesta del Director General de dicho Instituto, las adecuaciones al Reglamento Interior del Instituto, entre tanto, seguirán vigentes las del citado reglamento en lo que no se opongan a la presente Ley.
+
+Sexto.- Para todos los efectos legales subsiste el organismo denominado Instituto de Innovación y Transferencia de Tecnología de Nuevo León con todos sus bienes, recursos, derechos y obligaciones.
+
+Séptimo.- A la entrada en vigor de la presente Ley, el personal administrativo del Instituto de Innovación y Transferencia de Tecnología de Nuevo León, será el mismo que forma parte de dicho Instituto, conservando sus derechos.
