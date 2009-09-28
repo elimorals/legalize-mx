@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-836"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-29"
-last_updated: "2007-04-30"
+last_updated: "2009-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=836&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996.
 
@@ -1790,9 +1790,13 @@ k) Estructura que soporta las antenas de telecomunicación;
 
 l) Fuera del área de la cartelera autorizada y en la estructura que soporta la cartelera;
 
-m) Anuncios electrónicos o de neón en los lugares donde ocasionen molestias a los vecinos, con la producción de cambios violentos en la intensidad de luz, cuyos efectos penetren hacia el interior de las habitaciones; y
+m) Anuncios electrónicos o de neón en los lugares donde ocasionen molestias a los vecinos, con la producción de cambios violentos en la intensidad de luz, cuyos efectos penetren hacia el interior de las habitaciones; y (sic)
 
-n) Los lugares que prohíba expresamente esta Ley y demás disposiciones jurídicas aplicables.
+> <small>(ADICIONADO, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+
+n) Postes, contra postes y estructuras que sostienen los semáforos y luminarias;
+
+o) Los lugares que prohíba expresamente esta Ley y demás disposiciones jurídicas aplicables.
 
 Para el caso de los incisos h) e i), quedan exceptuados de la prohibición los anuncios de tipo institucional colocados por la propia autoridad que informen sobre el cuidado, preservación, limpieza, clasificación y seguridad de estas zonas, las cuales, en todo caso, deberán ser armónicas y cumplir con el objeto de esta ley.
 
@@ -3173,3 +3177,11 @@ G.O. 30 DE ABRIL DE 2007.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE SEPTIEMBRE DE 2009.
+
+Primero. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Se ordena su publicación en el Diario Oficial de la Federación para su mayor difusión.
+
+Segundo. A más tardar en 60 días deberán actualizarse las disposiciones reglamentarias para dar cumplimiento a esta reforma.
+
+Tercero. El Gobierno del Distrito Federal instrumentará en un plazo no mayor a 60 días una campaña en medios masivos de comunicación sobre la presente reforma.
