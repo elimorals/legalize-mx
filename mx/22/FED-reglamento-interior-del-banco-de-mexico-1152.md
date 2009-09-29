@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2009-07-16"
+last_updated: "2009-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -413,19 +413,29 @@ A esta Dirección General estarán adscritas las Direcciones de Recursos Humanos
 
 ARTICULO 15 BIS.- La Dirección General de Planeación y Presupuesto tendrá las atribuciones señaladas en los artículos 27 y 29 Bis de este Reglamento.
 
-A esta Dirección General, estarán adscritas las Direcciones de Planeación Estratégica y de Contabilidad y Presupuesto, la Gerencia de Seguimiento Presupuestal y la Unidad de Administración de Riesgos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-La Gerencia de Seguimiento Presupuestal, contará con las atribuciones siguientes:
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
 
-I. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos;
+A esta Dirección General, estarán adscritas las Direcciones de Planeación Estratégica y de Contabilidad y Presupuesto, las Gerencias de Verificación de Egresos y de Administración de Riesgos.
 
-II. Establecer los procedimientos que permitan evaluar la gestión de los recursos presupuestales del Banco, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-III. Promover que el ejercicio presupuestal sea acorde con las normas y criterios presupuestales, procurando la eficiencia del gasto.
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
 
-La Unidad de Administración de Riesgos, contará con las atribuciones siguientes:
+La Gerencia de Verificación de Egresos, contará con la atribución de verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos.
 
-I. Definir las normas y criterios para la identificación, evaluación y registro de riesgos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
+
+La Gerencia de Administración de Riesgos, contará con las atribuciones siguientes:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
+
+I. Definir las normas y criterios para la identificación, evaluación y registro de riesgos y los controles que de ello deriven;
 
 II. Instrumentar y mantener una matriz de riesgos institucional;
 
@@ -433,9 +443,23 @@ III. Dar seguimiento, en forma agregada, a todos los riesgos de la Institución;
 
 IV. Reportar, de manera regular, las exposiciones a riesgos y presentar propuestas para su atención;
 
-V. Coordinar la integración y desarrollo de los programas de continuidad operativa, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VI. Promover una cultura de administración de riesgos, autorregulación y autogestión.
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
+
+V. Coordinar la integración y desarrollo de los programas de continuidad operativa;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Promover una cultura de administración de riesgos, autorregulación y autogestión, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Coordinar el proceso institucional de identificación y documentación de procesos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1103,11 +1127,11 @@ La Dirección de Contabilidad y Presupuesto tendrá las atribuciones siguientes:
 
 I. Proponer a la Junta de Gobierno las normas y criterios a que se refiere la fracción XI del artículo 46 de la Ley, así como vigilar su aplicación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
 
-II. Efectuar los pagos derivados del ejercicio del presupuesto de gasto corriente, inversión en activos fijos e inversión en activo circulante, por medio de los sistemas institucionales, con excepción de los efectuados por las sucursales del Banco, una vez verificados por la Gerencia de Seguimiento Presupuestal, así como registrar en la contabilidad del Banco los pagos correspondientes;
+II. Efectuar los pagos derivados del ejercicio del presupuesto de gasto corriente, inversión en activos fijos e inversión en activo circulante, por medio de los sistemas institucionales, con excepción de los efectuados por las sucursales del Banco, una vez verificados por la Gerencia de Verificación de Egresos, así como registrar en la contabilidad del Banco los pagos correspondientes;
 
 > <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -1121,15 +1145,27 @@ IV. Normar y supervisar el registro contable de las operaciones que realice el B
 
 V. Registrar y controlar contablemente el activo fijo, los inventarios y costos de fabricación de billete y acuñación de moneda metálica;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Establecer los procedimientos que permitan evaluar la gestión de los recursos presupuestales y costos del Banco;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
+
+VII. Promover que el ejercicio presupuestal sea acorde con las normas y criterios presupuestales, procurando la eficiencia del gasto;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
+
+VIII. Requerir información a las instituciones en las que el Banco participe económicamente, y
+
 > <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
 
-VI. Requerir información a las instituciones en las que el Banco participe económicamente;
-
-VII. (DEROGADA, D.O.F. 5 DE JUNIO DE 2002)
-
-> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
-
-VIII. Apoyar al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
+IX. Apoyar al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1631,11 +1667,11 @@ El balance general deberá publicarse dentro de los cinco días hábiles siguien
 
 Dado a conocer el balance general, el Banco publicará, dentro de los quince días hábiles siguientes, los estados de cuenta consolidados de los meses que hayan transcurrido del ejercicio en curso, y sucesivamente, dentro de los primeros veinte días hábiles de cada mes, el estado de cuenta consolidado correspondiente al mes inmediato anterior, excepto diciembre.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
 
-El Banco publicará semanalmente en el Diario Oficial de la Federación, con cifras preliminares al cierre de cada viernes y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contabilidad y Presupuesto y, en las ausencias de éste, por el Gerente de Presupuestos y Contabilidad.
+El Banco publicará semanalmente en el Diario Oficial de la Federación, con cifras preliminares al cierre del último día hábil de cada semana y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contabilidad y Presupuesto y, en las ausencias de éste, por el Gerente de Contabilidad e Información Financiera.
 
 ### CAPITULO V. DISPOSICIONES GENERALES
 
@@ -1962,3 +1998,11 @@ SEGUNDO. Los comités que se hayan constituido con fundamento en el párrafo sé
 D.O.F. 16 DE JULIO DE 2009.
 
 UNICO. Las presentes reformas y adiciones al Reglamento Interior del Banco de México, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones al Reglamento Interior del Banco de México, entrarán en vigor el día 1 de octubre de 2009.
+
+SEGUNDO. Las referencias a la Gerencia de Seguimiento Presupuestal y a la Gerencia de Presupuestos y Contabilidad, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Gerencia de Verificación de Egresos, así como a la Gerencia de Contabilidad e Información Financiera, respectivamente.
+
+Asimismo, las referencias a la Unidad de Administración de Riesgos, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Gerencia de Administración de Riesgos.
