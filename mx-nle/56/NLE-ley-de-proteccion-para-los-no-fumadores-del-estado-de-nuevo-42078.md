@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-para-los-no-fumadores-del-estado-de-nuevo-420
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-14"
-last_updated: "2008-10-08"
+last_updated: "2009-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION PARA LOS NO FUMADORES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 8 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 14 de diciembre de 2004.
 
@@ -91,9 +91,11 @@ I. Dueño: el propietario, la persona física o moral a nombre de quien se encue
 
 II. Escuelas: los recintos de enseñanza indígena, especial, inicial, preescolar, primaria, secundaria, media, media superior, superior, para adultos y de formación para el trabajo del sector público y privado;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Espacio 100% libre de humo de tabaco: Aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público o transporte privado de servicio de personal o escolar, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2009)</small>
+
+III. Espacio 100% libre de humo de tabaco: Aquella área física cerrada o abierta con acceso al público o todo lugar de trabajo interior o de transporte público o transporte privado de servicio de personal o escolar, en los que por razone de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
 
 > <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2008)</small>
 
@@ -113,15 +115,19 @@ VI. Secretaría: la Secretaría de Salud.
 
 Se prohíbe consumir o tener encendido cualquier producto del tabaco en los espacios 100% libres de humo de tabaco en términos de la presente Ley, colocando en las puertas de acceso, interiores y exteriores de dichas instalaciones los letreros, logotipos y emblemas que establezca la Secretaría.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2009)</small>
+
+Artículo 5 bis.- Se prohíbe consumir o tener encendido cualquier producto de tabaco, en sitios donde se realicen eventos deportivos, musicales. Artísticos, culturales, religiosos políticos, independientemente que dichos eventos se lleven a cabo en área física abierta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 6.
 
-Se permitirá a las personas el fumar, consumir o encender cualquier producto de tabaco en lugares con acceso al público, o áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, solo si cuenta con zonas exclusivamente para fumar, las cuales deberán de atender a los (sic) dispuesto por esta Ley y las demás Leyes y Reglamentos aplicables en la materia y reunir los siguientes requisitos:
-
-I.- Ubicarse al aire libre, o
-
-II.- En espacios interiores aislados que dispongan de mecanismos que eviten el traslado de partículas hacia los espacios 100% libres de humo de tabaco; y que, en ambos casos no sean paso obligado para los no fumadores a los espacios 100% libres de humo de tabaco.
+Se permitirá a las personas el fumar, consumir o encender cualquier producto de tabaco en lugares con acceso al público, a excepción a los lugares señalados en el artículo anterior; áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, solo si cuenta con zonas exclusivamente para fumar, las cuales deberán de atender a los (sic) dispuesto por esta Ley y las demás Leyes y Reglamentos aplicables en la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2008)</small>
 
@@ -319,7 +325,11 @@ IV. Arresto hasta por treinta y seis horas.
 
 Se sancionarán las infracciones a lo dispuesto por la presente ley en los siguientes términos:
 
-I. Con multa de hasta cien veces el salario mínimo general en la zona económica de que se trate cuando la infracción se realice al artículo 5 de esta ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2009)</small>
+
+I. Con multa de hasta cien veces el salario mínimo general de la zona económica de que se trate cuando la infracción se realice a los artículos 5 y 5 bis de esta Ley.
 
 II. Con multa de mil hasta cuatro mil veces el salario mínimo general en la zona económica de que se trate cuando la infracción se realice al artículo 6 de esta ley.
 
@@ -414,3 +424,7 @@ Primero.- Envíese al Ejecutivo para su publicación y para los efectos legales 
 Segundo.-Se establece un plazo de 90 días después de la publicación, para que los propietarios, administradores o responsables de los establecimientos que pretendan contar con zonas exclusivas para fumar, a efecto de llevar acabo (sic) las modificaciones o adecuaciones necesarias en dichas zonas.
 
 Tercero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2009.
+
+Único.- El presente Decreto entrará en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial del Estado.
