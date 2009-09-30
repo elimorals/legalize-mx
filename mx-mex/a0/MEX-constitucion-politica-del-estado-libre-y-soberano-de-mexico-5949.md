@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2009-05-26"
+last_updated: "2009-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2009.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -459,7 +461,11 @@ V. Participar en las organizaciones de ciudadanos que se constituyan en sus comu
 
 Tienen suspendidos los derechos y prerrogativas de ciudadanos del Estado:
 
-I. Los que estén sujetos a un proceso penal por delito que merezca pena privativa de libertad, a contar desde la fecha del auto de formal prisión hasta que cause ejecutoria la sentencia que los absuelva o se extinga la pena;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+I. Los que estén sujetos a un proceso penal por delito que merezca pena privativa de libertad, a contar desde la fecha del auto de vinculación a proceso hasta que cause ejecutoria la sentencia que los absuelva o se extinga la pena;
 
 II. Los que sean declarados incapaces por resolución judicial;
 
@@ -1081,7 +1087,7 @@ Se entenderá por residencia efectiva para los efectos de esta Constitución, el
 
 III. Tener 30 años cumplidos el día de la elección;
 
-IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección; y
+IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección; y (sic)
 
 V. No ser servidor público en ejercicio de autoridad, ni militar en servicio activo o con mando de fuerzas dentro del Estado en los últimos 90 días anteriores al día de la elección ordinaria, o a partir del quinto día de la fecha de la publicación de la convocatoria para la elección extraordinaria.
 
@@ -1311,13 +1317,17 @@ El Secretario General de Gobierno y los demás titulares de las dependencias del
 
 #### SECCION TERCERA. Del Ministerio Público
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 81.
 
-Corresponde al Ministerio Público la investigación y persecución de los delitos y el ejercicio de la acción penal.
+Corresponde al ministerio público y a las policías la investigación de los delitos y a aquél, el ejercicio de la acción penal. Los particulares podrán ejercer la acción penal ante la autoridad judicial en los casos previstos en la ley.
 
-La policía judicial estará bajo la autoridad y mando inmediato del Ministerio Público.
+Las policías actuarán bajo la conducción y mando del ministerio público en la investigación de los delitos.
+
+El ministerio público podrá aplicar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que establezca la ley, la que señalará los casos en que serán objeto de revisión judicial.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
 
@@ -1357,13 +1367,15 @@ La ley determinará los requisitos necesarios para ser agente del Ministerio Pú
 
 No podrán desempeñar estos cargos quienes hayan sido destituidos en el desempeño de iguales o similares empleos en ésta o en cualquiera otra entidad federativa o en la administración pública federal.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 86.
 
-El Ministerio Público y la Policía Judicial podrán solicitar la colaboración de los cuerpos de seguridad pública del Estado y de los municipios en la persecución de los delitos.
+El Ministerio Público y las policías se coordinarán en términos de la Ley General del Sistema Nacional de Seguridad Pública, así como de la Ley local en la materia.
 
-La Institución y los cuerpos a que se refiere el párrafo anterior, prestarán el auxilio que requiera el Poder Judicial del Estado.
+El Ministerio Público y las policías, en el ejercicio de sus funciones, prestarán el auxilio que les soliciten los órganos del poder público y los órganos constitucionales autónomos.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1391,7 +1403,13 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcionará en Pleno, Sala Constitucional, Salas Colegiadas y Unitarias Regionales;
 
-b) En juzgados de primera instancia y de cuantía menor, que conocerán y resolverán las controversias que se susciten en el Territorio de la Entidad, aplicando las leyes federales que establezcan jurisdicción concurrente y de las locales en materia penal, civil, familiar, así como tratados internacionales previstos en la Constitución Federal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+b) En tribunales y juzgados de primera instancia y juzgados de cuantía menor; organizados de acuerdo a su competencia establecida en las leyes secundarias. Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
+
+El Poder Judicial contará con jueces de control que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes secundarias les atribuyan.
 
 Las leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial.
 
@@ -1553,19 +1571,13 @@ Los jueces de primera instancia, durarán en su encargo seis años y podrán ser
 
 Los jueces de primera instancia deberán reunir los mismos requisitos que los magistrados, menos el referente a la edad, que bastará que sea de 28 años y cinco años de poseer título profesional de licenciado en derecho y de ejercicio profesional.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009))
 
 ###### Artículo 102.
 
-En cada distrito judicial habrá un juez o los jueces necesarios de primera instancia, quienes conocerán de los asuntos para los que la ley les otorgue competencia.
-
-> <small>(REFORMADO, G.G. 18 DE NOVIEMBRE DE 2005)</small>
-
-Se establecerán los jueces ejecutores de sentencias que se estimen necesarios en razón del servicio, quienes tendrán como atribuciones la ejecución de las penas privativas y restrictivas de la libertad personal.
-
-> <small>(ADICIONADO, G.G. 18 DE NOVIEMBRE DE 2005)</small>
-
-Se establecerán los juicios orales para delitos no graves, en los términos propuestos y condiciones que establezcan las leyes, con base en las modalidades de audiencia pública en presencia del Juez, mediante los principios de contradicción, concentración, inmediatez, inmediación, oralidad del proceso y transparencia, conforme a las leyes respectivas.
+En cada distrito o región judicial habrá un juez o los jueces necesarios, quienes conocerán de los asuntos para los que la ley les otorgue competencia.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1579,21 +1591,33 @@ Los jueces de cuantía menor durarán en su encargo tres años y podrán ser rat
 
 Los jueces de cuantía menor deberán cumplir los requisitos establecidos en las fracciones I y V del artículo 91 de esta Constitución, tener cuando menos 25 años el día de su designación y poseer título profesional de licenciado en derecho, expedido por institución legalmente facultada para ello.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 104
 
-Bis.- Los jueces ejecutores de sentencias durarán en su encargo seis años y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley, en la que se determinarán asimismo los mecanismos de ratificación.
+Bis.- El proceso penal será acusatorio, adversarial y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación, conforme a la ley respectiva.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+La imposición de las penas, su modificación y duración son propias y exclusivas del Poder Judicial del Estado.
 
-Los Jueces de ejecución de sentencias deberán reunir los mismos requisitos que los que por ley se establecen para los jueces de cuantía menor.
+Los jueces ejecutores de sentencias durarán en su encargo seis años y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley, en la que se determinarán los mecanismos de ratificación.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+Los jueces de ejecución de sentencias deberán reunir los mismos requisitos que por ley se establecen para los jueces de cuantía menor.
+
+El juez de ejecución controlará y vigilará la exacta ejecución de la pena.
+
+La ley establecerá los medios necesarios para que se garantice la independencia de los órganos jurisdiccionales y la plena ejecución de sus resoluciones.
+
+El imputado, la víctima o el ofendido tendrán los derechos que consagra la Constitución Política de los Estados Unidos Mexicanos, el Código Penal del Estado y el Código de Procedimientos Penales para el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 105.
 
-Para efectos de la administración de justicia, el Estado de México se dividirá en los distritos judiciales que establezca la Ley Orgánica del Poder Judicial, la cual determinará también sus cabeceras e integración territorial.
+Para efectos de la administración de justicia, el Estado de México se dividirá en distritos y regiones judiciales que establezca la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2845,6 +2869,16 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
+G.G. 18 DE NOVIEMBRE DE 2005.
+
+DECRETO NUMERO 185 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 102 DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERNO DE MEXICO.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
 P.O. 28 DE ABRIL DE 2006.
 
 ###### ARTICULO PRIMERO.
@@ -2953,12 +2987,62 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto por el presente decreto.
 
-G.G. 18 DE NOVIEMBRE DE 2005.
+G.G. 30 DE SEPTIEMBRE DE 2009.
 
-DECRETO NUMERO 185 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 102 DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERNO DE MEXICO.
+###### ARTÍCULO PRIMERO.
 
-PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+Publíquese el Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+###### ARTÍCULO SEGUNDO.
 
-TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+Este Decreto entrará en vigor en los siguientes términos:
+
+I. El uno de octubre del año dos mil nueve en los distritos judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle;
+
+II. El uno de abril del año dos mil diez entrará en vigor en los distritos judiciales de Chalco, Otumba y Texcoco;
+
+III. El uno de octubre del año dos mil diez entrará en vigor en los distritos judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+
+IV. El uno de abril del año dos mil once entrará en vigor en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango; y
+
+V. El uno de octubre del año dos mil once entrará en vigor en los distritos judiciales de Ecatepec de Morelos. Jilotepec y Valle de Bravo.
+
+###### ARTÍCULO TERCERO.
+
+Las averiguaciones previas, procesos y recursos que se refieran a hechos ocurridos antes de la entrada en vigor del nuevo sistema de justicia penal, se sujetarán hasta su conclusión definitiva, a las disposiciones que se reforman o abrogan.
+
+###### ARTÍCULO CUARTO.
+
+La Legislatura local proveerá lo conducente en la asignación de recursos presupuestales anuales a favor del Poder Judicial del Estado, a fin de que se cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
+
+G.G. 30 DE SEPTIEMBRE DE 2009.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO ADVERSARIAL Y ORAL.</small>
+
+D E C L A R A T O R I A
+
+El sistema procesal penal acusatorio, adversarial y oral previsto en los artículos 16 párrafos segundo y décimotercero; 17 párrafos tercero, cuarto y sexto; 19; 20 y 21 párrafos tercero y séptimo, de la Constitución Política de los Estados Unidos Mexicanos, ha sido incorporado en la Constitución Política del Estado Libre y Soberano de México, en el Código de Procedimientos Penales para el Estado de México y en la Ley Orgánica del Poder Judicial del Estado de México.
+
+En consecuencia, las garantías que consagran los artículos antes indicados, regulan la forma y términos en que se substanciarán los procedimientos penales, referentes a los hechos que ocurran con posterioridad a la entrada en vigor del sistema de justicia penal acusatorio, adversarial y oral.
+
+El sistema de justicia penal acusatorio, adversarial y oral entrará en vigor en los siguientes plazos y distritos:
+
+1) El primero de octubre de dos mil nueve, en los distritos judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle;
+
+2) El primero de abril de dos mil diez, en los distritos judiciales de Chalco, Otumba y Texcoco;
+
+3) El primero de octubre de dos mil diez, en los distritos judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+
+4) El primero de abril de dos mil once, en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+5) El primero de octubre de dos mil once, en los distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
+
+T R A N S I T O R I O S
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
