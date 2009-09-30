@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-universidad-politecnica-de-puebla-426
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-15"
-last_updated: "2007-05-18"
+last_updated: "2009-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2009.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de diciembre de 2004.
 
@@ -73,19 +73,21 @@ IV. Un Rector;
 
 V. Un Abogado General;
 
-VI. Una Secretaría Administrativa;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
-VII. Una Secretaría Académica;
+VI. Una Secretaría Académica;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
-VIII. Una Dirección Administrativa; y
+VII. Una Secretaría Administrativa;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
-IX. Direcciones de Programas Académicos.
+VIII. Direcciones de Programas Académicos; y
 
-X. (DEROGADA, P.O. 18 DE MAYO DE 2007)
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+IX. Una Dirección Administrativa.
 
 Los demás servidores públicos adscritos a la estructura administrativa de la Universidad, cualquiera que sea el cargo que ostenten, realizarán las funciones que les correspondan de conformidad con el manual general de organización, del manual de procedimientos, del manual de servicios al público y de lo que le encomiende el Rector, así como el superior jerárquico del cual dependan, en términos del acuerdo de adscripción que se emita, y las que señala la normatividad aplicable, atendiendo a las necesidades del servicio que así lo requiera y a la suficiencia presupuestal correspondiente.
 
@@ -189,55 +191,19 @@ XIV. Participar en los órganos colegiados o comisiones, así como en las activi
 
 XV. Las demás atribuciones que le encomiende o delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
 
-### CAPÍTULO VII. DE LA SECRETARÍA ADMINISTRATIVA
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO VII. DE LA SECRETARÍA ACADÉMICA
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 10.
-
-El Secretario Administrativo dependerá directamente del Rector, correspondiéndole, además de las atribuciones señaladas en el artículo 9 del presente Reglamento, las siguientes:
-
-I. Planear, organizar, dirigir y controlar las actividades de registro escolar referentes a la matrícula, el desempeño académico de los alumnos, titulación y pagos, así como los servicios bibliotecarios y escolares;
-
-II. Coordinar el proceso de asignación de becas a la Universidad, en términos de la normatividad aplicable y en el ámbito de su competencia;
-
-III. Planear, organizar y dirigir los trabajos encaminados a la promoción y difusión de las actividades de la Universidad;
-
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2007)</small>
-
-IV. Desarrollar y coordinar las actividades de índole cultural y deportiva, de educación continua, de desarrollo comunitario, así como las de salud y en general, aquéllas que contribuyan al desarrollo de la comunidad universitaria;
-
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2007)</small>
-
-V. Registrar las actividades relacionadas con las estancias, estadías y servicio social, así corno las relacionadas con la asesoría externa que brinda la Universidad, de conformidad con la normatividad establecida;
-
-VI. Ejecutar oportunamente las tareas relacionadas con el ingreso, permanencia y egreso de alumnos a la Universidad;
-
-VII. Autorizar la expedición de documentación y comprobantes escolares, llevando un control y registro, manteniendo informado al Rector de los resultados obtenidos;
-
-VIII. Coordinar en términos de la normatividad aplicable, la elaboración del programa institucional de desarrollo de la Universidad, así como proponer al Rector, las medidas correctivas procedentes;
-
-IX. Participar en coordinación con la Dirección Administrativa en la elaboración del programa anual de adquisiciones de bienes y servicios, de conformidad con la normatividad aplicable que regula su ejecución;
-
-X. Entregar a la Dirección Administrativa los ingresos generados en su área y con motivo del cumplimiento de sus funciones;
-
-XI. Participar, en coordinación con el Abogado General, en la elaboración de proyectos de convenios y contratos relacionados con las actividades institucionales, de conformidad con las normas aplicables;
-
-XII. Coadyuvar con el Abogado General, en la gestión y control del trámite de registros de propiedad industrial, patentes y certificados de invención para su transferencia al sector productivo, que pertenezcan a la Universidad;
-
-XIII. Planear y ejecutar programas de seguimiento de egresados y promover su colocación en el mercado de trabajo, y
-
-XIV. Las demás atribuciones que le encomiende o delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
-
-### CAPÍTULO VIII. DE LA SECRETARÍA ACADÉMICA
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
-
-###### ARTÍCULO 11.
 
 El Secretario Académico, dependerá directamente del Rector, correspondiéndole, además de las atribuciones señaladas en el artículo 9 del presente Reglamento, las siguientes:
 
 I. Planear, dirigir, administrar y supervisar la realización de las actividades académicas, de investigación aplicada y de desarrollo tecnológico de la Universidad;
 
-II. Controlar y evaluar las actividades relacionadas con las estancias, estadías y servicio social, así como las relacionadas con la asesoría externa que brinda la Universidad, de conformidad con la normatividad establecida;
+II. Controlar y evaluar las actividades relacionadas con las estancias, estadías y servicio social, así como las relacionadas con la asesoría externa y la educación continua que brinda la Universidad, de conformidad con la normatividad establecida;
 
 III. Diseñar, establecer y desarrollar acciones de vinculación de la Universidad, con los sectores social, público y privado para mejorar la calidad de las funciones académicas y de investigación institucionales;
 
@@ -245,19 +211,69 @@ IV. Elaborar y proponer al Rector en coordinación con la Secretaría Administra
 
 V. Difundir entre las áreas a su cargo, los lineamientos a que deben sujetarse las actividades académicas, de investigación aplicada y de desarrollo tecnológico de la Universidad;
 
-VI. Establecer conjuntamente con el órgano correspondiente de la Universidad, la planeación y programación de estancias y estadías que los alumnos deberán realizar en la industria de la región;
+VI. Coordinar las actividades relacionadas con el desempeño académico de los alumnos;
 
 VII. Elaborar y proponer al Rector los programas de capacitación, actualización y superación académica, vigilando su cumplimiento;
 
-VIII. Proponer ante el Rector, el otorgamiento de estímulos al personal académico con desempeño sobresaliente o con aportaciones académicas importantes, de acuerdo a la disponibilidad presupuestal ya la normatividad aplicable;
+VIII. Proponer el otorgamiento de estímulos al personal académico con desempeño sobresaliente o con aportaciones académicas importantes, de acuerdo a la disponibilidad presupuestal y la normatividad aplicable:
 
 IX. Sugerir al Rector la celebración de convenios que permitan desarrollar los programas académicos de la Universidad;
 
 X. Presentar al Rector propuestas para la ampliación y mejoramiento de espacios físicos y de los servicios de la Universidad, en función al crecimiento de la demanda y de conformidad con la disponibilidad presupuestal;
 
-XI. Gestionar con apoyo de las áreas administrativas competentes, la titulación de los egresados de la Universidad y verificar su cumplimiento; y
+XI. Planear y ejecutar programas de seguimiento de egresados y promover su colocación en el mercado de trabajo; y
 
 XII. Las demás atribuciones que le encomiende o delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO VIII. DE LA SECRETARÍA ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 11.
+
+El Secretario Administrativo dependerá directamente del Rector, correspondiéndole, además de las atribuciones señaladas en el artículo 9 del presente Reglamento, las siguientes:
+
+I. Planear, organizar, dirigir y controlar las actividades referentes a los servicios escolares, a los servicios bibliotecarios, a la titulación y pagos, al registro escolar y a la matrícula;
+
+II. Coordinar el proceso de asignación de becas a la Universidad, en términos de la normatividad aplicable y en el ámbito de su competencia;
+
+III. Planear, organizar y dirigir los trabajos encaminados a la promoción y difusión de las actividades de la Universidad;
+
+IV. Desarrollar y coordinar las actividades de índole cultural y deportiva, de desarrollo comunitario, así como las de salud y en general, aquéllas que contribuyan al desarrollo de la comunidad universitaria;
+
+V. Registrar las actividades relacionadas con las estancias, estadías, servicio social y desempeño académico de los alumnos, así como las relacionadas con la asesoría externa que brinda la Universidad, de conformidad con la normatividad establecida;
+
+VI. Ejecutar oportunamente las tareas relacionadas con el ingreso, permanencia y egreso de alumnos a la Universidad;
+
+VII. Autorizar la expedición de documentación y comprobantes escolares, llevando un control y registro, e informar al Rector de los resultados obtenidos;
+
+VIII. Controlar el desarrollo de las actividades relativas a la administración de recursos humanos, materiales y financieros, así como de los servicios generales de la Universidad;
+
+IX. Coordinar la instrumentación de programas de inducción, capacitación y desarrollo de personal con el propósito de elevar la eficiencia de las áreas de la Universidad;
+
+X. Organizar las actividades relacionadas con la evaluación al desempeño del personal académico y administrativo;
+
+XI. Supervisar la integración del presupuesto de ingresos y egresos de la Universidad, los estados financieros consolidados, los informes del ejercicio presupuestal y la programación anual de adquisiciones, arrendamientos y servicios, de conformidad con la normatividad aplicable y la suficiencia presupuestal respectiva;
+
+XII. Instruir, previo acuerdo del Rector, la contratación de bienes, arrendamientos y servicios, de conformidad con la normatividad aplicable y la suficiencia presupuestal respectiva;
+
+XIII. Analizar y, en su caso, gestionar las modificaciones presupuestales procedentes, previo acuerdo del Rector;
+
+XIV. Coordinar la elaboración de la estructura orgánica y de los manuales administrativos de la Universidad;
+
+XV. Vigilar la aplicación de la normativa y controles en materia de recursos humanos, materiales y financieros, así como proponer criterios para su óptimo aprovechamiento;
+
+XVI. Controlar la administración y mantenimiento de la red de tecnologías de la información de la Universidad;
+
+XVII. Participar, en coordinación con el Abogado General, en la elaboración de proyectos de convenios y contratos relacionados con las actividades institucionales, de conformidad con las normas aplicables;
+
+XVIII. Coadyuvar con el Abogado General en la gestión y control del trámite de registros de propiedad industrial, patentes y certificados de invención para su transferencia al sector productivo, que pertenezcan a la Universidad;
+
+XIX. Establecer los canales de comunicación y coordinación que deberán observar las áreas administrativas a su cargo, en el desarrollo de las actividades encomendadas; y
+
+XX. Las demás atribuciones que le encomiende o delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
 
 ### CAPÍTULO IX. DE LAS DIRECCIONES
 
@@ -285,63 +301,21 @@ IX. Proponer la remoción o rescisión del personal del área a su cargo, y
 
 X. Las demás atribuciones que le encomiende o le delegue el Rector o su superior jerárquico, así como, las demás que expresamente le confiera la normatividad aplicable.
 
-### CAPÍTULO X. DE LA DIRECCIÓN ADMINISTRATIVA
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO X. DE LAS DIRECCIONES DE PROGRAMAS ACADÉMICOS
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 13.
 
-El Director Administrativo dependerá directamente del Rector, correspondiéndole, además de las atribuciones establecidas en el artículo 12 del presente Reglamento, las siguientes:
+La Universidad contará con las Direcciones de Programas Académicos indispensables para su funcionamiento, previa aprobación de la Junta Directiva.
 
-I. Dirigir el desarrollo de las actividades relativas a la administración de recursos humanos, materiales y financieros, así como de servicios generales de la Universidad;
-
-II. Elaborar el presupuesto de ingresos y egresos de la Universidad, someterlo a consideración del Rector y una vez aprobados, vigilar su correcto ejercicio;
-
-III. Elaborar los estados financieros de la Universidad, que deba presentar el Rector a la Junta Directiva y a las instancias competentes;
-
-IV. Integrar en coordinación con el Secretario Administrativo, el programa anual de adquisiciones de bienes y servicios, de conformidad con la normatividad aplicable que regula su ejecución;
-
-V. Instrumentar mecanismos para el control administrativo de los servicios públicos de la Universidad;
-
-VI. Organizar y dirigir la contratación de bienes y servicios que requiera la Universidad, previa autorización del Rector, y de conformidad con la normatividad aplicable y la suficiencia presupuestal respectiva;
-
-VII. Coordinar la elaboración de la estructura programática de la Universidad;
-
-VIII. Instrumentar los programas de inducción, capacitación y desarrollo de personal, con el propósito de elevar la productividad de la Universidad, en todas sus funciones y niveles;
-
-IX. Supervisar los estados financieros consolidados e informes del ejercicio presupuestal de la Universidad y reportar al Rector los resultados obtenidos;
-
-X. Elaborar y proponer al Rector, los lineamientos generales para la capacitación del sistema de contabilidad de la Universidad;
-
-XI. Evaluar la correcta aplicación del presupuesto en las áreas administrativas de la Universidad y rendir informes periódicos al Rector sobre sus resultados;
-
-XII. Diseñar e instrumentar sistemas de control presupuestal y contabilidad de las operaciones de la Universidad;
-
-XIII. Realizar el registro y control de los bienes muebles e inmuebles, que conformen el patrimonio de la Universidad, así como recabar los resguardos correspondientes;
-
-XIV. Establecer los canales de comunicación y coordinación que deberán observar las áreas administrativas a su cargo, en el desarrollo de las actividades encomendadas;
-
-XV. Supervisar la operación, control del manejo de proveedores y el registro oportuno de movimientos bancarios de la Universidad;
-
-XVI. Evaluar el funcionamiento y control operativo del fondo revolvente, así como los gastos por comprobar, y vigilar que los arqueos de caja se efectúen con la periodicidad necesaria;
-
-XVII. Elaborar y actualizar, previa revisión del Abogado General, los manuales administrativos de la Universidad y verificar su cumplimiento y difusión;
-
-XVIII. Analizar, y en su caso, gestionar las modificaciones presupuestales que proceda aplicar, previo acuerdo del Rector;
-
-XIX. Participar, en el ámbito de su competencia, en la determinación de los costos de operación de los programas que atienda la Universidad, y
-
-XX. Las demás atribuciones que le encomiende o le delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
-La Universidad contará con las Direcciones de Programas Académicos indispensables para su funcionamiento, previa aprobación de la Junta Directiva.
-
-### CAPÍTULO XI. DE LAS DIRECCIONES DE PROGRAMA ACADÉMICO
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
-
-###### ARTÍCULO 15.
-
-Las Direcciones de Programa Académico dependerán del Secretario Académico, correspondiéndoles, además de las facultades establecidas en el artículo 12 del presente Reglamento, las siguientes:
+Las Direcciones de Programas Académicos dependerán del Secretario Académico, correspondiéndoles, además de las facultades establecidas en el artículo 12 del presente Reglamento, las siguientes:
 
 I. Vigilar y supervisar el cumplimiento de los planes y programas de estudio autorizados para el área de su competencia;
 
@@ -365,9 +339,55 @@ X. Proponer la normatividad que regule el proceso educativo de la Dirección a s
 
 XI. Participar en los órganos colegiados o comisiones, así como en las actividades académicas, tecnológicas y culturales que les encomiende el Rector o el Secretario Académico;
 
-XII. Dirigir y evaluar las actividades del área de su competencia, y
+XII. Dirigir y evaluar las actividades del área de su competencia; y
 
 XIII. Las demás atribuciones que le encomiende su superior jerárquico, así como las que le confiera expresamente la normatividad aplicable.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO XI. DE LA DIRECCIÓN ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 15.
+
+El Director Administrativo dependerá directamente del Secretario Administrativo, correspondiéndole, además de las atribuciones establecidas en el artículo 12 del presente Reglamento, las siguientes:
+
+I. Desarrollar las actividades relativas a la administración de recursos humanos, materiales y financieros, así como de servicios generales de la Universidad;
+
+II. Integrar el presupuesto de ingresos y egresos de la Universidad y, una vez aprobado, vigilar su correcto ejercicio;
+
+III. Elaborar los estados financieros de la Universidad, que deba presentar el Rector a la Junta Directiva y a las instancias competentes;
+
+IV. Integrar el programa anual de adquisiciones, arrendamientos y servicios de la Universidad, de conformidad con la normatividad aplicable que regula su ejecución;
+
+V. Instrumentar mecanismos para el control administrativo de los servicios públicos de la Universidad;
+
+VI. Organizar la contratación de bienes, arrendamientos y servicios que requiera la Universidad, previa autorización de las instancias correspondientes, y de conformidad con la normatividad aplicable y la suficiencia presupuestal respectiva;
+
+VII. Elaborar la estructura orgánica de la Universidad;
+
+VIII. Instrumentar los programas de inducción, capacitación y desarrollo de personal, con el propósito de elevar la productividad de la Universidad, en todas sus funciones y niveles;
+
+IX. Integrar los estados financieros consolidados e informes del ejercicio presupuestal de la Universidad y reportar a las instancias competentes los resultados obtenidos;
+
+X. Elaborar y proponer los lineamientos generales para la operación del sistema de contabilidad de la Universidad;
+
+XI. Evaluar la correcta aplicación del presupuesto en las áreas administrativas de la Universidad y rendir informes periódicos al Secretario Administrativo sobre sus resultados;
+
+XII. Diseñar e instrumentar sistemas de control presupuestal y contabilidad de la Universidad;
+
+XIII. Verificar el registro y control de los bienes muebles e inmuebles, que conformen el patrimonio de la Universidad, así como recabar los resguardos correspondientes;
+
+XIV. Supervisar la operación, control del manejo de proveedores y el registro oportuno de movimientos bancarios de la Universidad;
+
+XV. Evaluar el funcionamiento y control operativo del fondo revolvente, así como los gastos por comprobar, y vigilar que los arqueos de caja se efectúen con la periodicidad necesaria;
+
+XVI. Elaborar y actualizar, previa revisión del Abogado General, los manuales administrativos de la Universidad y verificar su cumplimiento y difusión;
+
+XVII. Participar, en el ámbito de su competencia, en la determinación de los costos de operación de los programas que atienda la Universidad; y
+
+XVIII. Las demás atribuciones que le encomiende o le delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
 
@@ -392,5 +412,9 @@ Dado en las instalaciones de la Universidad Politécnica de Puebla, a los treint
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 18 DE MAYO DE 2007.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2009.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
