@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2007-09-26"
+last_updated: "2009-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -47,11 +49,17 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
 La presente ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado.
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 2.
 
-Corresponde a los Tribunales del Poder Judicial, en los términos de la Constitución Política del Estado Libre y Soberano de México, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil, familiar, penal y de justicia para adolescentes, del fuero común, lo mismo que del orden federal, en los casos en que expresamente los ordenamientos legales de esta materia les confieran jurisdicción.
+Corresponde a los Tribunales del Poder Judicial, en los términos de la Constitución Política del Estado Libre y Soberano de México, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil, familiar, penal, de justicia para adolescentes y en las demás materias del fuero común y del orden federal, en los casos en que expresamente los ordenamientos legales les confieran jurisdicción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 3.
 
@@ -61,21 +69,11 @@ I. El Tribunal Superior de Justicia;
 
 II. El Consejo de la Judicatura;
 
-III. Los juzgados de primera instancia;
+III. Los juzgados y tribunales de primera instancia;
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+IV. Los juzgados de cuantía menor; y
 
-IV. Los juzgados de cuantía menor;
-
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2007)</small>
-
-V. Los Juzgados de Justicia para Adolescentes;
-
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2007)</small>
-
-VI. Los jueces de ejecución y sentencias y los jueces de ejecución y vigilancia para adolescentes; y
-
-VII. Los servidores públicos de la administración de justicia, en los términos que establece esta ley, los códigos de procedimientos civiles y penales y demás disposiciones legales.
+V. Los servidores públicos de la administración de justicia, en los términos que establece esta ley, los códigos de procedimientos civiles y penales y demás disposiciones legales.
 
 ###### Artículo 4.
 
@@ -87,9 +85,11 @@ Son auxiliares del Poder Judicial:
 
 I. Los presidentes, síndicos y delegados municipales;
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. La policía ministerial, la Policía Ministerial Especializada en Adolescentes y cuerpos de seguridad pública estatal o municipales;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+II. Los cuerpos de policía;
 
 III. El Director General de Prevención y Readaptación Social y los servidores públicos de esa Dirección;
 
@@ -123,11 +123,13 @@ Los auxiliares del Poder Judicial cumplirán los mandamientos de la autoridad ju
 
 Los árbitros conocerán de los asuntos que les encomienden los interesados, conforme a los términos de los compromisos respectivos y observarán en su trámite las formas y restricciones que fijen las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 8.
 
-El Tribunal Superior de Justicia, los juzgados de primera instancia, de cuantía menor, de justicia para adolescentes, de ejecución de sentencias y de ejecución y vigilancia, tienen las siguientes obligaciones:
+El Tribunal Superior de Justicia, los tribunales y juzgados, tienen las siguientes obligaciones:
 
 I. Ejercer la función jurisdiccional de manera pronta, completa, imparcial y gratuita;
 
@@ -137,7 +139,11 @@ III. Realizar todas las acciones necesarias para la plena ejecución de sus reso
 
 IV. Auxiliar a los órganos jurisdiccionales de la federación y a las demás autoridades, en los términos de las disposiciones legales;
 
-V. Diligenciar exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en materia civil, mercantil, familiar o penal que les envíen los jueces del Estado, de otras entidades federativas o del extranjero que se ajusten a la ley procesal del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+V. Diligenciar exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en las materias de su competencia, que les envíen los jueces del Estado, de otras entidades federativas o del extranjero que se ajusten a la ley procesal del Estado;
 
 VI. Proporcionar a las autoridades competentes los datos e informes que soliciten, cuando proceda conforme a la ley;
 
@@ -179,9 +185,11 @@ III. Distrito de Ecatepec de Morelos: Ecatepec de Morelos y Coacalco de Berrioza
 
 IV. Distrito de El Oro: El Oro, Acambay, Atlacomulco y Temascalcingo;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Distrito de Ixtlahuaca: Ixtlahuaca, Jiquipilco, Jocotitlán, Morelos y San Felipe del Progreso;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+V. Distrito de Ixtlahuaca: Ixtlahuaca, Jiquipilco, Jocotitlán, Morelos, San Felipe del Progreso y San José del Rincón;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -203,9 +211,11 @@ IX. Distrito de Otumba: Otumba, Axapusco, Nopaltepec, San Martín de las Pirámi
 
 X. Distrito de Sultepec: Sultepec, Almoloya de Alquisiras, Amatepec, Texcaltitlán, Tlatlaya y Zacualpan;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI. Distrito de Temascaltepec: Temascaltepec, San Simón de Guerrero y Tejupilco;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+XI. Distrito de Temascaltepec: Temascaltepec, Luvianos, San Simón de Guerrero y Tejupilco;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -231,29 +241,43 @@ XVI. Distrito de Toluca: Toluca, Almoloya de Juárez, Metepec, Temoaya, Villa Vi
 
 XVII. Distrito de Valle de Bravo: Valle de Bravo, Amanalco, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Villa de Allende y Zacazonapan; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVIII. Distrito de Zumpango: Zumpango, Apaxco, Hueypoxtla, Jaltenco, Nextlalpan y Tequixquiac.
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+XVIII. Distrito de Zumpango: Zumpango, Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac y Tonanitla.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 12.
 
-En cada distrito judicial funcionará, por lo menos, un juzgado de primera instancia, y los juzgados de cuantía menor que determine el Consejo de la Judicatura. En el caso de los Juzgados de Justicia para Adolescentes y de Ejecución y Vigilancia, se crearán los necesarios que determine el propio Consejo.
+En cada distrito o región judicial funcionarán los tribunales o juzgados que determine el Consejo de la Judicatura.
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 13.
 
-Los juzgados de primera instancia, tendrán jurisdicción en el territorio del distrito judicial al que pertenezcan o en la fracción o partido en que se divida, conforme lo determine el pleno del Tribunal Superior de Justicia. Los Juzgados de Justicia para Adolescentes y de Ejecución y Vigilancia, la tendrán en la región o distrito que determine el propio Pleno.
+Los tribunales o juzgados tendrán jurisdicción en el territorio de la región o distrito judicial al que pertenezcan o en la fracción o partido en que se divida este último, conforme lo determine el pleno del Tribunal Superior de Justicia.
+
+Las regiones judiciales podrán comprender el ámbito territorial de más de un distrito judicial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 14.
 
-Los juzgados de cuantía menor tendrán jurisdicción en la circunscripción territorial que determine el pleno del Tribunal Superior de Justicia.
+(DEROGADO, G.G. 30 DE SEPTIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 15.
 
-Los jueces de primera instancia y los de cuantía menor, serán los necesarios para el despacho de los asuntos que les correspondan.
+Los jueces serán los necesarios para el despacho de los asuntos que les correspondan.
 
 ## TITULO TERCERO. De las Designaciones, Incompatibilidades e Incapacidades de los Magistrados y de los Jueces
 
@@ -301,7 +325,11 @@ Los magistrados no podrán ocupar otro cargo en la administración pública esta
 
 Ningún nombramiento para servidor público de la administración de justicia o auxiliar de ésta, podrá recaer en ascendientes, descendientes, cónyuges o colaterales dentro del cuarto grado por consanguinidad, segundo por afinidad o con parentesco civil, con los servidores que hagan la designación.
 
-No podrán prestar sus servicios en la misma sala o juzgado, dos o más personas con el parentesco a que se refiere el párrafo anterior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+No podrán prestar sus servicios en el mismo órgano jurisdiccional dos o más personas con el parentesco a que se refiere el párrafo anterior.
 
 ###### Artículo 24.
 
@@ -363,7 +391,11 @@ Corresponde al pleno del Tribunal Superior de Justicia:
 
 I. Iniciar leyes o decretos relacionados con la organización y funcionamiento de la administración de justicia;
 
-II. Determinar el ámbito territorial en el que ejercerán su competencia las salas y los juzgados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+II. Determinar el ámbito territorial en el que ejercerán su competencia las salas, los tribunales y los juzgados;
 
 III. Dirimir los conflictos de competencia que se susciten entre las salas;
 
@@ -371,7 +403,11 @@ IV. Expedir y modificar el reglamento interior del tribunal;
 
 V. Previa licencia al cargo de magistrado que acuerde el Consejo de la Judicatura, conceder licencia al Presidente del Tribunal para separarse del cargo hasta por 15 días y nombrar al Presidente Interino;
 
-VI. Adscribir a los juzgados de primera instancia y de cuantía menor a las salas que correspondan, en razón de la materia y del territorio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Adscribir a los tribunales y a los juzgados, a la jurisdicción de las salas que correspondan, en razón de la materia y del territorio;
 
 VII. Calificar las excusas o impedimentos de sus miembros para conocer de los asuntos de la competencia del pleno y acordar en la sesión correspondiente la sustitución que proceda;
 
@@ -451,11 +487,13 @@ X. Desempeñar las atribuciones que esta ley le encomienda en lo relativo al arc
 
 XI. Informar anualmente al pleno del Tribunal Superior de Justicia sobre las actividades del Poder Judicial;
 
-XII. Representar al Tribunal Superior de Justicia en los actos jurídicos y oficiales o designar, en su caso, representante para tal efecto; y
+XII. Representar al Tribunal Superior de Justicia en los actos jurídicos y oficiales o designar, en su caso, representante para tal efecto; y (sic)
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIII. Solicitar a la Sala Colegiada respectiva, que ejerza la facultad de atracción para conocer de asuntos de la competencia de la Sala Unitaria;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+XIII. Solicitar a la Sala Colegiada o Tribunal Oral respectivo, que ejerza la facultad de atracción para conocer de asuntos de la competencia de la Sala Unitaria o del juzgado de juicio oral correspondiente; y
 
 > <small>(ADICIONADA, P.O. 8 DE MAYO DE 2003)</small>
 
@@ -481,11 +519,21 @@ Corresponde a las salas colegiadas del Tribunal Superior de Justicia, conocer y 
 
 I. En materia civil, familiar y mercantil, de los recursos que se interpongan en contra de sentencias definitivas, dictadas por los jueces de primera instancia y de cuantía menor.
 
-En materia penal, de los recursos que conforme a las leyes procesales se interpongan en contra de resoluciones dictadas sobre delitos graves, aun cuando concurra con otro no grave.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
-II. De los asuntos cuya competencia corresponda a las salas unitarias, cuando por su importancia y trascendencia lo determine el presidente del Tribunal Superior de Justicia.
+De los asuntos cuya competencia corresponda a las salas unitarias, cuando por su importancia y trascendencia lo determine el presidente del Tribunal Superior de Justicia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+II. En materia penal, de los recursos que sean de su competencia conforme a las leyes procesales del ramo en contra de resoluciones pronunciadas por los tribunales y jueces de primera instancia.
+
+De los conflictos de competencia que se susciten entre los juzgados y tribunales pertenecientes a su adscripción. Cuando se trate de juzgados de distintas salas, conocerá la sala a la que pertenezca el juzgado que dio inicio al conflicto.
+
+De las recusaciones de los jueces de su adscripción, así como de la oposición de las partes a las excusas.
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
 
@@ -493,21 +541,27 @@ III. De las recusaciones o excusas de sus miembros, de los magistrados unitarios
 
 IV. De los demás asuntos que les confieran esta ley, el reglamento interior del tribunal y otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 44 bis.- Corresponde a las Salas Unitarias del Tribunal Superior de Justicia, conocer y resolver:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
-> <small>(F. DE E., P.O. 27 DE MAYO DE 2003)</small>
+Artículo 44 bis.- Corresponde a las Salas Unitarias del Tribunal Superior de Justicia, en materia civil, familiar y mercantil conocer y resolver:
 
-I. En materia civil, familiar y mercantil, de los recursos que interpongan en contra de resoluciones diversas a las sentencias definitivas, dictadas por los jueces de cuantía menor y de primera instancia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-En materia penal, de los recursos que se interpongan en contra de resoluciones dictadas en asuntos sobre delitos no graves; con excepción de lo previsto en la fracción II del artículo anterior.
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+I. De los recursos que se interpongan en contra de resoluciones diversas a las sentencias definitivas, dictadas por los jueces de cuantía menor y de primera instancia.
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2003)</small>
 
 II. De los conflictos de competencia que se susciten entre los juzgados pertenecientes a su adscripción. Cuando se trate de juzgados de distintas salas, conocerá la sala a la que pertenezca el juzgado que dio inicio al conflicto.
 
-> <small>(F. DE E., P.O. 27 DE MAYO DE 2003)</small>
+(ADICIONADA, P.O. 8 DE MAYO DE 2003) (F. DE E., P.O. 27 DE MAYO DE 2003)
 
 III. De las recusaciones de los jueces de su adscripción, así como de la oposición de las partes a las excusas; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2003)</small>
 
 IV. De los demás asuntos que les confieran esta ley, el reglamento interior del Tribunal y otras disposiciones legales.
 
@@ -525,7 +579,9 @@ Artículo 44 bis-2.- Corresponde a la Sala Especializada de Adolescentes conocer
 
 Cada sala colegiada elegirá anualmente en el mes de enero y en forma alterna de entre sus miembros un Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 46.
 
@@ -533,13 +589,11 @@ Son atribuciones de los presidentes de las salas colegiadas, de los magistrados 
 
 I. Realizar los trámites que procedan en los asuntos de la competencia de la sala;
 
-II. (DEROGADA, P.O. 8 DE MAYO DE 2003)
+II. Presidir las audiencias y las sesiones y dirigir los debates, conservando el orden durante éstos;
 
-III. Presidir las audiencias y las sesiones y dirigir los debates, conservando el orden durante éstos;
+III. Tener la representación de la sala y despachar la correspondencia oficial, rendir los informes previo y justificado, y en general proveer lo relativo a los juicios de amparo; y
 
-IV. Tener la representación de la sala y despachar la correspondencia oficial, rendir los informes previo y justificado, y en general proveer lo relativo a los juicios de amparo; y
-
-V. Conocer de los asuntos que les encomiende esta ley y otros ordenamientos legales.
+IV. Conocer de los asuntos que les encomiende esta ley y otros ordenamientos legales.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
@@ -653,9 +707,11 @@ I. Velar por la autonomía y la independencia de los miembros del Poder Judicial
 
 II. Expedir los nombramientos de los magistrados y someterlos a la aprobación de la Legislatura o de la Diputación Permanente y designar a los jueces y al personal de los juzgados, mediante exámenes de oposición;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Determinar, por necesidades de la función jurisdiccional, las regiones geográficas en que deban ejercer sus funciones las salas regionales, adscribir a ellas los juzgados de primera instancia y de cuantía menor para cada una de las regiones; aumentar o disminuir su número, cambiar de materia o residencia las salas o juzgados, determinando su organización y funcionamiento publicando oficialmente los acuerdos respectivos; y crear o suprimir plazas de servidores públicos de la administración de justicia.
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Determinar, por necesidades de la función jurisdiccional, las regiones geográficas en que deban ejercer sus funciones las salas regionales, adscribir a ellas los tribunales y juzgados de primera instancia y de cuantía menor para cada una de las regiones; aumentar o disminuir su número, cambiar de materia o residencia las salas o juzgados, determinando su organización y funcionamiento publicando oficialmente los acuerdos respectivos; y crear o suprimir plazas de servidores públicos de la administración de justicia;
 
 IV. Determinar la adscripción, de acuerdo con las necesidades del servicio, de los magistrados, jueces y personal de los juzgados; dar curso a las renuncias que presenten y determinar el cese de jueces de primera instancia y de cuantía menor en los casos previstos en esta ley;
 
@@ -711,15 +767,53 @@ XXVI. Supervisar el funcionamiento de las salas y los juzgados;
 
 XXVII. Pedir al pleno del Tribunal Superior de Justicia la información y opiniones que requiera para el mejor desempeño de sus funciones;
 
-XXVIII. Solicitar de los magistrados del pleno del Tribunal Superior de Justicia su colaboración para el mejor desempeño de sus funciones de vigilancia; y
+XXVIII. Solicitar de los magistrados del pleno del Tribunal Superior de Justicia su colaboración para el mejor desempeño de sus funciones de vigilancia; y (sic)
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
 XXIX.- Practicar visitas de supervisión al Centro de Mediación y Conciliación;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXX.- Las demás que le confiere esta ley y otros ordenamientos.
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+XXX. Crear, organizar, dirigir y administrar a los juzgados ejecutores de sentencias;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+XXXI. Expedir los reglamentos, normas y demás disposiciones de orden interno por las que habrán de regirse los jueces Ejecutores de Sentencias, así como vigilar su cumplimiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+XXXII. Vigilar que los jueces Ejecutores otorguen de oficio a los internos los beneficios o el tratamiento a que se hagan acreedores en los términos de Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+XXXIII. Supervisar la vigilancia a que estarán sujetas las personas que gozan de los beneficios y tratamientos preliberatorios, con la colaboración en su caso, de la Dirección de General de Prevención y Readaptación Social del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+XXXIV. Coordinarse con la Dirección General de Prevención y Readaptación Social, para establecer medidas eficaces dentro del marco legal que permitan reducir el índice de población penitenciaria;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+XXXV. Vigilar que los jueces ejecutores de sentencias revisen oficiosamente y de manera periódica los expedientes de los internos con sentencia ejecutoriada; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+XXXVI. Las demás que le confiere esta Ley y otros ordenamientos.
 
 ###### Artículo 64.
 
@@ -755,19 +849,27 @@ XII. Despachar la correspondencia oficial del Consejo; y
 
 XIII. Las demás que le otorguen las leyes.
 
-### CAPITULO SEXTO. De los Juzgados de Primera Instancia
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPITULO SEXTO. De los Tribunales y Juzgados de Primera Instancia
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009))
 
 ###### Artículo 65.
 
-En cada distrito judicial habrá el número de juzgados de primera instancia que el Consejo de Judicatura determine, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales y de lo familiar que correspondan a su jurisdicción. Los de justicia para adolescentes tendrán competencia en la región o distrito en que ejerzan su jurisdicción y conocerán de los asuntos de esa materia.
+En cada distrito o región judicial habrá el número de tribunales o juzgados de primera instancia que el Consejo de la Judicatura determine, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales, de lo familiar, de justicia para adolescentes y demás materias en que ejerzan su jurisdicción.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 66.
 
-Los jueces de primera instancia y los jueces de adolescentes durarán en su encargo seis años y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a ésta Ley. El Consejo de la Judicatura podrá ratificarlos por periodos iguales; previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficacia, profesionalismo y que su expediente no tenga notas de demérito.
+Los jueces de primera instancia durarán en su encargo seis años y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a ésta Ley. El Consejo de la Judicatura podrá ratificarlos por periodos iguales; previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficacia, profesionalismo y que su expediente no tenga notas de demérito.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
 
@@ -787,23 +889,37 @@ V. Los demás que el Consejo de la Judicatura estime pertinentes.
 
 Si por cualquier motivo superveniente el nombramiento de un juez quedare sin efecto, el Consejo de la Judicatura acordará lo conducente. En este caso, los actos en que hubiere intervenido serán legalmente válidos.
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 68.
 
-Los jueces de primera instancia, y los jueces de adolescentes deberán reunir los mismos requisitos que los magistrados, menos la edad, que bastará que sea de 28 años, cinco de poseer título de licenciado en derecho y de ejercicio profesional y haber aprobado el examen de oposición.
+Los jueces de primera instancia deberán reunir los mismos requisitos que los magistrados, menos la edad, que bastará que sea de 28 años, cinco años de poseer título de licenciado en derecho y de ejercicio profesional y haber aprobado el examen de oposición.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 69.
 
-Los juzgados de primera instancia y los de justicia para adolescentes contarán con el personal siguiente:
+Los juzgados de primera instancia contarán con el personal siguiente:
 
 I. Un juez; y
 
 II. Los secretarios, ejecutores, notificadores y auxiliares que determine el Consejo de la Judicatura.
 
-En los juzgados del ramo penal y familiar no habrá ejecutores.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+En los juzgados de justicia para adolescentes y familiares, no habrá ejecutores.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+Los tribunales y juzgados en materia penal tendrán la estructura administrativa que esta ley señala.
 
 ###### Artículo 70.
 
@@ -851,11 +967,19 @@ IV. De la diligenciación de exhortos, cartas rogatorias, suplicatorias, requisi
 
 V. De los demás asuntos familiares cuyo conocimiento les atribuyan las leyes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
 ###### Artículo 73.
 
-Los jueces de primera instancia en materia penal conocerán y resolverán:
+Los tribunales y juzgados en materia penal conocerán y resolverán:
 
-I. De todos los procesos de este ramo, con excepción de los que correspondan al conocimiento de los jueces de cuantía menor;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+I. De todos los procesos de este ramo;
 
 II. De la diligenciación de exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en materia penal que le envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a la ley procesal del Estado; y
 
@@ -865,11 +989,13 @@ III. De los demás asuntos cuyo conocimiento les atribuyan las leyes.
 
 Artículo 73 bis.- Los jueces de adolescentes serán competentes para conocer de los asuntos que establece la ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 74.
 
-Son obligaciones de los jueces de primera instancia y de los jueces de adolescentes:
+Son obligaciones de los jueces de primera instancia:
 
 I. Cumplir y hacer cumplir sin demora y con apego a la ley, los acuerdos y determinaciones que el pleno del Tribunal Superior de Justicia, las salas, el Consejo de la Judicatura y ellos emitan;
 
@@ -967,19 +1093,9 @@ a) De todos los juicios civiles o mercantiles cuyo monto sea hasta mil veces el 
 
 b) De las diligencias de consignación, incluso pensiones alimenticias, cuando el valor de la cosa o la cantidad que se ofrezca sea hasta mil veces el salario mínimo vigente en el área geográfica respectiva. En los casos de prestaciones periódicas deberá estarse a lo dispuesto en el Código de Procedimientos Civiles.
 
-II. En materia penal:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-De los delitos que tengan como sanción:
-
-a) Apercibimiento.
-
-b) Caución de no ofender.
-
-c) Pena alternativa.
-
-d) Multa, en los términos que establezca el código de la materia.
-
-e) Prisión y multa, en los términos que establezca el código de la materia, independientemente de cualquier otra sanción.
+II. (DEROGADA, G.G. 30 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 84.
 
@@ -1165,15 +1281,35 @@ Cuando los jueces, secretarios, ejecutores, notificadores y auxiliares administr
 
 Las ausencias temporales de los servidores públicos del Poder Judicial se suplirán en la forma siguiente:
 
-I. Las de los jueces que no excedan de tres meses dentro del juzgado en que ocurra, por el primer secretario de acuerdos; en su defecto, por los demás secretarios en su orden o bien por el juez que designe el Consejo de la Judicatura;
+I. Las de los jueces que no excedan de tres meses dentro del juzgado en que ocurra, por el primer secretario de acuerdos; en su defecto, por los demás secretarios en su orden o bien por el juez que designe el Consejo de la Judicatura.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+Las de los jueces de control y de juicio oral por otro que asigne el administrador del juzgado o tribunal;
 
 II. La del secretario general de acuerdos, por el secretario de la sala que designe el Consejo de la Judicatura;
 
 III. Las de los secretarios de acuerdos de las salas del tribunal, por los secretarios auxiliares de las mismas y en defecto de éstos, por el secretario interino que designe el Consejo de la Judicatura;
 
-IV. Las de los secretarios de los juzgados, por el servidor público que le siga en jerarquía, o por el secretario interino que designe el Consejo de la Judicatura; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Las de los demás servidores judiciales, por quien designe el Consejo de la Judicatura.
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Las de los secretarios de los juzgados, por el servidor público que le siga en jerarquía, o por el secretario interino que designe el Consejo de la Judicatura;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+V. Las de los administradores, por el servidor público que le siga en jerarquía o por quien designe el Consejo de la Judicatura; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+VI. Las de los demás servidores judiciales, por quien designe el Consejo de la Judicatura.
 
 ###### Artículo 109.
 
@@ -1181,7 +1317,11 @@ Las ausencias absolutas de los servidores públicos del Poder Judicial, se supli
 
 I. La del presidente del Tribunal Superior de Justicia, por el magistrado que elija el pleno; y las de los magistrados, por quienes reuniendo los requisitos constitucionales, designe el Consejo de la Judicatura con la aprobación de la Legislatura o de la Diputación Permanente;
 
-II. Las de los jueces de primera instancia y las de los de cuantía menor, por quienes reuniendo los requisitos legales, designe el Consejo de la Judicatura y, entre tanto se hace ésta, se procederá en la forma establecida para las ausencias temporales; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+II. Las de los jueces, por quienes reuniendo los requisitos legales, designe el Consejo de la Judicatura y, entre tanto se hace ésta, se procederá en la forma establecida para las ausencias temporales; y
 
 III. Las de los secretarios del tribunal y de los juzgados así como de los demás servidores públicos, por quienes reuniendo los requisitos legales, designe el Consejo de la Judicatura y entre tanto se hace ésta, se procederá en la forma establecida para los casos de ausencias temporales.
 
@@ -1847,9 +1987,11 @@ La organización y funcionamiento de la dirección será determinada por el regl
 
 ## TITULO DECIMO SEGUNDO. De la Dirección de Peritos del Tribunal Superior de Justicia
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 170.
 
@@ -1904,6 +2046,12 @@ Los peritos podrán ejercer libremente su profesión, pero estarán impedidos pa
 ## TITULO DECIMO TERCERO. Del Centro de Mediación y Conciliación
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO SEGUNDO. De los Juzgados de Control, de los Tribunales y Juzgados de Juicio Oral y de Ejecución de Sentencia
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 178.
 
@@ -1987,361 +2135,343 @@ Los mediadores y conciliadores tendrán fe pública en todo lo relativo al desem
 
 La sujeción a la mediación y conciliación son voluntarias.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-## TITULO DECIMO CUARTO. Del Juez Ejecutor de Sentencias
+> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2005)</small>
+## TITULO DECIMO CUARTO. De los Órganos Jurisdiccionales en Materia Penal
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPITULO TERCERO. Del Administrador del Juzgado
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 187.
 
-Todos los cuerpos de seguridad pública del Estado y municipios, están obligados a prestar el auxilio y el apoyo necesario al juez ejecutor de sentencias y al de ejecución y vigilancia de justicia para adolescentes en el cumplimiento de sus determinaciones en materia de ejecución de penas privativas y restrictivas de la libertad.
+La función jurisdiccional en materia penal se ejerce por:
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+I. Jueces de control;
+
+II. Jueces de juicio oral;
+
+III. Tribunales de juicio oral;
+
+IV. Jueces ejecutores de sentencias; y
+
+V. Salas del Tribunal Superior de Justicia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 188.
 
-El Consejo de la Judicatura, en materia de ejecución de sentencias, tendrá las siguientes atribuciones:
+Los jueces tendrán fe pública en el ejercicio de su función.
 
-I. Crear, organizar, dirigir y administrar a los juzgados ejecutores de sentencias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Expedir los reglamentos, normas y demás disposiciones de orden interno por las que habrán de regirse los Jueces Ejecutores de Sentencias, así como vigilar su cumplimiento;
-
-III. Vigilar que los Jueces Ejecutores otorguen de oficio a los internos los beneficios o el tratamiento a que se hagan acreedores en los términos de esta Ley;
-
-IV. Supervisar la vigilancia a que estarán sujetas las personas que gozan de los beneficios contenidos en esta Ley, auxiliándose en su caso de la Dirección de Prevención y Readaptación Social del Estado;
-
-V. Coordinarse con la Dirección General de Prevención y Readaptación Social, para establecer medidas eficaces dentro del marco legal que permitan reducir el índice de población penitenciaria;
-
-VI. Proponer al Tribunal Superior de Justicia formule proyectos de reformas a la presente Ley, afines con la política criminal que implemente el Ejecutivo del Estado;
-
-VII. Establecer los procedimientos técnico jurídicos para que se otorguen los beneficios o el tratamiento señalados en esta Ley;
-
-VIII. Vigilar que los jueces ejecutores de sentencias revisen oficiosamente y de manera periódica los expedientes de los internos con sentencia ejecutoriada;
-
-IX. Nombrar, seleccionar y capacitar al personal que actuará como Juez Ejecutor de Sentencias, así como al necesario para apoyar a éste; incluidos secretarios, administrativos y técnicos.
-
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 189.
 
-El Juez Ejecutor de Sentencias, tendrá las siguientes atribuciones:
+Los jueces en materia penal conocerán:
 
-I. Informar al Presidente de (sic) Tribunal Superior de Justicia, en materia de ejecución de sentencias;
+I. De la etapa de investigación que requiera intervención judicial, el juez de control;
 
-II.- Brindar orientación a quien lo solicite, respecto a los beneficios y tratamiento preliberatorio que otorga ésta Ley;
+II. De la etapa intermedia, el juez de control;
 
-III. Analizar los estudios técnico jurídicos periódicamente, respecto de la situación individualizada de la población penitenciaria con sentencia que ha causado ejecutoria;
+III. De la etapa de juicio, el juez o tribunal de juicio oral; y
 
-IV. Informar al Presidente del Tribunal Superior de Justicia, de todos aquellos internos, con sentencias que han causado ejecutoria, que estén en posibilidad de obtener los beneficios preliberatorios o tratamiento preliberatorio que otorga la Ley;
+IV. De la etapa de ejecución, el juez ejecutor de sentencias.
 
-V. Elaborar y emitir las resoluciones judiciales apoyándose en los dictámenes que emitan los Consejos Interno y Técnico Interdisciplinarios, de todos aquellos internos con sentencia que ha causado ejecutoria y que estén en posibilidad de obtener los beneficios que establece ésta Ley, respecto de las medidas preliberacionales, la remisión parcial de la pena y la libertad condicional, sin perjuicio de ordenar la repetición, ampliación o desahogo de éstos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Solicitar a la Dirección General de Prevención y Readaptación Social dictamen del Consejo Técnico Interdisciplinario en relación a la aplicación de las medidas de preliberación, remisión parcial de la pena y libertad condicional;
+Artículo 189 bis.- (DEROGADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-VII. Resolver sobre el otorgamiento del tratamiento preliberacional contenido en ésta ley, apoyándose en los dictámenes técnicos e informes emitidos por los Consejos Técnico e Interno Interdisciplinarios correspondientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII. Resolver sobre la remisión parcial de la pena, apoyándose en los dictámenes técnico jurídicos e informes emitidos por los Consejos Técnico e Interno Interdisciplinarios correspondientes;
-
-IX. Resolver sobre el otorgamiento de la libertad condicional, apoyándose en los dictámenes técnicos jurídicos e informes emitidos por los Consejos Técnico e Interno Interdisciplinarios correspondientes;
-
-X. Resolver sobre la revocación de beneficios o tratamiento de ley otorgados para el caso de incumplimiento de obligaciones atribuibles al sentenciado, con apoyo en los dictámenes técnico jurídicos e informes emitidos por los Consejos Interno y Técnico Interdisciplinarios correspondientes;
-
-XI. Visitar y entrevistar a los internos con sentencia ejecutoria, que sean susceptibles de obtener algún beneficio o tratamiento; y (sic)
-
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
-
-XII. Resolver sobre el otorgamiento del beneficio de libertad condicionada al Sistema de Localización y Rastreo contenido en esta ley, apoyándose en los dictámenes técnicos e informes emitidos por los Consejos Técnico e Interno Interdisciplinarios correspondientes; y
-
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2007)</small>
-
-XIII. Las demás que señalen otras disposiciones legales.
-
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
-
-Artículo 189 bis.- Los jueces de ejecución y vigilancia, tendrán las atribuciones que establece la ley de la materia.
-
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 190.
 
-El Consejo de la Judicatura nombrará a los Jueces Ejecutores de Sentencias necesarios para determinar sobre las medidas de preliberación, remisión parcial de la pena y libertad condicional; y el personal necesario para lograr su cometido y respecto del Juez de Ejecución y Vigilancia de Justicia para Adolescentes estará a lo dispuesto en la Ley de Justicia para Adolescentes.
+Los juzgados y tribunales contarán con el número de jueces que el servicio requiera y, además, con el personal siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
+I. Un administrador;
+
+II. Notificadores; y
+
+III. El personal auxiliar que determine el Consejo de la Judicatura.
+
+El tribunal de juicio oral se integrará por tres jueces y uno de ellos lo presidirá, según el turno respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 191.
 
-Para ser Juez Ejecutor de Sentencias y de Ejecución y Vigilancia de Justicia para Adolescentes se requiere:
+Los jueces de control tienen las siguientes atribuciones:
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
+I. Resolver sobre medidas cautelares, providencias precautorias y técnicas de investigación que requieran control judicial, en los términos de las disposiciones legales;
 
-I. Ser ciudadano del Estado de México, mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos y con vecindad efectiva de tres años;
+II. Autorizar la interrupción legal del embarazo;
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
+III. Resolver sobre las resoluciones de reserva, no ejercicio y desistimiento de la acción penal;
 
-II. Tener como mínimo 28 años de edad;
+IV. Resolver las impugnaciones en contra de las decisiones definitivas del ministerio público que autoricen o nieguen la aplicación de un criterio de oportunidad;
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
+V. Conocer sobre los mecanismos alternativos de solución de conflictos en los términos que la ley señala;
 
-III. Haber servido en el Poder Judicial del Estado o tener méritos profesionales y académicos reconocidos;
+VI. Conocer del control de la detención;
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
+VII. Resolver sobre la vinculación o no a proceso de los imputados;
 
-IV. Poseer título profesional de licenciado en derecho expedido por institución de educación superior legalmente facultada para ello, con una antigüedad mínima de 5 años al día de la designación y de ejercicio profesional;
+VIII. Recibir la prueba anticipada; y
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
+IX. Las demás que les confiera la ley.
 
-V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
-
-VI. No haber desempeñado el cargo de Secretario de Despacho, Procurador General de Justicia del Estado, Senador, Diputado Federal o Local o Presidente Municipal, a menos que se separe de su cargo un año antes del día de su designación.
-
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 192.
 
-Por cada dos días de trabajo del interno se hará remisión de uno de prisión, siempre que observe buena conducta, participe regularmente en las actividades educativas y recreativas que se organicen en el centro preventivo y de readaptación social y que a juicio del Juez Ejecutor de Sentencias, revele otros datos de efectiva resocialización. Este último criterio será en todo caso factor determinante para la concesión o negación de la remisión parcial de la pena, por parte del Juez Ejecutor de Sentencias.
+El juez que presida el tribunal del juicio oral tendrá, además, las siguientes facultades:
 
-A los internos que por falta de ocupación laboral asistan regularmente a la escuela le serán tomadas en cuenta dichas actividades para el efecto de la remisión parcial de la pena y cualquier otra medida tendente a su reincorporación social.
+I. Dirigir la deliberación de los asuntos de su competencia;
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+II. Representar al tribunal en el trámite de juicio de garantías; y
 
-La remisión parcial de la pena no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
+III. Las demás que señalen las leyes.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 193.
 
-Los casos de los internos que conforme a esta Ley deban ser estudiados para la remisión parcial de la pena, se programarán por el Juez Ejecutor de Sentencias, auxiliándose de los dictámenes que emitan los Consejos Interno y Técnico Interdisciplinarios.
+La competencia territorial de los jueces ejecutores de sentencias será la que determine el pleno del Tribunal Superior de Justicia.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+Será competente para resolver sobre los beneficios, el tratamiento, la extinción de las penas y demás que establece el Código de Procedimientos Penales para el Estado, el juez ejecutor de sentencias que tenga competencia en el Centro de internamiento donde el interno se encuentre al momento de cumplir con los requisitas que para tales derechos señala la ley; o bien, el juez adscrito al Centro del cual, el interno haya sido trasladado a un Centro Preventivo Federal o de otra entidad federativa.
+
+Para la revocación de los beneficios o tratamiento, será competente el que los haya concedido, salvo que se encuentre en un Centro de internamiento, en cuyo caso, resolverá el juez de la adscripción.
+
+La Sala Penal de la región del juzgado de ejecución de sentencias que haya prevenido, decidirá cualquier conflicto sobre competencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 194.
 
-Tendrán derecho a la remisión parcial de la pena, los internos a que se refiere el artículo 60 de la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, en los términos y condiciones que establece esta Ley.
+Son obligaciones de los jueces ejecutores de sentencias:
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+I. Informar anualmente o cuando se le requiera, de las actividades que realice, específicamente estadísticas de los casos resueltos y de los que se encuentren en trámite;
+
+II. Brindar orientación a los internos que obtengan los beneficios o tratamiento que otorga la ley, sobre las obligaciones y deberes a su cargo;
+
+III. Ordenar la realización de estudios técnico jurídicos de los internos sancionados con pena privativa de la libertad por sentencia ejecutoriada;
+
+IV. Formar expediente particular a cada interno desde que se dicte sentencia ejecutoria, para darle seguimiento hasta que esté en aptitud de obtener los beneficios o tratamiento que concede la ley, integrado con la copia de la sentencia ejecutoriada que le impuso la pena privativa de libertad y demás documentos, dictámenes y datos que sean necesarios para resolver sobre aquellos; y
+
+V. Las demás que les señale la normatividad correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 195.
 
-La remisión parcial de la pena se concederá sin perjuicio de cualquier otro beneficio concedido por esta Ley a los internos.
+Para ser administrador se requiere:
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+I. Ser mayor de veintiocho años;
+
+II. Ser licenciado en derecho con conocimientos en administración o licenciado en administración; y
+
+III. No haber sido condenado por delito doloso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 196.
 
-El tratamiento preliberacional tiene por objeto la reincorporación social del individuo.
+El administrador de juzgado o tribunal tendrá las siguientes facultades:
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+I. Dirigir las labores administrativas de los juzgados o tribunales de su adscripción;
+
+II. Supervisar el desempeño de los servidores públicos a su cargo;
+
+III. Llevar el manejo administrativo y la custodia de las salas de audiencias, juzgados y tribunales a su cargo, a fin de que se encuentren en condiciones óptimas de uso;
+
+IV. Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados;
+
+V. Supervisar la distribución de los asuntos entre los jueces o tribunales, por turno;
+
+VI. Supervisar la programación de las diligencias a desarrollarse en los recintos de audiencia a su cargo;
+
+VII. Elaborar y remitir los informes estadísticos anuales, mensuales y demás que determine el Consejo de la Judicatura;
+
+VIII. Recibir, inventariar, custodiar y entregar los bienes y valores que se encuentren a disposición de los juzgados o tribunales;
+
+IX. Controlar el manejo de registros de los asuntos tramitados en el juzgado o tribunal;
+
+X. Cotejar las actuaciones con sus reproducciones, para fidelidad de estos documentos;
+
+XI. Revisar físicamente los expedientes digitalizados de las causas;
+
+XII. Dar cuenta de la correspondencia al juez de despacho;
+
+XIII. Tramitar la correspondencia administrativa del juzgado o tribunal;
+
+XIV. Auxiliar al titular de juzgado o tribunal en el trámite de los juicios de amparo;
+
+XV. Auxiliar en el desahogo de las audiencias;
+
+XVI. Elaborar y mantener actualizado el registro de los sujetos procesales que intervienen en cada caso;
+
+XVII. Dar cuenta al titular del órgano jurisdiccional respectivo de los medios de impugnación que se hagan valer;
+
+XVIII. Atender los requerimientos que formule la Unidad de Información del Poder Judicial;
+
+XIX. Coordinar el trabajo de los notificadores;
+
+XX. Verificar que se realicen las notificaciones que se hayan ordenado;
+
+XXI. Tener a su cargo el archivo del órgano jurisdiccional;
+
+XXII. Remitir al archivo general los asuntos que se encuentren concluidos;
+
+XXIII. Verificar que las audiencias queden registradas en los medios instrumentados para tal efecto;
+
+XXIV. Ingresar y ubicar en las salas de audiencias a los sujetos procesales, testigos, peritos y demás intervinientes, en el lugar que les corresponda;
+
+XXV. Cumplir con las instrucciones que emita el titular del órgano jurisdiccional durante las audiencias;
+
+XXVI. Realizar las tareas administrativas que le encomienden los titulares de los órganos jurisdiccionales de su adscripción;
+
+XXVII. Tomar las medidas administrativas necesarias para la buena marcha de los asuntos;
+
+XXVIII. Instrumentar un expediente judicial de cada asunto que sea sometido a la competencia de los órganos jurisdiccionales de su adscripción;
+
+XXIX. Remitir los valores y garantías que se reciban en el juzgado o tribunal dentro de los plazos señalados en las disposiciones administrativas;
+
+XXX. Vigilar que el rol de turnos de jueces y demás personal del juzgado o tribunal se realice en los términos autorizados por el Consejo de la Judicatura;
+
+XXXI. Supervisar que en cada audiencia se redacte el acta mínima correspondiente;
+
+XXXII. Las demás que determine la ley o el Consejo de la Judicatura.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 197.
 
-El tratamiento preliberacional comprenderá:
+Para el desempeño de las atribuciones a su cargo, el administrador contará con el personal auxiliar que el Consejo de la Judicatura determine.
 
-I. Información y orientación al interno sobre los aspectos personales y prácticos de su vida en libertad;
-
-II. Concesión de mayor libertad dentro del Centro Preventivo y de Readaptación Social;
-
-III. Aplicación de técnicas socioterapéuticas y psicoterapias colectivas y de todas aquéllas que coadyuven a lograr una mejor integración social;
-
-IV. Traslado a la Institución abierta; y
-
-V. El régimen de prelibertad.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
-
-El régimen de prelibertad no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que se califique como grave.
-
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 198.
 
-La prelibertad se podrá otorgar:
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-I. Dos años antes del cumplimiento de las tres quintas partes de la pena de prisión impuesta tratándose de delitos dolosos, o
-
-II. Dos años antes del cumplimiento de las dos cuartas partes de la pena de prisión impuesta en el caso de los delitos culposos.
-
-Lo anterior en correlación con el beneficio de la remisión parcial de la pena.
-
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 199.
 
-La prelibertad deberá ser concedida en forma gradual y sistemática por el Juez Ejecutor de Sentencias, atendiendo a los dictámenes técnico jurídico emitido por el (sic) Consejos Interno y Técnico Interdisciplinarios correspondientes.
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 200.
 
-Las modalidades de la prelibertad son las siguientes:
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-I. Salida del Centro Preventivo y de Readaptación Social de dos días a la semana;
-
-II. Salida diurna, reclusión nocturna y de sábados y domingos;
-
-III. Salida diurna y reclusión nocturna;
-
-IV. Salida diurna y reclusión nocturna con salida de sábados y domingos;
-
-V. Reclusión de dos días a la semana;
-
-VI. Presentación semanal al Centro Preventivo y de Readaptación Social; y
-
-VII. Presentación quincenal al Centro Preventivo y de Readaptación Social.
-
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 201.
 
-Al ser concedida la prelibertad, en cualquiera de sus modalidades, el Juez Ejecutor de Sentencias del Centro Preventivo y de Readaptación Social correspondiente, deberá advertir al preliberado que tendrá que ocurrir a la Institución que le haya sido señalada para hacer sus presentaciones; de informar de sus cambios de domicilio; de la obligación de desempeñar actividades lícitas; de la prohibición que tenga de ir a los lugares que se haya determinado en la resolución respectiva, así como observar una conducta intachable para con los demás y consigo mismo y cumplir con las demás medidas terapéuticas que se le hayan señalado.
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 201 bis.- El beneficio de libertad condicionada al Sistema de Localización y Rastreo, es un medio de ejecutar la sanción penal hasta en tanto se alcance algún beneficio de prelibertad, remisión parcial de la pena o libertad condicional.
+Artículo 201 bis.- (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-Este beneficio no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, robo que se califique como grave.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+Artículo 201 ter.- (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-Para la concesión de este beneficio el Juez fijará las condiciones para su otorgamiento y se apoyará en el dictamen que emitan los Consejos Técnicos e Interno Interdisciplinarios correspondientes.
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
-
-Artículo 201 ter.- El beneficio de libertad condicionada al Sistema de Localización y Rastreo a que se refiere el artículo anterior, se concederá al sentenciado que cumpla con los siguientes requisitos:
-
-I. Sea primo delincuente;
-
-II. Que la pena privativa de libertad no sea menor a siete años ni mayor de quince años. En ningún caso, se concederá a los sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que se califique como grave;
-
-III. Que le falte por lo menos un año para alcanzar el beneficio de prelibertad;
-
-IV. Cubra o garantice en su totalidad la reparación del daño o de manera proporcional, cuando haya sido condenado en forma solidaria y mancomunada y sea determinada dicha reparación;
-
-V. Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraídas por el beneficiado;
-
-VI. Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continua estudiando;
-
-VII. Cuente con aval afianzador;
-
-VIII. Acredite apoyo familiar;
-
-IX. Cubra el costo del dispositivo electrónico de monitoreo individual, en las condiciones que para ello establezca el reglamento; y
-
-X. Las demás que establezca el Reglamento que regule este beneficio.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 202.
 
-La prelibertad o el beneficio de libertad condicionada al Sistema de Localización y Rastreo, serán revocados por el Juez Ejecutor de Sentencias en los siguientes casos:
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
-
-I. Por cometer un nuevo delito, y que dentro del término constitucional resulte, probable responsable; dejándose sin efecto la revocación al existir resolución que lo deje en libertad definitiva;
-
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
-
-II. Cuando incumpla las condiciones con que le fue otorgada, sin causa justificada; y
-
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
-
-III. Cuando el interno presente conductas no acordes al tratamiento preliberacional instaurado.
-
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 203.
 
-La libertad condicional se otorgará a los internos sancionados con penas de privación de la libertad por dos año o más, cuando se satisfagan los siguientes requisitos:
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-I. Haber cumplido las tres quintas partes de la pena corporal impuesta cuando se trate de delitos dolosos, y haber cumplido las dos cuartas partes cuando se trate de delitos culposos;
-
-II. Haber observado durante su internamiento buena conducta sin limitarse al simple cumplimiento de los reglamentos sino a su mejoramiento cultural, perfeccionamiento en el servicio y superación en el trabajo, que revele un afán constante de readaptación social;
-
-III. Ofrecer dedicarse en el plazo que la resolución determine a un oficio, arte, industria, profesión o cualquier otro medio honesto de vivir y acatar los condicionantes que determine el Juez Ejecutor de Sentencias;
-
-IV. Que alguna persona, con reconocida solvencia moral, honrada y de arraigo, se obligue a supervisar y cuidar que el liberado cumpla con sus obligaciones contraídas al momento de su liberación; y
-
-V. Que el beneficiado con libertad condicional resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso previo del Juez Ejecutor de Sentencias.
-
-La designación se hará conciliando las circunstancias de que al interno no pueda proporcionársele trabajo en el lugar que se fije, con el hecho de que su permanencia en él, no sea obstáculo para su enmienda.
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 204.
 
-La libertad condicional no se concederá en los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 205.
 
-El interno que intente fugarse o bien el que habiéndose fugado sea reaprendido, perderá el derecho a la libertad condicional y quedará sujeto a la determinación del Juez Ejecutor de Sentencias.
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 206.
 
-El Juez Ejecutor de Sentencias programará un sistema de oficio, para la revisión de los expedientes de todos los internos para verificar si se encuentran en el término legal para la obtención de su libertad condicional, en base al principio de no discriminación y al respeto íntegro de los derechos humanos.
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 207.
 
-Los individuos que disfruten de la libertad condicional quedarán sujetos a la vigilancia discreta por quien designe el Juez Ejecutor de Sentencias y por todo el tiempo que les falte para cumplir su pena.
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 208.
 
-La libertad condicional será revocada por el Juez Ejecutor de Sentencias, en los siguientes casos:
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-I. Por haber dejado de cumplir con alguna de las condiciones establecidas en el artículo 201 de esta Ley; y
-
-II. Por cometer un nuevo delito, y que dentro del término constitucional resulte probable responsable, dejando sin efecto la revocación al existir resolución que lo deje en libertad definitiva.
-
-Cuando se verifique la condición de alguna de estas circunstancias, el Juez Ejecutor de Sentencias, revocará el beneficio concedido y el infractor cumplirá toda la parte de la pena que falte por compurgar.
-
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 209.
 
-Las Penas Privativas y Restrictivas de la Libertad, se extinguen por:
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-I. El cumplimiento de la misma;
-
-II. Muerte del penado;
-
-III. Resolución de la autoridad Judicial;
-
-IV. Indulto o amnistía;
-
-V. Prescripción; y
-
-VI. Cesación de los efectos de la sentencia por dejar de considerarse una conducta como delito.
-
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 210.
 
-En los casos de las fracciones I y VI del artículo anterior, el Juez Ejecutor de Sentencias ordenará la libertad inmediata del condenado, incurriendo en responsabilidad si no lo hiciere.
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-En caso de la fracción III, se estará a la (sic) dispuesto en la resolución Judicial respectiva, y en el de la fracción IV a lo que dispongan las Leyes, o el Titular del Ejecutivo Estatal que concedan respectivamente la amnistía o el indulto.
-
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 211.
 
-Al quedar un interno en libertad definitiva o condicional, la Dirección de Prevención y Readaptación Social le hará entrega de la constancia en la que se expresen los motivos y en su caso las condiciones bajo las cuales han obtenido su libertad.
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 212.
 
-Contra los actos y resoluciones que nieguen o revoquen algún beneficio o tratamiento, los particulares afectados podrán interponer recurso de reconsideración ante el propio juez, dentro de los cinco días hábiles siguientes al en que tengan conocimiento de esa determinación, bastando con señalar la resolución impugnada y las cuestiones de hechos y de derecho que en su concepto les generen agravio.
-
-Tratándose de la revocación de beneficio o tratamiento la sola interposición del recurso motivará la suspensión de la misma.
+(DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 
 T R A N S I T O R I O S
 
@@ -2492,3 +2622,67 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 30 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor en los siguientes términos:
+
+I. El uno de octubre del dos mil nueve en los distritos judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle;
+
+II. El uno de abril del dos mil diez entrará en vigor en los distritos judiciales de Chalco, Otumba y Texcoco;
+
+III. El uno de octubre del dos mil diez entrará en vigor en los distritos judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+
+IV. El uno de abril del dos mil once entrará en vigor en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango; y
+
+V. El uno de octubre del dos mil once entrará en vigor en los distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
+
+###### ARTÍCULO TERCERO.
+
+Las averiguaciones previas, procesos, recursos y sentencias que se refieran a hechos ocurridos antes de la entrada en vigor del nuevo sistema de justicia penal, se sujetarán hasta su conclusión definitiva, a las disposiciones legales vigentes a la fecha en que acontecieron los hechos.
+
+###### ARTÍCULO CUARTO.
+
+Para garantizar la operatividad del sistema de justicia penal, adversarial acusatorio y oral se implementará un sistema informático que permita un registro fehaciente de todas las comunicaciones entre jueces, ministerio público y demás autoridades competentes, relativas a las solicitudes de audiencias, medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial.
+
+###### ARTÍCULO QUINTO.
+
+La legislatura local proveerá lo conducente en la asignación de recursos presupuestales anuales a favor del Poder Judicial del Estado, a fin de que se cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
+
+G.G. 30 DE SEPTIEMBRE DE 2009.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO ADVERSARIAL Y ORAL.</small>
+
+DECLARATORIA
+
+El sistema procesal penal acusatorio, adversarial y oral previsto en los artículos 16 párrafos segundo y decimotercero; 17 párrafos tercero, cuarto y sexto; 19; 20 y 21 párrafos tercero y séptimo, de la Constitución Política de los Estados Unidos Mexicanos, ha sido incorporado en la Constitución Política del Estado Libre y Soberano de México, en el Código de Procedimientos Penales para el Estado de México y en la Ley Orgánica del Poder Judicial del Estado de México.
+
+En consecuencia, las garantías que consagran los artículos antes indicados, regulan la forma y términos en que se substanciarán los procedimientos penales, referentes a los hechos que ocurran con posterioridad a la entrada en vigor del sistema de justicia penal acusatorio, adversarial y oral.
+
+El sistema de justicia penal acusatorio, adversarial y oral entrará en vigor en los siguientes plazos y distritos:
+
+1) El primero de octubre de dos mil nueve, en los distritos judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle;
+
+2) El primero de abril de dos mil diez, en los distritos judiciales de Chalco, Otumba y Texcoco;
+
+3) El primero de octubre de dos mil diez, en los distritos judiciales de Netzahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+
+4) El primero de abril de dos mil once, en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+5) El primero de octubre de dos mil once, en los distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
+
+T R A N S I T O R I O S
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
