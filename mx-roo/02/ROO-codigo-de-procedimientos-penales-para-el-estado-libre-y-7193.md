@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2009-06-30"
+last_updated: "2009-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2009.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -2979,11 +2979,13 @@ En la misma forma que establece el artículo anterior se salvarán las palabras 
 
 Todas las fechas y cantidades se escribirán precisamente con letra.
 
-> <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 502.
 
-Las actuaciones del Ministerio Público y de los tribunales deberán levantarse por duplicado, ser autorizadas y conservarse en sus respectivos archivos.
+Las actuaciones del Ministerio Público deberán levantarse por duplicado, y la de los Tribunales en original, en todo caso deberán ser autorizadas y conservarse en sus respectivos archivos.
+
+Los expedientes electrónicos tendrán validez siempre y cuando se encuentren debidamente liberados y autorizados por el funcionario correspondiente.
 
 ###### Artículo 503.
 
@@ -3854,3 +3856,9 @@ DECRETO No. 156, POR EL QUE SE REFORMA EL ARTICULO 100 DEL CODIGO PENAL PARA EL 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O 30 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.- Esta reforma al Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo comenzará a regir al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor de la presente reforma, serán concluidos conforme a las formalidades de que sus actuaciones se levanten por duplicado, ser autorizadas y conservarse en sus respectivos archivos.
