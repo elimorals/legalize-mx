@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2009-07-30"
+last_updated: "2009-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,23 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-> <small>N. DE E. SE RECOMIENDA AL LECTOR TENER PRESENTE LOS TRANSITORIOS TERCERO Y SEXTO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO, PUBLICADO Y REFORMADO EN LA G.G. DE 9 DE FEBRERO DE 2009 Y DE 30 DE JULIO DE 2009, RESPECTIVAMENTE, QUE SEÑALAN:</small>
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
-" ARTÍCULO TERCERO.- Al entrar en vigor el nuevo sistema de justicia penal, quedará abrogado el Código de Procedimientos Penales para el Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno", el veinte de marzo del año dos mil.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 30 DE SEPTIEMBRE DE 2009.
+
+Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
+
+ENRIQUE PEÑA NIETO, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NÚMERO 266
+
+LA H. "LVI" LEGISLATURA DEL ESTADO DE MÉXICO DECRETA:
+
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA El ESTADO DE MÉXICO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -71,7 +85,7 @@ c) Concentración: La presentación, recepción y desahogo de las pruebas, así 
 
 d) Continuidad: Las audiencias no se interrumpirán, salvo en casos excepcionales previstos en este código.
 
-e) Inmediación: Los jueces tomarán conocimiento personal del material probatorio introducido en la audiencia, y escucharán directamente los argumentos de las partes, con la presencia ininterrumpida de los sujetos procesales que deban participar en ella salvo los casos previstos en este código para la prueba anticipada.
+e) Inmediación: Los jueces tomarán conocimiento personal del material probatorio introducido en la audiencia, y escucharán directamente los argumentos de las partes, con la presencia ininterrumpida de los sujetos procesales que deban participar en ella, salvo los casos previstos en este código para la prueba anticipada.
 
 Estos principios serán aplicables, en lo conducente, a los procedimientos para la aplicación de sanciones por infracciones administrativas o penitenciarias.
 
@@ -315,7 +329,11 @@ Es competente para conocer de un hecho considerado como delito el juez o tribuna
 
 Por razón de seguridad; atendiendo a las características del hecho imputado, circunstancias personales del inculpado u otras que impidan el desarrollo adecuado del procedimiento, podrá ser juez competente, el que corresponda al centro de reclusión que el ministerio público o el juez estime apropiado.
 
-El tribunal de juicio oral se integrará colegiadamente por tres jueces y conocerá del juicio oral tratándose de los delitos graves señalados por el artículo 9 del Código Penal, de los demás delitos conocerá unitariamente el juez de juicio oral.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+El tribunal de juicio oral se integrará colegiadamente por tres jueces y conocerá del juicio oral tratándose de los delitos de homicidio, violación, secuestro, robo en interior de casa habitación con violencia, robo que ocasione la muerte, robo de vehículo automotor o de la mercancía transportada a bordo de aquél, el de trata de personas, sedición, motín, deterioro al área natural protegida; los cometidos en contra de menores de edad a que se refiere el artículo 205, y el de lesiones previsto en el artículo 238 fracción V, del Código Penal del Estado; así como en aquellos en los que se ejerza la facultad de atracción.
 
 Las facultades que señale este código para el juez de juicio oral, las ejercerá unitariamente el juez que presida el tribunal de juicio oral.
 
@@ -1757,7 +1775,11 @@ La policía que ejecute una orden de aprehensión, conducirá inmediatamente al 
 
 Una vez que sea puesto a disposición del juez de control, se citará dentro de las veinticuatro horas siguientes a una audiencia para que le sea formulada la imputación.
 
-El ministerio público, al solicitar por escrito o por comparecencia, el libramiento de orden de aprehensión del imputado, hará una relación precisa de los hechos que le atribuya, sustentada en los registros correspondientes, que presentará ante la autoridad judicial, exponiendo las razones por las que considera que se actualizaron las exigencias señaladas en el primer párrafo del artículo anterior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+El ministerio público, al solicitar por escrito o por comparecencia, el libramiento de orden de aprehensión del imputado, hará una relación precisa de los hechos que le atribuya, sustentada en los registros correspondientes, que presentará ante la autoridad judicial, exponiendo las razones por las que considera que se actualizaron las exigencias señaladas en el primer párrafo de este artículo.
 
 Aprehensión
 
@@ -1883,9 +1905,23 @@ II. Los delitos cometidos con medios violentos, siempre que se ocasionen daños 
 
 III. En los siguientes delitos contra el libre desarrollo de la personalidad previstos en el Código Penal del Estado:
 
-a) El del artículo 204 fracciones I, II y III; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-b) El de pornografía de menores e incapaces contenido en el artículo 206, fracciones I, II y IV.
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+a) El del artículo 204 fracciones I, II, III;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+b) El de pornografía de menores e incapaces contenido en el artículo 206, fracciones I, II y IV; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+c) Trata de personas.
 
 B. A petición justificada del ministerio público en los restantes delitos, cuando otras medidas cautelares no sean suficientes para garantizar:
 
@@ -2343,19 +2379,27 @@ Tratándose de actos invasivos como extracciones de sangre u otros similares, se
 
 De negarse el consentimiento, deberá quedar registrada de manera fehaciente esta negativa.
 
-Secreto de las actuaciones de investigación
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+Confidencialidad de las actuaciones de investigación
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 244.
 
-Las actuaciones de investigación realizadas por el ministerio público y por la policía serán secretas para los terceros ajenos al procedimiento. El imputado y los demás intervinientes en el procedimiento podrán examinar los registros y los documentos de la investigación.
+Las actuaciones de investigación en trámite realizadas por el ministerio público y por la policía serán confidenciales para los terceros ajenos al procedimiento. El imputado y los demás intervinientes en el procedimiento podrán examinar los registros y los documentos de la investigación. Los terceros ajenos tendrán acceso a las investigaciones concluidas en los términos que determine la normatividad aplicable en materia de transparencia y acceso a la información pública.
 
-El ministerio público podrá disponer que determinadas actuaciones, registros o documentos sean mantenidos en secreto respecto del imputado o de los demás intervinientes, cuando resulte indispensable para la eficacia de la investigación. En tal caso deberá identificar las piezas o actuaciones respectivas, de modo que no se vulnere la reserva, y fijar un plazo no superior a veinte días para mantener el secreto. Cuando el ministerio público necesite superar este periodo debe motivar su solicitud ante el juez de control, quien lo podrá ampliar hasta por un periodo igual. La información recabada no podrá ser presentada como prueba en juicio sin que el imputado haya podido ejercer adecuadamente su derecho a la defensa.
+El ministerio público podrá disponer que determinadas actuaciones, registros o documentos sean mantenidos en confidencialidad respecto del imputado o de los demás intervinientes, cuando resulte indispensable para la eficacia de la investigación. En tal caso, deberá identificar las piezas o actuaciones respectivas, de modo que no se vulnere la restricción, y fijar un plazo no superior a veinte días para mantener la confidencialidad. Cuando el ministerio público necesite superar este periodo debe motivar su solicitud ante el juez de control, quien lo podrá ampliar hasta por un periodo igual. La información recabada no podrá ser presentada como prueba en juicio sin que el imputado haya podido ejercer adecuadamente su derecho a la defensa.
 
-El imputado o cualquier otro interviniente podrán solicitar del juez que ponga término a la secrecía o que lo limite en cuanto a su duración, a las piezas o actuaciones que comprenda, o a las personas a quienes afecte.
+El imputado o cualquier otro interviniente podrán solicitar del juez que ponga término a la confidencialidad o que lo limite en cuanto a su duración, a las piezas o actuaciones que comprenda, o a las personas a quienes afecte.
 
-No se podrá decretar el secreto sobre la declaración del imputado o cualquier otra actuación en que hubiere intervenido o tenido derecho a intervenir, las actuaciones en las que participe el órgano jurisdiccional ni los informes producidos por peritos, respecto del propio imputado o de su defensor.
+No se podrá decretar la confidencialidad sobre la declaración del imputado o cualquier otra actuación en que hubiere intervenido o tenido derecho a intervenir, las actuaciones en las que participe el órgano jurisdiccional, ni los informes producidos por peritos, respecto del propio imputado o de su defensor.
 
-Quienes hayan participado en la investigación y las demás personas que, por cualquier motivo, tengan conocimiento de las actuaciones de la investigación estarán obligados a guardar secreto respecto de ellas.
+Quienes hayan participado en la investigación y las demás personas que, por cualquier motivo, tengan conocimiento de las actuaciones de la investigación estarán obligados a guardar la confidencialidad respecto de ellas.
 
 Proposición de diligencias
 
@@ -3863,7 +3907,11 @@ Trámite
 
 La revocación de las resoluciones pronunciadas en audiencia deberá promoverse tan pronto sean dictadas y sólo será admisible cuando no hubiere precedido debate. La tramitación será verbal y de inmediato, y de, la misma manera se pronunciará el fallo.
 
-La revocación de las resoluciones dictadas fuera de audiencia deberá interponerse por escrito, en el acto de su notificación, en el que se deberán expresar los motivos por los cuales se solicita. El órgano jurisdiccional se pronunciará de plano, pero podrá oír a los demás intervinientes, si se hubiere deducido en un asunto cuya complejidad así lo amerite.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+La revocación de las resoluciones dictadas fuera de audiencia deberá interponerse por escrito, en el acto de su notificación o al día siguiente, en el que se deberán expresar los motivos por los cuales se solicita. El órgano jurisdiccional se pronunciará de plano, pero podrá oír a los demás intervinientes, si se hubiere deducido en un asunto cuya complejidad así lo amerite.
 
 ### CAPÍTULO III. REVISIÓN EXTRAORDINARIA
 
@@ -4597,13 +4645,17 @@ Este Código entrará en vigor el día uno de octubre del año dos mil nueve.
 
 Al entrar en vigor el nuevo sistema de justicia penal, quedará abrogado el Código de Procedimientos Penales para el Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno", el veinte de marzo del año dos mil.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO CUARTO.
 
-Todos los procesos y recursos que ante los órganos jurisdiccionales se encuentren radicados al iniciar su vigencia el nuevo sistema de justicia penal, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Procedimientos Penales que se abroga.
+Las averiguaciones previas, procesos y recursos que se refieran a hechos ocurridos antes de la entrada en vigor del nuevo sistema de justicia penal, se sujetarán hasta su conclusión definitiva, a las disposiciones del Código de Procedimientos Penales que se abroga.
 
 ###### ARTÍCULO QUINTO.
 
-Al entrar en vigor el nuevo sistema de justicia penal, quedan derogadas todas las disposiciones que se opongan a lo preceptuado en este código.
+Al entrar en vigor el nuevo sistema de justicia penal, quedan derogadas todas las disposiciones que se opongan a Io preceptuado en este código.
 
 > <small>(REFORMADO, G.G. 30 DE JULIO DE 2009)</small>
 
@@ -4618,34 +4670,6 @@ El día uno de octubre del año dos mil diez entrará en vigor en los Distritos 
 El día uno de abril del año dos mil once entrará en vigor en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango.
 
 El día uno de octubre del año dos mil once entrará en vigor en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
-
-###### ARTÍCULO SEXTO.
-
-El nuevo Sistema de Justicia Penal entrará en vigor el día uno de octubre del año dos mil nueve en los Distritos Judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle.
-
-El día uno de abril del año dos mil diez entrará en vigor en los Distritos Judiciales de Chalco, Otumba y Texcoco.
-
-El día uno de octubre del año dos mil diez entrará en vigor en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec.
-
-El uno de abril del año dos mil once entrará en vigor en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango.
-
-El uno de octubre del año dos mil once entrará en vigor en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo."
-
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 30 DE JULIO DE 2009.
-
-Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
-
-ENRIQUE PEÑA NIETO, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
-
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
-
-DECRETO NÚMERO 266
-
-LA H. "LVI" LEGISLATURA DEL ESTADO DE MÉXICO DECRETA:
-
-CÓDIGO DE PROCEDIMIENTOS PENALES PARA El ESTADO DE MÉXICO
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -4680,3 +4704,67 @@ G.G. 30 DE JULIO DE 2009.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 30 DE SEPTIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor en los siguientes términos:
+
+I. El uno de octubre del dos mil nueve en los distritos judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle;
+
+II. El uno de abril del dos mil diez entrará en vigor en los distritos judiciales de Chalco, Otumba y Texcoco;
+
+III. El uno de octubre del dos mil diez entrará en vigor en los distritos judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+
+IV. El uno de abril del dos mil once entrará en vigor en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango; y
+
+V. El uno de octubre del dos mil once entrará en vigor en los distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
+
+###### ARTÍCULO TERCERO.
+
+Las averiguaciones previas, procesos, recursos y sentencias que se refieran a hechos ocurridos antes de la entrada en vigor del nuevo sistema de justicia penal, se sujetarán hasta su conclusión definitiva, a las disposiciones legales vigentes a la fecha en que acontecieron los hechos.
+
+###### ARTÍCULO CUARTO.
+
+Para garantizar la operatividad del sistema de justicia penal, adversarial acusatorio y oral se implementará un sistema informático que permita un registro fehaciente de todas las comunicaciones entre jueces, ministerio público y demás autoridades competentes, relativas a las solicitudes de audiencias, medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial.
+
+###### ARTÍCULO QUINTO.
+
+La legislatura local proveerá lo conducente en la asignación de recursos presupuestales anuales a favor del Poder Judicial del Estado, a fin de que se cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
+
+G.G. 30 DE SEPTIEMBRE DE 2009.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO ADVERSARIAL Y ORAL.</small>
+
+DECLARATORIA
+
+El sistema procesal penal acusatorio, adversarial y oral previsto en los artículos 16 párrafos segundo y decimotercero; 17 párrafos tercero, cuarto y sexto; 19; 20 y 21 párrafos tercero y séptimo, de la Constitución Política de los Estados Unidos Mexicanos, ha sido incorporado en la Constitución Política del Estado Libre y Soberano de México, en el Código de Procedimientos Penales para el Estado de México y en la Ley Orgánica del Poder Judicial del Estado de México.
+
+En consecuencia, las garantías que consagran los artículos antes indicados, regulan la forma y términos en que se substanciarán los procedimientos penales, referentes a los hechos que ocurran con posterioridad a la entrada en vigor del sistema de justicia penal acusatorio, adversarial y oral.
+
+El sistema de justicia penal acusatorio, adversarial y oral entrará en vigor en los siguientes plazos y distritos:
+
+1) El primero de octubre de dos mil nueve, en los distritos judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle;
+
+2) El primero de abril de dos mil diez, en los distritos judiciales de Chalco, Otumba y Texcoco;
+
+3) El primero de octubre de dos mil diez, en los distritos judiciales de Netzahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+
+4) El primero de abril de dos mil once, en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+5) El primero de octubre de dos mil once, en los distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
+
+T R A N S I T O R I O S
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
