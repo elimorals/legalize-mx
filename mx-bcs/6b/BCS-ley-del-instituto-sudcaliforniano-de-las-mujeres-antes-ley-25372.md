@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-de-las-mujeres-antes-ley-2537
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-31"
-last_updated: "2005-10-25"
+last_updated: "2009-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DE LA MUJER
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE SEPTIEMBRE DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de julio de 1999.
 
@@ -281,15 +281,25 @@ La Contraloria Social será el órgano ciudadano de vigilancia interna del Insti
 
 Serán facultades de la Contraloría Social:
 
-I.- Vigilar que los planes y proyectos del Instituto Sudcaliforniano de la Mujer, sean acordes con las necesidades de la población femenina;
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
-II.- Recibir opiniones y demandas de la ciudadanía, para mejora procesos administrativos y de atención a las necesidades sociales para evaluar su gestión; e
+I.- Vigilar que los planes y programas del Instituto Sudcaliforniano de la Mujer se elaboren y se realicen acordes a las necesidades de la población femenina;
 
-III.- Vigilar el funcionamiento de los Consejos de Prevención y Atención Integral de la Violencia Intrafamiliar.
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+II.- Recibir opiniones y demandas de las y los ciudadanos organizados o no, de manera colectiva o individual sobre la actuación del Instituto Sudcaliforniano de la Mujer o de procesos administrativos y de atención a las necesidades sociales, a fin de evaluar la gestión del Instituto Sudcaliforniano de la Mujer;
+
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+III.- Vigilar que las acciones del Instituto Sudcaliforniano de la Mujer, relacionados con la eliminación de la violencia hacia las mujeres se realicen de forma eficiente y oportuna; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+IV.- Evaluar las acciones del Instituto Sudcaliforniano de la Mujer y comunicar al Consejo Directivo el resultado de dicha evaluación.
 
 > <small>(ADICIONADO, B.O. 25 DE OCTUBRE DE 2005)</small>
 
-###### ARTÍCULO 18º.
+###### ARTICULO 18º.
 
 Los requisitos para ser integrante de la Contraloría Social son los siguientes:
 
@@ -305,29 +315,45 @@ V.- No ser dirigente de algún partido u organización política;
 
 VI.- No ocupar cargo de elección popular ni ser funcionario de la administración pública;
 
-VII.- No tener antecedentes en procesos penales, civiles o administrativos, que representen conflicto de intereses con las funciones de la Contraloría Social; y (sic)
+VII.- No tener antecedentes en procesos penales, civiles o administrativos, que representen conflicto de intereses con las funciones de la Contraloría Social; y
 
-> <small>(ADICIONADO, B.O. 25 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 19º.
+VIII.- No ser integrante del Consejo Ciudadano del Sistema Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia hacia las Mujeres.
 
-La Contraloría Social tendrá las siguientes atribuciones, en relación con la atención a la prevención y atención de la violencia intrafamiliar:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
-I.- Verificar que se hayan constituido los Consejos Estatal y Municipales para la Prevención y Atención Integral de las Víctimas de la Violencia Intrafamiliar y que éstos sesionen en los términos de ley:
+###### ARTICULO 19º.
+
+La Contraloría Social tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+I.- Conocer oportunamente los planes que elabore la Dirección del Instituto de la Mujer;
+
+> <small>(ADICIONADA, B.O. 25 DE OCTUBRE DE 2005)</small>
 
 II.- Ejercer la vigilancia y control de la gestión pública y de las y los funcionarios responsables de dar cumplimiento a los programas y ejercicio de recursos financieros para combatir la violencia intrafamiliar;
 
-III.- Solicitar a las y los funcionarios responsables de los CPAVV estatal y municipales, la información, documentos, programas y presupuestos, cronogramas, metas que se estimen necesarios para el cumplimiento de su actividad;
+III.- (REFORMADA [N. DE E. DEROGADA], B.O. 30 DE SEPTIEMBRE DE 2009)
+
+> <small>(ADICIONADA, B.O. 25 DE OCTUBRE DE 2005)</small>
 
 IV.- Informar oportunamente a las autoridades e instancias competentes, de las actuaciones, hechos y omisiones de los servidores estatales o municipales que configuren posibles delitos, contravenciones o faltas graves que ameriten en materia de violencia de tipo administrativo;
 
-V.- Asistir con voz pero sin voto a las reuniones de los Consejos de Prevención y Atención a las Víctimas de la Violencia Intrafamiliar;
+V.- (REFORMADA [N. DE E. DEROGADA], B.O. 30 DE SEPTIEMBRE DE 2009)
 
-VI.- Solicitar un informe anual a los Consejos de Prevención y Atención Integral de las Víctimas de la Violencia Intrafamiliar, que contemple los recursos financieros ejercidos y su impacto social;
+VI.- (REFORMADA [N. DE E. DEROGADA], B.O. 30 DE SEPTIEMBRE DE 2009)
+
+> <small>(ADICIONADA, B.O. 25 DE OCTUBRE DE 2005)</small>
 
 VII.- Proponer la situación de los integrantes de los Consejos Estatal y Municipal cuando los titulares dejen de asistir por tres veces consecutivas;
 
-VIII.- Vigilar el debido funcionamiento de los Centros de Atención para las Víctimas y generadores de violencia intrafamiliar;
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2009)</small>
+
+VIII.- Vigilar el debido funcionamiento de los Refugios para la Atención de Víctimas de violencia familiar;
+
+> <small>(ADICIONADA, B.O. 25 DE OCTUBRE DE 2005)</small>
 
 IX.- Solicitar la aplicación de medidas correctivas y sanciones por parte de las autoridades competentes, cuando el manejo de recursos públicos no se realice en términos de transparencia, eficacia, legalidad y con apego a los programas.
 
@@ -402,3 +428,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación, en e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE SEPTIEMBRE DE 2009.
+
+PRIMERO.-El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.-Se derogan todas las disposiciones que se opongan al presente decreto.
