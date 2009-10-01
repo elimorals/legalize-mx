@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-radio-y-television-en-materia-electoral-62115"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-11"
-last_updated: "2009-02-12"
+last_updated: "2009-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-10"
 
 REGLAMENTO DE ACCESO A RADIO Y TELEVISION EN MATERIA ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de agosto de 2008.
 
@@ -461,7 +461,9 @@ a) Un programa mensual con duración de 5 minutos, y
 
 b) La transmisión de mensajes con duración de 20 segundos cada uno.
 
-2. En caso de que el tiempo total diario de que disponga el Instituto en una estación de radio o canal de televisión, de conformidad con las normas aplicables, sea insuficiente para transmitir un programa mensual, entonces transmitirán exclusivamente mensajes con duración de 20 segundos cada uno.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+2. En el caso de los permisionarios de radio y televisión, en los días en que se transmita el programa mensual de un partido político, no les serán asignados tiempos al resto de los partidos ni a las autoridades electorales. En los días restantes de la semana, se destinará a las autoridades electorales el tiempo necesario para igualar el tiempo utilizado los (sic) programas mensuales de los partidos, mientras que el tiempo que aún no haya sido utilizado corresponderá a promocionales de los partidos políticos, En todo caso, la distribución de los tiempos de partidos políticos y autoridades electorales, incluyendo los programas mensuales de cinco minutos, se aplicará conforme a la pauta que en los términos de este párrafo apruebe el Instituto.
 
 3. En los días en que se transmita el programa mensual, el Instituto dispondrá en exclusiva, para sus propios fines y los de otras autoridades electorales, del tiempo restante en las estaciones de radio y canales de televisión; en tales fechas, al resto de los partidos políticos no les será asignado tiempo en radio y televisión.
 
@@ -1264,3 +1266,21 @@ El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General c
 D.O.F. 12 DE FEBRERO DE 2009.
 
 EL ACUERDO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 1 DE OCTUBRE DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se reforma el párrafo 2 del artículo 9 del Reglamento de Acceso a Radio y Televisión en Materia Electoral, para quedar en los términos siguientes:
+
+""En el caso de los permisionarios de radio y televisión, en los días en que se transmita el programa mensual de un partido político, no les serán asignados tiempos al resto de los partidos ni a las autoridades electorales. En los días restantes de la semana, se destinará a las autoridades electorales el tiempo necesario para igualar el tiempo utilizado los programas mensuales de los partidos, mientras que el tiempo que aún no haya sido utilizado corresponderá a promocionales de los partidos políticos, En todo caso, la distribución de los tiempos de partidos políticos y autoridades electorales, incluyendo los programas mensuales de cinco minutos, se aplicará conforme a la pauta que en los términos de este párrafo apruebe el Instituto."
+
+...
+
+TERCERO. El presente Acuerdo entrará en vigor a partir del día siguiente a su aprobación.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+QUINTO. Comuníquese el presente Acuerdo al Comité de Radio y Televisión y a la Junta General Ejecutiva, para los efectos legales a que haya lugar.
+
+SEXTO. Comuníquese el presente Acuerdo a la Dirección General de Radio, Televisión y Cinematografía de la Secretaría de Gobernación; a la Cámara Nacional de la Industria de la Radio y la Televisión; al Sistema de Radiodifusoras Culturales Indigenistas; y a la Red de Radiodifusoras y Televisoras Educativas y Culturales de México, A.C., para los efectos legales a que haya lugar.
