@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-suprema-corte-de-justicia-de-la-60269
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-01"
-last_updated: "2008-04-01"
+last_updated: "2009-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60269&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-11"
 
 REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de abril de 2008.
 
@@ -143,11 +143,17 @@ Los titulares de la Secretaría General de la Presidencia, la Oficialía Mayor, 
 
 Las reformas y adiciones al presente Reglamento Interior se ajustarán al siguiente procedimiento:
 
-I. Toda iniciativa de reforma o adición deberá presentarse ante el Comité de Acuerdos y Reglamentos;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
-II. El Comité de Acuerdos y Reglamentos elaborará el dictamen correspondiente, para lo cual podrá solicitar la opinión de los Titulares de las unidades administrativas relacionadas con la materia de la iniciativa, quienes remitirán por escrito su opinión a dicho Comité en un plazo no mayor a diez días hábiles, contados a partir del día siguiente al en que hayan recibido la solicitud respectiva;
+I. Toda iniciativa de reforma o adición deberá presentarse ante el Comité de Reglamentos, Acuerdos y Programación de Asuntos;
 
-III. La iniciativa, acompañada del dictamen elaborado por el Comité de Acuerdos y Reglamentos, se someterá a la consideración del Pleno para su discusión y, en su caso, aprobación por la mayoría de sus integrantes;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+II. El Comité de Reglamentos, Acuerdos y Programación de Asuntos elaborará el dictamen correspondiente, para lo cual podrá solicitar la opinión de los Titulares de las unidades administrativas relacionadas con la materia de la iniciativa, quienes remitirán por escrito su opinión a dicho Comité en un plazo no mayor a diez días hábiles, contados a partir del día siguiente al en que hayan recibido la solicitud respectiva;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+III. La iniciativa, acompañada del dictamen elaborado por el Comité de Reglamentos, Acuerdos y Programación de Asuntos, se someterá a la consideración del Pleno para su discusión y, en su caso, aprobación por la mayoría de sus integrantes;
 
 IV. Aprobadas las reformas o adiciones, el Pleno ordenará la publicación íntegra del Reglamento Interior en el Semanario Judicial, así como en el Diario Oficial, y
 
@@ -249,9 +255,11 @@ IX. En la toma de protesta de Magistrados de Circuito y Jueces de Distrito, y
 
 X. Todas aquellas que el Pleno considere que deben tener tal carácter.
 
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 12.
 
-Las sesiones se desarrollarán de conformidad con el orden del día o las listas elaboradas por la Secretaría General, atendiendo a las instrucciones del Presidente o del Comité de Programación y Agilización de Asuntos.
+Las sesiones se desarrollarán de conformidad con el orden del día o las listas elaboradas por la Secretaría General, atendiendo a las instrucciones del Presidente o del Comité de Reglamentos, Acuerdos y Programación de Asuntos.
 
 ###### Artículo 13.
 
@@ -321,9 +329,11 @@ Bastará con que un Ministro lo solicite para que se aplacen uno o más asuntos,
 
 Los Ministros podrán someter a la consideración del Pleno la emisión de cualquier Acuerdo General o Reglamento relacionado con las materias de su competencia, así como la modificación o revocación de los ya emitidos o de los que se emitan.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 21.
 
-Todo proyecto de Acuerdo General Plenario o de Reglamento deberá remitirse al Comité de Acuerdos y Reglamentos, el que una vez aprobado lo someterá a la consideración del Pleno.
+Todo proyecto de Acuerdo General Plenario o de Reglamento deberá remitirse al Comité de Reglamentos, Acuerdos y Programación de Asuntos, el que una vez aprobado lo someterá a la consideración del Pleno.
 
 Al proyecto deberá acompañarse exposición de motivos o puntos considerativos en los cuales se destaquen las disposiciones y las circunstancias de mayor relevancia que justifican su expedición, modificación o revocación, así como los aspectos más destacados de su contenido.
 
@@ -725,7 +735,9 @@ La Secretaría General tendrá las siguientes atribuciones:
 
 I. Recibir, registrar, controlar y llevar el seguimiento de los expedientes de los asuntos y proyectos que envían los Ministros para ser listados para la sesión de Pleno correspondiente, así como vigilar que los proyectos referidos cumplan con los requisitos que establece este Reglamento Interior;
 
-II. Integrar las listas con las cuentas aprobadas por el Comité de Programación y Agilización de Asuntos;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+II. Integrar las listas con las cuentas aprobadas por el Comité de Reglamentos, Acuerdos y Programación de Asuntos;
 
 III. Elaborar y distribuir las listas informativas y las listas informativas programadas para verse en las sesiones; las listas oficiales ordinarias y extraordinarias para informar la vista de los asuntos en sesiones públicas; las listas oficiales ordinarias y extraordinarias de sesiones públicas para informar sobre el sentido de las resoluciones; las listas oficiales para interrumpir la caducidad en los asuntos que se encuentran en la Secretaría General pendientes de resolución y las constancias correspondientes; las listas de asuntos aplazados, y el calendario de las listas ordinarias y extraordinarias, conforme a los criterios definidos por el Comité correspondiente;
 
@@ -757,7 +769,9 @@ XVI. Ingresar a la Red Jurídica las ejecutorias del Pleno, los votos particular
 
 XVII. Archivar en medios electrónicos los votos particulares;
 
-XVIII. Elaborar y remitir a los Ministros todos los informes y los datos estadísticos que disponga el Comité de Programación y Agilización de Asuntos;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+XVIII. Elaborar y remitir a los Ministros todos los informes y los datos estadísticos que disponga el Comité de Reglamentos, Acuerdos y Programación de Asuntos;
 
 XIX. Elaborar proyectos de acuerdos, cuando así lo determine el Pleno o alguno de los Comités;
 
@@ -801,7 +815,9 @@ VI. Certificar los acuerdos y las tesis aisladas y jurisprudenciales emitidas po
 
 VII. Coordinar y supervisar el desahogo y, en su caso, cumplimiento de los acuerdos emitidos por el Pleno, los Comités o el Presidente;
 
-VIII. Asistir a las sesiones de los Comités de Acuerdos y Reglamentos, y de Programación y Agilización de Asuntos;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+VIII. Asistir a las sesiones del Comité de Reglamentos, Acuerdos y Programación de Asuntos;
 
 IX. Recibir en su domicilio las promociones de término dirigidas al Pleno que se presenten fuera del horario de labores de la Oficina de Certificación Judicial y Correspondencia de la Suprema Corte;
 
@@ -1001,7 +1017,9 @@ V. Expedir certificaciones de los datos capturados en la Red Jurídica;
 
 VI. Proporcionar, previa autorización del Subsecretario General de Acuerdos, la información estadística que solicite la Dirección General de Difusión;
 
-VII. Recabar y difundir, en los términos en que lo disponga el Comité de Programación y Agilización de Asuntos, los datos estadísticos relativos a los asuntos de la competencia originaria de la Suprema Corte, fallados por el Pleno y las Salas o por los Tribunales Colegiados;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+VII. Recabar y difundir, en los términos en que lo disponga el Comité de Reglamentos, Acuerdos y Programación de Asuntos, los datos estadísticos relativos a los asuntos de la competencia originaria de la Suprema Corte, fallados por el Pleno y las Salas o por los Tribunales Colegiados;
 
 VIII. Elaborar los informes y datos estadísticos que soliciten los Ministros;
 
@@ -1265,9 +1283,11 @@ Para tal fin, la Subsecretaría General contará con personal encargado de la al
 
 Para este efecto, se considerará que un asunto estadísticamente está vigente hasta el momento de su resolución, sin considerar trámites posteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 105.
 
-La Subsecretaría General generará reportes estadísticos de forma cotidiana, semanal, mensual y anual, haciéndose el desglose respectivo por Ponencias, así como entre asuntos radicados en Pleno y en Salas, de conformidad con lo aprobado por el Comité de Programación y Agilización de Asuntos.
+La Subsecretaría General generará reportes estadísticos de forma cotidiana, semanal, mensual y anual, haciéndose el desglose respectivo por Ponencias, así como entre asuntos radicados en Pleno y en Salas, de conformidad con lo aprobado por el Comité de Reglamentos, Acuerdos y Programación de Asuntos.
 
 Con independencia de lo anterior, la Secretaría General y las Secretarías de Acuerdos elaborarán y rendirán los reportes estadísticos o resúmenes informativos, en los términos y con la periodicidad que se determine por el Pleno o las Salas.
 
@@ -1295,25 +1315,29 @@ Los Ministros de nueva designación, formarán parte de los Comités a los que p
 
 Lo anterior, con independencia de que, ante la ausencia temporal o permanente de algún Ministro, el Pleno nombre a quien interinamente deba sustituirlo.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL INSTRUMENTO NORMATIVO, PUBLICADO EN EL D.O.F. DE 1 DE OCTUBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PASANDO DE OCHO FRACCIONES A CINCO.]</small>
+
 ###### Artículo 109.
 
 El Pleno contará con los siguientes Comités ordinarios:
 
 I. Gobierno y Administración;
 
-II. Programación y Agilización de Asuntos;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
-III. Acuerdos y Reglamentos;
+II. Reglamentos, Acuerdos y Programación de Asuntos;
 
-IV. Archivo, Biblioteca e Informática;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
-V. Desarrollo Humano, Salud y Acción Social;
+III. Archivo, Biblioteca e Informática;
 
-VI. Relaciones Públicas Nacionales e Internacionales;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
-VII. Publicaciones y Promoción Educativa, y
+IV. Desarrollo Humano, Salud, Acción Social y Promoción Educativa; y
 
-VIII. Comunicación Social y Difusión.
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+V. Publicaciones, Comunicación Social, Difusión y Relaciones Institucionales.
 
 ###### Artículo 110.
 
@@ -1327,41 +1351,43 @@ III. Atender todos los asuntos y programas relacionados con la administración d
 
 IV. Definir los informes periódicos que deben rendir los órganos de apoyo administrativo, de apoyo jurídico y de control y fiscalización de este Alto Tribunal, su periodicidad y ante qué diverso órgano se presentarán.
 
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 111.
 
-El Comité de Programación y Agilización de Asuntos tendrá las siguientes atribuciones:
+El Comité de Reglamentos, Acuerdos y Programación de Asuntos tendrá las siguientes atribuciones:
 
-I. Evaluar y aprobar las proposiciones que realice la Secretaría General relativas a las listas informativas y las listas oficiales de los asuntos del conocimiento del Pleno y, en su caso, autorizar las modificaciones que se estimen pertinentes;
+I. Preparar los proyectos de Reglamentos y Acuerdos Generales que se estimen necesarios para someterlos al Pleno;
 
-II. Vigilar que los proyectos de sentencia del Pleno se listen en los términos de los acuerdos respectivos, procurando que se observen los plazos legales;
+II. Formular, en los casos en que se considere procedente, proyectos de reforma o adiciones al presente Reglamento Interior, a fin de ajustar su contenido a los acuerdos a que se refiere la fracción IV de este artículo, así como dictaminar las iniciativas que se presenten por otras instancias, en términos de lo dispuesto en los artículos 5o. y 6o. de este ordenamiento;
 
-III. Vigilar que los proyectos se distribuyan con la anticipación suficiente para permitir su debido estudio por parte de los Ministros;
+III. Revisar los proyectos de Acuerdos Generales Plenarios y de Administración, a fin de armonizarlos para mantener coherencia, previamente a su aprobación por parte del Pleno o del Comité correspondiente, de conformidad con los artículos 21 y 23 del presente Reglamento Interior;
 
-IV. Vigilar el control estadístico de los asuntos que ingresen al Pleno, así como de su tramitación y resolución;
+IV. Recopilar los acuerdos vigentes relacionados con la función jurisdiccional y con la administración de la Suprema Corte;
 
-V. Ordenar, cuando menos trimestralmente, una revisión del inventario físico de los expedientes radicados en el Pleno, a fin de constatar la fidelidad de las estadísticas, sujetándose al procedimiento que determine el propio Comité para tales efectos;
+V. Elaborar una síntesis de los acuerdos vigentes que se difundirá entre aquellos que deban darles cumplimiento;
 
-VI. Informar semanalmente, por conducto de la Subsecretaría General, a los integrantes del Pleno sobre los datos correspondientes a cada una de las Ponencias, destacándose los asuntos que puedan ser considerados como rezagados, así como aquellos en los que se haya excedido el plazo para su engrose, y
+VI. Aprobar los manuales de organización y procedimientos de la Secretaría General, la Subsecretaría General y la Contraloría;
 
-VII. Adoptar las medidas pertinentes para que los acuerdos tomados por el Pleno sobre el despacho de asuntos y presentación de proyectos se cumplan.
+VII. Evaluar y aprobar las proposiciones que realice la Secretaría General relativas a las listas provisionales y la lista oficial de los asuntos del conocimiento del Pleno y, en su caso, autorizar las modificaciones que se estimen pertinentes;
 
-En las sesiones del Comité de Programación y Agilización de Asuntos, estarán presentes el Secretario General de Acuerdos y el Subsecretario General de Acuerdos, así como los demás servidores públicos cuya asistencia requiera el Comité para el desahogo de los asuntos a su cargo.
+VIII. Vigilar que los proyectos de sentencia del Pleno se listen en los términos de los acuerdos respectivos, procurando que se observen los plazos legales;
+
+IX. Vigilar que los proyectos se distribuyan con la anticipación suficiente para permitir su debido estudio por parte de los Ministros;
+
+X. Vigilar el control estadístico de los asuntos que ingresen al Pleno, así como de su tramitación y resolución;
+
+XI. Ordenar, cuando menos trimestralmente, una revisión del inventario físico de los expedientes radicados en el Pleno, a fin de constatar la fidelidad de las estadísticas, sujetándose al procedimiento que determine el propio Comité para tales efectos;
+
+XII. Informar semanalmente, por conducto de la Subsecretaría General, a los integrantes del Pleno sobre los datos correspondientes a cada una de las Ponencias, destacándose los asuntos que puedan ser considerados como rezagados, así como aquellos en los que se haya excedido el plazo para su engrose; y
+
+XIII. Adoptar las medidas pertinentes para que los acuerdos tomados por el Pleno sobre el despacho de asuntos y presentación de proyectos se cumplan.
+
+En las sesiones del Comité de Reglamentos, Acuerdos y Programación de Asuntos estarán presentes el Secretario General de Acuerdos y el Subsecretario General de Acuerdos, así como los demás servidores públicos cuya asistencia requiera el Comité para el desahogo de los asuntos a su cargo.
 
 ###### Artículo 112.
 
-El Comité de Acuerdos y Reglamentos tendrá las siguientes atribuciones:
-
-I. Recopilar los acuerdos vigentes relacionados con la función jurisdiccional y con la administración de la Suprema Corte;
-
-II. Elaborar una síntesis de los acuerdos vigentes que se difundirá entre aquellos que deban darles cumplimiento;
-
-III. Preparar los proyectos de reglamentos y Acuerdos Generales que se estimen necesarios para someterlos al Pleno;
-
-IV. Formular, en los casos en que se considere procedente, proyectos de reforma o adiciones al presente Reglamento Interior, a fin de ajustar su contenido a los acuerdos a que se refiere la fracción I de este artículo, así como dictaminar las iniciativas que se presenten por otras instancias, en términos de lo dispuesto en los artículos 5o. y 6o. de este ordenamiento;
-
-V. Revisar los proyectos de Acuerdos Generales Plenarios y de Administración, a fin de armonizarlos para mantener coherencia, previamente a su aprobación por parte del Pleno o del Comité correspondiente, de conformidad con los artículos 21 y 23 del presente Reglamento Interior, y
-
-VI. Aprobar los manuales de organización y procedimientos de la Secretaría General, la Subsecretaría General y la Contraloría.
+(DEROGADO, D.O.F. 1 DE OCTUBRE DE 2009)
 
 ###### Artículo 113.
 
@@ -1381,49 +1407,55 @@ VI. Aprobar y supervisar los programas relativos a la recopilación y sistematiz
 
 VII. Autorizar las políticas y los mecanismos en materia de tecnología de la información, de manera que contribuyan eficazmente a las labores jurídicas y administrativas de la Suprema Corte.
 
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 114.
 
-El Comité de Desarrollo Humano, Salud y Acción Social autorizará los programas de desarrollo humano del personal de la Suprema Corte, de sus cónyuges y sus familiares en primer grado, así como de los jubilados inscritos en el padrón respectivo, atendiendo integralmente sus derechos y obligaciones en materia de capacitación, educación, cultura, salud y recreación.
+El Comité de Desarrollo Humano, Salud, Acción Social y Promoción Educativa tendrá las siguientes atribuciones:
+
+I. Autorizar los programas de desarrollo humano del personal de la Suprema Corte, de sus cónyuges y sus familiares en primer grado, así como de los jubilados inscritos en el padrón respectivo, atendiendo integralmente sus derechos y obligaciones en materia de capacitación, educación, cultura, salud y recreación;
+
+II. Autorizar y vigilar el programa de actividades culturales, jurídicas y de difusión de las Casas de la Cultura Jurídica, así como los eventos que éstas realizan; y
+
+III. Apoyar la formación del personal mediante el establecimiento de becas y apoyos educativos, así como fomentar y autorizar el Plan de Carrera para los Servidores Públicos de la Suprema Corte.
 
 ###### Artículo 115.
 
-El Comité de Relaciones Públicas Nacionales e Internacionales tendrá las siguientes atribuciones:
-
-I. Establecer los programas que fortalezcan la presencia de la Suprema Corte, tanto en el ámbito nacional como en el internacional, fomentando las relaciones de apoyo con grupos del sector público y del privado;
-
-II. Establecer las políticas en materia de relaciones de colaboración con instituciones del Poder Judicial, de otros Poderes tanto federales como locales, de las pertenecientes a otros países, organizaciones internacionales, instituciones académicas y barras o colegios de abogados nacionales o extranjeros, y
-
-III. Encomendar el trámite y seguimiento a la Dirección General de Relaciones Públicas Nacionales e Internacionales de aquellos asuntos en la materia de su competencia que expresamente se le confieran.
+(DEROGADO, D.O.F. 1 DE OCTUBRE DE 2009)
 
 ###### Artículo 116.
 
-El Comité de Publicaciones y Promoción Educativa tendrá las siguientes atribuciones:
+(DEROGADO, D.O.F. 1 DE OCTUBRE DE 2009)
+
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 117.
+
+El Comité de Publicaciones, Comunicación Social, Difusión y Relaciones Institucionales tendrá las siguientes atribuciones:
 
 I. Vigilar la oportuna publicación y difusión del Semanario Judicial y de las obras y trabajos que sean publicados por la Suprema Corte, a fin de que puedan ser conocidos por el público en general;
 
 II. Supervisar y aprobar las actividades relativas al análisis de los criterios jurídicos relevantes generados por los Ministros en las sesiones del Pleno y de las Salas;
 
-III. Autorizar y vigilar el programa de actividades culturales, jurídicas y de difusión de las Casas de la Cultura Jurídica, así como los eventos que éstas realizan, y
+III. Establecer y vigilar las políticas de difusión de la Suprema Corte, a fin de promover la cultura jurisdiccional en la opinión pública;
 
-IV. Apoyar la formación del personal mediante el establecimiento de becas y apoyos educativos, así como fomentar y autorizar el Plan de Carrera para los Servidores Públicos de la Suprema Corte.
+IV. Velar por la transparencia y fidelidad de la información y de los boletines de prensa que se proporcionen a los medios de comunicación;
 
-###### Artículo 117.
+V. Intervenir en la preparación de los proyectos de boletines de prensa para presentar al Pleno, ya sea por la importancia de algunos asuntos y por las resoluciones del mismo o por algún otro motivo;
 
-El Comité de Comunicación Social y Difusión tendrá las siguientes atribuciones:
+VI. Organizar y convocar periódicamente a eventos que contribuyan a incrementar la cultura jurídica de los comunicadores, así como su conocimiento sobre la Suprema Corte;
 
-I. Establecer y vigilar las políticas de difusión de la Suprema Corte, a fin de promover la cultura jurisdiccional en la opinión pública;
+VII. Coordinar las actividades del Canal Judicial;
 
-II. Velar por la transparencia y fidelidad de la información y de los boletines de prensa que se proporcionen a los medios de comunicación;
+VIII. Cuidar que los criterios establecidos por el Pleno en esta materia se cumplan;
 
-III. Intervenir en la preparación de los proyectos de boletines de prensa para presentar al Pleno, ya sea por la importancia de algunos asuntos y por las resoluciones del mismo o por algún otro motivo;
+IX. Aprobar y participar en la elaboración de las publicaciones internas que realice la Suprema Corte, tanto en formato impreso como por cualquier otro medio, aun en coordinación con otros órganos del Poder Judicial, conforme a las políticas de comunicación y difusión establecidas;
 
-IV. Organizar y convocar periódicamente a eventos que contribuyan a incrementar la cultura jurídica de los comunicadores, así como su conocimiento sobre la Suprema Corte;
+X. Establecer los programas que fortalezcan la presencia de la Suprema Corte, tanto en el ámbito nacional como en el internacional, fomentando las relaciones de apoyo con grupos del sector público y del privado;
 
-V. Coordinar las actividades del Canal Judicial;
+XI. Establecer las políticas en materia de relaciones de colaboración con instituciones del Poder Judicial, de otros Poderes tanto federales como locales, de las pertenecientes a otros países, organizaciones internacionales, instituciones académicas y barras o colegios de abogados nacionales o extranjeros; y
 
-VI. Cuidar que los criterios establecidos por el Pleno en esta materia se cumplan, y
-
-VII. Aprobar y participar en la elaboración de las publicaciones internas que realice la Suprema Corte, tanto en formato impreso como por cualquier otro medio, aun en coordinación con otros órganos del Poder Judicial, conforme a las políticas de comunicación y difusión establecidas.
+XII. Encomendar a la Dirección General de Relaciones Públicas Nacionales e Internacionales el trámite y seguimiento de asuntos en materia de relaciones institucionales.
 
 ###### Artículo 118.
 
@@ -1477,7 +1509,9 @@ XIV. Las demás que le confieran las disposiciones de observancia general aplica
 
 Los Comités ordinarios funcionarán de la siguiente forma:
 
-I. Se reunirán cuando menos una vez al mes, conforme a la calendarización que haga la Secretaría de Seguimiento de Comités, la cual deberá someterse a consideración del Pleno a más tardar en el mes de diciembre de cada año, o bien a convocatoria oportuna del Presidente;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+I. Se reunirán por regla general una vez al mes, conforme a la calendarización que realice la Secretaría de Seguimiento de Comités, la cual se someterá a consideración del Pleno a más tardar en el mes de diciembre de cada año o bien a convocatoria oportuna del Presidente;
 
 II. Las sesiones se celebrarán con la presencia de al menos dos de sus miembros; si el ausente fuese el Presidente, se tomarán decisiones condicionadas en cuanto a su ejecución, de manera que cuando disienta de ellas, se replanteen en la siguiente sesión a la que asista;
 
@@ -1485,31 +1519,31 @@ III. Para la aprobación de los acuerdos se requerirá mayoría;
 
 IV. Cuando un Comité o alguno de los Ministros considere que el Pleno debe ser el que tome una decisión, el Comité respectivo elaborará un dictamen que se distribuirá oportunamente entre los Ministros.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL INSTRUMENTO NORMATIVO, PUBLICADO EN EL D.O.F. DE 1 DE OCTUBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PASANDO DE OCHO FRACCIONES A CINCO.]</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 123.
 
-En materia de creación de plazas, nombramientos, bajas de los trabajadores de confianza y otorgamiento de licencias con goce de sueldo o cualquier licencia mayor a seis meses, que no corresponda acordar a la Secretaría General de la Presidencia y/o a la Oficialía Mayor, los órganos de apoyo administrativo, los órganos jurídicos de apoyo y el órgano de control y fiscalización de la Suprema Corte estarán vinculados a los Comités, en los términos siguientes:
+En materia de creación de plazas, nombramientos y otorgamiento de licencias con goce de sueldo o cualquier licencia mayor a seis meses, que no corresponda acordar a la Secretaría General de la Presidencia y/o a la Oficialía Mayor, los órganos de apoyo administrativo, los órganos jurídicos de apoyo y el órgano de control y fiscalización de la Suprema Corte estarán vinculados a los Comités, en los términos siguientes:
 
 I. El Comité de Gobierno y Administración respecto de la Secretaría General de la Presidencia y Oficialía Mayor, las Secretarías Ejecutivas de Asuntos Jurídicos, de Servicios y de Administración, la Contraloría, la Coordinación de Asesores de la Presidencia y las Direcciones Generales de Atención y Servicio, de la Tesorería, de Presupuesto y Contabilidad, de Adquisiciones y Servicios, y de Obras y Mantenimiento;
 
-II. El Comité de Acuerdos y Reglamentos respecto del personal de la Secretaría General;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
-III. El Comité de Programación y Agilización de Asuntos respecto de la Subsecretaría General;
+II. El Comité de Reglamentos, Acuerdos y Programación de Asuntos respecto del personal de la Secretaría General y de la Subsecretaría General;
 
-IV. El Comité de Comunicación Social y Difusión respecto de las Direcciones Generales de Comunicación Social y de Difusión;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
-V. El Comité de Relaciones Públicas, Nacionales e Internacionales respecto de las Direcciones Generales de Planeación de lo Jurídico y de Relaciones Públicas Nacionales e Internacionales;
+III. El Comité de Publicaciones, Comunicación Social, Difusión y Relaciones Institucionales respecto de las Direcciones Generales de la Coordinación de Compilación y Sistematización de Tesis, de Comunicación Social, de Difusión, del Canal Judicial, de Planeación de lo Jurídico y de Relaciones Públicas Nacionales e Internacionales;
 
-> <small>(F. DE E., D.O.F. 11 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
-VI. El Comité de Desarrollo Humano, Salud y Acción Social respecto de las Direcciones Generales de Personal y de Desarrollo Humano y Acción Social;
+IV. El Comité de Desarrollo Humano, Salud, Acción Social y Promoción Educativa respecto de la Secretaría Ejecutiva Jurídico Administrativa y de las Direcciones Generales de Personal y de Desarrollo Humano y Acción Social; y
 
-(ADICIONADA [N. DE E. REFORMADA], D.O.F. 11 DE JUNIO DE 2008) (F. DE E., D.O.F. 11 DE JUNIO DE 2008)
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
-VII. El Comité de Publicaciones y Promoción Educativa respecto de la Secretaría Ejecutiva Jurídico Administrativa y la Dirección General de la Coordinación de Compilación y Sistematización de Tesis, y
-
-(ADICIONADA, D.O.F. 11 DE JUNIO DE 2008) (F. DE E., D.O.F. 11 DE JUNIO DE 2008)
-
-VIII. El Comité de Archivo, Biblioteca e Informática respecto de las Direcciones Generales de Informática, del Centro de Documentación, Análisis, Archivos y Compilación de Leyes, así como de Casas de la Cultura Jurídica y Estudios Históricos.
+V. El Comité de Archivo, Biblioteca e Informática respecto de las Direcciones Generales de Informática, del Centro de Documentación, Análisis, Archivos y Compilación de Leyes, así como de Casas de la Cultura Jurídica y Estudios Históricos.
 
 La aprobación de los Programas Anuales de Trabajo de las Direcciones Generales de este Alto Tribunal, serán competencia de los Comités antes enumerados respecto de las direcciones que están vinculadas a ellos.
 
@@ -1699,7 +1733,9 @@ La Dirección General de Personal tendrá las siguientes atribuciones:
 
 I. Proponer, dirigir y coordinar los criterios técnicos en materia de reclutamiento y selección de personal, nombramientos, contratación y ocupación de plazas, movimientos en el cargo, remuneraciones, relaciones laborales, control y resguardo de los expedientes personales de plaza, el programa de servicio social y de seguridad e higiene en el trabajo, los seguros de personas; las prestaciones complementarias y aquellas prestaciones que le corresponda otorgar a esa Dirección General;
 
-II. Proponer a los Comités de Gobierno y Administración, y de Desarrollo Humano, Salud y Acción Social, en el ámbito de sus respectivas competencias, la política y los programas de actividades de planeación, coordinación, administración y evaluación del personal de la Suprema Corte, así como de las prestaciones y servicio social;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+II. Proponer a los Comités de Gobierno y Administración, y de Desarrollo Humano, Salud, Acción Social y Promoción Educativa, en el ámbito de sus respectivas competencias, la política y los programas de actividades de planeación, coordinación, administración y evaluación del personal de la Suprema Corte, así como de las prestaciones y del servicio social;
 
 III. Planificar, coordinar y dirigir los procesos de atención primaria al personal de nuevo ingreso y reingreso, así como el de recepción y archivo de documentación diversa relacionada con el ejercicio de las funciones de la Dirección General;
 
@@ -1907,9 +1943,15 @@ VI. Llevar el control administrativo de las asignaciones presupuestales a su car
 
 VII. Ejecutar y actualizar los mecanismos de seguridad informática y vigilar su adecuado funcionamiento;
 
-VIII. Instrumentar y supervisar el adecuado funcionamiento del sistema de comunicaciones electrónicas de la Suprema Corte, así como llevar a cabo su actualización conforme a las disposiciones generales aplicables; y
+VIII. Instrumentar y supervisar el adecuado funcionamiento del sistema de comunicaciones electrónicas de la Suprema Corte, así como llevar a cabo su actualización conforme a las disposiciones generales aplicables; y (sic)
 
-IX. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por la Secretaría General de la Presidencia y/o la Oficialía Mayor, o la Secretaría Ejecutiva de Servicios.
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+IX. Desarrollar y autorizar los programas informáticos que se utilizan en la Suprema Corte de Justicia de la Nación; y
+
+> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+X. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por la Secretaría General de la Presidencia y/o la Oficialía Mayor, o la Secretaría Ejecutiva de Servicios.
 
 ###### Artículo 141.
 
@@ -1925,7 +1967,9 @@ IV. Producir programas de televisión relacionados con los objetivos y actividad
 
 V. Realizar la cobertura televisiva de eventos que se desarrollen en los distintos órganos del Poder Judicial de la Federación;
 
-VI. Coordinar y supervisar la Carta de Programación, previamente aprobada por el Comité de Comunicación Social, así como sus actualizaciones subsecuentes;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+VI. Coordinar y supervisar la Carta de Programación, previamente aprobada por el Comité de Publicaciones, Comunicación Social, Difusión y Relaciones Institucionales, así como sus actualizaciones subsecuentes;
 
 VII. Producir los promocionales de la programación, así como diversos materiales institucionales;
 
@@ -1963,7 +2007,9 @@ La Dirección General de Atención y Servicio tendrá las siguientes atribucione
 
 I. Gestionar ante los sectores público, social y privado las acciones encaminadas para la atención de los Ministros o de las personas que éstos determinen y que por sus funciones requieran de diversos apoyos ante dichas instituciones;
 
-II. Brindar y coordinar el apoyo logístico en el desempeño de comisiones y traslados a eventos de los Ministros, en actividades de interés para el Poder Judicial de la Federación;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+II. Brindar y coordinar en el ámbito de su competencia, el apoyo logístico en el desempeño de comisiones y traslados a eventos de los Ministros, en actividades de interés para el Poder Judicial de la Federación;
 
 III. Coordinar con las diversas áreas de la Suprema Corte o de los diversos órganos o instituciones públicas o privadas, la realización de las actividades necesarias que permitan brindar el apoyo al desarrollo de la función de los Ministros;
 
@@ -1985,11 +2031,51 @@ XI. Atender telefónicamente peticiones diversas de los Ministros Jubilados, ex-
 
 XII. Realizar actividades auxiliares para la Presidencia;
 
-XIII. Coordinar la operación del programa interno de protección civil y el de seguridad y vigilancia que requieran las unidades administrativas de la Suprema Corte;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
 
-XIV. Brindar eficientemente el servicio de seguridad para los Ministros y demás servidores públicos de la Suprema Corte, resguardando en todo momento el patrimonio de ésta, y
+XIII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Pleno, los Comités, el Presidente o la Secretaría General de la Presidencia y/o la Oficialía Mayor;
 
-XV. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Pleno, los Comités, el Presidente o la Secretaría General de la Presidencia y/o la Oficialía Mayor.
+XIV. (DEROGADA, D.O.F. 1 DE OCTUBRE DE 2009)
+
+XV. (DEROGADA, D.O.F. 1 DE OCTUBRE DE 2009)
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+Artículo 143 bis. La Dirección General de Seguridad tendrá las siguientes atribuciones:
+
+I. Coordinar las acciones que resulten necesarias para brindar seguridad a los señores Ministros y a los servidores públicos de la Suprema Corte dentro de sus instalaciones así como resguardar los bienes muebles e inmuebles de la misma;
+
+II. Planear, elaborar, coordinar, dirigir, ejecutar y evaluar los programas de seguridad y protección civil que requiera la Suprema Corte;
+
+III. Brindar y supervisar los servicios de seguridad en los inmuebles pertenecientes a la Suprema Corte, ubicados en el Distrito Federal, así como en el Centro Archivístico Judicial en Lerma, Estado de México;
+
+IV. Realizar las acciones dirigidas a salvaguardar la integridad y patrimonio de las personas, prevenir la comisión de delitos e infracciones dentro del edificio sede y alterno así como preservar el orden en las instalaciones de la Suprema Corte de Justicia de la Nación;
+
+V. Establecer, coordinar y mantener un sistema riguroso para el control de los ingresos en los módulos de acceso para el control y registro de la identificación oficial de los servidores públicos y usuarios de los servicios que son brindados en la Suprema Corte de Justicia de la Nación, a efecto de evitar posibles disturbios u otras situaciones que impliquen violencia;
+
+VI. Vigilar e inspeccionar de forma sistemática para fines de seguridad, los edificios sede y alterno en todas sus áreas, a efecto de evitar cualquier situación que ponga en peligro el bienestar de los trabajadores de la Suprema Corte de Justicia de la Nación;
+
+VII. Colaborar con los servicios de protección civil en casos de calamidades públicas, situaciones de alto riesgo o desastres por causas naturales;
+
+VIII. Planear, establecer y ejecutar los dispositivos de seguridad que resulten necesarios en diversos eventos y actividades, tanto locales como foráneos, normales y extraordinarios, de interés de la Suprema Corte;
+
+IX. Proponer políticas y estrategias encaminadas a preservar el orden y la seguridad de la Suprema Corte;
+
+X. Coordinar y ejecutar todas las gestiones que resulten necesarias para contar con los equipos y materiales indispensables para el mejor desempeño de las funciones de seguridad;
+
+XI. Establecer y gestionar los programas de capacitación y adiestramiento en materia de seguridad y protección civil, para los servidores públicos de la Suprema Corte cuyas actividades se relacionen con estos temas, fortaleciendo sus habilidades y capacidades;
+
+XII. Coordinar con diversas instituciones de gobierno el flujo de información, para determinar oportunamente si se alterará el orden por actividades políticas o sociales en las inmediaciones de los inmuebles que ocupa en el Distrito Federal la Suprema Corte;
+
+XIII. Coordinar con las diversas autoridades, instituciones y organizaciones de seguridad, protección civil y emergencia, los apoyos que requiera la Suprema Corte, en ejercicio de sus atribuciones;
+
+XIV. Administrar y controlar el uso de los estacionamientos internos de la Suprema Corte, bajo la instrucción de la Secretaría General de la Presidencia;
+
+XV. Proponer continuamente las mejoras que resulten necesarias para brindar un servicio de seguridad eficiente en beneficio de los señores Ministros, servidores públicos e instalaciones de la Suprema Corte;
+
+XVI. Brindar y coordinar, en el ámbito de su competencia, el apoyo logístico en el desempeño de comisiones y traslados a eventos de los Ministros en actividades de interés para el Poder Judicial de la Federación; y
+
+XVII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Pleno, los Comités de Ministros, el Ministro Presidente o la Secretaría General de la Presidencia y/o la Oficialía Mayor.
 
 ## TITULO QUINTO. DE LOS ORGANOS JURIDICOS DE APOYO
 
@@ -2087,7 +2173,9 @@ XIII. Las demás que le confieran las disposiciones de observancia general aplic
 
 La Dirección General de la Coordinación de Compilación y Sistematización de Tesis tendrá las siguientes atribuciones:
 
-I. Publicar el Semanario Judicial con las tesis, ejecutorias y votos emitidos por la Suprema Corte y por los Tribunales Colegiados, así como otros documentos cuya difusión sea ordenada por las instancias competentes, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+I. Publicar en el Semanario Judicial de la Federación y su Gaceta las tesis, ejecutorias y votos emitidos por la Suprema Corte y por los Tribunales Colegiados, así como otros documentos cuya difusión sea ordenada por las instancias competentes, en términos de las disposiciones aplicables y con las notas necesarias y relevantes conforme a la tipología aprobada por la Secretaría General de Acuerdos;
 
 II. Recibir, resguardar, controlar y distribuir oportunamente los ejemplares del Semanario Judicial entre los órganos, instituciones, dependencias y funcionarios destinatarios de dicha publicación;
 
@@ -2107,7 +2195,9 @@ VIII. Proponer y desarrollar cursos de capacitación para el uso y aprovechamien
 
 IX. Recibir, resguardar y controlar las publicaciones editadas por la Suprema Corte, así como proponer su tiraje, las reimpresiones y la regulación de su distribución y venta;
 
-X. Publicar semestralmente en el disco óptico denominado Jurisprudencia y Tesis Aisladas IUS la información contenida en el Sistema de Jurisprudencia y Tesis Aisladas, incluyendo únicamente las notas que aprueben el Pleno o las Salas; y
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+X. Publicar semestralmente bajo su absoluta y exclusiva responsabilidad, en el disco óptico denominado Jurisprudencia y Tesis Aisladas IUS, la información contenida en el Sistema de Jurisprudencia y Tesis Aisladas, conforme al programa informático desarrollado y autorizado por la Dirección General de Informática, incluyendo únicamente las notas necesarias y relevantes atendiendo a la tipología aprobada por la Secretaría General de Acuerdos, y;
 
 XI. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Titular de la Secretaría Ejecutiva Jurídico Administrativa.
 
@@ -2173,7 +2263,9 @@ III. Diseñar diversas directrices institucionales que favorezcan el funcionamie
 
 IV. Coordinar las acciones al interior de la Suprema Corte para el cumplimiento de los compromisos adquiridos en el ámbito nacional e internacional;
 
-V. Establecer y mantener relaciones de colaboración con las áreas encargadas de las relaciones internacionales del Consejo de la Judicatura Federal y del Tribunal Electoral del Poder Judicial de la Federación, previo acuerdo del Pleno y visto bueno del Comité de Relaciones Públicas Nacionales e Internacionales;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+V. Establecer y mantener relaciones de colaboración con las áreas encargadas de las relaciones internacionales del Consejo de la Judicatura Federal y del Tribunal Electoral del Poder Judicial de la Federación, previo acuerdo del Pleno y visto bueno del Comité de Publicaciones, Comunicación Social, Difusión y Relaciones Institucionales;
 
 VI. Planear y organizar las visitas oficiales a los Poderes Judiciales de otros países, así como las que se reciban en esta Suprema Corte;
 
@@ -2361,7 +2453,9 @@ El Instituto de Investigaciones Jurisprudenciales y de Promoción y Difusión de
 
 A) En materia de investigación jurisprudencial:
 
-I. Elaborar investigaciones, estudios y análisis de la Suprema Corte y de los Tribunales Colegiados, en las diversas épocas del Semanario Judicial de la Federación; proponer al Comité de Publicaciones y Promoción Educativa la publicación de obras derivadas del ejercicio de sus atribuciones;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+I. Elaborar investigaciones, estudios y análisis de la Suprema Corte y de los Tribunales Colegiados, en las diversas épocas del Semanario Judicial de la Federación; proponer al Comité de Publicaciones, Comunicación Social, Difusión y Relaciones Institucionales la publicación de obras derivadas del ejercicio de sus atribuciones;
 
 II. Coordinar el desarrollo de foros de diversa naturaleza cuya finalidad sea difundir la importancia de la jurisprudencia, así como los criterios jurisprudenciales de la Suprema Corte y de los Tribunales Colegiados, en los términos de su programa anual de trabajo;
 
@@ -2371,7 +2465,9 @@ IV. Realizar investigaciones sobre criterios sostenidos por los órganos jurispr
 
 V. Realizar estudios comparados sobre la jurisprudencia establecida por los tribunales constitucionales de otras Naciones y la sostenida por este Alto Tribunal;
 
-VI. Elaborar y proponer al Comité de Comunicación Social y Difusión el contenido del programa del Canal Judicial que tenga como finalidad difundir los criterios jurisprudenciales y aislados de este Alto Tribunal;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
+VI. Elaborar y proponer al Comité de Publicaciones, Comunicación Social, Difusión y Relaciones Institucionales el contenido del programa del Canal Judicial que tenga como finalidad difundir los criterios jurisprudenciales y aislados de este Alto Tribunal;
 
 VII. Celebrar convenios de colaboración con instituciones educativas o de investigación relacionados con el ejercicio de sus atribuciones, y,
 
@@ -2487,9 +2583,11 @@ Los nombramientos en las plazas de las Salas serán otorgados por éstas en tér
 
 La baja de los servidores públicos de confianza adscritos a las Salas se decretará conforme lo determinen éstas y serán los Ministros quienes la decretarán respecto del personal que labora directamente en sus Ponencias.
 
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 165.
 
-Tratándose de los servidores públicos de confianza que no pertenezcan a las Salas, su baja se determinará por los Comités de Ministros conforme al procedimiento que al efecto se establezca en el respectivo Acuerdo General de Administración. Cuando alguno de los Comités soliciten la baja de un servidor público de confianza al Comité de Gobierno y Administración y éste resuelva en sentido opuesto aquél podrá solicitar la reconsideración.
+Tratándose de los servidores públicos de confianza que no pertenezcan a las Salas, su baja se sujetará a lo establecido en el respectivo Acuerdo General de Administración.
 
 ###### Artículo 166.
 
@@ -2504,3 +2602,15 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Jud
 TERCERO. Se abroga el Reglamento Interior de la Suprema Corte de Justicia de la Nación, publicado en el Diario Oficial de la Federación de dieciocho de septiembre de dos mil seis.
 
 EL CIUDADANO LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Tribunal Pleno, en su sesión privada que celebró ayer, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia, aprobó las reformas al Reglamento Interior de la Suprema Corte de Justicia de la Nación publicado en el Diario Oficial de la Federación el dieciocho de septiembre de dos mil seis, contenidas en la Iniciativa correspondiente que obra en anexo del acta relativa, así como este documento al que se han incorporado dichas reformas.- México, Distrito Federal, a once de marzo de dos mil ocho.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
+
+D.O.F. 1 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente instrumento normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este instrumento normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 7o. fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Reglamento Interior de la Suprema Corte de Justicia de la Nación en dichos medios electrónicos.
+
+TERCERO. La nueva conformación de los Comités ordinarios de Ministros funcionará a partir de la fecha en que el Tribunal Pleno determine su integración.
+
+CUARTO. A más tardar dentro de los seis meses siguientes a la aprobación de este instrumento normativo la Oficialía Mayor de la Suprema Corte de Justicia de la Nación transferirá a la Dirección General de Informática los recursos humanos y técnicos de la Dirección General de la Coordinación de Compilación y Sistematización de Tesis destinados actualmente para la administración y sistematización de la información contenida en el Sistema de Jurisprudencia y Tesis Aisladas.
