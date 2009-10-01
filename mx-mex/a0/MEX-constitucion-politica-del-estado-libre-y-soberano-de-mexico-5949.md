@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2009-09-30"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2009.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -849,13 +847,9 @@ Para los efectos de esta fracción, se consideran temporales las ausencias que e
 
 XVIII. Conocer y resolver de las solicitudes de destitución de los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Superior de Justicia en términos de la presente Constitución;
 
-> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2009)</small>
 
-XIX. Autorizar al Ejecutivo del Estado para que salga al extranjero.
-
-Lo anterior, será aplicable, tratándose de misiones oficiales.
-
-En aquellos casos que por urgencia el Ejecutivo del Estado requiera salir en misión oficial del territorio nacional, previa justificación, la Junta de Coordinación Política podrá autorizar su salida;
+XIX. Recibir el aviso del Ejecutivo del Estado, cuando salga al extranjero en misiones oficiales;
 
 XX. Nombrar y remover al personal del Poder Legislativo y de sus dependencias en los términos de la Legislación respectiva;
 
@@ -1035,13 +1029,9 @@ III. Recibir la protesta de los servidores públicos que deban rendirla ante la 
 
 IV. Resolver sobre las renuncias, licencias o permisos que competan a la Legislatura;
 
-> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2009)</small>
 
-V. Autorizar al Ejecutivo del Estado para que salga al extranjero.
-
-Lo anterior, será aplicable, tratándose de misiones oficiales.
-
-En aquellos casos que por urgencia el Ejecutivo del Estado requiera salir en misión oficial del territorio nacional, previa justificación, la Junta de Coordinación Política podrá autorizar su salida;
+V. Recibir el aviso del Ejecutivo del Estado cuando salga al extranjero en misiones especiales;
 
 VI. Dictaminar sobre todos los asuntos que queden pendientes de resolución en los recesos, a fin de que continúen sus trámites al abrirse los períodos de sesiones; y
 
@@ -1269,11 +1259,9 @@ XXXIX. Convenir con los municipios, para que el Gobierno del Estado, de manera d
 
 XL. Girar órdenes a la policía preventiva municipal en aquéllos casos en que juzgue como de fuerza mayor o alteración grave del orden público;
 
-> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2009)</small>
 
-XLI. Solicitar por escrito a la Legislatura o en su caso a la Diputación Permanente, con 10 días de anticipación autorización para salir al extranjero, en misiones oficiales, e informar a la misma sobre las acciones realizadas dentro de los 10 días siguientes de su regreso, rindiendo un informe detallado sobre los temas o asuntos abordados durante el viaje, así como los beneficios obtenidos con él.
-
-En aquellos casos que por urgencia el Ejecutivo del Estado requiera salir en misión oficial del territorio nacional, previa justificación, podrá solicitar la autorización a la Junta de Coordinación Política, debiendo a su regreso presentar informe detallado sobre el asunto abordado durante el viaje;
+XLI. Comunicar por escrito, con anticipación a su salida, a la Legislatura o a la Diputación Permanente, señalando los propósitos y objetivos del viaje e informar de las acciones realizadas dentro de los diez días siguientes de su regreso;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE JULIO DE 2007)</small>
 
@@ -3046,3 +3034,9 @@ Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno" del Esta
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 1 DE OCTUBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
