@@ -4,7 +4,7 @@ identifier: "SIN-ley-electoral-del-estado-de-sinaloa-6493"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-06"
-last_updated: "2006-08-07"
+last_updated: "2009-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ELECTORAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de mayo de 1992.
 
@@ -297,15 +297,21 @@ El número de votos que a cada partido político quede, servirá para continuar 
 
 ### CAPÍTULO IV. DE LAS ELECCIONES
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 15.
 
-Las elecciones ordinarias se celebrarán el segundo domingo de octubre del año que corresponda.
+Las elecciones ordinarias se celebrarán el primer domingo de julio del año que corresponda.
 
-El Congreso del Estado convocará a elecciones el primer día del mes de abril del año de la elección.
+El Congreso del Estado convocará a elecciones dentro de la primera quincena del mes de enero del año de la elección.
 
-El proceso electoral ordinario se inicia en el mes de abril del año de la elección a convocatoria del Congreso del Estado y concluye con el dictamen y declaración de validez de la elección de Gobernador. En todo caso, la conclusión se dará una vez que el Tribunal Estatal Electoral haya resuelto el último de los medios de impugnación que se hubieren interpuesto; cuando se tenga constancia de que no se presentó ninguno o hasta en tanto, si es el caso, que el Tribunal Electoral del Poder Judicial de la Federación resuelva la impugnación que se presente.
+El proceso electoral ordinario se inicia con la expedición de la convocatoria y concluye con la declaratoria que el Tribunal Estatal Electoral deberá publicar cuando:
+
+a) El Tribunal constate y certifique que no se presentó ningún medio de impugnación que pudiera tener efectos sobre el resultado de cualquiera de las elecciones;
+
+b) El Tribunal haya resuelto el último de los medios de impugnación que se hubieren interpuesto ante él mismo y que pudiera tener efectos sobre el resultado de cualquiera de las elecciones, siempre y cuando no se interponga contra su resolución alguno de los juicios previstos en la Ley General del Sistema de Medios de Impugnación en Materia Electoral; y,
+
+c) El Tribunal Electoral del Poder Judicial de la Federación hubiera resuelto en definitiva la última de las impugnaciones que ante él se presente, y que pueda tener efectos sobre cualquiera de los resultados electorales.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -360,6 +366,10 @@ IV. Fomentar discusiones sobre cuestiones de interés común y deliberaciones so
 V. Fomentar los principios democráticos en el desarrollo de sus actividades, incluidos en aquellas relativas a los procesos de precampaña electoral; y
 
 VI. Promover la participación de la mujer en los cargos directivos partidarios así como en los cargos de elección popular. En el registro de candidatos a los puestos de elección popular de representación proporcional, tanto para Propietarios como Suplentes, no podrán postular más del setenta por ciento del mismo género.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos, en los términos que expresamente se señala en esta ley.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -867,7 +877,7 @@ c) Determinado el financiamiento que corresponde a cada partido político confor
 
 d) La cantidad que resulte del financiamiento público a cada partido se ajustará conforme a las modificaciones del salario mínimo general diario y de acuerdo a los resultados de la elección ordinaria de Diputados por el principio de representación proporcional;
 
-e) En el año electoral, recibirán adicional, lo correspondiente a medio salario mínimo diario general vigente en el Estado multiplicado por el número total de los ciudadanos inscritos en el padrón electoral conforme a la distribución que se indica en el inciso b) de este apartado, para ser destinado a medios de comunicación, en los términos del Artículo 117 Bis H de esta Ley; y
+e) (DEROGADO, P.O. 1 DE OCTUBRE DE 2009)
 
 f) Determinado el financiamiento público que corresponda a cada partido político, el Consejo Estatal Electoral definirá el calendario de ministraciones mensuales.
 
@@ -893,7 +903,9 @@ C) Del financiamiento privado.
 
 El financiamiento privado se constituye por las aportaciones que las personas físicas o morales, simpatizantes de los partidos políticos, hacen a favor de éstos en efectivo o especie para el desarrollo y fortalecimiento de sus actividades.
 
-El monto total de este financiamiento no excederá el diez por ciento del financiamiento público que les corresponda a los partidos políticos.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+El monto total de este financiamiento no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador.
 
 Las aportaciones que los simpatizantes realicen a favor de los partidos políticos, deberán cumplir los siguientes supuestos:
 
@@ -903,7 +915,9 @@ b) Las aportaciones en especie se harán constar por escrito en contratos celebr
 
 c) Las aportaciones de bienes muebles o inmuebles deberán destinarse única y exclusivamente para el cumplimiento del objetivo del partido político.
 
-Ninguna persona física identificada podrá aportar más del uno por ciento del monto total del financiamiento privado que corresponda a cada partido político.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+Ninguna persona podrá aportar más del uno por ciento del monto total del financiamiento privado que corresponda a cada partido político.
 
 El monto total que por financiamiento privado a través de colectas obtenga un partido político, no podrá ser superior al cinco por ciento del monto total que por ese financiamiento le corresponda.
 
@@ -1003,29 +1017,33 @@ Los Partidos Políticos deberán incorporar a sus informes anuales la comprobaci
 
 ### CAPITULO VIII. DEL ACCESO DE LOS PARTIDOS POLITICOS A LOS MEDIOS DE COMUNICACION SOCIAL
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 46 Bis.
 
-Es derecho exclusivo de los partidos políticos y coaliciones, por conducto del órgano electoral, contratar tiempos en radio, televisión y medios escritos para difundir mensajes orientados a la obtención del voto durante las precampañas y campañas electorales, conforme a las normas y procedimientos contemplados en el presente capítulo. Los candidatos sólo podrán hacer uso de los tiempos que les asigne su partido político o coalición, en su caso.
+Es derecho exclusivo de los partidos políticos y coaliciones, por conducto del órgano electoral, contratar espacios en los medios de comunicación impresos para difundir mensajes orientados a la obtención del voto durante las precampañas y campañas electorales, conforme a las normas y procedimientos contemplados en el presente capítulo. Los candidatos sólo podrán hacer uso de los espacios que les asigne su partido político o coalición, en su caso.
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
+El acceso de los partidos políticos a la radio y la televisión se efectuará de conformidad con lo que establece el apartado B de la base III, del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos. Para tal efecto, el Consejo Estatal Electoral realizará todas las gestiones y celebrará los convenios y demás actos jurídicos tendientes a que el Instituto Federal Electoral, autoridad única para la administración del tiempo que corresponde al Estado en radio y televisión, distribuya los tiempos conforme a los criterios establecidos en la referida base constitucional y en el Código Federal de Instituciones y Procedimientos Electorales.
 
-ARTICULO 46 Bis A.- El órgano electoral realizará las gestiones necesarias con los medios de comunicación, sean impresos radiofónicos o televisivos a efecto de que ofrezcan tarifas iguales a los diferentes partidos políticos y coaliciones que contiendan en el proceso electoral.
+Los partidos políticos no podrán, por sí o mediante terceras personas, contratar o adquirir tiempos en cualquier modalidad de radio y televisión.
 
-El órgano electoral solicitará oportunamente a los concesionarios, permisionarios o propietarios de los medios masivos de comunicación, le proporcionen un catálogo de horarios, tiempos disponibles, tarifas y espacios, para su contratación por los partidos políticos y coaliciones para el periodo señalado para las campañas electorales.
+Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
 
-El órgano electoral no podrá contratar, a nombre de los partidos políticos y coaliciones, espacios y tiempos con tarifas superiores a las de la publicidad comercial.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-El órgano electoral deberá de poner a disposición de los partidos políticos los catálogos, espacios, tiempos disponibles y tarifas, en sesión que celebre con treinta días de anterioridad al inicio de las precampañas y campañas.
+ARTICULO 46 Bis A.- El órgano electoral realizará las gestiones necesarias con los medios de comunicación impresos a efecto de que ofrezcan tarifas iguales a los diferentes partidos políticos y coaliciones que contiendan en el proceso electoral.
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
+El órgano electoral solicitará oportunamente a las empresas de los medios de comunicación impresos, le proporcionen tarifas y espacios, para su contratación por los partidos políticos y coaliciones para el periodo señalado para las campañas electorales.
 
-ARTICULO 46 Bis B.- Los Partidos políticos y coaliciones deberán de comunicar oportunamente por escrito al órgano electoral, de su interés de que por su cuenta se contraten tiempos, horarios y espacios, conforme al catálogo que les fuera proporcionado.
+El órgano electoral no podrá contratar, a nombre de los partidos políticos y coaliciones, espacios con tarifas superiores a las de la publicidad comercial.
 
-Los partidos políticos o coaliciones realizarán exclusivamente por conducto del órgano la contratación respectiva, para lo cual deberán entregar al Consejo Estatal Electoral el monto necesario de recursos económicos para cubrir el costo de los tiempos y espacios cuya contratación solicite, en los plazos y términos que se pacte.
+El órgano electoral deberá de poner a disposición de los partidos políticos los espacios y tarifas, en sesión que celebre con treinta días de anterioridad al inicio de las precampañas y campañas.
 
-En ningún caso el órgano electoral contratará propaganda en radio, televisión y prensa escrita, en favor o en contra de algún partido político, precandidato o candidato por parte de terceros.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 46 Bis B.- Los partidos políticos y coaliciones deberán de comunicar oportunamente por escrito al órgano electoral, de su interés de que por su cuenta se contraten espacios en los medios de comunicación impresos.
+
+Los partidos políticos o coaliciones realizarán exclusivamente por conducto del órgano la contratación respectiva, para lo cual deberán entregar al Consejo Estatal Electoral el monto necesario de recursos económicos para cubrir el costo de los espacios cuya contratación solicite, en los plazos y términos que se pacte.
 
 El órgano electoral no podrá contratar propaganda o publicidad para los partidos políticos en los que se otorguen tratos discriminatorios o privilegiados.
 
@@ -1035,11 +1053,11 @@ ARTICULO 46 Bis C. En la propaganda que contraten los partidos políticos, y coa
 
 Los partidos políticos y coaliciones en la propaganda electoral que difundan a través de los medios masivos de comunicación, evitarán cualquier ofensa, difamación o calumnia que denigre a candidatos, partidos políticos, instituciones y terceros así como también se abstendrán de usar frases similares o alusivas a las utilizadas públicamente por cualquiera de las instancias de gobierno.
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-ARTICULO 46 Bis D.- El órgano electoral realizará monitoreos periódicamente a los medios masivos de comunicación para conocer el espacio y tiempo dedicado a cada partido político, coaliciones y sus candidatos a Gobernador, el resultado de dicho monitoreo será dado a conocer por lo menos una vez al mes, en sesión del órgano electoral.
+ARTICULO 46 Bis D.- El órgano electoral realizará monitoreos periódicamente a los medios de comunicación impresos para conocer el espacio dedicado a cada partido político, coaliciones y sus candidatos a Gobernador, el resultado de dicho monitoreo será dado a conocer por lo menos una vez al mes, en sesión del órgano electoral.
 
-El órgano electoral expedirá el reglamento y los acuerdos respectivos que propicien condiciones de equidad y transparencia para el acceso de los partidos políticos a los medios de comunicación masivos.
+El órgano electoral expedirá el reglamento y los acuerdos respectivos que propicien condiciones de equidad y transparencia para el acceso de los partidos políticos a los medios de comunicación impresos.
 
 ## TITULO CUARTO. DE LAS AUTORIDADES Y ORGANIZACIÓN ELECTORAL
 
@@ -1163,11 +1181,11 @@ Los Consejeros Ciudadanos en el ejercicio de sus funciones, para garantizar su i
 
 Los Consejeros Ciudadanos podrán ser ratificados, recibirán salario durante el proceso electoral y fungirán en Pleno hasta la calificación de las elecciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 53.
 
-El Consejo Estatal Electoral se instalará durante la primera quincena del mes de abril del año de elecciones ordinarias, a partir de esa fecha y hasta la conclusión del proceso el Consejo sesionará por lo menos dos veces al mes.
+El Consejo Estatal Electoral se instalará durante la segunda quincena del mes de enero del año de elecciones ordinarias. A partir de esa fecha y hasta la conclusión del proceso el Consejo sesionará por lo menos dos veces al mes.
 
 Concluido el proceso electoral, el Consejo se reunirá a Convocatoria de su Presidente.
 
@@ -1195,9 +1213,9 @@ I.- Conducir la preparación, desarrollo y vigilancia del proceso electoral y cu
 
 II.- Dictar normas y previsiones destinadas a hacer efectivas las disposiciones de esta Ley;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-III.- Designar durante la segunda quincena del mes de abril del año de la elección, al Presidente y consejeros ciudadanos que integren los Consejos Distritales y a los integrantes de los Consejos Municipales con base en las propuestas de los partidos políticos, organizaciones de la sociedad, instituciones académicas y organismos intermedios reconocidos por la Ley, previa convocatoria que emitirá el Consejo Estatal Electoral;
+III.- Designar durante la primera quincena del mes de febrero del año de la elección, al Presidente y consejeros ciudadanos que integren los Consejos Distritales y a los integrantes de los Consejos Municipales con base en las propuestas de los partidos políticos, organizaciones de la sociedad, instituciones académicas y organismos intermedios reconocidos por la Ley, previa convocatoria que emitirá el Consejo Estatal Electoral;
 
 IV.- Recibir y autorizar el registro de los partidos políticos nacionales, así como determinar la pérdida del Registro;
 
@@ -1245,11 +1263,17 @@ XX.- Aprobar los formatos de la documentación electoral;
 
 XXI.- Celebrar convenios con autoridades federales, estatales y municipales u otras instancias, para el mejor desarrollo del proceso electoral, entre otros:
 
-A.- A efecto de que le sean cedidos los tiempos que la federación disponga para su uso en radio y televisión, para que el propio Consejo los asigne equitativamente a los partidos políticos.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+A. A efecto de que los partidos políticos accedan a la radio y televisión, en los términos del apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
 
 B.- Con los medios impresos de comunicación, la cesión de espacios que pudieran asignarse equitativamente a los partidos políticos en las campañas electorales.
 
 C.- Para que se otorguen franquicias postales y telegráficas a los partidos políticos estatales.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+D. Para que el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales en los términos de esta ley.
 
 XXII.- Resolver, en los términos de esta Ley, el otorgamiento o pérdida del registro de partidos políticos estatales, emitir la declaratoria correspondiente y ordenar su publicación en el Periódico Oficial del Gobierno del Estado;
 
@@ -1275,9 +1299,9 @@ XXVIII.- El Consejo Estatal Electoral, elaborará su propio Reglamento de funcio
 
 XXIX.- Nombrar, a propuesta del Presidente, a los coordinadores de capacitación, organización y administración;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-XXX.- Fijar los topes de campaña a que se deberán sujetar los candidatos y los partidos políticos, previo estudio que le presente su Presidente;
+XXX.- Fijar durante la primera quincena del mes de febrero, los topes de precampaña y campaña a que se deberán sujetar los aspirantes a candidato, los candidatos y los partidos políticos, previo estudio que le presente su Presidente en los términos previstos en la Ley;
 
 > <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
 
@@ -1287,9 +1311,7 @@ XXXI.- Aprobar anualmente el anteproyecto de presupuesto del Consejo que le prop
 
 XXXII.- Conocer y aprobar, en sesión especial, el informe financiero que durante la segunda quincena del mes de febrero, le presente el Presidente, el cual será turnado al Congreso del Estado para los efectos legales que correspondan; y (sic)
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2006)</small>
-
-XXXIII.- Celebrar convenios de proveeduría de servicios de publicidad de propaganda electoral en medios electrónicos e impresos con las compañías de este giro, para las campañas y precampañas electorales;
+XXXIII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 2009)
 
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -1307,9 +1329,9 @@ XXXVI.- Aprobar los lineamientos y bases técnicas de la observación electoral;
 
 XXXVII.- Aprobar lineamientos y organizar los debates públicos o encuentros en los que deseen participar los candidatos registrados;
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-XXXVIII.- Vigilar que las autoridades de la administración pública centralizada y descentralizada, de los gobiernos federal, estatal y municipal no realicen propaganda oficial de acciones de gobierno hasta treinta días antes de la realización de la jornada electoral, y en caso de incumplimiento de lo anterior, denunciarlo ante la autoridad correspondiente en los términos de las leyes aplicables;
+XXXVIII.- Vigilar que las autoridades de la administración pública centralizada y descentralizada, de los gobiernos federal, estatal y municipal no realicen propaganda oficial de acciones de gobierno durante el tiempo de las campañas y hasta el día de la jornada electoral, y en caso de incumplimiento de lo anterior, denunciarlo ante la autoridad correspondiente en los términos de las leyes aplicables;
 
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -1335,9 +1357,15 @@ XLIII.- Difundir y promover por todos los medios, la educación cívica, la cult
 
 XLIV.- Todas las demás que le confieran ésta y otras leyes y disposiciones complementarias.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 57.
 
-El Consejo Estatal Electoral podrá celebrar convenios con el Instituto Federal Electoral, para la aportación recíproca de apoyo, información y documentación en materia electoral.
+El Consejo Estatal Electoral podrá celebrar convenios con el Instituto Federal Electoral, para la aportación recíproca de apoyo, información y documentación en materia electoral; para utilizar en los procesos locales el padrón electoral, el listado nominal y la credencial para votar con fotografía elaborados por el Instituto; para el acceso de los partidos políticos a la radio y la televisión en los términos del apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, y para que se haga cargo de la organización de los procesos electorales locales.
+
+Para que el Consejo Estatal Electoral delegue en el Instituto Federal Electoral su facultad de organizar las elecciones locales, deberá existir causa suficiente que le impida organizarlos por sí mismo; y el acuerdo respectivo deberá tomarse con el voto aprobatorio de por lo menos las dos terceras partes de sus integrantes, entre los que deberá estar el Presidente.
+
+Será obligación del Consejo Estatal Electoral celebrar convenio con el Instituto Federal Electoral, para que la fiscalización de los recursos de los partidos políticos se realice en los términos establecidos en los dos últimos párrafos de la Base V, del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos. En todo caso, cuando el órgano electoral celebre un convenio general de coordinación con el Instituto, éste y los demás rubros mencionados en el párrafo que antecede, deberán constituir capítulos del mismo.
 
 ###### ARTICULO 58.
 
@@ -1375,13 +1403,21 @@ XI.- Remitir al Congreso del Estado, en los términos de ley, el informe financi
 
 XII.- Elaborar anualmente el anteproyecto de presupuesto del Consejo Estatal Electoral y presentarlo al Pleno de dicho Consejo para su aprobación;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-XIII.- Presentar, durante la primer quincena de junio del año de la elección, el estudio para determinar los topes de campaña que regirán durante el proceso correspondiente; y,
+XIII.- Presentar, durante la segunda quincena del mes de enero del año de la elección, el estudio para determinar los topes de precampaña y de campaña que regirán durante el proceso correspondiente;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-XIV.- Las demás que le sean conferidas por el Consejo, esta ley y demás disposiciones complementarias.
+XIV.- Proponer al Pleno la celebración de convenio con el Instituto Federal Electoral, para que éste se haga cargo de los procesos electorales locales;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+XV.- Suscribir en unión del Secretario General todos los convenios y contratos que celebre el Consejo Estatal Electoral, así como todos los acuerdos y resoluciones que se emitan; y
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+XVI.- Las demás que le sean conferidas por el Consejo, esta ley y demás disposiciones legales y reglamentarias.
 
 ###### ARTICULO 59.
 
@@ -1455,11 +1491,11 @@ El Secretario del Consejo será designado por el propio Consejo a propuesta del 
 
 Los Consejeros ciudadanos de los Consejos Distritales deberán reunir los requisitos señalados en el Artículo 52 de esta Ley. Recibirán dieta de asistencia durante el proceso electoral.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 63.
 
-Los Consejos Distritales Electorales se instalarán durante la primer semana de mayo del año en que se celebren las elecciones ordinarias. A partir de su instalación y hasta la conclusión del proceso, sesionarán en forma ordinaria por lo menos dos veces al mes.
+Los Consejos Distritales Electorales se instalarán a más tardar el 23 de febrero del año en que se celebren las elecciones ordinarias. A partir de su instalación y hasta la conclusión del proceso, sesionarán en forma ordinaria por lo menos dos veces al mes.
 
 ###### ARTICULO 64.
 
@@ -1517,9 +1553,13 @@ XV.- Acreditar a los ciudadanos mexicanos, o a la agrupación a la que pertenezc
 
 XVI.- Nombrar al Secretario del Consejo a propuesta del Presidente;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-XVII.- Las demás que les confiera esta ley, el Consejo Estatal y disposiciones complementarias.
+XVII.- Realizar recuentos parciales y totales de votos, durante los cómputos de todas las elecciones que le corresponden, con apego a los procedimientos establecidos en esta ley; y,
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+XVIII.- Las demás que les confiera esta ley, el Consejo Estatal y otras disposiciones legales y reglamentarias.
 
 ###### ARTICULO 66.
 
@@ -1579,11 +1619,11 @@ Por cada representante de los partidos políticos, se nombrará un suplente.
 
 Los Consejeros ciudadanos de los Consejos Municipales, deberán de reunir los requisitos señalados en el Artículo 52 de esta Ley.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 71.
 
-Los Consejos Municipales Electorales se instalarán en la primera quincena del mes de junio del año en que se celebren las elecciones ordinarias, a partir de su instalación y hasta la conclusión del proceso, sesionarán por lo menos dos veces al mes.
+Los Consejos Municipales Electorales se instalarán durante el mes de abril del año en que se celebren las elecciones ordinarias, a partir de su instalación y hasta la conclusión del proceso, sesionarán por lo menos dos veces al mes.
 
 ###### ARTICULO 72.
 
@@ -1619,13 +1659,17 @@ VII.- Enviar a las instancias correspondientes los expedientes electorales cuya 
 
 VIII.- Recibir, sustanciar y remitir al Tribunal Estatal Electoral en la forma y términos que señala esta Ley los recursos que sean interpuestos por los partidos políticos contra sus actos y resoluciones; y (sic),
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-IX.- Nombrar al Secretario del Consejo a propuesta del Presidente; y
+IX.- Nombrar al Secretario del Consejo a propuesta del Presidente;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-X.- Las demás que le confiera esta Ley, el Consejo Estatal y demás disposiciones complementarias.
+X.- Realizar recuentos parciales y totales de votos, durante los cómputos que le corresponden, con apego a los procedimientos establecidos en esta ley; y,
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+XI.- Las demás que les confiera esta ley, el Consejo Estatal y otras disposiciones legales y reglamentarias.
 
 ###### ARTICULO 74.
 
@@ -1739,13 +1783,15 @@ IV.- Las demás que les confiere esta Ley y el Presidente de la casilla.
 
 El procedimiento para integrar las Mesas Directivas será el siguiente:
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-I.- En el mes de junio del año en que deban celebrarse las elecciones, los Consejos Distritales procederán a seleccionar de las listas nominales de electores un diez por ciento de ciudadanos por cada sección electoral. El sorteo se llevara a cabo mediante el procedimiento que, durante el mes de mayo, determine el Consejo Estatal Electoral;
+I.- A más tardar el último día del mes de febrero del año en que deban celebrarse las elecciones, los Consejos Distritales procederán a seleccionar de las listas nominales de electores a un diez por ciento de los ciudadanos por cada sección electoral.
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2006)</small>
+El sorteo se llevará a cabo mediante el procedimiento que, durante la segunda quincena del mes de enero, determine el Consejo Estatal Electoral;
 
-II.- A los ciudadanos sorteados, se les hará una evaluación objetiva y se excluirá a los que no sean elegibles, por su avanzada edad, porque no sepan leer, escribir, contar o que por alguna razón estén impedidos. A los restantes se les dará una capacitación en materia electoral durante el mes de Julio y hasta el día quince del mes de agosto del año de la elección;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+II.- A los ciudadanos sorteados se les hará una evaluación objetiva y se excluirá a los que no sean elegibles por su avanzada edad, porque no sepan leer, escribir, contar o que por alguna razón estén impedidos. A los restantes se les dará una capacitación en materia electoral a partir del 1º de abril y hasta el 7 de mayo del año de la elección;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
@@ -1753,19 +1799,19 @@ III.- Recibida la capacitación, el Consejo Distrital procederá a efectuar una 
 
 A la lista de posibles Presidentes, el Consejo aplicará un nuevo sorteo, que definirá quién será el Presidente de Casilla; de los que resten se elegirán el Secretario y los Escrutadores;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-IV.- Realizada la integración de las mesas directivas de casilla, los Consejos Distritales ordenarán la publicación de su ubicación y de la lista de funcionarios para todas las secciones electorales de cada Distrito, a más tardar el primer domingo de septiembre del año de la elección y las fijarán en los edificios y lugares públicos más concurridos y se publicarán en los diarios de mayor circulación en la entidad;
+IV.- Realizada la integración de las mesas directivas de casilla, los Consejos Distritales ordenarán la publicación de su ubicación y de la lista de funcionarios para todas las secciones electorales de cada Distrito, en los diarios de mayor circulación en la entidad, y las fijarán además en los edificios y lugares públicos más concurridos del distrito, a más tardar el primer domingo de junio del año de la elección;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-V.- Los Consejos Distritales convocarán a los funcionarios de casillas a un curso de capacitación específica sobre el desarrollo de la jornada electoral, que se impartirá a partir del mes de septiembre y se extenderá, de ser necesario hasta un día antes de la jornada electoral;
+V.- Los Consejos Distritales convocarán a los funcionarios de casillas a un curso de capacitación específica sobre el desarrollo de la jornada electoral, que se impartirá a partir de la segunda quincena de mayo y se extenderá, de ser necesario hasta un día antes de la jornada electoral;
 
 VI.- En sucesivas elecciones de acuerdo a la efectividad que los funcionarios de la casilla demuestren y buscando su progresiva profesionalización, el Consejo Electoral podrá volver a convocarlos para el desempeño de comisiones similares;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-VII.- En caso de presentarse impedimentos de los funcionarios u otras causas supervenientes que impidan el cumplimiento de sus responsabilidades, el Consejo acordará lo conducente y ordenará una segunda publicación conteniendo la ubicación e integrantes de mesas directivas de casillas definitivas, a más tardar tres días antes de la elección.
+VII.- En caso de presentarse impedimentos de los funcionarios u otras causas supervenientes que impidan el cumplimiento de sus responsabilidades, el Consejo acordará lo conducente.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -2003,15 +2049,25 @@ Corresponde exclusivamente a los partidos políticos el derecho de solicitar el 
 
 Los plazos y organismos competentes para el registro de las candidaturas, fórmulas, planillas y listas en el año de la elección ordinaria, son las siguientes:
 
-I. Para candidatos a Gobernador del Estado durante la primera quincena del mes de Julio, por el Consejo Estatal Electoral;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-II. Para candidato a Diputado por el sistema de mayoría relativa, durante la segunda quincena de Julio, por los Consejos Distritales correspondientes;
+I. Para candidatos a Gobernador del Estado durante los diez primeros días del mes de mayo del año de la elección, por el Consejo Estatal Electoral;
 
-III. Para las listas de candidatos a Diputados por el principio de representación proporcional durante la primera quincena de Agosto, por el Consejo Estatal Electoral;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-IV. Para las planillas de candidaturas a Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa, durante la segunda quincena de julio, por los Consejos Distritales y Municipales correspondientes; y
+II. Para candidatos a Diputados por el sistema de mayoría relativa, del 11 al 20 de mayo del año de la elección, por los Consejos Distritales correspondientes;
 
-V. Para las listas municipales de candidatos a Regidores que serán electos por el principio de representación proporcional, durante la primera quincena de Agosto, por los Consejos Distritales y Municipales correspondientes.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+III. Para las listas de candidatos a Diputados por el principio de representación proporcional, del 21 al 28 de mayo del año de la elección, por el Consejo Estatal Electoral;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+IV. Para las planillas de candidaturas a Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa, del 11 al 20 de mayo del año de la elección, por los Consejos Distritales y Municipales correspondientes; y,
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+V. Para las listas municipales de candidatos a Regidores que serán electos por el principio de representación proporcional, del 21 al 28 de mayo del año de la elección, por los Consejos Distritales y Municipales correspondientes.
 
 ###### ARTICULO 112.
 
@@ -2047,7 +2103,9 @@ Si de la revisión se advierte que se omitió el cumplimiento de uno o varios re
 
 Cualquier solicitud o documentación presentada fuera de los plazos de registro, será desechada de plano. En su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
 
-Al día siguiente del vencimiento de los plazos a que se refiere el Artículo 111 de esta Ley, el Consejo Estatal y los Consejos Distritales y Municipales celebrarán sesión, cuyo único objeto será resolver, en su ámbito de competencia, sobre las solicitudes de registro recibidas.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+Dentro de los tres días posteriores al vencimiento de los plazos a que se refiere el artículo 111 de esta Ley, el Consejo Estatal y los Consejos Distritales y Municipales celebrarán sesión, cuyo único objeto será resolver, en su ámbito de competencia, sobre las solicitudes de registro recibidas.
 
 Los Consejos Distritales y Municipales comunicarán de inmediato al Consejo Estatal Electoral, el acuerdo relativo al registro de candidaturas que hayan realizado.
 
@@ -2065,7 +2123,9 @@ I.- Dentro del plazo establecido para el registro de candidatos, podrán sustitu
 
 II.- Vencido el plazo a que se refiere la fracción anterior, exclusivamente podrán sustituirse por causas de fallecimiento, inhabilitación, incapacidad o renuncia. La solicitud de sustitución deberá presentarse ante el Consejo Estatal Electoral, que resolverá lo conducente.
 
-No procederá la sustitución por renuncia de los candidatos, cuando la última tenga lugar dentro de los treinta días anteriores al de la elección.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+No procederá la sustitución por renuncia de los candidatos, cuando la última tenga lugar dentro de los veinte días anteriores al de la elección.
 
 Para la corrección o sustitución en su caso, de las boletas electorales se estará a lo dispuesto en el Artículo 137 de esta Ley;
 
@@ -2105,15 +2165,21 @@ III. Propaganda de precampaña electoral: el conjunto de escritos, publicaciones
 
 IV. Aspirante a candidato: los ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su nominación como candidato a un puesto de elección popular.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 117 Bis.
 
-Corresponde a los partidos políticos o coaliciones, autorizar a sus militantes o simpatizantes la realización de actividades proselitistas en busca de su nominación a un puesto de elección popular, de manera previa al evento de postulación o designación de candidatos, conforme a sus estatutos, acuerdos de sus órganos de representación y prescripciones de esta Ley.
+Corresponde a los Partidos Políticos o coaliciones, autorizar a sus militantes o simpatizantes la realización de actividades proselitistas en busca de su nominación a un puesto de elección popular, de manera previa al evento de postulación o designación de candidatos, conforme a sus estatutos, acuerdos de sus órganos de representación y prescripciones de esta ley. Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes Partidos Políticos, salvo que entre ellos medie convenio para participar en coalición.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
 El partido político o coalición deberá informar por escrito al Consejo Estatal Electoral, sobre el inicio de la precampaña electoral dentro de los cinco días anteriores a su inicio, en el que deberá acompañar un informe de los lineamientos o acuerdos, a los que estarán sujetos los aspirantes a candidatos.
 
-Las precampañas electorales no podrán iniciar antes de cuarenta y cinco días naturales del inicio del periodo de registro de la candidatura correspondiente, debiendo concluir a más tardar un día antes al inicio de dicho periodo.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+Las precampañas electorales deberán desarrollarse dentro de los cuarenta y cinco días previos al inicio del período de registro de la candidatura correspondiente; deberán concluir a más tardar el día anterior al inicio de dicho período; y no podrán durar más de las dos terceras partes de las respectivas campañas electorales. El Consejo Estatal Electoral determinará durante la segunda quincena del mes de febrero del año de la elección, la fecha en que podrán iniciarse las precampañas.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
 El partido político o coalición deberá informar al Consejo Estatal Electoral, dentro de los cinco días siguientes, sobre la acreditación de los aspirantes a candidatos, acompañando la siguiente información:
 
@@ -2127,9 +2193,15 @@ IV. Nombre del responsable de la obtención, administración y gasto de los recu
 
 V. Domicilio para oír y recibir notificaciones del aspirante a candidato.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
+
 En caso de que el aspirante a candidato no informe que desea iniciar la precampaña, tanto el Consejo Estatal Electoral como los partidos políticos o coaliciones, podrán reconocer que la precampaña ha dado inicio, una vez que sean públicos y notorios los actos y gastos de precampaña, y podrá ser sujeto a sanciones conforme lo establecido por los estatutos del partido correspondiente y esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
+
 Una vez notificado, el Consejo Estatal Electoral, por conducto de su Comisión correspondiente hará saber al partido y a los aspirantes a candidatos, conforme a la presente Ley, las obligaciones a que quedan sujetos.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
 Los partidos dispondrán lo necesario a fin de que los aspirantes a candidatos sean reconocidos como tales, extendiéndoles las constancias de registro respectivas, si cumple con los requisitos y resulte procedente, conforme a esta Ley, los estatutos y acuerdos del partido.
 
@@ -2189,7 +2261,9 @@ Quedan comprendidos dentro de los topes de gastos de precampaña, los siguientes
 
 I. Los operativos de precampaña, en salarios del personal eventual, honorarios, arrendamiento de bienes muebles e inmuebles, gastos de transporte de personas y de material, viáticos y otros similares;
 
-II. Los de propaganda en prensa, radio y televisión y otros medios electrónicos, anuncios publicitarios, entrevistas, inserciones, programas especiales, y otros similares; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+II. Los de propaganda en medios de comunicación impresos, como anuncios publicitarios, inserciones y otros similares; y,
 
 III. Los destinados con motivo de la contratación de agencias y servicios personales especializados en mercadotecnia y publicidad electoral.
 
@@ -2209,7 +2283,9 @@ III. En el caso de colectas, sólo deberá reportarse en el informe correspondie
 
 IV. Las aportaciones en especie se harán constar por escrito en contratos celebrados conforme a las leyes aplicables; y
 
-V. Las aportaciones en bienes muebles o inmuebles deberán destinarse única y exclusivamente para el cumplimiento del objeto de la precampaña electoral.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+V. Las aportaciones en bienes muebles o inmuebles deberán destinarse única y exclusivamente para el cumplimiento del objeto de la precampaña electoral. Los bienes muebles e inmuebles sólo podrán darse en comodato por el tiempo que dure la precampaña. El comodato de bienes no quedará sujeto al límite de aportación por persona.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -2245,7 +2321,9 @@ ARTICULO 117 Bis D.- El Consejo Estatal Electoral, a propuesta de la Comisión c
 
 El Consejo Estatal Electoral, recibirá las quejas, por parte de los partidos políticos o coalición, a que haya lugar sobre el origen y aplicación de los recursos utilizados en precampañas electorales.
 
-Cuando un partido político o coalición no cumpla en tiempo con la presentación de los informes a que se refiere la Fracción XIV del Artículo 30 de esta Ley, el Consejo Estatal Electoral, por conducto de la Comisión correspondiente y Partidos Políticos, notificará al partido político o coalición y al aspirante a candidato, apercibiéndolos de que en caso de no subsanar la omisión en un término de tres días se impondrá la sanción prevista en la Fracción II del Artículo 247 del presente Ordenamiento.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+Cuando un partido político o coalición no cumpla en tiempo con la presentación de los informes a que se refiere la fracción XIV del artículo 30 de esta Ley, el Consejo Estatal Electoral, por conducto de la Comisión de Prerrogativas y Partidos Políticos, notificará al partido político o coalición y al aspirante a candidato, apercibiéndolos de que en caso de no subsanar la omisión en un término de tres días se impondrá la sanción prevista en la fracción II del artículo 247 del presente Ordenamiento y, en caso de persistir el incumplimiento, el partido no podrá registrar la candidatura del aspirante incumplido.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -2257,27 +2335,19 @@ II. Propaganda electoral: son el conjunto de escritos, publicaciones, imágenes,
 
 Tanto los actos de campaña, como la propaganda electoral deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos, coaliciones o candidatos en sus documentos básicos y, particularmente, en la plataforma electoral que hubieren registrado.
 
-Las campañas electorales de los partidos políticos sólo podrán iniciar a partir del dieciséis de agosto del año de la elección para el caso de Gobernador y del primero de septiembre para Diputados y Ayuntamientos y concluirán tres días antes del día de la elección, durante los cuales no se permitirá la celebración de reuniones o actos públicos de campaña, de propaganda o de proselitismo electorales.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+Las campañas electorales para Gobernador del Estado iniciarán cincuenta y un días antes del establecido para la jornada electoral; y las correspondientes a Diputados, Presidentes Municipales, Síndicos Procuradores y Regidores, iniciarán treinta y nueve días antes del día de la elección. Todas las campañas concluirán el miércoles anterior al día de la elección. Durante los tres días previos al de la jornada electoral no podrá celebrarse ningún acto de campaña, ni de propaganda o proselitismo electoral.
 
 Queda prohibido realizar actos de campaña y de propaganda electoral, antes de las fechas indicadas en el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-ARTICULO 117 Bis F.- El Pleno del Consejo Estatal Electoral, a más tardar en la primera quincena de abril del año de la elección, aprobará los topes máximos de gastos de campaña que pueden erogar los partidos políticos y coaliciones, en cada una de las elecciones, conforme a la propuesta que le haya presentado el Presidente del Consejo Estatal Electoral.
+ARTICULO 117 Bis F.- El Pleno del Consejo Estatal Electoral aprobará durante la primera quincena de febrero del año de la elección, los topes máximos de gastos de precampaña y campaña que podrán erogar los partidos políticos y coaliciones, en cada uno de los procesos internos y elecciones, conforme a los siguientes criterios:
 
-Son gastos para considerar en los topes de campaña electoral, los siguientes rubros:
+A. El tope máximo de gastos de campaña, para cada tipo de elección será la cantidad que resulte de multiplicar el 0.25 del salario mínimo general vigente en el Estado, por el número total de ciudadanos empadronados en el Registro Federal de Electores en el Estado, Distrito o Municipio según corresponda, al día primero de enero del año de la elección;
 
-I. Los utilizados en propaganda a través de volantes, pancartas, equipos de sonido, eventos políticos y otros similares;
-
-II. Los operativos de campaña, que comprenden los salarios del personal eventual, honorarios, arrendamiento de bienes muebles e inmuebles, gastos de transporte de personas y de material, viáticos y otros similares;
-
-III. Los de propaganda en prensa, radio y televisión y otros medios electrónicos, anuncios publicitarios, entrevistas, inserciones en programas especiales, y otros similares; y
-
-IV. Los destinados con motivo de la contratación de agencias y servicios personales especializados en mercadotecnia y publicidad electoral, encuestas y estudios de opinión.
-
-Los partidos políticos o coaliciones podrán incluir dentro de sus gastos de campaña, los recursos destinados a la celebración de asambleas, convenciones o equivalentes en las que designen candidatos.
-
-No se considerarán para los topes de campaña, los gastos que realicen los partidos políticos para la operación ordinaria de sus órganos directivos, así como de sus organizaciones.
+B. En aquellos Distritos o Municipios en que el tope máximo de gastos de campaña en aplicación a la presente fórmula sea menor a doscientos mil pesos, se tomará como tope esa cantidad.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -2303,11 +2373,7 @@ IV. El nombre del ciudadano autorizado por el partido político, coalición o ca
 
 El Presidente del Consejo Estatal Electoral, previa solicitud por escrito, del partido político, o coalición interesado, gestionará ante las autoridades competentes, las medidas de seguridad personal para sus candidatos, desde el momento en que obtengan su registro.
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
-
-ARTICULO 117 Bis H.- La propaganda electoral que los partidos políticos y coaliciones requieran en sus precampañas y en las campañas para la difusión de sus plataformas electorales, deberán contratarse a través del Consejo Estatal Electoral, el cual acordará con los proveedores de publicidad en medios electrónicos y prensa, las tarifas aplicables, debiendo éstas tener un máximo de costo similar al de la tarifa comercial vigente en el mes anterior al inicio del proceso electoral. Por medios electrónicos y prensa se entiende para estos efectos televisión, radio, internet, periódicos y revistas de mayor circulación.
-
-Se prohíbe la contratación por parte de terceros, de propaganda electoral a favor o en contra de algún partido político, coalición o candidato. Antes del inicio de las precampañas y las campañas electorales, según corresponda, el Presidente del Consejo Estatal Electoral informará a los concesionarios de la radio y la televisión y a los directores de los medios escritos de comunicación de esta disposición.
+ARTICULO 117 Bis H.- (DEROGADO, P.O. 1 DE OCTUBRE DE 2009)
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -2349,9 +2415,9 @@ En el caso de la elección de Gobernador, el Consejo Estatal Electoral, organiza
 
 En todo caso el Consejo Estatal Electoral promoverá la transmisión de estos debates públicos a través de radio, televisión e Internet.
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-ARTICULO 117 Bis L.- Las autoridades estatales y municipales deberán suspender dentro de los treinta días anteriores al día de la elección, la difusión de sus actividades institucionales, excepto en los casos de programas de asistencia social y de ayuda a la comunidad, derivados de emergencias o programas de protección civil, por la eventualidad o presencia de condiciones de riesgo a la población.
+ARTICULO 117 Bis L.- Desde el inicio de las campañas electorales y hasta la conclusión de la jornada comicial, deberá suspenderse la difusión de toda propaganda gubernamental en los medios de comunicación social, tanto de los poderes federales, estatales, los de los municipios y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en caso de emergencia.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -2439,23 +2505,29 @@ Para la ubicación de las casillas se preferirán, en caso de reunir los requisi
 
 El procedimiento para determinar la ubicación de casillas será el siguiente:
 
-I.- Durante la primera quincena del mes de junio, el Consejo Estatal Electoral, proporcionará a los Consejos Distritales Electorales la información referente al estado que guarde la división distrital y seccional de sus respectivas jurisdicciones;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-II.- Durante los meses de junio y julio del año de la elección, los Consejos Distritales Electorales dispondrán un recorrido por las secciones de los correspondientes distritos con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo anterior;
+I. A más tardar el último día del mes de febrero, el Consejo Estatal Electoral, proporcionará a los Consejos Distritales Electorales la información referente al estado que guarde la división distrital y seccional de sus respectivas jurisdicciones;
 
-III.- Durante el mes de agosto, los Consejos Distritales Electorales revisarán la lista de lugares en los que sea susceptible la instalación de una casilla, los partidos políticos examinarán que cumplan los requisitos fijados por el artículo anterior y, en su caso, propondrán los cambios necesarios; y,
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2006)</small>
+II. Una vez recibida la información por los Consejos Distritales Electorales, su personal realizará un recorrido por las secciones que les correspondan, con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo anterior. Esta actividad deberá quedar concluida a más tardar el último día del mes de marzo del año de la elección;
 
-IV. Los Consejos Distritales Electorales sesionarán a más tardar el día quince de agosto y aprobarán la lista en que se contenga la ubicación de las casillas.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+III. Durante la primera quincena del mes de abril, los Consejos Distritales Electorales revisarán la lista de lugares en los que sea susceptible la instalación de una casilla, los partidos políticos examinarán que cumplan los requisitos fijados por el artículo anterior y, en su caso, propondrán los cambios necesarios; y,
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+IV. Los Consejos Distritales Electorales sesionarán dentro de la segunda quincena del mes de abril, para aprobar la lista en que se contenga la ubicación de las casillas.
 
 ### CAPITULO IV. DEL REGISTRO DE REPRESENTANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 124.
 
-Los partidos políticos, a partir del veinte de agosto y hasta diez días antes del de la elección, tendrán derecho a nombrar dos representantes propietarios y un suplente ante cada Mesa Directiva de Casilla, un representante general propietario por cada diez casillas urbanas y uno por cada cinco casillas rurales. Los representantes serán residentes del municipio en que actuarán.
+A partir del mes de mayo y hasta diez días antes de la jornada electoral, los partidos políticos podrán nombrar hasta dos representantes propietarios y un suplente ante cada Mesa Directiva de Casilla, un representante general propietario por cada diez casillas urbanas y uno por cada cinco casillas rurales. Los representantes serán residentes del municipio en que actuarán.
 
 > <small>(REFORMADO, P.O. 05 DE ABRIL DE 1995)</small>
 
@@ -2523,7 +2595,9 @@ Los representantes vigilarán el cumplimiento de las disposiciones de esta Ley y
 
 El registro de los nombramientos de los representantes ante las Mesas Directivas de Casillas y de los representantes generales se hará ante el Consejo Distrital Electoral correspondiente, y se sujetará a las reglas siguientes:
 
-I. A partir del día siguiente de la publicación de las listas de casilla y hasta diez días antes del día de la elección, los partidos políticos deberán registrar en su propia documentación y ante el Consejo Distrital correspondiente, a sus representantes generales y de casilla. La documentación de que se trata deberá de reunir los requisitos que establezca el Consejo Estatal Electoral;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+I. A partir del mes de mayo y hasta diez días antes del día de la elección, los partidos políticos deberán registrar en su propia documentación y ante el Consejo Distrital que corresponda, a sus representantes generales y de casilla. La documentación de que se trata deberá de reunir los requisitos que establezca el Consejo Estatal Electoral;
 
 II. Los Consejos Distritales devolverán a los partidos políticos el original de los nombramientos respectivos, debidamente sellado y firmado por el Presidente y el Secretario del mismo, conservando un ejemplar; y
 
@@ -2685,11 +2759,11 @@ Asimismo mandará publicar en los diarios de mayor circulación, el día de la j
 
 ### CAPITULO VI. DE LA JORNADA ELECTORAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 144.
 
-El segundo domingo de octubre del año de la elección ordinaria, a las ocho horas, los integrantes de las Mesas Directivas de Casilla, nombrados como propietarios, iniciarán su instalación en presencia de los representantes de los partidos políticos o coaliciones y observadores electorales que concurran.
+El primer domingo de julio del año de la elección ordinaria, a las ocho horas, los integrantes de las Mesas Directivas de Casilla, nombrados como propietarios, iniciarán su instalación en presencia de los representantes de los partidos políticos o coaliciones y observadores electorales que concurran.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -3141,13 +3215,21 @@ Del mismo modo, dicho Consejo podrá dar a conocer avances más precisos sobre l
 
 Los datos consignados en las actas finales de escrutinio y cómputo constituyen la única fuente del resultado preliminar de las elecciones.
 
-### CAPITULO VIII. DE LOS COMPUTOS DISTRITALES Y MUNICIPALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+### CAPITULO VIII. DE LOS COMPUTOS DISTRITALES Y MUNICIPALES Y DEL RECUENTO DE VOTOS
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 181.
 
 El cómputo distrital o municipal de una elección es la suma que realiza el Consejo Distrital de los resultados anotados en las actas de escrutinio y cómputo de las casillas en un distrito electoral o municipio.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 181 Bis.
+
+Durante los cómputos distritales o municipales, los representantes de los partidos políticos podrán solicitar el recuento parcial o total de votos de una elección, cuando se actualice alguno de los supuestos previstos en los artículos 183,184 Y 185 de esta ley.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -3171,13 +3253,49 @@ III.- A continuación se abrirán las cajas con muestras de alteración y se rea
 
 IV.- La suma de los resultados, después de realizar las operaciones indicadas en las fracciones anteriores, constituirá el cómputo distrital de la elección de diputados por el sistema de mayoría relativa, que se asentará en el acta correspondiente;
 
-V.- Acto seguido, se abrirán las cajas en que se contengan los paquetes de las casillas especiales, para extraer el de la elección de diputados de representación proporcional y se procederá en los términos de las fracciones I, II y III de este artículo; y,
+V.- Acto seguido, se abrirán las cajas en que se contengan los paquetes de las casillas especiales, para extraer el de la elección de diputados de representación proporcional y se procederá en los términos de las fracciones I, II y III de este artículo; y (sic),
 
-VI.- El cómputo distrital de la elección de diputados por el principio de representación proporcional, será el resultado de sumar las cifras obtenidas según las fracciones IV y V de este artículo y se asentará en el acta correspondiente a la elección de diputados por el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+VI.- El cómputo distrital de la elección de diputados por el principio de representación proporcional, será el resultado de sumar las cifras obtenidas según las fracciones IV y V de este artículo y se asentará en el acta correspondiente a la elección de diputados por el principio de representación proporcional;
 
-VII.- En casos excepcionales, cuando existan errores o alteraciones evidentes en las actas, a petición de alguno de los miembros del Consejo Electoral respectivo, éste podrá acordar realizar nuevamente el escrutinio y cómputo de la casilla, lo que se hará constar en el acta circunstanciada.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+VII.- Cuando existan errores o alteraciones evidentes en las actas, cualquiera de los representantes de partido podrá solicitar que se realice el recuento de los votos de la casilla correspondiente. Una vez aprobada la solicitud por el Consejo, se procederá a realizar de nuevo el escrutinio y cómputo de la casilla, lo que se hará constar en el acta circunstanciada.
+
+De igual manera se procederá al recuento, cuando las actas consignen que todos los votos fueron emitidos a favor de un mismo candidato;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+VIII.- Si al término de la sesión de cómputo, su resultado arroja una diferencia menor a un punto porcentual entre los dos candidatos con mayor votación, el representante del partido que se ubique en segundo lugar podrá solicitar que se realice el recuento total de los votos del distrito. El Consejo solo accederá a la solicitud, si ésta se presenta antes de que el acta de cómputo distrital haya sido elaborada y firmada por los integrantes del Consejo con derecho a voto.
+
+Cuando conforme a la presente fracción se apruebe la realización de un recuento total de votos del distrito, se excluirán del procedimiento los paquetes de las casillas que ya hubiesen sido objeto de recuento de conformidad con lo dispuesto en la fracción II de este artículo;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+IX.- Siempre que se apruebe la realización del recuento total de votos con apego a lo establecido en la fracción precedente, el Consejo Distrital dispondrá lo necesario para que no se obstaculice el cómputo del resto de las elecciones y para que todos los cómputos que le corresponden concluyan antes del domingo siguiente al de la jornada electoral. Para tales efectos, el presidente del Consejo, sin levantar la sesión, procederá a:
+
+a) Dar aviso de inmediato al Consejo Estatal Electoral, por conducto de su Secretario General;
+
+b) Disponer la creación de grupos de trabajo para la realización del recuento de votos, que estarán integrados por representantes de los partidos, personal del Consejo Distrital, personal de apoyo que en su caso le proporcione el Consejo Estatal y los consejeros ciudadanos, quienes conducirán los trabajos. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+
+c) Distribuir proporcionalmente entre los grupos de trabajo los paquetes electorales que serán objeto del recuento. La labor de los grupos se realizará en forma simultánea e ininterrumpida, salvo caso fortuito o causa de fuerza mayor;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+X.- Si durante el recuento de votos se encuentran en el paquete boletas de una elección distinta a la del cómputo en curso, se separarán para contabilizarlos en el cómputo que le corresponda;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+XI.- El consejero que conduzca los trabajos de grupo asentará los resultados del recuento de cada paquete en una nueva acta de escrutinio y cómputo; y al concluir su actividad levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por candidato;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+XII.- Concluida la actividad de los grupos de trabajo, el presidente del Consejo reanudará la sesión en pleno, realizará la suma de los resultados consignados en el acta de cada grupo de trabajo, y asentará el resultado en el acta final de cómputo distrital; y,
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+XIII.- Los errores que durante el procedimiento de recuento se detecten en las actas originales de escrutinio y cómputo, serán corregidos por acuerdo del Consejo Distrital, por lo que no podrán invocarse como causal de nulidad de la elección correspondiente ante el Tribunal Estatal Electoral, salvo que se acredite que el Consejo incurrió nuevamente en error, o que existió dolo o mala fe durante la corrección.
 
 ###### ARTICULO 184.
 
@@ -3191,9 +3309,15 @@ III.- En estas operaciones se seguirá el orden numérico progresivo de las casi
 
 IV.- La suma de los resultados asentados, constituirá el cómputo distrital de la elección de Gobernador Constitucional del Estado, que se hará constar en el acta correspondiente a esta elección.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+Serán aplicables al cómputo de la elección de Gobernador del Estado, las disposiciones contenidas en las fracciones de la VIII a la XIII del artículo 183 de esta ley, en lo que corresponde a los recuentos de votos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 185.
 
-El cómputo distrital de la votación para Presidente Municipal y Regidores se sujetará al procedimiento siguiente:
+El cómputo distrital de la votación para Presidente Municipal, Síndico Procurador y Regidores, se sujetará al procedimiento siguiente:
 
 I.- Se abrirán las cajas que contengan los paquetes de las elecciones que no tengan muestras de alteración y siguiendo el orden numérico de las casillas; se cotejará el resultado del original del acta de escrutinio y cómputo de la elección de Presidente Municipal y Regidores contenida en el paquete con los resultados que aparezcan en la copia a que se refiere el artículo 172 de esta ley. Si los resultados de ambas coinciden, se asentarán en las formas establecidas para ello;
 
@@ -3204,6 +3328,10 @@ III.- La suma de los resultados, después de realizar las operaciones indicadas 
 IV.- Acto seguido, del legajo a que se refiere la fracción I del artículo 183, se tomarán los originales de las actas finales de escrutinio y cómputo de las casillas especiales, procediendo a la suma de sus resultados; y,
 
 V.- El cómputo de la elección de regidores por el principio de representación proporcional, será el resultado de sumar las cifras obtenidas, según las fracciones III y IV de este artículo, que se asentará en el acta correspondiente a la elección de regidores por el principio de representación proporcional.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+Serán aplicables al cómputo de la elección de Presidente Municipal, Síndico Procurador y Regidores, las disposiciones contenidas en las fracciones de la VIII a la XIII del artículo 183 de esta ley, en lo que corresponde a los recuentos de votos.
 
 ###### ARTICULO 186.
 
@@ -3371,6 +3499,10 @@ A). Se tomará nota de los resultados que consten en cada una de las actas de c�
 
 B). La suma de los resultados constituirá el cómputo estatal de la elección de Gobernador del Estado y se asentará en el acta correspondiente.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+En lo que se refiere a los cómputos estatales de las elecciones de Diputados por el principio de representación proporcional y de Gobernador Constitucional del Estado, solo procederá el recuento de votos en sede jurisdiccional.
+
 ###### ARTICULO 195.
 
 Al término de la sesión de cómputo y una vez firmadas las actas respectivas, el Presidente del Consejo Estatal procederá a hacer entrega de las constancias de asignación de Diputados electos por el principio de representación proporcional, así como de la constancia de mayoría al candidato a Gobernador que hubiese obtenido la mayoría de votos.
@@ -3435,11 +3567,11 @@ II.- Remitir, una vez cumplido el plazo para la interposición del recurso de in
 
 (DEROGADO, P.O. 5 DE ABRIL DE 1995)
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 199.
 
-El Tribunal Estatal Electoral en pleno, realizará el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos. La declaratoria se emitirá a más tardar el día cinco de diciembre, y será remitida al Congreso del Estado para que expida el Bando Solemne, a fin de que el Gobernador Electo tome posesión de su cargo el día primero de enero del año siguiente.
+El Tribunal Estatal Electoral en pleno, realizará el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos. La declaratoria se emitirá a más tardar la segunda quincena del mes de septiembre, y será remitida al Congreso del Estado para que expida el Bando Solemne, a fin de que el Gobernador Electo tome posesión de su cargo el día primero de enero del año siguiente.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -3465,11 +3597,13 @@ El Tribunal Estatal Electoral, es un órgano autónomo y máxima autoridad juris
 
 El Tribunal Estatal Electoral, al resolver los asuntos de su competencia, garantizará que en los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2009 Y SUS ACUMULADAS 72/2009, 73/2009, 75/2009, 76/2009 Y 78/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 202.
 
-El Tribunal Estatal Electoral se instalará dentro de la segunda quincena del mes de abril del año de la elección, para entrar en receso una vez calificadas las elecciones. Tendrá su sede en la ciudad de Culiacán Rosales, Sinaloa. Los Magistrados que formen parte de él, durarán siete años en su encargo y recibirán remuneración únicamente durante el proceso electoral. Se exceptúa de lo anterior, la Sala de Reconsideración, la que funcionará en forma permanente y sus integrantes recibirán la remuneración correspondiente.
+El Tribunal Estatal Electoral se instalará dentro de la segunda quincena del mes de enero del año de la elección, para entrar en receso una vez calificadas las elecciones. Tendrá su sede en la ciudad de Culiacán Rosales, Sinaloa. Los Magistrados que formen parte de él, durarán siete años en su encargo Y RECIBIRÁN REMUNERACIÓN ÚNICAMENTE DURANTE EL PROCESO ELECTORAL. SE EXCEPTÚA DE LO ANTERIOR, LA SALA DE RECONSIDERACIÓN, LA QUE FUNCIONARÁ EN FORMA PERMANENTE Y SUS INTEGRANTES RECIBIRÁN LA REMUNERACIÓN CORRESPONDIENTE.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -3489,9 +3623,9 @@ C). De no lograrse la votación mencionada se procederá al sorteo. Los que se h
 
 D).- Para cubrir ausencias definitivas de los magistrados o en caso de incremento en su número, su designación se sujeta al procedimiento establecido en el inciso "A" de este artículo.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-Durante el proceso electoral, se integrará una Sala de Reconsideración con tres magistrados, entre los que estará el Presidente del Tribunal Estatal Electoral. Deberá quedar integrada en el mes de abril del año de la elección. Se instalará para iniciar sus funciones durante el mes anterior al día de la votación y las concluirá inmediatamente después de resolver el último de los recursos que se haya interpuesto, en su caso. En período no electoral, la Sala de Reconsideración funcionará como sala unitaria para resolver las impugnaciones que se presenten contra los actos y resoluciones del Consejo Estatal Electoral.
+Durante el proceso electoral, se integrará una Sala de Reconsideración con tres magistrados, entre los que estará el Presidente del Tribunal Estatal Electoral. Deberá quedar integrada en el mes de enero del año de la elección. Se instalará para iniciar sus funciones durante el mes anterior al día de la votación y las concluirá inmediatamente después de resolver el último de los recursos que se haya interpuesto, en su caso. En periodo no electoral, la Sala de Reconsideración funcionará como Sala unitaria para resolver las impugnaciones que se presenten contra los actos y resoluciones del Consejo Estatal Electoral.
 
 > <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
@@ -3555,9 +3689,29 @@ III.- Aprobar y en su caso, modificar el reglamento interior del Tribunal, a má
 
 IV.- Diseñar y ejecutar programas de capacitación para el personal de apoyo jurídico del Tribunal:
 
-V.- Propiciar la comunicación e intercambio de materiales con otros órganos jurisdiccionales electorales y;
+V.- Propiciar la comunicación e intercambio de materiales con otros órganos jurisdiccionales electorales y (sic);
 
-VI.- Elaborar y divulgar la memoria de cada proceso electoral.
+VI.- Elaborar y divulgar la memoria de cada proceso electoral;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+VII.- Ordenar y realizar, cuando proceda, el recuento parcial o total de votos de una elección;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+VIII.- Realizar el cómputo final y la declaración de validez de la elección de Gobernador del Estado, y expedir la constancia de Gobernador Electo, en términos de lo dispuesto en el artículo 199 de esta ley;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+IX.- Declarar la nulidad de una elección, cuando se actualicen las causales previstas en esta ley;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+X.- Aprobar y en su caso modificar el proyecto de Presupuesto Operativo Anual, a propuesta de su Presidente; y,
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+XI.- Las demás que le concedan esta ley u otros ordenamientos.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -3631,9 +3785,17 @@ III.- Las demás que le encomiende el Presidente del Tribunal.
 
 ### CAPITULO II. DE LAS NULIDADES Y SUS EFECTOS
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 210.
 
-Las nulidades que esta Ley establece podrán afectar la votación emitida en una casilla, y en consecuencia, los resultados de los cómputos de la elección impugnada.
+Las causas de nulidad de votación recibida en casilla, así como las de nulidad de elección previstas en esta ley, solo podrán invocarse al promover el medio de impugnación que corresponda en contra de los resultados de los cómputos distritales, municipales y estatal.
+
+Las nulidades tendrán como efecto:
+
+a) Afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados finales del cómputo de la elección impugnada; y,
+
+b) Declarar la nulidad de una elección, en los casos expresamente previstos en esta ley.
 
 ###### ARTICULO 211.
 
@@ -3675,9 +3837,11 @@ II.- Cuando no se instalen las casillas en el veinte por ciento de las secciones
 
 III.- Cuando existe violencia generalizada.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 213.
 
-La elección de Diputados por el principio de representación proporcional será nula, cuando se actualice en todo el estado alguno de los supuestos previstos en las fracciones anteriores, o cuando la suma de todas las actas de cómputo distrital no coincida con el total de cómputo estatal y ello sea determinante en el resultado de la votación.
+La elección de Diputados por el principio de representación proporcional o de Gobernador será nula, cuando se actualice en todo el Estado alguno de los supuestos previstos en el artículo 212.
 
 ###### ARTICULO 214.
 
@@ -3909,21 +4073,45 @@ III.- La relación, en su caso, que guarde el recurso con otras impugnaciones.
 
 . Para el trámite y resolución del recurso de inconformidad, se seguirá el mismo procedimiento señalado por esta Ley para el recurso de revisión, con la salvedad de que el Consejo responsable al remitir el expediente del recurso al Tribunal Estatal Electoral, deberá acompañar asimismo copias certificadas de las actas correspondientes del expediente relativo al cómputo de la elección impugnada.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 231 Bis.
+
+Cuando se interponga recurso de inconformidad en contra de los cómputos distritales, municipales o estatal, el recurrente podrá solicitar que se realice el recuento total o parcial de votos en el ámbito jurisdiccional.
+
+El Tribunal Estatal Electoral realizará el recuento solicitado cuando la autoridad administrativa electoral correspondiente no haya realizado el recuento de votos, pese a que lo hubiera solicitado válida y oportunamente el recurrente, ajustándose al procedimiento de ley.
+
+El Tribunal Estatal Electoral establecerá en su reglamento interior el procedimiento para la realización del recuento parcial o total de votos en sede jurisdiccional.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 232.
 
-Las resoluciones de fondo del Tribunal Estatal Electoral, recaidas a los recursos de inconformidad, tendrán los siguientes efectos:
+Las resoluciones de fondo del Tribunal Estatal Electoral, recaídas a los recursos de inconformidad se notificarán a más tardar dentro de los tres días siguientes a aquél en que fueron pronunciadas y tendrán los siguientes efectos:
 
 I.- Confirmar los resultados consignados en las actas de cómputo estatal, distrital o municipal;
 
 II.- Declarar la nulidad de la votación emitida en una o varias casillas cuando se den las causas previstas en el artículo 211 de esta Ley, y modificar en consecuencia, el acta de cómputo de la elección de que se trate la impugnación;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-III.- Revocar la Constancia de Mayoría o de Asignación de Regidores por el principio de Representación Proporcional, expedida por el Consejo correspondiente.
+III.- Modificar el resultado de los cómputos cuando sean impugnados por error aritmético, o cuando se haga necesario como resultado del recuento parcial o total de votos que se practique en el Tribunal;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-IV.- Hacer la corrección de los cómputos cuando sean impugnados por error aritmético.
+IV.- Declarar la validez de la elección de Gobernador del Estado y la de Gobernador Electo;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+V.- Declarar la nulidad de las elecciones de Gobernador del Estado y de diputados por el sistema de mayoría relativa, así como la de Presidente Municipal, Síndico Procurador y Regidores de los Ayuntamientos, cuando se actualice alguna de las causas de nulidad establecidas en los artículos 212 y 213 de esta ley;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+VI.- Revocar las constancias de mayoría expedidas por los órganos electorales a los candidatos a diputados, presidentes municipales, síndicos procuradores y regidores electos por el sistema de mayoría relativa, así como las constancias de asignación a los candidatos a regidores que fueran electos por el principio de representación proporcional, cuando así se requiera, como consecuencia de lo que se resuelva conforme a lo previsto en las fracciones II, III y V de este mismo artículo; y,
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+VII.- Expedir las nuevas constancias de mayoría o de asignación, cuando corresponda como consecuencia de lo previsto en la fracción VI de este artículo.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -4125,9 +4313,29 @@ IV. Los partidos políticos que, cuando habiendo postulado candidatos a un cargo
 
 V. Las personas físicas y morales, que estando impedidas por esta Ley realicen donativos o aportaciones, en dinero, o en especie, a los Partidos Políticos;
 
-VI. Las personas físicas o morales que sin estar impedidas por esta Ley, realicen donativos o aportaciones, en dinero o en especie, a los Partidos Políticos, pero lo hagan en monto superior, al limite máximo establecido en la normatividad electoral; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-VII. Los observadores electorales que hagan uso indebido de su acreditación.
+VI. Las personas físicas o morales que sin estar impedidas por esta Ley, realicen donativos o aportaciones, en dinero o en especie, a los Partidos Políticos, pero lo hagan en monto superior, al límite máximo establecido en la normatividad electoral;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+VII. Los observadores electorales que hagan uso indebido de su acreditación; y,
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+VIII. Los aspirantes a candidatos, precandidatos y los candidatos, cuando:
+
+a) Soliciten o reciban recursos, en dinero o en especie, de personas físicas o morales no autorizadas en esta ley;
+
+b) Omitan en los informes respectivos los recursos que hayan recibido, en dinero o en especie, destinados a su precampaña o campaña;
+
+c) Incumplan con cualquiera de las disposiciones contenidas en esta ley;
+
+d) Realicen actos anticipados de precampaña o campaña, según sea el caso;
+
+e) No presenten el informe de gastos de precampaña o campaña establecidos en esta ley; y,
+
+f) Excedan el tope de gastos de precampaña o campaña establecido por el Consejo Estatal Electoral.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -4199,9 +4407,23 @@ IV. En el caso de la fracción IV del artículo 246 con la suspensión hasta por
 
 V. En el caso de la fracción V del artículo 246 se impondrá multa de hasta el doble del monto aportado. Si se reincide en la falta el monto de la multa podrá ser aumentado hasta en dos tantos más;
 
-VI. En el caso de la fracción VI del artículo 246 se impondrá multa de hasta el doble del monto aportado indebidamente entendiéndose como tal, la diferencia entre el total de la aportación y la cantidad que constituya el límite máximo del monto autorizado, por la normatividad aplicable. Si se reincide en la falta, el monto de la multa podrá ser aumentado hasta en dos tantos más; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
-VII. En el caso de la Fracción VII del Artículo 246 con la cancelación inmediata de su acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales.
+VI. En el caso de la fracción VI del artículo 246 se impondrá multa de hasta el doble del monto aportado indebidamente entendiéndose como tal, la diferencia entre el total de la aportación y la cantidad que constituya el límite máximo del monto autorizado, por la normatividad aplicable. Si se reincide en la falta, el monto de la multa podrá ser aumentado hasta en dos tantos más;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+VII. En el caso de la fracción VII del Artículo 246 con la cancelación inmediata de su acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales; y,
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+
+VIII. En el caso de la fracción VIII del artículo 246, se aplicarán las sanciones siguientes:
+
+Por las conductas previstas en los incisos a), b) y c), amonestación pública o con multa de hasta cinco mil días de salario mínimo general vigente en el Estado; la misma sanción se impondrá en el caso del inciso f), cuando el excedente del tope de gastos de precampaña o campaña sea hasta el cinco por ciento.
+
+Por las conductas previstas en los incisos d) y e), el aspirante a candidato o precandidato infractor perderá el derecho a ser registrado como candidato, o si ya estuviera hecho el registro, se sancionará con la cancelación del mismo; la misma sanción se impondrá en el caso del inciso f), cuando el excedente del tope de gastos de precampaña o campaña sea mayor al cinco por ciento.
+
+Cuando las infracciones sean imputables exclusivamente a los aspirantes a candidatos, no procederá sanción alguna en contra del partido político de que se trate.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -4368,3 +4590,9 @@ El presente decreto de reforma entrará en vigor, al día siguiente de su public
 ###### ARTÍCULO SEGUNDO.
 
 En tanto el Congreso del Estado no nombre a los nuevos integrantes del Consejo Estatal Electoral de Sinaloa, estará en funciones la Comisión que funge entre procesos nombrada por el Pleno del Consejo Estatal Electoral en sesión extraordinaria de fecha 16 de diciembre de 2004, a través del acuerdo EXT/8/026.
+
+P.O. 1 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
