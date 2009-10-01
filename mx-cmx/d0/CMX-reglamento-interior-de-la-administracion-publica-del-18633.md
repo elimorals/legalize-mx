@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2009-09-03"
+last_updated: "2009-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -534,7 +534,9 @@ XIV. A la Contraloría General:
 
 6.2. Dirección de Servicios de Tecnologías de la Información y Comunicaciones y Sistemas de Información.
 
-7. Dirección Ejecutiva de Contralorías Ciudadanas.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2009)</small>
+
+7. Dirección General de Contralorías Ciudadanas.
 
 8. Contralorías Internas de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, adscritas a la Contraloría General.
 
@@ -7888,39 +7890,69 @@ XIX. Representar a la Dirección General de Gobernabilidad de Tecnologías de In
 
 XX. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confiera su superior jerárquico.
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 112.
 
-Corresponde a la Dirección Ejecutiva de Contraloría Ciudadana:
+Corresponde a la Dirección General de Contraloría Ciudadana:
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 I.- Promover los procesos de transparencia de la gestión pública, rendición de cuentas y evaluación de la Administración Pública, a través de la vigilancia ejercida por los Contralores Ciudadanos en los órganos colegiados de la Administración Pública del Distrito Federal, de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, en el ejercicio del gasto público, la recaudación de ingresos, la prestación de los servicios públicos, en los programas y acciones de gobierno y en la actuación y desempeño de los servidores públicos;
 
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 II.- Organizar y coordinar la Red de Contraloría Ciudadana, integrada por personas acreditadas como Contralores Ciudadanos por el Jefe de Gobierno del Distrito Federal, así como proponer la normatividad para su integración, funcionamiento y la evaluación de sus acciones y resultados;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 III.- Convocar a la ciudadanía, a las organizaciones civiles y sociales, a las instituciones educativas, académicas y profesionales, cámaras y asociaciones y medios de comunicación a presentar propuestas de candidatos y candidatas a contralores ciudadanos;
 
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 IV.- Establecer los vínculos necesarios con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, para la incorporación y el desarrollo de las actividades de vigilancia, control y evaluación de los Contralores Ciudadanos en sus Órganos Colegiados, en el ejercicio del gasto público, la recaudación de ingresos, la prestación de los servicios públicos, en los programas y acciones de gobierno y en la actuación y desempeño de los servidores públicos;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 V.- Integrar, sistematizar, remitir y dar seguimiento ante las instancias competentes a las quejas, denuncias, informes, propuestas y opiniones de los Contralores Ciudadanos, con relación a sus actividades de vigilancia, control y evaluación en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 VI.- Desarrollar un Sistema de Incorporación, Selección, Formación, Capacitación y Asesoría de Contralores Ciudadanos; así como proponer estímulos y reconocimientos a su labor;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 VII.- Supervisar y evaluar el desempeño de los Contralores Ciudadanos y proponer las acciones para hacer eficaz y eficiente la labor de vigilancia, control y evaluación ciudadana en la Administración Pública del Distrito Federal;
 
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 VIII.- Solicitar de acuerdo a la naturaleza de sus funciones, información y documentación de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, sobre la atención y el seguimiento que le dieron a las propuestas y opiniones de los Contralores Ciudadanos, así como gestionar y coordinar sus visitas ante dichos órganos administrativos para la realización de las funciones que tienen encomendadas;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 IX.- Realizar estudios en materia de transparencia de la gestión pública, rendición de cuentas y Contraloría Ciudadana, en coordinación con las organizaciones, instituciones y sectores de la sociedad relacionados con esta materia;
 
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 X.- Desarrollar un sistema de información y difusión permanente de las actividades realizadas por los contralores ciudadanos, así como de las propuestas e iniciativas emitidas por éstos, que hayan contribuido a la eficiencia y transparencia de la gestión de la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 XI.- Participar en las instancias colegiadas, para el análisis de proyectos normativos que se refieran o tengan alguna incidencia en materia de Contraloría Ciudadana;
 
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 XII.- Efectuar y coadyuvar con las Unidades Administrativas de la Contraloría General en las visitas, verificaciones, inspecciones y revisiones que se realicen con motivo de los programas y acciones de la Contraloría Ciudadana, en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos desconcentrados y Entidades de la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 XIII.- Expedir previo cotejo copias certificadas de los documentos que obren en sus archivos;
 
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 XIV.- Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario; y
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 XV.- Las demás que le instruya el titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
@@ -8376,7 +8408,9 @@ II. En el marco de las disposiciones legales, administrativas y acuerdos aplicab
 
 III. Fomentar programas para el desarrollo del capital humano en la Administración Pública del Distrito Federal, mediante el diseño de modelos innovadores y funcionales, para hacer más eficientes los procesos de evaluación y desarrollo profesional;
 
-IV. Desarrollar, aplicar y calificar pruebas médicas, toxicológicas, psicométricas, de habilidades y capacidades, de conocimientos y los procesos de evaluaciones del desempeño para determinar si los servidores públicos y los aspirantes a ocupar cargos, reúnen el perfil establecido y los requisitos para el desarrollo de las funciones;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2009)</small>
+
+IV. Desarrollar, aplicar y calificar pruebas médicas, toxicológicas, psicométricas, poligráficas, de habilidades y capacidades, de conocimientos y los procesos de evaluaciones del desempeño para determinar si los servidores públicos y los aspirantes a ocupar cargos, reúnen el perfil establecido y los requisitos para el desarrollo de las funciones;
 
 V. Informar a la unidad administrativa competente sobre la pertinencia para la contratación, con base en los resultados de las pruebas señaladas en la fracción anterior;
 
@@ -9334,35 +9368,27 @@ F) Dirección General de Desarrollo Económico; y
 
 G) Dirección General de Participación Ciudadana.
 
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2009)</small>
 
-III. Al Órgano Político-Administrativo en Benito Juárez;
+III. Al órgano político-administrativo en Benito Juárez;
 
 A) Dirección General Jurídica y de Gobierno;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE ENERO DE 2007)</small>
+B) Dirección General de Coordinación de Gabinete y Proyectos Especiales;
 
-B) Dirección General de Administración;
+C) Dirección General de Administración;
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
+D) Dirección General de Obras y Desarrollo Urbano;
 
-C) Dirección General de Obras y Desarrollo Urbano;
+E) Dirección General de Prevención del Delito y Protección Civil;
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
+F) Dirección General de Desarrollo Social;
 
-D) Dirección General de Prevención del Delito y Protección Civil;
+G) Dirección General de Participación Ciudadana;
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
+H) Dirección General de Desarrollo Delegacional; y
 
-E) Dirección General de Desarrollo Social y Participación Ciudadana;
-
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
-
-F) Dirección General de Desarrollo Delegacional; y
-
-> <small>(ADICIONADO [N. DE E. REUBICADO], G.O. 19 DE ENERO DE 2007)</small>
-
-G) Dirección General de Servicios Urbanos;
+I) Dirección General de Servicios Urbanos.
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -10222,25 +10248,49 @@ II. Revisar los informes preventivos, así como conocer las manifestaciones de i
 
 III. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 137 Bis.
+
+Corresponde a la Dirección General de Coordinación de Gabinete y Proyectos Especiales las siguientes atribuciones:
+
+I. Coadyuvar en la ejecución de las acciones que la normatividad atribuya al Jefe Delegacional;
+
+II. Coordinar el trabajo institucional de cada una de las áreas del Órgano Político Administrativo, imprimiendo relación, correspondencia y unidad a los programas y proyectos realizados, según las directrices del jefe delegacional;
+
+III. Coordinar y conducir, junto con el área de modernización administrativa, la planeación programática y estratégica del Órgano Político Administrativo;
+
+IV. Diseñar, conducir y ejecutar los proyectos delegacionales que por su naturaleza requieran de la participación de diversas áreas;
+
+V. Dar seguimiento y apoyo a los acuerdos tomados entre el Jefe Delegacional y los Directores Generales, Directores, Coordinadores, Subdirectores y Jefes de Unidad;
+
+VI. Coordinar las acciones de beneficio social que requieran de la participación de dos o más áreas delegacionales;
+
+VII. Proponer al Jefe Delegacional proyectos especiales que tengan como finalidad el beneficio ciudadano y el desarrollo institucional, y ejecutarlos, conjuntamente con las áreas delegacionales competente, cuando sean aprobados;
+
+VIII. Diseñar y aplicar, conjuntamente con el área delegacional competente, proyectos de innovación administrativa que por su propia naturaleza coadyuven en beneficio de la ciudadanía;
+
+IX. Instrumentar programas de comunicación social, imagen institucional y relaciones públicas;
+
+X. Asegurar la aplicación de las normas, criterios técnicos, lineamientos y metodología que regulen el programa de comunicación social;
+
+XI. Coadyuvar en la vinculación con los diferentes Órganos Políticos Administrativos, a efecto de desarrollar acciones conjuntas para la efectividad y correspondencia de los programas delegacionales, así como para la difusión de los mismos; y
+
+XII. Las demás que instruya el Jefe Delegacional.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 138.
 
 La Dirección General de Obras y Desarrollo Urbano tendrá, además de las señaladas en los artículos 126, las siguientes atribuciones:
 
-I. Dar mantenimiento a las escuelas, bibliotecas, museos, mercados públicos y demás centros de servicio social, cultural, deportivo y administrativo a cargo del Órgano Político-Administrativo;
+I. Organizar, controlar y dar seguimiento a los concursos y contratos relacionado (sic) con las Obras y Desarrollo Urbano;
 
-II. Dar mantenimiento preventivo y correctivo a las redes secundarias de agua potable, drenaje y alcantarillado, conforme a la autorización y normas que al efecto expida la autoridad competente;
+II. Controlar y ejecutar el presupuesto de Obras y Precios Unitarios, así como realizar las estimaciones de las mismas;
 
-III. Organizar, controlar y dar seguimiento a los concursos y contratos relacionado con las Obras y Desarrollo Urbano; y (sic)
+III. Diseñar proyectos de desarrollo habitacional orientados a generar opciones residenciales atractivas para los habitantes de la Delegación; y
 
-IV. Controlar y ejecutar el presupuesto de Obras y Precios Unitarios, así como realizar las estimaciones de las mismas.
-
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-V. Diseñar proyectos de desarrollo habitacional orientados a generar opciones residenciales atractivas para los habitantes de la Delegación;
-
-VI. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006) (sic)
+IV. Las demás que instruya el Jefe Delegacional.
 
 > <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
@@ -10286,305 +10336,169 @@ XVIII. Coordinar la supervisión de simulacros en los diversos inmuebles de la d
 
 XIX. Presidir en conjunto con autoridades de la demarcación, así como representantes de otras dependencias e instituciones de investigación y auxilio, el Consejo Delegacional de Protección Civil en la demarcación, ejerciendo las labores de Secretario Ejecutivo en suplencia del Director General Jurídico y de Gobierno en sesión ordinaria y extraordinaria.
 
-> <small>(REFORMADO PARRAFO PRIMERO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 140.
 
-La Dirección de Desarrollo Social y Participación Ciudadana, tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+La Dirección de Desarrollo Social tendrá, además de las señaladas en el artículo 128, las siguientes atribuciones:
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del órgano político-administrativo;
 
-I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de Programas y proyectos en materia de fomento a la cultura;
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
-
-II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
-
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
-
-III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
-
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del órgano político-administrativo;
 
 IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias; y (sic)
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del órgano político-administrativo y del Distrito Federal;
 
-V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal;
+VI. Las demás que de manera directa, le asigne el Jefe Delegacional.
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2009)</small>
 
-VI. Instrumentar los planes y programas en materia de participación ciudadana;
+###### Artículo 140 Bis.
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+La Dirección de Participación Ciudadana, tendrá las siguientes atribuciones:
 
-VII. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del órgano político administrativo;
+I. Instrumentar los planes y programas en materia de participación ciudadana;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+II. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del órgano político administrativo;
 
-VIII. Organizar y desarrollar los instrumentos de participación ciudadana previstos en la ley de la materia del Distrito Federal;
+III. Organizar y desarrollar los instrumentos de participación ciudadana previstos en la ley de la materia del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+IV. Emitir los lineamientos para la correcta capacitación a los comités vecinales respecto de los ordenamientos legales aplicables en el Distrito Federal;
 
-IX. Emitir los lineamientos para la correcta capacitación a los comités vecinales respecto de los ordenamientos legales aplicables en el Distrito Federal;
+V. Implementar acciones de información, capacitación y educación para promover la participación ciudadana;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+VI. Promover y apoyar el trabajo de los comités vecinales de la demarcación;
 
-X. Implementar acciones de información, capacitación y educación para promover la participación ciudadana;
+VII. Promover la participación de los vecinos en ejecución de obras y acciones de beneficio comunitario;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+VIII. Coordinarse con los organismos y dependencias del Gobierno Federal y del Distrito Federal para la realización de giras y recorridos que realicen los titulares de las mismas de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XI. Promover y apoyar el trabajo de los comités vecinales de la demarcación;
+IX. Propiciar espacios de concertación para la solución de conflictos vecinales;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+X. Promover la participación de diversos grupos sociales en los planes y programas delegacionales que ésta implemente;
 
-XII. Promover la participación de los vecinos en ejecución de obras y acciones de beneficio comunitario;
+XI. Realizar los estudios necesarios para conocer los requerimientos de los ciudadanos y plantear alternativas de solución;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+XII. Dar continuidad a los mecanismos establecidos para informar a la comunidad sobre el desarrollo de obras y acciones realizadas por el gobierno delegacional;
 
-XIII. Coordinarse con los organismos y dependencias del Gobierno Federal y del Distrito Federal para la realización de giras y recorridos que realicen los titulares de las mismas de conformidad con las disposiciones jurídicas y administrativas aplicables;
+XIII. Coordinar, ejecutar y evaluar las acciones que permitan el cumplimiento de las disposiciones contenidas en la Ley de Participación Ciudadana del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+XIV. Dirigir, consolidar y evaluar los esfuerzos de las jefaturas de unidad departamental y la correcta aplicación de los programas mediante objetivos metas y tiempo que conllevan a tener una mejor participación ciudadana;
 
-XIV. Propiciar espacios de concertación para la solución de conflictos vecinales;
+XV. Establecer e incrementar relaciones de colaboración con organizaciones e instituciones cuya finalidad sea el interés para la comunidad; y
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+XVI. Las demás que instruya el Jefe Delegacional.
 
-XV. Promover la participación de diversos grupos sociales en los planes y programas delegacionales que ésta implemente;
-
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XVI. Realizar los estudios necesarios para conocer los requerimientos de los ciudadanos y plantear alternativas de solución;
-
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XVII. Dar continuidad a los mecanismos establecidos para informar a la comunidad sobre el desarrollo de obras y acciones realizadas por el gobierno delegacional;
-
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XVIII. Coordinar, ejecutar y evaluar las acciones que permitan el cumplimiento de las disposiciones contenidas en la Ley de Participación Ciudadana del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XIX. Dirigir, consolidar y evaluar los esfuerzos de las jefaturas de unidad departamental y la correcta aplicación de los programas mediante objetivos metas y tiempo que conllevan a tener una mejor participación ciudadana;
-
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XX. Las demás que de manera directa, le asigne el Jefe Delegacional.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 141.
 
-Corresponde a la Dirección General de Servicios Urbanos, además de las señaladas en el artículo 127, las siguientes atribuciones:
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-II. Dar mantenimiento a los parques y panteones públicos que se encuentran a cargo del Órgano Político-Administrativo;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-III. Dar mantenimiento a las áreas verdes localizadas en vialidades secundarias en su demarcación;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-IV. Coordinarse con la Dirección de Obras y Desarrollo Urbano para la ejecución de obras y acciones específicas;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-V. Acordar con el Jefe Delegacional todos los asuntos que conciernan a su área;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-VI. Coordinar todas las áreas a su cargo para el buen funcionamiento de la Dirección General;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-VII. Conceder audiencia al público, así como acordar y resolver los asuntos de la competencia de las áreas a su cargo;
-
-VIII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-IX. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-X. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-XI. Coadyuvar en la coordinación y ejecución de las políticas de la Administración Pública del Distrito Federal, en materia de Servicios Urbanos;
-
-XII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XIII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-XIV. Promover reuniones de coordinación con las dependencias y órganos tanto públicos como privados para definir criterios en materia de preservación y restauración del medio ambiente;
-
-XV. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XVI. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XVII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XVIII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XIX. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XX. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XXI. Implementar acciones de preservación y restauración del equilibrio ecológico y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
-
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XXII. Difundir los programas y estrategias relacionadas con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
-
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XXIII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y protección al ambiente;
-
-XXIV. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXV. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXVI. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXVII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXVIII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXIX. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXX. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXXI. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXXII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXXIII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXXIV. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXXV. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXXVI. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-XXXVII. Llevar a cabo la planeación urbana de la demarcación, bajo un contexto de revitalización de la infraestructura y los servicios urbanos; al mismo tiempo que coadyuvar con la Dirección General de Obras y Desarrollo Urbano en la ejecución de la misma;
-
-XXXVIII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-XXXIX. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-XL. Administrar los panteones y crematorios públicos de su demarcación territorial de acuerdo a las disposiciones de operación que determine la autoridad competente;
-
-XLI. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2004)</small>
-
-XLII. Las que de manera directa le asigne el Jefe Delegacional.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE ABRIL DE 2004)</small>
-
-###### Artículo 142.
-
-Corresponde a la Dirección General de Desarrollo Delegacional las siguientes atribuciones:
+La Dirección General de Desarrollo Delegacional tendrá las siguientes atribuciones:
 
 I. Coordinar la relación interinstitucional con funcionarios de otras órdenes de gobierno con respecto a situaciones de operatividad de la Delegación;
 
-II. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
+II. Coordinar el diseño y elaboración de bases de datos de ciudadanos, que permitan conocer las características de quienes habitan y trabajan en la demarcación y contribuyan al diseño de planes y programas delegacionales;
 
-III. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
+III. Formular en coordinación con las Direcciones Generales de la Delegación el plan de gobierno a mediano plazo;
 
-IV. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
+IV. Realizar revisiones a los sistemas administrativos de las unidades de la Delegación, diagnosticando las probables deficiencias;
 
-V. Coordinar el diseño y elaboración de bases de datos de ciudadanos, que permitan conocer las características de quienes habitan y trabajan en la demarcación y contribuyan al diseño de planes y programas delegacionales;
+V. Planear, programar, organizar, sistematizar y evaluar las actividades desarrolladas por las distintas unidades de trabajo de la Delegación en la prestación de servicios a la comunidad;
 
-VI. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
+VI. Proponer las acciones de mejora institucional;
 
-VII. Formular en coordinación con las Direcciones Generales de la Delegación el plan de gobierno a mediano plazo;
+VII. Implantar controles internos que faciliten el seguimiento de los planes de gobierno;
 
-VIII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
+VIII. Mejorar los procesos y sistemas del gobierno Delegacional;
 
-IX. Realizar revisiones a los sistemas administrativos de las unidades de la Delegación, diagnosticando las probables deficiencias;
+IX. Asesorar en la interpretación y aplicación de técnicas administrativas a las diversas unidades de la Delegación;
 
-X. Planear, programar, organizar, sistematizar y evaluar las actividades desarrolladas por las distintas unidades de trabajo de la Delegación en la prestación de servicios a la comunidad;
+X. Revisar y formular los planes y programas tendientes a hacer más eficiente y eficaz los procesos delegacionales;
 
-XI. Proponer las acciones de mejora institucional;
+XI. Diseñar y ejecutar los procesos de reestructura interna del gobierno Delegacional;
 
-XII. Implantar controles internos que faciliten el seguimiento de los planes de gobierno;
+XII. Desarrollar y fortalecer indicadores de servicio, satisfacción y desempeño;
 
-XIII. Mejorar los procesos y sistemas del gobierno Delegacional;
+XIII. Evaluar los procesos, programas y proyectos implementados con el propósito de ejecutar acciones de mejora que en su caso lo ameriten;
 
-XIV. Asesorar en la interpretación y aplicación de técnicas administrativas a las diversas unidades de la Delegación;
+XIV. Impulsar los procesos que tiendan a hacer más eficiente y eficaz los procesos de la Delegación;
 
-XV. Revisar y formular los planes y programas tendientes a hacer más eficiente y eficaz los procesos delegacionales;
+XV. Profesionalizar la captación y tratamiento de la demanda ciudadana;
 
-XVI. Diseñar y ejecutar los procesos de reestructura interna del gobierno Delegacional;
+XVI. Coadyuvar a la identificación de demandas ciudadanas y a la instrumentación de acciones que respondan a ellas;
 
-XVII. Desarrollar y fortalecer indicadores de servicio, satisfacción y desempeño;
+XVII. Asegurar el adecuado funcionamiento de la Ventanilla Única Delegacional cuidando su estricto apego al marco jurídico y administrativo aplicable;
 
-XVIII. Evaluar los procesos, programas y proyectos implementados con el propósito de ejecutar acciones de mejora que en su caso lo ameriten;
+XVIII. Impulsar proyectos de mejora en base a las necesidades de los ciudadanos que integran la demarcación; y (sic)
 
-XIX. Impulsar los procesos que tiendan a hacer más eficiente y eficaz los procesos de la Delegación;
+XIX. Promover y conducir el programa de desarrollo económico del órgano político administrativo;
 
-XX. Profesionalizar la captación y tratamiento de la demanda ciudadana;
+XX. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
 
-XXI. Coadyuvar a la identificación de demandas ciudadanas y a la instrumentación de acciones que respondan a ellas;
+XXI. Diseñar y promover estrategias de desarrollo de infraestructura que revitalicen la imagen urbana de la Delegación, ofrezca nuevos espacios productivos y oportunidades de empleo a sus habitantes y mejoren significativamente la calidad de vida de los residentes de la demarcación;
 
-XXII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
+XXII. Planear, coordinar y proporcionar soporte técnico, sistemas y administración de base de datos para el buen funcionamiento de la unidad administrativa;
 
-XXIII. Asegurar el adecuado funcionamiento de la Ventanilla Única Delegacional cuidando su estricto apego al marco jurídico y administrativo aplicable;
+XXIII. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
 
-XXIV. Impulsar proyectos de mejora en base a las necesidades de los ciudadanos que integran la demarcación; y (sic)
+XXIV. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+XXV. Coordinar y dar seguimiento a los programas que lleve a cabo el órgano político administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente;
 
-XXV. Promover y conducir el programa de desarrollo económico del órgano político administrativo;
+XXVI. Realizar acciones tendientes para la promoción turística de la demarcación territorial y del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+XXVII. Fomentar la creación, desarrollo y establecimiento de empresas de alta tecnología y de nuevas oportunidades de negocios en la Delegación, a través del diseño de proyectos viables de desarrollo económico; y
 
-XXVI. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+XXVIII. Las demás que instruya el Jefe Delegacional.
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2009)</small>
 
-XXVII. Diseñar y promover estrategias de desarrollo de infraestructura que revitalicen la imagen urbana de la Delegación, ofrezca nuevos espacios productivos y oportunidades de empleo a sus habitantes y mejoren significativamente la calidad de vida de los residentes de la demarcación;
+###### Artículo 142.
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+La Dirección General de Servicios Urbanos tendrá, además de las señaladas en el artículo 127, las siguientes atribuciones:
 
-XXVIII. Planear, coordinar y proporcionar soporte técnico, sistemas y administración de base de datos para el buen funcionamiento de la unidad administrativa;
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+II. Dar mantenimiento a los parques y panteones públicos que se encuentran a cargo del Órgano Político Administrativo;
 
-XIX. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+III. Dar mantenimiento a las áreas verdes localizadas en vialidades secundarias en su demarcación;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+IV. Coordinarse con la Dirección de Obras y Desarrollo Urbano para la ejecución de obras y acciones específicas;
 
-XXX. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+V. Acordar con el Jefe Delegacional todos los asuntos que conciernan a su área;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+VI. Coordinar todas las áreas a su cargo para el buen funcionamiento de la Dirección General;
 
-XXXI. Coordinar y dar seguimiento a los programas que lleve a cabo el órgano político administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente;
+VII. Conceder audiencia al público, así como acordar y resolver los asuntos de la competencia de las áreas a su cargo;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+VIII. Coadyuvar en la coordinación y ejecución de las políticas de la Administración Pública del Distrito Federal, en materia de Servicios Urbanos;
 
-XXXII. Realizar acciones tendientes para la promoción turística de la demarcación territorial y del Distrito Federal;
+IX. Promover reuniones de coordinación con las dependencias y órganos tanto públicos como privados para definir criterios en materia de preservación y restauración del medio ambiente;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+X. Implementar acciones de preservación y restauración del equilibrio ecológico y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
 
-XXXIII. Fomentar la creación, desarrollo y establecimiento de empresas de alta tecnología y de nuevas oportunidades de negocios en la Delegación, a través del diseño de proyectos viables de desarrollo económico;
+XI. Difundir los programas y estrategias relacionadas con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+XII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y protección al ambiente;
 
-XXXIV. Las que de manera directa el (sic) asigne el Jefe Delegacional.
+XIII. Llevar a cabo la planeación urbana de la demarcación, bajo un contexto de revitalización de la infraestructura y los servicios urbanos; al mismo tiempo que coadyuvar con la Dirección General de Obras y Desarrollo Urbano en la ejecución de la misma;
+
+XIV. Administrar los panteones y crematorios públicos de su demarcación territorial de acuerdo a las disposiciones de operación que determine la autoridad competente;
+
+XV. Dar mantenimiento preventivo y correctivo a las redes secundarias de agua potable, drenaje y alcantarillado, conforme a la autorización y normas que al efecto expida la autoridad competente;
+
+XVI. Dar mantenimiento y rehabilitación a los parques y mercados públicos que se encuentren a su cargo, de conformidad con la normatividad que al efecto expidan las dependencias competentes;
+
+XVII. Dar mantenimiento y rehabilitación a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural, deportivo y administrativo a cargo del Órgano Político-Administrativo y de conformidad con la normativa que expidan las dependencias competentes;
+
+XVIII. Dar mantenimiento y rehabilitación a las vialidades secundarias, las guarniciones y banquetas requeridas en la demarcación territorial;
+
+XIX. Dar mantenimiento y rehabilitación a los puentes, pasos peatonales y reductores de velocidad en las vialidades primarias y secundarias de su demarcación, con base en los lineamientos que determinen las dependencias; y
+
+XX. Las demás que instruya el Jefe Delegacional.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -13271,3 +13185,9 @@ Segundo. - El presente decreto entrará en vigor al día siguiente de su publica
 Tercero. - Los recursos humanos, materiales, técnicos y financieros, así como los asuntos que se encuentren en trámite en el Instituto para la Atención de los Adultos Mayores en el Distrito Federal que por virtud de este Decreto se extingue, se transferirán al Órgano Desconcentrado que se crea, en los términos y condiciones que establezcan las disposiciones administrativas aplicables.
 
 Cuarto. - El Órgano Desconcentrado que por virtud de este decreto se crea, deberá adecuar su estructura orgánica y actualizar su Manual Administrativo en los plazos y condiciones que establezca la Contraloría General.
+
+G.O. 1 DE OCTUBRE DE 2009.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
