@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-para-el-estado-de-63083"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-06"
-last_updated: "2009-08-12"
+last_updated: "2009-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2009.
 
 Código publicado en la Sección Extraordinaria del Periódico Oficial del Estado de Michoacán, el sábado 6 de septiembre de 2008.
 
@@ -283,13 +283,17 @@ VIII. Las demás a que dieren ese carácter las leyes.
 
 La excepción dilatoria de falta de formación de inventarios, sólo podrá hacerse valer dentro de los cien días siguientes al del fallecimiento del autor de la sucesión.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 35.
 
-Sólo las excepciones de incompetencia, falta de personalidad, de personería, cosa juzgada, litispendencia y litisconsorcio necesario se decidirán en artículo de previo y especial pronunciamiento. La primera se substanciará en los términos señalados en el Capítulo IV del Título Segundo y las demás en la forma señalada para los incidentes.
+Sólo las excepciones de incompetencia, falta de personalidad, de personería, cosa juzgada, litispendencia y Iitisconsorcio se decidirán en artículo de previo y especial pronunciamiento. La primera se substanciará en los términos señalados en el Capítulo IV del Título Segundo y las demás en la forma señalada para los incidentes.
 
-De prosperar estas excepciones, tendrá el efecto de que no se entre al estudio de fondo de la acción ejercitada y se dejen a salvo los derechos de las partes para que, de considerarlo conveniente, los hagan valer en la vía y forma que legalmente corresponda.
+La excepción de litispendencia procede cuando un juez conoce ya de un juicio en el que exista igualdad entre partes, acciones y cosas con el juicio en que se haga valer. De proceder la excepción de litispendencia, se sobreseerá el segundo juicio.
+
+Existirá litisconsorcio cuando las cuestiones materia de un juicio afecten o favorezcan a dos o más personas, de manera que no sea posible pronunciar sentencia valida, sin oírlas a todas ellas, en virtud de existir entre éstas comunidad jurídica con respecto al objeto litigioso o tengan un mismo derecho o se encuentren obligados por igual causa, de hecho o jurídica.
+
+De prosperar esta excepción, tendrá el efecto de que no se entre al estudio de fondo de la acción ejercitada y se dejen a salvo los derechos de las partes para que de considerarlo conveniente los hagan valer en la vía y forma que legalmente corresponda.
 
 ###### Artículo 36.
 
@@ -3945,21 +3949,25 @@ III. En los demás casos fijados por la ley.
 
 Se concede el recurso de queja, en contra de los actuarios y secretarios ante el Juez. Contra los primeros sólo por exceso o defecto de las ejecuciones y contra los segundos, por omisiones y negligencias en el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 698.
 
-El recurso de queja contra- el Juez se interpondrá ante él, dentro de los tres días siguientes a la notificación de la resolución reclamada. El Juez sin substanciación alguna y sin suspender los procedimientos del juicio en el caso de que se encontrare en trámite, acordará enviar dentro del término de tres días al pleno el escrito relativo a dicho recurso, junto con su informe justificado sobre la materia de la queja y copia certificada de las constancias que estime conducentes, a las que se agregarán las que señale el quejoso al interponerlo.
-
-Recibidas las actuaciones se turnarán a la sala civil que en atención al tumo corresponda, la que mandará notificar a las partes la llegada de los autos, así como traer los autos a la vista a fin de dictar resolución, dentro del tercer día.
-
-La falta de informe con justificación, se sancionará por el Consejo del Poder Judicial conforme a su Ley Orgánica.
+El recurso de queja contra las resoluciones del juez se interpondrá ante él, dentro de los tres días siguientes a la notificación de la resolución reclamada. El juez, sin suspender el procedimiento del juicio en el caso de que se encontrare en trámite, acordará dar vista con el escrito de queja a la contraparte del quejoso que se hubiere llamado o comparecido al procedimiento, por el término de tres días, para que manifieste lo que a sus intereses corresponda y señale domicilio para segunda instancia, así como enviar dentro del término de. tres días siguientes a que se hubiere contestado la vista o transcurrido el término de la misma, a la Presidencia del Supremo Tribunal de Justicia, los escritos originales de queja y manifestaciones de la contraparte, junto con su informe justificado sobre la materia de la queja y copia certificada de las constancias que estime conducentes, a las que se agregarán las que señale el quejoso al interponerlo.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
+Recibidas las actuaciones se turnarán a la sala civil que en atención al turno corresponda, la que mandará notificar a las partes la llegada de los autos, así como traer los autos a la vista a fin de dictar resolución, dentro del tercer día.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+La falta de informe con justificación, se sancionará por el Consejo del Poder Judicial conforme a la Ley Orgánica del mencionado poder.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 699.
 
-Si la queja no está apoyada en hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario contra la resolución reclamada, será desechada por la sala, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa de cincuenta a cien días de salario mínimo general vigente en el Estado, en favor del Fondo Auxiliar para la Administración de Justicia, la que se hará efectiva por el Consejo del Poder Judicial.
+Si la queja se desecha por no proceder en contra de la resolución impugnada o resulta infundada por no estar apoyada en hecho cierto o no estar fundada en derecho, la Sala impondrá al quejoso y a su abogado, solidariamente, una multa de diez a cincuenta días de salario mínimo general vigente en el Estado, a favor del Fondo Auxiliar para la Administración de Justicia de la Entidad, la que se hará efectiva por el Consejo del Poder Judicial.
 
 ###### Artículo 700.
 
@@ -4179,13 +4187,15 @@ Si el ejecutante optare en cualquiera de los casos enumerados en el artículo an
 
 Si la sentencia condena a no hacer, su infracción se resolverá en el pago de daños y perjuicios.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 743.
 
-De las resoluciones dictadas en o para la ejecución de una sentencia no procede recurso alguno.
+De las resoluciones dictadas en y para la ejecución de una sentencia no procede recurso alguno, con excepción de las segundas, que serán apelables cuando impliquen exceso o defecto en lo ejecutado.
 
-Se exceptúan aquéllas que impliquen exceso o defecto en lo ejecutado, que admite el recurso de apelación.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2009)</small>
 
 Por resolución pronunciada para la ejecución de una sentencia, debe entenderse aquélla que está encaminada directa e inmediatamente a la ejecución material del fallo, es decir, la que por su propia naturaleza ya no requiere de otra determinación legal posterior; en cambio, las resoluciones emitidas en ejecución de sentencia son las que comprenden los actos orientados en forma indirecta a preparar y lograr esa ejecución.
 
@@ -4689,13 +4699,13 @@ V. La sumisión expresa al Juez que conoce del negocio para que haga cumplir el 
 
 El día del remate a la hora señalada, pasará el Juez personalmente lista de los postores presentados y concederá media hora para admitir a los que de nuevo se presenten. Pasada la media hora de espera, el Juez declarará que va a procederse al remate y no admitirá ya nuevos postores. Procederá en seguida a la revisión de las propuestas presentadas, desechando desde luego las que no contengan postura legal y las que no estuvieren acompañadas del billete de depósito a que se refiere el artículo 825 de éste Código.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 830.
 
-Calificadas de buenas las posturas, el Juez mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el Juez decidirá cuál será la preferente.
+Calificadas de buenas las posturas, el juez mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales el juez decidirá cuál sea la preferente.
 
-Hecha la declaración de la postura considerada preferente, el Juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor puja la mejora y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura o puja, declarará el tribunal fincado el remate a favor del postor que hubiere hecho aquélla. Esta resolución es apelable en ambos efectos. La Sala correspondiente substanciará el recurso.
+Hecha la declaración de la postura considerada preferente, el juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor la mejora y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura, declarará el tribunal fincado el remate a favor del postor que hubiere hecho aquélla. Esta resolución es apelable en ambos efectos.
 
 ###### Artículo 831.
 
@@ -6666,3 +6676,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 12 DE AGOSTO DE 2009.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
