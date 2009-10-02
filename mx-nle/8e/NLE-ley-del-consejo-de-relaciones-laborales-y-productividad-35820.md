@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-consejo-de-relaciones-laborales-y-productividad-35820"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2003-12-24"
+last_updated: "2009-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DEL CONSEJO DE RELACIONES LABORALES Y PRODUCTIVIDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -450,3 +452,33 @@ NAPOLEÓN CANTÚ CERNA.
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE OCTUBRE DE 2009.
+
+Primero.- El presente Decreto entrará en vigor el día 04 de octubre del presente año, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley Orgánica de la Administración Pública para el Estado de Nuevo León publicada en el Periódico Oficial del Estado de fecha 09 de Octubre de 2003, con sus reformas y adiciones.
+
+Tercero.- Se abrogan la Ley de la Agencia de Protección al Medio Ambiente y Recursos Naturales, publicada en el Periódico Oficial del Estado de fecha 26 de Febrero de 2004; la Ley de la Agenda para la Planeación del Desarrollo Urbano de Nuevo León, publicada en el Periódico Oficial del Estado de fecha 26 de Febrero de 2004; la Ley del Consejo de Relaciones Laborales y Productividad, publicada en el Periódico Oficial del Estado de fecha 24 de Diciembre de 2003, y la Ley del Consejo de Desarrollo Social, publicada en el Periódico Oficial del Estado de fecha 19 de Diciembre de 2003.
+
+Cuarto.- Quedan vigentes todas las leyes, reglamentos y demás disposiciones legales, en cuanto no se opongan a la presente Ley.
+
+Quinto.- Para el cumplimiento de esta Ley, el Ejecutivo podrá reorganizar la estructura de las dependencias, así como crear, fusionar, escindir o disolver las oficinas y departamentos necesarios, estando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos para el presente ejercicio fiscal, sin exceder los montos autorizados,
+
+Sexto.- El cambio de alguna dependencia o entidad a otra, se hará incluyendo los recursos humanos y materiales que hayan venido usando para la atención de los asuntos que tuvieren encomendados conforme a la Ley que se abroga.
+
+Séptimo.- El personal que en aplicación de esta Ley pase a otra dependencia o entidad, conservará los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+Octavo.- Las dependencias y entidades que se crean o modifican en virtud de la aprobación de la presente Ley, seguirán con los trámites de los asuntos relativas a su objeto y que actualmente corresponden a las que se extinguen.
+
+Para una mayor información a los gobernados y para facilitar la atención y continuidad de los asuntos que éstos hayan promovido ante la Administración Pública del Estado, las dependencias y entidades a que se hace referencia en el párrafo anterior, difundirán ante la ciudadanía los cambios de denominación, ubicación y funciones básicas de las nuevas dependencias o entidades aludidas.
+
+Noveno.- Las atribuciones, asuntos o funciones conferidas en otros ordenamientos jurídicos a las dependencias o entidades previstas tanto en la Ley Orgánica de la Administración Pública como en las Leyes que se abrogan, se entenderán concedidas a las dependencias que por virtud de esta Ley asumen dichos asuntos, atribuciones o funciones.
+
+En consecuencia, las menciones contenidas en otras Leyes, Reglamentos y en general en cualquier otra disposición, respecto de las dependencias o entidades previstas en la Ley Orgánica de la Administración Pública así como en las Leyes que se abrogan, se entenderán referidas a las dependencias que de acuerdo con la presente Ley absorben tales funciones.
+
+Décimo.- Las dependencias de nueva creación iniciarán sus actividades con los recursos humanos, materiales, financieros y demás bienes de las áreas de la Administración Central o Paraestatal cuyas atribuciones serán ahora desempeñadas por las nuevas dependencias. Al efecto sus titulares coordinarán estos aspectos con el Secretario de Finanzas y Tesorero General del Estado.
+
+Décimo Primero.- El lugar que le corresponde a la Oficialía Mayor en el Comité de Adquisiciones y Servicios que regula la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León, así como en el Comité de Operaciones Inmobiliaria del Estado que regula la Ley de Administración Financiera para el Estado de Nuevo León, quedará sin efecto hasta en tanto se reformen las leyes respectivas, lo anterior sin perjuicio del lugar que en esos comités le corresponde a la Secretaría de Finanzas y Tesorería General del Estado.
