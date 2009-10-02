@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-del-medio-ambiente-y-52108
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-13"
-last_updated: "2006-10-13"
+last_updated: "2009-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL MEDIO AMBIENTE Y RECURSOS NATURALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de octubre de 2006.
 
@@ -68,6 +68,10 @@ Secretario.
 - Unidad de Desarrollo Administrativo, Planeación e Informática.
 
 - Unidad de Inspección y Vigilancia Ambiental y Forestal.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+- Unidad Técnica y de Parques Ecológicos
 
 Subsecretaría del Medio Ambiente.
 
@@ -123,6 +127,10 @@ IX.- Establecer, para el mejor desempeño de las atribuciones de la Secretaría,
 
 X.- Coordinar la elaboración de los manuales de organización, de procedimientos y de servicios al público, que sean necesarios para la eficiente atención de los asuntos de la Secretaría, y remitirlos a la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública para el trámite procedente;
 
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+X Bis.- Coordinar y evaluar las actividades de la Secretaría en cuestiones técnicas y operativas en apego a las leyes, reglamentos y demás normas y lineamientos aplicables;
+
 XI.- Establecer los lineamientos bajo los cuales llevarán a cabo sus actuaciones los titulares de las unidades administrativas bajo su adscripción, tomando en consideración las diferentes normas aplicables, y supervisar el ejercicio de las atribuciones de dichos servidores públicos;
 
 XII.- Autorizar el anteproyecto de presupuesto de egresos de la Secretaría y de sus órganos desconcentrados y, en su caso, las modificaciones a éstos, para su envío correspondiente a la Secretaría de Finanzas y Administración;
@@ -139,7 +147,9 @@ XVII.- Coordinar a las entidades paraestatales que forman parte del sector de la
 
 XVIII.- Orientar la planeación, programación, presupuesto, ejecución, control y evaluación de las entidades paraestatales agrupadas en el sector medio ambiente y recursos naturales;
 
-XIX.- Promover acciones tendientes a lograr el cumplimiento de programas, convenios y acuerdos concertados entre las entidades paraestatales coordinadas y los Gobiernos Federal, Estatales o Municipales, de conformidad con los ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+XIX.- Promover acciones tendentes a lograr el cumplimiento de programas, convenios y acuerdos concertados entre las entidades paraestatales coordinadas y los Gobiernos Federal, Estatales o Municipales, de conformidad con los ordenamientos legales aplicables;
 
 XX.- Designar a los servidores públicos que lo deban representar en las comisiones, consejos, órganos de gobierno, instituciones y entidades paraestatales y en los demás actos o eventos oficiales a los que sea convocado y establecer los lineamientos conforme a los cuales estos representantes deban actuar;
 
@@ -151,7 +161,9 @@ XXIII.- Aplicar las normas oficiales mexicanas que correspondan al ejercicio de 
 
 XXIV.- Resolver y aclarar las dudas que se susciten con motivo de la aplicación de este Reglamento, o bien, sobre los casos no previstos en el mismo;
 
-XXV.- Intervenir en los procedimientos judiciales y administrativos en el que la Secretaría sea parte o tenga interés jurídico;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+XXV.- Intervenir en los procedimientos judiciales y administrativos en el que la Secretaría sea parte o tenga interés jurídico, así como representar a la Dependencia en lo relativo a las relaciones laborales;
 
 XXVI.- Preparar instrumentos técnicos en materia de diseño y administración de programas para optimizar el impacto de las acciones de protección al medio ambiente y recursos naturales;
 
@@ -161,11 +173,15 @@ XXVIII.- Controlar y supervisar, todo lo relacionado a la contaminación en aire
 
 XXIX.- Asignar a las unidades administrativas de la Secretaría, las facultades no comprendidas en este Reglamento y que sean necesarias para el cumplimiento de sus atribuciones;
 
-XXX.- Formular, evaluar y ejecutar los programas de ordenamiento ecológico en la Entidad, con la participación de los Ayuntamientos, previa celebración del convenio correspondiente;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+XXX.- Formular los programas de ordenamiento ecológico estatal o regionales y presentarlos al Ejecutivo del Estado para su aprobación, así como intervenir en los ordenamientos ecológicos de los Municipios de la Entidad, de conformidad a lo establecido en la Ley, su Reglamento y la demás normatividad aplicable;
 
 XXXI.- Coordinar, supervisar y aplicar las normas ecológicas en materia de impacto ambiental y los estudios de riesgo y expedir, cuando proceda, las autorizaciones de cada uno de ellos;
 
-XXXII.- Expedir de conformidad con la normatividad aplicable, las autorizaciones para el funcionamiento de fuentes fijas de contaminación a la atmósfera de competencia estatal;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+XXXII.- Expedir de conformidad con la normatividad aplicable, las autorizaciones para el funcionamiento de fuentes fijas de contaminación a la atmósfera de competencia Estatal, así como cualquier otra autorización que sea facultad de la Secretaría en términos de la normatividad que resulte aplicable;
 
 XXXIII.- Presentar informe al Ejecutivo Estatal, para en su caso, éste proponga al Ejecutivo Federal, el establecimiento, modificación o levantamiento de vedas, así como el establecimiento de restricciones a la forestación y reforestación en el Estado;
 
@@ -199,9 +215,21 @@ XLVII.- Formular y conducir, de conformidad con la normatividad aplicable, la po
 
 XLVIII.- Aplicar las medidas de seguridad y sanciones administrativas que correspondan, de conformidad a las normas legales aplicables;
 
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+XLVIII Bis.- Elaborar, coordinar y aplicar los programas y demás lineamientos relativos a la organización y administración de los parques, así como de las zonas ecológicas;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+XLVIII Ter.- Presentar al Ejecutivo Estatal, expedientes para establecer Áreas Naturales Protegidas en la entidad, de conformidad con la normatividad aplicable, así como la elaboración de los programas de manejo y demás lineamientos respectivos;
+
 XLIX.- Analizar las sanciones administrativas impuestas y en caso de ser procedente autorizar la modificación de las mismas, sin considerar aquéllas que se hayan constituido en créditos fiscales;
 
 L.- Diseñar, formular y aplicar la política estatal sobre la conservación y aprovechamiento sustentable de la vida silvestre, la que deberá ser congruente con los lineamientos de la política nacional en la materia;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+L Bis.- Formular, conducir y evaluar la política estatal en materia de residuos sólidos urbanos y de manejo especial, en base a la Ley General para la Prevención y Gestión Integral de Residuos, la Ley para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial para el Estado, y demás ordenamientos aplicables en la materia;
 
 LI.- Coordinar y dar seguimiento al Sistema Estatal de Información sobre la Vida Silvestre en compatibilidad e interrelación con el Subsistema Nacional de Información sobre la Vida Silvestre, en el territorio del Estado;
 
@@ -213,7 +241,9 @@ LIV.- Emitir recomendaciones a las autoridades competentes en materia de vida si
 
 LV.- Coordinar y supervisar la aplicación de las políticas ecológicas de protección, restauración, conservación y aprovechamiento, tomando en consideración los programas de ordenamiento territorial, vivienda y desarrollo urbano;
 
-LVI.- Establecer, revisar, ejecutar y vigilar los programas y declaratorias de ordenamiento ecológico estatal, regionales y especiales o prioritarios del territorio estatal, promoviendo la participación de los distintos grupos sociales y en coordinación con las dependencias y entidades de la Administración Pública Municipal, Estatal y Federal; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+LVI.- Supervisar y evaluar los programas y declaratorias de ordenamiento ecológico estatal o regionales, así como evaluar los ordenamientos ecológicos municipales de conformidad a lo establecido en los ordenamientos legales, promoviendo la participación de los distintos grupos sociales y en coordinación con las dependencias y entidades de la Administración Pública Municipal, Estatal y Federal; y
 
 LVII.- Las que le asigne el Gobernador del Estado y las que le atribuyan las leyes, reglamentos, decretos, acuerdos, convenios, contratos y demás normatividad aplicable.
 
@@ -289,9 +319,15 @@ XXXII.- Dirigir y operar, los estudios tendientes a determinar la calidad del am
 
 XXXIII.- Establecer las bases sobre las que se deben sustentar los estudios de riesgo ambiental que se incluyan, en su caso, en las manifestaciones de impacto ambiental, así como dictaminar los correspondientes programas de prevención de accidentes;
 
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+XXXIII Bis.- Integrar expedientes para establecer Áreas Naturales Protegidas en la Entidad, de conformidad con la normatividad aplicable, así como la elaboración de los programas de manejo y demás lineamientos respectivos, presentándolos al Secretario para su aprobación;
+
 XXXIV.- Instrumentar las políticas ecológicas de protección, restauración, conservación y aprovechamiento, tomando en consideración los programas de ordenamiento territorial, vivienda y desarrollo urbano, informando al Secretario los resultados que se obtengan;
 
-XXXV.- Elaborar y aplicar los programas y declaratorias de ordenamiento ecológico estatal, regionales, especiales o prioritarios del territorio estatal, promoviendo la participación de los distintos grupos sociales y en coordinación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+XXXV.- Coordinar y operar los programas y declaratorias de ordenamiento ecológico estatal o regionales, de conformidad a lo establecido en los ordenamientos legales, promoviendo la participación de los distintos grupos sociales y en coordinación con las dependencias y entidades de la Administración Pública Municipal, Estatal y Federal;
 
 XXXVI.- Coordinar y vigilar la operación, por sí o a través de terceros, de conformidad a la normatividad aplicable, de los sistemas de monitoreo atmosférico que se instalen en el Estado; y
 
@@ -347,7 +383,9 @@ XXI.- Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comu
 
 XXII.- Brindar atención, previo acuerdo del Secretario y de forma coordinada con la Federación y los Municipios, mediante acuerdos y convenios, a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas;
 
-XXIII.- Proponer a su superior jerárquico la celebración de acuerdos y convenios, para promover el desarrollo forestal de la Entidad, de conformidad con los ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+XXIII.- Coadyuvar al cumplimiento de las acciones de conservación, protección y restauración, emanadas de los programas de manejo en Áreas Naturales Protegidas, así como proponer a su superior jerárquico la celebración de acuerdos y convenios, para promover el desarrollo forestal de la Entidad, de conformidad con los ordenamientos aplicables;
 
 XXIV.- Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico Estatal;
 
@@ -511,7 +549,13 @@ I.- Elaborar y someter a la consideración del superior jerárquico, los lineami
 
 II.- Elaborar los programas de ordenamiento ecológico de competencia estatal, en congruencia con los programas de ordenamiento territorial, vivienda y desarrollo urbano y presentarlo a consideración de su superior jerárquico para su aprobación;
 
-III.- Operar en el ámbito de su competencia y de conformidad con la normatividad aplicable, los programas y declaratorias de ordenamiento ecológico estatal, regionales y especiales o prioritarios del territorio estatal, promoviendo la participación de los distintos grupos sociales y en coordinación con las dependencias y entidades de la Administración Pública, previo acuerdo con su superior jerárquico;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+III.- Formular y operar los programas y declaratorias de ordenamiento ecológico estatal o regionales, presentándolos a su superior jerárquico para su aprobación, así como intervenir de conformidad con la normatividad aplicable en la formulación de los ordenamientos ecológicos municipales, promoviendo la participación de los distintos grupos sociales y en coordinación con las dependencias y entidades de la Administración Pública Municipal, Estatal y Federal, previo acuerdo del Subsecretario;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+III Bis.- Coordinar todas las acciones y actividades relativas a la integración de los expedientes de Áreas Naturales Protegidas en la Entidad, de conformidad con la normatividad aplicable, así como la elaboración de los programas de manejo y demás lineamientos respectivos;
 
 IV.- Fomentar en el Estado, a través de los mecanismos idóneos, las normas aplicables sobre impacto y riesgo ambiental;
 
@@ -571,7 +615,9 @@ VI.- Proponer a su superior jerárquico, la celebración de convenios con divers
 
 VII.- Fomentar la aplicación de sistemas, métodos y procedimientos derivados de las investigaciones en materia de gestión integral del medio ambiente, dirigidos a asegurar la conservación y restauración de los ecosistemas, así como su aprovechamiento y desarrollo sustentable;
 
-VIII.- Llevar a cabo visitas de verificación técnica a los establecimientos de las personas físicas o morales, que realicen actividades contaminantes provenientes de fuentes móviles de competencia estatal, para verificar el cumplimiento de las normas aplicables en la materia y en caso de incumplimiento, turnar las actuaciones a la unidad administrativa que corresponda para que en su caso aplique la sanción que corresponda;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+VIII.- Llevar a cabo visitas de verificación técnica a los centros de verificación vehicular, o a las unidades móviles de verificación vehicular, para corroborar el cumplimiento de la normatividad ambiental aplicable en la operación y servicio prestado, y en caso de incumplimiento o la detección de cualquier otra irregularidad, turnar las actuaciones a la unidad administrativa que corresponda para que en su caso, aplique la sanción que se determine;
 
 IX.- Elaborar los dictámenes de no afectación ecológica y presentarlos para su validación a su superior jerárquico;
 
@@ -605,7 +651,9 @@ VIII.- Informar al Secretario la normatividad aplicable que habrá de observarse
 
 IX.- Asesorar, cuando lo soliciten y previo acuerdo con el Secretario, a las entidades paraestatales sectorizadas a la Secretaría y organismos desconcentrados correspondientes, en la elaboración de proyectos, convenios, contratos y demás actos que sean necesarios para el mejor desempeño de sus funciones;
 
-X.- Representar legalmente a la Secretaría, ante órganos jurisdiccionales, contencioso-administrativos o autoridades administrativas, en los juicios o procedimientos en que sea parte o tenga interés jurídico, previo acuerdo del Secretario, así como atender los asuntos de orden jurídico que le correspondan a la misma;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+X.- Representar legalmente a la Secretaría, ante órganos jurisdiccionales, contencioso-administrativos o autoridades administrativas, en los juicios o procedimientos en que sea parte o tenga interés jurídico, previo acuerdo del Secretario, así como en lo relativo a las relaciones laborales, atendiendo los asuntos de orden jurídico que le correspondan a la misma;
 
 XI.- Elaborar y presentar los informes previos y justificados, que en materia de amparo deban rendir el Secretario y los demás servidores públicos que sean señalados como autoridades responsables; así como dar trámite a aquéllos en los que la Secretaría tenga el carácter de quejosa o tercero perjudicado y, en general, ejercitar todas las acciones necesarias para defender los intereses de la Secretaría;
 
@@ -741,9 +789,57 @@ X.- Previo acuerdo con su superior jerárquico, ordenar las medidas de seguridad
 
 XI.- La (sic) demás que les otorguen las disposiciones legales vigentes y el Secretario.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO XIII BIS. DE LA UNIDAD TÉCNICA Y DE PARQUES ECOLÓGICOS
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 20 BIS.- Al frente de la Unidad Técnica y de Parques Ecológicos habrá un titular quien dependerá directamente del Secretario y tendrá las siguientes atribuciones:
+
+I.- Planear, programar, organizar, dirigir, controlar, supervisar y evaluar las actividades de todas las áreas administrativas de la Secretaría, de las cuales sus actividades sean operativas o técnicas, en apego a las leyes y normas aplicables en la materia y demás lineamientos que establezca el Secretario;
+
+II.- Coordinar y aplicar los programas y demás lineamientos relativos a la organización y administración de los parques y zonas ecológicas;
+
+III.- Presentar al Secretario, proyectos para establecer Áreas Naturales Protegidas en la Entidad, de conformidad con la normatividad aplicable;
+
+IV.- Coordinar la elaboración de los programas de manejo y demás lineamientos respectivos, para la debida administración y vigilancia de las Áreas Naturales Protegidas;
+
+V.- Someter a la consideración del Secretario, previo análisis de la Dirección Jurídica, los anteproyectos de programas, convenios, contratos, acuerdos y demás documentos competencia de la Secretaría, así como los relacionados con las actividades de los parques y zonas ecológicas a cargo de la Secretaría;
+
+VI.- Desempeñar las funciones y comisiones que el Secretario le encomiende, debiendo presentar un informe del desarrollo y cumplimiento de las mismas;
+
+VII.- Supervisar con el apoyo de la Dirección Jurídica, el cumplimiento de las disposiciones jurídicas o administrativas que regulen los asuntos y actividades que realicen las áreas a su cargo;
+
+VIII.- Coordinar de forma conjunta con la Unidad de Desarrollo Administrativo, Planeación e Informática, la elaboración de los manuales de organización, de procedimientos y de servicios al público de los parques a su cargo, y someterlos a la consideración del Secretario;
+
+IX.- Establecer, de acuerdo a las políticas y lineamientos emitidas por el Secretario, mecanismos de comunicación y coordinación con otras dependencias y entidades de la Administración Publica Estatal, así como con los Gobiernos Federal, Estatales y Municipales, con los que tenga relación de acuerdo al ámbito de su competencia;
+
+X.- Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que, por delegación de facultades o por suplencia, le correspondan;
+
+XI.- Supervisar y evaluar el cumplimiento de los programas, convenios, contratos o acuerdos, que celebre la Secretaría en las materias de su competencia;
+
+XII.- Expedir previo acuerdo con el Secretario, circulares relacionadas con asuntos de su competencia, previa consideración de la Dirección Jurídica;
+
+XIII.- Promover la regulación para el manejo, control y solventación de los problemas asociados a ejemplares silvestres, dentro de los parques y zonas ecológicas a cargo de la Secretaría;
+
+XIV.- Coordinar, ejecutar, actualizar y evaluar los programas de Conservación, Manejo y aprovechamiento sustentable de la vida silvestre, en los parques y zonas ecológicas a cargo de la Secretaría;
+
+XV.- Elaborar el registro de los prestadores de servicios vinculados a la transformación, tratamiento, preparación, aprovechamiento y comercialización de ejemplares, partes y derivados de la vida silvestre, que correspondan a los parques ecológicos a cargo de la Secretaría;
+
+XVI.- Supervisar todas las actividades que realicen los prestadores de servicios en materia de vida silvestre, en los parques ecológicos a cargo de la Secretaría;
+
+XVII.- Llevar el registro de especies silvestres y aves de presa, de los parques ecológicos a cargo de la Secretaría, entregando el informe de manera oportuna al Secretario;
+
+XVIII.- Coordinar y supervisar las actividades orientadas a la creación de proyectos, programas y actividades para el desarrollo de los parques ecológicos a cargo de la Secretaría;
+
+XIX.- Fomentar la participación de las dependencias y entidades de la Administración Pública Federal y Estatal, así como de los gobiernos municipales y los diversos sectores de la sociedad en la conservación, protección y desarrollo de la infraestructura e instalaciones de los parques ecológicos a cargo de la Secretaría; y
+
+XX.- Las demás que las leyes, normas, reglamentos, decretos, acuerdos, convenios o contratos le atribuyan directamente, así como aquéllas que le asigne el Secretario.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 21.
 
@@ -768,3 +864,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por otra unidad de las que establece el mismo o cuando se cambie su adscripción, el personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a la unidad que se determine. Competerá a la nueva unidad administrativa terminar la substanciación y dictará la resolución que corresponda de los asuntos que se encuentren en trámite.
 
 Dado en la sede del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los cuatro días del mes de septiembre del año dos mil seis.- "Sufragio Efectivo. No Reelección".- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.- El Secretario del Medio Ambiente y Recursos Naturales.- LICENCIADO FRANCISCO E. CASTILLO MONTE MAYOR.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
