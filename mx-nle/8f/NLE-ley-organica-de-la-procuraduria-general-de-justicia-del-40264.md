@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2009-09-25"
+last_updated: "2009-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -1005,9 +1005,15 @@ X.- Fungir, a través de su Director, como Secretario Técnico del Consejo de Pr
 
 XI.- Llevar a cabo, conforme a la normatividad aplicable, los concursos de ingreso y ascenso de los servidores públicos de la Procuraduría;
 
-XII.- Dirigir administrativamente el personal de la Biblioteca de la Procuraduría; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XIII.- Las que le encomiende el Subprocurador Jurídico o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
+XII.- Dirigir administrativamente el personal de la Biblioteca de la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XIII.- Auxiliar a la Visitaduría General en la aplicación de los exámenes relacionados con los procesos de evaluación al desempeño (sic) que se refiere el artículo 93 de esta Ley; y
+
+XIV.- Las que le encomiende el Subprocurador Jurídico o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
 ###### Artículo 46.
 
@@ -1217,7 +1223,9 @@ XIV.- Expedir y cancelar los documentos de identificación para el personal de l
 
 XV.- Planear y programar, en coordinación con los titulares de cada área, la asistencia, licencias, permisos y vacaciones del personal de la Institución, y llevar su registro y control general;
 
-XVI.- Verificar, en coordinación con la Visitaduría General, y frente a las instancias correspondientes, si el personal que pretende ingresar a la Procuraduría ha sido sancionado anteriormente por incurrir en responsabilidad administrativa o penal como servidor público;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XVI.- Auxiliar a la Visitaduría General para verificar si el personal que pretende ingresar (sic) la Procuraduría ha sido sancionado anteriormente por incurrir en responsabilidad administrativa o penal como servidor público;
 
 XVII.- Solicitar, ante las autoridades competentes, la licencia colectiva de portación de armas, en los términos de las disposiciones legalmente aplicables, registrando, asignando y controlando la portación individual de las mismas al personal correspondiente;
 
@@ -1287,11 +1295,11 @@ VI.- Proponer al Director General de Administración las medidas técnicas y adm
 
 VII.- Las que le encomiende el Director General de Administración o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-###### Artículo 53.
+###### Articulo 53.
 
-La Visitaduría General depende directamente del Procurador y es la unidad administrativa responsable de vigilar la legalidad de las actividades desarrolladas por las dependencias de la Procuraduría y de dar trámite a los procedimientos de responsabilidad administrativa y de remoción correspondientes, siendo competente para:
+La Visitaduría General depende directamente del Procurador y es la unidad administrativa responsable de vigilar la legalidad de las actividades desarrolladas por las dependencias de la Procuraduría, de dar trámite a los procedimientos de responsabilidad administrativa y de remoción correspondientes y de dirigir las actividades del Centro de Control de Confianza, siendo competente para:
 
 I.- Practicar, dirigir y supervisar visitas ordinarias y extraordinarias de evaluación a las Agencias del Ministerio Público, y demás unidades administrativas de la Procuraduría, así como a los Agentes del Ministerio Público Adscritos, a fin de observar e inspeccionar la debida legalidad de los asuntos tramitados, y de levantar las actas administrativas correspondientes;
 
@@ -1333,7 +1341,9 @@ XIX.- Instrumentar los mecanismos necesarios para que se realice el registro de 
 
 XX.- Decretar el inicio del procedimiento de responsabilidad administrativa a los servidores públicos de la Institución cuando existan elementos que permitan presumir que han incurrido en violaciones a los derechos humanos, mismo que se sujetará a los términos y formalidades establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León; y en su caso, cuando se estime que con tal conducta se ha cometido un delito, hacerlo del conocimiento del superior jerárquico del servidor público y del Director General de Averiguaciones Previas, para los efectos legalmente correspondientes;
 
-XXI.- Verificar, en coordinación con la Dirección General de Administración, si el personal que pretende ingresar a la Procuraduría ha sido sancionado anteriormente por incurrir en responsabilidad administrativa o penal como servidor público;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XXI.- Verificar, con el auxilio de la Dirección General de Administración, si el personal que pretende ingresar a la Procuraduría ha sido sancionado anteriormente por incurrir en la responsabilidad administrativa o penal como servidor público;
 
 XXII.- Verificar y supervisar que se cumplan los procedimientos que establece la normatividad de la Procuraduría para el otorgamiento de armas de cargo y patrullas, así como, en su caso, para la devolución de las mismas, conforme a los registros que para tal efecto tenga la Dirección General de Administración;
 
@@ -1349,9 +1359,9 @@ XXVII.- Diseñar, en colaboración con la Subprocuraduría Jurídica, las normas
 
 XXVIII.- Expedir certificaciones de documentos que obren en sus archivos así como certificar o cotejar los que se presenten para la integración de los expedientes, conforme a lo establecido en la legislación correspondiente;
 
-> <small>(REFORMADA (N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XXIX.- Colaborar con el Instituto de Formación Profesional en materia de los procesos de evaluación del desempeño del personal de carrera de la Procuraduría;
+XXIX.- Aplicar, con el auxilio de las unidades administrativas de la Procuraduría, los exámenes relativos a los procesos de evaluación del desempeño del personal de carrera de la Procuraduría;
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
 
@@ -1364,6 +1374,10 @@ XXXI.- Substanciar los procedimientos para la remoción del personal de servicio
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2007)</small>
 
 XXXII.- Las que le encomiende el Procurador o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+El Centro de Control de Confianza depende directamente de la Visitaduría General y es responsable de realizar los proceses de análisis de información y evaluación de carácter patrimonial, social, psicológico, poligráfico; médico y toxicológico, sobre el ingreso o permanencia en la Procuraduría General de Justicia del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1901,15 +1915,17 @@ II.- Psicométricos y psicológicos;
 
 III.- Toxicológicos;
 
-IV.- Poligráficos; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+IV.- Poligráficos o de estrés de voz, según sea el caso; y
 
 V.- Los demás que se consideren necesarios para la calificación del personal.
 
 Los procesos de evaluación tendrán por objeto comprobar que los servidores públicos cumplan debidamente los principios de legalidad, eficacia, profesionalismo, honradez, lealtad e imparcialidad y de respeto a los derechos humanos.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-Dichos procesos serán coordinados por el Instituto de Formación Profesional que, en los casos necesarios, se auxiliará con los servicios y apoyos de otras unidades administrativas de la Procuraduría, de las dependencias y organismos competentes del Gobierno del Estado, así como con servicios privados especializados.
+Dichos procesos serán coordinados por la Visitaduría General que, en los casos necesarios, se auxiliará con los servicios y apoyos de otras unidades administrativas de la Procuraduría, de las dependencias y organismos competentes del Gobierno del Estado, así como con servicios privados especializados.
 
 ###### Artículo 94.
 
@@ -1923,21 +1939,27 @@ Los exámenes se evaluarán en conjunto, salvo el examen toxicológico y el poli
 
 Los procesos de evaluación del desempeño se practicarán de la manera siguiente:
 
-I.- El Instituto de Formación Profesional programará el lugar, día y hora en que los servidores públicos, o los aspirantes a ingresar a la Institución, deberán presentarse para ser sometidos al examen o exámenes, notificándoles de esta programación por conducto del titular de la unidad administrativa a la que estén adscritos, o personalmente en el caso de los aspirantes. Cuando el aspirante o servidor público no acuda, sin mediar causa justificada, se le tendrá por no apto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+l.- La Visitaduría General programará el lugar, día y hora en que los servidores públicos, o los aspirantes a ingresar a la institución, deberán presentarse pare ser sometidos al examen o exámenes, notificándoles de esta programación por conducto del titular de la unidad administrativa a la que estén adscritos, o personalmente en el caso de los aspirantes. Cuando el aspirante o servidor público no acuda, sin medir causa justificada, se le tendrá por no apto;
 
 II.- En el caso de que los aspirantes resulten no aptos en la evaluación toxicológica, quedarán excluidos inmediata y definitivamente del proceso de selección sin que se requiera que continúen con el resto de las evaluaciones. De igual manera, quedarán excluidos del procedimiento de selección quienes resulten no aptos en la evaluación en conjunto de los exámenes;
 
 III.- A los servidores públicos que resulten no aptos en la evaluación toxicológica no se les aplicarán el resto de las evaluaciones y, al igual que los que resulten no aptos en la evaluación en conjunto de los exámenes aplicados, serán removidos del cargo;
 
-IV.- El titular del Instituto de Formación Profesional, comunicará a las unidades administrativas correspondientes y competentes los resultados de los procesos de evaluación, que serán apto o no apto; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-V.- Con objeto de corroborar resultados en casos específicos, por petición expresa, fundada y motivada de los titulares de las unidades administrativas, el Instituto de Formación Profesional podrá llevar a cabo reevaluaciones en las áreas de poligrafía y psicología, en no más de una ocasión, y en un plazo no mayor a seis meses a partir de la última aplicación, sin perjuicio de las evaluaciones periódicas que deban aplicarse.
+IV.- El titular de la Visitaduría General, comunicará a las unidades administrativas correspondientes y competentes los resultados de los procesos de evaluación, que serán apto o no apto; y
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+V.- Con el objeto de corroborar resultados en casos específicos, por petición expresa, fundada y motivada de los titulares de las unidades administrativas, la Visitaduría General podrá llevar a cabo reevaluaciones en las áreas de poligrafía y psicología, en no más de una ocasión, y en un plazo no mayor a seis meses a partir de la última aplicación, sin perjuicio de las evaluaciones periódicas que deban aplicarse.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 96.
 
-Los expedientes conformados con los documentos en que consten los procesos de evaluación serán confidenciales, con excepción de lo que establezcan las disposiciones legalmente aplicables y en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales. Dichos expedientes estarán bajo el resguardo del Instituto de Formación Profesional.
+Los expedientes conformados con los documentos en que consten los procesos de evaluación serán confidenciales; con excepción de lo que establezcan las disposiciones legalmente aplicables y en aquellos casos en que deba presentarse en procedimientos administrativos o judiciales. Dichos expedientes estarán bajo el resguardo de la Visitaduría General.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
@@ -2058,3 +2080,7 @@ Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de
 P.O. 25 DE SEPTIEMBRE DE 2009.
 
 Única.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficiar del Estado.
+
+P.O. 3 DE OCTUBRE DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
