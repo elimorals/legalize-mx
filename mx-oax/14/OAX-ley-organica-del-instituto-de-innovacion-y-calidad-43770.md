@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-instituto-de-innovacion-y-calidad-43770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-02-11"
-last_updated: "2005-02-11"
+last_updated: "2009-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL INSTITUTO DE INNOVACION Y CALIDAD GUBERNAMENTAL
 
-LEY ORGANICA DEL INSTITUTO DE INNOVACION Y CALIDAD GUBERNAMENTAL
+LEY ORGANICA DEL INSTITUTO DE INNOVACIÓN Y CALIDAD GUBERNAMENTAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 1399, PUBLICADO EN EL P. O. DE 3 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2009 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el sábado 11 de febrero de 2005.
 
@@ -376,3 +378,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JORGE F. FRANCO VARGAS.
 
 Al C.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE OCTUBRE DE 2009.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las funciones en materia de capacitación para los servidores públicos del Gobierno del Estado que desempeñaba el Instituto de Innovación y Calidad Gubernamental, serán asumidas por la Secretaría de Administración del Poder Ejecutivo. Los actos jurídicos celebrados por el Instituto de Innovación y Calidad Gubernamental, continuarán surtiendo sus efectos y se entenderán celebrados por la Secretaría de Administración. Cuando en diversas disposiciones legales y reglamentarias se mencione al "Instituto de Innovación y Calidad Gubernamental", se entenderá referida el área correspondiente de la Secretaría de Administración del Poder Ejecutivo.
+
+TERCERO.- Las funciones en materia de administración de espacios culturales que desempeñaba el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Oaxaca, serán asumidas por la Secretaría de Cultura del Poder Ejecutivo. Los actos jurídicos celebrados por el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Oaxaca, continuarán surtiendo sus efectos y se entenderán celebrados por la Secretaría de Cultura. Cuando en diversas disposiciones legales y reglamentarias se mencione al "Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Oaxaca" se entenderá referida el área correspondiente de la Secretaría de Cultura del Poder Ejecutivo.
+
+CUARTO.- Los responsables de las Entidades Paraestatales que por virtud de este Decreto se extinguen, deberán realizar la entrega recepción de los asuntos en trámite a las dependencias que a partir de su entrada en vigor, serán las responsables del despacho de tales asuntos.
+
+QUINTO.- Los derechos laborales de los empleados de base que, en su caso estén adscritos al Instituto de Innovación y Calidad Gubernamental y al Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Oaxaca, serán respetados, en consecuencia los empleados serán reasignados a otras dependencias.
