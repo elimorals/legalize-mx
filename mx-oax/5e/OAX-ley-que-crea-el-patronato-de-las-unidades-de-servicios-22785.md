@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-patronato-de-las-unidades-de-servicios-22785"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-21"
-last_updated: "2006-10-07"
+last_updated: "2009-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY QUE CREA EL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURISTICOS DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NUMERO 1399 PUBLICADO EN EL P. O. DE 3 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el miércoles 21 de noviembre de 2001.
 
@@ -444,3 +446,15 @@ P.O. 7 DE OCTUBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los instrumentos de creación de las entidades paraestatales vigentes a la fecha, se ajustarán a los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca, por lo que el poder público al que corresponda, en un término que no excederá de 12 meses contados a partir de la entrada en vigor del presente Decreto, deberá promover o promulgar, en lo conducente, que dichos instrumentos se ajusten a dicha ley.
+
+P.O. 3 DE OCTUBRE DE 2009.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las funciones en materia de capacitación para los servidores públicos del Gobierno del Estado que desempeñaba el Instituto de Innovación y Calidad Gubernamental, serán asumidas por la Secretaría de Administración del Poder Ejecutivo. Los actos jurídicos celebrados por el Instituto de Innovación y Calidad Gubernamental, continuarán surtiendo sus efectos y se entenderán celebrados por la Secretaría de Administración. Cuando en diversas disposiciones legales y reglamentarias se mencione al "Instituto de Innovación y Calidad Gubernamental", se entenderá referida el área correspondiente de la Secretaría de Administración del Poder Ejecutivo.
+
+TERCERO.- Las funciones en materia de administración de espacios culturales que desempeñaba el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Oaxaca, serán asumidas por la Secretaría de Cultura del Poder Ejecutivo. Los actos jurídicos celebrados por el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Oaxaca, continuarán surtiendo sus efectos y se entenderán celebrados por la Secretaría de Cultura. Cuando en diversas disposiciones legales y reglamentarias se mencione al "Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Oaxaca" se entenderá referida el área correspondiente de la Secretaría de Cultura del Poder Ejecutivo.
+
+CUARTO.- Los responsables de las Entidades Paraestatales que por virtud de este Decreto se extinguen, deberán realizar la entrega recepción de los asuntos en trámite a las dependencias que a partir de su entrada en vigor, serán las responsables del despacho de tales asuntos.
+
+QUINTO.- Los derechos laborales de los empleados de base que, en su caso estén adscritos al Instituto de Innovación y Calidad Gubernamental y al Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Oaxaca, serán respetados, en consecuencia los empleados serán reasignados a otras dependencias.
