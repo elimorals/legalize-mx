@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-instituto-estatal-de-desarrollo-municipal-10677
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-05"
-last_updated: "1996-06-05"
+last_updated: "2009-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO ESTATAL DE DESARROLLO MUNICIPAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 1398, PUBLICADO EN EL P. O. DE 3 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el miércoles 5 de junio de 1996.
 
@@ -244,3 +246,13 @@ DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO DE OAXACA.- Oaxaca de Ju
 VICENTE DE LA CRUZ SANTIAGO,- DIPUTADO PRESIDENTE.- REYNALDO FERNANDEZ SANTIAGO,- DIPUTADO SECRETARIO.- JORGE WALBERTO CARRASCO SILVA,- DIPUTADO SECRETARIO.- RUBRICAS.- - -
 
 Por lo tanto, mando que se imprima, públique (sic), circule y se le dé el debido cumplimiento.- Oaxaca de Juárez, a 31 de mayo de 1996.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO,- LIC. DIODORO CARRASCO ALTAMIRANO.- EL SECRETARIO GENERAL DE GOBIERNO,- LIC. HECTOR ANUAR MAFUD MAFUD.- Y lo comunico a usted para su conocimiento y fines consiguientes.- SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 31 de mayo de 1996.- EL SECRETARIO GENERAL DE GOBIERNO,- LIC. HECTOR ANUAR MAFUD MAFUD.- RUBRICAS.- - -
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE OCTUBRE DE 2009.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las funciones en materia de capacitación para los servidores púbicos municipales, que desempeñaba el Instituto Estatal de Desarrollo Municipal, serán asumidas por la Secretaría de General de Gobierno del Poder Ejecutivo. Los actos jurídicos celebrados por el Instituto Estatal de Desarrollo Municipal, continuarán surtiendo sus efectos y se entenderán celebrados por la Secretaría General de Gobierno. Cuando en diversas disposiciones legales y reglamentarias se mencione al "Instituto Estatal de Desarrollo Municipal", se entenderá referida el área correspondiente de la Secretaría de General de Gobierno del Poder Ejecutivo.
+
+TERCERO.- Los derechos laborales de los empleados de base que en su caso estén adscritos al Instituto Estatal de Desarrollo Municipal, serán respetados, en consecuencia los empleados serán reasignados a otras dependencias.
