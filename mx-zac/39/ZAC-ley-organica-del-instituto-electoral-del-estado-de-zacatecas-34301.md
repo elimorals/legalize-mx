@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-instituto-electoral-del-estado-de-zacatecas-34
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-10-04"
-last_updated: "2006-10-07"
+last_updated: "2009-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 
@@ -59,9 +59,11 @@ LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
 ### CAPÍTULO ÚNICO. Naturaleza de la Ley
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
 ARTÍCULO 1
 
-1. Esta ley es de orden público y de observancia general. Tiene por objeto regular la integración, organización y funcionamiento del Instituto Electoral del Estado de Zacatecas y de los órganos que lo componen.
+1. Esta ley es de orden público y de observancia general en el Estado Libre y Soberano de Zacatecas. Tiene por objeto regular la integración, organización y funcionamiento del Instituto Electoral del Estado de Zacatecas y de los órganos que lo componen.
 
 Significado por conceptos
 
@@ -75,7 +77,9 @@ II. Consejero Presidente: el Consejero Presidente del Consejo General del Instit
 
 III. Constitución: la Constitución Política del Estado Libre y Soberano de Zacatecas;
 
-IV. Estatuto: el Estatuto del Servicio Profesional Electoral del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+IV. Estatuto: el Estatuto del Servicio Profesional Electoral y de la rama administrativa del Instituto Electoral del Estado de Zacatecas;
 
 V. Instituto: el Instituto Electoral del Estado de Zacatecas;
 
@@ -85,9 +89,13 @@ VII. Ley Electoral: la Ley Electoral del Estado de Zacatecas;
 
 VIII. Ley de Impugnación: la Ley del Sistema de Medios de Impugnación Electoral del Estado de Zacatecas;
 
-IX. Procesos Electorales: el conjunto de actos realizados por las autoridades electorales, los partidos políticos y los ciudadanos, ordenados por la Constitución y la Ley Electoral, y que tienen por objeto la renovación de los Poderes Legislativo y Ejecutivo, así como de los miembros de los ayuntamientos del Estado; y
+IX. Procesos Electorales: el conjunto de actos realizados por las autoridades electorales, los partidos políticos y los ciudadanos, ordenados por la Constitución y la Ley Electoral, y que tienen por objeto la renovación de los Poderes Legislativo y Ejecutivo, así como de los miembros de los ayuntamientos del Estado; y (sic)
 
-X. Secretario Ejecutivo: el Secretario Ejecutivo del Consejo General y de los Consejos Distritales y Municipales del Instituto Electoral del Estado de Zacatecas.
+X. Secretario Ejecutivo: el Secretario Ejecutivo del Consejo General y de los Consejos Distritales y Municipales del Instituto Electoral del Estado de Zacatecas;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XI. Tribunal de Justicia Electoral: el Tribunal de Justicia Electoral del Poder Judicial del Estado de Zacatecas.
 
 Criterios de Interpretación. Supletoriedad.
 
@@ -125,7 +133,9 @@ ARTÍCULO 4
 
 2. El Instituto será depositario de la autoridad electoral en el Estado; responsable del ejercicio de la función estatal de organizar los procesos electorales ordinarios y extraordinarios para la renovación de los Poderes Legislativo y Ejecutivo, así como de los miembros de los ayuntamientos de la entidad.
 
-3. De igual manera le corresponde la organización de los procesos de referéndum y plebiscito de conformidad con lo establecido en la Ley de Participación Ciudadana para el Estado de Zacatecas, además de la celebración de foros de consulta pública en la materia.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+3. De igual manera le corresponde la organización de los procesos de referéndum y plebiscito de conformidad con lo establecido en la Ley de Participación Ciudadana para el Estado de Zacatecas, además de la celebración de foros en la materia.
 
 4. En la integración del Instituto intervienen el Poder Legislativo del Estado, los partidos políticos y los ciudadanos de la entidad en los términos ordenados por la Constitución y esta ley.
 
@@ -139,15 +149,25 @@ I. Contribuir al desarrollo de la vida democrática en el Estado de Zacatecas;
 
 II. Promover, fomentar y preservar el fortalecimiento democrático del sistema de partidos políticos en el Estado;
 
-III. Asegurar a los ciudadanos zacatecanos el ejercicio de sus derechos político- electorales;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+III. Promover, fomentar y preservar el ejercicio de sus derechos político-electorales de los ciudadanos;
 
 IV. Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo, Ejecutivo, así como de los miembros de los Ayuntamientos del Estado;
 
 V. Velar por la autenticidad y efectividad del sufragio popular;
 
-VI. Coadyuvar en la promoción del voto y difundir la cultura democrática; y
+VI. Coadyuvar en la promoción del voto y difundir la cultura democrática; y (sic)
 
-VII. Garantizar la celebración pacífica de los procesos de participación ciudadana.
+VII. Garantizar la celebración pacífica de los procesos de participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VIII. Garantizar la transparencia y el acceso a la información pública del Instituto; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+IX. Difundir la cultura democrática con perspectiva de género.
 
 2. Todas las actividades de los órganos del Instituto se regirán por los principios de certeza, legalidad, imparcialidad, independencia y objetividad, previstos en la Constitución.
 
@@ -157,61 +177,107 @@ ARTÍCULO 6
 
 1. El patrimonio del Instituto, se integra con los derechos, bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le asignen en el presupuesto de egresos del Estado, más los ingresos que perciba con motivo del ejercicio de sus atribuciones previstas en este ordenamiento y en la Ley Electoral.
 
-2. Para su administración y control se estará a lo dispuesto por la Constitución, la Ley de Patrimonio del Estado y Municipios y demás legislación aplicable. El patrimonio de los partidos políticos que sean disueltos, será administrado por el erario público.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+2. Para su administración y control se estará a lo dispuesto por la Constitución, la Ley de Patrimonio del Estado y Municipios y demás legislación aplicable. El patrimonio de los partidos políticos que sean disueltos, será administrado por el erario público bajo los procedimientos y formas previstas por la legislación electoral.
 
 3. El Instituto elaborará el catálogo e inventario de sus bienes muebles e inmuebles.
 
 4. El Instituto gozará respecto de su patrimonio, de las franquicias, exenciones y demás prerrogativas concedidas a los fondos y bienes del Estado.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+5. Los recursos presupuestarios destinados al financiamiento público de los partidos políticos, en cualquiera de sus modalidades, no forman parte del patrimonio del Instituto, incluyendo los que por concepto de rendimientos financieros se generen, por lo que éste no podrá disponer ni alterar el cálculo para su determinación ni los montos que del mismo resulten conforme a la Constitución y a la Ley Electoral.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+6. El Instituto elaborará su propio anteproyecto de presupuesto de egresos y lo remitirá al Ejecutivo del Estado, a fin de que lo envíe en su oportunidad a la Legislatura del Estado, para su estudio, discusión y, en su caso, aprobación. El proyecto de presupuesto de egresos del Instituto no podrá ser modificado por el Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+7. El Instituto administrará su patrimonio conforme a las bases siguientes:
+
+I. Los recursos que integran el patrimonio serán ejercidos en forma directa por los órganos del Instituto, conforme a esta ley y demás disposiciones aplicables.
+
+II. La Legislatura del Estado revisará y fiscalizará la cuenta pública del Instituto, en los términos de las disposiciones aplicables.
+
+III. Los funcionarios electorales presentarán, en los plazos, términos y procedimientos correspondientes, su declaración patrimonial ante la Auditoría Superior del Estado u órgano fiscalizador correspondiente.
+
+IV. El ejercicio presupuestal del Instituto deberá ajustarse a los principios de honestidad, legalidad, optimización de recursos, racionalidad e interés público y social.
+
+V. El Instituto manejará su patrimonio conforme a la ley. En todo caso, el Instituto requerirá el acuerdo de las dos terceras partes de los miembros del Consejo General, para dictar resoluciones que afecten el patrimonio inmobiliario.
+
+VI. En todo lo relativo a la administración, control y fiscalización de su patrimonio, el Instituto deberá observar las disposiciones legales aplicables, según la materia de que se trate, siempre y cuando dichas disposiciones no contravengan los principios rectores de la función electoral.
+
 ### CAPÍTULO SEGUNDO. Domicilio, Estructura y Órganos Del Instituto
 
 Domicilio y Estructura
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
 ARTÍCULO 7
 
-1. El Instituto tiene su domicilio en la Capital del Estado o zona conurbada y ejercerá sus funciones en todo el territorio de la entidad, conforme a la siguiente estructura básica:
+1. El Instituto tiene su domicilio en la Capital del Estado o zona conurbada y ejercerá sus funciones en todo el territorio de la entidad.
 
-I. El Consejo General;
+2. Para el ejercicio de sus funciones, el Instituto contará con órganos directivos, ejecutivos, técnicos, electorales y de vigilancia, en los términos siguientes:
 
-II. La Junta Ejecutiva;
+I. Un órgano de dirección que es el Consejo General;
 
-III. Los Consejos Distritales, uno en cada sede de distrito electoral uninominal; y
+II. Órganos ejecutivos, que son:
 
-IV. Los Consejos Municipales que correspondan.
+a) La Presidencia.
+
+b) La Junta Ejecutiva.
+
+c) La Secretaría Ejecutiva.
+
+III. Órganos técnicos, que son:
+
+a) La Unidad de fiscalización de los recursos de los partidos políticos.
+
+b) La Unidad de Comunicación Social.
+
+c) La Unidad de Informática.
+
+d) La Unidad de Acceso a la Información Pública.
+
+e) La Unidad del Servicio Profesional Electoral.
+
+f) La Unidad del Secretariado.
+
+IV. Órganos electorales, que son:
+
+a) Los Consejos Distritales Electorales.
+
+b) Los Consejos Municipales Electorales.
+
+c) Las Mesas Directivas de Casilla.
+
+V. Los órganos de vigilancia, que son las Comisiones del Consejo General previstas en esta ley.
+
+3. En cada uno de sus órganos, el Instituto contará con el apoyo de funcionarios integrados en un cuerpo denominado Servicio Profesional Electoral. El Servicio Profesional Electoral es la base del funcionamiento del Instituto.
 
 Órganos Electorales
 
 ARTÍCULO 8
 
-1. Los órganos integrantes del Instituto son:
-
-I. El Consejo General;
-
-II. La Presidencia;
-
-III. Las comisiones
-
-IV. La Junta Ejecutiva;
-
-V. La Secretaría Ejecutiva;
-
-VI. Los Consejos Distritales electorales, uno por distrito electoral uninominal con sede en cada municipio que sea cabecera distrital;
-
-VII. Los Consejos Municipales que correspondan; y
-
-VIII. Las Mesas Directivas de Casilla.
+1. (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
 2. Los Consejos Distritales y Municipales y las Mesas Directivas de Casilla estarán en funciones únicamente durante el proceso electoral, en los términos que disponga la Ley Electoral y el presente ordenamiento.
 
-### CAPÍTULO TERCERO. Disposiciones Complementarias
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO TERCERO. De las Sesiones de los Consejos
 
 Protesta de Ley
 
 ARTÍCULO 9
 
-1. Los miembros de los Consejos General, Distritales y Municipales, al momento de tomar posesión de su cargo, rendirán la protesta a que se refiere el artículo 158 de la Constitución.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-2. Los funcionarios de las Mesas Directivas de Casilla, harán lo propio al momento de recibir su nombramiento.
+1. Los integrantes de los órganos del Instituto Electoral deben rendir la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la local del Estado y las leyes que de ellas emanen, y en particular cumplir con las normas contenidas en el presente ordenamiento legal, así como desempeñar leal y patrióticamente la función que se les encomienda.
+
+2. (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
 Sesiones de los Consejos. Reglas Generales
 
@@ -226,6 +292,8 @@ I. Exhortar a guardar el orden;
 II. Conminar a abandonar el recinto; y
 
 III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE OCTUBRE DE 2009)</small>
 
 3. En los Consejos del Instituto sólo ocuparán lugar y tomarán parte en las deliberaciones en las mesas de sesiones los miembros acreditados ante éstas.
 
@@ -245,7 +313,9 @@ ARTÍCULO 12
 
 2. Los Consejos Distritales y Municipales Electorales, tendrán como horario de labores el que acuerde el Consejo General, tomando en cuenta que durante el proceso electoral, todos los días y las horas son hábiles, y así lo informarán a todos los miembros integrantes de estos órganos electorales.
 
-De las remuneraciones de los integrantes de los Consejos del Instituto
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+De las remuneraciones y responsabilidades de los integrantes de los Consejos del Instituto
 
 ARTÍCULO 13
 
@@ -255,19 +325,41 @@ ARTÍCULO 13
 
 2. Los Consejeros Electorales del Consejo General percibirán retribución mensual, equivalente al sesenta por ciento de la percepción total del Consejero Presidente, y se les garantizarán las prestaciones de ley correspondientes.
 
-3. Los consejeros distritales y municipales percibirán la remuneración que les asigne el Consejo General.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-4. Durante la vigencia de su nombramiento los consejeros electorales y el Consejero Presidente del Consejo General no podrán, en ningún caso, aceptar o desempeñar cargo, empleo o comisión de la Federación, el Estado, de los Municipios o de los partidos políticos.
+3. Los integrantes y personal de apoyo de los Consejos percibirán la remuneración que les asigne el Consejo General.
+
+4. (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
 5. No ejercerán profesión por cuyos servicios se cobren honorarios, compensaciones o salario alguno.
 
-6. Los consejeros electorales y el Consejero Presidente del Consejo General podrán recibir percepciones derivadas de la docencia, de sus regalías de derechos de autor o publicaciones, siempre que no afecte la independencia, imparcialidad y objetividad que debe regir el ejercicio de su función; podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-7. Cualquier remuneración o comisión que se establezca en contravención a lo dispuesto en los numerales 2 y 3 del presente artículo, será nula de pleno derecho y sancionada de conformidad con la ley.
+6. Los consejeros electorales y el Consejero Presidente del Consejo General podrán recibir percepciones derivadas de la docencia, de sus regalías de derechos de autor o publicaciones, siempre que no afecte la independencia, imparcialidad y objetividad que debe regir el ejercicio de su función.
 
-8. El monto de las remuneraciones y dietas a que se refiere este artículo, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-9. Las diferencias o conflictos entre el Instituto y los servidores públicos adscritos a él, serán resueltos por el Tribunal Estatal Electoral, de conformidad con la ley y el Estatuto. El procedimiento se sujetará a lo previsto en la Ley del Servicio Civil del Estado.
+7. Cualquier remuneración o comisión que se establezca en contravención a lo dispuesto en los numerales 1 y 2 del presente artículo, será nula de pleno derecho y sancionada de conformidad con la ley.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+8. El monto de las remuneraciones a que se refiere este artículo, deberá publicarse anualmente en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+9. Las diferencias o conflictos entre el Instituto y los servidores públicos adscritos a él, serán resueltos por el de Justicia Electoral, de conformidad con la ley y el Estatuto. El procedimiento se sujetará a lo previsto en la Ley del Servicio Civil del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+10. El Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Consejo General, durante el periodo de su encargo, no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia no remunerados, siempre que no afecte la independencia, imparcialidad y objetividad que debe regir el ejercicio de su función.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+11. El Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y los demás servidores públicos del Instituto desempeñarán su función con autonomía y probidad. No podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, ni divulgarla por ningún medio, salvo para el estricto ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+12. Los consejeros electorales y los secretarios ejecutivos estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en la Constitución Política del Estado y la ley de la materia.
 
 ## TÍTULO TERCERO. Autonomía y Rendición de Cuentas del Instituto
 
@@ -285,11 +377,17 @@ ARTÍCULO 15
 
 1. El Instituto administrará su patrimonio con base en la legislación aplicable.
 
-2. En cualquier caso en el que se dicten resoluciones que afecten el patrimonio inmobiliario o para celebrar actos o convenios que comprometan al Instituto por un término que exceda al periodo del encargo del Titular del Consejo General, se requerirá el acuerdo de las dos terceras partes de los miembros del Consejo General. El convenio siempre será por un tiempo determinado y con un objeto preciso.
+2. (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
-3. Los ingresos que obtenga el Instituto, por concepto de multas impuestas a los partidos políticos y demás infractores a la legislación electoral, deberán destinarse al fortalecimiento de la cultura cívica y a la participación democrática de la ciudadanía.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+3. Los ingresos que obtenga el Instituto, por concepto de multas impuestas a los partidos políticos y demás infractores a la legislación electoral, deberán destinarse al fortalecimiento de la cultura cívica y a la participación democrática de la ciudadanía con perspectiva de género.
 
 4. En las acciones relativas a la adquisición, arrendamiento, incorporación, desincorporación y enajenación de bienes que realice el Instituto deberán cumplirse los requisitos y formalidades que las entidades públicas deben satisfacer en términos de las leyes correspondientes.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+5. El Instituto destinará como mínimo, el 5% de su presupuesto anual al fortalecimiento de la cultura cívica con perspectiva de género, así como para la capacitación y formación permanente en la materia de todo el personal que integra su estructura orgánica, independientemente de los recursos destinados para tal efecto contemplados en el párrafo tercero de este artículo.
 
 Informes contable-financieros
 
@@ -349,9 +447,11 @@ ARTÍCULO 18
 
 Responsabilidades del Consejo General
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
 ARTÍCULO 19
 
-1. El Consejo General es el órgano superior de dirección del Instituto; responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, objetividad y equidad, guíen todas las actividades de los órganos del Instituto.
+1. El Consejo General es el órgano superior de dirección del Instituto; responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y de participación ciudadana, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, objetividad y equidad, guíen todas las actividades de los órganos del Instituto.
 
 Integración del Consejo General
 
@@ -359,21 +459,33 @@ ARTÍCULO 20
 
 1. El Consejo General se integrará por:
 
-I. Un Consejero Presidente, que lo será también del Instituto.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-Será electo por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes; durará en su cargo cuatro años y podrá ser ratificado por otro periodo igual. Sólo las fracciones legislativas podrán proponer candidatos;
+I. Un Consejero Presidente, que lo será también del Instituto. Será electo por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes; durará en su cargo cuatro años y podrá ser ratificado por otro periodo igual. Sólo los grupos parlamentarios podrán proponer candidatos, de conformidad con los procedimientos que determine la Legislatura del Estado;
 
-II. Seis consejeros electorales propietarios y suplentes respectivamente, electos por la Legislatura del Estado, con el voto de las dos terceras partes de sus miembros presentes, a propuesta de las fracciones legislativas.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+II. Seis consejeros electorales propietarios y suplentes respectivamente, electos por la Legislatura del Estado, con el voto de las dos terceras partes de sus miembros presentes, a propuesta de los grupos parlamentarios, en los términos que apruebe la Legislatura del Estado para tal efecto;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+III. El Consejero Presidente y los Consejos Electorales rendirán la protesta de ley ante la Legislatura del Estado dentro de las veinticuatro horas siguientes a su designación.
 
 2. De los consejeros propietarios señalados en las fracciones que anteceden, preferentemente cuatro serán de un género y tres de otro.
 
 3. A las sesiones del Consejo General, concurrirán con voz, pero sin voto:
 
-I. Un Secretario Ejecutivo, que lo será también del Instituto y de la Junta Ejecutiva. El Consejero Presidente propondrá una terna de candidatos al Consejo General, para que éste elija al Secretario Ejecutivo mediante el voto de las dos terceras partes de los consejeros;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-II. Consejeros representantes del Poder Legislativo. Cada fracción legislativa, por conducto de su coordinador, propondrá a los respectivos propietarios y suplentes, que serán designados por el Pleno de la Legislatura. Sólo habrá un consejero en funciones por cada fracción legislativa;
+I. Un Secretario Ejecutivo, que lo será también del Instituto y de la Junta Ejecutiva. El Consejero Presidente propondrá una terna de candidatos al Consejo General, para que éste elija al Secretario Ejecutivo mediante el voto de las dos terceras partes de los consejeros con derecho a voto;
 
-III. Representantes de los partidos políticos. Los partidos políticos con registro o acreditación vigente ante el Instituto tienen derecho a designar a un representante propietario con su respectivo suplente. La designación de representantes de los partidos políticos será hecha por el representante legal de cada partido y notificada al Instituto.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+II. Consejeros representantes del Poder Legislativo. Cada grupo parlamentario, por conducto de su coordinador, propondrá a los respectivos propietarios y suplentes, que serán designados por el Pleno de la Legislatura. Sólo habrá un consejero en funciones por cada grupo parlamentario;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+III. Representantes de los partidos políticos. Los partidos políticos con registro o acreditación vigente ante el Instituto tienen derecho a designar a un representante propietario con su respectivo suplente. La designación de representantes de los partidos políticos será hecha por conducto de las dirigencias estatales y notificada al Instituto. Los partidos podrán sustituir en todo tiempo a sus representantes, dando con oportunidad el aviso correspondiente al Consejero Presidente.
 
 Consejeros Electorales y Secretario Ejecutivo. Requisitos de elegibilidad
 
@@ -381,15 +493,19 @@ ARTÍCULO 21
 
 1. Para ser Consejero Presidente o Consejero Electoral deberán satisfacerse los requisitos siguientes:
 
-I. Ser ciudadano zacatecano en pleno goce de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+I. Ser ciudadano zacatecano por nacimiento en pleno goce de sus derechos políticos y civiles;
 
 II. Estar inscrito en el Registro Federal de Electores y tener credencial para votar;
 
-III. Acreditar el grado de licenciatura y preferentemente poseer conocimiento en materia político-electoral;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+III. Poseer el día de la designación, título profesional de nivel licenciatura y contar con los conocimientos y experiencia en materia político-electoral que le permita el desempeño de sus funciones;
 
 IV. En los últimos tres años inmediatos anteriores a su designación, no haber desempeñado cargo de elección popular; ni dirigente nacional, estatal o municipal de partido político alguno;
 
-V. Si el cargo público del que se hubiese separado fue el de Director Ejecutivo de Administración y Prerrogativas del Instituto, se requerirá que su rendición de cuentas haya sido aprobada por el Consejo General; y
+V. Si el cargo público del que se hubiese separado fue el de Director Ejecutivo de Administración y Prerrogativas del Instituto, se requerirá que su rendición de cuentas haya sido aprobada por el Consejo General; y (sic)
 
 VI. Manifestar bajo protesta de decir verdad que:
 
@@ -397,7 +513,15 @@ a) No ha sido condenado por delito intencional;
 
 b) No guarda el carácter de ministro de asociaciones religiosas y culto público; y
 
-c) Que no se encuentra inhabilitado temporalmente para desempeñar empleos, cargos o comisiones al servicio del Estado o municipios, en términos de la Ley de Responsabilidades de los Servidores Públicos.
+c) Que no se encuentra inhabilitado temporalmente para desempeñar empleos, cargos o comisiones al servicio del Estado o municipios, en términos de la Ley de Responsabilidades de los Servidores Públicos;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VII. Tener más de treinta años de edad, al día de la designación; requisito que no aplicará para el caso de Consejero Presidente, consejeros electorales y secretarios ejecutivos de los consejos distritales y municipales; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VIII. No desempeñar el cargo de consejero en otro órgano electoral de Entidades Federativas, a menos que se separe del mismo treinta días antes al de su designación.
 
 2. Los requisitos para ser Secretario Ejecutivo del Consejo General, son los mismos que para ser Consejero Electoral, a excepción del previsto en la fracción III, ya que deberá ser Licenciado en Derecho.
 
@@ -409,7 +533,37 @@ ARTÍCULO 22
 
 2. De producirse una ausencia definitiva de los consejeros electorales y representantes del Poder Legislativo, será llamado el suplente que corresponda para que concurra a rendir la protesta de ley y ocupe la titularidad del cargo.
 
-3. En caso de vacante definitiva de los consejeros electorales o representantes del Poder Legislativo, el Consejero Presidente se dirigirá a la Legislatura del Estado, para los efectos correspondientes.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+3. De darse la falta absoluta del Consejero Presidente o de cualquiera de los Consejeros Electorales, la Legislatura del Estado procederá en el más breve plazo a elegir al sustituto, quien concluirá el periodo de la vacante. En ningún caso, los cargos a que se refiere el presente párrafo podrán estar vacantes por más de treinta días naturales a la fecha en que se informe tal circunstancia a la Legislatura.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+4. De verificarse la ausencia definitiva del Consejero Presidente, la legislatura del Estado, por el voto de cuando menos las dos terceras partes de sus miembros presentes, deberán elegir al sustituto respectivo, para cubrir el resto del periodo correspondiente.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 22 BIS
+
+1. Se consideran faltas absolutas del Consejero Presidente o los Consejeros Electorales, las que se susciten por:
+
+I. Muerte;
+
+II. Incapacidad total y permanente que impida ejercer el cargo;
+
+III. Inasistencia consecutiva y sin causa justificada, de algún Consejero Electoral propietario a tres sesiones programadas y previamente notificadas conforme a las disposiciones legales aplicables;
+
+IV. Declaración que establezca la procedencia del juicio por delitos graves del orden común;
+
+V. Resolución derivada de la instauración de juicio político; y
+
+VI. Renuncia expresa por causa justificada.
+
+2. La falta absoluta de algún Consejero Electoral se notificará a la Legislatura del Estado dentro de las setenta y dos horas siguientes a que ocurra.
+
+3. En el caso de ausencia definitiva del Consejero Presidente, los Consejeros Electorales nombrarán, de entre ellos mismos, a quien deba sustituirlo provisionalmente, comunicando de inmediato lo anterior a la Legislatura del Estado, o en su caso, a la Comisión Permanente, a fin de que se designe al Consejero Presidente. Para este procedimiento deberá convocarse a sesión del Consejo General por cuatro Consejeros Electorales, por lo menos.
+
+4. Las ausencias temporales de los Consejeros Electorales, mayores de quince días, una vez iniciado el proceso electoral, y mayores de treinta días cuando no exista proceso electoral, requerirán de licencia otorgada por el Consejo Electoral. Cuando las ausencias no excedan los plazos que se indican, el Consejo General del Instituto Electoral será el competente para conocer la solicitud de licencia.
 
 ### CAPÍTULO SEGUNDO. De las Atribuciones del Consejo
 
@@ -423,7 +577,9 @@ ARTÍCULO 23
 
 I. Vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral;
 
-II. Expedir el Estatuto y los reglamentos necesarios para el buen funcionamiento del Instituto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+II. Expedir el Estatuto y los reglamentos necesarios para el buen funcionamiento y cumplimiento de los fines del Instituto;
 
 III. Atender y resolver las solicitudes y consultas que requieran los ciudadanos, candidatos, partidos políticos y en su caso coaliciones, relativas a la integración y funcionamiento de los órganos electorales, al desarrollo del proceso comicial y demás asuntos de su competencia;
 
@@ -431,7 +587,9 @@ IV. Designar a los presidentes, secretarios y consejeros electorales de los cons
 
 V. Cuidar y supervisar la debida integración y funcionamiento de los órganos electorales;
 
-VI. Resolver el otorgamiento del registro a los partidos políticos estatales, así como sobre la cancelación del mismo, en los términos de ley. Emitir la declaratoria que corresponda y ordenar su publicación en el Periódico Oficial, Órgano del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VI. Resolver el otorgamiento del registro a los partidos políticos estatales o sobre la acreditación de los partidos políticos nacionales, así como sobre la cancelación del mismo, en los términos de ley. Emitir la declaratoria que corresponda y ordenar su publicación en el Periódico Oficial, Órgano del Gobierno del Estado;
 
 VII. Vigilar que las actividades de los partidos políticos y en su caso coaliciones, se desarrollen de conformidad con la legislación aplicable y que cumplan con las obligaciones a que están sujetos;
 
@@ -443,7 +601,9 @@ X. Concluido un proceso electoral ordinario, revisar los elementos o factores co
 
 XI. Determinar el financiamiento público que corresponde a cada partido político, así como la calendarización de las ministraciones correspondientes;
 
-XII. Determinar el tope máximo de gastos de campaña que pueden erogar los partidos políticos o coaliciones en las elecciones constitucionales de los miembros de los Poderes Legislativo y Ejecutivo de la Entidad, así como de los integrantes de los ayuntamientos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XII. Determinar el tope máximo de gastos de precampaña y campaña que pueden erogar los partidos políticos o coaliciones en las elecciones constitucionales de los miembros de los Poderes Legislativo y Ejecutivo de la Entidad, así como de los integrantes de los ayuntamientos;
 
 XIII. Insacular para los efectos conducentes, con apoyo de los consejos electorales a los ciudadanos inscritos en la lista nominal de electores;
 
@@ -457,11 +617,15 @@ XVII. Requerir a los partidos políticos nacionales que pretendan participar en 
 
 XVIII. Registrar las candidaturas a Gobernador del Estado, a diputados por ambos principios, así como de las planillas para la integración de ayuntamientos por el principio de mayoría relativa y de regidores por el principio de representación proporcional, que presenten los partidos políticos o coaliciones, en términos de la Ley Electoral;
 
-XIX. Efectuar el cómputo estatal de la elección de Gobernador del Estado, expidiendo el acta circunstanciada correspondiente;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XIX. Efectuar preliminarmente el cómputo estatal de la elección de Gobernador del Estado, e integrar el expediente que deba remitirse al Tribunal de Justicia Electoral para la calificación final de la elección;
 
 XX. Efectuar los cómputos estatales de las elecciones de diputados y regidores por el principio de representación proporcional. Declarar su validez, asignar diputados y regidores por este principio, así como expedir las constancias de asignación correspondientes;
 
-XXI. Remitir al Tribunal Estatal Electoral los recursos que presenten los partidos políticos o coaliciones, así como acompañar la documentación relacionada con el acto o resolución que se impugne, en los términos señalados en la Ley de Impugnación;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XXI. Remitir al Tribunal de Justicia Electoral los recursos que presenten los partidos políticos o coaliciones, así como acompañar la documentación relacionada con el acto o resolución que se impugne, en los términos señalados en la Ley del Sistema de Medios de Impugnación Electoral del Estado;
 
 XXII. Registrar las constancias de mayoría de votos que expidan los consejos distritales y municipales con relación a las elecciones de diputados y ayuntamientos por el principio de mayoría relativa;
 
@@ -469,7 +633,7 @@ XXIII. Informar a la Legislatura del Estado, sobre el otorgamiento de constancia
 
 XXIV. Investigar por los medios a su alcance, hechos que afecten de manera relevante los derechos de los partidos políticos o incidan en los procesos electorales;
 
-XXV. Resolver los medios de impugnación que por ley le correspondan;
+XXV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
 
 XXVI. Aprobar anualmente y en su caso, modificar el proyecto de presupuesto de egresos del Instituto;
 
@@ -493,9 +657,13 @@ XXXV. Designar por el voto de las dos terceras partes de sus miembros, al Secret
 
 XXXVI. Designar a propuesta del Consejero Presidente, al integrante de la Junta Ejecutiva que deba sustituir al Secretario Ejecutivo durante las ausencias temporales de éste;
 
-XXXVII. Designar a los Directores Ejecutivos del Instituto con base en las ternas que proponga el Consejero Presidente, en los respectivos términos de la presente ley y el estatuto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XXXVIII. Autorizar la contratación del personal necesario para el ejercicio de funciones electorales, conforme al presupuesto;
+XXXVII. Designar a los Directores Ejecutivos del Instituto y títulares de los órganos técnicos con base en las ternas que proponga el Consejero Presidente, en los respectivos términos de la presente ley y el estatuto;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XXXVIII. Autorizar la contratación del personal al servicio del Instituto Electoral, conforme al presupuesto;
 
 XXXIX. Implantar y fomentar permanentemente la educación democrática, y la cultura de equidad entre los géneros, así como cursos de capacitación dirigidos a servidores públicos del Instituto, partidos políticos y en general, a mujeres, ciudadanos, jóvenes, niñas y niños del Estado;
 
@@ -503,9 +671,9 @@ XL. Emitir, a más tardar el 30 de enero del año en que se celebren las eleccio
 
 XLI. Establecer las bases y emitir los lineamientos a que se sujetarán los debates públicos que deban efectuar los candidatos a puestos de elección popular;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XLII. Emitir los acuerdos y reglamentos que procedan, a fin de que el ejercicio de la prerrogativa correspondiente al acceso de los partidos políticos a los medios de comunicación constituya una garantía en sus programas correspondientes. Asimismo contratará directamente los tiempos y espacios que los partidos políticos o coaliciones le indiquen, incluyendo encuestas y estudios de opinión. Dicha contratación se efectuará con cargo al financiamiento público correspondiente, sin rebasar, en ningún caso, el equivalente al 50% del financiamiento público para gastos de campaña de cada partido;
+XLII. Garantizar que el ejercicio de la prerrogativa correspondiente al acceso de los partidos políticos a radio y televisión, se realice de conformidad a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, Ley Electoral del Estado y demás disposiciones aplicables. Asimismo contratar, a petición de los partidos políticos, y en su caso de las coaliciones, los espacios en los medios de comunicación social impresos para difundir mensajes orientados a la obtención del voto durante las precampañas y campañas electorales; Dicha (sic) contratación se efectuará con cargo al financiamiento público correspondiente, sin rebasar, en ningún caso, el equivalente al 50% del financiamiento público para gastos de campaña de cada partido;
 
 XLIII. Expedir las convocatorias para los procesos electorales y de referéndum y plebiscito que deban celebrarse, así como cualquier otra que deba expedirse para la realización de sus fines;
 
@@ -521,15 +689,21 @@ XLVIII. Determinar los criterios generales de carácter científico, a que deber
 
 XLIX. Solicitar a instituciones de educación superior, dictámenes técnico-científicos relativos a los procesos metodológicos utilizados por las personas y entidades que realicen encuestas;
 
-L. Aprobar los informes financieros mensuales del Instituto e informar a la Legislatura del Estado de su manejo financiero y presupuestal en los términos de la Ley de Fiscalización Superior y esta Ley;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+L. Aprobar los informes financieros mensuales, semestral y anual del Instituto e informar a la Legislatura del Estado de su manejo financiero y presupuestal en los términos de la Ley de Fiscalización Superior y esta Ley;
 
 LI. Resolver sobre la procedencia de la acreditación de observadores electorales;
 
-LII. Designar a los integrantes de las comisiones que se conformen con base en esta ley;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LII. Designar a los integrantes de las comisiones permanentes y transitorias que se conformen con base en esta ley;
 
 LIII. Sustituir inmediatamente a los integrantes de los consejos distritales y municipales electorales, cuando por cualquier causa no se instalen o dejen de ejercer sus atribuciones, al transcurso del proceso electoral;
 
-LIV. Aprobar la documentación y materiales electorales que sean utilizados en los procesos electorales y en consultas ciudadanas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LIV. Aprobar el modelo y los formatos de la documentación y materiales electorales, así como los sistemas relativos del ejercicio del voto a través de medios electrónicos para el ejercicio del sufragio popular, preservando su calidad de universal, libre, secreto y directo que sean utilizados en los procesos electorales y en consultas ciudadanas;
 
 LV. Ordenar se publiquen en el Periódico Oficial, Órgano del Gobierno del Estado, los acuerdos, resoluciones y reglamentos que así determine el Consejo General;
 
@@ -537,7 +711,95 @@ LVI. Analizar las solicitudes de referéndum y plebiscito; resolver sobre su pro
 
 LVII. Conocer de las faltas e infracciones y, en su caso, imponer las sanciones que correspondan en los términos previstos en la presente ley;
 
-LVIII. Las demás que le confiera la Constitución, la ley y demás legislación aplicable.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LVIII. Autorizar con las dos terceras partes de sus integrantes, las bases del convenio con el Instituto Federal Electoral para que éste pueda coadyuvar en la organización de las elecciones locales. En todo caso, serán indelegables e irrenunciables las facultades del Consejo General para expedir la convocatoria, realizar el cómputo y la declaración de validez de las elecciones estatales y municipales, así como las respectivas asignaciones de diputados o regidores de representación proporcional. La coadyuvancia del Instituto Federal Electoral sólo procederá en cuestiones de logística y operación electoral, cuyo mando será determinado por el Consejo General;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LIX. Garantizar la transparencia y el acceso a la información pública del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LX. Intervenir exclusivamente en los asuntos internos de los partidos políticos que señale la legislación electoral;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXI. Controlar, vigilar y fiscalizar las finanzas de los partidos políticos y los gastos de las precampañas y campañas electorales, a través de la Comisión respectiva;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXII. Aprobar las bases de coordinación en materia de fiscalización de las finanzas de los partidos políticos con el Instituto Federal Electoral;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXIII. Establecer la estructura administrativa de los órganos del Instituto y expedir los reglamentos interiores, acuerdos, circulares y lineamientos generales necesarios para el funcionamiento del Instituto y sus órganos;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXIV. La aprobación, en su caso, del modelo o sistema electrónico para la recepción del voto, cuando sea factible técnica y presupuestalmente y se garantice la vigencia de las disposiciones legales que amparan la libertad y secreto del voto ciudadano;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXV. Regular los mecanismos para que los partidos políticos puedan acceder a los medios de comunicación social, en los términos señalados por la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, la Constitución Local y la Ley Electoral;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXVI. Aprobar el calendario integral de los procesos electorales o de participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXVII. Preparar, organizar y desarrollar los procesos electorales o de participación ciudadana, en los términos de esta ley y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXVIII. Garantizar condiciones de equidad en la competencia electoral;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXIX. Aprobar anualmente el tabulador de salarios de los servidores del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXX. Monitorear el comportamiento de los medios de comunicación durante los procesos electorales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXI. Monitorear el comportamiento de los medios de comunicación durante las precampañas y campañas, respecto de los programas noticiosos, entrevistas, inserciones en prensa escrita y cualquier participación de los partidos políticos, precandidatos y candidatos;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXII. Reglamentar los debates entre los candidatos a cargos de elección popular;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXIII. Asumir las funciones de los Consejos Electorales, cuando por causa de fuerza mayor no puedan integrarse o instalarse o ejercer las mismas en las fechas que establece la ley, cuando sea determinante para que pueda efectuarse la jornada electoral, cómputo respectivo o cualquier otro acto;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXIV. Formular la declaratoria de inicio y clausura de los procesos electorales o de participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXV. Aprobar a más tardar el día último de enero, la modificación y aplicación del presupuesto del Instituto para el ejercicio fiscal correspondiente;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXVI. Remover libremente con el voto de las dos terceras partes de sus integrantes, al Secretario Ejecutivo y Titulares de las Direcciones Ejecutivas y órganos técnicos;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXVII. Revisar y en su caso modificar anualmente el manual de organización y el catálogo de cargos y puestos del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXVIII. Hacer cumplir, en el ámbito de su competencia, las disposiciones legales relacionadas con la paridad entre los géneros en las postulaciones de candidaturas a cargos de elección popular hechas por los partidos políticos; así como impulsar permanentemente entre los servidores públicos del Instituto, la militancia de los partidos políticos y la ciudadanía en general, la cultura de la paridad entre los géneros a través de cursos de capacitación, investigaciones, talleres, foros y demás acciones dirigidas a tal fin;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXIX. Aprobar los lineamientos que regirán el voto electrónico, así como las casillas en que se instalarán urnas electrónicas; y
+
+LXXX. Las demás que le confiera la Constitución, la ley y demás legislación aplicable.
 
 Presidente del Consejo General. Atribuciones
 
@@ -557,7 +819,9 @@ V. Celebrar a nombre del Instituto, con las autoridades competentes, los conveni
 
 VI. Celebrar convenios con instituciones académicas y de educación superior, para impartir cursos de formación, capacitación y actualización para aspirantes y miembros del Servicio Profesional Electoral;
 
-VII. Convocar y conducir las sesiones del Consejo General;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VII. Convocar, presidir y conducir las sesiones del Consejo General;
 
 VIII. Designar al consejero electoral que lo sustituya en sus ausencias temporales;
 
@@ -569,7 +833,9 @@ XI. Presentar al Consejo General para su aprobación, el anteproyecto de presupu
 
 XII. Remitir al titular del Poder Ejecutivo, con oportunidad, el proyecto de presupuesto aprobado por el Consejo General, para que se incluya en la iniciativa de presupuesto anual de egresos, de conformidad con lo previsto en la Ley de Administración y Finanzas Públicas del Estado;
 
-XIII. Ejercer las partidas presupuestales aprobadas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XIII. Ejercer las partidas presupuestales aprobadas por el Consejo General, una vez que se autorice la aplicación y distribución del presupuesto del Instituto anualmente;
 
 XIV. Nombrar de entre los consejeros electorales de los consejos distritales o municipales, a quien provisionalmente y en ausencias temporales deba sustituir al respectivo presidente de alguno de tales órganos;
 
@@ -577,7 +843,9 @@ XV. Con base en la disponibilidad presupuestal, someter a la consideración del 
 
 XVI. Solicitar a las autoridades estatales y federales brinden el auxilio de la fuerza pública, en caso necesario, a fin de garantizar el desarrollo pacífico del proceso electoral;
 
-XVII. Someter a consideración del Consejo General los proyectos de convocatorias para los procesos electorales y de referéndum y plebiscito que deban celebrarse;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XVII. Someter a consideración del Consejo General los proyectos de convocatorias para los procesos electorales y de referéndum y plebiscito que deban celebrarse y cualquier otra que sea necesaria para el cumplimiento de los fines del Instituto;
 
 XVIII. Dar a conocer las estadísticas electorales al Consejo General, a la Legislatura del Estado y a la ciudadanía, una vez concluido el proceso electoral;
 
@@ -591,21 +859,135 @@ XXII. Recibir las solicitudes de registro relativas a coaliciones, candidaturas 
 
 XXIII. Proponer al Consejo General la terna de candidatos para la designación del Secretario Ejecutivo; así como las relativas a los titulares de las direcciones integrantes de la Junta Ejecutiva, conforme a lo establecido en el Estatuto;
 
-XXIV. Publicar en el Periódico Oficial, Órgano del Gobierno del Estado, los acuerdos y resoluciones que determine el Consejo General; y
+XXIV. Publicar en el Periódico Oficial, Órgano del Gobierno del Estado, los acuerdos y resoluciones que determine el Consejo General; y (sic)
 
-XXV. Las demás que le confiera la legislación electoral.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-### CAPÍTULO TERCERO. De las Sesiones del Consejo General
+XXV. Representar al Instituto con todas las facultades legales y necesarias inherentes a dicho fin;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XXVI. Otorgar poderes de representación al Secretario Ejecutivo, Director o Coordinadores Jurídicos, según corresponda;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XXVII. Celebrar convenios de coordinación con el Instituto Federal Electoral para la fiscalización de los recursos de los partidos políticos, con la aprobación del Consejo General;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XXVIII. Proponer anualmente para su aprobación al Consejo General del Instituto Electoral, a más tardar en el mes de septiembre, el proyecto de programa de actividades del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XXIX. Elaborar y presentar a la Legislatura del Estado el informe anual de actividades y los informes financieros contables mensuales, semestrales y anual;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XXX. Proponer para su aprobación al Consejo General, para cada proceso electoral, el estudio sobre los costos mínimos de campañas y los topes en los gastos de precampaña y campañas electorales, según corresponda;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XXXI. Coordinar a los órganos técnicos del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XXXII. Designar a los encargados de despacho, en caso de ausencias de los integrantes de la Junta Ejecutiva, y
+
+XXXIII. Las demás que le confiera la legislación electoral.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+De la remoción del Consejero Presidente
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 24 BIS
+
+1. La remoción del Consejero Presidente del Instituto Electoral es facultad exclusiva de la Legislatura del Estado.
+
+2. La remoción del Consejero Presidente del Instituto Electoral procederá cuando incurra en la realización de cualquier hecho que pueda dañar seriamente los principios de certeza, legalidad, independencia, imparcialidad, equidad u objetividad.
+
+3. Para tal efecto se requerirá del voto de las dos terceras partes de los integrantes de la Legislatura del Estado.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+De la función de los Consejeros Electorales
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 24 TER
+
+1. Los Consejeros Electorales desempeñan una función de carácter público, la cual se sujetará a los principios de autonomía, independencia, legalidad, excelencia, profesionalismo, imparcialidad, objetividad, probidad y honestidad.
+
+2. Los Consejeros Electorales tendrán las siguientes atribuciones:
+
+I. Asistir con voz y voto a las sesiones del Consejo electoral;
+
+II. Formular proyectos de acuerdo para someterlos a la consideración del Consejo electoral;
+
+III. Formular votos particulares;
+
+IV. Velar por la autenticidad y efectividad del sufragio;
+
+V. Promover, supervisar y participar en los programas de formación cívica y capacitación electoral;
+
+VI. Orientar a los ciudadanos en el ejercicio de sus derechos y en el cumplimiento de sus deberes en materia político electoral;
+
+VII. Desempeñar las tareas que el propio Instituto les encomiende;
+
+VIII. Formar parte de las Comisiones que acuerde el Consejo electoral; y
+
+IX. Las demás que esta ley y otras disposiciones aplicables les confieran.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO TERCERO. De las Sesiones de los Consejos
 
 Frecuencia de Sesiones
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
 ARTÍCULO 25
 
-1. En el periodo que transcurra entre dos procesos electorales, el Consejo General, se reunirá en sesión ordinaria cada mes.
+1. El Consejo General sesionará:
 
-2. Una vez iniciado un proceso electoral y hasta su conclusión, el Consejo General sesionará de manera ordinaria cuando menos dos veces al mes.
+I. De manera ordinaria:
 
-3. El Presidente podrá convocar a sesión extraordinaria cuando sea necesario o a petición que le formulen la mayoría de los consejeros electorales o la mayoría de los representantes de los partidos políticos.
+a. A partir del inicio formal de un proceso electoral o de participación ciudadana y hasta la declaración formal de la terminación de éstos, por lo menos una vez al mes; y
+
+b. Concluido el proceso electoral y hasta un día antes al en que inicie el siguiente, por lo menos una vez cada dos meses.
+
+II. De manera extraordinaria:
+
+a. Cuando lo considere necesario el Consejero Presidente;
+
+b. A petición que formulen la mayoría de los representantes de los partidos políticos; y
+
+c. A petición que por escrito formulen la mayoría de los Consejeros Electorales.
+
+III. De manera especial:
+
+a. El primer lunes hábil del mes de enero del año de la elección, para dar inicio al proceso electoral;
+
+b. Cuando los Consejos Electorales resuelvan sobre la procedencia o improcedencia de registro de candidaturas;
+
+c. El día de la jornada electoral, con el objeto exclusivo de dar seguimiento y atención a los asuntos concernientes directamente con los comicios;
+
+d. El miércoles siguiente al día de la jornada electoral, con el objeto exclusivo de dar seguimiento y atención a los cómputos en los Consejos Distritales y Municipales Electorales;
+
+e. A partir del domingo siguiente al día de la jornada electoral, para llevar a cabo los cómputos estatales, la calificación de las elecciones, las asignaciones por el principio de representación proporcional y la expedición de las constancias de asignación de representación proporcional; y
+
+f. Cuando tenga verificativo el recuento de votos total o parcial de las elecciones, en los consejos distritales o municipales.
+
+2. (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
+
+3. (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
+
+4. El Consejo General podrá declarar las sesiones con carácter de permanentes y durante su desarrollo decretar todos los recesos que estime pertinentes.
+
+5. Todas las sesiones del Consejo General del Instituto Electoral serán públicas.
+
+6. Lo señalado en los párrafos anteriores del presente artículo, se aplicarán en lo conducente, en las respectivas sesiones de los consejos distritales y municipales.
 
 Quórum y Suplencias
 
@@ -621,7 +1003,17 @@ ARTÍCULO 26
 
 5. Las resoluciones se tomarán por mayoría de votos, salvo las que conforme a esta ley requieran de una mayoría calificada. En caso de empate en la votación, el Consejero Presidente tendrá voto de calidad.
 
-6. En el caso de ausencia definitiva del Consejero Presidente, la mayoría de los consejeros electorales convocarán a sesión, y nombrarán, de entre ellos, a quien deba sustituirlo provisionalmente. De inmediato, el nombrado comunicará su designación a la Legislatura del Estado, para los efectos conducentes.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+6. En el caso de ausencia definitiva del Consejero Presidente, el Secretario Ejecutivo, de inmediato lo hará del conocimiento de la Legislatura del Estado, para los efectos conducentes.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+7. A los representantes de los partidos políticos que no estén presentes en el desarrollo de las sesiones, se les deberán practicar las notificaciones de los acuerdos y resoluciones que apruebe el Consejo General del Instituto Electoral para que éstas surtan efectos, respecto del partido político que representan.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+8. Cuando un partido político o coalición deje de asistir a las sesiones de los Consejos Electorales del Instituto por cinco ocasiones consecutivas, sin que medie causa justificada, el presidente del consejo electoral correspondiente lo notificará al Secretario Ejecutivo del consejo general, quien lo hará del conocimiento de la dirigencia estatal del partido solicitando se corrija esa situación. En caso de persistir la ausencia dejará de formar parte del organismo electoral correspondiente durante el proceso electoral de que se trate. La resolución que en estos casos emita se notificará al partido político respectivo.
 
 Publicación de Acuerdos
 
@@ -635,7 +1027,9 @@ Reglas
 
 ARTÍCULO 28
 
-1. El Consejo General conformará las comisiones que considere necesarias para el desempeño de sus atribuciones y cumplimiento de los fines del Instituto. Dichas comisiones siempre serán presididas por un consejero electoral, y se integrarán, por lo menos, con tres Consejeros Electorales.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+1. El Consejo General conformará las comisiones que considere necesarias para el desempeño de sus atribuciones y cumplimiento de los fines del Instituto. Dichas comisiones siempre serán presididas por un consejero o consejera electoral, y se integraran, por lo menos, con tres consejeros o consejeras Electorales. Salvo la Comisión de Paridad entre los Géneros, que estará integrada además por las personas responsables de las secretarías u órganos equivalentes de los partidos políticos con acreditación o registro en el instituto, encargadas de los asuntos relacionados con la equidad entre los géneros, a razón de una persona por partido político; quienes podrán participar sólo con derecho a voz.
 
 2. Las comisiones podrán tener el carácter de permanentes o transitorias.
 
@@ -649,11 +1043,15 @@ Comisiones. Atribuciones y Funciones
 
 ARTÍCULO 29
 
-1. En todos los casos, las Comisiones presentarán su dictamen al Consejo General para su aprobación.
+1. (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
-2. Las comisiones del Consejo General tendrán la competencia y atribuciones que les otorga esta ley u otras disposiciones aplicables. Para el desahogo de los asuntos de su competencia, las comisiones deberán sesionar, por lo menos, cada quince días.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-3. La competencia de las comisiones será, en términos generales, la derivada de su nombre y estudiarán, discutirán y votarán los asuntos que les sean turnados.
+2. Las comisiones del Consejo General tendrán la competencia y atribuciones que les otorga esta ley u otras disposiciones aplicables. Para el desahogo de los asuntos de su competencia, las comisiones deberán sesionar, por lo menos, una vez al mes.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+3. La competencia de las comisiones será, en términos generales, la derivada de su nombre y estudiarán, discutirán y votarán los asuntos que les sean turnados. Los integrantes de las comisiones serán designados por el Consejo General a más tardar el quince de diciembre de cada año y su duración será por un año pudiendo ser ratificado.
 
 4. En los dictámenes de las comisiones, cuando el asunto lo requiera, deberá valorarse la opinión que por escrito formulen los partidos políticos.
 
@@ -673,13 +1071,19 @@ II. De Servicio Profesional Electoral;
 
 III. De Administración y Prerrogativas;
 
-IV. De Capacitación Electoral y Cultura Cívica;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+IV. De Capacitación Electoral y Cultura Cívica con Perspectiva de Género;
 
 V. De Asuntos Jurídicos;
 
-VI. De Sistemas y Programas Informáticos; y
+VI. De Sistemas y Programas Informáticos; y (sic)
 
-VII. De comunicación Social.
+VII. De comunicación Social;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VIII. De Paridad entre los Géneros.
 
 Comisión de Organización Electoral y Partidos Políticos. Atribuciones
 
@@ -699,7 +1103,9 @@ V. Proponer al Consejo General las bases y criterios para la demarcación geoele
 
 VI. Revisar las solicitudes que presenten los partidos políticos que pretendan coligarse, así como aquellos que presenten solicitudes de registro de candidaturas comunes, verificando el cumplimiento de cada uno de los requisitos que para el registro prevé la ley, emitiendo el correspondiente dictamen;
 
-VII. Elaborar los dictámenes relativos a las solicitudes de constitución y de cancelación del registro de partidos políticos estatales;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VII. Elaborar los dictámenes relativos a las solicitudes de constitución de partidos políticos estatales o acreditación de partidos políticos nacionales; además del correspondiente a la cancelación o pérdida del registro como partido político estatal o nacional;
 
 VIII. Dictaminar las solicitudes de fusión de partidos políticos estatales; y
 
@@ -711,17 +1117,29 @@ ARTÍCULO 32
 
 1. La Comisión de Servicio Profesional Electoral tendrá las siguientes atribuciones:
 
-I. Presentar al Consejo General el anteproyecto de Estatuto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+I. Presentar al Consejo General el anteproyecto de Estatuto y sus propuestas de reforma;
 
 II. Proponer al Consejo General la designación de los funcionarios del Servicio Profesional Electoral, en los términos del Estatuto;
 
-III. Proponer al Consejo General la contratación del personal adscrito al servicio de la presidencia, al servicio administrativo y de apoyo del Instituto que no forme parte de la función electoral, conforme a lo establecido en el Estatuto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-IV. Aprobar y supervisar la ejecución de los planes y programas del Servicio Profesional Electoral que le presente la Junta Ejecutiva;
+III. Proponer al Consejo General la contratación o continuidad del personal adscrito al servicio de la presidencia, al servicio administrativo y de apoyo del Instituto que no forme parte de la función electoral, conforme a lo establecido en el Estatuto;
 
-V. Dar seguimiento y supervisar la elaboración del proyecto de Manual de Organización, así como del Catálogo de Cargos y Puestos del Instituto, y en su caso, la propuesta de las modificaciones al mismo que presente la Junta Ejecutiva; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-VI. Las demás que le confiera esta ley y los reglamentos del Consejo General.
+IV. Supervisar la ejecución de los planes y programas del Servicio Profesional Electoral que le presente la Junta Ejecutiva;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+V. Supervisar la elaboración del proyecto de Manual de Organización, así como del Catálogo de Cargos y Puestos del Instituto, y en su caso, la propuesta de las modificaciones al mismo que presente la Junta Ejecutiva;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VI. Supervisar las actividades encomendadas a la Unidad del Servicio Profesional Electoral; y
+
+VII. Las demás que le confiera esta ley y los reglamentos del Consejo General.
 
 Comisión de Administración y Prerrogativas. Atribuciones
 
@@ -743,25 +1161,39 @@ VI. Elaborar la propuesta de calendarización de ministraciones de financiamient
 
 VII. Las demás que le confiera esta ley y los reglamentos del Consejo General.
 
-Comisión de Capacitación Electoral y Cultura Cívica. Atribuciones
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+Comisión de Capacitación Electoral y Cultura Cívica con Perspectiva de Género. Atribuciones
 
 ARTÍCULO 34
 
-1. La Comisión de Capacitación Electoral y Cultura Cívica tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-I. Supervisar las actividades encomendadas a la Dirección Ejecutiva de Capacitación Electoral y Cultura Cívica;
+1. La Comisión de Capacitación Electoral y Cultura Cívica con Perspectiva de Género tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+I. Supervisar las actividades encomendadas a la Dirección Ejecutiva de Capacitación Electoral y Cultura Cívica con Perspectiva de Género;
 
 II. Verificar el cumplimiento del programa de capacitación electoral que se desarrolle durante los procesos electorales;
 
 III. Aprobar el material didáctico y los instructivos electorales;
 
-IV. Supervisar la ejecución de los programas de Cultura Cívica y Capacitación Electoral aprobados por el Consejo General;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+IV. Supervisar la ejecución de los programas de Cultura Cívica con Perspectiva de Género y Capacitación Electoral aprobados por el Consejo General;
 
 V. Supervisar las actividades de fomento a la educación democrática y a la cultura de equidad entre los géneros;
 
-VI. Supervisar el programa de elecciones infantiles y juveniles; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-VII. Las demás que le confiera esta ley y los reglamentos del Consejo General.
+VI. Supervisar el programa de elecciones infantiles y juveniles;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VII. Supervisar la capacitación y formación permanente de la ciudadanía, el personal del Instituto y los militantes de los partidos políticos con registro, en la cultura cívica con perspectiva de género; y
+
+VIII. Las demás que le confiera esta ley y los reglamentos del Consejo General.
 
 Comisión de Asuntos Jurídicos. Atribuciones
 
@@ -771,19 +1203,27 @@ ARTÍCULO 35
 
 I. Supervisar las actividades encomendadas a la Dirección Ejecutiva de Asuntos Jurídicos;
 
-II. Revisar los convenios que celebren los partidos políticos en materia de coaliciones y candidaturas comunes;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+II. Coadyuvar en la revisión de los convenios que celebren los partidos políticos en materia de coaliciones y candidaturas comunes;
 
 III. Revisar el registro de candidatos que presenten los partidos políticos, para efectos del cumplimiento de equidad de géneros, en los términos de la Ley Electoral;
 
 IV. Revisar los proyectos de reglamentos que presente la Junta Ejecutiva, para someterlos a la consideración del Consejo General;
 
-V. Presentar la propuesta de acuerdo que contenga el listado que identifique los diversos productos, servicios y demás instrumentos que en materia de propaganda electoral, sean susceptibles de ser utilizados por los partidos políticos y las coaliciones para difundir sus plataformas políticas, así como y en el desarrollo de las campañas electorales;
+V. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
 
-VI. Coadyuvar con la Comisión de Organización y Partidos Políticos sobre la tramitación de la solicitud que formulen las organizaciones que pretendan constituirse como partidos políticos estatales, así como de la que formulen los partidos políticos nacionales para acreditar la vigencia de su registro.
+VI. Coadyuvar con la Comisión de Organización y Partidos Políticos sobre la tramitación de la solicitud que formulen las organizaciones que pretendan constituirse como partidos políticos estatales, así como de la que formulen los partidos políticos nacionales para acreditar la vigencia de su registro;
 
-VII. Formular el proyecto de resolución de los medios de impugnación que deba resolver el Consejo General; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-VIII. Las demás que le confiera esta ley y los reglamentos del Consejo General.
+VII. Formular el proyecto de resolución de los medios de impugnación que deba resolver el Consejo General;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VIII. Supervisar el desarrollo y cumplimiento de las etapas de los procedimientos administrativos sancionadores electorales tramitados ante el Instituto; y
+
+IX. Las demás que le confiera esta ley y los reglamentos del Consejo General.
 
 Comisión de Sistemas y Programas Informáticos. Atribuciones
 
@@ -819,6 +1259,48 @@ VI. Elaborar, en coordinación con la Dirección de Sistemas y Programas Inform�
 
 VII. Las demás que le confiera esta ley y los reglamentos del Consejo General.
 
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+Comisión de Paridad entre los Géneros.
+
+Atribuciones
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 37 BIS
+
+1. La Comisión de Paridad entre los Géneros tendrá las siguientes atribuciones:
+
+I. Supervisar las actividades encomendadas a la Dirección de Paridad entre los Géneros;
+
+II. Verificar el cumplimiento del programa que la Dirección Ejecutiva de Paridad entre los Géneros desarrolle anualmente;
+
+III. Aprobar el contenido de los materiales didácticos, instructivos, trípticos y demás insumos necesarios para la ejecución del programa de paridad;
+
+IV. Supervisar la ejecución del programa de paridad entre los géneros;
+
+V. Dar seguimiento a las actividades de fomento a la educación y la cultura de paridad entre los géneros;
+
+VI. Vigilar el cumplimiento de las disposiciones de esta Ley, relacionadas con la asignación y distribución de candidaturas a cargos de elección popular, tanto por el principio de mayoría relativa como por el principio de representación proporcional, de conformidad con lo establecido en la Ley Electoral;
+
+VII. Vigilar el monitoreo permanente que la Dirección de Paridad entre los Géneros desarrolle sobre la aplicación del programa para la paridad y en la asignación del presupuesto en materia de equidad entre los géneros y para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres;
+
+VIII. Dictaminar sobre la aplicación de sanciones a los partidos políticos por el incumplimiento de las disposiciones señaladas en las dos fracciones anteriores;
+
+IX. Proponer al Consejo General lineamientos técnicos y administrativos a los partidos políticos para el fomento a la participación política de las mujeres y el incremento de su representación en los espacios públicos de decisión del estado;
+
+X. Proponer a la Dirección de Paridad la asignación de las partidas correspondientes al fomento a la cultura de la paridad entre los géneros;
+
+XI. Presentar ante el Consejo General un informe especial sobre la situación general que guarda el impulso a la participación política de las mujeres en el estado, en un plazo no mayor a seis meses después de haber concluido el proceso electoral ordinario;
+
+XII. Proponer al Consejo General, por conducto de su Presidenta o Presidente, la celebración de convenios para la colaboración y coordinación de acciones con los partidos políticos, las organizaciones de la sociedad civil e instituciones académicas especializadas en los temas relacionados con la paridad entre los géneros, con el objetivo de impulsar el ejercicio de los derechos políticos de las mujeres;
+
+XIII. Presentar al Consejo General mecanismos para la estandarización de los procesos y acciones tendientes al desarrollo de la participación política de las mujeres, al interior del Instituto y los partidos políticos;
+
+XIV. Supervisar las campañas informativas y de difusión que desarrollen de manera coordinada las Direcciones de Paridad entre los Géneros y Comunicación Social, orientadas a sensibilizar a la población sobre la paridad en la participación política, los mecanismos que la fomentan y aquéllos que sancionan su incumplimiento; y
+
+XV. Las demás que le confiera esta ley y los reglamentos del Consejo General.
+
 ## TÍTULO QUINTO. De la Junta Ejecutiva y del Secretario del Instituto
 
 ### CAPITULO PRIMERO. De la Integración y Atribuciones de la Junta Ejecutiva
@@ -827,23 +1309,39 @@ Junta Ejecutiva. Dirección e integración Periodicidad de Reuniones y Atribucio
 
 ARTÍCULO 38
 
-1. La Junta Ejecutiva del Instituto será dirigida por el Consejero Presidente y se integrará con el siguiente personal:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-I. El Secretario Ejecutivo del Instituto;
+1. La Junta Ejecutiva del Instituto será dirigida por la Consejera o Consejero Presidente y se integrará de la siguiente manera:
 
-II. Los titulares de las direcciones:
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+I. La Secretaría Ejecutiva del Instituto;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+II. Las personas titulares de las direcciones:
 
 a) De Organización Electoral y Partidos Políticos;
 
 b) De Administración y Prerrogativas;
 
-c) De Capacitación Electoral y Cultura Cívica;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+c) De Capacitación Electoral y Cultura Cívica con Perspectiva de Género;
 
 d) De Asuntos Jurídicos;
 
-e) De Sistemas y Programas Informáticos; y
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-III. El titular de la Unidad de Comunicación Social.
+e) De Sistemas y Programas Informáticos;
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+f) De Paridad entre los Géneros.
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+III. La persona titular de la Unidad de Comunicación Social.
 
 2. La Junta Ejecutiva se reunirá por lo menos una vez al mes, siendo sus atribuciones las siguientes:
 
@@ -851,7 +1349,9 @@ I. Proponer al Consejo General las políticas, programas generales y procedimien
 
 II. Ser responsable de evaluar el desarrollo y desempeño del personal que conforma el Servicio Profesional Electoral;
 
-III. Integrar los expedientes relativos a las faltas administrativas del personal del Instituto, y en su caso, dar cuenta al Consejo General, para la imposición de sanciones, conforme a la presente ley;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+III. Integrar los expedientes relativos a los procedimientos administrativos sancionadores electorales, y las faltas administrativas del personal del Instituto, y en su caso, dar cuenta al Consejo General, para la imposición de sanciones, conforme a la presente ley;
 
 IV. Entregar a los consejos distritales, y por su conducto a los presidentes de las mesas directivas de las casillas, el material y la documentación necesarios para la jornada electoral;
 
@@ -871,11 +1371,21 @@ XI. Llevar a cabo los programas de reclutamiento, selección, formación y desar
 
 XII. Aprobar los anteproyectos que elaboren las direcciones ejecutivas y que deban someterse a la consideración del Consejo General;
 
-XIII. Participar en lo conducente en la elaboración de la propuesta del anteproyecto de presupuesto de egresos del Instituto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XIV. Emitir y presentar al Consejo General las propuestas de Manual de Organización y del Catálogo de Cargos y Puestos del Instituto, y en su caso, las modificaciones al mismo; y
+XIII. Participar en lo conducente en la elaboración de la propuesta del anteproyecto de presupuesto de egresos del Instituto, así como la propuesta de aplicación y distribución del gasto para el ejercicio fiscal correspondiente;
 
-XV. Las demás que le encomienden esta ley, el Reglamento Interior del Instituto, el Consejo General o su presidente en el ámbito de sus respectivas atribuciones.
+XIV. Emitir y presentar al Consejo General las propuestas de Manual de Organización y del Catálogo de Cargos y Puestos del Instituto, y en su caso, las modificaciones al mismo; y (sic)
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XV. Solicitar a los órganos ejecutivos y técnicos del Instituto los informes que estime pertinentes;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XVI. Participar en la implementación de los mecanismos de transversalización con perspectiva de género, de las políticas y programas que instrumente el Instituto, y
+
+XVII. Las demás que le encomienden esta ley, el Reglamento Interior del Instituto, el Consejo General o su presidente en el ámbito de sus respectivas atribuciones.
 
 ### CAPÍTULO SEGUNDO. Del Secretario Ejecutivo
 
@@ -883,11 +1393,15 @@ Duración en el cargo y atribuciones
 
 ARTÍCULO 39
 
-1. El Secretario Ejecutivo del Consejo General durará en el cargo 4 años.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+1. El Secretario Ejecutivo del Consejo General durará en el cargo 4 años y podrá ser removido libremente por el Consejo General por el voto de las dos terceras partes de sus integrantes, a propuesta del Consejero Presidente.
 
 2. Son atribuciones del Secretario Ejecutivo:
 
-I. Coadyuvar con el Consejero Presidente, en las funciones de conducir la administración y supervisar las actividades de los órganos colegiados Distritales, Municipales y mesas Directivas de Casilla, ejecutivos y técnicos del Instituto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+I. Coadyuvar con el Consejero Presidente, en las funciones de conducir la administración y supervisar las actividades de los órganos ejecutivos, técnicos y electorales del Instituto;
 
 II. Preparar la propuesta de orden del día de las sesiones del Consejo General y de la Junta Ejecutiva; declarar la existencia del quórum legal; dar fe de todo lo acordado en las sesiones; levantar el acta respectiva y someterla para su aprobación;
 
@@ -901,9 +1415,11 @@ VI. Verificar que los asuntos que acuerde el Consejo General, sean recibidos por
 
 VII. Dar cuenta al Consejo General con los proyectos de resolución o dictamen que presenten las comisiones;
 
-VIII. Recibir y sustanciar los medios de impugnación que se interpongan en contra de los actos o resoluciones de los órganos del Instituto;
+VIII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
 
-IX. En su caso, remitir al Tribunal Estatal Electoral los recursos que éste deba substanciar. En la sesión inmediata rendirá el informe respectivo;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+IX. En su caso, remitir a las autoridades jurisdiccionales electorales los recursos que éste deba substanciar. En la sesión inmediata rendirá el informe respectivo;
 
 X. Dar cuenta de inmediato al Consejo General acerca de las resoluciones que le competan, dictadas por las autoridades competentes;
 
@@ -921,9 +1437,19 @@ XVI. Certificar documentos, y participar como fedatario, en los convenios que ce
 
 XVII. Actuar como secretario técnico de la Comisión del Servicio Profesional Electoral;
 
-XVIII. Firmar junto con el Consejero Presidente, todos los acuerdos y resoluciones que se emitan; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XIX. Las demás que le sean conferidas por esta ley, por el Consejo General y su presidente, en el ámbito de sus respectivas atribuciones.
+XVIII. Firmar junto con el Consejero Presidente, todos los acuerdos y resoluciones que se emitan;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XIX. Coordinar las Unidades de Transparencia y Acceso a la Información Pública, de Informática y del Servicio Profesional Electoral;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XX. Remitir al Tribunal de Justicia Electoral los expedientes y documentación necesaria para el Cómputo final de la Elección de Gobernador del Estado; y
+
+XXI. Las demás que le sean conferidas por esta ley, por el Consejo General y su presidente, en el ámbito de sus respectivas atribuciones.
 
 ### CAPÍTULO TERCERO. De las Direcciones
 
@@ -931,7 +1457,9 @@ Titulares y requisitos
 
 ARTÍCULO 40
 
-1. Al frente de cada una de las direcciones de la Junta Ejecutiva habrá un director ejecutivo, quien será nombrado por el Consejo General, con base en la terna que les presente el Consejero Presidente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+1. Al frente de cada una de las direcciones de la Junta Ejecutiva habrá un director ejecutivo, quien será nombrado y removido libremente por el Consejo General, con el voto de las dos terceras partes de sus integrantes, a propuesta del Consejero Presidente o cualquiera de los consejeros.
 
 2. Los directores ejecutivos deberán satisfacer los requisitos que establezca el Estatuto.
 
@@ -1025,17 +1553,25 @@ XVII. Coadyuvar con el Presidente y Secretario Ejecutivo en materia de recursos 
 
 XVIII. Las demás que le confiera la ley y el reglamento.
 
-Dirección Ejecutiva de Capacitación Electoral y Cultura Cívica. Atribuciones
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+Dirección Ejecutiva de Capacitación Electoral y Cultura Cívica con Perspectiva de Género. Atribuciones
 
 ARTÍCULO 43
 
-1. Son atribuciones del titular de la Dirección Ejecutiva de Capacitación Electoral y Cultura Cívica:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-I. Elaborar y proponer el proyecto de programa anual de actividades en materia de capacitación electoral, cultura cívica y equidad de géneros, para su aprobación por el Consejo General;
+1. Son atribuciones del titular de la Dirección Ejecutiva de Capacitación Electoral y Cultura Cívica con Perspectiva de Género:
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+I. Elaborar y proponer el proyecto de programa anual de actividades en materia de capacitación electoral y cultura cívica con perspectiva de género, para su aprobación por el Consejo General;
 
 II. Elaborar y proponer al Consejo General, el programa de capacitación electoral que se desarrollará durante los procesos electorales;
 
-III. Elaborar y proponer al Consejo General, el programa de elecciones infantiles y juveniles a desarrollar en los procesos electorales;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+III. Elaborar y proponer al Consejo General, el programa de elecciones infantiles y juveniles con perspectiva de género a desarrollar en los procesos electorales;
 
 IV. Preparar el material didáctico y los instructivos electorales;
 
@@ -1045,7 +1581,9 @@ VI. Llevar a cabo las acciones necesarias para exhortar a los ciudadanos que cum
 
 VII. Organizar, actualizar y operar el Centro de la Información y Documentación Electoral del Instituto;
 
-VIII. Actuar como secretario técnico de la Comisión de Capacitación Electoral y Cultura Cívica;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VIII. Actuar como secretario técnico de la Comisión de Capacitación Electoral y Cultura Cívica con Perspectiva de Género;
 
 IX. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
 
@@ -1063,13 +1601,15 @@ II. Atender ante las diversas instancias administrativas o jurisdiccionales, los
 
 III. Asesorar al Consejero Presidente en lo relativo a la representación legal de los intereses del Instituto, en controversias de carácter judicial;
 
-IV. Apoyar al Secretario Ejecutivo en la sustanciación de los medios de impugnación que deba resolver el Consejo General;
+IV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
 
 V. Dar asesoría y apoyo técnico al Secretario Ejecutivo, a la Junta Ejecutiva y a los consejos distritales y municipales electorales;
 
 VI. Atender las consultas formuladas por ciudadanos, candidatos y partidos políticos, en asuntos de naturaleza jurídico-electoral, que le sean encomendadas;
 
-VII. Elaborar los proyectos de acuerdo y dictámenes que se le encomienden;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VII. Elaborar los proyectos de acuerdo, dictámenes y resoluciones que se le encomienden;
 
 VIII. Elaborar y revisar los proyectos de convenios y contratos en que intervenga el Instituto;
 
@@ -1103,7 +1643,115 @@ VII. Actuar como secretario técnico de la Comisión de Sistemas y Programas Inf
 
 VIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
 
-IX. Las demás que le confiera la ley y el reglamento.
+IX, Las demás que le confiera la ley y el reglamento.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+Dirección Ejecutiva de Paridad entre los Géneros. Atribuciones
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 45 BIS
+
+1. Son atribuciones de la Dirección Ejecutiva de Paridad entre los Géneros:
+
+I. Elaborar y proponer el proyecto de programa de actividades en materia de paridad entre los géneros, para que se integre a las políticas y programas anuales del Instituto;
+
+II. Preparar los materiales didácticos, instructivos, trípticos y demás insumos necesarios para la ejecución del programa de paridad;
+
+III. Realizar actividades de fomento a la educación y la cultura de paridad entre los géneros;
+
+IV. Llevar a cabo las acciones necesarias para vigilar el cumplimiento a las disposiciones de esta Ley, relacionadas con la asignación y distribución de candidaturas a cargos de elección popular, tanto por el principio de mayoría relativa como por el principio de representación proporcional, de conformidad con lo establecido en la Ley Electoral;
+
+V. Verificar y proponer al Consejo se cumpla con la asignación de presupuestos en materia de equidad entre los géneros y para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres;
+
+VI. Elaborar y proponer para su aprobación por el Consejo General, los lineamientos técnicos y administrativos para el fomento a la participación política de las mujeres y el incremento de su representación en los espacios públicos de decisión del Estado;
+
+VII. Elaborar un informe especial sobre la situación general que guarda el impulso a la participación política de las mujeres en el Estado, dentro de los 45 días posteriores a la conclusión del proceso electoral ordinario;
+
+VIII. Elaborar en coordinación con la Dirección Ejecutiva de Asuntos Jurídicos, los convenios para la colaboración y coordinación de acciones con los partidos políticos, las organizaciones de la sociedad civil e instituciones académicas especializadas en los temas relacionados con la paridad entre los géneros, con el objetivo de impulsar el ejercicio de los derechos políticos entre las mujeres;
+
+IX. Elaborar y proponer los mecanismos para la estandarización de los procesos y acciones tendientes al desarrollo de la participación política de las mujeres, al interior del Instituto y los partidos políticos, para su aprobación por el Consejo General;
+
+X. Orientar a la ciudadanía en materia del ejercicio de los derechos políticos de las mujeres;
+
+XI. Coadyuvar con la Unidad del Servicio Profesional Electoral en las tareas relacionadas con la capacitación y actualización permanente del personal del Instituto, en materia del ejercicio de los derechos políticos de las mujeres y de equidad entre los géneros;
+
+XII. Coordinar las tareas relacionadas con la capacitación y actualización permanente de la militancia de los partidos, en materia de ejercicio de los derechos políticos de las mujeres y equidad entre los géneros;
+
+XIII. Diseñar y proponer en coordinación con la Unidad de Comunicación Social, las campañas informativas y de difusión orientadas a sensibilizar a la población sobre la paridad en la participación política, los mecanismos que la fomentan y aquéllos que sancionan su incumplimiento, para su aprobación por el Consejo General;
+
+XIV. Actuar como secretaría técnica de la Comisión de Paridad entre los Géneros;
+
+XV. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
+
+XVI. Las demás que le confiera esta ley y los reglamentos del Consejo General.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO CUARTO. De los Órganos Técnicos
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+De las Unidades
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 45 TER
+
+1. Son órganos técnicos del Instituto, los siguientes:
+
+a) La Unidad de fiscalización de los recursos de los partidos políticos;
+
+b) La Unidad de Comunicación Social;
+
+c) La Unidad de Informática;
+
+d) La Unidad de Acceso a la Información Pública;
+
+e) La Unidad del Servicio Profesional Electoral; y
+
+f) La Unidad del Secretariado.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+Unidad de Fiscalización
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 45 QUATER
+
+1. Son atribuciones del titular de la Unidad de Fiscalización:
+
+I. Coadyuvar con el Consejo General en los requerimientos de información complementaria respecto de los diversos apartados de los informes de ingresos y egresos o documentación comprobatoria de cualquier otro aspecto, relativa a los informes financieros de los partidos políticos;
+
+II. Revisar y atender las denuncias que se presenten en los órganos electorales respecto de la utilización de recursos públicos en las precampañas y campañas electorales, ejerciendo facultades de fiscalización y vínculo, mediante convenio que se celebre con las correspondientes instancias de verificación del Instituto Federal Electoral, el cual será aprobado por el Consejo General;
+
+III. Revisar los gastos de precampaña para determinar si existen violaciones a los topes de gastos establecidos, para cada tipo de elección;
+
+IV. Realizar las visitas de verificación a los partidos políticos, con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de los informes financieros que por Ley deben presentar;
+
+V. Presentar a la Comisión fiscalizadora los informes de resultados y proyectos de resolución sobre las auditorías y verificaciones practicadas a los partidos políticos. Los informes especificarán las irregularidades en que hubieren incurrido los partidos políticos en el manejo de los recursos; el incumplimiento de su obligación de informar sobre la aplicación de los mismos y, en su caso, propondrá las sanciones que procedan conforme a la normatividad aplicable;
+
+VI. Apoyar al Consejo General en la revisión de los informes de ingresos y gastos que le presenten los partidos políticos, de conformidad con lo previsto en el Reglamento correspondiente;
+
+VII. Auxiliar al Consejo General para formular los requerimientos a personas físicas o morales, públicas o privadas, en relación con las operaciones que realicen con partidos políticos, la información necesaria para el cumplimiento de sus tareas, respetando en todo momento las garantías del requerido. Quienes se nieguen a proporcionar la información que les sea requerida, o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones establecidas en esta ley;
+
+VIII. La unidad de fiscalización gozará de autonomía respecto de la presidencia del Instituto, dependiendo exclusiva y directamente del Consejo General y estará apoyada en sus funciones por los órganos del Instituto y la estructura del mismo; y
+
+IX. La (sic) demás que le confiera la ley y el reglamento.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+Otras Unidades
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 45 QUINQUIES
+
+1. Las atribuciones de los demás órganos técnicos del Instituto, serán establecidas por el reglamento, que para tal efecto expida el Consejo General.
+
+## TÍTULO SEXTO. De los Consejos Distritales y Municipales
 
 ### CAPÍTULO PRIMERO. Disposiciones comunes
 
@@ -1145,15 +1793,15 @@ ARTÍCULO 48
 
 1. Los consejos distritales y municipales, dentro del término improrrogable de 24 horas siguientes a su instalación, remitirán copia del acta respectiva al Consejero Presidente del Consejo General, para que éste informe a su vez, a sus integrantes. Así deberán hacerlo respecto de las sesiones subsecuentes.
 
-## TÍTULO SEXTO. De los Consejos Distritales y Municipales
-
 ### CAPÍTULO SEGUNDO. De los Consejos Distritales
 
 Residencia y periodo de funciones
 
 ARTÍCULO 49
 
-1. Los consejos distritales tienen a su cargo la preparación, desarrollo y vigilancia del proceso electoral en sus respectivos distritos electorales uninominales. Residirán en el municipio que sea cabecera del distrito correspondiente. Se integrarán por acuerdo del Consejo General.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+1. Los consejos distritales son los órganos temporales que se integran para cada proceso electoral y tienen a su cargo la preparación, desarrollo y vigilancia del proceso electoral en sus respectivos distritos electorales uninominales. Residirán en el municipio que sea cabecera del distrito correspondiente. Se integrarán por acuerdo del Consejo General.
 
 2. Los consejos distritales deberán quedar instalados a más tardar el día 1° de febrero del año de la elección, concluyendo sus funciones al término del proceso electoral de conformidad con el acuerdo que al respecto emita el Consejo General.
 
@@ -1183,9 +1831,13 @@ VIII. Expedir la constancia de acreditación a la fórmula de candidatos que hay
 
 IX. Integrar los expedientes de las elecciones que corresponda en los términos de esta ley y hacerlos llegar al Consejo General dentro del plazo improrrogable de 24 horas, contadas a partir de la clausura de la sesión de cómputo;
 
-X. Resolver los recursos que, en los términos de la Ley de Impugnación, sean de su competencia; y
+X. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
 
-XI. Las demás que les confieran las leyes y reglamentos aplicables.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XI. Calificar la procedencia o improcedencia del recuento de votación en términos de la Ley Electoral y, en su caso, realizar los procedimientos correspondientes; y
+
+XII. Las demás que les confieran las leyes y reglamentos aplicables.
 
 Atribuciones de los Presidentes de los Consejos Distritales
 
@@ -1211,7 +1863,11 @@ VIII. Custodiar la documentación de las elecciones de diputados por ambos princ
 
 IX. Vigilar que se dé cumplimiento a las resoluciones que se dicten;
 
-X. Las demás que le confieran las leyes y reglamentos de la materia.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+X. Remitir a las instancias jurisdiccionales electorales, los expedientes, documentos y recursos que sean interpuestos;
+
+XI. Las demás que le confieran las leyes y reglamentos de la materia.
 
 2. Los presidentes serán auxiliados en todas sus funciones por el secretario del Consejo Distrital correspondiente.
 
@@ -1221,7 +1877,9 @@ Residencia y periodo de funciones
 
 ARTÍCULO 52
 
-1. En cada uno de los municipios de la Entidad se integrará un Consejo Municipal Electoral que residirá en la población que sea su cabecera; tendrán a su cargo la preparación, desarrollo y vigilancia del proceso electoral dentro de sus respectivos límites territoriales, de acuerdo con las atribuciones y procedimientos establecidos en la Ley Electoral, en esta ley y en la demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+1. En cada uno de los municipios de la Entidad se integrará un Consejo Municipal Electoral que residirá en la población que sea su cabecera; son los órganos temporales que se integran para cada proceso electoral que tienen a su cargo la preparación, desarrollo y vigilancia del proceso electoral dentro de sus respectivos límites territoriales, de acuerdo con las atribuciones y procedimientos establecidos en la Ley Electoral, en esta ley y en la demás normatividad aplicable.
 
 2. Se integrarán por acuerdo del Consejo General y deberán quedar instalados más tardar el día 1° de marzo del año de la elección, concluyendo sus funciones al término del proceso electoral de conformidad con el acuerdo que al respecto emita el Consejo General.
 
@@ -1249,9 +1907,13 @@ VI. Declarar la validez de la elección de ayuntamientos por el principio de may
 
 VII. Expedir la constancia de mayoría de votos a la planilla que la haya obtenido;
 
-VIII. Resolver los recursos de su competencia; y
+VIII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
 
-IX. Las demás que le otorgue la ley y el reglamento.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+IX. Calificar la procedencia o improcedencia del recuento de votación en términos de la Ley Electoral y, en su caso, realizar los procedimientos correspondientes; y
+
+X. Las demás que le otorgue la ley y el reglamento.
 
 Atribuciones de los Presidentes de los Consejos Municipales
 
@@ -1271,11 +1933,19 @@ V. Publicitar en el exterior de sus oficinas, los resultados de los cómputos;
 
 VI. Remitir de forma inmediata la documentación de las elecciones de Ayuntamiento por el principio de mayoría relativa al Consejo General, una vez concluida la sesión de cómputo de la elección correspondiente, la declaración de validez de la misma y la entrega de la constancia respectiva;
 
-VII. Vigilar el cumplimiento de las resoluciones dictadas por el Consejo Municipal electoral y demás autoridades electorales competentes; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-VIII. Las demás que les confieran las leyes y reglamentos aplicables.
+VII. Vigilar el cumplimiento de las resoluciones dictadas por el Consejo Municipal electoral y demás autoridades electorales competentes;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+VIII. Remitir a las instancias jurisdiccionales electorales, los expedientes, documentos y recursos que sean interpuestos; y
+
+IX. Las demás que les confieran las leyes y reglamentos aplicables.
 
 2. Los presidentes serán auxiliados en sus funciones por los secretarios de los consejos municipales correspondientes.
+
+## TÍTULO SÉPTIMO
 
 ### CAPÍTULO ÚNICO. De las Mesas Directivas de Casilla
 
@@ -1313,7 +1983,9 @@ VII. Saber leer y escribir; y
 
 VIII. No tener más de 70 años de edad al día de la elección.
 
-4. Cuando un ciudadano designado para integrar alguna mesa directiva de casilla sea pariente por consanguinidad sin limitación de grado, o por afinidad hasta el segundo grado, de quien participare como candidato en la elección correspondiente, deberá informar tal circunstancia al presidente del Consejo Distrital electoral, para que sea sustituido de inmediato.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+4. Cuando un ciudadano designado para integrar alguna mesa directiva de casilla sea pariente por consanguinidad, tales como padres, hermanos e hijos, así como en el caso del cónyuge, de quien participare como candidato en la elección correspondiente, deberá informar tal circunstancia al presidente del Consejo Distrital electoral, para que sea sustituido de inmediato.
 
 Funciones y Atribuciones
 
@@ -1393,7 +2065,7 @@ IV. Auxiliar al presidente o al secretario en las actividades que se le encomien
 
 V. Las demás que le confieran las leyes y reglamentos de la materia.
 
-## TÍTULO SÉPTIMO
+## TÍTULO OCTAVO. De los Representantes ante los Consejos del Instituto
 
 ### CAPÍTULO ÚNICO. Acreditación de representantes
 
@@ -1417,7 +2089,7 @@ ARTÍCULO 62
 
 3. Los consejos distritales o municipales, dentro de las 24 horas posteriores a la conclusión de la sesión correspondiente, informarán al Consejo General, de las ausencias de los representantes de los partidos políticos o de las coaliciones a la referida sesión, para que a su vez se informe tal conducta al partido político o coalición.
 
-## TÍTULO OCTAVO. De los Representantes ante los Consejos del Instituto
+## TÍTULO NOVENO. Del Servicio Profesional Electoral
 
 ### CAPÍTULO ÚNICO. Servicio Profesional Electoral. Integración y organización
 
@@ -1439,7 +2111,9 @@ ARTÍCULO 64
 
 1. La Comisión del Servicio Profesional Electoral por conducto del Secretario Ejecutivo, presentará al Consejo General el proyecto de Estatuto, para su aprobación, en su caso.
 
-2. El Estatuto del Servicio Profesional Electoral deberá establecer las normas para:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+2. El Estatuto del Servicio Profesional Electoral deberá establecer, por lo menos, las normas para:
 
 I. Definir los niveles o rangos de cada cuerpo y los cargos o puestos a los que dan acceso;
 
@@ -1465,193 +2139,217 @@ XI. Las normas relativas a la prestación de servicios de los empleados administ
 
 XII. Las demás necesarias para la organización y buen funcionamiento del Instituto.
 
-## TÍTULO NOVENO. Del Servicio Profesional Electoral
-
-### CAPÍTULO ÚNICO. Sujetos
-
-ARTÍCULO 65
-
-1. El Consejo General conocerá de las infracciones y en su caso, aplicará previa audiencia del infractor, las correspondientes sanciones, a las personas, servidores públicos, instituciones y entidades siguientes:
-
-I. Los observadores electorales;
-
-II. Las organizaciones a que pertenezcan los observadores electorales;
-
-III. Las autoridades estatales y municipales por incumplimiento en tiempo y forma a lo dispuesto por el artículo 11 de esta ley;
-
-IV. Los funcionarios electorales, de conformidad con esta ley y el Estatuto;
-
-V. Los notarios públicos en el Estado, por incumplimiento a las obligaciones que les impone la Ley Electoral;
-
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
-
-VI. Quienes siendo autoridades, representantes de instituciones o particulares, personas físicas o morales, violen las disposiciones de la Ley Electoral en materia de financiamiento o contratación de propaganda y su contenido;
-
-VII. Los dirigentes, candidatos, miembros o simpatizantes de los partidos políticos;
-
-VIII. Los partidos políticos;
-
-IX. Las coaliciones; y
-
-X. Los jueces integrantes del Poder Judicial del Estado y los Agentes del Ministerio Público.
-
-Observadores electorales, organizaciones a las que pertenecen. Faltas en que incurren
-
-ARTÍCULO 66
-
-1. En el caso de las faltas en que incurran los observadores electorales por incumplimiento a las disposiciones contenidas en la Ley Electoral, la sanción consistirá en la cancelación inmediata a su acreditación como observadores electorales, y la inhabilitación para acreditarlos como tales en el proceso electoral siguiente. La sanción será aplicada por el Consejo General conforme al procedimiento establecido en la presente ley y en el reglamento.
-
-2. En el caso de las faltas en que incurran las organizaciones a que pertenezcan los observadores electorales, por incumplimiento a las disposiciones contenidas en la Ley Electoral, la sanción consistirá en multa de cincuenta a doscientos salarios mínimos y será aplicada por el Consejo General conforme al procedimiento establecido en el presente capítulo y en su caso, en el respectivo reglamento.
-
-Autoridades Estatales y Municipales. Faltas en que incurren
-
-ARTÍCULO 67
-
-1. Cuando las autoridades estatales y municipales incurran en infracciones al artículo 11 de esta ley, el Instituto integrará un expediente y la resolución será remitido al titular, representante o superior jerárquico de la entidad a que pertenezca el infractor, para que se proceda en términos de ley.
-
-2. El titular a que se refiere el párrafo anterior deberá comunicar al Instituto, las medidas que hayan adoptado en el caso.
-
-Funcionarios Electorales. Infracciones y Sanciones
-
-ARTÍCULO 68
-
-1. El Consejo General conocerá de las infracciones y violaciones a las disposiciones de las leyes de la materia en que incurran los funcionarios electorales, procediendo a imponer la sanción correspondiente, misma que podrá ser cualesquiera de las siguientes:
-
-I. Amonestación;
-
-II. Suspensión;
-
-III. Multa de hasta cien cuotas de salario mínimo vigente en la Entidad;
-
-IV. Destitución del cargo.
-
-2. Para la imposición de las sanciones a los funcionarios electorales, deberán considerarse además las disposiciones que al efecto, se contengan en el Estatuto.
-
-De las faltas en que incurran los Notarios Públicos
-
-ARTÍCULO 69
-
-1. El Consejo General conocerá de las infracciones en que incurran los notarios públicos por el incumplimiento de las obligaciones que la Ley Electoral les impone. La sanción consistirá en multa entre cien y quinientos días de salario mínimo general vigente en el Estado.
-
-2. Concluido el procedimiento, el consejo remitirá una copia de la resolución al Colegio de Notarios o a la autoridad competente, para que se anexe al expediente del notario infractor y proceda en los términos de la normatividad aplicable.
-
-3. El Colegio de Notarios o la autoridad competente a que se haya remitido la resolución, deberá comunicar al Consejo General las medidas que haya adoptado en el caso.
-
-Faltas por incumplimiento a restricciones a aportaciones
-
-ARTÍCULO 70
-
-1. A quien infrinja las disposiciones de la Ley Electoral en materia de financiamiento que no provenga del erario público, se le podrá sancionar con multa de hasta el doble del monto aportado indebidamente. Si existe reincidencia, el monto de la multa podrá ser aumentado hasta en dos tantos más.
-
-Multa a Dirigentes, y Miembros de Partidos Políticos
-
-ARTÍCULO 71
-
-1. A los dirigentes, candidatos, miembros o simpatizantes de los Partidos Políticos que incumplan o infrinjan las disposiciones contenidas en la legislación electoral, se les impondrá una multa de cincuenta a doscientas cuotas de salario mínimo general vigente en el Estado.
-
-Faltas en que incurren los partidos políticos y sanciones
-
-ARTÍCULO 72
-
-1. Los partidos políticos y coaliciones, incurren en infracción, cuando dejen de cumplir, por actos u omisiones, aquello a que estén obligados por mandato de la Ley Electoral y demás leyes y reglamentos que rigen la materia.
-
-2. Sin perjuicio de observar la disposición de carácter general prevista en el párrafo anterior, los partidos políticos y coaliciones incurren en infracción que sancionará el Consejo General, en los supuestos siguientes:
-
-I. Dejar de cumplir las resoluciones o acuerdos de los órganos del Instituto o del Tribunal Estatal Electoral;
-
-II. No presentar los informes periódicos o de campaña en los términos establecidos en la Ley Electoral, o que la documentación comprobatoria no tenga el debido respaldo y justificación de las operaciones efectuadas;
-
-III. Aceptación de donativos o aportaciones económicas en contravención a la Ley Electoral;
-
-IV. Excederse durante un proceso electoral de los topes a los gastos de precampaña y campaña legalmente establecidos;
-
-V. Desviar el financiamiento público hacía fines distintos a los que prevé la Ley Electoral.
-
-3. Los partidos políticos que incurran en las conductas señaladas en los párrafos anteriores, independientemente de las responsabilidades atribuibles a sus dirigentes, miembros o simpatizantes, podrán ser sancionados con:
-
-I. Amonestación pública;
-
-II. Multa de cincuenta a cinco mil cuotas de salario mínimo general vigente en el Estado;
-
-III. Reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, atendiendo a la gravedad de la infracción;
-
-IV. Supresión total de la entrega de las ministraciones del financiamiento público que le corresponda, por el periodo que señale la resolución;
-
-V. Suspensión o cancelación del registro en el caso de los partidos estatales y la suspensión de la acreditación para el caso de los partidos políticos nacionales.
-
-VI. Resolución negativa a las solicitudes de registro de candidaturas.
-
-4. Las sanciones previstas en las fracciones IV y V del párrafo anterior, sólo podrán imponerse cuando el incumplimiento o infracción que den lugar a su imposición sea grave o reiterado.
-
-5. La conducta contenida en la fracción V del párrafo 2 de este artículo se sancionará con multa de hasta tres tantos del monto desviado.
-
-6. Previo a la cancelación del registro de un partido político estatal deberá seguirse el procedimiento previsto en la Ley Electoral.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2006)</small>
-
-Faltas en que incurren los particulares, personas físicas o morales
+> <small>(DEROGADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ## TÍTULO DÉCIMO. De las Infracciones y de las Sanciones Administrativas
 
+> <small>(DEROGADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO ÚNICO. Sujetos
+
+ARTÍCULO 65 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
+
+ARTÍCULO 66 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
+
+ARTÍCULO 67 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
+
+ARTÍCULO 68 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
+
+ARTÍCULO 69 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
+
+ARTÍCULO 70 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
+
+ARTÍCULO 71 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
+
+ARTÍCULO 72 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
+
 ###### ARTÍCULO 72
 
-ARTÍCULO 72-A
+A (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
-1.- Los particulares, personas físicas o morales, incurren en infracción, por actos u omisiones, a que estén obligados por mandato de leyes y reglamentos electorales.
+ARTÍCULO 73 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
-2. Sin perjuicio de observar la disposición de carácter general prevista en el párrafo anterior, los particulares, personas físicas o morales incurren en infracción que conocerá el Consejo General, en los supuestos siguientes:
+ARTÍCULO 74 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
-I. Dejar de cumplir las resoluciones o acuerdos de los órganos del Instituto o del Tribunal Estatal Electoral;
+ARTÍCULO 75 (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
-II. Celebrar contratos de propaganda a través de los medios de comunicación social, en contravención a lo dispuesto por la legislación electoral, o
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-III.- Cuando las personas físicas o morales difundan propaganda a través de los medios de comunicación social, cuyo contenido implique ofensa, difamación, calumnia, o que denigre a candidatos, partidos políticos o instituciones.
+## TÍTULO DÉCIMO PRIMERO. De la Responsabilidad de los Servidores Públicos de la Función Electoral
 
-Sanciones a Jueces y Agentes del M. P.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 73
+### CAPÍTULO PRIMERO. Disposiciones Generales
 
-1. Los titulares de los juzgados pertenecientes al Poder Judicial, y los Agentes del Ministerio Público que sin causa justificada se nieguen a realizar las labores que la legislación electoral les impone, serán sancionados con multa de entre doscientas y mil cuotas de salario mínimo general vigente en el Estado.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-2. Sin perjuicio de la imposición de la multa descrita en el párrafo anterior, el Consejo General ordenará se remita copia de la resolución correspondiente al Presidente del Tribunal Superior de Justicia o al Procurador General de Justicia del Estado, a fin de que se integre expediente del servidor público infractor y se tomen las medidas conducentes.
+De las Responsabilidades
 
-3. El Presidente del Tribunal Superior de Justicia o el Procurador General de Justicia del Estado, a quien en su caso se haya remitido la resolución deberán comunicar al Instituto, las medidas disciplinarias que hayan adoptado en el caso.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-Procedimiento para la imposición de sanciones
+ARTÍCULO 76
 
-ARTÍCULO 74
+1. Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos de la función electoral todos aquellos que presten sus servicios para el Instituto.
 
-1. La aplicación de sanciones a que se refiere el presente título, se sujetará a lo siguiente:
+2. Los servidores públicos de la función electoral podrán ser sancionados cuando incurran en responsabilidad, de conformidad con las prevenciones siguientes:
 
-I. Una vez que el respectivo órgano del Instituto tenga conocimiento de la posible comisión de una conducta que constituya infracción a la legislación electoral, remitirá al presunto infractor, copia del escrito en que se pormenorice el hecho u omisión que se le impute, y lo emplazará para que en el término de diez días manifieste y alegue por escrito lo que a su derecho convenga; ofrezca las pruebas que considere pertinentes, incluyendo, en su caso, la pericial contable. Si se considerase necesaria la prueba pericial, ésta será con cargo al partido político o coalición que la ofrezca. Se apercibirá al presunto infractor, que si en el plazo señalado no promueve lo conducente, se le tendrán por consentidos los hechos u omisiones que dieron lugar al inicio del procedimiento;
+I. Se impondrá al Consejero Presidente o Consejeros Electorales propietarios, mediante juicio político, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal o municipal, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o que vulneren los principios de certeza, legalidad, independencia, imparcialidad, objetividad y equidad;
 
-II. En la substanciación del expediente se admitirán toda clase de pruebas, excepto aquellas que sean contrarias a derecho;
+II. Para proceder penalmente contra los Consejeros Electorales, deberá declararse por mayoría de dos terceras partes de los miembros presentes en sesión, si ha lugar o no a proceder contra el inculpado. El procedimiento se sujetará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas y demás disposiciones aplicables;
 
-III. El órgano electoral que conozca del asunto, y en diligencias para mejor proveer podrá solicitar los informes y documentos de autoridades estatales y municipales; y
+III. La comisión de delitos por parte de los demás servidores públicos de la función electoral, será sancionada con fundamento en la legislación del Estado en materia penal;
 
-IV. Transcurrido el plazo a que se refiere la fracción I de este artículo, y desahogados los medios probatorios, el órgano electoral encargado de la substanciación del procedimiento, formulará el dictamen correspondiente, que se someterá al Consejo General para su resolución.
+IV. Se aplicarán sanciones administrativas por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia, que deban observar en el desempeño de su empleo, cargo o comisión; y
 
-1. Cuando el Consejo General considere que un partido político, coalición o candidato han incurrido en alguna infracción en materia electoral, fincará las responsabilidades correspondientes, y al aplicar las respectivas sanciones, tomará en cuenta las circunstancias y la gravedad de la infracción.
+V. Los procedimientos para la aplicación de las sanciones mencionadas serán autónomos en su desarrollo, sin que puedan imponerse dos veces, por una sola conducta, sanciones de la misma naturaleza.
 
-2. Contra las resoluciones del Consejo General en materia de infracciones y sanciones procederá el recurso de revocación.
+3. Todo ciudadano o persona moral, por conducto de sus órganos de representación, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia por escrito ante quien corresponda, respecto de las conductas a que se refiere el artículo anterior.
 
-3. Las multas que aplique el Consejo General, que no hubiesen sido recurridas, o respecto de las cuales constituyan resolución firme e inatacable, deberán ser pagadas en la Dirección de Administración y Prerrogativas del Instituto, en un plazo de 15 días hábiles contados a partir de la notificación. Transcurrido el plazo sin que el pago se hubiere efectuado, el Instituto podrá deducir el monto de la multa, de la siguiente ministración del financiamiento público que corresponda.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-4. El fincamiento de las responsabilidades administrativas previstas en este Titulo es independiente de las responsabilidades de tipo penal o de otra índole, que en su caso, incurra el infractor.
+### CAPÍTULO SEGUNDO. De la Responsabilidad Administrativa
 
-Casos en que se informará a la Secretaría de Gobernación
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 75
+De los sujetos
 
-1. Para los efectos legales pertinentes, el Consejo General informará a la Secretaría de Gobernación, de los siguientes casos:
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-I. Cuando los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta:
+ARTÍCULO 77
 
-a) Induzcan al electorado a votar en favor o en contra de un candidato, partido político o coalición, o a la abstención del ejercicio del derecho de voto, en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la ley; y
+1. Son sujetos de responsabilidad administrativa todos los miembros del Instituto, cualquiera que sea su jerarquía.
 
-b) Realicen aportaciones económicas a un partido político, coalición o candidato.
+2. Los Consejeros Electorales y Secretario Ejecutivo serán sujetos de responsabilidad administrativa, misma que procederá y se fincará para dichos sujetos, conforme la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas y lo dispuesto por esta ley, respectivamente.
 
-II. Tratándose de extranjeros que por cualquier forma, pretendan inmiscuirse o se inmiscuyan, en asuntos políticos.
+3. La acción disciplinaria prescribe en tres años, contados desde el día siguiente a aquél en que se hubiere cometido la falta, o a partir del momento en que hubiese cesado, si fuere de carácter continuado.
+
+4. El inicio del procedimiento interrumpe la prescripción.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+De las faltas administrativas
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 78
+
+1. Se consideran como faltas de los Consejeros Electorales en su actuación relacionadas con el Consejo General, las siguientes:
+
+I. Dejar de asistir a las sesiones sin causa justificada;
+
+II. Desintegrar sin motivo justificado, el quórum del Consejo General, una vez iniciados los trabajos en cada sesión;
+
+III. Violar las normas que regulan su actuación; y
+
+IV. Las demás previstas en esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+De las sanciones
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 79
+
+1. El Consejo General conocerá de las infracciones y violaciones a las disposiciones de las leyes de la materia en que incurran los funcionarios electorales, procediendo a imponer la sanción correspondiente, misma que podrá ser cualesquiera de las siguientes:
+
+I. Apercibimiento;
+
+II. Amonestación;
+
+III. Multa;
+
+IV. Suspensión;
+
+V. Destitución del cargo; y
+
+VI. Inhabilitación temporal para desempeñar empleo, cargo o comisión en la función electoral.
+
+2. En las sanciones aplicables se tomará en cuenta:
+
+I. El grado de participación;
+
+II. Las circunstancias socio-económicas del infractor;
+
+III. Los motivos determinantes y los medios de ejecución;
+
+IV. La antigüedad en el servicio;
+
+V. La reincidencia; y
+
+VI. El monto del beneficio obtenido y el daño o perjuicio económico derivados de la falta.
+
+3. Las sanciones impuestas se anotarán en la hoja de servicio del servidor público de la función electoral, a cuyo efecto deberá enviarse copia autorizada de la resolución relativa, a la Unidad del Servicio Profesional Electoral para que se integre en el expediente.
+
+4. Para la imposición de las sanciones a los funcionarios electorales, deberán considerarse además las disposiciones que al efecto, se contengan en el Estatuto.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+De las reglas para la aplicación de sanciones
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 80
+
+1. Para la aplicación de las sanciones a que se hace referencia en el artículo anterior, se observarán las siguientes reglas:
+
+I. El apercibimiento se aplicará por la primera falta cometida, cuando ésta sea levísima;
+
+II. La amonestación se aplicará tratándose de faltas leves;
+
+III. Después de dos amonestaciones, la nueva sanción será de multa;
+
+IV. La triple sanción por faltas leves o la comisión de una falta grave, motivará la suspensión temporal del cargo, empleo o comisión;
+
+V. La destitución se aplicará, como primera sanción, en caso de faltas muy graves, o después de dos sanciones de suspensión temporal;
+
+VI. La inhabilitación sólo será aplicable por resolución de la autoridad competente, de conformidad con las leyes aplicables; y
+
+VII. Cuando la destitución del cargo, empleo o comisión, afecte a un servidor público de base, se demandará la terminación de la relación laboral ante quien corresponda por la Presidencia del Consejo General, a solicitud de la autoridad que aplicó la sanción.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+De la aplicación de sanciones administrativas
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 81
+
+1. La jurisdicción disciplinaria se ejercerá por el Consejo General del Instituto.
+
+2. Contra el presunto autor de alguna de las faltas administrativas, se procederá de oficio o en virtud de queja presentada por escrito, ante la Junta Ejecutiva. Las quejas anónimas no producirán efecto alguno.
+
+3. Si los hechos materia de la queja fueren además, constitutivos de responsabilidad penal o civil, se ordenará ponerlos en conocimiento de la autoridad competente, acompañándole copia autorizada de lo necesario.
+
+4. Las sanciones administrativas se impondrán con sujeción al siguiente procedimiento:
+
+I. En el auto inicial del proceso disciplinario, se ordenará correr traslado al infractor, con copia de la queja, para que informe lo que corresponda por escrito dentro del término de cinco días, señalándose en el propio auto, el lugar, el día y la hora para la celebración de una audiencia de pruebas y alegatos, que se celebrará a más tardar dentro del término de quince días;
+
+II. Las pruebas deberán ofrecerse y rendirse durante la audiencia; debiéndose preparar con toda anticipación para su desahogo;
+
+III. Al concluir la audiencia o dentro de los ocho días hábiles siguientes, se resolverá la queja administrativa;
+
+IV. En cualquier estado del procedimiento, el instructor podrá ordenar el desahogo de las pruebas para mejor proveer;
+
+V. En cualquier momento, antes o después de la iniciación del proceso disciplinario, se podrá acordar la suspensión temporal del presunto autor en su cargo, empleo o comisión, si a juicio de la Junta Ejecutiva así conviniere para el desarrollo de la investigación. La suspensión temporal no prejuzga sobre la determinación final que se tome. Si el servidor público temporalmente suspendido no resultare responsable de la falta que se le haya imputado, será restituido en el goce de sus derechos; y se le cubrirán las percepciones que debió recibir durante el plazo de la suspensión; y
+
+VI. Se levantará acta circunstanciada de las diligencias que se practiquen, misma que suscribirán quienes en ellas intervengan.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+De los medios de apremio
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 82
+
+1. Para el cumplimiento de las atribuciones que les confiere esta Ley, el Consejo General o la Junta Ejecutiva, podrán emplear los siguientes medios de apremio:
+
+I. Sanción económica de hasta veinte veces el salario mínimo diario vigente en la capital del Estado; y
+
+II. Auxilio de la fuerza pública.
+
+2. Si existiere resistencia al mandamiento de la autoridad se estará a lo dispuesto en la legislación penal.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1690,3 +2388,13 @@ LIC. TOMAS TORRES MERCADO.
 P.O. 7 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente Decreto se enviará para su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, e iniciará su vigencia al día siguiente de su publicación.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero.- El Consejo General deberá adecuar, y en su caso, expedir la reglamentación interna del Instituto en un plazo que no excederá de sesenta días naturales a su publicación. Entre tanto, se estará a lo que disponga el Estatuto y los reglamentos vigentes al momento de la entrada en vigor de la presente ley.
+
+Artículo Cuarto.- Los asuntos a cargo de los diversos órganos y unidades administrativas del Instituto, cuyo trámite se hubiere iniciado con anterioridad al inicio de la vigencia del presente Decreto, deberán concluirse de conformidad a la normatividad vigente, previo a la derogación a que se refiere el artículo segundo transitorio de este Decreto.
