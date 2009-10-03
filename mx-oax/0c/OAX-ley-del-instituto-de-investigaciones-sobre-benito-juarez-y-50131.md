@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-instituto-de-investigaciones-sobre-benito-juarez-y-5013
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-20"
-last_updated: "2006-03-20"
+last_updated: "2009-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DEL "INSTITUTO DE INVESTIGACIONES SOBRE BENITO JUAREZ Y LA REFORMA"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 1400, PUBLICADO EN EL P. O. DE 3 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 20 de marzo de 2006.
 
@@ -410,3 +412,9 @@ Oaxaca de Juarez, Oax., a 20 de marzo del 2006.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JORGE F. FRANCO VARGAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
