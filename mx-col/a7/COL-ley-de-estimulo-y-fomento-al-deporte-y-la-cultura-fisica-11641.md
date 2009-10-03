@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2009-05-09"
+last_updated: "2009-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -293,6 +293,10 @@ XI.- El desarrollo del deporte en el medio rural, con personas con discapacidad,
 
 XII.- La creación del Salón de la Fama del deporte colimense.
 
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XIII.- La creación del muro de honor del deporte colimense.
+
 ###### ARTICULO 19.
 
 Las instituciones educativas públicas y privadas podrán promover libremente actividades deportivas, siempre que no contravengan las disposiciones de esta Ley y su reglamento.
@@ -497,7 +501,7 @@ II.- Prever en los mismos, el arbitraje obligatorio del CONSEJO en los casos en 
 
 Al integrarse al SISTEMA, las personas, agrupaciones y demás organizaciones deportivas, quedarán obligadas a ejecutar las acciones concertadas y coordinadas que señale el Programa Estatal del Deporte.
 
-### CAPITULO X. DEL FOMENTO Y ESTIMULO AL DEPORTE
+### CAPITULO X. DEL FOMENTO, ESTIMULO Y RECONOCIMIENTO AL DEPORTE
 
 ###### ARTICULO 33.
 
@@ -549,6 +553,8 @@ X.- Cooperar con las autoridades en los muestreos que se deban de realizar para 
 
 XI.- Las demás que le sean señaladas por la presente Ley.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+
 ### CAPITULO XI. LAS SANCIONES ADMINISTRATIVAS Y RECURSOS EN EL DEPORTE
 
 ###### ARTICULO 35.
@@ -592,6 +598,12 @@ b).- Establecer un ordenamiento sano en el egreso de los apoyos económicos capt
 c).- Aplicar los recursos del fondo en el Programa Estatal del Deporte y demás acciones que esten previstas en el plan anual de actividades; y
 
 d).- Los demás que se establezcan por esta Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 37 BIS.- Se instituye el catorce de octubre de cada año como "Día del deportista colimense", en el cual se entregarán reconocimientos a quienes se hayan destacado en alguna disciplina deportiva, o que por su aportación al deporte se hayan distinguido en el Estado.
+
+El Gobernador del Estado, previa convocatoria que haga por conducto de la Secretaría de Educación y del INCODE y bajo las bases que en ella se determinen, propondrá al Congreso del Estado con siete días de anticipación a la fecha del otorgamiento de reconocimientos, los prospectos que puedan ser merecedores de reconocimiento y cuyos nombres deberán ser inscritos en letras de color oro, en el muro de honor del deporte, que se construya en el lugar que para tal efecto se señale.
 
 ### CAPITULO XII. DE LA COMISION ESTATAL DE APELACION Y ARBITRAJE DEL DEPORTE
 
@@ -708,3 +720,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 9 DE MAYO DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
