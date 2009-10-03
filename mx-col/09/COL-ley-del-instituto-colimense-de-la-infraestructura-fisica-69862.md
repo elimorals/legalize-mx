@@ -4,7 +4,7 @@ identifier: "COL-ley-del-instituto-colimense-de-la-infraestructura-fisica-69862"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-15"
-last_updated: "2009-08-29"
+last_updated: "2009-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL INSTITUTO COLIMENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de agosto de 2009.
 
@@ -217,27 +217,37 @@ La junta de gobierno se integrará por:
 
 I. Un Presidente, que será el Secretario de Educación del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-II. Nueve Vocales que serán; cada uno, un representante de los siguientes funcionarios del Gobierno del Estado:
+II. Vocales que serán; cada uno, un representante de los siguientes funcionarios del Gobierno del Estado:
 
 - El Secretario General de Gobierno;
 
-- El Secretario de Planeacion;
+- El Secretario de Planeación;
 
 - El Secretario de Finanzas;
 
 - El Secretario de Desarrollo Urbano;
 
-- El Director de Planeación Educativa de la Secretaría de Educación; y
+- El Titular de la Dirección de Protección Civil del Estado;
+
+- El Director de Planeación Educativa de la Secretaría de Educación;
 
 - El Director del INCOIFED;
 
 - Un representante de la Sección VI del SNTE;
 
-- Un representante de la Sección 39 del SNTE;
+- Un representante de la Sección 39 del SNTE; y
 
-- Un representante de la Asociación Estatal de Padres de Familia.
+- Un representante de la Asociación Estatal de Padres de Familia;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+III. El titular de la oficina de Servicios Federales de Apoyo a la Educación en calidad de vocal
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+IV. Un Representante del Instituto Nacional de Infraestructura Física Educativa en calidad de vocal.
 
 El cargo de miembro de la Junta de Gobierno será honorífico y por el que no se recibirá retribución, emolumento o compensación alguna.
 
@@ -406,3 +416,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 29 DE AGOSTO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE OCTUBRE DE 2009.
+
+ÚNICO,- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
