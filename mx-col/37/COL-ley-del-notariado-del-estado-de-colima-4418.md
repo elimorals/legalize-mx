@@ -4,7 +4,7 @@ identifier: "COL-ley-del-notariado-del-estado-de-colima-4418"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-04"
-last_updated: "2007-11-24"
+last_updated: "2009-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, los días 4, 11, 18 y 25 de enero de 1964.
 
@@ -563,7 +563,9 @@ ART. 82.- Para obtener el nombramiento de Notario y ejercer se requiere:
 
 I.- Ser mexicano por nacimiento;
 
-II.- Haber cumplido veinticinco años;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+II.- Haber cumplido treinta y cinco años de edad;
 
 III.- Ser Licenciado en Derecho o Abogado con cinco años cuando menos de ejercicio profesional debidamente comprobado;
 
@@ -584,8 +586,6 @@ X.- No ser ministro de culto;
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
 XI.- Existir alguna notaría de nueva creación o vacante, y triunfar en el examen de oposición.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 83.- Los requisitos que fijan las fracciones I y II del Art. 82 se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la fracción III por el título correspondiente debidamente registrado y por constancias expedidas por jueces locales o por el Consejo de Notarios; el de las (sic) fracción IV, con certificado de dos médicos con título oficial; el de la fracción V, por información testimonial de dos testigos idóneos y de representación social, recibida con audiencia del Ministerio Público y del delegado del Consejo de Notarios quien a su vez puede rendir pruebas en contrario; el de la fracción VI con certificado expedido por la presidencia municipal correspondiente; el de la fracción VII, con la patente respectiva; los de las fracciones VIII, IX y X no requieren prueba, pero su afirmación admite prueba en contrario; el de la fracción XI con copia del acta del examen de oposición.
 
@@ -623,7 +623,9 @@ ART. 92.- Para obtener patente de aspirante al ejercicio del notariado se deber�
 
 I.- Llenar los requisitos de las fracciones I, IV, V, VI, VIII, IX, y X del artículo 82 de esta Ley;
 
-II.- Tener veintiún años cumplidos y no más de sesenta años;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+II.- Tener treinta años de edad cumplidos;
 
 III.- Ser Licenciado en Derecho o Abogado con título debidamente registrado;
 
@@ -631,37 +633,61 @@ IV.- Ser aprobado en el examen que establece esta Ley.
 
 Los requisitos anteriores se comprobarán en los términos establecidos por el artículo 83.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 9 DE JULIO DE 1994)</small>
-
 ART. 93.- Las diligencias de información a que se refiere el artículo 92, se practicarán en los términos previstos por el artículo ochenta y tres y en cuanto sean conducentes.
 
-ART. 94.- El que pretenda examen de aspirante de notario, deberá presentar solicitud al Gobernador del Estado, por conducto del Consejo del Colegio de Notarios, el cual opinará sobre el particular, acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los artículos precedentes.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ART. 95.- Hecho por el Gobierno del Estado el estudio de la documentación presentada por el solicitante y aprobada que fuere la turnará al Colegio de Notarios, el que señalará día y hora para que tenga lugar el examen.
+ART. 94.- El que pretenda examen de aspirante de notario, deberá presentar solicitud al Gobernador del Estado, quien la turnará al Secretario General de Gobierno, el cual opinará si se encuentran satisfechos los requisitos que establecen los artículos anteriores.
 
-ART. 96.- El examen se efectuará en la localidad que determine el Consejo de Notarios. El jurado se compondrá de cinco miembros que serán el Gobernador del Estado o el representante que designe; el presidente del Consejo de Notarios y tres vocales que nombrará el Consejo. Será presidente del jurado el Gobernador del Estado o quien lo substituya y desempeñará las funciones de Secretario, el notario que el jurado designe por mayoría de votos.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ART. 97.- Consistirá el examen en una prueba práctica que será la redacción de un instrumento, cuyo tema se sorteará de veinte propuestos, sellados y colocados en sobres cerrados por el Consejo de Notarios. Cada uno de los miembros del jurado podrá hacer al sustentante una pregunta o interpelación relacionada precisamente con el caso jurídico notarial a que se refiere el tema.
+ART. 95.- Realizado el estudio por el Ejecutivo del Estado la documentación presentada por el solicitante y aprobada se turnará al Director General de Gobierno del Estado, quien señalará la hora, el día y el lugar donde tendrá verificación el examen.
 
-ART. 98.- El Consejo de Notarios cuidará de tener seleccionados por lo menos veinte temas para sortear el que haya de ser presentado a los examinados.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-Estos temas serán discutidos y aprobados para su selección por el Consejo de Notarios. Aquellos temas que hayan sido motivo de examen o que carezcan de actualidad o de interés a juicio del Consejo de Notarios, serán eliminados y no podrán presentarse dentro de los que sirvan para nuevos exámenes.
+ART. 96.- El examen se efectuará en el lugar señalado por el Director General de Gobierno y el jurado estará integrado por cinco miembros, que serán el Gobernador del Estado, quien fungirá como Presidente; el Secretario General de Gobierno; el Director General de Gobierno; que desempeñará las funciones de Secretario; el Presidente del Supremo Tribunal de Justicia y el Director del Registro Público de la propiedad y el Comercio.
 
-ART. 99.- Recibido del Gobierno del Estado el acuerdo para algún examen, el presidente convocará al Consejo y citará al candidato para que en su presencia se sortee el tema, después de lo cual, el Consejo procederá a nombrar tres notarios que integren el jurado y dos consejeros para que concurran al examen como suplentes de los jurados que no existieren o estuvieren impedidos. Los designados podrán excusarse si tuvieren algún impedimento.
+En ausencia del Gobernador, el jurado lo presidirá el Secretario General de Gobierno, en cuyo caso éste designará a quien lo represente.
 
-ART. 100.- No podrán formar parte del jurado los notarios en cuyas notarías haya hecho su práctica el sustentante, ni los parientes consanguíneos o afines a éste dentro del cuarto grado de parentesco consanguíneo y del segundo afín, ni los que guarden relación íntima de amistad con el mismo sustentante.
+Además fungirán como suplentes, para el caso de que alguno de los integrantes del jurado estuviera impedido, el Director de Asuntos Jurídicos y Consultoría de la Secretaría General de Gobierno y el Director Jurídico del Registro Público de la Propiedad y del Comercio.
 
-Los miembros del jurado en los que concurriere alguno de los impedimentos señalados, deberán excusarse de intervenir en el examen.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ART. 101.- El sinodal que dejare de concurrir al acto, sin mediar impedimento o dispensa a que asistiere a pesar de que debió excusarse, será penado con una multa de veinticinco a cien pesos que impondrá el Gobernador del Estado, tan luego como reciba la comunicación correspondiente del Consejo de Notarios. El día señalado para el examen y cinco horas antes de la fijada para la celebración del mismo, el secretario del Consejo de Notarios abrirá el pliego, entregará el tema de interesado y vigilará que sin el auxilio de personas extrañas, aunque previsto de los Códigos y libros de consulta necesarios, proceda al desarrollo del tema y a la resolución del caso que se le haya propuesto.
+ART. 97.- El examen consistirá en una prueba práctica que será la redacción de un instrumento, cuyo tema se sorteará de 20 propuestos, sellados y colocados en sobres cerrados por el Director General de Gobierno, cada uno de los miembros del jurado podrá hacer al sustentante una pregunta o interpelación relacionada precisamente con el caso jurídico notarial a que se refiere el tema.
 
-ART. 102.- A la hora fijada para la celebración del examen se instalará el jurado y el examinado procederá a dar lectura a su trabajo; a continuación, los miembros del jurado podrán interrogarlo versando las preguntas precisamente sobre el tema propuesto.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ART. 103.- El jurado resolverá sobre la aprobación o reprobación del sustentante, en escrutinio secreto y la mayoría de votos en sentido aprobatorio será suficiente para extender la patente respectiva de aspirante. Si la mayoría de los jurados votan por la reprobación del sustentante, no se podrá conceder nuevo examen a éste, sino después de transcurrido un año desde la celebración del primer acto.
+ART. 98.- El Director General de Gobierno, cuidará de tener seleccionado por lo menos 20 temas para sortear el que haya de ser presentado al aspirante, los temas que carezcan de actualidad o de interés serán eliminados y no podrán presentarse dentro de los que sirvan para nuevos exámenes.
 
-ART. 104.- Al hacerse la calificación del instrumento redactado, se tomará en cuenta no sólo la parte jurídica, sino también la redacción gramatical en lo que se refiere a claridad y precisión del lenguaje, así como la competencia que demuestre el examinado al responder a las preguntas hechas por los miembros del jurado.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ART. 105.- El secretario del jurado levantará el acta relativa al examen, que deberá ser firmada por todos los integrantes del jurado. El Consejo de Notarios enviará al Gobierno del Estado copia certificada del acta de examen para la integración del expediente formado con motivo de la solicitud del aspirante a notario.
+ART. 99.- Recibido del Gobierno del Estado el acuerdo para algún examen, el presidente convocará al jurado y citará al candidato para que en su presencia se sortee el tema.
+
+En caso de que alguno de los integrantes tuviera un impedimento para actuar como jurado, será suplido por alguno de los mencionados en el Artículo 96.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ART. 100.- No podrán formar parte del jurado, con excepción del Gobernador, los demás integrantes del jurado, cuando tengan la titularidad de la notaría en la cual el sustente (sic) haya hecho su práctica. Asimismo estarán impedidos todos los integrantes para fungir como jurado cuando exista parentesco por consanguinidad o afín con el sustentante, o relación íntima de amistad con el mismo. Los miembros del jurado en los que concurra alguno de los impedimentos señalados, deberán excusarse de intervenir en el examen.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ART. 101.- El día, hora y lugar señalado, reunido el jurado y el sustentante para la celebración del examen, el Secretario del jurado pondrá a disposición del aspirante los 20 sobres cerrados, sellados y rubricados por los miembros del jurado, que contienen los temas seleccionados, de los cuales éste deberá escogerá uno de ellos, procediendo el Secretario abrirlo (sic) y dar a conocer el tema al jurado y al interesado, quien dispondrá de 5 horas in-interrumpidas para desarrollarlo y bajo la vigilancia de aquel, sin auxilio de personas extrañas, aunque previstos de los códigos y libros que sean necesarios para la ejecución del tema.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ART. 102.- Una vez que el sustentante haya terminado su examen del tema desarrollado o transcurrido el tiempo concedido para el mismo, el jurado nuevamente se instalará y el aspirante procederá a darle lectura y los miembros del jurado podrán interrogarlo versando las preguntas precisamente sobre el tema que le haya correspondido.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ART. 103.- Al hacerse la calificación del instrumento redactado se tomará en cuenta no solo la parte jurídica, si no también la redacción gramatical en lo que se refiere a claridad y precisión del lenguaje, así como la competencia que demuestre el examinado al responder a las preguntas hechas por los miembros del jurado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ART. 104.- El jurado en privado resolverá sobre la aprobación o reprobación del sustentante por mayoría de votos en el sentido de aprobarlo, que será suficiente para extender la patente de aspirante. Si la mayoría del jurado vota por la reprobación del aspirante, no se podrá conceder nuevo examen a éste, sino después de transcurrido un año de la celebración del primer acto.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ART. 105.- El Secretario del jurado levantará el acta relativa al examen, que deberá ser firmada por todos los integrantes del jurado, la cual pasará a formar parte de la integración del expediente formado con motivo de la solicitud del aspirante de notarlo.
 
 ART. 106.- Cumplidos los requisitos exigidos en los artículos anteriores, el Ejecutivo del Estado extenderá en favor del interesado la patente de aspirante al ejercicio del notariado.
 
@@ -673,27 +699,45 @@ ART. 109.- Si después de extendida la patente de aspirante al ejercicio del not
 
 ### CAPITULO QUINTO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ART. 110.- Cuando se acuerde la creación de una nueva notaría, en los términos del artículo 78, o cuando quede vacante una de las existentes, la Secretaría General de Gobierno, en un plazo no mayor de seis meses, publicará un anuncio por tres veces consecutivas en el Periódico Oficial del Estado y en uno de los de más circulación del Estado, convocando a los aspirantes que pretendan obtener por oposición el nombramiento de notario.
+ART. 110.- Cuando se acuerde la creación de alguna nueva notaría, en los términos del artículo 78, o cuando quede vacante una de las existentes, la Secretaría General de Gobierno publicará un anuncio por una sola ocasión en el Periódico Oficial del Estado y en uno de los de circulación estatal, convocando a los aspirantes que pretenden obtener por oposición el nombramiento de notario.
 
-En el plazo de treinta días, contado a partir de la primera publicación del anuncio en el periódico oficial, los pretendientes solicitarán ser admitidos a la oposición, mediante escrito que presentarán al Secretario General de Gobierno, quien anotará, en cada solicitud, la fecha y hora de su presentación y remitirá copia de la misma al Colegio de Notarios.
+Dentro de los cinco días naturales, contados a partir de la publicación de la convocatoria en el Periódico Oficial del Gobierno del Estado “El Estado de Colima”, los aspirantes solicitarán ser admitidos al examen de oposición, mediante escrito que presentará al Secretario General de Gobierno, quien anotará en cada solicitud, la fecha y hora de su presentación y remitirá copia de la misma al Director General de Gobierno.
 
-ART. 111.- El Consejo del Colegio de Notarios del Estado, señalará día y hora para la celebración de los exámenes de oposición. Este señalamiento lo dará a conocer el Consejo a los concursantes, cuando menos con quince días de anticipación, por medio de oficio enviado por correo certificado con acuse de recibo a la dirección que al efecto hubieren designado en su solicitud.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ART. 112.- El jurado del examen se compondrá de cinco miembros: del Gobernador del Estado o el representante que éste designe, el presidente y un vocal del Consejo de Notarios, y dos notarios más en ejercicio que nombrará dicho Consejo. Será presidente del jurado, el Gobernador o su representante, y desempeñará las funciones de secretario, el notario de menos edad. El Consejo designará además a tres notarios como vocales suplentes.
+ART. 111.- El Director General de Gobierno, señalará el día, la hora y lugar para la celebración de los exámenes de oposición, el cual lo dará a conocer a los aspirantes cuando menos con cuarenta y ocho horas de anticipación por oficio y medio legal que estime pertinente que compruebe que el aspirante tuvo conocimiento, en la dirección que al efecto hubiere designado en su solicitud.
 
-ART. 113.- La oposición consistirá en dos ejercicios; uno práctico y otro teórico. Para el primero, el Consejo de Notarios deberá tener en sobres cerrados y numerados, veinte temas para redacción de instrumentos elegidos de entre los casos más complejos que los notarios del Estado hayan encontrado en su práctica. Para el ejercicio teórico los miembros del jurado replicarán a cada sustentante sobre puntos de derecho que entrañen alguna dificultad y sean de aplicación por el notario en el ejercicio de sus funciones o de su profesión.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ART. 114.- El día y hora señalados para el ejercicio práctico, se reunirán todos los candidatos en el lugar que señale el Consejo de Notarios y en presencia de ellos y en la de un vocal delegado del Consejo, el secretario del mismo extraerá de un ánfora una ficha y abrirá el sobre que contenga el tema marcado con el número de la ficha. Los candidatos, se enterarán del tema y procederán desde luego a la redacción del instrumento correspondiente, cada uno por su parte y sin auxilio de ninguna persona, bajo la vigilancia del vocal delegado del Consejo. Para el efecto dispondrán de cinco horas corridas, concluidas las cuales el vocal del Consejo recogerá los trabajos hechos, guardándolos en sobres que serán firmados por él y por cada interesado.
+ART. 112.- El jurado se compondrá de cinco miembros que serán el Gobernador del Estado o el representante que designe, que será el Presidente; el Secretario General de Gobierno; el Director General de Gobierno, que desempeñará las funciones de Secretario; el Presidente del Supremo Tribunal de Justicia del Estado y el Director del Registro Público de la Propiedad y del Comercio.
 
-ART. 115.- El ejercicio teórico se verificará en el local que señale el Consejo de Notarios y será público. Se procederá al examen de los candidatos por el orden de presentación de sus instancias. El que por cualquier motivo no acudiese perderá su turno y será el último. Si tampoco se presentare, se entenderá que ha desistido; pero si justificare debidamente hallarse enfermo u otro motivo estimable, a juicio del jurado, podrá concedérsele por esto un breve plazo improrrogable.
+En ausencia del Gobernador, el jurado lo presidirá el Secretario General de Gobierno, en cuyo caso éste designará a quien lo represente.
+
+Además fungirán como suplentes, para el caso de que alguno de los integrantes del jurado estuviera impedido, el Director de Asuntos Jurídicos y Consultoría de la Secretaría General de Gobierno y el Director Jurídico del Registro Público de la Propiedad y del Comercio.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ART. 113.- El examen de oposición consistirá en dos ejercicios; uno práctico y el otro teórico, para el primero, el Director General de Gobierno deberá tener en sobres cerrados y enumerados 20 temas para la redacción de instrumentos notariales y para el ejercicio teórico los miembros del jurado replicarán a cada sustentante sobre los puntos de derecho que entrañan alguna dificultad y que sean de aplicación en el ejercicio de las funciones del notariado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ART. 114.- El día, la hora y el lugar señalado para el examen de oposición se reunirán el jurado y los aspirantes para el ejercicio práctico y ante la presencia de ellos, el Secretario pondrá a su disposición los sobres cerrados, enumerados, sellados y rubricados por dicho jurado, que contienen los veinte temas para el examen de referencia y los escogidos por los aspirantes, el Secretario procederá a abrirlos y darlos a conocer tanto al jurado como al interesado, quienes dispondrán de cinco horas in-interrumpidas para el desarrollo del tema que les haya correspondido sin auxilio de persona alguna, bajo la vigilancia del Secretario.
+
+Terminado el examen por el aspirante o transcurridas las cinco horas concedidas, el Secretario procederá en presencia del jurado a recoger los trabajos realizados, guardándolos en sobres que serán firmados por él, por cada interesado y por el jurado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+ART. 115.- Para el ejercicio teórico se verificará el día, la hora y el lugar que señale el Director General de Gobierno y se procederá al examen de los aspirantes por el orden de presentación, el que por cualquier motivo no acudiese perderá su turno y será el último, si tampoco se presentare, se tendrá por desistido; pero si justificare debidamente hallarse enfermo que a juicio del jurado le impidiese presentarse u otro motivo estimable, podrá concedérsele un breve plazo improrrogable.
 
 ART. 116.- Una vez concluido el examen teórico, el secretario del jurado dará lectura al trabajo práctico del sustentante. En seguida el jurado, a puerta cerrada, procederá por mayoría de votos a decidir la aprobación o reprobación del sustentante mediante notas del uno al diez que calificará cada sinodal y de acuerdo con su opinión sobre la prueba práctica y con notas del uno al diez que aplicará cada sinodal en vista del resultado de su réplica teórica, lo que dará a conocer desde luego al interesado. La calificación mínima para ser aprobado en los exámenes teórico y práctico será de siete.
 
-ART. 117.- Si la mayoría de los jurados votan la reprobación del sustentante, no se podrá conceder nuevo examen a éste sino después de transcurrido un año desde la celebración del primer examen.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ART. 118.- El jurado informará al Consejo de Notarios el resultado de la oposición y éste transmitirá el informe al Gobierno del Estado.
+ART. 117.- Si la mayoría del jurado vota la reprobación del sustentante no se podrá conceder nuevo examen a éste, si no después de transcurrido un año desde la celebración del primer examen.
+
+ART. 118.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2009)
 
 ART. 119.- Cumplidos los requisitos a que se refieren los artículos anteriores, el Gobernador del Estado extenderá el nombramiento de notario titular al triunfador de la oposición. El nombramiento se registrará en la Secretaría de Gobierno, en el Registro Público de la Propiedad y del Comercio respectivos y en el Consejo de Notarios.
 
@@ -986,3 +1030,7 @@ SEXTO.- La numeración de actas y libros de certificaciones será la que continu
 P.O. 24 DE NOVIEMBRE DE 2007.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Colima".
+
+P.O. 3 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
