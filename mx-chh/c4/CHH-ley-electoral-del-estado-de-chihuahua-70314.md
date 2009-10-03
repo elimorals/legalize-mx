@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-70314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-12"
-last_updated: "2009-09-12"
+last_updated: "2009-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -33,7 +33,7 @@ QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
 
 DECRETO:
 
-DECRETO No.733/09 VI P.E.
+DECRETO No. 733/09 VI P.E.
 
 LA SEXAGÉSIMA SEGUNDA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDA EN SU SEXTO PERÍODO EXTRAORDINARIO DE SESIONES, DENTRO DEL SEGUNDO AÑO DE EJERCICIO CONSTITUCIONAL,
 
@@ -273,7 +273,7 @@ En la lista que presenten los partidos o coaliciones se harán los registros de 
 
 2. Las diputaciones de representación proporcional se distribuirán mediante rondas de asignación entre los partidos políticos o coaliciones con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido por cada uno de ellos de la votación estatal válida emitida, a que hace referencia el numeral 3, del artículo 15 de la presente Ley. En una primera ronda, se asignará una diputación a cada partido político o coalición que haya obtenido por lo menos el 2% de la votación antes mencionada. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido que haya obtenido más del 7%. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político o coalición que haya obtenido más del 10%. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido o coalición que haya obtenido más del 20%. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos o coaliciones hasta agotar su totalidad.
 
-3. Las diputaciones de representación proporcional que correspondan a cada partido político o coalición se asignarán alternada y sucesivamente: en primer lugar, utilizando el sistema de listas previamente registradas por aquellos conforme a esta Ley, y, en segundo lugar, atendiendo a los más altos porcentajes obtenidos en su distrito por cada unos de los candidatos del mismo partido o coalición, de la votación estatal válida emitida en los términos del numeral 1 en relación con el 2, del artículo 15 de la presente Ley.
+3. Las diputaciones de representación proporcional que correspondan a cada partido político o coalición se asignarán alternada y sucesivamente: en primer lugar, utilizando el sistema de listas previamente registradas por aquellos conforme a esta Ley, y, en segundo lugar, atendiendo a los más altos porcentajes obtenidos en su distrito por cada unos (sic) de los candidatos del mismo partido o coalición, de la votación estatal válida emitida en los términos del numeral 1 en relación con el 2, del artículo 15 de la presente Ley.
 
 4. Cuando del registro total de las candidaturas que hagan los partidos o coaliciones por el principio de mayoría relativa, aparecieren más del 50% de candidatos de un mismo sexo, el sexo subrepresentado al cargo como propietario ocupará, cuando menos, el segundo lugar propietario de la lista de representación proporcional.
 
@@ -4345,7 +4345,7 @@ El sistema de medios de impugnación regulado por esta Ley tiene por objeto gara
 
 a) Que todos los actos y resoluciones de las autoridades electorales se sujeten invariablemente al principio de legalidad, y a la Constitución del Estado, y
 
-b) La definitividad de los distintos actos y etapas de los procesos electorales.298
+b) La definitividad de los distintos actos y etapas de los procesos electorales.
 
 Artículo 299
 
