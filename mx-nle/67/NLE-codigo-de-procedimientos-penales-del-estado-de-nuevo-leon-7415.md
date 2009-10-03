@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2009-07-17"
+last_updated: "2009-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -59,7 +59,7 @@ En este período deben proponerse y rendirse las pruebas que el Juez o las parte
 
 IV.- Juicio, que comprende las conclusiones acusatorias del Ministerio Público, acorde con los hechos motivo del auto de formal prisión o de sujeción a proceso, la defensa del inculpado, la audiencia de vista y la sentencia que proceda.
 
-V. La actuación del Tribunal Superior de Justicia del Estado, cuando efectúe diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
+V. La actuación del Tribunal Superior de Justicia del Estado, cuando efectúen diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
 
 VI.- Ejecución, que comprende el lapso entre el momento que cause ejecutoria la sentencia dictada, hasta la extinción de las sanciones y/o medidas de seguridad impuestas.
 
@@ -73,7 +73,7 @@ III. Primer etapa del procedimiento especial, comprende lo relativo al ofrecimie
 
 IV.- Segunda etapa del procedimiento especial, comprende lo relativo al ofrecimiento y desahogo de pruebas para la resolución sobre la participación o no del inimputable en los hechos que se le atribuyen.
 
-V.- La actuación del Tribunal Superior de Justicia del Estado, cuando efectúen diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
+V.- La actuación del Tribunal Superior de Justicia del Estado, cuando efectúe diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
 
 VI.- Ejecución, que comprende el lapso entre el momento que cause ejecutoria la sentencia dictada, hasta la extinción de las medidas de seguridad impuestas.
 
@@ -195,7 +195,11 @@ XIV.- Certificar documentos y dar fe de hechos y circunstancias en ejercicio de 
 
 > <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
 
-XV.- Acordar el archivo provisional del ejercicio de la acción penal, cuando no existan o no se encuentren datos que permitan continuar la investigación durante el término de tres años, excepto cuando se trate de delitos graves.
+XV.- Acordar el archivo provisional del ejercicio de la acción penal, cuando no existan o no se encuentren datos que permitan continuar la investigación durante el término de tres años, excepto cuando se trate de delitos graves;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+XVI.- Dictar reserva de la preparación de la acción penal en los delitos de querella necesaria, cuando se advierta que la personalidad o la legitimación del querellante se encuentra subjúdice. Una vez resuelta la controversia en definitiva por la autoridad competente, el Ministerio Público resolverá a lo que a derecho corresponda.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -1211,11 +1215,13 @@ Al verificarse la información y que de ello se deriven indicios suficientes de 
 
 Cuando la denuncia o querella se formule por escrito, el funcionario que la reciba deberá asegurarse tanto de la identidad del denunciante o querellante, en su caso, como de los documentos que se anexen.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 130.
 
-Las querellas formuladas en representación de personas físicas o morales, se admitirán cuando el compareciente lo haga con poder general para pleitos y cobranzas con cláusula especial para formularlas. En el caso de las personas morales no será necesario acuerdo del Consejo de Administración o de la Asamblea de socios o accionistas o poder especial para el caso determinado, ni instrucciones concretas del mandante.
+Las querellas formuladas en representación de personas físicas o morales, se admitirán cuando el compareciente lo haga con poder general para pleitos y cobranzas sin necesidad de que exista cláusula especial para formularlas. En el caso de las personas morales no será necesario acuerdo del Consejo de Administración o de la Asamblea de socios o accionistas o poder especial para el caso determinado, ni instrucciones concretas del mandante.
+
+Cuando la querella verse sobre responsabilidad de los administradores, en el caso de personas morales se estará a lo dispuesto para tal efecto en la Ley General de Sociedades Mercantiles.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -1833,9 +1839,13 @@ El Ministerio Público emitirá determinación de reserva de la preparación de 
 
 Agotada la averiguación por el Ministerio Público, por reunirse los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, ejercitará la acción penal.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-El Ministerio Público estará obligado a precisar de una manera breve el hecho por el cual ejercita acción penal; expresará el delito que se le imputa al inculpado, incluyendo las modalidades o circunstancias modificativas o calificativas de éste, en su caso, así como el lugar, tiempo y circunstancias de ejecución; propondrá las cuestiones de derecho y citará las leyes aplicables.
+El Ministerio Público estará obligado a precisar de una manera breve el hecho por el cual ejercita acción penal; expresará el delito que se le imputa al inculpado, incluyendo las modalidades o circunstancias modificativas o calificativas de éste, en su caso, así como el lugar, tiempo y circunstancias de ejecución, que podrán acreditarse con pruebas directas o circunstanciales, propondrá las cuestiones de derecho y citará las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+Tratándose de delitos sexuales, delitos contra la familia, delitos contra la vida e integridad de las personas, delitos contra la libertad, corrupción de menores o de personas privadas de la voluntad y pornografía infantil; cuando la víctima del delito carezca de la capacidad de precisar lugar, tiempo y circunstancias de ejecución de los hechos en razón de tratarse de menores de 13 años de edad, o bien, cuando la víctima padezca una enfermedad o esté sujeta a un tratamiento médico que le impida ubicarse en tiempo, lugar y espacio, o se halle en un estado de inconsciencia de sus actos, determinado por el empleo de sustancias tóxicas, embriagantes o estupefacientes, y además, no existan testigos directos del hecho punible, el Ministerio Público acreditando estos supuestos, ejercitará la acción penal únicamente con los requisitos que al efecto establecen los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5610,5 +5620,9 @@ DECRETO No. 399, POR EL QUE SE REFORMA EL ARTICULO 182 BIS 7 DEL CODIGO DE PROCE
 P.O. 17 DE JULIO DE 2009.
 
 DECRETO No. 400, POR EL QUE SE REFORMAN LOS ARTICULOS 200, 385 Y 577 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
