@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2008-06-29"
+last_updated: "2009-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -1115,9 +1115,15 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I. La atención de la mujer, durante el embarazo, el parto y el puerperio;
 
-II. La atención de la niña, y el niño, así como la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
+II. La atención de la niña, y el niño, así como la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y (sic)
 
-III. La promoción de la integración y del bienestar familiar.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+
+III. La vigilancia del crecimiento y desarrollo de los recién nacidos hasta los dos años de edad, así como detectar de manera temprana los problemas de neurodesarrollo y patología que pudieran tener, para lo cual se contará con una Cartilla Estatal de Neurodesarrollo, la cual se entregará de manera gratuita por las instituciones públicas y privadas del sector salud; y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+
+IV. La promoción de la integración y el bienestar familiar.
 
 ###### ARTÍCULO 82.
 
@@ -2998,3 +3004,13 @@ El Decreto por el que se crea la Comisión para la Protección contra Riesgos Sa
 ###### ARTÍCULO TERCERO.
 
 Además de las disposiciones previstas en ésta Ley, la organización y distribución de competencias y atribuciones de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, se establecerán en el Reglamento que, para tal efecto expida el Gobernador Constitucional del Estado de Durango.
+
+P.O. 4 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 90 días se deberán expedir las disposiciones administrativas derivadas de la reforma y adición a la presente ley.
