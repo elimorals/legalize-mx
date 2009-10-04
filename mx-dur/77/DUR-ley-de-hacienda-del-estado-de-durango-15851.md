@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2007-12-30"
+last_updated: "2009-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -1425,43 +1425,47 @@ DÍAS DE PORCENTAJE
 
 SALARIO
 
-> <small>(F. DE E., P.O. 19 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
 
 I.- Copias certificadas de documentos
 
-solicitados, por hoja. 1.0
+solicitados, por hoja. 0.64
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
 
 II.- Expedición de copias simples de
 
-Documentos solicitados, impresas
+documentos solicitados, impresas
 
-en papel, por hoja. 0.05
+en papel, por hoja. 0.02
 
-III.- Facilitamiento o apoyo electrónico
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
 
-para copiar en medios magnéticos
+III.- Expedición de Disco Compacto del
 
-proporcionados por el solicitante la
+ente público de copias simples de
 
-información requerida, por kilo byte. 0.01
+documentos. 0.16
 
-IV.- Expedición en medios magnéticos o
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
 
-electrónicos del ente público, de copias
+IV.- Expedición en Disco Versátil Digital
 
-simples de documentos solicitados,
+del ente público, de copias simples de
 
-por kilo byte. 0.03
+documentos solicitados. 0.21
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
 
 V.- Por envío de información al interior
 
-Del Estado, mediante servicios de
+del Estado, Mediante (sic) servicios de
 
 mensajería o correo, por documento
 
 remitido, sin importar la forma de su
 
-impresión. 3.0
+impresión. Hasta 2.3
 
 ### CAPITULO IX. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE SALUD
 
@@ -2748,3 +2752,13 @@ P.O. 30 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1 de enero del año 2008.
+
+P.O. 4 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente.
