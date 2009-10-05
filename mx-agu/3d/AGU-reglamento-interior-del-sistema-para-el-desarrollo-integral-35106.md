@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2009-03-23"
+last_updated: "2009-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -467,9 +467,19 @@ V.- Elaborar los proyectos de Reglamentos del Organismo, así como las propuesta
 
 VI.- Representar al DIF Estatal en los juicios que intervenga y que deriven de la promoción o competencia de la propia Procuraduría;
 
-VII.- Ser el asesor jurídico del organismo y representarlo legalmente en todas aquellas instancias que sean necesarias mediante el aval o ratificación del Director General; y
+VII.- Ser el asesor jurídico del organismo y representarlo legalmente en todas aquellas instancias que sean necesarias mediante el aval o ratificación del Director General; y (sic)
 
-VIII.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+VIII.- Coordinarse con cada Dirección de Área para revisar y actualizar las reglas de operación de los programas o reglamentos, para adecuarlos a la Ley y al presente ordenamiento jurídico;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+IX.- Planear, programar y administrar las reuniones del Patronato y de los Comités Interinstitucionales, Comités Coordinadores, Comités Técnicos y/o Convenios que el DIF estatal encabeza en coordinación con los encargados de área involucrados, y vigilar que cada uno tenga su reglamento propio o reglas de operación oficialmente reconocidas y actualizadas conforme a la Ley de Asistencia Social y de Integración Familiar y demás leyes aplicables; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+X.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -549,9 +559,13 @@ VI.- Asesorar a los padres dé familia para atender problemas de alcoholismo, dr
 
 VII.- En general, brindar la atención a todas aquellas cuestiones indispensables para el bienestar de la familia;
 
-VIII.- Elaborar y proponer las actualizaciones del Reglamento Interior de la Estancia Infantil del DIF Estatal, en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
 
-IX.- Elaborar y proponer las actualizaciones del Reglamento Interior de Casa Club, en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación;
+VIII.- Elaborar y proponer las actualizaciones del Reglamento Interior de la Estancia Infantil del DIF Estatal, en coordinación con la Procuraduría de la Defensa del Menor y la Familia y someterlo a consideración del Director General para el trámite de aprobación;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+IX.- Elaborar y proponer las actualizaciones del Reglamento Interior de Casa Club, en coordinación con la Procuraduría de la Defensa del Menor y la Familia y someterlo a consideración del Director General para el trámite de aprobación;
 
 X.- Estar en coordinación con otras instituciones públicas y privadas para brindarse apoyo mutuo en materia de desarrollo familiar;
 
@@ -559,7 +573,9 @@ XI.- Realizar y colaborar en la elaboración de proyectos especiales para el des
 
 XII.- Canalizar a las instituciones respectivas los casos que les correspondan;
 
-XIII.- Elaborar, actualizar y presentar las iniciativas, modificaciones o adicionar la normatividad, lineamientos y demás disposiciones de su competencia, al Director General a través de la Dirección de Planeación para el trámite y su respectiva autorización; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XIII.- Elaborar, actualizar y presentar las iniciativas, modificaciones o adicionar la normatividad, lineamientos y demás disposiciones de su competencia, al Director General a través de la Procuraduría de la Defensa del Menor y la Familia para el trámite y su respectiva autorización; y
 
 XIV.- Las señaladas en el Artículo 38 de este ordenamiento jurídico.
 
@@ -585,7 +601,9 @@ VII.- Coordinar, regular y supervisar la distribución de los apoyos proporciona
 
 VIII.- Determinar las cuotas de asignación anual de apoyos alimentarios a los sistemas DIF Municipales;
 
-IX.- Elaborar y proponer las actualizaciones del Reglamento Interior de los Centros de Desarrollo de la Comunidad, en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+IX.- Elaborar y proponer las actualizaciones del Reglamento Interior de los Centros de Desarrollo de la Comunidad, en coordinación con la Procuraduría de la Defensa del Menor y la Familia y someterlo a consideración del Director General para el trámite de aprobación;
 
 X.- (DEROGADA, 4 DE AGOSTO DE 2008)
 
@@ -593,7 +611,13 @@ XI.- (DEROGADA, P.O. 4 DE AGOSTO DE 2008)
 
 XII.- (DEROGADA, 4 DE AGOSTO DE 2008)
 
-XIII.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XIII.- Proponer las actualizaciones al Reglamento de los Albergues de DIF Estatal, en coordinación con la Procuraduría de la Defensa del Menor y la Familia y la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XIV.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -625,13 +649,13 @@ XI.- Coordinarse con la Procuraduría de la Defensa del Menor y la Familia y la 
 
 XII.- Coordinarse con la Dirección de Administración y Finanzas para la elaboración y proponer las actualizaciones de los manuales de procedimientos de los servicios que presta la Institución y someterlos a consideración del Director General para el trámite de aprobación;
 
-XIII.- Coordinarse con cada Dirección de Área para revisar y actualizar las reglas de operación de los programas o reglamentos, para adecuarlos a la Ley y al presente ordenamiento jurídico;
+XIII.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2009)
 
 XIV.- Realizar las investigaciones que sean requeridas en coordinación con el área involucrada, para la operación y definición de los programas e implementación de nuevos proyectos;
 
 XV.- Realizar un trabajo de coordinación, supervisión y vigilancia de las organizaciones de beneficencia privada recopilando la información referente a las mismas para diagnosticar su situación y proponer apoyos subsidiarios, conforme a la Ley de Asistencia Social e Integración Familiar y éste ordenamiento jurídico;
 
-XVI.- Planear, programar y administrarlas reuniones del Patronato y de los Comités Interinstitucionales, Comités Coordinadores, Comités Técnicos, Fideicomisos, etc., y/o Convenios que el DIF estatal encabeza, en coordinación con los encargados de área involucrados, y vigilar que cada uno tenga su reglamento propio o reglas de operación oficialmente reconocidas y actualizadas conforme a la Ley de Asistencia Social y de Integración Familiar y demás leyes aplicables;
+XVI.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2009)
 
 XVII.- Elaborar, en coordinación con la Dirección de Administración, el anteproyecto de presupuesto general anual del DIF Estatal;
 
@@ -669,7 +693,9 @@ VI.- Promover la enseñanza, capacitación y la investigación en el personal de
 
 VII.- Implementar programas preventivos de discapacidad con el propósito de disminuir las incidencias;
 
-VIII.- Elaborar y proponer las actualizaciones del Reglamento Interior del Centro de Rehabilitación e Integración Social (CRIS), en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+VIII.- Elaborar y proponer las actualizaciones del Reglamento Interior del Centro de Rehabilitación e Integración Social (CRIS), en coordinación con la Procuraduría de la Defensa del Menor y la Familia y someterlo a consideración del Director General para el trámite de aprobación; y
 
 IX.- Las señaladas en el Artículo 38 de este ordenamiento jurídico.
 
@@ -685,9 +711,9 @@ III.- Elaborar y proponer las actualizaciones del Reglamento Interior del Centro
 
 IV.- Elaborar y proponer las actualizaciones del Reglamento Interior de la Estancia de Día del DIF Estatal, en coordinación con la Procuraduría de la Defensa del Menor y la Familia y la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación;
 
-V.- Establecer programas y acciones de Coordinación con el Instituto de Salud del Estado de Aguascalientes para proporcionar los servicios de atención médica especializada que se requieran en apoyo a las personas de la tercera edad conforme a lo establecido en la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar; y
+V.- Establecer programas y acciones de Coordinación con el Instituto de Salud del Estado de Aguascalientes para proporcionar los servicios de atención médica especializada que se requieran en apoyo a las personas de la tercera edad conforme a lo establecido en la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar; y (sic)
 
-VI.- Realizar las acciones señaladas en el Artículo 13 de la Ley de la Senectud del Estado de Aguascalientes.
+VI.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2009)
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -707,7 +733,7 @@ V.- Colaborar con otras Direcciones en diferentes programas;
 
 VI.- Analizar actividades junto con el personal de Giras para acordar los cambios que deban hacerse para el mejoramiento del servicio;
 
-VII.- Proponer las actualizaciones al Reglamento de los Albergues del DIF Estatal, en coordinación con la Procuraduría para la Defensa del Menor y la Familia y la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación; y
+VII.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2009)
 
 VIII.- Las señaladas en el Artículo 38 de éste ordenamiento jurídico.
 
@@ -729,15 +755,17 @@ V.- Coordinar los trabajos de las Damas Voluntarias en la comunidad y demás cen
 
 VI.- Gestión de ingresos de personas necesitadas a los diferentes Asilos de Ancianos del Estado;
 
-VII.- Gestión de brigadas médicas y oftalmológicas en Asilos de ancianos;
+VII.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2009)
 
 VIII.- Administrar y coordinar las juntas o reuniones del Voluntariado;
 
-IX.- Coordinar la organización de expositores que participan en el Bazar Navideño;
+IX.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2009)
 
-X.- Coordinar la gira del Presidente del Voluntariado o Presidente Honorario de la Cruz Roja para efectos de la Colecta Anual;
+X.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2009)
 
-XI.- Organizar la ceremonia de inauguración de la Colecta Anual de Cruz Roja en coordinación con el Gobernador Constitucional del Estado y principales funcionarios de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XI.- Organizar la ceremonia de inauguración y coordinar la gira de la Colecta Anual de Cruz Roja;
 
 XII.- Elaborar y proponer las actualizaciones del Reglamento Interior de las Unidades de Promoción Voluntaria, en coordinación con la Procuraduría de la Defensa del Menor y la Familia y la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación; y
 
@@ -767,15 +795,21 @@ VIII.- Supervisar el material fotográfico y de video que es enviado a los medio
 
 IX.- Supervisar la Síntesis Informativa, misma que incluye monitoreos de radio y televisión;
 
-X.- Elaborar los artículos que se publican en la Revista bimensual;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+X.- Coordinar el proceso de preproducción, producción del programa de televisión que realiza el DIF Estatal;
 
 XI.- Supervisar los diseños de trípticos, diplomas, invitaciones y otros, utilizados para la promoción de programas y/o eventos del DIF Estatal;
 
-XII.- Concertar donativos para la Revista;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XII.- Concertar espacios en el área de Difusión Institucional de Gobierno del Estado;
 
 XIII.- Supervisar el Periódico Mural;
 
-XIV.- Controlar el techo financiero asignado para la publicidad de los diversos eventos;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XIV.- Coordinar el trabajo, de comunicación interna del DIF, a través de la elaboración y difusión quincenal de boletín interno, tarjetas de felicitación con motivo de los diferentes eventos relacionados con los trabajadores del DIF Estatal, tarjetas de solidaridad o condolencia, entre otras;
 
 XV.- Definir los criterios básicos de acceso y coordinar la presentación de las diversas áreas a cualquier medio de comunicación; y
 
@@ -793,9 +827,15 @@ III.- Supervisar los estudios socioeconómicos que realiza el personal de Trabaj
 
 IV.- Realizar los estudios socioeconómicos que requieren de una atención especial;
 
-V.- Coordinarse con cada una de las direcciones que requieren de la participación del área de trabajo social a fin de determinar el procedimiento de intervención en cada una de ellas a fin de brindar el mejor apoyo a la población que se pretende beneficiar; y
+V.- Coordinarse con cada una de las direcciones que requieren de la participación del área de trabajo social a fin de determinar el procedimiento de intervención en cada una de ellas a fin de brindar el mejor apoyo a la población que se pretende beneficiar; y (sic)
 
-VI.- Las señaladas en el artículo 38 de este ordenamiento jurídico y las demás que determine la Dirección General.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+VI.- Planear, programar y administrar las reuniones de los Fideicomisos del DIF Estatal; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+VII.- Las señaladas en el artículo 38 de este ordenamiento jurídico y las demás que determine la Dirección General.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -895,9 +935,9 @@ g) Departamento de procesos institucionales;
 
 h) Departamento del Centro de Encuentro y Convivencia:
 
-1. Unidad de Trabajo Social;
+1. (DEROGADO, P.O. 5 DE OCTUBRE DE 2009)
 
-2. Unidad de Psicología.
+2. (DEROGADO, P.O. 5 DE OCTUBRE DE 2009)
 
 II.- DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS:
 
@@ -917,9 +957,7 @@ a) Departamento Administrativo:
 
 6. Unidad de control de activos;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2009)</small>
-
-7. Unidad de comunicación interna;
+7.- (DEROGADO, P.O. 5 DE OCTUBRE DE 2009)
 
 b) Departamento de Finanzas:
 
@@ -932,6 +970,10 @@ b) Departamento de Finanzas:
 4. Unidad de Ingresos.
 
 c) Departamento Administrativo de Servicios Médicos.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+1. Unidad de soporte administrativo.
 
 III.- DIRECCION DE DESARROLLO FAMILIAR:
 
@@ -1079,7 +1121,11 @@ a) Unidad de Diseño Gráfico;
 
 b) Unidad de Difusión;
 
-c) Unidad de Información.
+c) Unidad de Información;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+d) Unidad de comunicación interna.
 
 > <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1984,5 +2030,9 @@ P.O. 19 DE ENERO DE 2009.
 Único.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 23 DE MARZO DE 2009.
+
+Único.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2009.
 
 Único.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
