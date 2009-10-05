@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-instituto-de-acceso-a-la-informacion-6169
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-06-16"
-last_updated: "2008-06-16"
+last_updated: "2009-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2009.
 
 Estatuto publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 16 de junio de 2008.
 
@@ -57,9 +57,13 @@ De la finalidad del Estatuto Orgánico del Instituto
 
 ### CAPÍTULO VIII. De la Unidad de Control Interno
 
-### CAPÍTULO IX. De la Dirección Jurídica
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2009)</small>
 
-### CAPÍTULO X. De la Dirección de Administración e Informática
+### CAPÍTULO IX. De la Dirección Jurídica y de Acuerdos
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO X. De la Dirección de Administración y Finanzas y Direccion de Informática
 
 ### CAPÍTULO XI. De la Dirección de Capacitación y Difusión
 
@@ -197,15 +201,31 @@ VI.- Unidad de Control Interno; y
 
 VII.- Las Direcciones de Área siguientes:
 
-a).- Dirección Jurídica;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-b).- Dirección de Administración e Informática;
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+a).- Dirección Jurídica y de Acuerdos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+b).- Dirección de Administración y Finanzas;
 
 c).- Dirección de Capacitación y Difusión;
 
-d).- Dirección de Acceso a la Información y Protección de Datos; y
+d).- Dirección de Acceso a la Información y Protección de Datos; y (sic)
 
-e).- Secretaría de Acuerdos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+e).- (DEROGADO, P.O. 5 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+f).- Dirección de Informática.
 
 ### CAPÍTULO III. DEL CONSEJO GENERAL
 
@@ -281,7 +301,11 @@ XI.- Aprobar el nombramiento del titular de la Secretaría Ejecutiva y del titul
 
 XII.- Analizar y aprobar la celebración de convenios, acuerdos, bases de colaboración y demás actos jurídicos a celebrarse con terceros que se requieran para el cumplimiento de las atribuciones del Instituto;
 
-XIII.- Aprobar los estados financieros anuales del Instituto y las normas o bases para disponer de los activos fijos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XIII.- Aprobar los estados financieros trimestrales anuales del Instituto y las normas o bases para disponer de los Activos Fijos;
 
 XIV.- Aprobar los mecanismos para el control y evaluación de las actividades del Instituto;
 
@@ -393,9 +417,51 @@ XIII.- Proponer la actualización de los catálogos de funciones y de perfiles d
 
 XIV.- Diseñar y proponer al Consejero Presidente los mecanismos de evaluación e indicadores de gestión de las actividades que en materia de Transparencia y Acceso a la Información Pública Gubernamental realicen los sujetos obligados, para ser planteados al Consejo General para su aprobación;
 
-XV.- Representar al Instituto en los asuntos que dicte el Consejo General y ejecutar los acuerdos que éste determine; y
+XV.- Representar al Instituto en los asuntos que dicte el Consejo General y ejecutar los acuerdos que éste determine; y (sic)
 
-XVI.- Las demás que le confieren las disposiciones legales aplicables, el Consejo General o el Consejero Presidente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XVI.- Recibir los proyectos de resolución de los recursos de inconformidad interpuestos, para incluirlos en el orden del día para la aprobación del Consejo General;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XVII.- Elaborar el orden del día de las sesiones que celebre el Consejo General;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XVIII.- Notificar a los Consejeros, la convocatoria a sesiones del Consejo General, así como proporcionarles oportunamente toda la documentación relacionada con los temas que en ellas se vayan a tratar;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XIX.- Auxiliar a los Consejeros en el desahogo de las sesiones, preparando la documentación necesaria, así como firmar los acuerdos tomados;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XX.- Elaborar las actas de las sesiones;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XXI.- Firmar en conjunción con los Consejeros, las actas de sesiones, resoluciones y acuerdos del Consejo General;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XXII.- Elaborar en coordinación con las demás áreas, el informe anual de labores que el Consejero Presidente rinda ante el Poder Legislativo del Estado; y
+
+XXIII.- Las demás que le confieren las disposiciones legales aplicables, el Consejo Genera o el Consejero Presidente.
 
 ### CAPÍTULO VII. DE LA SECRETARÍA PARTICULAR
 
@@ -463,7 +529,11 @@ XV.- Integrar el padrón de los servidores públicos del Instituto obligados a p
 
 XVI.- Las demás que le confieren las disposiciones legales aplicables, el Consejo General o el Consejero Presidente.
 
-### CAPÍTULO IX. DE LA DIRECCIÓN JURIDICA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO IX. DE LA DIRECCIÓN JURÍDICA Y DE ACUERDOS
 
 ###### Artículo 24.
 
@@ -493,15 +563,73 @@ XI.- Apoyar técnicamente en la recepción, substanciación y resolución de las
 
 XII.- Opinar en la elaboración de los lineamientos, criterios y técnicas necesarias para que los titulares de las Unidades de Información Pública Gubernamental y los Comités de Acceso a la Información Pública Gubernamental de los sujetos obligados, en el ámbito de sus facultades, realicen respectivamente, la clasificación y desclasificación de la información reservada y confidencial;
 
-XIII.- Apoyar de manera general al Instituto en la correcta interpretación y elaboración de las normas jurídicas que regulan su funcionamiento; y
+XIII.- Apoyar de manera general al Instituto en la correcta interpretación y elaboración de las normas jurídicas que regulan su funcionamiento; y (sic)
 
-XIV.- Las demás que le confieren las disposiciones legales aplicables, el Consejo General o el Consejero Presidente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-### CAPÍTULO X. DE LA DIRECCIÓN DE ADMINISTRACIÓN E INFORMÁTICA
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XIV.- Llevar el control de la recepción de los recursos de inconformidad interpuestos ante el Instituto en el libro correspondiente para el registro progresivo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XV.- Firmar de manera conjunta con el Consejero Presidente los acuerdos de trámite en los recursos de inconformidad interpuestos ante el Instituto;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XVI.- Auxiliar al Consejero Presidente en la asignación y tramitación de los expedientes formados con motivo de los recursos de inconformidad y demás asuntos presentados ante el Instituto;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XVII.- Remitir a los Consejeros el expediente respectivo por riguroso turno, a fin de que, previo estudio, se someta el proyecto de resolución a la consideración del Consejo General;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XVIII.- Mantener la información reservada o confidencial con ese carácter, cuando sea solicitada por el Instituto a los sujetos obligados para resolver un recurso de inconformidad:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XIX.- Notificar por escrito al recurrente, la resolución que emita el Consejo General sobre el recurso de inconformidad interpuesto;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XX.- Certificar y expedir, en conjunción con el Secretario Ejecutivo, copias de las constancias que obren en los archivos del Instituto;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+XXI.- Firmar de manera conjunta con el Consejero Presidente, la apertura y cierre de los libros de Gobierno que se utilicen en el Instituto con motivo de los recursos de inconformidad; y
+
+XXII.- Las demás que le confieren las disposiciones legales aplicables, el Consejo General o el Consejero Presidente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO X. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS Y DIRECCIÓN DE INFORMÁTICA
+
+> <small>N. DE E. DE CONFORMIDAD CON EL CONSIDERANDO QUINTO DEL DECRETO QUE REFORMA EL ESTATUTO, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR XVIII FRACCIONES, PASANDO EL RESTO DE ESTAS A FORMAR PARTE DEL ACTUAL ARTICULO 25 BIS.</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 25.
 
-Son atribuciones de la Dirección de Administración e Informática:
+Son atribuciones de la Dirección de Administración y Finanzas:
 
 I.- Supervisar la correcta aplicación del presupuesto de acuerdo al calendario presupuestal y a las recomendaciones emitidas por las áreas correspondientes, y el cumplimiento de las políticas y criterios que en materia de ejercicio del gasto se den a conocer;
 
@@ -535,43 +663,61 @@ XV.- Participar en el Comité de Adquisiciones, Arrendamientos y Servicios del I
 
 XVI.- Informar semestralmente al Consejo General el avance de los programas y el desempeño de las áreas a su cargo;
 
-XVII.- Proponer y elaborar el programa de innovación y desarrollo tecnológico de conformidad a los lineamientos y disposiciones normativas en la materia para el mejor desempeño de las funciones del Instituto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-XVIII.- Proponer la contratación de servicios tecnológicos y de telecomunicaciones que requiera el Instituto;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
 
-XIX.- Proporcionar la información y fichas técnicas para las propuestas de adquisición de bienes informáticos;
+XVII.- Brindar apoyo y asesoría técnica a las diversas áreas del Instituto;
 
-XX.- Dictaminar y validar las adquisiciones de equipo y programas de cómputo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-XXI.- Instalar los programas y sistemas necesarios para el desarrollo de las funciones del Instituto;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2009)</small>
 
-XXII.- Implementar medidas tendentes al ahorro de insumos informáticos;
+XVIII.- Las demás que le confieren las disposiciones legales aplicables, el Consejo General o el Consejero Presidente.
 
-XXIII.- Elaborar un programa de mantenimiento preventivo y correctivo de los bienes informáticos así como vigilar y supervisar el cumplimiento de dicha actividad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-XXIV.- Supervisar la aplicación de la normatividad vigente que en materia de informática deba observarse;
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2009)</small>
 
-XXV.- Capacitar al personal del Instituto en el uso y manejo de los equipos y programas de cómputo para el mejor desempeño de sus actividades;
+Artículo 25 BIS.- Son atribuciones de la Dirección de Informática:
 
-XXVI.- Brindar apoyo y asesoría técnica a las diversas áreas del Instituto;
+I.- Proponer y elaborar el programa de innovación y desarrollo tecnológico de conformidad a los lineamientos y disposiciones normativas en la materia para el mejor desempeño de las funciones del Instituto;
 
-XXVII.- Proponer, diseñar e implementar sistemas de información en las áreas del Instituto que así lo requieran;
+II.- Proponer la contratación de servicios tecnológicos y de telecomunicaciones que requiera el Instituto;
 
-XXVIII.- Realizar mediante planes establecidos y en forma continua, el respaldo de la información que se mantenga en el Instituto;
+III.- Proporcionar la información y fichas técnicas para las propuestas de adquisición de bienes informáticos;
 
-XXIX.- Llevar un estricto control de los resguardos de los bienes informáticos asignados al personal del Instituto;
+IV.- Dictaminar y validar las adquisiciones de equipo y programas de cómputo;
 
-XXX.- Elaborar los dictámenes para dar de baja los equipos de cómputo obsoletos o cuando sea necesario sustituirlos al no ser rentables por el costo de su reparación;
+V.- Instalar los programas y sistemas necesarios para el desarrollo de las funciones del Instituto;
 
-XXXI.- Realizar, en coordinación con la Dirección de Acceso a la Información y Protección de Datos, el monitoreo del cumplimiento de las obligaciones de transparencia en los diferentes portales de Internet de los sujetos obligados;
+VI.- Implementar medidas tendentes al ahorro de insumes Informáticos;
 
-XXXII.- Elaborar y mantener actualizado un padrón de las direcciones electrónicas de los sitios de Internet, de los sujetos obligados;
+VII.- Elaborar un programa de mantenimiento preventivo y correctivo de los bienes informáticos así como vigilar y supervisar el cumplimiento de dicha actividad;
 
-XXXIII.- Proponer, diseñar y actualizar con la autorización del Consejo General, la información contenida en el página Web del Instituto;
+VIII.- Supervisar la aplicación de la normatividad vigente que en materia de informática deba observarse;
 
-XXXIV.-Elaborar las propuestas de lineamientos generales y recomendaciones en materia de Internet y los que le encomiende el Consejo General del Instituto; y
+IX.- Capacitar al personal del Instituto en el uso y manejo de los equipos y programas de cómputo para el mejor desempeño de sus actividades;
 
-XXXV.- Las demás que le confieren las disposiciones legales aplicables, el Consejo General o el Consejero Presidente.
+X.- Brindar apoyo y asesoría técnica a las diferentes áreas del Instituto;
+
+XI.- Proponer, diseñar e implementar sistemas de información en las áreas del Instituto que así lo requieran;
+
+XII.- Realizar mediante planes establecidos y en forma continua, el respaldo de la información que se mantenga en el Instituto;
+
+XIII.- Llevar un estricto control de los resguardos de los bienes informáticos asignados al personal del Instituto;
+
+XIV.- Elaborar los dictámenes para dar de baja los equipos de cómputo obsoletos o cuando sea necesario sustituirlos al no ser rentables por el costo de su reparación;
+
+XV.- Realizar, en coordinación con la Dirección de Acceso a la Información y Protección de Datos, el monitoreo del cumplimiento de las obligaciones de transparencia en los diferentes portales de Internet de los sujetos obligados;
+
+XVI.- Elaborar y mantener actualizado un padrón de las direcciones electrónicas de los sitios de Internet de los sujetos obligados;
+
+XVII.- Proponer, diseñar y actualizar con la autorización del Consejo General, la información contenida en la pagina Web del Instituto;
+
+XVIII.- Elaborar las propuestas de lineamientos generales y recomendaciones en materia de Internet y los que le encomiende el Consejo General del Instituto; y
+
+XIX.- Las demás que le confieren las disposiciones legales aplicables, el Consejo General o el Consejero Presidente.
 
 ### CAPÍTULO XI. DE LA DIRECCIÓN DE CAPACITACIÓN Y DIFUSIÓN
 
@@ -643,41 +789,11 @@ X.- Las demás que le confieren las disposiciones legales aplicables, el Consejo
 
 ### CAPÍTULO XIII. DE LA SECRETARÍA DE ACUERDOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
 ###### Artículo 28.
 
-Son atribuciones de la Secretaría de Acuerdos:
-
-I.- Llevar el control de la recepción de los recursos de inconformidad interpuestos ante el Instituto en el libro correspondiente para el registro progresivo;
-
-II.- Firmar de manera conjunta con el Consejero Presidente los acuerdos de trámite en los recursos de inconformidad interpuestos ante el Instituto;
-
-III.- Auxiliar al Consejero Presidente en la asignación y tramitación de los expedientes formados con motivo de los recursos de inconformidad y demás asuntos presentados ante el Instituto;
-
-IV.- Remitir a los Consejeros el expediente respectivo por riguroso turno, a fin de que, previo estudio, se someta el proyecto de resolución a la consideración del Consejo General;
-
-V.- Recibir los proyectos de resolución de los recursos de inconformidad interpuestos, para incluirlos en el orden del día para la aprobación del Consejo General;
-
-VI.- Elaborar el orden del día de las sesiones que celebre el Consejo General;
-
-VII. Notificar a los Consejeros, la convocatoria a sesiones del Consejo General, así como proporcionarles oportunamente toda la documentación relacionada con los temas que en ellas se vayan a tratar;
-
-VIII.- Auxiliar a los Consejeros en el desahogo de las sesiones, preparando la documentación necesaria, así como firmar los acuerdos tomados;
-
-IX.- Elaborar las actas de las sesiones;
-
-X.- Mantener la información reservada o confidencial con ese carácter, cuando sea solicitada por el Instituto a los sujetos obligados para resolver un recurso de inconformidad;
-
-XI.- Firmar en conjunción con los Consejeros, las actas de sesiones, resoluciones y acuerdos del Consejo General;
-
-XII.- Notificar por escrito al recurrente, la resolución que emita el Consejo General sobre el recurso de inconformidad interpuesto;
-
-XIII.- Certificar y expedir, en conjunción con el Secretario Ejecutivo, copias de las constancias que obren en los archivos del Instituto;
-
-XIV.- Firmar de manera conjunta con el Consejero Presidente, la apertura y cierre de los libros de Gobierno que se utilicen en el Instituto con motivo de los recursos de inconformidad;
-
-XV.- Elaborar en coordinación con las demás áreas, el informe anual de labores que el Consejero Presidente rinda ante el Poder Legislativo del Estado; y
-
-XVI.- Las demás que le confieren las disposiciones legales aplicables, el Consejo General o el Consejero Presidente.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2009)
 
 ### CAPÍTULO XIV. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
@@ -732,3 +848,11 @@ CONSEJERO
 ARQ. JUAN FELIPE PAREDES CARBAJAL.
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+P.O. 5 DE OCTUBRE DE 2009.
+
+PRIMERO.- Los preceptos legales propuestos a modificación, adición y derogación entraran en vigor a partir de la celebración de la Novena Sesión Ordinaria del Consejo General del Instituto de Acceso a la Información Pública Gubernamental para el Estado de Hidalgo, de fecha 12 de Mayo de 2009.
+
+SEGUNDO.- Se ordena su Publicación en el Periódico Oficial del Estado de Hidalgo.
