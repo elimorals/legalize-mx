@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-sesiones-del-consejo-general-del-instituto-41085"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-20"
-last_updated: "2004-09-20"
+last_updated: "2009-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el lunes 20 de septiembre de 2004.
 
@@ -243,6 +243,10 @@ III. En las sesiones extraordinarias y especiales únicamente se tratarán los a
 
 IV. Cuando no haya sido acompañada la documentación que respalde el punto a tratar del orden del día, por causas supervenientes el Secretario podrá enviarla por alcance hasta un día de anticipación a la sesión de que se trate.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2009)</small>
+
+Los documentos y anexos se distribuirán preferentemente en medios electrónicos o magnéticos, excepto cuando ello sea materialmente imposible, o bien, cuando la entrega sea solicitada en forma impresa, previa y expresamente mediante escrito dirigido al Secretario General por cualquiera de los integrantes del Consejo, con veinticuatro horas de anticipación a la sesión que tenga verificativo para tal efecto.
+
 ###### Artículo 12.
 
 No obstante lo dispuesto en los párrafos anteriores, los Consejeros y representantes de los partidos políticos pueden solicitar al Consejo la discusión en “asuntos generales”, de puntos que no requieran el estudio de documentos, o que sean de obvia y urgente resolución. El Secretario informará al Consejo de dichas solicitudes para que decidan.
@@ -416,3 +420,11 @@ LIC. RAMÓN HERNÁNDEZ REYES
 SECRETARIO GENERAL
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Acuerdo entrará en vigor a partir del día de su aprobación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
