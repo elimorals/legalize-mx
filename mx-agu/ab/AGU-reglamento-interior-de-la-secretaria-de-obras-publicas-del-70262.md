@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-obras-publicas-del-7026
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-28"
-last_updated: "2009-09-28"
+last_updated: "2009-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -674,3 +674,9 @@ SECRETARIO GENERAL DE GOBIERNO.
 Ing. Luis Gerardo del Muro Caldera,
 
 SECRETARIO DE OBRAS PÚBLICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE OCTUBRE DE 2009.
+
+ÚNICO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
