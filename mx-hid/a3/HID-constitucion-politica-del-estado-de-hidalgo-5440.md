@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2009-09-21"
+last_updated: "2009-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -95,7 +95,9 @@ El derecho de petición, será atendido por los Funcionarios y Empleados Públic
 
 A toda petición, deberá recaer un acuerdo escrito de la Autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer al peticionario en breve término.
 
-Toda persona, tiene derecho a acceder a la información pública, conforme a la Ley de la materia.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+Toda persona tiene derecho de acceder a la Información Pública conforme a la Ley de la Materia y estará garantizada por el Estado.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
 
@@ -106,6 +108,10 @@ Es inviolable la libertad de escribir y publicar escritos sobre cualquier materi
 No están obligados a declarar sobre la información que reciban, conozcan o tengan en su poder los periodistas, como información de carácter reservada, así como los profesionistas, los ministros de cualquier culto con motivo del ejercicio de su ministerio y los servidores públicos que desempeñen cualquier otro empleo, cargo oficio o profesión, cuando la Ley reconozca el deber de guardar reserva o secreto profesional.
 
 Los habitantes del Estado gozan del derecho a que le sea respetado su honor, su crédito y su prestigio.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+El derecho de réplica será ejercido en los términos dispuestos por la Ley.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -449,11 +455,39 @@ La renovación de los poderes legislativo y ejecutivo, así como de los Ayuntami
 
 I. Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral y los que cuenten con registro nacional o estatal tendrán derecho a participar en las elecciones estatales y municipales.
 
-Los partidos políticos tienen como fin promover la participación ciudadana en la vida democrática, contribuir a la integración de la representación estatal y municipal y como organizaciones de ciudadanos hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
-II. La ley garantizará que los partidos políticos cuenten equitativamente con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso en forma permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma. Además, la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+Los partidos politicos tienen como fin promover la participación ciudadana en la vida democrática, contribuir a la integración de la representación Estatal y Municipal y como organizaciones de ciudadanos hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan mediante el sufragio universal, libre, secreto y directo.
 
-La ley electoral fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con los que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de éstas disposiciones.
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la Ley.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+II. La Ley garantizará que los partidos políticos cuenten equitativamente con financiamiento público para llevar a cabo sus actividades ordinarias permanentes y las tendientes a la obtención del voto; señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+
+La Ley establecerá el procedimiento para la liquidación de los partidos locales que pierdan su registro y los supuestos en que sus bienes y remanentes pasarán a formar parte del patrimonio del Estado.
+
+Los partidos políticos tendrán derecho de acceso a la radio y la televisión, conforme a las normas establecidas en el Apartado B de la Base III del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+
+Ninguna otra persona, física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+
+La Ley electoral fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales; establecerá los montos máximos que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador; y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con los que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+La Ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular; las reglas para el desarrollo de las precampañas y las campañas electorales de los partidos políticos; y las sanciones para quienes las infrinjan.
+
+La Ley señalará la duración máxima de las campañas, las que no podrán exceder de noventa días para la elección de Gobernador y de sesenta días para las elecciones de diputados locales o Ayuntamientos. Asimismo, las precampañas no podrán exceder las dos terceras partes del tiempo previsto para las respectivas campañas electorales.
+
+Desde el inicio de las campañas electorales y hasta la conclusión de la respectiva jornada electoral, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de las Autoridades Estatales, como Municipales y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+
+La Ley determinará los supuestos y las reglas para la realización, por parte de las autoridades administrativas o jurisdiccionales, de recuentos totales o parciales de votación, siempre que ello no sea obstáculo para resolver dentro de los plazos legales.
 
 III. La organización de las elecciones estatales y municipales es una función del Estado, que se realiza a través de un organismo público, autónomo, de carácter permanente, denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan los partidos políticos y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad, equidad y objetividad serán principios rectores.
 
@@ -463,13 +497,31 @@ Será facultad del Consejo General del Instituto Estatal Electoral convocar a el
 
 El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, Diputados y Ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán en los términos que señale la ley.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+El Instituto Estatal Electoral podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales. La propuesta para la celebración del convenio correspondiente deberá ser aprobada por el voto de al menos cuatro de los Consejeros Electorales del Consejo General y deberá contener los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del convenio, el proyecto de reestructuración administrativa, financiera y laboral del propio Instituto Estatal, los montos a erogar y la forma en que habrán de cubrirse al Instituto Federal Electoral.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+El Instituto Estatal Electoral de Hidalgo podrá coordinarse con el órgano técnico del Consejo General del Instituto Federal Electoral, a través de la suscripción de un convenio, en el que se establezcan las bases y los procedimientos para superar las limitaciones derivadas de los secretos bancario, fiduciario y fiscal en la fiscalización de las finanzas de los partidos políticos en el ámbito de la Entidad.
+
 IV. Para garantizar la legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señale esta Constitución, y las leyes respectivas. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijará los plazos convenientes para el desahogo de todas las instancias impugnativas y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos de esta Constitución. Correspondiendo al Tribunal Electoral la aplicación del sistema mencionado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2009)</small>
+
+El Tribunal Electoral será autónomo en su funcionamiento e independiente en sus decisiones y tendrá la competencia que determinen esta Constitución y la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2009)</small>
+
+La Ley fijará las causales de nulidad de las elecciones de Gobernador, Diputados Locales y Ayuntamientos. El Tribunal Electoral sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la Ley.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2009)</small>
 
 En materia electoral la interposición de los medios de impugnación no producirán efectos suspensivos sobre la resolución o el acto impugnado.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE OCTUBRE DE 2009)</small>
 
-El Código Penal tipificará los delitos y determinará las faltas en esa materia, así como las sanciones que por ellos deban imponerse.
+El Código Penal tipificará los delitos y la Ley determinará las faltas en esa materia, en ambos casos se establecerán las sanciones que por ello deban de imponerse.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -517,11 +569,11 @@ El ejercicio del Poder Legislativo se deposita en una Asamblea que se denominar�
 
 #### SECCION II. DE LA ELECCION DE DIPUTADOS E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 29.
 
-El Congreso se integra con dieciocho Diputados de mayoría electos por votación directa, secreta y uninominal en dieciocho distritos electorales y doce Diputados de representación proporcional, quienes como resultado de la misma elección se designarán mediante el procedimiento que la Ley de la materia establezca.
+El Congreso se integra con Diputados de mayoría electos por votación directa, secreta y uninominal en dieciocho distritos electorales y Diputados de representación proporcional, quienes como resultado de la misma elección se designarán en el número y mediante el procedimiento que la Ley de la materia establezca.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -531,9 +583,9 @@ Los Diputados de mayoría relativa y de representación proporcional, son repres
 
 Por cada Diputado Propietario se elegirá un Suplente y la elección se hará por fórmula.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
-Los diputados tienen la obligación de informar en el primer trimestre de cada año, sobre las actividades desempeñadas durante su ejercicio constitucional.
+Los diputados tienen la obligación de informar en el mes de agosto de cada año, sobre las actividades desempeñadas durante su ejercicio constitucional.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -593,11 +645,11 @@ El Presidente del Congreso, velará por el respeto al fuero constitucional de lo
 
 Los Diputados en ejercicio, no podrán desempeñar ningún empleo, cargo o comisión de los Gobiernos Federal, Estatal o Municipal, salvo el académico o de beneficencia pública. La violación de esta disposición, será sancionada con la pérdida del cargo de Diputado.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 36.
 
-El Congreso se renovara en su totalidad cada tres años, debiendo de tomar posesión de su cargo los integrantes de la nueva Legislatura, el día primero de abril del año respectivo.
+El Congreso se renovará en su totalidad cada tres años, mediante elección que se celebrará el primer domingo de julio del año que corresponda, debiendo tomar posesión de su cargo los integrantes de la nueva Legislatura, el cinco de septiembre del año de la elección.
 
 ###### Artículo 37.
 
@@ -613,9 +665,9 @@ El Congreso se renovara en su totalidad cada tres años, debiendo de tomar poses
 
 El Congreso tendrá durante el año, dos períodos ordinarios de sesiones, como sigue:
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
-El Primero se iniciará el primer día de abril y concluirá a más tardar el último de julio. El Segundo comenzará el primer día de septiembre y terminará a más tardar el último de diciembre.
+El primero se iniciará el cinco de septiembre y concluirá a más tardar el último de diciembre. El segundo comenzará el primer día de abril y terminará a más tardar el último de julio.
 
 Los períodos no podrán prorrogarse más allá de la fecha de su terminación.
 
@@ -637,17 +689,15 @@ Los Diputados que falten a una Sesión sin causa justificada o sin permiso del P
 
 Cuando algún Diputado deje de asistir a tres Sesiones consecutivas, sin previa autorización del Presidente de la Directiva o causa justificada, se llamará al Suplente respectivo, quien ejercerá las funciones durante el resto del periodo de Sesiones correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 42.
 
-Durante el Primer Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier título recursos públicos.
+Durante el Primer Periodo Ordinario de Sesiones, y para que rijan en el año siguiente, el Congreso se ocupará prioritariamente de examinar y aprobar en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el quince de diciembre.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+Durante el Segundo Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier titulo recursos públicos.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
-
-En el Segundo y para que rijan el año siguiente, se ocupará prioritariamente de examinar y aprobar en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a mas tardar el quince de diciembre.
+El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, siga su curso.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1047,11 +1097,11 @@ La Diputación Permanente dará cuenta en la segunda sesión del Congreso, del u
 
 #### SECCION I. DEL GOBERNADOR
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 61.
 
-Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se denominara Gobernador Constitucional del Estado de Hidalgo, quien durará en su encargo 6 años, debiendo tomar posesión el 1º de Abril del año correspondiente y nunca podrá ser reelecto.
+Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se denominará Gobernador Constitucional del Estado de Hidalgo, quien será electo en jornada comicial que se celebrará el primer domingo de julio del año que corresponda, durará en su encargo 6 años, deberá tomar posesión el cinco de septiembre del año de la elección y nunca podrá ser reelecto.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1229,9 +1279,9 @@ XXIII. Nombrar representantes del Estado para los negocios en los que éste teng
 
 XXIV. Cuidar de los distintos ramos de la administración, procurando que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las Leyes;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2009)</small>
 
-XXV. Presentar un informe por escrito al Congreso del Estado, el día primero de abril de cada año, para dar cuenta del estado que guardan los diversos ramos de la Administración Pública. El último año del Ejercicio Constitucional, el informe se enviará el primero de marzo. Cuando por causas de fuerza mayor, no fuera posible enviarlo en estas fechas, el Congreso expedirá el correspondiente Decreto, fijando el día para su presentación;
+XXV. Presentar un informe por escrito al Congreso del Estado, el día cinco de septiembre de cada año, para dar cuenta del estado que guardan los diversos ramos de la Administración Pública. El último año del Ejercicio Constitucional, el informe se enviará el cinco de agosto. Cuando por causas de fuerza mayor no fuera posible enviarlo en estas fechas, el Congreso expedirá el correspondiente Decreto, fijando el día para su presentación;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2047,11 +2097,13 @@ Hay falta absoluta de Ayuntamiento cuando no se hubieren efectuado las eleccione
 
 Si alguno de los miembros del Ayuntamiento deja de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 127.
 
-Los Ayuntamientos serán electos por sufragio directo, libre y secreto. Durarán en su encargo tres años y tomarán posesión el 16 de enero del año correspondiente.
+Los Ayuntamientos serán electos por sufragio directo, libre y secreto, en jornada comicial que se celebrará el primer domingo de julio del año que corresponda. Durarán en su encargo tres años y tomarán posesión el cinco de septiembre del año de la elección.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 Los miembros del Ayuntamiento se elegirán por planillas, en los términos de la ley, por cada miembro propietario, se elegirá su suplente.
 
@@ -2325,7 +2377,9 @@ III. Ejecutar los reglamentos y acuerdos expedidos por el Ayuntamiento;
 
 IV. Presidir las sesiones del Ayuntamiento y participar en las deliberaciones y decisiones, con voto de calidad en caso de empate;
 
-V. Rendir anualmente al Ayuntamiento el día 16 de enero de cada año, un informe detallado sobre el estado que guarda la administración pública municipal; cuando por causas de fuerza mayor no fuera posible en esta fecha, se hará en otra, previa autorización del Ayuntamiento que expedirá el acuerdo, señalando fecha y hora para este acto, sin que exceda del 31 de enero;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+V. Rendir anualmente al Ayuntamiento el día cinco de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal; cuando por causas de fuerza mayor no fuera posible en esta fecha, se hará en otra, previa autorización del Ayuntamiento que expedirá el acuerdo, señalando fecha y hora para este acto, sin que exceda del veinte de septiembre;
 
 VI. Proponer al Ayuntamiento la designación de Comisiones de Gobierno y Administración entre los Regidores;
 
@@ -2508,6 +2562,18 @@ Todo cargo o empleo público de la Entidad es incompatible con cualquiera otro d
 ###### Artículo 157.
 
 Todo servidor público tendrá derecho a percibir el emolumento que la ley respectiva señale.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+Los servidores públicos del Estado y Municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social que difundan como tales los poderes públicos, los órganos autónomos, los Ayuntamientos, las Dependencias y cualquier otro ente de la Administración Pública Estatal y Municipal del Estado de Hidalgo, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+
+La infracción a las disposiciones previstas en este Título será sancionada conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -3084,3 +3150,33 @@ CUARTO.- Las adecuaciones legales reglamentarias pertinentes derivadas del prese
 QUINTO.- En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la entrada en vigor del presente Decreto, en que se haga referencia a la Contaduría Mayor de Hacienda u Órgano de Fiscalización Superior del Estado de Hidalgo, se entenderán referidos a la Auditoría Superior del Estado de Hidalgo.
 
 SEXTO.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2009.
+
+Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Tercero.- El Congreso integrado con los Diputados de la LX Legislatura tendrá, durante el año, dos períodos ordinarios de sesiones, como sigue: El primero se iniciará el primer día de abril y concluirá a más tardar el último de julio. El segundo comenzará el primer día de septiembre y terminará a más tardar el último de diciembre.
+
+Durante el Primer Periodo Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier título recursos públicos.
+
+El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoria Superior del Estado, siga su curso.
+
+En el Segundo y para que rijan el año siguiente, se ocupará prioritariamente de examinar y aprobar en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el quince de diciembre.
+
+Los Diputados de la LX Legislatura tienen la obligación de informar sobre las actividades desempeñadas durante su Ejercicio Constitucional de los años 2009 y 2010 en el primer trimestre de 2010 y 2011, respectivamente.
+
+Cuarto.- El Congreso deberá aprobar las adecuaciones a la Ley Orgánica del Poder Legislativo del Estado de Hidalgo para que se ajuste al presente Decreto y entren en vigor antes de la toma de posesión de los integrantes de la LXI Legislatura.
+
+Quinto.- Los integrantes de la LXI Legislatura del Estado que resulten electos el primer domingo de julio de 2010, iniciarán su Ejercicio Constitucional el primero de abril de 2011 y lo concluirán el 4 de septiembre de 2013.
+
+Sexto.- El Gobernador Constitucional presentará un informe por escrito al Congreso del Estado, el primero de abril de 2010, para dar cuenta del estado que guardan los diversos ramos de la Administración Pública. El último año del Ejercicio Constitucional, el informe se enviará el primero de marzo de 2011.
+
+Séptimo.- El Gobernador que resulte electo el primer domingo de julio de 2010, iniciará su ejercicio constitucional el primero de abril de 2011 y lo concluirá el 4 de septiembre de 2016.
+
+Octavo.- Los Presidentes Municipales de los Ayuntamientos electos para el trienio 2009-2012, rendirán anualmente al Ayuntamiento el día 16 de enero de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal; cuando por causas de fuerza mayor no fuera posible en esta fecha, se hará en otra, previa autorización del Ayuntamiento que expedirá el acuerdo, señalando fecha y hora para este acto, sin que exceda del 31 de enero.
+
+Noveno.- Los integrantes de los Ayuntamientos electos el primer domingo de julio de 2011 tomarán posesión de su encargo el 16 de enero del año 2012 y lo concluirán el 4 de septiembre de 2016.
+
+Décimo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
