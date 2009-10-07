@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-coordinacion-del-sistema-estatal-de-seguridad-51923"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-13"
-last_updated: "2006-09-13"
+last_updated: "2009-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE COORDINACION DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY GENERAL DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE TABASCO, PUBLICADA EN EL P.O DE 7 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento E del Periódico Oficial del Estado de Tabasco, el miércoles 13 de septiembre de 2006.
 
@@ -744,3 +746,21 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JUAN CARLOS CASTILLEJOS CASTILLEJOS
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O 7 DE OCTUBRE DE 2009.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga la Ley de Coordinación del Sistema Estatal de Seguridad Pública del Estado de Tabasco publicada en el suplemento "E" al Periódico Oficial 6680 de fecha 13 de septiembre de 2006 y se derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
+
+TERCERO. El Consejo Estatal de Seguridad Pública y los Consejos Municipales deberán quedar instalados en un plazo no mayor a tres meses a partir de la entrada en vigor de la presente Ley.
+
+CUARTO. El Ejecutivo Estatal contara con un año a partir de la entrada en vigor del presente Decreto para crear e instalar los centros, instancias y demás organismos señalados expresamente en la presente Ley.
+
+QUINTO. Los servicios de carrera vigentes en las Instituciones de Seguridad Pública, Policiales y en la Procuraduría General de Justicia a la fecha de entrada en vigor de este Decreto, deberán ajustarse a los requisitos, criterios y procedimientos que establece la presente Ley, la Ley General del Sistema Nacional de Seguridad Pública y las demás leyes que correspondan, en un plazo no mayor a un año.
+
+SEXTO. Las disposiciones reglamentarias de la presente Ley deberán quedar expedidas en un plazo no mayor a dieciocho meses a partir de la entrada en vigor de este Decreto.
+
+SÉPTIMO. La administración de los recursos provenientes de los fondos de ayuda federal para la seguridad pública, se realizará a través de un Comité Técnico que presidirá el Secretario de Gobierno y estará integrado por el Secretario de Administración y Finanzas, el Secretario Ejecutivo, el Presidente del Tribunal Superior de Justicia, el Consejero Jurídico, El (sic) Procurador General de Justicia del Estado y el Secretario de Seguridad Pública, y se regirá de acuerdo a las reglas de operación y funcionamiento que marque el manual respectivo.
