@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-del-centro-de-justicia-alternativa-del-65468
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-21"
-last_updated: "2009-01-21"
+last_updated: "2009-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65468&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-01-05"
 
 REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 21 de enero de 2009.
 
@@ -36,55 +36,65 @@ Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de J
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 1.
 
-Las disposiciones del presente Reglamento tienen por objeto proveer en la esfera administrativa la ejecución y cumplimiento del Artículo 17 Constitucional fracción tercera sobre los mecanismos alternativos de solución de controversias y de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal.
+Las disposiciones del presente Reglamento tienen por objeto proveer en la esfera administrativa la ejecución y cumplimiento del Artículo 17 Constitucional, párrafo tercero, sobre los mecanismos alternativos de solución de controversias y de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 2.
 
 Para efectos de este Reglamento debe entenderse por:
 
-I. Acuerdo: solución consensuada que construyen los mediados para cada uno de los puntos controvertidos de un conflicto, durante el desarrollo de la mediación y con la finalidad de resolverlo satisfactoriamente. El conjunto de acuerdos forman el clausulado del convenio que aquellos suscriben;
+I. Acuerdo: solución consensuada que construyen los mediados para cada uno de los puntos controvertidos de un conflicto, durante el desarrollo de la mediación y con la finalidad de resolverlo satisfactoriamente. El conjunto de acuerdos forman el clausulado del convenio que aquéllos suscriben;
 
 II. Autocomposición: reglas que los propios particulares involucrados en una controversia establecen para efecto de encontrar una solución a la misma;
 
 III. Centro: Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal;
 
-IV. Consejo: Consejo de la Judicatura del Distrito Federal;
+IV. Comité: Comité Revisor de las Evidencias de Evaluación;
 
-V. Co - mediación: procedimiento complementario de la mediación, con el cual se enriquece ésta, a partir de la intervención de otro u otros mediadores;
+V. Consejo: Consejo de la Judicatura del Distrito Federal;
 
-VI. Co - mediador: mediador autorizado por el Centro para asistir al mediador asignado a la atención de una determinada controversia, aportando sus experiencias, conocimientos y habilidades;
+VI. Co-mediación: procedimiento complementario de la mediación, con el cual se enriquece ésta, a partir de la intervención de otro u otros mediadores;
 
-VII. Instituto: Instituto de Estudios Judiciales del Tribunal Superior de Justicia del Distrito Federal;
+VII. Co-mediador: mediador autorizado por el Centro para asistir al mediador asignado a la atención de una determinada controversia, aportando sus experiencias, conocimientos y habilidades;
 
-VIII. Justicia alternativa: procedimientos distintos a los jurisdiccionales para la solución de controversias entre particulares;
+VIII. Instituto: Instituto de Estudios Judiciales del Tribunal Superior de Justicia del Distrito Federal;
 
-IX. Ley: Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal;
+IX. Justicia alternativa: procedimientos distintos a los jurisdiccionales para la solución de controversias entre particulares;
 
-X. Mediación: procedimiento voluntario por el cual dos o más personas involucradas en una controversia, a las cuales se les denomina mediados, buscan y construyen una solución satisfactoria a la misma, con la asistencia de un tercero imparcial denominado mediador;
+X. Ley: Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal;
 
-XI. Mediados: personas físicas o morales que, después de haber establecido una relación de variada naturaleza jurídica, se someten a la mediación, en busca de una solución pacífica a su controversia;
+XI. Mediación: procedimiento voluntario por el cual dos o más personas involucradas en una controversia, a las cuales se les denomina mediados, buscan y construyen una solución satisfactoria a la misma, con la asistencia de un tercero imparcial denominado mediador;
 
-XII. Mediador: especialista capacitado y registrado por el Tribunal Superior de Justicia del Distrito Federal para conducir el procedimiento de mediación e intervenir como facilitador de la comunicación y la negociación entre particulares involucrados en una controversia;
+XII. Mediados: personas físicas o morales que, después de haber establecido una relación de variada naturaleza jurídica, se someten a la mediación, en busca de una solución pacífica a su controversia;
 
-XIII. Norma: Norma Técnica Institucional de Competencias Laborales;
+XIII. Mediador: especialista capacitado y registrado por el Tribunal Superior de Justicia del Distrito Federal para conducir el procedimiento de mediación e intervenir como facilitador de la comunicación y la negociación entre particulares involucrados en una controversia;
 
-XIV. Orientador: especialista en mediación, cuya función consiste en informar al público interesado sobre el servicio de mediación, valorar si las controversias que se plantean son susceptibles de ser resueltas mediante este procedimiento o, en caso contrario, sugerir las instancias pertinentes;
+XIV. Norma: Norma Técnica Institucional de Competencias Laborales;
 
-XV. Registro: padrón de mediadores certificados por el Centro de Justicia Alternativa;
+XV. Orientador: especialista en mediación, cuya función consiste en informar al público interesado sobre el servicio de mediación, valorar si las controversias que se plantean son susceptibles de ser resueltas mediante este procedimiento o, en caso contrario, sugerir las instancias pertinentes;
 
-XVI. Reglamento: Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal;
+XVI. Registro: padrón de mediadores certificados por el Centro de Justicia Alternativa;
 
-XVII. Re - mediación: procedimiento posterior a la mediación, que se utiliza cuando el convenio alcanzado en ésta se ha incumplido parcial o totalmente, o cuando surgen nuevas circunstancias que hacen necesario someter el asunto nuevamente a mediación, y
+XVII. Reglamento: Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal;
 
-XVIII. Tribunal: Tribunal Superior de Justicia del Distrito Federal.
+XVIII. Reglas: Reglas del Mediador Privado;
+
+XIX. Re-mediación: procedimiento posterior a la mediación, que se utiliza cuando el convenio alcanzado en ésta se ha incumplido parcial o totalmente, o cuando surgen nuevas circunstancias que hacen necesario someter el asunto nuevamente a mediación, y
+
+XX. Tribunal: Tribunal Superior de Justicia del Distrito Federal.
 
 ### CAPÍTULO II. DE LA FORMA, OBJETO Y PRINCIPIOS DEL CENTRO
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 3.
 
-El Centro de Justicia Alternativa del Tribunal Superior de Justica (sic) del Distrito Federal es una dependencia del Tribunal Superior de Justicia del Distrito Federal que cuenta con autonomía técnica y de gestión.
+El Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal es una dependencia del Tribunal Superior de Justicia del Distrito Federal que cuenta con autonomía técnica y de gestión.
 
 ###### Artículo 4.
 
@@ -148,6 +158,8 @@ VIII. Economía: El procedimiento deberá implicar el mínimo de gastos, tiempo 
 
 #### Sección Primera. De las Unidades Administrativas del Centro
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 7.
 
 Las unidades administrativas del Centro serán las siguientes:
@@ -158,11 +170,11 @@ II. Dirección de Mediación Civil-Mercantil;
 
 III. Dirección de Mediación Familiar;
 
-IV. Dirección de Mediación Penal;
+IV. Dirección de Mediación Penal y de Justicia para Adolescentes;
 
-V. Dirección de Mediación de Justicia para Adolescentes, y
+V. Unidad de Gestión y Seguimiento, y
 
-VI. Unidad de Gestión y Seguimiento.
+VI. Unidad de Registro y Monitoreo de Mediadores.
 
 Cada Dirección de Mediación contará con una Subdirección Operativa.
 
@@ -170,9 +182,11 @@ Asimismo contará con los mediadores, los orientadores, el personal técnico y e
 
 El Centro contará con módulos territorialmente desconcentrados e itinerantes para proporcionar servicios de solución de conflictos a través de la mediación, promover los servicios del Centro y proporcionar información y orientación a la ciudadanía. Cada módulo contará con la estructura, el espacio, el equipo y el personal que autorice el Consejo a propuesta del Centro.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 8.
 
-El Centro contará con un Director General quien satisfará los requisitos previstos en la Ley y será designado por Mel Consejo. Tendrá las siguientes atribuciones:
+El Centro contará con un Director General quien satisfará los requisitos previstos en la Ley y será designado por el Consejo. Tendrá las siguientes atribuciones:
 
 I. Representar jurídicamente al Centro;
 
@@ -186,13 +200,13 @@ V. Elaborar, conjuntamente con el Instituto, los programas de capacitación y en
 
 VI. Resguardar y mantener actualizado el Registro de Mediadores;
 
-VII. Establecer los mecanismos de supervisión continúa de los servicios que presten los mediadores en la aplicación de los procedimientos de mediación, co-mediación y re - mediación;
+VII. Establecer los mecanismos de supervisión continúa de los servicios que presten los mediadores en la aplicación de los procedimientos de mediación, co-mediación y re-mediación;
 
 VIII. Calificar la procedencia de la causa de excusa planteada por los mediadores o co-mediadores, para inhibirse del conocimiento del caso asignado para mediación, ya sea antes de su inicio o durante el mismo, o cuando se presente una causa superveniente y, en su caso, nombrar al mediador o co-mediador sustituto;
 
 IX. A partir de la experiencia del Centro y del reconocimiento de los avances de instituciones similares, impulsar los estudios y análisis de carácter diagnóstico y prospectivo que permitan apoyar la retroalimentación de los servicios que el propio Centro ofrece;
 
-X. Supervisar los procesos de evaluación de los mediadores y, en su caso, someter a la consideración del Consejo la ratificación correspondiente;
+X. Supervisar los procesos de capacitación, evaluación, certificación, selección y refrendo de los mediadores, según corresponda, y, en su caso, someter a la consideración del Consejo la ratificación de los mediadores del Centro;
 
 XI. Elegir los mecanismos de difusión necesarios, a efecto de que la sociedad conozca las funciones y alcances de los servicios del Centro;
 
@@ -235,6 +249,10 @@ Cada Dirección de Mediación contará con una Subdirección Operativa para cond
 ###### Artículo 11.
 
 La Unidad de Gestión y Seguimiento es la unidad de apoyo operativo y administrativo de la Dirección General para el seguimiento, control de gestión y enlace con las diversas áreas del Tribunal y del Consejo y supervisión de las actividades de las diversas unidades y personal del Centro.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
+La Unidad de Registro y Monitoreo de Mediadores tendrá a su cargo el padrón de mediadores certificados por el Centro, así como la coordinación de las acciones para garantizar altos índices de competencia profesional, en relación a los mediadores privados.
 
 #### Sección Segunda. De los Mediadores y Orientadores
 
@@ -326,9 +344,11 @@ Los Subdirectores Operativos serán suplidos en sus ausencias por el mediador qu
 
 Las solicitudes de información y orientación sobre el servicio de mediación se formularán personalmente o por representante legal, ya sea de manera oral o escrita.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 22.
 
-La solicitud escrita podrá presentarse en el Centro o en sus módulos, mediante carta, telegrama, telefaccímil, o correo electrónico; y la oral podrá formularse personalmente en las oficinas del Centro, sus módulos o por vía telefónica.
+La solicitud escrita podrá presentarse en el Centro o en sus módulos, mediante carta, telegrama, telefacsímil, o correo electrónico; y la oral podrá formularse personalmente en las oficinas del Centro, sus módulos o por vía telefónica.
 
 En ambos casos se deberán proporcionar, por lo menos, los datos generales, los de localización del solicitante, y los del invitado, es decir la persona o personas con las que aquél desea resolver el conflicto de que se trate.
 
@@ -362,9 +382,7 @@ En el caso de que el invitado manifieste oportunamente su voluntad de participar
 
 ###### Artículo 28.
 
-Si así lo solicitan y, atendiendo a las necesidades de los interesados, el Centro podrá modificar la fecha y hora de la sesión inicial hasta en dos ocasiones, pero si no asisten ambos en la última que se señale, se cerrará el expediente. Lo mismo sucederá en el supuesto de que, durante el procedimiento, no se presenten a dos sesiones consecutivas.
-
-Después de cerrado el expediente por cualquiera de las causas señaladas en el párrafo anterior, si persiste el interés de las partes en conflicto, y posteriormente así lo manifiestan, se reabrirá; y el mediador al que le fue turnado o al que se le turne, señalará día y hora para que tenga verificativo la sesión de mediación correspondiente.
+Si así lo solicitan y, atendiendo a las necesidades de los interesados, el Centro podrá modificar la fecha y hora de la sesión inicial hasta en dos ocasiones, pero si no asisten ambos en la última que se señale, se cerrará el expediente. Lo mismo sucederá en el supuesto de que, durante el procedimiento, no se presenten a dos sesiones consecutivas. Después de cerrado el expediente por cualquiera de las causas señaladas en el párrafo anterior, si persiste el interés de las partes en conflicto, y posteriormente así lo manifiestan, se reabrirá; y el mediador al que le fue turnado o al que se le turne, señalará día y hora para que tenga verificativo la sesión de mediación correspondiente.
 
 ###### Artículo 29.
 
@@ -392,6 +410,8 @@ V) Cuando alguno de los mediados o ambos lo soliciten.
 
 Además, tras la exposición de los motivos que los llevaron a aceptar la mediación y de las particularidades de su conflicto, los mediados determinarán la agenda para establecer la temática a trabajar, la periodicidad de las sesiones y la fecha y hora para la siguiente sesión.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 32.
 
 Los mediados se obligan a acatar el contenido y alcance de las siguientes reglas para conducirse en la mediación:
@@ -418,11 +438,11 @@ X. Respetar la fecha y hora señaladas para todas las sesiones, confirmar y asis
 
 XI. En caso de fuerza mayor que impida asistir a los mediados o a alguno de ellos, solicitar al Centro que se posponga la sesión, avisando oportunamente del cambio concertado al otro mediado, y confirmar al Centro la asistencia de los mediados en la fecha y hora acordadas;
 
-XII. Apagar o dejar fuera de las sesiones teléfonos celulares, aparatos de radio, radiolocalizadores o similares;
+XIII (SIC). Apagar o dejar fuera de las sesiones teléfonos celulares, aparatos de radio, radiolocalizadores o similares;
 
-XIII. No fumar durante su estancia en el Centro, y
+XIV. No fumar durante su estancia en el Centro, y
 
-XIV. Evitar traer niños, excepto cuando la asistencia y participación de éstos esté prevista en las sesiones.
+XV. Evitar traer niños, excepto cuando la asistencia y participación de éstos esté prevista en las sesiones.
 
 ###### Artículo 33.
 
@@ -602,17 +622,21 @@ Los promotores serán capacitados para la realización de las funciones de promo
 
 ### CAPÍTULO VIII. DE LA CAPACITACIÓN, SELECCIÓN, REGISTRO, CERTIFICACIÓN, EVALUACIÓN Y MONITOREO DE LOS MEDIADORES
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 57.
 
-La capacitación, entrenamiento y actualización de los mediadores, estará a cargo del Instituto, conjuntamente con el Centro, los que elaborarán los programas para tal efecto, cuidando que su diseño atienda a la Norma.
+La capacitación, entrenamiento y actualización de los mediadores para el servicio público y privado, estará a cargo del Instituto, conjuntamente con el Centro, los que elaborarán los programas para tal efecto, cuidando que su diseño atienda a la Norma.
 
 Al Centro corresponderá vigilar el desarrollo, calidad y ejecución de dichos programas, así como su retroalimentación.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 58.
 
-La capacitación en el Centro tendrá los siguientes objetivos rectores:
+La capacitación en materia de mediación tendrá los siguientes objetivos rectores:
 
-I. El ingreso de nuevos mediadores al servicio del Centro (capacitación de selección);
+I. El ingreso de nuevos mediadores al servicio del Centro y la formación de mediadores para el servicio privado (capacitación de selección);
 
 II. La actualización y fortalecimiento de la competencia laboral de los mediadores (capacitación continua), y
 
@@ -628,11 +652,27 @@ En la propuesta de convocatoria habrá de especificarse el área de especialidad
 
 En las convocatorias para la selección de mediadores se definirán, en apego a lo previsto en la Ley, las bases del concurso, la mecánica de preselección, los requisitos que deberán cubrirse para participar, la información sobre sitio, horarios y calendario para los trámites, cursos, exámenes, entrevistas y demás eventos del concurso así como la fecha y medios para publicar los resultados.
 
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
+En las convocatorias para cursos de capacitación para la certificación y refrendo de certificación de mediadores privados se definirán, en apego a lo previsto en la Ley, los requisitos que deberán cubrirse para participar, la información sobre sitio, horarios y calendario para los trámites, cursos, exámenes, entrevistas, prácticas y demás eventos aplicables, según corresponda, así como la fecha y medios para publicar los resultados.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
+La certificación que otorgue el Centro tendrá una vigencia de dos años y procederá al satisfacer los requisitos, participar en los cursos correspondientes y aprobar las evaluaciones aplicables, conforme a lo previsto en el presente ordenamiento.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
+Las evaluaciones se regirán por los principios de pertinencia, competencia, objetividad, honorabilidad, equidad y eficiencia.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 60.
 
 A efecto de evaluar la calidad del desempeño de los mediadores en el servicio y las áreas de oportunidad para la capacitación, el Centro ejercerá las siguientes tareas:
 
-I. Monitorear la conducción del servicio de mediación;
+A) Por lo que hace a los mediadores adscritos al Centro:
+
+I. Supervisar la conducción del servicio de mediación;
 
 II. Evaluar la aplicación de las técnicas de mediación empleadas y la inclusión de nuevas en su práctica, para que sean seguidas por los demás mediadores;
 
@@ -642,13 +682,31 @@ IV. Detectar las necesidades de apoyo psicológico de los mediadores, cuando por
 
 V. Elaborar los diagnósticos y presentar las propuestas de retroalimentación que se estimen necesarias.
 
+B) Por lo que hace al servicio privado de mediación:
+
+I. Administrar los registros de mediadores;
+
+II. Supervisar el servicio de mediación de manera aleatoria;
+
+III. Registrar los convenios que sean celebrados ante la fe pública del Director de Área de la especialidad de que se trate, y
+
+IV. Aplicar encuestas a los mediados que acudan a celebrar sus convenios, respecto de la calidad del servicio.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 61.
 
-Los mediadores serán evaluados cada dos años por el Centro y el Instituto, con la finalidad de que aquél emita dictamen en el que formule al Consejo propuesta de ratificación o de revocación del cargo de mediador. Quedará a cargo del Instituto la aplicación del examen bianual de competencias contra el perfil laboral, con supervisión del Centro.
+Los mediadores serán evaluados cada dos años por el Centro y el Instituto, con la finalidad de que aquél emita dictamen en el que formule al Consejo propuesta de ratificación o de revocación del cargo de mediador, en tratándose de mediadores del Centro, o para efectos de refrendo de la certificación y actualización de registro a mediadores privados.
+
+Quedará a cargo del Instituto la aplicación del examen bianual de competencias contra el perfil laboral, con la supervisión del Centro.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 62.
 
-La evaluación del mediador, para efectos de ratificación, considerará:
+La evaluación a mediadores considerará lo siguiente:
+
+A) Para efectos de ratificación de mediadores del Centro:
 
 I. Resultados obtenidos en el desempeño de su función:
 
@@ -664,6 +722,26 @@ III. Resultado del examen de competencia, y
 
 IV. Dictamen del aprendizaje proyectado en el mejoramiento continuo de la competencia en el ejercicio del cargo.
 
+B) Para efectos de refrendo de la certificación y actualización de registro de mediadores de servicio privado:
+
+I. Resultados obtenidos en el desempeño de su función:
+
+a) Índice de convenios que hayan sido celebrados ante la fe pública del Director de Área del Centro que se presenten ante el juzgado para solicitar su ejecución por la vía de apremio;
+
+b) Calificación otorgada por los mediados que haya atendido, conforme a la encuesta aplicada por el Centro;
+
+c) Número de quejas y sanciones a que se haya hecho acreedor, y
+
+d) Calificación que haya obtenido conforme a la supervisión que, en su caso, haya practicado el Centro al servicio de mediación privada que realice.
+
+II. Resultados que el Instituto reporte obtenidos de la evaluación aplicada al concluir los procesos de capacitación continua y actualización en los que haya participado;
+
+III. Resultado del examen de competencia, y
+
+IV. Dictamen del aprendizaje proyectado en el mejoramiento continuo de la competencia en el ejercicio del cargo.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 63.
 
 Para que el Consejo se pronuncie respecto de la ratificación del cargo de mediador, el Centro remitirá el expediente que integre de cada mediador con dos meses de anticipación a la fecha en que el mediador de que se trate cumpla dos años en el ejercicio del cargo.
@@ -674,11 +752,13 @@ En el expediente se consignarán los datos de identificación, resultados de des
 
 La resolución del Consejo deberá asentarse en el Registro.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 65.
 
-La certificación de los mediadores se llevará a cabo cada dos años.
+La certificación para mediadores privados se llevará a cabo al menos cada dos años. Para refrendar la certificación y actualizar su registro, se deberá presentar y aprobar el examen de competencias laborales.
 
-El Centro publicitará oportunamente el periodo para la presentación de las solicitudes de certificación.
+El Centro publicitará oportunamente el periodo para la presentación de las solicitudes de certificación así como de refrendo de certificación y actualización de registro.
 
 ###### Artículo 66.
 
@@ -702,13 +782,23 @@ VII. Publicará las listas de mediadores certificados.
 
 Los mediadores se harán acreedores a la certificación cuando cumplan con la Norma.
 
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
+Para el refrendo de la certificación y actualización de registro de mediador, los mediadores deberán acreditar que cumplen con la Norma vigente.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 68.
 
-En el Padrón se anotarán el nombre del mediador certificado, datos de localización, el número asignado, la cédula que le corresponda, la fecha de certificación, el periodo de su vigencia, el seguimiento y el número de revalidaciones.
+En el Padrón se anotarán el nombre del mediador certificado, datos de localización, la matrícula de registro asignada, la fecha de certificación, el periodo de su vigencia, el seguimiento y el número de refrendos.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 69.
 
-Para la revalidación de la Cédula de Mediador, los mediadores deberán acreditar que cumplen con la Norma vigente.
+El mediador privado certificado estará autorizado para proporcionar el servicio de mediación, por tanto los convenios de mediación alcanzados por los mediados en virtud de sus servicios, podrán ser celebrados ante la fe pública del Director de Área del Centro, conforme a lo dispuesto en la Ley y en el presente Reglamento.
+
+El mediador privado ofrecerá también los servicios de orientador privado.
 
 ###### Artículo 70.
 
@@ -720,11 +810,21 @@ La Norma estará sujeta a las acciones de actualización. El Centro determinará
 
 El Centro certificará las capacidades productivas de mediadores tanto para el sector público como para el privado y emitirá los certificados cuando se acredite el cumplimiento integral de la norma institucional de competencia laboral.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 71.
 
-El Centro integrará el comité revisor de las evidencias de evaluación para cada periodo de certificación, mismo que deberá emitir el dictamen de competencia, de conformidad con el cumplimiento de la Norma.
+El Comité estará integrado por los titulares del Centro y del Instituto y un representante de la Comisión de Medios Alternos del Consejo, por cada integrante se designará un suplente cuyo rango será de Director de Área. La presidencia del mismo recaerá en el Director General del Centro o quien lo supla. Dicho Comité se asesorará de un experto externo en certificación de competencias laborales.
 
-La conformación del Comité incluirá al Centro, al Instituto, a la Comisión de Medios Alternos del Consejo, a un organismo certificador externo de competencias laborales y a expertos en el tema.
+El Comité será competente para:
+
+I. Revisar las evidencias de evaluación de los mediadores para efectos de certificación, ratificación y refrendo, según corresponda;
+
+II. Emitir dictamen de competencia;
+
+III. Conocer de las infracciones que cometan los mediadores y, de ser procedente, aplicar las sanciones que procedan, conforme a las Reglas y demás disposiciones aplicables, según corresponda, y
+
+IV. Las demás que le confiera el Consejo, en materia de evaluación de mediadores.
 
 ### CAPÍTULO IX. DE LA DIFUSIÓN Y DIVULGACIÓN
 
@@ -775,3 +875,15 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. MARÍA DEL SOCORRO RAZO ZAMORA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 7 DE OCTUBRE DE 2009.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+Segundo.- Se publicará la versión completa del texto vigente del Reglamento Interno en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y en la Gaceta Oficial del Distrito Federal, cinco días después de que haya entrado en vigor el presente Acuerdo.
+
+Tercero.- La actual Dirección de Mediación Penal se transforma en la Dirección de Mediación Penal y de Justicia para Adolescentes. La Unidad de Registro y Monitoreo de Mediadores contará con las plazas, espacio y equipamiento que el servicio requiera y se instalará en enero de 2010, de conformidad a la disponibilidad presupuestal del Tribunal Superior de Justicia del Distrito Federal.
+
+Cuarto.- La Oficialía Mayor y la Dirección Ejecutiva de Planeación, ambas del Tribunal Superior de Justicia del Distrito Federal, realizarán en un término no mayor a tres meses contados a partir de la entrada en vigor del presente Acuerdo, la reestructura orgánica del Centro de Justicia Alternativa, escuchando las opiniones de este último.
