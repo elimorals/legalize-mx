@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-10900"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-16"
-last_updated: "2009-06-02"
+last_updated: "2009-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10900&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-06-04"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 9 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 16 de junio de 1997.
 
@@ -1538,3 +1540,13 @@ Cuarto.- Los Magistrados que a la fecha de adopción de la presente reforma inte
 Quinto.- El quinto miembro externo del Comité Académico y Editorial, que deba ser designado como consecuencia de esta reforma, durará en su encargo el mismo periodo que aquellos que fueron nombrados en sesión privada de la Sala Superior, de veintiséis de febrero de dos mil nueve.
 
 Sexto.- Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los quince días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación publicado en el Diario Oficial de la Federación el 16 de junio de 1997, así como sus reformas y adiciones.
+
+TERCERO.- Se derogan todas las disposiciones de la normativa interna del Tribunal Electoral del Poder Judicial de la Federación que se opongan a la presente reforma.
+
+CUARTO.- Publíquese la presente reforma en el Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis en Materia Electoral, así como en el Semanario Judicial de la Federación y su Gaceta.
