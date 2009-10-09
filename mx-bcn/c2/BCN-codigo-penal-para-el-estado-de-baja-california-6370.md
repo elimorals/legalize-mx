@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-09-11"
+last_updated: "2009-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1679,15 +1679,21 @@ Si el amenazador cumple su amenaza se acumulará la sanción de ésta y la del d
 
 ### CAPITULO IV. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-Artículo 184 BIS.- Tipo y punibilidad.- Al que confines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su 'posición jerárquica derivada de sus relaciones laborales; docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de doscientos días multa.
+Artículo 184 BIS.- Tipo y punibilidad.- Comete el delito de Hostigamiento Sexual, el que con fines lascivos asedie reiteradamente a persona de cualquier sexo, se le impondrá una penalidad de seis meses a un año de prisión y multa de cincuenta a cien días.
 
 Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
 
 Solo se procederá contra el hostigador, a petición de la parte ofendida.
 
-Artículo 184 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2009)</small>
+
+Artículo 184 TER.- Agravación de la punibilidad.- Cuando el hostigamiento sexual se realice valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá una pena de uno a tres años de prisión y multa de cien días.
+
+Si la persona que comete el delito descrito en el párrafo anterior fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento, además se le sancionará con la destitución e inhabilitación por un tiempo igual al de la pena corporal impuesta.
+
+Si la persona ofendida fuere menor de catorce años, la pena será de dos a tres años de prisión y multa de cien días.
 
 ### CAPITULO I. DIFAMACION
 
@@ -4540,3 +4546,7 @@ P.O. 3 DE ABRIL DE 2009.
 P.O. 11 DE SEPTIEMBRE DE 2009.
 
 ÚNICO: La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
