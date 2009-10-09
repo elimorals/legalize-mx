@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-direccion-general-del-instituto-21579
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-04-13"
-last_updated: "2001-04-13"
+last_updated: "2009-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DEL INSTITUTO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA, PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de abril de 2001.
 
@@ -640,3 +642,19 @@ PRESIDENTE
 LIC. GRACIELA AMEZOLA CANSECO
 
 SECRETARIA FEDATARIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor en forma inmediata a su aprobación por el Pleno del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Dirección General del Instituto Estatal Electoral, aprobado en la Segunda Sesión Ordinaria del Consejo Estatal Electoral celebrada en la ciudad de Mexicali, Baja California, el día veintiocho de marzo del año dos mil uno.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente reglamento en el Periódico Oficial del Estado de Baja California.
