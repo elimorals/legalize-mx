@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2009-09-18"
+last_updated: "2009-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2009.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -515,15 +515,25 @@ El Instituto Electoral de Querétaro podrá convenir con el Instituto Federal El
 
 Los Consejeros del Instituto Electoral de Querétaro durarán en su encargo siete años, pudiendo ser reelectos por un periodo igual y sólo podrán ser removidos por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 33.
 
+El funcionamiento de la Comisión Estatal de Derechos Humanos y la Comisión Estatal de Información Gubernamental, se sujetará a lo siguiente:
+
+Apartado A
+
 La Comisión Estatal de Derechos Humanos, es el organismo público autónomo, mediante el cual el Estado garantizará el respeto a los derechos humanos; promoverá su defensa y proveerá las condiciones necesarias para el cabal ejercicio de los mismos.
 
-El Presidente de la Comisión Estatal de Derechos Humanos, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.(4)
+El Presidente de la Comisión Estatal de Derechos Humanos, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
-(4) En cumplimiento a la resolución de la Suprema Corte de Justicia de la Nación recaída en la acción de inconstitucionalidad 76/2008 y sus acumuladas 77/2008 y 78/2008, se modificó el artículo 33 de esta Constitución.
+Apartado B
+
+La Comisión Estatal de Información Gubernamental, es un organismo especializado e imparcial, con autonomía operativa, de gestión y de decisión, que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública, en los términos de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+
+La Comisión se integrará por cuatro comisionados electos por las dos terceras partes de los integrantes de la Legislatura del Estado.
+
+Los Comisionados durarán cuatro años en el ejercicio del cargo; podrán ser reelectos para un periodo inmediato siguiente y sólo podrán ser removidos por las causas graves que la ley señale y con la misma votación requerida que para su nombramiento.
 
 > <small>(ADICIONADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -531,7 +541,7 @@ El Presidente de la Comisión Estatal de Derechos Humanos, durará en su encargo
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 34.
+###### ARTÍCULO 34.
 
 El funcionamiento del Tribunal de lo Contencioso Administrativo y del Tribunal de Conciliación y Arbitraje del Estado, se sujetará a lo siguiente:
 
@@ -1230,3 +1240,9 @@ El actual Auditor Superior del Estado, cumplirá el periodo por el que fue elect
 P.O. 18 DE SEPTIEMBRE DE 2009.
 
 Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Deberán ajustarse a la presente Ley, todas las disposiciones secundarias que se le opongan.
