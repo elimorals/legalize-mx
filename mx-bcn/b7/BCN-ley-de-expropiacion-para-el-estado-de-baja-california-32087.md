@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-expropiacion-para-el-estado-de-baja-california-32087"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-13"
-last_updated: "2009-02-13"
+last_updated: "2009-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 13 de junio de 2003.
 
@@ -97,11 +97,13 @@ II.- La apertura, ampliación, prolongación y alineación de calles, la constru
 
 III.- La constitución de un derecho de vía y áreas necesarias para la construcción o introducción de infraestructura hidráulica, drenaje sanitario, pluviales, gas, electricidad, y cualquier otra red de servicio;
 
-IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2009)</small>
+
+IV.- La restauración o demolición total o parcial de bienes inmuebles en situación de abandono cuando estos generen un riesgo para la seguridad pública, bienes que serán utilizados en beneficio de la colectividad o interés público;
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
 
-V.- La construcción y ampliación de hospitales, dispensarios médicos, centros de recuperación de la salud, asilos, hospicios, guarderías, escuelas para cualquier grado o clase de enseñanza, plazas, parques, jardines, áreas deportivas, auditorios, centros para la difusión de la cultura, área natural protegida, estaciones de transporte, de seguridad pública, centros de readaptación social, panteones, rellenos sanitarios, campos de aterrizaje, edificios para oficina de gobierno, y cualquier obra destinada a prestar servicios de beneficio colectivo.
+V.- La construcción y ampliación de hospitales, dispensarios médicos, centros de recuperación de la salud, asilos, hospicios, guarderías, escuelas para cualquier grado o clase de enseñanza, plazas, parques, jardines, áreas deportivas, auditorios, centros para la difusión de la cultura, área natural protegida, estaciones de transporte, de seguridad pública, centros de readaptación social, panteones, rellenos sanitarios, campos de aterrizaje, edificios para oficina de gobierno, y cualquier obra destinada a prestar servicios de beneficio colectivo;
 
 VI.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
@@ -153,7 +155,7 @@ La Autoridad Expropiante podrá declarar de oficio o a petición de parte, la ut
 
 La declaración de utilidad pública tendrá como base las constancias del expediente técnico que previamente se hubiese integrado con los datos e informes que precisa la presente Ley, que serán aportados indistintamente por el Ejecutivo del Estado, Dependencia, Entidad, los Municipios, las organizaciones de ciudadanos o por el particular que hubiese solicitado la medida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### Artículo 9.
 
@@ -662,3 +664,9 @@ P.O. 13 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
