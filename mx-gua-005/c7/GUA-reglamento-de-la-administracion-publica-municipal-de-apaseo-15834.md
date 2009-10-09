@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-administracion-publica-municipal-de-apaseo-158
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-06-30"
-last_updated: "1992-06-30"
+last_updated: "2009-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE APASEO EL GRANDE, GUANAJUATO
 
-REGLAMENTO PARA LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE APASEO EL GRANDE, GUANAJUATO
+REGLAMENTO PARA LA ADMINISTRACION PUBLICA MUNICIPAL DE APASEO EL GRANDE, GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 30 de junio de 1992.
 
@@ -33,7 +33,7 @@ EL CIUDADANO INGENIERO MANUEL GERARDO BUENROSTRO MORALES, PRESIDENTE MUNICIPAL D
 
 QUE EL HONORABLE AYUNTAMIENTO QUE PRESIDO, EN EJERCICIO DE LAS FACULTADES QUE LE CONCEDEN LOS ARTICULOS 115 FRACCIONES I, II, Y III DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 106, 107, 108 Y 117 FRACCIONES I, II Y III DE LA CONSTITUCION PARTICULAR DEL ESTADO; 1, 4, 5, 6, 11, 16 FRACCION XVI, 17 FRACCION IX, 47, 48, 51, 76, 80 Y 84 DE LA LEY ORGANICA MUNICIPAL, EN SESION ORDINARIA CELEBRADA EL DIA 18 DEL MES DE MARZO DE MIL NOVECIENTOS NOVENTA Y DOS APROBO EL SIGUIENTE:
 
-REGLAMENTO PARA LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE APASEO EL GRANDE, GTO.
+REGLAMENTO PARA LA ADMINISTRACION PUBLICA MUNICIPAL DE APASEO EL GRANDE, GTO.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -101,7 +101,9 @@ III.- Oficialía Mayor.
 
 IV.- Dirección de Obras Públicas.
 
-V.- Dirección de Planeación y Desarrollo.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+V.- Dirección de Desarrollo Urbano.
 
 VI.- Dirección de Desarrollo Rural.
 
@@ -317,35 +319,83 @@ III.- Control de Maquinaria, Herramienta y Equipos.
 
 ### CAPITULO VII. DIRECCION DE PLANEACION Y DESARROLLO MUNICIPAL
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 24.
 
-Corresponde a la Dirección de Planeación y Desarrollo Municipal, el despacho de los siguientes asuntos:
+Corresponde a la Dirección de Desarrollo Urbano, el despacho de los siguientes asuntos:
 
-I.- Revisar y dictaminar en coordinación con las autoridades federales y estatales, y en su caso actualizar, previo acuerdo del Ayuntamiento, el Plan De Desarrollo Urbano para la ciudad, vigilando la aplicación del mismo en las obras públicas y privadas que se ejecuten en el Municipio.
+l. Disponer lo conducente para la elaboración de los planes, programas y presupuestos de la dependencia y autorizarlos con su firma;
 
-II.- Promover y vigilar el equilibrado desarrollo urbano de las comunidades del Municipio, mediante una adecuada planificación y zonificación de los mismos, con reservas territoriales generales de vivienda y ecológicas, de conformidad con las disposiciones jurídicas de la materia.
+II. Proponer al Presidente Municipal, a los titulares de las unidades administrativas y en general al personal de la dependencia atendiendo a la normatividad del municipio y al presupuesto correspondiente;
 
-III.- Otorgar permisos y licencias de construcción a los particulares, previa aprobación de edificación o modificación de los inmuebles por esta misma Dependencia, así como la verificación del derecho que se tiene sobre los mismos.
+III. Coordinar la operación de la dependencia, dictar las disposiciones necesarias para la organización de las tareas, fijar criterios de desempeño y calidad, y evaluar el cumplimiento de los objetivos de la dependencia;
 
-IV.- Inspeccionar las obras en construcción para solicitar los permisos correspondientes y de contar con ellos, supervisar que las mismas se realicen en los términos de la autorización respectiva.
+IV. Poner en conocimiento del Órgano de Control Interno del Municipio, las irregularidades encontradas a fin de que se realicen los procedimientos administrativos correspondientes;
 
-V.- Llevar el control de la nomenclatura y numeración oficial del Municipio.
+V. Cumplir y hacer cumplir las disposiciones que se le confieren en materia de asentamientos humanos, en el Reglamento de Construcciones para el municipio de Apaseo el Grande, Gto. la Ley de Fraccionamientos, la Ley de Desarrollo Urbano para el Estado de Guanajuato, y en los demás reglamentos, acuerdos y disposiciones inherentes a su competencia;
 
-VI.- Cuidar de que sean observadas y aplicadas las disposiciones legales en materia de construcción, desarrollo urbano, fraccionamientos y cualquier otra relativa de asentamientos humanos dentro del Municipio.
+VI. Dictar las medidas necesarias para que toda obra de construcción, urbanización y anuncios tanto pública como privada, en terrenos ejidales, zonas federales, estatales o en la vía pública, cumpla con las disposiciones establecidas en el Reglamento de Construcciones para el Municipio de Apaseo el Grande, Gto., y el Reglamento de Anuncios para el Municipio de Apaseo el Grande, Gto;
 
-VII.- Mantener al día la información legislativa en materia ecológica, debiendo dar acceso a dicha información a la ciudadanía en general.
+VII. Conceder de acuerdo a la normatividad competente el Número Oficial, Constancia de Alineamiento, Licencia de Factibilidad de Uso de Suelo, Permisos de Construcción, Edificación y Colocación de anuncios siempre y cuando se de cumplimiento a las disposiciones establecidas en lo~ Planes de Ordenamiento Territorial y en la demás normatividad competente;
 
-VIII.- Presentar informes mensuales de trabajo al Presidente Municipal.
+VIII. Negar las solicitudes de asignación de Número Oficial, Constancia de Alineamiento, Licencia de Factibilidad de Uso de Suelo y permisos de construcción, edificación y colocación de anuncios cuando no se cumpla con la normatividad competente;
 
-IX.- Las demás que le señalen otras disposiciones legales.
+IX. Notificar a la Unidad Municipal de Protección Civil sobre los inmuebles que causen molestias y riesgos para la población y dictar disposiciones en el ámbito de su competencia;
+
+X. Llevar el registro de Directores Responsables de Obras y de especialistas para la elaboración de estudios urbanísticos y ambientales;
+
+XI. Inspeccionar las obras en construcción para solicitar los permisos correspondientes y de contar con ellos, supervisar que las mismas se realicen en términos de la autorización respectiva;
+
+XII. Extender la Autorización de Uso y Ocupación cuando La Unidad Municipal de Protección Civil otorgue el Dictamen Positivo de Seguridad y siempre y cuando la obra o el inmueble se haya construido de conformidad con las licencias y permisos otorgados por la Dirección de Desarrollo Urbano;
+
+XIII. Negar el uso y ocupación de una obra o inmueble cuando la Unidad Municipal de Protección Civil no otorgue el Dictamen Positivo de Seguridad y/o cunado (sic) la obra o inmueble se haya construido de manera distinta a las licencias y permisos otorgados por la Dirección de Desarrollo Urbano;
+
+XIV. Vigilar que las construcciones, remodelaciones y modificaciones que se realicen en inmuebles catalogados por INHA, Centro Histórico y zonas típicas se realicen de conformidad con las políticas y normas de conservación e Imagen Urbana señaladas en la legislación competente;
+
+XV. Verificar .que las acciones, inversiones, obras y servicios de desarrollo urbano que se ejecuten en el territorio municipal, se ajusten a La Ley de Desarrollo Urbano a los Planes Municipales de Ordenamiento Territorial y a los Programas de Desarrollo Urbano;
+
+XVI. Llevar a cabo las acciones de control del desarrollo urbano que le confieran a la Dirección las Leyes, Reglamentos, acuerdos y disposiciones legales competentes;
+
+XVII. Evaluar anualmente en coordinación con el Instituto Municipal de Información y Planeación Estratégica de Apaseo el Grande, Gto. y o sus siglas IMIPE Apaseo el Grande, Gto., los programas de desarrollo urbano que se deriven del Plan de Ordenamiento Territorial del Municipio;
+
+XVIII. Imponer las sanciones, infracciones y medidas de seguridad cuando los usos de suelo las obras, edificios o instalaciones no den cumplimiento a la normatividad competente y en su caso cuando no cumplan con los ordenamientos, directrices y disposiciones jurídicas aplicables;
+
+XIX. Autorizar las licencias, planos y demás documentos que correspondan a fraccionamientos conforme a las leyes y reglamentos competentes;
+
+XX. Vigilar que los Fraccionamientos cuenten con las Licencias correspondientes y Supervisar' que la obra civil en los fraccionamientos cumpla con las especificaciones y normas técnicas autorizadas por la dependencia competente y el Ayuntamiento;
+
+XXI. Vigilar que los desarrolladores presenten las garantías que exige la ley y en su caso, realizar las acciones necesarias para hacerlas efectivas;
+
+XXII. Levantar actas circunstanciadas en la que se describan las irregularidades detectadas en las visitas de inspección;
+
+XXIII. Coordinar las actividades para la regularización de asentamientos humanos;
+
+XXIV. Participar en programas de regularización en la tenencia de la tierra;
+
+XXV. Operar un sistema de coordinación de inspección para el Control del Desarrollo Urbano;
+
+XXVI. Ejecutar las resoluciones que impliquen infracciones y/o sanciones que competen a la Dirección;
+
+XXVII. Expedir citatorios y realizar notificaciones. Y
+
+XXVIII. Las de mas que le asigne el H. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 25.
 
-Para el mejor desempeño de sus funciones, la Dirección de Planeación y Desarrollo Municipal, contará con los siguientes departamentos:
+Para el mejor desempeño de sus funciones, la Dirección de Desarrollo Urbano, contará con los siguientes departamentos:
 
-I.- De Licencias y Permisos.
+I.- De licencias y Permisos
 
-II.- De Estudios y Proyectos.
+II. De Fraccionamientos
+
+III. De Asentamientos Humanos
+
+IV. De Proyectos Urbanísticos
+
+V. De Inspección
 
 ### CAPITULO VIII. DIRECCION DE DESARROLLO RURAL
 
@@ -472,3 +522,9 @@ Ing. Manuel Gerardo Buenrostro Morales
 Secretario del H. Ayuntamiento
 
 Lic. José Oliveros Oliveros
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
