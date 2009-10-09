@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2009-06-26"
+last_updated: "2009-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1082,25 +1082,47 @@ Las leyes garantizarán la gratuidad de la información pública bajo el princip
 
 XXXIV. Revisar, por conducto de su entidad de fiscalización superior denominada Auditoria Superior del Estado, en los términos previstos en la ley, las cuentas públicas de los Poderes del Estado, municipios y de los organismos públicos autónomos y de las demás entidades que se encuentren bajo su ámbito de influencia y cuya gestión presupuestal y programática no esté incorporada en su cuenta pública.
 
-La revisión de las cuentas públicas tendrá por objeto conocer los resultados de la gestión financiera respectiva y comprobar si se han ajustado a la ley de ingresos o presupuesto de ingresos, según corresponda y a su presupuesto de egresos y el cumplimiento de los objetivos contenidos en los programas. Serán principios rectores de la fiscalización superior la posterioridad, anualidad, legalidad, imparcialidad, confiabilidad, integridad, transparencia, oportunidad, congruencia, inmediatez, suficiencia financiera, independencia y objetividad.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+La revisión de las cuentas públicas tendrá por objeto conocer los resultados de la gestión financiera respectiva y comprobar si se han ajustado a la ley de ingresos o presupuesto de ingresos, según corresponda y a su presupuesto de egresos y el cumplimiento de los objetivos contenidos en los programas. Serán principios rectores de la fiscalización superior la posterioridad, anualidad, legalidad, definitividad, imparcialidad, confiabilidad, integridad, transparencia, oportunidad, congruencia, inmediatez, suficiencia financiera, independencia y objetividad.
 
 La Auditoría Superior del Estado es un órgano con autonomía técnica y de gestión, con personalidad jurídica y patrimonio propio. Dicha autonomía le permitirá el ejercicio de sus atribuciones y la decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
 Tendrá a su cargo:
 
-a) Fiscalizar en forma posterior los ingresos y egresos; la recaudación administración, manejo, custodia y aplicación de los fondos y recursos públicos, estatales o municipales de los órganos y dependencias de los Poderes y municipios, organismos públicos autónomos, entidades paraestatales, paramunicipales y, en general, de cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la gestión de recursos públicos estatales o municipales, a través de los informes que se rendirán en los términos que disponga la ley.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-Sin perjuicio de los informes a que se refiere el primer párrafo de este inciso, en las situaciones excepcionales que determine la ley, podrá realizar directamente revisiones de conceptos específicos o requerir a las entidades que procedan, la revisión de los conceptos que estime pertinentes, a fin de que le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de las responsabilidades que correspondan.
+a) Fiscalizar en forma posterior los ingresos y egresos; la recaudación, administración, manejo, custodia y aplicación de los fondos federales y recursos públicos, federales, estatales o municipales de los órganos y dependencias de los Poderes y municipios, organismos públicos autónomos, entidades paraestatales, paramunicipales, los transferidos a mandatos, fondos, fideicomisos públicos o privados o cualquier otra figura jurídica análoga y, en general, de cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la gestión de recursos públicos federales, estatales o municipales; así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas, a través de la cuenta pública y los informes que se rendirán en los términos que disponga la ley.
 
-b) Entregar el informe del resultado de la revisión de las cuentas públicas al Congreso Local a más tardar el 31 de octubre del año en que éstas debieron presentarse. Dicho informe contendrá al menos, los dictámenes de su revisión, el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de ingresos o presupuesto de ingresos de la entidad, según corresponda, y al presupuesto de egresos, el análisis de las desviaciones presupuestarias en su caso, y los comentarios de los auditados, mismo que tendrá carácter público.
+Sin perjuicio del principio de anualidad, la Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
+
+Así mismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, podrá realizar directamente revisiones de conceptos específicos o requerir a las entidades que procedan a la revisión de los conceptos que estime pertinentes, durante el ejercicio en curso, a fin de que le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, dará lugar al fincamiento de las responsabilidades que correspondan. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado, a través de la Comisión de Hacienda y Cuenta Pública y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+b) Entregar el informe del resultado de la revisión de las cuentas públicas al Congreso Local a más tardar el 30 de noviembre del año en que éstas debieron presentarse. Dicho informe contendrá al menos, los dictámenes de su revisión, el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de ingresos o presupuesto de ingresos de la entidad, según corresponda, y al presupuesto de egresos, el análisis de las desviaciones presupuestarias en su caso, y los comentarios de los auditados, mismo que tendrá carácter público.
 
 La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones, hasta que rinda el informe a que se refiere este inciso; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
-c) Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, recaudación, administración, manejo, custodia y aplicación de fondos y recursos federales, estatales o municipales y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-d) Determinar los daños y perjuicios que afecten a la hacienda pública de las entidades y fincar directamente a los responsables las indemnizaciones y sanciones correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de esta Constitución y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
+El titular de la Auditoría Superior del Estado enviará a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que sea entregado al Congreso del Estado el informe del resultado, las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo anterior, no aplicará a los pliegos de observaciones y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
 
-El Auditor Superior del Estado será designado por las dos terceras partes de los legisladores presentes del Pleno del Congreso Local en los términos de las disposiciones aplicables; en caso de no obtenerse esta mayoría calificada habrá una segunda votación, y si en esta tampoco se logra la mayoría calificada, su designación se hará por simple mayoría de los presentes; será inamovible y su remoción sólo podrá realizarse por las causas graves y mediante el procedimiento previsto en la ley; durará en su encargo ocho años y podrá ser ratificado para un segundo período.
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+La Auditoría Superior del Estado deberá pronunciarse en un plazo no mayor de 60 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+c) Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, recaudación, administración, manejo, custodia y aplicación de fondos y recursos federales, estatales o municipales y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos.
+
+Los Poderes del Estado, municipios, organismos públicos autónomos y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, los servidores públicos así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato, fondo o cualquier otra figura jurídica análoga, que reciban y ejerzan recursos públicos federales, estatales o municipales, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+d) Emitir la Declaratoria de Daños y Perjuicios que afecten a la hacienda pública de las entidades y determinar directamente a los responsables las sanciones resarcitorias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo esta Constitución y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
+
+El Auditor Superior del Estado será designado por el voto de las dos terceras partes de los diputados presentes del Pleno del Congreso Local; será inamovible y su remoción sólo podrá realizarse por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución; durará en su encargo ocho años y podrá ser ratificado para un segundo período.
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
@@ -2476,7 +2498,7 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 (REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
-### CAPITULO III.
+### CAPITULO III
 
 De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
 
@@ -2800,7 +2822,7 @@ Estos principios están vinculados directamente con los valores, principios y ba
 
 De las Responsabilidades de los Servidores Públicos Estatales y Municipales.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 158-F.
 
@@ -3278,7 +3300,7 @@ Derechos Sociales y Prevenciones Generales.
 
 ###### Artículo 159.
 
-Para los efectos de las responsabilidades a que alude este Título, se considerarán servidores públicos, los representantes de elección popular, los miembros del Poder Judicial y de la Fiscalía General, los funcionarios y empleados del Estado, y de los Municipios, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal y en las entidades paraestatales o paramunicipales.
+Para los efectos de las responsabilidades a que alude este Título, se considerarán servidores públicos, los representantes de elección popular, los miembros del Poder Judicial y de la Fiscalía General, los funcionarios y empleados del Estado, y de los Municipios, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal yen las entidades paraestatales y paramunicipales, así como a los servidores públicos de los organismos a los que esta Constitución otorga autonomía, quienes serán responsables por los actos y omisiones en que incurran en el desempeño de sus funciones.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3310,11 +3332,11 @@ Las leyes penales, por su parte, sancionarán el enriquecimiento ilícito, con e
 
 Todo ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refieren los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 163.
 
-Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el Gobernador del Estado; los Secretarios del ramo los subsecretarios; el Fiscal General del Estado, los fiscales especializados; los directores generales o su equivalente en las entidades y los directores de las dependencias del Poder Ejecutivo y de la Fiscalía General del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como los titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
+Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el Auditor Superior del Estado; el Gobernador del Estado; los Secretarios del ramo; los subsecretarios; el Fiscal General del Estado, los fiscales especializados; los directores generales o su equivalente en las entidades y los directores de las dependencias del Poder Ejecutivo y de la Fiscalía General del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como los titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
 
 (REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
@@ -3330,19 +3352,19 @@ Para la aplicación de dichas sanciones, el Congreso del Estado conocerá de las
 
 Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 165.
 
-Para proceder penalmente contra el Gobernador del Estado; los diputados del Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los secretarios del ramo; el Fiscal General del Estado y los fiscales especializados; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los consejos municipales; y así como los titulares e integrantes de los consejos o asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
+Para proceder penalmente contra el Gobernador del Estado; los diputados del Congreso del Estado; el Auditor Superior del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los secretarios del ramo; el Fiscal General del Estado y los fiscales especializados; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los consejos municipales; y así como los titulares e integrantes de los consejos o asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
 
 (REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
 Si la resolución del Congreso del Estado fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluído el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del Gobernador del Estado, de los Diputados al Congreso del Estado, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje, del Fiscal General del Estado y los Fiscales Especializados y los titulares e integrantes de los consejos de los organismos públicos autónomos, cualquiera que sea su denominación, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cuál fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
+Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del Gobernador del Estado, de los Diputados al Congreso del Estado, del Auditor Superior del Estado, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje, del Fiscal General del Estado y los Fiscales Especializados y los titulares e integrantes de los consejos de los organismos públicos autónomos, cualquiera que sea su denominación, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cuál fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
 
 (REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
@@ -3420,11 +3442,15 @@ La comunidad participará de la plusvalía que generen las acciones urbanística
 
 Toda persona tiene derecho a un trabajo digno y socialmente útil. El Estado, promoverá la creación de empleos y dentro del ámbito de sus atribuciones vigilará por la estricta aplicación y observancia de las normas de trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIME PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 171.
 
-Los recursos económicos de que dispongan el Estado, los Municipios, los organismos públicos autónomos y las entidades paraestatales y paramunicipales, se administrarán con eficiencia y honradez, para satisfacer los objetivos a que estén destinados.
+Los recursos económicos de que dispongan el Estado, los Municipios, los organismos públicos autónomos y las entidades paraestatales y paramunicipales, se administrarán con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a que estén destinados.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezca el Estado, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en los artículos 67 fracción XXXIV y 158P fracción III.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4513,3 +4539,9 @@ P.O. 26 DE JUNIO DE 2009.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
