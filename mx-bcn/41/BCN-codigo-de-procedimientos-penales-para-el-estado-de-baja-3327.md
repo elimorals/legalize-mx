@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-08-28"
+last_updated: "2009-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1147,27 +1147,37 @@ IV.- Las condiciones económicas del inculpado; y
 
 V.- El tipo de caución que se ofrezca.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 127.
 
-Incidente de reducción de la caución.- A petición del inculpado o su defensor, el monto fijado para garantizar la buena conducta procesal, se reducirá siguiendo el incidente no especificado, en la proporción que el juez considere justa y asequible, atendiendo a cualquiera de las siguientes circunstancias:
+A petición del inculpado o su defensor, el juez resolverá de plano, la reducción del monto fijado para garantizar la buena conducta procesal en la proporción que considere justa y asequible, atendiendo a cualquiera de las siguientes circunstancias:
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 I.- El tiempo que el procesado lleve privado de su libertad;
 
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 II.- La disminución acreditada de las consecuencias o efectos del delito;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 III.- La imposibilidad económica demostrada para otorgar la caución impuesta;
 
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 IV.- El buen comportamiento observado en el centro de reclusión, de acuerdo con el informe que rinda la autoridad respectiva; y
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 V.- Otras que hagan suponer, racionalmente, que el inculpado no intentará sustraerse a la acción de la justicia.
 
-> <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1994)</small>
+(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994) (F. DE E., P.O. 23 DE SEPTIEMBRE DE 1994)
 
 Si se acredita que el inculpado simuló su insolvencia para obtener la reducción, o que posteriormente recuperó su capacidad económica, será requerido para cubrir el monto de la garantía original y, de no hacerlo en el plazo que el juez le señale, le será revocada la libertad provisional.
 
-> <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1994)</small>
+(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994) (F. DE E., P.O. 23 DE SEPTIEMBRE DE 1994)
 
 Sólo cuando la disminución de las consecuencias o efectos del delito insida (sic) en la reparación del daño, podrá reducirse el monto de la caución impuesta por este concepto, atendiendo exclusivamente a este factor objetivo.
 
@@ -3746,3 +3756,7 @@ P.O. 28 DE AGOSTO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
