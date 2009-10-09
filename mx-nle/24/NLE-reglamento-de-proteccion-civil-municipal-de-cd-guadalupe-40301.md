@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-municipal-de-cd-guadalupe-40301"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-26"
-last_updated: "2009-08-05"
+last_updated: "2009-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE CD. GUADALUPE, N.L
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de julio de 2004.
 
@@ -663,9 +663,11 @@ III.- SIMULACROS: Las Unidades Internas de Respuesta Inmediata deberán realizar
 
 Los establecimientos a que se refiere este Ordenamiento, tienen la obligación de contar permanentemente con un programa específico de Protección Civil, y un plan de contingencias, el cual deberá estar autorizado y supervisado por la Dirección de Protección Civil Municipal.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 45.
 
-En los establecimientos deberán colocarse, en sitios visibles, equipos de seguridad, señalamientos y normas de seguridad en lugares visibles.
+En los establecimientos deberán colocarse, en sitios visibles, equipos de seguridad, señalamientos preventivos y normas de seguridad. Además deberán contar con un botiquín de primeros auxilios con los artículos indicados por las autoridades de Salud Pública para la prevención y control de virus e infecciones contagiosas, así como información visible de las recomendaciones del sector salud para contenerlas y evitar su propagación.
 
 ###### ARTÍCULO 46.
 
@@ -682,6 +684,8 @@ Para los efectos del artículo anterior, los patrones, propietarios ó titulares
 ###### ARTÍCULO 49.
 
 Cuando los efectos de los riesgos, altos riesgos, emergencias ó desastres, rebasen la capacidad de respuesta de las Unidades Internas, sus titulares sin perjuicio de que cualquier otra persona pueda hacerlo, solicitarán de inmediato la asistencia de la Dirección de Protección Civil Municipal.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO V. REGULACIONES DE SEGURIDAD Y PREVENCIÓN PARA CENTROS DE POBLACIÓN
 
@@ -749,7 +753,9 @@ Los microempresarios o propietarios de negocios de menos de cinco personas emple
 
 I.- Contar con un directorio de emergencia;
 
-II.- Contar con un botiquín de primeros auxilios;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+II.- Contar con un botiquín de primeros auxilios, así como con los artículos indicados por las autoridades de Salud Pública para la prevención y control de virus e infecciones contagiosas, así como información visible de las recomendaciones del sector salud para contenerlas y evitar su propagación;
 
 III.- Contar con dos ó más extintores; de acuerdo a la normatividad vigente;
 
@@ -1128,3 +1134,17 @@ PRIMERO.- Estas modificaciones al Reglamento de Protección Civil Municipal de C
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan ala (sic) contenido de las presentes modificaciones.
 
 TERCERO.- Se remita el presente al C. Síndico Segundo Encargado del Despacho de la Presidencia Municipal, a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento para que se sirva enviar el Acuerdo para su debida publicación en el Periódico Oficial del Estado, así como en la Gaceta Municipal.
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma por adición y modificación al REGLAMENTO DE PROTECCIÓN CIVIL MUNICIPAL DE CD. GUADALUPE, N.L., entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan el contenido de la presente adiciones (sic) y modificación.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al encargado del despacho de la Presidencia Municipal, a fin de que instruya al C. Secretario del Ayuntamiento, para que mande publicar las Adiciones del presente Reglamento en el Periódico Oficial del Estado de Nuevo León, así como en la Gaceta Municipal.
