@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2008-07-25"
+last_updated: "2009-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -183,21 +183,25 @@ XII.- Fomentar y encausar (sic) el desarrollo y la aplicación del avance cient�
 
 XIII.- Fomentar actitudes solidarias y positivas para alcanzar el bienestar general, mediante el trabajo y el ahorro.
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XIV.- Inculcar en el educando, una cultura de cumplimiento a la obligación constitucional de contribuir al gasto público, como medio para satisfacer las necesidades de la comunidad y alcanzar el bienestar general; asimismo a ejercer el derecho para exigir de la autoridad, su adecuada aplicación.
+XIV.- Fomentar la cultura de la transparencia y rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XV.- Fomentar la cultura de la prevención del delito, con el objeto de concientizar de los efectos nocivos y las influencias negativas externas que provocan en la sociedad; y (sic)
+XV.- Inculcar en el educando, una cultura de cumplimiento a la obligación constitucional de contribuir al gasto público, como medio para satisfacer las necesidades de la comunidad y alcanzar el bienestar general; asimismo a ejercer el derecho para exigir de la autoridad, su adecuada aplicación.
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XVI.- Favorecer el desarrollo de las facultades humanas para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica.
+XVI.- Fomentar la cultura de la prevención del delito, con el objeto de concientizar de los efectos nocivos y las influencias negativas externas que provocan en la sociedad.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XVII.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+XVII.- Favorecer el desarrollo de las facultades humanas para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2009)</small>
+
+XVIII.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -1148,3 +1152,7 @@ P.O. 16 DE MAYO DE 2008.
 P.O. 25 DE JULIO DE 2008.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
