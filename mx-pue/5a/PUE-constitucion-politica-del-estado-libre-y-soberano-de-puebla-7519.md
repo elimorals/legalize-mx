@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2009-06-03"
+last_updated: "2009-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -219,11 +219,11 @@ Nadie podrá sustraerse de propia autoridad a la observancia de los preceptos le
 
 Los casos de exención de sanciones, en favor de quienes ignoren las leyes, se establecerán por éstas, únicamente cuando sean de orden privado y se trate de individuos que notoriamente carezcan de instrucción y sean de escasas posibilidades económicas.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 11.
 
-Las leyes poblanas no harán ninguna distinción entre las personas, por razón de su raza, origen étnico o nacional, género, edad, capacidades diferentes, condición social o económica, condiciones de salud, preferencias, filiación, instrucción, creencia religiosa o ideología política.
+Las leyes poblanas no harán ninguna distinción entre las personas, por razón de su raza, origen étnico o nacional, género, edad, discapacidades, condición social o económica, condiciones de salud, preferencias, filiación, instrucción, creencia religiosa o ideología política.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -503,6 +503,8 @@ IV.- Cumplir con todos los programas públicos de salud y escolares obligatorios
 
 V.- Gestionar ante las instituciones el tratamiento, la educación y el cuidado especial que requiera en su caso, la hija o el hijo con discapacidad, procurando su incorporación e inclusión a la sociedad.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+
 ## TITULO SEGUNDO. DEL PODER PUBLICO
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
@@ -707,13 +709,25 @@ El Congreso tendrá cada año tres períodos de Sesiones, en la forma siguiente:
 
 I.- El Primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de Ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
 
-(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-II.- El segundo comenzará el primero de junio, terminará el treinta y uno de julio, en el que además de conocer de los asuntos mencionados en la fracción anterior, examinará, revisará y calificará la Cuenta de la Hacienda Pública del Estado del año inmediato anterior, que será presentada por el Titular del Ejecutivo antes del inicio de este periodo.
+En el año de conclusión de la administración constitucional del Ejecutivo del Estado, la Legislatura en funciones sesionará de manera Ordinaria del primer día hábil del mes de enero al catorce del mismo mes y año.
 
-En el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado, examinará, revisará y calificará la cuenta pública parcial correspondiente a los meses de octubre a diciembre que deberá ser presentada por el Titular del Poder Ejecutivo, dentro de los treinta y un días del mes de enero.
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-En los casos previstos en los dos párrafos anteriores, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+En el supuesto a que se refiere el párrafo anterior, el Titular del Ejecutivo presentará ante el Congreso del Estado dentro de los cuatro primeros días del mes de enero, la Cuenta Pública Parcial correspondiente al periodo de noviembre a diciembre del año anterior, la cual se examinará, revisará, calificará y en su caso, aprobará en dicho periodo de sesiones, conforme a los principios que rigen la función de Fiscalización Superior.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+Tratándose de la Cuenta Pública Parcial del mes de enero del año de conclusión de la administración Constitucional del Ejecutivo Estatal, su Titular la presentará ante el Congreso del Estado dentro de los primeros diez días del mes de febrero, la cual se examinará, revisará, calificará y en su caso, aprobará en el mismo periodo de sesiones.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+II.- El segundo comenzará el primero de junio y terminará el treinta y uno de julio, en el que además de conocer de los asuntos mencionados en el párrafo primero de la fracción anterior, se examinará, revisará, calificará y en su caso, aprobará la Cuenta de la Hacienda Pública del Estado del año inmediato anterior, que será presentada por el Titular del Ejecutivo ante el Congreso del Estado antes del inicio de este periodo.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+En los casos previstos en los párrafos tercero y cuarto de la fracción I y primero de la fracción II, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
 (REFORMADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
@@ -725,7 +739,9 @@ Una vez que sea aprobada la Ley de Ingresos del Estado, el Congreso examinará, 
 
 Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del Estado y la Ley de Egresos, o únicamente esta última, o las Leyes de Ingresos de cada Municipio, seguirán vigentes las leyes correspondientes al ejercicio anterior, mismas que serán aplicables provisionalmente, hasta en tanto el Congreso emita las aprobaciones respectivas, sin que para éstas medie receso de éste. El Congreso, hasta en tanto no sea aprobada la Ley de Egresos del Estado, en la legislación secundaria, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado.
 
-Asimismo deberá incluir en la agenda legislativa, en el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado, el examen, revisión y calificación de la cuenta pública parcial correspondiente a los meses de enero a septiembre, que deberá ser presentada por el Titular del Poder Ejecutivo, dentro de los treinta y un días del mes de octubre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+Asimismo deberá incluir en la agenda legislativa, en el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado, el examen, revisión, calificación y en su caso, aprobación de la Cuenta Pública Parcial correspondiente a los meses de enero a octubre, que deberá ser presentada por el Titular del Poder Ejecutivo, dentro de los primeros quince días del mes de noviembre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -739,17 +755,19 @@ El Congreso se reunirá en sesiones extraordinarias cada vez que fuere convocado
 
 Todas las sesiones serán públicas, excepto cuando se trate de asuntos que exijan reserva y cuando así lo determine el Ordenamiento que rija el funcionamiento interno del Congreso.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 53.
 
-El Gobernador asistirá a la apertura del primer período de sesiones ordinarias de cada año y presentará un informe por escrito, respecto a la administración pública. Dicho informe será contestado por el Presidente del Congreso.
+El Gobernador asistirá a la apertura del primer Periodo de Sesiones Ordinarias de cada año y presentará un informe por escrito en el que manifieste el estado general que guarda la administración pública estatal del ejercicio anterior. Dicho informe será contestado por el Presidente del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+En el año de conclusión de la administración constitucional del Ejecutivo del Estado, el informe a que se refiere el párrafo anterior, podrá ser presentado por el Gobernador dentro de los primeros quince días del mes de enero del mismo año.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 54.
 
-Cuando el Gobernador no pudiere concurrir a la apertura del primer período de sesiones ordinarias, su informe será leído por el Secretario del Despacho que designe el propio Ejecutivo.
+Cuando el Gobernador no pudiere concurrir a la apertura del primer Periodo de Sesiones Ordinarias, su informe será presentado por el Secretario del Despacho que designe el propio Ejecutivo.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -793,17 +811,17 @@ VIII.- Establecer las bases para que el Estado y los Municipios, así como los o
 
 El Congreso del Estado autorizará a los Ayuntamientos, cuando proceda, afectar en garantía sus participaciones.
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-IX.- Supervisar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, al Órgano de Fiscalización Superior del Estado y expedir la ley que regule su organización y atribuciones;
+IX.- Supervisar, coordinar y evaluar al Órgano de Fiscalización Superior del Estado, sin perjuicio de la autonomía que le confiere el artículo 113 de esta Constitución, y expedir la Ley que regule su organización, funcionamiento y atribuciones;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
 X.- Nombrar y remover a los servidores públicos que por ley le correspondan; así como al Titular del Órgano de Fiscalización Superior del Estado, de acuerdo a lo previsto en esta Constitución;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XI.- Dictaminar las cuentas públicas de los Poderes del Estado, de los Ayuntamientos y demás sujetos de revisión, con el apoyo del Órgano de Fiscalización Superior del Estado;
+XI.- Dictaminar las Cuentas Públicas de los Poderes del Estado, de los Ayuntamientos y demás sujetos de revisión, con el apoyo del Órgano de Fiscalización Superior del Estado con base en el Informe del Resultado de la revisión que éste le remita en cualquiera de los periodos de sesiones a que se refiere esta Constitución;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
@@ -815,9 +833,9 @@ XIII.- Erigirse en Gran Jurado para declarar si ha lugar o no a formación de ca
 
 XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia y del Tribunal Contencioso Administrativo, a propuesta en terna del Ejecutivo y a los del Tribunal Electoral del Estado, en los términos señalados en la legislación vigente.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XV.- Conocer y resolver sobre las renuncias y licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Contencioso Administrativo y del Tribunal Electoral del Estado;
+XV.- Conocer y resolver sobre las renuncias; así como de las licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Contencioso Administrativo, de los del Tribunal Electoral del Estado, del Auditor General del Órgano de Fiscalización Superior del Estado y demás que conforme a Ley deba conocer;
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
@@ -873,9 +891,9 @@ En los casos de los puntos 1 y 2 de esta fracción, el Congreso nombrará un Con
 
 XXII.- Solicitar al Instituto Electoral del Estado, por el voto de las dos terceras partes de sus miembros, que someta a plebiscito, en los términos que disponga la ley correspondiente, las propuestas de decisiones o actos del Ejecutivo del Estado considerados como trascendentales para el orden público o el interés social de la Entidad;
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XXIII.- Recibir la protesta Constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Consejeros Electorales y al Consejero Presidente del Consejo General del Instituto Electoral del Estado, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral del Estado, a los suplentes de éstos y a todos los demás empleados de su nombramiento, que conforme a las leyes no deban otorgarla ante otra autoridad;
+XXIII.- Recibir la protesta Constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Consejeros Electorales y al Consejero Presidente del Consejo General del Instituto Electoral del Estado, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral del Estado, a los suplentes de éstos, así como al Auditor General del Órgano de Fiscalización Superior del Estado, y a todos los demás que conforme a las Leyes no deban otorgar protesta ante otra autoridad;
 
 XXIV.- Expedir y modificar la ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
 
@@ -885,9 +903,9 @@ XXVI.- Crear o suprimir, a propuesta del Ejecutivo organismos descentralizados, 
 
 XXVII.- Expedir leyes para hacer efectivas las anteriores facultades y todas las concedidas a los otros Poderes por la Constitución Federal y por esta Constitución del Estado, así como las que correspondan al régimen interior del Estado y no estén expresamente reservadas a los Poderes de la Unión.
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como revisar y fiscalizar sus cuentas públicas.
+XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como las zonas catastrales y las tablas de valores unitarios de suelo y construcción, que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria de los Municipios;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE FEBRERO DE 2002)</small>
 
@@ -931,13 +949,13 @@ Son atribuciones de la Comisión Permanente:
 
 I.- Acordar por sí o a propuesta del Ejecutivo, oyéndolo en el primer caso, la convocatoria de la Legislatura a sesiones extraordinarias. La convocatoria señalará el objeto de las sesiones y la fecha en que deban comenzar.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-II.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Estado, de los Consejeros Electorales y del Consejero Presidente del Consejo General del Instituto Electoral del Estado;
+II.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Estado, de los Consejeros Electorales, del Consejero Presidente del Consejo General del Instituto Electoral del Estado, del Auditor General del Órgano de Fiscalización Superior del Estado y demás que conforme a Ley deba conocer el Congreso.
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran y a los servidores públicos de la Legislatura y del Órgano de Fiscalización Superior del Estado; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, y a los Magistrados del Tribunal Electoral del Estado;
+III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran, al Auditor General del Órgano de Fiscalización Superior del Estado y a los servidores públicos de la Legislatura; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral del Estado, del Auditor General del Órgano de Fiscalización Superior del Estado y demás que conforme a Ley corresponda al Congreso.
 
 IV.- Nombrar Gobernador provisional, cuando falte absolutamente el Gobernador de elección popular dentro de los cuatro últimos años del período, si la falta acaeciere durante un receso del Congreso, y convocar a éste para elegir Gobernador sustituto.
 
@@ -1693,7 +1711,7 @@ V.- La forma de Constituir los Ayuntamientos cuando los Regidores electos no con
 
 ## TITULO OCTAVO. DE LA ADMINISTRACION EN GENERAL
 
-(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
+(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
 ### CAPITULO I. DE LA PLANEACION Y LAS COMPRAS DEL SECTOR PUBLICO
 
@@ -1709,13 +1727,21 @@ Será responsabilidad del Ejecutivo, la elaboración del Plan Estatal de Desarro
 
 La participación de los particulares y del sector social será considerada en todas las acciones a realizar para la elaboración y ejecución de los planes y programas de desarrollo.
 
-(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 20 DE FEBRERO DE 2002)
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+
+El Plan Estatal de Desarrollo considerará los principios del desarrollo sustentable, a través de la prevención, preservación y restauración del equilibrio ecológico y la protección al ambiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 108.
 
-Los recursos económicos de que dispongan el Estado, los Municipios y sus entidades, así como los organismos autónomos, se administrarán con eficiencia, eficacia y honradez, para satisfacer los objetivos a que estén destinados.
+Los recursos económicos de que dispongan el Estado, los Municipios y sus entidades, así como los organismos autónomos, se administrarán con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a que estén destinados.
+
+(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 20 DE FEBRERO DE 2002)
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo, por regla general, a través de licitaciones públicas mediante convocatoria abierta, para que libremente se presenten proposiciones solventes en pliego o sobre cerrado, que será abierto públicamente, con el fin de procurar imparcialidad a los licitantes y asegurar al Estado y a los Municipios las mejores condiciones disponibles en cuanto a oferta, precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 20 DE FEBRERO DE 2002)
 
 Las leyes limitarán los supuestos de excepción a las licitaciones públicas, establecerán las bases, procedimientos, reglas, requisitos y demás elementos idóneos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y los Municipios, y determinarán la responsabilidad de los servidores públicos que intervengan en cualquier acto de adjudicación y contratación.
 
@@ -1747,39 +1773,63 @@ Las participaciones que corresponden al Estado y a los Municipios en ingresos Fe
 
 La Hacienda Pública ejercerá la facultad económicocoactiva, en los términos que establezca la ley, para hacer efectivos los créditos a su favor.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 113.
 
-El Órgano de Fiscalización Superior del Estado, es la unidad de fiscalización, control y evaluación, dependiente del Congreso del Estado, que cuenta con autonomía técnica y de gestión; encargada de revisar sin excepción, la cuenta de las haciendas públicas; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, a través de la cuenta pública estatal, de los Ayuntamientos y demás sujetos de revisión, así como verificar el cumplimiento de los objetivos contenidos en los planes y programas establecidos, en los términos de las leyes respectivas.
+El Órgano de Fiscalización Superior del Estado, es la unidad de fiscalización, control y evaluación, dependiente del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan las leyes respectivas, el cual contará con las atribuciones siguientes:
 
-El Órgano de Fiscalización Superior, establecerá y difundirá las normas, procedimientos, métodos y sistemas contables y de auditoría para la revisión de las cuentas públicas, así como formular recomendaciones, que sobre el particular procedan, a los sujetos de revisión.
+I.- Fiscalizar en forma posterior, los ingresos y egresos, control, administración, manejo, custodia y aplicación de fondos, bienes y recursos de los Poderes del Estado, Ayuntamientos, organismos autónomos, entidades paraestatales y paramunicipales, organismos públicos desconcentrados, fideicomisos en los que el fideicomitente sea cualquiera de los Poderes del Estado o Ayuntamientos y en general, cualquier persona física o jurídica, pública o privada, mandato, fondo y demás que por cualquier razón recauden, manejen, ejerzan, resguarden o custodien recursos, fondos, bienes o valores públicos estatales, municipales o federales, tanto en el país como en el extranjero;
 
-En el cumplimiento de sus funciones, tendrá atribuciones para investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, control, administración y aplicación de fondos y recursos federales, de los Poderes del Estado, de los Ayuntamientos y demás organismos autónomos del Estado y sujetos de revisión establecidos en la legislación aplicable; así como para imponer medidas de apremio a quienes incumplan sus requerimientos y con ello obstaculicen su función, al igual que para determinar los daños y perjuicios que afecten a la hacienda pública estatal o municipal o al patrimonio de las entidades descentralizadas y el de los organismos autónomos del Estado y sujetos de revisión, quedando facultado, en términos de la legislación aplicable, para promover en su caso, ante las autoridades competentes, el fincamiento de las responsabilidades que se deriven, para lo cual podrá formular denuncias, querellas o hacer las promociones que las leyes determinen.
+II.- Ejercer la función de fiscalización conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
 
-Además efectuará visitas domiciliarias, únicamente para exigir la exhibición de los documentos indispensables para la realización de sus investigaciones.
+Sin perjuicio del principio de anualidad, el Órgano de Fiscalización Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejercicio y pago, diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas estatales, municipales o federales. Las observaciones y recomendaciones que, respectivamente, emita el Órgano de Fiscalización Superior del Estado, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-La ley respectiva establecerá las disposiciones para garantizar suficientemente su autonomía técnica y de gestión.
+Sin perjuicio del principio de posterioridad, el Órgano de Fiscalización Superior del Estado, podrá realizar revisiones preventivas;
 
-El Titular del Órgano de Fiscalización Superior del Estado, será nombrado por las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna que se derive de la convocatoria que emita para tal efecto la Gran Comisión; determinándose en la ley respectiva su remoción. Durará en su encargo seis años y podrá ser nombrado nuevamente para un período más, por una sola vez.
+III.- Llevar a cabo visitas domiciliarias, auditorías y compulsas, en las que podrá requerir la exhibición de los documentos que resulten indispensables para el ejercicio de sus funciones de fiscalización e investigación;
+
+IV.- Establecer y difundir normas, procedimientos, métodos y sistemas técnicos, informáticos, contables, de evaluación del desempeño y de auditoría para la fiscalización de las Cuentas Públicas; así como formular observaciones y recomendaciones que sobre el particular procedan, a los sujetos de revisión;
+
+V.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, control, administración, manejo, custodia y aplicación de fondos, bienes y recursos estatales, municipales y federales, de los Poderes del Estado, de los Ayuntamientos, de los organismos autónomos del Estado y demás sujetos de revisión establecidos en la legislación aplicable;
+
+VI.- Realizar auditorías sobre el desempeño para verificar el cumplimiento de los objetivos contenidos en los planes y programas, presentados a través de los informes que rindan en los términos que disponga la Ley;
+
+VII.- Determinar los daños y perjuicios por la afectación a las haciendas públicas estatal, municipal o federal, o al patrimonio de las entidades paraestatales, paramunicipales, de los organismos autónomos del Estado y demás sujetos de revisión;
+
+VIII.- Emitir resoluciones, imponer sanciones, medidas de apremio, fincar directamente a los responsables las indemnizaciones y promover en su caso, ante las autoridades competentes, el fincamiento de otras responsabilidades, en términos de la legislación aplicable;
+
+IX.- Promover las acciones de responsabilidad a que se refiere el Título Noveno de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley; y
+
+X.- Las demás que deriven de esta Constitución, su Ley y otras disposiciones legales aplicables en la materia.
+
+El Titular del Órgano de Fiscalización Superior del Estado, será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna que se derive de la convocatoria que emita para tal efecto la Gran Comisión, debiendo contar los aspirantes con experiencia de al menos cinco años en materia de control, auditoría financiera y de responsabilidades.
+
+El Titular de este Órgano durará en su encargo siete años y podrá ser removido, exclusivamente, por las causas graves que la Ley señale, con la misma votación requerida para su nombramiento, o por las causas y procedimientos previstos en el Título Noveno de esta Constitución.
 
 La ley respectiva determinará los requisitos que debe cumplir el Titular del Órgano de Fiscalización Superior. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión; salvo las no remunerables docentes, artísticas, de beneficencia y en asociaciones científicas.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 114.
 
-La revisión de la cuenta pública tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ha ajustado a los criterios señalados en el presupuesto aprobado, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de los objetivos contenidos en los planes, programas y subprogramas. El Órgano de Fiscalización Superior tiene la obligación de entregar al Congreso del Estado, el informe del resultado de la revisión de la cuenta pública a más tardar durante la segunda quincena del mes de junio del año siguiente al de su ejercicio. Si de la revisión que se realice aparecieren diferencias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, habrá lugar a determinar la responsabilidad de acuerdo con la ley.
+La revisión de las Cuentas Públicas tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ajustaron a los criterios señalados en los presupuestos, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de los objetivos contenidos en los planes, programas y subprogramas.
 
-El Órgano de Fiscalización Superior, también informará al Pleno del Congreso, a través de la Comisión Inspectora, de las cuentas que se encuentren pendientes o en proceso de revisión, explicando la razón por la que no se han concluido.
+El Órgano de Fiscalización Superior entregará al Congreso del Estado por conducto de la Comisión respectiva, el Informe del Resultado de la revisión de las Cuentas Públicas en cualquiera de los periodos de sesiones a que se refiere esta Constitución. Si de la revisión que se realice aparecieren diferencias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, habrá lugar a determinar la responsabilidad de acuerdo con la Ley.
 
-El incumplimiento de este precepto será causa de responsabilidad de los servidores públicos del Órgano de Fiscalización Superior del Estado o de la Comisión Inspectora de la propia Entidad.
+El Órgano de Fiscalización Superior, también informará al Pleno del Congreso, a través de la Comisión respectiva, de las Cuentas que se encuentren pendientes o en proceso de revisión, explicando la razón por la que no se han concluido.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
+El incumplimiento de este precepto será causa de responsabilidad de los servidores públicos del Órgano de Fiscalización Superior del Estado o de la Comisión respectiva del Poder Legislativo del Estado.
+
+Las sanciones y demás resoluciones del Órgano de Fiscalización Superior del Estado podrán ser impugnadas por los sujetos de revisión y, en su caso, por los servidores públicos afectados adscritos a las mismas ante el propio Órgano de Fiscalización, en términos de las disposiciones legales aplicables.
+
+Los Poderes del Estado, los Ayuntamientos y demás sujetos de revisión, deberán proporcionar la información y documentación que solicite el Órgano de Fiscalización Superior del Estado de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados directamente por el Órgano de Fiscalización Superior del Estado en los términos que establezcan su propia Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 115.
 
-El Órgano de Fiscalización Superior del Estado, expedirá, en la forma que señale la ley respectiva, el finiquito de las cuentas que revise. Este organismo deberá rendir oportunamente, por conducto de la Comisión Inspectora, los informes que le sean solicitados por el Congreso del Estado.
+El Órgano de Fiscalización Superior del Estado, deberá rendir oportunamente, por conducto de la comisión respectiva, los informes que le sean solicitados por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
 
@@ -1825,15 +1875,17 @@ Cuando la Universidad o Institución de Educación Superior no goce de Autonomí
 
 El ejercicio de las profesiones se sujetará a lo que disponga la Ley Reglamentaria del artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, que rija en la Entidad.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-### CAPITULO V. HIGIENE Y SALUBRIDAD PUBLICAS
+### CAPITULO V. DE LA PROTECCION AL AMBIENTE Y DE LA HIGIENE Y SALUBRIDAD PUBLICAS
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 121.
 
-Es deber del Estado vigilar por la observancia de las reglas de la higiene pública y de la ecología, para conservar un medio ambiente sano y favorable a sus habitantes, así como combatir las epidemias que se desarrollen dentro de su territorio. Al efecto se dictarán las leyes y disposiciones necesarias.
+El Ejecutivo del Estado y los Municipios promoverán, en sus respectivas competencias, mejorar la calidad de vida y la productividad de las personas, a través de la preservación del equilibrio ecológico y protección del ambiente, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras. Al efecto se dictarán las leyes y disposiciones necesarias.
+
+Asimismo, es deber del Estado vigilar por la observancia de las reglas de la higiene pública, conservar un ambiente sano y favorable a sus habitantes, así como combatir las epidemias que se desarrollen dentro de su territorio.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2119,7 +2171,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -2469,6 +2521,42 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
+P.O. 9 DE OCTUBRE DE 2009.
+
+DECLARATORIA DEL DECRETO POR EL QUE SE REFORMA EL ARTICULO 11 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+DECLARATORIA DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONA LOS ARTICULOS 107, 121 Y LA DENOMINACION DEL CAPITULO V DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2009.
+
+DECLARATORIA DEL DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+###### ARTÍCULO PRIMERO.
+
+La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
 ###### ARTÍCULO CUARTO.
 
-El Órgano de Fiscalización Superior del Estado continuará la revisión de las cuentas públicas, que se encuentren pendientes, incluyendo la del año 2000. En tanto no se apruebe la Ley del Órgano de Fiscalización Superior del Estado, seguirá aplicándose la normatividad de la Contaduría Mayor de Hacienda.
+Para efectos del penúltimo párrafo del Artículo 113 de la Constitución Política del Estado Libre y Soberano de Puebla a que se refiere este Decreto, por única ocasión, se ratifica en su cargo al Actual Auditor General del Órgano de Fiscalización Superior del Estado, cuyo periodo de duración de siete años en el cargo, comenzará a partir del día de la entrada en vigor del presente.
