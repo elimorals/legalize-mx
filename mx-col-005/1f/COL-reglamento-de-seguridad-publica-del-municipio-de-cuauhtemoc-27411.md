@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-seguridad-publica-del-municipio-de-cuauhtemoc-274
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-12-21"
-last_updated: "2008-06-14"
+last_updated: "2009-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE DE CUAUHTEMOC, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 21 de diciembre de 2002.
 
@@ -37,7 +37,7 @@ REGLAMENTO DE SEGURIDAD PÚBLICA
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
-###### ARTICULO 1.
+###### ARTICULO 1°.
 
 El presente ordenamiento se fundamenta en el artículo 115 fracción II de la Constitución Política Federal y 87 fracción II y III de la Constitución Política del Estado de Colima, y tiene por objeto regular la seguridad pública en el Municipio de Cuauhtémoc de dicho Municipio (sic).
 
@@ -47,7 +47,7 @@ El presente Reglamento es de observancia general y obligatoria para las autorida
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
 
-###### ARTICULO 3.
+###### ARTICULO 3°.
 
 Se entiende por Seguridad Pública la función que se encuentra a cargo del Estado, entendido como Federación, Estados y Municipios, que tiene como fin salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz pública.
 
@@ -183,11 +183,11 @@ IV. Contar con la condición física que el eficaz desempeño de sus responsabil
 
 V. Contar, cuando menos, con instrucción escolar secundaria;
 
-VI. Acreditar buena conducta y honorabilidad mediante documentos emanados de personas o instituciones de evidente solvencia moral y de preferencia haber sido egresado de la Academia de Policía; y (sic)
+VI. Acreditar buena conducta y honorabilidad mediante documentos emanados de personas o instituciones de evidente solvencia moral y de preferencia haber sido egresado de la Academia de Policía; y
 
-VII. No contar con antecedentes penales;
+VII. No contar con antecedentes penales.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2008)</small>
 
 VIII. Acreditar los exámenes Psicométrico, Psicológico y Físico que se realicen para su reclutamiento los que se realicen como seguimiento del comportamiento del cuerpo policiaco.
 
@@ -453,7 +453,7 @@ Se entiende por lugar público todo espacio de uso común y libre tránsito, inc
 
 Las sanciones administrativas serán aplicables sin perjuicio de las responsabilidades civiles o penales en que, con motivo de los mismos hechos de que se trate, hayan incurrido los infractores.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 41.
 
@@ -465,7 +465,7 @@ flamables y explosivos, sin la
 
 licencia expedida por la
 
-autoridad competente. 8 a 15 U.S.M 10 horas
+autoridad competente. 8 a 15 U.S.M . 10 horas
 
 II. Utilizar bocinas o
 
@@ -485,7 +485,7 @@ deberá recabarse el permiso
 
 respectivo, expedido por el
 
-H. Ayuntamiento. 10 a 20 U.S.M 10 horas
+H. Ayuntamiento. 10 a 20 U.S.M. 10 horas
 
 III. Proferir o ejecutar palabras
 
@@ -499,7 +499,7 @@ públicos o centros de
 
 espectáculos de la misma
 
-naturaleza. 5 a 10 U.S.M 10 horas
+naturaleza. 5 a 10 U.S.M . 10 horas
 
 IV. Tirar o colocar en la vía
 
@@ -511,7 +511,7 @@ cualquier acto u omisión que
 
 conlleve al desaseo de las
 
-localidades del Municipio. 5 a 10 U.S.M 10 horas
+localidades del Municipio. 5 a 10 U.S.M . 10 horas
 
 V. Vender mercancías en zonas
 
@@ -529,7 +529,7 @@ VI. Ingerir bebidas embriagantes
 
 en la vía o lugares públicos
 
-no autorizados. 5 a 10 U.S.M 12 horas
+no autorizados. 5 a 10 U.S.M . 12 horas
 
 VII. Transitar con animales o
 
@@ -537,13 +537,13 @@ vehículos de tracción humana
 
 o de motor, sobre las banquetas
 
-y jardines públicos. 10 a 20 U.S.M 24 horas
+y jardines públicos. 10 a 20 U.S.M. 24 horas
 
 VIII. Establecer zahúrdas o
 
 establos dentro de la zona
 
-urbana. 5 a 10 U.S.M 12 horas
+urbana. 5 a 10 U.S.M . 12 horas
 
 IX. Colocar mercancías,
 
@@ -553,15 +553,9 @@ pública que obstaculicen el
 
 libre transito sin contar con
 
-la autorización respectiva. 10 a 15 U.S.M 13 horas
+la autorización respectiva. 10 a 15 U.S.M. 13 horas
 
-X. Hacer resistencia a un
-
-mandato de los Agentes de
-
-Seguridad Pública y
-
-Funcionarios Municipales. 10 a 20 U.S.M 36 horas
+X. (DEROGADA, P.O. 10 DE OCTUBRE DE 2009)
 
 XI. Usar las áreas y vías
 
@@ -569,7 +563,7 @@ públicas sin contar con la
 
 autorización que se requiera
 
-para ello. 20 a 30 U.S.M 36 horas
+para ello. 20 a 30 U.S.M. 36 horas
 
 XII. Solicitar con falsas
 
@@ -579,7 +573,7 @@ policía, bomberos, de
 
 establecimientos médicos
 
-o de asistencia pública. 20 a 40 U.S.M 36 horas
+o de asistencia pública. 20 a 40 U.S.M. 36 horas
 
 XIII. Permitir a menores
 
@@ -587,31 +581,31 @@ de edad el acceso a lugares
 
 en los que expresamente
 
-está prohibido su ingreso.
+está prohibido su ingreso. 10 a 30 U.S.M. 36 horas
 
 XIV. Provocar disturbios que
 
 alteren la tranquilidad de las
 
-personas. 10 a 20 U.S.M 36 horas
+personas. 10 a 20 U.S.M. 36 horas
 
 XV. Hacer sus necesidades
 
 fisiológicas en la vía pública
 
-o lugares públicos. 5 a 10 U.S.M 10 horas
+o lugares públicos. 5 a 10 U.S.M . 10 horas
 
 XVI. Entorpecer las funciones
 
 de los elementos de Seguridad
 
-Pública. 20 a 30 U.S.M 16 horas
+Pública. 20 a 30 U.S.M. 16 horas
 
 XVII. Molestar y/o Insultar a la
 
 autoridad Municipal y sociedad
 
-en general. 10 a 30 U.S.M 36 horas
+en general. 10 a 30 U.S.M. 36 horas
 
 XVIII. Agredir físicamente a
 
@@ -619,7 +613,7 @@ los elementos de Seguridad
 
 Pública, Funcionarios o
 
-empleados Municipales. 25 a 30 U.S.M 13 horas
+empleados Municipales. 25 a 30 U.S.M. 13 horas
 
 XIX. Realizar reventa de
 
@@ -627,13 +621,13 @@ boletos para espectáculos
 
 públicos, con precios
 
-superiores a los autorizados. 10 a 100 U.S.M 36 horas
+superiores a los autorizados. 10 a 100 U.S.M. 36 horas
 
 XX. Causar ruidos y sonidos
 
 excesivos que afecten la
 
-tranquilidad de los vecinos. 5 a 10 U.S.M 6 horas
+tranquilidad de los vecinos. 5 a 10 U.S.M . 6 horas
 
 XXI. Azuzar perros o animales
 
@@ -641,27 +635,21 @@ con la intención de causar
 
 daños o molestias a las
 
-personas o bienes. 5 a 20 U.S.M 12 horas
+personas o bienes. 5 a 20 U.S.M . 12 horas
 
 La persona que reincida en una falta, no tendrá derecho a conmutar la pena por servicio comunitario.
 
-El servicio comunitario podrá prestarse únicamente a instituciones públicas.
+El servicio comunitario podrá prestarse únicamente a instituciones públicas o al propio Municipio.
 
 Las penas asignadas por cada falta cometida podrán ser conmutadas por 5 horas de servicio comunitario los días sábado y domingo inmediatos a la falta.
 
 En caso de incumplimiento a las horas de servicio será aplicada la multa correspondiente a la falta cometida.
 
-Condonación de 50%, si se paga antes de 15 días.
-
-Hacer referencia de infracciones que se pueden cometer en virtud de otros Reglamentos.
-
-Arresto máximo de 72 horas, según el Ordenamiento en cuestión, la Constitución señala como máximo 36 horas, la sanción económica será no menor de a una unidad de salario mínimo vigente en la zona económica de Estado de Colima y no excederá de 25 salarios.
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 42.
 
-Las personas que cometan cualesquiera de las infracciones antes mencionadas, se pondrán inmediatamente a disposición de la Dirección de Seguridad Pública y Vialidad Municipal bajo la supervisión del Secretario del H. Ayuntamiento, quien estará facultado para imponer las sanciones que correspondan, de acuerdo con la gravedad de la infracción y en los términos del Bando de Policía y Buen Gobierno y Reglamentos respectivos.
+Las personas que cometan una de las infracciones antes mencionadas, se pondrán inmediatamente a disposición de la Dirección de Seguridad Pública y Vialidad Municipal bajo la supervisión del Secretario del H. Ayuntamiento o el Director Jurídico del H. Ayuntamiento, quien estará facultado para imponer las sanciones que correspondan, de acuerdo con la gravedad de la infracción y en los términos del presente reglamento.
 
 (REPUBLICADO, P.O. 14 DE JUNIO DE 2008)
 
@@ -669,11 +657,11 @@ Las personas que cometan cualesquiera de las infracciones antes mencionadas, se 
 
 Las infracciones cometidas por los descendientes, contra sus ascendientes o por un cónyuge contra otro, solo podrán sancionarse a petición expresa del ofendido, a menos que la falta se cometa con escándalo público.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 44.
 
-Tratándose de infracciones al Bando de Policía y Buen Gobierno y demás Reglamentos, la Policía Preventiva deberá limitarse a conducir al infractor ante la Dirección de Seguridad Pública y Vialidad para que se proceda a tomar conocimiento del hecho, calificarlo y en su caso, imponer la sanción que corresponda de acuerdo a lo establecido por el Bando de Policía y Buen Gobierno.
+Tratándose de infracciones a otros reglamentos, deberá limitarse a conducir al infractor ante la Dirección de Seguridad Pública y Vialidad para que se proceda a tomar conocimiento del hecho, calificarlo y en su caso, imponer la sanción que corresponda de acuerdo al presente Reglamento.
 
 ### CAPÍTULO IX. DE LA COORDINACIÓN EN MATERIA DE SEGURIDAD PÚBLICA
 
@@ -728,5 +716,9 @@ P.O. 22 DE MARZO DE 2003.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
 
 P.O. 14 DE JUNIO DE 2008.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+
+P.O. 10 DE OCTUBRE DE 2009.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
