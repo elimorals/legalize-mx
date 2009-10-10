@@ -4,7 +4,7 @@ identifier: "COL-reglamento-municipal-de-proteccion-civil-del-municipio-de-25188
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2003-03-22"
+last_updated: "2009-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DEL MUNICIPIO DE CUAUHTEMOC
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de mayo de 2002.
 
@@ -33,9 +33,11 @@ REGLAMENTO MUNICIPAL DE PROTECCION CIVIL
 
 ### CAPITULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones emanadas del presente ordenamiento, son reglamentarias del bando de Policía y Buen Gobierno del Municipio de Cuauhtémoc.
+Las disposiciones emanadas del presente ordenamiento, son complementarias del Reglamento General de la Administración Pública Municipal de Cuauhtémoc, Colima.
 
 ###### ARTICULO 2.
 
@@ -59,13 +61,21 @@ VI. Unidad: La Unidad Municipal de Protección Civil.
 
 VII. Comité: Cada uno de los Comités de Protección Civil que se formen en cada comunidad.
 
-VIII. Brig. Vecinales: Las organizaciones de vecinos que se integran a las acciones de protección civil.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-IX. Grupo Voluntario: Las organizaciones, asociaciones o instituciones que prestan sus servicios en actividades de Protección civil sin recibir remuneración alguna.
+VIII. Brigadas Comunitarias: Las organizaciones de vecinos que se integran a las acciones de protección civil.
 
-X. Insp. Honorario: El ciudadano que, sin tener funciones administrativas ni remuneración alguna, coadyuva con las autoridades para vigilar el cumplimiento del Presente reglamento.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-XI. Programa Gral.: El Programa Municipal de Protección Civil.
+IX. Grupo Voluntario: Las organizaciones, asociaciones o instituciones debidamente registradas y normadas que prestan sus servicios en actividades de Protección civil sin recibir remuneración alguna.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+X. Inspector Honorario: El ciudadano que, sin tener funciones administrativas ni remuneración alguna, coadyuva con las autoridades para vigilar el cumplimiento del Presente reglamento.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XI. Programa Municipal: El Programa Municipal de Protección Civil.
 
 XII. Protección Civil: Acción solidaria y participativa de los diversos sectores que integran la sociedad, que junto con las autoridades municipales y bajo la dirección de las mismas, buscan la protección, seguridad y salvaguarda de amplios núcleos de población, ante la ocurrencia de un desastre.
 
@@ -83,7 +93,9 @@ XVIII. Apoyo: Las diferentes acciones cuyo objetivo es coadyuvar en la elaboraci
 
 XIX. Restablecimiento: Las acciones encaminadas a la recuperación de la normalidad, después de que ha ocurrido un siniestro o desastre.
 
-XX. Reglamento: El presente ordenamiento.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XX. Reglamento: El Reglamento Municipal de Protección Civil.
 
 ###### ARTICULO 4.
 
@@ -95,7 +107,9 @@ II. Cooperar con las autoridades correspondientes para programar las acciones a 
 
 III. Colaborar con las autoridades para el debido cumplimiento del Programa Municipal de Protección Civil; y
 
-IV. Los administradores, gerentes, poseedores, arrendatarios o propietario de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una fluencia (sic) masiva y permanente de personas, están obligados a preparar un programa específico de protección civil, conforme a los dispositivos del programa municipal, contando para ello con la asesoría del Ayuntamiento.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+IV. Los administradores, gerentes, poseedores, arrendatarios o propietario de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia masiva y permanente de personas, están obligados a preparar un programa específico de protección civil, conforme a los dispositivos del programa municipal, contando para ello con la asesoría del Ayuntamiento.
 
 El Ayuntamiento determinará quienes de los sujetos señalados en el párrafo anterior, deberán cumplir con la preparación del programa específico.
 
@@ -121,11 +135,17 @@ Corresponde al Ejecutivo municipal, establecer, promover y coordinar las accione
 
 La Dirección Operativa de Protección Civil estará integrado (sic) por las siguientes estructuras:
 
-I. El Consejo Municipal de Protección Civil;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-II. La Unidad Municipal de Protección Civil;
+I. El Consejo;
 
-III. Los Comités de Protección Civil;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+II. La Unidad;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+III. Los Comités;
 
 IV. Los representantes de los sectores público, social y privado, los grupos voluntarios, instituciones educativas y expertos en diferentes áreas; y,
 
@@ -151,31 +171,43 @@ El Consejo Municipal de Protección Civil es el Órgano Consultivo de coordinaci
 
 El Consejo Municipal de Protección Civil estará integrado por:
 
-I. Un Presidente;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-II. Un Secretario Ejecutivo;
+I.- Un Presidente, el cual será la Presidencia o Presidente Municipal;
 
-III. Un Secretario Técnico;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-IV. Los Titulares y Representantes de las Dependencias y Entidades de la Administración Pública Municipal cuya área de competencia corresponda a los objetivos del (sic) La Dirección Operativa de Protección Civil;
+II.- Un Secretario Ejecutivo, siendo la Secretaria o Secretario del Ayuntamiento;
 
-V. Los Representantes de la administración pública federal y estatal que tiendan ramos relacionados con la ejecución de los programas de prevención, auxilio, apoyo y recuperación;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-VI. Los representantes de las Organizaciones Sociales y Privadas e Instituciones Académicas radicadas en el Municipio; y
+III.- Un Secretario Técnico, la o el titular de la Unidad Operativa de Protección civil;
 
-VII. Los representantes de los Grupos Voluntarios que se encuentren organizados dentro del Municipio, cuyo fin sea la realización de acciones relacionadas con la protección civil.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+IV.- Las o los Titulares y Representantes de las Dependencias y Entidades de la Administración Pública Municipal cuya área de competencia corresponda a los objetivos del Programa Municipal de Protección Civil;
+
+V.- Los Representantes de la administración pública federal y estatal que tiendan ramos relacionados con la ejecución de los programas de prevención, auxilio, apoyo y recuperación;
+
+VI.- Los representantes de las Organizaciones Sociales y Privadas e Instituciones Académicas radicadas en el Municipio; y
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VII.- Las o los representantes de los Grupos Voluntarios y asociaciones debidamente registradas que se encuentren organizados dentro del Municipio, cuyo fin sea la realización de acciones relacionadas con la protección civil.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 12.
 
-Será el Presidente Municipal quien presidirá dicho Consejo. El Secretario del Ayuntamiento y el Titular de la Dirección Operativa de Protección Civil, serán Secretarios Ejecutivo y Técnico respectivamente.
-
-El Consejo sesionará, previa convocatoria del Presidente del Consejo Municipal.
+El Consejo sesionará, previa convocatoria de la Presidenta o Presidente del Consejo Municipal.
 
 ###### ARTICULO 13.
 
 Son atribuciones del Consejo Municipal de Protección Civil, las siguientes:
 
-I. Fungir como órgano consultivo de planeación, coordinación y concertación del (sic) la Dirección Operativa de Protección Civil, a fin de orientar las políticas acciones y objetivos del Sistema.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+I. Fungir como órgano consultivo de planeación, coordinación y concertación de la Dirección Operativa de Protección Civil, a fin de orientar las políticas acciones y objetivos del Sistema.
 
 II. Apoyar a la Dirección para garantizar, mediante la adecuada planeación, la seguridad, auxilio y rehabilitación de la población civil y su entorno, ante la posible ocurrencia de un alto riesgo, siniestro o desastre.
 
@@ -257,9 +289,11 @@ VI. Los mecanismos para su control y evaluación.
 
 En el caso de que se identifiquen riesgos específicos que puedan afectar de manera grave a la población de una determinada localidad o región se elaborarán Programas Especiales de Protección Civil respectivos.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 19.
 
-Las Unidades Internas de Protección Civil de las dependencias de los sectores público y privado ubicadas en el Municipio, deberán elaborar los Programas Internos correspondientes.
+Las Unidades Internas de Protección Civil de las dependencias de los sectores público y privado ubicadas en el Municipio, deberán elaborar los Programas Internos correspondientes los cuales deberán ser supervisados y autorizados por la Dirección Operativa de Protección Civil Municipal, Estatal y Federal.
 
 ###### ARTICULO 20.
 
@@ -271,29 +305,39 @@ Los inmuebles que reciban una afluencia masiva de personas, deberán contar con 
 
 La Unidad Municipal de Protección Civil es responsable de elaborar, instrumentar, dirigir y operar la ejecución de los Programas en la materia, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social, privado y académico, con los grupos voluntarios y la población en general.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 22.
 
 La Unidad Municipal de Protección Civil estará integrada por:
 
-I. Un Titular de la Dirección Operativa.
+I.- Un Titular de la Dirección Operativa.
 
-II. Un Coordinador de Planeación.
+II.- Coordinador de la Oficina, de logística, normas y capacitaciones.
 
-III. Un Coordinador de Operación.
+III.- Dos Coordinadores de Atención de Emergencias.
 
-IV. El personal operativo que le asignen para su adecuado funcionamiento, de acuerdo con el presupuesto de egresos respectivo.
+IV.- El personal operativo que le asignen para su adecuado funcionamiento, de acuerdo con el presupuesto de egresos respectivo.
 
 ###### ARTICULO 23.
 
 Compete a la Dirección Operativa de Protección Civil Municipal:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE OCTUBRE DE 2009)</small>
+
 I. Identificar y diagnosticar los riesgos a los que está expuesto el territorio del municipio y elaborar el Atlas Municipal de Riesgos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE OCTUBRE DE 2009)</small>
 
 II. Elaborar, instrumentar, operar y coordinar el Programa Municipal de Protección Civil;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE OCTUBRE DE 2009)</small>
+
 III. Elaborar y operar Programas Especiales de Protección Civil y el Plan Municipal de Contingencias;
 
-IV. Promover ante el Ejecutivo Municipal la elaboración del reglamento respectivo, a fin de llevar a cabo la debida operación y ejecución de lo que en esta materia se dispone en el Bando de Policía y Buen Gobierno;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+IV. Promover ante el Ejecutivo Municipal la elaboración del reglamento respectivo, a fin de llevar a cabo la debida operación y ejecución de lo que en esta materia se dispone en el Reglamento de Seguridad Pública Municipal;
 
 V. Instrumentar un sistema de seguimiento y auto evaluación del Programa Municipal de Protección Civil e informar al Consejo Municipal sobre su funcionamiento y avances;
 
@@ -317,11 +361,15 @@ XIV. Promover la realización de cursos, ejercicios y simulacros en los Centros 
 
 XV. Fomentar la creación de una cultura de Protección Civil, a través de la realización de eventos y campañas de difusión y capacitación;
 
-XVI. Realizar inspecciones a empresas cuya actividad pudiere provocar algún desastre o riesgo, para efecto de constatar que cuente con las medidas de seguridad requeridas para su operación;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XVI. Realizar inspecciones a empresas, Comercios e instalaciones en general donde se preste algún servicio cuya actividad pudiere provocar algún desastre o riesgo, para efecto de constatar que cuente con las medidas de seguridad requeridas para su operación;
 
 XVII. Informar oportunamente a la población sobre la probable existencia de una situación de alto riesgo, siniestro o desastre, a efecto de tomar las medidas de protección civil adecuadas;
 
-XVIII. Capacitar e instruir a los Comités vecinales;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XVIII. Capacitar e instruir a los Brigadistas Comunitarios;
 
 XIX. Integrar el inventario de recursos humanos y materiales existentes y disponibles para el caso de alto riesgo, siniestro o desastre;
 
@@ -375,7 +423,11 @@ II. Cooperar con la difusión de los Programas Municipales y en las actividades 
 
 III. Participar en los Programas de capacitación a la población;
 
-V (SIC). Realizar actividades de monitoreo, pronóstico y aviso a la Dirección Operativa de Protección Civil de la presencia de cualquier situación de probable riesgo o inminente peligro para la población, así como la ocurrencia de cualquier calamidad;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE OCTUBRE DE 2009)</small>
+
+IV. Su administración y funcionamiento, así como el manejo de los recursos materiales los cuales serán responsabilidad de sus integrantes;
+
+V. Realizar actividades de monitoreo, pronóstico y aviso a la Dirección Operativa de Protección Civil de la presencia de cualquier situación de probable riesgo o inminente peligro para la población, así como la ocurrencia de cualquier calamidad;
 
 VI. Participar en todas aquellas actividades que le correspondan dentro de los Subprogramas de prevención, auxilio y recuperación establecidos por el Programa Municipal de Protección Civil;
 
@@ -460,6 +512,10 @@ Cuando la gravedad del desastre así lo requiera, el Presidente municipal solici
 ###### ARTICULO 39.
 
 El Ayuntamiento tendrá amplias facultades de inspección y vigilancia para prevenir o controlar la posibilidad de desastres, así como de aplicar las sanciones que proceden por violación al presente ordenamiento, sin perjuicio de las facultades que se confieren a otras dependencias de la administración pública federal y estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2009)</small>
+
+Será requisito indispensable para realizar cualquier actividad, educativa, comercial, industrial, artesanal, oficios, talleres, etc., tener un dictamen o recomendación de riesgos de protección civil municipal, en base a lo establecido en el reglamento de desarrollo urbano y seguridad estructural del municipio de Cuauhtémoc en su capítulo II.
 
 ###### ARTICULO 40.
 
@@ -563,10 +619,16 @@ Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de C
 
 Lic. Cesar Ceballos Gómez.- Presidente Municipal.- Rúbrica.- C. Pedro Martínez Rivera.- Síndico.- Rúbrica.- Tec. Teresa Santa Ana Blake.- Regidora.- Rúbrica.- Profra. Ma. de Jesús Fajardo López.- Regidora.- Rúbrica.- Licda. Sandra Y. Ramírez Santillán.- Regidora.- Rúbrica.- C. Alfonso Michel Aguirre.- Regidor.- Rúbrica.- C. Carlos Yáñez Ibarra.- Regidor.- Rúbrica.- C. Luis E. Martínez Ceballos.- Regidor.- Rúbrica.- Dr. Ismael Estrada Ruíz.- Regidor.- Rúbrica.- Lic. Esteban González Rodríguez.- Secretario.- Rúbrica.
 
-ARTICULO SEGUNDO (SIC).- Quedarán derogadas las disposiciones legales de igual o menor jerarquía que se opongan al presente ordenamiento.
+###### ARTICULO SEGUNDO.
+
+Quedarán derogadas las disposiciones legales de igual o menor jerarquía que se opongan al presente ordenamiento.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 22 DE MARZO DE 2003.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+
+P.O. 10 DE OCTUBRE DE 2009.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
