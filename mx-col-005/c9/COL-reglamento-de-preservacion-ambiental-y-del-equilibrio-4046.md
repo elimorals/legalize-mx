@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-preservacion-ambiental-y-del-equilibrio-4046"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-01-07"
-last_updated: "1995-01-07"
+last_updated: "2009-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE PRESERVACION AMBIENTAL Y DEL EQUILIBRIO ECOLOGICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 7 de enero de 1995.
 
@@ -53,19 +53,27 @@ Las disposiciones del presente Reglamento son de observancia obligatoria en el t
 
 l.- Ley General de Equilibrio Ecológico y Protección al ambiente.
 
-II.- Ley de Preservación Ambiental del Estado de Colima.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-III.- Ley Federal de Aguas.
+II.- Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+III.- Ley de Aguas Nacionales.
 
 IV.- Ley de Reforma Agraria.
 
-V.- Ley de Desarrollo Urbano del Estado de Colima.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+V.- Ley de Desarrollo Rural Sustentable.
 
 VI.- Ley de Planeación del Estado de Colima.
 
 VII.- Ley Estatal de Salud.
 
-VIII.- Ley Orgánica del Municipio Libre.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VIII.- Ley del Municipio Libre del Estado de Colima.
 
 IX.- Ley de Vialidad y Transporte del Estado de Colima.
 
@@ -79,11 +87,17 @@ XII.- Ley de Asentamientos Humanos del Estado de Colima.
 
 Se considera de utilidad Pública.
 
+(REPUBLICADA, P.O. 10 DE OCTUBRE DE 2009)
+
 l.- El ordenamiento ecológico del territorio Municipal, en los casos previstos por este Reglamento y demás normas aplicables.
 
-II.- El establecimientos (sic) de parques urbanos, zonas sujetas a conservación y restauración del equilibrio ecológico que promueva mediante declaratoria el Ayuntamiento de Cuauhtémoc.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-III.- El establecimientos (sic) de zonas intermedias de salvaguarda con motivo de la presencia de actividades consideradas como riesgosas para los ecosistemas o el ambiente del Municipio.
+II.- El establecimiento de parques urbanos, zonas sujetas a conservación y restauración Del equilibrio ecológico que promueva mediante declaratoria el Ayuntamiento de Cuauhtémoc.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+III.- El establecimiento de zonas intermedias de salvaguarda con motivo de la presencia de actividades consideradas como riesgosas para los ecosistemas o el ambiente del Municipio.
 
 IV.- El establecimientos (sic) de zona de protección en siembras de caña en actividades de quema.
 
@@ -95,19 +109,27 @@ VII.- El cuidado de los sitios necesarios para asegurar el mantenimiento e incre
 
 VIII.- Los demás casos previstos por la Legislación aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 5.
 
-Para los efectos de este Reglamento se extiende (sic) por:
+Para los efectos de este Reglamento se entiende por:
 
 I. Actividad Riesgosa: La que puede generar efectos contaminantes en los ecosistemas o dañar la salud y no son consideradas por la Federación como altamente riesgosas.
 
-II. Aguas Residuales: Aguas provenientes de actividades domésticas industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana, y que por el uso recibido se le hayan incorporado contaminantes, en detrimento de su calidad original.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+II. Aguas Residuales: Aguas provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana, y que por el uso recibido se le hayan incorporado contaminantes, en detrimento de su calidad original.
 
 III.- Ambiente: El conjunto de elementos naturales o inducidos por el hombre que interactúan en espacio y tiempo determinados.
 
-IV.- Areas naturales protegidas: Las zonas del territorio municipal en que los ambientes originales no han sido significativamente alteradas por la actividad del hombre, y que han quedado sujetas al régimen de protección.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-V.- Areas naturales protegidas de jurisdicción local: Zonas sujetas al régimen de protección estatal o municipal, a fin de preservar ambientes naturales, salvaguardar la diversidad genética de las especies silvestres; lograr el aprovechamiento racional de los recursos naturales y mejorar la calidad del ambiente en los centros de población y sus alrededores.
+IV.- Áreas naturales protegidas: Las zonas del territorio municipal en que los ambientes originales no han sido significativamente alteradas por la actividad del hombre, y que han quedado sujetas al régimen de protección.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+V.- Áreas naturales protegidas de jurisdicción local: Zonas sujetas al régimen de protección estatal o municipal, a fin de preservar ambientes naturales; salvaguardar la diversidad genética de las especies silvestres; lograr el aprovechamiento racional de los recursos naturales y mejorar la calidad del ambiente en los centros de población y sus alrededores.
 
 VI.- Desarrollo sustentable: El aprovechamiento racional en la utilización y explotación de los elementos naturales, en forma tal que resulte eficiente, socialmente útil y procure su preservación, la del ambiente y en general de los ecosistemas.
 
@@ -129,7 +151,11 @@ XIV.- Ecosistemas: La unidad funcional básica de interacción de los organismos
 
 XV.- Equilibrio Ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos.
 
+(REPUBLICADA, P.O. 10 DE OCTUBRE DE 2009)
+
 XVI.- Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del hombre.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 XVII.- Flora: Todo tipo de plantas en la Jurisdicción del Municipio de Cuauhtémoc, Col.
 
@@ -145,13 +171,17 @@ XXII.- Residuo: Cualquier material generado en los procesos de extracción, bene
 
 XXIII.- Residuos peligrosos: Todos aquellos residuos en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables, biológicas, infecciosas o irritantes, que presenten un peligro para el equilibrio ecológico o el ambiente-
 
-XXIV.- Residuos sólido de origen municipal: Los residuos no peligrosos que se generan en casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados comercios, demoliciones, construcciones, instituciones, establecimientos comerciales y de servicio, en general, todos aquéllos generados en las actividades de los centros de población.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XXIV.- Residuos sólido de origen municipal: Los residuos no peligrosos que se generan en casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados, comercios, demoliciones, construcciones, instituciones, establecimientos comerciales y de servicio, en general, todos aquéllos generados en las actividades de los centros de población.
 
 XXV.- Basura: Sinónimo de residuo o desecho.
 
 XXVI.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
 
-XXVII.- Secretaría: La Secretaría de desarrollo Social.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XXVII.- Secretaría: La Secretaría del Medio Ambiente y Recursos Naturales.
 
 XXVIII.- Sistemas de drenaje y alcantarillado urbano o municipal: Conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, pudiendo incluir la captación de aguas pluviales.
 
@@ -163,9 +193,11 @@ XXIX.- Asentamiento humano: El establecimiento de un conglomerado demográfico c
 
 Corresponde al Presidente Municipal, por conducto de la Comisión Municipal de Ecología, el establecer y llevar a cabo la política ecológica en el territorio del Municipio de Cuauhtémoc, Col.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 7.
 
-La aplicación del presente Reglamento, corresponde a la Comisión Municipal de Ecología, misma que planeará, formulará y ejecutará lo relacionado a la aplicación y observancia de este Reglamento, así como de las disposiciones de la Ley de Preservación Ambiental del Estado de Colima y demás normatividad aplicable, en el ámbito de su competencia.
+La aplicación del presente Reglamento, corresponde a la Comisión Municipal de Ecología, misma que planeará, formulará y ejecutará lo relacionado a la aplicación y observancia de este Reglamento, así como de las disposiciones de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima y demás normatividad aplicable, en el ámbito de su competencia.
 
 ###### ARTICULO 8.
 
@@ -193,31 +225,39 @@ X.- Imponer las sanciones administrativas que procedan a las infracciones del pr
 
 XI.- Establecer un sistema permanente de Inspección y vigilancia sobre los ecosistemas en su jurisdicción territorial y ámbito de su competencia.
 
-XII.- Conocer y resolver de las solicitudes de autorización para la descarga de aguas residuales en los sistemas de drenaje y alcantarilladlo bajo su administración.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XII.- Conocer y resolver de las solicitudes de autorización para la descarga de aguas residuales en los sistemas de drenaje y alcantarilladlo bajo su administración, en coordinación con el Organismo Operador de Agua Potable y Alcantarillado del Municipio de Cuautémoc, Col.
 
 XIII.- Regular los asentamientos humanos.
 
 XIV.- Evaluar el impacto ambiental o promover su realización ante el Gobierno del Estado, respecto de obras o actividades que se efectúen dentro del territorio Municipal, que puedan alterar o alteren el equilibrio ecológico o el ambiente, condicionando el otorgamiento de las autorizaciones para el uso del suelo o de las licencias de construcción u operación respectiva, al resultado satisfactorio de dicha evaluación.
 
-XV.- El otorgamiento de asignaciones, concesiones, autorizaciones o permisos para el uso, explotación y aprovechamiento de aguas de propiedad Municipal.
+XV.- (DEROGADA, P.O. 10 DE OCTUBRE DE 2009)
 
 XVI.- La autorización para la construcción y operación de plantas o establecimientos industriales, comerciales o de servicios.
 
 XVII.- Infraccionar, multar y sancionar a los infractores de este Reglamento.
 
-XVIII.- Ejecutar obras destinadas al tratamiento de aguas residuales.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-XIX.- Promover el establecimiento de pago de derechos para que el municipio realice el tratamiento de aguas residuales.
+XVIII.- Promover la ejecucuón de obras destinadas al tratamiento de aguas residuales.
 
-XX.- Llevar y actualizar el registro municipal de descargas a las redes de drenaje y alcantarillado.
+XIX.- (DEROGADA, P.O. 10 DE OCTUBRE DE 2009)
 
-XXI.- Regular las descargas de origen municipal, así como el vertimiento de residuos sólidos en cuerpos y corrientes de agua.
+XX.- (DEROGADA, P.O. 10 DE OCTUBRE DE 2009)
 
-XXII.- Vigilar el cumplimiento de la legislación Federal en materia de aprovechamiento de los recursos naturales, de conformidad con lo previsto por las Leyes Federal de Agua, de Fomento Agropecuario, de la Conservación del Suelo, Forestal y de la Reforma Agraria; para un eficiente desarrollo sustentable.
+XXI.- (DEROGADA, P.O. 10 DE OCTUBRE DE 2009)
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XXII.- Vigilar el cumplimiento de la legislación Federal en materia de aprovechamiento de los recursos naturales, de conformidad con lo previsto por: Ley de Aguas Nacionales, Ley del Desarrollo Rural Sustentable, Ley de la Conservación del Suelo, Ley Forestal y Ley de la Reforma Agraria; para un eficiente desarrollo sustentable.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 9.
 
-Las atribuciones municipales en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, serán ejercitadas de manera concurrente por los gobiernos estatal y municipal de la manera concurrente por los gobiernos estatal y municipal de la manera siguiente:
+Las atribuciones municipales en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, serán ejercitadas de manera concurrente por los gobiernos Federal, Estatal y Municipal de la manera siguiente:
 
 l.- En la formulación de la política y de los criterios ecológicos en el Estado.
 
@@ -241,9 +281,13 @@ X.- El establecimiento de las medidas para hacer efectiva la prohibición de emi
 
 XI.- En el ordenamiento ecológico de los asentamientos humanos en el Municipio.
 
-XII.- En la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población por los efectos derivados de la prestación de servicios públicos municipales.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-XIII.- En la regulación del manejo y disposición de residuos sólidos no peligrosos.
+XII.- En la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población por los efectos derivados de la prestación de servicios públicos Municipales.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XIII.- En la regulación del manejo y disposición de residuos sólidos urbanos.
 
 XIV.- En la aplicación y observancia de las normas técnicas ecológicas, expedidas por la Federación y el Estado.
 
@@ -275,41 +319,55 @@ II.- Un Secretario Técnico, que será el Regidor del Ramo.
 
 III.- Un Secretario Ejecutivo de la Comisión, que será, el Secretario del H. Ayuntamiento.
 
-IV.- Vocales, que serán, los titulares de las áreas de servicios y obras públicas Municipales, así como de la Comisión de Agua Potable y Alcantarillado, y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-V.- Vocales invitados, que serán, personas invitadas, por el Presidente Municipal, de las Dependencias Estatales, Federales, cuyas atribuciones tengan relación con la materia ecológica, así como a personas de los sectores social y privado.
+IV.- Vocales, que serán, los titulares de las áreas de Servicios Públicos y Desarrollo Urbano y Obras Públicas, así como del Organismo Operador de Agua Potable y Alcantarillado del Municipio, y
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+V.- Vocales invitados, por el Presidente Municipal, podrán ser de las Dependencias Estatales y Federales, cuyas atribuciones tengan relación con la materia ecológica, así como a personas de los sectores social y privado.
 
 ###### ARTICULO 13.
 
 La Comisión Municipal de Ecología formulará y ejecutará los planes, programas y acciones para el cumplimiento de los objetivos del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 14.
 
-La Comisión Municipal de Ecología, para la atención de los asuntos de su competencia sesionará ordinariamente cada 60 días, y extraordinariamente cuando lo requiera, previa convocatoria que en el caso realice el Presidente de la misma por conducto del Secretario Ejecutivo.
+La Comisión Municipal de Ecología, para la atención de los asuntos de su competencia sesionará ordinariamente cada 90 días, y extraordinariamente cuando lo requiera, previa convocatoria que en el caso realice el Presidente de la misma por conducto del Secretario Ejecutivo.
 
 ###### ARTICULO 15.
 
 Serán facultades de la Comisión Municipal de Ecología, además de las ya señaladas las siguientes:
 
-I.- Vigilar en el Territorio Municipal la observancia de las disposiciones legales y administrativas y el cumplimiento de las normas, lineamientos, criterios y procedimientos técnicos Federales, Estatales y Municipales en materia ambiental.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+I.- Vigilar en el Territorio Municipal la observancia de las disposiciones legales y administrativas y el cumplimiento de las normas, criterios y procedimientos técnicos Federales, Estatales y Municipales en materia ambiental.
 
 II.- Formular y actualizar un diagnóstico de la problemática ambiental del Municipio.
 
 III.- Formular, integrar y coordinar la instrumentación y evaluación del Programa Municipal de Ecología, orientándolo hacia el ordenamiento de los ecosistemas y en congruencia con la política Estatal y Federal de Ecología.
 
-IV.- Coordinar la ejecución de acciones, planes y programas en materia ecológica y del medio ambiente.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+IV.- Coordinar la ejecución de planes, programas y acciones, en materia ecológica y del medio ambiente.
 
 V.- Promover la suscripción de convenios de colaboración, de asesoría y servicio social en materia ambiental con instituciones de Educación medía superior y otras instituciones y organizaciones.
 
 VI.- Las demás que le confieran el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 16.
 
-El Ayuntamiento podrá celebrar acuerdos de coordinación con los Gobiernos Estatal y Federal y otras Instancias, para
+El Ayuntamiento podrá celebrar convenios de coordinación con los Gobiernos Estatal y Federal y otras Instancias, para
 
 I.- Cumplir con los objetivos y propósitos de la normatividad para la preservación y restauración del equilibrio ecológico y protección al ambiente.
 
-II.- Regular y planear las acciones ecológicas en áreas conurbadas, de conformidad con la legislación aplicable; y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+II.- Coordinar las acciones ecológicas en áreas conurbadas, de conformidad con la legislación aplicable; y
 
 III.- La atención de contingencias ambientales que afecten sus ecosistemas.
 
@@ -319,39 +377,51 @@ III.- La atención de contingencias ambientales que afecten sus ecosistemas.
 
 El Ayuntamiento de Cuauhtémoc, por conducto del Comité Municipal de Ecología, promoverá el ordenamiento ecológico en su ámbito jurisdiccional y competencial, de conformidad con los siguientes lineamientos:
 
-I.- Atendiendo la naturaleza y características de los ecosistemas, así como la acción de cada zona o región, en función de sus recursos naturales, áreas privadas y de las actividades económicas que predominen; y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-II.- Considerando los desequilibrios de los ecosistemas por efectos naturales o provocados por el hombre, y previniéndose el impacto ambiental para mantener el equilibrio entre los asentamientos humanos, sus actividades y condiciones ambientales.
+I.- Atendiendo la naturaleza y características de los ecosistemas; y
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+II.- Previniendo el impacto ambiental para mantener el equilibrio entre los_asentamientos (sic) humanos, sus actividades y condiciones ambientales.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 18.
 
-La Comisión Municipal de Ecología, a través del sistema municipal de gestión ambiental, promoverá, organizará y propiciará la realización de estudios e investigaciones que conduzcan al conocimiento y detección de necesidades para la ejecución que tiendan a mantener el orden ecológico en el Municipio.
+La Comisión Municipal de Ecología, promoverá, organizará y propiciará la realización de estudios e investigaciones que conduzcan al conocimiento y detección de necesidades para la ejecución que tiendan a mantener el orden ecológico en el Municipio.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 19.
 
-La Comisión Municipal de Ecología establecerá las medidas tendientes a proteger la Flora y Fauna silvestres y preveer su deterioro, así como promover su regeneración, debiendo vigilar la explotación y comercialización de las mismas en su ámbito de competencia.
+La Comisión Municipal de Ecología establecerá las medidas tendientes a proteger la Flora y Fauna silvestres y prever su deterioro, así como promover su regeneración, debiendo vigilar la explotación y comercialización de las mismas en su ámbito de competencia.
 
 ###### ARTICULO 20.
 
-Para mantener el ordenamiento ecológico la Comisión Municipal de Ecología, establecerá las normas a que deberán sujetarse las actividades económicas que fueran a realizar y en su caso modificar, adecuar o controlar las que se vengan realizando en torno a refugios, zonas o áreas restringidas o de protección de la Flora y Fauna silvestres y de parques urbanos.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2009)
 
 ###### ARTICULO 21.
 
-La Comisión Municipal de Ecología promoverá la realización de estudios y consultas en cuanto a la exportación de especies de flora y fauna silvestres y promoverá ante las instancias Federales y Estatales, la modificación o cancelación de las concesiones correspondientes, que puedan afectar el equilibrio del ordenamiento ecológico.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2009)
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 22.
 
-Para aminorar los efectos al ordenamiento ecológico por los asentamientos humanos, la Comisión Municipal de Ecología aplicará y cuidará la observancia del conjunto de normas legales y reglamentarias en materia de desarrollo urbano y vivienda y obras públicas.
+Para aminorar los efectos al ordenamiento ecológico por los asentamientos humanos, la Comisión Municipal de Ecología vigilará, la aplicación de la legislación vigente en materia de desarrollo urbano.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 23.
 
-La regulación de los asentamientos humanos se ajustará, ademas de la normatividad, a los criterios generales y legales de regulación ecológica en:
+La regulación de los asentamientos humanos se ajustará, además de la normatividad, a los criterios generales y legales de regulación ecológica en:
 
-I.- La formulación y aplicación de la política municipal de desarrollo urbano y vivienda.
+I.- La formulación y aplicación de la política municipal de desarrollo urbano.
 
-II.- Los planes y programas sectoriales, parciales de desarrollo urbano y vivienda que se realicen en el municipio; y
+II.- Los planes y programas sectoriales, parciales de desarrollo urbano que se_realicen (sic) en el municipio; y
 
-III.- La aplicación de las normas de diseño, tecnología de construcción, uso y aprovechamiento de la vivienda y de desarrollo urbano y seguridad estructural que expida el Ayuntamiento de Cuauhtémoc.
+III.- La aplicación del Reglamento de Desarrollo Urbano y Seguridad Estructural para el Municipio de Cuauhtémoc.
 
 ### CAPITULO V. DEL IMPACTO AMBIENTAL
 
@@ -701,6 +771,8 @@ La Autoridad Municipal procederá a identificar al denunciante y a verificar los
 
 La Autoridad Municipal podrá informar al denunciante sobre el trámite de la queja y del resultado del procedimiento, así como de las medidas impuestas.
 
+(REPUBLICADO, P.O. 10 DE OCTUBRE DE 2009)
+
 ###### ARTICULO 88.
 
 Cuando los hechos denunciados fueren de competencia Estatal o Federal, serán turnados a la Autoridad respectiva para su atención correspondiente.
@@ -719,11 +791,15 @@ El Ayuntamiento realizará inspecciones y verificaciones para vigilar el cumplim
 
 El Ayuntamiento establecerá un cuerpo de inspección Municipal quien realizará visitas para verificar el cumplimiento y observación del presente Reglamento y demás disposiciones normativas aplicables.
 
-La (sic) visitas de inspección que se realicen por los Inspectores Municipales se circunscribirán a la verificación de las actividades relativas al objetivo de la diligencia, cuyo alcance no rebasará las disposiciones del presente Reglamento y demás ordenamiento aplicables.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+Las visitas de inspección que se realicen por los Inspectores Municipales se circunscribirán a la verificación de las actividades relativas al objetivo de la diligencia, cuyo alcance no rebasará las disposiciones del presente Reglamento y demás ordenamiento aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 92.
 
-El personal Municipal autorizado, al iniciar la inspección se identificará con la persona con quien se entienda la diligencia, le enterará el motivo y objeto de su inspección, requiriéndola en el acto para que designe dos testigos, los cuales junto con quien atiende la inspección se identificarán en caso de negativa el inspector podrá designarlos, dejando constancia de ello en el acta, sin que implique que tal circunstancia invalide los efectos de la inspección.
+El personal municipal autorizado, al iniciar la inspección se identificará con la persona con quien se entienda la diligencia, le enterará el motivo y objeto de su inspección, requiriéndola en el acto para que designe dos testigos, los cuales junto con quien atiende la inspección se identificarán en caso de negativa el inspector podrá designarlos, dejando constancia de ello en el acta, sin que implique que tal circunstancia invalide los efectos de la inspección.
 
 ###### ARTICULO 93.
 
@@ -749,9 +825,11 @@ Una vez oído al presunto infractor, recibidas y desahogadas las pruebas que ofr
 
 En la resolución administrativa correspondiente, se señalarán o adicionarán las medidas que deben llevarse a cabo para corregir las deficiencias o irregularidades observadas, así como el plazo concedido para satisfacerlas y las sanciones a que se hubiese hecho acreedor el infractor.
 
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 99.
 
-Los inspectores Municipales realizarán inspecciones de verificación respecto del cumplimiento de los requerimientos efectuados a los infractores, levantando Acta administrativa de éllo. De detectarse incumplimiento a las prevenciones ordenadas por la presidencia Municipal, podrán imponerse las sanciones por desacato a un mandamiento de autoridad, lo que se equiparará a la reincidencia.
+Los inspectores municipales realizarán inspecciones de verificación respecto del cumplimiento de los requerimientos efectuados a los infractores, levantando Acta administrativa de éllo. De detectarse incumplimiento a las prevenciones ordenadas por la Presidencia Municipal, podrán imponerse las sanciones por desacato a un mandamiento de autoridad, lo que se equiparará a la reincidencia.
 
 ### CAPITULO XIII. DE LAS FUNCIONES ADMINISTRATIVAS
 
@@ -759,7 +837,9 @@ Los inspectores Municipales realizarán inspecciones de verificación respecto d
 
 La violación a las disposiciones al presente Reglamento, serán sancionadas administrativamente por el Presidente Municipal, aplicándose las medidas siguientes:
 
-l.- Multa por el equivalente de 20 veinte a 5,000 (cinco mil) días de salario mínimo vigente en la zona económica del Municipio, en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+l.- Multa por el equivalente de 20 (veinte) a 5,000 (cinco mil) días de salario mínimo vigente en la zona económica del Municipio, en el momento de imponer la sanción.
 
 II.- Clausura temporal, parcial o total y/o definitiva.
 
@@ -779,7 +859,9 @@ II.- Las condiciones económicas del infractor;
 
 III.- El beneficio económico que obtuvo o el daño que causó; y
 
-VI (SIC).- La reincidencia, si la hubiere.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+IV.- La reincidencia, si la hubiere.
 
 ###### ARTICULO 102.
 
@@ -830,3 +912,9 @@ TERCERO:- Las disposiciones normativas Municipales, deberán ser afectadas de la
 El Presidente Municipal dispondrá se publique, circule y observe.
 
 Dado en el Salón de Cabildos del H. Ayuntamiento Constitucional de Cuauhtémoc, en Sesión celebrada el día 11 de Noviembre de 1994. Cúmplase.- PRESIDENTE MUNICIPAL, C. RICARDO GALINDO VELASCO.- RUBRICA.- SINDICO MUNICIPAL, DR. PEDRO LOPEZ CORDOBA.- RUBRICA.- REGIDORES: ING. VICTOR NUÑEZ BAUTISTA.- RUBRICA. -T.S. AGRIPINA UGARTE VALDOVINOS.- RUBRICA.- DR. MAURO MARTELL PEÑA.- RUBRICA.- ESPERANZA BAUTISTA VELAZQUEZ.- RUBRICA.- ADOLFO MUÑOZ SALVATIERRA. - RUBRICA.- RAMON DE LA MORA VALENCIA.- RUBRICA.- ESTELA OCHOA AVALOS.- RUBRICA.- SRIO. DEL H. AYUNTAMIENTO, PROFR. IGNACIO VALLADARES OCHOA.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE OCTUBRE DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
