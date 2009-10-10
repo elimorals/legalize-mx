@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2009-02-18"
+last_updated: "2009-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -1451,7 +1451,9 @@ El encargado tendrá las siguientes obligaciones:
 
 I.- Recibir por riguroso orden cronológico las demandas o promociones que inicien un procedimiento y los documentos que se acompañen a las mismas, y turnarles a los Juzgados correspondientes en los términos establecidos por esta ley, su reglamento, las determinaciones del Pleno o del Presidente del Supremo Tribunal de Justicia, cuidando escrupulosamente que el trámite se haga de manera ágil y oportuna;
 
-II.- Recibir por conducto del personal que al efecto determine, las promociones que deban enviarse a los Tribunales, ordenando se haga la captura digital correspondiente y que el mismo día se envíen a la oficina a que van dirigidas, salvo que por la urgencia del caso se requiera que inmediatamente se haga la captura y se envíen a dicha oficina;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS A LA LEY.</small>
+
+II.- (DEROGADA, P.O. 10 DE OCTUBRE DE 2009)
 
 III.- Asentar en los escritos que reciba, el día y la hora de presentación, sellando y firmando la constancia respectiva;
 
@@ -3322,3 +3324,7 @@ P.O. 18 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
