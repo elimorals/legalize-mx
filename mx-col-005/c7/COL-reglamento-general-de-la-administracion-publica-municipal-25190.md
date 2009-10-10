@@ -4,7 +4,7 @@ identifier: "COL-reglamento-general-de-la-administracion-publica-municipal-25190
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2003-03-22"
+last_updated: "2009-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO GENERAL DE LA ADMINISTRACION PUBLICA MUNICIPAL DE CUAUHTEMOC
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de mayo de 2002.
 
@@ -63,55 +63,59 @@ IV.- Definir la concurrencia de la población en la corresponsabilidad de las ta
 
 ### CAPITULO I. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL GOBIERNO MUNICIPAL
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 4°.
 
-El Ayuntamiento de Cuauhtémoc se integra por un Presidente, un Síndico y los Regidores que prevé la ley del Municipio Libre.
+El Ayuntamiento de Cuauhtémoc se integra por una Presidenta o Presidente, una Síndica o Síndico y las Regidoras y/o Regidores que prevé la Ley del Municipio Libre.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 5°.
 
-El Ayuntamiento, de Cuauhtémoc ejerce su administración por conducto de las siguientes dependencias:
+El Ayuntamiento de Cuauhtémoc ejerce su administración por conducto de las siguientes dependencias:
 
-1.- Presidencia
+1.- Presidencia:
 
-1.1.- Dirección de participación Ciudadana
+1.1.-Dirección de Atención y Participación Ciudadana;
 
-1.2.- Dirección Comunicación Social
+1.2.- Dirección de Comunicación Social;
 
-2.- Secretaría
+1.3.- Dirección Jurídica;
 
-2.1.- Dirección de Asesoria Jurídica
+1.4.- Dirección de Control, Evaluación y Seguimiento;
 
-2.2.- Dirección del Registro Civil
+2.- Secretaría;
 
-2.3.- Dirección Operativa de Protección Civil
+2.1.- Dirección de Seguridad Pública y Vialidad;
 
-2.4.- Dirección del Archivo Municipal
+2.2.- Oficial del Registro Civil;
 
-3.- Tesorería
+2.3.- Dirección Operativa de Protección Civil;
 
-3.1.- Dirección de Ingresos
+2.4.- Dirección del Archivo Municipal;
 
-3.2.- Dirección de Egresos y Contabilidad
+3.- Tesorería;
 
-3.3.- Dirección de Catastro
+3.1.- Dirección de Ingresos;
 
-4.- Oficialía Mayor
+3.2.- Dirección de Egresos y Contabilidad;
 
-> <small>(REFORMADO, P.O., 22 DE MARZO DE 2002)</small>
+3.3.- Dirección de Catastro;
 
-5.- Dirección de Desarrollo Urbano y Obras Publicas
+4.- Oficialía Mayor;
 
-6.- Dirección de Desarrollo Rural
+5.- Dirección de Desarrollo Urbano y Obras Públicas;
 
-7.-Dirección de Planeación
+6.- Dirección de Desarrollo Rural;
 
-8.- Dirección de Educación, Cultura y Deporte
+7.- Dirección de Planeación;
 
-9.- Dirección de Seguridad Pública y Vialidad
+8.- Dirección de Educación, Cultura y Deporte;
 
-> <small>(ADICIONADO, P.O., 22 DE MARZO DE 2002)</small>
+9.- Dirección de Servicios Públicos;
 
-10.- Dirección de Servicios Públicos.
+10.- Dirección de Atención a la Mujer.
 
 ###### ARTICULO 6°.
 
@@ -121,75 +125,93 @@ Las Juntas Municipales
 
 Las Comisarias Municipales
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 7°.
 
 Como órganos de colaboración en la ejecución de las obras y servicios públicos, el Ayuntamiento contará con el auxilio de:
 
-El Consejo de Colaboración Municipal
+El Consejo de Colaboración Municipal;
 
-La Junta de Barrios
+La Junta de Barrios;
 
-Los Comités de Barrios
+Los Comités de Participación Ciudadana;
 
-Los Clubes Juveniles
+Los Clubes Juveniles;
 
-Los Comités para Obras determinadas
+Los Comités para Obras determinadas;
 
-Otras formas de organización ciudadana
+Otras formas de organización ciudadana.
 
 ### CAPITULO II. DEL PRESIDENTE MUNICIPAL
 
-###### ARTICULO 8.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-El Presidente Municipal es el ejecutor de las determinaciones del Cabildo y tiene las facultades y obligaciones que se señalan en la Constitución Política del Estado Libre y Soberano de Colima, la Ley del Municipio Libre y otros ordenamientos legales y reglamentarios.
+###### ARTICULO 8°.
 
-###### ARTICULO 9.
+La Presidenta o Presidente Municipal es la o él ejecutor de las determinaciones del Cabildo, y tiene las facultades y obligaciones que se señalan en la Constitución Política del Estado Libre y Soberano de Colima, la Ley del Municipio Libre y otros ordenamientos legales y reglamentarios.
 
-El Presidente Municipal es el Jefe Administrativo de todos los funcionarios y empleados del Ayuntamiento y celebrará acuerdos con los responsables de las áreas administrativas con la periodicidad que él mismo establezca. Las resoluciones a las que se llegue en cada acuerdo, deberán hacerse constar por escrito y en el mismo se expresarán los puntos resolutivos y las estrategias aprobadas para la ejecución de las mismas; los asuntos no acordados deberán igualmente expresarse en el documento del cual se hará original y copia, quedando esta última en poder del responsable del área. El Presidente Municipal, auxiliado del funcionario que designe, llevará el control del avance de cada una de las resoluciones acordadas y hará los señalamientos pertinentes a los responsables de cada área.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 9°.
+
+La Presidenta o Presidente Municipal es la o él Jefe(a) Administrativo de todos los funcionarios(as) y empleados(as) del Ayuntamiento y celebrará acuerdos con los responsables de las áreas administrativas con la periodicidad que él mismo establezca. Las resoluciones a las que se llegue en cada acuerdo, deberán hacerse constar por escrito y en el mismo se expresarán los puntos resolutivos y las estrategias aprobadas para la ejecución de las mismas; los asuntos no acordados deberán igualmente expresarse en el documento, del cual se hará original y copia, quedando esta última en poder del responsable del área. La Presidenta o Presidente Municipal, auxiliado del funcionario o funcionaria que designe, llevará el control del avance de cada una de las resoluciones acordadas y hará los señalamientos pertinentes a los responsables de cada área.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 10.
 
-El Presidente Municipal tendrá la obligación de atender al público en el horario que más convenga al ágil desarrollo de las funciones propias de su cargo. Preferentemente, efectuará con regularidad audiencias públicas para recibir y escuchar planteamientos o quejas en relación con el desempeño administrativo de las oficinas o la prestación de servicios públicos.
+La Presidenta o Presidente Municipal tendrá la obligación de atender al público en el horario que más convenga al ágil desarrollo de las funciones propias de su cargo. Preferentemente, efectuará con regularidad audiencias públicas para recibir y escuchar planteamientos o quejas en relación con el desempeño administrativo de las oficinas o la prestación de servicios públicos.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 11.
 
-El Presidente Municipal deberá realizar las visitas de inspección que juzgue conveniente para cerciorarse del funcionamiento administrativo de las oficinas municipales y del trato que recibe el público de parte de los servidores públicos municipales. Igualmente, visitará periódicamente las zonas urbanas y rurales del Municipio para percatarse del avance de las obras emprendidas y escuchar los planteamientos y peticiones de los habitantes del municipio para darse cuenta de sus necesidades sociales.
+La Presidenta o Presidente Municipal deberá realizar las visitas de inspección que juzgue conveniente para cerciorarse del funcionamiento administrativo de las oficinas municipales y del trato que recibe el público de parte de los servidores públicos municipales. Igualmente, visitará periódicamente las zonas urbanas y rurales del Municipio para percatarse del avance de las obras emprendidas y escuchar los planteamientos y peticiones de los habitantes del municipio para darse cuenta de sus necesidades sociales.
 
 ### CAPITULO III. DE LAS DEPENDENCIAS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 12.
 
-Todo funcionario municipal, antes de tomar posesión de su cargo deberá rendir la siguiente protesta: "PROTESTO DESEMPEÑAR CON EFICIENCIA, LEALTAD Y PATRIOTISMO EL CARGO DE………………….. Y CUMPLIR Y HACER CUMPLIR LA LEGISLACION MUNICIPAL VIGENTE; SI NO LO HICIERE ASI QUE EL AYUNTAMIENTO, EL PRESIDENTE MUNICIPAL Y EL PUEBLO DE CUAUHTEMOC ME LO DEMANDEN".
+Todo funcionario(a) municipal, antes de tomar posesión de su cargo deberá rendir la siguiente protesta: "PROTESTO DESEMPEÑAR CON EFICIENCIA, LEALTAD Y PATRIOTISMO EL CARGO DE………….Y CUMPLIR Y HACER CUMPLIR LA LEGISLACION MUNICIPAL VIGENTE; SI NO LO HICIERE ASI, QUE EL AYUNTAMIENTO, EL PRESIDENTE(A) MUNICIPAL Y EL PUEBLO DE CUAUHTÉMOC ME LO DEMANDEN".
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 13.
 
-Al día siguiente de la instalación legal del nuevo Ayuntamiento, todos los funcionarios municipales de la Corporación saliente se presentarán en sus respectivas oficinas a partir de las 09:00 horas, para hacer entrega de las mismas a los funcionarios nombrados.
+Al día siguiente de la instalación legal del nuevo Ayuntamiento, todos los funcionarios(as) municipales de la Administración saliente se presentarán en sus respectivas oficinas a partir de las 09:00 horas, para hacer entrega de las mismas a los funcionarios(as) nombrados. La entrega se hará personalmente bajo acta circunstanciada, en la que se asentarán el inventario de los bienes sujetos a resguardo los asuntos pendientes de resolución con la indicación expresa de su estado de trámite y todos aquellos hechos que se consideren pertinentes. El Acta será firmada por los funcionarios(as) que en ella intervengan. La Presidenta o Presidente Municipal informará al Cabildo del resultado de las recepciones de las dependencias municipales en la siguiente sesión ordinaria.
 
-La entrega se hará personalmente bajo acta circunstanciada, en la que se asentarán el inventario de los bienes sujetos a resguardo, los asuntos pendientes de resolución con la Indicación expresa de su estado de trámite y todos aquellos hechos que se consideren pertinentes.
+En Igual forma, se procederá en caso de renuncia o remoción.
 
-El Acta será firmada por los funcionarios que en ella intervengan.
-
-El Presidente Municipal informará al Cabildo del resultado de las recepciones de las dependencias municipales en la siguiente sesión ordinaria.
-
-En igual forma se procederá en caso de renuncia o remoción.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 14.
 
-La Secretaria, la Tesorería, la Oficialía Mayor, la Contraloría, la Dirección General de Desarrollo Urbano, Obras y Servicios Públicos, la Dirección de Desarrollo Rural, la Dirección de Planeación, la Dirección de Comunicación Social, la Dirección de Educación, Cultura y Deporte, la Dirección de Asuntos jurídicos, la Dirección de Ingresos, la Dirección de Egresos y Contabilidad, la Dirección de Catastro, la Dirección de Registro Civil, la Dirección de Participación Ciudadana, la Dirección Operativa de protección Civil, la Dirección del Archivo Municipal y la Dirección de Seguridad Pública estarán a cargo de funcionarios que tomarán la denominación del área respectiva. Los titulares de las cuatro primeras áreas mencionadas serán nombrados por el Cabildo a propuesta del Presidente Municipal; los restantes los nombrará directamente el Presidente Municipal.
+La Secretaría, la Tesorería, la Oficialía Mayor, la Dirección de General de Desarrollo Urbano y Obras Públicas, la Dirección de Servicios Públicos, la Dirección de Desarrollo Rural, la Dirección de Planeación, la Dirección de Comunicación Social, la Dirección de Educación, Cultura y Deporte, la Dirección Jurídica, la Dirección de Ingresos, la Dirección de Egresos y Contabilidad, la Dirección de Catastro, el Oficial de Registro Civil, la Dirección de Atención y Participación Ciudadana, la Dirección Operativa de protección Civil, la Dirección del Archivo Municipal, Dirección de Control, Evaluación y Seguimiento y la Dirección de Seguridad Pública estarán a cargo de funcionarlos (as) que tomarán la denominación del área respectiva. Los titulares de las tres primeras áreas mencionadas serán nombrados por el Cabildo a propuesta del Presidente Municipal; los restantes los nombrará directamente el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 15.
 
-Los titulares de las unidades administrativas señaladas en el artículo anterior, se auxiliarán para delegar funciones y responsabilidades del personal que jerárquicamente le siga, llámense Directores, Subdirectores. Jefes de Departamento y demás servidores públicos que las necesidades del servicio requieran, siempre y cuando figuren en el Presupuesto de Egresos del Municipio.
+Los titulares de las unidades administrativas señaladas en el artículo anterior, se auxiliarán para delegar funciones y responsabilidades del personal que jerárquicamente le siga, llámense Directoras o Directores, Subdirectoras o Subdirectores, Jefes o Jefes de Departamento y demás servidoras y servidores públicos que las necesidades del servicio requieran, siempre y cuando figuren en el Presupuesto de egresos del Municipio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 16.
 
-Corresponde a los titulares de las Unidades Administrativas las funciones específicas que al área de responsabilidad le señale la Ley del Municipio Libre, además de las siguientes funciones genéricas:
+Corresponde a los o las titulares de las Unidades Administrativas las funciones específicas que al área de responsabilidad le señale la Ley del Municipio Libre, además de las siguientes funciones genéricas:
 
-I. Proponer al Presidente Municipal los planes y programas anuales de trabajo del área a su cargo para su revisión y autorización;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+I. Proponer a la Presidenta o Presidente Municipal los planes y programas anuales de trabajo del área a su cargo para su revisión y autorización;
 
 II. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las acciones correspondientes a su área de responsabilidad;
 
-III. Informar mensual y anualmente al Presidente Municipal sobre el avance, cumplimiento y desviaciones mas significativas de los objetivos y metas programadas por área de trabajo;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+III. Informar mensual y anualmente a la Presidenta o Presidente Municipal sobré el avance, cumplimiento y desviaciones mas significativas de los objetivos y metas programadas por área de trabajo;
 
 IV. Cumplir y hacer cumplir las directrices trazadas para cada área en el programa general de trabajo del área correspondiente;
 
@@ -207,21 +229,31 @@ X. Custodiar los bienes, fondos y valores que formen parte del patrimonio del Mu
 
 XI. Cumplir y hacer cumplir las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones aplicables en el Municipio;
 
-XII. Mantener oportunamente informado, al Presidente Municipal sobre los asuntos de su competencia general o particular, así como expresamente se les haya encomendado;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XII. Mantener oportunamente informado, a la Presidenta o Presidente Municipal sobre los asuntos de su competencia general o particular, así como expresamente se les haya encomendado;
 
 XIII. Suscribir los documentos correspondientes al ejercicio de sus atribuciones, así como todos los demás que por delegación o suplencia le correspondan;
 
-XIV. Desempeñar las comisiones que le sean encomendadas por el Presidente Municipal y mantenerle oportunamente informado sobre el desarrollo de resultados de las mismas;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-XV. Cumplir y vigilar el cumplimiento de las disposiciones administrativas dictadas por el Presidente Municipal;
+XIV. Desempeñar las comisiones que le sean encomendadas por la Presidenta o Presidente Municipal y mantenerle oportunamente informado sobre el desarrollo de resultados de las mismas;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XV. Cumplir y vigilar el cumplimiento de las disposiciones administrativas dictadas por la Presidenta o Presidente Municipal;
 
 XVI. Revocar, cuando jurídicamente se justifique, los actos que emitan, o los emitidos por las Unidades Administrativas que de ellos dependan, y;
 
-XVII. Las demás que les sean conferidas por otras disposiciones legales, así como las que expresa y legalmente les señale el Presidente Municipal.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XVII. Las demás que les sean conferidas por otras disposiciones legales, así como las que expresa y legalmente les señale la Presidenta o Presidente Municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 17.
 
-Corresponde al Secretario del Ayuntamiento:
+Corresponde a la Secretaria o Secretario del Ayuntamiento:
 
 I. Tener a su cargo el cuidado y dirección inmediata de la oficina y el archivo del ayuntamiento;
 
@@ -241,11 +273,15 @@ VIII. Auxiliar a las autoridades federales y estatales, en el cumplimiento de la
 
 IX. Refrendar con su firma todos los reglamentos y disposiciones emanados del ayuntamiento;
 
-X. Por ser el vínculo de comunicación entre el Presidente Municipal y la Comunidad;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+X. Ser el vínculo de comunicación entre la Presidenta o Presidente Municipal y la Comunidad;
 
 XI. Coordinar las labores de las Oficinas del Registro Civil. Juzgado Calificador; Oficina Municipal del Registro Nacional de Electores y de la Junta Municipal de Reclutamiento;
 
-XII. Ser el enlace permanente de comunicación entre el Presidente Municipal y la zona rural del Municipio;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XII. Ser el enlace permanente de comunicación entre la Presidenta o Presidente Municipal y la zona rural del Municipio;
 
 XIII. Auxiliar en el ejercicio de sus funciones a las Comisarias y Juntas Municipales; Y Gestionar ante las dependencias y organismos federales, estatales y municipales, los apoyos que se requieran para el área rural, a solicitud de las autoridades municipales rurales;
 
@@ -261,71 +297,65 @@ XVIII. Vigilar que los locales, instalaciones, servicios y demás aspectos relat
 
 XIX. Controlar y coordinar el área inspeccionada en materia de salud y aplicar las sanciones correspondientes;
 
-XX. Además de las enumeradas serán funciones del Secretario, que ejercerá por conducto de la Dirección de Asuntos Jurídicos:
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-a).- Dar consulta legal al Cabildo, Presidente Municipal y, en general, a todas las dependencias del Municipio, cuando así lo requieran para el mejor desempeño de sus actividades.
+XX.- Serán funciones de la Secretaria o Secretario a través de la Dirección de Seguridad Pública y Vialidad, las siguientes:
 
-b). Tramitar los juicios y amparos en los que el Ayuntamiento fuere parte.
+I.- En lo que se refiere a Seguridad Pública:
 
-c).- Formular los anteproyectos de los reglamentos municipales.
+a).- El estudio, la planificación y proposición de los sistemas de organización y funcionamiento de Seguridad Pública y Vialidad en el Municipio.
 
-d).- Preparar los documentos legales que el Ayuntamiento o el Presidente Municipal deberán enviar a los Gobiernos Federal y Estatal, así como a los particulares.
+b).- La vigilancia estricta de que las autoridades y elementos de seguridad pública cumplan sus funciones con apego a la Ley y con máxima eficiencia.
 
-e).- Revisar e intervenir en los contratos y convenios municipales.
+c).- Promover y fomentar la superación técnica y cultural de los elementos de Seguridad Pública y Vialidad.
 
-f).- Representar al Ayuntamiento o al Presidente Municipal en los asuntos legales que estas autoridades indiquen.
+d).- Formar parte de los Consejos Consultivos de Seguridad Pública y de Tránsito en el que se capten y canalicen las peticiones de la ciudadanía en materia de Seguridad Pública y de Vialidad.
 
-g).- Compilar las normas jurídicas del Ayuntamiento, así como manejar la legislación federal y estatal relativa al ámbito municipal.
+e).- Establecer un sistema de información periódica de la actuación del personal de Seguridad Pública y en el caso de que éste incurra en faltas en el desempeño de sus funciones, o en la comisión de delitos, gestionar en su caso, que se apliquen las sanciones que legalmente correspondan.
 
-h).- Proponer al Presidente reformas a las normas Jurídicas municipales.
+f).- Opinar en cuanto a los convenios de coordinación en materia de Seguridad Pública.
 
-i).- Instaurar procedimientos administrativos y recibir comparecencias, testimonios y ratificaciones respecto de asuntos que atañen al Ayuntamiento; y (sic)
+II.- En lo que se refiere a Tránsito:
 
-j).- Ejercer las funciones y coordinar las actividades que le competen en materia electoral;
+a).- Vigilar permanentemente que todas las vías públicas dentro del Municipio se mantengan en las mejores condiciones posibles de uso y libres de obstáculos, comprendiéndose las avenidas, calles de tránsito ordinario, carreteras de intercomunicación en general, caminos vecinales, brechas, terracería, etc.
 
-k).- Promover y participar en el establecimiento de convenios entre el Ayuntamiento y el Instituto Electoral del Estado para el ejercicio de las funciones propias del área.
+b).- Mantener estrecha comunicación con las autoridades federales y estatales de tránsito, respecto al señalamiento vial para los conductores de vehículos y para los peatones.
 
-l).- Auxiliar en el registro electoral manteniendo su vigencia e informar al Ayuntamiento y el Instituto electoral del Estado, la situación del mismo.
+c).- Participar en las diferentes campañas de educación vial para conductoras o conductores de vehículos o para peatones, especialmente en lo concerniente al municipio.
 
-m).- Coadyuvar en la vigilancia y brindar el apoyo que compete al Ayuntamiento para el desarrollo de los comicios electorales.
+d).- Proponer la realización de campañas coordinadamente con la ciudadanía y los medios de comunicación social, tendientes a una mejor conservación, mantenimiento y perfeccionamiento del estado de las vías públicas y en general del tránsito dentro de la jurisdicción municipal.
 
-n).- Llevar el registro de cultos y mantener actualizado el padrón de los responsables de los templos establecidos en el Municipio.
+III.- En lo que se refiere a Transporte:
 
-o).- Vigilar y supervisar, las actividades religiosas que se desarrollen en el Municipio, a fin de que sean ajustadas las disposiciones legales relativas.
+a).- Supervisar que los vehículos que se utilicen para prestar el servicio de transporte dentro del Municipio, reúnan las características, condiciones técnicas y demás requisitos que para tal efecto fijen los Reglamentos respectivos y la Dirección General de Transporte del Estado.
 
-p).- Remitir tanto a la Secretaria General de Gobierno como a la Secretaría de Gobernación los informes que le sean requeridos respecto al establecimiento de cultos y sectas religiosas en el Municipio.
+Como son:
 
-q).- Ejercer las funciones de la Junta Municipal de Reclutamiento.
+1).- De carga.
 
-r).- Coordinar el desarrollo de las funciones de las Juntas de Reclutamiento en las comunidades que pertenezcan al Municipio.
+2).- De pasajeros:
 
-s).- Expedir las constancias de registro de personas inscritas en el Padrón de la Junta Municipal de Reclutamiento.
+2.1. Urbano, Suburbano y foráneo.
 
-t).- Detectar y vigilar cualquier actividad pública que altere el orden de la Comunidad.
+2.2. Con ruta de itinerario fijo.
 
-u).- Llevar un control de registro de las actividades sociales, politicas, económicas, culturales o de cualquier otra índole que implique congregación o movimiento de masas en el Municipio.
+2.3. Con ruta fija.
 
-v).- Ser la Dependencia que guarda contacto permanente y directo con las Autoridades Municipales del medio rural.
+2.4. Servicio
 
-w).- Formular y ejecutar en coordinación con las dependencias competentes los programas de apoyo, seguridad pública y readaptación social.
+3).- De taxi.
 
-x).- Coordinar las labores con el Director de Seguridad Pública y Vialidad Municipal y supervisar las funciones administrativas de la misma.
+4).- Exclusivo de Turismo
 
-y).- Coordinar las acciones que en materia de seguridad pública instauren las Autoridades Municipales en la zona rural.
+5).- Escolar o de Personal de Empresa.
 
-z).- Llevar una estadística de las conductas antisociales o faltas administrativas en que incurra la ciudadanía y que sean competencia y conozcan de ellos las Autoridades Municipales de la zona rural o el Director de Seguridad Pública y Vialidad.
+6).- Rural mixto carga-Pasaje.
 
-aa).- Elaborar y controlar las estadísticas políticas y demográficas del Municipio.
+b).- Fomentar la integración del Consejo Consultivo de Transporte y Vialidad, como órganos auxiliares de estudio y opinión técnica para el mejoramiento en la prestación de servicios.
 
-bb).- Cuidar la debida observancia de la Ley de Responsabilidades de los Servidores Públicos y someter a consideración del Presidente Municipal las faltas en que incurran los Funcionarios Municipales.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-cc).- Vigilar que los funcionarios salientes hagan la debida entrega de las oficinas a los funcionarios entrantes, ya sea por conclusión de encargo o por separación de la fuente de trabajo.
-
-dd).- Denunciar ante las autoridades competentes, los casos que lo ameriten conforme a la Ley.
-
-ee).- Auxiliar y apoyar en sus funciones al Director del Registro Civil.
-
-XXI.- Además de las enumeradas, serán funciones del Secretario, que ejercerá por conducto del Director del Registro Civil:
+XXI. Además de las enumeradas, serán funciones del Secretario, que ejercerá por conducto del Oficial del Registro Civil:
 
 a).- Celebrar y autorizar con las excepciones de ley, los actos y actas relativos al estado civil de las personas que establece el Código Civil.
 
@@ -341,7 +371,9 @@ f).- Tener bajo su custodia y responsabilidad los libros del Registro Civil, for
 
 g).- Solicitar oportunamente la dotación de claves del Registro Civil.
 
-h).- Clasificar y enviar durante los primeros cinco días de cada mes la documentación que debe remitirse a las diversas dependencias del gobierno federal y estatal.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+h).- Clasificar y enviar durante los primeros cinco días de cada mes la documentación que debe remitirse a las diversas dependencias del gobierno Federal y Estatal.
 
 i).-Autorizar, previo pago de los derechos correspondientes, la expedición de copias certificadas en las que consten los actos inscritos en los libros del Registro Civil.
 
@@ -367,11 +399,17 @@ r).- Las demás que le otorguen las leyes, reglamentos y manuales de organizaci�
 
 XXII.- Las demás que le otorguen las Leyes, Reglamentos y Manuales Administrativos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 18.
 
-Corresponde al Tesorero Municipal:
+Corresponde a la Tesorera o Tesorero Municipal:
 
-l.- Elaborar y proponer al presidente municipal los anteproyectos de leyes, reglamentos y demás disposiciones que se requieran para el manejo de los asuntos tributarios del municipio;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+l.- Elaborar y proponer a la Presidenta o Presidente Municipal los anteproyectos de leyes, reglamentos y demás disposiciones que se requieran para el manejo de los asuntos tributarios del municipio:
+
+1).- Verificar que los depositarios de bienes embargados en los procedimientos de ejecución cumplan con las obligaciones de su encargo, y en caso contrario, fincar las responsabilidades correspondientes, acordando la sustitución del depositario.
 
 II.- vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones fiscales;
 
@@ -381,7 +419,9 @@ IV.- Vigilar que la recaudación de los Impuestos, derechos, productos, aprovech
 
 V.- Ejercer el presupuesto de egresos y efectuar los pagos de acuerdo con los programas y presupuestos aprobados, mancomunando su firma con el servidor público que determine el presidente municipal. En ningún caso deberá efectuar pagos con cheques al portador y solo los hará contra la presentación del recibo o factura que reúna los requisitos legales;
 
-VI.- Intervenir con el síndico en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la hacienda pública municipal;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VI.- Intervenir con la síndica o síndico en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la hacienda pública municipal;
 
 VII.- Establecer convenios de coordinación y colaboración administrativa en materia fiscal con el gobierno del Estado, previa autorización del cabildo;
 
@@ -401,7 +441,9 @@ XIV.- Revisar y validar los expedientes de remate o adjudicación al fisco estat
 
 XV.- Resolver los recursos o medios de defensa administrativos que se interpongan en contra de actos o resoluciones de la Tesorería o sus dependencias, así como de las diversas promociones que por escrito se presenten ante éstas, respecto de asuntos que sean de su competencia;
 
-XVI.- Autorizar y firmar, previo acuerdo del Presidente Municipal los convenios y contratos que celebre el municipio con otras dependencias, entidades o con particulares, en todos aquellos en que se comprometa el patrimonio económico del municipio;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XVI.- Autorizar y firmar, previo acuerdo de la Presidenta o Presidente Municipal los convenios y contratos que celebre el municipio con otras dependencias, entidades o con particulares, en todos aquellos en que se comprometa el patrimonio económico del municipio;
 
 XVII.- Intervenir en todas las operaciones en las que se haga uso del crédito público municipal y en los actos y contratos de los que resulten derechos y obligaciones de carácter económico para el Municipio;
 
@@ -409,7 +451,9 @@ XVlII.- Expedir y refrendar las licencias para el funcionamiento de establecimie
 
 XIX.- Los demás que le señalen las leyes y reglamentos, como no delegables;
 
-XX.- Además de las atribuciones previstas en las fracciones anteriores, corresponde al Tesorero Municipal, por medio del Director de Ingresos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XX.- Además de las atribuciones previstas en las fracciones anteriores, corresponde a la Tesorera o Tesorero Municipal, por medio de la Directora o Director de Ingresos:
 
 a).- Recaudar y concentrar los Impuestos, derechos, productos y aprovechamientos señalados en la Ley de Ingresos del Municipio de Cuauhtémoc y en los convenios de colaboración administrativa en materia fiscal celebrados con otros órdenes de gobierno;
 
@@ -417,13 +461,15 @@ b).- Llevar al corriente el padrón fiscal municipal e imponer las sanciones que
 
 c).- Determinar los créditos fiscales a favor de la hacienda pública municipal;
 
-d).-Ejercer la facultad de cobro de los créditos fiscales a favor de la hacienda pública municipal, aplicando el Procedimiento Administrativo de Ejecución conforme a las disposiciones fiscales aplicables;
+d).- Ejercer la facultad de cobro de los créditos fiscales a favor de la hacienda pública municipal, aplicando el Procedimiento Administrativo de Ejecución conforme a las disposiciones fiscales aplicables;
 
 e).- Ejercer las facultades de comprobación del cumplimiento de las obligaciones fiscales, tanto municipales como coordinadas;
 
 f).- Participar en el diseño de las formas oficiales de recaudación e implantar los sistemas, procedimientos y métodos en el área de recaudación;
 
-g).- Tramitar las solicitudes de pago de créditos fiscales en forma diferida o en parcialidades, de devolución o compensación de pagos indebidos y de condonación, previa autorización del Tesorero Municipal;
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+g).- Tramitar las solicitudes de pago de créditos fiscales en forma diferida o en parcialidades, de devolución o compensación de pagos indebidos y de condonación, previa autorización de la Tesorera O Tesorero Municipal;
 
 h).- Aceptar las garantías que se otorguen para cubrir créditos fiscales y, en su caso, ordenar la ampliación correspondiente;
 
@@ -431,11 +477,17 @@ i).- Verificar que los depositarios de bienes embargados en los procedimientos d
 
 j).- Recibir y tramitar las solicitudes de expedición y refrendo de licencias para el funcionamiento de establecimientos que realicen actividades de carácter económico en el municipio;
 
-k).- Proponer al Tesorero Municipal la cancelación de créditos incobrables;
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-l).- Los demás que les señalen las leyes y reglamentos;
+k).- Proponer a la Tesorera o Tesorero Municipal la cancelación de créditos incobrables;
 
-XXI.- Corresponde al Tesorero Municipal, por medio del Director de Egresos y Contabilidad;
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+l).- Los demás que les señalen las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XXI.- Corresponde a la Tesorera o Tesorero Municipal, por medio de la Directora o Director de Egresos y Contabilidad;
 
 a).- Formular mensualmente el estado de origen y aplicación de recursos municipales;
 
@@ -469,9 +521,13 @@ g).- Recibir, tramitar y en su caso certificar las manifestaciones, solicitudes 
 
 h).- Las demás que le confieran las leyes, reglamentos y demás disposiciones aplicables, así como las que en esta materia asuma el ayuntamiento en virtud de los convenios de coordinación y colaboración administrativa que se celebren.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 19.
 
-Corresponderá al Oficial Mayor:
+Corresponderá la o el Oficial Mayor:
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 I. Participar con el tesorero municipal en la formación de planes y programas del gasto público y en la elaboración del anteproyecto de presupuesto anual de egresos;
 
@@ -487,13 +543,17 @@ VI. Conservar y administrar los bienes propiedad del ayuntamiento y proponer al 
 
 VII. Intervenir en la adquisición y enajenación de bienes muebles e inmuebles que lleve a cabo el ayuntamiento y vigilar que dichas operaciones se ajusten a las disposiciones legales;
 
-VIII. Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles del ayuntamiento, en coordinación con el síndico y la comisión de regidores correspondiente;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VIII. Levantar y tener al, corriente el inventario general de los bienes muebles e inmuebles del ayuntamiento, en coordinación con la Síndica o el Síndico y la comisión de regidores correspondiente;
 
 IX. Vigilar el cumplimiento de las normas y contratos que rijan las concesiones, autorizaciones y permisos para el aprovechamiento y explotación de los bienes municipales, cuando dichas tareas no estén expresamente encomendadas a otra dependencia;
 
 X. Expedir los nombramientos, tramitar y resolver los asuntos relativos a los servidores públicos municipales, en cumplimiento a lo dispuesto en las leyes, reglamentos, manuales de organización y condiciones generales de trabajo;
 
-XI. Determinar las responsabilidades en que incurran los servidores públicos del ayuntamiento o de organismos paramunicipales, por incumplimiento de las obligaciones a su cargo o por la comisión de faltas administrativas, de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XI. Determinar las responsabilidades en que incurran las o los servidores(as) públicos del Ayuntamiento o de organismos paramunicipales, por incumplimiento de las obligaciones a su cargo o por la comisión de faltas administrativas, de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 XII. Formular y manejar el archivo general del personal;
 
@@ -507,23 +567,29 @@ XVI. Autorizar, previo acuerdo del presidente municipal y con base en el presupu
 
 XVII. Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O., 22 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 20.
 
-Corresponderá al Director de Desarrollo Urbano y Obras Publicas:
+Corresponderá a la Directora o Director de Desarrollo Urbano y Obras Públicas:
 
 I. Coordinar, supervisar y evaluar las funciones y actividades del Ayuntamiento en materia de Obras Públicas y Desarrollo Urbano.
 
 II. Diagnosticar y organizar el potencial de desarrollo del municipio, considerando la disponibilidad de los elementos y recursos con que cuenta en todos sus aspectos.
 
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 III. Elaborar en coordinación con el Departamento de Planeación, el Plan de Desarrollo Municipal y someterlo para aprobación del Cabildo por conducto del Presidente Municipal.
 
 IV. Integrar y tener actualizada la información geográfica y estadística del municipio.
 
-V. Evaluar en coordinación con el (sic) Dirección de Planeación, el avance y seguimiento del Plan de Desarrollo Municipal.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-VI. Asesorar al Presidente Municipal en la concertación de material de planeación.
+V. Evaluar en coordinación con la Dirección de Planeación, el avance y seguimiento del Plan de Desarrollo Municipal.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VI. Asesorar a la Presidenta o Presidente Municipal en la concertación de material de planeación.
 
 VII. Apoyar y conocer de los programas de Desarrollo Industrial, comercial y Agropecuario que se realicen en el municipio; y (sic)
 
@@ -589,7 +655,7 @@ XXXVII.- Promover la restauración y conservación de zonas arqueológicas.
 
 XXXVIII.- Participar en la elaboración del presupuesto de obras del Ayuntamiento; y (sic)
 
-XXXIX.- Las demás que le otorguen las leyes, reglamentos y manuales de organización;
+XXXIX.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
 XL.- (DEROGADA, P.O., 22 DE MARZO DE 2002)
 
@@ -597,9 +663,11 @@ XL.- (DEROGADA, P.O., 22 DE MARZO DE 2002)
 
 ARTICULO 20 BIS.- Corresponderá a la Dirección de Servicios Públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 21.
 
-Corresponde al Director de Desarrollo Rural:
+Corresponde a la Directora o Director de Desarrollo Rural:
 
 I.- Promover el Plan del Municipio para el fomento e impulso de la productividad agropecuaria, en la realización de obras de infraestructura para el desarrollo rural y social y en establecimiento de los agro servicios.
 
@@ -607,29 +675,43 @@ II.- Proponer el establecimiento de planes pilotos para infundir la tecnología 
 
 III.- Promover y apoyar eventos que impulsen el desarrollo agropecuario y forestal que tengan una influencia directa con el Municipio, ya sea ecológica, de mejoramiento o de abasto de productos agropecuarios.
 
-IV.- Asistir y convocar a reuniones con Comisariados ejidales para atender las necesidades de los ejidos en el Municipio.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-V.- Promover la capacitación para los productores a través de las dependencias Federales y Estatales relacionadas con el sector agropecuario.
+IV.- Asistir y convocar a reuniones con Comisariados(as) ejidales para atender las necesidades de los ejidos en el Municipio.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+V.- Promover la capacitación para las y los productores(as) a través de las dependencias Federales y Estatales relacionadas con el sector agropecuario.
 
 VI.- Gestionar apoyos y servicios necesarios para impulsar el desarrollo Agropecuario del Municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 22.
 
-Corresponde al Director de Planeación:
+Corresponde a la Directora o Director de Planeación:
 
 I.- Ejercer las funciones de coordinación del Comité de Planeación para el Desarrollo del Municipio.
 
 II.- Proponer al Presidente Municipal el Plan Municipal de Desarrollo, en coordinación con los gobiernos federal y estatal.
 
-III.- Evaluar e Informar al Presidente Municipal del avance de los programas de inversión para el desarrollo municipal.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-IV.- Instrumentar los mecanismos adecuados que permitan al Ayuntamiento y al Presidente Municipal, disponer de Información precisa y oportuna para la eficaz toma de decisiones y correcta planeación del desarrollo.
+III.- Evaluar e informar a la Presidenta o Presidente Municipal del avance de los programas de inversión para el desarrollo municipal.
 
-V.- Proponer al Presidente Municipal los acuerdos de cooperación que deban realizarse entre el sector público y los sectores social y privado, a efecto de promover el desarrollo Integral del municipio.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+IV.- Instrumentar los mecanismos adecuados que permitan al Ayuntamiento y a la Presidenta o Presidente Municipal, disponer de información precisa y oportuna para la eficaz toma de decisiones y correcta planeación del desarrollo.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+V.- Proponer a la Presidenta o Presidente Municipal los acuerdos de cooperación que deban realizarse entre el sector público y los sectores social y privado, a efecto de promover el desarrollo integral del municipio.
 
 VI.- Evaluar y actualizar en forma permanente, el inventario de obra pública que se ejecuta en el municipio.
 
-VII.- Organizar, en coordinación con las distintas dependencias municipales, los mecanismos de consulta popular y de comunicación social, que permitan al Ayuntamiento captar la problemática cuya priorización dará sustento a la propuesta de obra pública y establecer los canales de información sistemática que mantengan informada a la opinión pública y principalmente a los beneficiarios, en las acciones que se ejecuten en el municipio en beneficio de la sociedad cuauhtemense.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VII.- Organizar, en coordinación con las distintas dependencias municipales, los mecanismos de consulta popular y de comunicación social, que permitan al Ayuntamiento captar la problemática cuya prioridad dará sustento a la propuesta de obra pública y establecer los canales de información sistemática que mantengan informada a la opinión pública y, principalmente a los beneficiarios, en las acciones que se ejecuten en el municipio en beneficio de la sociedad Cuauhtemense.
 
 VIII.- Formular y someter a la consideración del Presidente Municipal, los programas anuales de inversión, gasto y financiamiento para la ejecución de la obra pública, a efecto de que una vez depurados por la autoridad municipal, sean propuestos al Comité de Planeación para el Desarrollo del Estado para su aprobación definitiva.
 
@@ -649,31 +731,45 @@ XV.- Dar seguimiento a la ejecución de la obra pública programada hasta su fin
 
 XVI.- Captar las inquietudes y los planteamientos que realizan los diversos sectores de la población en materia de obras y servicios, canalizándolas a la dependencia municipal que corresponda para que se proceda en consecuencia.
 
-XVII.- Mantener informada a la ciudadanía sobre las gestiones realizadas por "La Dirección", respecto de las peticiones y planteamientos formuladas al Ayuntamiento y enterarla de las gestiones desarrolladas con el propósito de cumplimentar dichos planteamientos.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-XVIII.- Asesorar a la Presidencia Municipal en lo relativo a la contratación y celebración de convenios en materia de programación y presupuestación para la ejecución de obra pública.
+XVII.- Mantener informada a la ciudadanía sobre las gestiones realizadas por "La Dirección", respecto de las peticiones y planteamientos realizados al Ayuntamiento y enterarla de las gestiones desarrolladas con el propósito de cumplimentar dichos planteamientos.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XVIII.- Asesorar a la Presidenta o Presidente Municipal en lo relativo a la contratación y celebración de convenios en materia de programación y presupuesto para la ejecución de obra pública.
 
 XIX.- Organizar y depurar las peticiones y necesidades que en materia de servicios públicos se demanden en el municipio y someterlos a la consideración de la Presidencia Municipal, tomando en cuenta la demarcación geográfica de los barrios y colonias de las zonas urbanas y de las comunidades en el área rural, clasificándolas por rubros y canalizándolas a la dependencia que corresponda, previendo su seguimiento y control hasta lograr la solución en cada caso concreto.
 
-XX.- Las demás que le otorga este Reglamento, el Ayuntamiento y el Presidente Municipal.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XX.- Las demás que le otorga este Reglamento, el Ayuntamiento y la Presidenta o Presidente Municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 23.
 
-Corresponderá al Director de Atención Ciudadana:
+Corresponderá a la Directora o Director de Atención y Participación Ciudadana:
 
 I.- Constituir y coordinar los comités de barrio.
 
 II.- Atender, gestionar y dar seguimiento a las demandas de la ciudadanía.
 
-III.- Recibir programas de trabajo de los Comités de barrio.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-IV.- Recibir quejas sobre anomalías en la venta de bebidas alcohólicas y demás irregularidades que aquejen a la ciudadanía.
+III.- Recibir programas de trabajo de los Comités de Participación Ciudadana.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+IV.- Recibir quejas sobre anomalías en la venta de bebidas alcohólicas y demás irregularidades que aquejen a la ciudadanía, haciéndolas del conocimiento de la Secretaria o Secretario del Ayuntamiento.
 
 V.- Coordinar campañas de mejoramiento ambiental y salud.
 
 VI.- Convocar a los comités de barrios para que asistan a las audiencias públicas con el Presidente Municipal.
 
-VII.- Comunicar a las autoridades municipales el sentir de la ciudadanía.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VIII.- Participar en las giras de trabajo de la Presidenta o Presidente Municipal por las zonas urbanas.
 
 VIII.- Participar en las giras de trabajo del Presidente Municipal por las zonas urbanas.
 
@@ -683,25 +779,33 @@ IX.- Participar en campañas de limpieza, vacunación y reforestación.
 
 X.- Redactar, imprimir y distribuir boletines informativos en los barrios de las comunidades del Municipio de Cuauhtémoc.
 
-XI.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XI.- Conformar y dar seguimiento a los Comités de Participación Ciudadana.
 
 XII.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 24.
 
-Corresponderá al Secretario Particular del Presidente Municipal:
+Corresponderá a la Secretaria o Secretario Particular de la Presidenta o Presidente Municipal:
 
-I.- Llevar la agenda de audiencias del Presidente Municipal; y
+l.- Llevar la agenda de audiencias de la Presidenta o Presidente Municipal; y
 
-II.- Las que el Presidente Municipal le asigne.
+II.- Las que la Presidenta o Presidente Municipal le asigne.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 25.
 
-Corresponderá al Director de Comunicación Social:
+Corresponderá a la Directora o Director de Comunicación Social:
 
 I.- Informar a la Comunidad a través de los diferentes medios de comunicación, las acciones del Ayuntamiento que sean de interés público;
 
-II.- Proporcionar al Presidente Municipal el análisis de la información que publiquen los medios de comunicación acerca del Ayuntamiento en cualquiera de sus aspectos;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+II.- Proporcionar a la Presidenta o Presidente Municipal el análisis de la información que publiquen los medios de comunicación acerca del Ayuntamiento en cualquiera de sus aspectos;
 
 III.- Apoyar al Cabildo y a las Dependencias Municipales en las tareas de difusión que estas requieran para el mejor desempeño de sus actividades;
 
@@ -711,11 +815,99 @@ V.- Promover y apoyar eventos periodísticos y de difusión relativos al Municip
 
 VI.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 26.
 
-Serán funciones del Director de Educación, Cultura y Deporte:
+Serán funciones de la Directora o Director Jurídico:
 
-l.- Fomentar, organizar y realizar eventos y ceremonias cívicas, y en su caso coordinarse con las dependencias competentes de los gobiernos federal y estatal.
+I.- Dar consulta legal al Cabildo, Presidenta o Presidente Municipal y, en general, a todas las dependencias del Municipio, cuando así lo requieran para el mejor desempeño de sus actividades;
+
+II.- Tramitar los juicios y amparos en los que el Ayuntamiento fuere parte;
+
+III.- Formular los anteproyectos de los reglamentos municipales;
+
+IV.- Preparar los documentos legales que el Ayuntamiento, la Presidenta o Presidente Municipal deberán enviar a los Gobiernos Federal y Estatal, así como a los particulares;
+
+V.- Revisar e intervenir en los contratos y convenios municipales;
+
+VI.- Representar al Ayuntamiento, la Presidenta o al Presidente Municipal en los asuntos legales que estas autoridades indiquen;
+
+VII.- Compilar las normas jurídicas del Ayuntamiento, así como manejar la legislación federal y estatal relativa al ámbito municipal;
+
+VIII.- Proponer a la Presidenta o Presidente reformas a las normas jurídicas municipales;
+
+IX.- Instaurar procedimientos administrativos y recibir comparecencias, testimonios y ratificaciones respecto de asuntos que atañen al Ayuntamiento; y (sic)
+
+X.- Ejercer las funciones y coordinar las actividades que le competen en materia electoral;
+
+XI.- Promover y participar en el establecimiento de convenios entre el Ayuntamiento y el Instituto Electoral del Estado para el ejercicio de las funciones propias del área;
+
+XII.- Auxiliar en el registro electoral manteniendo su vigencia e informar al Ayuntamiento y el Instituto electoral del Estado, la situación del mismo;
+
+XIII.- Coadyuvar en la vigilancia y brindar el apoyo que compete al Ayuntamiento para el desarrollo de los comicios electorales.
+
+XIV.- Llevar el registro de cultos y mantener actualizado el padrón de los responsables de los templos establecidos en el Municipio.
+
+XV.- Vigilar y supervisar, las actividades religiosas que se desarrollen en el Municipio, a fin de que sean ajustadas las disposiciones legales relativas.
+
+XVI.- Remitir tanto a la Secretaria General de Gobierno como a la Secretaría de Gobernación los informes que le sean requeridos respecto al establecimiento de cultos y sectas religiosas en el Municipio.
+
+XVII.- Ejercer las funciones de la Junta Municipal de Reclutamiento.
+
+XVIII.- Coordinar el desarrollo de las funciones de las Juntas de Reclutamiento en las comunidades que pertenezcan al Municipio.
+
+XIX.- Expedir las constancias de registro de personas inscritas en el Padrón de la Junta Municipal de Reclutamiento.
+
+XX.- Detectar y vigilar cualquier actividad pública que altere el orden de la Comunidad.
+
+XXI.- Llevar un control de registro de las actividades sociales, políticas, económicas, culturales o de cualquier otra Índole que implique congregación o movimiento de masas en el Municipio.
+
+XXII.- Ser la Dependencia que guarda contacto permanente y directo con las Autoridades Municipales del medio rural.
+
+XXIII.- Formular y ejecutar en coordinación con las dependencias competentes los programas de apoyo, seguridad pública y readaptación social.
+
+XXIV.- Coordinar las labores con el Director de Seguridad Pública y Vialidad Municipal y supervisar las funciones administrativas de la misma.
+
+XXV. - Coordinar las acciones que en materia de seguridad pública instauren las Autoridades Municipales en la zona rural.
+
+XXVI.- Llevar una estadística de las conductas antisociales o faltas administrativas en que Incurra la ciudadanía y que sean competencia y conozcan de ellos las Autoridades Municipales de la zona rural o el Director de Seguridad Pública y Vialidad.
+
+XXVII.- Elaborar y controlar las estadísticas políticas y demográficas del Municipio.
+
+XXVIII.- Cuidar la debida observancia de la Ley de Responsabilidades de los Servidores Públicos y someter a consideración del Presidente Municipal las faltas en que incurran los Funcionarios Municipales.
+
+XXIX.- Vigilar que los funcionarios salientes hagan la debida entrega de las oficinas a los funcionarios entrantes, ya sea por conclusión de encargo o por separación de la fuente de trabajo.
+
+XXX.- Denunciar ante las autoridades competentes, los casos que lo ameriten conforme a la Ley.
+
+XXXI.- Auxiliar y apoyar en sus funciones al Oficial del Registro Civil.
+
+XXXII.- Elaborar y proponer al Presidente Municipal los anteproyectos de leyes, reglamentos y demás disposiciones que se requieran para el manejo de los asuntos tributarios del municipio;
+
+XXXIII.- Intervenir con el síndico en los juicios en que intervenga el Ayuntamiento;
+
+XXXIV.- Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones legales;
+
+XXXV.- Auxiliar al resolver los recursos o medios de defensa administrativos que se interpongan en contra de actos o resoluciones de la Tesorería o sus dependencias, así como de las diversas promociones que por escrito se presenten ante éstas, respecto de asuntos que sean de su competencia.
+
+XXXVI.- Verificar que los depositarios de bienes embargados en los procedimientos de ejecución cumplan con las obligaciones de su encargo, y en caso contrario, fincar las responsabilidades correspondientes, acordando la sustitución del depositario.
+
+XXXVII.- Asesorar en los casos que se dan al ejercer la facultad de cobro de los créditos fiscales a favor de la hacienda pública municipal, aplicando el Procedimiento Administrativo de Ejecución conforme a las disposiciones fiscales aplicables;
+
+XXXV (SIC).- Vigilar las facultades de comprobación del cumplimiento de las obligaciones fiscales, tanto municipales como coordinadas.
+
+XXXVI.- Participar en el diseño de las formas oficiales de recaudación e implantar los sistemas, procedimientos y métodos en el área de recaudación.
+
+XXXVII.- Las que señalen los demás Reglamentos Municipales.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 27
+
+Serán funciones de la Directora o Director de Educación, Cultura y Deporte:
+
+I.- Fomentar, organizar y realizar eventos y ceremonias cívicas, y en su caso coordinarse con las dependencias competentes de los gobiernos federal y estatal.
 
 II.- Coordinar y ejercer los programas cívicos y sociales que apruebe el Cabildo.
 
@@ -731,7 +923,7 @@ VII.- Establecer y manejar centros juveniles de educación, cultura y deporte.
 
 VIII.- Propiciar la formación de clubes juveniles, coordinar y supervisar sus funciones.
 
-IX.- Elaborar el catálogo de lugares y atractivos turísticos en el municipio.
+XIX (SIC).- Elaborar el catálogo de lugares y atractivos turísticos en el municipio.
 
 X.- Fomentar el turismo en el municipio en coordinación con las autoridades competentes de los gobiernos federal y estatal.
 
@@ -741,73 +933,77 @@ XII.- Participar en la integración y formar parte del Comité Municipal de Educ
 
 XIII.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
-###### ARTICULO 27.
-
-Son atribuciones de la Dirección de Seguridad Pública y Vialidad, las siguientes:
-
-l.- En lo que se refiere a Seguridad Pública:
-
-a) El estudio, la planificación y proposición de los sistemas de organización y funcionamiento de Seguridad Pública y Vialidad en el Municipio.
-
-b) La vigilancia estricta de que las autoridades y elementos de seguridad pública cumplan sus funciones con apego a la Ley y con máxima eficiencia.
-
-c) Promover y fomentar la superación técnica y cultural de los elementos de Seguridad Pública y Vialidad.
-
-d) Formar parte de los Consejos Consultivos de Seguridad Pública y de Tránsito en el que se capten y canalicen las peticiones de la ciudadanía en materia de Seguridad Pública y de Vialidad.
-
-e) Establecer un sistema de información periódica de la actuación del personal de Seguridad Pública y en el caso de que éste incurra en faltas en el desempeño de sus funciones, o en la comisión de delitos, gestionar en su caso, que se apliquen las sanciones que legalmente correspondan.
-
-f) Opinar en cuanto a los convenios de coordinación en materia de Seguridad Pública.
-
-II.- En lo que se refiere a Tránsito:
-
-a) Vigilar permanentemente que todas las vías públicas dentro del Municipio se mantengan en las mejores condiciones posibles de uso y libres de obstáculos, comprendiéndose las avenidas, calles de tránsito ordinario, carreteras de intercomunicación e (sic) general, caminos vecinales, brechas, terracerías, etc.
-
-b) Mantener estrecha comunicación con las autoridades federales y estatales e (sic) tránsito, respecto al señalamiento vial para los conductores de vehículos y para los peatones.
-
-c) Participar en las diferentes campañas de educación vial para conductores de vehículos o para peatones, especialmente en lo concerniente al municipio.
-
-d) Proponer la realización de campañas coordinadamente con la ciudadanía y los medios de comunicación social, tendientes a una mejor conservación, mantenimiento y perfeccionamiento del estado de las vías públicas y en general del tránsito dentro de la jurisdicción municipal.
-
-III.- En lo que se refiere a Transporte:
-
-a) Supervisar que los vehículos que se utilicen para prestar el servicio de transporte dentro del Municipio, reúnan las características, condiciones técnicas y demás requisitos que para tal efecto fijen los Reglamentos respectivos y la Dirección General de Transporte del Estado. Como son:
-
-1).- De carga
-
-2).- De pasajeros:
-
-2.1. Urbano, Suburbano y foráneo.
-
-2.2. Con ruta de itinerario fijo.
-
-2.3. Con ruta fija.
-
-2.4. Servicio
-
-3).- De taxi
-
-4).- Exclusivo de Turismo
-
-5).- Escolar o de Personal de Empresa.
-
-6).- Rural mixto carga- Pasaje.
-
-b).- fomentar la integración del Consejo Consultivo de Transporte y Vialidad, como órganos auxiliares de estudio y opinión técnica para el mejoramiento en la prestación de servicios.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 28.
 
-El Presidente Municipal informará periódicamente al Cabildo en forma general, de las principales actividades desarrolladas por las dependencias municipales.
+Son facultades de la Dirección de Control, Evaluación y Seguimiento las siguientes:
+
+l.- Proponer a la Presidenta o Presidente Municipal las acciones a instrumentar en materia de control, evaluación y seguimiento en todas las áreas administrativas, direcciones y dependencias paramunicipales del H. Ayuntamiento Municipal de Cuauhtémoc, a partir de los ámbitos de competencia marcados por la Ley del Municipio Libre y su reglamentación, así como por los planes de trabajo de sus titulares.
+
+II.- Elaborar Sistema de Control Estadístico para verificar el cumplimiento del Plan Municipal de Desarrollo, a través de sus planes operativos anuales; el programa de gobierno municipal y los subprogramas derivados de este último.
+
+III.- Participar en la entrega-recepción de las dependencias y entidades de la Administración Pública Municipal.
+
+IV.- Presentar a la Presidenta o Presidente Municipal un Programa Anual de Trabajo durante el mes de enero, así como un informe mensual de actividades desarrolladas por la dirección.
+
+V.- Establecer mecanismos eficientes de comunicación interna, a fin de generar información confiable para la toma de decisiones, por parte del la Presidenta o Presidente Municipal y sus colaboradores.
+
+VI.- Dar seguimiento y respuesta por escrito a la correspondencia oficial y ciudadana, dirigida a la Presidenta o Presidente Municipal para solicitar obras y servicios, así como a las peticiones de apoyo captadas durante las Audiencias Públicas.
+
+VII.- Establecer y operar un "Sistema de Quejas, Denuncias y Sugerencias Ciudadanas”.
+
+VIII.- Vigilar el cumplimiento de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima, a través de operación de la Ventanilla Municipal de Acceso a la Información y coordinar la actualización de la página Web del H. Ayuntamiento de Cuauhtémoc.
+
+IX.- Las demás que le confiera esta u otras leyes, reglamentos municipales y acuerdos del H. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 29.
 
-El Tesorero, el Oficial Mayor, los directores y los jefes de área deberán comparecer a las Sesiones de Cabildo cuando para ello fueren requeridos, con el objeto de explicar o aclarar asuntos de su competencia a los Regidores.
+Son facultades de la Dirección de Atención a la Mujer las siguientes:
+
+l.- Promover la perspectiva de género mediante la participación de las mujeres en la toma de decisiones respecto del diserto de los planes y programas de gobierno municipal;
+
+II.- Promover y vigilar que la atención proporcionada en las diversas instituciones públicas o privadas del Municipio, sea proporcionada con perspectiva de género por especialistas en la materia, sin prejuicios ni discriminación alguna;
+
+III.- Coadyuvar con el municipio para integrar el apartado relativo al programa operativo anual de acciones gubernamentales a favor de las mujeres;
+
+IV.- Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y a la equidad de género;
+
+V. Instrumentar acciones tendientes a abatir las inequidades o brechas de género;
+
+VI.- Promover la capacitación y actualización de servidores públicos responsables de emitir políticas públicas de cada sector del Municipio, sobre herramientas y procedimientos para incorporar la perspectiva de género en la planeación local y los procesos de programación presupuestal;
+
+VII.- Brindar orientación a las mujeres del municipio que así lo requieran por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas por razón de su condición;
+
+VIII.- Promover ante las autoridades del sector salud, los servicios de salud antes, durante y después del embarazo, así como promover campañas de prevención y atención de cáncer de mama y cérvicouterino;
+
+IX.- Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables;
+
+X.- Participar en la ejecución y evaluación de las acciones previstas en el Programa Estatal;
+
+XI.- Promover, en coordinación con la Comisión del H. Cabildo respectiva y la Dirección jurídica, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco legal que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración;
+
+XII.- Promover en coordinación con el Estado y otros Municipios, cursos de capacitación a las personas que atienden a receptoras, con la finalidad de unificar criterios en los modelos de Intervención para mujeres violentadas;
+
+XIII.- Promover programas de trabajo comunitario, de concientización y/o de reflexión que permitan a los generadores de violencia darse cuenta de las múltiples consecuencias que acarrea el ejercicio de su violencia;
+
+XII (SIC).- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 30.
 
-Las oficinas administrativas del Ayuntamiento estarán abiertas al público dentro del horario de 8:30 a 15:00 horas, de lunes a viernes. Las dependencias vinculadas directamente con la prestación y vigilancia de los servicios públicos estarán sujetas al horario que más se acomode al adecuado ejercicio de dichas funciones.
+La Presidenta o Presidente Municipal informará periódicamente al Cabildo en forma general, de las principales actividades desarrolladas por las dependencias municipales.
+
+La Tesorera o Tesorero, el o la Oficial Mayor, los Directores (as) y los jefes(as) de área deberán comparecer a las Sesiones de Cabildo cuando para ello fueren requeridos, con el objeto de explicar o aclarar asuntos de su competencia a los Regidores.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 31.
+
+Las oficinas administrativas del Ayuntamiento estarán abiertas al público dentro del horario de 8:30 a 15:00 horas, de lunes a viernes. Las dependencias vinculadas directamente con la prestación y vigilancia de los servicios públicos estarán sujetas al horario que más se acomode al adecuado ejercicio de dichas funciones.
 
 Cuando las circunstancias lo requieran, las diversas áreas de trabajo funcionarán fuera de este horario y de los días establecidos, por lo que los empleados están obligados a desempeñar sus labores en los casos que así se determine.
 
@@ -879,9 +1075,11 @@ La creación y extinción de las demás categorías se declararán por el Cabild
 
 ### CAPITULO III. DE LAS AUTORIDADES AUXILIARES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 40.
 
-Para el auxilio de sus funciones, el Ayuntamiento establecerá Juntas y Comisarias Municipales en los siguiente (sic) lugares:
+Para el auxilio de sus funciones, el Ayuntamiento establecerá Juntas y Comisarías Municipales en los siguientes lugares:
 
 l.- Junta Municipal: Alcaraces.
 
@@ -889,11 +1087,15 @@ II.- Junta Municipal: Quesería.
 
 III.- Junta Municipal: Trapiche.
 
-IV.- Comisarías Municipales: San Joaquín, Chiapa, Ocotillo, Cóbano, Parián, Buena Vista, Cerro Colorado, Palmillas, Ejido Fernández, Alzada, Bajío de la Leona y Montitlán.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+IV.- Comisarias Municipales: San Joaquín, Chiapa, Ocotillo, Cóbano, Parián, Buenavista, Cerro Colorado, Palmillas, Ejido Fernández, Alzada, Bajío de la Leona y Montitlán.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 41.
 
-Las Juntas y Comisarías Municipales se integrarán en la forma prevista en el articulo 61 fracciones I y II de la Ley del Municipio Libre y tendrán a su cargo las atribuciones que en el mismo se señalan.
+Las Juntas y Comisarias Municipales se integrarán en la forma prevista en el artículo 61 fracciones I y II de la Ley del Municipio Libre del Estado de Colima y tendrán a su cargo las atribuciones que en el mismo se señalan.
 
 ###### ARTICULO 42.
 
@@ -919,7 +1121,9 @@ I.- Cumplir y hacer cumplir las disposiciones legales dentro de las esferas de s
 
 II.- Ejecutar las resoluciones del Ayuntamiento en su circunscripción territorial;
 
-III.- Informar al Ayuntamiento a través del Secretario del Ayuntamiento, de todos los asuntos relacionados con su cargo;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+III.- Informar al Ayuntamiento a través de la Secretaria o Secretario del Ayuntamiento, de todos los asuntos relacionados con su cargo;
 
 IV.- Vigilar el orden público;
 
@@ -955,7 +1159,9 @@ VII.- Rendir mensualmente al Ayuntamiento cuenta comprobada y circunstanciada de
 
 VIII.- Rendir anualmente al Ayuntamiento un informe general de ingresos y egresos habidos durante el año fiscal correspondiente;
 
-IX.- Actuar como Oficial del Registro Civil, a través de su Presidente, en los casos y de conformidad con las disposiciones que fije el Ayuntamiento;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+IX.- Actuar como Oficial del Registro Civil, a través de su Presidenta o Presidente, en los casos y de conformidad con las disposiciones que fije el Ayuntamiento;
 
 X.- Auxiliar a las autoridades sanitarias en la ejecución de sus disposiciones y programas;
 
@@ -1065,17 +1271,23 @@ El Cabildo establecerá, mediante programas específicos, las modalidades y cara
 
 I.- El Presidente Municipal, fomentará la formación de organismos de participación ciudadana en las colonias y barrios de la Comunidad de Cuauhtémoc, tomando en cuenta la zonificación que al efecto determine; en las comunidades rurales se adoptarán las características particulares de cada una de ellas;
 
-II.- Dichas organizaciones podrán ser: Comités de Barrios, Clubes Juveniles, Comités para Obras Determinadas y las demás que acuerde el Presidente;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+II.- Dichas organizaciones podrán ser: Comités de Participación Ciudadana, Clubes Juveniles, Comités para Obras Determinadas y las demás que acuerde el Presidente;
 
 III.- Las organizaciones de participación ciudadana tendrán como objetivo coadyuvar responsable y eficazmente con la administración municipal en las tareas públicas y, para tal efecto, además de las funciones que para estas organizaciones, señala el presente ordenamiento, el Presidente Municipal establecerá con ellas en cada caso, las funciones específicas que desarrollarán en su área de influencia, sea en el medio urbano como en el rural; y
 
 IV. Estas organizaciones estarán integradas por, ciudadanos y jóvenes caracterizados por su espíritu de servicio comunitario y deberán ser electos por sus propios vecinos y compañeros.
+
+(REPUBLICADO, P.O. 10 DE OCTUBRE DE 2009)
 
 ###### ARTICULO 57.
 
 El Presidente Municipal, a través de la dependencia competente, podrá formular un Programa Integral orientado a rescatar y preservar las tradiciones culturales del Municipio y a enaltecer el valor de la provincia mexicana. En él se especificarán las acciones que corresponda desarrollar a las organizaciones de participación ciudadana.
 
 ### CAPITULO II. DE LOS VECINOS Y HABITANTES DEL MUNICIPIO
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 58.
 
@@ -1115,7 +1327,9 @@ Las organizaciones de participación ciudadana serán las siguientes:
 
 I.- El Consejo de Colaboración Municipal;
 
-II.- Los Comités de Barrios;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+II.- Los Comités de Participación Ciudadana;
 
 III.- Los Comités para Obras Determinadas; y
 
@@ -1125,19 +1339,25 @@ IV.- Las demás que determine el Cabildo o el Presidente Municipal.
 
 El Consejo de Colaboración Municipal se integrará en la forma que señala la Ley de Planificación y Urbanismo y ejercerá las atribuciones que este mismo ordenamiento le confieren.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 63.
 
-La Junta de Barrios será la reunión de los Presidentes de los Comités de Barrios establecidos que tendrá como principal atribución fijar conjuntamente con el Presidente Municipal, los lineamientos generales que normarán el funcionamiento de estas organizaciones de participación ciudadana, además de ser el conducto para que se hagan llegar a las autoridad municipal las peticiones de los ciudadanos relativas a aspectos generales de los servicios y obras públicas.
+La Junta de Barrios será la reunión de los Presidentes(as) de los Comités de Participación Ciudadana establecidos, que tendré como principal atribución fijar, conjuntamente con la Presidenta o Presidente Municipal, los lineamientos generales que normarán el funcionamiento de estas organizaciones de participación ciudadana, además de ser el conducto para que se hagan llegar a la autoridad municipal las peticiones de los ciudadanos relativas a aspectos generales de los servicios y obras públicas.
 
-La Junta de Barrios se reunirá las veces que así se considere conveniente a solicitud del Presidente Municipal o de cuando menos tres de sus miembros. A las reuniones podrán asistir los demás directivos de los Comités de Barrios. Las reuniones serán presididas Por el Presidente Municipal.
+La Junta de Barrios se reunirá las veces que así se considere conveniente, a solicitud de la Presidenta o Presidente Municipal o de cuando menos tres de sus miembros. A las reuniones podrán asistir los demás directivos de los Comités de Barrio. Las reuniones serán presididas por la Presidenta o Presidente Municipal.
 
-La Junta, por conducto del Presidente Municipal, podrá invitar a sus reuniones a funcionarios estatales y federales con el propósito de hacer llegar los mismos, en el ramo correspondiente, el sentir de los ciudadanos en torno a las tareas públicas desempeñadas por las dependencias que sean titulares.
+La Junta, por conducto de la Presidenta o Presidente Municipal, podrá invitar a sus reuniones a funcionarios estatales y federales con el propósito de hacer llegar a los mismos, en el ramo correspondiente, el sentir de los ciudadanos en torno a las tareas públicas desempeñadas por las dependencias que sean titulares.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 64.
 
-Los comités de Barrio serán órganos de información, consulta, promoción y gestión social y tendrán las siguientes atribuciones:
+Los comités de Participación Ciudadana serán órganos de información, consulta, promoción y gestión social y tendrán las siguientes atribuciones:
 
-I.- Coadyuvar para el cumplimiento eficaz de los programas parciales y generales de gobierno que formulen el Cabildo y el Presidente Municipal;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+I.- Coadyuvar para el cumplimiento eficaz de los programas parciales y generales de gobierno que formulen el Cabildo y la Presidenta o Presidente Municipal;
 
 II.- Promover la participación y colaboración de los habitantes del Municipio en la realización de obras o prestaciones de servicios de interés colectivo y, en general, en todos los aspectos de beneficio social;
 
@@ -1147,19 +1367,25 @@ IV.- Proponer a las autoridades municipales las medidas que estimen convenientes
 
 V.- Las demás que le señalen los reglamentos municipales.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 65.
 
-El Presidente Municipal determinará el área territorial que comprenderá cada Comité de Barrio que se establezca. Estos órganos estarán integrados por un Presidente, un Secretario, un Tesorero y tres Vocales electos democráticamente por sus propios vecinos.
+La Presidenta o Presidente Municipal determinará el área territorial que comprenderá cada Comité de Barrio que se establezca. Estos órganos estarán integrados por un Presidente, un Secretario, un Tesorero y tres Vocales electos democráticamente por sus propios vecinos. El Comité de Barrio deberá reunirse por lo menos una vez al mes para tratar los asuntos de su competencia.
 
-El Comité de Barrio deberá reunirse por lo menos una vez al mes para los asuntos de su competencia.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 66.
 
-Los Presidentes de los Comités de Barrios serán los representantes de los mismos ante las autoridades municipales, estos tendrán la obligación de atender diligentemente los reportes sobre deficiencias en los servicios públicos que aquellos les turnaren. Los titulares de las dependencias municipales establecerán un sistema de control para verificar que los reportes presentados sean efectivamente atendidos.
+Las Presidentas o los Presidentes de los Comités de Barrios serán los representantes de los mismos ante las autoridades municipales; estos tendrán la obligación de atender diligentemente los reportes sobre deficiencias en los servicios públicos que aquellos les turnaren. Los titulares de las dependencias municipales establecerán un sistema de control para verificar que los reportes presentados sean efectivamente atendidos.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 67.
 
-El Presidente Municipal, designará a la persona que como Coordinador de Participación Ciudadana coordine las actividades de los Comités de Barrio y dependerá de aquél.
+La Presidenta o Presidente Municipal, elegirá conforme al reglamento respectivo a la persona que como Presidenta o Presidente del Comité de Participación Ciudadana coordine las actividades de los Comités y dependerá directamente de la Dirección de Atención y Participación Ciudadana.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 68.
 
@@ -1167,9 +1393,11 @@ Los Comités para Obra Determinada serán organizaciones de ciudadanos integrada
 
 ### CAPITULO IV. DEFENSA JURIDICA DE LOS PARTICULARES
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 69.
 
-La administración municipal deberá sujetar su actuación a las facultades que le estén conferidas por la ley, los reglamentos, los acuerdos dictados por el Cabildo o por el Presidente Municipal. Las resoluciones de las autoridades municipales deberán hacerse por escrito, en las que se expresarán las razones o motivos que hubieren tenido para dictarlas, citando el o los preceptos legales, en que se apoya.
+La administración municipal deberá sujetar su actuación a las facultades que le estén conferidas por la Ley de Procedimiento Administrativo para el Estado y sus Municipios, los reglamentos, los acuerdos dictados por el Cabildo o por Presidente Municipal. Las resoluciones de las autoridades municipales deberán hacerse por escrito, en las que se expresarán las razones o motivos que hubieren tenido para dictarlas, citando el o los preceptos legales en que se apoya.
 
 ###### ARTICULO 70.
 
@@ -1212,5 +1440,9 @@ Lic. Cesar Ceballos Gómez.- Presidente Municipal.- Rubrica.- C. Pedro Martínez
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 22 DE MARZO DE 2003.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+
+P.O. 10 DE OCTUBRE DE 2009.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
