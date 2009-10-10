@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interno-del-consejo-consultivo-de-desarrollo-23172"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-05"
-last_updated: "2002-01-05"
+last_updated: "2009-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO INTERNO DEL CONSEJO CONSULTIVO DE DESARROLLO URBANO DEL MUNICIPIO DE CUAUHTEMOC, COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 5 de enero de 2002.
 
@@ -43,15 +43,17 @@ C A P I T U L O I
 
 D I S P O S I C I O N E S
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 1.
 
 Las disposiciones de este reglamento son de orden público e interés social y se expide con el objeto de regular la integración, organización y funcionamiento del Consejo Consultivo de Desarrollo Urbano del Municipio de Cuauhtémoc, Colima, conforme a los fines señalados en el párrafo III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 2.
 
-El Consejo Consultivo es un órgano colegiado tripartita de participación social, de
-
-(sic) promoción de carácter técnico y consultivo del H. Ayuntamiento de Cuauhtémoc, Colima, para promover, impulsar, controlar el Desarrollo Urbano en el Municipio.
+El Consejo Consultivo es un órgano colegiado tripartita de participación social, de promoción, de carácter técnico y consultivo del H. Ayuntamiento de Cuauhtémoc, Colima, para promover, impulsar y controlar el Desarrollo Urbano en el Municipio.
 
 ###### Artículo 3.
 
@@ -65,19 +67,23 @@ El consejo tiene su jurisdicción en el ámbito del desarrollo urbano del Munici
 
 El Consejo tendrá su sede en el Palacio Municipal, y recibirá en forma permanente las opiniones, sugerencias y demandas en la materia por conducto de la Dirección de Desarrollo Urbano y Obras Públicas.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 6.
 
-Durante el primer trámite de cada tres años, el H Cabildo entregará los nombramientos a los nuevos integrantes del Consejo o ratificará a los miembros en funciones. Los Sectores públicos, social y privados podrán en cualquier tiempo, cambiar a sus representantes, informándolo por escrito y oportunamente al Consejo.
+Durante el primer trámite de cada tres años, el H. Cabildo entregará los nombramientos a los nuevos integrantes del Consejo o ratificará a los miembros en funciones. Los Sectores públicos, social y privados podrán en cualquier tiempo, cambiar a sus representantes, informándolo por escrito y oportunamente al Consejo.
 
 C A P I T U L O II
 
 DE LA INTEGRACION
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 7.
 
-En la integración de este organismo participarán asociaciones representativas de la comunidad, que demuestren interés y capacidad técnica en sus representantes, dependencias de los tres niveles de Gobierno relacionadas con el Desarrollo Urbano, con el fin de garantizar que las recomendaciones emitidas por este organismo representen fielmente los interese (sic) sociales.
+En la integración de este organismo participarán asociaciones representativas de la comunidad, que demuestren interés y capacidad técnica en sus representantes, dependencias de los tres niveles de Gobierno relacionadas con el Desarrollo Urbano, con el fin de garantizar que las recomendaciones emitidas por este organismo representen fielmente los intereses sociales.
 
-Por ello, para lograr la legalización urbanística, se busca también que al participar la sociedad, se vean involucrados asociaciones de arquitectos, ingenieros, notarios, servidores públicos y técnicos especialistas en materia de Desarrollo Urbano, así como representantes de grupos sociales y sectores involucrados en el Desarrollo Urbano del (sic) Cuauhtémoc, conforme a lo estipulado en el artículo 30 de la Ley de Asentamientos Humanos del Estado de Colima.
+Por ello, para lograr la legalización urbanística, se busca también que al participar la sociedad, se vean involucrados asociaciones de arquitectos, ingenieros, notarios, servidores públicos y técnicos especialistas en materia de Desarrollo Urbano, así como representantes de grupos sociales y sectores involucrados en el Desarrollo Urbano de Cuauhtémoc, conforme a lo estipulado en el artículo 30 de la Ley de Asentamientos Humanos del Estado de Colima.
 
 ###### Artículo 8.
 
@@ -101,9 +107,11 @@ a).- Las Asociaciones de profesionistas relacionados con las actividades propias
 
 b).- En caso de haber en el Municipio. Las Asociaciones civiles y profesionistas especializados en materia de Desarrollo Urbano en la localidad, manifestando por escrito sus motivos y razones que los inducen a formar parte del Consejo Consultivo.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 10.
 
-EL SECTOR PRIVADO estará integrado por los siguientes consejeros, uno por cada uno (sic) de las Cámaras con representación local de: Comercio, construcción e industria.
+EL SECTOR PRIVADO estará integrado por los siguientes consejeros, uno por cada una de las Cámaras con representación local de: Comercio, construcción e industria.
 
 ###### Artículo 11.
 
@@ -121,9 +129,11 @@ C A P I T U L O III
 
 DE LAS FUNCIONES Y ATRIBUCIONES DEL CONSEJO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 13.
 
-El consejo tendrá las siguientes funciones y atribuciones:
+El Consejo tendrá las siguientes funciones y atribuciones:
 
 I.- Promover, impulsar y controlar el Desarrollo Urbano en el Municipio en forma ordenada, equilibrada, equitativa y participativa.
 
@@ -137,17 +147,25 @@ V.- Informar permanentemente a la comunidad sobre los aspectos vinculados con el
 
 VI.- Proponer al Ayuntamiento la creación y/o ampliación de los servicios públicos o el mejoramiento de los existentes de acuerdo con las propiedades expresadas por los distintos grupos que integran la comunidad.
 
-VII.- Promover y coordinar la colaboración de los sectores privado y social, en proyectos y obras de urbanización, equipamiento, infraestructura y servicios públicos de acuerdo a lo marcado por la Ley Estatal de Asentamientos Humanos, del Estado, en cuanto al Título Séptimo denominado “De los sistemas de participación para el Desarrollo Urbano”.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-VIII.- Gestionar ante el H Ayuntamiento la participación de las dependencias federales y estatales, así como de personas e instituciones privadas, en todo aquello que contribuya al Desarrollo Urbano.
+VII.- Promover y coordinar la colaboración de los sectores privado y social, en proyectos y obras de urbanización, equipamiento, infraestructura y servicios públicos de acuerdo a lo marcado por la Ley Estatal de Asentamientos Humanos del Estado de Colima, en cuanto al Título Séptimo denominado “De los sistemas de participación para el Desarrollo Urbano”.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VIII.- Gestionar a través el (sic) H. Ayuntamiento la participación de las dependencias federales y estatales, así como de personas e instituciones privadas, en todo aquello que contribuya al Desarrollo Urbano.
 
 IX.- Promover la capacitación técnica en materia de Desarrollo Urbano.
 
-X.- Integrar grupos de trabajo a comisiones técnicas temporales que se aboquen al estudio, análisis y opinión sobre situaciones y problemas específicos del Desarrollo Urbano del Municipio.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+X.- Integrar grupos de trabajo o comisiones técnicas temporales que se aboquen al estudio, análisis y opinión sobre situaciones y problemas específicos del Desarrollo Urbano del Municipio.
 
 XI.- Opinar sobre los reglamentos de: zonificación, anuncios, vialidad, construcción y otros relacionados con el Desarrollo Urbano del Municipio.
 
-XII.- Vigilar el estricto apego a los Programas de Desarrollo Urbano, de centros de población así como las actividades de éstos, la legislación normativa y reglamentaria en materia de Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+XII.- Vigilar el estricto apego a los Programas de Desarrollo Urbano de centros de población, así como los objetivos de éstos, la legislación normativa y reglamentaria en materia de Desarrollo Urbano.
 
 XIII.- Así como las demás funciones y atribuciones que señala la Ley de Asentamientos Humanos del Estado de Colima, en su artículo treinta y tres.
 
@@ -155,9 +173,13 @@ C A P I T U L O IV
 
 DE LAS FACULTADES Y OBLIGACIONES DE LOS INTEGRANTES DEL CONSEJO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 14.
 
-Facultades y obligaciones del Presidente. Las obligaciones del Presidente serán:
+Facultades y obligaciones del Presidente serán.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE OCTUBRE DE 2009)</small>
 
 I.- Presidir y representar al Consejo.
 
@@ -173,23 +195,109 @@ VI.- Proponer en la primera reunión anual, el calendario de sesiones Ordinarias
 
 VII.- Tomar en consideración las decisiones y acuerdos del Consejo, para su Plan de Trabajo.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE OCTUBRE DE 2009)</small>
+
 VIII.- Designar representante en su ausencia. El Presidente del Consejo Consultivo emitirá las constancias que acreditan la calidad del Consejero a cada uno de los integrantes del mismo al momento del nombramiento o ratificación en su caso.
 
-Artículo 16 (sic).- El Secretario Técnico tendrá las siguientes funciones:
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-1.- Someter al Consejo la aprobación del Orden del Día, pasar lista a los miembros del Consejo y llevar el registro correspondiente, para hacer la declaración de Quórum Legal.
+###### Artículo 15.
 
-2.- Leer el acta de la Sesión anterior y someterla a su aprobación.
+El Secretario Técnico tendrá las siguientes funciones:
 
-3.- Convocar a las reuniones Ordinarias.
+I.- Someter al Consejo la aprobación del Orden del Día, pasar lista a los miembros del Consejo y llevar el registro correspondiente, para hacer la declaración de Quórum Legal.
 
-4.- Circular con oportunidad ante los miembros del Consejo los citatorios, programas, proyectos y dictámenes que deban conocer los Consejeros.
+II.- Leer el Acta de la Sesión anterior y someterla a su aprobación.
 
-5.- Llevar el cómputo de las votaciones y registrar el resultado de cada asunto que se someta a votación.
+III.- Convocar a las reuniones Ordinarias.
 
-6.- Las demás que le señale o le encomiende el Consejo.
+IV.- Circular con oportunidad ante los miembros del Consejo los citatorios, programas, proyectos y dictámenes que deban conocer los Consejeros.
 
-7.- Levantar las actas de cada una de las Sesiones del Consejo y consignarlas debidamente firmadas en el libro respectivo.
+V.- Llevar el cómputo de las votaciones y registrar el resultado de cada asunto que se someta a votación.
+
+VI.- Las demás que le señale o le encomiende el Consejo.
+
+VII.- Levantar las actas de cada una de las Sesiones del Consejo y consignarlas debidamente firmadas en el libro respectivo.
+
+VIII.- Tendrá a su cargo la vigilancia y estricto seguimiento del funcionamiento del Consejo, informando oportunamente al Presidente y al Pleno del Consejo, de cualquier rezago o desviación, en término de los objetivos del organismo y acuerdos respectivos.
+
+IX. Informará a los miembros de Consejo sobre cualquier asunto relativo a su competencia, entregando las minutas definitivas y debidamente firmadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 16.
+
+Obligaciones de los Consejeros:
+
+I.- Asistir con regularidad y puntualidad a las reuniones del Consejo.
+
+II.- Procurar documentarse para emitir juicios que se encuentren fundados y motivados, así como proponer soluciones en los asuntos que se discutan en el seno del Consejo.
+
+III.- Informar y buscar apoyo de los organismos e Instituciones que cada uno representa para las decisiones y acuerdos en el seno del Consejo.
+
+IV.- Los miembros del Consejo permanecerán en su cargo por tiempo indefinido en tanto no sean cambiados por sus representados o que legalmente estén impedidos para hacerlo.
+
+V.- Los Consejeros suplentes tendrán todos los derechos del titular, únicamente para las reuniones que no asista el propietario. Las suplencias serán casuísticas y no permanentes.
+
+VI.- Integrar y actualizar el Banco de Información en materia de Desarrollo Urbano con (sic) documentos siguientes:
+
+A).- EN EL MARCO DE LA PLANEACIÓN
+
+a).- Plan Nacional de Desarrollo 2007-20012;
+
+b).- Programa Nacional de Desarrollo Urbano y Vivienda;
+
+c).- Programa Nacional del Medio Ambiente;
+
+d).- Programa Estatal de Desarrollo 2004-2009;
+
+e).- Programa Estatal de Desarrollo Urbano;
+
+.
+
+f).- Programa Municipal de Desarrollo Urbano;
+
+g).- Programas de Desarrollo Urbano de Centros de Población.
+
+h).- Programa Parciales de Urbanización; y
+
+i).- Programa (sic) Sectoriales.
+
+B).- EN EL MARCO LEGAL
+
+a).- Constitución Política de los Estados Unidos Mexicanos;
+
+b).- Ley General de Planeación;
+
+c).- Ley General de Asentamientos Humanos;
+
+d).- Constitución Política del Estado Libre y Soberano de Colima;
+
+e).- Ley Estatal de Planeación;
+
+f).- Ley de Asentamientos Humanos del Estado de Colima;
+
+g).- Reglamento de Zonificación para el Estado;
+
+h).- Ley del Municipio Libre del Estado de Colima.
+
+i).- Ley de Ingresos para el Municipio de Cuauhtémoc;
+
+j).- Ley de Catastro del Estado de Colima; y,
+
+k).- Reglamento del Desarrollo Urbano y Seguridad Estructural.
+
+Este acervo tendrá como depositario al Consejero Secretario Técnico.
+
+VII.- Informar a sus representados sobre los asuntos tratados en el Consejo e integrar el expediente documental.
+
+VIII.- Participar en los grupos de trabajo temporales que se integran para el análisis y opinión de asuntos o problemas específicos.
+
+IX.- Respetar los acuerdos emanados de las reuniones del Consejo, asegurándose que sus representados los cumplan.
+
+X.- Los Consejeros tendrán derecho de voz y voto.
+
+XI.- Se abstendrán de votar y también de discutir, los Consejeros que tuvieran interés particular en el asunto de controversia.
 
 ###### Artículo 17.
 
@@ -277,11 +385,13 @@ C A P I T U L O V
 
 COMITÉ TÉCNICO DE DESARROLLO URBANO
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 20.
 
 El Comité Técnico estará integrado por:
 
-a).- El Titular de la Dirección de Desarrollo Urbano y Obras Públicas.
+a).- El Titular de la Dirección de Desarrollo Urbano Y Obras Públicas.
 
 b).- Un representante de la dependencia del Poder Ejecutivo Estatal, competente en materia de Desarrollo Urbano y Vivienda.
 
@@ -289,7 +399,11 @@ c).- Un representante de la dependencia del Poder Ejecutivo Federal, competente 
 
 Cada uno de los Titulares podrá hacer uso de la logística propia de sus dependencias para un mejor desempeño de sus funciones.
 
-Artículo 22 (sic).- En la emisión de la Pre-Factibilidad debera tomarse en cuenta la fase estratégica de los Programas de Desarrollo Urbano de los Centros de Población, sustentando legalmente la emisión de dicha opinión oficial.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+Artículo 22 (sic).- En la emisión de la prefactibilidad deberá tomarse en cuenta la fase estratégica de los Programas de Desarrollo Urbano de los Centros de Población, sustentando legalmente la emisión de dicha opinión oficial.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 23.
 
@@ -299,13 +413,19 @@ C A P I T U L O VI
 
 GRUPOS DE TRABAJO
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 24.
 
 Los grupos de Trabajo tendrán carácter temporal y se integrarán cuando a juicio del Consejo, exista una situación que demande o amerite una atención especial.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 25.
 
 Las opiniones y resoluciones ó pre-dictámenes de los grupos de trabajo, no tendrán carácter definitivo, ya que en todos los casos dichas resoluciones tendrán que ser sancionadas por el Consejo en Pleno.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 26.
 
@@ -317,9 +437,13 @@ C A P I T U L O VII
 
 DE LA PARTICIPACIÓN SOCIAL EN EL DESARROLLO URBANO
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 27.
 
 La participación social en el proceso de planeación del Desarrollo Urbano, se promoverá y coordinará en los términos que establece la Ley de Asentamientos Humanos del Estado y de acuerdo con el programa de trabajo anual que formule y ejecute el propio Consejo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 28.
 
@@ -337,7 +461,9 @@ b).- En el segundo foro se hará (sic) las evaluaciones y resultados de los prog
 
 II.- En los foros podrán participar con ponencias todos los ciudadanos que acrediten contar, con un mínimo de un año de residencia en este Municipio.
 
-III.- Para garantizar la participación social, el Consejo emitirá la convocatoria abierta a la ciudadanía a través de los medios masivos de difusión, así mismo, enviará invitación particularizada a las organizaciones con personalidad jurídica acreditada.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+III.- Para garantizar la participación social, el Consejo emitirá la convocatoria abierta a la ciudadanía a través de los medios masivos de difusión, así mismo, enviará invitación personalizada a las organizaciones con personalidad jurídica acreditada.
 
 IV.- El Plan o Proyecto a elaborar o modificar del cual se practican acciones de seguimiento y evaluación, deberá ser difundido ampliamente cuando menos 15 días antes de la realización del foro.
 
@@ -345,23 +471,31 @@ V.- Durante el foro, se hará por el Secretario Técnico, una breve presentació
 
 VI.- Las opiniones ciudadanas serán revisadas y los resultados del foro se darán a conocer públicamente.
 
-VII.- Los resultados de la consulta ciudadana, sobre los Servicios y Desarrollo Urbanos se tendrán a disposición de los interesados en la dependencia municipal correspondiente.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VII.- Los resultados de la consulta ciudadana, sobre los Servicios y Desarrollo Urbanos se tendrán a disposición de los interesados en la Dirección de Desarrollo Urbano y Obras Públicas.
 
 C A P I T U L O VII (SIC)
 
 DE LAS SESIONES
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 30.
 
 Habrá sesiones ordinarias y extraordinarias, el Consejo se reunirá cuando menos una vez al mes y las sesiones se llevarán a cabo en el recinto que se establezca oficialmente en el Palacio Municipal, en los días establecidos en el calendario anual de sesiones, que durante la primera sesión del año, someterá a aprobación el Presidente del Consejo. Una vez aprobado el programa, sé boletinará a todos los Consejeros, así como a las agrupaciones que estos representen.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 31.
 
-El Consejo podrá sesionar cuando se encuentren reunidos como mínimo el 50 cincuenta por ciento más uno de sus miembros acreditados. El padrón de los miembros del Consejo se definirá de acuerdo a los Artículos 7, 8, 9 y 10 del Capítulo II de este Reglamento.
+El Consejo podrá sesionar cuando se encuentren reunidos como mínimo el 50% más uno de sus miembros acreditados. El padrón de los miembros del Consejo se definirá de acuerdo a los Artículos 7, 8, 9 y 10 del Capítulo II de este Reglamento.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 32.
 
-Habrá una orden del día para cada Sesión, elaborada por el Secretario Técnico del Consejo, el que recibirá y ordenará los asuntos una vez que hubiesen sido analizados por el Comité Técnico y que los promotores del programa, estudio, proyecto u obra que hayan presentado para su revisión, cuando menos con dos semanas de anticipación cuando se trate de una Sesión Extraordinaria.
+Habrá una orden del día para cada Sesión, elaborada por el Secretario Técnico del Consejo, mismo que recibirá y ordenará los asuntos una vez que hubiesen sido analizados por el Comité Técnico y que los promotores del programa, estudio, proyecto u obra que hayan presentado para su revisión, cuando menos con dos semanas de anticipación cuando se trate de una Sesión Extraordinaria.
 
 ###### Artículo 33.
 
@@ -397,33 +531,45 @@ Los integrantes que no justifiquen sus faltas en tres sesiones consecutivas del 
 
 Cuando los miembros integrantes del Consejo consideren que el asunto está suficientemente discutido, se procederá a votación.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 41.
 
-El Presidente, el Secretario Técnico, el representante de la dependencia del Poder Ejecutivo Federal y los consejeros miembros del sector privado y social, tendrá (sic) derecho de voz y voto, no así las personas, dependencias y organismos que por sus atribuciones el Consejo estime necesaria su invitación y participación, ya que estos solamente tendrán derecho a voz, en los términos del artículo 28 de este reglamento.
+El Presidente, el Secretario Técnico, los representantes de las dependencias del Poder Ejecutivo Federal y del Poder Ejecutivo Estatal, así como los consejeros miembros del sector privado y social, tendrán derecho de voz y voto, no así las personas, dependencias y organismos que por sus atribuciones el Consejo estime necesaria su invitación y participación, ya que estos solamente tendrán derecho a voz, en los términos del artículo 28 de este Reglamento.
 
 ###### Artículo 42.
 
 Los acuerdos se tomarán por mayoría simple de votos de los miembros asistentes y en caso de empate en la votación, el Presidente del Consejo tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 43.
 
-Se computará un voto por cada uno de los miembros presentes del Consejo. En todos los casos se señalará el resultado de la votación, a fin de que el Ayuntamiento, al conocerlo, pueda valorar el sentido de la misma.
+Se computará un voto por cada uno de los miembros presentes del Consejo. En todos los casos se señalará el resultado de la votación, a fin de que el H. Ayuntamiento, al conocerlo, pueda valorar el sentido de la misma.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 44.
 
-Cuando exista controversia sobre cualquier opinión del Consejo respecto a un proyecto ó programa de Desarrollo Urbano, podrá solicitarse la intervención de la Comisión Estatal de Desarrollo Urbano, siempre y cuando exista la petición de un mínimo del 30 por ciento de los integrantes.
+Cuando exista controversia sobre cualquier opinión del Consejo respecto a un Proyecto ó Programa de Desarrollo Urbano, podrá solicitarse la intervención de la Comisión Estatal de Desarrollo Urbano, siempre y cuando exista la petición de un mínimo del 30 por ciento de los integrantes.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 45.
 
-El mecanismo de participación social para la consulta de los programas de Desarrollo Urbano y sus derivados, se desahogarán con las audiencias públicas que señala el artículo 66 de la Ley de Asentamientos Humanos del Estado.
+El mecanismo de participación social para la consulta de los Programas de Desarrollo Urbano y sus derivados, se desahogarán con las audiencias públicas que señala el artículo 66 de la Ley de Asentamientos Humanos del Estado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 46.
 
 Para efectos del plazo en el que el Consejo Consultivo de Desarrollo Urbano deba emitir su dictamen favorable o desfavorable, se aplicará lo conducente en el artículo 67 de la Ley ya referida.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 47.
 
-Este reglamento interno, será revisado para su actualización, por lo menos al inicio de cada Administración Municipal y ese deberá ser validado por el Consejo en pleno y posteriormente autorizado por el Cabildo, quien lo remitirá para su publicación en el Periódico Oficial del Estado.
+El presente Reglamento, será revisado para su actualización, por lo menos al inicio de cada Administración Municipal y ese deberá ser validado por el Consejo en pleno y posteriormente autorizado por el Cabildo, quien lo remitirá para su publicación en el Periódico Oficial del Estado.
 
 T R A N S I T O R I O S (SIC)
 
@@ -434,3 +580,9 @@ El Presidente Municipal dispondrá se publique, circule y observe.
 Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de Cuauhtemoc, Colima, a los 13 trece días del mes de Diciembre del año 2001 dos mil uno.
 
 Lic. Cesar Ceballos Gómez.- Presidente Municipal.- Rúbrica.- C. Pedro Martínez Rivera.- Síndico.- Rúbrica.- Tec. Teresa Santa Ana Blake.- Regidora.- Rúbrica.- Profa. Ma. De Jesús Fajardo López.- Regidora.- Rúbrica.- C. Salvador Vizcaíno Guardado.- Regidor.- Rúbrica.- Carlos Yáñez Ibarra.- Regidor.- Rúbrica.- C. Alfonso Michel Aguirre.- Regidor.- Rúbrica.- Licda. Sandra Y. Ramírez Santillán.-Regidora.- Rúbrica.- C. Luis E. Martínez Ceballos.- Regidor.- Rúbrica.- Dr. Ismael Estrada Ruíz.- Regidor.- Rúbrica.- Lic. Esteban González Rodríguez.- Secretario del H. Ayuntamiento.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE OCTUBRE DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
