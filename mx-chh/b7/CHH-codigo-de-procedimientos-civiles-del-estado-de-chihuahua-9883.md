@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2008-07-30"
+last_updated: "2009-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -431,31 +431,27 @@ Las diligencias de prueba y las demás actuaciones judiciales serán reservadas 
 
 74.- Las audiencias se celebrarán, concurran o no las partes. Los alegatos verbales que en ella produzcan los interesados no se harán constar en autos ni podrán exceder de media hora por cada parte incluyendo las réplicas y contrarréplicas. Las partes podrán, en todo caso, presentar en la audiencia sus alegaciones por escrito, las cuales se mandarán agregar a los autos.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
 
-75.- Todos los escritos que se dirijan a los tribunales del Poder Judicial del Estado, deberán presentarse necesariamente en la Oficialía de Turnos correspondiente, la que hará constar el día y la hora en que se reciban.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-Los promoventes pueden exhibir una copia simple de sus escritos, a fin de que la oficialía de turnos respectiva anote en aquélla la fecha de presentación, cuya constancia será firmada y sellada por el empleado que la reciba.
+75.- Todas las demandas y en general todos los escritos con que se inicie un procedimiento, deberán presentarse necesariamente en la Oficialía de Turnos correspondiente, la que hará constar el día y hora en que se reciban, así como los documentos que se anexan.
 
-En la Oficialía de Turnos se realizará la captura del contenido de los escritos por medios electrónicos adecuados y, en su oportunidad, serán integrados al respectivo expediente digital, para su consulta por quienes hayan sido autorizados para ello.
+En la Oficialía de Turnos se realizará la captura por medios electrónicos adecuados, del contenido de las demandas y escritos a que se refiere el párrafo anterior y, en su oportunidad, serán integrados al respectivo expediente digital, para su consulta por quienes hayan sido autorizados, remitiéndose inmediatamente al Juzgado en turno y recabándose el recibo respectivo para su resguardo.
 
-El mismo día en que se reciba y se haga la captura a que se refiere el párrafo anterior, el documento original deberá enviarse al tribunal correspondiente, recabándose el debido recibo para su resguardo.
+Serán el día y la hora de recepción de los documentos que haya asentado la Oficialía de Turnos, la que se entenderá como fecha de presentación de los mismos, salvo en los lugares donde no exista dicha oficialía, en cuyo caso la recepción y captura digital se hará por los Tribunales ante los que se presenten tales documentos, con todos los efectos legales conducentes.
 
-Si se trata de la demanda o escrito que inicie un procedimiento, una vez capturado su contenido por medios electrónicos, se remitirá para su trámite al Juzgado en turno.
+Fuera de los casos a que se refieren los párrafos anteriores, los escritos y demás promociones de trámite se presentarán directamente ante el Tribunal en el que se ventile el asunto, el que realizará la captura y digitalización de los mismos.
 
-El Secretario del Juzgado o Sala que corresponda, o quien haga sus veces, dará cuenta a su superior de los documentos recibidos, a más tardar dentro de las veinticuatro horas siguientes a su recepción, para lo cual y con ese único propósito, hará constar el día y la hora en que se reciba en el Tribunal el documento.
+El Secretario del Juzgado, o quien haga sus veces, dará cuenta a su superior de los documentos recibidos, a más tardar dentro de las veinticuatro horas siguientes a su recepción, para lo cual y con ese único propósito, hará constar el día y la hora en que se reciba en el Tribunal el documento.
 
-Serán el día y la hora de recepción de los documentos que haya asentado la Oficialía de Turnos, la fecha de presentación de los mismos, para todos los efectos legales que procedan, salvo lo dispuesto en el siguiente párrafo.
+Tanto de las demandas y escritos a que se refiere el párrafo primero, como de las promociones que se mencionan en el párrafo cuarto, podrán los promoventes exhibir una copia simple de los mismos, a fin de que se anote la fecha y hora de su presentación, cuya constancia será firmada y sellada por el empleado que los reciba.
 
-En los lugares donde no exista Oficialía de Turnos, la recepción y captura digital se hará por los Tribunales ante los que se presenten los documentos, con todos los efectos legales conducentes.
+El Pleno del Supremo Tribunal de Justicia determinará los mecanismos que garanticen la veracidad en la fecha y hora de recepción de tales documentos.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
+En asuntos competencia de las salas del Supremo Tribunal de Justicia, las oficialías de turnos de segunda instancia, recibirán las demandas o escritos iniciales y promociones procediendo a la captura y digitalización de sus contenidos.
 
-Las promociones escritas para comparecer o gestionar en las audiencias también podrán presentase directamente en la sala o juzgado en que se celebre dicha audiencia y, en su oportunidad, se realizará su captura electrónica, sea por la oficialía de turnos correspondiente o la oficina donde se tramite el asunto.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2004)</small>
-
-Igual regla se aplicará a los oficios, exhortos, y comunicaciones que reciban los tribunales.
+Las demandas o escritos iniciales y promociones que se presenten de manera diferente a la señalada en este artículo, se tendrán por no presentados.
 
 76.- Los jueces y magistrados recibirán por sí todas las declaraciones y presidirán todos los actos de prueba asistidos de sus secretarios o de las personas que hagan sus veces. Sin embargo, en casos de urgencia y cuando el despacho de las labores del Tribunal lo exijan, podrán encomendar a sus secretarios la recepción de las declaraciones o diligencias de prueba, con excepción de aquéllas que requieran su intervención personal de modo indispensable.
 
@@ -4778,3 +4774,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El servicio del Registro Civil se brinda en Oficinas Estatales, Municipales y Seccionales. Las firmas autógrafas podrán aplicarse en cualquier Oficia lía del Estado y la electrónica estará vigente en las Oficialías Estatales, en los Centros Digitales de Trámites y Servicios y en las Recaudaciones de Rentas. En las Oficialías Municipales y Seccionales, el Registro Civil tendrá la facultad para incorporarlas a la firma electrónica conforme avance su modernización.
+
+P.O. 10 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
