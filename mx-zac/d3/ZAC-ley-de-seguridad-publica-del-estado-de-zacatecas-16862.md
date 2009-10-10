@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-seguridad-publica-del-estado-de-zacatecas-16862"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-28"
-last_updated: "2008-12-24"
+last_updated: "2009-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 10 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 28 de junio del 2000.
 
@@ -1030,3 +1032,29 @@ Artículo sexto.- Dentro de los noventa días naturales siguientes a la publicac
 Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
 
 Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE OCTUBRE DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abrogan los siguientes ordenamientos:
+
+- Ley de Seguridad Pública del Estado de Zacatecas, publicada en Suplemento número 72 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 28 de junio del año 2000.
+
+- Acuerdo que Crea el Instituto de Formación Profesional de la Procuraduría General de Justicia del Estado, publicado en Suplemento al número 13 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 13 de febrero de 1999.
+
+- Reglamento Interior de la Policía Estatal Preventiva, publicado en Suplemento 3 al número 34 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 29 de abril del año 2006.
+
+TERCERO.- El Consejo Estatal de Seguridad Pública, deberá adecuarse a lo establecido en la presente Ley, a más tardar 60 días naturales posteriores a su entrada en vigor.
+
+CUARTO.- El Programa Estatal de Seguridad Pública, deberá expedirse dentro de los 120 días naturales siguientes a la entrada en vigor de esta Ley. Para ello, deberá contemplarse el tiempo que resta a la administración en turno.
+
+QUINTO.- El Ejecutivo del Estado, contará con el plazo de 90 días a partir de la entrada en vigor de esta Ley, para conformar los Sistemas y Centros a que la misma se refiere.
+
+SEXTO.- El Ejecutivo del Estado, deberá expedir el Reglamento de esta Ley, en un plazo no mayor de 60 días contados a partir de la entrada en vigor de este Decreto.
+
+SÉPTIMO.- Los Ayuntamientos del Estado, deberán expedir sus reglamentos municipales en materia de seguridad pública de conformidad con esta Ley, en un plazo no mayor de 120 días contados a partir de la entrada en vigor de este Decreto.
+
+OCTAVO.- El Reglamento Interno de la Secretaría de Seguridad, deberá establecer además de su estructura orgánica y funciones específicas, la organización jerárquica de sus instituciones policiales de conformidad con lo señalado en la Ley General del Sistema Nacional de Seguridad Pública y en esta Ley.
+
+NOVENO.- Se derogan todas las disposiciones que contravengan la presente Ley.
