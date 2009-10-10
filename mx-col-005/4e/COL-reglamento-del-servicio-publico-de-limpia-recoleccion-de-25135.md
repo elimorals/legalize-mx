@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-servicio-publico-de-limpia-recoleccion-de-25135"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2003-03-22"
+last_updated: "2009-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCION DE BASURA Y SANIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de mayo de 2002.
 
@@ -39,17 +39,23 @@ REGLAMENTO DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCION DE BASURA Y SANIDAD
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones que contiene el presente reglamento son de orden público e interés general. Es de aplicación en todo el territorio del Municipio de Cuauhtémoc, y es obligatorio tanto para los ciudadanos que en el tengan su domicilio, como para los visitantes que estén de paso.
+Las disposiciones que contiene el presente Reglamento son de orden público e interés general. Es de aplicación en todo el territorio del Municipio de Cuauhtémoc, y es obligatorio tanto para los ciudadanos que en el tengan su domicilio, como para los visitantes que estén de paso.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 2.
 
-La limpieza física y la sanidad municipal son responsabilidad tanto del ayuntamiento, como de los ciudadanos, mismos que tendrán la obligación de colaborar en la conservación y mantenimiento del aseo público del municipio, así como de dar cumplimiento a las normas previstas en el presente reglamento.
+La limpieza física y la sanidad municipal son responsabilidad tanto del H. Ayuntamiento, como de los ciudadanos, mismos que tendrán la obligación de colaborar en la conservación y mantenimiento del aseo público del Municipio, así como de dar cumplimiento a las normas previstas en el presente reglamento.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 3.
 
-Se entiende por servicio público de limpia: la recolección, manejo, disposición y tratamiento de los desechos orgánicos e inorgánicos, a cargo del Ayuntamiento.
+Se entiende por servicio público de limpia: la recolección, manejo disposición y tratamiento de los desechos orgánicos e inorgánicos, a cargo del H. Ayuntamiento.
 
 ###### ARTICULO 4.
 
@@ -71,11 +77,11 @@ TRANSPORTE.- Acarreo de los residuos sólidos a los sitios de disposición final
 
 DISPOSICION FINAL.- Es el destino último de los residuos sólidos, colocados de una manera ordenada, distribuyéndoles, ya sea en rellenos sanitarios, estaciones de transferencia o basureros.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 5.
 
-Para cumplir lo establecido en el presente reglamento, la Dirección de Servicios Públicos, se coordinará con las autoridades sanitarias municipales, Dirección General de Desarrollo Urbano y Ecología en el Estado, la Dirección de Desarrollo Urbano y Obras Públicas Municipales, Procuraduría Federal de Protección al medio ambiente, organizaciones sociales y particulares en general, para celebrar convenios de concertación, mismos que serán publicados por el H. Ayuntamiento.
+Para cumplir lo establecido en el presente reglamento, la Dirección de Servicios Públicos, se coordinará con las autoridades sanitarias municipales, Dirección General de Desarrollo Urbano y Ecología en el Estado, la Dirección de Desarrollo Urbano y Obras Públicas Municipales, Procuraduría Federal de Protección al Medio Ambiente, organizaciones sociales y particulares en general, para celebrar convenios de concertación, mismos que serán publicados por el H. Ayuntamiento.
 
 ###### ARTICULO 6.
 
@@ -101,19 +107,29 @@ II.- Fijar las bases para la estructura orgánica y funcional de la unidad admin
 
 III.- Establecer los derechos y las obligaciones en materia de limpieza y sanidad a cargo de las personas físicas o morales o instituciones públicas o privadas.
 
-III (SIC).- Proporcionar al gobierno municipal los medios materiales y legales para ejercer las acciones de limpieza y sanidad, previstos en este reglamento.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-IV.- Fijar derechos y obligaciones para la ciudadanía en general en materia de aseo público y generación de residuos sólidos. Señalar los estímulos para quienes coadyuven directa o indirectamente en las campañas de aseo público o en las acciones que disponga el Ayuntamiento con base en el presente reglamento.
+VI (SIC).- Proporcionar al gobierno municipal los medios materiales y legales para ejercer las acciones de limpieza y sanidad, previstos en este reglamento.
 
-V.- Vigilar que las empresas e instituciones que generan residuos patógenos procedentes de hospitales, clínicas, laboratorios y centros de investigación o que puedan dañar la salud, cumplan con las obligaciones que le imponga la Ley de Salud del Estado de Colima, la Ley General del Equilibrio Ecológico y Protección al Ambiente; y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-VI.- Regular los residuos peligrosos y potencialmente peligrosos cuando estos provengan de procesos industriales, ajustándose su manejo a la normatividad que establezca la Secretaría del Medio Ambiente, Recursos Naturales y Pesca.
+V.- Fijar derechos y obligaciones para la ciudadanía en general en materia de aseo público y generación de residuos sólidos. Señalar los estímulos para quienes coadyuven directa o indirectamente en las campañas de aseo público o en las acciones que disponga el Ayuntamiento con base en el presente reglamento.
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VI.- Vigilar que las empresas e instituciones que generan residuos patógenos procedentes de hospitales, clínicas, laboratorios y centros de investigación o que puedan dañar la salud, cumplan con las obligaciones que le imponga la Ley de Salud del Estado de Colima, la Ley General del Equilibrio Ecológico y Protección al Ambiente; y
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VII.- Regular los residuos peligrosos y potencialmente peligrosos cuando estos provengan de procesos industriales, ajustándose su manejo a la normatividad que establezca la Secretaría del Medio Ambiente, Recursos Naturales y Pesca.
 
 ## TITULO SEGUNDO. DEL SERVICIO PUBLICO DE RECOLECCION DE BASURA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 7.
 
-Las acciones de recolección de basura a que se refiere este reglamento son:
+Las acciones de recolección de basura a que se refiere este Reglamento son:
 
 I.- Limpieza de calles, avenidas, plazas, banquetas, predios, parques públicos, jardines municipales y otras áreas.
 
@@ -129,7 +145,9 @@ VI.- El transporte y depósito de residuos sólidos a los sitios de disposición
 
 VII.- La practica y uso del relleno sanitario cuando sea necesario o pertinente a juicio del Ayuntamiento.
 
-VIII.- Aprovechamiento, industrialización y procesamiento posterior de los residuos sólidos municipales, por parte del Ayuntamiento, o por quien éste disponga; los que por su naturaleza o inadecuado manejo deben tener otro destino, como en el caso del control sanitario, serán incinerados o en su caso, destinados a ser rellenos sanitarios.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2009)</small>
+
+VIII.- Aprovechamiento, industrialización y procesamiento posterior de los residuos sólidos municipales, por parte del H. Ayuntamiento, o por quien éste disponga; los que por su naturaleza o inadecuado manejo deben tener otro destino, como en el caso del control sanitario, serán incinerados o en su caso, destinados a ser rellenos sanitarios.
 
 IX.- Lavado de calles, avenidas y camellones cuando fuere necesario.
 
@@ -203,9 +221,11 @@ La limpieza de las principales calles, avenidas, camellones centrales de avenida
 
 La Dirección de Servicios Públicos Municipales, señalará el tipo de mobiliario o recipientes que se instalarán en parques, jardines y sitios públicos.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 15.
 
-La instalación de el mobiliario citado en el artículo anterior se hará en lugares en donde no representen peligro alguno para la vialidad o dañen la fisonomía del lugar.
+La instalación del mobiliario citado en el artículo anterior se hará en lugares en donde no representen peligro alguno para la vialidad o dañen la fisonomía del lugar.
 
 ###### ARTICULO 16.
 
@@ -213,11 +233,13 @@ Los residuos que se produzcan al desazolvar alcantarillas, drenajes o colectores
 
 ### CAPITULO III. DE LA RECOLECCION EN EL MUNICIPIO
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 17.
 
-Los residuos sólidos producidos en el ámbito doméstico serán recogidos en los lugares y horarios que para este fin se hayn (sic) establecido por las unidades recolectoras, debiendo poner de ser posible, debidamente limpios y separados en las siguientes categorías: papel, plásticos, metales, vidrio y residuos sólidos orgánicos. En ningún caso podrán dejarse en la vía pública fuera de los horarios establecidos para su recolección.
+Los residuos sólidos producidos en el ámbito doméstico serán recogidos en los lugares y horarios que para este fin se haya establecido por las unidades recolectoras, debiendo poner de ser posible, debidamente limpios y separados en las siguientes categorías: papel, plásticos, metales, vidrio y residuos sólidos orgánicos. En ningún caso podrán dejarse en la vía pública fuera de los horarios establecidos para su recolección.
 
-Los ciudadanos del municipio deberán reunir sus residuos sólidos limpios y separados, en bolsas que posean características de resistencia y fácil manejo, mismas que deberán depositar bien cerradas, salvo que esto no fuese posible a juicio de la autoridad responsable. Las bolsas que se mencionan en el artículo anterior, deberán mantenerse dentro del predio del ciudadano que lo habita, solo se sacaran al lugar destinado para su recolección el día y hora señalados por el departamento de servicios públicos municipales.
+Los ciudadanos del municipio deberán reunir sus residuos sólidos limpios y separados, en bolsas que posean características de resistencia y fácil manejo, mismas que deberán depositar bien cerradas, salvo que esto no fuese posible a juicio de la autoridad responsable. Las bolsas que se mencionan deberán mantenerse dentro del predio del ciudadano que lo habita, solo se sacaran al lugar destinado para su recolección el día y hora señalados por el departamento de servicios públicos municipales.
 
 ### CAPITULO IV. DE LA RECOLECCION DE RESIDUOS SÓLIDOS INDUSTRIALES, COMERCIALES, DE OFICINAS Y SIMILARES
 
@@ -231,11 +253,11 @@ Las industrias y los centros comerciales, así como los hospitales y demás siti
 
 Los propietarios o administradores de industrias, talleres, comercios, restaurantes, oficinas, centros de espectáculos o similares, deberán transportar por cuenta propia sus residuos sólidos limpios y separados al lugar que establezca la dirección de servicios públicos, en vehículos que deberán reunir las características que señala este reglamento.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 20.
 
-Los propietarios o administradores a que se refiere el artículo anterior, podrán si así lo desean hacer uso del servicio de recolección contratada a través de la dirección de servicios públicos.
+Los propietarios o administradores a que se refiere el artículo anterior, podrán si así lo desean hacer uso del servicio de recolección contratada a través de la Dirección de Servicios Públicos.
 
 ### CAPITULO V. DE LA RECOLECCION DE RESIDUOS SOLIDOS EN HOSPITALES, CLINICAS, LABORATORIOS, CENTROS DE INVESTIGACION Y SIMILARES
 
@@ -247,11 +269,11 @@ Los propietarios o responsables de clínicas, hospitales, laboratorios de análi
 
 Todo propietario o responsable a que se refiere el artículo anterior, deberá contar con la autorización previa por parte de la autoridad competente, y para operar un incinerador que cumpla con las medidas técnicas correspondientes a su funcionamiento.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 23.
 
-Las unidades recolectoras de la dirección de servicios públicos, se abstendrán de recolectar los residuos mencionados en el artículo 21, y si encontrasen que no se respetan las indicaciones del presente reglamento, notificarán de inmediato al Municipio, para que imponga la sanción correspondiente a la persona a cuyo cargo se encuentre el establecimiento que hubiere cometido la infracción.
+Las unidades recolectoras de la Dirección de Servicios Públicos, se abstendrán de recolectar los residuos mencionados en el artículo 21, y si encontrasen que no se respetan las indicaciones del presente reglamento, notificarán de inmediato al Director (a) de Servicios Públicos Municipales, para que imponga la sanción correspondiente a la persona a cuyo cargo se encuentre el establecimiento que hubiere cometido la infracción.
 
 ### CAPITULO VI. DE LA TRANSPORTACION
 
@@ -339,9 +361,11 @@ Es obligación de la ciudadanía recoger diariamente sus residuos sólidos y man
 
 En el caso de edificios o viviendas multifamiliares, el aseo de las banquetas y calles es una obligación que podrá ser realizada por el empleado correspondiente, y cuando no lo haya recaerá en los habitantes del mismo.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 41.
 
-Los materiales de construcción, que no cuenten con la autorización previa de la dirección general de desarrollo urbano, obras y servicios públicos municipales, los escombros o los restos vegetales, cualquiera que fuera su procedencia, no podrán acumularse en la vía pública y deberán ser retirados de inmediato por los responsables de los mismos.
+Los materiales de construcción, que no cuenten con la autorización previa de la Dirección de Desarrollo Urbano y Obras Públicas, los escombros o los restos vegetales, cualquiera que fuera su procedencia, no podrán acumularse en la vía pública y deberán ser retirados de inmediato por los responsables de los mismos.
 
 ###### ARTICULO 42.
 
@@ -362,6 +386,8 @@ Los dueños de fraccionamientos y colonias nuevas con terrenos sin construcción
 ###### ARTICULO 46.
 
 Los colindantes inmediatos a los callejones de servicio, deberán compartir la obligación de mantener éstos en condiciones de aseo.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 47.
 
@@ -431,11 +457,11 @@ XV.- En general, cualquier acción que traiga como consecuencia el desaseo de la
 
 ## TITULO SEXTO. DE LA PREVENCION
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 54.
 
-El Ayuntamiento de Cuauhtémoc, a través de la dirección de servicios públicos, tiene la facultad de intervenir en todos aquellos casos en que se vea afectada la sanidad del medio ambiente y el equilibrio ecológico del Municipio.
+El Ayuntamiento de Cuauhtémoc, a través de la Dirección de Servicios Públicos, tiene la facultad de intervenir en todos aquellos casos en que se vea afectada la sanidad del medio ambiente y el equilibrio ecológico del Municipio.
 
 ###### ARTICULO 55.
 
@@ -555,39 +581,49 @@ III.- Informar a la dirección general de desarrollo urbano, obras y servicios p
 
 ## TITULO NOVENO. DE LAS SANCIONES
 
-###### ARTICULO 71.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
-Las sanciones por falta u omisión a este reglamento consistirán en;
+###### ARTÍCULO 71.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+Las sanciones por falta u omisión a este Reglamento consistirán en;
 
-I.- Informar a la dirección de servicios públicos, sobre la existencia de sitios no autorizados en los que se deposite basura y/o residuos sólidos a efecto de que se tomen las medidas pertinentes para su recolección, notificando las fechas y horarios de recolección u orientando a la población sobre la ubicación de la recolección de basura.
+I.- Amonestación verbal y/o escrita.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+II.- Multa, de acuerdo al tabulador siguiente:
 
-II.- Comunicar a la dirección de servicios públicos, los nombres o datos que sirvan para identificar a las personas que depositen basura y/o residuos sólidos, escombro o desperdicios, en sitios no autorizados. La dirección verificará en todos los casos a través del departamento de servicios públicos la veracidad de la información.
+Artículo Sanción
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+Artículos 31, 37, 48, 51 y 53
 
-III.- Informar a la dirección de servicios públicos, sobre las deficiencias o carencias del servicio en su zona.
+Fracción XIII De 5 a 10 salarios mínimos vigentes
+
+Art. 21, 38, Art. 41, Art. 45,
+
+Art. 46 y Art. 47 De 10 a 20 salarios mínimos vigentes
+
+Art. 18, Art. 44 y Art. 53
+
+fracciones: V, VIII, XIV De 20 a 30 salarios mínimos vigentes
+
+Art. 20, Art. 24, Art. 25, Art.
+
+40, Art. 42, Art. 43 y Art. 53
+
+Fracciones: I, X, XI, XII De 30 a 40 salarios mínimos vigentes
+
+Art. 45, Art. 48 y Art. 53
+
+Fracciones: II, III, IV, VII, IX De 40 a 50 salarios mínimos Vigentes
+
+Los demás casos previstos en
+
+el presente Reglamento De 50 a 60 salarios mínimos Vigentes
+
+III.- Arresto hasta por 36 horas.
 
 IV.- La suspensión, revocación o cancelación de la concesión, permiso, licencia y en general toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios, o para el aprovechamiento de recursos naturales, según la gravedad de la infracción cometida.
 
 V.- Pago al erario municipal del daño ocasionado, sin perjuicio de las demás sanciones procedentes.
-
-TABULADOR DE MULTAS
-
-A) De 1 a 10 salarios mínimos. Art. 31, Art. 36, Art. 48, Art. 51 y Art. 53 fracción XIII
-
-B) De 1 a 20 salarios mínimos. Art. 21, Art. 38, Art. 41, Art. 45, Art. 46 y Art. 47
-
-C) De 1 a 30 salarios mínimos. Art. 18, Art. 44 y Art. 53 fracciones: V, VIII, XIV
-
-D) De 1 a 40 salarios mínimos. Art. 20, Art. 24, Art. 25, Art. 40, Art. 42, Art. 43 y Art. 53 Fracciones: I, X, XI, XII
-
-E) De 1 a 50 salarios mínimos. Art. 45, Art. 48 y Art. 53 Fracciones: II, III, IV, VII, IX
-
-F) De 50 a 1000 salarios mínimos, para aquellas infracciones que a juicio de la dirección de la unidad administrativa municipal de ecología, dañen seriamente la sanidad del medio ambiente.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
 
@@ -651,8 +687,12 @@ Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de C
 
 Lic. Cesar Ceballos Gómez.- Presidente Municipal.- Rúbrica.- C. Pedro Martínez Rivera.- Sindico.- Rubrica.- Tec. Teresa Santa Ana Blake.- Regidora.- Rubrica.- Profra. Ma. de Jesús Fajardo López.- Regidora.- Rubrica.- Licda. Sandra Y. Ramírez Santillán.- Regidora.- Rubrica.- C. Alfonso Michel Aguirre.- Regidor.- Rubrica.- C. Carlos Yáñez Ibarra.- Regidor.- Rubrica.- C. Luis E. Martínez Ceballos.- Regidor.- Rubrica.- Dr. Ismael Estrada Ruíz.- Regidor.- Rubrica.- Lic. Esteban González Rodríguez.- Secretario.- Rubrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 22 DE MARZO DE 2003.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
+
+P.O. 10 DE OCTUBRE DE 2009.
 
 LAS MODIFICACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
