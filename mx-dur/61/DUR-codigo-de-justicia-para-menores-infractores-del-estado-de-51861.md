@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-para-menores-infractores-del-estado-de-51861
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-11"
-last_updated: "2006-09-11"
+last_updated: "2009-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y QUINTO TRANSITORIOS DEL CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO UNA VEZ QUE SE PUBLIQUE LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO, APROBADO MEDIANTE DECRETO No. 232, Y PUBLICADO EN EL PERIODICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE DURANGO, No. 11 DE FECHA 5 DE DICIEMBRE DE 2008.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2009.
 
 Código publicado en el Extraordinario del Periódico Oficial del Estado de Durango, el lunes 11 de septiembre de 2006.
 
@@ -2226,3 +2228,47 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. OLIVERIO REZA CUELLAR.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 11 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+La modificación o reubicación de cualquier tipo penal a que se refiere el Código Penal, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones de este código sólo se aplicarán a los hechos acaecidos con posterioridad a su entrada en vigor, por lo tanto, el Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006 y sus reformas, se aplicará para juzgar las conductas tipificadas como delitos cometidos durante la vigencia del mismo.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga el Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el lunes 11 de septiembre de 2006.
+
+###### ARTÍCULO SEXTO.
+
+Las conductas tipificadas como delitos permanentes y continuadas que inicien su comisión en la vigencia del Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006, se investigarán y juzgarán conforme a lo establecido en dicho ordenamiento, aún cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Magistrados del Tribunal para menores infractores, duraran en su encargo el tiempo por el cual fueron designados, en términos del Artículo Decimo Segundo, Transitorio del decreto 293, expedido por el H. Congreso del Estado de Durango que contiene el Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha, feneciendo dicho termino (sic) (14) catorce de septiembre de (2010) dos mil diez, pudiendo ser reelectos.
+
+A los jueces, Secretaria General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente el Estado de Durango, de fecha (11) once septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha.
+
+Para los efectos del cumplimiento del presente, se entenderá que los Secretarios Proyectistas se denominaran en lo sucesivo, Secretarios Administrativos, conservando sus funciones y derechos.
+
+###### ARTÍCULO OCTAVO.
+
+Para efectos de esta Ley (sic) se entenderá que el Centro Especializado de Readaptación y Tratamiento para Menores, será el Centro Especializado de Reintegración y Tratamiento para Menores Infractores en el Estado de Durango.
+
+###### ARTÍCULO NOVENO.
+
+La Sexagésima Cuarta Legislatura del Congreso del Estado de Durango, deberá adecuar el marco jurídico respectivo para readscribir el Tribunal para Menores Infractores del Estado de Durango al Poder Judicial del Estado a más tardar el treinta y uno de octubre de dos mil nueve.
