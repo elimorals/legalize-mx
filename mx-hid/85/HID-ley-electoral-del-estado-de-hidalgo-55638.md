@@ -4,7 +4,7 @@ identifier: "HID-ley-electoral-del-estado-de-hidalgo-55638"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-11"
-last_updated: "2007-09-10"
+last_updated: "2009-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ELECTORAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 11 de mayo de 2007.
 
@@ -227,9 +227,11 @@ Como lo establecen los artículos 115 de la Constitución Política de los Estad
 
 #### SECCIÓN SEGUNDA. DE LOS DIPUTADOS, SÍNDICOS Y REGIDORES
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 14.
 
-Habrá en el Congreso del Estado el número de Diputados de representación proporcional que establece el artículo 29 de la Constitución Política del Estado. La determinación y asignación de estas diputaciones se hará por el Consejo General del Instituto Estatal Electoral, con arreglo al procedimiento señalado en los artículos 248 y 249 de esta Ley.
+El Congreso del Estado se integra con 18 Diputados de mayoría y 12 de representación proporcional. La determinación y asignación de estas diputaciones la hará el Consejo General del Instituto Estatal Electoral, con arreglo al procedimiento señalado en los Artículos 248 y 249 de esta Ley.
 
 ###### Artículo 15.
 
@@ -251,23 +253,29 @@ IV.- Los municipios que tengan una población de más de 100,000 habitantes, con
 
 #### SECCIÓN TERCERA. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 17.
 
-Las elecciones ordinarias en el Estado se llevarán a cabo:
+Las elecciones ordinarias de Ayuntamientos y Diputados se celebrarán cada tres años y la de Gobernador cada seis, el primer domingo de julio del año que corresponda. Los electos tomarán posesión de sus cargos el día cinco de septiembre del año de la elección.
 
-I.- Para Diputados y Gobernador se realizarán cada tres y seis años, respectivamente, el tercer domingo del mes de febrero; tanto los Diputados, como el Gobernador tomarán posesión de sus cargos el día primero de abril del año de la elección; y
-
-II.- Las elecciones de Ayuntamientos se celebrarán cada tres años, el segundo domingo de noviembre y tomarán posesión de sus cargos el día 16 de enero del año siguiente al de las elecciones.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 18.
 
-Las elecciones ordinarias serán convocadas por el Instituto Estatal Electoral, bajo los siguientes plazos:
+Las elecciones ordinarias serán convocadas por el Instituto Estatal Electoral dentro de los siete días siguientes a la fecha de inicio del proceso electoral.
 
-I.- En las elecciones de Gobernador Constitucional del Estado, lo hará por lo menos noventa días naturales antes de la fecha de la elección;
+A más tardar seis meses antes del inicio del proceso respectivo, el Instituto Estatal podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales. La propuesta para la celebración del convenio correspondiente deberá ser aprobada por al menos cuatro de los Consejeros Electorales del Consejo General. Para la aprobación del convenio respectivo deberá observarse lo siguiente:
 
-II.- En las elecciones de Diputados al Congreso del Estado, lo hará por lo menos setenta y cinco días naturales antes de la fecha de la elección; y
+I.- Por lo menos doce meses antes del inicio del proceso electoral respectivo, la Secretaría General, a solicitud del Consejo General, deberá iniciar la elaboración de un proyecto de dictamen para ser sometido a la consideración del Consejo. Dicho proyecto deberá contener:
 
-III.- En las elecciones de Ayuntamientos, lo hará por lo menos cuarenta días naturales antes de la fecha de la elección.
+a).- La exposición de los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del Convenio;
+
+b).- La propuesta de reestructuración administrativa, financiera y laboral del Instituto, que habrá de implementarse con motivo de la celebración, en su caso, del convenio; y
+
+c).- La especificación catalogada de los montos a erogar y la forma en que habrán de cubrirse al Instituto Federal Electoral los costos derivados de la organización de las elecciones.
+
+II.- Concluido el proyecto, deberá someterse a la consideración del Consejo General. Si no se aprobara por la mayoría indicada en el segundo párrafo de este Artículo, se ordenará el archivo del asunto y no podrá someterse un nuevo proyecto de dictamen con relación al mismo proceso electoral.
 
 ###### Artículo 19.
 
@@ -279,7 +287,9 @@ II.- Del resultado de los cómputos correspondientes haya 2 candidatos, fórmula
 
 La convocatoria para la elección extraordinaria deberá publicarse en un término no mayor de cuarenta y cinco días naturales, contados a partir de la declaración de nulidad o empate de la elección de que se trate.
 
-Las elecciones extraordinarias serán convocadas por el Instituto Estatal Electoral y se efectuarán dentro de los ciento ochenta días naturales siguientes a la fecha en que se actualicen las causas que las motiven, en el caso de Diputados locales o de Ayuntamientos, y dentro de los doscientos setenta días naturales en el caso de Gobernador.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Las elecciones extraordinarias serán convocadas por el Instituto Estatal Electoral y se efectuarán dentro de los ciento ochenta días naturales siguientes a la fecha en que se actualicen las causas que las motiven, en el caso de diputados locales o de ayuntamientos, dentro de los doscientos setenta días naturales en el caso de Gobernador. En todo caso, la toma de posesión del candidato electo a través de comicios extraordinarios, deberá verificarse el cuadragésimo quinto día posterior al de la jornada comicial correspondiente.
 
 ###### Artículo 20.
 
@@ -293,6 +303,14 @@ Las convocatorias que se expidan relativas a elecciones extraordinarias, no podr
 
 Los partidos políticos son entidades de interés público que tienen como fin promover la participación ciudadana en la vida democrática, contribuir a la integración de la representación popular y como organizaciones de ciudadanos de acuerdo con los programas, principios e ideas que postulan, hacer posible el acceso de éstos al ejercicio del poder público, mediante el sufragio universal, libre, secreto y directo. Esta Ley determina las formas específicas de su intervención en el proceso electoral.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Solo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señale la Ley.
+
 ###### Artículo 22.
 
 Sólo serán reconocidos como partidos políticos, los registrados ante el Instituto Federal Electoral o el Instituto Estatal Electoral.
@@ -300,6 +318,10 @@ Sólo serán reconocidos como partidos políticos, los registrados ante el Insti
 ###### Artículo 23.
 
 Para que una asociación política pueda ostentarse como partido político estatal, ejercer los derechos y gozar de las prerrogativas que a éstos son conferidos, deberá constituirse y registrarse en los términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Para constituir un Partido Político Estatal, la asociación política interesada notificará ese propósito al Instituto Estatal Electoral en el mes de enero del año siguiente al de la elección de Gobernador. A partir de la notificación, la asociación deberá informar mensualmente al Instituto del origen y destino de los recursos que obtenga para el desarrollo de sus actividades para la obtención del registro legal y realizará los actos tendentes a demostrar que cumple con los requisitos señalados en el Artículo 28 de esta Ley.
 
 ###### Artículo 24.
 
@@ -371,13 +393,17 @@ c.- Fueron aprobados su declaración de principios, programa de acción y estatu
 
 Las actuaciones y documentos a que se refieren las fracciones II y III de este artículo deberán quedar debidamente protocolizadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 29.
 
-Para solicitar su registro como partido político estatal, las asociaciones políticas estatales interesadas deberán presentar al Instituto Estatal Electoral, los siguientes documentos:
+Una vez realizados los actos relativos al procedimiento de constitución de un partido político estatal, la asociación política estatal interesada, en el mes de enero del año siguiente al de la notificación del propósito de constituir un partido, en términos de lo dispuesto en el Artículo 23 de esta Ley, deberá presentar al Instituto Estatal Electoral la solicitud de registro, acompañándola con los siguientes documentos:
 
 I.- La declaración de principios, el programa de acción y los estatutos;
 
-II.- Las listas de afiliados por municipio, a que se refiere el punto 2 de la fracción II del artículo 28 de esta Ley; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+II.- Las listas de afiliados por municipio, a que se refiere el apartado b de la fracción II del Artículo 28 de esta Ley; y
 
 III.- Los testimonios de las actas protocolizadas de las asambleas municipales y estatales constitutiva a que se refieren las fracciones II y III del Artículo precedente.
 
@@ -443,9 +469,63 @@ VI.- Registrar a sus candidatos, fórmulas y planillas ante los órganos elector
 
 VII.- Retirar dentro de los treinta días naturales siguientes al de la elección en que participen, la propaganda que en apoyo a sus candidatos hayan colocado, colgado, fijado, pintado, instalado o emitido;
 
-VIII.- Abstenerse de recurrir a la violencia y a cualquier acto que tenga por objetivo alterar el orden público, perturbar el goce de las garantías o impedir el funcionamiento regular de las instituciones gubernamentales; y
+VIII.- Abstenerse de recurrir a la violencia y a cualquier acto que tenga por objetivo alterar el orden público, perturbar el goce de las garantías o impedir el funcionamiento regular de las instituciones gubernamentales; y (sic)
 
 IX.- Conducir en todo momento sus actividades dentro de los cauces legales, sujetándose a las disposiciones previstas en ésta Ley, sus reglamentos y acuerdos, así como los Bandos de Policía y Gobierno y otras disposiciones legales que les sean aplicables;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+X.- Transparentar su actuación y hacer posible el acceso de los ciudadanos a su información pública conforme a las siguientes bases:
+
+a).- Sólo los ciudadanos mexicanos tienen derecho a acceder a la información de los partidos políticos de conformidad con las reglas previstas en esta Ley y las que, en lo conducente, resulten aplicables conforme al reglamento que emita en la materia el Instituto Estatal Electoral.
+
+b).- El acceso a la información de los partidos se hará a través del Instituto, mediante la presentación de solicitudes específicas.
+
+c).- El Reglamento establecerá los formatos, procedimientos y plazos para desahogar las solicitudes que se presenten sobre la información de los partidos políticos.
+
+d).- Cuando la información solicitada tenga el carácter de pública y no obre en poder del Instituto, debiendo estarlo, éste notificará al partido requerido para que la proporcione al Instituto y éste a su vez al solicitante, dentro del plazo que señale el reglamento.
+
+Cuando la información solicitada se encuentre disponible en la página electrónica del Instituto, o en la del partido de que se trate, se le notificará al solicitante para que la obtenga en forma directa, salvo que el interesado la requiera en forma impresa o en medio digital.
+
+e).- La información que los partidos políticos proporcionen al Instituto o que éste genere respecto a los mismos, que sea considerada pública conforme esta Ley, estará disponible a través de la página electrónica del Instituto.
+
+f).- Sólo se considerará información pública de los partidos políticos:
+
+1.- Sus documentos básicos;
+
+2.- Las facultades de sus órganos de dirección;
+
+3.- Los reglamentos, acuerdos y demás disposiciones de carácter general, aprobados por sus órganos de dirección, que regulen su vida interna, las obligaciones y derechos de sus afiliados, la elección de sus dirigentes y la postulación de sus candidatos a cargos de elección popular;
+
+4.- El directorio de sus órganos en el Estado;
+
+5.- El tabulador de remuneraciones que perciben los integrantes de los órganos a que se refiere el inciso anterior;
+
+6.- Las plataformas electorales y Programas de Gobierno que registren ante el Instituto;
+
+7.- Los Convenios de Coalición que celebren;
+
+8.- Las convocatorias que emitan para la elección de sus dirigentes Estatales o la postulación de sus candidatos a los cargos de elección popular en el Estado;
+
+9.-Los montos de financiamiento público estatal otorgados, en cualquier modalidad, a sus órganos Estatales, durante el último año y hasta el mes más reciente, así como los descuentos correspondientes a sanciones;
+
+10.- Las determinaciones del órgano electoral sobre los informes, anuales o parciales, de ingresos y gastos, tanto ordinarios como de precampaña y campaña, así como la lista de aportaciones de simpatizantes que autoricen la publicación de su aportación de manera expresa, una vez concluidos los procedimientos de fiscalización establecidos por esta Ley;
+
+11.- Las resoluciones que emitan sus órganos disciplinarios estatales, una vez que hayan causado estado; y
+
+12.- El listado de las fundaciones, organizaciones, centros o institutos de investigación o capacitación, que reciban apoyo económico permanente de los órganos estatales del partido político.
+
+g).- Los partidos políticos deberán mantener actualizada la información pública establecida en este Artículo, proporcionándola al Instituto con la periodicidad y en los formatos y medios electrónicos que aquél determine en acuerdos de carácter general.
+
+h).- No será pública la información relativa a los procesos deliberativos de los órganos internos de los partidos; la correspondiente a sus estrategias políticas y de campañas electorales; la contenida en todo tipo de encuestas por ellos ordenadas, así como la referida a las actividades de naturaleza privada, personal o familiar de sus afiliados, dirigentes, precandidatos y candidatos a cargos de elección popular.
+
+i).- Será considerada confidencial la información que contenga los datos personales de los afiliados, dirigentes, precandidatos y candidatos a cargos de elección popular, salvo los contenidos en los directorios establecidos en este Artículo y en las listas de precandidatos o candidatos a cargos de elección popular, que solamente contendrán el nombre completo y otros datos personales que autorice el interesado; y
+
+j).- Se considerará reservada la información relativa a las investigaciones y juicios en curso, de cualquier naturaleza, en que los partidos políticos sean parte, hasta que se encuentren en estado de cosa juzgada.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+El incumplimiento a las obligaciones establecidas en este Artículo será sancionado en los términos que dispone la presente Ley.
 
 ###### Artículo 34.
 
@@ -467,11 +547,31 @@ VII.- Mantener como mínimo el 2% de la votación de la última elección de Dip
 
 VIII.- Para poder participar en las elecciones deberán presentar su acreditación con un año de anticipación, según corresponda a la elección de que se trate;
 
-IX.- Reintegrar al patrimonio del Estado los bienes adquiridos con el financiamiento público o los remanentes de éste en efectivo o en instrumentos financieros, cuando por las causas previstas en la presente Ley, sea declarada la pérdida o la suspensión definitiva de su registro, con base en el acuerdo que apruebe el Consejo General del Instituto Estatal Electoral; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+IX.- Someterse al procedimiento para la liquidación de los partidos políticos locales que pierdan su registro y reintegrar sus bienes y remanentes, en términos de lo dispuesto en el Artículo 61 de esta Ley; y
 
 X.- Las demás que establezcan sus estatutos, la presente Ley y sus reglamentos.
 
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 35.
+
+Para los efectos de lo dispuesto en el último párrafo de la fracción I del Artículo 24 de la Constitución Política del Estado de Hidalgo y en el tercer párrafo del Artículo 21 de esta Ley, son asuntos internos de los partidos políticos:
+
+I.- La elaboración y modificación de sus documentos básicos;
+
+II.- La determinación de los requisitos y mecanismos para la libre y voluntaria afiliación de los ciudadanos;
+
+III.- La elección de los integrantes de sus órganos de dirección;
+
+IV.- Los procedimientos y requisitos para la selección de sus precandidatos y candidatos a cargos de elección popular; y
+
+V.- Los procesos deliberativos para la definición de sus estrategias políticas y electorales y, en general, para la toma de decisiones por sus órganos de dirección y de los organismos que agrupen a sus afiliados.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Todas las controversias relacionadas con los asuntos internos de los partidos políticos serán resueltas por los órganos establecidos en sus Estatutos y Reglamentos para tales efectos, debiendo resolver en tiempo para garantizar los derechos de los militantes. Sólo una vez que se agoten los medios partidistas de defensa, los militantes tendrán derecho de acudir ante órganos jurisdiccionales.
 
 Los directivos y los representantes de los partidos políticos, son responsables por los actos que realicen en el ejercicio de sus funciones.
 
@@ -577,9 +677,11 @@ En caso de haber diferencia entre el registro de representantes y la verificaci�
 
 #### SECCIÓN SEGUNDA. DEL FINANCIAMIENTO PRIVADO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 39.
 
-El financiamiento privado incluye las donaciones y aportaciones de personas físicas en calidad de simpatizantes y todas las diferentes formas en que los propios partidos políticos pueden allegarse de fondos, sea por la vía de la militancia, de actividades promocionales o de rendimientos financieros, para aplicarse en gastos de actividad general o activos fijos y gastos de campaña, mismos que en su conjunto no podrán ser mayores del 50% y 20%, respectivamente, del financiamiento público, que por este concepto reciben a nivel local, dentro de los cuales se comprenden los siguientes:
+El financiamiento privado incluye las donaciones y aportaciones de personas físicas en calidad de simpatizantes, y todas las diferentes formas en que los propios partidos políticos pueden allegarse de fondos, sea por la vía de la militancia, de actividades promocionales o de rendimientos financieros, para aplicarse en gastos de actividad general o activos fijos, gastos de precampaña y de campaña.
 
 I.- El financiamiento privado tendrá las siguientes modalidades:
 
@@ -611,13 +713,15 @@ h.- Las personas anónimas o no identificadas; e
 
 i.- Las personas físicas o morales que residan o trabajen en el extranjero.
 
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 III.- Aportaciones en dinero o en especie:
 
-Las aportaciones en especie serán consideradas como aportaciones en dinero. Para efectos contables, los donativos en especie deberán registrarse conforme al valor comercial y de ellos se deberá expedir recibo en donde conste la identificación del aportante y el monto correspondiente. La expedición del recibo será igualmente aplicable para las aportaciones en dinero. La aportación tanto en dinero como en especie, de las personas físicas o morales facultadas para ello, no podrá superar en conjunto el tope que la Ley establezca.
+Las aportaciones en especie serán consideradas como aportaciones en dinero. Para efectos contables, los donativos en especie deberán registrarse conforme al valor comercial y de ellos se deberá expedir recibo en donde conste la identificación del aportante y el monto correspondiente. La expedición del recibo será igualmente aplicable para las aportaciones en dinero. La aportación tanto en dinero como en especie, de las personas físicas o morales facultadas para ello, no podrá superar en conjunto el 10% del tope de gastos de campaña que se determine para la elección de Gobernador y las aportaciones en dinero que realice cada persona facultada para ello tendrán un límite anual equivalente al 0.5% del tope de gastos de campaña referido.
 
-El órgano encargado de realizar las valuaciones de las aportaciones en especie, será la Comisión de Auditoría y Fiscalización del Consejo General del Instituto Estatal Electoral.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-IV.- El financiamiento privado que se obtenga para destinarlo a gastos de campaña no podrá en su conjunto ser mayor al veinte por ciento del financiamiento público estatal, que se otorga para el mismo efecto; y
+IV.- El órgano encargado de realizar las valuaciones de las aportaciones en especie, será la Comisión de Auditoría y Fiscalización del Consejo General del Instituto Estatal Electoral; y
 
 V.- Los partidos políticos no podrán solicitar créditos de la banca de desarrollo, ni recibir aportaciones anónimas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública.
 
@@ -759,63 +863,49 @@ Asimismo, podrá solicitar a las autoridades competentes, según corresponda, la
 
 IV.- Publicidad de los informes:
 
-El Consejo General del Instituto Estatal Electoral dará a conocer públicamente los informes presentados por los partidos políticos. En los periodos de campaña se harán cortes mensuales que se darán a conocer públicamente; y
+(REFORMADA, P.O. 12 DE OCTUBRE DE 2009) (F. DE E., P.O. 15 DE FEBRERO DE 2010)
+
+El Consejo General del Instituto Estatal Electoral dará a conocer públicamente los informes presentados por los partidos políticos. En los periodos de campaña se harán cortes mensuales que se darán a conocer públicamente, a más tardar tres días después de su presentación, a través de los medios electrónicos de que disponga el Instituto.
 
 V.- Sanciones:
 
 En caso de incumplimiento en materia de financiamiento y gastos de campaña, se aplicarán las sanciones de acuerdo a lo establecido en esta Ley.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+En términos de lo dispuesto en el penúltimo párrafo de la fracción V, del Artículo 41 de la Constitución Federal, la Comisión de Auditoría y Fiscalización solicitará al órgano técnico del Instituto Federal Electoral sea el conducto para superar las limitaciones derivadas de los secretos bancario, fiduciario y fiscal en los procedimientos de fiscalización de las finanzas de los partidos políticos en el ámbito de la Entidad.
+
 #### SECCIÓN SÉPTIMA. DE LA REGLAMENTACIÓN CONCERNIENTE AL ACCESO A MEDIOS DE COMUNICACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 46.
 
-Los partidos políticos tendrán acceso de manera equitativa y gratuita a las frecuencias de radio, canales de televisión, así como de los espacios de prensa escrita, que sean propiedad del Gobierno del Estado y a los tiempos gratuitos que tenga el Estado en los medios electrónicos locales privados de acuerdo a lo que establece la presente Ley.
+Los partidos políticos tendrán el derecho de acceso a la radio y la televisión, que sean propiedad del Gobierno del Estado, conforme a las normas establecidas en el Apartado B de la Base III del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Los partidos políticos, al ejercer sus prerrogativas en radio y televisión, deberán difundir sus principios ideológicos, programas de acción, plataformas electorales, actividades permanentes y candidaturas a puestos de elección popular.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Ninguna otra persona, física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+
 ###### Artículo 47.
 
-Los derechos y prerrogativas de los partidos políticos en periodos no electorales serán:
-
-I.- Programas de radio, televisión y prensa escrita:
-
-Cada mes, los partidos políticos tendrán derecho a tres programas de cinco minutos y quince mensajes de treinta segundos, seis de ellos transmitidos en horario AAA, así como los espacios en la prensa escrita que concerte o contrate el Instituto Estatal Electoral a través de la Coordinación Ejecutiva de Prerrogativas y Partidos Políticos;
-
-II.- Programas especiales:
-
-Cada mes, todos los partidos políticos tendrán derecho a participar conjuntamente en un programa especial con una duración de sesenta minutos, que deberán ser organizados por la autoridad electoral y el contenido definido por los partidos políticos. La orientación de estos programas será la educación cívica y el fomento de los valores democráticos. En estos programas se propiciará el respeto mutuo y se fomentará la ética política;
-
-III.- Sorteos:
-
-La Coordinación de Prerrogativas y Partidos Políticos realizará sorteos para determinar el orden de presentación de los programas de los partidos políticos. El calendario de programas respectivo se deberá dar a conocer a través de la prensa local; y
-
-IV.- Producción de programas:
-
-Las áreas técnicas de los medios de comunicación propiedad del Gobierno del Estado brindarán apoyo técnico, personal y equipo a los partidos políticos para la producción de los programas políticos.
-
-Los partidos deberán presentar con oportunidad la solicitud de asistencia técnica y los correspondientes guiones técnicos ante la Comisión de Radio, Televisión y Prensa del Instituto Estatal Electoral.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2009)
 
 ###### Artículo 48.
 
-Los derechos y prerrogativas de los partidos políticos en periodos electorales comprenden:
-
-I.- Programa adicional:
-
-Dos programas semanales de cinco minutos y diez mensajes de treinta segundos, cinco de ellos transmitidos en horarios AAA;
-
-II.- Difusión de las plataformas políticas:
-
-Los partidos políticos y coaliciones utilizarán, por lo menos, la mitad del tiempo que les corresponda durante los periodos electorales, para difundir el contenido de sus plataformas electorales; y
-
-III.- Espacios adicionales de prensa escrita que determine la Coordinación Ejecutiva de Prerrogativas y Partidos Políticos, a través de la Comisión de Radio, Televisión y Prensa.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2009)
 
 ###### Artículo 49.
 
 Las obligaciones en comunicación a las que está sujeta la autoridad electoral serán:
 
-I.- Programas de educación cívica y cultura democrática:
-
-La autoridad electoral estará obligada a elaborar programas con objetivos de educación cívica y fomento de la cultura democrática, teniendo acceso a los medios de comunicación propiedad de Gobierno del Estado con sesenta minutos mensuales en cápsulas o continuos;
+I.- (DEROGADA, P.O. 12 DE OCTUBRE DE 2009)
 
 II.- Comisión de Radio, Televisión y Prensa:
 
@@ -835,31 +925,15 @@ Los partidos políticos y coaliciones deberán proporcionar oportunamente y cuan
 
 ###### Artículo 50.
 
-La emisión de mensajes pagados en medios de comunicación durante las campañas electorales se sujetará a las siguientes normas:
-
-I.- Los partidos políticos o coaliciones, solamente a través del Consejo General del Instituto Estatal Electoral, contratarán los tiempos de radio, televisión y espacios en prensa para difundir mensajes orientados a la obtención del voto durante las campañas electorales, con cargo al presupuesto de cada partido o coalición contratante;
-
-II.- Los candidatos, fórmulas o planillas, están impedidos de contratar espacios físicos en los medios de comunicación y sólo podrán hacerlo a través de sus partidos políticos o coaliciones;
-
-III.- El Instituto Estatal Electoral, a través de su Presidente y Secretario General, garantizará que las tarifas proporcionadas por los concesionarios de los medios de comunicación sean las mismas para todos los partidos políticos o coaliciones y gestionará que sean menores a las tarifas comerciales; para ello utilizará los mismos instrumentos y mecanismos que emplea para la contratación de los mensajes oficiales del propio Instituto;
-
-IV.- El Instituto Estatal Electoral, por conducto de la Secretaría General y la Coordinación de Prerrogativas y Partidos Políticos, analizará previamente que la emisión de los mensajes contratados de conformidad con la fracción anterior se encuentren sujetos a lo establecido a las fracciones I y IV del artículo 183 de este ordenamiento legal. En caso contrario, se solicitará al partido interesado que subsane las irregularidades correspondientes;
-
-V.- El Consejo General del Instituto Estatal Electoral, a través de los acuerdos administrativos correspondientes, así como de la reglamentación que emita para tal efecto, regulará lo concerniente a los tiempos y espacios de medios contratados por los partidos políticos o coaliciones;
-
-VI.- La Comisión de Radio, Televisión y Prensa, asignará por medio de sorteo los tiempos para la difusión de mensajes de publicidad, en caso de que dos o más partidos deseen adquirir el mismo espacio publicitario;
-
-VII.- El Consejo General solicitará a la Comisión de Radio, Televisión y Prensa del Instituto Estatal Electoral su intervención ante la Comisión de Radiodifusión para que, en el ámbito de gestión de ésta, les permita a los partidos políticos tener acceso en forma gratuita a los medios de comunicación masiva existentes en la Entidad, en los tiempos oficiales de las frecuencias de radio y de los canales de televisión;
-
-VIII.- Se establecerá un límite en el tiempo de transmisión diaria que pueda contratar un partido político; es decir, se prohibirá a los partidos políticos la contratación de más del límite de minutos diarios acordados, continuos o discontinuos, así como para propaganda partidaria, por cada canal televisivo o estación radiodifusora. Este límite será incrementado en periodo electoral bajo el principio de igualdad; y
-
-IX.- Durante la última semana de campaña estará prohibida la contratación de mensajes publicitarios de los partidos políticos.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2009)
 
 ### CAPÍTULO QUINTO. DE LAS COALICIONES Y FUSIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 51.
 
-Para efecto de su intervención en los procesos electorales, los partidos políticos acreditados ante el Instituto Estatal Electoral, tienen el derecho de formar coaliciones a fin de postular candidatos en las elecciones en las que deseen participar, sean de Diputados por los principios de mayoría relativa o representación proporcional, Gobernador del Estado o para la integración de los Ayuntamientos.
+Para efecto de su intervención en los procesos electorales, los partidos políticos acreditados ante el Instituto Estatal Electoral, tienen derecho a postular candidatos, fórmulas, planillas, o listas, por sí mismos o en coalición, en las elecciones en las que deseen participar, sean de Gobernador del Estado, Diputados por los principios de mayoría relativa o representación proporcional, o para la integración de los Ayuntamientos. Una vez otorgado por la Autoridad Electoral el registro correspondiente de los candidatos, planillas o listas, no podrá modificarse la modalidad de postulación.
 
 Los partidos políticos podrán acordar celebrar coaliciones parciales o totales.
 
@@ -869,7 +943,9 @@ Las coaliciones se subrogarán a los derechos y obligaciones que se consideran p
 
 I.- Las coaliciones no podrán registrar como candidatos, fórmulas o planillas, a quienes hayan sido registrados por otra coalición o partido político para la misma elección.
 
-II.- Los partidos políticos no podrán postular candidatos propios donde ya hubiese candidatos de la coalición de la que ellos formen parte;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+II.- Los partidos políticos no podrán postular a un candidato ya registrado por otro partido político. No se aplicará esta prohibición en los casos en que exista coalición en los términos del presente capítulo. Tampoco podrán postular candidatos propios donde ya hubiese candidatos de la coalición de la que ellos formen parte;
 
 III.- Los partidos políticos no podrán formar parte en más de una coalición para el mismo proceso electoral; y
 
@@ -915,7 +991,7 @@ III.- Deberán utilizar el emblema autorizado;
 
 IV.- La prerrogativa de financiamiento público por actividad electoral que corresponda a cada partido político será entregada a cada uno de los partidos coaligados, quienes lo aportarán a la coalición en los términos del convenio celebrado;
 
-V.- En materia de acceso a la radio y televisión del Gobierno del Estado, gozarán de las prerrogativas correspondientes como si se tratara de un solo partido;
+V.- (DEROGADA, P.O. 12 DE OCTUBRE DE 2009)
 
 VI.- La postulación de los candidatos, fórmulas, listas y planillas de las coaliciones deberán apegarse a lo dispuesto en la Sección Primera del Capítulo Cuarto del Título Sexto de esta Ley;
 
@@ -955,9 +1031,11 @@ El convenio de fusión deberá registrarse ante el Instituto Estatal Electoral, 
 
 ### CAPÍTULO SEXTO. DE LA PÉRDIDA DEL REGISTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 60.
 
-Son causas de suspensión temporal o definitiva de la acreditación o del registro de un partido político estatal, las siguientes:
+Son causas de pérdida del registro de un partido político estatal, las siguientes:
 
 I.- No haber obtenido por lo menos el 2 % de la votación total emitida en la elección inmediata anterior de Diputados Locales;
 
@@ -971,9 +1049,49 @@ V.- La fusión con otro u otros partidos políticos, en los términos del artíc
 
 VI.- La disolución por acuerdo de sus miembros.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 61.
 
-La suspensión temporal o definitiva de la acreditación o del registro, deberá pronunciarse mediante resolución motivada y fundada por el Instituto Estatal Electoral, la que se publicará en el Periódico Oficial del Estado. Dicha resolución no afectará los triunfos que los candidatos del partido político sancionado hayan obtenido en las elecciones por el principio de mayoría relativa. Será recurrible en los términos de la Ley Estatal de Medios de Impugnación en Materia Electoral.
+La pérdida del registro como partido político local, deberá pronunciarse mediante resolución motivada y fundada por el Instituto Estatal Electoral, la que se publicará en el Periódico Oficial del Estado. La declaratoria de pérdida de registro de un partido político no tendrá efectos en relación con los triunfos que sus candidatos hubieren obtenido en las elecciones según el principio de mayoría relativa, ni en la asignación de síndicos o regidores en las elecciones de Ayuntamientos por el principio de representación proporcional y será recurrible en los términos de la Ley Estatal de Medios de Impugnación en Materia Electoral.
+
+Para la declaratoria de pérdida de registro del partido político local, debido a la causa que se señala en la fracción I del Artículo anterior, el Secretario General del Instituto elaborará, para someter a la consideración del Consejo General, un proyecto de dictamen fundado en los cómputos y declaraciones de validez respectivas de los consejos del Instituto, así como de las resoluciones del Tribunal Electoral.
+
+Si algún partido político local se encontrara en alguno de los supuestos previstos en las fracciones II, III o IV del Artículo anterior, se aplicará lo dispuesto en el Artículo 257 de esta Ley.
+
+Cuando el partido político se encuentre en los supuestos a los que se refieren las fracciones V y VI del Artículo anterior, el Secretario General elaborará el proyecto de dictamen respectivo debidamente fundado y motivado para someterlo a la consideración del Consejo General el que, a más tardar en la siguiente sesión que realice, emitirá la declaratoria correspondiente y ordenará su publicación en el Periódico Oficial del Estado.
+
+La declaratoria de pérdida de registro de un partido político, emitida durante la etapa preparatoria de un proceso electoral provocará, de manera automática, en su caso, la cancelación de sus registros de candidatos, fórmulas o planillas, o la pérdida del derecho a registrarlos.
+
+Independientemente de la cancelación o pérdida del registro, quienes hayan sido sus dirigentes y candidatos deberán cumplir las obligaciones que en materia de fiscalización establece esta Ley hasta la conclusión de los procedimientos respectivos y de liquidación y adjudicación de su patrimonio.
+
+El partido político local que hubiese perdido su registro, sólo podrá solicitarlo de nueva cuenta, cuando haya transcurrido un proceso electoral posterior a la fecha de la declaratoria de pérdida correspondiente.
+
+El Consejo General dispondrá lo necesario para que sean adjudicados al patrimonio del organismo descentralizado de la Administración Pública Estatal denominado Sistema de Desarrollo Integral de la Familia del Estado de Hidalgo, los bienes remanentes de los partidos políticos locales que pierdan su registro legal.
+
+El procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro, se sujetará al reglamento respectivo que emitirá el Instituto y a las siguientes reglas generales:
+
+I.- Si de los cómputos que realicen los consejos distritales del Instituto se desprende que un partido político local no obtiene el porcentaje mínimo de votos para conservar su registro, el Consejo General designará de inmediato a un Interventor responsable del control y vigilancia directo del uso y destino de los recursos y bienes del partido de que se trate. Lo mismo será aplicable en el caso de que el Consejo General del Instituto declare la pérdida de registro legal por cualquier otra causa de las establecidas en esta Ley;
+
+II.- La designación del interventor será notificada de inmediato al partido del que se trate, por conducto de su representante ante el Consejo General; en ausencia del mismo, la notificación se hará en el domicilio social del partido afectado o, en caso extremo, por estrados;
+
+III.- A partir de su designación, el interventor tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes y recursos del partido político de que se trate, por lo que todos los gastos que realice el partido deberán ser autorizados expresamente por el interventor. No podrán enajenarse, gravarse o donarse los bienes muebles e inmuebles que integren el patrimonio del partido político;
+
+IV.- Una vez que la declaración de pérdida del registro de un partido político local realizada por el Consejo General devenga en definitiva y firme, por no haber sido impugnada o por haber sido confirmada por las instancias jurisdiccionales, el interventor designado deberá:
+
+a).- Emitir aviso de liquidación del partido político de que se trate, mismo que deberá Publicarse en el Periódico Oficial del Estado para los efectos legales procedentes;
+
+b).- Determinar las obligaciones laborales, fiscales y con proveedores o acreedores, a cargo del partido político en liquidación;
+
+c).- Determinar el monto de recursos o valor de los bienes susceptibles de ser utilizados para el cumplimiento de las obligaciones a que se refiere el inciso anterior;
+
+d).- Ordenar lo necesario para cubrir las obligaciones que la Ley determina en protección y beneficio de los trabajadores del partido político en liquidación; realizado lo anterior, deberán cubrirse las obligaciones fiscales que correspondan; si quedasen recursos disponibles, se atenderán otras obligaciones contraídas y debidamente documentadas con proveedores y acreedores del partido político en liquidación, aplicando en lo conducente las Leyes en esta materia;
+
+e).- Formulará un informe de lo actuado que contendrá el balance de bienes y recursos remanentes después de establecer las previsiones necesarias a los fines antes indicados; el informe será sometido a la aprobación del Consejo General del Instituto. Una vez aprobado el informe con el balance de liquidación del partido de que se trate, el interventor ordenará lo necesario a fin de cubrir las obligaciones determinadas, en el orden de prelación antes señalado;
+
+f).- Si realizado lo anterior quedasen bienes o recursos remanentes, se adjudicarán al Organismo Descentralizado de la Administración Pública Estatal denominado Sistema de Desarrollo Integral de la Familia del Estado de Hidalgo; y
+
+g).- En todo tiempo deberá garantizarse al partido político de que se trate el ejercicio de las garantías establecidas en la Constitución Federal, la Constitución Política del Estado de Hidalgo y esta Ley. Los acuerdos del Consejo General serán impugnables ante el Tribunal Electoral.
 
 ### CAPÍTULO SÉPTIMO. DE LAS ASOCIACIONES POLÍTICAS
 
@@ -1189,11 +1307,15 @@ II.- Realizar cualquier acción contraria a los principios que rigen a la funci�
 
 Su actuación estará sujeta a la Ley de Responsabilidades de los Servidores Públicos del Estado, a través del Congreso Local.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 81.
 
-El Presidente del Instituto Estatal Electoral convocará a los partidos políticos, para que en un plazo que no exceda al treinta de julio inmediato anterior al día de las elecciones de Gobernador o Diputados, acrediten a sus representantes para integrar el Consejo General.
+El Presidente del Instituto Estatal Electoral, en el mes de diciembre del año anterior al de la elección, convocará a los partidos políticos para que a más tardar cinco días antes del inicio del proceso electoral que corresponda, acrediten a sus representantes para integrar el Consejo General.
 
-En caso de la elección de Ayuntamientos, el plazo no excederá del treinta de mayo del año de la elección.
+(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
+
+> <small>(F. DE E. 15 DE FEBRERO DE 2010)</small>
 
 Cumplido el anterior requisito, los partidos políticos podrán sustituir en todo tiempo a sus representantes, dando con oportunidad el aviso correspondiente.
 
@@ -1201,11 +1323,15 @@ Cumplido el anterior requisito, los partidos políticos podrán sustituir en tod
 
 El Instituto Estatal Electoral ordenará que se publique, en el Periódico Oficial del Estado, la forma en que quedo integrado el Consejo General.
 
-La publicación se realizará antes de la instalación del organismo electoral.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+La publicación se realizará antes del quince de enero del año de la elección.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 83.
 
-Con el objeto de preparar los comicios, el Consejo General será convocado por su Presidente a iniciar sesiones ordinarias a más tardar el día diez de agosto del año anterior a las elecciones de Gobernador y Diputados; tratándose de la elección de Ayuntamientos lo hará el diez de junio del año de la elección.
+Con el objeto de preparar los comicios, el Consejo General será convocado por su Presidente a iniciar sesiones ordinarias el quince de enero del año de la elección.
 
 ###### Artículo 84.
 
@@ -1235,7 +1361,9 @@ III.- Atender lo relativo a la preparación, desarrollo, vigilancia, cómputo y 
 
 IV.- Cuidar la oportuna integración, instalación y funcionamiento de los órganos del Instituto Estatal Electoral;
 
-V.- Resolver sobre el otorgamiento o pérdida del registro de los partidos políticos y asociaciones políticas estatales, así como registrar la certificación de vigencia del registro de los partidos políticos nacionales;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+V.- Conocer y resolver sobre el otorgamiento o pérdida del registro de los partidos y asociaciones políticas Estatales, sobre los procedimientos de liquidación de los partidos que pierdan su registro y de adjudicación de sus bienes remanentes, así como registrar la certificación de vigencia del registro de los partidos políticos nacionales;
 
 VI.- Conocer y resolver sobre los convenios de coaliciones y fusiones que celebren los partidos;
 
@@ -1245,7 +1373,9 @@ VIII.- Determinar el tope de gastos de campaña que pueden erogar los partidos p
 
 IX.- Registrar la plataforma electoral de los partidos políticos;
 
-X.- Conocer los lineamientos a que se sujetará el padrón electoral, de conformidad con el convenio y las bases de colaboración suscritos con el Instituto Federal Electoral;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+X.- Conocer los lineamientos a que se sujetará el padrón electoral, de conformidad con el convenio y las bases de colaboración suscritos con el Instituto Federal Electoral; asimismo, podrá convenir con ese Instituto que se haga cargo de los procesos electorales locales;
 
 XI.- Proponer y acordar la división del territorio del Estado en distritos electorales uninominales y con fundamento en la información proporcionada por el Registro Federal de Electores, ordenar la publicación en el Periódico Oficial del Estado, del número de secciones electorales de los distritos y municipios de la Entidad;
 
@@ -1685,9 +1815,11 @@ XX.- Recibir hasta antes del inicio del cómputo distrital los escritos de prote
 
 XXI.- Las demás que le confiera esta Ley, el pleno del Consejo General y otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 103.
 
-A más tardar el día diez de octubre del año anterior a la elección de Gobernador y Diputados, los Consejos Distritales deberán ser instalados e iniciar sus sesiones y actividades, a partir de esa fecha y hasta el término del proceso, sesionarán por lo menos dos veces al mes.
+A más tardar el veinte de febrero del año de la elección, los Consejos Distritales deberán ser instalados e iniciar sus sesiones y actividades. A partir de esa fecha y hasta el término del proceso, sesionarán por lo menos dos veces al mes.
 
 ###### Artículo 104.
 
@@ -1735,9 +1867,11 @@ XVII.- Recibir hasta antes del inicio del cómputo municipal los escritos de pro
 
 XVIII.- Las demás que le confiera esta Ley, el pleno del Consejo General y otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 106.
 
-A más tardar el día diez de julio del año de la elección de Ayuntamientos, los Consejos Municipales deberán ser instalados e iniciar sus sesiones y actividades. A partir de esa fecha y hasta el término del proceso, sesionarán por lo menos dos veces al mes.
+A más tardar el primero de marzo del año de la elección, los Consejos Municipales deberán ser instalados e iniciar sus sesiones y actividades. A partir de esa fecha y hasta el término del proceso, sesionarán por lo menos dos veces al mes.
 
 ###### Artículo 107.
 
@@ -1773,11 +1907,11 @@ IV.- Si sesenta días naturales antes de la Elección de que se trate y aplicada
 
 V.- A más tardar quince días después de la insaculación, los Consejos Electorales respectivos iniciarán con los cursos de capacitación.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 111.
 
-Integradas las mesas directivas de casillas en los términos del Artículo 110 de esta Ley y cincuenta y cinco días naturales antes de la fecha de elecciones de Gobernador, Diputados o de Ayuntamientos, los Consejos Distritales o Municipales Electorales, publicarán en sus respectivas demarcaciones y en los diarios de mayor circulación del Estado, una relación que indique: La sección electoral, la ubicación, número y cantidad de casillas electorales que se instalarán, así como los nombres de sus integrantes.
+Integradas las mesas directivas de casilla en los términos del Artículo 110 de esta Ley y cincuenta y cinco días naturales antes de la fecha de la elección, los Consejos Distritales o Municipales electorales, publicarán en sus respectivas demarcaciones y en los medios electrónicos de que disponga el Instituto, una relación que indique: la sección electoral, la ubicación, número y cantidad de casillas electorales que se instalarán, así como los nombres de sus integrantes.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2123,11 +2257,11 @@ IV.- Del cómputo y declaración de validez de las elecciones; y
 
 V.- Conclusión del proceso electoral.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 146.
 
-El proceso electoral para las elecciones ordinarias de Gobernador y Diputados, se inicia en el mes de agosto del año anterior al día de los comicios y concluye con la publicación de la declaración de validez o con la nulidad de las elecciones, y con la asignación de los Diputados de representación proporcional.
-
-El proceso electoral para las elecciones ordinarias de Ayuntamientos, inicia en el mes de junio del año de los comicios y concluye con la publicación de declaración de validez o con la nulidad de las elecciones y con la asignación de los Regidores de representación proporcional, y los síndicos de primera minoría que correspondan.
+Los procesos electorales para las elecciones ordinarias, se inician con la sesión que realice el Consejo General del Instituto Estatal Electoral de Hidalgo el 15 de enero del año de los comicios y concluyen con las determinaciones sobre la validez de la elección correspondiente y el otorgamiento o asignación de constancias que realicen los consejos del Instituto, o con las resoluciones que, en su caso, pronuncie el Tribunal Electoral.
 
 ### CAPÍTULO SEGUNDO. DE LA PREPARACIÓN DE LAS ELECCIONES
 
@@ -2173,51 +2307,67 @@ XIV.- Los demás que el Consejo General prevea.
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Precampaña electoral: Al conjunto de actos realizados por los partidos políticos o coaliciones, con el propósito de elegir a los ciudadanos que aspiran a ser nominados como sus candidatos para ocupar puestos de elección popular. Las precampañas forman parte del proceso electoral y se circunscriben a la etapa preparatoria de las elecciones constitucionales.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-II.- Actos de Precampaña: Las acciones que tienen por objeto obtener la nominación como candidato del partido político o coalición. Entre otras, quedan comprendidas las siguientes:
+I.- Proceso partidista de selección y postulación de candidatos: Al conjunto de actos realizados por los partidos políticos o coaliciones, con el propósito de elegir a los ciudadanos que aspiran a ser nominados como sus candidatos para ocupar puestos de elección popular. Los procesos internos de selección y postulación de candidatos forman parte del proceso electoral y se circunscriben a la etapa preparatoria de las elecciones constitucionales.
 
-a.- Reuniones públicas o privadas;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-b.- Promociones a través de medios impresos;
+II.- Actos de Precampaña: Las acciones y los medios a través de los cuales los aspirantes o precandidatos y sus simpatizantes difunden la propaganda de la precampaña electoral, con la finalidad de obtener la nominación como candidato del partido político o coalición. Las precampañas forman parte de los procesos internos de selección de candidatos y se circunscriben a la fase en que los aspirantes o precandidatos pueden realizar actos de proselitismo para la obtención del voto, para ser registrados como candidatos conforme a las normas estatutarias de los partidos políticos o coaliciones postulantes. Entre otras, quedan comprendidas las siguientes:
 
-c.- Promociones a través de anuncios espectaculares en la vía pública;
+a).- Reuniones públicas o privadas;
 
-d.- Asambleas;
+b).- Promociones a través de medios impresos;
 
-e.- Debates;
+c).- Promociones a través de anuncios espectaculares en la vía pública;
 
-f.- Entrevistas en los medios; y
+d).- Asambleas;
 
-g.- Visitas domiciliarias.
+e).- Debates;
+
+f).- Entrevistas en los medios; y
+
+g).- Visitas domiciliarias.
 
 III.- Propaganda de precampaña electoral: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la precampaña electoral producen y difunden los aspirantes a candidatos y sus simpatizantes, con el propósito de presentar y divulgar sus propuestas ante la sociedad y los militantes del partido por el que aspiran ser nominados; y
 
 IV.- Precandidatos: Los ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su nominación como candidato a un puesto de elección popular.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 149.
 
-El partido político o coalición deberá informar por escrito al Consejo General del Instituto Estatal Electoral, sobre el inicio de la precampaña electoral dentro de los cinco días naturales anteriores a ésta, en el que deberá acompañar un informe de los lineamientos o acuerdos, a los que estarán sujetos los precandidatos.
+El partido político o coalición deberá informar por escrito al Consejo General del Instituto Estatal Electoral, sobre el inicio de sus procesos partidistas de selección y postulación de candidatos dentro de los cinco días naturales anteriores a éstos, en el que deberá acompañar un informe de los lineamientos o acuerdos a los que estarán sujetos los precandidatos.
 
 En el informe señalado en el párrafo anterior deberá incluirse:
 
-I.- Las fechas de inicio y conclusión de las precampañas;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-II.- Los tiempos específicos en el cual los precandidatos podrán realizar las actividades descritas en el artículo 148 fracciones I y II de esta Ley;
+I.- Las fechas de inicio y conclusión del correspondiente proceso partidista de selección y postulación de candidatos;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+II.- Los tiempos específicos en el cual los precandidatos podrán realizar las actividades descritas en el Artículo 148 fracción II de esta Ley;
 
 III.- El método o forma seleccionado conforme a sus estatutos para postular a sus candidatos; y
 
 IV.- El compromiso de retirar la propaganda de sus precandidatos, una vez concluida la precampaña correspondiente, dentro de los plazos señalados en este ordenamiento.
 
-En caso de que un precandidato, partido político o coalición, no informe del inicio de sus precampañas respectivas al Consejo General del Instituto Estatal Electoral, dentro de los plazos establecidos, se entenderá que éstas han iniciado una vez que sean públicos y notorios los actos y gastos de precampaña, en tal virtud se aplicarán las sanciones correspondientes.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+En caso de que un partido político o coalición, no informe del inicio de sus procesos partidistas de selección y postulación de candidatos respectivos al Consejo General del Instituto Estatal Electoral, dentro de los plazos establecidos, se entenderá que éstos han iniciado una vez que sean públicos y notorios los actos y gastos de dichos procesos. En tal virtud, se aplicarán las sanciones correspondientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 150.
 
-Las precampañas no podrán iniciarse antes de 120 días naturales del inicio del periodo de registro de candidatos correspondientes, debiendo concluir a más tardar 15 quince días naturales antes del inicio del periodo de registro de candidatos a Gobernador y Diputados y 30 días naturales tratándose de la elección de Ayuntamientos.
+Los procesos partidistas de selección y postulación de candidatos no podrán iniciarse antes de 75 días naturales del inicio del periodo de presentación de solicitudes de registro de candidatos correspondientes, debiendo concluir a más tardar 15 días naturales antes del inicio de ese periodo, tratándose de las elecciones de diputados y ayuntamientos, y diez días, en el caso de la elección de Gobernador.
 
 Ninguna precampaña podrá exceder en su duración los siguientes plazos:
 
-I.- Para la precampaña de Gobernador Constitucional del Estado, hasta 30 días naturales;
+(REFORMADA, P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
+
+I.- Para la precampaña de Gobernador Constitucional del Estado, hasta 20 días naturales;
 
 II.- Para la precampaña de integrantes al Congreso del Estado, hasta 15 días naturales; y
 
@@ -2229,23 +2379,27 @@ III.- Para la precampaña de integrantes de los Ayuntamientos, hasta 15 días na
 
 Los ciudadanos que por sí mismos realicen actividades propagandísticas y publicitarias, con el objeto de promover su imagen personal, de manera pública y con el inequívoco propósito de obtener la postulación a un cargo de elección popular, se ajustarán a los plazos y disposiciones establecidos en esta Ley.
 
-> <small>(F. DE E., P.O. 21 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-El incumplimiento a esta norma, deberá sancionarse en términos de lo previsto en el Artículo 262 del presente ordenamiento.
+El incumplimiento a lo dispuesto en el presente Capítulo, deberá sancionarse en términos de lo previsto en el Artículo 262 del presente ordenamiento.
 
 ###### Artículo 151.
 
 Los partidos políticos dispondrán lo necesario a fin de que los precandidatos sean reconocidos como tales, extendiéndoles las constancias de registro respectivas, si cumplen con los requisitos y resulte procedente, conforme a esta Ley, los estatutos y acuerdos del partido. En los formatos de registro, se hará mención de la fidelidad de los datos proporcionados, bajo protesta de decir verdad por parte de los precandidatos. Los partidos políticos deberán notificar al Instituto Estatal Electoral los nombres de los ciudadanos que participarán como precandidatos.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 152.
 
-Los precandidatos se sujetarán a los plazos y disposiciones establecidas en esta Ley y a los estatutos de su partido. El incumplimiento a esta disposición será motivo para que el Consejo General del Instituto Estatal Electoral, en su momento, le niegue el registro como candidato, sin menoscabo de las sanciones a las que pueda ser sujeto por los estatutos del partido político correspondiente.
+Los precandidatos se sujetarán a los plazos y disposiciones establecidas en esta Ley y a los estatutos de su partido. Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición. El incumplimiento a esta disposición será motivo para que el Consejo General del Instituto Estatal Electoral, en su momento, le niegue el registro como candidato, sin menoscabo de las sanciones a las que pueda ser sujeto por los estatutos del partido político correspondiente.
 
 ###### Artículo 153.
 
 Las precampañas de los partidos políticos no podrán ser financiadas con las prerrogativas públicas que por Ley les correspondan.
 
-Los recursos que destinen los precandidatos para la realización de propaganda y actos de precampaña electoral, no podrán ser mayores al 20% del tope establecido en la elección inmediata anterior de que se trate.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+El tope de gastos de precampaña por precandidato para cada elección será el que fije el órgano interno responsable del manejo del financiamiento de cada partido y deberá señalarse en la convocatoria correspondiente. En todo caso, los gastos de precampaña sumados a las erogaciones de campaña provenientes de aportaciones de simpatizantes no podrán exceder los límites señalados en la fracción III del Artículo 39 de esta Ley.
 
 ###### Artículo 154.
 
@@ -2291,7 +2445,9 @@ Corresponde a los partidos políticos y coaliciones el derecho de presentar las 
 
 Los precandidatos no podrán producir o difundir propaganda de precampaña antes de iniciada la misma.
 
-La propaganda de la precampaña electoral no podrá ser colocada o fijada en el equipamiento urbano, en espacios de uso común, ni en edificios públicos, además de las prohibiciones establecidas en los artículos 183 y 184 de esta Ley.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+La propaganda de la precampaña electoral no podrá ser pintada, colocada o fijada en el equipamiento urbano, en espacios de uso común, ni en edificios públicos y deberá sujetarse a lo dispuesto en los Artículos 183 y 184 de esta Ley.
 
 Los precandidatos, partidos políticos o coaliciones realizarán sus actividades propagandísticas dentro de los cauces normativos de las precampañas, conduciéndose dentro del marco de ética y respeto hacia sus contendientes y ajustándose a los lineamientos de los partidos políticos en los que compitan.
 
@@ -2395,13 +2551,17 @@ Los precandidatos podrán ser requeridos por el Instituto Estatal Electoral, a t
 
 #### SECCIÓN PRIMERA. DEL REGISTRO DE CANDIDATOS, FÓRMULAS Y PLANILLAS
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 172.
 
-El registro de candidatos a Diputados y Gobernador del Estado, estará abierto del 10 al 15 de diciembre del año anterior de la elección ordinaria. El de Ayuntamientos será del 10 al 15 de octubre del año de los comicios. Los órganos electorales darán amplia difusión a la apertura del registro.
+El plazo para la presentación de solicitudes de registro de candidatos a Diputados por los principios de mayoría relativa y de representación proporcional, así como de Gobernador del Estado, correrá del quincuagésimo noveno al quincuagésimo séptimo día anterior al de la celebración de la jornada electoral. El de registro de planillas para Ayuntamientos será del trigésimo noveno al trigésimo séptimo día anterior al de la jornada comicial. Los órganos electorales darán amplia difusión a la apertura del periodo de registro.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 173.
 
-Las fórmulas de candidatos a Diputados por el principio de representación proporcional, deberán ser registradas por los partidos políticos o coaliciones ante el Consejo General del Instituto Estatal Electoral, del 16 al 20 de diciembre del año anterior de la elección, mediante una lista de 12 fórmulas de candidatos a Diputados propietarios con sus respectivos suplentes.
+Las fórmulas de candidatos a Diputados por el principio de representación proporcional, deberán ser registradas por los partidos políticos o coaliciones ante el Consejo General del Instituto Estatal Electoral, mediante una lista de 12 fórmulas de candidatos a Diputados propietarios con sus respectivos suplentes.
 
 Los partidos políticos podrán participar, hasta en cuatro distritos, con candidatos por el principio de mayoría relativa y de representación proporcional.
 
@@ -2451,11 +2611,13 @@ Para el registro de candidaturas a todo cargo de elección popular, el partido p
 
 Las solicitudes de registro deberán estar firmadas de conformidad por los candidatos, y se anexarán los documentos que acrediten los requisitos señalados.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 177.
 
-Dentro de las setenta y dos horas siguientes a la presentación de una solicitud de registro de candidato, fórmula o planilla, el órgano electoral que corresponda concederá o negará el registro. Toda resolución será notificada por estrados y será recurrible.
+El quincuagésimo cuarto día anterior al de la jornada comicial, el órgano electoral que corresponda concederá o negará el registro de candidatos a Gobernador del Estado y de Diputados. En el caso de la elecciones de Ayuntamientos, el órgano electoral sesionará para resolver sobre el otorgamiento del registro de planillas el trigésimo cuarto día anterior al de la jornada electoral. Toda resolución será notificada por estrados y será recurrible.
 
-Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que dentro de las 48 horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura, siempre y cuando esto pueda realizarse dentro de los plazos que señalan los artículos 172 y 173 de esta Ley.
+Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que dentro de las 48 horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura, siempre y cuando ello pueda realizarse dentro del plazo que señala el Artículo 172 de esta Ley.
 
 ###### Artículo 178.
 
@@ -2473,7 +2635,9 @@ Para la sustitución de candidatos, fórmulas o planillas, los partidos polític
 
 I.- Dentro del plazo establecido para el registro de candidatos, fórmulas o planillas, podrán sustituirlos libremente; y
 
-II.- Vencido el plazo al que se refiere el inciso anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+II.- Vencido el plazo al que se refiere la fracción anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia. Si un partido obtuvo el registro de sus candidatos postulándolos por sí mismo o en coalición, en ningún caso la sustitución podrá provocar un cambio en la modalidad de participación.
 
 Para las coaliciones se tendrá que acreditar que cumplió con lo dispuesto en los artículos 51 al 58 de esta Ley, según corresponda.
 
@@ -2487,7 +2651,15 @@ El Instituto Estatal Electoral publicará oportunamente en el Periódico Oficial
 
 Para efectos de esta Ley, la campaña electoral es el conjunto de actividades llevadas a cabo por los partidos políticos o coaliciones, candidatos, fórmulas o planillas registradas y sus simpatizantes, para la obtención del voto.
 
-Se contemplarán como actividades de campaña electoral: las reuniones públicas, asambleas, debates entre candidatos, giras, visitas domiciliarias, el uso de propaganda electoral y otros eventos de proselitismo que se realicen para propiciar el conocimiento de los objetivos y programas contenidos en la plataforma electoral que para la elección hayan registrado los partidos políticos o coaliciones. Éstas no tendrán más limitaciones que el respeto a la vida privada de los candidatos, fórmulas, planillas, autoridades y terceros.
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Las campañas electorales iniciarán una vez que el órgano electoral correspondiente apruebe el registro de candidatos de la elección respectiva y concluirán tres días antes de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Desde el inicio de las campañas electorales y hasta la conclusión de la respectiva jornada electoral, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de las Autoridades Estatales, como Municipales y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud o las necesarias para la protección civil en caso de emergencia.
+
+Se contemplarán como actividades de campaña electoral: Las reuniones públicas, asambleas, debates entre candidatos, giras, visitas domiciliarias, el uso de propaganda electoral y otros eventos de proselitismo que se realicen para propiciar el conocimiento de los objetivos y programas contenidos en la plataforma electoral que para la elección hayan registrado los partidos políticos o coaliciones. Éstas no tendrán más limitaciones que el respeto a la vida privada de los candidatos, fórmulas, planillas, autoridades y terceros.
 
 Los partidos políticos, los candidatos y sus simpatizantes deberán preservar el orden público.
 
@@ -2511,15 +2683,31 @@ V.- Los partidos políticos están obligados a cuidar que su propaganda no destr
 
 En la colocación de propaganda electoral los partidos políticos y candidatos observarán las siguientes reglas:
 
-I.- Podrá colgarse en elementos del equipamiento urbano, bastidores y mamparas, siempre que no lo dañen, se impida la visibilidad de conductores de vehículos o la circulación de peatones y se observe lo dispuesto en la fracción IX del artículo 33 de esta Ley;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+I.- Podrá colgarse en bastidores y mamparas, siempre que no los dañen, se impida la visibilidad de conductores de vehículos o la circulación de peatones y se observe lo dispuesto en la fracción IX del Artículo 33 de esta Ley;
 
 II.- Podrá colgarse o fijarse en inmuebles de propiedad privada, siempre que medie permiso por escrito del propietario;
 
-III.- No podrá fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-IV.- No podrá colgarse, fijarse o pintarse en monumentos, zonas arqueológicas e históricas, ni en el exterior de edificios públicos; y
+III.- No podrá colgarse, fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, árboles o reservas ecológicas, ni en accidentes geográficos cualquiera que sea su régimen jurídico;
 
-V.- Podrá colgarse o fijarse en lugares de uso común que determinen los organismos electorales previo acuerdo con las autoridades correspondientes, estos espacios serán asignados mediante el sorteo entre los partidos políticos contendientes.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+IV.- No podrá colgarse, fijarse o pintarse en monumentos, construcciones de valor histórico o cultural, instalaciones escolares, zonas arqueológicas e históricas, ni en edificios públicos o vehículos oficiales;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+V.- Podrá colgarse o fijarse en lugares de uso común que determinen los organismos electorales previo acuerdo con las autoridades correspondientes, estos espacios serán asignados mediante el sorteo entre los partidos políticos contendientes; y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+VI.- No podrán emplearse sustancias tóxicas ni materiales que produzcan un riesgo directo para la salud de las personas o que contaminen el medio ambiente. Toda la propaganda impresa será reciclable y preferentemente deberá elaborarse con materiales reciclados o biodegradables.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+La violación a lo dispuesto en este Artículo será sancionado en términos de lo dispuesto en el Artículo 256 de esta Ley.
 
 ###### Artículo 185.
 
@@ -2805,13 +2993,19 @@ I.- De manera secreta marcará en cada una de las boletas el círculo que conten
 
 II.- Cuando desee votar por candidatos no registrados escribirá en el lugar correspondiente el nombre de éstos y cruzará el círculo en blanco;
 
-III.- Si se encuentra incapacitado físicamente para sufragar, podrá auxiliarse de otra persona, quien marcará la boleta y la introducirá en la urna respectiva, siempre y cuando no sea funcionario de casilla, ni representante de partido;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+III.- Los electores con capacidades diferentes, para sufragar podrán auxiliarse de otra persona, quien marcará la boleta y la introducirá en la urna respectiva, siempre y cuando no sea funcionario de casilla, ni representante de partido. Las mujeres embarazadas y los adultos mayores, si así lo solicitan, tendrán derecho preferencial para emitir su voto y, de ser necesario, podrán acceder a la casilla con un acompañante que los asista. El presidente de la mesa directiva de casilla adoptará las medidas necesarias para hacer efectivos estos derechos. Para el caso de que corresponda al acompañante emitir su voto en esa casilla, el presidente decidirá si le hace extensivo el derecho preferencial.
+
+Los electores podrán emitir su voto acompañados por niños, si el presidente de la casilla considera que con ello no se altera el orden;
 
 IV.- Si no sabe leer ni escribir, podrá auxiliarse de una persona de su confianza, siempre y cuando ésta no sea funcionario de casilla ni representante de partido;
 
 V.- El personal de las fuerzas armadas y el de la policía, deben presentarse a votar individualmente, sin armas y sin vigilancia de mando superior alguno; y
 
-VI.- Cuando el elector haya emitido su voto, el Presidente de la Mesa Directiva de Casilla le aplicará la tinta indeleble en uno de los dedos pulgares y posteriormente le devolverá su credencial con la marca respectiva, en tanto que el Secretario anotará en la lista nominal de electores la palabra “voto''.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+VI.- Cuando el elector haya emitido su voto, el Presidente de la Mesa Directiva de Casilla le aplicará la tinta indeleble en uno de los dedos pulgares y posteriormente le devolverá su credencial con la marca respectiva, en tanto que el Secretario anotará en la lista nominal de electores la palabra ''votó''.
 
 ###### Artículo 213.
 
@@ -3069,15 +3263,37 @@ Quienes practiquen encuestas o sondeos de opinión, encuestas de salida y/o cont
 
 #### SECCIÓN TERCERA. DE LA SESIÓN DE CÓMPUTO EN EL CONSEJO GENERAL
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 235.
 
-Corresponde al Consejo General celebrar la sesión de cómputo y declaración de validez de la elección de Gobernador, la cual deberá realizarse a las 10:00 horas del día viernes siguiente al día de la elección.
+Corresponde al Consejo General celebrar la sesión de cómputo y declaración de validez de la elección de Gobernador, la cual deberá realizarse a las 10:00 horas del día domingo siguiente al día de la elección.
 
 ###### Artículo 236.
 
 Durante la sesión se informará de los resultados de la votación consignados en las actas de los cómputos distritales y se levantará el acta de cómputo estatal correspondiente.
 
-Al término de la sesión de cómputo, se procederá a realizar la declaración de validez de las elecciones y se extenderá la constancia al candidato que obtuvo la mayoría de votos.
+(REFORMADO, [N. DE E. ADICIONADO], P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
+
+Si de la sumatoria de resultados que conste en las actas de cómputo distrital de todos los distritos se establece que la diferencia entre el candidato presunto ganador de la elección en la entidad y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual de la votación Estatal emitida, y existe la petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo General deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del anterior procedimiento las casillas que ya hubiesen sido objeto de recuento.
+
+(REFORMADO, [N. DE E. ADICIONADO], P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
+
+Conforme a lo establecido en el párrafo anterior, para realizar el recuento total de votos respecto de la elección de Gobernador, el Consejo General dispondrá lo necesario para que sea concluido a más tardar el décimo día contado a partir del de la jornada electoral. Para tales efectos, el Consejo General podrá ordenar la creación de grupos de trabajo en cada distrito electoral. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+
+(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
+
+Quien presida cada grupo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato.
+
+(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
+
+El Pleno del Consejo realizará la suma de los resultados consignados en las actas de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de Gobernador.
+
+(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
+
+Concluido el cómputo se procederá a realizar la declaración de validez de la elección y se expedirá la constancia al candidato que obtuvo la mayoría de votos.
+
+(ADICIONADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
 
 La entrega de la constancia de mayoría y la declaración de validez que emita el Consejo General, será recurrible en los términos de la Ley Estatal de Medios de Impugnación en Materia Electoral.
 
@@ -3105,13 +3321,31 @@ El Consejo Distrital Electoral, iniciada la sesión, procederá a realizar el c�
 
 I.- Comunes para las elecciones de Diputados y Gobernador:
 
-a.- Se extraerá del sobre respectivo, el original del acta única de la jornada electoral, procediendo a computar la votación de cada una de las casillas.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-En caso de que el contenido del acta única de la jornada electoral referente a los resultados de la votación sea cuestionado por evidenciar presunto error aritmético o alteración notoria en el texto de los datos asentados, será procedente por única vez, abrir el paquete electoral y repetir el escrutinio y cómputo de la casilla de la que se trate;
+a).- Se extraerá del sobre respectivo, el original del acta única de la jornada electoral, procediendo a computar la votación de cada una de las casillas.
 
-b.- Levantará el acta de cómputo con las copias necesarias, haciendo constar en ellas las operaciones practicadas, los resultados del cómputo, los incidentes, los recursos interpuestos y las pruebas exhibidas, absteniéndose de opinar o resolver sobre ellos; y
+En caso de que el contenido del acta única de la jornada electoral referente a los resultados de la votación sea cuestionado por evidenciar presunto error aritmético o alteración notoria en el texto de los datos asentados, o porque todos los votos hayan sido depositados a favor de un mismo partido, será procedente por única vez, abrir el paquete electoral y repetir el escrutinio y cómputo de la casilla de que se trate.
 
-c.- Al concluir la sesión de cómputo, en los plazos que fije la Ley Estatal de Medios de Impugnación, recibirá los recursos de inconformidad interpuestos y las pruebas exhibidas.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+b).- Respecto de la elección de Diputados y de los cómputos distritales para la elección de Gobernador, si de la sumatoria se establece que la diferencia entre el candidato presunto ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual de la votación válida emitida en el distrito, y existe la petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo Distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
+
+Igualmente, cuando al inicio de la sesión exista petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, y exista indicio de que la diferencia entre el candidato presunto ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual de la votación válida emitida en el distrito, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación, ante el Consejo, de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito, apoyadas en la coincidencia de todas las actas en poder del partido con las que obran en poder del Consejo.
+
+Conforme a lo establecido en los dos párrafos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital dispondrá lo necesario para que sea concluido antes del domingo siguiente al de la jornada electoral. Para tales efectos, el presidente del Consejo Distrital dará aviso inmediato al Secretario General del Instituto, y ordenará la creación de grupos de trabajo. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente. En todo caso, el Consejo Electoral designará a la persona que presidirá cada grupo de trabajo.
+
+Quien presida cada grupo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato.
+
+El presidente del Consejo realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
+
+Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los Consejos Distritales siguiendo el procedimiento establecido en este Artículo, no podrán invocarse como causa de nulidad ante el Tribunal.
+
+En ningún caso podrá solicitarse al Tribunal que realice recuento de votos respecto de las casillas que hayan sido objeto de dicho procedimiento en los Consejos Distritales.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+c).- Los resultados de la sesión de cómputo se asentarán en el acta final de cómputo de la elección de que se trate. Asimismo, se levantará acta circunstanciada en la que se harán constar las operaciones practicadas, los resultados del cómputo, los incidentes y las pruebas exhibidas.
 
 II.- Para la elección de Diputados:
 
@@ -3119,25 +3353,39 @@ a.- Al término del cómputo se hará la declaración de validez de la elección
 
 La entrega de la constancia de mayoría y la declaración de validez que emitan los Consejos Distritales, serán recurribles en los términos de la Ley Estatal de Medios de Impugnación en Materia Electoral.
 
-b.- Los paquetes y sobres electorales de las casillas a que se refiere el artículo 221 fracción I de esta Ley, los entregará al Consejo General del Instituto Estatal Electoral. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo distrital, el acta de la sesión permanente de la jornada electoral, el acta de la sesión de cómputo del Consejo Distrital, los recursos de inconformidad interpuestos, escritos de protesta y pruebas exhibidas. El original lo turnará al Tribunal Electoral del Poder Judicial del Estado de Hidalgo para su resolución y la copia la enviará al Consejo General del Instituto Estatal Electoral para los efectos de Ley.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+b).- Los paquetes y sobres electorales de las casillas a que se refiere el Artículo 221 fracción I de esta Ley, los entregará al Consejo General del Instituto Estatal Electoral. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo distrital, el acta de la sesión permanente de la jornada electoral, el acta de la sesión de cómputo del Consejo Distrital, escritos de protesta y pruebas exhibidas. El original, en su caso, lo turnará al Tribunal Electoral para su resolución y la copia la enviará al Consejo General del Instituto Estatal Electoral para los efectos de Ley.
 
 III.- Para la elección de Gobernador:
 
-a.- Los paquetes y sobres electorales de las casillas correspondientes al distrito, a que se refiere el artículo 221 fracción II de esta Ley, los entregará al Consejo General del Instituto Estatal Electoral. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo distrital, copia de la sesión permanente de la jornada electoral, el acta de la sesión de cómputo del Consejo Distrital, los recursos de inconformidad interpuestos, escritos de protesta, las pruebas exhibidas. El original y copia lo turnará al Consejo General del Instituto Estatal Electoral o al Tribunal Electoral del Poder Judicial del Estado, para los efectos de Ley.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+a).- Los paquetes y sobres electorales de las casillas correspondientes al distrito, a que se refiere el Artículo 221 fracción II de esta Ley, los entregará al Consejo General del Instituto Estatal Electoral. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo distrital, copia del acta de la sesión permanente de la jornada electoral, acta circunstanciada de la sesión de cómputo del Consejo Distrital, escritos de protesta, las pruebas exhibidas e informe del proceso electoral en su demarcación. El original, en su caso, lo turnará al Tribunal Electoral para su resolución y la copia la enviará al Consejo General del Instituto Estatal Electoral para los efectos de Ley.
 
 ###### Artículo 242.
 
 El Consejo Municipal Electoral, iniciada la sesión practicará el cómputo de la votación de la elección de Ayuntamientos, realizando en su orden las operaciones siguientes:
 
-I.- Se extraerá del sobre electoral, el original del acta única de la jornada electoral, procediéndose a computar la votación de cada una de las casillas. En caso de que el contenido del acta única de la jornada electoral referente a los resultados de la votación sea cuestionado por evidenciar presunto error aritmético o notoria alteración en el texto de los datos asentados, será procedente por única vez, abrir el paquete electoral y repetir el escrutinio y cómputo de la casilla de que se trate;
+I.- Se extraerá del sobre electoral, el original del acta única de la jornada electoral, procediéndose a computar la votación de cada una de las casillas. En caso de que el contenido del acta única de la jornada electoral referente a los resultados de la votación sea cuestionado por evidenciar presunto error aritmético o notoria alteración en el texto de los datos asentados, será procedente por única vez, abrir el paquete electoral y repetir el escrutinio y cómputo de la casilla de que se trate.
 
-II.- Levantará el acta de cómputo con las copias necesarias, haciendo constar en ella las operaciones practicadas, los resultados de cómputo, los incidentes y en su caso los escritos de protesta, los recursos interpuestos y las pruebas que se presenten, absteniéndose de opinar o resolver sobre ellos;
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-III.- Al término del cómputo, se hará la declaración de validez de la elección y se extenderá la constancia a la planilla que haya obtenido la mayoría de votos conforme al cómputo de la elección;
+Para la realización del cómputo municipal serán aplicables, en lo conducente, las disposiciones previstas en el apartado b de la fracción I del Artículo anterior.
 
-IV.- Al concluir la sesión de cómputo, en los plazos que fije la Ley Estatal de Medios de Impugnación y en los términos de esta Ley recibirá los recursos de inconformidad interpuestos y las pruebas que se presenten; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-V.- Los paquetes y sobres electorales de las casillas a que se refiere el artículo 221 inciso C fracción II de esta Ley, los entregará al Instituto Estatal Electoral. Por separado formará dos expedientes, en original y copia, que contengan el acta de cómputo municipal, el acta de la sesión permanente de la jornada electoral, el acta de sesión de cómputo del consejo municipal, los recursos interpuestos, escritos de protesta, pruebas exhibidas e informe del proceso electoral en su demarcación. El original lo entregará al Tribunal Electoral del Poder Judicial del Estado para su resolución y la copia al Consejo General del Instituto Estatal Electoral para los efectos de Ley.
+II.- Los resultados de la sesión de cómputo se asentarán en el acta final de cómputo de la elección de que se trate. Asimismo, se levantará acta circunstanciada en la que se harán constar las operaciones practicadas, los resultados del cómputo, los incidentes y las pruebas exhibidas.
+
+(REFORMADA, P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
+
+III.- Al término del cómputo, se hará la declaración de validez de la elección y se extenderá la constancia a la planilla que haya obtenido la mayoría de votos conforme al cómputo de la elección; y (sic)
+
+IV.- (DEROGADA, P.O. 12 DE OCTUBRE DE 2009)
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+V.- Los paquetes y sobres electorales de las casillas a que se refiere el Artículo 221 inciso C fracción II de esta Ley, los entregará al Instituto Estatal Electoral. Por separado formará dos expedientes en original y copia que contengan el acta de cómputo municipal, copia del acta de la sesión permanente de la jornada electoral, acta circunstanciada de la sesión de cómputo del consejo municipal, escritos de protesta, las pruebas exhibidas e informe del proceso electoral en su demarcación. El original, en su caso, lo turnará al Tribunal Electoral para su resolución y la copia la enviará al Consejo General del Instituto Estatal Electoral para los efectos de Ley.
 
 ###### Artículo 243.
 
@@ -3265,25 +3513,21 @@ II.- Se asignará una regiduría por partido político siguiendo el orden de may
 
 ###### Artículo 253.
 
-La autoridad electoral revisará los informes de los partidos políticos y cruzará esa información con la que los concesionarios de radio y televisión le proporcionen. Si algún partido político se excediera en el tiempo diario permitido, la autoridad electoral podrá imponer las siguientes sanciones:
-
-I.- Pecuniarias, en relación directa con el financiamiento público a que tiene derecho el partido infractor;
-
-II.- La pérdida del registro de la candidatura que se sobre publicitó; o
-
-III.- La pérdida del registro del partido político infractor.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2009)
 
 ###### Artículo 254.
 
 Cuando la información generada por un partido político sea desvirtuada, el partido político agraviado podrá protestar por escrito ante la Comisión de Radio, Televisión y Prensa, acompañando el documento de las pruebas correspondientes tales como notas periodísticas, grabaciones u otras que acrediten su protesta, teniendo la facultad de exigir que se publique una nota aclaratoria, sin que dicha publicación se considere dentro de los espacios asignados a los partidos políticos.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 255.
 
-El Consejo General del Instituto Estatal Electoral podrá declarar la suspensión provisional o definitiva de la acreditación o del registro de los partidos políticos o coaliciones cuando estos incurran en alguna de las causas previstas en el artículo 60 fracciones II, III y IV de esta Ley.
+El Consejo General del Instituto Estatal Electoral podrá declarar la suspensión provisional de la acreditación de los partidos políticos cuando estos incurran en alguna de las causas previstas en el Artículo 60 fracciones II, III y IV de esta Ley.
 
-Es causa de suspensión provisional: infringir los acuerdos tomados por los organismos electorales, sin causa justificada; y
+Son causas de suspensión provisional: infringir los acuerdos tomados por los organismos electorales, sin causa justificada, incumplir de manera grave y sistemática las obligaciones que señalan los Artículos 33 y 34 de este ordenamiento o inobservar las disposiciones de esta Ley.
 
-Es causa de suspensión definitiva: incumplir de manera grave y sistemática las obligaciones que señalan los artículos 33 y 34 de este ordenamiento o inobservar las disposiciones de esta Ley.
+Para la aplicación de la sanción establecida en los párrafos precedentes, deberá observarse lo dispuesto en el Artículo 257 de esta Ley.
 
 ###### Artículo 256.
 
@@ -3305,23 +3549,29 @@ II.- Acepten donativos o aportaciones económicas superiores a los límites esta
 
 III.- No presenten los informes anuales o de campaña, en los términos y plazos previstos en la Ley;
 
-IV.- Se excedan en los tiempos diarios permitidos de transmisión de mensajes publicitarios en radio y televisión;
+IV.- (DEROGADA, P.O. 12 DE OCTUBRE DE 2009)
 
 V.- Sobrepasen por más del 10% en las elecciones de Ayuntamientos o Diputados locales y del 5% en la de Gobernador, los topes a los gastos de campaña establecidos; y
 
 VI.- Incurran en cualquier otra falta de las previstas en esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 257.
 
-Para la aplicación de las sanciones a que se refiere la primera parte del artículo anterior, una vez que el Consejo General tenga conocimiento de la infracción con las documentales correspondientes, correrá traslado de ésta al partido político o coalición responsable y lo emplazará para que en el término de cinco días naturales conteste por escrito y aporte pruebas. En un término de tres días el Consejo General sesionará para dictar la resolución del mismo.
+Para la aplicación de las sanciones, una vez que el Consejo General tenga conocimiento de la infracción con las documentales correspondientes, correrá traslado al partido político o coalición responsable y lo emplazará para que en el término de cinco días naturales conteste por escrito y aporte pruebas. Durante la tramitación de los procedimientos deberá respetarse de manera irrestricta la garantía de audiencia de los presuntos infractores. En un término de tres días, el Consejo General sesionará para dictar la resolución correspondiente, en la que deberán considerarse, por lo menos, la gravedad de la falta, las circunstancias de modo, tiempo y lugar de su comisión, la capacidad económica del infractor y, en su caso, la reincidencia o el monto del beneficio o lucro obtenido por el infractor.
 
 Las precitadas resoluciones podrán ser impugnadas en los términos de la Ley Estatal de Medios de Impugnación en Materia Electoral.
 
-El monto de las multas impuestas incrementará el presupuesto del Instituto Estatal Electoral, en un plazo improrrogable de quince días naturales, contados a partir de la notificación al partido político o coalición.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+El monto de las multas impuestas incrementará el presupuesto del Instituto Estatal Electoral, y deberá cubrirse en un plazo improrrogable de quince días naturales, contados a partir de la notificación al partido político o coalición.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 258.
 
-Cuando un partido político o coalición no dé cumplimiento a lo previsto en la fracción VII del artículo 33 de esta Ley, el Presidente Municipal de la demarcación correspondiente, lo hará del conocimiento del Consejo General del Instituto Estatal Electoral, quien requerirá por escrito al partido político o coalición involucrado, para que en un término no mayor de diez días naturales a la fecha de su recepción, cumpla con dicha obligación apercibiéndolo de que en caso de no atender tal disposición, el costo que implique esta operación será deducido del financiamiento público que deba recibir por concepto de prerrogativas.
+Cuando un partido político o coalición no dé cumplimiento a lo previsto en la fracción VII del Artículo 33, será aplicable lo dispuesto en el Artículo 256 de esta Ley, con independencia de que el Presidente Municipal de la demarcación correspondiente lo haga del conocimiento del Consejo General del Instituto Estatal Electoral, quien requerirá por escrito al partido político o coalición involucrado, para que en un término no mayor de diez días naturales a la fecha de su recepción cumpla con dicha obligación, apercibiéndolo de que en caso de no atender tal disposición, el costo que implique esta operación será deducido del financiamiento público que deba recibir por concepto de prerrogativas.
 
 Transcurrido el plazo antes señalado, dentro de los tres días naturales siguientes, el partido político o coalición informará por escrito al Consejo General del Instituto haber cumplido con tal disposición. En caso contrario, el Instituto, acordará que se realice dicha operación afectando las prerrogativas del partido político, coalición o de los partidos políticos integrantes de la coalición de que se trate.
 
@@ -3371,7 +3621,9 @@ c.- Cuando el precandidato, incumpla reiteradamente las disposiciones que reglam
 
 En estos casos, el partido político o coalición podrá registrar como candidato a persona distinta, siempre que los plazos establecidos por la presente Ley lo permitan.
 
-Para la aplicación de estas sanciones se respetará previamente el derecho de audiencia de los presuntos infractores.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Para la aplicación de estas sanciones deberá observarse lo dispuesto en el Artículo 257 de esta Ley.
 
 ## TRANSITORIOS
 
@@ -3408,3 +3660,17 @@ LIC. MIGUEL ÁNGEL OSORIO CHONG
 P.O. 10 DE SEPTIEMBRE DE 2007.
 
 UNICO.- El presente Decreto, entrará en vigor el día siguiente de su Publicación, en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2009.
+
+Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- El Consejo General del Instituto Estatal Electoral de Hidalgo dictará los acuerdos necesarios para hacer efectivas las disposiciones contenidas en la fracción X del Artículo 33 de la Ley Electoral del Estado de Hidalgo, y deberá expedir el Reglamento correspondiente a más tardar en 120 días a partir de la entrada en vigor del presente Decreto.
+
+Quinto.- El Consejo General del Instituto Estatal Electoral de Hidalgo dictará los acuerdos necesarios para establecer los procedimientos para la realización de los recuentos de votos parciales o totales a que se refiere la Ley Electoral del Estado de Hidalgo a más tardar en 120 días a partir de la entrada en vigor del presente Decreto.
+
+Sexto.- Todos los asuntos y procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones vigentes antes de su expedición.
