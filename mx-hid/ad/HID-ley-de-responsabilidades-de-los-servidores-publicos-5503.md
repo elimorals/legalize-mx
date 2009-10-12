@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "2009-05-25"
+last_updated: "2009-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -405,11 +405,27 @@ XXII.- Proporcionar en forma veraz y en los términos que el ordenamiento legal 
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
 
-XXIII.- Cumplir con las recomendaciones, acciones y plazos que determine el Órgano de Fiscalización Superior relacionados con la aplicación del Presupuesto de Egresos, de la rendición de la Cuenta Pública y de los demás elementos de control de los recursos públicos; y
+XXIII.- Cumplir con las recomendaciones, acciones y plazos que determine el Órgano de Fiscalización Superior relacionados con la aplicación del Presupuesto de Egresos, de la rendición de la Cuenta Pública y de los demás elementos de control de los recursos públicos; y (sic)
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+XXIV.- Aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+XXV.- Abstenerse de incluir nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público, de cualquiera de los poderes del Estado u órganos de gobierno en la propaganda que bajo cualquier modalidad de comunicación social difundan como tales los poderes públicos, los órganos autónomos, los Ayuntamientos, las Dependencias y Entidades de la Administración Pública Estatal y Municipal y asegurarse de que la misma tenga carácter institucional y fines informativos, educativos o de orientación social.
+
+Se entiende que no implican promoción personalizada, entre otros, la difusión con cargo al erario público, por cualquier medio de comunicación social de:
+
+a).- Orientación a la ciudadanía en casos de epidemias, desastres naturales, emergencias o eventos de conmoción social;
+
+b).- Los informes de labores o gestión que por disposición legal se deban rendir, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social. Siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe;
+
+En ningún caso podrán difundirse los actos precisados en los incisos anteriores con fines electorales o dentro de los periodos de campañas electorales, ya sean Federales o Estatales;
 
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
 
-XXIV.- Las demás que le impongan las Leyes y Reglamentos.
+XXVI.- Las demás que le impongan las Leyes y Reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría, el subalterno deberá practicarla directamente informando a su superior acerca de este acto.
 
@@ -822,3 +838,9 @@ La presente reforma entrará en vigor al día siguiente de su Publicación en el
 ###### ARTICULO TERCERO.
 
 Ante la contingencia que se ha presentado, derivado de los razonamientos vertidos en el punto Décimo de la exposición de motivos del Presente Dictamen, por lo que respecta a este año de 2009, el plazo de presentación de la declaración de modificación patrimonial, que de acuerdo al Artículo 81 debe realizarse durante el mes de mayo, será durante el mes de junio del mismo año.
+
+P.O. 12 DE OCTUBRE DE 2009.
+
+Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
