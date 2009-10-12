@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-administrativa-para-el-estado-de-oaxaca-47648"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-02-18"
+last_updated: "2009-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2009.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 2005.
 
@@ -149,7 +149,9 @@ II. El acto administrativo que se declare jurídicamente nulo será inválido; n
 
 III. En caso de que el acto se hubiera consumado, o bien, sea imposible de hecho o de derecho retrotraer sus efectos, sólo dará lugar a la responsabilidad del servidor público que la hubiere emitido u ordenado, y
 
-IV. La omisión o irregularidad en los elementos y requisitos señalados en las fracciones XII a XIV del artículo 7 de esta Ley, producirá la nulidad del acto administrativo y dará acción al administrado para demandar ésta ante el Tribunal.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+IV. La omisión o irregularidad en los elementos y requisitos señalados en las fracciones XI a la XV del artículo 7 producirá la nulidad del acto administrativo y dará acción al administrado para demandar ésta ante el Tribunal.
 
 ###### ARTICULO 9.
 
@@ -217,9 +219,11 @@ I. El administrado deberá adjuntar a su escrito los documentos que acrediten su
 
 Asimismo, el administrado señalará en su primera promoción, domicilio para recibir notificaciones;
 
-II. En caso de que el administrado sea miembro de alguna comunidad indígena y no hable el idioma español o no lo comprenda, podrá solicitar a la Secretaría de Asuntos Indígenas o a la Procuraduría para la Defensa y Desarrollo de los Pueblos Indígenas, un traductor, que lo auxilie para garantizar su debido proceso.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-III. Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la autoridad deberá prevenir al interesado, por escrito y por una sola vez, para que dentro del término de cinco días hábiles subsane la omisión, y no haciéndolo se tendrá por no interpuesta.
+II. En caso de que el administrado sea miembro de alguna comunidad indígena y no hable el idioma español o no lo comprenda, se podrá solicitar un traductor a una institución pública estatal o federal que lo auxilie para garantizar su debido proceso;
+
+III. Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la autoridad deberá prevenir al interesado, por escrito y por una sola vez, para que dentro del término de cinco días hábiles subsane la omisión, y no haciéndolo se tendrá por no interpuesta;
 
 IV. Si la autoridad no hace el requerimiento de información dentro del plazo correspondiente, no podrá rechazar el escrito inicial por incompleto, y
 
@@ -335,9 +339,11 @@ Si la persona a quien haya de notificarse no atendiere el citatorio, la notifica
 
 De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 26.
 
-Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de las resoluciones por notificar. Dichas publicaciones deberán efectuarse por tres veces consecutivas en el Periódico Oficial del Gobierno del Estado de Oaxaca y en uno de los periódicos diarios de mayor circulación en el territorio del Estado.
+Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de las resoluciones por notificar. Dichas publicaciones deberán efectuarse por tres veces consecutivas de siete en siete días, en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación en el Estado.
 
 En las notificaciones por edictos se tendrá como fecha de notificación la de la última publicación en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos diarios de mayor circulación en el territorio estatal, si no son coincidentes las fechas de las publicaciones, se tomará la última efectuada, independientemente del órgano que la publicó.
 
@@ -357,6 +363,8 @@ Toda notificación deberá efectuarse en el plazo máximo de diez días, a parti
 
 Las notificaciones practicadas de manera irregular surtirán efectos a partir de la fecha en que se haga la manifestación expresa por el interesado o su representante legal de conocer su contenido o se interponga el recurso correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 30.
 
 El afectado podrá impugnar los actos administrativos que no hayan sido notificados o no se hubieren apegado a lo dispuesto en esta Ley, conforme a las siguientes reglas:
@@ -375,7 +383,7 @@ VI. Si se resuelve que no hubo notificación o que ésta no fue efectuada confor
 
 VII. Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
 
-En todo caso es competente para conocer de la nulidad de notificación, el Tribunal, en los términos de la presente Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO NOVENO. DE LA TRAMITACION
 
@@ -727,7 +735,9 @@ La resolución del recurso da acción al agraviado para intentar el juicio que c
 
 La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios; pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
 
-La autoridad, en beneficio del recurrente, podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+La autoridad, en beneficio del recurrente, deberá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
 
 Igualmente, deberá dejar sin efectos legales los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance en la resolución.
 
@@ -763,9 +773,11 @@ No se tomarán en cuenta en la resolución del recurso, hechos, documentos o ale
 
 La organización y funcionamiento del Tribunal de lo Contencioso Administrativo del Estado de Oaxaca se regularán por las disposiciones contenidas en este Libro.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 81.
 
-El Tribunal de lo Contencioso Administrativo es un órgano del Estado, de control de legalidad, con plena jurisdicción y competencia, formalmente administrativo y materialmente jurisdiccional, dotado de autonomía plena para dictar sus fallos y hacerlos cumplir, interpretar la ley administrativa a través de sus resoluciones, tendrá personalidad jurídica y patrimonio propio, se compondrá del número de Magistrados que determine la Ley, el Presupuesto y las necesidades del Trabajo, los que tendrán los mismos derechos y prerrogativas que los del Tribunal Superior de Justicia del Estado, con las obligaciones y restricciones que la misma Ley les señale. Los Jueces Instructores de lo Contencioso Administrativo tendrán los mismos derechos que los Jueces de Primera Instancia del Poder Judicial del Estado.
+La jurisdicción administrativa la ejercerá el Tribunal de lo Contencioso Administrativo, órgano autónomo y de control de legalidad, Dotado de plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir; con facultad para interpretar la ley administrativa a través de sus resoluciones; con personalidad jurídica y patrimonio propio. Se compondrá del número de Magistrados que determine esta Ley, el presupuesto y las necesidades del trabajo, los que tendrán los mismos derechos, prerrogativas y obligaciones que los Magistrados del Tribunal Superior de Justicia del Estado. Los Jueces Instructores de lo Contencioso Administrativo, servidores públicos y demás personal del Tribunal, tendrán los mismos derechos y obligaciones que los del Tribunal Superior de Justicia.
 
 ###### ARTICULO 82.
 
@@ -787,6 +799,8 @@ V. Entre particulares y otros organismos públicos, cuando las leyes de la mater
 
 ### CAPITULO PRIMERO. DE LA INTEGRACION DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 83.
 
 El Tribunal se integrará por:
@@ -795,47 +809,73 @@ I. El Pleno;
 
 II. La Presidencia;
 
-III. Las Salas;
+III. La Sala Superior; y
 
-IV. Los Magistrados;
+IV. Las Salas de Primera Instancia.
 
-V. Un Secretario General de Acuerdos;
+El tribunal tendrá los siguientes servidores públicos:
 
-VI. Los Secretarios de Acuerdos de las Salas;
+I. Magistrados;
 
-VII. Un Director Administrativo;
+II. Secretario General de Acuerdos;
 
-VIII. La Coordinación de Asesores de lo Contencioso Administrativo;
+III. Jueces Instructores de lo Contencioso Administrativo;
 
-IX. La Coordinación de Capacitación y Mejoramiento en materia Jurídico-Administrativa;
+IV. Secretarios de Acuerdos de las Salas;
 
-X. Los Jueces Instructores de lo Contencioso Administrativo, y
+V. Secretarios de Estudio y Cuenta;
 
-XI. Los empleados y auxiliares técnicos que determine el Presupuesto.
+VI. Actuarios;
 
-El Presidente del Tribunal, será elegido de entre Magistrados que lo integran.
+VII. Director Administrativo;
+
+VIII. Coordinador de Asesores de lo Contencioso Administrativo;
+
+IX. Coordinador de Capacitación y Mejoramiento en materia Jurídico-Administrativa; y
+
+X. Los empleados y auxiliares técnicos necesarios.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 84.
 
-El número de Salas del Tribunal se determinará de acuerdo a las necesidades del trabajo, cuando lo considere necesario el Pleno; El acuerdo de creación se publicará en el Periódico Oficial del Estado, en donde deberá precisarse la competencia territorial de la Sala de nueva creación, la que tendrá todas las características de autoridad, soberanía, jurisdicción y competencia contempladas en esta Ley.
+El número de Salas de Primera Instancia del Tribunal se determinará de acuerdo a las necesidades del trabajo, cuando lo considere necesario el Pleno; el acuerdo de creación se publicará en el Periódico Oficial del Estado, en donde deberá precisarse la competencia territorial de la Sala de nueva creación, la que tendrá todas las características de autoridad, soberanía, jurisdicción y competencia contempladas en esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 85.
 
-Las Salas del Tribunal se integrarán por:
+Las Salas de Primera Instancia del Tribunal se integraran por:
 
 I. Un Magistrado;
 
 II. Un Secretario de Acuerdos de Sala;
 
-III. Los Jueces Instructores de lo Contencioso Administrativo, Los actuarios, oficiales administrativos, y demás personal técnico y administrativo que se autoricen al respecto.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Ill. Los Secretarios de Estudio y Cuenta, Actuarios, Oficiales Administrativos, y demás personal técnico y administrativo que el Pleno del Tribunal autorice al respecto.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 86.
 
-Los Magistrados, Servidores Públicos y personal del Tribunal percibirán iguales emolumentos y prestaciones a los del Poder Judicial.
+La Sala Superior del Tribunal se integrará por:
+
+I. Tres Magistrados y será presidida por el Presidente del Tribunal;
+
+II. Secretarios de Estudio y cuenta;
+
+III. Actuarios;
+
+IV. Empleados y demás Funcionarios técnicos.
+
+En la tramitación y resolución de los recursos de revisión, el Presidente de la Sala Superior actuará con el Secretario General de Acuerdos del Tribunal.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 87.
 
-Cada Sala será unitaria y tendrá el personal que marca esta Ley, pero podrá ser aumentado de acuerdo a las necesidades que determine el trabajo.
+Los Magistrados, y demás servidores públicos del Tribunal percibirán iguales emolumentos y prestaciones a los del Poder Judicial.
 
 ### CAPITULO SEGUNDO. DEL PLENO
 
@@ -843,71 +883,55 @@ Cada Sala será unitaria y tendrá el personal que marca esta Ley, pero podrá s
 
 Las sesiones ordinarias del pleno se celebrarán en los días, horas y términos que señale el Reglamento Interno del Tribunal, las sesiones extraordinarias se celebrarán cuando lo considere necesario el Presidente o lo pida la mayoría de los Magistrados.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 89.
 
-El pleno del Tribunal se integrará por todos los Magistrados del mismo y para que sesionen se requiere de la instalación del quórum legal. Sesionará en número impar de Magistrados. Si fuere par, se llamará a un Juez Instructor para que forme pleno. El Presidente tendrá voto de calidad.
+El Pleno del Tribunal se integrará por los Magistrados de las Salas Superior y de Primera Instancia. Para que sesionen se requiere de la instalación del quórum legal. Sesionará en número impar de Magistrados; si fuere par, se llamará a un Juez Instructor para que forme Pleno. El Presidente tendrá voto de calidad en caso de empate.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 90.
 
-Las resoluciones del pleno se dictarán por unanimidad o por mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar. El Magistrado que disienta con el sentido de un fallo deberá formular por escrito su voto particular según lo disponga el reglamento interior, debiéndose glosar tal opinión al expediente de actuaciones.
+Son atribuciones del Pleno del Tribunal:
+
+I. Elegir de entre sus Magistrados, al Presidente del Tribunal, quien también presidirá el Pleno y la Sala Superior;
+
+II. Crear nuevas Salas de Primera Instancia y determinar la circunscripción territorial de las mismas, así como fijar la adscripción de los Magistrados, Secretarios, Asesores de lo Contencioso Administrativo y Actuarios;
+
+III. Acordar el nombramiento del Secretario General de Acuerdos y nombramiento y adscripción de los Jueces Instructores de lo Contencioso administrativo, resolver sobre las renuncias, remociones del personal nombrado, así como resolver sobre la inhabilitación de funcionarios, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; y conceder licencias a los Magistrados, Secretarios, Jueces Instructores, Asesores y Actuarios, cuando en cada caso así proceda;
+
+IV. Expedir y reformar el reglamento interior del Tribunal y dictar las disposiciones necesarias para el buen funcionamiento del mismo;
+
+V. Discutir y aprobar el anteproyecto de presupuesto de egresos del Tribunal;
+
+VI. Imponer los medios de apremio, cuando así proceda;
+
+VII. Dictar las medidas administrativas que exija el buen funcionamiento y la disciplina del Tribunal e imponer sanciones al personal;
+
+VIII. Acordar la suspensión de labores del Tribunal por causas que a su juicio lo ameriten;
+
+IX. Las demás que le fije esta Ley.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 91.
 
-Las sesiones del pleno serán públicas, con excepción de los casos en que el interés público, el orden o la ley exijan que sean secretas.
+Son atribuciones y obligaciones de la Presidencia del Tribunal:
 
-### CAPITULO TERCERO. DEL PRESIDENTE DEL TRIBUNAL
+I. Representar amplia y jurídicamente al Tribunal ante toda clase de autoridades;
 
-###### ARTICULO 92.
+II. Despachar la correspondencia del Tribunal y de la Sala Superior;
 
-Son atribuciones del Pleno del Tribunal:
+III. Rendir los informes previos y justificados en los juicios de amparo interpuestos en contra del Tribunal y de la Sala Superior; en sus ausencias que no excedan de 15 días, lo hará el Magistrado que designe la presidencia;
 
-I. Elegir al Presidente del Tribunal;
+IV. Presidir, dirigir los debates y conservar el orden de las sesiones del pleno y de la Sala Superior;
 
-II. Crear nuevas Salas y determinar la circunscripción territorial de las mismas, así como fijar la adscripción de los Magistrados, secretarios, Asesores de lo Contencioso Administrativo y actuarios;
-
-III. Conocer del recurso de revisión previsto en esta Ley;
-
-IV. Acordar el nombramiento del Secretario General de Acuerdos y los Jueces Instructores de lo Contencioso Administrativo; resolver sobre las renuncias, remociones del personal nombrado, así como resolver sobre la inhabilitación de funcionarios, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; y conceder licencias a los Magistrados, Secretarios, Jueces Instructores de lo Contencioso Administrativo, Asesores y Actuarios, cuando en cada caso así proceda;
-
-V. Expedir y reformar el reglamento interior del Tribunal y dictar las disposiciones necesarias para el buen funcionamiento del mismo;
-
-VI. Discutir y aprobar el anteproyecto del presupuesto de egresos del Tribunal;
-
-VII. Imponer los medios de apremio, cuando así proceda;
-
-VIII. Designar las comisiones de Magistrados que sean necesarias para la administración interna y representación del Tribunal;
-
-IX. Conocer de las excusas e impedimentos de los Magistrados y designar al que deba sustituirlos;
-
-X. Dictar las medidas administrativas que exija el buen funcionamiento y la disciplina del Tribunal e imponer sanciones a los secretarios y demás personal;
-
-XI. Acordar la suspensión de labores del Tribunal por causas que a su juicio lo ameriten;
-
-XII. Fijar los criterios del Tribunal, resolviendo las contradicciones existentes entre las Salas;
-
-XIII. Resolver los conflictos de competencia que se susciten entre las Salas;
-
-XIV. Conocer y resolver excitativas que formulen las partes en el juicio, y
-
-XV. Las demás que le fije la ley.
-
-###### ARTICULO 93.
-
-Son atribuciones y obligaciones del Presidente del Tribunal:
-
-I. Representar al Tribunal ante toda clase de autoridades;
-
-II. Despachar la correspondencia del Tribunal, y de la Sala que por disposición de esta Ley le corresponda presidir;
-
-III. Rendir los informes previos y justificados en los juicios de amparo interpuestos en contra del Tribunal;
-
-IV. Presidir, dirigir los debates y conservar el orden de las sesiones del pleno;
-
-V. Proponer al pleno los nombramientos y remociones del personal del Tribunal;
+V. Proponer al pleno los nombramientos y remociones del personal del Tribunal, que corresponda;
 
 VI. Determinar lo procedente con relación a licencias de los empleados administrativos del Tribunal, previa opinión del Magistrado al que se encuentren adscritos;
 
-VII. Formular anualmente el anteproyecto del Presupuesto de Egresos del Tribunal, así como remitir el proyecto aprobado por el Pleno al Poder Legislativo para su validación o modificación y dictar las órdenes relacionadas con el ejercicio del mismo;
+VII. Formular anualmente el anteproyecto del Presupuesto de Egresos del Tribunal, así como remitir el proyecto aprobado por el Pleno al Poder Legislativo, para su validación o modificación y dictar las órdenes relacionadas con el ejercicio del mismo;
 
 VIII. Rendir al pleno, en la última sesión de cada año, un informe de las actividades realizadas en este periodo;
 
@@ -921,19 +945,53 @@ c). Asesores de lo Contencioso Administrativo;
 
 d). Oficial de partes;
 
-e). Actuarios, y
+e). Actuarios;
+
+f). Secretarios de Estudio y Cuenta;
+
+g) Personal administrativo; y
 
 X. Las demás que le confiera la ley.
 
+### CAPITULO TERCERO. DE LA PRESIDENCIA DEL TRIBUNAL
+
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 92.
+
+Las salas del Tribunal, son el medio para que funcione éste, en su ámbito de competencia.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 93.
+
+La Sala Superior tendrá las siguientes atribuciones:
+
+I. Resolver el recurso de revisión previsto en esta Ley;
+
+II. Conocer de las excusas e impedimentos de los Magistrados y designar a quien deba sustituirlos;
+
+III. Fijar los criterios del tribunal, resolviendo las contradicciones entre las Salas de primera instancia;
+
+IV. Conocer y resolver excitativas que formulen las partes en el juicio;
+
+V. Resolver los conflictos de competencia que se susciten entre las Salas; y
+
+VI. Las demás que fije la ley.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 94.
 
-Las Salas del Tribunal son el medio para que funcione éste, en su ámbito de competencia.
+Las resoluciones de la Sala Superior se emitirán por unanimidad o por mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar. El Magistrado que disienta con el sentido de un fallo, deberá formular por escrito su voto particular, según lo disponga el reglamento interior, debiéndose glosar tal opinión al expediente de actuaciones.
 
-El trámite de los asuntos corresponderá por turno a las Salas, en los términos que lo disponga el Reglamento Interior del Tribunal.
+Las sesiones de la Sala Superior serán públicas, con excepción de los casos en que el interés público, el orden o la ley exijan que sean privadas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 95.
 
-Son atribuciones de las Salas del Tribunal:
+Son atribuciones de las Salas de primera instancia:
 
 I. Instruir y resolver el Procedimiento Contencioso Administrativo;
 
@@ -947,9 +1005,15 @@ V. Imponer las correcciones disciplinarias, así como hacer uso de los medios de
 
 VI. Las demás atribuciones de carácter jurisdiccional-administrativo que se deriven de disposiciones contenidas en otras leyes, decretos, reglamentos y acuerdos.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+El trámite de los asuntos corresponderá por turno a las Salas de Primera Instancia, en los términos que disponga el Reglamento Interior del Tribunal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 96.
 
-Las Salas del Tribunal son competentes para conocer y resolver los juicios que se promuevan en contra de:
+Las Salas de primera instancia del Tribunal son competentes para conocer y resolver los juicios que se promuevan en contra de:
 
 I. Los actos y resoluciones emanados de las autoridades del Poder Ejecutivo, de los Municipios y de los Organismos Descentralizados y Desconcentrados, cuando éstos actúen como autoridades, dictándolas, ordenándolas, ejecutándolas o tratando de ejecutarlas y que causen agravio a los particulares, por no ajustarse a los elementos y requisitos de validez previstos por el artículo 7 de esta Ley;
 
@@ -987,17 +1051,33 @@ XII. De los asuntos cuya resolución esté reservada al Tribunal de lo contencio
 
 ### CAPITULO CUARTO. DE LAS SALAS DEL TRIBUNAL
 
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 97.
 
 Los Magistrados del Tribunal serán designados por el Congreso del Estado a propuesta que en terna le presente el Titular del Poder Ejecutivo. Para ser nombrado Magistrado se deberán satisfacer los siguientes requisitos:
 
 I. Ser ciudadano Mexicano por Nacimiento y oaxaqueño en pleno ejercicio de sus derechos;
 
-II. Tener título profesional de Licenciado en Derecho debidamente expedido y registrado a la fecha de la propuesta;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-III. Tener al menos treinta años cumplidos el día de la designación;
+II. Tener título profesional de Licenciado en Derecho debidamente expedido y registrado, con antigüedad mínima de diez años a la fecha de la designación;
 
-IV. Poseer reconocida experiencia en Derecho Administrativo y Fiscal, además de capacidad y honorabilidad.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+III. Tener treinta y cinco años cumplidos el día de la designación;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+IV. Poseer reconocida experiencia en Derecho Administrativo y Fiscal, además de capacidad y honorabilidad;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+V. Acreditar carecer de antecedentes penales por comisión de delitos calificados como dolosos o graves;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+VI. Acreditar no haber desempeñado cargo dentro de la Administración Pública Estatal o Municipal en el año anterior a su designación.
 
 Los Magistrados rendirán la protesta de ley ante el Congreso del Estado.
 
@@ -1009,29 +1089,59 @@ Los Magistrados que hayan concluido su periodo permanecerán en su cargo hasta q
 
 El Magistrado Presidente del Tribunal, dentro de los primeros diez días del mes de enero de cada año, enviará al Congreso del Estado un informe de labores del Tribunal, el cual podrá ser leído por el Magistrado Presidente ante en sesión, si así lo acordara el Pleno del Congreso.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 100.
 
-Los Magistrados durarán en su encargo ocho años, pudiendo ser ratificados por una sola vez.
+Los Magistrados durarán en el ejercicio de su cargo quince años, podrán ser ratificados, y si lo fueren, solo podrán ser privados de sus puestos en los términos de la Constitución Política del Estado y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y podrán jubilarse en los términos que establece esta Ley.
 
-Para que un Magistrado del Tribunal pueda ser separado de su cargo, deberá substanciarse el juicio político correspondiente que refiere la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios del Estado de Oaxaca, ante el Congreso del Estado, en términos de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 101.
 
-El Presidente del Tribunal durará en el cargo un año. La elección se hará en Pleno, en la primera sesión del año correspondiente. Las faltas temporales del Presidente serán cubiertas por el Magistrado que designe el Pleno. Cuando la falta sea definitiva, el Tribunal en Pleno elegirá nuevo Presidente.
+El Magistrado Presidente del Tribunal durará en el cargo un año, pudiendo ser reelecto; durante su gestión será además Titular de la Sala Superior. La elección se hará en Pleno, en la primera sesión del año correspondiente. Las faltas temporales del Presidente menores de 15 días serán cubiertas por el Magistrado que designe éste; el Pleno designará a quien cubra una ausencia mayor a dicho plazo, pero menor a seis meses. Cuando la falta sea definitiva, el Pleno elegirá nuevo Presidente.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 102.
 
-Las licencias de los Magistrados, serán otorgadas por el Pleno del Tribunal.
+Las licencias de los Magistrados, que no excedan de diez días serán otorgadas por la Presidencia del Tribunal. Si exceden del plazo señalado corresponderá al Pleno del Tribunal, quien podrá autorizar la licencia hasta por seis meses. En todo caso, no se concederán licencias que impidan el funcionamiento del Tribunal, salvo el caso de enfermedad debidamente comprobada.
+
+Concluida la licencia de seis meses sin que se presente el Magistrado, la Presidencia del Tribunal dará aviso al Congreso y al Gobernador del Estado para los efectos del artículo 97 de esta Ley.
 
 ###### ARTICULO 103.
 
 Durante el ejercicio de su cargo, los Magistrados y los demás servidores públicos del Tribunal están impedidos para litigar y asesorar empresas o particulares, salvo en causa propia, de su cónyuge, ascendientes o descendientes en línea directa o colateral. Queda exceptuada de esta prohibición la actividad docente.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 103 BIS A.- Al jubilarse, los Magistrados percibirán una pensión de carácter vitalicio, la cual será equivalente al cien por ciento del ingreso mensual que corresponda a los Magistrados en activo comprendiendo en ella el sueldo presupuestal, compensaciones, aguinaldo, bonos de actuación y cualquier otro emolumento que perciba.
+
+Lo anterior, será siempre y cuando hubieren desempeñado el cargo durante quince años consecutivos, o que acrediten haber prestado sus servicios a la administración estatal durante veinticinco años, de los cuales diez deberán ser como Magistrados y los otros quince como servidores públicos en cualquier dependencia o poder del Estado, en forma ininterrumpida.
+
+Cuando los Magistrados del Tribunal se retiren sin haber cumplido veinticinco años en la función pública, pero diez como Magistrados, tendrán derecho a la remuneración a que se refiere el párrafo anterior de manera proporcional al tiempo de su desempeño.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 103 BIS B.- Las solicitudes de jubilaciones de los Magistrados, se tramitarán ante el Pleno; el Presidente del Tribunal analizará la solicitud tomando en cuenta los documentos que justifiquen la antigüedad y emitirá el dictamen correspondiente, que presentará al Pleno, quien determinará lo que en derecho proceda.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 103 BIS C.- Es causa de jubilación obligatoria, padecer incapacidad física o mental, total y permanente, que haga imposible el desempeño del cargo. La incapacidad a que se refiere este artículo la calificará el Pleno con vista en dictámenes que emitan facultativos en la materia, oyendo al Magistrado a jubilar y en su caso, del o los dictámenes de los facultativos que éste ofrezca.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 103 BIS D.- Al fallecer un Magistrado en ejercicio, se otorgará pensión a la persona que legalmente le corresponda.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 103 BIS E.- El pago de las pensiones mencionadas en el presente Capítulo, se hará por la Dirección de Administración del Tribunal a partir del día siguiente en que haya sido aprobada la jubilación respectiva; la aprobación deberá hacerse en un plazo de quince días contados a partir de la solicitud respectiva.
+
 ### CAPITULO QUINTO. DE LOS MAGISTRADOS
 
 ###### ARTICULO 104.
 
-Corresponde al Secretario General de Acuerdos:
+El Tribunal contará con un Secretario General de Acuerdos, que actuará con el Pleno y con la Sala Superior, respectivamente; tendrá las siguientes atribuciones:
 
 I. Acordar con el Presidente lo relativo a las sesiones del Tribunal en pleno y auxiliarlo en el cumplimiento de sus atribuciones;
 
@@ -1041,7 +1151,9 @@ III. Dar cuenta de los asuntos en las sesiones del Tribunal en pleno, tomar las 
 
 IV. Llevar el turno de los Magistrados que deban formular ponencias o proyectos y el registro de las sustituciones de los mismos, así como sortear los asuntos que se encuentren en estado de resolución;
 
-V. Dar fe de las resoluciones del pleno y autorizarlas con su firma;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+V. Dar fe de las resoluciones del Pleno del Tribunal y de la Sala Superior, autorizándolas con su firma;
 
 VI. Llevar en los libros de gobierno el registro de los auxiliares de justicia administrativa, peritos y traductores, así como el registro de firmas de los Magistrados, secretarios, Asesores y actuarios del Tribunal;
 
@@ -1077,11 +1189,11 @@ IV. Redactar y autorizar las actas de las diligencias, en las que les correspond
 
 V. Elaborar el proyecto de resolución en los asuntos que para tal efecto les sean turnados por la Sala;
 
-VI. Suplir las faltas temporales del Secretario General de Acuerdos o de la Sala en el orden que establezca el Tribunal en pleno;
+VI. (DEROGADA, P.O. 12 DE OCTUBRE DE 2009)
 
 VII. Expedir certificados de las constancias que obren en los expedientes, y
 
-VIII.- Las demás que les señale el Pleno, el Presidente del Tribunal y el Magistrado titular de la Sala.
+VIII. Las demás que les señale el Pleno, el Presidente del Tribunal y el Magistrado titular de la Sala.
 
 ###### ARTICULO 106.
 
@@ -1173,19 +1285,27 @@ III. Mediar los asuntos de su competencia si las partes lo solicitan;
 
 IV. Suplir a los Magistrados en sus faltas temporales;
 
-V. Integrar el Pleno supliendo al Magistrado ausente, o cuando este se excuse, en el orden que disponga el reglamento;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-VI. Instruir y resolver los procedimientos en las Salas Regionales del Tribunal hasta en tanto se nombra al Magistrado correspondiente, y
+V. Suplir al Magistrado ausente, o cuando éste se excuse, en el orden que disponga el reglamento;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+VI. Instruir y resolver los procedimientos en las Salas de primera instancia hasta en tanto se nombre al Magistrado correspondiente; y
 
 VII. Las demás que le señale el Pleno y el Reglamento.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 112.
 
-El Secretario General de Acuerdos, los Secretarios de Acuerdos de la Sala, los Jueces Instructores y los Asesores, deberán contar con título de licenciado en derecho. Los Actuarios, deberán ser preferentemente licenciados en derecho o pasantes. El Director Administrativo, deberá ser Contador Público titulado; todos deberán ser mexicanos, de reconocida buena conducta y tener cuando menos dos años de práctica en materia administrativa y fiscal.
+El Secretario General de Acuerdos, los Jueces Instructores, los Secretarios de Acuerdos de Sala, los de Estudio y Cuenta, así como los Asesores, deberán contar con título de Licenciado en Derecho. Los Actuarios, deberán ser preferentemente licenciados en derecho o pasantes. El Director Administrativo, deberá ser Contador Público titulado; todos deberán ser mexicanos, de reconocida buena conducta y tener cuando menos dos años de práctica en materia administrativa y fiscal.
 
-Las faltas temporales de los Secretarios y los Actuarios serán suplidas por quien designe el Presidente de la Sala respectiva.
+Las faltas temporales de los Secretarios de Sala serán cubiertas por el Secretario de Estudio y Cuenta de la adscripción, o a falta de éstos por el Actuario de la misma Sala. Las faltas temporales de los Actuarios de Sala, serán cubiertas por quien designe el Presidente del Tribunal.
 
 ### CAPITULO SEXTO. DEL SECRETARIO GENERAL DE ACUERDOS, SECRETARIOS DE ACUERDOS DE SALA, JUECES INSTRUCTORES, ACTUARIOS Y DEMAS FUNCIONARIOS DEL TRIBUNAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 113.
 
@@ -1207,9 +1327,11 @@ Las vacaciones y los días inhábiles no contemplados en la disposición citada 
 
 El juicio ante el Tribunal de lo Contencioso Administrativo del Estado de Oaxaca, se regirá por las disposiciones contenidas en el presente Libro.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 115.
 
-El Tribunal de lo Contencioso Administrativo tendrá jurisdicción en todo el territorio Estatal, con la competencia y organización que establece esta Ley y otros ordenamientos aplicables. El Tribunal residirá en la capital del Estado y podrá contar con las Salas Regionales que autorice el Pleno, quien delimitará su ámbito de competencia territorial.
+El Tribunal de lo Contencioso Administrativo tendrá jurisdicción en todo el territorio Estatal, con la competencia y organización que establece esta Ley y otros ordenamientos aplicables. El Tribunal residirá en la Ciudad de Oaxaca Juárez o en la zona conurbada, y podrá contar con Salas de Primera Instancia ubicadas en las diversas regiones del Estado, las que deberán ser autorizadas por el Pleno, quien delimitará su ámbito de competencia territorial.
 
 ###### ARTICULO 116.
 
@@ -1223,15 +1345,19 @@ La representación de las personas físicas para comparecer en juicio, se otorga
 
 Las personas morales serán representadas por quienes tengan el carácter de representantes legales, o de apoderados de acuerdo con sus escrituras constitutivas e instrumentos idóneos.
 
-Los menores o incapacitados comparecerán a juicio por conducto de sus representantes legales o legítimos.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Los menores de edad, los incapaces y los sujetos declarados en estado de interdicción, actuaran por conducto de su representante, en términos de la legislación aplicable.
 
 La representación de las autoridades corresponderá a los titulares de las mismas por si o a través de las unidades administrativas encargadas de su defensa jurídica, conforme lo establezcan las disposiciones legales aplicables.
 
 Los particulares, las autoridades o los representantes de ambos, podrán designar autorizados que concurran a las audiencias con facultades para rendir pruebas y alegar e interponer recursos, siempre que tengan cédula de licenciado en Derecho legalmente expedida por la autoridad educativa competente, en caso contrario únicamente podrán imponerse de los autos y recibir notificaciones.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 118.
 
-El juicio ante el Tribunal será de estricto derecho; pero se deberá suplir la deficiencia de la queja siempre y cuando se trate del actor.
+El juicio ante el Tribunal será de estricto derecho; pero se deberá suplir la deficiencia de la queja siempre y cuando se trate del administrado.
 
 ###### ARTICULO 119.
 
@@ -1283,6 +1409,18 @@ Las actuaciones del Tribunal, los escritos de las partes y los dictámenes de lo
 
 No se emplearán abreviaturas, ni rasparán las partes equivocadas, debiendo, en su caso, poner sobre las mismas una línea delgada que permita la lectura y se añadirán entre líneas las que se cambien, salvándose al final con toda precisión el error cometido.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Las actuaciones se escribirán con letra, las fechas con número y letra, las cantidades y los artículos con número.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Los Secretarios de Acuerdos autorizarán las actuaciones jurisdiccionales. También cuidarán que los expedientes sean foliados al agregarse cada una de las hojas, las rubricarán y pondrán el sello oficial en el fondo del expediente, de manera que queden selladas las dos fojas.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+El Secretario General de Acuerdos, los Jueces Instructores, los Secretarios de Acuerdos de Sala, así como los Actuarios tienen fe pública en todo lo relativo al ejercicio de sus funciones, debiendo conducirse siempre con estricto apego a la verdad.
+
 ###### ARTICULO 127.
 
 El Tribunal esta facultado para desechar de plano las promociones notoriamente improcedentes, o que se interpongan con el fin evidente de dilatar otro procedimiento.
@@ -1309,9 +1447,11 @@ VII. Cuando exista entre el funcionario y alguna de las partes, sus abogados o r
 
 En el juicio contencioso administrativo no procede la recusación.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 129.
 
-La excusa se presentará ante el Presidente del Tribunal para su calificación y, de ser procedente, se remitirá el asunto al Magistrado que integra la Sala que le corresponda por turno, lo que deberá hacerse del conocimiento de las partes.
+La excusa se presentará ante la Presidencia de la Sala Superior y de ser procedente, se remitirá el asunto al Magistrado que por tumo corresponda.
 
 ###### ARTICULO 130.
 
@@ -1361,7 +1501,9 @@ V.- Cuando de las constancias de autos apareciere claramente que no existe el ac
 
 VI.- En los demás casos en los que por disposición legal exista impedimento para emitir resoluciones en cuanto al fondo;
 
-VII.- Por convenio entre las partes.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+VII.- Por convenio entre las partes, siempre y cuando éste haya sido celebrado ante un Juez Instructor del Tribunal y aprobado por este; y
 
 Para dictar resolución en los casos de sobreseimiento no será necesario que se hubiese celebrado la audiencia final.
 
@@ -1371,9 +1513,23 @@ Para dictar resolución en los casos de sobreseimiento no será necesario que se
 
 Son partes en el juicio contencioso administrativo:
 
-I. El actor;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-II. El demandado, pudiendo tener este carácter la autoridad ordenadora y la ejecutora de los actos impugnados y, en su caso, aquéllas que las sustituyan, así como los organismos públicos descentralizados de la administración pública estatal y municipal;
+I. El actor. Tendrá ese carácter:
+
+a) El Administrado, que será el particular que tenga un interés jurídico o legítimo que funde su pretensión; y
+
+b) La autoridad en el juicio de lesividad.
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+II. El demandado. Tendrá ese carácter:
+
+a) La autoridad que dicte, ordene, ejecute o trate de ejecutar el acto impugnado, o que omita dar respuesta a las peticiones o instancias de los particulares;
+
+b) La persona o institución que funja como autoridad administrativa o fiscal en el ámbito estatal o municipal o en los Organismos Públicos Descentralizados, que dicte, ordene, ejecute o trate de ejecutar el acto o resolución impugnados; y
+
+c) El particular a quien favorezca la resolución cuya modificación o nulidad demande la autoridad administrativa, estatal o municipal.
 
 III. El tercero afectado, pudiendo intervenir con ese carácter cualquier persona física o moral, cuyos intereses puedan resultar incompatibles con las pretensiones del actor y que demuestre interés en que subsista el acto administrativo combatido.
 
@@ -1381,33 +1537,55 @@ III. El tercero afectado, pudiendo intervenir con ese carácter cualquier person
 
 Sólo podrán demandar o intervenir en el juicio, las personas que tengan un interés jurídico o legítimo que funde su pretensión.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ### CAPITULO CUARTO. DE LAS PARTES
 
 ###### ARTICULO 135.
 
-Son días hábiles para la promoción, substanciación y resolución del juicio contencioso administrativo, todos los días del año, con exclusión de los sábados y domingos, el primero de enero, el cinco de febrero, el veintiuno de marzo, el primero y cinco de mayo, el dieciséis de septiembre, el veinte de noviembre, el veinticinco de diciembre y aquéllos en que se suspendan por cualquier causa, las labores del Tribunal. En el último de los casos, la existencia de personal de guardia encargado del trámite de los asuntos urgentes, no habilitará los días.
+Son días hábiles para la promoción, substanciación y resolución del juicio contencioso administrativo, todos los días del año, con exclusión de los sábados y domingos, así como los señalados en el calendario oficial del Tribunal.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 136.
 
-El término para interponer la demanda ante el Tribunal de lo Contencioso Administrativo será de treinta días hábiles, contados a partir del día siguiente al en que surta efectos, conforme a la ley aplicable al acto, la notificación de la resolución o acto que se combata; o conste fehacientemente que el o los interesados o afectados tienen conocimiento del acto.
+El plazo para interponer la demanda ante el Tribunal de lo Contencioso Administrativo será de treinta días hábiles, contados a partir del día siguiente al en que surta efectos, conforme a la ley aplicable al acto, la notificación de la resolución o acto que se combata; o conste fehacientemente que el o los interesados o afectados tienen conocimiento del acto.
+
+Cuando se impugne la negativa ficta o se demande la declarativa de configuración de la positiva ficta, el interesado podrá presentar la demanda en cualquier tiempo, mientras no se dicte la resolución expresa y siempre que hayan transcurrido los plazos a que se refiere el artículo 96 en su fracción V de esta Ley.
+
+En el juicio que tenga por objeto el resarcimiento de daños y perjuicios a que se refiere el artículo 96, fracción X, de esta Ley, la demanda podrá interponerse dentro de los seis meses siguientes a la fecha en que se originó la causa de responsabilidad.
+
+En el juicio de lesividad, referido en el artículo 96, fracción VI, las autoridades para ejercitar su acción, gozarán del término de cinco años, siguientes a la fecha en que sea emitida la resolución que pretenden nulificar, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la nulidad en cualquier época, sin exceder de los cinco años del último efecto.
+
+Cuando el particular radique en el extranjero y no tenga representante en la República, el plazo para iniciar el juicio será de cuarenta y cinco días.
+
+Cuando el particular falleciere dentro de los plazos a que se refiere este artículo, se suspenderá el término, hasta que haya sido designado albacea o representante de la sucesión.
 
 ###### ARTICULO 137.
 
 La presentación de demandas o promociones de término podrá hacerse el día en que éste concluya, aun fuera del horario, ante el Secretario de la Sala en turno, en su domicilio particular.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 138.
 
-Los términos serán improrrogables y su cómputo se sujetara a las reglas siguientes:
+Los plazos serán improrrogables y su cómputo, se sujetara a las reglas siguientes:
 
 I. Empezarán a correr a partir del día siguiente a aquél en que surta efectos la notificación y se incluirá en ellos el día del vencimiento, y
 
-II. Los términos se contarán por días hábiles.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+II. Los plazos se contarán por días hábiles.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 139.
 
-Para los efectos del artículo anterior, cuando alguna de las partes resida fuera del lugar donde se encuentre el Tribunal, se tendrán por presentadas en tiempo las promociones, si aquélla deposita el escrito u oficio relativos dentro del término legal, por correo certificado con acuse de recibo, en la oficina de correos que corresponda al lugar de su residencia.
+Para los efectos del artículo anterior, cuando alguna de las partes resida fuera del lugar donde se encuentre el Tribunal, se tendrán por presentadas en tiempo las promociones, si aquélla deposita el escrito u oficio relativos dentro del plazo legal, por correo certificado con acuse de recibo, en la oficina de correos que corresponda al lugar de su residencia.
 
-### CAPITULO QUINTO. DE LOS TERMINOS
+### CAPITULO QUINTO. DE LOS PLAZOS
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 140.
 
@@ -1415,49 +1593,59 @@ Las resoluciones o acuerdos deben ser notificados a más tardar al día siguient
 
 Las notificaciones surtirán sus efectos el día hábil siguiente de aquel en que se realicen.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 141.
 
-Las partes deberán señalar domicilio para oír notificaciones, en el primer escrito que presenten y, en caso de que variare el mismo, deberán comunicar el cambio, para que en el se hagan las notificaciones indicadas en esta Ley.
+En la primera promoción, las partes deberán señalar su domicilio para recibir notificaciones, así como el de los terceros que deban intervenir en el juicio. En caso de omisión de lo anterior, el Tribunal requerirá, por una sola vez, al promovente para que subsane su omisión; si no cumpliere con el requerimiento se le harán por lista de estrados del Tribunal.
 
-Cuando las partes no cumplan con lo prevenido en el párrafo que antecede, las notificaciones, aun las que conforme a las reglas generales deban hacerse personalmente, se le harán por cédula fijada en los estrados del Tribunal.
+Si no proporciona el domicilio del tercero afectado, será desechada su petición.
+
+Los particulares deberán señalar domicilio para oír y recibir notificaciones en el lugar de residencia de la Sala que ejerza jurisdicción.
+
+En caso de que variare el domicilio para recibir notificaciones, deberán comunicar el cambio, para que en él se hagan las notificaciones que correspondan.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 142.
 
-Las notificaciones se harán de la siguiente manera:
+Las notificaciones se efectuarán:
 
-I. A las autoridades, por medio de oficios que serán entregados en el domicilio de su oficina principal para que comparezcan al lugar del juicio, por correo, en pieza certificada con acuse de recibo, el cual se agregará a los autos. En casos urgentes, las notificaciones podrán hacerse por vía telegráfica o vía fax. En este caso, el Secretario de Acuerdos de la Sala correspondiente certificará la emisión de la transmisión y conservará agregado en autos las constancias que imprima el aparato respectivo;
+I. Personalmente a los particulares y por oficio a las autoridades, cuando se trate de emplazamientos, citaciones, requerimientos, reposiciones de autos, la que señale día y hora para el desahogo de la audiencia y regularización del procedimiento y demás acuerdos o resoluciones que puedan ser recurribles y aquellas que el Magistrado estime necesario;
 
-II. A los particulares, ya sean personas físicas o morales, cuando no se trate de acuerdos o resoluciones que deban hacerse personalmente, por medio de lista que se fijará en lugar visible y de fácil acceso del Tribunal. La lista se fijara a las nueve horas del día siguiente a aquel en que se hubiese turnado al actuario el acuerdo o resolución de que se trate.
+II. Por lista de acuerdos, ubicadas en las Oficinas de las Salas del Tribunal, cuando así lo señale la parte interesada o se trate de actos distintos a la fracción anterior;
 
-En la lista a que se refiere el párrafo anterior, se expresará el número del juicio de que se trate, el nombre del actor, la autoridad demandada, fecha del acuerdo o resolución y una síntesis de la resolución o acuerdo que se notifique, de acuerdo con los formatos que al efecto autorice el pleno del Tribunal, y
+III. En las Oficinas de las Salas del Tribunal si se presentan los interesados, incluyendo las que deban practicarse personalmente o por oficio;
 
-III. Personalmente o por correo certificado con acuse de recibo, tratándose de los siguientes casos:
+IV. Por telegrama o fax, en forma adicional, cuando se trate de resoluciones que exijan cumplimiento inmediato a la parte que deba cumplirlo;
 
-a.) La admisión o desechamiento de la demanda o, en su caso, el requerimiento para que se aclare la misma;
+V. Por correo certificado, con acuse de recibo del Servicio Postal Mexicano; y
 
-b).- La admisión de la contestación;
+VI. Por instructivo cuando el domicilio se encuentre cerrado o cuando exista negativa a recibir la notificación.
 
-c). La resolución que otorgue o nieguen la suspensión del acto impugnado;
-
-d). Las citaciones a testigos, peritos y terceros;
-
-e). El requerimiento a la parte que deba cumplirlo;
-
-f). La resolución de sobreseimiento;
-
-g). Las sentencias interlocutorias y definitivas;
-
-h). El acuerdo que señale fecha y hora para la celebración de la audiencia final, y
-
-i). En los demás casos en que así se ordene.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 143.
 
-En la primera promoción, las partes deberán señalar su domicilio para recibir notificaciones, así como el de a quienes interese el acto. La omisión de la obligación señalada, obligará al Tribunal a requerir al promovente por una sola vez, para que subsane su omisión; si no cumpliere con el requerimiento, será desechada de plano su petición. El notificador buscará a la persona a quien deba hacerse la notificación, para que la diligencia se entienda directamente con ella, si no la encontrare, le dejará citatorio para hora fija del día hábil siguiente.
+Las notificaciones se sujetarán a las siguientes formalidades:
 
-El citatorio se entregará a cualquier persona que se encuentre en el domicilio, después de que el notificador, se haya cerciorado de que efectivamente es el de la persona que deba ser notificada, de todo lo cual se asentará razón en autos.
+I. Las notificaciones personales se harán directamente a quien deba ser notificada, a su representante legal o al autorizado en los términos de este ordenamiento, en el domicilio señalado para tal efecto. Si no se encontrare ninguno de ellos, cerciorado el Actuario que es el domicilio correcto, bajo su responsabilidad dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente, si se negare a recibirlo se fijará en la puerta o lugar visible del domicilio. El citatorio deberá contener: nombre y domicilio del citado, el de la Sala del Tribunal que manda practicar la diligencia, número de expediente, fecha y hora a la que se cita, fecha del citatorio, nombre y firma del Actuario, de todo lo anterior se levantará acta circunstanciada.
 
-Si el interesado no espera, se hará en el domicilio con cualquier persona que se encuentre y si estuviere cerrado se asentará razón y se citara al interesado para que se haga la notificación por lista al día siguiente, fijando el citatorio en la puerta del domicilio del buscado.
+El Instructivo deberá contener: La expresión de la Sala o el Pleno del Tribunal que mande practicar la diligencia, número de expediente, nombre de las partes, fecha y hora de entrega, nombre y firma de la persona que recibe, así como nombre y firma del Actuario. Al Instructivo deberá adjuntarse copia del acuerdo o resolución de que se trate y cuando proceda, copias de traslado debidamente selladas y cotejadas por el Secretario.
+
+Cuando el domicilio se encontrare cerrado la citación o notificación se entenderá con el vecino más cercano, a quien se entregará copia simple del acuerdo o resolución que se notifica, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio haciéndose constar lo anterior en acta circunstanciada, la que obrará en autos.
+
+II. El oficio de notificaciones a las autoridades, deberá contener: nombre del actor, número de expediente, fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate, fecha y número de oficio, nombre de la autoridad que se notifica, fecha de la notificación, firma del Actuario, sello oficial de la autoridad que se notifica y firma de quien recibe la notificación. Al oficio de notificación, se adjuntará copia del acuerdo o resolución de que se trate y copias de traslado, cuando proceda. El Actuario dejará constancia de lo anterior en el expediente respectivo.
+
+Cuando las autoridades se encuentren fuera del lugar de residencia de la Sala, el oficio de notificación se enviará por correo registrado con acuse de recibo, del Servicio Postal Mexicano, requisitado en la forma que prevé el párrafo que antecede.
+
+III. La lista de acuerdos deberá contener el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate. El Actuario autorizará con su firma la lista de estrados, ubicándola en lugar abierto de la oficina de la Sala o del Tribunal y asentando en autos la constancia correspondiente, misma que se fijará al día siguiente al que le sea turnado el expediente en que conste el acuerdo que se notifica.
+
+Cuando los terceros o el demandado en el juicio de lesividad, después de emplazados no se apersonaren a juicio a deducir sus derechos, las subsecuentes notificaciones, aún las personales, se realizarán por lista de acuerdos, entendiéndose que se les dio oportunidad de señalar domicilio sin que lo hubieren hecho.
+
+El Actuario asentará razón de todas y cada una de las circunstancias observadas en la diligencia de la notificación, acta que agregará al expediente, junto con las constancias que acrediten que se realizó en los términos del presente artículo.
+
+Asimismo, cuando proceda, se asentará la entrega de documentos.
 
 ###### ARTICULO 144.
 
@@ -1615,25 +1803,39 @@ Las partes podrán objetar los documentos ofrecidos como prueba, en el término 
 
 La objeción de la autenticidad de un documento, se resolverá en la sentencia definitiva.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 165.
 
-La prueba pericial tendrá lugar cuando se controviertan cuestiones relativas a una ciencia o arte. Los peritos deberán estar inscritos en el Registro de Peritos que lleve el Tribunal y satisfacer las exigencias consignadas en la ley de la materia.
+La prueba pericial procede, cuando sean necesarios conocimientos especiales en alguna ciencia, técnica o arte. Se ofrecerá expresando los puntos sobre los que deba versar, exhibiendo el cuestionario respectivo.
+
+Cuando la parte actora ofrezca como prueba la pericial, la demandada y el tercero, si lo hubiere, en su escrito de contestación deberán nombrar perito de su parte. Si el ofrecimiento proviene de la demandada, los terceros o es ordenada por el Tribunal, se concederá el término de tres días a las contrapartes para los mismos efectos; a no ser que se pusieran de acuerdo en el nombramiento de uno sólo. Las partes deben presentar a sus peritos dentro de los tres días siguientes al en que surta efectos la notificación del acuerdo en que se le tuvo como tal, para que manifieste la aceptación y protesta del cargo, apercibido que si alguna de las partes omite el nombramiento correspondiente o no presenta a su perito, se entenderá que se sujeta al o los que se hayan tenido por designados.
+
+Los peritos nombrados deberán tener título en la especialidad a la que pertenezca la cuestión en análisis y si esto no fuera posible, podrán ser nombradas personas con conocimiento de la materia, a juicio del Magistrado. Asimismo deberán estar inscritos en el Registro de Peritos que lleve el Tribunal.
+
+Los peritos deberán rendir por escrito sus dictámenes el día de la audiencia de pruebas y alegatos.
+
+En caso de diferencia en los dictámenes rendidos, el Tribunal nombrará un tercero en discordia. Para lo cual se suspenderá la audiencia y se señalará fecha para su continuación con la finalidad de dar el tiempo necesario al perito tercero en discordia para que formule su dictamen.
+
+El Magistrado designará al perito tercero en discordia preferentemente de los que conforman el Registro de peritos, que al electo se lleve en el Tribunal.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 166.
 
-Al ofrecer la prueba pericial, las partes deberán nombrar al perito que les corresponda y presentar debidamente firmados, los cuestionarios sobre los cuales los peritos deberán rendir y ratificar su dictamen en la audiencia respectiva.
-
-Admitida la prueba, se correrá traslado a las demás partes con copia del cuestionario respectivo, a fin de que, en el término de tres días hábiles, adicionen el cuestionario y nombren el perito que les corresponda, si así conviniere a sus intereses.
-
-La parte oferente deberá presentar al perito dentro del término de tres días siguientes al en que surta efectos la notificación del acuerdo en que se le tuvo como tal, para que manifieste la aceptación y protesta de desempeñar el cargo con arreglo a la ley.
-
-Los peritos no serán recusables, pero deberán excusarse por alguna de las causas siguientes:
+Los peritos no serán recusables, pero deberán excusarse por algunas de las causas siguientes:
 
 I. Tener parentesco consanguíneo hasta el cuarto grado con alguna de las partes;
 
-II. Tener interés directo o indirecto en el litigio, y
+II. Tener interés directo o indirecto en el litigio;
 
 III. Tener amistad estrecha, enemistad manifiesta, o relaciones de índole económico con cualquiera de las partes.
+
+Las excusas que presenten los peritos sean oficiales o no serán, calificadas por el Magistrado de la Sala en la que se tramite el Juicio Contencioso, dentro del plazo de tres días siguientes a la presentación de la excusa, nombrando de inmediato otro perito.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+ARTICULO. 167.- Los honorarios de cada perito serán pagados por la parte que lo nombró y los del tercero por ambas partes, cuando no sea oficial.
 
 ###### ARTICULO 167.
 
@@ -1651,9 +1853,17 @@ Los testigos, que no podrán exceder de dos por cada hecho, deberán ser present
 
 El oferente de la prueba deberá exhibir el interrogatorio correspondiente, debidamente firmado, y copia del mismo para cada una de las demás partes, a fin de que estén en aptitud de formular repreguntas, las cuales, en su caso deberán hacerse en el momento que se desahogue la prueba, sin que puedan exceder de dos por cada pregunta directa. El Magistrado instructor calificará de legales las preguntas y repreguntas.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 171.
 
-Las partes no podrán formular a los testigos más preguntas de las contenidas en el interrogatorio respectivo; el Magistrado Instructor podrá requerir a los declarantes para que amplíen su contestación, o formularles de manera directa las preguntas que estime convenientes en relación con los hechos de la demanda o de la contestación.
+Todos los declarantes, producirán su testimonio bajo protesta de decir verdad, apercibiéndolos de la responsabilidad en que incurren quienes presten declaraciones falsas, firmarán al margen y al calce de la última hoja las actuaciones que se levanten, en el entendido de que una vez suscritas no podrán variarse ni en la sustancia ni redacción. En dichas actas, siempre se harán constar las (sic) generales de los comparecientes, previa identificación de los mismos. Cuando sean varios los testigos que deban sujetarse a la misma probanza, se tomarán las medidas necesarias para separarlos convenientemente evitando que unos puedan presenciar la declaración de otros.
+
+Los testigos expondrán verbalmente su declaración, sujetándose a los interrogatorios que por escrito formule el oferente. Las partes podrán repreguntar a los testigos en relación al contenido de sus declaraciones.
+
+Las preguntas y repreguntas deben relacionarse directamente con los puntos cuestionados, concebirse en términos claros, no ser contrarias al derecho o a la moral y comprender en ellas un sólo hecho. Las partes no podrán formular más preguntas de las contenidas en el interrogatorio respectivo; el Magistrado instructor podrá en cualquier momento requerir a los testigos para la ampliación de su contestación y al término de los interrogatorios formular de manera directa las preguntas que estime convenientes en relación con los hechos de la demanda o de la contestación.
+
+Los testigos están obligados a expresar la razón de su dicho y el Magistrado a exigirla.
 
 ###### ARTICULO 172.
 
@@ -1671,23 +1881,37 @@ II. El valor de la pericial y testimonial, así como el de las demás pruebas, q
 
 ###### ARTICULO 174.
 
-La audiencia deberá celebrarse el día y hora señalados para tal efecto, será pública, salvo en los casos en que, a juicio de los Magistrados sea necesario que sea reservada y su desarrollo se sujetará al siguiente orden:
+La audiencia deberá celebrarse el día y hora señalada para tal efecto, será pública, salvo en los casos, que a juicio de los Magistrados sea necesario que sea reservada.
 
-I. Se procederá a desahogar las pruebas que las partes hayan ofrecido dentro del juicio; hecho lo anterior, se recibirán los alegatos del actor, de la parte demandada y el tercero afectado, en ese orden, los cuales deberán ser formulados por escrito, ordenándose se agreguen a los autos;
+Las Salas recibirán en la audiencia todas las pruebas, salvo aquellas que por su naturaleza, deban desahogarse previamente, fuera del local o residencia del Tribunal ya sea por personal comisionado o vía exhorto, en cuyo caso en la audiencia se agregarán las constancias donde conste que aquellas ya fueron desahogadas.
 
-II. Concluido el período de alegatos, se dará por terminada la audiencia, citándose a las partes para oír sentencia, y
+El hecho de que alguna de las pruebas ofrecidas por las partes no haya sido debidamente preparada el día que tenga verificativo la audiencia, no será causa suficiente para suspenderla. Se desahogarán las pruebas que estén en condiciones, prorrogando la continuación de la audiencia y ordenando la preparación de las pendientes, desahogándose en la fecha que el Magistrado señale para la continuación y culminación de la misma.
 
-III. El Tribunal deberá emitir la resolución que corresponda en un término que no exceda de quince días hábiles, contados a partir de la fecha de la celebración de la audiencia.
+En toda diligencia que se levante fuera del local de las Salas del Tribunal, el personal comisionado deberá ceñirse estrictamente a lo ordenado, pudiendo concurrir en su compañía las partes, debiéndose levantar acta circunstanciada del desarrollo de la misma, la cual firmarán los que en ella intervengan y quisieran hacerlo. En caso necesario, se tomarán fotografías del lugar u objeto inspeccionado.
+
+La documental en vía de informe se rendirá por escrito y contendrá la declaración bajo protesta de decir verdad de la cuestión planteada acompañando, en su caso, los documentos que se requieran.
+
+Los Magistrados podrán formular toda clase de preguntas a las partes, sus representantes, peritos y testigos, respecto de las cuestiones debatidas.
+
+Concluida la recepción de pruebas, se agregarán los alegatos del actor, de la parte demandada y del tercero interesado, los que deberán presentarse por escrito.
+
+La audiencia se celebrará aún sin asistencia de las partes, las peticiones y oposiciones que realicen las partes que asistan a la audiencia, se resolverán de plano en el transcurso de ésta.
+
+La audiencia podrá suspenderse, o prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado, a juicio del Magistrado de la Sala que conoce del asunto.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 175.
 
-La audiencia se celebrará aun sin la asistencia de las partes. Sin embargo, podrá ser diferida por una sola vez, a solicitud de éstas o cuando exista motivo fundado, a juicio del Tribunal.
+Formulados los alegatos, se citará para oír sentencia, misma que deberá pronunciarse dentro del plazo de quince días hábiles.
 
 ### CAPITULO DECIMO. DE LA AUDIENCIA FINAL
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 176.
 
-La Sala, al pronunciar sentencia suplirá las deficiencias de la queja planteada en la demanda, siempre y cuando de los hechos narrados se deduzca el agravio; pero en todos los casos se contraerá a los puntos de la litis.
+La Sala de primera instancia, al pronunciar sentencia suplirá las deficiencias de la queja planteada por el administrado en su demanda, siempre y cuando de los hechos narrados se deduzca el agravio, pero en todos los casos se contraerá a los puntos de la litis.
 
 ###### ARTICULO 177.
 
@@ -1725,13 +1949,19 @@ Las sentencias definitivas deberán reconocer total o parcialmente la legalidad 
 
 ### CAPITULO DECIMO PRIMERO. DE LA SENTENCIA
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 180.
 
 Las partes podrán, si a sus intereses conviene, promover aclaración de sentencia, la cual se promoverá por una sola vez ante quien hubiese dictado la resolución, dentro de los cinco días siguientes al en que surta efectos la notificación de la resolución, señalando con toda precisión la contradicción, ambigüedad u oscuridad cuya aclaración se solicite.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 181.
 
-El Pleno o la Sala del Tribunal que emitió el acto, resolverá dentro de los tres días siguientes lo que estime procedente, sin que pueda variar la sustancia de la resolución; la aclaración se considerará parte integrante de ésta y no admitirá ningún recurso.
+La Sala del Tribunal que emitió la sentencia, resolverá dentro de los tres días siguientes lo que estime procedente, sin que pueda variar la sustancia de la resolución; la aclaración será parte integrante de la sentencia y no admitirá recurso alguno.
+
+La interposición de la aclaración, interrumpe el plazo para interponer la revisión.
 
 ### CAPITULO DECIMO SEGUNDO. DE LA ACLARACION DE LA SENTENCIA
 
@@ -1903,47 +2133,83 @@ La resolución a que se refiere el párrafo que antecede, se notificará tambié
 
 Si la Sala resuelve que hubo exceso o defecto en el cumplimiento de la sentencia o en la suspensión del acto reclamado, dejará sin efectos el acto o resolución que provoco la queja y se concederá a la autoridad responsable, veinticuatro horas para que dé cumplimiento debido al fallo, señalando la forma y términos precisados en la suspensión o sentencia, conforme a los cuales se debe cumplir.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 206.
 
-Procede el recurso de revisión en contra de las resoluciones siguientes:
+Contra los acuerdos y resoluciones dictados por los Magistrados de las Salas de Primera Instancia, procede el recurso de revisión, cuyo conocimiento y resolución corresponde a la Sala Superior.
 
-I. Las que admitan o desechen la demanda, su contestación o ampliación;
+Podrán ser impugnadas por las partes, mediante recurso de revisión:
 
-II. Las que desechen pruebas;
+I. Los acuerdos que admitan o desechen la demanda, su contestación o ampliación;
 
-III. Las que rechacen la intervención del tercero;
+II. El acuerdo que deseche pruebas;
 
-IV. Las que concedan o nieguen la suspensión, fijen fianzas o contrafianzas;
+III. El acuerdo que rechace la intervención del tercero;
 
-V. Las que decreten o nieguen el sobreseimiento del juicio antes de la audiencia;
+IV. Los acuerdos que decreten, nieguen o revoquen la suspensión;
 
-VI. La sentencia de la Sala que haya declarado fundada la pretensión del Actor;
+V. Las resoluciones que decidan incidentes;
 
-VII. La sentencia de las Salas que haya declarado fundadas las defensas y excepciones de la parte demandada, y
+VI. Las resoluciones que decreten o nieguen el sobreseimiento;
 
-VIII. La sentencia de las Salas que causen agravio irreparable al tercero perjudicado llamado a juicio.
+VII. Las sentencias que decidan la cuestión planteada. Por violaciones cometidas durante el procedimiento del juicio, cuando hayan dejado sin defensa al recurrente y trasciendan al sentido de la sentencia; y
+
+VIII. Las resoluciones que pongan fin al procedimiento de ejecución de la sentencia.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 207.
 
-El recurso de revisión se interpondrá ante la Sala correspondiente, dentro de los cinco días hábiles siguientes a aquel en que surta efectos la notificación respectiva, y se resolverá por el Pleno del Tribunal, en el escrito en el que se presente el recurso se expresaran agravios. El Magistrado que Resolvió, no integrará pleno para votar la sentencia que resuelva el recurso, para lo cual será llamado otro o en su defecto, se habilitará, para el único efecto de integrar Pleno, a un Juez Instructor de lo Contencioso Administrativo.
+El recurso de revisión se presentará por escrito con expresión de agravios ante la Sala que dictó el acuerdo o resolución que se impugna, dentro de los cinco días siguientes a la notificación de la resolución recurrida.
+
+Recibido el recurso, la Sala formará cuaderno por separado, en el cual certificará la fecha en que se notificó el acuerdo o resolución impugnada y la fecha en que se presentó el recurso.
+
+Acto seguido acordará en el cuaderno mencionado la recepción del mismo y ordenará se corra traslado a las demás partes, para que dentro del plazo de cinco días hábiles contados a partir de que surta efectos la notificación contesten ante la misma Sala lo que a sus derechos convenga.
+
+Una vez que se reciban los escritos de las demás partes, o bien, transcurrido el plazo sin que hubieren presentado escrito alguno, la Sala, previa certificación del transcurso y conclusión del plazo, acordará la remisión a la Sala Superior del cuaderno a que se refiere el artículo anterior, mismo que deberá contener:
+
+a) El escrito por el que se interpone el recurso de revisión;
+
+b) La certificación que contengan la fecha de notificación del acuerdo impugnado y la fecha de presentación del recurso;
+
+c) La diligencia de notificación a las demás partes;
+
+d) La certificación de la fecha de notificación y la fecha en que se presentaron los escritos de las partes, o en su caso la certificación de que transcurrido el plazo de cinco días concedidos, no se presentaron escritos de las partes; y
+
+e) Los escritos de la partes.
+
+Asimismo enviará copia certificada de las actuaciones del expediente si lo que se recurre es un acuerdo o resolución interlocutoria, o bien el expediente original si se impugna la sentencia que puso fin a la Primera Instancia, así como la determinación que igualmente ponga fin al proceso de la primera instancia.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 208.
 
-Interpuesto el recurso, la Sala correrá traslado a las demás partes por el término de cinco días hábiles para que expresen lo que a su derecho convenga y ofrezca pruebas si las tuvieran. El Pleno del Tribunal resolverá lo procedente dentro de los cinco días hábiles siguientes. El Reglamento dispondrá el turno del Magistrado Instructor, la forma de las sesiones del Pleno y de sus votaciones.
+El Magistrado Presidente de la Sala Superior recibido el recurso, dictará el acuerdo de turno correspondiente y lo turnará al Magistrado que corresponda para que formule el proyecto de resolución respectivo.
+
+El proyecto será sometido para su aprobación a los integrantes de la Sala Superior, en la sesión que corresponda.
+
+Resuelto el recurso, se notificará a las partes y a la Sala unitaria correspondiente, remitiendo copia certificada de la resolución del recurso de revisión, en su caso, se devolverá el expediente original de Primera Instancia, si este se hubiere remitido.
+
+El Reglamento interno de este Órgano Jurisdiccional, dispondrá la organización, forma de sesiones de la Sala Superior y de sus votaciones.
 
 ### CAPITULO DECIMO SEPTIMO. DE LOS RECURSOS
 
 ###### ARTICULO 209.
 
-Las partes podrán formular excitativa de justicia ante el Tribunal en pleno si la Sala no pronuncia la resolución que corresponda dentro del plazo que al efecto señala esta Ley, o el Juez Instructor no formula el proyecto respectivo.
+Las partes podrán formular exitativa (sic) de justicia ante la Sala Superior, si la de Primera Instancia no pronuncia la resolución que corresponda dentro del plazo que al efecto señala esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 210.
 
-Recibida la excitativa de justicia el Presidente del Tribunal, solicitará informe al Magistrado instructor, quien deberá rendirlo en el plazo de cinco días.
+Recibida la exitativa (sic) de justicia la presidencia de la Sala Superior, solicitará informe al titular de la Sala de Primera Instancia, quien deberá rendirlo en el plazo de cinco días.
 
-El Presidente dará cuenta al Pleno y si este encuentra fundada la excitativa, otorgará un plazo que no excederá de cinco días para que el Magistrado Instructor, pronuncie resolución o formule el proyecto respectivo, sino se cumpliere con dicha obligación el responsable será sustituido por el Magistrado que el Presidente designe.
+La presidencia dará cuenta a los integrantes de la Sala Superior, que si encuentran fundada la exitativa (sic), resolverán otorgar un plazo que no excederá de cinco días para que el titular de la Sala pronuncie la resolución respectiva, si no se cumpliere con dicha obligación el responsable será sustituido por el Magistrado o Juez que corresponda.
 
 ### CAPITULO DECIMO OCTAVO. DE LAS EXCITATIVAS DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 211.
 
@@ -1953,7 +2219,11 @@ Las dependencias de los poderes Ejecutivo, Legislativo y Judicial, así como los
 
 ###### ARTICULO 212.
 
-Los criterios establecidos en las sentencias que dicte el Pleno del Tribunal serán obligatorios para el mismo, siempre que lo resuelto se sustente en cinco ejecutorias no interrumpidas por otra en contrario.
+Los criterios establecidos en las sentencias que dicte la Sala Superior serán obligatorios para el Tribunal, siempre que lo resuelto se sustente en cinco ejecutorias no interrumpidas por otra en contrario.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+La Sala Superior también definirá el criterio obligatorio, cuando exista contradicción entre los que sostengan las Salas de Primera Instancia, mediante denuncia que haga el Magistrado que haya sustentado la contradictoria, o a petición de parte interesada.
 
 El Secretario General de Acuerdos compilará, glosará, estructurará y llevará sistemáticamente el compendio de criterios sustentados y validados.
 
@@ -1965,11 +2235,13 @@ Los criterios que establezca el Tribunal, así como aquellos que constituyan pre
 
 Para la modificación de los criterios a que se refiere el artículo anterior, se observarán las mismas reglas establecidas para su formación.
 
-El pleno podrá definir los criterios cuando exista contradicción entre las dictadas por las Salas, mediante denuncia que le haga el Magistrado que haya sustentado la contradictoria o a petición de parte interesada.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO VIGESIMO PRIMERO. DE LA REGLAMENTACION INTERNA
 
 ### CAPITULO VIGESIMO. DE LOS CRITERIOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 215.
 
@@ -2054,3 +2326,17 @@ Rúbrica
 P.O. 18 DE FEBRERO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE OCTUBRE DE 2009.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los procedimientos administrativos que se encuentran en trámite, se substanciarán y resolverán conforme a las disposiciones vigentes antes de la presente reforma. Igualmente los juicios de Primera Instancia que se encuentren en trámite al entrar en vigor el presente Decreto, se resolverán conforme a las disposiciones vigentes antes de la presente reforma.
+
+Los recursos de revisión previstos en el Libro Tercero de esta Ley, que se encuentren en trámite iniciada la vigencia de esta reforma, serán resueltos por la Sala Superior del Tribunal.
+
+TERCERO.- El Tribunal contará con un plazo de 180 días para modificar su Reglamento Interno, en tanto, continuará aplicando el vigente en lo que no se oponga al contenido de esta reforma.
+
+CUARTO.- Para los efectos de esta reforma, la Sala que actualmente preside la Presidencia del Tribunal se convertirá en Sala Superior, en concordancia con el artículo 90 fracción I.
+
+QUINTO.- El plazo a que se refiere el artículo 100 de esta Ley, en el caso de los magistrados designados con anterioridad, se computará a partir de la fecha de su designación.
