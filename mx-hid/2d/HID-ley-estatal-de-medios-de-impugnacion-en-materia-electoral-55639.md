@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-55639
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-11"
-last_updated: "2007-05-11"
+last_updated: "2009-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 11 de mayo de 2007.
 
@@ -101,7 +101,9 @@ En los casos de la cita errónea en la denominación del medio de impugnación o
 
 Cuando un Órgano Electoral reciba un medio de impugnación por el cual se pretenda combatir un acto o resolución que no es competente para tramitarlo o resolverlo le es propio, lo remitirá de inmediato, sin trámite adicional alguno a la Autoridad que sea competente para tramitarlo.
 
-El Tribunal Electoral, conforme a las disposiciones del presente ordenamiento, resolverá los asuntos de su competencia con plenitud de jurisdicción.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+El Tribunal Electoral, conforme a las disposiciones de la Constitución Política del Estado de Hidalgo y del presente ordenamiento, gozará de autonomía en su funcionamiento e independencia en sus decisiones y resolverá los asuntos de su competencia con plenitud de jurisdicción.
 
 ### CAPITULO SEGUNDO. DE LOS PLAZOS Y DE LOS TERMINOS
 
@@ -347,11 +349,11 @@ VI.- En las sesiones públicas sólo podrán participar y hacer uso de la palabr
 
 En casos extraordinarios, se podrá diferir la resolución de un asunto listado.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 27.
 
-La sustanciación y resolución del juicio de inconformidad y, en su caso, la declaración de nulidad de la elección de Ayuntamientos, deberá realizarse dentro del plazo de los treinta días naturales siguientes al cierre del acta de cómputo y declaración de validez de la Elección Municipal de que se trate.
-
-Tratándose de la elección de Diputados y Gobernador, la sustanciación y resolución de los medios de impugnación y, en su caso, la declaración de nulidad de las elecciones, deberá realizarse dentro de los veinte días naturales siguientes al cierre del acta de cómputo y declaración de validez de la elección de que se trate.
+Los juicios de inconformidad, en su totalidad, serán resueltos por el Pleno del Tribunal Electoral a más tardar el 20 de agosto del año de la elección.
 
 ### CAPITULO DECIMO PRIMERO. DE LAS NOTIFICACIONES
 
@@ -515,9 +517,11 @@ Ningún partido político o coalición podrá invocar como causas de nulidad, he
 
 Los efectos de las nulidades se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de inconformidad, que deberá resolver el Tribunal Electoral.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 46.
 
-Las elecciones de Diputados, Gobernador y Ayuntamientos, sólo podrán ser declaradas nulas por el Tribunal Electoral del Poder Judicial del Estado.
+Las elecciones de Diputados, Gobernador y Ayuntamientos, sólo podrán ser declaradas nulas por el Tribunal Electoral del Poder Judicial del Estado por las causales de nulidad expresamente señaladas en esta Ley, siempre que éstas sean determinantes y se encuentren plenamente acreditadas.
 
 ###### Artículo 47.
 
@@ -779,6 +783,30 @@ Admitido el juicio y recibido en tiempo y forma el escrito de los partidos terce
 
 En caso extraordinario, el Pleno del Tribunal podrá ordenar la realización de alguna diligencia para mejor proveer, siempre que ello no constituya un obstáculo para la resolución del Medio de Impugnación dentro de los plazos establecidos por la Ley.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+El Tribunal podrá realizar recuentos de votos, siempre y cuando la realización de tales diligencias no le impida resolver dentro de los plazos establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+El Tribunal, a través del Magistrado ponente y a petición fundada y motivada de la parte actora podrá ordenar diligencias de recuento de votos en una, varias o en la totalidad de las casillas impugnadas, cuando del análisis a los hechos y agravios que se hagan valer se advierta que habiendo sido solicitado el recuento en tiempo y forma ante el órgano responsable, éste se hubiere negado indebidamente a su realización. Asimismo, podrá el Tribunal ordenar recuento de votos como diligencia para mejor proveer.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+En ningún caso procederá el recuento de votos de casillas en las que el órgano responsable hubiere realizado ese ejercicio.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+El desahogo de las diligencias de recuento se podrá efectuar en los consejos del Instituto Estatal Electoral; será facultad discrecional del Tribunal el allegarse de la documentación electoral pertinente para llevar a cabo los recuentos.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Para la realización de recuentos, en caso necesario, el Tribunal designará el personal suficiente para el desahogo de la diligencia, previa citación a la responsable y a todos los partidos políticos o coaliciones a fin de salvaguardar los principios rectores de la materia electoral.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
+Se deberá levantar acta circunstanciada de todo lo actuado.
+
 ###### Artículo 86.
 
 Substanciado en su totalidad el juicio, y formulado el proyecto por el Magistrado Instructor lo hará llegar a los demás Magistrados y dará cuenta al Presidente, quien ordenará la publicación del listado para que sea discutido en la sesión plenaria siguiente.
@@ -789,7 +817,7 @@ Substanciado en su totalidad el juicio, y formulado el proyecto por el Magistrad
 
 El proyecto será discutido por el Pleno del Tribunal Electoral, en términos del Artículo 25 de esta Ley.
 
-El Pleno del Tribunal Electoral deberá resolver dentro de los veinte días siguientes al auto de admisión del juicio, tratándose de la elección de Ayuntamientos y dentro de los diez días siguientes cuando se trate de la elección de Diputados y Gobernador.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 88.
 
@@ -832,3 +860,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE OCTUBRE DE 2009.
+
+Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
