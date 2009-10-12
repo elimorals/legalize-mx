@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-contratacion-15526
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-07"
-last_updated: "2006-07-07"
+last_updated: "2009-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el 7 de junio de 1999.
 
@@ -505,9 +505,11 @@ En caso de que la Secretaria por causas imputables al Municipio, no formalizare 
 
 La Secretaría podrá pactar penas convencionales a cargo del proveedor por atraso en el cumplimiento de los contratos.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 42.
 
-En ningún caso, los derechos y obligaciones derivados de la orden de compra y/o del contrato, podrán ser cedidos en todo o en parte a otras personas físicas o morales distintas de aquélla a la que se le haya adjudicado la adquisición.
+Los derechos y obligaciones que se deriven de contratos de adquisiciones no podrán cederse parcial o totalmente a favor de persona física o moral, salvo los derechos de cobro, en cuyo caso se deberá contar con el consentimiento escrito de la Secretaría.
 
 ###### Artículo 43.
 
@@ -696,3 +698,13 @@ SECRETARIO DE SERVICIOS ADMINISTRATIVOS
 P.O. 7 DE JULIO DE 2006.
 
 Artículo Único.- Las reformas por adición, derogación y modificación al Reglamento de Reglamento de Adquisiciones Arrendamientos y Contratación de Servicios para el Gobierno Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 12 DE OCTUBRE DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Se aprueba la INICIATIVA DE REFORMA POR MODIFICACIÓN AL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, por razones y términos anteriormente señalados.
+
+SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su difusión a través de la Gaceta Municipal.
+
+TERCERO. Gírese las instrucciones al C. Lic. Fernando Margáin Berlanga, Presidente Municipal y a la C. Lic. Ma. Emilda Ortiz Caballero, Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
