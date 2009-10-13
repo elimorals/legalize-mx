@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2009-09-25"
+last_updated: "2009-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -127,7 +127,7 @@ I.- La Comisión Instaladora, por conducto del Primer Secretario, dará cuenta d
 
 II.- Seguidamente, se pasará lista de presentes a los diputados miembros de la nueva legislatura para, en su caso, previa su protesta constitucional ante la Comisión Instaladora, declarar debidamente instalada la legislatura con su número correspondiente. En el caso de inasistencias de diputados electos, éstos serán llamados en términos de la Constitución Política del Estado;
 
-Ill.- Acto continuo, el Presidente de la Comisión Instaladora pedirá a los diputados que, por mayoría absoluta de votos, elijan a la Mesa Directiva para el periodo correspondiente, misma que se integrará conforme a lo dispuesto en esta ley;
+III.- Acto continuo, el Presidente de la Comisión Instaladora pedirá a los diputados que, por mayoría absoluta de votos, elijan a la Mesa Directiva para el periodo correspondiente, misma que se integrará conforme a lo dispuesto en esta ley;
 
 IV.- Electa la Mesa Directiva, el Presidente de la Comisión Instaladora invitará a los recién nombrados a tomar su lugar en el presidium. Antes de retirarse, hará la entrega por inventario de la totalidad de los documentos y constancias electorales que obren en su poder, así como los documentos relativos al proceso de entrega-recepción. Acto seguido, declarará concluidas las funciones de la Comisión Instaladora;
 
@@ -135,7 +135,7 @@ V.- Una vez instalada la Mesa Directiva, el Presidente declarará formalmente in
 
 VI.- Acto seguido, el Presidente de la Mesa Directiva dará cuenta al pleno del Congreso del Estado la integración de los Grupos Parlamentarios que se hubiesen constituido conforme a la presente ley; y
 
-VIl.- Los diputados que no hubieren asistido a la sesión, deberán rendir protesta ante la Mesa Directiva en la primera sesión a la que concurran.
+VII.- Los diputados que no hubieren asistido a la sesión, deberán rendir protesta ante la Mesa Directiva en la primera sesión a la que concurran.
 
 ###### ARTÍCULO 17.
 
@@ -357,7 +357,7 @@ I.- En la misma sesión en la que se les aplicó una amonestación, incurran de 
 
 II.- Hayan provocado un tumulto en el pleno del Congreso; y
 
-Ill.- Profieran amenazas a uno o varios de sus colegas diputados, o a los miembros de las instituciones del Estado o de la Federación.
+III.- Profieran amenazas a uno o varios de sus colegas diputados, o a los miembros de las instituciones del Estado o de la Federación.
 
 ###### ARTÍCULO 45.
 
@@ -511,7 +511,7 @@ XI.- Firmar, en unión de los Secretarios, las actas de sesión aprobadas por el
 
 XII.- Llamar al orden al público asistente a las sesiones del pleno del Congreso del Estado o reuniones de comisión, e imponerlo cuando hubiere motivo para ello, pudiendo mandar desalojar el recinto oficial, así como solicitar el auxilio de la fuerza pública cuando lo estime necesario;
 
-XlII.- Requerir a los diputados y a quienes se presenten en el recinto oficial en posesión de armas a que lo abandonen;
+XIII.- Requerir a los diputados y a quienes se presenten en el recinto oficial en posesión de armas a que lo abandonen;
 
 XIV.- Representar al Congreso del Estado en actos o ceremonias oficiales, así como delegar su representación preferentemente en otro diputado integrante de la Mesa Directiva o cualquier miembro del Congreso del Estado; asimismo, nombrar comisiones de entre los diputados, en forma plural, para ostentar la representación del Congreso del Estado en los actos en que tenga impedimento para asistir;
 
@@ -641,9 +641,11 @@ V.- Especiales; y
 
 VI.- Protocolarias.
 
+> <small>(REFORMADO, B.O. 13 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 84.
 
-El pleno del Congreso del Estado definirá, por el voto de las dos terceras partes de sus miembros, dentro de los primeros cinco días después de su instalación, las comisiones que se integrarán y los miembros que formarán parte de éstas; el primero de los cuales fungirá como Presidente y los demás tendrán el carácter de Secretarios.
+El pleno del Congreso del Estado definirá, por el voto de la mayoría absoluta de sus miembros, dentro de los primeros quince días después de su instalación, las comisiones que se integrarán y los miembros que formarán parte de éstas; el primero de los cuales fungirá como Presidente y los demás tendrán el carácter de Secretarios.
 
 ###### ARTÍCULO 85.
 
@@ -707,7 +709,7 @@ VI.- De Deporte y Juventud;
 
 VII.- De Justicia y Derechos Humanos;
 
-VIlII (SIC).- De Seguridad Pública;
+VIIII (SIC).- De Seguridad Pública;
 
 IX.- De Fomento Agrícola y Ganadero;
 
@@ -727,7 +729,7 @@ XVI.- De Energía y Medio Ambiente;
 
 XVII. De Salud;
 
-XVIlI.- De Transparencia, Comunicación y Enlace Social;
+XVIII.- De Transparencia, Comunicación y Enlace Social;
 
 XIX.- De Asuntos de Equidad y Género;
 
@@ -781,7 +783,7 @@ I.- El nombre de la comisión o comisiones que lo suscriban y el asunto sobre el
 
 II.- Antecedentes del asunto planteado;
 
-IlI.- Consideraciones que sustenten el apoyo, modificación o rechazo del contenido de la iniciativa o asunto;
+III.- Consideraciones que sustenten el apoyo, modificación o rechazo del contenido de la iniciativa o asunto;
 
 IV.- Puntos resolutivos;
 
@@ -791,7 +793,7 @@ VI.- Fecha, nombre y firma de los diputados integrantes de la o las comisiones q
 
 ###### ARTÍCULO 99.
 
-Ante la falta de presentación oportuna de dictámenes en el plazo ordinario establecido en el articulo 97 de esta ley, la Comisión de Régimen Interno y Concertación Política podrá proponer al pleno del Congreso del Estado la creación de una comisión especial con carácter transitorio para que concluya el estudio y dictamen de la iniciativa o asunto que se trate, o bien la reasignación de la iniciativa o asunto a una comisión distinta.
+Ante la falta de presentación oportuna de dictámenes en el plazo ordinario establecido en el artículo 97 de esta ley, la Comisión de Régimen Interno y Concertación Política podrá proponer al pleno del Congreso del Estado la creación de una comisión especial con carácter transitorio para que concluya el estudio y dictamen de la iniciativa o asunto que se trate, o bien la reasignación de la iniciativa o asunto a una comisión distinta.
 
 ###### ARTÍCULO 100.
 
@@ -1011,7 +1013,7 @@ Los dictámenes podrán ser objeto de dispensa de primera lectura sólo en el su
 
 ###### ARTÍCULO 127.
 
-En los casos de urgencia notoria, o de obvia resolución, o cuando esté próximo a terminar un periodo de sesiones, el pleno del Congreso del Estado podrá dispensar el trámite de segunda lectura a que se refiere el articulo anterior.
+En los casos de urgencia notoria, o de obvia resolución, o cuando esté próximo a terminar un periodo de sesiones, el pleno del Congreso del Estado podrá dispensar el trámite de segunda lectura a que se refiere el artículo anterior.
 
 ###### ARTÍCULO 128.
 
@@ -1685,7 +1687,7 @@ La reagrupación de comisiones de dictamen legislativo referidas en el artículo
 
 ###### ARTÍCULO SEXTO.
 
-Las funciones a que se refiere el articulo 109 fracción IX de esta ley, serán ejercidas durante esta LVIII legislatura, por la Comisión de Comunicación y Enlace, hasta en tanto entren en vigor la reagrupación de comisiones establecidas en el artículo transitorio anterior.
+Las funciones a que se refiere el artículo 109 fracción IX de esta ley, serán ejercidas durante esta LVIII legislatura, por la Comisión de Comunicación y Enlace, hasta en tanto entren en vigor la reagrupación de comisiones establecidas en el artículo transitorio anterior.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -1705,8 +1707,12 @@ Hermosillo, Sonora, a 27 de febrero de 2007.
 
 C. DIP. FRANCISCO GARCÍA GÁMEZ, DIPUTADO PRESIDENTE, RUBRICA. C. DIP. REYNALDO MILLÁN COTA, DIPUTADO SECRETARIO, RUBRICA. C. DIP. LUIS MELECIO CHAVARÍN GAXIOLA, DIPUTADO SECRETARIO, RUBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 25 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 13 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
