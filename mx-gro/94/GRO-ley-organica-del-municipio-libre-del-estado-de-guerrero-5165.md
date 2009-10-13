@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2009-06-16"
+last_updated: "2009-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -685,7 +685,11 @@ VII. De Atención y Participación Social de Migrantes;
 
 > <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
 
-VIII. De Medio Ambiente y Recursos Naturales.
+VIII. De Medio Ambiente y Recursos Naturales;
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2009)</small>
+
+IX. De Asuntos indígenas.
 
 ###### ARTICULO 60.
 
@@ -1042,6 +1046,18 @@ X. Establecer una unidad administrativa de Atención a Migrantes, conforme lo pe
 XI. Otorgar reconocimiento a nivel municipal a personas físicas o morales o bien a agrupaciones ciudadanas migrantes por sus contribuciones dentro de proyectos de beneficio colectivo que eleven el bienestar social o la producción del Municipio; y
 
 XII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 69 ter.- Son facultades y obligaciones de los Ayuntamientos en materia de Asuntos Indígenas, las siguientes:
+
+I. Coordinarse con los Gobiernos del Estado y de la Federación, a efecto de propiciar políticas públicas unificadas en materia de Asuntos Indígenas;
+
+II. Vigilar que los planes, proyectos y programas, que se ejecuten en el Municipio se cumplan en términos de las reglas de operación aprobadas para ello;
+
+III. Emitir la Reglamentación necesaria para la atención de los Asuntos Indígenas;
+
+IV. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
 ###### ARTICULO 70.
 
@@ -3266,3 +3282,9 @@ DÉCIMO TERCERO.- Sin perjuicio de las bases previstas en el presente Decreto, l
 DÉCIMO CUARTO.- Se derogan todas aquellas disposiciones contenidas en leyes, reglamentos, decretos y acuerdos, que se opongan o que ya se contengan en este decreto.
 
 DÉCIMO QUINTO.- Remítase al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. - Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes.
