@@ -4,7 +4,7 @@ identifier: "FED-catalogo-general-de-puestos-del-consejo-de-la-judicatura-68500"
 country: "mx"
 rank: "otro"
 publication_date: "2009-05-21"
-last_updated: "2009-05-21"
+last_updated: "2009-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68500&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-11"
 
 CATALOGO GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE OCTUBRE DE 2009.
 
 Catálogo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 21 de mayo de 2009.
 
@@ -71,7 +71,9 @@ El Consejo de la Judicatura Federal dentro de su dinámica organizacional, requi
 
 El presente documento corresponde a la actualización de la versión ejecutiva del "Catálogo General de Puestos del Consejo de la Judicatura Federal, Febrero 2009”, aprobado por el Pleno del Consejo de la Judicatura Federal.
 
-Para la presente actualización se consideran los 71 puestos del Tabulador General de Sueldos y Prestaciones del Consejo de la Judicatura Federal, clasificados en 3 tipos, 5 grupos y 7 ramas.
+> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
+
+Para la presente actualización se consideran los 72 puestos del Tabulador General de Sueldos y Prestaciones del Consejo de la Judicatura Federal, clasificados en 3 tipos, 5 grupos y 7 ramas.
 
 Este documento se integra por cinco apartados, el primero detalla la clasificación de los puestos de acuerdo al tipo, grupo y rama considerando la naturaleza jurídica y funcional de los mismos.
 
@@ -101,7 +103,9 @@ I.1 Tipo.
 
 El Tipo se refiere a la clasificación jurídica del puesto conforme a lo que se señala en los artículos 110, 181 y 182 de la Ley Orgánica del Poder Judicial de la Federación y los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal, considerando tres categorías relacionadas con las funciones que desarrollan los servidores públicos que los ocupan: CONFIANZA, CARRERA JUDICIAL y BASE como sigue:
 
-I.1.1. Confianza (CF), corresponde a los puestos que tienen a su cargo funciones de dirección, inspección, vigilancia y fiscalización y, en su caso, de apoyo especializado, asesoría y de ayuda y seguridad a servidores públicos superiores. Los puestos en esta categoría son los que se mencionan o se ubican en el supuesto a que hace referencia el Artículo 181 de la Ley Orgánica del Poder Judicial de la Federación, teniendo 53 puestos de confianza conforme a las siguientes nomenclaturas:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
+
+I.1.1. Confianza (CF), corresponde a los puestos que tienen a su cargo funciones de dirección, inspección, vigilancia y fiscalización y, en su caso, de apoyo especializado, asesoría y de ayuda y seguridad a servidores públicos superiores. Los puestos en esta categoría son los que se mencionan o se ubican en el supuesto a que hace referencia el Artículo 181 de la Ley Orgánica del Poder Judicial de la Federación, teniendo 54 puestos de confianza conforme a las siguientes nomenclaturas:
 
 1. CONSEJERO
 
@@ -147,67 +151,71 @@ I.1.1. Confianza (CF), corresponde a los puestos que tienen a su cargo funciones
 
 22. SECRETARIO DE LA COMISION SUBSTANCIADORA UNICA DEL PODER JUDICIAL DE LA FEDERACION
 
-23. SECRETARIO PARTICULAR DE SPS
+> <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
 
-24. SUPERVISOR
+23. ASESOR ESPECIALIZADO SPS
 
-25. DEFENSOR PUBLICO
+24. SECRETARIO PARTICULAR DE SPS
 
-26. ASESOR JURIDICO
+25. SUPERVISOR
 
-27. ASESOR SPS
+26. DEFENSOR PUBLICO
 
-28. LIDER DE PROYECTO
+27. ASESOR JURIDICO
 
-29. COORDINADOR TECNICO DE SPS
+28. ASESOR SPS
 
-30. SUBDIRECTOR DE AREA
+29. LIDER DE PROYECTO
 
-31. COORDINADOR TECNICO A
+30. COORDINADOR TECNICO DE SPS
 
-32. JEFE DE OFICINA DE CORRESPONDENCIA COMUN A
+31. SUBDIRECTOR DE AREA
 
-33. SECRETARIO PARTICULAR DE MAGISTRADO DE CIRCUITO
+32. COORDINADOR TECNICO A
 
-34. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
+33. JEFE DE OFICINA DE CORRESPONDENCIA COMUN A
 
-35. DELEGADO ADMINISTRATIVO
+34. SECRETARIO PARTICULAR DE MAGISTRADO DE CIRCUITO
 
-36. JEFE DE DEPARTAMENTO
+35. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
 
-37. AUXILIAR ITINERANTE
+36. DELEGADO ADMINISTRATIVO
 
-38. AUDITOR
+37. JEFE DE DEPARTAMENTO
 
-39. DICTAMINADOR
+38. AUXILIAR ITINERANTE
 
-40. COORDINADOR TECNICO B
+39. AUDITOR
 
-41. JEFE DE OFICINA DE CORRESPONDENCIA COMUN B
+40. DICTAMINADOR
 
-42. COORDINADOR DE AYUDA Y SEGURIDAD
+41. COORDINADOR TECNICO B
 
-43. TECNICO DE ENLACE
+42. JEFE DE OFICINA DE CORRESPONDENCIA COMUN B
 
-44. TECNICO DE ENLACE ADMINISTRATIVO OCC
+43. COORDINADOR DE AYUDA Y SEGURIDAD
 
-45. SECRETARIA EJECUTIVA DE SPS
+44. TECNICO DE ENLACE
 
-46. ANALISTA ESPECIALIZADO
+45. TECNICO DE ENLACE ADMINISTRATIVO OCC
 
-47. OFICIAL DE PARTES
+46. SECRETARIA EJECUTIVA DE SPS
 
-48. JEFE DE GRUPO DE SEGURIDAD
+47. ANALISTA ESPECIALIZADO
 
-49. CHOFER DE FUNCIONARIO
+48. OFICIAL DE PARTES
 
-50. SECRETARIA EJECUTIVA A
+49. JEFE DE GRUPO DE SEGURIDAD
 
-51. ANALISTA
+50. CHOFER DE FUNCIONARIO
 
-52. OFICIAL DE SEGURIDAD
+51. SECRETARIA EJECUTIVA A
 
-53. TECNICO ADMINISTRATIVO
+52. ANALISTA
+
+53. OFICIAL DE SEGURIDAD
+
+54. TECNICO ADMINISTRATIVO
 
 I.1.2. Carrera Judicial (CJ), corresponde a los puestos que coadyuvan directamente en la función de impartición de justicia. Los puestos en esta categoría son los enunciados en el Artículo 110 de la Ley Orgánica del Poder Judicial de la Federación adscritos a Tribunales de Circuito y Juzgados de Distrito, teniendo 5 puestos de carrera judicial conforme a las siguientes nomenclaturas:
 
@@ -305,7 +313,9 @@ I.2.3 Mandos medios (3), integra puestos de nivel salarial 12, 13, 14, 21, 23 y 
 
 6. JEFE DE DEPARTAMENTO
 
-I.2.4 Homólogos a mandos medios (4), considera los puestos de nivel salarial 13A, 13B, 13C, 13, 15, 16, 16A, 20, 21 y 24, cuyos ocupantes son servidores públicos medios que conforman o no unidad de mando, con responsabilidad técnica especializada en el funcionamiento del órgano o área de su adscripción, y para el asesoramiento y apoyo en la toma de decisiones de su jefe inmediato. En este grupo se tienen 24 puestos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
+
+I.2.4 Homólogos a mandos medios (4), considera los puestos de nivel salarial 13A, 13B, 13C, 13, 15, 16, 16A, 20, 21 y 24, cuyos ocupantes son servidores públicos medios que conforman o no unidad de mando, con responsabilidad técnica especializada en el funcionamiento del órgano o área de su adscripción, y para el asesoramiento y apoyo en la toma de decisiones de su jefe inmediato. En este grupo se tienen 25 puestos:
 
 1. SECRETARIO DE TRIBUNAL
 
@@ -319,41 +329,45 @@ I.2.4 Homólogos a mandos medios (4), considera los puestos de nivel salarial 13
 
 6. SECRETARIO DE LA COMISION SUBSTANCIADORA UNICA DEL PODER JUDICIAL DE LA FEDERACION
 
-7. SECRETARIO PARTICULAR DE SPS
+> <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
 
-8. SUPERVISOR
+7. ASESOR ESPECIALIZADO SPS
 
-9. DEFENSOR PUBLICO
+8. SECRETARIO PARTICULAR DE SPS
 
-10. ASESOR JURIDICO
+9. SUPERVISOR
 
-11. ASESOR SPS
+10. DEFENSOR PUBLICO
 
-12. LIDER DE PROYECTO
+11. ASESOR JURIDICO
 
-13. COORDINADOR TECNICO DE SPS
+12. ASESOR SPS
 
-14. ACTUARIO JUDICIAL
+13. LIDER DE PROYECTO
 
-15. COORDINADOR TECNICO A
+14. COORDINADOR TECNICO DE SPS
 
-16. JEFE DE OFICINA DE CORRESPONDENCIA COMUN A
+15. ACTUARIO JUDICIAL
 
-17. SECRETARIO PARTICULAR DE MAGISTRADO DE CIRCUITO
+16. COORDINADOR TECNICO A
 
-18. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
+17. JEFE DE OFICINA DE CORRESPONDENCIA COMUN A
 
-19. AUDITOR
+18. SECRETARIO PARTICULAR DE MAGISTRADO DE CIRCUITO
 
-20. DICTAMINADOR
+19. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
 
-21. COORDINADOR TECNICO B
+20. AUDITOR
 
-22. JEFE DE OFICINA DE CORRESPONDENCIA COMUN B
+21. DICTAMINADOR
 
-23. COORDINADOR DE AYUDA Y SEGURIDAD
+22. COORDINADOR TECNICO B
 
-24. AUXILIAR ITINERANTE
+23. JEFE DE OFICINA DE CORRESPONDENCIA COMUN B
+
+24. COORDINADOR DE AYUDA Y SEGURIDAD
+
+25. AUXILIAR ITINERANTE
 
 I.2.5 Operativos (5), integra puestos de nivel salarial 25, 26, 27, 28, 29, 30, 31, 32 y 33 cuyos ocupantes son servidores públicos que auxilian en el funcionamiento de los Organos Jurisdiccionales y áreas administrativas del Consejo, con responsabilidad restringida a la ejecución y a los resultados señalados para el desempeño de sus actividades, bajo supervisión superior. En esta categoría se tienen 24 puestos:
 
@@ -477,7 +491,9 @@ I.3.3 Jurídica Especializada (03), integra puestos de nivel salarial 5, 10, 11,
 
 10. ASESOR JURIDICO
 
-I.3.4 Apoyo y Asesoría a SPS (04), integra puestos de nivel salarial 7, 10, 11, 13, 16, 20 y 21, con funciones técnicas especializadas en aspectos jurídicos y/o administrativos para el asesoramiento y desarrollo de estudios, investigaciones, opiniones y propuestas, así como para el seguimiento y desahogo de los asuntos de las oficinas de los servidores públicos superiores y, en su caso, para la coordinación de recursos y proyectos asignados a su área de adscripción. En esta rama se tienen los siguientes 10 puestos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
+
+I.3.4 Apoyo y Asesoría a SPS (04), integra puestos de nivel salarial 7, 10, 11, 13, 16, 20 y 21, con funciones técnicas especializadas en aspectos jurídicos y/o administrativos para el asesoramiento y desarrollo de estudios, investigaciones, opiniones y propuestas, así como para el seguimiento y desahogo de los asuntos de las oficinas de los servidores públicos superiores y, en su caso, para la coordinación de recursos y proyectos asignados a su área de adscripción. En esta rama se tienen los siguientes 11 puestos:
 
 1. COORDINADOR ACADEMICO
 
@@ -487,17 +503,21 @@ I.3.4 Apoyo y Asesoría a SPS (04), integra puestos de nivel salarial 7, 10, 11,
 
 4. SECRETARIO DE APOYO B
 
-5. SECRETARIO PARTICULAR DE SPS
+> <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
 
-6. ASESOR SPS
+5. ASESOR ESPECIALIZADO SPS
 
-7. LIDER DE PROYECTO
+6. SECRETARIO PARTICULAR DE SPS
 
-8. COORDINADOR TECNICO DE SPS
+7. ASESOR SPS
 
-9. SECRETARIO PARTICULAR DE MAGISTRADO DE CIRCUITO
+8. LIDER DE PROYECTO
 
-10. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
+9. COORDINADOR TECNICO DE SPS
+
+10. SECRETARIO PARTICULAR DE MAGISTRADO DE CIRCUITO
+
+11. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
 
 I.3.5 Administrativa (05), integra puestos de nivel salarial 12, 13, 14, 21, 23, 24, 25, 28, 29, 30 y 31, con funciones de apoyo administrativo bajo supervisión superior, requeridas para la operación de las áreas administrativas de su adscripción, como son la dirección y supervisión de áreas, y recursos asignados para la prestación de servicios o realización de trámites en un ámbito específico; la compilación y análisis de información; captura y validación de datos; manejo de equipos de cómputo; operación de sistemas de información; integración de expedientes; manejo de archivos; transcripción de documentos; atención telefónica y de visitantes, entre otras. En esta rama se tienen los siguientes 13 puestos:
 
@@ -595,7 +615,9 @@ II.3 Agrupación de Puestos según su Clasificación.
 
 Los siguientes cuadros incorporan la agrupación general de los puestos considerando su agregación de acuerdo a la clasificación por tipo, grupo y rama e identificando el código de puesto, nivel y rango correspondientes.
 
-II.3.1 Del Tipo Confianza existen 53 puestos distribuidos en 5 grupos y 7 ramas, como sigue:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
+
+II.3.1 Del Tipo Confianza existen 54 puestos distribuidos en 5 grupos y 7 ramas, como sigue:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -609,7 +631,9 @@ II.3.3 Del Tipo Base se tienen 13 puestos distribuidos en 1 grupo y 4 ramas, com
 
 II.4 Tabla de Puestos.
 
-Con la finalidad de facilitar la identificación de los 71 puestos que se incluyen en esta actualización, se relacionan a continuación por orden de nivel salarial, de mayor a menor:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
+
+Con la finalidad de facilitar la identificación de los 72 puestos que se incluyen en esta actualización, se relacionan a continuación por orden de nivel salarial, de mayor a menor:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -692,3 +716,9 @@ Tabulador General de Sueldos y Prestaciones.- Listado en que se consigna los sal
 Unidades Administrativas.- las Ponencias de los Consejeros, Secretarías Ejecutivas y Direcciones Generales.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que la actualización al Catálogo General de Puestos del Consejo de la Judicatura Federal, fue aprobada por el Pleno del propio Consejo, en sesión ordinaria de once de marzo de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, María Teresa Herrera Tello, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a doce de mayo de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CATALOGO.</small>
+
+D.O.F. 13 DE OCTUBRE DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
