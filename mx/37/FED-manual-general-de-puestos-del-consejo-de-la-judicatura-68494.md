@@ -4,7 +4,7 @@ identifier: "FED-manual-general-de-puestos-del-consejo-de-la-judicatura-68494"
 country: "mx"
 rank: "manual"
 publication_date: "2009-05-21"
-last_updated: "2009-05-21"
+last_updated: "2009-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68494&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-11"
 
 MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE OCTUBRE DE 2009.
 
 Manual publicado en las Secciones Segunda y Tercera del Diario Oficial de la Federación, el jueves 21 de mayo de 2009.
 
@@ -37,7 +37,9 @@ Presentación
 
 Indice de Cédulas de Descripción de Puesto
 
-Cédulas de Descripción de 71 Puestos tipo:
+> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
+
+Cédulas de Descripción de 72 Puestos tipo:
 
 - Mandos Superiores y Homólogos a Mandos Superiores
 
@@ -51,7 +53,9 @@ Anexo 1. Glosario
 
 Anexo 2. Identificación de los conceptos de la Cédula de Descripción de Puesto
 
-Anexo 3. Registro de Actualizaciones
+> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
+
+Anexo 3. Registro de Actualizaciones 248 - 252
 
 > <small>N. DE E. VER IMAGEN EN LA SEGUNDA SECCION DEL D.O.F. DE 21 DE MAYO DE 2009, PAGINA 89.</small>
 
@@ -67,7 +71,9 @@ Asimismo, dichas cédulas fueron revisadas y en su caso, complementadas con los 
 
 Una vez integrado y validado el Manual fue sometido a la consideración de la Comisión de Administración, instruyendo su presentación al Pleno del Consejo.
 
-Este Manual contiene 71 (setenta y un) formatos de "Cédula de Descripción de Puesto" y se constituye como el instrumento básico que define el propósito genérico, las funciones, la norma de creación y las responsabilidades de cada puesto, así como la formación académica, la experiencia y otros requisitos obligatorios o deseables que delinean el perfil del ocupante.
+> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
+
+Este Manual contiene 72 (setenta y dos) formatos de "Cédula de Descripción de Puesto" y se constituye como el instrumento básico que define el propósito genérico, las funciones, la norma de creación y las responsabilidades de cada puesto, así como la formación académica, la experiencia y otros requisitos obligatorios o deseables que delinean el perfil del ocupante.
 
 Para mantener un control histórico de la descripción de puesto, se mantiene como fecha de autorización la que corresponde a la primera vez que fue presentada y aprobada por la Comisión de Administración la cédula en cuestión y, como fecha de actualización, aquélla en la que fue autorizada por la autoridad competente, en este caso su última actualización que corresponde a la vigente.
 
@@ -145,99 +151,103 @@ SUBSTANCIADORA
 
 UNICA DEL PODER JUDICIAL DE LA FEDERACION
 
-27. SECRETARIO PARTICULAR DE SPS
+> <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
 
-28. SUPERVISOR
+27. ASESOR ESPECIALIZADO SPS
 
-29. DEFENSOR PUBLICO
+28. SECRETARIO PARTICULAR DE SPS
 
-30. ASESOR JURIDICO
+29. SUPERVISOR
 
-31. ASESOR SPS
+30. DEFENSOR PUBLICO
 
-32. LIDER DE PROYECTO
+31. ASESOR JURIDICO
 
-33. COORDINADOR TECNICO DE SPS
+32. ASESOR SPS
 
-34. ACTUARIO JUDICIAL
+33. LIDER DE PROYECTO
 
-35. SUBDIRECTOR DE AREA
+34. COORDINADOR TECNICO DE SPS
 
-36. COORDINADOR TECNICO A
+35 ACTUARIO JUDICIAL
 
-37. JEFE DE OFICINA DE CORRESPONDENCIA
+36. SUBDIRECTOR DE AREA
+
+37. COORDINADOR TECNICO A
+
+38. JEFE DE OFICINA DE CORRESPONDENCIA
 
 COMUN A
 
-38. SECRETARIO PARTICULAR DE MAGISTRADO
+39. SECRETARIO PARTICULAR DE MAGISTRADO
 
 DE CIRCUITO
 
-39. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
+40. SECRETARIO PARTICULAR DE JUEZ DE DISTRITO
 
-40. DELEGADO ADMINISTRATIVO
+41. DELEGADO ADMINISTRATIVO
 
-41. JEFE DE DEPARTAMENTO
+42. JEFE DE DEPARTAMENTO
 
-42. AUDITOR
+43. AUDITOR
 
-43. DICTAMINADOR
+44. DICTAMINADOR
 
-44. COORDINADOR TECNICO B
+45. COORDINADOR TECNICO B
 
-45. JEFE DE OFICINA DE CORRESPONDENCIA COMUN B
+46. JEFE DE OFICINA DE CORRESPONDENCIA COMUN B
 
-46. COORDINADOR DE AYUDA Y SEGURIDAD
+47. COORDINADOR DE AYUDA Y SEGURIDAD
 
-47. AUXILIAR ITINERANTE
+48. AUXILIAR ITINERANTE
 
-48. TECNICO DE ENLACE
+49. TECNICO DE ENLACE
 
-49. TECNICO DE ENLACE ADMINISTRATIVO OCC
+50. TECNICO DE ENLACE ADMINISTRATIVO OCC
 
-50. SECRETARIA EJECUTIVA DE SPS
+51. SECRETARIA EJECUTIVA DE SPS
 
-51. TAQUIGRAFA JUDICIAL PARLAMENTARIA
+52. TAQUIGRAFA JUDICIAL PARLAMENTARIA
 
-52. ANALISTA JURIDICO SISE
+53. ANALISTA JURIDICO SISE
 
-53. AUXILIAR DE ACTUARIO
+54. AUXILIAR DE ACTUARIO
 
-54. ANALISTA ESPECIALIZADO
+55. ANALISTA ESPECIALIZADO
 
-55. OFICIAL ADMINISTRATIVO
+56. OFICIAL ADMINISTRATIVO
 
-56. OFICIAL DE PARTES
+57. OFICIAL DE PARTES
 
-57. JEFE DE GRUPO DE SEGURIDAD
+58. JEFE DE GRUPO DE SEGURIDAD
 
-58. CHOFER DE FUNCIONARIO
+59. CHOFER DE FUNCIONARIO
 
-59. SECRETARIA EJECUTIVA A
+60. SECRETARIA EJECUTIVA A
 
-60. SECRETARIA A
+61. SECRETARIA A
 
-61. ANALISTA
+62. ANALISTA
 
-62. OFICIAL DE SEGURIDAD
+63. OFICIAL DE SEGURIDAD
 
-63. TECNICO ADMINISTRATIVO
+64. TECNICO ADMINISTRATIVO
 
-64. TECNICO ESPECIALIZADO
+65. TECNICO ESPECIALIZADO
 
-65. ENFERMERA ESPECIALIZADA
+66. ENFERMERA ESPECIALIZADA
 
-66. EDUCADORA
+67. EDUCADORA
 
-67. ANALISTA ADMINISTRATIVO
+68. ANALISTA ADMINISTRATIVO
 
-68. AUXILIAR DE SERVICIOS GENERALES
+69. AUXILIAR DE SERVICIOS GENERALES
 
-69. NIÑERA
+70. NIÑERA
 
-70. COCINERA
+71. COCINERA
 
-71. OFICIAL DE SERVICIOS Y MANTENIMIENTO
+72. OFICIAL DE SERVICIOS Y MANTENIMIENTO
 
 I. Datos de Control.-
 
@@ -3674,6 +3684,130 @@ Los señalados en el Artículo 121 y 156 de la Ley Federal de los Trabajadores a
 - Designado por el Pleno del Consejo, a propuesta de su Presidente.
 
 - Los demás que determinen los Acuerdos Generales del Pleno del Consejo.
+
+> <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 2009)</small>
+
+I. Datos de Control.-
+
+Tipo: Grupo: Rama:
+
+CF - CONFIANZA 4 - HOMOLOGOS 04 - APOYO Y
+
+A MANDOS ASESORIA
+
+MEDIOS A SPS
+
+Puesto: Clave: Nivel y Rango:
+
+08 - ASESOR CF40408 15 UNICO
+
+ESPECIALIZADO SPS
+
+II. Descripción.-
+
+II.1 Objetivo del puesto:
+
+Asesorar con los conocimientos especializados de su profesión al Titular del área administrativa de su adscripción, en la opinión de asuntos, revisión de dictámenes, elaboración de propuestas y desarrollo de proyectos que le sean encomendados, de conformidad con la normatividad aplicable en la materia.
+
+II.2 Funciones:
+
+1. Brindar asesoría especializada en su profesión al titular de su área de adscripción, para la revisión o elaboración de dictámenes, opiniones técnicas especializadas, así como el desarrollo e implementación de proyectos institucionales que se le encomienden.
+
+2. Obtener y proporcionar la información o documentación en los lugares y tiempos que le sean requeridos por el titular, dada la naturaleza de su puesto.
+
+3. Elaborar la fundamentación, diseño y desarrollo de los proyectos que se le encomienden.
+
+4. Mantener informado al titular del área administrativa de su adscripción sobre el grado de avance de los diversos proyectos y actividades encomendadas.
+
+5. Apoyar en todo tipo de trabajos de carácter confidencial y de importancia para el titular de su área de adscripción.
+
+6. Preparar soportes técnicos sobre la información requerida por su jefe inmediato para acuerdo con las autoridades superiores.
+
+7. Resguardar los documentos confidenciales que le solicite su jefe inmediato.
+
+8. Proporcionar información y atención, de acuerdo a instrucciones y previa autorización del titular, a los funcionarios y visitantes que lo requieran.
+
+9. Asistir a reuniones de trabajo para la elaboración de los instrumentos administrativos y normativos relacionados con sus funciones.
+
+10. Apoyar con análisis, estudios y opiniones técnicas en la materia de su competencia, para el proceso de toma de decisiones del titular del área de su adscripción.
+
+11. Opinar sobre asuntos que incidan en las funciones del área en materia de su competencia.
+
+12. Realizar los estudios, análisis y propuestas específicos ordenados por el titular del área administrativa de su adscripción.
+
+13. Las demás que le encomiende el titular del área administrativa de su adscripción.
+
+II.3 Norma de creación:
+
+Artículo 181 de la Ley Orgánica del Poder Judicial de la Federación y el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, publicado en el Diario Oficial de la Federación el 3 de octubre de 2006.
+
+II.4 Responsabilidades:
+
+1. Dar seguimiento al cumplimiento de los asuntos que le sean encomendados.
+
+2. Llevar a cabo sus actividades observando una conducta ética que muestre: legalidad, integridad, honradez, imparcialidad, equidad, transparencia, eficiencia y calidad en el desempeño de su cargo.
+
+3. Cumplir con las leyes, reglamentos y programas que se relacionen con su función.
+
+4. Cumplir las funciones encomendadas para el puesto que desempeña en el presente Manual, así como en las demás disposiciones normativas que regulan la organización y funcionamiento del propio Consejo, tales como Acuerdos Generales, Manuales de Organización y de Procedimientos, autorizados por autoridad superior del Consejo.
+
+5. Manejar de manera óptima y eficiente los recursos humanos, materiales y financieros asignados según el puesto.
+
+6. Cuidar el uso confidencial de la información que se maneje según el puesto.
+
+7. Abstenerse de incurrir en responsabilidad administrativa por cualquiera de los supuestos que marca la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+8. Abstenerse de incurrir en las responsabilidades que se establecen en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación.
+
+9. Las demás que determine el Titular del área administrativa de su adscripción.
+
+II.5 Responsabilidad por manejo de recursos:
+
+HUMANOS: NO (Excepto en aquellos casos que se justifique por la atención a programas y proyectos del área administrativa de su adscripción)
+
+MATERIALES:
+
+MOBILIARIO Y EQUIPO DE OFICINA: SI
+
+EQUIPO DE TRANSPORTE: NO
+
+EQUIPO DE COMPUTO Y COMUNICACIONES: SI
+
+VALORES: NO
+
+INFORMACION CONFIDENCIAL: SI
+
+AMBIENTE DE TRABAJO:
+
+NORMAL DE OFICINA: SI
+
+OTRO: En su caso, riesgos por viajes
+
+III. Perfil del ocupante.-
+
+III.1 Formación académica:
+
+Título y cédula profesional de licenciatura.
+
+Título y cédula profesional de licenciatura en materia afín al área de adscripción, expedidos por autoridad competente.
+
+III.2 Experiencia laboral:
+
+Mínima de tres años en actividades relacionadas con el puesto y en materias especializadas del área de adscripción.
+
+III.3 Otros requisitos:
+
+- Tener capacidad de análisis y síntesis de información.
+
+- Ser altamente propositivo, independiente y orientado al logro de objetivos y metas.
+
+- Contar con capacidad para planear, organizar y tomar decisiones.
+
+- Contar con visión globalizadora y facilidad para negociar.
+
+- Disponibilidad de horario.
+
+- Los demás que determinen el Titular del área administrativa de su adscripción y los Acuerdos Generales del Pleno del Consejo.
 
 I. Datos de Control.-
 
@@ -8882,3 +9016,9 @@ Anexo 3. Registro de Actualizaciones.
 (VEASE ARCHIVO ANEXO)
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, Que la actualización al Manual General de Puestos del Consejo de la Judicatura Federal, fue aprobada por el Pleno del propio Consejo, en sesión ordinaria de once de marzo de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, María Teresa Herrera Tello, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a doce de mayo de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE MANUAL</small>
+
+D.O.F. 13 DE OCTUBRE DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
