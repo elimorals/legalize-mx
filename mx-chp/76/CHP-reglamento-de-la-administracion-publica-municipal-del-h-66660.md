@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-administracion-publica-municipal-del-h-66660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-14"
-last_updated: "2009-06-10"
+last_updated: "2009-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de enero de 2009.
 
@@ -39,9 +39,11 @@ Reglamento de la Administración Pública Municipal del H. Ayuntamiento de Tuxtl
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 1°.
 
-El presente Reglamento tiene por objeto regular la organización y funcionamiento de la Administración Pública del H. Ayuntamiento del Municipio de Tuxtla Gutiérrez, otorgadas al Municipio por el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 58, 60 y 62 fracción I de la Constitución Política del Estado de Chiapas y los artículos 2°, 7°, 38 fracción II, 39 y 42 fracción VI, XIII de la Ley Orgánica Municipal del Estado de Chiapas y demás ordenamientos aplicables.
+El presente Reglamento tiene por objeto regular la organización y funcionamiento de la Administración Pública del H. Ayuntamiento del Municipio de Tuxtla Gutiérrez, otorgadas al municipio por el artículo 115, de la Constitución Política de los Estados Unidos Mexicanos, los artículos 58, 60 y 62 fracción I, de la Constitución Política del Estado de Chiapas, y los artículos 2°, 7°, 36, fracción II, 37 y 40, fracción VI, XIII, de la Ley Orgánica Municipal del Estado de Chiapas, y demás ordenamientos aplicables.
 
 ###### Artículo 2°.
 
@@ -469,7 +471,9 @@ LIII. Diseñar el sistema de ingresos de los diferentes servicios y actividades 
 
 LIV. Iniciar, sustanciar y desahogar, en representación de las autoridades municipales competentes, el procedimiento de clausura de negociaciones, en los casos previstos por las leyes y reglamentos vigentes;
 
-LV. Elaborar y proponer iniciativas de ley, reglamentos, decretos, acuerdos o circulares en materia fiscal, así como las reformas, adiciones, modificaciones o derogaciones que sean necesarias, y sometiéndolas a consideración del H. Ayuntamiento, en cumplimiento a lo dispuesto en el artículo 65 de la Ley Orgánica Municipal;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+LV. Elaborar y proponer iniciativas de ley, reglamentos, decretos, acuerdos o circulares en materia fiscal, así como las reformas, adiciones, modificaciones o derogaciones que sean necesarias, y sometiéndolas a consideración del H. Ayuntamiento, en cumplimiento a lo dispuesto en el artículo 63 de la Ley Orgánica Municipal;
 
 LVI. Intervenir en los convenios que celebre el H. Ayuntamiento con el Gobierno del Estado para asumir facultades hacendarías en materia estatal y ejercerlas en los términos que señalen las leyes;
 
@@ -1479,7 +1483,9 @@ La Dirección de Ordenamiento Territorial tendrá las siguientes atribuciones:
 
 I. Regular y vigilar el ordenado crecimiento urbano en el Municipio, siguiendo los lineamientos emanados del Plan Municipal de Desarrollo, Programa de Desarrollo Urbano del Centro de Población, en sus diversas facetas autorización para la creación de fraccionamientos, empadronar los establecimientos mercantiles, otorgar las subdivisiones de predios, así como lograr el equilibrio ecológico;
 
-II. Emitir dictámenes de fusión, subdivisión, factibilidad· de uso y destino del suelo, licencia de funcionamiento, constancias de viabilidad, autorizaciones de lotificación, urbanización, comercialización y declaratorias de régimen de propiedad en condominio, licencias para anuncios, de acuerdo a la normatividad vigente en la materia; autorizar permisos de derribo o desrame de árboles;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+II. Emitir dictámenes de fusión, subdivisión, factibilidad· de uso y destino del suelo, licencia de funcionamiento, constancia de viabilidad, autorizaciones de lotificación, urbanización, comercialización y declaratorias de régimen de propiedad en condominio, licencias para anuncios, de acuerdo a la normatividad vigente en la materia;
 
 III. Coordinar la supervisión de las obras de urbanización autorizadas, ordenar las suspensiones, clausuras y determinar las sanciones a las negociaciones que no cuenten con la constancia de factibilidad de uso y destino del suelo, licencia de funcionamiento, de conformidad con las leyes y reglamentos de la materia; sancionar el incumplimiento de las disposiciones de los dictámenes emitidos;
 
@@ -1493,7 +1499,9 @@ VII. Ordenar inspecciones, suspensiones, clausuras e imponer sanciones a las obr
 
 VIII. Participar en la conservación de las zonas y elementos con valor histórico, cultural y ecológico;
 
-IX. Determinar la regularización de la tenencia de anuncios publicitarios, aplicar la normatividad y vigilar las disposiciones municipales sobre contaminación visual, derribos, desrames de árboles, emisión de ruidos, quema, humo, lotes baldíos enmontados, radiaciones electromagnéticas y térmicas, de transmisión satelital y de microondas, y cualquier otra acción que contamine el medio ambiente, así como lo conferido por la legislación en la materia;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+IX. Determinar la regularización de la tenencia de anuncios publicitarios, así como aplicar y vigilar la normatividad y disposiciones municipales sobre, áreas verdes propiedad del Ayuntamiento al resguardo de particulares, lotes baldíos, radiaciones electromagnéticas y térmicas, de transmisión satelital y de microondas, y lo conferido por la legislación en la materia;
 
 X. Resolver asuntos relacionados con denuncias efectuadas por la ciudadanía, en materia de deterioro ambiental, y a negocios y prestadores de servicios que causan molestias a terceros y no cumplen con las disposiciones de la constancia de factibilidad de uso de suelo;
 
@@ -2457,6 +2465,8 @@ IV. Departamento de Supervisión de Obras y Programas.
 
 ### Capítulo I. Instituto de Protección al Medio Ambiente
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 110.
 
 Departamento de Responsabilidades, Quejas y Denuncias tendrá las siguientes, atribuciones:
@@ -2577,7 +2587,7 @@ XIV. Las demás que le señalen como de su competencia las leyes y reglamentos v
 
 ###### Artículo 114.
 
-El Instituto de Protección al Medio Ambiente es un órgano desconcentrado, encargado de planear, dirigir y controlar el programa de gestión ambiental municipal, siguiendo los lineamientos emanados del Plan Municipal de Desarrollo y de la normatividad vigente en el ramo; correspondiéndole las atribuciones siguientes:
+El Instituto de Protección al Medio Ambiente, es un órgano desconcentrado, encargado de planear, dirigir y controlar el programa de gestión ambiental municipal, siguiendo los lineamientos emanados del Plan Municipal de Desarrollo y de la normatividad vigente en el ramo; correspondiéndole las atribuciones siguientes:
 
 l. Proponer al Presidente Municipal la normatividad institucional en materia de investigación, manejo, educación ambiental, exhibición, difusión, preservación, restauración y conservación del equilibrio ecológico y protección al medio ambiente en el Municipio, con la participación a que corresponda a otras dependencias y entidades de la Administración Pública Federal y Estatal;
 
@@ -2613,11 +2623,19 @@ XVI. Realizar la investigación y la recopilación continua de datos en materia 
 
 XVII. Realizar estudios e investigaciones para detectar áreas recreativas o escénicas de valor ecológico, con el fin de proponer su declaración como áreas naturales protegidas; y,
 
-XVIII. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones reglamentarias.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+XVIII. Ordenar en el ámbito de su competencia y conforme la normatividad en la materia, inspecciones, suspensiones, clausuras, imponer sanciones y demás que le faculten las disposiciones en materia de protección ambiental; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2009)</small>
+
+XIX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones reglamentarias.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 115.
 
-El Instituto de Protección al Medio Ambiente para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrado por la siguiente estructura orgánica:
+El Instituto de Protección al Medio Ambiente, para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrado por la siguiente estructura orgánica:
 
 I. Departamento de Proyectos Ambientales;
 
@@ -2625,7 +2643,23 @@ II. Departamento de Educación Ambiental;
 
 III. Departamento de Eventos Ambientales; y,
 
-IV. Departamento de Estudios Jurídicos Ambientales.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+IV. Departamento de Asuntos Jurídicos Ambientales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2009)</small>
+
+V. Departamento de Inspección y Vigilancia.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 115 Bis.
+
+El Departamento de Inspección y Vigilancia, tendrá las siguientes atribuciones:
+
+I.- Aplicar conjuntamente con las demás áreas facultadas del Ayuntamiento, la normatividad y vigilar las disposiciones municipales con el objeto (sic) proteger la conservación del medio ambiente municipal, mediante la regularización de los derribos, desrame y poda de árboles, lotes baldíos incendiados, ubicados dentro de la jurisdicción que comprende este municipio, y la emisión de todo tipo de contaminantes perjudiciales al equilibrio ecológico o al ambiente, como ruido, quema, humo, malos olores y sustancias tóxicas, así como lo conferido por la legislación en la materia;
+
+II.- Inspeccionar y vigilar conjuntamente con las demás áreas facultadas del Ayuntamiento para la atención de las denuncias de la ciudadanía; en lo que respecta en materia ambiental.
 
 ###### Artículo 116.
 
@@ -2689,9 +2723,11 @@ VI. Organizar el Consejo Ambiental Municipal con la representatividad de los dis
 
 VII. Las demás atribuciones derivadas de la Ley General del Equilibrio Ecológico y Protección al Ambiente, Ley General para la Prevención y Gestión Integral de los Residuos, los reglamentos en la materia y las que le sean encomendadas por el Director del Instituto de Protección al Medio Ambiente dentro del ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 119.
 
-El Departamento de Estudios Jurídicos Ambientales tendrá las siguientes atribuciones:
+El Departamento de Estudios Jurídicos Ambientales, tendrá las siguientes atribuciones:
 
 l. Dirigir con estricto cumplimiento de las políticas, leyes, reglamentos, acuerdos y normas ambientales que regulen y protejan al medio ambiente en el Municipio;
 
@@ -2912,6 +2948,14 @@ Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presen
 Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
 
 P.O. 10 DE JUNIO DE 2009.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
+
+P.O. 14 DE OCTUBRE DE 2009.
 
 Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
 
