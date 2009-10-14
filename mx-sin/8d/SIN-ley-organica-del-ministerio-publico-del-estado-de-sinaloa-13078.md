@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-ministerio-publico-del-estado-de-sinaloa-13078
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-11-16"
-last_updated: "2009-03-30"
+last_updated: "2009-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 16 de noviembre de 1998.
 
@@ -339,9 +339,7 @@ X. Dirección de Policía Ministerial;
 
 XI. Coordinación Administrativa;
 
-(REFORMADA, P.O. 3 DE OCTUBRE DE 2007) (F. DE E., P.O. 24 DE OCTUBRE DE 2007)
-
-XII. Unidad de Control de Confianza;
+XII. (DEROGADA, P.O. 14 DE OCTUBRE DE 2009)
 
 (REFORMADA, P.O. 3 DE OCTUBRE DE 2007) (F. DE E., P.O. 24 DE OCTUBRE DE 2007)
 
@@ -945,55 +943,17 @@ XII. Recepcionar y entregar las Unidades Administrativas de la institución, con
 
 XIII. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO XI BIS. DE LA UNIDAD DE CONTROL DE CONFIANZA
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
-
 ###### Artículo 52 Bis.
 
-La Unidad de Control de Confianza estará a cargo de un Jefe, quien será nombrado y removido directamente por el Procurador General de Justicia.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+Artículo 52 Bis A. (DEROGADO, P.O. 14 DE OCTUBRE DE 2009)
 
-Artículo 52 Bis A. Para ser Jefe de la Unidad de Control de Confianza se requiere:
-
-I. Ser ciudadano sinaloense en pleno goce de sus derechos;
-
-II. Contar con título y cédula profesional de Licenciatura, preferentemente de la ciencia o técnica, relacionadas con las atribuciones del área;
-
-III. Tener más de treinta años de edad;
-
-IV. Acreditar ejercicio profesional de cinco años, por lo menos;
-
-V. Ser de honradez y probidad notorias; y,
-
-VI. No haber sido condenado por delitos dolosos.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-Artículo 52 Bis B. Las atribuciones del Jefe de la Unidad de Control de Confianza serán:
-
-I. Planear, diseñar, proponer, efectuar, dirigir, dar seguimiento, operar, coordinar y aplicar las políticas y acciones de evaluación de control de confianza y el desempeño de servidores públicos y aspirantes a ingresar en la institución, que se consideren necesarias para la calificación del personal; resguardando la confidencialidad de la información y el respeto a la intimidad del individuo y sus derechos humanos;
-
-II. Promover, llevar a cabo y participar en la fijación, actualización, revisión y acreditación de los perfiles requeridos en los puestos de la institución, a fin de normar y proveer a la selección y evaluación del personal aspirante al ingreso en la Dependencia y el que se encuentre en activo dentro de la misma;
-
-III. Diseñar, proponer y aplicar en su caso, políticas y acciones para el desarrollo humano de los servidores públicos de la Procuraduría y coordinarse para ello con otras unidades administrativas competentes de la dependencia;
-
-IV. Diseñar y proponer las normas técnicas y lineamientos rectores de los procesos de evaluación y exámenes que practicará la Unidad, para su aprobación por el Procurador;
-
-V. Diseñar y establecer los lineamientos técnicos de evaluación, así como coordinar, dirigir y operar la práctica de los procesos y exámenes obligatorios a que deberán someterse los aspirantes para ingresar a la Procuraduría, a los Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos, y a los servidores públicos de otras áreas que así determine el Procurador o el Consejo Ministerial, ya fueren aquellos de carácter inicial, periódicos, extraordinarios o permanentes;
-
-VI. Informar al Procurador y a los titulares de las entidades administrativas y órganos competentes cuando proceda y corresponda legalmente, los resultados de las evaluaciones que se practiquen, para el ingreso, reingreso, promoción, permanencia en la Dependencia, y de otros supuestos legales de evaluación que hubiere determinado el Procurador o instancias que la Ley autorice;
-
-VII. Establecer y controlar una base de datos que contenga los resultados de los procesos de evaluación de cada una de las personas a quienes se les haya practicado, y conformar un expediente documental respectivo a cada cual, que se mantendrá asimismo en el archivo correspondiente; todo lo cual resguardará rigurosamente por la naturaleza reservada que esta ley fija a dichas evaluaciones, exámenes y sus resultados, el expediente documental referido y la información que contenga, que sólo se excepcionará para proporcionarse a virtud de requerimiento motivado y fundado de autoridades jurisdiccionales y en procedimientos administrativos o judiciales;
-
-VIII. Realizar, promover y participar en coordinación con las unidades administrativas competentes, el seguimiento individual de los servidores públicos y el desarrollo de su potencialidad humana; e identificar los factores de riesgo dentro de su desarrollo, que repercutan en el desempeño optimo de sus funciones, así como ubicar áreas de oportunidad para establecer programas de prevención y atención para solucionar la problemática detectada;
-
-IX. Planear, organizar, programar, coordinar, asignar, supervisar, controlar y evaluar las actividades, funcionamiento y el desempeño de las atribuciones de su área, así como en su caso, asumir la realización de las mismas por sí; y,
-
-X. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
+Artículo 52 Bis B. (DEROGADO, P.O. 14 DE OCTUBRE DE 2009)
 
 ### CAPITULO XII. DE LA UNIDAD DE CONTRALORÍA INTERNA
 
@@ -1331,9 +1291,11 @@ Artículo 69 Bis A. Los Agentes del Ministerio Público, Agentes de Policía Min
 
 Los ascensos a las categorías superiores de las ramas de Ministerio Público, Policía Ministerial y Perito, se podrá realizar mediante concurso de oposición según disponga el Consejo Ministerial.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-Artículo 69 Bis B. El Consejo Ministerial es la instancia con atribuciones para orientar, proveer, coordinar, disponer y normar el desarrollo y evaluación de la profesionalización de Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos, en los términos que establece esta Ley, y se integrará por: el Subprocurador General de Justicia, los Subprocuradores Regionales de Justicia de las Zonas Norte, Centro y Sur del Estado, el Coordinador Administrativo, el Director de Averiguaciones Previas, el Director de Control de Procesos, el Director de Investigación Criminalistica y Servicios Periciales, el Director de Policía Ministerial, el Director de Planeación, Desarrollo y Atención Ciudadana, el Jefe de la Unidad de Control de Confianza, el Jefe de la Unidad de Asuntos Internos y el Jefe de la Unidad de Contraloría Interna.
+Artículo 69 Bis B. El Consejo Ministerial es la instancia con atribuciones para orientar, proveer, coordinar, disponer y normar el desarrollo y evaluación de la profesionalización de Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos, en los términos que establece esta Ley, y se integrará por: el Subprocurador General de Justicia, los Subprocuradores Regionales de Justicia de las Zonas Norte, Centro y Sur del Estado, el Coordinador Administrativo, el Director de Averiguaciones Previas, el Director de Control de Procesos, el Director de Investigación Criminalística y Servicios Periciales, el Director de Policía Ministerial, el Director de Planeación, Desarrollo y Atención Ciudadana, el Jefe de la Unidad de Asuntos Internos y el Jefe de la Unidad de Contraloría Interna.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 El Consejo estará presidido por el Subprocurador General de Justicia.
 
@@ -1702,3 +1664,39 @@ P.O. 30 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entra en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 14 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", salvo lo previsto en los artículos transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" No. 89, de fecha 25 de julio de 2001 y se derogan las demás disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Secretario Ejecutivo del Consejo y los Consejeros Ciudadanos que actualmente integran la Coordinación General del mismo, continuarán en su encargo, hasta en tanto concluyan el período para el que fueron designados. El Presidente del Consejo emitirá, en su caso, los nombramientos correspondientes en los términos de este artículo.
+
+###### ARTÍCULO CUARTO.
+
+Los servicios privados de seguridad se seguirán prestando conforme a la Ley de Seguridad Pública del Estado de Sinaloa que se abroga, hasta en tanto se expidan las disposiciones respectivas, las que deberán aprobarse dentro del plazo de un año.
+
+###### ARTÍCULO QUINTO.
+
+Los sistemas de información, recursos humanos, materiales, financieros y documentales, que deban ser transferidos de una entidad a otra, se harán bajo las disposiciones que rigen el proceso de entrega-recepción para la administración pública.
+
+Los recursos humanos, materiales, financieros y documentales de la Unidad de Control de Confianza, prevista en la Ley Orgánica del Ministerio Público, que se deroga de acuerdo a lo señalado en este Decreto, se transferirán al Centro Estatal de Evaluación y Control de Confianza.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos del personal que en virtud de lo dispuesto en el presente Decreto sea transferido, se respetarán conforme a la ley aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto inicia sus funciones el Centro Nacional de Certificación y Acreditación, y se resuelva la acreditación del Centro Estatal de Evaluación y Control de Confianza, éste mantendrá el ejercicio de sus atribuciones conforme a esta Ley y en su oportunidad, acorde a los plazos que establecen los artículos Segundo, Tercero y Cuarto transitorios de la Ley General del Sistema Nacional de Seguridad Pública, emitirá a los integrantes de las Instituciones de Seguridad Pública el certificado a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro del plazo de un año el Ejecutivo del Estado y las autoridades correspondientes deberán expedir los reglamentos que se prevén en la presente ley.
