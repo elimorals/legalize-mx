@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-universidad-tecnologica-de-queretaro-69013"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-06-17"
-last_updated: "2009-06-17"
+last_updated: "2009-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -315,9 +315,11 @@ V. Los bienes muebles e inmuebles que adquiera por cualquier título legal; y
 
 VI. Las utilidades, intereses, dividendos, rendimientos, derechos y demás ingresos que adquiera por cualquier título legal.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 20.
 
-Los bienes e ingresos de la Universidad Tecnológica de Querétaro; no estarán sujetos a pagos de contribuciones estatales o municipales. Tampoco serán gravados los actos y contratos en que intervengan, si las contribuciones respectivas quedan a su cargo por disposición legal.
+Los actos, bienes e ingresos y demás obligaciones tributarias a cargo de la Universidad, estarán sujetos al pago de contribuciones estatales o municipales, de conformidad con las leyes fiscales en la materia.
 
 ###### Artículo 21.
 
@@ -438,3 +440,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE OCTUBRE DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
