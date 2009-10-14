@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2009-07-31"
+last_updated: "2009-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -163,9 +163,15 @@ VII. Otorgar, negar y revocar la autorización a los particulares para impartir 
 
 VIII. Implementar en los planteles de educación básica, estrategias y medidas tendientes a desmotivar en los educandos el consumo de productos alimenticios con bajo o nulo valor nutricional, así como prohibir la publicidad enfocada al consumismo al interior de los planteles, salvo la que se encuentre en el producto mismo y en los elementos necesarios para su conservación y exhibición;
 
-IX. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y
+IX. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y (sic)
 
-X. Las demás que establezca la Ley General de Educación, esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+X. Promover, coordinar, ejecutar y evaluar programas de capacitación, orientación y formación, dirigidos a los padres de familia o tutores, en los centros de educación básica, incluyendo la educación indígena, especial e inicial; y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+XI. Las demás que establezca la Ley General de Educación, esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 14.
 
@@ -908,3 +914,9 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE OCTUBRE DE 2009.
+
+Artículo único. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
