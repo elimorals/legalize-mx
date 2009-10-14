@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-21802"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-25"
-last_updated: "2009-02-04"
+last_updated: "2009-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 14 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 25 de julio de 2001.
 
@@ -1994,3 +1996,39 @@ P.O. 4 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia un día después de su publicación en el Periódico Oficia' "El Estado de Sinaloa".
+
+P.O. 14 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", salvo lo previsto en los artículos transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Publica del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" No. 89, de fecha 25 de julio de 2001 y se derogan las demás disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Secretario Ejecutivo del Consejo y los Consejeros Ciudadanos que actualmente integran la Coordinación General del mismo, continuaran en su encargo, hasta en tanto concluyan el periodo para el que fueron designados. El Presidente del Consejo emitirá, en su caso, los nombramientos correspondientes en los términos de este artículo.
+
+###### ARTÍCULO CUARTO.
+
+Los servicios privados de seguridad se seguirán prestando conforme a la Ley de Seguridad Publica del Estado de Sinaloa que se abroga, hasta en tanto se expidan las disposiciones respectivas, las que deberán aprobarse dentro del plazo de un año.
+
+###### ARTÍCULO QUINTO.
+
+Los sistemas de información, recursos humanos, materiales, financieros y documentales, que deban ser transferidos de una entidad a otra, se harán bajo las disposiciones que rigen el proceso de entrega-recepción para la administración pública.
+
+Los recursos humanos, materiales, financieros y documentales de la Unidad de Control de Confianza, prevista en la ley Orgánica del Ministerio Público, que se deroga de acuerdo a lo señalado en este Decreto, se transferirán al Centro Estatal de Evaluación y Control de Confianza.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos del personal que en virtud de lo dispuesto en el presente Decreto sea transferido, se respetaran conforme a la ley aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto inicia sus funciones el Centro Nacional de Certificación y Acreditación, y se resuelva la acreditación del Centro Estatal de Evaluación y Control de Confianza, este mantendrá el ejercicio de sus atribuciones conforme a esta Ley y en su oportunidad, acorde a los plazos que establecen los artículos Segundo, Tercero y Cuarto transitorios de la Ley General del Sistema Nacional de Seguridad Publica, emitirá a los integrantes de las Instituciones de Seguridad Publica el certificado a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro del plazo de un año el Ejecutivo del Estado y las autoridades correspondientes deberán expedir los reglamentos que se prevén en la presente ley.
