@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-instituto-municipal-de-planeacion-58131
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-19"
-last_updated: "2007-12-19"
+last_updated: "2009-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO DEL INSTITUTO MUNICIPAL DE PLANEACION URBANA DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León el miércoles 19 de diciembre 2007.
 
@@ -49,9 +49,11 @@ Se crea el Instituto Municipal de Planeación Urbana de San Pedro Garza García,
 
 La duración del Instituto será por tiempo indefinido y su extinción solamente será factible por votación de las dos terceras partes de los integrantes del Republicano Ayuntamiento presentes en la Sesión, debiendo incluir el voto favorable de un Regidor de la primera minoría de representación proporcional. El Instituto tendrá su domicilio en el Municipio de San Pedro Garza García, Nuevo León.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 3.
 
-En lo no previsto en el presente Reglamento, se aplicaran supletoriamente la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado, Reglamento del Plan Parcial de Desarrollo Urbano de San Pedro Garza García, Nuevo León 1990 -2010, Reglamento sobre Usos de Suelo y Construcción en la Zona de Montaña, los Planes de Desarrollo Urbano vigentes en el Municipio, la Ley Orgánica de la Administración Pública Municipal del Estado, la Ley de Hacienda para los Municipios del Estado, la Ley de Acceso a la Información Pública de Nuevo León y el Código Fiscal del Estado y en el Reglamento de Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, Nuevo León.
+En lo no previsto en el presente Reglamento, se aplicarán supletoriamente la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado, Reglamento de Zonificación y Usos del Suelo para el Municipio de San Pedro Garza García, Nuevo León, Reglamento Para la Protección Ambiental y Desarrollo Sustentable Para el Municipio de San Pedro Garza García, Nuevo León, Reglamento sobre Usos de Suelo y Construcción en la Zona de Montaña, los Planes de Desarrollo Urbano vigentes en el Municipio, la Ley Orgánica de la Administración Pública Municipal del Estado, la Ley de Hacienda para los Municipios del Estado, la Ley de Acceso a la Información Pública de Nuevo León y el Código Fiscal del Estado y en el Reglamento de Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, Nuevo León.
 
 ###### Artículo 4.
 
@@ -155,7 +157,9 @@ V. El Secretario de Infraestructura y Servicios Públicos del Municipio;
 
 VI. Tres representantes de los sectores económicos u organismos intermedios constituidos legalmente y cuyas actividades están relacionadas con la construcción, la arquitectura, la ingeniería, la propiedad o actividades relacionadas con el desarrollo y la planeación urbana;
 
-VII. Tres representantes ciudadanos de los Consejos Distritales de Planeación Urbana Participativa;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+VII. 5-cinco representantes ciudadanos, quienes serán nombrados como Consejeros Ciudadanos;
 
 VIII. Dos representantes del Consejo Consultivo Ciudadano de Desarrollo Urbano; y,
 
@@ -171,9 +175,17 @@ a) Los Consejeros representantes de la Administración Pública Municipal señal
 
 b) Los Consejeros representantes de los sectores económicos u organismos intermedios mencionados en la fracción VI de este artículo, serán designados de entre aquellos que se mencionen en el artículo 9 del Reglamento de los Consejos Distritales de Planeación Urbana Participativa del Municipio de San Pedro Garza García, Nuevo León. El nombramiento se acreditará mediante el acta de designación respectiva firmada por la mayoría de los organismos antes referidos. Estos Consejeros deberán cumplir los requisitos señalados para los Consejeros Distritales de Planeación Urbana.
 
-c) Los Consejeros Representantes Ciudadanos a que se refiere la fracción VII del artículo 7, serán designados por procedimiento de votación secreta. Primeramente se elegirán candidatos en cada uno de los Consejos Distritales del Municipio. De los 11 candidatos que resulten de las elecciones de cada Distrito, los representantes ciudadanos de cada Distrito votaran por 3 de ellos y aquellos que resulten con mayor número de votos serán los Consejeros designados.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-En caso de empate de uno o más Consejeros, se llevara una segunda votación excluyendo a aquel o aquellos que hubieren obtenido un número menor de votos. Si el empate persiste se llevará a cabo un sorteo ante Notario Público para elegir por insaculación al Consejero o Consejeros que resulten designados.
+c) Los Consejeros Ciudadanos a que se hace referencia la fracción VII del artículo anterior, serán nombrados a propuesta del Presidente Municipal por el Republicano Ayuntamiento, debiendo cumplir con los siguientes requisitos:
+
+- Ser mayor de edad, ser vecino del municipio.
+
+- Ser ciudadano de reconocida honorabilidad y prestigio civico y social.
+
+- Preferentemente contar con experiencia en materia de desarrollo urbano.
+
+- No haber sido condenado por delito intencional ni estar sujeto a un proceso por esa causa.
 
 d) Los Representantes a que se refiere la fracción VIII del artículo 7 serán designados por votación secreta, siguiendo el mismo procedimiento para efectos del cómputo de votos y selección del Consejero, previsto en el inciso anterior para los Consejeros Representantes de los Distritos de Planeación Urbana.
 
@@ -188,6 +200,8 @@ Los Consejeros podrán designar a su suplente mediante simple escrito notificand
 La duración en el cargo de los integrantes del Consejo Directivo del Instituto será la siguiente:
 
 I. Los Consejeros representantes de la Administración Pública Municipal permanecerán en su cargo el período correspondiente al ejercicio de la función pública correlacionada;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 II. Los Consejeros señalados en el artículo 7 fracciones VI, VII y VIII del presente Reglamento, durarán en su encargo un período de 3-tres años, pudiendo ser reelegidos por sus proponentes hasta por 2-dos períodos consecutivos más de igual término, sin menoscabo que al paso de un período puedan ser propuestos nuevamente para integrar este órgano; y,
 
@@ -866,3 +880,15 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Reformas por Modificación al Reglamento Orgánico del Instituto Municipal de Planeación Urbana de San Pedro Garza García, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
