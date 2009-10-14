@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-deuda-publica-del-estado-de-queretaro-67960"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2009-03-20"
+last_updated: "2009-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -85,7 +85,9 @@ I. Autorizar la contratación de empréstitos a los sujetos de la presente Ley;
 
 II. Autorizar al Poder Ejecutivo del Estado o al ayuntamiento respectivo, para que intervengan como aval o deudor solidario, previa solicitud de los mismos, de los empréstitos que contraten los sujetos de esta Ley;
 
-III. Autorizar que los ingresos de los sujetos de esta Ley, sean afectados en garantía; y
+> <small>(REFORMADA, P.O.14 DE OCTUBRE DE 2009)</small>
+
+III. Autorizar que los ingresos de los sujetos de esta Ley, sean afectados en garantía, fuente de pago o ambas; y
 
 IV. Autorizar mecanismos de reestructuración de deuda pública.
 
@@ -330,3 +332,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE OCTUBRE DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Remítase al titular del Poder Ejecutivo del Estado, para su debida publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
