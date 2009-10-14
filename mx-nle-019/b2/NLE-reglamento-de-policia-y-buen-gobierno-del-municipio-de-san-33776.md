@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-san-3377
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-25"
-last_updated: "2007-07-27"
+last_updated: "2009-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 25 de agosto de 2003.
 
@@ -89,11 +89,15 @@ XI. Todos aquellos Servidores Públicos a quienes se les otorgue facultades para
 
 Será facultad exclusiva de la Secretaria de Finanzas y Tesorería Municipal el cobro de las multas impuestas por infracción al presente Reglamento; así como proveer y disponer del recurso material y humano para llevar a cabo esta función.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 8.
 
-Los Jueces Calificadores tendrán las siguientes atribuciones y responsabilidades:
+Los Jueces Calificadores como Auxiliares del Presidente Municipal, tendrán las siguientes atribuciones:
 
-I. Conocer, calificar y sancionar las infracciones al presente Reglamento y a los demás reglamentos municipales, en su calidad de auxiliares del Presidente Municipal;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+I. Conocer, calificar y sancionar las infracciones a los Reglamentos Municipales aplicando el Procedimiento Sumario Oral de Justicia Administrativa;
 
 II. Ejercer funciones de conciliación y prevención en relación con los asuntos sometidos a su conocimiento;
 
@@ -229,11 +233,19 @@ XII. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales 
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
-XIII. Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales; y
+XIII. Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales; y (sic)
 
 > <small>(ADICIONADA, P.O. 27 DE JULIO DE 2007)</small>
 
-XIV. Comprar bebidas alcohólicas en cualquier establecimiento fuera de los horarios permitidos por los Reglamentos Municipales y demás disposiciones aplicables.
+XIV. Comprar bebidas alcohólicas en cualquier establecimiento fuera de los horarios permitidos por los Reglamentos Municipales y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+XV. Generar en residencias, casa habitación o cualquier lugar público o privado donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por cualquier medio y en cualquier lugar sonidos que por su proceso sobrepasen los límites máximos permisibles establecidos en la NOM-SEMARNAT-081-1994, y que estos sean con una intensidad mayor a los sesenta y cinco decibeles en el horario comprendido de las seis a las veintidós horas y a los sesenta y ocho decibeles en el horario comprendido de las veintidós a las seis horas;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+XVI. Alterar el orden en lugares públicos o privados.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
@@ -461,17 +473,21 @@ Cuando de un hecho o hechos se constituyan violaciones a otros ordenamientos leg
 
 Las faltas cometidas de padres a hijos y viceversa y entre cónyuges, se sancionarán a petición expresa del ofendido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 25.
 
-El Juez Calificador por la infracción o infracciones al presente reglamento tendrá la facultad para decidir, según su criterio y circunstancias, aplicar por cada infracción, cualquiera de las sanciones siguientes:
+Las sanciones aplicables a las infracciones al presente Reglamento consistirán en:
 
 I. Amonestación,
 
 II. Multa; o
 
 III. Arresto hasta por 36-treinta y seis horas.
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+IV. Trabajo a favor de la Comunidad.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
 
@@ -529,11 +545,45 @@ lII. Arresto hasta por 36 treinta y seis horas; y
 
 IV. Auxilio de la fuerza pública.
 
-### CAPITULO CUARTO. DEL PROCEDIMIENTO PARA CALIFICAR LAS INFRACCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+### CAPITULO CUARTO. DEL PROCEDIMIENTO SUMARIO ORAL DE JUSTICIA ADMINISTRATIVA MUNICIPAL
+
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 32.
 
-Cometida alguna infracción a lo previsto por este Reglamento, o por otros ordenamientos municipales, que impliquen arresto del presunto infractor, éste será puesto a disposición del Juez Calificador, para determinar la sanción correspondiente en su caso.
+Los presuntos infractores a los Reglamentos Municipales deberán ser presentados ante el Juez Calificador en turno para la calificación de la conducta y en su caso para la imposición de la sanción correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 32 BIS-1.- Las actuaciones en del (sic) Procedimiento Sumario Oral de Justicia Administrativa Municipal, podrán ser registradas en medios electrónicos para acreditar su certeza.
+
+La conservación de los registros estará a cargo de la Dirección de Jueces Calificadores.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 32 BIS-2.- Las actuaciones en el Procedimiento Sumario Oral de Justicia Administrativa Municipal serán orales, sus etapas se desahogarán en forma sucesiva y sin interrupción, excepto en los casos a que se refiere el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 32 BIS-3.- El Juez Calificador podrá suspender el procedimiento hasta por un lapso de treinta minutos, en los siguientes casos:
+
+a) Para la consideración y valorización de las pruebas;
+
+b) Para fundar y motivar la resolución.
+
+Durante la suspensión del procedimiento el supuesto infractor permanecerá a disposición del Juez Calificador en el área de observación de barandilla.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 32 BIS-4.- Las audiencias serán públicas, excepto cuando pudieran afectar la moral, la integridad física o psicológica del presunto infractor o de los testigos.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 32 BIS-5.- Toda persona que intervenga o asista a las audiencias está obligada a observar respeto y mantener el orden, absteniéndose de emitir comentarios y manifestaciones respecto a las actuaciones que se desarrollen. El Juez Calificador podrá ordenar el desalojo de las personas que transgredan estas prescripciones.
 
 ###### ARTÍCULO 33.
 
@@ -545,11 +595,17 @@ II. El detenido podrá comunicarse con una persona de su confianza.
 
 III. Sumariamente será celebrada una audiencia oral, sin sujeción a formalismo alguno y a la cual comparecerá, el detenido, y las personas implicadas en los hechos;
 
-IV. El Juez Calificador procederá en la audiencia, a:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-a) Interrogar al arrestado en torno a los hechos que se le imputan; previo que se le solicite documento fehaciente con que acredite su identidad;
+IV. El Juez Calificador desahogará la audiencia en la siguiente forma:
 
-b) Oír al agente de la autoridad que hubiere intervenido en el arresto;
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+a) Verificará que el presunto infractor no se encuentra en estado de ebriedad o bajo el influjo de drogas enervantes;
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+b) Solicitar al presunto infractor que se identifique;
 
 c) Formulará las preguntas que estime pertinentes, tanto a la persona que hubiere presentado la queja, como a los testigos que asistan a la audiencia;
 
@@ -559,45 +615,47 @@ e) Recibir los elementos de prueba que llegaren a aportarse;
 
 f) Ordenar la práctica de cualquier diligencia que le permita esclarecer la verdad del caso sometido a su conocimiento;
 
-g) Apreciar y valorar los hechos que se le planteen y las pruebas que se le aporten en conciencia; y
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+g) Apreciar y valorar en conciencia los hechos que se le planteen y las pruebas que se le aporten; y
 
 h) Si al momento de interrogar al arrestado, éste admite y confiesa los hechos que se le imputan y la comisión de la infracción, sin más trámites se emitirá la resolución que corresponda;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
-V. Dictará y notificará la resolución que en Derecho corresponda, tomando en consideración, la condición social del infractor, las circunstancias en que se hubiere producido la infracción y demás elementos que le permitan formarse un recto criterio del caso a resolver, imponiendo la sanción correspondiente, o en su caso absolviendo al arrestado o arrestados; Y
+V. Dictará y notificará la resolución que en Derecho corresponda, tomando en consideración, la condición social del infractor, las circunstancias en que se hubiere producido la infracción y demás elementos que le permitan formarse un recto criterio del caso a resolver, imponiendo la sanción correspondiente, o en su caso absolviendo al arrestado o arrestados; y
 
 > <small>(ADICIONADA, P.O. 27 DE JULIO DE 2007)</small>
 
 VI. A solicitud del infractor las sanciones administrativas, podrán conmutarse por servicio comunitario, sujetándose al procedimiento correspondiente.
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 33 BIS.- Se exceptúa del beneficio del servicio comunitario a aquellos infractores que se encuentren en estado de ebriedad, de ineptitud para conducir o bajo el influjo de alguna sustancia, droga o enervante.
+ARTÍCULO 33 BIS.- Los menores de edad podrán acogerse al beneficio del trabajo comunitario con la autorización de quienes ejerzan sobre ellos la patria potestad o su custodia.
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 33 BIS-1.- Se entiende por servicio comunitario, la actividad en beneficio de la comunidad, que realice el infractor a fin de resarcir la afectación ocasionada por la comisión de una infracción al presente Reglamento.
+ARTÍCULO 33 BIS-1.- Se entiende por trabajo a favor de la comunidad, la actividad asignada por la autoridad municipal al infractor, a fin de conmutar la sanción impuesta.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
 
 ARTÍCULO 33 BIS-2.- El procedimiento a seguir para otorgar la conmutación de la sanción por el beneficio del servicio comunitario deberá sujetarse a las siguientes disposiciones:
 
-I. Que el beneficio lo solicite por comparecencia o por escrito, en el cual reconozca su responsabilidad en la falta administrativa que cometió y manifieste que no volverá a reincidir y se comprometa a cumplir con el servicio comunitario;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-II. Que al momento en que formule su solicitud no se encuentre en estado de ebriedad o bajo los efectos de alguna droga o sustancia que produzca efectos similares;
+I. Que el infractor lo solicite;
 
-III. Para obtener la conmutación de la sanción administrativa por la de servicio comunitario, el infractor deberá de acreditar su domicilio con documento fehaciente;
+II. (DEROGADA, P.O. 14 DE OCTUBRE DE 2009)
 
-IV. Que no haya infringido el presente reglamento dos o más veces dentro del periodo de dos años anteriores a la fecha en que solicita realizar el servicio comunitario; y,
+III. (DEROGADA, P.O. 14 DE OCTUBRE DE 2009)
 
-V. Que el detenido garantice el importe de la sanción económica que por concepto de multa se le haya impuesto equivalente a las horas de arresto que a éste le falten por cumplir, mediante cualesquiera de las tres formas que ·a continuación se establecen, a elección del infractor:
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-a. Depósito en efectivo realizado en la ventanilla de la Secretaría de Finanzas y Tesorería Municipal, adscrita a la Secretaría de Seguridad Pública y Vialidad de este Municipio;
+IV. Que no haya infringido el presente Reglamento más de dos veces en un año; y
 
-b. Depósito en efectivo realizado en la Secretaría de Finanzas y Tesorería General del Estado, o en las oficinas recaudadoras en los distritos foráneos, a favor del Municipio de San Pedro Garza García, Nuevo León; y,
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-c. Póliza expedida por compañía afianzadora legalmente constituida y autorizada, que tenga su domicilio en el Estado de Nuevo León, a favor del Municipio de San Pedro Garza García, Nuevo León.
+V. Que el infractor deposite en la Tesorería Municipal el monto de la sanción económica que por concepto de multa se le haya impuesto, en calidad de garantía.
 
 El certificado o comprobante que se expida deberá quedar bajo el resguardo y custodia de la Secretaría de Finanzas y Tesorería Municipal de San Pedro Garza García.
 
@@ -605,75 +663,41 @@ Esta garantía podrá ser dispensada por el Juez Calificador en turno, cuando el
 
 En el caso de menores de edad, la petición deberá hacerse por escrito con la autorización de sus padres, tutor o representante legal, debiendo ser firmada por los mismos.
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 33 BIS-3.- Las horas de servicio comunitario a conmutar por el infractor se calcularan conforme a la siguiente tabla:
+ARTÍCULO 33 BIS-3.- La conmutación de sanciones tendrá la siguiente equivalencia:
 
-Horas de Arresto Horas de Servicio Comunitario
+Por cada hora o minutos de arresto por cumplir, deberá realizar el mismo tiempo, en trabajos a favor de la comunidad, ajustándose a lo establecido en el Presente Reglamento.
 
-8 4
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-12 6
+ARTÍCULO 33 BIS-4.- Concedida la conmutación de la sanción el Director de Jueces Calificadores a más tardar el día hábil siguiente, hará saber a la dependencia municipal o a la institución en donde deberá cumplirse la sanción conmutada, los términos en que debe cumplirse.
 
-18 9
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-22 11
+ARTÍCULO 33 BIS-5.- El infractor deberá presentarse ante la dependencia municipal o institución en donde deba cumplir la sanción conmutada a mas tardar el día hábil siguiente a aquel en que se le haya concedido el beneficio de la conmutación, a fin de que de cumplimiento a ella.
 
-25 1 ½
+La supervisión y asignación de actividades que los infractores beneficiados por la conmutación deban realizar estará a cargo de la dependencia municipal o de la institución asignada, para lo cual se observará lo siguiente:
 
-29 14 ½
+I. El trabajo a favor de la comunidad se realizará en la dependencia municipal o institución que se asigne;
 
-32 16
+II. Para la asignación de tareas deberá tomarse en cuenta las condiciones físicas y mentales, profesionales, laborales, académicas u otras con el propósito de que la sanción se cumpla en los horarios de descanso del infractor;
 
-36 18
+III. El infractor dedicará como máximo 4-cuatro horas diarias a la realización del trabajo a favor de la comunidad, debiendo completar el mismo en un término no mayor de 15-quince días naturales, contados a partir del día siguiente en que se le otorgue dicho beneficio.
 
-Tratándose de una sanción económica las horas de servicio comunitario se determinarán conforme a lo siguiente:
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-Sanción en Horas Equivalentes Horas de
+ARTÍCULO 33 BIS-6.- La dependencia municipal o institución asignada para dar cumplimiento al trabajo a favor de la comunidad impuesto, informará a la Dirección de Jueces Calificadores, mediante oficio, sobre el desempeño, cumplimiento, incumplimiento o conclusión del trabajo a favor de la comunidad.
 
-cuotas de Arresto Servicio Comunitario
+El incumplimiento en cualquiera de las obligaciones del trabajo a favor de la comunidad, se entenderá como renuncia a la conmutación otorgada, haciendo efectiva la multa impuesta.
 
-1 a 32 8 4
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-33 a 64 12 6
+ARTÍCULO 33 BIS-7.- Acreditado que sea el cumplimiento del trabajo a favor de la comunidad conmutado como sanción, se reembolsará al infractor el importe de la multa depositado como garantía, mediante petición de la Dirección de Jueces Calificadores a la Tesorería Municipal.
 
-65 a 96 18 9
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-97 a 128 22 11
-
-129 a 160 25 12 ½
-
-161 a 192 29 14 ½
-
-193 a 224 32 16
-
-225 a 250 36 18
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
-
-ARTÍCULO 33 BIS-4.- Una vez otorgado el beneficio de servicio comunitario, el Director de Jueces Calificadores notificará, al día hábil siguiente, a las dependencias municipales la relación de infractores que obtuvieron la conmutación de la infracción por el beneficio del servicio comunitario, señalando el tiempo para su cumplimiento.
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
-
-ARTÍCULO 33 BIS-5.- El infractor se presentará ante la dependencia municipal a la cual se le envió para realizar el servicio comunitario, al día hábil siguiente en que haya sido puesto en libertad, para que le sea asignada el área en la que realizará el servicio comunitario.
-
-La supervisión y asignación de actividades de las personas que hayan solicitado la conmutación de la sanción administrativa por el beneficio del servicio comunitario, estará a cargo de la dependencia municipal asignada, para lo cual se observará lo siguiente:
-
-I. El servicio comunitario se realizará cumpliendo un mínimo de 4-cuatro horas y hasta un máximo de 18-dieciocho horas en la dependencia municipal que se asigne;
-
-II. Para el cumplimiento del servicio comunitario la Secretaría o Dependencia deberá tomar en cuenta las condiciones físicas y mentales, profesión u oficio, horarios de trabajo o académicos y demás circunstancias personales del infractor, con el fin de no interferir en sus actividades ordinarias; y,
-
-III. El infractor dedicará como máximo 4-cuatro horas diarias a la realización del servicio comunitario, debiendo completar el mismo en-un término no mayor de 15-quince días naturales, contados a partir del día siguiente en que se le otorgue dicho beneficio.
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
-
-ARTÍCULO 33 BIS-6.- La dependencia municipal asignada para el servicio comunitario, informará a la Dirección de Jueces Calificadores, mediante oficio, sobre el cumplimiento y conclusión del servicio comunitario o en su caso la omisión del mismo.
-
-El incumplimiento en cualquiera de las obligaciones del servicio comunitario, se entenderá como renuncia al mismo y en consecuencia se hará efectiva la garantía otorgada.
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
-
-ARTÍCULO 33 BIS-7.- Una vez que se haya acreditado que el beneficiario concluyó el servicio comunitario, la garantía depositada se reembolsará al infractor, previa constancia expedida por la Dirección de Jueces Calificadores.
+ARTÍCULO 33 BIS 8.- En el caso de infracciones cometidas a lo dispuesto en las fracciones XV y XVI del artículo 13 de este Reglamento y ante la ausencia del presunto infractor, el Juez Calificador procederá a citarlo para que comparezca en día y hora determinado y quedar en posibilidad de desahogar en Procedimiento Sumario Oral de Justicia Administrativa Municipal.
 
 ###### ARTÍCULO 34.
 
@@ -954,3 +978,13 @@ P.O. 27 DE JULIO DE 2007.
 Artículo Primero. Las presentes Reformas por Modificación y Adición al Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, N.L., entrarán en vigor a los 30-treinta días naturales siguientes a su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
 
 Artículo Segundo. Se deroga cualquier disposición Municipal que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 14 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes REFORMAS POR MODIFICACIÓN, ADICIÓN Y DEROGACIÓN AL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
