@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-ambiental-y-desarrollo-65915"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-17"
-last_updated: "2008-12-17"
+last_updated: "2009-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2008.
 
@@ -145,7 +145,13 @@ IX. Consejo: Consejo Ciudadano para la Protección Ambiental y Desarrollo Susten
 
 Para los efectos de este Reglamento se considerarán aplicables las definiciones que se establecen a continuación:
 
-I. Árbol: Cualquier especie vegetal cuyo tronco posea un diámetro de cinco centímetros (5 cms) o más; medido a 1.20 metros de altura a partir del suelo;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+l. Árbol: Cualquier especie vegetal cuyo tronco posea un diámetro de cinco centímetros (5 centímetros) o más, medido a 1.20-un metro veinte centímetros metros de altura medida a partir del nivel del suelo:
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+I. Bis. Árbol Establecido: Árbol con proceso de 90 días de aclimatación en contenedor, cuya condición vegetativa soporte sin afectación el manejo y trasplante posterior.
 
 II. Atmósfera: La capa de aire que circunda el planeta, formada por una mezcla principalmente de nitrógeno y oxigeno y otros gases como argón y neón, además de bióxido de carbono y vapor de agua; su límite se considera convencionalmente a veinte mil metros de altitud.
 
@@ -853,7 +859,7 @@ Los responsables de la generación, recolección, almacenamiento, manejo, transp
 
 ###### Artículo 72.
 
-Toda persona física, moral, organismo público o privado que realice actividades donde se generen residuos sólidos, sin perjuicio de lo que al efecto se establezca en el Reglamento de Limpia Municipal, serán responsables de su manejo, el cual efectuarán por sí mismos, por empresas prestadoras de servicios o mediante el servicio municipal de reelección y transporte cuando así proceda.
+Toda persona física, moral, organismo público o privado que realice actividades donde se generen residuos sólidos, sin perjuicio de lo que al efecto se establezca en el Reglamento de Limpia Municipal, serán responsables de su manejo, el cual efectuarán por si mismos, por empresas prestadoras de servicios o mediante el servicio municipal de reelección y transporte cuando así proceda.
 
 ###### Artículo 73.
 
@@ -1037,6 +1043,8 @@ La información a que hace mención este artículo será integrada al sistema de
 
 ### CAPÍTULO II. DE LA REPOSICIÓN DE ARBOLADO Y DE LA ENTREGA-RECEPCIÓN DE ÁRBOLES
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 99.
 
 El Municipio ejercerá sus atribuciones en materia de conservación y aprovechamiento sustentable de la vida silvestre de conformidad con lo previsto en el presente Reglamento.
@@ -1067,33 +1075,53 @@ VIII. La determinación de los métodos y medidas aplicables o indispensables pa
 
 La Autoridad Municipal, vigilará la tala o poda de árboles y supervisará la reposición de la cubierta vegetal que se ordene al efecto.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 102.
 
-Previo permiso de la Secretaría solo podrán trasplantase o talarse árboles que constituyan un riesgo o amenaza contra la seguridad de personas o bienes o que se encuentren en las siguientes áreas:
+La tala o trasplante de árboles requiere permiso de la Secretaria y será permitida en los siguientes casos:
 
-I. Desplante de edificación
+l. Cuando constituyan un riesgo para la seguridad de personas o sus bienes;
 
-II. Vías de acceso autorizadas
+II. Cuando constituyan una amenaza para la salud pública de los habitantes del Municipio;
 
-III. Áreas y Vías públicas
+III. Cuando afecten o lastimen instalaciones de servicios públicos;
 
-IV. Áreas que alojen la infraestructura
+IV. Cuando constituyan un riesgo fitosanitario y sea una amenaza para la salud de los demás árboles; y
 
-V. Áreas de construcción accesorias, y;
+V. Cuando su ubicación sea en el área de desplante de una edificación privada.
 
-VI. Las demás áreas que considere la Secretaría
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-La tala de árboles que constituyan una amenaza para la seguridad de las personas o bienes se sujetará al siguiente procedimiento:
+Artículo 102 BIS 1.- La tala de árboles obliga a su reposición en los términos del presente Reglamento, con excepción de los casos a que se refieren las fracciones l, II, III y IV del artículo anterior.
 
-I. El propietario del inmueble donde se encuentre el árbol o los árboles deberá presentar su solicitud por escrito, señalando domicilio y ubicación del árbol y el motivo por el cual solicita su tala o derribo, y;
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-II. La Secretaría, a través de la Dirección de Ecología efectuará una visita física para evaluar la procedencia de la solicitud y en caso de resultar viable emitirá la resolución correspondiente, la cual indicará los lineamientos o procedimientos para el permiso solicitado.
+Artículo 102 BIS 2.- La autorización para la tala o trasplante de árboles se sujetará al siguiente procedimiento
 
-Los permisos que se expidan para la tala de árboles tendrán una vigencia de 30-treinta días hábiles contados a partir del siguiente día de que sea notificada su autorización.
+l. La solicitud se tramitará ante la Secretaria;
+
+II. El propietario del árbol deberá presentar solicitud por escrito, señalando la ubicación del árbol y el motivo por el cual solicita su tala o trasplante;
+
+III. La Secretaría practicará inspección y dictamen del caso; y
+
+IV. El permiso contendrá los lineamientos que deben observarse.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+Artículo 102 BIS 3.- Los permisos tendrán una vigencia de 30-treinta días hábiles contados a partir del siguiente al de su notificación.
+
+La tala o poda de árboles se deberá realizar los días y horarios siguientes: Lunes a Viernes de 07:00 a 19:00 horas y Sábados de 07:00 a 13:00 horas.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 103.
 
-El usuario deberá trasplantar o sembrar la misma cantidad de árboles en el mismo predio, garantizando su sobrevivencia en un período de 6-seis meses, siendo éstos de la misma especie o equivalente y del mismo diámetro de sección transversal de la cantidad que fue trasplantada. De no llevarse a cabo lo señalado en este apartado o en caso de que los árboles no sobrevivan, deberán sustituirse éstos hasta la comprobación de su supervivencia. En caso de que el usuario no quisiera plantar en el predio los árboles correspondientes, éste deberá realizar el procedimiento de reposición de árboles conforme a la Tabla de Reposición de Arbolado del presente Reglamento.
+El titular del permiso otorgado para talar árboles deberá realizar el procedimiento de reposición de arboles conforme al presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+Artículo 103 BIS.- El titular del permiso otorgado para trasplantar árboles deberá plantarlos garantizando su sobrevivencia por un período de 6-seis meses, en caso de que los árboles no sobrevivan, deberán sustituirse éstos por otros de la misma especie y diámetro o reponer conforme a la tabla de reposición de arbolado.
 
 ###### Artículo 104.
 
@@ -1111,15 +1139,17 @@ Queda prohibido atentar contra la salud de cualquier árbol con acciones tales c
 
 Los residuos producto de desmonte o despalme, deben triturarse e integrarse al predio, o disponerse en el sitio que determine la Secretaría. Queda prohibida la quema de residuos vegetales.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 108.
 
-En las áreas abiertas de estacionamiento ubicadas a nivel de suelo, deberán forestarse siguiendo los lineamientos que fije la Secretaría, colocándolos de la siguiente manera:
+Las áreas abiertas para estacionamiento ubicadas a nivel de suelo deberán forestarse conforme a los siguientes lineamientos:
 
-I. Cuando el estacionamiento sea de cajones en hilera sencilla deberá plantar un árbol nativo entre cada dos cajones.
+l. Cuando el estacionamiento sea de cajones en hilera sencilla deberá plantar un árbol nativo entre cada dos cajones;
 
 II. Cuando sea de cajones en hilera doble, deberá plantar un árbol nativo entre cada cuatro cajones, y;
 
-III. Cuando se ubique sobre sótano, la arborización se resolverá en maceteros o jardineras.
+III. Cuando se ubique sobre sótano, o en áreas abiertas de azoteas, la arborización se resolverá en maceteros o jardineras.
 
 ###### Artículo 109.
 
@@ -1161,21 +1191,29 @@ Antes de iniciar cualquier construcción y durante su proceso se deberá habilit
 
 ###### Artículo 116.
 
-La tala de árboles implica la obligación de reponerlos.
+La tala o trasplante de arboles implica la obligación de reponerlos, conforme a los artículos 102 y 117 del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 117.
 
-El solicitante deberá efectuar la reposición de arbolado mediante una de las siguientes opciones:
+La reposición de arbolado podrá cumplirse, a elección del obligado, en especie o en numerario.
 
-I. Mediante la Entrega-Recepción de la especie equivalente en el Vivero Municipal; o
+La reposición en especie se realizará mediante la Entrega-Recepción de la especie equivalente en el Vivero Municipal.
 
-II. Aportando al fideicomiso creado para la reposición de arbolado su valor comercial, mismo que será determinado por la Secretaría, de acuerdo a las cotizaciones que para tal efecto obtenga.
+La reposición en numerario se realizará enterando en la Tesorería Municipal, el valor comercial de la reposición de arbolado, mismo que será determinado por la Secretaría, de acuerdo a las cotizaciones que para tal efecto obtenga por la Dirección de Adquisiciones.
+
+Los recursos captados por concepto de reposición de arbolado deberán ser consignados en una cuenta especial y deslindados únicamente a la compra de árboles para destinarlos a la reforestación.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 118.
 
-La reposición de arbolado deberá ser conforme a la siguiente Tabla de Reposición de Arbolado; los árboles deberán contar con raíz y su tronco deberá tener 5-cinco centímetros de diámetro de tronco medido a 1.20 metros del nivel del suelo.
+La reposición en especie de arbolado deberá ser conforme a la siguiente Tabla de Reposición de Arbolado; los árboles nativos deberán estar establecidos y su tronco deberá tener 5-cinco centímetros de diámetro de tronco medido a 1.20 un metro veinte centímetros medidos a partir del nivel del suelo.
 
-> <small>N. DE E. VÉASE LA TABLA EN EL P. O. DE 17 DE DICIEMBRE DE 2008, PAGINAS DE LA 107 A LA 109.</small>
+> <small>N. DE E. VÉASE LA TABLA EN EL P. O. DE 17 DE DICIEMBRE DE 2008, PÁGINAS DE LA 107 A LA 109.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 14 DE OCTUBRE DE 2009, PÁGINAS DE LA 33 A LA 36.</small>
 
 a) Condiciones buenas.- Árbol sano, vigoroso, sin riesgos aparentes de daños mecánicos, biológicos o químicos.
 
@@ -1239,9 +1277,11 @@ III. Opinar respecto a los programas de protección ambiental y desarrollo suste
 
 El Consejo Ciudadano para la Protección Ambiental y Desarrollo Sustentable estará conformado por un Presidente, un Secretario Ejecutivo, hasta seis Vocales y por los integrantes de la Comisión de Medio Ambiente e Imagen Urbana de este Municipio.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 125.
 
-El cargo de Presidente del citado Consejo deberá recaer en un ciudadano de reconocida honorabilidad, prestigio profesional o cívico o social y ambiental; habitante de este Municipio, siendo designado por el Republicano Ayuntamiento a propuesta del Presidente Municipal.
+El cargo de Presidente del citado Consejo deberá recaer en un ciudadano de reconocida honorabilidad, prestigio profesional o cívico o social y ambiental; preferentemente habitante de este Municipio, siendo designado por el Republicano Ayuntamiento a propuesta del Presidente Municipal.
 
 El Presidente del Consejo Ciudadano para la Protección Ambiental y Desarrollo Sustentable tendrá la representación del Consejo.
 
@@ -1249,17 +1289,19 @@ El Presidente del Consejo Ciudadano para la Protección Ambiental y Desarrollo S
 
 El Secretario Ejecutivo del Consejo Ciudadano para la Protección Ambiental y Desarrollo Sustentable será el Secretario.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 127.
 
 Para ser vocal se requiere:
 
-I. Ser mayor de edad y vecino de éste Municipio, preferentemente conocedor de la materia ambiental;
+l. Ser mayor de edad y preferentemente vecino de éste Municipio, preferentemento (sic) conocedor de la materia ambiental;
 
-II. Ser ciudadano de reconocida honorabilidad, prestigio cívico, social o ambiental;
+Il. Ser ciudadano de reconocida honorabilidad, prestigio cívico, social o ambiental,
 
 III. Contar preferentemente con experiencia profesional, cívica o social en materia ambiental, y;
 
-IV. No haber sido condenado por delito intencional, ni estar sujeto a un proceso por esa causa.
+IV. No haber sido condenado por delito Intencional, ni estar sujeto a un proceso por esa causa.
 
 ###### Artículo 128.
 
@@ -1329,7 +1371,7 @@ Los cargos de los integrantes del Consejo Ciudadano para la Protección Ambienta
 
 El Presidente del Consejo o Secretario Ejecutivo no podrán ejercer otra función similar en materia ambiental en un Consejo Consultivo Ciudadano distinto al que pertenece (sic).
 
-## TÍTULO SEXTO. MEDIDAS DE SEGURIDAD, INFRACCIONES, SANCIONES, INSPECCION Y
+## TÍTULO SEXTO. MEDIDAS DE SEGURIDAD, INFRACCIONES, SANCIONES, INSPECCIÓN Y
 
 VIGILANCIA Y PROCEDIMIENTO ADMINISTRATIVO
 
@@ -1415,7 +1457,7 @@ Cuando del acta de inspección se desprendan presuntas infracciones al presente 
 
 ###### Artículo 151.
 
-Una vez que el promovente haya expresado lo que a su derecho convenga, se concederá un término de cinco días hábiles para ofrecer y desahogar pruebas y cumplido lo anterior se concederá un plazo de tres días hábiles para la formulación de alegatos.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2009)
 
 ###### Artículo 152.
 
@@ -1563,11 +1605,15 @@ XLVII. Cuando no se efectúe el riego, o este sea insuficiente, de los árboles 
 
 XLVIII. Cuando no se efectúe el área radicular para la plantación de los árboles que deban ubicarse en el estacionamiento, en las banquetas o en el área de parques o jardines que se cederán al Municipio, o esas áreas radiculares no tengan las medidas que establece este Reglamento.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 164.
 
-Para las sanciones aplicables por las infracciones o conductas violatorias establecidas en el artículo 163 de este Reglamento, se aplicará la siguiente matriz de sanciones:
+Para las sanciones aplicables por las infracciones o conductas violatorias establecidas en el artículo 163 de este Reglamento, se apticará (sic) la siguiente matriz de sanciones. La sanción no dispensa del cumplimiento de la obligación de reponer el arbolado en los términos del artículo 117 del presente Reglamento.
 
-> <small>N. DE E. VEASE LA TABLA EN EL P. O. DE 17 DE DICIEMBRE DE 2008, PAGINAS DE LA 122 A LA 127.</small>
+> <small>N. DE E. VÉASE LA TABLA EN EL P. O. DE 17 DE DICIEMBRE DE 2008, PÁGINAS DE LA 122 A LA 127.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, P. O. DE 14 DE OCTUBRE DE 2009, PÁGINA 37.</small>
 
 ###### Artículo 165.
 
@@ -1723,7 +1769,7 @@ Por lo anteriormente expuesto y fundado, se somete a la consideración del pleno
 
 A C U E R D O:
 
-PRIMERO. Es de aprobarse EL REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, en la forma y términos anteriormente señalados.
+PRIMERO. Es de aprobarse EL REGLAMENTO PARA LA PROTECCION AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, en la forma y términos anteriormente señalados.
 
 SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Estado de Nuevo León. Hágase posteriormente su difusión a través de la Gaceta Municipal.
 
@@ -1764,3 +1810,15 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes REFORMAS POR MODIFICACIÓN, ADICIÓN Y DEROGACIÓN AL REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
