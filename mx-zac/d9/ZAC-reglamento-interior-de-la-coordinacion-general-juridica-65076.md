@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-coordinacion-general-juridica-65076"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-06"
-last_updated: "2008-12-06"
+last_updated: "2009-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA COORDINACION GENERAL JURIDICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 6 de diciembre de 2008.
 
@@ -41,27 +41,33 @@ REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL JURÍDICA
 
 La Coordinación General Jurídica, es una dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el despacho de los asuntos y el ejercicio de las atribuciones que le confieren la Ley Orgánica de la Administración Pública de la Entidad, el presente ordenamiento y demás leyes, decretos, reglamentos, acuerdos y órdenes de la Gobernadora del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 2.
 
 Para efectos del presente Reglamento se entenderá por:
 
-I. Coordinación: A la Coordinación General Jurídica del Gobierno del Estado;
+I. Gobernadora: A la o el Titular del Poder Ejecutivo;
 
-II. Coordinador: A la o al Titular de la Coordinación;
+II. Coordinación: A la Coordinación General Jurídica del Gobierno del Estado;
 
-III. Directores: A los Directores o Directoras de la Coordinación;
+III. Coordinador: A la o el Titular de la Coordinación;
 
-IV. Coordinador Administrativo: Al o a la titular de la Coordinación Administrativa de la Coordinación;
+IV. Directores: A las o los Directores de la Coordinación;
 
-V. Gobernadora: A la o al titular del Poder Ejecutivo; y
+V. Coordinador Administrativo: A la o el Titular de la (sic)
 
-VI. Servidores Públicos: A las y los trabajadores que integran la Coordinación.
+VI. Coordinación Administrativa de la Coordinación; y
+
+VII. Servidores Públicos: A las y los trabajadores que integran la Coordinación.
 
 ###### Artículo 3.
 
 Para el despacho de los asuntos de su competencia, la Coordinación estará organizada de la siguiente manera:
 
-I. Coordinador;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+I. Despacho del Coordinador;
 
 II. Dirección de Estudios Legislativos y Consultoría Legal;
 
@@ -149,9 +155,11 @@ XXVII. Dar trámite y seguimiento a las solicitudes que los Ayuntamientos elevan
 
 XXVIII. Las demás que con ese carácter se establezcan por ley, reglamento o le confiera la Gobernadora del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 8.
 
-Para el mejor desempeño de sus funciones, el Coordinador contará con una oficina, a la que quedarán adscritas las Unidades de Legalización de Firmas, Comunicación Social y de Acceso a la Información Pública, mismas que tendrán las siguientes obligaciones:
+Para el mejor desempeño de sus funciones, el Coordinador contará con una Secretaría Particular que tendrá las funciones que el Manual de Organización determine. Además, estarán adscritas directamente al Despacho del Coordinador, las Unidades de Legalización de Firmas, Comunicación Social y de Acceso a la Información Pública, mismas que tendrán las siguientes obligaciones:
 
 I. Unidad de Legalización de Firmas:
 
@@ -211,7 +219,9 @@ VI. Adoptar las medidas necesarias para la debida observancia de leyes, decretos
 
 VII. Emitir opinión de los convenios, contratos o demás instrumentos legales, cuando contengan aspectos de su competencia y suscribirlos o refrendarlos de conformidad con lo señalado por el Coordinador;
 
-VIII. Autorizar conjuntamente con la Coordinación Administrativa, la selección, contratación, promoción, capacitación y adscripción del personal de la unidad a su cargo, así como en su caso, las licencias y permisos, de conformidad con las disposiciones aplicables y las necesidades del servicio;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+VIII. Solicitar a la Oficialía Mayor de Gobierno a través de la Coordinación Administrativa la contratación, promoción, capacitación y adscripción del personal de la unidad a su cargo, así como en su caso, tramitar las licencias y permisos, de conformidad con las disposiciones aplicables y las necesidades del servicio;
 
 IX. Elaborar proyectos para crear, modificar, fusionar, reorganizar y suprimir departamentos a su cargo y proponerlos al Coordinador;
 
@@ -357,9 +367,13 @@ III. Departamento de Vacancias y Adjudicación;
 
 IV. Departamento de Acuerdos;
 
-V. Departamento de Desistimientos y Adjudicación; y
+V. Departamento de Desistimientos y Adjudicación; y (sic)
 
-VI. Departamento de Estudios Topográficos.
+VI. Departamento de Estudios Topográficos;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+VIII (SIC). Departamento de Informática y Sistemas.
 
 ###### Artículo 17.
 
@@ -443,7 +457,9 @@ I. Departamento de Control Notarial;
 
 II. Departamento de Expedición de Testimonios;
 
-III. Departamento de Informes Testamentarios; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+III. Departamento de Informes Testamentarios y de Poderes; y
 
 IV. Departamento de Informática.
 
@@ -459,7 +475,9 @@ III. Vigilar y controlar lo referente a los servicios personales, establecidos e
 
 IV. Administrar y conducir las relaciones laborales con el personal de la Coordinación;
 
-V. Establecer las normas y administrar las actividades de selección, capacitación, motivación, y desarrollo del personal de la Coordinación, incluyendo el servicio social; así como la contratación, pago de sueldos y salarios, de conformidad con la Oficialía Mayor de Gobierno;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+V. Tramitar ante la Oficialía Mayor de Gobierno, la capacitación de los servidores públicos de la Coordinación y solicitar el personal que se requiera para el desarrollo de sus funciones, incluyendo el servicio social; así como la contratación y pago de sueldos y salarios;
 
 VI. Tramitar lo referente a nombramientos, promociones, licencias y bajas de servidores públicos de confianza, base y temporales, realizando los movimientos de personal inherentes;
 
@@ -477,7 +495,9 @@ XII. Establecer las normas y administrar los servicios de conservación y manten
 
 XIII. Vigilar y controlar el uso y mantenimiento y en su caso, autorizar la reparación si fuere necesario de los vehículos asignados a la Coordinación;
 
-XIV. Establecer las normas y administrar los servicios de intendencia, seguridad y de correspondencia y archivo que requieran las unidades administrativas de la Coordinación, de conformidad con las políticas implementadas por el Coordinador;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+XIV. Establecer las normas y administrar los servicios de intendencia, seguridad, oficialía de partes y archivo que requieran las unidades administrativas de la Coordinación, de conformidad con las políticas implementadas por el Coordinador;
 
 XV. Administrar, controlar y vigilar las existencias del almacén, aprovechando racionalmente los recursos materiales disponibles;
 
@@ -485,7 +505,9 @@ XVI. Inspeccionar mediante el sistema de control y evaluación gubernamental est
 
 XVII. Realizar evaluaciones a las unidades administrativas de la Coordinación con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus funciones, planes, políticas y objetivos contenidos en los programas, proponiendo las medidas correspondientes;
 
-XVIII. Recibir quejas de los particulares y turnarlas a la Contraloría Interna para su trámite, derivadas de la actuación de los servidores públicos de la Coordinación;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+XVIII. Solicitar a las Direcciones y al Instituto de Defensoría Pública, la información necesaria para la elaboración del Programa Operativo Anual y realizar los informes que le requiera la Secretaría de Planeación y Desarrollo Regional;
 
 XIX. Conocer e investigar los actos, omisiones o conductas de los servidores públicos de la Coordinación;
 
@@ -501,7 +523,9 @@ XXIV. Conducir las relaciones laborales con el personal y el Sindicato Único de
 
 XXV. Representar a la Coordinación ante la Comisión Intersecretarial para la Transparencia y el Combate a la Corrupción;
 
-XXVI. Llevar el control riguroso y en forma del equipo al cómputo y periféricos, así como de los dispositivos informáticos alternativos complementarios;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+XXVI. Llevar el control riguroso y en forma del equipo de cómputo y periféricos; y realizar un resguardo de los dispositivos informáticos alternativos complementarios, así como de los acervos que se encuentren en los sistemas;
 
 XXVII. Dar el mantenimiento preventivo y correctivo del equipo de cómputo y periféricos, así mismo realizar el diseño e implementación de redes y diseños gráficos;
 
@@ -515,9 +539,11 @@ XXXI. Registrar y dar trámite a la correspondencia que se genere en cada una de
 
 XXXII. Las demás que le confieran otras disposiciones legales y el Coordinador.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 22.
 
-Para el cumplimiento de sus atribuciones, la Coordinación Administrativa contará con los siguientes Departamentos:
+Para el mejor cumplimiento de sus atribuciones, la Coordinación Administrativa contará con la Unidad de Oficialía de Partes y con los siguientes Departamentos:
 
 I. Departamento de Recursos Humanos;
 
@@ -525,9 +551,11 @@ II. Departamento de Recursos Materiales;
 
 III. Departamento de Recursos Financieros;
 
-IV. Departamento de Informática y Sistemas; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-V. Oficialía de Partes.
+IV. Departamento de Tecnologías de la Información;
+
+V. (DEROGADA, P.O. 14 DE OCTUBRE DE 2009)
 
 ### CAPÍTULO V. DE LA SUPLENCIA DE LOS SERVIDORES PUBLlCOS DE LA COORDINACIÓN
 
@@ -564,3 +592,11 @@ CARLOS PINTO NÚÑEZ
 EL COORDINADOR GENERAL JURÍDICO
 
 MIGUEL DE SANTIAGO REYES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE OCTUBRE DE 2009.
+
+Primero.- El presente Decreto Gubernativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Los Manuales de Organización y de Procedimientos de la Coordinación General Jurídica, deberá (sic) emitir en un término que no excederá de sesenta días a partir de la entrada en vigor de este instrumento legal.
