@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-10373"
 country: "mx"
 rank: "ley"
 publication_date: "1971-06-10"
-last_updated: "2004-12-23"
+last_updated: "2009-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE EJECUCION DE PENAS PRIVATIVAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. 15 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO UNA VEZ QUE SE PUBLIQUE LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO, APROBADO MEDIANTE DECRETO No. 232, Y PUBLICADO EN EL PERIODICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE DURANGO, No. 11 DE FECHA 5 DE DICIEMBRE DE 2008.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2009.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 10 de junio de 1971.
 
@@ -710,3 +712,57 @@ P.O. 23 DE DICIEMBRE DE 2004.
 Se deja en suspenso la vigencia del artículo 55 de la Ley de Ejecución de Penas Privativas y Restrictivas de Libertad del Estado de Durango, única y exclusivamente en lo que se refiere al Delito de Robo Calificado por el que se deberá entender el delito de robo previsto en los artículos 409, 411 fracciones IV y V, 414, 415 y 412, con las excepciones contempladas en el artículo 413 del Código Penal para el Estado de Durango vigente, a favor de los internos que hayan sido condenados por sentencia irrevocable a sufrir pena de prisión, por la comisión de ese ilícito dictada en fecha anterior al día 14 de Septiembre de 2010 y que en el momento de solicitar algún beneficio de los señalados en la Ley mencionada, se encuentran compurgando su sanción privativa de la Libertad en los Centro (sic) de Readaptación Social del Estado.
 
 UNICO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Inicio de Vigencia.
+
+El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+
+La vigencia de la ley contenida en el presente decreto iniciará de manera sucesiva, según las siguientes prevenciones:
+
+I. Sus disposiciones se aplicarán en la fecha que la Declaratoria a que hace referencia el primer párrafo de este artículo determine, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Durango, Dgo;
+
+II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones se aplicarán en la fecha que contenga la Declaratoria respectiva a que hace referencia al primer párrafo de este artículo;
+
+III. Las disposiciones relativas a la libertad preparatoria, remisión parcial de la pena, tratamiento preliberacional y la suspensión condicional de la condena, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor de la presente Ley, se regirán conforme a las disposiciones de la misma;
+
+IV. Las disposiciones relativas a la ejecución de penas y medidas de seguridad respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, que en lo subsecuente corresponda aplicarlas a la autoridad judicial, serán ejercidas, en su caso, por los jueces penales de primera instancia que hayan conocido de las causas respectivas, en los distritos judiciales en los que no haya entrado en vigor el nuevo Código Procesal Penal, sin perjuicio de la coordinación que deban mantener con la Dirección General de Ejecución de Penas y Medidas de Seguridad.
+
+Respecto a las fracciones III y IV, el Pleno del Tribunal Superior de Justicia acordará, mediante disposiciones generales que establezcan un modelo de distribución de competencias, el ejercicio de las facultades más trascendentes por parte de los jueces de ejecución de sentencia de otros distritos. Esta facultad la ejercerá el Pleno desde la entrada en vigor del presente decreto, hasta que el nuevo sistema de justicia penal se encuentre en vigor en todo el territorio estatal.
+
+V. Las disposiciones relativas a la ejecución de las medidas cautelares y las condiciones impuestas en la suspensión del proceso a prueba, iniciarán su vigencia conforme a las reglas establecidas en este artículo.
+
+###### ARTÍCULO SEGUNDO.
+
+Abrogación y derogación Tácita de Preceptos Incompatibles.
+
+Se abroga la Ley de Ejecución de Penas Privativas y Restrictivas de Libertad del Estado de Durango, promulgada el nueve de junio de mil novecientos setenta y uno.
+
+Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Vigencia de reglamentos anteriores.
+
+Al entrar en vigor el presente Decreto, se seguirán aplicando los reglamentos que se hubieren expedido con anterioridad en lo que no se opongan al contenido de esta Ley, en tanto se expidan los nuevos reglamentos en un plazo que no excederá de noventa días a partir de la entrada en vigor de la presente.
+
+###### ARTÍCULO CUARTO.
+
+De la Dirección General de Ejecución de Penas y Medidas de Seguridad.
+
+Para efectos de esta Ley, la Dirección de Prevención y Reinserción Social a que se refiere la Ley de Seguridad Pública para el Estado de Durango, será la Dirección General de Ejecución de Penas y Medidas de Seguridad.
+
+###### ARTÍCULO QUINTO.
+
+Centros de reclusión municipal.
+
+Los centros de reclusión pertenecientes a los municipios en los que se ejecutan penas privativas de libertad, atenderán las disposiciones de esta Ley y sus reglamentos, en la medida en que aquella entre en vigor en su ubicación.
+
+La administración de los centros de reclusión y la custodia de procesados o sentenciados que actualmente se encuentra a cargo de las administraciones municipales, se ejercerá hasta que el Estado asuma dicha responsabilidad, en la medida que la capacidad presupuestal lo permita.
+
+###### ARTÍCULO SEXTO.
+
+Para la implementación de localizadores electrónicos, se requerirá que en el Presupuesto de Egresos del Estado de Durango, se destinen las partidas presupuestales necesarias, hasta en tanto, queda suspendida la ejecución de tal medida.
