@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2008-08-28"
+last_updated: "2009-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 28 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 15 DE OCTUBRE DE 2009.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -1389,207 +1389,189 @@ Del Matrimonio.
 
 De los Esponsales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 232.
 
-La promesa de matrimonio que se hace por escrito y es aceptada constituye los esponsales. La aceptación se presume mientras no se demuestre lo contrario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 233.
 
-Sólo puede celebrar esponsales el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 234.
 
-Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 235.
 
-Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 236.
 
-El que sin causa grave, a juicio del juez, rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales.
-
-También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando por la duración del noviazgo, la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad del matrimonio u otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente.
-
-La indemnización será prudentemente fijada en cada caso por el juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 237.
 
-Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración del matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 238.
 
-Si el matrimonio no se celebra, tienen derecho los prometidos a exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contado desde el rompimiento de los esponsales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO II.
 
 De los Requisitos para Contraer Matrimonio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 239.
 
-El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 240.
 
-Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges se tendrá por no puesta.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, B.O. 9 DE AGOSTO DE 1990)</small>
-
-Los cónyuges tienen derecho para de común acuerdo, planificar de manera libre, responsable e informada, el número y espaciamiento de sus hijos.
-
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 241.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Juez de Primera Instancia, si lo hubiere, o a falta de éste, el Juez Local, o a falta de éste, el Juez Menor, del lugar de residencia de los menores interesados, podrán conceder dispensa de edad por causas graves y justificadas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 242.
 
-Los menores de edad, para contraer matrimonio, necesitan el consentimiento de los que ejercen la patria potestad o, en su defecto, la tutela sobre ellos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-El Juez de Primera Instancia, si lo hubiere, o a falta de éste, el Juez Local, o a falta de éste, el Juez Menor, del lugar de residencia de los menores interesados, estarán facultados para suplir el consentimiento cuando lo nieguen quienes legalmente deban hacerlo, o revoquen el que hubieren concebido.
-
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 243.
 
-Faltando los que ejercen la patria potestad y los tutores, su consentimiento será suplido por el Juez de Primera Instancia, si lo hubiere, o a falta de éste, por el Juez Local o a falta de éste, por el Juez Menor, del lugar de residencia de los menores interesados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 244.
 
-La solicitud de dispensa de edad y de suplencia de consentimiento, se tramitará de acuerdo con lo dispuesto por el Código de Procedimientos Civiles para el Estado de Sonora.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 245.
 
-El ascendiente o tutor que ha prestado su consentimiento, firmado la solicitud respectiva y ratificado la misma ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 246.
 
-La autorización concedida en los términos del artículo anterior, no puede ser revocada al fallecimiento de quien la otorgó, por quien ahora tendría derecho de concederla, sino por justa causa superveniente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 247.
 
-El juez que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 248.
 
-Son impedimentos para celebrar el contrato de matrimonio:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
-
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o del juez en sus respectivos casos;
-
-III.- El parentesco de consanguinidad legítima o natural, sin limitación del grado en la línea recta ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
-
-IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
-
-V.- El adulterio habido entre las personas que pretenden contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
-
-VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
-
-VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-VIII.- El alcoholismo activo, la adicción a substancias psicotrópicas o estupefacientes, considerando como dichas sustancias a aquellas que, conforme a la Ley General de Salud; la sífilis, el síndrome de inmunodeficiencia adquirida (SIDA), la enajenación mental y las enfermedades crónicas o incurables, que sean, además contagiosas o hereditarias;
-
-IX.- El idiotismo y la embecibilidad (sic);
-
-X.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer.
-
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
-
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 249.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, ni durante la adopción, ni después de disuelta por cualquier causa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 250.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz a un hijo. En los casos de nulidad o de divorcio se contará ese tiempo desde que se interrumpió la cohabitación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 251.
 
-El tutor y el curador, no pueden contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtengan dispensa, la que se concederá por el Juez de Primera Instancia respectivo, cuando hayan sido aprobadas las cuentas de la tutela. Esta prohibición comprende también a los descendientes del tutor y curador.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 252.
 
-Si el matrimonio se celebraré en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 253.
 
-Tratándose de sonorenses que se casen en el extranjero, dentro de tres meses de su llegada al Estado, se transcribirá el acta de la celebración del matrimonio en el Registro Civil del lugar en que se domicilien los consortes.
-
-Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebro el matrimonio; si se hace después, sólo producirá efectos desde el día en que se hizo la transcripción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO III.
 
 De los Derechos y Obligaciones que Nacen del Matrimonio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 254.
 
-Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 255.
 
-Los cónyuges estarán obligados a vivir juntos en el domicilio conyugal. Se considera domicilio conyugal, el lugar donde radiquen de común acuerdo los cónyuges.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Los tribunales, con conocimiento de causa podrán eximir de esta obligación a alguno de ellos cuando el otro se establezca en lugar insalubre o indecoroso, o cuando traslade su domicilio a país extranjero, a no ser que en este último caso lo haga en servicio público o social.
-
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 256.
 
-Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos por partes iguales, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para ese efecto, según sus posibilidades. A lo anterior, no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos; la misma situación se observará si uno de los cónyuges por convenio tácito o expreso con el otro, se ocupa del cuidado del hogar o de la atención de los hijos menores; en este último supuesto, dicho trabajo se considerará como su contribución para sufragar los gastos a que se refiere este artículo, y el otro cónyuge estará obligado a solventar la totalidad de dichos gastos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Los derechos y obligaciones que respectivamente otorga e impone a los cónyuges el matrimonio, serán siempre iguales para ambos e independientes de su aportación económica al sostenimiento del hogar.
-
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 257.
 
-Los bienes de los cónyuges y sus productos, así como sus ingresos, quedan afectados preferentemente al pago de los alimentos.
-
-Para hacer efectivo este derecho, podrán los cónyuges y los hijos o sus representantes, pedir el aseguramiento de aquellos bienes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 258.
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 259.
 
-Los cónyuges tendrán en el hogar autoridad y consideraciones iguales, por lo tanto, de común acuerdo arreglarán todo lo relativo:
-
-I.- A la dirección y cuidado del hogar; y
-
-II.- A la educación y establecimiento de los hijos, así como a la administración de los bienes que a éstos pertenezcan.
-
-Cuando no estuvieren conformes sobre alguno de los puntos indicados, sobre el establecimiento y modificación del domicilio conyugal, o sobre cualquier otro relativo a los hijos, el Juez de Primera Instancia procurará avenirlos, y si no lo lograse, resolverá lo que fuere más conveniente a los intereses de los hijos, si los hubiere o de ambos cónyuges en caso de no haberlos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 260.
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 261.
 
-Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de Primera Instancia decidirá sobre la oposición.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 262.
 
@@ -1599,15 +1581,17 @@ Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 264.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 265.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, grabarlos o hipotecarlos, y un tutor para sus negocios judiciales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 266.
 
@@ -1617,13 +1601,17 @@ El marido y la mujer, menores de edad, tendrán la administración de sus bienes
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 268.
 
-El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 269.
 
-El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO IV.
 
@@ -1631,341 +1619,413 @@ Del Contrato de Matrimonio con Relación a los Bienes.
 
 Disposiciones Generales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 270.
 
-El contrato de matrimonio puede celebrarse bajo el régimen de sociedad conyugal, separación de bienes o sociedad legal. Si no hubiere capitulaciones matrimoniales estableciendo alguno de los dos regímenes mencionados en primer término, se entenderá celebrado el matrimonio bajo el de sociedad legal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 271.
 
-Las capitulaciones matrimoniales son los actos que los esposos celebran para constituir la sociedad conyugal o la separación de bienes y reglamentar la administración de éstos en uno y en otro caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 272.
 
-Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él y pueden comprender, no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 273.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio, o la autorización judicial si las capitulaciones se pactan después de celebrado el matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 274.
 
-Son nulos los pactos que los esposos hicieren contra las leyes o los naturales fines del matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO V.
 
 De la Sociedad Conyugal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 275.
 
-La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviere expresamente estipulado, por las disposiciones relativas a la sociedad legal o en defecto de éstas, por las que rigen el contrato de sociedad en general.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 276.
 
-Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 277.
 
-En este caso, la modificación que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 278.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio, si así lo convienen los esposos; pero si éstos o alguno de ellos son menores de edad, el convenio relativo no podrá celebrarse sin autorización judicial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 279.
 
-Puede también terminar la sociedad conyugal durante el matrimonio, a petición de alguno de los cónyuges, por los siguientes motivos:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes;
-
-II.- Cuando el socio administrador hace cesión de bienes a sus acreedores, o es declarado en quiebra.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 280.
 
-Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deben contener:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- La lista detallada de los bienes muebles o inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
-
-II.- Nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
-
-III.- La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad;
-
-IV.- La declaración explícita de si la sociedad conyugal ha de comprender los bienes todos de los consortes o solamente sus productos. En uno y otro caso se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge;
-
-V.- La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecuto, o si debe dar participación de ese producto al otro consorte y en qué proporción;
-
-VI.- La declaración terminante acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
-
-VII.- La declaración acerca de si los bienes futuros que adquieren los cónyuges durante el matrimonio, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción;
-
-VIII.- Las bases para liquidar la sociedad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 281.
 
-La capitulación en cuya virtud uno de los consortes haya de percibir todas las utilidades, así como la que establezca que alguno de ellos sea responsable por las pérdidas y deudas comunes en una parte que exceda a la que proporcionalmente corresponda a su capital o utilidades, son nulas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 282.
 
-Cuando se establezca que uno de los consortes sólo debe recibir una cantidad fija, el otro consorte o sus herederos deben pagar la suma convenida, haya o no utilidad en la sociedad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 283.
 
-Todo pacto que importe cesión de una parte de los bienes propios de cada cónyuge será considerado como donación y quedará sujeto a lo prevenido en el Capítulo XI de este Título.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 284.
 
-No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 285.
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 286.
 
-La sentencia que declare la ausencia de alguno de los cónyuges, modifica o suspende la sociedad conyugal en los casos señalados en este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 287.
 
-El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso; pero esta situación no podrá ser invocada en perjuicio de tercero.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 288.
 
-La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos en el artículo 279.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 289.
 
-En los casos de nulidad, la sociedad se considera subsistente hasta que se pronuncie sentencia ejecutoria, si los dos cónyuges procedieron de buena fe.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 290.
 
-Cuando uno solo de los cónyuges tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario se considerará nula desde un principio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 291.
 
-Si los dos cónyuges procedieron de mala fe, la sociedad se considerará nula desde la celebración del matrimonio, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 292.
 
-Si la disolución de la sociedad procede de nulidad de matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades. Estas se aplicarán a los hijos, y si no los hubiere, al cónyuge inocente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 293.
 
-Si los dos procedieron de mala fe, las utilidades se aplicarán a los hijos, y si no los hubiere, se repartirán en proporción de lo que cada consorte llevó al matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 294.
 
-Disuelta la sociedad, se procederá a formar inventario, en el cual no se incluirán el lecho, los vestidos ordinarios y los objetos de uso personal de los consortes, que serán de éstos o de sus herederos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 295.
 
-Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social, se devolverá a cada cónyuge lo que llevo al matrimonio y el sobrante, si lo hubiere, se dividirá entre los dos consortes en la forma convenida. En caso de que hubiere pérdidas, el importe de éstas se deducirá del haber de cada consorte, en proporción a las utilidades que debían corresponderles, y si uno solo llevó capital, de éste se deducirá la pérdida total.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 296.
 
-Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 297.
 
-Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO VI.
 
 De la Separación de Bienes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 298.
 
-Puede haber separación de bienes en virtud de capitulaciones anteriores al matrimonio, o durante éste, por convenio de los consortes, o bien por sentencia judicial. La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrar el matrimonio, sino también los que adquieran después.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 299.
 
-La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación serán objeto de la sociedad conyugal que deben constituir los esposos, o en su defecto, de la sociedad legal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 300.
 
-Durante el matrimonio, la separación de bienes puede terminar para ser substituida por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 278.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 301.
 
-Las capitulaciones matrimoniales en que se pacte la separación de bienes, constarán en escritura pública; pero serán válidas las celebradas antes o en el acto mismo del matrimonio, aun cuando consten en documento privado, siempre que fueren ratificadas ante el Oficial del Registro Civil.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 302.
 
-Las capitulaciones que establezcan separación de bienes contendrán un inventario de los que pertenezcan a cada consorte al celebrarse el matrimonio, y nota especificada de las deudas que al casarse tenga cada uno de los contrayentes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 303.
 
-En el régimen de separación de bienes, los cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenecen y, por consiguiente, todos los frutos y accesiones de dichos bienes no serán comunes, sino del dominio exclusivo del dueño de ellos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 304.
 
-Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuvieren por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 305.
 
-Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entretanto se hace la división serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 306.
 
-Ni el marido podrá cobrar a la mujer ni ésta a aquél retribución u honorario alguno por los servicios personales que le prestaré, o por los consejos y asistencia que le diere; pero si uno de los consortes por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargaré temporalmente de la administración de sus bienes, podrá pactar retribución por este servicio, en proporción a su importancia y al resultado que produjere.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 307.
 
-El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les concede.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 308.
 
-El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO VII.
 
 De la Sociedad Legal.
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 309.
 
-El régimen de la sociedad legal consiste en la formación y administración de un patrimonio común diferente de los patrimonios propios de los consortes, sin que el dominio de cada cónyuge sobre bienes o partes determinadas o alícuotas se precise, sino al liquidarse la sociedad por las causas que la ley establece. La representación de la sociedad corresponde al cónyuge que ambos determinen, con excepción de los casos señalados en el artículo 330.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 310.
 
-Ninguno de los cónyuges puede considerarse como tercero respecto de la sociedad por lo que ve a obligaciones a cargo de ésta que afecten los bienes sociales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 311.
 
-La propiedad y la administración de bienes adquiridos por consortes domiciliados o no dentro del Estado, pero cuyo matrimonio se celebro fuera de él bajo capitulaciones matrimoniales expresas, se regirán por lo que tales capitulaciones establezcan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 312.
 
-Tratándose de matrimonios celebrados fuera del Estado, bajo régimen económico presunto, la propiedad y administración de los bienes, que los consortes adquieran y que se encuentren ubicados en el Estado de Sonora, se regirán por las disposiciones de este Capítulo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 313.
 
-Son propios de cada cónyuge los bienes de que era dueño al tiempo de celebrarse el matrimonio, y los que poseía antes de éste, aunque no fuera dueño de ellos, si los adquiere por prescripción durante la sociedad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 314.
 
-Lo son también los que durante la sociedad adquiere cada cónyuge por donación de cualquiera especie, por herencia o por legado, constituído a favor de uno solo de ellos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 315.
 
-Si las donaciones fueren onerosas, se deducirá del capital del cónyuge que la reciba el importe de las cargas de aquéllas, siempre que hayan sido soportadas por la sociedad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 316.
 
-Son propios de cada consorte, los bienes que se hayan adquirido por título propio que sea anterior al matrimonio, aunque la prestación se haya hecho después de la celebración de éste.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 317.
 
-Los gastos que se hubieren causado para hacer efectivo el título serán a cargo del dueño de éste.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 318.
 
-Son propios los bienes adquiridos por compra o permuta de los raíces que pertenezcan a los cónyuges para adquirir otros también raíces que se sustituyan en lugar de los vendidos o permutados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 319.
 
-Cuando se vendan los bienes inmuebles propios de uno de los cónyuges y su precio no se invierta en comprar otros inmuebles, el precio adquirido se considerará como propio del cónyuge dueño de los bienes vendidos, si éstos entraron a la sociedad conyugal sin ser estimados; pero si se estimaron al celebrarse el matrimonio o al otorgarse las capitulaciones matrimoniales, será de propiedad del dueño el precio en que fueron estimados, reputándose como ganancias o pérdidas de la sociedad el aumento o disminución que hayan tenido al ser enajenados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 320.
 
-Es propio de cada cónyuge lo que adquiere por la consolidación de la propiedad y el usufructo, así como son de su cargo los gastos que se hubieren hecho.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 321.
 
-Si alguno de los cónyuges tuviere derecho a una prestación exigible en plazos, que no tenga el carácter de usufructo, las cantidades cobradas por los plazos vencidos durante el matrimonio no serán gananciales, sino propias de cada cónyuge.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 322.
 
-Forman el fondo de la sociedad legal:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Todos los bienes adquiridos por el marido en la milicia o por cualquiera de los cónyuges en el ejercicio de una profesión científica, mercantil o industrial, o por trabajo mecánico;
-
-II.- Los bienes que provengan de herencia, legado o donación hechos a ambos cónyuges sin designación de parte. Si hubiere designación de partes y éstas fueren desiguales, sólo serán comunes los frutos de la herencia, legado o donación;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-III.- El precio sacado de la masa común de bienes, para adquirir fincas por cualquier título que nazca de derecho propio de alguno de los consortes, anterior al matrimonio;
-
-IV.- El precio de las refacciones de crédito y el de cualesquiera mejora y reparaciones hechas en fincas o créditos propios de uno de los cónyuges;
-
-V.- El exceso o diferencia de precio dado por uno de los cónyuges en venta o permuta de bienes propios para adquirir otros en lugar de los vendidos o permutados;
-
-VI.- Los bienes adquiridos por título oneroso durante la sociedad a costa del caudal común, bien se haga la adquisición para la comunidad, bien para uno solo de los consortes;
-
-VII.- Los frutos, accesiones, rentas o intereses percibidos o devengados durante la sociedad, procedentes de los bienes comunes o de los peculiares de cada uno de los consortes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 323.
 
-Lo adquirido por razón de usufructo pertenece al fondo social.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 324.
 
-No pueden renunciarse los gananciales durante el matrimonio; pero disuelto éste o decretada la separación de bienes, pueden renunciarse los adquiridos, y vale la renuncia si se hace en escritura pública.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 325.
 
-Todos los bienes que existen en poder de cualquiera de los cónyuges al hacer la separación de ellos se presumen gananciales mientras no se pruebe lo contrario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 326.
 
-Ni la declaración de uno de los cónyuges, que afirma ser suya una cosa, ni la confesión del otro, ni las dos reunidas, se estimarán pruebas suficientes, aunque sean judiciales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 327.
 
-La confesión en el caso del artículo que precede, se considerará como donación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO VIII.
 
 De la Administración de la Sociedad Legal.
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 328.
 
-El dominio y posesión de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad legal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 329.
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 330.
 
-Los bienes inmuebles y los medios de transporte de propulsión mecánica, no pueden ser obligados ni enajenados por un cónyuge sin el consentimiento del otro; pero el Juez puede suplir ese consentimiento, previa audiencia del opositor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 331.
 
-Las reclamaciones relativas a obligaciones que son carga de la sociedad legal, con excepción de las que se deriven de los actos mencionados en el artículo anterior, procederán contra ésta aun cuando se dirijan exclusivamente contra uno de los cónyuges, y lo decidido en el juicio en que intervino éste, produce autoridad de cosa juzgada, respecto a la sociedad legal y del otro cónyuge como miembro de ésta.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 332.
 
-Ninguno de los cónyuges puede repudiar la herencia común sin consentimiento del otro cónyuge, pero el Juez puede suplir ese consentimiento previa audiencia de este último.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 333.
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 334.
 
-Los cónyuges no pueden disponer por testamento sino de su mitad de gananciales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 335.
 
-Ninguna enajenación que de los bienes gananciales haga un cónyuge en contravención de la Ley o en fraude del otro, perjudicará a éste ni a sus herederos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 336.
 
@@ -1975,545 +2035,577 @@ Ninguna enajenación que de los bienes gananciales haga un cónyuge en contraven
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 338.
 
-Cualquiera de los cónyuges puede pagar con los gananciales los gastos ordinarios de la familia según las circunstancias, sin perjuicio de la obligación común de ambos cónyuges a que se refiere el artículo 349.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 339.
 
-La mujer casada que legalmente fuere fiadora, en los casos de separación de bienes, responderá con los que tuviere propios, y en los de sociedad conyugal sólo con sus gananciales y con la parte que le corresponda en el fondo social.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 340.
 
-Las deudas contraídas durante el matrimonio por cualquier cónyuge serán carga de la sociedad legal y podrán hacerse efectivas sobre los bienes propios o los gananciales de los consortes. Al liquidarse la sociedad, el cónyuge que hubiese pagado con sus bienes propios deudas de la sociedad legal, será acreedor de ésta por el importe de las mismas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 341.
 
-Se exceptúan de lo dispuesto en el artículo anterior:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Las deudas que provengan de delito alguno de los cónyuges o de algún hecho moralmente reprobado, aunque no sea punible por la ley;
-
-II.- Las deudas que graven los bienes propios de los cónyuges, no siendo por censos o pensiones cuyo importe haya entrado al fondo social.
-
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 342.
 
-Las deudas de cada cónyuge anteriores al matrimonio, sólo se harán efectivas en bienes propios del deudor o en la parte que le corresponda de los gananciales al liquidarse la sociedad, a menos que el otro cónyuge estuviere también personalmente obligado o que la deuda se hubiese contraído en provecho común, pues entonces será carga de la sociedad legal. Si no consta en forma auténtica la fecha en que fué contraída la deuda, se presumirá que es posterior a la celebración del matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Cuando uno de los cónyuges pague con bienes comunes deudas propias, contraídas antes del matrimonio, el importe de las mismas se descontará de su parte de gananciales al liquidarse la sociedad, salvo el caso de que el otro cónyuge estuviere también personalmente obligado o que las deudas se hubiesen contraído en provecho común.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 343.
 
-Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a la sociedad legal o disminuir considerablemente los bienes comunes, podrá el otro cónyuge pedir la disolución anticipada de la sociedad. Al iniciarse el procedimiento relativo que será sumario, cesarán interinamente los efectos de la sociedad sin perjuicio de los actos y obligaciones anteriores, estableciéndose un régimen de condominio respecto de los bienes sociales y correspondiendo en ellos la mitad a cada cónyuge; la declaración respectiva se inscribirá en el registro de los bienes para que surta sus efectos contra terceros.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 344.
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 345.
 
-Los acreedores del cónyuge deudor podrán también hacer uso, respecto de los bienes de éste, del derecho que conceden los artículos 3444 y 3445.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 346.
 
-Son carga de la sociedad los atrasos de las pensiones o réditos devengados durante el matrimonio, de las obligaciones a que estuvieron afectos, así los bienes propios de los cónyuges como los que forman el fondo social.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 347.
 
-También son carga de la sociedad los gastos que se hagan en las reposiciones indispensables para la conservación de los bienes propios de cada cónyuge. Los que no fueren de esta clase, se imputarán al haber del dueño.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 348.
 
-Todos los gastos que se hicieren para la conservación de los bienes del fondo social son carga de la sociedad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 349.
 
-Lo son igualmente el mantenimiento de la familia, la educación de los hijos comunes y la de los entenados que fueren hijos legítimos y menores de edad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 350.
 
-También es carga de la sociedad el importe de lo dado o prometido por ambos consortes a los hijos comunes para su colocación cuando no hayan pactado que se satisfaga de los bienes de uno de ellos en todo o en parte. Si la donación o la promesa se hubiere hecho por sólo uno de los consortes, será pagada de sus bienes propios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 351.
 
-Son igualmente cargas de la sociedad los gastos de inventarios y demás que se causen en la liquidación y en la entrega de los bienes que formaron el fondo social.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO IX.
 
 De la Liquidación de la Sociedad Legal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 352.
 
-La sociedad legal termina y se suspende en los casos señalados en los artículos 278, 279 y 288.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 353.
 
-En los casos de nulidad de la sociedad se considerará subsistente hasta que se pronuncie sentencia que cause ejecutoria si los dos cónyuges procedieron con buena fe.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 354.
 
-Cuando uno sólo de los cónyuges tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario, se considerará nula desde su principio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 355.
 
-Si los dos cónyuges procedieron de mala fe, la sociedad se considerará nula desde la celebración del matrimonio, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 356.
 
-En los casos de divorcio se procederá conforme a lo previsto en los artículos 452 y 453.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 357.
 
-En los casos de divorcio por mutuo consentimiento o de cambio de régimen patrimonial, se observarán para la liquidación los convenios que celebren los consortes y que fueren aprobados por el Juez salvo lo previsto en este Capítulo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 358.
 
-Ejecutoriada la resolución que disuelva o suspenda la sociedad legal, los bienes que pertenecían al fondo social continúan respondiendo de las cargas sociales, y el cónyuge directamente obligado a favor de terceros sigue respondiendo también con sus bienes propios. Los acreedores de la sociedad legal podrán ejercitar o continuar sus acciones contra cualquiera de los cónyuges, aún cuando se afecten bienes gananciales aplicados al otro cónyuge, mientras no se les notifique el fallo. Hecha la notificación los acreedores podrán dirigir sus acciones contra el deudor. El cónyuge que resultare afectado en sus bienes propios o gananciales por ejecución de deudas a cargo de la sociedad legal, tendrán derecho a repetir contra el otro cónyuge por la parte que a éste correspondiere cubrir.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 359.
 
-La suspensión de la sociedad cesará con el vencimiento del plazo, si alguno se le fija, y con la reconciliación de los consortes, en los casos de divorcio intentado. La reanudación de la sociedad legal se inscribirá en el Registro Público de la Propiedad, anotándose las inscripciones relativas a los bienes sociales. La falta de registro no perjudica a tercero.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 360.
 
-Si el matrimonio se disuelve antes del vencimiento del plazo o si alguno de los cónyuges muere antes que la reconciliación, se entiende terminada la sociedad desde que comenzó la suspensión, no obstante lo dispuesto en los artículos 278, 279 y 288.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 361.
 
-Disuelta o suspensa la sociedad, se procederá desde luego a formar inventario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 362.
 
-En el inventario se incluirán especificadamente, no sólo todos los bienes que formaron la sociedad legal, sino los que deben traerse a colación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 363.
 
-Deben traerse a colación:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Las cantidades pagadas por el fondo social y que sean carga exclusiva de los bienes propios del cónyuge;
-
-II.- El importe de las donaciones y el de las enajenaciones que deban considerarse fraudulentas conforme al artículo 335.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 364.
 
-No se incluirán en el inventario los efectos que formaban el lecho y vestidos ordinarios de los consortes; los que se entregarán desde luego a éstos o a sus herederos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 365.
 
-Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social; se devolverá a cada cónyuge lo que llevó al matrimonio y el sobrante, si lo hubiere, se dividirá entre los cónyuges por mitad. En caso de que hubiere pérdidas, el importe de éstas se deducirá por mitad de lo que cada consorte hubiere llevado a la sociedad, y si uno solo llevó capital, de éste se deducirá el total de la pérdida.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Los consortes figurarán en la liquidación como acreedores por sus propios bienes, con la preferencia que les corresponda, según la naturaleza jurídica de sus títulos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 366.
 
-La división de los gananciales por mitad entre los consortes o sus herederos tendrá lugar, sea cual fuere el importe de los bienes que cada uno de aquéllos haya aportado al matrimonio, o adquirido durante él, y aunque alguno o los dos hayan carecido de bienes al tiempo de celebrarlo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 367.
 
-Si la disolución de la sociedad procede de nulidad de matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en los gananciales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 368.
 
-En el caso del artículo anterior, los gananciales que debían corresponder al cónyuge que obró de mala fe se aplicarán a sus hijos, y si no los tuviere, al cónyuge inocente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 369.
 
-Si los dos procedieron de mala fe, los gananciales se aplicarán a los hijos, y si no los hubiere, se repartirán por mitad entre los consortes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 370.
 
-Las pérdidas o desmejoras de los bienes muebles no estimados, aunque provengan de caso fortuito, se pagarán de los gananciales, si los hubiere; en caso contrario el dueño recibirá los muebles en el estado en que se hallen.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 371.
 
-Los deterioros de los bienes inmuebles no son abonables en ningún caso al dueño, a menos que provenga de culpa del otro cónyuge.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 372.
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 373.
 
-Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión mientras no se verifique la partición.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 374.
 
-Cuando haya de ejecutarse simultáneamente la liquidación de dos o más matrimonios contraídos por una misma persona, a falta de inventarios se admitirán las pruebas ordinarias para fijar el fondo de cada sociedad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 375.
 
-En caso de duda se dividirán los gananciales entre las diferentes sociedades, en proporción al tiempo que hayan durado y al valor de los bienes propios de cada socio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 376.
 
-Todo lo relativo a la formación de inventarios y a las solemnidades de la partición y adjudicación de los bienes se regirá por lo que disponga el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO X.
 
 De las Donaciones Antenupciales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 377.
 
-Se llaman antenupciales las donaciones que antes del matrimonio hace un esposo al otro, cualquiera que sea el nombre que la costumbre les haya dado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 378.
 
-Son también donaciones antenupciales las que un extraño hace a alguno de los esposos o a ambos en consideración al matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 379.
 
-Las donaciones antenupciales entre esposos, aunque fueren varias, no podrán exceder reunidas de la sexta parte de los bienes del donante. En el exceso la donación será inoficiosa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 380.
 
-Las donaciones antenupciales hechas por un extraño serán inoficiosas en los términos en que lo fueren las comunes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 381.
 
-Para calcular si es inoficiosa una donación antenupcial tienen el esposo donatario y sus herederos la facultad de elegir la época en que se hizo la donación o la del fallecimiento del donador.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 382.
 
-Si al hacerse la donación no se formó inventario de los bienes del donador, no podrá elegirse la época en que aquélla se otorgó.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 383.
 
-Las donaciones antenupciales no necesitan para su validez de aceptación expresa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 384.
 
-Las donaciones antenupciales no se revocarán por sobrevenir hijos al donante.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 385.
 
-Tampoco se revocarán por ingratitud a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 386.
 
-Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 387.
 
-Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 388.
 
-Las donaciones antenupciales quedarán sin efecto si el matrimonio dejare de efectuarse.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 389.
 
-Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes en todo lo que no fueren contrarias a este Capítulo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO XI.
 
 De las Donaciones entre Consortes.
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 390.
 
-Los consortes pueden hacerse donaciones, con tal de que no sean contrarias a las capitulaciones matrimoniales, o perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 391.
 
-Las donaciones entre consortes únicamente serán revocadas por el donante, en caso de divorcio necesario, por culpa del donatario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 392.
 
-Estas donaciones no se anularán por la superveniencia de hijos, pero se reducirán cuando sean inoficiosas en los mismos términos que las comunes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO XII.
 
 De los Matrimonios Nulos e Ilícitos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 393.
 
-Son causas de nulidad de un matrimonio:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra;
-
-II.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos enumerados en el artículo 248;
-
-III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 189, 190, 192, 194 y 195.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 394.
 
-La acción de nulidad que nace del error sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error dentro del término de treinta días de conocerlo, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 395.
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Cuando haya habido hijos;
-
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los veintiún años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 396.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 397.
 
-Cesa esta causa de nulidad:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Si han pasado los treinta días sin que se haya pedido;
-
-II.- Si dentro de este término el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 398.
 
-La nulidad por falta de consentimiento del tutor o del juez podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial confirmando el matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 399.
 
-El parentesco de consanguinidad no dispensado anula el matrimonio; pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acto ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 400.
 
-La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 401.
 
-La acción de nulidad que nace de la causa prevista en la fracción V del artículo 248 podrá deducirse por el cónyuge ofendido o por el Ministerio Público en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 402.
 
-La acción de nulidad que proviene del atentado contra la vida de alguno de los cónyuges, para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado o por el Ministerio Público dentro del término de seis meses, contados desde que se celebró el nuevo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 403.
 
-El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Que uno u otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
-
-II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
-
-III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
-
-La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 404.
 
-La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 248 sólo puede ser pedida por los cónyuges dentro del término de sesenta días contados desde que se celebró el matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 405.
 
-Tienen derecho de pedir la nulidad a que se refiere la fracción IX del artículo 248 el otro cónyuge o el tutor del incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 406.
 
-El vínculo de un matrimonio anterior existente al tiempo de contraerse el segundo, anula éste, aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 407.
 
-La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 408.
 
-No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 409.
 
-El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente y no es transmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 410.
 
-Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien pasó el matrimonio para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 411.
 
-El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 412.
 
-Los cónyuges no pueden celebrar transacción ni compromiso en árbitros acerca de la nulidad del matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 413.
 
-El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes o desde su separación, en caso contrario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 414.
 
-Si ha habido buena fe de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 415.
 
-La buena fe se presume; para destruir esa presunción se requiere prueba plena.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 416.
 
-Si la demanda de nulidad fuera entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 447.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 417.
 
-En los casos de nulidad de matrimonio, y aún tratándose de divorcio, los hijos e hijas menores de siete años se mantendrán al cuidado de la madre hasta que cumplan esta edad, salvo que se ponga en peligro su salud física, emocional o mental, supuesto en el cual se podrá otorgar la custodia al otro cónyuge o al ascendiente que mejor asegure el desarrollo integral de aquéllos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 418.
 
-En la sentencia de nulidad de matrimonio se resolverá sobre la situación de los hijos. Para ese efecto, los padres podrán presentar un convenio que contenga los acuerdos a que han llegado respecto a su custodia, la proporción que corresponda pagar a cada uno de ellos por concepto de alimentos y la forma de garantizar su pago. En caso de que no se presente el convenio o no se garantice el interés de los hijos, el Juez decidirá lo que corresponda, pudiendo determinar que los menores queden bajo la custodia del ascendiente que asegure el desarrollo integral de éstos. También podrá en todo tiempo, modificar la determinación tomada, teniendo en cuenta las nuevas circunstancias y siempre que el interés de los hijos lo requiera.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 419.
 
-Declarada la nulidad del matrimonio, se procederá a la división de los bienes comunes. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos, y si no los hubiere, se dividirán entre los cónyuges en la forma convenida.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 420.
 
-Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Las hechas por un tercero a los cónyuges podrán ser revocadas;
-
-II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
-
-III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
-
-IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 421.
 
-Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el Capítulo Primero del Título Quinto del Libro Cuarto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 422.
 
-Es ilícito y, además, nulo el matrimonio:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
-
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 251 y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 250 y 454.
-
-En los casos anteriores la nulidad sólo podrá ser exigida por el Ministerio Público y dentro del término de noventa días de celebrado el matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 423.
 
-Los que infrinjan el artículo anterior, así como los que, siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO XIII.
 
 Del Divorcio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 424.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro, con las restricciones establecidas en este Capítulo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 425.
 
-Son causas de divorcio:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- El adulterio debidamente probado de uno de los cónyuges, o los actos preparatorios que de manera necesaria y directa tiendan al mismo; además, el habitual comportamiento de alguno de ellos, consistente en actos u omisiones contrarios a la fidelidad y respeto recíprocos entre los consortes, que fundadamente obligue a presumir la conducta adúltera de uno de ellos, si ésta se prolonga por mas de un año;
-
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse ese contrato y que judicialmente sea declarado ilegítimo;
-
-III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
-
-IV.- La incitación o la violencia hecha por un cónyuge a otro para cometer algún delito, aunque no sea de incontinencia carnal;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-V.- Los actos inmorales ejecutados por el marido o por la mujer, con el fin de corromper o que corrompan a los hijos, ya sean éstos de ambos o de uno de ellos, así como la tolerancia en su corrupción;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-VI.- Padecer sífilis, tuberculosis, síndrome de inmunodeficiencia adquirida, o cualquier otra enfermedad crónica o incurable, que sea, además, contagiosa o hereditaria y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
-
-VII.- Padecer enajenación mental incurable;
-
-VIII.- La separación injustificada de la casa conyugal por más de seis meses, con abandono absoluto de las obligaciones inherentes al matrimonio;
-
-IX.- La separación del hogar conyugal por desavenencia entre los cónyuges, si se prolonga por más de un año, caso en el cual quien quiera de ellos puede pedir el divorcio;
-
-X.- La declaración de ausencia legalmente hecha o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga que preceda la declaratoria de ausencia;
-
-XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, siempre que tales actos hagan imposible la vida conyugal, a juicio del juez o del tribunal, en su caso;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-XII.- La negativa de los cónyuges para darse alimentos, de acuerdo con lo dispuesto por el artículo 256, siempre que no pueda hacerse efectivo el derecho que les concede el artículo 257;
-
-XIII.- La acusación calumniosa hecha por un cónyuge contra el otro por delito que merezca pena mayor de dos años de prisión;
-
-XIV.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-XV.- Los hábitos de juego, cuando amenacen causar la ruina de la familia o constituyan un continuo motivo de desavenencia conyugal;
-
-XVI.- Cometer un cónyuge contra la persona o los bienes del otro un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalado en la ley una pena que pase de un año de prisión;
-
-XVII.- La extorsión moral de un cónyuge por el otro, siempre que implique crueldad mental y haga imposible la vida conyugal, a juicio del juez o del tribunal, en su caso;
-
-XVIII.- El desistimiento a que se refiere el artículo 446, así como la causa expresada en el artículo 426;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-XVIII.- El desistimiento a que se refiere el artículo 446, así como la causa expresada en el artículo 426;
-
-> <small>(ADICIONADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-XIX.- La embriaguez habitual o el uso indebido y persistente de drogas enervantes, cuando constituyan un continuo motivo de desavenencia conyugal; y
-
-XX.- El mutuo consentimiento;
-
-> <small>(ADICIONADA, B.O. 17 DE MAYO DEL 2001)</small>
-
-XXI.- Las conductas de violencia intrafamiliar cometidas por un cónyuge contra el otro o hacia los hijos de ambos o de alguno de ellos, conforme a lo previsto en el artículo 489 bis;
-
-> <small>(ADICIONADA, B.O. 17 DE MAYO DEL 2001)</small>
-
-XXII.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 426.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad de matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante esos tres meses los cónyuges no están obligados a vivir juntos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 427.
 
-Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 428.
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 429.
 
-Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 430.
 
-Los cónyuges que soliciten su divorcio por mutuo consentimiento, están obligados a presentar al Juzgado un convenio en el que se contengan los siguientes puntos:
-
-I.- Designación de la persona que tendrá a su cuidado a los hijos durante el procedimiento y después de ejecutoriado el divorcio, así como el arreglo de las condiciones de éstos;
-
-II.- El modo en que se subvencionarán las necesidades de los hijos durante el procedimiento y después de ejecutoriada la sentencia de divorcio, así como la forma de hacer el pago y la garantía que lo asegurará;
-
-III.- Designación del cónyuge que continuará habitando el domicilio conyugal, en su caso;
-
-IV.- La cantidad que a título de alimentos un cónyuge deba pagar al otro durante el procedimiento y después de ejecutoriada la sentencia y la forma de hacer el pago o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga; y
-
-V.- La forma de administrar los bienes de la sociedad legal o conyugal en su caso, durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores; a ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles, así como de las cargas u obligaciones de la sociedad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 431.
 
@@ -2527,9 +2619,11 @@ V.- La forma de administrar los bienes de la sociedad legal o conyugal en su cas
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 434.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 435.
 
@@ -2543,173 +2637,119 @@ El cónyuge menor de edad necesita de un tutor especial para poder solicitar el 
 
 (DEROGADO, B.O. 9 DE AGOSTO DE 1990)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 438.
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 439.
 
-Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados para los efectos de los artículos 206, 207, 208 y 456 de este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 440.
 
-Mientras que se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 441.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 442.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causales enumeradas en las fracciones VI, VII y XIX del artículo 425, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge; y el Juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 443.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 444.
 
-Ninguna de las causas enumeradas en el artículo 425, puede alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito; no se considera perdón tácito la mera suscripción de una demanda de divorcio por mutuo consentimiento ni los actos procesales posteriores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 445.
 
-La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 446.
 
-El cónyuge que no haya dado causa al divorcio, puede, antes de que se pronuncie la sentencia que ponga fin al litigio, otorgar a su consorte el perdón respectivo; más en este caso no puede pedir de nuevo el divorcio por los mismos hechos a los que se refirió el perdón y que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Si el desistimiento de la acción se debiere a que el actor no comprobó la causa de divorcio invocada, o a que la misma resultó insuficiente, podrá el otro cónyuge pedir el divorcio, quedando a juicio del Juez determinar tales hechos; pero no podrá intentarse la acción por esta causa, sino pasados tres meses de la notificación del auto que hubiese decretado dicho desistimiento. Durante el citado lapso los cónyuges no están obligados a vivir juntos.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 447.
 
-Al admitir la demanda de divorcio o antes si hubiere urgencia y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-I.- Separar a los cónyuges en todo caso. Para este efecto el Juez prevendrá al marido que se separe del domicilio conyugal y ordenará se le entreguen su ropa, objetos personales y los bienes que sean necesarios para el ejercicio de su profesión, arte u oficio a que esté dedicado.
-
-Sólo a solicitud de la mujer se podrá ordenar su separación del domicilio conyugal. En este supuesto el Juez ordenará se le entreguen su ropa, objetos personales y los bienes que, en su caso, sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicada;
-
-> <small>(REFORMADA, B.O. 17 DE MAYO DEL 2001)</small>
-
-II.- Prevenir a ambos cónyuges que no se molesten uno a otro en forma alguna; decretar caución de no ofender; ordenar la prohibición de ir a lugar determinado para alguno o ambos de los cónyuges y abstenerse de realizar actos de intimidación o perturbación en contra del otro cónyuge, sus hijos y demás familiares, en sus domicilios, lugares de trabajo, recreación, o donde quiera que se encuentren, así como mantenerse alejado de ellos a una distancia que el Juez de Primera Instancia considere pertinente, según las circunstancias de cada caso;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-III.- Dictar las medidas necesarias para que los cónyuges no se causen perjuicios en sus respectivos bienes ni en los de la sociedad legal o conyugal, en su caso;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-IV.- Fijar las reglas para el cuidado de los hijos. Los menores de 7 años quedarán durante el trámite, bajo el cuidado de la madre, salvo que se ponga en peligro su salud física, emocional o mental;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-V.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos; y
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-VI.- Dictar, en su caso, las medidas precautorias que la ley establece en el supuesto de que la mujer quede encinta.
-
-> <small>(ADICIONADA, B.O. 17 DE MAYO DEL 2001)</small>
-
-VII.- Dictar, en su caso, cualquier medida de protección que resulte necesaria para que cese todo acto de violencia intrafamiliar, teniendo en cuenta el interés del agraviado.
-
-> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
-
-Dicha determinación implica la ejecución de las medidas de seguridad, seguimiento y terapias necesarias para la víctima y el agresor a fin de evitar, corregir y erradicar los actos de violencia intrafamiliar en términos de la ley en la materia, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 553 del Código de Procedimientos Civiles para el Estado de Sonora.
-
-> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
-
-Para tal efecto, podrá solicitar el apoyo de la Procuraduría General del Estado en los términos que lo establece la Ley de Prevención y Atención a la Violencia Intrafamiliar, para que a través de la Policía Judicial del Estado y las corporaciones de Policía y Tránsito Municipal, ejecuten las acciones y medidas preventivas necesarias para garantizar a los receptores y sus familiares la más completa protección a su integridad y seguridad personales y, en su caso, turnar a los generadores de violencia intrafamiliar a las autoridades competentes.
-
-> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
-
-El Juez de Primera Instancia, para el cumplimiento y ejecución de las determinaciones que emita provisionalmente al admitir la demanda de divorcio, podrá hacer uso de la fuerza pública y hacer ejecutar las acciones y medidas que estime pertinentes para garantizar la integridad personal, física, psíquica, moral y patrimonial de cualquiera de los cónyuges.
-
-> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
-
-En caso de que alguno de los cónyuges infrinja cualquier disposición o medida de seguridad decretada por el Juez de Primera Instancia, se hará acreedor a las sanciones que éste determine, pudiendo consistir en multa o arresto hasta por cuarenta y ocho horas.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MAYO DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 448.
 
-La sentencia de divorcio fijará la situación de los hijos, para lo cual el Juez de Primera Instancia gozará de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. Durante la substanciación del juicio se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, considerando el interés superior de éstos últimos. En todo caso protegerá y respetará el derecho de convivencia con los padres, salvo que exista peligro para el menor, conforme a las reglas siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-I.- Cuando la causa de divorcio estuviere comprendida en las fracciones III y V del artículo 425, el cónyuge culpable perderá la patria potestad, quedando el ejercicio de ésta a favor del cónyuge inocente;
-
-> <small>(REFORMADA, B.O. 17 DE MAYO DEL 2001)</small>
-
-II.- Cuando la causa de divorcio estuviere comprendida en las fracciones VII, X, XV, XIX, XXI y XXII del artículo 425, el cónyuge que no dio causa al divorcio conservará la patria potestad y el otro será suspendido en el ejercicio de la misma, quedando los hijos en poder del que solicitó el divorcio. En el supuesto de las fracciones VII, XV, XIX, XXI y XXII, el cónyuge culpable recuperará la patria potestad si se comprueba su rehabilitación y en el caso de la fracción X el ausente recuperará dicho ejercicio si se presenta, aún cuando hubiere sido declarada formalmente la presunción de muerte. En esta hipótesis se requerirá de resolución judicial;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-III.- Cuando la causa de divorcio estuviere comprendida en la fracción VI del artículo 425, ambos cónyuges conservarán la patria potestad, pero los hijos quedarán en custodia del que pidió el divorcio, excepto en el caso de impotencia incurable, supuesto en el cual se estará a lo señalado en el fracción siguiente, en cuanto a la determinación de la custodia de los hijos;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-IV.- Cuando la causa de divorcio estuviere comprendida en las fracciones I, IV, VIII, IX, XI, XII, XIII, XIV, XVI, XVII y XVIII del artículo 425, a juicio del Juez, ambos cónyuges o alguno de ellos podrán conservar o perder la patria potestad, o bien, podrán ser suspendidos en el ejercicio de la misma, debiéndose decidir a quién corresponderá la custodia de los hijos, atendiendo a las circunstancias de cada caso. Cuando en la sentencia se determine que los hijos quedarán bajo la patria potestad de uno solo de los cónyuges, a la muerte de éste, a juicio del Juez, el otro podrá recuperar la patria potestad, o bien, la misma podrá ser ejecida (sic) por los abuelos paternos o maternos que mejor aseguren el desarrollo integral de los menores;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-V.- Cuando los dos cónyuges fueren culpables, y como consecuencia de ello, se determine en la sentencia la pérdida de la patria potestad, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere, se nombrará tutor; y
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-VI.- Cuando la causa del divorcio estuviere comprendida en la fracción II del Artículo 425, el ejercicio de la patria potestad se regirá por lo dispuesto en este Código, quedando el menor al lado de la madre.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 449.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los tribunales, a petición de los abuelos, tíos o hermanos mayores, o del Ministerio Público, cualquiera providencia que se considere benéfica a los menores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 450.
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 451.
 
-El cónyuge que diere causa al divorcio, perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 452.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir en proporción a sus bienes e ingresos a las necesidades de los hijos, a la subsistencia y a la educación de éstos, en los términos del artículo 473.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 453.
 
-En los casos de divorcio necesario, el Juez, tomando en cuenta las circunstancias del caso y entre ellas la capacidad para trabajar de los cónyuges, y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente; este derecho subsistirá mientras no contraiga nuevas nupcias o se una en concubinato.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 454.
 
-En virtud del divorcio, los cónyuges recobran su entera capacidad para contraer nuevo matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de dos años, a contar desde que se decreto el divorcio.
-
-Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 455.
 
-La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 456.
 
-Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución durante quince días en las tablas destinadas al efecto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 17 DE MAYO DE 2001)</small>
 
@@ -2721,173 +2761,201 @@ Del Parentesco, de los Alimentos y de la Violencia Intrafamiliar.
 
 Del Parentesco.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 457.
 
-La ley no reconoce más parentescos que los de consanguinidad, afinidad y el civil.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 458.
 
-El parentesco de consanguinidad es el que existe entre persons (sic) que descienden de un mismo progenitor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 459.
 
-El parentesco de afinidad es el que se contrae por el matrimonio entre el varón y los parientes de la mujer y entre la mujer y los parientes del varón.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 460.
 
-El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 461.
 
-Cada generación forma un grado y la serie de grados constituye lo que se llama línea de parentesco.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 462.
 
-La línea es recta o transversal: la recta se compone de la serie de grados entre personas que descienden unas de otras; la transversal se compone de la serie de grados entre personas que, sin descender unas de otras, proceden de un progenitor o tronco común.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 463.
 
-La línea recta es ascendente o descendente: ascendente es la que liga una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atienda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 464.
 
-En la línea recta los grados se cuentan por el número de generaciones, o por el de las personas, excluyendo al progenitor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 465.
 
-En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra, o por el número de personas que hay de uno a otro de los extremos que se consideren, excluyendo la del progenitor o tronco común.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO II.
 
 De los Alimentos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 466.
 
-La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 467.
 
-Los cónyuges deben darse alimentos; la ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale. Los concubinos están obligados a darse alimentos si se satisfacen los requisitos señalados por el artículo 1443, fracción V, mientras dure el concubinato.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 468.
 
-Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 469.
 
-Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 470.
 
-A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 471.
 
-Los hermanos y demás parientes colaterales a que se refiere el artículo anterior tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 472.
 
-El adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 473.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Respecto de los menores, comprenden, además, los gastos necesarios para su educación, hasta proporcionarles un oficio, arte o profesión adecuados a sus circunstancias personales. Esta obligación se prorroga después de la mayoría de edad, si los acreedores alimentarios estudian una carrera técnica o superior, hasta el término normal necesario para concluir los estudios, si realizan los mismos sin interrupción.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 474.
 
-El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 475.
 
-El deudor alimentista no podrá pedir que se incorpore a su familia el que deba recibir los alimentos cuando se trate de un cónyuge divorciado que reciba alimentos del otro y cuando haya inconveniente legal para hacer esa incorporación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 476.
 
-Los alimentos han de ser proporcionados de acuerdo a la posibilidad del que deba darlos y a la necesidad del que deba recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un aumento automático equivalente al aumento porcentual del salario mínimo diario vigente en la zona económica de que se trate, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 477.
 
-Si fueren varios los que deban dar los alimentos y todos tuvieren posibilidad para hacerlo, el juez repartirá el importe entre ellos en proporción a sus haberes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 478.
 
-Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de los alimentos; y si uno solo la tuviere, él cumplirá únicamente la obligación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 479.
 
-La obligación de dar alimentos no comprende la de proveer de capital a los hijos para ejercer el oficio, arte o profesión a que se hubieren dedicado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 480.
 
-Tienen acción para pedir el aseguramiento de los alimentos:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- El acreedor alimentario;
-
-II.- El ascendiente que le tenga bajo su patria potestad;
-
-III.- El tutor;
-
-IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
-
-V.- El Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 481.
 
-Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 482.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza, fideicomiso o depósito de cantidad bastante a cubrir los alimentos o cualquiera otra forma de garantía suficiente a juicio del Juez.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 483.
 
-El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 484.
 
-En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 485.
 
-Cesa la obligación de dar alimentos:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Cuando el que la tiene carece de medios para cumplirla;
-
-II.- Cuando el alimentista deja de necesitar los alimentos;
-
-III.- En caso de injuria, falta o daño graves inferidos por el alimentista contra el que deba prestarlos;
-
-IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan esas causas;
-
-V.- Si el alimentista, sin consentimiento del que deba dar los alimentos, abandona la casa de éste por causas injustificables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 486.
 
-El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 487.
 
-Cuando el deudor alimentario no estuviere presente o, estándolo rehusare a entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 488.
 
-El cónyuge que se separe del otro continúa obligado a cumplir con los gastos a que se refiere el artículo 256. El que no haya dado lugar a la separación podrá pedir al Juez de Primera Instancia de su residencia que exija al otro a cumplir con esta obligación, por el tiempo que dure la separación, en la misma proporción en que lo venía haciendo hasta antes de aquélla y a pagar las deudas contraídas en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 17 DE MAYO DEL 2001)</small>
 
@@ -2895,19 +2963,15 @@ El cónyuge que se separe del otro continúa obligado a cumplir con los gastos a
 
 De la Violencia Intrafamiliar.
 
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 489.
 
-Todo integrante de la familia tiene derecho a que los demás miembros le respeten su integridad física, psíquica y sexual, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-Art. 489 BIS.- Todos los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
-
-Por violencia intrafamiliar se entiende todo acto de poder u omisión intencional dirigido a dominar, someter o agredir física, verbal, psicoemocional sexual o patrimonialmente a cualquier miembro de la familia y que pueda causar maltrato físico, verbal, psicológico, sexual o daño patrimonial, en los términos de la Ley de Prevención y Atención de la Violencia Intrafamiliar.
+Art. 489 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ## TITULO SEPTIMO.
 
@@ -2917,361 +2981,419 @@ De la Paternidad y Filiación.
 
 De los Hijos de Matrimonio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 490.
 
-Se presumen hijos de los cónyuges:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
-
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad desde que de hecho quedaron separados los cónyuges por orden judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 491.
 
-Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 492.
 
-El marido no podrá desconocer a los hijos alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 493.
 
-El marido podrá desconocer al hijo nacido después de trescientos días contados desde que judicialmente y de hecho tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste pueden sostener en tales casos que el marido es el padre.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 494.
 
-El marido no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Si se probare que supo antes de casarse el embarazo de su futura consorte; para esto se requiere un principio de prueba por escrito;
-
-II.- Si concurrió al levantamiento del acta de nacimiento y ésta fué firmada por él o contiene su declaración de no saber firmar;
-
-III.- Si ha reconocido expresamente por suyo al hijo de su mujer;
-
-IV.- Si el hijo no nació capaz de vivir.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 495.
 
-Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 496.
 
-En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 497.
 
-Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejercitado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 498.
 
-Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 499.
 
-Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 500.
 
-Si la viuda, la divorciada, o aquella cuyo matrimonio fué declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el artículo 250, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Se presume que el hijo es del primer marido si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
-
-II.- Se presume que el hijo es del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
-
-El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
-
-III.- El hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 501.
 
-El desconocimiento de un hijo de parte del marido o de sus herederos se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 502.
 
-En el juicio de contradicción de la paternidad serán oídos la madre y el hijo, a quien, si fuere menor, se proveerá de un tutor interino.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 503.
 
-Para los efectos legales sólo se reputa nacido el feto que, desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias nunca ni nadie podrá entablar demanda sobre la paternidad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 504.
 
-No puede haber sobre la filiación ni transacción ni compromiso en árbitros.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 505.
 
-Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO II.
 
 De las Pruebas de la Filiación de los Hijos Nacidos de Matrimonio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 506.
 
-La filiación de los hijos nacidos de matrimonio se prueba con la partida de su nacimiento y con el acta de matrimonio de sus padres.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 507.
 
-A falta de actas o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que la ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Si uno solo de los registros faltare o estuviere inutilizado y existe el duplicado, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 508.
 
-Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y mujer, y ambos hubieren fallecido, o por ausencia o enfermedad les fuere imposible manifestar el lugar en que se casaron, no podrá disputarse a esos hijos haber nacido de matrimonio por sólo la falta de presentación del acta del enlace de sus padres, siempre que se pruebe que tienen la posesión de estado de hijos de ellos o que, por los medios de prueba que autoriza el artículo anterior, se demuestre la filiación y no esté contradicha por el acta de nacimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 509.
 
-Si un individuo ha sido reconocido constantemente como hijo de matrimonio por la familia del marido y en la sociedad, quedará probada la posesión de estado de hijo de matrimonio si además concurre alguna de las circunstancias siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Que el hijo haya usado constantemente el apellido del que pretende que es su padre con anuencia de éste;
-
-II.- Que el padre lo haya tratado como a hijo nacido en su matrimonio, proveyendo a su subsistencia, educación y establecimiento;
-
-III.- Que el presunto padre tenga la edad exigida por el artículo 527.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 510.
 
-Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se considerarán como hijos de matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 511.
 
-No basta el dicho de la madre para excluir de la paternidad al marido. Mientras que éste viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 512.
 
-Las acciones civiles que se intenten contra el hijo por los bienes que ha adquirido durante su estado de hijo nacido de matrimonio, aunque después resulte no serlo, se sujetarán a las reglas comunes para la prescripción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 513.
 
-La acción que compete al hijo para reclamar su estado es imprescriptible para él y sus descendientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 514.
 
-Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Si el hijo ha muerto;
-
-II.- Si el hijo cayó en estado de demencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 515.
 
-Los herederos podrán continuar la acción intentada por el hijo, a no ser que éste se hubiere desistido formalmente de ella o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-También podrán contestar toda demanda que tenga por objeto disputarle la condición de hijo nacido de matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 516.
 
-Los acreedores, legatarios y donatarios tendrán los mismos derechos que a los herederos conceden los artículos 514 y 515, si el hijo no dejó bienes suficientes para pagarles.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 517.
 
-Las acciones de que hablan los artículos 513 a 515, son imprescriptibles y podrán intentarse tanto durante la vida de los padres como después de su muerte.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 518.
 
-La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia ejecutoriada, la cual admitirá los recursos que den las leyes en los juicios de mayor interés.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 519.
 
-Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio sin que preceda sentencia por la cual deba perderlos, podrá usar de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO III.
 
 De la Legitimación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 520.
 
-El matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 521.
 
-Para que el hijo goce del derecho que le concede el artículo que precede, los padres deben reconocerlo expresamente antes de la celebración del matrimonio, en el acto mismo de celebrarlo o durante él, haciendo en todo caso el reconocimiento ambos padres, junta o separadamente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 522.
 
-Si el hijo fue reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales. Tampoco se necesita reconocimiento del padre, si ya se expresó el nombre de éste en el acta de nacimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 523.
 
-Aunque el reconocimiento sea posterior, los hijos adquieren todos sus derechos desde el día en que se celebró el matrimonio de sus padres.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 524.
 
-Pueden gozar también del derecho que les concede el artículo 520 los hijos que ya hayan fallecido al celebrarse el matrimonio de sus padres, si dejaron descendientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 525.
 
-Pueden gozar también de ese derecho los hijos no nacidos si el padre al casarse declara que reconoce al hijo de quien la mujer está encinta, o que lo reconoce si aquélla estuviere encinta.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO IV.
 
 Del Reconocimiento de los Hijos Nacidos Fuera del Matrimonio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 526.
 
-La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre, del sólo hecho del nacimiento. Para justificar este hecho son admisibles todos los medios de prueba, y en los juicios de intestado o de alimentos se justificará la filiación respecto a la madre dentro del mismo procedimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Respecto del padre, la filiación sólo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad. En el juicio respectivo son admisibles todos los medios de prueba y bastará que se acredite debidamente la posesión de estado de hijo respecto al presunto padre, en los términos a que se refieren los artículos 549 y 550, para que se declare debidamente comprobada la filiación. En el caso de concubinato, se podrá justificar la filiación respecto del padre en el mismo juicio de intestado o de alimentos y será suficiente probar los hechos a que se refiere el artículo 549, tanto en vida de los padres como después de su muerte. Esta acción es transmisible por herencia e imprescriptible.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 527.
 
-Pueden reconocer a sus hijos los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 528.
 
-El menor de edad no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentren, o a falta de ésta, sin la autorización judicial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 529.
 
-No obstante, el reconocimiento hecho por un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayor edad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 530.
 
-Puede reconocerse al hijo que no haya nacido y al que ha muerto si ha dejado descendencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 531.
 
-Los padres pueden reconocer a su hijo conjunta o separadamente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 532.
 
-El reconocimiento hecho por uno de los padres produce efectos respecto de él y no respecto del otro progenitor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 533.
 
-El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque no se tiene por revocado el reconocimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 534.
 
-El reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 535.
 
-El reconocimiento de un hijo nacido fuera de matrimonio deberá hacerse de alguno de los modos siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- En la partida de nacimiento ante el Oficial del Registro Civil;
-
-II.- Por acta especial ante el mismo Oficial;
-
-III.- Por escritura pública;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-IV.- Por testamento;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-V.- Por confesión judicial directa y expresa;
-
-> <small>(ADICIONADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-VI.- En el acto del matrimonio de los padres; en este caso los padres tienen el deber de hacer el reconocimiento. Este deber subsiste aunque el hijo haya fallecido ya al celebrarse el matrimonio, si dejó descendientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 536.
 
-Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fué habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación se testarán de oficio, de modo que queden absolutamente ilegibles.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 537.
 
-El Oficial del Registro Civil, el Juez de Primera Instancia, en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 538.
 
-La mujer casada podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del marido; pero no tendrá derecho a llevarlo a vivir al domicilio conyugal si no es con el consentimiento expreso del esposo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 539.
 
-El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal si no es con el consentimiento expreso de la esposa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 540.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 541.
 
-El hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor, si lo tiene, o el del tutor que el juez le nombrará especialmente para el caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 542.
 
-Si el hijo reconocido es menor, puede reclamar contra el reconocimiento cuando llegue a la mayor edad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 543.
 
-El término para deducir esta acción será de dos años, que comenzarán a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 544.
 
-La mujer que cuida o ha cuidado de la lactancia de un niño a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días contados desde que tuvo conocimiento de él.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 545.
 
-Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 546.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la patria potestad, y en caso de que no lo hicieren, el juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 547.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no vivan juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 548.
 
-La investigación de la paternidad de los hijos nacidos fuera de matrimonio está permitida:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
-
-II.- Cuando el hijo está o haya estado en posesión de estado de hijo respecto al presunto padre;
-
-III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre hacia vida marital con el presunto padre;
-
-IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre;
-
-V.- Cuando el hijo haya sido alimentado por el presunto padre.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 549.
 
-Se presumen hijos del concubinario y de la concubina:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
-
-II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 550.
 
-La posesión de estado, para los efectos de la fracción II del artículo 548, se justificará demostrando por los medios ordinarios de prueba que el hijo ha sido tratado por el presunto padre o por su familia como hijo del primero y que éste ha proveído a su subsistencia, educación y establecimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 551.
 
-Está permitido al hijo nacido fuera de matrimonio y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios, pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 552.
 
-No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o criminal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 553.
 
-El hecho de dar alimentos constituye por sí solo una presunción juris tantum de paternidad o maternidad, que debe relacionarse con las demás pruebas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 554.
 
-Las acciones de investigación de paternidad o maternidad sólo pueden intentarse en vida de los padres. Si los padres hubieren fallecido durante la menor edad de los hijos, éstos tienen derecho de intentar la acción en todo tiempo, siendo imprescriptible para ellos y sus herederos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 555.
 
-El hijo reconocido por el padre, por la madre o por ambos, así como el que haya acreditado su filiación en los términos de los artículos precedentes tiene derecho:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- A llevar el apellido del que lo reconoce, o respecto del cual haya acreditado su filiación;
-
-II.- A ser alimentado por su progenitor;
-
-III.- A percibir la porción hereditaria que fija la ley, o en su caso los alimentos correspondientes, si no fuere instituido heredero en el caso de sucesión testamentaria.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 556.
 
-La acción que compete al hijo nacido fuera de matrimonio para reclamar su estado puede ser intentada por éste o sus herederos, si murió antes de cumplir veinticinco años, o si cayó en estado de incapacidad de ejercicio antes de esa edad, muriendo después en el mismo estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO V.
 
@@ -3281,75 +3403,59 @@ De la Adopción.
 
 Disposiciones Generales de la Adopción.
 
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 557.
 
-La adopción es un acto jurídico por el cual, una o (sic) persona o una pareja matrimonial o concubinaria asume recíprocamente, respecto de uno o varios menores o incapacitados, los derechos y obligaciones inherentes a un hijo biológico o consanguíneo. Cuando se trate de hermanos se procurará que sean entregados en adopción a la misma persona o pareja de adoptantes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-La adopción puede ser plena o simple. Esta última podrá convertirse en plena cuando llene los requisitos de ley, debiendo tramitarse conforme a las disposiciones del Código de Procedimientos Civiles.
-
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 558.
 
-Cualquiera que sea el tipo de adopción, el adoptante tendrá respecto de la persona y los bienes del menor o incapacitado, los mismos derechos y obligaciones que existen en el vínculo consanguíneo. Podrá darle nombre y sus apellidos al adoptado, pidiendo que se hagan las anotaciones correspondientes en el acta de nacimiento o de adopción. La adopción producirá sus efectos, aunque sobrevengan hijos al adoptante.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 559.
 
-El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar a un menor o a un incapacitado, siempre que tenga cuando menos diecisiete años más que el adoptado. El Juez puede dispensar este requisito cuando la adopción resulte benéfica para el adoptado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 560.
 
-Los cónyuges podrán adoptar, cuando ambos estén conformes en considerar al adoptado como hijo, aunque sólo uno de ellos cumpla con los requisitos de la edad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Un cónyuge puede adoptar a los hijos del otro, ejerciendo ambos la patria potestad, cuando éste último tenga el ejercicio exclusivo de dicha potestad. En caso contrario, el otro progenitor deberá también autorizar la adopción.
-
-Los concubinos podrán adoptar en las mismas circunstancias, probando en jurisdicción voluntaria que han cohabitado públicamente durante más de cinco años o han procreado a un hijo. En caso de disolución del vínculo concubinario, los hijos menores de siete años permanecerán con la madre, en los mismos términos que en la nulidad y el divorcio, debiendo plantearse por vía judicial la custodia y el derecho a una adecuada comunicación de ambos adoptantes.
-
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 561.
 
-El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 562.
 
-Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- El que ejerce la patria potestad sobre el menor o incapacitado que se trate de adoptar;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-II.- El tutor del que se va a adoptar, entendiendo que los directores de Centros de Custodia Infantil son tutores de pleno derecho de los menores o incapacitados bajo su protección;
+Art. 562 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-III.- La persona que haya acogido durante más de un año al que se pretende adoptar y lo trate como a un hijo, cuando no hubiere quien ejerza sobre él la patria potestad o la tutela, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando no se actualice alguna de las hipótesis anteriores.
+Art. 562 TER.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Si el menor que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción.
-
-> <small>(ADICIONADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
-
-Art. 562 BIS.- La persona que haya tenido al menor o incapaz bajo su custodia y protección por un período superior a un año, tendrá un derecho preferente para adoptarlo, probando la orfandad o el abandono del menor.
-
-> <small>(ADICIONADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
-
-Art. 562 TER.- Si el tutor o el Ministerio Público no consienten en la adopción, deberán expresar la causa en que se funden, la que será calificada por el Juez, tomando en cuenta los intereses del menor o incapacitado y oyendo también al Sistema Estatal para el Desarrollo Integral de la Familia.
-
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 563.
 
-En los casos de menores o incapacitados, deberá tramitarse previamente la pérdida de la patria potestad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-Art. 563 BIS.- Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada, y no podrá revocarse sino en los casos previstos en este Código para la adopción simple, debiéndose remitir copia de las diligencias respectivas al Oficial del Registro Civil del lugar, para que levante el acta correspondiente.
+Art. 563 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 > <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -3357,67 +3463,47 @@ Art. 563 BIS.- Tan luego como cause ejecutoria la resolución judicial que se di
 
 De la Adopción Simple.
 
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 564.
 
-La adopción simple sólo puede constituirse cuando se conozca a la familia biológica del adoptado. Sólo crea un vínculo jurídico de parentesco entre el adoptado y el adoptante.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-Art. 564 BIS.- Los descendientes del adoptado lo son también del adoptante, sin necesidad de resolución judicial. En el acta de nacimiento de éstos no se hará mención del carácter adoptivo de los ascendientes.
+Art. 564 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-Art. 564 TER.- Los derechos y obligaciones que resultan del parentesco consanguíneo o biológico no se extinguen por la adopción, excepto la patria potestad que será transferida al adoptante, salvo que esté casado con el progenitor del adoptado, ya que entonces se ejercerá por ambos cónyuges.
+Art. 564 TER.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Mientras dure el vínculo adoptivo quedará en suspenso los derechos entre la familia de origen y el adoptado.
-
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 565.
 
-La adopción simple termina:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Por mutuo consentimiento del adoptante y adoptado, cuando éste halla cumplido la mayoría de edad, o en su defecto de las personas que prestaron su consentimiento para la adopción;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-II.- Por impugnación del adoptado, y
+Art. 565 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-III.- Por revocación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+Art. 565 TER.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Art. 565 BIS.- En el primer caso del artículo anterior, el Juez decretará disuelta la adopción si, convencido de la espontaneidad con que se solicito su terminación, encuentra que la disolución del vínculo es conveniente para los intereses morales y materiales del adoptado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+Art. 565 QUATER.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Art. 565 TER.- El menor o el incapacitado podrán impugnar su adopción, dentro del año siguiente a la mayor edad o a la fecha en que halla desaparecido la incapacidad, sin especificación de causa, a menos que el primero hubiese consentido en la adopción.
-
-> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
-
-Art. 565 QUATER.- La adopción puede revocarse judicialmente:
-
-I.- Por ingratitud del adoptado, y
-
-II.- Cuando el adoptante incurra en alguna de las causas que hacen perder la patria potestad.
-
-La revocación debe plantearse por el adoptante, en el primer caso, o por el Ministerio Público o parte interesada en el segundo, pero siempre será oído el Sistema Estatal para el Desarrollo Integral de la Familia.
-
-> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001 )</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 566.
 
-Se considera ingrato al adoptado, con efectos retroactivos al acto imputado:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Cuando cometa un delito intencional contra la persona, la honra o los bienes del adoptante de su cónyuge, de sus ascendientes o descendientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-II.- Cuando el adoptado formule denuncia o querella contra el adoptante por algún delito, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes, y
-
-III.- Cuando el adoptado se rehuse injustificadamente a dar alimentos al adoptante que ha caído en pobreza.
-
-> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
-
-Art. 566 BIS.- El decreto del Juez dejando sin efecto la adopción, restituye las cosas al estado que guardaban antes de constituir dicho vínculo, y deberá comunicarse a la familia de origen y al Oficial del Registro Civil del lugar de la adopción, para que cancele el acta respectiva.
+Art. 566 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 > <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -3425,59 +3511,49 @@ Art. 566 BIS.- El decreto del Juez dejando sin efecto la adopción, restituye la
 
 De la Adopción Plena.
 
-> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001 )</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 567.
 
-La adopción plena crea entre los adoptantes y el adoptado, el mismo vinculo jurídico que ligan a los padres con sus hijos biológicos, entrando el adoptado a formar parte de la familia consanguínea del adoptante, con todos los efectos legales, al tiempo que se extingue la relación con la familia de origen, por lo que se aplican íntegramente las disposiciones sobre parentesco genético.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 568.
 
-El adoptado en forma plena se desvincula totalmente de su familia consanguínea, por lo que no le serán exigibles las obligaciones derivadas de este tipo de parentesco, ni tendrá derecho alguno respecto de esos mismos parientes, quedando vigentes, sin embargo, respecto de la familia de origen, los impedimentos matrimoniales previstos en este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-Art. 568 BIS.- Podrán adoptar plenamente los dos cónyuges que vivan juntos, siempre que llenen los requisitos de edad y solvencia previstos en este Código, así como los concubinos que cumplan además las condiciones del artículo 560.
+Art. 568 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-No procede la adopción plena entre quienes tengan parentesco consanguíneo hasta cuarto grado de la línea colateral.
-
-> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 569.
 
-Podrán ser adoptados en forma plena:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los menores o incapaces, cuando los que ejerzan la patria potestad otorguen ante el Juez su voluntad, después de ser informados sobre las consecuencias de este tipo de adopción;
-
-II.- Los menores o incapaces, que hubieran vivido más de un año con los solicitantes de la adopción, recibiendo el trato de un hijo, con total desvinculación de sus progenitores;
-
-III.- Los menores o incapaces huérfanos, abandonados o de padres desconocidos, y
-
-IV.- Los menores o incapaces cuyos padres hubiesen perdido la patria potestad, siempre que no existan ascendientes que la ejerzan.
-
-> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 570.
 
-La adopción plena no puede terminar por acuerdo entre las partes, ni por impugnación o revocación, pero puede demandarse la pérdida de la patria potestad por las mismas causas que en la filiación biológica, o pedirse su nulidad absoluta cuando los padres adoptivos hayan ocultado de mala fe que el menor no había sido abandonado, sino que se hallaba perdido o víctima de cualquier delito contra la libertad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-Art. 570 BIS.- Los casos en que procede la adopción plena deben ser constatados judicialmente. En las hipótesis de abandono o desvinculación de los padres consanguíneos, debe seguirse un juicio de pérdida de la patria potestad antes de otorgar la adopción.
+Art. 570 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 571.
 
-Cuando el Tribunal tenga duda o no juzgue conveniente otorgar la adopción plena, concederá a los solicitantes la adopción simple y la posibilidad de convertirla en plena pasado el término de dos años, si durante este se han cumplido cabalmente los requisitos de protección, afecto y educación del adoptado, según informe del Sistema Estatal para el Desarrollo Integral de la Familia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 572.
 
-Cuando se otorgue la adopción plena, el Juez ordenará al Oficial del Registro Civil que expida una nueva acta de nacimiento al menor o incapacitado, en la que aparezcan sus padres adoptivos como progenitores, sin ninguna mención al carácter adoptivo de la filiación. Los antecedentes serán guardados en el secreto del archivo y cancelada el acta de nacimiento original, sin que pueda otorgarse información sobre los antecedentes registrales del adoptado, a no ser por resolución judicial o solicitud del Ministerio Público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 > <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -3485,19 +3561,17 @@ Cuando se otorgue la adopción plena, el Juez ordenará al Oficial del Registro 
 
 De la Adopción Internacional.
 
-> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 573.
 
-La adopción hecha por extranjeros o por mexicanos que residan permanentemente en otro país, se regirá por la Convención Interamericana sobre Conflictos de Leyes en Materia de Adopción de Menores, la Convención de La Haya Sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional y cualquier otro instrumento internacional sobre el tema, vigente en la República Mexicana, así como lo dispuesto en la Ley General de Población y en las Leyes del Estado de Sonora. La adopción internacional será siempre plena.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 574.
 
-La adopción simple, concedida por los Tribunales del Estado de Sonora a extranjeros o a mexicanos radicados en otro país, puede convertirse en adopción plena si, dos años después de otorgada, él o los adoptantes solicitan expresamente su conversión, presentando certificación de la misma institución que avaló su capacidad para adoptar, de la que se desprende el cumplimiento de las obligaciones contraídas y la vinculación afectiva del menor, así como la subsistencia de las condiciones para recibir en adopción.
-
-El Juez concederá la petición con audiencia del Ministerio Público, del adoptado si fuese mayor de doce años y de las personas o autoridades que consintieron originalmente en la adopción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 > <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -3505,11 +3579,11 @@ El Juez concederá la petición con audiencia del Ministerio Público, del adopt
 
 De la Adopción de Extranjeros.
 
-> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 575.
 
-La adopción de extranjeros radicados legalmente en México, se regirá por las disposiciones aplicables a los mexicanos, pero en el caso de menores o incapacitados sujetos a la tutela del Sistema Estatal para el Desarrollo Integral de la Familia o de cualquier institución encargada de la custodia de menores abandonados o huérfanos se preferirá, en igualdad de circunstancias, a los mexicanos frente a los extranjeros.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 > <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -3517,29 +3591,21 @@ La adopción de extranjeros radicados legalmente en México, se regirá por las 
 
 De la Conversión de la Adopción Simple.
 
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 576.
 
-La adopción simple otorgada por cualquier tribunal de la República, podrá convertirse en adopción plena si los solicitantes están domiciliados en el Estado de Sonora, ha transcurrido más de un año de la adopción y prueban que han protegido y educado con afecto al adoptado, siempre que subsistan las aptitudes físicas, morales, psicológicas y económicas que se requieren para establecer el vínculo, según informe del Sistema Estatal para el Desarrollo Integral de la Familia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 29 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-La solicitud de conversión debe estar suscrita por los promoventes de la adopción simple, debiendo el Juez recabar el consentimiento de la persona o autoridad que otorgó su consentimiento; en caso de ausencia u oposición infundada, el Juez de la Adopción puede suplir el consentimiento.
+Art. 576 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, B.O. 29 DE ABRIL DE 2004)</small>
-
-Si el menor respecto al cual se solicita llevar a cabo la con versión de adopción simple a plena es mayor de doce años, también se necesita su consentimiento para la conversión.
-
-> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
-
-Art. 576 BIS.- En todo caso, la persona que autorice la conversión deberá ratificar su consentimiento ante el Juez, después de ser informada sobre las modalidades de la adopción plena.
-
-> <small>(REFORMADO, B. O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 577.
 
-Autorizada la conversión de la adopción, el Juez ordenará al Oficial del Registro Civil que cancele el acta de adopción y expida un acta de nacimiento al o los adoptantes en los términos el artículo 572 de este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ## TITULO OCTAVO.
 
@@ -3549,289 +3615,249 @@ De la Patria Potestad.
 
 De los Efectos de la Patria Potestad Respecto de la Persona de los Hijos.
 
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 578.
 
-En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad, condición y sexo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 579.
 
-Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 580.
 
-La patria potestad es el conjunto de derechos y obligaciones reconocidos por la ley a los ascendientes, en relación con sus descendientes; su ejercicio implica el cuidado, protección y educación de los menores, así como la correcta administración de sus bienes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 581.
 
-La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la madre. A falta de padres, ejercerán la patria potestad sobre el hijo menor o incapacitado, los abuelos paternos o maternos que mejor garanticen la protección y desarrollo de su descendiente, a criterio del juez competente, tomando en cuenta las circunstancias del caso, así como la opinión del menor que esté en condiciones de expresarla y la de cualquier persona que el juez estime conveniente escuchar, en beneficio del propio menor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Tratándose de hijos monoparentales, cuando el progenitor muera, la patria potestad se ejercerá automáticamente por los abuelos que correspondan.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-Cuando se presenten situaciones de abandono o peligro para el menor o incapacitado, los abuelos paternos y maternos deberán salvaguardar su interés superior, realizando los actos de protección, asistencia o convivencia que el mismo necesite. Cuando los abuelos paternos y maternos no cumplan con estas obligaciones y no justifiquen su incumplimiento, perderán el derecho a obtener la patria potestad respecto del menor.
+Art. 581 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, B.O. 28 DE AGOSTO DE 2008)</small>
-
-Art. 581 BIS.- A partir de la muerte de los padres, la custodia y representación de los hijos se ejercerá automáticamente de manera provisional por los abuelos que tengan su domicilio en la misma población de los menores o incapacitados, sin perjuicio de que lleguen a acuerdos con abuelos que residan en lugares distintos. Si los abuelos paternos y matemos habitan en la misma población donde tenga su domicilio el menor o incapacitado, o cuando aquéllos residan en lugares distintos, la custodia provisional se ejercerá automáticamente por los ascendientes maternos a reserva de que el juez competente designe definitivamente a los abuelos que mejor garanticen el desarrollo integral del menor o incapacitado, atendiendo a lo dispuesto en el párrafo primero del artículo 581 de este Código.
-
-Cuando exista controversia respecto de la custodia que debe ejercerse sobre menores acogidos en instituciones públicas de asistencia social, el juez determinará a quién deba asignarse en forma provisional, hasta en tanto se resuelva en definitiva lo que corresponda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 582.
 
-Cuando los dos progenitores han reconocido al hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Si viven separados, se observará en su caso lo dispuesto en los artículos 546 y 547.
-
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 583.
 
-En los casos previstos por los artículos 546 y 547, cuando por cualquier circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercer el otro, a no ser que se encuentre impedido legalmente, en cuyo caso, el Juez de Primera Instancia procederá conforme a lo dispuesto en este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 584.
 
-Cuando los padres del hijo nacido fuera de matrimonio, que vivan juntos, se separen, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el Juez de Primera Instancia, teniendo siempre en cuenta los intereses del hijo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
-
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 585.
 
-Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos, así declarado por el Juez de Primera Instancia en los términos de lo establecido en el capítulo relativo a la violencia intrafamiliar.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el Juez de Primera Instancia resolverá lo conducente en atención al interés superior del menor. Solo por mandato judicial podrá suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
-
-Las obligaciones, facultades, y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor. Quien conserva la patria potestad tendrá la obligación de contribuir con el pariente que custodia al menor en todos sus deberes, conservando sus derechos de convivencia y vigilancia.
-
-La anterior custodia podrá terminar por decisión del pariente que la realiza, por quien o quienes ejercen la patria potestad o por resolución judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 586.
 
-La patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 587.
 
-Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 588.
 
-Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen, sin permiso de ellos o decreto de la autoridad competente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 589.
 
-A las personas que tienen al menor bajo su patria potestad o custodia incumbe la obligación de cuidarlo, protegerlo y educarlo convenientemente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Cuando llegue a conocimiento de los Consejos Locales de Tutela, de cualquier persona o autoridad administrativa que los responsables no cumplen con la obligación referida, lo avisarán al Ministerio Público y a la Procuraduría de la Defensa del Menor y de la Familia para que promuevan lo que corresponda.
-
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 590.
 
-Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 489 bis de este Código.
-
-Las autoridades, en caso necesario auxiliarán a esas personas haciendo uso de amonestaciones que presten el apoyo suficiente a la autoridad paterna y orientándolas para que acudan a la institución correspondiente a recibir la asistencia adecuada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 591.
 
-El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO II.
 
 De los Efectos de la Patria Potestad Respecto de los Bienes del Hijo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 592.
 
-Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 593.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, los dos conjuntamente serán los administradores de los bienes del menor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 594.
 
-Las personas que ejerzan la patria potestad representarán también a los menores en juicio; si dentro del juicio se nombrare representante común a alguna de ellas, no podrá ésta celebrar ningún arreglo para terminarlo sin el consentimiento expreso de su consorte y con la autorización judicial cuando la ley lo requiera expresamente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 595.
 
-Los bienes del hijo, mientras esté en la patria potestad, se dividen en dos clases:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Bienes que adquiera por su trabajo;
-
-II.- Bienes que adquiera por cualquier otro título.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 596.
 
-Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al hijo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 597.
 
-En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 598.
 
-Los padres pueden renunciar su derecho a la mitad del usufructo, haciendo constar su renuncia por escrito o de cualquier otro modo que no deje lugar a duda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 599.
 
-La renuncia del usufructo hecha en favor del hijo se considerar (sic) como donación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 600.
 
-Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo, pertenecen a éste y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 601.
 
-El usufructo de los bienes concedido a las personas que ejerzan la patria potestad llevará consigo las obligaciones que expresa el Capítulo II del Título Sexto, y, además, las impuestas a los usufructuarios, con excepción de la obligación de dar fianza, fuera de los casos siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Cuando los que ejerzan la patria potestad han sido declarados en quiebra o estén concursados;
-
-II.- Cuando contraigan ulteriores nupcias;
-
-III.- Cuando su administración sea notoriamente ruinosa para los hijos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 602.
 
-Cuando por la ley o por la voluntad del padre, el hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 603.
 
-Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles y los muebles preciosos que correspondan al hijo sino por causa de absoluta necesidad o de evidente beneficio y previa la autorización del juez competente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por mas de dos años; vender valores comerciales, industriales, títulos de renta, acciones, frutos y ganados por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos, ni dar fianza en representación de los hijos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 604.
 
-Siempre que el juez conceda licencia a los que ejercen la patria potestad para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó y para que el resto lo invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él sin orden judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 605.
 
-El derecho de usufructo concedido a las personas que ejercen la patria potestad se extingue:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Por la emancipación o la mayor edad de los hijos;
-
-II.- Por la pérdida de la patria potestad;
-
-III.- Por renuncia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 606.
 
-Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los hijos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 607.
 
-En todos los casos en que las personas que ejerzan la patria potestad tengan un interés opuesto al de los hijos, serán éstos representados, en juicio y fuera de él, por un tutor nombrado por el juez para cada caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 608.
 
-Los jueces tienen facultad para tomar las medidas necesarias para impedir que, por la mala administración de quienes ejerzan la patria potestad, los bienes del hijo se derrochen o se disminuyan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Minisherio (sic) Público en todo caso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 609.
 
-Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes o frutos que les pertenecen.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO III.
 
 De los Modos de Acabarse y Suspenderse la Patria Potestad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 610.
 
-La patria potestad se acaba:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
-
-II.- Con la emancipación;
-
-III.- Por la mayor edad del hijo.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 611.
 
-La patria potestad se pierde por resolución judicial:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADA, B.O. 17 DE MAYO DEL 2001)</small>
-
-I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
-
-II.- En los casos de divorcio teniendo en cuenta lo que dispone el artículo 448;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-III.- Por el solo hecho de que, por las costumbres depravadas, malos tratamientos o abandono de los deberes del que la ejerce, pueda comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la Ley Penal; y (sic)
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-IV.- Por la exposición que de los menores hiciere quien ejerza la patria potestad;
-
-ADICIONADA, B.O. 17 DE MAYO DEL 2001)
-
-V.- Cuando el que la ejerza sea condenado por la comisión de un delito en el que la víctima sea el menor;
-
-> <small>(REFORMADA, B.O. 29 DE ABRIL DE 2004)</small>
-
-VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave, siempre que, a criterio del Juez, pueda poner en peligro la persona o bienes del menor; y
-
-> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
-
-VII.- Cuando quien la ejerza deje de asistir o convivir injustificadamente con el menor por más de treinta días naturales, cuando éste se encuentre acogido en una institución pública de asistencia social.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 612.
 
-La madre o abuela que pase a segundas nupcias no pierde por este hecho la patria potestad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 613.
 
-El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 614.
 
-La patria potestad se suspende:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Por incapacidad declarada judicialmente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
+Art. 614 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-II.- Por la ausencia declarada en forma;
-
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-III.- Por la sentencia condenatoria que imponga como pena esta suspensión; y
-
-> <small>(ADICIONADA, B.O. 9 DE AGOSTO DE 1990)</small>
-
-IV.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 448.
-
-> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
-
-Art. 614 BIS.- La patria potestad podrá perderse, limitarse o suspenderse, cuando el que la ejerce incurra en conductas de violencia intrafamiliar previstas en el artículo 489 bis de este Código, en contra de las personas sobre las cuales la ejerza o de sus familiares.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 615.
 
-La patria potestad no es renunciable; pero aquellos a quienes corresponda ejercerla pueden excusarse:
-
-I.- Cuando tengan sesenta años cumplidos;
-
-II.- Cuando por su mal estado habitual de salud no puedan atender debidamente a su desempeño.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ## TITULO NOVENO.
 
@@ -3841,975 +3867,1155 @@ De la Tutela.
 
 Disposiciones Generales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 616.
 
-El objeto de la tutela es la guarda de la persona y bienes de los que, no estando sujetos a patria potestad, tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del artículo 580.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 617.
 
-Tienen incapacidad natural y legal:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los menores de edad;
-
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
-
-III.- Los sordomudos que no saben leer ni escribir;
-
-IV.- Los ebrios consuetudinarios y los que habitualmente hacen uso inmoderado de drogas enervantes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 618.
 
-Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo 808.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 619.
 
-La tutela es un cargo de interés público del que nadie puede eximirse sino por causa legítima.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 620.
 
-El que rehusare sin causa legal a desempeñar el cargo de tutor es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 621.
 
-La tutela se desempeñará por el tutor con intervención del curador y del Consejo Local de Tutelas, en los términos establecidos en este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 622.
 
-Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 623.
 
-El tutor y el curador pueden desempeñar, respectivamente, la tutela o la curatela hasta de tres incapaces. Si éstos son hermanos, o son coherederos y legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean más de tres.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 624.
 
-Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del juez, quien nombrará un tutor especial que defienda los intereses de los incapaces, que él mismo designe, mientras se decide el punto de la oposición.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 625.
 
-Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta o dentro del cuarto grado de la colateral.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-No pueden ser nombrados tutores o curadores las personas que integren los Consejos Locales de Tutela, ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en línea recta, sin limitación de grado, y en la colateral dentro del cuarto grado, inclusive.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 626.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario, y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al juez dentro de ocho días, a fin de que provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los jueces de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 627.
 
-La tutela es testamentaria, legítima o dativa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 628.
 
-Ninguna tutela puede conferirse sin que previamente se declare, en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 629.
 
-Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 630.
 
-El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores mientras no llegue a la mayor edad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 631.
 
-Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 632.
 
-El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinario o de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercido por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercicio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 633.
 
-La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará conforme a las mismas reglas establecidas para declarar la interdicción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 634.
 
-El Juez de Primera Instancia del domicilio del incapacitado, y si no lo hubiere el Juez local, siempre con intervención del Ministerio Público, cuidará provisionalmente de la persona y bienes del incapacitado hasta que se nombre tutor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 635.
 
-El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO II.
 
 De la Tutela Testamentaria.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 636.
 
-El ascendiente que sobreviva de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 581 tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquéllos sobre quienes la ejerza con inclusión del hijo póstumo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 637.
 
-El nombramiento de tutor testamentario, hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 638.
 
-Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 639.
 
-El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, puede nombrarle tutor solamente para la administración de los bienes que le deja. Aun cuando en la disposición testamentaria correspondiente se prevenga que el beneficiario no reciba los productos del capital dejado en herencia o legado, no subsistirá dicha disposición en lo estrictamente indispensable para satisfacer las necesidades alimentarias del menor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 640.
 
-Si fueren varios los menores, podrá nombrárseles un tutor común o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 624.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 641.
 
-El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario si la madre ha fallecido o no puede legalmente ejercer la tutela.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 642.
 
-En ningún otro caso hay lugar a la tutela testamentaria del incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 643.
 
-Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrado, a quien substituirán los demás, por el orden de su nombramiento, en los casos de muerte, incapacidad, excusa o remoción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 644.
 
-Lo dispuesto en el artículo anterior no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 645.
 
-Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes; a no ser que el juez, oyendo al tutor y al curador, las estime dañosas a los menores, en cuyo caso podrá dispensarlas o modificarlas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 646.
 
-Si por un nombramiento condicional de tutor o por algún otro motivo faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 647.
 
-El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO III.
 
 De la Tutela Legítima de los Menores.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 648.
 
-Ha lugar a tutela legítima:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Cuando no haya quien ejerza la patria potestad, ni tutor testamentario;
-
-II.- Cuando deba nombrarse tutor por causa de divorcio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 649.
 
-La tutela legítima corresponde:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
-
-II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado, inclusive.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 650.
 
-Si hubiere varios parientes del mismo grado, el juez eligirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años, él hará la elección.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 651.
 
-La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO IV.
 
 De la Tutela Legitima de los Dementes, Idiotas, Imbéciles, Sordomudos, Ebrios, y de los que Habitualmente Abusan de las Drogas Enervantes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 652.
 
-El marido es tutor legítimo y forzoso de su mujer y ésta lo es de su marido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 653.
 
-Los hijos mayores de edad son tutores de su padre o madre libres de matrimonio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 654.
 
-Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el juez eligirá al que le parezca más apto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 655.
 
-El padre, y por muerte o incapacidad de éste, la madre, son de derecho tutores de sus hijos libres de matrimonio cuando éstos no tengan hijos que puedan desempeñar la tutela.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 656.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- El abuelo paterno, el materno, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 649; observándose, en su caso, lo que dispone el artículo 650.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 657.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad será también tutor de ellos si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO V.
 
 De la Tutela Legítima de los Menores Abandonados y de los Acogidos por Alguna Persona, o Depositados en Establecimientos de Beneficencia.
 
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 658.
 
-La ley coloca a los expósitos y abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Se considera expósito al menor que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a la custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor cuyo origen se conoce, se considerará abandonado.
-
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 659.
 
-Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban a expósitos o abandonados, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que provengan los estatutos de la institución. En este caso no es necesario el discernimiento del cargo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 660.
 
-Los responsables de las casas de asistencia, donde se reciban menores que hayan sido objeto de la violencia intrafamiliar a que se refiere el artículo 489 bis de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia intrafamiliar.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO VI.
 
 De la Tutela Dativa.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 661.
 
-La tutela dativa tiene lugar:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Cuando no hay tutor testamentario ni persona a quien, conforme a la ley, corresponda la tutela legítima;
-
-II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo y no hay ningún pariente de los designados en el artículo 649.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 662.
 
-El tutor dativo será designado por el menor si ha cumplido dieciséis años. El juez confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del Consejo Local de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 663.
 
-Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el juez de entre las personas que figuren en la lista formada cada año por el Consejo Local de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 664.
 
-Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esta falta.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 665.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 666.
 
-A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, del mismo menor y aun de oficio por el juez.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 667.
 
-En el caso del artículo anterior tienen obligación de desempeñar la tutela mientras duren en los cargos que a continuación se enumeran:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- El Presidente Municipal del domicilio del menor;
-
-II.- Los demás concejales del Ayuntamiento;
-
-III.- Las personas que desempeñen la autoridad administrativa en los lugares en donde no hubiere ayuntamiento;
-
-IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional del lugar donde vive el menor;
-
-V.- Los miembros de las juntas de beneficencia pública o privada que disfruten sueldo del Erario;
-
-VI.- Los directores de establecimientos de beneficencia pública.
-
-Los jueces nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutela, conforme a lo dispuesto en el Capítulo XV de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 668.
 
-Si el menor que se encuentre en el caso previsto por el artículo 666 adquiere bienes, se le nombrará tutor dativo, de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO VII.
 
 De las Personas Inhábiles para el Desempeño de la Tutela y de las que Deben ser Separadas de Ella.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 669.
 
-No pueden ser tutores, aunque estén anuentes en recibir el cargo:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los menores de edad;
-
-II.- Los mayores de edad que se encuentren bajo tutela;
-
-III.- Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
-
-IV.- Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
-
-V.- El que haya sido condenado por robo, abuso de confianza, estafa, fraude o por delitos contra la honestidad;
-
-VI.- Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
-
-VII.- Los que, al deferirse la tutela, tengan pleito pendiente con el incapacitado;
-
-VIII.- Los deudores del incapacitado en cantidad considerable, a juicio del juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento de la deuda declarándolo así expresamente al hacer el nombramiento;
-
-IX.- Los jueces, magistrados y demás funcionarios o empleados de la administración de justicia;
-
-X.- El que no esté domiciliado en el lugar en que deba ejercer la tutela;
-
-XI.- Los empleados públicos de Hacienda, que por razón de su destino tengan responsabilidad pecuniaria actual o la hayan tenido y no la hubieren cubierto;
-
-XII.- El que padezca enfermedad crónica contagiosa;
-
-XIII.- Los demás a quienes lo prohibe la ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 670.
 
-Serán separados de la tutela:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela;
-
-II.- Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
-
-III.- Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 756;
-
-IV.- Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
-
-V.- El tutor que se encuentre en el caso previsto en el artículo 251;
-
-VI.- El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 671.
 
-No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 672.
 
-Lo dispuesto en el artículo anterior se aplicará en cuanto fuere posible a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusen habitualmente de las drogas enervantes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 673.
 
-El Ministerio Público y los parientes del pupilo tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 670.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 674.
 
-El tutor que fuere procesado por cualquier delito quedará suspenso en el ejercicio de su encargo desde que se provea el auto motivado de prisión hasta que se pronuncie sentencia irrevocable.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 675.
 
-En el caso de que trata el artículo anterior, se proveerá a la tutela conforme a la ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 676.
 
-Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO VIII.
 
 De las Excusas para el Desempeño de la Tutela.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 677.
 
-Pueden excusarse de ser tutores:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los empleados y funcionarios públicos;
-
-II.- Los militares en servicio activo;
-
-III.- Los que tengan bajo su patria potestad tres o más descendientes;
-
-IV.- Los que fueren tan pobres, que no puedan atender a la tutela sin menoscabo de su subsistencia;
-
-V.- Los que por mal estado habitual de su salud o por su rudeza e ignorancia no puedan atender debidamente a la tutela;
-
-VI.- Los que tengan sesenta años cumplidos;
-
-VII.- Los que tengan a su cargo otra tutela o curaduría;
-
-VIII.- Las mujeres cuando, por su falta de ilustración, por su inexperiencia en los negocios, por su timidez o por otra causa igualmente grave, a juicio del juez, no estén en aptitud de desempeñar convenientemente la tutela.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 678.
 
-Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 679.
 
-El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 680.
 
-Si el tutor tuviere dos o más excusas, las propondrá simultáneamente dentro del plazo respectivo; y si propone una sola, se entenderán renunciadas las demás.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 681.
 
-Mientras que se califica el impedimento o la excusa, el juez nombrará un tutor interino.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 682.
 
-El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que hubiere dejado el testador por este concepto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 683.
 
-El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y es responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapacitado. En igual pena incurre la pesrona (sic) a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al juez manifestando su parentesco con el incapaz.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 684.
 
-Muerto el tutor que está desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO IX.
 
 De la Garantía que Deben Prestar los Tutores para Asegurar su Manejo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 685.
 
-El tutor, antes de que se le discierna el cargo, prestará caución para asegurar su manejo. Esta caución consistirá:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- En hipoteca o prenda;
-
-II.- En fianza.
-
-La garantía prendaria que preste el tutor se constituirá depositando las cosas dadas en prenda en una institución de crédito autorizada para recibir depósitos; a falta de ellas se depositarán en poder de persona de notoria solvencia y honorabilidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 686.
 
-Están exceptuados de la obligación de dar garantía:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los tutores testamentarios cuando expresamente los haya relevado de esta obligación el testador;
-
-II.- El tutor que no administre bienes;
-
-III.- El padre, la madre y los abuelos en los casos en que, conforme a la ley, son llamados a desempeñar la tutela de sus descendientes, salvo lo dispuesto en el artículo 689; y
-
-IV. Los que acojan a un expósito, lo alimenten y eduquen convenientemente por mas de diez años, a no ser que hayan recibido pensión para cuidar de él.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 687.
 
-Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del juez y previa audiencia del curador, haga necesaria aquélla.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 688.
 
-La garantía que presten los tutores no impedirá que el Juez, a moción del Ministerio Público, del Consejo Local de Tutelas, del curador, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 689.
 
-Cuando la tutela del incapacitado recaiga en el cónyuge, en los ascendientes o en los hijos, no se dará garantía; salvo el caso de que el juez, con audiencia del curador y del Consejo de Tutelas, lo crea conveniente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 690.
 
-Siempre que el tutor sea también coheredero del incapaz y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que ésta porción no iguale a la mitad de la porción del incapaz, pues en tal caso se integrará la garantía con bienes propios del tutor o con fianza.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 691.
 
-Siendo varios los incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda a su representado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 692.
 
-El tutor sólo podrá dar fianza para caucionar su manejo cuando no tenga bienes en qué constituir hipoteca o prenda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 693.
 
-Cuando los bienes que tenga no alcancen a cubrir la cantidad que ha de asegurar conforme al artículo siguiente, la garantía podrá consistir: parte en hipoteca o prenda, solamente en fianza, a juicio del juez, y previa audiencia del curador y del Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 694.
 
-La hipoteca o prenda, y en su caso la fianza, se darán:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Por el importe de las rentas de los bienes raíces en los dos últimos años y por los réditos de los capitales impuestos durante ese mismo tiempo;
-
-II.- Por el valor de los bienes muebles;
-
-III.- Por el de los enseres o semovientes, así como por el de los productos de las fincas rústicas en dos años, calculados por peritos, o por el término medio de un quinquenio, a elección del juez;
-
-IV.- En las negociaciones mercantiles e industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculados por los libros si están llevados en debida forma o a juicio de peritos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 695.
 
-Si los bienes del incapacitado, enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrá aumentarse o disminuirse proporcionalmente la hipoteca, prenda o la fianza, a pedimento del tutor, del curador, del Ministerio Público o del Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 696.
 
-El juez responde subsidiariamente con el tutor de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 697.
 
-Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudiera dar la garantía por las cantidades que fija el artículo 694, se procederá al nombramiento del nuevo tutor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 698.
 
-Durante los tres meses señalados en el artículo precedente desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario solemne y no podrá ejecutar otros actos que los indispensables para la conservación de los bienes y percepción de los productos. Para cualquier otro acto de administración requerirá la autorización judicial, la que se concederá si procede, oyendo al curador.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 699.
 
-Al presentar el tutor su cuenta anual, el curador o el Consejo Local de Tutelas deben promover información de supervivencia e idoneidad de los fiadores dados por aquél. Esta información también podrá promoverla en cualquier tiempo que lo estimen conveniente. El Ministerio Público tiene igual facultad y hasta de oficio el juez puede exigir esa información.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 700.
 
-Es también obligación del curador y del Consejo Local de Tutelas vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al juez de los deterioros y menoscabo que en ellos hubiere para que, si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO X.
 
 Del Desempeño de la Tutela.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 701.
 
-Cuando el tutor tenga que administrar bienes no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso del artículo 658.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 702.
 
-El tutor que entra a la administración de los bienes sin que se haya nombrado curador será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; mas ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta de curador.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 703.
 
-El tutor está obligado:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- A alimentar y educar al incapacitado;
-
-II.- A destinar de preferencia los recursos del incapacitado a la curación de sus enfermedades o a su regeneración si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes;
-
-III.- A formar inventario solemne y circunstanciado de cuanto constituya el patrimonio del incapacitado, dentro del término que el juez designe, con intervención del curador y del mismo incapacitado si goza de discernimiento y ha cumplido dieciséis años de edad;
-
-IV.- A administrar el caudal de los incapacitados. El pupilo será consultado para los actos importantes de la administración cuando es capaz de discernimiento y mayor de dieciséis años.
-
-La administración de los bienes del pupilo adquiridos con su trabajo le corresponde a él y no al tutor;
-
-V.- A representar al incapacitado en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
-
-VI.- A solicitar oportunamente la autorización judicial para todos los actos que legalmente no pueda hacer sin ella.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 704.
 
-Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 705.
 
-Cuando el tutor entre en el ejercicio de su cargo, el juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el juez alterar la cantidad que el que nombro tutor hubiere señalado para dicho objeto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 706.
 
-El tutor destinará al menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, del Consejo Local de Tutelas o por sí mismo ponerlo en conocimiento del juez para que dicte las medidas convenientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 707.
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta sin la aprobación del juez, quien decidirá este punto prudentemente y oyendo en todo caso al mismo menor, al curador y al Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 708.
 
-Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuera posible, sujetará a las rentas de éstos los gastos de alimentación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 709.
 
-Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 710.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del juez, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 711.
 
-Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores lo serán a costa de las rentas públicas del Estado; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al Gobierno de los gastos que hubiere hecho en cumplimiento de lo dispuesto por este artículo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 712.
 
-El tutor de los incapacitados a que se refiere la fracción II del artículo 703, está obligado a presentar al juez en el mes de enero de cada año un certificado de dos facultativos que declaren acerca del estado del individuo sujeto a interdicción, a quien para este efecto reconocerán en presencia del curador. El juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 713.
 
-Para la seguridad, alivio y mejoría de las personas a que se refiere el artículo anterior el tutor adoptará las medidas que juzgue oportunas, previa la autorización judicial que se otorgará con audiencia del curador. Las medidas que fueren muy urgentes podrán ser ejecutadas por el tutor, quien dará cuenta inmediattamente (sic) al juez para la debida aprobación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 714.
 
-La obligación de hacer inventarios no puede ser dispensada ni aun por los que tienen derecho de nombrar tutor testamentario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 715.
 
-Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 716.
 
-El tutor está obligado a inscribir en el inventario el crédito que tenga contra el incapacitado; si no lo hace, pierde el derecho de cobrarlo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 717.
 
-Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 703.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 718.
 
-Hecho el inventario, no se admite al tutor rendir prueba contra de él en perjuicio del incapacitado ni antes ni después de la mayor edad de éste, ya sea que litiguen en nombre propio o con la representación del incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Se exceptúan de lo dispuesto en el párrafo anterior los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 719.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente pueden ocurrir al juez pidiendo que los bienes omitidos se listen; y el juez, oído el parecer del tutor, determinará en justicia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 720.
 
-El tutor, dentro del primer mes de ejercer su cargo, fijará, con aprobación del juez, la cantidad que haya de invertirse en gastos de alimentación y el número y sueldos de los dependientes necesarios. Ni el número ni el sueldo de los empleados podrán aumentarse después, sino con aprobación judicial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 721.
 
-Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 722.
 
-Si el padre o la madre del menor ejercían algún comercio o industria, el juez, con informe de dos peritos, decidirá si ha de continuar la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del juez.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 723.
 
-El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones de capitales y el que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses contados desde que se hubieren reunido dos mil pesos, sobre segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que puede sobrevenir al realizarla.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 724.
 
-Si para hacer la imposición dentro del término señalado en el artículo anterior hubiere algún inconveniente grave, el tutor lo manifestará al juez, quien podrá ampliar el plazo por otros tres meses.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 725.
 
-El tutor que no haga las imposiciones dentro de los plazos señalados en los dos artículos anteriores, pagará los réditos legales mientras que los capitales no sean impuestos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 726.
 
-Mientras que se hacen las imposiciones a que se refieren los artículos 723 y 724, el tutor depositará las cantidades que perciba en el establecimiento público destinado al efecto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 727.
 
-Los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previa la conformidad del curador y la autorización judicial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 728.
 
-Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 604.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 729.
 
-La venta de bienes raíces del menor es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al menor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta; ni dar fianza a nombre de su pupilo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 730.
 
-Cuando se trate de enajenar, gravar e hipotecar, a título oneroso, bienes que pertenezcan al incapacitado, como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que deben hacerse, pudiendo, si lo estimare conveniente, dispensar la almoneda, siempre que consientan en ello el tutor y el curador.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 731.
 
-Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el juez.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 732.
 
-Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Los actos de dominio que llevare a cabo el tutor sin la autorización judicial, así como la transacción o compromiso en árbitros que celebre respecto de bienes inmuebles, sin dicha licencia, serán inexistentes y, en consecuencia las autoridades no otorgarán valor alguno a tales actos, ni en juicio, ni fuera de él.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 733.
 
-El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del juez.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 734.
 
-Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de mil pesos, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de este.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 735.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendentes, su mujer, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la inexistencia del contrato en los términos del artículo 732, el acto será suficiente para que se le remueva.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 736.
 
-Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, participes o socios del incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 737.
 
-El tutor no podrá hacerse pago de sus créditos contra el incapacitado sin la conformidad del curador y la aprobación judicial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 738.
 
-El tutor no puede aceptar para sí a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapacitado. Sólo puede adquirir esos derechos por herencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 739.
 
-El tutor no puede dar en arrendamiento los bienes del incapacitado por más de cinco años, sino en caso de necesidad o utilidad, previos el consentimiento del curador y la autorización judicial, observándose en su caso lo dispuesto en el artículo 730.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 740.
 
-El arrendamiento hecho de conformidad con el artículo anterior subsistirá por el tiempo convenido, aún cuando se acabe la tutela, pero será nula toda anticipación de renta o alquileres por más de dos años.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 741.
 
-Sin autorización judicial no puede el tutor recibir dinero prestado en nombre del incapacitado, ya sea que se constituya o no hipoteca en el contrato.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 742.
 
-El tutor no puede hacer donaciones a nombre del incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 743.
 
-El tutor tiene, respecto del menor, las mismas facultades que a los ascendientes concede el artículo 590.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 744.
 
-Durante la tutela no corre la prescripción entre el tutor y el incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 745.
 
-El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 746.
 
-La expropiación por causa de utilidad pública de bienes de incapacitados, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 747.
 
-Cuando sea tutor el marido, continuará ejerciendo respecto de su mujer incapacitada los derechos conyugales, con las siguientes modificaciones:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- En los casos en que conforme a derecho fuera necesario el consentimiento de la mujer, se suplirá éste por el juez, con audiencia del curador;
-
-II.- La mujer, en los casos en que pueda querellarse de su marido, o demandarlo para asegurar sus derechos violados o amenazados, será representada por un tutor interino que el juez le nombrará. Es obligación del curador promover este nombramiento, y si no la cumple será responsable de los perjuicios que se sigan al incapacitado. También podrá promover ese nombramiento el Consejo Local de Tutelas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 748.
 
-Cuando la tutela del incapacitado recayere en su mujer, ejercerá ésta la autoridad de aquél; pero no podrá gravar ni enajenar los bienes del marido que sean de la clase a que se refiere el artículo 734, sin previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 727.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 749.
 
-Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 750.
 
-En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitado, o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado o del Consejo Local de Tutelas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 751.
 
-El tutor tiene derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento, y para los tutores legítimos y dativos la fijará el juez.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 752.
 
-En ningún caso bajará la retribución del cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 753.
 
-Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el juez, con audiencia del curador.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 754.
 
-Para que pueda hacerse en la retribución de los tutores el aumento extraordinario que permite el artículo anterior, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 755.
 
-El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este título hubiese recibido, si contraviniese los (sic) dispuesto en el artículo 251.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO XI.
 
 De las Cuentas de la Tutela.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 756.
 
-El tutor está obligado a rendir al juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 757.
 
-También tiene obligación de rendir cuenta cuando, por causas graves que calificará el juez, la exijan el curador, el Consejo Local de Tutelas o el mismo menor que haya cumplido dieciséis años de edad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 758.
 
-La cuenta de administración comprenderá, no sólo las cantidades en numerario que hubiere recibido el tutor por producto de los bienes y la aplicación que les haya dado, sino en general todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos y de un balance del estado de los bienes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 759.
 
-El tutor es responsable del valor de los créditos activos si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 760.
 
-Si el incapacitado no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses, contados desde que tuvo noticia del derecho del incapacitado, no entabla a nombre de éste judicialmente las acciones conducentes para recobrarlos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 761.
 
-Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabilidad que, después de intentadas las acciones, puedan resultar al tutor por culpa o negligencia en el desempeño de su tutela.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 762.
 
-Las cuentas se rendirán en el lugar de desempeño de la tutela.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 763.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal y aunque de ellos no haya resultado utilidad al menor, si esto ha sido sin culpa del primero.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 764.
 
-Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el juez con audiencia del curador.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 765.
 
-El tutor será igualmente indemnizado, según el prudente arbitrio del juez, el daño que haya sufrido por causa de la tutela, y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 766.
 
-La obligación de dar cuenta no puede ser dispensada en contrato o última voluntad, ni aun por el mismo menor; y si esa dispensa se pusiere como condición en cualquier acto, se tendrá por no puesta.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 767.
 
 El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 768.
 
-El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses, contados desde el día en que fenezca la tutela. El juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 769.
 
-La obligación de dar cuentas pasa a los herederos del tutor; y si alguno de ellos sigue administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 770.
 
-La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 771.
 
-Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO XII.
 
 De la Extinción de la Tutela.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 772.
 
-La tutela se extingue:
-
-I.- Por la muerte del pupilo o porque desaparezca su incapacidad;
-
-II.- Cuando el incapacitado sujeto a tutela entre a la patria potestad por reconocimiento o por adopción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO XIII.
 
 De la Entrega de los Bienes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 773.
 
-El tutor, concluida la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme al balance que se hubiere presentado en la última cuenta aprobada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 774.
 
-La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas. La entrega debe ser hecha durante el mes siguiente a la terminación de la tutela; cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el juez puede fijar un término prudente para su conclusión, pero, en todo caso, deberá comenzarse en el plazo antes señalado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 775.
 
-El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 776.
 
-La entrega de los bienes y la cuenta de la tutela se efectuarán a expensas del incapacitado. Si para realizarse no hubiere fondos disponibles, el juez podrá autorizar al tutor a fin de que se proporcione los necesarios para la primera, y éste adelantará los relativos a la segunda, los cuales les serán reembolsados con los primeros fondos de que se pueda disponer.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 777.
 
 Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los gastos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 778.
 
-El saldo que resulte en pro o en contra del tutor, producirá interés legal. En el primer caso correrá desde que previa entrega de los bienes se haga el requerimiento legal para el pago; y en el segundo, desde la rendición de cuentas, si hubiesen sido dadas dentro del término designado por la ley; y si no, desde que expire el mismo término.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 779.
 
-Cuando en la cuenta resulte alcance contra el tutor, aunque por un arreglo con el menor o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 780.
 
-Si la caución fuere de fianza, el convenio que conceda nuevos plazos al tutor se hará saber al fiador; si éste consiente, permanecerá obligado hasta la solución; si no consiente, no habrá espera, y se podrá exigir el pago inmediato o la subrogación del fiador por otro igualmente idóneo que acepte el convenio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 781.
 
-Si no se hiciere saber el convenio al fiador, dicho pacto y la espera no surtirán efectos, y el crédito será exigible inmediatamente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 782.
 
-Todas las acciones por hechos relativos a la administración de la tutela, que el incapacitado puede ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedan excluidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 783.
 
-Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO XIV.
 
 Del Curador.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 784.
 
-Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 658 y 666.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 785.
 
-En todo caso en que se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 786.
 
-También se nombrará un curador interino en el caso de oposición de intereses a que se refiere el artículo 624.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 787.
 
-Igualmente, se nombrará curador interino en los casos de impedimento, separación o excusa del nombrado, mientras se decide el punto; luego que se decida se nombrará nuevo curador conforme a derecho.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 788.
 
-Lo dispuesto sobre impedimento o excusas de los tutores regirá igualmente respecto de los curadores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 789.
 
-Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 790.
 
-Designarán por sí mismos al curador con aprobación judicial:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los comprendidos en el artículo 662, observándose lo que allí se dispone respecto de esos nombramientos;
-
-II.- Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 808.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 791.
 
-El curador de todos los demás individuos sujetos a tutela será nombrado por el juez.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 792.
 
-El curador está obligado:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- A defender los derechos del incapacitado en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
-
-II.- A vigilar la conducta del tutor y a poner en conocimiento del juez todo aquello que considere que puede ser dañoso al incapacitado;
-
-III.- A dar aviso al juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela;
-
-IV.- A cumplir las demás obligaciones que la ley señale.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 793.
 
-El curador que no llene los deberes descritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren al incapacitado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 794.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 795.
 
-El curador tiene derecho a ser relevado de la curaduría, pasados diez años desde que se encargó de ella.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 796.
 
-En los casos en que conforme a este Código tenga que intervenir el curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere gastos en el desempeño de su cargo se le pagarán.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO XV.
 
 De los Consejos Locales de Tutela.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 797.
 
-En cada municipalidad, habrá un Consejo Local de Tutelas compuesto de un presidente y de dos vocales, que durarán un año en el ejercicio de su cargo. Serán nombrados por los respectivos ayuntamientos en la primera sesión que celebren, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas cosumbres (sic) y que tengan interés en proteger a la infancia desvalida.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 798.
 
-El Consejo Local de Tutelas es un órgano de vigilancia y de información, que, además de las funciones que expresamente le asignan varios de los artículos que preceden, tienen las obligaciones siguientes:
-
-I.- Formar y remitir a los jueces una lista de las personas de la localidad que, por su aptitud legal y moral, puedan desempeñar la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al juez;
-
-II.- Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores, dando aviso al juez de las faltas u omisiones que notare;
-
-III.- Avisar al juez cuando tenga conocimiento de que los bienes de un incapacitado están en peligro, a fin de que dicte las medidas correspondientes;
-
-IV.- Investigar y poner en conocimiento del juez qué incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos;
-
-V.- Cuidar con especialidad de que los tutores cumplan la obligación que les impone la fracción II del artículo 703;
-
-VI.- Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 799.
 
@@ -4819,29 +5025,41 @@ Mientras que se nombra tutor, el juez debe dictar las medidas necesarias para qu
 
 Del Estado de Interdicción.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 800.
 
-Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 703.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 801.
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 808.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 802.
 
-La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por el mismo incapacitado o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ellas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 803.
 
-La acción para pedir la nulidad prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 804.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 800 y 801, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 805.
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ## TITULO DECIMO.
 
@@ -4851,29 +5069,21 @@ De la Emancipación y de la Mayor Edad.
 
 De la Emancipación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 806.
 
-El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado que sea menor, no recaerá en la patria potestad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 807.
 
 (DEROGADO, B.O. 18 DE DICIEMBRE DE 1980)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE DICIEMBRE DE 1980)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 808.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su minoría de edad:
-
-> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 1980)</small>
-
-I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 1980)</small>
-
-II.- De un tutor para los negocios judiciales;
-
-III.- De un tutor para los negocios judiciales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 809.
 
@@ -4887,15 +5097,17 @@ III.- De un tutor para los negocios judiciales.
 
 De la Mayor Edad.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 1980)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 811.
 
-La mayoría de edad comienza a los dieciocho años cumplidos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 812.
 
-El mayor de edad dispone libremente de su persona y de sus bienes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ## TITULO UNDECIMO.
 
@@ -4905,213 +5117,271 @@ De los Ausentes e Ignorados.
 
 De las Medidas Provisionales en Caso de Ausencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 813.
 
-El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 814.
 
-Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, la citará por edictos publicados en los principales periódicos de su último domicilio, señalándole para que se presente un término que no bajará de tres meses ni pasará de seis, y dictará las providencias necesarias para asegurar los bienes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 815.
 
-Al publicarse los edictos remitirá copia a los cónsules mexicanos de aquellos lugares del extranjero en que se pueda presumir que se encuentra el ausente o que se tengan noticias de él.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 816.
 
-Si el ausente tiene hijos menores, que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la ley, ni tutor testamentario ni legítimo, el Ministerio Público pedirá que se nombre tutor, en los términos prevenidos en los artículos 662 y 663.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 817.
 
-Las obligaciones y facultades del depositario serán las que la ley asigne a los depositarios judiciales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 818.
 
-Se nombrará depositario:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Al cónyuge del ausente;
-
-II.- A uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el juez elegirá al más apto;
-
-III.- Al ascendiente más próximo en grado al ausente;
-
-IV.- A falta de los anteriores o cuando sea inconveniente que éstos, por su notoria mala conducta o por su ineptitud, sean nombrados depositarios, el juez nombrará al heredero presuntivo, y si hubiere varios se observará lo que dispone el artículo 824.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 819.
 
-Si cumplido el término del llamamiento el citado no compareciere por sí, ni por apoderado legítimo, ni por medio de tutor o de pariente que pueda representarlo, se procederá al nombramiento del representante.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 820.
 
-Lo mismo se hará cuando en iguales circunstancias caduque el poder conferido por el ausente, o sea insuficiente para el caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 821.
 
-Tienen acción para pedir el nombramiento de depositario o de representante, el Ministerio Público, o cualquiera a quien interese tratar o litigar con el ausente o defender los intereses de éste.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 822.
 
-En el nombramiento de representante se seguirá el orden establecido en el artículo 818.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 823.
 
-Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos del matrimonio o matrimonios anteriores, el juez dispondrá que el cónyuge presente y los hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes en su caso, nombren de acuerdo el depositario representante; más si no estuvieren conformes, el juez nombrará libremente, de entre las personas designadas en el artículo 818.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 824.
 
-A falta de cónyuge, de descendientes y de ascendientes, será representante el heredero presuntivo. Si hubiere varios con igual erecho (sic), ellos mismos elegirán el que deba representarlo. Si no se ponen de acuerdo en la elección, la hará el juez prefiriendo al que tenga mas interés en la conservación de los bienes del ausente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 825.
 
-El representante del ausente es el legítimo administrador de los bienes de este y tiene, respecto de ellos, las mismas obligaciones, facultades y restricciones que los tutores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-No entrará a la administración de los bienes sin que previamente forme inventario y avalúo de ellos, y si dentro del término de un mes no presta la caución correspondiente, se nombrará otro representante.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 826.
 
-El representante del ausente disfrutará la misma retribución que a los tutores señalan los artículos 751, 752 y 753.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 827.
 
-No pueden ser representantes de un ausente, los que no pueden ser tutores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 828.
 
-Pueden excusarse los que pueden hacerlo de la tutela.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 829.
 
-Será removido del cargo de representante, el que deba serlo del de tutor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 830.
 
-El cargo de representante acaba:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Con el regreso del ausente;
-
-II.- Con la presentación del apoderado legítimo;
-
-III.- Con la muerte del ausente;
-
-IV.- Con la posesión provisional.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 831.
 
-Cada año, en el día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante, y el tiempo que falta para que se cumpla el plazo que señalan los artículos 834 y 835, en su caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 832.
 
-Los edictos se publicarán por dos meses, con intervalo de quince días, en los principales periódicos del último domicilio del ausente, y se remitirán a los cónsules, como previene el artículo 815.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 833.
 
-El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante, de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO II.
 
 De la Declaración de Ausencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 834.
 
-Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 835.
 
-En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años, que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 836.
 
-Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido por más de tres años.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 837.
 
-Pasados dos años, que se contarán del modo establecido en el artículo 835, el Ministerio Público y las personas que designa el artículo siguiente pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere, se nombrará representante de acuerdo con lo dispuesto en los artículos 822, 823 y 824.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 838.
 
-Pueden pedir la declaración de ausencia:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los presuntos herederos legítimos del ausente;
-
-II.- Los herederos instituídos en testamento abierto;
-
-III.- Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente; y
-
-IV.- El Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 839.
 
-Si el juez encuentra fundada la demanda, dispondrá que se publique durante tres meses, con intervalos de quince días, en el Periódico Oficial que corresponda y en los principales del último domicilio del ausente, y la remitirá a los cónsules, conforme al artículo 815.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 840.
 
-Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 841.
 
-Si hubiere algunas noticias u oposición, el juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 839, y hacer la averiguación por los medios que el oponente proponga y por los que el mismo juez crea oportunos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 842.
 
-La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalos de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 843.
 
-El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO III.
 
 De los Efectos de la Declaración de Ausencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 844.
 
-Declarada la ausencia, si hubiere testamento, la persona en cuyo poder se encuentre lo presentará al juez, dentro de quince días contados de la última publicación de que habla el artículo 842.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 845.
 
-El juez, de oficio o a instancia de cualquiera que se crea interesado en el testamento, abrirá éste en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia y con las demás solemnidades prescritas en su caso para la apertura de los testamentos, o radicación del juicio sucesorio si no procediere la apertura dada la naturaleza del testamento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 846.
 
-Por virtud de la presentación o apertura de testamento, en su caso, se iniciará desde luego el juicio sucesorio, para el solo efecto de la declaración de herederos; debiéndose continuar por sus demás trámites, hasta una vez que se declare la presunción de muerte del ausente. En el juicio sucesorio se dará a los herederos la posesión provisional de los bienes que se les hubieren asignado, conforme a los artículos 848 y siguientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Si no hubiere testamento, la declaración de ausencia dará derecho a los herederos legítimos para proceder en los términos de este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 847.
 
-Los herederos testamentarios y, en su caso, los que fueren legítimos, serán puestos en la posesión provisional de los bienes, siempre que tengan capacidad legal para administrar y den fianza que asegure las resultas de la administración. Si estuvieren bajo la patria potestad o tutela, se procederá conforme a derecho.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 848.
 
-Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte que le corresponda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 849.
 
-Si los bienes no admiten cómoda división, los herederos elegirán entre ellos mismos un administrador general, y si no se pusieren de acuerdo, el juez le nombrará, escogiéndole de entre los mismos herederos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 850.
 
-Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta se nombrará el administrador general.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 851.
 
-Los herederos que no administren podrán nombrar un interventor, que tendrá las facultades y obligaciones señaladas a los curadores. Su honorario será el que fijen los que le nombren y se pagará por éstos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 852.
 
-El que entre en la posesión provisional tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 853.
 
-En el caso del artículo 848, cada heredero dará la garantía que corresponda a la parte de bienes que administre.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 854.
 
-En el caso del artículo 849, el administrador general será quien dé la garantía legal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 855.
 
-Los legatarios, los donatarios y todos los que tengan sobre los bienes del ausente derechos que dependan de la muerte o presencia de éste, podrán ejercitarlos, dando la garantía que corresponda, según el artículo 694.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ###### Art. 856.
 
@@ -5125,157 +5395,201 @@ Si no pudiere darse la garantía prevenida en los cinco artículos anteriores, e
 
 Mientras no se dé la expresada garantía, no cesará la administración del representante.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 859.
 
-No están obligados a dar garantía:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- El cónyuge, los descendientes y los ascendientes que como herederos entren en la posesión de los bienes del ausente, por la parte que en ellos les corresponda;
-
-II.- El ascendiente que en ejercicio de la patria potestad administre bienes que como herederos del ausente correspondan a sus descendientes.
-
-Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la garantía legal por la parte de bienes que corresponda a los legatarios, si no hubiere división, ni administrador general.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 860.
 
-Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y dará las cuentas en los términos prevenidos en los Capítulos XI y XIII del Título Noveno de este Libro. El plazo señalado en el artículo 768 se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 861.
 
-Si hecha la declaración de ausencia no se presentaren herederos del ausente, el Ministerio Público pedirá, o la continuación del representante, o la elección de otro que en nombre de la Hacienda Pública entre en la posesión provisional, conforme a los artículos que anteceden.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 862.
 
-Muerto el que haya obtenido la posesión provisional, le sucederán sus herederos en la parte que le haya correspondido, bajo las mismas condiciones y con iguales garantías.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 863.
 
-Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos industriales que hayan hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO IV.
 
 De la Administración de los Bienes del Ausente Casado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 864.
 
-La declaración de ausencia interrumpe la sociedad conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 865.
 
-Declarada la ausencia, se procederá con citación de los herederos presuntivos, al inventario de los bienes y a la separación de los que deban corresponder al cónyuge ausente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 866.
 
-El cónyuge presente recibirá desde luego los bienes que le correspondan hasta el día en que la declaración de ausencia haya causado ejecutoria. De esos bienes podrá disponer libremente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 867.
 
-Los bienes del ausente se entregarán a sus herederos, en los términos prevenidos en el Capítulo anterior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 868.
 
-En el caso previsto en el artículo 863, si el cónyuge presente entrare como heredero en la posesión provisional, se observará lo que ese artículo dispone.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 869.
 
-Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá derecho a alimentos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 870.
 
-Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO V.
 
 De la Presunción de Muerte del Ausente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 871.
 
-Cuando hayan transcurridos seis años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurridos dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 872.
 
-Declarada la presunción de muerte, si no se hubiere procedido conforme a los artículos 844 a 846, se abrirá el testamento del ausente; o bien, en su caso, se continuará el juicio sucesorio. Los poseedores provisionales darán cuenta de su administración en los términos prevenidos en el artículo 860, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna. La que según la ley se hubiere dado quedará cancelada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 873.
 
-Si se llega a probar la muerte del ausente, la herencia se aplicará a los que debieran heredar al tiempo de ella; pero el poseedor o poseedores de los bienes hereditarios, al restituirlos, se reservarán los frutos correspondientes a la época de la posesión provisional, de acuerdo con lo dispuesto en el artículo 863, y todos ellos, desde que obtuvieron la posesión definitiva.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 874.
 
-Si el ausente se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados, o los que se hubieren adquirido con el mismo precio, pero no podrá reclamar frutos ni rentas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 875.
 
-Cuando hecha la declaración de ausencia o la presunción de muerte de una persona, se hubieren aplicado sus bienes a los que por testamento o sin él se tuvieren por herederos, y después se presentaren otros pretendiendo que ellos deben ser preferidos en la herencia, y así se declare por sentencia que cause ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos en que, según los artículos 863 y 874, debiera hacerse al ausente si se presentara.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 876.
 
-Los poseedores definitivos darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, o desde aquél en que por sentencia que cause ejecutoria se haya deferido la herencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 877.
 
-La posesión definitiva termina:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Con el regreso del ausente;
-
-II.- Con la noticia cierta de su existencia;
-
-III.- Con la certidumbre de su muerte;
-
-IV.- Con la sentencia que cause ejecutoria, en el caso del artículo 875.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 878.
 
-En el caso segundo del artículo anterior, los poseedores definitivos serán considerados como provisionales desde el día en que se tenga noticia cierta de la existencia del ausente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 879.
 
-La sentencia que declare la presunción de muerte de un ausente casado, pone término a la sociedad conyugal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 880.
 
-En el caso previsto por el artículo 869, el cónyuge sólo tendrá derecho a los alimentos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO VI.
 
 De los Efectos de la Ausencia Respecto de los Derechos Eventuales del Ausente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 881.
 
-Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, deberá probar que esta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 882.
 
-Si se abre una herencia a la que sea llamado un individuo respecto del cual se haya hecho la declaración de presunción de muerte, por su ausencia, entrarán a suceder en su parte, sus herederos, quienes deberán hacer inventario de los bienes que reciban.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 883.
 
-En el caso del artículo anterior, los herederos se considerarán como poseedores definitivos de los bienes que por la herencia debían corresponder al ausente, a partir de la época en que la herencia se hubiere abierto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 884.
 
-Lo dispuesto en los artículos anteriores debe entenderse sin perjuicio de las acciones de petición de herencia y de otros derechos que podrán ejercitar el ausente, sus representantes, acreedores o legatarios, y que no se extinguirán sino por el transcurso del tiempo fijado para la prescripción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 885.
 
-Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, sus acciones no sean ejercitadas por sus representantes, o por los que por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ### CAPITULO VIII. (SIC)
 
 Disposiciones Generales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
+
 ###### Art. 886.
 
-El representante y los poseedores provisionales y definitivos, en sus respectivos casos, tienen la legítima procuración del ausente en juicio y fuera de él.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 887.
 
-Por causa de ausencia no se suspenden los términos que fija la ley para la prescripción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 888.
 
-El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 ## TITULO DUODECIMO.
 
@@ -5283,161 +5597,149 @@ Del Patrimonio de la Familia.
 
 ### CAPITULO UNICO.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 889.
 
-Son objeto del patrimonio de la familia: la casa en que ésta habita incluyendo el mobiliario y equipo de la vivienda; o dicha casa en la que se incluye el mobiliario y equipo mencionado y una fracción de terreno anexo o a distancia no mayor de un kilómetro, que sea cultivada por la misma familia y, además, un vehículo automotriz cuya propiedad esté debidamente acreditada y cumpla con los requisitos establecidos en la ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 890.
 
-La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente. En el caso de muerte del constituyente, si hubiere cónyuge supérstite, descendientes o ascendientes, continuará con éstos el citado patrimonio sin dividirse, pasando la propiedad y posesión de los bienes a los herederos que sean llamados por la ley, aunque en el testamento del que los constituyó se dispusiere lo contrario, o se instituyere a otros herederos, quienes no tendrán derecho alguno a los bienes que lo integren.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 891.
 
-Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Este derecho es intransmisible, pero debe tenerse en cuenta lo dispuesto en el artículo 906.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 892.
 
-Los beneficiarios de los bienes afectos al patrimonio de la familia serán representados en sus relaciones con terceros, en todo lo que al patrimonio se refiere, por el que lo constituyó y, en su defecto, por el que nombre la mayoría.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-El representante tendrá también la administración de dichos bienes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 893.
 
-Los bienes afectos al patrimonio de la familia son inalienables y no están sujetos a embargo ni gravamen alguno.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 894.
 
-Sólo puede constituirse el patrimonio de la familia con bienes sitos en el municipio en que esté domiciliado el que lo constituya.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 895.
 
-Cada familia sólo puede construir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 896.
 
-El valor máximo de los bienes afectos al patrimonio de la familia será el equivalente a treinta y cinco mil veces el salario mínimo diario general vigente en la zona económica de que se trate, en la época en que se constituya dicho patrimonio, quedando incluido dentro del valor antes mencionado, el del vehículo automotriz cuyo valor máximo será el equivalente a cinco mil veces el salario mínimo diario general vigente en la zona económica de que se trate.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 897.
 
-El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Además, comprobará lo siguiente:
-
-I.- Que es mayor de edad o que está emancipado;
-
-II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
-
-III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil;
-
-IV.- Que son propiedad del constituyente los bienes destinados al patrimonio y que no reportan gravámenes fuera de las servidumbres;
-
-V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 896.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 898.
 
-Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el Código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 899.
 
-Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 896, podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Código de la materia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 900.
 
-Las personas que tienen derecho a disfrutar el patrimonio de la familia señaladas en el artículo 891, el tutor de acreedores alimentistas incapaces o el Ministerio Público, pueden exigir judicialmente que se constituya el patrimonio de la familia hasta por el valor fijado en el artículo 896, sin necesidad de invocar causa alguna. En la constitución de este patrimonio se observará, en lo conducente, lo dispuesto en los artículos 897 y 898.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 901.
 
-Con objeto de favorecer la formación del patrimonio de la familia, se venderán a las personas que tengan capacidad legal para constituirlo y que quieran hacerlo, las propiedades raíces que a continuación se expresan:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Los terrenos pertenecientes al gobierno del Estado o a los Municipios del mismo, que no estén destinados a un servicio público, ni sean de uso común.
-
-Para la adquisición de tales terrenos tiene preferencia sobre cualquier otro, excepto su poseedor, la persona que desee constituir un patrimonio de familia.
-
-II.- Los terrenos que el gobierno adquiera para dedicarlos a la formación del patrimonio de las familias que cuenten con pocos recursos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 902.
 
-El precio de los terrenos a que se refiere la fracción II del artículo anterior se pagará en no menos de diez anualidades que amorticen el capital y los réditos a un tipo de interés que no exceda de tres por ciento anual.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-En los casos previstos en la fracción I del artículo que precede, la autoridad vendedora fijará la forma y el plazo en que deba pagarse el precio de los bienes vendidos, tomando en cuenta la capacidad económica del comprador.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 903.
 
-El que desee constituir el patrimonio de la familia con la clase de bienes que menciona el artículo 901, además de cumplir los requisitos exigidos por las fracciones I, II y III del artículo 897, comprobará:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Que es mexicano;
-
-II.- Su aptitud o la de sus familiares para desempeñar algún oficio, profesión, industria o comercio;
-
-III.- Que él o sus familiares poseen los instrumentos y demás objetos indispensables para ejercer la ocupación a que se dediquen;
-
-IV.- El promedio de sus ingresos, a fin de que se pueda calcular, con probabilidades de acierto, la posibilidad de pagar el precio del terreno que se le venda;
-
-V.- Que carece de bienes. Si el que tenga interés legítimo demuestra que quien constituyó el patrimonio era propietario de bienes raíces al constituirlo, se declarará nula la constitución del patrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 904.
 
-La constitución del patrimonio de que trata el artículo 901, se sujetará a la tramitación administrativa que fijen los reglamentos respectivos. Aprobada la constitución del patrimonio, se cumplirá lo que dispone la parte final del artículo 898.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 905.
 
-La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 906.
 
-Constituido el patrimonio de la familia, ésta tiene obligación de habitar la casa y de cultivar la parcela. La primera autoridad municipal del lugar en que esté constituido el patrimonio puede, por justa causa, autorizar para que se dé en arrendamiento o aparcería, hasta por un año.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 907.
 
-El patrimonio de la familia se extingue:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
-
-II.- Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa;
-
-III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
-
-IV.- Cuando por causa de utilidad pública se expropien los bienes que lo forman;
-
-V.- Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 901, se declare judicialmente nula o rescindida la venta de esos bienes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 908.
 
-La declaración de que queda extinguido el patrimonio la hará el juez competente, mediante el procedimiento fijado en el Código respectivo, y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 909.
 
-El precio del patrimonio expropiado y la indemnización proveniente del pago del seguro a consecuencia del siniestro sufrido por los bienes afectados al patrimonio familiar, se depositarán en una institución de crédito, y no habiéndola en la localidad, en una casa de comercio de notoria solvencia, a fin de dedicarlos a la constitución de nu (sic) nuevo patrimonio de la familia. Durante un año son inembargables el precio depositado y el importe del seguro.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-Si el dueño de los bienes vendidos no lo constituye dentro del plazo de seis meses, los miembros de la familia a que se refiere el artículo 891 tienen derecho de exigir judicialmente la constitución del patrimonio familiar.
-
-Transcurrido un año desde que se hizo el depósito, sin que se hubiere promovido la constitución del patrimonio, la cantidad depositada se entregará al dueño de los bienes.
-
-En los casos de suma necesidad o de evidente utilidad, puede el juez autorizar al dueño del depósito para disponer de él antes de que transcurra el año.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 910.
 
-Puede disminuirse el patrimonio de la familia:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
-I.- Cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia;
-
-II.- Cuando el patrimonio familiar, por causas posteriores a su constitución, ha rebasado en más de un ciento por ciento el valor máximo que puede tener conforme el artículo 896.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 911.
 
-El Ministerio Público será oído en la extinción y en la reducción del patrimonio de la familia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
 ###### Art. 912.
 
-Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, o pasarán a sus herederos si aquél ha muerto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
 # Libro Tercero.
 
@@ -19020,3 +19322,19 @@ Los juicios de pérdida de patria potestad que se encuentren en trámite a la en
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 15 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código entrará en vigor a los 365 días después de su publicación en el Boletín Oficial del Gobierno del Estado, con el objeto de que durante dicho plazo pueda ser aprobada la legislación procesal necesaria para una adecuada implementación de las disposiciones de este Código.
+
+###### ARTÍCULO SEGUNDO.
+
+Al entrar en vigor el presente Código, se derogan los siguientes artículos del Código Civil para el Estado de Sonora:
+
+232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 259, 261, 264, 265, 268, 269, 270, 271, 272, 273, 274, 275, 276,277,278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297,298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 330, 331, 332, 334, 335, 338, 339, 340, 341, 342, 343, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 429, 430, 434, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 489BIS, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541,542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 562BIS, 562TER, 563, 563 BIS, 564, 564 BIS, 564 TER, 565, 565 BIS, 565 TER,565 QUATER,566, 566 BIS,567, 568, 568BIS, 569, 570, 570BIS, 571, 572, 573, 574, 575, 576, 576BIS, 577, 578, 579, 580, 581, 581BIS, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614, 614BIS, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726,727,728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 768, 769, 770, 771, 772, 773, 774, 775, 776, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795, 796, 797, 798, 790 (sic), 800, 801, 802, 803, 804, 805, 806, 808, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 859, 860,861,862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911 y 912.
+
+###### ARTÍCULO TERCERO.
+
+Los juicios que se encuentren en trámite a la entrada en vigor de este Código, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio.
