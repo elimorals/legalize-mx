@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2009-09-10"
+last_updated: "2009-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2009.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -623,9 +623,11 @@ Salvo lo dispuesto en el artículo siguiente, el pago de los derechos deberá ha
 
 Los servidores públicos del Gobierno del Estado se abstendrán de actuar o, en su caso, de entregar documentos o constancias relativas hasta en tanto el usuario presente el comprobante de pago respectivo. El servidor público que no cumpliere con esta disposición tendrá responsabilidad solidaria con el contribuyente para el pago del importe de los derechos y sanciones que se causaren, independientemente de las penas que le correspondan.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 57.
 
-En los casos en que no se efectúe previamente a la prestación del servicio el pago de los derechos, en virtud de no poder determinar la base de los mismos, dicho pago se hará el mismo día en que sean determinables los derechos. La falta de pago oportuno de los derechos establecidos en el presente Título causarán recargos de conformidad con lo establecido por el artículo 22 del Código Fiscal del Estado, independientemente de la aplicación de las sanciones que señalen las leyes respectivas.
+En los casos en que el pago de los derechos no se efectúe previamente a la prestación del servicio, en virtud de no poder determinar la base de los mismos, dicho pago se hará en el plazo que la presente ley señale al respecto o, en su defecto, el mismo día en que sean determinables los derechos. La falta de pago oportuno de los derechos establecidos en el presente Título causará recargos de conformidad con lo establecido por el artículo 22 del Código Fiscal del Estado, independientemente de la aplicación de las sanciones que señalen las leyes respectivas.
 
 ###### Artículo 58.
 
@@ -901,7 +903,7 @@ VI. En los casos no previstos expresamente en el artículo anterior, los derecho
 
 No se causarán los derechos a que se refiere el artículo 68 por las inscripciones de las Sociedades Cooperativas Escolares.
 
-### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
+### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION y CONTROL DEL DESARROLLO URBANO
 
 ###### Artículo 71.
 
@@ -1603,19 +1605,25 @@ XII. Por permiso sanitario para inhumación, traslado y cremación funeraria, se
 
 XIII. Por aviso de funcionamiento para expendio de bebidas alcohólicas, se pagarán dieciocho días de salario mínimo.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 94.
 
-El trámite y estudio para autorizaciones de las solicitudes de subsidios fiscales para contribuciones causarán derechos por la cantidad de doce días de salario mínimo, que deberán pagarse previamente al otorgamiento de la autorización o del subsidio.
+Por los servicios de suministro de agua en bloque que proporcione la Comisión Estatal del Agua de Tamaulipas, directamente o a través de terceros, los municipios u organismos operadores que la requieran pagarán por concepto de derechos la cantidad equivalente a la suma de los costos por metro cúbico, directos e indirectos, en que incurra dicha Comisión Estatal con relación a la prestación del servicio de suministro de agua en bloque, multiplicada por el volumen en metros cúbicos de agua entregada a cada municipio u organismo operador, según sea el caso.
+
+Para efectos de aplicación de los derechos previstos en este artículo, los municipios y los organismos operadores que requieran el servicio de suministro de agua en bloque, deberán firmar el convenio respectivo con la Comisión Estatal del Agua de Tamaulipas y pagar los derechos a que se refiere este artículo con la periodicidad señalada en dicho convenio.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 95.
 
-El Ejecutivo por conducto de la Secretaría hará efectivo el cobro de las formas valoradas cuyo precio se determinará tomando en cuenta el costo de las mismas o el que rija en el mercado.
+El trámite y estudio para autorizaciones de las solicitudes de subsidios fiscales para contribuciones causarán derechos por la cantidad de doce días de salario mínimo, que deberán pagarse previamente al otorgamiento de la autorización o del subsidio.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 96.
 
-En el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, el Tribunal ordenará su cumplimiento si la ejecución consiste en la realización de un acto material; promoverá la aplicación de la ley o del reglamento que corresponda y si el acto solo puede ser ejecutado por la autoridad demandada, solicitará al titular de la dependencia estatal o municipal, a quien se encuentre subordinada dicha autoridad, para que conmine a ésta a cumplir con la sentencia.
-
-Si no obstante los requerimientos anteriores no se da cumplimiento a la resolución, el Tribunal podrá decretar la destitución del servidor público que incumplió, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Nuevo León.
+El Ejecutivo, por conducto de la Secretaría, hará efectivo el cobro de las formas valoradas cuyo precio se determinará tomando en cuenta el costo de las mismas o el que rija en el mercado.
 
 ###### Artículo 97.
 
@@ -1680,6 +1688,12 @@ DECRETO No. LX-649, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 62, 75 Y 76
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de enero de 2009.
 
 P.O. 10 DE SEPTIEMBRE DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2009.
 
 ###### ARTICULO UNICO.
 
