@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2009-07-07"
+last_updated: "2009-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -153,7 +153,7 @@ XXXV. Organismo Operador Municipal: La entidad descentralizada de la administrac
 
 XXXVI. Organismo Operador Intermunicipal: La entidad descentralizada de la administración pública de dos o más municipios, responsable de prestar los servicios públicos en el territorio de dos o más municipios conurbados, por medio de una sola línea de producción de los servicios.
 
-XXXVll. Organismo Operador Regional: La entidad descentralizada de la administración pública de dos o más municipios, responsable de prestar los servicios públicos en el territorio de dos o más municipios, con diferentes líneas de producción de los servicios.
+XXXVII. Organismo Operador Regional: La entidad descentralizada de la administración pública de dos o más municipios, responsable de prestar los servicios públicos en el territorio de dos o más municipios, con diferentes líneas de producción de los servicios.
 
 XXXVIII. Padrón de Usuarios: La base de datos con las características de cada uno de los predios que conforman el área de factibilidad de los servicios y los datos generales de sus propietarios.
 
@@ -175,7 +175,7 @@ XLVI. Saneamiento: La acción de sanear las aguas residuales para que cumplan co
 
 XLVII. Servicios Públicos: Aquellos que se prestan a la población o asentamientos humanos relacionados con el suministro de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reuso de las aguas residuales, reuso de las aguas residuales tratadas y disposición de las aguas.
 
-XLVIII. Sistema Estatal de Información del Sector Agua para el Estado: El sistema tecnológico que contiene la visión del Sector en el largo plazo; los índices de eficacia, eficiencia y productividad resultantes del diagnóstico del Sector; los programas, estrategias y líneas de acción del Programa Estratégico de Desarrollo del Sector Agua del Estado; las metas para cada uno de lo indicadores de gestión y su proyecciones; los avances físicos y económicos de cada uno de los proyectos en ejecución; las proyecciones financieras y demás documentos relevantes para el Sector.
+XLVIII. Sistema Estatal de Información del Sector Agua para el Estado: El sistema tecnológico que contiene la visión del Sector en el largo plazo; los índices de eficacia, eficiencia y productividad resultantes del diagnóstico del Sector; los programas, estrategias y líneas de acción del Programa Estratégico de Desarrollo del Sector Agua del Estado; las metas para cada uno de los indicadores de gestión y su proyecciones; los avances físicos y económicos de cada uno de los proyectos en ejecución; las proyecciones financieras y demás documentos relevantes para el Sector.
 
 XLIX. Sistema de Almacenamiento: La infraestructura hidráulica utilizada para almacenar agua potable con objeto de entregarla al sistema de distribución. Puede ser utilizada también para regular presiones en el sistema de distribución que forma parte de la línea de producción de los servicios de agua potable.
 
@@ -285,7 +285,9 @@ Son atribuciones de la Comisión:
 
 I. Coordinar entre el Estado y la Federación, así como entre aquél y los municipios, las acciones relacionadas con la explotación, uso y aprovechamiento del agua y el tratamiento y reuso de las aguas residuales, coadyuvando en el ámbito de su competencia al fortalecimiento del pacto federal y del municipio libre en términos de lo dispuesto en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 132 de la Constitución Política del Estado, para lograr el desarrollo equilibrado y la descentralización de los servicios del agua en la entidad;
 
-II. Ejecutar, conservar y rehabilitar las obras de infraestructura hidráulica en los términos de los convenios que al efecto se celebren con la Federación y los municipios;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
+
+II. Planear, programar, ejecutar, construir, administrar, operar, conservar y rehabilitar, directamente o a través de terceros, obras de infraestructura hidráulica a su cargo, para lo cual podrá celebrar convenios con la Federación y los municipios;
 
 III. Coadyuvar con la Comisión Nacional del Agua en los programas, proyectos y presupuestos de los distritos de riego, unidades de riego y distritos de temporal tecnificado, en los términos de los acuerdos de coordinación que se suscriban con la Federación;
 
@@ -309,7 +311,9 @@ XII. Recabar, operar y mantener actualizada la información en materia de aguas 
 
 XIII. Verificar que se inscriban en el Registro Público Estatal de Derechos de Agua los títulos que amparen derechos de agua de jurisdicción estatal;
 
-XIV. Ejercer en el ámbito de su competencia, las atribuciones fiscales para la determinación y cobro de los derechos o contribuciones en materia de aguas estatales y sus bienes inherentes;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
+
+XIV. Ejercer en el ámbito de su competencia, las atribuciones fiscales para la determinación y cobro de los derechos o contribuciones en materia de aguas estatales, sus bienes inherentes y de los servicios que proporcione la Comisión, incluyendo sin limitación, los derechos por servicio de suministro de agua en bloque que proporcione la Comisión, directamente o a través de terceros, a los municipios y organismos operadores que lo requieran;
 
 XV. Solicitar al Ejecutivo del Estado la declaratoria de expropiación, ocupación temporal de bienes o la limitación del dominio para el cumplimiento de sus objetivos, en los términos de la legislación local de la materia;
 
@@ -359,7 +363,7 @@ XXXV. Promover la actualización de las leyes y reglamentos que rigen la adminis
 
 XXXVI. Participar en las reuniones de los Consejos de Cuenca de la Comisión Nacional del Agua;
 
-XXXVll. Participar en el Sistema Estatal de Protección Civil para atender situaciones de emergencia causadas por fenómenos hidrometeorológicos extremos;
+XXXVII. Participar en el Sistema Estatal de Protección Civil para atender situaciones de emergencia causadas por fenómenos hidrometeorológicos extremos;
 
 XXXVIII. Coordinar la operación, conservación, administración y mantenimiento de las obras a cargo de los prestadores de servicios públicos;
 
@@ -371,9 +375,17 @@ XLI. Promover la cultura del agua para fomentar un cambio de hábitos hacía su 
 
 XLII. Impulsar la autosuficiencia técnica, administrativa y financiera de los organismos operadores en la prestación de los servicios públicos;
 
-XLIII. Fungir como árbitro en las posibles controversias entre los prestadores de servicios por derechos y obligaciones derivadas de los servicios que presten, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
 
-XLIV. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
+XLlII. Fungir como árbitro en las posibles controversias entre los prestadores de servicios por derechos y obligaciones derivadas de los servicios que presten;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
+
+XLIV. Prestar directamente o a través de terceros, el servicio de suministro de agua en bloque a los municipios y organismos operadores que la requieran, en los términos de esta ley; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2009)</small>
+
+XLV. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -513,9 +525,21 @@ XXV. Autorizar la constitución de los fideicomisos públicos necesarios para el
 
 XXVI. Resolver todos aquellos asuntos que el Director General considere necesario someter a su consideración;
 
-XXVII. Ordenar la práctica de auditorias administrativas, operativas y financieras a la Comisión; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
 
-XXVIII. Las demás que le establezcan esta ley, otras disposiciones legales y sus reglamentos.
+XXVII. Ordenar la práctica de auditorías administrativas, operativas y financieras a la Comisión;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
+
+XXVIII. Autorizar la celebración de los convenios para proporcionar agua en bloque a los municipios, organismos operadores, comunidades, núcleos de población, organismos, fraccionamientos y particulares que la requieran;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2009)</small>
+
+XXIX. Autorizar la celebración de los convenios que considere necesarios con la autoridad competente, para el cobro de los derechos por servicio de suministro de agua en bloque; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2009)</small>
+
+XXX. Las demás que le establezcan esta ley, otras disposiciones legales y sus reglamentos.
 
 ###### Artículo 14.
 
@@ -1131,7 +1155,7 @@ VI. Las contraprestaciones que deban cubrirse al Municipio;
 
 VII. Las obligaciones del Municipio;
 
-VIIII. Las garantías que otorgue el municipio al concesionario;
+VIII. Las garantías que otorgue el municipio al concesionario;
 
 IX. La indemnización que el Municipio otorgue al concesionario en caso de revocarse la concesión por causas no imputables a éste;
 
@@ -1307,7 +1331,7 @@ Los participantes podrán realizar el tratamiento de las aguas residuales que se
 
 Las controversias que se susciten con motivo de la interpretación y aplicación de las concesiones, convenios y contratos a que se refiere el Capítulo, serán resueltas por el Tribunal Fiscal del Estado.
 
-## TITULO CUARTO. DE LA PROGRAMACION HIDRAULlCA DEL ESTADO
+## TITULO CUARTO. DE LA PROGRAMACION HIDRAULICA DEL ESTADO
 
 ### CAPITULO I. DE LOS GENERALES
 
@@ -1649,7 +1673,7 @@ VII. Los compromisos de los ayuntamientos, organismos operadores o usuarios orga
 
 VIII. La aceptación por parte de los prestadores de servicios de dar cumplimiento a la normatividad operativa para el Sector Agua del Estado.
 
-### CAPITULO VI. DE LOS PROGRAMAS HIDRAULlCOS
+### CAPITULO VI. DE LOS PROGRAMAS HIDRAULICOS
 
 ###### Artículo 93.
 
@@ -1709,9 +1733,9 @@ Para que el Sistema de Control de la Productividad y Calidad del Sector Agua del
 
 ## TITULO SEXTO
 
-DE LOS SERVICIOS PUBLlCOS DE AGUA POTABLE, ALCANTARILLADO SANITARIO, DRENAJE PLUVIAL, TRATAMIENTO Y REUSO DE LAS AGUAS RESIDUALES, REUSO DE LAS AGUAS RESIDUALES TRATADAS Y DISPOSICION DE LAS AGUAS
+DE LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO SANITARIO, DRENAJE PLUVIAL, TRATAMIENTO Y REUSO DE LAS AGUAS RESIDUALES, REUSO DE LAS AGUAS RESIDUALES TRATADAS Y DISPOSICION DE LAS AGUAS
 
-### CAPITULO I. DE LA PRESTACION DE LOS SERVICIOS PUBLlCOS
+### CAPITULO I. DE LA PRESTACION DE LOS SERVICIOS PUBLICOS
 
 ###### Artículo 100.
 
@@ -1791,7 +1815,7 @@ IX. Material de la banqueta.
 
 2. La normatividad operativa para el Sector Agua del Estado establecerá las normas y políticas relacionadas con la instalación de la toma domiciliaria y descargas sanitarias.
 
-### CAPITULO II. DE LA INCORPORACION DE NUEVOS ASENTAMIENTOS HUMANOS A LAS AREAS DE FACTIBILlDAD DE LOS SERVICIOS PUBLlCOS
+### CAPITULO II. DE LA INCORPORACION DE NUEVOS ASENTAMIENTOS HUMANOS A LAS AREAS DE FACTIBILIDAD DE LOS SERVICIOS PUBLICOS
 
 ###### Artículo 111.
 
@@ -1839,7 +1863,7 @@ III. Aprobar los proyectos relativos a las instalaciones hidráulicas y sanitari
 
 2. El organismo operador no podrá autorizar el cambio de propietario mencionado en el párrafo anterior, cuando existan adeudos pendientes de pagar en el estado de cuenta correspondiente.
 
-### CAPITULO III. DE LA CONTRATACION DE LOS SERVICIOS PUBLlCOS DE AGUA POTABLE Y ALCANTARILLADO SANITARIO
+### CAPITULO III. DE LA CONTRATACION DE LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO SANITARIO
 
 ###### Artículo 117.
 
@@ -2315,15 +2339,39 @@ V. Procurar un entorno educativo que difunda los beneficios del uso eficiente y 
 
 La Comisión, en coordinación con las autoridades federales, estatales y municipales; organizaciones internacionales, así como con la participación de la sociedad, intervendrá en las actividades de seguridad hidráulica en el ámbito estatal y establecerá programas de contingencia para prevenir los efectos de avenidas, inundaciones, sequías y otros fenómenos extremos. Dichos programas deberán estar integrados en el Plan Estratégico de Desarrollo del Sector Agua para el Estado.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 169.
 
-La Comisión coadyuvará con la Federación, estados y municipios en las medidas necesarias para la construcción y operación de las obras de control de avenidas, zonas inundables y obras complementarias para la protección de las personas y de sus bienes, así como para adoptar las medidas de mitigación necesarias en casos de desastres ambientales originados o vinculados con el agua.
+1. La Comisión coadyuvará con la Federación, estados y municipios en las medidas necesarias para la construcción y operación de las obras de control de avenidas, zonas inundables y obras complementarias para la protección de las personas y de sus bienes, así como para adoptar las medidas de mitigación necesarias en casos de desastres ambientales originados o vinculados con el agua.
 
-## TITULO NOVENO. DE LAS INSPECCIONES, INFRACCIONES, SANCIONES Y RECURSOS
+2. La Comisión también coadyuvará con la Federación, estados y municipios, en el ámbito de sus facultades, para hacer cumplir el respeto de la vocación de los suelos, las zonas federales y las áreas de conservación natural, por considerarse fundamentales para la prevención de desastres provocados por fenómenos naturales.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2009)</small>
+
+## TITULO NOVENO. DE LOS SERVICIOS DE SUMINISTRO DE AGUA EN BLOQUE
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 170.
 
-La Comisión coadyuvará con la Federación, estados y municipios, en el ámbito de sus facultades, en hacer cumplir el respeto a la vocación de los suelos, las zonas federales y a las áreas de conservación natural, por considerarse fundamentales para la prevención de desastres provocados por fenómenos naturales.
+1. La Comisión podrá prestar el servicio de suministro de agua en bloque a los municipios y organismos operadores, en los términos de este Título, directamente o a través de terceros.
+
+2. La prestación del servicio de suministro de agua en bloque se realizará previa celebración del convenio correspondiente con el municipio u organismo operador de que se trate, en el cual se determinarán, en su caso, las aportaciones que podrán realizar los municipios y los organismos operadores para la ejecución de las obras, el caudal a suministrar, la forma de garantizar el pago de las cantidades contempladas en el convenio y las demás disposiciones y condiciones especiales a considerar en la prestación del servicio, en los términos de la legislación aplicable.
+
+3. Los municipios y organismos operadores pagarán a la Comisión por el servicio de suministro de agua en bloque, los derechos que establezca la Ley de Hacienda para el Estado de Tamaulipas.
+
+4. Los convenios que celebre la Comisión con los municipios u organismos operadores a efecto de proporcionar el servicio de suministro de agua en bloque, serán considerados de orden público e interés social.
+
+5. Para el debido cumplimiento de los convenios que se celebren para proporcionar el servicio de suministro de agua en bloque y para asegurar su capacidad financiera, la Comisión podrá aceptar como fuente o garantía de pago, de los derechos por la prestación de sus servicios, o ambas, las participaciones del municipio correspondiente derivadas de la coordinación fiscal federal o estatal.
+
+6. Para el cumplimiento de sus obligaciones, la Comisión podrá otorgar al Gobierno Federal o a terceros, total o parcialmente, las garantías de pago que otorguen a su favor los municipios con los que celebre los convenios a que hace referencia el presente artículo, para hacerse efectivas en caso de incumplimiento de las obligaciones asumidas por los municipios.
+
+7. A fin de implementar las afectaciones a que hace referencia este artículo, los municipios podrán constituir fideicomisos o utilizar cualquier otro instrumento legal de acuerdo con la legislación aplicable.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES TITULO NOVENO], P.O. 15 DE OCTUBRE DE 2009)</small>
+
+## TITULO DECIMO. DE LAS INSPECCIONES, INFRACCIONES, SANCIONES Y RECURSOS
 
 ### CAPITULO I. DE LA INSPECCION y VERIFICACION DEL USO Y APROVECHAMIENTO DE LAS AGUAS DE JURISDICCION ESTATAL
 
@@ -2347,7 +2395,7 @@ El proceso de inspección y verificación de aguas de jurisdicción estatal, se 
 
 2. El proceso que se instaure para la supervisión, vigilancia y fiscalización de las disposiciones contenidas en este Capítulo, se realizará en los términos que prevea la normatividad operativa para el Sector Agua del Estado.
 
-### CAPITULO II. DE LA INSPECCION Y VERIFICACION DEL USO DEL AGUA EN LOS SERVICIOS PUBLlCOS URBANOS
+### CAPITULO II. DE LA INSPECCION Y VERIFICACION DEL USO DEL AGUA EN LOS SERVICIOS PUBLICOS URBANOS
 
 ###### Artículo 175.
 
@@ -2718,3 +2766,9 @@ P.O. 7 DE JULIO DE 2009.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
