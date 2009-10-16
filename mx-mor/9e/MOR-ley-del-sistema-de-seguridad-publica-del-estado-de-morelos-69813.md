@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2009-08-24"
+last_updated: "2009-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -157,9 +157,11 @@ El Poder Judicial del Estado coadyuvará con las instancias que integran el sist
 
 El Secretario Ejecutivo realizará las acciones necesarias para asegurar que la coordinación sea efectiva y eficaz e informará de ello al Consejo Estatal.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 8.
 
-Los titulares y personal administrativo del Sistema Estatal de Seguridad Pública, del Secretariado Ejecutivo y sus unidades administrativas o académicas, y el de las dependencias que preponderantemente presten sus servicios administrativos o de asesoría en materia operativa, técnica y jurídica al Consejo Estatal o a sus integrantes, se considerará personal de seguridad pública; será de libre designación y remoción y se sujetará para su ingreso y permanencia a las evaluaciones de certificación y control de confianza.
+Los integrantes de las instituciones policiales, peritos y ministerios públicos serán considerados personal de seguridad pública y deberán cumplir con lo dispuesto en la fracción XV, del artículo 100 de la presente ley; por lo que se sujetarán para su ingreso y permanencia a las evaluaciones de certificación y control de confianza.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -1061,11 +1063,13 @@ La policía ministerial para la investigación y persecución de los delitos, se
 
 El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Integrantes de las Instituciones de Seguridad Pública y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 68.
 
-Las relaciones jurídicas entre las Instituciones de Seguridad Pública y sus auxiliares se rigen por la fracción XIII, del apartado B, del artículo 123, de la Constitución General, la presente Ley y demás disposiciones legales aplicables.
+Las relaciones jurídicas entre las Instituciones de Seguridad Pública, el personal conformado por los cuerpos policíacos, peritos y ministerios públicos se regirán por el apartado B, del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado, la presente Ley y demás disposiciones legales aplicables.
 
-Todos los servidores públicos de las Instituciones de Seguridad Pública y sus auxiliares, que no pertenezcan a la carrera policial se considerarán personal de seguridad pública y su relación con el estado o municipio será administrativa. Los efectos de su nombramiento se podrán dar por terminados en cualquier momento, de conformidad con las disposiciones aplicables, y en caso de que no acrediten las evaluaciones de control de confianza.
+Los agentes del ministerio público, los peritos y los miembros de las instituciones policiales del Estado y de los municipios, serán separados de sus cargos de conformidad con las disposiciones aplicables, y en caso de que no acrediten las evaluaciones de control de confianza serán removidos por incurrir en responsabilidad en el desempeño de sus funciones.
 
 ###### Artículo 69.
 
@@ -2383,6 +2387,8 @@ El recurso de reclamación procede en contra del acuerdo dictado por el titular 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 186.
 
 En contra de las resoluciones de los Consejos de Honor y Justicia se podrá interponer el recurso de revisión ante el Presidente de dicho órgano colegiado según sea el caso, atendiendo a lo dispuesto por la Ley de Justicia Administrativa del Estado.
@@ -2423,13 +2429,13 @@ Las resoluciones del Consejo de Honor y Justicia que recaigan sobre el Recurso d
 
 ###### Artículo 194.
 
-Los titulares, mandos superiores y mandos medios de la Secretaría de Seguridad Pública, Procuraduría General de Justicia, Secretariado Ejecutivo del Sistema Estatal, las corporaciones de seguridad pública municipal y sus unidades administrativas o académicas, se considerarán personal de seguridad pública; será de libre designación y remoción y se sujetarán para su ingreso y permanencia a las evaluaciones de certificación y control de confianza.
+Los titulares, mandos superiores y mandos medios de la Secretaría de Seguridad Pública, Procuraduría General de Justicia, Secretariado Ejecutivo del Sistema Estatal, las corporaciones de seguridad pública municipal se considerarán personal de seguridad pública; serán de libre designación y remoción, sujetándose para su ingreso y permanencia a las evaluaciones de certificación y control de confianza.
 
-El resto del personal administrativo también será considerado personal de seguridad pública, deberá sujetarse para su ingreso y permanencia a las evaluaciones de certificación y control de confianza, y la terminación de la relación administrativa será inmediata en caso de no acreditarlas.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 195.
 
-El procedimiento administrativo que implique la suspensión o terminación se establecerá en esta Ley y su reglamento, para el personal de las instituciones y auxiliares de seguridad pública a que se refiere el artículo anterior.
+El procedimiento administrativo que implique la suspensión o terminación de la relación de trabajo se establecerá en esta Ley y su reglamento, para el personal de las instituciones y auxiliares de seguridad pública en términos de lo dispuesto en esta ley.
 
 ###### Artículo 196.
 
@@ -2539,13 +2545,17 @@ Se abroga la Ley del Sistema Integral de Seguridad Pública del Estado de Morelo
 
 La Ley Orgánica de la Procuraduría General de Justicia del Estado deberá ajustar su contenido de conformidad con lo establecido en la presente ley en un plazo de 4 meses contados a partir de la entrada en vigor de este ordenamiento.
 
-El Consejo de Honor y Justicia a que se refiere el artículo 162 de esta ley, deberá instalarse en un plazo de dos meses, a efecto de aplicar las sanciones referidas en el artículo 50 párrafo segundo de la Ley Orgánica de la Procuraduría contra agentes del ministerio público, peritos y elementos de la policía ministerial.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
+
+El Consejo de Honor y Justicia a que se refiere el artículo 162 de esta Ley, deberá instalarse en el plazo de dos meses a partir de la entrada en vigor de las reformas a la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, a que se refiere el párrafo anterior a efecto de aplicar las sanciones que en la misma ley se refieran.
 
 En tanto se ajusta el procedimiento señalado en el párrafo anterior, la Visitaduría seguirá conociendo de los asuntos iniciados contra el personal de la Procuraduría en los términos de la presente ley.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO CUARTO.
 
-Los Consejos de Honor y Justicia de la Secretaría de Seguridad Pública y de las áreas de seguridad pública municipal, deberán quedar instalados, conforme lo establece esta ley, en un plazo de dos meses, para los mismos efectos del artículo anterior.
+Los consejos de honor y justicia de la Secretaría de Seguridad Pública y de las áreas de seguridad pública municipal, deberá (sic) quedar instalados conforme lo establece la ley, en un plazo de dos meses a partir de la entrada en vigor de las reformas de la ley orgánica de la Procuraduría General de Justicia del Estado de Morelos a que se refiere el segundo párrafo del artículo anterior, y para los mismos efectos establecidos en dicho artículo.
 
 ###### ARTÍCULO QUINTO.
 
@@ -2567,21 +2577,17 @@ La Junta de Gobierno del Colegio Estatal de Seguridad Pública sesionará ordina
 
 El Secretario Ejecutivo, asumirá el carácter de superior jerárquico del titular del Colegio, el cual se constituirá en la unidad académica a que se refiere esta ley, desde el inicio de vigencia de la misma, con independencia del proceso de liquidación del organismo, que se hará del conocimiento de la Junta de Gobierno, en términos del artículo 14 fracción X de la Ley del Colegio Estatal de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO NOVENO.
 
-En un marco de respeto a sus derechos laborales, el personal de base y de confianza que se encuentre laborando en la Secretaría de Seguridad Pública, la Procuraduría General de Justicia del Estado el Secretariado Ejecutivo, y el de las áreas de seguridad pública municipales, tendrán un plazo de cuarenta y cinco días naturales contados a partir de la entrada en vigor de esta ley para optar por cualquiera de las alternativas siguientes:
+Todos los integrantes de las instituciones de Seguridad Pública deberán cumplir con lo dispuesto en el artículo 100 fracción XV, de la presente ley; en caso contrario serán separados del servicio, observando para ello lo que establece el artículo 123 apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
 
-I. Manifestar por escrito su voluntad de permanecer en la dependencia en cuyo caso deberá someterse al régimen administrativo de seguridad pública y a las evaluaciones de control de confianza y aprobarlas;
+Las instituciones de seguridad pública contarán con un período de dos años a partir del inicio de la vigencia del presente decreto, a efecto de culminar con los procesos de evaluación y control de confianza. El Colegio calendarizará las evaluaciones por la institución a efecto de cumplir en tiempo y forma con este plazo.
 
-II. Acogerse a la reubicación dentro de la Administración Pública Estatal de acuerdo con su perfil y de conformidad con la disponibilidad presupuestal; u
+Todo el personal de nuevo ingreso será considerado miembro de seguridad pública y deberá regirse por el sistema de seguridad pública vigente estableciendo con ello una relación administrativa entre éstos y las instituciones de seguridad pública a las que se incorpore.
 
-III. Optar por la liquidación correspondiente. Las instituciones de seguridad pública contarán con un período de dos años a partir del inicio de la vigencia de la presente ley, a efecto de culminar con los procesos de evaluación y control de confianza dispuestos en la fracción I de este artículo. Mientras tanto, el personal que así lo haya manifestado será recontratado bajo el régimen administrativo de seguridad pública y quedará en espera de la calendarización y resultado de su evaluación.
-
-El Colegio calendarizará las evaluaciones por institución a efecto de cumplir en tiempo y forma con este plazo.
-
-El personal que opte por lo dispuesto en la fracción I de este artículo y no se someta o no apruebe las evaluaciones de control de confianza dentro del plazo a que se refieren los párrafos anteriores, dejará de prestar sus servicios en las instituciones de seguridad pública del Estado de Morelos en los términos de esta ley.
-
-El personal del Colegio Estatal de Seguridad Pública, dada la naturaleza de organismo descentralizado, sólo podrá optar por las fracciones I y III de este artículo.
+Por lo que respecta al personal que haya sido contratado con anterioridad al inicio de la vigencia de la presente ley que por su actividad o función no tengan como objetivo directo salvaguardar el orden público, la paz social o el interés público de la sociedad y presten sus servicios en las instituciones de seguridad pública en los ámbitos estatal o municipal, quedarán excluidos de la aplicación de ésta, por cuanto a sus derechos laborales, los que se sujetarán al régimen legal por el que fueron contratados.
 
 ###### ARTÍCULO DÉCIMO.
 
@@ -2598,3 +2604,15 @@ Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
 Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintiún días del mes de agosto de dos mil nueve.
 
 "SUFRAGIO EFECTIVO. NO REELECCIÓN". GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS MTRO. MARCO ANTONIO ADAME CASTILLO SECRETARIO DE GOBIERNO JORGE MORALES BARUD RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial, "Tierra y Libertad" Órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente reforma, entrará en vigor al día siguiente de su publicación.
