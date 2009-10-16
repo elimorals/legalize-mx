@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-acceso-a-la-informacion-publica-del-40611"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-17"
-last_updated: "2004-08-17"
+last_updated: "2009-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "GUA"
 
 REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 17 de agosto de 2004.
 
@@ -568,3 +570,13 @@ LIC. ARNULFO VÁZQUEZ NIETO
 EL SECRETARIO DEL H. AYUNTAMIENTO
 
 LIC. JOSÉ JESÚS PÉREZ CÁZARES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE OCTUBRE DE 2009.
+
+PRIMERO. Se abroga el Reglamento para el Acceso a la Información Pública, para el Municipio de Guanajuato, Gto.
+
+SEGUNDO. El presente Reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Por lo tanto con fundamento en lo dispuesto por los artículos 70 fracción VI y 205 de la Ley Orgánica Municipal para el Estado de Guanajuato, mando se publique, circule y se le dé el debido cumplimiento.
