@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-para-la-administracion-y-baja-de-bienes-del-67720"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-16"
-last_updated: "2008-12-11"
+last_updated: "2009-10-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "YUC"
 
 REGLAMENTO PARA LA ADMINISTRACION Y BAJA DE BIENES DEL INSTITUTO DE PROCEDIMIENTOS ELECTORALES Y PARTICIPACION CIUDADANA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el miércoles 16 de enero de 2008.
 
@@ -84,7 +84,9 @@ V. Dirección de Administración: La Dirección Ejecutiva de Administración y P
 
 VI. Almacén: La oficina del Almacén dependiente de la Dirección de Administración del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán;
 
-VII. Unidad de Contraloría: La Unidad de Contraloría Interna del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 16 DE OCTUBRE DE 2009)</small>
+
+VII. La Contraloría: La Contraloría del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán;
 
 VIII. Reglamento: El presente Reglamento para administración y baja de bienes del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán;
 
@@ -140,11 +142,13 @@ II. El Secretario Ejecutivo, quien fungirá como Secretario del Comité;
 
 III. El Director Ejecutivo de Administración y Prerrogativas del Instituto;
 
-IV. El Titular de la Unidad de Contraloría; y
+> <small>(REFORMADA, D.O. 16 DE OCTUBRE DE 2009)</small>
+
+IV. El Titular de la Contraloría; y
 
 > <small>(REFORMADA, D.O. 11 DE DICIEMBRE DE 2008)</small>
 
-V. El Titular de la Unidad de Asesoría y Desarrollo del Instituto;
+V. El Titular de la Unidad de Asesoría y Desarrollo del Instituto.
 
 El Presidente podrá nombrar por escrito a quien lo supla en el Comité, quien deberá ser un Consejero Electoral propietario.
 
@@ -236,9 +240,11 @@ III. Cuando de conformidad con el dictamen técnico que elabore, los bienes del 
 
 Cuando se trate de la baja de bienes no útiles o siniestrados, la Dirección de Administración solicitará al Comité la elaboración de un dictamen para proceder a su baja definitiva. El dictamen deberá contener una descripción del estado en que se encuentran el o los bienes, el original del resguardo de los bienes y la solicitud de baja de los bienes muebles, debidamente firmada por el Director de Administración y por el Secretario Ejecutivo.
 
+> <small>(REFORMADO, D.O. 16 DE OCTUBRE DE 2009)</small>
+
 ###### Articulo 21.
 
-Cuando se trate de bienes extraviados o robados, la Dirección de Administración deberá levantar un acta con la descripción de los hechos y posteriormente notificar de inmediato al Departamento Jurídico de este Instituto y a la Unidad de Contraloría a efecto que se realicen los trámites correspondientes para posteriormente proceder a la baja de dicho bien.
+Cuando se trate de bienes extraviados o robados, la Dirección de Administración deberá levantar un acta con la descripción de los hechos y posteriormente notificar de inmediato al Departamento Jurídico de este Instituto y a la Contraloría a efecto que se realicen los trámites correspondientes para posteriormente proceder a la baja de dicho bien.
 
 ###### Artículo 22.
 
@@ -460,15 +466,19 @@ II. Se trate de bienes, respecto de los cuales exista disposición legal o admin
 
 III. Habiéndose agotado todos los procedimientos de enajenación o el ofrecimiento de donación, no exista persona interesada, supuestos que deberán acreditarse con las constancias correspondientes.
 
-El Comité invitará invariablemente a un representante de la Unidad de Contraloría Interna del Instituto para que asista al acto de destrucción de bienes, del cual se levantará acta como constancia.
+> <small>(REFORMADO, D.O. 16 DE OCTUBRE DE 2009)</small>
+
+El Comité invitará invariablemente a un representante de la Contraloría del Instituto para que asista al acto de destrucción de bienes, del cual se levantará acta como constancia.
 
 ###### Artículo 49.
 
 Una vez aprobada y ejecutada la baja, la Dirección de Administración deberá actualizar los resguardos del inventario.
 
+> <small>(REFORMADO, D.O. 16 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 50.
 
-La Unidad de Contraloría, en el ejercicio de sus respectivas atribuciones, podrá verificar, en cualquier tiempo que la administración, destino final y baja de bienes del Instituto, se realicen conforme a lo establecido en estas normas y en otras disposiciones aplicables.
+La Contraloría, en el ejercicio de sus respectivas atribuciones, podrá verificar, en cualquier tiempo que la administración, destino final y baja de bienes del Instituto, se realicen conforme a lo establecido en estas normas y en otras disposiciones aplicables.
 
 ### Capítulo V. Generales
 
@@ -476,13 +486,13 @@ La Unidad de Contraloría, en el ejercicio de sus respectivas atribuciones, podr
 
 ###### Artículo 51.
 
-Contra el fallo de la subasta que emita el Comité, los participantes interesados podrán manifestar su inconformidad dentro de los dos días hábiles posteriores a la emisión del fallo, a través del Recurso Administrativo de Queja, mismo que será interpuesto ante el mismo Comité, quién posteriormente lo remitirá a la Unidad de Contraloría Interna del Instituto para su estudio y análisis.
+Contra el fallo de la subasta que emita el Comité, los participantes interesados podrán manifestar su inconformidad dentro de los dos días hábiles posteriores a la emisión del fallo, a través del Recurso Administrativo de Queja, mismo que será interpuesto ante el mismo Comité, quién posteriormente lo remitirá a la Contraloría del Instituto para su estudio y análisis.
 
-> <small>(ADICIONADO, D.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O. 16 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 51 Bis.
 
-Recibido el Recurso Administrativo de Queja, la Unidad de Contraloría Interna dispondrá de tres días hábiles para el estudio, análisis y elaboración del dictamen correspondiente y posteriormente lo remitirá de nueva cuenta al Comité, a efecto que dentro de los cinco días hábiles siguientes proceda a sesionar para resolver lo conducente, tomando como base lo establecido en el dictamen que la Unidad de Contraloría Interna elabore.
+Recibido el Recurso Administrativo de Queja, la Contraloría dispondrá de tres días hábiles para el estudio, análisis y elaboración del dictamen correspondiente y posteriormente lo remitirá de nueva cuenta al Comité, a efecto que dentro de los cinco días hábiles siguientes proceda a sesionar para resolver lo conducente, tomando como base lo establecido en el dictamen que la Unidad de Contraloría elabore.
 
 ###### Artículo 52.
 
@@ -504,9 +514,11 @@ Los trabajadores del Instituto, deberán firmar el inventario que esté bajo su 
 
 El Usuario responsable, deberá conservar en buen estado y funcionamiento los bienes de activo fijo que le fueren asignados, y deberá notificar a su superior jerárquico, cualquier desperfecto o pérdida de los bienes de activo fijo a su cargo, el mismo día que suceda.
 
+> <small>(REFORMADO, D.O. 16 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 56.
 
-Cuando un servidor del Instituto extravié un bien, la Dirección de Administración, a través de la Unidad de Contraloría, aplicara las previsiones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán y de otras disposiciones aplicables.
+Cuando un servidor del Instituto extravié un bien, la Dirección de Administración, a través de la Contraloría, aplicara las previsiones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán y de otras disposiciones aplicables.
 
 ###### Artículo 57.
 
@@ -520,9 +532,11 @@ La Dirección de Administración deberá notificar al Almacén los movimientos d
 
 El Director de Administración establecerá las medidas necesarias para realizar inventarios físicos totales cuando menos una vez al año y por muestreo físico cuando menos cada tres meses, cotejando los bienes contra los registros en los inventarios.
 
+> <small>(REFORMADO, D.O. 16 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 60.
 
-Cuando como resultado de la realización de inventarios los bienes no sean localizados, se efectuarán las investigaciones necesarias para su localización. Si una vez agotadas las investigaciones correspondientes los bienes no son encontrados, se levantará el acta administrativa haciendo constar los hechos y se notificará a la Unidad de Contraloría a efecto de que, en su caso, se determinen las responsabilidades a que haya lugar.
+Cuando como resultado de la realización de inventarios los bienes no sean localizados, se efectuarán las investigaciones necesarias para su localización. Si una vez agotadas las investigaciones correspondientes los bienes no son encontrados, se levantará el acta administrativa haciendo constar los hechos y se notificará a la Contraloría a efecto de que, en su caso, se determinen las responsabilidades a que haya lugar.
 
 ###### Artículo 61.
 
@@ -538,4 +552,10 @@ D.O. 11 DE DICIEMBRE DE 2008.
 
 SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
-OCTAVO. Pubíquese el presente Acuerdo en el Diario Oficial del Gobierno del Estado, para su difusión.
+OCTAVO. Publíquese el presente Acuerdo en el Diario Oficial del Gobierno del Estado, para su difusión.
+
+D.O. 16 DE OCTUBRE DE 2009.
+
+SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEXTO. Publíquese el presente Acuerdo en el Diario Oficial del Gobierno del Estado, para su difusión.
