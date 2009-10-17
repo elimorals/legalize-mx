@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2007-04-25"
+last_updated: "2009-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -42,8 +42,6 @@ DECRETA:
 ###### ARTICULO UNICO.
 
 Se expide la Ley Estatal de Educación para quedar en los siguientes términos:
-
-> <small>N. DE E. LAS REFORMAS Y ADICIONES APROBADAS EN EL DECRETO NO. 879/07 VIII P.E. POR LA SEXTAGESIMA LEGISLATURA, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA LEY, DANDO COMO RESULTADO UN TEXTO DIFERENTE; Y SI BIEN, DIVERSOS ARTICULOS QUEDARON INTACTOS, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 25 DE ABRIL DE 2007.</small>
 
 > <small>(REFORMADA, P.O. DE 25 DE ABRIL DE 2007)</small>
 
@@ -351,9 +349,15 @@ XXXVI. Profesionalizar al personal de apoyo y asistencia a la educación, a trav
 
 XXXVII. Capacitar y profesionalizar a los funcionarios estatales del sector educativo; y (sic)
 
-XXXVIII. Invertir recursos financieros a la investigación pedagógica para la innovación y el desarrollo del sistema educativo.
+XXXVIII. Invertir recursos financieros a la investigación pedagógica para la innovación y el desarrollo del sistema educativo;
 
-XXXIX. Supervisar la Vigilancia del ejercicio profesional en el Estado.
+XXXIX. Supervisar la Vigilancia del ejercicio profesional en el Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS A LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2009)</small>
+
+XL. Crear y sostener un sistema estatal de estímulos para estudiantes del Estado, destacados a nivel estatal, nacional e internacional, en cualesquiera de las ramas del quehacer humano, con base en la partida presupuestal que determine el Poder Legislativo del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1017,7 +1021,7 @@ La educación del tipo medio superior comprende el nivel de bachillerato y los e
 
 El bachillerato podrá ser propedéutico, terminal o bivalente:
 
-I. Será propedéutico, aquel que orienta hacia la preparación de la y del educando para su incorporación específica a los estudios de nivel superior;
+I. Será propedéutico, aquél que orienta hacia la preparación de la y del educando para su incorporación específica a los estudios de nivel superior;
 
 II. Será terminal, el que forme técnica o profesionalmente al egresado para su integración al sector productivo en la sociedad, sin que esto sea causa excluyente para el ingreso a niveles superiores; previa acreditación académica que corresponda; y
 
@@ -2430,3 +2434,7 @@ Los trabajadores de la educación que prestan servicios en el Estado sin el perf
 ###### ARTÍCULO SÉPTIMO.
 
 La Educación Preescolar será obligatoria en el primer año de Preescolar, a partir del ciclo 2008-2009. Lo anterior, de conformidad con el Artículo Quinto Transitorio de la reforma de fecha doce de noviembre de dos mil dos a la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 17 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día primero de enero del año 2010.
