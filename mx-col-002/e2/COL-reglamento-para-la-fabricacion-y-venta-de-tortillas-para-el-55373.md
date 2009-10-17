@@ -4,7 +4,7 @@ identifier: "COL-reglamento-para-la-fabricacion-y-venta-de-tortillas-para-el-553
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-21"
-last_updated: "2007-04-21"
+last_updated: "2009-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO PARA LA FABRICACION Y VENTA DE TORTILLAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 21 de abril de 2007.
 
@@ -283,17 +283,17 @@ IV. Copia de la autorización de PROFECO, de que cumple con las Normas Oficiales
 
 Los interesados en obtener un Permiso para comercializar su producto en la vía pública de manera ambulante, deberán cumplir con los siguientes requisitos.
 
-l. Contar con las Licencias Municipales tipos A con giro de producción y comercialización de tortilla.
+l. (DEROGADA, P.O. 17 DE OCTUBRE DE 2009)
 
 II. Solicitud por escrito del titular de la tortillería, domicilio de la tortillería, especificar en la solicitud las colonias o zonas donde desea comercializar su producto.
 
-III. Demostrar que los vehículos en donde se realizará la comercialización se encuentran debidamente rotulados con los datos de la tortillería.
+III. (DEROGADA, P.O. 17 DE OCTUBRE DE 2009)
 
 IV. Copia del recibo de pago de derechos ante la Tesorería Municipal.
 
 V. Copia de la autorización de PROFECO, de que cumple con las Normas Oficiales Mexicanas NOM-010 -SCFI-1994, Instrumentos de medición-Instrumentos para pesar de funcionamiento no automático- Requisitos técnicos y metodológicos y NOM-187-SSA1/SCFI-2002, Productos y servicios. Masa, tortillas, tostadas y harinas preparadas para su elaboración y establecimientos donde se procesan. Especificaciones sanitarias. Información comercial. Métodos de prueba.
 
-Las zonas y las colonias en donde se podrá realizar la comercialización de tortilla a que se refiere este permiso serán determinadas por la Dirección de Abasto y Comercialización, los permisos se expedirán exclusivamente para aquellas zonas en que no existan tortillerías.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 17 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 18.
 
@@ -305,7 +305,7 @@ b) Ubicación de la tortillería, del establecimiento.
 
 c) Giro Autorizado.
 
-d) Días y horarios de funcionamiento.
+d) (DEROGADO, P.O. 17 DE OCTUBRE DE 2009)
 
 e) Nombre, denominación o razón social de la tortillería y/o del establecimiento.
 
@@ -317,7 +317,7 @@ h) Nombre, cargo y firma de las autoridades municipales que la expidan.
 
 i) Lugar y fecha de expedición.
 
-Tratándose de permisos, estos contendrán además las zonas en donde está permitida la venta ambulante de los productos.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 17 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 19.
 
@@ -369,7 +369,7 @@ III. Facilitar las inspecciones al personal autorizado por la Dirección de Insp
 
 IV. Sujetarse estrictamente al giro que se autoriza en la licencia municipal.
 
-V. Observar el horario autorizado en la licencia municipal.
+V. (DEROGADA, P.O. 17 DE OCTUBRE DE 2009)
 
 VI. Comunicar por escrito a la Tesorería Municipal la suspensión o terminación de actividades.
 
@@ -389,9 +389,9 @@ II. Conservar en su poder, el documento original del Permiso.
 
 III. Facilitar las inspecciones al personal autorizado por la Dirección de Inspección y Licencias, Dirección de Abastos y Comercialización y Reglamentos Municipales, proporcionándole los datos, información y elementos que les soliciten, con el objeto de que constaten el cumplimiento de las disposiciones contenidas en este Reglamento.
 
-IV. Sujetarse estrictamente a que la venta se circunscriba exclusivamente a productos autorizados en las zonas que se establecen en el Permiso.
+IV. (DEROGADA, P.O. 17 DE OCTUBRE DE 2009)
 
-V. Observar el horario autorizado.
+V. (DEROGADA, P.O. 17 DE OCTUBRE DE 2009)
 
 VI. Comunicar por escrito a la Dirección de Abastos y Comercialización, la suspensión o terminación de actividades.
 
@@ -399,13 +399,7 @@ VI. Comunicar por escrito a la Dirección de Abastos y Comercialización, la sus
 
 ###### Artículo 29.
 
-Las tortillerías o lugares con licencia, a que alude el Reglamento, se sujetarán a los siguientes horarios y días de funcionamiento:
-
-l. TORTILLERÍAS: Diariamente de las 05:00 a las 18:00 hrs.
-
-II. LOS ESTABLECIMIENTOS: Se sujetarán al horario establecido en la licencia municipal del giro principal.
-
-III. LOS PERMISOS: Se sujetarán al horario que determine la Dirección de Abasto y Comercialización de acuerdo a la zona donde se ejercerá el comercio.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2009)
 
 ### CAPÍTULO VI. DE LAS VISITAS DE INSPECCIÓN
 
@@ -497,11 +491,13 @@ j) Usufructuar una licencia o permiso a nombre de otra persona física o moral;
 
 k) Funcionar con un giro distinto al autorizado en la licencia municipal;
 
-l) Funcionar el establecimiento fuera del horario autorizado en la licencia municipal;
+l) (DEROGADO, P.O. 17 DE OCTUBRE DE 2009)
 
 m) No proporcionar a los inspectores la licencia municipal que autoriza el funcionamiento del establecimiento al momento en que se lleve a cabo la inspección;
 
-n) Realizar el reparto a domicilio o la venta ambulante sin contar con el permiso a que se refiere el artículo 17 del presente Reglamento o que, contando con él, el reparto o la venta ambulante se realice en zonas no autorizadas;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2009)</small>
+
+n) Realizar el reparto a domicilio o la venta ambulante sin contar con el permiso a que se refiere el artículo 17 del presente Reglamento;
 
 o) En general, la violación de cualquiera de las disposiciones contempladas en el presente ordenamiento, no especificada en este Artículo.
 
@@ -533,9 +529,13 @@ II. Se impondrá una multa cuyo importe no será menor al equivalente a 20 ni ma
 
 III. Se impondrá una multa cuyo importe no será menor al equivalente a 50 ni mayor de 150 días de salario mínimo a quienes incurran en las infracciones que señala el inciso c).
 
-IV. Se impondrá una multa cuyo importe no será menor al equivalente a 30 ni menor de 200 días de salario mínimo a quienes incurran en las infracciones que señalan los incisos d), j), l) y n).
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2009)</small>
 
-V. Se impondrá una multa cuyo importe no será menor al equivalente a 20 ni mayor a 55 días de salario mínimo a quienes incurran en alguna de las infracciones señaladas en los incisos m) y o).
+IV. Se impondrá una multa cuyo importe no será menor al equivalente a 30 ni mayor de 200 días de salario mínimo a quienes incurran en las infracciones que señalan los incisos d), j), y m).
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2009)</small>
+
+V. Se impondrá una multa cuyo importe no será menor al equivalente a 20 ni mayor a 55 días de (sic) a quienes incurran en alguna de las infracciones señaladas en los incisos l) y n).
 
 ###### Artículo 39.
 
@@ -543,9 +543,11 @@ Los casos de reincidencia se sancionarán aplicando doble multa de la que se hub
 
 Se entenderá por reincidencia la violación a cualquiera de las disposiciones contenidas en el presente Reglamento dentro de un plazo de seis meses siguientes a la fecha en que se comete la primera infracción.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 40.
 
-Procede la clausura temporal hasta por 30 días de las tortillerías o establecimientos que regula el presente ordenamiento, cuando se esté en alguno de los supuestos señalados en los incisos b), c), d), h), i), k), l), m) y n).
+Procede la clausura temporal hasta por 30 días de las tortillerías o establecimientos que regula el presente ordenamiento, cuando se esté en alguno de los supuestos señalados en los incisos b), c), d), h), i), k), l), y m).
 
 ###### Artículo 41.
 
@@ -656,3 +658,9 @@ TERCERO.- Quedan derogadas o abrogadas según el caso, todas las disposiciones d
 Dado en el Salón de Cabildos del H. Ayuntamiento Constitucional de Colima, Col., en Sesión Pública Extraordinaria celebrada a los diecinueve días del mes de abril del año 2007.
 
 L.I.C. MARIO ANGUIANO MORENO, Presidente Municipal. Rúbrica.- LIC. JULIO CESAR MARIN VELAZQUEZ COTTIER, Secretario del Ayuntamiento. Rúbrica.- C.P. JOSÉ ANTONIO OROZCO SANDOVAL, Síndico Municipal. Rúbrica.- REGIDORES: C. GONZALO VERDUZCO GENIS, Rúbrica.- PROFR. NICOLAS CONTRERAS CORTES, Rúbrica.- LIC. IGNACIA MOLINA VILLARREAL, Rúbrica. C.P. LEONOR DE LA MORA BEJAR, Rúbrica.- LIC. VÍCTOR JACOBO VAZQUEZ CERDA, Rúbrica. C. JOSÉ VERDUZCO MORENO, Rúbrica.- LIC. MARGARITA PADILLA CAMBEROS, Rúbrica.- LIC. LUIS FERNANDO ANTERO VALLE, Rúbrica.- LIC. PATRICIA LUGO BARRIGA, Rúbrica.- ARQ. MILTON DE ALVA GUTIÉRREZ, Rúbrica.- ING. ARMANDO GONZALEZ MANZO, Rúbrica.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
