@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2009-09-19"
+last_updated: "2009-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -1661,15 +1661,19 @@ Son facultades del Congreso las contenidas en la Constitución Federal, la parti
 
 ### CAPITULO II. EN MATERIA DE RESPONSABILIDADES
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 144.
 
-Las solicitudes de denuncia de Juicio Político y de declaración de procedencia que se presenten en contra de los Servidores Públicos mencionados en el artículo 179 de la Constitución Política del Estado, se sujetarán al siguiente procedimiento:
+Las solicitudes de denuncia de juicio político y de declaración de procedencia que se presenten en contra de los servidores públicos mencionados en el artículo 179 de la Constitución Política del Estado se sujetarán al siguiente procedimiento:
 
-I.- Se presentarán por escrito ante el Oficial Mayor del Congreso, acompañándose con los elementos de prueba suficientes, así como de las diligencias de la averiguación previa que en su caso se hubieren practicado;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2009)</small>
 
-II.- El Oficial Mayor, previa ratificación del escrito, lo turnará al presidente del Congreso o de la Diputación Permanente, en su caso. Si la solicitud no se apoyare en prueba alguna o fuere notoriamente improcedente, se desechará de plano por la directiva del congreso o por la Diputación Permanente en su caso;
+I.- Se presentarán por escrito ante el Secretario de Servicios Parlamentarios y Vinculación Ciudadana, acompañándose con los elementos de prueba suficientes, así como de las diligencias de la averiguación previa que en su caso se hubieren practicado;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2009)</small>
+
+II.- El Secretario de Servicios Parlamentarios y Vinculación Ciudadana, previa ratificación del escrito, lo turnará al Presidente del Congreso o de la Diputación Permanente, en su caso. Si la solicitud no se apoyara en prueba alguna o fuere notoriamente improcedente, se desechará de plano por la directiva del Congreso o por la Diputación Permanente en su caso;
 
 III.- Si el Congreso no estuviere reunido, la Diputación Permanente podrá convocar a período extraordinario de sesiones si así lo estima conveniente, para que aquél conozca y resuelva la solicitud relativa;
 
@@ -2258,3 +2262,7 @@ P.O. 19 DE SEPTIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
