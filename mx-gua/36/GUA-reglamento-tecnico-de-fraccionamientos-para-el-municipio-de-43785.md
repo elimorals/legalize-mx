@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-tecnico-de-fraccionamientos-para-el-municipio-de-437
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-08"
-last_updated: "2005-02-08"
+last_updated: "2009-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO TECNICO DE FRACCIONAMIENTOS PARA EL MUNICIPIO DE ALLENDE, GUANAJUATO
 
-REGLAMENTO TECNICO DE FRACCIONAMIENTOS PARA EL MUNICIPIO DE ALLENDE, GUANAJUATO
+REGLAMENTO TECNICO DE FRACCIONAMIENTOS PARA EL MUNICIPIO DE ALLENDE, GTO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 8 de febrero de 2005.
 
@@ -421,13 +421,19 @@ b) Las calles locales, deberán tener una sección mínima de 11.00 metros de pa
 
 c) Las vialidades colectoras, deberán tener una sección mínima de 14 metros de paramento a paramento y las banquetas serán de 2.00 metros de ancho, debiéndose destinar 0.60 metros para franja jardinada o arriates.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2009)</small>
+
+Tratandose de fraccionamientos de habitación popular o de interés social de mil viviendas o más, sus construcciones podrá (sic) ser de tipo duplex, siempre y cuando sus lotes tengan un frente mínimo de 10.00 metros, y una superficie mínima de 170 metros cuadrados y no se constituya más de 70 viviendas por hectárea.
+
 ###### ARTICULO 43.
 
 En los fraccionamientos urbanos tipo A, B, C y de habitación popular o interés social de urbanización inmediata, solo se podrá construir y ocupar los lotes una vez que se hayan concluido y estén en funcionamiento las obras básicas y complementarias, de la totalidad o la sección solicitada en la Licencia de Obra.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 44.
 
-los fraccionamientos de habitación popular o interés social podrán desarrollarse bajo el procedimiento de urbanización progresiva siempre y cuando sean promovidos por organismos públicos competentes o en coordinación con el Instituto de Vivienda del Estado de Guanajuato, Instituto Municipal de Vivienda o Fideicomiso de Desarrollo de Vivienda, y sus lotes no podrán tener un frente menor de 6.00 metros, ni una superficie menor de 105.00 metros cuadrados. Estos fraccionamientos deberán de contar con las obras de urbanización que establece el artículo 37 de este reglamento.
+Los fraccionamientos de habitación popular o interés social podrán desarrollarse bajo el procedimiento de urbanización progresiva siempre y cuando sean promovidos por organismos públicos competentes o en coordinación con la Comisión de Vivienda del Estado de Guanajuato, y sus lotes no podrán tener un frente menor de 6.00 metros, ni una superficie menor de 105.00 metros cuadrados. Los fraccionamientos contemplados en el último párrafo del artículo 42, no podrán tener un frente menor de 10.00 metros, ni una superficie menor de 170 metros cuadrados. Estos fraccionamientos deberán de contar con las obras de urbanización, que establece el artículo 37 de este reglamento.
 
 ###### ARTICULO 45.
 
@@ -861,13 +867,17 @@ VI. Deberán contar con las instalaciones necesarias colindantes a la vía públ
 
 Los adquirientes de viviendas o departamentos en los desarrollos en condominio sólo podrán habitarlos hasta que se concluyan las obras de urbanización básicas y complementarias.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 73.
 
-Las construcciones duplex, triplex y los desarrollos en condominio habitacionales, deberán sujetarse al régimen de propiedad en condominio, y cumplir con lo dispuesto en este reglamento y demás disposiciones aplicables. Los condominios verticales, deberán prever los espacios para dotación de ventilación e iluminación para cada unidad o área privativa.
+Las construcciones duplex, triplex y los desarrollos en condominio habitacionales, deberán sujetarse al régimen de propiedad en condominio, y cumplir con lo dispuesto en este reglamento y demás disposiciones aplicables. Se exceptúan de esta disposición las construcciones tipo duplex contempladas en el último párrafo del artículo 42 de este ordenamiento. Los condominios verticales deberán prever los espacios para dotación de ventilación e iluminación para cada unidad o área privativa.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 74.
 
-Para los efectos de este Reglamento las construcciones dúplex o triplex se denominarán módulos, los cuales estarán constituidos por dos o tres viviendas respectivamente, considerándose como condominios habitacionales horizontales. Cada módulo deberá ser estructuralmente independiente entre sí, con frente mínimo de seis metros por cada unidad o área privativa.
+Para los efectos de este Reglamento las construcciones dúplex o triplex se denominarán módulos, los cuales estarán constituidos por dos o tres viviendas respectivamente, considerándose como condominios habitacionales horizontales. Cada módulo deberá ser estructuralmente independiente entre sí, con frente mínimo de seis metros por cada unidad o área privativa. Cada módulo de las construcciones duplex de fraccionamientos de habitación popular o interés social, tendrá un frente mínimo de cinco metros por cada unidad o área privativa.
 
 ###### ARTICULO 75.
 
@@ -1198,3 +1208,11 @@ PRESIDENTE MUNICIPAL
 JOSÉ JESÚS CORREA RAMÍREZ
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE OCTUBRE DE 2009.
+
+Artículo Primero.- Estas reformas entrarán en vigor al cuarto día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo.- Las autorizaciones de fraccionamientos, desarrollos en condominio, relotificaciones, divisiones, lotificaciones, que se hayan solicitado con anterior a las reformas a este reglamento se continuarán tramitando de acuerdo a las disposiciones contenidas en el reglamento vigente en el momento de su autorización.
