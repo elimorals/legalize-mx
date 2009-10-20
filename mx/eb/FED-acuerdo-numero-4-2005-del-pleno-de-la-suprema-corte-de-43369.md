@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-4-2005-del-pleno-de-la-suprema-corte-de-43369"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-02-14"
-last_updated: "2008-04-14"
+last_updated: "2009-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2005-01-25"
 
 ACUERDO NUMERO 4/2005, DE VEINTICINCO DE ENERO DE DOS MIL CINCO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL PLENARIO NUMERO 5/2008, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 14 DE ABRIL DE 2008, SE DECLARA LA VIGENCIA DE LOS ARTICULOS CUARTO Y QUINTO TRANSITORIOS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL PLENARIO NUMERO 10/2009, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 20 DE OCTUBRE DE 2009, SE DECLARA LA VIGENCIA DE LOS ARTICULOS CUARTO Y QUINTO TRANSITORIOS DEL PRESENTE ORDENAMIENTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de febrero de 2005.
 
@@ -402,3 +402,13 @@ TERCERO. La Secretaría General de Acuerdos remitirá a la Dirección General de
 CUARTO. Se abrogan los Acuerdos Generales Plenarios 2/2007 relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, 14/2007 y 19/2007, sin menoscabo de reconocer la vigencia de los artículos cuarto y quinto transitorios del Acuerdo General Plenario 4/2005.
 
 QUINTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
+
+D.O.F. 20 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los documentos en que se precisen las funciones de las plazas que se crean o se transforman con motivo de este Acuerdo General, deberán remitirse dentro de los quince días naturales siguientes a su entrada en vigor, a la Dirección General de Personal.
+
+TERCERO. Se abroga el Acuerdo General Plenario 13/2008, relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, sin menoscabo de reconocer la vigencia de los artículos cuarto y quinto transitorios del Acuerdo General Plenario 4/2005.
+
+QUINTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
