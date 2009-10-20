@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-13-2008-de-primero-de-diciembre-de-64731
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-15"
-last_updated: "2008-12-15"
+last_updated: "2009-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64731&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-12-01"
 
 ACUERDO GENERAL NUMERO 13/2008 DE PRIMERO DE DICIEMBRE DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL NUMERO 10/2009 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 20 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 15 de diciembre de 2008.
 
@@ -302,3 +304,15 @@ ANEXO II
 TOTAL DE PLAZAS PERMANENTES EN LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los documentos en que se precisen las funciones de las plazas que se crean o se transforman con motivo de este Acuerdo General, deberán remitirse dentro de los quince días naturales siguientes a su entrada en vigor, a la Dirección General de Personal.
+
+TERCERO. Se abroga el Acuerdo General Plenario 13/2008, relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, sin menoscabo de reconocer la vigencia de los artículos cuarto y quinto transitorios del Acuerdo General Plenario 4/2005.
+
+QUINTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
