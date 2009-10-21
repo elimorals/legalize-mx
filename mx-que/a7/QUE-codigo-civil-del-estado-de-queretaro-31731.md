@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2008-02-29"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO CIVIL DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. DE 21 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -16080,3 +16082,9 @@ LEY QUE REFORMA Y ADICIONA EL ARTICULO 1460 BIS DEL CODIGO CIVIL.
 PRIMERO. La presente Ley entrará en vigor a los treinta días de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+Artículo Primero. Este Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga el Código Civil del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado, con fecha veintidós de noviembre de mil novecientos noventa.
