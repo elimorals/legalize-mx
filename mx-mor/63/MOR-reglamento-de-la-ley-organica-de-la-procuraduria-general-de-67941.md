@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-679
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-01"
-last_updated: "2009-07-22"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 22 DE JULIO DE 2009.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -63,7 +61,9 @@ La Procuraduría General de Justicia del Estado de Morelos cuyo titular es el Pr
 
 I. Oficina del Procurador;
 
-II. Subprocuraduría Metropolitana;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+II. Subprocurador General;
 
 III. Subprocuraduría Zona Oriente;
 
@@ -71,7 +71,9 @@ IV. Subprocuraduría Zona Sur Poniente;
 
 V. Subprocuraduría de Investigaciones Especiales;
 
-VI. Subprocuraduría de Derechos Humanos y Justicia Restaurativa;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+VI. Coordinación General de Servicios Periciales y Derechos Humanos;
 
 VII. Coordinación General de la Policía Ministerial;
 
@@ -83,7 +85,9 @@ X. Direcciones Generales de Averiguaciones Previas y Procedimientos Penales;
 
 XI. Direcciones Generales de Investigaciones y Procesos Penales;
 
-XII. Dirección General de Averiguaciones Previas y Procedimientos Penales de Investigaciones Especiales;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XII. Dirección General de Investigaciones y Procesos Penales de la Subprocuraduría de Investigaciones Especiales;
 
 XIII. Dirección General del Centro de Justicia Alternativa;
 
@@ -135,17 +139,21 @@ XXXI. Dirección de Aprehensiones de la Policía Ministerial.
 
 Las anteriores unidades administrativas estarán integradas por los titulares respectivos, así como de directores de área, subdirectores, jefes de departamento, jefes de oficina, y demás servidores públicos que se señale en los manuales de organización y de políticas y procedimientos y disposiciones jurídicas aplicables, así como por los servidores públicos que se requiera para el adecuado cumplimiento de las atribuciones establecidas.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 5.
 
-La Procuraduría General de Justicia contará además de las unidades administrativas mencionadas en el artículo anterior con el órgano administrativo desconcentrado de carácter estatal denominado, Fondo Económico para la Restauración y Protección Especial de las Víctimas y Ofendidos del Delito, el cual contará con autonomía técnica y de gestión y estará adscrito directamente al Procurador General de Justicia. Dicho órgano se organizará y funcionará de conformidad con lo establecido en el reglamento que al efecto expida el Procurador.
+La Procuraduría General de Justicia contará además de las unidades administrativas mencionadas en el artículo anterior con el órgano administrativo desconcentrado de carácter estatal denominado Fondo Económico para la Restauración y Protección Especial de las Víctimas y Ofendidos del Delito, el cual contará con autonomía técnica y de gestión y estará adscrito al Subprocurador General. Dicho órgano se organizará y funcionará de conformidad con lo establecido en el reglamento que al efecto expida el Procurador.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 6.
 
-Serán Agentes del Ministerio Público para todos los efectos legales que corresponda, el Procurador, los Subprocuradores, Coordinadores Generales, Directores Generales, el Visitador General, Subdirectores, los titulares de la (sic) Unidades Especializadas de Investigación, Jefes de departamento y Coordinadores.
+Serán Agentes del Ministerio Público para todos los efectos legales que corresponda, el Procurador, los Subprocuradores, Coordinadores Generales, Directores Generales, el Visitador General, Subdirectores, Directores de Área, los titulares de la (sic) Unidades Especializadas de Investigación, Jefes de Departamento y Coordinadores.
 
-Los servidores públicos a que se refieren (sic) el párrafo anterior no serán considerados miembros del Servicio de Carrera, a menos que acrediten los requisitos que la Ley Orgánica y demás disposiciones establecen para tal efecto.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Los servidores públicos a que se refiere el párrafo anterior no serán considerados miembros del Servicio de Carrera, a menos que acrediten los requisitos que la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos y demás disposiciones establecen para tal efecto.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
@@ -193,7 +201,9 @@ XI. Autorizar las bases para los nombramientos, movimientos de personal y termin
 
 XII. Establecer las condiciones generales de trabajo de la Procuraduría, con apego a la Ley;
 
-XIII. Acordar con los Subprocuradores, los Coordinadores Generales y los titulares de las unidades administrativas de apoyo técnico y asesoría directa del titular y de las que estime pertinentes, los asuntos de su respectiva competencia;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XIII. Acordar con el Subprocurador General, Subprocuradores, los Coordinadores Generales y los titulares de las unidades administrativas de apoyo técnico y asesoría directa del titular y de las que estime pertinentes, los asuntos de su respectiva competencia;
 
 XIV. Establecer al personal de la Institución, las instrucciones generales o especiales para el cumplimiento de sus atribuciones y funciones para lograr la unidad de acción del Ministerio Público, mediante la expedición de los acuerdos y circulares correspondientes;
 
@@ -205,7 +215,7 @@ XVII. Adoptar las medidas para investigar las detenciones arbitrarias que se com
 
 XVIII. Encomendar a los Agentes del Ministerio Público, independientemente de sus funciones, el estudio de los asuntos que estime convenientes;
 
-XIX. Tomar conocimiento de las quejas sobre demoras, excesos o faltas, en el despacho de los asuntos en que intervenga el personal de la Institución;
+XIX. (DEROGADA, P.O. 21 DE OCTUBRE DE 2009)
 
 XX. Instruir a los servidores públicos de la Procuraduría sobre los términos en que se podrá proporcionar auxilio a otras Autoridades Federales, Estatales o Municipales;
 
@@ -227,7 +237,7 @@ XXVIII. Cumplir las leyes y acuerdos de alcance nacional o estatal en asuntos co
 
 XXIX. Calificar en definitiva sobre las excusas y recusaciones del personal de la Procuraduría;
 
-XXX. Solicitar a la autoridad competente la aplicación de las sanciones cuando las autoridades policiales no cumplan con su potestad disciplinaria;
+XXX. (DEROGADA, P.O. 21 DE OCTUBRE DE 2009)
 
 XXXI. Autorizar y supervisar los acuerdos de investigación conjunta en el marco de los Sistemas Nacional y Estatal de Seguridad Pública;
 
@@ -271,7 +281,9 @@ IX. Investigar y perseguir los delitos, en términos de lo dispuesto por los art
 
 X. Autorizar la aplicación de los criterios de oportunidad de acuerdo a lo establecido en el artículo 88 del Código de Procedimientos Penales publicado en el periódico oficial “Tierra y Libertad” el 22 de noviembre de 2007, número 4570;
 
-XI. Autorizar y establecer los términos del desistimiento de la acción de extinción de dominio que le plante (sic) el Ministerio Público de la causa;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XI. Autorizar y establecer los términos del desistimiento de la acción de extinción de dominio que le planteé el Ministerio Público de la causa;
 
 XII. Resolver sobre las excusas y recusaciones del personal que tenga adscrito;
 
@@ -287,25 +299,79 @@ XVI. Resolver sobre las quejas y recursos que la víctima u ofendido interponga 
 
 XVII. Las demás que por disposición jurídica no se encuentren reservadas al Procurador.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DE LAS SUBPROCURADURÍAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO III. DE LOS SUBPROCURADORES DEL SUBPROCURADOR GENERAL
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 10 BIS. El Subprocurador General tendrá además de las atribuciones establecidas en los artículos 10 y 11, las siguientes:
+
+I. Proponer al Procurador la elaboración de acuerdos, circulares y demás instrumentos jurídicos;
+
+II. Coadyuvar con el Procurador en la planeación, organización y realización de las acciones tendientes a cumplir la función constitucional legalmente asignada a la Procuraduría General de Justicia;
+
+III. Coadyuvar para hacer más accesible la procuración de justicia garantizando los intereses de la sociedad conforme a lo establecido en la Constitución General de la República, del Estado y demás leyes;
+
+IV. Coordinar a las Subprocuradurías y Coordinación General de Servicios Periciales y Derechos Humanos, con el fin de garantizar el eficaz cumplimiento de los objetivos, políticas y programas establecidos por el Procurador General de Justicia;
+
+V. Planear y coordinar los programas y medidas necesarias para optimizar el funcionamiento de las áreas y unidades administrativas que le estén adscritas;
+
+VI. Representar al Procurador en los casos que éste determine y auxiliarlo en las atribuciones que tiene encomendadas;
+
+VII. Desempeñar las funciones y comisiones que el Procurador le encomiende e informarle el desarrollo de las mismas;
+
+VIII. Acordar con el Procurador el despacho de los asuntos de su competencia y de las unidades ministeriales y administrativas a su cargo;
+
+IX. Administrar los recursos humanos, financieros y materiales que le asignen;
+
+X. Recibir quejas sobre demora, exceso o deficiencias en que haya incurrido el personal de la Procuraduría en el despacho de los asuntos y dictar las determinaciones tendientes a corregirlas;
+
+XI. Solicitar a la autoridad competente la aplicación de las sanciones cuando las autoridades policiales no cumplan con su potestad disciplinaria en caso de ausencia del Procurador;
+
+XII. Recibir en acuerdo a los titulares de las unidades ministeriales y administrativas de su adscripción, así como aquéllos que ordene el Procurador, y emitir los acuerdos tendientes a resolver los asuntos que sean competencia de las mismas;
+
+XIII. Asignar comisiones especiales al personal de la Procuraduría, cuando así lo determine el Procurador;
+
+XIV. Las que correspondan a su calidad de Agente del Ministerio Público, y
+
+XV. Las demás que le confieran las disposiciones legales aplicables y aquéllas que le encomiende el Procurador.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+DE LAS ATRIBUCIONES DE LAS SUBPROCURADURÍAS
+
+(REUBICADO, P.O. 21 DE OCTUBRE DE 2009)
 
 ###### ARTÍCULO 11.
 
 Al frente de cada Subprocuraduría habrá un Subprocurador, quien tendrá las siguientes atribuciones:
 
-I. Acordar con el Procurador el despacho de los asuntos de su competencia y de las unidades administrativas a su cargo y responsabilidad;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-II. Desempeñar las funciones y comisiones que el Procurador les encomiende e informarle sobre el desarrollo de las mismas;
+I. Acordar con el Superior Jerárquico el despacho de los asuntos de su competencia y de las unidades administrativas a su cargo y responsabilidad;
 
-III. Someter a la aprobación del Procurador los estudios y proyectos que se elaboren en las unidades administrativas a su cargo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-IV. Coordinar, vigilar y evaluar las actividades de las unidades administrativas de su adscripción, de conformidad con los lineamientos que determine el Procurador;
+II. Desempeñar las funciones y comisiones que el Superior Jerárquico les encomiende e informarle sobre el desarrollo de las mismas;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+III. Someter a la aprobación del Superior Jerárquico los estudios y proyectos que se elaboren en las unidades administrativas a su cargo;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+IV. Coordinar, vigilar y evaluar las actividades de las unidades administrativas de su adscripción, de conformidad con los lineamientos que determine su Superior Jerárquico;
 
 V. Formular el anteproyecto de presupuesto de las unidades administrativas a su cargo y responsabilidad;
 
-VI. Someter a la consideración del Procurador los Manuales de Organización y Manual de Políticas y Procedimientos; así como aquellos normativos, de coordinación y de operación de las diversas unidades a su cargo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-VII. Proponer al Procurador la delegación en servidores públicos subalternos, de las atribuciones que estimen necesarias para el óptimo desarrollo de las mismas;
+VI. Someter a la consideración del Superior Jerárquico los Manuales de Organización y Manual de Políticas y Procedimientos; así como aquellos normativos, de coordinación y de operación de las diversas unidades a su cargo;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+VII. Proponer al Superior Jerárquico la delegación en servidores públicos subalternos, de las atribuciones que estimen necesarias para el óptimo desarrollo de las mismas;
 
 VIII. Recibir en acuerdo a los titulares de las unidades administrativas de su adscripción y resolver los asuntos que sean competencia de los mismos, así como conceder audiencia al público;
 
@@ -313,7 +379,9 @@ IX. Resolver, por delegación que realice el Procurador mediante acuerdo, sobre 
 
 X. Autorizar a los servidores públicos competentes de la Procuraduría, por delegación que realice el Procurador mediante Acuerdo, para que actúen en materia de sobreseimiento de los procesos penales en los casos en que proceda legalmente;
 
-XI. Informar al Procurador el cumplimiento de las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación y cateo, u otras que ordenen los órganos jurisdiccionales y que les remita la Coordinación de Control de Procesos, así como los titulares de las Unidades Especializadas de Investigación;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XI. Informar al Superior Jerárquico el cumplimiento de las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación y cateo, u otras que ordenen los órganos jurisdiccionales y que les remita la Coordinación de Control de Procesos, así como los titulares de las Unidades Especializadas de Investigación;
 
 XII. Proporcionar la información, los datos o la cooperación técnica que les sean requeridos por otras dependencias o entidades, de acuerdo con las normas y políticas establecidas;
 
@@ -333,43 +401,73 @@ XVII. Supervisar la substanciación de los procedimientos que el Ministerio Publ
 
 XVIII. Intervenir, sin perjuicio de las atribuciones del Procurador y lo estipulado por las disposiciones que rigen el Servicio de Carrera de Procuración de Justicia, en el nombramiento, desarrollo, capacitación, promoción, y adscripción del personal a su cargo;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XIX. Autorizar por delegación que realice el Procurador, los criterios de oportunidad establecidos en el artículo 88 del Código de Procedimientos Penales publicado el 22 de noviembre de 2007, número 4570 del Periódico Oficial Tierra y Libertad” (sic) que le presente el Ministerio Publico para su revisión; y
+XIX. Administrar los recursos humanos, financieros y materiales que le asignen;
 
-XX. Las demás que determinen las disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XX. Resolver sobre las excusas y recusaciones del personal que tenga adscrito;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XXI. Autorizar por delegación que realice el Procurador los criterios de oportunidad establecidos en el artículo 88 del Código de Procedimientos Penales publicado el 22 de noviembre de 2007, número 4570 del Periódico Oficial "Tierra y Libertad” que le presente el Ministerio Publico para su revisión, y
+
+XXII. Las demás que determinen las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IV. DE LA COMPETENCIA Y ADSCRIPCIONES
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 12.
 
-En el ejercicio de sus atribuciones y para el cumplimiento de las mismas, el Procurador tendrá bajo su dependencia en forma directa, además de las Subprocuradurías, las siguientes unidades administrativas y técnicas:
+En el ejercicio de sus atribuciones y para el cumplimiento de las mismas, el Procurador tendrá bajo su subordinación en forma directa las siguientes Unidades Administrativas:
 
-I. Coordinación General de la Policía Ministerial;
+I. Subprocuraduría General;
 
-II. Coordinación General de Administración y Sistemas;
+II. Coordinación General de la Policía Ministerial;
 
 III. Coordinación General de Asesores y Vinculación Institucional;
 
-IV. Visitaduría General;
+IV. Coordinación General de Administración y Sistemas; y
 
-V. Dirección General de Servicios Periciales;
+V. Visitaduría General.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 12 BIS. Se adscriben a la Subprocuraduría General para el cumplimiento de sus atribuciones las siguientes unidades administrativas y técnicas:
+
+I. Subprocuradurías;
+
+II. Coordinación General de Servicios Periciales y Derechos Humanos;
+
+III. Dirección General de Averiguaciones Previas y Procedimientos Penales de la Zona Metropolitana;
+
+IV. Dirección General de Investigaciones y Procesos Penales de la Zona Metropolitana, y
+
+V. Coordinaciones de Control de Procesos de la Zona Metropolitana.
 
 ###### ARTÍCULO 13.
 
 Las Subprocuradurías tendrán la siguiente denominación, sede y competencia territorial:
 
-I. Subprocuraduría Metropolitana, con sede en la Ciudad de Cuernavaca, Morelos, teniendo competencia territorial en los Municipios siguientes: Cuernavaca, Huitzilac, Tepoztlán, Emiliano Zapata, Temixco, Xochitepec y Jiutepec;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+I. Subprocuraduría (sic) General tendrá a su cargo la zona Metropolitana, con sede en la Ciudad de Cuernavaca, Morelos, teniendo competencia territorial en los Municipios siguientes: Cuernavaca, Huitzilac, Tepoztlán, Emiliano Zapata, Temixco, Xochitepec y Jiutepec;
 
 II. Subprocuraduría de la Zona Oriente, con sede en la Ciudad de Cuautla, Morelos, teniendo competencia territorial en los Municipios siguientes: Ayala, Cuautla, Tlalnepantla, Tlayacapan, Totolapan, Atlatlahucan, Ocuituco, Tetela del Volcán, Yautepec, Yecapixtla, Axochiapan, Jantetelco, Jonacatepec, Temoac, Tepalcingo y Zacualpan, y
 
 III. Subprocuraduría de la Zona Sur-Poniente, con sede en la Ciudad de Jojutla, Morelos, teniendo la competencia territorial en los Municipios siguientes: Coatlán del Río, Miacatlán, Mazatepec, Tetecala, Amacuzac, Puente de lxtla, Jojutla, Tlaltizapán, Tlaquiltenango y Zacatepec.
 
-Cuando convenga a la imparcial y ágil integración de investigaciones o averiguaciones previas, el Procurador podrá disponer que las mismas se integren en una sede distinta a su competencia.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Cuando convenga a la imparcial y ágil integración de investigaciones o averiguaciones previas, el Superior Jerárquico podrá disponer que las mismas se integren en una sede distinta a su competencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
-Las Subprocuraduría (sic) Metropolitana, Oriente y Sur Poniente tendrán bajo su mando las unidades administrativas siguientes:
+Las Subprocuradurías Oriente y Sur Poniente tendrán bajo su mando en su circunscripción de competencia las unidades administrativas siguientes:
 
 I. Dirección General de Averiguaciones Previas y Procedimientos Penales;
 
@@ -381,15 +479,17 @@ III. Coordinación de Control de Procesos.
 
 DE LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 15.
 
-La Subprocuraduría de Investigaciones Especiales tendrá al frente a un Subprocurador, quien dependerá directamente del Procurador General de Justicia del Estado, y que ejercerá las atribuciones establecidas en los artículos 10 y 11 de este Reglamento. Teniendo competencia territorial en todo el Estado de Morelos.
+La Subprocuraduría de Investigaciones Especiales tendrá al frente a un Subprocurador, quien dependerá directamente del Subprocurador General, y que ejercerá las atribuciones establecidas en los artículos 10 y 11 de este Reglamento. Teniendo competencia territorial en todo el Estado de Morelos.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 16.
 
-La Subprocuraduría de Investigaciones Especiales Investigará y perseguirá los delitos referentes a Delincuencia Organizada, secuestro, extorsión, trata de personas y robo de vehículo automotor, establecidos en el Código Penal vigente, así como otras disposiciones jurídicas aplicables y los encomendados directamente por el titular de la Institución.
+La Subprocuraduría de Investigaciones Especiales investigará y perseguirá los delitos referentes a la Delincuencia Organizada, secuestro, extorsión, trata de personas y robo de vehículo automotor establecidos en el Código Penal vigente, así como otras disposiciones jurídicas aplicables y los encomendados directamente por el Superior Jerárquico.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
@@ -397,49 +497,65 @@ La Subprocuraduría de Investigaciones Especiales Investigará y perseguirá los
 
 Se adscribe a la Subprocuraduría de Investigaciones Especiales la Dirección General de Averiguaciones Previas y Procedimientos Penales de Investigaciones Especiales.
 
-DE LA SUBPROCURADURÍA DE DERECHOS HUMANOS Y JUSTICIA RESTAURATIVA
+### CAPÍTULO V
 
-### CAPÍTULO V. DE LA COORDINACIÓN GENERAL DE LA POLICÍA MINISTERIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+DE LAS COORDINACIONES GENERALES DE LA COORDINACIÓN GENERAL DE SERVICIOS PERICIALES Y DERECHOS HUMANOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 18.
 
-La Subprocuraduría de Derechos Humanos y Justicia Restaurativa tendrá al frente a un Subprocurador, quien dependerá directamente del Procurador General de Justicia del Estado, teniendo competencia en el Estado de Morelos; ejercerá además de las atribuciones que se establecen en los artículos 10 y 11 de este Reglamento, las siguientes:
+La Coordinación General de Servicios Periciales y Derechos Humanos tendrá al frente a un Coordinador General, quien dependerá directamente del Subprocurador General teniendo competencia en todo el Estado de Morelos y ejercerá las siguientes atribuciones:
 
 I. Proponer e instrumentar las políticas institucionales para la observancia, capacitación y promoción en derechos humanos;
 
-II. Analizar las recomendaciones que se reciban de las Comisiones Nacional de Derechos Humanos y del Estado de Morelos y determinar las acciones para darles solución;
+II. Analizar las recomendaciones que se reciban de las Comisiones Nacionales de Derechos Humanos y del Estado de Morelos y determinar las acciones para darles solución;
 
-III. Representar y ser el enlace directo con las Comisiones Nacional de Derechos Humanos, del Estado de Morelos, y con otros organismos oficiales que se encarguen de vigilar, recomendar y analizar el respeto y aplicación de los derechos humanos;
+III. Representar y ser el enlace directo con las Comisiones Nacional (sic) de Derechos Humanos, del Estado de Morelos, y con otros organismos oficiales que se encarguen de vigilar, recomendar y analizar el respeto y aplicación de los derechos humanos;
 
-IV. Intervenir en las propuestas de conciliación y recomendaciones que envíe la (sic) Comisiones Nacional de Derechos Humanos y del Estado de Morelos respecto a las quejas en las que se vean involucrados los servidores públicos de la Institución;
+IV. Intervenir en las propuestas de conciliación y recomendaciones que envíen la Comisión Nacional de Derechos Humanos y del Estado de Morelos respecto a las quejas en las que se vean involucrados los servidores públicos de la Institución;
 
 V. Verificar que se cumpla con los requerimientos y recomendaciones que la Comisión de Derechos Humanos del Estado de Morelos realice, al igual que los organismos internacionales de Derechos Humanos, respecto de aquellos casos que sean competencia de la Institución;
 
-VI. Brindar la Protección Especial a las víctimas, testigos y demás sujetos procesales;
+VI. Brindar la protección especial a las víctimas, testigos y demás sujetos procesales;
 
-VII. Solicitar al órgano competente previo estudio socioeconómico de la Víctima u Ofendido que se otorguen los apoyos del Fondo Económico para la Restauración y Protección Especial de las Víctimas u Ofendidos del Delito;
+VII. Solicitar al órgano competente previo estudio socioeconómico de la víctima u ofendido que se otorguen los apoyos del Fondo Económico para la Restauración y Protección Especial de las Víctimas u Ofendidos del Delito;
 
-VIII. Evaluar y supervisar al Centro de Justicia Alternativa;
+VIII. Autorizar los criterios y lineamientos generales para la presentación y formulación de los dictámenes e informes de las diversas especialidades periciales;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+IX. Diseñar los mecanismos, procedimientos y programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos a la Procuraduría;
 
-IX. Proponer los mecanismos y acciones de prevención del delito así como los medios restaurativos; y
+X. Asegurar que las peticiones de servicios periciales que le formule el Agente del Ministerio Público se canalizen (sic) para su atención;
 
-X. Las demás que le confiera los ordenamientos jurídicos aplicables y las que le determine el Procurador.
+XI. Establecer los mecanismos y procedimientos de registro y control de atención a las peticiones deservicios periciales formuladas por los Agentes del Ministerio Público, así como vigilar que se elaboren los informes y estadísticas correspondientes;
+
+XII. Establecer y operar un sistema de supervisión permanente del personal de las diversas especialidades periciales, a efecto de garantizar que cumplan y observen las normas jurídico administrativas vigentes en la materia;
+
+XIII. Autorizar la habilitación de los peritos cuando la Procuraduría no cuente con especialistas en una determinada disciplina, ciencia o arte que se requiera o en casos urgentes;
+
+XIV. Proponer a sus superiores jerárquicos programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de Servicios Periciales de la Procuraduría General de la República y de las Procuradurías Generales de Justicia de los Estados, así como con instituciones similares del extranjero, para lograr el mejoramiento y la modernización de sus funciones;
+
+XV. Revisar y proponer a su superior jerárquico los Manuales de Organización y de Políticas y Procedimientos, así como aquellos normativos, de coordinación y de operación de las diversas unidades a su cargo, y
+
+XVI. Las demás que le confieran los ordenamientos jurídicos aplicables y las que le determine el Superior Jerárquico.
+
+> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 19.
 
-Se adscriben a la Subprocuraduría de Derechos Humanos y Justicia Restaurativa las siguientes unidades administrativas:
+Se adscriben a la Coordinación General de Servicios Periciales y Derechos Humanos las siguientes unidades administrativas:
 
-(F. DE. E., P.O. 22 DE JULIO DE 2009)
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-I. Dirección General del Centro de Justicia Alternativa;
+I. Dirección General de Servicios Periciales;
 
-(F. DE. E., P.O. 22 DE JULIO DE 2009)
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 II. Dirección General de Asesoría Social y Auxilio a Víctimas; y
 
-(F. DE. E., P.O. 22 DE JULIO DE 2009)
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 III. Dirección General de Derechos Humanos.
 
@@ -475,7 +591,9 @@ I. Supervisar que los agentes de la Policía Ministerial investiguen los hechos 
 
 II. Mantener la coordinación con instituciones policiales y militares para el efecto de implementar operaciones en el cumplimiento de los mandatos judiciales;
 
-III. Proponer al Procurador el Manual de Organización y de Políticas y Procedimientos de la Coordinación General de la Policía Ministerial, así como revisar aquellos que elaboren las Unidades a su cargo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+III. Proponer al Superior Jerárquico el Manual de Organización y de Políticas y Procedimientos de la Coordinación General de la Policía Ministerial, así como revisar aquellos que elaboren las Unidades a su cargo;
 
 IV. Supervisar que se reciban las denuncias sobre hechos que puedan ser constitutivos de delitos siempre y cuando por las circunstancias del caso el Agente del Ministerio Público no pueda formularlas directamente; debiendo informar inmediatamente al Ministerio Público de las diligencias practicadas para que éste asuma la investigación y dicte las instrucciones procedentes;
 
@@ -485,7 +603,9 @@ V. Asegurarse que la Policía Ministerial preserve el lugar de los hechos y la i
 
 VI. Garantizar la presentación de las personas que formalmente ordenen los Agentes del Ministerio Público para la práctica de alguna diligencia;
 
-VII. Informar al Procurador del cumplimiento de las órdenes de presentación, comparecencia, arresto, aprehensión, reaprehensión y cateo que emitan los órganos jurisdiccionales y que envíen las Direcciones;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+VII. Informar al Superior Jerárquico del cumplimiento de las órdenes de presentación, comparecencia, arresto, aprehensión, reaprehensión y cateo que emitan los órganos jurisdiccionales y que envíen las Direcciones;
 
 VIII. Garantizar que se ponga inmediatamente a disposición de la autoridad competente las personas aprehendidas o detenidas en los casos previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y a las que deban ser presentadas por orden de comparecencia, asegurándose de realizar el registro inmediato de la detención;
 
@@ -499,15 +619,23 @@ XII. Garantizar que se asienten las constancias de las actuaciones de los Polic�
 
 XIII. Verificar que se rindan los Informes Policiales Homologados con los requisitos y formas que se establezcan en las disposiciones jurídicas aplicables;
 
-XIV. Proponer al Procurador las bases y lineamientos de reclutamiento, selección, capacitación y evaluación de los Agentes de la Policía Ministerial, conforme a las políticas gubernamentales;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XIV. Proponer al Superior Jerárquico las bases y lineamientos de reclutamiento, selección, capacitación y evaluación de los Agentes de la Policía Ministerial, conforme a las políticas gubernamentales;
 
 XV. Supervisar y controlar la operación de los sistemas de reclutamiento y selección de los Agentes de la Policía Ministerial, que autorice el Procurador dentro de los lineamientos que señale el Colegio Estatal de Seguridad Pública y vigilar que presenten los exámenes de ley, como única instancia de ingreso a la corporación;
 
 XVI. Controlar el sistema de evaluación de Agentes de la Policía Ministerial, sobre el que se apoyen obligatoriamente los procedimientos de ascenso y promoción en las estructuras jerárquicas y administrativas de la misma coordinación;
 
-XVII. Apoyar, como órgano auxiliar de la investigación al Ministerio Público; y
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XVIII. Las demás que le señalen las disposiciones legales aplicables.
+XVII. Ordenar se levante acta circunstancial y firmarla cuando el personal que tiene a su cargo no cumpla con sus obligaciones u órdenes emitidas;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XVIII. Apoyar como órgano auxiliar de la investigación al Ministerio Público; y
+
+XIX. Las demás que le señalen las disposiciones legales aplicables.
 
 La investigación policial se sujetará en todo momento al principio del respeto de los derechos humanos y se ejercerá con estricto apego a la legalidad. El Ministerio Público en cada caso concreto instruirá detalladamente a la Policía Ministerial sobre los indicios, datos o evidencias que deben ser investigados o recabados para establecer que se ha cometido el delito y que tiendan a demostrar la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
@@ -515,9 +643,13 @@ La investigación policial se sujetará en todo momento al principio del respeto
 
 La Coordinación General de la Policía Ministerial tendrá bajo su mando las siguientes unidades administrativas:
 
-I. Dirección Operativa;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-II. Dirección de Aprehensiones;
+I. Dirección Operativa de la Policía Ministerial;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+II. Dirección de Aprehensiones de la Policía Ministerial;
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
@@ -535,7 +667,9 @@ I. Coordinar el cuerpo consultivo y de análisis jurídico para el titular de la
 
 II. Coordinarse, cuando así lo determine el titular de la Procuraduría, con los Subprocuradores, Directores Generales y Coordinadores Generales, para realizar el seguimiento de los acuerdos, circulares, programas, acciones e instrucciones, que sean emitidos o aprobados por dicho titular, encomendados a éstos o que tengan alguna participación;
 
-III. Analizar o elaborar anteproyectos de leyes, reglamentos, decretos, acuerdos administrativos, circulares y en general, cualquier clase de ordenamiento jurídico, que le instruya el titular de la Procuraduría;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+III. Analizar o elaborar anteproyectos de leyes, reglamentos, decretos, acuerdos administrativos, circulares y en general, cualquier clase de ordenamiento jurídico y/o administrativo, que le instruya el titular de la Procuraduría;
 
 IV. Dar atención especial y seguimiento de cualquier asunto, que le encomiende el titular de la Procuraduría en ejercicio de sus funciones;
 
@@ -543,25 +677,61 @@ V. Organizar, dirigir, controlar y evaluar el desarrollo de las atribuciones y a
 
 VI. Acordar con los titulares de las áreas a su cargo los asuntos de su competencia y, cuando se considere necesario, con los demás servidores públicos que tiene adscritos;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-VII. Supervisar el registro de las notificaciones de demandas de amparo que se promuevan contra actos del Procurador, así como los demás servidores públicos de la institución, en los que se señalen como autoridad responsable;
+VII. Supervisar el registro de las notificaciones de demandas de amparo que se promuevan contra actos del Procurador, y demás servidores públicos de la Institución, en los que sean señalados como autoridad responsable;
 
 VIII. Supervisar que se formulen los informes previos y justificados, así como las promociones y recursos o incidentes que deban interponerse en los juicios de amparo promovidos contra actos de autoridad en que se señale al Procurador así como los demás servidores públicos de la institución;
 
-IX. Verificar que se preste la asesoría jurídica cuando se lo soliciten las diversas áreas de la Procuraduría, en la práctica y levantamiento de actas circunstanciadas o administrativas referentes al personal de la Institución;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-X. Verificar que se formule la petición formal ante la instancia que corresponda, respecto de las solicitudes de extradición o asistencia jurídica internacional que le sean requeridas por los agentes del Ministerio Público de esta Institución; debiendo verificar que se le dé el seguimiento que corresponda hasta lograr el objetivo planteado;
+IX. Verificar que se preste la asesoría jurídica cuando se lo soliciten las diversas áreas de la Procuraduría, en la práctica y levantamiento de actas circunstanciadas o administrativas referentes a las faltas cometidas por el personal de la Institución;
 
-XI. Vigilar la planeación, organización y control de las estrategias de comunicación social;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XII. Coordinar el Servicio Social que se realiza en la Institución y expedir las constancias de cumplimiento;
+X. Verificar que se formule la petición formal ante la instancia que corresponda, respecto de las solicitudes de extradición o asistencia jurídica internacional que le sean requeridas por los Agentes del Ministerio Público; debiendo verificar que se le dé el seguimiento que corresponda hasta lograr el objetivo planteado;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XIII. Vigilar el cumplimiento de los convenios y políticas interinstitucionales; y
+XI. Vigilar la planeación, organización y control de las estrategias de comunicación social de la Institución;
 
-XIV. Las demás que le confiera el Procurador y demás disposiciones legales.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XII. Proponer al Procurador los lineamientos generales de autorización, supervisión y evaluación del servicio social, prácticas profesionales y de conocimiento, que se desarrollen en la Procuraduría, así como autorizar la expedición de constancias de cumplimiento;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XIII. Vigilar que se cumplan con las políticas, bases y lineamientos para la elaboración, revisión y validación de contratos y convenios;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XIV. Supervisar y evaluar las actividades del Centro de Justicia Alternativa;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XV. Supervisar que los medios alternos cumplan con los procedimientos legales establecidos;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XVI. Supervisar que los Acuerdos Reparatorios cumplan con la reparación del daño, y que las obligaciones de las partes se hayan establecido sin coacción, desigualdad o amenaza;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XVII. Proponer a su superior jerárquico, los lineamientos y diligencias básicas para la aplicación de los medios alternos en materia penal;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XVIII. Proponer a su superior jerárquico los manuales de organización y políticas y procedimientos de las áreas que tiene adscritas;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XIX. Administrar los recursos humanos, financieros y materiales que le asignen;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XX. Las que le confiera su calidad de Agente del Ministerio Público, siempre y cuando cumpla con los requisitos para serlo, y
+
+XXI. Las demás que le confiera el Procurador y demás disposiciones legales.
 
 ###### ARTÍCULO 24.
 
@@ -569,11 +739,15 @@ Se adscriben a la Coordinación General de Asesores y Vinculación Institucional
 
 I. Dirección Jurídica, Amparos y Extradiciones;
 
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+II. Dirección General del Centro de Justicia Alternativa;
+
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-II. Dirección General de Enlace Interinstitucional; y
+III. Dirección General de Enlace Interinstitucional; y
 
-III. Dirección General de Comunicación Social.
+IV. Dirección General de Comunicación Social.
 
 DE LA COORDINACIÓN GENERAL DE ADMINISTRACIÓN Y SISTEMAS
 
@@ -611,19 +785,25 @@ VIII. Vigilar la correcta aplicación del sistema de administración y desarroll
 
 IX. Aplicar las políticas y procedimientos señalados en la Ley Orgánica de la Procuraduría, en materia de reclutamiento, selección y contratación del personal;
 
-X. Atender las políticas autorizadas por la Oficialía Mayor, relativas al análisis de puestos, tabuladores de sueldos e incentivos al personal;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XI. Supervisar el anteproyecto del presupuesto anual de la Procuraduría; así como integrar el anteproyecto de presupuesto del Fideicomiso Fondo de Seguridad Publica;
+X. Atender las políticas autorizadas por la Secretaría de Gestión e Innovación Gubernamental, relativas al análisis de puestos, tabuladores de sueldos e incentivos al personal;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XI. Supervisar el anteproyecto del presupuesto anual de la Procuraduría; así como integrar el anteproyecto de presupuesto de los Fondos de Seguridad Publica;
 
 XII. Supervisar la liquidación y pago de las remuneraciones al personal de la Procuraduría, de conformidad con la normatividad vigente, así como la aplicación de descuentos procedentes y realizar la distribución de cheques; efectuar la tramitación de pago de salarios caídos, liquidaciones, reinstalaciones y otras prestaciones que ordene la autoridad laboral o judicial, previa consulta con el Procurador;
 
 XIII. Difundir a los servidores públicos de la dependencia las prestaciones de seguridad social que promueve el Gobierno del Estado;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XIV. Supervisar la elaboración del programa anual de capacitación de la Procuraduría, así como de los servidores públicos, para difundir el desarrollo del mismo;
+XIV. Supervisar la elaboración del programa anual de capacitación de la Procuraduría, así como difundir el desarrollo del mismo;
 
-XV. Supervisar el sistema de premios, estímulos y recompensas;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XV. Supervisar la ejecución del sistema de premios, estímulos y recompensas;
 
 XVI. Supervisar el sistema de registro de información del personal de la Procuraduría;
 
@@ -643,7 +823,9 @@ XX. Las demás que le señalen otras disposiciones legales aplicables.
 
 Al frente de cada Dirección General habrá un Director General, quien deberá reunir los siguientes requisitos:
 
-I. Ser originario del Estado de Morelos o tener una residencia mínima de cinco años en la Entidad;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+I. Ser preferentemente originario del Estado de Morelos o acreditar residencia en el Estado;
 
 II. Haber observado buena conducta y no haber sido sentenciado como responsable de algún delito intencional;
 
@@ -691,7 +873,11 @@ XVI. Firmar y notificar los acuerdos de trámite, así como las resoluciones o a
 
 XVII. Proponer a sus superiores jerárquicos las acciones para la modernización administrativa y simplificación de procedimientos administrativos, y
 
-XVIII. Ejercer las demás atribuciones que le confieran las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XVIII. Administrar los recursos humanos, financieros y materiales que le asignen, y
+
+XIX. Ejercer las demás atribuciones que le confieran las disposiciones legales aplicables.
 
 Al Visitador General, corresponde ejercer las atribuciones establecidas en el artículo 28 del presente Reglamento.
 
@@ -757,9 +943,9 @@ XXVII. Devolver al Agente del Ministerio Público para su perfeccionamiento, las
 
 XXVIII. Someter a la aprobación del superior inmediato, los criterios que deban observarse en los pliegos de consignaciones;
 
-XXIX. Coordinar la recepción de denuncias a través de la Unidad de Atención Temprana;
+XXIX. (DEROGADA, P.O. 21 DE OCTUBRE DE 2009)
 
-XXX. Acordar con su superior jerárquico una vez comunicado por el Ministerio público el monto de las garantías en las carpetas de investigación;
+XXX. (DEROGADA, P.O. 21 DE OCTUBRE DE 2009)
 
 XXXI. Coadyuvar con la Dirección General de Investigaciones y Procesos Penales cuando lo instruya el superior jerárquico;
 
@@ -799,41 +985,57 @@ X. Solicitar a la autoridad competente los informes y documentos para fines de l
 
 XI. Coordinar y dirigir el ejercicio de la acción de extinción de dominio cuando se reúnan los elementos y supuestos referidos establecidos en la ley de la materia y demás dispositivos jurídicos aplicables;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XII. Coordinar y dirigir la substanciación de los procedimientos derivados del ejercicio de la acción de extinción de dominio, conforme a lo establecido por las disposiciones jurídicas aplicables; y
+XII. Coordinar la recepción de denuncias y querellas a través de la Unidad de Atención Temprana;
 
-XIII. Las demás que le señalen las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+XIII. Acordar con su superior jerárquico el monto de la garantía para otorgar la libertad provisional al imputado que se encuentre relacionado con alguna carpeta de investigación, siempre y cuando sea procedente de acuerdo a lo establecido por el Código de Procedimientos Penales del Estado de Morelos publicado el 22 de noviembre de 2007;
 
-La Dirección General de Investigaciones y Procesos Penales de la Zona Metropolitana tendrá competencia para dar seguimiento a las actuaciones de las Unidades Especializadas de Investigación adscritas a la Subprocuraduría de Investigaciones Especiales en las carpetas de Investigación y Expedientes judiciales.
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-DE LA DIRECCIÓN GENERAL DE AVERIGUACIONES PREVIAS Y PROCEDIMIENTOS PENALES DE INVESTIGACIONES ESPECIALES
+XIV. Coordinar y dirigir la substanciación de los procedimientos derivados del ejercicio de la acción de extinción de dominio conforme a lo establecido por las disposiciones jurídicas aplicables, y
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-###### ARTÍCULO 31.
+XV. Las demás que le señalen las disposiciones aplicables.
 
-La Dirección General de Averiguaciones Previas y Procedimientos Penales de Investigaciones Especiales, además de los requisitos y atribuciones que se establecen en los artículos 27, 28 y 29 de este Reglamento en el ámbito de su competencia, conocerá de los ilícitos relacionados con los delitos de robo de vehículos, secuestro, extorsión y demás asuntos que le instruya su superior jerárquico.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+DE LA DIRECCIÓN GENERAL DE INVESTIGACIONES Y PROCESOS PENALES DE LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 31.
+
+La Dirección General de Investigaciones y Procesos Penales de la Subprocuraduría de Investigaciones Especiales, ejercerá las atribuciones que se establecen en los artículos 28, 29 y 30 de este Reglamento en el ámbito de su competencia, conocerá de los ilícitos relacionados con los delitos referentes a la delincuencia organizada, trata de personas, de robo de vehículos, secuestro, extorsión establecidos en el Código Penal Vigente y demás asuntos que le instruya su Superior Jerárquico.
 
 DE LA DIRECCIÓN GENERAL DEL CENTRO DE JUSTICIA ALTERNATIVA
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 32.
 
-La Dirección General del Centro de Justicia Alternativa, estará adscrita a la Subprocuraduría de Derecho (sic) Humanos y Justicia Restaurativa y tendrá las atribuciones que le confiere el artículo 28 de este reglamento, las que le determine el Procurador y las que disponga la Ley de Justicia Alternativa en Materia Penal para el Estado de Morelos, su reglamento y demás disposiciones legales.
+La Dirección General del Centro de Justicia Alternativa, estará adscrita a la Coordinación General de Asesores y Vinculación Institucional y tendrá las atribuciones que le confiere el artículo 28 de este reglamento, las que le determine el Procurador y las que disponga la Ley de Justicia Alternativa en Materia Penal para el Estado de Morelos, su reglamento y demás disposiciones legales.
 
 DE LA DIRECCIÓN GENERAL DE ASESORÍA SOCIAL Y AUXILIO A VÍCTIMAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 33.
 
-La Dirección General de Asesoría Social y Auxilio a Víctimas estará adscrita a la Subprocuraduría de Derechos Humanos y Justicia Restaurativa y tendrá además de las establecidas en el artículo 28 las siguientes atribuciones:
+La Dirección General de Asesoría Social y Auxilio a Víctimas estará adscrita a la Coordinación General de Servicios Periciales y Derechos Humanos y tendrá además de las establecidas en el artículo 28 las siguientes atribuciones:
 
 I. Vigilar y asegurar que se proporcione a las víctimas u ofendidos de delitos la ayuda médica o psicológica urgente que requieran;
 
 II. Vigilar que se brinde a las víctimas u ofendidos de delitos la asesoría jurídica que requieran, informándoles de los derechos que en su favor establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, otras leyes y reglamentos;
 
-III. Garantizar que se Patrocine y represente a las víctimas u ofendidos de delito cuando lo soliciten, desde el inicio de la averiguación previa hasta la sentencia definitiva;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+III. Garantizar que se patrocine y represente a las víctimas u ofendidos de delito cuando lo soliciten, desde el inicio de la averiguación previa o investigación hasta la sentencia definitiva;
 
 IV. Garantizar y supervisar que su personal coadyuve con el Ministerio Público, en representación de la víctima u ofendido, para la obtención del pago de la reparación de los daños y perjuicios que el delito les hubiere ocasionado;
 
@@ -843,7 +1045,9 @@ VI. Implementar políticas de apoyo a las víctimas de violencia familiar, brind
 
 VII. Determinar las acciones para el auxilio y tratamiento de personas con problemas de fármaco-dependencia y alcoholismo;
 
-VIII. Auxiliar a las autoridades locales, federales de otras entidades federativas o extranjeras, en la localización de personas extraviadas o declaradas ausentes, que puedan encontrarse en el Estado y proponer al Procurador políticas para la atención integral de este problema;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+VIII. Auxiliar a las autoridades locales, federales de otras entidades federativas o extranjeras, en la localización de personas extraviadas o declaradas ausentes, que puedan encontrarse en el Estado y proponer al Superior Jerárquico políticas para la atención integral de este problema;
 
 IX. Promover acciones de apoyo social en las tareas de la Procuraduría, ante organismos públicos y privados, en beneficio de las víctimas de delito;
 
@@ -859,17 +1063,19 @@ XIV. Promover e impulsar acciones institucionales que faciliten a la comunidad e
 
 XV. Vigilar que se otorgue, previo estudio socioeconómico, asesoría jurídica y patrocinio judicial gratuito a personas de escasos recursos que lo soliciten, en juicios de carácter familiar, civil, mercantil, agrario, de garantías o administrativo, en todas las instancias legales;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XVI. Solicitar los apoyos, previo estudio socioeconómico al Comité Técnico del Fondo Económico para la Restauración y Protección Especial de las víctimas y Ofendidos del delito; y
+XVI. Solicitar los apoyos, previo estudio socioeconómico al Fondo Económico para la Restauración y Protección Especial de las Víctimas y Ofendidos del delito, y
 
 XVII. Las demás que le señalen las disposiciones legales aplicables.
 
 DE LA DIRECCIÓN GENERAL DE DERECHOS HUMANOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 34.
 
-La Dirección General de Derechos Humanos estará adscrita a la Subprocuraduría de Derechos Humanos y Justicia Restaurativa; el titular de la Dirección General de Derechos Humanos ejercerá las siguientes atribuciones:
+La Dirección General de Derechos Humanos estará adscrita a la Coordinación General de Servicios Periciales y Derechos Humanos; el titular de la Dirección General de Derechos Humanos ejercerá las siguientes atribuciones:
 
 I. Supervisar que se reciban las quejas o recomendaciones que se presenten en contra de servidores públicos de la Procuraduría por presuntas violaciones a los derechos humanos, dándoles el trámite correspondiente;
 
@@ -881,13 +1087,15 @@ IV. Realizar consultas y solicitar informes a los titulares de las unidades admi
 
 V. Informar a su superior jerárquico cuando se resuelva que las violaciones a los derechos humanos cometidas por servidores públicos de la Procuraduría puede constituir responsabilidad administrativa o de cualquier otra índole y dar vista a la autoridad competente;
 
-VI. Garantizar que se lleve el registro de las quejas, recomendaciones y convenios en materia de derechos humanos, rindiendo un informe periódico a su superior;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+VI. Garantizar que se lleve el registro de las quejas, recomendaciones y convenios en materia de derechos humanos, rindiendo un informe periódico a su superior jerárquico;
 
 VII. Informar a su superior jerárquico de las omisiones, deficiencias y retardos en los informes de los servidores públicos, relacionados con asuntos de derechos humanos, a efecto de que se tomen las medidas pertinentes;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-VIII. Proponer acciones y programas de profesionalización para los Agentes del Ministerio Público, Policía Ministerial, Peritos y demás personal que interviene en la integración de averiguaciones previas, a efecto de lograr un pleno respeto a los derechos humanos;
+VIII. Proponer acciones y programas de profesionalización para los Agentes del Ministerio Público, Policía Ministerial, Peritos y demás personal que interviene en la integración de averiguaciones previas o carpetas de investigación, a efecto de lograr un pleno respeto a los derechos humanos;
 
 IX. Proponer la celebración de convenios de intercambio de experiencias con otras Procuradurías o Instituciones similares, para fortalecer el respeto a los derechos humanos;
 
@@ -939,11 +1147,15 @@ XI. Coordinarse con la Consejería Jurídica del Estado de Morelos, para la tram
 
 XII. Formular la petición formal ante la instancia que corresponda, respecto de las solicitudes de extradición o asistencia jurídica internacional que le sean requeridas; debiendo de dar el seguimiento que corresponda;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XIII. Representar con el carácter de apoderado legal a la Procuraduría General de Justicia del Estado y a sus unidades administrativas en los asuntos de carácter laboral y contenciosos administrativos en los que sea parte; salvo que el acto impugnado se origine de un procedimiento administrativo seguido ante la Visitaduría General de esta Institución o se señale como autoridad responsable al Gobierno del Estado; y
+XIII. Revisar y sancionar, todos los contratos y convenios que le remitan las unidades administrativas, cumpliendo con la normatividad y políticas que establezca el Procurador;
 
-XIV. Las demás que le señalen las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XIV. Representar con el carácter de apoderado legal a la Procuraduría General de Justicia del estado y a sus unidades administrativas en los asuntos de carácter laboral y contenciosos administrativos en los que sea parte; salvo que el acto impugnado se origine de un procedimiento administrativo seguido ante la Visitaduría General de esta Institución o se señale como autoridad responsable al Gobierno del Estado; y
+
+XV. Las demás que le señalen las disposiciones legales aplicables.
 
 DE LA DIRECCIÓN GENERAL DE ENLACE INTERINSTITUCIONAL
 
@@ -1175,13 +1387,13 @@ X. Instrumentar, instalar, coordinar y mantener actualizado el Registro Estatal 
 
 XI. Establecer un sistema permanente de intercambio de información con todas las Procuradurías de Justicia del País, relativa a los vehículos robados, que se recuperen en cualquier Estado de la República o en el Distrito Federal, que permita detectar los que hayan sido robados en Morelos, para que se comunique a los ofendidos y acudan a solicitar su devolución;
 
-XII. Ejecutar, de acuerdo a lo ordenado por el Ministerio Publico el destino final de los vehículos automotores y/o bienes en general puestos a su disposición, declarando su abandono a favor del Estado, mediante los procedimientos que establezcan los dispositivos legales aplicables, ordenando su destrucción o compactación;
+XII. (DEROGADA, P.O. 21 DE OCTUBRE DE 2009)
 
 XIII. Brindar a la población en general la información que requieran acerca de los bienes asegurados que se encuentren bajo su administración;
 
 XIV. Proporcionar a la Secretaría de la Contraloría del Estado, un informe periódico de los bienes asegurados que se encuentren bajo su administración;
 
-XV. Emitir y publicar la convocatoria para la celebración de los contratos de prestación de los servicios, destrucción y enajenación de los bienes muebles, vehículos automotores, objetos, instrumentos o substancias en general, que se encuentren a disposición del agente del Ministerio Público y éste último, haya decretado el abandono; cumpliendo con lo señalado en el artículo 45 del Código Penal Vigente y 139 del Código de Procedimientos Penales ambos publicados en 1996, y el artículo 256 bis del Código de Procedimientos Penales publicado el 2007 y los acuerdos que emita al respecto el Procurador, y
+XV. (DEROGADA, P.O. 21 DE OCTUBRE DE 2009)
 
 XVI. Las demás que le confieran otras disposiciones legales aplicables y las que determine su superior jerárquico.
 
@@ -1201,7 +1413,9 @@ IV. Remitir, previo acuerdo de su superior jerárquico, a todas las autoridades 
 
 V. Fungir como enlace de la Procuraduría, con el Consejo Estatal de Seguridad Pública, con el Sistema Nacional de Seguridad Pública y con la Unidad de Interprocuradurías de la Procuraduría General de la República, proporcionándoles la información obtenida del análisis de las denuncias y querellas recibidas en el Ministerio Público, manteniendo actualizado el Sistema de Incidencia Delictiva, clasificando los delitos, por tipos y frecuencia de presentación;
 
-VI. Elaborar los mapas, gráficas y estadísticas de los delitos que se cometen en el Estado, realizando los análisis correspondientes a sus variantes en forma mensual y anual, informando al Procurador el comportamiento de los índices delictivos;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+VI. Elaborar los mapas, gráficas y estadísticas de los delitos que se cometen en el Estado, realizando los análisis correspondientes a sus variantes en forma mensual y anual, informando al Superior Jerárquico el comportamiento de los índices delictivos;
 
 VII. Publicar, previo acuerdo del Superior jerárquico, la información estadística que sea del interés de la población;
 
@@ -1223,23 +1437,33 @@ XV. Las demás que le señalen otras disposiciones legales aplicables.
 
 DE LA DIRECCIÓN GENERAL DE SERVICIOS PERICIALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 43.
 
-La Dirección General de Servicios Periciales estará adscrita al Procurador, y además de las atribuciones que estable el artículo 28, tendrá las siguientes atribuciones:
+La Dirección General de Servicios Periciales estará adscrita a la Coordinación General de Servicios Periciales y Derechos Humanos, y además de las atribuciones que establece el artículo 28, tendrá las siguientes atribuciones:
 
 I. Dirigir, coordinar y supervisar el funcionamiento de las Coordinaciones Regionales de Servicios periciales;
 
-II. Proponer al Procurador los lineamientos que deben observar los peritajes;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+II. Proponer al Superior Jerárquico los lineamientos que deben de observar los peritajes;
 
 III. Proponer programas para hacer eficientes las actividades en la investigación del delito y persecución de los delincuentes;
 
-IV. Proponer al Procurador la habilitación de peritos cuando la Procuraduría no cuente con especialistas en una determinada disciplina, ciencia o arte que se requiera o en casos urgentes siempre y cuando el perito posea título oficial en la materia relativa al punto sobre la cual dictaminará y no tenga ningún impedimento para el ejercicio profesional, siempre que la ciencia, arte, la técnica o el oficio sobre la que verse la pericia en cuestión este reglamentada. En caso contrario, deberá designarse a una persona de idoneidad manifiesta y que preferentemente pertenezca a un gremio o agrupación relativa a la actividad sobre la que verse la pericia;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-V. Plantear programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de servicios periciales de otras procuradurías, así como instituciones similares del extranjero, para lograr el mejoramiento y la modernización de sus funciones;
+IV. Proponer al Superior Jerárquico la habilitación de peritos cuando la Procuraduría no cuente con especialistas en una determinada disciplina, ciencia o arte que se requiera o en casos urgentes siempre y cuando el perito posea título oficial en la materia relativa al punto sobre la cual dictaminará y no tenga ningún impedimento para el ejercicio profesional, siempre que la ciencia, arte, la técnica o el oficio sobre la que verse la pericia en cuestión este reglamentada. En caso contrario, deberá designarse a una persona de idoneidad manifiesta y que preferentemente pertenezca a un gremio o agrupación relativa a la actividad sobre laque verse la pericia;
 
-VI. Proponer al Procurador la emisión de los manuales administrativos y circulares que requiera la actuación del personal a su cargo;
+V. (DEROGADA, P.O. 21 DE OCTUBRE DE 2009)
 
-VII. Proponer al Procurador el nombramiento de los servidores públicos de la Dirección General a su cargo y de las Coordinaciones Regionales, quienes deberán cumplir con los requisitos que exigen las disposiciones legales y reglamentarias, con excepción de aquéllos que forman parte del servicio de carrera de procuración de justicia;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+VI. Proponer al Superior Jerárquico la emisión de los manuales administrativos y circulares que requiera la actuación del personal a su cargo;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+VII. Proponer al Superior Jerárquico el nombramiento de los servidores públicos de la Dirección General a su cargo y de las Coordinaciones Regionales, quienes deberán cumplir con los requisitos que exigen las disposiciones legales y reglamentarias, con excepción de aquéllos que forman parte del servicio de carrera de procuración de justicia;
 
 VIII. Vigilar que los servicios periciales se cumplan en tiempo y forma;
 
@@ -1249,9 +1473,17 @@ IX. Vigilar que los peritos cumplan con los procedimientos establecidos para la 
 
 X. Vigilar que se preste al Ministerio Público el auxilio para la búsqueda, obtención y preservación de indicios y pruebas tendientes a la acreditación de que se cometió el ilícito y de la probable responsabilidad del indiciado;
 
-XI. Conformar una Base General de datos de los peritos que le estén adscritos; misma que contendrá los siguientes requisitos: nombre, domicilio, cédula profesional, grado de estudios y especialización, años de experiencia y demás datos que se requieran para su plena identificación; y
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XII. Las demás que le confieran las disposiciones legales aplicables y las que le determine el Procurador.
+XI. Expedir por sí o a través de los Coordinadores Regionales de Servicios Periciales, las constancias de antecedentes penales, considerando como antecedente penal, única y exclusivamente los registros de las personas que hayan sido condenadas por autoridad judicial, y que la misma haya causado ejecutoria, de acuerdo a las bases de datos autorizados y existentes dentro de ésta institución y la información proporcionada por las autoridades de la Subsecretaría de Reinserción Social; absteniéndose de plasmar como antecedente penal, los registros existentes con motivo de la integración de averiguaciones previas y/o carpetas de investigación, o bien procesos penales ante autoridad judicial en los que no se haya dictado sentencia y que ésta no haya causado ejecutoria;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XII. Conformar una base general de datos de los peritos que le estén adscritos, misma que contendrá los siguientes requisitos: nombre, domicilio, cédula profesional, grado de estudios y especialización, años de experiencia y demás datos que se requieran para su plena identificación, y
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XIII. Las demás que le confieran las disposiciones legales aplicables y las que le determine el Superior Jerárquico.
 
 ### CAPÍTULO VII. DE LA VISITADURÍA GENERAL
 
@@ -1295,15 +1527,15 @@ a) Subdirección de Visitaduría, y
 
 b) Subdirección de Control.
 
-En las Subprocuradurías de las Zonas Metropolitana, Oriente y Sur Poniente, la Visitaduría General contará con Agentes del Ministerio Público autorizados para ejercer las facultades de control, supervisión y evaluación técnica-jurídica; así como las de autoridad investigadora y sancionadora de las irregularidades que cometan los servidores públicos adscritos a la institución.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+En las Zonas Metropolitana, Oriente y Sur Poniente, la Visitaduría General contará con Agentes del Ministerio Público autorizados para ejercer las facultades de control, supervisión y evaluación técnica-jurídica; así como las de autoridad investigadora y sancionadora de las irregularidades que cometan los servidores públicos adscritos a la Institución.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 47.
 
-La Subdirección de Visitaduría será la encargada de realizar estudios técnico jurídicos y practicar visitas de supervisión, y evaluación técnica- jurídica a las Agencias del Ministerio Público, a las Unidades Especializadas de investigación, así como a las demás unidades administrativas y operativas de la Institución; también recibirá, atenderá e investigará las quejas o denuncias que se presenten por escrito o mediante comparecencia del quejoso o afectado, procediendo de inmediato, previo el acuerdo respectivo, a realizar la investigación administrativa correspondiente, allegándose de los elementos necesarios y conducentes para determinar la probable responsabilidad administrativa, o bien determinar la no responsabilidad del servidor público señalado.
-
-Realizada la investigación señalada, de no existir responsabilidad administrativa, se dictará la resolución correspondiente y remitirá el expediente de investigación al archivo definitivo como asunto concluido; de detectarse presunta responsabilidad administrativa se remitirá el expediente de investigación a la Subdirección de Control para la substanciación del procedimiento establecido en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos.
-
-Para recibir la queja por comparecencia del quejoso o de quien se considere afectado, la Visitaduría General dispondrá de formatos gratuitos.
+La Subdirección de Visitaduría será la encargada de realizar estudios técnico jurídicos y practicar visitas de supervisión y/o evaluación técnica-jurídica a las Agencias del Ministerio Público, a las Unidades Especializadas de investigación, así como a las demás unidades administrativas y operativas de la Institución; también recibirá, atenderá e investigará las quejas o denuncias que se presenten por escrito o mediante comparecencia del quejoso o afectado, procediendo de inmediato, previo el acuerdo respectivo, a realizar la investigación administrativa correspondiente, allegándose de los elementos necesarios y conducentes para determinar la probable responsabilidad administrativa, o bien determinar la no responsabilidad del servidor público señalado. Realizada la investigación señalada, de no existir responsabilidad administrativa, se dictará la resolución correspondiente y remitirá el expediente de investigación al archivo definitivo como asunto concluido; de detectarse presunta responsabilidad administrativa se remitirá el expediente de investigación a la Subdirección de Control para la substanciación del procedimiento establecido en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos. Para recibir la queja por comparecencia del quejoso o de quien se considere afectado, la Visitaduría General dispondrá de formatos gratuitos.
 
 ###### ARTÍCULO 48.
 
@@ -1351,9 +1583,11 @@ B. El Visitador General hará del conocimiento del superior jerárquico del serv
 
 C. La Subdirección de Visitaduría, verificará que se cumplan las recomendaciones emitidas en las visitas de supervisión; programando visitas de seguimiento, conforme a los lineamientos establecidos en el inciso A) del presente artículo. En caso que no se haya subsanado la recomendación emitida dentro del plazo impuesto; se abrirá un expediente de investigación, con los elementos de prueba recabados y cumpliendo con los requisitos que establece el artículo 55 de la Ley Orgánica de la procuraduría General de Justicia del Estado. Según el caso, si se detecta alguna irregularidad, que deba ser sancionada administrativamente, de igual forma se abrirá el expediente de investigación a efecto de integrar los elementos de prueba, cumpliendo con los requisitos que se establecen en el precepto legal citado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 52.
 
-Por cuanto a las visitas de control y evaluación técnico-jurídica que se efectué a las Agencias del Ministerio Público investigadoras o de trámite que se rijan bajo el Código de procedimientos penales de 2006, se verificará:
+Por cuanto a las visitas de supervisión y/o evaluación técnico-jurídica que se efectué a las Agencias del Ministerio Público investigadoras o de trámite que se rijan bajo el Código de Procedimientos Penales de 2006, se verificará:
 
 a) La fecha en que el titular de la Agencia del Ministerio Público tomó posesión;
 
@@ -1375,9 +1609,11 @@ i) Verificará si el Agente del Ministerio Público visitado, sin causa justific
 
 j) Solicitará el listado de las averiguaciones previas que fueron enviadas al archivo como reserva y/o rezago.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 53.
 
-Las supervisiones y evaluaciones técnico-jurídicas que realice la Visitaduría General a las Unidades Especializadas de investigación, se practicarán a través del Sistema Informático de Registro, Integración y Seguimiento de las Carpetas de Investigación; sujetándose al siguiente procedimiento:
+Las visitas de supervisión y/o evaluaciones técnico-jurídicas que realice la Visitaduría General a las Unidades Especializadas de investigación, se practicarán a través del Sistema Informático de Registro, Integración y Seguimiento de las Carpetas de Investigación; sujetándose al siguiente procedimiento:
 
 a) El Visitador adscrito y asignado para la realización de la supervisión, levantará un acta en la que hará constar número de oficio y de supervisión, fecha y lugar en que se expide, nombre del Agente del Ministerio Público asignado, de la Unidad Especializada de Investigación que será objeto de la supervisión, día y hora en que se practica, periodo que abarcará la supervisión, fundamento legal y motivación que sustenta la supervisión, nombre y firma del servidor público que lo suscribe;
 
@@ -1393,9 +1629,11 @@ IV. Procederá a cerrar el acta de supervisión, señalando la hora de conclusi�
 
 La Visitaduría General podrá realizar supervisiones y evaluaciones técnico-jurídicas, a través del Sistema Informático de Registro, Integración y Seguimiento de las averiguaciones previas, a las Agencias del Ministerio Público que tengan implementado dicho sistema, ciñéndose al procedimiento señalado en este artículo; sin embargo, sí podrá verificar las actuaciones contenidas en las indagatorias, ya sea a través del sistema o personalmente en las agencias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 54.
 
-En las visitas de control y evaluación técnico-jurídica que se practique en la Dirección General y Coordinaciones Regionales de Servicios Periciales, la Visitaduría General, además de cumplir con lo establecido en el artículo 51 del presente ordenamiento deberá seguir los siguientes lineamientos:
+En las visitas de supervisión y/o evaluación técnico-jurídica que se practique en la Dirección General y Coordinaciones Regionales de Servicios Periciales, la Visitaduría General, además de cumplir con lo establecido en el artículo 51 del presente ordenamiento deberá seguir los siguientes lineamientos:
 
 a) Verificará el libro que contiene el registro de llamados del Ministerio Público para la emisión de dictámenes periciales, la fecha de recepción del llamado, qué dictamen se solicitó y los datos de la carpeta de investigación;
 
@@ -1405,9 +1643,11 @@ b) Verificará que los dictámenes periciales señalados en el inciso que antece
 
 c) Verificará que los dictámenes periciales emitidos sean acordes a lo solicitado por el Agente del Ministerio Público u otra autoridad que tenga injerencia en el asunto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 55.
 
-En las visitas de control y evaluación técnico-jurídica que se practique en las Áreas de la Policía Ministerial, la Visitaduría General, además de cumplir con lo establecido en el artículo 51 del presente ordenamiento, deberá verificar los siguientes lineamientos:
+En las visitas de supervisión y/o evaluación técnico-jurídica que se practique en las áreas de la Policía Ministerial, la Visitaduría General, además de cumplir con lo establecido en el artículo 51 del presente ordenamiento, deberá verificar los siguientes lineamientos:
 
 a) Que los recursos materiales asignados a cada una de las áreas de la policía ministerial, sean utilizados única y exclusivamente para el desempeño de sus funciones;
 
@@ -1425,9 +1665,11 @@ f) Que se respeten los derechos humanos y las garantías individuales de las per
 
 g) Se conduzcan con fidelidad y honor hacia la institución desempeñando con honradez y responsabilidad el servicio encomendado, absteniéndose de todo acto de corrupción, así como de hacer uso de sus atribuciones para el lucro o fines personales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 56.
 
-En las visitas de control y evaluación técnico-jurídica que se practique en las áreas de internamiento, de seguridad y custodia, la Visitaduría General, deberá sujetarse a los siguientes lineamientos:
+En las visitas de supervisión y/o evaluación técnico-jurídica que se practique en las áreas de internamiento, de seguridad y custodia, la Visitaduría General, deberá sujetarse a los siguientes lineamientos:
 
 A. Revisará la fecha y hora del ingreso de los detenidos en términos del libro correspondiente, cotejando la información con la existente en las agencias investigadoras, verificando que su estancia no rebase las cuarenta y ocho horas que señala la legislación aplicable al caso;
 
@@ -1459,9 +1701,11 @@ IX. Si el trato recibido ha sido cortés, digno y en general si le han respetado
 
 La Visitaduría General establecerá bitácoras en las cuales consten las supervisiones que realice en las áreas de internamiento y de seguridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 57.
 
-Las visitas de supervisión que realice la Visitaduría General con el objeto de percibir la atención brindada por el personal de la Institución (atención ciudadana), deberá cumplir con los siguientes lineamientos:
+Las visitas de supervisión que realice la Visitaduría General con el objeto de percibir la atención a la ciudadanía que brinda el personal de la Institución, deberá cumplir con los siguientes lineamientos:
 
 a) Deberá practicarse en las áreas donde se concentre el mayor número de personas que requieran algún servicio por parte de la Institución;
 
@@ -1469,9 +1713,9 @@ b) Las Unidades Especializadas de Investigación, Agencias del Ministerio Públi
 
 c) Las Unidades Especializadas de Investigación, Agencias del Ministerio Público o unidades que se requieran a criterio del titular de la Visitaduría General o a petición del superior jerárquico de éstas;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-d) Se podrán realizar supervisiones extraordinarias de atención inmediata, sin necesidad de oficio de comisión emitido por el Visitador General o por el Subdirector de Visitaduría, bastando la constancia que se levante y que contenga la denuncia recibida sobre alguna irregularidad administrativa. En cuyo caso la visita se llevará a cabo de manera inmediata, porque de no hacerse así, las condiciones en que se está originado (sic) o ejecutando la irregularidad pudrían (sic) modificarse; y
+d) Se podrán realizar supervisiones extraordinarias de atención inmediata, sin necesidad de oficio de comisión emitido por el Visitador General o por el Subdirector de Visitaduría, bastando la constancia que se levante y que contenga la denuncia recibida sobre alguna irregularidad administrativa. En cuyo caso la visita se llevará a cabo de manera inmediata, porque de no hacerse así, las condiciones en que se está originando o ejecutando la irregularidad podrían modificarse, y
 
 e) Este tipo de visitas también podrá efectuarse, cuando se haga del dominio público, hechos que afectan la imagen de la institución y que de igual manera, deban atenderse por constituir una posible irregularidad administrativa.
 
@@ -1609,7 +1853,9 @@ IX. Practicar visitas a lugares de prisión o reclusión de inculpados y concurr
 
 X. Vigilar el exacto cumplimiento del principio de legalidad y de la pronta y debida impartición de justicia, informando al superior jerárquico;
 
-XI. Remitir al Director Regional de la Policía Ministerial de su misma adscripción, por conducto del Subprocurador correspondiente, las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación y cateo, debiendo informar éstos últimos al Coordinador General de la Policía Ministerial y al Procurador respectivamente, del cumplimiento a las mismas;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XI. Remitir al Director Regional de la Policía Ministerial de su misma adscripción, por conducto del Subprocurador correspondiente, las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación y cateo, debiendo informar éstos últimos al Coordinador General de la Policía Ministerial y al Superior Jerárquico respectivamente, del cumplimiento a las mismas;
 
 XII. Estudiar los expedientes en los que se dé vista por estimar que existen hechos que puedan constituir un delito, promover lo procedente e informar al superior jerárquico, expresando su opinión debidamente fundada y motivada;
 
@@ -1661,15 +1907,19 @@ DE LAS COORDINACIONES REGIONALES DE SERVICIOS PERICIALES
 
 Las Coordinaciones Regionales de Servicios Periciales, quedarán adscritas al Director General de Servicios Periciales en el ámbito de sus competencias.
 
-###### ARTÍCULO 67.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-Al frente de cada una de las Coordinaciones Regionales habrá un Coordinador de Servicios Periciales, quien ejercerá y cumplirá por sí o a través de los servidores públicos que le estén adscritos, las siguientes atribuciones y obligaciones:
+###### Artículo 67.
+
+Al frente de cada una de las Coordinaciones Regionales habrá un Coordinador de Servicios Periciales, quien ejercerá las siguientes atribuciones y obligaciones:
 
 I. ATRIBUCIONES:
 
 a) Establecer y operar un sistema de supervisión permanente del personal técnico científico de las diversas especialidades periciales, con el objeto de que cumplan y observen las normas administrativas aplicables al área;
 
-b) Coordinar, controlar y vigilar la actividad de los peritos en el cumplimiento de las órdenes que legalmente reciban del Ministerio Público, la Policía Ministerial, las demás autoridades de la Procuraduría General de Justicia, así como por las autoridades del Poder Judicial, en las materias y especialidades que requieran, para obtener, comprobar, asegurar, rectificar los datos y evidencias que demuestren que se ha cometido el delito y que asegure la probabilidad de que el indiciado lo cometió o participó en su comisión en los hechos delictivos que investiguen; las solicitudes de otras autoridades o Instituciones, se atenderán previo acuerdo del Procurador;
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+b) Coordinar, controlar y vigilar la actividad de los peritos en el cumplimiento de las órdenes que legalmente reciban del Ministerio Público, la Policía Ministerial, las demás autoridades de la Procuraduría General de Justicia, así como por las autoridades del Poder Judicial, en las materias y especialidades que requieran, para obtener, comprobar, asegurar, rectificar los datos y evidencias que demuestren que se ha cometido el delito y que asegure la probabilidad de que el indiciado lo cometió o participó en su comisión en los hechos delictivos que investiguen; las solicitudes de otras autoridades o Instituciones, se atenderán previo acuerdo del Superior Jerárquico;
 
 c) Proponer al Superior Jerárquico la habilitación de peritos cuando la Procuraduría no cuente con especialistas en una determinada disciplina, ciencia o arte que se requiera o en casos urgentes;
 
@@ -1695,11 +1945,15 @@ c) Una vez emitido por escrito el informe o el dictamen solicitado, vigilará qu
 
 d) Tener a su cargo el casillero de identificación criminalística;
 
-e) Identificar en caso de ser posible a los retenidos en los términos señalados en las disposiciones legales aplicables;
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+e) Vigilar que se identifique correctamente a los detenidos en los términos señalados en las disposiciones legales aplicables;
 
 f) Integrar cuerpos de peritos en ciencias, técnicas o artes;
 
-g) Crear fichas de identificación;
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+g) Vigilar la creación de fichas de identificación;
 
 h) Supervisar que los peritajes se elaboren de acuerdo a las ciencias, técnicas o artes sometidos a análisis de especialistas, vigilando que se mencionen los sistemas y equipos empleados o aplicados;
 
@@ -1709,27 +1963,39 @@ j) Cuidar que los peritos apliquen las normas establecidas en los ordenamientos 
 
 k) Dar cuenta al Procurador, Subprocuradores y al Director General de Servicios Periciales, con los asuntos de la competencia de la Coordinación;
 
-l) Practicar los exámenes o evaluaciones que señala la Ley Orgánica de la Procuraduría General de Justicia y este Reglamento para ingresar o permanecer en la Procuraduría, cuando así lo ordene el Procurador;
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-m) Conformar una Base General de datos de los peritos que le estén adscritos; misma que contendrá los siguientes requisitos: grado de estudios y especialización, años de experiencia;
+l) Vigilar que se practiquen los exámenes o evaluaciones que señale la Ley Orgánica de la Procuraduría General de Justicia y este Reglamento y demás disposiciones jurídicas para ingresar o permanecer en la Procuraduría, cuando así lo ordene el Superior Jerárquico;
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+m) Supervisar que se alimente la base general de datos de los peritos que le estén adscritos; misma que contendrá los siguientes datos mínimos: nombre, grado de estudios, especialización y años de experiencia;
 
 n) Cerciorarse del correcto manejo de los indicios, huellas o vestigios del hecho delictuoso, así como de los instrumentos, objetos o productos del delito cuando los reciban;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-o) Dar cuenta por escrito al Ministerio Público cuando notase que los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito no han sido debidamente resguardados de conformidad a lo dispuesto por las disposiciones jurídicas aplicables;
+o) Supervisar que los peritos rindan los informes por escrito a los Agentes del Ministerio Público cuando notase que los indicios, huellas, o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito no han sido debidamente resguardados de conformidad a lo dispuesto por las disposiciones jurídicas aplicables;
 
-p) Los dictámenes periciales solicitados para la integración de una carpeta de investigación deberán ser rendidos dentro del término máximo de 10 días hábiles, contados a partir de la fecha de recibida la petición, según la naturaleza del dictamen; en caso de haber detenido, dicho dictamen se rendirá dentro de las 12 horas contadas a partir de la recepción de la solicitud; y
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-q) Las demás que le confieran las disposiciones legales aplicables y aquéllas que le encomiende el Procurador y el Subprocurador.
+p) Vigilar que los dictámenes periciales solicitados para la integración de una carpeta de investigación sean rendidos dentro del término máximo de 10 días hábiles, contados a partir de la fecha de recibida la petición, según sea la naturaleza del dictamen; en caso de haber detenido, dicho dictamen se rendirá dentro de las 12 horas contadas a partir de la recepción de la solicitud, en caso de no hacerlo deberá de informarlo a la Visitaduría para fincarle la responsabilidad a que haya lugar; y
 
-###### ARTÍCULO 68.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-Los peritos adscritos a las Coordinaciones de Servicios Periciales, deberán contar con Titulo legalmente expedido y registrado en la rama profesional sobre la que dictaminarán. Si se trata de actividades no reglamentadas en la ley, se acreditarán sus conocimientos por cualquier medio y deberán contar con una práctica mínima de cinco años.
+q) Las demás que le confieran las disposiciones legales aplicables y aquellas que le encomiende su Superior Jerárquico.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 68.
+
+Los peritos adscritos a las Coordinaciones Regionales de Servicios Periciales, deberán contar con titulo legalmente expedido y registrado en la rama profesional sobre la que dictaminarán y no tenga ningún impedimento para el ejercicio profesional. Si se trata de actividades no reglamentadas en la Ley, se acreditarán sus conocimientos por cualquier medio y deberán contar con una práctica mínima de cinco años, prefiriéndose aquellos que pertenezcan a un gremio o agrupación relativa a la actividad sobre la que verse la pericia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 69.
 
-Las Coordinaciones de Servicios Periciales contarán con las siguientes materias y especialidades:
+Las Coordinaciones Regionales de Servicios Periciales contarán con las siguientes materias y especialidades:
 
 a) Criminalística de campo;
 
@@ -1771,7 +2037,7 @@ p) Tránsito Terrestre;
 
 q) Incendios y Explosivos;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(F. DE E.,P.O. 22 DE JULIO DE 2009)</small>
 
 r) Peritos Médicos Legistas o Forenses; y
 
@@ -1817,13 +2083,15 @@ c) Convocar a la celebración de juntas de peritos cuando el Ministerio Público
 
 d) Proponer los contenidos para la capacitación y actualización científica y o técnica del personal especializado en materia de medicina forense;
 
-e) Resolver sobre la atención de los casos urgentes del servicio, así como sobre la suplencia de cualquiera de los peritos en los casos de enfermedad, licencia o vacaciones; y
+e) (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 IV. PSICOLOGÍA:
 
-a) Supervisar que la realización de estudios y emisión de dictámenes sobre el estado mental, perfil psicológico, o capacidad intelectual de personas involucradas en la comisión de delitos, se lleven a efecto utilizando los métodos y técnicas que se requieran.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+a) Realizar los estudios y emisión de dictámenes sobre el estado mental, perfil psicológico o capacidad intelectual de personas involucradas en la comisión de un delito, utilizando los métodos y técnicas que requieran.
 
 COORDINACIÓN ESTATAL DE PLATAFORMA MÉXICO
 
@@ -1843,7 +2111,9 @@ IV. Informar al Coordinador General de la Policía Ministerial del desarrollo de
 
 V. Elaborar estudios de política criminal, desarrollar estrategias e investigaciones que apoyen el combate a la impunidad;
 
-VI. Con apoyo de la Dirección de Aprehensiones, llevar un control y registro de ordenes de aprehensión, reaprehensión y presentación, con el propósito de verificar la reincidencia de los delincuentes;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+VI. Llevar un control y registro de órdenes de aprehensión, reaprehensión y reincidencia de los delincuentes de conformidad con la información proporcionada por la Dirección de Aprehensiones;
 
 VII. Coadyuvar con la comunicación e intercambio de experiencias con instituciones nacionales y extranjeras, para la cooperación y fortalecimiento en materia de política criminal;
 
@@ -1855,9 +2125,11 @@ IX (SIC). Las demás que le señalen otras disposiciones legales aplicables.
 
 ### CAPÍTULO XI (SIC). DE LAS DIRECCIONES REGIONALES DE POLICÍA MINISTERIAL
 
-###### ARTÍCULO 72.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-Habrá tres Direcciones Regionales, con las siguientes denominaciones: Metropolitana, Oriente, Sur Poniente, teniendo cada una de las jurisdicciones que para las Subprocuradurías establece el artículo 13 de éste Reglamento. Tendrá bajo su adscripción las Unidades de Investigación policial adscritas a las Unidades Especializadas de Investigación.
+###### Artículo 72.
+
+Habrá tres Direcciones Regionales, con las siguientes denominaciones: Metropolitana, Oriente y Sur Poniente, teniendo competencia territorial atendiendo en lo establecido en el artículo 13 de este Reglamento. Tendrán bajo su adscripción las Unidades de Investigación Policial.
 
 ###### ARTÍCULO 73.
 
@@ -2031,17 +2303,23 @@ XXIII. Las demás que le asigne la Ley, su reglamento y demás disposiciones que
 
 En caso de falta absoluta de Procurador o en tanto se hace la designación por el Poder Legislativo, el Gobernador del Estado podrá nombrar a una persona que se encargue temporalmente del cargo.
 
-###### ARTÍCULO 78.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-En caso de ausencias temporales del Procurador mayor a tres días naturales será suplido temporalmente por el Subprocurador metropolitano.
+###### Artículo 78.
+
+En caso de ausencias temporales del Procurador mayor a tres días naturales será suplido por el Subprocurador General.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 79.
 
-Los Subprocuradores de Zona Metropolitana, de Zona Oriente, de Zona Sur-Poniente y Subprocurador de Investigaciones Especiales, serán sustituidos temporalmente entre sí, cuando su ausencia sea mayor a diez días naturales, en el orden que establezca el Procurador.
+El Subprocurador General, el Subprocurador de la Zona Oriente, el Subprocurador de la Zona Sur-Poniente y Subprocurador de Investigaciones Especiales, serán sustituidos temporalmente entre sí, cuando su ausencia sea mayor a diez días naturales, en el orden que establezca el Procurador.
 
-El Subprocurador de Derechos Humanos y Justicia Restaurativa en caso de ausencia temporal por más de diez días naturales será sustituido temporalmente por el que designe el Procurador
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-El Coordinador General de Policía Ministerial, el Visitador General, el Coordinador General de Administración y Sistemas, el Coordinador General de Asesores y Vinculación Institucional, los Directores Generales y los Coordinadores, serán sustituidos en caso de que se ausente temporalmente por más de diez días por el servidor público que designe el Procurador.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+El Coordinador General de Policía Ministerial, el Coordinador General de Servicios Periciales y Derechos Humanos, el Visitador General, el Coordinador General de Administración y Sistemas, el Coordinador General de Asesores y Vinculación Institucional, los Directores Generales y los Coordinadores, serán sustituidos en caso de que se ausenten temporalmente por más de diez días por el servidor público que designe el Procurador.
 
 ###### ARTÍCULO 80.
 
@@ -2052,6 +2330,26 @@ El personal restante será suplido por los servidores públicos que designe el S
 ###### ARTÍCULO 81.
 
 El Gobernador del Estado de Morelos calificará las excusas del Procurador y éste de los Subprocuradores, Coordinadores Generales, Visitador General y Directores Generales. Los Subprocuradores, Coordinadores Generales, Visitador General, Directores Generales y Coordinadores calificarán las de su personal.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Los servidores públicos, del párrafo anterior, deberán de excusarse y podrán ser recusados por los motivos establecidos en el artículo 101 del Código de Procedimientos Penales, salvo por el hecho de haber intervenido como Agente del Ministerio Público en otro procedimiento seguido contra el imputado.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 81 BIS. Cuando el Servidor Público se excuse, remitirá mediante acuerdo fundado y motivado las actuaciones al Superior Jerárquico, para que éste determine lo conducente. Si la excusa no tiene fundamento deberá de ser resuelta sin trámite. En caso que el Superior Jerárquico determine infundada la excusa o no acuerde en un término de veinticuatro horas, el servidor público remitirá al Procurador o a quien éste delegue dicha facultad, su acuerdo fundado y motivado de la excusa para que lo califique en definitiva.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 81 TER. Las partes podrán solicitar por escrito la recusación del Servidor Público que conoce de la causa, cuando estime que concurre en él un impedimento por el cual debió excusarse. Dicha recusación deberá de ser formulada dentro del terminó de veinticuatro horas siguientes al conocimiento de los motivos en que se funda, adjuntando las pruebas que demuestren dicho impedimento del servidor público.
+
+Si el Servidor Público admite la recusación deberá de aplicar el trámite para la Excusa. En caso contrario remitirá a su Superior Jerárquico su pronunciamiento de cada uno de los motivos de la recusación, así como el escrito de la recusación. El Superior jerárquico resolverá inmediatamente qué servidor público conocerá del asunto;
+
+El que recusa podrá acudir con el Procurador o con el Servidor Público a quien éste delegue dicha facultad, para que califique en definitiva la recusación cuando esté inconforme con la resolución emitida por el Superior jerárquico del servidor público recusado. Contra la resolución emitida por el Procurador o del servidor público a quien se delegó dicha facultad, no procederá recurso alguno.
+
+El servidor público que se excuse o que sea recusado podrá practicar las diligencias urgentes, en tanto se resuelve lo conducente.
+
+Incurrirá en falta grave el servidor público que a sabiendas que existe un impedimento para conocer de la causa, omita hacerlo o lo haga con notoria falta de fundamento, así como la parte que recuse con malicia o de un modo manifiestamente infundado, sin perjuicio de las responsabilidades civiles, penales o de otro tipo que pudiera corresponder.
 
 ### CAPÍTULO XIII. DEL CONSEJO DE PARTICIPACIÓN CIUDADANA DE LA PROCURADURÍA
 
@@ -2198,3 +2496,23 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 DR. EN DERECHO JOSÉ FRANCISCO CORONATO RODRÍGUEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDO.- Se derogan las disposiciones administrativas de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- El Procurador General de Justicia del Estado de Morelos resolverá las cuestiones que no se encuentren previstas en el presente Decreto.
+
+CUARTO.- En tanto se expiden los manuales respectivos, el Procurador General de Justicia del Estado de Morelos queda facultado para resolver las cuestiones de procedimiento y operaciones que se originen por la aplicación de este Ordenamiento.
+
+QUINTO.- Los manuales de organización y de políticas y procedimientos deberán adecuarse en un plazo no mayor a 90 días hábiles, y en tanto se expidan dichos manuales seguirán vigentes los anteriores.
+
+SEXTO.- Las Direcciones Generales de Averiguaciones Previas y Procedimientos Penales ejercerán las atribuciones conferidas a las Direcciones Generales de Investigaciones y Procesos Penales, en tanto se autoriza la estructura orgánica y otorgan los nombramientos respectivos a los titulares de dichas Direcciones Generales.
+
+SÉPTIMO. La Dirección General de Investigaciones y Procesos Penales de la Subprocuraduría de Investigaciones Especiales ejercerá las atribuciones establecidas en el artículo 29 del Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, en tanto existan averiguaciones previas y procesos penales que se rijan por el Código de Procedimientos Penales publicado en el Periódico oficial "Tierra y Libertad" número 3820, del nueve de octubre de mil novecientos noventa y seis.
+
+OCTAVO. Las Coordinaciones de Control de Procesos seguirán operando en el nuevo sistema de justicia penal.
