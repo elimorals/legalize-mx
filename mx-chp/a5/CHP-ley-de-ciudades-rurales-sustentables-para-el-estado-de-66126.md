@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ciudades-rurales-sustentables-para-el-estado-de-66126"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-07"
-last_updated: "2009-01-07"
+last_updated: "2009-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE CIUDADES RURALES SUSTENTABLES PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 7 de enero de 2009.
 
@@ -213,7 +213,9 @@ XI. Gobernador: al Titular del Poder Ejecutivo del Estado de Chiapas.
 
 XII. Infraestructura rural: A los trabajos de planeación, programación y ejecución de la construcción, rehabilitación, y modernización de la infraestructura agropecuaria e hidroagrícola en las Ciudades Rurales Sustentables.
 
-XIII. Instituto: al Instituto de Ciudades Rurales Sustentables.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XIII. Instituto: Al Instituto de Población y Ciudades Rurales.
 
 XIV. Ley: a la Ley de Ciudades Rurales Sustentables para el Estado de Chiapas.
 
@@ -238,6 +240,10 @@ XXIII. Sustentabilidad: a la capacidad de una sociedad humana de apoyar en su me
 XXIV. Usos: a los fines particulares a que podrán destinarse determinadas zonas o predios de una Ciudad Rural Sustentable.
 
 XXV. Zona dispersa: al ámbito de aplicación de las medidas derivadas de la amplitud territorial o subprovincial, delimitado por la comunidad dispersa.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XXVI. Villas Rurales Sustentables: Son aquellos centros poblacionales existentes o de nueva creación que mediante la construcción de infraestructura, conservación y mejoramiento de los mismos, concentren asentamientos humanos dispersos con altos índices de marginación y pobreza, concentrando, igualmente, aquellas comunidades que se encuentren en zonas que se consideren de alto riesgo, para ofertarles los servicios de infraestructura básica, a fin de mejorar la calidad de vida de los ciudadanos que las integren, proporcionándoles servicios que permitan incrementar su calidad de vida y oportunidades económicas, así como el desarrollo integral sustentable de la región, con respeto y apego a las características geográficas, económicas, ambientales, culturales y de costumbres de la región.
 
 ###### Artículo 9°.
 
@@ -719,6 +725,26 @@ VI. La prevención, control y atención de riesgos y contingencias ambientales, 
 
 El Poder Ejecutivo y los Municipios, en el ámbito de sus respectivas competencias y conforme con la legislación aplicable, promoverán el establecimiento de agrupaciones comunitarias que participen en el desarrollo de las Ciudades Rurales Sustentables.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+## Título Séptimo. De las Villas Rurales Sustentables
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+### Capítulo Único. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 59.
+
+El programa de Villas Rurales tiene como objeto fortalecer la infraestructura básica de los centros poblacionales existentes o de nueva creación, para contribuir a la ordenación de las comunidades dispersas cercanas, así como asegurar a las personas que habitan en zonas de alto riesgo, adoptándose las directrices estratégicas territoriales que al efecto formulen las instancias correspondientes.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 60.
+
+Para la implementación del Programa de Villas Rurales Sustentables, se aplicarán las disposiciones contenidas en esta Ley, referentes al programa de Ciudades Rurales Sustentables.
+
 T r a n s i t o r i o s
 
 Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
@@ -736,3 +762,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 D.P. C. Sami David David.- D.S. C.O. Magdalena Torres Abarca.- Rúbricas.
 
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los treinta y un días del mes de diciembre del año dos mil ocho. Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
