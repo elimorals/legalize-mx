@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-becas-del-programa-de-fomento-formacion-y-62804"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-10"
-last_updated: "2008-09-10"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62804&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,19 +19,23 @@ issue_date: "2008-08-20"
 ---
 # REGLAMENTO DE BECAS DEL PROGRAMA DE FOMENTO, FORMACION Y CONSOLIDACION DE CAPITAL HUMANO DE ALTO NIVEL -- ANTES REGLAMENTO DE BECAS DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA -- ANTES REGLAMENTO DE BECAS DEL PROGRAMA DE FOMENTO, FORMACION, DESARROLLO Y VINCULACION DE RECURSOS HUMANOS DE ALTO NIVEL DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA--
 
-REGLAMENTO DE BECAS DEL PROGRAMA DE FOMENTO, FORMACION, DESARROLLO Y VINCULACION DE RECURSOS HUMANOS DE ALTO NIVEL DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
+REGLAMENTO DE BECAS DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 10 de septiembre de 2008.
 
 Al margen un logotipo, que dice: Consejo Nacional de Ciencia y Tecnología.
 
-REGLAMENTO DE BECAS DEL PROGRAMA DE FOMENTO, FORMACION, DESARROLLO Y VINCULACION DE RECURSOS HUMANOS DE ALTO NIVEL DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA.
+> <small>(REFORMADA SU DENOMINACION POR EL TRANSITORIO TERCERO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
+REGLAMENTO DE BECAS DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
 El Consejo Nacional de Ciencia y Tecnología (CONACyT), con fundamento en lo dispuesto por los artículos 1, 2, 3, 12, 13, fracción V, 42, 43, 44, 45 y 46 de la Ley de Ciencia y Tecnología; 1, 2 fracciones I, XVII, XIX, XX y XXVI; 6 y 9 de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología; 1, 2, 3 fracciones I, XIX y XXIV; 10 fracciones XII y XIV, y 21 fracciones I, II, V y XLV del Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología, la Junta de Gobierno del Consejo Nacional de Ciencia y Tecnología, con fundamento en lo dispuesto por los artículos 1, 2, 6 y 9 de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología; 1, 2, 3, 10, 18, 19 y 23 del Estatuto Orgánico del propio Consejo, se expide el presente:
 
-REGLAMENTO DE BECAS DEL PROGRAMA DE FOMENTO, FORMACION, DESARROLLO Y VINCULACION DE RECURSOS HUMANOS DE ALTO NIVEL DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
+> <small>(REFORMADA SU DENOMINACION POR EL TRANSITORIO TERCERO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
+REGLAMENTO DE BECAS DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
 CONSIDERANDO
 
@@ -287,7 +291,9 @@ VI. Mantener la calidad académica o de desempeño previstos en el Programa de E
 
 VII. En caso de que el becario deba realizar sus estudios o proyecto fuera del país o becario extranjero que realice sus estudios en México, deberá respetar la legislación, normatividad, usos y costumbres del país anfitrión, así como abstenerse de participar en cualquier tipo de evento de carácter político o manifestación;
 
-VIII. Enviar al CONACyT los informes de avance en el desarrollo de los estudios o del proyecto en los plazos que se establezca en el Convenio de Asignación, y entregar a CONACyT dentro de los 12 (doce) meses siguientes a la conclusión de la beca, copia del documento que acredite la obtención del grado o el logro de los objetivos del proyecto apoyado;
+> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
+VIII. Verificar que su tutor o la institución por medio de la persona facultada, envíe al CONACYT los informes de avance en el desarrollo de los estudios o del proyecto, los cuales podrán acreditarse con la evaluación del desempeño o reporte de calificaciones, en los plazos que se establezcan en el Convenio de Asignación o en los procedimientos que al efecto el CONACYT publique en su página electrónica; así como entregar al CONACYT dentro de los 12 meses siguientes a la conclusión de la beca, copia del documento que acredite, en su caso, la obtención del grado o el logro de los objetivos del proyecto apoyado;
 
 IX. Los becarios que realizaron estudios en el extranjero, deberán acreditar al CONACyT su regreso al país, dentro de los 12 (doce) meses siguientes a la conclusión de la beca o de obtención del grado o conclusión del proyecto objeto de la beca o del apoyo;
 
@@ -317,25 +323,19 @@ En los casos que proceda modificación a la beca, ésta deberá solicitarse a la
 
 El CONACyT, con base en la información recibida y previo dictamen de evaluador o comisión de evaluación correspondiente y sujeto a disponibilidad presupuestal, emitirá su resolución la que será informada al solicitante en un plazo no mayor a 20 (veinte) días hábiles a partir de la fecha de evaluación; en caso de que no se otorgue la respuesta en el plazo previsto, la solicitud se considerará aceptada para los efectos correspondientes.
 
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 23.
 
-El becario podrá solicitar a la Dirección Adjunta responsable de la Convocatoria o Convenio de Colaboración que le dio origen, modificación a las condiciones originalmente autorizadas, entre otros, en los siguientes casos:
+Las modificaciones se podrán solicitar únicamente en los siguientes casos:
 
-I. Ajuste de la vigencia de la beca;
+I. Cambio de grado de maestría a doctorado, siempre y cuando el programa lo permita; y
 
-II. Cambio en el programa de estudios o de grado;
+II. Por causa de fuerza mayor debidamente justificada.
 
-III. Cambio de institución u organismo donde se realiza el programa de estudios o del proyecto;
+La autorización de modificación de beca que otorgue el CONACYT deberá ser expresa y no implicará en ningún caso, la ampliación de la vigencia efectiva máxima prevista en la convocatoria o en el convenio de colaboración y en lo dispuesto en el artículo 17 de este Reglamento.
 
-IV. Prórroga para la conclusión de los objetivos de la beca, la que será aplicable únicamente en el caso de becas de Doctorado, y
-
-V. Causa de fuerza mayor debidamente justificada.
-
-La autorización de modificación de beca que otorgue el CONACyT deberá ser expresa y no implicará en ningún caso, la ampliación de la vigencia efectiva máxima prevista en la Convocatoria, o en el Convenio de Colaboración y en lo dispuesto en el artículo 17 de este Reglamento.
-
-La autorización de modificación a la beca que, en su caso, otorgue el CONACyT, invariablemente estará sujeta a disponibilidad presupuestal.
-
-El CONACyT publicará en su página electrónica los lineamientos o guías en donde se describen los procedimientos para solicitar la modificación para los casos referidos en el presente Capítulo.
+La autorización de modificación de la beca que, en su caso otorgue el CONACYT, invariablemente estará sujeta a disponibilidad presupuestal.
 
 ### CAPITULO VII. De la Suspensión, Cancelación de la Beca y de la Conclusión de la Beca
 
@@ -343,21 +343,37 @@ El CONACyT publicará en su página electrónica los lineamientos o guías en do
 
 Serán causas de suspensión de beca o de apoyo, entre otras, las siguientes:
 
-I. Cuando el becario incurra en incumplimiento de las obligaciones previstas en el instrumento de Asignación de Beca y lo previsto en el artículo 19 del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
+I. Cuando el Becario incurra en incumplimiento de las obligaciones previstas en el instrumento de asignación de beca y/o lo previsto en el Artículo 19 del presente Reglamento;
 
 II. Cuando el becario lo solicite, con autorización de su institución, nacional o extranjera;
 
-III. Cuando el becario sufra de una incapacidad temporal: médica o de otra índole o por causa de fuerza mayor, ésta deberá estar justificada y con la documentación que lo acredite.
+> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
+III. Cuando el Becario sufra de una incapacidad temporal, médica o de otra índole o por causa de fuerza mayor, ésta deberá estar justificada y con la documentación que lo acredite.
 
 Durante el plazo de suspensión, el CONACyT no estará obligado a entregar al becario los recursos comprometidos en el instrumento de asignación de beca.
 
-En el caso previsto en la fracción I del presente artículo, la beca se reinstalará una vez que se acredite ante el CONACyT el cumplimiento de las obligaciones omitidas. El CONACyT podrá no restituir al becario el monto de las asignaciones no otorgadas en los plazos convenidos, cuando la suspensión se hubiere originado por causa imputable al becario.
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
 
-En los casos a que se refieren las fracciones II y III del presente artículo, el CONACyT, con base en la solicitud formulada -considerando la posibilidad de que puedan ser reanudados los estudios o proyecto que desarrolla el becario concluida la contingencia- la disponibilidad presupuestal y el dictamen que emita el evaluador o la comisión de evaluación correspondiente, emitirá su resolución dentro de los 20 (veinte) días hábiles siguientes. En caso de no emitir respuesta, ésta se considerará como aceptada para los efectos correspondientes.
+En el caso previsto en la fracción I del presente Artículo, la beca se reinstalará una vez que se acredite ante el CONACYT el cumplimiento de las obligaciones omitidas. Cuando el Becario acredite que la suspensión no fue por causas imputables a él, el CONACYT podrá restituir al mismo, en caso de contar con suficiencia presupuestal, el monto de las asignaciones no otorgadas, respecto del plazo justificado.
 
-En caso de que se otorgue resolución favorable a la petición, ésta no podrá exceder a 24 meses. Asimismo, el CONACyT, señalará los requisitos y condiciones que el becario habrá de cumplir para su formalización, y resolverá sobre la entrega de recursos no entregados al becario durante la suspensión.
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
 
-En los casos previstos en las fracciones II y III, de este artículo, el becario, deberá solicitar al CONACyT la reanudación de la beca en forma expresa dentro del plazo de suspensión que le fue concedido. La falta de solicitud de reanudación, dará como consecuencia la cancelación de la beca en forma automática al vencimiento de la suspensión otorgada. Esta previsión invariablemente se estipulará en el Convenio de Asignación de Beca o de Apoyo.
+En los casos a que se refieren las fracciones II y III, del presente Artículo, el CONACYT, con base en la solicitud formulada -considerando la posibilidad de que puedan ser reanudados los estudios o proyecto que desarrolla el becario concluida la contingencia- la disponibilidad presupuestal y el dictamen que emita el evaluador o la comisión de evaluación correspondiente, emitirá su resolución dentro de los 20 (veinte) días hábiles siguientes a la fecha de emisión de la evaluación. En caso de no emitir respuesta, ésta se considerará como aceptada para los efectos correspondientes.
+
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
+En caso de que se otorgue resolución favorable a la petición de suspensión, ésta podrá ser por un plazo máximo de hasta 24 meses.
+
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
+En los casos previstos en las fracciones II y III de este artículo, el becario deberá solicitar de manera expresa al CONACYT la reanudación de la beca. En caso de que el CONACYT resuelva de manera positiva la solicitud, además de reanudar la beca, podrá adicionar a la vigencia de la misma un periodo igual al plazo de la suspensión, señalando los requisitos y condiciones que el becario habrá de cumplir para su formalización.
+
+> <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
+El Becario contará con un plazo de 12 meses contados a partir del término de la vigencia de la beca, para solicitar su reanudación, en caso de no hacerlo, se procederá a la cancelación de la misma de forma automática.
 
 ###### ARTICULO 25.
 
@@ -385,11 +401,13 @@ X. Por incumplimiento de lo establecido en el presente Reglamento y las demás d
 
 XI. Cuando el becario se encuentre privado de su libertad por sentencia que haya causado estado, sin derecho a la conmutación de la pena.
 
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 26.
 
-En los casos a que se refiere el artículo 25, el CONACyT por conducto de la Dirección Adjunta responsable de la Convocatoria o Convenio de Colaboración que dio origen a la Beca, emitirá la resolución de cancelación, y en su caso, cuando exista responsabilidad imputable al becario, la aplicación de las sanciones a que se refiere el artículo 31 del presente Reglamento, la que le será notificada al becario en el domicilio que tenga reportado en México.
+En los casos a que se refiere el artículo 25, el CONACYT por conducto de la Dirección Adjunta responsable de la convocatoria o convenio de colaboración que dio origen a la beca, emitirá la resolución de cancelación, y en su caso, cuando exista responsabilidad imputable al becario, la aplicación de las sanciones a que se refiere el artículo 31 del presente Reglamento.
 
-El becario podrá solicitar ante la Dirección Adjunta que le emitió la resolución la reconsideración acompañando a la solicitud la justificación y documentación que estime conveniente. El CONACyT, previo dictamen del evaluador o comisión de evaluación, emitirá su resolución dentro de los 20 (veinte) días hábiles siguientes, la que le será dada a conocer en la forma establecida en el párrafo anterior.
+El Becario podrá solicitar ante la Dirección Adjunta que le emitió la resolución, la reconsideración acompañando a la solicitud la justificación y documentación que estime conveniente. El CONACYT, previo dictamen del evaluador o comisión de evaluación, emitirá su resolución dentro de los 20 (veinte) días hábiles siguientes a la fecha de emisión de la evaluación.
 
 ###### ARTICULO 27.
 
@@ -417,13 +435,13 @@ En los casos que el beneficiario de la beca no tenga adeudos con CONACyT, podrá
 
 ### CAPITULO VIII. De las Sanciones
 
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 31.
 
-Cuando al becario se le cancele la beca por las causas establecidas en las fracciones III a X del artículo 25 de este Reglamento, salvo que se acredite causa de fuerza mayor o que la falta que originó la cancelación no le es imputable, deberá devolver al CONACyT el monto de los recursos que le fueron asignados como beca de conformidad con el procedimiento oficial que se determine, el cual será publicado en la página electrónica del CONACyT.
+Cuando al becario se le cancele la beca por las causas establecidas en las fracciones III a X del artículo 25 de este Reglamento, salvo que se acredite causa de fuerza mayor o que la falta que originó la cancelación no le es imputable, perderá el derecho a ser aspirante a cualquier tipo de apoyo que brinda el CONACYT, hasta en tanto haya subsanado el motivo de la cancelación.
 
-El becario en incumplimiento, perderá el derecho a ser aspirante a cualquier tipo de apoyo que brinda el CONACyT, hasta en tanto no haya efectuado el reembolso de los recursos que le fueron otorgados con motivo de la beca o apoyo.
-
-El CONACyT hará pública a través de su página electrónica la relación de sujetos de apoyo que se encuentren en incumplimiento de obligaciones derivado de los Convenios de Asignación de Beca o de Apoyo.
+El CONACYT hará pública a través de su página electrónica, la relación de los becarios que se encuentren en incumplimiento de obligaciones derivadas de los convenios de asignación. En ningún caso las becas podrán sujetarse a requerimientos que obliguen o condicionen a garantizar o a devolver el pago del monto económico ejercido, por tratarse de un subsidio.
 
 ## TRANSITORIOS
 
@@ -436,3 +454,13 @@ TERCERO. Los asuntos de becas que se encuentren en trámite a la entrada en vigo
 Atentamente
 
 El presente Reglamento de Becas del Programa de Fomento, Formación, Desarrollo y Vinculación de Recursos Humanos de Alto Nivel del Consejo Nacional de Ciencia y Tecnología, fue aprobado por la Junta de Gobierno del Consejo Nacional de Ciencia y Tecnología, en su vigésima cuarta sesión ordinaria, celebrada el seis de mayo de dos mil ocho, con el número de Acuerdo AS-XXIV-13/08, para contribuir con la formación de recursos humanos de alto nivel, la ciencia, la tecnología y la innovación, y una vez agotados los procedimientos formales se expide en la Ciudad de México, Distrito Federal, a los veinte días del mes de agosto de dos mil ocho.- Juan Carlos Romero Hicks.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE OCTUBRE DE 2009.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los asuntos pendientes de resolución a la entrada en vigor del presente Acuerdo, se sustanciarán de conformidad con lo dispuesto en el mismo.
+
+Tercero.- En todas las disposiciones en las que se haga referencia al Reglamento de Becas del Programa de Fomento, Formación, Desarrollo y Vinculación de Recursos Humanos de Alto Nivel del Consejo Nacional de Ciencia y Tecnología, se entenderá referido al Reglamento de Becas del Consejo Nacional de Ciencia y Tecnología.
