@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-60021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-21"
-last_updated: "2008-03-21"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60021&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-12-07"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de marzo de 2008.
 
@@ -185,7 +185,9 @@ VII. Someter a la aprobación de la Junta de Gobierno del CONACyT, los proyectos
 
 VIII. Expedir las disposiciones normativas que regulen su funcionamiento interno y el de las demás instancias colegiadas del SNI;
 
-IX. Resolver sobre los asuntos que no estén conferidos a ninguna otra instancia de las previstas en el presente Reglamento, y
+> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
+IX. Resolver sobre los asuntos que no estén conferidos a ninguna otra instancia de las previstas en el presente Reglamento y aprobar los casos de excepción debidamente justificados;
 
 X. Las demás que se deriven del presente Reglamento y otras normas y disposiciones administrativas aplicables.
 
@@ -397,9 +399,13 @@ X. Las demás que se deriven de la Ley de Ciencia y Tecnología, la Ley Orgánic
 
 ARTICULO 32
 
-Podrán participar en los concursos de selección que convoque el SNI los investigadores y tecnólogos que realicen habitual y sistemáticamente actividades de investigación científica o tecnológica presenten los productos del trabajo debidamente documentados, y cumplan alguno de los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
 
-I. Tener un contrato o convenio institucional vigente y demostrar, por medio de documento oficial original y actualizado, que presta servicios por al menos 20 horas a la semana para realizar actividades de investigación científica o tecnológica en alguna de las dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público, privado o social de México que tengan por objeto el desarrollo de actividades de investigación científica o tecnológica. En el caso de instituciones o centros de los sectores privado y social, éstos deberán estar inscritos en el RENIECYT y deberán tener suscrito y vigente un convenio de colaboración con el SNI; o
+Podrán participar en los concursos de selección que convoque el SNI los investigadores y tecnólogos que realicen habitual y sistemáticamente actividades de investigación científica o tecnológica, presenten los productos del trabajo debidamente documentados, y cumplan alguno de los siguientes requisitos:
+
+> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
+I. Tener un contrato o convenio institucional vigente para realizar actividades que incluyan a la investigación científica o tecnológica en alguna de las dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público, privado o social de México que tengan por objeto el desarrollo de actividades de investigación científica o tecnológica. Los servicios prestados en el contrato o convenio deberán ser por al menos 20 horas a la semana, y ser acreditados por medio de documento oficial original y actualizado (carta de adscripción). En el caso de instituciones o centros de los sectores privado y social, éstos deberán estar inscritos en el RENIECYT y deberán tener suscrito y vigente un convenio de colaboración con el SNI; o
 
 II. Realizar actividades de investigación científica o tecnológica, de tiempo completo, en el extranjero, en dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público, privado o social y ser mexicano.
 
@@ -413,15 +419,19 @@ ARTICULO 34
 
 Las convocatorias para el ingreso, reingreso y prórrogas al Sistema, con los correspondientes criterios generales y específicos de evaluación para cada área del conocimiento, serán publicadas anualmente en la página electrónica del CONACYT.
 
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
 ARTICULO 35
 
 Las solicitudes de ingreso o reingreso se presentarán en los términos y plazos que se establezcan en la convocatoria correspondiente, y deberán acompañarse de:
 
-I. La constancia de adscripción institucional a que se refiere la fracción I del artículo 32 del presente Reglamento, deberá especificar las funciones asignadas, tiempo comprometido en horas/semana/mes, inicio y término de la relación, suscrita por la autoridad facultada para ello. El documento no deberá tener una antigüedad superior a tres meses a la fecha que se presenta;
+I. La constancia de adscripción institucional a que se refiere la fracción I del artículo 32 del presente Reglamento, la cual deberá especificar, además de las horas semanales de compromiso con la institución, las funciones asignadas, el inicio y término del convenio o contrato y deberá ser suscrita por la autoridad facultada para ello. El documento no deberá tener una antigüedad superior a tres meses a la fecha que se presenta.
 
-II. El currículum vítae, en el formato que establezca el CONACYT y que estará disponible en su página electrónica, con copia de documentos oficiales que acrediten nacionalidad, edad y grados obtenidos. Además, en caso de ser extranjero, el documento que acredite su legal estancia en el país, y
+II. El currículum vítae, en el formato que establezca el CONACYT y que estará disponible en su página electrónica.
 
-III. La documentación probatoria de los productos científicos o tecnológicos y de formación de recursos humanos que sustenten su solicitud, exclusivamente. Los ejemplares deberán presentarse completos. Cuando lo consideren necesario, las comisiones dictaminadoras podrán requerir mayor información a los solicitantes, en el marco del presente Reglamento.
+III. En los casos de primer ingreso, copia de documentos oficiales que acrediten nacionalidad, edad y grados obtenidos. Además, en caso de ser extranjero, el documento que acredite su legal estancia en el país.
+
+IV. La documentación probatoria de los productos científicos o tecnológicos y de formación de recursos humanos que sustenten su solicitud, exclusivamente. Cuando lo consideren necesario, las Comisiones Dictaminadoras, podrán requerir mayor información a los solicitantes, en el marco del presente Reglamento.
 
 ### CAPITULO X. EVALUACION
 
@@ -783,7 +793,7 @@ II. Por no suscribir el convenio con el CONACYT;
 
 III. Por no presentar el informe anual de actividades en los formatos establecidos, acompañado de una constancia de adscripción actualizada; y
 
-IV. Por dedicarse a actividades diferentes a la investigación, comisión, o licencia sin goce de sueldo, o con goce parcial de sueldo, autorizado por la institución, dependencia o centro de investigación.
+IV. (DEROGADA, D.O.F. 21 DE OCTUBRE DE 2009)
 
 ARTICULO 74
 
@@ -827,9 +837,17 @@ d) Menores sujetos a tutela por disposición de la Ley o resolución de autorida
 
 e) Hijos declarados incapaces por resolución judicial y sujetos a tutela.
 
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2009)</small>
+
 ARTICULO 78
 
-El estímulo económico asociado a la distinción se mantendrá durante el periodo sabático o la comisión académica con goce total de sueldo.
+Los investigadores vigentes en el SNI que ocupen un cargo administrativo en el servicio público, de elección popular o en su propia institución, se regularán por los siguientes criterios:
+
+a) Podrán conservar su nombramiento hasta el término de su vigencia y en su caso recibir el estímulo económico.
+
+b) Cuando continúen realizando actividades científicas o tecnológicas, adicionales a las correspondientes a su cargo administrativo, lo podrán fundamentar ante la Comisión Dictaminadora durante el período de evaluación inmediato posterior a la fecha del inicio del cargo y, en el caso de obtener una recomendación favorable con base en su producción, podrán seguir recibiendo el estímulo económico asociado a su categoría y nivel, cuando así lo determine el Consejo de Aprobación.
+
+c) En los casos en que se otorgue el estímulo económico, los investigadores deberán evaluarse con periodicidad bienal para ratificar la pertinencia del estímulo mientras se mantengan en el cargo respectivo.
 
 ### CAPITULO XIV. AYUDANTES
 
@@ -970,3 +988,13 @@ OCTAVO.- Los asuntos que se encuentren en trámite antes de la entrada en vigor 
 NOVENO.- Los derechos adquiridos al amparo del Reglamento abrogado, continuarán vigentes hasta su conclusión, en los términos del reconocimiento otorgado y de los convenios de asignación de recursos suscritos.
 
 El presente Reglamento se expide por el Consejo Nacional de Ciencia y Tecnología, con base en el Acuerdo AS-XXIII-10/07, de su Junta de Gobierno, aprobado en su XXIII Sesión Ordinaria, celebrada el siete de diciembre de dos mil siete.- El Director General del Consejo Nacional de Ciencia y Tecnología, Juan Carlos Romero Hicks.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE OCTUBRE DE 2009.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los asuntos pendientes de resolución a la entrada en vigor del presente Acuerdo, se sustanciarán de conformidad con lo dispuesto en el mismo.
+
+Tercero.- Los estímulos económicos asociados a la distinción regulada en el Reglamento del Sistema Nacional de Investigadores, que se deriven de la aplicación del presente Acuerdo, serán cubiertos, cuando resulten procedentes, a partir de la entrada en vigor de este Acuerdo.
