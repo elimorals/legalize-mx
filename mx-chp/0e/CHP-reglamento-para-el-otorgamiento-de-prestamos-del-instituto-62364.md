@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-para-el-otorgamiento-de-prestamos-del-instituto-6236
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-30"
-last_updated: "2008-07-30"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO PARA EL OTORGAMIENTO DE PRESTAMOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de julio de 2008.
 
@@ -53,7 +53,9 @@ II. El lnstituto.- Al Instituto de Seguridad Social de los Trabajadores del Esta
 
 III. La Junta Directiva.- A la H. Junta Directiva deI ISSTECH.
 
-IV. La Secretaría.- A la Secretaría de Administración del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+IV. La Secretaría.- La Secretaría de Hacienda.
 
 V. Organismos Públicos del Ejecutivo.- A las Dependencias y Entidades del Poder Ejecutivo Estatal.
 
@@ -109,9 +111,11 @@ Estas mismas cuotas y aportaciones cubrirán además, el financiamiento de las p
 
 Los Préstamos a Corto Plazo podrán ser solicitados a través del Departamento de Prestaciones Económicas y la Oficina de Enlace Tapachula de este Instituto, así como por medio de los sindicatos respectivos de los trabajadores.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 7.
 
-El monto máximo por préstamo que podrá ser solicitado por los asegurados, jubilados y pensionados directos, será hasta por el importe de cuatro meses del sueldo de cotización (Sueldo Integrado) del solicitante, sin que excedan los 26 salarios mínimos mensuales vigentes de la Zona Geográfica " A".
+El monto máximo por préstamo que podrá ser solicitado por los asegurados, jubilados y pensionados directos, será hasta por el importe de cuatro meses del sueldo de cotización (Sueldo Integrado) del solicitante, sin que excedan los 31 salarios mínimos mensuales vigentes de la Zona Geográfica " A".
 
 ###### Artículo 8.
 
@@ -223,9 +227,11 @@ Cuando el asegurado vuelva a prestar sus servicios a algún Organismo Público d
 
 ### Capítulo Tercero. De los Préstamos Hipotecarios
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 19.
 
-Los Préstamos Hipotecarios que proporciona el Instituto, tienen como finalidad coadyuvar a resolver el problema de vivienda de los asegurados y jubilados, siendo la Junta Directiva la que autoriza el techo financiero y el monto máximo de los préstamos, a los cuales deberán ajustarse los asegurados y jubilados, aún tratándose de préstamos mancomunados, sin que excedan los 210 salarios mínimos mensuales vigentes de la Zona Geográfica "A".
+Los Préstamos Hipotecarios que otorgue el Instituto, tienen como finalidad coadyuvar a resolver el problema de vivienda de los asegurados y jubilados, siendo la Junta Directiva la que autorice el techo financiero y el monto máximo de los Prestamos, a los cuales deberán ajustarse los asegurados y jubilados, aun tratándose de préstamos mancomunados. El monto máximo por préstamo será hasta por el importe de 305 Salarios Mínimos Mensuales Vigentes de la Zona Geográfica "A".
 
 ###### Artículo 20.
 
@@ -249,19 +255,23 @@ Los Préstamos Hipotecarios que se concedan se cubrirán en amortizaciones quinc
 
 A las amortizaciones quincenales de los préstamos, se les aplicarán un incremento equivalente al 50% del tanto por ciento del aumento observado en el salario mínimo de la región, registrado el año inmediato anterior. Asimismo, el incremento a las amortizaciones será aplicado directamente al capital, lo que reducirá el período de recuperación de los préstamos otorgados.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 22.
 
-El plazo máximo para liquidar el Préstamo Hipotecario será de 15 años, pudiendo éste liquidarse en menos tiempo por las variaciones del salario mínimo, o si el asegurado o jubilado así lo solicita, previa liquidación del adeudo.
+El plazo máximo para liquidar el Préstamo Hipotecario será de 15 años, con base a descuentos fijos quincenales; pudiendo liquidarse en menos tiempo, bajo el esquema de incrementos a los descuentos quincenales conforme a las variaciones del salario mínimo, o bien, el pago anticipado del adeudo.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 23.
 
-La tasa de interés aplicada a los Préstamos Hipotecarios, será el equivalente al promedio observado durante el año inmediato anterior, de la Tasa de Interés Interbancaria de Equilibrio (TIIE) de 91 días, más 4.5 puntos.
+La tasa de interés aplicada a los Préstamos Hipotecarios se actualizará cada semestre del año y será la equivalente al promedio simple del semestre anterior, de la tasa de interés interbancaria de equilibrio (TIIE), de 91 días, más 4.5 puntos porcentuales conforme a las recomendaciones actuariales.
 
-En cualquier momento, la H. Junta Directa (sic) podrá modificar la tasa de interés aplicable a los Préstamos Hipotecarios, ante condiciones macroeconómicas desfavorables, con el fin de evitar la descapitalización del fondo de préstamos.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 24.
 
-No se otorgará préstamo con garantía hipotecaria para la adquisición de Casa-Habitación, cuando ésta sea propiedad de un consanguíneo hasta el cuarto grado en línea directa, del asegurado o jubilado solicitante, salvo los casos de excepción que autorice el Comité de Prestaciones Económicas previamente facultado por la Junta Directiva.
+No se otorgarán Préstamos con Garantía Hipotecaria para la Adquisición de Casa Habitación entre cónyuges sujetos al régimen de sociedad conyugal en los términos establecidos por el artículo 170, del Código Civil para el Estado de Chiapas; toda vez que como la misma norma sustantiva civil prevé, será necesaria, la autorización Judicial para la suscripción de contratos relativos a la enajenación, gravamen e hipotecas entre cónyuges.
 
 ###### Artículo 25.
 
@@ -443,11 +453,17 @@ En caso de fallecimiento, los familiares beneficiarios del asegurado o jubilado 
 
 La suma de protección que pagará el Fondo de Garantía al Fondo de Préstamos será el saldo insoluto adeudado.
 
-#### Sección Tercera. De las Primas del Fondo de Garantía
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+#### Sección Tercera. De las Primas del Fondo de Garantía y de Renovación
 
 ###### Artículo 39.
 
 Para el caso de Préstamos a Corto Plazo, el importe de la prima a pagar se determina mediante la aplicación del 1.00% sobre el monto total del préstamo otorgado. Esto conduce a la prima que, por una sola vez pagará el asegurado, jubilado y pensionado directo, descontándose automáticamente del crédito otorgado y quedará protegido por todo el plazo que dure el crédito.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+En cuanto a la prima de renovación por refinanciamiento de los préstamos a corto plazo, que señala el artículo 42, del (sic) Ley del ISSTECH, esta será del 1.00% sobre el monto a refinanciar. En ningún caso habrá lugar a la devolución que por este concepto el acreditado pague.
 
 ###### Artículo 40.
 
@@ -582,3 +598,11 @@ Artículo Tercero.- Los casos no previstos en este Reglamento y en los que se pr
 Dado en la sala de juntas del Instituto de Seguridad Social de los Trabajadores del Estado de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas; en la 3a. Sesión Extraordinaria de la H. Junta Directiva, del día 1ro. de abril del año 2008.
 
 Los integrantes de la H. Junta Directiva: Lic. Guillermo Sauza Brindis, Secretario de Administración en representación del Gobernador del Estado y Presidente de la Junta Directiva.- Lic. Eduardo Chanona Solís, Subsecretario de Administración de Personal y representante del Secretario de Administración y Consejero.- C.P. Rafael Augusto Morales Ochoa, Director de Organismos y Empresas Públicas y Representante del Secretario de Finanzas y Consejero.- Lic. Francisco Díaz González, Director General del lSSTECH y Secretario Técnico.- Lic. Francisco Bedwell Jiménez, Subdirector General del lSSTECH y Consejero.- Profr. Jorge Hugo Marín Córdova, Representante de la Sección 40 del SNTE y Consejero.- C. Fredy Moreno Roque, Representante del Sindicato de la Burocracia Estatal y Consejero.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
