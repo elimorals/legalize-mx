@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-68126"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-18"
-last_updated: "2009-03-18"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE ORGANIZACION DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -1201,7 +1201,7 @@ b) En materia penal:
 
 I. Intervenir en los procesos de mediación y conciliación, previo a la denuncia o querella, tratándose de delitos que se persigan a petición de la parte ofendida, y de aquellos en que los interesados decidan someterse a alguno de los medios alternativos de justicia, siempre y cuando no se trate de los que la ley califique como graves o se afecte sensiblemente a la sociedad;
 
-II. Conocer del proceso de los delitos a que se refieren los artículos 91; 165, fracciones l y II; 227; 229; 237; 270, fracción I; 296, fracción I; 302, en relación con el 303, fracción I; 304, en relación con el 303, fracción I; 312; 363; 364; 367; 368; 384; 386; 391 al 395, y 473, del Código Penal del Estado; y,
+II. Conocer del proceso de los delitos a que se refieren los artículos 91; 165, fracciones I y II; 227; 229; 237; 270, fracción I; 296, fracción I; 302, en relación con el 303, fracción I; 304, en relación con el 303, fracción I; 312; 363; 364; 367; 368; 384; 386; 391 al 395, y 473, del Código Penal del Estado; y,
 
 III. Procurar la conciliación entre el ofendido y el inculpado en cualquier etapa del proceso, antes de pronunciar el fallo.
 
@@ -1587,7 +1587,7 @@ El servicio de asesoría jurídica será prestado por los especialistas en difer
 
 ###### Artículo 133.
 
-El servicio de defensoría social se prestará bajo los principios de gratuidad, legalidad, probidad, honradez, eficiencia, profesionalismo, obligatoriedad y con respeto a los derechos humanos, en los términos de este Título.
+.El servicio de defensoría social se prestará bajo los principios de gratuidad, legalidad, probidad, honradez, eficiencia, profesionalismo, obligatoriedad y con respeto a los derechos humanos, en los términos de este Título.
 
 ### Capítulo II. De los Consejeros
 
@@ -3123,9 +3123,11 @@ I. Acreditar por lo menos tres años de experiencia en materia laboral; y,
 
 II. Reunir los requisitos establecidos en el artículo 53, de la Constitución Política del Estado de Chiapas, a excepción de los conocimientos especializados en materia constitucional.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 257.
 
-Los Magistrados serán nombrados por un periodo de cuatro años, sin posibilidad de reelección. Durante el encargo, sólo podrán ser removidos en los términos del Título Noveno de la Constitución Política del Estado.
+Los Magistrados serán nombrados por un período de cuatro años, y podrán ser reelectos por un período más. Durante el encargo, sólo podrán ser removidos en los términos del Título Noveno de la Constitución Política del Estado.
 
 ###### Artículo 258.
 
@@ -3653,7 +3655,7 @@ VI. Las demás que refiera el Reglamento de la materia.
 
 Las atribuciones del Consejo de la Judicatura para imponer las sanciones administrativas previstas en este Código prescribirán:
 
-I. En un año, en los casos no graves ni estimables en dinero; así como en aquellos en los que el beneficio obtenido o el daño causado por el infractor no excede diez veces el salario mínimo mensual vigente en el Estado;
+I. En un año, en los casos no graves ni estimables en dinero; así como en aquellos en los que el beneficio obtenido o el daño causado por el infractor no excede diez veces el salario minimo mensual vigente en el Estado;
 
 II. En dos años, si el beneficio obtenido o daño causado excede diez veces el salario mínimo vigente en el Estado, cuando surja la conducta atribuida al infractor, y
 
@@ -3698,3 +3700,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los dieciocho días del mes de marzo del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se, opongan a este Decreto.
