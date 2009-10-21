@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-marca-chiapas-antes-ley-organica-524
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-10-12"
-last_updated: "2008-12-31"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA DEL INSTITUTO MARCA CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -137,9 +137,17 @@ XVII. Coordinar y validar las acciones que se realicen en materia de artesanías
 
 XVIII. Impulsar el Registro y comercialización de los productos y conceptos de la estrategia marca Chiapas, y el sistema de tiendas marca Chiapas;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XIX. Los demás asuntos que le correspondan, en los términos de las leyes aplicables, su reglamento Interior y los que le instruya el Titular del Poder Ejecutivo del Estado.
+XIX. Coordinar, Administrar y Ejecutar la operatividad de la boutique del café; así como establecer mecanismos de posicionamiento, promoción, difusión y distribución del Café Marca Chiapas;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XX. Coordinar, Administrar y Ejecutar la operatividad del Museo del Café;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XXI. Los demás asuntos que le correspondan, en los términos de las leyes aplicables, su reglamento interior y los demás que instruya el Titular del Poder Ejecutivo del Estado.
 
 ### Capítulo III. De los Órganos de Gobierno del Instituto
 
@@ -269,9 +277,13 @@ VI. Presentar ante la Junta de Gobierno, para su aprobación correspondiente, lo
 
 VII. Efectuar las acciones necesarias para el registro y comercialización de los productos y el concepto de la estrategia marca Chiapas, así como el sistema de tiendas marca Chiapas;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-VIII. Todas aquellas que la Junta de Gobierno le encomiende en cumplimiento de la presente Ley, su Reglamento Interior y demás disposiciones aplicables.
+VIII. Coordinar las actividades que permitan el buen funcionamiento, la promoción y difusión del Café Marca Chiapas a través del Museo del Café y la Boutique del Café;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+IX. Todas aquellas que la Junta de Gobierno le encomiende en cumplimiento de la presente Ley, su Reglamento Interior y demás disposiciones aplicables.
 
 ### Capítulo V. Del Órgano de Vigilancia
 
@@ -360,3 +372,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Las menciones y atribuciones contenidas en otras leyes, reglamentos y en general, en cualquier disposición normativa, que se refieran al Instituto de las Artesanías y Productos de Chiapas, se entenderán concedidas al Instituto Marca Chiapas.
 
 Artículo Tercero.- Se derogan las disposiciones que se opongan a presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los recursos materiales, financieros y humanos que se encuentren asignados al Museo del Café así como de la Boutique del Café, pasarán a formar parte del Instituto Marca Chiapas.
+
+Artículo Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
