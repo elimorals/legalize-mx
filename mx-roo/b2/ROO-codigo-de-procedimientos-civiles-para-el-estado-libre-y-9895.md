@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2009-09-18"
+last_updated: "2009-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -69,9 +69,13 @@ La acción procede en juicio, aun cuando no se exprese su nombre, con tal que se
 
 Por las acciones reales se reclamarán la herencia, los derechos reales o la declaración de libertad de gravámenes reales. Se dan y se ejercitan contra el que tiene en su poder la cosa y tiene obligación real, con excepción de la petición de herencia y la negatoria.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 4o.
 
-La reivindicación compete a quien no está en posesión de la cosa, de la cual tiene la propiedad, y su efecto será declarar que el actor tiene dominio sobre ella y se la entregue al demandado con sus frutos y accesiones en los términos prescritos por el Código Civil
+La reivindicación compete a quien no está en posesión de la cosa, de la cual tiene la propiedad, y su efecto será declarar que el actor tiene el dominio sobre ella y se la entregue al demandado con sus frutos y accesiones en los términos prescritos por el Código Civil.
 
 ###### Artículo 5o.
 
@@ -227,71 +231,69 @@ III.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la a
 
 Las acciones duran lo que la obligación que representan menos en los casos en que la ley señala distintos plazos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 34.
 
-Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni alterarse, salvo en los casos en que la ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aun sin consentirlo el reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obliga al que lo hizo a pagar las costas y los daños y perjuicios a la contraparte, salvo convenio en contrario.
+Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni alterarse, salvo en los casos en que la ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aun sin consentirlo el reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obliga al que lo hizo a pagar las costas y los daños y perjuicios a la contraparte, salvo convenio en contrario. Es requisito para proveer de conformidad el desistimiento, ya sea de la acción, de la demanda, o de la reconvención, la ratificación ante la presencia judicial.
 
 ### CAPITULO II. De las excepciones y defensas
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### Artículo 35.
 
-Son excepciones dilatorias las siguientes:
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-I.- La incompetencia del Juez;
-
-II.- La litispendencia;
-
-III.- La conexidad de la causa;
-
-IV.- La falta de personalidad, legitimación o capacidad en el actor;
-
-V.- La falta de cumplimiento del plazo o de la condición a que esté sujeta la acción intentada;
-
-VI.- La división;
-
-VII.- La excusión;
-
-VIII.- Las demás a que dieren ese carácter las Leyes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 36.
 
-En los juicios, sólo formarán incidente de previo y especial pronunciamiento, la incompetencia, la litispendencia, la conexidad y la falta de personalidad en el actor.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 37.
 
-La incompetencia puede promoverse por declinatoria o por inhibitoria que se substanciará conforme al capítulo III, Título III.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 38.
 
-La excepción de litispendencia procede cuando un juez conoce ya del mismo negocio sobre el cual es demandado el reo. El que la oponga debe de señalar precisamente el juzgado donde se tramita el primer juicio. Del escrito en que se oponga se dará traslado por tres días a la contraria y el juez dictará resolución dentro de las veinticuatro horas siguientes pudiendo previamente mandar inspeccionar el primer juicio. Si se declara procedente, se remitirán los autos al juzgado que primero conoció del negocio cuando ambos jueces se encuentren dentro de la jurisdicción del mismo tribunal de apelación. Dará por concluido el procedimiento si el primer juicio se tramita en juzgado que no pertenezca a la misma jurisdicción de apelación
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 39.
 
-La excepción de conexidad tiene por objeto la remisión de los autos en que se opone al juzgado que primeramente previno en el conocimiento de la causa conexa. Hay conexidad de causas cuando hay identidad de personas y acciones, aunque las cosas sean distintas; y cuando las acciones provengan de una misma causa.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 40.
 
-No procede la excepción de conexidad:
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-I.- Cuando los pleitos están en diversas instancias;
-
-II.- Cuando se trata de juicios especiales;
-
-III.- Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 41.
 
-La parte que oponga la excepción de conexidad acompañará con su escrito copia autorizada de la demanda y contestación que iniciaron el juicio conexo, y con esta prueba y la contestación de la parte contraria, que producirá dentro del tercer día, el Juez fallará dentro de igual término.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 42.
 
-En las excepciones de litispendencia y conexidad, la inspección de los autos será también prueba bastante para su procedencia.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-Procedente la excepción de conexidad, se mandarán acumular los autos del juicio al más antiguo para que, aunque se sigan por cuerda separada, se resuelva en una misma sentencia
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 43.
 
-Las excepciones de falta de personalidad y capacidad se substanciarán como incidentes.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
 ### CAPITULO I. De la capacidad y personalidad
 
@@ -307,9 +309,13 @@ Por los que no se hallen en el caso del artículo anterior comparecerán sus rep
 
 Los interesados y sus representantes legítimos podrán comparecer en juicio por sí o por medio de mandatario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 47.
 
-El tribunal examinará la personalidad de las partes bajo su responsabilidad; esto no obstante, el litigante tiene el derecho de impugnarla cuando tenga razones para ello. Contra el auto en que el juez desconozca la personalidad del actor, negándose a dar curso a la demanda, se da la queja.
+El Tribunal de Oficio examinará la personalidad de las partes; no obstante, el litigante tiene el derecho de impugnarla cuando tenga razones para ello.
 
 ###### Artículo 48.
 
@@ -363,6 +369,12 @@ Salvo los casos que no lo permita la Ley, los magistrados o jueces durante el ju
 
 Las actuaciones judiciales y los ocursos deberán escribirse en castellano. Los documentos redactados en otro idioma deberán acompañarse con la correspondiente traducción al castellano. Las fechas y cantidades se escribirán con letra.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Todos los escritos de las partes y actuaciones judiciales deberán estar firmados por quienes intervengan en ellos. Cuando alguna de las partes no supiere o no pudiere firmar, pondrá su huella digital, firmando otra persona a su nombre, a su ruego y súplica, en dicho caso se indicará esta circunstancia. La falta de cumplimiento de estos requisitos dará lugar a que no se acuerde favorable la petición que se contenga en el escrito respectivo.
+
 ###### Artículo 58.
 
 En las actuaciones judiciales no se emplearán abreviaturas ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al final con toda precisión el error cometido. Igualmente se salvarán las frases escritas entre renglones.
@@ -399,11 +411,11 @@ El secretario hará constar el día y la hora en que se presenta un escrito y da
 
 Los secretarios cuidarán de que los expedientes sean cosidos y exactamente foliados, al agregarse cada una de las hojas; rubricarán todas éstas en el centro de los escritos y pondrán el sello de la Secretaría en el fondo del cuaderno, de manera que queden debidamente selladas las dos caras
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### Artículo 66.
 
-El promovente de diligencias de jurisdicción voluntaria, así como los litigantes, podrán designar un notario que desempeñe las funciones que este Código asigna al secretario. En las testamentarias e intestados la designación podrá hacerse por el albacea.
-
-La remuneración del notario no se regulará en las costas, sino cuando fuere designado de común acuerdo
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
 ###### Artículo 67.
 
@@ -417,9 +429,15 @@ La reposición se substanciará incidentalmente y sin necesidad de acuerdo previ
 
 Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidos, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 69.
 
-Para sacar copia de cualquier documento que obre en los expedientes o en los archivos de los tribunales, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y audiencia de parte, y si no la hay, con la del Ministerio Público, procediéndose incidentalmente, en caso de oposición.
+El Tribunal está obligado a expedir a costa de las partes, sin demora alguna, copia fotostática de los documentos o resoluciones que obren en autos, así como también los interesados podrán sacar copias del expediente valiéndose de cualquier otro medio tecnológico, bastando que la parte interesada lo solicite verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción.
+
+Para obtener copia certificada de cualquier documento que obre en juicio, la parte interesada debe solicitarlo en comparecencia o por escrito, requiriéndose decreto judicial, y cuando se pidiere copia o testimonio de parte de un documento o pieza, el contrario tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento o pieza. Cuando la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún caso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar en autos razón y constancia de su recibo.
 
 ###### Artículo 70.
 
@@ -479,11 +497,13 @@ Sólo en el caso de no ser posible lo uno ni lo otro, se hará la condena, a res
 
 Las sentencias deben tener el lugar, fecha y juez o tribunal que las pronuncie, los nombres de las partes contendientes y el carácter con que litiguen y el objeto del procedimiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 80.
 
-Las sentencias deben dictarse dentro del plazo de ocho días contados a partir de la citación para sentencia.
-
-Sólo cuando hubiere necesidad de que el tribunal examine documentos voluminosos podrá disfrutar del término de ocho días más para dicho efecto.
+Las sentencias deben dictarse dentro del plazo de quince días contados a partir de la citación para sentencia. Sólo cuando el expediente excediere de doscientas cincuenta fojas, por cada cincuenta de exceso o fracción, se aumentara un día al término señalado sin que pueda exceder de ocho días para dicho efecto.
 
 ###### Artículo 81.
 
@@ -521,9 +541,15 @@ I.- El apercibimiento o amonestación;
 
 II.- La multa de diez días del salario mínimo de la época de la sanción en los términos del artículo 86;
 
-III.- La suspensión que no exceda de un mes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV.- El arresto hasta por quince días.
+III.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+IV.- El arresto hasta por 36 horas.
 
 ###### Artículo 88.
 
@@ -539,7 +565,11 @@ II.- El auxilio de la fuerza pública y la fractura de cerraduras si fuere neces
 
 III.- El cateo por orden escrita;
 
-IV.- El arresto hasta por quince días.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+IV.- El arresto hasta por 36 horas.
 
 Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
@@ -685,15 +715,13 @@ Cuando se trate de citar testigos o peritos o terceros que no constituyan parte,
 
 Estas notificaciones surtirán sus efectos al día siguiente de su recepción.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 115.
 
-Procede la notificación por edictos:
-
-I.- Cuando se trate de personas inciertas;
-
-II.- Cuando se trate de personas cuyo domicilio se ignora; en este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el Título Octavo.
-
-En los casos de las dos fracciones que preceden, los edictos se publicarán por tres veces, de tres en tres días, en un periódico de los de mayor circulación dentro de un término que no será inferior a quince días ni excederá de sesenta días. Igualmente tales edictos se transmitirán tres veces al día de tres en tres días durante nueve días en una de las radiodifusoras locales, en donde esté ubicado el bien.
+Cuando hubiere que emplazar a juicio a personas inciertas, a alguna persona que haya desaparecido, no tenga domicilio fijo o se ignore donde se encuentra, el emplazamiento se hará por edictos, que deberán publicarse por tres veces dentro del plazo de nueve días, entendiéndose que el primero de los anuncios habrá de hacerse el primer día del citado plazo y el tercero el noveno, pudiendo efectuarse el segundo de ellos en cualquier tiempo, en uno de los periódicos de mayor circulación en el Estado, haciéndosele saber al demandado que debe presentarse dentro del término de nueve días, contados a partir del día siguiente al de la última publicación. Se fijará, además, en los estrados del tribunal, una copia íntegra del auto de inicio, por todo el tiempo del emplazamiento. Si pasado este término, no comparece por sí, por apoderado o por gestor que pueda representarla, se seguirá el juicio en rebeldía.
 
 ###### Artículo 116.
 
@@ -971,7 +999,7 @@ a).- de las acciones de petición de herencia.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgado por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
+El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
 
 b).- de las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
@@ -1099,7 +1127,7 @@ IX.- Si ha conocido del negocio como juez, árbitro o asesor, resolviendo algún
 
 X.- Si ha sido abogado o mandatario, perito o testigo en el negocio de que se trate;
 
-XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grado, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no ha pasado un año, de haber seguido de un juicio civil, o una causa criminal, como acusador, querellante o denunciante, o se haya constituido parte civil en causa criminal seguida contra cualquiera de ellas;
+XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grado, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no ha pasado un año, de haber seguido un juicio civil, o una causa criminal, como acusador, querellante o denunciante, o se haya constituido parte civil en causa criminal seguida contra cualquiera de ellas;
 
 XII.- Cuando alguno de los litigantes o de sus abogados es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge, o de alguno de sus expresados parientes o se ha constituido parte civil en causa criminal seguida contra cualquiera de ellos, siempre que el Ministerio Público haya ejercitado la acción penal;
 
@@ -1115,13 +1143,21 @@ Los magistrados, jueces y secretarios tienen el deber de excusarse del conocimie
 
 Sin perjuicio de las providencias que conforme a este Código deben dictarse, tiene la obligación de inhibirse, inmediatamente que se avoquen al conocimiento de un negocio de que no deben conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que origina el impedimento o que tengan conocimiento de él.
 
-Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las partes puede acudir en queja al Presidente del Tribunal, quien encontrando injustificada la abstención podrá imponer una corrección disciplinaria.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Cuando un Juez o Magistrado se excuse sin causa legítima, cualquiera de las partes puede interponer queja administrativa. Tratándose de un Juez, ante la Contraloría Interna del Poder Judicial. Tratándose de un Magistrado, ante el Pleno del Tribunal Superior de Justicia, para que en ambos casos se resuelva lo que a derecho corresponda.
 
 ### CAPITULO II. De la recusación
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 173.
 
-Cuando los magistrados, jueces o secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede la recusación, que siempre se fundará en causa legal. Unicamente procederá la recusación sin causa contra los jueces, cuando la interponga el demandado precisamente al contestar la demanda
+Cuando los magistrados, jueces o secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede la recusación, que siempre se fundará en causa legal.
 
 ###### Artículo 174.
 
@@ -1379,7 +1415,7 @@ Si la cláusula compromisoria forma parte de un documento privado, al emplazar a
 
 ###### Artículo 221.
 
-En la junta procurará el juez que elijan árbitro en común acuerdo los interesados, y en caso de no conseguirlo, designará uno entre las personas que anualmente son listadas por el Tribunal Superior, con tal objeto.
+En la junta procurará el juez que elijan (sic) árbitro en común acuerdo los interesados, y en caso de no conseguirlo, designará uno entre las personas que anualmente son listadas por el Tribunal Superior, con tal objeto.
 
 Lo mismo se hará cuando el árbitro nombrado en el compromiso renunciare y no hubiere sustituto designado.
 
@@ -1421,7 +1457,7 @@ La consignación del dinero puede hacerse exhibiendo el certificado de depósito
 
 ###### Artículo 230.
 
-La consignación y el depósito de que hablan los artículos anteriores puede hacerse por conducto de notario público.
+La consignación y el depósito de que hablan los artículos anteriores puede (sic) hacerse por conducto de notario público.
 
 ###### Artículo 231.
 
@@ -1543,57 +1579,243 @@ La inconformidad del deudor sobre la resolución o disposiciones decretadas, se 
 
 DEL JUICIO EN GENERAL
 
-## TITULO SEXTO. De la Conciliación
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-### Capítulo Único
+> <small>(DEROGADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+## TITULO SEXTO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 21 DE OCTUBRE DE 2009)</small>
+
+### CAPITULO I. De la Conciliación
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 257.
 
-Antes de dar entrada a la contestación de la demanda, el juez deberá citar a ambas partes para una audiencia, dentro de los tres días siguientes, con el objeto de procurar un avenimiento entre ellas, haciéndoles notar todos los inconvenientes que acarrea un litigio e instruyéndolos de lo que implica una transacción.
+Antes de dar entrada a la contestación de la demanda o a la reconvención en su caso, el Juez deberá citar a ambas partes a una audiencia de conciliación, la cual por constituir un mecanismo alternativo de solución de conflicto, deberá ser substanciada ante el Centro de Justicia Alternativa, ubicado en el domicilio del Juez del conocimiento; salvo lo dispuesto en el numeral 260.
+
+En caso de inasistencia u oposición de parte, el Centro devolverá las constancias correspondientes, a efecto de continuar la tramitación del juicio, en ambos casos se estará a lo dispuesto por el numeral 258 de este ordenamiento.
+
+Si se llegara a un convenio conciliatorio, el Centro lo hará del conocimiento del Juez de la causa, para que éste proceda al archivo del expediente; quedándose en poder del Centro las constancias necesarias para vigilar el cumplimiento de los acuerdos y en su caso de la ejecución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 258.
 
-En el acta que se levantare se harán constar las bases del arreglo convencional o transaccional en su caso, o la negativa de alguna de las partes para llegar a una transacción y las razones de esta negativa.
+La simple negativa para avenirse a una transacción, se tomará en cuenta para condenar en costas a aquélla parte que resulte vencida en el juicio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 259.
 
-La simple negativa para avenirse a una transacción, se tomará en cuenta para condenar en costas a aquélla parte que resulte vencida en el juicio.
+El arreglo a que llegaren las partes tendrá la fuerza definitiva de una sentencia consentida y podrá ser ejecutada por conducto del Centro de Justicia Alternativa en términos de lo dispuesto en la Ley de Justicia Alternativa.
+
+En ningún caso el trámite de la conciliación podrá exceder de quince días hábiles.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 260.
 
-A solicitud de cualquiera de las partes o de ambas, puede el juez acordar que la audiencia sea continuada en otra fecha dentro de los quince días siguientes, siempre y cuando se argumente que es necesario para un avenimiento.
+No se procederá a la conciliación únicamente en los Juicios sobre filiación, estado civil de las personas, en Juicios o procedimientos no contenciosos y cuando no se conteste la demanda.
 
-Si para esta otra audiencia las partes no llegan a un acuerdo, se impondrá a quien o quienes solicitaron la suspensión una multa en los términos del artículo 86.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-### CAPITULO I. De la demanda, contestación y fijación de la litis
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+### CAPITULO II. De la Depuración Procesal
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 261.
 
-El arreglo a que llegaren las partes tendrá la fuerza definitiva de una sentencia consentida.
+Concluida la audiencia de conciliación sin resultado satisfactorio según los informes del Centro de Justicia Alternativa, el Juez dentro de los tres días siguientes proveerá la contestación señalando fecha y hora para la verificación de la audiencia de depuración del procedimiento para la cual dispondrá de amplias facultades de dirección procesal examinando y resolviendo en su caso, las excepciones de incompetencia del juzgador, falta de personalidad y capacidad de las partes; la cosa juzgada; litispendencia; conexidad de causas y la improcedencia de la vía. De la misma forma podrá ordenar que se subsane toda omisión que notare para efecto de regular el procedimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 261-A.
+
+En la audiencia de depuración del procedimiento, el juzgador relacionará con toda precisión las pretensiones de la parte actora y las contraprestaciones de la parte demandada; así como los hechos controvertidos por una y otra parte, decidiendo sobre la procedencia de la apertura del período de ofrecimiento de pruebas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 261-B.
+
+Se llaman excepciones todas las defensas que pueda emplear el demandado para impedir el ejercicio actual de la acción, o para destruir ésta. En el primer caso son dilatorias y en el segundo perentorias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 261-C.
+
+La oposición que al actor pueda hacer respecto a la personalidad o capacidad del representante o apoderado del demandado se tramitará bajo las mismas reglas dispuestas para las excepciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 261-D.
+
+Las excepciones procederán en juicio aún cuando no se exprese su nombre, con tal que se haga valer con precisión y claridad el hecho o hechos en que se hace consistir la defensa. Las excepciones deben oponerse precisamente al contestar la demanda y después de formulada ésta y fijados los puntos cuestionados no se admitirá, salvo lo dispuesto en el artículo 271, excepción alguna, ni se permitirá al demandado que cambie la opuesta al menos que al actor conviniere en ello.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 262.
 
-Concluida la audiencia de conciliación dentro de los tres días siguientes se proveerá la contestación.
+Son excepciones dilatorias:
+
+I.- La incompetencia del Juzgador;
+
+II.- La falta de personalidad o capacidad de las partes;
+
+III.- La cosa juzgada;
+
+IV.- La litispendencia;
+
+V.- La conexidad de causas, y
+
+VI.- La improcedencia de la vía.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 262-A.
+
+Las excepciones dilatorias solo admitirán prueba documental, excepto en los casos en que la ley señale. Si se trata de excepciones de litispendencia o conexidad de causas se admitirá también, la prueba de inspección de los autos, en este caso desahogadas las pruebas en una sola audiencia que no se diferirá bajo ningún supuesto, se oirá en alegatos y en el mismo acto se dictará la sentencia que corresponda. El Tribunal nunca podrá diferir la resolución que deberá dictarse en la misma audiencia, salvo, cuando se trate de un expediente que excediere de doscientos cincuenta fojas, en cuyo caso, por cada 50 de exceso o fracción, se aumentará un día al término señalado sin que pueda exceder de ocho días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 262-B.
+
+Si al oponer las excepciones previstas en el artículo 262, se promueven pruebas, deberán ofrecerse en los escritos respectivos fijando los puntos sobre los que versan, y de ser admisibles, se ordenará su preparación para que se reciban en la audiencia de depuración procesal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 262-C.
+
+La incompetencia puede promoverse por declinatoria o por inhibitoria que se substanciará conforme el título tercero de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 262-D.
+
+En la excepción de falta de personalidad, únicamente serán admisibles la documental y la pericial. Cuando se alegue falta de exactitud, de autenticidad o de falsedad del documento con el que se pretenda acreditar la representación con que se comparece, también serán admisibles la inspección judicial y el cotejo del documento correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 262-E.
+
+La excepción de falta de personalidad o de capacidad en el actor o la impugnación de la personalidad o capacidad en el demandado, se substanciará corriendo traslado por tres días del escrito en que se oponga, a la parte contraria. Las pruebas se ofrecerán en sus escritos correspondientes. El juez proveerá lo necesario para desahogarlas en la audiencia de depuración del proceso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 262-F.
+
+En la excepción de falta de personalidad del actor o en la impugnación que se haga a la personalidad del representante o apoderado del demandado, cuando se declare fundada una u otra, si fuere subsanable el defecto, el tribunal concederá un plazo no mayor de ocho días para que se subsane, y de no hacerse así, cuando se tratare del demandado, se continuará el juicio en rebeldía de éste. Si no fuera subsanable la del actor, el juez de inmediato dará por terminado el juicio y devolverá las documentales exhibidas previa simple toma de razón que se deje en autos, condenando a éste al pago de costas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 263.
 
-No se procederá a la conciliación en los siguientes casos:
+Podrá hacerse valer la excepción de cosa juzgada en cualquier estado de los autos. Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios al litigante contra quien se diere.
 
-I.- En los juicios Ejecutivos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Cuando no se conteste la demanda;
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-III.- Cuando sean parte la Federación, el Estado o los Municipios;
+###### Artículo 263-A.
 
-IV.- En los juicios o procedimientos no contenciosos;
+Las sentencias ejecutoriadas, las transacciones y pagos judiciales y cualquier otro acto procesal que tenga fuerza de cosa juzgada, impiden se entable o continúe un nuevo juicio sobre las cuestiones resueltas.
 
-V.- En los juicios sobre filiación y estado civil de las personas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 263-B.
+
+La excepción de litispendencia procede cuando un juez conoce ya del mismo negocio sobre el cual es demandado el reo. El que la oponga, debe señalar precisamente el juzgado donde se tramita el primer juicio. Del escrito en que se oponga se dará traslado por tres días a la parte contraria, pudiendo previamente mandar inspeccionar el primer juicio. Si declara procedente la excepción, se remitirán los autos al juzgado que primero conoció del negocio cuando ambos jueces se encuentren dentro de la jurisdicción del mismo tribunal de apelación. Dará por concluido el procedimiento si el primer juicio se tramita en juzgado que no pertenezca a la misma jurisdicción de apelación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 263-C.
+
+La excepción de conexidad tiene por objeto la remisión de los autos en que se opone al juzgado que primeramente intervino en el conocimiento de la causa conexa. Hay conexidad de causas cuando hay identidad de personas y acciones, aunque las cosas sean distintas; y cuando las acciones provengan de una misma causa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 263-D.
+
+No procede la excepción de conexidad:
+
+I.- Cuando los pleitos están en diversas instancias;
+
+II.- Cuando se trata de juicios especiales a excepción del hipotecario;
+
+III.- Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 263-E.
+
+La parte que oponga la excepción de conexidad acompañará a su escrito copia de la demanda y contestación que contenga cuando menos sello original del juzgado que conoce del juicio conexo y con esta prueba y la contestación de la parte contraria, que producirá dentro del tercer día, se resolverá lo que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 263-F.
+
+Procedente la excepción de conexidad, se mandarán acumular los autos del juicio al más antiguo para que, aunque se sigan por cuerda separada, se resuelva en una misma sentencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 263-G.
+
+Cuando se declare la improcedencia de la vía, se sobreseerá el juicio, reservándose al actor sus derechos para que los haga valer en la vía correspondiente.
 
 ## TITULO SEPTIMO. Del Juicio
 
-### CAPITULO II. De la prueba
-
-Reglas generales
+### CAPITULO I. De la demanda, contestación y fijación de la litis
 
 ###### Artículo 264.
 
@@ -1617,17 +1839,31 @@ VII.- El valor de lo demandado, si de ello depende la competencia del juez.
 
 Presentada la demanda con los documentos y copias prevenidos, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que la contesten dentro de nueve días.
 
-#### SECCION SEGUNDA (SIC). De la contestación
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+#### SECCION PRIMERA. De la Demanda
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 266.
 
-Si la demanda fuere obscura o irregular, el juez debe prevenir al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, señalando en concreto sus defectos; hecho lo cual le dará curso.
+Si la demanda fuere obscura o irregular, el Juez debe prevenir al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, señalando en concreto sus defectos; hecho lo cual le dará curso. El Juez puede hacer esta prevención por una sola vez.
 
-El juez puede hacer esta prevención por una sola vez y verbalmente. Si no le da curso, podrá el promovente acudir en queja al superior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+(REUBICADO, P.O. 21 DE OCTUBRE DE 2009)
 
 ###### Artículo 267.
 
 Los efectos de la presentación de la demanda son: interrumpir la prescripción si no lo está por otros medios, señalar el principio de la instancia y determinar el valor de las prestaciones exigidas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+(REUBICADO, P.O. 21 DE OCTUBRE DE 2009)
 
 ###### Artículo 268.
 
@@ -1643,7 +1879,7 @@ IV.- Producir todas las consecuencias de la interpelación judicial, si por otro
 
 V.- Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
 
-#### SECCION TERCERA. De la fijación de la litis
+#### SECCION SEGUNDA. De la contestación
 
 ###### Artículo 269.
 
@@ -1661,49 +1897,71 @@ Queda abolida la práctica de oponer excepciones o defensas contradictorias, aun
 
 Las excepciones supervenientes se harán valer hasta antes de la sentencia y dentro del tercer día de que tenga conocimiento la parte. Se substanciarán incidentalmente; su resolución se reserva para la definitiva.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 272.
 
-Las excepciones y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
+Las excepciones perentorias y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 273.
 
-Si entre las excepciones opuestas hubiere de previo y especial pronunciamiento, se substanciarán dejando en suspenso el principal. Resueltas que sean, se continuará en su caso el curso del juicio.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 274.
 
-Cuando en la sentencia definitiva se declare procedente alguna excepción dilatoria, que no fue de previo pronunciamiento, se abstendrá el juez de fallar la cuestión principal, reservando el derecho del actor.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-#### SECCION I. De la Confesión
+#### SECCION TERCERA. De la fijación de la litis
 
 ###### Artículo 275.
 
 En el escrito de contestación el demandado deberá referirse a cada uno de los hechos aducidos por el actor, confesándolos o negándolos y expresando los que ignore por no ser propios. El silencio y las evasivas harán que se tengan por confesados o admitidos los hechos sobre los que no se suscite controversia, salvo lo previsto en la parte final del artículo 276 para los casos en que se afecten las relaciones familiares o el estado civil de las personas
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 276.
 
-Transcurrido el término del emplazamiento sin haber sido contestada la demanda se hará la declaración de rebeldía sin que medie petición de parte y se abrirá el período de ofrecimiento de pruebas, observándose las prescripciones del título octavo.
+Transcurrido el término del emplazamiento sin haber sido contestada la demanda se hará la declaración de rebeldía sin que medie petición de parte y se abrirá el período de ofrecimiento de pruebas, observándose las prescripciones del Título Octavo.
 
-Para hacer la declaración en rebeldía, el juez examinará escrupulosamente y bajo su más estricta responsabilidad si las citaciones y notificaciones precedentes están hechas al demandado en la forma legal, si el demandado no señaló casa en el lugar del juicio, y si el demandado quebrantó el arraigo.
+Para hacer la declaración en rebeldía, el Juez examinará escrupulosamente y bajo su más estricta responsabilidad si las citaciones y notificaciones precedentes están hechas al demandado en la forma legal, si el demandante no señaló casa en el lugar del juicio, y si el demandado quebrantó el arraigo.
 
-Si el juez encontrare que el emplazamiento no se hizo correctamente, mandará reponerlo e impondrá una corrección disciplinaria al actuario cuando aparezca responsable.
+Si el Juez encontrare que el emplazamiento no se hizo correctamente, mandará reponerlo.
 
 Se presumirán confesados los hechos de la demanda que se deje de contestar, excepto en los casos en que las demandas afecten las relaciones familiares o el estado civil de las personas, pues entonces la demanda se tendrá por contestada en sentido negativo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 277.
 
-Confesada la demanda en todas sus partes o manifestando el actor su conformidad con la contestación de ella, se citará para sentencia
+Confesada la demanda en todas sus partes o manifestando el actor su conformidad con la contestación, previa ratificación de uno u otro escrito, se citará a las partes para sentencia.
 
 ###### Artículo 278.
 
 Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se citará a la audiencia de alegatos, que podrán ser escritos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 279.
 
-El Juez mandará recibir el pleito a prueba en el caso de que los litigantes lo hayan solicitado, o de que él lo estime necesario. Si el juez no decidiere sobre el particular, se entenderá que se recibe a prueba, corriendo, desde luego, el término para ofrecerlas.
+El Juez mandará recibir el juicio a prueba en el caso de que los litigantes lo hayan solicitado, o de que él lo estime necesario.
 
 Contra el auto que manda abrir a prueba un juicio no cabe recurso alguno; aquel en que se niegue, será apelable en el efecto devolutivo, si fuere apelable la sentencia definitiva.
 
-### CAPITULO III. Del ofrecimiento y admisión de pruebas
+### CAPITULO II. De la prueba
+
+Reglas generales
 
 ###### Artículo 280.
 
@@ -1785,11 +2043,15 @@ IX.- Presunciones;
 
 X.- Y demás medios que produzcan convicción en el juzgador.
 
-### CAPITULO IV. De su recepción y práctica
+### CAPITULO III. Del ofrecimiento y admisión de pruebas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 292.
 
-El período de ofrecimiento de pruebas es de diez días comunes y fatales, que empezarán a contarse desde la notificación del auto que tuvo por contestada la demanda o por contestada la reconvención en su caso.
+El período de ofrecimiento de pruebas es de diez días comunes y fatales.
 
 ###### Artículo 293.
 
@@ -1823,7 +2085,7 @@ Al solicitarse la inspección judicial se determinarán los puntos sobre que deb
 
 Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admiten sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. No se admitirán diligencias de pruebas contra derecho, contra la moral o sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles. Contra el auto que admita o deseche una prueba procede la apelación en el efecto devolutivo, cuando fuere apelable la sentencia en lo principal.
 
-### CAPITULO V. De las pruebas en particular
+### CAPITULO IV. De su recepción y práctica
 
 ###### Artículo 301.
 
@@ -1843,9 +2105,9 @@ El juez al calificar la admisibilidad de las pruebas, determinará el monto de l
 
 El litigante al que se hubiere concedido la ampliación a que se refiere el artículo anterior y no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, será condenado a pagar en beneficio de su contraparte una sanción pecuniaria hasta de quince días del salario mínimo de la zona económica, si el juicio se tramita ante juez menor y hasta veinte días de salario mínimo de la zona económica si se tramita ante juez de primera instancia, así como la indemnización de daños y perjuicios, dejándose además de recibir la prueba.
 
-### CAPITULO VI. De la Audiencia
+### CAPITULO V. De las pruebas en particular
 
-#### SECCION II. De la prueba instrumental
+#### SECCION I. De la Confesión
 
 ###### Artículo 304.
 
@@ -1939,7 +2201,7 @@ Se tendrá por confeso al articulante respecto de los hechos propios que afirmar
 
 Las autoridades, las corporaciones oficiales y los establecimientos que formen parte de la administración pública no absolverán posiciones en la forma que establecen los artículos anteriores; pero la parte contraria podrá pedir que se les libre oficio, insertando las preguntas que quiera hacerles para que, por vía de informe, sean contestadas dentro del término que designe el tribunal, y que no excederá de ocho días. En el oficio se apercibirá a la parte absolvente de tenerla por confesa si no contestare dentro del término que se le haya fijado, o si no lo hiciere categóricamente afirmando o negando los hechos.
 
-#### SECCION III. Prueba Pericial
+#### SECCION II. De la prueba instrumental
 
 ###### Artículo 323.
 
@@ -2051,7 +2313,7 @@ De la impugnación se correrá traslado al colitigante y en la audiencia del jui
 
 Lo dispuesto en este artículo sólo da competencia al juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiere lugar.
 
-#### SECCION IV. Del reconocimiento o inspección judicial
+#### SECCION III. Prueba Pericial
 
 ###### Artículo 342.
 
@@ -2111,7 +2373,7 @@ En caso de ser desechada la recusación, se impondrá al recusante una multa has
 
 El honorario de cada perito será pagado por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el Juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas.
 
-#### SECCION V. Prueba Testimonial
+#### SECCION IV. Del reconocimiento o inspección judicial
 
 ###### Artículo 350.
 
@@ -2127,7 +2389,7 @@ Del reconocimiento se levantará acta, que firmarán los que a él concurran, as
 
 Cuando fuere necesario se levantarán planos o se sacarán vistas fotográficas del lugar u objetos inspeccionados.
 
-#### SECCION VI. Fotografías, copias fotostáticas y demás elementos
+#### SECCION V. Prueba Testimonial
 
 ###### Artículo 352.
 
@@ -2201,7 +2463,7 @@ En el acto del examen de un testigo o dentro de los tres días siguientes, puede
 
 No es admisible la prueba testimonial para tachar a los testigos que hayan declarado en el incidente de tachas.
 
-#### SECCION VII. De la fama pública
+#### SECCION VI. Fotografías, copias fotostáticas y demás elementos
 
 ###### Artículo 369.
 
@@ -2219,9 +2481,7 @@ La parte que presente esos medios de prueba deberá ministrar al tribunal los ap
 
 Los escritos y notas taquigráficas pueden presentarse por vía de prueba, siempre que se acompañe la traducción de ellos, haciéndose especificación exacta del sistema taquigráfico empleado.
 
-#### SECCION VIII
-
-De las presunciones.
+#### SECCION VII. De la fama pública
 
 ###### Artículo 372.
 
@@ -2243,6 +2503,10 @@ La fama pública debe probarse con testigos que no sólo sean mayores de toda ex
 
 Los testigos no sólo deben declarar las personas a quienes oyeron referir el suceso, sino también las causas probables en que descanse la creencia de la sociedad.
 
+#### SECCION VIII
+
+De las presunciones.
+
 ###### Artículo 375.
 
 Presunción es la consecuencia que la ley o el juez deducen de un hecho conocido para averiguar la verdad de otro desconocido; la primera se llama legal y la otra humana.
@@ -2263,7 +2527,7 @@ No se admite prueba contra la presunción legal, cuando la ley lo prohíbe expre
 
 Contra las demás presunciones legales y contra las humanas es admisible la prueba.
 
-### CAPITULO VII. Del valor de las pruebas
+### CAPITULO VI. De la Audiencia
 
 ###### Artículo 380.
 
@@ -2357,7 +2621,7 @@ En los tribunales colegiados, sólo cuando faltare la mayoría, tendrá efecto l
 
 Terminada la audiencia si no se pronunciare la sentencia, se citará para oírla, la que se dictará dentro del término de ocho días
 
-### CAPITULO VIII. De la sentencia ejecutoriada
+### CAPITULO VII. Del valor de las pruebas
 
 ###### Artículo 395.
 
@@ -2461,7 +2725,7 @@ Los jueces apreciarán en justicia el valor de las presunciones humanas.
 
 La valoración de las pruebas se hará de acuerdo con el presente capítulo, a menos que por el enlace interior de las pruebas rendidas y de las presunciones formadas, el tribunal adquiera convicción distinta respecto de los hechos materia del litigio. En este caso, deberá fundar el juez cuidadosamente esta parte de su sentencia.
 
-### CAPITULO IX. De los Incidentes
+### CAPITULO VIII. De la sentencia ejecutoriada
 
 ###### Artículo 417.
 
@@ -2495,7 +2759,7 @@ En los casos a que se refiere el artículo anterior, el Tribunal de oficio hará
 
 El auto en que se declare que una sentencia ha causado o no ejecutoria, no admite recurso alguno.
 
-### CAPITULO I. Procediendo estando ausente el rebelde
+### CAPITULO IX. De los Incidentes
 
 ###### Artículo 421.
 
@@ -2515,7 +2779,7 @@ Las resoluciones incidentales no surten efecto alguno más que en el juicio en q
 
 ## TITULO OCTAVO. De los juicios en rebeldía
 
-### CAPITULO II. Procedimiento Estando Presente el Rebelde
+### CAPITULO I. Procediendo estando ausente el rebelde
 
 ###### Artículo 425.
 
@@ -2557,7 +2821,7 @@ La retención o embargo practicados a consecuencia de declaración en rebeldía 
 
 En el caso de que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación, a no ser que el actor dé la fianza prevenida para la ejecución.
 
-### CAPITULO I. De la ejecución en general
+### CAPITULO II. Procedimiento Estando Presente el Rebelde
 
 ###### Artículo 433.
 
@@ -2589,7 +2853,7 @@ Se admitirá la apelación extraordinaria que contra la sentencia interpusiere e
 
 ## TITULO NOVENO. De la vía de apremio
 
-### CAPITULO II. De la ejecución de la sentencia
+### CAPITULO I. De la ejecución en general
 
 ###### Artículo 440.
 
@@ -2693,7 +2957,7 @@ Procede también la ejecución para recuperar, bajo las mismas condiciones indic
 
 Para que proceda la ejecución a que se refieren los artículos que preceden se necesita que los contratos se hayan registrado como lo previene el Código Civil.
 
-### CAPITULO III. De los Embargos
+### CAPITULO II. De la ejecución de la sentencia
 
 ###### Artículo 455.
 
@@ -2757,9 +3021,13 @@ Del precio del remate se pagará al ejecutante el importe de su crédito y se cu
 
 Si la sentencia contuviere condena al pago de cantidad líquida y de otra ilíquida, podrá procederse a hacer efectiva la primera, sin esperar a que se liquide la segunda.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 469.
 
-Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció al promover la ejecución presentará su liquidación la cual se tramitará en forma incidental. Contra esta resolución cabe el recurso de queja.
+Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció al promover la ejecución presentará su liquidación la cual se tramitará en forma incidental.
 
 ###### Artículo 470.
 
@@ -2829,9 +3097,13 @@ En caso de no poderse entregar los bienes señalados en la sentencia, se despach
 
 Cuando la sentencia ordene la entrega de personas, el Juez dictará las disposiciones más conducentes a que no quede frustrado lo fallado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 481.
 
-De las resoluciones dictadas para la ejecución de una sentencia no se admitirá recurso alguno, y si fuere sentencia interlocutoria el de queja por ante el superior.
+De las resoluciones dictadas para la ejecución de una sentencia no se admitirá recurso alguno.
 
 ###### Artículo 482.
 
@@ -2839,7 +3111,7 @@ Todos los gastos y costas que se originen en la ejecución de una sentencia, ser
 
 ###### Artículo 483.
 
-La acción para pedir la ejecución de una sentencia, transacción o convenio judiciales durará diez años(sic) contados desde el día en que se venció el término judicial para el cumplimiento voluntario de lo juzgado y sentenciado.
+La acción para pedir la ejecución de una sentencia, transacción o convenio judiciales durará diez años (sic) contados desde el día en que se venció el término judicial para el cumplimiento voluntario de lo juzgado y sentenciado.
 
 ###### Artículo 484.
 
@@ -2857,7 +3129,7 @@ Los términos fijados en el artículo anterior se contarán desde la fecha de la
 
 Todo lo que en este capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales y los laudos que ponen fin a los juicios arbitrales
 
-### CAPITULO IV. De los remates
+### CAPITULO III. De los Embargos
 
 ###### Artículo 488.
 
@@ -3067,7 +3339,7 @@ Los incidentes de liquidación de sentencia, rendición de cuentas y determinaci
 
 Lo dispuesto en este capítulo es aplicable a todos los casos de secuestro judicial, salvo aquéllos en que disponga otra cosa este Código.
 
-### CAPITULO V. De la ejecución de las sentencias y demás resoluciones dictadas por los Tribunales y jueces de los demás Estados, del Distrito Federal y del extranjero
+### CAPITULO IV. De los remates
 
 ###### Artículo 518.
 
@@ -3149,7 +3421,7 @@ El día del remate, a la hora señalada, pasará el juez personalmente lista de 
 
 ###### Artículo 534.
 
-Calificadas de buenas las posturas, el juez las leerá en alta voz por sí mismo o mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el juez decidirá cual sea la preferente.
+Calificadas de buenas las posturas, el juez las leerá en alta voz por sí mismo o mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el juez decidirá cuál sea la preferente.
 
 Hecha la declaración de la postura considerada preferente, el juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore, dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo a ellos si algún postor puja la mejora; y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que, pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura o puja, declarará el tribunal fincado el remate en favor del postor que hubiere hecho aquélla.
 
@@ -3267,7 +3539,7 @@ V.- Los gastos de corretaje o comisión serán de cuenta del deudor y se deducir
 
 VI.- En todo lo demás se estará a las disposiciones de este capítulo.
 
-### CAPITULO UNICO
+### CAPITULO V. De la ejecución de las sentencias y demás resoluciones dictadas por los Tribunales y jueces de los demás Estados, del Distrito Federal y del extranjero
 
 ###### Artículo 552.
 
@@ -3277,13 +3549,21 @@ El juez ejecutor que reciba exhorto con las inserciones necesarias, conforme a d
 
 Los jueces ejecutores no podrán oír ni conocer de excepciones cuando fueren opuestas por alguna de las partes que litigan ante el juez requirente, salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 554.
 
-Si al ejecutar los autos insertos en las requisitorias se opusiere algún tercero, el juez ejecutor oirá incidentalmente y calificará las excepciones opuestas conforme a las reglas siguientes:
+Si al ejecutar los autos insertos en las requisitorias se opusiere algún tercero, el Juez ejecutor oirá incidentalmente y calificará las excepciones opuestas conforme a las reglas siguientes:
 
 I.- Cuando un tercero que no hubiere sido oído por el juez requirente y poseyere en nombre propio la cosa en que debe ejecutarse la sentencia, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que se dictare esa resolución y de las constancias en que se haya fundado;
 
-II.- Si el tercer opositor que se presente ante el juez requerido no probare que posee con cualquier título traslativo de dominio el bien sobre que verse la ejecución del auto inserto en la requisitoria, será condenado a satisfacer las costas, daños y perjuicios a quien se los hubiere ocasionado. Contra esta resolución sólo se da el recurso de queja.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+II.- Si el tercer opositor que se presente ante el juez requerido no probare que posee con cualquier título traslativo de dominio el bien sobre que verse la ejecución del auto inserto en la requisitoria, será condenado a satisfacer las costas, daños y perjuicios a quien se los hubiere ocasionado.
 
 ###### Artículo 555.
 
@@ -3337,7 +3617,7 @@ DE LA INTERVENCIÓN DE TERCEROS
 
 ## TITULO DECIMO. De las Tercerías
 
-### CAPITULO UNICO. De la Nulidad de Actuaciones
+### CAPITULO UNICO
 
 ###### Artículo 562.
 
@@ -3379,7 +3659,7 @@ De la primera petición que haga el tercer coadyuvante cuando venga al juicio se
 
 Las tercerías excluyentes de dominio deben de fundarse en el dominio que sobre los bienes en cuestión o sobre la acción que se ejercita alega el tercero.
 
-No es lícito interponer tercerías(sic) excluyente de dominio a aquél que consintió en la constitución del gravamen o del derecho real en garantía de la obligación del demandado.
+No es lícito interponer tercerías (sic) excluyente de dominio a aquél que consintió en la constitución del gravamen o del derecho real en garantía de la obligación del demandado.
 
 ###### Artículo 570.
 
@@ -3451,7 +3731,7 @@ DE LOS MEDIOS DE IMPUGNACIÓN
 
 ## TITULO DECIMO PRIMERO
 
-### CAPITULO I. De las revocaciones y apelaciones
+### CAPITULO UNICO. De la Nulidad de Actuaciones
 
 ###### Artículo 584.
 
@@ -3477,7 +3757,7 @@ TITULO DECIMOSEGUNDO
 
 De los recursos
 
-### CAPITULO II. De la queja
+### CAPITULO I. De las revocaciones y apelaciones
 
 ###### Artículo 589.
 
@@ -3495,233 +3775,339 @@ La revocación debe pedirse por escrito dentro de los tres días siguientes a la
 
 De los decretos y autos del tribunal superior, aún de aquellos que dictados en primera instancia serían apelables, puede pedirse reposición que se substancia en la misma forma que la revocación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 593.
 
-El recurso de apelación tiene por objeto que el superior confirme, revoque o modifique la resolución del inferior.
+El recurso de apelación, es un medio de impugnación de las resoluciones judiciales, que tiene por objeto que el Superior revoque o modifique la resolución del inferior, atendiendo a los agravios expresados por el apelante.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 594.
 
-Pueden apelar: el litigante si creyere haber recibido algún agravio, los terceros que hayan salido al juicio y los demás interesados a quienes perjudique la resolución judicial.
+Pueden apelar:
 
-No puede apelar el que obtuvo todo lo que pidió, pero el vencedor que no obtuvo la restitución de frutos, la indemnización de daños y perjuicios o el pago de las costas, podrá apelar también.
+I.- El litigante condenado en el fallo si creyere haber recibido algún agravio, los terceros que hayan salido al juicio, y los demás interesados a quienes perjudique la resolución judicial;
+
+II.- El vencedor, que aunque haya obtenido en el litigio, no ha conseguido la restitución de frutos, la indemnización de daños y perjuicios, gastos y costas o cualquier otra prestación accesoria de la principal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 595.
 
-La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de los tres días siguientes a esa notificación. En este caso, la adhesión al recurso sigue la suerte de éste.
+La parte que venció puede adherirse a la apelación interpuesta dentro de los tres días siguientes a la fecha en que surtió efectos la notificación de la admisión del recurso, expresando los argumentos tendiente a mejorar los razonamientos vertidos por el juez en la resolución de que se trata, con este escrito se correrá traslado a la contraria para que en igual plazo manifieste lo que a su derecho convenga. La adhesión al recurso sigue la suerte de éste.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 596.
 
-La apelación debe interponerse ante el juez que pronunció la sentencia, dentro de los cinco días siguientes a la fecha en que surtió sus efectos la notificación si la sentencia fuere definitiva, o dentro de tres si fuere auto o interlocutoria.
+El recurso de apelación procede en un solo efecto o en ambos efectos.
 
-Los autos que causen un gravamen irreparable, salvo disposición especial y las interlocutorias, serán apelables cuando lo fuere la sentencia definitiva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 597.
 
-El litigante al interponer la apelación debe usar de moderación, absteniéndose de denostar al juez; de lo contrario, quedará sujeto a lo dispuesto en los artículos 86 y 87.
+La apelación admitida en un solo efecto no suspende la ejecución del auto o sentencia; si esta es definitiva, para ejecutarla se dejará en el juzgado copia certificada de la sentencia y de las demás constancias que el juez considere necesarias para tal efecto, remitiéndose los autos originales al Tribunal Superior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 598.
 
-Interpuesta una apelación, el juez la admitirá sin substanciación ninguna si fuere procedente expresando si la admite en ambos efectos o en uno solo.
+Si la resolución judicial apelada en un solo efecto es un auto o sentencia interlocutoria se remitirá al superior testimonio de lo que el apelante señalare en el escrito de apelación, y a él se agregarán las constancias que el apelado solicite dentro del término concedido para contestar los agravios y las demás constancias que el Juez estime necesarias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 599.
 
-El recurso de apelación procede en un solo efecto o en ambos efectos. En el primer caso no se suspende la ejecución del auto o de la sentencia, y si ésta es definitiva se dejará en el juzgado, para ejecutarla, copia certificada de ella y de las demás constancias que el juez estime necesarias, remitiéndose desde luego los autos originales al Tribunal Superior. Si es auto, se remitirá al Tribunal testimonio de lo que el apelante señalare en el escrito de apelación y a él se agregarán las constancias que el colitigante solicite dentro de tres días siguientes a la admisión del recurso.
+La apelación admitida en ambos efectos, suspende desde luego la ejecución de la sentencia hasta que ésta cause ejecutoria; o la tramitación del juicio cuando se interponga contra auto, quedando en suspenso la jurisdicción del juez para seguir conociendo de los autos principales, desde el momento en que se admita la apelación, y sin perjuicio de que la sección de ejecución continúe en poder del Juez, para resolver lo concerniente al depósito, a las cuentas, gastos y administración.
 
-La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia, hasta que ésta cause ejecutoria o la tramitación del juicio, cuando se interponga contra auto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 600.
 
-Se admitirán en un solo efecto las apelaciones en los casos en que no se halle prevenido que se admitan libremente o en ambos efectos.
+Además de los casos determinados expresamente en la ley, se admitirán en ambos efectos las apelaciones que se interpongan en contra de:
+
+I.- Sentencias definitivas en juicios ordinarios, salvo tratándose de interdictos y alimentos, en los cuales la apelación será admitida en efecto devolutivo;
+
+II.- Autos definitivos que paralizan o ponen término al juicio haciendo imposible su continuación, cualquiera que sea la naturaleza del juicio;
+
+III.- Sentencias interlocutorias que paralizan o ponen término al juicio, haciendo imposible su continuación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 601.
 
-De las sentencias interlocutorias, con fuerza de definitivas, que no paralizan ni ponen término al juicio, se admitirán las apelaciones en el efecto devolutivo, pero si el apelante, en un plazo que no exceda de seis días, presta fianza a satisfacción del juez para responder, en su caso, de las costas, daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos.
+De las sentencias interlocutorias con fuerza de definitivas, que no paralizan ni ponen término al juicio, se admitirán las apelaciones en efecto devolutivo, pero si el apelante, en un plazo que no exceda de seis días, otorga fianza a satisfacción del juez para responder en su caso, de las costas, daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos.
 
-Si el tribunal confirmase la resolución apelada, condenará al apelante al pago de dichas indemnizaciones, fijando, en forma incidental el importe de los daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 602.
 
-Si la apelación devolutiva fuere de auto o sentencia interlocutoria, sólo se remitirá al superior testimonio de lo que señalare de los autos el apelante, con las adiciones que haya efectuado el colitigante y el juez estime necesarias, a no ser que el apelante prefiera esperar la remisión de los autos originales cuando estén en estado. El apelante deberá solicitar el testimonio dentro del tercer día de la admisión del recurso, expresando los particulares que deban contener. Transcurrido este término sin haberlo solicitado, se le negará el testimonio y se tendrá por firme la resolución apelada.
+Si el Tribunal confirmase la resolución apelada, condenará al apelante al pago de las indemnizaciones previstas, fijando en forma incidental el importe de los daños y perjuicios que pueda ocasionar a la parte contraria.
 
-Al recibirse las constancias ante el superior se notificará personalmente a las partes para que comparezcan ante dicho tribunal, a menos que de las constancias aparezca que no se ha dejado de actuar más de tres meses.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Para la remisión del testimonio regirá lo dispuesto en la parte final del artículo 604.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 603.
 
-En ningún caso podrá pronunciarse sentencia de fondo si se encuentra pendiente de resolución alguna apelación devolutiva.
+El apelante deberá solicitar el testimonio en el mismo escrito de interposición del recurso, expresando los particulares que deba contener, bajo pena de tenerse por no interpuesto el recurso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 604.
 
-No se suspenderá la ejecución de la sentencia, auto o providencia apelados, cuando haya sido admitida la apelación en el efecto devolutivo. En este caso, si la apelación fuere de sentencia, quedará en el juzgado testimonio de lo necesario para ejecutarla, remitiendo los autos al superior, como se previene en el artículo 602.
+Admitida la apelación en sólo el efecto devolutivo, no se ejecutará la sentencia si no se otorga previamente fianza conforme a las reglas siguientes:
 
-###### Artículo 605.
+I.- La calificación de la idoneidad de la fianza será hecha por el Juez, quien se sujetará bajo su responsabilidad a las disposiciones del Código Civil;
 
-Admitida la apelación en solo el efecto devolutivo, no se ejecutará la sentencia si no se otorga previamente fianza conforme a las reglas siguientes:
+II.- La fianza otorgada por el vencedor, comprenderá la devolución de la cosa o cosas que debe percibir, sus frutos e intereses y la indemnización de daños y perjuicios si el Superior revoca el fallo;
 
-I.- La calificación de la idoneidad de la fianza será hecha por el juez, quien se sujetará bajo su responsabilidad a las disposiciones del Código Civil;
-
-II.- La fianza otorgada por el actor comprenderá la devolución de la cosa o cosas que debe percibir, sus frutos e intereses y la indemnización de daños y perjuicios si el superior revoca el fallo;
-
-III.- La contrafianza otorgada por el demandado comprenderá el pago de lo juzgado y sentenciado y su cumplimiento, en el caso de que la sentencia condene a hacer o a no hacer;
+III.- La contrafianza otorgada por el vencido comprenderá el pago de lo juzgado y sentenciado y su cumplimiento, en el caso de que la sentencia condena a hacer o a no hacer;
 
 IV.- La liquidación de los daños y perjuicios se hará en la ejecución de la sentencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 605.
+
+En ningún caso podrá pronunciarse sentencia de fondo si se encuentra pendiente de resolución alguna apelación devolutiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 606.
 
-Además de los casos determinados expresamente en la ley, se admitirán en ambos efectos las apelaciones que se interpongan:
+La apelación sólo procede en los casos de sentencia definitiva, cuando el interés del negocio, a la fecha de interposición del recurso, exceda de ciento ochenta y dos salarios mínimos vigentes en esta zona económica, y en aquellos, cuyo interés no sea susceptible de valuarse en dinero.
 
-I.- De las sentencias definitivas en los juicios ordinarios, salvo tratándose de interdictos y alimentos, en los cuales la apelación será admitida en el efecto devolutivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- De los autos definitivos que paralizan o ponen término al juicio haciendo imposible su continuación, cualquiera que sea la naturaleza del juicio;
-
-III.- De las sentencias interlocutorias que paralizan o ponen término al juicio haciendo imposible su continuación
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 607.
 
-Admitida la apelación en ambos efectos el juez remitirá los autos originales desde luego a la sala correspondiente del tribunal superior dentro del tercer día, citando a las partes para que comparezcan ante dicho tribunal.
+Los autos que causen un gravamen irreparable, salvo disposición especial, y las interlocutorias, serán apelables cuando lo fuere la sentencia definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 608.
 
-En el caso del artículo anterior se suspenderá la ejecución de la sentencia o auto apelado hasta que recaiga el fallo del superior; mientras tanto, queda en suspenso la jurisdicción del Juez para seguir conociendo de los autos principales desde el momento en que se admita la apelación en ambos efectos, sin perjuicio de que la sección de ejecución continúe en poder del juez a quo, para resolver lo concerniente al depósito, a las cuentas, gastos y administración.
+El litigante al interponer la apelación, debe usar moderación, absteniéndose de denostar al Juez, de lo contrario quedará sujeto a lo dispuesto en los artículos 86 y 87.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 609.
 
-Llegados los autos o el testimonio en su caso, al Tribunal Superior, éste sin necesidad de vista o informes, dentro de los ocho días dictará providencia en la que decidirá sobre la admisión del recurso y la calificación del efecto hecha por el juez inferior. Declarada inadmisible la apelación, se devolverán los autos al inferior, revocada la calificación, se procederá en consecuencia.
+La apelación debe interponerse por escrito ante el Juez que pronunció la sentencia, dentro de los nueve días siguientes a la fecha en que surtió efectos la notificación, si la sentencia fuere definitiva, o dentro de seis días, si fuere auto o interlocutoria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 610.
 
-En el auto a que se refiere el artículo anterior mandará el Tribunal poner a la disposición del apelante los autos por seis días, en la Secretaría, para que exprese sus agravios. Del escrito de expresión de agravios se corre traslado a la contraria por otros seis días durante los cuales estarán los autos a disposición de ésta para que se imponga de ellos.
+En el mismo escrito en el que se interpone el recurso de apelación, el recurrente deberá expresar los agravios que le cause la resolución recurrida, los cuales deberán referirse únicamente a los hechos planteados ante el Juez de Primera Instancia, y en caso de no hacerlo así, se tendrá por no admitido el recurso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 611.
 
-En caso de que el apelante omitiera en el término de la ley expresar los agravios, se tendrá por desierto el recurso, haciendo la declaración el Superior sin necesidad de acusarse la rebeldía correspondiente
+Interpuesta una apelación, el Juez la admitirá, expresando si lo hace en un solo efecto o en ambos efectos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 612.
 
-En los escritos de expresión de agravios y contestación, tratándose de apelación de sentencia definitiva las partes pueden ofrecer pruebas especificando los puntos sobre que deben versar, que nunca serán extraños a la cuestión debatida, y en las hipótesis de los artículos 614 y 615
+En el mismo auto donde se admita la apelación, se ordenará notificar personalmente a la contraria, para que dentro del término de seis días conteste a lo que a su derecho convenga.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 613.
 
-Dentro del tercer día, el Tribunal resolverá la admisión de las pruebas.
+En los escritos de expresión y contestación de agravios, las partes deberán señalar domicilio en el lugar de residencia del Superior, bajo pena, en caso de no hacerlo, que todas las notificaciones que deban hacérseles, aún las de carácter personal, surtirán sus efectos por lista de estrados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 614.
 
-Sólo podrá otorgarse el recibimiento de prueba en la segunda instancia:
+Contestados los agravios, o si el apelado dejara de hacerlo, sin necesidad de acuse de rebeldía, el Juez ordenará la remisión de los autos originales o del testimonio en su caso, dentro de un término de cinco días a la Sala correspondiente del Tribunal Superior de Justicia para la sustanciación del recurso.
 
-I.- Cuando por cualquier causa no imputable al que solicite la prueba, no hubiere podido practicarse en la primera instancia toda o parte de la que hubiere propuesto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Cuando hubiere ocurrido algún hecho que importe excepción superveniente.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 615.
 
-Sin necesidad de recibir el litigio a prueba, podrán pedir las partes en sus respectivos escritos de agravios y contestación que la parte contraria rinda confesión judicial por una sola vez con tal de que sea sobre hechos que, relacionados con los puntos controvertidos, no fueron objeto de posiciones en la primera instancia, y que reciba la prueba documental de los instrumentos a que se refiere el artículo 92
+Llegados los autos o el testimonio en su caso, al Tribunal Superior, éste dentro de ocho días dictará providencia, en la que decidirá sobre la admisión del recurso y la calificación del efecto realizada por el Juez de origen. La resolución anterior deberá ser notificada personalmente a las partes, en el domicilio señalado para tal efecto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 616.
 
-Cuando pida el apelante que se reciba el juicio a prueba, puede el apelado en la contestación de los agravios oponerse a esa pretensión.
+Declarada inadmisible la apelación, se devolverán los autos al inferior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 617.
 
-En el auto de calificación de pruebas la Sala ordenará se reciban en forma oral y señalará la audiencia dentro de los veinte días siguientes.
+Revocada la calificación, se procederá en los términos siguientes:
+
+I.- Cuando la apelación admitida por el juez de origen en un solo efecto, es recalificada en ambos efectos y no se hubieren remitido los autos originales, se le prevendrá a dicho juez, para que los envíe, quedando desde luego en suspenso la jurisdicción de éste para seguir conociendo de los autos principales;
+
+II.- Cuando la apelación admitida por el juez de origen en ambos efectos, se recalifique en un solo efecto, se devolverán los autos originales, dejándose en el Tribunal Superior, las constancias necesarias y las que las partes señalen dentro de los tres días siguientes a la notificación respectiva, quedando por supuesto, el juez de origen en aptitud para ejecutar el auto o sentencia apelados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 618.
 
-Contestados los agravios o perdido el derecho de hacerlo, si no se hubiere promovido prueba o concluido la recepción de las que se hubieren admitido, se darán cinco días comunes para alegar y pasados que sean, serán citadas las partes para sentencia, que se pronunciará en el término que señala el artículo 80.
+En el auto a que se refiere el artículo 615, el Tribunal Superior citará a las partes para oír sentencia, misma que se dictará dentro del plazo de ocho días, confirmando, revocando o modificando la resolución apelada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 619.
 
-Cuando se ofrezcan pruebas, en segunda instancia, desde el auto de admisión, se fijará la audiencia dentro de los veinte días siguientes produciéndose desde luego, a la preparación de ellas. Regirá en este caso lo dispuesto en el Capítulo IV del Título Séptimo.
+La sentencia que dicte el Tribunal Superior, se limitará al estudio de los agravios vertidos por el apelante, excepto cuando se trate de cuestiones que debieron ser hechas valer de oficio por el Juez de origen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 620.
 
-La apelación interpuesta en los juicios especiales procederá en el efecto devolutivo y se sustanciará con un solo escrito de cada parte, citándose a éstas para sentencia, que se pronunciará en el término que señala al artículo 80.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 621.
 
-Las apelaciones de interlocutorias o autos se substanciarán con un solo escrito de cada parte y la citación para resolución que se dictará en el término de ocho días.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-En estas apelaciones los términos a que se refiere el artículo 610, se reducirán a tres días.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 622.
 
-La revisión de las sentencias recaídas en los juicios sobre nulidad de matrimonio por las causas expresadas en los artículos 769 Fracciones III, IV, VI y 782 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público y aunque las partes no expresaren agravios ni promovieren pruebas, el Tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-### CAPITULO UNICO. De la apelación Extraordinaria
+### CAPITULO II. De la queja
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 623.
 
-El recurso de queja tiene lugar:
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-I.- Contra el Juez que se niega a admitir una demanda o desconoce de oficio la personalidad de un litigante antes del emplazamiento;
-
-II.- Respecto de las interlocutorias dictadas en la ejecución de sentencias;
-
-III.- Contra la denegación de apelación;
-
-IV.- En los demás casos fijados por la Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 624.
 
-Se da el recurso de queja en contra de los actuarios y secretarios por exceso o defecto de las ejecuciones, por las decisiones en los incidentes de ejecución y por omisiones o negligencia en el desempeño de sus funciones.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 625.
 
-El recurso de queja se interpondrá por escrito ante el superior inmediato dentro de los tres días que sigan al acto reclamado, haciéndolo saber dentro de igual tiempo al funcionario contra quien se dirige, acompañándole copia. Dentro del tercer día de que tenga conocimiento el responsable, remitirá al superior informe con justificación quien dentro del tercer día, decidirá lo que corresponda, en los términos del artículo 588 e impondrá una corrección disciplinaria en los términos de la Ley Orgánica del Poder Judicial.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 626.
 
-Si la queja no está apoyada por hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario de la resolución reclamada, será desechada por el Tribunal imponiendo a la parte quejosa y a su abogado, solidariamente una multa que no exceda de diez días del salario mínimo vigente en la zona económica.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 627.
 
-El recurso de queja contra los jueces sólo procede en las causas apelables, a no ser que se intente para calificar el grado en la denegación de apelación.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
 ## TITULO DECIMO TERCERO
 
-### CAPITULO UNICO. Del Juicio de Desahucio
+### CAPITULO UNICO. De la apelación Extraordinaria
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 628.
 
-Será admisible la apelación dentro de los tres meses que sigan al día de la notificación de la sentencia:
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-I.- Cuando se hubiere notificado el emplazamiento al reo, por edictos y el juicio se hubiere seguido en rebeldía;
-
-II.- Cuando no estuvieren representados legítimamente el actor o el demandado, o siendo incapaces, las diligencias se hubieren entendido con ellos;
-
-III.- Cuando el juicio se hubiere seguido ante un juez incompetente, no siendo prorrogable la jurisdicción;
-
-IV.- Cuando no hubiere sido emplazado el demandado, conforme a la Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 629.
 
-El juez podrá desechar la apelación cuando resulte de autos que el recurso fue interpuesto fuera de tiempo y cuando el demandado haya contestado la demanda o se haya hecho expresamente sabedor del juicio. En todos los demás casos el juez se abstendrá de calificar el grado y remitirá inmediatamente, emplazando a los interesados, el principal al superior, quien oirá a las partes con los mismos trámites del juicio ordinario, sirviendo de demanda la interposición del recurso, que debe llenar los requisitos del Artículo 264.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-Declarada la nulidad, se volverán los autos al inferior para que reponga el procedimiento en su caso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 630.
 
-Este mismo recurso, se da de las sentencias pronunciadas por los jueces de paz y será tribunal de apelación el juez de primera instancia que corresponda, o siendo varios, el que elija el recurrente y en su silencio el de número inferior.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 631.
 
-La sentencia que se pronuncia resolviendo la apelación extraordinaria, no admite recurso alguno.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 632.
 
-Cuando el padre que ejerce la patria potestad, el tutor o el menor en su caso ratifiquen lo actuado, se sobreseerá el recurso sin que pueda oponerse la contraparte.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 633.
 
-El actor o el demandado capaces que estuvieron legítimamente representados en la demanda y contestación, y que dejaron de estarlo después, no podrán intentar esta apelación.
+(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
 DE LOS JUICIOS Y PROCEDIMIENTOS ESPECIALES
 
 TITULO DECIMOCUARTO
 
-### CAPITULO II (SIC). Del Juicio Hipotecario
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+### CAPITULO UNICO. Del Juicio de Desahucio
 
 ###### Artículo 634.
 
@@ -3777,7 +4163,9 @@ Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE ENERO DE 1995)</small>
 
-### CAPITULO UNICO
+### CAPITULO II (SIC). Del Juicio Hipotecario
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-A.
 
@@ -3913,7 +4301,7 @@ Para el remate, se tendrá como precio de la finca hipotecada, el precio que se�
 
 I.- Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada, practicado por un corredor público, una institución de crédito o perito valuador autorizado por la ley, los cuales en ningún caso podrán tener el carácter de parte o de interesada en juicio;
 
-II.- En el caso de que algunas de las partes deje de exhibir el avalúo dentro del plazo señalado en la fracción anterior se entenderá su conformidad con el avalúo que haya exhibido su contraria;
+II.- En el caso de que algunas de las partes deje (sic) de exhibir el avalúo dentro del plazo señalado en la fracción anterior se entenderá su conformidad con el avalúo que haya exhibido su contraria;
 
 III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
 
@@ -3969,7 +4357,7 @@ TITULO DECIMOQUINTO
 
 Divorcio por mutuo consentimiento
 
-### CAPITULO I. Reglas Generales
+### CAPITULO UNICO
 
 ###### Artículo 645.
 
@@ -3977,7 +4365,7 @@ Cuando ambos consortes convengan en divorciarse, en los términos del último p�
 
 ###### Artículo 646.
 
-Hecha la solicitud, citará el Tribunal a los cónyuges y al representante del Ministerio Público, a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados lo(sic) exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
+Hecha la solicitud, citará el Tribunal a los cónyuges y al representante del Ministerio Público, a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados lo (sic) exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
 
 ###### Artículo 647.
 
@@ -4179,7 +4567,7 @@ El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
 ## TITULO DECIMO SEPTIMO. De los Concursos
 
-### CAPITULO II. De la Rectificación y Graduación de Créditos
+### CAPITULO I. Reglas Generales
 
 ###### Artículo 684.
 
@@ -4227,7 +4615,7 @@ En este caso y en el previsto en el artículo anterior, la revocación se tramit
 
 El concursado en el caso de concurso forzoso deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo con nombres y domicilios de acreedores y deudores, privilegiados y avalistas; si no lo presentare lo hará el síndico.
 
-### CAPITULO III. De la Administración del Concurso
+### CAPITULO II. De la Rectificación y Graduación de Créditos
 
 ###### Artículo 690.
 
@@ -4311,7 +4699,7 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Si al hacerse una cesión de bienes sólo hubiese acreedores hipotecarios, será forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores.
 
-### CAPITULO IV. Del deudor común
+### CAPITULO III. De la Administración del Concurso
 
 ###### Artículo 706.
 
@@ -4351,7 +4739,7 @@ El síndico será removido de plano si dejare de rendir la cuenta mensual o deja
 
 Será removido por los trámites establecidos para los incidentes por mal desempeño de su cargo o por comprobarse alguno de los impedimentos a que se refiere el artículo 708.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. Del deudor común
 
 ###### Artículo 713.
 
@@ -4369,7 +4757,7 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 ## TITULO DECIMO OCTAVO. Juicios sucesorios
 
-### CAPITULO II. De las Testamentarías
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 715.
 
@@ -4527,7 +4915,7 @@ VI.- Lo relativo a la aplicación de los bienes.
 
 Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes, los inventarios lo serán también cuando los juicios se acumularen antes de su facción.
 
-### CAPITULO III. De los intestados
+### CAPITULO II. De las Testamentarías
 
 ###### Artículo 736.
 
@@ -4573,7 +4961,7 @@ Si se impugnare la validez del testamento, o la capacidad legal de algún herede
 
 En la junta prevenida por el artículo 736 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1672 del Código Civil y se nombrará precisamente en los casos previstos por el 1676 del mismo Código.
 
-### CAPITULO IV. Del Inventario y Avalúo
+### CAPITULO III. De los intestados
 
 ###### Artículo 745.
 
@@ -4619,7 +5007,7 @@ Si la declaración de herederos la solicitaren parientes colaterales dentro del 
 
 El juez prudentemente podrá ampliar el plazo anterior cuando, por el origen del difunto u otras circunstancias, se presuma que podrá haber parientes fuera del Estado o de la República.
 
-Los edictos se insertarán, además, dos veces de diez en diez días en un periódico de información y se tramitará(sic) en igual forma en una de las radiodifusoras locales, si el valor de los bienes hereditarios excediere de diez mil pesos.
+Los edictos se insertarán, además, dos veces de diez en diez días en un periódico de información y se tramitará (sic) en igual forma en una de las radiodifusoras locales, si el valor de los bienes hereditarios excediere de diez mil pesos.
 
 ###### Artículo 754.
 
@@ -4659,7 +5047,7 @@ Al albacea se le entregarán los bienes sucesorios, así como los libros y papel
 
 Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos o no fuere reconocido con derechos a ella ninguno de los pretendientes, se tendrá como heredero al Estado.
 
-### CAPITULO V. De la Administración
+### CAPITULO IV. Del Inventario y Avalúo
 
 ###### Artículo 762.
 
@@ -4741,7 +5129,7 @@ La remoción a que se refiere el último precepto será de plano.
 
 Los gastos de inventarios y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-### CAPITULO VI. De la liquidación y partición de la herencia
+### CAPITULO V. De la Administración
 
 ###### Artículo 778.
 
@@ -4847,7 +5235,7 @@ El auto que apruebe o repruebe la cuenta es apelable en el efecto devolutivo.
 
 Concluido y aprobado el inventario, el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
+### CAPITULO VI. De la liquidación y partición de la herencia
 
 ###### Artículo 800.
 
@@ -4869,7 +5257,7 @@ Aprobada la cuenta general de administración, dentro de los quince días siguie
 
 ###### Artículo 804.
 
-Será separado de plano el albacea en los siguientes casos:1o.- Si no presentare el proyecto de partición dentro del término indicado en el artículo anterior o dentro de la prórroga que le concedan los interesados por mayoría de votos; 2o.- Cuando no haga la manifestación a que se refiere el final del artículo anterior, dentro de los tres días que sigan a la aprobación de la cuenta; 3o.- Si no presentare el proyecto de distribución provisional de los productos de los bienes hereditarios, dentro de los plazos mencionados y 4o.- Cuando durante dos bimestres consecutivos, sin justa causa, deje de cubrir a los herederos o legatarios las porciones de frutos correspondientes.
+Será separado de plano el albacea en los siguientes casos: 1º.- Si no presentare el proyecto de partición dentro del término indicado en el artículo anterior o dentro de la prórroga que le concedan los interesados por mayoría de votos; 2º.- Cuando no haga la manifestación a que se refiere el final del artículo anterior, dentro de los tres días que sigan a la aprobación de la cuenta; 3º.- Si no presentare el proyecto de distribución provisional de los productos de los bienes hereditarios, dentro de los plazos mencionados y 4º.- Cuando durante dos bimestres consecutivos, sin justa causa, deje de cubrir a los herederos o legatarios las porciones de frutos correspondientes.
 
 ###### Artículo 805.
 
@@ -4961,7 +5349,7 @@ V.- Expresión de las cantidades que algún heredero quede reconociendo a otro, 
 
 La sentencia que apruebe o repruebe la partición, es apelable en ambos efectos.
 
-### CAPITULO VIII. De la tramitación del notario
+### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
 
 ###### Artículo 817.
 
@@ -4977,7 +5365,7 @@ IV.- Todas las resoluciones se harán constar en actas y no se requieren peticio
 
 V.- El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados.
 
-### CAPITULO IX. Del Testamento Público Cerrado
+### CAPITULO VIII. De la tramitación del notario
 
 ###### Artículo 818.
 
@@ -5003,7 +5391,7 @@ Siempre que haya oposición de algún aspirante a la herencia o de cualquier acr
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con la intervención de un notario, de acuerdo con lo que se establece en este Capítulo.
 
-### CAPITULO X. Declaración de ser Formal el Testamento Ológrafo
+### CAPITULO IX. Del Testamento Público Cerrado
 
 ###### Artículo 823.
 
@@ -5023,7 +5411,7 @@ Será preferida para la protocolización de todo testamento cerrado, la notaría
 
 Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversas, el juez procederá respecto a cada uno de ellos como se previene en este capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 1424 y 1426 del Código Civil.
 
-### CAPITULO XI. Declaración de ser Formal el Testamento Privado
+### CAPITULO X. Declaración de ser Formal el Testamento Ológrafo
 
 ###### Artículo 827.
 
@@ -5037,7 +5425,7 @@ Recibido el pliego, procederá el Tribunal como se dispone en el artículo 1492 
 
 Si para la debida identificación fuere necesario reconocer la firma, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el Tribunal nombrará a un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO XI. Declaración de ser Formal el Testamento Privado
 
 ###### Artículo 830.
 
@@ -5069,7 +5457,7 @@ TITULO DECIMONOVENO
 
 De la Jurisdicción Voluntaria
 
-### CAPITULO II. Del nombramiento de tutores y del discernimiento del cargo
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 834.
 
@@ -5119,7 +5507,7 @@ Toda cuestión que surja en los negocios a que se refieren los capítulos siguie
 
 En los negocios de menores e incapacitados intervendrán el juez de Primera Instancia y los demás funcionarios que determine el Código Civil.
 
-### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+### CAPITULO II. Del nombramiento de tutores y del discernimiento del cargo
 
 ###### Artículo 843.
 
@@ -5227,15 +5615,13 @@ Sobre la rendición y aprobación de cuentas de los tutores regirán las disposi
 
 ###### Artículo 854.
 
-Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, fraude o culpa en el tutor, se iniciará desde luego a petición de parte o del Ministerio Público, el juicio de separación, que se seguirá en la forma contenciosa y si de los primeros actos del juicio resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, quedando en suspenso entretanto el tutor propietario, sin perjuicio de que se remita testimonio de lo conducente a las autoridades penales.
+Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, fraude o culpa en el tutor, se iniciará desde luego a petición de parte o del Ministerio Público, el juicio de separación, que se seguirá en forma contenciosa y si de los primeros actos del juicio resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, quedando en suspenso entretanto el tutor propietario, sin perjuicio de que remita testimonio de lo conducente a las autoridades penales.
 
 ###### Artículo 855.
 
 Los tutores no pueden ser removidos ni excusarse por acto de jurisdicción voluntaria.
 
-### CAPITULO IV. Adopción
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2009)</small>
+### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
 ###### Artículo 856.
 
@@ -5279,7 +5665,9 @@ Para recibir dinero prestado en nombre del menor o incapacitado necesitará el t
 
 Lo dispuesto en los Artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes e incapacitados.
 
-### CAPITULO V. De las informaciones ad perpétuam
+### CAPITULO IV. Adopción
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2009)</small>
 
 ###### Artículo 864.
 
@@ -5317,7 +5705,7 @@ La adopción plena es irrevocable en los términos de los Artículos 15, 27 y 53
 
 La impugnación de la adopción y su revocación, no pueden promoverse en diligencias de jurisdicción voluntaria.
 
-### CAPITULO VI. Apeo y Deslinde
+### CAPITULO V. De las informaciones ad perpétuam
 
 ###### Artículo 869.
 
@@ -5349,7 +5737,7 @@ Las informaciones se protocolizarán en el protocolo del notario que designe el 
 
 En ningún caso se admitirán en jurisdicción voluntaria informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
 
-### CAPITULO I. Reglas Generales
+### CAPITULO VI. Apeo y Deslinde
 
 ###### Artículo 874.
 
@@ -5405,11 +5793,11 @@ Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni
 
 Los gastos generales del apeo se harán por el que los promueva, los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
 
-### CAPITULO II. De la controversia del orden familiar
+### CAPITULO I. Reglas Generales
 
 ## TITULO VIGESIMO. De la Materia Familiar
 
-### CAPITULO III. Disposiciones relativas a otros actos de materia familiar
+### CAPITULO II. De la controversia del orden familiar
 
 ###### Artículo 880.
 
@@ -5456,6 +5844,8 @@ Las convivencias de manera provisional no se otorgarán por el juez de lo famili
 ###### Artículo 883.
 
 No se requieren formalidades especiales para acudir ante el juez, cuando se solicite su intervención en un problema familiar.
+
+### CAPITULO III. Disposiciones relativas a otros actos de materia familiar
 
 ###### Artículo 884.
 
@@ -5559,7 +5949,7 @@ Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de su
 
 Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido también en la demarcación.
 
-En caso de duda será competente por razón del territorio el juez de paz o menor que haya prevenido y en ningún casos se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; el hecho de haber conocido indebidamente de caos correspondientes a otras demarcaciones, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior de Justicia.
+En caso de duda será competente por razón del territorio el juez de paz o menor que haya prevenido y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; el hecho de haber conocido indebidamente de casos correspondientes a otras demarcaciones, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior de Justicia.
 
 ###### Artículo 6o.
 
@@ -5860,3 +6250,11 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 18 DE SEPTIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el 31 de Enero del año 2010.
+
+ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
