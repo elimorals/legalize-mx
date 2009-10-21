@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fraccionamientos-del-estado-de-chiapas-4210"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-03"
-last_updated: "2007-03-14"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE FRACCIONAMIENTOS DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FRACCIONAMIENTOS Y CONJUNTOS HABITACIONALES PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS, PUBLICADA EN EL P.O. DE 21 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Chiapas, el miércoles 3 de febrero de 1993.
 
@@ -824,3 +826,15 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PE
 P.O. 14 DE MARZO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. DE 21 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Fraccionamientos del Estado de Chiapas, expedida mediante Decreto número 126 y publicado en el Periódico Oficial número 237-3a. Sección de fecha 03 de febrero de 1993.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Artículo Cuarto.- El Estado y los municipios deberán iniciar los trámites para la expedición, revisión, modificación o adición de los planes, programas o reglamentos de desarrollo urbano, asentamientos humanos u ordenamiento territorial, para ajustarlos a las disposiciones de esta Ley, dentro del término de sesenta días hábiles, contados a partir de la entrada en vigencia de la presente.
+
+Artículo Quinto.- Los trámites relativos a fraccionamientos, subdivisión, fusión, relotificación, conjunto habitacional o cualquier otro tipo de desarrollo inmobiliario y los recursos administrativos; excepto el referente al de los medios de impugnación, que se encuentren en proceso, al entrar en vigor la presente Ley, continuarán, gestionándose hasta su conclusión en los términos establecidos en la Ley abrogada.
