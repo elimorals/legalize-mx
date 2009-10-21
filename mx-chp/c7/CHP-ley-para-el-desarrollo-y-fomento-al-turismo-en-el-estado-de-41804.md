@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-el-desarrollo-y-fomento-al-turismo-en-el-estado-de-418
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-09"
-last_updated: "2004-11-09"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY PARA EL DESARROLLO Y FOMENTO AL TURISMO EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el martes 9 de noviembre de 2004.
 
@@ -43,9 +43,11 @@ LEY PARA EL DESARROLLO Y FOMENTO AL TURISMO EN EL ESTADO DE CHIAPAS.
 
 ### CAPITULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general en todo el Estado, corresponde su aplicación e interpretación al Ejecutivo del Estado por conducto de la Secretaría de Turismo.
+La presente Ley es de orden público, interés social y de observancia general en todo el Estado, corresponde su aplicación e interpretación al Ejecutivo del Estado por conducto de la Secretaría de Turismo y Relaciones Internacionales.
 
 ###### Artículo 2.
 
@@ -67,13 +69,27 @@ VII. Regular mecanismos de coordinación con los programas de desarrollo urbano,
 
 VIII. Impulsar los proyectos de fomento turístico que propicien la creación y conservación del empleo, evitando para ello toda practica monopólica;
 
-IX. Promover acciones concertadas con los sectores público, privado y social para la creación y mejoramiento de la infraestructura turística de los municipios;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+IX. Implementar acciones concertadas con los sectores público, privado y social para la creación y mejoramiento de la infraestructura en los sitios de atracción turística del estado, a fin de procurar el acceso digno y en condiciones de igualdad a las personas;
 
 X. Fomentar la integración de los prestadores de servicios turísticos en asociaciones representativas de los intereses que son comunes;
 
-XI. Fomentar e impulsar acciones para beneficiar a la comunidad de personas de la tercera edad y con capacidades diferentes, para propiciar el turismo social; y,
+XI. Fomentar e impulsar acciones para beneficiar a la comunidad de personas de la tercera edad y con capacidades diferentes, para propiciar el turismo social; y (sic),
 
-XII. Procurar la vinculación con otras entidades para el fomento de la promoción, inversión y desarrollo del sector turístico en nuestra entidad.
+XII. Procurar la vinculación con otras entidades para el fomento de la promoción, inversión y desarrollo del sector turístico en nuestra entidad;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XIII. Impulsar y crear programas turísticos en los cuales sean partícipes los pueblos indígenas y sus comunidades para la conservación y difusión de los recursos naturales, mejorando su acceso a las actividades económicas;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XIV. Reglamentar la actuación de los guías de turista a nivel estatal;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XV. Coordinar la elaboración del atlas turístico estatal.
 
 ###### Artículo 3.
 
@@ -83,7 +99,9 @@ I. Actividad Turística: La destinada a proporcionar a los turistas servicios de
 
 II. Ayuntamientos: Los órganos colegiados de gobierno de cada municipio de la entidad;
 
-III. Consejo Consultivo Regional: Órgano colegiado interinstitucional y plural de opinión técnica de la Secretaría de Turismo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+III. Consejo Consultivo Regional: Órgano Colegiado Interinstitucional y Plural de Opinión Técnica de la Secretaría de Turismo y Relaciones Internacionales;
 
 IV. Consejo de Turismo: Al Consejo Estatal de Turismo Social;
 
@@ -97,11 +115,15 @@ VIII. Ley: El presente ordenamiento;
 
 IX. Ley Federal: La Ley Federal de Turismo;
 
-X. Patrimonio Turístico: El conjunto de bienes inmuebles, inalienables e imprescriptibles, artísticos, culturales o históricos, que por su importancia e interés general, sean declarados como tales por la Secretaria de Turismo del Estado;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+X. Patrimonio Turístico: El conjunto de bienes inmuebles, inalienables e imprescriptibles, artísticos, culturales o históricos, que por su importancia e interés general, sean declarados como tales por la Secretaría de Turismo y Relaciones Internacionales;
 
 XI. Prestador de Servicio Turístico: La persona física o moral que habitualmente proporcione, intermedie o contrate con el turista, la prestación de los servicios a que se refiere la presente Ley;
 
-XII. Secretaría: La Secretaría de Turismo del Estado;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XII. Secretaría: La Secretaria de Turismo y Relaciones Internacionales;
 
 XIII. Turismo: Al fenómeno social que consiste en el desplazamiento voluntario y temporal de individuos o grupos de personas que fundamentalmente por motivos de recreación, descanso, cultura, salud, deporte, ocio o negocios, se trasladan de su lugar de origen o residencia habitual, a otro lugar, por un periodo de tiempo determinado y que no implica su estancia o permanencia definitiva o residencia en ese lugar;
 
@@ -112,6 +134,10 @@ XV. Zona Turística: Son las áreas desarrolladas o destinadas para llevar a cab
 ###### Artículo 4.
 
 Toda persona tiene derecho a disfrutar el turismo como una expresión del crecimiento sostenido de su tiempo libre, descanso y esparcimiento, quedando prohibida todo tipo de discriminación en razón de idioma, raza, nacionalidad, condición económica, cultural o cualquier otra.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Para lograr tal fin, la Secretaría y la Secretaría de Infraestructura, en coordinación con los H. Ayuntamientos, aportarán la infraestructura necesaria dentro de los centros turísticos para que, las personas con capacidades diferentes, tengan acceso seguro y adecuado a éstas; para lo cual, en la medida de sus presupuestos, se construirán caminos y rampas con barandales que permitan la debida circulación de las personas, con las áreas de descanso que sean necesarias para su comodidad, en atención a sus condiciones de capacidades diferentes.
 
 ###### Artículo 5.
 
@@ -153,7 +179,9 @@ I. Cumplir con las disposiciones convenidas al contratar el servicio;
 
 II. Observar las normas de higiene y convivencia social para la adecuada utilización de los servicios y el patrimonio turístico;
 
-III. Respetar y contribuir con la Secretaría de Turismo del Estado, en la protección de los bienes turísticos y ecológicos de la entidad;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+III. Respetar y contribuir con la Secretaría, en la protección de los bienes turísticos y ecológicos de la entidad;
 
 IV. Abstenerse de cometer cualquier acto contrario a lo establecido en las leyes y reglamentos, así como propiciar conductas que puedan ser ofensivas o discriminatorias contra cualquier persona o comunidad;
 
@@ -167,11 +195,17 @@ VII. Efectuar el pago de los servicios prestados en el momento de la presentaci�
 
 Son derechos de los prestadores de servicios turísticos:
 
-I. Conocer los programas de promoción y todos aquellos proyectos que lleve a cabo la Secretaría de Turismo del Estado;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+I. Conocer los programas de promoción y todos aquellos proyectos que lleve a cabo la Secretaría;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 II. Recibir asesoramiento técnico de la Secretaría de Turismo del Estado, en cuanto al mejoramiento de los servicios y la prestación de los mismos; y,
 
-III. Ser incluidos en los directorios que edite la Secretaría de Turismo del Estado; y recibir todos los beneficios que ésta otorgue, por inscribirse en el Registro Estatal de Turismo.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+III. Ser incluidos en los directorios que edite la Secretaría; y recibir todos los beneficios que ésta otorgue, por inscribirse en el Registro Estatal de Turismo.
 
 ###### Artículo 9.
 
@@ -181,11 +215,15 @@ I. Registrarse en el Registro Estatal de Turismo y obtener todos y cada uno de a
 
 II. Hablar el idioma nacional y, en todo caso, fijar la traducción respectiva o uso equivalente en el mismo idioma de las expresiones o giros de idiomas extranjeros para la mejor atención del turismo nacional, sin perjuicio del uso de otros idiomas, para la mejor atención del turismo extranjero y usar preferentemente la denominación del nombre comercial o razón social expresiones nacionales;
 
-III. Conservar el orden y el decoro en la prestación del servicio y velar por la seguridad y tranquilidad de sus clientes en general;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+III. Conservar el orden y el decoro en la prestación del servicio y velar por la seguridad y tranquilidad de sus clientes, así como atender con los medios necesarios la adecuada estancia de los turistas con capacidades diferentes;
 
 IV. Respetar las reservaciones garantizadas en los términos y condiciones convenidos; y,
 
-V. Proporcionar a la Secretaría de Turismo del Estado, los datos que ésta le solicite con el objeto de evaluar y registrar las actividades turísticas.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+V. Proporcionar a la Secretaría, los datos que ésta le solicite con el objeto de evaluar y registrar las actividades turísticas.
 
 ## TÍTULO SEGUNDO. DEL DESARROLLO TURÍSTICO
 
@@ -201,7 +239,9 @@ En la planeación del Desarrollo Turístico se tomarán en cuenta los siguientes
 
 I.- El impulso a la modernización y profesionalización integral de la actividad turística, a través del aprovechamiento eficiente y racional de los recursos naturales, salvaguardando en todo caso el equilibrio ecológico y la protección al ambiente;
 
-II.- La consideración del turismo alternativo como factor e impulso al desarrollo del Estado, apoyando la explotación de las actividades propias de las comunidades y pueblos, con respeto a sus usos y costumbres, así como la incorporación y reconocimiento de su cosmovisión, cultura y conocimiento tradicional en el desarrollo de productos turísticos, formulación de políticas y promoción; y,
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+II.- La consideración del turismo alternativo como factor e impulso al desarrollo del estado, apoyando la explotación de las actividades propias de ejidos, comunidades y pueblos indígenas, con respeto a sus usos y costumbres, así como la incorporación y reconocimiento de su cosmovisión, cultura y conocimiento tradicional en el desarrollo de productos turísticos, formulación de políticas y promoción;
 
 III.- Se considerará la viabilidad técnica, económica y financiera de los proyectos turísticos que promuevan organismos y empresas de los sectores social y privado, para promover y establecer su desarrollo.
 
@@ -211,15 +251,25 @@ De acuerdo al artículo anterior, la Secretaría planeará sus actividades de ma
 
 Así también formulará un programa de inversiones públicas, privadas o sectoriales que pondrá a consideración del Ejecutivo para su aprobación.
 
-### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE TURISMO
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE TURISMO Y RELACIONES INTERNACIONALES
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 13.
 
-La Secretaría es la encargada de formular y conducir la política integral de desarrollo, planificación, fomento y promoción de la actividad turística del Estado, para el logro de estos propósitos, se coordinará a través de programas que formule la misma, en coordinación con el sector turístico y la sociedad en su conjunto, previa aprobación del Titular del Poder Ejecutivo, de conformidad con la Ley de Planeación del Estado de Chiapas.
+La Secretaría, es la encargada de formular y conducir la política integral de desarrollo, planificación, fomento y promoción de la actividad turística del Estado, para el logro de estos propósitos, se coordinará a través de programas que formule la misma, en coordinación con el sector turístico nacional e internacional y la sociedad en su conjunto, previa aprobación del Titular del Poder Ejecutivo, de conformidad con la Ley de Planeación del Estado de Chiapas.
+
+De igual manera, tendrá como atribución, ser el órgano regulador para validar cualquier trámite encaminado a la obtención de incentivos, capacitación o alguna otra clase de apoyos de naturaleza turística, solicitados por prestadores de servicios turísticos, organizaciones sociales o instancias sociales, ante cualquier dependencia.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 14.
 
-La Secretaría para el mejoramiento de sus funciones, instalará y operará Delegaciones Regionales en el interior del Estado, con el fin de coadyuvar con la aplicación de la presente Ley y su Reglamento, así como para ofrecer asesoría a los turistas.
+La Secretaría para el mejoramiento de sus funciones, instalará y operará delegaciones regionales en el interior del estado, con el fin de coadyuvar con la aplicación de la presente ley y su reglamento, así como para ofrecer asesoría a los turistas.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 15.
 
@@ -243,9 +293,11 @@ IV. La descripción de las acciones, obras y servicios y la referencia a los rec
 
 V. Las etapas o tiempos para su cumplimiento.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 18.
 
-El Ejecutivo a través de la Secretaría podrá celebrar acuerdos y convenios con los distintos niveles de gobierno, los sectores publico, social, privado y académico para el mejor desempeño de sus funciones.
+El Ejecutivo a través de la Secretaría podrá celebrar acuerdos y convenios con los distintos niveles de Gobierno, los sectores público, social, privado, académico, nacional e internacional, este último, previa autorización expresa por parte de la Secretaría de Relaciones Exteriores, lo anterior para el mejor desempeño de sus funciones.
 
 ### CAPÍTULO TERCERO. DE LA CONCERTACIÓN SOCIAL PARA EL DESARROLLO TURÍSTICO
 
@@ -271,7 +323,9 @@ Se reconoce al turismo social, como todos aquellos medios e instrumentos a trav�
 
 Para efectos de esta ley, se crea el Consejo Estatal de Turismo Social, el cual estará integrado de la siguiente manera:
 
-I. Un Presidente, que será el Secretario de Turismo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+I. Un Presidente, que será el Secretario de Turismo y Relaciones Internacionales;
 
 II. Un Vicepresidente, del Sector Público;
 
@@ -279,7 +333,9 @@ III. Un Vicepresidente, del Sector Social;
 
 IV. Un Vicepresidente, del Sector Privado; y,
 
-V. Un Coordinador General, que será el encargado del programa de turismo social de la Secretaría de Turismo del Estado.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+V. Un Coordinador General, que será el encargado del programa de turismo social de la Secretaría.
 
 ###### Artículo 24.
 
@@ -303,23 +359,35 @@ El Consejo Estatal de Turismo Social, tendrá las siguientes funciones:
 
 I.- Analizar, proponer, evaluar y definir las acciones y líneas de ejecución tendientes a facilitar el acceso a las actividades turísticas recreativas a diferentes grupos poblacionales;
 
-II.- Dar seguimiento al Programa de Turismo Social, que lleven a cabo las Autoridades Estatales de Turismo, con la finalidad de conocer y evaluar los productos y adecuar el programa de acuerdo a las tendencias del mercado a fin de responder a los retos del turismo social; y,
+II.- Dar seguimiento al Programa de Turismo Social, que lleven a cabo las Autoridades Estatales de Turismo, con la finalidad de conocer y evaluar los productos y adecuar el programa de acuerdo a las tendencias del mercado a fin de responder a los retos del turismo social; y (sic),
 
-III.- Propiciar la coordinación entre las dependencias públicas y privadas de los sectores social y privado, para facilitar el desarrollo del turismo social.
+III.- Propiciar la coordinación entre las dependencias públicas y privadas de los sectores social y privado, para facilitar el desarrollo del turismo social;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+IV.- Exhortarán y motivarán entre las diversas asociaciones para personas con capacidades diferentes, el turismo en las diversas zonas de interés en el Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+V.- Promoverán que el DIF Estatal y los municipales celebran convenios con diversos prestadores de servicios y la Secretaría, a efecto de poder proporcionar a menores en estado de abandono familiar y a otros sectores vulnerables, el acceso a centros turísticos de manera gratuita.
 
 Las instituciones, dependencias y entidades del sector público, promoverán entre sus trabajadores el turismo social, en coordinación con los integrantes de las dependencias y entidades a que se refiere este capítulo.
 
 Además, recomendarán y procurarán que los sectores social y privado participen en programas que hagan posible el turismo de sus trabajadores en temporadas y condiciones convenientes.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 27.
 
-La Secretaría, con las demás dependencias del ramo, promoverán la suscripción de acuerdos con prestadores de servicios turísticos, por medio de los cuales se determinen precios y condiciones adecuados, así como paquetes que hagan posible el cumplimiento de los objetivos de este capítulo, en beneficio de los grupos obreros, campesinos, infantiles, juveniles, burocráticos, magisteriales, de estudiantes, de trabajadores no asalariados y otros similares.
+La Secretaría, con las demás dependencias del ramo, promoverán la suscripción de acuerdos con prestadores de servicios turísticos, por medio de los cuales se determinen precios y condiciones adecuados, así como paquetes que hagan posible el cumplimiento de los objetivos de este capítulo, en beneficio de los grupos obreros, campesinos, infantiles, juveniles, burocráticos, magisteriales, de estudiantes, de trabajadores no asalariados, personas con capacidades diferentes y otros similares.
 
-Las dependencias y entidades de la administración pública del Estado, coordinarán y promoverán sus esfuerzos, entre ellas, y con los de los gobiernos municipales y concertarán e inducirán la acción social y privada para el desarrollo del turismo social.
+Las dependencias y entidades de la administración pública del Estado, coordinarán y promoverán sus esfuerzos, entre ellas, y con los de los gobiernos municipales y concertarán e inducirán la acción social y privada para el desarrollo del turismo social y ecológico.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 28.
 
-El Estado, a través de la Secretaría podrá celebrar convenios con todas aquellas dependencias del Ejecutivo Estatal y demás entidades del sector público o privado que tengan objetivos similares, con el fin de elaborar y ejecutar programas y conjuntar sus esfuerzos entre ellas, así como los gobiernos municipales; además, concertarán e inducirán la acción social y privada para el desarrollo del turismo social.
+El Estado, a través de la Secretaría, podrá celebrar convenios con todas aquellas dependencias del Ejecutivo Estatal y demás entidades del sector público o privado que tengan objetivos similares, con el fin de elaborar y ejecutar programas conjuntando sus esfuerzos entre ellas, y con los Gobiernos Municipales, así como con ejidos y comunidades indígenas, para un mejor aprovechamiento del sector turístico; además, concertarán e inducirán la acción social privada para el desarrollo del turismo social y ecológico.
 
 ## TÍTULO TERCERO. DE LA PROMOCIÓN, DIFUSIÓN Y COMERCIALIZACIÓN DE LOS ATRACTIVOS TURÍSTICOS
 
@@ -331,21 +399,31 @@ COMERCIALIZACIÓN DE LOS ATRACTIVOS TURÍSTICOS DEL ESTADO DE CHIAPAS
 
 Se crea el Fideicomiso para la Promoción, Difusión y Comercialización de los Atractivos Turísticos del Estado de Chiapas; éste, será el órgano encargado de la planeación, programación, promoción, difusión y fomento al desarrollo de la actividad turística del Estado, y se integrará de la siguiente manera:
 
-I.- Un Presidente Honorario.- Que será el Secretario de Turismo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+I.- Un Presidente Honorario.- Que será el Secretario de Turismo y Relaciones Internacionales;
 
 II.- Un Presidente Ejecutivo.- Que será un representante de los prestadores de servicios turísticos;
 
 III.- Un Secretario Ejecutivo.- Que será el Subsecretario de Promoción Turística;
 
-IV.- Un representante de la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-V.- Un representante de la Contraloría General del Estado; y,
+IV.- Un representante de la Secretaría de Hacienda;
 
-VI.- Los representantes de Asociaciones de la Industria Hotelera, Restaurantera, de las Cámaras de Comercio, Artesanales y Asociaciones de Transportistas Turísticos, Agencias de Viajes del Estado y del Consejo Directivo del Sistema Estatal de la Juventud.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+V.- Un representante de la Secretaría de la Función Pública del Estado; y,
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+VI.- Los representantes de Asociaciones de la Industria Hotelera, Restaurantera, de las Cámaras de Comercio, Artesanales y Asociaciones de Transportistas Turísticos, Agencias de Viajes del Estado y del Instituto Estatal de la Juventud.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 30.
 
-El Fideicomiso será presidido por el Secretario de Turismo y en su ausencia por el suplente que designe; los demás miembros serán designados vocales, el primer vocal será un representante del sector privado y podrá ostentar la representación del fideicomiso en las actividades que el mismo le encomiende, además de convocar las sesiones ordinarias y extraordinarias del fideicomiso.
+El Fideicomiso será presidido por el Secretario de Turismo y de Relaciones Internacionales, y, en su ausencia por el suplente que designe; los demás miembros serán designados vocales, el primer vocal será un representante del sector privado y podrá ostentar la representación del fideicomiso en las actividades que él mismo le encomiende, además de convocar las sesiones ordinarias y extraordinarias del fideicomiso.
 
 ###### Artículo 31.
 
@@ -375,7 +453,15 @@ c) Elaborar coordinadamente con los prestadores de servicios turísticos, campa�
 
 d) Establecer convenios de colaboración con los prestadores de servicios turísticos, para la financiación conjunta de los atractivos turísticos del Estado de Chiapas, a través de diversas herramientas gráficas como, folletos, posters, mapas, planos, carteles, laminas de apoyo, documentales y todo tipo de material audiovisual para la promoción y difusión;
 
-e) Difundir y promocionar los atractivos turísticos del estado, en las distintas ferias y eventos que se realicen de manera local, regional, nacional o internacional.
+e) Difundir y promocionar los atractivos turísticos del estado, en las distintas ferias y eventos que se realicen de manera local, regional, nacional o internacional;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+f) Promocionar el turismo ecológico en sus diversas vertientes, fomentando actividades tales como rapel, montañismo, caminata, ciclismo de montaña, canotaje, etc., para lo cual se deberá propiciar el desarrollo de la infraestructura adecuada en los ejidos y comunidades rurales que, por su conformación geográfica e interés manifiesto se integren a un programa de turismo sustentable;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+g) Promover a través de las "Casas Chiapas" existentes en el extranjero la difusión turística, encaminada a incentivar el desarrollo turístico entre los sectores rurales, ejidales y comunales de la entidad.
 
 II.- En materia de Asesoría y Capacitación:
 
@@ -383,7 +469,15 @@ a). Instrumentar programas de capacitación a los pobladores, sociedades coopera
 
 b). Generar la coparticipación de instituciones públicas y privada, en programas permanentes sobre cursos de capacitación, que permitan al prestador de servicios turísticos, contar con los elementos básicos para la planeación y elaboración de proyectos enfocados al turismo en cualesquiera de sus modalidades, así como la administración de sus recursos, la conservación del entorno ecológico y el fomento a la cultura del ahorro y autoempleo;
 
-c). Asesorar en la identificación, negociación y promoción de atractivos turísticos en cualesquiera de sus distintas modalidades, así como apoyar logísticamente a dichas empresas en las etapas de prospección, instalación y operación.
+c). Asesorar en la identificación, negociación y promoción de atractivos turísticos en cualesquiera de sus distintas modalidades, así como apoyar logísticamente a dichas empresas en las etapas de prospección, instalación y operación;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+d) Proporcionar a los prestadores de servicios turísticos, servidores públicos locales y municipales y a todas las personas interesadas en el ramo turístico, la capacitación necesaria para la debida atención de las personas con capacidades diferentes;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+e) Proporcionar a los prestadores de servicios turísticos que se desarrollen en el área ejidal y comunal, la capacitación necesaria para la debida atención de personas que se interesen en actividades tales como rapel, montañismo, caminata, ciclismo de montaña, canotaje, campismo, etc., a efecto de que la calidad de atención los haga competitivos en el ámbito, local, nacional e internacional.
 
 III.- En materia de Financiamiento:
 
@@ -391,13 +485,23 @@ a). Fomentar, mediante la promoción y generación de proyectos, la constitució
 
 b) Financiar, de manera complementaria, proyectos cuya recuperación se consideren técnicamente viables a corto plazo, procurando preferentemente que estos estén encaminados, al fomento del turismo ecológico;
 
-c). Facilitar el acceso de los pobladores rurales, agrupaciones, sociedades rurales o cualquier otra forma de organización de bajos ingresos, a las fuentes formales de financiamiento para la puesta en marcha de sus proyectos productivos de desarrollo turístico;
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-d). Financiar estudios de preinversión que permitan identificar la viabilidad de establecer negocios turísticos;
+c) Impulsar, en coordinación con la Secretaría de Infraestructura, el desarrollo de la infraestructura carretera rural, creando más caminos y mejorando la red existente, esto con la finalidad de promocionar el turismo ecológico en sus diversas vertientes y permitir con ello la creación de unidades turísticas ejidales y comunales;
 
-e). Financiar la realización de infraestructura y servicios básicos, en las zonas turísticas del Estado de Chiapas.
+d) Financiar estudios de preinversión que permitan identificar la viabilidad de establecer negocios turísticos;
 
-Para los efectos de lo preceptuado por este artículo, constituyen los atractivos turísticos aquellos bienes tangibles e intangibles que posee el estado y que constituyen la principal atracción al turista, teniendo entre otros los siguientes: zonas arqueológicas, ciudades coloniales, reservas ecológicas, áreas naturales, monumentos históricos, museos, parques temáticos, jardines botánicos, zoológicos, teatros, ríos, lagos, esteros, playas, grutas, cavernas, ferias, festividades y tradiciones étnicas o regionales, artesanías, gastronomía, danzas típicas o regionales, así como aquellos que determine en el ámbito de sus atribuciones la Secretaría de Turismo del Estado.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+e) Financiar la realización de infraestructura y servicios básicos, adecuadas para el acceso libre, así también para las personas con capacidades diferentes, a las zonas turísticas del Estado;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+f) Fomentar el desarrollo de pequeñas unidades turísticas atendidas por ejidatarios y comuneros indígenas, con financiamiento, ya sea del gobierno estatal u obtenido a través de instancias nacionales e internacionales, de manera que éstas comunidades sociales puedan adquirir un grado de desarrollo de autosuficiencia que les brinde una mejor perspectiva socioeconómica.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Para los efectos de lo preceptuado por este artículo, constituyen los atractivos turísticos aquellos bienes tangibles e intangibles que posee el Estado y que constituyen la principal atracción al turista, teniendo entre otros los siguientes: zonas arqueológicas, ciudades coloniales, reservas ecológicas, áreas naturales, monumentos históricos, museos, parques temáticos, jardines botánicos, zoológicos, teatros, ríos, lagos, esteros, playas, grutas, cavernas, ferias, festividades y tradiciones étnicas o regionales, artesanías, gastronomía, danzas típicas o regionales, así como aquellos que determine en el ámbito de sus atribuciones la Secretaría.
 
 ###### Artículo 33.
 
@@ -415,9 +519,11 @@ V.- Cuidar que en el desarrollo del turismo en todos sus conceptos se cuide el m
 
 ### CAPÍTULO SEGUNDO. DE LOS CONSEJOS CONSULTIVOS TURÍSTICOS
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 34.
 
-Se crean los Consejos Consultivos Turísticos, como Órganos Colegiados Interinstitucionales y Plurales de Opinión Técnica de la Secretaría de Turismo, que se formarán de acuerdo a la prioridad turística que exista en cada Región.
+Se crean los Consejos Consultivos Turísticos, como Órganos Colegiados Interinstitucionales y Plurales de obligatoria Opinión Técnica de la Secretaría, que deberán de formarse de acuerdo a la prioridad turística que exista en cada Región.
 
 ###### Artículo 35.
 
@@ -435,6 +541,10 @@ VI.- El Director de seguridad publica y tránsito municipal; y,
 
 VII.- Representantes de Hoteles, Restaurantes y demás prestadores de servicios.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Contando todos sus integrantes con voz y voto, para la emisión de sus opiniones y criterios.
+
 ###### Artículo 36.
 
 Son funciones de los Consejos Consultivos Turísticos Regionales:
@@ -443,7 +553,9 @@ I.- Apoyar en la operatividad de todas las acciones del órgano estatal en sus r
 
 II.- Ser el conducto para hacer llegar a la Secretaría los planteamientos, alternativas y análisis sobre asuntos de naturaleza turística, los fenómenos de mercados, segmentos, productos y destinos en las regiones; y,
 
-III.- Velar por una amplia protección al turismo en su región, vigilando el más estricto apego a esta Ley.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+III.- Velar por una amplia protección al turismo en su región, en especial para los turistas con capacidades diferentes, vigilando el más estricto apego a esta ley.
 
 ###### Artículo 37.
 
@@ -495,9 +607,11 @@ El objeto de la actividad turística sustentable, es la promoción, preservació
 
 Para la operación de los centros de hospedaje dentro del concepto de alojamiento en el turismo ecológico, éstos habrán de cubrir los requisitos mínimos de infraestructura, operación y desarrollo, definidos en el Reglamento de la presente Ley, garantizando la preservación, conservación y restauración de los recursos naturales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 46.
 
-La Secretaría impulsará programas tendientes a proyectar zonas apropiadas en el Estado, para la práctica del turismo en todas y cada una de sus modalidades, clasificándose de la siguiente forma:
+La Secretaría impulsará programas tendientes a proyectar zonas apropiadas en el estado, para la práctica del turismo en todas y cada una de sus modalidades, clasificándose de la siguiente forma:
 
 I.- Turismo Tradicional: Son las actividades que se realizan en forma masiva, basándose en el modelo transportación-hotel-playa, en donde las empresas ofrecen un servicio estandarizado, brindando por consiguiente productos iguales y buscando un beneficio económico inmediato.
 
@@ -509,7 +623,9 @@ b) Turismo Rural: Es aquel mediante el cual el turista participa en actividades 
 
 1. Etnoturismo: Se basa en la observación y conocimiento de los grupos étnicos del Estado, a través de sus actividades de conocimiento de la gastronomía, artesanías, vivienda (casas que habitan los lugareños) Vestimenta o indumentaria, Construcciones, Herramientas, Lenguajes, Leyendas, Ferias y festividades y danzas.
 
-2. Ecoturismo: Actividad turística consistente en viajar o visitar áreas naturales, con el fin de disfrutar y estudiar los atractivos naturales de dichas áreas. Comprende cualquier manifestación cultural que pueda encontrarse, a través de un proceso que promueve la conservación, tiene bajo impacto ambiental y cultural y propicia un involucramiento activo y socioeconómicamente benéfico de las poblaciones locales. Dentro de sus actividades se encuentran la observación y el estudio de flora y fauna, su reproducción, y sus principales comportamientos en forma general.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+2. Ecoturismo: Actividad turística consistente en viajar o visitar áreas naturales, incluso en aquellas declaradas como protegidas, con el fin de disfrutar y estudiar los atractivos naturales de dichas áreas siempre que se observen los lineamientos que en materia de protección ecológica dispongan las leyes federales y locales, se comprende cualquier manifestación cultural que pueda encontrarse, a través de un proceso que promueve la conservación, tiene bajo impacto ambiental y cultural y propicia un involucramiento activo y socioeconómicamente benéfico de las poblaciones locales. Dentro de sus actividades se encuentran la observación y el estudio de flora y fauna, su reproducción, y sus principales comportamientos en forma general.
 
 III.- Turismo Náutico o de Playa: Es aquel que comprende únicamente las visitas por parte del turista a las playas, costas, esteros y que comprende la transportación marítima en lanchas, veleros, barcos en todos y en cada uno de sus conceptos; cruceros, etc.
 
@@ -529,19 +645,25 @@ En los programas de desarrollo turístico que impulse y fomente la Secretaría, 
 
 La Secretaría, dependencias públicas que se relacionen al sector turismo, así como los prestadores de servicios turísticos en el Estado, promoverán de manera especial la educación ambiental del turista y de los residentes locales, fomentando la práctica y desarrollo de la actividad turística ecológica.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 49.
 
-El municipio, región o comunidad que haya sido declarado como zona de desarrollo turístico prioritario por la Secretaría de Turismo, recibirá los apoyos que al efecto indique el Programa Estatal de Turismo.
+El Municipio, Región o Comunidad que haya sido declarado como Zona de Desarrollo Turístico prioritario por la Secretaría, recibirá los apoyos que al efecto indique el Programa Estatal de Turismo.
 
 ## TÍTULO QUINTO
 
 ### CAPÍTULO PRIMERO. DE LA CAPACITACIÓN TURÍSTICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 50.
 
-La Secretaría propondrá criterios a la autoridad educativa para verificar las instalaciones y programas de estudios de las instituciones y centros de educación, capacitación y formación de profesionales y técnicos de las diferentes ramas de la actividad turística, a efecto de lo cual deberá:
+La Secretaría, para la adecuada planeación del desarrollo turístico en el estado, propondrá criterios a la autoridad educativa para verificar las instalaciones y programas de estudios de las instituciones y centros de educación, capacitación y formación de profesionales y técnicos de las diferentes ramas de la actividad turística, a efecto de lo cual deberá:
 
-I.- Realizar estudios e investigaciones para conocer las necesidades educativas y de capacitación en materia turística en el Estado;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+I.- Realizar estudios e investigaciones para conocer las necesidades educativas y de capacitación en materia turística en el Estado, y en base a ello determinar las prioridades y características regionales que en materia de desarrollo turístico deberán destacar las instituciones educativas;
 
 II.- Prestar asesoría y apoyo técnico a los prestadores de servicios turísticos en la capacitación que éstos otorguen a sus empleados;
 
@@ -555,9 +677,17 @@ VI.- Impartir entre la población y los prestadores de servicios turísticos, cu
 
 VII.- Gestionar el otorgamiento de becas ante las diversas instituciones destinadas a la capacitación del personal involucrado en la prestación de servicios turísticos;
 
-VIII.- Gestionar y certificar cursos, estudios y demás que tiendan a la profesionalización y actualización de los funcionarios y empleados de la secretaría; y
+VIII.- Gestionar y certificar cursos, estudios y demás que tiendan a la profesionalización y actualización de los funcionarios y empleados de la secretaría; y (sic)
 
-IX.- Dar el visto y registrar las certificaciones de cursos y estudios que sobre materia turística se impartan en las instituciones y escuelas del estado.
+IX.- Dar el visto y registrar las certificaciones de cursos y estudios que sobre materia turística se impartan en las instituciones y escuelas del estado;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+X.- Impartir entre la población y los prestadores de servicios turísticos, los cursos necesarios encaminados a proporcionar a los turistas con capacidades diferentes una adecuada atención tomando en cuenta sus condiciones y necesidades;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+XI.- Desarrollar y aplicar distintivos, homologados con los de tipo nacional e internacional, encaminados a incentivar a los prestadores de servicios turísticos, y buscar con ello la excelencia en la atención turística.
 
 ### CAPÍTULO SEGUNDO. DEL REGISTRO ESTATAL DE TURISMO
 
@@ -649,6 +779,10 @@ De acuerdo al artículo anterior y para evitar la duplicidad de funciones, la Se
 
 La Secretaría establecerá un programa permanente de inspección y verificación a los establecimientos que presten servicios turísticos, en los términos de esta Ley, mediante visitas realizadas por personal debidamente capacitado y autorizado por la propia secretaría.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Además, la Secretaría velará en todo momento porque las instalaciones de los servidos turísticos cuenten con áreas y accesos adecuados para las personas con capacidades diferentes, así como con la información necesaria, de acuerdo a sus diversas necesidades.
+
 ###### Artículo 65.
 
 Además de las visitas de verificación que la secretaría realice como parte de sus programas de supervisión, podrá realizarlas también en los siguientes casos:
@@ -714,3 +848,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los cinco días del mes de noviembre del año dos mil cuatro.
 
 Pablo Salazar Mendiguchía; Gobernador del Estado.- Rubén F. Velázquez López, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan a este Decreto.
