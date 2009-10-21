@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2009-09-23"
+last_updated: "2009-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -683,6 +683,8 @@ Los tratamientos señalados en el presente artículo, no podrán exceder en su d
 
 ### Capítulo IV. Punibilidad en el Caso de Tentativa
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 71.
 
 El Órgano Jurisdiccional, impondrá las penas y medidas de seguridad que estime justas y procedentes para cada delito, dentro de los límites fijados por la ley tomando como base la gravedad del ilícito, las circunstancias exteriores de ejecución, las peculiares del delincuente, así como su grado de culpabilidad, tomando en cuenta:
@@ -745,6 +747,8 @@ Cuando un servidor o ex servidor público de una institución de procuración o 
 
 ### Capítulo V. Punibilidad de los Delitos Culposos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 78.
 
 Para los casos a que se refieren las fracciones IV, V y VI del artículo 19 de este Código, se impondrá como pena, de las tres cuartas partes del mínimo a las tres cuartas partes del máximo correspondiente al delito de que se trate, y en su caso, de acuerdo con la modalidad respectiva.
@@ -767,7 +771,7 @@ En ningún, caso la pena establecida para el concurso real o el concurso ideal, 
 
 ###### Artículo 82.
 
-La punibilidad aplicable a la tentativa será del mínimo y hasta las dos terceras partes de la pena máxima o medida de seguridad que correspondiere al delito doloso consumado que el agente quiso realizar.
+La punibilidad aplicable a la tentativa será de las dos terceras partes del mínimo a las dos terceras partes del máximo de la pena o medida de seguridad que correspondiere al delito doloso consumado que el agente quiso realizar. En ningún caso la pena establecida podrá ser menor a la mínima señalada en el artículo 31, de este Código.
 
 En la aplicación de las penas o medidas de seguridad a que se refiere este artículo, el juzgador tendrá en cuenta, además de lo previsto en el artículo 71 de este Código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro en que se puso al bien jurídico protegido.
 
@@ -783,7 +787,7 @@ Cuando no se pueda establecer el daño que el sujeto activo pretendió causar, s
 
 ###### Artículo 85.
 
-En los casos de delitos culposos, se impondrá del mínimo a las tres cuartas partes de la sanción fijada como máximo para la comisión dolosa del delito de que se trate, según el tipo básico, con excepción de aquellos casos en que la ley señale una pena específica para delitos culposos concretos.
+En los casos de delitos culposos, se impondrá de la cuarta parte del mínimo a la cuarta parte del máximo de la sanción fijada para la comisión dolosa del delito de que se trate, según el tipo básico, con excepción de aquellos casos en que la ley señale una pena específica para delitos culposos concretos. En ningún caso la pena establecida podrá ser menor a la mínima señalada en el artículo 31, de este Código.
 
 Asimismo, podrá decretarse además, la suspensión provisional o definitiva hasta por cinco años de los derechos para ejercer una profesión, oficio, autorización, licencia, permiso o patente y multa hasta de cien días de salario.
 
@@ -1687,6 +1691,8 @@ Si la recuperación de la víctima se logra por datos proporcionados por el incu
 
 ### Capítulo IV. Abuso Sexual
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 211.
 
 Cometen delito de privación ilegal de la libertad, el particular que prive a otro de su libertad, fuera de los casos previstos por la ley, sin el propósito de obtener un lucro, ni causar un daño o perjuicio a la persona privada de su libertad o a cualquier otra.
@@ -1945,27 +1951,23 @@ Sólo se procederá por el delito de estupro por querella de la parte ofendida.
 
 ###### Artículo 241.
 
-Comete el delito de abuso sexual y se le impondrá pena de tres a siete años de prisión, a la persona que sin el consentimiento de otra, ejecute en ésta un acto sexual, distinto a la cópula, sin el propósito de llegar a ella, o la obligue a observarlo o ejecutarlo.
+Comete el delito de abuso sexual, la persona que sin consentimiento de otra, ejecute en ésta un acto sexual, distinto a la cópula y sin el propósito de llegar a ella, o la obligue a observarlo o ejecutarlo.
 
-Este delito se perseguirá por querella, salvo que concurra violencia física o moral, o que el sujeto pasivo sea niño, niña o adolescente y la penalidad mínima y máxima se aumentará hasta en una mitad más.
+Este delito se perseguirá por querella de parte ofendida, salvo que concurra violencia física o moral, o que el sujeto pasivo sea niña, niño o adolescente y que por otras circunstancias no pueda comprender el significado del hecho.
 
-Se equipara al delito de abuso sexual y se sanciona con la misma pena.
-
-I.- Al que obtenga de una persona o de un tercero vinculado a ésta, y sin el empleo de la violencia, la cópula para sí o para otro como condición para el ingreso o la conservación o permanencia del trabajo o empleo, la promoción en éste o la asignación de aumento de remuneración o prestaciones para el solicitante, el trabajador o sus familiares;
-
-II.- Al que imponga la misma condición a que se refiere la fracción anterior, para el reconocimiento u otorgamiento de derechos o beneficios económicos, profesionales o académicos, y;
-
-III.- Al que obligue a ejecutar un acto lúbrico sobre el mismo pasivo, en la persona del agente o en la de un tercero; en el caso de que la víctima fuere niño o niña que no haya cumplido los doce años de edad, este delito se perseguirá de oficio.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 242.
 
 Al que cometa el delito de abuso sexual, se le impondrá pena de tres a siete años de prisión.
 
-Si para cometer el delito se hiciere uso de violencia física o moral o cuando el sujeto pasivo sea un menor de edad, la pena prevista se aumentará en una mitad.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-Las penas previstas para este delito, se aplicarán aún en los casos en que la víctima haya otorgado su consentimiento si ésta es menor de catorce años.
+Si para cometer el delito se hiciere uso de violencia física o moral o cuando el sujeto pasivo haya otorgado su consentimiento si éste es niña, niño o adolescente o que por otras circunstancias no puede comprender el significado del hecho, la pena prevista se aumentará en una mitad más.
 
-El delito de abuso sexual, se perseguirá por querella salvo los casos en que se emplee violencia física o moral o cuando el sujeto pasivo sea un menor de edad.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 243.
 
@@ -1977,7 +1979,9 @@ II.- Al que imponga la cópula como condición, en las mismas circunstancias de 
 
 III.- Al que obligue al sujeto pasivo a ejecutar un acto sexual, lúbrico, sobre sí mismo o en la persona del sujeto activo o la de un tercero.
 
-En todos los casos, cuando la víctima sea un menor de catorce años, el delito se perseguirá de oficio. En todos los demás casos, este delito se perseguirá por querella de parte ofendida.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Este delito se perseguirá por querella de sujeto pasivo, salvo que concurra violencia física o moral, o que el sujeto pasivo sea niña, niño o adolescente o que por otras circunstancias no pueda comprender el significado del hecho.
 
 Cuando se presente la intervención activa de un tercero en estos casos, sólo se procederá contra él si se demuestra que conocía las circunstancias en las que se lleva a cabo la cópula o el acto sexual, o cuando el sujeto pasivo sea menor de catorce años.
 
@@ -2441,7 +2445,9 @@ III.- Prisión de cuatro a siete años y multa de cincuenta a ciento ochenta dí
 
 Se aplicarán las mismas sanciones previstas en el artículo anterior:
 
-I.- Al propietario de una cosa mueble, que disponga de ella sin tener un título legítimo y suficiente que lo faculte para ello, causando un perjuicio a otro.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+I.- Al que disponga de una cosa mueble de su propiedad, sin tener un título legítimo y suficiente que lo faculte para ello, causando un perjuicio a otro.
 
 II.- Al que haga aparecer como suyo, sin ser de su propiedad y sin tener derecho a él, un depósito que garantice la libertad caucional, de una persona.
 
@@ -2498,6 +2504,10 @@ Si se tratare de un miembro de las fuerzas armadas mexicanas en situación de re
 ###### Artículo 302.
 
 Comete el delito de fraude el que engañando a otro o aprovechándose del error en que se encuentra, obtenga ilícitamente alguna cosa propia o ajena u obtenga un lucro indebido, en beneficio propio o de un tercero.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Este delito sólo se perseguirá por querella de parte ofendida o de su legítimo representante, quien podrá otorgar el perdón judicial, cuando el infractor satisfaga los requisitos de la Ley aplicable, acredite el pago de la reparación de los daños que se hubiesen causado y de las multas impuestas.
 
 ###### Artículo 303.
 
@@ -2576,6 +2586,10 @@ XXIV.- Al que para obtener algún beneficio para sí o para un tercero, por cual
 XXV.- Al que por cualquier motivo, teniendo a su cargo la administración o el cuidado de bienes ajenos, con ánimo de lucro, perjudique al titular de éstos, alterando las cuentas o condiciones de contratos, haciendo aparecer operaciones o gastos inexistentes, o exagerando los reales, ocultando o reteniendo valores o empleándolos para un fin diferente al que le correspondan conforme al giro de la empresa, o a sabiendas realice operaciones perjudiciales al patrimonio del titular y en beneficio propio o de un tercero.
 
 XXVI.- Al que se coloque en estado de insolvencia con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Salvo disposición en contrario, este delito se perseguirá a petición del sujeto pasivo o de su legítimo representante, quien podrá otorgar el perdón judicial, cuando el infractor satisfaga los requisitos de la Ley aplicable, acredite el pago de la reparación de los daños que se hubiesen causado y de las multas impuestas.
 
 ### Capítulo V. Conspiración
 
@@ -3371,9 +3385,11 @@ IV.- El notario público, que en ejercicio de sus funciones, expida una certific
 
 V.- El médico, que certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante, para dispensarla de prestar un servicio que exige la ley, o de cumplir una obligación que ésta impone o para adquirir algún derecho.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 403.
 
-Se impondrá de dos meses a seis años de prisión y de diez a doscientos días multa, al que, a sabiendas hiciere uso de un documento público o privado.
+Se impondrá de dos meses a seis años de prisión y de diez a doscientos días multa, al que, a sabiendas, hiciere uso de un documento falso, sea público o privado.
 
 ###### Artículo 404.
 
@@ -3462,6 +3478,8 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 Las disposiciones contenidas en este título, sólo se aplicarán en lo que no estuviere previsto en las leyes especiales o no se opusieran a lo establecido en ellas.
 
 ### Capítulo I. Peligro de Contagio y Propagación de Enfermedades
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ## Título Décimo Noveno. Delitos de Revelación de Secretos y de Acceso Ilícito a Sistemas y Equipos de Informática
 
@@ -3853,13 +3871,17 @@ Los delitos previstos en este título serán sancionados por querella de parte o
 
 ###### Artículo 444.
 
-Al que, sabiendo que padece una enfermedad fácilmente transmisible pero curable, en periodo infectante, sostenga relación sexual con alguna persona o por cualquier otro medio directo ponga en peligro de contagio la salud de ésta, siempre y cuando la víctima no tenga conocimiento de la enfermedad, se le impondrá prisión hasta de cinco años y multa hasta de treinta días de salario, sin perjuicio de la sanción correspondiente si causa el contagio; asimismo será sometido al tratamiento médico correspondiente.
+Al que, sabiendo que padece una enfermedad fácilmente transmitible pero curable, en periodo infectante de manera intencional y deliberada a fin de provocar el contagio, sostenga relación sexual con alguna persona o por cualquier otro medio directo ponga en peligro de contagio la salud de ésta, siempre y cuando la víctima no tenga conocimiento de la enfermedad, se le impondrá prisión hasta de cinco años y multa hasta de treinta días de salario, sin perjuicio de la sanción correspondiente si causa el contagio; asi mismo, será sometido al tratamiento médico correspondiente, pero si el mal transmitido en (sic) incurable, la pena será de cuatro a ocho años de prisión.
 
-Si el mal transmitido es incurable, la pena será de cuatro a ocho años de prisión.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+No se considera intencional y deliberada la conducta del sujeto activo, cuando se desconociere que padece la enfermedad contagiable, no tenga el conocimiento de las formas de transmisión de la enfermedad, haya dado a conocer el riesgo de la enfermedad que padece o tomo las medidas necesarias para evitar el contagio.
 
 Si el mal fuere transmitido en un centro hospitalario público o privado u otro de servicios médicos, se condenará a la institución al pago de daños; indemnización o sostenimiento médico quirúrgico hasta la recuperación del pasivo, sin perjuicio de la sanción privativa que corresponda al causante del contagio.
 
-Cuando se trate de cónyuges, sólo podrá procederse por querella del sujeto pasivo.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+Este delito se perseguirá por querella del sujeto pasivo.
 
 Las penas establecidas en este artículo, se aplicarán aun cuando el sujeto activo no haya tenido la intención directa e inmediata de contagiar a persona alguna, siempre y cuando haya estado consciente de su padecimiento y del peligro de contagio del mismo.
 
@@ -4486,3 +4508,9 @@ P.O. 23 DE SEPTIEMBRE DE 2009.
 DECRETO No. 321, POR EL QUE SE DEROGAN EL CAPITULO II, DEL TITULO DECIMO OCTAVO Y EL ARTICULO 416 DEL CODIGO PENAL PARA EL ESTADO DE CHIAPAS.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
