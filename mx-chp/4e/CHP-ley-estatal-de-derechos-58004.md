@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2008-12-31"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -2131,28 +2131,6 @@ material de protección civil. 150.0
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Tercera. Derechos por Servicios que Presta la Dirección de Capacitación al Sector
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Artículo 33 B.- Por los servicios que presta la Dirección de Capacitación al Sector, causarán por cada uno de los conceptos los siguientes derechos:
-
-Servicio Tarifa
-
-S.M.D.V.E.
-
-I. Por expedición del certificado de aptitud de
-
-operador de transporte público. 2.0
-
-II. Por la reposición del certificado de aptitud de
-
-operador del transporte público. 3.0
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-### Capítulo VI. Derechos por Servicios que Presta la Secretaría de Transportes
-
 #### Sección Segunda. Servicios que Presta la Dirección del Registro y Control del Transporte
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
@@ -2320,6 +2298,28 @@ de circulación de servicio público de transporte
 de carga y pasaje en cualquiera de sus
 
 modalidades. 20.0
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo VI. Derechos por Servicios que Presta la Secretaría de Transportes
+
+#### Sección Tercera. Derechos por Servicios que Presta la Dirección de Capacitación al Sector
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Artículo 33 B.- Por los servicios que presta la Dirección de Capacitación al Sector, causarán por cada uno de los conceptos los siguientes derechos:
+
+Servicio Tarifa
+
+S.M.D.V.E.
+
+I. Por expedición del certificado de aptitud de
+
+operador de transporte público. 2.0
+
+II. Por la reposición del certificado de aptitud de
+
+operador del transporte público. 3.0
 
 ###### Artículo 33.
 
@@ -2969,21 +2969,37 @@ b) Invitación registrada a tres o más personas. 135.0
 
 c) Licitación pública estatal. 207.0
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
 III. Por la expedición de la constancia de inscripción
 
-en el registro de contratistas. 24.0
+en el registro de contratistas y en el registro de
+
+supervisores. 24.0
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 IV. Por modificación de la constancia de inscripción
 
-en el registro de contratista. 8.0
+en el registro de contratista y en el registro de
 
-V. Por la actualización de constancia de inscripción. 12.0
+supervisores. 8.0
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+V. Por la actualización de constancia de inscripción
+
+de los registros de contratistas y supervisores. 12.0
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 VI. Por expedición de segundo o posteriores
 
-ejemplares de la constancia de inscripción en
+ejemplares de la constancia de inscripción
 
-el registro de contratista (cada ejemplar). 8.0
+en el registro de contratista y en el registro de
+
+supervisores (cada ejemplar). 0.8
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3236,3 +3252,9 @@ P.O. 31 DE DICIEMBRE DE 2008.
 Artículo Primero.- El presente de Decreto entrará en vigor a partir del día uno de enero de dos mil nueve.
 
 Artículo Segundo.- Se abrogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
