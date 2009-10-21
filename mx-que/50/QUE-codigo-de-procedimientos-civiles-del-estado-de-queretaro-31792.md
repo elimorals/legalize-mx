@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2008-07-25"
+last_updated: "2009-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. DE 21 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -6760,3 +6762,17 @@ Se derogan todas las disposiciones legales o reglamentarías que se opongan a la
 P.O. 25 DE JULIO DE 2008.
 
 Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro.
+
+P.O. 21 DE OCTUBRE DE 2009.
+
+Artículo Primero. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Los negocios de jurisdicción contenciosa que están pendientes en primera o única instancia al entrar en vigor este Código, se sujetarán a las disposiciones del Código anterior, hasta pronunciarse sentencia. La tramitación de la apelación contra el fallo que se dicte en esos negocios, se sujetará al presente ordenamiento legal.
+
+Artículo Tercero. La sustanciación de las apelaciones que estén pendientes en la segunda instancia, se tramitarán conforme a las disposiciones del Código anterior. Lo mismo se observará en aquellas causas en que, interpuesto el recurso, al entrar en vigor este código, no hayan sido enviados todavía al Tribunal de Alzada.
+
+Artículo Cuarto. La tramitación y resolución de las apelaciones pendientes al entrar en vigor el presente Código, se sujetarán a las prescripciones del Código anterior.
+
+Artículo Quinto. El Tribunal Superior de Justicia, en Pleno y por mayoría de votos, acordará las disposiciones reglamentarias pertinentes para hacer efectivas las de este Código.
+
+Artículo Sexto. Se abroga el Código de Procedimientos Civiles para el Estado de Querétaro, publicado el 22 de noviembre de 1990, en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 49.
