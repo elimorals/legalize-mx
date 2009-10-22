@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2008-09-12"
+last_updated: "2009-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE OCTUBRE DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -308,9 +308,9 @@ Son obligaciones de los Diputados:
 
 I.- Rendir la protesta y tomar posesión de su encargo;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-II. Formar parte de hasta cinco comisiones ordinarias y/o comités de la Asamblea;
+II.- Formar parte de hasta cinco comisiones ordinarias y de hasta dos comités de la Asamblea;
 
 III.- Cumplir con diligencia los trabajos que les sean encomendados por el Pleno, La Diputación Permanente, la Comisión de Gobierno, las comisiones y los comités;
 
@@ -848,11 +848,13 @@ XVIII.- Las demás que le otorgue la presente Ley y otras disposiciones.
 
 ### CAPITULO V. DE LAS COMISIONES
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 59.
 
-La Asamblea contará con el número y tipo de comisiones que requiera para el cumplimiento de sus atribuciones, las cuales se integrarán proporcionalmente al número de Diputados que acuerde la Comisión de Gobierno, sin que pueda exceder de nueve el número de sus integrantes, ni menor de cinco.
+La Asamblea contará con el número y tipo de comisiones que requiera para el cumplimiento de sus atribuciones, las cuales se integrarán proporcionalmente al número de Diputados que acuerde la Comisión de Gobierno, sin que pueda exceder de nueve el número de sus integrantes, ni menor de cinco, salvo que la Comisión de Gobierno acuerde por excepción y de manera justificada una integración diferente.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
 Las Comisiones son órganos internos de organización para el mejor y más expedito desempeño de las funciones legislativas, políticas, administrativas, de fiscalización e investigación de la Asamblea.
 
@@ -924,7 +926,9 @@ II.- Administración Pública Local;
 
 III.- Administración y Procuración de Justicia;
 
-IV.- Asuntos Indígenas;
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+IV.- Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes;
 
 V.- Asuntos Laborales y Previsión Social;
 
@@ -936,77 +940,93 @@ VIII.- Ciencia y Tecnología;
 
 IX.- Cultura;
 
-X.- Deporte;
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XI.- Derechos Humanos;
+X.- Derechos Humanos;
 
-XII.- Desarrollo e Infraestructura Urbana;
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XIII.- Desarrollo Metropolitano;
+XI.- Desarrollo e Infraestructura Urbana;
 
-XIV.- Desarrollo Rural;
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XV.- Desarrollo Social;
+XII.- Desarrollo Metropolitano;
 
-XVI.- Educación;
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XVII.- Equidad y Género;
+XIII.- Desarrollo Rural;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XVIII.- Fomento Económico;
+XIV.- Desarrollo Social;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XIX.- Gestión Integral del Agua;
+XV.- Educación;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XX.- Hacienda;
+XVI.- Equidad y género;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XXI.- Juventud;
+XVII.- Fomento Económico;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XXII.- Normatividad Legislativa, Estudios y Prácticas Parlamentarias;
+XVIII.- Gestión Integral del Agua;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XXIII.- Notariado;
+XIX.- Hacienda;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XXIV.- Participación Ciudadana;
+XX.- Juventud y Deporte;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XXV.- Población y Desarrollo;
+XXI.- Normatividad Legislativa, Estudios y Prácticas Parlamentarias;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XXVI.- Preservación del Medio Ambiente y Protección Ecológica;
+XXII.- Notariado;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XXVII.- Presupuesto y Cuenta Pública;
+XXIII.- Participación Ciudadana;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XXVIII.- Protección Civil;
+XXIV.- Población y Desarrollo;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XIX (sic).- Salud y Asistencia Social;
+XXV.- Preservación del Medio Ambiente y Protección Ecológica;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XXX.- Seguridad Pública;
+XXVI.- Presupuesto y Cuenta Pública;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-XXXI.- Transporte y Vialidad;
+XXVII.- Protección Civil;
+
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+XXVIII.- Salud y Asistencia Social;
+
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+XXIX.- Seguridad Pública;
+
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+XXX.- Transporte y Vialidad;
+
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+XXXI.- Transparencia de la Gestión;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1190,13 +1210,21 @@ IV. De la Biblioteca "Francisco Zarco";
 
 V. Comité de Asuntos Internacionales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-VI. Comité de Capacitación, y
+VI. Capacitación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
-VII. Comité para la promoción y seguimiento de la Cultura de la Legalidad.
+VII. Para la Promoción y Seguimiento de la Cultura de la Legalidad;
+
+> <small>(ADICIONADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+VIII. De Estudios y Estadística sobre la Ciudad de México, y
+
+> <small>(ADICIONADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+IX. Asuntos Interinstitucionales.
 
 Los Comités son órganos auxiliares de carácter administrativo, para realizar tareas diferentes a las de las comisiones.
 
@@ -1723,3 +1751,11 @@ Todos los asuntos que se encuentren en archivo pendientes de desahogar por la qu
 ###### ARTÍCULO QUINTO.
 
 En el caso de las reformas relativas a la conformación del Programa Operativo Anual, operarán a partir del ejercicio fiscal 2009.
+
+G.O. 22 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
