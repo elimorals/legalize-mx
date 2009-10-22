@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2007-07-09"
+last_updated: "2009-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -80,11 +80,11 @@ DE LA NATURALEZA, INTEGRACIÓN, COMPETENCIA Y ATRIBUCIONES DE LAS COMISIONES.
 
 De la naturaleza de las comisiones.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 4.
 
-Son comisiones de Análisis y Dictamen Legislativo que se constituyen con el carácter de definitivo y funcionar para toda la Legislatura de la Asamblea las de: Las Comisiones de Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas; Asuntos Laborales y Previsión Social; Asuntos Político Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Deporte; Derechos Humanos; Desarrollo e Infraestructura Urbana; Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Equidad y Género; Fomento Económico; Gestión Integral del Agua, Hacienda; Juventud; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana; Población y Desarrollo; Preservación del Medio Ambiente y Protección Ecológica; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Transporte y Vialidad; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
+Son Comisiones de Análisis y Dictamen Legislativo que se constituyen con el carácter de definitivo y funcionar (sic) para toda la Legislatura de la Asamblea las de: Las Comisiones de Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a migrantes; Asuntos Laborales y Previsión Social; Asuntos Político Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Derechos Humanos; Desarrollo e Infraestructura Urbana; Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Equidad y Género; Transparencia de la Gestión; Fomento Económico; Gestión Integral del Agua, Hacienda; Juventud y Deporte; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana; Población y Desarrollo; Preservación del Medio Ambiente y Protección Ecológica; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Transporte y Vialidad; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
 
 ### CAPÍTULO SEGUNDO
 
@@ -236,9 +236,11 @@ VII. Las demás que le confiera la Ley Orgánica, el Reglamento, este Reglamento
 
 De los Diputados Integrantes.
 
+> <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 15.
 
-El número de diputados integrantes de la Comisión no podrá exceder de nueve miembros, ni ser menor a cinco.
+El número de diputados integrantes de la Comisión no podrá exceder de nueve miembros, ni ser menor a cinco, salvo por acuerdo expreso de la Comisión de Gobierno que de manera excepcional y justificada establezca una integración diferente.
 
 ###### Artículo 16.
 
@@ -673,3 +675,11 @@ TERCERO.- Las disposiciones contenidas en la fracción IV y penúltimo párrafo 
 CUARTO.- La Asamblea Legislativa del Distrito Federal, deberá expedir la Ley del Servicio Parlamentario de Carrera dentro de los 120 días naturales siguientes a la aprobación del presente decreto, por el Pleno.
 
 QUINTO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+G.O. 22 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
