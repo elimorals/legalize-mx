@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2008-12-31"
+last_updated: "2009-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -759,6 +759,36 @@ VI. Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre las
 > <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
 
 VII.- Proponer al Comité de Asuntos Editoriales la edición de leyes o documentos que coadyuven a la difusión de la cultura de la legalidad.
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+Artículo 56 Quintus.- Corresponde al Comité de Estudios y Estadística sobre la Ciudad de México:
+
+I. Producir Información relativa a la Ciudad de México;
+
+II. Vincular a la Asamblea Legislativa del Distrito Federal con instituciones, dependencias, centros o institutos de investigación, universidades, así como cualquier organismo que produzca, genere o detente información relativa al Distrito Federal, con el objeto de allegarse de estudios y estadísticas de la Ciudad de México;
+
+III. Difundir oportunamente la Información a través de mecanismos que faciliten su consulta;
+
+IV. Promover el conocimiento y uso de la Información relativa a la Ciudad de México;
+
+V. Coordinarse con el Comité de la Biblioteca “Francisco Zarco” para conservar la información que se genere en torno a la Ciudad de México, así como facilitar su difusión y consulta;
+
+VI. Proponer a la Comisión de Gobierno la elaboración de estudios sobre la Ciudad de México, y;
+
+VII. Proporcionar a las Comisiones de la Asamblea Legislativa del Distrito Federal la información que requieran para sustentar sus dictámenes.
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2009)</small>
+
+Artículo 56 Sextus.- Corresponde al Comité de Asuntos Interinstitucionales:
+
+I. Auxiliar a la Comisión de Desarrollo Metropolitano en el enlace con los Congresos de los Estados.
+
+II. Solicitar a los Congresos de los Estados, así como a sus Diputados, la información relevante que pueda ser útil para su aplicación en la Ciudad.
+
+III. Actuar de forma conjunta con la Comisión de Gobierno y la Comisión de Desarrollo Metropolitano a efecto de proponer encuentros entre Congresos Locales con el objeto de enriquecer el trabajo legislativo.
+
+IV. Emitir opiniones sobre asuntos legislativos que se discutan en los Estados.
 
 SEGUNDA PARTE
 
@@ -2811,3 +2841,11 @@ El presente Decreto entrará en vigor al momento de su aprobación por el Pleno 
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 22 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
