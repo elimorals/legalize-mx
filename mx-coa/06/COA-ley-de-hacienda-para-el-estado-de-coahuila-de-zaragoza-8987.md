@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2009-05-12"
+last_updated: "2009-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -68,6 +68,10 @@ Cuando esta ley establezca una forma o periodo distinto específicamente para la
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 Las cuotas actualizadas deberán publicarse anualmente, por la Secretaría de Finanzas, en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 3 BIS.- El pago por concepto de los ingresos tributarios que regula esta ley deberá cubrirse por los sujetos que la misma regula así como por la Federación, el Estado, los Municipios, sus entidades paraestatales y los organismos autónomos con que cuenten.
 
 ## TITULO II. DE LOS IMPUESTOS
 
@@ -284,6 +288,10 @@ SUJETO
 ###### ARTICULO 22.
 
 Son sujetos de este impuesto, las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+La Federación, el Estado, los Municipios, sus entidades paraestatales y los organismos autónomos con que cuenten, están obligados al pago de este impuesto.
 
 BASE
 
@@ -3436,3 +3444,11 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2009.
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
