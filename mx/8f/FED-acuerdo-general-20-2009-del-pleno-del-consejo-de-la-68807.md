@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2009-del-pleno-del-consejo-de-la-68807"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-06-12"
-last_updated: "2009-06-12"
+last_updated: "2009-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGION, CON RESIDENCIA EN EL DISTRITO FEDERAL, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE OCTUBRE DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de junio de 2009.
 
@@ -159,8 +159,20 @@ DECIMOTERCERO. CIRCUNSTANCIAS NO PREVISTAS. Las circunstancias no previstas en e
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
-SEGUNDO. Los Juzgados Primero y Segundo de Distrito Auxiliares, con residencia en el Distrito Federal, creados por los Acuerdos Generales 18/2007 y 34/2007 del Pleno del Consejo de la Judicatura Federal, respectivamente, ahora denominados Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, seguirán funcionando conforme a las reglas establecidas en los acuerdos mencionados y demás disposiciones emitidas al respecto, y una vez que terminen de tramitar y resolver los asuntos de los que actualmente conocen, darán aviso a la Comisión de Creación de Nuevos Organos.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 65/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
+
+SEGUNDO. Los Juzgados Primero y Segundo de Distrito Auxiliares, con residencia en el Distrito Federal, creados por los Acuerdos Generales 18/2007 y 34/2007 del Pleno del Consejo de la Judicatura Federal, respectivamente, ahora denominados Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, seguirán funcionando conforme a las reglas establecidas en los acuerdos mencionados y demás disposiciones emitidas al respecto, así como para cualquier otro tipo de asuntos que determine la Comisión de Creación de Nuevos Organos.
 
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, que Crea el Centro Auxiliar de la Primera Región, con Residencia en el Distrito Federal, así como los Organos Jurisdiccionales que lo Integrarán, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintisiete de mayo de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, María Teresa Herrera Tello, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a cinco de junio de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, que Crea el Centro Auxiliar de la Primera Región, con Residencia en el Distrito Federal, así como los Organos Jurisdiccionales que lo Integrarán.
