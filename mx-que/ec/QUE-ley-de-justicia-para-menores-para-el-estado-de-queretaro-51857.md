@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-justicia-para-menores-para-el-estado-de-queretaro-51857"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-15"
-last_updated: "2007-04-28"
+last_updated: "2009-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE JUSTICIA PARA MENORES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY PARA LA IMPARTICION DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 15 de septiembre de 2006.
 
@@ -1552,3 +1554,11 @@ P.O. 28 DE ABRIL DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 23 DE OCTUBRE DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Para los efectos de la presente Ley, los procedimientos vigentes hasta antes de su entrada en vigor, se sustanciarán con base en lo dispuesto por la "Ley de Justicia para Menores del Estado de Querétaro", publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 62, de fecha 15 de septiembre de 2006.
+
+Artículo Tercero. A la entrada en vigor de la presente Ley, quedará abrogada la "Ley de Justicia para Menores del Estado de Querétaro", publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 62, de fecha 15 de septiembre de 2006.
