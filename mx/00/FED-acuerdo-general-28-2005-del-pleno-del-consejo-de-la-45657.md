@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2005-del-pleno-del-consejo-de-la-45657"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-12"
-last_updated: "2009-03-13"
+last_updated: "2009-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-07-13"
 
 ACUERDO GENERAL 28/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE OCTUBRE DE 2009.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de agosto de 2005.
 
@@ -43,9 +43,11 @@ ACUERDO
 
 ## TITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 50/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 1.
 
-El presente acuerdo tiene por objeto establecer las bases de funcionamiento del Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación.
+El presente acuerdo tiene por objeto establecer las bases de funcionamiento del Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación, considerado como parte de las condiciones generales de trabajo establecidas a favor de dichos funcionarios y en pro de la independencia de la judicatura.
 
 ###### Artículo 2.
 
@@ -139,13 +141,21 @@ El monto de la pensión complementaria se deberá calcular conforme a las reglas
 
 ## TITULO TERCERO. De la Cuantía de la Pensión por Jubilación
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 50/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 4.
 
-La pensión total por jubilación que reciban los servidores públicos, ya sea por retiro forzoso o anticipado, podrá alcanzar hasta el 80% del sueldo pensionable, integrada por la que otorgue el ISSSTE de acuerdo con su ley y la asignada como pensión complementaria.
+La pensión total por jubilación que reciban los beneficiarios a que se refiere la fracción I del artículo anterior, ya sea por retiro forzoso o anticipado, podrá alcanzar hasta el 80% del sueldo pensionable, y se integrará de la siguiente manera:
 
-Todas las pensiones complementarias deberán ser ajustadas anualmente por Servicios al Personal, conforme al incremento que sufra la pensión del ISSSTE, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate.
+I. Tratándose de los servidores públicos que se hubieran jubilado conforme al régimen previsto en la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de veintisiete de diciembre de mil novecientos ochenta y tres, o que hayan optado por el sistema previsto en el artículo décimo transitorio de la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete, la pensión total por jubilación estará integrada por la que otorgue el ISSSTE conforme a la normatividad aplicable y la asignada como pensión complementaria.
+
+Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas anualmente por Servicios al Personal, conforme al incremento que sufra la pensión del ISSSTE, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate.
+
+II. Tratándose de los servidores públicos que se jubilen conforme al régimen previsto en la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete, la pensión total por jubilación estará integrada por una aportación base de diez salarios mínimos mensuales generales vigentes para el Distrito Federal el día de su retiro, que será considerada provisionalmente como pensión, conforme a las nuevas disposiciones de la Ley del ISSSTE para estos casos, y la asignada como pensión complementaria.
+
+Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas en el momento en que se conozca el monto máximo alcanzado por concepto de bono de pensión que haya correspondido al trabajador a través del PENSIONISSSTE o de la institución que maneje su cuenta individual, y se le pagarán o retendrán, por Servicios al Personal, las diferencias que resulten según sea el caso, entre la cantidad total asignada conforme a este sistema y el sueldo pensionable, que podrá ser de hasta el 80%, según las reglas del presente Acuerdo.
+
+Estas pensiones deberán asimismo ajustarse anualmente por Servicios al Personal, conforme a las actualizaciones fijadas por la Comisión Nacional de Salarios Mínimos mediante publicación en el Diario Oficial de la Federación, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate.
 
 ###### Artículo 5.
 
@@ -169,9 +179,11 @@ En relación con las pensiones complementarias a que se refiere este acuerdo pod
 
 ## TITULO CUARTO. De la Procedencia de la Pensión Complementaria
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 50/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 9.
 
-El pago de las pensiones complementarias deberá condicionarse al cumplimiento de los siguientes requisitos de edad y antigüedad:
+El pago de las pensiones complementarias, tomando en consideración que su naturaleza constituye una condición general de trabajo, deberá condicionarse al cumplimiento de los siguientes requisitos de edad y antigüedad en el servicio:
 
 I. Para tener derecho al total de la pensión complementaria por jubilación forzosa, los Magistrados y Jueces deberán haber cumplido 75 años de edad;
 
@@ -383,11 +395,11 @@ Para recibir la pensión complementaria a que se refiere este Acuerdo, será nec
 
 El plazo para solicitar las pensiones complementarias generadas y no reclamadas prescribirá en un año, contado a partir de la fecha en que se genere el derecho a recibir la pensión complementaria.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 50/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 17.
 
-Una vez presentada la solicitud de pensión complementaria, el titular de Servicios al Personal deberá ordenar se recabe la información necesaria para integrar el expedientillo respectivo y, con base en éste, elaborar un proyecto de resolución en el que proponga a la Comisión, previo visto bueno del titular de la Contraloría, el sentido de la resolución que determine sobre la procedencia o no de la pensión solicitada, en un plazo que no deberá exceder de treinta días siguientes a la integración del citado expedientillo.
+Una vez presentada la solicitud de pensión complementaria, la Dirección General de Servicios al Personal deberá recabar la información necesaria para integrar el expedientillo respectivo y, con base en éste, elaborar un proyecto de resolución en el que proponga a la Comisión el sentido de la resolución que determine sobre la procedencia o no de la pensión solicitada, en un plazo que no deberá exceder de treinta días siguientes a la integración del citado expedientillo.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 60/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
 
@@ -405,11 +417,11 @@ Las resoluciones serán firmadas por el Presidente de la Comisión, por el titul
 
 Las resoluciones que determinen sobre la procedencia o no de la pensión complementaria deberán notificarse al peticionario correspondiente, a más tardar dentro de los quince días hábiles siguientes a su emisión, mediante el servidor público que al efecto se habilite, entregándole copia certificada de la resolución. Asimismo, se deberá remitir una copia certificada de dicha resolución a la Dirección General de Recursos Humanos para que sea agregada al expediente personal respectivo.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 50/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 20.
 
-Tanto el titular de Servicios al Personal como el de la Contraloría, serán responsables en la determinación de la procedencia y monto de la pensión complementaria.
+La Contraloría del Poder Judicial de la Federación, en el ámbito de su competencia, vigilará el cumplimiento de las disposiciones legales y normativas aplicables al Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación.
 
 ## TITULO SEPTIMO. Del Recurso de Reconsideración
 
@@ -600,3 +612,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
+
+D.O.F. 23 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
