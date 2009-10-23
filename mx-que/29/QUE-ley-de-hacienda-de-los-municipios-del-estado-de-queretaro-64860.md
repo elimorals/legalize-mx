@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-64860
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-02"
-last_updated: "2008-12-02"
+last_updated: "2009-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 2 de diciembre de 2008.
 
@@ -209,9 +209,13 @@ b) Una vez el salario mínimo diario general vigente del Estado, quienes cumplan
 
 c) El cincuenta por ciento del total de este impuesto, quienes cumplan con los requisitos a que se refieren los artículo a) al d) del artículo 24 de la presente Ley y perciban más de tres salarios mínimos vigentes de la zona económica correspondiente por día.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 26.
 
-Las personas que acrediten ser propietarios o poseedores de solares regularizados mediante el Programa de Certificación de Derechos Ejidales (PROCEDE) o de predios regularizados por la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), cuando se trate del primer registro al padrón catastral pagarán una VSMGZ por concepto de impuesto predial, por cada ejercicio fiscal que se adeude, sin multas ni recargos, siempre y cuando sea solicitado por el propietario antes de realizar el pago y éste se realice de forma anualizada en el ejercicio fiscal que transcurre.
+Las personas que acrediten ser propietarios o poseedores de solares regularizados mediante el Programa de Certificación de Derechos Ejidales (PROCEDE) o de predios regularizados por la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), cuando se trate del primer registro al padrón catastral pagarán una VSMGZ por concepto de impuesto predial, que incluye el ejercicio fiscal en curso, así como los anteriores que se adeuden, sin multas ni recargos, siempre y cuando sea solicitado por el propietario antes de realizar el pago y éste se realice de forma anualizada en el ejercicio fiscal que transcurre.
 
 Cuando se trate de bienes inmuebles destinados únicamente a casa habitación, ubicados en el perímetro de zonas declaradas monumentos históricos, cuyo mantenimiento, conservación o restauración se realice con recursos de los propietarios de dichos inmuebles, a solicitud de éstos se otorgará un descuento no menor al treinta y cinco por ciento en el pago de este impuesto, debiendo aplicarse para ello los criterios generales que al efecto determine cada ayuntamiento, en su respectiva Ley de Ingresos.
 
@@ -345,7 +349,9 @@ b) Del ocho por ciento sobre la cantidad total que le corresponda pagar, en caso
 
 Se exceptúan de lo dispuesto en el presente artículo, los predios de fraccionamientos en proceso de ejecución.
 
-El titular de los derechos de un inmueble baldío no será sujeto de este descuento, cuando el predio exceda de 200 metros cuadrados o sea titular de más de un inmueble.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 41.
 
@@ -1750,3 +1756,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE OCTUBRE DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor el día 1 de enero de 2010.
+
+Artículo Segundo. Se derogan todas las disposiciones fiscales que se opongan a la presente Ley.
+
+Artículo Tercero. Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
