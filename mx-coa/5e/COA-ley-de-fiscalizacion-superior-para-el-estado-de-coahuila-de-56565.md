@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fiscalizacion-superior-para-el-estado-de-coahuila-de-565
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-06"
-last_updated: "2009-05-12"
+last_updated: "2009-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de julio de 2007.
 
@@ -69,9 +69,13 @@ VIII. Fiscalización superior: la facultad ejercida por la Auditoría Superior, 
 
 IX. Gestión financiera: la actividad de las entidades respecto de la recaudación, administración, manejo, custodia, aplicación y ejercicio de los ingresos, egresos, fondos, y en general, de los recursos públicos que éstas utilicen para el cumplimiento de los objetivos contenidos en los programas aprobados, en el período que corresponde a una cuenta pública, sujeta a la revisión posterior del Congreso a través de la Auditoría Superior, a fin de verificar el cumplimiento de los programas señalados y que dicha gestión se ajusta a las disposiciones legales y administrativas aplicables;
 
-X. Información reservada: la relacionada con el proceso de fiscalización superior de las cuentas públicas; que comprende desde la presentación del primer informe de avance de gestión financiera del primer cuatrimestre del ejercicio correspondiente, hasta la presentación del informe del resultado;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-XI. Informe de avance de gestión financiera: los informes que, como parte integrante de la cuenta pública, rinden las entidades al Congreso sobre los avances físicos y financieros de los programas aprobados, a fin de que la Auditoría Superior fiscalice los ingresos y egresos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas;
+X. Información reservada: la relacionada con el proceso de fiscalización superior de las cuentas públicas; que comprende desde la presentación del informe de avance de gestión financiera del primer semestre del ejercicio correspondiente, hasta la presentación del informe del resultado;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+XI. Informe de avance de gestión financiera: el informe que, como parte integrante de la cuenta pública, rinden las entidades al Congreso sobre los avances físicos y financieros de los programas aprobados, a fin de que la Auditoría Superior fiscalice los ingresos y egresos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas;
 
 XII. Informe del resultado: el documento que contiene los resultados de la revisión de las cuentas públicas llevada a cabo por la Auditoría Superior;
 
@@ -87,7 +91,9 @@ XVII. Pliego de observaciones: el documento en el que la Auditoría Superior not
 
 XVIII. Poderes: los Poderes Legislativo, Ejecutivo y Judicial del Estado;
 
-XIX. Proceso concluido: aquél que las entidades reporten como tal en la cuenta pública y en los informes de avance de gestión financiera, con base en el gasto devengado y conforme a la estructura programática autorizada;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+XIX. Proceso concluido: aquél que las entidades reporten como tal en la cuenta pública y en el informe de avance de gestión financiera, con base en el gasto devengado y conforme a la estructura programática autorizada;
 
 XX. Programas: los contenidos en los presupuestos aprobados a los que se sujeta la gestión o actividad de las entidades;
 
@@ -117,19 +123,23 @@ A falta de disposición expresa en esta ley, se aplicarán en forma supletoria y
 
 Los Poderes, municipios y organismos públicos autónomos, respectivamente, deberán informar a la Comisión por medio de su representante legal, sobre la denominación e identificación de todas las demás entidades que se encuentren bajo su ámbito de influencia y cuya gestión presupuestal y programática no esté incorporada en su cuenta pública.
 
-De acuerdo con el informe descrito en el párrafo anterior, la Comisión procederá a elaborar el padrón de entidades obligadas a presentar los informes de avance de gestión financiera y la cuenta pública correspondiente, haciéndolo del conocimiento de la Auditoría Superior. El padrón, así como sus ulteriores modificaciones, serán publicados en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+De acuerdo con el informe descrito en el párrafo anterior, la Comisión procederá a elaborar el padrón de entidades obligadas a presentar el informe de avance de gestión financiera y la cuenta pública correspondiente, haciéndolo del conocimiento de la Auditoría Superior. El padrón, así como sus ulteriores modificaciones, serán publicados en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 8.
 
 Las entidades deberán presentar su cuenta pública anual ante el Congreso dentro de los diez primeros días del mes de abril del año siguiente al ejercicio correspondiente. Será presentada en forma impresa y en un archivo electrónico de datos, que permita su uso informático y facilite su procesamiento y deberá contener la información descrita en el artículo 9 de esta ley.
 
-Así mismo, por los tres cuatrimestres del año, las entidades presentarán ante el Congreso sendos informes de avance de gestión financiera, los que contendrán la información descrita en el artículo 10 de esta ley. Estos informes se presentarán impresos y en un archivo electrónico de datos dentro de los dos meses siguientes al período que corresponde la información. Los períodos cuatrimestrales son los siguientes:
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-I. Enero a abril,
+Así mismo, por el primer semestre del año, las entidades presentarán ante el Congreso un informe de avance de gestión financiera, mismo que contendrá la información descrita en el artículo 10 de esta ley. Este informe se presentará impreso y en un archivo electrónico de datos dentro de los meses de julio y agosto.
 
-II. Mayo a agosto, y
+I. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
 
-III. Septiembre a diciembre.
+II. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
+
+III. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
 
 ###### Artículo 9.
 
@@ -143,33 +153,47 @@ III. Los efectos o consecuencias de las mismas operaciones en el activo y pasivo
 
 IV. El resultado de las operaciones, además del estado detallado de la deuda pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 10.
 
-Los informes de avance de gestión financiera se referirán a los programas a cargo de la entidad, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados y contendrán:
+El informe de avance de gestión financiera se referirá a los programas a cargo de la entidad, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados y contendrá:
 
-I. El flujo contable de ingresos y egresos al cierre del cuatrimestre correspondiente;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+I. El flujo contable de ingresos y egresos al cierre del semestre correspondiente;
 
 II. El avance del cumplimiento de los programas con base en los indicadores estratégicos aprobados en el presupuesto, y
 
 III. Los procesos concluidos.
 
-Los informes de avance de gestión financiera contendrán la información que corresponda al período de que se trate y la acumulada del ejercicio, así como una declaratoria de los profesionales de auditoría independientes o, en su caso, del órgano interno de control, acerca de la situación que guarda el control interno y del grado de colaboración de la entidad para el cumplimiento de los objetivos de la función de control gubernamental.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+El informe de avance de gestión financiera contendrá la información correspondiente al primer semestre del ejercicio, así como una declaratoria del órgano interno de control, acerca de la situación que guarda el control interno y del grado de colaboración de la entidad para el cumplimiento de los objetivos de la función de control gubernamental.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 11.
 
-La cuenta pública y los informes de avance de gestión financiera serán turnados a la Auditoría Superior para su revisión y fiscalización superior, a través de la Comisión.
+La cuenta pública y el informe de avance de gestión financiera serán turnados a la Auditoría Superior para su revisión y fiscalización superior, a través de la Comisión.
 
 ###### Artículo 12.
 
 La falta de presentación oportuna y completa de las cuentas públicas o de los informes de avance de gestión financiera, dará lugar a las siguientes sanciones:
 
-I. Amonestación por escrito en caso de incumplimiento por primera vez, cuando el o los responsables subsanen la omisión o deficiencias en la presentación y contenido de la cuenta pública o de los informes de avance de gestión financiera en un plazo no mayor de cinco días naturales a partir de la fecha de su notificación;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-II. Suspensión del cargo por un mes sin goce de sueldo, cuando el o los responsables subsanen la omisión o deficiencias de la presentación y contenido de la cuenta pública o de los informes de avance de gestión financiera en un plazo no mayor de quince días naturales a partir de la fecha de su notificación, y
+I. Amonestación por escrito en caso de incumplimiento por primera vez, cuando el o los responsables subsanen la omisión o deficiencias en la presentación y contenido de la cuenta pública o del informe de avance de gestión financiera en un plazo no mayor de cinco días naturales a partir de la fecha de su notificación;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+II. Suspensión del cargo por un mes sin goce de sueldo, cuando el o los responsables subsanen la omisión o deficiencias de la presentación y contenido de la cuenta pública o del informe de avance de gestión financiera en un plazo no mayor de quince días naturales a partir de la fecha de su notificación, y
 
 III. Separación definitiva del cargo público, cuando el o los responsables se hayan hecho acreedores a la sanción prevista en la fracción II de este artículo, e incurran nuevamente en los supuestos de las fracciones I y II de este artículo.
 
-Cuando se incumpla reiteradamente en la presentación oportuna y completa de la cuenta pública o de los informes de avance de gestión financiera, el máximo responsable en materia financiera de la entidad se hará acreedor a la sanción prevista en la fracción II de este artículo.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+Cuando se incumpla reiteradamente en la presentación oportuna y completa de la cuenta pública o del informe de avance de gestión financiera, el máximo responsable en materia financiera de la entidad se hará acreedor a la sanción prevista en la fracción II de este artículo.
 
 ###### Artículo 13.
 
@@ -259,13 +283,17 @@ La revisión de los procesos ya fiscalizados con motivo de los informes de avanc
 
 Sin perjuicio del principio de anualidad a que se refiere el primer párrafo de este artículo, la Auditoría Superior podrá revisar de manera casuística y concreta, la información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios fiscales anteriores a los de las cuentas públicas en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado abarque para su ejecución y pago diversos ejercicios fiscales, sin que con este motivo se entiendan, para todos los efectos legales, abiertas nuevamente las cuentas públicas del ejercicio correspondiente a la revisión específica señalada.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 19.
 
-La Auditoría Superior solo podrá realizar visitas y auditorías a partir de que la Comisión le haga entrega de la cuenta pública, así como para la revisión de los procesos reportados como concluidos en los informes de avance de gestión financiera, del ejercicio fiscal correspondiente. La Comisión deberá entregar a la Auditoria Superior la cuenta pública en un plazo máximo de 30 días hábiles posteriores a que fue recibida por el Congreso.
+La Auditoría Superior sólo podrá realizar visitas y auditorías a partir de que la Comisión le haga entrega de la cuenta pública, así como para la revisión de los procesos reportados como concluidos en el informe de avance de gestión financiera, del ejercicio fiscal correspondiente. La Comisión deberá entregar a la Auditoría Superior la cuenta pública en un plazo máximo de 10 días hábiles posteriores a que fue recibida por el Congreso.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 20.
 
-De la revisión de los informes de avance de gestión financiera, la Auditoría Superior podrá realizar observaciones, en cuyo caso deberán notificarse a las entidades a más tardar durante el mes de febrero del año siguiente a aquél en que debieron presentarse dichos informes, con el propósito de que sus comentarios se integren al informe del resultado de la revisión de la cuenta pública correspondiente.
+De la revisión del informe de avance de gestión financiera, la Auditoría Superior podrá realizar observaciones, en cuyo caso deberán notificarse a las entidades a más tardar durante el mes de febrero del año siguiente a aquél en que debió presentarse dicho informe, con el propósito de que sus comentarios se integren al informe del resultado de la revisión de la cuenta pública correspondiente.
 
 ###### Artículo 21.
 
@@ -289,9 +317,11 @@ Durante sus actuaciones los comisionados o habilitados que hubieren intervenido 
 
 Los testigos a que se refiere este artículo, serán designados por la persona con quien se entienda la diligencia, sin perjuicio de que, en caso de no hacerlo, sean nombrados por los comisionados o habilitados para practicar las revisiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 26.
 
-El informe del resultado se presentará a más tardar el 31 de octubre del año siguiente al ejercicio fiscalizado y deberá contener como mínimo lo siguiente:
+El informe del resultado se presentará a más tardar el 30 de noviembre del año siguiente al ejercicio fiscalizado y deberá contener como mínimo lo siguiente:
 
 I. Los dictámenes de la revisión de las cuentas públicas;
 
@@ -405,13 +435,17 @@ Las responsabilidades resarcitorias señaladas se fincarán independientemente d
 
 Las responsabilidades resarcitorias que se finquen a los servidores públicos de las entidades y de la Auditoría Superior no eximen a éstos ni a las empresas privadas o a los particulares de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 43.
 
-La Auditoría Superior, en base a las disposiciones de esta ley, formulará a las entidades los pliegos de observaciones derivados de la revisión y fiscalización superior de las cuentas públicas, en los que se determinará en cantidad líquida la presunta responsabilidad de los infractores, la cual deberá registrarse de inmediato en la contabilidad de la entidad.
+Concluidas las visitas domiciliarias y los requerimientos de información para la práctica de auditorías fuera de una visita domiciliaria, la Auditoría Superior, en base a las disposiciones de esta ley, formulará a las entidades los pliegos de observaciones derivados de la revisión y fiscalización superior de las cuentas públicas, en los que se determinará en cantidad líquida la presunta responsabilidad de los infractores, la cual deberá registrarse de inmediato en la contabilidad de la entidad.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 44.
 
-Las entidades, dentro de un plazo improrrogable de cuarenta y cinco días hábiles contados a partir de la fecha de recibo de los pliegos de observaciones, deberán solventarlos ante la Auditoría Superior. Cuando éstos no sean solventados dentro del plazo señalado o que la documentación y argumentos presentados no sean suficientes a juicio de la Auditoría Superior para solventar las observaciones, iniciará el procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere el presente capítulo y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en los términos de esta ley.
+Las entidades, dentro de un plazo improrrogable de treinta días hábiles contados a partir de la fecha de recibo de los pliegos de observaciones, deberán solventarlos ante la Auditoría Superior. Cuando éstos no sean solventados dentro del plazo señalado o que la documentación y argumentos presentados no sean suficientes a juicio de la Auditoría Superior para solventar las observaciones, iniciará el procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere el presente capítulo y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en los términos de esta ley.
 
 ###### Artículo 45.
 
@@ -840,3 +874,15 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2009.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+CUARTO. Las disposiciones del presente Decreto serán obligatorias para los actos de fiscalización superior relativos a la cuenta pública 2008, por lo tanto el informe del resultado correspondiente a dicho periodo, se presentará a más tardar el 30 de noviembre de este año.
+
+QUINTO. Para el año 2009, el informe de avance de gestión financiera semestral a que se refiere este Decreto, se integrará con los informes de gestión financiera correspondientes al primero y segundo cuatrimestres del mismo año.
