@@ -4,7 +4,7 @@ identifier: "FED-estatutos-de-la-conferencia-nacional-de-procuracion-de-34158"
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-10-09"
-last_updated: "2003-10-09"
+last_updated: "2009-10-23"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34158&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-02-07"
 
 ESTATUTOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LOS ESTATUTOS DE LA CONFERENCIA NACIONAL DE PROCURACION DE JUSTICIA, PUBLICADOS EN EL D.O.F. DE 23 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTO.
 
 Estatutos publicados en la Primera Sección del Diario Oficial de la Federación el jueves 9 de octubre de 2003.
 
@@ -480,3 +482,27 @@ E.- Servicio Civil de Carrera y Profesionalización: Comisión de Profesionaliza
 F.- Homologación, Eficiencia, Cobertura y Respuesta: Comisión de Estatutos y Estudios Legislativos y Comisión de Servicios Periciales y Policía Judicial y/o Ministerial.
 
 En virtud de lo anterior, los participantes dieron lectura a los presentes estatutos y habiendo sido aprobados, se procedió a su firma, siendo las quince horas del día siete de febrero de dos mil tres, firmando al calce y al margen los participantes que señalan: El Procurador General de la República, Rafael Macedo de la Concha.- Rúbrica.- El Procurador General de Justicia del Estado de Nayarit, Jorge A. Bañuelos Ahumada.- Rúbrica.- El Procurador General de Justicia del Estado de Baja California, Antonio W. Martínez Luna.- Rúbrica.- El Procurador General de Justicia del Estado de Baja California Sur, Genaro Canett Yee.- Rúbrica.- La Procuradora General de Justicia del Estado de Campeche, Ana Patricia Lara Guerrero.- Rúbrica.- El Procurador General de Justicia del Estado de Colima, Jesús Antonio Sam López.- Rúbrica.- El Procurador General de Justicia del Distrito Federal, Bernardo Bátiz Vázquez.- Rúbrica.- El Procurador General de Justicia del Estado de Durango, Luis Celis Porras.- Rúbrica.- El Procurador General de Justicia del Estado de Guanajuato.- Miguel Valadez Reyes.- Rúbrica.- El Procurador General de Justicia del Estado de Guerrero, Jesús Ramírez Guerrero.- Rúbrica.- La Procuradora General de Justicia del Estado de Hidalgo, Flor de María López González.- Rúbrica.- El Procurador General de Justicia del Estado de México, Alfonso Navarrete Prida.- Rúbrica.- La Procuradora General de Justicia del Estado de Michoacán, María Lucila Arteaga Garibay.- Rúbrica.- La Procuradora General de Justicia del Estado de Nuevo León, Alida E. Bonifaz Sánchez.- Rúbrica.- El Procurador General de Justicia del Estado de Oaxaca, Sergio H. Santibáñez Franco.- Rúbrica.- El Procurador General de Justicia del Estado de Puebla, Héctor Maldonado Villagómes.- Rúbrica.- El Procurador General de Justicia del Estado de Querétaro, Juan Martín Granados Torres.- Rúbrica.- El Procurador General de Justicia del Estado de San Luis Potosí, Manuel González Carrillo.- Rúbrica.- El Procurador General de Justicia del Estado de Sinaloa, Oscar Fidel González Mendívil.- Rúbrica.- El Procurador General de Justicia del Estado de Sonora, Miguel Angel Cortés Ibarra.- Rúbrica.- El Procurador General de Justicia del Estado de Tabasco, Angel Balcázar Martínez.- Rúbrica.- El Procurador General de Justicia del Estado de Tlaxcala, Eduardo Medel Quiroz.- Rúbrica.- El Procurador General de Justicia del Estado de Veracruz, Pericles Namorado Urrutia.- Rúbrica.- El Procurador General de Justicia del Estado de Yucatán, Miguel Angel Díaz Herrera.- Rúbrica.- El Procurador General de Justicia del Estado de Zacatecas, Aquiles González Navarro.- Rúbrica.- El Subprocurador de Averiguaciones Previas del Estado de Aguascalientes, Ismael Urzúa Camelo.- Rúbrica.- El Subprocurador Jurídico del Estado de Coahuila, Ricardo Aguirre Cuéllar.- Rúbrica.- El Subprocurador de Coordinación General de Justicia del Estado de Chiapas, Julio César Padilla Valdivia.- Rúbrica.- El Subprocurador de Atención a Delitos Patrimoniales No Violentos del Estado de Jalisco, Espiridión Medina García.- Rúbrica.- El Subprocurador de Asuntos contra la Delincuencia Organizada del Estado de Morelos, Ricardo Tapia Vega.- Rúbrica.- El Primer Subprocurador General de Justicia del Estado de Tamaulipas, Guadalupe González Galván.- Rúbrica.- El Subprocurador General de Justicia Militar, Saúl Bobadilla Rodríguez.- Rúbrica.- La Directora General de Coordinación Interprocuradurías, Claudia C. Cameras Selvas.- Rúbrica.- Invitados: El Procurador Federal de Protección al Ambiente, José Ignacio Campillo García.- La Secretaria Ejecutiva del Sistema Nacional de Seguridad Pública, Gloria Brasdefer Hernández.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES ESTATUTOS.</small>
+
+D.O.F. 23 DE OCTUBRE DE 2009.
+
+Primero.- Los presentes Estatutos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Estas disposiciones dejan sin efecto a los Estatutos de la Conferencia Nacional de Procuración de Justicia, publicados en el Diario Oficial de la Federación el día 9 de octubre de 2003, y todas las demás disposiciones estatutarias expedidas con anterioridad.
+
+Tercero.- Los acuerdos y recomendaciones validados en las sesiones de la Asamblea celebradas con anterioridad a la entrada en vigor de la presente normatividad seguirán teniendo validez.
+
+Cuarto.- Los Comités Técnicos previstos en este ordenamiento absorben los compromisos derivados de los anteriores órganos técnicos de la Conferencia de la manera siguiente:
+
+A.- El Comité Técnico de Eficiencia en la Institución del Ministerio Público; conocerá las materias encomendadas al anterior Comité Técnico de Servicio Civil de Carrera y Profesionalización.
+
+B.- El Comité Técnico de Investigación Científica y Criminal; conocerá las materias encomendadas a los anteriores Comités Técnicos de Información, Tecnología y Telecomunicaciones, así como de Homologación, Eficiencia, Cobertura y Respuesta.
+
+C.- El Comité Técnico de Combate a la Corrupción e Impunidad conocerá de las materias encomendadas al anterior Comité Técnico de Combate a la Impunidad y Corrupción.
+
+D.- El Comité Técnico de Coordinación y Cooperación Nacional e Internacional conocerá de las materias encomendadas al anterior Comité Técnico de Incidencia y Lucha contra la Delincuencia así como de las Reuniones del Programa Nacional de Combate al Robo de Vehículos.
+
+E.- El Comité Técnico de Certeza Jurídica y Respeto a los Derechos Humanos conocerá de las materias encomendadas al anterior Comité Técnico de Derechos Humanos y Atención a Víctimas.
+
+Quinto.- Para la puesta en marcha de la redefinición de la página Web de la Conferencia, el Secretariado Técnico difundirá sus lineamientos de operación a los integrantes de la Conferencia en la reunión ordinaria de la Asamblea inmediata posterior a aquella en la que se aprobaron los presentes estatutos y se tendrá un lapso igual para la emisión de la página web.
