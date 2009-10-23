@@ -4,7 +4,7 @@ identifier: "COA-ley-de-responsabilidades-de-los-servidores-publicos-3774"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-24"
-last_updated: "2009-05-12"
+last_updated: "2009-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de abril de 1984.
 
@@ -43,7 +43,7 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL 
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 1o.
 
@@ -131,11 +131,11 @@ VI.- Por Superior Jerárquico: El jefe inmediato del servidor público, en los t
 
 ### CAPITULO PRIMERO. SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 6o.
 
-Son sujetos de juicio político: los Diputados del Congreso del Estado; el Gobernador del Estado; los secretarios del ramo; el Fiscal General del Estado; los subsecretarios; los Fiscales Especializados; los directores generales y los directores de las dependencias del Poder Ejecutivo; los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los Magistrados de los Tribunales Unitarios de Distrito; los Jueces de Primera Instancia; los presidentes, regidores y síndicos de los Ayuntamientos del estado; los integrantes de los Concejos Municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales y los consejeros electorales propietarios del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila.
+Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el Auditor Superior del Estado; el Gobernador del Estado; los Secretarios del ramo; los subsecretarios; el Fiscal General del Estado, los fiscales especializados; los directores generales o su equivalente en las entidades y los directores de las dependencias del Poder Ejecutivo y de la Fiscalía General del Estado; los Magistrados del Tribunal Superior de justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como los titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
 
 ###### ARTICULO 7o.
 
@@ -177,7 +177,7 @@ El juicio político sólo podrá iniciarse durante el tiempo en que el servidor 
 
 Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 11.
 
@@ -307,11 +307,11 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y presentando los ele
 
 El Ministerio Público, en su caso, podrá formular requerimientos ante el propio Congreso del Estado, para los mismos efectos.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 31.
 
-Para proceder penalmente contra el Gobernador del Estado; los Diputados del Congreso Local; los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los secretarios del ramo; el Fiscal General, y los Fiscales Especializados del Estado; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los Concejos Municipales; los consejeros electorales propietarios del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
+Para proceder penalmente contra el Gobernador del Estado; los diputados del Congreso del Estado; el Auditor Superior del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los secretarios del ramo; el Fiscal General del Estado y los fiscales especializados; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los consejos municipales; y así como los titulares e integrantes de los consejos o asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo ele su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
 
 ###### ARTICULO 32.
 
@@ -809,7 +809,7 @@ En las declaraciones anuales se manifestarán solo las modificaciones al patrimo
 
 Tratándose de bienes muebles, el órgano estatal de control, expedirá los formatos en los que se señalen las características que deba tener la declaración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 79.
 
@@ -817,7 +817,7 @@ Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superior
 
 Previamente a la inspección o al inicio de la auditoria, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que exponga lo que a su derecho convenga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 80.
 
@@ -946,3 +946,9 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
