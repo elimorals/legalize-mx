@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2008-09-26"
+last_updated: "2009-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -1059,7 +1061,7 @@ ARTICULO 148 (Facultades del Ministerio Público y del Juzgador, en relación co
 
 Durante el proceso y hasta antes de que se dicte la sentencia definitiva, el Juzgador podrá ordenar el desahogo de los medios de prueba que estime pertinentes en relación con los hechos controvertidos, para formar su convicción. Al ordenar nuevas diligencias probatorias o la ampliación de las ya practicadas, el Juzgador deberá citar a las partes, para que tengan las mismas oportunidades de intervención en la ejecución de dichas diligencias. En ningún caso podrá el Juzgador ordenar la práctica de estas diligencias, para suplir las omisiones en que hubiere incurrido el Ministerio Público en relación con la carga de la prueba. En caso de duda a causa de estas omisiones, el Juzgador deberá absolver al imputado.
 
-((F. DE E., P.O. 24 DE AGOSTO DE 1989)
+> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
 
 ARTICULO 149 (Objeto de la prueba).- Sólo serán objeto de prueba los hechos imputados, tanto los constitutivos del delito y sus modalidades, como los que lo excluyen; las circunstancias concernientes a la individualización judicial de la pena, las consecuencias del hecho imputado, el monto patrimonial de los daños y perjuicios causados, así como los datos a través de los cuales se puede inferir la existencia o la inexistencia de los hechos y circunstancias anteriores.
 
@@ -2586,3 +2588,13 @@ P.O. 26 DE SEPTIEMBRE DE 2008.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones legales o reglamentarias que se opongan a la presente.
+
+P.O. 23 DE OCTUBRE DE 2009.
+
+Artículo Primero. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga el Código de Procedimientos Penales para el Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el seis de julio de mil novecientos ochenta y nueve.
+
+Artículo Tercero. Todo procedimiento penal que estuviere en trámite al comenzar a regir este Código se sujetará a sus disposiciones.
+
+Artículo Cuarto. Se derogan todas las disposiciones previstas en otros ordenamientos que contravengan lo establecido en el presente Código.
