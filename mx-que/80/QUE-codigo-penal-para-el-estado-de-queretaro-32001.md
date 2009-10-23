@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2008-09-26"
+last_updated: "2009-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PENAL DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -843,7 +845,7 @@ III.- Que durante el proceso no se haya sustraido a la acción judicial.
 
 IV.- Que la pena de prisión impuesta no exceda de cinco años;
 
-> <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 V.- Que haya pagado la reparación de los daños y perjuicios y la multa. En caso de que el sentenciado acredite a satisfacción del juzgador que no tiene recursos económicos para el pago de la multa, la ejecución de ésta podrá ser suspendida, en cuyo caso seguirá la misma suerte que la pena de prisión.
 
@@ -1777,7 +1779,7 @@ Comete el delito de abigeato el que en cualquier sitio se apodere de una o más 
 
 I.- De 6 meses a 2 años de prisión y de 1 a 50 días multa, si la conducta descrita se ejecuta sobre una o dos cabezas de ganado menor;
 
-II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor ó una o dos cabeza (sic) de ganado mayor; y
+II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor ó una o dos cabeza (sic)de ganado mayor; y
 
 III.- De 3 a 9 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre más de cinco cabezas de ganado menor ó sobre más de dos cabezas de ganado mayor.
 
@@ -1889,7 +1891,7 @@ Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no 
 
 ###### ARTICULO 196.
 
-Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic)intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
+Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic) intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
 
 Si se valiese de la ignorancia, inexperiencia, miseria o necesidad, aunque esta fuese momentánea del pasivo, se aumentará hasta en una mitad mas la pena señalada en el párrafo anterior.
 
@@ -2913,7 +2915,7 @@ Al que a sabiendas adquiera indebidamente o haga figurar como suyos, bienes que 
 
 Al que teniendo la obligación legal de conducirse con verdad en un acto ante la autoridad, lo haga falsamente u ocultando la verdad, se le impondrán de 3 meses a 3 años de prisión y hasta 50 días multa.
 
-Si el agente se retractare de sus declaraciones falsas antes de que se pronuncie resolución en el procedimiento en el que se condujo con falsedad, sólo se le impondrá la sanción pecuniaria a que se refiere el párrafo anterior.
+Si el agente se retractare de sus declaraciones falsas antes de que se pronuncie resolución en el procedimiento en el que se condujo con falsedad, sólo se le impondrá la sanción pecunIaria a que se refiere el párrafo anterior.
 
 ###### ARTICULO 278.
 
@@ -3441,7 +3443,7 @@ LIC. MARIANO PALACIOS ALCOCER
 
 EL SECRETARIO DE GOBIERNO
 
-LIC. JOSE MARIA HERNANDEZ SOLIS
+LIC. JOSÉ MARÍA HERNANDEZ SOLIS
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS A LAS REFORMAS DE LA PRESENTE LEY.</small>
 
@@ -3597,7 +3599,7 @@ P.O. 1 DE NOVIEMBRE DE 2002
 
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Artega".
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -3760,3 +3762,11 @@ Artículo Único. La presente Ley entrará en vigor al día siguiente de su publ
 P.O. 26 DE SEPTIEMBRE DE 2008.
 
 Artículo Único.- La presente Ley entra en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE OCTUBRE DE 2009.
+
+Artículo Primero. El presente Código entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga el Código Penal para el Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el veintitrés de julio de mil novecientos ochenta y siete.
+
+Artículo Tercero. El Código abrogado seguirá aplicándose para los hechos ocurridos durante su vigencia a menos que conforme al nuevo Código hayan dejado de considerarse como delitos o el presente ordenamiento resulte más favorable.
