@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-sistema-de-planeacion-para-el-municipio-de-41478
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-22"
-last_updated: "2004-10-22"
+last_updated: "2009-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DEL SISTEMA DE PLANEACION PARA EL MUNICIPIO DE IRAPUATO, GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 22 de octubre de 2004.
 
@@ -71,11 +71,19 @@ VIII. Consejo Técnico.- El Consejo Técnico del Consejo de Planeación para el 
 
 IX. Comisión.- Cada una de las Comisiones de Trabajo del Consejo de Planeación para el Desarrollo Municipal de Irapuato;
 
-X. Consejos Municipales.- Son los Consejos Municipales Urbano y Rural;
+X. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
 
-XI. Programa.- Cada uno de los programas derivados del Plan de Gobierno Municipal; y,
+XI. Programa.- Cada uno de los programas derivados del Plan de Gobierno Municipal; y, (sic)
 
-XII. Programas Operativos.- Los Programas Operativos Anuales que forman parte integral del Presupuesto de Egresos Municipal.
+XII. Programas Operativos.- Los Programas Operativos Anuales que forman parte integral del Presupuesto de Egresos Municipal;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+XIII. Implan.- instituto municipal de planeación de Irapuato, Gto; y,
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+XIV. Comités de participación ciudadana.- Órganos de asesoría y consulta ciudadanos auxiliares del COPLADEMI, encargados de promover y garantizar la participación social en la elaboración, seguimiento y evaluación de los planes y programas a que se refiere este reglamento.
 
 ###### ARTÍCULO 3.
 
@@ -113,7 +121,9 @@ El Sistema de Planeación, deberá ser acorde a los sistemas Estatal y Nacional 
 
 Son atribuciones del Ayuntamiento las siguientes:
 
-I. Fijar las bases para la elaboración del Plan Municipal de Desarrollo, Plan de Gobierno Municipal y de los programas derivados de éste último;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+I. Fijar las bases para la elaboración del Plan Municipal de Desarrollo, Plan de Gobierno Municipal y de los programas derivados de éste último y en su oportunidad aprobarlos;
 
 II. Evaluar y actualizar el Plan Municipal de Desarrollo, Plan de Gobierno Municipal y los programas derivados de éste último;
 
@@ -135,7 +145,9 @@ En materia de planeación, son atribuciones del Presidente Municipal como repres
 
 I. Conducir la planeación del desarrollo con la asesoría y el auxilio del COPLADEMI y con la participación de la sociedad;
 
-II. Elaborar el Plan de Gobierno Municipal, con la asesoría del COPLADEMI; dentro de los plazos establecidos en la Ley Orgánica para los Municipios del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+II.- Coordinar a las dependencias y entidades de la administración pública municipal, en la elaboración del plan de gobierno municipal, con la asesoría del COPLADEMI; dentro de los plazos establecidos en la ley orgánica para los municipios del estado de Guanajuato;
 
 III. Verificar que las dependencias de la Administración Pública elaboren los Programas Operativos Anuales;
 
@@ -163,9 +175,11 @@ I. Promover la planeación del desarrollo del Municipio, en congruencia con los 
 
 II. Procurar la participación de la sociedad organizada, por medio de sus representantes, en la planeación del desarrollo del municipio.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 13.
 
-Con la finalidad de garantizar la participación de la sociedad organizada, tanto de la iniciativa privada como de las organizaciones sociales, dentro del COPLADEMI, éste deberá emitir los instrumentos y lineamientos necesarios.
+El COPLADEMI deberá emitir los instrumentos y lineamientos necesarios para garantizar la participación de la sociedad organizada en los procesos de planeación del desarrollo del municipio.
 
 ### CAPÍTULO V. DE LA INTEGRACIÓN Y ATRIBUCIONES DEL CONSEJO DE PLANEACIÓN DEL DESARROLLO MUNICIPAL DE IRAPUATO -COPLADEMI
 
@@ -193,7 +207,9 @@ III. Promover la organización y actualización de los sistemas de información 
 
 IV. Elaborar la propuesta del Plan Municipal de Desarrollo y, en su caso, asesorar en la evaluación y las modificaciones que éste requiera;
 
-V. Participar en la elaboración, evaluación y actualización del Plan de Gobierno Municipal y de los planes y programas derivados del mismo;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+V. Asesorar a las dependencias y entidades de la administración pública municipal en la elaboración, evaluación y actualización del plan de gobierno municipal y de los planes y programas derivados del mismo; y (sic),
 
 VI. Promover la celebración de convenios tendientes a orientar los esfuerzos para lograr los objetivos del desarrollo integral del Municipio;
 
@@ -217,21 +233,39 @@ El Consejo Técnico se integrará por:
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. Un Secretario Técnico, que será el titular de la Dirección General de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-III. Los Coordinadores de cada una de las Comisiones de Trabajo;
+II. Un Secretario Técnico, que será el Director General del IMPLAN;
 
-IV. El Vocal Ejecutivo de la Unidad de Control y Vigilancia, que será el titular de la Contraloría Municipal;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-V. El Vocal Ejecutivo de la Unidad de Información y Estadística, que será el Director de la Unidad de Información y Estadística del COPLADEMI;
+III. Un Secretario Ejecutivo, que será el Titular de la Dirección General de Desarrollo Social y Humano;
 
-VI. El Tesorero Municipal y los Directores Generales de la Administración Pública Municipal que señale el Ayuntamiento; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-VII. Los funcionarios de la Administración Pública Municipal, cuando de acuerdo a su competencia, resulten indispensables para el desarrollo de algún tema a tratar por el Consejo Técnico; éstos participarán como invitados especiales con derecho a voz pero sin voto.
+IV. Los siguientes vocales:
+
+A) Los coordinadores de cada una de las comisiones de trabajo;
+
+B) Un vocal de control y vigilancia, que será el titular de la Contraloría Municipal;
+
+C) Un vocal ejecutivo, que será el Director de la Unidad de Control y Seguimiento al COPLADEMI;
+
+D) El tesorero municipal y los directores generales de la administración pública municipal que señale el Ayuntamiento; y,
+
+E) Los funcionarios de la administración pública municipal, cuando de acuerdo a su competencia, resulten indispensables para el desarrollo de algún tema a tratar por el Consejo Técnico; estos participarán como invitados especiales con derecho a voz pero sin voto.
+
+V. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
+
+VI. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
+
+VII. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 18.
 
-Podrán participar en las sesiones del Consejo Técnico del COPLADEMI, a invitación expresa y por escrito del H. Ayuntamiento, todas aquellas personas de los sectores público, social y privado que determine puedan colaborar en las acciones y proyectos de planeación que se lleven a cabo; así como las autoridades federales y estatales, representantes de los organismos no gubernamentales, directores de instituciones de educación superior y centros de investigación que operen y desarrollen proyectos de interés para el Municipio.
+Podrán participar en las sesiones del Consejo Técnico del COPLADEMI, a invitación expresa y por escrito del Presidente del Consejo Técnico, todas aquellas personas de los sectores público, social y privado que determine puedan colaborar en las acciones y proyectos de planeación que se lleven a cabo.
 
 Para efectos del párrafo anterior, las personas invitadas a participar tendrán derecho a voz, pero sin voto.
 
@@ -247,11 +281,13 @@ III. Establecer las líneas de acción a las que se sujetarán cada una de las C
 
 IV. Coordinar, evaluar y dar seguimiento a las actividades de las Comisiones de Trabajo;
 
-V. Integrar las fichas técnicas que correspondan a las propuestas de obras realizadas por los Comités de Participación Ciudadana, que le hayan sido remitidas por las Comisiones de Trabajo, y en su caso, elaborar el expediente técnico y la cédula de información básica que soporte la viabilidad del proyecto;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+V. Promover el funcionamiento del Sistema Municipal de Planeación;
 
 VI. Proponer por conducto del Presidente, las modificaciones al Reglamento y a los mecanismos de participación ciudadana que coadyuven al mejor funcionamiento del Sistema de Planeación;
 
-VII. Crear las Comisiones de Trabajo que sean necesarias para sectorizar la planeación municipal, en función de los ámbitos establecidos para el desarrollo municipal y de conformidad con las prioridades y necesidades emanadas de los planes de Gobierno Municipal y de Gobierno;
+VII. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
 
 VIII. Las demás que señalan las leyes de la materia y disposiciones aplicables.
 
@@ -259,13 +295,17 @@ VIII. Las demás que señalan las leyes de la materia y disposiciones aplicables
 
 De las sesiones del Consejo Técnico:
 
-I. El Consejo deberá sesionar de manera ordinaria cuatro veces al año y extraordinariamente cuando lo estime necesario, previa convocatoria del Presidente del Consejo Técnico o cuando más el 50% más uno de los representantes de las Comisiones de Trabajo así lo requieran, éstos podrán solicitar al Secretario Técnico para que emita la convocatoria;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+I. El Consejo deberá sesionar de manera ordinaria cuatro veces al año y extraordinariamente cuando lo estime necesario, previa convocatoria del Presidente del Consejo Técnico o cuando el 50% más uno de los representantes de las Comisiones de Trabajo le soliciten al Secretario Técnico que emita la convocatoria;
 
 II. La convocatoria contendrá el lugar, fecha, hora y el orden del día, se entregará de manera personal un ejemplar a cada uno de los integrantes del Consejo Técnico, con un mínimo de 72 horas de anticipación a la fecha de sesión ordinaria y con 48 horas tratándose de sesiones extraordinarias;
 
 III. Las sesiones deberán constituir espacios de coordinación y concertación de los esfuerzos sociales con miras a resolver la problemática del desarrollo integral del Municipio a través de las tareas de planeación participativa, y evaluación de las acciones públicas;
 
-IV. Las sesiones serán válidas con la asistencia de más de la mitad de sus integrantes; asimismo, las faltas del Presidente del Consejo Técnico serán suplidas por el Secretario Técnico, en cuyo caso el Vocal Ejecutivo de la Unidad de Información y Estadística, realizará las funciones de secretario;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+IV. Las sesiones serán válidas con la asistencia de más de la mitad de sus integrantes; asimismo, las faltas del Presidente del Consejo Técnico serán suplidas por el Secretario Ejecutivo, en cuyo caso el Vocal Ejecutivo, realizará las funciones de secretario;
 
 V. De no existir el quórum legal en la convocatoria, se convocará por segunda ocasión, y de no existir aún el quórum requerido se celebrará la sesión con el número de asistentes;
 
@@ -295,7 +335,9 @@ VII. Remover de sus cargos, con la aprobación de la mayoría de los presentes e
 
 VIII. Establecer un canal de comunicación con el Ejecutivo Estatal, para el cumplimiento de los programas y acciones concertadas entre el Estado y el Municipio en el marco de los convenios correspondientes;
 
-IX. Convocar personalmente o a través del Secretario Técnico al pleno del COPLADEMI o al Consejo Técnico, cuando así lo estime conveniente;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+IX. Convocar personalmente o a través del Secretario Ejecutivo al pleno del COPLADEMI o al Consejo Técnico, cuando así lo estime conveniente; y (sic),
 
 X. Presentar al H. Ayuntamiento para su consideración y aprobación en su caso, la propuesta del programa anual de inversión de los recursos federales;
 
@@ -309,53 +351,109 @@ XIII. Las demás que le señalen el presente reglamento y disposiciones legales 
 
 Son atribuciones del Secretario Técnico las siguientes:
 
-I. Llevar a cabo el seguimiento y evaluación de la actividad del COPLADEMI;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-II. Fomentar la participación de los miembros del Consejo Técnico;
+I.- analizar e interpretar la información y estadísticas en apoyo de la gestión administrativa del gobierno municipal;
 
-III. Promover el funcionamiento del Sistema de Planeación;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-IV. Coordinar los trabajos para el diagnóstico, integración, actualización, seguimiento y evaluación del Plan Municipal de Desarrollo y el apoyo del COPLADEMI a la integración, actualización y evaluación del Plan de Gobierno y los programas emanados de éste;
+II.- integrar las fichas técnicas que correspondan a las propuestas de obras realizadas por los comités de participación ciudadana, que le hayan sido remitidas por las comisiones de trabajo, y en su caso, elaborar el expediente técnico y la cédula de información básica que soporte la viabilidad del proyecto;
 
-V. Convocar a solicitud del Presidente del Consejo técnico al pleno del mismo;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-VI. Declarar en quórum para la celebración de las sesiones del Consejo Técnico;
+III.- elaborar y revisar anualmente, en coordinación con el vocal ejecutivo, el diagnostico de la realidad municipal en sus diversos ámbitos de desarrollo que refleje las necesidades y demandas sociales;
 
-VII. Conducir el orden del día de las sesiones del Consejo Técnico;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-VIII. Levantar las actas de las sesiones del pleno del COPLADEMI y del Consejo Técnico;
+IV.- coordinar los trabajos para el diagnóstico, integración, actualización, seguimiento y evaluación del plan municipal de desarrollo;
 
-IX. Compilar y procesar los informes anuales de las Comisiones de Trabajo, y emitir un informe general anual de la actividad realizada por el Consejo Técnico;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-X. Supervisar la ejecución de las políticas, procedimientos y acuerdos tomados en por el Consejo Técnico, y difundir las resoluciones y trabajos del mismo;
+V.- establecer mecanismos de coordinación con las unidades de información y estadística del sector público federal, estatal; así como con instituciones y con las dependencias municipales con el objeto de recopilar información confiable y oportuna;
 
-XI. Representar al Consejo Técnico, en ausencia del Presidente del mismo;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-XII. Conservar y llevar el archivo de actas, acuerdos, programas, informes y asuntos en general del Consejo Técnico;
+VI.- sistematizar los procesos de captura de la información y formular un programa de desarrollo informático;
 
-XIII. Llevar el registro de organizaciones, asociaciones y Comités de Participación Ciudadana que se constituyan conforme a este Reglamento;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-XIV. Gestionar y vigilar los recursos humanos, de asesoría, tecnológicos, materiales y financieros necesarios para la eficaz realización de las actividades del Consejo Técnico y de sus Comisiones de Trabajo;
+VII.- servir de enlace gubernamental entre el COPLADEMI y el COPLADEG, así como con otros organismos gubernamentales del estado o de la federación relacionados con la planeación;
 
-XV. Proponer al Presidente las asesorías y acciones de capacitación sobre organización, valores sociales y trabajo comunitario, necesarias para el cumplimiento de los objetivos del COPLADEMI, el buen desempeño de las Comisiones de Trabajo y Comités de Participación Ciudadana; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+VIII.- supervisar la ejecución de las políticas, procedimientos y acuerdos tomados por el consejo técnico, y difundir las resoluciones y trabajos del mismo;
+
+IX. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
+
+X. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
+
+XI. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
+
+XII. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
+
+XIII. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
+
+XIV. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
+
+XV. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
 
 XVI. Las demás que le otorguen las leyes de la materia y el presente reglamento.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 22 A.- Son atribuciones del secretario ejecutivo las siguientes:
+
+I.- Llevar a cabo el seguimiento y evaluación de la actividad del COPLADEMI;
+
+II.- Fomentar la participación de los miembros del consejo técnico;
+
+III.- Convocar a solicitud del presidente del consejo técnico al pleno del mismo;
+
+IV.- Declarar el quórum para la celebración de las sesiones del consejo técnico;
+
+V.- Conducir el orden del día de las sesiones del consejo técnico;
+
+VI.- Levantar las actas de las sesiones del pleno del COPLADEMI y del consejo técnico;
+
+VII.- Representar al consejo técnico, en ausencia del presidente del mismo;
+
+VIII.- Gestionar ante las autoridades federales o estatales la asignación de recursos a través de los programas establecidos por dichas dependencias en beneficio del municipio;
+
+IX.- Suplir las faltas del presidente en las sesiones del consejo;
+
+X.- Compilar y procesar los informes anuales de las comisiones de trabajo, y emitir un informe general anual de la actividad realizada por el consejo técnico;
+
+XI.- Conservar y llevar el archivo de actas, acuerdos, programas, informes y asuntos en general del consejo técnico;
+
+XII.- Llevar el registro de organizaciones, asociaciones y comités de participación ciudadana que se constituyan conforme a este reglamento;
+
+XIII.- Gestionar y vigilar los recursos humanos, de asesoría, tecnológicos, materiales y financieros necesarios para la eficaz realización de las actividades del consejo técnico y de sus comisiones de trabajo;
+
+XIV.- Proponer al presidente las asesorías y acciones de capacitación sobre organización, valores sociales y trabajo comunitario, necesarias para el cumplimiento de los objetivos del COPLADEMI, el buen desempeño de las comisiones de trabajo y comités de participación ciudadana; y,
+
+XV.- Las demás que le otorguen las leyes de la materia y el presente reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 23.
 
-Son atribuciones de los Coordinadores de las Comisiones de Trabajo ante el Consejo Técnico, las siguientes:
+Son atribuciones de los Vocales Coordinadores de las Comisiones de Trabajo ante el Consejo Técnico, las siguientes:
 
 I. Participar responsablemente de las actividades del Consejo Técnico;
 
 II. Servir de enlace entre el Consejo Técnico, las Comisiones y los sectores sociales que esta representa;
 
-III. Informar del avance de los Planes y programas de la comisión para su seguimiento y evaluación, de cualquier situación que se presente en las Comisiones que sea de interés para el correcto desarrollo del objeto de la Comisión de Trabajo que representan; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+III. Informar del avance de los Planes y programas de la comisión para su seguimiento y evaluación; y
 
 IV. Las demás que señalen las leyes aplicables, el presente reglamento y el Consejo Técnico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 24.
 
-Son atribuciones del Vocal Ejecutivo de Control y Vigilancia, las siguientes:
+Son atribuciones del Vocal de Control y Vigilancia, las siguientes:
 
 I. Verificar el cumplimiento del Plan Municipal de Desarrollo, del Plan de Gobierno Municipal y de los programas derivados de éste;
 
@@ -367,35 +465,45 @@ IV. Presentar ante el Consejo Técnico las quejas, observaciones y sugerencias q
 
 V. Las demás que en materia de control y vigilancia se hagan necesarias para garantizar que las acciones sean congruentes al marco de legalidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 25.
 
-Son atribuciones del Vocal Ejecutivo de la Unidad de Información y Estadística del COPLADEMI, las siguientes:
+Son atribuciones del Vocal Ejecutivo, las siguientes:
 
 I.- Recabar, capturar, seleccionar y procesar la información necesaria para la consecución de los objetivos del COPLADEMI;
 
-II.- Establecer mecanismos de coordinación con las unidades de información y estadística del Sector Público Federal, Estatal; así como con instituciones y con las dependencias municipales con el objeto de recopilar información confiable y oportuna;
+II.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
 
-III.- Elaborar y revisar anualmente el diagnostico de la realidad Municipal en sus diversos ámbitos de desarrollo que refleje las necesidades y demandas sociales;
+III.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
 
 IV.- Recopilar la información que proporcionen los comités de participación ciudadana, asociaciones y agrupaciones directamente o por conducto de las comisiones de trabajo del COPLADEMI;
 
-V.- Sistematizar los procesos de captura de la información y formular un programa de desarrollo informático;
+V.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
 
-VI.- Analizar e interpretar la información y estadísticas en apoyo de la gestión administrativa del Gobierno Municipal;
+VI.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
 
 VII.- Promover entre la población el uso de información generada por el Sistema de Planeación, y;
 
-VIII.- Suplir al Secretario Técnico cuando este se desempeñe como Presidente del Consejo Técnico.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-El presupuesto municipal de egresos asignará recursos para el funcionamiento de la Unidad de información y estadística del COPLADEMI
+VIII.- Suplir al Secretario Ejecutivo cuando este se desempeñe como Presidente del Consejo Técnico.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+El presupuesto municipal de egresos, asignará recursos para el funcionamiento de la Unidad de Control y seguimiento al COPLADEMI.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 26.
 
-Son atribuciones del Tesorero Municipal y los Directores Generales de la Administración Pública Municipal, las siguientes:
+Son atribuciones del Tesorero Municipal y los Directores Generales de la Administración Pública Municipal, como Vocales, las siguientes:
 
 I.- Participar activamente y aportar elementos que apoyen la elaboración del Plan Municipal de Desarrollo y el Plan de Gobierno Municipal o su actualización;
 
-II.- Proponer al Consejo Técnico, nuevos planes y programas que dentro del ámbito de su competencia consideren necesarios para el desarrollo del Municipio;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+II.- Proponer al Consejo Técnico, acciones, proyectos y obras que actualicen y mejoren los planes y programas que dentro del ámbito de su competencia consideren necesarios para el desarrollo del Municipio;
 
 III.- Proveer al Consejo Técnico de los insumos necesarios para la Planeación Municipal, relativos a su correspondiente esfera de competencia; y
 
@@ -425,7 +533,9 @@ VI. Desarrollo Rural;
 
 VII. Salud;
 
-VIII. Asistencia Social;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+VIII. Desarrollo y Asistencia Social; y (sic)
 
 IX. Educación, Cultura y Deporte;
 
@@ -437,27 +547,45 @@ XI. Las demás que, de conformidad a las condiciones específicas del Municipio,
 
 El ámbito de acción sectorial de las Comisiones de Trabajo será municipal y cada una estará integrada por:
 
-I. Un Coordinador, que será el representante de la Comisión de Trabajo ante el Consejo Técnico, miembro de la sociedad que no ocupe cargo público, caracterizado por su capacidad, reconocimiento y representatividad en el área o sector con el que se vincula; el cual, será designado por el Presidente del COPLADEMI. Durará en su encargo dos años, pudiendo ser reelecto, hasta por un periodo igual;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-II. Un Secretario Técnico, que será el titular de la dependencia de la administración pública municipal, relacionada con el sector de la Comisión de Trabajo con el que se vincule, o en su defecto la persona que designe el Presidente del COPLADEMI;
+I. Un Coordinador, designado por el Presidente del Consejo Técnico y que representará a la Comisión de trabajo ante el mismo Consejo Técnico. Este nombramiento deberá recaer en un miembro de la sociedad que no ocupe cargo público, caracterizado por su capacidad, reconocimiento y representatividad en el área o sector con el que se vincula, dándose prioridad a aquellos que formen parte de un Consejo Municipal que se relacione con la materia de la Comisión;
+
+Los coordinadores durarán en su cargo tres años pudiendo ser reelectos, hasta por un periodo igual;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+II. Un Secretario Técnico, que será el titular de la dependencia o entidad de la administración pública municipal, relacionada con el sector de la Comisión de Trabajo con el que se vincule, o en su defecto la persona que designe el Presidente del COPLADEMI;
 
 III. Un Consejero representante del H. Ayuntamiento, nombrado en sesión de Ayuntamiento en función del conocimiento que tengan en el tema relacionado con el ámbito de desarrollo de cada Comisión de Trabajo;
 
-IV. Un Consejero Vocal de Control y Vigilancia, que será miembro de la sociedad, que no ocupe cargo público, designado por el Consejo Técnico a propuesta de la Comisión en su primera sesión, mismo que durará en su encargo dos años, pudiendo ser reelecto hasta por un periodo igual; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
-V. Dos Consejeros, uno representando en las Comisiones a la zona urbana, que resulte electo por el Consejo Municipal Urbano, en caso de no existir éste, el que designen de entre los presidentes de los Comités de Participación Ciudadana; y otro representando la zona rural, que resulte electo por el Consejo Municipal Rural, quienes durarán en su encargo dos años, pudiendo ser reelectos hasta por un periodo igual.
+IV. Un Consejero Vocal de Control y Vigilancia, que será miembro de la sociedad, que no ocupe cargo público, designado por el Consejo Técnico a propuesta de la Comisión en su primera sesión, mismo que durará en su encargo tres años, pudiendo ser reelecto hasta por un periodo igual;
 
-El Consejo Técnico, cuidará que los consejeros representantes del H. Ayuntamiento en las comisiones de trabajo se integren proporcionalmente al número de miembros que tenga el Ayuntamiento.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+V. Dos Consejeros, uno representando en las Comisiones a la zona urbana y otro a la zona rural, que serán designados por el Ayuntamiento de entre las propuestas que realicen los Comités de participación ciudadana y el consejo municipal rural respectivamente, quienes durarán en su encargo tres años, pudiendo ser reelectos hasta por un periodo igual, y
+
+> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PARRAFO], P.O. 23 DE OCTUBRE DE 2009)</small>
+
+VI. El Consejo Técnico, cuidará que los consejeros representantes del H. Ayuntamiento en las comisiones de trabajo se integren proporcionalmente al número de miembros que tenga el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+Los Coordinadores, Consejeros Vocales Control y Vigilancia y Consejeros de la Zona Urbana y Rural miembros de las Comisiones de trabajo del COPLADEMI serán ratificados o renovados en el mes dieciocho de cada administración pública municipal.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 30.
 
-Para la elección de los consejeros de las zonas urbana y rural, el Ayuntamiento, dentro de los primeros 20 días naturales de su gestión, convocará a la Sociedad para la integración de las Comisiones de Trabajo y a los Consejos Municipales Rural y Urbano para desarrollar el siguiente procedimiento:
+Para la elección de los consejeros de las zonas urbana y rural, el Ayuntamiento, dentro de los primeros veinte días naturales de su gestión, convocará a la Sociedad para la integración de las Comisiones de Trabajo, así como a los Comités de participación ciudadana y al Consejo Municipal rural para desarrollar el siguiente procedimiento:
 
-I. Dentro de los veinte días naturales siguientes a la fecha en que se emita la convocatoria, ambos Consejos Municipales, tanto de la zona rural como la urbana, deberán designar a su representante para la respectiva Comisión de Trabajo; y (sic)
+I. Dentro de los veinte días naturales siguientes a la fecha en que se emita la convocatoria, los comités de participación ciudadana y el consejo municipal rural deberán designar a sus representantes propuestos para integrar la respectiva Comisión de Trabajo; y, (sic)
 
-II. Una vez que el Ayuntamiento ha recibido la designación de los Consejos Rural y Urbano acompañada debidamente del acta de asamblea por la cual fueron designados con tal carácter, deberá en su caso, ratificar las propuestas.
+II. El Ayuntamiento, una vez que haya recibido las propuestas de representantes de los comités de participación ciudadana y del consejo municipal rural debidamente acompañadas del acta de asamblea en la que fueron designados, deberán en su caso, ratificar los nombramientos; y,
 
-III. En caso de que no existiera algún Consejo Municipal, el H. Ayuntamiento convocará, sustituyendo al Urbano a los Comités de Participación Ciudadana, y en el supuesto del Rural, a los Delegados Municipales de la zona rural; para que en un plazo no mayor de veinte días naturales, remitan las propuestas, para elegir tres consejeros uno representando a la zona urbana, uno a la zona rural y otro de control y vigilancia.
+III. (DEROGADA, P.O. 23 DE OCTUBRE DE 2009)
 
 ###### ARTÍCULO 31.
 
@@ -547,7 +675,9 @@ VII. Asesorar y aportar elementos técnicos y normativos que proporcionen altern
 
 VIII. Informar a los demás integrantes de la Comisión, el modo de operar en general del gobierno municipal y del área a que pertenece;
 
-IX. Transmitir las experiencias de la Administración Pública Municipal, Estatal o Federal que aporten elementos para mejorar la planeación municipal; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+IX. Transmitir las experiencias de la Administración Pública Municipal, Estatal o Federal que aporten elementos para mejorar el sistema de planeación municipal; y
 
 X. Las demás que le otorguen el presente reglamento y disposiciones legales aplicables.
 
@@ -583,9 +713,11 @@ V. Someter a discusión de la Comisión, las iniciativas para mejorar la vigilan
 
 VI. Las demás que le otorguen el presente reglamento y disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 37.
 
-Son atribuciones de los Consejeros las siguientes:
+Son atribuciones de los Consejeros de las zonas urbana y rural las siguientes:
 
 I. Participar activamente en el desarrollo del objeto de la Comisión;
 
@@ -679,11 +811,15 @@ III. Prioridades y objetivos para el desarrollo del Municipio; y
 
 IV. Estrategias y acciones propuestas para lograr el desarrollo proyectado.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 49.
 
-El COPLADEMI contará con el plazo de un año, a partir de la toma de posesión del Ayuntamiento, para someter a su consideración la actualización del Plan Municipal de Desarrollo.
+El COPLADEMI contará con el auxilio del implan para la elaboración y actualización del plan municipal de desarrollo, quien determinará su viabilidad y lo turnará al COPLADEMI para su aprobación.
 
-Una vez aprobada la actualización del Plan Municipal de Desarrollo se publicará en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+El COPLADEMI contará con el plazo de un año, a partir de la toma de posesión del ayuntamiento, para someter a su consideración la actualización del plan municipal de desarrollo.
+
+Una vez aprobada la actualización del plan municipal de desarrollo se publicará en el periódico oficial del gobierno del estado de Guanajuato.
 
 ### CAPÍTULO XIII. DEL PLAN DE GOBIERNO MUNICIPAL
 
@@ -792,3 +928,15 @@ PRESIDENTE MUNICIPAL
 ING. JOSÉ DE JESÚS FÉLIX SERVÍN
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL CUARTO DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO.
+
+###### ARTÍCULO SEGUNDO.
+
+POR ESTA ÚNICA OCASIÓN, LOS COORDINADORES, CONSEJEROS VOCALES DE CONTROL Y VIGILANCIA Y CONSEJEROS DE LA ZONA URBANA Y RURAL MIEMBROS DE LAS COMISIONES DE TRABAJO DEL COPLADEMI, SERÁN RATIFICADOS O RENOVADOS EN EL MES DIECIOCHO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL 2009-2012.
