@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2009-del-pleno-del-consejo-de-la-68556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-27"
-last_updated: "2009-05-27"
+last_updated: "2009-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-15"
 
 ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACION Y DIFUSION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE OCTUBRE DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de mayo de 2009.
 
@@ -57,13 +57,13 @@ Las sesiones ordinarias serán celebradas, por lo menos, una vez por semana, y t
 
 Sólo podrán dejar de celebrarse cuando así lo determine el Pleno del tribunal colegiado de Circuito en la sesión inmediata anterior, o por causa de fuerza mayor o caso fortuito.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 49/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 3.
 
-Las sesiones ordinarias iniciarán y culminarán dentro del horario hábil establecido para la atención al público.
+Las sesiones ordinarias se celebrarán dentro del horario comprendido entre las 9:00 y las 15:00 horas, al prudente arbitrio del Pleno del Tribunal Colegiado de Circuito.
 
-El horario de atención es el tiempo hábil comprendido entre las 9:00 y las 15:00 horas.
-
-Cuando así lo requiera el desahogo de los asuntos listados, el horario de las sesiones ordinarias podrá ampliarse hasta las 19:00 horas, en términos del artículo 281 del Código Federal de Procedimientos Civiles.
+Cuando así lo requiera el desahogo de los asuntos listados, el horario de las sesiones ordinarias podrá ampliarse hasta las 19:00 horas, en términos de lo dispuesto por el artículo 281 del Código Federal de Procedimientos Civiles.
 
 Las sesiones ordinarias sólo podrán ser suspendidas o postergadas por acuerdo debidamente fundado y motivado del tribunal.
 
@@ -258,3 +258,13 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. En la primera sesión inmediata posterior a la vigencia del presente Acuerdo, los magistrados que integran los tribunales colegiados de Circuito, darán cumplimiento a los puntos referidos en el artículo 5 de este Acuerdo, sin perjuicio de que en la primera sesión del año se acate nuevamente.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 16/2009, del Pleno del Consejo de la Judicatura Federal, que Regula las Sesiones de los Tribunales Colegiados de Circuito y Establece los Lineamientos para su Videograbación y Difusión, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de quince de abril de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, María Teresa Herrera Tello, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a dieciocho de mayo de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 16/2009, que Regula las Sesiones de los Tribunales Colegiados de Circuito y Establece los Lineamientos para su Videograbación y Difusión.
