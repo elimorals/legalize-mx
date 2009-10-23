@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-174
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-04"
-last_updated: "2008-09-26"
+last_updated: "2009-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 23 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de agosto de 2000.
 
@@ -1290,3 +1292,13 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 26 DE SEPTIEMBRE DE 2008.
 
 Artículo Único. La presente Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE OCTUBRE DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 31, de fecha 4 de agosto de 2000.
+
+Artículo Tercero. Seguirá vigente el Reglamento Interno del Centro de Reinserción Social del Estado de Querétaro, hasta en tanto no se emitan las disposiciones a que se refiere el artículo 3 de la presente Ley.
+
+Artículo Cuarto. En tanto se crean las prisiones a que se refiere el artículo 18 de la presente Ley, se procurará establecer áreas afines o equivalentes a dicha satisfacción en las instituciones existentes que integran el Sistema Penitenciario del Estado.
