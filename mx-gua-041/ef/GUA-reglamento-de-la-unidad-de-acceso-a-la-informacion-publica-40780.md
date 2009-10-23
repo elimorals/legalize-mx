@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4078
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-27"
-last_updated: "2004-08-27"
+last_updated: "2009-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE URIANGATO, GUANAJUATO
 
-REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE URIANGATO GUANAJUATO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE URIANGATO, GUANAJUATO, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE URIANGATO GUANAJUATO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2009 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de agosto de 2004.
 
@@ -492,3 +494,15 @@ Presidente Municipal
 J. Jesús Martínez Muñoz
 
 Secretario del H. Ayuntamiento
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE OCTUBRE 2009.
+
+Artículo Primero. El presente reglamento, entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, de acuerdo a lo dispuesto en el Artículo 61 de la Constitución Política del Estado de Guanajuato.
+
+Artículo Segundo. El presente Reglamento, al momento de su entrada en vigor abroga en su totalidad al REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE URIANGATO, GTO de Fecha de Publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato el día 27 de agosto de 2004 Año XCI Tomo CXLlI Número 138.
+
+Artículo Tercero. La Unidad de acceso a la Información Pública contará con el presupuesto, estructura física y administrativa y medios informáticos que resulten necesarios para el ejercicio de sus funciones.
+
+Artículo Cuarto. La capacitación a cada uno de los servidores de las Dependencias y Entidades de la Administración Pública Municipal, deberá ser proporcionada por la Unidad de Acceso a la Información Pública del Municipio de Uriangato, Guanajuato.
