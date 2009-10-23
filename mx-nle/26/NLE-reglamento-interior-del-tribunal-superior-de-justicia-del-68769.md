@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2009-05-22"
+last_updated: "2009-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -261,9 +261,11 @@ Otras atribuciones del Pleno.
 
 Opinión para la confirmación o remoción de jueces. Al Consejo de la Judicatura corresponde resolver sobre la confirmación o remoción de los jueces, en términos de lo prescrito por el artículo 99 de la Constitución del Estado, considerando la opinión del Pleno del Tribunal Superior de Justicia. Para emitir esta opinión, oportunamente se informará a los magistrados, los términos en que estarán a su disposición para consulta, los expedientes generados por el Consejo de la Judicatura y relativos a los jueces cuya confirmación o remoción deba resolverse. También, el Pleno encargará a una comisión de magistrados que elabore y presente, para su aprobación, un proyecto de dictamen en el que se incluya la propuesta de opinión del Pleno, relativa a cada uno de los referidos jueces.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 27.
 
-Quejas. Las quejas formuladas en contra del personal del Tribunal Superior de Justicia y las áreas a su cargo, por conductas previstas como ilícitas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, serán tramitadas, sancionadas y recurridas, conforme a lo previsto en la referida ley.
+Quejas. Las quejas formuladas en contra del personal del Tribunal Superior de Justicia y las áreas a su cargo, por conductas previstas como ilícitas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, serán tramitadas y sancionadas, conforme a lo previsto en la referida ley.
 
 Desde el momento en que se admite la queja, durante su tramitación o al resolver la misma, el Presidente o el Pleno, dentro de su respectivo ámbito de competencia, podrán dictar las medidas que estimen necesarias, para la corrección o remedio inmediato de la irregularidad o irregularidades denunciadas y sus efectos.
 
@@ -413,9 +415,13 @@ La Tercera Sala Colegiada Penal, se integrará por los titulares de las salas un
 
 La Cuarta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Décima, Undécima y Duodécima.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO POR EL QUE SE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 38.
 
-Competencia de las Salas Colegiadas Civiles. Las Salas Colegiadas Civiles conocerán de las apelaciones contra sentencias definitivas en materia civil derivados de los procedimientos que a continuación se indican:
+Competencia de las Salas Colegiadas Civiles. Las Salas Colegiadas Civiles conocerán de cualquier recurso de apelación derivado de los procedimientos de extinción de dominio. Asimismo, serán competentes para conocer de las apelaciones contra sentencias definitivas en materia civil deducidas de los procedimientos que a continuación se indican:
 
 I. Juicios Ordinarios Civiles;
 
@@ -533,6 +539,106 @@ Noticia de asuntos jurisdiccionales. El Secretario General de Acuerdos del Pleno
 
 Los Magistrados titulares de Sala Unitaria, así como los Presidentes de las Salas Colegiadas, remitirán sobre su respectiva Sala, un informe mensual dentro de los ocho días siguientes a la terminación del mismo al Pleno del Tribunal, así como al Pleno del Consejo de la Judicatura, en el cual se detallen los negocios despachados y los que quedaren pendientes de resolver.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN P.O. 23 DE OCTUBRE DE 2009)</small>
+
+## TÍTULO OCTAVO.
+
+De la formación de la lista oficial de peritos.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 54.
+
+Fines de la lista oficial y atributos de los peritos. El Tribunal Superior de Justicia elaborará la lista oficial de peritos, procurando que ésta se integre por expertos que garanticen profesionalidad, objetividad e imparcialidad, así como efectiva disponibilidad para actuar como auxiliares en la impartición de justicia al prestar la función pública de peritaje.
+
+La profesionalidad del perito está determinada por la calidad y profundidad de sus conocimientos especializados en el área del saber humano en la cual es experto; y por sus conocimientos forenses necesarios para desempeñar adecuadamente su labor ante los órganos judiciales.
+
+La objetividad e imparcialidad están determinadas por la capacidad del perito para abstraerse de cualquier interés o afinidad particulares, superar la subjetividad, y producir sus opiniones con apego a la verdad y a las leyes de su respectiva ciencia o técnica. Esta objetividad e imparcialidad deberá reflejarse en sus dictámenes, que estarán basados en hechos comprobables y en criterios y razonamientos que deberán expresarse por escrito.
+
+La efectiva disponibilidad para actuar como auxiliar en la impartición de justicia, implica no rechazar o incumplir injustificadamente la función pública de peritaje, una vez que sea designado perito por un juzgador del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 55.
+
+Convocatoria. En el mes de octubre de cada año, el Pleno emitirá una convocatoria que incluirá, entre otras, las siguientes bases: el catálogo enunciativo de las distintas especialidades del conocimiento humano en la que se requieren peritos; los requisitos que deben cumplir y la documentación que deberán acompañar los solicitantes de ingreso o reingreso a la lista oficial de peritos; y el lugar y plazo para la recepción de solicitudes y documentos.
+
+En la convocatoria podrán establecerse requisitos específicos para cada especialidad, entre otros: contar con la certificación que expidan las universidades o instituciones de educación superior, las entidades o asociaciones especializadas, o los colegios de profesionistas que se precisen en la convocatoria respectiva, y con los cuales el Tribunal Superior de Justicia haya suscrito convenio de colaboración para ese efecto; o, en su caso, acreditar un determinado número mínimo de horas en cursos de actualización.
+
+En la convocatoria podrá establecerse para cada especialidad, atendiendo a las necesidades de la administración de justicia, un número máximo de peritos que serán registrados en la lista oficial. En estos casos, la convocatoria también definirá los criterios conforme a los cuales los peritos deberán ser seleccionados, en caso de que el número de solicitantes que reúnan los requisitos exceda de dicho número máximo.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 56.
+
+Aprobación de la lista oficial. El Pleno del Tribunal Superior de Justicia aprobará, en el mes de enero de cada año, la lista oficial de peritos que hayan reunido los requisitos previstos en la ley y en la convocatoria respectiva. Esta lista se publicará, con efectos de notificación, en el Boletín Judicial; de igual forma, podrá ser consultada, incluyendo sus actualizaciones, en el portal electrónico oficial del Poder Judicial.
+
+Si una vez publicada la lista oficial, apareciere que el número de peritos listados en una determinada especialidad, no es suficiente para satisfacer las necesidades de la administración de justicia, el Pleno podrá emitir nueva convocatoria para el registro de peritos en las especialidades deficitarias.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 57.
+
+Baja por faltas. El Pleno del Tribunal Superior de Justicia dará de baja de la lista oficial, de manera definitiva, a los peritos que incurran en cualquiera de las siguientes faltas:
+
+I. Emitir dictamen de baja calidad manifiesta, o que revele incompetencia o parcialidad manifiesta, o que esté fundado en datos o apreciaciones notoriamente falsas;
+
+II. Negarse a prestar sus servicios, sin causa justificada, habiendo sido designado perito por las autoridades judiciales del Estado, o rendir su dictamen fuera de término;
+
+III. Haber obtenido su registro como perito en la lista oficial, mediante datos falsos, u omitir información determinante para el registro;
+
+IV. Recibir, con motivo del dictamen pericial que debe rendir o haya rendido, cualquier pago adicional al que le corresponde legalmente;
+
+V. Revelar, sin causa legal, datos relacionados con la pericial encomendada;
+
+VI. Incurrir, a criterio del Pleno, en conductas que causen desprestigio al Poder Judicial del Estado;
+
+VII. Cuando deje de cumplir con alguna de las obligaciones que le impone la ley.
+
+Las faltas en que incurran los peritos podrán ser denunciadas ante el Presidente del Tribunal Superior de Justicia, por cualquiera que tenga noticia de ellas. El trámite de estas denuncias se regirá por las mismas reglas que, conforme al artículo 27 de este reglamento, son aplicables a las quejas formuladas en contra del personal del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 58.
+
+Baja administrativa. Los peritos causarán baja administrativa de la lista oficial, en los siguientes casos:
+
+I. Cuando omita recoger el oficio que lo acredita como perito de la lista oficial, dentro de los treinta días naturales siguientes a la publicación de la referida lista en el Boletín Judicial;
+
+II. Cuando no pueda ser localizado en virtud de haber omitido comunicar cualquier cambio de domicilio profesional o teléfono;
+
+III. Cuando deje de asistir, sin causa justificada, al curso de inducción referido en el artículo 60 de este reglamento, que anualmente organizará el Tribunal Superior para los peritos incluidos en la lista oficial;
+
+IV. Cuando el perito omita rendir el informe semestral sobre su actividad judicial, a que se refiere el artículo 60 de este reglamento;
+
+V. Cuando el perito así lo solicite voluntariamente.
+
+Cuando se actualice algunos de los supuestos anteriores, el Presidente del Tribunal Superior de Justicia lo informará al Pleno, a efecto de que éste decrete la baja administrativa, la cual será publicada, con efectos de notificación, en el Boletín Judicial.
+
+El perito que cause baja administrativa podrá solicitar su alta, cumpliendo con los requisitos y trámites respectivos, que al efecto se fijen en la lista oficial que deberá ser aprobada en el mes de enero siguiente.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 59.
+
+Comisiones. El Pleno podrá encargar a una o varias comisiones, integradas con el número de magistrados que considere conveniente, las siguientes atribuciones:
+
+I. Elaborar el proyecto de convocatoria anual, que habrá de someterse al Pleno para su aprobación;
+
+II. Evaluar las solicitudes y documentación presentada por los solicitantes de ingreso o reingreso a la lista oficial de peritos, así como el expediente previo que se tenga formado de ellos, para dictaminar quiénes reúnen o no los requisitos previstos en la ley y en la convocatoria para ser incluidos en la lista oficial de peritos;
+
+III. Realizar revisiones aleatorias de los expedientes administrativos de los peritos ya registrados, así como de los dictámenes que éstos rindan cuando hayan sido designados peritos por la autoridad judicial, y proceder como corresponda, en caso de advertir alguna falta.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 60.
+
+Convenios para certificación, cursos y registro. Se promoverán con las instituciones de educación superior y los colegios de profesionistas que correspondan, convenios de colaboración para la certificación de los peritos de determinadas especialidades.
+
+También se organizarán, para los peritos incluidos en la lista oficial, cursos de inducción relativos a los conocimientos jurídico-procesales, forenses y de ética profesional, que deben tener presentes durante el desempeño de su función.
+
+La Secretaría General elaborará un registro estadístico consultable, sobre la actividad judicial de los peritos. Para esto, los juzgadores informarán a la Secretaría General de cada designación de perito que hagan; y cada perito deberá entregar anualmente a la Secretaría General, en el formato aprobado por ésta, dos informes sobre su actividad como perito en procesos judiciales, designado por alguna las partes o por el juez. El primer informe deberá entregarse durante la primera quincena de junio; y el segundo, durante la primera quincena de diciembre de cada año.
+
 TRANSITORIOS:
 
 Primero: El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -550,3 +656,11 @@ Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del 
 José Antonio Gutiérrez Flores.
 
 Secretario General de Acuerdos de la Presidencia y del Pleno del Tribunal Superior de Justicia del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE OCTUBRE DE 2009.
+
+PRIMERO: Las presentes reformas y adiciones al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León tendrán vigencia desde el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la concerniente al artículo 38 del mencionado reglamento, la cual entrará en vigor el 26 veintiséis de octubre de 2009 dos mil nueve.
+
+SEGUNDO: Se ordena la publicación del presente acuerdo por una sola vez en el Boletín Judicial del Tribunal Superior de Justicia del Estado y en el Periódico Oficial del Estado para el conocimiento del personal y del público en general, y su debido cumplimiento.
