@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2009-05-27"
+last_updated: "2009-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACION DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -505,31 +505,51 @@ Artículo 41 Las actividades de supervisión darán preferentemente atención al
 
 #### Sección 3. DE LA EVALUACIÓN
 
-Artículo 42 El Estado asume conceptual y operativamente la evaluación como proceso permanente y elemento esencial que ratifica la finalidad y las metas presentes en todos y cada uno de los hechos educativos, a los que imprime direccionalidad, significancia y pertinencia.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+Artículo 42 El Estado asume conceptual y operativamente la evaluación como proceso permanente y elemento esencial que ratifica la finalidad y las metas presentes en todos y cada uno de los hechos educativos, a los que imprime direccionalidad, significancia, pertinencia, periodicidad y publicidad mediante el Sistema Tabasqueño de Evaluación Educativa.
 
-Artículo 43 La autoridad educativa estatal, evaluará en forma sistemática y permanente el Sistema Educativo del Estado, de conformidad con lo dispuesto por la Ley General de Educación, la presente Ley y los demás ordenamientos legales aplicables.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-Artículo 44 La autoridad educativa estatal integrará un sistema general de evaluación como punto de convergencia de todas las acciones de planeación que se realicen en el Estado de Tabasco, con el objeto de disponer de la información que permita racionalizar el funcionamiento del sistema oportuna y efectivamente, y orientar la política educativa.
+Artículo 43 La autoridad educativa estatal, evaluará en forma sistemática y permanente el Sistema Educativo del Estado, de conformidad con lo dispuesto por la Ley General de Educación, la presente Ley, el Manual de Organización, lineamientos de aplicación y los demás ordenamientos legales aplicables.
 
-Artículo 45 La evaluación estará sustentada en cuatro líneas principales:
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 44 La autoridad educativa estatal integrará el Sistema Tabasqueño de Evaluación Educativa como punto de convergencia de todas las acciones de planeación que se realicen en el Estado, con el objeto de disponer de la información que permita racionalizar el funcionamiento del sistema oportuna y efectivamente, y orientar la política educativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 45 La evaluación estará sustentada en cinco líneas principales:
 
 I.- La evaluación del desempeño de los participantes del hecho educativo, con respecto al cumplimiento de los compromisos específicos de cada uno;
 
 II.- La evaluación del proceso que implica el análisis de las contribuciones de alumnos, docentes, padres de familia, de los diversos sectores y de la sociedad en general para el desarrollo educativo. Esta evaluación permitirá impulsar innovaciones y mejoras en los elementos que intervienen en el proceso de participación social;
 
-III.- La evaluación operativa, cuyo propósito es determinar la pertinencia de la estructura y funcionamiento en su conjunto, para cumplir sus finalidades educativas; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+III.- La evaluación operativa, cuyo propósito es determinar la pertinencia de la estructura y funcionamiento en su conjunto, para cumplir sus finalidades educativas;
 
 IV.- La evaluación de resultados, orientada a establecer el impacto social de los aprendizajes de métodos, lenguajes y valores.
 
-La evaluación se realizará como una práctica anterior a la toma de decisiones para adoptar las medidas procedentes, tendientes a procurar la optimización de recursos para su mejoramiento.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+La evaluación se realizará como una práctica anterior a la toma de decisiones para adoptar las medidas procedentes, tendientes a procurar la optimización de recursos para su mejoramiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
+
+V.- La publicidad de los resultados de las evaluaciones realizadas a fin de que los padres de familias, maestros, servidores públicos y ciudadanos en general, tengan acceso a la información que se obtenga en las mismas.
 
 Artículo 46 Las instituciones educativas oficiales, las establecidas por organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, otorgarán a las autoridades educativas de la entidad, todas las facilidades para la evaluación a que esta sección se refiere.
 
 Para ello, proporcionarán oportunamente toda la información que se les requiera; tomarán las medidas que permitan la colaboración efectiva de alumnos, docentes, directivos y demás participantes en los procesos educativos; otorgarán las facilidades para que la autoridad educativa realice exámenes con fines estadísticos y de diagnóstico y recabe directamente en escuelas la información necesaria.
 
-Artículo 47 La autoridad educativa dará a conocer a los docentes, alumnos, padres de familia y a la sociedad en general los resultados de las evaluaciones que realice, así como la demás información global que permita apreciar el desarrollo y los avances de los procesos así como los servicios educativos en la entidad.
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Y del mismo modo, difundirán los resultados estadísticos que genere el Sistema Tabasqueño de Evaluación Educativa.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 47 La autoridad educativa dará a conocer a los docentes, alumnos, padres de familia y a la sociedad en general los resultados de las evaluaciones que realice, así como la demás información global que permita apreciar el desarrollo y los avances de los procesos así como los servicios educativos en la entidad. Y en su caso, los resultado (sic) específicos que le soliciten los ciudadanos para conocer la situación escolar por materia, salón y grado, zona escolar y municipio, y en todo el Estado por tipo de escuela.
 
 Artículo 48 La evaluación de los educandos estará orientada al logro de desempeños sociales y en general al logro de propósitos establecidos en los planes y programas aplicables.
 
@@ -1434,3 +1454,9 @@ DECRETO 184, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE 
 PRIMERO. El presente Decreto entrará en vigor a partir del día 01 de enero del año 2010, previa su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan las disposiciones de observancia general que se opongan a este decreto.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor a los tres días de haber sido publicado en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Gobernador del Estado deberá expedir, antes del inicio del ciclo escolar 2010-2011 el Manual de Organización y los Lineamientos del Sistema Tabasqueño de Evaluación Educativa.
