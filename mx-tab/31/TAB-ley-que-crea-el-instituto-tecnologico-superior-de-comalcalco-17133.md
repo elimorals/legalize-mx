@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-crea-el-instituto-tecnologico-superior-de-comalcalco-17
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-14"
-last_updated: "1996-02-14"
+last_updated: "2009-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY QUE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DE COMALCALCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 14 de febrero de 1996.
 
@@ -106,6 +106,14 @@ Serán órganos de gobierno del Instituto Tecnológico Superior de Comalcalco:
 I.- La Junta Directiva
 
 II.- El Director
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+a) Director Académico
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+b) Director Administrativo
 
 III.- Los Subdirectores
 
@@ -221,7 +229,13 @@ XIV.- Cumplir con los acuerdos de la Junta Directiva e informar de los resultado
 
 XV.- Celebrar convenios y contratos, así como realizar los actos relacionados con las funciones que determine la Junta Directiva.
 
-XVI.- Las demás que le señalen otras disposiciones.
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XVI.- Otorgar y revocar poderes generales y especiales, para actos de dominio, administración, laboral, pleitos y cobranzas, así como para toda clase de juicios en los que sea parte el Instituto Tecnológico Superior de Comalcalco.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XVII.- Las demás que señalen otras disposiciones.
 
 ### CAPITULO TERCERO. DEL PATRIMONIO
 
@@ -338,3 +352,13 @@ LIC. ROBERTO MADRAZO PINTADO.
 LIC. J. MANUEL TELLAECHE BOSCH,
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+ARTÍCULO SEGUDO (SIC).- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
