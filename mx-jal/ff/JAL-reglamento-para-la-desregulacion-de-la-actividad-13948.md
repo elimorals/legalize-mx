@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-desregulacion-de-la-actividad-13948"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-07"
-last_updated: "1996-12-07"
+last_updated: "2009-10-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO PARA LA DESREGULACION DE LA ACTIVIDAD EMPRESARIAL EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 24 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el sábado 7 de diciembre de 1996.
 
@@ -310,3 +312,13 @@ Ing. Alberto Cárdenas Jiménez
 El Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+PRIMERO. La presente Ley entrará en vigor noventa días hábiles después de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. A partir de la entrada en vigor de la presente Ley, quedarán sin efecto las disposiciones contenidas en el Acuerdo del C. Gobernador del Estado mediante el cual se creó el Comité Estatal para la Desregulación y Promoción Económica de fecha 11 de agosto de 1995, así como el Reglamento para la Desregulación de la Actividad Empresarial de fecha 7 de diciembre de 1996.
+
+TERCERO. Las dependencias y entidades relacionadas en el artículo 16 del presente ordenamiento deberán acreditar un representante ante la Secretaría de Promoción Económica dentro de los 90 días hábiles siguientes a la entrada en vigor de la presente Ley.
