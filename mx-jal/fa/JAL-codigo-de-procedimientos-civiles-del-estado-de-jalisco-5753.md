@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2009-02-05"
+last_updated: "2009-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -1264,9 +1264,9 @@ En este caso, el juicio deberá seguirse con los trámites y solemnidades que se
 
 III.- En todos los demás casos previstos por la Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-En los casos de las fracciones I y II de este artículo los edictos se publicarán tres veces, de tres en tres días, en el boletín judicial y en otro diario de mayor circulación en la entidad; en los casos de emplazamiento el edicto contendrá síntesis de la demanda y se le hará saber al demandado que tiene un término de treinta días contados a partir de la última publicación para contestar la demanda, con los apercibimientos que de no hacerlo se le declarará en rebeldía.
+En los casos de las fracciones I y II de este artículo los edictos se publicarán tres veces, de tres en tres días, en el boletín judicial o en el periódico oficial del Estado, a juicio del juez, así como en un diario de los de mayor circulación en la entidad; en los casos de emplazamiento el edicto contendrá síntesis de la demanda y se le hará saber al demandado que tiene un término de treinta días contados a partir de la última publicación para contestar la demanda, con los apercibimientos que de no hacerlo se le declarará en rebeldía.
 
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
 
@@ -5162,9 +5162,15 @@ III. La rendición de cuentas por tutores, administradores y por todas aquellas 
 
 IV. Los interdictos;
 
-V. La división de cosa común y las diferencias que entre los copropietarios surgieren en la administración, disfrute y en todo lo relativo a la cosa común; y
+V. La división de cosa común y las diferencias que entre los copropietarios surgieren en la administración, disfrute y en todo lo relativo a la cosa común; y (sic)
 
-VI. Los demás en que así lo determine la ley.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VI. Los que se refieran a la pérdida de la patria potestad, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VII. Los demás en que así lo determine la ley.
 
 ###### ARTICULO 619.
 
@@ -5892,19 +5898,39 @@ Contra las sentencias que se dicten en los interdictos procederá la apelación 
 
 Cuando la sentencia decrete la demolición de la obra peligrosa, el Juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
 
-### CAPITULO I.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-De los Juicios en Rebeldía.
+### CAPITULO VII.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+De la Pérdida de la Patria Potestad.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 721 bis.- En el supuesto de la fracción VI del artículo 618 del Código de Procedimientos Civiles del Estado de Jalisco, el actor deberá acompañar a su escrito inicial de demanda los documentos tendientes a la justificación de su acción y ofrecer los medios de convicción que considere adecuados. De la misma manera, al momento de la contestación de la demanda, la contraparte deberá aportar los medios de convicción pertinentes.
+
+El juez debe citar a la audiencia de pruebas y alegatos, dentro de los quince días posteriores a la emisión del auto que declara la rebeldía, admite la contestación de la demanda o de la reconvención, en su caso; resolverá sobre la admisión de las pruebas, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
+
+En este mismo auto, y atendiendo a las circunstancias especiales del caso, el Juez debe dar cumplimiento a los (sic) dispuesto por el artículo 573 del Código Civil, así como ordenar la práctica de cualquiera de las diligencias para mejor proveer que señala el artículo 82, al igual que las previstas por los artículos 283 y 284 de esta Ley y que estime sean necesarias para conocer la verdad sobre los puntos controvertidos, velando siempre por el interés superior de la niñez.
+
+En especial en tratándose de esta clase de juicios no se celebrará la audiencia conciliatoria prevista en el artículo 282 bis de este Código.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 721 ter.- Abierta la audiencia se procederá al desahogo de las pruebas admitidas y de las ordenadas oficiosamente, una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada dentro de los quince días siguientes.
+
+Las partes podrán alegar verbalmente sin que los mismos se excedan de veinte minutos por cada parte.
+
+La audiencia podrá ser diferida, a criterio del Juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el Juez señalará nueva fecha para su celebración dentro de los cinco días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se le tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 ## TITULO DECIMO SEGUNDO.
 
 De los Negocios de Tramitación Especial.
 
-### CAPITULO II.
+### CAPITULO I.
 
-Del Juicio Arbitral.
+De los Juicios en Rebeldía.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5950,11 +5976,11 @@ Si compareciere después del término expresado o durante la segunda instancia, 
 
 El impedimento deberá acreditarse en incidente que se tramitará por cuerda separada, sin suspender más procedimiento que el dictado de sentencia, y contra la resolución que en éste se pronuncie no procederá recurso.
 
-### CAPITULO III.
+### CAPITULO II.
 
-De la Modificación de las Actas del Estado Civil.
+Del Juicio Arbitral.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 730.
 
@@ -6102,11 +6128,11 @@ La apelación sólo será admisible conforme a las reglas del derecho común.
 
 El Juez deberá compeler a los árbitros a cumplir con sus obligaciones.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-Del Divorcio Por Mutuo Consentimiento.
+De la Modificación de las Actas del Estado Civil.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 758.
 
@@ -6142,13 +6168,11 @@ Es Juez competente para conocer de estos juicios, el de Primera Instancia de la 
 
 Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, ésta se comunicará a la Dirección del Registro Civil, al Oficial del Registro Civil donde pasó el acto, y éste hará una referencia de ella al margen del acta impugnada.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-De los Concursos.
+Del Divorcio Por Mutuo Consentimiento.
 
-Sección 1a.
-
-Reglas Generales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 764.
 
@@ -6222,6 +6246,14 @@ La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el 
 
 Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción para que levante el acta correspondiente, la archive con el mismo número de acta en el apéndice correspondiente y publique la parte resolutiva de la sentencia durante quince días en las tablas destinadas al efecto; igualmente remitirá copia de la sentencia ejecutoriada al Oficial del Registro Civil que autorizó el acta de matrimonio y el de nacimiento de los divorciados para que hagan las anotaciones correspondientes.
 
+### CAPITULO V.
+
+De los Concursos.
+
+Sección 1a.
+
+Reglas Generales.
+
 ### CAPITULO VI.
 
 De las Sucesiones.
@@ -6231,12 +6263,6 @@ Sección 1a.
 Disposiciones Generales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
-
-### CAPITULO I.
-
-Disposiciones Generales.
-
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
 
 ###### ARTICULO 776.
 
@@ -6514,13 +6540,11 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 Al cumplir el síndico lo que se dispone en el artículo 783, presentará también dictamen, por separado, respecto del juicio que se hubiese formado de las causas que motivaron la insolvencia del deudor y concluirá pidiendo, si estima que de las actuaciones resultaré motivo para presumir la insolvencia culpable o fraudulenta, se consignen los hechos al Ministerio Público para la averiguación correspondiente. La falta de dictamen no impedirá que el juez, en cualquier estado del concurso, ya sea de oficio o a solicitud de la parte interesada, haga la consignación antes indicada.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de estos Cargos y de las Cuentas de la Tutela.
+Disposiciones Generales.
 
-Sección 1a.
-
-De la Declaración de Estado.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
 
 ###### ARTICULO 817.
 
@@ -7434,19 +7458,21 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 En lo demás se observará lo dispuesto en el Capítulo que antecede.
 
-### CAPITULO III.
+### CAPITULO II.
 
-De la Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos.
+De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de estos Cargos y de las Cuentas de la Tutela.
+
+Sección 1a.
+
+De la Declaración de Estado.
 
 ## TITULO DECIMO TERCERO.
 
 De La Jurisdicción Voluntaria.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-De la Adopción.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+De la Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos.
 
 ###### ARTICULO 954.
 
@@ -7512,9 +7538,11 @@ Los actos de jurisdicción voluntaria de que no se hiciere mención especial en 
 
 Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-De la Excusa y Pérdida de la Patria Potestad y de la Emancipación.
+De la Adopción.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 965.
 
@@ -7860,9 +7888,9 @@ Cuando el examen de la cuenta resulten motivos graves para sospechar dolo o frau
 
 En todos los casos en que el tutor necesite para algún acto de la licencia del juez o de su aprobación, se requerirá la previa audiencia del curador, con el cual, en caso de oposición, se substanciará juicio ordinario. En este juicio se decidirá solamente la diferencia entre el tutor y el curador y no se admitirá, ni de las sentencias definitivas ni de las interlocutorias, recurso alguno. De la denegación de la licencia que haya pedido el tutor con aprobación del curador, se admitirán los recursos que correspondan según derecho, a los negocios de mayor interés.
 
-### CAPITULO VI.
+### CAPITULO V.
 
-Del Depósito de las Personas.
+De la Excusa y Pérdida de la Patria Potestad y de la Emancipación.
 
 ###### ARTICULO 1014.
 
@@ -7952,15 +7980,17 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 Cuando se trata de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquel reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca fijando en este caso las condiciones y seguridades con que debe hacerse; pudiendo, si lo estimare conveniente, dispensar la almoneda siempre que consientan en ello el tutor y el curador.
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-De las Informaciones Ad-Perpetuam.
+De la Custodia de las Personas.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1962)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1027.
 
-El que pretenda adoptar a alguna persona, deberá acreditar los requisitos establecidos en el Código Civil, según se trate de adopción plena o simple, los cuales deberán de acompañarse en la promoción inicial, y en la cual deberán manifestar: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo tenga en custodia.
+El que pretenda adoptar a alguna persona, deberá acreditar los requisitos establecidos en el Código Civil, según se trate de adopción plena o simple, los cuales deberán de acompañarse en la promoción inicial, y en la cual deberán manifestar: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela y, en su caso, el de la persona o del organismo público o privado que lo tenga bajo su custodia.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 En caso de que a consideración del Juez, faltare algún documento para acreditar los requisitos que establece el Código Civil, éste prevendrá a los solicitantes para que los presenten en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no los presentan en ese término se les tendrá por desistido al trámite.
 
@@ -7978,15 +8008,13 @@ En el mismo auto se hará la declaración del Estado de Minoridad, se nombrará 
 
 En los procedimientos de adopción no será necesario el nombramiento de tutor dativo siempre que no exista oposición a la misma.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1029.
 
-Cuando el Código Civil lo señale y el adoptante y el adoptado pidan que la adopción sea revocada, o se solicite la conversión de adopción simple a adopción plena, el juez los citará a una audiencia en que se escuchará a las partes.
+Cuando el Código Civil lo señale y el adoptante y adoptado pidan que la adopción sea revocada, o se solicite la conversión de adopción simple a adopción plena, el juez los citará a una audiencia en que se escuchara a las partes.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
-
-En su resolución atenderá siempre a la conveniencia de los intereses morales y materiales del adoptado; en ambos casos se deberá oír al Agente de la Procuraduría Social y al Consejo de Familia, los cuales deberán presentarse en la misma audiencia.
+En su resolución atenderá siempre a la conveniencia de los intereses morales y materiales del adoptado; en ambos casos se deberá oír al Agente Social y al Consejo de Familia Estatal, Municipal o Intermunicipal según sea el caso, los cuales deberán presentarse en la misma audiencia.
 
 Si el adoptado fuere menor de edad, no se decretará la conversión, sin escuchar, cuando sea posible, a quien o quienes manifestaron su consentimiento para la adopción.
 
@@ -8000,9 +8028,11 @@ Si el adoptado fuere menor de edad, no se decretará la conversión, sin escucha
 
 Rendidas las justificaciones y desahogadas las pruebas, el juez dictará su resolución, en un término no mayor de quince días de la celebración de la audiencia, y al causar Estado remitirá copias de la misma al Oficial del Registro Civil para que levante el acta correspondiente, o para que cancele el acta de adopción si fuese revocación.
 
-### CAPITULO VIII.
+### CAPITULO VII.
 
-Del Apeo y Deslinde.
+De las Informaciones Ad-Perpetuam.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1962)</small>
 
 ###### ARTICULO 1032.
 
@@ -8056,95 +8086,101 @@ De este último auto no cabe recurso alguno y el que la conceda será apelable e
 
 De las resoluciones en que se conceda la emancipación se remitirá copia certificada al Oficial del Registro Civil para los efectos de levantar el acta y hacer las anotaciones que correspondan, de acuerdo a lo dispuesto al respecto por el Código Civil.
 
-### CAPITULO IX.
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
+### CAPITULO VIII.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+Del Apeo y Deslinde.
 
 ###### ARTICULO 1040.
 
-Podrá decretarse el depósito:
+Podrá decretarse la custodia:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1991)</small>
+I. De menores o incapacitados sujetos a patria potestad, a tutela, o adopción en trámite, si son maltratados por sus padres o tutores o reciben de éstos ejemplos perniciosos o son obligados por ellos a cometer actos reprobados por la ley;
 
-I.- De menores o incapacitados sujetos a patria potestad, a tutela o adopción en trámite, si son maltratados por sus padres o tutores o reciben de éstos ejemplos perniciosos o son obligados por ellos a cometer actos reprobados por la ley;
+II. De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren;
 
-II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren;
+III. Del menor de edad que deseando contraer matrimonio necesite acudir a la autoridad judicial para que supla el consentimiento de sus padres o tutores, y
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 1975)</small>
+IV. Del menor cuya adopción se tramita, en la persona o personas que lo solicitan.
 
-III.- Del menor de edad que deseando contraer matrimonio necesite acudir a al autoridad judicial para que supla el consentimiento de sus padres o tutores;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 1991)</small>
-
-IV.- Del menor cuya adopción se tramita, en la persona o personas que lo solicitan;
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1041.
 
-En los casos de la fracción I del artículo anterior, para decretar el depósito será necesario:
+En los casos de la fracción I del artículo anterior, para decretar la custodia será necesario:
 
-I.- Que lo solicite por escrito el interesado;
+I. Que lo solicite por escrito el interesado;
 
-II.- Que se justifiquen los malos tratamientos, ejemplos perniciosos o abusos de los ascendientes o tutores;
+II. Que se justifiquen los malos tratamientos, ejemplos perniciosos o abusos de los ascendientes o tutores, y
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 1991)</small>
-
-III.- Que se acredite que la adopción está en trámite.
+III. Que se acredite que la adopción está en trámite.
 
 Estos hechos podrán acreditarse con información testimonial.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1042.
 
-Podrán los jueces, no obstante lo dispuesto en el artículo anterior, decretar el depósito sin solicitud escrita del interesado, cuando les conste la imposibilidad en que se encuentre de formularla o a petición del Agente de la Procuraduría Social.
+Podrán los Jueces, no obstante lo dispuesto en el artículo anterior, decretar la custodia sin solicitud escrita del interesado, cuando les conste la imposibilidad en que se encuentre de formularla o a petición del Agente de la Procuraduría Social.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1043.
 
-El depósito se hará en poder de la persona que el Juez estime conveniente y al depositado se le dará la cama y ropa de su uso; de todo lo cual se formará inventario que se agregará al expediente.
+La custodia se hará en poder de la persona que el Juez estime conveniente y al custodiado se le dará la cama y ropa de su uso; de todo lo cual se formará inventario que se agregará al expediente.
 
 Si sobre esto se promoviese cuestión, el Juez sin ulterior recurso determinará las ropas que hayan de entregarse.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 1044.
 
-El Juez, atendiendo a las circunstancias de las personas, determinará la suma que para los alimentos deba abandonarse provisionalmente al depositario por el ascendiente que ejerza la patria potestad o por el tutor.
+El Juez, atendiendo a las circunstancias de las personas, determinará la suma que para los alimentos deba abonarse provisionalmente al incapacitado por el ascendiente que ejerza la patria potestad o por el tutor.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1045.
 
-Verificado el depósito, en el caso de los artículos que preceden, se hará saber al curador, si lo tuviere el depositado a fin de que practique en su defensa las gestiones que correspondan. Si no tuviere curador, se le exigirá que lo nombre o se nombrará en su caso.
+Verificada la custodia, en el caso de los artículos que preceden, se hará saber al curador, si lo tuviere el custodiado a fin de que practique en su defensa las gestiones que correspondan. Si no tuviere curador, se le exigirá que lo nombre o se nombrará en su caso.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1046.
 
-Inmediatamente que tuviera noticia un Juez de que algún huérfano, menor o incapacitado, se hallare en el caso de que habla la fracción II del artículo 1040, procederá a depositarlo donde estime conveniente, adoptando respecto de sus bienes, las precauciones oportunas para evitar abusos de todo género y dispondrá que se provea al interesado de tutor, conforme a derecho.
+Inmediatamente que tuviere noticia un Juez de que algún huérfano, menor o incapacitado, se hallare en el caso de que habla la fracción II del artículo 1040, procederá a ponerlo en custodia de la persona o institución que estime conveniente, adoptando respecto de sus bienes, las precauciones oportunas para evitar abusos de todo género y dispondrá que se provea al interesado de tutor, conforme a derecho.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1047.
 
-En el caso de la fracción III del artículo 1040, recibida la solicitud del depósito, que deberá ser hecha por escrito, el Juez se trasladará al domicilio del menor, y si éste ratifica la solicitud, se prevendrá al ascendiente o tutor para que designe depositario del menor. Sobre esta designación se oirá al interesado y si éste no se opone o el Juez estima infundada la oposición confirmará el nombramiento. Si considera fundada la oposición el Juez nombrará a la persona que estime conveniente para que actúe como depositario.
+En el caso de la fracción III del artículo 1040, recibida la solicitud de custodia, que deberá ser hecha por escrito, el Juez se trasladará al domicilio del menor, y si éste ratifica la solicitud, se prevendrá al ascendiente o tutor para que designe persona que asuma el cuidado del menor. Sobre esta designación se oirá al interesado y si éste no se opone o el Juez estima infundada la oposición confirmará el nombramiento. Si considera fundada la oposición el Juez nombrará a la persona que estime conveniente para que se encargue de su cuidado.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1048.
 
-Hecho el nombramiento del depositario el Juez practicará el depósito como se dispone en los artículos 1043 y 1044.
+Hecho el nombramiento de la persona que asuma el cuidado del menor, el Juez practicará las diligencias previstas en los artículos 1043 y 1044.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1049.
 
-Durará el depósito hasta que se verifique el matrimonio, salvo que el Juez niegue la autorización para contraerlo o que el menor depositado desista de sus pretensiones.
+Durará la custodia hasta que se verifique el matrimonio, salvo que el Juez niegue la autorización para contraerlo o que el custodiado desista de sus pretensiones.
 
-En los dos últimos casos el Juez volverá al menor a casa de las personas bajo cuya potestad se encontraba. El acta de la diligencia deberá obrar en el expediente del depósito.
+En los dos últimos casos el Juez volverá al menor a casa de las personas bajo cuya potestad se encontraba. El acta de la diligencia deberá obrar en el expediente de custodia.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1050.
 
 En las diligencias de que trata este capítulo se oirá precisamente al Agente de la Procuraduría Social y contra las resoluciones que se dicten no procederá recurso alguno.
 
-### CAPITULO UNICO.
+### CAPITULO IX.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1051.
 
@@ -8207,6 +8243,10 @@ Si hubiere oposición y se fundare en título debidamente registrado con anterio
 ###### ARTICULO 1057.
 
 No tendrá valor la información cuando se hubiere recibido habiendo juicio pendiente o anunciado, aún cuando se pretenda que se ratifique ante el Juez.
+
+### CAPITULO UNICO.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 1058.
 
@@ -8807,3 +8847,11 @@ SEGUNDO. Las garantías que hasta antes de la entrada en vigor de esta reforma, 
 P.O. 5 DE FEBRERO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
