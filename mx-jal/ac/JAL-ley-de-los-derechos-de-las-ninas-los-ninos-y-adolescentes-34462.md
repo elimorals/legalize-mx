@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2008-05-27"
+last_updated: "2009-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -87,9 +87,11 @@ VI. La protección de la familia.
 
 ### CAPÍTULO III. De los Derechos de las niñas, los niños y adolescentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 5.
 
-Las niñas, los niños y adolescentes, independientemente de los que otorguen otras leyes, tendrán los siguientes derechos:
+Los menores de edad, independientemente de los que otorguen otras leyes, tendrán los siguientes derechos:
 
 I. A la vida;
 
@@ -99,25 +101,31 @@ III. A la prioridad;
 
 IV. A la igualdad;
 
-V. A un ambiente familiar sano;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-VI. A la salud;
+V. A un ambiente familiar sano dentro de su familia biológica o adoptiva;
 
-VII. A la educación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
 
-VIII. A la cultura;
+VI. A ser adoptado, cuando se vean privados del ambiente familiar;
 
-IX. A los alimentos, vestido y vivienda;
+VII. A la salud;
 
-X. Al juego y al descanso;
+VIII. A la educación;
 
-XI. A la libertad de expresión y asociación;
+IX. A la cultura;
 
-XII. A la información;
+X. A los alimentos, vestido y vivienda;
 
-XIII. A la protección y la asistencia social cuando se encuentren en circunstancias especialmente difíciles; y
+XI. Al juego y al descanso;
 
-XIV. A un medio ambiente adecuado.
+XII. A la libertad de expresión y asociación;
+
+XIII. A la información;
+
+XIV. A la protección y la asistencia social cuando se encuentren en circunstancias especialmente difíciles; y
+
+XV. A un medio ambiente adecuado.
 
 ###### Artículo 6.
 
@@ -191,41 +199,39 @@ Las niñas, los niños y adolescentes tienen derecho a un ambiente familiar sano
 
 Las niñas, los niños y adolescentes no podrán ser separados de sus padres sino mediante orden de autoridad competente que así lo declare, escuchándose de ser posible su opinión.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 11.
 
-Las niñas, los niños y adolescentes no podrán ser separados de sus padres sino mediante orden judicial, o medida cautelar del Ministerio Público que así lo declare, escuchándose de ser posible su opinión.
+Las niñas, niños y adolescentes no podrán ser separados de sus padres sino mediante orden judicial o en caso de ser menores víctimas de delito, el agente del ministerio público conocedor, podrá ordenar la separación del menor de sus padres, ascendientes o de quien en ese momento ejerza la custodia, en tanto se resuelva la situación jurídica del mismo.
+
+En cualquiera de los casos, se escuchará la opinión del menor, la cual será valorada acorde a su edad.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 12.
 
-Es interés superior el que las niñas, los niños y adolescentes se desarrollen en un ambiente familiar sano, de conformidad a la legislación aplicable y privilegiando el siguiente orden de preferencias:
+Es interés superior el que los menores de edad se desarrollen en un ambiente familiar sano, de conformidad a lo señalado en el Código Civil y, cuando el Juez de la causa considere que es lo más conveniente al menor, debe privilegiarse el siguiente orden de preferencias:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+I. Con sus padres biológicos o adoptivos;
 
-I. Con sus padres;
+II. Cuando no convivan ambos progenitores o adoptantes, con la madre biológica o adoptiva si es que existe la disposición y la posibilidad afectiva de su custodia y además no tiene una conducta nociva a la salud física o psíquica del menor de edad;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+III. En caso contrario a lo previsto en la fracción anterior corresponderá la custodia al padre biológico o adoptivo siempre que reúna los mismos requisitos de disposición y posibilidad afectiva de custodia, así como buena conducta;
 
-II. Con la madre, cuando no convivan ambos padres, si es que existe la disposición y la posibilidad afectiva de su custodia, además de que no tenga una conducta nociva a la salud física y psíquica de la niña, niño o adolescente;
+IV. Cuando ninguno de los dos padres biológicos o adoptivos tenga la custodia del menor de edad, ésta podrá ser confiada a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de amistad profunda o al afecto nacido y sancionado por los actos religiosos o respetados por la costumbre, siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres;
 
-III. En caso a lo previsto en la fracción anterior, corresponderá la custodia al padre, siempre que reúna los mismos requisitos de disposición y posibilidad afectiva de la custodia, así como buena conducta;
+V. En convivencia dentro de familias sustitutas, que a través de la custodia personal supervisará el consejo de familia, sea estatal, municipal o intermunicipal;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+VI. En Instituciones públicas o privadas que alberguen menores a través de custodia institucional, y
 
-IV. Cuando ninguno de los padres tenga la custodia de la niña, niño o adolescentes, ésta podrá ser confiada a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de afecto, nacido y sancionado por actos religiosos o respetados por la costumbre;
+VII. Los huérfanos y los niños privados de la asistencia de sus padres o tutores, deben gozar de una protección especial por parte del Estado.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+En los supuestos previstos en las fracciones de la I a la IV, los progenitores o adoptantes tienen el deber y el derecho de visitar y convivir con sus hijos para que no se pierdan los vínculos afectivos que nacen de toda relación paterno filial.
 
-V. Establecimientos públicos previamente constituidos para esos fines; organismos descentralizados que otorguen esas prestaciones y en las instituciones particulares especialmente instituidas para ellos: y
+En los casos de las fracciones V y VI, será el Consejo de Familia quien autorice y en su en caso supervise esta convivencia.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
-
-VI. En convivencia con personas a quienes se les autorice la custodia personal.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
-
-En cualquiera de los supuestos previstos en las fracciones que anteceden, los progenitores tienen el debe (sic) y el derecho de visitar y convivir con sus hijos para que no se pierdan los vínculos afectivos que nacen de toda relación paterna filial, salvo resolución judicial en contrario.
+En todos los casos el consejo de familia estatal, municipal o intermunicipal, deberá cerciorarse de que las personas que vayan a ejercer la custodia del menor sean idóneas y que cumplan con los requisitos de ley.
 
 ###### Artículo 13.
 
@@ -233,19 +239,19 @@ Las autoridades correspondientes deberán:
 
 I. Establecer programas de integración familiar, así como talleres y cursos que sirvan a los padres para dar mejor atención a sus hijos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
 II. Procurar siempre que las niñas, los niños y adolescentes vivan con su familia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
 III. Cuidar que la distribución de videos, publicaciones impresas y las transmisiones de radio, televisión y espectáculos, en el ámbito de su competencia, se realicen sin afectar el sano desarrollo de las niñas, los niños y adolescentes; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
 
@@ -401,9 +407,13 @@ II. Implementar programas de desarrollo turístico especializado para las niñas
 
 Las niñas, los niños y adolescentes tienen derecho a tener un nombre, una nacionalidad, a pertenecer a un grupo social, a conocer su origen y a sus padres, salvo los casos previstos por la ley.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 28.
 
-Los padres o tutores deben inscribirlos en el registro civil que corresponda, inmediatamente después de su nacimiento, asignándoles un nombre y apellidos.
+Los padres, los tutores o persona física o moral distinta, en los casos previstos por la ley, deberán inscribirlos en el registro civil que corresponda, inmediatamente después de su nacimiento, asignándoles un nombre y apellidos.
+
+En el caso de los menores abandonados o expuestos se estará a lo dispuesto por el artículo 49 de la Ley del Registro Civil.
 
 ###### Artículo 29.
 
@@ -571,7 +581,7 @@ Deberán coordinarse con las autoridades correspondientes, a efecto de llevar a 
 
 ### CAPÍTULO III. De la familia y la sociedad
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
 
@@ -617,7 +627,9 @@ IV. Sistema Estatal para el Desarrollo Integral de la Familia;
 
 V. Instituto Jalisciense de Asistencia Social;
 
-VI. Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VI. Hogar Cabañas;
 
 VII. Comisión Estatal de Derechos Humanos; y
 
@@ -775,7 +787,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE DICIEMBRE DE 2004.
 
@@ -808,3 +820,25 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de. Justicia Alternativa del estado de Jalisco.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+DECRETO NÚMERO 22694/LVIII/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, 11, 12 Y 28 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+DECRETO NÚMERO 22747/LVIII/09, POR EL QUE SE REFORMA EL ARTÍCULO 47 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En todos los procesos, procedimientos, juicios, sucesiones, legados, convenios, contratos, acuerdos y cualquier otro instrumento jurídico suscrito, iniciado o del que forme parte el Instituto Cabañas a la fecha de entrada en vigor del presente decreto se deberá entender que se refiere al organismo público descentralizados (sic) denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+
+TERCERA (SIC). En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+
+CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo deberá actualizar su clasificador por objeto del gasto antes de la presentación del proyecto de presupuesto de egresos para el ejercicio fiscal del 2010.
