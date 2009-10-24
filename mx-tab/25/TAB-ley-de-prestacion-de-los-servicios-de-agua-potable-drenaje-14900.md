@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-prestacion-de-los-servicios-de-agua-potable-drenaje-1490
 country: "mx"
 rank: "ley"
 publication_date: "1982-04-24"
-last_updated: "1982-04-24"
+last_updated: "2009-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE PRESTACION DE LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO 204, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 24 de abril de 1982.
 
@@ -700,3 +702,27 @@ ING. LEANDRO ROVIROSA WADE.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. FERNANDO SANCHEZ DE LA CRUZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga el decreto 2155, relativo a la Ley de Prestación de los Servicios de Agua Potable, Drenaje y Alcantarillado en el Estado de Tabasco, publicada en el Periódico Oficial el 24 de abril de 1982.
+
+Tercero. Las funciones que realiza los Servicios de Agua Potable y Alcantarillado del Estado de Tabasco, serán asumidas por la Comisión Estatal de Agua y Saneamiento, por lo que se subroga en todos los derechos y obligaciones que le correspondían al primero, en consecuencia, se transfieren a dicha Comisión todos los recursos humanos, materiales, económicos y los de carácter técnico y administrativo, así como los bienes muebles e inmuebles con que los Servicios de Agua Potable y Alcantarillado del Estado de Tabasco operaba.
+
+La transferencia del personal de los Servicios de Agua Potable y Alcantarillado del Estado de Tabasco será sin perjuicio de sus derechos laborales.
+
+Cuarto. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Quinto. En un plazo de treinta días naturales contados a partir de la entrada en vigor de este Decreto, se constituirá el Consejo de la Comisión Estatal de Agua y Saneamiento.
+
+Sexto. El reglamento de esta Ley y de la Comisión Estatal de Agua y Saneamiento, se publicarán en un plazo máximo de ciento ochenta días naturales contados a partir de su vigencia.
+
+Séptimo. En todas las disposiciones legales, resoluciones, contratos, convenios o actos realizados con anterioridad a la vigencia de la presente Ley, en que se haga referencia a los Servicios de Agua Potable y Alcantarillado del Estado de Tabasco, tales referencias se entenderán como hechas a la Comisión Estatal de Agua y Saneamiento.
+
+Octavo. Los órganos u organismos que hayan sido constituidos con anterioridad a la entrada en vigor de la presente Ley, en un plazo máximo de un año, ajustarán su organización y funcionamiento a las disposiciones de esta Ley y de los reglamentos que se expidan con base en ella.
+
+Noveno. En la celebración de los Convenios entre algún municipio y el poder ejecutivo estatal para la asunción de la responsabilidad de la prestación de los servicios públicos de agua, se estará a lo dispuesto por la Constitución Política de los Estados Unidos mexicanos, la Constitución del Estado, la Ley Orgánica de los Municipios del Estado de Tabasco, la presente Ley, su Reglamento y demás ordenamientos que resulten aplicables.
