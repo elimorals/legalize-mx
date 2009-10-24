@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-centro-de-atencion-para-las-victimas-del-delito-12132"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "2003-05-01"
+last_updated: "2009-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL CENTRO DE ATENCION PARA LAS VICTIMAS DEL DELITO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -321,7 +321,11 @@ II.- A intervenir como coadyuvante con el Ministerio Público durante la averigu
 
 III.- A que los órganos encargados de la función persecutoria del delito, le reciba la denuncia o querella, por escrito o verbalmente, cualquiera que sea el ilícito, solicitando su ratificación y la apertura de la averiguación previa. Tratándose de personas con discapacidad, ésta será representada conforme lo establezca el Código de Procedimientos Penales;
 
-IV.- A que la autoridad investigadora o jurisdiccional ordene la aplicación de medidas para proteger su vida, integridad, domicilio, posesiones o derechos, así como la de sus familiares cuando existan datos objetivos de que pudieran ser afectados por los probables responsables del delito o por terceros implicados;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IV.- A que la autoridad investigadora o jurisdiccional ordene la aplicación de medidas para proteger su vida, integridad, domicilio, posesiones o derechos, así como la de sus familiares cuando existan datos objetivos de que pudieran ser afectados por los probables responsables del delito o por terceros implicados.
+
+En caso de que las víctimas sean menores de edad, podrán solicitar la separación de su familia, aún de sus progenitores, de conformidad a lo establecido en el último párrafo del artículo 93 del Código de Procedimientos Penales del Estado de Jalisco;
 
 V.- A que se le garantice el acceso a la asistencia médica de urgencia, psicológica y psiquiátrica, siempre y cuando fuera necesario y como consecuencia del ilícito que se haya cometido en su contra;
 
@@ -502,3 +506,11 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 1 DE MAYO DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
