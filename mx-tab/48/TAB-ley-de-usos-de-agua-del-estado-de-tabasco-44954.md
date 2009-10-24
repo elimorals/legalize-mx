@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-usos-de-agua-del-estado-de-tabasco-44954"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-21"
-last_updated: "2005-05-21"
+last_updated: "2009-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE USOS DE AGUA DEL ESTADO DE TABASCO
 
-TEXTO OTRIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 21 de mayo de 2005.
 
@@ -53,9 +53,11 @@ La presente Ley es de orden público e interés social y tiene por objeto promov
 
 Las disposiciones del presente ordenamiento, son aplicables a las aguas de jurisdicción estatal, así como aquellas que la federación haya transmitido al Estado, en administración, posesión o uso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 3.
 
-La facultad de interpretación, aplicación y vigilancia del cumplimiento de esta ley corresponde al Poder Ejecutivo, quien la ejercerá a través de la Secretaría de Desarrollo Social y Protección del Medio Ambiente, sin menoscabo de ejercerla directamente, cuando lo considere necesario, asimismo ejercerá, a través de dicha secretaría, las siguientes atribuciones:
+La facultad de interpretación, aplicación y vigilancia del cumplimiento de esta ley corresponde al Poder Ejecutivo, quien la ejercerá a través de la Secretaría de Recursos Naturales y Protección Ambiental del Estado, sin menoscabo de ejercerla directamente, cuando lo considere necesario, asimismo ejercerá, a través de dicha secretaría, las siguientes atribuciones:
 
 I. Establecer las políticas y lineamientos generales sobre los cuales se emitirá la normatividad encaminada a prevenir y controlar la contaminación de las aguas de jurisdicción estatal o las que el Estado tenga en administración, posesión, uso o asignación;
 
@@ -63,11 +65,13 @@ II. Expedir normas a nivel estatal, para que se restaure la calidad del agua a s
 
 III. Fijar, normar, dictaminar y evaluar las medidas y mecanismos para combatir y prevenir la contaminación del agua;
 
-IV. Normar, coordinar y evaluar la prestación de los servicios públicos, auxiliares y conexos;
+IV. (DEROGADA, P.O. 24 DE OCTUBRE DE 2009)
 
 V. Las que le asignen otras disposiciones legales, en materia de prevención y control de la contaminación del agua y en general las que se expidan para la preservación de los recursos acuáticos; y
 
 VI. Las demás que determinen otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -75,95 +79,117 @@ Para los efectos de esta ley, se entenderá por:
 
 I. Aguas de Jurisdicción Estatal: Son aquellas que se localizan en dos o más predios y que no sean consideradas como propiedad de la nación y las que son parte integrante de los terrenos de propiedad del Gobierno del Estado y de los municipios y las que sean asignadas por la Federación;
 
-II. Agua potable: la que puede ser ingerida sin provocar efectos nocivos a la salud y reúne las características establecidas por las normas oficiales mexicanas;
+II. Agua potable: La que puede ser ingerida sin provocar efectos nocivos a la salud y reúne las características establecidas por las normas oficiales mexicanas;
 
 III. Aguas pluviales: Aquellas que provienen de lluvias, incluyendo las que tienen su origen en nortes, tormentas tropicales, huracanes o granizo;
 
-IV. Agua residual: la que se vierte al drenaje o cualquier otro cuerpo o corriente, proveniente de alguno de los usos a que se refiere la presente ley y que haya sufrido degradación de sus propiedades originales;
+IV. Agua residual: La que se vierte al drenaje o cualquier otro cuerpo o corriente, proveniente de alguno de los usos a que se refiere la presente ley y que haya sufrido degradación de sus propiedades originales;
 
 V. Alcantarillado: La red o sistema de conductos y accesorios para recolectar y conducir las aguas residuales y/o pluviales al drenaje;
 
 VI. Actividades productivas: Los procesos agropecuarios, industriales, agroindustriales, acuacultura, de servicios y otros que generen o produzcan una alteración en las condiciones de calidad del agua;
 
-VII. Comunidad rural: Centro de población con menos de 2,500 habitantes;
+VII. Comisión: Comisión Estatal de Agua y Saneamiento;
 
-VIII. Comunidad urbana: Centro de población con más de 2,500 habitantes;
+VIII. Comunidad rural: Centro de población con menos de 2,500habitantes;
 
-IX. Condiciones originales: El estado que tenía inicialmente el agua, antes de ser utilizada en la prestación de servicios u otros de cualesquiera índole;
+IX. Comunidad urbana: Centro de población con más de 2,500habitantes;
 
-X. Contaminación: La presencia en el agua de uno o más contaminantes o cualquier combinación de ellos;
+X. Condiciones originales: El estado que tenía inicialmente el agua, antes de ser utilizada en la prestación de servicios u otros de cualesquiera índole;
 
-XI. Contaminante: Toda materia que al incorporarse al agua, altere o modifique su composición o condición natural;
+XI. Contaminación: La presencia en el agua de uno o más contaminantes o cualquier combinación de ellos;
 
-XII. Conservación: La infiltración, retención y control del agua, a las condiciones que originalmente se encuentren en la naturaleza;
+XII. Contaminante: Toda materia que al incorporarse al agua, altere o modifique su composición o condición natural;
 
-XIII. Contratista: Las personas físicas o jurídicas colectivas que celebren contratos con los ayuntamientos, los organismos operadores o el gobierno del Estado;
+XIII. Conservación: La infiltración, retención y control del agua, a las condiciones que originalmente se encuentren en la naturaleza;
 
-XIV. Derivación: Toda conexión a la red de agua potable que no esté previamente contratada con el organismo operador o el prestador de servicios correspondiente, misma que será considerada ilegal para todos los efectos a que haya lugar;
+XIV. Contratista: Las personas físicas o jurídicas colectivas que celebren contratos con los ayuntamientos, los organismos operadores o el Gobierno del Estado;
 
-XV. Descarga: Acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor en forma continua, intermitente o fortuita;
+XV. Concesión: El título otorgado por los ayuntamientos del Estado, para la prestación de los servicios públicos materia de ésta Ley;
 
-XVI. Dirección: La Dirección de Recursos Hidrológicos de la Secretaría de Desarrollo Social y Protección del Medio Ambiente;
+XVI. Concesionario: La persona física o jurídica colectiva a la que se concesione la prestación de los servicios públicos;
 
-XVII. Drenaje: Sistema de conductos abiertos y cerrados, estructuras hidráulicas y accesorios para el desagüe y alejamiento de las aguas residuales y/o pluviales;
+XVII. Consejo: Consejo de Administración de la Comisión Estatal de Agua y Saneamiento;
 
-XVIII. Estructura tarifaria: El tabulador que se establezca por cada tipo de usuario y, en su caso, nivel de consumo, así como los precios por unidad de servicio que deberá pagar cada usuario;
+XVIII. Derechos: Contribuciones establecidas por recibir los servicios públicos materia de esta Ley;
 
-XIX. Grupos Organizados de Usuarios: Los usuarios del sector social acreditados ante el organismo operador competente, de conformidad con su reglamento.
+XIX. Derivación: Toda conexión a la red de agua potable que no esté previamente contratada con el organismo operador o el prestador de servicios correspondiente, misma que será considerada ilegal para todos los efectos a que haya lugar;
 
-XIX. Interconexión: La instalación hidráulica interior de un predio para abastecer de agua a uno o más usuarios localizados en el mismo, previa contratación con el organismo operador o prestador de servicio correspondiente.
+XX. Descarga: Acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor en forma continua, intermitente o fortuita;
 
-XXI. Instituto: El Instituto del Agua del Estado de Tabasco;
+XXI. Dilución: La acción de combinar aguas claras de primer uso con aguas residuales;
 
-XXII. Organismo Operador Municipal: Aquellos que realicen obras o acciones que permitan la prestación del servicio público de agua potable, drenaje y alcantarillado, incluyendo su saneamiento dentro del territorio de un Municipio;
+XXII. Disposición de aguas residuales: El destino o uso final que se le dé a las aguas residuales;
 
-XXIII. Organismo Operador Intermunicipal: Aquellos que realicen obras o acciones, en dos o más municipios con un solo sistema, que permitan la prestación del servicio público de agua potable, drenaje y alcantarillado, incluyendo su saneamiento;
+XXIII. Drenaje: Sistema de conductos abiertos y cerrados, estructuras hidráulicas y accesorios para el desagüe y alejamiento de las aguas residuales y/o pluviales;
 
-XXIV. Organismo Operador Regional: Aquellos que realicen obras o acciones, en dos o más municipios con dos o más sistemas, que permitan la prestación del servicio público de agua potable, drenaje y alcantarillado, incluyendo su saneamiento;
+XXIV. Estructura tarifaria: El tabulador que se establezca por cada tipo de usuario y, en su caso, nivel de consumo, así como los precios por unidad de servicio que deberá pagar cada usuario;
 
-XXV. Poder Ejecutivo: El titular del Poder Ejecutivo del Estado Libre y Soberano de Tabasco;
+XXV. Grupos Organizados de Usuarios: Los usuarios del sector social acreditados ante el organismo operador competente, de conformidad con su reglamento;
 
-XXVI. Prestador de los Servicios: Quien preste los servicios de agua potable, alcantarillado o saneamiento, ya sean organismos operadores municipales, intermunicipales, regionales, concesionarios o los grupos organizados de usuarios, que correspondan;
+XXVI. Interconexión: La instalación hidráulica interior de un predio para abastecer de agua a uno o más usuarios localizados en el mismo, previa contratación con el organismo operador o prestador de servicio correspondiente;
 
-XXVII. Preservación: Mantener la calidad del agua en las condiciones que originalmente presentaba, antes del hecho contaminante;
+XXVII. Ley: Ley de Usos de Agua del Estado de Tabasco;
 
-XXVIII. Proyecto hidráulico de desarrollo urbano: Estudio basado en un diagnóstico de las condiciones actuales de los sistemas de agua potable, alcantarillado, saneamiento, servicios auxiliares y conexos que, tomando en cuenta las proyecciones de incremento de la demanda y en estricto apego a los planes de desarrollo urbano, contiene la definición de las acciones que se requerirán para incrementar las eficiencias física y comercial, así como las coberturas de los servicios públicos en el corto, mediano y largo plazos, de tal manera que se asegure la continua satisfacción de las necesidades para las generaciones presentes y futuras en todos los asentamientos humanos, en cantidad y calidad, sin degradar el medio ambiente; esta definición de acciones debe ser, además, económicamente viable, técnicamente factible y socialmente aceptable;
+XXVIII. Obras hidráulicas: La infraestructura construida para la explotación, uso, aprovechamiento, control, graduación o medición del agua, así como para la prestación de los servicios a que se refiere la presente Ley;
 
-XXIX. Personas físicas: Los seres humanos que tengan plena capacidad de goce y de ejercicio, en los términos de la legislación civil;
+XXIX. Organismo Operador Municipal: Aquellos que realicen obras o acciones que permitan la prestación del servicio público de agua potable, drenaje y alcantarillado, incluyendo su saneamiento dentro del territorio de un Municipio;
 
-XXX. Personas jurídicas colectivas: Las corporaciones de carácter público reconocidas por la ley, las asociaciones, sociedades, empresas y demás entidades a las que la ley reconozca personalidad jurídica, tomando en consideración las modalidades y limitaciones que determine la legislación civil;
+XXX. Organismo Operador lntermunicipal: Aquellos que realicen obras o acciones, en dos o más municipios con un solo sistema, que permitan la prestación del servicio público de agua potable, drenaje y alcantarillado, incluyendo su saneamiento;
 
-XXXI. Reincidencia: Cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha del acta en que se hizo constar la infracción precedente, siempre que esta no hubiere sido desvirtuada;
+XXXI. Organismo Operador Regional: Aquellos que realicen obras o acciones, en dos o más municipios con dos o más sistemas, que permitan la prestación del servicio público de agua potable, drenaje y alcantarillado, incluyendo su saneamiento;
 
-XXXII. Reuso: El uso de las aguas residuales previamente tratadas, que cumplan ciertas características de calidad, para ser nuevamente empleadas;
+XXXII. Poder Ejecutivo: Poder Ejecutivo del Estado Libre y Soberano de Tabasco;
 
-XXXIII. Saneamiento: La conducción, tratamiento y descarga de aguas tratadas;
+XXXIII. Prestador de los Servicios: Quien preste los servicios de agua potable, alcantarillado o saneamiento, ya sean organismos operadores, organismos operadores municipales, intermunicipales, regionales, concesionarios o los grupos organizados de usuarios, que correspondan;
 
-XXXIV. Secretaría: La Secretaría de Desarrollo Social y Protección del Medio Ambiente;
+XXXIV. Preservación: Mantener la calidad del agua en las condiciones que originalmente presentaba, antes del hecho contaminante;
 
-XXXV. Servicios públicos: Los servicios públicos de agua potable, alcantarillado y saneamiento;
+XXXV. Proyecto hidráulico de desarrollo urbano: Estudio basado en un diagnóstico de las condiciones actuales de los sistemas de agua potable, alcantarillado, saneamiento, servicios auxiliares y conexos que, tomando en cuenta las proyecciones de incremento de la demanda y en estricto apego a los planes de desarrollo urbano, contiene la definición de las acciones que se requerirán para incrementar las eficiencias física y comercial, así como las coberturas de los servicios públicos en el corto, mediano y largo plazos, de tal manera que se asegure la continua satisfacción de las necesidades para las generaciones presentes y futuras en todos los asentamientos humanos, en cantidad y calidad, sin degradar el medio ambiente; esta definición de acciones debe ser, además, económicamente viable, técnicamente factible y socialmente aceptable;
 
-XXXVI. Sistema de agua: Toda infraestructura destinada a la prestación de los servicios públicos, auxiliares y conexos;
+XXXVI. Personas físicas: Los seres humanos que tengan plena capacidad de goce y de ejercicio, en los términos de la legislación civil;
 
-XXXVII. Suspensión: La acción y efecto de interrumpir o racionar temporalmente los servicios públicos por cuestiones técnicas o falta de pago;
+XXXVII. Personas jurídicas colectivas: Las corporaciones de carácter público reconocidas por la ley, las asociaciones, sociedades, empresas y demás entidades a las que la ley reconozca personalidad jurídica, tomando en consideración las modalidades y limitaciones que determine la legislación civil;
 
-XXXVIII. Tarifa media de equilibrio: La tarifa promedio que deberá aplicarse a los usuarios, para asegurar el equilibrio financiero del organismo operador o del prestador de los servicios;
+XXXVIII. Red Primaria: El conjunto de obras desde el punto de captación del agua hasta los tanques reguladores del servicio. A falta de éstos, se considerarán las obras primarias hasta la línea general de distribución del servicio;
 
-XXXIX. Toma: Es el punto de interconexión entre la infraestructura o red secundaria para el abastecimiento de los servicios públicos y la infraestructura intradomiciliaria de cada predio;
+XXXIX. Red Secundaria: El conjunto de obras desde la conexión del tanque regulador o, en su caso, de la línea general de distribución hasta el punto de conexión con la toma domiciliaria del predio correspondiente al usuario final del servicio;
 
-XL. Usos de agua: El agua de uso doméstico, comercial o industrial que reúne los requisitos establecidos en las normas oficiales mexicanas;
+XL. Reincidencia: Cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha del acta en que se hizo constar la infracción precedente, siempre que esta no hubiere sido desvirtuada;
 
-XLI. Uso comercial o industrial: El uso del agua potable en la industrialización o comercialización de un bien o servicio, en su proceso de producción, transformación o venta;
+XLI. Restricción: La acción y efecto de interrumpir o racionar temporalmente los servicios públicos por cuestiones técnicas o falta de pago;
 
-XLII. Uso doméstico: El uso del agua potable en inmueble, casa habitación o construcción, para consumo humano, preparación de alimentos o para satisfacer las necesidades elementales de sus habitantes o los requerimientos de sus residentes;
+XLII. Reuso: El uso de las aguas residuales previamente tratadas, que cumplan ciertas características de calidad, para ser nuevamente empleadas;
 
-XLIII. Uso agropecuario: El uso del agua para satisfacer las necesidades agrícolas y/o ganaderas en el estado;
+XLIII. Saneamiento: La conducción, recolección, tratamiento y descarga de aguas residuales;
 
-XLIV. Uso en acuacultura: El uso del agua con fines de crianza, producción y/o explotación de especies acuáticas;
+XLIV. Secretaría: Secretaría de Recursos Naturales y Protección Ambiental;
 
-XLV. Uso diverso: Aquellos que se determinen en el reglamento de la presente ley y demás disposiciones aplicables; y
+XLV. Sector Social: Organizaciones o Asociaciones de ejidatarios, comunidades agrícolas, pequeños propietarios, artesanos cooperativas, empresas sindicales o sindicatos, entre otras, ajenas al sector público y al sector privado;
 
-XLVI. Usuario: Las personas físicas o jurídicas colectivas que utilicen los servicios públicos, auxiliares y conexos.
+XLVI. Servicios públicos: Los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+XLVII. Sistema de agua: Toda infraestructura destinada a la prestación de los servicios públicos, auxiliares y conexos;
+
+XLVIII. Tarifa. La tabla de valores unitarios que sirve de base para determinar los derechos que deben pagar los usuarios como contraprestación por determinado uso, rango de consumo o descarga, en función del tipo de usuario, zona socioeconómica o cualquier otro factor que apruebe la autoridad competente;
+
+XLIX. Toma: Es el punto de interconexión entre la Infraestructura o red secundaria para el abastecimiento de los servicios públicos y la infraestructura intradomiciliaria de cada predio;
+
+L. Uso agropecuario: El uso del agua para satisfacer las necesidades agrícolas y/o ganaderas en el Estado;
+
+LI. Uso comercial: La utilización del agua en establecimientos y oficinas, dedicadas a la comercialización de bienes y servicios o de actividades recreativas;
+
+LII. Uso diverso: Aquellos que se determinen en el reglamento de la presente Ley y demás disposiciones aplicables;
+
+LIII. Uso doméstico: El uso del agua potable en inmueble, casa habitación o construcción, para consumo humano, preparación de alimentos o para satisfacer las necesidades elementales de sus habitantes o los requerimientos de sus residentes;
+
+LIV. Uso en acuacultura: El uso del agua con fines de crianza, producción y/o explotación de especies acuáticas;
+
+LV. Uso Industrial: La utilización de agua, como insumo, en procesos de extracción, conservación o transformación de materias primas, de acabado de productos o elaboración de satisfactores, así como la que se utiliza en dispositivos para enfriamiento o calentamiento, lavado, baños y demás procesos industriales;
+
+LVI. Uso recreativo: La utilización del agua en actividades de esparcimiento, como balnearios, navegación y otras similares, que presten instituciones públicas o privadas con fines comerciales; y
+
+LVII. Usuario: Las personas físicas o jurídicas colectivas que utilicen los servicios públicos, auxiliares y conexos.
 
 ###### Artículo 5.
 
@@ -189,15 +215,19 @@ IX. La adquisición, contratación o aprovechamiento de los bienes muebles, inmu
 
 X. La construcción y operación de plantas de tratamiento de aguas residuales, así como la edificación de obras de prevención y control de la contaminación del agua;
 
-XI. La participación de las personas físicas o jurídicas colectivas, así como de todos los miembros de la sociedad, en las medidas de prevención de la contaminación del agua, conjuntamente con las acciones de descontaminación que sean promovidas por el Poder Ejecutivo a través del Instituto del Agua;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-XII. Coordinación de las medidas o acciones encaminadas a la prevención o control de la contaminación de las aguas de jurisdicción estatal, mismas que estarán a cargo del poder ejecutivo, por conducto del instituto del agua;
+XI. La participación de las personas físicas o jurídicas colectivas, así como de todos los miembros de la sociedad, en las medidas de prevención de la contaminación del agua, conjuntamente con las acciones de descontaminación que sean promovidas por el Poder Ejecutivo a través de la Secretaría;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XII. Coordinación de las medidas o acciones encaminadas a la prevención o control de la contaminación de las aguas de jurisdicción estatal, mismas que estarán a cargo del poder ejecutivo, por conducto de la Secretaría;
 
 XIII. La planeación, estudio, proyección, ejecución, rehabilitación, mantenimiento o aplicación de las obras y servicios necesarios para la operación y administración de los servicios públicos, auxiliares y conexos;
 
 XIV. La adquisición y el uso o aprovechamiento de obras hidráulicas de propiedad privada, cuando se requieran para la eficiente prestación de los servicios públicos, auxiliares y conexos;
 
-XV. La adquisición de los bienes muebles o inmuebles que resulten necesarios para la construcción, rehabilitación, ampliación, mejoramiento, conservación, desarrollo o mantenimiento de los servicios públicos, auxiliares y conexos;
+XV. (DEROGADA, P.O. 24 DE OCTUBRE DE 2009)
 
 XVI. La obligación del que use agua, de restablecerla a sus condiciones que determine la normatividad vigente;
 
@@ -205,33 +235,215 @@ XVII. La promoción necesaria para que quien use agua, la restaure a las condici
 
 XVIII. Las demás que resulten necesarias para garantizar el uso racional y una adecuada explotación, aprovechamiento o distribución del agua, en calidad y cantidad suficientes para la población del Estado.
 
-### CAPÍTULO SEGUNDO. PROGRAMA DE CONSERVACIÓN DE AGUA Y SANEAMIENTO
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO SEGUNDO. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 6.
 
-Al Poder Ejecutivo, por conducto del Instituto del Agua, corresponderá:
+Se crea la Comisión Estatal de Agua y Saneamiento como organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, el cual tendrá las atribuciones siguientes:
 
-I. Colaborar con las autoridades federales, en la vigilancia y conservación de las corrientes, ríos, lagos y lagunas ubicadas en el estado;
+I. Colaborar en la integración del Programa Estatal Hidráulico;
 
-II. Colaborar con las autoridades correspondientes en la vigilancia de cuencas alimentadoras;
+II. Vigilar el cumplimiento de los planes y programas, y establecer, en el ámbito de su competencia, las políticas y estrategias para la administración de las aguas de jurisdicción estatal y la prestación de los servicios a que se refiere la presente Ley;
 
-III. Fomentar y conducir estudios, trabajos o servicios hidrometeorológicos dentro del territorio de la entidad;
+III. Administrar las aguas de jurisdicción estatal;
 
-IV. Colaborar con las instancias competentes en el tratamiento de aguas residuales;
+IV. Asesorar, auxiliar y proporcionar asistencia técnica a los organismos operadores municipales que lo soliciten;
 
-V. Determinar el tratamiento de aguas residuales y/o de lodos, antes de realizar su descarga en el sistema de drenaje y alcantarillado, en los casos que resulte necesario a juicio de la Secretaría;
+V. Participar en la coordinación de acciones necesarias para promover el concurso de las autoridades federales, estatales y municipales, en el diseño, construcción, control y evaluación de obras hidráulicas de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
-VI. Determinar los casos en los cuales resulte necesario construir y/u operar plantas de tratamiento de aguas residuales y/o tratamiento de lodos;
+VI. Vigilar el uso eficiente y preservación del agua, así como fomentar una cultura del agua como recurso vital escaso;
 
-VII. Fomentar el establecimiento de empresas que presten el servicio de tratamiento de aguas residuales y/o de manejo de lodos;
+VII. Establecer y difundir las normas técnicas referentes a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución del agua, drenaje, alcantarillado, disposición y tratamiento de aguas residuales;
 
-VIII. Vigilar y aplicar la normatividad establecida en la ley de protección ambiental, en materia de agua, así como en la prestación de los servicios públicos, auxiliares y conexos;
+VIII. Definir en el ámbito de su competencia, las fuentes de abastecimiento de agua potable y las normas técnicas para su distribución;
 
-IX. Promover y operar dentro del sistema estatal de información ambiental, los sistemas de monitoreo de los cuerpos de agua de jurisdicción estatal;
+IX. Coadyuvar con los organismos operadores municipales o intermunicipales, cuando así lo soliciten, en las gestiones de financiamiento y planeación de obras para los sistemas requeridos en la prestación de los servicios;
 
-X. Colaborar con las autoridades correspondientes, en el ámbito de su competencia, en la supervisión de los programas y actividades que se ejecuten para la operación de las instalaciones y servicios para el manejo, tratamiento y reciclamiento de aguas residuales; y
+X. Promover, apoyar y en su caso, gestionar ante las dependencias y entidades federales, las asignaciones, concesiones y permisos correspondientes, con el objeto de dotar de agua a centros de población y asentamientos humanos;
 
-XI. Las demás que resulten necesarias, o que determine el Poder Ejecutivo, para preservar o conservar el agua en las condiciones de pureza que establezca la normatividad correspondiente.
+XI. Promover la reutilización e intercambio de las aguas residuales para el riego de áreas agrícolas y otros usos compatibles, previo el cumplimiento de las normas técnicas que al efecto se emitan;
+
+XII. Establecer programas de capacitación para sus trabajadores;
+
+XIII. Ejecutar las acciones que transfiera la Federación al Gobierno del Estado, a través de los convenios o acuerdos de descentralización o coordinación que celebren;
+
+XIV. Colaborar con las instancias competentes en el tratamiento de aguas residuales;
+
+XV. Determinar el tratamiento de aguas residuales y/o de lodos, antes de realizar su descarga en el sistema de drenaje y alcantarillado, en los casos que resulte necesario a juicio de la Comisión;
+
+XVI. Determinar los casos en los cuales resulte necesario construir y/u operar plantas de tratamiento de aguas residuales y/o tratamiento de lodos;
+
+XVII. Fomentar el establecimiento de empresas que presten el servicio de tratamiento de aguas residuales y/o de manejo de lodos;
+
+XVIII. Colaborar con las autoridades correspondientes, en el ámbito de su competencia, en la supervisión de los programas y actividades que se ejecuten para la operación de las instalaciones y servicios para el manejo, tratamiento y reciclamiento de aguas residuales;
+
+XIX. Participar en los Consejos de Cuenca, en representación del Ejecutivo del Estado;
+
+XX. Prestar previa la suscripción del Convenio de Colaboración correspondiente, en los términos y condiciones establecidas en esta Ley, los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+
+XXI. Colaborar con las autoridades federales, en la vigilancia y conservación de las corrientes, ríos, lagos y lagunas ubicadas en el Estado;
+
+XXII. Colaborar con las autoridades correspondientes en la vigilancia de cuencas alimentadoras;
+
+XXIII. En coordinación con la Secretaría, promover y operar dentro del sistema estatal de información ambiental, los sistemas de monitoreo de los cuerpos de agua de jurisdicción estatal; y
+
+XXIV. Las demás que resulten necesarias, o que determine el Poder Ejecutivo, para preservar o conservar el agua en las condiciones de pureza que establezca la normatividad correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 6 bis. El patrimonio de la Comisión estará constituido por:
+
+I. Los activos que le asigne el Gobierno del Estado;
+
+II. Las aportaciones federales, estatales y municipales y. las que, en su caso, realicen los organismos operadores municipales o intermunicipales en su favor;
+
+III. Los ingresos por los servicios públicos que el organismo preste a los usuarios;
+
+IV. Los créditos que obtenga para el cumplimiento de sus fines;
+
+V. Las donaciones, herencias, legados que reciba y demás aportaciones de los particulares, así como los subsidios y adjudicaciones a su favor;
+
+VI. Los remanentes, frutos, utilidades, productos, intereses y ventas que obtenga de su patrimonio;
+
+VII. Los bienes afectos directamente a la prestación de los servicios públicos de suministro de agua en bloque, agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, serán inembargables e imprescriptibles; y
+
+VIII. Los demás bienes y derechos que adquiera por cualquier título legal.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 6 ter. El gobierno y administración de la Comisión estará a cargo de:
+
+I. El Consejo de Administración; y
+
+II. El Director General.
+
+La Comisión contará con el personal técnico y administrativo necesario para su funcionamiento de conformidad con las disposiciones legales y presupuestales aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 6 quáter. El Consejo de Administración de la Comisión, será su órgano de gobierno y se integrará por:
+
+I. Un Presidente, que será el Gobernador del Estado;
+
+II. Vocales que serán:
+
+a) El Secretario de Salud;
+
+b) El Secretario de Administración y Finanzas;
+
+c) El Secretario de Desarrollo Económico;
+
+d) El Secretario de Recursos Naturales y Protección Ambiental;
+
+e) El Secretario de Asentamientos y Obras Públicas; y
+
+f) El Secretario de Planeación;
+
+III. Un Secretario del Consejo, quien será el Director General de la Comisión, que participará con voz pero sin voto.
+
+Cada titular podrá designar mediante oficio un suplente, el cual tendrá los mismos derechos y responsabilidades del titular, con excepción de la prevista en este párrafo.
+
+Previo acuerdo del Consejo, se podrá invitar a sus sesiones a representantes de las dependencias estatales, federales, municipales y titulares de los Organismos Operadores Municipales, representantes de organizaciones del sector social y privado, vinculados directamente con la materia de aguas.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 6 quinquies. El Consejo celebrará sesiones ordinarias cada tres meses, por lo menos, así como las extraordinarias que a juicio de sus integrantes, sean necesarias. El Presidente y los Vocales tendrán derecho a voz y voto.
+
+El Consejo tomará sus resoluciones mediante el voto de la mayoría de sus miembros presentes y en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 6 sexies. El Consejo de Administración tendrá las siguientes atribuciones:
+
+I. Analizar y aprobar las acciones de planeación y programación hidráulica que le presente el Director General;
+
+II. Aprobar las acciones, que someta a su consideración el Director General, necesarias para la ejecución de las funciones que transfiera la Federación al Gobierno del Estado, a través de los Convenios que se celebren;
+
+III. Otorgar poder general para actos de administración y dominio, así como para pleitos y cobranzas, con todas las facultades generales o especiales que requieran cláusula especial conforme a la Ley, así como delegarlos, revocarlos o sustituirlos;
+
+IV. Revisar y, en su caso, aprobar el Programa Operativo Anual de la Comisión, que le presente el Director General;
+
+V. Resolver sobre los asuntos que en materia de servicios someta a su consideración el Director General;
+
+VI. Autorizar la contratación conforme a la legislación aplicable de los créditos que se requieran para la prestación de los servicios públicos;
+
+VII. Aprobar las solicitudes de desincorporación de bienes muebles e inmuebles, así como de los bienes muebles que causen baja por cualquier motivo;
+
+VIII. Administrar el patrimonio de la Comisión y cuidar de su adecuado manejo;
+
+IX. Conocer y, en su caso, autorizar el proyecto de presupuesto anual de ingresos y egresos de la Comisión, conforme a la propuesta formulada por el Director General;
+
+X. Aprobar los proyectos de inversión de la Comisión;
+
+XI. Examinar y, en su caso, aprobar los estados financieros y los informes que presenta el Director General;
+
+XII. Aprobar el Reglamento Interior de la Comisión, así como los manuales de organización, procedimientos y de servicios al público; y
+
+XIII. Las que le otorgue la presente Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 6 septies. El órgano de administración de la Comisión, será el Director General, quien deberá cumplir con los requisitos siguientes:
+
+I. Ser ciudadano mexicano por nacimiento;
+
+II. Contar con título profesional expedido por autoridad o institución legalmente facultada para ello;
+
+III. Contar, al momento de su designación, con una experiencia profesional, técnica y administrativa cuando menos de cinco años en las materias que regula esta Ley; y
+
+IV. No tener antecedentes penales por la comisión de delitos realizados con dolo.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 6 octies. El Gobernador del Estado nombrará y removerá libremente al Director General, quien tendrá las siguientes atribuciones:
+
+I. Representar legalmente a la Comisión, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; formular querellas y denuncias, otorgar el perdón judicial, formular posiciones y rendir informes;
+
+II. Presentar al Consejo, para su aprobación, las acciones de planeación y programación de los servicios públicos a su cargo;
+
+III. Promover, previo acuerdo del Consejo, la expropiación, ocupación temporal, total o parcial de bienes o la limitación de derechos de dominio;
+
+IV. Elaborar el programa operativo anual de la Comisión y someterlo a la aprobación del Consejo;
+
+V. Ejecutar el programa operativo anual aprobado por el Consejo;
+
+VI. Coordinar las actividades técnicas, administrativas y financieras de la Comisión para lograr una mayor eficiencia, eficacia y economía de la misma;
+
+VII. Celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento de la Comisión, previo acuerdo del Consejo;
+
+VIII. Gestionar y obtener, conforme a la legislación aplicable y previa autorización del Consejo, el financiamiento para obras, servicios y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas o privadas;
+
+IX. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo las erogaciones extraordinarias;
+
+X. Realizar el pago a la Federación de los derechos por el uso o aprovechamiento de aguas y bienes nacionales inherentes, de conformidad con la legislación aplicable;
+
+XI. Ejecutar los acuerdos del Consejo;
+
+XII. Rendir un informe anual de actividades de la Comisión; así como la información que requieran los órganos de control y fiscalización;
+
+XIII. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
+
+XIV. Ordenar la práctica de visitas de inspección y verificación, de conformidad con lo dispuesto en esta Ley y demás legislación aplicable;
+
+XV. Ordenar que se practiquen, en forma regular y periódica, tomas de muestras y análisis del agua, llevar estadísticas de sus resultados y tomar las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como de la que una vez utilizada se vierta a los causes o vasos, de conformidad con la legislación aplicable;
+
+XVI. Representar al Gobernador en las actividades de coordinación y concertación con órganos relacionados con asuntos del agua, con base en las disposiciones legales aplicables;
+
+XVII. Imponer sanciones a los usuarios por infracciones a las disposiciones de esta ley;
+
+XVIII. Resolver el recurso administrativo de reconsideración que se interponga en contra de sus resoluciones;
+
+XIX. Nombrar y remover a los servidores públicos de la Comisión;
+
+XX. Someter a la aprobación del Consejo de Administración el proyecto de reglamento interior del organismo; y
+
+XXI. Las demás que señalen expresamente esta Ley y demás ordenamientos aplicables.
+
+(REUBICADO, P.O. 24 DE OCTUBRE DE 2009)
 
 ###### Artículo 7.
 
@@ -245,6 +457,8 @@ III. La recuperación de los gastos y costos de inversión, operación, conserva
 
 IV. El servicio público de conducción, suministro, distribución o transporte de agua potable, que en su caso presten los particulares, por autorización otorgada por el Poder Ejecutivo, a través del organismo operador competente o las autoridades municipales correspondientes.
 
+(REUBICADO, P.O. 24 DE OCTUBRE DE 2009)
+
 ###### Artículo 8.
 
 Los ayuntamientos tendrán a su cargo los servicios públicos, en todas las localidades de su ámbito territorial, los cuales podrán ser prestados directamente por la dependencia o el organismo operador que corresponda, o bien, por los prestadores de servicios, en los términos de lo dispuesto en ésta Ley.
@@ -257,13 +471,17 @@ b) Organismos operadores intermunicipales
 
 c) Organismos operadores regionales;
 
-II. El Poder Ejecutivo, a través del organismo operador correspondiente, podrá prestar el servicio en los casos y con las condiciones que en este ordenamiento se establecen;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+II. El Poder Ejecutivo, a través de la Comisión, podrá prestar el servicio en los casos y con las condiciones que en este ordenamiento se establecen;
 
 III. Los particulares que cuenten con autorización o que hayan celebrado uno o varios contratos de los previstos en esta Ley, podrán prestar los servicios públicos.
 
 Los Organismos operadores de la administración pública estatal, municipal, intermunicipal o regionales, así como en caso procedente los grupos organizados de usuarios del sector social, que presten los servicios a que se refiere esta Ley, adoptarán las medidas necesarias para alcanzar la autosuficiencia financiera en la prestación de los mismos y establecerán los mecanismos de control necesarios para que se preste el servicio con eficiencia y eficacia técnica y transparencia administrativa.
 
 Los organismos operadores municipales, intermunicipales o regionales, deberán contar con registros contables que identifiquen los ingresos y egresos derivados de las acciones y objetos a que alude el párrafo anterior.
+
+(REUBICADO, P.O. 24 DE OCTUBRE DE 2009)
 
 ###### Artículo 9.
 
@@ -273,11 +491,15 @@ Ninguna persona física o jurídica colectiva distinta de las contempladas en el
 
 Los contratos que se celebren con particulares en contravención con lo establecido en el presente artículo serán nulos de pleno derecho.
 
-Los organismos que realicen la ejecución de las obras, la administración u operación de los servicios públicos a que se refiere el artículo 12 de esta Ley, estarán facultados para determinar, en cualquier tiempo y frente a terceros, la restricción en la prestación del servicio de agua potable que demande el interés público, a fin de evitar el dispendio en el consumo o uso del agua potable, distribuciones inequitativas de esta, concentraciones que afecten la satisfacción del interés público o el incumplimiento de las obligaciones contractuales, conforme a los lineamientos emitidos por el Instituto correspondiente.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Los organismos que realicen la ejecución de las obras, la administración u operación de los servicios públicos a que se refiere el artículo 12 de esta Ley, estarán facultados para determinar, en cualquier tiempo y frente a terceros, la restricción en la prestación del servicio de agua potable que demande el interés público, a fin de evitar el dispendio en el consumo o uso del agua potable, distribuciones inequitativas de ésta, concentraciones que afecten la satisfacción del interés público o el incumplimiento de las obligaciones contractuales.
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)
 
 ###### Artículo 10.
 
-El organismo operador correspondiente, conforme a los lineamientos emitidos por el Instituto respectivo, tendrá a su cargo:
+El organismo operador correspondiente, tendrá a su cargo:
 
 I. Planear y programar, en el ámbito de su jurisdicción, la prestación de los servicios públicos; así como estudiar, proyectar, presupuestar, construir, rehabilitar, ampliar, operar, administrar y conservar los sistemas, conjuntamente con la potabilización, conducción, almacenamiento y distribución de agua potable, como los sistemas de saneamiento, incluyendo el reuso de los mismos y manejo de lodos;
 
@@ -285,11 +507,15 @@ II. Proporcionar a los centros de población, de jurisdicción del Ayuntamiento 
 
 III. Formular y mantener actualizado el padrón de usuarios de los servicios a su cargo;
 
-IV. Cobrar las cuotas o tarifas a los usuarios por los servicios públicos, auxiliares y conexos, incluyendo el tratamiento de lodos, así como aplicar el procedimiento administrativo de ejecución fiscal, sobre los créditos fiscales derivados de los derechos por los servicios de agua potable, su conservación y saneamiento;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IV. Cobrar los derechos y tarifas a los usuarios por los servicios públicos, auxiliares y conexos, incluyendo el tratamiento de lodos, así como aplicar el procedimiento administrativo de ejecución fiscal, sobre los créditos fiscales derivados de los derechos por los servicios de agua potable, su conservación y saneamiento;
 
 V. Ordenar y ejecutar la obturación del sistema de abastecimiento de agua, en el caso de uso doméstico, así como su suspensión en otro tipo de usos, por falta reiterada de pago, en los demás casos que se señalen en la presente Ley;
 
-VI. Elaborar los estudios necesarios para justificar la fijación de cuotas y tarifas apropiadas para el cobro de los servicios, conforme a lo que se establezca en el reglamento del presente ordenamiento;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VI. Elaborar los estudios necesarios para justificar la fijación de derechos y tarifas apropiadas para el cobro de los servicios, conforme a lo que se establezca en el reglamento del presente ordenamiento;
 
 VII. Realizar las gestiones que resulten necesarias a fin de obtener los financiamientos requeridos para programas de inversión, en los términos de la legislación aplicable;
 
@@ -297,7 +523,9 @@ VIII. Solicitar, cuando las circunstancias así lo exijan, a las autoridades com
 
 IX. Constituir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo, para la reposición de sus activos fijos y el servicio de su deuda;
 
-X. Fijar las cuotas o tarifas cuando, de conformidad con la ley, se concesione, se permita o se autorice a particulares la conducción, distribución, potabilización, envasamiento o transporte de aguas para servicio público. La determinación de las tarifas o cuotas y el procedimiento previo para fijarlas se hará de acuerdo a lo previsto en esta Ley;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+X. Proponer al Congreso los derechos y tarifas cuando, de conformidad con la ley, se concesione, se permita o se autorice a particulares la conducción, distribución, potabilización, embasamiento o transporte de aguas para servicio público. La determinación de las tarifas y derechos y el procedimiento previo para fijarlas se hará de acuerdo a lo previsto en esta Ley y demás legislación aplicable;
 
 XI. Realizar por sí o por terceros las obras para los servicios públicos de su jurisdicción, conforme al plan de desarrollo urbano correspondiente y supervisar su correcta y oportuna ejecución, así como recibir las que se construyan en la misma;
 
@@ -309,7 +537,9 @@ XIV. Cuantificar oportunamente las contribuciones, derechos, aprovechamientos y 
 
 XV. Elaborar sus programas de trabajo y presupuestos anuales de ingresos y egresos, para la prestación de los servicios públicos, sus programas de inversión y mantenimiento;
 
-XVI. Desarrollar programas de capacitación y adiestramiento para su personal, en coordinación con el Instituto del Agua;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XVI. Desarrollar programas de capacitación y adiestramiento para su personal;
 
 XVII. Formular y mantener actualizado el inventario de bienes y recursos que integran el patrimonio afecto a los servicios a que se refiere esta Ley;
 
@@ -329,7 +559,9 @@ XXIV. Las demás que se señalan en esta Ley o en otras disposiciones legales ap
 
 Las facultades enumeradas en este artículo, se ejercerán sin menoscabo de las que ésta u otras leyes concedan al Poder Ejecutivo, en materia de protección ambiental, aguas y su saneamiento, las que ejercerá por conducto de la secretaría.
 
-### CAPÍTULO TERCERO. USOS DEL AGUA
+(REUBICADO [N. DE E. ANTES CAPITULO SEGUNDO], P.O. 24 DE OCTUBRE DE 2009)
+
+### CAPÍTULO TERCERO. PROGRAMA DE CONSERVACIÓN DE AGUA Y SANEAMIENTO
 
 ###### Artículo 11.
 
@@ -371,7 +603,11 @@ Las autoridades estatales y municipales deberán coordinarse con las autoridades
 
 Igualmente, se podrá convenir entre las autoridades estatales y municipales la asistencia técnica que aquellas presten a estas o a los organismos operadores.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+(REUBICADO [N. DE E. ANTES CAPITULO TERCERO], P.O. 24 DE OCTUBRE DE 2009)
+
+### CAPÍTULO CUARTO. USOS DEL AGUA
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 13.
 
@@ -385,11 +621,13 @@ III. Industrial;
 
 IV. Agropecuario;
 
-V. Acuacultural; y
+V. Acuacultura;
 
-VI. otros.
+VI. Recreativo; y
 
-Será atribución de quien preste el servicio, fijar el orden de prelación de los usos especificados con anterioridad.
+VII. Otros.
+
+El uso doméstico siempre tendrá prioridad con relación a los demás. Para el cambio de prelación en el uso de agua, el Reglamento de la presente Ley señalará las condiciones técnicas conforme a las cuales podrá aprobarse el cambio, en función del tipo de usuarios ubicados en la circunscripción territorial que comprenda el reglamento de referencia.
 
 ###### Artículo 14.
 
@@ -399,13 +637,17 @@ Con el objeto de reducir la contaminación y atender la degradación de la calid
 
 Para los efectos del artículo anterior, los ayuntamientos, los organismos operadores y la Secretaría, en los términos de la presente Ley, en coordinación con las autoridades federales competentes y atentas a lo dispuesto por la normatividad federal y estatal aplicable, tendrán facultades para:
 
-I. Otorgar los permisos para efectuar las descargas de aguas residuales en los sistemas de drenaje o alcantarillado respectivo, o a los sistemas correspondientes, a las personas físicas o jurídicas colectivas que, por el uso o aprovechamiento de agua en las diferentes actividades económicas, generen su contaminación, en los casos, términos y condiciones que se señalen en esta Ley;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+I. Otorgar los permisos para efectuar las descargas de aguas residuales en los sistemas de drenaje o alcantarillado respectivo, o a los sistemas correspondientes, a las personas físicas o jurídicas colectivas que, por el uso o aprovechamiento de agua en las diferentes actividades económicas, generen su contaminación, en los casos, términos y condiciones que se señalen en esta Ley, los cuales podrán ser revocados en los términos y condiciones previstos en el Reglamento de la presente Ley;
 
 II. Ordenar, cuando sea necesario, a las personas físicas o jurídicas colectivas, que presten servicios a la sociedad, que usen y contaminen los recursos hidráulicos del Estado con motivo de su operación o durante sus procesos productivos, que realicen el tratamiento de aguas residuales y manejo de lodos, antes de su descarga al drenaje o alcantarillado;
 
 III. Determinar qué usuarios tendrán la obligación de construir u operar plantas de tratamiento de aguas residuales y manejo de lodos, en términos de ley, así como fomentar plantas que puedan dar servicio a varios usuarios;
 
-IV. Proponer las cuotas o tarifas y el pago obligatorio que deberán cubrir las personas que realicen cualquier actividad susceptible de generar contaminación, en base a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IV. Proponer los derechos, tarifas y el pago obligatorio que deberán cubrir las personas que realicen cualquier actividad susceptible de generar contaminación, en base a lo siguiente:
 
 a) Por producir o generar aguas residuales canalizándolas por el servicio de drenaje y alcantarillado;
 
@@ -417,7 +659,9 @@ V. Promover y vigilar la aplicación y cumplimiento de las disposiciones y norma
 
 VI. Vigilar y promover la aplicación de la normatividad federal en materia de agua potable; y
 
-VII. Intervenir en la aplicación de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en los términos que ésta disponga.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VII. Vigilar la aplicación de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en los términos que ésta disponga.
 
 Los usuarios de los servicios de agua potable y saneamiento a que se refiere la presente Ley, deberán tener el permiso señalado en la fracción I, para poder efectuar la descarga de aguas residuales a los sistemas de drenaje o alcantarillado, con excepción del permiso de uso domestico.
 
@@ -449,7 +693,7 @@ IV. Los consejos de cuenca, en los términos aplicables de la normatividad feder
 
 ## TÍTULO SEGUNDO. SERVICIOS PÚBLICOS
 
-### CAPÍTULO SEGUNDO. ORGANISMOS OPERADORES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 18.
 
@@ -461,7 +705,11 @@ II. Cuando aún sin mediar la circunstancia prevista en la fracción I anterior,
 
 En el supuesto de que la autoridad competente determine que la prestación de los servicios a que se refiere este artículo, sea proporcionada por grupos organizados de usuarios del sector social, sea en forma total o parcial y en algunas de las comunidades del municipio; esta circunstancia no impedirá que se presten a través del organismo operador respectivo, los servicios a su cargo en el resto de las comunidades que comprendan el municipio, o bien, proceder a solicitar la prestación y administración de los mismos por conducto del Poder Ejecutivo, en los términos de esta Ley.
 
-### CAPÍTULO TERCERO. PARTICIPACIÓN DE LOS SECTORES SOCIAL Y PRIVADO
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 18 bis. La Comisión, previa la suscripción del Convenio de coordinación respectivo, podrá prestar transitoriamente, de conformidad con lo dispuesto por la Constitución Federal, la Constitución Local y demás legislación aplicable, los servicios públicos de suministro de agua potable, drenaje, alcantarillado, tratamiento, y disposición de aguas residuales, así como realizar la construcción, operación, conservación y mantenimiento de la infraestructura hidráulica correspondiente.
+
+### CAPÍTULO SEGUNDO. ORGANISMOS OPERADORES
 
 ###### Artículo 19.
 
@@ -469,7 +717,9 @@ Se crearán organismos operadores como entidades públicas descentralizadas, con
 
 Los organismos operadores deberán instalarse en su estructura, administración y operación, conforme a lo dispuesto en la presente Ley, su reglamento y demás ordenamientos legales.
 
-En el reglamento interior que al efecto se expida, se determinará la estructura, organización y atribuciones del organismo operador, así como la relación laboral que se tenga con sus trabajadores, conforme a la legislación aplicable y a los lineamientos que determine el Instituto en el ámbito de su competencia.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+En el reglamento que al efecto se expida, se determinará la estructura, organización y atribuciones del organismo operador, así como la relación laboral que se tenga con sus trabajadores, conforme a la legislación aplicable.
 
 ###### Artículo 20.
 
@@ -481,9 +731,11 @@ Un organismo operador municipal se podrá convertir en organismo operador interm
 
 Los organismos operadores realizarán las obras públicas e hidráulicas que correspondan, por sí o a través de terceros, de conformidad con el plan de ordenamiento territorial y el Programa Estatal de Agua y Saneamiento a que se refiere la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 22.
 
-Los organismos operadores podrán contratar la prestación de los servicios públicos, adecuando su estructura y operación para ejecutar la normatividad, asistencia, supervisión, control, evaluación y la contratación de créditos, según corresponda, conforme a la Ley Orgánica de los Municipios del Estado y a los lineamientos que al efecto determine el Instituto.
+Los organismos operadores podrán contratar la prestación de los servicios públicos, adecuando su estructura y operación para ejecutar la normatividad, asistencia, supervisión, control, evaluación y la contratación de créditos, según corresponda, conforme a la Ley Orgánica de los Municipios del Estado de Tabasco.
 
 En todo momento, el organismo operador seguirá ejecutando los actos de autoridad a que se refiere el presente ordenamiento.
 
@@ -543,13 +795,17 @@ Además de lo anterior, la Junta de Gobierno también podrá invitar a represent
 
 Los invitados y el Comisario tendrán derecho a voz, pero no a voto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 27.
 
-La Junta de Gobierno, a través de su presidente y conforme a la Ley orgánica de los municipios del Estado y a los lineamientos establecidos por el Instituto en el ámbito de su competencia, para el cumplimiento de los objetivos del organismo, tendrá las más amplias facultades de dominio, administración o representación que requieran poder o cláusula especial conforme a la ley, así como las siguientes atribuciones:
+La Junta de Gobierno, a través de su Presidente y conforme a la Ley Orgánica de los Municipios del Estado de Tabasco, para el cumplimiento de los objetivos del organismo, tendrá las más amplias facultades de dominio, administración o representación que requieran poder o cláusula especial conforme a la ley, así como las siguientes atribuciones:
 
 I. Establecer, en el ámbito de su competencia, los lineamientos y políticas en la materia, así como determinar las normas y criterios conforme a los cuales deberán prestarse los servicios públicos, con la finalidad de ejecutar las obras requeridas;
 
-II. Definir y proponer, conforme a los lineamientos emitidos por el Instituto, las tarifas o cuotas que se aplicarán para los cobros de los servicios de agua potable y saneamiento, en las localidades atendidas por el organismo y respecto de aquellas que se encuentren otorgadas a particulares.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+II. Proponer al Congreso del Estado, los derechos y tarifas que se aplicarán para los cobros de los servicios de agua potable y saneamiento, en las localidades atendidas por el organismo y respecto de aquellas que se encuentren otorgadas a particulares;
 
 III. Proponer al Presidente Municipal la designación o remoción, en su caso, del Director General del Organismo;
 
@@ -567,11 +823,15 @@ IX. Designar a los miembros del consejo consultivo debidamente registrados en lo
 
 X. Recomendar la extensión de los servicios públicos a otros ayuntamientos, a fin de que se celebren en los términos de ley los convenios respectivos, para que el organismo operador se convierta en intermunicipal o regional;
 
-XI. Aprobar y expedir el reglamento interior del organismo y sus modificaciones, así como los manuales de organización, de procedimientos y de servicios públicos, de conformidad a las estructuras y contenidos recomendados por el Instituto, y de conformidad con la legislación aplicable;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XI. Aprobar el reglamento interior del organismo y sus modificaciones, así como los manuales de organización, de procedimientos y de servicios públicos, de conformidad con la legislación aplicable;
 
 XII. Cumplir con la normatividad que, en el ámbito estatal y sobre preservación del agua, expida el Poder Ejecutivo, por conducto de la Secretaría;
 
-XIII. Validar y, en su caso, aprobar el otorgamiento de concesiones a prestadores de servicios, conforme a los criterios y lineamientos que emita el Instituto; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XIII. Validar y, en su caso, aprobar el otorgamiento de concesiones a prestadores de servicios; y
 
 XIV. Las demás que le asignen la presente Ley u otras disposiciones sobre la materia.
 
@@ -635,19 +895,21 @@ Los nombramientos de los integrantes del Consejo Consultivo serán de carácter 
 
 El Organismo Operador tendrá un Director General que será designado y removido por el Presidente Municipal, a propuesta de la Junta de Gobierno.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 33.
 
 Para ser Director del Organismo Operador, se requiere:
 
-I.-Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+I. Ser ciudadano mexicano por nacimiento;
 
-II.-Ser mayor de treinta años de edad;
+II. No ser ministro de algún culto religioso;
 
-III.- Contar con un título y cédula profesional afines a la materia;
+III. No tener antecedentes penales;
 
-IV.- Tener experiencia técnica y administrativa en materia de aguas de cuando menos tres años anteriores a la fecha de su nombramiento; y
+IV. Haber cumplido 21 años antes del día de la designación; y
 
-V.- Gozar de buena reputación y no haber sido condenado por delito alguno.
+V. Tener título o experiencia afín a la función que desempeñará.
 
 ###### Artículo 34.
 
@@ -659,7 +921,9 @@ II. Coordinar las actividades técnicas, administrativas y financieras del organ
 
 III. Celebrar los actos jurídicos de dominio y administración que sean necesarios para el adecuado funcionamiento del organismo;
 
-IV. Someter a la aprobación de la Junta de Gobierno las propuestas de tarifas y cuotas que pudiere cobrar el organismo;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IV. Someter a la aprobación de la Junta de Gobierno las propuestas de tarifas y derechos que pudiere cobrar el organismo;
 
 V. Gestionar y obtener, previa autorización de la Junta de Gobierno, el financiamiento para programas de inversión o ejecución de obras, así como para suscribir títulos de crédito, celebrar contratos, convenios u otras obligaciones análogas, ante instituciones públicas o privadas;
 
@@ -703,7 +967,7 @@ Rendir y proporcionar los informes que le solicite el Órgano Superior de Fiscal
 
 La evaluación, vigilancia y facultades de fiscalización a que alude este precepto, con excepción de la consignada en la fracción IV, podrá ejercerlas el Comisario a los grupos organizados de usuarios del sector social o los particulares distintos a estos que tengan el carácter de concesionarios, en los términos de la presente Ley; sin demérito del ejercicio directo que de tales atribuciones pueda realizar la autoridad competente.
 
-### CAPÍTULO ÚNICO. CONTRATACIÓN DE LOS SERVICIOS PÚBLICOS
+### CAPÍTULO TERCERO. PARTICIPACIÓN DE LOS SECTORES SOCIAL Y PRIVADO
 
 ###### Artículo 36.
 
@@ -741,7 +1005,9 @@ VII. No se adjudicará la concesión cuando las propuestas presentadas no cumpla
 
 En caso procedente, el Organismo Operador emitirá su opinión respecto de los procedimientos que considere necesarios adoptar para la transferencia de los bienes destinados a la prestación de los servicios públicos.
 
-Tratándose de comunidades rurales, no será necesario llevar a cabo el procedimiento de licitación señalado en el presente ordenamiento, por lo que la concesión podrá ser otorgada directamente por la autoridad competente a grupos organizados de usuarios que, para tal efecto, se constituyan en las comunidades que así lo soliciten, en apego a los lineamientos que establezca el Instituto.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Tratándose de comunidades rurales, no será necesario llevar a cabo el procedimiento de licitación señalado en el presente ordenamiento, por lo que la concesión podrá ser otorgada directamente por la autoridad competente a grupos organizados de usuarios que, para tal efecto, se constituyan en las comunidades que así lo soliciten, en apego a los lineamientos que establezca la Comisión.
 
 ###### Artículo 39.
 
@@ -767,7 +1033,9 @@ IX. Las metas de cobertura y eficiencia técnicas, alcances físicos y comercial
 
 X. Los programas de construcción y/o modernización de los sistemas, los cuales se apegarán a las disposiciones aplicables en materia de equilibrio ecológico y protección al ambiente;
 
-XI. Las fórmulas para calcular las cuotas o tarifas a que se refiere esta Ley; que deberán apegarse a los criterios y lineamientos establecidos por el Instituto.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XI. Los procedimientos para calcular los derechos y tarifas a que se refiere esta Ley;
 
 XII. El reconocimiento explícito del concesionado de someterse a la jurisdicción de los tribunales estatales, para el supuesto de controversia y la renuncia a no invocar la intervención de autoridades, ni legislación distinta a la del Estado de Tabasco;
 
@@ -781,7 +1049,9 @@ Las concesiones podrán prorrogarse hasta por un período igual al establecido i
 
 Los concesionarios estarán obligados a cumplir con lo dispuesto en esta ley, su reglamento y la Ley Orgánica de los Municipios del Estado de Tabasco.
 
-Los concesionarios deberán prestar los servicios públicos de conformidad con las reglas emitidas por el Instituto y atendiendo a la Ley de Protección Ambiental del Estado, así como la normatividad vigente en materia de equilibrio ecológico y protección al ambiente, conjuntamente con las normas estatales y las normas oficiales mexicanas que se apliquen en relación con la materia de la concesión.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Los concesionarios deberán prestar los servicios públicos de conformidad con las reglas emitidas por el Ayuntamiento y atendiendo a la Ley de Protección Ambiental del Estado de Tabasco, así como la normatividad vigente en materia de equilibrio ecológico y protección al ambiente, conjuntamente con las normas estatales y las normas oficiales mexicanas que se apliquen en relación con la materia de la concesión.
 
 ###### Artículo 42.
 
@@ -841,9 +1111,11 @@ Para la ejecución de una garantía se deberán cumplir los requisitos estableci
 
 En caso de que la prestación de los servicios se concesione, los representantes legales del consejo de administración del concesionario deberán participar con voz, pero sin voto, en las sesiones del consejo consultivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 50.
 
-Las actividades a que se refieren las fracciones II a IV del artículo 36 se podrán realizar mediante los siguientes contratos celebrados con el organismo operador que preste los servicios públicos, previa validación del Instituto:
+Las actividades a que se refieren las fracciones II a IV del artículo 36 se podrán realizar mediante los siguientes contratos celebrados con el organismo operador que preste los servicios públicos:
 
 I. Contrato de prestación de servicios integrales, sin riesgo comercial, que se celebrará para la realización de los estudios, proyectos, construcción, operación, mantenimiento y administración de los sistemas para la prestación de los servicios, en los que se establecerá un pago previamente definido al contratista, por los servicios realizados;
 
@@ -869,13 +1141,25 @@ Las controversias que se susciten con motivo de la interpretación y aplicación
 
 Se faculta al titular del Poder Ejecutivo para intervenir cuando, por causa de utilidad pública, situaciones de índole laboral, legal, por caso fortuito o con la finalidad de garantizar el abastecimiento adecuado de agua a la población, resulte necesaria su injerencia, con base en el interés público.
 
-## TÍTULO TERCERO. DE LOS SERVICIOS PÚBLICOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-### CAPÍTULO SEGUNDO (SIC). CONEXIÓN AL SISTEMA
+## TÍTULO TERCERO. DE LA DOTACIÓN DE LOS SERVICIOS PÚBLICOS
+
+> <small>(REFORMADA SU NUMERACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO PRIMERO. CONTRATACIÓN DE LOS SERVICIOS PÚBLICOS
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 53.
 
-Los propietarios o poseedores frente a cuyos predios se encuentre instalada la tubería de distribución de agua y/o de recolección de aguas residuales y pluviales, para contar con los servicios públicos, deberán solicitar al organismo prestador de los mismos, la instalación de la toma respectiva y la conexión de sus descargas, cumpliendo previamente con los requisitos señalados al efecto.
+Los propietarios o poseedores frente a cuyos predios se encuentre instalada la tubería de distribución de agua y/o recolección de aguas residuales y pluviales, para contar con los servicios públicos, deberán solicitar al organismo prestador de los mismos, la instalación de la toma respectiva y la conexión de sus descargas, cumpliendo previamente con los requisitos señalados al efecto.
+
+En el caso de inmuebles con el régimen de propiedad en condominio, de departamentos, despachos, negocios o comercios independientes o mixtos, se deberá instalar, preferentemente, una toma y medidor por usuario; pero sólo por causa justificada podrá autorizarse una sola toma con medidor en cada conjunto.
+
+Para autorizar una sola toma como lo señala el párrafo anterior, el promotor, desarrollador, propietario o poseedor del inmueble de que se trate, deberá solicitar por escrito la prestación del servicio.
+
+Cuando un edificio que tenga instalada una toma de agua cambie al régimen de propiedad en condominio, se podrá autorizar que se siga surtiendo de dicha toma, eximiendo a los propietarios o poseedores de cada piso, departamento, o local, de la instalación de aparatos medidores individuales, recabando previamente la solicitud escrita a que se refiere el segundo párrafo del presente artículo.
 
 ###### Artículo 54.
 
@@ -889,7 +1173,7 @@ Aquellos desarrollos industriales, turísticos, campestres y de otras actividade
 
 La nueva prestación o establecimiento de servicios públicos, en asentamientos que carezcan de ellos, se hará del conocimiento de los interesados por medio de un comunicado en cualesquiera de los medios de difusión, a fin de que los interesados tengan conocimiento de la prestación de dichos servicios públicos.
 
-### CAPÍTULO ÚNICO. DERECHOS Y OBLIGACIONES DE LOS USUARIOS
+### CAPÍTULO SEGUNDO. CONEXIÓN AL SISTEMA
 
 ###### Artículo 57.
 
@@ -909,11 +1193,13 @@ III. Determinar el presupuesto para efectos de cobro, que comprenderá el import
 
 IV. Las conexiones e instalaciones de tomas solicitadas se autorizarán con base en el resultado de la visita practicada de acuerdo a esta Ley, en un término de cinco días hábiles computables a partir de la recepción del informe. La elaboración del informe no podrá extenderse por más de diez días hábiles a partir de la visita.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 59.
 
-Firmado el contrato correspondiente y pagado el importe del costo de la instalación, conexión y accesorios, así como de las cuotas que correspondan por el usuario, el organismo prestador de los servicios ordenará la instalación de la toma y la conexión de las descargas de aguas residuales y/o pluviales, según corresponda, dentro de los treinta días hábiles siguientes a la fecha de pago.
+Firmado el contrato correspondiente y pagado el importe del costo de la instalación, conexión y accesorios, así como de los derechos que correspondan por el usuario, el organismo prestador de los servicios ordenará la instalación de la toma y la conexión de las descargas de aguas residuales y/o pluviales, según corresponda, dentro de los treinta días hábiles siguientes a la fecha de pago.
 
-Cuando se trate de tomas solicitadas para establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que al efecto determine el organismo prestador de los servicios públicos conforme a los lineamientos que emita el Instituto.
+Cuando se trate de tomas solicitadas para establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que al efecto determine el organismo prestador de los servicios públicos.
 
 ###### Artículo 60.
 
@@ -929,19 +1215,35 @@ En los casos en que, con motivo de la instalación de la toma o las descargas, s
 
 Cuando el prestador de los servicios no cumpla con la obligación establecida en este precepto en el plazo señalado, el Ayuntamiento deberá hacer la reparación del pavimento, la guarnición o la banqueta, según sea el caso, con cargo al organismo prestador de los servicios.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 62.
 
-Cualquier modificación que se pretenda hacer al inmueble o establecimiento, que afecte las instalaciones correspondientes a los servicios públicos, requerirá de la presentación previa de la solicitud respectiva, por los interesados, al organismo prestador de los servicios.
+Cualquier modificación que se pretenda hacer al inmueble o establecimiento, que afecte las instalaciones correspondientes a los servicios públicos materia de esta Ley, requerirá de la presentación previa de la solicitud respectiva, por los interesados, al organismo prestador de los servicios.
 
 En ningún caso el propietario o poseedor del predio o establecimiento podrá manipular u operar por sí mismo la instalación, supresión o conexión de los servicios públicos.
 
+El prestador del servicio podrá autorizar por escrito, una derivación de agua potable en las siguientes circunstancias:
+
+I. Para suministrar el servicio de agua potable a un predio, giro o establecimiento colindante, cuando el sistema no alcance a otorgar el servicio;
+
+II. Cuando se trate de espectáculos o diversiones públicas temporales, siempre que cuenten con el permiso correspondiente; y
+
+III. En los demás casos, mediante el estudio detallado de la situación específica y con aprobación del prestador del servicio.
+
+En los casos de conexión a una ya existente legalmente por derivación, deberá contarse previamente con la autorización del propietario del predio, giro o establecimiento derivante, quien estará obligado solidariamente a pagar los derechos o tarifas que correspondan.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 63.
 
-En los casos en que, conforme a la Ley, proceda la obturación o, en su caso, la supresión de una toma de agua, el gasto correspondiente se ejecutará con cargo al usuario, por el prestador de servicios correspondiente.
+En los casos que conforme a la Ley proceda la restricción o, en su caso, la supresión de una toma de agua. El gasto correspondiente se ejecutará con cargo al usuario, por el prestador de servicios correspondiente.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 64.
 
-Las interconexiones de toma de agua o de descarga al alcantarillado requerirán de previa autorización del proyecto o control en su ejecución por el prestador de los servicios públicos, debiendo en todo caso contarse con las condiciones necesarias para que éste pueda cobrar las cuotas o tarifas que le correspondan por el suministro de dichos servicios.
+Las interconexiones de toma de agua o de descarga al alcantarillado requerirán de previa autorización del proyecto o control en su ejecución por el prestador de los servicios públicos, debiendo en todo caso contarse con las condiciones necesarias para que éste pueda cobrar los derechos y tarifas que le correspondan por el suministro de dichos servicios.
 
 ###### Artículo 65.
 
@@ -961,17 +1263,89 @@ Cuando el prestador de los servicios detecte una toma clandestina deberá darla 
 
 Todo lo relacionado con los predios o establecimientos, la forma en que otras autoridades o terceros deberán informar o avisar al prestador de los servicios de autorizaciones o actividades relacionadas con la presente ley; los trámites y procedimientos que se requieran para su cumplimiento, la obligación de proporcionar información para integrar el padrón de usuarios y para facilitar las atribuciones de la autoridad o la operación de los servicios públicos y, en general, las demás para proveer la exacta observancia de la presente ley, se precisarán en el reglamento de la misma.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 67 bis. Corresponde a los Organismos Operadores, en sus respectivos ámbitos de competencia:
+
+I. Vigilar el cumplimiento de las normas técnicas expedidas para regular las aguas residuales no domésticas que se viertan en el sistema de drenaje y alcantarillado;
+
+II. Definir las condiciones de pretratamiento para las descargas no domésticas que lo requieran, para la remoción o reducción de concentraciones de determinados contaminantes, cuando se cuente con el sistema público de tratamiento respectivo;
+
+III. Otorgar permisos de descarga de aguas residuales no domésticas al sistema de drenaje a su cargo;
+
+IV. Vigilar el cumplimiento de las disposiciones en materia de calidad de las descargas de aguas residuales preferentemente no domésticas al drenaje y alcantarillado, que se establezcan en las diversas disposiciones legales;
+
+V. Revisar los proyectos de obra de los sistemas de tratamiento que se pretendan construir por parte de los particulares, que descarguen a los sistemas de drenaje y alcantarillado aguas residuales no domésticas y, en su caso, recomendar las modificaciones que estime convenientes; y
+
+VI. Las demás que señale expresamente esta Ley y demás legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 67 ter. Los comercios, talleres e industrias instalarán por cuenta propia, frente a su predio y antes de la descarga al drenaje o alcantarillado, un registro o pozo de visita para efecto de que el prestador del servicio pueda llevar a cabo la operación, el mantenimiento de la descarga y, en su caso, la toma de muestras para analizar las características de las aguas residuales que se descarguen. Estos análisis serán por cuenta del usuario.
+
+Tratándose de usuarios domésticos, para los mismos efectos, preferentemente instalarán el registro o pozo de visita frente a su predio, y los análisis serán por cuenta del prestador del servicio.
+
+Los comerciantes, talleres, industrias y usuarios tendrán la obligación de construir las trampas de sólidos, las desnatadoras de grasas o los sistemas de tratamiento antes de la descarga de sus aguas residuales al drenaje o alcantarillado, que la naturaleza de éstas requieran para cumplir con las condiciones particulares de descarga que determine el prestador del servicio.
+
+Queda prohibido a los propietarios o poseedores de un inmueble:
+
+l. Descargar al sistema de drenaje y alcantarillado cualquier tipo de desechos o sustancias que alteren química o biológicamente los efluentes y los cuerpos receptores, o que por sus características pongan en peligro el funcionamiento del sistema o la seguridad de la población o de sus habitantes;
+
+II. Realizar la conexión clandestina de su descarga al drenaje; y
+
+III. Realizar alguna derivación para no cumplir con las obligaciones que se contienen en la presente Ley.
+
+La violación de este precepto dará lugar a la aplicación de las sanciones previstas en la presente Ley y demás legislación aplicable.
+
+Cuando se trate de una descarga de aguas residuales resultante de actividades productivas en cuerpos receptores distintos al drenaje o alcantarillado, el prestador del servicio informará a la autoridad federal competente.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 67 quáter. Podrá suspenderse el servicio de drenaje o alcantarillado cuando:
+
+l. En el inmueble no exista construcción;
+
+II. Se deba reparar o dar mantenimiento al sistema; y
+
+III. La descarga pueda obstruir la infraestructura, o poner en peligro la seguridad de la población o de sus habitantes.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 67 quinquies. Queda prohibido descargar a los sistemas de drenaje, ríos, manantiales, arroyos, corrientes, colectores o canales localizados en el territorio de la Entidad, desechos tóxicos sólidos o líquidos, productos de procesos industriales u otros clasificados como peligrosos conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 67 sexies. El prestador del servicio instrumentará lo necesario para que los usuarios no domésticos que descarguen aguas residuales, cumplan con las disposiciones legales y normas técnicas en dicha materia, mediante la construcción de sistemas particulares de tratamiento o, en su caso, promoverá la construcción y operación de sistemas públicos de tratamiento y disposición de aguas residuales.
+
+Tratándose de usuarios domésticos, el Organismo Operador procederá a fijar los derechos que resulten necesarias para el diseño, construcción, operación y mantenimiento de los sistemas públicos de tratamiento y disposición, a efecto de cumplir con las disposiciones legales en la materia.
+
+La construcción de las obras y el costo de operación de los sistemas municipales correrán a cargo de quien tenga obligación de tratar sus aguas residuales.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 67 septies. No efectuarán el pago de los derechos y tarifas los propietarios o poseedores de los predios responsables de las descargas que demuestren, que éstas cumplen con las diversas disposiciones aplicables en materia de calidad de aguas residuales, comprobación que se hará en la forma y términos que determine el reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Artículo 67 octies. Los Organismos Operadores elaborarán y notificarán a las autoridades competentes, el inventario de las descargas de aguas residuales no domésticas que se viertan al sistema de drenaje y alcantarillado a su cargo, en el que se incluirán los volúmenes y condiciones de descarga autorizados.
+
+En los sistemas de disposición y tratamiento de aguas residuales que se pretendan construir, se considerarán y deberán realizar los proyectos para el manejo y disposición final de lodos, en los términos de las disposiciones legales respectivas.
+
 ## TÍTULO CUARTO. DE LOS CONSUMIDORES
 
-### CAPÍTULO PRIMERO. DE LAS CUOTAS Y TARIFAS
+### CAPÍTULO ÚNICO. DERECHOS Y OBLIGACIONES DE LOS USUARIOS
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 68.
 
-Todo usuario, tanto del sector público como del sector social o privado, está obligado al pago de los servicios públicos que se proporcionen, con base en las cuotas o tarifas fijadas en los términos de esta Ley.
+Todo usuario, tanto del sector público como del sector social o privado, está obligado al pago de los servicios públicos que se proporcionen, con base en los derechos y tarifas fijadas en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 69.
 
-Los usuarios deberán pagar el importe de la tarifa o cuota dentro del plazo que se señale en el recibo correspondiente, debiendo efectuarse en las oficinas que determine el prestador de los servicios públicos.
+Los usuarios deberán pagar el importe del derecho dentro del plazo que se señale en el recibo correspondiente, debiendo efectuarse en las oficinas que determine el prestador de los servicios públicos.
 
 ###### Artículo 70.
 
@@ -979,21 +1353,25 @@ El propietario de un predio responderá ante el prestador de los servicios públ
 
 Cuando se transfiera la propiedad de un inmueble, con sus servicios públicos, el nuevo propietario se subrogará en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso al prestador de los servicios, salvo en el caso de que se realice una nueva contratación, en donde deberá verificarse la liquidación total de los adeudos que en su caso existieren.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 71.
 
-El servicio de agua potable que disfruten los usuarios en los municipios del Estado, será medido de conformidad con lo establecido en el artículo 58 del presente ordenamiento.
+Cuando los predios no cuenten con medidor por causas imputables al organismo operador, los usuarios cubrirán el derecho previamente aprobado por el Congreso del Estado.
 
-Cuando no sea posible medir el consumo debido a la destrucción total o parcial del medidor respectivo, el prestador de los servicios podrá optar por determinar los cargos en función de los consumos realizados con anterioridad, independientemente de los cargos a cubrir por la reposición del medidor.
+Cuando no sea posible medir el consumo debido a la destrucción total o parcial del medidor respectivo, el prestador de los servicios podrá optar por determinar los derechos en función de los consumos realizados con anterioridad, independientemente de los derechos a cubrir por la reposición del medidor.
 
-Cuando los predios no cuenten con medidor por causas imputables al organismo operador, cubrirán la cuota fija previamente establecida por el prestador de los servicios públicos, conforme a los criterios establecidos por el Instituto.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 72.
 
-Los usuarios que se surtan de agua potable por medio de interconexiones autorizadas por los prestadores de los servicios, pagarán las tarifas correspondientes al medidor de la toma original, de la que se conecte, pero si la toma no tiene medidor aún, cubrirán la cuota fija previamente establecida por el prestador de los servicios públicos.
+Los usuarios que se surtan de agua potable por medio de interconexiones autorizadas por los prestadores de los servicios, pagarán las tarifas correspondientes al medidor de la toma original, de la que se conecte, pero si la toma no tiene medidor aún, cubrirán el derecho previamente aprobado por el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 73.
 
-Por cada interconexión, el usuario pagará al prestador de los servicios públicos el importe de las cuotas de conexión que correspondan a una toma, así como el servicio respectivo.
+Por cada interconexión, el usuario pagará al prestador de los servicios públicos el importe de los derechos de conexión que correspondan a una toma, así como el servicio respectivo.
 
 ###### Artículo 74.
 
@@ -1003,7 +1381,9 @@ Las autoridades de los ayuntamientos serán responsables de vigilar el cumplimie
 
 En épocas de escasez de agua, el prestador de los servicios públicos podrá acordar condiciones de restricción en las zonas y durante el lapso que sea necesario, previo aviso oportuno a los usuarios, a través de los medios de comunicación disponibles.
 
-Cuando la escasez de agua sea originada por negligencia o falta de previsión del prestador de los servicios públicos, éste responderá de los perjuicios que resulten, conforme a lo establecido por el Instituto o los contratos respectivos.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Cuando la escasez de agua sea originada por negligencia o falta de previsión del prestador de los servicios públicos, éste responderá de los perjuicios que resulten, conforme a lo establecido en los contratos respectivos.
 
 ###### Artículo 76.
 
@@ -1033,7 +1413,9 @@ X. Participar, a través de los consejos consultivos, en la planeación, program
 
 #### SECCIÓN PRIMERA. ESTRUCTURA TARIFARÍA
 
-### CAPÍTULO SEGUNDO. FACULTAD DE INSPECCIÓN Y VERIFICACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+### CAPÍTULO PRIMERO. DE LOS DERECHOS Y TARIFAS
 
 ###### Artículo 77.
 
@@ -1053,99 +1435,75 @@ VI. Impulsar el mejoramiento de la calidad del agua; y
 
 VII. Considerar el costo de operación y todas las actividades inherentes al mismo. Así como la ampliación de coberturas.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 78.
 
-Las cuotas o tarifas resultantes se determinarán y actualizarán por quien preste los servicios, previa aprobación del Congreso del Estado, con base en la aplicación de las fórmulas que defina el organismo operador, de conformidad a los criterios y lineamientos que establezca el Instituto. Dichas fórmulas establecerán los parámetros y su interrelación para el cálculo de las tarifas medias de equilibrio.
+Los derechos y tarifas resultantes se determinarán y actualizarán por quien preste los servicios, previa aprobación del Congreso del Estado, con base en lo que defina el organismo operador, en los procedimientos se establecerán los parámetros y su interrelación para el cálculo de las tarifas medias de equilibrio, mismas que se determinarán en veces salarios mínimos.
 
-Las tarifas medias de equilibrio deberán ser suficientes para cubrir los costos derivados de la operación, el mantenimiento y administración de los sistemas; la rehabilitación y mejoramiento de la infraestructura existente; la amortización de las inversiones realizadas; los gastos financieros de los pasivos; y las inversiones necesarias para la expansión de la infraestructura. Las fórmulas deberán reflejar el efecto que, en su caso, tengan en las tarifas medias de equilibrio las aportaciones que realicen los gobiernos estatal, federal o municipal, o cualquier otra instancia pública, privada o social. Estas también deberán tomar en cuenta explícitamente el efecto de la eficiencia física, comercial, operativa y financiera de los prestadores de los servicios.
+Las tarifas medias de equilibrio deberán ser suficientes para cubrir los costos derivados de la operación, el mantenimiento y administración de los sistemas; la rehabilitación y mejoramiento de la infraestructura existente; la amortización de las inversiones realizadas; los gastos financieros de los pasivos; y las inversiones necesarias para la expansión de la infraestructura. Los procedimientos deberán reflejar el efecto que, en su caso, tengan en las tarifas medias de equilibrio, las aportaciones que realicen los gobiernos estatal, federal o municipal, o cualquier otra instancia pública, privada o social. Estas también deberán tomar en cuenta explícitamente el efecto de la eficiencia física, comercial, operativa y financiera de los prestadores de los servicios.
 
-Una vez aprobadas las cuotas y tarifas por el Congreso del Estado, serán publicadas en el Periódico Oficial y en el periódico de mayor circulación en el Municipio.
+Una vez aprobados los derechos y tarifas por el Congreso del Estado, serán publicadas en el Periódico Oficial y en el periódico de mayor circulación en el Municipio.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 79.
 
-Las fórmulas para el cálculo de las tarifas medias de equilibrio deberán diferenciar las correspondientes a la prestación de los diferentes servicios en ese sentido, las fórmulas que establezca el organismo operador determinarán:
+Los procedimientos para el cálculo de las tarifas medias de equilibrio deberán diferenciar las correspondientes a la prestación de los diferentes servicios en ese sentido, los procedimientos que establezca el organismo operador determinarán:
 
 I. La tarifa media de equilibrio de los servicios de abastecimiento de agua potable; en sus diferentes modalidades;
 
 II. La tarifa media de equilibrio de los servicios de recolección y tratamiento de aguas residuales; en sus diferentes modalidades;
 
-III. La cuota por conexión a la red de agua potable;
+III. El derecho por conexión a la red de agua potable;
 
-IV. La cuota por conexión a la red de drenaje; y
+IV. El derecho por conexión a la red de drenaje; y
 
 V. Las demás que se requieran conforme al criterio del organismo operador.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 80.
 
-Las revisiones a las fórmulas, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán por el organismo operador cada cinco años, conforme a los criterios y lineamientos que establezca el Instituto, dichas revisiones podrán hacerse en base a recomendación del consejo consultivo, quienes deberán anexar una propuesta y un estudio técnico que las justifique.
+Las revisiones, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán por el organismo operador, dichas revisiones podrán hacerse en base a una propuesta y un estudio técnico que las justifique.
 
 ###### Artículo 81.
 
-Para el cálculo de las tarifas medias de equilibrio, el prestador de los servicios públicos podrá sustituir, en las fórmulas que establezca el organismo operador, los valores de cada parámetro conforme a los criterios establecidos por el Instituto. Estos deberán corresponder a las características del sistema en particular; tomando en cuenta lo establecido en el proyecto correspondiente.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2009)
 
-La estructura tarifaría debe establecer criterios de equidad en el costo de dichos servicios, y diseñarse de manera tal que de su aplicación resulten los mismos ingresos que si se aplicaran las tarifas medias.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 82.
 
-La Junta de Gobierno del organismo operador vigilará la correcta aplicación de las fórmulas, así como la congruencia entre las tarifas medias y la estructura tarifaría correspondiente.
+La Junta de Gobierno del organismo operador vigilará la correcta aplicación de los derechos, así como la congruencia entre las tarifas medias y la estructura tarifaría correspondiente.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 83.
 
-Los pagos que deberán cubrir los usuarios por la prestación de los servicios públicos se clasifican en:
-
-I. Cuotas por:
-
-a) Instalación de tomas domiciliarias;
-
-b) Conexión de servicio de agua;
-
-c) Conexión al drenaje o alcantarillado y tratamiento de aguas residuales provenientes de uso doméstico;
-
-d) Conexión al drenaje o alcantarillado y tratamiento de aguas residuales provenientes de las diversas actividades económicas, cuando la descarga se realice por arriba o por abajo de las concentraciones permisibles, conforme a las normas oficiales mexicanas en materia ecológica o las condiciones particulares de descarga vigentes, en los términos de la normatividad en materia de equilibrio ecológico y protección al ambiente aplicable;
-
-e) Instalación o reparación de medidores; y
-
-f) Otros servicios.
-
-II. Tarifas por los servicios públicos de:
-
-a) Uso mínimo;
-
-b) Uso doméstico;
-
-c) Uso comercial;
-
-d) Uso industrial;
-
-e) Otros usos;
-
-f) Servicios de drenaje o alcantarillado y tratamiento de aguas residuales provenientes de uso doméstico;
-
-g) Servicios de drenaje o alcantarillado, así como de tratamiento de aguas residuales provenientes de las diversas actividades económicas, cuando la descarga se realice por arriba o abajo de las concentraciones permisibles, conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la normatividad en materia de equilibrio ecológico y protección al ambiente; y
-
-h) Otros servicios.
-
-Además de las clasificaciones anteriores, las tarifas serán aplicadas por rango de consumo, de acuerdo con lo que señale el reglamento respectivo.
-
-No podrán existir exenciones respecto de las cuotas o tarifas a que se refiere el presente artículo.
+No se concederán exenciones respecto a los derechos y tarifas a que se refiere el presente capítulo, salvo las previstas en las disposiciones legales aplicables.
 
 ###### Artículo 84.
 
-Las cuotas y tarifas que se cobren al usuario serán independientes de los pagos que éste tenga que efectuar, conforme a la legislación hacendaría aplicable.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2009)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 85.
 
-La falta de pago, por parte de usuarios no domésticos, facultará al organismo operador o al prestador de los servicios públicos correspondiente, para el corte de los mismos, hasta que se regularice su pago.
+La falta de pago, por parte de los usuarios, facultará al organismo operador o al prestador de los servicios públicos correspondiente, para la restricción de los mismos, hasta que se regularice su pago.
 
 Igualmente, quedan facultados el organismo operador o los prestadores de los servicios públicos, a suspender estos cuando se comprueben derivaciones o un uso distinto al convenido.
 
 Lo anterior será independiente de poner en conocimiento de tal situación a las autoridades correspondientes, para los efectos legales a que haya lugar.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 86.
 
-Los notarios públicos o jueces no autorizarán o certificarán los actos traslativos de dominio de bienes inmuebles urbanos, cuando no se acredite estar al corriente en el pago de las cuotas o tarifas por los servicios públicos proporcionados.
+Los notarios públicos o jueces no autorizarán o certificarán los actos traslativos de dominio de bienes inmuebles urbanos, cuando no se acredite estar al corriente en el pago de los derechos o tarifas por los servicios públicos proporcionados.
 
-### CAPÍTULO PRIMERO. INFRACCIONES Y SANCIONES
+### CAPÍTULO SEGUNDO. FACULTAD DE INSPECCIÓN Y VERIFICACIÓN
 
 ###### Artículo 87.
 
@@ -1263,39 +1621,77 @@ El organismo operador o el prestador de los servicios públicos podrán realizar
 
 #### SECCIÓN SEGUNDA. INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
-### CAPÍTULO SEGUNDO. RECURSOS ADMINISTRATIVOS
+### CAPÍTULO PRIMERO. INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 104.
 
-Para los efectos de esta Ley, cometen infracción:
+La autoridad estatal, municipal o los organismos operadores, sancionarán conforme a lo previsto por esta Ley, los siguientes hechos:
 
-I. Las personas que instalen derivaciones en cualquiera de las instalaciones del sistema;
+l. Explotar, usar, o aprovechar aguas estatales sin título cuando lo exija la presente Ley, así como modificar o desviar los cauces, vasos o corrientes cuando sean administrados por el Estado, sin autorización de la Comisión;
 
-II. El que deteriore cualquier instalación o infraestructura destinada a los servicios públicos;
+II. Explotar, usar o aprovechar aguas estatales, sin observar las disposiciones en materia de calidad del agua;
 
-III. El que utilice el servicio para destinarlo a usos distintos a los de su objeto;
+III. Explotar, usar o aprovechar aguas estatales en volúmenes mayores a los autorizados en el título respectivo;
 
-IV. Quien descargue aguas residuales en las redes de drenaje y alcantarillado sin contar con el permiso de descarga correspondiente, o hubiere manifestado datos falsos para obtener el permiso referido.
+IV. Ocupar cuerpos receptores administrados por el Estado, sin autorización de la Comisión;
 
-V. Quien descargue aguas residuales en las redes de drenaje y alcantarillado sin cubrir las cuotas o tarifas respectivas.
+V. Alterar la infraestructura hidráulica autorizada, sin permiso de la autoridad estatal, municipal o los organismos operadores, en el ámbito de sus respectivas competencias;
 
-VI. Los que desperdicien el agua;
+VI. Negar los datos requeridos por la autoridad estatal, municipal o los organismos operadores, para verificar el cumplimiento de las disposiciones contenidas en esta ley y en los títulos de concesión;
 
-VII. Las personas que impidan la instalación de los servicios públicos;
+VII. Arrojar o depositar sustancias tóxicas y lodos provenientes de los procesos de tratamiento y disposición de aguas residuales, en cauces y vasos estatales;
 
-VIII. Los propietarios o poseedores de predios, inmuebles, construcciones o casas habitación, que previa notificación para la instalación del medidor, no hayan dado las facilidades necesarias para estos efectos, al organismo operador o prestador de los servicios que corresponda; en un plazo no mayor a 30 días;
+VIII. Incumplir las obligaciones contenidas en el título de concesión, autorización o permiso;
 
-IX. Los que construyan u operen sistemas para la prestación de los servicios públicos, sin la concesión o permiso correspondiente; y (sic)
+IX. Incumplir la obligación de solicitar oportunamente el servicio de agua potable y la instalación de la descarga correspondiente, dentro de los plazos establecidos en esta Ley;
+
+X. Instalar en forma clandestina conexiones en cualesquiera de las instalaciones de las redes, así como ejecutar o consentir que se realicen provisional o permanentemente, derivaciones de agua o drenaje;
+
+XI. Proporcionar servicios de agua en forma distinta a la que señale esta Ley a personas que están obligadas a surtirse directamente el servicio público;
+
+XII. Negarse el usuario a reparar alguna fuga de agua que se localice en su predio;
+
+XIII. Desperdiciar ostensiblemente el agua o no cumplir con los requisitos, normas y condiciones de uso eficiente del agua que establece esta Ley, su reglamento o las disposiciones que emitan la autoridad estatal, municipal o los organismos operadores a cargo del servicio;
+
+XIV. Impedir, sin interés jurídico y causa debidamente justificada, la ejecución de obras hidráulicas en vía pública, para la instalación de los servicios de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+
+XV. Deteriorar o causar daños a cualquier obra hidráulica o red de distribución;
+
+XVI. Impedir la instalación de los dispositivos necesarios para el registro o medición de la cantidad y calidad del agua, en los términos que establece esta Ley, su reglamento y demás disposiciones aplicables;
+
+XVII. Causar desperfectos al aparato medidor, violar los sellos del mismo, alterar el consumo o provocar que el propio medidor no registre el consumo de agua, así como retirar o variar la colocación del medidor de manera transitoria o definitiva, sin la autorización correspondiente;
+
+XVIII. Impedir la revisión de los aparatos medidores o la práctica de visitas de inspección;
+
+XIX. Emplear mecanismos para succionar agua de las tuberías de conducción o de distribución, sin la autorización correspondiente;
+
+XX. Descargar aguas residuales en la red de drenaje sin contar con el permiso de la autoridad estatal, municipal o los organismos operadores a cargo del servicio, o haber manifestado datos falsos para obtener el permiso de referencia;
+
+XXI. Recibir el servicio público de agua potable, agua residual tratada o drenaje, alcantarillado y tratamiento de las aguas residuales en las redes de drenaje, sin haber cubierto los derechos o tarifas respectivas;
+
+XXII. Descargar aguas residuales en las redes de drenaje y alcantarillado, por parte de los usuarios de aguas nacionales, sin que se hayan cubierto los derechos y tarifas respectivas;
+
+XXIII. Incumplir el concesionario con cualquiera de las obligaciones establecidas en la presente Ley, o las previstas en el título de concesión;
+
+XXIV. Realizar campañas con fines de lucro o beneficios personales, con el objeto de incitar a la comunidad a incumplir con lo dispuesto en esta Ley;
+
+XXV. No registrar las instalaciones u obras hidráulicas ante la Comisión y Organismos Operadores; y
+
+XXVI. Incurrir en cualquier otra violación a los preceptos que señala esta Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 105.
 
-Las infracciones a que se refiere el artículo anterior, serán sancionadas administrativamente, por la autoridad correspondiente, en los términos siguientes:
+Las faltas a que se refiere el artículo anterior, serán sancionadas administrativamente por la autoridad estatal, municipal o los organismos operadores con multas equivalentes a días de salario mínimo general vigente en el área geográfica y en el momento en que se cometa la Infracción:
 
-I. Con multa por el equivalente de uno a diez veces el salario mínimo diario general vigente en el Estado, al momento de la infracción, tratándose de la fracción VI;
+I. De uno a treinta en el caso de violación a las fracciones III, V, VI, IX y XVI;
 
-II. Con multa por el equivalente de uno a veinte veces el salario mínimo diario general vigente en el Estado, al momento de la infracción, en el caso de las fracciones I, III y VIII;
+II. De treinta a quinientos en el caso de violación a las fracciones IV, VIII, X, XI, XII, XIII, XIV, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV y XXVI; y
 
-III. Con multa por el equivalente de uno a treinta veces el salario mínimo diario general vigente en el Estado, al momento de la infracción, tratándose de las infracciones a que se refieren las fracciones II, IV, V, VII y IX.
+III. De quinientos a mil en el caso de violación a las fracciones I, II, VII y XV.
 
 Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, los daños causados, las condiciones económicas del infractor y la reincidencia, en caso procedente.
 
@@ -1327,7 +1723,9 @@ Son infracciones cometidas por los prestadores de los servicios públicos y/o lo
 
 I. Negar la contratación de los servicios públicos sin causa justificada;
 
-II. Aplicar cuotas y tarifas que excedan las resultantes de la aplicación de las fórmulas a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+II. Aplicar derechos y tarifas que excedan las autorizadas en términos de esta Ley;
 
 III. No prestar los servicios públicos de conformidad con los niveles de calidad o condiciones establecidas por los organismos operadores en el título de concesión o el convenio celebrado, así como en la legislación federal o estatal vigente, conjuntamente con las disposiciones que, al efecto, se expidan, tomando como base la normatividad en materia de equilibrio ecológico y protección al ambiente o las normas oficiales aplicables;
 
@@ -1362,6 +1760,8 @@ Las sanciones que se señalan en el artículo anterior se aplicarán sin perjuic
 Para la aplicación de las sanciones a que se refiere el artículo 110, la autoridad competente, según sea el caso, notificará al presunto infractor de los hechos motivo del procedimiento y le otorgará un plazo de quince días hábiles para que presente pruebas y manifieste por escrito lo que a su derecho convenga.
 
 Transcurrido dicho plazo, la autoridad competente dictará la resolución que corresponda, en un plazo no mayor a treinta días hábiles.
+
+### CAPÍTULO SEGUNDO. RECURSOS ADMINISTRATIVOS
 
 ###### Artículo 113.
 
@@ -1420,3 +1820,27 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga el decreto 2155, relativo a la Ley de Prestación de los Servicios de Agua Potable, Drenaje y Alcantarillado en el Estado de Tabasco, publicada en el Periódico Oficial el 24 de abril de 1982.
+
+Tercero. Las funciones que realiza los Servicios de Agua Potable y Alcantarillado del Estado de Tabasco, serán asumidas por la Comisión Estatal de Agua y Saneamiento, por lo que se subroga en todos los derechos y obligaciones que le correspondían al primero, en consecuencia, se transfieren a dicha Comisión todos los recursos humanos, materiales, económicos y los de carácter técnico y administrativo, así como los bienes muebles e inmuebles con que los Servicios de Agua Potable y Alcantarillado del Estado de Tabasco operaba.
+
+La transferencia del personal de los Servicios de Agua Potable y Alcantarillado del Estado de Tabasco será sin perjuicio de sus derechos laborales.
+
+Cuarto. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Quinto. En un plazo de treinta días naturales contados a partir de la entrada en vigor de este Decreto, se constituirá el Consejo de la Comisión Estatal de Agua y Saneamiento.
+
+Sexto. El reglamento de esta Ley y de la Comisión Estatal de Agua y Saneamiento, se publicarán en un plazo máximo de ciento ochenta días naturales contados a partir de su vigencia.
+
+Séptimo. En todas las disposiciones legales, resoluciones, contratos, convenios o actos realizados con anterioridad a la vigencia de la presente Ley, en que se haga referencia a los Servicios de Agua Potable y Alcantarillado del Estado de Tabasco, tales referencias se entenderán como hechas a la Comisión Estatal de Agua y Saneamiento.
+
+Octavo. Los órganos u organismos que hayan sido constituidos con anterioridad a la entrada en vigor de la presente Ley, en un plazo máximo de un año, ajustarán su organización y funcionamiento a las disposiciones de esta Ley y de los reglamentos que se expidan con base en ella.
+
+Noveno. En la celebración de los Convenios entre algún municipio y el poder ejecutivo estatal para la asunción de la responsabilidad de la prestación de los servicios públicos de agua, se estará a lo dispuesto por la Constitución Política de los Estados Unidos mexicanos, la Constitución del Estado, la Ley Orgánica de los Municipios del Estado de Tabasco, la presente Ley, su Reglamento y demás ordenamientos que resulten aplicables.
