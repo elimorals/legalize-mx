@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-prevencion-y-atencion-de-la-violencia-37196"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-18"
-last_updated: "2008-05-27"
+last_updated: "2009-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección Septuagésima del Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 2003.
 
@@ -177,8 +177,6 @@ II. Fomentar la capacitación sobre la detección y prevención de la violencia 
 
 III. Diseñar y operar en los planteles educativos programas de detección y canalización de víctimas de violencia intrafamiliar a las unidades de atención respectivos; así como la creación de grupos de atención de violencia intrafamiliar, integrados por padres de familia, personal docente y alumnado.
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
-
 ###### Artículo 10.
 
 Le corresponde a la Secretaría de Salud, además del despacho de los asuntos precisados en la Ley Orgánica del Poder Ejecutivo, las siguientes:
@@ -195,7 +193,7 @@ V. Promover que se preste la atención a las víctimas de la violencia intrafami
 
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
 
-VI. Difusión y aplicación en todos los sectores de salud la norma oficial aplicable, referente a la prestación de servicios de salud, y los criterios para la atención médica de la violencia intrafamiliar.
+VI. Difusión y aplicación en todos los sectores de salud (sic) la norma oficial aplicable, referente a la prestación de servicios de salud, y los criterios para la atención médica de la violencia intrafamiliar.
 
 ###### Artículo 11.
 
@@ -203,9 +201,7 @@ La Secretaría de Seguridad Pública, Prevención y Readaptación Social además
 
 I. Coordinarse con la Procuraduría General de Justicia para la atención de los casos de violencia intrafamiliar que sean reportados y que constituyan delito;
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
-
-II. Instaurar cursos de formación y capacitación a los cuerpos policíacos sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención; y
+II. instaurar cursos de formación y capacitación a los cuerpos policíacos sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención; y
 
 III. Integrar comités de participación ciudadana y seguridad vecinal en colaboración con las autoridades responsables, con fines preventivos de la violencia intrafamiliar.
 
@@ -233,7 +229,11 @@ II. Incorporar a sus programas acciones de asistencia y prevención de la violen
 
 III. Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a víctimas y victimarios de la violencia intrafamiliar.
 
-### CAPITULO II. EL CONSEJO ESTATAL PARA LA PREVENCION, ATENCION DE LA VIOLENCIA INTRAFAMILIAR EN EL ESTADO
+### CAPITULO II
+
+> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
+
+DEL CONSEJO ESTATAL PARA LA PREVENCION, ATENCION DE LA VIOLENCIA INTRAFAMILIAR EN EL ESTADO
 
 ###### Artículo 14.
 
@@ -247,61 +247,41 @@ II. Establecer las bases de modelos de atención y coordinación entre las insti
 
 III. Impulsar y apoyar los trabajos de investigación y análisis relacionados con la violencia intrafamiliar.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 15.
 
-El órgano rector del Consejo será una junta de gobierno, la cual se conformará por el titular o el representante que designen de las siguientes entidades y dependencias:
+El órgano rector del Consejo será la Junta de Gobierno, la cual se conformará por los titulares de las entidades y dependencias enumeradas a continuación, o por quienes estos designen:
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
+I. La Secretaría de Desarrollo Humano, la cual lo presidirá y designará a un Director de dicha Secretaría para que funja como Secretario Técnico;
 
-a) Ejecutivo Estatal a través del Secretario de Desarrollo Humano quien lo preside;
+II. Presidente del Organismo Estatal;
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
+III. Secretaría General de Gobierno;
 
-b) El Director designado por quien preside el Organismo Estatal, quien también fungirá como Secretario Técnico;
+IV. Secretaría de Educación;
 
-c) Presidente del Organismo Estatal;
+V. Secretaría de Salud;
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
+VI. Secretaría de Seguridad Pública, Prevención y Readaptación Social;
 
-d) Secretaría General de Gobierno;
+VII. Procuraduría General de Justicia;
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
+VIII. Supremo Tribunal de Justicia del Poder Judicial del Estado;
 
-e) Secretaría de Educación;
+IX. Comisión Estatal de Derechos Humanos;
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
+X. Consejo Estatal de Familia;
 
-f) Secretaría de Salud;
+XI. Hogar Cabañas;
 
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
+XII. Instituto Jalisciense de Asistencia Social;
 
-g) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+XIII. Instituto Jalisciense de las Mujeres;
 
-h) Procuraduría General de Justicia;
+XIV. Tres especialistas en la materia propuestos por las instituciones de educación superior más representativas en el Estado, nombrados por el Presidente del Consejo, y
 
-i) Supremo Tribunal de Justicia del Poder Judicial del Estado;
-
-j) Comisión Estatal de Derechos Humanos;
-
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
-
-k) Consejo de Familia;
-
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
-
-l) Instituto Cabañas;
-
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
-
-m) Instituto Jalisciense de Asistencia Social;
-
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
-
-n) Instituto Jalisciense de las Mujeres;
-
-o) Tres especialistas en la materia de las instituciones de educación superior más representativas en el Estado a propuesta del Presidente del Consejo; y
-
-p) Tres vocalías, a cargo de representantes de los organismos sociales que se hayan destacado por su trabajo y estudio en la materia de violencia intrafamiliar, invitados anualmente mediante convocatoria del Ejecutivo del Estado.
+XV. Tres representantes de los organismos sociales que se hayan destacado por su trabajo y estudio en la materia de violencia intrafamiliar, invitados anualmente con carácter de vocales mediante convocatoria del Presidente de la Junta de Gobierno.
 
 ###### Artículo 16.
 
@@ -337,7 +317,7 @@ VI. Coordinar la capacitación para los servidores públicos de las diferentes d
 
 VII. Incorporar programas de acción social desde el núcleo donde se genera la violencia intrafamiliar, incorporando a la sociedad organizada en la operación de los mismos, estableciendo y manteniendo vínculos de trabajo específico, intercambio de información y propuestas de modelos de atención;
 
-VIII. Promover en coordinación con las instituciones especializadas, públicas y privadas, el estudio e investigación sobre violencia intrafamiliar en el Estado tendientes a incluir principios y procedimientos para abordar su (sic) prevenciones y solución, difundir los resultados que deriven de dichos estudios, así como avances logrados en el ámbito nacional e internacional;
+VIII. Promover en coordinación con las instituciones especializadas, publicas y privadas, el estudio e investigación sobre violencia intrafamiliar en el Estado tendientes a incluir principios y procedimientos para abordar su (sic) prevenciones y solución, difundir los resultados que deriven de dichos estudios, así como avances logrados en el ámbito nacional e internacional;
 
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
 
@@ -360,6 +340,8 @@ XV. Evaluar trimestralmente los logros y avances del Programa Permanente para la
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
 
 XVI. Proponer al Organismo Estatal el nombramiento de los empleados del Consejo y sus Unidades; y
+
+> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
 
 XVII. Aprobar su reglamento interior.
 
@@ -506,6 +488,8 @@ I. Tenderá a la resolución de fondo del problema de la violencia intrafamiliar
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
 
 II. Será libre de prejuicios de género, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo; y
+
+> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
 
 III. Se basará en modelos psicoterapéuticos adecuados y específicos.
 
@@ -748,3 +732,13 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En todos los procesos, procedimientos, juicios, sucesiones, legados, convenios, contratos, acuerdos y cualquier otro instrumento jurídico suscrito, iniciado o del que forme parte el Instituto Cabañas a la fecha de entrada en vigor del presente decreto se deberá entender que se refiere al organismo público descentralizados (sic) denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+
+TERCERA (SIC). En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+
+CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo deberá actualizar su clasificador por objeto del gasto antes de la presentación del proyecto de presupuesto de egresos para el ejercicio fiscal del 2010.
