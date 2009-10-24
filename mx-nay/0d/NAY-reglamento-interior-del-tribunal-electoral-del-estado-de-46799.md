@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-tribunal-electoral-del-estado-de-46799"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-19"
-last_updated: "2005-10-19"
+last_updated: "2009-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE NAYARIT
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2009 EN EL P.O. DEL ESTADO DE NAYARIT SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el miércoles 19 de octubre de 2005.
 
@@ -55,7 +57,7 @@ d). Tribunal: El Tribunal Electoral del Estado de Nayarit;
 
 e). Pleno: El Pleno del Tribunal Electoral del Estado de Nayarit;
 
-f). Salas: Las Salas del Tribunal Electoral del Estado;
+f). (DEROGADO, P.O. 24 DE OCTUBRE DE 2009)
 
 g). Presidente: El Presidente del Tribunal Electoral del Estado;
 
@@ -67,19 +69,31 @@ j). Contador: El Contador General del Tribunal Electoral;
 
 k). Juez (Jueces): El o los Jueces Instructores del Tribunal Electoral del Estado;
 
-l). Consejo: El Consejo Estatal Electoral;
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-m). Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit; y
+l). Instituto: El Instituto Estatal Electoral
 
-n). Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+m). Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit;
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+n). Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit; y
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+o). Contralor Interno.
 
 ###### Artículo 3.
 
 El Tribunal se integra con cinco Magistrados Numerarios y tres Supernumerarios; un Secretario General, Jueces Instructores y demás personal necesario para el ejercicio de sus funciones, de conformidad con la disponibilidad presupuestal autorizada.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 4.
 
-El Tribunal tendrá su sede en la ciudad de Tepic, Nayarit, y funcionará, según los casos, en Pleno y en Salas. El Pleno se integrará por los cinco magistrados numerarios y las Salas por tres magistrados numerarios, y funcionarán con el quórum legal a que se refiere el artículo 29 de este reglamento.
+El Tribunal tendrá su sede en la ciudad de Tepic, Nayarit, y funcionará con el quórum legal a que se refiere el artículo 29 de este reglamento.
 
 ###### Artículo 5.
 
@@ -89,9 +103,11 @@ Concluido un proceso electoral y resueltos definitivamente la totalidad de los m
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES DEL PLENO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 6.
 
-Son atribuciones administrativas, reglamentarias y jurisdiccionales del Pleno, además de las previstas por el artículo 135 de la Constitución, en relación con el artículo 12 de la Ley y las derivadas de este propio reglamento, las siguientes:
+Son atribuciones administrativas, reglamentarias y jurisdiccionales del Pleno, además de las previstas por el artículo 135 de la Constitución, en relación con el artículo 12 y 13 de la Ley y las derivadas de este propio reglamento, las siguientes:
 
 I.- Designar, cuando corresponda, de entre los Magistrados Numerarios, a quien fungirá como Presidente, en los términos del artículo 6o. de la Ley;
 
@@ -117,7 +133,7 @@ XI.- Designar a los integrantes del Comité de Adquisiciones del Tribunal;
 
 XII.- Designar, en la forma y términos previstos por este Reglamento, a las comisiones que se consideren pertinentes para el cabal ejercicio de sus atribuciones;
 
-XIII.- Acordar la adscripción o readscripción de Magistrados a las Salas, previo consentimiento de los mismos, así como las de los Jueces y demás personal, para el mejor funcionamiento del Tribunal;
+XIII.- (DEROGADA, P.O. 24 DE OCTUBRE DE 2009)
 
 XIV.- Proponer al Titular del Ejecutivo y al Congreso del Estado, proyectos de reformas constitucionales y legales relacionados con la materia electoral y en aquellas otras que se estimen pertinentes;
 
@@ -153,11 +169,13 @@ Los acuerdos y resoluciones de las comisiones, se tomarán por unanimidad o por 
 
 ###### Artículo 10.
 
-El Tribunal está integrado con dos Salas, denominadas Primera Sala y Segunda Sala, cada una de las Salas funcionarán con tres Magistrados Numerarios incluyendo su Presidente, y con el Secretario General de Acuerdos. Para que sus acuerdos tengan validez, se requerirá por lo menos de la presencia de dos magistrados, entre los que deberá estar el Presidente. Sus resoluciones se tomarán por mayoría o por unanimidad de votos, en caso de empate el Presidente tendrá voto de calidad.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2009)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 11.
 
-Son atribuciones de las Salas además de las previstas por el artículo 13 de la Ley, las siguientes:
+Son atribuciones del Pleno en Materia Jurisdiccional, las siguientes:
 
 I.- Comunicar, por conducto del Presidente, al H. Congreso del Estado, cuando se den los supuestos de nulidad previstos en los artículos 98, 99 y 101 de la Ley, se convoque a elecciones extraordinarias dentro del plazo previsto en el artículo 20 de la Ley Electoral; y
 
@@ -173,9 +191,13 @@ Durante la etapa que media entre dos procesos electorales ordinarios, el conocim
 
 Son atribuciones de los magistrados además de las previstas por la Ley, las siguientes:
 
-I.- Concurrir, participar y votar cuando corresponda en las sesiones públicas y reuniones privadas a las que sean convocados por la Presidencia, el Pleno y las Salas de su adscripción;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-II.- Según corresponda, integrar el Pleno y las Salas del Tribunal para resolver colegiadamente los asuntos de su respectiva competencia;
+I.- Concurrir, participar y votar cuando corresponda en las sesiones públicas y reuniones privadas a las que sean convocados por la Presidencia o el Pleno;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+II.- Integrar el Pleno del Tribunal para resolver colegiadamente los asuntos de su competencia;
 
 III.- Formular los proyectos de resolución y ponencias de los expedientes que les sean turnados y exponerlos en la sesión respectiva, por sí o a través del juez instructor de su adscripción;
 
@@ -193,25 +215,33 @@ IX.- Cubrir las guardias cuando así lo requieran las necesidades del servicio; 
 
 X.- Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 14.
 
-Los magistrados no podrán abstenerse de votar a menos que estén legalmente impedidos, ni ausentarse de las sesiones sin autorización del Pleno o de la Sala a que estén adscritos.
+Los magistrados no podrán abstenerse de votar a menos que estén legalmente impedidos, ni ausentarse de las sesiones sin autorización del Pleno o por fuerza mayor.
 
 ###### Artículo 15.
 
 Las ausencias de los Magistrados Numerarios del Tribunal serán cubiertas de la siguiente manera:
 
-I.- Cuando sean temporales, el Pleno llamará en el orden en que fueron designados por el Congreso del Estado, al magistrado supernumerario correspondiente, por el tiempo necesario para suplir la ausencia, la cual no podrá ser mayor de noventa días; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-II.- Cuando sea definitiva, con la integración del magistrado supernumerario que elija el Pleno.
+I.- Cuando sean temporales, el Pleno informará a el Congreso del Estado, para que en su caso, asigne al magistrado correspondiente, por el tiempo necesario para suplir la ausencia, la cual no podrá ser mayor de noventa días; y
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+II.- Cuando sea definitiva, con la integración del magistrado que elija el Congreso del Estado.
 
 En ambos casos, el Presidente deberá dar cuenta de ello al Congreso del Estado dentro de las 72 horas siguientes para los efectos legales a que haya lugar.
 
 ### CAPÍTULO V. DEL PRESIDENTE
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 16.
 
-El Presidente será designado por el Pleno, de entre los magistrados numerarios y de conformidad con el artículo 6º. de la Ley; quien durará en el cargo un año, pudiendo ser reelecto por una sola vez.
+El Presidente será designado por el Pleno, de entre los magistrados numerarios y de conformidad con el artículo 6°. de la Ley; quien durará en el cargo un año, pudiendo ser reelecto.
 
 ###### Artículo 17.
 
@@ -245,7 +275,9 @@ II.- El Presidente ejercerá el presupuesto del Tribunal de conformidad a los ac
 
 III.- Suscribir los nombramientos de los servidores del Tribunal, una vez que hayan sido aprobados por el Pleno;
 
-IV.- Coordinar las funciones jurisdiccionales y administrativas de las Salas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IV.- Coordinar las funciones jurisdiccionales y administrativas del Pleno;
 
 V.- Vigilar que se apliquen los medios de apremio, correcciones disciplinarias y sanciones administrativas previstas por la Ley;
 
@@ -255,7 +287,9 @@ VII.- Comparecer en representación del Tribunal ante toda clase de autoridades 
 
 VIII.- Otorgar con el acuerdo del Pleno, estímulos económicos y reconocimientos a los servidores del Tribunal que se destaquen en el ejercicio de sus responsabilidades;
 
-IX.- Ordenar la publicación de los criterios obligatorios y tesis relevantes que haya sustentado el Tribunal, dentro de los seis meses siguientes a la conclusión de los procesos electorales;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IX.- Ordenar la publicación de los criterios obligatorios y tesis relevantes que haya sustentado el Tribunal, dentro de los seis meses siguientes a la conclusión de los procesos electorales o en un plazo de 30 días cuando hubieren sido acordados en sesiones habidas entre dos procesos electorales;
 
 X.- Dictar y poner en práctica las medidas necesarias para el despacho pronto y expedito de los asuntos propios del Tribunal;
 
@@ -271,15 +305,19 @@ XV.- Vigilar que el Tribunal cuente con los recursos humanos, materiales y econ�
 
 XVI.- Tramitar los medios de apremio y las correcciones disciplinarias en los supuestos y términos previstos en el artículo 63 de la Ley, así como sustanciar los procedimientos para la aplicación de las sanciones administrativas de los servidores públicos del Tribunal;
 
-XVII.- Turnar a los magistrados de las Salas, con apoyo del Secretario General, los medios de impugnación que se interpongan en términos de Ley, observando el procedimiento relativo a las reglas de turnos, previsto en este reglamento;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XVII.- Turnar a los magistrados, con apoyo del Secretario General, todos los asuntos de la competencia jurisdiccional que se interpongan en términos de Ley, observando el procedimiento relativo a las reglas de turnos, previsto en este reglamento;
 
 XVIII.- Expedir, previa aprobación del Pleno, los manuales de organización y de procedimientos necesarios, con el objeto que tanto los recursos humanos como patrimoniales, sean aprovechados y aplicados con criterios de eficiencia, eficacia y de simplificación administrativa; y
 
 XIX.- Las demás que se deriven del presente reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 20.
 
-Las ausencias temporales del Presidente del Tribunal no excederán de sesenta días naturales. En este caso, serán cubiertas por el magistrado numerario que elija el Pleno en base a este Reglamento. El Presidente electo fungirá como provisional, exclusivamente por el tiempo necesario. En caso que la ausencia exceda de dicho periodo, se designará nuevo presidente.
+Las ausencias temporales del Presidente del Tribunal que excedan de treinta días naturales serán cubiertas por el magistrado numerario más antiguo en el cargo o en su caso, por el de mayor edad. El Presidente provisional, fungirá exclusivamente por el tiempo necesario para cubrir dicha ausencia y cuando ésta sea superior a dicho término, se designará nuevo Presidente.
 
 ### CAPÍTULO VI. DEL SECRETARIO GENERAL
 
@@ -287,7 +325,9 @@ Las ausencias temporales del Presidente del Tribunal no excederán de sesenta d�
 
 Son atribuciones del Secretario General, las previstas por el artículo 20 de la Ley, más las siguientes:
 
-I.- Efectuar las certificaciones necesarias para el debido engrose de las resoluciones del Pleno como de las Salas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+I.- Efectuar las certificaciones necesarias para el debido engrose de las resoluciones del Pleno;
 
 II.- Publicar las listas de los asuntos que se habrán de analizar y resolver en cada sesión pública;
 
@@ -305,7 +345,9 @@ VIII.- Dar cuenta de los medios de impugnación que deban ser sustanciados, obse
 
 IX.- Llevar los registros que se requieran para el debido control de los expedientes;
 
-X.- Autorizar con su firma las actuaciones del Pleno y de las Salas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+X.- Autorizar con su firma las actuaciones del Pleno;
 
 XI.- Organizar, controlar y administrar la biblioteca y archivos jurisdiccionales, promoviendo la constante actualización del acervo; y
 
@@ -385,9 +427,11 @@ VI.- Las demás que le sean ordenadas por el Presidente, Magistrados, Secretario
 
 ### CAPÍTULO X. DEL CONTADOR GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 27.
 
-Para el adecuado funcionamiento y cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, patrimonio, registro y contabilidad, fiscalización, pago de personal, contratación de servicios, recursos materiales y demás aplicables a que se refiere el artículo 20 fracción XII de la Ley, el Tribunal contará con un Contador General, el cual tendrá entre otras, las obligaciones y atribuciones siguientes:
+Para el adecuado funcionamiento y cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, patrimonio, registro y contabilidad, fiscalización, pago de personal, contratación de servicios, recursos materiales y demás aplicables a que se refiere el artículo 20 fracción XII de la Ley, el Tribunal contará con un Contador General, quién será nombrado y removido por el Pleno a propuesta del Presidente y el cual tendrá entre otras, las obligaciones y atribuciones siguientes:
 
 I.- Apoyar al Presidente en la gestión de los recursos humanos, financieros y materiales necesarios, para el buen funcionamiento del Tribunal;
 
@@ -417,17 +461,41 @@ XIII.- Coadyuvar en la solventación de las observaciones que formule el Órgano
 
 XIV.- Las demás que les confieran el Presidente, el Pleno y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 28.
 
-El Contador será designado y removido por el Pleno a propuesta del Presidente.
+El Contralor Interno será designado y removido por el Pleno a propuesta del Presidente y ejercerá las atribuciones que le determinen la Ley de Responsabilidades Públicas del Estado de Nayarit, la Ley de Justicia Electoral, éste Reglamento y en lo que no se opongan las siguientes:
+
+I. Vigilar el cumplimiento de las normas de control;
+
+II. Comprobar el cumplimiento, por parte de las áreas administrativas, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+
+III. Revisar que las operaciones, informes contables y estados financieros, estén basados en los registros contables;
+
+IV. Vigilar el adecuado ejercicio del presupuesto de egresos del Tribunal Electoral;
+
+V. Examinar la asignación y correcta utilización de los recursos financieros, humanos y materiales;
+
+VI. Revisar el cumplimiento de los objetivos y metas fijados en los programas presupuestales a cargo del Tribunal Electoral con el propósito de recomendar las medidas pertinentes;
+
+VII. Sugerir correcciones de deficiencias o desviaciones detectadas y establecer el seguimiento de su implementación para la adecuada toma de decisiones;
+
+VIII. Analizar y evaluar los sistemas de procedimientos y control interno;
+
+IX. Revisar que las adquisiciones de bienes y prestación de servicios, obra pública y servicios de obra pública, se ajusten a los procedimientos normativos y los montos autorizados;
+
+X. Elaborar el instructivo para la creación y manejo de fondos revolventes, y
+
+XI. Las demás que le confieran las disposiciones aplicables.
 
 ### CAPÍTULO XI. DE LAS SESIONES
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 29.
 
-Para que el Pleno del Tribunal sesione válidamente, se requerirá la presencia de por lo menos tres magistrados entre los que deberá estar el Presidente quien lo presidirá. Sus resoluciones se tomarán por mayoría o unanimidad de votos, en caso de empate el Presidente tendrá voto de calidad.
-
-Para que el Pleno de las Salas sesione válidamente, se requerirá la presencia de por lo menos dos Magistrados, entre los que deberá estar el Presidente, quien lo presidirá. Sus resoluciones se tomarán por mayoría o por unanimidad de votos, en caso de empate el Presidente tendrá voto de calidad.
+Las sesiones del Pleno del Tribunal serán válidas con la presencia de por lo menos tres magistrados entre los que deberá estar el Presidente quien lo presidirá. Sus resoluciones se tomarán por mayoría o unanimidad de votos, en caso de empate el Presidente tendrá voto de calidad.
 
 ###### Artículo 30.
 
@@ -467,9 +535,11 @@ Iniciada una sesión, sólo podrá suspenderse por causa justificada y mayoría 
 
 En las sesiones de resolución ninguna persona del público podrá hacer uso de la palabra ni interferir en alguna forma en el desarrollo de las mismas. El Presidente tendrá la facultad de hacer abandonar el recinto a quienes alteren el orden y podrá solicitar el uso de la fuerza pública para hacer cumplir sus determinaciones.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 33.
 
-Las sesiones de glosa, discusión y votación de los proyectos de resolución de las Salas serán públicas y excepcionalmente de carácter privadas en los términos previstos por la ley o por determinación del Pleno. Se celebrarán en el domicilio oficial del Tribunal, y excepcionalmente cuando medien circunstancias graves que atenten contra la seguridad de sus integrantes o el orden de las mismas, se podrá acordar celebrarlas en lugar distinto, las que se sujetarán a la orden del día previamente acordada y conforme al listado previsto por el artículo 53, inciso a) de la Ley.
+Las sesiones de glosa, discusión y votación de los proyectos de resolución serán públicas y en forma excepcional de carácter privadas en los términos previstos por la ley o por determinación del Pleno. Se celebrarán en el domicilio oficial del Tribunal, y solo cuando medien circunstancias graves que atenten contra la seguridad de sus integrantes o el orden de las mismas, se podrá acordar celebrarlas en lugar distinto, las que se sujetarán a la orden del día previamente acordada y conforme al listado previsto por el artículo 53, inciso a) de la Ley.
 
 ## TÍTULO TERCERO. EL PROCEDIMIENTO CONTENCIOSO ELECTORAL
 
@@ -479,9 +549,11 @@ Las sesiones de glosa, discusión y votación de los proyectos de resolución de
 
 En los procesos electorales ordinarios o extraordinarios, todos los días y horas son hábiles.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 35.
 
-Durante el tiempo que no corresponda a un proceso electoral, se considerarán hábiles todos los días del año, con exclusión de los sábados, domingos y días de descanso obligatorio, determinados por la Ley de la materia y por el Pleno. Se considerarán horas hábiles las que medien entre las 9:00 nueve y las 17:00 diecisiete horas.
+Durante el tiempo que no corresponda a un proceso electoral, se considerarán hábiles todos los días del año, con exclusión de los sábados, domingos y días de descanso obligatorio, determinados por la Ley de la materia y por el Pleno. Se considerarán horas hábiles las que medien entre las 9:00 nueve y las 20:00 horas.
 
 ###### Artículo 36.
 
@@ -499,7 +571,9 @@ III.- Los números, cifras o cantidades, deberán ser escritos en su expresión 
 
 IV.- Ordinariamente se escribirá a doble espacio, y renglón seguido. Si fuera necesario iniciar un nuevo párrafo, deberá cancelarse con guiones el espacio resultante entre el fin del texto y el margen derecho del documento; y
 
-V.- Si una vez firmadas y notificadas las resoluciones y actuaciones, se observara algún error u omisión en la redacción del texto, que no pudieron corregirse oportunamente, la Sala estará en condiciones, a petición de parte o de oficio, a instaurar un incidente de aclaración de sentencia.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+V.- Si una vez firmadas y notificadas las resoluciones y actuaciones, se observara algún error u omisión en la redacción del texto, que no pudieron corregirse oportunamente, el Pleno estará en condiciones, a petición de parte o de oficio, a instaurar un incidente de aclaración de sentencia.
 
 ### CAPÍTULO II. DEL REGISTRO Y CONTROL DE EXPEDIENTES
 
@@ -507,41 +581,53 @@ V.- Si una vez firmadas y notificadas las resoluciones y actuaciones, se observa
 
 Con apoyo en el artículo 20 fracciones VI y VII de la Ley, el Secretario General, llevará el registro de los expedientes que se integren con motivo de los recursos y demás procedimientos especiales que deban ser sustanciados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 39.
 
-Para tal efecto, se autorizarán por el Presidente y el Secretario General, la apertura de los siguientes libros de control debidamente foliados:
+Para tal efecto, el Presidente y el Secretario General, autorizarán la apertura de los siguientes libros de control debidamente foliados:
 
 I.- Control de Recursos de Apelación;
 
 II.- Control de Juicios de Inconformidad;
 
-III.- Control de Procedimientos para la Aplicación de Sanciones Administrativas; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-IV.- Control de Juicios de Revisión Constitucional.
+III.- Control de Medios de Impugnación para la defensa de los Derechos Políticos Electorales del Ciudadano
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IV.- Control de Procedimientos para la Aplicación de Sanciones Administrativas; y
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+V.- Control de Juicios de Revisión Constitucional.
 
 En estos libros se asentarán los siguientes datos:
 
-a) Número progresivo que le corresponda al medio de impugnación o procedimiento, seguido del año en que se presente;
+Número progresivo que le corresponda al medio de impugnación o procedimiento, seguido del año en que se presente;
 
-b) Fecha de recepción;
+Fecha de recepción;
 
-c) Nombre del recurrente o promovente;
+Nombre del recurrente o promovente;
 
-d) Nombre del Tercero Interesado;
+Nombre del Tercero Interesado;
 
-e) Autoridad Responsable;
+Autoridad Responsable;
 
-f) Acto Impugnado;
+Acto Impugnado;
 
-g) Fecha de Turno;
+Fecha de Turno;
 
-h) Fecha de Admisión;
+Fecha de Admisión;
 
-i) Fecha y Sentido de la Resolución;
+Fecha y Sentido de la Resolución;
 
-j) Observaciones.
+Observaciones.
 
-V.- Control de Promociones.- En este libro se registrarán los siguientes datos:
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VI.- Control de Promociones.- En este libro se registrarán los siguientes datos:
 
 Día y hora de Presentación;
 
@@ -613,9 +699,11 @@ El turno podrá ser modificado cuando a juicio del Pleno, las cargas de trabajo 
 
 ### CAPÍTULO IV. DE LA NO INTERPOSICIÓN, DESECHAMIENTO Y SOBRESEIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 51.
 
-El Magistrado Instructor que conozca del asunto, propondrá a la Sala tener por no interpuesto el medio de impugnación cuando no se haya dictado auto de admisión en los siguientes casos:
+El Magistrado Instructor que conozca del asunto, propondrá al Pleno tener por no interpuesto el medio de impugnación cuando no se haya dictado auto de admisión en los siguientes casos:
 
 I.- Cuando no conste por escrito;
 
@@ -623,21 +711,29 @@ II.- Cuando no se señale el nombre del actor y el carácter con el que promueve
 
 III.- Cuando no se haga constar el nombre y la firma autógrafa del promovente.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 52.
 
-El Magistrado Instructor propondrá a la Sala el desechamiento de plano del medio de impugnación cuando se actualicen los supuestos previstos en el artículo 34 de la Ley.
+El Magistrado Instructor propondrá al Pleno el desechamiento de plano del medio de impugnación cuando se actualicen los supuestos previstos en el artículo 34 de la Ley.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 53.
 
-El acuerdo que recaiga a la propuesta referida en los artículos anteriores, será dictado de plano por la Sala a quien le haya sido turnada, sin que para ello se requiera ser listado para su resolución.
+El acuerdo que recaiga a la propuesta referida en los artículos anteriores, será dictado de plano por el Pleno, sin que para ello se requiera ser listado para su resolución.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 54.
 
-El Magistrado Instructor propondrá a la Sala el sobreseimiento de los medios de impugnación cuando se actualicen los supuestos previstos en el artículo 36 de la Ley.
+El Magistrado Instructor propondrá al Pleno el sobreseimiento de los medios de impugnación cuando se actualicen los supuestos previstos en el artículo 36 de la Ley.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 55.
 
-Los medios de impugnación con causales de improcedencia o evidentemente frívolos, deberán ser desechados de plano por la Sala que corresponda.
+Los medios de impugnación con causales de improcedencia o evidentemente frívolos, deberán ser desechados de plano por el Pleno.
 
 ###### Artículo 56.
 
@@ -651,7 +747,9 @@ III.- La recepción de la ratificación a que se refiere la fracción anterior, 
 
 IV.- Se podrá omitir la comparecencia cuando el promovente acredite que el desistimiento fue ratificado ante fedatario público; y
 
-V.- Una vez ratificado el desistimiento, el magistrado instructor someterá a la Sala el proyecto de resolución que corresponda.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+V.- Una vez ratificado el desistimiento, el magistrado instructor someterá al Pleno el proyecto de resolución que corresponda.
 
 ### CAPÍTULO V. DE LA SUSTANCIACIÓN DE LOS RECURSOS DE APELACIÓN Y JUICIOS DE INCONFORMIDAD
 
@@ -669,9 +767,11 @@ Si dentro del plazo otorgado, la autoridad no cumpliera con el requerimiento for
 
 ### CAPÍTULO VI. DE LA ACUMULACIÓN Y DE LA CONEXIDAD DE LA CAUSA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 60.
 
-El Pleno o las salas en sus respectivas esferas de competencia podrán ordenar la acumulación de expedientes cuando concurran las siguientes circunstancias:
+El Pleno podrá ordenar la acumulación de expedientes cuando concurran las siguientes circunstancias:
 
 I.- Se trate de recursos de apelación en los que se impugne simultáneamente por dos o más partidos políticos, el mismo acto o resolución, o un partido político interponga dos o más recursos de apelación contra el mismo acto o resolución;
 
@@ -691,9 +791,11 @@ Si a pesar de lo señalado por el actor en el juicio de inconformidad, el Juez i
 
 ### CAPÍTULO VII. DE LAS RESOLUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 63.
 
-En las sesiones públicas de resolución tanto del Pleno como de las Salas, se observará el procedimiento siguiente:
+En las sesiones públicas de resolución del Pleno, se observará el procedimiento siguiente:
 
 I.- Deberá publicarse en los estrados del tribunal, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión;
 
@@ -709,11 +811,15 @@ VI.- El magistrado ponente por sí o por conducto del juez instructor, expondrá
 
 VII.- Los magistrados podrán discutir el proyecto en turno;
 
-VIII.- Cuando el Pleno de la Sala considere suficientemente discutido el asunto, el Presidente lo someterá a votación;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VIII.- Cuando el Pleno considere suficientemente discutido el asunto, el Presidente lo someterá a votación;
 
 IX.- Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el o los magistrados disidentes se limitarán a expresar el sentido de su voto y en su caso podrán formular voto particular razonado dentro de un plazo de veinticuatro horas, contado a partir de que concluya la sesión respectiva: dicho voto se agregará al expediente;
 
-X.- Si el proyecto del magistrado ponente no fuese aceptado por la mayoría, el Presidente designará a otro magistrado de la misma Sala, quien elaborará la sentencia con las argumentaciones que se hubiesen invocado, y se agregará como voto particular el proyecto que no fue aprobado, si así lo desea el ponente;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+X.- Si el proyecto del magistrado ponente no fuese aceptado por la mayoría, el Presidente designará a otro magistrado, quien elaborará la sentencia con las argumentaciones que se hubiesen invocado, y se agregará como voto particular el proyecto que no fue aprobado, si así lo desea el ponente;
 
 XI.- Por ningún motivo los magistrados podrán abstenerse de emitir su voto;
 
@@ -721,7 +827,9 @@ XII.- De cada una de las sesiones el Secretario General levantará una acta que 
 
 XIII.- En las sesiones públicas sólo podrán participar y hacer uso de la palabra los magistrados, el Secretario General de Acuerdos y en su caso el juez instructor; y
 
-XIV.- El Pleno de la Sala podrá acordar, con base en consideraciones fundadas, posponer la discusión y votación de algún asunto particular.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XIV.- El Pleno podrá acordar, con base en consideraciones fundadas, posponer la discusión y votación de algún asunto particular.
 
 ### CAPÍTULO VIII. DE LOS IMPEDIMENTOS Y EXCUSAS
 
@@ -747,9 +855,11 @@ IV.- Rechazada la excusa, el Pleno del Tribunal, acordará que el Magistrado res
 
 Si el impedido fuera el Presidente, será sustituido por el Magistrado que designe el pleno, entrando en funciones, cuando el Quórum lo requiera, el Magistrado supernumerario que corresponda en el orden de su designación.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 67.
 
-Tratándose de los Jueces instructores, éstos deberán presentarla al Pleno de la Sala, a través del Secretario General, dentro del mismo término al que se refiere el artículo que antecede, contado a partir del momento en que el medio de impugnación le haya sido turnado para instrucción, quien calificará y resolverá de inmediato la misma.
+Tratándose de los Jueces instructores, éstos deberán presentarla al Pleno, a través del Secretario General, dentro del mismo término al que se refiere el artículo que antecede, contado a partir del momento en que el medio de impugnación le haya sido turnado para instrucción, quien calificará y resolverá de inmediato la misma.
 
 ### CAPÍTULO IX. DE LAS NOTIFICACIONES
 
@@ -757,7 +867,9 @@ Tratándose de los Jueces instructores, éstos deberán presentarla al Pleno de 
 
 Cuando los recurrentes, terceros interesados y coadyuvantes, en su primer escrito omitan señalar domicilio, éste no resulte cierto o se encuentre ubicado fuera de esta ciudad, las notificaciones que conforme a la Ley deban hacerse personalmente, se practicarán por estrados.
 
-En el último de los supuestos, y siempre que el domicilio señalado sea dentro del Estado, se podrá hacer la notificación personal, cuando concurran circunstancias que lo ameriten a juicio del pleno y las salas.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+En el último de los supuestos, y siempre que el domicilio señalado sea dentro del Estado, se podrá hacer la notificación personal, cuando concurran circunstancias que lo ameriten a juicio del pleno.
 
 ###### Artículo 69.
 
@@ -779,17 +891,21 @@ I.- Tratándose de autos, el actuario fijará la cédula de notificación y la c
 
 II.- Tratándose de sentencias, se fijará la cédula de notificación que contendrá los datos que figuren en el preámbulo de ésta y sus puntos resolutivos, asentando la razón respectiva en el expediente, en la cual se precise el día y hora de la notificación.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 71.
 
-Las notificaciones de las resoluciones que dicten las Salas del Tribunal, independientemente de que se hagan por estrados, también se podrán hacer por correo certificado, telegrama o fax, en casos urgentes o cuando concurran circunstancias especiales que así lo ameriten.
+Las notificaciones de las resoluciones que dicte el Pleno del Tribunal, independientemente de que se hagan por estrados, también se podrán hacer por correo certificado, telegrama o fax, en casos urgentes o cuando concurran circunstancias especiales que así lo ameriten.
 
 ###### Artículo 72.
 
 La notificación por correo, se hará en pieza certificada, agregándose al expediente el acuse de recibo postal. La notificación por telegrama se hará enviándola por duplicado, para que la oficina que la tramita devuelva el ejemplar sellado que se agregará al expediente.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 73.
 
-A los órganos del Consejo, a las autoridades federales, estatales y municipales y a los ciudadanos recurrentes se les notificará por oficio, personalmente, por correo certificado, telegrama o por fax, según sea el caso.
+A los órganos del Instituto, a las autoridades federales, estatales y municipales y a los ciudadanos recurrentes se les notificará por oficio, personalmente, por correo certificado, telegrama o por fax, según sea el caso.
 
 ### CAPÍTULO X. DE LOS MEDIOS DE APREMIO Y DE LAS CORRECCIONES DISCIPLINARIAS
 
@@ -815,21 +931,29 @@ En el caso de la multa, se hará efectiva por las autoridades hacendarias corres
 
 En la determinación y aplicación de los medios de apremio y de las correcciones disciplinarias, el Presidente del Tribunal tomará en consideración las circunstancias particulares del caso, las personales del responsable y la gravedad de la conducta sancionada.
 
-Por cuanto hace a los órganos del Consejo, así como a las autoridades federales, estatales, municipales y Notarios Públicos, el apercibimiento podrá consistir en aplicar el medio de apremio o la corrección disciplinaria sin perjuicio de cualquier otra responsabilidad que pudiera derivarse.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Por cuanto hace a los órganos del Instituto, así como a las autoridades federales, estatales, municipales y Notarios Públicos, el apercibimiento podrá consistir en aplicar el medio de apremio o la corrección disciplinaria sin perjuicio de cualquier otra responsabilidad que pudiera derivarse.
 
 ### CAPÍTULO XI. DE LOS CRITERIOS DEL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 77.
 
-La facultad de establecer criterios obligatorios corresponde al pleno y a las salas del Tribunal, cuando al resolver los asuntos de sus respectivas competencias se den los supuestos previstos en el artículo 55 de la Ley y este reglamento.
+La facultad de establecer criterios obligatorios corresponde al Pleno del Tribunal, cuando al resolver los asuntos de sus respectivas competencias se den los supuestos previstos en el artículo 55 de la Ley y este reglamento.
 
 El Pleno determinará mediante reglamento específico o acuerdo general, las bases y reglas para la creación, publicación y difusión de los Criterios de Jurisprudencia y Tesis Relevantes que surjan de la resolución de los asuntos sujetos a su jurisdicción.
 
 ### CAPÍTULO XII. DEL ARCHIVO JURISDICCIONAL
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 78.
 
-El Tribunal tendrá un Archivo Jurisdiccional, que comprenderá el del Pleno, y las Salas, estará a cargo del Secretario General y dependiendo de la disponibilidad presupuestal, contará con el personal necesario para el cumplimiento de sus funciones.
+El Tribunal tendrá un Archivo Jurisdiccional, que estará a cargo del Secretario General y dependiendo de la disponibilidad presupuestal, contará con el personal necesario para el cumplimiento de sus funciones.
+
+Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Pleno del Tribunal Electoral del Estado y se publicarán en el Periódico Oficial del Estado de Nayarit.
 
 ###### Artículo 79.
 
@@ -1006,3 +1130,11 @@ Así lo aprobó en sesión extraordinaria de fecha 13 trece de octubre de 2005 d
 La C. Secretaria General de Acuerdos del Tribunal Electoral del Estado de Nayarit, Licenciada Adelaida Echevarría Aguiar, certifica: que las presentes 29 veintinueve fojas concuerdan con su original del cual fueron compulsadas.- Tepic, Nayarit; a 13 trece de octubre de 2005 dos mil cinco.
 
 LIC. ADELAIDA ECHEVARRÍA AGUIAR, SECRETARIA GENERAL DE ACUERDOS.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado
+
+SEGUNDO.- Por única ocasión la elección del próximo Presidente del Tribunal, será por periodo que concluirá hasta el 14 de diciembre de 2010, atendiendo al segundo transitorio de la reforma Constitucional local de fecha 14 de noviembre de 2007.
