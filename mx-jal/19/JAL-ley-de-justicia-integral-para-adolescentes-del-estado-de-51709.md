@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-integral-para-adolescentes-del-estado-de-51709"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2009-02-07"
+last_updated: "2009-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2006.
 
@@ -525,17 +525,21 @@ Los plazos procesales serán improrrogables y su vencimiento hará precluir la f
 
 Todos los hechos y circunstancias pertinentes para la adecuada solución del caso sometido a conocimiento habrán de ser acreditados por cualquier medio de prueba, siempre que no vulneren derechos y garantías fundamentales.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 31.
 
 Si en el transcurso del procedimiento se comprueba que la persona a quien se imputa la realización de la conducta tipificada como delito era mayor de 18 años de edad al momento de realizarla, el Ministerio Público o el Juez, según sea el caso, se declarará incompetente y remitirá los autos a la Autoridad competente.
 
-Si en el transcurso del procedimiento, se comprueba que la persona a quien se le imputa la realización de la conducta era niño o niña menor de 12 años de edad al momento de realizarla, se derivarán las actuaciones al Consejo Estatal de Familia para efectos de que resuelva la situación jurídica y se decrete la medida de protección que corresponda, trasladándose al niño o niña a alguna institución de Asistencia Social que reciba recursos públicos, se archivarán las actuaciones y se notificará, cuando así proceda, a las instituciones dedicadas a la protección de los derechos de la infancia.
+Si en el transcurso del procedimiento, se comprueba que la persona a quien se le imputa la realización de la conducta es niño o niña menor de 12 años de edad al momento de realizarla, el Agente del Ministerio Público decretará las medidas de rehabilitación y asistencia social en los términos del artículo 75 de este ordenamiento, lo pondrá en inmediata libertad y se notificara, cuando así proceda, a las instituciones dedicadas a la protección de los derechos de la infancia, debiendo archivar las actuaciones correspondientes.
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2009)</small>
+Los padres, tutores, quienes ejerzan la patria potestad o la custodia o representantes legales estarán obligados a presentar ante las autoridades correspondientes al niño o niña a fin de que reciban puntualmente las medidas de rehabilitación y asistencia social decretadas así como al pago de la reparación del daño, si se hubiese cuantificado.
 
-Cuando en los términos de lo dispuesto en la parte final de la fracción VII del artículo 308 del Código de Procedimientos penales, se reciba la causa relativa a un adolescente, el Juez dará vista al Ministerio Público de su adscripción para que, dentro de las veinticuatro horas, manifieste si ejercita o no la acción de remisión, con arreglo a las leyes aplicables y con base en las actuaciones anteriores. En caso afirmativo, el juez deberá celebrar la audiencia de vinculación y dentro del término legal, resolverá su situación jurídica y el asunto continuará con sujeción a las disposiciones de esta Ley. En caso negativo, decretará la libertad del inculpado.
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 31
+
+Bis. Para los efectos del artículo anterior, el Agente del Ministerio Público que conozca de la indagatoria, dejará a salvo los derechos de la víctima u ofendido para que los ejercite ante las autoridades competentes.
 
 ###### Artículo 32.
 
@@ -1540,3 +1544,11 @@ P.O. 7 DE FEBRERO DE 2009.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones encomendadas a la Subprocuraduría de Servicios Jurídicos Asistenciales se podrán realizar por conducto de auxiliaries (sic) sociales comisionados o adscritos a ésta.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
