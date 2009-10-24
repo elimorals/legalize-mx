@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2007-10-20"
+last_updated: "2009-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -467,21 +467,19 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo habido de una relación incestuosa. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo es incestuoso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 49.
 
-Toda persona que encontrare a un menor o en cuya casa o propiedad fuere expuesto o abandonado alguno, deberá presentarlo ante el agente del Ministerio Público, o cualquier otra autoridad para que ésta de inmediato lo presente al Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados con él; quien integrará la averiguación respectiva mencionando en ella el nombre de la persona o de la institución que se hará cargo de su protección y solicitará el oficial del Registro Civil levante el acta de nacimiento.
+Toda persona que encontrare a un menor o en cuya casa o propiedad fuere expuesto o abandonado alguno, deberá presentarlo ante el Agente del Ministerio Público o cualquier otra autoridad, para que ésta de inmediato lo presente al Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados en él. El Agente del Ministerio Público integrará la averiguación previa, dará vista a la Procuraduría Social y pondrá al menor a disposición del Consejo Estatal de Familia o del Hogar Cabañas y remitirá a la mayor brevedad al Agente Social las constancias de la averiguación con la información a la que se refiere el último párrafo del presente artículo, para que éste solicite al Oficial del Registro Civil levante el acta de nacimiento.
 
-La misma obligación tienen los responsables de los reclusorios preventivos, instituciones de readaptación social; asociaciones religiosas y de cualesquiera casa de comunidad, especialmente las de hospitales, sanatorios, casas de maternidad u otros establecimientos similares, respecto de los niños nacidos o expuestos en ellas.
+La misma obligación tienen los responsables de los reclusorios preventivos, instituciones de readaptación social; asociaciones religiosas y de cualesquiera casas de comunidad, especialmente las de hospitales, sanatorios, casas de maternidad u otros establecimientos similares, respecto de los niños nacidos o expuestos en ellas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2007)</small>
+En caso de que posteriormente los padres aparecieran, se levantará un acta de reconocimiento siguiendo todos los requisitos que marca la ley.
 
-En caso en que posteriormente los padres aparecieran, se levantará un acta de reconocimiento siguiendo todos los requisitos que marca la Ley.
+En caso de que el Ministerio Público o el Agente Social no cumplan con las obligaciones que les impone el presente artículo, se harán acreedores a las sanciones administrativas que correspondan.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
-
-En todos los casos deberá existir constancia de la búsqueda de los padres por parte del representante social o los sistemas de desarrollo integral para la familia, ello a fin de agotar la posibilidad de registrar al menor con los apellidos de sus padres.
+En todos los casos deberá existir constancia de la búsqueda de los padres por parte del Ministerio Público o de los sistemas de desarrollo integral para la familia, ello a fin de agotar la posibilidad de registrar al menor con los apellidos de sus padres.
 
 ###### Artículo 50.
 
@@ -589,19 +587,21 @@ La falta de registro de la adopción no quita a ésta sus efectos legales, pero 
 
 Artículo 67 bis.- En los casos de adopción plena, se cancelará la Clave Única de Registro Nacional de Población que hubiere sido asignada, y se asignará una nueva en la correspondiente acta en el presente caso, la dirección general del registro civil deberá notificar dicha circunstancia al registro nacional de población e identificación personal para los efectos correspondientes.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 68.
 
-El acta de adopción simple contendrá: nombre, apellidos, sexo, fecha de nacimiento, edad, domicilio y clave única de registro de población del adoptado; nombre, apellidos, edad, estado civil, domicilio y nacionalidad del adoptante o adoptantes; el oficial del Registro Civil hará una anotación en donde manifieste la clave donde quedarán archivados los datos escenciales (sic) de la resolución judicial, fecha en que cause ejecutoria y tribunal que la dictó.
+El acta de adopción simple contendrá: nombre, apellidos, sexo, fecha de nacimiento, edad, domicilio y Clave Única del Registro de Población del adoptado; nombre, apellidos, edad, estado civil, domicilio y nacionalidad del adoptante o adoptantes.
 
 ###### Artículo 69.
 
 Extendida el acta de adopción simple, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 70.
 
-Cuando se trate de adopción plena, al resolverse la misma se ordenará la cancelación del acta de nacimiento del adoptado y el levantamiento de otra acta de nacimiento, en la que los adoptantes figuren como padres, prohibiéndose expresamente cualquier referencia al procedimiento de adopción.
+Cuando se trate de adopción plena, al resolverse la misma se ordenará la cancelación del acta de nacimiento del adoptado y el levantamiento de otra acta de nacimiento, en la que los adoptantes figuren como padres, prohibiéndose expresamente cualquier referencia al procedimiento de adopción. Sin que sea requisito para el levantamiento del acta de nacimiento referida, el que se haya cancelado el acta de nacimiento del adoptado.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1326,3 +1326,11 @@ PRIMERO. El presente decreto entrará en vigor (sic) los cuarenta y cinco días 
 SEGUNDO. Llévense a cabo las transferencias presupuestales que sean necesarias para su cumplimiento; para ello, la Dirección General del Registro Civil del Estado se coordinará con la Secretaría de Finanzas para la debida presupuestación y aplicación de los recursos que sean necesarios para tal efecto.
 
 TERCERO. La Dirección General del Registro Civil del Estado deberá desarrollar los programas computacionales y demás herramientas técnico-administrativas que sean indispensables para la ejecución del presente, respetando en todo momento la autonomía de los municipios.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
