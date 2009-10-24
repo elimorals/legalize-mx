@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2007-02-22"
+last_updated: "2009-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -83,9 +83,21 @@ III. Organismo Municipal.- Es el organismo público descentralizado de cada muni
 
 IV. Instituto.- Es el Instituto Jalisciense de Asistencia Social;
 
-V. Instituto Cabañas; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-VI. Aquéllas otras que conforme a la ley se encuentran constituidas o se lleguen a constituir.
+V. El Hogar Juan Cruz Ruiz de Cabañas y Crespo, conocido indistintamente con el nombre de Hogar Cabañas, y (sic)
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VI. Delegado Personal.- Aquella persona con carácter de auxiliar de Justicia, emanado de la lista de Tutores, Tutrices y Curadores, aprobada por el Consejo de la Judicatura del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VII. Delegado Institucional.- Organismos públicos que tengan por objeto la custodia, tutela y asistencia a la niñez, a los incapaces y a las personas en edad senil; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VIII. Aquéllas otras que conforme a la ley se encuentran constituidas o se lleguen a constituir.
 
 ###### Artículo 4.
 
@@ -231,7 +243,9 @@ II. Evaluar el desempeño de las instituciones de asistencia social y beneficenc
 
 III. Elaborar y evaluar anualmente un Programa Estatal de Asistencia Social, siguiendo los lineamientos del Plan Estatal de Desarrollo, así como presentar su respectivo informe;
 
-IV. Revisar y evaluar la situación de los menores que se encuentren a cargo del Instituto Cabañas, u otros organismos de beneficencia pública o privada, así como los procedimientos de adopción;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IV. Revisar y evaluar la situación de los menores que se encuentren a cargo del Hogar Cabañas, u otros organismos de beneficencia pública o privada, así como los procedimientos de adopción;
 
 V. Revisar y evaluar las acciones aplicadas para el desarrollo integral de los sujetos de la asistencia social previstos en este Código;
 
@@ -559,9 +573,9 @@ VII. Las demás que sean necesarias para el ejercicio de sus funciones.
 
 El Consejo Estatal de Familia es un órgano de participación ciudadana y desconcentrado del Organismo Estatal, para dar atención y seguimiento a los asuntos que le devienen de las disposiciones contenidas en los Códigos Civil y de Procedimientos Civiles del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia tutela y asistencia a la niñez, a los discapacitados, a las personas en edad senil, a las madres en situación crítica ya sea afectiva o económica y a la familia.
+Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia, tutela y asistencia a la niñez, a los incapaces y a las personas en edad senil y a la familia.
 
 ###### Artículo 34.
 
@@ -571,7 +585,9 @@ I. Un Presidente; que será la persona que desempeñe el cargo de Presidente del
 
 II. Un Secretario Ejecutivo nombrado por el propio Consejo Estatal a propuesta de la presidencia;
 
-III. Un representante del Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+III. Un representante del Hogar Cabañas;
 
 IV. Un representante de alguna institución de asistencia social privada encargada de la custodia de menores en estado de maltrato o abandono, designado por el propio Consejo Estatal a propuesta del instituto;
 
@@ -615,17 +631,25 @@ III. Designar y remover libremente al Secretario Ejecutivo del mismo, a propuest
 
 IV. Elaborar su presupuesto anual de ingresos y egresos;
 
-V. Expedir y modificar su Reglamento Interior de Trabajo;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+V. Expedir y modificar su Reglamento Interior;
 
 VI. Acordar los casos en que deba eximirse del cobro de la cuota de recuperación en los negocios en que le corresponda intervenir, previo estudio socioeconómico;
 
-VII. Actuar como árbitro o consejero en cuestiones relativas al Derecho Familiar y al Derecho Sucesorio; y
+VII. Actuar como árbitro o consejero en cuestiones relativas al Derecho Familiar y al Derecho Sucesorio; y (sic)
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
-VIII. Aprobar el número, asignación y nombramiento de los delegados; y
+VIII. Aprobar el número, asignación y nombramiento de los delegados; y (sic)
 
-IX. Las demás que les confiera este Código y otros ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IX. Vigilar las custodias temporales de menores en proceso de adopción, por sí o a través de los organismos similares en las entidades federativas, de conformidad con los convenios respectivos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
+
+X. Las demás que les confiera este Código y otros ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -649,9 +673,9 @@ V. Tener conjuntamente con la Presidencia del Consejo Estatal y previo acuerdo d
 
 VI. Proponer al Consejo Estatal las prácticas y políticas generales que se habrán de seguir ante organismos gubernamentales, descentralizados o privados que se relacionen con el Derecho de Familia;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-VII. Promover y fortalecer las relaciones del Consejo Estatal con todas las Instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia y asistencia a la niñez, a los adultos mayores, a los incapaces, a las madres en situación crítica ya sea afectiva o económica y a la familia;
+VII. Promover y fortalecer las relaciones del Consejo Estatal con todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia y asistencia a la niñez, a los incapaces y a las personas en edad senil y a la familia.
 
 VIII. Promover y fomentar estudios sobre las materias de su competencia, a través de foros y publicaciones que tengan tal objeto;
 
@@ -691,41 +715,33 @@ II. El Presidente del organismo municipal, que tendrá de oficio, el cargo de Pr
 
 III. El Director del Organismo Municipal;
 
-IV. El representante de la Procuraduría Social;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-V. Un representante de la asistencia social privada;
+IV. El Secretario Ejecutivo;
 
-VI. Un representante de los padres de familia; y
+V. (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+VI. (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE OCTUBRE DE 2009)
 
-VII. Hasta cinco consejeros ciudadanos designados por el presidente del organismo municipal, previa convocatoria a los habitantes del municipio.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+VII. Hasta cinco consejeros ciudadanos designados por el presidente del organismo municipal, previa convocatoria a los habitantes del municipio, los cuales deberán de cubrir los requisitos del artículo 35 de este ordenamiento salvo la edad mínima que se fija en 25 años.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 41.
 
-El Consejo Intermunicipal de Familia podrá conformarse con la participación de dos o más municipios colindantes y pertenecientes al mismo partido judicial, y se podrá integrar por:
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+El Consejo Intermunicipal de Familia podrá conformarse con la participación de dos o más municipios colindantes y pertenecientes al mismo partido judicial, y se integra por:
 
 I. El Presidente de cada uno de los organismos municipales integrantes;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+II. El Secretario Ejecutivo;
 
-II. El Delegado de la Procuraduría de la Defensa del Menor y la Familia de cada municipio integrante;
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
-
-III. El Regidor presidente de la Comisión de Asistencia Social o su similar, de cada uno de los municipios integrantes;
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+III. (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE OCTUBRE DE 2009)
 
 IV. Un Consejero ciudadano por cada uno de los municipios quienes serán designados por el Presidente Municipal, previa convocatoria pública, y los cuales deberán de cubrir los requisitos del artículo 35 del presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
-
-El Consejo Intermunicipal estará presidido por la persona que sea electa por votación del mismo consejo, de entre los Presidentes de los organismos municipales integrantes.
+El Consejo intermunicipal estará presidido por la persona que sea electa por votación del mismo consejo, de entre los Presidentes de los organismos municipales integrantes.
 
 (REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
@@ -771,11 +787,11 @@ En las faltas temporales del Secretario Ejecutivo, de los Consejos de Familia Es
 
 Los Organismos Municipales que por su capacidad económica y administrativa lo requieran, podrán celebrar convenios con el Consejo Estatal de Familia para que éste se haga cargo de las funciones relacionadas con el Consejo Municipal de Familia.
 
-(REFORMADO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 46.
 
-Los consejos de familia estatal y municipales podrán realizar sus funciones a través de delegados personales e institucionales, éstos últimos pueden ser públicos o privados.
+Los consejos de familia estatal, municipales o intermunicipales podrán realizar sus funciones a través de delegados personales e institucionales, estos últimos serán públicos.
 
 ###### Artículo 47.
 
@@ -787,17 +803,21 @@ Los delegados personales deberán cumplir para su desempeño los mismos requisit
 
 El Consejo Estatal de Familia determinará el número y asignación de los delegados que se requieren para cada uno de los municipios en que está dividido el territorio del Estado.
 
-###### Artículo 49.
-
-Los interesados deberán cubrir como honorarios o derechos al Consejo Municipal de Familia, las cantidades que se fijen en las leyes y aranceles profesionales, para los actos en que intervenga el Consejo.
-
-Los delegados personales e institucionales que haya (sic) intervenido en dichos actos, tendrá (sic) derecho a recibir como única y exclusiva compensación, la mitad del monto del pago; y el resto deberá entregarse a la tesorería de los Consejos para sus gastos propios de funcionamiento.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2009)</small>
 
 El Cargo de delegado personal es compatible con el libre ejercicio profesional.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 49.
+
+Los interesados deberán cubrir los derechos al Consejo Estatal, Municipal o Intermunicipal de Familia, por las cantidades que se fijen en las leyes, así como los honorarios que señalen los aranceles profesionales, para los actos en que intervengan los delegados en representacion del Consejo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 50.
 
-Para ser acreditado como delegado Institucional se deberán cubrir los siguientes requisitos:
+Para ser acreditado como delegado Institucional público se deberán cubrir los siguientes requisitos:
 
 I. Estar inscrito en el Registro Estatal de Asistencia Social;
 
@@ -814,6 +834,10 @@ V. Solicitarlo por escrito, motivando el interés de su nombramiento; y acompañ
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
 VI. Los demás requisitos que señale el reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2009)</small>
+
+Siempre que se cumplan todos los requisitos, el Consejo Estatal otorgará la acreditación dentro de los siguientes 30 días siguientes a la solicitud.
 
 ###### Artículo 51.
 
@@ -1195,41 +1219,57 @@ II. Opinar y dictaminar sobre cuentas de administración de los órganos unipers
 
 III. Sugerir a la Junta de Gobierno las medidas que juzgue convenientes para mejorar el funcionamiento del Instituto.
 
-## TITULO TERCERO. INSTITUTO CABAÑAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+## TITULO TERCERO. EL HOGAR CABAÑAS
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 72.
 
-El Instituto Cabañas es un organismo público descentralizado, con personalidad jurídica y patrimonio propio que tendrá a su cargo la protección de los niños que carecen de padres o familiares que los sostengan o que teniéndolos se encuentren en situación económica precaria o de abandono.
+El Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas, es un organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio que tendrá a su cargo la protección de los niños que carecen de padres o familiares que los sostengan o que teniéndolos se encuentren en situación económica precaria o de abandono.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 73.
 
-El Instituto Cabañas, en ejercicio de sus atribuciones y en cumplimiento de sus fines tiene las siguientes facultades y obligaciones:
+El Hogar Cabañas, en ejercicio de sus atribuciones y en cumplimiento de sus fines, tiene las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-I. La asistencia material y educativa a los menores albergados en el Instituto en los términos del artículo 439 del Código Civil del estado, así como la protección y tutela de los mismos;
+I. La asistencia material y educativa a los menores albergados en el Hogar Cabañas en los términos del artículo 439 del Código Civil del Estado, así como la protección y tutela de los mismos;
 
-II. Inculcar en la niñez que se encuentra asilada en el Instituto Cabañas los principios de solidaridad social;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+II. Inculcar en la niñez que se encuentra asilada en el Hogar Cabañas los principios de solidaridad social;
 
-III. Fungir como delegado Institucional del Consejo Estatal de Familia para los efectos del artículo 52 de éste Código, respecto de los menores albergados en el Instituto Cabañas que no tengan quien ejerza la patria potestad;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+III. Fungir como delegado Institucional del Consejo Estatal de Familia para los efectos del artículo 52 de este código, respecto de los menores albergados en el Hogar Cabañas que no tengan quien ejerza la patria potestad;
 
 IV. Fomentar en los menores, los valores éticos que les permitan desarrollarse plenamente en las condiciones actuales de la vida social;
 
-V. La promoción de toda clase de actividades para obtener recursos destinados al aumento de fondos del Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-VI. Conservar y acrecentar el patrimonio del Instituto Cabañas; y
+V. La promoción de toda clase de actividades para obtener recursos destinados al aumento de fondos del Hogar Cabañas;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VI. Conservar y acrecentar el patrimonio del Hogar Cabañas, y
 
 VII. Aceptar o repudiar las herencias, legados y donaciones, rechazándolos cuando impliquen mayores cargas que beneficios.
 
-### CAPITULO II. Del Patrimonio del Instituto Cabañas
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+### CAPITULO II. Del Patrimonio del Hogar Cabañas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 74.
 
-El patrimonio del Instituto Cabañas se integrará con:
+El patrimonio del Hogar Cabañas se integrará con:
 
 I. Los bienes inmuebles y muebles que sean de su dominio;
 
@@ -1243,23 +1283,33 @@ V. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conf
 
 VI. Las aportaciones por la prestación de servicios y por los honorarios que le correspondan;
 
-VII. Los fideicomisos que los particulares y dependencias públicas constituyan a favor del Instituto Cabañas; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VII. Los fideicomisos que los particulares y dependencias públicas constituyan a favor del Hogar Cabañas, y
 
 VIII. Los demás bienes que obtenga por cualquier título.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 75.
 
-El Instituto Cabañas quedará exento del pago de toda clase de contribuciones estatales. También lo estará respecto de las municipales, siempre que recaigan sobre los bienes de dominio público que posean.
+El Hogar Cabañas quedará exento del pago de toda clase de contribuciones estatales. También lo estará respecto de las municipales, siempre que recaigan sobre los bienes de dominio público que posean.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 76.
 
-La vigilancia financiera y administrativa, así como la práctica de auditorías en el Instituto Cabañas estará a cargo de la Contraloría del Estado en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, sin perjuicio de la intervención que le corresponda a la Contaduría Mayor de Hacienda del H. Congreso del Estado.
+La vigilancia financiera y administrativa, así como la práctica de auditorías en el Hogar Cabañas estará a cargo de la Contraloría del Estado en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, sin perjuicio de la intervención que le corresponda a la Auditoría Superior del Estado.
 
-### CAPITULO III. De los Organos de Gobierno del Instituto Cabañas
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+### CAPITULO III. De los Organos de Gobierno del Hogar Cabañas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 77.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, el Instituto Cabañas contará con los siguientes órganos:
+Para el estudio, planeación y despacho de los asuntos que le competen, el Hogar Cabañas contará con los siguientes órganos:
 
 I. La Junta de Gobierno;
 
@@ -1269,21 +1319,27 @@ III. La Dirección General;
 
 IV. El Secretario; y
 
-V. Las unidades técnicas y de administración que determinen las autoridades del mismo Instituto Cabañas y que se autoricen en su presupuesto de egresos.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+V. Las unidades técnicas y de administración que determinen las autoridades del mismo Hogar Cabañas y que se autoricen en su presupuesto de egresos.
 
 #### Sección Primera. De la Junta de Gobierno
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 78.
 
-La Junta de Gobierno es la máxima autoridad del Instituto Cabañas y se integra por un máximo de 17 miembros y estará formada por:
+La Junta de Gobierno es la máxima autoridad del Hogar Cabañas y se integra por un máximo de diecisiete miembros y estará conformada por:
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1998)</small>
 
 I. Un Presidente;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 II. Un Secretario Ejecutivo; y
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1998)</small>
 
 III. Hasta 15 Consejeros.
 
@@ -1293,77 +1349,99 @@ El Presidente será designado por el Titular del Poder Ejecutivo del Estado; as�
 
 a) Los titulares de la Secretaría de Desarrollo Humano, de la Secretaría de Educación y de la Procuraduría Social, o sus respectivos representantes;
 
-b) El Director General del Instituto Cabañas;
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+b) El Director General del Hogar Cabañas;
 
 c) Un representante de alguna institución de asistencia social privada dedicada a la atención y protección de menores, con mayor mérito, inscrita, reconocida y propuesta por el Instituto Jalisciense de Asistencia Social;
 
 d) Hasta tres Consejeros que el Titular del Poder Ejecutivo considere necesarios para la integración de la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-Siete consejeros serán nombrados por el Instituto Cabañas a propuesta de su Dirección General.
+Siete consejeros serán nombrados por el Hogar Cabañas a propuesta de su Dirección General.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 Los miembros nombrados deberán haberse significado por su inclinación y vocación al servicio de la comunidad, así como su probada y reconocida honorabilidad.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-Los cargos de consejeros a que se refiere el presente artículo serán honoríficos; sus titulares no recibirán remuneración alguna, con excepción de los previstos en la fracción II, y el inciso b) del presente artículo, que percibirán los emolumentos señalados en el presupuesto de egresos del propio Instituto Cabañas.
+Los cargos de consejeros a que se refiere el presente artículo serán honoríficos; sus titulares no recibirán remuneración alguna, con excepción de los previstos en la fracción II, y el inciso b) del presente artículo, que percibirán los emolumentos señalados en el presupuesto de egresos del propio Hogar Cabañas.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 79.
 
-Las sesiones de la Junta de Gobierno se llevarán a cabo en las instalaciones del Instituto Cabañas, previa convocatoria de su presidente, pudiendo ser ordinarias o extraordinarias. Ambas deberán celebrarse en la fecha señalada por la convocatoria respectiva, debiendo las ordinarias celebrarse una vez al mes.
-
-Para que la junta de gobierno sesione, se requiere que exista el quórum legal, que se integrará con la asistencia de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de los miembros presentes, y en caso de empate, el Presidente tendrá voto de calidad.
-
-Las convocatorias deberán notificarse a los miembros de la junta de gobierno, al menos con siete hábiles días (sic) de anticipación. Este plazo podrá reducirse a cuarenta y ocho horas en casos de comprobada urgencia.
-
-En caso de no existir quórum legal en la fecha y horas señalados para la sesión en primera convocatoria, se citará nuevamente para efectuarse con un número no menor de cinco miembros, requiriéndose para ello que la notificación respectiva se haga con una anticipación no menor de cuarenta y ocho horas de su celebración.
+Las sesiones de la Junta de Gobierno se llevarán a cabo en las instalaciones del Hogar Cabañas, previa convocatoria de su Presidente, pudiendo ser ordinarias o extraordinarias. Ambas deberán celebrarse en la fecha señalada por la convocatoria respectiva, debiendo las ordinarias celebrarse una vez al mes.
 
 ###### Artículo 80.
 
 Serán facultades de la Junta de Gobierno las siguientes:
 
-I. Realizar en todo caso investigación socioeconómica a los familiares solicitantes de los servicios del Instituto Cabañas para que sólo ingresen aquéllos menores cuya situación económica o moral así lo amerite;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-II. Previo el estudio específico en cada caso, procurar a los albergados un hogar familiar por medio por medio (sic) de la adopción o de custodias temporales;
+I. Realizar en todo caso investigación socioeconómica a los familiares solicitantes de los servicios del Hogar Cabañas para que sólo ingresen aquéllos menores cuya situación económica o moral así lo amerite;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+II. Previo el estudio específico en cada caso, procurar a los albergados un hogar familiar por medio de la adopción o de custodias temporales;
 
 III. Proponer las medidas que tiendan a mejorar el tratamiento integral de los albergados, con el máximo rendimiento de sus recursos económicos;
 
-IV. Estudiar y adoptar las medidas necesarias para que los menores albergados que están por terminar su estancia en el Hospicio Cabañas, puedan bastarse a sí mismos y sean capaces de formar su propio hogar;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-V. Discutir y aprobar en su caso sus presupuestos de ingresos y egresos, así como los programas de trabajo que presente el Director General del Instituto Cabañas;
+IV. Estudiar y adoptar las medidas necesarias para que los menores albergados que están por terminar su estancia en el Hogar Cabañas, puedan bastarse a sí mismos y sean capaces de formar su propio hogar;
 
-VI. Promover actividades tendientes a obtener recursos para aumentar los fondos de que dispone el Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-VII. Aplicar los fondos obtenidos conforme a las prioridades del Instituto Cabañas;
+V. Discutir y aprobar, en su caso, sus presupuestos de ingresos y egresos, así como los programas de trabajo que presente el Director General del Hogar Cabañas;
 
-VIII. Realizar anualmente inventario pormenorizado de todos los bienes muebles e inmuebles del Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-IX. Nombrar y remover la planta de empleados necesaria para el funcionamiento del Instituto Cabañas, conforme a la ley;
+VI. Promover actividades tendientes a obtener recursos para aumentar los fondos de que dispone el hogar Cabañas;
 
-X. Practicar auditorías contables y administrativas así como visitas de inspección a todos los órganos del Instituto Cabañas cuando lo estime necesario;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VII. Aplicar los fondos obtenidos conforme a las prioridades del Hogar Cabañas;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VIII. Realizar anualmente inventario pormenorizado de todos los bienes muebles e inmuebles del Hogar Cabañas;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IX. Nombrar y remover la planta de empleados necesaria para el funcionamiento del Hogar Cabañas, conforme a la ley;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+X. Practicar auditorías contables y administrativas así como visitas de inspección a todos los órganos del Hogar Cabañas cuando lo estime necesario;
 
 XI. Analizar y dictaminar en ejercicio de la facultad de auditoría, sobre la aplicación de las cuentas de administración;
 
-XII. Dictar las medidas necesarias para conservar el patrimonio del Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XII. Dictar las medidas necesarias para conservar el patrimonio del Hogar Cabañas;
 
 XIII. Acordar la expulsión de algún albergado cuando esté justificada; y
 
 XIV. Las demás que señale este código y los reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 81.
 
-La Junta de Gobierno será el órgano vigilante y responsable de que la Institución se conduzca conforme a las normas jurídicas que regulan su funcionamiento, debiendo, en los casos que así proceda, girar las instrucciones correspondientes al Director del Instituto.
+La Junta de Gobierno será el órgano vigilante y responsable de que la Institución se conduzca conforme a las normas jurídicas que regulan su funcionamiento, debiendo, en los casos que así proceda, girar las instrucciones correspondientes al Director General del Hogar Cabañas.
 
-#### Sección Segunda. Del Presidente de la Junta de Gobierno del Instituto Cabañas
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+#### Sección Segunda. Del Presidente de la Junta de Gobierno del Hogar Cabañas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 82.
 
-Para ser presidente del Instituto Cabañas se requiere:
+Para ser Presidente de la Junta de Gobierno del Hogar Cabañas se requiere:
 
 I. Ser mexicano en ejercicio de sus derechos;
 
@@ -1375,73 +1453,109 @@ IV. Tener cuando menos treinta años de edad al día de su nombramiento; y
 
 V. Haber residido en el Estado por lo menos los tres años anteriores al día de su nombramiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 83.
 
-La presidencia del Instituto Cabañas tendrá las facultades y obligaciones siguientes:
+El Presidente del Hogar Cabañas tendrá facultades y obligaciones siguientes:
 
-I. Vigilar y apoyar la ejecución de los acuerdos de la Junta de Gobierno y las acciones que sean necesarias para el cumplimiento de los objetivos del Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-II. Facilitar el desarrollo de las actividades del Instituto Cabañas, aprobando al efecto los procedimientos para su ejecución;
+I. Vigilar y apoyar la ejecución de los acuerdos de la Junta de Gobierno y las acciones que sean necesarias para el cumplimiento de los objetivos del Hogar Cabañas;
 
-III. Proponer a la Junta de Gobierno las disposiciones y reglamentos necesarios para el funcionamiento del Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-IV. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se hagan en favor del Instituto Cabañas, que por ley le correspondan;
+II. Facilitar el desarrollo de las actividades del Hogar Cabañas, aprobando al efecto los procedimientos para su ejecución;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+III. Proponer a la Junta de Gobierno las disposiciones y reglamentos necesarios para el funcionamiento del Hogar Cabañas;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IV. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se hagan en favor del Hogar Cabañas, que por ley le correspondan;
 
 V. Aprobar y testificar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas o privadas;
 
-VI. Nombrar y remover, previo acuerdo con el Gobernador del Estado, al Director General del Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VI. Nombrar y remover, previo acuerdo con el Gobernador del Estado, al Director General del Hogar Cabañas;
 
 VII. Convocar a la Junta de Gobierno a sesiones ordinarias y extraordinarias;
 
-VIII. Rendir anualmente el informe general de actividades del Instituto Cabañas; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VIII. Rendir anualmente el informe general de actividades del Hogar Cabañas; y
 
 IX. Las demás que señalen este código y los reglamentos aplicables.
 
-#### Sección Tercera. Del Director General del Instituto Cabañas
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+#### Sección Tercera. Del Director General del Hogar Cabañas
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 84.
 
-Para ser Director General del Instituto Cabañas se requiere:
+Para ser Director General del Hogar Cabañas se requiere:
 
-a) Ser Mexicano en pleno goce de sus derechos civiles;
+I. Ser mexicano en pleno goce de sus derechos civiles;
 
-b) Contar con experiencia en materia administrativa y asistencial;
+II. Contar con experiencia en materia administrativa y asistencial;
 
-c) Haber residido en el estado por lo menos los tres años anteriores al día de su nombramiento;
+III. Haber residido en el Estado por lo menos los tres años anteriores al día de su nombramiento;
 
-d) Tener cuando menos treinta años de edad el día de su nombramiento; y
+IV. Tener cuando menos treinta años de edad el día de su nombramiento; y
 
-e) Ser de reconocida honorabilidad y tener vocación de servicio social.
+V. Ser de reconocida honorabilidad y tener vocación de servicio social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 85.
 
-El Director General del Instituto Cabañas, tendrá las siguientes facultades y obligaciones:
+El Director General del Hogar Cabañas, tendrá las siguientes facultades y obligaciones:
 
 I. Ejecutar los acuerdos que dicte la Junta de Gobierno;
 
-II. Ejercitar la representación legal del Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+II. Ejercer la representación legal del Hogar Cabañas;
 
 III. Presentar a la Junta de Gobierno para los fines de su estudio y aprobación el plan anual de actividades y su proyecto de presupuestos de ingresos y egresos;
 
 IV. Autorizar con su firma las disposiciones de fondos, previa aprobación de la Junta de Gobierno;
 
-V. Conceder licencias al personal del Instituto Cabañas en los términos de Ley;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-VI. Inspeccionar los departamentos y dependencias que integran el Instituto Cabañas;
+V. Conceder licencias al personal del Hogar Cabañas en los términos de Ley;
 
-VII. Promover y gestionar ante toda clase de autoridades, personas físicas o jurídicas, la incorporación al patrimonio del Instituto Cabañas de los bienes y frutos que por ley o actos de particulares deben pertenecerle;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-VIII. Promover ante el Patronato las medidas que considere convenientes para mayor rendimiento del patrimonio del Instituto Cabañas;
+VI. Inspeccionar los departamentos y dependencias que integran el Hogar Cabañas;
 
-IX. Cuidar de que se conserve el orden en los diferentes departamentos del Instituto, y de que todos los empleados y albergados cumplan con sus obligaciones;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VII. Promover y gestionar ante toda clase de autoridades, personas físicas o jurídicas, la incorporación al patrimonio del Hogar Cabañas de los bienes y frutos que por la ley o actos de particular deben pertenecerle;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+VIII. Promover ante el Patronato las medidas que considere convenientes para mayor rendimiento del patrimonio del Hogar Cabañas;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IX. Cuidar que se conserve el orden en los diferentes departamentos del Hogar Cabañas, y de que todos los empleados y albergados cumplan con sus obligaciones;
 
 X. Vigilar que los alimentos sean sanos y suficientes y que no falte ropa ni ningún otro bien indispensable a los albergados;
 
-XI. Vigilar que se mantengan en adecuadas condiciones de higiene las instalaciones del Instituto;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XI. Vigilar que se mantengan en adecuadas condiciones de higiene las instalaciones del Hogar Cabañas;
 
 XII. Vigilar que se observe la más estricta moralidad en los departamentos;
 
-XIII. Vigilar la comercialización de los artículos elaborados en el Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XIII. Vigilar la comercialización de los artículos elaborados en el Hogar Cabañas;
 
 XIV. Imponer medidas disciplinarias a los albergados;
 
@@ -1449,9 +1563,13 @@ XV. Permitir a los albergados que visiten a sus familiares siempre que ello, no 
 
 XVI. Asignar a los albergados quehaceres que tiendan al logro de su mejor educación.;
 
-XVII. Llevar el control de los ingresos del Instituto Cabañas por concepto de herencias, legados, donaciones, productos, derechos y demás percepciones;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-XVIII. Aplicar los fondos que provengan de donativos a los servicios del Instituto Cabañas salvo el caso de que el donante especifique el destino de la donación en cuyo caso será respetada su voluntad; y
+XVII. Llevar el control de los ingresos del Hogar Cabañas por concepto de herencias, legados, donaciones, productos, derechos y demás percepciones;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+XVIII. Aplicar los fondos que provengan de donativos a los servicios del Hogar Cabañas salvo el caso de que el donante especifique el destino de la donación en cuyo caso será respetada su voluntad; y
 
 XIX. Las demás que señalen este código y los reglamentos aplicables.
 
@@ -1459,11 +1577,11 @@ XIX. Las demás que señalen este código y los reglamentos aplicables.
 
 #### Sección Cuarta. Del Secretario Ejecutivo
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 86.
 
-El Secretario Ejecutivo del Instituto, será designado por la Junta de Gobierno a propuesta de la Dirección General del Instituto Cabañas y fungirá también, como Secretario de éste.
+El Secretario Ejecutivo del Hogar Cabañas, será designado por la Junta de Gobierno a propuesta de la Dirección General del Hogar Cabañas y fungirá también como Secretario de éste.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
@@ -1473,25 +1591,37 @@ Son facultades y obligaciones del Secretario Ejecutivo las siguientes:
 
 I. Vigilar el cumplimiento estricto de este Código y sus reglamentos;
 
-II. Autorizar con su firma las actas y las copias de éstas y de los documentos que existan en los archivos del Instituto Cabañas;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-III. Hacer del conocimiento del Director General los actos de empleados y funcionarios del Instituto Cabañas que impliquen faltas en su trabajo;
+II. Autorizar con su firma las actas y las copias de ésta y de los documentos que existan en los archivos del Hogar Cabañas;
 
-IV. Firmar en unión del Director la correspondencia del Instituto Cabañas; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-V. Asentar en el libro correspondiente las actas de las sesiones de la Junta de Gobierno, y acatar las instrucciones que le gire el Director del Instituto Cabañas.
+III. Hacer del conocimiento del Director General los actos (sic) empleados y funcionarios del Hogar Cabañas que impliquen faltas en su trabajo;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+IV. Firmar en unión del Director la correspondencia del Hogar Cabañas; y
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+V. Asentar en el libro correspondiente las actas de las sesiones de la Junta de Gobierno, y acatar las instrucciones que le gire el Director del Hogar Cabañas.
 
 ## TITULO CUARTO. DE LOS SERVIDORES DE LA ASISTENCIA SOCIAL PUBLICA
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 88.
 
-Las relaciones de trabajo de las instituciones de asistencia social pública, tales como el Organismo Estatal, el Instituto, el Instituto Cabañas y los Organismos Municipales; con sus servidores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+Las relaciones de trabajo de las instituciones de asistencia social pública, tales como el Organismo Estatal, el Instituto, el Hogar Cabañas y los organismos municipales; con sus servidores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 89.
 
-El personal del Organismo Estatal, del Instituto, del Instituto Cabañas y de los organismos municipales estará incorporado a la Dirección de Pensiones del Estado.
+El personal del Organismo Estatal, del Instituto, del Hogar Cabañas y de los organismos municipales, estará incorporado a la Dirección de Pensiones del Estado.
 
 # LIBRO TERCERO. ASISTENCIA SOCIAL PRIVADA
 
@@ -2789,13 +2919,13 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 # LIBRO SEPTIMO. DE LOS ADULTOS MAYORES
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2839,7 +2969,7 @@ Para los efectos de la presente ley, se consideran adultos mayores a las persona
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
+## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2917,9 +3047,9 @@ V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
+## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 234.
 
@@ -2953,9 +3083,9 @@ V. Los demás que establezcan a su cargo las disposiciones aplicables.
 
 Corresponde a la familia procurar que sus miembros adopten pautas de conducta y acciones que favorezcan a lo largo de su vida un desarrollo individual saludable y productivo teniendo presente el envejecimiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
+## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2995,7 +3125,7 @@ Los establecimientos que presten servicio a los adultos mayores deberán habilit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3059,9 +3189,9 @@ Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
+## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 247.
 
@@ -3159,7 +3289,7 @@ Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capa
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
+## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3201,7 +3331,7 @@ El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la
 
 Artículo 255 bis.- Queda prohibida toda discriminación que atente contra la dignidad y los derechos de los adultos mayores.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 # LIBRO OCTAVO. DE LA DONACION DE ALIMENTOS
 
@@ -3572,3 +3702,25 @@ P.O. 22 DE FEBRERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
 
 SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+DECRETO No. 22747/LVIII/09, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 12-BIS, 34, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 88 Y 89 DEL CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En todos los procesos, procedimientos, juicios, sucesiones, legados, convenios, contratos, acuerdos y cualquier otro instrumento jurídico suscrito, iniciado o del que forme parte el Instituto Cabañas a la fecha de entrada en vigor del presente decreto se deberá entender que se refiere al organismo público descentralizados (sic) denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+
+TERCERA (SIC). En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+
+CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo deberá actualizar su clasificador por objeto del gasto antes de la presentación del proyecto de presupuesto de egresos para el ejercicio fiscal del 2010.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+DECRETO No. 22694/LVIII/09, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 33, 36, 38, 40, 41, 42, 46, 47, 49 Y 50 DEL CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
