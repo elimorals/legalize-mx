@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2009-02-07"
+last_updated: "2009-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -823,9 +823,9 @@ XIV. Fomentar ante los particulares la realización de procesos voluntarios de a
 
 XV. En coordinación con las autoridades federales, estatales y municipales y otorgando la participación que corresponda a las Universidades, centros de investigación y los particulares, promover las declaratorias de las áreas naturales protegidas de interés estatal, y aprobar los programas de aprovechamiento conforme lo dispongan las leyes en materia de equilibrio ecológico y protección al ambiente y las demás disposiciones aplicables;
 
-(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-XVI. Conformar y planear la operación del Sistema Estatal de Areas Naturales Protegidas en el Estado, con la participación que corresponda a los gobiernos municipales;
+XVI. Conformar, planear y coordinar la operación del Sistema Estatal de Áreas Naturales Protegidas en el Estado, así como de la Red de Parques Estatales, con la participación que corresponda a los gobiernos municipales y a las dependencias y entidades competentes del Poder Ejecutivo del Estado. Para los efectos de esta fracción, la Secretaría del Medio Ambiente para el Desarrollo Sustentable debe promover la suscripción de convenios con los municipios, a fin de que áreas y parques municipales se sumen al sistema y a la red citadas;
 
 (ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
@@ -1691,9 +1691,9 @@ A) Antiguo Hospital Civil;
 
 B) Complejo Médico del Hospital Civil de Guadalajara;
 
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-C) Instituto Cabañas;
+C) Hogar Cabañas;
 
 > <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -2002,3 +2002,21 @@ P.O. 7 DE FEBRERO DE 2009.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico Oficial El Estado de Jalisco.
 
 SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones encomendadas a la Subprocuraduría de Servicios Jurídicos Asistenciales se podrán realizar por conducto de auxiliarles (sic) sociales comisionados o adscritos a ésta.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+DECRETO No. 22689/LVIII/09, POR EL QUE SE REFORMA LA FRACCION XVI DEL ARTICULO 33 BIS DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+DECRETO No. 22747/LVIII/09, POR EL QUE SE REFORMA EL NOVENO TRANSITORIO FRACCION IX INCISO C) DEL DECRETO 13570 MEDIANTE EL CUAL SE EXPIDE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En todos los procesos, procedimientos, juicios, sucesiones, legados, convenios, contratos, acuerdos y cualquier otro instrumento jurídico suscrito, iniciado o del que forme parte el Instituto Cabañas a la fecha de entrada en vigor del presente decreto se deberá entender que se refiere al organismo público descentralizados denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+
+TERCERA. En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+
+CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo deberá actualizar su clasificador por objeto del gasto antes de la presentación del proyecto de presupuesto de egresos para el ejercicio fiscal del 2010.
