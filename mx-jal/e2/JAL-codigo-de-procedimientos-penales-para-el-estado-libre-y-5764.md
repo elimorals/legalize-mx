@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2009-03-05"
+last_updated: "2009-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -741,9 +741,9 @@ f) Si el detenido desconoce el castellano, se le designará un traductor para qu
 
 IV. En todo caso se mantendrán separados los hombres y las mujeres en los lugares de detención o reclusión.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-En caso de que la víctima del delito sea menor de edad y el agresor sea quien lo tiene en custodia el agente del Ministerio Público encargado deberá ordenar la cesación de la convivencia del menor con sus familiares, aun de sus padres, cuando dicha convivencia se ponga en peligro la seguridad o integridad del menor, debiendo ordenar el resguardo del menor en una institución autorizada poniéndolo a disposición del Consejo de Familia o del Instituto Cabañas en su caso.
+En caso en que la víctima del delito sea menor de edad y el agresor sea quien lo tiene en custodia el Agente del Ministerio Público encargado deberá ordenar la cesación de la convivencia del menor con sus familiares, aún de sus padres, cuando con dicha convivencia se ponga en peligro la seguridad o integridad del menor, debiendo ordenar el resguardo del menor en una institución autorizada poniéndolo a disposición del Consejo Estatal de la Familia o del Hogar Cabañas en su caso.
 
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
 
@@ -1001,9 +1001,11 @@ III. Recibir, desde la comisión del delito, atención médica y psicológica de
 
 IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño;
 
-> <small>(F. DE E., P.O. 15 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-V. Cuando la víctima o el ofendido sea menor de edad, no estará obligado a carearse con el inculpado cuando se trate de los delitos de violación o secuestro, en el caso de que el inculpado solicite la práctica del careo, se procederá de conformidad con lo dispuesto por el artículo 211 de este ordenamiento; y (sic)
+V. Cuando la víctima o el ofendido sean menores de edad, en ningún caso deberá carearse con el inculpado.
+
+Al tomársele la declaración de los hechos, los menores deberán estar acompañados de un licenciado en trabajo social y/o un licenciado en psicología, quienes apoyaran al agente del ministerio público en la elaboración de preguntas al niño, con la finalidad de llegar a conocer la verdad, sin mayor daño al menor;
 
 En los casos precisados con antelación, se llevarán declaraciones en las condiciones que establezca este ordenamiento; y
 
@@ -3888,3 +3890,25 @@ SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones enc
 P.O. 5 DE MARZO DE 2009.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+DECRETO NUMERO 22747/LVIII/09, POR EL QUE SE REFORMA EL ARTICULO 93 ULTIMO PARRAFO DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En todos los procesos, procedimientos, juicios, sucesiones, legados, convenios, contratos, acuerdos y cualquier otro instrumento jurídico suscrito, iniciado o del que forme parte el Instituto Cabañas a la fecha de entrada en vigor del presente decreto se deberá entender que se refiere al organismo público descentralizados (sic) denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+
+TERCERA (SIC). En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
+
+CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo deberá actualizar su clasificador por objeto del gasto antes de la presentación del proyecto de presupuesto de egresos para el ejercicio fiscal del 2010.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+DECRETO NUMERO 22694/LVIII/09, POR EL QUE SE REFORMA LA FRACCON V DEL ARTICULO 115 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
