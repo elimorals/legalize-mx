@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2009-02-05"
+last_updated: "2009-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3233,23 +3233,25 @@ En toda adopción se deberá asegurar:
 
 I. Que las personas y organismos, cuyo consentimiento se requiera para l (sic) adopción, han sido convenientemente asesoradas y debidamente informad (sic) por el Consejero Estatal o Municipal de familia, de las consecuencias legal (sic) que la adopción implica y del consentimiento otorgado en particular de l (sic) ruptura de los vínculos jurídicos entre el infante y su origen en su caso;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-II. Que el consentimiento ha sido otorgado libremente, ante cualquier persona, previa asesoría y por escrito ratificado ante el Juez que conozca del procedimiento de adopción, o en el caso que medie urgencia, ante el Agente de la Procuraduría Social, el cual deberá entregar al Juez que conozca del trámite el documento que ampare el consentimiento donde consten los motivos de dicha urgencia;
+II. Que el consentimiento ha sido otorgado libremente, ante el Consejo Estatal, municipal o Intermunicipal de Familia, previa asesoría y por escrito ratificado ante el Juez que conozca del procedimiento de adopción, o en el caso que medie urgencia, ante el Agente Social, el cual deberá entregar al juez que conozca del trámite el documento que ampare el consentimiento informado donde consten los motivos de dicha urgencia;
 
 III. Que para otorgarse el consentimiento no ha mediado pago o compensación alguna;
 
 IV. Cuando sea el caso, que el consentimiento de la madre, sea otorgado cuando menos veinte días después del alumbramiento;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-V. Que el adoptante o los adoptantes, según el caso, han recibido por part (sic) del Consejo de Familia en el Estado de Jalisco sea estatal o municipal, l (sic) debida asesoría y capacitación sobre los alcances psíquicos afectivos (sic) jurídicos que la adopción implica.
+V. Que el adoptante o los adoptantes, según el caso, han recibido por parte del Consejo de Familia estatal, municipal o intermunicipal, la debida asesoría y capacitación sobre los alcances psíquicos afectivos y jurídicos que la adopción les implica, para ello los adoptantes, en todos los casos, deberán acreditar ante el Consejo de Familia que cuentan en ese momento con la salud física y psíquica con el respectivo certificado expedido por una Institución oficial.
 
 VI. Que en el caso de las madres menores de edad no emancipadas, el consentimiento otorgado se haga conforme a lo establecido en este Código para el caso de incapaces; y
 
 VII. Que las autoridades procuren que el menor sujeto a adopción tenga la posibilidad de desarrollarse en un ambiente sano familiar.
 
-En todos los casos los adoptantes deben tener al momento del inicio de los trámites de adopción, la salud física y psíquica necesarios para cumplir con el desempeño que la paternidad legal trae consigo con la adopción.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+En todos los casos los adoptantes deben tener al momento del inicio de los trámites de adopción, la salud física y psíquica necesarios para cumplir con el desempeño que la paternidad legal trae consigo con la adopción y dicha acreditación deberá ser expedida por institución oficial.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3311,21 +3313,23 @@ La adopción tiene el carácter de confidencial. Se deberá garantizar la discre
 
 El adoptado tendrá para con la persona o personas que lo adopten, los mismos derechos y obligaciones que tiene un hijo.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 531.
 
-El Consejo de Familia, en todos los casos de adopción debe (sic) darle seguimiento permanente a partir de que fue otorgada para procurar s (sic) cumplan los fines para los que fueron instituidos, dictando en caso necesari (sic) las providencias para ello.
+El Consejo de Familia Estatal, Municipal o Intermunicipal del domicilio del menor y a falta de éstos, por los sistemas DIF respectivos, en todos los casos de adopción, deberá darle seguimiento por un período mínimo de 2 años, a partir de que fue otorgada para procurar se cumplan los fines en beneficio del menor, dictando en caso necesario las providencias para ello. En caso de que el menor resida fuera del Estado, el Consejo Estatal de la Familia tendrá las facultades para dar cumplimiento al seguimiento antes referido.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 532.
 
-Cuando el Consejo de Familia lo estime conveniente, podrá solicitar al juez que conozca del procedimiento de adopción otorgue en forma temporal la custodia del presunto adoptado, el cual deberá resolver de plano, siempre y cuando los presuntos adoptantes ya hubieren satisfecho los requisitos a que se refiere la fracción V del artículo 521; en estos casos los presuntos adoptantes no podrán trasladar al menor fuera del Estado hasta tanto no se otorgue la adopción correspondiente.
+Cualquier interesado en el procedimiento o cuando el Consejo de Familia Estatal, Municipal o Intermunicipal lo estime conveniente, podrá solicitar al juez que conozca del procedimiento de adopción otorgue en forma temporal la custodia del posible adoptado, lo cual deberá resolver de plano, siempre y cuando los posibles adoptantes ya hubieren satisfecho los requisitos a que se refiere la fracción V del artículo 521.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+El juez que conozca del procedimiento de adopción podrá autorizar la custodia temporal a los posibles adoptantes y el traslado del menor, dentro del territorio nacional, hasta el término del procedimiento de adopción, y diligenciará exhorto al juez competente de la nueva residencia ante el cual los posibles adoptantes presentarán al posible adoptado cada mes para la verificación del cumplimiento de la custodia temporal conforme a lo previsto en este Código, tutelando el interés superior del posible adoptado.
 
-La custodia otorgada en términos del párrafo anterior podrá ser revocada por el Juez que la otorgó, a petición fundada del Agente de la Procuraduría Social o del Consejo de Familia.
+La custodia otorgada en los términos del párrafo anterior podrá ser revocada por el juez que la otorgó a petición fundada del Agente Social ó Consejo de Familia sea Estatal, Municipal o intermunicipal.
+
+Los posibles adoptantes podrán renunciar a la custodia temporal que les fue otorgada devolviendo el menor al Consejo de Familia, levantando un acta de ello en que se precise el estado de salud y condiciones en que se encuentre el menor e informando de la renuncia de la custodia al Juez que conoció de la causa, quien analizará la causa de la renuncia y si la encuentra visible y notoriamente injustificada, ordenará al Consejo de Familia sea Estatal, Municipal o intermunicipal tomar las medidas de protección del menor y que los presuntos adoptantes no podrán intentar un nuevo procedimiento de adopción en un plazo de 2 dos años.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3371,11 +3375,11 @@ El juez deberá garantizar el derecho de audiencia y defensa de los parientes qu
 
 Si el menor que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 537.
 
-Cuando el tutor o el Consejo de Familia no consienten en la adopción; o el Agente de la Procuraduría Social se oponga a la misma, deberán expresar la causa en que se funde, la que el juez calificará tomando en cuenta los intereses del menor.
+Cuando el tutor o el Consejo de Familia no consientan en la adopción; o el Agente Social se oponga a la misma, deberán expresar la causa en que se funde, la que el juez calificará tomando en cuenta los intereses del menor.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3459,15 +3463,13 @@ El adoptado podrá solicitar la revocación de la adopción simple, dentro del a
 
 Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante; pero si éste está casado o se casare con alguno de los progenitores del adoptado, la patria potestad se ejercerá por ambos cónyuges.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 546.
 
-El que adopte por adopción simple podrá solicitar ante el juez la conversión a adopción plena siempre y cuando hayan transcurrido dos años como mínimo de que el juez dictó su resolución, y cumpla con los requisitos que para la adopción plena contempla este mismo Código.
+El que adopte por adopción simple podrá solicitar ante el juez la conversión a adopción plena siempre y cuando cumpla con los requisitos que para la adopción plena contempla éste mismo Código.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
-
-Para este caso, el Juez deberá escuchar el consentimiento, cuando sea posible, de quien lo otorgó inicialmente para la adopción; deberá oír al Consejo de Familia, así como al Agente de la Procuraduría Social, a fin de valorar la conveniencia de esta conversión, atendiendo al interés superior del adoptado.
+Para este caso, el juez escuchara, cuando sea posible, a quien otorgo inicialmente el consentimiento para la adopción, se cerciorará de que los adoptantes cumplan los requisitos de Ley, dará vista al Agente Social y al Consejo de Familia, sea Estatal, Municipal o intermunicipal y si no hay oposición, el Juez procederá de conformidad con el artículo 1031 del Código de Procedimientos Civiles del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3509,17 +3511,17 @@ La resolución judicial que apruebe la revocación, deja sin efecto la adopción
 
 #### Sección Tercera. De las adopciones internacionales
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 551.
 
-La adopción internacional es la promovida por ciudadanos de otro país con residencia habitual fuera del territorio nacional, y tiene por objeto, incorporar en una familia a un menor que no pueda encontrar una, en su propio país de origen.
+La adopción internacional es la promovida por ciudadanos de otro país con residencia habitual fuera del territorio nacional, la cual se regirá por los tratados internacionales suscritos y ratificados por el Estado mexicano y, en lo conducente, por las disposiciones de este Código.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 552.
 
-La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional, y se regirá por lo dispuesto en esta sección.
+La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional, y se regirá por lo dispuesto en la sección primera de este Capítulo en este Código.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3533,9 +3535,13 @@ Las adopciones internacionales tendrán los efectos de plena.
 
 Cuando las adopciones se realicen de conformidad a los tratados internacionales que sobre la materia se celebren por el Poder Ejecutivo Federal, se procederá en la forma siguiente:
 
-I. Corresponde al Sistema de Desarrollo Integral de la Familia Jalisco, a través de su órgano desconcentrado Consejo Estatal de Familia, desempeñar la función de Entidad Central del Estado, tanto para consentir la adopción por personas residentes en el extranjero; como vigilar la adecuada relación familiar cuando los adoptantes sean residentes en el Estado y el adoptado sea extranjero; y
+I. Corresponde al Sistema de Desarrollo Integral de la Familia Jalisco, a través de su órgano desconcentrado Consejo Estatal de Familia, desempeñar la función de Entidad Central del Estado, tanto para consentir la adopción por personas residentes en el extranjero; como vigilar la adecuada relación familiar cuando los adoptantes sean residentes en el Estado y el adoptado sea extranjero; y (sic)
 
-II. Al consentirse la adopción deberá señalarse la forma y términos como se le dará seguimiento en el extranjero.
+II. Al consentirse la adopción deberá señalarse la forma y términos como se le dará seguimiento en el extranjero;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
+
+III. Las adopciones internacionales deberán de regirse en base a los requisitos de forma y fondo señalados en los tratados internacionales, sin que sean aplicables los requerimientos establecidos en este Código para las adopciones que no tienen el carácter de internacionales.
 
 ## TITULO SEPTIMO. De la niñez
 
@@ -3545,19 +3551,21 @@ II. Al consentirse la adopción deberá señalarse la forma y términos como se 
 
 En virtud de la custodia, una persona o una institución asumen el cuidado y atención personal de seres humanos.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Art. 556.
 
-La custodia siempre es en beneficio directo de su destinatario, con reconocimiento pleno de sus derechos de personalidad.
+La custodia siempre es en beneficio directo de su destinatario, con reconocimiento pleno de sus derechos de personalidad y con respeto a su integridad y dignidad humana.
 
 ###### Art. 557.
 
 La custodia confiere a quien la ejerce la facultad de aplicar correcciones disciplinarias y proporcionar en su caso auxilio para el mantenimiento y recuperación de la salud física y psíquica.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 558.
 
-El Consejo de Familia podrá autorizar, intervenir y consentir en todo tiempo y circunstancia en los casos de custodia de conformidad con las normas legales aplicables. De igual forma deberá dar seguimiento para verificar las condiciones de convivencia de la persona entregada en custodia.
+El Consejo de Familia, sea Estatal, municipal o Intermunicipal, en el ámbito de su competencia territorial, deberá intervenir, consentir y dar seguimiento en todo tiempo y circunstancia en los casos de custodia, de conformidad con las normas legales aplicables.
 
 ###### Art. 559.
 
@@ -3619,13 +3627,15 @@ Ninguna de las disposiciones enunciadas en este código, debe ser interpretada e
 
 Cuando de una misma fuente de obligaciones resulten acreedores cualquier persona y un niño, prevalecerán los derechos de éste.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Art. 572.
 
-Es interés superior de la niñez, desarrollarse en un ambiente sano familiar, de conformidad con el siguiente orden de preferencias:
+Es interés superior el que los menores de edad se desarrollen en un ambiente familiar sano y, cuando el Juez de la causa considere que es lo más conveniente al menor, debe considerarse el siguiente orden de preferencias:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-I. Con sus padres;
+I. Con sus padres biológicos o adoptivos;
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -3652,6 +3662,10 @@ En cualquiera de los supuestos previstos en las fracciones que anteceden, los pa
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2004)</small>
 
 Los huérfanos y los niños privados de la asistencia de sus padres o tutores deben gozar de una protección especial por parte de la sociedad y del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
+En todos los casos el Consejo de familia estatal, municipal o intermunicipal, deberá cerciorarse de que las personas que vayan a ejercer la custodia del menor sean idóneas y cumplan con todos los requisitos de ley.
 
 ### CAPITULO III. De los modos de acabarse y suspenderse la patria potestad
 
@@ -3837,9 +3851,13 @@ II. Cuando el que la ejerce es condenado expresamente a su pérdida;
 
 III. Cuando por malas costumbres de quienes la ejerzan o abandono de sus deberes frente a sus descendientes, se comprometa la seguridad o la moralidad de aquellos sobre de quienes se ejerce, aunque esos hechos no sean penalmente punibles, o consientan que terceras personas lo realicen;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-IV. Cuando quien la ejerce genere violencia intrafamiliar en contra del menor, entendida ésta como el maltrato físico o psicológico que se infiere con la intención de dañar, humillar o despreciar al ofendido, o consienta que terceras personas lo realicen;
+IV. Cuando quien la ejerce genere violencia intrafamiliar en contra del menor, entendida esta como maltrato físico o psicológico, o bien, cuando consienta que terceras personas ejerzan dicha violencia.
+
+Se entiende por maltrato físico al conjunto de lesiones que presenta una persona, que no resultan de accidentes o golpes fortuitos y que por su periodicidad, atención médica inexistente, huellas de abuso sexual, la naturaleza o causa de las mismas, la existencia de cicatrices antiguas y actuales, aunque no pongan en peligro la vida, evidencian un caso de maltrato.
+
+Se entiende por maltrato psicológico al recurrente empleo de palabras, acciones y actitudes que afecten al menor o al incapaz en su autoestima y autoconfianza, no permitiéndole un sano desarrollo;
 
 V. Cuando quien la ejerce:
 
@@ -4083,9 +4101,9 @@ I. De los expósitos;
 
 II. De los menores abandonados sean estos huérfanos, expuestos por el titular de su patria potestad o tutela o maltratados reiteradamente por sus parientes; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-III. De los menores no sujetos a patria potestad o a tutela, o cuando quienes ejercen la patria potestad sean ilocalizables, y que se encuentren internados en casas de asistencia, instituciones educativas ya sean estas públicas, descentralizadas de organismos de asistencia y de seguridad social o privados, los internados en inclusas (sic), hospicios y demás casa (sic) de beneficencia.
+III. De los menores y de los mayores incapaces no sujetos a patria potestad o tutela, que se encuentren internados en casas de asistencia, instituciones educativas ya sean estas públicas o privadas, o cuando quienes la ejerzan sean ilocalizables, siempre que estén bajo custodia institucional en un organismo público o privado, en los términos del artículo 49 del presente Código.
 
 > <small>(ADICIONADO, P.O. 27 DE MARZO DE 2008)</small>
 
@@ -4117,15 +4135,19 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Art. 646.
 
-El tutor de los incapacitados estará obligado a presentar al Consejo de Familia en el mes de enero de cada año un certificado de dos profesionales de la medicina que declaren acerca de la salud de la persona sujeta a interdicción, a quien para este efecto reconocerán en presencia del curador.
+El tutor de los incapacitados estará obligado a presentar ante la Procuraduría Social en el mes de enero de cada año un certificado de dos profesionales de la medicina que declaren acerca de la salud de la persona sujeta a interdicción, a quien para este efecto reconocerán en presencia del curador.
 
-El Consejo de Familia se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+La Procuraduría Social se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición. En caso de que existieren elementos que pongan en detrimento la salud del incapacitado, deberá dar aviso de inmediato al Juez correspondiente.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 647.
 
-Los recursos y patrimonio del incapacitado se destinarán en forma preferente a su seguridad, alivio y mejoría en la calidad de vida; quien desempeñe la tutoría adoptará las medidas que juzgue oportunas, proponiéndolas para tal efecto al Consejo de Familia para su aprobación. Las medidas que fueren muy urgentes podrán ser ejecutadas de inmediato, quedándose obligado a dar cuenta al Consejo de Familia para su conocimiento y consideración.
+Los recursos y patrimonio del incapacitado se destinarán en forma preferente a su seguridad, alivio y mejoría en la calidad de vida; quien desempeñe la tutoría adoptará las medidas que juzgue oportunas, proponiéndolas para tal efecto a la Procuraduría Social para su aprobación. Las medidas que fueren muy urgentes podrán ser ejecutadas de inmediato, quedándose obligado a dar cuenta a la Procuraduría Social para su conocimiento y consideración.
 
 ### CAPITULO VIII. De la garantía que deben prestar los tutores para asegurar su manejo
 
@@ -4399,6 +4421,8 @@ Es también obligación del curador y del Consejo de Familia, vigilar el estado 
 
 ### CAPITULO XII. De las cuentas de la tutela
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+
 ###### Art. 684.
 
 Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto cuando la tutela la desempeñe el Consejo de Familia.
@@ -4633,7 +4657,7 @@ El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este
 
 ###### Art. 734.
 
-El tutor está obligado a rendir al Consejo de Familia, cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en tiempo, motivará la remoción del tutor.
+El tutor está obligado a rendir al Juez, cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
@@ -4699,7 +4723,7 @@ El convenio celebrado entre el tutor y el del pupilo que estuvo bajo su guarda, 
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 750.
 
@@ -4825,15 +4849,13 @@ En los casos en que conforme a este código tenga que intervenir el curador, cob
 
 ###### Art. 774.
 
-El Consejo de Familia es un órgano de participación ciudadana, desconcentrado del Sistema Estatal del Desarrollo Integral de la Familia, que tiene por objeto dar la atención y seguimiento a los asuntos que le devienen por este código.
+El Consejo Estatal, Municipal o Intermunicipal es un órgano de participación ciudadana, desconcentrado de los Sistemas de Desarrollo Integral de la Familia, que tiene por objeto dar la atención y seguimiento a los asuntos que le deriven por este código.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 775.
 
-Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia, tutela y asistencia a la niñez, a los discapacitados, a las personas en edad senil, a las madres en situación crítica ya sea afectiva o económica y a la familia.
-
-El consejo tendrá obligación de realizar visitas domiciliarias periódicas para verificar el estado de las personas que se encuentren bajo custodia o tutela; para lo cal (sic) podrá auxiliarse del personal del Sistema Estatal del Desarrollo Integral de la Familia.
+Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia, tutela y asistencia a la niñez, a los discapacitados, a las personas en edad senil y a la familia.
 
 ###### Art. 776.
 
@@ -17952,3 +17974,11 @@ SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley p
 P.O. 5 DE FEBRERO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE OCTUBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
