@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-complementario-del-comite-del-centro-de-40967"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-10-03"
-last_updated: "2002-10-03"
+last_updated: "2009-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40967&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-10-03"
 
 ACUERDO COMPLEMENTARIO DEL COMITE DEL CENTRO DE DOCUMENTACION Y ANALISIS AL ACUERDO GENERAL CONJUNTO 1/2001, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS LINEAMIENTOS PARA EL FLUJO DOCUMENTAL, DEPURACION Y DIGITALIZACION DEL ACERVO ARCHIVISTICO DE LOS JUZGADOS DE DISTRITO, TRIBUNALES UNITARIOS DE CIRCUITO Y TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL CONJUNTO NUMERO 1/2009, DE VEINTIOCHO DE SEPTIEMBRE DE DOS MIL NUEVE, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 26 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, UNICAMENTE POR LO QUE SE REFIERE AL TRATAMIENTO DE LOS EXPEDIENTES PROVENIENTES DE LOS JUZGADOS DE DISTRITO; POR LO QUE CONTINUAN VIGENTES EN MATERIA DE ACERVOS ARCHIVISTICOS DE LOS TRIBUNALES UNITARIOS Y COLEGIADOS DE CIRCUITO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE OCTUBRE DE 2009.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XVI, Diciembre de 2002, página 843.
 
@@ -70,3 +72,37 @@ SEGUNDO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta y h
 ASÍ LO ACORDARON LOS CC. INTEGRANTES DEL COMITÉ DEL CENTRO DE DOCUMENTACIÓN Y ANÁLISIS, EN SU SESIÓN CELEBRADA EL DÍA DIECIOCHO DE ABRIL DE DOS MIL DOS.
 
 El texto del Acuerdo Complementario del Comité del Centro de Documentación y Análisis al Acuerdo General Conjunto 1/2001, del Pleno de la Suprema Corte de Justicia de la Nación y del Pleno del Consejo de la Judicatura Federal, que establece los lineamientos para el flujo documental, depuración y digitalización del acervo archivístico de los Juzgados de Distrito, Tribunales Unitarios de Circuito y Tribunales Colegiados de Circuito, fue aprobado por los señores Ministros: presidente Genaro David Góngora Pimentel, Sergio Salvador Aguirre Anguiano y Olga María del Carmen Sánchez Cordero de García Villegas, integrantes del Comité del Centro de Documentación y Análisis.- México, D.F., a tres de octubre de dos mil dos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE OCTUBRE DE 2009.
+
+PRIMERO. Este Acuerdo General Conjunto entrará en vigor treinta días naturales después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga el Acuerdo General Conjunto 1/2001 del veintisiete de agosto de dos mil uno, del Pleno de la Suprema Corte de Justicia de la Nación y del Pleno del Consejo de la Judicatura Federal, que establece lineamientos para el flujo documental, depuración y digitalización del acervo archivístico de los Juzgados de Distrito, Tribunales Unitarios de Circuito y Tribunales Colegiados de Circuito, y su Acuerdo Complementario del tres de octubre de dos mil dos, del Comité del Centro de Documentación y Análisis, únicamente por lo que se refiere al tratamiento de los expedientes provenientes de los Juzgados de Distrito; por lo que continúan vigentes en materia de acervos archivísticos de los Tribunales Unitarios y Colegiados de Circuito.
+
+TERCERO. La atribución establecida en este Acuerdo General Conjunto a cargo de los Juzgados de Distrito, consistente en digitalizar cuando menos la demanda y la sentencia de los asuntos de su competencia, se realizará por el Centro de Documentación y Análisis, con apoyo de Informática, respecto de los expedientes que se radiquen hasta el año 2009.
+
+Los expedientes que se radiquen a partir del año 2010 se integrarán en copia digital por los Juzgados de Distrito y su transferencia se realizará de conformidad con lo señalado en el presente Acuerdo.
+
+CUARTO. Las transferencias correspondientes a expedientes radicados del año 2004 en adelante, se recibirán en el Centro Archivístico Judicial ubicado en la ciudad de Toluca, Estado de México, a partir del 18 de enero de 2010.
+
+QUINTO. Todas aquellas transferencias provisionales realizadas por los Juzgados de Distrito con base en lo acordado por el entonces Comité de Biblioteca, Archivo e Informática y el Comité de Gobierno y Administración de la Suprema Corte el 12 de mayo 2005, por carecer de espacio, deberán ser actualizadas con acta de transferencia definitiva en los casos en que los expedientes judiciales cumplan con la temporalidad que establece este Acuerdo.
+
+SEXTO. Las Administraciones Regionales del Consejo brindarán el apoyo que los titulares de los Juzgados de Distrito requieran para llevar a cabo la transferencia de expedientes al Centro Archivístico Judicial, así como para la desintegración material de los expedientes que se determine deban depurarse o destruirse.
+
+SEPTIMO. Las reglas de depuración y destrucción contenidas en el Capítulo Quinto del presente Acuerdo se aplicarán por el Centro de Documentación y Análisis a los expedientes concluidos entre 1951 y 2003, conforme al programa que dicha Dirección General someta a la consideración del Comité procediendo a su digitalización en términos de lo indicado en el diverso punto Décimo Quinto de este instrumento.
+
+OCTAVO. En tanto la Suprema Corte y el Consejo emiten los lineamientos para el tratamiento de la documentación administrativa bajo su resguardo generada en los Juzgados de Distrito, son susceptibles de destrucción las libretas de control de oficios, minutarios de exhorto, los diversos registros de correspondencia, los acuerdos de la sección de actuaría y de control de expedientes por sección, generados en dichos órganos jurisdiccionales, con independencia de su denominación, previa valoración del titular del órgano, para lo cual deberán conservarse los relativos a los dos años más recientes.
+
+NOVENO. En tanto se aprueba el nuevo manual para la organización de los archivos judiciales resguardados por la Suprema Corte de Justicia, seguirá aplicándose lo dispuesto en la primera edición de dicho instrumento, en lo que no se oponga a lo previsto en este Acuerdo.
+
+El Centro de Documentación y Análisis deberá presentar al Comité para su aprobación la propuesta de dicho manual, a más tardar treinta días hábiles después de la publicación de este Acuerdo.
+
+DECIMO. En relación con los expedientes que se ubican en los archivos del Primer Circuito, el Consejo proveerá lo necesario para que los depósitos en los que se resguardan cuenten con las mejores condiciones de conservación, de conformidad con las especificaciones técnicas que precise el Centro de Documentación y Análisis.
+
+DECIMO PRIMERO. Estadística y Planeación, Informática y el Centro de Documentación y Análisis integrarán un grupo de trabajo en el que se determinarán los estándares, procesos, especificaciones y protocolo para el intercambio de la información a que se refiere este Acuerdo.
+
+DECIMO SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+DECIMO TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; asimismo, hágase del conocimiento de los Jueces de Distrito para su cumplimiento.
