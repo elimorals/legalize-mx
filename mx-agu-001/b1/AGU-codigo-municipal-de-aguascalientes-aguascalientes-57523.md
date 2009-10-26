@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2009-09-21"
+last_updated: "2009-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -5713,13 +5713,25 @@ Los programas de manejo y operación integral de las áreas naturales protegidas
 
 Las áreas naturales protegidas municipales a que se refiere el artículo anterior se establecerán mediante declaratoria que expida el Ejecutivo del Estado a iniciativa del H. Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 503.
 
-Para la expedición de la declaratoria será necesario realizar previamente los estudios ambientales, ecológicos, socioeconómicos y los demás que sean necesarios para fundamentar su declaratoria.
+Para la expedición de la declaratoria será necesario realizar previamente los estudios ambientales, ecológicos y socioeconómicos que sean necesarios para justificar la misma. Lo anterior, en estricto cumplimiento del artículo 67 de la Ley de Protección Ambiental para el Estado de Aguascalientes.
 
-Dichos estudios deberán ser realizados por la Dirección de Ecología y Salud o a través de terceros, en coordinación con las demás dependencias de la administración municipal y en su caso con el apoyo del Estado y la Federación, así como la participación de las instituciones de educación superior y las asociaciones de profesionistas.
+Dichos estudios deberán ser realizados por la Dirección de Ecología y Salud adscrita a la Secretaría de Servicios Públicos y Ecología o a través de terceros, en coordinación con las demás dependencias de la administración municipal, las cuales podrán, en su caso, solicitar el apoyo del Estado y la Federación, así como la participación de las instituciones de educación superior, las asociaciones de profesionistas o cualquier ciudadano interesado o relacionado con la materia o el tema.
 
-Una vez integrados debidamente los estudios a que se refiere el párrafo anterior y habiendo concertado con los habitantes y propietarios de las áreas que abarcara la declaratoria, la Secretaria de Servicios Públicos y Ecología se coordinará con la Comisión de Cabildo correspondiente a efecto de que esta última presente la iniciativa al Cabildo para su revisión y aprobación. En caso de ser aprobada se presentará la iniciativa al Ejecutivo del Estado.
+Una vez integrados debidamente los estudios a que se refieren los párrafos anteriores, éstos se pondrán a disposición del público en general, para su consulta en la Dirección de Ecología y Salud, y se les solicitará la opinión a las personas interesadas en el proyecto de la declaratoria, de acuerdo con el siguiente procedimiento:
+
+I.- El Presidente Municipal dará aviso público del inicio del proceso de declaratoria, difundiéndolo en el Periódico Oficial del Estado de Aguascalientes y un periódico de mayor circulación en el Municipio;
+
+II.- En el caso de los propietarios, éstos serán notificados personalmente en el último domicilio que hayan señalado ante autoridad municipal y deberán dar su opinión sobre el proyecto de la declaratoria, por escrito y ante la Dirección de Ecología y Salud, en un plazo de cinco días hábiles contados a partir del día siguiente al que surta efectos la notificación; y
+
+III.- En el caso de los habitantes, vecinos y cualquier otro interesado, se establecerá un plazo y un calendario de audiencias públicas para que presenten, por escrito y ante la Dirección de Ecología y Salud, los planteamientos que consideren necesarios respecto del proyecto de la declaratoria. Lo anterior, se dará a conocer en la publicación hecha en el Periódico Oficial del Estado de Aguascalientes, la cual se hace referencia en la fracción I del presente artículo.
+
+Una vez realizada la consulta anteriormente señalada, la Dirección de Ecología y Salud, en un plazo de diez días hábiles, deberá remitir el expediente que contenga toda la información relativa a los estudios correspondientes y la consulta respectiva a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno así como a la Comisión permanente de Ecología.
+
+El proyecto final de la declaratoria será presentado por la Comisión Permanente de Ecología sin perjuicio de lo establecido en el artículo 71 del Código Municipal de Aguascalientes vigente, para su análisis, revisión y, en su caso, aprobación. En caso de ser aprobada la declaratoria, se presentará la iniciativa al Ejecutivo del Estado.
 
 ### CAPÍTULO VI. De la Participación Social y la Coordinación Gubernamental
 
@@ -19152,3 +19164,13 @@ DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 1335 Y 1335 BIS DEL COD
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones contenidas en el presente Decreto serán aplicables a aquellos procedimientos en trámite o vigentes en materia de declaratoria de áreas naturales protegidas.
