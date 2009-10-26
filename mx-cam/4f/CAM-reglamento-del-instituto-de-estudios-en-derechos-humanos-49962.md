@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-del-instituto-de-estudios-en-derechos-humanos-49962"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-30"
-last_updated: "2006-03-30"
+last_updated: "2009-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO DEL INSTITUTO DE ESTUDIOS EN DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DEL INSTITUTO DE ESTUDIOS EN DERECHOS HUMANOS, PUBLICADO EN EL P.O. DE 26 DE OCTUBRE DEL 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el jueves 30 de marzo de 2006.
 
@@ -886,3 +888,13 @@ SEGUNDO.- El presente reglamento entrará en vigor al día siguiente de su publi
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche, de acuerdo a lo establecido en el Artículo 29 del Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche.
 
 Dado en la sala de juntas de la Comisión de Derechos Humanos del Estado de Campeche, Campeche, a los ocho días del mes de febrero del año dos mil seis. Mtra. María Eugenia Ávila López, Presidenta. Licda. Laura María Alcocer Bernés, Secretaria Técnica. CONSEJEROS: Licda. Bertita Goméz del Rivero, Profra. Ana Guadalupe Preve González, Sr. Salim Abud Gunam y C.P. Francisco Enrique Castilla Goyta. Rubricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE OCTUBRE DEL 2009.
+
+PRIMERO.- Se abroga el Reglamento del Instituto de Estudios en Derechos Humanos publicado el 30 de marzo de 2006 en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente reglamento entrará en vigor al día siguiente de su aprobación.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche, de acuerdo a lo establecido en el Artículo 29 del Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche.
