@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-asientos-70021"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-09-07"
-last_updated: "2009-09-07"
+last_updated: "2009-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL PARA ASIENTOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 26 DE OCTUBRE DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de septiembre de 2009.
 
@@ -221,15 +221,21 @@ III. Transeúnte o visitante.
 
 Serán considerados vecinos del Municipio de Asientos:
 
-I. Las personas nacidas en el Municipio y que se encuentren radicando en su territorio; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-II. Los (sic) personas que aún sin haber nacido en el territorio municipal, tengan residiendo en él más de dos años consecutivos de manera efectiva.
+I. Las mujeres y los hombres nacidos en el Municipio y que se encuentren radicando en su territorio; y
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+II. Las mujeres y los hombres que aún sin haber nacido en el territorio municipal, tengan residiendo en él más de dos años consecutivos de manera efectiva.
 
 Para efectos del presente artículo, se entiende por residencia, el establecimiento del domicilio sobre el territorio municipal, con el propósito de vivir en él.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 26.
 
-No se considerarán vecinos del Municipio las personas que residan habitualmente fuera de él y que estén en su territorio por un periodo menor al establecido en al artículo anterior.
+No se considerarán vecinos del Municipio a las mujeres y los hombres que residan habitualmente fuera de él y que estén en su territorio por un periodo menor al establecido en al (sic) artículo anterior.
 
 ###### ARTÍCULO 27.
 
@@ -272,6 +278,32 @@ h) Colaborar con las autoridades en la preservación y mejoramiento de la salud 
 i) Respetar y obedecer a las autoridades Municipales legalmente constituidas; y
 
 j) Respetar en todo momento la moral, las buenas costumbres, las leyes, así como el presente Código.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 28 BIS.- Toda mujer que se encuentre en el municipio de Asientos, tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos.
+
+Estos derechos comprenden entre otros:
+
+I. El derecho a que se respete la vida;
+
+II. El derecho a que se respete su integridad física, psíquica y moral;
+
+III. El derecho a la libertad y la seguridad personales;
+
+IV El derecho a no ser sometida a torturas;
+
+V El derecho a igualdad de protección ante y de la ley;
+
+VI. El derecho a que se respete la dignidad inherente a su persona y que se proteja a su familia;
+
+VII. El derecho a un recurso sencillo y rápido ante los tribunales competentes, que la ampare contra actos que violen sus derechos;
+
+VIII. El derecho a libertad de asociación;
+
+IX. El derecho a la libertad de profesar la religión y las creencias propias dentro de la ley; y
+
+X. El derecho a tener igualdad de acceso a las funciones públicas de su Municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones.
 
 ###### ARTÍCULO 29.
 
@@ -493,6 +525,84 @@ LXIII. Nombrar al Titular de la Contraloría Municipal;
 
 LIX. (sic) Nombrar al Juez Calificador.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+Obligaciones del Ayuntamiento en Materia de Igualdad y Género
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 39 BIS.- El objeto del presente apartado es regular y garantizar la igualdad de género entre mujeres y hombres, la no discriminación, y todos aquellos derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 39 TER.- Son obligaciones del Ayuntamiento en materia de Igualdad y Género las siguientes:
+
+I. Instrumentar y articular en concordancia con la política nacional y estatal, la política municipal orientada a la atención, prevención, sanción y erradicación de la violencia contra las mujeres;
+
+II. Promover en concordancia con las entidades federativas, cursos de capacitación y modificaciones conductuales a las personas que atienden a víctimas de violencia contra las mujeres;
+
+III. Apoyar la creación de programas de reeducación integral para los generadores de violencia contra las mujeres en los términos explícitos y de conformidad con los lineamientos que establece la Ley de acceso de las Mujeres a una vida libre de violencia para el Estado de Aguascalientes y su Reglamento;
+
+IV. Promover programas educativos sobre la igualdad entre los géneros para eliminar la violencia contra la mujer;
+
+V. Apoyar la creación de centros de atención para prevenir y erradicar la violencia contra las mujeres y de refugios seguros para las víctimas de violencia familiar y sexual;
+
+VI. Participar y coadyuvar en los ejes de acción, de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+VII. Impartir cursos y talleres de prevención y protección contra la violencia de género en los cuerpos policiacos;
+
+VIII. Evaluar anualmente la actividad de los cuerpos policiacos y servidores públicos encargados de la atención a la violencia de género;
+
+IX. Elaborar una guía de asistencia inmediata que seguirían los elementos de seguridad pública cuando se presenten casos de violencia familiar;
+
+X. Designar a los integrantes del sistema municipal de prevención, atención, sanción y erradicación de la violencia, y vigilar su correcta instalación y funcionamiento;
+
+XI. Aprobar el programa municipal para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñara con base en la perspectiva de género;
+
+XII. Construir el mecanismo municipal de adelanto e (sic) favor de las Mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo y;
+
+XIII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 39 CUARTER (sic).- El Ayuntamiento implementara, el programa municipal para la prevención, atención, sanción y erradicación, de la violencia el cual deberá contener:
+
+I. Los objetivos generales y específicos;
+
+II. Las estrategias a seguir;
+
+III. Las líneas de acción;
+
+IV. Los recursos asignados;
+
+V. Las metas cuantitativas y cualitativas;
+
+VI. Los responsables de su ejecución;
+
+VII. Los mecanismos de evaluación y;
+
+VIII. El subprograma de capacitación.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 39 QUINTUS.- Son principios rectores del programa municipal:
+
+I. La no discriminación;
+
+II. La autodeterminación y libertad de las mujeres;
+
+III. La igualdad sustantiva entre mujeres y Hombres;
+
+IV. El respeto a la dignidad de las mujeres;
+
+V. El pluralismo social y la multicultural idad (sic) de las mujeres y;
+
+VI. La perspectiva de género que permita incorporar a la mujer como sujeto social.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 39 SEXTUS.- El Programa Municipal incluirá los ejes de acción: de prevención, atención y sanción, considerando los niveles de intervención que cada eje contempla, en términos de lo dispuesto por la Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Aguascalientes y su Reglamento.
+
 ### CAPÍTULO III. De las Atribuciones del Presidente Municipal
 
 ###### ARTÍCULO 40.
@@ -639,7 +749,7 @@ IV. No haber sido condenado por delito intencional que amerite penal (sic) corpo
 
 ###### ARTÍCULO 51.
 
-Son facultades y obligaciones del Síndico Municipal:
+Son facultades y obligaciones del Sindico Municipal:
 
 I. Asistir a las sesiones del Ayuntamiento y a los actos oficiales a que sean citados y permanecer en ellos todo el tiempo que éstos duren;
 
@@ -679,7 +789,9 @@ XVIII. Practicar las primeras diligencias de la averiguación previa y remitirla
 
 XIX. Supervisar el funcionamiento del servicio del pie mostrenco municipal;
 
-XX. Servir de árbitro y conciliador en los asuntos que los particulares le pongan a su consideración, a efectos de solucionar los problemas que no sean constitutivos de delito en términos de la legislación Penal del Estado y del Código Penal Federal;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XX. Servir de arbitro y conciliador de los asuntos que los particulares le pongan a su consideración, a efectos de solucionar los problemas que no sean constitutivos de delito en términos de la Legislación Penal del Estado y del Código Penal Federal. Se exceptúan los casos de violencia contra las mujeres y sus familias dentro o fuera de sus hogares en cuyo caso esta contra indicada cualquier conciliación o tolerancia de violencia familiar y/o de género;
 
 XXI. Autorizar en su caso las corridas de ganado que el Presidente del Comisariado Ejidal o persona facultada le solicite;
 
@@ -1535,6 +1647,8 @@ Las comisiones especiales deberán rendir sus dictámenes, en la siguiente sesi�
 
 De las atribuciones, así como el Régimen de Suplencias del H. Ayuntamiento, del Presidente Municipal, de los Regidores y Síndicos, se estará a lo dispuesto en la Ley Municipal para el Estado de Aguascalientes.
 
+(REPUBLICADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2009)
+
 ###### ARTÍCULO 188.
 
 El H. Ayuntamiento nombrará las comisiones que tendrán la obligación de vigilar el ramo de la administración que se les encomiende, se les integran comisiones permanentes, y serán las siguientes:
@@ -1579,9 +1693,19 @@ XIX. Panteones y Relojes;
 
 XX. Salubridad y Beneficencia Pública;
 
-XXI. Desarrollo Humano, Asistencia Social y Discapacidad; y
+XXI. Desarrollo Humano, Asistencia Social y Discapacidad; y (sic)
 
-XXII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XXII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XXIII. Comisión de Equidad y Género;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XXIV. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 ###### ARTÍCULO 189.
 
@@ -3071,6 +3195,42 @@ XII. Acordar con el Presidente Municipal el despacho de los asuntos que le corre
 
 El objeto general de la Instancia Municipal de la Mujer es promover y fomentar las condiciones que posibiliten la no discriminación de las mujeres y la igualdad de oportunidades y de trato entre los hombres y las mujeres en el Municipio, así como el ejercicio pleno de todos los derechos reconocidos por la legislación mexicana y la participación equitativa de las mujeres en la vida política, cultural, económica y social del Municipio, así como la de los hombres en la vida familiar; bajo criterios en donde se mantenga este enfoque en todas las políticas públicas establecidas por cada una de las dependencias y entidades municipales.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 259 BIS.- Para el desarrollo social integral de la mujer en Asientos se instituye el organismo público descentralizado de la administración municipal denominada Instancia Municipal de las Mujeres de Asientos, al cual se otorga personalidad jurídica para todo efecto legal.
+
+Disposiciones Generales:
+
+I. La Instancia Municipal de las Mujeres de Asientos tendrá su domicilio legal en la Ciudad de Asientos cabecera municipal del Municipio de Asientos Aguascalientes.
+
+II. El patrimonio de la Instancia es propio y se integra por el presupuesto y los bienes muebles e inmuebles que le transmita en propiedad el Municipio de Asientos, recursos y apoyos que obtenga de instituciones públicas Estatales y/o Federales y/o privadas, así como por todos los bienes y derechos que adquiera por cualquier otro título y por las obligaciones que adquiera o le deriven de las disposiciones legales aplicables.
+
+III. El Municipio de Asientos, por conducto de la Presidencia Municipal, suministrará a la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS los bienes, recursos e insumos necesarios para su funcionamiento administrativo, en la medida en que los recursos propios del mismo no resulten suficientes para tal efecto, por lo que en el Presupuesto de Egresos del Municipio de Asientos se contemplará la partida que apruebe el Ayuntamiento para su asignación a la instancia.
+
+IV. Para el cumplimiento de su objeto y ejercicio de sus atribuciones la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS estará dotada de autonomía técnica y de gestión, por lo que sus proyectos y programas, actos y actividades serán decididos y ejecutados en los términos establecidos por sus órganos de dirección en los términos de este Código Municipal.
+
+V. La INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS tiene como objeto el establecimiento y ejecución de proyectos y programas tendientes al desarrollo social de las Mujeres, con el fin de propiciar la educación, formación y realización integral de las Mujeres, con dignidad y equidad, en el conjunto de sus potencialidades como persona.
+
+VI. Los proyectos y programas de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS se formularán con base a lo previsto en materia de desarrollo social en el Plan de Gobierno Municipal.
+
+VII. En los proyectos y programas de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS se contemplará de manera prioritaria las actividades y acciones tendientes a evitar, prevenir y erradicar la discriminación, desigualdad y maltrato a las Mujeres, así como para promover la educación en el ejercicio y respeto de sus derechos fundamentales, su dignidad y sus valores y para la promoción de su mejoramiento cultural, social y económico, incluyéndose la realización de estudios, análisis, investigaciones y diagnóstico sobre la problemática que afecta a las Mujeres en el municipio de Asientos.
+
+VIII. La INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS podrá coordinarse con entidades o instituciones públicas o privadas, mediante los convenios de concertación conducentes al cumplimiento de su objeto y ejercicio de sus atribuciones.
+
+IX. En el ámbito de lo Municipal de Asientos, la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS actuará de manera coordinada con las dependencias de la administración pública municipal.
+
+X. La ejecución de los proyectos y programas para la realización de los actos y actividades propias del objeto y atribuciones de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS estará a cargo de una Directora General, quien contará con personal de apoyo, auxilio y colaboración necesario para el optimo desempeño de esta Dirección y que para tal efecto determine el H. Ayuntamiento en su presupuesto de egresos a partir del año 2010.
+
+XI. La Directora General de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS será designada y removida por el Presidente Municipal y designará y removerá al demás personal de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS, a propuesta de la Directora General, estableciendo el organigrama, facultades y obligaciones de cada uno de los cargos respectivos, determinando las funciones que sean de confianza, mediante acuerdo que se publicará en el Periódico Oficial del Estado.
+
+XII. Para ser Directora General de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS se requiere ser Mujer, preferentemente originaria del Municipio de Asientos y/o habitante del Municipio de Asientos con residencia efectiva y consecutiva mínima de cinco años anteriores al momento de la designación y haberse distinguido o participado reiteradamente en actos o actividades a favor de los derechos fundamentales y dignificación de las Mujeres.
+
+XIII. La Directora General tendrá las facultades, dentro del marco de los proyectos y programas, de coordinarse, conducir, dirigir e instruir las actividades de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS, y ejercerá las facultades legales de representación de la misma frente a terceros particulares y frente a toda clase de autoridades Estatales y Federales, materias y procedimientos, incluyendo los actos que requieran cláusula especial conforme a la ley.
+
+XIV. La distribución de la partida asignada en el presupuesto municipal a favor de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS será determinada dentro de los primeros quince días de enero de cada año, a propuesta de la Directora General.
+
+XV. Con el fin de conocer, analizar y evaluar la actividad de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS, la Directora General rendirá un informe trimestral al H. Ayuntamiento y al Presidente Municipal de Asientos, de manera integral sobre la operación y funcionamiento de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS, y se mandata a quien ocupe la Presidencia Municipal incluirá lo relativo a la instancia municipal de las mujeres en el correspondiente informe anual de gobierno.
+
 ###### ARTÍCULO 260.
 
 Corresponden a la Instancia de la Mujer las siguientes atribuciones:
@@ -3678,6 +3838,20 @@ La aprobación, actualización o sustitución de los programas que se deriva del
 ###### ARTÍCULO 322.
 
 De conformidad con lo dispuesto por el Articulo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponde exclusivamente al Ayuntamiento, aprobar de forma libre y autónoma el Presupuesto de Egresos del Gobierno Municipal de Asientos.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 322 BIS.- Corresponde también al Ayuntamiento de Asientos:
+
+I. La presupuestación del Gasto Público del Municipio de Asientos deberá estar basada también en el criterio de equidad de género;
+
+II. Planear estratégicamente los recursos humanos de la Presidencia Municipal; haciendo esa planeación sin trato diferenciado por razones étnicas, religiosas, de participación política ó de género;
+
+III. Facilitará los procesos de formación de los servidores públicos municipales incluida la formación obligatoria de los mismos con perspectiva de género para el mejor desempeño de sus funciones;
+
+IV. Atender las demandas y conflictos del personal; apoyándose en el criterio de equidad de género; y
+
+V. Elaborar el Reglamento Interior de Trabajo de la Presidencia Municipal incluyendo en su elaboración la perspectiva de género; (sic)
 
 ###### ARTÍCULO 323.
 
@@ -7844,6 +8018,38 @@ XXVI. Observar las normas éticas y disciplinarias que establezca este Libro y d
 XXVII. Actuar coordinadamente con otras Corporaciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que legalmente proceda: y
 
 XXVIII. Estudiar, conocer y respetar este Libro y las demás Leyes aplicables y relativas al servicio de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 884 BIS.- Son obligaciones, en general, de los Cuerpos de Seguridad Pública Municipal del Municipio de Asientos en materia de Género:
+
+I. Atender de manera inmediata todos los casos de violencia contra las mujeres que sean recibidos a través de reportes por cualquier medio o por parte de cualquier persona aún cuando no se tratase de la afectada directa en los números de emergencia o directamente en las oficinas de la Dirección de Seguridad Publica del Municipio de Asientos o de la Presidencia Municipal o a través de algún elemento en activo de la corporación o de cualquier funcionario municipal en activo:
+
+II. Proporcionar a las víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y derechos;
+
+III. Promover la cultura de respeto a los derechos fundamentales de las mujeres;
+
+IV. Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres;
+
+V. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia contra las mujeres;
+
+VI. Implementar cursos y talleres de prevención y protección contra la violencia de género;
+
+VII. Proporcionar a las víctimas de violencia el apoyo necesario para conocer su situación jurídica y sus derechos;
+
+VIII. Promover la cultura de respeto a los derechos fundamentales de las Mujeres;
+
+IX. Cumplimentar sin demora las ORDENES DE PROTECCION.
+
+Serán autoridades competentes para liberar las órdenes de protección, las previstas en el capítulo IV de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y en el Capítulo VI de su Reglamento.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 884 TER.- Queda estrictamente prohibido a los agentes de la Dirección de Seguridad Pública Municipal:
+
+I.-.- (sic) Fomentar en la corporación practicas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para la Mujer y el Hombre que justificasen o aumenten la violencia contra la Mujer y;
+
+II.-.- (sic) Las demás que prevean las leyes y reglamentos respectivos.
 
 ###### ARTÍCULO 885.
 
@@ -13798,3 +14004,11 @@ Dr. Miguel Ángel Piza Jiménez.
 SÍNDICO MUNICIPAL
 
 Lic. Ernesto Rangel Silva.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 26 DE OCTUBRE DE 2009.
+
+PRIMERO.- Las presentes reformas entraran en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias municipales que se opongan a lo dispuesto en el presente Código Municipal.
