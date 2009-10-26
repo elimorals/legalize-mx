@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2007-03-12"
+last_updated: "2009-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2009.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -255,25 +255,29 @@ XXIV.- SOP ESTATAL: la Secretaría de Obras Públicas del Estado;
 
 XXV.- USOS: los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-XXVI.- ZONIFICACION: la determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo; y
+XXVI.- ZONIFICACIÓN: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-XXVII.- MANIFESTACION DE IMPACTO URBANO Y/O RURAL: El estudio técnico de factibilidad para los usos de suelo urbano o rural, público, privado o ejidal, donde se manifiesta el efecto y posibles repercusiones que se pudieran generar por su funcionamiento, forma o magnitud, por que se rebase las capacidades de la infraestructura o de los servicios públicos del área o zona donde se pretende ubicar; por que se afecte el espacio urbano o el medio ambiente, la imagen o el paisaje urbano, o la estructura socioeconómica, o signifique un riesgo para la salud, el ambiente, la vida o los bienes de la comunidad, en el entorno que circunda al establecimiento de un lugar fijo, desarrollo o zona, para el desempeño de una actividad y las estrategias para mitigar o resolver tal impacto.
+XXVII.- MANIFESTACIÓN DE IMPACTO URBANO Y/O RURAL: El estudio técnico de factibilidad para los usos de suelo urbano o rural, público, privado o ejidal, donde se manifiesta el efecto y posibles repercusiones que se pudieran generar por su funcionamiento, forma o magnitud, por que se rebase las capacidades de la infraestructura o de los servicios públicos del área o zona donde se pretende ubicar; por que se afecte el espacio urbano o el medio ambiente, la imagen o el paisaje urbano, o la estructura socioeconómica, o signifique un riesgo para la salud, el ambiente, la vida o los bienes de la comunidad, en el entorno que circunda al establecimiento de un lugar fijo, desarrollo o zona, para el desempeño de una actividad y las estrategias para mitigar o resolver tal impacto.
 
 El estudio técnico deberá contener como mínimo lo siguiente:
 
-1).- Aspectos Generales: Antecedentes, Localización y Bases Jurídicas;
+1).- Aspectos Generales: Antecedentes, localización y bases jurídicas;
 
 2).- Resumen de Diagnóstico: Medio Físico Natural, Medio Físico Construido, Aspectos Demográficos y Movilidad Urbana;
 
 3).- Objetivos;
 
-4).- Estrategias: Ordenamiento Territorial; Uso, Destinos y Reservas del Suelo; Estructura Vial; Equipamiento; Desarrollo Económico y Medio Ambiente y Ecología; y
+4).- Estrategias: Ordenamiento Territorial; Uso, Destinos y Reservas del Suelo; Estructura Vial; Equipamiento; Desarrollo Económico y Medio Ambiente y Ecología;
 
 5).- Metas.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XXVIII.- BARRERAS ARQUITECTÓNICAS: Aquellos obstáculos que dificulten, entorpezcan o impidan, a las personas con discapacidad, el libre desplazamiento en lugares públicos, sean interiores o exteriores, o el impedimento de usar los servicios sociales o públicos.
 
 ###### ARTICULO 6o.
 
@@ -1955,9 +1959,15 @@ III.- La dotación de servicios, equipamiento o infraestructura urbana, en área
 
 IV.- La acción integrada del Estado que articule la regularización de la tenencia del suelo urbano con la dotación de servicios y satisfactores básicos, que tiendan a integrar a la comunidad urbana;
 
-V.- La celebración de convenios entre autoridades, propietarios y los sectores público, social y privado, en que se atiendan sus respectivos intereses o a través de la expropiación de predios por causa de utilidad pública; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-VI.- Las demás que se consideren necesarias para la eficacia de la acción de mejoramiento.
+V.- La celebración de convenios entre autoridades, propietarios y los sectores público, social y privado, en que se atiendan sus respectivos intereses o a través de la expropiación de predios por causa de utilidad pública;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+VI.- Las acciones necesarias, así como el equipamiento de áreas para lograr que las personas con discapacidad puedan integrarse a la vida social y productiva de nuestro Estado; y
+
+VII.- Las demás que se consideren necesarias para la eficacia de la acción de mejoramiento.
 
 ###### ARTICULO 126.
 
@@ -1991,9 +2001,21 @@ V.- La dotación de servicios, equipamiento o infraestructura urbana, en áreas 
 
 VI.- La prevención, control y atención de riesgos y contingencias ambientales y urbanos en los centros de población;
 
-VII.- La acción integrada del sector público que articule la regularización de la tenencia de la tierra urbana con la dotación de servicios y satisfactores básicos que tiendan a integrar a la comunidad; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-VIII.- La celebración de convenios entre autoridades y propietarios o la expropiación de sus predios por causa de utilidad pública.
+VII.- La acción integrada del sector público que articule la regularización de la tenencia de la tierra urbana con la dotación de servicios y satisfactores básicos que tiendan a integrar a la comunidad;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+VIII.- La celebración de convenios entre autoridades y propietarios o la expropiación de sus predios por causa de utilidad pública;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+IX.- La movilidad de barreras arquitectónicas que impidan el libre desplazamiento de las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+X.- La dotación de servicios urbanos que tiendan a permitir el libre tránsito de las personas con discapacidad.
 
 #### SECCION CUARTA. Crecimiento
 
@@ -2383,9 +2405,17 @@ V.- Medios para la satisfacción de la demanda;
 
 VI.- Régimen financiero para la ejecución de la obra;
 
-VII.- El impacto ambiental; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-VIII.- La estructura vial y el sistema de transporte, así como las otras redes, tales como las de electricidad, agua potable y drenaje.
+VII.- El impacto ambiental;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+VIII.- La estructura vial y el sistema de transporte, así como las otras redes tales como las de electricidad, agua potable y drenaje; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+IX.- La infraestructura urbana y el equipamiento necesario para el desplazamiento de las personas con discapacidad.
 
 ###### ARTICULO 174.
 
@@ -2825,9 +2855,659 @@ El número oficial deberá colocarse en parte visible de la entrada de cada pred
 
 El Ayuntamiento podrá ordenar el cambio del número oficial para lo cual lo notificará al propietario, quedando éste obligado a colocar el nuevo número en el plazo que se le fije, pudiendo conservar el anterior noventa días naturales más.
 
-### CAPITULO IV. De los Proyectos y Ejecución de as (sic) Obras
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-### CAPITULO V. Del Alineamiento y Ocupación de las Construcciones
+### CAPITULO IV. De la Regulación de las Barreras Arquitectónicas
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 A.- Se consideran barreras arquitectónicas:
+
+I. Aceras y banquetas sin los desniveles adecuados;
+
+II. Intersecciones de aceras o calles;
+
+III. Coladeras, sumideros o bocas de alcantarillas;
+
+IV. Estacionamientos;
+
+V. Escaleras o rampas;
+
+VI. Teléfonos públicos;
+
+VII. Tensores para postes;
+
+VIII. Anuncios;
+
+IX. Comercios en la vía pública;
+
+X. Buzones postales;
+
+XI. Contenedores para depósito de basura;
+
+XII. Semáforos; y
+
+XIII. Cualquier otro objeto que dificulte, entorpezca o impida el libre tránsito, principalmente a las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 B.- Los programas de desarrollo deberán incluir la adecuación de aquellos lugares con acceso al público y en las que se encuentren barreras arquitectónicas.
+
+Los lugares susceptibles de adecuarse son los siguientes:
+
+A. Rampas y escaleras;
+
+B. Elementos anejos al pavimento: alcorques, ajardinamientos y rejillas;
+
+C. Pasos peatonales;
+
+D. Elementos mecánicos: escaleras mecánicas, rampas o tapices rodantes, ascensores y plataformas elevadoras.
+
+I. Mobiliario urbano:
+
+a) Acera;
+
+b) Calzada;
+
+e) Semáforos;
+
+d) Teléfonos;
+
+e) Buzones;
+
+f) Contenedores de residuos sólidos;
+
+g) Asientos públicos;
+
+h) Paradas de autobús: postes y marquesinas;
+
+i) Máquinas expendedoras;
+
+j) Mostradores y ventanillas;
+
+k) Paneles de información o expositores;
+
+l) Fuentes y bebederos;
+
+m) kioscos;
+
+n) Sanitarios públicos;
+
+o) Elementos provisionales o de temporada;
+
+p) Componentes arquitectónicos u ornamentales; y
+
+q) Todo aquel mobiliario que impida el libre desplazamiento de las personas con discapacidad.
+
+II. Protección y señalización de elementos provisionales por obras:
+
+a) Zanjas;
+
+b) Contenedores y otros elementos; y
+
+c) Andamios.
+
+III. Elementos de Información:
+
+a) Carteles;
+
+b) Guías; y
+
+c) Otros sistemas de información.
+
+IV. Espacios exteriores:
+
+a) Paradas de transportes públicos;
+
+b) Zonas ajardinadas; y
+
+c) Aparcamientos.
+
+V. Accesos al interior del edificio:
+
+a) Accesos;
+
+b) Acceso peatonal;
+
+c) Señalización; y
+
+d) Porteros automáticos.
+
+VI. Puertas de acceso exteriores:
+
+a) Puertas automáticas;
+
+b) Puertas no automáticas; y
+
+c) Puertas y superficies acristaladas.
+
+VII. Torniquetes, barreras u otros elementos de control de entrada:
+
+a) Vestíbulos;
+
+b) Iluminación;
+
+c) Interruptores;
+
+d) Mobiliario; y
+
+e) Vestíbulo-recepción de edificios públicos.
+
+VIII. Interiores:
+
+a) Ubicación plantas;
+
+b) Pasillos;
+
+c) Puertas;
+
+d) Ventanas;
+
+e) Escaleras;
+
+f) Rampas;
+
+g) Ascensores;
+
+h) Elementos mecánicos;
+
+i) Escaleras mecánicas;
+
+j) Tapices rodantes; y
+
+k) Plataformas elevadoras o mecanismos salvaescaleras.
+
+IX. Espacios de pública concurrencia:
+
+a) Zonas de atención al público;
+
+b) Localización del mostrador o taquilla;
+
+c) Taquillas y mostradores;
+
+d) Información accesible; y
+
+e) Atención al usuario.
+
+X. Salas de espectáculos:
+
+a) Accesibilidad para los espectadores;
+
+b) Accesibilidad para actores, conferencistas;
+
+c) Estadios y graderíos;
+
+d) Piscinas; y
+
+e) Vestidores y duchas.
+
+XI. Servicios Sanitarios:
+
+a) Mobiliario;
+
+b) Ubicación;
+
+c) Mobiliario adosado a la pared;
+
+d) Zonas de espera;
+
+e) Teléfonos; y
+
+f) Sistemas de alarma y emergencia.
+
+XII. Edificios que brinden servicios de alojamiento al público:
+
+a) Alojamientos turísticos;
+
+b) Dependencias;
+
+c) Habitaciones; y
+
+d) Comedor.
+
+XIII. Centros que brinden servicios de salud;
+
+XIV. Centros escolares;
+
+XV. Centros culturales;
+
+XVI. Espacios de uso comunitario;
+
+XVII. Transporte público:
+
+a) Accesos;
+
+b) Paradas;
+
+c) Diseño;
+
+d) Características;
+
+e) Señalización;
+
+f) Escaleras;
+
+g) Escaleras fijas;
+
+h) Elementos mecánicos;
+
+i) Iluminación;
+
+j) Puertas de acceso con apertura automática; y
+
+k) Puertas de acceso no automáticas.
+
+XVIII. Vestíbulos:
+
+a) Accesos;
+
+b) Iluminación;
+
+c) Ascensores;
+
+d) Características generales;
+
+e) Botonera;
+
+f) Señalización e información;
+
+g) Diseño;
+
+h) Rotulación;
+
+i) Mobiliario;
+
+j) Taquillas y máquinas expendedoras;
+
+k) Depósitos de residuos sólidos;
+
+l) Bancos o asientos;
+
+m) Extintores;
+
+n) Sanitarios; y
+
+o) Teléfonos.
+
+XIX. Andenes;
+
+XX. Terminales de autobuses;
+
+XXI. Aeropuertos;
+
+XXII. Gasolineras; y
+
+XXIII. Cualquier otro espacio o estructura que dificulte, entorpezca o impida el libre tránsito, principalmente de personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 C.- De acuerdo a la Norma Oficial Mexicana NOM-233-SSA1-2003, que establece los requisitos arquitectónicos para facilitar el acceso, tránsito y permanencia de las personas con discapacidad a los establecimientos de atención médica del sistema nacional de salud, se emiten los siguientes lineamientos generales para la instalación, construcción o modificación, en todo o en parte de la infraestructura básica, el equipamiento primario o servicios urbanos:
+
+I. Puerta.- Anchura mínima: 1.00 m;
+
+Las puertas deberán tener las características siguientes:
+
+a) En todos los accesos exteriores y de intercomunicación deberá tener colores de alto contraste en relación a los de la pared.
+
+b) Si están cerca de la esquina o en la esquina de una habitación, deberán abatir hacia el muro más cercano.
+
+c) Las de emergencia estarán marcadas claramente con letreros y color contrastante y deberán abrir hacia afuera.
+
+d) Las manijas y cerraduras deberán ser resistentes, de fácil manejo y estar instaladas a 0.90 m. del nivel del piso.
+
+Los picaportes y jaladeras deberán ser de tipo palanca.
+
+II. Ascensores.- Profundidad mínima: 1.20 m., superficie superior a 1.20 m2, anchura de la cabina: 1.00 m., anchura de las puertas: 0.90 m., altura de la botonera inferior a 1.20 m., lectura de la botonera: arábica y además otro método alternativo, señalización de la planta: sistemas visuales y además otro método alternativo, pasamanos a una altura de 0.90 m.
+
+III. Estacionamiento.- Reserva: 1 de cada 30 cajones o fracción, lo más cercano a los elevadores y accesos, en medidas de 5.00 por 3.80 m.
+
+IV. Para indicar la proximidad de rampas, escaleras y otros cambios de nivel; el piso deberá tener textura diferente con respecto al predominante, en una distancia de 1.20 m. por el ancho del elemento.
+
+V. Los pasamanos deberán tener las características siguientes:
+
+a) Tubulares de 0.05 m. de diámetro.
+
+b) En color contrastante con respecto al elemento delimitante vertical.
+
+c) Colocados a 0.95 m. y un segundo pasamanos a 0.75 m. del nivel del piso.
+
+d) Separados 0.05 m. de la pared, en su caso.
+
+e) En rampas y escaleras deben de prolongarse 0.60 m. en el arranque y en la llegada.
+
+VI. Escaleras.- Anchura mínima: 1.80 m. pasamanos a ambos lados con doble pasamanos:
+
+a) Quince peraltes como máximo entre descansos;
+
+b) La nariz de las huellas debe ser antiderrapante y de color contrastante;
+
+c) Los peraltes serán verticales o con una inclinación máxima de 0.025 m.
+
+VII. Los escalones deberán tener las siguientes características:
+
+a) Huellas de 0.34 m. como mínimo;
+
+b) Peraltes máximo de 0.14 m;
+
+c) Superficie antiderrapante; y
+
+d) Ausencia de saliente en la parte superior del peralte.
+
+VIII. Señalamientos.- En las áreas de acceso, tránsito y estancia se pondrán señalamientos que deberán apegarse a las especificaciones siguientes:
+
+a) Los letreros y gráficos visuales deberán tener letras de 0.05 m. de alto como mínimo, en color contrastante con el fondo y colocados a 2.10 m. sobre el nivel del piso;
+
+b) En los letreros táctiles, las letras o números tendrán las dimensiones siguientes: 0.002 m. de relieve, 0.02 m. de altura y colocarse a 1.40 m. de altura sobre la pared adyacente a la manija de la puerta;
+
+c) Las circulaciones internas en sanitarios, auditorios, comedores, regaderas y vestidores tendrán 1.50 m. de ancho como mínimo;
+
+d) Servicios.- Reserva: 1 ducha, 1 cabina de servicios, puertas: 1.00 m. de ancho mínimo, espacio libre de maniobra superior a 1.5 m. mecanismos y accesorios a 0.90 m. del suelo, mobiliario: borde inferior del espejo a menos de 0.80 m. del suelo;
+
+e) Mostradores.- Altura inferior a 0.90 m.
+
+f) Teléfonos públicos.- Reserva: 1 de cada 20 teléfonos que se instalen deberán contar con un aparato a una altura no mayor a 1.20 m. sobre nivel del piso terminado, para facilitar su uso a personas con discapacidad permanente o temporal, personas afectadas de enanismo como a niños; asimismo, la impresión de la numeración para marcar deberá ser en relieve a fin de facilitar su uso a invidentes y débiles visuales; y
+
+g) Los tensores que en las vías públicas se instalen, como apoyo de los postes de los servicios públicos, deberán contar con un protector metálico, el cual deberá ser recubierto con pintura de color vivo a fin de que los transeúntes, principalmente los débiles visuales, los identifiquen con facilidad para evitar tropezarse.
+
+De igual manera y con la misma finalidad deberán pintarse de colores contrastantes los postes, semáforos, contenedores de basura de todo tipo y cualquier otro mueble urbano que se deposite sobre las aceras, cruceros o intersecciones de calles.
+
+La colocación de los obstáculos viales, se efectuará de manera estratégica evitando el centro de pasillos y camellones, a efecto de que no se impida el desplazamiento de una silla de ruedas, de un aparato de apoyo o de un invidente.
+
+IX. Los semáforos deberán contar con alarma sonora para indicar alto o avance a invidentes.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 D.- Los edificios que no cuenten con una entrada al nivel del piso, sin diferencias de niveles entre el interior y el exterior; cuando no sea posible, las entradas deberán tener rampas.
+
+I. Las rampas para acceder al interior deberán tener las características siguientes:
+
+a) Ancho de 1.00 m. libre entre pasamanos;
+
+b) Pendiente no mayor de 12%;
+
+c) Bordes laterales de 0.05 m. de altura;
+
+d) Pasamanos en ambos lados;
+
+e) El piso deberá ser firme, uniforme y antiderrapante;
+
+f) Longitud no mayor de 6.00 m. de largo;
+
+g) Cuando la longitud requerida sobrepase los 6.00 m. se considerarán descansos de 1.50 m.
+
+h) Señalamiento que prohíba la obstrucción de la rampa con cualquier tipo de elemento; y
+
+i) Símbolo internacional de acceso a personas con discapacidad.
+
+II. Las escaleras interiores deberán tener las características siguientes:
+
+a) Pasamanos a ambos lados;
+
+b) Ancho mínimo de 1.80 m. libre de pasamanos;
+
+c) Trece peraltes como máximo entre descansos;
+
+d) La nariz de las huellas debe ser antiderrapante y de color contrastante; y
+
+e) Los peraltes serán verticales o con una inclinación máxima de 0.025 m.
+
+III. Los escalones interiores deberán tener las características siguientes:
+
+a) Huellas de 0.25 m. como mínimo;
+
+b) Peralte máximo de 0.14 m;
+
+c) Superficie antiderrapante; y
+
+d) Ausencia de saliente en la parte superior del peralte.
+
+IV. Los edificios de dos o más niveles deberán tener elevador con las características siguientes:
+
+a) Señalamientos claros para su localización;
+
+b) Ubicación cercana a la entrada principal;
+
+c) Área interior libre de 1.50 m. por 1.50 m. como mínimo;
+
+d) Ancho mínimo de puerta de 1.00 m.;
+
+e) Pasamanos interiores en sus tres lados;
+
+f) Controles de llamada colocados a 1.20 m. en su parte superior; y
+
+g) Dos tableros de control colocados a 1.20 m. de altura, uno a cada lado de la puerta y los botones de control deberán tener números arábigos en relieve.
+
+V. Los mecanismos automáticos de cierre de las puertas deberán de operarse con el tiempo suficiente para el paso de una persona discapacitada;
+
+VI. El elevador deberá tener exactitud en la parada con relación al nivel del piso.
+
+La señalización del número de piso en relieve colocado en el canto de la puerta del elevador, a una altura de 1.40 m. del nivel del piso;
+
+VII. Los pasillos de comunicación deberán tener las siguientes características:
+
+a) Ancho libre de 1.80 m.;
+
+b) Pasamanos tubulares continuos;
+
+c) Sistema de alarma de emergencia a base de señales audibles y visibles con sonido intermitente y lámpara de destellos; y
+
+d) Señalización conductiva.
+
+VIII. Vestidores.- Reserva mínima: 1 ducha, 1 cabina de vestuario, espacio libre de giro y maniobra: 1.50 m., colocación de mecanismos y accesorios a una altura inferior a 1.20 m.;
+
+IX. En el área de regaderas se deberá dejar como mínimo una regadera para personas con discapacidad, que cubra las siguientes características:
+
+a) Dimensiones de 1.10 m. de frente por 1.30 m. de fondo;
+
+b) Puerta de 1.00 m. de ancho mínimo; y
+
+c) Barras de apoyo esquineras de 0.05 m. de diámetro y 0.90 m. de largo a cada lado de la esquina, colocadas horizontalmente en la esquina más cercana a la regadera a 0.80 m., 1.20 m. y 1.50 m. sobre el nivel del piso.
+
+X. En salas de espera y auditorios se destinará un área de 1.00 m. por 1.25 m. para personas en silla de ruedas. Asimismo, se reservará un asiento para personas con discapacidad con muletas o bastones, sitios que deberán estar cercanos al acceso, y con simbología de área reservada;
+
+XI. Se deberán reservar áreas exclusivas de estacionamiento para los automóviles que transportan o son conducidos por personas con discapacidad, contando cuando menos con dos lugares con las características siguientes:
+
+a) Ubicados lo más cerca posible a la entrada del edificio;
+
+b) Las medidas del cajón serán de 5.00 m. de fondo por 3.80 m. de frente; y
+
+c) Señalamientos pintados en el piso con el símbolo internacional de acceso a personas con discapacidad de 1.60 m. en medio del cajón y letrero con el mismo símbolo de 0.40 m. por 0.60 m. colocado a 2.10 m. de altura.
+
+XII. En los servicios donde se requieran vestidores, deberá haber un vestidor como mínimo para personas discapacitadas, con las siguientes características:
+
+a) 1.80 m. de frente por 1.80 m. de fondo;
+
+b) Banca de 0.90 m. por 0.40 m.;
+
+c) Barras de apoyo de 0.032 m. de diámetro; y
+
+d) Barra vertical próxima a la banca y barra horizontal en el muro adyacente a la banca.
+
+XIII. En los sanitarios públicos, adaptar como mínimo uno para personas con discapacidad por cada tres, en unidades con dos o más sanitarios con las siguientes características:
+
+a) Construidos con un muro macizo;
+
+b) 2.00 m. de fondo por 1.60 m. de frente;
+
+c) Piso antiderrapante;
+
+d) Puerta de 1.00 m. de ancho como mínimo;
+
+e) Barras de apoyo horizontales de 0.05 m. de diámetro, en la pared lateral más cercana al retrete colocadas a 0.90 m., 0.70 m. y 0.50 m. del nivel de piso del lado de la pared más cercana;
+
+f) Barra vertical de apoyo en la pared posterior al retrete centrada a una altura de 0.80 m. en la parte inferior y a 1.50 m. en la parte superior;
+
+g) El retrete debe tener un asiento a 0.50 m. de altura sobre el nivel del piso; y
+
+h) El retrete debe estar colocado a 0.56 m. de distancia del paño de la pared al centro del mueble.
+
+XIV. En los sanitarios públicos habrá como mínimo un mingitorio con las siguientes características:
+
+a) Piso antiderrapante;
+
+b) La distancia a ambos lados será de 0.45m. del eje del mingitorio hacia cualquier obstáculo; y
+
+c) Barras verticales de 0.032 m. de diámetro, en la pared posterior a ambos lados del mingitorio, a una distancia de 0.30 m. al eje del mismo a una separación de 0.20 m. y una altura de 0.90 m. en su parte inferior y 1.60 m. en su parte superior.
+
+XV. Las características de colocación de los lavabos deberán ser las siguientes:
+
+a) A 0.76 m. de altura libre sobre el nivel del piso;
+
+b) La distancia entre lavabos será de 0.90 m. de eje a eje;
+
+c) El mueble debe tener empotre de fijación o ménsula de sostén para soportar el esfuerzo generado por el usuario;
+
+d) El desagüe colocado hacia la pared posterior;
+
+e) Deberán existir 0.035 m. de espacio como mínimo entre el grifo y la pared que da detrás del lavabo; cuando se instalen dos grifos, deberán estar separados entre sí 0.20 m. como mínimo;
+
+f) El grifo izquierdo del agua caliente, deberá señalarse con color rojo;
+
+g) Uno de los lavabos tendrá llaves largas tipo aleta; y
+
+h) Los accesorios como toalleros y secador de manos deberán estar colocados a una altura máxima de 1.00 m.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 E.- El Programa Estatal de Desarrollo Urbano y los programas municipales de desarrollo urbano, incluirán las adecuaciones de facilidades urbanísticas y arquitectónicas que se requieran conforme a las necesidades de las personas con discapacidad y de edad avanzada en la Entidad, debiéndose contemplar las directrices a que deban someterse los proyectos de construcciones o modificaciones respectivas.
+
+Los proyectos de construcción de conjuntos habitacionales que constituyan un complejo arquitectónico, deberán prever las directrices antes señaladas, a fin de que tales inmuebles den fácil acceso para las personas con discapacidad y de edad avanzada.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 F.- Los Ayuntamientos de los Municipios de la Entidad deberán observar y prever facilidades urbanísticas y arquitectónicas adecuadas a las necesidades de las personas con discapacidad y edad avanzada, de conformidad con las disposiciones legales aplicables a la materia, en la planificación y urbanización de las vías, parques y jardines públicos, a fin de facilitar a aquéllos el tránsito, desplazamiento y uso de dichos espacios.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 G.- Las aceras deben permitir en las esquinas o sitios propicios para el cruce peatonal, las facilidades para que las personas con discapacidad en sillas de ruedas, puedan en forma independiente y con un máximo de seguridad, descender o ascender de las mismas, para lo cual los pavimentos deberán ser resistentes y antiderrapantes; las juntas deberán encontrarse bien selladas y libres de arena o piedras sueltas, las pendientes no deberán ser mayores del 12%.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 H.- En las intersecciones o cruces de aceras o de calles que se encuentren construidas a distintos niveles, las superficies de ambas deberán llevarse al mismo nivel mediante el uso de rampas, con la finalidad de hacer factible el tránsito a personas en sillas de ruedas, con aparatos ortopédicos o con locomoción disminuida por algún padecimiento somático.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 I.- En las aceras e intersecciones en que se construyan rampas para sillas de ruedas, los pavimentos, además de antiderrapantes, deberán ser rugosos, de tal manera que permitan servir de señalamiento para la circulación de invidentes o débiles visuales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 J.- En las zonas urbanas de nueva creación o desarrollo, deberá evitarse la colocación de coladeras de cualquier índole sobre aceras, cruceros y otros elementos de circulación peatonal.
+
+En las áreas ya urbanizadas, donde se ubican coladeras de cualquier índole, sobre las aceras, deberán fijarse señalamientos necesarios para que las personas que utilicen sillas de ruedas, muletas, bastones o sean débiles visuales, eviten tropiezo alguno.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 K.- Las personas con discapacidad tendrán derecho exclusivo a ocupar los espacios de estacionamiento que sean destinados para ellos, para su identificación.
+
+Las autoridades Estatales y Municipales deberán proporcionar a las personas con discapacidad que utilicen vehículos de motor, un engomado con el logotipo internacional y distintivo que permita conocer, que fue expedido por la autoridad competente para los que tengan vehículo propio o un tarjetón con las mismas características para aquellas personas con discapacidad temporal que ocupen vehículos de alquiler o prestados.
+
+Las autoridades de tránsito, impondrán la misma multa que corresponda al estacionamiento en lugar prohibido, a los infractores que ocupen los espacios destinados a personas con discapacidad.
+
+A efecto de facilitar el estacionamiento de vehículos, de los cuales tengan que descender o ascender personas con discapacidad o adultos mayores, la autoridad vial dispondrá las medidas necesarias, las que inclusive podrán aplicarse en zonas de aparcamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones.
+
+Los estacionamientos de vehículos en la vía pública deberán de contar, en las zonas comerciales, por lo menos con tres espacios por manzana, para el ascenso y descenso de personas con discapacidad.
+
+Dichos espacios deberán diseñarse de acuerdo a los requerimientos específicos y encontrarse claramente señalados como reservados para uso exclusivo.
+
+Fuera del área comercial a que se refiere este Artículo, pero en sitios en que se establezcan oficinas, escuelas, centros recreativos o culturales; o cualquier otro lugar con acceso al público, deberá contar por igual con espacios para el ascenso y descenso exclusivo de personas con discapacidad.
+
+Para tal efecto, deberá contarse, previamente, con la autorización de construcción expedida por las autoridades del ramo, con la finalidad de que éstas indiquen el área más adecuada para ello.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 L.- Los edificios que tengan escaleras en su acceso desde la vía pública, deberán contar con una rampa para dar servicio a personas que se transporten en sillas de ruedas, o que usen muletas, bastones o aparatos ortopédicos, o que por cualesquiera otras circunstancias tengan disminuidas o afectadas sus facultades de locomoción.
+
+Esta área especial de acceso deberá tener una pendiente suave no mayor de 12%, ser antiderrapante, de cuando menos 1.20 m. de ancho y contara con una plataforma horizontal de descenso de 1.50 m. de longitud por lo menos por cada 5 m. de extensión de la rampa, y con un pasamanos o barandal continuo, colocado a una altura de 0.70 a 0.95 m. del piso.
+
+Asimismo, estará dotada por ambos lados, de un bordo o guarnición longitudinal de 0.10 m. de alto por 0.10 m. de ancho, contra el cual pueda detenerse la bajada precipitada de una silla de ruedas.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 M.- Bajo ninguna circunstancia la rampa de servicios de carga y descarga de un edificio podrá destinarse a la función precisada en el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 O (SIC).- Las escaleras exteriores de los edificios deberán contar con una pendiente suave, así como un acabado antiderrapante y estar dotadas de pasamanos o barandales, a efecto de facilitar el acceso a personas invidentes o débiles visuales, con prótesis o afectadas de cualquier estado de invalidez.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 P.- Todos aquellos edificios que cuenten con escaleras en su interior, también deberán contar con una rampa o elevador para el servicio de personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 Q.- Las escaleras interiores de los edificios deberán permanecer perfectamente iluminadas, de manera artificial y/o natural, así como tener descansos, rellanos o mesetas, a intervalos adecuados para brindar a las personas con discapacidad, contar con una área segura en caso de sufrir mareo, agotamiento, falta de aire o cualquiera otra contingencia que afecte su condición física y lo ponga en estado de riesgo.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 R.- Los descansos de las escaleras interiores deberán pintarse con colores fluorescentes que contrasten con el resto de los escalones y tener una superficie de textura rugosa, con la finalidad de que puedan ser de fácil identificación, tanto por quienes tengan visión normal como por invidentes o débiles visuales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 S.- En todo caso las escaleras tendrán pasamanos en ambos lados, con secciones no mayores de dos pulgadas de diámetro o de ancho, así como en forma continua, a fin de favorecer entre otras, a personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 T.- Con el objeto de evitar accidentes a personas con discapacidad, deberán evitarse en lo posible, las puertas de doble abatimiento.
+
+En caso de que no resulte posible dar cumplimiento a lo anterior, los edificios deberán contar en ambos lados de las puertas, con ventanas de vidrio inastillable que permitan la vista al exterior y al interior del inmueble.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 U.- En los sanitarios de uso público deberá instalarse cuando menos, un lavamanos que permita su fácil acceso desde una silla de ruedas.
+
+Los lavamanos deberán tener aislados sus tubos inferiores de agua caliente, para evitar quemaduras a personas carentes de sensibilidad en las manos y piernas, y no deberá equiparse con llaves de resorte o cierre automático.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 V.- Las bibliotecas de estantería abierta, deberán contar con una separación mínima de 1.20 m. entre los anaqueles, a fin de facilitar su uso a limitados físicos, principalmente aquellos que requieran movilizarse en silla de ruedas o muletas.
+
+Las bibliotecas deberán contar en la medida de sus posibilidades, con un área determinada específicamente para invidentes o débiles visuales, en donde se instalen casetas que permitan hacer uso de grabadoras, o que otras personas les hagan lectura en voz alta sin causar perjuicio alguno a los demás usuarios y, en su caso con libros impresos bajo el sistema Braille y cualquier otro que les permita su lectura y conocimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 W.- Los espacios escolares deberán construirse libres de barreras en las aulas y áreas administrativas, debiéndose considerar para alumnos en sillas de ruedas o con muletas, dimensiones especiales para el acceso y uso de laboratorios.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 X.- La señalización para la identificación de espacios, en edificios escolares u otras dependencias, deberá hacerse mediante el empleo de placas que deberán contener números, leyendas o símbolos, realzados o rehundidos, en colores contrastantes, con la finalidad de facilitar su localización y lectura.
+
+Los señalamientos deberán colocarse en muros o lugares fijos no abatibles, a una altura que no excederá de 1.80 m. contados desde el nivel del piso.
+
+Las señales y los muros o lugares en que éstas se coloquen deberán estar fabricados de materiales que eviten al tacto lesiones de cualquier especie.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 Y.- En los auditorios, cinematógrafos, teatros, salas de conciertos, y de conferencias, centros recreativos, y en general cualquier recinto en que se presenten espectáculos públicos, por cada cien concurrentes o fracción deberán destinarse estratégicamente espacios reservados a personas con discapacidad para hacer uso de los asientos o butacas con que cuente el recinto para uso exclusivo de personas con discapacidad, éstos deberán tener medidas de 0.80 m. por 1.25 m. libre de butacas fuera del área de circulación y debidamente señalizados; asimismo, se procurará que en esos inmuebles se eliminen los obstáculos viales de que trata este Capítulo.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 Z.- Los comedores de autoservicio, restaurantes y cafeterías, sin que ello implique Instalaciones especiales o servicios segregados que puedan denotar marginación o discriminación alguna en perjuicio de las personas con discapacidad, deberán contar con cuando menos, dos mesas de forma rectangular estratégicamente colocadas, que tengan una altura de 0.76 m. libres del piso a la parte inferior de la mesa, con asientos removibles, con la finalidad de brindar comodidad a comensales en sillas de ruedas.
+
+Asimismo, cada restaurante que cuente con espacios para más de 250 concurrentes, deberá contar cuando menos con un juego de menú en sistema Braille.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 AA.- Son deberes y facultades de los Ayuntamientos en materia de protección a personas con discapacidad:
+
+I. Vigilar el cumplimiento en la esfera de su competencia en la presente Ley, de las legislaciones vial, sanitaria y asistencial, así como de las demás disposiciones legales y reglamentarias aplicables en la materia;
+
+II. Conservar en buen estado, libres de tierra, piedra, arena y de cualquier otro material, las rampas construidas en aceras, intersecciones o escaleras de la vía pública;
+
+III. Destinar de los establecimientos públicos, los espacios necesarios para el ascenso de personas con discapacidad y adultos mayores;
+
+IV. Gestionar y vigilar el cumplimiento ante las autoridades y empresas respectivas, de la colocación de teléfonos públicos, de protectores para tensores de postes y de cubiertas para coladeras, con sus respectivos señalamientos, conforme a lo estipulado en el presente Código;
+
+V. Reglamentar todo lo conducente a fin de lograr la supresión de los obstáculos viales que se refiere este Código, con la finalidad de beneficiar a las personas con discapacidad; y
+
+VI. Las demás que le confieran esta Ley y otros ordenamientos legales y reglamentarios sobre la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 219 BB.- Las oficinas municipales encargadas de obras públicas o desarrollo urbano, se abstendrán de extender licencias de construcción o de autorizar la realización de obras en la vía pública o de otorgar permisos o concesiones para el aprovechamiento de dicha vía o cualesquiera otros bienes de uso común o destinados a un servicio público, si en los planos o proyectos que a su consideración se sometan, no se observarán con estricto rigor las disposiciones de este Código en materia de barreras arquitectónicas.
+
+(REUBICADO [N. DE E. ANTES CAPITULO IV], P.O. 26 DE OCTUBRE DE 2009)
+
+### CAPITULO V. De los Proyectos y Ejecución de las Obras
 
 ###### ARTICULO 220.
 
@@ -3019,7 +3699,9 @@ El Ayuntamiento supervisará la ejecución de las obras y podrá imponer las med
 
 Dicha supervisión no libera al propietario ni al perito responsable del cumplimiento de todas y cada una de las normas técnicas constructivas, por lo que la acción legal por daños o vicios ocultos, derivados de este incumplimiento, no prescribe y ambos serán responsables solidarios.
 
-### CAPITULO VI. De los Anuncios
+(REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 26 DE OCTUBRE DE 2009)
+
+### CAPITULO VI. Del Alineamiento y Ocupación de las Construcciones
 
 ###### ARTICULO 230.
 
@@ -3085,7 +3767,9 @@ IV.- Quedan prohibidas las instalaciones y construcciones precarias en las azote
 
 V.- Los predios no deberán ser utilizados, ni con carácter provisional, en forma diferente al uso del suelo autorizado.
 
-### CAPITULO VII. De los Permisos y Licencias en Materia de Anuncios
+REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 26 DE OCTUBRE DE 2009)
+
+### CAPITULO VII. De los Anuncios
 
 ###### ARTICULO 235.
 
@@ -3181,7 +3865,9 @@ IV.- Pintados, los que se hagan mediante la aplicación de cualquier tipo de pin
 
 V.- Integrados, los que en alto relieve, bajo relieve o calcados, formen parte integral de la edificación que los contiene.
 
-### CAPITULO VIII. De las Normas Básicas en Materia de Anuncios
+(REUBICADO [N. DE E. ANTES CAPITULO VII], P.O. 26 DE OCTUBRE DE 2009)
+
+### CAPITULO VIII. De los Permisos y Licencias en Materia de Anuncios
 
 ###### ARTICULO 241.
 
@@ -3253,7 +3939,9 @@ No se concederán licencias o prórrogas de las mismas solicitudes con responsiv
 
 El reglamento correspondiente determinará los casos en que no se requerirá la intervención del perito responsable para la colocación y fijación de anuncios.
 
-### CAPITULO I. De la Identificación del Patrimonio Cultural
+(REUBICADO [N. DE E. ANTES CAPITULO VIII], P.O. 26 DE OCTUBRE DE 2009)
+
+### CAPITULO IX. De las Normas Básicas en Materia de Anuncios
 
 ###### ARTICULO 253.
 
@@ -3359,7 +4047,7 @@ k) En los cerros, rocas, árboles, bordos de ríos o presas, etc., y en cualquie
 
 > <small>(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)</small>
 
-### CAPITULO II. De la Comisión del Patrimonio Cultural del Estado
+### CAPITULO I. De la Identificación del Patrimonio Cultural
 
 ###### ARTICULO 255.
 
@@ -3375,7 +4063,7 @@ k) En los cerros, rocas, árboles, bordos de ríos o presas, etc., y en cualquie
 
 > <small>(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)</small>
 
-### CAPITULO III. De la Conservación y Mejoramiento del Patrimonio Cultural
+### CAPITULO II. De la Comisión del Patrimonio Cultural del Estado
 
 ###### ARTICULO 258.
 
@@ -3391,7 +4079,7 @@ k) En los cerros, rocas, árboles, bordos de ríos o presas, etc., y en cualquie
 
 > <small>(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)</small>
 
-### CAPITULO IV. Del Registro del Patrimonio Cultural del Estado
+### CAPITULO III. De la Conservación y Mejoramiento del Patrimonio Cultural
 
 ###### ARTICULO 261.
 
@@ -3423,7 +4111,7 @@ k) En los cerros, rocas, árboles, bordos de ríos o presas, etc., y en cualquie
 
 > <small>(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)</small>
 
-### CAPITULO I. Fraccionamientos
+### CAPITULO IV. Del Registro del Patrimonio Cultural del Estado
 
 ###### ARTICULO 268.
 
@@ -3505,7 +4193,7 @@ El establecimiento de zonas de urbanización ejidal y la regularización de la t
 
 Cuando el fraccionamiento o subdivisión de terrenos ejidales tengan por objeto incorporarse al desarrollo urbano de algún centro de población no ejidal, o se ubiquen dichos terrenos en las áreas de reserva, se aplicarán las disposiciones de este Título como si se tratara de propiedad privada.
 
-### CAPITULO II. De los Derechos y Obligaciones de los Adquirentes de Lotes
+### CAPITULO I. Fraccionamientos
 
 #### SECCION PRIMERA. Concepto y Clasificación
 
@@ -3801,7 +4489,9 @@ d) Alumbrado público de vapor de sodio de 250 watts u otro de calidad similar, 
 
 e) Ductos para redes telefónicas.
 
-f) Guarniciones y banquetas de concreto u otro material de calidad similar.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+f) Guarniciones y banquetas de concreto u otro material de calidad similar, con accesos para personas con discapacidad;
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -3865,21 +4555,23 @@ d) Alumbrado público de vapor de sodio de 250 watts u otro de calidad similar, 
 
 e) Ductos subterráneos para redes telefónicas.
 
-f) Guarniciones y banquetas de concreto u otro material de calidad similar, con accesos para minusválidos.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+f) Guarniciones y banquetas de concreto u otro material de calidad similar, con accesos para personas con discapacidad;
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-g).- Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
+g) Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-h).- Arbolado y jardinería en las áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
+h) Arbolado y jardinería en las áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
 
 i) Placas de nomenclatura en los cruces de las calles; y
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-j).- Equipamiento de limpia y seguridad pública, en caso de que se requiera, previo dictamen del Ayuntamiento.
+j) Equipamiento de limpia y seguridad pública, en caso de que se requiera, previo dictamen del Ayuntamiento.
 
 ###### ARTICULO 313.
 
@@ -3921,7 +4613,9 @@ c) Red de distribución de energía eléctrica para uso doméstico.
 
 d) Alumbrado público de acuerdo a la normatividad vigente.
 
-e) Guarniciones y banquetas de concreto u otro material de calidad similar, con accesos a minusválidos.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+e) Guarniciones y banquetas de concreto u otro material de calidad similar, con accesos para personas con discapacidad;
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -4009,21 +4703,23 @@ c) Red de distribución de energía eléctrica para uso doméstico.
 
 d) Alumbrado público.
 
-e) Guarniciones de concreto y banquetas empedradas u otro material de calidad similar, con acceso para minusválidos.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+e) Guarniciones de concreto y banquetas empedradas u otro material de calidad similar, con acceso para personas con discapacidad;
 
 (REFORMADO, P.O. 14 DE AGOSTO DE 2006) (F. DE E., P.O. 4 DE SEPTIEMBRE DE 2006)
 
-f).- Calles con empedrado asentadas y junteadas con mortero de cemento-arena u otro material de calidad similar, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
+f) Calles con empedrado asentadas y junteadas con mortero de cemento-arena u otro material de calidad similar, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-g).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
+g) Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
 
 h) Placas de nomenclatura en los cruces de las calles; e
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-i).- Equipamiento de limpia y seguridad pública.
+i) Equipamiento de limpia y seguridad pública.
 
 ###### ARTICULO 321.
 
@@ -4049,21 +4745,23 @@ c) Red de distribución de energía eléctrica para uso doméstico;
 
 d) Alumbrado público;
 
-e) Guarniciones de concreto y banquetas empedradas u otro material de calidad similar, con accesos para minusválidos;
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+e) Guarniciones de concreto y banquetas empedradas u otro material de calidad similar, con accesos para personas con discapacidad;
 
 (REFORMADO, P.O. 14 DE AGOSTO DE 2006) (F. DE E., P.O. 4 DE SEPTIEMBRE DE 2006)
 
-f).- Calles con empedrado asentadas y junteadas con mortero de cemento-arena u otro material de calidad similar, de acuerdo a las especificaciones determinadas por el Ayuntamiento;
+f) Calles con empedrado asentadas y junteadas con mortero de cemento-arena u otro material de calidad similar, de acuerdo a las especificaciones determinadas por el Ayuntamiento;
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-g).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado;
+g) Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado;
 
 h) Placas de nomenclatura en los cruces de las calles; e
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-i).- Equipamiento de limpia y seguridad pública.
+i) Equipamiento de limpia y seguridad pública.
 
 ###### ARTICULO 322.
 
@@ -4083,7 +4781,9 @@ VI.- Obras de urbanización e instalaciones de los servicios públicos, tales co
 
 VII.- Espacios libres y su aprovechamiento;
 
-VIII.- Areas para estacionamiento de vehículos, correspondientes a conjuntos de lotes o locales comerciales;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+VIII.- Áreas para estacionamiento de vehículos, correspondientes a conjuntos de lotes o locales comerciales; incluyendo los de las personas con discapacidad;
 
 IX.- Hidrantes contra incendios;
 
@@ -4117,7 +4817,9 @@ V.- Obras de urbanización e instalación de los servicios públicos, tales como
 
 VI.- Espacios libres y su aprovechamiento;
 
-VII.- Areas para estacionamiento de vehículos correspondientes a conjuntos de lotes o fosas;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+VII.- Áreas para estacionamiento de vehículos correspondientes a conjuntos de lotes o fosas, incluyendo los de las personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -4157,23 +4859,25 @@ d) Alumbrado público de vapor mercurial u otro de calidad similar, montado en p
 
 e) Ductos para redes telefónicas.
 
-f) Guarniciones y banquetas de concreto.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+f) Guarniciones y banquetas de concreto, incluyendo rampas para las personas con discapacidad.
 
-g).- Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+g) Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones técnicas que regula el presente Código.
 
 h) Hidrantes contra incendios.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-i).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
+i) Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
 
 j) Placas de nomenclatura y señalamientos viales en las calles; y
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-k).- Equipamiento de limpia y seguridad pública; y.
+k) Equipamiento de limpia y seguridad pública; y.
 
 VI.- Ubicación: Deberán constituirse a una distancia del límite urbano determinada por el Ayuntamiento.
 
@@ -4205,23 +4909,25 @@ d) Alumbrado público de vapor mercurial u otro de calidad similar, montado en p
 
 e) Ductos para redes telefónicas.
 
-f) Guarniciones y banquetas de concreto.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+f) Guarniciones y banquetas de concreto, incluyendo rampas para las personas con discapacidad.
 
-g).- Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+g) Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones técnicas que regula el presente Código.
 
 h) Hidrantes contra incendios.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-i).- Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
+i) Arbolado y jardinería en áreas destinadas a ese fin. El tipo de árboles y las características de la vegetación se seleccionarán con base en las recomendaciones del Ayuntamiento, previa opinión del Instituto del Medio Ambiente del Estado.
 
 j) Placas de nomenclatura y señalamientos viales en las calles; y
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
-k).- Equipamiento de limpia y seguridad pública.
+k) Equipamiento de limpia y seguridad pública.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -4249,9 +4955,13 @@ d).- Alumbrado público de vapor mercurial u otro de calidad similar, montado en
 
 e).- Ductos para redes telefónicas;
 
-f).- Guarniciones y banquetas de concreto;
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-g).- Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones determinadas por el Ayuntamiento;
+f).- Guarniciones y banquetas de concreto, incluyendo rampas para las personas con discapacidad;
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+g).- Pavimento de calles de concreto hidráulico u otro material de calidad similar, con accesos para personas con discapacidad, de acuerdo a las especificaciones técnicas que regula el presente Código;
 
 h).- Hidrantes contra incendios;
 
@@ -4269,7 +4979,7 @@ Si este tipo de fraccionamientos se constituye con fines pecuarios no será obli
 
 En los fraccionamientos industriales de tipo selectivo y micro productivos, únicamente se podrán construir instalaciones fabriles que no rebasen los niveles máximos de contaminación autorizados para el tipo de fraccionamiento respectivo, de conformidad a la legislación aplicable, a fin de que en ellos no se generen humo, ruidos, olores o desperdicios nocivos.
 
-### CAPITULO III. De la Municipalización de los Fraccionamientos
+### CAPITULO II. De los Derechos y Obligaciones de los Adquirentes de Lotes
 
 ###### ARTICULO 329.
 
@@ -4327,9 +5037,7 @@ Los adquirentes de lotes en un fraccionamiento podrán constituirse legalmente e
 
 El acta constitutiva y el reglamento de referencia, deberán inscribirse en la SEPLADE y en el Ayuntamiento para efectos de ser integrados en el expediente del fraccionamiento respectivo y a fin de que se reconozca la personalidad y capacidad de gestión de la organización correspondiente.
 
-### CAPITULO IV. De las Relotificaciones, Fusiones y Subdivisiones de Areas y Predios
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+### CAPITULO III. De la Municipalización de los Fraccionamientos
 
 ###### ARTICULO 339.
 
@@ -4375,7 +5083,9 @@ El Ayuntamiento tomará las medidas necesarias para el debido aprovechamiento de
 
 Mientras no se realicen las obras a que se refiere el artículo anterior, el Ayuntamiento estará obligado a cuidar el buen aspecto de los lotes del dominio municipal, impidiendo se conviertan en receptáculos de basura y desperdicios, destinándolos provisionalmente para jardines y áreas de recreación y deportivas.
 
-### CAPITULO I. Del Concepto y Clasificación de los Condominios
+### CAPITULO IV. De las Relotificaciones, Fusiones y Subdivisiones de Areas y Predios
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 347.
 
@@ -4629,7 +5339,7 @@ En caso que el Ayuntamiento tenga conocimiento de que existe una discontinuidad 
 
 ## TITULO SEPTIMO. DEL REGIMEN DE PROPIEDAD EN CONDOMINIO
 
-### CAPITULO II. De la Constitución, Modificación y Extinción del Régimen de Propiedad en Condominio
+### CAPITULO I. Del Concepto y Clasificación de los Condominios
 
 ###### ARTICULO 366.
 
@@ -4675,7 +5385,7 @@ Conforme al uso o destino que se pretenda dar al inmueble, el condominio se clas
 
 Por su origen, según la naturaleza jurídica de quien lo promueva, el condominio también se clasificará en: de orden privado, el que constituyan los particulares, y de orden público, los que constituyan las instituciones u organismos públicos de la Federación, el Estado y los Municipios.
 
-### CAPITULO III. De los Bienes de Propiedad Exclusiva y de Propiedad Común
+### CAPITULO II. De la Constitución, Modificación y Extinción del Régimen de Propiedad en Condominio
 
 ###### ARTICULO 371.
 
@@ -4729,7 +5439,7 @@ I.- El promovente en los casos en que aún no se tire o inscriba la escritura co
 
 II.- La asociación de condóminos en los demás casos.
 
-### CAPITULO IV. De la Administración y Asamblea de Condóminos
+### CAPITULO III. De los Bienes de Propiedad Exclusiva y de Propiedad Común
 
 ###### ARTICULO 376.
 
@@ -4827,7 +5537,7 @@ Una misma persona no podrá adquirir por sí o por medio de otra, más de una un
 
 Iguales sanciones se les aplicarán a las personas que siendo propietarias de inmuebles en el centro de población correspondiente, por sí o por interpósita persona, adquieran una unidad de propiedad exclusiva en condominios construidos o financiados por organismos públicos.
 
-### CAPITULO V. De los Derechos y Obligaciones de los Condóminos
+### CAPITULO IV. De la Administración y Asamblea de Condóminos
 
 ###### ARTICULO 393.
 
@@ -4903,7 +5613,7 @@ VIII.- Casos en que proceda la remoción del administrador; y
 
 IX.- Los demás que establezcan la escritura constitutiva y el presente Código.
 
-### CAPITULO VI. De la Destrucción, Ruina y Reconstrucción de los Bienes en Condominio
+### CAPITULO V. De los Derechos y Obligaciones de los Condóminos
 
 ###### ARTICULO 401.
 
@@ -4951,7 +5661,7 @@ Los condóminos cubrirán, independientemente del impuesto sobre la propiedad ra
 
 Si quien no cumpla con sus obligaciones es un ocupante no propietario, el administrador le demandará, previo consentimiento del propietario, la desocupación de su propiedad exclusiva. Si el propietario se opusiere, se procederá contra éste y el ocupante, en los términos del Artículo 405 de este Código.
 
-### CAPITULO I. De los Requisitos y Procedimientos Para su Autorización
+### CAPITULO VI. De la Destrucción, Ruina y Reconstrucción de los Bienes en Condominio
 
 ###### ARTICULO 409.
 
@@ -4971,9 +5681,7 @@ En caso de ruina del bien de que se trate, una mayoría de los condóminos que r
 
 ## TITULO OCTAVO. DE LAS DISPOSICIONES COMUNES A FRACCIONAMIENTOS, DESARROLLOS ESPECIALES Y CONDOMINIOS
 
-### CAPITULO II. De la Urbanización y Prestación de Servicios
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+### CAPITULO I. De los Requisitos y Procedimientos Para su Autorización
 
 ###### ARTICULO 411.
 
@@ -5325,7 +6033,9 @@ Cuando la solicitud de fraccionamiento o condominio, haya sido rechazada se noti
 
 Los propietarios de fraccionamientos, desarrollos especiales o condominios, de cualquiera de los tipos señalados en este Código, que hayan sido ejecutados sin la previa autorización deberán solicitar la regularización de los mismos, acompañando a la solicitud la documentación que este Código señala, independientemente de las sanciones a que se hagan acreedores en términos de las leyes aplicables.
 
-### CAPITULO III. De los Derechos y Obligaciones de los Fraccionadores y Promoventes de Condominios
+### CAPITULO II. De la Urbanización y Prestación de Servicios
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 437.
 
@@ -5597,7 +6307,7 @@ Asimismo, garantizarán la existencia o construcción para su buen funcionamient
 
 En todo caso, el Ayuntamiento autorizará la conexión de las redes de agua potable y alcantarillado de un fraccionamiento o condominio a las redes generales, previo pago de los derechos correspondientes. En el caso de fraccionamientos, esto no representa la municipalización de tales servicios.
 
-### CAPITULO I. Del Sistema de Cooperación
+### CAPITULO III. De los Derechos y Obligaciones de los Fraccionadores y Promoventes de Condominios
 
 ###### ARTICULO 473.
 
@@ -5745,9 +6455,7 @@ El Ayuntamiento correspondiente, podrá convenir con el fraccionador, la prestac
 
 ## TITULO NOVENO. DEL FINANCIAMIENTO DEL DESARROLLO URBANO
 
-### CAPITULO II
-
-Del Objeto, Sujeto, Base Gravable, Pago y Sistema de Recaudación.
+### CAPITULO I. Del Sistema de Cooperación
 
 ###### ARTICULO 485.
 
@@ -5879,7 +6587,9 @@ Cuando la obra se ejecute por administración directa por parte del Comité de S
 
 Asimismo, los beneficiarios supervisarán la ejecución correcta de los proyectos mediante las vocales de contraloría social que formen parte de los comités.
 
-### CAPITULO III. De la Cooperación Intermunicipal
+### CAPITULO II
+
+Del Objeto, Sujeto, Base Gravable, Pago y Sistema de Recaudación.
 
 ###### ARTICULO 506.
 
@@ -5997,7 +6707,7 @@ VII.- El importe de cada pago mensual; y
 
 VIII.- La fecha de iniciación de los pagos.
 
-### CAPITULO I. De la Programación de las Acciones Públicas de Vivienda
+### CAPITULO III. De la Cooperación Intermunicipal
 
 ###### ARTICULO 525.
 
@@ -6031,7 +6741,7 @@ Por tanto, cualquiera de dichas autoridades hacendarias podrá llevar a cabo las
 
 ## TITULO DECIMO. DE LA VIVIENDA
 
-### CAPITULO II. Del Otorgamiento de Crédito y Asignación de Vivienda
+### CAPITULO I. De la Programación de las Acciones Públicas de Vivienda
 
 ###### ARTICULO 532.
 
@@ -6227,7 +6937,7 @@ Las dependencias y entidades de la administración pública estatal, fomentarán
 
 El Gobierno Estatal y los Ayuntamientos realizarán las acciones tendientes a la ejecución de las resoluciones en materia de vivienda emitidas por las Comisiones Estatales y los Comités Municipales de Desarrollo Urbano y Rural.
 
-### CAPITULO I. Del Sistema Estatal de Suelo y Reservas Territoriales para el Desarrollo Urbano y la Vivienda
+### CAPITULO II. Del Otorgamiento de Crédito y Asignación de Vivienda
 
 ###### ARTICULO 551.
 
@@ -6281,7 +6991,7 @@ El Gobierno del Estado, conjuntamente con los Ayuntamientos, administrarán las 
 
 Con el objeto de cumplir con los lineamientos previstos en el presente Título, las acciones, obras e inversiones que realicen los gobiernos estatal y municipales, se sujetarán a lo previsto en los programas de desarrollo urbano y de vivienda.
 
-### CAPITULO II. De la Regularización de la Tenencia de la Tierra
+### CAPITULO I. Del Sistema Estatal de Suelo y Reservas Territoriales para el Desarrollo Urbano y la Vivienda
 
 ###### ARTICULO 562.
 
@@ -6417,7 +7127,7 @@ Los gobiernos federal, estatal y municipales otorgarán facilidades administrati
 
 Las autoridades a que se refiere el párrafo anterior, podrán celebrar para los fines antes señalados, convenios de concertación con notarios públicos, instituciones de crédito, organismos públicos de vivienda y promotores inmobiliarios.
 
-### CAPITULO I. De los Conceptos y Acciones Básicos
+### CAPITULO II. De la Regularización de la Tenencia de la Tierra
 
 ###### ARTICULO 579.
 
@@ -6503,7 +7213,7 @@ La regularización de la tenencia de la tierra como una acción de mejoramiento 
 
 ## TITULO DECIMO SEGUNDO. DE LA INFRAESTRUCTURA Y EQUIPAMIENTO VIAL Y DEL SISTEMA DE TRANSITO Y TRANSPORTE LOCAL
 
-### CAPITULO II. De la Vialidad y del Tránsito Local
+### CAPITULO I. De los Conceptos y Acciones Básicos
 
 ###### ARTICULO 593.
 
@@ -6523,7 +7233,7 @@ V.- Servicio público de transporte local: toda actividad organizada con el fin 
 
 Corresponde a los Ayuntamientos, de acuerdo con las disposiciones de este Código, sus reglamentos, bandos, ordenanzas y reglamentos de policía y buen gobierno que dicten, ordenar las actividades relativas al tránsito que se efectúe por calles, calzadas, avenidas, plazas, ejes viales, túneles, o cualquier otro espacio que constituya vía pública, comprendidos en los centros de población del Estado o en los caminos de jurisdicción local, sin perjuicio de las que corresponden a las dependencias de la administración pública federal, respecto a vías públicas federales.
 
-### CAPITULO III. Del Régimen del Servicio Público de Transporte Local
+### CAPITULO II. De la Vialidad y del Tránsito Local
 
 ###### ARTICULO 595.
 
@@ -6581,7 +7291,7 @@ Los Ayuntamientos podrán estimar como programas parciales de desarrollo urbano,
 
 En caso de considerarse como programas parciales de desarrollo urbano, los anteproyectos seguirán el trámite previsto en este Código.
 
-### CAPITULO I. Del Concepto, Objeto y Sujetos en las Concesiones
+### CAPITULO III. Del Régimen del Servicio Público de Transporte Local
 
 ###### ARTICULO 598.
 
@@ -6705,7 +7415,7 @@ IV.- Ordenar la intervención del servicio y al efecto, ocupar la totalidad de l
 
 ## TITULO DECIMO TERCERO. DE LAS CONCESIONES
 
-### CAPITULO II. De las Normas Generales que Regulan a las Concesiones
+### CAPITULO I. Del Concepto, Objeto y Sujetos en las Concesiones
 
 ###### ARTICULO 609.
 
@@ -6727,7 +7437,7 @@ III.- Usuarios: a toda persona que utiliza un servicio público, sea prestado di
 
 IV.- Tarifa: el precio que paga el usuario por la prestación de un servicio público en cualquiera de las formas a que se refiere la fracción anterior.
 
-### CAPITULO III. De los Servicios y Explotación de Bienes que Podrán ser Objeto de Concesión
+### CAPITULO II. De las Normas Generales que Regulan a las Concesiones
 
 ###### ARTICULO 612.
 
@@ -6807,9 +7517,17 @@ XI.- Que deberá prestar el servicio o usar, aprovechar o explotar los bienes, e
 
 XII.- Que deberá entregar las contraprestaciones económicas establecidas a favor del Gobierno del Estado o Ayuntamiento respectivo, por la prestación del servicio o uso, aprovechamiento o explotación de bienes, oportunamente en los términos de las bases de la concesión, sin perjuicio del pago de derechos que proceda conforme a las leyes aplicables;
 
-XIII.- Tratándose de prestación de servicios públicos, que estará obligado a prestarlo a toda persona que lo solicite conforme a las normas y tarifas que aprueben las autoridades correspondientes, salvo casos de excepción previstos expresamente en las leyes y reglamentos específicos, reguladores de la actividad de que se trate y en las bases de la concesión; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-XIV.- Que no podrá modificar o alterar la naturaleza de los bienes o condiciones autorizadas por el Gobierno del Estado o Ayuntamiento respectivo, para la operación del servicio o uso, aprovechamiento o explotación de bienes, instalaciones o ubicación, sin previa aprobación por escrito de la autoridad concedente.
+XIII.- Tratándose de prestación de servicios públicos, que estará obligado a prestarlo a toda persona que lo solicite conforme a las normas y tarifas que aprueben las autoridades correspondientes, salvo casos de excepción previstos expresamente en las leyes y reglamentos específicos, reguladores de la actividad de que se trate y en las bases de la concesión;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XIV.- Que no podrá modificar o alterar la naturaleza de los bienes o condiciones autorizadas por el Gobierno del Estado o Ayuntamiento respectivo, para la operación del servicio o uso, aprovechamiento o explotación de bienes, instalaciones o ubicación, sin previa aprobación por escrito de la autoridad concedente; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XV.- Que en cada una de sus unidades deberán reservar por lo menos, un asiento por cada diez de los que tenga el vehículo, a efecto de que en su caso, sean utilizados por pasajeros con discapacidad, siempre y cuando en las poblaciones o localidades del Estado, no existan transportes especializados para personas con discapacidad, o existiendo no cubran todas las rutas necesarias; estos asientos deberán estar situados cerca de la puerta de acceso del vehículo de que se trate y tendrán un emblema o leyenda para identificarlos plenamente y podrán ser utilizados por cualquier usuario no limitado físicamente, siempre y cuando no sea requerido por personas con discapacidad.
 
 ###### ARTICULO 616.
 
@@ -6817,7 +7535,7 @@ Cualquier acto que se realice en contra de lo dispuesto por las fracciones II, I
 
 Lo establecido en este artículo deberá hacerse constar en las bases de la concesión que se otorgue.
 
-### CAPITULO IV. De las Concesiones para la Prestación del Servicio Público de Transporte Local
+### CAPITULO III. De los Servicios y Explotación de Bienes que Podrán ser Objeto de Concesión
 
 ###### ARTICULO 617.
 
@@ -6853,7 +7571,7 @@ Las concesiones para la prestación de los servicios públicos de cementerios y 
 
 Las concesiones para las explotaciones de los bienes a que se refiere la fracción VI del Artículo 617 de este Código, así como los demás tipos de bienes que determine el Gobierno del Estado y el Ayuntamiento respectivo, en cuanto a los aspectos específicos señalados en el artículo anterior relacionados con las características de la utilización y aprovechamiento, se regularán por las normas que fije el Gobierno del Estado y de acuerdo con los bandos, ordenanzas y reglamentos de policía y buen gobierno que dicte el Ayuntamiento respectivo.
 
-### CAPITULO V. De la Extinción de las Concesiones
+### CAPITULO IV. De las Concesiones para la Prestación del Servicio Público de Transporte Local
 
 ###### ARTICULO 622.
 
@@ -7117,9 +7835,17 @@ g) Concentrarse íntegramente en la operación de la unidad, evitando distraerse
 
 h) Evitar detener el curso de la unidad con fines personales haciendo esperar al pasaje o alterar en forma arbitraria la ruta autorizada;
 
-i) Mantener la unidad de servicio en óptimo estado mecánico y de higiene, de tal manera que proporcionen el nivel de servicio y comodidad requerido por los usuarios; y
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-j) Mostrar en el interior de la unidad la información relacionada con: tarifa autorizada, identificación del conductor y número telefónico para quejas y sugerencias;
+i) Mantener la unidad de servicio en óptimo estado mecánico y de higiene, de tal manera que proporcionen el nivel de servicio y comodidad requerido por los usuarios;
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+j) Mostrar en el interior de la unidad la información relacionada con: tarifa autorizada, identificación del conductor y número telefónico para quejas y sugerencias; y
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+k) Mostrar en los asientos de personas con discapacidad, el letrero de uso exclusivo y engomado del logotipo internacional de las personas con discapacidad;
 
 II.- Portar el uniforme de trabajo reglamentario durante el servicio;
 
@@ -7163,9 +7889,17 @@ XIII.- Asistir a los cursos de capacitación, seguridad y educación vial que pr
 
 XIV.- Presentarse a la hora establecida para iniciar el servicio;
 
-XV.- Observar las disposiciones relativas a la carga autorizada de acuerdo a las especificaciones del vehículo. Asimismo, traerla cubierta con una lona cuando se puedan ocasionar desprendimientos de la misma, que causen molestias o accidentes a peatones y automovilistas; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-XVI.- No utilizar durante el servicio audífonos, radio o tocacintas, estos últimos a un volumen que cause molestias a los usuarios.
+XV.- Observar las disposiciones relativas a la carga autorizada de acuerdo a las especificaciones del vehículo. Asimismo traerla cubierta con una lona cuando se puedan ocasionar desprendimientos de la misma, que causen molestias o accidentes a peatones y automovilistas;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XVI.- No utilizar durante el servicio audífonos, radio o tocacintas, estos últimos a un volumen que cause molestias a los usuarios; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XVII.- Prohibir la ocupación de los asientos destinados para personas con discapacidad, por otras que no sean discapacitadas.
 
 ###### ARTICULO 642.
 
@@ -7240,6 +7974,8 @@ Cuando los bienes que el Ayuntamiento respectivo o el Gobierno del Estado hubier
 ###### ARTICULO 649.
 
 La declaratoria de rescate procederá en los casos y términos establecidos en este Código.
+
+### CAPITULO V. De la Extinción de las Concesiones
 
 ###### ARTICULO 650.
 
@@ -7543,9 +8279,23 @@ X.- Por prestar servicio de transporte sin la concesión correspondiente;
 
 XI.- Por carecer del seguro del viajero, de la carga y de daños a terceros, o que el mismo se encuentre vencido;
 
-XII.- Por no presentar el vehículo a la revista obligatoria o no satisfacer en el plazo estipulado los requerimientos que se le hayan señalado en la misma; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
 
-XIII.- Por cualquier otra violación a las disposiciones del presente Código, cuya sanción no esté expresamente prevista.
+XII.- Por no presentar el vehículo a la revista obligatoria o no satisfacer en el plazo estipulado los requerimientos que se le hayan señalado en la misma;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XIII.- Por permitir que se ocupen indebidamente los espacios de estacionamiento exclusivo para personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+XIV.- Por negar, impedir y obstaculizar el uso del servicio especial, en el transporte público para personas con discapacidad; y
+
+XV.- Por cualquier otra violación a las disposiciones del presente Código, cuya sanción no esté expresamente prevista.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+
+La Secretaría de Gobierno se abstendrá de dar trámite a las solicitudes de otorgamiento de concesión o permiso para la prestación del servicio público de transporte colectivo de pasajeros, si el solicitante no acredita que los vehículos con los cuales prestará el servicio, cumplen con lo previsto en este Código.
 
 ###### ARTICULO 688.
 
@@ -7882,3 +8632,17 @@ P.O. 12 DE MARZO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En los lugares donde exista Decreto de Áreas Naturales Protegidas y no exista el Programa de Manejo, las autoridades competentes deberán en un plazo de un año aprobar y publicar el mismo.
+
+P.O. 26 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La ejecución de las obras que los poderes del Estado y los Gobiernos Municipales deban efectuar para la eliminación de obstáculos viales y urbanos en edificios y vía pública, deberán efectuarlas en los términos y plazos que la previsión presupuestal permita y siempre que ello no implique erogaciones que por su cuantía reduzcan o veden satisfacción de otras obras de beneficio colectivo.
+
+###### ARTÍCULO TERCERO.
+
+Los propietarios de inmuebles y prestadores del servicio público de transporte colectivo de pasajeros, contarán con un plazo de ciento ochenta días para hacer a sus correspondientes bienes las adecuaciones tendientes al cumplimiento de este Código, salvo que pericialmente quede acreditada la imposibilidad de efectuarlas.
