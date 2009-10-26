@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-secretariado-ejecutivo-del-sistema-nacional-2462
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-06"
-last_updated: "2008-08-20"
+last_updated: "2009-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24620&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-04-29"
 
 REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA, PUBLICADO EN EL D.O.F. DE 26 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de mayo de 2002.
 
@@ -540,3 +542,41 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las acciones que se lleven a cabo para la aplicación del presente Decreto, se sujetarán a la disponibilidad de recursos que se haya aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente para la Secretaría de Seguridad Pública, y deberán observar las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
 
 TERCERO.- La Oficialía Mayor de la Secretaría de Seguridad Pública realizará las transferencias de recursos humanos, financieros y materiales que correspondan para la operación de las unidades administrativas a que se refiere este Decreto, mediante movimientos compensados con cargo al presupuesto aprobado para dicha dependencia. Las referidas acciones deberán cumplimentarse a más tardar dentro de los sesenta días siguientes a la publicación del presente Decreto.
+
+D.O.F. 26 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, publicado en el Diario Oficial de la Federación de 6 de mayo de 2002 y se derogan todas aquéllas disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- De conformidad con lo dispuesto por el artículo Décimo Primero Transitorio de la Ley, los recursos humanos, financieros y materiales con que cuente el Secretariado Ejecutivo de conformidad con la abrogada Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y el Reglamento del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública que se abroga, se transferirán al Secretariado Ejecutivo previsto en la Ley y en el presente ordenamiento, en un plazo que no exceda al ejercicio fiscal en curso.
+
+CUARTO.- Los asuntos que se encuentren en trámite del Secretariado Ejecutivo previsto en el Reglamento que se abroga, serán transferidos al Secretariado Ejecutivo a que se refiere el presente Reglamento, en un plazo que no exceda el presente ejercicio fiscal, salvo que pudiera causarse un daño o menoscabo conforme a lo dispuesto en el segundo párrafo del artículo Décimo Primero Transitorio de la Ley.
+
+QUINTO.- Para los efectos de lo previsto en los artículos tercero y cuarto transitorios del presente ordenamiento, los oficiales mayores de las secretarías de Gobernación y de Seguridad Pública, con la participación de la Dirección General de Administración del Secretariado Ejecutivo a que se refiere el presente Reglamento, en un plazo no mayor a diez días hábiles posteriores a la entrada en vigor del presente ordenamiento, celebrarán un convenio marco en el que se establecerán, los aspectos generales de la transferencia, entre otros, los plazos de transferencia de los recursos humanos, financieros, materiales y asuntos en trámite.
+
+Para la ejecución del convenio marco se celebrarán los diversos convenios específicos, actos jurídicos y administrativos necesarios, que den plena certeza y seguridad jurídicas a la transferencia de los recursos humanos, financieros, materiales y asuntos en trámite.
+
+En los convenios específicos podrán intervenir, según corresponda, en el ámbito de su respectiva competencia, otras instancias públicas.
+
+SEXTO.- Todos los compromisos adquiridos para el presente ejercicio fiscal por concepto de servicios, arrendamientos y demás obligaciones contraídas para la operación y funcionamiento de los bienes muebles e inmuebles al servicio del Secretariado Ejecutivo serán sufragados con cargo al presupuesto de la Secretaría de Seguridad Pública.
+
+Asimismo, la Secretaría de Seguridad Pública asumirá con cargo a su presupuesto los compromisos generados de ejercicios fiscales anteriores al presente año.
+
+Cualquier gasto adicional que se genere será solventado por la Secretaría de Gobernación con los recursos aprobados a esa Dependencia en el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente.
+
+SÉPTIMO.- De conformidad con lo dispuesto en el artículo Décimo Primero Transitorio de la Ley, los recursos financieros a que se refiere el artículo 10 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009, para el otorgamiento de subsidios a los municipios y al Gobierno del Distrito Federal para la seguridad pública en sus demarcaciones territoriales, serán transferidos de conformidad con las disposiciones aplicables a la Secretaría de Gobernación para que, a través del Secretariado Ejecutivo, se dé cumplimiento a lo dispuesto en dicho precepto.
+
+OCTAVO.- En términos del artículo 19, fracción I, de la Ley, para garantizar la administración y adecuado funcionamiento de las bases de datos criminalísticos y de personal, y no causar un daño o menoscabo al servicio o a los intereses del Sistema, el Centro Nacional de Información continuará con la recopilación de la información relativa a las citadas bases de datos, almacenándola en los sistemas e infraestructura con que cuente la Secretaría de Seguridad Pública del Ejecutivo Federal, quien tendrá también a su cargo el resguardo y administración de las bases de datos, conforme a los protocolos de carga, suministro, sistematización, actualización, seguridad y consulta establecidos en las disposiciones aplicables, para lo cual podrán celebrarse los convenios y demás actos jurídicos que resulten necesarios.
+
+Lo mismo aplicará para la información existente en dichas bases a la fecha de entrada en vigor del presente ordenamiento.
+
+NOVENO.- La Secretaría de Gobernación y el Secretariado Ejecutivo, gestionarán ante las secretarías de la Función Pública y de Hacienda y Crédito Público, el registro organizacional y presupuestario de la estructura de dicho Secretariado, dentro de los 120 días hábiles posteriores a la entrada en vigor del presente Reglamento.
+
+DÉCIMO.- El Órgano Consultivo del Centro Nacional de Certificación y Acreditación a que se refiere el artículo 15 del presente ordenamiento, deberá constituirse dentro de los ciento veinte días naturales posteriores a la entrada en vigor del presente Reglamento.
+
+DÉCIMO PRIMERO.- Los asuntos que a la entrada en vigor del presente ordenamiento, se encuentren en trámite en el Órgano Interno de Control del Secretariado Ejecutivo previsto en el Reglamento que por virtud de este decreto se abroga, en sus áreas de Auditoría, Quejas y Responsabilidades, continuarán con su substanciación hasta su resolución en el Órgano Interno del Secretariado Ejecutivo previsto en el presente Reglamento.
+
+DÉCIMO SEGUNDO.- Las unidades administrativas del Secretariado Ejecutivo, entregarán un informe a la Secretaría de Seguridad Pública de los asuntos cuya competencia incidan en el ámbito de la misma.
+
+DÉCIMO TERCERO.- Las referencias a las Direcciones Generales del Sistema Nacional de Información sobre Seguridad Pública; de la Academia Nacional de Seguridad Pública; de la Red Nacional de Telecomunicaciones y de Infraestructura y Equipamiento de Seguridad Pública, se entenderán al Centro Nacional de Información y a la Dirección General de Apoyo Técnico, según corresponda, en el ámbito de las atribuciones previstas en el presente Reglamento.
