@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-regular-la-venta-y-el-consumo-de-bebidas-54505"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-13"
-last_updated: "2008-10-02"
+last_updated: "2009-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 13 de enero de 2007.
 
@@ -167,7 +167,9 @@ II. Cabarets: Los establecimientos que cuentan con un espacio propicio para ofre
 
 III. Centros Nocturnos: Los establecimientos donde se presentan al público, espectáculos de baile con música grabada y que no se encuentran contenidas en la fracción anterior y en los cuales se expenden bebidas en envase abierto y al copeo para el consumo inmediato en el interior del propio establecimiento;
 
-IV. Centros Botaderos (sic) o Cervecerías: Los establecimientos en los que exclusivamente se expende cerveza o bebidas preparadas con base en ésta, y se ofrece a los asistentes alimentos o botanas para acompañarlas.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+IV. Centros Botaneros o Cervecerías: Los establecimientos en los que exclusivamente se expende cerveza o bebidas preparadas con base en ésta, y se ofrece a los asistentes alimentos o botanas para acompañarlas;
 
 V. Discotecas: Los establecimientos que cuentan con espacios adecuados para el baile, con música de aparatos electrónicos, conjunto o grupo musical y efectos de luces y sonidos especiales, en donde se expenden bebidas alcohólicas en envase abierto y al copeo, para su consumo inmediato en el interior del propio establecimiento y en el que pueden realizarse espectáculos o representaciones artísticas;
 
@@ -185,17 +187,33 @@ II. Boliches: Los establecimientos que tienen áreas para practicar el boliche, 
 
 III. Casinos, Clubes Sociales, Deportivos, Recreativos o Clubes Privados: Los establecimientos que se sostienen con la cooperación de sus socios y se dedican a dar servicio en forma exclusiva a socios e invitados, pudiendo contar con un área para el consumo de bebidas alcohólicas y para discoteca;
 
-IV. Fondas, Cafés, Cenadurías, Taquerías, Loncherías, Coctelerías y Antojitos: Los establecimientos comerciales que ofrecen al público alimentos típicos o específicos y que pueden ser acompañados complementariamente con consumo de cerveza, en forma moderada, en envase abierto, dentro del establecimiento;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
 
-V. Hoteles y Moteles: Los establecimientos públicos donde se proporciona hospedaje, además de diversos servicios integrados para la comodidad de los huéspedes, pudiendo contar con la venta de bebidas alcohólicas;
+IV. Centros o peñas artísticas o culturales: Los establecimientos de construcción cerrada o abierta, cuya actividad principal es la exposición y presentación de diversas expresiones artísticas o culturales, tales como artes visuales, escénicas, musicales o literarias, así como la realización de actividades que tengan por objeto el cultivar, fomentar, promover o estimular la manifestación de actividades de iniciación artística o cultural entre la población, pudiendo contar con la venta de alimentos y bebidas alcohólicas en envase abierto y al copeo para el consumo inmediato en el interior del propio local durante los eventos;
 
-VI. Parianes: Es el conjunto de establecimientos debidamente adecuados y definidos para promocionar la gastronomía, las artesanías, el folklore y la música, y donde se puede vender y consumir bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
 
-VII. Restaurantes: Los establecimientos comerciales destinados a la transformación y venta de alimentos para su consumo en los mismos o fuera de ellos y en los cuales pueden venderse y consumirse bebidas alcohólicas exclusivamente acompañadas de aquellos;
+V. Fondas, Cafés, Cenadurías, Taquerías, Loncherías, Coctelerías y Antojitos: Los establecimientos comerciales que ofrecen al público alimentos típicos o específicos y que pueden ser acompañados complementariamente con consumo de cerveza, en forma moderada, en envase abierto, dentro del establecimiento;
 
-VIII. Restaurantes-Bar: Los establecimientos que contando con las características señaladas en la fracción anterior, cuentan además, con un departamento especial para la venta y consumo inmediato en el interior, de bebidas alcohólicas en envase abierto y al copeo; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
 
-IX. Salones de Baile: Los establecimientos destinados a la práctica del baile, con música de orquesta, conjunto o aparatos electrónicos, que puede presentar espectáculos o representaciones artísticas para la diversión de los asistentes y expender bebidas alcohólicas en envase abierto y al copeo para el consumo inmediato en el interior del propio local durante los eventos.
+VI. Hoteles y Moteles: Los establecimientos públicos donde se proporciona hospedaje, además de diversos servicios integrados para la comodidad de los huéspedes, pudiendo contar con la venta de bebidas alcohólicas;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+VII. Parianes: Es el conjunto de establecimientos debidamente adecuados y definidos para promocionar la gastronomía, las artesanías, el folklore y la música, y donde se puede vender y consumir bebidas alcohólicas;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+VIII. Restaurantes: Los establecimientos comerciales destinados a la transformación y venta de alimentos para su consumo en los mismos o fuera de ellos y en los cuales pueden venderse y consumirse bebidas alcohólicas exclusivamente acompañadas de aquellos;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+IX. Restaurantes-Bar: Los establecimientos que contando con las características señaladas en la fracción anterior, cuentan además, con un anexo especial para la venta y consumo inmediato en el interior, de bebidas alcohólicas en envase abierto y al copeo, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2009)</small>
+
+X. Salones de Baile: Los establecimientos destinados a la práctica del baile, con música de orquesta, conjunto o aparatos electrónicos, que puede presentar adicionalmente espectáculos o representaciones artísticas para la diversión de los asistentes y expender bebidas alcohólicas en envase abierto y al copeo para el consumo inmediato en el interior del propio local durante los eventos.
 
 ###### Artículo 17.
 
@@ -220,6 +238,10 @@ V. Tiendas de Abarrotes, Misceláneos y Tendejones: Los establecimientos dedicad
 3. Los Ayuntamientos deben regular la forma, lugares, y demás aspectos relativos a la venta de bebidas alcohólicas en los espectáculos públicos, así como establecer las normas necesarias para el desarrollo de estos eventos, cuidando en todo momento del orden y la seguridad, así como de la salud e integridad física de los participantes y público asistente.
 
 4. Asimismo, los Ayuntamientos deben establecer las medidas pertinentes para asegurar que en los lugares o establecimientos donde se realicen espectáculos públicos se respete el aforo permitido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2009)</small>
+
+5. Cuando los establecimientos a que se refiere el párrafo 1 funcionen de forma periódica, se les puede considerar, para los efectos de la licencia respectiva, como establecimientos no específicos, en los cuales puede realizarse en forma accesoria la venta y consumo de bebidas alcohólicas, rigiéndose para tal efecto, por las disposiciones que para dichos locales establece la presente ley.
 
 ###### Artículo 19.
 
@@ -381,19 +403,31 @@ a) Billares: domingo a sábado de las 10:00 a las 23:00 horas;
 
 b) Boliches: domingo a sábado de las 10:00 a las 23:00 horas;
 
-c) Fondas, Cafés, Cenadurías, Taquerías, Loncherías, Coctelerías y Antojitos: domingo a sábado de las 09:00 a las 01:00 horas del día siguiente;
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
-d) Parianes: domingo a sábado de las 08:00 a las 02:00 horas del día siguiente;
+c) Centros o peñas artísticas o culturales: domingo a sábado de las 11:00 a las 02:00 horas del día siguiente;
 
-e) Restaurantes: domingo a jueves de las 09:00 a las 02:00 horas y viernes y sábado de las 09:00 a las 03:00 horas del día siguiente;
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
-f) Restaurantes-Bar: domingo a jueves de las 20:00 a las 24:00 horas y viernes y sábado de las 21:00 a las 02:00 horas del día siguiente; y
+d) Fondas, Cafés, Cenadurías, Taquerías, Loncherías, Coctelerías y Antojitos: domingo a sábado de las 08:00 a las 01:00 horas del día siguiente;
 
-g) Salones de Baile: domingo a sábado de las 11:00 a las 23:00 horas.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+e) Parianes: domingo a sábado de las 08:00 a las 02:00 horas del día siguiente;
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+f) Restaurantes: domingo a jueves de las 09:00 a las 02:00 horas y viernes y sábado de las 08:00 a las 03:00 horas del día siguiente;
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+g) Restaurantes-Bar: domingo a jueves de las 20:00 a las 24:00 horas y viernes y sábado de las 21:00 a las 02:00 horas del día siguiente, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2009)</small>
+
+h) Salones de Baile: domingo a sábado de las 11:00 a las 23:00 horas.
 
 III. Establecimientos donde puede realizarse la venta, más no el consumo de bebidas alcohólicas: domingo a sábado de las 12:00 a las 21:00 horas.
-
-2. (DEROGADO, P.O. 31 DE MARZO DE 2007)
 
 ###### Artículo 40.
 
@@ -754,3 +788,7 @@ P.O. 2 DE OCTUBRE DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Una vez publicado el presente decreto remitase a los ayuntamientos de los municipios en el Estado, a efecto de que actualicen sus reglamentos de conformidad con las disposiciones de la presente reforma de ley.
+
+P.O. 27 DE OCTUBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
