@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "2007-11-06"
+last_updated: "2009-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 159, DE SALUD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -1149,11 +1149,15 @@ I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas 
 
 II.- El perfil de los profesionales para la salud y en sus etapas de formación.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 92.
 
-La Secretaría de Salud en coordinación con las autoridades federales competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los sistemas nacional y estatal de salud, de los programas educativos y de las necesidades de salud del Estado.
+La Secretaría de Salud en coordinación con la Secretaría de Educación (sic) Guerrero y las autoridades federales y estatales, competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los sistemas nacional y estatal de salud, de los programas educativos y de las necesidades de salud del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+Promoviendo el establecimiento de un sistema de enseñanza continua que incluya el desarrollo e impulse en la materia de nutrición.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
@@ -1279,7 +1283,9 @@ V.- Fomento sanitario.
 
 La educación para la salud tiene por objeto:
 
-I.- Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y de accidentes, protegiéndola de los riesgos que pongan en peligro su salud;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+I.- Fomentar en la población el cambio de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y de accidentes, protegiéndola de los riesgos que pongan en peligro su salud e informándola del valor nutritivo de los alimentos;
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y (sic)
 
@@ -1310,6 +1316,26 @@ El Gobierno del Estado formulará, desarrollará y vigilará los programas de nu
 ###### ARTICULO 108.
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de alto contenido nutricional, de producción regional, y procurarán, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+Se impulsarán campañas estatales de orientación alimentaria, a través de los diferentes medios de comunicación, en las que se señale claramente qué alimentos presentan un alto contenido de grasas, sal o azúcares, por lo que su consumo permanente es nocivo para la salud.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 108 Bis.
+
+La Secretaría de Salud tendrá a su caro:
+
+I. Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
+
+II. Normar, en coordinación con la Secretaría de Educación (sic) Guerrero, el desarrollo de los programas y actividades de educación en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables.
+
+III. Coordinarse con la Secretaría de Salud del Gobierno federal, para el establecimiento de investigaciones químicas, biológicas, sociales y económicas, que permitan conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de condiciones nutritivas y de salud de la población;
+
+IV. Recomendar los alimentos y los procedimientos que conduzcan al consumo mínimo de nutrientes por la población en general, y aplicar en la esfera de su competencia dicho consumo;
+
+V. Difundir los productos alimenticios y bebidas que han sido procesados, su contenido en altas, medias o bajas cantidades de azúcares, grasas totales, grasas saturadas, grasas trans (sic) y sal, señalando la cantidad específica de cada una de estas concentraciones, de acuerdo a las normas establecidas por la Secretaría de Salud del Gobierno Federal.
 
 ### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
@@ -2990,3 +3016,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo para los efectos constitucionales procedentes.
+
+P.O. 27 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en dos diarios de circulación estatal, para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Notifíquese a las autoridades competentes para su conocimiento y efectos legales conducentes.
