@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "2004-07-13"
+last_updated: "2009-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE EDUCACION DEL ESTADO DE GUERRERO NUM. 158
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -141,11 +141,13 @@ VII.- Fomentar actitudes de actualización y capacitación del magisterio para s
 
 VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y de nuestro Estado.
 
-IX.- Estimular la educación física y la práctica del deporte.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+IX.- Implementar talleres sobre los valores nutricionales, así como estimular la educación física y la práctica del deporte, a fin de promover un mejor desempeño escolar de acuerdo a la edad y desarrollo del educando, a través (sic) estilos de vida saludable.
 
-X.- Desarrollar actitudes solidarias en las personas, para crear conciencia sobre la preservación de la salud, la importancia de la educación de la sexualidad, la planeación familiar y la paternidad y maternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+X.- Generar e innovar actitudes solidarias y humanistas en los educandos para crear conciencia de la importancia de la nutrición, de la educación física, la preservación de la salud, educación sexual, planeación familiar, paternidad y maternidad responsables, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones.
 
 XI.- Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente, y
 
@@ -267,11 +269,17 @@ VI.- Fomentar el hábito de la lectura por medio de bibliotecas públicas, a fin
 
 VII.- Promover permanentemente el desarrollo y la investigación científica y tecnológica que sirva como base a la innovación educativa;
 
-VIII.- Fomentar y difundir las actividades artísticas, culturales y físico deportivas en todas sus manifestaciones;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
 
-IX.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias, y
+VIII.- Fomentar y difundir las actividades artísticas, culturales y físico deportivas en todas sus manifestaciones, así como implementar programas especiales de educación nutricional;
 
-X.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+IX.- Evitar la venta o consumo de alimentos de bajo o nulo valor nutricional en las tiendas o cooperativas escolares.
+
+X.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias, y
+
+XI.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 De acuerdo con lo establecido por la Ley General de Educación, el Gobierno Federal y el Gobierno del Estado podrán celebrar convenios para coordinar o unificar las actividades educativas a que se refiere esta Ley, con excepción de aquellas que, con carácter exclusivo, les confieren los artículos 12 y 13.
 
@@ -297,17 +305,33 @@ Las autoridades educativas, del Estado y de los Municipios, se reunirán periód
 
 Será responsabilidad de las autoridades educativas del Estado realizar una distribución oportuna, completa, amplia y eficiente de los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría de Educación Pública les proporcione.
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+ARTICULO 19 BIS.- Es obligación de las Autoridades Educativas en coordinación con la Secretaría de Salud, desarrollar estrategias para verificar que en las escuelas públicas y privadas de los niveles básico, media superior y superior, los alimentos que se expendan o proporcionen contengan un adecuado índice de valor nutricional. Quedando prohibida la venta de productos no recomendables, por su alto contenido de azúcares, grasas o sal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 20.
 
-Las autoridades educativas del Estado constituirán el Sistema Estatal de formación, actualización, capacitación y superación profesional para maestros, que tendrá las finalidades siguientes:
+Las autoridades educativas del Estado constituirán el Sistema Estatal de Educación para Maestros, cuyo propósito será la formación, actualización, capacitación y superación profesional para los mismos y tendrá las finalidades siguientes:
 
 I.- La formación con nivel de licenciatura de maestros de educación básica, -incluyendo la de aquéllos para la atención de la educación indígena- especial, y de educación física;
 
-II.- La actualización sobre conocimientos y superación docente de los maestros en servicio, citados en la fracción anterior;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
 
-III.- La realización de programas de especialización, maestría y doctorado, adecuados a las necesidades y recursos educativos del Estado de Guerrero, y
+II.- La actualización y capacitación continúa sobre conocimientos docentes, así como en materia nutricional, de los maestros en servicio, citados en la fracción anterior;
 
-IV.- El desarrollo de la investigación pedagógica y la difusión de la cultura educativa.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+III.- La realización de programas de especialización, maestría y doctorado, adecuados a las necesidades y recursos del Estado de Guerrero;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+IV.- El desarrollo de la investigación pedagógica y la difusión de nuestra cultura, y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+V.- La implementación de programas nutricionales.
 
 Las autoridades educativas del Estado podrán coordinarse con las de otros Estados para llevar a cabo actividades relativas a las finalidades previstas en este artículo, cuando la calidad de los servicios o la naturaleza de las necesidades, hagan recomendables proyectos regionales.
 
@@ -413,11 +437,15 @@ V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos espec�
 
 VI.- Establecerán sistemas de educación a distancia;
 
-VII.- Realizarán campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+VII.- Realizarán campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar para la población, así como implementar programas de alfabetización, educación comunitaria y de valores nutricionales, a través de periódicos murales y de los medios de comunicación a su alcance;
 
 VIII.- Desarrollarán programas para otorgar becas y demás apoyos económicos a los educandos;
 
-IX.- Efectuarán programas dirigidos a los padres de familia, que les permitan dar mejor atención a sus hijos;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+IX.- Efectuarán programas dirigidos a los padres de familia, que les permitan dar mejor atención a sus hijos, poniendo énfasis en la nutrición, llevando a cabo talleres dirigidos que propicien un mejor ambiente de atención al desarrollo sano e integral del educando, promoviendo el consumo de alimentos con alto valor nutricional;
 
 X.- Otorgarán estímulos a las asociaciones civiles y a las cooperativas de maestros que se dediquen a la enseñanza;
 
@@ -465,9 +493,11 @@ En el sistema educativo estatal queda comprendida también la educación inicial
 
 De acuerdo con las necesidades educativas específicas de la población, también podrá impartirse educación con programas o contenidos particulares para atender dichas necesidades.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 40.
 
-La educación inicial tiene como propósito favorecer el desarrollo físico, congnoscitivo (sic), afectivo y social de los menores de cuatro años de edad. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
+La educación inicial tiene como propósito favorecer el desarrollo físico, cognitivo, afectivo, social y de salud para los menores de seis años de edad. Incluyendo la orientación a padres de familia o tutores para un mejor aprovechamiento de los mismos.
 
 ###### ARTICULO 41.
 
@@ -477,9 +507,11 @@ Tratándose de menores de edad con discapacidades, esta educación propiciará s
 
 Esta educación también incluye a los maestros y personal de escuelas de educación básica regular que integren a alumnos con necesidades especiales de educación.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 42.
 
-En la impartición de educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+En la educación que se imparta a los menores de edad, se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su salud, haciendo énfasis en los rubros de nutrición, integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la disciplina escolar sea compatible con su edad.
 
 ###### ARTICULO 43.
 
@@ -615,9 +647,17 @@ II.- Cumplir con los planes y programas de estudio que las autoridades educativa
 
 III.- Proporcionar un mínimo de becas en los términos de los lineamientos generales que la autoridad que otorgue las autorizaciones o reconocimientos haya determinado o considerado procedentes;
 
-IV.- Cumplir los requisitos previstos en el artículo 55 de esta Ley; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
 
-V.- Facilitar y colaborar en las actividades de evaluación y vigilancia que las autoridades competentes realicen u ordenen.
+IV.- Cumplir los requisitos previstos en el artículo 55 de esta Ley;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+V.- Facilitar y colaborar en las actividades de evaluación y vigilancia que las autoridades competentes realicen u ordenen; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+VI.- Prohibir la venta o consumo de alimentos con bajo o nulo valor nutricional.
 
 ###### ARTICULO 58.
 
@@ -682,6 +722,10 @@ El acuerdo secretarial respectivo señalará los requisitos específicos que deb
 ###### ARTICULO 65.
 
 Lo que concierne a la participación social en la educación, así como a las asociaciones de padres de familia, se estará a lo establecido en la Ley General de Educación y a lo que señale la Secretaría de Educación Pública.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+Las asociaciones de padres de familia vigilarán que los alimentos que se expendan o se proporcionen en las instituciones educativas, cuenten con los requisitos mínimos de nutrición, que ayuden al sano desarrollo del educando. Siendo su obligación, la de colaborar con las autoridades educativas para evitar la venta de alimentos con bajo o nulo valor nutricional.
 
 ## TITULO OCTAVO. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
 
@@ -862,3 +906,11 @@ P.O. 13 DE JULIO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en dos diarios de circulación estatal, para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Notifíquese a las autoridades competentes para su conocimiento y efectos legales conducentes.
