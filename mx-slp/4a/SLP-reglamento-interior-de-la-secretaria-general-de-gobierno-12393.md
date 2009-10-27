@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2008-11-29"
+last_updated: "2009-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2009 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -42,6 +44,8 @@ La Secretaría General de Gobierno, como dependencia del Poder Ejecutivo del Est
 ###### ARTICULO 2.
 
 La Secretaría General de Gobierno adecuará y ejecutará sus programas de acuerdo con sus atribuciones y con los objetivos y metas del Plan Estatal de Desarrollo, con base en las políticas y prioridades que establezca el Gobernador del Estado.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2009 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2004)</small>
 
@@ -79,13 +83,7 @@ e).- La Dirección del Registro Civil.
 
 f).- El Instituto de Investigaciones Jurídicas
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
-
-IV.- La Subsecretaría de Prevención y Readaptación Social, integrada por:
-
-a).- La Dirección General de Prevención y Readaptación Social, de la que a su vez dependen las Direcciones de los Centros de Readaptación Social de la capital, así como los regionales; y
-
-b).- La Dirección General de Ejecución de Medidas para Menores, de la que a su vez dependen los Centros de Internamiento y de Reeducación.
+IV.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2009)
 
 V.- Las Coordinaciones para Asuntos Especiales en la Zona Huasteca, y en la Zona Altiplano.
 
@@ -725,29 +723,11 @@ XI.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y man
 
 Compete al Centro de Reeducación de la Dirección General de Ejecución de Medidas para Menores, el ejercicio de las atribuciones que le señala el artículo 25 de la Ley de Justicia para Menores del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2009 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTICULO 25.
 
-Compete a la Coordinación para Asuntos Especiales en la Zona Huasteca y en la Zona Altiplano respectivamente:
-
-l.- Coordinar y apoyar a las diferentes dependencias de la administración pública estatal, en la promoción de los planes y programas del Gobierno del Estado, sirviendo de enlace entre éstas y los diferentes Municipios y grupos sociales de la zona que corresponda;
-
-II.- Coordinarse, con las diferentes dependencias del Gobierno Federal y de los Municipios de su jurisdicción territorial y ser el enlace entre éstas y el Gobierno del Estado;
-
-III.- Intervenir, en apoyo y coordinación con las autoridades federales en la aplicación de las leyes en materia de asociaciones religiosas y culto público, de juegos y sorteos, de armas de fuego y explosivos, de población, así como en las campañas de prevención, combate y extinción de las catástrofes naturales y contra el narcotráfico;
-
-IV.- Aplicar la normatividad estatal y federal vigente en materia de producción, distribución, venta y consumo de bebidas alcohólicas;
-
-V.- Instrumentar, coordinar, vigilar y evaluar el sistema regional de protección civil de las Zonas Huasteca y Altiplano, así como los relativos a la prevención y restablecimiento de zonas afectadas en caso de desastre, con la participación de la comunidad;
-
-VI.- Atender y resolver en su caso, los planteamientos y necesidades de los Municipios de su jurisdicción y sin perjuicio de la relación directa que debe darse entre cada uno de los Presidentes Municipales con el Gobernador del Estado y la Secretaría General de Gobierno, escuchar y proponer en primera instancia la solución a la problemática que se le plantee;
-
-VII.- Promover y, en su caso, desarrollar programas de orientación y capacitación tendientes al fortalecimiento de las instituciones y organizaciones políticas;
-
-VIII.- Participar en todas aquellas acciones que contribuyan a promover el desarrollo político de la zona que corresponda, y
-
-IX.- Las demás que les asigne el Secretario General de Gobierno.
+(DEROGADO, P.O. 27 DE OCTUBRE DE 2009)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2005)</small>
 
@@ -1162,3 +1142,21 @@ Los derechos de antigüedad del personal proveniente de la Dirección General de
 P.O. 29 DE NOVIEMBRE DE 2008.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos materiales y financieros, bienes muebles e inmuebles y en general, el patrimonio que tienen asignado las Coordinaciones para Asuntos Especiales en la zona Huasteca, y en la zona Altiplano, se integrarán a la Coordinación General de Apoyo Administrativo de la Secretaría General de Gobierno, por lo que se instruye a la Oficialía Mayor para que haga los trámites administrativos a que haya lugar para lograr tal propósito.
+
+###### ARTÍCULO TERCERO.
+
+Los trabajadores de base con que cuentan las Coordinaciones para Asuntos Especiales en la zona Huasteca y la zona altiplano, serán reasignados a distintas áreas de sus localidades a través de la Coordinación General de Apoyo Administrativo de la Secretaría General de Gobierno, en pleno respeto de sus derechos laborales, el demás personal podrá ser reubicado acorde a las necesidades del servicio, de lo contrario deberá ser liquidado en términos de Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se contrapongan al presente decreto.
