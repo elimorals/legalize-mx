@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-transporte-y-vialidad-del-estado-de-guerrero-5195"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "1995-02-24"
+last_updated: "2009-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de junio de 1989.
 
@@ -37,9 +37,11 @@ LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 1o.
 
-El transporte vehicular de personas y bienes, y el uso de las vías públicas de jurisdicción estatal, son de interés social y de orden público y se regirán por esta Ley, la Ley de Desarrollo Urbano y demás disposiciones legales.
+El transporte vehicular de personas y bienes, y el uso de las vías públicas de jurisdicción estatal, son de interés social y de orden público y se regirán por esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 2o.
 
@@ -77,41 +79,37 @@ BIS.- Sin perjuicio de las obligaciones que esta Ley establece a los concesionar
 
 ### CAPITULO II. DE LAS AUTORIDADES DE TRANSPORTE Y VIALIDAD
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 8o.
 
-Son autoridades en materia de transporte y vialidad:
+Son Autoridades en materia de Transporte:
 
 I.- El Gobernador del Estado;
 
-II.- La Secretaría de Desarrollo Urbano y Obras Públicas;
-
-> <small>(ADICIONADA, P. O. 24 DE FEBRERO DE 1995)</small>
+II.- El Secretaría General de Gobierno;
 
 III.- La Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADA, P. O. 24 DE FEBRERO DE 1995)</small>
+IV.- El Consejo Técnico de Transporte y Vialidad;
 
-IV.- La Comisión Técnica de Transporte y Vialidad;
+V.- El Director;
 
-a) El Consejo Técnico de Transporte y Vialidad;
+VI.- Los Delegados Regionales;
 
-b) El Director;
+VII.- Los Inspectores de Transporte y Vialidad, y
 
-c) Los Delegados Regionales;
-
-d) Los inspectores de transporte y vialidad, y
-
-> <small>(REFORMADA, P. O. 24 DE FEBRERO DE 1995)</small>
-
-V.- La Comisión de Seguridad Pública y Tránsito, en su ámbito de competencia.
+VIII.- El Director General de Tránsito del Estado.
 
 ###### ARTICULO 9o.
 
 Corresponde a las autoridades señaladas en el artículo anterior la aplicación de esta Ley, y sus disposiciones reglamentarias y las administrativas que para su mejor observancia expidan los órganos competentes y quienes podrán auxiliarse de la fuerza pública para su cumplimiento.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 10.
 
-La Comisión Técnica de Transporte y Vialidad es un órgano administrativo desconcentrado, jerárquicamente subordinado a la Secretaría de Desarrollo Urbano y Obras Públicas, cuyo objeto será regular y conducir el servicio público de transporte; el transporte que lleven a cabo los particulares y la vialidad de jurisdicción estatal.
+La Comisión Técnica de Transporte y Vialidad es un Órgano Administrativo Desconcentrado, jerárquicamente subordinado a la Secretaría General de Gobierno, cuyo objeto será regular y conducir el servicio público de transporte que lleven a cabo los particulares y la vialidad de jurisdicción estatal.
 
 ###### ARTICULO 11.
 
@@ -141,13 +139,17 @@ XI. Imponer las sanciones que la presente Ley y sus disposiciones reglamentarias
 
 XII. Las demás que sean necesarias para el ejercicio de las anteriores.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 12.
 
-La Comisión Técnica de Transporte y Vialidad contará con un Consejo Técnico, formado por los Secretarios de Desarrollo Urbano y Obras Públicas, quien lo presidirá, de Gobierno, de Planeación y Presupuesto, de Finanzas, de Desarrollo Económico y Trabajo y de Desarrollo Rural, así como por un Director que será designado y removido libremente por el Titular del Poder Ejecutivo.
+La Comisión Técnica de Transporte y Vialidad se integra por un Consejo Técnico, formado por el Secretario General de Gobierno, que lo presidirá, y los Secretarios de Desarrollo Social; Finanzas y Administración; Desarrollo Urbano y Obras Públicas, Desarrollo Económico y Desarrollo Rural; así como por un Director que será designado y removido libremente por el Titular del Poder Ejecutivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 13.
 
-El Consejo Técnico tendrá las siguientes facultades:
+El Consejo Técnico, que es el órgano de Gobierno de la Comisión Técnica de Transporte y Vialidad, tienen las facultades siguientes:
 
 I. Conocer y aprobar el Plan de Labores y el Presupuesto de Egresos de la Comisión;
 
@@ -159,17 +161,29 @@ IV. Conocer y aprobar la formación de oficinas regionales, la delegación o des
 
 V. Conocer y aprobar el establecimiento de Comités Consultivos de Transporte y Vialidad de carácter regional o municipal;
 
-VI. Designar y remover a los servidores públicos de la Comisión Técnica de Transporte y Vialidad, y
+VI. Designar y remover a los servidores públicos de la Comisión Técnica de Transporte y Vialidad, y (sic)
 
-VII. Las demás que sean necesarias para el ejercicio de las facultades de la Comisión Técnica de Transporte y Vialidad.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+VII. Las demás que sean necesarias para el ejercicio de las atribuciones de la Comisión Técnica de Transporte y Vialidad; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+VIII. Otorgar al Director de la Comisión Técnica de Transporte y Vialidad, facultades generales para la defensa de dicha Comisión, en todo tipo de juicios, así como para delegar poderes generales y/o especiales a servidores públicos subalternos o a terceras personas, y (sic)
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 14.
 
-El Director conducirá las labores operativas de la Comisión Técnica, de conformidad con las políticas anteriores y autorizaciones del Consejo Técnico, y proporcionará a éste los elementos indispensables para el ejercicio de las facultades que la Ley y sus disposiciones reglamentarias confiere a ese Cuerpo Colegiado.
+El Director conducirá las labores operativas de la Comisión Técnica, de conformidad con las políticas anteriores y autorizaciones del Consejo Técnico, de quien será el órgano ejecutor y proporcionará a éste los elementos indispensables para el ejercicio de las facultades que la ley y sus disposiciones reglamentarias confieren a ese cuerpo colegiado.
+
+Representar a la Comisión Técnica de Transporte y Vialidad con facultades generales para la defensa de dicha Comisión, en todo tipo de juicios, así como para delegar poderes generales y/o especiales a servidores públicos subalternos o a terceras personas.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 15.
 
-El Secretario de Desarrollo Administrativo y Control Gubernamental, designará a quien habrá de fungir como comisario de la Comisión Técnica de Transporte y Vialidad, y quien tendrá a su cargo las facultades de vigilancia del cumplimiento de esta Ley y de las leyes que rigen la organización y funcionamiento administrativos y el manejo de los recursos públicos.
+El Contralor General del Estado, designará a quien deberá de fungir como Comisario Público de la Comisión Técnica de Transporte y Vialidad, que tendrá a su cargo las facultades de vigilancia del cumplimiento de esta Ley y de las leyes que rigen la organización y funcionamiento administrativo y el manejo de los recursos públicos.
 
 ###### ARTICULO 16.
 
@@ -191,11 +205,15 @@ IV. Se vigilará el estado físico del equipo vehicular y de las instalaciones d
 
 V. En igualdad de condiciones, se dará preferencia a trabajadores guerrerenses del transporte y núcleos agrarios o comisarías municipales, organizaciones representativas de los trabajadores del transporte, personas morales del sector social, y a quien cuente con mejor equipo e infraestructura y experiencia para la eficiente prestación del servicio, y
 
-VI. Se procurará que las Secretarías de Planeación y Presupuesto y de Finanzas, orienten la aplicación de los ingresos fiscales que de acuerdo con las leyes debe generar el transporte, hacia la mejora de la prestación de ese servicio público y de la vialidad.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+VI. Se procurará que las Secretarías de Desarrollo Social y de Finanzas y Administración oriente (sic) la aplicación de los ingresos fiscales que de acuerdo con las leyes debe generar el transporte hacia la mejora de la prestación de ese servicio público y de la vialidad.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 18.
 
-El Consejo Técnico, celebrará sesiones ordinarias bimensuales, pudiendo su Presidente o dos de sus miembros convocar a sesión extraordinaria cuando sea necesario.
+El Consejo Técnico, celebrará sesiones ordinarias bimensuales, pudiendo su Presidente o dos de sus miembros convocar a sesión extraordinaria cuando sea necesario. Las sesiones serán válidas con la asistencia de la mayoría de sus integrantes.
 
 ### CAPITULO III. DE LA PARTICIPACION CIUDADANA
 
@@ -339,7 +357,9 @@ Solamente se permite la emisión de gases y ruido técnicamente necesarios, deri
 
 Los vehículos que presten el servicio público de transporte en rutas o en zonas predominantemente turísticas, deberán reunir las condiciones de mantenimiento de carrocería, motor e interiores, así como de comodidad, seguridad, e imagen visual idóneos para la actividad turística, pudiendo establecerse al efecto el servicio turístico urbano en rutas específicas, según el artículo 42 de esta Ley.
 
-La Comisión Técnica de Transporte y Vialidad así como la Comisión de Seguridad Pública y Tránsito podrán suspender la circulación de los vehículos que no se ajusten a lo prevenido en el párrafo anterior.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+La Comisión Técnica de Transporte y Vialidad así como la Dirección General de Tránsito del Estado podrán suspender la circulación de los vehículos que no se ajusten a lo previsto en el párrafo anterior.
 
 ### CAPITULO VI. DEL SERVICIO PUBLICO DEL TRANSPORTE
 
@@ -781,7 +801,9 @@ Todo vehículo, concesión, permiso o autorización en materia de transporte, as
 
 El vehículo que no esté registrado no podrá circular y la falta de inscripción será sancionada en los términos que fijen las disposiciones reglamentarias.
 
-Cuando los vehículos estén registrados en otras Entidades Federativas o en otros países y circulen dentro del territorio del Estado, se respetarán sus efectos jurídicos, si lo estuviera legalmente, pero la Comisión Técnica de Transporte y Vialidad y la Comisión de Seguridad Pública y Tránsito, podrán aplicar las sanciones a que se hagan acreedores por infracciones a esta Ley y las disposiciones reglamentarias.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+
+Cuando los vehículos estén registrados en otras Entidades Federativas o en otros países y circulen dentro del territorio del Estado, se respetarán sus efectos jurídicos, si lo estuvieran legalmente, pero la Comisión Técnica de Transporte y Vialidad y la Dirección General de Tránsito del Estado, podrán aplicar las sanciones a que se hagan acreedores por infracciones a esta Ley y las disposiciones reglamentarias.
 
 ###### ARTICULO 88.
 
@@ -1160,3 +1182,7 @@ Las presentes reformas y adiciones a la Ley de Transporte y Vialidad del Estado 
 ###### ARTICULO SEGUNDO.
 
 La Verificación Vehicular referida en el capítulo VII-BIS entrará en vigor a partir del presente año, solamente para el transporte de carga y pasajeros. En el caso de los vehículos de uso particular, las disposiciones contenidas en dicho capítulo serán aplicables a partir del año de 1996.
+
+P.O. 27 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
