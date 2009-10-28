@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-extincion-de-dominio-para-el-67640"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-24"
-last_updated: "2009-06-26"
+last_updated: "2009-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67640&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-03-24"
 
 REGLAMENTO DE LA LEY DE EXTINCION DE DOMINIO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 24 de marzo de 2009.
 
@@ -90,9 +90,21 @@ I. La Subprocuraduría Jurídica y de Derechos Humanos;
 
 II. La Coordinación de Agentes del Ministerio Público Auxiliares del Procurador;
 
-III. El Consejo Ciudadano; y
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2009)</small>
 
-IV. La Unidad de Inteligencia Financiera.
+III. La Subprocuraduría de Averiguaciones Previas Centrales, a través del titular de la Fiscalía que se encuentre directamente vinculado con la investigación del delito que esté relacionado con el ejercicio de la Acción de Extinción de Dominio;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2009)</small>
+
+IV. La Subprocuraduría de Averiguaciones Previas Desconcentradas, a través del titular de la Fiscalía que se encuentre directamente vinculado con la investigación del delito que esté relacionado con el ejercicio de la Acción de Extinción de Dominio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE OCTUBRE DE 2009)</small>
+
+V. El Consejo Ciudadano; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE OCTUBRE DE 2009)</small>
+
+VI. La Unidad de Inteligencia Financiera.
 
 La Comisión tendrá como objetivos, entre otros, emitir su opinión respecto del ejercicio de la acción. Así como asesorar al Procurador en las consultas de ampliación del término para la preparación de la acción, improcedencia y desistimiento que le formulen los Agentes del Ministerio Público, así como las demás relativas al tema de la Extinción de Dominio.
 
@@ -100,7 +112,9 @@ La Comisión será presidida por la Subprocuraduría Jurídica y de Derechos Hum
 
 Los representantes deberán contar con nivel mínimo de Director de Área.
 
-Los integrantes señalados en las fracciones I y II tomarán las decisiones de la Comisión, escuchando la opinión de los integrantes señalados en las fracciones III y IV, quienes tendrán funciones de asesoría.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2009)</small>
+
+Los integrantes señalados en las fracciones I y II tomarán las decisiones de la Comisión. Los integrantes señalados en las fracciones III, IV, V y VI tendrán funciones de asesoría e información y sus opiniones no serán vinculatorias.
 
 > <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2009)</small>
 
@@ -142,39 +156,67 @@ Cuando la Procuraduría inicie una averiguación previa por el delito de trata d
 
 ### CAPÍTULO III. DE LA DENUNCIA
 
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 10.
 
-La Procuraduría establecerá un Sistema de Denuncias de Extinción de Dominio, para que se reciban en vía personal, telefónica, electrónica o escrita.
+La denuncia que se formule sobre hechos posiblemente constitutivos de los delitos señalados en el artículo 4 de la Ley y en la que se describan bienes que presumiblemente sean de los referidos en el artículo 5 del mismo ordenamiento, podrá hacerse en vía personal, telefónica, electrónica o escrita ante la Procuraduría, o bien por vía telefónica ante el Consejo Ciudadano.
 
-La información en vía personal podrá recibirse a través del Ministerio Público o la Subprocuraduría de Atención a Víctimas del Delito y Servicios a la Comunidad.
+Las denuncias serán registradas en un sistema informático que se instalará en cada una de las Fiscalías Centrales y Desconcentradas y la Dirección General de Política y Estadística Criminal, de la Procuraduría, será la encargada de concentrar y resguardar la información, así como de rendir los informes respectivos al Procurador.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 11.
 
-Cuando el Ministerio Público atienda a una persona que manifieste su voluntad de aportar información relativa a la extinción de dominio, en términos del artículo 21 de la Ley, lo hará del conocimiento de su superior jerárquico y la enviará de inmediato a la Subprocuraduría de Atención a Víctimas del Delito y Servicios a la Comunidad.
+La denuncia que se realice en vía personal podrá recibirse en la Subprocuraduría de Atención a Víctimas del Delito y Servicios a la Comunidad o en las agencias del Ministerio Público de las Subprocuradurías de Averiguaciones Previas Centrales o Desconcentradas.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 12.
 
-Cuando la persona se presente ante la Subprocuraduría de Atención a Víctimas del Delito y Servicios a la Comunidad, directamente o enviada por el Ministerio Público, el titular tomará sus datos personales, que resguardará bajo absoluta secrecía, y la información relativa a la extinción de dominio la enviará al Subprocurador de Averiguaciones Previas Centrales.
+El titular de la Subprocuraduría de Atención a Víctimas del Delito y Servicios a la Comunidad o el titular de la Fiscalía de la que dependa la agencia receptora serán los responsables de atender la denuncia conforme al procedimiento siguiente:
+
+I. Entrevistarán personalmente al denunciante para que manifieste si es su deseo que sus datos personales se resguarden en absoluta secrecía;
+
+II. Si el denunciante manifiesta que no desea el resguardo de sus datos personales, la Subprocuraduría de Atención a Víctimas del Delito y Servicios a la Comunidad, remitirá la denuncia respectiva a la Subprocuraduría de Averiguaciones Previas Centrales, y en el caso del titular de la Fiscalía, la turnará con el Agente del Ministerio Público que determine, para que, en ambos casos, se inicie la averiguación previa correspondiente;
+
+III. Si el denunciante manifiesta que es su deseo que sus datos personales se resguarden en absoluta secrecía procederán a:
+
+a) Obtener por separado la información de sus datos personales y lo relativo a los hechos posiblemente constitutivos de los delitos señalados en el artículo 4 de la Ley y en la que se describan bienes que presumiblemente sean de los referidos en el artículo 5 del mismo ordenamiento;
+
+b) La información relativa a los datos personales la enviarán con absoluta secrecía a la persona titular de la Subprocuraduría de Atención a Víctimas del Delito y Servicios a la Comunidad, para que ésta la resguarde para efectos de la retribución que señala el artículo 21 de la Ley; y
+
+c) La información relacionada con los hechos posiblemente constitutivos de delito la turnarán con el Agente del Ministerio Público que determinen para que inicie, de oficio, la averiguación previa correspondiente.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 13.
 
-Al recibir la información, la enviará al Jefe General de la Policía Judicial para que inicie la investigación correspondiente, que en ningún contendrá (sic) datos personales.
+Los Agentes del Ministerio Público adscritos a las Fiscalías de la Subprocuraduría de Averiguaciones Previas Desconcentradas que inicien averiguaciones previas sin detenido, relacionadas con hechos posiblemente constitutivos de los delitos señalados en el artículo 4 de la Ley y en la que se describan bienes que presumiblemente sean de los referidos en el artículo 5 del mismo ordenamiento, ya sea por comparecencia personal en términos del artículo anterior o por cualquier otra forma, deberán informarlo por escrito a las Fiscalías Centrales de Investigación para Secuestros, Delitos Sexuales y Robo de Vehículos y Transporte, según competa.
 
-Cuando la investigación, supervisada por el titular de la Subprocuraduría de Averiguaciones Previas Centrales, aporte indicios de hechos posiblemente constitutivos de los delitos señalados en el artículo 4 de la Ley, el agente de la policía responsable de la investigación formulará la denuncia correspondiente.
+La misma obligación tendrán los Agentes del Ministerio Público adscritos a las demás Fiscalías Centrales de Investigación, cuando conozcan que una averiguación previa se encuentre relacionada con la probable comisión de delitos competencia de aquellas.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
-Cuando la persona formule la denuncia vía telefónica, electrónica o escrita, la Subprocuraduría de Atención a Víctimas del Delito y Servicios a la Comunidad la invitará a presentarse a formular la denuncia correspondiente y le solicitará una narración de los hechos que conoce.
+La obligación señalada en el artículo anterior deberá cumplirse en el plazo de setenta y dos horas, a fin de que los titulares de las Fiscalías Centrales referidas determinen si atraen las indagatorias para que se continúe con la investigación y, en su momento, remitan copia certificada de las diligencias conducentes a la Unidad Especializada en Extinción de Dominio, adscrita a la Fiscalía de Procesos Civiles, para sustanciar la Acción.
 
-Si la persona se presenta a la cita que se le formule se procederá en términos del artículo 11; si no se presenta pero aportó datos relacionados con la extinción de dominio, se enviará a la Subprocuraduría de Averiguaciones Previas Centrales para los efectos del artículo 12.
+Cuando se trate de averiguaciones previas con detenido, los agentes del Ministerio Público adscritos a las Fiscalías de la Subprocuraduría de Averiguaciones Previas Desconcentradas resolverán, en el término legal, la situación jurídica de los detenidos y remitirán un desglose de la indagatoria a las Fiscalías Centrales de Investigación con la información correspondiente, quienes actuarán en los términos del párrafo anterior.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 15.
 
-La Subprocuraduría de Atención a Víctimas del Delito y Servicios a la Comunidad asignará una clave progresiva a cada informe que reciba, relacionada con la averiguación previa que se inicie, para efectos de la secrecía de los datos personales y, en su caso, el pago de la retribución.
+Las denuncias que se reciban vía telefónica, electrónica o escrita serán remitidas inmediatamente a la Subprocuraduría de Averiguaciones Previas Centrales.
+
+La persona titular de la Subprocuraduría de Averiguaciones Previas Centrales será responsable de resguardar con absoluta secrecía los datos personales del denunciante y procederá en términos de lo señalado en los incisos b) y c), de la fracción III, del artículo 12 de este ordenamiento.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 16.
 
-La Subprocuraduría de Atención a Victimas del Delito y Servicios a la Comunidad será la responsable de resguardar en absoluta secrecía los datos personales de las personas denunciantes que así lo soliciten.
+La protección de los datos personales se hará de conformidad con la Ley de Protección de Datos Personales y la Ley de Transparencia y Acceso a la Información Pública, ambas para el Distrito Federal. La violación a la protección de dichos datos por parte de cualquier servidor público, dará lugar a las responsabilidades penales y administrativas que correspondan.
 
 ### CAPÍTULO IV. DE LA RETRIBUCIÓN
 
@@ -371,3 +413,9 @@ G.O. 26 DE JUNIO DE 2009.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 28 DE OCTUBRE DE 2009.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación.
