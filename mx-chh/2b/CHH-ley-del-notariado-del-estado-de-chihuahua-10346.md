@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-notariado-del-estado-de-chihuahua-10346"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-12"
-last_updated: "2007-05-23"
+last_updated: "2009-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de agosto de 1995.
 
@@ -325,7 +325,11 @@ Quien sea o haya sido Notario, estará impedido para desempeñar la procuración
 
 El ejercicio de la función notarial es incompatible con toda función o empleo públicos, sean por elección o por nombramiento; con los empleos o comisiones de los particulares cuando se establezca relación de patrón a trabajador; y con la profesión de ministro de cualquier culto.
 
-El Notario podrá aceptar cargos docentes, de beneficencia pública y los de director, administrador o miembro del consejo de administración de personas morales, así como ejercer la función de Corredor Público, en los términos de las leyes relativas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+El Notario podrá aceptar cargos docentes y los de director, administrador, miembro del consejo de administración o patrono de personas morales, así como ejercer la función de Corredor Público, en los términos de las leyes relativas.
 
 ###### ARTICULO 37.
 
@@ -1244,3 +1248,73 @@ P.O. 23 DE MAYO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el año dos mil nueve, el organismo para la asistencia social pública (DIF Estatal), deberá elaborar y publicar lo siguiente:
+
+a) Las reglas y manuales de procedimientos que deberán seguirse para la prestación de los servicios en los establecimientos de asistencia social pública.
+
+b) Los lineamientos para garantizar la integralidad y calidad en la prestación de los servicios en los establecimientos de asistencia social privada que atiendan a personas menores de edad, adultas mayores y en situación de discapacidad.
+
+c) Los procesos a seguir para la obtención de la certificación por la calidad en la prestación de los servicios de asistencia social pública, en el ámbito municipal.
+
+d) Su estatuto orgánico, así como los manuales de procedimientos y servicios al público.
+
+e) Las reglas y disposiciones de carácter general en relación a la metodología, técnicas y procedimientos administrativos para los trámites de adopción.
+
+f) Los protocolos que sirvan como base para la debida atención de personas menores de edad en situación de desamparo, maltrato, omisión de cuidados y explotación en cualquiera de sus modalidades; mujeres en situación de maltrato o explotación en cualquiera de sus modalidades; adultas mayores en situación de desamparo, maltrato, abandono o explotación en cualquiera de sus modalidades; y en situación de discapacidad.
+
+###### ARTÍCULO TERCERO.
+
+Los trabajos para el diseño, acopio y conformación del Sistema Estatal de Información para la Asistencia Social, deberán dar inicio durante el año dos mil nueve.
+
+###### ARTÍCULO CUARTO.
+
+La constitución e instalación del Consejo Consultivo para la Asistencia Social Pública, deberá realizarse a más tardar en el mes de diciembre del año dos mil nueve.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo del Estado deberá tener diseñado, a más tardar en el mes de octubre del año dos mil nueve, el apartado en materia de asistencia social que formará parte del Programa Estatal de Desarrollo Social y Humano.
+
+###### ARTÍCULO SEXTO.
+
+Las relaciones laborales de los trabajadores con que cuente el organismo para la asistencia social pública a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Sistema para el Desarrollo Integral de la Familia del Estado de Chihuahua, continuarán rigiéndose hasta su conclusión por las disposiciones legales que les dieron origen.
+
+###### ARTÍCULO OCTAVO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Beneficencia Pública, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la asistencia social pública u organismo para la asistencia social pública, conocido actualmente como DIF Estatal.
+
+###### ARTÍCULO NOVENO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Procuraduría para la Defensa del Menor y la Familia, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Procuraduría de Asistencia Jurídica y Social, a través de sus correspondientes Subprocuradurías Especializadas.
+
+###### ARTÍCULO DÉCIMO.
+
+Los numerales 70 y 78 del ARTÍCULO PRIMERO del presente Decreto, entrarán en vigor a partir de los meses de mayo y septiembre del año dos mil once, respectivamente.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Las relaciones laborales de los trabajadores con que cuente la Junta de Asistencia Privada a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.
+
+###### ARTÍCULO DUODÉCIMO.
+
+La convocatoria pública para la elección de los representantes de las instituciones de asistencia social privada a que se refiere el numeral 70, fracción VI, del ARTÍCULO PRIMERO del presente Decreto, deberá establecer los dos rubros por los que participarán aquéllos por única vez con una duración de dos años, así como los que durarán en el cargo los tres años completos.
+
+La convocatoria pública respectiva se emitirá durante la segunda quincena del mes de marzo del año dos mil once.
+
+ARTÍCULO DECIMOTERCERO. Siempre que en cualquier otra disposición, ordenamiento o instrumento legalmente expedido se haga referencia a la Junta de Beneficencia Privada o Junta de Asistencia Privada, se entenderá que se trata ahora de la Junta de Asistencia Social Privada.
+
+Cuando la referencia se haga a Instituciones de Beneficencia Privada o Instituciones de Asistencia Privada, se entenderá que se hace alusión a las instituciones de asistencia social privada.
+
+ARTÍCULO DECIMOCUARTO. Los trabajos para el diseño, acopio y conformación del Subsistema de Información para la Asistencia Social Privada, deberán dar inicio durante el año dos mil nueve.
