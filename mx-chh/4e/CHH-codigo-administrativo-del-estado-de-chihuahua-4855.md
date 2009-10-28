@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2008-04-23"
+last_updated: "2009-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2009.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -6173,557 +6173,537 @@ SALUBRIDAD Y ASISTENCIA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1119.
 
-Son actos de beneficencia privada, para los efectos de este Código, todos los que se ejecuten con fondos particulares y con un fin humanitario o filantrópico.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Se equiparan a los actos de beneficencia privada las fundaciones o asociaciones establecidas para la concesión de premios por descubrimientos, estudios o actos que tengan por objeto un adelanto en la ciencia o en las artes o un beneficio a las clases desvalidas.
-
-No se considerarán como actos de beneficencia privada los que no tengan un objeto de utilidad pública o sean contrarios a la ley, a la moral o a las buenas costumbres.
-
-Estará a cargo del Ejecutivo del Estado, por conducto de la Junta de Beneficencia Privada, la defensa de los bienes pertenecientes a dichas fundaciones y asociaciones y el ejercicio de todas las acciones que con respecto a ellos se deriven de las leyes o de la voluntad de los fundadores.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1120.
 
-Las obras caritativas practicadas por una persona con fondos propios no estarán sujetas a la vigilancia de la Junta, cuando el servicio lo reciban menos de diez personas.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Cuando el servicio se preste con fondos propios y ajenos, o sólo ajenos, deberá constituirse una institución de beneficencia privada, de acuerdo con la ley.
-
-La Junta de Beneficencia Privada, sin embargo, podrá autorizar las obras filantrópicas, que aunque comprendidas en la prevención que antecede, deban continuar ejerciéndose sin estar sujetas a su vigilancia, porque considere debidamente garantizados los intereses sociales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1121.
 
-Los patronatos de las instituciones de beneficencia privada estarán obligados a rendir los informes y a remitir los documentos que previene este Código y los que la Junta les pida, así como a corregir los errores en que incurran y que la misma Junta les señale.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1122.
 
-Las personas que representen, dirijan o administren asilos, escuelas, orfanatorios, hospitales y demás establecimientos destinados a la ejecución de los actos a que se refiere el artículo 1137 que funcionen sin autorización de la Junta de Beneficencia Privada, serán consignadas por ésta a la Procuraduría General de Justicia del Estado.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1123.
 
-Queda estrictamente prohibido efectuar para fines de beneficencia privada, colectas, rifas, loterías, festivales, venta de cupones o cualquiera otra clase de actos similares, sin autorización previa de la Junta de este ramo.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1124.
 
-Las autoridades que concedan licencia con el objeto indicado en el artículo anterior, serán consignadas al Procurador General de Justicia.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1125.
 
-El Estado no podrá en ningún caso, ni bajo ningún pretexto, ocupar los bienes que pertenezcan a las instituciones de beneficencia privada, ni celebrar, respecto de esos bienes, contrato alguno substituyendo a los patronatos de las mismas instituciones.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-La contravención de lo dispuesto en el párrafo anterior, hará pecuniariamente responsable a la autoridad que decretó la ocupación de dichos bienes. Los actos o contratos que se realicen al amparo del acuerdo respectivo serán nulos de pleno derecho.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1126.
 
-En el caso de que el Ministerio Público no ejercite la acción de nulidad consiguiente dentro del término de seis meses, a partir de la fecha en que tenga conocimiento de la ocupación de los bienes a que se refiere el artículo anterior, los fundadores quedarán facultados para disponer, en vida de los bienes destinados por ellos a las instituciones.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1127.
 
-Los fundadores podrán establecer en su testamento la condición de que si el Estado infringe la primera parte del artículo 1125 pasarán los bienes a los herederos.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1128.
 
-No se considerará que el Estado ocupa los bienes de las instituciones de beneficencia privada, cuando la Junta de este ramo designe a la persona o personas que deban desempeñar un patronato, en uso de la facultad que le concede el artículo 1186, fracción II.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1129.
 
-El derecho que los artículos 1126 y 1127 conceden a los fundadores y sus herederos, podrá reclamarse en juicio sumario, que se entablará en contra de la Junta de Beneficencia Privada. La autoridad judicial que conozca en primera instancia del asunto está facultada para poner en posesión de los bienes al reclamante, cuando se dicte la sentencia que declare probada su acción.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1130.
 
-El derecho que conceden los artículos anteriores será imprescriptible.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1131.
 
-Las instituciones de beneficencia privada tendrán capacidad jurídica para todo aquello que se relacione directa o indirectamente con su sostenimiento y con los actos benéficos que ejecuten.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1132.
 
-Los actos, contratos y demás operaciones que celebren las instituciones de beneficencia privada, para los fines que motivaren su creación, quedarán exentos del pago de cualquier impuesto o derecho estatal o municipal.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1133.
 
-La Junta de Beneficencia Privada vigilará e impedirá en su caso, que las instituciones hagan una competencia ilícita, mediante la baja de los precios de los artículos que ofrezcan en el mercado, utilizando la exención que concede el artículo anterior.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1134.
 
-Una vez que las instituciones queden definitivamente constituidas conforme a las prevenciones de este Código, la revocación que haga el fundador o fundadores de la afectación de bienes que haya hecho para constituir el patrimonio de aquélla, será nula de pleno derecho, excepto en el caso de los artículos 1125 a 1129.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1135.
 
-También se tendrá por no hecha la revocación o reducción que haga una persona del donativo que haya formulado en favor de una institución de beneficencia privada.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1136.
 
-Nunca se declarará nula una disposición testamentaria hecha en favor de la beneficencia privada, por defectos de forma; en todo caso, se obedecerá la voluntad del testador.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO II. ORGANIZACION Y CONSTITUCION DE LA BENEFICENCIA PRIVADA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1137.
 
-Son instituciones de beneficencia privada: las particulares que con fines de utilidad pública y no lucrativos, sean reconocidas por el Estado como auxiliares de la administración pública y con capacidad para poseer un patrimonio propio, destinado a la realización de actos de esta índole.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Se entenderán por actos no lucrativos y de utilidad pública los ejecutados con fondos particulares, sin objeto de especulación, con un fin humanitario y sin designar individualmente a los beneficiados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1138.
 
-Cuando se trate de sociedades que tengan por objeto la ayuda mutua de los asociados, la Junta de Beneficencia Privada podrá, en cada caso, determinar las que deban sujetarse a este Código, si de sus características se desprende que quedan comprendidas dentro de lo que previene el artículo anterior.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1139.
 
-Las instituciones de beneficencia privada pueden ser fundaciones o asociaciones.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1140.
 
-Son fundaciones las personas morales constituidas por voluntad de los particulares o por disposición de la ley en los casos que ésta establece, para la administración de un conjunto de bienes afectados a actos no lucrativos y con fines humanitarios.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1141.
 
-Son asociaciones las personas morales que por voluntad de los particulares se constituyen en los términos de este Código y cuyos fondos consisten en cuotas de los asociados.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1142.
 
-Las fundaciones y las asociaciones pueden ser de dos clases: permanentes o transitorias, según que su duración sea indefinida o temporal.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1143.
 
-Cuando para satisfacer necesidades producidas por epidemias, guerras, terremotos, inundaciones o por causas económicas, se organicen asociaciones transitorias, éstas se denominarán juntas de socorro o de asistencia.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO III. CONSTITUCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA EN VIDA DE LOS FUNDADORES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1144.
 
-La creación de instituciones de beneficencia privada puede tener lugar en vida del fundador o fundadores, o por testamento.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1145.
 
-La persona o personas que deseen constituir fundaciones o asociaciones de beneficencia privada, transitorias o permanentes, presentarán a la Junta de ese ramo un escrito que contenga:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- El nombre, domicilio y demás generales del fundador o fundadores;
-
-II.- El nombre, objeto y domicilio legal de la institución que se pretenda establecer;
-
-III.- La clase de actos de utilidad pública y humanitarios que se deseen ejecutar con los ingresos de la institución, determinando, de manera precisa, los establecimientos que vayan a depender de ella;
-
-IV.- El capital que se dedique a crear y a sostener la institución, inventariando, pormenorizadamente, la clase de bienes que lo constituyan o, en su caso, la forma y términos en que hayan de exhibirse o recaudarse los fondos destinados a ella;
-
-V.- La designación de las personas que vayan a fungir como patronos o, en su caso, las que integrarán las juntas o consejos que hayan de representarlas y administrarlas, y la manera de sustituirlas;
-
-VI.- Si la institución será permanente o transitoria;
-
-VII.- Las bases generales de administración y los demás datos que el o los funcionarios consideren pertinentes para precisar su voluntad y la forma de acatarla.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1146.
 
-Recibido por la Junta de Beneficencia Privada el escrito a que se refiere el artículo anterior, ésta lo examinará y, en su caso, pedirá al solicitante o solicitantes los datos que falten.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Una vez que la Junta tenga en su poder todos los datos, resolverá si es o no de constituirse la institución, según que los fines que se persigan sean o no de utilidad pública.
-
-Tratándose de fundaciones, la declaratoria de la Junta, acerca de que es de constituirse la institución, produce la afectación de los bienes al fin de utilidad pública que se indique en la solicitud. La Junta mandará que dicha resolución se inscriba en el Registro Público de la Propiedad, si la solicitud hace referencia a bienes inmuebles.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1147.
 
-Si la declaratoria de la Junta de Beneficencia Privada es en el sentido de que se constituye la institución, lo comunicará al interesado o interesados para que procedan a formular los estatutos de la misma, dentro del plazo de treinta días, con sujeción a lo que establecen los artículos siguientes.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Si en el plazo señalado el interesado o interesados o sus herederos no procedieren a formular los estatutos, la Junta de Beneficencia Privada los formulará de oficio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1148.
 
-Los estatutos contendrán:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- El nombre de la institución;
-
-II.- Los bienes que constituyan el patrimonio de la fundación o bien, la forma de exhibir y recaudar los fondos de la asociación;
-
-III.- La clase de operaciones que deberá verificar la institución para sostenerse, sujetándose a las limitaciones que establece la ley;
-
-IV.- La clase de establecimientos de utilidad pública que deberá sostener la institución y el servicio benéfico que en ellos se deba impartir;
-
-V.- La clase de servicio benéfico que se deberá impartir por la institución, cuando no vaya a sostener establecimientos de utilidad pública;
-
-VI.- Los requisitos que deberán exigirse a las personas que pretendan disfrutar de los beneficios que se impartirán;
-
-VII.- La persona o personas que deberán desempeñar el patronato, Junta o consejo de la institución, así como los casos y la forma de sustituirlas.
-
-Este derecho es exclusivo de los fundadores. Cuando éstos no lo ejerciten, los estatutos no contendrán el requisito que exige esta fracción, sino que la designación y sustitución de los patronos se regirá por las disposiciones de este Código;
-
-VIII.- Las disposiciones que el fundador o fundadores consideren necesarias para la cabal realización de su voluntad y las reglas para desarrollarlas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1149.
 
-La Junta examinará el proyecto de estatutos, y si los encuentra deficientes o defectuosos, hará las observaciones procedentes al fundador o fundadores, para que éstos corrijan el proyecto y le envíen uno definitivo. Si la Junta aprueba los estatutos, expedirá al fundador o fundadores, una copia certificada de ellos para que se protocolicen ante notario público para que éste inscriba la escritura correspondiente en el Registro Público de la Propiedad, si entre los bienes de las instituciones figuran inmuebles.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1150.
 
-Las instituciones de beneficencia privada se considerarán con personalidad jurídica desde que se dicte la determinación a que se refiere el artículo 1147 pero los patronatos de ellas iniciarán su actuación después de que se protocolicen los estatutos.
-
-Antes de la protocolización, la Junta de Beneficencia Privada ejercitará los derechos que correspondan a las referidas instituciones.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO IV. DE LA CONSTITUCION DE LAS FUNDACIONES POR TESTAMENTO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1151.
 
-Solamente las fundaciones, transitorias o permanentes, pueden constituirse por testamento.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1152.
 
-Cuando una persona deje sus bienes por testamento para crear una fundación de beneficencia privada no podrá alegarse la falta de personalidad de ésta, conforme a los artículos 1216, fracción I y 1217 del Código Civil.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1153.
 
-Si el testador omitió todos o parte de los datos a que se refiere el artículo 1145 la Junta de Beneficencia Privada suplirá los faltantes, procurando ceñirse en todo a la voluntad del fundador manifestada en el testamento.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1154.
 
-Cuando la Junta de Beneficencia Privada tenga conocimiento de que ha fallecido alguna persona cuyo testamento disponga la constitución de una fundación, designará un representante para que denuncie la sucesión, si es que los herederos o demás interesados no han cumplido con esta obligación.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1155.
 
-El albacea o ejecutor testamentario estará obligado a presentar a la Junta de Beneficencia Privada un escrito que contenga los datos que exige el artículo 1145 con una copia certificada del testamento, dentro del mes siguiente a la fecha en que haya causado ejecutoria el auto de declaratoria de herederos.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Si el albacea o ejecutor no dieren cumplimiento a lo que este artículo dispone, el Juez lo removerá de su cargo, a petición del representante de la Junta, previa la sustanciación de un incidente que se tramitará en la forma que previene el Código de Procedimientos Civiles.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1156.
 
-El albacea o ejecutor substituto estará obligado a remitir esos documentos dentro de los ocho días siguientes a la fecha en que hubiere aceptado el cargo, y vencido este plazo si faltare al cumplimiento de esta obligación, será removido por la misma causa que su antecesor.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1157.
 
-Presentado el escrito a que se refieren los artículos 1145 y 1155 la Junta examinará si los datos que consigna están de acuerdo con lo dispuesto en el testamento por el fundador y si completan la información que exige el artículo 1145. Si el testamento fue omiso, procederá de acuerdo con lo que dispone el artículo 1153 y comunicará su resolución al albacea o ejecutor, para que éste cumpla con las obligaciones que a los fundadores imponen los artículos 1147 y 1148 y proceda de conformidad con el artículo 1149.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1158.
 
-La fundación constituida conforme a lo dispuesto en este Capítulo, será parte en el juicio testamentario, hasta que éste se concluya y se le haga entrega total de los bienes que le correspondan.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1159.
 
-El patronato de las fundaciones así constituidas, no podrá dispensar a los albaceas o ejecutores de garantizar su manejo o de rendir cuentas, y exigirá a los mismos que constituyan a favor de la fundación que ellos representan, una hipoteca necesaria, en el caso a que se refieren los artículos 2828, fracción IV y 2831 del Código Civil.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1160.
 
-Se exceptúa de lo dispuesto en la primera parte del artículo anterior, el caso de que el patrono o patronos de la fundación interesada desempeñen los cargos de albacea o ejecutor, pero subsistirá para ellos la obligación de rendir cuentas y de constituir la hipoteca necesaria sobre el legado que corresponda a la fundación por voluntad del testador. El patronato interino que se designe cuidará que se cumpla con lo que dispone este artículo.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1161.
 
-Si el albacea o ejecutor no promoviere la formación del inventario dentro del término que señala el Código de Procedimientos Civiles, el patronato procederá de acuerdo con lo que dispone el Capítulo V del Título Quinto del Libro Tercero del Código Civil.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1162.
 
-Cuando en el juicio no sea posible designar sustituto de los albaceas o ejecutores testamentarios, porque hayan sido removidos, el juez designará un albacea judicial a propuesta en terna de la Junta de Beneficencia Privada, que durará en su encargo hasta que se haga entrega a dicha Junta de los bienes heredados o legados, para que ésta a su vez, los entregue a la institución beneficiada con la herencia o con el legado.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Los herederos están facultados para hacer entrega en cualquier tiempo a la junta de Beneficencia Privada, de los bienes heredados o legados en favor de la beneficencia privada en general, o de alguna institución particular.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1163.
 
-En el caso del artículo anterior, el juez requerirá a la Junta por medio de notificación personal a su representante, para que le presente la terna respectiva dentro del término de ocho días, apercibida de que, de no hacerlo, lo designará él conforme a las disposiciones de los Códigos Civil y de Procedimientos Civiles.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1164.
 
-El nombramiento de albacea o ejecutor hecho por el juez en contravención a lo que disponen los dos artículos anteriores, será nulo, debiéndose declarar así, en su caso, mediante la tramitación de un incidente.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1165.
 
-El albacea o ejecutor no podrá gravar ni enajenar los bienes de la testamentaría en que tenga interés la beneficencia privada, sin previa autorización de la Junta de ese ramo. Si lo hace, independientemente de los datos y perjuicios que se le exijan por la institución o instituciones interesadas, será removido de su cargo por el juez a petición del patronato que representa a aquéllas o del representante de la Junta.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1166.
 
-El patrono o patronos de las fundaciones constituidas en la forma prevenida por este Capítulo, estarán obligados a ejercitar oportunamente los derechos que correspondan a éstas, de acuerdo con los Códigos Civil y de Procedimientos Civiles.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO V. DE LOS BIENES QUE CORRESPONDEN A LA BENEFICENCIA PRIVADA POR DISPOSICION TESTAMENTARIA O DE LA LEY
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1167.
 
-Cuando el testador deje todos o parte de sus bienes a la beneficencia privada, sin designar concretamente la institución favorecida, corresponderá a la Junta de ese ramo señalar la institución o instituciones que deban heredar, siempre que el capital legado o heredado no baste para la creación de una institución más.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-En este caso, la junta comunicará su resolución al juez por conducto de su representante, designado conforme el artículo 1163 y aquél hará la declaración de herederos que corresponda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1168.
 
-Cuando la cuantía de los bienes permita la constitución de una nueva institución de beneficencia privada, la Junta procederá en la forma siguiente:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- Formulará los estatutos con sujeción a lo que dispone el artículo 1148;
-
-II.- Nombrará un patronato que se encargará de protocolizar inmediatamente los estatutos y, en su caso, de registrar la escritura.
-
-El patronato se constituirá en el juicio testamentario en representación de la fundación así creada, la cual se tendrá por el juez como heredera o legataria, según el caso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1169.
 
-Cuando el testador deje todos o parte de sus bienes a una institución de beneficencia privada, ésta se apersonará en el juicio sucesorio por medio de su patronato, que tendrá las obligaciones a que se refiere el artículo 1166.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1170.
 
-De acuerdo con lo que dispone el artículo 1233 del Código Civil, las herencias o legados en favor de las iglesias secretas o instituciones religiosas y la disposición testamentaria hecha en favor de los pobres en general, sin designación de personas, o del alma, se entenderán en favor de la beneficencia privada, y se regirán por lo que disponen los artículos 1167 y 1168.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1171.
 
-Las fundaciones por crear, en el caso del artículo 1168 tendrán capacidad para heredar, conforme a lo dispuesto en el artículo 1152.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1172.
 
-Las instituciones no podrán aceptar o repudiar las herencias o los legados que les correspondan conforme a lo dispuesto en este Capítulo, sin la autorización previa de la Junta de Beneficencia Privada.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO VI. DONATIVOS HECHOS A INSTITUCIONES DE BENEFICENCIA PRIVADA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1173.
 
-Los donativos que se hagan a las instituciones de beneficencia privada sólo podrán aceptarse por éstas con autorización previa de la Junta.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1174.
 
-La autorización de que habla el artículo anterior sólo será necesaria cuando el donativo exceda de mil pesos, y cuando sean onerosos o condicionales.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1175.
 
-La persona que quiera hacer un donativo que quede comprendido en lo que dispone el artículo anterior, se dirigirá por escrito al patronato de la institución que desee beneficiar, haciéndole el ofrecimiento, y éste lo comunicará a la Junta, con el objeto que indica el artículo 1173.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1176.
 
-En el caso del artículo 1173 una vez concedida la autorización de la Junta, se considerará perfeccionado el donativo, sin perjuicio de que se cumplan las formalidades establecidas en el artículo 1149.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1177.
 
-Cuando el donativo no sea de los comprendidos en el artículo 1174 bastará con que la institución ponga el hecho en conocimiento de la Junta de Beneficencia Privada.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1178.
 
-Si el donativo no consiste en dinero, se hará el avalúo de la cosa para el efecto de que se determine su cuantía y se cumpla por los patronatos con lo dispuesto en este Capítulo.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ## TITULO SEGUNDO. ADMINISTRACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
 ### CAPITULO I. REPRESENTACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA, DE LOS FUNDADORES, PATRONOS, JUNTAS O CONSEJOS QUE LAS ADMINISTRAN
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1179.
 
-Son fundadores los filántropos que disponen de todos o parte de sus bienes para crear una o más instituciones de beneficencia privada.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Se equiparan a los fundadores las personas que constituyan asociaciones permanentes o transitorias de beneficencia privada, que firmen, antes de enviarla a la Junta, la solicitud a que se refiere el artículo 1145 de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1180.
 
-Son patronos las personas a quienes corresponde la representación legal y administración de las instituciones de beneficencia privada.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1181.
 
-El conjunto de patronos de una institución de beneficencia privada se denomina patronato.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1182.
 
-El ejercicio del cargo de patrono se considera como un mandato, y, en consecuencia:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- No confiere derechos posesorios, de acuerdo con lo establecido en el Código Civil;
-
-II.- Hace responsable a la persona que lo desempeñe, en los términos que establecen este Código y los Códigos Civil y Penal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1183.
 
-El cargo de patrono únicamente puede ser desempeñado por la persona nombrada por el fundador, o, en su caso, por la Junta de Beneficencia Privada, en lo que concierne a la administración de una institución, pero los patronos podrán otorgar poderes generales para pleitos y cobranzas, o especiales, conforme a los artículos 2452 y 2453 del Código Civil.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1184.
 
-Los poderes que otorguen los patronos en los términos del artículo anterior, no tendrán eficacia alguna:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- En cuanto autoricen a los apoderados para ejercer actos de dominio; y
-
-II.- En cuanto los faculten para administrar bienes de la institución.
-
-Se exceptúa de lo dispuesto en este artículo el caso en que el fundador sea el patrono de la institución.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1185.
 
-Los fundadores tendrán derecho respecto a las instituciones que ellos constituyan:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- Para determinar la clase de servicio que han de prestar los establecimientos dependientes de la institución;
-
-II.- Para fijar la categoría de personas que deban aprovecharse de dichos servicios y para determinar los requisitos de admisión de aquéllas en esos establecimientos;
-
-III.- Para nombrar a los patronos y para determinar la forma de sucesión de los mismos, con la limitación que establece la fracción II del artículo 1187;
-
-IV.- Para hacer por sí o por personas que ellos designen, los primeros estatutos; y
-
-V.- Para desempeñar durante su vida el patronato de las instituciones, menos cuando ellos se hallen en el caso de la fracción II del artículo 1187;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1186.
 
-Además de los fundadores, podrán desempeñar el cargo de patronos de las instituciones de beneficencia privada:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- Las personas nombradas por el fundador o designadas conforme a las reglas establecidas por él en los estatutos; y
-
-II.- Las personas nombradas por la Junta de Beneficencia Privada, en los siguientes casos:
-
-a).- Cuando el patronato o patronos designados en la forma prevenida por la fracción anterior, sean removidos judicialmente, mientras el juicio sumario sobre remoción se concluye por sentencia que cause ejecutoria.
-
-En este caso, el patrono o patronos nombrados por la Junta tendrán el carácter de interinos;
-
-b).- Cuando por cualquier causa no se haya hecho el nombramiento o la designación del patrono o patronos por las personas que representen a las instituciones, en la forma establecida por el fundador para sustituir al patronato;
-
-c).- Cuando se haya agotado la lista de las personas designadas por el fundador o fundadores y no se haya previsto la forma de sustitución del patronato, si éste se encuentra acéfalo;
-
-d).- Cuando se trate de instituciones de beneficencia privada fundadas con anterioridad a la vigencia de este Código, si los fundadores omitieren designar el patronato y el modo de substituirlo, o cuando la designación hecha por los fundadores haya recaído en personas incapacitadas para desempeñarlo conforme a la fracción II del artículo siguiente;
-
-e).- Cuando las personas designadas conforme a los estatutos estén ausentes o no puedan ser habidas y en éstos no se haya previsto la forma de substituirlas;
-
-En este caso, el patronato designado por la Junta tendrá también el carácter de interino, mientras se obtiene la declaración de ausencia de esas personas, conforme a lo dispuesto en el artículo 650 del Código Civil, o se acredita ante la Junta su fallecimiento con el acta correspondiente, por quien se considere con derecho al patronato;
-
-f).- Cuando el patrono o patronos desempeñen el cargo de albacea en las testamentarias en que tengan interés las instituciones que ellos administren.
-
-En este caso, el patrono o patronos designados por la Junta se considerarán interinos mientras dura el impedimento de los propietarios y éstos rinden las cuentas del albaceazgo;
-
-g).- Las personas nombradas en el caso del artículo 1190.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1187.
 
-No podrán desempeñar el cargo de patronos de una institución:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- Las personas que desempeñen igual cargo en otra institución;
-
-II.- Los ministros, corporaciones o instituciones religiosas de cualquier credo o sus asimilados, aunque aquéllos y éstos no estén en ejercicio.
-
-Para los efectos de esta fracción, se considerarán como asimilados a los ministros, a las instituciones o a las corporaciones religiosas que funcionen de hecho, a todas aquellas personas, instituciones o corporaciones que dependan directamente del clero regular o secular, o que, habiendo dependido de él, no se hayan desvinculado de éste en lo absoluto;
-
-III.- Las personas que desempeñen cargos de elección popular, el Secretario General de Gobierno, el Oficial Mayor, el Tesorero General del Estado, los Directores y Jefes de Departamento o de Oficina, los empleados federales, el Presidente, los Vocales y los empleados de la Junta de Beneficencia Privada;
-
-IV.- Las personas morales; y
-
-V.- Los que hayan sido removidos de otro patronato por sentencia ejecutoriada, dictada por la autoridad judicial, hayan sido suspendidos o privados de sus derechos civiles o condenados a sufrir una sanción por la comisión de alguna infracción antisocial contra la propiedad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1188.
 
-Cuando una persona haya sido designada como patrono de varias instituciones, elegirá a requerimiento de la Junta de Beneficencia Privada, aquélla en donde desee prestar sus servicios. Si no hace uso de este derecho en un plazo de quince días a contar de la fecha de la excitativa de la Junta, ésta resolverá el que deberá desempeñar.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1189.
 
-Los fundadores podrán ser patronos de todas las instituciones que constituyan, menos en el caso de la excepción de la fracción V y del artículo 1185.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1190.
 
-En caso de controversia sobre el ejercicio del patronato y entre tanto se resuelve el litigio, la Junta de Beneficencia Privada designará quien de los contendientes deberá ejercer el cargo provisionalmente.
-
-La Junta mantendrá al nombrado en el ejercicio del patronato por los medios que las leyes autorizan.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO II. DE LAS OBLIGACIONES DE LOS PATRONATOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1191.
 
-Los patronatos estarán obligados a:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- Cumplir con lo que disponen los artículos 1121, 1194, 1195, 1197, 1202, 1229 y disposiciones reglamentarias;
-
-II.- Representar a la institución en el caso que señala el artículo 1169;
-
-III.- Cumplir con lo que dispone el artículo 1159 y con lo que instituye el 1160;
-
-IV. Proceder, en su caso, de acuerdo con lo que dispone el artículo 1161;
-
-V.- Cumplir con lo que dispone el artículo 1166;
-
-VI.- Cumplir con lo que dispone la fracción II del artículo 1168;
-
-VII.- Cumplir con la obligación que establece el artículo 1172;
-
-VIII.- Solicitar de la Junta de Beneficencia Privada las autorizaciones a que se refieren los artículos 1175, 1201 y disposiciones reglamentarias;
-
-IX.- Cumplir y hacer que se cumpla la voluntad del fundador;
-
-X.- Conservar y mejorar los bienes de las instituciones;
-
-XI.- Guardar y hacer que se guarde orden en los establecimientos dependientes de las instituciones y vigilar que no se contravengan los reglamentos sanitarios y de policía;
-
-XII.- Nombrar empleados de la institución a personas aptas y de reconocida honradez, acatando la voluntad de los fundadores, cuando éstos hayan establecido que de preferencia se utilicen los servicios de determinadas personas;
-
-XIII.- Abstenerse de nombrar como empleados de las instituciones a las personas mencionadas en la fracción II del artículo 1187;
-
-XIV.- Administrar los bienes de las instituciones, de acuerdo con lo que establece este Código y con lo que dispongan los estatutos;
-
-XV.- Remitir a la Junta los documentos y rendirle oportunamente los informes a que se refiere el Capítulo III de este Título;
-
-XVI.- Practicar las operaciones que determinen los estatutos de las instituciones a su cargo, y las que autorice este Código;
-
-XVII.- Ejercitar las acciones y defensas que correspondan a éstas y hacer que se cumpla el objeto para que fueron constituidos, acatando estrictamente sus estatutos;
-
-XVIII.- No gravar ni enajenar los bienes que pertenezcan a esas instituciones, ni comprometerlos como mutuarias sino en casos de necesidad o evidente utilidad, previa la calificación que de esa circunstancia haga la Junta;
-
-XIX.- No cancelar las hipotecas constituidas a favor de las instituciones cuando no hayan vencido los plazos estipulados en los contratos sin la autorización previa de la Junta;
-
-XX.- No nombrar personas que tengan parentesco con ellos, cualquiera que sea el grado, para desempeñar los cargos de director, administrador, cajero, contador o tesorero, ni tampoco a personas ligadas entre sí por consanguinidad o afinidad dentro de cualquier grado;
-
-XXI.- No pagar deudas líquidas o no vencidas sin la autorización previa de la Junta;
-
-XXII.- No entregar dinero, mercancías o valores que no estén amparados con documentos, siempre que el monto de aquél o el valor de éstos exceda de veinte pesos;
-
-XXIII.- No comprar o arrendar en almoneda, o fuera de ella, los bienes de las instituciones que administren, ni hacer contrato alguno respecto de ellos, para sí, para su mujer, hijos ni parientes por consanguinidad o afinidad en cualquier grado;
-
-XXIV.- Obedecer las instrucciones de la Junta de Beneficencia Privada cuando éstas tiendan a corregir un error o una práctica viciosa;
-
-XXV.- Cumplir con las demás obligaciones que les impone este Código y sus reglamentos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1192.
 
-Los fundadores, directores o presidentes de las juntas o consejos de las asociaciones de beneficencia privada tendrán las mismas obligaciones que establece el artículo anterior, y en consecuencia, serán igualmente responsables en caso de desobediencia.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO III. DE LAS OPERACIONES QUE PUEDAN REALIZAR LAS INSTITUCIONES DE BENEFICENCIA PRIVADA PARA ALLEGARSE RECURSOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1193.
 
-Los patronatos podrán realizar toda clase de operaciones, exceptuando las que se prohiben en este Capítulo.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1194.
 
-Los patronatos no podrán adquirir más bienes raíces que los indispensables para el objeto de las instituciones inmediata o directamente destinadas a hospitales, escuelas, asilos, orfanatorios y, en general, toda clase de establecimiento de utilidad pública que ellos sostengan.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1195.
 
-Los inmuebles que adquieran las instituciones por herencia, legado, donación o adjudicación en juicio, que no destinen al objeto que indica el artículo anterior, estarán obligados los patronatos a enajenarlos a la brevedad posible.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1196.
 
-En el caso del artículo anterior, la Junta de Beneficencia Privada vigilará que las instituciones se deshagan de los bienes que adquieran o que hayan adquirido antes o después de la vigencia de la Constitución General de la República, de 5 de febrero de 1917, procurando que esas enajenaciones no se hagan en forma simultánea, y cuidando, en todo caso, de que el patrimonio de aquéllas no sufra disminución.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1197.
 
-Los patronatos no harán en ningún caso préstamos de dinero con garantía de simples firmas, ni operaciones con acciones o valores sujetos a fluctuaciones del mercado.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1198.
 
-Cuando los patronatos presten con garantía hipotecaria, la Junta de Beneficencia Privada, al recibir la comunicación del notario solicitando la autorización de que habla el artículo 1218, o lo solicite dicho patronato, aprobará la operación, siempre que la misma no exceda de diez veces el importe de la renta neta actual del inmueble y que el pago se estipule en amortizaciones semestrales o de más frecuente periodicidad, y el plazo no exceda de diez años.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1199.
 
-La Junta de Beneficencia Privada tampoco autorizará la operación si el inmueble que vaya a garantizar el préstamo reporta algún gravamen anterior o si el interés pactado es menor que el legal.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1200.
 
-Los patronatos de las instituciones de beneficencia privada podrán solicitar donativos y organizar colectas, rifas, tómbolas o loterías, y en general, toda clase de festivales o de diversiones a condición de que destinen los productos que obtengan por esos medios a la ejecución de actos propios de sus fines.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1201.
 
-En cualquiera de los casos de que habla el artículo anterior, los patronatos estarán obligados a solicitar previamente las autorizaciones respectivas a la Junta de Beneficencia Privada.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1202.
 
-Cuando se trate de colectas, se observará por la Junta de Beneficencia Privada y por los patronatos lo establecido por el Reglamento de la materia.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ## TITULO TERCERO. VIGILANCIA DEL ESTADO EN LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
 ### CAPITULO I. DE LA JUNTA DE BENEFICENCIA PRIVADA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1203.
 
-La Junta de Beneficencia Privada vigilará:
-
-I.- Que los patronatos de las instituciones cumplan fielmente con lo que dispongan los estatutos de éstas;
-
-II.- Que los patronatos empleen los ingresos con estricto apego a lo que disponga el presupuesto de egresos;
-
-III.- Que los capitales productivos de las instituciones se impongan de acuerdo con las bases del Capítulo III del Título anterior, y con los requisitos que establezcan sus estatutos;
-
-IV.- En general, que las operaciones que realicen las instituciones de acuerdo con lo que dispone el mismo Capítulo III, sean costeables para ellas y llevadas a cabo con las debidas seguridades;
-
-V.- Que los patronatos administren las instituciones con diligencia;
-
-VI.- Que se cumplan las disposiciones de este Código y sus reglamentos;
-
-VII.- En los demás casos que este Código lo establece.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ###### ARTICULO 1204.
 
@@ -6759,337 +6739,363 @@ VII.- En los demás casos que este Código lo establece.
 
 ### CAPITULO II. FUNCIONES DE LA JUNTA DE BENEFICENCIA PRIVADA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1212.
 
-La Junta de Beneficencia Privada, para ejercer la vigilancia que le corresponde, desarrollará su actividad en tres aspectos:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- El de inspección;
-
-II.- El legal; y
-
-III.- El de gestión interior.
-
-Las secciones o empleados encargados de desempeñar cada una de esas actividades dependerán directamente del Secretario General de la Junta, que será el jefe de las oficinas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1213.
 
-La función de inspección se llevará acabo por medio de los Vocales, los contadores que exijan las necesidades del servicio y por el personal administrativo que sea necesario.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1214.
 
-Las obligaciones de los inspectores contadores serán de acuerdo a lo que establezca el reglamento respectivo.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1215.
 
-La función legal tendrá por objeto:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- El estudio y dictamen de todos los asuntos jurídicos que se presenten a la consideración de la Junta;
-
-II.- Coadyuvar ante las autoridades judiciales o administrativas en todos los asuntos de las instituciones, cuando su intervención se acuerde por la Junta, por el Presidente o por el Secretario de ésta;
-
-III.- Iniciar y seguir los juicios que afecten a la beneficencia privada en general.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1216.
 
-La función de gestión interior de la Junta tendrá por objeto el control del personal, la entrada y salida de correspondencia y fondos, el turno y despacho de éstos, previo acuerdo con el Secretario General, el registro de créditos hipotecarios, de arrendamientos, la concentración de los datos producidos por las instituciones para fines estadísticos, el archivo y el mobiliario y equipo de la oficina.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Dentro de este sector de actividades, corresponderá a la Junta, con ayuda de un ingeniero o experto en la materia, hacer los avalúos de los inmuebles que como garantía hipotecaria ofrezcan los particulares a las instituciones para obtener algún préstamo, los de los bienes raíces que pertenezcan a éstas y, en general, todos los asuntos de esa índole que se presenten a la consideración de la Junta.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1217.
 
-Las funciones especificadas en los artículos anteriores se llevarán a cabo en la forma y términos establecidos por este Código y el reglamento respectivo.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO III. OBLIGACIONES DE LOS NOTARIOS Y DE LOS JUECES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1218.
 
-Los notarios no autorizarán ningún contrato en el que intervenga alguna institución de beneficencia privada, sin la autorización escrita de la Junta de ese ramo, que estarán ellos obligados a pedir a ésta en cada caso.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1219.
 
-Se exceptúa de lo dispuesto en el artículo anterior el caso a que se refiere el artículo 1183.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1220.
 
-Los notarios deberán remitir a la Junta de Beneficencia Privada, dentro de los ocho días siguientes a la fecha de su autorización, una copia autorizada de las escrituras que se otorguen en su protocolo, en las que intervenga alguna institución de beneficencia privada.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-En el caso de las escrituras que se otorguen ante ellos, y que conforme a ésta o a otras leyes, deban inscribirse en el Registro Público de la Propiedad, estarán obligados a gestionar su registro dentro de los ocho días siguientes a la fecha del otorgamiento de las mismas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1221.
 
-Para los efectos de los artículos 1198 y 1199, la solicitud del notario a la Junta de Beneficencia Privada deberá tener, bajo la responsabilidad de aquél, los datos relativos a gravámenes anteriores, monto del préstamo y tipo de interés pactado.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1222.
 
-Los notarios que autoricen algún testamento público abierto que contenga disposiciones para constituir una institución de beneficencia privada están obligados a dar aviso a la Junta de la existencia de esas disposiciones y a remitirle copia siempre de ellas dentro del término de ocho días, contados desde la fecha en que lo hayan autorizado.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1223.
 
-Cuando se revoque un testamento que contenga las disposiciones a que se refiere el artículo anterior, el notario que autorice el nuevo instrumento dará aviso a la Junta dentro del mismo término que señala dicho artículo.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1224.
 
-Los jueces del ramo civil ante quienes se promuevan diligencias para la apertura de un testamento cerrado que contenga disposiciones que interesen a la beneficencia privada, darán aviso a la Junta de la existencia de esas disposiciones, dentro de los ocho días siguientes a la fecha en que ordenen la protocolización del testamento.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1225.
 
-El mismo aviso y en idéntico plazo están obligados a dar los jueces en los casos en que ordenen la protocolización de cualquiera otra clase de testamentos que contengan disposiciones que interesen a la beneficencia privada en general o a una institución de ese ramo, en particular.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1226.
 
-Los jueces tienen asimismo, obligación de dar aviso a la Junta de la radicación de los juicios sucesorios, siempre que los testamentos contengan disposiciones relacionadas con la beneficencia privada.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-En esos casos indicarán a la Junta el día y la hora señalados para la celebración de la junta de herederos, expresando el nombre del albacea y dándole a conocer las cláusulas testamentarias que correspondan.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1227.
 
-Los jueces del ramo penal están obligados a dar aviso a la Junta de Beneficencia Privada de los procesos en averiguación de los cuales resulte que alguna institución de ese ramo haya sido perjudicada, a fin de que aquélla se constituya en tercero coadyuvante del Ministerio Público.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ## TITULO CUARTO. MODIFICACION Y EXTINCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
 ### CAPITULO I. DE LA REFORMA DE LOS ESTATUTOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1228.
 
-La Junta de Beneficencia Privada estará facultada para autorizar a los patronatos que introduzcan modificaciones en sus estatutos, siempre que con ellas no se altere substancialmente la voluntad de los fundadores y que esas modificaciones sean indispensables para el funcionamiento correcto de la institución. El objeto de la institución sólo podrá variarse por la Junta, a petición de los fundadores, si vivieren, y con la anuencia del Patronato.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1229.
 
-La Junta de Beneficencia Privada, previo estudio y dictamen del caso, resolverá lo que corresponda, sujetándose a lo que dispongan los artículos 1148 y 1149.
-
-En este caso, los patronatos tendrán las obligaciones que imponen dichos artículos a los fundadores.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO II. DE LA EXTINCION DE LAS INSTITUCIONES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1230.
 
-Las instituciones pueden extinguirse a petición de sus patronatos, por declaratoria que haga la Junta de Beneficencia Privada, con la conformidad del Ejecutivo del Estado. Esta podrá también declarar de oficio, la extinción de una institución de beneficencia privada.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1231.
 
-Cuando la Junta de Beneficencia Privada reciba del patronato de una institución la solicitud para la extinción de ésta, recabará los datos e informes necesarios, para resolver si la institución se encuentra o no comprendida en lo dispuesto en el artículo 1234.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-En caso afirmativo, hará la declaratoria correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1232.
 
-Las instituciones transitorias de beneficencia privada se extinguirán cuando haya concluido el plazo señalado para su funcionamiento, o cuando haya cesado la causa que motivó su creación.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-En este caso, la Junta de Beneficencia Privada y los patronos se sujetarán al procedimiento que establecen los artículos siguientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1233.
 
-Las instituciones de beneficencia privada no podrán ser declaradas en quiebra o liquidación judicial ni acogerse a los beneficios de ésta.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1234.
 
-Las instituciones permanentes o transitorias de beneficencia privada, se extinguirán:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- Cuando sus ingresos lleguen a ser insuficientes para cubrir las erogaciones que demande su sostenimiento, en virtud de haberse reducido permanentemente el patrimonio de la institución en tal forma que resulte insuficiente para cumplir el objeto de la misma institución en los términos previstos por su fundador;
-
-II.- Cuando su pasivo exceda de su activo;
-
-III.- Cuando se descubra que se constituyeron quebrantando las disposiciones legales que debieron regir su nacimiento. En este caso, la declaratoria de extinción no afectará la legalidad de los actos celebrados por la institución con terceros y sin perjuicio de que los bienes que constituyan su patrimonio se destinen por la Junta a fines de beneficencia privada de conformidad con las disposiciones de este mismo Código; y
-
-IV.- Cuando su finalidad u objeto pierda el carácter de utilidad pública que se les reconoce al concedérseles personalidad jurídica. En este caso, la Junta acordará que el patronato respectivo formule un proyecto de reformas a esos estatutos, y si este no lo hiciere dentro del plazo de quince días, la misma Junta decretará su extinción y procederá en los términos de la parte última de la fracción anterior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1235.
 
-La declaratoria de extinción que de una institución de beneficencia privada haga la Junta, privará a aquélla de su carácter de auxiliar del Estado para el fin de utilidad pública que se le reconoció y sólo podrá ejercitar, en lo sucesivo, los derechos y cumplir con las obligaciones indispensables para su liquidación.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1236.
 
-En los casos a que se refieren las fracciones I, III y IV del artículo 1234 el activo y pasivo de la institución extinta pasarán a la diversa institución señalada por la Junta en los términos de este Código.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-En el caso de la fracción II del mismo precepto, hecha la declaración de extinción por la Junta de Beneficencia Privada, se procederá a liquidar la institución, nombrándose al efecto un liquidador por el patronato y otro por la Junta.
-
-Cuando el patronato haya sido designado por la Junta, conforme a la fracción II del artículo 1186 el nombramiento de liquidador que corresponda hacer al patronato conforme a este artículo, lo hará el Procurador General de Justicia del Estado de Chihuahua.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1237.
 
-Los liquidadores serán pagados con fondos de la institución extinguida, y sus honorarios se regirán por la siguiente tarifa, según la cuantía del remanente:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Hasta $10,000.00, el 10%
-
-De $10,000.00 a $50,000.00, 5% más mil pesos por los primeros cincuenta mil, conforme a las cuotas precedentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1238.
 
-Son obligaciones de los liquidadores:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- Formar el inventario de todos los bienes de la institución;
-
-II.- Exigir de las personas que hayan fungido como patronos al declararse la extinción de la institución, una cuenta pormenorizada que comprenda el estado económico de ésta;
-
-III.- Presentar a la Junta de Beneficencia Privada cada treinta días un informe del proceso de la liquidación, y
-
-IV.- Cobrar, judicial o extrajudicialmente, lo que se deba a la institución y pagar lo que ésta adeude.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1239.
 
-Para el desempeño de las funciones que establece este Capítulo, los liquidadores acreditarán su personalidad con el nombramiento que se les haya expedido.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Todas las resoluciones y actos de los liquidadores se harán por ellos de común acuerdo, y los documentos y escritos que deban expedir o presentar llevarán la firma de ambos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1240.
 
-En caso de desacuerdo entre los liquidadores, éstos están obligados a someter los puntos de vista contrarios que tengan sobre determinado asunto, a la Junta de Beneficencia Privada, y ésta resolverá lo que deberán hacer.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1241.
 
-Practicada la liquidación, si hay remanente, se aplicará éste con sujeción a lo dispuesto por el fundador o fundadores; pero si éstos no hubieren dictado una disposición expresa al respecto cuando constituyeron la institución, los bienes pasarán a la institución o instituciones de beneficencia privada que elija la Junta de ese ramo, de preferencia entre las que tengan un objeto análogo a la extinguida.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009).
 
 ## TITULO QUINTO
 
 ### CAPITULO UNICO. DELEGACIONES DE BENEFICENCIA PRIVADA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1242.
 
-La Junta de Beneficencia Privada ejercitará directamente sus funciones en lo que respecta a las instituciones domiciliadas en la Capital del Estado y en igual forma las ejercitará en lo que toque a las establecidas fuera de la Capital, entre tanto no sea indispensable, a juicio de la misma, que el Gobernador del Estado nombre un delegado que la substituya en esas facultades.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1243.
 
-Los sueldos del delegado o delegados, así como los del personal que se designe, según las necesidades, serán pagados con cargo al Presupuesto de Egresos del Estado.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1244.
 
-Las oficinas que se establezcan por los delegados se denominarán Delegaciones de Beneficencia Privada y quedarán subordinadas técnica y administrativamente a la Junta.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1245.
 
-Las Delegaciones residirán en el lugar o lugares que determine el Gobernador.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ## TITULO SEXTO. RESPONSABILIDADES
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1246.
 
-Los delegados estarán obligados a enviar mensualmente a la Junta de Beneficencia Privada un informe estadístico pormenorizado de las actividades de la beneficencia privada en su jurisdicción.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1247.
 
-Las personas que contravengan lo dispuesto en la fracción I del artículo 1187 serán castigadas con quince días a un año de prisión y multa de diez a cien pesos.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1248.
 
-Las personas que se encuentren en el caso del artículo 1122 serán castigadas en los términos del artículo anterior.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1249.
 
-Las personas que contravengan lo dispuesto en el artículo 1123 serán castigadas con la pena de seis meses a seis años de prisión y multa de cincuenta a mil pesos. Las autoridades a que se refiere el artículo 1124 serán sancionadas, la primera vez, con suspensión en el ejercicio de su cargo por el plazo de un mes y con destitución, en caso de reincidencia. Se aplicará a las personas que infrinjan el párrafo segundo del artículo 1120 de este Código, seis meses a seis años de prisión y multa de cincuenta a mil pesos; pero antes de hacerse la consignación respectiva, la Junta está facultada para prevenir administrativamente a los infractores que cesen de efectuar las obras prohibidas.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1250.
 
-En el caso de los artículos precedentes, el juez, corte o tribunal, a quien competa conocer de los procesos respectivos, fijará el grado de responsabilidad de los acusados.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO II. RESPONSABILIDAD DE LOS PATRONOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1251.
 
-Los patronos serán responsables penal, civil y administrativamente de los actos contrarios a este Código que ejecuten en el ejercicio de sus cargos.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-En caso de que existan presunciones de que se ha cometido alguna infracción antisocial por los patronos, la Junta de Beneficencia Privada consignará los hechos a la Procuraduría General de Justicia del Estado, y las responsabilidades civiles en que ellos incurran, las exigirá conforme a lo previsto por el Capítulo II del Título Segundo de este Libro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1252.
 
-Las responsabilidades administrativas las reprimirá la Junta de Beneficencia Privada por los siguientes medios:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- Con amonestación;
-
-II.- Con remoción del cargo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1253.
 
-Los patronos se harán acreedores a la amonestación cuando la falta sea leve.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1254.
 
-La remoción de los patronos se promoverá por la Junta de Beneficencia Privada con sujeción a lo establecido por este Código y reglamentos.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1255.
 
-Además de los casos mencionados en el artículo anterior, los patronos serán removidos:
-
-I.- Cuando hayan sido amonestados en dos ocasiones por el mismo motivo si incurren nuevamente en esa falta;
-
-II.- Cuando se resistan a que se practiquen las visitas ordinarias o extraordinarias y se proceda conforme a las disposiciones reglamentarias;
-
-III.- Cuando cometan alguna infracción antisocial, por el solo hecho de que sean declarados formalmente presos por el juez de la causa;
-
-IV.- Cuando la Junta de Beneficencia Privada les indique la venta de inmuebles que haya adquirido la institución que ellos administren, antes o después de la vigencia de la Constitución de 1917, y se resistan a efectuarla, y
-
-V.- Cuando por negligencia suya se acumulen productos de capitales en poder de los deudores.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO III. RESPONSABILIDADES DE LOS MIEMBROS Y DE LOS EMPLEADOS DE LA JUNTA DE BENEFICENCIA PRIVADA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1256.
 
-Son causas de responsabilidad del Presidente, de los Vocales y del personal técnico de la Junta de Beneficencia Privada:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- Faltar sin causa justificada a las sesiones. El personal incurrirá en esta responsabilidad sólo cuando haya sido citado por la Junta para concurrir a las sesiones que se celebren;
-
-II.- Demorar indebidamente, por más de quince días, la presentación de los dictámenes e informes sobre los asuntos que les turnen para su estudio;
-
-III.- Adoptar o exigir de los patronos o de otras personas, regalos o retribuciones, en efectivo o en especie, para ejercer las funciones de su cargo, o por faltar al cumplimiento de sus obligaciones;
-
-IV.- Faltar al cumplimiento de las demás obligaciones que les imponga este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1257.
 
-Los inspectores contadores que rindan a la Junta informes que contengan hechos falsos, serán castigados con un mes a dos años de prisión y multa de diez a quinientos pesos.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1258.
 
-Los funcionarios y empleados de las Delegaciones de la Beneficencia Privada, serán responsables en los mismos términos que los miembros de la Junta.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1259.
 
-Las responsabilidades que se mencionan en los artículos anteriores se castigan:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-I.- En la vía administrativa, por medio de correcciones disciplinarias que impondrá el Gobernador del Estado, a propuesta del Presidente de la Junta o de los delegados, según el caso. Las responsabilidades de los delegados serán reprimidas por la Junta;
-
-II.- Penalmente, en el caso de la fracción III del artículo 1256 en cuyo caso se hará la consignación de los Vocales o empleados de la Junta por el Presidente de la misma; y si se trata de éste, la consignación la hará el Gobernador del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1260.
 
-Son correcciones disciplinarias:
-
-I.- La amonestación;
-
-II.- La suspensión sin goce de sueldo; y
-
-III.- La destitución.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO IV. DE LAS RESPONSABILIDADES DE LOS NOTARIOS Y DE LOS JUECES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
 ###### ARTICULO 1261.
 
-Los notarios que autoricen en sus protocolos escrituras en las que en alguna forma se afecten los intereses de las instituciones de beneficencia privada, sin la autorización escrita de la Junta de ese ramo, en los casos en que sea necesaria esa autorización conforme a este Código, serán suspendidos en el desempeño de su cargo por el Gobernador del Estado, durante un mes, por la primera vez. En caso de reincidencia serán destituidos.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1262.
 
-Los notarios que no cumplan con la obligación que les impone el segundo párrafo del artículo 1220 se harán acreedores a las sanciones que establece el artículo anterior.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1263.
 
-Los notarios que no envíen oportunamente a la Junta de Beneficencia Privada los testimonios de las escrituras que están obligados a remitirle, serán suspendidos en el ejercicio de sus cargos por el Gobernador del Estado, por quince días en la primera vez que incurran en esa omisión y durante un mes por cada vez subsecuente.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1264.
 
-Los notarios que no den a la Junta de Beneficencia Privada los avisos que establece este Código, incurrirán en la sanción del artículo anterior.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1265.
 
-Los jueces que no rindan a la Junta de Beneficencia Privada los informes prevenidos por este Código serán suspendidos en el desempeño de su cargo durante quince días la primera vez, y por un mes por cada vez subsecuente.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1266.
 
-Los jueces que conozcan de los juicios sucesorios y que no cumplan con las obligaciones que les imponen los artículos 1224 y 1225 se harán acreedores a la sanción que establece el artículo anterior.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### ARTICULO 1267.
 
-Las sanciones que establece este Código para los jueces, a petición de la Junta de Beneficencia Privada, se impondrán por el Supremo Tribunal de Justicia del Estado, en pleno y por mayoría de votos.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 SEPTIMA PARTE
 
@@ -11048,3 +11054,73 @@ El presente Decreto entrará en vigor inmediatamente después de su aprobación,
 ###### ARTÍCULO SEGUNDO.
 
 Para el cómputo de los plazos que rijan en los procedimientos dentro del Sistema de Justicia Penal Tradicional, se ajustarán a lo que establezca el artículo 69 del Código de Procedimientos Civiles, únicamente para el cómputo de éstos, hasta que dichos procesos se concluyan en forma definitiva.
+
+P.O. 28 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el año dos mil nueve, el organismo para la asistencia social pública (DIF Estatal), deberá elaborar y publicar lo siguiente:
+
+a) Las reglas y manuales de procedimientos que deberán seguirse para la prestación de los servicios en los establecimientos de asistencia social pública.
+
+b) Los lineamientos para garantizar la integralidad y calidad en la prestación de los servicios en los establecimientos de asistencia social privada que atiendan a personas menores de edad, adultas mayores y en situación de discapacidad.
+
+c) Los procesos a seguir para la obtención de la certificación por la calidad en la prestación de los servicios de asistencia social pública, en el ámbito municipal.
+
+d) Su estatuto orgánico, así como los manuales de procedimientos y servicios al público.
+
+e) Las reglas y disposiciones de carácter general en relación a la metodología, técnicas y procedimientos administrativos para los trámites de adopción.
+
+f) Los protocolos que sirvan como base para la debida atención de personas menores de edad en situación de desamparo, maltrato, omisión de cuidados y explotación en cualquiera de sus modalidades; mujeres en situación de maltrato o explotación en cualquiera de sus modalidades; adultas mayores en situación de desamparo, maltrato, abandono o explotación en cualquiera de sus modalidades; y en situación de discapacidad.
+
+###### ARTÍCULO TERCERO.
+
+Los trabajos para el diseño, acopio y conformación del Sistema Estatal de Información para la Asistencia Social, deberán dar inicio durante el año dos mil nueve.
+
+###### ARTÍCULO CUARTO.
+
+La constitución e instalación del Consejo Consultivo para la Asistencia Social Pública, deberá realizarse a más tardar en el mes de diciembre del año dos mil nueve.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo del Estado deberá tener diseñado, a más tardar en el mes de octubre del año dos mil nueve, el apartado en materia de asistencia social que formará parte del Programa Estatal de Desarrollo Social y Humano.
+
+###### ARTÍCULO SEXTO.
+
+Las relaciones laborales de los trabajadores con que cuente el organismo para la asistencia social pública a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Sistema para el Desarrollo Integral de la Familia del Estado de Chihuahua, continuarán rigiéndose hasta su conclusión por las disposiciones legales que les dieron origen.
+
+###### ARTÍCULO OCTAVO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Beneficencia Pública, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la asistencia social pública u organismo para la asistencia social pública, conocido actualmente como DIF Estatal.
+
+###### ARTÍCULO NOVENO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Procuraduría para la Defensa del Menor y la Familia, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Procuraduría de Asistencia Jurídica y Social, a través de sus correspondientes Subprocuradurías Especializadas.
+
+###### ARTÍCULO DÉCIMO.
+
+Los numerales 70 y 78 del ARTÍCULO PRIMERO del presente Decreto, entrarán en vigor a partir de los meses de mayo y septiembre del año dos mil once, respectivamente.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Las relaciones laborales de los trabajadores con que cuente la Junta de Asistencia Privada a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.
+
+###### ARTÍCULO DUODÉCIMO.
+
+La convocatoria pública para la elección de los representantes de las instituciones de asistencia social privada a que se refiere el numeral 70, fracción VI, del ARTÍCULO PRIMERO del presente Decreto, deberá establecer los dos rubros por los que participarán aquéllos por única vez con una duración de dos años, así como los que durarán en el cargo los tres años completos.
+
+La convocatoria pública respectiva se emitirá durante la segunda quincena del mes de marzo del año dos mil once.
+
+ARTÍCULO DECIMOTERCERO. Siempre que en cualquier otra disposición, ordenamiento o instrumento legalmente expedido se haga referencia a la Junta de Beneficencia Privada o Junta de Asistencia Privada, se entenderá que se trata ahora de la Junta de Asistencia Social Privada.
+
+Cuando la referencia se haga a Instituciones de Beneficencia Privada o Instituciones de Asistencia Privada, se entenderá que se hace alusión a las instituciones de asistencia social privada.
+
+ARTÍCULO DECIMOCUARTO. Los trabajos para el diseño, acopio y conformación del Subsistema de Información para la Asistencia Social Privada, deberán dar inicio durante el año dos mil nueve.
