@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-la-transparencia-y-el-acceso-a-la-50368"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-03"
-last_updated: "2006-05-03"
+last_updated: "2009-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 ---
 # REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA DEL AYUNTAMIENTO DE YAUTEPEC DE ZARAGOZA, MORELOS
 
-REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA DEL AYUNTAMIENTO DE: YAUTEPEC DE ZARAGOZA
+REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA DEL AYUNTAMIENTO DE YAUTEPEC DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 3 de mayo de 2006.
 
@@ -117,9 +117,11 @@ Tampoco comprende el proporcionar información que no exista o no se encuentre b
 
 ### Capítulo Segundo. De la Información Mínima del Ayuntamiento que debe ser Difundida de Oficio
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 8.
 
-Para dar publicidad a la información de oficio del Ayuntamiento se utilizará un sistema de cómputo accesible a su consulta, el cual se instalará en el edificio del Palacio Municipal, así como en la página de Internet del Ayuntamiento.
+Para dar publicidad a la información de oficio del Ayuntamiento se utilizará un sistema de cómputo, así como una página de Internet del Ayuntamiento, el cuál será accesible a su consulta en el módulo de información administrado por la Dirección de Planificación y Desarrollo, el cual se instalará en el edificio del Palacio Municipal.
 
 ###### Artículo 9.
 
@@ -353,141 +355,115 @@ Estando pendiente de resolver una solicitud a que se refiere el artículo anteri
 
 ### Capítulo Quinto. Unidad de Información Pública del Ayuntamiento
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 30.
 
-Se crea, como dependencia de la Secretaría Municipal, la Unidad de Información Pública del Ayuntamiento, como la oficina responsable de las solicitudes de información que formulen las personas ante el Gobierno Municipal.
+La Unidad de Información Pública se integrará con un titular, el cual será el Secretario Municipal, y que podrá ser removido y ratificado mediante acuerdo de cabildo, el cual deberá publicarse en el Periódico Oficial del Estado “Tierra y Libertad”, y que también se hará llegar al Instituto Morelense de Información Pública y Estadística. se dará a conocer el nombre del Titular de la Unidad de Información Pública, el lugar donde se encuentra ubicada la unidad, el horario de atención y el teléfono de la misma, se auxiliara de la Dirección de Planificación y Desarrollo para atender y gestionar las solicitudes de acceso a la información pública, así como todas las solicitudes que se realicen en el ejercicio de la acción de habeas data, con la finalidad de utilizar los recursos personales y administrativos de la propia dependencia, evitando así la contratación de nuevo personal, así como la implementación de programas que impliquen una carga presupuestal extraordinaria u onerosa.
 
-La unidad de información pública estará integrada por:
-
-1. EL JEFE DE LA UDIP General
-
-2. El Jefe De La UDIP Administrativa
-
-3. El Jefe De La UDIP Hacendaria
-
-4. El Jefe De La UDIP Jurídica
-
-Esta dependencia tendrá sus oficinas en las instalaciones del Palacio Municipal.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 31.
 
-Para ser JEFE DE LA UNIDAD General, se requiere:
+Las Unidad de Información Pública contará con el presupuesto, personal, apoyo técnico e instalaciones necesarias para realizar las funciones que señala la Ley de Información Pública.
 
-I. Tener conocimiento de la Ley de Información.
-
-II. Conocer las actividades que realiza el Ayuntamiento.
-
-III. Tener capacidad para revisar y orientar las solicitudes de acceso a la información pública estatal.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 32.
 
-EL JEFE DE LA UNIDAD General podrá ser retirado de su cargo por alguna de las causas siguientes:
+Las Unidad de Información Pública establecerá mecanismos de coordinación permanente entre sí, en el Marco del Sistema Estatal de Documentación y Archivo y en los términos establecidos por la Ley, por el Instituto y por las Leyes Orgánicas y Acuerdos de creación de las Entidades Públicas correspondientes.
 
-I. Sus actuaciones no se adecuen a lo dispuesto por la Ley de Información y este Reglamento.
-
-II. Las actividades que lleve a cabo manifiesten un desconocimiento de las funciones que realiza el Ayuntamiento Constitucional.
-
-III. No demostrar la capacidad necesaria para revisar y orientar las solicitudes de acceso a la información pública del Ayuntamiento Constitucional.
-
-IV. Haber sido sentenciado con pena privativa de libertad por delito intencional o por lo menos amonestado por responsabilidad administrativa.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 33.
 
-La UNIDAD General tendrá como objetivos principales los siguientes:
+El Titular de la Unidad de Información Pública podrá ser retirado de su cargo por alguna de las causas siguientes:
 
-I. Recibir y atender las solicitudes de información pública, conforme a las bases de la Ley de Información y el presente Reglamento.
+I.- Sus actuaciones no se adecuen a lo dispuesto por la Ley de Información y este Reglamento.
 
-II. Informar a los solicitantes, en forma sencilla y comprensible, sobre los trámites y procedimientos que deben efectuarse.
+II.- Las actividades que lleve a cabo manifiesten un desconocimiento de las funciones que realiza el Ayuntamiento constitucional.
 
-III. Informar sobre las entidades ante las que se puede acudir para solicitar orientación o formular quejas, consultas o reclamos sobre la prestación del servicio o sobre el ejercicio de las funciones o competencias a cargo de la autoridad de que se trate.
+III.- No demostrar la capacidad necesaria para revisar y orientar las solicitudes de acceso a la información pública del ayuntamiento constitucional.
 
-IV. Orientar sobre la manera de llenar los formatos que se requieran.
-
-V. Todas las demás que se establezcan en este Reglamento.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 34.
 
-La UNIDAD General tendrá las siguientes atribuciones:
+La Unidad de Información Pública tendrá como objetivos principales los siguientes:
 
-I. Velar por el cumplimiento de las obligaciones del Ayuntamiento Constitucional previstas en la Ley de Información y el presente Reglamento.
+I.- Recibir y atender las solicitudes de información pública, conforme a las bases de la Ley de Información y el presente Reglamento.
 
-II. Recabar y difundir la información de oficio a que se refiere el artículo 10 de este Reglamento.
+II.- Informar a los solicitantes, en forma sencilla y comprensible, sobre los trámites y procedimientos que deben efectuarse.
 
-III. Conocer, tramitar y resolver las solicitudes de acceso a la información que se presenten ante la UNIDAD GENERAL.
+III.- Informar sobre las entidades ante las que se puede acudir para solicitar orientación o formular quejas, consultas o reclamos sobre la prestación del servicio o sobre el ejercicio de las funciones o competencias a cargo de la autoridad de que se trate.
 
-IV. Asegurar el debido ejercicio del derecho de Hábeas Data y la protección de los datos personales, que sean del dominio del Ayuntamiento Constitucional.
+IV.- Orientar sobre la manera de llenar los formatos que se requieran.
 
-V. Elaborar, en coordinación con la Dirección de Planeación y Desarrollo, los formatos de las solicitudes de acceso a la información pública del Ayuntamiento Constitucional.
+V.- Orientar sobre la manera de utilizar el sistema Infomex.
 
-VI. Elaborar un registro de las solicitudes de acceso a la información pública del Ayuntamiento Constitucional y sus resultados.
+VI.- Todas las demás que se establezcan en este Reglamento.
 
-VII. Establecer, bajo instrucciones de la Secretaría Municipal, los procedimientos internos adecuados para procurar la mayor eficiencia y eficacia en la gestión de la información.
-
-VIII. Realizar una capacitación permanente para el buen desempeño de sus atribuciones.
-
-IX. Proponer la organización de seminarios, cursos y talleres, para los servidores públicos del Ayuntamiento Constitucional a fin de promover la cultura de información pública en los términos de la Ley de la materia y el presente ordenamiento.
-
-X. Colaborar con las demás entidades públicas en acciones relativas a la materia de la Ley de Información, impulsando en su caso la celebración de convenios por parte del Consejo.
-
-XI. Elaborar informe mensual de actividades y enviarlo al Consejo de Información Clasificada.
-
-XII. Administrar la Portal de Internet del Gobierno Municipal.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 35.
 
-La información pública, a elección del solicitante, podrá ser proporcionada de manera verbal o por escrito en cualquier medio de reproducción de los documentos en que se contenga.
+La Unidad de Información Pública tendrá las siguientes atribuciones:
+
+I.- Velar por el cumplimiento de las obligaciones del Ayuntamiento Constitucional previstas en la Ley de Información y el presente Reglamento.
+
+II.- Recabar y difundir la información de oficio a que se refiere el Artículo 10 de este Reglamento.
+
+III.- Conocer, tramitar y resolver las solicitudes de acceso a la información que se presenten ante la unidad de información.
+
+IV.- Asegurar el debido ejercicio del derecho de hábeas data y la protección de los datos personales, que sean del dominio del Ayuntamiento Constitucional.
+
+V.- Elaborar en coordinación con la Dirección de Planificación y Desarrollo, los formatos de las solicitudes de acceso a la información pública del Ayuntamiento Constitucional.
+
+VI.- Elaborar en coordinación con la Dirección de Planificación y Desarrollo un registro de las solicitudes de acceso a la información pública del Ayuntamiento Constitucional y sus resultados.
+
+VII.- Establecer bajo instrucciones de la Secretaría Municipal, los procedimientos internos adecuados para procurar la mayor eficiencia y eficacia en la gestión de la información.
+
+VIII.- Realizar una capacitación permanente para el buen desempeño de sus atribuciones.
+
+IX.- Proponer la organización en coordinación con la Dirección de Planificación y Desarrollo de Seminarios, Cursos y Talleres, para los Servidores Públicos del Ayuntamiento Constitucional a fin de promover la Cultura de Información Pública en los términos de la Ley de la Materia y el presente ordenamiento.
+
+X.- Colaborar con las demás entidades públicas en acciones relativas a la materia de la Ley de Información, impulsando en su caso la celebración de convenios por parte del consejo.
+
+XI.- Elaborar en coordinación con la Dirección de Planificación y Desarrollo un Informe mensual de actividades y enviarlo al Consejo de Información Clasificada.
+
+XII.- Vigilar en coordinación con la Dirección de Planificación y Desarrollo el Portal de Internet del Gobierno Municipal.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 36.
 
-El Gobierno Municipal, a través de la UNIDAD General establecerá relaciones de cooperación y coordinación con cualquiera de las entidades públicas que se mencionan en la Ley de Información.
+La Información Pública, a elección del solicitante, podrá ser proporcionada de manera verbal, por escrito, por medio electrónico o por vía Infomex en cualquier medio de reproducción de los documentos en que se contenga.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 37.
 
-El Consejo de Información Clasificada del Gobierno Municipal se integra por:
-
-El Titular de la Entidad Pública o un representante con nivel mínimo de Director General o su equivalente.
-
-Un Coordinador del Consejo que será designado por el Titular de la entidad pública de entre los Servidores Públicos adscritos.
-
-Un Secretario Técnico que será designado por el Titular de la Entidad Pública.
-
-Los Jefes de las Unidades De Información Pública responsables que existan en la entidad pública.
-
-El Titular de la Contraloría Interna u órgano de control interno.
-
-El C. Presidente Municipal, presidirá las sesiones del Consejo de Información Clasificada. Las decisiones del Consejo se tomarán por mayoría de votos de los integrantes del consejo que lo integren.
+El Gobierno Municipal, a través de la Unidad de Información Pública establecerá relaciones de cooperación y coordinación con cualquiera de las Entidades Públicas que se mencionan en la Ley de Información.
 
 ### Capítulo Sexto. Del Consejo de Información Clasificada del Ayuntamiento
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 38.
 
-El Consejo de Información Clasificada del Ayuntamiento, con independencia de las funciones establecidas en el artículo 74 de la Ley, tendrá las siguientes atribuciones:
+El Consejo de Información Clasificada del Gobierno Municipal se integra por:
 
-I. Confirmar, modificar o revocar la clasificación de la información hecha por los titulares de las unidades administrativas del Gobierno Municipal;
+I. El Titular de la Entidad Pública o un representante con nivel mínimo de Director General o su equivalente.
 
-II. Ampliar el plazo de reserva de la información clasificada como reservada, cuando subsistan las causas para mantener la reserva;
+II. Un Coordinador y Secretario Técnico del Consejo que estará conformado por el Director de Planificación y Desarrollo.
 
-III. Establecer los criterios específicos en materia de conservación de los documentos administrativos, así como la organización de archivos;
+III. El Jefe de la Unidad de Información Pública responsable que exista en la Entidad Pública.
 
-IV. Elaborar y actualizar el índice sobre la información reservada del Gobierno Municipal, y
+IV. El Titular de la Contraloría Interna u órgano de control interno.
 
-V. Elaborar el informe anual que se debe enviar al Instituto en términos del artículo 74 de la Ley de Información.
+V. El Titular de la Unidad Jurídica.
 
-Este informe incluirá:
-
-A) El número de solicitudes de información presentadas a dicha entidad y la información objeto de las mismas;
-
-B) La cantidad de solicitudes procesadas y respondidas, así como el número de solicitudes pendientes;
-
-C) Las prórrogas por circunstancias excepcionales;
-
-D) El tiempo de procesamiento y la cantidad de servidores públicos involucrados en la tarea; y
-
-E) La cantidad de resoluciones tomadas por dicha entidad denegando las solicitudes de información presentadas al mismo y los fundamentos de cada una de dichas resoluciones.
-
-VI. Contribuir a la difusión del informe anual publicado por la Comisión.
-
-VII. Las demás que le señalen otros ordenamientos, el Consejo o la Ley de Información Pública, Estadística y Protección de Datos Personales.
+El C. Presidente Municipal, presidirá las sesiones del Consejo de Información Clasificada. Las decisiones del consejo se tomaran por mayoría de votos de los integrantes del Consejo que lo integren.
 
 ### Capítulo Séptimo. Del Procedimiento para el Ejercicio del Derecho de Acceso a la Información Pública
 
@@ -706,3 +682,15 @@ C. LIC. JOSÉ JESÚS CEPEDA AYALA
 SECRETARIO MUNICIPAL DEL H. AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+QUEDAN DEROGADOS LOS ARTÍCULOS 8, 30, 31, 32, 33, 34, 35, 36, 37 Y 38 DEL REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL AYUNTAMIENTO DE YAUTEPEC, PUBLICADOS EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", NÚMERO 4456 DE FECHA 03 DE MAYO DE 2006.
+
+###### ARTÍCULO SEGUNDO.
+
+LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD".
