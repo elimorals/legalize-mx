@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-el-funcionamiento-de-las-instituciones-48789"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-04"
-last_updated: "2006-02-04"
+last_updated: "2009-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE REGULA EL FUNCIONAMIENTO DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS PARA EL CUIDADO INFANTIL Y DE MENORES EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2009.
 
 Ley publicada en el periódico oficial del Estado de Chihuahua, el sábado 4 de febrero de 2006.
 
@@ -53,9 +53,11 @@ LEY QUE REGULA EL FUNCIONAMIENTO DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS P
 
 Las disposiciones de esta Ley y sus reglamentos son de orden público, interés social y de observancia general en el territorio del Estado. Tienen por objeto establecer las bases y procedimientos para la creación, administración y funcionamiento de las instituciones que presten servicios para el cuidado infantil y de menores, en cualquier modalidad.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 2.
 
-Para todo lo no previsto en la presente Ley, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+Para todo lo no previsto en la presente Ley, se aplicará supletoriamente el Código Administrativo y la Ley de Salud, ambos ordenamientos del Estado de Chihuahua.
 
 ###### Artículo 3.
 
@@ -65,11 +67,15 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Fomento Social, tendr
 
 I.- Emitir, supervisar y adecuar lo aplicación de las normas técnicas que rijan la prestación de los servicios de cuidado infantil y de menores.
 
-II.- Expedir licencias para lo operación de cualquier tipo de institución que preste servicios de cuidado infantil y de menores, en cualquiera de sus modalidades, en cualquier lugar del Estado.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+II.- Emitir los acuerdos para la expedición de licencias para la operación de cualquier tipo de institución que preste servicios de cuidado infantil y de menores, en cualquiera de sus modalidades.
 
 III.- Vigilar el estricto cumplimiento de esta Ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competan a las dependencias y entidades federales o municipales.
 
-IV.- Evaluar los resultados de los servicios prestados en cualquier institución para el cuidado infantil y de menores.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+IV.- Evaluar, conforme a los lineamientos previstos en el Reglamento de la presente Ley y Normas Oficiales Mexicanas que correspondan, la prestación de los servicios en toda institución de cuidado infantil y de menores.
 
 V.- Apoyar la coordinación entre las instituciones que presten los servicios de cuidado infantil y de menores, las educativas y de salud para formar y capacitar recursos humanos en la materia.
 
@@ -95,7 +101,9 @@ II.- Establecimientos: Los espacios físicos destinados para el cuidado infantil
 
 III.- Instituciones: Instancias privadas o públicas, personas físicas o morales que cuenten con establecimientos para proporcionar servicios de cuidado infantil y de menores, en cualquier modalidad.
 
-IV.- Licencia: Autorización escrita que emite la autoridad competente para que operen cualquier tipo de instituciones materia de la presente Ley, en cualquier parte del Estado.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+IV.- Licencia: Autorización escrita que emite la Secretaría para que opere cualquier tipo de institución en materia de la presente Ley.
 
 V.- Secretaría: La Secretaría de Fomento Social, la que supervisará la aplicación y adecuación de las normas técnicas que rijan la prestación de los servicios de cuidado infantil y de menores.
 
@@ -103,9 +111,15 @@ VI.- Usuario: La persona que contrate los servicios de una institución, en cual
 
 VII.- Contrato: El acuerdo suscrito entre el usuario y la institución con el objeto de utilizar los servicios de cuidado infantil y de menores, que deberán estar previamente autorizados por la Secretaría.
 
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+VIII.- Normas técnicas: Conjunto de acuerdos administrativos de carácter general, mediante los cuales la Secretaría desarrolla y clarifica los conceptos abordados por las Normas Oficiales Mexicanas que correspondan, relativos a los requerimientos a los que las instituciones deberán sujetar su actividad.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 5.
 
-Las instituciones deberán velar para que los menores adquieran hábitos higiénicos, sana convivencia y cooperación, aprecio por la dignidad de las personas y la integridad de la familia, evitando privilegios de raza, religión, grupo, sexo o individuo, en concordancia con su entorno social, con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
+Las instituciones deberán propiciar las acciones necesarias para que los menores adquieran hábitos higiénicos, sana convivencia y cooperación, aprecio por la dignidad de las personas y la integridad de la familia, evitando privilegios de raza, religión, grupo, sexo o condición económica, en concordancia con su entorno social, con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
 
 ###### Artículo 6.
 
@@ -127,9 +141,11 @@ Se excluyen de las disposiciones de esta Ley a las instituciones dependientes de
 
 ### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO DE INSTITUCIONES PRESTADORAS DE SERVICIOS PARA EL CUIDADO INFANTIL Y DE MENORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 10.
 
-Las instituciones necesitarán de licencia para su funcionamiento, y los establecimientos deberán contar, como mínimo, con los requisitos que se enumeran a continuación, los cuales deberán ser adecuados a la edad de los menores:
+Las instituciones requieren para su funcionamiento autorización de la Secretaría, quien otorgará la licencia correspondiente, previo cumplimiento de los requisitos señalados en el artículo 15 de la presente Ley, y los siguientes:
 
 I.- Espacios, áreas e instalaciones especializadas, así como implementos de aseo, cocina y primeros auxilios.
 
@@ -141,35 +157,51 @@ IV.- Personal capacitado especialmente al efecto.
 
 V.- Los demás enseres y utensilios necesarios para el sano desarrollo físico y mental de los menores.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+Los requisitos que establecen las fracciones anteriores deberán ser, en su caso, adecuados para la atención de menores que presenten alguna discapacidad.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 11.
 
-El Reglamento determinará la cantidad y calidad de los bienes y del personal con que deberá operar cada establecimiento, los cuales deberán ser suficientes para cubrir las necesidades básicas de seguridad, salud, alimentación, aseo, esparcimiento y atención de los infantes y menores a su cargo. Así mismo, determinará lo relativo al estado físico de las instalaciones.
+El Reglamento determinará la cantidad y calidad de los bienes y del personal con que deberá operar cada establecimiento, los cuales deberán ser suficientes para cubrir las necesidades básicas de seguridad, salud, alimentación, aseo, esparcimiento y atención de los infantes y menores a su cargo. Así mismo, determinará lo relativo al estado físico de las instalaciones; todo lo anterior, atendiendo a lo dispuesto por las correspondientes Normas Oficiales Mexicanas, las normas técnicas y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 12.
 
-Las instituciones, para la admisión de los menores, deberán suscribir un contrato con el padre, madre, tutor, o quienes ejerzan la patria potestad sobre el menor, en el cual se fijarán entre otras circunstancias, el horario al que quedará sujeta la prestación del servicio; la persona o personas autorizadas para recoger al menor y la tolerancia para su entrada y salida.
+Las instituciones, para la admisión de los menores, deberán suscribir un contrato con el padre, madre, tutor o con quienes ejerzan la patria potestad o custodia sobre el menor, en el cual se fijarán, entre otras circunstancias, el horario al que quedará sujeta la prestación del servicio; la persona o personas autorizadas para recoger al menor y el tiempo de tolerancia para su entrada y salida, así como el costo que tendrá la prestación del servicio.
 
 La autoridad responsable de supervisar el funcionamiento de las instituciones, deberá revisar que se lleve un reporte diario del menor. El contenido y la forma del reporte, será conforme lo disponga el reglamento de esta Ley.
 
 ### CAPÍTULO TERCERO. DE LA LICENCIA
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 13.
 
-La licencia constituye la autorización para ejercer lícitamente la materia que regula esta Ley y demás disposiciones aplicables, por tanto, es intransferible, inalienable e inembargable y cualquier acto tendiente a tales efectos, será nulo de pleno derecho.
+La licencia constituye la anuencia de la Secretaría para ejercer lícitamente la materia que regula esta Ley y demás disposiciones aplicables, por tanto es intransferible, inalienable e inembargable y cualquier acto tendiente a tales efectos, será nulo de pleno derecho.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 14.
 
-La Secretaría proporcionará gratuitamente los formatos para solicitar licencias.
+La Secretaría proporcionará gratuitamente los formatos para realizar los trámites correspondientes para la obtención de las licencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 15.
 
-Para tramitar la expedición de licencias se cumplirán, como mínimo, los siguientes requisitos:
+Para tramitar la expedición de licencias se cumplirán, además de los requisitos señalados en el artículo 10 del presente ordenamiento, los siguientes:
 
 I.- Presentar solicitud por escrito que contenga, al menos, el nombre; nacionalidad, ocupación y domicilio si el solicitante es persona física; denominación, domicilio y nombre del representante legal, si se trata de persona moral, incluyendo la denominación o razón social que se tenga o se solicite para la institución.
 
 II.- Anexar copia certificada de los siguientes documentos:
 
-a).- Certificación de la Secretaría de Fomento Social, que confirme que el gerente, encargado o administrador de la institución, cuenta con los conocimientos técnicos necesarios y suficientes para cumplir su labor.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+a).- Certificación por parte de la Secretaría de Fomento Social, que confirme que el gerente, encargado o administrador de la institución, cuenta con los estudios o conocimientos técnicos necesarios y suficientes para cumplir su labor.
 
 b).- Constancia expedida por la autoridad de salud correspondiente, en la cual se exprese que las instalaciones de la institución cuentan con las condiciones de salubridad e higiene, que como mínimo se deben observar para prestar el servicio, materia de la presente Ley.
 
@@ -180,6 +212,14 @@ d).- Acta de nacimiento de las personas físicas y, tratándose de personas mora
 e).- Carta de no antecedentes penales, en su caso, salvo tratándose de delitos culposos, cuando en estos últimos haya transcurrido el término de tres años.
 
 f).- Autorizaciones y permisos que para el efecto deba expedir la dependencia federal encargada del sector salud y la Secretaría de Relaciones Exteriores, cuando el solicitante sea de nacionalidad extranjera.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+g).- Listado con los nombres del personal técnico que, en su caso, tengan bajo su responsabilidad las áreas de nutriología y de medicina preventiva.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+h).- Certificado de capacitación a que se refiere el artículo 22 de la presente Ley.
 
 ###### Artículo 16.
 
@@ -197,11 +237,17 @@ Las licencias serán de duración indefinida, pero se revisarán anualmente.
 
 Las licencias que se concedan pueden ser revocadas definitiva o temporalmente a juicio de la autoridad que las expidió, por las siguientes causas:
 
-l.- Por la carencia de algún requisito legal.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-II.- Porque se estime la existencia de un riesgo o peligro para la seguridad o la salud de los menores atendidos.
+I.- Por el incumplimiento de algún requisito legal.
 
-III.- Porque así se determine en resolución que emane del procedimiento administrativo que esta Ley establece.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+II.- Porque se acredite la existencia de elementos que denoten algún riesgo o peligro para la seguridad o la salud de los menores atendidos.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+III.- Porque así se determine en resolución que emane del procedimiento administrativo que esta Ley establece, ya sea promovido de oficio o por conducto de parte afectada.
 
 ###### Artículo 20.
 
@@ -211,7 +257,9 @@ Las licencias contendrán los datos del titular, denominación o razón social d
 
 La Institución podrá cancelar voluntariamente la licencia que le fue expedida a su favor, siempre y cuando avise de ello a la Secretaría, a fin de que se realicen las verificaciones correspondientes. El tiempo y forma se especificará en el reglamento.
 
-La falta de este aviso dará lugar a la sanción prevista en la fracción II, del artículo 33.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+La falta de este aviso dará lugar a la sanción prevista en la fracción II, del artículo 33, de este ordenamiento legal.
 
 ### CAPÍTULO CUARTO. DE LAS CERTIFICACIONES
 
@@ -219,9 +267,11 @@ La falta de este aviso dará lugar a la sanción prevista en la fracción II, de
 
 Para la obtención de la licencia, la persona que pretenda instalar o dirigir una institución, deberá contar con la certificación de capacitación que expida la Secretaría de Fomento Social.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 23.
 
-Las instituciones que instalen establecimientos para el cuidado infantil y de menores, deberán establecer programas permanentes de capacitación para su personal; o bien, apoyar a éste para que participe en aquellos que organice e implementen las autoridades, de acuerdo con los lineamientos que para tal efecto emita la propia Secretaría, los que en todo caso tendrán valor curricular.
+Las instituciones deberán contar con programas permanentes de capacitación para su personal; o bien, apoyar a éste para que participe en aquellos que organicen e implementen las autoridades, de acuerdo con los lineamientos que para tal efecto emita la propia Secretaría, los que en todo caso tendrán valor curricular.
 
 ###### Artículo 24.
 
@@ -233,7 +283,7 @@ II.- Establecer un sistema permanente de capacitación y actualización que cert
 
 III.- Reconocer la participación de las instituciones en lo general y al personal en lo individual.
 
-IV.- Emitir certificados de calidad a favor de los establecimientos.
+IV.- (DEROGADA, P.O. 28 DE OCTUBRE DE 2009)
 
 V.- Estimular y reconocer, conforme a las disposiciones del Reglamento, la calidad en la prestación del servicio.
 
@@ -277,9 +327,15 @@ Si la persona con la que se entendió la diligencia o los testigos se negaren a 
 
 El inspector podrá ordenar medidas correctivas, de acuerdo con las irregularidades encontradas durante la visita, mismas que quedarán anotadas en dicha acta.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+La impugnación de todo acto o hecho derivado de la visita de inspección deberá presentarse en un término de 10 días contados a partir del siguiente a aquél en que se haya verificado la inspección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 33.
 
-Las infracciones a esta Ley y sus reglamentos según las particulares circunstancias y modalidades de los establecimientos, serán motivo de las siguientes sanciones:
+Las infracciones a esta Ley, su reglamento y normas técnicas, según las particulares circunstancias y modalidades de los establecimientos, serán motivo de las siguientes sanciones:
 
 I.- Amonestación.
 
@@ -289,7 +345,9 @@ III.- Clausura temporal del establecimiento hasta por treinta días naturales.
 
 IV.- Clausura definitiva del establecimiento.
 
-V.- Cancelación de la licencia respectiva.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+V.- Revocación del acuerdo administrativo mediante el cual la Secretaría otorgó su anuencia para la expedición de la respectiva licencia y, por consiguiente, la cancelación de ésta.
 
 ###### Artículo 34.
 
@@ -307,9 +365,11 @@ La Secretaría aplicará la amonestación mediante escrito, apercibiendo al prop
 
 Procederá la multa cuando haya reiteración en una falta leve.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 38.
 
-Para la fijación de multas se tomará en cuenta la gravedad de la infracción, la naturaleza y demás circunstancias que sirvan para individualizar la sanción.
+Para fijar el monto de la multa se tomará en cuenta la gravedad de la infracción, la naturaleza y demás circunstancias que sirvan para individualizar la sanción.
 
 ###### Artículo 39.
 
@@ -325,55 +385,47 @@ IV.- Dejar de satisfacer algunos de los requisitos o incumplir con las obligacio
 
 ### CAPÍTULO SEXTO. DE LA DEFENSA JURÍDICA DE LOS PARTICULARES
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 40.
 
-Para la defensa jurídica de los particulares, se establece el recurso de reconsideración, mismo que tiene por objeto revocar o modificar los actos administrativos que se reclamen y que se presentará ante la autoridad de la cual emane el acto o la resolución que se reclame.
+Para la defensa jurídica de los particulares, se estará a lo dispuesto por el Código Administrativo del Estado, en su capítulo respectivo.
 
 ###### Artículo 41.
 
-El recurso deberá presentarse por escrito, dentro de los quince días hábiles siguientes a la notificación del acto que se reclama y se suspenderán los efectos de la resolución, siempre que se cumplan los requisitos exigidos por el artículo 42 de esta Ley. La suspensión únicamente producirá el efecto de mantener las cosas en el estado en que se encuentren.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ###### Artículo 42.
 
-La interposición del recurso suspenderá la ejecución de las sanciones pecuniarias, si el infractor garantiza el interés fiscal.
-
-En ningún caso procederá la suspensión si existe riesgo para la salud física o emocional de los infantes o menores.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ###### Artículo 43.
 
-Tratándose de otro tipo de actos o resoluciones, la interposición del recurso suspenderá su ejecución, siempre y cuando se satisfagan los siguientes requisitos:
-
-l.- Que lo solicite el recurrente.
-
-II.- Que no exista riesgo para continuar proporcionando el servicio.
-
-III.- Que fueren de difícil reparación los daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ###### Artículo 44.
 
-En el escrito donde se presente el recurso se deberá precisar el nombre y el domicilio de quien promueva, los hechos que motiven el recurso, la fecha en que bajo protesta de decir verdad manifieste el recurrente que tuvo conocimiento de la resolución impugnada, los agravios que directa o indirectamente se le causen, la mención de la autoridad que haya dictado la resolución, ordenado o ejecutado el acto y el ofrecimiento de las pruebas que se proponga rendir. Si radica fuera del lugar de residencia de la autoridad recurrida, deberá señalar domicilio en éste, para oír notificaciones.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ###### Artículo 45.
 
-En la tramitación del recurso se admitirá toda clase de medios probatorios excepto la confesional y los contrarios a lo moral o a las buenas costumbres. Si el interesado previamente tuvo oportunidad de ofrecer pruebas, sólo le serán admitidas las que tengan carácter de supervinientes.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ###### Artículo 46.
 
-Admitido el recurso se señalará el día y hora para la celebración de una audiencia, en lo que se escuchará en defensa al interesado, se desahogarán las pruebas que se admitan y se formularán los alegatos, levantándose acta suscrita por los que en ella hayan intervenido.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ###### Artículo 47.
 
-La autoridad dictará la resolución que corresponda, debidamente fundada y motivada, en un plazo de quince días hábiles, mismo que deberá notificar al interesado en el domicilio que haya señalado.
-
-En caso de no haber señalado domicilio, se le notificará en el lugar donde resida la autoridad recurrida, enviándosele copia certificada por correo y con acuse de recibo.
-
-Contra estas resoluciones no cabrá recurso alguno.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPÍTULO SÉPTIMO. DISPOSICIONES FINALES
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 48.
 
-Cualquier particular, bajo su responsabilidad y ofreciendo los medios de prueba a su disposición, podrá denunciar las conductas que constituyan una infracción a esta Ley, los reglamentos que de ella deriven y, en general, a las condiciones de operación establecidas en la licencia o convenio respectivos.
+Cualquier particular, en todo momento, bajo su responsabilidad y ofreciendo los medios de prueba a su disposición, podrá denunciar ante la Secretaría las conductas que constituyan una infracción a esta Ley, su reglamento y normas técnicas que de ellas deriven y, en general, a las condiciones de operación establecidas en el acuerdo de otorgamiento de las licencias o contratos celebrados con los usuarios.
 
 ## TRANSITORIOS
 
@@ -414,3 +466,15 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones prestadoras de servicios para el cuidado infantil y de menores, dentro de un término de seis meses contados a partir de la publicación del presente Decreto, deberán hacer lo conducente para dar cumplimiento a lo establecido en el párrafo final del artículo 10.
