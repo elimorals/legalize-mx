@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2009-09-28"
+last_updated: "2009-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE OCTUBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -670,7 +670,9 @@ VII. Solicitar a las Unidades Administrativas Policiales y Unidades Técnico Adm
 
 VIII. Requerir la intervención de peritos en materia de balística, criminalística, química forense, y demás necesarios para la investigación en que elementos policiales del Distrito Federal, hayan producido disparos de armas de fuego y con ello provocado lesiones o muerte de alguna persona;
 
-IX. Elaborar constancia de los actos que realice en ejerció de sus funciones;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2009)</small>
+
+IX. Elaborar constancia de los actos que realice en ejercicio de sus funciones;
 
 X. Inspeccionar, revisar, supervisar, verificar y evaluar a las Unidades Administrativas Policiales, Unidades Técnico Administrativo Policiales, y Unidades de Policía Complementaria en sus cuarteles, módulos, oficinas y cualquier establecimiento o lugar asignado para la realización de funciones de la Policía del Distrito Federal, y derivado de las mismas, formular constancia, observaciones, recomendaciones y acciones correctivas a las autoridades competentes de la Secretaría y de la Policía Complementaria para su atención y resolución;
 
@@ -706,7 +708,9 @@ XXV. Brindar la colaboración, apoyo y auxilio a las autoridades ministeriales y
 
 XXVI. Coadyuvar con la Dirección General de Asuntos Jurídicos y a petición de ésta, en la asistencia jurídica que se proporcione a los elementos de la Policía del Distrito Federal, involucrados en asuntos penales por hechos cometidos en el cumplimiento de su deber, en caso de que su conducta no sea constitutiva de ningún delito, y;
 
-XVII (SIC). Las demás que le atribuya la normatividad vigente.
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2009)</small>
+
+XXVII. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 21.
 
@@ -1272,7 +1276,9 @@ XI. (DEROGADA, G.O. 28 DE SEPTIEMBRE DE 2009)
 
 Son atribuciones de la Dirección General de Seguridad Privada y de Procedimientos Sistemáticos de Operación Policial, las siguientes:
 
-I. Las previstas en las fracciones I, II, III, IV, VI, VII, VIII, X, XII, XIII, XIV, XV y XVI del artículo 10 de la Ley de Seguridad Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2009)</small>
+
+I. Las previstas en las fracciones I, II, III, IV, VI, VII, VIII, X, XII, XIII, XIV, XV y XVI del artículo 10 de la Ley de Seguridad Privada del Distrito Federal;
 
 II. Dirigir y desarrollar los programas de vigilancia y supervisión del cumplimiento de la Ley de Seguridad Privada del Distrito Federal y la normatividad aplicable a las empresas y personas que realizan servicios o actividades de seguridad privada en el Distrito Federal;
 
@@ -1713,3 +1719,11 @@ Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
 Segundo. - El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 Tercero. - La Secretaría deberá emitir las adecuaciones a sus manuales y publicarlos en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE OCTUBRE DE 2009.
+
+Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. - El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero. - La Secretaría de Seguridad Pública del Distrito Federal emitirá las adecuaciones a sus manuales en los plazos que establezca la normativa vigente.
