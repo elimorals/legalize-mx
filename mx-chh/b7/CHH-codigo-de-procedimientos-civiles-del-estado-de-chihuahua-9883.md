@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2009-10-10"
+last_updated: "2009-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2009.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -2377,7 +2377,11 @@ V.- Los juicios que se sigan por los herederos deduciendo la acción de petició
 
 VI.- Las acciones de los legatarios reclamando sus legados, siempre que sean posteriores a la presentación de inventario y antes de la adjudicación de los bienes, excepto los legados de alimentos, de pensiones, de educación y de uso y habitación.
 
-520.- En los juicios sucesorios el Ministerio Público representará a los herederos ausentes mientras no se presenten o no acrediten persona que los represente legítimamente; a los menores e incapacitados que no tengan representante legal mientras se les nombra el que corresponda y a la Beneficencia Pública cuando no haya herederos legítimos mientras se hace el reconocimiento y declaración de herederos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+520.- En los juicios sucesorios, el Ministerio Público representará a los herederos ausentes mientras no se presenten o no acrediten persona que los represente legítimamente; a las personas menores de edad e Incapacitadas que no tengan representante legal mientras se les nombra el que corresponda, y a la asistencia social pública cuando no haya herederos legítimos mientras se hace el reconocimiento y declaración de herederos.
 
 521.- El albacea manifestará dentro de tres días después de que se le haya hecho saber su nombramiento, si acepta el cargo. Si lo acepta y entra en la administración de los bienes hereditarios, el juez le prevendrá que dentro de tres meses debe garantizar su manejo con arreglo a lo dispuesto en los artículos 1600 y 1601 del Código Civil, salvo que todos los interesados lo hayan dispensado de esa obligación. Si debiendo garantizar su manejo no lo verifica dentro del término señalado, se le removerá de plano.
 
@@ -2440,6 +2444,12 @@ VI.- Lo relativo a la aplicación de los bienes.
 528.- Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél y se abrirá el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este último caso, se acumularán los juicios bajo la representación del ejecutor testamentario, y la liquidación y partición serán siempre comunes. Los inventarios lo serán también cuando los juicios se acumularen antes de su presentación.
 
 529.- La transmisión hereditaria del patrimonio de familia, se llevará a cabo con arreglo a las disposiciones relativas que reglamente esa institución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+529 Bis.- Los jueces del ramo civil darán aviso a la Junta de Asistencia Social Privada, de la radicación de los juicios sucesorios, siempre que los testamentos contengan disposiciones relacionadas con la asistencia social privada, a efecto de que se apersone y alegue lo que a su derecho convenga.
 
 #### SECCION SEGUNDA. De las testamentarias
 
@@ -2587,7 +2597,11 @@ Los edictos se insertarán además, por dos veces, de siete en siete días en un
 
 571.- La declaración de herederos de un intestado surte el efecto de tener por legítimo poseedor de los bienes, derechos y acciones del autor de la herencia, a la persona en cuyo favor se hizo. Al albacea le serán entregados los bienes hereditarios así como los libros y papeles, sin perjuicio de lo dispuesto en el artículo 193 del Código Civil. El albacea provisional, en su caso, deberá rendir sus cuentas al albacea.
 
-572.- Si no se hubiere presentado ningún aspirante a la herencia, antes o después de los edictos, o no fuere reconocido con derecho a ella ninguno de los pretendientes, se tendrá como heredero a la Beneficencia Pública, observándose en su caso lo dispuesto en el artículo 565 entre tanto se resuelve definitivamente la cuestión de derechos hereditarios. Resuelta ésta, y declarada única heredera la Beneficencia Pública, será representada en juicio con arreglo a la ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+572.- Si no se hubiere presentado ningún aspirante a la herencia, antes o después de los edictos, o no fuere reconocido con derecho a ella ninguno de los pretendientes, se tendrá como heredera a la asistencia social pública, observándose en su caso lo dispuesto en el artículo 565 entre tanto se resuelve definitivamente la cuestión de derechos hereditarios. Resuelta ésta, y declarada única heredera la asistencia social pública, será representada en juicio con arreglo a la ley.
 
 #### SECCION CUARTA. Del inventario y del avalúo
 
@@ -2595,9 +2609,11 @@ Los edictos se insertarán además, por dos veces, de siete en siete días en un
 
 El inventario y el avalúo se practicarán simultáneamente, salvo que esto no fuere posible por la naturaleza de los bienes.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
-574.- Cuando el valor de los bienes sea superior a la suma que resulte de calcular veinticinco veces el salario mínimo elevado a un año y, la mayoría de los herederos esté constituida por menores de edad o incapacitados, o la Beneficencia Pública tenga interés en la sucesión como heredera o legataria, las operaciones de inventarios o avalúos se practicarán ante notario nombrado por la mayoría de los herederos, o en su defecto por el Juzgado.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+574.- Cuando el valor de los bienes sea superior a la suma que resulte de calcular veinticinco veces el salario mínimo elevado a un año y la mayoría de los herederos esté constituida por personas menores de edad o incapacitadas, o la asistencia social pública tenga interés en la sucesión como heredera o legataria, las operaciones de inventarios o avalúos se practicarán ante notario nombrado por la mayoría de los herederos, o en su defecto por el Juzgado.
 
 575.- Los herederos, dentro de los diez días siguientes a la declaración o reconocimiento de sus derechos, designarán a mayoría de votos el o los peritos valuadores, y si no lo hicieren o no se pusieren de acuerdo, el juez lo designará.
 
@@ -2677,7 +2693,11 @@ III.- Cuando para la enajenación de los frutos se presenten condiciones ventajo
 
 600.- Los libros de cuentas y papeles del autor de la sucesión se entregarán al albacea y, hecha la partición, a los herederos reconocidos, observándose respecto a los títulos, lo prescrito en la Sección Séptima de este Capítulo. Los demás papeles quedarán en poder del que haya desempeñado el albaceazgo.
 
-601.- Si nadie se hubiere presentado alegando derechos a la herencia, o no hubieren sido reconocidos los que se hubieren presentado, y en su defecto se hubiere declarado heredera a la Beneficencia Pública, se entregarán a ésta los bienes y los libros y papeles que con ellos tengan relación. Los demás se archivarán con los autos del intestado, en un pliego cerrado y sellado, en cuya cubierta firmarán el juez, el representante del Ministerio Público y el secretario del primero.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+601.- Si nadie se apersonó alegando derechos a la herencia, o no hubieren sido reconocidos los que se presentaron, y en su defecto se haya declarado heredera a la asistencia social pública, se entregarán a ésta los bienes, libros y papeles que con ellos tengan relación. Los demás se archivarán con los autos del intestado, en un pliego cerrado y sellado, en cuya cubierta firmarán el juez, el representante del Ministerio Público y el secretario del primero.
 
 602.- El cónyuge en el caso del artículo 590 de este Código y el albacea cualquiera que sea su carácter legal, están obligados a rendir cuentas de su administración, ordinariamente, cada mes durante el término de su encargo, debiendo presentarlas dentro de los cinco primeros días del mes siguiente al que deben comprender las cuentas.
 
@@ -2808,6 +2828,12 @@ El notario dará a conocer estas declaraciones por medio de dos publicaciones qu
 > <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1995)</small>
 
 Además, el Notario recabará la información a que se refiere el segundo párrafo del artículo 559.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+633 Bis.- Los notarios ante quienes se tramite extrajudicialmente una testamentaría que contenga disposiciones para constituir una fundación con fines de asistencia social, estarán obligados a dar aviso a la Junta de Asistencia Social Privada.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -3861,9 +3887,17 @@ Bajo las mismas condiciones podrán gravar los padres los bienes de sus hijos, o
 
 En la promoción inicial deberá manifestarse el tipo de adopción, el nombre y edad del menor o incapacitado y el nombre y domicilio de quienes ejerzan sobre éste la patria potestad o la tutela o de las personas o instituciones que están proveyendo a su guardia.
 
-El Juez deberá, antes de recibir los consentimientos de las personas señaladas en los artículos 374 y 375 del Código Civil, asesorar e informar sobre los efectos de la adopción a los padres consanguíneos, salvo cuando éstos han perdido los derechos derivados de la patria potestad o el menor se encuentre bajo la tutela de la Procuraduría de la Defensa del Menor y la Familia o del Sistema para el Desarrollo Integral de la Familia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
-Cuando se trate de expósitos o abandonados, el Juez podrá decretar el depósito del menor con las personas o instituciones que lo hubieren acogido, cuando así se solicitaran por éstos, tomando discrecionalmente las medidas necesarias para la seguridad del menor, salvo que se trate de la Procuraduría de la Defensa del Menor y la Familia o el Sistema para el Desarrollo Integral de la Familia, en cuyo caso el depósito operará sin necesidad de que se decrete.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+El juez deberá, antes de recibir los consentimientos de las personas señaladas en los artículos 374 y 375 del Código Civil, asesorar e informar sobre los efectos de la adopción a los padres consanguíneos, salvo cuando éstos han perdido los derechos derivados de la patria potestad o el menor se encuentre bajo la tutela de la Procuraduría de Asistencia Jurídica y Social, dependencia equivalente a ésta o del organismo para la asistencia social pública estatal o municipal, según corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+Cuando se trate de personas menores de edad en calidad de expósitas o abandonadas, el Juez podrá decretar su depósito con la persona o institución que lo hubiere acogido, cuando así se solicitare por éstas, tomando discrecionalmente las medidas necesarias para la seguridad del menor, salvo que se trate de la Procuraduría de Asistencia Jurídica y Social, dependencia equivalente a ésta o del organismo para la asistencia social pública estatal o municipal, según corresponda, en cuyo caso el depósito operará sin necesidad de que se decrete.
 
 En el caso de solicitantes extranjeros se concederá el depósito provisional del menor o incapacitado, si tal figura se contempla en los tratados internacionales.
 
@@ -3871,15 +3905,9 @@ En el caso de solicitantes extranjeros se concederá el depósito provisional de
 
 887.- Rendidas las justificaciones que se exigen por el artículo 367 del Código Civil y obteniendo el consentimiento de las personas que deban darlo conforme a los artículos 374 y 375 del mismo Código, el Juez resolverá lo que proceda sobre la adopción.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+888.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-888.- Cuando el adoptante o el adoptado o ambos, soliciten la conversión de la adopción simple en plena, el Juez los citará a una audiencia verbal, dentro de los ocho días siguientes a que se solicite la conversión con la intervención del Ministerio Público, en la que resolverá conforme a lo dispuesto por el Código Civil. Si el adoptado fuera menor de 14 años, se requerirá el consentimiento de quien debiere darlo para la adopción, siempre y cuando sea posible; en caso contrario, deberán otorgar la autorización las instituciones señaladas en el artículo 374, fracciones III y IV del Código Civil para el Estado de Chihuahua.
-
-Para acreditar que la conversión es favorable al adoptado, podrán rendirse toda clase de pruebas.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-889.- La impugnación de la adopción y su revocación, en los casos de los artículos 371 y 382, fracciones II y III del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+889.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 ### CAPITULO V. De las informaciones ad perpetuam
 
@@ -4778,3 +4806,87 @@ El servicio del Registro Civil se brinda en Oficinas Estatales, Municipales y Se
 P.O. 10 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2009.
+
+DECRETO No. 644/09 II, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 520, 529 BIS, 572, 574, 601, 633 BIS Y 886 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el año dos mil nueve, el organismo para la asistencia social pública (DIF Estatal), deberá elaborar y publicar lo siguiente:
+
+a) Las reglas y manuales de procedimientos que deberán seguirse para la prestación de los servicios en los establecimientos de asistencia social pública.
+
+b) Los lineamientos para garantizar la integralidad y calidad en la prestación de los servicios en los establecimientos de asistencia social privada que atiendan a personas menores de edad, adultas mayores y en situación de discapacidad.
+
+c) Los procesos a seguir para la obtención de la certificación por la calidad en la prestación de los servicios de asistencia social pública, en el ámbito municipal.
+
+d) Su estatuto orgánico, así como los manuales de procedimientos y servicios al público.
+
+e) Las reglas y disposiciones de carácter general en relación a la metodología, técnicas y procedimientos administrativos para los trámites de adopción.
+
+f) Los protocolos que sirvan como base para la debida atención de personas menores de edad en situación de desamparo, maltrato, omisión de cuidados y explotación en cualquiera de sus modalidades; mujeres en situación de maltrato o explotación en cualquiera de sus modalidades; adultas mayores en situación de desamparo, maltrato, abandono o explotación en cualquiera de sus modalidades; y en situación de discapacidad.
+
+###### ARTÍCULO TERCERO.
+
+Los trabajos para el diseño, acopio y conformación del Sistema Estatal de Información para la Asistencia Social, deberán dar inicio durante el año dos mil nueve.
+
+###### ARTÍCULO CUARTO.
+
+La constitución e instalación del Consejo Consultivo para la Asistencia Social Pública, deberá realizarse a más tardar en el mes de diciembre del año dos mil nueve.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo del Estado deberá tener diseñado, a más tardar en el mes de octubre del año dos mil nueve, el apartado en materia de asistencia social que formará parte del Programa Estatal de Desarrollo Social y Humano.
+
+###### ARTÍCULO SEXTO.
+
+Las relaciones laborales de los trabajadores con que cuente el organismo para la asistencia social pública a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Sistema para el Desarrollo Integral de la Familia del Estado de Chihuahua, continuarán rigiéndose hasta su conclusión por las disposiciones legales que les dieron origen.
+
+###### ARTÍCULO OCTAVO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Beneficencia Pública, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la asistencia social pública u organismo para la asistencia social pública, conocido actualmente como DIF Estatal.
+
+###### ARTÍCULO NOVENO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Procuraduría para la Defensa del Menor y la Familia, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Procuraduría de Asistencia Jurídica y Social, a través de sus correspondientes Subprocuradurías Especializadas.
+
+###### ARTÍCULO DÉCIMO.
+
+Los numerales 70 y 78 del ARTÍCULO PRIMERO del presente Decreto, entrarán en vigor a partir de los meses de mayo y septiembre del año dos mil once, respectivamente.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Las relaciones laborales de los trabajadores con que cuente la Junta de Asistencia Privada a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.
+
+###### ARTÍCULO DUODÉCIMO.
+
+La convocatoria pública para la elección de los representantes de las instituciones de asistencia social privada a que se refiere el numeral 70, fracción VI, del ARTÍCULO PRIMERO del presente Decreto, deberá establecer los dos rubros por los que participarán aquéllos por única vez con una duración de dos años, así como los que durarán en el cargo los tres años completos.
+
+La convocatoria pública respectiva se emitirá durante la segunda quincena del mes de marzo del año dos mil once.
+
+ARTÍCULO DECIMOTERCERO. Siempre que en cualquier otra disposición, ordenamiento o instrumento legalmente expedido se haga referencia a la Junta de Beneficencia Privada o Junta de Asistencia Privada, se entenderá que se trata ahora de la Junta de Asistencia Social Privada.
+
+Cuando la referencia se haga a Instituciones de Beneficencia Privada o Instituciones de Asistencia Privada, se entenderá que se hace alusión a las instituciones de asistencia social privada.
+
+ARTÍCULO DECIMOCUARTO. Los trabajos para el diseño, acopio y conformación del Subsistema de Información para la Asistencia Social Privada, deberán dar inicio durante el año dos mil nueve.
+
+P.O. 28 DE OCTUBRE DE 2009.
+
+DECRETO No. 728/09 VI, POR EL QUE SE DEROGAN LOS ARTICULOS 888 Y 889 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las adopciones simples que se encuentren en trámite a la entrada en vigor de las presentes reformas se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
+
+No obstante, si en las adopciones simples que actualmente se tramitan, hubiere la voluntad del o de los adoptantes de obtener la adopción plena, podrá seguir el procedimiento establecido en el presente Decreto.
+
+Las adopciones simples realizadas con anterioridad a la entrada en vigor del presente Decreto, podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
