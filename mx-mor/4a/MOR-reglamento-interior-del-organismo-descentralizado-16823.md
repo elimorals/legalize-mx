@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-descentralizado-16823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "2008-05-21"
+last_updated: "2009-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, 30 de junio de 1999.
 
@@ -447,9 +447,17 @@ II. Departamento de Estadística;
 
 III. Departamento de Programación;
 
-IV. Departamento de Evaluación y
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-V. Departamento de Informática.
+IV. Subdirección de Infraestructura Física en la Salud;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+V. Departamento de Obras, Conservación y Mantenimiento;
+
+VI. Departamento de Evaluación y
+
+VII. Departamento de Informática.
 
 F) DIRECCIÓN DE ADMINISTRACIÓN
 
@@ -477,7 +485,7 @@ XI. Departamento de Servicios Generales;
 
 XII. Departamento de Adquisiciones;
 
-XIII. Departamento de Obras, conservación y Mantenimiento;
+XIII. (DEROGADA, P.O. 28 DE OCTUBRE DE 2009)
 
 XIV. Subdirección de Almacenes y Control de Abasto, y
 
@@ -1511,9 +1519,27 @@ IV.- Proponer, promover y supervisar los mecanismos de evaluación y seguimiento
 
 V.- Establecer los sistemas que permitan la emisión de la información estadística local, relativa a la prestación de servicios y proporcionaría a la Secretaría de Salud, conforme a los requerimientos y disposiciones aplicables;
 
-VI.- Promover la observancia de las normas emitidas en materia de Informática, tanto por la Secretaría de Salud como por otras dependencias Federales, que normen el uso y operación de los sistemas informáticos, vigilando su cumplimiento tanto en las Oficinas Centrales Estatales, como en las Jurisdicciones y Unidades aplicativas, estableciendo en su caso los ajustes necesarios dentro de un marco integral de modernización administrativa, y
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-VII.- Coadyuvar en la definición de prioridades del programa de inversiones con base en el Plan Estatal Maestro de Infraestructura Física en Salud para Población Abierta (PEMISPA) y la coordinación con el COPLADE y COPLADEMUN, en concordancia con las necesidades prioritarias de las áreas de Servicios Médicos y de Regulación Sanitaria, llevando a cabo el seguimiento programático-presupuestal.
+VI.- Establecer la normatividad, tanto de nivel administrativo como de jurisdicciones sanitarias y unidades hospitalarias, así como brindar asesoría y apoyo técnico en materia de rehabilitación de equipo médico y de obra;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+VII.- Controlar y evaluar los proyectos y programas de obras y conservación, adaptación y mantenimiento de los bienes muebles, inmuebles y equipo, llevando a cabo las licitaciones de obra, conservación y mantenimiento, y la contratación de los prestadores de servicios y dictaminación de fallos, de conformidad con la legislación vigente, así como coordinar la entrega-recepción de las obras ejecutadas;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+VIII.- Asesorar y apoyar técnicamente a las Jurisdicciones Sanitarias y a las unidades hospitalarias en materia de conservación y mantenimiento de los aspectos físicos e instalaciones;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+IX.- Participar en los procedimientos de adjudicación de Obra Pública correspondiente a la Infraestructura Física en Salud, ante la Secretaría de Desarrollo Urbano y Obras Públicas;
+
+X.- Promover la observancia de las normas emitidas en materia de Informática, tanto por la Secretaría de Salud como por otras dependencias Federales, que normen el uso y operación de los sistemas informáticos, vigilando su cumplimiento tanto en las Oficinas Centrales Estatales, como en las Jurisdicciones y Unidades aplicativas, estableciendo en su caso los ajustes necesarios dentro de un marco integral de modernización administrativa, y
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+XI.- Coadyuvar en la definición de prioridades del programa de inversiones con base en el Plan Estatal Maestro de Infraestructura Física (PMI) y la coordinación con el COPLADE y COPLADEMUN, en concordancia con las necesidades prioritarias de las áreas de que integran los SSM, llevando a cabo el seguimiento programático-presupuestal.
 
 ###### Artículo 32.
 
@@ -1531,9 +1557,9 @@ V.- Definir, establecer y operar el sistema de contabilidad aplicando las metas 
 
 VI.- Recopilar e integrar la información que se requiera para la formulación de la Cuenta Pública y los Estados Financieros del Organismo;
 
-VII.- Establecer la normatividad, tanto de nivel administrativo como de jurisdicciones sanitarias y unidades hospitalarias, así como brindar asesoría y apoyo técnico en materia de rehabilitación de equipo médico y de obra;
+VII.- (DEROGADA, P.O. 28 DE OCTUBRE DE 2009)
 
-VIII.- Controlar y evaluar los proyectos y programas de adquisiciones de las obras de conservación, adaptación y mantenimiento de los bienes muebles, inmuebles y equipo, llevando a cabo las licitaciones de obra, conservación y mantenimiento, y la contratación de los prestadores de servicios y dictaminación de fallos, de conformidad con la legislación vigente, así como coordinar la entrega - recepción de las obras ejecutadas;
+VIII.- (DEROGADA, P.O. 28 DE OCTUBRE DE 2009)
 
 IX.- Llevar a cabo los procesos licitatorios para efectuar las adquisiciones de bienes de consumo y de activo fijo, que requiera el Organismo de conformidad con los programas autorizados, apegándose a los ordenamientos legales que rijan en materia de adquisiciones, expidiendo de acuerdo con sus atribuciones, la normatividad correspondiente;
 
@@ -1541,7 +1567,7 @@ X.- Administrar los almacenes del Organismo por medio de un sistema de control d
 
 XI.- Proporcionar los servicios generales de correspondencia, archivo y reproducción, intendencia, mantenimiento de equipo de oficina, transporte de personal, talleres, seguridad y vigilancia que requieran las unidades administrativas del Organismo;
 
-XII.- Asesorar y apoyar técnicamente a las jurisdicciones sanitarias y a las unidades hospitalarias en materia de conservación y mantenimiento de los aspectos físicos e instalaciones;
+XII.- (DEROGADA, P.O. 28 DE OCTUBRE DE 2009)
 
 XIII.- Supervisar que las unidades administrativas del Organismo cumplan adecuadamente las resoluciones pronunciadas por las jurisdiccionales sanitarias;
 
@@ -2004,3 +2030,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
 
 TERCERO.- El Organismo deberá ajustar sus Manuales de Organización al presente Decreto, dentro de los sesenta días contados a partir de su entrada en vigor.
+
+P.O. 28 DE OCTUBRE DE 2009.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
