@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2008-07-30"
+last_updated: "2009-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2009.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -34,6 +34,12 @@ Que el Honorable Congreso del Estado, se ha servido expedir el siguiente
 DECRETO 402-73
 
 EL QUINCUAGESIMO H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, DECRETA EL SIGUIENTE
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO ARTÍCULO OCTAVO DEL DECRETO NÚMERO 644/09 II P.O., PUBLICADO EN EL P.O. 28 DE OCTUBRE DE 2009, EN LOS ORDENAMIENTOS JURÍDICOS ESTATALES QUE REFIERAN LA EXISTENCIA DE LA BENEFICENCIA PÚBLICA, SE ENTENDERÁ, EN LO SUBSECUENTE, QUE LO HACEN REFIRIÉNDOSE A LA ASISTENCIA SOCIAL PÚBLICA U ORGANISMO PARA LA ASISTENCIA SOCIAL PÚBLICA, CONOCIDO ACTUALMENTE COMO DIF ESTATAL.</small>
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO ARTÍCULO NOVENO DEL DECRETO NÚMERO 644/09 II P.O., PUBLICADO EN EL P.O. 28 DE OCTUBRE DE 2009, EN LOS ORDENAMIENTOS JURÍDICOS ESTATALES QUE REFIERAN LA EXISTENCIA DE LA PROCURADURÍA PARA LA DEFENSA DEL MENOR Y LA FAMILIA, SE ENTENDERÁ, EN LO SUBSECUENTE, QUE LO HACEN REFIRIÉNDOSE A LA PROCURADURÍA DE ASISTENCIA JURÍDICA Y SOCIAL, A TRAVÉS DE SUS CORRESPONDIENTES SUBPROCURADURÍAS ESPECIALIZADAS.</small>
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO ARTÍCULO DÉCIMOTERCERO DEL DECRETO NÚMERO 644/09 II P.O., PUBLICADO EN EL P.O. 28 DE OCTUBRE DE 2009, SIEMPRE QUE EN CUALQUIER OTRA DISPOSICIÓN, ORDENAMIENTO O INSTRUMENTO LEGALMENTE EXPEDIDO SE HAGA REFERENCIA A LA JUNTA DE BENEFICENCIA PRIVADA O JUNTA DE ASISTENCIA PRIVADA, SE ENTENDERÁ QUE SE TRATA AHORA DE LA JUNTA DE ASISTENCIA SOCIAL PRIVADA. CUANDO LA REFERENCIA SE HAGA A INSTITUCIONES DE BENEFICENCIA PRIVADA O INSTITUCIONES DE ASISTENCIA PRIVADA, SE ENTENDERÁ QUE SE HACE ALUSIÓN A LAS INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA.</small>
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
@@ -164,6 +170,12 @@ I.- La Federación, los Estados y los Municipios;
 II.- Las demás corporaciones de carácter público reconocidas por la ley;
 
 III.- Las sociedades civiles o mercantiles;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+III BIS. Las asociaciones civiles y las fundaciones;
 
 IV.- Los sindicatos, las asociaciones profesionales y las demás a que se refiere la fracción XVI del artículo 123 de la Constitución Federal;
 
@@ -405,9 +417,11 @@ Además de los nombres de los padres, se hará constar en el acta de nacimiento 
 
 64.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá asentarse como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-65.- Toda persona que encontrare a un menor abandonado o en cuya casa o propiedad fuere expuesto, deberá entregarlo dentro de los tres días siguientes del hallazgo al Sistema para el Desarrollo Integral de la Familia del Municipio respectivo, con los vestidos, documentos y cualquier otro objeto encontrados y declarará el día, lugar y demás circunstancias que hubieren ocurrido y el Sistema procederá sin demora a presentar al menor ante el registro civil para inscribir su nacimiento, si fuere el caso, proveyendo además, a la custodia provisional de aquél y dando cuenta al Ministerio Público de la adscripción.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+65.- Toda persona que encontrare a otra menor de edad abandonada o en cuya casa o propiedad fuere expuesta, deberá entregarla dentro de los tres días siguientes del hallazgo al organismo para la asistencia social pública estatal o municipal correspondiente, con los vestidos, documentos y cualquier otro objeto encontrados y declarará el día, lugar y demás circunstancias que hubieren ocurrido y el organismo respectivo procederá sin demora a presentar a la persona menor de edad ante el Registro Civil para inscribir su nacimiento, si fuere el caso, proveyendo además, a la custodia provisional de aquélla y dando cuenta al Ministerio Público de la adscripción.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -501,13 +515,13 @@ El acta de nacimiento original, se resguardará en el Archivo que corresponda a 
 
 82.- El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, de las personas cuyo consentimiento hubiere sido necesario para la adopción y la clave única del registro de población que originalmente le hubiere correspondido al adoptado. Los apellidos de éste se regirán por lo dispuesto en el Artículo 60 de este Código, lo que se proveerá en la resolución judicial, la que se insertará íntegramente en el acta.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-83.- Asentada el acta de adopción simple, se anotará la de nacimiento del adoptado y se archivará la copia de la resolución judicial, poniendo el mismo número del acta de adopción.
+83.- Asentada el acta de adopción, se anotará la de nacimiento del adoptado y se archivará la copia la (sic) resolución judicial, poniendo el mismo número del acta de adopción.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-Tratándose de la adopción plena, una vez asentada el acta, no se le dará publicidad ni se expedirá copia alguna de la de nacimiento, debiéndose otorgar una nueva acta de nacimiento en los mismos términos que las expedidas para los hijos consanguíneos.
+Una vez asentada el acta, no se le dará publicidad ni expedirá copia alguna de la de nacimiento, debiéndose otorgar una nueva acta de nacimiento en los términos que las expedidas para los hijos consanguíneos.
 
 El Registro Civil se abstendrá de proporcionar información con respecto al origen y demás antecedentes familiares del adoptado, salvo que mediare autorización judicial o bien, cuando el adoptado haya adquirido la mayoría de edad o se trate de una cuestión de orden público o impedimento para contraer matrimonio, sin que se requiera en ninguno de estos dos casos de la autorización judicial.
 
@@ -1237,7 +1251,11 @@ La autoridad judicial deberá escuchar:
 
 I.- A los menores de edad, cuando por su propia voluntad o a través de sus representantes lo soliciten; y/o
 
-II.- Al especialista que por ejercicio de su profesión conozca del hecho, quien deberá estar adscrito al Tribunal o al Sistema para el Desarrollo Integral de la Familia o a los Sistemas para el Desarrollo Integral de la Familia Municipales correspondientes o a la Procuraduría de Defensa del Menor y la Familia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+II.- Al especialista que por ejercicio de su profesión conozca del hecho, quien deberá estar adscrito al Tribunal, al organismo para la asistencia social pública estatal o municipal correspondiente o a la Procuraduría de Asistencia Jurídica y Social respectiva.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
@@ -1363,9 +1381,11 @@ IV.- Poner a los hijos e hijas al cuidado de la persona más apta e idónea que 
 
 Se debe entender por Régimen de Convivencia Progresiva, las circunstancias en que deberá llevarse a cabo la convivencia entre los menores hijos e hijas y el progenitor que no tenga la guarda y custodia de éstos, para lo cual deberá considerarse que las mismas no pongan en riesgo la estabilidad de los menores y procurando que ésta aumente.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La protección para los menores implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderán a la Procuraduría de Defensa del Menor y la Familia o a los Sistemas para el Desarrollo Integral de la Familia Municipales, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquéllos.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+La protección para los hijos e hijas menores de edad implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderán a los organismos para la asistencia social pública estatal o municipal, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquéllos.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
@@ -1413,9 +1433,9 @@ La sentencia que se pronuncie en definitiva, fijará la situación de los hijos 
 
 271.- El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-272.- El parentesco civil es el que nace de la adopción. En la adopción simple se produce solamente entre adoptante y adoptado. En la plena, entre el adoptado, el adoptante y los parientes de éste.
+272.- El parentesco civil es el que nace de la adopción, entre el adoptado, el adoptante y los parientes de éste.
 
 273.- Cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco.
 
@@ -1789,35 +1809,33 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPITULO V. DE LA ADOPCION
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-A) DISPOSICIONES GENERALES
+A)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-367.- Los mayores de edad en pleno ejercicio de sus derechos pueden adoptar a un menor o a un incapacitado aun cuando sea mayor de edad, siempre que tenga cuando menos diez años más de edad que el que pretendan adoptar.
+367.- La persona mayor de edad, soltera, en pleno ejercicio de sus derechos, puede adoptar a otra menor de edad o a una incapacitada, aun cuando ésta sea mayor de edad, siempre que el adoptante tenga diez años más que el adoptado y que acredite además:
 
-Además, acreditar lo siguiente:
+I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trate de adoptarse, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
 
-I.- Que tiene medios suficientes para proveer a la subsistencia, cuidado y educación del menor o incapacitado;
+II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo el interés superior de la misma;
 
-II.- Que la adopción es benéfica para la persona que se pretende adoptar;
+III. Que el adoptante es persona apta y adecuada para adoptar.
 
-III.- Que el o los adoptantes son personas de buenas costumbres; y
+Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente, y
 
-IV.- La autorización expedida a través de la constancia de idoneidad por el Sistema para el Desarrollo Integral de la Familia o la Procuraduría de la Defensa del Menor y la Familia.
+IV. La autorización expedida a través de la constancia de idoneidad por el organismo para la asistencia social pública estatal o municipal respectivo, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente.
 
 En todos los casos prevalecerá el interés superior del adoptado y el respeto a sus derechos fundamentales.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-368.- Los que pretendan adoptar deberán ser un hombre y una mujer casados entre sí o que vivan en concubinato, cuando los dos estén conformes en considerar al adoptado como hijo. Excepto cuando se trate de adopción simple.
+368.- Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo, pero siempre y cuando la diferencia de edad de los adoptantes y el adoptado sea de diez años de edad cuando menos. Se deberán acreditar, además, los requisitos previstos en las fracciones del artículo anterior.
 
-Tratándose de adopción simple en caso de muerte del adoptante o de ambos cónyuges adoptantes, se podrá otorgar una nueva adopción sobre el mismo menor.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-369.- El adoptante dará sus apellidos al adoptado pudiendo otorgarle el nombre, salvo que por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente.
+369.- El adoptante dará sus apellidos al adoptado pudiendo otorgarle el nombre.
 
 370.- El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
@@ -1825,9 +1843,9 @@ Tratándose de adopción simple en caso de muerte del adoptante o de ambos cóny
 
 372.- El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-373.- El adoptado tendrá, para con sus adoptantes, los mismos derechos y obligaciones que tiene un hijo.
+373.- El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -1839,15 +1857,17 @@ I.- Quien o quienes ejercen la patria potestad sobre el menor que se pretende ad
 
 II.- El tutor;
 
-III.- La Procuraduría de la Defensa del Menor y la Familia o el Sistema para el Desarrollo Integral de la Familia, cuando no hubiere las personas a que se refieren las dos fracciones anteriores.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+III. El organismo para la asistencia social pública estatal o municipal correspondiente, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, cuando no hubiere las personas a que se refieren las dos fracciones anteriores.
 
 En su caso, estas instituciones pedirán la opinión de la persona que lo haya acogido durante seis meses anteriores a la solicitud de adopción y lo trate como un hijo, y
 
 IV.- El Ministerio Público en todos los casos.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE OCTUBRE DE 2009)</small>
 
-375.- Para los efectos del artículo anterior, si el tutor, el Ministerio Público, la Procuraduría de la Defensa del Menor y la Familia o el Sistema para el Desarrollo Integral de la Familia, no consienten en la adopción, deberán expresar la causa en que se funden. El Juez valorará la objeción y atendiendo a los intereses de quien se pretende adoptar, resolverá lo que a su recto criterio proceda.
+375.- Para los efectos del artículo anterior, si el tutor, el Ministerio Público, el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, no consienten en la adopción, deberán expresar la causa en que se funden. El Juez valorará la objeción y atendiendo a los intereses de quien se pretende adoptar, resolverá lo que a su recto criterio proceda.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -1859,77 +1879,41 @@ IV.- El Ministerio Público en todos los casos.
 
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-B) ADOPCION SIMPLE
+B)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+379.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-379.- La adopción simple confiere al adoptado la posición del hijo consanguíneo, pero no crea vínculo de parentesco entre aquél y la familia biológica del adoptante, sino a los efectos expresamente determinados en este Código.
+379 BIS.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+379 TER.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-379 BIS.- Los derechos y deberes que resulten del vínculo biológico del adoptado no quedan extinguidos por la adopción con excepción de la patria potestad, inclusive la administración y usufructo de los bienes del menor se transfieren al adoptante, salvo cuando se adopte al hijo del cónyuge.
+380.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+381.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-379 TER.- La adopción simple puede convertirse en plena. En este caso, si el adoptado ya hubiere cumplido los catorce años de edad se requerirá su consentimiento. Si no la tuviere, el consentimiento lo dará la Procuraduría de la Defensa del Menor y la Familia.
+382.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-Dicha conversión deberá ser autorizada por el Juez una vez que se haya obtenido el consentimiento de aquellos que participaron en el otorgamiento de la adopción simple siempre y cuando sea posible, en caso contrario, deberán otorgar la autorización las instituciones señaladas en el artículo 374, fracciones III y IV de este Código.
+383.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+383 BIS.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-380.- El o los adoptantes ejercerán la patria potestad sobre el menor. Si uno de los adoptantes está casado con el progenitor del adoptado, la ejercerán conjuntamente.
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-381.- La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+C)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-382.- La adopción simple será revocable en los siguientes casos:
+384.- El adoptado adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
 
-I.- Por acuerdo de quienes hayan participado en la adopción, siempre y cuando el adoptado haya adquirido la mayoría de edad;
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-II.- Cuando a juicio del Juez considere que la revocación sea benéfica para los intereses del adoptado;
+385.- La adopción es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos los efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 
-III.- Por ingratitud del adoptado;
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-IV.- Por ejercer violencia intrafamiliar el adoptante en contra del adoptado o a la inversa; y
-
-V.- Por inducir el adoptante o sus parientes, al adoptado, a la perversión física o moral, a la corrupción o a la mendicidad, así como cometer en contra del adoptado los actos de explotación, ya sea que la procure o la facilite, o incurra en actos contra la libertad y el normal desarrollo psicosexual de propio adoptado.
-
-El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que desaparezca la incapacidad, según sea el caso, siempre y cuando se haya incumplido con los fines de la adopción.
-
-En los supuestos de las fracciones II, IV y V los hechos podrán ser denunciados por cualquier pariente del adoptado o, en su caso, por la Procuraduría de la Defensa del Menor y la Familia o el Sistema para el Desarrollo Integral de la Familia o entidad pública que corresponda.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-383.- Para los efectos de la fracción III del artículo inmediato anterior, se considerará ingrato al adoptado:
-
-I.- Si comete algún delito intencional o doloso que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de su ascendiente u otros adoptados;
-
-II.- Si el adoptado imputa legalmente al adoptante la comisión de algún delito grave que puede ser perseguido de oficio, aunque lo pruebe, a no ser que hubiera sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes; o
-
-III.- Si incumple con su deber de proporcionar alimentos al adoptante.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-C) ADOPCION PLENA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-D) ADOPCION INTERNACIONAL
+D)
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -1969,11 +1953,17 @@ A falta de padres, los ascendientes mencionados en el orden de las fracciones II
 
 392.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2001)
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-393.- En caso de separación de los que ejercen la patria potestad, podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-Si existe desacuerdo, el juez resolverá lo conducente oyendo, en su caso, al Ministerio Público, a la Procuraduría de Defensa del Menor y la Familia, al Sistema para el Desarrollo Integral de la Familia Municipal correspondiente o al especialista que por ejercicio de su profesión conozca del hecho.
+393.- En caso de separación de los que ejercen la patria potestad, podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de sus hijos e hijas menores de edad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+Si existe desacuerdo, el juez resolverá lo conducente oyendo, en su caso, al Ministerio Público, al organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, o al especialista que por ejercicio de su profesión conozca del hecho.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
@@ -1985,9 +1975,9 @@ No podrán impedirse, sin justa causa, las relaciones personales entre el menor 
 
 395.- Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-396.- La patria potestad sobre el hijo adoptivo la ejercerán, en la adopción simple, exclusivamente las personas que lo adopten; en la adopción plena, se estará a lo dispuesto por el artículo 391.
+396.- La patria potestad sobre el hijo adoptivo se ejercerá conforme a las reglas del artículo 391.
 
 397.- Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
@@ -1999,11 +1989,17 @@ La sustracción o retención del menor fuera del lugar de residencia habitual, s
 
 La conducta ilícita del sustractor o retenedor dará lugar a la pérdida de los derechos que tengan con relación al menor.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-399.- A las personas que tienen el ejercicio de la patria potestad o custodia de algún menor incumbe la obligación de educarlo convenientemente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público o a la Procuraduría de Defensa del Menor y de la Familia, para que promueva lo que corresponda.
+399.- A las personas que tienen el ejercicio de la patria potestad o custodia de otra menor de edad incumbe la obligación de educarlo convenientemente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público y al organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, para que promueva lo que corresponda.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2251,9 +2247,11 @@ II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro de
 
 468.- El tutor del incapacitado que tenga hijos menores bajo su patria potestad será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO V. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+### CAPITULO V. DE LA TUTELA LEGITIMA DE LAS PERSONAS MENORES DE EDAD ABANDONADAS Y DE LAS ACOGIDAS POR ALGUN PARTICULAR O DEPOSITADAS EN ESTABLECIMIENTOS DE ASISTENCIA SOCIAL
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -2263,21 +2261,31 @@ Se considera abandono al menor que conociendo su origen, quienes ejercen la patr
 
 En ambos casos se estará a lo dispuesto por el artículo 65 de este Código.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+470.- los directores de los albergues, casas hogar y demás establecimientos de asistencia social donde se reciban personas menores de edad en calidad de expósitos, abandonadas, maltratadas, víctimas de violencia familiar, explotadas, migrantes, repatriadas o por cualquier otra circunstancia que atente contra su integridad física o mental, deberán dar aviso al Ministerio Público y al organismo para la asistencia social pública estatal o municipal, según corresponda, para que por conducto de su respectiva Procuraduría de Asistencia Jurídica y Social se aboquen al desempeño de la tutela de aquéllas con arreglo a las leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+471.- Las personas menores de edad o incapacitadas que se encuentran bajo la patria potestad o la tutela en los términos de este Código y que hayan sido recogidas en albergues, casas hogar y demás establecimientos de asistencia social privada, quedarán bajo la custodia y guarda de los directores de éstos, teniendo el deber de asistirlos, educarlos y corregirlos convenientemente, de acuerdo a los lineamientos que al efecto dicte el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, quien tendrá la representación del menor para todos los efectos legales.
+
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1994)</small>
-
-470.- Los directores de los hospicios y demás casas de beneficencia donde se reciban expósitos, deberán de comunicarlo en los términos que establece el Código para la Protección y Defensa del Menor, para que las instituciones que ese ordenamiento señala se avoquen al desempeño de la tutela de aquellos con arreglo a las leyes.
-
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
-
-Los responsables de las Instituciones donde se reciban menores que hayan sido objeto de violencia familiar a que se refiere el artículo 300 ter, de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes o los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
-
-(REFORMADO, P.O. 2 DE FEBRERO DE 1994) (F. DE E., P.O. 29 DE JULIO DE 2000)
-
-471.- Los menores o incapacitados que se encuentran bajo la patria potestad o la tutela en los términos de este Código y que hayan sido recogidos en hospicios y demás casas de beneficencia pública o privada, quedarán bajo la custodia y guarda de los directores de éstos, teniendo el derecho de asistirlos, educarlos y corregirlos convenientemente, de acuerdo a los lineamientos que en efecto dicte la Procuraduría de Defensa del Menor y la Familia o el Sistema para el Desarrollo Integral de la Familia, según corresponda, teniendo estos últimos la representación del menor para todos los efectos legales.
 
 Después de transcurrido seis meses, los que ejerzan la patria potestad o la tutela sólo podrán recuperar la guarda y custodia mediante resolución judicial, en caso de negativa de estas instituciones.
 
-En caso de adopción, independientemente del procedimiento señalado en el Código para la Protección y Defensa del Menor, deberá oírse a los directores o encargado de aquellos establecimientos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+En caso de adopción, deberá oírse a los directores o encargados de los establecimientos de asistencia social mencionados en el primer párrafo del presente artículo.
 
 ### CAPITULO VI. DE LA TUTELA DATIVA
 
@@ -2311,9 +2319,17 @@ III.- Las personas que desempeñen la autoridad administrativa en los lugares en
 
 IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
 
-V.- Los miembros de las juntas de beneficencia pública o privada que disfruten sueldos del Erario;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- Los directores de establecimientos de beneficencia pública.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+V.- Los miembros de los organismos para la asistencia social pública estatal o municipal, según corresponda, a través de la correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+VI.- Los directores de establecimientos de asistencia social pública.
 
 Los jueces nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente sin perjuicio de que también pueden ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutelas, conforme a lo dispuesto en el Capítulo XVI de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 
@@ -2507,7 +2523,11 @@ VI.- A solicitar oportunamente la autorización judicial para todo lo que legalm
 
 520.- Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de estos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
 
-521.- Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuera posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+521.- Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de asistencia social pública o privada en donde pueda recibir los alimentos, conforme al artículo 285 de este Código.
 
 522.- Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Estado; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al Gobierno de los gastos que hubiere hecho en cumplimiento de lo dispuesto por este artículo.
 
@@ -3191,7 +3211,11 @@ Los no fungibles son los que no pueden ser substituidos por otros de la misma es
 
 751.- Si el reclamante es declarado dueño, se le entregará la cosa o su precio, en el caso del artículo 749 con reducción de los gastos.
 
-752.- Si el reclamante no es declarado dueño, o si pasado el plazo de un mes contado desde la primera publicación de los avisos, nadie reclama la propiedad de la cosa, ésta se venderá dándose una cuarta parte del precio al que la halló y destinándose las otras tres cuartas partes a la Beneficencia Pública del Estado. Los gastos se repartirán en proporción a la parte que reciban.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+752.- Si el reclamante no es declarado dueño, o si pasado el plazo de un mes contado desde la primera publicación de los avisos, nadie reclama la propiedad de la cosa, esta se venderá dándose una cuarta parte del precio al que la halló y destinándose las otras tres cuartas partes a la asistencia social pública. Los gastos se repartirán en proporción a la parte que reciban.
 
 753.- Cuando por alguna circunstancia especial fuere necesario, a juicio de la autoridad la conservación de la cosa, el que halló ésta recibirá la cuarta parte del precio.
 
@@ -4769,7 +4793,17 @@ I.- La distribución de las cantidades que deje a grupos determinados como huér
 
 II.- La individualización y elección de las personas a quienes deban aplicarse las cantidades a que se refiere la fracción anterior; y
 
-III.- La elección de los actos de beneficencia de los establecimientos públicos o privados de asistencia, a los cuales deban aplicarse los bienes que legue con ese objeto y la determinación de las cantidades que a cada uno corresponda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+II BIS.- La constitución de una fundación con fines culturales, científicos, deportivos o de asistencia social, así como los bienes que se destinarán para tal efecto, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+III.- La elección de los servicios o acciones de asistencia social que se presten en establecimientos públicos o privados a los cuales deban aplicarse los bienes que legue con ese objeto y la determinación de las cantidades que a cada uno corresponda.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -4861,9 +4895,17 @@ V.- Causa de interés público;
 
 VI.- Renuncia o remoción de algún cargo conferido en el testamento.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-1217.- Son incapaces de adquirir por testamento o por intestado, a causa de falta de personalidad, los que no estén concebidos al tiempo de la muerte del autor de la sucesión, o los que aun estando concebidos, no nazcan vivos o no sean viables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+1217.- Son incapaces de adquirir por testamento o por intestado, a causa de falta de personalidad, los que no estén concebidos al tiempo de la muerte del autor de la sucesión, o los concebidos que no nazcan vivos o no sean viables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+Cuando una persona deje sus bienes para la creación, vía testamentaria, de una fundación con fines culturales, científicos, deportivos o de asistencia social, no podrá alegarse la falta de personalidad de ésta.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -4887,9 +4929,17 @@ VI.- El padre y la madre respecto del hijo expuesto por ellos;
 
 VII.- Los ascendientes que abandonaren, prostituyeren o corrompieren a sus descendientes, respecto de los ofendidos;
 
-VIII.- Los demás parientes del autor de la sucesión que, teniendo obligación de darle alimentos, no la hubieren cumplido;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- Los parientes del autor de la sucesión que, hallándose éste imposibilitado para trabajar y sin recursos, no se ocupen de recogerlo o de hacerlo recoger en establecimientos de beneficencia;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+VIII.- Los demás parientes del autor de la sucesión que, teniendo obligación de darle alimentos, no la hubieren cumplido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+IX.- Los parientes del autor de la sucesión que, hallándose éste imposibilitado para trabajar y sin recursos, no se ocupen de recogerlo o de hacerlo recoger en establecimientos de asistencia social;
 
 X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
 
@@ -4951,11 +5001,17 @@ Esta disposición no será aplicable cuando el testador, al adquirir la mayoría
 
 1232.- Las herencias o legados que se dejen a un establecimiento público imponiéndose algún gravamen o bajo alguna condición, sólo serán válidos si el Ejecutivo del Estado los aprueba.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-1233.- Las disposiciones testamentarias hechas a favor de los pobres en general, o del alma, sin designación de personas, se entenderán hechas a favor de la Asistencia Privada del Estado, a menos que expresamente resulte otra cosa del testamento. En ese caso, el albacea designará la institución a que haya de aplicarse la herencia o legado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-Si el albacea no hiciere la designación dentro del primer mes siguiente a la aceptación de su cargo, la hará la Junta de Asistencia Privada.
+1233.- Las disposiciones testamentarias hechas a favor de los pobres en general, sin designación de personas individualmente identificadas, se entenderán hechas a favor de la asistencia social privada, a menos que expresamente resulte otra cosa del testamento. En ese caso, el albacea designará la institución a que haya de aplicarse la herencia o legado, escuchando el parecer de la Junta de Asistencia Social Privada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+Si el albacea no hiciere la designación dentro del primer mes siguiente a la aceptación de su cargo, la hará la Junta de Asistencia Social Privada.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -5685,13 +5741,21 @@ Si al morir el testador ya no vive el usufructuario, el heredero de la nuda prop
 
 1387.- Se consideran fideicomisarias y en consecuencia prohibidas, las disposiciones que contengan prohibición de enajenar a persona indeterminada; sin embargo, subsiste el derecho del testador a prohibir que sus bienes se enajenen a persona determinada; asimismo se considera prohibido que se llame a un tercero a lo que quede de la herencia por la muerte del heredero, o el encargo de prestar a más de una persona sucesivamente cierta renta o pensión.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-1388.- La obligación que se impone al heredero de invertir ciertas cantidades en obras benéficas, como pensiones a estudiantes, a los pobres o a cualquier establecimiento de beneficencia, no está comprendida en la prohibición del artículo anterior.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+1388.- La obligación que se impone al heredero de invertir ciertas cantidades en obras altruistas, como pensiones a estudiantes, a los pobres o a cualquier establecimiento de asistencia social, no está comprendida en la prohibición del artículo anterior.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 Si la carga se impusiere sobre bienes inmuebles y fuere temporal, el heredero o herederos podrán disponer de la finca gravada, sin que cese el gravamen hasta que se cancele la inscripción correspondiente. Si la carga fuere perpetua, el heredero podrá invertir el capital, el cual, con sus intereses, deberá aplicarse con la debida seguridad al cumplimiento de la disposición testamentaria.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados del ministerio público.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 Las disposiciones del presente capítulo relativas a los herederos son aplicables a los legatarios.
 
@@ -6339,9 +6403,9 @@ Si hubiere varios parientes en un mismo grado, y alguno o algunos no quisieren o
 
 1503.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos cuando el autor de la herencia estuviere obligado a proporcionarlos. En ningún caso pueden exceder de la porción de uno de los hijos.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-1504.- El adoptado hereda como un hijo. En la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+1504.- El adoptado hereda como un hijo.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -6361,13 +6425,9 @@ Si hubiere varios parientes en un mismo grado, y alguno o algunos no quisieren o
 
 1511.- Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+1512.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-1512.- En la adopción simple concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-1513.- Si concurren los adoptantes y el cónyuge del adoptado ya se está en el caso de la adopción simple, las dos terceras partes de la herencia corresponderán al cónyuge; la otra tercera pare a los adoptantes.
+1513.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -6419,17 +6479,23 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Ca
 
 Si varias personas se encuentran en el supuesto previsto en el párrafo que antecede, ninguna de ellas tendrá derecho a heredar.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO VII. DE LA SUCESION DE LA BENEFICENCIA PUBLICA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+### CAPITULO VII. DE LA SUCESION EN FAVOR DE LA ASISTENCIA SOCIAL PUBLICA DEL ESTADO
 
-1528.- A falta de todos los herederos llamados en los capítulos anteriores, tendrán derecho la Beneficencia Pública del Estado y, en su caso, la del Municipio dentro del Estado, donde tuvo su último domicilio el autor de la herencia, correspondiéndole a la primera doble porción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
-1529.- Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existen bienes raíces que no puede adquirir conforme a la ley, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
+1528.- A falta de todos los herederos llamados en los capítulos anteriores, tendrán derecho la asistencia social pública del Estado y, en su caso, la del municipio dentro del Estado, donde tuvo su último domicilio el autor de la herencia, correspondiéndole a la primera doble porción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+1529.- Cuando sea heredera la asistencia social pública y entre lo que le corresponda existan inmuebles que no pueda adquirir conforme a la ley, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a aquélla el precio que se obtuviere.
 
 ## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
@@ -7563,9 +7629,11 @@ Además responderá de los menoscabos que la cosa haya sufrido por cualquiera ca
 
 1779.- El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral no tiene derecho de repetir.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-1780.- El que hubiere entregado algo para la realización de un fin ilícito, teniendo conocimiento de ello, no tiene acción para reclamar la devolución a su favor. El Ministerio Público o cualquier persona interesada podrán solicitar la nulidad de dicho acto, en cuyo caso, lo recibido pasará a la Beneficencia Pública del Estado.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+1780.- El que hubiere entregado algo para la realización de un fin ilícito, teniendo conocimiento de ello, no tiene acción para reclamar la devolución a su favor. El Ministerio Público o cualquier persona interesada podrá solicitar la nulidad de dicho acto, en cuyo caso, lo recibido pasará a la asistencia social pública del Estado.
 
 ### CAPITULO IV. DE LA GESTION DE NEGOCIOS
 
@@ -7597,7 +7665,11 @@ Si no fuere posible dar ese aviso, el gestor debe continuar su gestión hasta qu
 
 1792.- Cuando el dueño del negocio no ratifique la gestión, sólo responderá de los gastos que originó ésta, hasta la concurrencia de las ventajas que obtuvo del negocio.
 
-1793.- Cuando sin consentimiento del obligado a prestar alimentos, los diese un extraño, éste tendrá derecho a reclamar de aquél su importe, a no constar que los dio con ánimo de hacer un acto de beneficencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+1793.- Cuando sin consentimiento del obligado a prestar alimentos, los diese un extraño, éste tendrá derecho a reclamar de aquél su importe, a no constar que los dio con ánimo de realizar una acción altruista.
 
 1794.- Los gastos funerarios proporcionados a la condición de la persona y a los usos de la localidad deberán ser satisfechos al que los haga aunque el difunto no hubiese dejado bienes, por aquéllos que hubieren tenido la obligación de alimentarlo en vida.
 
@@ -10419,9 +10491,13 @@ IX.- La indemnización que haya de abonar el porteador en caso de retardo, si so
 
 2567.- Para cubrir el importe del hospedaje, los dueños de los establecimientos podrán pedir al huésped deposito en garantía, o pago por anticipado. Si esto no sucede o el pago es insuficiente, los equipajes de los pasajeros responden preferentemente del importe del hospedaje; a ese efecto, los dueños de los establecimiento donde se hospeden podrán retenerlos en prenda hasta que obtengan el pago de lo adeudado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)</small>
+
 TITULO DECIMOPRIMERO
 
-DE LAS ASOCIACIONES Y DE LAS SOCIEDADES
+DE LAS ASOCIACIONES, FUNDACIONES Y SOCIEDADES
 
 ### CAPITULO I. DE LAS ASOCIACIONES
 
@@ -10511,9 +10587,207 @@ III.- Por haberse vuelto incapaces de realizar el fin para que fueron fundadas;
 
 IV.- Por resolución dictada por autoridad competente.
 
-2584.- En caso de disolución, los bienes de la asociación se aplicarán conforme a lo que determinen los estatutos y a falta de disposición de éstos, según lo que determine la asamblea general. En este caso la asamblea sólo podrá atribuir a los asociados la parte del activo social que equivalga a sus aportaciones. Los demás bienes se aplicarán a la Beneficencia Pública del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-2585.- Las asociaciones de beneficencia se regirán por las leyes especiales correspondientes.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2584.- En caso de disolución, los bienes de la asociación se aplicarán conforme a lo que determinen los estatutos y a falta de disposición de éstos, según lo que determine la asamblea general. En este caso la asamblea sólo podrá atribuir a los asociados la parte del activo social que equivalga a sus aportaciones. Los demás bienes se aplicarán a la asistencia social pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585.- Las asociaciones civiles con fines de asistencia social se regirán por las leyes especiales correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+### CAPITULO I BIS. DE LAS FUNDACIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-1.- La fundación es una persona moral que se constituye mediante declaración unilateral de voluntad de una o varias personas físicas o morales, que tiene por objeto afectar determinados bienes de propiedad particular con el fin de desarrollar actividades de asistencia social, científicas, culturales o deportivas, sin ánimo de lucro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-2.- Las fundaciones no podrán adquirir más bienes inmuebles que los indispensables para su objeto, inmediata o directamente destinados a él.
+
+Así mismo, les está prohibido realizar préstamos con garantía de simples firmas y operaciones con acciones o valores de renta variable en el mercado financiero.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-3.- Las fundaciones pueden constituirse en vida del fundador o fundadores, o por disposición testamentaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-4.- El acta constitutiva de una fundación deberá contener:
+
+I. El nombre, domicilio y demás generales del fundador o fundadores;
+
+II. El nombre, objeto y domicilio legal de la misma;
+
+III. El patrimonio que se destine para su creación y sostenimiento, inventariando pormenorizadamente la clase de bienes que lo constituyan;
+
+IV. Las actividades que se deseen ejecutar con su patrimonio;
+
+V. La designación de las personas que integrarán el patronato y la manera de sustituirlas, y
+
+VI. Las bases generales de administración y los demás datos que el fundador considere pertinentes para precisar su voluntad y la forma de acatarla.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-5.- Cuando se constituya vía testamentaria, se deberá atender al contenido del propio testamento. Dicha disposición deberá protocolizarse ante notario público, previa tramitación del juicio sucesorio correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-6.- En el caso de las fundaciones que tengan como objeto la realización de acciones o prestación de servicios de asistencia social, si el testador omite cumplir con la totalidad o una parte de los requisitos a que se refiere el artículo 2585-4, la Junta de Asistencia Social Privada suplirá los faltantes, procurando ceñirse en todo a la voluntad del fundador.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-7.- Las fundaciones que tengan como objeto la realización de acciones o prestación de servicios de asistencia social, requerirán para su constitución la declaratoria de viabilidad otorgada por la Junta de Asistencia Social Privada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-8.- La declaratoria de viabilidad a que se refiere el artículo anterior, obliga y faculta a la Junta de Asistencia Social Privada para verificar el funcionamiento de dichas fundaciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-9.- Las fundaciones tendrán plena validez legal y eficacia jurídica desde el momento en que se inscriban en el Registro Público de la Propiedad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-10.- El patronato de las fundaciones será el órgano de gobierno de las mismas, contará con un mínimo de tres personas, sus decisiones se tomarán por mayoría de votos de sus integrantes y, en caso de empate, su presidente tendrá voto de calidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-11.- Las funciones de las personas que integren el patronato, se regirán en los términos del mandato.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-12.- No podrán formar parte del patronato de una fundación:
+
+I. Las personas que formen parte de otro patronato;
+
+II. Los ministros religiosos;
+
+III. Las personas que desempeñen cargos de elección popular, los titulares de las dependencias y entidades de la administración pública federal, estatal y municipal, así como quienes ocupen cargos en las dos primeras jerarquías administrativas inferiores a éstos;
+
+IV. Los empleados de la Junta de Asistencia Social Privada;
+
+V. Las personas morales, y
+
+VI. Los que hayan sido removidos de otro patronato por sentencia ejecutoriada, dictada por la autoridad judicial y quienes hayan sido suspendidos o privados de sus derechos civiles o condenados por la comisión de algún delito de carácter patrimonial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-13.- El presidente será el encargado de ejecutar los acuerdos que se tomen por el patronato y además tendrá la representación legal de la fundación, con las facultades, derechos y prerrogativas que a los apoderados otorga la ley, salvo las de gravar, enajenar o transmitir por cualquier título los bienes que constituyan el patrimonio de la misma.
+
+Cuando se considere necesario gravar, enajenar o transmitir bienes inmuebles que sean parte del patrimonio de la fundación, además del acuerdo de los integrantes del patronato, se requerirá la autorización del juez civil competente, salvo en caso de arrendamientos menores a cinco años o cuando se trate de recibir rentas anticipadas por más de dos.
+
+Tratándose de las que tengan como objeto la realización de acciones o prestación de servicios de asistencia social, también se requerirá la opinión de la Junta de Asistencia Social Privada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-14.- Los notarios autorizarán los contratos en los que intervenga alguna fundación, previo cumplimiento de lo dispuesto en el artículo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-15.- Los integrantes del patronato, sus cónyuges, ascendientes y descendientes en línea recta o colateral hasta el cuarto grado, sociedades o asociaciones en las que tengan una participación preponderante, no podrán tener ninguna relación de tipo económico o laboral con la fundación, excepto en manifiesto beneficio de la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-16.- Cuando la fundación se constituya en vida del fundador o fundadores, estos estarán facultados para remover y sustituir a los miembros del patronato designados originalmente, cuando la actuación o desempeño de los mismos se aparten de la voluntad u objeto que motivaron la creación de aquélla.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-17.- El fundador o los fundadores tienen derecho de designar al presidente del patronato de entre las personas que forman parte del mismo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-18.- El patronato tiene los siguientes derechos y obligaciones:
+
+I. Cumplir y hacer que se cumpla la voluntad del fundador;
+
+II. Conservar y mejorar los bienes de la fundación;
+
+III. Ejercitar, por conducto de su presidente, las acciones y defensas que correspondan a la fundación;
+
+IV. Acatar la voluntad del fundador en lo relativo al nombramiento de empleados de la fundación;
+
+V. Enajenar o gravar los bienes de la fundación, cuando esto sea de evidente utilidad o absoluta necesidad;
+
+VI. Arrendar los inmuebles siempre que no se exceda de cinco años o cuando se trate de recibir rentas anticipadas por más de dos, y
+
+VII. Los demás que se le asigne en el testamento, documento constitutivo y otras disposiciones jurídicas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-19.- La fundación se extingue por:
+
+I. El cumplimiento o realización de sus fines u objeto;
+
+II. La imposibilidad financiera de seguir operando, y
+
+III. Resolución dictada por autoridad competente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-20.- Cuando sea imposible el funcionamiento de las fundaciones, a instancia del fundador o, en su caso, por la autoridad a quien competa su vigilancia, se promoverá y tramitará su disolución y liquidación, debiendo pasar sus bienes al patrimonio de fundaciones que tengan objeto similar, en los términos que dispongan sus bases constitutivas o, en su defecto, cuando no existan éstas, se destinará a la asistencia social pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-21.- Para proceder a la liquidación de una fundación, deberá nombrarse un liquidador por el patronato y otro por la autoridad a quien competa su vigilancia.
+
+El patronato y la autoridad a quien competa su vigilancia, podrán convenir en que el nombramiento de liquidador recaiga únicamente en la persona designada por esta última.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2585-22.- Las fundaciones no podrán ser declaradas en quiebra, ni acogerse a los beneficios de ésta.
 
 ### CAPITULO II. DE LAS SOCIEDADES
 
@@ -10767,7 +11041,11 @@ Cuando la sociedad se ponga en liquidación, debe agregarse a su nombre las pala
 
 2626.- En primer lugar se cumplirán las obligaciones que hubiere contraído la sociedad con terceros; en segundo lugar, se hará devolución a los socios de sus aportaciones. Si aún quedaren bienes, se considerarán utilidades, y se repartirán entre los socios en la forma convenida. Si no hubo convenio, se repartirán proporcionalmente a sus aportaciones.
 
-En el caso de que la sociedad se hubiere formado para un objeto ilícito, las utilidades se aplicarán al fondo de la Beneficencia Pública del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+Cuando con motivo de la comisión de un delito se ordene la disolución y liquidación de una sociedad, las utilidades se aplicarán a favor de la asistencia social pública del Estado.
 
 2627.- El capital social y las utilidades sólo pueden repartirse después de la disolución de la sociedad y previa la liquidación respectiva, salvo pacto en contrario.
 
@@ -10901,7 +11179,11 @@ DE LOS CONTRATOS ALEATORIOS
 
 Son juegos prohibidos los que señale la ley federal respectiva.
 
-2663.- El que paga voluntariamente una deuda procedente de juego prohibido, o sus herederos, tienen derecho de reclamar la devolución del 50 por ciento de lo que se pagó. El otro cincuenta por ciento no quedará en poder del ganancioso, sino que se entregará a la Beneficencia Pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+2663.- El que paga voluntariamente una deuda procedente de juego prohibido, o sus herederos, tienen derecho de reclamar la devolución del 50 por ciento de lo que se pagó. El otro cincuenta por ciento no quedará en poder del ganancioso, sino que se entregará a la asistencia social pública.
 
 2664.- Lo dispuesto en los artículos anteriores se aplicará a las apuestas que deban tenerse como prohibidas porque tengan analogía con los juegos prohibidos.
 
@@ -11505,6 +11787,8 @@ La declaración o reconocimiento de esos derechos no obliga al que lo hace a gar
 
 TERCERA PARTE
 
+## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 2857.- El deudor responde del cumplimiento de sus obligaciones con todos sus bienes, con excepción de aquéllos que, conforme a la ley, son inalienables o no embargables.
@@ -11554,8 +11838,6 @@ Si por el contrario, prefieren tener voz y voto en la mencionada junta, serán c
 2872.- Los pactos particulares entre el deudor y cualquiera de sus acreedores serán nulos.
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las medidas de defensa social que merezcan por el fraude.
-
-## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
 ### CAPITULO II. DE LOS CREDITOS HIPOTECARIOS Y PIGNORATICIOS Y DE ALGUNOS OTROS PRIVILEGIOS
 
@@ -11651,7 +11933,11 @@ I.- Los créditos de las personas comprendidas en las fracciones I, II, III y IV
 
 II.- Los créditos del erario que no estén comprendidos en el artículo 2873 y los créditos a que se refiere la fracción V del artículo 2828 que no hayan sido garantizados en la forma allí prevenida;
 
-III.- Los créditos de los establecimientos de beneficencia pública o privada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+III.- Los créditos de los establecimientos de asistencia social pública o privada.
 
 ### CAPITULO VI. ACREEDORES DE TERCERA CLASE
 
@@ -11662,6 +11948,8 @@ III.- Los créditos de los establecimientos de beneficencia pública o privada.
 2890.- Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
 
 2891.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
+
+## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
 ### CAPITULO I. DE LAS OFICINAS DEL REGISTRO
 
@@ -11680,8 +11968,6 @@ Las certificaciones a que se refiere el párrafo anterior, podrán autentificars
 Por firma electrónica se entenderá aquella que se utilice como forma de autentificar los actos y procedimientos administrativos efectuados mediante el uso de medios electrónicos o contenidos en archivos electrónicos y consiste en un conjunto de datos únicos encriptados, asociados a un mensaje digital, que permita garantizar la identidad del firmante y la integridad del mensaje; un documento expedido por un medio electrónico signado por el Funcionario Público autorizado para ello, quien tendrá la facultad para signar por medios electrónicos y que autentificará los datos contenidos en el acta.
 
 La autoridad registral queda exceptuada de la obligación establecida en los párrafos segundo y tercero, respecto a la información resguardada en la Sección Octava del Registro Público de la Propiedad y del Notariado.
-
-## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
 ### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
 
@@ -11703,7 +11989,11 @@ VI.- La escritura constitutiva de las sociedades civiles y la que la reforme;
 
 VII.- La escritura constitutiva de las asociaciones y la que la reforme;
 
-VIII.- Las fundaciones de beneficencia privada;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)</small>
+
+VIII.- Las fundaciones;
 
 IX.- Las resoluciones judiciales o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I;
 
@@ -11876,64 +12166,6 @@ Si el opositor deja transcurrir seis meses sin promover en el juicio de oposici�
 2919.- Transcurrido el plazo fijado en la parte final del artículo 2916 sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el Juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga en el registro la inscripción de dominio correspondiente.
 
 2920.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
-
-### CAPITULO VI. DE LA EXTINCION DE LAS INSCRIPCIONES
-
-2921.- Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real inscrito a otra persona.
-
-2922.- Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
-
-2923.- La cancelación de las inscripciones podrá ser total o parcial.
-
-2924.- Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
-
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
-
-II.- Cuando se extinga también por completo el derecho inscrito;
-
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
-
-IV.- Cuando se declare la nulidad de la inscripción;
-
-V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2222;
-
-VI.- Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
-
-2925.- Podrá pedirse, y deberá decretarse, en su caso, la cancelación parcial:
-
-I.- Cuando se reduzca el inmueble objeto de la inscripción;
-
-II.- Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
-
-2926.- Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
-
-2927.- Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
-
-2928.- Cuando se registre la propiedad o cualquiera otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
-
-2929.- Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
-
-2930.- Los padres, como administradores de los bienes de sus hijos, los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
-
-2931.- La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
-
-I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
-
-II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañan inutilizados los referidos títulos;
-
-III.- Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
-
-2932.- Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
-
-2933.- Procederá también la cancelación total, si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
-
-La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
-
-2934.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
-
-2935.- Las cancelaciones se harán en la forma que fije el Código Administrativo; pero deberán contener para su validez, los datos necesarios a fin de que con toda exactitud se conozca cual es la inscripción que se cancela, la causa por la que se hace la cancelación y su fecha.
-
-2936.- Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
 
 ### CAPITULO VI. DE LA EXTINCION DE LAS INSCRIPCIONES
 
@@ -12460,3 +12692,87 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El servicio del Registro Civil se brinda en Oficinas Estatales, Municipales y Seccionales. Las firmas autógrafas podrán aplicarse en cualquier Oficialía del Estado y la electrónica estará vigente en las Oficialías Estatales, en los Centros Digitales de Trámites y Servicios y en las Recaudaciones de Rentas. En las Oficialías Municipales y Seccionales, el Registro Civil tendrá la facultad para incorporarlas a la firma electrónica conforme avance su modernización.
+
+P.O. 28 DE OCTUBRE DE 2009.
+
+DECRETO NÚMERO 644/09 II P.O. POR EL QUE SE ADICIONAN UNA FRACCIÓN III BIS, AL ARTÍCULO 25; UNA FRACCIÓN II BIS, AL 1200; UN SEGUNDO PÁRRAFO AL 1217; UN CAPÍTULO I BIS AL TÍTULO DECIMOPRIMERO, PARTE SEGUNDA, DEL LIBRO CUARTO Y LOS ARTÍCULOS 2585-1 AL 2585-22; SE REFORMAN LAS DENOMINACIONES DE LOS CAPÍTULOS V, DEL TÍTULO NOVENO, LIBRO PRIMERO; EL VII, DEL TÍTULO CUARTO, DEL LIBRO TERCERO Y EL TÍTULO DECIMOPRIMERO DE LA PARTE SEGUNDA, DEL LIBRO CUARTO; ASÍ COMO LOS ARTÍCULOS 65; 247, EN LA FRACCIÓN II DE SU PÁRRAFO CUARTO; 256 BIS, EN SU PÁRRAFO FINAL; 367, PÁRRAFO PRIMERO Y FRACCIÓN IV DE SU PÁRRAFO SEGUNDO; 374, FRACCIÓN III EN SU PRIMER PÁRRAFO; 375; 379 TER, EN SU PÁRRAFO PRIMERO; 382, PÁRRAFO FINAL; 393, EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; 399, EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; 470, PÁRRAFO PRIMERO; 471, EN SUS PÁRRAFOS PRIMERO Y TERCERO; 478, FRACCIONES V Y VI; 521, 752; 1200, FRACCIÓN III; 1217, EN SU PÁRRAFO PRIMERO; 1219, FRACCIONES VIII Y IX; 1233, EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; 1388, PÁRRAFO PRIMERO; 1528, 1529, 1780, 1793, 2584, 2585; 2626, SEGUNDO PÁRRAFO; 2663; 2888, FRACCIÓN III; 2894, EN LA FRACCIÓN VIII DE SU PÁRRAFO SEGUNDO; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 470, TODOS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el año dos mil nueve, el organismo para la asistencia social pública (DIF Estatal), deberá elaborar y publicar lo siguiente:
+
+a) Las reglas y manuales de procedimientos que deberán seguirse para la prestación de los servicios en los establecimientos de asistencia social pública.
+
+b) Los lineamientos para garantizar la integralidad y calidad en la prestación de los servicios en los establecimientos de asistencia social privada que atiendan a personas menores de edad, adultas mayores y en situación de discapacidad.
+
+c) Los procesos a seguir para la obtención de la certificación por la calidad en la prestación de los servicios de asistencia social pública, en el ámbito municipal.
+
+d) Su estatuto orgánico, así como los manuales de procedimientos y servicios al público.
+
+e) Las reglas y disposiciones de carácter general en relación a la metodología, técnicas y procedimientos administrativos para los trámites de adopción.
+
+f) Los protocolos que sirvan como base para la debida atención de personas menores de edad en situación de desamparo, maltrato, omisión de cuidados y explotación en cualquiera de sus modalidades; mujeres en situación de maltrato o explotación en cualquiera de sus modalidades; adultas (sic) mayores en situación de desamparo, maltrato, abandono o explotación en cualquiera de sus modalidades; y en situación de discapacidad.
+
+###### ARTÍCULO TERCERO.
+
+Los trabajos para el diseño, acopio y conformación del Sistema Estatal de Información para la Asistencia Social, deberán dar inicio durante el año dos mil nueve.
+
+###### ARTÍCULO CUARTO.
+
+La constitución e instalación del Consejo Consultivo para la Asistencia Social Pública, deberá realizarse a más tardar en el mes de diciembre del año dos mil nueve.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo del Estado deberá tener diseñado, a más tardar en el mes de octubre del año dos mil nueve, el apartado en materia de asistencia social que formará parte del Programa Estatal de Desarrollo Social y Humano.
+
+###### ARTÍCULO SEXTO.
+
+Las relaciones laborales de los trabajadores con que cuente el organismo para la asistencia social pública a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Sistema para el Desarrollo Integral de la Familia del Estado de Chihuahua, continuarán rigiéndose hasta su conclusión por las disposiciones legales que les dieron origen.
+
+###### ARTÍCULO OCTAVO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Beneficencia Pública, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la asistencia social pública u organismo para la asistencia social pública, conocido actualmente como DIF Estatal.
+
+###### ARTÍCULO NOVENO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Procuraduría para la Defensa del Menor y la Familia, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Procuraduría de Asistencia Jurídica y Social, a través de sus correspondientes Subprocuradurías Especializadas.
+
+###### ARTÍCULO DÉCIMO.
+
+Los numerales 70 y 78 del ARTÍCULO PRIMERO del presente Decreto, entrarán en vigor a partir de los meses de mayo y septiembre del año dos mil once, respectivamente.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Las relaciones laborales de los trabajadores con que cuente la Junta de Asistencia Privada a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.
+
+###### ARTÍCULO DUODÉCIMO.
+
+La convocatoria pública para la elección de los representantes de las instituciones de asistencia social privada a que se refiere el numeral 70, fracción VI, del ARTÍCULO PRIMERO del presente Decreto, deberá establecer los dos rubros por los que participarán aquéllos por única vez con una duración de dos años, así como los que durarán en el cargo los tres años completos.
+
+La convocatoria pública respectiva se emitirá durante la segunda quincena del mes de marzo del año dos mil once.
+
+ARTÍCULO DECIMOTERCERO. Siempre que en cualquier otra disposición, ordenamiento o instrumento legalmente expedido se haga referencia a la Junta de Beneficencia Privada o Junta de Asistencia Privada, se entenderá que se trata ahora de la Junta de Asistencia Social Privada.
+
+Cuando la referencia se haga a Instituciones de Beneficencia Privada o Instituciones de Asistencia Privada, se entenderá que se hace alusión a las instituciones de asistencia social privada.
+
+ARTÍCULO DECIMOCUARTO. Los trabajos para el diseño, acopio y conformación del Subsistema de Información para la Asistencia Social Privada, deberán dar inicio durante el año dos mil nueve.
+
+P.O. 28 DE OCTUBRE DE 2009.
+
+DECRETO NÚMERO 728/09 VI P.E. POR EL QUE SE REFORMAN LOS ARTÍCULOS 83, EN SU PRIMER Y SEGUNDO PÁRRAFOS; 272, 367, 368, 369, 373; 374, FRACCIÓN III; 375, 384, 385, 396 Y 1504; SE DEROGAN LOS NUMERALES 379, 379 BIS, 379 TER, 380, 381, 382, 383, 383 BIS, 1512 Y 1513; Y SE DEROGAN DEL CAPÍTULO V DE LA ADOPCIÓN, LAS DENOMINACIONES "A) DISPOSICIONES GENERALES, B) ADOPCIÓN SIMPLE, C) ADOPCIÓN PLENA Y D) ADOPCIÓN INTERNACIONAL", TODOS ELLOS DEL CÓDIGO CIVIL DEL ESTADO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las adopciones simples que se encuentren en trámite a la entrada en vigor de las presentes reformas se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
+
+No obstante, si en las adopciones simples que actualmente se tramitan, hubiere la voluntad del o de los adoptantes de obtener la adopción plena, podrá seguir el procedimiento establecido en el presente Decreto.
+
+Las adopciones simples realizadas con anterioridad a la entrada en vigor del presente Decreto, podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
