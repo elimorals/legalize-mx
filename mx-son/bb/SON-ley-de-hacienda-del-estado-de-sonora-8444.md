@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2009-03-12"
+last_updated: "2009-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE ENERO DE 2009.
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE OCTUBRE DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1955,21 +1953,37 @@ XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre
 
 XIII.- Pagos que resulten del crédito al salario conforme a la Ley del Impuesto Sobre la Renta.
 
-> <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 218 Bis.
 
-Se otorga un estimulo fiscal consistente en una reducción del 100% en el pago del impuesto a personas físicas y morales que realicen aportaciones en efectivo, no onerosas, ni remunerativas, equivalentes al impuesto causado en el periodo más un donativo adicional de por lo menos el 25% de la aportación, a instituciones de asistencia privada autorizadas por la Secretaria de Hacienda y cuyo objeto preponderantemente sea brindar apoyos económicos bajo un esquema de aportaciones paritarias con fines específicos a organizaciones e instituciones de la sociedad civil que proporcionen gratuitamente servicios de asistencia social a la población del Estado con mayores niveles de marginación económica y social.
+Se otorga un estimulo fiscal consistente en una reducción de cien porciento (sic) en el pago del impuesto a personas físicas y morales que realicen aportaciones en efectivo, no onerosas, ni remunerativas, equivalentes al impuesto causado en el periodo, a instituciones de asistencia privada autorizadas por la Secretaría de Hacienda y cuyo objeto, preponderantemente, sea brindar apoyos económicos bajo un esquema de aportaciones paritarias con fines específicos a organizaciones e instituciones de la sociedad civil que proporcionen, gratuitamente, servicios de asistencia social a la población del Estado con niveles mayores de marginación económica y social.
+
+> <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
 
 Para los fines del presente artículo, deberá entenderse por esquema de aportaciones paritarias con fines específicos aquél en el que la institución aportante y la institución beneficiaria otorguen la misma cantidad de recursos para alcanzar a través de esta última un fin específico, siempre que éste se haga explícito y cumpla con objetivos en materia de asistencia social.
 
+> <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
+
 El presente estímulo será otorgado de conformidad con los lineamientos que al efecto expida la Secretaría de Hacienda.
+
+> <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
 
 La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación del comprobante de la aportación expedido a nombre del contribuyente, al rendir la declaración correspondiente.
 
-La Secretaría de Hacienda otorgará anualmente este beneficio hasta por una cantidad límite equivalente al 8% del impuesto presupuestado en la Ley de Ingresos del Estado del ejercicio correspondiente.
+> <small>(REFORMADO, B.O. 29 DE OCTUBRE DE 2009)</small>
+
+La Secretaría de Hacienda otorgará anualmente este beneficio, el cual será equivalente al 8% del impuesto presupuestado en la Ley de Ingresos del Estado del ejercicio correspondiente.
+
+> <small>(ADICIONADO, B.O. 29 DE OCTUBRE DE 2009)</small>
+
+El otorgamiento del estímulo en el pago del impuesto a que se refiere el presente artículo, no exime el pago del impuesto para el sostenimiento de la Universidad de Sonora y de la contribución para el Consejo Estatal de Concertación para la Obra Pública.
+
+> <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
 
 Los contribuyentes beneficiarios al (sic) estímulo previsto en este artículo, deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto causado.
+
+> <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
 
 El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
 
@@ -3461,7 +3475,7 @@ VIII.-Por Boletín Oficial que se adquiera en fecha Posterior a su publicación 
 
 Tratándose de publicaciones de convenios autorización de fraccionamientos
 
-habitacionales se aplicará la cuota correspondientemente reducida en un 75%.
+habitacionales se aplicará la cuota correspondiente reducida en un 75%.
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -5808,3 +5822,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Los estímulos fiscales a que se hace referencia en la Ley de Hacienda del Estado se otorgarán a partir del 1º de enero del 2009.
+
+B.O. 29 DE OCTUBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los contribuyentes podrán presentar la solicitud para obtener la deducibilidad del impuesto referido en el artículo 218-BIS de la Ley de Hacienda del Estado, hasta en tanto no se cumpla el porcentaje del 8% señalado en el párrafo quinto de dicho artículo o, en su caso, hasta el último día hábil del ejercicio fiscal de que se trate.
