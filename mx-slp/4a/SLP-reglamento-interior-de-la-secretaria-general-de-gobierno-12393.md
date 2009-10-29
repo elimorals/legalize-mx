@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2009-10-27"
+last_updated: "2009-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSI
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2009 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2009.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE OCTUBRE DE 2009.</small>
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -44,8 +44,6 @@ La Secretaría General de Gobierno, como dependencia del Poder Ejecutivo del Est
 ###### ARTICULO 2.
 
 La Secretaría General de Gobierno adecuará y ejecutará sus programas de acuerdo con sus atribuciones y con los objetivos y metas del Plan Estatal de Desarrollo, con base en las políticas y prioridades que establezca el Gobernador del Estado.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2009 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2004)</small>
 
@@ -83,9 +81,17 @@ e).- La Dirección del Registro Civil.
 
 f).- El Instituto de Investigaciones Jurídicas
 
-IV.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2009)
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-V.- Las Coordinaciones para Asuntos Especiales en la Zona Huasteca, y en la Zona Altiplano.
+IV.- La Subsecretaría de Prevención y Readaptación Social, integrada por:
+
+a).- La Dirección General de Prevención y Readaptación Social, de la que a su vez dependen las Direcciones de los Centros de Readaptación Social de la capital, así como los regionales; y
+
+b).- La Dirección General de Ejecución de Medidas para Menores, de la que a su vez dependen los Centros de Internamiento y de Reeducación.
+
+> <small>(F. DE E., P.O. 29 DE OCTUBRE DE 2009)</small>
+
+V.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2009)
 
 VI.- La Dirección General de Seguridad Pública del Estado, integrada por:
 
@@ -722,8 +728,6 @@ XI.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y man
 ###### ARTICULO 24.
 
 Compete al Centro de Reeducación de la Dirección General de Ejecución de Medidas para Menores, el ejercicio de las atribuciones que le señala el artículo 25 de la Ley de Justicia para Menores del Estado.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2009 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTICULO 25.
 
