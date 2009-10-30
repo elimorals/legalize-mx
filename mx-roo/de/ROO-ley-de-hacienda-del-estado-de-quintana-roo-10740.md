@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2008-12-18"
+last_updated: "2009-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -2149,7 +2149,7 @@ El impuesto a que se refiere este capítulo se causará al momento en que se per
 
 ###### ARTICULO 168-E.
 
-Son sujetos del impuesto, las personas físicas, morales o unidades económicas que utilicen los servicios señalados en el artículo 168-A de esta ley.
+Son sujetos del impuesto, las personas físicas, morales o unidades económicas que utilicen los servicios señalados en el artículo 168-A de esta Ley.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
@@ -5881,9 +5881,17 @@ al mayoreo
 
 En el caso de las licencias únicas se cobrará un derecho equivalente a cada giro o establecimiento de conformidad con las tarifas vigentes arriba mencionadas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
+
 ###### ARTICULO 174.
 
-(DEROGADO, P.O. 20 DE DICIEMBRE DE 2004)
+Por la expedición de la autorización para las casas de empeño o préstamo en el Estado, se causará un derecho de acuerdo a la siguiente tarifa:
+
+I. Por apertura hasta 45 S.M.G.;
+
+II. Por revalidación anual hasta 25 S.M.G.;
+
+III. Por modificación hasta 20 S.M.G.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9386,3 +9394,7 @@ TERCERO.- Para lo dispuesto en la fracción VIII del artículo 172, se concede u
 CUARTO.- Se dejan sin efecto todas las disposiciones legales de que se opongan al presente Decreto.
 
 QUINTO.- El presente Decreto entrará en vigor a partir del 1o. de Enero de 2009, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
