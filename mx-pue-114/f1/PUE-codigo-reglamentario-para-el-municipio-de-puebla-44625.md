@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2009-05-25"
+last_updated: "2009-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1136,6 +1136,10 @@ II. Ser vecino residente por un periodo mínimo de 6 meses anteriores al día de
 III. No tener antecedentes penales;
 
 IV. Estar Inscritos en el Registro Federal de Electores y contar con credencial para votar con fotografía.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+El acreditamiento del requisito exigido por la fracción III del presente artículo, se efectuará mediante la consulta que realice la Secretaría de Seguridad Pública y Tránsito Municipal en la base de datos del Sistema Nacional de Seguridad Pública, previa solicitud que por escrito le dirija la Secretaría, en atención a la petición que en la misma forma realice el interesado.
 
 DE LA ELECCIÓN DE LA MESA DIRECTIVA
 
@@ -3323,6 +3327,10 @@ III. Equipo Especial Móvil. Aquél que no se encuentra comprendido en las fracc
 
 Para que un vehículo pueda transitar regularmente en el Municipio de Puebla, es necesario que con anticipación sea inscrito en términos de las disposiciones federales y estatales aplicables, esté provisto de placas, engomado y tarjeta de circulación o el permiso de circulación vigente y cumpla con los demás requisitos que, en su caso, establezcan de manera especial la legislación y demás disposiciones aplicables en la materia. La baja, cancelación o sustitución de la inscripción antes referida, así como la responsabilidad que surja de su omisión, se regirán por las mismas disposiciones.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+Para el caso de los vehículos que porten placas de circulación del Estado de Puebla, éstas deberán estar vigentes.
+
 ###### Artículo 268.
 
 La clasificación, condiciones de uso, obtención canje, reposición y demás aspectos relacionados con las placas, engomados y tarjetas de circulación de los vehículos que transitan en el Municipio, quedan sujetas a la (sic) disposiciones de la legislación fiscal y administrativa que resulten aplicables en la materia, quedando prohibida la circulación de vehículos con placas y tarjeta de circulación correspondientes a otros vehículos.
@@ -4377,6 +4385,10 @@ h). El tabulador de infracciones y multas;
 
 i). Los demás datos relativos a la actuación.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+En caso de la detección de un vehículo en las condiciones citadas en la fracción I del artículo 323, el Agente de Tránsito Municipal deberá informar de las características de los vehículos como marca, modelo, tipo, línea, así como el Número de Identificación Vehicular (NIV), y en su caso número de motor y número de legalización al número telefónico del Centro de Emergencia y Respuesta Inmediata, así como al personal que cuenta con la clave de acceso al Sistema Nacional de Seguridad Pública, para realizar la consulta a la Base de Datos y elaborar el informe correspondiente; en caso de que el vehículo tenga un reporte de robo, el Agente deberá asegurar al conductor y el vehículo, y ponerlos a disposición de la autoridad competente. En caso de no tener reporte en la Base de Datos, el vehículo deberá trasladarse al Depósito Vehicular que corresponda a la ubicación donde fuere detenido observando lo dispuesto por el artículo 350 Quinquies del presente Código.
+
 VII. Al levantar el acta de infracción, el agente de seguridad vial debe dar oportunidad a la persona con la que se entendió la diligencia, para que en el mismo acto, si lo desea, declare lo que estime conveniente;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
@@ -4437,13 +4449,17 @@ IV. En el caso de que el conductor sobrepase el límite permitido de alcohol o n
 
 V. El agente entregará un ejemplar del comprobante de los resultados de la prueba al Juez Calificador, documento que constituirá prueba fehaciente de la cantidad de alcohol o narcóticos encontrados.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 350 Quinquies.
 
-En los casos que proceda la remisión del vehículo al depósito oficial y previamente a que se inicie el procedimiento de arrastre, los agentes deberán sellarlo para garantizar la guarda y custodia de los objetos que en él se encuentren; si el conductor fuese menor de 16 años, el agente levantará la infracción que corresponda y remitirá el vehículo al depósito.
+En los casos que proceda la remisión del vehículo al depósito oficial y previamente a que se inicie el procedimiento de arrastre, los Agentes deberán realizar un inventario detallado del vehículo y sus pertenencias, posteriormente deberá ser sellado y entregarse al conductor el original del inventario, lo anterior para garantizar la guarda y custodia de los objetos que en él se encuentren; si el conductor fuese menor de 16 años, el Agente levantará la infracción que corresponda y remitirá el vehículo al depósito.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Los agentes que hubieren llevado a cabo la remisión al depósito, informarán de inmediato al centro de control correspondiente los datos del depósito, como lo son número de placas, marca y tipo del vehículo y depósito oficial de vehículos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Para la devolución de los vehículos remitidos al encierro, será indispensable la comprobación de la propiedad o la posesión legal del mismo, pago de las multas y derechos que procedan.
 
@@ -4617,9 +4633,11 @@ Las multas impuestas como sanción deberán pagarse dentro del término de veint
 
 El infractor que de manera espontánea pague la multa dentro de los cinco días siguientes a la fecha de la infracción, se beneficiará con la reducción automática del monto debido en un cincuenta por ciento, en tanto que si el pago lo hace después de los cinco días, sin exceder de diez, la reducción será del veinticinco por ciento. Entre el onceavo y el vigésimo día no se concederá descuento alguno y después de vencido el término, se estará a lo fijado en las disposiciones fiscales correspondientes, no será aplicable dicho descuento al infractor por transgresiones a lo señalado en los artículos 301 y 304 fracción VI del presente Código.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 364.
 
-En caso de reincidencia o habitualidad, el importe de las multas que correspondan a cada una de las faltas o infracciones cometidas se aumentarán un tanto más, sin perjuicio de las medidas de seguridad y demás sanciones que correspondan conforme a otros ordenamientos.
+En caso de reincidencia o habitualidad, el importe de las multas que correspondan a cada una de las faltas o infracciones cometidas se aumentarán un tanto más, excepto aquélla que se derive de la detención de un vehículo en términos del artículo 323 fracción I, aplicándose la sanción correspondiente más alta contemplada en el tabulador de infracciones, sin perjuicio de las medidas de seguridad y demás sanciones que correspondan conforme a otros ordenamientos.
 
 ###### Artículo 365.
 
@@ -32142,3 +32160,9 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
 P.O. 25 DE MAYO DE 2009.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+PRIMERO. Las presentes adiciones y reformas surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
