@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-del-estado-de-queretaro-70758"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-23"
-last_updated: "2009-10-23"
+last_updated: "2009-10-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE OCTUBRE DE 2009.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de octubre de 2009.
 
@@ -1265,11 +1267,45 @@ El embargo también se levantará si se decreta la libertad del imputado por fal
 
 (Restitución de derechos del ofendido). El ofendido o sus legítimos representantes, podrán solicitar al Ministerio Público, durante las diligencias de preparación del ejercicio de la acción penal, o al juzgador, en el procedimiento seguido ante él, cuando esté comprobado el cuerpo del delito, que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de los mismos, siempre que estén legalmente justificados y se otorgue, en su caso, caución bastante para garantizar el pago de los daños y perjuicios que pudieran ocasionarse a terceros o al imputado.
 
-### Capítulo Primero. Disposiciones comunes
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+### Capítulo Noveno. Atención integral a mujeres en caso de práctica de aborto
+
+(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009) (F. DE E., P.O. 30 DE OCTUBRE DE 2009)
+
+Artículo 143 A. (Procedencia de la atención integral a mujeres en caso de práctica de aborto) Inmediatamente que el Ministerio Público tenga conocimiento, por cualquier medio, de la probable existencia del delito de aborto, notificará a la mujer a quien se acuse de haberse practicado un aborto o haber consentido que otro la hiciera abortar, la necesidad que tiene de acudir a cualquiera de las instituciones públicas, sociales o privadas de su elección, a efecto de recibir atención integral.
+
+El Estado garantizará la secrecía de los resultados, análisis y dictámenes de la atención integral, salvo que la imputada pida su utilización dentro de la investigación o del proceso.
+
+El oficio correspondiente contendrá por lo menos:
+
+I. El señalamiento de la necesidad de acudir, en un plazo no mayor a 48 horas, a la institución pública, social o privada que se encuentre debidamente autorizada por la Secretaría de Salud del Estado de Querétaro, para recibir atención integral en los términos previstos en este capítulo; y
+
+II. Un listado con los nombres y domicilios de las instituciones públicas, sociales y privadas más cercanas a su domicilio, que se encuentren debidamente autorizadas por la Secretaría de Salud del Estado de Querétaro, para brindar atención integral a mujeres en caso de práctica de aborto.
+
+(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009) (F. DE E., P.O. 30 DE OCTUBRE DE 2009)
+
+Artículo 143 B. (De la atención integral a mujeres en caso de práctica de aborto) La Secretaría de Salud informará a la Dirección de Averiguaciones Previas, los nombres y domicilios de las instituciones públicas, sociales y privadas, que se encuentren debidamente autorizadas por dicha dependencia, para brindar atención integral a mujeres en el caso de la práctica de aborto.
+
+Toda institución autorizada por la Secretaría de Salud del Estado de Querétaro, para brindar atención integral a mujeres en caso de práctica de aborto, que inicie la atención integral de alguna mujer acusada de cometer el delito de aborto, deberá notificar inmediatamente al Ministerio Público correspondiente.
+
+(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009) (F. DE E., P.O. 30 DE OCTUBRE DE 2009)
+
+Artículo 143 C. (Elementos de la atención integral) La atención integral a mujeres en caso de práctica de aborto, consistirá en un conjunto de servicios de salud que se proporcionarán con el fin de procurar restaurar al grado máximo posible, la salud física y mental de las mujeres que voluntariamente se han practicado un aborto o han consentido que un tercero las haga abortar, a través de tratamientos o referencias a instancias especializadas.
+
+Los servicios que se prestarán a la mujer que se presume se practicó un aborto o consintió que lo practicaran, consistirán en:
+
+I. La prestación de los servicios necesarios para estabilizar, reparar daños y evitar complicaciones, a través de evaluación y tratamiento de lesiones físicas;
+
+II. Atención psicológica;
+
+III. Formación, orientación y asesoramiento que promueva la integración, el desarrollo y el fortalecimiento de la familia, sus fines de unidad, convivencia armónica, ayuda mutua y la preservación de los valores de la comunidad; y
+
+IV. Si la situación económica de la mujer es precaria, recibirá en el lugar en que se encuentre la atención de un médico especializado y, en su caso, la transportación a la clínica u hospital en que se le atenderá.
 
 ## Título Quinto. Prueba
 
-### Capítulo Segundo. Confesión
+### Capítulo Primero. Disposiciones comunes
 
 ###### Artículo 144.
 
@@ -1305,7 +1341,7 @@ Durante el procedimiento ante el órgano jurisdiccional, los medios de prueba si
 
 (Obligación de exhibir documentos). Toda persona en cuyo poder se hallen cosas o documentos que deban servir de medio de prueba, tiene la obligación de exhibirlos, cuando para ello sea requerida en forma por el Ministerio Público, durante las diligencias de preparación del ejercicio de la acción penal, o por el juzgador, con motivo del procedimiento que se siga ante él, con las salvedades que establezcan las leyes.
 
-### Capítulo Tercero. Inspección y reconstrucción de hechos
+### Capítulo Segundo. Confesión
 
 ###### Artículo 151.
 
@@ -1327,7 +1363,7 @@ Si formulada una pregunta, el interrogado manifestare que no la entiende, la aut
 
 De todo lo ocurrido en la diligencia se dejará constancia en el acta, la cual, previa lectura, será firmada por el funcionario que haya practicado la prueba, el secretario o los testigos de asistencia y las demás personas que hubieren intervenido. En el acta se escribirá cada pregunta y a continuación la respuesta, con las palabras textuales que utilicen la autoridad y el imputado.
 
-### Capítulo Cuarto. Dictamen de peritos
+### Capítulo Tercero. Inspección y reconstrucción de hechos
 
 ###### Artículo 154.
 
@@ -1371,7 +1407,7 @@ En el caso a que se refiere la primera parte del artículo anterior es necesario
 
 (Versiones distintas de los hechos). Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hechos, se practicarán, si fuere conducente para al (sic) esclarecimiento de los mismos, las reconstrucciones relativas a cada una de aquéllas; y, en caso de que se haga necesaria la intervención de peritos, éstos dictaminarán sobre cuál de las versiones puede acercarse más a la verdad.
 
-### Capítulo Quinto. Declaración de testigos
+### Capítulo Cuarto. Dictamen de peritos
 
 ###### Artículo 162.
 
@@ -1461,7 +1497,7 @@ II. El cotejo se hará con documentos indubitables o con los que las partes de c
 
 El juzgador podrá ordenar que se repita el cotejo por otros peritos.
 
-### Capítulo Sexto. Confrontación
+### Capítulo Quinto. Declaración de testigos
 
 ###### Artículo 176.
 
@@ -1563,7 +1599,7 @@ Si resultare que la solicitud fue infundada y por lo mismo indebido el arraigo, 
 
 (Separación de testigos). El funcionario que practique las diligencias deberá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rinda su declaración.
 
-### Capítulo Séptimo. Careos
+### Capítulo Sexto. Confrontación
 
 ###### Artículo 193.
 
@@ -1593,7 +1629,7 @@ Es también aplicable a este medio de prueba, lo dispuesto en el artículo 35 fr
 
 (Confrontación por fotografía y otros medios). Cuando sea necesario reconocer a una persona que no estuviere en la diligencia ni pudiere ser presentada, podrá realizarse la confrontación a través de fotografías, dibujos, videos u otros medios técnicos de descripción con los que se cuente, los que se le presentarán a quien debe efectuar el reconocimiento con otras fotografías, dibujos, videos o medios técnicos de descripción, de personas en condiciones exteriores semejantes, observándose en todo lo conducente y posible las disposiciones precedentes.
 
-### Capítulo Octavo. Documentos
+### Capítulo Séptimo. Careos
 
 ###### Artículo 199.
 
@@ -1611,7 +1647,7 @@ El careo se practicará dando lectura a las declaraciones que se reputen contrad
 
 (Imposibilidad de practicar el careo). Cuando agotados los medios de apremio no pudiere obtenerse la comparecencia de alguna de las personas que deba ser careada, el juzgador ordenará al secretario que levante una certificación de este hecho y continuará con el procedimiento.
 
-### Capítulo Noveno. Valoración de los medios de prueba
+### Capítulo Octavo. Documentos
 
 ###### Artículo 202.
 
@@ -1633,7 +1669,7 @@ Quien objete documentos públicos, tendrá la carga de demostrar dicha objeción
 
 (Documentos en idioma extranjero). Los documentos no redactados en castellano se presentarán acompañados de su traducción a este idioma. Si ésta fuere objetada, se ordenará que sean traducidos por los peritos que designe el juzgador.
 
-### Capítulo Primero. Disposiciones comunes
+### Capítulo Noveno. Valoración de los medios de prueba
 
 ###### Artículo 205.
 
@@ -1699,13 +1735,13 @@ V. Que el testigo no haya sido obligado ni impulsado por engaño, error o soborn
 
 ## Título Primero. Iniciación del procedimiento
 
-### Capítulo Segundo. Iniciación por denuncia
+### Capítulo Primero. Disposiciones comunes
 
 ###### Artículo 213.
 
 (Objeto de las diligencias de preparación del ejercicio de la acción penal). Las diligencias de preparación del ejercicio de la acción penal consisten en la investigación de los hechos posiblemente delictuosos de que tenga conocimiento el Ministerio Público, con el objeto de comprobar el cuerpo del delito y establecer por lo menos la probable responsabilidad del imputado como requisitos para proceder al ejercicio de la acción penal.
 
-### Capítulo Tercero. Iniciación por querella
+### Capítulo Segundo. Iniciación por denuncia
 
 ###### Artículo 214.
 
@@ -1731,7 +1767,7 @@ Cuando se presente la denuncia por escrito, deberá ser ratificada por el que la
 
 Los servidores públicos a que se refiere el artículo anterior no están obligados a hacer esa ratificación, pero el agente del Ministerio Público o el elemento de la Policía de Investigación del Delito que reciba la denuncia deberá asegurarse de la personalidad de aquéllos y de la autenticidad del documento en que se haga la denuncia, si tuviere duda sobre ellos.
 
-### Capítulo Primero. De las actas ministeriales
+### Capítulo Tercero. Iniciación por querella
 
 ###### Artículo 217.
 
@@ -1751,7 +1787,7 @@ Tratándose de menores de esta edad o de otros incapaces, la querella se present
 
 ## Título Segundo. Reglas aplicables a las diligencias de preparación del ejercicio de la acción penal
 
-### Capítulo Segundo. Atención médica a lesionados y asistencia a menores e incapaces
+### Capítulo Primero. De las actas ministeriales
 
 ###### Artículo 220.
 
@@ -1817,7 +1853,7 @@ En ambos casos, los peritos médicos harán la clasificación médico-legal.
 
 (Forma de suplir la necropsia). Cuando por cualquier otro motivo no pueda practicarse la necropsia, bastará que los peritos, en vista de los datos que obren en el expediente, dictaminen que la muerte fue resultado de las lesiones inferidas.
 
-### Capítulo Tercero. Preservación de huellas, instrumentos y objetos del delito
+### Capítulo Segundo. Atención médica a lesionados y asistencia a menores e incapaces
 
 ###### Artículo 229.
 
@@ -1861,9 +1897,7 @@ El incumplimiento de cualquiera de las obligaciones señaladas en este artículo
 
 (Asistencia a las víctimas cuando se trata de menores o enfermos mentales). Siempre que un delito fuere cometido dolosamente por los ascendientes de las víctimas o por personas que ejerzan autoridad sobre ellas, y éstas sean menores o enfermos mentales, serán trasladados a una casa de reconocida honradez o a una institución asistencial, si no hubiere familiares idóneos que se haga (sic) cargo de ellas, dando aviso de esta medida a la Procuraduría de la Defensa del Menor y de la Familia y a sus familiares, cuando se trate de menores o a una institución de asistencia social, tratándose de enfermos mentales.
 
-### Capítulo Cuarto
-
-Destrucción, confinamiento, utilización, donación, entrega, venta, aplicación o enajenación de cosas aseguradas, decomisadas o a disposición del Ministerio Público o de la autoridad judicial
+### Capítulo Tercero. Preservación de huellas, instrumentos y objetos del delito
 
 ###### Artículo 235.
 
@@ -1883,7 +1917,9 @@ De todas las cosas recogidas, se hará un inventario en el que se les describir�
 
 (Vista de las cosas recogidas). Siempre que sea necesario tener a la vista alguna de las cosas a que se refieren los artículos anteriores, se comenzará la diligencia haciendo constar si se encuentra en el mismo estado en que estaba al ser recogida. Si se considera que ha sufrido alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir.
 
-### Capítulo Quinto. Cateos
+### Capítulo Cuarto
+
+Destrucción, confinamiento, utilización, donación, entrega, venta, aplicación o enajenación de cosas aseguradas, decomisadas o a disposición del Ministerio Público o de la autoridad judicial
 
 ###### Artículo 239.
 
@@ -1911,7 +1947,7 @@ V. Las cosas o bienes a disposición del Ministerio Público o de la autoridad j
 
 Para el remate y la adjudicación, supletoriamente se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado de Querétaro.
 
-### Capítulo Primero. Cuerpo del delito
+### Capítulo Quinto. Cateos
 
 ###### Artículo 240.
 
@@ -1949,13 +1985,13 @@ En ambos casos se hará constar está circunstancia, así como si no pudiera fir
 
 ## Título Tercero. Cuerpo del delito y probable responsabilidad
 
-### Capítulo Segundo. Probable responsabilidad
+### Capítulo Primero. Cuerpo del delito
 
 ###### Artículo 245.
 
 (Integración del cuerpo del delito). Se tendrá por acreditado el cuerpo del delito, cuando se comprueben los elementos constitutivos del tipo penal del delito de que se trate, por cualquier medio probatorio que admita la ley.
 
-### Capítulo Primero. Ejercicio de la acción penal
+### Capítulo Segundo. Probable responsabilidad
 
 ###### Artículo 246.
 
@@ -1965,7 +2001,7 @@ Para los efectos de este Código, la probable participación reprochable se demu
 
 ## Título Cuarto. Determinaciones con las que concluyen las diligencias de preparación del ejercicio de la acción penal
 
-### Capítulo Segundo. No ejercicio de la acción penal
+### Capítulo Primero. Ejercicio de la acción penal
 
 ###### Artículo 247.
 
@@ -1993,7 +2029,7 @@ El pliego de consignación deberá ser acompañado por una recopilación, grabad
 
 Si la denuncia o querella se presenta ante un agente del Ministerio Público diverso del lugar a aquél en el que se cometió el delito, éste practicará únicamente las diligencias necesarias y remitirá la averiguación al agente a quien corresponda continuarla.
 
-### Capítulo Tercero. Reserva
+### Capítulo Segundo. No ejercicio de la acción penal
 
 ###### Artículo 252.
 
@@ -2019,7 +2055,7 @@ V. Cuando se haya extinguido la pretensión punitiva del Estado, en los término
 
 (Definitividad del no ejercicio de la acción penal). Las resoluciones que se dicten en los casos a que se refieren los dos artículos anteriores, producirán el efecto de impedir el ejercicio de la acción penal respecto de los hechos que las motiven, salvo que se recaben con posterioridad datos que destruyan la hipótesis de no ejercicio de la acción penal a que se refiere el artículo anterior.
 
-### Capítulo Primero. Auto de radicación
+### Capítulo Tercero. Reserva
 
 ###### Artículo 255.
 
@@ -2031,13 +2067,13 @@ Las averiguaciones cuya reserva haya sido determinada por los agentes del Minist
 
 ## Título Único. Preparación del proceso
 
-### Capítulo Segundo. Orden de aprehensión o comparecencia
+### Capítulo Primero. Auto de radicación
 
 ###### Artículo 256.
 
 (Radicación). El juzgador ante el cual se ejerza la acción penal radicará de inmediato el asunto. Sin más trámite, abrirá expediente, en el que resolverá lo que legalmente corresponda y practicará, sin demora alguna, todas las diligencias procedentes que promuevan las partes.
 
-### Capítulo Tercero. Declaración preparatoria
+### Capítulo Segundo. Orden de aprehensión o comparecencia
 
 ###### Artículo 257.
 
@@ -2049,7 +2085,7 @@ II. Librar orden de comparecencia en todos los demás casos.
 
 Cuando se niegue la orden de aprehensión o comparecencia y ésta cause ejecutoria el Juez, de oficio devolverá al Ministerio Público la averiguación previa, desglosada del expediente, para que éste proceda en consecuencia.
 
-### Capítulo Cuarto. Autos de vinculación a proceso
+### Capítulo Tercero. Declaración preparatoria
 
 ###### Artículo 258.
 
@@ -2075,7 +2111,7 @@ Cuando se niegue la orden de aprehensión o comparecencia y ésta cause ejecutor
 
 (Preguntas al imputado). El juzgador, el defensor y el agente del Ministerio Público deberán estar presentes en la diligencia y podrán interrogar al imputado, quien dará respuestas a los interrogatorios, si ésta fuera su voluntad. Las preguntas deberán referirse a hechos propios se formularán en términos precisos y cada una abarcará un solo hecho, salvo cuando se trate de hechos complejos, en que, por la íntima relación que exista entre ellos, no pueda firmarse o negarse uno sin afirmar o negar el otro. El Juez podrá disponer que los interrogatorios se hagan por su conducto, cuando lo estime necesario, y desechará las preguntas que a su juicio sean capciosas o inconducentes. La pregunta y la resolución judicial que la deseche, se asentarán en el expediente, cuando así lo solicite quien la hubiese formulado.
 
-### Capítulo Quinto. Auto de libertad por falta de elementos para procesar
+### Capítulo Cuarto. Autos de vinculación a proceso
 
 ###### Artículo 264.
 
@@ -2131,7 +2167,7 @@ d) Cuando hayan prescrito los antecedentes penales de conformidad con lo dispues
 
 (No revocación de la libertad). El auto de formal prisión no revoca la libertad provisional concedida, excepto cuando así lo determine el Juez en el propio auto si procede.
 
-### Capítulo Único. Ofrecimiento de medios de prueba
+### Capítulo Quinto. Auto de libertad por falta de elementos para procesar
 
 ###### Artículo 271.
 
@@ -2141,7 +2177,7 @@ d) Cuando hayan prescrito los antecedentes penales de conformidad con lo dispues
 
 ## Título Primero. Instrucción
 
-### Capítulo Primero. Conclusiones ministeriales y del ofendido
+### Capítulo Único. Ofrecimiento de medios de prueba
 
 ###### Artículo 272.
 
@@ -2169,7 +2205,7 @@ Los plazos a que se refiere este artículo se contarán a partir de la fecha del
 
 ## Título Segundo. Preparación del juicio
 
-### Capítulo Segundo. Conclusiones del defensor
+### Capítulo Primero. Conclusiones ministeriales y del ofendido
 
 ###### Artículo 276.
 
@@ -2209,7 +2245,7 @@ II. Si transcurrido el plazo de quince días, no se recibe respuesta del Procura
 
 (Revocación de conclusiones no acusatorias). Si el Procurador General de Justicia revoca las conclusiones no acusatorias y fórmula de acusación, o revocadas las de no acusación como resultado del recurso de revisión interpuesto, se procederá como lo dispone el artículo siguiente.
 
-### Capítulo Tercero. Audiencia de vista
+### Capítulo Segundo. Conclusiones del defensor
 
 ###### Artículo 283.
 
@@ -2221,7 +2257,7 @@ Cuando los acusados fueren varios, el término será común para todos.
 
 (No presentación de conclusiones por la defensa). Si, al concluir el plazo concedido al acusado y a su defensor, éstos no hubieran presentado conclusiones, el Juez tendrá por formulabas (sic) las de no responsabilidad.
 
-### Capítulo Primero. Sentencia
+### Capítulo Tercero. Audiencia de vista
 
 ###### Artículo 285.
 
@@ -2235,7 +2271,7 @@ Contra la resolución que niegue o admita la repetición de las diligencias de p
 
 ## Título Tercero. Juicio
 
-### Capítulo Segundo. Aclaración de sentencia
+### Capítulo Primero. Sentencia
 
 ###### Artículo 287.
 
@@ -2243,7 +2279,7 @@ Contra la resolución que niegue o admita la repetición de las diligencias de p
 
 En todo caso, el juzgador deberá dictar sentencia dentro del plazo de treinta días contados a partir de que se declare visto el proceso.
 
-### Capítulo Primero. Suspensión del procedimiento
+### Capítulo Segundo. Aclaración de sentencia
 
 ###### Artículo 288.
 
@@ -2289,7 +2325,7 @@ IV. Cuando se declare desierto el recurso interpuesto.
 
 ## Título Cuarto. Suspensión y extinción del procedimiento
 
-### Capítulo Segundo. Suspensión a prueba del procedimiento penal
+### Capítulo Primero. Suspensión del procedimiento
 
 ###### Artículo 295.
 
@@ -2325,7 +2361,7 @@ La sustracción de un imputado a la acción de la justicia no impedirá la conti
 
 (Suspensión de procedimiento no penal). Cuando el juzgador que conozca de un proceso no penal tenga conocimiento de que existe un procedimiento penal, sobre hechos delictuosos de tal naturaleza que, si se llegare a dictar sentencia penal con motivo de ellos, éste deba necesariamente influir en la resolución que pudiera dictarse en el proceso no penal, suspenderá este último, hasta que se pronuncie resolución definitiva en el asunto penal.
 
-### Capítulo Tercero. Sobreseimiento
+### Capítulo Segundo. Suspensión a prueba del procedimiento penal
 
 ###### Artículo 300.
 
@@ -2395,7 +2431,7 @@ La autoridad encargada de la orientación, vigilancia y asistencia, está obliga
 
 (Sobre la caución). En los casos de suspensión del procedimiento penal a prueba, es aplicable en lo conducente lo establecido en el capítulo relativo a la libertad provisional bajo caución, respecto al otorgamiento de ésta, obligaciones de quien otorga la garantía, y casos en que se hará efectiva.
 
-### Capítulo Primero. Disposiciones comunes
+### Capítulo Tercero. Sobreseimiento
 
 ###### Artículo 310.
 
@@ -2423,7 +2459,7 @@ Se resolverá de plano cuando se decrete de oficio. Si fuere a petición de part
 
 ## Título Quinto. Impugnación
 
-### Capítulo Segundo. Reconsideración
+### Capítulo Primero. Disposiciones comunes
 
 ###### Artículo 314.
 
@@ -2477,7 +2513,7 @@ Si la impugnación fuere interpuesta por el Ministerio Público o su coadyuvante
 
 Cuando la impugnación fuere interpuesta solamente por el imputado o su defensor, la resolución no deberá ser modificada en su perjuicio.
 
-### Capítulo Tercero. Apelación
+### Capítulo Segundo. Reconsideración
 
 ###### Artículo 322.
 
@@ -2497,7 +2533,7 @@ En la audiencia se desahogarán los medios de prueba ofrecidos, se escuchará a 
 
 Si no es posible que en esa audiencia concluya el desahogo de los medios de prueba propuestos, el Juez podrá convocar, por una sola vez, a otra audiencia que se celebrará dentro de las cuarenta y ocho horas siguientes a la primera audiencia.
 
-### Capítulo Cuarto. Denegada apelación
+### Capítulo Tercero. Apelación
 
 ###### Artículo 324.
 
@@ -2577,7 +2613,7 @@ En los casos de excepción a que se refieren los artículos 317 y 321 del presen
 
 (Resolución del Recurso de Apelación). Una vez calificada la admisión y los efectos de la apelación, el Tribunal procederá a pronunciar el fallo correspondiente dentro del plazo de quince días, sin que se exceda el plazo previsto por el artículo 8 del presente Código, haciendo en su caso, la suplencia a la que se refiere el artículo 321 de este Código.
 
-### Capítulo Quinto. Queja
+### Capítulo Cuarto. Denegada apelación
 
 ###### Artículo 336.
 
@@ -2593,7 +2629,7 @@ En los casos de excepción a que se refieren los artículos 317 y 321 del presen
 
 Si el Tribunal declara admisible la apelación, ordenará al Juez que le envíe el expediente o duplicado del mismo, según proceda, a fin de tramitar el recurso.
 
-### Capítulo Sexto. Revisión extraordinaria
+### Capítulo Quinto. Queja
 
 ###### Artículo 339.
 
@@ -2619,7 +2655,7 @@ V. Cuando el no resuelva alguna petición formulada conforme a derecho, dentro d
 
 Transcurrido este plazo, con informe o sin él, se dictará la resolución que proceda, y si se estima probada la omisión, el Tribunal de Segunda Instancia requerirá al juzgador para que cumpla con la obligación respectiva dentro del plazo de tres días. La falta del informe a que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuida y hará incurrir al Juez en multa de diez a cien veces el salario mínimo vigente en el momento y lugar en que hubiere ocurrido la omisión.
 
-### Capítulo Séptimo. Revisión
+### Capítulo Sexto. Revisión extraordinaria
 
 ###### Artículo 342.
 
@@ -2645,7 +2681,7 @@ Formulados los alegatos o transcurridos los plazos anteriores, el Tribunal dicta
 
 (Ejecución del Reconocimiento). Si de declara fundada la solicitud de reconocimiento de inocencia del sentenciado, se informará de esta resolución al órgano ejecutor de sanciones del Estado, para que sin más trámite ponga en libertad absoluta al sentenciado y haga cesar todos los efectos de la sentencia anulada y procederá conforme a lo dispuesto por el Código Penal del Estado de Querétaro.
 
-### Capítulo Único. Del procedimiento
+### Capítulo Séptimo. Revisión
 
 ###### Artículo 347.
 
@@ -2693,7 +2729,7 @@ En su caso, el órgano jurisdiccional deberá realizar la suplencia a que hace r
 
 ## Título Primero. Procedimiento especial para inimputables
 
-### Capítulo Primero. Sustanciación de competencias
+### Capítulo Único. Del procedimiento
 
 ###### Artículo 351.
 
@@ -2741,7 +2777,7 @@ En caso de que el imputado recobre la salud, el procedimiento ordinario será re
 
 ## Título Segundo. Incidentes
 
-### Capítulo Segundo. Sustanciación de impedimentos, excusas y recusaciones
+### Capítulo Primero. Sustanciación de competencias
 
 ###### Artículo 359.
 
@@ -2779,7 +2815,7 @@ El juzgador requerido dará un plazo común de tres días a las partes para que 
 
 (Tramitación por separado). Los incidentes sobre competencia se tramitarán siempre por separado.
 
-### Capítulo Tercero. Acumulación de expedientes
+### Capítulo Segundo. Sustanciación de impedimentos, excusas y recusaciones
 
 ###### Artículo 365.
 
@@ -2845,7 +2881,7 @@ Contra la resolución que se dicte, no procede ningún recurso.
 
 Las excusas serán calificadas por el Jefe de Defensores de Oficio.
 
-### Capítulo Cuarto. Separación de expedientes
+### Capítulo Tercero. Acumulación de expedientes
 
 ###### Artículo 375.
 
@@ -2887,13 +2923,13 @@ Si la promoviese alguna de las partes, el tribunal las oirá en audiencia verbal
 
 (Acumulación durante la preparación del proceso). Las disposiciones de este Capítulo serán aplicables desde la etapa de preparación del proceso, siempre y cuando no haya detenido.
 
-### Capítulo Quinto. Reparación de daños y perjuicios exigibles a terceros
+### Capítulo Cuarto. Separación de expedientes
 
 ###### Artículo 382.
 
 (Separación de expedientes). Procederá la separación de expedientes, únicamente cuando, siguiéndose un proceso por uno o varios delitos, en contra de varios inculpados, alguno o algunos de ellos renuncien al plazo señalado en este Código para ser juzgados, en tanto que otro u otros exijan se les respete dicho plazo.
 
-### Capítulo Sexto. Nulidad del procedimiento
+### Capítulo Quinto. Reparación de daños y perjuicios exigibles a terceros
 
 ###### Artículo 383.
 
@@ -2939,7 +2975,7 @@ I. Cuando el proceso penal se suspenda y sobresea; y
 
 II. Cuando, por haberse dictado sentencia absolutoria penal, el juzgador se abstenga de resolver sobre la pretensión civil.
 
-### Capítulo Séptimo. Incidentes no especificados
+### Capítulo Sexto. Nulidad del procedimiento
 
 ###### Artículo 392.
 
@@ -2970,6 +3006,8 @@ X. Por haberse tenido en cuenta en la sentencia una diligencia que la ley declar
 (Tramitación de nulidad). La nulidad no podrá ser invocada por quien dio lugar a ella. La nulidad de una actuación se reclamará por la parte que la promueve en la actuación subsecuente en que ésta deba intervenir, y se substanciará conforme al procedimiento previsto para los incidentes no especificados. Cuando se resuelva la nulidad del acto, serán igualmente nulas las actuaciones posteriores al acto anulado que se deriven precisamente de éste.
 
 Las resoluciones que resuelvan sobre la nulidad invocada, será apelables en efecto devolutivo.
+
+### Capítulo Séptimo. Incidentes no especificados
 
 ###### Artículo 394.
 
@@ -3024,3 +3062,11 @@ Lic. Jorge García Quiroz
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Para efectos de congruencia y procedencia en el trámite legislativo, las modificaciones de la presente reforma deberán ajustarse al contenido y numeración de las disposiciones vigentes, recorriendo, en su caso, el articulado respectivo al momento de su publicación.
