@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "2008-03-11"
+last_updated: "2009-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -325,39 +325,73 @@ XI.- Los que se pacten en las condiciones generales de trabajo de cada Dependenc
 
 Los trabajadores no están obligados a prestar servicios en sus días de descanso. Si se quebranta esta disposición se pagara al trabajador con un cien por ciento más del salario que le corresponda por sus días de descanso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 35.
 
-Las mujeres disfrutarán del pago del salario íntegro de cuatro semanas de descanso antes de la fecha aproximada del parto y ocho semanas después del mismo. Durante el período de lactancia tendrán dos períodos de descanso extraordinario por día, de media hora cada uno para amamantar a sus hijos, a partir del término de su licencia y hasta cubrir seis meses.
+Las mujeres disfrutarán del pago de salario íntegro de cuatro semanas de descanso antes de la fecha aproximada del parto y ocho semanas después del mismo.
 
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+En caso de parto prematuro, la mujer trabajadora acumulará al descanso posterior al parto todo el lapso de descanso que no efectivizó antes del mismo, de modo de completar las doce semanas.
 
-Asimismo, las mujeres trabajadoras gozarán de Licencia de Maternidad de veinte días hábiles con el pago de salario íntegro en caso de adopción de un menor, contados a partir de la adopción o depósito del menor, de conformidad con las disposiciones relativas del derecho común sustantivo y procesal.
+Durante el periodo de lactancia tendrán dos períodos de descanso extraordinario por día, de media hora cada uno para amamantar a sus hijos, a partir del término de su licencia y hasta cubrir los seis meses del recién nacido. Puede convenirse que dicho lapso de tiempo se otorgue una hora al inicio o término de la jornada.
 
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-Los trabajadores hombres disfrutarán de Licencia de Paternidad Remunerada con motivo del nacimiento o adopción de un hijo, la cual se concederá de acuerdo a las siguientes reglas y modalidades:
+###### ARTICULO 35
 
-a).Licencia de diez días hábiles con el pago de salario íntegro, la cual podrá prorrogarse, a elección del trabajador, por cinco días hábiles con la reducción del 50% del salario y por otros cinco días hábiles más con reducción del 75% del salario;
+BIS.- Las mujeres trabajadoras gozarán de licencia de maternidad remunerada la cual se concederá de acuerdo a las siguientes reglas y modalidades:
 
-b).- Licencia de veinte días hábiles con el pago de salario íntegro, cuando el hijo nacido o adoptado presente alguna discapacidad conforme a la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad del Estado;
+I.- Licencia de veinte días hábiles con el pago de salario íntegro en caso de que:
 
-c).- Licencia de veinte días hábiles con el pago de salario íntegro, cuando la madre presente una complicación grave de salud durante el embarazo o el parto, que le dificulte o impida proporcionar los cuidados maternales necesarios al hijo recién nacido, o esté presente al momento de nacer alguna afectación grave en su salud; o
+a) Se configure la adopción de un menor, surtiendo efectos a partir del depósito del menor, de conformidad con las disposiciones relativas del derecho común sustantivo y procesal.
 
-d).- Licencia de veinte días hábiles con el pago de salario íntegro, en caso de fallecimiento de la madre, cuando el hijo sea menor de edad.
+II.- Licencia de veinte días hábiles con el pago de salario íntegro, la cual podrá prorrogarse, a elección de la trabajadora, por cinco días hábiles con la reducción del 50% del salario y por otros cinco días hábiles más con reducción del 75% del salario en caso de que:
 
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+a) El hijo adoptado presente alguna discapacidad conforme a la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad del Estado; o
 
-Para el otorgamiento de la Licencia de Paternidad Renumerada, el trabajador deberá acreditar, conforme a las disposiciones relativas del derecho común sustantivo y procesal, la posesión de estado civil de casado o concubinato con la madre del menor o el reconocimiento como hijo de éste, y exhibir con su solicitud, el certificado médico de nacimiento del hijo o la resolución judicial que autorice la adopción o depósito del menor con el presunto o presuntos adoptantes y, en su caso, el dictamen médico relativo al estado de gravedad de la salud de la madre o del hijo recién nacido, o el certificado de defunción de la madre. La acreditación de los requisitos a que se refiere este párrafo podrá hacerse previa, conjuntamente o con posterioridad a la solicitud de Licencia, pero en todo caso dentro del período de Licencia concedido y sin perjuicio del otorgamiento de ésta.
+b) Fallecimiento del esposo o concubino cuando el hijo sea menor de edad.
 
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-La solicitud de Licencia de Paternidad Remunerada, o de su prorroga, que formule el trabajador deberá resolverse en forma inmediata y deberá iniciar en los tres primeros días del nacimiento o de la adopción o deposito del menor con el presunto o presuntos adoptantes.
+###### ARTICULO 35
 
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
+TER.- Los hombres trabajadores disfrutarán de licencia de paternidad remunerada la cual se concederá de acuerdo a las siguientes reglas y modalidades:
 
-La Licencia de Paternidad Remunerada se concederá sin perjuicio de la prevista para la mujer en los párrafos primero y segundo de este articulo.
+I.- Licencia de diez días hábiles con el pago de salario íntegro, la cual podrá prorrogarse, a elección del trabajador, por cinco días hábiles con la reducción del 50% del salario y por otros cinco días hábiles más con reducción del 75% del salario, con motivo del nacimiento o adopción de un hijo.
+
+II.- Licencia de veinte días hábiles con el pago de salario íntegro en caso de que:
+
+a) El hijo nacido o adoptado presente alguna discapacidad conforme a la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad del Estado;
+
+b) La esposa o concubina presente una complicación grave de salud durante el embarazo, el parto o postparto, que le dificulte o impida proporcionar los cuidados maternales necesarios al hijo recién nacido o éste presente al momento de nacer alguna afectación grave en su salud;
+
+c) Fallecimiento de la esposa o concubina por complicaciones durante el embarazo, el parto, postparto o cuando el hijo sea menor de edad. La licencia de paternidad remunerada se concederá sin perjuicio de la prevista para la mujer en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 35
+
+QUATER.- Para el otorgamiento de la licencia de paternidad remunerada, el trabajador deberá acreditar, conforme a las disposiciones relativas del derecho común sustantivo y procesal, la posesión de estado civil de casado o concubinato con la madre del menor o el reconocimiento como hijo de éste y exhibir con su solicitud, el certificado médico de nacimiento del hijo, el dictamen médico relativo al estado de gravedad de la salud de la madre o del hijo recién nacido.
+
+En el caso de otorgamiento de las licencias de maternidad o paternidad cuando se adopte a un hijo, se deberá presentar la resolución judicial que autorice la adopción o depósito del menor con el presunto o presuntos adoptantes.
+
+Cuando se trate de la defunción de la madre o del padre, la otra parte deberá presentar el certificado de defunción respectivo.
+
+La acreditación de los requisitos a que se refiere el presente artículo podrá hacerse previa, conjuntamente o con posterioridad a la solicitud de licencia, pero en todo caso dentro del período de licencia concedido y sin perjuicio del otorgamiento de ésta.
+
+La solicitud de licencia o de su prórroga, que formule la persona trabajadora deberá resolverse en forma inmediata y deberá iniciar en los tres primeros días del nacimiento o de la adopción o deposito del menor con el presunto o presuntos adoptantes.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 35
+
+QUINQUIES.- Las licencias de maternidad y de paternidad se conceden independientemente de las vacaciones establecidas o demás días de descanso obligatorio que se estipulen en la presente ley. Si el correspondiente turno vacacional coincidiere o quedare comprendido dentro de este periodo, dicho turno empezará a correr al día siguiente de la fecha en que concluya la licencia respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 35
+
+SEXIES.- La mujer trabajadora tendrá derecho de una semana de descanso con el pago de salario íntegro en los casos de interrupción del embarazo por aborto natural espontáneo o clínico, mientras que el hombre trabajador tendrá derecho a dos días de descanso con el pago de salario íntegro si su esposa o concubina se encontrase en los supuestos mencionados.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -1464,3 +1498,7 @@ TERCERO.- El actual Sindicato Unico de los Trabajadores al Servicio del Gobierno
 P.O. 11 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
