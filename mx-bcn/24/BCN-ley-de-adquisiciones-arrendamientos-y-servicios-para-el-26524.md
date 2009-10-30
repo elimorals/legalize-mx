@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2002-10-18"
+last_updated: "2009-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -93,7 +93,11 @@ XII.- Productos o mercancías regionales.- Son los bienes y servicios desarrolla
 
 XIII.- Distribuidor regional.- Es la persona física o moral que distribuye productos regionales o foráneos, del tipo específico a que se refiere el procedimiento de adquisición, arrendamiento o servicio respectivo;
 
-XIV.- Medios electrónicos.- Los medios de comunicación electrónica que determine y autorice la unidad administrativa o la contraloría, en su ámbito de competencia, en los casos previstos por esta Ley.
+XIV.- Medios electrónicos.- Los medios de comunicación electrónica que determine y autorice la unidad administrativa o la contraloría, en su ámbito de competencia, en los casos previstos por esta Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XV.- Comisión.- La Comisión Interinstitucional prevista en la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California.
 
 ###### ARTÍCULO 4.
 
@@ -115,7 +119,11 @@ VII.- La contratación de arrendamiento financiero de bienes muebles;
 
 VIII.- La contratación de servicios profesionales, consultorías, asesorías, estudios e investigaciones, excepto la contratación de servicios personales bajo el régimen de honorarios;
 
-IX.- En general las adquisiciones, arrendamientos y servicios de cualquier naturaleza cuya prestación genere una obligación de pago, cuando no se encuentren regulados en forma específica por otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+IX.- La contratación de proyectos derivada de la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California; y
+
+X.- En general las adquisiciones, arrendamientos y servicios de cualquier naturaleza cuya prestación genere una obligación de pago, cuando no se encuentren regulados en forma específica por otras disposiciones legales.
 
 ###### ARTÍCULO 5.
 
@@ -148,6 +156,10 @@ En lo no previsto por la Ley y las disposiciones que de ella deriven, serán apl
 No se podrá financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación. No se considerará como operación de financiamiento, el otorgamiento de anticipos, los cuales en todo caso, deberán garantizarse en los términos del artículo 47 de esta Ley.
 
 La tesorería podrá autorizar el pago de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+No procederá el pago de anticipos y, por ello, no deberá realizarse pago alguno antes de recibir los servicios derivados de los proyectos de Asociación Público-Privada a que se refiere la Ley de la materia.
 
 ###### ARTÍCULO 12.
 
@@ -224,6 +236,10 @@ VI.- Autorizar, cuando se justifique, la creación de Subcomités de adquisicion
 VII.- Coadyuvar al cumplimiento de la Ley y demás disposiciones aplicables;
 
 VIII.- Las que se señalen en el Reglamento y demás disposiciones que se emitan al respecto.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+Para la contratación de los proyectos de Asociaciones Público-Privadas prevista en la ley de la materia, el Comité se auxiliará de la Comisión en la elaboración de convocatorias y bases, así como en las juntas de aclaraciones y en la evaluación de las proposiciones a que se refiere esta Ley.
 
 ###### ARTÍCULO 19.
 
@@ -329,7 +345,9 @@ X.- Los porcentajes de los anticipos que, en su caso, se otorgarán;
 
 XI.- La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 49 de esta Ley;
 
-XII.- En el caso de arrendamiento, la indicación de que éste es con o sin opción a compra.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XII. En el caso de arrendamiento y en los proyectos de Asociación Público-Privada, la indicación en su caso, de que éste es con o sin opción a compra.
 
 ###### ARTÍCULO 27.
 
@@ -377,7 +395,11 @@ XVII.- En el caso de contratos abiertos, la información a que alude el artícul
 
 XVIII.- Las penas convencionales por atraso en la entrega de los bienes o en la prestación de los servicios;
 
-XIX.- En su caso, términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas a través de servicio postal o de mensajería, o por medios electrónicos. El que los licitantes opten por utilizar alguno de estos medios para enviar sus proposiciones no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación.
+XIX.- En su caso, términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas a través de servicio postal o de mensajería, o por medios electrónicos. El que los licitantes opten por utilizar alguno de estos medios para enviar sus proposiciones no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XX.- En el caso de arrendamiento y en los proyectos de Asociación Público-Privada, la indicación en su caso de que es con o sin opción a compra, así como las reglas y condiciones a que deberá sujetarse el proyecto respectivo.
 
 ###### ARTÍCULO 29.
 
@@ -563,7 +585,23 @@ X.- La descripción pormenorizada de los bienes o servicios objeto del contrato,
 
 XI.- Las condiciones que garanticen la correcta operación y funcionamiento de los bienes; en su caso la obtención de una póliza de seguro por parte del proveedor, que garantice la integridad de los bienes hasta el momento de su entrega y de ser necesario, la capacitación del personal que operará los equipos;
 
-XII.- Salvo que exista impedimento, la estipulación de que los derechos de autor u otros derechos exclusivos que se deriven de los servicios de consultorías, asesorías, estudios e investigaciones contratados, invariablemente se constituirán en favor del sujeto obligado correspondiente.
+XII.- Salvo que exista impedimento, la estipulación de que los derechos de autor u otros derechos exclusivos que se deriven de los servicios de consultorías, asesorías, estudios e investigaciones contratados, invariablemente se constituirán en favor del sujeto obligado correspondiente;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XIII.- En los contratos derivados de los proyectos a que se refiere la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California, se deberá contener, además de los anteriores requisitos y de lo previsto en éste último ordenamiento:
+
+a) La especificación si el proyecto se llevará a cabo con activos del Proveedor, del Órgano, de un tercero o de un grupo de proveedores con base en lo requerido por la Administración pública;
+
+b) La situación jurídica de todos aquellos bienes inmuebles involucrados en el proyecto, para los efectos contractuales, derechos, obligaciones y condiciones de las partes respecto a los mismos, que garanticen satisfactoriamente el cumplimiento del objeto del proyecto;
+
+c) Los riesgos que asumirán tanto el Sujeto Obligado como el Proveedor;
+
+d) La duración del contrato, y el plazo para dar inicio a la prestación de los servicios o para la entrega de los bienes, en su caso;
+
+e) Las fórmulas y metodología para evaluar el cumplimiento del Proveedor, incluyendo indicadores de disponibilidad y de desempeño, y detallando la forma y cálculo de penalizaciones y deducciones a los pagos que deba realizar la Administración;
+
+f) Los medios para solucionar las controversias entre las partes, para cuyos efectos podrán establecerse, en primer orden, el arbitraje, y en su defecto los medios previstos en esta Ley, así como los mecanismos para las controversias que se susciten entre el Proveedor y los usuarios.
 
 ###### ARTÍCULO 45.
 
@@ -966,3 +1004,9 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO BORBON VILCHES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
