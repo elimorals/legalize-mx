@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-del-estado-de-queretaro-70757"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-23"
-last_updated: "2009-10-23"
+last_updated: "2009-10-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 CODIGO PENAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE OCTUBRE DE 2009.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 23 de octubre de 2009.
 
@@ -1173,9 +1175,11 @@ Si la persona a quien se instigue o ayude al suicidio fuere menor de edad o no t
 
 ### Capítulo Quinto. Aborto
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 139.
 
-Comete el delito de aborto el que causa la muerte al producto de la concepción hasta antes del nacimiento.
+Tratándose de la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, el Juez podrá aplicar hasta una tercera parte de la pena prevista en el artículo anterior, cuando sea equitativo hacerlo considerando lo dispuesto en el artículo 68 de este Código y específicamente, en su caso, el estado de salud de la madre, su instrucción y condiciones personales, las circunstancias en que se produjo la concepción, el tiempo que hubiese durado el embarazo, el desarrollo y características del producto, el consentimiento otorgado por el otro progenitor cuando éste viva con la madre y cumpla las obligaciones inherentes a la unión, los resultados de la medida cautelar de atención integral a mujeres en caso de práctica de aborto, siempre que sean aportados por la imputada y en general todos los elementos conducentes a resolver equitativamente el caso de que se trate.
 
 ###### Artículo 140.
 
@@ -1185,9 +1189,11 @@ Al que hiciere abortar a una mujer con consentimiento de ésta se le aplicará d
 
 A la mujer que se procure el aborto o consienta en que otro la haga abortar, se le aplicará de uno a tres años de prisión.
 
+> <small>(F. DE E., P.O. 30 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 142.
 
-Tratándose de la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, el juez podrá aplicar hasta una tercera parte de la pena prevista en el artículo anterior, cuando sea equitativo hacerlo considerando lo dispuesto en artículo 68 de este Código, y específicamente, en su caso, el estado de salud de la madre, su instrucción y condiciones personales, las circunstancias en que se produjo la concepción, el tiempo que hubiese durado el embarazo, el desarrollo y características del producto, el consentimiento otorgado por el otro progenitor cuando éste viva con la madre y cumpla las obligaciones inherentes a la unión, y en general todos los elementos conducentes a resolver equitativamente el caso de que se trate.
+Tratándose de la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, el Juez podrá aplicar hasta una tercera parte de la pena prevista en el artículo anterior, cuando sea equitativo hacerlo considerando lo dispuesto en el artículo 68 de este Código y específicamente, en su caso, el estado de salud de la madre, su instrucción y condiciones personales, las circunstancias en que se produjo la concepción, el tiempo que hubiese durado el embarazo, el desarrollo y características del producto, el consentimiento otorgado por el otro progenitor cuando éste viva con la madre y cumpla las obligaciones inherentes a la unión, los resultados de la medida cautelar de atención integral a mujeres en caso de práctica, de aborto, siempre que sean aportados por la imputada y en general todos los elementos conducentes a resolver equitativamente (sic) el caso de que se trate.
 
 ###### Artículo 143.
 
@@ -3262,3 +3268,11 @@ Lic. Jorge García Quiroz
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Para efectos de congruencia y procedencia en el trámite legislativo, las modificaciones de la presente reforma deberán ajustarse al contenido y numeración de las disposiciones vigentes, recorriendo, en su caso, el articulado respectivo al momento de su publicación.
