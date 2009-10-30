@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3094
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "2009-07-03"
+last_updated: "2009-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de septiembre de 1992.
 
@@ -195,6 +195,10 @@ El gasto público se basará en presupuestos que se formularán con apoyo en pro
 
 El Presupuesto de Egresos del Gobierno del Estado, será el que contenga el Decreto que apruebe el Congreso del Estado, a iniciativa del Ejecutivo y el Presupuesto de Egresos de los Municipios será el que aprueben sus Cabildos a iniciativa del Presidente Municipal, que comprenda las previsiones del gasto público que habrán de realizar las Dependencias y Entidades que en los mismos se señalen, en función de sus programas objetivos, metas y beneficios a alcanzar, por cada año calendario, a partir del día primero de enero.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+Sin perjuicio de lo anterior, los Presupuestos de Egresos deberán contener un apartado especial en que se contengan las erogaciones plurianuales derivadas de los proyectos de inversión que lo requieran conforme a la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California.
+
 > <small>(ADICIONADO, P.O. 3 DE ENERO DE 1997)</small>
 
 El Presupuesto de Egresos que apruebe el Congreso del Estado y el que aprueben los Ayuntamientos no podrán contemplar ni ser modificados para cubrir compensaciones extraordinarias o de cualquier otra denominación, durante o por conclusión del mandato o gestión de los Titulares o Funcionarios de la Administración Pública Estatal y Municipal y sus Dependencias y Entidades Paraestatal y Paramunicipal.
@@ -209,7 +213,9 @@ En los Presupuestos de Egresos de los Municipios se deberán hacer las adecuacio
 
 El Presupuesto de Egresos del Gobierno del Estado y de los Municipios comprenderá también, en apartado especial, las previsiones del gasto público que habrán de realizar las Entidades, que en su caso determine incluir en dicho presupuesto el Titular del Poder Ejecutivo y los Ayuntamientos.
 
-El Presupuesto de Egresos de las Entidades de la Administración Pública Paraestatal y Paramunicipal, cuando no estén incluidos en los Presupuestos mencionados en el Artículo anterior deberán ser aprobados por el Ejecutivo del Estado y por los Cabildos respectivos y, comprenderán las previsiones del gasto público que habrán de realizar en función de sus programas objetivos, metas y beneficios a alcanzar, por cada año calendario, a partir del día primero de enero.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+El Presupuesto de Egresos de las Entidades de la Administración Pública Paraestatal y Paramunicipal, cuando no estén incluidos en los Presupuestos mencionados en el Artículo anterior deberán ser aprobados por el Ejecutivo del Estado y por los Cabildos respectivos y, comprenderán las previsiones del gasto público que habrán de realizar en función de sus programas objetivos, metas y beneficios a alcanzar, por cada año calendario, a partir del día primero de enero, considerando las erogaciones plurianuales que haya autorizado el congreso del Estado en los términos de la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2002)</small>
 
@@ -277,9 +283,23 @@ V.- Estimación de los ingresos y propósitos de gastos del periodo por transcur
 
 VI.- Situación de la deuda pública al término del último ejercicio fiscal y estimación de la que se tendrá a la conclusión del ejercicio fiscal en curso y del inmediato siguiente, así como las cantidades y partidas que se programen para el cumplimiento de las obligaciones financieras o crediticias relativas a la deuda pública de conformidad con la Ley;
 
-VII.- La estructura organizacional y funciones vigentes así como las modificaciones propuestas, y
+VII.- La estructura organizacional y funciones vigentes así como las modificaciones propuestas, y (sic)
 
-VIII. En general, toda información que se considere útil para demostrar la proposición en forma clara y completa.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+VIII.- Un apartado específico que contenga las erogaciones plurianuales autorizadas por el Congreso del Estado conforme a la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California.
+
+Dicho apartado deberá especificar el monto total del proyecto, el monto a pagar en el ejercicio fiscal en curso y el monto a cubrir en los ejercicios subsecuentes hasta la terminación del contrato de Asociación Público-Privada;
+
+IX. En general, toda información que se considere útil para demostrar la proposición en forma clara y completa.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+###### ARTICULO 26 Bis.
+
+La Secretaría, la Tesorería y las dependencias o entidades públicas programarán y darán prioridad en los presupuestos respectivos al cumplimiento de las obligaciones de pago derivadas de los contratos a que se refiere la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California, y deberán registrarse como gasto corriente en los ejercicios fiscales que aquellos impliquen.
+
+Las obligaciones de pago a que se refiere el párrafo anterior incluirán, de ser necesario, cualquier erogación accesoria derivada de actos jurídicos o de administración que requieren para la ejecución del contrato respectivo.
 
 ###### ARTICULO 27.
 
@@ -583,6 +603,10 @@ La Secretaría de Planeación y Finanzas en coordinación con la Dirección de C
 
 El Gobernador del Estado, el Consejo de la Judicatura y los Ayuntamientos, a través de la Secretaría de Planeación y Finanzas, del Presidente del Consejo de la Judicatura y de los Presidentes Municipales, respectivamente, informarán al Congreso del Estado de la ejecución de sus Presupuestos de Egresos de manera trimestral, dentro de los meses de abril, julio y octubre del ejercicio en curso por los tres primeros, y en el mes de marzo del ejercicio siguiente por lo que corresponde al cuarto trimestre del año; en el que deberá incluirse la evaluación financiera del ejercido presupuestario en función de los programas que lo integran, así como el monto de las transferencias, ampliación, creación o supresión de partidas. Así mismo, en este informe se deberá precisar el monto y el detalle de las transferencias que no requirieron de autorización. Adicionalmente, y en los mismos plazos señalados, deberán remitir al Congreso del Estado la información financiera que se señala en las fracciones I, II, IV y V del artículo 54 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+La aplicación de la totalidad de los recursos derivados de la ejecución de los proyectos de inversión plurianuales que conforme a la Ley respectiva se realicen, formará parte de la información trimestral del avance de gestión financiera y de la cuenta pública anual que rinda ante el Órgano de Fiscalización Superior, el titular del Poder Ejecutivo y los Ayuntamientos.
+
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 57.
@@ -872,3 +896,7 @@ P.O. 18 DE AGOSTO DE 2006.
 P.O. 3 DE JULIO DE 2009.
 
 ÚNICO.- Las presentes reformas entraran en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
