@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procedimientos-electorales-de-baja-64597
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-19"
-last_updated: "2009-08-21"
+last_updated: "2009-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 19 de noviembre de 2008.
 
@@ -95,7 +95,7 @@ Corresponde la ejecución y aplicación de las normas contenidas en esta Ley, de
 
 Los órganos electorales, en el ámbito de sus respectivas competencias, tienen a su cargo:
 
-l. La preparación y desarrollo del proceso electoral;
+I. La preparación y desarrollo del proceso electoral;
 
 II. Vigilar que los partidos políticos o coaliciones realicen sus actividades con apego a la Ley;
 
@@ -137,7 +137,7 @@ Es derecho de los ciudadanos residentes en el Estado organizarse en partidos pol
 
 Ejercerá el derecho de voto, en los términos de la Constitución Federal, la Constitución del Estado y esta Ley, el ciudadano mexicano, residente en Baja California que goce del pleno ejercicio de sus derechos político electorales y que además cumpla con los siguientes requisitos:
 
-l. Tener vecindad en el Estado, con residencia efectiva de por lo menos seis meses;
+I. Tener vecindad en el Estado, con residencia efectiva de por lo menos seis meses;
 
 II. Estar inscrito en el Padrón Electoral, y aparecer en el Listado Nominal de Electores con fotografía, que expida el Instituto Federal Electoral, y,
 
@@ -307,7 +307,7 @@ El Congreso del Estado estará integrado por diputados que se elegirán cada tre
 
 Para que los partidos políticos o coaliciones tengan derecho a la asignación de diputados por el principio de representación proporcional, deberán reunir los siguientes requisitos:
 
-l. Participar con candidatos a diputados por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales;
+I. Participar con candidatos a diputados por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales;
 
 II. Haber obtenido por lo menos el cuatro por ciento de la Votación Estatal Emitida en la elección de Diputados por el principio de representación proporcional, y
 
@@ -849,7 +849,7 @@ Los partidos políticos que hayan obtenido su registro o acreditación por vez p
 
 El monto total del financiamiento público estatal de campaña, determinado conforme a la fracción II del artículo 70 de esta Ley, se sujetará a lo siguiente:
 
-l. Un treinta por ciento en partes iguales a los partidos políticos con registro o acreditación vigente y que hayan contendido en el proceso electoral inmediato anterior;
+I. Un treinta por ciento en partes iguales a los partidos políticos con registro o acreditación vigente y que hayan contendido en el proceso electoral inmediato anterior;
 
 II. El setenta por ciento restante, se distribuirá a los partidos políticos en proporción directa a los votos obtenidos en la elección inmediata anterior de diputados por el principio de mayoría relativa. La coalición será considerada como un sólo partido;
 
@@ -969,7 +969,9 @@ El partido político no podrá solicitar créditos provenientes de la banca de d
 
 Para los efectos de lo dispuesto por el párrafo decimocuarto del Apartado B del artículo 5 de la Constitución del Estado, la Dirección de Fiscalización de los Recursos de los Partidos Políticos, es el órgano técnico del Consejo General que tiene a su cargo la recepción y revisión integral de los informes que presenten los partidos respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino.
 
-La Dirección de Fiscalización cuenta con autonomía de gestión y su nivel jerárquico será equivalente al de las direcciones ejecutivas del Instituto Electoral; contará con la estructura administrativa que determine su Reglamento Interior, y con los recursos presupuestarios que apruebe el Consejo General.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+La Dirección de Fiscalización cuenta con autonomía de gestión y su nivel jerárquico será equivalente al de las direcciones ejecutivas del Instituto Electoral; contará con las jefaturas de fiscalización y jurídica, así como el personal de auditoría de conformidad con la disponibilidad presupuestal, nombrados y removidos por su titular.
 
 ###### ARTÍCULO 83.
 
@@ -981,7 +983,9 @@ El titular deberá reunir los mismos requisitos que esta Ley establece para ser 
 
 La Dirección de Fiscalización, tendrá las siguientes atribuciones:
 
-I. Presentar al Consejo General para su aprobación el proyecto de Reglamento de la materia, y los demás acuerdos, para regular el registro contable de los ingresos y egresos de los partidos políticos o coaliciones, las características de la documentación comprobatoria sobre el manejo de sus recursos y establecer los requisitos que deberán satisfacer los informes de ingresos y egresos que le presenten, de conformidad a lo establecido en la presente Ley;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+I. Presentar a la Comisión del Consejo General, que corresponda, para su dictaminación, el proyecto de Reglamento de la materia y los demás acuerdos, para regular el registro contable de los ingresos y egresos de los partidos políticos o coaliciones, las características de la documentación comprobatoria sobre el manejo de sus recursos y establecer los requisitos que deberán satisfacer los informes de ingresos y egresos que le presenten, de conformidad a lo establecido en la presente Ley;
 
 II. Emitir las normas generales de contabilidad y registro de operaciones aplicables a los partidos políticos o coaliciones;
 
@@ -993,7 +997,9 @@ V. Llevar a cabo los trámites necesarios para que los partidos políticos estat
 
 VI. Apoyar las gestiones de los partidos políticos o coaliciones para hacer efectivas las prerrogativas que tienen conferidas en materia fiscal;
 
-VII. Formular los proyectos de financiamiento público y de topes máximos de gastos de campaña, que puedan erogar los partidos políticos o coaliciones en las elecciones locales y someterlos para su aprobación al Consejo General;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+VII. Formular los proyectos de financiamiento público y de topes máximos de gastos de campaña, que puedan erogar los partidos políticos o coaliciones en las elecciones locales y someterlos para su dictaminación a la Comisión de Fiscalización de los Recursos de los Partidos Políticos;
 
 VIII. Recibir y revisar los informes que presenten los partidos políticos o coaliciones respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino;
 
@@ -1007,19 +1013,31 @@ XII. Conocer el manual de normatividad y la estructura organizacional administra
 
 XIII. Realizar compulsas de los comprobantes de ingresos y gastos;
 
-XIV. Presentar al Consejo General los informes de resultados y proyectos de resolución sobre las auditorías y verificaciones practicadas a los partidos políticos o coaliciones. Los informes especificarán las irregularidades en que hubiesen incurrido los partidos políticos o coaliciones en el manejo de sus recursos; el incumplimiento de su obligación de informar sobre la aplicación de los mismos y, en su caso, propondrán las sanciones que procedan conforme a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XIV. Presentar a la Comisión de Fiscalización de los Recursos de los Partidos Políticos, los informes de resultados y proyectos de resolución sobre las auditorías y verificaciones practicadas a los partidos políticos o coaliciones. Los informes especificarán las irregularidades en que hubiesen incurrido los partidos políticos o coaliciones en el manejo de sus recursos; el incumplimiento de su obligación de informar sobre la aplicación de los mismos y, en su caso, propondrán las sanciones que procedan conforme a la normatividad aplicable;
 
 XV. Proporcionar a los partidos políticos o coaliciones la orientación y asesoría necesaria para el cumplimiento, en tiempo y forma de las obligaciones consignadas en esta Ley en materia de financiamiento;
 
 XVI. Ser responsable de los procedimientos de liquidación de los partidos políticos que pierdan su registro, de conformidad con lo previsto en esta Ley;
 
-XVII. Presentar al Consejo General para su aprobación el proyecto de Reglamento para el desahogo de los procedimientos administrativos respecto de las quejas que se presenten en materia de fiscalización y vigilancia de los recursos de los partidos políticos; dichas quejas deberán ser presentadas ante la Dirección de Fiscalización;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-XVIll. Instruir los procedimientos administrativos a que haya lugar respecto de las quejas a que se refiere la fracción anterior y proponer a la consideración del Consejo General la imposición de las sanciones que procedan. Los quejosos podrán desistirse, en cuyo caso el procedimiento será sobreseído;
+XVII. Presentar a la Comisión de Reglamentos y Asuntos Jurídicos para su dictaminación, el proyecto de Reglamento para el desahogo de los procedimientos administrativos respecto de las quejas que se presenten en materia de fiscalización y vigilancia de los recursos de los partidos políticos; dichas quejas deberán ser presentadas ante la Dirección de Fiscalización;
 
-XIX. Requerir de las personas, físicas o morales, públicas o privadas, en relación con las operaciones que realicen con partidos políticos, la información necesaria para el cumplimiento de sus tareas, respetando en todo momento las garantías del requerido. Quienes se nieguen a proporcionar la información que les sea requerida, o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones establecidas en esta Ley, y
+XVIII. Instruir los procedimientos administrativos a que haya lugar respecto de las quejas a que se refiere la fracción anterior y proponer a la consideración del Consejo General la imposición de las sanciones que procedan. Los quejosos podrán desistirse, en cuyo caso el procedimiento será sobreseído;
 
-XX. Las demás que establezca esta Ley.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XIX. Requerir de las personas, físicas o morales, públicas o privadas, en relación con las operaciones que realicen con partidos políticos, la información necesaria para el cumplimiento de sus tareas, respetando en todo momento las garantías del requerido. Quienes se nieguen a proporcionar la información que les sea requerida, o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones establecidas en esta Ley;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XX. Fungir como Secretario Técnico de la Comisión de Fiscalización de los Recursos de los Partidos Políticos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XXI. Las demás que establezca esta Ley.
 
 En el ejercicio de sus facultades, la Dirección de Fiscalización deberá garantizar el derecho de audiencia de los partidos políticos y en general de toda persona requerida con motivo de los procesos de fiscalización a que se refiere el presente capítulo. Los partidos tendrán derecho a la confrontación de los documentos comprobatorios de sus ingresos y gastos, o de sus estados contables, contra los obtenidos o elaborados por la Dirección sobre las mismas operaciones, a fin de aclarar las discrepancias entre unos y otros.
 
@@ -1057,7 +1075,9 @@ II. La revisión definitiva de los informes deberán concluir dentro de los sese
 
 III. Concluida la revisión de los informes de gastos de campaña, y en caso de que la Dirección de Fiscalización advierta la existencia de errores u omisiones técnicas, y éstas no hayan sido subsanadas durante el período de revisión, las notificará para que en un plazo de diez días contados a partir de la notificación, se presenten las aclaraciones o rectificaciones que estime pertinentes;
 
-IV. Vencido el plazo señalado en la fracción II, de este artículo, o en su caso, el establecido en la fracción anterior, la Dirección de Fiscalización dispondrá de veinte días para elaborar el dictamen correspondiente, que deberá ser turnado al Consejero Presidente del Consejo General dentro de los tres días siguientes a su conclusión, para el trámite correspondiente, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+IV. Vencido el plazo señalado en la fracción II, de este artículo, o en su caso, el establecido en la fracción anterior, la Dirección de Fiscalización dispondrá de veinte días para elaborar el proyecto de dictamen correspondiente y turnarlo a la Comisión de Fiscalización de los Recursos de los Partidos Políticos, para que ésta, dentro de los cinco días siguientes proceda a su análisis, discusión, aprobación en su caso, y remisión del dictamen al Consejo General, y
 
 V. El dictamen a que se refiere la fracción anterior, deberá contener, en su caso:
 
@@ -1077,7 +1097,9 @@ I. La Dirección de Fiscalización concluirá la revisión de los informes anual
 
 II. Concluida la revisión de los informes anuales y en caso de que la Dirección de Fiscalización advierta la existencia de errores u omisiones técnicas, y éstas no hayan sido subsanadas durante el período de revisión, las notificará al partido político para que en un plazo de diez días contados a partir de la notificación, se presenten las aclaraciones o rectificaciones que estime pertinentes;
 
-III. Vencido el plazo señalado en la fracción I o en su caso, el establecido en la fracción anterior, la Dirección de Fiscalización dispondrá de veinte días para elaborar el dictamen correspondiente, que deberá ser turnado al Consejero Presidente del Consejo General dentro de los tres días siguientes a su conclusión, para el trámite respectivo, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+III. Vencido el plazo señalado en la fracción l o en su caso, el establecido en la fracción anterior, la Dirección de Fiscalización dispondrá de veinte días para elaborar el proyecto de dictamen correspondiente y turnarlo a la Comisión de Fiscalización de los Recursos de los Partidos Políticos, para que ésta, dentro de los cinco días siguientes proceda a su análisis, discusión, aprobación en su caso, y remisión del dictamen al Consejo General, y
 
 IV. El dictamen a que se refiere la fracción anterior, deberá contener, en su caso:
 
@@ -1135,7 +1157,7 @@ Los partidos políticos de nueva acreditación o registro, según sea el caso, p
 
 Tratándose de coaliciones, en la distribución del tiempo, se observará lo siguiente:
 
-l. A la coalición total le será otorgada la prerrogativa de acceso a tiempo en radio y televisión, en el treinta por ciento que corresponda distribuir en forma igualitaria, como si se tratara de un sólo partido. Del setenta por ciento proporcional a los votos, cada uno de los partidos coaligados participará en lo individual para su asignación.
+I. A la coalición total le será otorgada la prerrogativa de acceso a tiempo en radio y televisión, en el treinta por ciento que corresponda distribuir en forma igualitaria, como si se tratara de un sólo partido. Del setenta por ciento proporcional a los votos, cada uno de los partidos coaligados participará en lo individual para su asignación.
 
 El convenio de coalición establecerá la distribución de tiempo en cada uno de esos medios para los candidatos de la coalición, y
 
@@ -1203,7 +1225,7 @@ XIX. Las demás que establezca esta Ley.
 
 Queda prohibido a los partidos políticos:
 
-l. Realizar afiliaciones colectivas de ciudadanos;
+I. Realizar afiliaciones colectivas de ciudadanos;
 
 II. Recurrir a la violencia y a cualquier acto que tenga por objeto o resultado alterar el orden público, perturbar el ejercicio del derecho de terceros o impedir el funcionamiento regular de las instituciones y órganos públicos;
 
@@ -1407,7 +1429,9 @@ III. Acreditar representantes, como correspondiera a un solo partido político, 
 
 IV. Disfrutar, en su caso, de prerrogativas en los términos de esta Ley, como si se tratara de un sólo partido político, salvo las excepciones previstas en las leyes sobre radio y televisión. En los casos en que por disposición de esta Ley se tome en cuenta la fuerza electoral, se considerará la del partido coaligado que haya obtenido la mayor votación en la última elección estatal, y
 
-V. Participar en el proceso electoral en el emblema que adopte la coalición o el emblema formado por los de los partidos políticos coaligados; en éste podrán aparecer ligados o separados, asentando la leyenda "En Coalición".
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+V. Participar en el proceso electoral con el emblema que adopte la coalición o el emblema formado con los de los partidos políticos coaligados; en éste podrán aparecer ligados o separados, asentando la leyenda "En Coalición".
 
 ###### ARTÍCULO 119.
 
@@ -1445,7 +1469,7 @@ Para efectos de la asignación de Diputados o Munícipes por el principio de rep
 
 En todos los casos, para el registro de la coalición los partidos políticos que pretendan coaligarse deberán acreditar ante el Consejo General, que:
 
-l. La coalición fue aprobada por la asamblea estatal u órgano equivalente de cada uno de los partidos políticos coaligados;
+I. La coalición fue aprobada por la asamblea estatal u órgano equivalente de cada uno de los partidos políticos coaligados;
 
 II. Los órganos partidistas respectivos de cada uno de los partidos políticos coaligados, aprobaron la plataforma electoral de la coalición;
 
@@ -1467,7 +1491,9 @@ IV. El emblema y colores que haya adoptado la coalición o, en su caso, la deter
 
 V. La obligación de sostener una plataforma electoral de acuerdo con la declaración de principios, programa de acción y estatutos de cada uno de los partidos políticos coaligados;
 
-VI. La prelación para la conservación del registro o financiamiento de los partidos políticos;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+VI. La prelación y la forma de distribuir el porcentaje de votos de la coalición, para la conservación del registro, así como en la participación del financiamiento de los partidos políticos;
 
 VII. El señalamiento, de ser el caso, del partido político al que pertenece originalmente cada uno de los candidatos registrados por la coalición y el señalamiento del partido político en el que quedarían comprendidos en el caso de resultar electos;
 
@@ -1517,7 +1543,7 @@ El convenio de fusión deberá presentarse al Consejo General, treinta días ant
 
 ###### ARTÍCULO 128.
 
-El Instituto Electoral y de Participación Ciudadana es un organismo público, autónomo en su funcionamiento e independiente en sus decisiones, de carácter permanente, con personalidad jurídica y patrimonio propio. Se regirá en su 0rganizadón, funcionamiento y control, por las disposiciones contenidas en la Constitución del Estado y en esta ley.
+El Instituto Electoral y de Participación Ciudadana es un organismo público, autónomo en su funcionamiento e independiente en sus decisiones, de carácter permanente, con personalidad jurídica y patrimonio propio. Se regirá en su organización, funcionamiento y control, por las disposiciones contenidas en la Constitución del Estado y en esta ley.
 
 El Instituto Electoral, es depositario de la autoridad electoral y responsable del ejercicio de la función pública de organizar las elecciones, así como los procesos de plebiscito y referéndum, en los términos de la Ley de la materia.
 
@@ -1617,9 +1643,11 @@ IX. No ser, ni haber sido ministro de culto religioso, en los seis años anterio
 
 X. No haber sido condenado por delito doloso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 136.
 
-Los consejeros electorales del Consejo General, durante el período de su encargo, no podrán tener ningún otro empleo, cargo o comisión en la Administración Pública, ni prestar algún servicio profesional en la misma, con excepción de los cargos académicos o docentes.
+Los consejeros electorales del Consejo General, durante el período de su encargo, no podrán tener ningún otro empleo, cargo o comisión, ni prestar algún servicio profesional, en la Administración Pública, con excepción de los cargos académicos o docentes. El Consejero Presidente, en virtud de una dieta diferenciada, además de las previsiones anteriores, no podrá desempeñar cualquier otra actividad remunerada, con excepción de los cargos académicos o docentes.
 
 Tampoco podrán ocupar cargos públicos de primer y segundo nivel en la Administración Pública Estatal o Municipal, sino transcurrido un año después de haberse separado del cargo.
 
@@ -1699,13 +1727,23 @@ I. Del Régimen de Partidos Políticos;
 
 II. De Reglamentos y Asuntos Jurídicos;
 
-III. De Procesos Electorales, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-IV. De Participación Ciudadana y Educación Cívica.
+III. De Procesos Electorales;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+IV. De Participación Ciudadana y Educación Cívica, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+V. De Fiscalización de los Recursos de los Partidos Políticos.
 
 El Consejo General, podrá integrar las comisiones especiales que considere necesarias para el desempeño de sus atribuciones. El Consejo General reglamentará las atribuciones que le corresponderán a cada una de ellas, además de las previstas en la presenten Ley.
 
-Las comisiones se integrarán con un máximo de tres consejeros electorales designados por el Pleno, quienes serán los únicos con voto. De entre ellos nombrarán a su Presidente y contarán con un Secretario Técnico que será el Director Ejecutivo del área que corresponda, o en su caso, el Secretario Fedatario del Consejo General. Las ausencias de los secretarios técnicos en las reuniones de trabajo o sesiones de las comisiones, serán cubiertas por quien designe el Presidente de la Comisión, de entre el personal del Instituto Electoral.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+Las comisiones se integrarán con un máximo de tres consejeros electorales designados por el Pleno, quienes serán los únicos con voto. De entre ellos nombrarán a su Presidente y contarán con un Secretario Técnico que será el Director del área que corresponda, o en su caso, el Secretario Fedatario del Consejo General. Las ausencias de los secretarios técnicos en las reuniones de trabajo o sesiones de las comisiones, serán cubiertas por quien designe el Presidente de la Comisión, de entre el personal del Instituto Electoral.
 
 En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, opinión, punto de acuerdo o dictamen, según sea la naturaleza del asunto turnado, fundando y motivándolos, en el que consideren las opiniones de los partidos políticos y las pruebas que se hubiesen presentado, cuando sea el caso. Los representantes de los partidos políticos deberán ser convocados a las reuniones de trabajo y a las sesiones que celebren las comisiones.
 
@@ -1769,7 +1807,7 @@ XXVI. Realizar el cómputo estatal de la elección de Gobernador, declarar la va
 
 XXVII. Aprobar anualmente el proyecto de presupuesto de egresos del Instituto Electoral, el cual deberá contener por separado los programas de prerrogativas que corresponden a los partidos políticos, para su inclusión en el proyecto de presupuesto de egresos del Estado, que el Ejecutivo proponga al Congreso del Estado;
 
-XXVlIl. Conocer de las infracciones y faltas, en el ámbito de su competencia, y en su caso, imponer las sanciones que correspondan, en los términos establecidos en la (sic) esta ley;
+XXVIII. Conocer de las infracciones y faltas, en el ámbito de su competencia, y en su caso, imponer las sanciones que correspondan, en los términos establecidos en la (sic) esta ley;
 
 XXIX. Conocer y acordar lo conducente respecto del informe anual que deba rendir el Director General del Instituto Electoral;
 
@@ -1795,15 +1833,27 @@ XXXIX. Vigilar que las autoridades de la administración pública centralizada y
 
 XL. Ampliar o modificar los plazos y términos del proceso electoral establecidos en esta Ley, tanto para elecciones ordinarias como extraordinarias, cuando exista imposibilidad material para realizar las actividades previstas, y resulte necesario para el cumplimiento de las diversas etapas del proceso electoral. Las convocatorias para estas elecciones se sujetaran a las bases que contenga la misma y a las disposiciones de esta Ley;
 
-XLI. Ordenar la publicación en el Periódico Oficial del Estado, en los diarios de mayor circulación y en aquellos medios que se consideren convenientes, las modificaciones a los plazos y términos del proceso electoral, a mas tardar dentro de los cinco días siguientes a la fecha de su aprobación, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-XLlI. Las demás que disponga esta Ley.
+XLI. Ordenar la publicación en el Periódico Oficial del Estado, en los diarios de mayor circulación y en aquellos medios que se consideren convenientes, las modificaciones a los plazos y términos del proceso electoral, a más tardar dentro de los cinco días siguientes a la fecha de su aprobación;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XLII. Aprobar las solicitudes de transferencias, ampliación, creación o supresión de partidas presupuestales que le sean presentadas, cuando así proceda, ordenando su remisión al Congreso del Estado para su autorización, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XLIII. Aprobar anualmente, previo informe del Director General del Instituto Electoral, el cierre del ejercicio presupuestal y programático, autorizando su publicación en el Periódico Oficial del Estado; cierre que deberá integrarse a la cuenta pública que se turna al Congreso del Estado, para los efectos legales correspondientes, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XLIV. Las demás que disponga esta Ley.
 
 ###### ARTÍCULO 146.
 
 El Consejo General podrá acordar, celebrar con el Instituto Federal Electoral convenio para que éste se haga cargo de la organización del proceso electoral, debiendo en cualquier caso, acreditarse lo siguiente:
 
-l. Que existe causa justificada para ello, que imposibilite al Instituto Electoral organizar los comicios respectivos, y
+I. Que existe causa justificada para ello, que imposibilite al Instituto Electoral organizar los comicios respectivos, y
 
 II. Que el acuerdo fue aprobado por unanimidad de los integrantes del Consejo General, el cual deberá emitirse con al menos diez meses de anticipación al inicio del proceso electoral del que se trate.
 
@@ -1947,7 +1997,7 @@ Asimismo, no podrá ocupar cargos públicos de primer o segundo nivel en la admi
 
 El Director General del Instituto Electoral, deberá satisfacer los mismos requisitos que se establecen en el artículo 135 de esta Ley para los consejero (sic) electorales del Consejo General, siendo designado bajo el siguiente procedimiento:
 
-l. El Consejero Presidente del Consejo General propondrá al aspirante al cargo de Director General del Instituto Electoral, para ser designado mediante la votación aprobatoria de las dos terceras partes de los integrantes del mismo Consejo;
+I. El Consejero Presidente del Consejo General propondrá al aspirante al cargo de Director General del Instituto Electoral, para ser designado mediante la votación aprobatoria de las dos terceras partes de los integrantes del mismo Consejo;
 
 II. En el supuesto de que transcurridas dos rondas de votación, el aspirante propuesto por el Consejero Presidente no alcanzaré la votación requerida en la fracción anterior, dentro de los cinco días siguientes se procederá a integrar una propuesta con candidatos designados por cada uno de los Presidentes de las Comisiones Permanentes del Consejo General. En el supuesto de que algún Consejero Electoral sea presidente de dos o más comisiones, sólo le corresponderá proponer un candidato.
 
@@ -2007,7 +2057,7 @@ XVI. Administrar el Padrón Electoral y los Listados Nominales que le sean propo
 
 XVII. Instalar la Comisión Estatal de Vigilancia en los términos de esta Ley;
 
-XVIIl. Realizar los estudios y formular los proyectos de división territorial del Estado en distritos y secciones electorales;
+XVIII. Realizar los estudios y formular los proyectos de división territorial del Estado en distritos y secciones electorales;
 
 XIX. Mantener actualizada la cartografía electoral del Estado, clasificada por Municipio, distrito electoral y sección electoral;
 
@@ -2017,7 +2067,7 @@ XXI. Preparar el anteproyecto de presupuesto para la realización de elecciones 
 
 XXII. Elaborar manuales de organización de las Direcciones, Coordinaciones y unidades Técnicas a su cargo;
 
-XXlIl. Elaborar los proyectos de reglamento interno de la Dirección General del Instituto Electoral, y de los Consejos Distritales Electorales, para someterlos a consideración del Consejo General, y
+XXIII. Elaborar los proyectos de reglamento interno de la Dirección General del Instituto Electoral, y de los Consejos Distritales Electorales, para someterlos a consideración del Consejo General, y
 
 XXIV. Las demás que le encomienden el Consejo General, su Presidente, y esta Ley.
 
@@ -2719,11 +2769,17 @@ Para efectos de lo anterior, el Director General del Instituto Electoral por con
 
 Corresponde exclusivamente a los partidos políticos autorizar a sus militantes o simpatizantes la realización de actividades proselitistas en busca de su nominación a un puesto de elección popular, de manera previa al evento de postulación o designación de candidatos, conforme a sus estatutos, acuerdos de sus órganos de representación y prescripciones de esta Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+Para que los partidos políticos puedan otorgar la autorización a que se refiere el párrafo anterior, es necesario que existan dos o más precandidatos en busca de la nominación a un mismo cargo de elección popular; ello sin perjuicio del derecho de los propios partidos políticos consignado en la parte final de la fracción I del artículo siguiente.
+
 ###### ARTÍCULO 217.
 
 Para los fines de la presente Ley, se entenderá por:
 
-I. Precampaña Electoral: es el conjunto de actividades reguladas por esta Ley, y los estatutos, acuerdos y lineamientos emanados de los partidos políticos de conformidad con aquella, que realizan los precandidatos a ser postulados por un partido político a un cargo de elección popular, dentro de un proceso de elección interna convocado por aquel, con la finalidad de promover su imagen y capacidad como la mejor para obtener la candidatura;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+I. Precampaña Electoral: es el conjunto de actividades reguladas por esta Ley, y los estatutos, acuerdos y lineamientos emanados de los partidos políticos de conformidad con aquella, que realizan los precandidatos a ser postulados por un partido político a un cargo de elección popular, dentro de un proceso de elección interna convocado por aquel, con la finalidad de promover su imagen y capacidad como la mejor para obtener la candidatura; así como aquellas que relicen (sic) de manera institucional los partidos políticos para la difusión de sus procesos de selección interna, en radio y television;
 
 II. Actos de Precampaña: son las acciones que tienen por objeto mejorar la imagen de los precandidatos, con el fin de obtener la nominación como candidato del partido político, para contender en una elección constitucional. Entre otras, quedan comprendidas las siguientes:
 
@@ -2781,7 +2837,7 @@ VII. Las obligaciones y prohibiciones para los precandidatos.
 
 El Consejo General procederá a la revisión de los lineamientos o acuerdos a los que estarán sujetos los precandidatos, por conducto de la Comisión del Régimen de Partidos Políticos, observando el siguiente procedimiento:
 
-l. Recibido en el Consejo General el escrito y lineamientos respectivos, el Consejero Presidente los turnará de manera inmediata a la Comisión;
+I. Recibido en el Consejo General el escrito y lineamientos respectivos, el Consejero Presidente los turnará de manera inmediata a la Comisión;
 
 II. La Comisión en un plazo de tres días verificará que los lineamientos o acuerdos, reúnan los requisitos establecidos en el artículo anterior;
 
@@ -2789,7 +2845,13 @@ III. Si los lineamientos reúnen los requisitos, la Comisión en el plazo señal
 
 IV. En caso de que los lineamientos no se ajusten a lo dispuesto en el artículo precedente, la Comisión en el plazo referido en la fracción II de este numeral, notificará al partido político de que se trate, para que en el término de tres días contados a partir de la notificación, los modifique, apercibiéndolo de que en caso de no hacerlo el Consejo General a propuesta de la Comisión hará las modificaciones necesarias.
 
-Los lineamientos o acuerdos que se presenten fuera del plazo establecido en el artículo 219 de esta Ley, serán desechados de plano por el Consejo General, en base al dictamen o acuerdo que emita la Comisión. En consecuencia el partido político de que se trate, no podrá realizar procesos de precampaña electoral.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+Los lineamientos o acuerdos que se presenten fuera del plazo establecido en el artículo 219 de esta Ley, serán desechados de plano por el Consejo General, en base al dictamen o acuerdo que emita la Comisión. En consecuencia los precandidatos del partido político y el partido de que se trate, no podrán realizar procesos, actos o propaganda de precampaña electoral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+Quienes fueren designados como candidatos a cargos de elección popular, en forma directa, sin que mediare proceso democrático de selección interna, no podrán realizar actos o propaganda de precampaña electoral.
 
 ###### ARTÍCULO 222.
 
@@ -2927,11 +2989,25 @@ II. Con multa de hasta dos mil días de salario mínimo general vigente en la en
 
 III. Pérdida del derecho a registrar como candidato al precandidato, o cancelación del registro según sea el caso, cuando:
 
-a) Éste se exceda en el tope de gastos de precampaña establecidos o cuando habiendo omitido la entrega de los informes a que se refiere la fracción III del artículo 225 de esta ley no la subsanará en el término fijado por la Dirección de Fiscalización, o
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-b) El precandidato contrate propaganda en radio y televisión.
+a) Éste se exceda en el tope de gastos de precampaña establecidos o cuando habiendo omitido la entrega de los informes a que se refiere la fracción III del artículo 225 de esta Ley no la subsanará en el término fijado por la Dirección de Fiscalización;
 
-En estos casos, el partido político podrá registrar como candidato a persona distinta, dentro de los tres días siguientes a que se impogna la sanción.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+b) El precandidato contrate propaganda en radio y televisión;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+c) Se realicen actos o propaganda de precampaña electoral, contraviniendo lo dispuesto en el segundo párrafo del artículo 216 de esta Ley, o
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+d) Se infrinja las prohibiciones a que se refieren los últimos dos párrafos del artículo 221 de esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+En estos casos, el partido político podrá registrar como candidato a persona distinta, dentro de los tres días siguientes a que se imponga la sanción.
 
 # LIBRO SÉPTIMO. DEL PROCESO ELECTORAL
 
@@ -3073,7 +3149,7 @@ Los partidos políticos o coaliciones no podrán registrar en el mismo proceso e
 
 ###### ARTÍCULO 261.
 
-Los partidos políticos o coaliciones, deberán presentar la solicitud de registro de candidaturas, en los 5plazos y ante los órganos competentes, en los siguientes términos:
+Los partidos políticos o coaliciones, deberán presentar la solicitud de registro de candidaturas, en los plazos y ante los órganos competentes, en los siguientes términos:
 
 I. En el año de la elección en el que se renueven al Titular de (sic) Poder Ejecutivo estatal, integrantes del Congreso del Estado, y munícipes de los ayuntamientos, todas las solicitudes de registro, entre el siete al veintiuno de abril, ante los siguientes órganos:
 
@@ -3227,7 +3303,7 @@ Las reuniones públicas realizadas por los partidos políticos o coaliciones o p
 
 Cuando las autoridades pretendan facilitar a los partidos políticos o coaliciones o a los candidatos el uso de locales de propiedad pública, deberán considerar lo siguiente:
 
-l. Dar un trato equitativo a todos los que participen en la elección, y
+I. Dar un trato equitativo a todos los que participen en la elección, y
 
 II. Atender en orden de prelación las solicitudes, evitando que los actos de los partidos políticos o coaliciones o candidatos coincidan en un mismo tiempo y lugar.
 
@@ -3289,19 +3365,27 @@ V. No podrá fijarse, colgarse, pintarse, ni distribuirse en el interior de las 
 
 VI. No podrá colgarse, fijarse o pintarse en monumentos históricos, arqueológicos, artísticos y construcciones de valor cultural.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 282.
 
-En caso de violación a las reglas para la propaganda electoral y la fijación de la misma a que se refiere el artículo anterior, el Consejo Distrital Electoral que corresponda al ámbito territorial en que se presente la violación, al tener conocimiento de los hechos, procederá en un término de cuarenta y ocho horas, a:
+En caso de violación a las reglas para la propaganda electoral y la fijación de la misma a que se refiere el artículo anterior, el Consejo Distrital Electoral que corresponda al ámbito territorial en que se presente la violación, al tener conocimiento de los hechos, procederá en un plazo término (sic) de setenta y dos horas, a:
 
 I. La verificación de los hechos, por conducto del Secretario Fedatario del Consejo, quien deberá levantar el acta correspondiente;
 
-II. De resultar ciertos los hechos, notificará al partido o coalición para que en un plazo de seis horas manifieste lo que a su derecho convenga;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+II. De resultar ciertos los hechos, notificará al partido político o coalición para que en un plazo de veinticuatro horas manifieste lo que a su derecho convenga;
 
 III. Recibida la contestación o vencido el plazo a que se refiere la fracción anterior, el Consejero Presidente someterá a la aprobación del Consejo Distrital el proyecto de resolución correspondiente; y
 
-IV. De ordenarse el retiro de la propaganda, el partido político o coalición contará con un plazo de seis horas para ello. En caso de incumplimiento, el Consejero Presidente del Consejo Distrital, solicitará a la autoridad municipal el retiro inmediato; el costo que determine la autoridad municipal se deducirá del financiamiento público estatal del partido político o coalición responsable.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-El resultado del procedimiento anterior, se informará a la Dirección General del Instituto Electoral, para los efectos conducentes.
+IV. De ordenarse el retiro de la propaganda, el partido político o coalición contará con un plazo de veinticuatro horas para ello. En caso de incumplimiento, el Consejero Presidente del Consejo Distrital, solicitará a la autoridad municipal el retiro inmediato; el costo que determine la autoridad municipal se deducirá del financiamiento público estatal del partido político o coalición responsable.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+El resultado del procedimiento anterior, se informará a la Dirección General del Instituto Electoral, para los efectos conducentes. En los casos en que se demuestre la violación a las reglas para la propaganda electoral y fijación de la misma, deberá remitirse el expediente integrado al Consejo General, para el inicio del procedimiento sancionador previsto en el Capítulo Tercero, Título Primero del Libro Noveno de esta Ley.
 
 ###### ARTÍCULO 283.
 
@@ -3691,7 +3775,7 @@ IV. Una vez concluido el procedimiento previsto en la fracción anterior, los mi
 
 V. Los representantes de los partidos políticos ante el Consejo Distrital Electoral que corresponda, podrán firmar al reverso de las boletas o estampar su firma facsimilar de acuerdo al procedimiento que determine el Consejo Distrital Electoral correspondiente. El Consejo General determinará las características del facsímil. La falta de firma de los representantes en las boletas no impedirá su oportuna distribución.
 
-El. Secretario Fedatario levantará acta en la que conste el número de boletas que se les dio a firmar, el número de las firmadas, y las personas que intervinieron.
+El Secretario Fedatario levantará acta en la que conste el número de boletas que se les dio a firmar, el número de las firmadas, y las personas que intervinieron.
 
 En las operaciones señaladas en las fracciones anteriores, los representantes de los partidos políticos deberán estar presentes.
 
@@ -4195,7 +4279,7 @@ De la recepción de los paquetes que contengan los expedientes de casilla, se le
 
 Los Consejos Distritales Electorales anotarán los resultados contenidos en el acta de la jornada electoral, conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales, de acuerdo a las siguientes reglas:
 
-l. Los Consejos Distritales Electorales, autorizarán a los auxiliares electorales para la recepción continúa y simultánea de los paquetes electorales. Los partidos políticos o coaliciones podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
+I. Los Consejos Distritales Electorales, autorizarán a los auxiliares electorales para la recepción continúa y simultánea de los paquetes electorales. Los partidos políticos o coaliciones podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
 
 II. Los auxiliares electorales designados, recibirán el acta de la jornada electoral, para posteriormente dentro del local, dar lectura en voz alta por el Consejero Presidente, o el o los Consejeros que se designen, del resultado de la votación que aparezca en ella, procediendo a realizar la suma correspondiente, e informar inmediatamente a la Dirección General del Instituto Electoral. En caso de que un partido político o coalición lo solicite, se le entregará una fotocopia del acta de la jornada electoral de la casilla que indique, transcurridas setenta y dos horas del día de la jornada electoral;
 
@@ -4229,7 +4313,7 @@ Los Consejos Distritales Electorales tendrán, a partir de las 8:00 horas del mi
 
 Los Consejos Distritales Electorales, en sesión previa a la jornada electoral podrán acordar, a efecto de que la sesión de cómputo sea ininterrumpida, que:
 
-l. Los Consejeros Electorales numerarios se alternen con los supernumerarios;
+I. Los Consejeros Electorales numerarios se alternen con los supernumerarios;
 
 II. Se designe a los Consejeros Electorales que sustituirán al Consejero Presidente y al Secretario Fedatario, en las ausencias;
 
@@ -4311,7 +4395,7 @@ V. Informe sobre el desarrollo del proceso electoral.
 
 El Consejero Presidente del Consejo Distrital Electoral respectivo, integrará los expedientes del cómputo distrital de la elección de Munícipes, Gobernador y Diputados por el principio de representación proporcional, con los siguientes documentos:
 
-l. Actas de los cómputos distritales, y
+I. Actas de los cómputos distritales, y
 
 II. Actas circunstanciadas de las sesiones de cómputo.
 
@@ -4525,7 +4609,7 @@ III. Por los militantes de los partidos políticos nacionales para impugnar los 
 
 Los partidos políticos y las coaliciones, por conducto de sus representantes legítimos, podrán interponer el recurso de revisión para impugnar:
 
-l. El Cómputo del Consejo Distrital Electoral de la elección de diputados, por nulidad de la votación recibida en una o varias casillas;
+I. El Cómputo del Consejo Distrital Electoral de la elección de diputados, por nulidad de la votación recibida en una o varias casillas;
 
 II. El cómputo del Consejo General de las elecciones de munícipes o Gobernador, por nulidad de la votación recibida en una o varias casillas;
 
@@ -4651,9 +4735,25 @@ En el caso del recurso de revisión, además de los requisitos establecidos en e
 
 I. La elección que se impugna, precisando si se objeta el cómputo de la elección, la declaración de validez y consecuentemente, el otorgamiento de las constancias respectivas;
 
-II. La mención individualizada del acta de cómputo y, en su caso, la asignación que se impugna, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-III. La mención individualizada de las casillas cuya votación se solicita que se anule en cada caso y la causal que se invoca para cada una de ellas.
+II. La mención individualizada del acta de cómputo y, en su caso, la asignación que se impugna;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+III. la mención individualizada de las casillas cuya votación se solicita que se anule en cada caso y la causal que se invoca para cada una de ellas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+IV. En su caso, si se solicita recuento total o parcial de votos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+ARTÍCULO 409 BIS.- El recuento total o parcial de votos se substanciará incidentalmente, y sólo procederá cuando el nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente, en términos de lo dispuesto por el artículo 376, último párrafo de esta Ley.
+
+El Pleno del Tribunal Electoral deberá establecer previamente si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos por el propio Tribunal sin necesidad de recontar los votos. De resolver la procedencia del recuento total o parcial de votos, el Tribunal determinará si lo lleva a cabo por sí mismo, o en su caso, ordena a los Consejos Distritales respectivos su realización.
+
+No procederá el incidente señalado en este artículo, en el caso de casillas en las que se hubiere realizado nuevo escrutinio y cómputo en la sesión de cómputo respectiva.
 
 ### CAPÍTULO SEGUNDO. DE LOS PLAZOS
 
@@ -4761,7 +4861,7 @@ Podrán acumularse al inicio, durante la substanciación o para resolución de l
 
 Las notificaciones se podrán hacer:
 
-l. Personalmente;
+I. Personalmente;
 
 II. Por estrados;
 
@@ -5091,7 +5191,9 @@ IV. Los notarios públicos;
 
 V. Los partidos políticos;
 
-VI. Los candidatos a cargos de elección popular;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+VI. Los precandidatos o candidatos a cargos de elección popular;
 
 VII. Los ciudadanos, o cualquier persona física o moral;
 
@@ -5135,7 +5237,7 @@ I. Contravengan las disposiciones contenidas en los artículos 74, 96, 97 y 277 
 
 II. Incumplan con las resoluciones o acuerdos del Instituto Electoral o del Tribunal Electoral;
 
-IIII. Acepten donativos o aportaciones en especie o en dinero, de las personas o entidades que expresamente no estén facultadas para ello, en contravención a lo dispuesto en esta Ley;
+III. Acepten donativos o aportaciones en especie o en dinero, de las personas o entidades que expresamente no estén facultadas para ello, en contravención a lo dispuesto en esta Ley;
 
 IV. Soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades, en contravención a lo dispuesto en esta Ley;
 
@@ -5216,6 +5318,10 @@ IV. Respecto de las organizaciones sindicales, laborales o patronales, o de cual
 a) Con amonestación pública, y
 
 b) Con multa de hasta mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+V. Respecto de los precandidatos a cargos de elección popular se estará a lo dispuesto en el artículo 238 de esta Ley.
 
 ###### ARTÍCULO 464.
 
@@ -5371,7 +5477,9 @@ II. La Dirección de Fiscalización, y
 
 III. La Dirección General del Instituto Electoral.
 
-El órgano competente para tramitar, substanciar y formular el proyecto de resolución relativo a las quejas a que se refiere el párrafo anterior será la Dirección de Fiscalización, la que podrá solicitar la colaboración de la Dirección General del Instituto Electoral para tales efectos.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+El órgano competente para tramitar, substanciar y formular el proyecto de resolución relativo a las quejas a que se refiere el párrafo anterior será la Dirección de Fiscalización, la que podrá solicitar la colaboración de la Dirección General del Instituto Electoral para tales efectos. Corresponderá a la Comisión de Fiscalización de los Recursos de los Partidos Políticos el análisis, discusión, aprobación en su caso, y remisión al Consejo General del proyecto de resolución respectivo.
 
 ###### ARTÍCULO 478.
 
@@ -5435,11 +5543,13 @@ Las autoridades, particulares, personas físicas y morales, referidas en las fra
 
 Una vez realizados los actos a que se refiere los artículos 481 y 482, se procederá a lo siguiente:
 
-l. El titular de la Dirección de Fiscalización emplazará al partido político o coalición denunciada, corriéndole traslado con todos los elementos que integren el expediente respectivo, para que en un término de diez días contados a partir de la fecha en que surta efecto la notificación, conteste por escrito;
+I. El titular de la Dirección de Fiscalización emplazará al partido político o coalición denunciada, corriéndole traslado con todos los elementos que integren el expediente respectivo, para que en un término de diez días contados a partir de la fecha en que surta efecto la notificación, conteste por escrito;
 
 II. En la contestación al emplazamiento, el partido político o coalición denunciada podrá exponer lo que a su derecho convenga, deberá referirse a los hechos mencionados en la denuncia o queja, ofreciendo las pruebas que acrediten su defensa debiendo relacionarlas con los hechos, y presentará las alegaciones que estime procedentes;
 
-III. Agotada la instrucción, el titular de la Dirección de Fiscalización elaborará el proyecto de resolución correspondiente, para ser presentado a la consideración del Consejo General del Instituto Electoral en la siguiente sesión que celebre, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+III. Agotada la instrucción, el titular de la Dirección de Fiscalización elaborará el proyecto de resolución correspondiente, y lo turnará a la Comisión de Fiscalización de los Recursos de los Partidos Políticos para su análisis, discusión, aprobación en su caso, y remisión al Consejo General, y
 
 IV. Los proyectos de resolución deberán ser presentados al Consejo General en un término no mayor a noventas días naturales, contados a partir de la recepción de la queja o denuncia por parte de la Dirección de Fiscalización, con excepción de aquellos asuntos en que por la naturaleza de las pruebas ofrecidas o de las investigaciones que se realicen, se justifique la ampliación del plazo indicado, informando de ello al Consejo General.
 
@@ -5559,7 +5669,7 @@ V. El acuerdo de inicio de procedimiento, improcedencia, sobreseimiento, o de no
 
 El procedimiento administrativo de responsabilidad se sujetará, además de las normas previstas en el artículo anterior, a lo siguiente:
 
-l. Se iniciará con el acuerdo que dicte la Contraloría General, teniendo por radicada la queja, el acta administrativa o el instrumento correspondiente en el que consten los hechos que presuman la responsabilidad administrativa;
+I. Se iniciará con el acuerdo que dicte la Contraloría General, teniendo por radicada la queja, el acta administrativa o el instrumento correspondiente en el que consten los hechos que presuman la responsabilidad administrativa;
 
 II. El Contralor General citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor. Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
@@ -5569,7 +5679,9 @@ IV. Si del resultado de la audiencia no se desprenden elementos suficientes para
 
 V. Cuando no existan pruebas pendientes de desahogo, la Contraloría General declarará cerrado el periodo de instrucción, y procederá a dictar resolución dentro de los veinte días naturales siguientes, sobre la existencia o no de responsabilidad administrativa, y en su caso, impondrá al servidor público responsable la sanción que corresponda.
 
-La audiencia establecida en la fracción II de este artículo, será privada; la resolución que se emita se notificará al órgano electoral al cual pertenezca el infractor, para efectos de cumplimentarla.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+La audiencia establecida en la fracción II de este artículo, será privada. La resolución que se emita se notificará de manera personal al servidor público sujeto a procedimiento, y por oficio al órgano que corresponda cumplimentar las resoluciones.
 
 ###### ARTÍCULO 496.
 
@@ -5587,13 +5699,19 @@ Las sanciones que podrá imponer la Contraloría General, atendiendo a la graved
 
 I. Amonestación privada o pública;
 
-II. Multa hasta por doscientas veces el Salario Mínimo Diario General vigente en el Estado;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-III. Suspensión del encargo hasta por sesenta días, sin goce de salario o contraprestación que reciba con motivo de su encargo;
+II. Sanción económica o pecuniaria, en los términos de la Ley de Responsabilidades de los Servidores Públicos, vigente en el Estado;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+III. Suspensión del encargo, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
 IV. Destitución del puesto, y
 
-V. Inhabilitación temporal, hasta por tres años, para desempeñar empleos, cargos o comisiones en el servicio público.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+V. Inhabilitación, en los términos de la Ley de Responsabilidades de los Servidores Públicos, vigente en el Estado.
 
 ###### ARTÍCULO 499.
 
@@ -5601,7 +5719,43 @@ Las faltas serán valoradas y, en su caso sancionadas, de conformidad con los cr
 
 En todo caso, se considerarán como faltas graves, el incumplimiento a lo dispuesto por las fracciones IV, V, X, y XVI del artículo 46, el incumplimiento a lo dispuesto por las fracciones II, IV, V, VI, VII, VIII, IX, XIII y XVI del artículo 47, ambos de la Ley de Responsabilidades de los Servidores Públicos del Estado, así como las causas señaladas en las fracciones I a la VI, IX y XI, del artículo 488 de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 500.
+
+La ejecución de las sanciones previstas en el artículo 498 de esta Ley, se realizará de la siguiente manera:
+
+I. La amonestación, ya sea pública o privada, y la inhabilitación en todos los casos, serán aplicadas por el titular de la Contraloría General;
+
+II. Las previstas en las fracciones II a la IV, se aplicarán por:
+
+a) El Consejero Presidente del Consejo General, cuando el servidor público sancionado sea:
+
+1. Consejeros electorales numerarios y supernumerarios del Consejo General y de los Consejos Distritales;
+
+2. Consejero Presidente de algún Consejo Distrital Electoral;
+
+3. Secretario Fedatario del Consejo General o Consejo Distrital, según se trate;
+
+4. Titular de la Dirección General, Dirección de Fiscalización, o Coordinación de Comunicación Social; y
+
+5. Demás personal adscrito a las oficinas del Consejo General, Secretario Fedatario y la Coordinación de Comunicación Social.
+
+b) El Consejero Presidente de la Comisión que corresponda en el orden que se determina en las fracciones del artículo 144 de esta Ley, cuando el servidor público sancionado sea el Consejero Presidente del Consejo General;
+
+c) El Director General del Instituto Electoral, cuando el servidor público sancionado esté adscrito a la Dirección General o Direcciones Ejecutivas;
+
+d) El Director de Fiscalización, cuando el servidor público sancionado esté adscrito a esa área; y
+
+e) El Contralor General, cuando se trate de personal a su cargo.
+
+III. El Contralor General podrá ejecutar las sanciones previstas en las fracciones II, III y IV del artículo 498, cuando quien esté obligado a hacerlo en los términos de la fracción que antecede no lo haga, sin perjuicio de la sanción que corresponda.
+
+La ejecución de las sanciones se realizará de inmediato por ser de orden público, en los términos de las resoluciones que las contengan.
+
+El Contralor General comunicará por oficio la sanción a quien deba ejecutarla, debiendo dar cuenta este último del cumplimiento a lo ordenado, con las constancias respectivas.
+
+La ejecución de la suspensión temporal a que se refiere el artículo 496 de esta Ley, se llevará a cabo por quien está facultado para ejecutar la sanción prevista en la fracción III del artículo 498.
 
 Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas a través del recurso de inconformidad previsto en esta Ley.
 
@@ -5631,9 +5785,11 @@ VI. En el supuesto de que transcurridas dos ronda (sic) de votación, ninguno de
 
 El electo rendirá la protesta de ley ante la Mesa Directiva del Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
 ###### ARTÍCULO 503.
 
-La Contraloría General contará en su estructura orgánica, con un departamento jurídico y uno de auditoría, así como el personal y recursos necesarios para el ejercicio de sus funciones. En su desempeño la Contraloría se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
+La Contraloría General contará en su estructura orgánica, con una coordinación jurídica y una de auditoría, así como el personal y recursos necesarios para el ejercicio de sus funciones. En su desempeño la Contraloría se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
 
 El personal adscrito a la Contraloría General será designado y removido libremente por su titular.
 
@@ -5669,7 +5825,7 @@ Corresponde al Congreso del Estado, resolver sobre la aplicación de las sancion
 
 El Contralor General tendrá las facultades siguientes:
 
-l. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto Electoral;
+I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto Electoral;
 
 II. Designar y remover al personal adscrito a la Contraloría General;
 
@@ -5711,9 +5867,21 @@ XX. Presentar al Consejo General los informes previo y anual de resultados de su
 
 XXI. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto Electoral, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca la propia Contraloría. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia;
 
-XXII. Intervenir en los procesos de entrega y recepción por inicio o conclusión de encargo de los servidores públicos que corresponda, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-XXIIl. Las demás que le otorgue la presente Ley o las leyes aplicables en la materia.
+XXII. Intervenir en los procesos de entrega y recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XXIII. Turnar al Consejo General para su aprobación, el proyecto de Reglamento Interior de la Contraloría General, en el que se distribuirán y delegarán las atribuciones y funciones a los Coordinadores de los Departamentos y demás personal, los supuestos de suplencia, así como todo lo concerniente a la organización y funcionamiento de la Contraloría General, y ordenar lo conducente para su debida observancia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XXIV. Expedir los acuerdos, lineamientos, manuales de organización y de procedimientos, que se requieran para hacer efectivo su funcionamiento en el marco de su autonomía técnica y de gestión, informando al Consejo General sobre su expedición para su conocimiento, así como ordenar lo conducente para su observancia, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
+
+XXV. Las demás que le otorgue la presente Ley o las leyes aplicables en la materia.
 
 ###### ARTÍCULO 507.
 
@@ -5741,7 +5909,7 @@ QUINTO.- El Consejo General al tercer día de la entrada en vigor del presente D
 
 SEXTO.- Cuando con motivo del presente Decreto, cualquier departamento del Instituto Electoral cambie de adscripción, el traspaso se hará incluyendo al personal a su servicio, las asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes que haya utilizado para la atención de los asuntos a su cargo, con las previsiones siguientes:
 
-l.- La Dirección General del Registro Estatal de Electores, vigente con motivo de la Ley que se abroga, deberá en un plazo de cinco días naturales contados a partir de la entrada en vigor del presente Decreto, entregar los archivos, bienes y recursos materiales de la misma, a la Dirección General del Instituto Electoral y de Participación Ciudadana del Estado, o en su caso, al responsable de la administración de dicho Instituto.
+I.- La Dirección General del Registro Estatal de Electores, vigente con motivo de la Ley que se abroga, deberá en un plazo de cinco días naturales contados a partir de la entrada en vigor del presente Decreto, entregar los archivos, bienes y recursos materiales de la misma, a la Dirección General del Instituto Electoral y de Participación Ciudadana del Estado, o en su caso, al responsable de la administración de dicho Instituto.
 
 II.- La Dirección de Prerrogativas y Partidos Políticos, estará en funciones hasta en tanto se designe al Titular de la Dirección de Fiscalización de los Recursos de los Partidos Políticos del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, para ejercer exclusivamente las funciones de fiscalización a partidos políticos en términos de la Ley que se abroga; asimismo deberá en un plazo de cinco días contados a partir de la vigencia del presente Decreto, poner a disposición del Secretario Fedatario del Consejo General, los archivos relacionados con los partidos políticos, para el ejercicio de las funciones que conforme al presente Decreto le corresponde a éste.
 
@@ -5807,8 +5975,20 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 JOSÉ FRANCISCO BLAKE MORA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE AGOSTO DE 2009.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Consejo General del Instituto Electoral, dentro de los sesenta días naturales siguientes a su entrada en vigor del presente decreto, deberá adecuar las disposiciones reglamentarias correspondientes.
+
+TERCERO.- El Consejo General del Instituto Electoral, en la siguiente sesión pública que celebre, después de la entrada en vigor del presente decreto, deberá integrar la Comisión de Fiscalización de los Recursos de los Partidos Políticos.
+
+CUARTO.- El Reglamento Interior de la Contraloría General, deberá emitirse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO.- A partir del 2010, en ningún caso, la dieta de los consejeros presidentes de los consejos electorales podrá ser mayor al cinco porciento (sic) del que señale la ley para los consejeros electorales, según corresponda.
