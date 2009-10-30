@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-san-3377
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-25"
-last_updated: "2009-10-14"
+last_updated: "2009-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 25 de agosto de 2003.
 
@@ -151,53 +151,33 @@ La autoridad municipal podrá aplicar diversos tipos de sistemas electrónicos q
 
 Se consideran infracciones, todas aquéllas acciones y omisiones que contravengan las disposiciones de éste y demás Reglamentos Municipales y serán aplicadas sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 12.
 
 Para los efectos del presente Reglamento, las infracciones son:
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
-
 I. Al orden público;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
 II. A la seguridad de la población;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
-
 III. A la moral y a las buenas costumbres;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
 IV. Al derecho de propiedad;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
-
 V. Al ejercicio del comercio y del trabajo;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
 VI. Contra la salud; y
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
-
 VII. Contra la ecología.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2005)</small>
-
-Se consideran infracciones con agravante, todas aquéllas acciones y omisiones que contravengan las disposiciones de este reglamento, siempre y cuando la persona a quien se le impute la acción u omisión infractora se encuentre en estado de ebriedad o bajo los efectos de alguna droga o sustancia que produzca efectos similares, para lo cual el Juez Calificador atenderá los resultados del examen médico a que se refiere el artículo 34 de este Reglamento.
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
-
 También se considerarán infracciones con agravante, cuando el infractor sea reincidente.
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
 
 Hay reincidencia siempre que el infractor cometa la misma violación a las disposiciones de este Reglamento si no han transcurrido dos años desde la aplicación de la sanción anterior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
-###### ARTÍCULO 13
+###### ARTÍCULO 13.
 
 Son infracciones al orden público:
 
@@ -213,7 +193,7 @@ IV. Molestar o alterar el orden en la vía pública o lugares públicos;
 
 V. Ingerir bebidas alcohólicas en la vía pública o lugares públicos no permitidos, así como en el interior de vehículos de propulsión mecánica, animal y/o humana que se encuentren en circulación o estacionados en la vía pública o lugares públicos.
 
-Se presumirá que una persona cae en el supuesto del párrafo anterior, cuando el presunto infractor tenga aliento alcohólico y dentro de su radio de acción se encuentre una botella, lata, envase o cualquier otro recipiente que contenga una bebida alcohólica que ha sido abierta, tenga los sellos rotos o el contenido se encuentre parcial o totalmente consumido;
+Se presumirá que una persona cae en el supuesto del párrafo anterior, cuando el presunto infractor tenga aliento alcohólico y dentro de su radio de acción se encuentre una botella, lata, envase o cualquier otro recipiente que contenga una bebida alcohólica que ha sido abierta, tenga los sellos rotos o el contenido se encuentre parcial o totalmente consumido.
 
 VI. Consumir o intoxicarse con drogas o tóxicos;
 
@@ -227,13 +207,9 @@ X. Causar ruidos o sonidos que molesten, perjudique o afecte la tranquilidad de 
 
 Xl. Efectuar bailes en salones clubes y centros sociales sin el permiso correspondiente;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+XII. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas sin el permiso de la Autoridad correspondiente; y
 
-XII. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas sin el permiso de la Autoridad correspondiente;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
-
-XIII. Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales; y (sic)
+XIII. Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales;
 
 > <small>(ADICIONADA, P.O. 27 DE JULIO DE 2007)</small>
 
@@ -241,7 +217,7 @@ XIV. Comprar bebidas alcohólicas en cualquier establecimiento fuera de los hora
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-XV. Generar en residencias, casa habitación o cualquier lugar público o privado donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por cualquier medio y en cualquier lugar sonidos que por su proceso sobrepasen los límites máximos permisibles establecidos en la NOM-SEMARNAT-081-1994, y que estos sean con una intensidad mayor a los sesenta y cinco decibeles en el horario comprendido de las seis a las veintidós horas y a los sesenta y ocho decibeles en el horario comprendido de las veintidós a las seis horas;
+XV. Generar en residencias, casa habitación o cualquier lugar público o privado donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por cualquier medio y en cualquier lugar sonidos que por su proceso sobrepasen los límites máximos permisibles establecidos en la NOM-SEMARNAT-081-1994, y que estos sean con una intensidad mayor a los sesenta y cinco decibeles en el horario comprendido de las seis a las veintidós horas y a los sesenta y ocho decibeles en el horario comprendido de las veintidós a las seis horas.
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
@@ -273,7 +249,7 @@ VIII. Participar en grupos que causen molestias a las personas o sus bienes, en 
 
 IX. Conducir en Estado de Ebriedad, Estado de Ineptitud para Conducir, Evidente Estado de Ebriedad, vehículos de propulsión ya sea mecánica, animal y/o humana;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
 X. Conducir vehículos, bajo los efectos de drogas o tóxicos;
 
@@ -633,7 +609,7 @@ VI. A solicitud del infractor las sanciones administrativas, podrán conmutarse 
 
 ARTÍCULO 33 BIS.- Los menores de edad podrán acogerse al beneficio del trabajo comunitario con la autorización de quienes ejerzan sobre ellos la patria potestad o su custodia.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
 
 ARTÍCULO 33 BIS-1.- Se entiende por trabajo a favor de la comunidad, la actividad asignada por la autoridad municipal al infractor, a fin de conmutar la sanción impuesta.
 
@@ -729,7 +705,7 @@ En aquellos casos en que los hechos u omisiones sean tipificados como delitos pr
 
 ### CAPITULO SEXTO. DEL COMITÉ DE HONOR Y JUSTICIA DE SEGURIDAD PÚBLICA Y VIALIDAD
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ### CAPITULO SEPTIMO. DEL PROCEDIMIENTO DE MODIFICACIÓN AL REGLAMENTO
 
@@ -745,7 +721,7 @@ El recurso de inconformidad tiene por objeto que la Autoridad confirme, revoque 
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
-###### ARTÍCULO 42.
+###### ARTICULO 42.
 
 El recurso de inconformidad que interponga, deberá presentarse ante la Secretaría del Republicano Ayuntamiento. El afectado contará con un plazo de 5-cinco días hábiles para la promoción del recurso, contados a partir del día siguiente de la notificación.
 
@@ -777,141 +753,79 @@ El término para el desahogo de las pruebas ofrecidas, lo será el de 5-cinco d�
 
 Dentro de un término no mayor de 15-quince días hábiles, después de concluir el periodo de pruebas, la Autoridad confirmará, modificará o revocará el acto recurrido. Si no lo hiciere en ese término, el recurso se entenderá resuelto a favor del quejoso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
 ###### ARTÍCULO 45.
 
-El Comité de Honor y Justicia de Seguridad Pública y Vialidad se constituye como un órgano de carácter administrativo, auxiliar del Presidente Municipal, el cual tendrá competencia para conocer y sustanciar los procedimientos que se deriven de las quejas y denuncias que se presenten en contra de los elementos de Policía y de Tránsito de la Secretaría de Seguridad Pública y Vialidad.
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
-
-La sustanciación del procedimiento de responsabilidad administrativa se regirá por la ley o leyes aplicables.
-
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 46.
 
-El Comité de Honor y Justicia de Seguridad Pública y Vialidad estará integrado por 5-cinco ciudadanos de reconocida honorabilidad, capacidad y solvencia moral en el Municipio, por 2-dos miembros del Republicano Ayuntamiento y por 2-dos elementos adscritos a la Secretaría de Seguridad Pública y Vialidad en los cargos de policía y de tránsito, respectivamente, bajo el siguiente orden:
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-I. Un Presidente;
-
-II. Un Secretario; y
-
-III. Ocho Vocales.
-
-Cada integrante propietario contará con un suplente que cubrirá las ausencias de los titulares del Comité en las Sesiones.
-
-El cargo de Presidente será determinado por los integrantes propietarios del Comité con derecho a voz y voto. El Presidente necesariamente tendrá que ser elegido por mayoría y será uno de los 5-cinco ciudadanos que integren el Comité.
-
-El cargo de Secretario será ocupado por el titular de la Contraloría Municipal, quien en las sesiones tendrá derecho a voz, pero no a voto.
-
-Los vocales serán el resto de los integrantes del Comité. En cuanto a los integrantes del Republicano Ayuntamiento que tendrán el cargo de vocal serán, salvo acuerdo en diverso sentido del mismo Órgano, el Presidente de la Comisión de Seguridad Pública y Vialidad y el Presidente de la Comisión de Honor y Justicia del Republicano Ayuntamiento.
-
-Tanto el Presidente, como los 8-ocho vocales tendrán derecho a voz y voto en las sesiones del Comité.
-
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 47.
 
-Los integrantes ciudadanos del Comité de Honor y Justicia de Seguridad Pública y Vialidad, tanto propietarios como suplentes, deberán ser propuestos por el Presidente Municipal y aprobados por el Pleno del Republicano Ayuntamiento y durarán en su encargo 3-tres años.
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-Para la elección de los cargos de vocal ocupados por los elementos adscritos a la Secretaría de Seguridad Pública y Vialidad, el titular de ésta dependencia, presentará una propuesta de cuando menos 3- tres elementos de la Dirección de Policía y 3-tres de la Dirección de Tránsito, de entre los cuales el Republicano Ayuntamiento, previa opinión del Comité, elegirá y determinará quienes ocuparan estos 2-dos cargos.
-
-La Dirección de Recursos Humanos estará obligada a proporcionar, en cuanto sea requerida, los expedientes de los elementos propuestos.
-
-Los cargos de vocal ocupados por los elementos de policía y de tránsito, durarán en su encargo un periodo de 6-seis meses, pudiendo ser reelectos.
-
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 48.
 
-El Comité de Honor y Justicia de Seguridad Pública y Vialidad sesionará cuando menos una vez al mes y tendrá como recinto el edificio municipal, que se establezca en la convocatoria correspondiente.
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-El Presidente podrá convocar con 48-cuarenta y ocho horas de anticipación a las sesiones extraordinarias que sea necesario.
-
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 49.
 
-Habrá quórum en la sesiones del Comité de Honor y Justicia de Seguridad Pública y Vialidad, con la presencia de la mitad más uno de sus integrantes con derecho a voto y sus resoluciones serán tomadas por mayoría simple de los integrantes presentes. En caso de empate el Presidente tendrá voto de calidad.
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 50.
 
-El Secretario del Comité de Honor y Justicia de Seguridad Pública y Vialidad, será el ejecutor de los acuerdos y resoluciones que emita el mismo Comité.
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 51.
 
-Todo integrante del Comité de Honor y Justicia de Seguridad Pública y Vialidad, en aras de la imparcialidad que debe prevalecer en su actuación, se tendrá por forzosamente impedido y como consecuencia debe excusarse, en los siguientes casos.
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
-
-l.- Tenga una relación de parentesco por consanguinidad o afinidad, con el servidor público sujeto a procedimiento;
-
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
-
-II.- Haya tenido alguna diferencia personal o de otra índole con el servidor público sujeto al procedimiento; y,
-
-III.- Demás causas que se justifican en legal forma.
-
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 52.
 
-De toda sesión del Comité de Honor y Justicia de Seguridad Pública y Vialidad, el Secretario levantará acta debidamente suscrita por los que en ella intervinieron y así quisieron hacerlo.
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 53.
 
-El Comité de Honor y Justicia de Seguridad Pública y Vialidad tendrá plena jurisdicción y competencia, para:
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-I.- Vigilar que los elementos adscritos a la Secretaría de Seguridad Pública y Vialidad del Municipio, cumplan en el desempeño de sus cargos, empleos o comisiones y con los principios rectores que rigen la prestación del servicio público, de legalidad, imparcialidad, transparencia, eficacia, eficiencia y el pleno respeto a los derechos humanos y garantías individuales;
-
-II.- Establecer en coordinación con la Contraloría Municipal, módulos de atención de quejas y denuncias ciudadanas en contra de presuntas actuaciones indebidas de elementos de policía y tránsito;
-
-III.- Organizar cursos, conferencias o pláticas relacionadas con el servicio de seguridad pública, vialidad, protección civil, e instrumental y equipo utilizado, en los que se involucren a los servidores públicos a los que hace referencia el artículo 45 del presente Reglamento, como parte de su capacitación y adiestramiento permanente;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
-
-IV.- Resolver en estricto apego a la ley del Sistema de Seguridad Pública del Estado de Nuevo León, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, los Procedimientos de Responsabilidad Administrativa que con motivo de las quejas y denuncias se inicien en contra de los "oficiales" de policía y tránsito;
-
-V.- Emitir recomendaciones al Secretario de Seguridad Pública y Vialidad, Director de Policía y Director de Tránsito, para disciplinar a los servidores públicos a los que hace referencia el artículo 45 del presente Reglamento, cuando sus conductas activas u omisivas no sean constitutivas de infracción a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
-
-VI.- Si el caso lo permite, previo su estudio y análisis, celebrar una audiencia de conciliación entre el denunciante o quejoso y el servidor público, y en ese acto emitir su resolución; y,
-
-VII.- Honrar en privado o públicamente, mediante la entrega de título honorifico o en numerario, según lo permitan los Presupuestos Municipales, a los servidores públicos que hace referencia el artículo 45 del presente Reglamento, que en razón de sus méritos se hayan distinguido en su actuar, en la prestación del servicio público de seguridad pública y vialidad o protección civil.
-
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 54.
 
-Las Quejas y Denuncias en contra de los oficiales de policía y tránsito, deben reunir como mínimo, los siguientes requisitos:
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-I. Generales de la persona que la presenta;
-
-II. El señalamiento, si lo supiera, del nombre del servidor público, o su media filiación;
-
-III. Señalar fecha, hora y lugar de los hechos u omisiones que considere fueron indebidamente cometidos por el servidor público;
-
-IV. En caso de contar con pruebas, acompañarlas a su queja o denuncia; y,
-
-V. No darán inicio al procedimiento administrativo las quejas o denuncias anónimas, pero estas se harán del conocimiento de los titulares de la Secretaría de Seguridad Pública y Vialidad y Contraloría Municipal.
-
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 55.
 
-El Comité de Honor y Justicia de Seguridad Pública y Vialidad, informará en forma trimestral por escrito a la Comisión de Seguridad Pública y Vialidad del Republicano Ayuntamiento los asuntos sometidos a su jurisdicción, la situación jurídica que guardan y en su caso el sentido de la resolución emitida de cada caso.
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL REGLAMENTO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 56.
 
-En caso de que la resolución dictada por el Comité de Honor y Justicia de Seguridad Pública y Vialidad, determine la aplicación de sanción administrativa al servidor público, lo informará a la Contraloría Interna del Gobierno del Estado, en cumplimiento a lo dispuesto por el artículo 94 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+(DEROGADO POR TRANSITORIO QUINTO DEL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON, P.O. 30 DE OCTUBRE DE 2009)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
 
@@ -988,3 +902,17 @@ Las presentes REFORMAS POR MODIFICACIÓN, ADICIÓN Y DEROGACIÓN AL REGLAMENTO D
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+Artículo Primero. Se Aprueba el Reglamento en Materia de Seguridad Municipal de San Pedro Garza García, Nuevo León, en los términos que se exponen en el contenido del presente dictamen.
+
+Artículo Segundo. El presente Reglamento entrará en vigor 30-treinta días después del siguiente al de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal
+
+Artículo Tercero. Hasta en tanto, se reforma el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, la referencia que en el presente Reglamento se hace a la Secretaría de Seguridad Municipal, deberá entenderse referida a la Secretaría de Seguridad Pública y Vialidad.
+
+Artículo Cuarto. Se derogan todas las disposiciones que contravengan lo dispuesto en este Reglamento.
+
+Artículo Quinto. Se deroga el Capitulo Sexto y los articulas 45, 46, 47, 48, 49, 50, Sil, 52. 53, 54, 55 y 56 del Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, Nuevo León.
+
+Artículo Sexto. Las quejas y denuncias y los procedimientos de responsabilidad administrativa que se encuentren radicados en la Contratarla Municipal y pendientes de resolver, deberán ser remitidos a la Comisión de Honor y Justicia para su resolución, conforme a las reglas establecidas por la Ley de Seguridad Pública para el Estado de Nuevo León.
