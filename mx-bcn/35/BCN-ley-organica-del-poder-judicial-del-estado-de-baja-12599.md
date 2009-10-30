@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2009-04-24"
+last_updated: "2009-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -2901,9 +2901,9 @@ I.- Apoyar al Presidente del Tribunal en las tareas que le encomiende y en gener
 
 II.- Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones del Pleno y del Tribunal.
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-III.- Tener Título de Licenciado en Derecho, expedido cuando menos con tres años de anterioridad al día de la designación, por institución legalmente facultada.
+III.- Autorizar con su firma las actuaciones del Pleno y del Tribunal, y expedir las constancias que se requieran.
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
@@ -3095,7 +3095,9 @@ I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres
 
 II.- Tener treinta años de edad por lo menos, al día de la designación.
 
-III.- Tener Título Profesional, expedido cuando menos con tres años de anterioridad al día de la designación, por institución legalmente facultada.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+III.- Tener Título de Licenciado en Derecho, expedido cuando menos con tres años de anterioridad al día de la designación, por institución legalmente facultada.
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
@@ -3620,3 +3622,7 @@ SEGUNDO.- Aprobado (sic) la iniciativa de reforma por los Ayuntamientos del Esta
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo cumplimiento del procedimiento que prescribe el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 CUARTO.- La reforma al primer párrafo del artículo 17 de la Ley Orgánica del Poder Judicial del Estado de Baja California entrará en vigor una vez cobre vigencia la reforma al artículo 66 de la Constitución Política del Estado Libre y Soberano de Baja California referida en los artículos transitorios antes citados.
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
