@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2009-07-17"
+last_updated: "2009-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -589,9 +589,9 @@ XIX. Presentar ante el Congreso las iniciativas de leyes o decretos, en todo lo 
 
 XX. Elegir a su Presidente en términos de esta ley, así como conocer y aceptar, en su caso, las licencias o renuncia a dicho cargo; asimismo, conceder licencias que no excedan de diez días naturales a los Magistrados del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
 
-XXI. Adscribir a los Magistrados a las Salas y Tribunales correspondientes y llamar a los que deban integrar Sala o Tribunal;
+XXI. Adscribir a los Magistrados a los Tribunales y a las Salas del Tribunal Superior de Justicia, y llamar a los que deban integrar Sala o Tribunal;
 
 > <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -963,23 +963,59 @@ XIII. Las demás que expresamente establezcan la Constitución local y las leyes
 
 #### SECCIÓN PRIMERA. De su Organización y Funcionamiento
 
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 49.
 
-El Tribunal de lo Contencioso Administrativo se compondrá por seis Magistrados.
+El Tribunal de lo Contencioso Administrativo es el órgano especializado del Poder Judicial del Estado, de anulación y plena jurisdicción, encargado de resolver las controversias que se susciten entre autoridades de la administración pública, estatal y municipal, y los particulares.
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 50.
 
-El Tribunal contará con una Sala Superior y tres Salas Regionales, integradas éstas por un Magistrado y aquélla por tres.
+El Tribunal de lo Contencioso Administrativo se compondrá por siete Magistrados, uno de los cuales formará parte del Consejo de la Judicatura y no integrará Sala; y funcionará en Pleno, en una Sala Superior y tres Salas Regionales.
 
-La Sala Superior y las Salas Regionales contarán con un Secretario de Acuerdos, nombrado conforme a lo dispuesto por esta ley.
+El Pleno se integrará por todos los Magistrados adscritos a Salas; la Sala Superior, por tres Magistrados; y las Salas Regionales, en forma unitaria.
 
-#### SECCIÓN SEGUNDA. Del Presidente del Tribunal
+El Pleno, la Sala Superior y las Salas Regionales contarán con un Secretario de Acuerdos, Actuarios y el personal administrativo que requieran para su buen funcionamiento, nombrados conforme a lo dispuesto por esta Ley. El Secretario de Acuerdos de la Sala Superior fungirá como tal en el Pleno del Tribunal.
 
-#### SECCIÓN TERCERA. De la Sala Superior
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, G.O. 30 DE OCTUBRE DE 2009)</small>
+
+#### SECCIÓN SEGUNDA. Del Pleno del Tribunal de lo Contencioso Administrativo
+
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 50 Bis.
+
+Son atribuciones del Pleno del Tribunal de lo Contencioso Administrativo:
+
+I. Designar, de entre sus miembros, al Presidente del Tribunal;
+
+II. Adscribir a sus Magistrados a las Salas correspondientes;
+
+III. Discutir y, en su caso, aprobar el anteproyecto anual de presupuesto de egresos del Tribunal, que deberá formular el Presidente;
+
+IV. Expedir, reformar y derogar el Reglamento Interior del Tribunal;
+
+V. Fijar, en su respectivo ámbito, los precedentes obligatorios, en los términos que señala esta Ley, y resolver las contradicciones existentes en las Salas;
+
+VI. Proponer al Pleno del Tribunal Superior de Justicia, para su consideración, proyectos de iniciativas de leyes o decretos relacionados con el ámbito de su competencia;
+
+VII. Autorizar, en unión con el Secretario General de Acuerdos, las actas en las que consten las deliberaciones del Pleno y los acuerdos que éste dicte;
+
+VIII. Dar cuenta al Consejo de la Judicatura de las irregularidades de que tenga conocimiento, cometidas por los Secretarios, Actuarios y demás servidores públicos del Tribunal de lo Contencioso Administrativo, que afecten el buen funcionamiento del mismo; y
+
+IX. Las demás que deriven de las disposiciones legales estatales.
+
+(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], G.O. 30 DE OCTUBRE DE 2009)
+
+#### SECCIÓN TERCERA. Del Presidente del Tribunal
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 51.
 
-El Presidente del Tribunal será electo cada tres años por los Magistrados de la Sala Superior, durante la primera semana de diciembre del año de que se trate, y podrá ser reelecto por una sola vez.
+El Presidente del Tribunal será elegido por el Pleno cada tres años, durante la primera semana de diciembre del año de que se trate, y podrá ser reelegido, en forma inmediata, por una sola vez.
 
 ###### Artículo 52.
 
@@ -999,15 +1035,19 @@ VI. Presentar a la Sala Superior, para su aprobación, las actas en que se hagan
 
 VII. Informar al Presidente del Tribunal Superior de Justicia, para su publicación, de las resoluciones y precedentes obligatorios dictados por el Tribunal;
 
-VIII. Proponer al Consejo de la Judicatura el nombramiento del Secretario de Acuerdos de la Sala Superior, de los Secretarios de Acuerdos de las Salas Regionales y de los Secretarios de Estudio y Cuenta de los Magistrados del Tribunal, así como de los Actuarios y demás personal de dichas Salas;
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
 
-IX. Someter a la consideración de la Sala Superior reformas al Reglamento de su propio Tribunal;
+VIII. Proponer al Consejo de la Judicatura el nombramiento del Secretario de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal administrativo de la Sala Superior;
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
+
+IX. Ejercer su presupuesto bajo los criterios de legalidad, transparencia, honradez y austeridad;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
 X. Presentar ante el Consejo de la Judicatura y los Magistrados que integran las Salas Superior y Regionales del Tribunal de lo Contencioso Administrativo, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará al Congreso del Estado;
 
-XI. Conocer y someter a la consideración de la Sala Superior, las excusas o impedimentos de los Magistrados del Tribunal; y
+XI. Conocer y someter a la consideración de la Sala Superior, las excusas o impedimentos de los Magistrados del Tribunal; y (sic)
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1021,15 +1061,15 @@ XIII. Conocer de los avisos que los Magistrados del Tribunal de lo Contencioso A
 
 XIV. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
-#### SECCIÓN CUARTA. De las Salas Regionales
+(REUBICADA [N. DE E. ANTES SECCION TERCERA], G.O. 30 DE OCTUBRE DE 2009)
+
+#### SECCIÓN CUARTA. De la Sala Superior
 
 ###### Artículo 53.
 
 La Sala Superior tendrá su sede oficial en el Municipio de Xalapa-Enríquez y tendrá competencia para:
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
-
-I. Establecer, en su respectivo ámbito, los precedentes obligatorios en los términos de esta ley y ordenar su publicación, debidamente compilada y sistematizada, por conducto de su presidente;
+I. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
 
 II. Resolver los recursos de revisión que se interpongan en contra de las resoluciones de las Salas Regionales;
 
@@ -1045,15 +1085,13 @@ VII. Resolver los conflictos de competencia que se susciten entre las Salas Regi
 
 VIII. Conocer del incumplimiento de las sentencias de las Salas Regionales;
 
-IX. Designar de entre sus miembros al Presidente del Tribunal;
+IX. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
 
-X. Dar cuenta al Consejo de la Judicatura de las irregularidades de que tenga conocimiento, cometidas por los secretarios, actuarios y demás servidores públicos del Tribunal de lo Contencioso Administrativo, que afecten el buen funcionamiento del mismo;
+X. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
 
-XI. Aprobar el Reglamento del Tribunal de lo Contencioso Administrativo y remitirlo, para su publicación, al Presidente del Tribunal Superior de Justicia; y
+XI. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
-
-XII. Ejercer el presupuesto del Tribunal bajo los criterios de legalidad, honradez, transparencia y austeridad;
+XII. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
 
 > <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1063,11 +1101,15 @@ XIII. Atender las observaciones y recomendaciones que le formule el Órgano de F
 
 XIV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
 
-#### SECCIÓN PRIMERA. De su Organización y Funcionamiento
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION CUARTA], G.O. 30 DE OCTUBRE DE 2009)</small>
+
+#### SECCIÓN QUINTA. De las Salas Regionales
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 54.
 
-Las Salas Regionales tendrán la residencia y jurisdicción territorial siguiente:
+Las Salas Regionales del Tribunal de lo Contencioso Administrativo serán conformadas con carácter unitario y tendrán la residencia y jurisdicción territorial siguiente:
 
 I. Sala Regional. Zona Norte, con residencia en Tuxpan, Veracruz, con jurisdicción en los Distritos Judiciales de: Pánuco, Ozuluama, Tantoyuca, Huayacocotla, Chicontepec, Tuxpan, Poza Rica y Papantla.
 
@@ -1085,35 +1127,77 @@ Las Salas Regionales tendrán competencia para:
 
 I. Conocer de:
 
-a) Los juicios que se promuevan en contra de los actos administrativos que dicten, ordenen, ejecuten o traten de ejecutar: las dependencias centralizadas y entidades paraestatales de la administración pública estatal; los órganos municipales y entidades paramunicipales; y el órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
 
-b) Los juicios que se promuevan en contra de los actos fiscales que dicten, ordenen, ejecuten o traten de ejecutar los órganos del Poder Ejecutivo del Estado y de los Municipios;
+a) Actos administrativos que dicte, ordene, ejecute o trate de ejecutar la autoridad, por violaciones cometidas en los mismos o durante el procedimiento administrativo; en este último caso, cuando trasciendan al sentido de las resoluciones;
 
-c) Los juicios que se promuevan contra las resoluciones dictadas por las autoridades administrativas o fiscales, en los recursos ordinarios establecidos por las leyes y reglamentos respectivos;
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
 
-d) Los juicios que se promuevan contra las resoluciones mediante las que se impongan sanciones a los servidores públicos que hayan incurrido en responsabilidades administrativas;
+b) Actos administrativos que dicte, ordene, ejecute o trate de ejecutar la autoridad, que afecten derechos de particulares;
 
-e) Los juicios que promuevan las autoridades estatales o municipales y los titulares de las entidades paraestatales o paramunicipales, para que sean modificadas o nulificadas las resoluciones administrativas o fiscales favorables a un particular;
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
 
-f) Los juicios que se promuevan con motivo del silencio de la autoridad administrativa, en los casos de afirmativa ficta que señale la ley;
+c) Actos que dicte, ordene, ejecute o trate de ejecutar de manera unilateral la autoridad, respecto de contratos administrativos u otros acuerdos de voluntad de la misma naturaleza que se hayan celebrado con los particulares en los renglones administrativo y fiscal;
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
+
+d) Actos administrativos que se configuren por el silencio de la autoridad;
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
+
+e) Resoluciones dictadas por la autoridad que impongan sanciones a los servidores públicos que hayan incurrido en responsabilidad administrativa;
+
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
+
+f) Resoluciones favorables a los particulares que causen lesión al interés público, cuya nulidad demande la autoridad;
 
 g) Los juicios que se promuevan contra las resoluciones negativas fictas en materia fiscal y administrativa configuradas por el silencio de la autoridad para dar respuesta a la instancia de un particular en el plazo que fije la ley;
 
-h) Los recursos de reclamación que se interpongan contra los autos: de desechamiento de la demanda o de la contestación; que denieguen la intervención del tercero perjudicado; y que desechen las pruebas ofrecidas hasta antes de la celebración de la audiencia del juicio; e
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
 
-i) Los recursos de queja previstos por la ley;
+h) Resoluciones definitivas dictadas en el recurso de revocación; y
 
-II. Imponer los medios de apremio para hacer cumplir sus resoluciones;
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
 
-III. Atender los mandamientos de la Sala Superior;
+i). Los demás actos y resoluciones que señale la Ley.
 
-IV. Solicitar el auxilio de las otras Salas Regionales para la realización de diligencias fuera de su jurisdicción territorial;
+II. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
 
-V. Proponer, en su respectivo ámbito, reformas al reglamento del Tribunal de lo Contencioso Administrativo;
+III. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
 
-VI. Rendir oportunamente al Presidente del Tribunal un informe bimestral de las actividades de la Sala; y
+IV. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
 
-VII. Conocer los demás asuntos que expresamente establezcan la Constitución Política Local, esta ley y las leyes del Estado.
+V. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
+
+VI. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
+
+VII. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
+
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 55 Bis.
+
+Los Magistrados de las Salas Regionales tendrán las atribuciones siguientes:
+
+I. Concurrir, participar y votar cuando corresponda en las Sesiones del Pleno del Tribunal;
+
+II. Participar en la elección del Presidente del Tribunal;
+
+III. Dictar las medidas que exijan el orden, buen servicio y la disciplina de la Sala y exigir que se guarden el respeto y consideración debidos;
+
+IV. Imponer los medios de apremio para hacer cumplir sus resoluciones;
+
+V. Atender los mandamientos del Pleno del Tribunal y de la Sala Superior;
+
+VI. Solicitar el auxilio de las otras Salas Regionales para la realización de diligencias fuera de su jurisdicción territorial;
+
+VII. Proponer, en su respectivo ámbito, reformas al reglamento del Tribunal de lo Contencioso Administrativo;
+
+VIII. Proponer al Consejo de la Judicatura, por conducto del Presidente del Tribunal de lo Contencioso Administrativo, el nombramiento y, en su caso, remoción del Secretario del Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal de las Salas;
+
+IX. Rendir oportunamente al Presidente del Tribunal de lo Contencioso Administrativo y a la Dirección de Estadística del Poder Judicial del Estado, un informe mensual de las actividades de la Sala; y
+
+X. Conocer de los demás asuntos que expresamente establezcan la Constitución Política Local, esta Ley y las Leyes del Estado.
 
 ###### Artículo 56.
 
@@ -1123,7 +1207,7 @@ También conocerán de los asuntos planteados por quienes tengan su domicilio de
 
 ### CAPÍTULO II. Del Tribunal de Conciliación y Arbitraje
 
-#### SECCIÓN SEGUNDA. Del Presidente del Tribunal
+#### SECCIÓN PRIMERA. De su Organización y Funcionamiento
 
 ###### Artículo 57.
 
@@ -1133,7 +1217,7 @@ El Tribunal de Conciliación y Arbitraje se compondrá por tres Magistrados.
 
 El Tribunal contará con un Secretario de Acuerdos y los de Estudio y Cuenta que permita el presupuesto, mismos que serán nombrados conforme a lo dispuesto por esta ley.
 
-#### SECCIÓN TERCERA. De la Competencia del Tribunal de Conciliación y Arbitraje
+#### SECCIÓN SEGUNDA. Del Presidente del Tribunal
 
 ###### Artículo 58.
 
@@ -1177,7 +1261,7 @@ XII. Conocer de los avisos que los Magistrados del Tribunal de Conciliación y A
 
 XIII. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
-#### SECCIÓN CUARTA. De la Procuraduría para la Defensa de los Trabajadores
+#### SECCIÓN TERCERA. De la Competencia del Tribunal de Conciliación y Arbitraje
 
 ###### Artículo 60.
 
@@ -1224,6 +1308,8 @@ XIV. Conocer de los demás asuntos que expresamente establezcan la Constitución
 ###### Artículo 61.
 
 Los Magistrados del Tribunal de Conciliación y Arbitraje no serán recusables, pero deberán excusarse de conocer en los juicios en que intervengan, cuando se encuentren comprendidos dentro de los supuestos que señala esta ley.
+
+#### SECCIÓN CUARTA. De la Procuraduría para la Defensa de los Trabajadores
 
 ###### Artículo 62.
 
@@ -2644,3 +2730,9 @@ Séptimo. El Poder Judicial del Estado y la Secretaría de Finanzas y Planeació
 Octavo. Los recursos humanos adscritos a la Sala Electoral del Tribunal Superior de Justicia serán asignados al Tribunal Electoral del Poder Judicial del Estado, con pleno respeto a sus derechos laborales. Asimismo, los recursos materiales con que cuenta dicha Sala se destinarán al Tribunal Electoral.
 
 Noveno. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 30 DE OCTUBRE DE 2009.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
