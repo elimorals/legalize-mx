@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-deuda-publica-del-estado-de-baja-california-2833"
 country: "mx"
 rank: "ley"
 publication_date: "1988-02-10"
-last_updated: "2005-04-13"
+last_updated: "2009-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 10 de febrero de 1988.
 
@@ -45,7 +45,9 @@ LEY DE DEUDA PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
 Es objeto de esta Ley, establecer las bases y requisitos para contraer, garantizar, registrar y controlarla (sic) Deuda Pública del Estado de Baja California.
 
-Para los efectos de esta Ley, no se considerarán Deuda Pública las operaciones de financiamiento que se satisfagan en un mismo ejercicio fiscal.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+
+Para los efectos de esta Ley, no se considerarán Deuda Pública las operaciones de financiamiento que se satisfagan en un mismo ejercicio fiscal. Tampoco constituirán deuda pública las obligaciones plurianuales derivadas de los contratos que se celebren al amparo de la Ley de Proyectos de Asociaciones Público-Privadas para el Estado de Baja California.
 
 De conformidad con el artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, quedan comprendidas dentro de las inversiones públicas productivas, el refinanciamiento y la reestructura de obligaciones derivadas de operaciones de financiamiento que constituyan deuda pública.
 
@@ -500,3 +502,7 @@ P.O. 13 DE ABRIL DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las obligaciones adquiridas, los contratos celebrados y las garantías otorgadas, así como los poderes, mandatos y en general, las representaciones y las facultades concedidas con anterioridad a la entrada en vigor de las presentes reformas, tendrán plena validez.
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
