@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2009-10-13"
+last_updated: "2009-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -133,125 +133,145 @@ Los municipios del Estado de Guerrero conservarán la extensión territorial que
 
 17. Coahuayutla de José María Izazaga;
 
-18. Cocula;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
 
-19. Copala;
+18. Cochoapa el Grande;
 
-20. Copalillo;
+19. Cocula;
 
-21. Copanatoyac;
+20. Copala;
 
-22. Coyuca de Benítez;
+21. Copalillo;
 
-23. Coyuca de Catalán;
+22. Copanatoyac;
 
-24. Cuajinicuilapa;
+23. Coyuca de Benítez;
 
-25. Cualác;
+24. Coyuca de Catalán;
 
-26. Cuautepec;
+25. Cuajinicuilapa;
 
-27. Cuetzala del Progreso;
+26. Cualác;
 
-28. Cutzamala de Pinzón;
+27. Cuautepec;
 
-29. Chilapa de Alvarez;
+28. Cuetzala del Progreso;
 
-30. Chilpancingo de los Bravo;
+29. Cutzamala de Pinzón;
 
-31. Eduardo Neri;
+30. Chilapa de Alvarez;
 
-32. Florencio Villarreal;
+31. Chilpancingo de los Bravo;
 
-33. General Canuto A. Neri;
+32. Eduardo Neri;
 
-34. General Heliodoro Castillo;
+33. Florencio Villarreal;
 
-35. Huamuxtitlán;
+34. General Canuto A. Neri;
 
-36. Huitzuco de los Figueroa;
+35. General Heliodoro Castillo;
 
-37. Iguala de la Independencia;
+36. Huamuxtitlán;
 
-38. Igualapa;
+37. Huitzuco de los Figueroa;
 
-39. Ixcateopan de Cuauhtémoc;
+38. Iguala de la Independencia;
 
-40. José Azueta;
+39. Igualapa;
 
-41. Juan R. Escudero;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
 
-42. Leonardo Bravo;
+40. Iliatenco;
 
-43. Malinaltepec;
+41. Ixcateopan de Cuauhtémoc;
 
-44. Mártir de Cuilapan;
+42. José Azueta;
 
-45. Metlatónoc;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
 
-46. Mochitlán;
+43. José Joaquín de Herrera;
 
-47. Olinalá;
+44. Juan R. Escudero;
 
-48. Ometepec;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
 
-49. Pedro Ascencio Alquisiras;
+45. Juchitán;
 
-50. Petatlán;
+46. Leonardo Bravo;
 
-51. Pilcaya;
+47. Malinaltepec;
 
-52. Pungarabato;
+48. Mártir de Cuilapan;
 
-53. Quechultenango;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
 
-54. San Luis Acatlán;
+49. Marquelia;
 
-55. San Marcos;
+50. Metlatónoc;
 
-56. San Miguel Totolapan;
+51. Mochitlán;
 
-57. Taxco de Alarcón;
+52. Olinalá;
 
-58. Tecoanapa;
+53. Ometepec;
 
-59. Tecpan de Galeana;
+54. Pedro Ascencio Alquisiras;
 
-60. Teloloapan;
+55. Petatlán;
 
-61. Tepecuacuilco de Trujano;
+56. Pilcaya;
 
-62. Tetipac;
+57. Pungarabato;
 
-63. Tixtla de Guerrero;
+58. Quechultenango;
 
-64. Tlacoapa;
+59. San Luis Acatlán;
 
-65. Tlacoachistlahuaca;
+60. San Marcos;
 
-66. Tlalchapa;
+61. San Miguel Totolapan;
 
-67. Tlalixtaquilla de Maldonado;
+62. Taxco de Alarcón;
 
-68. Tlapa de Comonfort;
+63. Tecoanapa;
 
-69. Tlapehuala;
+64. Tecpan de Galeana;
+
+65. Teloloapan;
+
+66. Tepecuacuilco de Trujano;
+
+67. Tetipac;
+
+68. Tixtla de Guerrero;
+
+69. Tlacoapa;
+
+70. Tlacoachistlahuaca;
+
+71. Tlalchapa;
+
+72. Tlalixtaquilla de Maldonado;
+
+73. Tlapa de Comonfort;
+
+74. Tlapehuala;
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
-70. La Unión de Isidoro Montes de Oca;
+75. La Unión de Isidoro Montes de Oca;
 
-71. Xalpatláhuac;
+76. Xalpatláhuac;
 
-72. Xochistlahuaca;
+77. Xochistlahuaca;
 
-73. Xochihuehuetlán;
+78. Xochihuehuetlán;
 
-74. Zapotitlán Tablas;
+79. Zapotitlán Tablas;
 
-75. Zirándaro, y
+80. Zirándaro;
 
-76. Zitlala.
+81. Zitlala.
 
 ###### ARTICULO 10.
 
@@ -3288,3 +3308,9 @@ P.O. 13 DE OCTUBRE DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. - Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes.
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado
+
+SEGUNDO.- Notifíquese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
