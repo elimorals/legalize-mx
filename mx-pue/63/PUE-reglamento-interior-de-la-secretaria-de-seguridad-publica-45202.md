@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-seguridad-publica-45202
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-25"
-last_updated: "2007-03-12"
+last_updated: "2009-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 25 de mayo de 2005.
 
@@ -1206,3 +1208,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública del Estado, publicado en el Periódico Oficial del Estado del 25 de mayo de 2005, así como sus reformas publicadas en el Periódico Oficial del Estado el 12 de marzo del año 2007.
+
+TERCERO.- Quedan sin efecto todas aquellas disposiciones que contravengan a lo dispuesto en el presente Decreto.
