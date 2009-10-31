@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2009-07-29"
+last_updated: "2009-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -475,7 +475,17 @@ LXV.- Autorizar al Presidente Municipal para que afecte los ingresos y/o el dere
 
 LXVI.- Autorizar la celebración de los convenios y contratos necesarios para el beneficio del Municipio, los cuales deberán estar suscritos por el Presidente Municipal y el Secretario del Ayuntamiento;
 
-LXVII.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+LXVII.- Crear un área encargada de fomentar y vigilar la equidad de género, en todos los ámbitos y niveles de decisión de la Administración Pública Municipal, garantizando el respeto mutuo, la superación igualitaria y la convivencia armónica entre la mujer y el hombre, a fin de que los programas municipales, se alineen al objetivo de desarrollo del Milenio, conforme al presupuesto de su ejercicio;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+LXVIII.- Emitir las disposiciones legales que regulen al organismo público encargado de realizar todas las actividades necesarias, directa o indirectamente al cumplimiento de la prestación del servicio público de agua potable y alcantarillado;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+LXIX.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
 
 ###### Artículo 37.
 
@@ -731,7 +741,11 @@ X.- De Recursos Materiales;
 
 XI.- De Contratación de Obras, Adquisiciones, Arrendamientos y Servicios;
 
-XII.- De Agricultura, Ganadería y Silvicultura.
+XII.- De Agricultura, Ganadería y Silvicultura;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+XlII.- De equidad de género.
 
 ###### Artículo 47.
 
@@ -830,6 +844,10 @@ VI.- Oficial Mayor;
 VII.- Cronista Municipal.
 
 Además, contará con el personal de base y de confianza necesario, de acuerdo con el presupuesto de egresos correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+Asimismo, el Presidente y el Ayuntamiento se deberán auxiliar para realizar todas las actividades necesarias, directa o indirectamente al cumplimiento de la prestación del servicio público de agua potable y alcantarillado, en un organismo público que será el encargado de cumplir con los servicios de regulación y prestación de agua potable y alcantarillado en el municipio, así como de organizar y reglamentar, en su caso, la prestación de dichos servicios.
 
 ### Capítulo II. De la Secretaría del Ayuntamiento
 
@@ -2058,3 +2076,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los diecinueve días del mes de marzo del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.-Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Los Ayuntamientos deberán contemplar dentro de su presupuesto de egresos del ejercicio 2010, recursos financieros y humanos necesarios para cumplir con el presente Decreto.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
