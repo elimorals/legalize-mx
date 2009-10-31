@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-electoral-para-el-estado-de-nayarit-41212"
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-02"
-last_updated: "2007-11-17"
+last_updated: "2009-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 2 de octubre de 2004.
 
@@ -135,15 +135,41 @@ Durante el desempeño de su cargo no podrán en ningún caso ocupar o desempeña
 
 El Tribunal Electoral del Estado funcionará en Pleno y tendrá su sede en la capital del Estado. Sus sesiones serán públicas y excepcionalmente de carácter reservado por acuerdo del Pleno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 11.
 
-Para que el Tribunal sesione en Pleno validamente, se requerirá la presencia de por lo menos tres Magistrados. Para que funcione en Salas se requerirá por lo menos la presencia de dos, entre los que deberá estar el Presidente.
+Para que el Tribunal sesione en Pleno validamente, se requerirá la presencia de por lo menos tres Magistrados, entre los que deberá estar el Presidente.
 
 Sus resoluciones se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 12.
 
-Son atribuciones del Pleno del Tribunal Electoral del Estado las siguientes:
+Son funciones y atribuciones jurisdiccionales del Pleno del Tribunal Electoral del Estado las siguientes:
+
+I. Conocer y resolver los recursos de apelación que se interpongan durante el tiempo que transcurra entre dos procesos electorales ordinarios por actos o resoluciones de los organismos electorales;
+
+II. Sustanciar y resolver los recursos que se presenten durante el proceso electoral, en la etapa de preparación de la elección, en contra de los actos o resoluciones de los organismos electorales;
+
+III. Conocer y resolver de los demás recursos de apelación que sean de su competencia en los términos de esta Ley y conocer y resolver los juicios de inconformidad que se interpongan de acuerdo con las disposiciones aplicables de esta Ley en contra de las resoluciones que declaren la validez de las elecciones, el otorgamiento de las constancias y la asignación de Diputados y Regidores bajo el principio de Representación Proporcional; y
+
+IV. Conocer y resolver del Juicio para la protección de los derechos político electorales del ciudadano, de votar, ser votado, afiliación y asociación, en los términos de las disposiciones aplicables contenidas en la presente Ley.
+
+V. (DEROGADA, P.O. 31 DE OCTUBRE DE 2009)
+
+VI. (DEROGADA, P.O. 31 DE OCTUBRE DE 2009)
+
+VII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2009)
+
+VIII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2009)
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 13.
+
+Son funciones y atribuciones administrativas del Pleno:
 
 I. Elaborar, aprobar, y en su caso modificar, el Reglamento Interior del Tribunal Electoral del Estado;
 
@@ -153,31 +179,19 @@ III. Celebrar convenios de colaboración con otros tribunales, instituciones y a
 
 IV. Calificar y resolver acerca de las excusas de los Magistrados;
 
-V. Designar al Magistrado Supernumerario que deba cubrir la ausencia temporal o definitiva de algún Magistrado Numerario;
+V. Nombrar o remover, a propuesta del Presidente del Tribunal, al Secretario
 
-VI. Designar o remover, a propuesta del Presidente del Tribunal, al Secretario General y Jueces Instructores;
+General y Jueces Instructores;
 
-VII. Determinar y en su caso aplicar las sanciones administrativas previstas en el capítulo correspondiente de esta Ley, y
+VI. Determinar y en su caso aplicar las sanciones administrativas previstas en el capítulo correspondiente de esta Ley; y
 
-VIII. Las demás que le otorgue el presente ordenamiento y otras disposiciones legales.
+VII. Las demás que le otorgue el presente ordenamiento y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
-
-###### Artículo 13.
-
-Son funciones y atribuciones del Pleno:
-
-I. Conocer y resolver los recursos de apelación que se interpongan durante el tiempo que transcurra entre dos procesos electorales ordinarios por actos o resoluciones de los organismos electorales;
-
-II. Sustanciar y resolver los recursos que se presenten durante el proceso electoral, en la etapa de preparación de la elección, en contra de los actos o resoluciones de los organismos electorales; y
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2007)</small>
-
-III. Conocer y resolver de los recursos de apelación que sean de su competencia en los términos de esta Ley y conocer y resolver los juicios de inconformidad que se interpongan de acuerdo con las disposiciones aplicables de esta Ley, en contra de resoluciones que declaren la validez de las elecciones, el otorgamiento de las constancias y asignaciones de representación proporcional que correspondan.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 14.
 
-El Tribunal Electoral del Estado, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales que pronuncie, en las Salas, se sujeten invariablemente al principio de legalidad.
+El Tribunal Electoral del Estado, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales que pronuncie, se sujeten invariablemente al principio de legalidad.
 
 ###### Artículo 15.
 
@@ -191,11 +205,17 @@ Son atribuciones del Presidente del Tribunal Electoral del Estado las siguientes
 
 I. Representar al Tribunal ante toda clase de autoridades;
 
-II. Convocar y presidir las sesiones del Pleno y de cada una de las Salas del Tribunal, dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de la Sala y la continuación de la sesión en privado;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
 
-III. Turnar por riguroso orden de presentación a los magistrados las Salas, los recursos que se interpongan en los términos de esta Ley;
+II. Convocar y presidir las sesiones del Pleno del Tribunal, dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de la Sala y la continuación de la sesión en privado;
 
-IV. Proponer al Pleno el nombramiento del Secretario General de Acuerdos y acordar con los Magistrados de cada una de las Salas, las propuestas de Jueces Instructores y al personal de apoyo jurídico y administrativo necesario para el buen funcionamiento del Tribunal, de acuerdo con la disponibilidad presupuestaria.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+III. Turnar por riguroso orden de presentación a los magistrados, los recursos que se interpongan en los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+IV. Proponer al Pleno el nombramiento del Secretario General de Acuerdos y acordar con los Magistrados, las propuestas de Jueces Instructores y al personal de apoyo jurídico y administrativo necesario para el buen funcionamiento del Tribunal, de acuerdo con la disponibilidad presupuestaria;
 
 V. Convocar a reuniones internas a los Magistrados del Tribunal, a los Jueces Instructores y a los demás miembros del personal jurídico y administrativo;
 
@@ -203,7 +223,9 @@ VI. Despachar la correspondencia del Tribunal;
 
 VII. Elaborar y enviar al titular del Poder Ejecutivo el Presupuesto Anual de Gastos del Tribunal para su incorporación a la iniciativa del Presupuesto de Egresos;
 
-VIII. Vigilar que se cumplan, según correspondan, las determinaciones del Pleno, de las Salas y de los Jueces Instructores;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+VIII. Vigilar que se cumplan, según correspondan, las determinaciones del Pleno y de los Jueces Instructores;
 
 IX. Someter a la aprobación del Pleno cuando proceda la suspensión, remoción o cese del Secretario General, Jueces Instructores y demás personal jurídico y administrativo;
 
@@ -217,7 +239,9 @@ XI. Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
 El Tribunal Electoral del Estado contará por lo menos con cinco Jueces Instructores durante el proceso electoral que auxiliarán a los Magistrados en la sustanciación de los recursos y en la elaboración de proyectos de resolución.
 
-El Pleno del Tribunal Electoral del Estado resolverá sobre la adscripción de los Jueces Instructores a las Salas correspondientes.
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 31 DE OCTUBRE DE 2009)</small>
+
+El Pleno del Tribunal Electoral del Estado resolverá sobre la adscripción de los Jueces Instructores.
 
 ###### Artículo 18.
 
@@ -245,17 +269,33 @@ Son atribuciones de los Jueces Instructores:
 
 Admitir los recursos de apelación e inconformidad, así como los escritos de los coadyuvantes y de los terceros interesados, cuando cumplan con los requisitos establecidos en esta Ley;
 
-I. Someter a los Magistrados los acuerdos de desechamiento de los recursos de apelación y de inconformidad que sean notoriamente improcedentes o evidentemente frívolos;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
 
-II. Someter a la consideración de los Magistrados, el acuerdo de tener por no interpuestos los recursos de apelación e inconformidad, y por no presentados los escritos de los coadyuvantes y de los terceros interesados cuando no reúnan los requisitos establecidos por esta Ley;
+I. Admitir los medios de impugnación, así como los escritos de los coadyuvantes y de los terceros interesados, cuando cumplan con los requisitos establecidos en esta Ley, sometiendo a la consideración del magistrado correspondiente, los acuerdos respectivos;
 
-III. Determinar y acordar, cuando proceda la acumulación de los recursos de apelación e inconformidad, así como determinar la procedencia de la conexidad de las causas de conformidad a lo previsto por esta Ley;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
 
-IV. Sustanciar los expedientes, formulando los requerimientos necesarios, cuando así lo juzgue conveniente, para agregar cualquier informe o documento que sea pertinente para ponerlos en estado de resolución;
+II. Someter para su resolución a los Magistrados los acuerdos de desechamiento de los medios de impugnación que sean notoriamente improcedentes o evidentemente frívolos;
 
-V. Solicitar el auxilio legal de los juzgados de primera instancia y menores de la Entidad, en el desahogo de alguna diligencia o efectuar por sí mismos las que deban practicarse fuera del Tribunal; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
 
-VI. Desempeñar las demás tareas que les encomiende el Pleno y las Salas del Tribunal, en el ámbito de su respectiva competencia, para la buena marcha y funcionamiento del Tribunal.
+III. Poner a la consideración de los Magistrados, el acuerdo de tener por no interpuestos los medios de impugnación, y por no presentados los escritos de los coadyuvantes y de los terceros interesados cuando no reúnan los requisitos establecidos por esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+IV. Determinar y acordar, cuando proceda la acumulación de los recursos de apelación e inconformidad, así como determinar la procedencia de la conexidad de las causas de conformidad a lo previsto por esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+V. Sustanciar los expedientes, formulando los requerimientos necesarios, cuando así lo juzgue conveniente, para agregar cualquier informe o documento que sea pertinente para ponerlos en estado de resolución;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+VI. Solicitar el auxilio legal de los juzgados de primera instancia y menores de la Entidad, en el desahogo de alguna diligencia o efectuar por sí mismos las que deban practicarse fuera del Tribunal; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+VII. Desempeñar las demás tareas que les encomiende el Pleno del Tribunal, en el ámbito de su respectiva competencia, para la buena marcha y funcionamiento del Tribunal.
 
 ### Capítulo VII. Del Secretario General de Acuerdos
 
@@ -271,21 +311,29 @@ III. Supervisar que se hagan en tiempo y forma las notificaciones a que se refie
 
 IV. Apoyar durante las sesiones a los Magistrados que deban presentar los proyectos para resolución del Pleno;
 
-V. Llevar el control del turno de los asuntos a las Salas o al Pleno;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
 
-VI. Supervisar el debido funcionamiento de los archivos jurisdiccionales de las Salas y, en su momento, su concentración y supervisión;
+V. Llevar el control del (sic) los asuntos turnados a los Magistrados;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+VI. Supervisar el debido funcionamiento de los archivos jurisdiccionales y, en su momento, su concentración y supervisión;
 
 VII. Dictar, previo acuerdo con el Presidente del Tribunal, los lineamientos generales para la identificación e integración de los expedientes;
 
 VIII. Apoyar a los Jueces Instructores en el desempeño de sus funciones;
 
-IX. Autorizar con su firma las actuaciones del Pleno y las de las Salas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+IX. Autorizar con su firma las actuaciones del Pleno;
 
 X. Expedir los certificados de constancias que se requieran y les soliciten;
 
 XI. Llevar el registro de los criterios legales que se adopten; y
 
-XII. Atender todo lo relativo a los recursos humanos, financieros y materiales necesarios para el funcionamiento del Tribunal y atender las encomiendas del Pleno, del Presidente del Tribunal y en su caso, de las Salas.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+XII. Atender todo lo relativo a los recursos humanos, financieros y materiales necesarios para el funcionamiento del Tribunal y atender las encomiendas del Pleno, y en su caso del Presidente del Tribunal.
 
 ###### Artículo 21.
 
@@ -321,9 +369,15 @@ El sistema de medios de impugnación en materia electoral en el Estado se integr
 
 I. El recurso de apelación;
 
-II. El recurso de revisión; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
 
-III. El juicio de inconformidad.
+II. El recurso de revisión;
+
+III. El juicio de inconformidad;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+IV. El Juicio para la protección de los Derechos Político - Electorales del Ciudadano Nayarita.
 
 ###### Artículo 26.
 
@@ -885,29 +939,7 @@ IV. En la elección de integrantes de Ayuntamientos por ambos principios, los re
 
 ###### Artículo 82.
 
-El escrito de protesta por los resultados contenidos en el acta de la jornada electoral relativos al escrutinio y cómputo de la casilla, es un medio para establecer la existencia de presuntas violaciones cometidas durante el día de la jornada electoral y requisito de procedibilidad del juicio de inconformidad, cuando se hagan valer las causales de nulidad previstas en el artículo 96 de esta ley, con excepción de la señalada en el inciso b) de dicho precepto.
-
-El todo caso, el escrito de protesta deberá contener:
-
-a) El partido político o coalición que lo presenta;
-
-b) La casilla ante el que se presenta;
-
-c) La elección que se protesta;
-
-d) La causa por la que se presenta la protesta;
-
-e) La relación de hechos y la fundamentación legal de la protesta; y
-
-f) El nombre, la firma y cargo partidario de quien lo presenta.
-
-El escrito de protesta deberá presentarse por triplicado ante la casilla al término del escrutinio y cómputo o ante el Consejo Electoral correspondiente, antes de que se inicien las sesiones previstas en la Ley Electoral.
-
-Cuando el escrito se presente ante el Consejo municipal o el Consejo Electoral, el partido político o coalición inconforme deberá identificar individualmente cada una de las casillas que se impugna, cumpliendo además con lo señalado en los incisos c), d), e) y f) anteriores.
-
-De la presentación de escrito de protesta, el secretario de la mesa directiva de casilla o del Consejo Electoral ante el que se presentaron, deberán acusar recibo o razonar de recibida una copia del escrito respectivo.
-
-No se requerirá la presentación del escrito de protesta cuando se impugne en los casos señalados en los incisos b) y c) del artículo 98 o se haga valer la causal de nulidad señalada por el artículo 96 inciso b), ambos de esta ley, o cuando se impugnen por error aritmético las actas de cómputo correspondientes.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2009)
 
 ###### Artículo 83.
 
@@ -1103,6 +1135,46 @@ Cuando algún candidato propietario integrante de la fórmula de Presidentes y S
 
 Declarada nula una elección, el Tribunal Electoral notificará este hecho al Congreso del Estado para los efectos previstos en el articulo 19 y 22 de la Ley Electoral.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+### Capítulo VI. Del Juicio para la Protección de los Derechos Político - Electorales del Ciudadano Nayarita
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 105.
+
+El juicio para la protección de los derechos político - electorales, solo procederá cuando el ciudadano por sí mismo y en forma individual, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos. En el supuesto previsto en la fracción II, del párrafo primero del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la asociación política agraviada.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 106.
+
+El juicio podrá ser promovido por el ciudadano cuando:
+
+I. Considere que se violó su derecho político - electoral de ser votado cuando, habiendo sido propuesto por un partido, le sea negado indebidamente su registro como candidato a un cargo de elección popular;
+
+II. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido, agrupación o asociación política;
+
+III. Habiendo cumplido con los requisitos y trámites exigidos, no hubiere obtenido su acreditación como observador electoral, para el proceso electoral correspondiente;
+
+IV. Por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgar la constancia de mayoría o de asignación;
+
+V. Considere que el partido violó su derecho político - electoral de participar en el proceso interno de selección de candidatos o de ser postulado como candidato a un cargo de elección popular, por trasgresión a las normas de los estatutos del mismo partido o del convenio de coalición; y
+
+VI. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político - electorales a que se refiere el artículo anterior.
+
+Los actos o resoluciones que violen el derecho político-electoral de votar de los ciudadanos tratándose de la exclusión de la lista nominal de electores o la expedición de la credencial para votar, solo se impugnará a través del medio de impugnación correspondiente previsto en la Ley general del sistema de medios de impugnación en materia electoral federal.
+
+El juicio solo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 107.
+
+Cuando por causa de inelegibilidad de los candidatos, las autoridades electorales competentes determinen no otorgar la constancia de mayoría o de asignación respectiva, el candidato agraviado podrá promover el juicio a que se refiere el presente capítulo, aun cuando el partido que lo postuló recurra o no a la instancia.
+
+La sentencia que recaiga a los juicios para la protección de los derechos políticos electorales del ciudadano deberá ser emitida a más tardar en quince días naturales contados a partir de su recepción.
+
 TRANSITORIO (SIC):
 
 PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
@@ -1125,4 +1197,6 @@ SEGUNDO.- Los artículos que no forman parte de la presente reforma y que se ref
 
 TERCERO.- Los artículos que no forman parte de la presente reforma y que se refieran a las Salas, deberán entenderse como referidos al Pleno del Tribunal Electoral del Estado.
 
-### Capítulo V. De las Nulidades
+P.O. 31 DE OCTUBRE DE 2009.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
