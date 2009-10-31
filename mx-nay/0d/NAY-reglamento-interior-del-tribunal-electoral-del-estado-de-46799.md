@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-tribunal-electoral-del-estado-de-46799"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-19"
-last_updated: "2009-10-24"
+last_updated: "2009-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2009 EN EL P.O. DEL ESTADO DE NAYARIT SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2009.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 31 DE OCTUBRE DE 2009.</small>
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el miércoles 19 de octubre de 2005.
 
@@ -313,11 +313,11 @@ XVIII.- Expedir, previa aprobación del Pleno, los manuales de organización y d
 
 XIX.- Las demás que se deriven del presente reglamento y otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+(REFORMADO, P.O. 24 DE OCTUBRE DE 2009) (F. DE E., P.O. 31 DE OCTUBRE DE 2009)
 
 ###### Artículo 20.
 
-Las ausencias temporales del Presidente del Tribunal que excedan de treinta días naturales serán cubiertas por el magistrado numerario más antiguo en el cargo o en su caso, por el de mayor edad. El Presidente provisional, fungirá exclusivamente por el tiempo necesario para cubrir dicha ausencia y cuando ésta sea superior a dicho término, se designará nuevo Presidente.
+Las ausencias temporales del Presidente del Tribunal que no excedan de treinta días naturales serán cubiertas por el magistrado numerario más antiguo en el cargo o en su caso, por el de mayor edad. El Presidente provisional, fungirá exclusivamente por el tiempo necesario para cubrir dicha ausencia y cuando ésta sea superior a dicho término, se designará nuevo Presidente
 
 ### CAPÍTULO VI. DEL SECRETARIO GENERAL
 
