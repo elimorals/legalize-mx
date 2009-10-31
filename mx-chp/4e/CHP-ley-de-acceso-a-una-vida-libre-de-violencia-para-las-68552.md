@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-acceso-a-una-vida-libre-de-violencia-para-las-68552"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2009-03-23"
+last_updated: "2009-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de marzo de 2009.
 
@@ -261,6 +261,10 @@ III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguri
 
 IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+Las medidas a que se refiere el presente artículo, podrán ser emitidas por el Ministerio Público, cuando se ponga en peligro la vida y/o la libertad de la víctima, previa valoración psicológica y/o médica del perito en la materia legalmente acreditado ante esa institución.
+
 ###### Artículo 17.
 
 Son órdenes de protección preventivas las siguientes:
@@ -278,6 +282,10 @@ IV. Acceso al domicilio en común, de autoridades policíacas o de personas que 
 V. Auxilio policíaco de reacción inmediata a favor de la víctima, con autorización expresa de ésta, cualquier miembro de su familia o persona autorizada, para el ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio, y
 
 VI. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+Estas medidas serán tramitadas ante los órganos jurisdiccionales competentes.
 
 ###### Artículo 18.
 
@@ -337,39 +345,45 @@ Los recursos humanos, financieros y materiales que conforman al sistema serán r
 
 El Consejo como órgano ejecutor del Sistema, con funciones de planeación y coordinación de los modelos de prevención, atención y erradicación de la violencia contra las mujeres, así como para fomentar y gestionar la protección y asistencia de las víctimas en el Estado, según los ordenamientos aplicables a la materia.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 27.
 
 El Consejo estará integrado por:
 
-I. Secretaría General de Gobierno, quien fungirá como Presidente del Consejo;
+I. Un Presidente, que será designado por el Ejecutivo de entre los integrantes del Consejo.
 
-II. Instituto Estatal de las Mujeres, quien fungirá como Secretario Ejecutivo;
+II. El Titular del Instituto Estatal de las Mujeres, quien fungirá como Secretario Ejecutivo.
 
-III. Procuraduría General de Justicia del Estado, quien fungirá como Secretario Técnico;
+III. El Titular de la Procuraduría General de Justicia del Estado, quien fungirá como Secretario Técnico.
 
-IV. Secretaría de Seguridad y Protección Ciudadana;
+IV. El Titular de la Secretaría General de Gobierno.
 
-V. Secretaría de Educación;
+V. El Titular de la Secretaría de Seguridad y Protección Ciudadana.
 
-VI. Secretaría de Salud;
+VI. El Titular de la Secretaría de Educación.
 
-VII. Secretaría de Desarrollo Social;
+VII. El Titular de la Secretaría de Salud.
 
-VIII. Secretaría de Pueblos Indios;
+VIII. El Titular de la Secretaría de Desarrollo Social.
 
-IX. Sistema para el Desarrollo Integral de la Familia en el Estado;
+IX. El Titular de la Secretaría de Pueblos Indios.
 
-X. Sistema Chiapaneco de Radio, Televisión y Cinematografía;
+X. El Titular del Sistema para el Desarrollo Integral de la Familia en el Estado.
 
-XI. Comisión de los Derechos Humanos;
+XI. El Titular del Sistema Chiapaneco de Radio, Televisión y Cinematografía.
 
-XII. Un representante del Poder Judicial;
+XII. El Titular de la Coordinación General de Gabinetes del Poder Ejecutivo del Estado.
 
-XIII. Un representante del Poder Legislativo;
+XIII. El Titular de la Comisión de los Derechos Humanos.
 
-XIV. Los titulares de las dependencias o entidades encargadas de aplicar programas a favor de las mujeres en los municipios del Estado.
+XIV. Un representante del Poder Judicial.
 
-XV. Representantes de las organizaciones de la sociedad civil en el Estado que trabajen con y para las mujeres.
+XV. Un representante del Poder Legislativo.
+
+XVI. Los titulares de las Dependencias o Entidades encargadas de aplicar programas a favor de las mujeres en los municipios del Estado.
+
+XVII. Representantes de las organizaciones· de la sociedad civil en el Estado que trabajen para las mujeres, siempre y cuando éstas se hayan constituido con al menos cinco años de antigüedad, y realicen acciones altruistas encaminadas a la protección de los derechos de las mujeres.
 
 ###### Artículo 28.
 
@@ -499,7 +513,13 @@ IX. Proponer a las instituciones competentes, las medidas necesarias para hacer 
 
 X. Suplir al Presidente del Consejo en sus ausencias cuando expresamente le sea solicitado;
 
-XI. Las demás que le confieren el Consejo, su Presidente, la presente Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+XI. Administrar los recursos humanos, materiales y financieros del Consejo;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+XII. Las demás que le confieran el Consejo, su Presidente y otras disposiciones legales aplicables.
 
 ###### Artículo 36.
 
@@ -517,7 +537,7 @@ V. Presentar ante el Consejo propuestas y colaborar en la elaboración del proye
 
 VI. Llevar el archivo y control de los diversos programas que el Consejo implemente para el cumplimiento del objeto de la presente Ley;
 
-VII. Administrar los recursos humanos, materiales y financieros del Consejo;
+VII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2009)
 
 VIII. Informar periódicamente al Secretario Ejecutivo del Consejo, el cumplimiento de sus funciones y actividades realizadas;
 
@@ -699,7 +719,7 @@ II. Promover y difundir los derechos de las mujeres indígenas con base en el re
 
 III. Vigilar que los usos y costumbres no atenten contra los derechos humanos de las mujeres indígenas;
 
-IV. Proporcionar información para el Banco de Datos sobre casos de violencia contra mujeres indígenas;
+IV. (DEROGADA, P.O. 31 DE OCTUBRE DE 2009)
 
 V. Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -795,7 +815,13 @@ XI. Impulsar la formación de promotoras y promotores comunitarios para la aplic
 
 XII. Auxiliar al Ministerio Público en la protección de los derechos de las mujeres;
 
-XIII. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+XIII. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+
+(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)}
+
+XIV. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 49.
 
@@ -813,6 +839,10 @@ III. Atender en forma oportuna y expedita las quejas y recomendaciones relaciona
 
 IV. Las demás previstas para el cumplimiento de la presente Ley.
 
+### Capítulo X. De la Violencia Feminicida y de la Alerta de Violencia de Género contra las Mujeres
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
 ###### Artículo 51.
 
 Los modelos son el conjunto de medidas y acciones para proteger a las víctimas de violencia con el objeto de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales.
@@ -828,6 +858,10 @@ II. Atención;
 III. Sanción; y,
 
 IV. Erradicación.
+
+### Capítulo XI. De la Reparación del Daño a las Mujeres Víctimas de Violencia
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 53.
 
@@ -883,6 +917,52 @@ VII. Bolsa de trabajo, con la finalidad de que puedan acceder a una actividad re
 
 En todo momento las mujeres víctimas de violencia podrán decidir sobre su permanencia en los refugios.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 59.
+
+Para los efectos de esta Ley, se considera violencia feminicida, a la forma extrema de Violencia de Género contra las Mujeres, producto de la violación de sus derechos humanos, en cualquier ámbito, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en el homicidio de mujeres.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 60.
+
+La alerta de violencia de género, es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 61.
+
+La declaratoria de Alerta de Violencia de Género contra las Mujeres se atenderá de conformidad a lo dispuesto en el Artículo 23, de la Ley General.
+
+Así también, se emitirá dicha declaratoria de conformidad con lo dispuesto en el artículo 24 de la Ley General.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 62.
+
+Corresponderá al Gobierno Federal a través de la Secretaría de Gobernación, declarar la alerta de violencia de género, de conformidad con lo establecido en el artículo 25, de la Ley General.
+
+El Poder Ejecutivo del Estado recibirá, a través de la Secretaría de Gobernación, la notificación de la declaratoria de alerta de Violencia de Género contra las Mujeres que dicte el Gobierno Federal en términos de los artículos 24 y 25, de la Ley General.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 63.
+
+Las mujeres víctimas de violencia, tendrán derecho a obtener la reparación del daño de conformidad con lo establecido en los artículos 20, apartado C, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos y 26, de la Ley General.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 64.
+
+Para procurar la reparación del daño a las mujeres víctimas de violencia, el Ministerio Público deberá:
+
+I. Informar a la ofendida o víctima del delito así como a sus derechohabientes, sobre el derecho que tiene a que se le repare el daño material y moral derivado de la comisión de ilícito, así como el procedimiento y alcance de la reparación del daño;
+
+II. Solicitar al Juez el embargo precautorio de los bienes del probable responsable, cuando se tenga el temor fundado de que el obligado a la reparación del daño oculte o enajene los bienes para hacer, efectiva dicha reparación;
+
+III. Informar a la víctima sobre el derecho que tiene de acudir a la Comisión Estatal de los Derechos Humanos, cuando de los hechos que constituyen delito también se desprende la violación a sus derechos humanos.
+
 T r a n s i t o r i o s
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -902,3 +982,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciocho días del mes de marzo del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan a este Decreto.
+
+Artículo Tercero.- El Sistema para el Desarrollo Integral de la Familia en el Estado, deberá integrar de inmediato el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
