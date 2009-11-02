@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-09-21"
+last_updated: "2009-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -353,15 +353,17 @@ V. Usurpar el estado civil de otro, con el fin de adquirir derechos de familia q
 
 Al responsable de Alteración de Estado Civil se le aplicarán de 1 a 5 años de prisión y de 30 a 80 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 33.
 
 El Incumplimiento de las Obligaciones de Asistencia Familiar consiste en:
 
-I. No proporcionar los recursos indispensables de subsistencia a las personas con las que se tenga ese deber legal;
+I. No cumplir con la obligación de dar alimentos en términos de lo establecido en el Código Civil del Estado de Aguascalientes, independientemente de que sean brindados por quien tenga bajo su cuidado a los acreedores alimentarios o sean proporcionados por cualquier otra persona;
 
-II. Colocarse dolosamente en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley de la materia determina; o
+II. Colocarse dolosamente en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que el Código Civil del Estado de Aguascalientes determina, independientemente de que los alimentos sean proporcionados por quien tenga bajo su cuidado a los acreedores alimentarios o sean proporcionados por cualquier otra persona; o
 
-III. La variación de nombre y/o domicilio con el fin de eludir una responsabilidad de orden familiar o el cumplimiento de las obligaciones alimentarias que la ley de la materia determina.
+III. La variación de nombre y/o domicilio con el fin de eludir una responsabilidad de orden familiar o el incumplimiento de obligaciones alimentarias que el Código Civil del Estado de Aguascalientes determina, independientemente de que los alimentos sean proporcionados por quien tenga a (sic) bajo su cuidado a los acreedores alimentarios o sean proporcionados por cualquier otra persona;
 
 Al responsable de Incumplimiento de las Obligaciones de Asistencia Familiar se le aplicarán de 6 meses a 3 años de prisión, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión o privación de los derechos de familia, en relación con la víctima.
 
@@ -375,9 +377,11 @@ Si la entrega del menor se hace sin la finalidad de obtener un beneficio económ
 
 Si quien recibe al menor acredita que lo hizo para incorporarlo a un núcleo familiar para otorgarle los beneficios propios de tal incorporación, la punibilidad será de 6 meses a 2 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 35.
 
-La Sustracción de Menores e Incapaces consiste en sustraer o retener a un menor de doce años o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia, guarda o retención, por quien no tenga relación familiar o de parentesco con tal menor.
+La Sustracción de Menores e Incapaces consiste en sustraer o retener a un menor de doce años o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia, guarda o retención.
 
 Al responsable de Sustracción de Menores e Incapaces se le aplicarán de 4 a 10 años de prisión y de 10 a 60 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable es familiar del menor o incapaz y no ejerce sobre él la custodia, la tutela o la guarda, se le aplicarán de 2 a 4 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
@@ -5676,3 +5680,19 @@ El Presupuesto de Egresos para el Ejercicio Fiscal del año dos mil diez, deber�
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo, deberá emitir las Reglas de Operación para la Administración del Fondo para la Indemnización de Sentenciados Absueltos, en un plazo no mayor a noventa días naturales, contados a partir de la publicación del presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 296, POR EL QUE SE REFORMA EL ARTICULO 33 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 297, POR EL QUE SE REFORMA EL ARTICULO 35 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
