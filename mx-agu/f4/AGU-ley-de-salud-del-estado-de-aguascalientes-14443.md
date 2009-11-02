@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2009-08-31"
+last_updated: "2009-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -752,6 +752,14 @@ III.- De rehabilitación, que incluyen acciones tendientes a corregir las discap
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
 
 IV.- Paliativas, que incluyen el cuidado integral para conservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 44 Bis.
+
+Quedan prohibidos los acuerdos, convenios o contratos celebrados entre prestadores de servicios médicos y/o personas físicas o morales que presten servicios de salud cuando se pacte un beneficio económico a cambio de canalizar, referir o reenviar a pacientes o a los familiares de éstos a cualquier servicio médico, al consumo de medicamentos, análisis clínicos, estudios de gabinete, servicios funerarios y demás relacionados con la prestación de servicios de salud.
+
+La presente prohibición deberá permanecer visible al público en general dentro de los establecimientos que presten servicios médicos.
 
 ### CAPITULO IV. Usuarios de los Servicios de Salud y Participación de la Comunidad
 
@@ -2841,11 +2849,11 @@ IV.- La calidad de reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 278.
 
-Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículo (sic) 49, 61, 62, 85, 87, 92, 104, 106, 127, 129, 137, 167, 168, 174, 176, 186, 192, 194, 210, 218, 221, 224, 233, 247, 248 y 250 de esta Ley.
+Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículos 44 Bis, 49, 61, 62, 85, 87, 92, 104, 106, 127, 129, 137, 167, 168, 174, 176, 186, 192, 194, 210, 218, 221, 224, 233; 247, 248 y 250 de esta ley.
 
 ###### ARTICULO 279.
 
@@ -3124,3 +3132,9 @@ A más tardar a los siguientes treinta días naturales de la entrada en vigencia
 ###### ARTÍCULO CUARTO.
 
 El Instituto de Educación del Estado de Aguascalientes, en un plazo no mayor a quince días posteriores a la entrada en vigencia del presente Decreto, deberá emitir los lineamientos necesarios para la prevención de los riesgos asociados con la exposición excesiva a los rayos ultravioleta de conformidad con lo que se estipula en el presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
