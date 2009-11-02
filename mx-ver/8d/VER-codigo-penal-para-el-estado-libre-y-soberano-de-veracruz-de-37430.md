@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2009-06-24"
+last_updated: "2009-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE NOVIEMBRE DE 2009.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1139,11 +1139,15 @@ I. Declarar al reo sujeto a la vigilancia de la autoridad; o
 
 II. Prohibirle ir a una circunscripción territorial determinada o residir en ella.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 147.
 
-A quien en estado de ebriedad, bajo el influjo de alguna droga o en forma temeraria conduzca un vehículo de transporte de pasajeros y cause lesiones de las previstas en las fracciones IV, V y VI del artículo 137, se le impondrán de tres a quince años de prisión y multa hasta de quinientas veces el salario, además de la suspensión de tres a siete años del derecho para conducir vehículos de motor.
+A quien en estado de ebriedad, bajo el influjo de alguna droga o en forma temeraria conduzca un vehículo de transporte de pasajeros, turismo o carga, en cualquiera de sus modalidades, incluidos los de materiales, residuos, remanentes y desechos peligrosos, o de arrastre, independientemente del origen de la concesión o permiso para prestar el servicio, y cause lesiones de las previstas en las fracciones IV, V y VI del artículo 137, se le impondrán de seis a quince años de prisión y multa hasta de ochocientas veces el salario, además de la suspensión de cinco a diez años del derecho para conducir vehículos de motor.
 
-Si el conductor causare uno o más homicidios se le impondrán de cinco a veinte años de prisión y multa hasta de ochocientas veces el salario, además de la suspensión de cinco a diez años del derecho para conducir vehículos de motor.
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
+
+Si el conductor causare uno o más homicidios se le impondrán de siete a veinte años de prisión y multa hasta de mil veces el salario, además de la suspensión de siete a doce años del derecho para conducir vehículos de motor o privación definitiva del derecho de manejar, en caso de reincidencia.
 
 A los conductores de vehículos particulares que, conduciendo en las condiciones a que se refieren los párrafos anteriores, causen lesiones u homicidio, se les aplicará la pena prevista para los delitos culposos, aumentada hasta en una mitad.
 
@@ -2109,6 +2113,8 @@ Si el agente activo devuelve espontáneamente al menor o al incapaz dentro de lo
 
 ### CAPÍTULO III. CONTRA LA SEGURIDAD DEL TRÁNSITO DE VEHÍCULOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 243.
 
 Se impondrán prisión de cinco a quince años y multa hasta de cuatrocientos días de salario a quien, con ánimo de lucro y para integrarlo al seno de otra familia:
@@ -2427,15 +2433,15 @@ Toda correspondencia que bajo cubierta circule por las estafetas estará protegi
 
 ###### Artículo 276.
 
-Se impondrán de seis meses a tres años de prisión y multa de cien a trescientos días de salario y suspensión de derechos para conducir vehículos hasta por dos años a quien:
+Se impondrán de uno a tres años de prisión y multa de cien a quinientos días de salario, así como suspensión de derechos para conducir vehículos hasta por tres años a quien:
 
 I. Conduzca un vehículo con temeridad y ponga en peligro la vida, la salud personal o los bienes de alguien; o
 
 II. En estado de ebriedad o bajo el influjo de medicamentos, estupefacientes, psicotrópicos u otras substancias tóxicas, maneje vehículos de motor.
 
-> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
 
-Si este delito lo cometen conductores de vehículos de transporte público en cualquiera de las modalidades previstas en la Ley de Tránsito y Transporte del Estado, las sanciones serán de tres a nueve años de prisión, multa hasta de cuatrocientos días de salario y suspensión del derecho de conducir vehículos de motor hasta por otros cinco años o privación definitiva del derecho de manejar en caso de reincidencia.
+Si este delito se comete por conductores de vehículos de transporte de pasajeros, turismo o carga, en cualquiera de sus modalidades, incluidos los de materiales, residuos, remanentes y desechos peligrosos, o de arrastre, independientemente del origen de la concesión o permiso para prestar el servicio, las sanciones serán de tres a nueve años de prisión, multa hasta de ochocientos días de salario y suspensión del derecho de conducir vehículos de motor hasta por otros siete años o privación definitiva del derecho de manejar, en caso de reincidencia.
 
 ###### Artículo 277.
 
@@ -3330,3 +3336,9 @@ G.O. 24 DE JUNIO DE 2009.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE NOVIEMBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
