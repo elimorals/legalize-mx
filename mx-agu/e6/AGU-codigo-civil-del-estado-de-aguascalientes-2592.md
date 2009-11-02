@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2009-09-14"
+last_updated: "2009-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2009.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2267,15 +2267,19 @@ DEL CONCUBINATO.
 
 (NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 313 Bis.
 
-El concubinato es la unión ENTRE UN HOMBRE Y UNA MUJER libres de matrimonio y sin los impedimentos que la ley señala para celebrarlo, que de manera pública y permanente, hacen vida en común, como si estuvieren casados, si la unión perdura durante más de cinco años.
+El concubinato es la unión ENTRE UN HOMBRE Y UNA MUJER libres de matrimonio, siempre que sin impedimentos legales para contraerlo, hagan vida en común como si estuvieren casados de manera pública y permanente por un período mínimo de dos años.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 No es necesario el transcurso del período mencionado cuando, reunidos los demás requisitos tengan un hijo en común.
 
-Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se considerará como concubinato.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
+Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se considerará como concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -7913,7 +7917,7 @@ Lo dispuesto en el artículo que precede se observará también en el legado de 
 
 ###### Artículo 1355.
 
-Si la cosa legada está dada en prenda o hipotecada, o lo fuere después de otorgado el testamento, el desempeño o la redención serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
+Si la cosa legada está dada en prenda o hipotecada, o lo fuere después de otorgado el testamento, el desempeño o la rendención serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
 
 Si por no pagar el obligado, conforme al párrafo anterior, lo hiciere el legatario, quedará éste subrogado en el lugar y derechos del acreedor para reclamar contra aquél.
 
@@ -16354,3 +16358,9 @@ P.O. 14 DE SEPTIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
