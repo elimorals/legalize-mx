@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-del-periodico-oficial-del-estado-de-61266"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-26"
-last_updated: "2008-05-26"
+last_updated: "2009-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY DEL PERIODICO OFICIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de mayo de 2008.
 
@@ -57,7 +57,9 @@ El presente Reglamento es de orden público y de interés general y tiene por ob
 
 La aplicación y cumplimiento de este reglamento corresponde al Poder Ejecutivo del Estado quien lo hará por medio de la Secretaría General de Gobierno y su organización administrativa.
 
-### CAPÍTULO II. Publicación del Periódico Oficial
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
+### CAPÍTULO II. De la Publicación y distribución del Periódico Oficial
 
 ###### Artículo 3°.
 
@@ -69,9 +71,27 @@ II.- Acompañar el documento que contenga la disposición motivo de publicación
 
 III.- Anexar la información digital del documento por publicar soportada en disco compacto (CD-ROM o DVD-ROM), con formato en los programas Microsoft Word 97, Microsoft Excel 97 o Page Maker 6.5.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
+Las solicitudes de avisos y edictos seguirán el trámite establecido en el artículo 6º del presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
+En la entrega de la documentación, ésta se revisará por el personal de la Secretaria General de Gobierno, a efecto de verificar que se cumplan los requisitos señalados anteriormente. Se entregará al solicitante un recibo en el cual se establecerá si se ha cumplido con los requisitos, y en su caso, cuáles han sido las omisiones a efecto de que en el plazo de tres días hábiles las subsane.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
+Hasta en tanto no sean subsanadas las omisiones no se le dará trámite a la solicitud de publicación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
+Trascurrido el plazo de tres días sin que se hayan subsanado las omisiones, se devolverá mediante oficio dirigido al solicitante, tanto la solicitud como los documentos exhibidos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 4°.
 
-La recepción de los documentos será a más tardar el día jueves anterior al lunes en que se solicita sea publicado.
+La recepción de la solicitud de publicación será a más tardar a las 13:00 horas del jueves anterior al lunes en que se solicita sea publicado.
 
 Las leyes y decretos emitidos por el Poder Legislativo, para su publicación estarán sujetos a los plazos y términos que establece la Constitución Política del Estado de Aguascalientes.
 
@@ -79,13 +99,31 @@ Las leyes y decretos emitidos por el Poder Legislativo, para su publicación est
 
 Tratándose de Planes, Programas de Desarrollo, Actas, o documentos análogos que contengan fotografías, mapas o gráficas, el plazo de publicación se determinará de acuerdo al volumen y dificultad de las mismas, no siendo materia de publicación los logotipos y las fotografías.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 6°.
 
-En publicación de avisos y edictos, cuya recepción se hace previo pago en las cajas de la Secretaría de Finanzas, se presentará en documento original así como la información digital del documento por publicar soportada en disco compacto (CD-ROM o DVD-ROM), con formato en los programas Microsoft Word 97, Microsoft Excel 97 o Page Maker 6.5.
+Tratándose de la publicación de avisos y edictos, se seguirá el siguiente procedimiento:
+
+I. El trámite se realizará previo pago en las cajas receptoras autorizadas para ello por la Secretaría de Finanzas del Estado;
+
+II. Se deben cumplir los requisitos establecidos en las fracciones II y III del artículo 3° del presente Reglamento; (sic)
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 7°.
 
+Las publicaciones del periódico podrán ser:
+
+I. Ordinarias: Aquellas que se realizan de manera periódica cada lunes durante todo el año, destinadas a circular conforme lo contempla el artículo 11 del presente Reglamento;
+
+II. Vespertinas: Aquellas que se realicen dentro del mismo día que las ordinarias con posterioridad a la hora fijada corno límite para la puesta a disposición del público que establece el artículo 11 de este Reglamento;
+
+III. Extraordinarias: Aquellas se realicen atendiendo a la urgencia de la misma o al vencimiento de algún plazo o término que no permita su publicación ordinaria o vespertina.
+
 Las publicaciones extraordinarias se ordenarán previa solicitud fundando y motivando debidamente la necesidad de tal medida; siempre que sea justificado a juicio del Secretario General de Gobierno, quien ponderando la urgencia del asunto resolverá sobre la publicación, o tratándose de leyes, decreto o disposición cuya publicación esté sujeta a un término, por indicar con fecha cierta el inicio de su vigencia.
+
+La publicación extraordinaria se realizará a la brevedad posible, tomando en consideración las dificultades técnicas que puedan generarse con la elaboración del periódico.
 
 ###### Artículo 8°
 
@@ -98,6 +136,14 @@ Las dependencias de los tres Poderes del Estado, los Ayuntamientos del Estado, l
 ###### Artículo 10.
 
 La publicación electrónica en el Portal del Gobierno del Estado del Periódico Oficial será únicamente para efectos de consulta, por lo que no afecta la entrada en vigor ni el contenido oficial de los documentos publicados en formato impreso y por ende no confiere derechos ni genera obligaciones.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
+
+###### Artículo 11.
+
+La distribución de los ejemplares del periódico que se realizará a través de la Dirección General del Archivo Administrativo del Poder Ejecutivo, se tendrá como horario límite para la puesta a disposición del público las 12:00 del lunes de publicación del periódico.
+
+Tratándose de publicaciones extraordinarias o vespertinas, se harán las gestiones necesarias para que la distribución del periódico se realice a la brevedad posible, tomando en consideración las dificultades técnicas que puedan generarse con su elaboración y posterior distribución.
 
 ARTÍCULOS TRANSITORIOS (SIC)
 
@@ -116,3 +162,9 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 Lic. Juan Ángel José Pérez Talamantes
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- La presenta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
