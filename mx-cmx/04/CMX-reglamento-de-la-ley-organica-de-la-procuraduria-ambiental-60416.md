@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-organica-de-la-procuraduria-ambiental-6041
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-10"
-last_updated: "2008-04-10"
+last_updated: "2009-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60416&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-04-07"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 3 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 10 de abril de 2008.
 
@@ -1191,3 +1193,19 @@ CUARTO.- La modificación a los manuales de organización y de procedimientos de
 QUINTO. El (la) Procurador (a), con la opinión previa del Comité prevista en el artículo 50 de este ordenamiento, deberá someter a aprobación del Consejo el Sistema del Servicio Público de Carrera de la Procuraduría, en un plazo no mayor a 360 días contados a partir de la entrada en vigor del presente Reglamento.
 
 Dado en la Residencia Oficial del Jefe del Gobierno del Distrito Federal, en la Ciudad de México, a los siete días del mes de abril de dos mil ocho. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.-FIRMA.- SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, JESÚS ARTURO AISPURO CORONEL.- FIRMA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 3 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley Orgánica de la Procuraduría Ambiental del Ordenamiento Territorial del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el día 10 de abril de 2008 y se derogan todas aquellas disposiciones de carácter administrativo que se opongan al presente ordenamiento reglamentario.
+
+TERCERO.- La modificación a los manuales de organización y de procedimientos de la Procuraduría, deberán expedirse en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Reglamento.
+
+CUARTO.- Las políticas, lineamientos y demás normatividad administrativa a que hace referencia este Reglamento, deberán expedirse en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor del mismo.
+
+QUINTO.- Todas las actuaciones, procedimientos y recursos administrativos relacionados con la materia de este Reglamento que se hubiesen iniciado bajo la vigencia de otros ordenamientos se tramitarán y resolverán conforme a los mismos.
+
+SEXTO.- En tanto sea aprobada y dictaminada la nueva estructura operativa de la Procuraduría, las funciones que se encuentren previstas en este Reglamento para la Subprocuraduría de Asuntos Jurídicos, serán ejercidas por el (la) Procurador (a) auxiliado (a) por los servidores públicos que al efecto designe.
