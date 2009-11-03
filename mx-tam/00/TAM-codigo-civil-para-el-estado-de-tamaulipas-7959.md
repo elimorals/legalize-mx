@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2009-09-10"
+last_updated: "2009-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1051,9 +1051,15 @@ II.- El modo de satisfacer las necesidades de los hijos, tanto durante el proced
 
 III.- La casa que servirá de habitación a cada uno de los esposos durante el procedimiento;
 
-IV.- La cantidad que por concepto de alimentos un cónyuge deba pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que deba darse para asegurarlo;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2009)</small>
+
+IV.- La cantidad que por concepto de alimentos un cónyuge deba pagar al otro durante el procedimiento y después de ejecutoriado, la forma de hacer el pago y la garantía que deba darse para asegurarlo;
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. Para ese efecto se acompañará un inventario y avalúo de todos los bienes y deudas de la sociedad.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2009)</small>
+
+En caso de que la cantidad aprobada por el Juez sea líquida, se incrementará anualmente conforme al aumento del salario mínimo.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2001)</small>
 
@@ -9978,3 +9984,9 @@ P.O. 10 DE SEPTIEMBRE DE 2009.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día suguiente al de su publicación en el Periódico Oficial del Estado.
