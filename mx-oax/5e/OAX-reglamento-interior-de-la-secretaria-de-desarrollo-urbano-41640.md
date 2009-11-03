@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-41640
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-06"
-last_updated: "2004-10-06"
+last_updated: "2009-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE OBRAS PUBLICAS DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 3 DE NOVIEMBRE DEL 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 6 de octubre de 2004.
 
@@ -476,3 +478,11 @@ SECRETARIO DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS
 ING. DAVID MIGUEL MAYREN CARRASCO.
 
 NOTA: LAS PRESENTES FIRMAS CORRESPONDEN AL REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE NOVIEMBRE DEL 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Secretaría de Desarrollo Urbano Comunicaciones y Obras Públicas del Poder Ejecutivo del Estado de Oaxaca, publicado el 06 de octubre del año 2004, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
