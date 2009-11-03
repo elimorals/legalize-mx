@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-universidad-tecnologica-de-52381"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-13"
-last_updated: "2009-02-12"
+last_updated: "2009-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE HERMOSlLLO, SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 13 de noviembre de 2006.
 
@@ -33,19 +33,19 @@ REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE HERMOSlLLO, SONORA
 
 ### CAPÍTULO I. Del Objeto y Estructura del Organismo
 
-###### Articulo 1°.
+> <small>(REFORMADO, B.O. 3 DE NOVIEMBRE DE 2009)</small>
 
-La Universidad Tecnológica de Hermosillo, Sonora, es un Organismo Público Descentralizado del Gobierno del Estado de Sonora, dotado de personalidad jurídica y patrimonio propios, que tendrá por objeto impartir educación de tipo superior tecnológica, para formar profesionistas, a los que se les denominará Técnico Superior Universitario, con aptitudes y conocimientos científicos y tecnológicos para aplicarlos en la solución creativa de los problemas que afectan a los sectores público, privado y social del Estado y del país. La Universidad Tecnológica de Hermosillo, Sonora, se adhiere al Subsistema de Universidades Tecnológicas, dependiente de la Coordinación General de Universidades Tecnológicas, adscrita a la Secretaría de Educación Pública, por lo cual adopta el modelo educativo implementado en el mismo, cuyo objeto es:
+###### Artículo 1°.
 
-I. Impartir educación tecnológica y realizar investigaciones que contribuyan al mejoramiento y eficiencia de la producción industrial y de servicios del Estado;
+La Universidad Tecnológica de Hermosillo, Sonora, es un Organismo Público Descentralizado del Gobierno del Estado de Sonora, dotado de personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Educación y Cultura, y que tiene por objeto:
 
-II. Formar Técnicos Superiores Universitarios con egresados del bachillerato, aptos para la aplicación de conocimientos y la solución creativa de problemas con un sentido de innovación en la incorporación de avances científicos y tecnológicos;
+I. Impartir educación del tipo superior tecnológica, para formar profesionistas con aptitudes y conocimientos científicos y tecnológicos para aplicarlos en la solución creativa de los problemas que afectan a los sectores público, privado y social del Estado y el país;
 
-III. Desarrollar estudios y proyectos que se traduzcan en aportaciones concretas que contribuyan al mejoramiento y mayor eficiencia en la producción de bienes y/o servicios, y la elevación de la calidad de vida de la comunidad;
+II. Ofrecer programas de continuidad de estudios para los egresados del nivel Técnico Superior Universitario, que les permita alcanzar los niveles académicos de licenciatura, con base en los requisitos y el modelo académico aprobado;
 
-IV. Generar y desarrollar programas de apoyo técnico en beneficio de la comunidad, y
+III. Realizar investigación científica y tecnológica que contribuya a ampliar el conocimiento y que se traduzca en aportaciones concretas para el mejoramiento y mayor eficacia en la producción de bienes y servicios, y la elevación de la calidad de vida de la comunidad; y
 
-V. Realizar funciones de vinculación con los sectores público, privado y social de la comunidad.
+IV. Promover el desarrollo de perfiles académicos que correspondan a las necesidades de la región, con un sentido de innovación e incorporación a los avances científico y tecnológico nacional e internacional.
 
 ###### Artículo 2°.
 
@@ -88,8 +88,6 @@ III. Unidades Administrativas:
 - Dirección de Planeación y Evaluación; y
 
 - Dirección Jurídica.
-
-Se anexa organigrama estructural.
 
 ###### Artículo 4°.
 
@@ -239,9 +237,11 @@ Los miembros del Patronato no percibirán retribución, emolumento o compensaci�
 
 El Patronato podrá invitar a participar a las sesiones al Secretario de Educación y Cultura, a efecto de que pueda aportar conocimientos o experiencias a los temas de la agenda respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE NOVIEMBRE 2009)</small>
+
 ###### Artículo 18.
 
-Las sesiones ordinarias se celebrarán dos veces por año y cuantas veces fueran convocadas por su Presidente, por conducto del Rector. Las sesiones extraordinarias se llevaran a cabo a petición de las personas mencionadas, cuantas veces sea necesario para su debido funcionamiento.
+Las sesiones ordinarias del Patronato se celebrarán cuatro veces por año y cuantas veces fueran convocadas por su Presidente, por conducto del Rector. Las sesiones extraordinarias se llevarán a cabo a petición de las personas mencionadas, cuantas veces sea necesario para su debido funcionamiento.
 
 Para que la sesión sea válida, deberán estar presentes cuando menos la mitad más uno del total de sus miembros, para lo cual, posiblemente al pasarse lista de asistencia, se deberá hacer la verificación del quórum respectivo y, en su caso, quien presida la sesión procederá a declarar formalmente inaugurada la misma; las decisiones se tomarán por mayoría de votos.
 
@@ -347,7 +347,9 @@ I. Organizar el funcionamiento de las Comisiones de Pertinencia para la elaborac
 
 II. Integrar la documentación necesaria para el registro de la Universidad y adición de carreras ante la Dirección General de Profesiones, adscrita a la Secretaría de Educación Pública;
 
-III. Atender académicamente a los estudiantes de la Universidad en cada uno de los programas educativos de Técnico Superior Universitario;
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2009)</small>
+
+III. Atender académicamente a los estudiantes de la Universidad en cada uno de los programas educativos de Técnico Superior Universitario y de Licenciatura;
 
 IV. Coordinar con las Direcciones de Carrera el desarrollo de los Programas Educativos;
 
@@ -429,7 +431,9 @@ III. Ser el enlace de la Universidad con los medios de comunicación:
 
 IV. Promover la comunicación entre las áreas de la Universidad, coadyuvando así al logro de los objetivos establecidos;
 
-V. Diseñar estrategias para acercar e interesar a los estudiantes de enseñanza media superior hacia las profesiones de Técnicos Superiores Universitarios;
+> <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2009)</small>
+
+V. Diseñar estrategias para acercar e interesar a los estudiantes de enseñanza media superior hacia las profesiones de Técnicos Superiores Universitarios y de Licenciatura;
 
 VI. Establecer líneas de elección que permitan evaluar el ambiente que se gesta al interior de la Universidad, en relación a alumnos y empleados;
 
@@ -638,5 +642,9 @@ Universitaria y Finanzas y Evaluación
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 12 DE FEBRERO DE 2009.
+
+Artículo Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 3 DE NOVIEMBRE DE 2009.
 
 Artículo Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
