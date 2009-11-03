@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2009-08-25"
+last_updated: "2009-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -861,7 +861,9 @@ II. Direcciones de área, y
 
 III. Procedimientos internos.
 
-Además, para el ejercicio de sus facultades y atribuciones, contarán con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2009)</small>
+
+Además, para el ejercicio de sus facultades y atribuciones, contarán con el personal de estructura, profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
 ###### Artículo 59.
 
@@ -2030,6 +2032,12 @@ PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión 
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 25 DE AGOSTO DE 2009.
+
+PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE NOVIEMBRE DE 2009.
 
 PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
 
