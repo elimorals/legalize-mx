@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-05"
-last_updated: "2007-07-05"
+last_updated: "2009-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de julio de 2007.
 
@@ -85,13 +85,19 @@ a) El Poder Legislativo, incluidos los órganos constituidos por representantes 
 
 b) El Poder Ejecutivo, incluidos el Gobernador del Estado y las dependencias y entidades de la administración pública del Estado;
 
-c) El Poder Judicial, incluidos el Supremo Tribunal de Justicia, las Salas del mismo, los Juzgados de Primera Instancia, los Juzgados Menores, los Juzgados de Paz y, en general, todo órgano jurisdiccional, así como los órganos que presten servicios técnicos y administrativos;
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-d) Los órganos de impartición de justicia que no formen parte del Poder Judicial, incluidos las Juntas de Conciliación y Arbitraje, el Tribunal Fiscal del Estado, el Tribunal Estatal Electoral y, en general, todo órgano que ejerza recursos públicos para el desahogo de funciones materialmente jurisdiccionales;
+c) El Poder Judicial, incluidos el Supremo Tribunal de Justicia, las Salas del mismo, los Juzgados de Primera Instancia, los Juzgados Menores, los Juzgados de Paz, el Tribunal Electoral y el Consejo de la Judicatura. En general, todo órgano jurisdiccional, así como los órganos que presten servicios técnicos y administrativos;
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+d) Los órganos de impartición de justicia que no formen parte del Poder Judicial, incluidos las Juntas de Conciliación y Arbitraje, el Tribunal Fiscal del Estado y, en general, todo órgano que ejerza recursos públicos para el desahogo de funciones materialmente jurisdiccionales;
 
 e) Los Ayuntamientos, incluidos sus integrantes de elección popular y las dependencias y entidades de la administración pública municipal;
 
-f) Los órganos autónomos de los Poderes del Estado, incluidos la Comisión de Derechos Humanos, el Instituto Estatal Electoral y la Universidad Autónoma de Tamaulipas; y
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+f) Los órganos autónomos de los Poderes del Estado, incluidos la Comisión de Derechos Humanos, el Instituto Electoral de Tamaulipas, el Instituto de Transparencia y Acceso a la Información de Tamaulipas y la Universidad Autónoma de Tamaulipas; y
 
 g) Las personas de derecho público o privado que en el desempeño de sus actividades ejerzan recursos públicos o reciban subsidios o subvenciones del erario estatal o municipal.
 
@@ -277,9 +283,17 @@ XIII. Convocatorias para la licitación de adquisiciones, contratación de servi
 
 XIV. Relación de vehículos oficiales e identificación de los mismos;
 
-XV. Concesiones, permisos y autorizaciones otorgados; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-XVI. Informe anual de actividades del Ejecutivo, así como de las dependencias y entidades.
+XV. Concesiones, permisos y autorizaciones;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XVI. Informe anual de actividades del Ejecutivo, así como de las dependencias y entidades; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XVII. En su caso, los indicadores de gestión.
 
 c) En el Poder Judicial:
 
@@ -673,6 +687,18 @@ b) Las rectificaciones o supresiones que correspondan cuando la información reg
 
 c) El conocimiento de los destinatarios de la información, cuando la misma hubiere sido transmitida, señalándose las razones que motivaron su pedimento en los términos de esta ley.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+3. Cuando la acción de hábeas data se realice mediante sistema electrónico, el responsable de la Unidad de Información Pública, previo a realizar los trámites necesarios para la corrección de datos, citará al interesado a ratificar su escrito.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+4. Se exceptúa de esta disposición las modificaciones que se encuentren reguladas por otras leyes.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+5. Si la solicitud se presenta ante un ente público que no sea competente para rectificar los datos requeridos por no ser ámbito de su responsabilidad, la Unidad de Información Pública hará la comunicación del caso al solicitante en un plazo no mayor de cinco días hábiles y le brindará la orientación que requiera.
+
 ###### ARTÍCULO 37.
 
 1. Los entes públicos no podrán distorsionar los datos confidenciales y sensibles de las personas que se contengan en sus archivos. Sólo podrán difundirlos si media autorización expresa de quien esté facultado para ello en los términos de esta ley.
@@ -693,9 +719,27 @@ d) Lugar y domicilio señalado para recibir notificaciones en el lugar sede del 
 
 e) Dirección electrónica, cuando establezca ese medio para recibir notificaciones y la información materia de rectificación.
 
-2. El servidor público responsable de la información materia de rectificación tendrá hasta quince días naturales para responder al solicitante. Cuando la complejidad o volumen de la información lo ameriten, se hará la comunicación al solicitante en el domicilio que hubiere señalado, fundándose y motivándose la ampliación del plazo hasta treinta días naturales; esta comunicación deberá hacerse del conocimiento del solicitante durante los primeros cinco días naturales a partir de la presentación de su escrito de rectificación. Si se ha omitido el domicilio, la comunicación se hará por estrados.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-3. La rectificación prevista en el párrafo 1 de este artículo será gratuita para el solicitante.
+2. El servidor público responsable de la información materia de rectificación tendrá hasta quince días naturales para responder al solicitante. Cuando la complejidad o volumen de la información lo ameriten, se hará la comunicación al solicitante en el domicilio que hubiere señalado, fundándose y motivándose la ampliación del plazo hasta treinta días hábiles; esta comunicación deberá hacerse del conocimiento del solicitante durante los primeros cinco días naturales a partir de la presentación de su escrito de rectificación. Si se ha omitido el domicilio, la comunicación se hará por estrados.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+3. Si el escrito de habeas data no contiene los datos señalados en el párrafo 1, el ente público deberá prevenir al solicitante por escrito en un plazo no mayor de cinco días hábiles contados a partir de su recepción, con el objeto de que complete o aclare los datos necesarios, apercibiéndosele de que si no atiende la prevención dentro de los cinco días hábiles posteriores, la solicitud se tendrá por no presentada. La prevención deberá notificarse al solicitante por correo electrónico o en el domicilio que al efecto haya señalado, en su caso. Si se ha omitido el domicilio, la notificación se hará por estrados. Entre tanto no se subsane la omisión, no correrá término a la Unidad de Información Pública para que resuelva dicha petición.
+
+4. La rectificación prevista en el párrafo 1 de este artículo será gratuita para el solicitante.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+5. Cuando con motivo del trámite de la rectificación de datos, derive algún costo por reproducción, copiado o envío del documento corregido, su entrega se hará previo pago de derechos conforme a las disposiciones fiscales aplicables. La Unidad de Información Pública hará la comunicación al peticionario para que realice el pago, quien deberá hacerlo en un plazo no mayor de cinco días hábiles. En caso de no realizar el pago en el plazo referido se tendrá por no presentada la solicitud.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+6. Una vez entregada la información, el solicitante acusará recibo por escrito o en el sistema electrónico, dejando la Unidad de Información Pública constancia en el expediente respectivo, dándose por terminado el trámite respectivo.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+7. La resolución de negativa o corrección parcial de datos personales deberá fundarse y motivarse. Asimismo, se hará saber al accionante el derecho que tiene a impugnarla mediante el recurso de revisión ante el Instituto de Transparencia y Acceso a la Información de Tamaulipas.
 
 ###### ARTÍCULO 39.
 
@@ -723,11 +767,15 @@ Todo servidor público que tenga bajo su responsabilidad información confidenci
 
 ###### ARTÍCULO 42.
 
-1. Cuando la información pública no sea materia de difusión obligatoria por Internet, la libertad de información se ejercerá mediante correo electrónico ante el ente público que la posea o comunicación remitida ante el mismo por otro medio.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+1. Cuando la información pública no sea materia de difusión obligatoria por Internet, la libertad de información se ejercerá mediante sistema electrónico ante el ente público que la pasea o comunicación remitida ante el mismo por otro medio.
 
 2. Las solicitudes de información pública que se planteen por Internet, deberán señalar una dirección electrónica para recibir la información solicitada.
 
-3. Las solicitudes recibidas mediante comunicación distinta al correo electrónico, se responderán y harán del conocimiento del solicitante en el domicilio que al efecto señale.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+3. Las solicitudes recibidas mediante comunicación distinta al sistema electrónico, se responderán y harán del conocimiento del solicitante en el domicilio que al efecto señale.
 
 ###### ARTÍCULO 43.
 
@@ -747,6 +795,10 @@ f) Modalidad en la que solicita recibir la información.
 
 2. Si la solicitud no contiene los datos señalados en el párrafo anterior, el ente público deberá prevenir al solicitante por escrito en un plazo no mayor de cinco días hábiles contados a partir de su recepción, con objeto de que complete o aclare los datos necesarios, apercibiéndosele de que si no se atiende la prevención dentro de los cinco días hábiles posteriores, la solicitud se tendrá por no presentada. La prevención deberá notificarse al solicitante por correo electrónico o en el domicilio que al efecto haya señalado, en su caso. Si se ha omitido el domicilio, la notificación se hará por estrados.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+3. Subsanada la omisión de alguno de los requisitos señalados en el párrafo 1, empezará a correr el término de 20 días hábiles al responsable de la Unidad de Información Pública para otorgar la respuesta.
+
 ###### ARTÍCULO 44.
 
 1. La Unidad de Información Pública del ente público correspondiente está obligada a auxiliar al solicitante en la presentación del escrito en el cual ejercite el derecho de acceso (sic) la información pública.
@@ -763,7 +815,13 @@ En materia de trámites y procedimientos para el ejercicio de la libertad de inf
 
 1. Toda solicitud de información pública hecha en los términos de esta ley deberá ser satisfecha en un plazo no mayor de veinte días hábiles a partir de su recepción. Este plazo podrá prorrogarse de manera excepcional hasta por diez días hábiles adicionales, cuando medien circunstancias que así lo requieran para el procedimiento y la presentación de la información solicitada. En este caso, el ente público notificará esta circunstancia al solicitante mediante comunicación fundada y motivada sobre las causas de la prórroga acordada. En ningún caso el plazo para satisfacer la solicitud de información pública excederá de treinta días hábiles.
 
-2. Si la solicitud de información no es satisfecha o la información proporcionada es ambigua o parcial a juicio del solicitante, éste podrá acudir al titular del ente público para que conozca de la inconformidad y disponga, en su caso, se proporcione la información solicitada en los términos legales procedentes.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+2. Si la solicitud de información no es satisfecha o la información proporcionada es ambigua o parcial a juicio del solicitante, éste podrá acudir ante el Instituto de Transparencia y Acceso a la Información de Tamaulipas para que conozca de la revisión y disponga, en su caso, se proporcione la información solicitada en los términos legales procedentes.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+3. Una vez entregada la información, el solicitante acusará recibo por escrito o en el sistema electrónico, dejando la Unidad de Información Pública constancia en el expediente respectivo, dándose por terminado el trámite respectivo.
 
 ###### ARTÍCULO 47.
 
@@ -783,7 +841,9 @@ c) Costo de la certificación, expedición de documentos, grabaciones o reproduc
 
 ###### ARTÍCULO 48.
 
-1. Cuando se incurra en costos de reproducción o copiado de la información pública, la entrega de la misma se hará previo pago de los derechos que origine la preparación de la misma.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+1. Cuando se incurra en costos de reproducción o copiado de la información pública, la entrega de la misma se hará previo pago de derechos que origine su preparación. El responsable de la Unidad de Información Pública hará la comunicación al peticionario para que realice el pago, quien deberá hacerlo en un plazo no mayor de cinco días hábiles. En caso de no realizar el pago en el plazo referido se tendrá por no presentada la solicitud.
 
 2. Cuando la información solicitada ya esté disponible para consulta, se le hará saber al solicitante en la misma forma en que ejerció la libertad de información, el lugar donde puede consultarla y las formas para reproducirla o adquirirla.
 
@@ -857,9 +917,15 @@ i) Elaborar los formatos de solicitud de información pública, así como de acc
 
 j) Determinar si la información solicitada es pública o debe clasificarse como restringida en sus modalidades de reservada, confidencial o sensible, conforme a los criterios establecidos en esta ley;
 
-k) Rendir un informe anual al titular u órgano competente del ente público sobre las actividades realizadas con motivo de la aplicación de esta ley; y
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-l) Las demás que sean necesarias para facilitar el ejercicio de la libertad de información pública y la protección de datos confidenciales o sensibles, de acuerdo con los principios establecidos en la presente ley.
+k) Rendir informe anual al titular u órgano competente del ente público sobre las actividades realizadas con motivo de la aplicación de esta ley;
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+l) Enviar a los peticionarios de información pública y a quienes ejerciten el derecho de corrección de datos, las notificaciones que se generen con motivo del trámite de sus solicitudes; y
+
+m) Las demás que sean necesarias para facilitar el ejercicio de la libertad de información pública y la protección de datos confidenciales o sensibles, de acuerdo con los principios establecidos en la presente ley.
 
 ###### ARTÍCULO 57.
 
@@ -895,51 +961,21 @@ k) Mantener contacto permanente con la Dirección General de Tecnologías de la 
 
 l) Llevar a cabo el desempeño de las funciones que en el ámbito de su competencia se le deleguen o le confieran otros ordenamientos.
 
+> <small>(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
 ### CAPÍTULO QUINTO. DE LA INCONFORMIDAD ANTE EL ENTE PÚBLICO
 
 ###### ARTÍCULO 59.
 
-1. Las resoluciones de la Unidad de Información Pública que no satisfagan o nieguen la información solicitada, proporcionen información distinta, incompleta e incomprensible o dispongan su entrega en condiciones onerosas para el solicitante, serán impugnables mediante el recurso de inconformidad.
-
-2. Ante la acción de hábeas data, si el ente público no entrega los datos confidenciales o sensibles solicitados o éstos sean incomprensibles, se niegue a efectuar las modificaciones o correcciones pertinentes o falte al deber de resguardo de la confidencialidad de estos datos personales, también podrá interponerse el recurso de inconformidad.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 60.
 
-1. El recurso de inconformidad se presentará por el solicitante de la información o el promovente de la acción de hábeas data ante el titular del ente público o quien lo represente jurídicamente en caso de ser colegiado, dentro de los cinco días hábiles siguientes a la notificación de la resolución correspondiente de la Unidad de Información Pública.
-
-2. Tratándose de las dependencias y entidades del Poder Ejecutivo, el recurso se presentará ante la Contraloría Gubernamental, salvo que la inconformidad se refiera a su titular, caso en el cual se interpondrá ante el titular del Ejecutivo del Estado.
-
-3. El recurso de inconformidad se presentará por escrito mediante correo electrónico o comunicación remitida por otro medio y deberá cumplir los requisitos siguientes:
-
-a) El nombre del recurrente y, en su caso, el de su representante legal, así como la acreditación de la personalidad jurídica de éste;
-
-b) El domicilio o en su caso la dirección de correo electrónico, para oír notificaciones y documentos, así como la autorización de quienes en su nombre puedan oírlas y recibirlos;
-
-c) El ente público responsable;
-
-d) La identificación precisa del acto o resolución impugnada;
-
-e) La mención clara de los hechos en que se funda la impugnación, los agravios que cause la resolución y los preceptos legales que se estiman violados;
-
-f) Una copia del acto o resolución impugnada;
-
-g) Las pruebas que se ofrecen para acreditar la impugnación o las que se hubieren solicitado pero no hayan podido obtenerse por causas ajenas al recurrente, con la solicitud de que las requiera el titular del ente público; y
-
-h) La firma del promovente o su huella digital y firma de la persona que lo haga a su ruego, en su caso.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 61.
 
-1. El titular del ente público o quien lo represente jurídicamente en caso de ser colegiado deberá resolver el recurso de inconformidad en un plazo no mayor de diez días hábiles a partir de su recepción.
-
-2. La resolución del recurso de inconformidad podrá confirmar, modificar o revocar la determinación o acto reclamado. La resolución deberá constar por escrito y estará debidamente fundada y motivada.
-
-3. Procede el sobreseimiento del recurso de inconformidad en los siguientes casos:
-
-a) El recurrente se desista por escrito;
-
-b) Surja alguna causa de improcedencia en los términos de esta ley; o
-
-c) El recurrente fallezca o se disuelva, tratándose de una persona jurídica.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2009)
 
 ## TÍTULO IV. DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DE TAMAULIPAS
 
@@ -1033,17 +1069,23 @@ h) Efectuar acciones y desarrollar directrices relativas a la investigación, ca
 
 i) Emitir comunicados públicos sobre el incumplimiento de las resoluciones o infracciones reiteradas a este ordenamiento por parte de los sujetos obligados;
 
-j) Elaborar los formatos de solicitudes de información pública y ejercicio de la acción de hábeas data para la protección de datos personales;
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+j) Proponer a los sujetos obligados, los formatos de solicitudes de información pública y ejercicio de la acción de hábeas data para la protección de datos personales;
 
 k) Celebrar convenios interinstitucionales para su mejor desempeño;
 
-l) Elaborar, aprobar y ejercer su presupuesto, rindiendo la cuenta pública en términos de las disposiciones en la materia;
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+l) Aprobar su presupuesto, rindiendo la cuenta pública en términos de las disposiciones en la materia;
 
 m) Designar y remover a los servidores públicos que establezca la ley;
 
 n) Difundir entre los sujetos obligados y la sociedad en general, los beneficios del manejo público de la información, así como las responsabilidades de su buen uso y su conservación;
 
-o) Resolver, en forma definitiva y firme en el ámbito estatal, sobre la determinación e imposición de las sanciones previstas en esta ley; y
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+o) Resolver la procedencia de la imposición de las sanciones previstas en esta ley;
 
 p) Las demás que le otorguen la Constitución y las leyes del Estado.
 
@@ -1071,7 +1113,9 @@ f) Despachar la correspondencia del Instituto;
 
 g) Enviar el proyecto de presupuesto anual del Instituto al titular del Poder Ejecutivo, para su incorporación en el Presupuesto de Egresos del Estado;
 
-h) Vigilar que el Instituto cuente con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+h) Elaborar y ejercer el presupuesto, vigilando que el Instituto cuente con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
 
 i) Convocar a reuniones internas a los comisionados, al Secretario Ejecutivo y a los demás miembros del personal;
 
@@ -1127,7 +1171,9 @@ En las respuestas desfavorables a las solicitudes de información pública o al 
 
 ###### ARTÍCULO 74.
 
-1. El recurso de revisión se presentará por escrito o vía electrónica por el solicitante de la información o el promovente del derecho de hábeas data ante el titular de la Unidad de Información Pública responsable o quien lo represente jurídicamente en caso de ser colegiado, dentro de los diez días hábiles siguientes, contados a partir de la fecha en que el solicitante tuvo conocimiento de la resolución respectiva.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+1. El recurso de revisión se presentará por escrito o vía electrónica por el solicitante de la información o el promovente del derecho de hábeas data ante el Instituto de Transparencia y Acceso a la Información de Tamaulipas, dentro de los diez días hábiles siguientes, contados a partir de la fecha en que el solicitante tuvo conocimiento de la resolución respectiva.
 
 2. El recurso podrá presentarse cuando los sujetos obligados por la ley:
 
@@ -1155,13 +1201,27 @@ e) La mención clara de los hechos en que se funda la impugnación y la consider
 
 f) Una copia del acto o resolución impugnado;
 
-g) Las pruebas que se ofrecen para acreditar la impugnación o las que se hubieren solicitado por el recurrente y la petición de que se requieran por conducto del Instituto, y
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-h) En caso de ser por escrito, la firma del promovente o su huella digital y firma de la persona que lo haga a su ruego.
+g) Las notificaciones que le haya expedido la Unidad de Información Pública responsable en el trámite de la solicitud de información o acción de hébeas (sic) data;
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+h) Las pruebas que se ofrecen para acreditar la impugnación o las que se hubieren solicitado por el recurrente y la petición de que se requieran por conducto del Instituto; e
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+i) Según sea el caso, la firma del promovente o su huella digital y firma de la persona que lo haga a su ruego.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+4. Si el escrito de impugnación no contiene los datos señalados en el párrafo anterior, el Instituto deberá prevenir al recurrente en un plazo no mayor de cinco días hábiles contados a partir de su recepción, a efecto de que complete o aclare los datos necesarios para la substanciación del medio de impugnación, apercibiéndole de que si no atiende la prevención dentro de los cinco días hábiles posteriores, el recurso se tendrá por no presentado. La prevención deberá notificarse al solicitante por correo electrónico o en el domicilio que al efecto haya señalado, en su caso. Si se ha omitido el domicilio, la notificación se hará por estrados.
 
 ###### ARTÍCULO 75.
 
-Una vez recibido el recurso de revisión por la Unidad de Información Pública responsable, ésta lo remitirá al Instituto de Transparencia y Acceso a la Información de Tamaulipas, dentro del término de cinco días hábiles con el respectivo informe circunstanciado, el cual deberá contener:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+Una vez recibido el recurso de revisión por el Instituto, dentro del término de cinco días hábiles solicitará a la Unidad responsable el respectivo informe circunstanciado, el cual deberá contener:
 
 a) los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnado; y
 
@@ -1169,9 +1229,9 @@ b) los documentos en que se apoya.
 
 ###### ARTÍCULO 76.
 
-> <small>(F. DE E., P.O. 1 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-1. Una vez recibido el recurso de revisión con el informe circunstanciado respectivo, el Instituto resolverá lo que en derecho proceda dentro de los 30 días siguientes a partir de su recepción. Al resolver, el Instituto suplirá las deficiencias u omisiones del recurso, cuando del mismo se puedan deducir con claridad de los hechos expuestos y los agravios que lo motiven.
+1. Una vez integrado el recurso de revisión con el informe circunstanciado respectivo, el Instituto resolverá lo que en derecho proceda dentro de los 30 días hábiles siguientes a partir de su recepción. Al resolver, el Instituto suplirá las deficiencias u omisiones del recurso, cuando del mismo se puedan deducir con claridad de los hechos expuestos y los agravios que lo motiven.
 
 2. El Instituto podrá confirmar, modificar o revocar la resolución emitida con motivo del recurso de revisión.
 
@@ -1211,9 +1271,11 @@ Toda persona podrá acudir ante los órganos jurisdiccionales competentes para r
 
 En términos de la resolución que emita el Instituto, las Unidades de Información Pública deberán entregar la información solicitada dentro de los tres días siguientes a la fecha en que les notifique la resolución, debiendo rendir en igual plazo al Instituto el Informe del cumplimiento respectivo.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 80.
 
-Con independencia de que el peticionario pueda hacerlo notar por sus propios medios, si de la rendición o falta del informe señalado en el artículo 79 del presente ordenamiento el Instituto deduce que la Unidad persiste en su negativa o incumple parcialmente la resolución, enseguida lo pondrá en conocimiento de su superior jerárquico de la Unidad responsable para efectos del procedimiento relativo a las sanciones a que hace referencia esta ley.
+Si la Unidad persiste en su negativa o incumple parcialmente la resolución, el peticionario lo hará del conocimiento del Instituto, quien notificará al órgano de control interno y al superior jerárquico de la Unidad de Información Pública responsable para que impongan las sanciones a que hace referencia esta ley.
 
 ### CAPÍTULO CUARTO. DEL HORARIO Y DÍAS LABORALES
 
@@ -1376,3 +1438,11 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 29 de junio
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en la residencia del Poder Ejecutivo en Victoria, Capital del Estado de Tamaulipas, a los cuatro días del mes de julio del año dos mil siete.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE NOVIEMBRE DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
