@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-de-la-496
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-08"
-last_updated: "2006-03-08"
+last_updated: "2009-11-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC, PUBLICADO EN LA G.G. DE 4 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: SIN EFECTOS.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 8 de marzo del 2006.
 
@@ -416,3 +418,17 @@ P. C. P. Antonio Tovar Pérez
 Jefe de la Unidad de Información, Planeación, Programación y Evaluación y Vocal del Comité
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 4 DE NOVIEMBRE DE 2009.
+
+Primero.- Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno.
+
+Segundo.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+Tercero.- El Rector del Organismo deberá constituir el COCOE, en los términos del presente Reglamento, dentro de los 30 días siguientes a su publicación en la Gaceta del Gobierno.
+
+Cuarto.- Se deja sin efectos el Reglamento Interno del Comité de Control y Evaluación de la Universidad Estatal del Valle de Ecatepec, aprobado en fecha 7 de febrero de 2006 en sesión ordinaria vigésima quinta del Consejo Directivo y publicado en la Gaceta del Gobierno en fecha 8 de marzo del 2006, así como las demás disposiciones de igualo menor jerarquía que se opongan al presente.
+
+Quinto.- La interpretación del presente Reglamento y lo no previsto en el mismo, será resuelta por la Secretaría de la Contraloría del Gobierno del Estado de México.
