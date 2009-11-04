@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-instituto-de-la-educacion-basica-32996"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-23"
-last_updated: "2003-07-23"
+last_updated: "2009-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA EDUCACION BASICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 23 de julio de 2003.
 
@@ -235,7 +235,7 @@ Para el ejercicio de las funciones y despacho de los asuntos que le competen, la
 
 I. DIRECCIÓN JURÍDICA
 
-a) Subdirección Jurídica;
+a) (DEROGADO, P.O. 4 DE NOVIEMBRE DE 2009)
 
 b) Departamento de Asuntos Jurídico Contenciosos;
 
@@ -254,6 +254,10 @@ d) Subdirección de Control Escolar;
 e) Departamento de Estadística;
 
 f) Departamento de Registro y Certificación;
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+g) Departamento de Evaluación Educativa;
 
 III. DIRECCIÓN DE EDUCACIÓN ELEMENTAL
 
@@ -287,7 +291,7 @@ b) Coordinación Administrativa;
 
 VI. DIRECCIÓN DE DESARROLLO EDUCATIVO
 
-a) Departamento de Capacitación y Desarrollo;
+a) (DEROGADO, P.O. 4 DE NOVIEMBRE DE 2009)
 
 b) Subdirección de Investigación y Actualización Magisterial;
 
@@ -295,11 +299,15 @@ c) Departamento de Actualización Magisterial;
 
 d) Departamento de Proyectos Educativos;
 
-e) Subdirección de Carrera Magisterial;
+e) (DEROGADO, P.O. 4 DE NOVIEMBRE DE 2009)
 
-f) Departamento de Base de Datos;
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-g) Departamento de Evaluación Educativa;
+f) Departamento de Desarrollo Humano;
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+g) Departamento de Tecnologías de la Información Educativa;
 
 VII. DIRECCIÓN DE PERSONAL Y RELACIONES LABORALES
 
@@ -308,6 +316,18 @@ a) Departamento de Selección y Trámites de Personal;
 b) Departamento de Pagos;
 
 c) Departamento de Control de Personal;
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+d) Departamento de Capacitación y Desarrollo;
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+e) Subdirección de Carrera Magisterial;
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+f) Departamento de Base de Datos;
 
 VIII. DIRECCIÓN DE ADMINISTRACIÓN
 
@@ -337,11 +357,21 @@ l) Departamento de Servicios Regionales Jojutla;
 
 m) Departamento de Servicios Regionales Jonacatepec;
 
-IX. COMISARIO PÚBLICO
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-X. UNIDAD DE DESARROLLO ORGANIZACIONAL
+n) Departamento de Servicios Regionales Yautepec;
 
-XI. CONSEJO ESTATAL TÉCNICO DE LA EDUCACIÓN
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+IX. COMISARÍA PÚBLICA
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+X. SUBDIRECCIÓN DE DESARROLLO ORGANIZACIONAL, y
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XI. COORDINACIÓN DEL CONSEJO ESTATAL TÉCNICO DE LA EDUCACIÓN
 
 El IEBEM realizará sus actividades conforme al Plan Nacional de Desarrollo y al Plan Estatal sobre la materia. Para tal efecto, en cada programa se precisará la participación que corresponda a las unidades administrativas del Instituto y las que conforme a las disposiciones legales respectivas correspondan a la Secretaría de Educación del Estado.
 
@@ -451,7 +481,9 @@ VII. Evaluar, fundamentar y, en su caso, proponer las modificaciones al calendar
 
 VIII. Dirigir y coordinar las acciones y estudios de micro planeación, que coadyuven a elevar los niveles de eficiencia y eficacia de los Servicios Educativos; así como a solucionar la problemática que se presente y corregir las desviaciones y desequilibrios de los planes y programas, en el ámbito local, regional y estatal;
 
-IX. Organizar, dirigir, controlar y evaluar el funcionamiento del sistema de geoestadística del IEBEM, con base en las políticas, normas y lineamientos, federales y estatales en respuesta a los requerimientos y necesidades de las áreas que integran el mismo;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+IX. Organizar, dirigir, controlar y evaluar el funcionamiento de los sistemas de geoestadística y control escolar del IEBEM, con base en las políticas, normas y lineamientos, federales y estatales en respuesta a los requerimientos y necesidades de las áreas que integran el mismo;
 
 X. Integrar y mantener actualizado el padrón de educandos que cursen estudios en los planteles educativos en el Estado, en sus diferentes tipos, niveles y modalidades, correlacionándolo con la demanda real y potencial que se tenga a nivel local, regional y estatal;
 
@@ -463,7 +495,9 @@ XIII. Integrar y mantener actualizado el padrón de instituciones educativas par
 
 XIV. Organizar, dirigir y controlar las normas y procedimientos para la expedición de certificados, constancias, diplomas o títulos a quienes acrediten conocimientos terminales en los diferentes niveles educativos, conforme a la normatividad federal y estatal, en coordinación con las áreas competentes del IEBEM;
 
-XV. Dirigir las actividades de control escolar, acreditación, certificación, revalidación y equivalencia de estudios, en sus diferentes tipos, niveles y modalidades, conforme a la normatividad federal y estatal vigente;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XV. Dirigir las actividades de control escolar, acreditación, certificación y revalidación de estudios, en sus diferentes tipos, niveles y modalidades, conforme a la normatividad federal y estatal vigente;
 
 XVI. Desarrollar y evaluar las normas, políticas y lineamientos, en materia de autorización y reconocimiento de validez oficial de estudios a los planteles particulares;
 
@@ -483,15 +517,43 @@ XXIII. Dirigir y coordinar la programación de las pre-inscripciones, de preesco
 
 XXIV. Supervisar la elaboración de estudios de factibilidad, en apoyo a la programación detallada de los servicios de educación básica, tomando en cuenta los resultados de las inscripciones y las solicitudes del Gobierno del Estado y de las autoridades de las diferentes localidades, a fin de garantizar la atención de todos los demandantes de educación básica y normal en el Estado;
 
-XXV. Desempeñar las representaciones que por acuerdo expreso le delegue o encomiende el Director General, y
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-XXVI. Las demás que le confieran otras disposiciones legales.
+XXV. Evaluar los efectos de las políticas educativas que se apliquen en educación básica, incluyendo especial, inicial, indígena, física, artística y tecnológica;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XXVI. Dirigir el diseño e instrumentación de los mecanismos de evaluación institucional y de desarrollo educativo y, en su caso, coordinar y supervisar su implantación y operación, para determinar el impacto, penetración, cobertura, resultados y beneficios de los planes, programas y funciones institucionales que realicen las diferentes áreas que integran el Instituto y posibilite la detección oportuna de las situaciones y problemas que impidan o dificulten el cumplimiento en tiempo y forma de los objetivos y metas fijados;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XXVII. Diseñar en forma conjunta con las áreas respectivas del Instituto, las medidas y acciones de solución y respuesta a la problemática y requerimientos detectados por las actividades de evaluación que se realicen en el funcionamiento interno del IEBEM;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XXVIII. Elaborar en consenso con las Direcciones de áreas educativas el catálogo de necesidades de infraestructura educativa, el programa de equipamiento escolar y mantenimiento preventivo de inmuebles;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XXIX. Autorizar, supervisar y evaluar todo tipo de modificación y construcción que se realice en inmuebles pertenecientes al IEBEM, sin perjuicio de las facultades del Instituto Estatal de Infraestructura Educativa (INEIEM);
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XXX. Supervisar los compromisos adquiridos con las diferentes dependencias u organismos de la administración pública federal y estatal que incidan en el otorgamiento de becas, aplicando los reglamentos y acuerdos establecidos;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XXXI. Supervisar que las instituciones educativas incorporadas, den cumplimiento al artículo 102 de la Ley de Educación del Estado de Morelos;
+
+XXXII. Desempeñar las representaciones que por acuerdo expreso le delegue o encomiende el Director General, y
+
+XXXIII. Las demás que le confieran otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 27.
 
-Estarán adscritos a la Dirección de Planeación Educativa:
-
-La Subdirección de Programación; Departamento de Estudios y Proyectos; Departamento de Programación y Presupuesto; la Subdirección de Control Escolar; el Departamento de Estadística, y el Departamento de Registro y Certificación.
+Estarán adscritos a la Dirección de Planeación Educativa: la Subdirección de Programación, el Departamento de Estudios y Proyectos, el Departamento de Programación y Presupuesto, el Departamento de Evaluación Educativa, la Subdirección de Control Escolar, el Departamento de Estadística, y el Departamento de Registro y Certificación.
 
 ### CAPÍTULO XI. DE LA DIRECCIÓN DE EDUCACIÓN ELEMENTAL
 
@@ -595,7 +657,9 @@ V. Coordinar con la Dirección de Desarrollo Educativo, para aplicar cursos de a
 
 VI. Supervisar, conforme a las disposiciones establecidas, que los planteles de las modalidades de su competencia, cumplan con la impartición de los planes y programas autorizados, dentro de los períodos marcados en el calendario escolar;
 
-VII. Evaluar, en coordinación con la Dirección de Desarrollo Educativo, la Educación Secundaria General, Técnica, y Telesecundaria, así como la educación normal y proponer con base en los resultados obtenidos, modificaciones que tiendan a su constante mejoramiento;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+VII. Evaluar, en coordinación con la Dirección de Planeación Educativa, la educación secundaria general, técnica, y telesecundaria, así como la educación normal y proponer en coordinación con la Dirección de Desarrollo Educativo con base en los resultados obtenidos, modificaciones que tiendan a su constante mejoramiento;
 
 VIII. Supervisar la aplicación de los planes y programas de estudio aprobados por la Secretaría de Educación Pública del Gobierno Federal, en los planteles de la entidad, ya sean públicos o privados;
 
@@ -647,17 +711,25 @@ Corresponden a la Dirección de Desarrollo Educativo las siguientes atribuciones
 
 I. Planear, organizar, dirigir y coordinar el desarrollo de la actualización profesional del personal docente adscrito a la Secretaría de Educación y al IEBEM, para elevar la calidad de la educación, atendiendo a los propósitos señalados por el Acuerdo Nacional para la Modernización de la Educación Básica y demás normatividad, a través de la operatividad de los diversos programas nacionales y estatales;
 
-II. Detectar, clasificar y jerarquizar las necesidades de capacitación y actualización del personal docente, administrativo y de apoyo, a efecto de diseñar, fundamentar y desarrollar los programas de capacitación y actualización correspondientes; y en su caso, previa aprobación de la Junta de Gobierno, dirigir y evaluar la impartición de los mismos, con el apoyo y coordinación de las instancias educativas federales, estatales y municipales respectivas;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+II. Detectar, clasificar y jerarquizar las necesidades de capacitación y actualización del personal docente, a efecto de diseñar, fundamentar y desarrollar los programas de capacitación y actualización correspondientes; y en su caso, previa aprobación de la Junta de Gobierno, dirigir y evaluar la impartición de los mismos, con el apoyo y coordinación de las instancias educativas federales, estatales y municipales respectivas;
 
 III. Dirigir y evaluar el diseño y desarrollo de programas y acciones, que coordinen los diferentes niveles educativos de la Entidad, con objeto de evaluar, en forma integral, el desarrollo del proceso educativo; determinar el grado de asimilación de un nivel a otro; verificar el nivel real de conocimiento de los alumnos y su comparación con las metas de los programas educativos correspondientes; así como, la capacidad, conocimientos, aptitudes y actitudes del personal docente y la efectividad de su labor frente a grupo;
 
-IV. Evaluar los efectos de las políticas educativas que se apliquen en educación básica, incluyendo especial, inicial, indígena, física, artística y tecnológica;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-V. Promover la aplicación oportuna, eficiente y efectiva de los programas nacionales y estatales de la innovación tecnológica educativa y a distancia;
+IV. Instrumentar programas derivados de la evaluación de los efectos de las políticas educativas que se apliquen en educación básica, incluyendo especial, inicial, indígena, física, artística y tecnológica;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+V. Planear la aplicación oportuna, eficiente y efectiva de los programas nacionales y estatales de tecnologías de la innovación tecnológica educativa y a distancia;
 
 VI. Proponer, programar y asignar cursos de capacitación que propicien la mejora de los servicios educativos en lo artístico y cultural, en vinculación con los niveles educativos y organismos interinstitucionales;
 
-VII. Dirigir el diseño e instrumentación de los mecanismos de evaluación institucional y de desarrollo educativo y, en su caso, coordinar y supervisar su implantación y operación, para determinar el impacto, penetración, cobertura, resultados y beneficios de los planes, programas y funciones institucionales que realicen las diferentes áreas que integran el Instituto y posibilite la detección oportuna de las situaciones y problemas que impidan o dificulten el cumplimiento en tiempo y forma de los objetivos y metas fijados;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+VII. Proponer, diseñar, evaluar, mantener y supervisar programas que estimulen el uso de tecnologías de la información educativa y comunicaciones en el aula;
 
 VIII. Diseñar en forma conjunta con las áreas respectivas del Instituto, las medidas y acciones de solución y respuesta a la problemática y requerimientos detectados por las actividades de evaluación que se realicen, tanto en el funcionamiento interno del IEBEM, como en el desarrollo del proceso de enseñanza-aprendizaje;
 
@@ -681,15 +753,23 @@ XVII. Promover la superación del sistema educativo, mediante el estímulo y el 
 
 XVIII. Diseñar los mecanismos y procedimientos necesarios para identificar, determinar y evaluar las principales causas y orígenes de deserción, reprobación o bajo nivel de aprendizaje y aprovechamiento; calcular su impacto económico y social, su efecto en el sistema educativo estatal y, en coordinación con las áreas correspondientes del IEBEM, diseñar las medidas, programas y acciones necesarias para disminuir y, de ser posible, eliminar las situaciones que lo propicien, reduciendo sus efectos y promoviendo el apoyo de las autoridades federales, estatales y municipales, así como de la sociedad en su conjunto;
 
-XIX. Desempeñar las representaciones que por acuerdo expreso le delegue la Dirección General, y
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-XX. Las demás que le confieran otras disposiciones legales aplicables.
+XIX. Diseñar en coordinación con las áreas correspondientes programas y actividades que propicien la formación de valores, el desarrollo humano y la orientación familiar;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XX. Desempeñar las representaciones que por acuerdo expreso le delegue o encomiende el Director General, y
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XXI. Las demás que le confieran otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 35.
 
-Estarán adscritos a la Dirección de Desarrollo Educativo:
-
-Departamento de Capacitación y Desarrollo; Subdirección de Investigación y Actualización Magisterial; Departamento de Actualización Magisterial; Departamento de Proyectos Educativos; Subdirección de Carrera Magisterial; Departamento de Base de Datos y Departamento de Evaluación Educativa.
+Estarán adscritos a la Dirección de Desarrollo Educativo: el Departamento de Tecnologías de la Información Educativa, el Departamento de Desarrollo Humano, la Subdirección de Investigación y Actualización Magisterial, el Departamento de Actualización Magisterial, y el Departamento de Proyectos Educativos.
 
 ### CAPÍTULO XV. DE LA DIRECCIÓN DE PERSONAL Y RELACIONES LABORALES
 
@@ -711,7 +791,9 @@ VI. Llevar el registro de movimientos de personal y actualizar las plantillas co
 
 VII. Seleccionar, contratar e inducir al personal idóneo para la institución, de acuerdo con las características y requisitos establecidos;
 
-VIII. Dirigir, controlar y supervisar el sistema de pagos del IEBEM; supervisar la validación y verificación de la nómina del IEBEM, así como la oportuna y correcta distribución de los cheques correspondientes, recabando los comprobantes respectivos;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+VIII. Dirigir, controlar y supervisar el sistema de pagos del IEBEM; capturar, operar, validar y supervisar la nómina del IEBEM, así como la oportuna y correcta distribución de los cheques correspondientes, recabando los comprobantes respectivos;
 
 IX. Tramitar, registrar y controlar, conforme a la normatividad aplicable y el presupuesto autorizado, la admisión, baja y demás movimientos del personal adscrito a las áreas que integran el IEBEM;
 
@@ -729,13 +811,35 @@ XV. Tramitar, registrar y controlar, conforme a las normas aprobadas, la admisi�
 
 XVI. Participar en las negociaciones sindicales correspondientes, proporcionando a las instancias respectivas del IEBEM, la información y elementos necesarios y suficientes que permitan salvaguardar sus intereses en términos de equidad y respeto mutuo, y efectuar las recomendaciones que estime pertinentes;
 
-XVII. Desempeñar las representaciones que por acuerdo expreso le delegue o encomiende el Director General, y
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-XVIII. Las demás que le confieran las disposiciones legales aplicables.
+XVII. Determinar las competencias requeridas para el personal del IEBEM;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XVIII. Detectar, clasificar y jerarquizar las necesidades de capacitación y actualización del personal administrativo y de apoyo, a efecto de diseñar, fundamentar y desarrollar los programas de capacitación y actualización correspondientes;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XIX. Elaborar y operar el plan anual de capacitación para lograr las competencias necesarias para el personal administrativo y de apoyo a la educación;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XX. Coordinar, dirigir, operar y difundir los procesos relativos al programa de carrera magisterial, garantizando el respeto y cumplimiento de las normas, lineamientos, políticas, sistemas y procedimientos que establezca la comisión nacional SEP-SNTE;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XXI. Diseñar, implantar, actualizar, mantener y respaldar la base de datos del programa de carrera magisterial;
+
+XXII. Desempeñar las representaciones que por acuerdo expreso le delegue o encomiende el Director General, y
+
+XXIII. Las demás que le confieran las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 37.
 
-Estarán adscritas a la Dirección de Personal y Relaciones Laborales el Departamento de Selección y Trámites de Personal; el Departamento de Pagos, y el Departamento de Control de Personal.
+Estarán adscritas a la Dirección de Personal y Relaciones Laborales: el Departamento de Selección y Trámites de Personal, el Departamento de Pagos, el Departamento de Control de Personal, el Departamento de Capacitación y Desarrollo, la Subdirección de Carrera Magisterial, y el Departamento de Base de Datos.
 
 ### CAPÍTULO XVI. DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
@@ -787,7 +891,9 @@ XXI. Organizar, dirigir, controlar y evaluar la adecuada prestación de los serv
 
 XXII. Planear, a mediano y largo plazo el desarrollo, actualización y mantenimiento de los sistemas informáticos y de telecomunicaciones necesarios para el IEBEM, considerando el equipamiento respectivo y determinando su impacto presupuestal, así como sus beneficios, cobertura y alcance, correlacionados con un programa institucional de desarrollo informático y de telecomunicaciones;
 
-XXIII. Capturar, validar, procesar y emitir la nómina del personal del IEBEM;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XXIII. Diseñar e implementar la herramienta informática (software), para procesar, respaldar y emitir la nómina del personal del IEBEM;
 
 XXIV. Efectuar, directamente, o a través de terceros autorizados, la instalación, mantenimiento y soporte técnico del equipo y programas de cómputo y de telecomunicaciones que se utilicen en el IEBEM;
 
@@ -807,11 +913,11 @@ XXXI. Desempeñar las representaciones que por acuerdo expreso le delegue o enco
 
 XXXII. Las demás que le confieran las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 39.
 
-Estarán adscritas a la Dirección de Administración las siguientes áreas administrativas:
-
-Departamento de Suministros y Servicios; Subdirección de Informática; Departamento de Servicios de Cómputo; Departamento de Ingeniería de Sistemas; Subdirección de Finanzas; Departamento de Tesorería; Departamento de Contabilidad; Departamento de Afectación Presupuestal; Subdirección de Servicios Regionales; Departamento de Servicios Regionales Alpuyeca; Departamento de Servicios Regionales Cuautla; Departamento de Servicios Regionales Jojutla y Departamento de Servicios Regionales Jonacatepec.
+Estarán adscritas a la Dirección de Administración las siguientes áreas administrativas: el Departamento de Suministros y Servicios, la Subdirección de Informática, el Departamento de Servicios de Cómputo, el Departamento de Ingeniería de Sistemas, la Subdirección de Finanzas, el Departamento de Tesorería, el Departamento de Contabilidad, el Departamento de Afectación Presupuestal; la Subdirección de Servicios Regionales, el Departamento de Servicios Regionales Alpuyeca, el Departamento de Servicios Regionales Cuautla, el Departamento de Servicios Regionales Jojutla, el Departamento de Servicios Regionales Jonacatepec, y el Departamento de Servicios Regionales Yautepec.
 
 ### CAPÍTULO XVII. DE LA DIRECCIÓN JURÍDICA
 
@@ -829,7 +935,9 @@ IV. Elaborar y proponer los anteproyectos de iniciativa de leyes, decretos, regl
 
 V. Formular y revisar las bases y requisitos legales a que deban ajustarse los contratos, convenios, concesiones, autorizaciones, permisos y licencias competencia del IEBEM, así como intervenir en el estudio, formulación, otorgamiento, revocación o modificación de los mismos, vigilando y cuidando los intereses del mismo;
 
-VI. Llevar el registro de los contratos y convenios que celebre el IEBEM;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+VI. Elaborar y revisar los convenios y contratos que deba firmar el Director General del IEBEM, así como llevar el registro de los mismos;
 
 VII. Intervenir en la aprobación de los proyectos e instrumentos jurídicos relativos a la adquisición, enajenación, destino o afectación de los bienes que formen parte del patrimonio del IEBEM;
 
@@ -865,11 +973,11 @@ XXII. Desempeñar las representaciones que por acuerdo expreso le delegue o enco
 
 XXIII. Las demás que le otorguen las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 41.
 
-Estarán adscritas a la Dirección Jurídica:
-
-La Subdirección Jurídica; el Departamento de Asuntos Jurídico Contenciosos y el Departamento de Legislación, Normativo y Asuntos Laborales.
+Estarán adscritas a la Dirección Jurídica: el Departamento de Asuntos Jurídico Contenciosos, y el Departamento de Legislación, Normativo y Asuntos Laborales.
 
 ### CAPÍTULO XVIII. DEL CONSEJO ESTATAL TÉCNICO DE LA EDUCACIÓN
 
@@ -911,19 +1019,35 @@ I. Proponer un cambio planeado en el IEBEM, administrado desde la Dirección Gen
 
 II. Promover la calidad de vida en el trabajo basadas en la creencia, valores y relaciones interpersonales, para lograr una conciencia de pertenencia como miembro efectivo de la Institución, participando activamente en la comunicación, planeación y toma de decisiones, implementando así una nueva cultura laboral;
 
-III. Realizar estudios y diagnósticos organizacionales, así como levantamientos de clima y cultura laboral;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+III. Realizar estudios y diagnósticos organizacionales, así como levantamientos de clima y cultura laboral en oficinas centrales y los planteles educativos;
 
 IV. Diseñar y fundamentar la planeación estratégica del IEBEM y, en su caso, coordinar la implantación y seguimiento de los programas y acciones que garanticen el cumplimiento, en tiempo y forma de los objetivos y las metas fijados para alcanzar la visión del IEBEM;
 
-V. Desarrollar en la cultura organizacional los rasgos que contribuyan a mejorar permanentemente la calidad de los servicios, la satisfacción del público, la efectividad de los procesos, el crecimiento y satisfacción de nuestra gente;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-VI. Diseñar, analizar, dirigir y controlar las estructuras orgánicas, procedimientos administrativos, políticas, funciones y objetivos de las unidades administrativas que conforman el Instituto, mantenerlos actualizados y hacer del conocimiento del personal, de todos los manuales administrativos en los que se apoye la función del organismo;
+V. Desarrollar en la cultura organizacional los rasgos que contribuyan a mejorar permanentemente la calidad de los servicios, la satisfacción de los receptores de los mismos, la efectividad de los procesos, el crecimiento y satisfacción de nuestro personal;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+VI. Diseñar y analizar las estructuras orgánicas, dirigir la elaboración de procedimientos administrativos, políticas, funciones y objetivos de las unidades administrativas que conforman el Instituto, mantenerlos actualizados y hacer del conocimiento del personal los manuales administrativos en los que se apoye la función del organismo;
 
 VII. Implementar en las áreas del Instituto una política de simplificación de trámites, así como elaborar los manuales de organización, de políticas y procedimientos de las diferentes áreas, así como una mejora continua del IEBEM y una reingeniería de procesos;
 
-VIII. Promover el mejoramiento continuo de la calidad, utilizando técnicas y enfoques del mejoramiento de la organización, incluyendo el empleo de círculos de calidad, equipos y grupos comandos autodirigidos, y una participación muy extensa de los empleados, y
+VIII. Promover el mejoramiento continuo de la calidad, utilizando técnicas y enfoques del mejoramiento de la organización, incluyendo el empleo de círculos de calidad, equipos y grupos comandos autodirigidos, y una participación muy extensa de los empleados, y (sic)
 
-IX. Las demás que le otorguen las disposiciones legales aplicables, así como desempeñar las representaciones que por acuerdo expreso le delegue la Dirección General.
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+IX. Promover la implantación de un Modelo de Calidad Total, enfocado a la satisfacción de usuarios y ciudadanos a través de los sistemas de gestión del IEBEM;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+X. Administrar como responsable, el Sistema de Gestión de la Calidad o en su caso, el sistema de mejora continua que adopte el IEBEM, y
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
+XI. Las demás que le otorguen las disposiciones legales aplicables, así como desempeñar las representaciones que por acuerdo expreso le delegue el Director General.
 
 ### CAPÍTULO XX. DEL COMISARIO PÚBLICO
 
@@ -967,9 +1091,11 @@ En asuntos judiciales, administrativos y del trabajo, así como para absolver po
 
 Los Directores de Educación Elemental, Educación Media y Normal, Director de la Unidad 17-A de U.P.N; Desarrollo Educativo, Planeación Educativa, Administración, Jurídico y el de Personal y Relaciones Laborales, serán suplidos en sus ausencias por el funcionario que para tal efecto, designe el Director General.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 48.
 
-Los Subdirectores de Área y Jefes de Departamento, serán suplidos en sus ausencias por el Subjefe respectivo o de no existir, por el funcionario que designe el Director del área correspondiente.
+Los Subdirectores de Área y Jefes de Departamento, serán suplidos en sus ausencias por el servidor público de rango jerárquico inferior inmediato, o por el funcionario que designe el Director General.
 
 ## TRANSITORIOS
 
@@ -992,3 +1118,13 @@ EL SECRETARIO DE EDUCACIÓN DEL ESTADO
 M. EN C. FRANCISCO RAMÓN TALLABS ORTEGA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o inferior rango que se opongan al presente Decreto.
+
+TERCERO.- Inscríbase el presente Decreto en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por el artículo 35 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
