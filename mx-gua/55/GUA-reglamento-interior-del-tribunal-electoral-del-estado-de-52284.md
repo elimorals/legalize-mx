@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-electoral-del-estado-de-52284"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-27"
-last_updated: "2008-09-23"
+last_updated: "2009-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de octubre de 2006.
 
@@ -1105,6 +1105,10 @@ La autoridad responsable y los terceros interesados, podrán comparecer y aporta
 
 Tratándose de recursos de revisión interpuestos por los ciudadanos, en los que se hagan valer presuntas violaciones a sus derechos político-electorales, el plazo a que alude el primer párrafo del artículo 301 del Código Electoral, será de veinte días hábiles.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2009)</small>
+
+El plazo mencionado, será igualmente aplicable tratándose de recursos de revisión promovidos en contra de actos o resoluciones en materia de participación ciudadana.
+
 ### CAPÍTULO QUINTO. DEL PROCEDIMIENTO ESPECIAL DE SANCIÓN
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
@@ -1150,6 +1154,10 @@ La presidencia turnará las comunicaciones, una vez radicadas y efectuado el emp
 ###### Artículo 97.
 
 la prórroga a que se refiere el artículo 365, tercer párrafo del Código Electoral, podrá ser autorizada por el Pleno a petición del Magistrado ponente, sin que en ningún caso exceda de diez días hábiles.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2009)</small>
+
+El cómputo del plazo previsto en dicho precepto legal para la emisión de la resolución respectiva, se hará a partir del día siguiente a aquél en que el expediente sea turnado al magistrado ponente, por lo que no se contabilizarán los días que hubiesen sido necesarios para la recepción y desahogo de pruebas legalmente ofrecidas.
 
 ###### Artículo 98.
 
@@ -1253,9 +1261,11 @@ Todas las notificaciones surtirán sus efectos a partir del día siguiente a aqu
 
 El procedimiento laboral a que se refiere este título se substanciará y resolverá conforme a las disposiciones del Código Electoral y del Reglamento. A falta de disposiciones procesales en los ordenamientos señalados en este precepto, se aplicará la Ley del Trabajo de los Servidores Públicos, la Ley Federal de los Trabajadores al Servicio del Estado y la Ley Federal del Trabajo.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 114.
 
-Las demandas laborales deberán presentarse dentro de los 30 días naturales siguientes al acto o resolución del que provenga el conflicto o diferencia.
+Las demandas laborales deberán presentarse en los plazos previstos por los artículos 104 a 107 de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
 
 ###### Artículo 115.
 
@@ -1408,3 +1418,7 @@ P.O. 23 DE SEPTIEMBRE DE 2008.
 Artículo Primero.- El presente Acuerdo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- La denominación de Tribunal Estatal Electoral, establecida en otras disposiciones administrativas emitidas por el Pleno, se entenderá referida al Tribunal Electoral del Estado de Guanajuato, para todos los efectos legales.
+
+P.O. 6 DE NOVIEMBRE DE 2009.
+
+Artículo Único.- El presente Acuerdo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
