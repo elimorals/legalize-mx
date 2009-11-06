@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44324"
 country: "mx"
 rank: "otro"
 publication_date: "2002-09-03"
-last_updated: "2009-02-17"
+last_updated: "2009-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,27 +19,33 @@ issue_date: "2002-08-30"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 8 (PERU, 1987)
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA DE CUBA, DE LA REPUBLICA DE PANAMA Y DE LA REPUBLICA DEL PERU
+ACUERDO POR EL QUE SE DAN A CONOCER LAS PREFERENCIAS ARANCELARIAS QUE OTORGAN LOS ESTADOS UNIDOS MEXICANOS A LA REPUBLICA DEL PERU EN EL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 8
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de febrero de 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ACUERDO ENTRARA EN VIGOR EL 1 DE ENERO DE 2010.</small>
+
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 6 de noviembre de 2009.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-GERARDO RUIZ MATEOS, Secretario de Economía, con fundamento en los artículos 34, fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 5o. fracción V, 6o., 13, 23 y 24 segundo párrafo de la Ley de Comercio Exterior; 14, 16, 26, 31 y 32 del Reglamento de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+Con fundamento en los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 34 de la Ley Orgánica de la Administración Pública Federal; 5o., fracción X de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que nuestro país es parte del Tratado de Montevideo 1980, que instituye la Asociación Latinoamericana de Integración (ALADI), dentro de la cual se ha negociado con los distintos estados miembros y con países de América Central y del Caribe, preferencias arancelarias sujetas a cupo;
+Que el 28 de diciembre de 1980 el Senado de la República aprobó el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración;
 
-Que el 20 de agosto de 1985 se publicó el Acuerdo que regula la distribución de los cupos de importación negociados en el seno de la ALADI, al amparo del Tratado de Montevideo 1980, para administrar los cupos establecidos para Argentina, Cuba, Chile, Brasil, Guatemala, Honduras, El Salvador, Nicaragua, Uruguay, Panamá y Perú;
+Que en el marco del Tratado de Montevideo 1980, los gobiernos de los Estados Unidos Mexicanos y la República del Perú, suscribieron el 25 de marzo de 1987, el Acuerdo de Complementación Económica No. 8 (ACE 8), el cual establece diversas preferencias arancelarias que se otorgan las Partes;
 
-Que el 16 de mayo de 2008 se publicó en el Diario Oficial de la Federación el Decreto para la aplicación del Acuerdo de Alcance Parcial No. 14, suscrito al amparo del Artículo 25 del Tratado de Montevideo 1980, entre los Estados Unidos Mexicanos y la República de Panamá, el cual establece diversas preferencias arancelarias otorgadas por México a dicho país;
+Que en el ACE 8 se han incorporado disposiciones y preferencias arancelarias hasta su Noveno Protocolo Adicional, el cual prorrogó la vigencia del Acuerdo hasta el 31 de diciembre de 2009;
 
-Que las preferencias pactadas al amparo del Artículo 25 del Tratado de Montevideo 1980, son extensivas a los países miembros de la ALADI de menor desarrollo económico relativo, como es el caso de las Repúblicas del Ecuador y del Paraguay, y
+Que el 30 de septiembre de 2009 los gobiernos de los Estados Unidos Mexicanos y la República del Perú suscribieron el Décimo Protocolo Adicional al ACE 8, con el propósito de prorrogar hasta el 31 de diciembre de 2011 la vigencia de dicho Acuerdo;
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que en el Protocolo a que hace referencia el considerando anterior, los Estados Unidos Mexicanos y la República del Perú acordaron también que si antes de que concluya la vigencia del ACE 8 suscriben un instrumento que lo amplíe y profundice, dicho Acuerdo quedará prorrogado hasta la entrada en vigor del referido instrumento;
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA DE CUBA, DE LA REPUBLICA DE PANAMA Y DE LA REPUBLICA DEL PERU
+Que el 21 de octubre de 2009 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el Décimo Protocolo Adicional al Acuerdo de Complementación Económica No. 8 suscrito entre los Estados Unidos Mexicanos y la República del Perú, y
+
+Que el presente instrumento tiene por objeto facilitar la aplicación de las preferencias arancelarias que otorgan los Estados Unidos Mexicanos a las mercancías originarias de la República del Perú, dando a conocer las preferencias aplicables a la importación de dichas mercancías, se expide el siguiente
+
+ACUERDO POR EL QUE SE DAN A CONOCER LAS PREFERENCIAS ARANCELARIAS QUE OTORGAN LOS ESTADOS UNIDOS MEXICANOS A LA REPUBLICA DEL PERU EN EL ACUERDO DE COMPLEMENTACION ECONOMICA No. 8
 
 ###### ARTICULO PRIMERO.
 
@@ -83,8 +89,12 @@ en fracción arancelaria TIGIE: Cupo por periodo y país:
 
 . . . . . .”
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Acuerdo estará en vigor del 1 de enero de 2010 al 31 de diciembre de 2011.
 
-México, D.F., a 5 de febrero de 2009.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+SEGUNDO.- No obstante lo dispuesto en el artículo anterior, si los Estados Unidos Mexicanos y la República del Perú suscriben un instrumento que permita la ampliación y profundización del ACE 8, este Acuerdo quedará prorrogado hasta que dicho instrumento entre en vigor, de conformidad con el Décimo Protocolo Adicional al Acuerdo de Complementación Económica No. 8 suscrito entre los Estados Unidos Mexicanos y la República del Perú, publicado en el Diario Oficial de la Federación el 21 de octubre de 2009.
+
+Para tal efecto, la Secretaría de Economía publicará un aviso en el Diario Oficial de la Federación en el que dé a conocer que esta condición se ha cumplido, y que por tanto el presente Acuerdo queda prorrogado.
+
+México, D.F., a 28 de octubre de 2009.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
