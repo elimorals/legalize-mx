@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2009-del-pleno-del-consejo-de-la-68808"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-06-12"
-last_updated: "2009-06-12"
+last_updated: "2009-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68808&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 ACUERDO GENERAL 21/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGION, CON RESIDENCIA EN EL DISTRITO FEDERAL, CON JURISDICCION EN LA REPUBLICA MEXICANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE NOVIEMBRE DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de junio de 2009.
 
@@ -51,9 +51,11 @@ ACUERDO
 
 PRIMERO. El Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, tendrá competencia y jurisdicción en toda la República, su domicilio estará en el inmueble ubicado en avenida Insurgentes Sur número 1888, colonia Florida, delegación Alvaro Obregón, en México, Distrito Federal, código postal 01030, e iniciará funciones el dieciséis de junio de dos mil nueve, el cual funcionará conforme a lo establecido en el Acuerdo General 20/2009 del Pleno del Consejo de la Judicatura Federal.
 
-SEGUNDO. El Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, apoyará en el dictado de sentencias a los juzgados de Distrito que determine la Comisión de Creación de Nuevos Organos.
+> <small>(REFORMADO POR PUNTO UNICO DEL ACUERDO GENERAL 57/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2009)</small>
 
-La Comisión de Creación de Nuevos Organos a propuesta de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, determinará el tiempo, número y cualidad de los asuntos que deberán enviar a la Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+SEGUNDO. El Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, será especializado en Materia de Extinción de Dominio y además apoyará a los juzgados de Distrito de toda la República en el dictado de sentencias.
+
+La Comisión de Creación de Nuevos Organos a propuesta de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, determinará el inicio en el apoyo de los asuntos relativos a la Ley Federal de Extinción de Dominio, así como la logística de envío. Asimismo y con respecto de los asuntos de su competencia auxiliar la propia Comisión determinará el tiempo, número y cualidad de los asuntos que se deberán enviar a la Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
 TERCERO. Las circunstancias no previstas en este acuerdo serán resueltas por el Pleno del Consejo de la Judicatura Federal o las Comisiones de Administración, de Carrera Judicial, de Adscripción, y de Creación de Nuevos Organos, en la esfera de su competencia.
 
@@ -64,3 +66,13 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 21/2009, del Pleno del Consejo de la Judicatura Federal, Relativo al Inicio de Funciones del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con Residencia en el Distrito Federal, con Jurisdicción en la República Mexicana, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintisiete de mayo de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, María Teresa Herrera Tello, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a cinco de junio de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE NOVIEMBRE DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 21/2009, del Pleno del Consejo de la Judicatura Federal, Relativo al Inicio de Funciones del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, con Jurisdicción en la República Mexicana.
