@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2009-05-15"
+last_updated: "2009-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -407,9 +407,9 @@ VII.- Le serán facilitados todos los datos que solicite para su defensa y que c
 
 VIII.- Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediera de ese término, salvo que solicite mayor plazo para su defensa.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2009)</small>
 
-IX.- Desde el inicio de su proceso será informado de los derechos que en su favor consigna esta Constitución y tendrá derecho a una defensa adecuada, por sí, por abogado o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el juez o tribunal le designará un defensor de oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera, y
+IX.- Desde el inicio de su proceso será informado de los derechos que en su favor consigna esta Constitución y tendrá derecho a una defensa adecuada por abogado con cédula profesional debidamente registrada ante autoridad competente al efecto, que lo acredite como Licenciado en Derecho, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el juez o tribunal le designará un defensor de oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá la obligación de hacerlo cuantas veces se le requiera; y
 
 X.- En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
@@ -629,7 +629,7 @@ La calidad de ciudadano quintanarroense se pierde por sentencia ejecutoria, dict
 
 El territorio del Estado de Quintana Roo, comprende:
 
-I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paraleleo (sic) que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
+I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paraleleo que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
 
 II.- Las islas de: Cozumel, Cancún, Mujeres, Blanca y Contoy, situadas en el Mar Caribe y la de Holbox en el Golfo de México, así como las islas, islotes, cayos y arrecifes adyacentes a su litoral.
 
@@ -3304,3 +3304,7 @@ Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el pres
 P.O. 15 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2009.
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
