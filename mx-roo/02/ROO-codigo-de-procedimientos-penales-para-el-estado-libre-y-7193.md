@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2009-09-30"
+last_updated: "2009-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2009.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -131,9 +131,9 @@ I.- Para la querella, tratándose de personas físicas y en este caso el mandato
 
 II.- Para la querella y denuncia, tratándose de personas morales y en este caso basta el mandato general para pleitos y cobranzas, con cláusula especial para formular querellas y denuncias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2009)</small>
 
-#### SECCION SEGUNDA.- Reglas especiales para la práctica de diligencias y levantamiento de actas de averiguación previa
+#### SECCION SEGUNDA.- Reglas Especiales para la Práctica de Diligencias y Levantamiento de Actas de Averiguación Previa
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
@@ -195,13 +195,11 @@ El agente del Ministerio Público que inicie una averiguación previa podrá cit
 
 En el acta respectiva, se hará constar quien mencionó a la persona que haya de citarse o porqué motivo el funcionario que practique la diligencia estimó conveniente hacer la citación.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 21.
 
-Todo inculpado gozará de las garantías previstas en las fracciones V, VI y IX del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
-
-Los defensores de los inculpados deberán acompañar en todo momento a sus defensos y estar presentes en todas las diligencias procesales, desde el momento de su detención. Podrán impugnar las preguntas que se formulen a sus defensos que sean inconducentes o contra derecho, pero no podrán inducir sus respuestas. Si lo hiciere el defensor será amonestado y se le apercibirá conjuntamente con el declarante que en caso de reincidencia no se le permitirá ninguna intervención en apoyo de su defenso, y que se procederá en consecuencia en los términos de la fracción IX del precepto constitucional citado.
+Desde el momento de su detención, todo inculpado gozará de las garantías que en su favor consigna la Constitución Política de los Estados Unidos Mexicanos, lo que se le hará saber, y tendrá derecho a una defensa adecuada por abogado con cédula profesional debidamente registrada que lo acredite como Licenciado en Derecho; si no puede o no quiere nombrar defensor después de haber sido requerido para hacerlo, se le designará a un defensor de oficio. También tendrá derecho a que su abogado defensor comparezca en todos los actos de la averiguación previa y del proceso, y éste tendrá la obligación de hacerlo cuantas veces se le requiera, debiendo los defensores de los inculpados acompañar en todo momento a sus defensos. Los defensores podrán impugnar las preguntas que se formulen a sus defensos que sean inconducentes o contra derecho, pero no podrán inducir sus respuestas. Si lo hiciere el defensor será amonestado y se le apercibirá conjuntamente con el declarante que en caso de reincidencia se harán acreedores a las correcciones disciplinarias previstas en el presente Código.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
@@ -465,7 +463,9 @@ Cuando en un asunto penal sea necesario comprobar un derecho civil, se hará est
 
 En el procedimiento sumario la instrucción se practicará según lo dispuesto en los artículos 465 y siguientes.
 
-#### SECCION SEGUNDA.- Declaración preparatoria y nombramiento de defensor
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2009)</small>
+
+#### SECCION SEGUNDA.- Declaración Preparatoria y Nombramiento de Defensor
 
 ###### Artículo 55.
 
@@ -487,11 +487,15 @@ Igualmente se le dará a conocer las garantías que le otorga el indicado precep
 
 Acto continuo, se le hará saber en qué consiste la denuncia, acusación o querella, los hechos típicos del delito o delitos que se le imputan, así como el nombre o los nombres de sus acusadores y de los testigos que declaren en su contra.
 
-Se le preguntará si es su voluntad declarar y en el caso de que así lo desee, le será recibida ésta con la mayor fidelidad y se le examinará sobre los hechos conforme a lo dispuesto en el artículo siguiente, haciéndole saber de su derecho de que éste presente su defensor o persona de su confianza en el momento de su declaración consignados.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2009)</small>
+
+Se le preguntará si es su voluntad declarar y en el caso que así lo desee, le será recibida ésta con lo mayor fidelidad y se le examinará sobre los hechos conforme a lo dispuesto en el artículo siguiente.
 
 Si el inculpado decide no declarar, el Juez respetará su voluntad dejando constancia de ello en el expediente.
 
-Se hará saber también al inculpado el derecho que tiene para defenderse por sí mismo o para nombrar persona de su confianza que lo defienda, advirtiéndole que si no lo hiciere, el Juez le nombrará un defensor de oficio.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2009)</small>
+
+Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente e incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantos veces se le requiera.
 
 ###### Artículo 58.
 
@@ -3862,3 +3866,7 @@ P.O 30 DE SEPTIEMBRE DE 2009.
 PRIMERO.- Esta reforma al Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo comenzará a regir al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor de la presente reforma, serán concluidos conforme a las formalidades de que sus actuaciones se levanten por duplicado, ser autorizadas y conservarse en sus respectivos archivos.
+
+P.O. 6 DE NOVIEMBRE DE 2009.
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
