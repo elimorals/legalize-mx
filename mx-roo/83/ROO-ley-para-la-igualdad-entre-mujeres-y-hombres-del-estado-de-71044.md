@@ -1,0 +1,852 @@
+---
+title: "LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO"
+identifier: "ROO-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-71044"
+country: "mx"
+rank: "ley"
+publication_date: "2009-11-06"
+last_updated: "2009-11-06"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71044&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-roo"
+scjn_id: "71044"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "87 EXTRAORDINARIO"
+reform_count: "6"
+scjn_last_update: "2025-12-10"
+issue_date: "2009-11-06"
+state: "ROO"
+---
+# LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO
+
+LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE QUINTANA ROO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de noviembre de 2009.
+
+DECRETO NÚMERO: 177
+
+QUE CONTIENE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO.
+
+LA HONORABLE XII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
+
+D E C R E T A:
+
+LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO I. OBJETO Y APLICACIÓN
+
+###### ARTÍCULO 1.
+
+Las disposiciones de esta ley son de orden público e interés social y de observancia general en el territorio del Estado Libre y Soberano de Quintana Roo, y tiene por objeto regular y garantizar el derecho a la igualdad entre mujeres y hombres mediante los mecanismos institucionales y de aceleramiento para la igualdad así como a través de las políticas públicas de equiparación que permitan en el estado, la materialización de la igualdad sustantiva o real en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres.
+
+###### ARTÍCULO 2.
+
+La aplicación y debida observancia de la presente ley, será en los ámbitos público y privado, y corresponde a la Administración Pública Estatal y Municipal del Estado, de conformidad con sus respectivas competencias, tomar las medidas presupuestales y administrativas necesarias que permitan garantizar la igualdad sustantiva y de trato, sin discriminación de cualquier tipo.
+
+###### ARTÍCULO 3.
+
+Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en el territorio del Estado Libre y Soberano de Quintana Roo, y que en razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, residencia, condición social, salud, religión, opinión o discapacidad, se encuentren con algún tipo de desventaja, trato diferenciado o ante la violación del principio de igualdad que esta ley tutela.
+
+###### ARTÍCULO 4.
+
+Son principios rectores que favorecen a la igualdad sustantiva o real prevista por la presente ley:
+
+I. La accesibilidad de derechos;
+
+II. La no discriminación;
+
+III. La racionalidad pragmática;
+
+IV. La seguridad y certeza jurídica;
+
+V. La sostenibilidad social;
+
+VI. La democracia de género;
+
+VII. La paridad genérica; y
+
+VIII. Los contenidos en la Constitución Federal y en los instrumentos internacionales en la materia.
+
+La transgresión a los principios y programas que esta Ley prevé será sancionada de acuerdo a lo dispuesto por la misma y otros ordenamientos aplicables.
+
+###### ARTÍCULO 5.
+
+Para los efectos de esta ley se entenderá por:
+
+I. Accesibilidad: Es el conjunto de condiciones que permiten la facilidad para ejercer los derechos de los cuales son titulares las personas, de una manera comprensible e independiente;
+
+II. Acompañamiento sustantivo: Procedimiento que corrige y sanciona los actos de discriminación y de desigualdad que realizan las instituciones públicas y privadas;
+
+III. Discriminación: Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, idioma, religión, opiniones, preferencias sexuales, estado civil, obligaciones familiares o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+
+IV. Empoderamiento: Es el proceso por medio del cual una persona logra conducirse con autonomía y autoindependencia, ejerciendo plenamente sus derechos y toma de decisiones libremente, sin coacciones ni imposiciones de ningún tipo;
+
+V. Equidad de género: Concepto conforme el cual mujeres y hombres acceden con justicia e igualdad, al uso, control y beneficio de los bienes y servicios de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida política, económica, social, cultural, familiar, laboral y de educación;
+
+VI. Estereotipo: Es una representación social compartida por un grupo, comunidad, sociedad o país que define de manera simplificada y generalizada a las personas a partir de convencionalismos o informaciones desvirtuadas que no toman en cuenta sus verdaderas características, capacidades y sentimientos;
+
+VII. Género: Conjunto de ideas, creencias y atribuciones sociales, construidas en cada cultura y momento histórico, tomando como base la diferencia sexual, determinando así el comportamiento, funciones, oportunidades, valoración y relaciones entre mujeres y hombres;
+
+VIII. Igualdad: Capacidad de toda persona de tener y disfrutar de los mismos derechos, oportunidades y obligaciones que otra, eliminando todo tipo de discriminación;
+
+IX. Instituto: El instituto Quintanarroense de la Mujer;
+
+X. Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo;
+
+XI. Medidas compensatorias: Son las acciones del Estado tendientes a disminuir el impacto generado por la discriminación, la desigualdad o cualquier tipo de victimización, prevista en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo;
+
+XII. Medidas especiales: Es el conjunto de acciones de carácter temporal encaminadas a acelerar la igualdad sustantiva de hecho entre mujeres y hombres, las cuales cesarán cuando se alcance dicha igualdad;
+
+XIII. Medidas permanentes: Es el conjunto de modificaciones jurídicas o estructurales a los diversos ordenamientos del Estado y a las prácticas sociales y culturales de buen trato para la construcción de la igualdad real o sustantiva;
+
+XIV. Oficial de Género: El Oficial de Género del Instituto Quintanarroense de la Mujer, cuya función principal es ejecutar el procedimiento de acompañamiento sustantivo;
+
+XV. Paralegales: Personas capacitadas en materia jurídica que brindan servicios de asesoría legal de manera inmediata, a otras personas que por sus condiciones socioeconómicas así lo requieran;
+
+XVI. Perspectiva de género: Es la categoría científica, analítica y política que revisa las relaciones, construcciones y significados sociales entre mujeres y hombres, a partir de las diferencias biológicas, eliminado (sic) la opresión de género, que se base en la desigualdad y discriminación;
+
+XVII. Política Estatal de Igualdad: Es el conjunto de acciones para mejorar la situación de las mujeres y niñas en la sociedad con miras a la construcción fáctica de la igualdad;
+
+XVIII. Programa Estatal: Programa Estatal para la Igualdad entre Mujeres y Hombres;
+
+XIX. Racionalidad pragmática: El conjunto de razones para hacer práctica la igualdad, el ejercicio de los derechos y la toma de decisiones;
+
+XX. Sexo: Conjunto de diferencias biológicas, anatómicas y fisiológicas de los seres humanos que los definen como hombres o mujeres;
+
+XXI. Sexismo: Discriminación de personas de un sexo por considerarlo inferior a otro;
+
+XXII. Sistema Estatal: El Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo; y
+
+XXIII. Transversalidad: Es un proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres, cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+
+###### ARTÍCULO 6.
+
+La rectoría y operación de la política en materia de igualdad sustantiva en el Estado, estará cargo del Ejecutivo Estatal, quien la ejercerá a través del Instituto con base en las disposiciones de la presente ley.
+
+En concordancia con la legislación nacional en la materia y los instrumentos internacionales suscritos y ratificados por el Estado Mexicano, en lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, Ley del Instituto Quintanarroense de la Mujer, Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo y demás disposiciones contempladas en otras leyes sobre la materia.
+
+### CAPÍTULO II. DE LA IGUALDAD SUSTANTIVA
+
+###### ARTÍCULO 7.
+
+La igualdad sustantiva o real, parte de la necesidad de otorgar derechos y articular políticas públicas de manera fáctica e inmediata para quienes carecen de ello, y que se encuentran en desventaja y desigualdad en relación a otros, por lo que requieren dichos derechos y acciones para establecer la igualdad de hecho, siendo parte de ésta:
+
+I. La igualdad jurídica;
+
+II. La igualdad de oportunidades;
+
+III. La igualdad salarial; y
+
+IV. La igualdad de género.
+
+###### ARTÍCULO 8.
+
+La igualdad entre mujeres y hombres implica la eliminación de toda forma de discriminación, en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo, origen étnico, edad, discapacidad, preferencia sexual, condición social o económica, estado civil, obligaciones familiares, condiciones de salud, embarazo, lengua, religión, opiniones, o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades.
+
+###### ARTÍCULO 9.
+
+La discriminación puede ser directa o indirecta:
+
+I. Discriminación directa. Aquella que obedece a cualquier estereotipo o motivo de los enumerados en el artículo anterior y que impide el ejercicio pleno de los derechos.
+
+II. Discriminación indirecta. Aquella que aparenta construirse en la neutralidad e imparcialidad entre mujeres y hombres, y que anula e invisibiliza a las primeras.
+
+## TÍTULO SEGUNDO. DE LOS ÁMBITOS DE OPERACIÓN DE LA IGUALDAD SUSTANTIVA
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+###### ARTÍCULO 10.
+
+Los ámbitos de operación de la igualdad sustantiva serán los siguientes: jurídico, económico, político, social, cultural, acceso a la justicia, seguridad pública, comunitario y familiar.
+
+Las acciones comunes de este título y que deberán observar las autoridades correspondientes serán:
+
+I. Reforzar la cooperación y coordinación entre Estado y Municipios, para supervisar la aplicación de las acciones que establece el presente título;
+
+II. Difundir en la sociedad el contenido de esta Ley; y
+
+III. Realizar el seguimiento y evaluación de la aplicación de la legislación existente en cada uno de los ámbitos de operación de la Ley.
+
+### CAPÍTULO II. DE LA IGUALDAD JURÍDICA ENTRE MUJERES Y HOMBRES
+
+###### ARTÍCULO 11.
+
+La Política Estatal de Igualdad en materia de igualdad jurídica tendrá como objetivos:
+
+I. La eliminación de tratos diferenciados en las normas y prácticas jurídicas, a partir del sexo de las y los ciudadanos;
+
+II. El acceso a la justicia y la socialización del derecho con perspectiva de género;
+
+III. La armonización normativa de la legislación estatal y municipal con los instrumentos internacionales que favorecen los derechos humanos de las mujeres y eliminan la discriminación;
+
+IV. La armonización judicial, que permita que las resoluciones y determinaciones del Poder Judicial del Estado se motiven y fundamenten en los instrumentos internacionales señalados en la fracción anterior; y
+
+V. Privilegiar la suplencia de la queja para las mujeres cuando sea procedente, a fin de establecer una igualdad entre desiguales.
+
+### CAPÍTULO III. DE LA IGUALDAD DE OPORTUNIDADES ENTRE MUJERES Y HOMBRES
+
+###### ARTÍCULO 12.
+
+La igualdad de oportunidades, es el acceso al pleno desarrollo en el ámbito público y privado de las mujeres y los hombres en las mismas condiciones, considerando la necesidad de articular mecanismos especiales que la garanticen, los cuales bajo ninguna circunstancia podrán ser considerados como prácticas discriminatorias.
+
+### CAPÍTULO IV. DE LA IGUALDAD ECONÓMICA ENTRE MUJERES Y HOMBRES
+
+###### ARTÍCULO 13.
+
+Serán objetivos de la Política Estatal de Igualdad en materia económica:
+
+I. Vigilar el otorgamiento de salarios iguales a mujeres y hombres por trabajos iguales en condiciones iguales, dentro de la Administración Pública Estatal y Municipal, Poderes Legislativo y Judicial, en los órganos autónomos, así como en los ámbitos social y privado;
+
+II. Determinar las acciones necesarias para el acceso igualitario de mujeres y hombres a los procesos productivos;
+
+III. Establecer fondos para la promoción de la igualdad en el trabajo;
+
+IV. Supervisar que las condiciones laborales no sean discriminatorias para las mujeres y hombres en razón de sus obligaciones familiares; e
+
+V. Instaurar el principio de la paridad genérica en la conformación de la planta laboral de la Administración Pública Estatal y Municipal.
+
+###### ARTÍCULO 14.
+
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Diseñar y aplicar lineamientos que aseguren la igualdad en el ingreso, selección, permanencia y profesionalización del personal de los Poderes Ejecutivo, Judicial y Legislativo, así como de los Municipios;
+
+II. Establecer acciones de capacitación, educación y formación para el trabajo, de las personas que en razón de su edad y sexo están relegadas;
+
+III. Potenciar el acceso en condiciones de igualdad de las personas que en razón de su edad y sexo están relegadas de puestos directivos en los ámbitos público y privado, así como destinar recursos para fomentar su contratación;
+
+IV. Favorecer que los servicios profesionales de carrera del Estado y de los Municipios promuevan la paridad genérica en los puestos que se consideran para tal efecto en los ordenamientos en la materia;
+
+V. Revisar los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
+
+VI. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral y económica;
+
+VII. Financiar las acciones de información, concientización y sensibilización destinadas a fomentar la igualdad económica entre mujeres y hombres; e
+
+VIII. Impulsar la participación activa de las mujeres en el desarrollo económico del Estado.
+
+### CAPÍTULO V. DE LA IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES
+
+###### ARTÍCULO 15.
+
+El objetivo de la Política Estatal de Igualdad en materia de participación política, será garantizar la participación en igualdad de oportunidades en la toma de decisiones políticas y de gobierno, entre mujeres y hombres.
+
+###### ARTÍCULO 16.
+
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Favorecer el trabajo legislativo con perspectiva de género;
+
+II. Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos;
+
+III. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre ocupación de cargos de elección popular y cargos directivos en los sectores público, privado y de la sociedad civil;
+
+IV. Vigilar que se garantice la participación e integración equilibrada de mujeres y hombres en cargos de elección popular estatal y municipal;
+
+V. Promover la participación y representación equitativa de mujeres y hombres dentro de las estructuras de los sindicatos y partidos políticos en el Estado; y
+
+VI. Establecer los lineamientos para la evaluación de estas acciones.
+
+### CAPÍTULO VI. DE LA IGUALDAD SOCIAL Y CULTURAL ENTRE MUJERES Y HOMBRES
+
+###### ARTÍCULO 17.
+
+Serán objetivos de la Política Estatal de Igualdad en materia de derechos sociales y culturales:
+
+I. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad y atienden situaciones de crisis;
+
+II. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género en todos sus tipos y modalidades;
+
+III. Favorecer el cambio de los roles de género en la sociedad, para crear mayores condiciones de igualdad; e
+
+IV. Impulsar acciones que aseguren la igualdad de acceso de mujeres y hombres a la alimentación, la educación, la cultura, la seguridad social y la salud.
+
+###### ARTÍCULO 18.
+
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Integrar el principio de igualdad en el ámbito de la protección social;
+
+II. Promover campañas de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos;
+
+III. Impulsar reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en los ámbitos público y privado;
+
+IV. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia;
+
+V. Fomentar la participación activa de las mujeres en la creación y en la producción artística, intelectual y científica del Estado;
+
+VI. Garantizar que la educación en todos sus niveles se realice bajo el principio de igualdad entre mujeres y hombres, creando conciencia de la necesidad de eliminar toda forma de discriminación;
+
+VII. Asegurar el acceso igualitario a los programas sociales implementados por el Estado y la Federación dentro del territorio estatal;
+
+VIII. Promover la equidad de género entre mujeres y hombres en el acceso igualitario para la práctica del deporte amateur y profesional;
+
+IX. Impulsar la paridad genérica en la integración de los órganos de gobierno o su equivalente, en las instituciones de educación técnica y superior en el Estado; y
+
+X. Efectuar estudios sobre la pobreza con datos desagregados por sexo, a fin de diseñar políticas públicas que la eliminen.
+
+### CAPÍTULO VII. DE LA IGUALDAD EN EL ACCESO A LA JUSTICIA Y A LA SEGURIDAD PÚBLICA
+
+###### ARTÍCULO 19.
+
+Serán objetivos de la Política Estatal de Igualdad en materia de acceso a la justicia y seguridad pública:
+
+I. Diseñar los lineamientos para la accesibilidad a la justicia en igualdad de oportunidades;
+
+II. Garantizar la asistencia jurídica a quienes presenten desigualdad por motivos de edad o de sexo, o hayan vivido algún tipo de discriminación;
+
+III. Impulsar la aplicabilidad de la legislación en materia de igualdad y violencia de género;
+
+IV. Eliminar el trato diferenciado en los sistemas de procuración y administración de justicia; y
+
+V. Garantizar la seguridad pública de las mujeres.
+
+###### ARTÍCULO 20.
+
+La accesibilidad a la ley debe buscar en los sistemas de procuración y administración de justicia:
+
+I. El cambio de percepción e ideología de los operadores de dichos sistemas;
+
+II. La agilización de los procedimientos, evitando formalismos que alarguen el juicio y por tanto dificulten la posibilidad de acceder a una justicia real; y
+
+III. El establecimiento de sistemas de información con datos desagregados por sexo.
+
+###### ARTÍCULO 21.
+
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Garantizar la existencia de abogados que otorguen asistencia jurídica a las mujeres para eliminar las desigualdades en el acceso a la justicia;
+
+II. Impulsar la capacitación y sensibilización de las y los servidores públicos encargados de la procuración y administración de justicia, en materia de igualdad entre mujeres y hombres;
+
+III. Establecer los mecanismos para la atención de las víctimas en todos los tipos y modalidades de violencia;
+
+IV. Incorporar el servicio de traductores de la lengua maya en las áreas de la procuración y administración de justicia donde se requiera;
+
+V. Otorgar seguridad pública considerando las necesidades específicas de las mujeres y los hombres;
+
+VI. Difundir en la sociedad el conocimiento de sus derechos y los mecanismos para su exigibilidad; y
+
+VII. Promover la conformación de paralegales para la socialización de los derechos de las mujeres y la asesoría legal de las mujeres.
+
+### CAPÍTULO VIII. DE LA IGUALDAD EN EL AMBITO FAMILIAR Y COMUNITARIO ENTRE MUJERES Y HOMBRES
+
+###### ARTÍCULO 22.
+
+Serán objetivos de la Política Estatal de Igualdad en materia comunitaria y familiar:
+
+I. Privilegiar la difusión de los derechos humanos de las mujeres en la comunidad;
+
+II. Fomentar la democracia al interior de (sic) familia, así como el respeto a la autonomía y decisión de sus miembros;
+
+III. Fortalecer el empoderamiento de las mujeres en la comunidad; y
+
+IV. Proteger a quienes viven algún tipo de violencia en la comunidad o en la familia.
+
+###### ARTÍCULO 23.
+
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Promover la eliminación de los modelos de sumisión y subordinación de unos a otros al interior de la familia, propiciando una mayor igualdad entre mujeres y hombres;
+
+II. Apoyar las actividades de interlocución ciudadana respecto a la legislación en materia de igualdad entre las mujeres y los hombres;
+
+III. Establecer los mecanismos para la atención de las víctimas de violencia; y
+
+IV. Efectuar campañas sobre masculinidad respetuosa y equitativa en la comunidad y en la familia.
+
+### CAPÍTULO IX. DE LA ELIMINACIÓN DE LA DISCRIMINACIÓN GENERADA POR ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
+
+###### ARTÍCULO 24.
+
+Será objetivo de la Política Estatal de Igualdad, la eliminación de los estereotipos que fomentan la discriminación y la violencia de género.
+
+###### ARTÍCULO 25.
+
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Implementar acciones que contribuyan a erradicar toda discriminación basada en estereotipos de género en la familia, en el trabajo, en la escuela, en las instituciones, y en otros espacios de convivencia entre mujeres y hombres;
+
+II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+III. Promover en los medios de comunicación, impresos y electrónicos, así como en cualquier tipo de publicidad, la erradicación de estereotipos de género que reproducen la desigualdad entre mujeres y hombres; y
+
+IV. Fomentar el uso no sexista del lenguaje en los medios de comunicación, anuncios colocados en la vía pública, correspondencia de la administración pública estatal y municipal, y en la expedición de títulos académicos.
+
+## TÍTULO TERCERO. DE LAS AUTORIDADES
+
+### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y LA COORDINACIÓN INTERINSTITUCIONAL
+
+###### ARTÍCULO 26.
+
+El Estado y los Municipios ejercerán sus atribuciones en materia de esta ley, de conformidad con la distribución de competencias previstas en la misma y en otros ordenamientos aplicables.
+
+### CAPÍTULO II. DEL EJECUTIVO ESTATAL
+
+###### ARTÍCULO 27.
+
+Corresponde al Titular del Ejecutivo Estatal:
+
+I. Elaborar y conducir la Política Estatal de Igualdad, en concordancia con las políticas nacional y municipal, a fin de cumplir con lo establecido en la presente ley;
+
+II. Celebrar acuerdos de carácter estatal, nacional y municipal, relativos a la coordinación, cooperación y concertación en materia de igualdad de género;
+
+III. Aprobar el Programa Estatal de Igualdad;
+
+IV. Garantizar la igualdad sustantiva y sus principios rectores, mediante la adopción de políticas, programas, proyectos y la debida aplicación de las medidas que esta ley prevé;
+
+V. Crear y fortalecer las instancias administrativas que se ocupen del adelanto de las mujeres en el Estado y sus Municipios;
+
+VI. Efectuar la planeación y previsión para incorporar en los Presupuestos de Egresos del Estado la asignación de partidas destinadas al cumplimiento de la Política de Igualdad;
+
+VII. Implementar en coordinación con las dependencias de la Administración Pública Estatal y Municipal, la aplicación y difusión de la presente Ley;
+
+VIII. Promover la participación de la ciudadanía y organizaciones de la sociedad civil, en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la Política Estatal de Igualdad entre mujeres y hombres;
+
+IX. Evaluar periódicamente la aplicación de la presente ley; y
+
+X. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+
+El Ejecutivo Estatal será el encargado de ejercer y operar estas atribuciones a través de la Administración Pública Estatal en su conjunto.
+
+###### ARTÍCULO 28.
+
+Corresponde al Instituto Quintanarroense de la Mujer:
+
+I. Coordinar las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa, con los principios que la ley señala;
+
+II. Elaborar los lineamientos sobre la rectoría de la igualdad sustantiva, y someterlos a la aprobación del Titular del Ejecutivo Estatal;
+
+III. Elaborar el Programa Estatal de Igualdad;
+
+IV. Coordinar los programas de igualdad entre mujeres y hombres de las dependencias y entidades de la Administración Pública Estatal;
+
+V. Formular propuestas a las dependencias competentes sobre la asignación de los recursos que requieran los programas de igualdad entre mujeres y hombres;
+
+VI. Efectuar el procedimiento de acompañamiento sustantivo;
+
+VII. Designar al o la Oficial de Género a las dependencias que así lo requieran con arreglo a la presente ley;
+
+VIII. Operar la Secretaria Ejecutiva del Sistema Estatal;
+
+IX. Favorecer la institucionalización de las buenas prácticas de igualdad en la Administración Pública Estatal;
+
+X. Recibir quejas contra actos de discriminación y desigualdad, para sustanciarlas en los términos previstos por esta Ley;
+
+XI. Aplicar las sanciones en los términos establecidos por esta Ley, independientemente de las acciones civiles, laborales o penales que pudieran desprenderse;
+
+XII. Determinar lineamientos para el diseño de políticas públicas en la materia;
+
+XIII. Celebrar los convenios y bases de colaboración con los diferentes sectores sociales, políticos, culturales y administrativos para la institucionalización de la igualdad en el Estado;
+
+XIV. Implementar los procedimientos de certificación de buenas prácticas de igualdad;
+
+XV. Promover, coordinar y realizar la revisión de programas y servicios en materia de igualdad;
+
+XVI. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres; y
+
+XVII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+
+### CAPÍTULO III. DEL CONGRESO DEL ESTADO Y EL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE QUINTANA ROO
+
+###### ARTÍCULO 29.
+
+El Congreso del Estado, con base a la Constitución Política del Estado Libre y Soberano de Quintana Roo, su Ley Orgánica y demás disposiciones reglamentarias, promoverá la armonización legislativa a que haya lugar, en materia de igualdad sustantiva entre mujeres y hombres, sin perjuicio de las normas que regulan la violencia de género y la no discriminación, evaluando anualmente la aplicación de las normas que se aprueben.
+
+###### ARTÍCULO 30.
+
+El Tribunal Superior de Justicia del Estado de Quintana Roo, con arreglo a su Ley Orgánica, y a las disposiciones de la Constitución del Estado Libre y Soberano de Quintana Roo, aplicará los principios y lineamientos que contempla la presente ley, y procurará:
+
+I. Que en sus resoluciones se realice la armonización judicial, en relación a los instrumentos internacionales aplicables, favoreciendo la igualdad sustantiva o real; y
+
+II. Que se institucionalice la perspectiva de género al interior del Poder Judicial, a través de mecanismos de capacitación permanente para favorecer las prácticas igualitarias.
+
+### CAPÍTULO IV. DE LOS MUNICIPIOS
+
+###### ARTÍCULO 31.
+
+De conformidad con lo dispuesto en la presente Ley sin perjuicio de lo señalado en la Ley de los Municipios del Estado de Quintana Roo, corresponde a los Municipios:
+
+I. Diseñar e implementar la Política Municipal en materia de igualdad entre mujeres y hombres, en concordancia con las Políticas Nacional y Estatal, coadyuvando con dichos órdenes de gobierno para la mejor aplicación de la ley;
+
+II. Planear, organizar y desarrollar en sus respectivas circunscripciones territoriales, Sistemas Municipales para la Igualdad entre Mujeres y Hombres, procurando su participación programática en el Sistema Estatal;
+
+III. Establecer los programas comunitarios y sociales para lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales;
+
+IV. Prever las necesidades presupuestarias con partidas especiales destinadas a la ejecución de los programas de igualdad;
+
+V. Garantizar la aplicación de la igualdad sustantiva que consagra la presente ley;
+
+VI. Vigilar las buenas prácticas de igualdad y no discriminación en la Administración Pública Municipal, en concordancia con los principios rectores de la ley; y
+
+VII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+
+###### ARTÍCULO 32.
+
+El Municipio a través de las instancias administrativas que se ocupen del adelanto de las mujeres, podrá suscribir convenios o acuerdos de coordinación con el Instituto, a fin de:
+
+I. Garantizar la igualdad sustantiva;
+
+II. Establecer la coordinación a que haya lugar con los otros órdenes de gobierno para lograr la transversalidad de la perspectiva de género en la función pública municipal;
+
+III. Desarrollar mecanismos especiales para la debida participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural, familiar y civil;
+
+IV. Solicitar en vía de colaboración, el acompañamiento sustantivo al Instituto, cuando así lo requiera el municipio;
+
+V. Designar al o la Oficial de Género municipal;
+
+VI. Recibir quejas sobre discriminación y prácticas de desigualdad;
+
+VII. Determinar el procedimiento que operará a la queja presentada y en su caso la posible sanción a la que se hagan acreedores; y
+
+VIII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+
+## TÍTULO CUARTO
+
+### CAPÍTULO I. DE LA INSTITUCIONALIZACIÓN DE LA IGUALDAD SUSTANTIVA
+
+###### ARTÍCULO 33.
+
+La institucionalización de la igualdad sustantiva o real, se implementará a través de la transversalización dando prioridad a:
+
+I. La elaboración periódica de diagnósticos focales y temáticos;
+
+II. El establecimiento de comités de género o en su caso, designación de enlaces de género al interior de las dependencias y entidades de la Administración Pública Estatal;
+
+III. Estrategias especializadas en los diferentes ámbitos de desarrollo político, económico y social; y
+
+IV. La elaboración de políticas públicas.
+
+###### ARTÍCULO 34.
+
+A fin de garantizar que los principios y estrategias de la igualdad sustantiva se institucionalicen con la debida transversalización, las políticas públicas que de manera general se articulen en el Estado deberán:
+
+I. Incorporar la perspectiva de género;
+
+II. Diseñar mecanismos especiales para que las mujeres en los diversos ámbitos de su desarrollo, alcancen la igualdad sustantiva prevista por este ordenamiento;
+
+III. Promover los registros estadísticos desagregados por sexo;
+
+IV. Impulsar las buenas prácticas de igualdad;
+
+V. Tener interlocutores en el sector social y privado; y
+
+VI. Establecer el seguimiento y evaluación de las acciones contempladas en esta Ley.
+
+### CAPÍTULO II. DE LA POLÍTICA ESTATAL DE IGUALDAD
+
+###### ARTÍCULO 35.
+
+La Política Estatal de Igualdad deberá establecer las acciones conducentes para lograr la igualdad sustantiva entre mujeres y hombres en los ámbitos: jurídico, económico, político, social, cultural, acceso a la justicia, seguridad pública, comunitario y familiar.
+
+###### ARTÍCULO 36.
+
+La Política Estatal de Igualdad que desarrolle el Ejecutivo Estatal deberá observar los siguientes lineamientos:
+
+I. Garantizar que la planeación presupuestal incorpore el desarrollo de la perspectiva de género, la transversalidad, y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad sustantiva entre mujeres y hombres;
+
+II. Asegurar la accesibilidad a la justicia y el pleno ejercicio de los derechos de las mujeres;
+
+III. Promover el empoderamiento de las mujeres;
+
+IV. Fomentar el cumplimiento del principio de igualdad entre mujeres y hombres en las relaciones entre particulares;
+
+V. Asegurar la eliminación de la discriminación generada por estereotipos establecidos en función del sexo;
+
+VI. Promover el otorgamiento de estímulos y certificados de igualdad;
+
+VII. Garantizar la integración del principio de igualdad de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico;
+
+VIII. Instaurar la transversalidad en la ejecución de las políticas públicas en materia de igualdad;
+
+IX. Establecer mecanismos de vigilancia al interior de la Administración Pública Estatal, a fin de asegurar la observancia de la perspectiva de género en todas y cada una de sus acciones y políticas públicas, con motivo de las funciones y atribuciones que tenga encomendadas en esta Ley;
+
+X. Fomentar la participación de las organizaciones de la sociedad civil en la promoción y vigilancia de la presente Ley;
+
+XI. Garantizar la institucionalización de la igualdad;
+
+XII. Evaluar periódicamente la aplicación de la legislación en materia de igualdad entre mujeres y hombres; y
+
+XIII. Erradicar las distintas modalidades y tipos de violencia de género.
+
+### CAPÍTULO III. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
+
+###### ARTÍCULO 37.
+
+El Programa Estatal para la Igualdad entre Mujeres y Hombres será un instrumento de la Política Estatal de Igualdad y será propuesto por el Instituto considerando, los diversos ámbitos donde debe darse la igualdad sustantiva.
+
+El Programa Estatal deberá contener:
+
+I. Objetivo general;
+
+II. Estrategias;
+
+III. Líneas de acción; y
+
+IV. Mecanismos de evaluación.
+
+El Instituto deberá revisar el Programa Estatal en forma anual, de conformidad con la evaluación del impacto que genere.
+
+###### ARTÍCULO 38.
+
+Los informes anuales del Ejecutivo Estatal deberán contener el estado que guarda la ejecución del Programa, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley.
+
+### CAPÍTULO IV. DEL SISTEMA ESTATAL
+
+###### ARTÍCULO 39.
+
+El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la Administración Pública del Estado, con los Municipios y las organizaciones de los sectores sociales y privados, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
+
+El Instituto Quintanarroense de la Mujer coordinará, a través de su Consejo Directivo, los lineamientos y acciones que genere el Sistema Estatal, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional y municipal.
+
+###### ARTÍCULO 40.
+
+El Sistema Estatal se conformará con las o los titulares de las siguientes instancias:
+
+I. Secretaría de Gobierno del Estado, quien lo presidirá;
+
+II. Secretaría de Desarrollo Económico;
+
+III. Secretaría del Trabajo y Previsión Social;
+
+IV. Secretaría de Educación;
+
+V. Secretaría de Planeación y Desarrollo Regional;
+
+VI. Secretaría de Seguridad Pública;
+
+VII. Secretaría de Cultura;
+
+VIII. Secretaría de Salud;
+
+IX. Procuraduría General de Justicia;
+
+X. Instituto Quintanarroense de la Mujer, quien fungirá como Secretaría Ejecutiva;
+
+XI. Consejo Estatal de Población;
+
+XII. Comisión de Equidad y Género del Congreso del Estado;
+
+XIII. Tribunal Superior de Justicia del Estado; y
+
+XIV. Comisión de Derechos Humanos del Estado de Quintana Roo.
+
+El o la Titular de la Secretaría de Gobierno, podrá invitar a participar en las sesiones del Sistema Estatal a las demás autoridades federales, estatales y municipales que estime conveniente, a especialistas en la materia y a las organizaciones de los sectores sociales y privados.
+
+A las sesiones ordinarias o extraordinarias del Sistema Estatal deberán acudir personalmente los o las Titulares de dichas instancias. Sólo en situaciones justificables podrán asistir como representantes personas que ocupen el nivel jerárquico inmediato inferior al Titular de la dependencia en el caso del Poder Ejecutivo y la Comisión de Derechos Humanos del Estado de Quintana Roo. Tratándose del Poder Legislativo, la suplencia deberá recaer en una Diputada o Diputado integrante de la Comisión que forma parte del Sistema Estatal. En el caso del Poder Judicial, el o la suplente deberá ser un Magistrado designado para tal efecto por la Presidencia del Tribunal. En cualquier caso el o la suplente deberá ser la misma persona para todas las sesiones del Sistema Estatal durante el año y estar facultadas para tomar decisiones a nombre del Titular.
+
+###### ARTÍCULO 41.
+
+El Sistema Estatal tendrá las siguientes atribuciones:
+
+I. Coordinar el seguimiento, evaluación y sostenibilidad de la Política Estatal de Igualdad;
+
+II. Estructurar y garantizar la observancia de la igualdad sustantiva en términos de la ley;
+
+III. Efectuar el monitoreo de las acciones previstas en esta Ley par (sic) a lograr la igualdad sustantiva;
+
+IV. Presentar informes especiales en la materia objeto de esta ley;
+
+V. Vigilar el cumplimiento de la observancia de la ley;
+
+VI. Emitir recomendaciones al Instituto para la implementación de los procedimientos administrativos contemplados en la presente Ley;
+
+VII. Conocer de los procedimientos administrativos que se inicien en los términos previstos por esta Ley; y
+
+VIII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+
+## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS DE ACOMPAÑAMIENTO SUSTANTIVO Y ADMINISTRATIVO
+
+### CAPÍTULO I. GENERALIDADES
+
+###### ARTÍCULO 42.
+
+Los procedimientos para corregir y sancionar los actos de discriminación y desigualdad serán:
+
+I. Acompañamiento sustantivo; y
+
+II. Procedimiento administrativo.
+
+###### ARTÍCULO 43.
+
+El procedimiento de acompañamiento sustantivo iniciará ante la recepción de cualquier queja contra instituciones públicas o privadas, en tanto que el procedimiento administrativo se substanciará cuando dichas quejas sean contra servidores públicos o particulares.
+
+### CAPÍTULO II. DEL ACOMPAÑAMIENTO SUSTANTIVO
+
+###### ARTÍCULO 44.
+
+Procede el acompañamiento sustantivo:
+
+I. Cuando exista una queja contra instituciones públicas o privadas;
+
+II. Cuando sea resultado del seguimiento y evaluación institucional que practique la Administración Pública Estatal a través de su Ejecutivo Estatal;
+
+III. A solicitud de los municipios del Estado;
+
+IV. Por determinación del Sistema Estatal; y
+
+V. Con motivo de la resolución que recaiga al procedimiento administrativo, independientemente de la sanción que pudiese corresponder.
+
+###### ARTÍCULO 45.
+
+El acompañamiento sustantivo en materia de igualdad, es el que se efectúa para:
+
+I. Cambiar prácticas discriminatorias;
+
+II. Atender las resoluciones que recaigan a las quejas presentadas contra servidores públicos; y
+
+III. Atender las recomendaciones que efectúe el Sistema Estatal, por la presentación de quejas de organizaciones privadas o de la sociedad civil, contra prácticas de desigualdad y discriminación.
+
+###### ARTÍCULO 46.
+
+Con motivo del acompañamiento sustantivo, el Instituto en términos de la Ley y su reglamento deberá:
+
+I. Solicitar a la institución su plan correctivo;
+
+II. Efectuar las recomendaciones que considere procedentes para eliminar el motivo de la desigualdad;
+
+III. Realizar el monitoreo para la observancia y seguimiento a favor de la parte agraviada; y
+
+IV. Designar al o la Oficial de Género, o solicitar un informe al oficial existente o asignado a la institución.
+
+### CAPÍTULO III. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+###### ARTÍCULO 47.
+
+Corresponde aplicar el procedimiento administrativo contra quienes en su calidad de servidores públicos o particulares realicen actos de discriminación y desigualdad.
+
+###### ARTÍCULO 48.
+
+Dicho procedimiento se iniciará con motivo de la queja correspondiente y tendrá como finalidad otorgar la garantía de audiencia y legalidad al presunto infractor, para que manifieste lo que a su derecho convenga y sea el Instituto el que emita la resolución que recaiga a dicho procedimiento.
+
+###### ARTÍCULO 49.
+
+El procedimiento administrativo que señala el presente capítulo se sustanciará en los términos que establezca el reglamento de la presente ley.
+
+## TÍTULO SEXTO. DE LAS INFRACCIONES Y SANCIONES
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 50.
+
+Se consideran infracciones a la presente ley:
+
+I. Realizar actos de discriminación por cualquiera de las causas a que hace alusión el artículo 8 de la presente ley;
+
+II. Negarse sin causa justificada a aplicar lo establecido en esta Ley y demás disposiciones reglamentarias; y
+
+III. Los actos reiterados de discriminación o prácticas de desigualdad.
+
+###### ARTÍCULO 51.
+
+Se sancionarán las infracciones a la presente ley:
+
+I. Con multa de 20 a 100 días de salario mínimo vigente en el Estado, al momento de la comisión de la infracción, para los casos previstos en la fracción I y II del artículo 50 de esta ley;
+
+II. Con multa de 30 a 200 días de salario mínimo vigente en el Estado, al momento de la comisión de la infracción para la conducta señalada en la fracción III del artículo 50 de este ordenamiento.
+
+###### ARTÍCULO 52.
+
+El Instituto considerará para la individualización de la sanción:
+
+I. La gravedad de la conducta discriminatoria contra la mujer o el hombre;
+
+II. Las condiciones socio-económicas del infractor; y
+
+III. Si se trata de reincidencia.
+
+###### ARTÍCULO 53.
+
+En contra de las resoluciones dictadas con base en esta ley y de las disposiciones jurídicas que de ella emanen, procede el recurso de inconformidad y podrán ser impugnadas por el particular ante la propia autoridad que emitió el acto. Se interpondrá dentro de los quince días hábiles siguientes a la fecha en que surta efecto la notificación de la resolución recurrida.
+
+## TÍTULO SÉPTIMO
+
+### CAPÍTULO I. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD
+
+###### ARTÍCULO 54.
+
+La observancia es un instrumento garante de la igualdad y tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre mujeres y hombres, y el efecto de las políticas públicas aplicadas en esta materia.
+
+A invitación de quien presida el Sistema Estatal deberá ser efectuada por personas especializadas en la materia y de reconocida trayectoria.
+
+###### ARTÍCULO 55.
+
+La observancia en materia de igualdad entre mujeres y hombres consistirá en:
+
+I. Recibir información sobre medidas y actividades que ponga en marcha la Administración Pública Estatal en materia de igualdad entre mujeres y hombres;
+
+II. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
+
+III. Evaluar el impacto social de las políticas y medidas en materia de igualdad;
+
+IV. La determinación de lineamientos para el diseño e implementación de políticas públicas en materia de igualdad;
+
+V. Difundir información sobre los estudios, diagnósticos, informes, y demás aspectos relacionados con la igualdad entre mujeres y hombres; y
+
+VI. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+
+### CAPÍTULO II. DEL DERECHO A LA INFORMACIÓN EN MATERIA DE IGUALDAD
+
+###### ARTÍCULO 56.
+
+Toda persona tendrá derecho a que las autoridades y organismos públicos pongan a su disposición información sobre políticas, instrumentos y normas para la igualdad entre mujeres y hombres.
+
+###### ARTÍCULO 57.
+
+La concertación de acciones entre el Estado y el sector privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+
+I. Definición de las responsabilidades que asuman las y los integrantes de los sectores social y privado; y
+
+II. Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes.
+
+###### ARTÍCULO 58.
+
+Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo y sus dependencias con los sectores público, social o privado, podrán versar sobre todos los aspectos considerados en los objetivos y lineamientos de la Política Estatal de Igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta Ley.
+
+T R A N S I T O R I O S:
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días siguientes a la entrada en vigor de la presente ley se establecerá el Sistema Estatal para Igualdad entre Mujeres y Hombres del Estado de Quintana Roo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los noventa días contados a partir de que entre en vigor la presente ley se expedirá el Reglamento de la Ley para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los noventa días contados a partir de que entre en vigor la presente ley se expedirá el Programa Estatal para la Igualdad entre Mujeres y Hombres.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal deberá realizar los ajustes presupuestales que correspondan, a fin de dotar de recursos económicos adicionales al Instituto Quintanarroense de la Mujer, para atender las obligaciones que en materia de igualdad le impone la presente ley.
+
+SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTISIETE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL NUEVE.
+
+DIPUTADO PRESIDENTE:
+
+M.V.Z. FROYLAN SOSA FLOTA.
+
+DIPUTADA SECRETARIA:
+
+LIC. MARIA HADAD CASTILLO.
+
+CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y EL ARTÍCULO 8 FRACCIÓN VIII DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, EL DECRETO NÚMERO: 177 QUE CONTIENE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO, EXPEDIDO POR LA HONORABLE XII LEGISLATURA DEL ESTADO, A LOS VEINTISIETE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL NUEVE. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS SEIS DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL NUEVE.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO
+
+LIC. FÉLIX ARTURO GONZÁLEZ CANTO
+
+LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
+
+LIC. CORA AMALIA CASTILLA MADRID
