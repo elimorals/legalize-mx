@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-educacion-11809"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-09"
-last_updated: "2007-03-31"
+last_updated: "2009-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE EDUCACION
 
+(NOTA: EL 24 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 38/2014, DECLARÓ FUNDADA LA PRESENTE CONTROVERSIA CONSTITUCIONAL, EN CONTRA DE LA OMISIÓN LEGISLATIVA DE LOS PODERES EJECUTIVO Y LEGISLATIVO DEL ESTADO DE OAXACA, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE OAXACA QUE INICIA EL QUINCE DE NOVIEMBRE DE DOS MIL QUINCE, LA CUAL SURTIÓ EFECTOS EL 24 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 9 de noviembre de 1995.
 
@@ -251,7 +253,21 @@ XVII.- Promover la creación del Consejo Técnico de la Educación del Estado co
 
 XVIII.- Expedir los reglamentos respectivos en materia educativa derivados de esta Ley, tomando en cuenta la participación social.
 
-XIX.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+XIX.- En coordinación con la Secretaria de Salud, promover los programas y acciones que fomenten en los directivos de las escuelas, maestros, padres de familia, encargados de las cooperativas escolares y prioritariamente en los educandos, el consumo de una alimentación sana, balanceada, higiénica y variada, que junto con la práctica de actividades física y deportiva, contribuyan a prevenir la obesidad infantil y juvenil; así como a propiciar un mejor desarrollo físico y mental de los educandos.
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+XX.- Regular y vigilar la venta de productos y alimentos de bajo o nulo valor nutricional, en los establecimientos y cooperativas escolares que expendan alimentos dentro de las instituciones educativas en la entidad.
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+XXI.- En coordinación con la Secretaría de Salud y padres de familia, vigilar que los alimentos que se vendan en los establecimientos y cooperativas escolares sean de calidad, higiénicos y nutritivos con la finalidad de reducir los problemas de obesidad e inadecuada nutrición en los escolares; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+XXII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 ###### ARTICULO 15.
 
@@ -1080,3 +1096,7 @@ SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados
 P.O. 31 DE MARZO DE 2007.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
