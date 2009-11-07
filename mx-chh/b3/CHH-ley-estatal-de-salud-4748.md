@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2009-01-07"
+last_updated: "2009-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -1359,15 +1359,17 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 ### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 153.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución del Programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
+El Gobierno del Estado se coordinará con las Autoridades Sanitarias Federales para la ejecución del Programa Contra el Tabaquismo, que comprenderá entre otras, las siguientes acciones:
 
-I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo; y
+I. La prevención y el tratamiento de padecimientos originados por el tabaquismo; y
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos, así como en Instituciones Educativas públicas o privadas.
+II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en los lugares 100% libres de humo del tabaco.
 
 ###### ARTICULO 154.
 
@@ -2354,3 +2356,17 @@ P.O. 7 DE ENERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría emitirá los reglamentos a que se refiere esta Ley, a más tardar 180 días después de su publicación.
+
+TERCERO.- Se deroga el Título Noveno de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua.
+
+CUARTO.- Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+QUINTO.- Los municipios deberán adecuar sus reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con la competencia que le corresponda para que sea congruente con la presente Ley.
+
+SEXTO.- Los propietarios, administradores o responsables contarán con 90 días para realizar las modificaciones o adecuaciones necesarias para contar con zonas exclusivas para fumar, después de entrar en vigor la presente Ley.
