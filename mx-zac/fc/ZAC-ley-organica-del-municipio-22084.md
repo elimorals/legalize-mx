@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-22084"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-09-14"
-last_updated: "2006-04-29"
+last_updated: "2009-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL MUNICIPIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el viernes 14 de septiembre de 2001.
 
@@ -1135,9 +1135,15 @@ III. La Dirección de Desarrollo Económico y Social;
 
 IV. La Dirección de Obras y Servicios Públicos Municipales;
 
-V. La Contraloría Municipal; y
+V. La Contraloría Municipal; y (sic)
 
-VI. La Dirección de Seguridad Pública Municipal.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+VI. La Dirección de Seguridad Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+VII. La Dirección Municipal de atención a Migrantes en aquellos municipios de alta vocación migrante y previa aprobación del cabildo.
 
 ###### Artículo 91.
 
@@ -1458,6 +1464,50 @@ El Ayuntamiento podrá designar cronistas en los poblados distintos a la cabecer
 Asimismo, el Cronista Municipal será quien emita su opinión para la edición de libros, revistas, videos, películas y otras formas de comunicación, que tiendan a difundir y preservar la vida y memoria municipales.
 
 El Ayuntamiento destinará el presupuesto necesario para el cabal cumplimiento de esas funciones.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+Artículo 114 bis.- La Dirección Municipal de atención a Migrantes, es el órgano encargado de promover y prestar servicios de información, orientación y asesoría en materia de atención, apoyo a migrantes y sus familias.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+Artículo 114 ter.- Para ser Director Municipal de atención a Migrantes se requiere:
+
+I. Ser ciudadano mexicano en pleno uso de sus derechos políticos con residencia efectiva o binacional cuando menos seis meses antes de su designación;
+
+II. Tener preferentemente, en municipios mayores de cincuenta mil habitantes, título profesional expedido por autoridad competente;
+
+III. No haber sido condenado en sentencia ejecutoria por delito intencional, y
+
+IV. Contar con experiencia en temas relacionados con la problemática de la migración en el Municipio, el Estado o el País.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+Artículo 114 quater.- Son facultades y obligaciones del Director Municipal de atención a Migrantes:
+
+I. Diseñar las políticas, programas y proyectos municipales, que habrán de presentarse al H. Ayuntamiento en materia de atención a migrantes y sus familias en el municipio;
+
+II. Brindar atención, orientación y asesoría a los migrantes del municipio que lo requieran;
+
+III. Brindar orientación y apoyo a las familias de los migrantes que pierdan la vida fuera del territorio estatal;
+
+IV. Impulsar y promover la vinculación del municipio y sus comunidades, con los clubes, grupos y organizaciones de migrantes en el extranjero;
+
+V. Promover la suscripción de convenios entre el municipio, el Gobierno del Estado, los clubes y las organizaciones de migrantes;
+
+VI. Ser el órgano de enlace, apoyo y gestión entre los migrantes, sus familias y comunidades de origen en el municipio;
+
+VII. Impulsar de manera coordinada con los clubes y el ayuntamiento, la realización de proyectos y programas de beneficio y obra social, así como el desarrollo de proyectos productivos en las comunidades de origen;
+
+VIII. Promover la difusión de la cultura y las tradiciones del municipio con los clubes de migrantes en el extranjero, así como la difusión de una cultura binacional en las comunidades de origen;
+
+IX. Realizar en coordinación con el Ayuntamiento, los Servicios de Salud del Estado y la Secretaria de Educación y Cultura, campañas de atención a jóvenes de familias migrantes, a fin de garantizar el bienestar social de los migrantes y sus familias;
+
+X. Promover conjuntamente con el Instituto Estatal de Migración, la capacitación de los integrantes del ayuntamiento y de los servidores públicos de la administración pública municipal, para la atención y sensibilización de la problemática migratoria;
+
+XI. Realizar campañas de difusión para promover el respeto y la protección de los derechos humanos de los migrantes en el municipio, especialmente en las temporadas de mayor afluencia de regreso o visita de migrantes al municipio, y
+
+XII. Las demás que le señale la presente ley y otras disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. De los Servicios Públicos Municipales y las Modalidades en su Prestación
 
@@ -2278,3 +2328,9 @@ P.O. 17 DE JULIO DE 2004.
 P.O. 29 DE ABRIL DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Los ayuntamientos cantarán con un término de tres meses, contados a partir de la entrada en vigor del presente Decreto, para nombrar al titular de la Dirección Municipal de atención a Migrantes y realizar las adecuaciones administrativas a los ordenamientos municipales.
