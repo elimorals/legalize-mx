@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2009-08-26"
+last_updated: "2009-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -1899,101 +1899,65 @@ II.- Incinerar residuos a cielo abierto; y
 
 III.- Abrir nuevos tiraderos a cielo abierto.
 
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
 ## TÍTULO NOVENO. PROTECCIÓN DE LOS NO FUMADORES
+
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO II. DE LAS SECCIONES RESERVADAS EN LOS LOCALES CERRADOS Y ESTABLECIMIENTOS
 
 ###### ARTÍCULO 162.
 
-Las disposiciones de este Título tienen por objeto proteger la salud de las personas no fumadoras, de los efectos de la inhalación involuntaria de humos producidos por la combustión de tabaco, en cualquiera de sus formas, en locales cerrados y establecimientos a que se refieren los artículos 165 y 168, así como en vehículos del servicio público de transporte de personas.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 163.
 
-La aplicación y vigilancia del cumplimiento de estas disposiciones corresponde a la Secretaría y a los municipios, en su respectivo ámbito de competencia.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 164.
 
-En la vigilancia del cumplimiento de estas normas participarán también:
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
-I.- Los propietarios, poseedores o responsables y empleados de los locales cerrados, establecimientos y medios de transporte; y
-
-II.- Las asociaciones de padres de familia de las escuelas e institutos públicos o privados, de manera individual o colectiva.
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO III. DE LOS LUGARES EN QUE SE PROHÍBE FUMAR
 
 ###### ARTÍCULO 165.
 
-En los locales cerrados y establecimientos en los que se expendan al público alimentos para su consumo, los propietarios, poseedores o responsables de la negociación de que se trate deberán delimitar, de acuerdo a la demanda de los usuarios, secciones reservadas para no fumadores y para quienes fuman durante su estancia en los mismos. En los hospitales y clínicas deberá destinarse una sala de espera con sección reservada para quienes deseen fumar.
-
-Dichas secciones deberán estar identificadas con señalización en lugares visibles al público asistente y contar con ventilación adecuada.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 166.
 
-Los propietarios, poseedores o responsables de los locales cerrados y establecimientos de que se trate, dispondrán la forma en que ellos mismos o sus empleados, vigilarán que fuera de las secciones a que se refiere el artículo anterior no haya personas fumando. En caso de haberlas, deberán exhortarlas a dejar de fumar o cambiarse a la sección indicada. En caso de negativa, podrán negarse a prestar sus servicios al infractor.
-
-Si el infractor persiste en su conducta, se deberá dar aviso a la policía preventiva, quien levantará constancia que acredite la negativa del infractor.
-
-Los infractores de esta disposición están sujetos a la aplicación de sanciones, de conformidad con lo establecido en esta ley.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 167.
 
-Quedan exceptuados de la obligación contenida en el artículo 165 de esta Ley, los propietarios, poseedores o responsables de cafeterías, fondas o cualquier otra negociación donde se expendan alimentos, que cuenten con menos de ocho mesas disponibles para el público, o que contando con ocho o más mesas, condicionen la prestación del servicio a la abstención de fumar por parte del consumidor o asistentes.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
+
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO IV. DE LA DIVULGACIÓN, CONCIENTIZACIÓN Y PROMOCIÓN
 
 ###### ARTÍCULO 168.
 
-Se establece la prohibición de fumar:
-
-I.- En cines, teatros, gimnasios, auditorios, bibliotecas y lugares cerrados donde se expendan al público alimentos para su consumo, con excepción de las secciones de fumadores;
-
-II.- En centros de salud, salas de espera, auditorios, bibliotecas y cualquier otro lugar cerrado de las instituciones médicas públicas o privadas;
-
-III.- En los vehículos destinados al servicio público de transporte de personas, ya sea oficial o concesionado;
-
-IV.- En los auditorios, bibliotecas, hemerotecas, mediatecas, museos, cafeterías, salones de clase, de maestros y maestrías, y toda área cerrada de las escuelas de educación inicial, jardines de niños, educación especial, primarias, secundarias, media superior y superior;
-
-V.- En las oficinas, cubículos, salas de juntas, de las unidades administrativas dependientes de los Gobiernos Federal, Estatal y Municipal, en las que se proporcione atención directa al público;
-
-VI.- En las oficinas de organismos descentralizados y empresas de participación estatal mayoritaria, federales, estatales y municipales, en que se proporcione atención directa al público;
-
-VII.- En las tiendas de autoservicio, áreas de atención al público de las oficinas bancarias, financieras, industriales, comerciales o de servicios;
-
-VIII.- Elevadores de cualquier edificación;
-
-IX.- En unidades destinadas al cuidado y atención de niños, adolescentes, adultos mayores y personas con discapacidad;
-
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2005)</small>
-
-X.- En general, en todo lugar cerrado al que tenga acceso el público; y
-
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2005)</small>
-
-XI.- En parques, jardines e instalaciones deportivas y de recreo.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 169.
 
-Los propietarios, poseedores o responsables de los vehículos destinados al transporte público de personas, deberán fijar en el interior y exterior de los vehículos, letreros o emblemas que indiquen la prohibición de fumar. En caso de que algún pasajero se niegue a cumplir con la prohibición, deberán dar aviso a la policía preventiva.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
-Los infractores de esta disposición están sujetos a la aplicación de sanciones, de conformidad con lo establecido en esta ley.
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO I. INSTRUMENTOS ECONÓMICOS
 
 ###### ARTÍCULO 170.
 
-La Secretaría promoverá el establecimiento de las medidas necesarias para cumplir, particularmente, con lo dispuesto en el artículo 168 de la presente Ley.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 171.
 
-La Secretaría y los municipios, promoverán la realización de campañas de concientización y divulgación de esta Ley, a fin de que se establezcan modalidades similares a las que se refiere este ordenamiento en:
-
-I.- Oficinas y despachos privados;
-
-II.- Auditorios, salas de juntas y conferencias del sector privado;
-
-III.- Restaurantes, cafeterías y demás instalaciones de la industria, en donde tenga acceso el público; y
-
-IV.- Medios de transporte colectivo de las entidades paraestatales, de los sindicatos y de las empresas que proporcionan ese servicio a sus empleados.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)
 
 ## TÍTULO DÉCIMO. INSTRUMENTOS ECONÓMICOS
 
@@ -2532,6 +2496,20 @@ P.O. 26 DE AGOSTO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Secretaría de Desarrollo Urbano y Ecología del Gobierno del Estado de Chihuahua, contara con un plazo de ciento ochenta días hábiles para la elaboración del Programa Estatal contra el Cambio Climático, mismos que comenzarán a computarse a partir de la entrada en vigor del presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría emitirá los reglamentos a que se refiere esta Ley, a más tardar 180 días después de su publicación.
+
+TERCERO.- Se deroga el Título Noveno de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua.
+
+CUARTO.- Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+QUINTO.- Los municipios deberán adecuar sus reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con la competencia que le corresponda para que sea congruente con la presente Ley.
+
+SEXTO.- Los propietarios, administradores o responsables contarán con 90 días para realizar las modificaciones o adecuaciones necesarias para contar con zonas exclusivas para fumar, después de entrar en vigor la presente Ley.
 
 ###### ARTÍCULO QUINTO.
 
