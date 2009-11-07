@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-29266"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-30"
-last_updated: "2005-08-03"
+last_updated: "2009-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 30 de junio de 2001.
 
@@ -165,11 +165,15 @@ I. Los Servicios de Salud.- El organismo público descentralizado denominado Ser
 
 II. El Consejo.- El Consejo Estatal de Salud;
 
-III. Acuerdo General.- El conjunto de reglas de carácter obligatorio, emitidas por los Servicios de Salud, que establezcan los requisitos, condiciones y procedimientos que se deben cumplir en el desarrollo de actividades que son materia de salubridad local, a fin de prevenir riesgos y daños a la salud;
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
-IV. Ley.- Ley de Salud del Estado de Zacatecas;
+III. El Comité.- El Comité Estatal para la Seguridad en Salud;
 
-V. Ley General.- Ley General de Salud.
+IV. Acuerdo General.- El conjunto de reglas de carácter obligatorio, emitidas por los Servicios de Salud, que establezcan los requisitos, condiciones y procedimientos que se deben cumplir en el desarrollo de actividades que son materia de salubridad local, a fin de prevenir riesgos y daños a la salud;
+
+V. Ley.- Ley de Salud del Estado de Zacatecas;
+
+VI. Ley General.- Ley General de Salud.
 
 ### CAPITULO SEGUNDO. Sistema Estatal de Salud
 
@@ -209,9 +213,13 @@ Son autoridades sanitarias locales:
 
 I. El Gobernador del Estado;
 
-II. Los Servicios de Salud del Estado; y
+II. Los Servicios de Salud del Estado; y (sic)
 
-III. Los ayuntamientos en el ámbito de su respectivo municipio.
+III. Los ayuntamientos en el ámbito de su respectivo municipio;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+IV. El Comité Estatal para la Seguridad en Salud.
 
 ###### ARTICULO 9º.
 
@@ -347,7 +355,11 @@ XI. Suscribir acuerdos, convenios o contratos con dependencias y entidades de la
 
 XII. Planear y dirigir técnica y administrativamente el funcionamiento de los Servicios de Salud;
 
-XIII. Las demás que esta ley y otras disposiciones le confieran.
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+XIII. Participar en el Comité Estatal para la Seguridad en Salud y ejercer las facultades que la Ley General, la Ley y el Reglamento Interior del Comité Estatal para la Seguridad en Salud, le confieran, y
+
+XIV. Las demás que esta ley y otras disposiciones le confieran.
 
 ###### ARTICULO 17.
 
@@ -431,11 +443,101 @@ V. Fungir como arbitro y pronunciar los laudos que correspondan cuando las parte
 
 VI. Emitir opiniones sobre las quejas de que conozca, así como intervenir de oficio en cualquier otra cuestión que se considere de interés general en la esfera de su competencia.
 
-### CAPITULO PRIMERO. Clasificación, Escalonamiento, Coadyuvancia y Atención Médica
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+### CAPITULO CUARTO. Del Comité Estatal para la Seguridad en Salud
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 23
+
+BIS.- El Comité Estatal para la Seguridad en Salud, será un órgano adscrito directamente al Ejecutivo del Estado y sus disposiciones serán obligatorias para las dependencias y entidades de la administración pública estatal.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 23
+
+TER.- El Comité se integrará por:
+
+I. Un Presidente, que será el Ejecutivo del Estado;
+
+II. Un Vicepresidente, que será el Director General de los Servicios de Salud de Zacatecas;
+
+III. El Secretario General de Gobierno;
+
+IV. El Secretario de Finanzas;
+
+V. El Secretario de Planeación y Desarrollo Regional;
+
+VI. El Secretario de Educación y Cultura;
+
+VII. El Secretario de Desarrollo Económico;
+
+VIII. El Secretario de Turismo;
+
+IX. El Secretario de Seguridad Pública;
+
+X. El Director del Instituto de Ecología y Medio Ambiente del Estado de Zacatecas;
+
+XI. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+XII. El Director Estatal de Protección Civil y Bomberos;
+
+XIII. El Presidente de la Comisión de Salud y Asistencia Social de la Legislatura del Estado, y
+
+XIV. Los demás integrantes que establezca el Reglamento Interior del Comité Estatal para la Seguridad en Salud.
+
+Podrán integrar también el Comité, una vez que hayan aceptado la invitación a formar parte de él, el Rector de la Universidad Autónoma de Zacatecas, los directores de las instituciones de nivel superior de las áreas afines a la salud, el Delegado del Instituto Mexicano del Seguro Social, el Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, un representante de la Secretaría de Salud del Gobierno Federal, el Presidente del Colegio de Médicos de Zacatecas, un representante del Comité Nacional para la Seguridad en Salud, el Delegado de la Cruz Roja, un representante de la Secretaría de la Defensa Nacional, el Comisionado de la Policía Federal Preventiva, el Delegado de la Comisión Nacional del Agua, el Delegado de la Secretaría de Desarrollo Social, el Delegado de la Secretaria de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, el Delegado de la Secretaría del Medio Ambiente y Recursos Naturales, el Administrador del Aeropuerto Internacional Leobardo Reynoso y todos aquellos representantes de las instituciones y organizaciones, de los sectores público, social y privado, cuyas actividades tengan relación con las funciones del mismo.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 23
+
+QUATER.- El Comité tendrá las siguientes facultades:
+
+I. Definir y evaluar, las políticas, estrategias y acciones para la seguridad en salud, conforme a los (sic) dispuesto en las disposiciones legales aplicables en nuestra Entidad;
+
+II. Proponer las medidas necesarias para la correcta instrumentación de las acciones para la seguridad en salud, así como, para subsanar las eventuales deficiencias que surjan en el proceso;
+
+III. Evaluar los riesgos a la salud general, en el ámbito de su competencia, así como, para identificar y evaluar los riesgos que puedan generarse en el Estado o en una región del mismo;
+
+IV. Participar, en el ámbito de su competencia, en la consolidación y funcionamiento del Sistema Estatal de Salud;
+
+V. Coadyuvar en la Operación del Sistema Nacional de Vigilancia Epidemiológica;
+
+VI. Fomentar la coordinación de las instituciones y organismos que integren el Comité, con el propósito de homogeneizar y racionalizar las acciones que estos desarrollen y que se relacionen con la seguridad en salud;
+
+VII. Promover el Desarrollo de campañas en apoyo a las actividades para la seguridad en salud;
+
+VIII. Vigilar que se establezcan los mecanismos suficientes para garantizar la calidad de todas las acciones para la seguridad en salud y la evaluación de los mismos;
+
+IX. Inducir la colaboración y coordinación entre las dependencias y entidades de la administración pública federal, estatal y municipal;
+
+X. Promover la realización de actividades educativas, de investigación y de promoción de la salud relacionadas con la seguridad en salud;
+
+XI. Difundir las actividades del Comité;
+
+XII. Sugerir modificaciones a las disposiciones jurídicas vigentes que se relacionen con la seguridad en salud;
+
+XIII. Expedir disposiciones en materia de seguridad en salud, dentro del ámbito de su competencia, para su observancia en todo el territorio del Estado;
+
+XIV. Promover la integración de Comités regionales, jurisdiccionales y/o municipales para la Seguridad en Salud;
+
+XV. Contribuir a la definición de las políticas de salud en el Estado, y
+
+XVI. Las demás que le confiera el Reglamento Interior del Comité.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 23
+
+QUINQUIES.- La organización y funcionamiento del Comité, se regirá por el Reglamento Interior que formulará el propio Comité y se someterá a la aprobación del Ejecutivo del Estado.
+
+El Reglamento Interior del Comité, será publicado en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ## TITULO TERCERO. Prestación de los Servicios de Salud
 
-### CAPITULO SEGUNDO. Prestadores de Servicios De Salud
+### CAPITULO PRIMERO. Clasificación, Escalonamiento, Coadyuvancia y Atención Médica
 
 ###### ARTICULO 24.
 
@@ -479,7 +581,7 @@ II. Diagnóstico precoz y tratamiento oportuno; y
 
 III. Rehabilitación temprana y corrección de las secuelas.
 
-### CAPITULO TERCERO. Usuarios de los Servicios de Salud y Participación de la Comunidad
+### CAPITULO SEGUNDO. Prestadores de Servicios De Salud
 
 ###### ARTICULO 28.
 
@@ -505,7 +607,7 @@ Son servicios por afiliación los que prestan las instituciones a las personas q
 
 Los servicios de instituciones privadas son aquellos que se prestan mediante contrato, bajo la vigilancia de los Servicios de Salud.
 
-### CAPITULO CUARTO. Atención Materno-Infantil
+### CAPITULO TERCERO. Usuarios de los Servicios de Salud y Participación de la Comunidad
 
 ###### ARTICULO 32.
 
@@ -565,7 +667,7 @@ VI. Información a las autoridades sanitarias acerca de efectos secundarios y re
 
 VII. Hacer aportaciones en dinero o en especie a las instituciones prestadoras de los servicios de salud.
 
-### CAPITULO QUINTO. Servicios de Planificación Familiar
+### CAPITULO CUARTO. Atención Materno-Infantil
 
 ###### ARTICULO 35.
 
@@ -609,7 +711,7 @@ En materia de higiene escolar, corresponde a la Secretaría de Educación y Cult
 
 Esta prohibido imponer a los alumnos que concurren a los centros escolares actividades obligatorias o medidas disciplinarias que pongan en riesgo su salud física o mental.
 
-### CAPITULO SEXTO. Salud Mental
+### CAPITULO QUINTO. Servicios de Planificación Familiar
 
 ###### ARTICULO 40.
 
@@ -645,7 +747,7 @@ VI. Recopilar, sistematizar y actualizar la información para el adecuado seguim
 
 Los comités locales de salud a que se refiere esta ley, promoverán que en las poblaciones y comunidades se impartan pláticas de orientación en materia de planificación familiar y educación sexual. Las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
 
-### CAPITULO PRIMERO. Profesionales, Técnicos y Auxiliares
+### CAPITULO SEXTO. Salud Mental
 
 ###### ARTICULO 44.
 
@@ -689,7 +791,7 @@ Al efecto, se establecerá la coordinación necesaria entre las autoridades sani
 
 ## TITULO CUARTO. Recursos Humanos para los Servicios de Salud
 
-### CAPITULO SEGUNDO. Servicio Social de Pasantes y Profesionales
+### CAPITULO PRIMERO. Profesionales, Técnicos y Auxiliares
 
 ###### ARTICULO 49.
 
@@ -717,7 +819,7 @@ Las autoridades educativas del Estado, proporcionarán a las autoridades sanitar
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán poner a la vista del público en su centro de trabajo, un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
 
-### CAPITULO TERCERO. Formación, Capacitación y Actualización del Personal
+### CAPITULO SEGUNDO. Servicio Social de Pasantes y Profesionales
 
 ###### ARTICULO 53.
 
@@ -739,7 +841,7 @@ La prestación del servicio social de los pasantes, se llevará a cabo mediante 
 
 Para los efectos del párrafo anterior los Servicios de Salud, definirán los mecanismos para que los pasantes participen en la organización y operación de los comités de salud.
 
-### CAPITULO PRIMERO. La Investigación para la Salud
+### CAPITULO TERCERO. Formación, Capacitación y Actualización del Personal
 
 ###### ARTICULO 57.
 
@@ -779,7 +881,7 @@ II. Coadyuvarán con las demás dependencias en la organización de campañas ed
 
 ## TITULO QUINTO. Materias de Salubridad General
 
-### CAPITULO SEGUNDO. Información para la Salud
+### CAPITULO PRIMERO. La Investigación para la Salud
 
 ###### ARTICULO 60.
 
@@ -835,7 +937,7 @@ V. Determinaciones sobre pacientes en estado terminal; y
 
 VI. Los demás que sin contravenir a la normatividad requieran su intervención.
 
-### CAPITULO TERCERO. Promoción de la Salud
+### CAPITULO SEGUNDO. Información para la Salud
 
 ###### ARTICULO 66.
 
@@ -859,7 +961,7 @@ Las dependencias y entidades de la administración pública estatal, los municip
 
 Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de los productos o que realicen cualquier tipo de actividades relacionadas con la salud, llevarán las estadísticas que les señalen los Servicios de Salud, y proporcionarán a éste y a las autoridades federales competentes, toda la información que se les requiera.
 
-### CAPITULO CUARTO. Educación para la Salud
+### CAPITULO TERCERO. Promoción de la Salud
 
 ###### ARTICULO 69.
 
@@ -877,7 +979,7 @@ III. Crear ambientes favorables;
 
 IV. Reforzar la acción comunitaria.
 
-### CAPITULO QUINTO. Nutrición
+### CAPITULO CUARTO. Educación para la Salud
 
 ###### ARTICULO 71.
 
@@ -895,7 +997,7 @@ III. Orientar y capacitar a la población en programas prioritarios de salud.
 
 Las autoridades sanitarias estatales y federales, actuando coordinadamente con la comunidad, formularán y desarrollarán programas de educación para la salud que serán difundidos en los medios masivos de comunicación.
 
-### CAPITULO SEXTO. Medio Ambiente y Salud
+### CAPITULO QUINTO. Nutrición
 
 ###### ARTICULO 73.
 
@@ -907,7 +1009,7 @@ II. Normar el desarrollo de los programas y actividades educativos encaminados a
 
 III. Recomendar las dietas y procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población en general, y proveer en la esfera de su competencia a dicho consumo.
 
-### CAPITULO SEPTIMO. Enfermedades Transmisibles
+### CAPITULO SEXTO. Medio Ambiente y Salud
 
 ###### ARTICULO 74.
 
@@ -933,7 +1035,7 @@ Queda prohibida la descarga de aguas sin el tratamiento para satisfacer los crit
 
 Los Servicios de Salud en coordinación con otras autoridades competentes vigilarán el cumplimiento de los requisitos técnicos sanitarios para que el almacenamiento, distribución, uso y manejo de gas natural, del gas licuado de petróleo y otros productos industriales gaseosos que sean de alta peligrosidad, no afecten la salud de las personas.
 
-### CAPITULO OCTAVO. Enfermedades No Transmisibles
+### CAPITULO SEPTIMO. Enfermedades Transmisibles
 
 ###### ARTICULO 78.
 
@@ -991,7 +1093,7 @@ Las autoridades sanitarias, podrán realizar visitas domiciliarias para efectos 
 
 Las autoridades sanitarias quedan facultadas para utilizar como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, de jurisdicción federal, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de ley y reglamento.
 
-### CAPITULO NOVENO. Accidentes
+### CAPITULO OCTAVO. Enfermedades No Transmisibles
 
 ###### ARTICULO 83.
 
@@ -1007,7 +1109,7 @@ III. Tumor maligno de estómago, tumor maligno de bronquios y del pulmón, tumor
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO DECIMO. De la Atención a Personas con Discapacidad
+### CAPITULO NOVENO. Accidentes
 
 ###### ARTICULO 85.
 
@@ -1025,7 +1127,7 @@ III. La atención de los padecimientos que se produzcan como consecuencia de ell
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el consejo estatal para la prevención de accidentes, del que formarán parte representantes de los sectores público, social y privado. Dicho consejo se coordinará con el consejo nacional para la prevención de accidentes en el marco de los sistemas nacional y estatal de salud.
 
-### CAPITULO DECIMO PRIMERO. Programas Contra las Adicciones
+### CAPITULO DECIMO. De la Atención a Personas con Discapacidad
 
 ###### ARTICULO 87.
 
@@ -1049,7 +1151,7 @@ V. Promover acciones urbanísticas y arquitectónicas de los sectores público, 
 
 VI. Apoyar la creación de establecimientos educativos y de capacitación para el trabajo y procurar la obtención de empleos y otras formas de ocupación remunerada para las personas en proceso de rehabilitación.
 
-### CAPITULO DECIMO SEGUNDO. Publicidad
+### CAPITULO DECIMO PRIMERO. Programas Contra las Adicciones
 
 ###### ARTICULO 89.
 
@@ -1059,7 +1161,7 @@ Los Servicios de Salud, en coordinación con las autoridades sanitarias federale
 
 Corresponde a los ayuntamientos expedir la reglamentación encaminada al control, vigilancia y aplicación de sanciones, para proteger la salud de las personas no fumadoras.
 
-### CAPITULO PRIMERO. Pérdida de la Vida
+### CAPITULO DECIMO SEGUNDO. Publicidad
 
 ###### ARTICULO 91.
 
@@ -1081,7 +1183,7 @@ V. El mensaje no deberá desvirtuar ni contravenir los principios, disposiciones
 
 ## TITULO SEXTO. Pérdida de la Vida, Donación y Transplantes
 
-### CAPITULO SEGUNDO. Donación
+### CAPITULO PRIMERO. Pérdida de la Vida
 
 ###### ARTICULO 93.
 
@@ -1187,7 +1289,7 @@ Los órganos, tejidos y células no podrán ser sacados del territorio nacional.
 
 Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectúe en contravención a la Ley General de Salud, y este ordenamiento.
 
-### CAPITULO TERCERO. Trasplante
+### CAPITULO SEGUNDO. Donación
 
 ###### ARTICULO 101.
 
@@ -1213,7 +1315,7 @@ Está prohibido el comercio de órganos, tejidos y células. La donación de és
 
 Sólo en caso de que la pérdida de la vida del donante esté relacionada con la averiguación de un delito, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos.
 
-### CAPITULO CUARTO. Cadáveres
+### CAPITULO TERCERO. Trasplante
 
 ###### ARTICULO 106.
 
@@ -1289,9 +1391,7 @@ La disposición de sangre, componentes sanguíneos y células progenitoras hemat
 
 Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito y que sanitariamente constituya un desecho, deberá ser manejado en condiciones higiénicas y su destino final se hará conforme a las disposiciones generales aplicables, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso los establecimientos podrán disponer de ellos o remitirlos a instituciones docentes en ciencias de la salud.
 
-### CAPITULO QUINTO. Del Consejo Estatal de Trasplantes de Órganos y Tejidos
-
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+### CAPITULO CUARTO. Cadáveres
 
 ###### ARTICULO 116.
 
@@ -1365,7 +1465,9 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. Disposiciones Comunes
+### CAPITULO QUINTO. Del Consejo Estatal de Trasplantes de Órganos y Tejidos
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 127-A.
 
@@ -1563,7 +1665,7 @@ Las relaciones laborales entre el Consejo Estatal de Trasplantes y sus servidore
 
 ## TITULO SEPTIMO. Salubridad Local
 
-### CAPITULO SEGUNDO. Autorizaciones y Avisos
+### CAPITULO PRIMERO. Disposiciones Comunes
 
 ###### ARTICULO 128.
 
@@ -1623,7 +1725,7 @@ Los acuerdos generales a que se refiere este artículo, sólo producirán derech
 
 Los acuerdos generales determinarán el contenido de las reglas en todo lo relativo a autorizaciones, avisos, certificados, registros, permisos o licencias sanitarias, que para el cumplimiento de la ley se requieran, según las características de la materia sujeta a vigilancia sanitaria por parte de los servicios de salud.
 
-### CAPITULO TERCERO. Revocación de Autorizaciones Sanitarias
+### CAPITULO SEGUNDO. Autorizaciones y Avisos
 
 ###### ARTICULO 133.
 
@@ -1667,7 +1769,7 @@ Los obligados a tener autorizaciones sanitarias deberán exhibirla en lugar visi
 
 Requieren de permiso los establecimientos contemplados en la Ley General de Salud, o los que señalen los reglamentos, o los acuerdos generales de las autoridades sanitarias federales y estatales.
 
-### CAPITULO CUARTO. Certificados
+### CAPITULO TERCERO. Revocación de Autorizaciones Sanitarias
 
 ###### ARTICULO 141.
 
@@ -1717,7 +1819,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, dentr
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
+### CAPITULO CUARTO. Certificados
 
 ###### ARTICULO 147.
 
@@ -1745,11 +1847,13 @@ Los certificados de defunción y muerte fetal serán expedidos, una vez comproba
 
 ## TITULO OCTAVO. Vigilancia Sanitaria
 
-### CAPITULO PRIMERO. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 151.
 
-Corresponde a los Servicios de Salud, la vigilancia para el cumplimiento de esta ley y demás disposiciones que se dicten con base en ella.
+Corresponde a los Servicios de Salud y al Comité, en el ámbito de su competencia, la vigilancia para el cumplimiento de esta ley y demás disposiciones que se dicten con base en ella.
 
 La participación de las autoridades municipales estará determinada por los convenios que celebren con los Servicios de Salud.
 
@@ -1845,11 +1949,13 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO NOVENO. Medidas de Seguridad Sanitaria y Sanciones
 
-### CAPITULO SEGUNDO. Sanciones Administrativas
+### CAPITULO PRIMERO. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 162.
 
-Se considerarán medidas de seguridad las disposiciones de inmediata ejecución que dicten los servicios de salud de conformidad con esta ley, los reglamentos, acuerdos generales y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondan.
+Se considerarán medidas de seguridad las disposiciones de inmediata ejecución que dicten los Servicios de Salud y el Comité, en el ámbito de su competencia, de conformidad con esta ley, los reglamentos, acuerdos generales y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondan.
 
 ###### ARTICULO 163.
 
@@ -1941,7 +2047,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO TERCERO. Criterios Generales para que la Autoridad Sanitaria Ejerza Atribuciones
+### CAPITULO SEGUNDO. Sanciones Administrativas
 
 ###### ARTICULO 174.
 
@@ -2015,7 +2121,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO CUARTO. Prescripción
+### CAPITULO TERCERO. Criterios Generales para que la Autoridad Sanitaria Ejerza Atribuciones
 
 ###### ARTICULO 182.
 
@@ -2053,7 +2159,7 @@ En los casos de aplicación de medidas de seguridad o sanciones, una vez otorgad
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de delito, se formulará la denuncia o querella, y se remitirán las actuaciones a la autoridad que corresponda, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO QUINTO. Medio de Impugnación
+### CAPITULO CUARTO. Prescripción
 
 ###### ARTICULO 189.
 
@@ -2062,6 +2168,8 @@ El ejercicio de la facultad para imponer medidas de seguridad o las sanciones ad
 Los términos para la prescripción serán continuos y se contarán desde el día en que se cometió la falta o infracción administrativa, si fuere consumada o desde que cesó, si fuere continua.
 
 Cuando el presunto infractor utilizare algún medio de impugnación contra las resoluciones o actos de la autoridad sanitaria, se interrumpirá la prescripción, hasta en tanto se dicte la resolución definitiva.
+
+### CAPITULO QUINTO. Medio de Impugnación
 
 ###### ARTICULO 190.
 
@@ -2120,3 +2228,11 @@ SEGUNDO.- Los recursos humanos y materiales con los que actualmente cuenta la co
 TERCERO.- Los recursos financieros aprobados en el Presupuesto de Egresos del Estado para el ejercicio Fiscal del año 2005, etiquetados en la fracción I del Artículo 18 como "Aportación para el Centro de Trasplantes de Órganos", serán ejercidos por el Centro Estatal de Trasplantes, de conformidad con lo dispuesto por este Decreto.
 
 CUARTO.- La Secretaría de Finanzas deberá incluir en el Presupuesto de Egresos del Estado para el Ejercicio Fiscal de dos mil seis al Consejo Estatal de Trasplantes de Órganos y Tejidos.
+
+P.O. 7 DE NOVIEMBRE DE 2009.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, será publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el Reglamento Interior del Comité Estatal para la Seguridad en Salud.
+
+Artículo tercero.- Se derogan las disposiciones que contravengan este Decreto.
