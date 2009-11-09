@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2009-09-09"
+last_updated: "2009-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE NOVIEMBRE DE 2009.</small>
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -109,11 +109,11 @@ XVIII. La participación social en la solución de los problemas que genera la c
 
 XIX. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad, libre tránsito y accesibilidad que requieren las personas con discapacidad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 3.
 
-En los términos de lo dispuesto en el artículo 27 párrafo tercero de la Constitución Política de los Estados Unidos Mexicanos, se considera de interés público y de beneficio social la determinación de provisiones, reservas, usos y destinos de áreas y predios de los centros de población, contenida en los planes o programas de desarrollo urbano
+En los términos de lo dispuesto en el artículo 27 párrafo tercero de la Constitución Política de los Estados Unidos Mexicanos, se considera de interés público y de beneficio social la determinación de provisiones, reservas, usos y destinos de áreas y predios de los centros de población, contenida en los planes o programas de desarrollo urbano.
 
 ###### ARTÍCULO 4.
 
@@ -149,17 +149,19 @@ XIV. El aprovechamiento en beneficio social de los elementos naturales susceptib
 
 XV. El estudio, investigación y aplicación de conocimientos y tecnologías tendientes a contribuir al desarrollo urbano sustentable.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 5.
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Acción urbana: el proceso de aprovechamiento y acondicionamiento del territorio para el asentamiento humano, mediante la introducción o mejoramiento de infraestructura, equipamiento o servicios, así como por la fusión, subdivisión, renotificación, parcelación, conjuntos urbanos y fraccionamientos de terrenos, la edificación o la construcción u otros tendientes a la transformación, uso o aprovechamiento del suelo. Las acciones urbanas pueden ser de crecimiento, conservación o mejoramiento;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. Acción urbana: el proceso de aprovechamiento y acondicionamiento del territorio para el asentamiento humano, mediante la introducción o mejoramiento de infraestructura, equipamiento o servicios, así como por la fusión, subdivisión, relotificación, parcelación, conjuntos urbanos y fraccionamientos de terrenos, la edificación o la construcción u otros tendientes a la transformación, uso o aprovechamiento del suelo. Las acciones urbanas pueden ser de conservación, mejoramiento y crecimiento;
 
 II. Área de preservación natural: superficie de territorio que por sus características de valor científico, ambiental o paisajístico, deban mantenerse en su estado natural, conforme a lo establecido en esta Ley, la Ley General de Equilibrio Ecológico y la Protección al Ambiente, y la Ley Ambiental del Estado y su reglamento;
 
-III. Áreas naturales protegidas: las zonas del territorio estatal, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas y están sujetas al régimen previsto en la Ley General del Equilibro Ecológico y la Protección al Ambiente, y la de la Ley Ambiental del Estado;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+III. Áreas naturales protegidas: las zonas del territorio estatal, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas y están sujetas al régimen previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y en la de la Ley Ambiental del Estado;
 
 IV. Área urbanizable o de reserva para la expansión urbana: superficie de suelo en estado natural sujeto a actividades productivas agropecuarias o extractivas, que por reunir las condiciones necesarias para ser dotadas de servicios, la autoridad municipal, a través de los planes y programas de desarrollo urbano correspondientes, la determina como reserva para el futuro crecimiento del centro de población;
 
@@ -183,7 +185,9 @@ XIII. Centro de población: las zonas constituidas por las áreas urbanas o urba
 
 XIV. Conjunto urbano: modalidad de acción urbanística en un polígono dado en donde se autorizan simultáneamente diversos aprovechamientos y en el cual se constituye un régimen de propiedad en condominio o de gestión común;
 
-XV. Conservación: la acción de mantener el equilibrio ecológico y preservar el buen estado la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población, incluyendo sus valores históricos y culturales;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XV. Conservación: la acción de mantener el equilibrio ecológico y preservar el buen estado de la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población, incluyendo sus valores históricos y culturales;
 
 XVI. Construcción: toda obra o instalación que transforme el estado actual o natural de un lote o predio con objeto de servir a las actividades humanas, tales como la fabricación de elementos físicos, la reconstrucción, modificación, remodelación, conservación, mantenimiento, restauración o demolición de bienes inmuebles, así como las excavaciones, movimientos de tierra, cortes, rellenos y similares;
 
@@ -203,7 +207,9 @@ XXIII. Desarrollo sustentable: el proceso evaluable mediante criterios e indicad
 
 XXIV. Desarrollo urbano: el proceso de planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
-XXV. Desarrollo urbano sustentable: el proceso de plantación y regulación, para la fundación, conservación, mejoramiento y crecimiento de los centros de población en el que se considere la ordenación, regulación y adecuación de sus elementos físicos, económicos y sociales y su relación con el medio ambiente natural;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XXV. Desarrollo urbano sustentable: el proceso de planeación y regulación, para la fundación, conservación, mejoramiento y crecimiento de los centros de población en el que se considere la ordenación, regulación y adecuación de sus elementos físicos, económicos y sociales y su relación con el medio ambiente natural;
 
 XXVI. Destinos: los fines públicos a que se prevea dedicar determinadas zonas o predios de un centro de población;
 
@@ -255,7 +261,9 @@ XLIX. Municipalización: acto mediante el cual el municipio asume las obligacion
 
 L. Obras de urbanización: la construcción e introducción de infraestructura urbana, vialidad, guarniciones y banquetas, nomenclatura, habilitación y señalamiento vial, equipamiento y arbolado de las áreas municipales, plazas, parques, jardines y camellones;
 
-LI. Polígono de actuación: área que el programa de desarrollo urbano del centro de población considera sujeta a acciones de mejoramiento urbano de renovación y regeneración. Su implementación requiere de la coordinación y concertación entre la autoridad y los particulares y puede plantearse, si es promovido por el sector privado o social a través de un plan maestro y de un plan parcial de desarrollo urbano cuando sea promovido por la autoridad municipal o estatal;
+LI. Polígono de actuación: área que el programa de desarrollo urbano del centro de población considera sujeta a acciones de mejoramiento urbano de renovación y regeneración. Su implementación requiere de la coordinación y concertación entre la autoridad y los particulares y puede plantearse, si es promovido por el sector privado o social a través de un plan maestro y de un plan parcial de desarrollo urbano cu
+
+ando sea promovido por la autoridad municipal o estatal;
 
 LII. Programa o plan maestro: son los instrumentos de planeación para el diseño, programación y ejecución de proyectos urbanos específicos, siempre sujeto a lo establecido en el plan de desarrollo urbano del cual derive;
 
@@ -265,7 +273,9 @@ LIV. Proyecto ejecutivo: el proyecto urbanístico autorizado, los planos, docume
 
 LV. Proyecto urbanístico: el plano o conjunto de planos de un fraccionamiento mediante los cuales se da solución al trazo y anchura de las vías públicas requeridas para la integración del fraccionamiento con las áreas urbanas o urbanizadas adyacentes; el trazo y ubicación de los lotes, con sus dimensiones y superficies; la ubicación de las áreas necesarias para la infraestructura urbana; ubicación de las áreas de cesión al municipio en forma de plazas, parques o jardines, con sus dimensiones y superficies; la ubicación de los lotes con usos del suelo complementarios al predominante;
 
-LVI. Reagrupamiento parcelario: es el proceso físico y jurídico de fusión de predios comprendidos en un área determinada y su posterior subdivisión o fraccionamiento y adjudicación con el propósito de ejecutar acciones para la conservación, mejoramiento o crecimiento de los centros de población; el reagrupamiento supone una asociación voluntaria o forzosa de propietarios de predios necesarios para la ejecución de un proyecto de interés social, mediante la distribución de las cargas y beneficios de sus participantes;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+LVI. Reagrupamiento parcelario: es el proceso físico y jurídico de fusión de predios comprendidos en un área determinada y su posterior subdivisión o fraccionamiento y adjudicación con el propósito de ejecutar acciones para la conservación, mejoramiento y crecimiento de los centros de población; el reagrupamiento supone una asociación voluntaria o forzosa de propietarios de predios necesarios para la ejecución de un proyecto de interés social, mediante la distribución de las cargas y beneficios de sus participantes;
 
 LVII. Régimen de propiedad en condominio: aquel en que los departamentos, viviendas, casas, locales o áreas que se construyan o constituyan en un inmueble en forma horizontal o vertical o mixta, sean susceptibles de aprovechamiento independiente, ya pertenezcan a uno o varios propietarios y que tengan salida propia a un elemento común o a la vía pública;
 
@@ -311,15 +321,15 @@ IV. Los Municipios; y
 
 V. El Presidente Municipal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 7.
 
 Corresponde al Congreso del Estado:
 
 I. Decretar la fundación de los centros de población, a solicitud del Ejecutivo del Estado;
 
-II. Resolver controversias y fijar los límites municipales y de los centros de población;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+II. Resolver las controversias y fijar los límites municipales y de los centros de población;
 
 III. Establecer por medio de la Auditoría Superior del Estado procedimientos de auditoría administrativa, a fin de verificar en su caso la observancia de esta Ley, y de los planes y programas de desarrollo urbano y su zonificación por parte de las autoridades estatales y municipales; y
 
@@ -359,15 +369,15 @@ XIV. Proporcionar a los municipios que lo requieran el apoyo técnico y financie
 
 XV. Las demás que le atribuya esta Ley y otros ordenamientos legales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 9.
 
 Son facultades y obligaciones de la Dependencia Estatal competente en materia de Desarrollo Urbano:
 
 I. Coordinar la elaboración, administración, ejecución evaluación, revisión y modificación del Programa Estatal de Desarrollo Urbano y someterla a la consideración del Gobernador del Estado para su aprobación;
 
-II. Participar conjunta y coordinadamente con los municipios, en la formulación, administración y evaluación de los planes y programas de desarrollo urbano de las regiones y de las zonas conurbadas y de las zonas metropolitanas;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+II. Participar conjunta y coordinadamente con los municipios, en la formulación, administración y evaluación de los planes o programas de desarrollo urbano de las regiones y de las zonas conurbadas y de las zonas metropolitanas;
 
 III. Promover la participación ciudadana en la planeación y ejecución del desarrollo urbano en los términos de esta Ley;
 
@@ -389,7 +399,9 @@ XI. Coordinarse con otras dependencias y entidades de la administración públic
 
 XII. Determinar, en coordinación con la Dependencia Estatal responsable del Transporte Público y la Vialidad del Estado y con los Municipios, la prolongación, ampliación, integración y mejoramiento de la infraestructura para la movilidad;
 
-XIII. Formular, en coordinación con las autoridades estatales y municipales competentes, las políticas, planes y programas de inversión en materia de agua potable, drenaje y manejo integral de aguas pluviales;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XIII. Formular, en coordinación con las autoridades estatales y municipales competentes, las políticas, planes y programas de inversión en materia de agua potable, drenaje sanitario y manejo integral de aguas pluviales;
 
 XIV. Recibir las propuestas de fundación de nuevos centros de población y formular en su caso, los proyectos de iniciativa que correspondan a fin de someterlos a la consideración del Congreso del Estado;
 
@@ -397,25 +409,37 @@ XV. Llevar el registro de todos los planes y programas de ordenamiento territori
 
 XVI. Formular, conducir e instrumentar la política integral de suelo y reservas territoriales para el desarrollo urbano en el Estado, en coordinación con otras autoridades estatales y municipales competentes, así como promover, impulsar y coordinar los esfuerzos de las diferentes instituciones de los sectores público, social y privado, en la ejecución de acciones que promuevan la disposición, habilitación y financiamiento de suelo apto y oportuno para los distintos usos y necesidades urbanos;
 
-XVII. Emitir opinión respecto de las solicitudes de reagrupamiento parcelario, así como brindar asistencia y asesoría técnica a los municipios que se lo soliciten;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XVIII. Establecer y administrar el registro de los Directores responsables de obra, así como particir en la Comisión que al efecto se establezca;
+XVII. Previa solicitud de los municipios, emitir opinión respecto de las solicitudes de reagrupamiento parcelario, así como brindar asistencia y asesoría técnica a los municipios que se lo soliciten;
 
-XIX. Establecer las políticas, normas y lineamientos en materia de regulación de la tenencia de la tierra e incorporación de suelo al desarrollo urbano, de acuerdo con los programas de desarrollo urbano, así como participar en dichos procesos, en coordinación con otras autoridades competentes;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XX. Emitir las resoluciones para la constitución de polígonos de actuación de su competencia, previo acuerdo con el o los municipios involucrados;
+XVIII. Establecer las políticas, normas y lineamientos en materia de regularización de la tenencia de la tierra e incorporación de suelo al desarrollo urbano, de acuerdo con los programas de desarrollo urbano, así como participar en dichos procesos, en coordinación con otras autoridades competentes;
 
-XXI. Formular y expedir los programas, lineamientos y normas técnicas en materia de patrimonio cultural inmueble, proponer al Gobernador del Estado las declaratorias respectivas, así como promover la participación de autoridades federales, estatales o municipales y de los sectores social y privado en la materia;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XXII. Establecer y vigilar el cumplimiento de la normatividad técnica para regular el espacio público y la protección a la imagen y estética urbana en acciones inherentes a la localización e instalación de anuncios fijos o móviles, pantallas electrónicas y estructuras para la colocación de publicidad en el espacio público o privado dentro del territorio del Estado;
+XIX. Emitir las resoluciones para la constitución de polígonos de actuación de su competencia, previo acuerdo con el o los municipios involucrados;
 
-XXIII. Prever o convenir, en forma conjunta con los municipios involucrados, y con la opinión de las dependencias federales competentes, la localización de los derechos de vía necesarios en materia de agua potable, drenaje pluvial, drenaje sanitario, energía eléctrica, comunicaciones, energéticos, vialidad, transporte, u otros; con objeto de determinar los trazos y vías públicas que por su importancia, utilización o funcionamiento constituyan o deban constituir el drenaje pluvial y la red vial estatal, intermunicipal y metropolitano, conforme a los planes o programas que correspondan, o a falta de éstos, previo dictamen y opinión de la Comisión Estatal de Desarrollo Urbano o de la comisión de la zona conurbada correspondiente;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XXIV. Tramitar y resolver los recursos administrativos que le competen conforme esta Ley, mediante los que sean impugnados sus actos o resoluciones; y
+XX. Formular y expedir los programas, lineamientos y normas técnicas en materia de patrimonio cultural inmueble, proponer al Gobernador del Estado las declaratorias respectivas, así como promover la participación de autoridades federales, estatales o municipales y de los sectores social y privado en la materia;
 
-XXV. Las demás que le atribuya esta Ley;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+XXI. Establecer y vigilar el cumplimiento de la normatividad técnica para regular el espacio público y la protección a la imagen y estética urbana en acciones inherentes a la localización e instalación de anuncios fijos o móviles, pantallas electrónicas y estructuras para la colocación de publicidad en el espacio público y privado dentro del territorio del Estado;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XXII. Prever o convenir, en forma conjunta con los municipios involucrados, y con la opinión de las dependencias federales competentes, la localización de los derechos de vía necesarios en materia de agua potable, drenaje pluvial, drenaje sanitario, energía eléctrica, comunicaciones, energéticos, vialidad, transporte, u otros; con objeto de determinar los trazos y vías públicas que por su importancia, utilización o funcionamiento constituyan o deban constituir el drenaje pluvial y la red vial estatal, intermunicipal y metropolitano, conforme a los planes o programas que correspondan, o a falta de éstos, previo dictamen y opinión de la Comisión Estatal de Desarrollo Urbano o de la comisión de la zona conurbada correspondiente;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XXIII. Tramitar y resolver los recursos administrativos que le competen conforme esta Ley, cuando sean impugnados sus actos o resoluciones; y
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XXIV. Las demás que le atribuya esta Ley;
 
 ###### ARTÍCULO 10.
 
@@ -433,7 +457,9 @@ V. Promover los programas y realizar acciones de conservación, mejoramiento y c
 
 VI. Participar en la formulación y aprobación de los Atlas de Riesgo en los términos de lo dispuesto por esta Ley;
 
-VII. Convenir con el Estado la coordinación de acciones en materia de desarrollo urbano y en su caso que la Dependencia Estatal competente, por un período que no excederá al período constitucional del Ayuntamiento, desempeñe de manera total o parcial las funciones técnicas o administrativas que le corresponden al municipio en cumplimiento de esta Ley;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+VII. Convenir con el Estado la coordinación de acciones en materia de desarrollo urbano y en su caso con la Dependencia Estatal competente, por un período que no excederá al período constitucional del Ayuntamiento, para que desempeñe de manera total o parcial las funciones técnicas o administrativas que le corresponden al municipio en cumplimiento de esta Ley;
 
 VIII. Proponer al H. Congreso del Estado, la fundación de centros de población en su circunscripción territorial;
 
@@ -445,7 +471,9 @@ XI. Intervenir en el cumplimiento, ejecución y financiamiento de los destinos d
 
 XII. Intervenir en la elaboración y ejecución de programas para la regularización de la tenencia de la tierra urbana;
 
-XIII. Otorgar o negar las solicitudes de autorizaciones, permisos o licencias de uso de suelo, uso de edificación, construcción, fraccionamientos, subdivisiones, relotificaciones, parcelaciones y conjuntos urbanos, de acuerdo con los planes o programas de desarrollo urbano parcial, las disposiciones de la presente Ley y demás que resulten aplicables. Tratándose de inmuebles ubicados en zonas de riesgo, el Ayuntamiento podrá solicitar opinión del (sic) Dependencia Estatal competente;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XIII. Otorgar o negar las solicitudes de autorizaciones, permisos o licencias de uso de suelo, uso de edificación, construcción, fraccionamientos, subdivisiones, relotificaciones, parcelaciones y conjuntos urbanos, de acuerdo con los planes o programas de desarrollo urbano, las disposiciones de la presente Ley y demás que resulten aplicables. Tratándose de inmuebles ubicados en zonas de riesgo, el Ayuntamiento podrá solicitar opinión del (sic) Dependencia Estatal competente;
 
 XIV. Dictaminar y resolver las solicitudes de constitución de polígonos de actuación de su competencia;
 
@@ -467,7 +495,9 @@ XXII. Evitar el establecimiento de asentamientos humanos en zonas de alto riesgo
 
 XXIII. Revocar los acuerdos de licencias, permisos y autorizaciones que se expidan en contravención a las disposiciones de la presente Ley, y demás disposiciones civiles y administrativas de observancia general;
 
-XXIV. Expedir las licencias para instalación de anuncios panorámicos, sujetándose a la normatividad establecida; y
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XXIV. Expedir las licencias para instalación de anuncios, sujetándose a la normatividad establecida; y
 
 XXV. Las demás que le atribuya esta Ley y otros ordenamientos legales.
 
@@ -487,8 +517,6 @@ Los órganos auxiliares son instancias permanentes de análisis, opinión y eval
 
 #### SECCIÓN PRIMERA. DE LA COMISIÓN ESTATAL DE DESARROLLO URBANO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 13.
 
 La Comisión Estatal de Desarrollo Urbano, es la instancia de coordinación institucional y de participación técnica especializada en temas inherentes al desarrollo urbano en el estado, y esta integrada por:
@@ -503,13 +531,17 @@ IV. El Titular de la Secretaría de Obras Públicas del Estado;
 
 V. El Titular de los Servicios de Agua y Drenaje de Monterrey, IPD;
 
-VI. El Titular de la Dependencia responsable de la nacionalización y modernización del sistema de transporte público en el Estado;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+VI. El Titular de la Dependencia responsable de la Racionalización y Modernización del Sistema de Transporte Público en el Estado;
 
 VII. El Titular de la Dependencia para la protección del medio ambiente en el Estado;
 
 VIII. El Titular del Instituto de la Vivienda del Estado;
 
-IX. El Titular de la Corporación de Proyectos Estratégicos;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+IX. El Titular de la Corporación de Proyectos Estratégicos del Estado;
 
 X. Los Titulares de los fondos y fidecomisos constituidos por el Gobierno del Estado para el desarrollo de sus diversas regiones cuando se trate de asuntos que tengan que ver con su región;
 
@@ -527,7 +559,9 @@ El Presidente de la Comisión podrá invitar a otros representantes del sector p
 
 Será Presidente de la Comisión Estatal de Desarrollo Urbano, el Gobernador del Estado y en su ausencia, será presidido por el Titular de la Dependencia Estatal.
 
-Las sesiones se efectuarán cuando menos cada cuatro meses y se requerirá de la presencia como mínima de la mitad más uno de los integrantes de dicha Comisión.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+Las sesiones se efectuarán cuando menos cada cuatro meses y se requerirá de la presencia como mínimo de la mitad más uno de los integrantes de dicha Comisión.
 
 Los acuerdos en el seno de la Comisión Estatal de Desarrollo Urbano se tomarán por mayoría de votos de sus miembros permanentes, referidos en las fracciones I a XIV del presente artículo, los integrantes invitados tendrán únicamente derecho a voz en las sesiones en que participen. En caso de empate el Presidente de la Comisión tendrá voto de calidad.
 
@@ -553,8 +587,6 @@ V. Estudiar y promover las medidas legislativas y administrativas necesarias y m
 
 VI. Las demás que para el cumplimiento de sus objetivos y funciones se tengan que realizar.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 15.
 
 La Comisión Estatal de Desarrollo Urbano, tendrá a su cargo la definición de compromisos y obligaciones entre sus participantes, respecto de los siguientes asuntos:
@@ -573,17 +605,19 @@ VI. Proponer y acordar inversiones y mecanismos de financiamiento y coordinació
 
 VII. Conocer las evaluaciones de los programas de desarrollo urbano y de la aplicación de las acciones e inversiones intersectoriales para el mejoramiento de la calidad de vida de la población del Estado;
 
-VII (sic). Analizar las recomendaciones y propuestas que le presente el Consejo de Participación Ciudadana; y
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-VIII. Proponer mecanismos para la planeación, desarrollo y ejecución de los programas de desarrollo urbano.
+VIII. Analizar las recomendaciones y propuestas que le presente el Consejo de Participación Ciudadana; y
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+IX. Proponer mecanismos para la planeación, desarrollo y ejecución de los programas de desarrollo urbano.
 
 #### SECCIÓN SEGUNDA. DE LA COMISIÓN PARA LA PRESERVACIÓN DEL PATRIMONIO CULTURAL
 
 ###### ARTÍCULO 16.
 
 Se crea la Comisión para la Preservación del Patrimonio Cultural del Estado, como órgano auxiliar de carácter técnico consultivo, facultado para establecer las políticas, lineamientos y criterios para la conservación, protección y mejoramiento del aspecto físico e imagen urbana de los centros de población, zonas típicas, monumentos y lugares de valor natural y cultural del Estado.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 17.
 
@@ -601,9 +635,13 @@ V. Un representante de la delegación estatal del Instituto Nacional de Antropol
 
 VI. Un representante de cada una de las cámaras, colegios de arquitectos e ingenieros, asociaciones y organizaciones de los sectores privado y social, que deban integrarse a la misma, en virtud del grado de ingerencia (sic) en el tema;
 
-VII. Los representantes municipales del área de (sic) responsable del control urbano; y
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-VIII. Demás que se designen para tal efecto.
+VII. Los representantes municipales del área responsable del control urbano; y
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+VIII. Las demás que se designen para tal efecto.
 
 ###### ARTÍCULO 18.
 
@@ -807,11 +845,11 @@ VIII. Promover la participación social en la elaboración, ejecución, evaluaci
 
 IX. Acordar la ejecución de acciones, obras, inversiones y proyectos encaminados a la protección del patrimonio cultural inmueble y la imagen urbana de la zona conurbada.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 32.
 
-Las comisiones de zonas de conurbación (sic) deberán contar con un reglamento interno aprobado por la misma que regule la actuación y participación de quienes la integran, este reglamento se publicará en el Periódico Oficial del Estado.
+Las comisiones de zonas conurbadas deberán contar con un reglamento interno aprobado por la misma que regule la actuación y participación de quienes la integran, este reglamento se publicará en el Periódico Oficial del Estado.
 
 Sus sesiones requerirán un quórum legal de por lo menos la mitad más uno de sus integrantes. Los acuerdos se tomarán por mayoría de los integrantes, teniendo el Presidente de la comisión voto de calidad en caso de empate.
 
@@ -821,11 +859,11 @@ La ausencia del Gobernador del Estado, será suplida por el Titular de la Depend
 
 Los acuerdos que se tomen en las comisiones de conurbación, serán vinculantes y obligatorios para las autoridades estatales y municipales. La violación a lo dispuesto en este precepto será sancionada de conformidad con lo establecido en el artículo 50 fracción XXII y demás aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 34.
 
-Cuando alguna comisión de la zona conurbada emita un acuerdo por el cual se dictamine la factibilidad de la ejecución de cualquiera de las acciones de crecimiento, mejoramiento o conservación que señala esta Ley, la licencia correspondiente deberá ser expedida por la autoridad municipal competente de cada uno de los municipios en cuya jurisdicción se vaya a realizar, de conformidad con las disposiciones de los planes o programas de desarrollo urbano municipal o de centro de población que corresponda.
+Cuando alguna comisión de la zona conurbada emita un acuerdo por el cual se dictamine la factibilidad de la ejecución de cualquiera de las acciones de conservación, mejoramiento y crecimiento que señala esta Ley, la licencia correspondiente deberá ser expedida por la autoridad municipal competente de cada uno de los municipios en cuya jurisdicción se vaya a realizar, de conformidad con las disposiciones de los planes o programas de desarrollo urbano municipal o de centro de población que corresponda.
 
 ###### ARTÍCULO 35.
 
@@ -967,8 +1005,6 @@ Por acuerdo de los integrantes permanentes de la Comisión de Planeación Region
 
 Las Comisiones de Planeación Regional podrán tener comités técnicos integrados por los Titulares de las Dependencias Estatal y Municipales de Desarrollo Urbano y los representantes de las dependencias Federales que incidan en el desarrollo urbano, para la formulación de los programas de ordenación de las regiones y proyectos derivados de éstos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 47.
 
 Las Comisiones de Planeación Regional tendrán las siguientes funciones:
@@ -977,7 +1013,9 @@ I. Formular, consultar y aprobar enviar a los Ayuntamientos de los municipios de
 
 II. Mantener y actualizar un sistema permanente de seguimiento y evaluación del programa de ordenación;
 
-III. Identificar, proponer y acordar la ejecución de programas, proyectos, acciones, inversiones y obras en materia de reservas para el crecimiento urbano o territoriales, preservación natural y equilibrio ecológico, infraestructura regional, vialidad regional, transporte foráneo, equipamientos y servicios públicos para la región y hacerlo del conocimiento de los municipios para su incorporación, en su caso, en sus planes o programas de desarrollo urbano municipales o de centros de población conforme las disposiciones de Ley;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+III. Identificar, proponer y acordar la ejecución de programas, proyectos, acciones, inversiones y obras en materia de reservas territoriales para el crecimiento urbano, preservación natural y equilibrio ecológico, infraestructura regional, vialidad regional, transporte foráneo, equipamientos y servicios públicos para la región y hacerlo del conocimiento de los municipios para su incorporación, en su caso, en sus planes o programas de desarrollo urbano municipales o de centros de población conforme las disposiciones de Ley;
 
 IV. Acordar la ejecución de inversiones y mecanismos de financiamiento y coordinación para el cumplimiento y ejecución de los programas de ordenación de las regiones correspondientes;
 
@@ -1009,13 +1047,15 @@ Para la ejecución de las acciones previstas en los programas de ordenación de 
 
 ### CAPÍTULO PRIMERO. DEL SISTEMA ESTATAL DE PLANEACIÓN DEL DESARROLLO URBANO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 50.
 
-El sistema estatal de planeación del desarrollo urbano es el conjunto de planes y programas tendientes al ordenamiento territorial de los asentamientos humanos y la regulación de las acciones de fundación, conservación, mejoramiento y crecimiento de los centros de población en la entidad, y estará integrado por:
+El sistema estatal de planeación del desarrollo urbano es el conjunto de planes o programas tendientes al ordenamiento territorial de los asentamientos humanos y la regulación de las acciones de fundación, conservación, mejoramiento y crecimiento de los centros de población en la entidad, y estará integrado por:
 
-I. El Plan Estatal de Desarrollo Urbano;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. El Programa Estatal de Desarrollo Urbano;
 
 II. Los programas regionales de desarrollo urbano;
 
@@ -1023,17 +1063,19 @@ III. Los programas de desarrollo urbano de las zonas conurbadas;
 
 IV. Los programas sectoriales;
 
-V. Los planes municipales de desarrollo urbano;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+V. Los planes o programas municipales de desarrollo urbano;
 
 VI. Los programas de desarrollo urbano de centros de población; y
 
 VII. Los programas parciales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 51.
 
-Los planes que integran el sistema estatal de planeación del desarrollo urbano tenderán a mejorar el nivel de vida de la población y deberán:
+Los planes o programas que integran el sistema estatal de planeación del desarrollo urbano tenderán a mejorar el nivel de vida de la población y deberán:
 
 I. Guardar congruencia con los otros niveles de planeación;
 
@@ -1041,7 +1083,9 @@ II. Sujetarse a los lineamientos y al orden jerárquico establecido en esta Ley 
 
 III. Atender los objetivos y estrategias del Plan Nacional de Desarrollo y el Plan Estatal de Desarrollo;
 
-IV. No podrán contravenir las disposiciones de los planes y programas de niveles superiores en el sistema de planeación;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+IV. No podrán contravenir las disposiciones de los planes o programas de niveles superiores en el sistema de planeación;
 
 V. Respetar el procedimiento establecido en esta Ley para su formulación, modificación, aprobación, aplicación y cumplimiento;
 
@@ -1051,23 +1095,23 @@ VII. Atender las necesidades, requerimientos y problemáticas que planteen los d
 
 VIII. Incluir políticas de fomento para el desarrollo urbano sustentable.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 52.
 
-El Estado a través de la Dependencia Estatal, analizará y verificará que los proyectos de planes y programas de desarrollo urbano aprobados, como requisito previo a su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad, guarden congruencia entre los distintos niveles de planeación. En caso de detectar incongruencias, formulará las recomendaciones que considere procedentes para que el proyecto de que se trate sea revisado o modificado, y poder emitir el dictamen de congruencia correspondiente a efecto de poder proceder a su publicación e inscripción.
+El Estado a través de la Dependencia Estatal, analizará y verificará que los proyectos de planes o programas de desarrollo urbano aprobados, como requisito previo a su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad, guarden congruencia entre los distintos niveles de planeación. En caso de detectar incongruencias, formulará las recomendaciones que considere procedentes para que el proyecto de que se trate sea revisado o modificado, y poder emitir el dictamen de congruencia correspondiente a efecto de poder proceder a su publicación e inscripción.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 53.
 
-La Dependencia estatal competente en materia de desarrollo urbano, conforme a los criterios del Centro de Colaboración Geoespacial, determinará las especificaciones, lineamientos y características técnicas a que deberá (sic) sujetarse los formatos, planos e información geográfica de los planes y programas de desarrollo urbano y los publicará mediante acuerdo en el Periódico Oficial del Estado, para garantizar la claridad, accesibilidad e intercambio de dicha información.
+La Dependencia estatal competente en materia de desarrollo urbano, conforme a los criterios del Centro de Colaboración Geoespacial, determinará las especificaciones, lineamientos y características técnicas a que deberán sujetarse los formatos, planos e información geográfica de los planes o programas de desarrollo urbano y los publicará mediante acuerdo en el Periódico Oficial del Estado, para garantizar la claridad, accesibilidad e intercambio de dicha información.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+### CAPÍTULO SEGUNDO
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE ELABORACIÓN, CONSULTA Y APROBACIÓN DE LOS PLANES Y PROGRAMAS DE DESARROLLO URBANO
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+DEL PROCEDIMIENTO DE ELABORACIÓN, CONSULTA Y APROBACIÓN DE LOS PLANES O PROGRAMAS DE DESARROLLO URBANO
 
 ###### ARTÍCULO 54.
 
@@ -1079,7 +1123,9 @@ II. Las autoridades correspondientes autorizarán que sean sometidos a consulta 
 
 III. Una vez cumplido lo anterior, deberán dar aviso del inicio del proceso de la consulta pública y especificando los principales cambios y modificaciones y las zonas afectadas. Este aviso deberá ser publicado en cuando menos dos de los diarios de mayor circulación en la entidad, durante 3-tres días consecutivos y deberá cumplir con un tamaño mínimo de un octavo de página;
 
-IV. Los proyectos de los planes y programas o las modificaciones a los vigentes estarán disponibles para la consulta pública durante un plazo de 30 a 60 días naturales según diga la convocatoria, en las oficinas de la autoridad estatal y/o en los municipios correspondientes, así como en sus respectivos portales de internet, durante dicho plazo los interesados podrán presentar por escrito a las autoridades competentes, los planteamientos que consideren respecto del proyecto del plan o programa de desarrollo urbano o las modificaciones vigentes, los planteamientos deberán estar fundamentados y consignar domicilio para oír y recibir notificaciones;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+IV. Los proyectos de los planes o programas o las modificaciones a los vigentes estarán disponibles para la consulta pública durante un plazo de 30 a 60 días naturales según diga la convocatoria, en las oficinas de la autoridad estatal y/o en los municipios correspondientes, así como en sus respectivos portales de internet, durante dicho plazo los interesados podrán presentar por escrito a las autoridades competentes, los planteamientos que consideren respecto del proyecto del plan o programa de desarrollo urbano o las modificaciones vigentes, los planteamientos deberán estar fundamentados y consignar domicilio para oír y recibir notificaciones;
 
 V. Dentro del plazo que refiere la fracción anterior, la o las autoridades competentes, según el caso, deberán:
 
@@ -1099,7 +1145,9 @@ c) Durante el mismo plazo la autoridad competente verificará la congruencia del
 
 VI. La autoridad competente tendrá un plazo de cuarenta días naturales prorrogables a ochenta días naturales posteriores a la celebración de la última audiencia pública y de acuerdo a la complejidad de los planteamientos recibidos, para dar respuesta fundamentada a los planteamientos improcedentes, mismos que se deberán notificar en el domicilio señalado para oír y recibir notificaciones;
 
-VII. Cumplidas las formalidades para la participación social en la formulación o modificación de los planes y programas de desarrollo urbano, las autoridades competentes elaborarán la versión final de dichos planes o programas incorporando en lo conducente, los resultados de dicha participación. Los planes o programas o sus modificaciones se aprobarán de acuerdo a lo establecido para cada caso, los publicarán en forma integra en el Periódico Oficial del Estado y los inscribirán en el Registro Público de la Propiedad y del Comercio, en los términos que señala esta Ley.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+VII. Cumplidas las formalidades para la participación social en la formulación o modificación de los planes o programas de desarrollo urbano, las autoridades competentes elaborarán la versión final de dichos planes o programas incorporando en lo conducente, los resultados de dicha participación. Los planes o programas o sus modificaciones se aprobarán de acuerdo a lo establecido para cada caso, los publicarán en forma integra en el Periódico Oficial del Estado y los inscribirán en el Registro Público de la Propiedad y del Comercio, en los términos que señala esta Ley.
 
 Los planes después de ser publicados en el Periódico Oficial del Estado podrán publicarse en forma abreviada en uno de los Periódicos de mayor circulación de la entidad.
 
@@ -1109,15 +1157,15 @@ Los planes o programas de desarrollo urbano, entrarán en vigor quince días há
 
 Las autoridades a quienes corresponda la expedición de los planes o programas de desarrollo urbano, que no gestionen su inscripción en el plazo a que se refiere este artículo, así como los jefes de las oficinas de registro que se abstengan de llevarla a cabo o la realicen con deficiencia, serán sancionadas conforme a las disposiciones jurídicas aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 56.
 
-Los planes y programas de desarrollo urbano deberán ser revisados para modificarlos o confirmarlos cuando menos cada seis años al inicio de su gestión, en el caso de los programas estatales, regionales y sectoriales; y cuando menos cada tres años, en el caso de los programas municipales al inicio de su gestión, de zonas conurbadas, de centros de población y parciales derivados de estos.
+Los planes o programas de desarrollo urbano deberán ser revisados para modificarlos o confirmarlos cuando menos cada seis años al inicio de su gestión, en el caso de los programas estatales, regionales y sectoriales; y cuando menos cada tres años, en el caso de los programas municipales al inicio de su gestión, de zonas conurbadas, de centros de población y parciales derivados de estos.
 
-En el caso del Plan Estatal de Desarrollo Urbano su revisión deberá llevarse a cabo durante el primer año del ejercicio Constitucional de la administración estatal, para valorar su actualización. Se considerarán ratificados los planes y programas que no cumplan oportunamente con esta disposición. Lo mismo aplica en el caso del Programa Municipal de Desarrollo Urbano que deberá ser revisado en igual forma durante el primer año del Ejercicio Constitucional del Ayuntamiento para su actualización.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+En el caso Programa Estatal de Desarrollo Urbano su revisión deberá llevarse a cabo durante el primer año del ejercicio Constitucional de la administración estatal, para valorar su actualización. Se consideraran ratificados los planes y programas que no cumplan oportunamente con esta disposición. Lo mismo aplica en el caso del Plan o Programa Municipal de Desarrollo Urbano que deberá ser revisado en igual forma durante el primer año del Ejercicio Constitucional del Ayuntamiento para valorar su actualización.
 
 ###### ARTÍCULO 57.
 
@@ -1135,23 +1183,23 @@ V. Cuando sobrevengan circunstancias que impidan su ejecución.
 
 En todos los casos la modificación deberá llevarse a cabo de acuerdo al procedimiento previsto en el artículo 54, con las salvedades en cuanto al procedimiento de consulta pública establecidas en el artículo 59 de esta Ley.
 
-Salvo las que ocurran como consecuencia de lo señalado en la fracción IV de este artículo, en donde el procedimiento a seguir será el indicado en el artículo 54 de este Ordenamiento.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-La modificación total o parcial de los planes y programas de desarrollo urbano se hará sin perjuicio de las vigencias de los permisos, licencias, autorizaciones o cualesquier otro derecho adquirido que hayan obtenido los particulares de conformidad con los planes o programas antes de su modificación o confirmación.
+La modificación total o parcial de los planes o programas de desarrollo urbano se hará sin perjuicio de las vigencias de los permisos, licencias, autorizaciones o cualesquier otro derecho adquirido que hayan obtenido los particulares de conformidad con los planes o programas antes de su modificación o confirmación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 58.
 
-La modificación total o parcial de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial, o de los planes sectoriales se llevará a efecto mediante el mismo procedimiento que para su aprobación, publicación y registro se llevo a cabo, salvo en los casos establecidos en el artículo 59 donde podrá haber una variación al procedimiento para la consulta pública.
+La modificación total o parcial de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial, o de los programas sectoriales se llevará a efecto mediante el mismo procedimiento que para su aprobación, publicación y registro se llevo a cabo, salvo en los casos establecidos en el artículo 59 de esta Ley donde podrá haber una variación al procedimiento para la consulta pública.
 
 Así mismo esta modificación deberá ser ordenada por la misma autoridad que lo aprobó, mediante acuerdo que cumpla con el procedimiento y demás formalidades exigidas para su aprobación. Este acuerdo será la base para la autorización o cancelación de su inscripción en el Registro Público de la Propiedad y del Comercio, dentro de los quince días siguientes a la fecha de publicación del acuerdo en el Periódico Oficial del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 59.
 
-En el caso de modificaciones parciales a los planes o programas de desarrollo urbano, de centros de población, la consulta ciudadana podrá limitarse exclusivamente a los propietarios o poseedores de los lotes o predios que se encuentren dentro de la colonia o distrito a modificar, en los términos de las disposiciones de carácter general o reglamentos municipales que al efecto expidan los Ayuntamientos correspondientes.
+En el caso de modificaciones parciales a los programas de desarrollo urbano de centros de población, la consulta ciudadana podrá limitarse exclusivamente a los propietarios o poseedores de los lotes o predios que se encuentren dentro de la colonia o distrito a modificar, en los términos de las disposiciones de carácter general o reglamentos municipales que al efecto expidan los Ayuntamientos correspondientes.
 
 En el caso de modificaciones a un programa regional o un programa de zona conurbada con la finalidad de incluir un proyecto de alcance regional o conurbado no incluido en el programa respectivo, la consulta ciudadana podrá limitarse a los municipios que se vean afectados por este proyecto. Si algún Municipio se considera afectado por la obra o proyecto deberá ser incluido en la consulta.
 
@@ -1159,25 +1207,31 @@ En el caso de modificaciones a un programa regional o un programa de zona conurb
 
 Los planes o programas aprobados se mantendrán para la consulta permanente de la comunidad en las oficinas de los municipios correspondientes, como a través de sus portales oficiales en Internet y en la Dependencia Estatal, se difundirán a través de los sistemas de información geográfica, estadística para la planeación urbana y regional del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+### CAPÍTULO TERCERO
 
-### CAPÍTULO TERCERO. DEL CONTENIDO (SIC) LOS PLANES Y PROGRAMAS QUE INTEGRAN EL SISTEMA ESTATAL DE PLANEACIÓN
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+DEL CONTENIDO (SIC) LOS PLANES O PROGRAMAS QUE INTEGRAN EL SISTEMA ESTATAL DE PLANEACIÓN
 
-#### SECCIÓN PRIMERA. DEL CONTENIDO GENERAL DE LOS PLANES
+#### SECCIÓN PRIMERA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+DEL CONTENIDO GENERAL DE LOS PLANES O PROGRAMAS
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 61.
 
-Los programas incluidos en el sistema estatal de planeación deberán estructurarse y contener lo siguiente:
+Los planes y programas incluidos en el sistema estatal de planeación deberán estructurarse y contener lo siguiente:
 
 I. La estrategia general para el ordenamiento territorial de los asentamientos humanos y el desarrollo regional y urbano de los centros de población, en el contexto y nivel de planeación que corresponda, incluyendo la que orienta la inversión pública y privada a proyectos prioritarios;
 
 II. La identificación de las áreas o temas por clasificar, territorialmente y/o sector, según el nivel de planeación que corresponda;
 
-III. Los compromisos y la programación de acciones, obras, inversiones y servicios a cargo del sector público para el cumplimiento del programa, particularmente tratándose de destinos del suelo;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+III. Los compromisos y la programación de acciones, obras, inversiones y servicios a cargo del sector público para el cumplimiento del plan o programa, particularmente tratándose de destinos del suelo;
 
 IV. Los instrumentos y mecanismos que se requieren para la ejecución de las acciones contenidas en las estrategias de desarrollo urbano;
 
@@ -1185,7 +1239,9 @@ V. El estado que guardan los sistemas de redes de infraestructura, servicios y e
 
 VI. La orientación y políticas para el desarrollo sustentable en el Estado, en función de sus recursos naturales, de sus actividades productivas y el equilibrio entre los asentamientos humanos y sus condicionantes ambientales;
 
-VII. Los mecanismos de instrumentación financiera a utilizarse para sufragar las obras, acciones e inversiones propuestas en el plan, conforme a las disposiciones fiscales y presupuestales aplicables;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+VII. Los mecanismos de instrumentación financiera a utilizarse para sufragar las obras, acciones e inversiones propuestas en el plan o programa, conforme a las disposiciones fiscales y presupuestales aplicables;
 
 VIII. Los mecanismos de control, seguimiento y evaluación del plan o programa; y
 
@@ -1213,11 +1269,11 @@ El proyecto del programa o su modificación será elaborado por la Dependencia E
 
 Una vez elaborado el programa o su modificación y desahogadas las consultas públicas, la Dependencia Estatal competente en materia de Desarrollo Urbano del Estado, deberá someterlo al dictamen de la Comisión Estatal de Desarrollo Urbano. Si el dictamen no es favorable, la Dependencia Estatal, hará las modificaciones conducentes, lo presentará nuevamente a dictamen y en caso de que éste sea favorable, se enviará al Gobernador del Estado para su aprobación y refrendo. Posteriormente, se ordenará su publicación en el Periódico Oficial del Estado, se inscribirá en el Registro Público de la Propiedad y el Comercio en los términos de Ley y se le dará difusión pública.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+#### SECCIÓN TERCERA
 
-#### SECCIÓN TERCERA. DE LOS PLANES Y PROGRAMAS REGIONALES DE DESARROLLO URBANO
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+DE LOS PROGRAMAS REGIONALES DE DESARROLLO URBANO
 
 ###### ARTÍCULO 64.
 
@@ -1225,7 +1281,9 @@ Los planes regionales son los instrumentos que integran acciones, obras y servic
 
 Los planes regionales deberán contener, además de lo establecido en el artículo 61 de esta Ley, lo siguiente:
 
-I. La zonificación aplicable, ya sea en la totalidad del ámbito especial de validez, o en áreas específicas de la región de que se trate;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. La zonificación aplicable, ya sea en la totalidad del ámbito espacial de validez, o en áreas específicas de la región de que se trate;
 
 II. Las metas generales en cuanto a la calidad de vida en la región de que se trate;
 
@@ -1237,11 +1295,11 @@ V. Las bases de coordinación entre dependencias federales, estatales y municipa
 
 VI. Los proyectos y estudios que prioricen la inversión pública a través del intercambio de criterios entre las dependencias que inciden en el desarrollo regional y urbano mediante los convenios respectivos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 65.
 
-La elaboración y consulta de los planes Regionales así como su modificación se realizará conforme a lo dispuesto en los artículos 54 y 59 de esta Ley y posteriormente se aprobarán a través de la Comisión de Planeación Regional previa autorización de los Ayuntamientos respectivos.
+La elaboración y consulta de los programas Regionales así como su modificación se realizará conforme a lo dispuesto en los artículos 54 y 59 de esta Ley y posteriormente se aprobarán a través de la Comisión de Planeación Regional previa autorización de los Ayuntamientos respectivos.
 
 #### SECCIÓN CUARTA. DE LOS PROGRAMAS DE ORDENACIÓN DE LAS ZONAS CONURBADAS
 
@@ -1411,8 +1469,6 @@ VII. Estrategia para el reuso de agua tratada.
 
 El Programa Sectorial de Transporte y Vialidad tendrá por objeto articular el desarrollo ordenado de los programas, obras y acciones en materia de transporte y vialidad en la Entidad, con la planeación del desarrollo urbano y la participación de los sectores público, privado y social. Por lo que se refiere a su contenido y reglas generales de aprobación se sujetará a las disposiciones de esta Ley, así como a las disposiciones específicas que establezca la Ley de la materia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 78.
 
 El Programa Sectorial de Transporte y Vialidad, además de lo dispuesto en el artículo 61 de esta Ley, deberá contener lo siguiente:
@@ -1441,7 +1497,9 @@ c) El sistema de control de operación;
 
 d) Las estaciones; y
 
-d) (sic) Los carriles exclusivos.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+e) Los carriles exclusivos.
 
 VI. Los niveles de prioridad de los proyectos incluidos;
 
@@ -1451,11 +1509,11 @@ VIII. Las bases para la elaboración y ejecución de los proyectos estratégicos
 
 #### SECCIÓN NOVENA. PROGRAMA SECTORIAL DE EQUIPAMIENTO URBANO Y ÁREAS VERDES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 79.
 
-El plan sectorial de equipamiento y áreas verdes tendrá por objeto estructurar junto con la vialidad el desarrollo ordenado de los programas y acciones en materia de equipamiento en la entidad, con la planeación del desarrollo urbano y la participación de los sectores público, privado y social. Por lo que se refiere a su contenido y reglas generales de aprobación se sujetará a las disposiciones de esta Ley, así como las disposiciones específicas que establezca la Ley de la materia.
+El programa sectorial de equipamiento y áreas verdes tendrá por objeto estructurar junto con la vialidad el desarrollo ordenado de los programas y acciones en materia de equipamiento en la entidad, con la planeación del desarrollo urbano y la participación de los sectores público, privado y social. Por lo que se refiere a su contenido y reglas generales de aprobación se sujetará a las disposiciones de esta Ley, así como las disposiciones específicas que establezca la Ley de la materia.
 
 ###### ARTÍCULO 80.
 
@@ -1507,17 +1565,21 @@ La dependencia encargada del desarrollo urbano del municipio formulará el proye
 
 Cuando la circunscripción territorial de un municipio este ocupado en su totalidad por un solo centro de población, el plan municipal deberá contener lo establecido para un plan de centro de población.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+#### SECCIÓN DÉCIMA PRIMERA
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LOS PLANES O PROGRAMAS DE DESARROLLO URBANO DE CENTROS DE POBLACIÓN
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+DE LOS PROGRAMAS DE DESARROLLO URBANO DE CENTROS DE POBLACIÓN
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 82.
 
-Los planes o programas de desarrollo urbano de centros de población son los instrumentos que integran el conjunto de disposiciones y normas para ordenar y regular su zonificación, reservas, usos y destinos del suelo y sus compatibilidades, las especificaciones de las densidades de población, construcción y ocupación, que tiendan a mejorar el funcionamiento y organización de sus áreas de conservación, mejoramiento y crecimiento, así como establecer las bases para la programación de acciones, obras y servicios.
+Los programas de desarrollo urbano de centros de población son los instrumentos que integran el conjunto de disposiciones y normas para ordenar y regular su zonificación, reservas, usos y destinos del suelo y sus compatibilidades, las especificaciones de las densidades de población, construcción y ocupación, que tiendan a mejorar el funcionamiento y organización de sus áreas de conservación, mejoramiento y crecimiento, así como establecer las bases para la programación de acciones, obras y servicios.
 
-Los planes o programas de desarrollo urbano de los centros de población deberán contener, además de lo estipulado en el artículo 61 de esta Ley, lo siguiente:
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+Los programas de desarrollo urbano de los centros de población deberán contener, además de lo estipulado en el artículo 61 de esta Ley, lo siguiente:
 
 I. Las áreas que integran o delimitan el centro de población o zonificación primaria;
 
@@ -1549,15 +1611,15 @@ La dependencia encargada del desarrollo urbano en el municipio, formulará el pr
 
 #### SECCIÓN DÉCIMA SEGUNDA. DE LOS PROGRAMAS PARCIALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 84.
 
 Los programas parciales tendrán por objeto precisar, complementar, adecuar, ordenar y regular el desarrollo urbano de un área, elemento o distrito determinado de un centro de población, analizar y determinar las relaciones entre los componentes de la estructura urbana; detallar la estrategia general para la aplicación de las políticas de ordenamiento, conservación, mejoramiento y crecimiento; determinar la zonificación y el diseño urbano del área, distrito o elemento seleccionado; regular los usos y destinos del suelo urbano y establecer programas y acciones de ejecución.
 
 Los programas parciales de desarrollo urbano podrán precisar, complementar y aplicar a mayor detalle los programas municipales o de centros de población, abarcando un área determinada, distrito o elemento del mismo y serán elaborados por la dependencia encargada del desarrollo urbano del Municipio.
 
-Los planes parciales no podrán modificar las políticas y estrategias establecidas en los planes de los cuales derivan.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+Los programas parciales no podrán modificar las políticas y estrategias establecidas en los planes de los cuales derivan.
 
 ###### ARTÍCULO 85.
 
@@ -1607,15 +1669,17 @@ En el caso de que un programa parcial de desarrollo urbano o de ordenamiento eco
 
 Los proyectos de los programas parciales serán elaborados por la dependencia encargada del desarrollo urbano del Municipio y se someterán a consulta pública y aprobación en los términos del artículo 54 de esta Ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+### CAPÍTULO CUARTO
 
-### CAPÍTULO CUARTO. DE LOS EFECTOS DE LOS PROGRAMAS DE DESARROLLO URBANO
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+DE LOS EFECTOS DE LOS PLANES DE DESARROLLO URBANO
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 88.
 
-Los planes y programas de desarrollo urbano, a que se refiere esta Ley tienen como objetivo dar cumplimiento al párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos para ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, reservas y destinos de tierras, aguas y bosques, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población en el Estado. Serán de carácter obligatorio para los particulares y para las dependencias y entidades de las administraciones públicas federales, estatales y municipales, en el ámbito de sus respectivas competencias.
+Los planes o programas de desarrollo urbano, a que se refiere esta Ley tienen como objetivo dar cumplimiento al párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos para ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, reservas y destinos de tierras, aguas y bosques, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población en el Estado. Serán de carácter obligatorio para los particulares y para las dependencias y entidades de las administraciones públicas federales, estatales y municipales, en el ámbito de sus respectivas competencias.
 
 La ejecución de acciones urbanas y obras públicas o privadas deberán sujetarse a lo establecido en esta Ley y en los planes y programas de desarrollo urbano, sin este requisito no se otorgará autorización, licencia o permiso alguno para efectuarlos. Las que se expidan no obstante esta prohibición, serán nulas de pleno derecho.
 
@@ -1625,13 +1689,13 @@ A partir de la fecha de la inscripción de un plan o programa de desarrollo urba
 
 No podrá celebrarse ni inscribirse ningún acto, convenio, contrato o afectación en los registros públicos de la propiedad o en los catastrales, que no se ajuste a lo dispuesto en esta Ley y en los planes aplicables en la materia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 90.
 
 Conforme a la Ley General de Asentamientos Humanos todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier otro derecho real, deberán contener la mención expresa de la zonificación primaria y las cláusulas relativas a los usos, destinos o reservas de áreas y predios asignados conforme a los planes de desarrollo urbano correspondientes. En el caso de que dichas disposiciones no se incluyan se tendrán por puestos para todos los efectos de la Ley.
 
-No surtirán efecto jurídico alguno los actos, convenios y contratos relativos a la propiedad o al uso o aprovechamiento de áreas y predios que contravengan esta Ley y los planes y programas de desarrollo urbano inscritos en el Registro Público de la Propiedad y del Comercio.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+No surtirán efecto jurídico alguno los actos, convenios y contratos relativos a la propiedad o al uso o aprovechamiento de áreas y predios que contravengan esta Ley y los planes o programas de desarrollo urbano inscritos en el Registro Público de la Propiedad y del Comercio.
 
 ###### ARTÍCULO 91.
 
@@ -1645,21 +1709,27 @@ Los planes y programas de desarrollo urbano serán el sustento territorial para 
 
 La planeación social y económica, así como la programación y la presupuestación pública del Estado y de los municipios, para concretar los objetivos, estrategias, metas y prioridades del desarrollo, deberán ajustarse a los criterios de ubicación espacial y las prioridades definidas en los planes de desarrollo urbano.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 93.
 
-Todas las acciones, inversiones y obras relativas al aprovechamiento del territorio que realicen el Estado y los municipios deberán sujetarse a lo dispuesto en los planes y programas de desarrollo urbano respectivos. Sin este requisito la autoridad competente no podrá otorgar la autorización presupuestal o de financiamiento o las autorizaciones administrativas para efectuarlas. Para tal efecto, la solicitud presupuestal correspondiente deberá incluir una exposición de la relación entre las acciones, inversiones y obras de que se trate con fundamento en los objetivos y metas de los planes de desarrollo urbano.
+Todas las acciones, inversiones y obras relativas al aprovechamiento del territorio que realicen el Estado y los municipios deberán sujetarse a lo dispuesto en los planes o programas de desarrollo urbano respectivos. Sin este requisito la autoridad competente no podrá otorgar la autorización presupuestal o de financiamiento o las autorizaciones administrativas para efectuarlas. Para tal efecto, la solicitud presupuestal correspondiente deberá incluir una exposición de la relación entre las acciones, inversiones y obras de que se trate con fundamento en los objetivos y metas de los planes de desarrollo urbano.
 
-El Estado y los municipios, así como sus entidades paraestatales deberán prever en sus procesos de presupuestación, programación y gasto, el ejercicio de acciones y recursos en plena congruencia con lo que dispongan los planes de desarrollo urbano.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-Los municipios estarán obligados a aplicar los instrumentos de financiamiento de su competencia, que contemplen los planes de desarrollo urbano, o los polígonos de actuación de interés público, particularmente el impuesto sobre aumento de valor y mejoría específica de la propiedad y los derechos por cooperación para obras públicas que regula la Ley de Hacienda para los Municipios del Estado de Nuevo León.
+El Estado y los municipios, así como sus entidades paraestatales deberán prever en sus procesos de presupuestación, programación y gasto, el ejercicio de acciones y recursos en plena congruencia con lo que dispongan los planes o programas de desarrollo urbano.
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+Los municipios estarán obligados a aplicar los instrumentos de financiamiento de su competencia, que contemplen los planes o programas de desarrollo urbano, o los polígonos de actuación de interés público, particularmente el impuesto sobre aumento de valor y mejoría específica de la propiedad y los derechos por cooperación para obras públicas que regula la Ley de Hacienda para los Municipios del Estado de Nuevo León.
 
 La violación a lo dispuesto en este precepto será sancionada de conformidad con lo establecido en el artículo 50, fracción XXII, y demás aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+## TÍTULO SEXTO
 
-## TÍTULO SEXTO. DE LAS REGULACIONES A LA PROPIEDAD, RESERVAS TERRITORIALES Y REGULARIZACIÓN DE LA TIERRA
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+DE LAS REGULACIONES A LA PROPIEDAD, RESERVAS TERRITORIALES Y REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
 
 ### CAPÍTULO PRIMERO. DE LAS REGULACIONES A LA PROPIEDAD
 
@@ -1671,33 +1741,35 @@ Para cumplir con los fines señalados en el párrafo tercero del artículo 27 de
 
 La planeación del desarrollo urbano no confiere a los propietarios o poseedores de áreas y predios derecho alguno a exigir indemnización, salvo los casos previstos en la presente Ley y en otras disposiciones en la materia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 96.
 
 Las áreas y predios ubicados en el territorio del Estado, cualquiera que sea su régimen jurídico, están sujetas a las disposiciones que en materia de desarrollo urbano dicten las autoridades competentes conforme a esta Ley y demás disposiciones jurídicas aplicables.
 
 Las tierras agrícolas y forestales, así como las destinadas a la preservación ecológica, deberán utilizarse preferentemente en dichas actividades o fines de conformidad con las disposiciones aplicables y con fundamento en las autorizaciones respectivas que en base a estas dicten las autoridades competentes.
 
-Las acciones urbanas que se lleven a cabo en áreas y predios ejidales o comunales dentro de los límites de los centros de población o de las zonas, se sujetarán a lo dispuesto en esta Ley, a los programas de desarrollo urbano aplicables, de conformidad con las disposiciones de la Ley Agraria.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+Las acciones urbanas que se lleven a cabo en áreas y predios ejidales o comunales dentro de los límites de los centros de población o de las zonas, de reserva para el crecimiento urbano, se sujetarán a lo dispuesto en esta Ley, a los programas de desarrollo urbano aplicables, de conformidad con las disposiciones de la Ley Agraria.
 
 En los casos de incorporación de tierras ejidales o comunales, así como de propiedad privada al desarrollo urbano deberá contarse con las autorizaciones urbanas correspondientes, expedidas por la autoridad municipal competente.
 
 En igual sentido, cuando se trate de aportación de tierras o transmisión del dominio de propiedades ejidales o comunales, o de propiedad privada, cuyas tierras se encuentren dentro de los límites de los centros de población deberá contarse con las autorizaciones urbanas correspondientes, expedidas por la autoridad municipal competente.
 
-En los casos de tierras ejidales o comunales ubicadas dentro de los límites de un centro de población, los notarios y demás fedatarios públicos solo podrán autorizar escrituras de actos, convenios y contratos de transmisión o enajenación de derechos agrarios, previa comprobación de la existencia de las constancias, autorizaciones, permisos o licencias que las autoridades competentes expidan en relación a la utilización o disposición de áreas o predios, de conformidad con lo previsto con esta Ley y los planes (sic) programas de desarrollo urbano aplicables, mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+En los casos de tierras ejidales o comunales ubicadas dentro de los límites de un centro de población, los notarios y demás fedatarios públicos solo podrán autorizar escrituras de actos, convenios y contratos de transmisión o enajenación de derechos agrarios, previa comprobación de la existencia de las constancias, autorizaciones, permisos o licencias que las autoridades competentes expidan en relación a la utilización o disposición de áreas o predios, de conformidad con lo previsto con esta Ley y los planes o programas de desarrollo urbano aplicables, mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 97.
 
-Para constituir, ampliar y delimitar las (sic) la zona de urbanización ejidal y su reserva de crecimiento, así como para regularizar la tenencia de predios en los que se hayan constituido asentamientos humanos irregulares, los ejidatarios, comuneros o avecindados, así como las autoridades agrarias deberán ajustarse a las disposiciones de esta Ley, a lo establecido en los planes de desarrollo urbano aplicables y a sus disposiciones reglamentarias. Para ese efecto deberán recabar las autorizaciones de las autoridades locales competentes, de conformidad con las disposiciones de la Ley General de Asentamientos Humanos y la Ley Agraria.
+Para constituir, ampliar y delimitar las (sic) la zona de urbanización ejidal y su reserva de crecimiento, así como para regularizar la tenencia de predios en los que se hayan constituido asentamientos humanos irregulares, los ejidatarios, comuneros o avecindados, así como las autoridades agrarias deberán ajustarse a las disposiciones de esta Ley, a lo establecido en los planes o programas de desarrollo urbano aplicables y a sus disposiciones reglamentarias. Para ese efecto deberán recabar las autorizaciones de las autoridades locales competentes, de conformidad con las disposiciones de la Ley General de Asentamientos Humanos y la Ley Agraria.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 98.
 
-Los propietarios de áreas o predios comprendidos en suelo no urbanizable conforme a los planes de desarrollo urbano, cualquiera que sea su régimen de propiedad, solo podrán aprovecharlos y disponer de ellos siempre y cuando no altere sus condiciones naturales, ni sus funciones ambientales.
+Los propietarios de áreas o predios comprendidos en suelo no urbanizable conforme a los planes o programas de desarrollo urbano, cualquiera que sea su régimen de propiedad, solo podrán aprovecharlos y disponer de ellos siempre y cuando no altere sus condiciones naturales, ni sus funciones ambientales.
 
 ###### ARTÍCULO 99.
 
@@ -1707,11 +1779,11 @@ El plazo anterior no se aplica en el caso de los destinos de suelo de vialidad y
 
 Si los propietarios de los predios señalados con destinos del suelo en los planes o programas de desarrollo urbano no aceptan o se oponen a la venta de los predios al Estado o a los Municipios la autoridad competente procederá a la expropiación de los predios en los términos de este ordenamiento y de la Ley de la materia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 100.
 
-En los predios donde el uso de suelo o construcción existente no corresponda al señalado en los programas, el propietario o poseedor solo podrá realizar obras de reparación o mantenimiento. Cualquier ampliación o cambio de uso de suelo deberá ajustarse al plan o programa de desarrollo urbano vigente, y en su caso, a los reglamentos municipales de la materia vigentes.
+En los predios donde el uso de suelo o construcción existente no corresponda al señalado en los planes o programas, el propietario o poseedor solo podrá realizar obras de reparación o mantenimiento. Cualquier ampliación o cambio de uso de suelo deberá ajustarse al plan o programa de desarrollo urbano vigente, y en su caso, a los reglamentos municipales de la materia vigentes.
 
 ### CAPÍTULO SEGUNDO. DEL SUELO Y DE LAS RESERVAS TERRITORIALES
 
@@ -1719,11 +1791,11 @@ En los predios donde el uso de suelo o construcción existente no corresponda al
 
 Es de utilidad pública la adquisición de tierra por el Estado o los municipios para la creación de reservas para el crecimiento urbano o territoriales patrimoniales que satisfagan las necesidades de suelo urbano para la fundación, conservación, mejoramiento y crecimiento de los centros de población, así como para la vivienda, su infraestructura y equipamiento.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 102.
 
-Con base en los planes de desarrollo urbano, las entidades y dependencias estatales y municipales, formularán sus programas de requerimientos inmobiliarios, que entre otras consideraciones, contengan los lugares y superficies de suelo necesarios para la realización de sus programas, beneficiarios, tipo de acciones, costos y medios de financiamiento.
+Con base en los planes o programas de desarrollo urbano, las entidades y dependencias estatales y municipales, formularán sus programas de requerimientos inmobiliarios, que entre otras consideraciones, contengan los lugares y superficies de suelo necesarios para la realización de sus programas, beneficiarios, tipo de acciones, costos y medios de financiamiento.
 
 El Estado podrá transmitir a los municipios, áreas y predios para la fundación, conservación, mejoramiento y crecimiento de los centros de población, en los términos de Ley y previo decreto de desafectación otorgado por el Congreso del Estado.
 
@@ -1755,13 +1827,13 @@ V. Reducir y abatir los procesos de ocupación irregular de áreas y predios, me
 
 VI. Fortalecer los catastros y registros públicos de la propiedad y la modernización de las haciendas municipales, promoviendo la actualización de los tributos relacionados con la propiedad inmobiliaria.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 106.
 
 Para los efectos del artículo anterior, el Gobernador del Estado a través de la Dependencia Estatal podrá suscribir acuerdos de coordinación con los municipios, las entidades y dependencias federales y, en su caso, convenios de concertación con los sectores social y privado, en los que se especificarán:
 
-I. Los requerimientos de suelo y reservas territoriales para el desarrollo urbano para sus distintos usos, conforme a lo previsto en los planes y programas en la materia;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. Los requerimientos de suelo y reservas territoriales para el desarrollo urbano para sus distintos usos y destinos, conforme a lo previsto en los planes o programas en la materia;
 
 II. Los inventarios y disponibilidad de inmuebles para el desarrollo urbano y la vivienda y su equipamiento;
 
@@ -1779,7 +1851,9 @@ VIII. Los compromisos para la modernización de procedimientos y trámites admin
 
 IX. Los mecanismos e instrumentos financieros para la dotación de infraestructura, equipamiento y servicios urbanos; y
 
-X. El ejercicio del derecho de preferencia para la adquisición de predios comprendidos en las áreas de reserva para el crecimiento urbano señaladas en los planes correspondientes.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+X. El ejercicio del derecho de preferencia para la adquisición de predios comprendidos en las áreas de reserva para el crecimiento urbano señaladas en los planes o programas correspondientes.
 
 ###### ARTÍCULO 107.
 
@@ -1877,13 +1951,13 @@ La regularización de la tenencia de la tierra como una acción de mejoramiento 
 
 La autoridad competente se abstendrá de dar trámite a solicitudes de regularización de la tierra en predios que previamente hayan sido ocupados irregularmente o invadidos por terceros, salvo que exista denuncia o querella en contra de los presuntos invasores, en cuyo caso la autoridad esperará a que la resolución definitiva sea dictada por la autoridad jurisdiccional, sin perjuicio de que el particular cumpla con lo establecido en esta Ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 117.
 
 La regularización de la tenencia de la tierra en el territorio del Estado se sujetará a las siguientes normas:
 
-I. Se ajustará a lo que establezcan los planes de desarrollo urbano aplicables;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. Se ajustará a lo que establezcan los planes o programas de desarrollo urbano aplicables;
 
 II. Estar ubicados en áreas factibles de urbanizar y en ningún caso podrá regularizarse la tenencia de la tierra ubicada en áreas o zonas de riesgo o de preservación ecológica, de conformidad con lo que señalen los planes o programas de desarrollo urbano correspondientes;
 
@@ -1907,8 +1981,6 @@ XI. Las obras de infraestructura y urbanización necesarias deberán ser realiza
 
 #### SECCIÓN SEGUNDA. PROCEDIMIENTO PARA REGULARIZAR LOS ASENTAMIENTOS HUMANOS IRREGULARES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 118.
 
 Para autorizar la regularización de la tenencia de la tierra de un asentamiento humano irregular, el interesado deberá presentar ante la autoridad u organismo promotor competente la siguiente documentación:
@@ -1921,7 +1993,9 @@ III. Certificado de libertad de gravámenes del predio, o de gravámenes con la 
 
 IV. Acreditar la personalidad jurídica de quien promueve la regularización;
 
-V. Planos de notificación del asentamiento humano en los que se incluya: trazo de calles, la definición de las manzanas, dimensiones y superficies de los lotes, las áreas de suelo para cesión municipal, y el cuadro de distribución de áreas;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+V. Planos de lotificación del asentamiento humano en los que se incluya: trazo de calles, la definición de las manzanas, dimensiones y superficies de los lotes, las áreas de suelo para cesión municipal, y el cuadro de distribución de áreas;
 
 VI. Factibilidad emitida por la autoridad u organismo competente, para la introducción de los servicios de agua potable, drenaje sanitario y energía eléctrica;
 
@@ -2101,51 +2175,85 @@ l) Venta de artículos varios; y
 
 m) Los demás que determinen los Municipios en sus reglamentos y programas de desarrollo urbano de centros de población.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 127.
 
 Los usos de servicios del suelo y edificaciones, según la función, se clasifican en:
 
-I. De alimentos y bebidas: restaurantes, cafeterías, taquerías, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. De alimentos y bebidas: restaurantes, cafeterías, taquerías y similares;
 
 II. Cabaret y centros nocturnos;
 
 III. Casas de juego, centros de apuestas, casinos y similares;
 
-IV. De alojamiento: hoteles, moteles, posadas, casas de huéspedes, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-V. Servicios bancarios y financieros: casas de cambio, aseguradoras, arrendadoras, otros;
+IV. De alojamiento: hoteles, moteles, posadas, casas de huéspedes y similares;
 
-VI. Prestación de servicios a empresas y particulares: oficinas, despachos de profesionistas, control de plagas, alquiler de automóviles, limpieza y mantenimiento de edificios, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-VII. Servicios educativos: escuelas privadas de: educación preescolar, primaria, secundaria, preparatorias, universidades, educación especial, danza, arte, otros;
+V. Servicios bancarios y financieros: casas de cambio, aseguradoras, arrendadoras y similares;
 
-VIII. Servicios de salud: consultorios médicos, dentales, hospitales, laboratorios, unidades de emergencia, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-IX. Servicios de asistencia social: guarderías infantiles, orfanatorios, asilos, otros;
+VI. Prestación de servicios a empresas y particulares: oficinas, despachos de profesionistas, control de plagas, alquiler de automóviles, limpieza y mantenimiento de edificios y similares;
 
-X. Asociaciones civiles y similares: colegios de profesionistas, sindicatos, gremios, clubes deportivos, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XI. Servicios religiosos: templos, conventos, seminarios, otros;
+VII. Servicios educativos: escuelas privadas de: educación preescolar, primaria, secundaria, preparatorias, universidades, educación especial, danza, arte y similares;
 
-XII. Servicios mortuorios: funeraria, cementerio, incinerador, columbario, mixto, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XIII. Servicios de recreación pasiva: cines, radiodifusoras, teatros, autódromos, palenques, velódromos, estadios, otros;
+VIII. Servicios de salud: consultorios médicos, dentales, hospitales, laboratorios, unidades de emergencia y similares;
 
-XIV. Servicios de recreación activa: canchas deportivas, campos de golf, vitapistas, patinaderos, boliches, centros para eventos sociales, juegos electrónicos, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XV. Servicios culturales: bibliotecas, museos, galerías de arte, zoológicos, otros;
+IX. Servicios de asistencia social: guarderías infantiles, orfanatorios, asilos y similares;
 
-XVI. Servicios de reparación y mantenimiento de vehículos: talleres mecánicos, eléctricos, vulcanizadoras, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XVII. Servicios de reparación de otros artículos: cerrajerías, de calzado, de motocicletas, otros;
+X. Asociaciones civiles y similares: colegios de profesionistas, sindicatos, gremios, clubes deportivos y similares;
 
-XVIII. Servicios de limpieza: lavanderías públicas, tintorerías, de muebles, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XIX. Servicios personales: salones de belleza, salas de masajes, peluquerías, fotografías, agencias de viajes, otros;
+XI. Servicios religiosos: templos, conventos, seminarios y similares;
 
-XX. Servicios públicos: depósitos de desechos sólidos domésticos, reformatorios, rellenos sanitarios, oficinas de tránsito, centrales de policía, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XII. Servicios mortuorios: funeraria, cementerio, incinerador, columbario, mixto y similares;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XIII. Servicios de recreación pasiva: cines, radiodifusoras, teatros, autódromos, palenques, velódromos, estadios y similares;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XIV. Servicios de recreación activa: canchas deportivas, campos de golf, vitapistas, patinaderos, boliches, centros para eventos sociales, juegos electrónicos y similares;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XV. Servicios culturales: bibliotecas, museos, galerías de arte, zoológicos y similares;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XVI. Servicios de reparación y mantenimiento de vehículos: talleres mecánicos, eléctricos, vulcanizadotas (sic) y similares;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XVII. Servicios de reparación de otros artículos: cerrajerías, de calzado, de motocicletas y similares;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XVIII. Servicios de limpieza: lavanderías públicas, tintorerías, de muebles y similares;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XIX. Servicios personales: salones de belleza, salas de masajes, peluquerías, fotografías, agencias de viajes y similares;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XX. Servicios públicos: depósitos de desechos sólidos domésticos, reformatorios, rellenos sanitarios, oficinas de tránsito, centrales de policía y similares;
 
 XXI. Servicios de comunicaciones y transportes: ciber-cafés, correos, telégrafos, aeropuertos, helipuertos, estacionamiento de taxis, estaciones de radio y televisión; y
 
@@ -2209,8 +2317,6 @@ III. Presas, estanques, lagos y lagunas; y
 
 IV. Ríos, arroyos, escurrimientos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 133.
 
 Los destinos de equipamiento se clasifican en:
@@ -2227,7 +2333,9 @@ V. Edificaciones e instalaciones públicas municipales, estatales, federales, de
 
 VI. Edificaciones e instalaciones para los servicios públicos de seguridad, tránsito, protección civil, bomberos, primeros auxilios;
 
-VII. Edificaciones e instalaciones públicas para las comunicaciones: correos, telégrafos, televisión, radiocomunicación, otros;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+VII. Edificaciones e instalaciones públicas para las comunicaciones: correos, telégrafos, televisión, radiocomunicación y similares;
 
 VIII. Edificaciones e instalaciones para el poder judicial: tribunales, penales, reformatorios y similares;
 
@@ -2311,11 +2419,11 @@ Los usos del suelo o edificaciones para almacenamiento, tratamiento, comercio de
 
 La planeación, construcción y operación de la infraestructura, el equipamiento y los servicios públicos estará sujeta a la normatividad de esta Ley, sus disposiciones reglamentarias y a los planes de desarrollo urbano.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 141.
 
-Los planes y programas de desarrollo urbano determinarán la conveniencia y forma de penetración en los centros de población de los derechos de vía y las vías generales de comunicación, redes de hidrocarburos y energéticos, acueductos, canales y en general, toda clase de redes de transportación y distribución, con la intervención que corresponda a las autoridades federales, estatales y municipales competentes.
+Los planes o programas de desarrollo urbano determinarán la conveniencia y forma de penetración en los centros de población de los derechos de vía y las vías generales de comunicación, redes de hidrocarburos y energéticos, acueductos, canales y en general, toda clase de redes de transportación y distribución, con la intervención que corresponda a las autoridades federales, estatales y municipales competentes.
 
 Las dependencias y entidades federales, estatales y municipales que pretendan realizar cualquier tipo de aprovechamiento urbano en el territorio del Estado deberán, previo a su realización, habilitarlos con infraestructura primaria por cuenta propia o sufragar los gastos correspondientes, conforme a los planes y la normatividad aplicable.
 
@@ -2333,11 +2441,11 @@ III. El manejo integral de aguas pluviales, desde su captura y escurrimiento, ha
 
 IV. Las garantías para asegurar el adecuado funcionamiento, operación o mantenimiento de las redes de infraestructura, hasta en tanto no se de la municipalización de las obras.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 143.
 
-El equipamiento educativo en los nuevos desarrollos urbanos de los centros de población se generará y operará con la concurrencia del gobierno estatal, los municipios y la participación de los desarrolladores inmobiliarios de acuerdo a los convenios que al efecto se establezcan. Las aportaciones de los desarrolladores se ejercerán a través de un fideicomiso en el que tendrán su representación correspondiente.
+El equipamiento educativo en los nuevos desarrollos urbanos de los centros de población se generará con la concurrencia del gobierno estatal, los municipios y la participación de los desarrolladores inmobiliarios de acuerdo a los convenios que al efecto se establezcan. Las aportaciones de los desarrolladores se ejercerán a través de un fideicomiso en el que tendrán su representación correspondiente.
 
 El Estado deberá establecer la reglamentación que regule los convenios referidos en el párrafo anterior.
 
@@ -2551,8 +2659,6 @@ XII. Vías peatonales: tendrán un derecho de vía de 8.00 metros como mínimo.
 
 Las vialidades comprendidas en las fracciones II, III y IV de este artículo podrán resolverse en forma de par vial reemplazando el camellón central por una manzana con uso multifamiliar, comercial o mixto, disminuyendo los metros correspondientes a dicho camellón.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 159.
 
 Son normas básicas para las vías públicas, además de las señaladas en el artículo anterior, las siguientes:
@@ -2569,11 +2675,15 @@ V. Las vías subcolectoras, así como las vías de jerarquía superior no podrá
 
 VI. Tratándose de fraccionamientos habitacionales, todos los lotes o viviendas deberán estar a cuando más 300.00 metros de distancia de una vía subcolectora, colectora o principal, siguiendo el lindero de la vía pública. Todo fraccionamiento de 300 o más viviendas deberá contar con una vialidad subcolectora que garantice su conectividad y continuidad con la red vial;
 
-VII. Cuando se contemplen carriles exclusivos, deberá considerarse el espacio necesario para su establecimiento, sin afectar el flujo de la vialidad en la que se inserte, de conformidad con el dictamen que al efecto emita el Consejo Estatal de Transporte y Vialidad;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+VII. Cuando se contemplen carriles exclusivos, deberá considerarse el espacio necesario para su establecimiento, sin afectar el flujo de la vialidad en la que se inserte, de conformidad con el dictamen que al efecto emita la autoridad competente en materia de Transporte y Vialidad;
 
 VIII. Deberán contemplar la solución integral del manejo de aguas pluviales en su trayecto;
 
-IX. Deberán cumplir con las especificaciones y normas técnicas establecidas en el reglamento o Ley de Pavimentos;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+IX. Deberán cumplir con las especificaciones y normas técnicas establecidas en el reglamento o Ley para la Construcción y Rehabilitación de Pavimentos en el Estado de Nuevo León;
 
 X. Las señales de tránsito, lámparas, casetas, puentes peatonales y cualquier otro mobiliario de las vías públicas serán dispuestas de manera que no estorben a los peatónes o a la visibilidad de los automovilistas, y que contribuyan a la imagen urbana de conformidad con las disposiciones jurídicas aplicables;
 
@@ -2635,13 +2745,13 @@ El ámbito espacial de validez de los atlas de riesgos preferentemente será con
 
 Los Atlas de riesgos se elaborarán y consultarán conforme al procedimiento seguido para los Planes de Desarrollo Urbano, según corresponda al espacio territorial que correspondan y se aprobarán mediante acuerdo conjunto del Gobernador del Estado y los Ayuntamientos involucrados, se publicarán en el Periódico Oficial del Estado y en las Gacetas Municipales, y se inscribirán en el Registro Público de la Propiedad y del Comercio, adicionalmente estarán a la disposición del público en las instalaciones de la Dependencia Estatal y de los municipios y serán accesibles a través de medios electrónicos de conformidad con los criterios que al efecto establezca el Centro de Colaboración Geoespacial.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 166.
 
 Tratándose de inmuebles ubicados en zonas de riesgo alto y riesgo muy alto, el Ayuntamiento, antes de otorgar licencias relativas a usos del suelo y edificaciones, construcciones, así como factibilidades y demás autorizaciones relativas a todo tipo de fraccionamientos, podrá solicitar un dictamen de las medidas de mitigación aplicables al Consejo Técnico Geológico o Hidrometereológico (sic) constituido para ese efecto.
 
-En donde estén detectadas fallas geológicas activas, en las licencias o autorizaciones se deben determinar las áreas de restricción para las construcciones
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+En donde estén detectadas fallas geológicas activas, en las licencias o autorizaciones se deben determinar las áreas de restricción para las construcciones.
 
 Adicionalmente a lo anterior y antes de otorgarse la licencia o autorización respectiva, una vez que obren en el expediente los estudios periciales y dictámenes requeridos, se deberá dar vista a la Dirección de Protección Civil que corresponda, para que rinda su opinión y exprese los antecedentes que obren en sus archivos y en su caso, queden facultados para ordenar la repetición o elaboración de nuevos estudios o inclusive presentar los propios de considerar que existe riesgo para la comunidad.
 
@@ -2971,11 +3081,11 @@ Las disposiciones contenidas en este artículo no serán aplicables para los fra
 
 #### SECCIÓN PRIMERA. DE LA CLASIFICACIÓN DE FRACCIONAMIENTOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 197.
 
-El fraccionamiento y la urbanización del suelo deberán cumplir con lo dispuesto en los planes y programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial aplicables, además de lo que determinen las disposiciones de carácter general que expida la autoridad municipal correspondiente.
+El fraccionamiento y la urbanización del suelo deberán cumplir con lo dispuesto en los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial aplicables, además de lo que determinen las disposiciones de carácter general que expida la autoridad municipal correspondiente.
 
 Para los efectos de esta Ley los fraccionamientos se clasifican en:
 
@@ -3003,8 +3113,6 @@ Solo podrán denominarse como fraccionamiento privado o conjunto privado cualqui
 
 #### SECCIÓN SEGUNDA. DE LAS DISPOSICIONES GENERALES PARA LOS FRACCIONAMIENTOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 199.
 
 Quienes lleven a cabo alguno de los fraccionamientos señalados en las fracciones I al V del artículo 197 estarán obligados a realizar las siguientes obras de urbanización:
@@ -3019,7 +3127,9 @@ IV. La red de distribución de energía eléctrica y obras complementarias, las 
 
 V. El alumbrado público, conforme a las especificaciones municipales;
 
-VI. La nomenclatura y señalización vial y mobiliario urbano;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+VI. La nomenclatura, señalización vial y mobiliario urbano;
 
 VII. Las guarniciones y banquetas de concreto conforme a las especificaciones que señale el municipio;
 
@@ -3143,8 +3253,6 @@ IX. Deberán contar con áreas públicas municipales destinadas para jardines, p
 
 X. Solo podrán ubicarse en zonas urbanas o de reserva para el crecimiento urbano que cuenten o se prevea que pueda contar con un servicio de transporte público, por lo que deberá contar con factibilidad otorgado por la Autoridad Estatal en materia de transporte urbano.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 205.
 
 El titular de la autorización de un fraccionamiento habitacional de urbanización inmediata, además de lo dispuesto en los artículos anteriores, estará afecto a las obligaciones siguientes:
@@ -3165,11 +3273,11 @@ VII. Realizar el diseño del pavimento de acuerdo a lo establecido en la Ley par
 
 VIII. Garantizar la buena calidad de pavimentos, guarniciones, banquetas y el sistema para el manejo integral de aguas pluviales por el término de tres años a partir de la fecha de recepción de estas obras por el municipio;
 
-IX. Inscribir en el Registro Público de la Propiedad y del Comercio el acuerdo del proyecto ejecutivo y el plano de autorización de ventas del fraccionamiento; y
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+IX. Inscribir en el Registro Público de la Propiedad y del Comercio el acuerdo de autorización y el plano del proyecto ejecutivo; y
 
 X. Pagar el impuesto predial correspondiente a cada uno de los lotes del fraccionamiento hasta la fecha en que se formalice la venta de los mismos.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 206.
 
@@ -3185,7 +3293,9 @@ IV. Instalación de bancas, una por cada 250-doscientos cincuenta metros cuadrad
 
 V. Juegos infantiles, tres juegos infantiles por cada 5,000-cinco mil metros cuadrados de terreno; y
 
-VI. Un árbol nativo de la región de al menos 5-cinco centímetros de grosor medidos a 1-un metro de altura, los cuales se colocaran 1-uno por cada 50-cincuenta metros cuadrados de área de cesión.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+VI. Árboles nativos de la región de al menos 5-cinco centímetros de grosor medidos a 1-un metro de altura, los cuales se colocaran 1-uno por cada 50-cincuenta metros cuadrados de área de cesión.
 
 ###### ARTÍCULO 207.
 
@@ -3194,8 +3304,6 @@ Los fraccionamientos podrán desarrollarse por sectores, debiendo integrarse con
 A quienes se haya autorizado para realizar un fraccionamiento podrá concedérseles autorización para que emprendan otro siempre y cuando hayan cumplido o estén cumpliendo con toda regularidad el desarrollo de las obras de urbanización y de habilitación de las áreas públicas.
 
 #### SECCIÓN CUARTA. DE LOS FRACCIONAMIENTOS HABITACIONALES DE URBANIZACIÓN PROGRESIVA
-
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 208.
 
@@ -3225,7 +3333,9 @@ XI. La ejecución de las obras de urbanización a que se refiere el artículo 19
 
 XII. Podrán ser ocupados una vez que cuenten cuando menos con trazo y nivelación de vialidades, alineamiento de predios, tomas de agua potable y drenaje domiciliario, energía eléctrica y alumbrado público de seguridad;
 
-XIII. En estos fraccionamientos podrán existir lotes con usos distintos al habitacional, pero compatibles con este, como son: usos comerciales, de servicios e industriales no contaminantes, riesgosos para los habitantes; y
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+XIII. En estos fraccionamientos podrán existir lotes con usos distintos al habitacional, pero compatibles con este, como son: usos comerciales, de servicios e industriales no contaminantes, ni riesgosos para los habitantes; y
 
 XIV. Las demás que establezcan las disposiciones de carácter general que al efecto expidan los Ayuntamientos y las que establezcan otros ordenamientos jurídicos aplicables.
 
@@ -3303,8 +3413,6 @@ IX. Ceder al municipio las áreas a que se refiere el artículo 201 fracción VI
 
 #### SECCIÓN OCTAVA. DE LOS FRACCIONAMIENTOS CAMPESTRES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 212.
 
 Serán normas básicas para los fraccionamientos campestres las siguientes:
@@ -3319,7 +3427,9 @@ a) En predios con pendientes de 0% -cero hasta el 30 % -treinta se permitirán h
 
 b) En predios con pendientes mayores al 30% -treinta y menores de 45% -cuarenta y cinco por ciento solo se permitirá un lote por hectárea bruta;
 
-c) En predios con pendientes mayores al 45% -cuarenta y cinco, se prohíbe fraccionar, solo se aprobarán parcelaciones con las superficies y dimensiones de las hectáreas que acuerde el Ayuntamiento, no pudiendo ser ninguna parcela resultante inferior a una hectárea y solamente podrá construirse una vivienda y los accesos serán senderos de terracería de 6 metros como máximo; y
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+c) En predios con pendientes mayores al 45% -cuarenta y cinco, se prohíbe fraccionar, solo se aprobarán parcelaciones con las superficies y dimensiones que acuerde el Ayuntamiento, no pudiendo ser ninguna parcela resultante inferior a una hectárea y solamente podrá construirse una vivienda y los accesos serán senderos de terracería de 6 metros como máximo; y
 
 d) En cada uno de los lotes del fraccionamiento campestre solo podrá construirse una vivienda y sus obras complementarias.
 
@@ -3389,13 +3499,13 @@ Los conjuntos urbanos de tipo habitacional son aquellos que con una planificaci�
 
 Las autorizaciones o licencias para conjuntos de cualquier tipo estarán sujetas a las mismas normas, restricciones y obligaciones de cualquier otra construcción o fraccionamiento.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 217.
 
 Son normas básicas para los conjuntos urbanos, las siguientes:
 
-I. Los usos de suelo deberán ser congruentes con los planes o programas de desarrollo urbano;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. Los usos de suelo solicitados deberán ser congruentes con los planes o programas de desarrollo urbano;
 
 II. Ceder al municipio las áreas para destinos y equipamiento urbano público de acuerdo al tipo de conjunto urbano, de conformidad con lo establecido en el artículo 201, fracción V de la presente Ley;
 
@@ -3441,8 +3551,6 @@ Cuando el régimen de propiedad en condominio se disuelva o extinga, las vías i
 
 La fusión es la unión en un solo lote de dos o más predios colindantes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 221.
 
 La subdivisión es la partición de un predio ubicado dentro del área urbana o de reserva para el crecimiento urbano de los centros de población en dos o más fracciones y que no requiere del trazo de una o más vías públicas y deberá observar las siguientes normas básicas:
@@ -3451,7 +3559,9 @@ I. Los predios resultantes de la subdivisión no podrán ser mayor a 5-cinco y d
 
 II. Los predios sujetos a subdivisión ubicados fuera de fraccionamientos autorizados, deberán ceder al Municipio el área municipal correspondiente conforme a lo dispuesto por el artículo 201, fracción VIII, de esta Ley, según el uso del suelo predominante que señale el plan de desarrollo urbano aplicable;
 
-III. Solamente se autorizarán si las adecuaciones en las infraestructuras o redes de servicios públicos necesarias para atender a los nuevos predios que se generen, se efectuarán a costa del promovente; y
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+III. Solamente se autorizarán si las adecuaciones en las infraestructuras o redes de servicios públicos necesarias para atender a los nuevos predios que se generen, se efectuaren a costa del promovente; y
 
 IV. En las zonas urbanizadas no se autorizará la subdivisión cuando ésta dé como resultado lotes con superficie menor al lote promedio del área inmediata, con excepción de que la zonificación aprobada, la infraestructura del área y el equilibrio de la densidad de población prevista lo permitan.
 
@@ -3503,8 +3613,6 @@ III. Las obras que se realicen para la preservación, restauración y conservaci
 
 IV. Las obras que se refieren al acotamiento, aseguramiento, demolición, acciones de emergencia, saneamiento y mantenimiento de predios, lotes y edificaciones, con el objeto de la seguridad y salud pública, así como su integración al contexto urbano.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 227.
 
 Por su alcance, las construcciones o edificaciones se clasifican en:
@@ -3517,7 +3625,9 @@ III. Obras para la conservación de construcciones o edificaciones; y
 
 IV. Obras para la seguridad y sanidad de predios, lotes y construcciones o edificaciones.
 
-Todas las obras de construcción o de edificación señaladas en los artículos anteriores requerirán de autorización. Las licencias o permisos de construcción o edificación se otorgarán por la autoridad municipal, de conformidad con lo dispuesto en esta Ley, en el caso de que exista, por lo dispuesto en el Reglamento Municipal de Construcción.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+Todas las obras de construcción o de edificación señaladas en los artículos anteriores requerirán de autorización. Las licencias o permisos de construcción o edificación se otorgarán por la autoridad municipal, de conformidad con lo dispuesto en esta Ley, y, en su caso, por lo dispuesto en el Reglamento Municipal de Construcción.
 
 ###### ARTÍCULO 228.
 
@@ -3679,21 +3789,21 @@ IV. La calidad visual, para garantizar que la estructura urbana y sus elementos 
 
 V. La eficiencia, funcionalidad y seguridad, consistente en que los criterios, normas y regulaciones en materia de imagen y diseño urbanos, deberán tender a generar la apropiación y reconocimiento vecinal y ciudadano de su espacio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+## TÍTULO NOVENO
 
-## TÍTULO NOVENO. PROCEDIMIENTO PARA AUTORIZAR ACCIONES DE CRECIMIENTO, CONSERVACIÓN Y MEJORAMIENTO
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+PROCEDIMIENTO PARA AUTORIZAR ACCIONES DE CONSERVACIÓN, MEJORAMIENTO Y CRECIMIENTO
 
 ### CAPÍTULO PRIMERO. DE LAS AUTORIZACIONES DE FRACCIONAMIENTOS Y URBANIZACIÓN DEL SUELO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 241.
 
-Corresponde a los Municipios autorizar o negar las autorizaciones, permisos y licencias de las distintas acciones de crecimiento, conservación y mejoramiento de acuerdo con los planes y programas de desarrollo urbano aplicables.
+Corresponde a los Municipios autorizar o negar las autorizaciones, permisos y licencias de las distintas acciones de conservación, mejoramiento y crecimiento de acuerdo con los planes o programas de desarrollo urbano aplicables.
 
 El Municipio podrá además emitir autorizaciones en materia de administración del desarrollo urbano por Internet si cuenta con reglamentación vigente en materia de uso de medios electrónicos, un padrón de usuarios actualizable anualmente y cumple con las Leyes aplicables de la materia.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 242.
 
@@ -3713,13 +3823,17 @@ VI. Solicitar la aprobación del proyecto ejecutivo del fraccionamiento, acredit
 
 VII. Solicitar la autorización para realizar operaciones de ventas;
 
-VIII. Solicitar prorrogas para la terminación de las obras de
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-IX. (sic) urbanización y reducción de las garantías cuando existan causas justificadas a juicio de la autoridad;
+VIII. Solicitar prórrogas para la terminación de las obras de urbanización y reducción de las garantías cuando existan causas justificadas a juicio de la autoridad;
 
-X. Solicitar la constancia de terminación de obras y la liberación de las garantías otorgadas;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XI. Solicitar la municipalización del fraccionamiento.
+IX. Solicitar la constancia de terminación de obras y la liberación de las garantías otorgadas;
+
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+X. Solicitar la municipalización del fraccionamiento.
 
 ###### ARTÍCULO 243.
 
@@ -3741,13 +3855,13 @@ VII. Constancia de terminación de obras y liberación de garantías; y
 
 VIII. Municipalización.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 244.
 
 A partir de la fecha de presentación de la solicitud de los trámites enumerados en el artículo anterior y estando debidamente acompañadas de la documentación requerida, completa y correcta, la autoridad deberá dar respuesta a la misma en los términos máximos siguientes:
 
-I. Factibilidad y lineamientos generales de diseño urbano: 30 días hábiles;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. Factibilidad de fraccionar y urbanizar y (sic) lineamientos generales de diseño urbano: 30 días hábiles;
 
 II. Proyecto urbanístico o su modificación: 30 días hábiles;
 
@@ -3777,8 +3891,6 @@ Los acuerdos y resoluciones de la Autoridad administrativa no prejuzgan sobre lo
 
 La factibilidad de fraccionar y urbanizar el suelo, es la etapa en la cual la autoridad municipal competente, sobre la base de los planes o programas de desarrollo urbano aplicables, informa a solicitud del interesado acerca de la posibilidad o no de realizar el desarrollo pretendido. Si la urbanización es factible la autoridad fijará los lineamientos generales de diseño urbano que el interesado deberá respetar en la elaboración del proyecto urbanístico.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 247.
 
 Para obtener la factibilidad de fraccionar y urbanizar el suelo, el interesado deberá presentar a la autoridad municipal competente la siguiente documentación:
@@ -3789,17 +3901,19 @@ II. Copia simple del título que acredite la propiedad del predio, debidamente i
 
 III. Documento que acredite la personalidad jurídica;
 
-IV. Plano de la localización del predio, en el sector respectivo en la carta urbana del Plan de Desarrollo Urbano vigente;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+IV. Plano de la localización del predio, en el sector respectivo en la carta urbana del Plan o Programa de Desarrollo Urbano vigente;
 
 V. Estudio geofísico, geológico e hidrológico, realizados por perito registrado oficialmente, únicamente para las zonas consideradas como de alto y muy alto riesgo, según el Atlas de Riesgo del Estado, con sus propuestas de mitigación; y
 
 VI. Las establecidas en las demás disposiciones de carácter general que al efecto expida el Ayuntamiento.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 248.
 
-De ser factible la urbanización del predio, el interesado podrá solicitar se le fijen los lineamientos generales de diseño urbano para elaborar el proyecto urbanístico, para lo cual el interesado deberá presentar a la autoridad municipal competente la siguiente documentación:
+De ser factible la urbanización del suelo, el interesado podrá solicitar se le fijen los lineamientos generales de diseño urbano para elaborar el proyecto urbanístico, para lo cual el interesado deberá presentar a la autoridad municipal competente la siguiente documentación:
 
 I. Solicitud de lineamientos generales de diseño urbano;
 
@@ -3817,15 +3931,15 @@ VII. Fotografías que muestren la situación actual del predio; y
 
 VIII. Las establecidas en las demás disposiciones de carácter general que al efecto expida el Ayuntamiento.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 249.
 
 En la etapa de proyecto urbanístico el interesado deberá presentar la siguiente documentación:
 
 I. Solicitud de autorización de proyecto urbanístico;
 
-II. Copia del acuerdo de factibilidad y lineamientos generales de diseño urbano;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+II. Copia del acuerdo de factibilidad de fraccionar y urbanizar y lineamientos generales de diseño urbano;
 
 III. Plano con el diseño urbano del predio, en el cual se indique: las curvas de nivel a cada metro, el trazo de las calles, la definición de las manzanas y su lotificación, dimensiones y superficies de los lotes, las áreas de suelo para cesión municipal en forma de plazas, jardines o parques, la zonificación propuesta, el cuadro de distribución de áreas;
 
@@ -4035,13 +4149,13 @@ IV. Las demás disposiciones de carácter general que al efecto expidan los Ayun
 
 La municipalización de un fraccionamiento tendrá por objeto que el municipio se haga cargo de la prestación de los servicios públicos que le correspondan y se formalizará mediante un acta de entrega recepción que será firmada por el interesado y el municipio en un término no mayor de 10 diez días hábiles contados a partir de la presentación de la solicitud correspondiente.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 269.
 
 Podrán obviarse algunas o todas las etapas de trámites que se refieren los artículos precedentes, cuando por las características, ubicación u otros motivos, el interesado estime conveniente integrarlas en una única instancia:
 
-I. La factibilidad y los lineamientos generales, el proyecto urbanístico y el plano de rasantes;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. La factibilidad de fraccionar y urbanizar y los lineamientos generales de diseño urbano, el proyecto urbanístico y el plano de rasantes;
 
 II. El proyecto ejecutivo y la de autorización de ventas; y,
 
@@ -4051,19 +4165,21 @@ III. La autorización de ventas, la constancia de terminación de las obras, la 
 
 A solicitud del interesado y cuando se haya desarrollado un fraccionamiento por sectores, se podrán llevar a cabo entregas parciales del mismo, con la correspondiente liberación de garantías, siempre y cuando se presente un programa y calendario de trabajo de las obras restantes. El acta servirá como comprobante de la liberación de garantías.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 271.
 
 Las resoluciones que emitan las autoridades competentes para desarrollar un fraccionamiento deberán contener:
 
-I. En la factibilidad;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. En la factibilidad de fraccionar y urbanizar el suelo:
 
 a) La congruencia de los usos del suelo solicitados por el interesado, con lo señalado en los planes o programas de desarrollo urbano vigentes.
 
 b) La factibilidad de dotación y prestación de servicios públicos urbanos a cargo de la autoridad municipal.
 
-II. En la fijación de los lineamientos de diseño urbano:
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+II. En la fijación de los lineamientos generales de diseño urbano:
 
 a) Superficie máxima de terreno a desarrollar;
 
@@ -4111,8 +4227,6 @@ VII. Constancia de terminación de obras y liberación de garantías se hará co
 
 VIII. La constancia de municipalización se hará constar con el acta de entrega - recepción, sellada y firmada.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 272.
 
 Las resoluciones que emita la autoridad municipal competente en las diferentes etapas dentro del procedimiento para el desarrollo de un fraccionamiento, autorizarán a los desarrolladores a:
@@ -4121,7 +4235,9 @@ I. En el caso del proyecto urbanístico: contratar o convenir con las empresas p
 
 II. En el caso de plano de rasantes: iniciar el trazo de calles, despalme y movimiento de tierras sobre las mismas, así como el trámite ante las demás dependencias de servicios públicos;
 
-III. En el caso del proyecto ejecutivo: formalizar las obras de urbanización autorizadas, efectuando la inscripción del acuerdo en el Registro Público de la Propiedad y del Comercio a fin de constituir en gravamen las obligaciones contraídas;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+III. En el caso del proyecto ejecutivo: formalizar las obras de urbanización autorizadas, efectuando la inscripción del plano y del acuerdo de autorización en el Registro Público de la Propiedad y del Comercio a fin de constituir en gravamen las obligaciones contraídas;
 
 IV. En el caso de la autorización de ventas o enajenación: después de la inscripción del plano, y el acuerdo en el Registro Público de la Propiedad y del Comercio, establecer relaciones con terceros con el propósito de transmitir la propiedad de los diferentes lotes que componen el fraccionamiento; y,
 
@@ -4139,8 +4255,6 @@ La autoridad municipal competente no deberá dar trámite a solicitudes o docume
 
 Los notarios públicos, al autorizar actos o contratos relativos a lotes pertenecientes a un fraccionamiento, deberán constar y hacer mención del permiso para la venta de lotes y de su inscripción en Registro Público de la Propiedad y del Comercio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 276.
 
 Las autorizaciones a que se refiere este capítulo, tendrán las siguientes vigencias:
@@ -4153,7 +4267,9 @@ En el caso del proyecto ejecutivo el fraccionador tendrá derecho a solicitar un
 
 II. Tratándose de fraccionamientos que por sus características deban desarrollarse en varias etapas o sectores:
 
-a) Se tramitará para todo el fraccionamiento la factibilidad de urbanización, la fijación de lineamientos generales de diseño urbano y el proyecto urbanístico, debiéndose señalar en este último las etapas o sectores en que habrá de desarrollarse. Estas autorizaciones en su conjunto tendrán una vigencia que no deberá exceder del término de tres años y que se empezarán a computar a partir del día hábil siguiente a la fecha de expedición del acuerdo de autorización de la factibilidad de urbanización.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+a) Se tramitará para todo el fraccionamiento la factibilidad de fraccionar y urbanizar, la fijación de lineamientos generales de diseño urbano y el proyecto urbanístico, debiéndose señalar en este último las etapas o sectores en que habrá de desarrollarse. Estas autorizaciones en su conjunto tendrán una vigencia que no deberá exceder del término de tres años y que se empezarán a computar a partir del día hábil siguiente a la fecha de expedición del acuerdo de autorización de la factibilidad de urbanización.
 
 Las tres autorizaciones referidas en el párrafo anterior, continuarán vigentes durante el desarrollo de cada una de las etapas o sectores, siempre que éstas se realicen de manera continua, debiéndose observar lo dispuesto en el inciso c) de esta fracción;
 
@@ -4173,15 +4289,15 @@ b) Las vigencias de las autorizaciones incluyen las modificaciones a que se refi
 
 La autorización de conjuntos habitacionales, comercial y de servicios, industriales, campestres, recreativos, turísticos y funerarios, estarán sujetos a las mismas normas, restricciones y obligaciones que cualquier otra construcción o fraccionamiento de la misma naturaleza.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 278.
 
 La solicitud para autorizar un conjunto urbano será revisada por el municipio, que podrá aprobarlo o en su caso señalar las observaciones y modificaciones que deberá plantear el interesado. Si señaladas y notificadas las modificaciones al proyecto transcurre un plazo de cuarenta y cinco días naturales sin tener respuesta del interesado, el proyecto se negará y será necesario reiniciar el trámite.
 
 Si la solicitud de autorización del conjunto urbano se presenta con toda la documentación requerida, la autoridad deberá dar respuesta en un plazo no mayor de treinta días hábiles contados a partir de la fecha de su presentación. Si transcurriera dicho plazo sin dictarse resolución, se entenderá por negada la autorización.
 
-En caso de resultar procedente la solicitud del interesado, la autoridad municipal competente expedirá una resolución que contendrá la autorización del proyecto de conjunto urbano, sus especificaciones generales, el programa de obras, la autorización para la ejecución de las mismas, así como los planos sellados y autorizados con el proyecto definitivo del conjunto urbano o funerario que contenga su vinculación con las vías públicas existentes, así como la conexión con las redes de servicios públicos.
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+En caso de resultar procedente la solicitud del interesado, la autoridad municipal competente expedirá una resolución que contendrá la autorización del proyecto de conjunto urbano, sus especificaciones generales, el programa de obras, la autorización para la ejecución de las mismas, así como los planos sellados y autorizados con el proyecto definitivo del conjunto urbano que contenga su vinculación con las vías públicas existentes, así como la conexión con las redes de servicios públicos.
 
 La autorización o la licencia de construcción de conjunto urbano tendrá una vigencia de 3 -tres años.
 
@@ -4387,13 +4503,13 @@ La licencia de uso de edificación perderá su vigencia si dentro del término d
 
 ### CAPÍTULO PRIMERO. DE LOS PROGRAMAS DE FOMENTO URBANO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 297.
 
 El Estado y los municipios fomentarán la coordinación y la concertación de acciones e inversiones entre los sectores público, social y privado para:
 
-I. El cumplimiento y ejecución de los planes de desarrollo urbano;
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+I. El cumplimiento y ejecución de los planes o programas de desarrollo urbano;
 
 II. El establecimiento de mecanismos e instrumentos financieros para el desarrollo urbano y la vivienda;
 
@@ -4459,11 +4575,11 @@ Las reducciones a que se refiere este artículo, en ningún caso podrán ser sup
 
 #### SECCIÓN SEGUNDA. DE LOS POLÍGONOS DE ACTUACIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 300.
 
-En las áreas urbanas o urbanizadas, de reserva para el crecimiento urbano los planes y programas de desarrollo urbano podrán determinarse áreas o zonas en las cuales podrán aplicarse instrumentos de fomento, para el desarrollo urbano en el territorio del Estado. Para tal efecto la Dependencia Estatal Competente en Materia de Desarrollo Urbano del Estado, en coordinación con el Ayuntamiento correspondiente, podrá autorizar la delimitación de polígonos, para la ejecución de acciones, obras, proyectos e inversiones en las siguientes áreas de actuación:
+En las áreas urbanas o urbanizadas y de reserva para el crecimiento urbano en los planes o programas de desarrollo urbano podrán determinarse áreas o zonas en las cuales podrán aplicarse instrumentos de fomento, para el desarrollo urbano en el territorio del Estado. Para tal efecto la Dependencia Estatal Competente en Materia de Desarrollo Urbano del Estado, en coordinación con el Ayuntamiento correspondiente, podrá autorizar la delimitación de polígonos, para la ejecución de acciones, obras, proyectos e inversiones en las siguientes áreas de actuación:
 
 I. Las que corresponden a zonas que tienen terrenos, sin construir, ubicados dentro del área urbana, que cuentan con accesibilidad y servicios donde pueden llevarse a cabo los proyectos de impacto urbano que determinen en coordinación la Dependencia Estatal Competente en materia de Desarrollo Urbano, y el Ayuntamiento correspondiente, apoyándose en el programa de fomento económico, que incluyen equipamientos varios y otros usos complementarios;
 
@@ -4623,11 +4739,11 @@ La violación a lo dispuesto en este precepto será sancionada de conformidad co
 
 ### CAPÍTULO SEGUNDO. DE LAS FACILIDADES ADMINISTRATIVAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 316.
 
-La Dependencia Estatal competente en la materia de Desarrollo urbano y los municipios promoverán la simplificación de trámites, facilidades administrativas y el otorgamiento de subsidios tendientes a promover las acciones de conservación, crecimiento y mejoramiento urbanos que se lleven a cabo por los sectores social y privado desarrollo urbano, entre otros aspectos, para:
+La dependencia Estatal competente en la materia de Desarrollo Urbano y los municipios promoverán la simplificación de trámites, facilidades administrativas y el otorgamiento de subsidios tendientes a promover las acciones de conservación, mejoramiento y crecimiento urbanos que se lleven a cabo por los sectores social y privado desarrollo urbano, entre otros aspectos, para:
 
 I. Facilitar la regularización de la tenencia de la tierra y de títulos de propiedad, mediante los apoyos fiscales, notariales y registrales necesarios;
 
@@ -4643,11 +4759,11 @@ VI. Dar facilidades, trato preferente y procedimientos simplificados ante las te
 
 ### CAPÍTULO TERCERO. DE LOS DIRECTORES RESPONSABLES DE OBRA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 317.
 
-Los interesados en llevar a cabo una acción urbana en los términos de esta Ley, deberán contar con el o los directores responsables de obra o profesionistas responsables que asuman la obligación de que el proyecto, cálculos, especificaciones, materiales y procesos de ejecución de la obra en sus diversos aspectos o elementos cumplan las normas técnicas correspondientes y se ajusten a lo dispuesto en esta Ley, en los reglamentos, los planes y en los demás ordenamientos jurídicos aplicables.
+Los interesados en llevar a cabo una acción urbana en los términos de esta Ley, deberán contar con el o los directores responsables de obra o profesionistas responsables que asuman la obligación de que el proyecto, cálculos, especificaciones, materiales y procesos de ejecución de la obra en sus diversos aspectos o elementos cumplan las normas técnicas correspondientes y se ajusten a lo dispuesto en esta Ley, en los reglamentos, los planes o programas, y en los demás ordenamientos jurídicos aplicables.
 
 Los directores responsables de obra y profesionistas responsables a que alude el párrafo anterior, serán responsables solidarios con el propietario o desarrollador del cumplimiento puntual de las disposiciones a que alude este ordenamiento, en las obras o proyectos en que den su aval o intervengan.
 
@@ -4769,11 +4885,11 @@ XVI. Las demás que los Ayuntamientos consideren necesarias.
 
 ### CAPÍTULO PRIMERO. DEL CUMPLIMIENTO DE LAS DISPOSICIONES EN MATERIA DE DESARROLLO URBANO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 324.
 
-Los planes y programas de desarrollo urbano, así como los reglamentos municipales de zonificación y construcciones deberán ajustarse a las disposiciones de la presente Ley y respetar los principios de subordinación y reserva que establece la Constitución Política de los Estados Unidos Mexicanos.
+Los planes o programas de desarrollo urbano, así como los reglamentos municipales de zonificación y construcciones deberán ajustarse a las disposiciones de la presente Ley y respetar los principios de subordinación y reserva que establece la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 325.
 
@@ -5437,9 +5553,9 @@ Para ello celebrará convenios de coordinación con los municipios, así como de
 
 T R A N S I T O R I O S
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE NUEVO LEON, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-Primero.- La presente Ley entrará en vigor a los sesenta días de su publicación en el Periódico Oficial del Estado de Nuevo León.
+Primero.- La presente Ley entrará en vigor a los sesenta días naturales de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Se abroga la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, publicada en el Periódico Oficial del Estado de Fecha 3 de marzo de 1999.
 
