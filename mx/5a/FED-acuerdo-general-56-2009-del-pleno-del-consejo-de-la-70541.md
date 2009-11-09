@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-56-2009-del-pleno-del-consejo-de-la-70541"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-10-26"
-last_updated: "2009-10-26"
+last_updated: "2009-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70541&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-30"
 
 ACUERDO GENERAL 56/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DEL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS DE CIRCUITO DEL CENTRO AUXILIAR DE LA DECIMA REGION, CON RESIDENCIA EN SALTILLO, COAHUILA, CON JURISDICCION EN TODA LA REPUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 26 de octubre de 2009.
 
@@ -49,6 +49,8 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DETERMINA FECHA DE INSTALACION E INICIO DE FUNCIONES DEL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS DE CIRCUITO DEL CENTRO AUXILIAR DE LA DECIMA REGION, CON RESIDENCIA EN SALTILLO, COAHUILA, SERA EL DIECISEIS DE NOVIEMBRE DE DOS MIL NUEVE, D.O.F. 9 DE NOVIEMBRE DE 2009.</small>
+
 PRIMERO. El Primer y Segundo Tribunales Colegiados de Circuito del Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, tendrán competencia y jurisdicción en toda la República, e iniciarán funciones el uno de noviembre de dos mil nueve, los cuales funcionarán conforme a lo establecido en el Acuerdo General 54/2009 del Pleno del Consejo de la Judicatura Federal.
 
 Su domicilio será el ubicado en Boulevard Nazario Ortiz Garza número 910, colonia Saltillo 400, código postal 25290.
@@ -68,3 +70,15 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 56/2009, del Pleno del Consejo de la Judicatura Federal, Relativo al Inicio de Funciones del Primer y Segundo Tribunales Colegiados de Circuito del Centro Auxiliar de la Décima Región, con Residencia en Saltillo, Coahuila, con Jurisdicción en Toda la República, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de treinta de septiembre de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, César Alejandro Jáuregui Robles y Oscar Vázquez Marín.- México, Distrito Federal, a dieciséis de octubre de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE NOVIEMBRE DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL ACUERDO.
+
+.
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día de hoy que se aprueba.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
