@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-comite-central-de-farmacia-y-terapeutica-del-565
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-02"
-last_updated: "2007-08-02"
+last_updated: "2009-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL COMITE CENTRAL DE FARMACIA Y TERAPEUTICA DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 2 de agosto de 2007.
 
@@ -69,6 +69,8 @@ XII. Cuadro Básico de Medicamentos: Es el documento que contiene la relación y
 
 El Comité de Farmacia y Terapéutica funcionará en forma colegiada y quedará integrado conforme al Artículo 4, con el propósito de auxiliar en sus funciones a la Dirección General del Instituto y a las Coordinaciones dependientes de ella.
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 4.
 
 El Comité Central de Farmacia y Terapéutica se integrará por:
@@ -83,15 +85,13 @@ IV.- Vocales Normativos:
 
 a) Director de Control y Gestión.
 
-b) Director de Administración de Salud.
+b) Director de atención a la Salud.
 
-c) Subdirector de Unidades Médicas del Valle de Toluca.
+c) Subdirector de Atención Médica.
 
-d) Subdirector de Unidades Médicas del Valle de México.
+d) Subdirector de Gestión y Logística de Insumos Servicios Integrales.
 
-e) Subdirector de Gestión, Logística y Enlace.
-
-f) Jefe del Departamento de Servicios Especializados.
+e) Jefe del Departamento de Servicios Especializados.
 
 V. Vocales Operativos:
 
@@ -256,3 +256,9 @@ SILVIANO JAIME PULIDO LÓPEZ
 SECRETARIO DEL HONORABLE CONSEJO DIRECTIVO DE ISSEMYM
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 9 DE NOVIEMBRE DE 2009.
+
+El presente Acuerdo entrará en vigor a partir al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
