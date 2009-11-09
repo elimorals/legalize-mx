@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-55-2009-del-pleno-del-consejo-de-la-70540"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-10-26"
-last_updated: "2009-10-26"
+last_updated: "2009-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70540&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-30"
 
 ACUERDO GENERAL 55/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA DECIMA REGION, CON RESIDENCIA EN SALTILLO, COAHUILA, CON JURISDICCION EN TODA LA REPUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 26 de octubre de 2009.
 
@@ -53,6 +53,8 @@ PRIMERO. Los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la D�
 
 Su domicilio será el ubicado en Boulevard Nazario Ortiz Garza número 910, colonia Saltillo 400, código postal 25290.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DETERMINA FECHA DE INSTALACION E INICIO DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA DECIMA REGION, CON RESIDENCIA EN SALTILLO, COAHUILA, SERA EL DIECISEIS DE NOVIEMBRE DE DOS MIL NUEVE, D.O.F. 9 DE NOVIEMBRE DE 2009.</small>
+
 SEGUNDO. A partir de la fecha señalada en el punto de acuerdo anterior, iniciará funciones la Oficina de Correspondencia Común del Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, la cual prestará servicio a los órganos jurisdiccionales auxiliares de que se trata.
 
 TERCERO. Los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, apoyarán en el dictado de sentencias a los juzgados de Distrito que determine la Comisión de Creación de Nuevos Organos.
@@ -68,3 +70,15 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: este Acuerdo General 55/2009, del Pleno del Consejo de la Judicatura Federal, Relativo al Inicio de Funciones de los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Décima Región, con Residencia en Saltillo, Coahuila, con Jurisdicción en Toda la República, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de treinta de septiembre de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, César Alejandro Jáuregui Robles y Oscar Vázquez Marín.- México, Distrito Federal, a dieciséis de octubre de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE NOVIEMBRE DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL ACUERDO.
+
+...
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día de hoy que se aprueba.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
