@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-obras-publicas-del-7083
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-05"
-last_updated: "2009-10-05"
+last_updated: "2009-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de octubre de 2009.
 
@@ -345,7 +345,7 @@ XIII. Integrar y operar el Padrón Estatal de Contratistas de Obra Pública;
 
 XIV. Elaborar en coordinación con la Dirección General Jurídica los contratos y convenios en tiempo y monto de acuerdo a la normatividad aplicable de las diferentes acciones de obra pública y de servicios relacionados con las mismas;
 
-XV. Coordinar, revisar los avances y dar seguimiento a los trabajos encomendados a las Direcciones de su área para su correcta interrelación;
+XV. Coordinar, revisar los avances y dar seguimiento a los trabajos encomendados a las Direcciones de su área para su correcta interrelación.
 
 XVI. Elaborar y aprobar los presupuestos de los proyectos ó cotizaciones presentadas;
 
@@ -657,9 +657,19 @@ Los Directores Generales serán suplidos en sus ausencias temporales o accidenta
 
 Los Directores de Apoyo, Directores de Área y Jefes de Departamento y demás personal de la Secretaría, serán suplidos en sus ausencias temporales menores a treinta días calendario por el servidor de la jerarquía inmediata inferior que ellos mismos señalen, cuando no tengan la posibilidad de señalarlo o si la ausencia es mayor, será suplido por quien designe el Secretario, Subsecretario ó Director General.
 
-TRANSITORIOS (SIC):
+TRANSITORIOS:
 
-ÚNICO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO PRIMERO
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO SEGUNDO
+
+Se abrogan los Reglamentos Interiores de la Secretaría de Obras Públicas del Estado, publicados en el Periódico Oficial del Estado en fechas 10 de noviembre de 2003 y el 28 de septiembre de 2009.
 
 Dado en la ciudad de Aguascalientes, Aguascalientes, a los veinticinco días del mes de agosto del dos mil nueve.
 
@@ -678,3 +688,11 @@ SECRETARIO GENERAL DE GOBIERNO.
 Ing. Luis Gerardo del Muro Caldera,
 
 SECRETARIO DE OBRAS PÚBLICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
