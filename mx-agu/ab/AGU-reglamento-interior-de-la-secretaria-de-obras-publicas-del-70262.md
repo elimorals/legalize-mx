@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-obras-publicas-del-7026
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-28"
-last_updated: "2009-10-05"
+last_updated: "2009-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS DEL ESTADO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS DEL ESTADO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. 5 DE OCTUBRE DE 2009 Y REFORMADO EL 9 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 28 de septiembre de 2009, y republicado en la Primera Sección, el lunes 5 de octubre de 2009.
 
@@ -679,4 +681,20 @@ SECRETARIO DE OBRAS PÚBLICAS.
 
 P.O. 5 DE OCTUBRE DE 2009.
 
-ÚNICO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO PRIMERO
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO SEGUNDO
+
+Se abrogan los Reglamentos Interiores de la Secretaría de Obras Públicas del Estado, publicados en el Periódico Oficial del Estado en fechas 10 de noviembre del 2003 y el 28 de septiembre del 2009.
+
+P.O. 9 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
