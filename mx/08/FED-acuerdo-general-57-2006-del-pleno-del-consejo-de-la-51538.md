@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2009-10-29"
+last_updated: "2009-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE NOVIEMBRE DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -189,7 +189,9 @@ VII.- SEPTIMO CIRCUITO:
 
 VIII.- OCTAVO CIRCUITO:
 
-1.- Cinco tribunales colegiados: tres con residencia en Torreón y dos con sede en Saltillo.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEPTIMO DEL ACUERDO GENERAL 64/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE NOVIEMBRE DE 2009)</small>
+
+1.- Cinco tribunales colegiados especializados: uno en materias civil y de trabajo y dos en materias penal y administrativa, con residencia en Torreón; un tribunal colegiado en materias penal y de trabajo y uno en materias administrativa y civil, con sede en Saltillo.
 
 2.- Dos tribunales unitarios con sede en Torreón.
 
@@ -416,6 +418,10 @@ VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de 
 VIII.- OCTAVO CIRCUITO: Respecto de los tribunales colegiados con residencia en Torreón, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en La Laguna, con sede en Torreón, Coahuila.
 
 En cuanto a los tribunales colegiados con residencia en Saltillo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Coahuila, con sedes en Saltillo, Piedras Negras y Monclova.
+
+> <small>(ADICIONADO POR EL PUNTO DECIMOSEPTIMO DEL ACUERDO GENERAL 64/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE NOVIEMBRE DE 2009)</small>
+
+En relación con los tribunales unitarios con residencia en Torreón, su jurisdicción será igual a la establecida para los Juzgados de Distrito en La Laguna, con sede en Torreón, así como para los juzgados de Distrito en el Estado de Coahuila, con residencia en Saltillo, Piedras Negras y Monclova.
 
 IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
 
@@ -928,5 +934,15 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales del Consejo de la Judicatura Federal, proveerá lo conducente para el traslado de expedientes ordenado en el presente acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 10 DE NOVIEMBRE DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Dirección General de Recursos Humanos del Consejo de la Judicatura Federal atenderá, en términos de ley, la situación laboral del personal adscrito a la Oficina de Correspondencia Común de los Tribunales Colegiados del Octavo Circuito, con residencia en Saltillo, Coahuila, misma que concluye funciones.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
