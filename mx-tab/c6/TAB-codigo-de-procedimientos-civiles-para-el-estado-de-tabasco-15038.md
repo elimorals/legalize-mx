@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2008-12-13"
+last_updated: "2009-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -7489,9 +7489,17 @@ V.- Los convenios celebrados en el curso de un proceso ante el juzgador, ya sea 
 
 VI.- Los convenios celebrados ante la Procuraduría Federal del Consumidor y los laudos que ésta emita;
 
-VII.- El juicio uniforme de contadores si las partes ante el juzgador o por escritura pública o por escrito privado reconocido judicial o auténticamente, se hubieren sujetado a él expresamente o lo hubieren aprobado; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-VIII.- Los demás documentos a los que las leyes dieren el carácter de títulos ejecutivos.
+VII.- El juicio uniforme de contadores si las partes ante el juzgador o por escritura pública o por escrito privado reconocido judicial o auténticamente, se hubieren sujetado a él expresamente o lo hubieren aprobado;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+VIII.- Los Laudos y los convenios que pongan fin al procedimiento celebrado ante la Comisión Estatal de Conciliación y Arbitraje Médico, y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+IX.- Los demás documentos a los que las leyes dieren el carácter de títulos ejecutivos.
 
 Si el título ejecutivo está redactado en idioma extranjero, la traducción que se presente se cotejará previamente por el perito traductor que el juzgador designe, antes de ordenar la ejecución.
 
@@ -10008,3 +10016,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. Los juicios de rectificación de actas y los relativos a procedimientos judiciales no contenciosos que se encuentren en trámite en los juzgados de primera instancia, no serán declinados a los juzgados de paz, sino que se concluirán en aquellos.
+
+P.O. 11 DE NOVIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
