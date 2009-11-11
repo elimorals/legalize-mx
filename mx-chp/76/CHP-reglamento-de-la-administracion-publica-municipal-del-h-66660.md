@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-administracion-publica-municipal-del-h-66660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-14"
-last_updated: "2009-10-14"
+last_updated: "2009-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de enero de 2009.
 
@@ -485,55 +485,45 @@ LlX. Vigilar el cumplimiento y transparencia de los procedimientos de recaudaci�
 
 LX. Autorizar el uso, aprovechamiento o explotación de bienes inmuebles del patrimonio municipal, en términos de la Ley de Ingresos vigente;
 
-LXI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el H. Ayuntamiento, dentro del ámbito de su competencia.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+LXI. Programar, dirigir, organizar, coordinar y ejecutar las actividades de fiscalización, vigilancia y control respecto del cumplimiento de las normas municipales en materia de urbanización, construcción y edificación en general; uso y destino de suelo, anuncios, ejercicio del comercio en la vía pública, ejercicio del sexo servicio, medio ambiente, parquímetros, juegos y espectáculos públicos, a través de la inspección, detección o constatación del cumplimiento o violación, total o parcial, de las normas legales o técnicas vigentes o de las autorizaciones concedidas;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+LXII. Imponer y ejecutar las medidas cautelares y de apremio que se consideren necesarias, así como las sanciones correspondientes por el incumplimiento o violación a las normas municipales que son objeto de las facultades de fiscalización;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+LXIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el H. Ayuntamiento, dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 29.
 
-Para el buen funcionamiento, la Tesorería contará con las direcciones y departamentos que a continuación se señalan:
+Para el buen funcionamiento, la Tesorería contará con las Coordinaciones, Direcciones, Unidades y Departamentos que a continuación se señalan:
 
-l. Dirección de Ingresos:
+I.- Coordinación de Recaudación Tributaria:
 
-A) Departamento de Registro y Control de Ingresos;
+1. Unidad Normativa y de Procedimientos Fiscales.
 
-B) Departamento de Ejecución Fiscal y Cobranza;
+A. Departamento de Fiscalización Municipal.
 
-C) Departamento de Apoyo Técnico y Catastral;
+B. Departamento de Normas y Procedimientos Recaudatorios.
 
-D) Departamento de Aprovechamiento y Espacios Públicos; y,
+C. Departamento de Ejecución Fiscal y Cobranza.
 
-E) Departamento de Normatividad.
+D. Departamento de Apoyo Técnico y Catastral.
 
-II. Dirección Financiera y Contable:
+E. Departamento de Aprovechamiento y Espacios Públicos.
 
-A) Departamento de Contabilidad; y,
+F. Departamento de Registro y control de Ingresos.
 
-B) Departamento de Egresos y Control Presupuestal.
-
-III. Dirección de Financiamiento para el Desarrollo:
-
-A) Departamento Financiero;
-
-B) Departamento FISM (fondo para la infraestructura social municipal);
-
-C) Departamento FAFM (fondo de aportaciones para el fortalecimiento de los municipios); y,
-
-D) Departamento de Recursos Extraordinarios.
-
-IV. Dirección de Acceso a la Información Pública.
-
-A) Departamento de Seguimiento y Evaluación; y,
-
-B) Departamento de Análisis de Información.
-
-V. Dirección de Innovación Tecnológica y Soporte Técnico Computacional.
-
-A) Departamento de Mantenimiento; y,
-
-B) Departamento de Redes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 30.
 
-compete a la Dirección de Ingresos, recaudar los diversos ingresos que tiene derecho a percibir el H. Ayuntamiento Municipal, previstos en la legislación fiscal y demás ordenamientos aplicables, así como las derivadas de los convenios de colaboración administrativa, celebrados con el Estado y la Federación, correspondiéndole las atribuciones siguientes:
+Compete a la Coordinación de Recaudación Tributaria, recaudar los diversos ingresos que tiene derecho a percibir el H. Ayuntamiento Municipal, previstos en la legislación fiscal y demás ordenamientos aplicables, así como las derivadas de los convenios de colaboración administrativa, celebrados con el Estado y la Federación, correspondiéndole las atribuciones siguientes:
 
 I. Vigilar el estricto cumplimiento de las disposiciones previstas en la constitución, así como en las leyes, códigos, reglamentos y demás normas jurídicas en materia fiscal, que sean aplicables para el cumplimiento de sus funciones;
 
@@ -585,9 +575,13 @@ XXIV. Imponer multas por infracciones a las disposiciones fiscales municipales y
 
 XXV. Hacer efectivas las multas impuestas por las autoridades administrativas municipales y las de carácter federal o estatal que deriven del convenio de colaboración administrativa, suscrito con el Gobierno del Estado; así mismo, las garantías que se otorguen en términos de las disposiciones legales, excepto las otorgadas mediante póliza de fianza;
 
-XXVI. Expedir certificados o constancias de los expedientes, relativos a los asuntos de su competencia; así como las credenciales o constancias de identificación del personal adscrito a la dirección de ingresos, para llevar a cabo las diligencias que encomiende;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-XXVII. Proponer al Tesorero Municipal, la modificación o revocación de aquellas resoluciones de carácter individual no favorables a un particular emitidas por la dirección de ingresos, siempre que se demuestre que las mismas se hubieran emitido en contravención a las disposiciones fiscales y que los contribuyentes no hubieren interpuestos (sic) medios de defensa y/o hubiere transcurrido los plazos para presentarlos, sin que haya prescrito el crédito fiscal;
+XXVI. Expedir certificados o constancias de los expedientes, relativos a los asuntos de su competencia; así como las credenciales o constancias de identificación del personal adscrito a la Coordinación de Recaudación Tributaria, para llevar a cabo las diligencias que encomiende;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XXVII. Proponer al Tesorero Municipal, la modificación o revocación de aquellas resoluciones de carácter individual no favorables a un particular emitidas por la Coordinación de Recaudación Tributaria, siempre que se demuestre que las mismas se hubieran emitido en contravención a las disposiciones fiscales y que los contribuyentes no hubieren interpuestos (sic) medios de defensa y/o hubiere transcurrido los plazos para presentarlos, sin que haya prescrito el crédito fiscal;
 
 XXVIII. Autorizar la condonación de recargos, en los términos del Código Fiscal Municipal, en relación con las contribuciones municipales;
 
@@ -619,7 +613,33 @@ XLI. Determinar la facturación respecto a los ingresos captados por las diversa
 
 XLII. Realizar informes periódicos de los ingresos captados por conceptos de concesiones, licencias, estacionamientos y arrendamiento; y,
 
-XLIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la tesorería municipal dentro del ámbito de sus competencia.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XLlII. Ejecutar las actividades de fiscalización y control respecto del cumplimiento de las normas municipales en materia de urbanización, construcción y edificación en general, uso y destino de suelo, anuncios, ejercicio del comercio en la vía pública, medio ambiente, ejercicio del sexo servicio, parquímetros, juegos y espectáculos públicos, a través de la inspección, detección o constatación del cumplimiento o violación, total o parcial, de las normas legales o técnicas vigentes o de las autorizaciones concedidas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XLlV. Emitir solicitudes, requerimientos, mandamientos u órdenes de visita, fiscalización, inspección y demás que sean necesarias para el ejercicio de las facultades de fiscalización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XLV. Organizar, dirigir, planear, controlar y evaluar las acciones y labores del cuerpo de inspectores o fiscalizadores municipales, conformado por profesionales y técnicos especializados encargados de cautelar el fiel cumplimiento de las disposiciones municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XLVI. Imponer, notificar y ejecutar las sanciones administrativas correspondientes ante la detección de conductas de los administrados que se configuren como infracciones a los Reglamentos Municipales, con motivo del ejercicio de las facultades de fiscalización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XLVII. Disponer y ejecutar medidas cautelares o de seguridad previstas en los diversos ordenamientos municipales, emitidos mediante decisión motivada y con elementos de juicio suficientes, a fin de cautelar la eficacia de la Reglamentación Municipal motivo del ejercicio de las facultades de fiscalización.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XLVIII. Solicitar el auxilio de la fuerza pública para efectuar los procedimientos de inspección y demás diligencias, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de diligencias, independientemente de las sanciones a que haya lugar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XLlX. Las demás que determinen las disposiciones jurídicas aplicables.
 
 ###### Artículo 31.
 
@@ -699,7 +719,9 @@ XI. Diseñar y actualizar las políticas y sistemas de respaldo para salvaguarda
 
 XII. Apoyar en los sistemas de nóminas y contabilidad;
 
-XIII. Diseñar y publicar en coordinación con la dirección de ingresos los reportes de registro y control de ingresos que los órganos administrativos municipales requieran en apego a sus necesidades y dentro del marco de la normatividad respectiva vigente;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XIII. Diseñar y publicar en coordinación con la Coordinación de Recaudación Tributaria los reportes de registro y control de ingresos que los órganos administrativos municipales requieran en apego a sus necesidades y dentro del marco de la normatividad respectiva vigente;
 
 XIV. Formar parte del comité interno de seguridad informática que proponga, controle y evalúe metodologías y políticas de seguridad para la información generada, procesada y/o almacenada por las diferentes entidades o dependencias municipales;
 
@@ -1363,7 +1385,9 @@ XXXIV. Generar, registrar, analizar, regular y difundir la información topográ
 
 XXXV. Elaborar, autorizar y cuantificar los proyectos técnicos de obra pública municipal así como coordinarlos con las dependencias que corresponda. Inspeccionar que la calidad de la obra sea acorde a lo proyectado;
 
-XXXVI. Realizar inspecciones, suspensiones, clausuras e imponer sanciones a las obras públicas y privadas, así como a sus responsables en caso de que proceda aplicar en asuntos de su competencias (sic) las sanciones medidas y procedimientos previstos en las Leyes vigentes aplicables; y,
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XXXVI. Realizar en el ámbito de su competencia, inspecciones, suspensiones, clausuras e imponer sanciones a las obras públicas y privadas, así como a sus responsables en caso de que proceda aplicar las sanciones medidas y procedimientos previstos en las leyes vigentes aplicables; y
 
 XXXVII. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales y reglamentarias.
 
@@ -1421,7 +1445,9 @@ La Dirección de Control Urbano tendrá las siguientes atribuciones:
 
 I. Fungir como cabeza de equipo, coordinando los planes, programas y funciones de los departamentos a su cargo;
 
-II. Vigilar el cumplimiento del Reglamento de Construcción Municipal, ordenar las inspecciones de obra, imponer sanciones y autorizar suspensiones de obras notificadas, proponer ante Cabildo la demolición de obras que se realicen en contra de lo dispuesto en dicho reglamento y en los planes y programas de desarrollo urbano del centro de población;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+II. Vigilar en el ámbito de su competencia el cumplimiento del Reglamento de Construcción Municipal, ordenar las inspecciones de obra, imponer sanciones y autorizar suspensiones de obras notificadas, proponer ante Cabildo la demolición de obras que se realicen en contra de lo dispuesto en dicho reglamento y en los planes y programas de desarrollo urbano del centro de población;
 
 III. Autorizar las solicitudes y otorgar el visto bueno de los permisos expedidos por la Dirección, relacionados con Licencias de Construcción, Licencias de Alineamiento y Número Oficial, Aviso de Terminación de Obra con fundamento y apego a las leyes vigentes en materia de desarrollo urbano;
 
@@ -1481,21 +1507,29 @@ VIII. Las demás que determinen las disposiciones jurídicas aplicables o le del
 
 La Dirección de Ordenamiento Territorial tendrá las siguientes atribuciones:
 
-I. Regular y vigilar el ordenado crecimiento urbano en el Municipio, siguiendo los lineamientos emanados del Plan Municipal de Desarrollo, Programa de Desarrollo Urbano del Centro de Población, en sus diversas facetas autorización para la creación de fraccionamientos, empadronar los establecimientos mercantiles, otorgar las subdivisiones de predios, así como lograr el equilibrio ecológico;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+I. Regular y vigilar en el ámbito de su competencia, el ordenado crecimiento urbano en el Municipio, siguiendo los lineamientos emanados del Plan Municipal de Desarrollo, Programa de Desarrollo Urbano del Centro de Población, en sus diversas facetas autorización para la creación de fraccionamientos, empadronar los establecimientos mercantiles, otorgar las subdivisiones de predios, así como lograr el equilibrio ecológico;
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 II. Emitir dictámenes de fusión, subdivisión, factibilidad· de uso y destino del suelo, licencia de funcionamiento, constancia de viabilidad, autorizaciones de lotificación, urbanización, comercialización y declaratorias de régimen de propiedad en condominio, licencias para anuncios, de acuerdo a la normatividad vigente en la materia;
 
-III. Coordinar la supervisión de las obras de urbanización autorizadas, ordenar las suspensiones, clausuras y determinar las sanciones a las negociaciones que no cuenten con la constancia de factibilidad de uso y destino del suelo, licencia de funcionamiento, de conformidad con las leyes y reglamentos de la materia; sancionar el incumplimiento de las disposiciones de los dictámenes emitidos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+III. Coordinar en el ámbito de su competencia, la supervisión de las obras de urbanización autorizadas, ordenar las suspensiones, clausuras y determinar las sanciones a las negociaciones que no cuenten con la constancia de factibilidad de uso y destino del suelo, licencia de funcionamiento, de conformidad con las leyes y reglamentos de la materia; sancionar el incumplimiento de las disposiciones de los dictámenes emitidos;
 
 IV. Determinar el aprovechamiento de las áreas de donación de los fraccionamientos, previo acuerdo del H. Ayuntamiento en el marco del Programa de Desarrollo Urbano del Centro de Población;
 
-V. Coordinar y comisionar inspectores técnicos que vigilen el desarrollo de las obras de urbanización y se cercioren de que se cumpla con las especificaciones del proyecto definitivo de los diferentes fraccionamientos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+V. Coordinar y comisionar en el ámbito de su competencia, inspectores técnicos que vigilen el desarrollo de las obras de urbanización y se cercioren de que se cumpla con las especificaciones del proyecto definitivo de los diferentes fraccionamientos;
 
 VI. Dirigir la recepción correspondiente de los fraccionamientos, en coordinación con otras dependencias de la administración pública;
 
-VII. Ordenar inspecciones, suspensiones, clausuras e imponer sanciones a las obras públicas y privadas, así como a sus responsables, en caso de que proceda la aplicación de sanciones, medidas y procedimientos previstos en la Ley de Desarrollo Urbano, Ley General de Equilibrio Ecológico y Protección al Medio Ambiente, Reglamento de Protección al Ambiente y Aseo Urbano, Ley General para la Prevención y Gestión Integral de los Residuos, Reglamento de Anuncios para el Municipio de Tuxtla Gutiérrez, y en general las que apliquen para la Conservación y Preservación del Equilibrio Ecológico;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+VII. Ordenar en el ámbito de su competencia, inspecciones, suspensiones, clausuras e imponer sanciones a las obras públicas y privadas, así como a sus responsables, en caso de que proceda la aplicación de sanciones, medidas y procedimientos previstos en la Ley de Desarrollo Urbano, Ley General de Equilibrio Ecológico y Protección al Medio Ambiente, Reglamento de Protección al Ambiente y Aseo Urbano, Ley General para la Prevención y Gestión Integral de los Residuos, Reglamento de Anuncios para el Municipio de Tuxtla Gutiérrez, y en general las que apliquen para la Conservación y Preservación del Equilibrio Ecológico;
 
 VIII. Participar en la conservación de las zonas y elementos con valor histórico, cultural y ecológico;
 
@@ -1871,7 +1905,7 @@ XII. Las demás que determinen las disposiciones jurídicas aplicables o le dele
 
 ###### Artículo 81.
 
-Es la dependencia encargada de ejecutar las acciones necesarias para brindar a la ciudadanía los servicios de imagen urbana, recolección de basura, ornato en áreas verdes y alumbrado público, así como los servicios relacionados con la administración de los mercados, panteones y comercios ambulantes contando para ello con las siguientes atribuciones:
+Es la dependencia encargada de ejecutar las acciones necesarias para brindar a la ciudadanía los servicios de obras viales e imagen urbana, recolección de basura, ornato en áreas verdes y alumbrado público, así como los servicios relacionados con la administración de los mercados y panteones contando para ello con las siguientes atribuciones:
 
 I. Formular los programas operativos anuales y los programas emergentes en materia de servicios públicos;
 
@@ -2007,37 +2041,51 @@ XIII. Dirigir la coordinación con diferentes instituciones públicas, privadas 
 
 XIV. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales, dentro del ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
 ### Capítulo X. Secretaría de Servicios Municipales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 86.
 
-La Dirección de Mercados, Panteones y Comercio en Vía Pública tendrá las siguientes atribuciones:
+La Dirección de Mercados, Panteones tendrá las siguientes atribuciones:
 
-l. Dirigir de manera eficiente y eficaz todas las actividades relacionadas con los mercados, panteones y comercio ambulante, en el marco de las reglamentaciones establecidas;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-II. Supervisar la administración y el servicio en los mercados públicos, panteones municipales y comercio ambulante verificando la aplicación de la reglamentación respectiva;
+l. Dirigir de manera eficiente y eficaz todas las actividades relacionadas con los mercados y panteones, en el marco de las reglamentaciones establecidas;
 
-III. Administrar los mercados públicos, tianguis, comercio ambulante y panteones municipales, informando a la Tesorería Municipal de los asuntos que le correspondan para el cobro de los derechos, productos y aprovechamientos respectivos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-IV. Implementar y desarrollar programas tendientes a mejorar la prestación de los servicios de mercados públicos, comercio ambulante y panteones municipales;
+II. Supervisar la administración y el servicio en los mercados públicos y panteones municipales verificando la aplicación de la reglamentación respectiva;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+III. Administrar los mercados públicos, tianguis y panteones municipales, informando a la Tesorería Municipal de los asuntos que le correspondan para el cobro de los derechos, productos y aprovechamientos respectivos;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+IV. Implementar y desarrollar programas tendientes a mejorar la prestación de los servicios de mercados públicos y panteones municipales;
 
 V. Actualizar el censo de las personas que usufructúan los locales en los mercados públicos e integrar los expedientes respectivos, señalando el giro de comercio correspondiente ya sea en puestos fijos, semifijos y otros;
 
 VI. Autorizar los cambios de giros, permuta, traspaso y permisos de los locales, ubicados en los mercados públicos, previo análisis de los expedientes técnicos por el comité dictaminador;
 
-VII. Supervisar los programas de mantenimiento y remodelación de los mercados públicos, mercados sobre ruedas, comercio ambulante fijo y semifijo, panteones municipales y centros de abasto, informando a las autoridades competentes sobre el desarrollo de las operaciones y el estado en el que se conservan los mismos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+VII. Supervisar los programas de mantenimiento y remodelación de los mercados públicos, mercados sobre ruedas, panteones municipales y centros de abasto, informando a las autoridades competentes sobre el desarrollo de las operaciones y el estado en el que se conservan los mismos;
 
 VIII. Dictaminar de manera conjunta con las dependencias correspondientes, las zonas en las que deberán establecerse mercados y panteones en el Municipio;
 
-IX. Regular el comercio ambulante fijo y semifijo en el primer cuadro de la ciudad que abarca de la 11 a. oriente a la 11 a. poniente y de la 9 a. sur a la 5a. norte, manteniendo un padrón de los comerciantes de este rubro y otorgar las autorizaciones o cancelaciones correspondientes para su ubicación y giro comercial;
+IX. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2009)
 
 X. Imponer y ejecutar las sanciones administrativas previstas en el Reglamento vigente de mercados públicos y panteones municipales;
 
-XI. Proponer y llevar a cabo las medidas tendientes a optimizar la prestación del servicio de los mercados públicos, comercio ambulante y panteones municipales, así como también los servicios sanitarios públicos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-XII. Establecer y supervisar los días y lugares en que funcionara el comercio ambulante en coordinación con las dependencias e instancias de gobierno Municipal y Estatal;
+XI. Proponer y llevar a cabo las medidas tendientes a optimizar la prestación del servicio de los mercados públicos, y panteones municipales, así como también los servicios sanitarios públicos;
+
+XII. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2009)
 
 XIII. Autorizar los traspasos, regulación, inhumaciones y construcciones en los lotes de los panteones municipales;
 
@@ -2956,6 +3004,14 @@ Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presen
 Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
 
 P.O. 14 DE OCTUBRE DE 2009.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
+
+P.O. 11 DE NOVIEMBRE DE 2009.
 
 Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
 
