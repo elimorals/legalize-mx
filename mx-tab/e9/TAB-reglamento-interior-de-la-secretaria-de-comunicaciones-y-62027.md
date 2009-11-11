@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-comunicaciones-y-62027"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-18"
-last_updated: "2008-06-18"
+last_updated: "2009-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 18 de junio de 2008.
 
@@ -91,21 +91,27 @@ C) Subsecretaría de Comunicaciones:
 
 1.2. Dirección para el Desarrollo de la Infraestructura Multimodal.
 
-D) Subsecretaría de Transportes:
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+D).- Subsecretaría de Transportes:
 
 1. Dirección General de Transportes;
 
-1.1. Dirección Operativa;
+1.1. Dirección de Normatividad;
 
-1.2. Dirección de Normatividad; y
+2. Dirección de Capacitación de Operadores del Transporte Público;
 
-1.3. Dirección de Capacitación de Operadores del Transporte Público.
+3. Dirección General Técnica y de Modernización;
+
+3.1. Dirección de Estudios Técnicos y Desarrollo de Proyectos de Modernización.
 
 E) Unidad de Atención y Participación Ciudadana;
 
 F) Dirección del Registro Estatal de Comunicaciones y Transportes;
 
-G) Dirección General Técnica y de Modernización;
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+G).- Dirección Operativa.
 
 I. Dirección de Estudios Técnicos y Desarrollo de Proyectos de Modernización.
 
@@ -525,17 +531,25 @@ Las Direcciones Generales tendrán las siguientes atribuciones:
 
 I. Planear, programar, organizar, controlar, dirigir y evaluar las actividades de las unidades administrativas adscritas a ésta, conforme a las disposiciones jurídicas aplicables;
 
-II. Acordar con el Secretario el despacho de los asuntos de las unidades administrativas adscritas a su cargo;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+II.- Acordar con el Subsecretario, el despacho de los asuntos de las unidades administrativas adscritas a su cargo;
 
 III. Cumplir y hacer cumplir los acuerdos del Secretario;
 
 IV. Recibir en acuerdo a los titulares de las unidades administrativas de su área y a cualquier otro servidor púbico subalterno, así como conceder audiencias al público;
 
-V. Someter a la consideración del Secretario, previa opinión de la Unidad Jurídica, los anteproyectos de leyes, decretos, reglamentos, acuerdos, convenios, contratos y demás ordenamientos de su competencia;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-VI. Coordinar y someter a la consideración del Secretario, el anteproyecto de presupuesto de las unidades administrativas a su cargo;
+V.- Someter a consideración del Subsecretario, previa opinión de la Unidad Jurídica, los anteproyectos de leyes, decretos, reglamentos, acuerdos, convenios, contratos y demás ordenamientos de su competencia;
 
-VII. Proponer al Secretario los objetivos, políticas, planes y programas de trabajo de la Dirección General a su cargo, así como vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+VI.- Coordinar y someter a consideración del Subsecretario, el anteproyecto de presupuesto de las unidades administrativas a su cargo;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+VII.- Proponer al Subsecretario los objetivos, políticas, planes y programas de trabajo de la Dirección General a su cargo, así como vigilar su cumplimiento;
 
 VIII. Desempeñar las funciones y comisiones que el Secretario le encomiende o delegue y mantenerlo informado del desarrollo de las mismas;
 
@@ -545,13 +559,19 @@ X. Establecer comunicación y coordinarse con los titulares de las demás unidad
 
 XI. Proporcionar los elementos técnicos necesarios para la sustanciación de los recursos administrativos y medios de impugnación que sean interpuestos contra actos de las unidades administrativas bajo su adscripción;
 
-XII. Proponer al Secretario, las medidas necesarias para el mejoramiento administrativo de las unidades a su cargo, coordinando y vinculando sus actividades para que operativamente sean eficaces;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XII.- Proponer al Subsecretario, las medidas necesarias para el mejoramiento administrativo de las unidades a su cargo, coordinando y vinculando sus actividades para que operativamente sean eficaces;
 
 XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que por delegación de facultades o por suplencia le correspondan;
 
-XIV. Proponer al Secretario los nombramientos del personal que deba adscribirse a las unidades administrativas a su cargo;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
-XV. Elaborar y remitir al Secretario los informes que deban rendirse al Gobernador, incluyendo los correspondientes a los resultados de las evaluaciones periódicas que se practiquen a las unidades administrativas de la dependencia sobre el resultado de sus programas, proyectos y actividades, conforme a los lineamientos que establezca el Secretario;
+XIV.- Proponer al Subsecretario, los nombramientos del personal que deba adscribirse a las unidades administrativas a su cargo;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+XV.- Elaborar y remitir al Subsecretario, los informes que deban rendirse al Gobernador, incluyendo los correspondientes a los resultados de las evaluaciones periódicas que se practiquen a las unidades administrativas de la dependencia sobre el resultado de sus programas, proyectos y actividades, conforme a los lineamientos que establezca el Secretario;
 
 XVI. Dar seguimiento a la correspondencia turnada a cada área de la Dirección;
 
@@ -709,193 +729,159 @@ VII. Promover ante las dependencias del Sector Público Federal, Estatal y Munic
 
 ### CAPÍTULO II. DE LA SUBSECRETARÍA DE TRANSPORTES
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 21.
 
 La Subsecretaría de Transportes tendrá las siguientes atribuciones:
 
-I. Vigilar el cumplimiento de los principios técnicos, operativos y administrativos, que regulen la prestación del servicio de transporte y sus servicios auxiliares en el Estado;
+I.- Vigilar el cumplimiento de los principios técnicos, operativos y administrativos que regulen la prestación del servicio de transporte y sus servicios auxiliares en el Estado;
 
-II. Coordinarse con las diferentes áreas de la Secretaría, así como con otras entidades y dependencias de la Administración Pública Federal, Estatal y Municipal, o en su caso otras entidades federativas, para determinar las posibles necesidades y soluciones del servicio de transporte y sus servicios auxiliares en el Estado;
+II.- Coordinarse con las diferentes áreas de la Secretaría, así como con otras entidades y dependencias de la administración pública federal, estatal y municipal, o en su caso otras entidades federativas, para determinar las posibles necesidades y soluciones del servicio de transporte y sus servicios auxiliares en el Estado;
 
-III. Sancionar la violación de las disposiciones y ordenamientos legales en materia del servicio de transporte y sus servicios auxiliares, así como las dictadas por la Secretaría, en el ámbito de su competencia;
+III.- Sancionar la violación de las disposiciones y ordenamientos legales en materia del servicio de transporte y sus servicios auxiliares, así como las dictadas por la Secretaría en el ámbito de su competencia;
 
-IV. Coadyuvar en la elaboración de los planes, estudios y proyectos en materia del servicio de transporte y sus servicios auxiliares, competentes a la Secretaría;
+IV.- Elaborar los planes, estudios y proyectos en materia del servicio y modernización del transporte, y los servicios auxiliares competentes a la Secretaría;
 
-V. Coadyuvar con las autoridades federales, estatales y municipales en la planeación, elaboración y ejecución de proyectos, en los términos establecidos por el Secretario, en materia de desarrollo urbano en el Estado;
+V.- Coadyuvar con las autoridades federales, estatales y municipales en la planeación, elaboración y ejecución de proyectos, en los términos establecidos por el Secretario, en materia de desarrollo urbano en el Estado;
 
-VI. Vigilar el cumplimiento de las disposiciones federales y estatales en materia de conservación del ambiente, en el desarrollo y operación del servicio de transporte y sus servicios auxiliares;
+VI.- Vigilar el cumplimiento de las disposiciones federales y estatales en materia de conservación del ambiente, en el desarrollo y operación del servicio de transporte y sus servicios auxiliares;
 
-VII. Vigilar el cumplimiento de horarios, itinerarios, rutas, tarifas del servicio de transporte y sus servicios auxiliares, autorizados por la Secretaría;
+VII.- Vigilar el cumplimiento de horarios, itinerarios, rutas, tarifas del servicio de transporte y sus servicios auxiliares, autorizados por la Secretaría;
 
-VIII. Fijar las bases para regular, inspeccionar y vigilar el servicio de transporte en sus diversas modalidades, sus servicios auxiliares y a los prestadores del mismo;
+VIII.- Fijar las bases para regular, inspeccionar y vigilar el servicio de transporte en sus diversas modalidades, sus servicios auxiliares y a los prestadores del mismo;
 
-IX. Proponer al Secretario, previo dictamen técnico, el otorgamiento de concesiones y permisos a los particulares para establecer corralones o encierros oficiales en el Estado;
+IX.- Someter a consideración del Secretario, previo dictamen técnico, el otorgamiento de concesiones y permisos a los particulares para establecer terminales; corralones o encierros oficiales en el Estado;
 
-X. Asegurar que los particulares y los prestadores del servicio de transporte cumplan con las disposiciones legales aplicables;
+X.- Asegurar que los particulares y los prestadores del servicio de transporte cumplan con las disposiciones legales aplicables;
 
-XI. Establecer los requisitos que deban satisfacer los particulares y el personal técnico del servicio de transporte, así como expedir los gafetes y permisos respectivos;
+XI.- Establecer los requisitos que deban satisfacer los particulares y el personal técnico del servicio de transporte, así como expedir los gafetes y permisos respectivos;
 
-XII. Coordinar la ejecución de los programas de transporte en la entidad que se realicen directamente o en forma concertada con la federación y los municipios;
+XII.- Coordinar la ejecución de los programas de transporte en la entidad que se realicen directamente o en forma concertada con la federación y los municipios;
 
-XIII. Garantizar la prestación del servicio público de transporte urbano, en caso de la suspensión del mismo, por parte de los prestadores del servicio;
+XIII.- Formular y coordinar las acciones del Plan Contingente de Transporte Público Urbano que permita organizar los servicios emergentes ante la suspensión del mismo;
 
-XIV. Autorizar el cambio de unidades para la prestación del servicio de transporte, de acuerdo a las disposiciones aplicables;
+XIV.- Autorizar el cambio de unidades para la prestación del servicio de transporte, de acuerdo a las disposiciones aplicables;
 
-XV. Colaborar con las instancias involucradas en las acciones relativas a la ingeniería del transporte público y al señalamiento de la vialidad carretera y caminos del Estado;
+XV.- Colaborar con las instancias involucradas en las acciones relativas a la ingeniería del transporte público y al señalamiento de la vialidad carretera y caminos del Estado;
 
-XVI. Colaborar en el diseño de los programas de capacitación que contribuyan al desarrollo de una cultura de tránsito, vialidad y del servicio público de transporte;
+XVI.- Elaborar y aplicar los programas de capacitación que contribuyan al desarrollo de una cultura de tránsito, vialidad y del servicio público de transporte;
 
-XVII. Participar en el Consejo Consultivo de Transporte;
+XVII.- Participar en el Consejo Consultivo de Transporte como Secretario Técnico;
 
-XVIII. Emitir la lista mensual de unidades del servicio urbano y suburbano que proporcionen el servicio nocturno posterior a las veintidós horas, en caso de que los prestadores del servicio no la presenten;
+XVIII.- Emitir la lista mensual de unidades del servicio urbano y suburbano que proporcionen el servicio nocturno posterior a las veintidós horas, en caso de que los prestadores del servicio no la presenten;
 
-XIX. Supervisar la organización y administración del servicio de transporte público y privado de personas, carga y mixto;
+XIX.- Supervisar la organización y administración del servicio de transporte público y privado de personas, carga y mixto;
 
-XX. Someter a consideración del Secretario las solicitudes de concesiones, renovación o prórrogas de las mismas, así como el procedimiento para su cancelación o revocación, de acuerdo con la legislación estatal;
+XX.- Someter a consideración del Secretario previo estudio técnico, las solicitudes de autorizaciones, permisos, concesiones, renovación o prórrogas de las mismas, así como el procedimiento para su cancelación o revocación de acuerdo con la legislación estatal;
 
-XXI. Coordinar la supervisión del cumplimiento de los términos de las concesiones, autorizaciones y permisos del servicio de transporte de jurisdicción estatal;
+XXI.- Coordinar la supervisión del cumplimiento de los términos de las concesiones, autorizaciones y permisos del servicio de transporte de jurisdicción estatal;
 
-XXII. Controlar y supervisar la prestación del servicio de transporte público, en cualquiera de sus modalidades;
+XXII.- Controlar y supervisar la prestación del servicio de transporte público, en cualquiera de sus modalidades;
 
-XXIII. Autorizar, previo estudio técnico unidades, itinerarios, rutas, horarios, bases de inicio y cierre de circuito, sitios de taxi y demás elementos de operación necesarios para la prestación del servicio de transporte público;
+XXIII.- Autorizar previo estudio técnico, unidades, itinerarios, rutas, horarios, bases de inicio y cierre de circuito, sitios de taxi y demás elementos de operación necesarios para la prestación del servicio de transporte público;
 
-XXIV. Implementar los programas y cursos de capacitación que coadyuven a sensibilizar, orientar y mejorar la actitud y desempeño de los prestadores del servicio de transporte público y privado; y
+XXIV.- Implementar los programas y cursos de capacitación que coadyuven a sensibilizar, orientar y mejorar la actitud y desempeño de los prestadores del servicio de transporte público y privado;
 
-XXV. Vigilar la aplicación de sanciones, detención, retiro y depósito vehicular del autotransporte, por violación de las disposiciones señaladas en la legislación aplicable en la materia, en que incurran los concesionarios, permisionarios y operadores del servicio de transporte público.
+XXV.- Determinar la aplicación de sanciones, detención, retiro y depósito vehicular del autotransporte por violación de las disposiciones señaladas en la legislación aplicable en la materia, en que incurran los concesionarios, permisionarios y operadores del servicio de transporte público;
+
+XXVI.- Proponer con base a los estudios técnicos desarrollados, las tarifas aplicables al servicio de transporte de jurisdicción estatal;
+
+XXVII.- Autorizar la acreditación de las personas que cumplan con las normas establecidas por la Secretaría y acrediten las evaluaciones para operar unidades de transporte público y privado;
+
+XXVIII.- Autorizar la suspensión o cancelación en términos de los ordenamientos legales aplicables en la materia, las tarjetas de identificación de conducir para operadores de los servicios de transporte público y mercantil;
+
+XXIX.- Autorizar la sustitución, altas y bajas de las unidades que presten el servicio público y privado de transporte, y demás elementos de operación necesarios para la prestación de este servicio; y
+
+XXX.- Autorizar las sanciones a las acciones y omisiones ilícitas en que incurran los concesionarios, permisionarios y operadores del servicio público y privado de transporte, de conformidad con la legislación aplicable en la materia
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE TRANSPORTES
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 22.
 
 La Dirección General de Transportes tendrá las siguientes atribuciones:
 
-I. Supervisar el cumplimiento de los términos de las concesiones, autorizaciones y permisos del servicio de transporte de jurisdicción estatal;
+I.- Integrar conforme al dictamen técnico, las autorizaciones de unidades, itinerarios, rutas, horarios, bases de inicio y cierre de circuito, sitios de taxis y demás elementos de operación necesarios para la prestación del servicio de transporte público;
 
-II. Supervisar la prestación del servicio de transporte, en cualquiera de sus modalidades;
+II.- Integrar las autorizaciones de las solicitudes de sustitución, altas y bajas de las unidades que presten el servicio público y privado de transporte, y demás elementos de operación necesarios para la prestación de este servicio;
 
-III. Proponer al Subsecretario de Transportes, previo estudio técnico, las autorizaciones de unidades, itinerarios, rutas, horarios, bases de inicio y cierre de circuito, sitios de taxis y demás elementos de operación necesarios para la prestación del servicio de transporte público;
+III.- Verificar durante las revisiones documentales para la integración de las autorizaciones, que los vehículos destinados al servicio público cuenten con las pólizas vigentes de seguro de viajero y de responsabilidad civil por daños a terceros;
 
-IV. Autorizar la sustitución, altas y bajas de las unidades que presten el servicio público y privado de transporte, y demás elementos de operación necesarios para la prestación de este servicio;
+IV.- Verificar durante las revisiones documentales para la integración de las autorizaciones, que los vehículos destinados al servicio público cumplan con las especificaciones y demás condiciones señaladas en la legislación aplicable en la materia, para prestar el servicio de transporte público;
 
-V. Verificar permanentemente que los concesionarios o permisionarios cuenten con las pólizas vigentes de seguro de viajero y de responsabilidad civil por daños a terceros;
+V.- Integrar los expedientes de sanciones a las acciones y omisiones ilícitas en que incurran los concesionarios, permisionarios y operadores del servicio público y privado de transporte, de conformidad con la legislación aplicable en la materia;
 
-VI. Vigilar por lo menos cada doce meses, que los vehículos destinados al servicio público cumplan con las especificaciones y demás condiciones señaladas en la legislación aplicable en la materia, para prestar el servicio de transporte público;
+VI.- Formular y ejecutar conjuntamente con la Dirección General Técnica y de Modernización y la Dirección Operativa, el Plan Contingente de Transporte Público Urbano, que permita organizar los servicios emergentes ante la suspensión del mismo;
 
-VII. Sancionar las acciones y omisiones ilícitas en que incurran los concesionarios, permisionarios y operadores del servicio público y privado de transporte, de conformidad con la legislación aplicable en la materia;
+VII.- Proponer cursos de capacitación que orienten a los prestadores del servicio público de transporte a integrar los requerimientos de los trámites;
 
-VIII. Detener, retirar y depositar las unidades por violación de las disposiciones de la Ley de Transportes del Estado de Tabasco y su Reglamento, en que incurran los concesionarios, permisionarios y operadores del servicio público de transporte;
+VIII.- Coadyuvar con la Dirección de Capacitación de Operadores del Transporte Público, en la realización de las acciones de capacitación en materia de transportes;
 
-IX. Aplicar programas e impartir cursos de capacitación que coadyuven a sensibilizar, orientar y mejorar la actitud y desempeño de los prestadores del servicio de transporte público y privado;
+IX.- Verificar durante las revisiones documentales para la integración de las autorizaciones, el cumplimiento de las políticas referentes a la seguridad e higiene a la que deberán sujetarse los vehículos para la prestación del servicio público, inscritos en el padrón vehicular del Estado, así como de los servicios auxiliares del mismo, de conformidad a la legislación aplicable en la materia;
 
-X. Autorizar la acreditación de las personas que cumplan con las normas establecidas por la Secretaría y acrediten las evaluaciones para operar unidades de transporte público y privado;
+X.- Coadyuvar en el ámbito de su competencia, en la difusión y promoción de la modernización del parque vehicular del servicio de transporte público del Estado, conforme a las disposiciones aplicables en la materia;
 
-XI. Coadyuvar y proporcionar a la Dirección de Capacitación de Operadores del Transporte Público, los elementos necesarios para la realización de programas y acciones de capacitación en materia de transporte;
+XI.- Coadyuvar al emplacamiento del transporte público y sus servicios auxiliares, conforme a las disposiciones legales aplicables en la materia;
 
-XII. Vigilar el cumplimiento de las políticas referentes a la seguridad e higiene a la que deberán sujetarse los vehículos para la prestación del servicio público, inscritos en el padrón vehicular del Estado, así como de los servicios auxiliares del mismo, de conformidad a la legislación aplicable en la materia;
+XII.- Integrar en los términos de los ordenamientos legales aplicables en la materia, la suspensión o cancelación de las tarjetas de identificación de conducir para operadores de los servicios de transporte público y mercantil;
 
-XIII. Coadyuvar en el ámbito de su competencia, en la difusión y promoción de la modernización del parque vehicular del servicio de transporte público del Estado, conforme a las disposiciones aplicables en la materia;
+XIII.- Integrar la autorización de cambio de unidades para la prestación del servicio de transporte, conforme a las disposiciones aplicables en la materia;
 
-XIV. Coadyuvar al emplacamiento del transporte público y sus servicios auxiliares, conforme a las disposiciones legales aplicables en la materia;
+XIV.- Colaborar en la actualización del Registro Estatal de Comunicaciones y Transportes;
 
-XV. Determinar en términos de los ordenamientos legales aplicables en la materia, la suspensión o cancelación de las tarjetas de identificación de conducir para operadores de los servicios de transporte público y mercantil;
+XV.- Coadyuvar en la implementación de los programas de capacitación, mismos que contribuyan al desarrollo de una cultura de tránsito, vialidad y del servicio público de transporte;
 
-XVI. Vigilar que la prestación del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de, pasajeros, y de las terminales de autobuses de jurisdicción estatal, así como el personal operativo de las mismas, cumplan con las leyes aplicables y particularmente con las especificaciones establecidas en la concesión otorgada;
+XVI.- Integrar en los términos de los ordenamientos legales aplicables en la materia, la resolución de las quejas de los usuarios en contra de los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal;
 
-XVII. Vigilar la ejecución de los programas de transportes en la entidad, mismos que deberán realizarse en forma concertada con la Federación y los municipios;
+XVII.- Integrar de acuerdo a la normatividad establecida, las sanciones a las violaciones en que hayan incurrido los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros y de las terminales de autobuses de jurisdicción estatal, de conformidad con la normatividad estatal en la materia;
 
-XVIII. Coordinar las acciones emergentes de transporte público urbano, en caso de requerirse, para garantizar la prestación del servicio;
+XVIII.- Atender a los prestadores de servicios de transportes, de los depósitos de vehículos, de los sitios de carga, descenso de pasajeros y de las terminales de autobuses de jurisdicción estatal, para resolver los problemas inherentes a su operación, en los términos permitidos por las leyes aplicables;
 
-XIX. Validar el cambio de unidades para la prestación del servicio de transporte, conforme a las disposiciones aplicables en la materia;
+XIX.- Establecer los mecanismos de control, seguimiento y evaluación de las actividades, programas y proyectos de la Dirección General de Transportes; y
 
-XX. Colaborar en la actualización del Registro Estatal de Comunicaciones y
+XX.- Participar en el Consejo Consultivo de Transporte.
 
-Transportes;
-
-XXI. Coadyuvar en la implementación de los programas de capacitación, mismos que contribuyan al desarrollo de una cultura de tránsito, vialidad y del servicio público de transporte;
-
-XXII. Resolver las quejas de los usuarios en contra de los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal;
-
-XXIII. Coordinar la aplicación de las medidas en materia de protección ambiental relacionadas con el transporte;
-
-XXIV. Supervisar permanentemente que los prestadores del servicio de transporte, de los depósitos de vehículos y de las terminales de autobuses de jurisdicción estatal, cuenten con las pólizas vigentes correspondientes;
-
-XXV. Vigilar el cumplimiento de la lista mensual de las unidades del servicio urbano y suburbano que proporcionen el servicio nocturno;
-
-XXVI. Sancionar las violaciones en que hayan incurrido los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros y de las terminales de autobuses de jurisdicción estatal, de conformidad con la normatividad estatal en la materia;
-
-XXVII. Atender a los prestadores de servicios de transportes, de los depósitos de vehículos, de los sitios de carga, descenso de pasajeros y de las terminales de autobuses de jurisdicción estatal, para resolver los problemas inherentes a su operación, en los términos permitidos por las leyes aplicables;
-
-XXVIII. Elaborar el reporte mensual de las actividades de la Dirección General de Transportes, para presentarlo a su superior inmediato;
-
-XXIX. Establecer los mecanismos de control, seguimiento y evaluación de las actividades, programas y proyectos de la Dirección General de Transportes; y
-
-XXX. Participar en el Consejo Consultivo de Transporte.
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCIÓN II. DE LA DIRECCIÓN OPERATIVA
 
 ###### Artículo 23.
 
-La Dirección Operativa tendrá las siguientes atribuciones:
-
-I. Proponer al Director General de Transportes, los lineamientos técnicos y administrativos relativos a la operación del servicio de transporte y sus servicios auxiliares;
-
-II. Proponer al superior jerárquico, en el ámbito de su competencia, programas de apoyo para la prestación del servicio de transporte y sus servicios auxiliares en el Estado, en coordinación con las autoridades federales, estatales o municipales y otras entidades federativas;
-
-III. Proponer al Director General de Transportes, la operación y modificación del servicio de transporte en sus diversas modalidades y sus servicios auxiliares;
-
-IV. Elaborar y proporcionar a las autoridades correspondientes, previo acuerdo del superior jerárquico, las estadísticas técnicas de los servicios de transporte en el Estado;
-
-V. Ordenar las actividades de las áreas dependientes de la Dirección y articularlas para que operativamente sean eficaces;
-
-VI. Implantar el método para supervisar la prestación del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal;
-
-VII. Vigilar que los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal, cumplan con las leyes aplicables y con los requisitos establecidos en la concesión correspondiente, especialmente en lo relativo a los horarios, itinerarios, tarifas y condiciones de las unidades y de los operadores de las mismas;
-
-VIII. Supervisar la ejecución de los programas de transportes en la entidad, mismos que deberán realizarse en forma directa o concertada con la federación y los municipios;
-
-IX. Vigilar la ejecución de las acciones emergentes de transporte público urbano, en caso que así se requiera, para garantizar la prestación del servicio;
-
-X. Vigilar la aplicación de las medidas en materia de protección ambiental relacionadas con el transporte;
-
-XI. Vigilar que los prestadores del servicio urbano y suburbano proporcionen el servicio nocturno posterior a las veintidós horas; y
-
-XII. Documentar y enviar a su superior inmediato las omisiones y acciones ilícitas que detecten a los vehículos y operadores que prestan el servicio de transporte, de los depósitos de vehículos, de los sitios de carga ascenso y descenso de pasajeros y de las terminales de autobuses de jurisdicción estatal.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2009)
 
 #### SECCIÓN III. DE LA DIRECCIÓN DE NORMATIVIDAD
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 24.
 
 La Dirección de Normatividad tendrá las siguientes atribuciones:
 
-I. Difundir la normatividad a la que deberán sujetarse los vehículos destinados al transporte público, mercantil y sus servicios auxiliares, en materia de vialidad, que emita en sus disposiciones la Secretaría;
+I.- Difundir la normatividad a la que deberán sujetarse los vehículos destinados al servicio público y privado de transporte y sus servicios auxiliares, establecidas en la Ley de Transportes del Estado de Tabasco, así como las que emita en sus disposiciones la Secretaría;
 
-II. Proponer las normas, lineamientos y requisitos para la expedición, canje y reposición de tarjetas de identificación de circulación y permisos provisionales de conformidad con la normatividad aplicable;
+II.- Proponer las normas, lineamientos y requisitos para la expedición, canje y reposición de tarjetas de identificación de circulación y permisos provisionales de conformidad con la normatividad aplicable;
 
-III. Establecer, previo acuerdo del superior jerárquico, las normas y bases que en materia de seguros, deberán estar sujetos los vehículos inscritos en el Padrón Vehicular del Estado;
+III.- Establecer, previa verificación de procedencia técnica y jurídica, las normas y bases que en materia de seguros, deberán estar sujetos los vehículos destinados al servicio público y privado de transporte en el Estado;
 
-IV. Establecer los mecanismos para agilizar los trámites que han de cumplir los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal;
+IV.- Establecer los mecanismos para agilizar los trámites que han de cumplir los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal;
 
-V. Elaborar, previa verificación de procedencia la cancelación, revocación, modificación, ampliación, revalidación y prorrogas de permisos y autorizaciones relacionados con la prestación del servicio concesionado de transporte, de depósitos de vehículos, de sitios de carga, ascenso y descenso de pasajeros, así como de las terminales de autobuses de jurisdicción estatal;
+V.- Elaborar, previa verificación de procedencia técnica y jurídica, la cancelación, revocación, modificación, ampliación, revalidación y prorrogas de permisos y autorizaciones relacionados con la prestación del servicio concesionado de transporte, de depósitos de vehículos, de sitios de carga, ascenso y descenso de pasajeros, así como de las terminales de autobuses de jurisdicción estatal;
 
-VI. Controlar que las unidades que prestan el servicio de transporte cuenten con las pólizas de seguro correspondientes y que las mismas estén vigentes;
+VI.- Verificar durante las revisiones documentales para la integración de las autorizaciones, que las unidades que prestan el servicio de transporte cuenten con las pólizas de seguro correspondientes y que las mismas estén vigentes;
 
-VII. Proporcionar a la Unidad Jurídica, la documentación para el desahogo de las quejas que presenten los usuarios en contra de los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros y de las terminales de autobuses de jurisdicción estatal;
+VII.- Realizar el desahogo de las quejas que presenten los usuarios en contra de los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros y de las terminales de autobuses de jurisdicción estatal;
 
-VIII. Elaborar, previa verificación de procedencia, las autorizaciones para el cambio de unidades para la prestación del servicio de transporte, de acuerdo a las disposiciones aplicables;
+VIII.- Elaborar, previa verificación de procedencia técnica y jurídica, las autorizaciones para el cambio de unidades para la prestación del servicio de transporte, de acuerdo a las disposiciones aplicables;
 
-IX. Proporcionar la información que le requieran para la actualización del Registro Estatal de Comunicaciones y Transportes;
+IX.- Proporcionar la información que le requieran para la actualización del Registro Estatal de Comunicaciones y Transportes;
 
-X. Participar con instructores en la implementación de los programas de capacitación que contribuyan al desarrollo de una cultura de tránsito, vialidad y del servicio público de transporte;
+X.- Participar en la implementación de los programas de capacitación que contribuyan al desarrollo de una cultura de tránsito, vialidad y del servicio público de transporte;
 
-XI. Incluir en la verificación vehicular la aplicación de las medidas en materia de protección ambiental relacionadas con el transporte;
+XI.- Integrar en los expedientes correspondientes la información de las sanciones que se apliquen a los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal; y
 
-XII. Verificar por lo menos cada doce meses que las unidades destinadas para el servicio público de transporte cumplan con las disposiciones aplicables y particularmente con las especificaciones establecidas en la concesión otorgada;
-
-XIII. Integrar en los expedientes correspondientes la información de las sanciones que se apliquen a los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal;
-
-XIV. Informar al superior jerárquico las anomalías detectadas en las revisiones documentales y físicas de las unidades del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal; y
-
-XV. Requerir mensualmente a los prestadores del servicio urbano y suburbano la lista de unidades para proporcionar el servicio nocturno, posterior a las veintidós horas o elaborar la misma en caso de que no la presenten los prestadores del servicio.
+XII.- Informar al superior jerárquico las anomalías detectadas en las revisiones documentales de las unidades del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal, realizadas durante las inspecciones.
 
 #### SECCIÓN IV. DE LA DIRECCIÓN DE CAPACITACIÓN DE OPERADORES DEL TRANSPORTE PÚBLICO
 
@@ -917,7 +903,83 @@ VI. Participar con instructores en la implementación de los programas de capaci
 
 VII. Validar los expedientes de los solicitantes a conductores de vehículos del servicio público de transporte, con la documentación relativa al acreditamiento de participación en cursos de capacitación y exámenes médicos practicados, así como los dictámenes para la obtención de gafetes.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ESTUDIOS TÉCNICOS Y DESARROLLO DE PROYECTOS DE MODERNIZACIÓN
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+#### SECCIÓN V. DE LA DIRECCIÓN GENERAL TÉCNICA Y DE MODERNIZACIÓN, Y DE LA DIRECCIÓN DE ESTUDIOS TÉCNICOS Y DESARROLLO DE PROYECTOS DE MODERNIZACIÓN
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+Artículo 25 Bis A.- La Dirección General Técnica y de Modernización tendrá las siguientes atribuciones:
+
+I.- Proponer con apego al Plan Estatal de Desarrollo, las políticas y programas relativos a la prestación del servicio público de transporte;
+
+II.- Estudiar y planear el servicio de transporte de pasajeros, carga y mixto, en caminos, carreteras, avenidas, calles, plazas y demás lugares de jurisdicción estatal;
+
+III.- Estudiar, planear y proponer las modalidades del transporte público y privado de pasajeros, de carga y mixto, establecidos en la Ley de Transportes del Estado de Tabasco, acorde con el desarrollo urbano y las vías de comunicaciones en el Estado; así como diseñar los sistemas de operación del servicio, de conformidad con la legislación vigente;
+
+IV.- Elaborar los estudios técnicos necesarios para el otorgamiento, modificación o terminación de concesiones, autorizaciones y permisos a los que hace referencia la Ley de Transportes del Estado de Tabasco;
+
+V.- Coadyuvar en la aplicación de las medidas que en materia de protección ambiental expidan las dependencias o autoridades competentes y que estén relacionadas con el servicio de transporte público;
+
+VI.- Proponer los planes para la conservación, sustitución y renovación de unidades destinadas a la prestación del servicio de transporte público, así como las normas técnicas que deben cumplir las mismas;
+
+VII.- Proponer las normas técnicas que debe cumplir la instalación de publicidad en los vehículos del servicio público de pasajeros;
+
+VIII.- Proponer con base a los estudios técnicos desarrollados, las tarifas aplicables al servicio de transporte de jurisdicción estatal;
+
+IX.- Proporcionar en el ámbito de su competencia, la información y asistencia técnica solicitadas por los ayuntamientos, dependencias y entidades del gobierno federal y estatal, de acuerdo a las normas y políticas establecidas por el Secretario;
+
+X.- Emitir las opiniones técnicas correspondientes sobre las denuncias o querellas, en las que se vean afectados los intereses de la Secretaría;
+
+XI.- Formular las políticas y normas para la modernización del transporte público, la vialidad y los procesos internos de la Secretaría;
+
+XII.- Formular los planes y programas relativos al transporte y vialidad de la Entidad, dentro del ámbito de competencia que le señalen a la Secretaría las leyes federales y estatales en estas materias, de acuerdo a los objetivos y políticas establecidos por los Planes Nacional y Estatal de Desarrollo, programas regionales, municipales y especiales, proponiendo los objetivos y metas a corto, mediano y largo plazo;
+
+XIII.- Formular y ejecutar conjuntamente con la Dirección General de Transportes y la Dirección Operativa, el Plan Contingente de Transporte Público Urbano, que permita organizar los servicios emergentes ante la suspensión del mismo;
+
+XIV.- Desarrollar estudios y proyectos directamente o a través de terceros, en materia de comunicaciones y transportes, así como para el fomento de la organización de sociedades, cuyo objeto sea la prestación del servicio en la misma;
+
+XV.- Promover la capacitación, investigación y desarrollo tecnológico en materia de comunicaciones y transportes, mediante convenio con instituciones y organizaciones públicas y privadas;
+
+XVI.- Establecer en el ámbito de su competencia, los lineamientos técnicos a que deberán ajustarse las autoridades municipales y grupos sociales organizados, en la elaboración de proyectos en los que intervenga la Secretaría;
+
+XVII.- Proponer al Subsecretario para su autorización los principios técnicos, operativos y administrativos, que regulen la prestación del servicio de transporte y sus servicios auxiliares en el Estado;
+
+XVIII.- Proponer las políticas y criterios para el establecimiento de horarios, itinerarios y rutas del servicio de transporte y sus servicios auxiliares;
+
+XIX.- Proponer las características que deban observarse en el Estado, en lo relativo al señalamiento vial requerido por el servicio de transporte público;
+
+XX.- Participar en el Consejo Consultivo de Transporte; y
+
+XXI.- Requerir mensualmente a los prestadores del servicio urbano y suburbano la lista de unidades para proporcionar el servicio nocturno, posterior a las veintidós horas o elaborar la misma en caso de que no la presenten los prestadores del servicio.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+Artículo 25 Bis B.- La Dirección de Estudios Técnicos y Desarrollo de Proyectos de Modernización, tendrá las siguientes atribuciones:
+
+I.- Elaborar estudios técnicos y de campo que permitan establecer las normas para la determinación de sitios de transporte público, de carga, taxis y autobuses para tramitar las concesiones correspondientes;
+
+II.- Analizar, integrar e informar al superior jerárquico sobre las demandas y necesidades de los municipios, poblaciones y comunidades rurales del Estado en lo referente a infraestructura de comunicaciones y transportes; así como de la prestación del servicio de transporte público de pasajeros, carga y especializado;
+
+III.- Elaborar estudios que permitan planear la prestación del servicio de transporte público de pasajeros o de carga, así como el servicio público especializado y las terminales de autobuses de jurisdicción estatal;
+
+IV.- Establecer y aplicar la metodología para la elaboración del estudio técnico que permita determinar la tarifa de cualquier modalidad de transporte público del Estado, así como de las vías de cuota a cargo del Gobierno del Estado;
+
+V.- Analizar y dictaminar sobre las solicitudes de cambios en la tipología del parque vehicular para el transporte de pasajeros y de carga, en apego a las disposiciones federales en la materia; sobre las frecuencias y horarios de las unidades de transporte del servicio público; sobre las rutas de penetración de vehículos de servicio público de transporte de pasajeros suburbano y foráneo, así como de carga;
+
+VI.- Elaborar los estudios y proyectos de ingeniería de transporte público, directamente o a través de terceros; así como para la señalización de obras viales del Estado;
+
+VII.- Desarrollar directamente o a través de terceros, la normatividad necesaria para la instrumentación de las políticas y acciones definidas por los estudios y proyectos realizados;
+
+VIII.- Elaborar en coordinación con las dependencias involucradas los términos de referencia y las bases de concurso para la contratación de servicios de estudios técnicos y proyectos especializados en la materia de su competencia;
+
+IX.- Proponer las normas y criterios técnicos para la elaboración y revisión de los proyectos para la construcción, conservación, reconstrucción y mejoramiento de Ia red de carreteras, caminos, puentes, estructuras especiales y demás obras en las que intervenga la Secretaría;
+
+X.- Someter a la autorización del superior jerárquico, estudios y proyectos en materia de comunicaciones y transportes que competan a la dependencia y coordinar su elaboración directamente o a través de terceros;
+
+XI.- Elaborar estrategias para optimizar el tránsito de los vehículos del servicio de transporte público; y
+
+XII.- Elaborar y proporcionar las estadísticas técnicas de los servicios de transporte en el Estado.
 
 ### CAPÍTULO III. DE LA UNIDAD DE ATENCIÓN Y PARTICIPACIÓN CIUDADANA
 
@@ -977,77 +1039,61 @@ XI. Hacer del conocimiento del Secretario, los hallazgos y observaciones de la r
 
 XII. Promover y difundir actividades de enseñanza y divulgación relacionadas con el Registro Estatal de Comunicaciones y Transportes, así como también adoptar mecanismos que coadyuven a la implementación de la tecnología de información del archivo documental.
 
-### CAPÍTULO V. DE LA DIRECCIÓN GENERAL TÉCNICA Y DE MODERNIZACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+### CAPÍTULO V. DE LA DIRECCIÓN OPERATIVA
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 28.
 
-La Dirección General Técnica y de Modernización tendrá las siguientes atribuciones:
+La Dirección Operativa tendrá las siguientes atribuciones:
 
-I. Proponer con apego al Plan Estatal de Desarrollo, las políticas y programas relativos a la prestación del servicio público de transporte;
+I.- Elaborar la programación de los operativos de supervisión relativos a la operación del servicio de transporte y sus servicios auxiliares;
 
-II. Estudiar y planear el servicio de transporte de pasajeros, carga y mixto, en caminos, carreteras, avenidas, calles, plazas y demás lugares de jurisdicción estatal;
+II.- Proponer al superior jerárquico, en el ámbito de su competencia, programas de apoyo para la prestación del servicio de transporte y sus servicios auxiliares en el Estado, en coordinación con las autoridades federales, estatales o municipales y otras entidades federativas;
 
-III. Estudiar, planear y proponer las modalidades del transporte público y privado de pasajeros, de carga y mixto, establecidos en la Ley de Transportes del Estado de Tabasco, acorde con el desarrollo urbano y las vías de comunicaciones en el Estado; así como diseñar los sistemas de operación del servicio, de conformidad con la legislación vigente;
+III.- Proponer al Secretario, la operación y modificación del servicio de transporte en sus diversas modalidades y sus servicios auxiliares;
 
-IV. Elaborar los estudios técnicos necesarios para el otorgamiento, modificación o terminación de concesiones, autorizaciones y permisos a los que hace referencia la Ley de Transportes del Estado de Tabasco;
+IV.- Elaborar las estadísticas resultantes de los operativos de supervisión a los servicios de transporte en el Estado;
 
-V. Coadyuvar en la aplicación de las medidas que en materia de protección ambiental expidan las dependencias o autoridades competentes y que estén relacionadas con el servicio de transporte público;
+V.- Ordenar las actividades de las áreas dependientes de la Dirección y articularlas para que operativamente sean eficaces;
 
-VI. Proponer los planes para la conservación, sustitución y renovación de unidades destinadas a la prestación del servicio de transporte público, así como las normas técnicas que deben cumplir las mismas;
+VI.- Implantar el método para supervisar la prestación del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal;
 
-VII. Proponer las normas técnicas que debe cumplir la instalación de publicidad en los vehículos del servicio público de pasajeros;
+VII.- Vigilar que los prestadores del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal, cumplan con las leyes aplicables y con los requisitos establecidos en la concesión correspondiente, especialmente en lo relativo a los horarios, itinerarios, tarifas y condiciones de las unidades y de los operadores de las mismas;
 
-VIII. Proponer con base a los estudios técnicos desarrollados, las tarifas aplicables al servicio de transporte de jurisdicción estatal;
+VIII.- Supervisar la ejecución de los programas de transportes en la entidad, mismos que deberán realizarse en forma directa o concertada con la federación y los municipios;
 
-IX. Proporcionar en el ámbito de su competencia la información y asistencia técnica, solicitadas por los ayuntamientos, dependencias y entidades del gobierno federal y estatal, de acuerdo a las normas y políticas establecidas por el Secretario;
+IX.- Vigilar la ejecución de las acciones emergentes de transporte público urbano, en caso que así se requiera, para garantizar la prestación del servicio;
 
-X. Emitir las opiniones técnicas correspondientes sobre las denuncias o querellas, en las que se vean afectados los intereses de la Secretaría;
+X.- Vigilar la aplicación de las medidas en materia de protección ambiental relacionadas con el transporte;
 
-XI. Formular las políticas y normas para la modernización del transporte público, la vialidad y los procesos internos de la Secretaría;
+XI.- Vigilar que los prestadores del servicio urbano y suburbano proporcionen el servicio nocturno posterior a las veintidós horas;
 
-XII. Formular los planes y programas relativos al transporte y vialidad de la entidad, dentro del ámbito de competencia que le señalen a la Secretaría las leyes federales y estatales en estas materias, de acuerdo a los objetivos y políticas establecidos por los Planes Nacional y Estatal de Desarrollo, programas regionales, municipales y especiales, proponiendo los objetivos y metas a corto, mediano y largo plazo;
+XII.- Documentar las omisiones y acciones ilícitas que detecten a los vehículos y operadores que prestan el servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros y de las terminales de autobuses de jurisdicción estatal;
 
-XIII. Formular conjuntamente con la Subsecretaría de Transportes y la Dirección General de Transportes, el Plan Contingente de Transporte Público Urbano, que permita organizar los servicios emergentes ante la suspensión del mismo;
+XIII.- Detener, retirar y depositar las unidades por violación de las disposiciones de la Ley de Transportes del Estado de Tabasco y su Reglamento, en que incurran los concesionarlos, permisionarios y operadores del servicio público de transporte;
 
-XIV. Desarrollar estudios y proyectos, directamente o a través de terceros, en materia de comunicaciones y transportes, así como para el fomento de la organización de sociedades, cuyo objeto sea la prestación del servicio en la misma;
+XIV.- Formular y ejecutar conjuntamente con la Dirección General de Transporte y la Dirección General Técnica y de Modernización, el Plan Contingente de Transporte Público Urbano que permita organizar los servicios emergentes ante la suspensión del mismo;
 
-XV. Promover la capacitación, investigación y desarrollo tecnológico en materia de comunicaciones y transportes, mediante convenio con instituciones y organizaciones públicas y privadas;
+XV.- Elaborar la programación de los operativos de detención de las unidades por quejas ciudadanas en lo relativo a la operación del servicio de transporte y sus servicios auxiliares;
 
-XVI. Establecer en el ámbito de su competencia, los lineamientos técnicos a que deberán ajustarse las autoridades municipales y grupos social (sic) organizados, en la elaboración de proyectos en los que intervenga Secretaría (sic);
+XVI.- Documentar las anomalías detectadas en las revisiones documentales y físicas de las unidades del servicio de transporte, de los depósitos de vehículos, de los sitios de carga, ascenso y descenso de pasajeros, y de las terminales de autobuses de jurisdicción estatal, realizadas durante los operativos de supervisión;
 
-XVII. Proponer al Secretario para su autorización, los principios técnico operativos y administrativos, que regulen la prestación del servicio transporte (sic) y sus servicios auxiliares en el Estado;
+XVII.- Verificar por lo menos cada doce meses que las unidades destinadas para el servicio público de transporte cumplan con las disposiciones aplicables y particularmente con las especificaciones establecidas en la concesión otorgada;
 
-XVIII. Proponer las políticas y criterios para el establecimiento de horario itinerarios y rutas del servicio de transporte y sus servicios auxiliares;
+XVIII.- Verificar durante las inspecciones a los vehículos destinados al servicio público, que los concesionarios o permisionarios cuenten con las pólizas vigentes de seguro de viajero y de responsabilidad civil por daños a terceros;
 
-XIX. Proponer las características que deban observarse en el Estado, en relativo (sic) al señalamiento vial requerido por el servicio de transporte público; y
+XIX.- Vigilar durante las inspecciones, el cumplimiento de las políticas referentes a la seguridad e higiene a la que deberán sujetarse los vehículos para la prestación del servicio público, inscritos en el padrón vehicular del Estado, así como de los servicios auxiliares del mismo, de conformidad a la legislación aplicable en la materia; y
 
-XX. Participar en el Consejo Consultivo de Transporte como Secretario Técnico.
+XX.- Verificar durante las inspecciones la aplicación de las medidas en materia de protección ambiental relacionadas con el transporte.
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE ESTUDIOS TÉCNICOS Y DESARROLLO DE PROYECTOS DE MODERNIZACIÓN
 
 ###### Artículo 29.
 
-La Dirección de Estudios Técnicos y Desarrollo de Proyectos de Modernización, tendrá las siguientes atribuciones:
-
-I. Elaborar estudios técnicos y de campo que permitan establecer las normas para la determinación de sitios de transporte público, de carga, taxis y autobuses, para tramitar las concesiones correspondientes;
-
-II. Analizar, integrar e informar al superior Jerárquico sobre las demandas y necesidades de los municipios, poblaciones y comunidades rurales del Estado, en lo referente a infraestructura de comunicaciones y transportes; así como de la prestación del servicio de transporte público de pasajeros, carga y especializado;
-
-III. Elaborar estudios que permitan planear la prestación del servicio de transporte público de pasajeros o de carga, así como el servicio público especializado y las terminales de autobuses de jurisdicción estatal;
-
-IV. Establecer y aplicar la metodología para la elaboración del estudio técnico que permita determinar la tarifa de cualquier modalidad de transporte público del Estado, así como de las vías de cuota a cargo del Gobierno del Estado;
-
-V. Analizar y dictaminar sobre las solicitudes de cambios en la tipología del parque vehicular para el transporte de pasajeros y de carga, en apego a las disposiciones federales en la materia; sobre las frecuencias y horarios de las unidades de transporte del servicio público; sobre las rutas de penetración de vehículos de servicio público de transporte de pasajeros suburbano y foráneo, así como de carga;
-
-VI. Elaborar los estudios y proyectos de ingeniería de transporte público, directamente o a través de terceros; así como para la señalización de obras viales del Estado;
-
-VII. Desarrollar directamente o a través de terceros, la normatividad necesaria para la instrumentación de las políticas y acciones definidas por los estudios y proyectos realizados;
-
-VIII. Elaborar en coordinación con las dependencias involucradas, los términos de referencia y las bases de concurso para la contratación de servicios de estudios técnicos y proyectos especializados en la materia de su competencia;
-
-IX. Proponer las normas y criterios técnicos para la elaboración y revisión de los proyectos para la construcción, conservación, reconstrucción y mejoramiento de la red de carreteras, caminos, puentes, estructuras especiales y demás obras en las que intervenga la Secretaría;
-
-X. Someter a la autorización del superior jerárquico, estudios y proyectos en materia de comunicaciones y transportes que competan a la dependencia y coordinar su elaboración directamente o a través de terceros; y
-
-XI. Elaborar estrategias para optimizar el tránsito de los vehículos del servicio de transporte público.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2009)
 
 ## TÍTULO QUINTO. DE LOS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS SECTORIZADOS
 
@@ -1116,3 +1162,15 @@ LIC. ADRIÁN HERNÁNDEZ BALBOA
 SECRETARIO DE COMUNICACIONES
 
 Y TRANSPORTES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+11 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Acuerdo.
