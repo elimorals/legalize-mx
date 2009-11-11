@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-general-4109
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-08"
-last_updated: "2004-09-08"
+last_updated: "2009-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de septiembre de 2004.
 
@@ -2129,6 +2129,52 @@ Si la Autoridad Municipal observare la comisión de un ilícito penal, turnará 
 
 Las multas impuestas de conformidad con el presente Reglamento, serán consideradas crédito fiscal, y por consiguiente podrán ser exigidas mediante el procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 145 Bis.
+
+La Dirección de Tránsito contará con un órgano interno para la calificación de las infracciones al presente ordenamiento mismo que se conformara de 3 miembros que tenga a bien designar el Secretario del Consejo Ciudadano de Vigilancia.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 145 Bis 1.
+
+Para la elección de los miembros de dicho órgano el Secretario del Consejo Ciudadano de Vigilancia elegirá al azar dentro de los miembros que integran los Consejos de Vigilancia de las Colonias del Municipio de General Escobedo. Para tal efecto, solicitara a estos la participación debiendo turnar a los que quisieran intervenir en un Rol que para tal efecto tendrá bajo su responsabilidad el Secretario del Consejo Ciudadano de Vigilancia.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 145 Bis 2.
+
+Dicho órgano evaluara las infracciones cometidas al presente ordenamiento y tendrá la facultad de condonar hasta el 100% del total del valor de la infracción en los casos siguientes:
+
+A) Cuando sea la primera vez que el conductor infringe el presente reglamento, se descontara el 100% del valor de la infracción siempre que el conductor se presente ante dicho órgano, en los primeros 10 días siguientes a la comisión de la infracción.
+
+B) Cuando sea la segunda vez que el conductor infrinja el presente reglamento, se descontara el 50% del valor de la infracción siempre que el conductor se presente ante dicho órgano, en los primeros 10 días siguientes a la comisión de la infracción)
+
+La tercera vez y subsecuentes que el conductor infrinja el presente reglamento pagara el 100% del valor de la infracción.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 145 Bis 3.
+
+Quedando exceptuadas de estos beneficios las siguientes violaciones al presente reglamento:
+
+1. Manejar en estado de ebriedad o de ineptitud para a conducir, bajo el influjo de drogas o estupefacientes;
+
+2. Huir en caso de accidente;
+
+3. Estacionarse en lugares exclusivos de personas con capacidad diferenciada;
+
+4. Exceder el límite de velocidad en zona escolar; y,
+
+5. Circular con placas sobrepuestas.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 145 Bis 4.
+
+Para cumplir cabalmente con su encomienda dicho órgano interno recibirá del oficial de tránsito las copias de la boletas de infracción levantadas al finalizar su turno o antes si las circunstancias lo ameritan y mantendrá un registro permanente de las infracciones de tránsito que se hayan cometido en el municipio.
+
 ###### ARTÍCULO 146.
 
 Las personas que tengan alguna queja o inconformidad por actos cometidos por personal de tránsito, de hechos derivados del mismo, podrán acudir ante el Titular de la Dependencia encargada de la vigilancia del Tránsito y Vialidad en el Municipio o persona que éste designe antes de diez días naturales contadas (sic) a partir del hecho cometido o del conocimiento del mismo. Cuando el quejoso haga verbalmente su reclamación, y presentare pruebas de la misma, se levantará un acta para que sea firmada por éste. Si transcurrido el término antes señalado no se presentare inconformidad, se tendrá como aceptada la determinación de la Autoridad, o en su caso se tendrá por aceptada la responsabilidad en la infracción que se halle (sic) señalado.
@@ -2170,3 +2216,15 @@ ARQ. FERNANDO RAFAEL MARGÁIN SANTOS.
 LA C. SECRETARIO DEL R. AYUNTAMIENTO.
 
 LIC. CLARA LUZ FLORES CARRALES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas por adición al Reglamento de Tránsito y Vialidad del Municipio de General Escobedo, Nuevo León, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la gaceta municipal.
