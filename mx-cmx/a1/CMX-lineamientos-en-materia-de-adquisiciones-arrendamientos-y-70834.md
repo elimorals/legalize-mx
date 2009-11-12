@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-en-materia-de-adquisiciones-arrendamientos-y-70834
 country: "mx"
 rank: "lineamientos"
 publication_date: "2008-04-15"
-last_updated: "2008-07-22"
+last_updated: "2009-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70834&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2009-11-12"
 
 LINEAMIENTOS EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE NOVIEMBRE DE 2009.
 
 Lineamientos publicados en la Gaceta Oficial del Distrito Federal, el martes 15 de abril de 2008.
 
@@ -175,9 +175,11 @@ XXII. Servicio: Actividad organizada que se presta y realiza con el fin de satis
 
 XXIII. Direcciones y Unidades Administrativas: Dirección de Administración y Finanzas, Dirección Jurídica y Desarrollo Normativo, Dirección de Capacitación y Cultura de la Transparencia, Dirección de Evaluación y Estudios, Dirección de Vinculación con la Sociedad, Dirección de Comunicación Social y Dirección de Tecnologías de Información.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 3.
 
-En lo no previsto por estos Lineamientos, el Instituto aplicará supletoriamente los criterios y procedimientos contenidos en la Ley de Adquisiciones para el Distrito Federal y su Reglamento, siempre que no se contrapongan a los presentes Lineamientos.
+En lo no previsto por estos lineamientos aplicarán supletoriamente los criterios y procedimientos contenidos en la Ley de Adquisiciones para el Distrito Federal y su reglamento; el Código Civil del Distrito Federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, siempre que no se contrapongan con los presentes Lineamientos.
 
 En los casos procedentes, serán aplicables de forma supletoria el Código Civil y el Código de Procedimientos Civiles, ambos para el Distrito Federal.
 
@@ -322,6 +324,14 @@ Asimismo, su actuación deberá orientarse por los principios de transparencia, 
 El Instituto podrá convocar, adjudicar o contratar adquisiciones, arrendamientos y prestación de servicios, cuando cuente con suficiencia presupuestal en las partidas de gasto correspondientes.
 
 En casos excepcionales y previa aprobación del Pleno, el Instituto podrá convocar, adjudicar y formalizar contratos cuya vigencia inicie en el ejercicio fiscal siguiente de aquél en el que se formalizan. Los referidos contratos estarán sujetos siempre a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestales, sin que el incumplimiento de la condición suspensiva origine responsabilidad alguna para las partes. Cualquier pacto en contrario a lo dispuesto en este párrafo se considerará nulo.
+
+> <small>(ADICIONADO, G.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+En casos excepcionales y debidamente justificados, incluyendo el análisis previo al gasto de inversión que se consigne en los anteproyectos de presupuesto, el Pleno del Instituto podrá autorizar la celebración de contratos de obras públicas, adquisiciones, servicios, arrendamiento o de otra índole, cuya ejecución comprenda más de un ejercicio. En estos casos, el cumplimiento de los compromisos quedará sujeto a la disponibilidad presupuestal de los años en que se continúe su ejecución.
+
+> <small>(ADICIONADO, G.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Para los años presupuestales subsecuentes, los compromisos de pago adquiridos en ejercicios anteriores, conforme a lo previsto en este artículo, gozarán de preferencia respecto de nuevos compromisos que se pretendan adquirir.
 
 ###### Artículo 16.
 
@@ -757,7 +767,17 @@ III. En la solicitud y entrega de los bienes o servicios se hará referencia al 
 
 IV. Los plazos para el pago de los bienes o servicios no podrán exceder de treinta días hábiles.
 
-Su vigencia no excederá del ejercicio fiscal correspondiente a aquel en que se suscriban, salvo que se obtenga previamente autorización de la Secretaría de Finanzas del Distrito Federal para afectar recursos presupuestales de ejercicios posteriores, en términos del Código.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+> <small>(ADICIONADO, G.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+###### Artículo 37 Bis.
+
+El Instituto podrá realizar adquisiciones, arrendamientos y prestación de servicios sin que sea necesaria la suscripción de contratos hasta por un monto máximo que no excederá 46 veces el Salario Mínimo Mensual Vigente en el Distrito Federal por cada operación, cuando por sus características, naturaleza propia y/o el monto de las operaciones no requieran su formalización. Este tipo de adquisiciones serán acreditadas además de la justificación del gasto, con factura, recibo o comprobante de pago.
+
+Los comprobantes a los que se refiere el párrafo anterior deberán contar con los requisitos fiscales previstos en el Código Fiscal de la Federación.
+
+Se aclara que las garantías que deban otorgarse, relativas a las adquisiciones, arrendamientos y prestación de servicios previstos en este artículo se sujetaran a lo dispuesto por la Ley Federal de Protección al Consumidor.
 
 ###### Artículo 38.
 
@@ -1136,3 +1156,7 @@ SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESEN
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Se instruye al Secretario Técnico para que comunique el presente Acuerdo a los Integrantes del Comité de Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto, así como para que realice las acciones necesarias para que también sea publicado en la Gaceta Oficial del Distrito Federal y en el portal de Internet de este Instituto.
+
+G.O. 12 DE NOVIEMBRE DE 2009.
+
+LAS MODIFICACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
