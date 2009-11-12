@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-da-a-conocer-el-cupo-para-importar-64684"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-11"
-last_updated: "2008-12-11"
+last_updated: "2009-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64684&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-08"
 
 ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR JUGUETES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE NOVIEMBRE DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 11 de diciembre de 2008.
 
@@ -251,9 +251,7 @@ III. Empresa productora: aquella persona moral:
 
 a) Que de manera directa o mediante un productor indirecto manufacture juguetes en territorio nacional;
 
-b) Que en sus procesos productivos utilicen materias primas, partes, piezas sueltas, accesorios y componentes nacionales o importados que se clasifiquen en las fracciones arancelarias:
-
-i. 9503.00.27, 9503.00.28, 9503.00.29, 9503.00.30, 9503.00.32, 9503.00.33, 9503.00.34, 9503.00.35, 9504.10.03, 9504.30.01, 9504.90.05, 9504.90.04, 9506.91.02 y
+b) (DEROGADO, D.O.F. 12 DE NOVIEMBRE DE 2009)
 
 c) Que cuente con registro de marca, derecho de autor o patente ante el Instituto Mexicano de la Propiedad Industrial o el Instituto Nacional de Derechos de Autor, o con licencia, permiso o autorización para utilizar la marca, derecho de autor o patente por parte del propietario a nivel nacional o internacional para los juguetes que se manufacturen o importen al país;
 
@@ -291,9 +289,11 @@ Se considerará que existe control, si una persona moral tiene directa o indirec
 
 III. Las empresas productoras o personas morales, incluso las pertenecientes a un mismo grupo de interés económico, que presenten una carta compromiso de inversión para manufacturar juguetes en territorio nacional en los términos establecidos en los requisitos adjuntos del presente Acuerdo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO CUARTO.
 
-La asignación de cupo para la importación de las mercancías especificadas en la tabla del artículo primero del presente Acuerdo, se realizará de conformidad con lo siguiente:
+La Secretaría asignará mediante el mecanismo de asignación directa un cupo para la importación de las mercancías especificadas en la tabla del artículo primero del presente Acuerdo, de conformidad con lo siguiente:
 
 I. A las empresas productoras, se les asignará un monto anual en dólares, equivalente al promedio de sus ingresos por producción nacional de juguetes, de los dos años anteriores. El monto máximo a asignar por empresa será de 50 millones de dólares.
 
@@ -301,33 +301,75 @@ II. A las personas morales que se ostenten como empresas de un mismo grupo de in
 
 III. A las empresas productoras o personas morales señaladas en la fracción III del artículo tercero del presente Acuerdo, se les asignará un monto anual en dólares equivalente al 100% del promedio anual de los ingresos estimados por producción de juguete en los tres primeros años de operación de su proyecto de inversión, hasta por un máximo de 50 millones de dólares, sujeto a las siguientes condiciones:
 
-a) Al presentar la solicitud de asignación de cupo se asignará el 50% de la cantidad anual que corresponda de conformidad con el proyecto de inversión presentado y el restante 50% será asignado conforme al cumplimiento de los avances, que mediante reporte semestral auditado presente la empresa de conformidad con el cronograma de su proyecto de inversión.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2009)</small>
 
-b) La Secretaría modificará el monto del cupo a asignar, correspondiente al siguiente periodo de que se trate, de la siguiente manera:
+a) Al presentar la solicitud de asignación de cupo se asignará el 50% de la cantidad anual que corresponda de conformidad con el promedio anual de los ingresos estimados por producción de juguete programado en el proyecto de inversión presentado; el 50% restante y las subsecuentes asignaciones estarán sujetas al cumplimiento de los avances semestrales que mediante reporte semestral auditado demuestre la empresa.
 
-i. Lo reducirá en proporción al porcentaje de incumplimiento de los compromisos adquiridos por la empresa en su proyecto de inversión.
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2009)</small>
 
-ii. Lo aumentará en proporción al excedente de producción inicialmente programada, siempre que haya cumplido los compromisos del proyecto de inversión y no exceda el límite establecido en el primer párrafo de esta fracción.
+b) La Secretaría podrá modificar el monto correspondiente de la siguiente manera:
+
+i. Lo reducirá en la proporción del déficit de producción demostrado respecto del programado en el proyecto de inversión suscrito por la empresa.
+
+ii. Lo aumentará en la proporción del excedente de producción demostrado respecto al programado, siempre que haya cumplido los compromisos del proyecto de inversión y no exceda el límite establecido en el primer párrafo de esta fracción.
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO CUARTO BIS.- La Secretaría asignará mediante licitación pública, un cupo anual de hasta 20 millones de dólares para la importación de las mercancías especificadas en la tabla del artículo primero del presente ordenamiento, entre las empresas que cuenten con un cupo autorizado en términos de las fracciones I, II y III del Artículo Cuarto.
+
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO QUINTO.
 
-Los interesados podrán presentar las solicitudes de asignación y expedición de manera simultánea en la ventanilla de atención al público de la representación federal de la Secretaría que les corresponda y deberán utilizar los formatos SE-03-011-1 “Solicitud de asignación de cupo” y SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”, sin requisitar en este último el inciso 11 “Número de oficio de asignación de cupo”.
+Los interesados en obtener cupo por asignación directa conforme al Artículo Cuarto de este ordenamiento, podrán presentar simultáneamente las solicitudes de asignación de cupo y de expedición de certificado de cupo en la ventanilla de atención al público de la representación federal de la Secretaría que les corresponda y deberán utilizar los formatos SE-03-011-1 “Solicitud de asignación de cupo” y SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”, sin requisitar en este último el inciso 11 “Número de oficio de asignación de cupo”.
 
 Dichos formatos estarán a disposición de los interesados en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
 
-a) Formato SE-03-011-1 “Solicitud de asignación de cupo”. http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-B
+a) Formato SE-03-011-1 “Solicitud de asignación de cupo”.
+
+http://www.cofemer.gob.mx/BuscadorTramites/DatosGenerales.asp?homoclave=SE-03-033& modalidad =2&identificador=617470&SIGLAS=SE
 
 b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”.
 
-http://www.cofemer.gob.mx/BuscadorTramites/DatosGenerales.asp?homoclave=SE-03-042&modalidad=1&identificador=649600&SIGLAS=SE
+http://www.cofemer.gob.mx/BuscadorTramites/DatosGenerales.asp?homoclave=SE-03-42& modalidad=1&identificador=649600&SIGLAS=SE
 
-La Dirección General de Comercio Exterior de la Secretaría emitirá, en su caso, el oficio de asignación, quien determinará el monto a asignar conforme a lo establecido en el artículo cuarto del presente Acuerdo, y la representación federal de la Secretaría que corresponda expedirá el certificado de cupo, ambos dentro de los diez días hábiles siguientes a la fecha de presentación de dichas solicitudes debidamente requisitadas.
+La Dirección General de Comercio Exterior de la Secretaría determinará el monto a asignar conforme a lo establecido en el Artículo Cuarto del presente Acuerdo y emitirá, en su caso, el oficio de asignación correspondiente, y la representación federal de la Secretaría que corresponda expedirá el certificado de cupo, ambos dentro de los diez días hábiles siguientes a la fecha de presentación de dichas solicitudes debidamente requisitadas.
 
 En caso de que la resolución de la solicitud de asignación del cupo sea negativa, se entenderá que la solicitud de expedición de certificado de cupo también lo es.
 
+Los certificados de cupo expedidos conforme a este artículo serán nominativos e intransferibles. Su vigencia será por doce meses a partir de la fecha de su expedición, excepto para los que se expidan en 2014, cuya vigencia será al 31 de diciembre de ese año.
+
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO SEXTO.
 
-El certificado de cupo es nominativo e improrrogable. Su vigencia será por doce meses a partir de la fecha de su expedición, excepto para los expedidos en 2014, cuya vigencia será el 31 de diciembre de ese año.
+La licitación pública a que se refiere el Artículo Cuarto BIS podrá ser documental o electrónica y se sujetará a lo siguiente:
+
+I. La Secretaría publicará la convocatoria correspondiente en el Diario Oficial de la Federación, por lo menos 20 días hábiles antes de que inicie el periodo de registro, y establecerá la fecha en que se pondrán a disposición de los interesados las bases conforme a las que se regirá la licitación pública.
+
+II. Podrán participar en la licitación pública las empresas que acrediten haber obtenido cupo conforme al artículo cuarto del presente ordenamiento y cumplan los requisitos establecidos en las bases de la licitación pública.
+
+III. El monto de cupo que se asigne en términos de este artículo no podrá exceder la cantidad de 10 millones de dólares por empresa productora y las empresas que cuenten con un cupo en los términos de la fracción III del Artículo Cuarto deberán estar al corriente en sus compromisos de avance de su proyecto de inversión.
+
+IV. Tratándose de licitación documental, los interesados deberán presentar su oferta en el formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar”, adjuntando la documentación que corresponda conforme a las bases de la licitación.
+
+V. Para el caso de licitación electrónica, para poder participar, los interesados deberán registrarse previamente en el sistema electrónico establecido para la ejecución de la misma, conforme a la forma y plazos que establezcan las bases de la licitación.
+
+VI. Los resultados de la adjudicación de la licitación pública se darán a conocer al término del evento y podrán ser consultados en las páginas de Internet de la Secretaría de Economía: www.economia.gob.mx y del Sistema Integral de Información de Comercio Exterior www.siicex.gob.mx.
+
+VII. Una vez obtenida la constancia de adjudicación, el beneficiario deberá solicitar la expedición del certificado de cupo en el formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”, adjuntando el comprobante del pago correspondiente a la adjudicación, en la ventanilla de atención al público de la Representación Federal que corresponda. La Secretaría emitirá el certificado de cupo dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
+
+Los formatos a que se refieren las fracciones IV y VII estarán a disposición de los interesados en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
+
+- SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar”:
+
+http://www.cofemer.gob.mx/BuscadorTramites/DatosGenerales.asp?homoclave=SE-03-034& modalidad= 0&identificador=628210&SIGLAS=SE
+
+- SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”:
+
+http://www.cofemer.gob.mx/BuscadorTramites/DatosGenerales.asp?homoclave=SE-03-043& modalidad= 0&identificador=791560&SIGLAS=SE
+
+Los certificados de cupo que se expidan conforme a este Artículo serán nominativos, su vigencia será de doce meses a partir de la fecha de su expedición y podrán ser transferibles.
 
 ###### ARTICULO SEPTIMO.
 
@@ -366,3 +408,9 @@ ASIGNACION DIRECTA
 1/1
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE NOVIEMBRE DE 2009.
+
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y su vigencia será al 31 de diciembre de 2014.
