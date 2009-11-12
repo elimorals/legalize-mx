@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2009-09-03"
+last_updated: "2009-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2009.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -749,7 +749,9 @@ Los demás entes auditables deberán entregar al Congreso sus respectivas cuenta
 
 Corresponde al Congreso del Estado, a través de la Auditoría Superior del Estado, el examen y la revisión de las cuentas públicas de los poderes del Estado, los municipios y sus entidades, así como de los organismos constitucionales autónomos y demás entes auditables; que tendrá por objeto conocer los resultados de la gestión financiera, y comprobar si están ajustadas a las normas y criterios señalados por las leyes y los presupuestos respectivos, así como el cumplimiento de los objetivos contenidos en los programas de gobierno, estatales y municipales.
 
-La Auditoría Superior del Estado contará con autonomía administrativa, técnica y de gestión, para llevar a cabo la función de fiscalización superior, para lo cual contará con las atribuciones que la ley señale.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+La Auditoría Superior del Estado contará con autonomía administrativa, técnica y de gestión, para llevar a cabo la función de fiscalización superior, así como para decidir sobre su organización interna, para lo cual contará con las atribuciones que la ley señale. La Auditoría Superior del Estado desarrollará sus funciones de fiscalización conforme a los principios de posterioridad, anualidad, legalidad, prosecución del interés público, imparcialidad, confiabilidad y eficacia.
 
 La Auditoría Superior del Estado deberá entregar al Congreso del Estado, el informe final de auditoría correspondiente a las cuentas públicas de los poderes del Estado, a más tardar el quince de junio del año en que éstas hayan sido presentadas; y los informes relativos a las cuentas públicas de los demás entes auditables, a más tardar el último día de mayo del año de su presentación, a efecto de que éste revise que los informes se realizaron apegados a las disposiciones legales aplicables y emita, en su caso, las observaciones correspondientes. Dentro de dichos informes se incluirán los resultados de la revisión de las cuentas públicas, y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales, que comprenderá los comentarios y observaciones de los auditados.
 
@@ -761,7 +763,9 @@ La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y o
 
 Al frente de la Auditoría Superior del Estado estará el Auditor Superior del Estado, quien será nombrado por el Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes.
 
-El Auditor Superior del Estado durará en su cargo cuatro años y podrá ser ratificado por una sola vez. No será removido sino exclusivamente por las causas graves a que se refiere la ley y con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo Segundo de la presente Constitución.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+El Auditor Superior del Estado durará en su cargo siete años y podrá ser nombrado nuevamente por el Congreso para un periodo inmediato por igual término; y no será removido sino exclusivamente por las causas graves a que se refiere la ley y con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo Segundo de la presente Constitución.
 
 Para ser titular de la Auditoría Superior del Estado, se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV, V y VI del artículo 99 de esta Constitución, los que señale la ley. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
@@ -2560,3 +2564,15 @@ P.O. 3 DE SEPTIEMBRE DE 2009.
 PRIMERO. Previa su aprobación por cuando menos tres cuartas partes de los ayuntamientos de la Entidad, el presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2009.
+
+PRIMERO. Previa la aprobación de la reforma a la Constitución Política del Estado que se contiene en el artículo Primero del presente Decreto, por cuando menos las tres cuartas partes de los ayuntamientos de la Entidad, de conformidad con lo dispuesto por el artículo 138 de la propia Constitución, dicho Decreto entrará en vigor en su integridad, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los asuntos que se encuentren tramitándose por la Auditoría Superior del Estado de San Luis Potosí, continuarán su cauce en los términos de las disposiciones legales aplicables, bajo cuya vigencia se iniciaron.
+
+TERCERO. La revisión de las cuentas públicas conforme a las disposiciones de este Decreto, se efectuará a partir de las correspondientes al año 2009.
+
+CUARTO. El actual Auditor Superior del Estado desempeñará su encargo por un periodo de siete años, contados a partir de la entrada en vigor de su designación contenida en el Decreto Legislativo número 98, publicado en el Periódico Oficial del Estado el 20 de febrero de 2007.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
