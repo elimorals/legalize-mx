@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2008-02-01"
+last_updated: "2009-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2009.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -462,6 +462,10 @@ XLI. Coordinar, dirigir y vigilar la política estatal en materia de prevención
 > <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
 
 XLII. Custodiar, en coordinación con la Secretaría de Seguridad Pública, a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
+
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XLIII. Coordinar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial la población indígena, los menores, las personas con discapacidades, adultos mayores y la población marginada de las áreas rurales y urbanas, con la finalidad de contribuir a elevar su nivel de vida, asimismo, dirigir y coordinar los programas y acciones de protección a los migrantes veracruzanos y sus familias.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -1097,9 +1101,7 @@ Son atribuciones del Secretario de Desarrollo Social y Medio Ambiente, conforme 
 
 I. Coordinar con la Federación y los municipios, las acciones que incidan en el combate a la pobreza, propiciando la simplificación de los procedimientos y el establecimiento de medidas de seguimiento y control;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
-
-II. Coordinar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial la población indígena, los menores, las personas con capacidades diferentes, adultos mayores y la población marginada de las áreas rurales y urbanas, con la finalidad de contribuir a elevar su nivel de vida; asimismo, dirigir y coordinar los programas y acciones de protección a los emigrantes veracruzanos y sus familias;
+II. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2009)
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -2166,3 +2168,9 @@ Tercero. La Secretaría de Finanzas y Planeación realizará las adecuaciones pr
 Cuarto. Los recursos humanos y materiales asignados a la Subsecretaría de Protección Civil, se transferirán a la Secretaría de Protección Civil. La Contraloría General vigilará esa transferencia.
 
 Quinto. El personal que cambia de adscripción por lo dispuesto en el presente decreto, conservará sus derechos laborales conforme a la ley.
+
+G.O. 12 DE NOVIEMBRE DE 2009.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 578 QUE ADICIONA LA FRACCIÓN XLIII AL ARTÍCULO 18, Y DEROGA LA FRACCIÓN SEGUNDA DEL ARTÍCULO 28, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
