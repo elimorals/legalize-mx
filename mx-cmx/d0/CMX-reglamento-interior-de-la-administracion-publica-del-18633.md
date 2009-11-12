@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2009-10-30"
+last_updated: "2009-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -164,13 +164,19 @@ II. A la Secretaría de Desarrollo Urbano y Vivienda:
 
 4. Dirección General de Proyectos Estratégicos;
 
-III. A la Secretaría de Desarrollo Económico:
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-1. Dirección General de Regulación y Fomento Económico;
+III. A la Secretaria de Desarrollo Económico:
 
-2. Dirección General de Abasto, Comercio y Distribución; y
+A. Subsecretaria de Fomento de Empresas Ecológicas;
 
-3. Dirección General de la Central de Abasto;
+1. Dirección General de Incubadoras de Empresas Ecológicas;
+
+B. Dirección General de Regulación y Fomento Económico;
+
+C. Dirección General de Abasto, Comercio y Distribución; y
+
+D. Dirección General de la Central de Abasto.
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -1353,6 +1359,28 @@ XVII. Proporcionar asesoría técnica, jurídica y administrativa a las personas
 XVIII. Impulsar mecanismos de coordinación entre los Órganos Político-Administrativos y las Unidades Administrativas de la Administración Pública del Distrito Federal, para mejorar el desempeño de los programas delegacionales y de las funciones desconcentradas; y
 
 XIX. Establecer un sistema permanente de información, coordinación y apoyo para el cumplimiento de las funciones desconcentradas y los programas delegacionales en los Órganos Político-Administrativos.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+###### Artículo 32 Quater.
+
+A la Subsecretaria de Fomento de Empresas Ecológicas, le corresponden las siguientes atribuciones:
+
+l. Establecer los lineamientos generales que contengan los requisitos que se deberán cumplir para presentar el proyecto de una empresa cuyas actividades tengan como uno de sus objetivos principales, la restauración, protección, preservación y mejoramiento del medio ambiente;
+
+II. Crear programas de capacitación a los funcionarios públicos involucrados, en materia de normatividad ambiental, no sólo en materia local, sino tomando en cuenta los preceptos constitucionales, la legislación federal y las normas oficiales mexicanas que en materia de medio ambiente y por su aspecto técnico sean de suma importancia;
+
+III. Diseñar instrumentos económicos en coordinación con las autoridades ambientales del Distrito Federal, con el fin de lograr que las actividades de dichas empresas cumplan con la legislación ambiental vigente;
+
+IV. Establecer un sistema por medio del cual se verifique el desarrollo de las actividades de las empresas ecológicas, para que el objetivo de restauración, protección y mejoramiento del medio ambiente, no se vea afectado por el fin del lucro;
+
+V. Vigilar que las actividades desarrolladas por las empresas ecológicas tengan una visión encaminada al desarrollo sustentable;
+
+VI. Realizar convenios de coordinación con el gobierno federal y los gobiernos locales, para promover la transmisión de nuevas tecnologías 'que puedan ser empleadas para el desarrollo de las actividades de las empresas, en función de lograr una visión de mejora ambiental, promoviendo el aprovechamiento sustentable;
+
+VII. Designar un sistema de inspección, el cual tendrá por objeto procurar, que quienes dañen el ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, con motivo de las actividades de sus empresas, asuman los costos respectivos; independientemente de la responsabilidad penal que ello implique; y
+
+VIII. Las demás que le atribuyan expresamente los demás ordenamientos jurídicos y administrativos correspondientes, cumpliendo en todo momento la demás normativa vigente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -2830,37 +2858,73 @@ VIII. Las demás que le señalen de manera expresa las disposiciones jurídicas 
 
 DE LA SECRETARIA DE DESARROLLO ECONOMICO.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 51.
 
-Corresponde a la Dirección General de Regulación y Fomento Económico:
+A la Dirección General de Incubadoras de Empresas Ecológicas, le corresponde:
 
-I. Reimpulsar la economía del Distrito Federal, mediante su especialización productiva y su inserción dinámica en los mercados regional y global, a partir del aprovechamiento estratégico de sus ventajas competitivas;
+l. Impulsar, mediante programas específicos, la creación de empresas ecológicas, con el objetivo de que sus actividades logren preservar, proteger, restaurar y mejorar el medio ambiente;
 
-II. Regular a los agentes económicos y mercados establecidos, y fomentar las inversiones en alta tecnología y en servicios integrales;
+II. Crear programas de apoyo a las empresas existentes para que puedan integrarse a la red de empresas ecológicas, con el objetivo de que reciban asesorías y capacitación, adecuen sus actividades con el fin de mejorar el medio ambiente;
+
+III. Diseñar programas de ayuda para la obtención de créditos públicos o privados para un mejor desarrollo, manteniendo la visión de una empresa ambientalmente competitiva, diferente de las demás empresas;
+
+IV. Crear un sistema de evaluación de las acciones de las empresas que contribuyen a preservar, proteger, restaurar y mejorar el medio ambiente;
+
+V. Contribuir con la estrategia local de acción climática de la Ciudad de México, mediante la elaboración de proyectos para que las empresas que generan gases de efecto invernadero, instrumenten acciones tendientes a reducir las emisiones a la atmósfera que contribuyen al cambio climático;
+
+VI. Realizar proyectos para las empresas con el objeto que sus procesos productivos coadyuven a combatir la contaminación tanto del suelo como del agua y aire;
+
+VII. Promover el uso de tecnologías de acuerdo a la necesidad de cada tipo de incubadora:
+
+a) Incubadoras tradicionales, apoyarlas en la creación de sectores tradicionales cuyos requerimientos de infraestructura física y tecnológica, así como sus mecanismos de operación, son básicos;
+
+b) Incubadoras de tecnología intermedia, apoyarlas en la constitución de empresas cuyos requerimientos de infraestructura física y tecnología, así como sus mecanismos de operación son semi-especializados e involucran procesos o procedimientos semi-desarrollados, es decir incorporan elementos de innovación;
+
+c) Incubadoras de alta tecnología, apoyarlas en la creación de empresas de sectores especializados o avanzados, entre los que se encuentran las tecnologías por ejemplo de la información y comunicación, microeléctrica, sistemas microelectromagnéticos, biotecnología y farmacéutico entre otros;
+
+VIII. Proporcionar asesoría y asistencia técnica para que estudiantes, egresados y comunidad empresarial cuenten con oportunidades para lograr que sus ideas de negocios se conviertan en empresas;
+
+IX. Crear manuales de fácil acceso y comprensión, para que las empresas desarrollen sus actividades dentro del marco jurídico vigente, con el objetivo de no contravenir ninguna norma poniendo principal énfasis en el aspecto ambiental;
+
+X. Crear sistemas de difusión para los productos elaborados por las empresas ecológicas, mediante proyectos de mercadotecnia; y
+
+XI. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+###### Artículo 51 Bis.
+
+A la Dirección General de Regulación y Fomento Económico:
+
+I. Reimpulsar la economía del Distrito Federal mediante su especialización productiva y su inserción dinámica en los mercados regional y global, a partir del aprovechamiento estratégico de sus ventajas competitivas;
+
+II. Regular a los agentes económicos y mercados establecidos y fomentar las inversiones en alta tecnología y servicios integrales;
 
 III. Fomentar la creación de parques industriales y corredores de servicios especializados;
 
 IV. Generar y analizar información geográfica, estadística y económica del Distrito Federal y diseñar los criterios generales del Programa de Fomento Económico del Distrito Federal;
 
-V. Proponer los lineamientos generales de la política de fomento y desarrollo económico del Distrito Federal;
+V. Proponer los lineamientos generales de la Política de Fomento y Desarrollo Económico del Distrito Federal;
 
-VI. Proponer la normatividad a la que se sujetarán los diversos instrumentos en materia de fomento económico, así como los mecanismos de coordinación con los Órganos Político-Administrativos, Dependencias y Entidades del Distrito Federal y de la Administración Pública Federal y la banca de desarrollo;
+VI. Proponer la normatividad a la que se sujetarán los diversos instrumentos en materia de fomento económico, como los mecanismos de coordinación con las Delegaciones, Dependencias y Entidades del Distrito Federal, de la Administración Pública Federal y la Banca de Desarrollo;
 
-VII. Proporcionar la asesoría y el apoyo técnico a los Órganos Político-Administrativos del Distrito Federal, para la ejecución de los proyectos de inversión en su jurisdicción;
+VII. Proporcionar la asesoría y el apoyo técnico a los órganos político -administrativos del Distrito Federal, para ejecución de los proyectos de inversión en su jurisdicción;
 
-VIII. Manejar, los centros de servicios a los exportadores y, en coordinación con la Secretaría de Comercio y Fomento Industrial, las comisiones mixtas para la promoción de las exportaciones y para la modernización de las micro, pequeñas y medianas industrias;
+VIII. Manejar los centros de servicios a los exportadores y, en coordinación con la Secretaría de Comercio y Fomento Industrial, las Comisiones Mixtas para la promoción de las exportaciones y para la modernización de las micro, pequeñas y medianas industrias;
 
 IX. Realizar los estudios y establecer la base documental de información y análisis para la elaboración de políticas y normas de fomento y desarrollo económico;
 
 X. Analizar el marco macroeconómico de la actividad productiva del Distrito Federal, a fin de diagnosticar sectores, ramas o regiones específicas que requieran ser impulsados a través de su fomento, promoción e inversión;
 
-XI. Realizar estudios y análisis específicos sobre la problemática de la inversión económica, y proponer mecanismos y medidas para su solución;
+XI. Realizar estudios y análisis específicos sobre la problemática de la inversión económica y proponer mecanismos y medidas para su solución;
 
 XII. Opinar sobre leyes, reglamentos, convenios y acuerdos, en materia de inversión, protección del empleo y fomento económico;
 
-XIII. Proponer las políticas, lineamientos y criterios generales del Programa de Fomento y Desarrollo Económico del Distrito Federal;
+XIII. Proponer las políticas, lineamientos y criterios generales del programa de fomento y desarrollo económico del Distrito Federal;
 
-XIV. Elaborar, actualizar y ejecutar el Programa de Fomento y Desarrollo Económico del Distrito Federal;
+XIV. Elaborar, actualizar y ejecutar el programa de fomento y desarrollo económico del Distrito Federal;
 
 XV. Analizar y diagnosticar los sectores con mayor índice de desempleo, así como proponer medidas y lineamientos orientados a la promoción de la actividad productiva en estos sectores;
 
@@ -2872,25 +2936,25 @@ XVIII. Promover y fomentar los programas económicos, sectoriales y delegacional
 
 XIX. Promover la creación de ventanillas, centros de gestión y fomento en las distintas cámaras, asociaciones, colegios y banca de desarrollo, así como coordinar sus actividades y promover la instrumentación de acciones específicas para la operación y mejoramiento de sus procedimientos de gestión interna;
 
-XX. Desarrollar diagnósticos sobre problemáticas específicas del sector empresarial a fin de proponer mejoras al marco normativo con base en la opinión de los distintos sectores económicos;
+XX. Desarrollar diagnósticos sobre problemáticas especificas del sector empresarial a fin de proponer mejoras al marco normativo con base en la opinión de los distintos sectores económicos;
 
 XXI. Promover, orientar y estimular el desarrollo y modernización del sector empresarial del Distrito Federal;
 
-XXII. Establecer, conducir y coordinar los mecanismos de apoyo y estímulos a la actividad productiva del sector empresarial, incluyendo asesorías y asistencia técnica;
+XXII. Establecer, conducir y coordinar los mecanismos de apoyo y estímulos a la actividad productiva del sector empresarial incluyendo asesorías y asistencia técnica;
 
-XXIII. Coordinar con cámaras y organismos empresariales el seguimiento y apoyo a macro proyectos;
+XXIII. Coordinar con cámaras y organismos empresariales el seguimiento y apoyo a macro - proyectos;
 
 XXIV. Diseñar mecanismos que permitan determinar y evaluar el impacto regulatorio del marco normativo para el funcionamiento y operación de las empresas en el Distrito Federal;
 
 XXV. Colaborar en la creación de nuevos mecanismos de asociación empresarial en el Distrito Federal;
 
-XXVI. Colaborar en la creación de empresas agro-industriales en el Distrito Federal;
+XXVI. Colaborar en la creación de empresas agro - industriales en el Distrito Federal;
 
 XXVII. Promover acciones encaminadas a la regularización y ordenamiento de las unidades productivas en el Distrito Federal;
 
 XXVIII. Promover, organizar y coordinar la instalación y seguimiento de las acciones de los consejos y fomento en materia de inversión y desarrollo económico;
 
-XXIX. Realizar la consulta permanente con los organismos y asociaciones representativas del sector productivo sobre aspectos relevantes de la actividad económica, así como captar las propuestas y sugerencias que se deriven sobre la política y programas de fomento;
+XXIX. Realizar consultas permanentes con los organismos y asociaciones representativas del sector productivo, sobre aspectos relevantes de la actividad económica, así como captar las propuestas y sugerencias que se deriven sobre la política y programas de fomento;
 
 XXX. Definir los criterios y normas técnicas para la evaluación de los proyectos de inversión y determinar sus sistemas de control;
 
@@ -2902,17 +2966,17 @@ XXXIII. Desarrollar análisis sobre la operación de los proyectos de inversión
 
 XXXIV. Concertar con los agentes económicos la realización de los proyectos de inversión en el Distrito Federal;
 
-XXXV. Establecer y coordinar el sistema de información y evaluación permanente de proyectos;
+XXXV. Establecer y Coordinar el Sistema de Información y Evaluación Permanente de Proyectos;
 
-XXXVI. Colaborar al buen uso de los fondos de fomento y los fondos de garantía, así como aprovechar los fondos establecidos por otras instituciones públicas para fomentar proyectos de inversión y el desarrollo económico en el Distrito Federal;
+XXXVI. Colaborar al buen uso de los fondos de fomento y los fondos de garantía, así como aprovechar los fondos establecidos por otras instituciones publicas para fomentar proyectos de inversión y el desarrollo económico en el Distrito Federal;
 
 XXXVII. Diseñar instrumentos económicos para apoyar el cumplimiento de la normatividad y para impulsar mercados emergentes, en particular, los mercados ambientales;
 
-XXXVIII. Establecer criterios e indicadores de desempeño para el control y la evaluación de los programas de regulación y fomento económico;
+XXXVIII. Establecer criterios e indicadores de desempeño para el control y la evaluación de los Programas de Regulación y Fomento Económico;
 
 XXXIX. Impulsar la vocación productiva y la capacidad competitiva de la economía de la Ciudad;
 
-XL. Dar certidumbre institucional y jurídico-normativa a los agentes económicos mediante el diseño y la instrumentación de formas y procedimientos simples, claros y necesarios para el establecimiento, ampliación o modificación de actividades económicas;
+XL. Dar certidumbre institucional y jurídica - normativa a los agentes económicos mediante el diseño y la instrumentación de formas y procedimientos simples, claros y necesarios para el establecimiento, ampliación o modificación de actividades económicas;
 
 XLI. Promover que la normatividad aplicable en el Distrito Federal en materia económica sea integralmente congruente con la Federal;
 
@@ -2930,13 +2994,13 @@ XLVII. Promover la realización de ferias, exposiciones y congresos, de carácte
 
 XLVIII. Apoyar y, en su caso, coadyuvar en la preparación e instrumentación de las visitas especiales e invitaciones protocolarias, nacionales e internacionales, vinculadas con la promoción de inversiones en el Distrito Federal;
 
-XLIX. Apoyar los eventos de carácter internacional que en materia de promoción de inversiones realice el Jefe de Gobierno; y
+XLIX. Apoyar los eventos de carácter internacional que en materia de promoción de inversiones realice el Jefe de Gobierno;
 
-L. Promover la celebración de convenios y acciones con los Municipios, Estados, instituciones federales, privadas y financieras, nacionales e internacionales, tendientes a fomentar inversiones y proyectos de desarrollo económico;
+L. Promover la celebración de convenios y acciones con los municipios, estados, instituciones federales, privadas y financieras, nacionales e internacionales, tendientes a fomentar inversiones y proyectos de desarrollo económico;
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
+LI. Emitir Cédulas de Microindustrias o de la actividad artesanal y sus refrendos, así como otorgar el visto bueno de los contratos constitutivos de sociedades de responsabilidad limitada micro - industriales; y
 
-LI. Emitir las Cédulas de Microindustrias o de la Actividad artesanal y sus refrendos, así como otorgar el visto bueno de los Contratos Constitutivos de Sociedades de Responsabilidad Limitada Microindustriales.
+LII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
 
 ###### Artículo 52.
 
@@ -13359,3 +13423,11 @@ Segundo.- El presente decreto entrará en vigor el día de su publicación.
 Tercero.- Los asuntos que por virtud del presente decreto dejan de ser competencia de las unidades administrativas cuyas atribuciones se modifican, serán tramitados y resueltos por las unidades administrativas a las que se les confieren las facultades respectivas.
 
 Cuarto.- Los órganos político-administrativos que por virtud del presente decreto modifican su estructura, deberán actualizar su Manual Administrativo en el plazo de 60 días contados a partir de la entrada en vigor del presente decreto.
+
+G.O. 12 DE NOVIEMBRE DE 2009.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. - Con el objeto que la Subsecretaria y Dirección General que se crean con el presente Decreto cuenten con los recursos humanos, materiales y financieros para su funcionamiento y operación, la Secretaría de Finanzas, la Oficialía Mayor y la Contraloría General, en el ámbito de sus respectivas competencias, determinarán los términos y condiciones requeridos para tal efecto.
