@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2006-12-21"
+last_updated: "2009-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -43,9 +43,11 @@ LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO UNICO
 
-###### ARTICULO 1°.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-La presente Ley es de orden público, y tiene por objeto regular la revisión de las cuentas públicas y su fiscalización superior; la determinación de las indemnizaciones y el fincamiento de responsabilidades por daños y perjuicios causados a la hacienda pública y al patrimonio de los entes auditables; la ejecución de dichas sanciones; los medios de defensa correspondientes; la aplicación de medidas correctivas y preventivas para corregir irregularidades; así como el establecimiento de las bases y términos para la organización, procedimientos y funcionamiento de la entidad pública encargada del ejercicio de estas funciones.
+###### ARTICULO 1º.
+
+La presente Ley es de orden público, y tiene por objeto regular la revisión de las cuentas públicas y su fiscalización superior; el fincamiento e imposición de sanciones derivadas de las responsabilidades administrativas y financieras, resultantes de los daños y perjuicios causados a la hacienda pública y al patrimonio de los entes auditables; así como la ejecución de los créditos resultantes; además de conocer de los medios de defensa correspondientes; la aplicación de medidas correctivas y preventivas; así como el establecimiento de las bases y términos para la organización, procedimientos y funcionamiento de la entidad pública encargada del ejercicio de estas funciones.
 
 ###### ARTICULO 2°.
 
@@ -63,7 +65,9 @@ V. Entes Auditables: los poderes del Estado, los ayuntamientos, los organismos c
 
 VI. Gestión Financiera: la actividad de los entes auditables, respecto de la administración, manejo, custodia y, aplicación de los ingresos, egresos, fondos y, en general, de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas aprobados, en el periodo que corresponde a una cuenta pública, sujeta a la revisión posterior del Congreso, a través de la Auditoria Superior del Estado, a fin de verificar que dicha gestión se ajuste a las disposiciones legales, reglamentarias y administrativas aplicables, así como el cumplimiento de los programas señalados;
 
-VII. Informe de Auditoria: el informe del resultado de la revisión de las cuentas públicas que la Auditoria Superior del Estado, presenta al Congreso;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+VII. Informe final de auditoría: el informe del resultado de la revisión de las cuentas públicas que la Auditoría Superior del Estado presenta al Congreso, a través de la Comisión de Vigilancia;
 
 VIII. Organismos constitucionales autónomos: las personas de derecho público autónomas por disposición constitucional;
 
@@ -79,17 +83,21 @@ XII. Unidades de Control Interno: las contralorías o cualquier unidad de contro
 
 La revisión y examen de las cuentas públicas de los entes auditables corresponde al Congreso por conducto de la Auditoria Superior del Estado, la que tiene a su cargo la función de fiscalización superior en los términos de la Constitución Política del Estado y la presente Ley.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 4°.
 
-A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, en lo conducente y en lo que no se opongan, la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de San Luis Potosí; la Ley de Presupuesto, Contabilidad y Gasto Público de los Municipios del Estado de San Luis Potosí; la Ley de Procedimientos Administrativos del Estado; el Código Fiscal del Estado de San Luis Potosí; la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí; y en su caso, las normas del derecho común.
+A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, en lo conducente y, en lo que no se opongan, la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de San Luis Potosí; la Ley de Presupuesto, Contabilidad y Gasto Público de los Municipios del Estado de San Luis Potosí; el Código Fiscal del Estado de San Luis Potosí; la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí y, en su caso, las normas del derecho común.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION Y FUNCIONAMIENTO DE LA AUDITORIA SUPERIOR DEL ESTADO
 
 ### CAPITULO I. Generalidades
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 5°.
 
-La Auditoria Superior del Estado es el órgano del Congreso con autonomía administrativa, técnica y de gestión, que tiene a su cargo la función de fiscalización de los entes auditables, conforme a lo dispuesto en la presente Ley.
+La Auditoría Superior del Estado es el órgano del Congreso, con autonomía administrativa, técnica y de gestión, que tiene a su cargo la función de revisión previa y fiscalización de los entes auditables, conforme a lo dispuesto en la presente Ley.
 
 ###### ARTICULO 6°.
 
@@ -101,7 +109,9 @@ La Auditoria Superior del Estado elaborará su proyecto de presupuesto anual que
 
 La Auditoria Superior del Estado tendrá las siguientes atribuciones:
 
-I. Auditar con posterioridad a la presentación de las cuentas públicas, los ingresos y egresos, el manejo, custodia y aplicación de los fondos y recursos de los entes auditables, así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos, así como durante el ejercicio en los casos que establece esta Ley;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+I. Revisar los informes financieros durante el ejercicio fiscal, con objeto de prevenir actos u omisiones que se presenten; así como auditar con posterioridad a la presentación, las cuentas públicas, los ingresos y egresos, el manejo, custodia y aplicación de los fondos y recursos de los entes auditables, así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos, así como durante el ejercicio en los casos que establece esta Ley;
 
 II. Revisar y fiscalizar las cuentas públicas y entregar, a través de la Comisión, el informe del resultado de dicha revisión al Congreso del Estado, para los efectos que establece esta Ley;
 
@@ -135,7 +145,9 @@ XVI. Requerir, en su caso, a los prestadores de servicios profesionales que cont
 
 XVII. Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con los entes auditables, la información relacionada con la documentación justificativa y comprobatoria de las cuentas públicas, a efecto de realizar las compulsas correspondientes;
 
-XVIII. Solicitar a los entes auditables la información necesaria para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XVIII. Solicitar en cualquier momento a los entes auditables, la información necesaria para el cumplimiento de sus funciones;
 
 XIX. Auditar la aplicación de los subsidios o estímulos fiscales que los entes auditables hayan recibido u otorgado con cargo al presupuesto, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 
@@ -143,7 +155,9 @@ XX. Conocer y resolver sobre el recurso de revocación que se interponga en cont
 
 XXI. Elaborar su proyecto de presupuesto anual y remitirlo a la Comisión para los efectos que señala esta Ley;
 
-XXII. Elaborar su proyecto de Reglamento Interior y someterlo a la consideración del Congreso, por conducto de la Comisión, para su aprobación;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XXII. Expedir su Reglamento Interior, y ordenar su publicación en el Periódico Oficial del Estado;
 
 XXIII. Administrar, en su caso, los recursos que se obtengan por concepto de la retención que hagan los entes auditables del cinco al millar, por la supervisión y vigilancia de las obras contratadas;
 
@@ -151,9 +165,29 @@ XXIV. Administrar los recursos que reciba de la Federación, para apoyo de la fi
 
 XXV. Elaborar estudios relacionados con las materias de su competencia y publicarlos;
 
-XXVI. Celebrar convenios de colaboración e intercambio de información con instituciones similares y participar en foros nacionales e internacionales en los que se traten materias de su competencia, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-XXVII. Las demás que expresamente señalen la Constitución Política y las leyes del Estado, y su Reglamento Interno.
+XXVI. Celebrar convenios de colaboración e intercambio de información con instituciones similares, y participar en foros nacionales e internacionales en los que se traten materias de su competencia;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XXVII. Ejercer el procedimiento administrativo de ejecución para hacer efectivo el cobro de las indemnizaciones y sanciones pecuniarias, que determine e imponga en el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XXVIII. Tener a su cargo y responsabilidad la recepción y análisis de las declaraciones de situación patrimonial, anuales, iniciales, y de conclusión de encargo, que deban presentar sus servidores públicos, así como los integrantes del cabildo de los ayuntamientos, y dar seguimiento a la evolución de la situación patrimonial de los mismos, en los términos y conforme a la ley de la materia y, en su caso, informar a la autoridad que le corresponda cuando así proceda, e imponer las sanciones que deriven por incumplimiento de dicha obligación;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XXIX. Determinar, conforme al procedimiento señalado en esta Ley, en su caso, los daños y perjuicios que afecten a las haciendas públicas, estatal o municipales, o al patrimonio de otros entes auditables; fincar las responsabilidades a que haya lugar, y determinar las indemnizaciones y las sanciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XXX. Expedir las certificaciones de los documentos originales que obren en los expedientes y archivos de la Auditoría Superior, y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XXXI. Las demás que expresamente señalen la Constitución Política Local; ésta y las demás leyes del Estado, y el Reglamento Interior de la Auditoría.
 
 ### CAPITULO III. Del Auditor Superior
 
@@ -165,7 +199,9 @@ Al frente de la Auditoria Superior del Estado estará el Auditor Superior del Es
 
 I. No haber sido titular del Poder Ejecutivo del Estado o de sus entidades, senador, diputado federal, secretario o subsecretario de los gobiernos federal o estatal, consejero de la judicatura o magistrado, tesorero municipal, ni dirigente de un partido político, ni haber sido postulado para cargo de elección popular, y en general no haber dispuesto de recursos públicos, en el año inmediato anterior a la propia designación;
 
-II. Contar al momento de su designación con una experiencia plenamente comprobada de al menos cinco años en materia fiscal, y control, manejo y auditoría de recursos, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+II. Contar al momento de su designación, con experiencia plenamente comprobada de al menos cinco años en materia fiscal, de control y manejo de recursos, y auditoría financiera y de responsabilidades, y
 
 III. Poseer al día del nombramiento, título y cédula profesional de licenciado en contaduría pública, en administración o en economía, o cualquiera otra profesión relacionada con las actividades de fiscalización, con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello.
 
@@ -175,9 +211,13 @@ III. Poseer al día del nombramiento, título y cédula profesional de licenciad
 
 El Auditor Superior del Estado será designado por el voto de cuando menos las dos terceras partes de los miembros presentes en la sesión correspondiente del Congreso del Estado, conforme al procedimiento siguiente:
 
-I. La Comisión formulará la convocatoria correspondiente a efecto de recibir, durante un periodo de diez días hábiles contados a partir de la fecha de su publicación, las solicitudes o propuestas para ocupar el cargo de Auditor Superior del Estado;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-II. Concluido el plazo anterior, dentro de los tres días hábiles siguientes, la Comisión procederá a la revisión y análisis de las solicitudes, para determinar cuáles de éstas cumplen con los requisitos que señale la convocatoria;
+I. La comisión formulará la convocatoria de selección y nombramiento del Auditor Superior del Estado, la cual deberá ser publicada en el Periódico Oficial del Estado, en uno de los diarios de mayor circulación en la Entidad, y en la página electrónica del Congreso del Estado, a efecto de recibir, durante un periodo de cinco días hábiles contados a partir de la fecha de su publicación, las propuestas o solicitudes para ocupar dicho cargo;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+II. Concluido el plazo anterior, dentro de los cinco días hábiles siguientes, la comisión procederá a la revisión y análisis de las solicitudes, para determinar cuáles de éstas cumplen con los requisitos que señale la convocatoria;
 
 III. Agotado el plazo señalado en la fracción anterior, dentro de los diez días hábiles siguientes, la Comisión entrevistará por separado a los aspirantes que cumplan con los requisitos;
 
@@ -189,15 +229,19 @@ VI. En caso de que ninguno de los candidatos obtenga la votación requerida, el 
 
 #### Sección Tercera. De su duración y suplencias
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 10.
 
-El Auditor Superior del Estado durará en su cargo cuatro años; podrá ser nombrado nuevamente por una sola vez, y será removido exclusivamente por las causas graves a que se refiere esta Ley, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en la Constitución Política del Estado, en materia de responsabilidades.
+El Auditor Superior del Estado durará en su cargo siete años; podrá ser nombrado nuevamente, por una sola vez, para un periodo inmediato de igual duración; y será removido exclusivamente por las causas graves a que se refiere esta Ley, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en la Constitución Política del Estado, en materia de responsabilidades.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 11.
 
-En caso de falta absoluta, renuncia o remoción del Auditor Superior del Estado, la Comisión informará al Congreso para que éste designe un nuevo Auditor Superior, conforme al procedimiento previsto en esta Ley. En tanto el Congreso designa Auditor Superior, fungirá en calidad de encargado el Auditor Especial que señale el Reglamento Interior.
+En caso de falta absoluta, renuncia o remoción del Auditor Superior del Estado, la comisión informará al Congreso para que éste designe un nuevo Auditor Superior, conforme al procedimiento previsto en esta Ley; en tanto el Congreso designa Auditor Superior, fungirá en calidad de encargado, el Coordinador de Auditorías Especiales y, ante la ausencia de éste, el Auditor Especial que corresponda, en el orden que señala el artículo 16 de esta Ley.
 
-El Auditor Superior del Estado será suplido en sus ausencias temporales, que no excederán de treinta días naturales y de las que deberá dar aviso al Congreso por conducto de la Comisión, por los auditores especiales, en el orden que señale el Reglamento Interior de la Auditoria Superior del Estado. Si la ausencia es mayor, se considerará falta absoluta.
+El Auditor Superior del Estado será suplido en sus ausencias temporales, que no excederán de treinta días naturales y de las que deberá dar aviso al Congreso por conducto de la comisión, por el Coordinador de Auditorías Especiales y, ante la ausencia de éste, por los auditores especiales, en el orden que señala el artículo 16 de esta Ley. Si la ausencia es mayor, se considerará falta absoluta.
 
 #### Sección Cuarta. De sus atribuciones
 
@@ -215,7 +259,9 @@ IV. Opinar a solicitud de parte, sobre los proyectos de leyes de ingresos, presu
 
 V. Elaborar y ejecutar el programa operativo anual de la Auditoría Superior del Estado;
 
-VI. Elaborar el Reglamento Interior de la Auditoría Superior del Estado y remitirlo al Congreso, por conducto de la Comisión, para su aprobación. Dicho reglamento deberá ser publicado en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+VI. Expedir el Reglamento Interior de la Auditoría Superior del Estado, y remitirlo para su publicación en el Periódico Oficial del Estado;
 
 VII. Expedir los manuales de organización, procedimientos y servicios al público necesarios para el funcionamiento de la Auditoría Superior del Estado, los que deberán ser publicados posteriormente en el Periódico Oficial del Estado;
 
@@ -225,7 +271,9 @@ IX. Nombrar, promover, remover y suspender al personal a su cargo;
 
 X. Establecer conjuntamente con las unidades de control interno, las reglas técnicas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de las auditorias y revisiones;
 
-XI. Solicitar a los entes auditables la información y el auxilio que se requiera para el ejercicio de la función de auditoria superior de las cuentas públicas;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XI. Solicitar, en cualquier tiempo, a los entes auditables, la información y el auxilio que se requiera para el ejercicio de la función de auditoría superior de las cuentas públicas;
 
 XII. Formular a los entes auditables los pliegos de observaciones, así como las conclusiones preliminares y finales que al efecto se integren en el informe de auditoria;
 
@@ -251,13 +299,25 @@ XXII. Aplicar directamente el procedimiento administrativo de ejecución, para e
 
 XXIII. Aplicar las sanciones disciplinarias que procedan a los servidores públicos de la Auditoria Superior del Estado en términos de este Ordenamiento, su Reglamento, y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
 
-XXIV. Tener a su cargo y responsabilidad la recepción y análisis de las declaraciones patrimoniales, anuales, iniciales y de conclusión de encargo de los servidores públicos obligados a presentarlas, e imponer las sanciones que se deriven del incumplimiento de dicha obligación, conforme a la ley de la materia;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-XXV. Conocer y resolver sobre el recurso de revocación que se interponga en contra de sus actos o resoluciones, y
+XXIV. Tener a su cargo y responsabilidad, la recepción y análisis de las declaraciones patrimoniales, anuales, iniciales, y de conclusión de encargo, que deban presentar sus servidores públicos, así como los integrantes de los ayuntamientos del Estado; dar seguimiento a la evolución de la situación patrimonial de los mismos, en los términos y conforme a la ley de la materia y, en su caso, informar a la autoridad que corresponda cuando así proceda, e imponer las sanciones que deriven por incumplimiento de dicha obligación, conforme a la ley de la materia;
 
-XXVI. Las demás que señalen esta Ley y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-Las atribuciones previstas en las fracciones II, IV, V, VI, VII, VIII, IX, X, XIV, XV, XVII y XIX, son de ejercicio directo del titular de la Auditoría y, por tanto, no podrán ser delegadas.
+XXV. Conocer y resolver sobre el recurso de revocación que se interponga en contra de sus actos o resoluciones;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XXVI. Certificar los documentos que expida en el ejercicio de sus funciones y, en general, de los originales que obren en los expedientes y archivos de la Auditoría Superior, y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XXVII. Las demás que señale la Constitución Política Local, ésta y las demás leyes del Estado, y el Reglamento Interior de la Auditoría.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+Las atribuciones previstas en las fracciones II, IV, V, VI, VII, VIII, IX, X, XIV, XV, XVII, XIX y XXVI, son de ejercicio directo del titular de la Auditoría y, por tanto, no podrán ser delegadas.
 
 #### Sección Quinta. De las causas de remoción
 
@@ -281,7 +341,9 @@ VII. Conducirse con parcialidad en el proceso de revisión de las cuentas públi
 
 VIII. Abstenerse de aplicar el procedimiento administrativo de ejecución sin causa justificada.
 
-Los demás servidores públicos podrán ser removidos también por las causas graves a que se refiere este artículo, por el Auditor Superior del Estado.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+Los demás servidores públicos de la Auditoría podrán ser removidos también, por las causas graves a que se refiere este artículo, por el Auditor Superior del Estado.
 
 ###### ARTICULO 14.
 
@@ -299,27 +361,37 @@ Para el despacho de los asuntos de su competencia, la Auditoria Superior del Est
 
 La Auditoría Superior del Estado contará con las siguientes áreas:
 
-I. Auditoría Especial de Fiscalización Gubernamental, de Organismos Autónomos y Oganismos Descentralizados;
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-II. Auditoría Especial de Fiscalización Municipal y sus Organismos Descentralizados;
+I. Coordinación de Auditorías Especiales;
 
-III. Auditoría Especial de Fiscalización de Obra Pública;
+II. Auditoría Especial de Fiscalización Gubernamental, de Organismos Autónomos y Organismos Descentralizados;
 
-IV. Auditoría Especial de Legalidad;
+III. Auditoría Especial de Fiscalización Municipal y sus Organismos Descentralizados;
 
-V. Coordinación de Administración, Finanzas y Servicios;
+IV. Auditoría Especial de Fiscalización de Obra Pública;
 
-VI. Contraloría Interna, y
+V. Auditoría Especial de Legalidad;
 
-VII. Coordinación de Ejecución.
+VI. Coordinación de Administración, Finanzas y Servicios;
+
+VII. Contraloría Interna, y
+
+VIII. Coordinación de Ejecución.
 
 La Auditoría Superior del Estado tendrá además, las áreas de apoyo necesarias para el cumplimiento de sus funciones, las que tendrán las atribuciones que determine su Reglamento Interior.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 16 BIS. Son facultades y obligaciones del Coordinador de Auditorías Especiales, las que le señale el Reglamento Interior de la Auditoría.
+
 #### Sección Segunda. De las funciones de las áreas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 17.
 
-Sin perjuicio de su ejercicio directo por el Auditor Superior y de conformidad con la distribución de competencias que establezca el Reglamento Interior, corresponden a los auditores especiales que establecen las fracciones I, II y III del artículo anterior, las facultades siguientes:
+Sin perjuicio de su ejercicio directo por el Auditor Superior, y de conformidad con la distribución de competencias que establezca el Reglamento Interior, corresponden a los auditores especiales que establecen las fracciones II, III y IV del artículo 16 de esta Ley, las facultades siguientes:
 
 I. Planear conforme a los programas aprobados por el Auditor Superior, las actividades relacionadas con la revisión de la cuenta pública; y elaborar los análisis temáticos que sirvan de insumos para la preparación del informe del resultado de la revisión de la cuenta pública;
 
@@ -345,15 +417,21 @@ V. Requerir a las entidades fiscalizadas y a los terceros que hubieren celebrado
 
 VI. Ordenar y realizar auditorías, visitas e inspecciones a las entidades públicas conforme al programa aprobado por el Auditor Superior del Estado;
 
-VII. Designar a los supervisores o auditores encargados de practicar las visitas, inspecciones y auditorías a su cargo o, en su caso, celebrar a través de la Coordinación de Administración, los contratos de prestación de servicios a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+VII. Designar a los supervisores o auditores encargados de practicar las revisiones, visitas e inspecciones relativas a las auditorías a su cargo;
 
 VIII. Revisar, analizar y evaluar la información programática incluida en la cuenta pública de los entes auditables;
 
 IX. Formular las recomendaciones y los pliegos de observaciones que deriven de los resultados de su revisión y de las auditorías, visitas o investigaciones, las que remitirá a los entes auditables con acuerdo del Auditor Superior del Estado;
 
-X. Instruir los procedimientos para el fincamiento de las responsabilidades resarcitorias a que den lugar las irregularidades en que incurran los servidores públicos, por actos u omisiones de los que resulte un daño o perjuicio estimable en dinero, que afecten a los entes auditables en su hacienda pública o en su patrimonio, conforme a los ordenamientos legales y reglamentarios aplicables;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-XI. Recabar e integrar la documentación y comprobación necesaria para ejercitar las acciones legales en el ámbito penal que procedan, como resultado de las irregularidades que se detecten en la revisión, auditorías o visitas que practiquen;
+X. Instruir los procedimientos y, previo acuerdo del Auditor Superior del Estado, promover el fincamiento de la responsabilidad en que incurran los servidores públicos, o quienes dejaron de serlo, por actos u omisiones de los que resulte un daño o perjuicio estimable en dinero, que afecten a los entes auditables, conforme a los ordenamientos legales aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+XI. Recabar e integrar la documentación y comprobación necesaria, para que previo acuerdo del Auditor Superior, la Auditoría Especial de Legalidad, promueva el ejercicio de las acciones o fincamiento de responsabilidades en el ámbito que procedan, como resultado de las irregularidades que se detecten en las revisiones, auditorías y visitas que practiquen a las entidades fiscalizadas;
 
 XII. Promover ante las autoridades competentes el fincamiento de otras responsabilidades en que incurran los servidores públicos;
 
@@ -367,9 +445,13 @@ La Auditoría Especial de Legalidad, tendrá las siguientes atribuciones:
 
 l. Asesorar en materia jurídica al Auditor Superior del Estado y a los auditores especiales, así como actuar como su órgano de consulta;
 
-II. Resolver los recursos de revocación que se interpongan en contra de resoluciones dictadas por las diversas áreas de la Auditoría, y los que se interpongan en contra de sus propias resoluciones;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-III. Ejecutar las acciones judiciales, civiles y contencioso administrativo en los juicios en los que la Auditoría Superior del Estado sea parte; contestar demandas, presentar pruebas y alegatos, y actuar en defensa de los intereses jurídicos de la propia auditoría, dando el debido seguimiento a los proceso (sic) y juicios en que actúe;
+II. Substanciar y resolver, previo acuerdo dictado por el Auditor Superior, los recursos de revocación que se interpongan en contra de las resoluciones de la Auditoría Superior del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+III. Representar a la Auditoría Superior del Estado en todos los juicios en que ésta sea parte, de naturaleza distinta a la señalada en la fracción siguiente; contestar las demandas, presentar pruebas y alegatos, y actuar en defensa de los intereses jurídicos de la propia Auditoría, dando el debido seguimiento a los procesos y juicio en que se actúe;
 
 IV. Representar a la Auditoría Superior del Estado ante el Tribunal de Conciliación y Arbitraje, en los conflictos que se susciten con motivo de la aplicación de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí;
 
@@ -435,9 +517,11 @@ Los servidores públicos de la Auditoría Superior del Estado, por la naturaleza
 
 Se entenderá exceptuado de la anterior medida, el personal de base; así como el personal cuyas actividades no se relacionen directamente con cualquiera de las funciones vinculadas al cumplimiento de las atribuciones esenciales a cargo del órgano de auditoría; o que en los términos de ley corresponda atribuirle otra calidad de empleados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 23.
 
-Los servidores públicos de la Auditoría Superior del Estado, así como los prestadores de servicios que contrate, deberán guardar estricta reserva y confidencialidad sobre las actuaciones, observaciones e información de que tengan conocimiento, excepto en los casos en que exista una resolución definitiva debidamente notificada.
+Los servidores públicos de la Auditoría Superior del Estado, así como los prestadores de servicios que ésta contrate, deberán guardar estricta reserva y confidencialidad sobre las actuaciones, observaciones e información de que tengan conocimiento, ya sea que se encuentren en funciones o hayan prestado sus servicios en la referida institución, excepto en los casos en que exista una resolución definitiva debidamente notificada.
 
 La violación a esta disposición se sancionará en los términos que dispongan este Ordenamiento y demás leyes del Estado.
 
@@ -555,9 +639,11 @@ VIII. Las responsabilidades a que haya lugar, y
 
 IX. Las indemnizaciones y sanciones correspondientes en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 36.
 
-La modalidad de las revisiones podrá ser:
+La modalidad de las revisiones previas y auditorías podrá ser:
 
 I. De gabinete: aquélla en la que el ente auditable presenta la documentación comprobatoria en las oficinas de la Auditoría Superior del Estado, donde se lleva a cabo la auditoría, o
 
@@ -593,25 +679,41 @@ Además, se rendirá a más tardar el día quince del mes siguiente al periodo d
 
 Las cuentas públicas municipales anuales se entregarán al Congreso del Estado, y en sus recesos a la Diputación Permanente, previa su aprobación por los ayuntamientos respectivos, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio, salvo que se trate del último año del ejercicio de las administraciones municipales, pues en tal caso las cuentas públicas se presentarán durante la última semana del periodo constitucional de los ayuntamientos El periodo del que hubiera dejado de informarse deberá incluirse en la primera cuenta pública del ayuntamiento entrante.
 
-Los demás entes auditables deberán entregar al Congreso sus respectivas cuentas públicas a más tardar el quince de febrero del año siguiente a su ejercicio.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-El Congreso, a través de la Comisión, turnará las cuentas públicas a la Auditoría Superior del Estado.
+Los organismos constitucionales autónomos, los descentralizados de los ayuntamientos, y los demás entes auditables, deberán entregar al Congreso sus respectivas cuentas públicas, a más tardar el quince de febrero del año siguiente a su ejercicio.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+Los ayuntamientos y sus organismos descentralizados, en los términos de las leyes respectivas, deberán enviar para su revisión sus estados financieros mensuales, así como los expedientes técnicos y financieros de las obras y acciones terminadas.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+El Congreso, a través de la comisión, turnará las cuentas públicas y los estados e informes financieros, a la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 39 BIS. En caso de que cualquiera de los entes auditables, no presente la cuenta pública correspondiente, dentro de los términos que se precisan en el artículo anterior, ésta le será observada en su totalidad y se iniciará de inmediato el procedimiento de fincamiento de responsabilidades e imposición de sanciones respectivo.
 
 ###### ARTICULO 40.
 
 Los programas serán revisados y auditados en la parte ejecutada, durante el periodo correspondiente a la cuenta pública de que se trate, independientemente de que su ejecución comprenda más de un ejercicio fiscal y sin perjuicio de la revisión final que corresponda.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 41.
 
-Sin perjuicio del principio de revisión trimestral, la Auditoría Superior del Estado podrá revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos de gasto, correspondientes a ejercicios anteriores al de la cuenta pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado abarque para su ejecución y pago diversos ejercicios fiscales, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio correspondiente a la revisión específica señalada.
+Sin perjuicio de la revisión de los informes trimestrales, la Auditoría Superior del Estado podrá revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos de gasto, correspondientes a ejercicios anteriores al de la cuenta pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales; sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio correspondiente a la revisión específica señalada.
 
 ### CAPITULO III. Del Proceso de Auditoría de las Cuentas Públicas
 
 #### Sección Primera. Generalidades
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 42.
 
-El procedimiento administrativo de auditoría se regirá por los principios de legalidad, prosecución del interés público, igualdad y proporcionalidad, imparcialidad, eficacia y buena fe; en consecuencia:
+El procedimiento administrativo de auditoría se regirá por los principios de posterioridad, anualidad, legalidad, prosecución del interés público, igualdad, confiabilidad, proporcionalidad, definitividad, imparcialidad, eficacia y buena fe; en consecuencia:
 
 I. Se ajustará estrictamente a las disposiciones del presente Ordenamiento, así como a las normas de auditoría gubernamental generalmente aceptadas;
 
@@ -622,6 +724,20 @@ III. Se impulsará de oficio, sin perjuicio de la intervención de los entes aud
 IV. En las actuaciones sólo intervendrán los titulares o los representantes acreditados de los entes auditables, y
 
 V. Los servidores públicos de la Auditoria Superior del Estado y de los entes auditables, así como los representantes de éstos últimos, se conducirán en las promociones y actuaciones con honestidad y respeto.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 42 BIS. Con independencia de las visitas o inspecciones que sean realizadas, el procedimiento para la revisión previa de los ayuntamientos y sus organismos descentralizados será el siguiente:
+
+I. Deberán presentar a la Auditoría Superior, dentro de los quince días siguientes a la conclusión de cada mes, los informes financieros debidamente sancionados, que contengan las erogaciones que hayan efectuado con base en su respectivo presupuesto de egresos; así como el informe técnico y financiero de las obras y acciones terminadas, acompañados de los soportes documentales respectivos;
+
+II. La Auditoría Superior, en forma trimestral, emitirá un pliego de recomendaciones de la revisión a que hace referencia la fracción anterior;
+
+III. Los entes revisados deberán desahogar el pliego de recomendaciones respectivo, en un término de quince días hábiles contados a partir del día siguiente en que fueron notificados;
+
+IV. En caso de ser omisos en el envío de la información mensual, la Auditoría Superior ejercitará las medidas de apremio a que haya lugar, y
+
+V. De lo dispuesto en la fracción anterior, la Auditoría Superior dará cuenta al Congreso, en el informe final de auditoría.
 
 ###### ARTICULO 43.
 
@@ -669,9 +785,11 @@ IV. La Auditoría Superior del Estado notificará al ente auditable el pliego de
 
 V. El responsable de la solventación deberá presentar la documentación y las aclaraciones requeridas adicionando un dictamen emitido por el titular del órgano que desempeñe las funciones de control interno del ente auditable, en el que conste su evaluación y opinión respecto de la mencionada documentación y tales aclaraciones;
 
-VI. La Auditoría Superior del Estado, al recibir la documentación y las aclaraciones, levantará acta circunstanciada con los requisitos señalados en esta Ley. En dicha acta se harán constar de manera preliminar las observaciones que fueron solventadas, y aquéllas que a juicio de la propia Auditoría Superior no fueron desahogadas satisfactoriamente, y
+VI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2009)
 
-VII. Con los resultados asentados en el acta a que se refiere la fracción anterior, la Auditoría Superior del Estado formulará el Informe Final de Auditoría.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+VII. Con los resultados del proceso que se señala en el presente artículo, la Auditoría Superior del Estado, formulará el informe final de la auditoría.
 
 ###### ARTICULO 50.
 
@@ -689,13 +807,17 @@ Las actas, así como las declaraciones, manifestaciones o hechos en ellas conten
 
 #### Sección Tercera. De las auditorías, visitas e inspecciones
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 51.
 
-La Auditoría Superior del Estado, en ejercicio de su (sic) facultades de fiscalización, podrá realizar visitas y auditorías durante el ejercicio fiscal en curso, en términos de lo previsto en la presente Ley, respecto de las acciones, obras y programas reportados como concluidos; en caso contrario, sólo podrá realizar visitas y auditorías a partir de que la Comisión le haga entrega de la cuenta pública, así como en los casos de revisión de situaciones excepcionales que dispone la presente Ley.
+La Auditoría Superior del Estado, en ejercicio de sus facultades de fiscalización, podrá realizar revisiones, visitas y auditorías durante el ejercicio fiscal en curso, en términos de lo previsto en la presente Ley, respecto de las acciones, obras y programas reportados como concluidos; en caso contrario, sólo podrá realizar visitas y auditorías a partir de que la comisión le haga entrega de la cuenta pública, así como en los casos de revisión de situaciones excepcionales que dispone esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 52.
 
-Las auditorías, visitas e inspecciones que se efectúen en los términos de esta Ley, se practicarán por el personal expresamente comisionado para el efecto por el Auditor Superior del Estado, o mediante la contratación de prestadores de servicios profesionales, habilitados por el mismo para efectuar auditorías, visitas o inspecciones, siempre y cuando no exista conflicto de intereses.
+Las visitas, auditorías, inspecciones, revisiones, y ejecuciones que se efectúen en los términos de esta Ley, se practicarán por el personal expresamente comisionado para el efecto por el Auditor Superior del Estado, o mediante la contratación de prestadores de servicios profesionales, habilitados por él mismo, para efectuar visitas, auditorías, inspecciones, revisiones y ejecuciones, siempre y cuando no exista conflicto de intereses.
 
 Las personas a que se refiere el párrafo anterior tendrán el carácter de representantes de la Auditoría Superior del Estado, en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente el oficio de comisión respectivo y, en su caso, orden de visita, e identificarse plenamente como personal actuante de la Auditoría Superior del Estado.
 
@@ -705,6 +827,10 @@ Las personas a que se refiere el párrafo anterior tendrán el carácter de repr
 
 La Auditoría Superior del Estado conservará en su poder las cuentas públicas y los informes de auditoría mientras sean exigibles, conforme a los plazos de prescripción que señalen las leyes del Estado; las responsabilidades derivadas de las irregularidades que, en su caso, se detecten en las operaciones objeto de revisión; así como las copias autógrafas de las resoluciones en las que se finquen responsabilidades; y los documentos que contengan las denuncias o querellas penales que se hubieren formulado, como consecuencia de los hechos presuntamente delictivos que se hubieren encontrado durante la referida revisión.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+De igual manera, conservará las recomendaciones trimestrales emitidas, así como los actos que resulten de dicho procedimiento previo de revisión.
+
 ###### ARTICULO 54.
 
 La Auditoría Superior del Estado, conjuntamente con las unidades de control interno de los entes auditables, establecerá reglas técnicas para que los documentos justificatorios y comprobatorios de las cuentas públicas puedan darse de baja o destruirse, en los términos que establezca la ley de la materia y, en su caso, para la guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia.
@@ -713,9 +839,11 @@ Los microfilmes y los archivos guardados mediante procesamiento electrónico a q
 
 ### CAPITULO IV. De los Pliegos de Observaciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 55.
 
-Durante la revisión de la cuenta pública, la Auditoría Superior del Estado podrá realizar observaciones; disponiendo los entes auditables de quince días para formular los comentarios que procedan.
+Durante la revisión de la cuenta pública, la Auditoría Superior del Estado podrá realizar observaciones; disponiendo los entes auditables de quince días hábiles para formular las aclaraciones que procedan.
 
 Las observaciones a que se refiere el párrafo anterior deberán notificarse a los entes auditables, con el propósito de que su explicación y solventación en su caso, se integre al Informe de Resultados de la revisión de la cuenta pública correspondiente.
 
@@ -723,7 +851,9 @@ En su caso, los pliegos de observaciones finales derivados de la revisión y fis
 
 Los entes auditables, dentro de un plazo improrrogable de quince días hábiles, contados a partir de la fecha de recibo de los pliegos de observaciones, deberán solventar los mismos ante la Auditoría Superior del Estado.
 
-Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados no sean suficientes a juicio de la Auditoría Superior del Estado para solventar las observaciones, iniciará el procedimiento para el fincamiento de responsabilidades resarcitorias y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados, no sean suficientes para solventar las observaciones, con la correspondiente determinación de la Auditoría, fundada y motivada, iniciará el procedimiento de fincamiento de responsabilidades e imposición de sanciones dispuesto por esta Ley y, en su caso, fincará las responsabilidades administrativas correspondientes, y aplicará las sanciones pecuniarias a que haya lugar, en los términos de la presente Ley.
 
 ### CAPITULO V. De la Fiscalización de Recursos Federales Ejercidos por los Entes Auditables
 
@@ -743,17 +873,21 @@ Cuando se acrediten afectaciones en la Hacienda Pública Federal, atribuibles a 
 
 ### CAPITULO VI. De la Revisión de Denuncias y Situaciones Excepcionales
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 59.
 
-Cuando se presenten denuncias debidamente fundadas, o por otras circunstancias pueda suponerse el presunto manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, la Auditoría Superior del Estado procederá a requerir a los entes auditables, revisiones dentro del ejercicio en curso, respecto de conceptos específicos vinculados de manera directa a las denuncias presentadas, para que en un plazo no mayor de quince días rinda un informe sobre los resultados de la revisión en relación con los hechos señalados. El requerimiento de la Auditoría deberá aportar indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño a la Hacienda Pública o al patrimonio de los entes auditables.
+Cuando se presenten denuncias debidamente fundadas; o cuando por otras circunstancias pueda suponerse el presunto manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, la Auditoría Superior del Estado procederá a practicar a los entes auditables, revisiones dentro del ejercicio en curso, respecto de conceptos específicos vinculados de manera directa a las denuncias presentadas, requiriendo al ente auditable, para que en un plazo no mayor de quince días hábiles, rinda un informe sobre los resultados de la revisión en relación con los hechos señalados. El requerimiento de la Auditoría deberá aportar indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño a la hacienda pública o al patrimonio de los entes auditables.
 
 ###### ARTICULO 60.
 
 En situaciones excepcionales, en que peligre la prestación de los servicios públicos, la salubridad, la seguridad, el orden público, o el ambiente de alguna zona o región del Estado o municipio, como consecuencias de desastres producidos por fenómenos naturales, por casos fortuitos o de fuerza mayor, y existan circunstancias que pueden provocar pérdidas o costos adicionales, podrá proceder una revisión especial de éstas.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 61.
 
-Los entes auditables deberán rendir a través de sus órganos de control interno, a la Auditoría Superior del Estado, en un plazo que no excederá de quince días contados a partir de la recepción del requerimiento, un informe del resultado de sus actuaciones, y, en su caso, de las sanciones que se hubieren impuesto o a que se hubieren hecho acreedores los servidores públicos involucrados. Este Informe, en ningún caso, contendrá información de carácter reservado.
+Los entes auditables deberán rendir, a través de sus órganos de control interno, a la Auditoría Superior del Estado, en un plazo que no excederá de quince días hábiles, contados a partir de la recepción del requerimiento, un informe del resultado de sus actuaciones y, en su caso, de las sanciones que se hubieren impuesto, o a que se hubieren hecho acreedores los servidores públicos involucrados. Este informe, en ningún caso, contendrá información de carácter reservado.
 
 ###### ARTICULO 62.
 
@@ -805,11 +939,15 @@ Si la Comisión encontrara que el informe final incumple o viola alguna disposic
 
 La Comisión deberá presentar al Congreso los informes y dictámenes relativos a las cuentas públicas, a más tardar el quince del mes de junio del año en que aquéllas fueron recibidas, con excepción de los informes y dictámenes concernientes a las cuentas públicas de los poderes del Estado, pues éstos deberán presentarse a más tardar el veinte del mes de junio del año en que dichas cuentas fueron presentadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 68.
 
-Cuando se determine la continuación del proceso de auditoría, al ser notificado por el Congreso el decreto respectivo, la Auditoría Superior del Estado dará continuidad a dicho proceso de la siguiente manera:
+Cuando se determine la continuación del proceso de auditoría, al ser notificado por el Congreso el decreto respectivo, la Auditoría Superior del Estado dará continuidad a dicho proceso, en los siguientes términos:
 
-I. Cuando se trate de irregularidades administrativas no solventadas que no causen daño a la hacienda pública, promoverá lo conducente a fin de que los órganos de control internos respectivos determinen la aplicación de las sanciones que correspondan, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+I. Cuando se trate de irregularidades administrativas no solventadas que no causen daño a la hacienda pública, promoverá lo conducente, a fin de que los órganos competentes respectivos, determinen la aplicación de las sanciones que correspondan, y
 
 II. En los demás casos, procederá conforme a lo que se dispone en el Título Sexto de esta Ley.
 
@@ -855,7 +993,9 @@ Además de las responsabilidades señaladas en el artículo 25 de esta Ley, incu
 
 Asimismo, los servidores públicos de los entes auditables que hayan dejado de rendir total o parcialmente sus informes, acerca de la solventación de los pliegos de observaciones formulados y remitidos por la Auditoría Superior del Estado, u omitan proporcionar la documentación que ésta le solicite.
 
-La Auditoría Superior del Estado, con base en las responsabilidades que se determinen conforme al procedimiento previsto en esta Ley, fincará a los responsables de las irregularidades, las indemnizaciones y sanciones pecuniarias correspondientes, a fin de resarcir a las haciendas públicas, estatal o municipales, o al patrimonio de otros entes auditables, el monto de los daños y perjuicios cuantificables en dinero que se hayan causado.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+La Auditoría Superior del Estado, con base en las responsabilidades que se determinen conforme al procedimiento previsto en esta Ley, impondrá a los responsables de las irregularidades, las indemnizaciones y sanciones pecuniarias correspondientes, a fin de resarcir a las haciendas públicas, estatal o municipales, o al patrimonio de otros entes auditables, el monto de los daños y perjuicios cuantificables en dinero que se hayan causado; además, fincará las responsabilidades administrativas a que haya lugar.
 
 La Auditoría Superior del Estado aplicará el procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere el párrafo anterior.
 
@@ -871,9 +1011,11 @@ Cuando la Auditoría Superior del Estado, además de imponer la sanción respect
 
 Lo dispuesto en el presente Capítulo no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por la Auditoría Superior del Estado, ni del fincamiento de otras responsabilidades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 77.
 
-Las sanciones pecuniarias que imponga la Auditoría Superior del Estado, tendrán el carácter de créditos fiscales y les serán aplicables las disposiciones conducentes del Código Fiscal del Estado.
+Las indemnizaciones y sanciones pecuniarias que imponga la Auditoría Superior del Estado, tendrán el carácter de créditos fiscales y les serán aplicables las disposiciones conducentes del Código Fiscal del Estado.
 
 La Auditoría Superior del Estado aplicará directamente el procedimiento administrativo de ejecución a través de su área competente, para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere el párrafo anterior.
 
@@ -905,17 +1047,31 @@ A partir de que inicie la investigación, la Auditoría Superior del Estado finc
 
 El fincamiento de las responsabilidades, y la determinación de las indemnizaciones y sanciones, se sujetarán al procedimiento siguiente:
 
-I. Se citará personalmente al presunto o presuntos responsables a una audiencia, haciéndoles saber las irregularidades pendientes de solventar, que sean causa de responsabilidad en los términos de esta Ley; el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma, por sí o por medio de un apoderado; apercibidos que de no comparecer sin causa justificada, se tendrá por precluido su derecho para ofrecer pruebas y formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-Cuando fueran varios los responsables de las irregularidades emanadas de la auditoría de la cuenta pública, podrán nombrar un representante común mediante escrito debidamente autentificado, entregado antes de la fecha de la audiencia o nombrado en la misma. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de cinco días, ni mayor de quince días hábiles;
+I. Se citará personalmente al presunto o presuntos responsables a una audiencia, haciéndoles saber los hechos que se le imputan y que sea causa de responsabilidad en los términos de esta Ley, y demás normas aplicables, señalando para tal efecto el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar lo que a su derecho convenga, por sí o por medio de un apoderado; apercibidos que de no comparecer sin causa justificada, se tendrá por precluido su derecho para ofrecer pruebas y formular alegatos y, se tendrán como ciertos los hechos imputados, salvo prueba en contrario, por lo que se resolverá con los elementos que obren en el expediente respectivo.
 
-II. En todas las cuestiones relativas al ofrecimiento, desahogo y valoración de pruebas, así como en las demás cuestiones del procedimiento, no previstas en este Capítulo, se observarán las disposiciones de la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, y, en su defecto, las normas procesales del derecho común;
+En la audiencia, él o los presuntos responsables, opondrán sus defensas, ofrecerán pruebas que estimen conducentes y formularán sus alegatos, acordando la Auditoría en consecuencia, lo conducente.
 
-III. Celebrada la audiencia, se entregará el expediente a los auditores designados por la Auditoria Superior del Estado, para que emitan su opinión técnica al respecto; ya continuación se turnará al Auditor Superior del Estado para su resolución.
+Cuando fueran varios los responsables de las irregularidades emanadas de la auditoría de la cuenta pública, podrán nombrar a un representante común, mediante escrito debidamente autentificado, entregado antes de la fecha de la audiencia, o nombrado en la misma. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de cinco días hábiles, ni mayor de quince;
 
-a. Una vez dictado el acuerdo que turna el expediente para resolver, no se admitirá probanza, ni promoción alguna, y se emitirá la resolución en el plazo de treinta días, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-IV. Si celebrada la audiencia la Auditoría Superior del Estado no encontrara elementos suficientes para fincar la responsabilidad, emitirá una resolución en ese sentido, en el plazo señalado en la fracción anterior.
+II. Desahogadas las pruebas, si las hubiere, la Auditoría Superior del Estado resolverá dentro de los treinta días hábiles siguientes, sobre la existencia de la responsabilidad y, fincará, en su caso, la responsabilidad en que se determine la indemnización y sanción pecuniaria correspondiente, a él o los sujetos responsables. Se notificará a éstos la resolución recaída, en un plazo de cinco días hábiles siguientes de que fue dictada la resolución y, una vez que ésta haya causado ejecutoria, remitirá un tanto autógrafo de la misma, a la Coordinación de Ejecución de la Auditoría Superior del Estado, para que se encuentre en posibilidad de hacer efectiva la sanción impuesta.
+
+La indemnización que se determine invariablemente deberá ser suficiente para cubrir los daños y perjuicios causados, y se actualizará para los efectos de su pago, en los términos que establece el Código Fiscal Estatal.
+
+En todas las cuestiones relativas al ofrecimiento, desahogo y valoración de pruebas, así como las razones del procedimiento que no estén previstas en este capítulo, se observarán las disposiciones del Código de Procedimientos Civiles para el Estado.
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+III. Si en el desarrollo de la audiencia, la Auditoría Superior del Estado observa que no se cuenta con elementos suficientes para resolver, o advierta elementos que impliquen nueva responsabilidad, podrá disponer la práctica de investigaciones sobre los hechos que presuntamente se imputan, dentro de los treinta días hábiles que tiene para resolver.
+
+La resolución que se emita dentro del procedimiento administrativo deberá contener como mínimo, los requisitos que establece el artículo 70 de la presente Ley, y
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+IV. Si celebrada la audiencia y desahogadas las pruebas, la Auditoría Superior del Estado no encontrara elementos suficientes para fincar la responsabilidad, emitirá una resolución es (sic) ese sentido, en el mismo plazo de treinta días hábiles que refiere la fracción II de este mismo precepto.
 
 ###### ARTICULO 83.
 
@@ -941,9 +1097,13 @@ En materia de sanciones la Auditoría Superior del Estado observará lo siguient
 
 I. Para imponer las sanciones pecuniarias que correspondan en los casos de las fracciones I y II del artículo anterior, deberá observar lo dispuesto al respecto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
 
-II. Sólo aplicará sanciones directamente cuando se incurra en alguna responsabilidad administrativa de las señaladas en los artículos 25 y 73 de esta Ley, y la misma haya sido detectada o cometida con motivo o durante la revisión de las cuentas públicas; en los demás casos, deberá promover ante la autoridad competente el fincamiento de la responsabilidad correspondiente, precisando en su resolución las irregularidades detectadas, las disposiciones legales infringidas y las que establezcan las sanciones aplicables, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
-III. En los demás casos no impondrán directamente sanción alguna a los servidores públicos de los municipios, distintos de los miembros de los ayuntamientos, o de las entidades públicas paramunicipales o intermunicipales, salvo que se trate de sus directores generales o sus equivalentes. En estos casos promoverá ante la unidad de control interno que corresponda, para que proceda conforme a sus atribuciones, respecto de la irregularidad detectada, precisando en su resolución las irregularidades detectadas, las disposiciones legales infringidas y las que establezcan las sanciones aplicables.
+II. Aplicará las sanciones directamente cuando se incurra en alguna responsabilidad administrativa de las señaladas en los artículos 25 y 73 de esta Ley, y la misma haya sido detectada o cometida con motivo o durante la revisión de las cuentas públicas; en los demás casos, deberá promover ante la autoridad competente, el fincamiento de la responsabilidad correspondiente, precisando en su resolución las irregularidades detectadas, las disposiciones legales infringidas y las que establezcan las sanciones aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+III. La omisión de las autoridades encargadas de hacer cumplir las determinaciones e imponer las sanciones derivadas de los procedimientos de fiscalización, que así se les hubiera indicado, será constitutiva de responsabilidad en términos de la ley de la materia, y
 
 IV. La omisión de las autoridades encargadas de hacer cumplir las determinaciones e imponer las sanciones derivadas de los procedimientos de fiscalización, dentro del plazo de seis meses contados a partir de la notificación de la resolución respectiva, será constitutiva de responsabilidad en términos de la ley de la materia.
 
@@ -983,21 +1143,37 @@ Los interesados afectados por los actos o resoluciones definitivos de la Auditor
 
 Se entenderán como actos o resoluciones definitivos, aquéllos que ponen fin al procedimiento conforme a esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 91.
 
-La tramitación del recurso se sujetará a las disposiciones siguientes:
+La tramitación del recurso de revocación se sujetará a las disposiciones siguientes:
 
-I. Se iniciará mediante escrito en el que se deberán expresar los agravios que a juicio del recurrente le cause el acto o resolución impugnada; debiéndose asimismo, ofrecer las pruebas que se estime necesario rendir; y acompañar copia del acto o resolución de que se trate y constancia de su notificación; así como las pruebas documentales que se ofrezcan;
+I. Se iniciará mediante escrito que deberá contener los requisitos que señala el artículo 92 de esta Ley, y al que se deberán acompañar, copia del acto o resolución de que se trate, y constancia de su notificación; así como las pruebas documentales que se ofrezcan;
 
-II. La Auditoría Superior del Estado acordará sobre la admisión del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución;
+II. La Auditoría Superior del Estado acordará sobre la admisión o desechamiento del recurso, así como de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución;
 
-III. Se admitirán toda clase de pruebas, incluyendo las supervenientes, con excepción de la confesional a cargo de la autoridad, y las contrarias a derecho, y
+III. Se admitirán toda clase de pruebas, incluyendo las supervenientes, con excepción de la confesional a cargo de la autoridad, la testimonial, y las contrarias a derecho, y
 
-IV. Desahogadas las pruebas, si las hubiere, o en su defecto, una vez que se notifique la admisión del recurso, la Auditoría Superior del Estado emitirá resolución dentro de los treinta días siguientes, notificándola al interesado.
+IV. Desahogadas las pruebas, si las hubiere; o, en su caso, una vez que se notifique la admisión del recurso, la Auditoría Superior del Estado emitirá resolución dentro de los treinta días siguientes, notificándola al interesado.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 92.
 
-En el escrito de interposición del recurso de revocación, el interesado deberá señalar su nombre y, en su caso, el de su representante jurídico, así como el domicilio para oír y recibir notificaciones en la capital del Estado, y los documentos en que sustente su recurso.
+El escrito de interposición del recurso de revocación, deberá contener los siguientes requisitos:
+
+I. El nombre de quien promueve y la calidad con que comparece y, en su caso, el de su representante legal, mismo que deberá estar debidamente acreditado;
+
+II. Domicilio para oír y recibir todo tipo de notificaciones en la capital del Estado;
+
+III. El acto o resolución que se impugna, indicando brevemente sus antecedentes;
+
+IV. Los agravios que cause al recurrente el acto o resolución impugnada, y
+
+V. Las pruebas que ofrezca, relacionándolas con cada uno de los hechos que le causen agravio.
+
+Cuando falte alguno de los requisitos establecidos, la autoridad requerirá al promovente por una sola vez, para que en un plazo de tres días hábiles subsane la omisión; si transcurrido dicho plazo el recurrente no desahoga el requerimiento, se tendrá por no interpuesto el recurso.
 
 ###### ARTICULO 93.
 
@@ -1005,9 +1181,11 @@ En caso de que el recurrente no cumpliera con alguno de los requisitos, o no pre
 
 Cuando no se señale domicilio para oír y recibir notificaciones en la capital del Estado, las notificaciones se harán por lista que se fijará en los estrados de la Auditoría.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 94.
 
-La interposición del recurso suspenderá la ejecución del acto o resolución recurrida, si el pago de la sanción o indemnización de que se trate se garantiza en los términos que prevenga el Código Fiscal del Estado.
+La interposición del recurso suspenderá la ejecución del acto o resolución recurrida, si el pago del crédito resultante se garantiza en los términos que prevenga el Código Fiscal del Estado.
 
 ###### ARTICULO 95.
 
@@ -1023,9 +1201,11 @@ No se podrán anular, revocar o modificar los actos o resoluciones con argumento
 
 El titular de la Auditoría Superior del Estado podrá revisar los actos emitidos por los servidores públicos de la propia Auditoría Superior, cuando no reúnan los requisitos que señala este Ordenamiento, o cuando sobrevengan cuestiones de oportunidad e interés público previstos en la ley, siempre que se trate de resoluciones no definitivas.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 98.
 
-Los servidores públicos en todo momento, durante los procedimientos de auditoría, de fincamiento de responsabilidades e imposición de sanciones, o bien, para la interposición del recurso de revocación respectivo, podrán consultar los expedientes administrativos donde consten los hechos que se le imputen y obtener copias certificadas a su costa, de los documentos correspondientes.
+Los servidores públicos en todo momento, durante los procedimientos de auditoría, de fincamiento de responsabilidades e imposición de sanciones, o bien, para la interposición del recurso de revocación respectivo, podrán consultar los expedientes administrativos donde consten los hechos que se le imputen, y obtener copias certificadas o simples, a su costa, de los documentos correspondientes.
 
 ## TRANSITORIOS
 
@@ -1080,3 +1260,15 @@ Lic. Alfonso José Castillo Machuca
 P.O. 21 DE DICIEMBRE DE 2006.
 
 ÚNICO. Previa su publicación en el Periódico Oficial del Estado, este Decreto entrará en vigor en la misma fecha que cobre vigencia el Decreto Legislativo número 499, relativo a la Ley de Auditoría Superior del Estado de San Luis Potosí, publicado en el citado órgano de información oficial, el 30 de mayo de 2006.
+
+P.O. 12 DE NOVIEMBRE DE 2009.
+
+PRIMERO. Previa la aprobación de la reforma a la Constitución Política del Estado que se contiene en el artículo Primero del presente Decreto, por cuando menos las tres cuartas partes de los ayuntamientos de la Entidad, de conformidad con lo dispuesto por el artículo 138 de la propia Constitución, dicho Decreto entrará en vigor en su integridad, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los asuntos que se encuentren tramitándose por la Auditoría Superior del Estado de San Luis Potosí, continuarán su cauce en los términos de las disposiciones legales aplicables, bajo cuya vigencia se iniciaron.
+
+TERCERO. La revisión de las cuentas públicas conforme a las disposiciones de este Decreto, se efectuará a partir de las correspondientes al año 2009.
+
+CUARTO. El actual Auditor Superior del Estado desempeñará su encargo por un periodo de siete años, contados a partir de la entrada en vigor de su designación contenida en el Decreto Legislativo número 98, publicado en el Periódico Oficial del Estado el 20 de febrero de 2007.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
