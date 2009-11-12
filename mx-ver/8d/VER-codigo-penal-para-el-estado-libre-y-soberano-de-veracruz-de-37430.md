@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2009-11-02"
+last_updated: "2009-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2009.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1539,6 +1539,8 @@ Igual sanción se aplicará a quien de manera individual o colectiva abuse de me
 
 ### CAPÍTULO II. ABIGEATO
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 186.
 
 A quien, sin el consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto erótico-sexual o la haga ejecutarlo, se le impondrán de uno a seis años de prisión y multa hasta de cien días de salario.
@@ -1683,6 +1685,8 @@ No servirá de excusa en los delitos contra el honor que el hecho imputado sea n
 
 ### CAPÍTULO XIV. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 202.
 
 A quien con ánimo de dominio, lucro o uso, se apodere de una cosa mueble, total o parcialmente ajena, sin consentimiento de quien legalmente pueda disponer de ella, se le sancionará de la siguiente manera:
@@ -1793,7 +1797,9 @@ Si en los actos de referencia interviene algún servidor público que tenga a su
 
 ###### Artículo 210.
 
-A quien en el medio rural se apodere de una o más cabezas de ganado, cualquiera que sea la especie, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrán de cuatro a doce años de prisión y multa hasta de trescientos días de salario.
+A quien en el medio rural se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrán de cuatro a doce años de prisión y multa hasta de trescientos días de salario.
+
+Cuando ese apoderamiento se realice sobre ganado vacuno o caballar, se impondrán de cinco a quince años de prisión y multa hasta de quinientos días de salario.
 
 ###### Artículo 211.
 
@@ -2029,11 +2035,11 @@ Cuando el agente activo sea servidor público las sanciones anteriores serán au
 
 ###### Artículo 231.
 
-No se aplicará sanción alguna por los delitos previstos en el presente Título, cuando el agente activo sea delincuente primario y repare el daño antes de que el Ministerio Público tome conocimiento del delito, salvo que se trate de delitos calificados, de extorsión o de los delitos de operaciones con recursos de procedencia ilícita.
+Cuando el agente activo sea delincuente primario y repare el daño voluntariamente antes de dictarse sentencia, la sanción correspondiente al delito cometido de los previstos en el presente título, se reducirá por el juzgador hasta en una mitad; esa reparación producirá además el efecto de permitir que el inculpado obtenga el beneficio de la libertad provisional bajo caución.
 
-La sanción correspondiente al delito cometido se reducirá en una mitad si, antes de dictarse sentencia, el agente activo repara el daño.
+Lo dispuesto en el párrafo anterior no se aplicará cuando se trate de delitos calificados, de extorsión, abigeato o de los delitos de operaciones con recursos de procedencia ilícita.
 
-El pago producirá, además, el efecto de que el inculpado obtenga el beneficio de la libertad provisional bajo caución.
+No se considerará reparación del daño el hecho de que autoridades competentes o la propia víctima recuperen las cosas objeto del delito, pues esa circunstancia es ajena a la voluntad del inculpado.
 
 ###### Artículo 232.
 
@@ -3340,5 +3346,11 @@ Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente
 G.O. 2 DE NOVIEMBRE DE 2009.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE NOVIEMBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
