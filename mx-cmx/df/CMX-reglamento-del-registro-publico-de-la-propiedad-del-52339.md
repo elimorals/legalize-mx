@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-publico-de-la-propiedad-del-52339"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-24"
-last_updated: "2009-07-16"
+last_updated: "2009-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52339&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-11-08"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el viernes 24 de noviembre de 2006.
 
@@ -312,6 +312,10 @@ III. Bases de datos y archivos complementarios, necesarios para explotar y valid
 
 IV. Respaldos.
 
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+Los archivos e imágenes que contenga este sistema informático, contarán con el reconocimiento de validez y podrán ser utilizados para verificar, corregir, validar e inclusive reponer los asientos registrales.
+
 ###### Artículo 18.
 
 A través del Control de Gestión se incorpora, ordena, archiva y consulta la información sobre los trámites y servicios que presta la institución, desde su ingreso hasta su conclusión.
@@ -402,7 +406,9 @@ III. Acto jurídico;
 
 IV. Valor de la operación;
 
-V. El monto de los derechos;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+V. El monto de los derechos, incluyendo los cálculos de las reducciones y condonaciones que en su caso le correspondan;
 
 VI. El antecedente registral, y
 
@@ -518,9 +524,15 @@ IV. Por cualquier otro que determine el Director General.
 
 El servicio registral se inicia con la asignación del número de entrada a la solicitud presentada por escrito con sus anexos.
 
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+Será requisito indispensable para la prestación del servicio, el previo y correcto pago de los derechos correspondientes. En caso contrario el documento se turnará a la ventanilla única como trámite denegado.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 35.
 
-Los documentos a que se refieren las fracciones II y III del artículo 3005 del Código se presentarán por duplicado; uno de los cuales se encuadernará y archivará de resultar procedente el registro.
+Los documentos a que se refieren las fracciones II y III del artículo 3005 del Código serán resguardados en archivo electrónico y formarán parte del Sistema Informático del Registro Público de la Propiedad para los efectos legales conducentes.
 
 ###### Artículo 36.
 
@@ -782,7 +794,9 @@ V. Cuando se trate de derechos, la inscripción deberá contener todos los datos
 
 VI. Cuando se modifique la nomenclatura de las calles o la numeración de las fincas, los titulares registrales de éstas podrán solicitar la modificación correlativa en el folio correspondiente, mediante constancia que expida la autoridad competente del Distrito Federal;
 
-VII. Los nombres propios que deban figurar en la inscripción se consignarán literalmente, según aparezca del título respectivo, sin que esté permitido a los registradores, ni aún por acuerdo de las partes, modificar, añadir u omitir alguno, salvo resolución judicial. También se asentará la Clave Única del Registro de Población, el Registro Federal de Contribuyentes, fecha de nacimiento o cualquier otro dato de identificación, cuando conste en el documento, y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+VII. Los nombres propios que deban figurar en la inscripción se consignarán literalmente, según aparezca en el título respectivo, sin que esté permitido a los registradores, ni aún por acuerdo de las partes, modificar, añadir u omitir alguno, salvo resolución judicial. También se asentará la Clave Única del Registro de Población, y
 
 VIII. Asimismo, se consignarán las limitaciones de dominio que señale el documento.
 
@@ -1050,6 +1064,10 @@ d) Cuando no se haya subsanado mediante los documentos idóneos.
 
 e) Cuando haya salida sin registro a petición de parte una vez calificado.
 
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+
+f) Cuando no se realice el previo y correcto pago del monto de los derechos correspondientes.
+
 ###### Artículo 112.
 
 Si la resolución del Director General fuese favorable al recurrente, se remitirá al registrador para su debido cumplimiento. En caso contrario, el documento será puesto a disposición del inconforme, quedando sin efecto la nota de presentación a que se refiere el artículo 110 de este Reglamento.
@@ -1089,3 +1107,9 @@ TERCERO. Los documentos que hayan sido calificados y se encuentren suspendidos, 
 G.O. 16 DE JULIO DE 2009.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 12 DE NOVIEMBRE DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Los documentos que hayan sido calificados, antes de la entrada en vigor del presente decreto, y se encuentren suspendidos por la presentación de pago incorrecto, se substanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su calificación.
