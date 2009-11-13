@@ -4,7 +4,7 @@ identifier: "ROO-ley-electoral-de-quintana-roo-38306"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-04"
-last_updated: "2009-03-03"
+last_updated: "2009-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 4 de marzo de 2004.
 
@@ -1685,6 +1685,28 @@ La fecha límite para la recepción de dichas solicitudes será el día seis de 
 
 El Instituto gestionará ante las autoridades competentes la trasmisión de los debates en radio y televisión.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Los debates públicos que no sean organizados por el Instituto, serán regulados de conformidad con el reglamento que al efecto éste expida, el cual, deberá atender a las siguientes bases:
+
+a).- Que los debates se realicen bajo los principios de certeza, legalidad, independencia, imparcialidad y objetividad;
+
+b).- Que las bases, metodología y procedimientos aplicables para su realización y difusión estén apegados a los principios antes señalados;
+
+c).- Que en el desarrollo y contenido de los debates, la ciudadanía conozca a los candidatos, sus planteamientos políticos y plataformas electorales;
+
+d).- Que bajo el principio de imparcialidad, sean invitados a los debates públicos todos los candidatos registrados a un cargo de elección popular y sean los autorizados de conformidad con lo que dispone el tercer párrafo del presente artículo;
+
+e).- Que todo aquel debate público que no sea realizado por el Instituto, cumpla con las disposiciones señaladas en las anteriores bases.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Los debates públicos que se celebren bajo las circunstancias de los incisos del párrafo que antecede, deberán estar sujetos a lo dispuesto por el Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 145.
 
 Las personas físicas o morales que pretendan llevar a cabo encuestas para dar a conocer las preferencias electorales de los ciudadanos, adoptarán, por lo menos los criterios generales de carácter científico, que para tal efecto determine la Junta General del Instituto.
@@ -3310,3 +3332,9 @@ La adecuación de la normatividad que resulte necesaria efectuar conforme a las 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo, mismo que entrará en vigor al día siguiente que adquiera vigencia el Decreto por el que se reforma el párrafo tercero de la fracción II del Artículo 49 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO.- El reglamento a que se refiere el Artículo 144 de la Ley Electoral del Estado, deberá ser expedido a más tardar dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
