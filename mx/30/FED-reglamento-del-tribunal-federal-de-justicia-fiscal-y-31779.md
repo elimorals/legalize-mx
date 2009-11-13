@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-tribunal-federal-de-justicia-fiscal-y-31779"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-12"
-last_updated: "2003-06-12"
+last_updated: "2009-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31779&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,846 +19,872 @@ issue_date: "2003-06-10"
 ---
 # REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, PARA DAR CUMPLIMIENTO A LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
 
-REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, PARA DAR CUMPLIMIENTO A LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
 
-Reglamento publicado en la Primera sección del Diario Oficial de la Federación, el jueves 12 de junio de 2003.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Federal de Justicia Fiscal y Administrativa.- Pleno de Sala Superior.
+Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 10 de septiembre de 2004.
 
-ACUERDO No. G/18/2003 DEL DIA DIEZ DE JUNIO DE DOS MIL TRES, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO PARA DAR CUMPLIMIENTO A LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL.
+ARTURO MONTIEL ROJAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-EL PLENO DE LA SALA SUPERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, CON LAS FACULTADES QUE LE CONFIERE LO DISPUESTO POR EL ARTICULO 16, FRACCION X, DE LA LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, AL TENOR DE LOS SIGUIENTES:
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-CONSIDERANDOS
+DECRETO NUMERO 75
 
-El Tribunal Federal de Justicia Fiscal y Administrativa, está dotado de plena autonomía para dictar sus fallos y tiene la obligación de servir al país con eficiencia, eficacia, transparencia, probidad, credibilidad, así como de informar oportunamente a los usuarios y a la sociedad en general.
+LA H. "LV" LEGISLATURA DEL ESTADO DE MEXICO
 
-El acceso a la información en el Tribunal, es un derecho fundamental para la sociedad y debe ofrecerse con pleno respeto a la integridad de las personas y de la institución.
+DECRETA:
 
-La Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, establece en su artículo 7, la obligación a los Tribunales Administrativos para garantizar el acceso de toda persona a la información.
+###### ARTICULO UNICO.
 
-Nuestra institución siempre se ha encontrado abierta al escrutinio de los recursos que maneja y dispuesta a una rendición de cuentas clara y transparente, que genere en el país una cultura de confianza en las instituciones públicas, por lo que se considera necesario para el óptimo desarrollo de las funciones de este Tribunal contar con lineamientos debidamente establecidos para transparentar las funciones y operación de la institución.
+Se expide la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de México, conforme al tenor siguiente:
 
-En el ámbito de impartición de Justicia Fiscal y Administrativa, el acceso a la información involucra cuatro esferas de interés a proteger y armonizar: 1) La salvaguarda de la privacidad de los miembros del Tribunal, 2) La salvaguarda de juicios en cuanto no hayan causado estado u otros que se consideren confidenciales, 3) El respeto a la garantía constitucional del derecho a la información, y 4) La vigencia de la autonomía del Tribunal.
+LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MEXICO
 
-Ha tenido a bien expedir el siguiente:
+## TITULO PRIMERO
 
-ACUERDO
-
-Por el que se aprueba el Reglamento del Tribunal Federal de Justicia Fiscal y Administrativa, para dar cumplimiento con lo establecido en el artículo 61 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
-
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1.
 
-Las disposiciones de este reglamento son de orden e interés público y tienen como finalidad el cumplir con lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, al regular los lineamientos generales necesarios para garantizar el acceso a toda persona a la información y contribuir a la democratización de la sociedad mexicana y a la plena vigencia del Estado de Derecho, aplicando para su interpretación el principio de publicidad de la información en posesión del Tribunal.
+Las disposiciones de esta ley son de orden público, interés social y observancia general y tienen por objeto garantizar las bases y procedimientos sobre los derechos, prevención y atención de las niñas, niños y adolescentes en el Estado de México, lo que será considerado por todas las instituciones públicas o privadas.
 
 ###### ARTICULO 2.
 
-Toda la información a que se refiere este reglamento y contenida en el Tribunal, es pública. Los particulares podrán tener acceso a la misma en los términos y con las limitaciones que en la ley y en el presente reglamento se señalen.
+La presente Ley tiene por objeto:
+
+I. Garantizar y promover el ejercicio de los derechos de las niñas, niños y adolescentes;
+
+II. Establecer los principios que orienten las políticas públicas a favor de las niñas, niños y adolescentes;
+
+III. Fijar los lineamientos y establecer las bases para la instrumentación y evaluación de las políticas públicas y de las acciones de defensa y representación jurídica, asistencia, provisión, prevención, protección y participación para la promoción y vigencia de los derechos de las niñas, niños y adolescentes a fin de:
+
+a). Impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para las niñas, niños y adolescentes;
+
+b). Establecer los mecanismos que faciliten el ejercicio de los derechos de las niñas, niños y adolescentes;
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+c). Promover la cultura de respeto y equidad de género hacia las niñas, niños y adolescentes en el ámbito familiar, comunitario, social, público y privado;
+
+d). Establecer las facultades y obligaciones de la Administración Pública para el cumplimiento de la presente Ley.
 
 ###### ARTICULO 3.
 
-La transparencia y acceso a la información en el Tribunal tiene como principales objetivos:
-
-I. Asegurar que todo usuario y el público en general pueda tener acceso a la información correspondiente a este Tribunal, mediante procedimientos sencillos y expeditos;
-
-II. Transparentar la gestión mediante la difusión de la información generada por el Tribunal, en los términos y con las limitaciones que en la ley y en el presente reglamento se determinan;
-
-III. Garantizar la protección de la información reservada en términos de la ley;
-
-IV. Fortalecer el sistema de rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño de los fines para los cuales fue creado el Tribunal;
-
-V. Mejorar la organización, clasificación y manejo de los documentos que se encuentren en poder del Tribunal.
+La aplicación de esta Ley estará a cargo del Ejecutivo Estatal a través de sus dependencias, el Sistema para el Desarrollo Integral de la Familia de la Entidad; las autoridades judiciales; los Municipios a través de sus Dependencias y los Sistemas Municipales para el Desarrollo Integral de la Familia en sus respectivos ámbitos de competencia y jurisdicción.
 
 ###### ARTICULO 4.
 
-El presente reglamento es de observancia obligatoria para todas las autoridades y servidores públicos del Tribunal. El funcionario público o autoridad responsable que en forma deliberada obstruya el acceso del solicitante a la información requerida, o dolosamente la suministre en forma incompleta o errónea, u obstaculice de cualquier modo el cumplimiento de la ley o de este Reglamento, incurre en falta grave para efectos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Para los efectos de esta Ley, se entiende por:
+
+I. Ley: A la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes en el Estado de México;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2010)</small>
+
+II. Niña o Niño: Toda persona cuya edad sea menor a doce años cumplidos;
+
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2010)</small>
+
+III. Adolescente: Toda persona cuya edad este comprendida entre los doce años cumplidos y menor a los dieciocho años cumplidos;
+
+IV. Interés superior de las niñas, niños y adolescentes: Este interés implica que las políticas, las acciones y la toma de decisiones de las instituciones publicas, privadas, tribunales, autoridades administrativas o los órganos legislativos, relacionados con este periodo de vida, deberán dar prioridad a los derechos reconocidos en los ordenamientos legales;
+
+V. Abandono: Situación de desamparo que viven las niñas, los niños y adolescentes cuando sus progenitores, quienes ejercen la patria potestad, tutores o responsables de su cuidado dejan de proporcionar los medios de subsistencia y cuidados necesarios para su desarrollo integral. Lo que implica la imposibilidad de desarrollarse física, mental, emocional, social y moralmente en condiciones de igualdad.
+
+VI. Desarrollo Integral: Conjunto de acciones que deben realizar el Estado, la familia y la sociedad a favor de las niñas, los niños y adolescentes, a efecto de satisfacer las necesidades básicas y garantizar sus derechos;
+
+VII. Atención y Protección Integral Especial: Conjunto de acciones que deben realizar el Estado, la Familia y la Sociedad a favor de niñas, niños y adolescentes que se encuentren en condiciones de desventaja social, física o mental y que tienen por objeto garantizar el ejercicio de sus derechos, satisfacer sus necesidades básicas y propiciar su desarrollo biopsicosocial;
+
+VIII. Albergue Temporal: Es el centro donde físicamente se brinda amparo y educación a las niñas, a los niños o adolescentes por el tiempo determinado en que haya sido abandonado, extraviado, maltratado o se encuentre en estado de orfandad, coadyuvando para su reintegración social y familiar;
+
+IX. Familia Sustituta o adoptiva: Grupo de individuos que va a sustituir provisional o permanentemente a la familia biológica de la niña, el niño o el adolescente;
+
+X. Maltrato: Todo acto de agresión física, psicoemocional, verbal, patrimonial o sexual que cause daño a la integridad de las niñas, niños y adolescentes;
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Discapacidad: Aquellas personas que sufren una pérdida, alteración o disminución de un órgano o función física, sensorial o intelectual, que limita las actividades de la vida diaria e impide su desarrollo individual y social;
+
+XII. (DEROGADA, G.G. 1 DE SEPTIEMBRE DE 2011)
+
+XIII. Niñas, niños y adolescentes que se encuentren en circunstancias especialmente difíciles: Aquellas que dentro o fuera del ámbito familiar y en especial por causas de pobreza o miseria, estén temporal o permanentemente sujetos a:
+
+a) Abandono;
+
+b) Maltrato físico, psicoemocional, verbal, todo tipo de explotación contemplada en la Legislación vigente;
+
+c) Desintegración Familiar;
+
+d) Enfermedades severas físicas, mentales o emocionales;
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+e) Alguna discapacidad;
+
+f) Padres privados de la libertad;
+
+g) Ser víctimas de cualquier abuso, explotación laboral o sexual; y
+
+h) Cualquier otra situación, contingencia o actividad que ponga en riesgo o impida su desarrollo integral.
+
+XIV. Acciones de Prevención: Aquellas que deben realizarse por los órganos locales de gobierno, familia y sociedad a fin de evitar el deterioro de las condiciones de vida de las niñas, niños y adolescentes, así como las situaciones que pongan en riesgo su supervivencia y desarrollo;
+
+XV. Medidas de Protección: Aquellas que deben realizar las autoridades encargadas de la aplicación de la presente Ley, en atención al interés superior del menor para protegerlo en sus esferas física y biopsicosocial;
+
+XVI. Acciones de Provisión: Aquellas que deben realizarse por los órganos de gobierno, familia y sociedad a fin de garantizar la sobrevivencia, bienestar y desarrollo pleno de las niñas, niños y adolescentes para dar cumplimiento a sus derechos;
+
+XVII. Actividades Marginales: Aquellas que realizan las niñas, niños y adolescentes que se encuentran o vivan en circunstancias de desventaja social con el fin de obtener recursos económicos, al margen de las normas jurídicas que regulan el trabajo;
+
+XVIII. Asistencia Social: Al Conjunto de acciones de prevención y provisión tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+XIX. Atención Integral: Conjunto de acciones que deben realizar los Organos Locales de Gobierno, familia y sociedad a favor de las niñas, niños y adolescentes, tendientes a satisfacer sus necesidades básicas, propiciar su desarrollo integral y garantizar sus derechos;
+
+XX. Organizaciones sociales y privadas: A todas aquellas Instituciones o Asociaciones, que realicen acciones a favor de las niñas, niños y adolescentes en el Estado de México;
+
+XXI. Consejo: Al Consejo Estatal para la Protección y Vigilancia de los Derechos de las Niñas, Niños y Adolescentes;
+
+XXII. Hogar Provisional: El núcleo familiar que proporciona alojamiento temporal, cuidados y atenciones a una niña, niño o adolescente en situación de desamparo, con el objeto de brindarle un ambiente propicio para su atención integral;
+
+XXIII. Estado: Al Estado de México.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 5.
 
-Además de las definiciones contenidas en la ley, para la correcta aplicación de las disposiciones de este reglamento se entenderá por:
-
-I. Ley: La Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
-
-II. Tribunal: El Tribunal Federal de Justicia Fiscal y Administrativa.
-
-III. Pleno: El Pleno de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa.
-
-IV. Comisión: La Comisión de Recursos para la Transparencia de la Información, encargada de resolver los recursos contemplados en este reglamento.
-
-V. Comité: El Comité de Información, nombrado en apego a las disposiciones de la ley.
-
-VI. Unidad de Enlace: La Unidad de Enlace, integrada por los servidores públicos que determine el Comité.
-
-VII. Servidores Públicos: Toda persona que labore en el Tribunal, que se encuentre en el supuesto contenido en el párrafo primero del artículo 108 constitucional y que maneje o aplique recursos públicos federales.
-
-VIII. Información reservada y confidencial: La información que se encuentra en las Unidades Administrativas clasificada como tal, los datos personales, así como las previstas con ese carácter en los artículos 13 y 14 de la ley.
+Esta Ley se aplicará a las niñas, niños y adolescentes sin distinción alguna independientemente de su origen, cultura, sexo, idioma, religión, ideología, nacionalidad, discapacidades, circunstancias de nacimiento o cualquier otra condición propia de quienes legalmente ejerzan la patria potestad, su guarda o tutela en términos de las disposiciones aplicables, de la Legislación Civil o Penal para el Estado de México.
 
 ###### ARTICULO 6.
 
-La información a que se refiere este capítulo deberá publicarse en los medios de comunicación electrónica del Tribunal en forma clara, sencilla y veraz, para facilitar el uso y comprensión de toda persona usuaria. Dicha información deberá ponerse a disposición del público en general y actualizarse periódicamente.
+Las autoridades estatales, municipales, instituciones de asistencia pública o privada y cualquier persona que tenga conocimiento de alguna niña, niño o adolescente que se encuentre en condiciones de vulnerabilidad o desventaja social, considerándose como tales el maltrato, abandono, abuso y explotación de todo tipo, y en los supuestos de sustracción o su suplantación ilegal de la tutela, deberá solicitar la intervención de las autoridades competentes.
 
 ###### ARTICULO 7.
 
-Con excepción de la información reservada y confidencial así como al personal de los servidores públicos del Tribunal, toda persona tendrá derecho de acceso a la información siguiente:
+Esta ley no afectará el ejercicio de los derechos que puedan corresponder a las niñas, niños y adolescentes, conforme a otros ordenamientos jurídicos vigentes, ni afectará los principios procesales aplicables en controversias de orden familiar.
 
-I. El marco normativo aplicable al Tribunal;
+## TITULO SEGUNDO. DE LOS PRINCIPIOS RECTORES Y DE LOS DERECHOS FUNDAMENTALES DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
-II. Competencia del Tribunal;
-
-III. La estructura orgánica;
-
-IV. Las atribuciones y facultades de cada unidad jurisdiccional y administrativa;
-
-V. El directorio de servidores públicos, a partir de jefes de departamento o sus equivalentes;
-
-VI. El Tabulador Autorizado;
-
-VII. Los acuerdos de la Sala Superior;
-
-VIII. El listado aprobado de Acuerdos y Resoluciones emitidas por las Salas Regionales y enviadas para su notificación a la actuaría;
-
-IX. Los expedientes de los juicios que hayan causado estado y que acuerde el Presidente de la Sala que corresponda, a excepción de los clasificados como información reservada o confidencial;
-
-X. Del Comité de Adquisiciones, Arrendamientos y Servicios y del Comité de Bienes Muebles;
-
-XI. El Programa de Capacitación del Tribunal;
-
-XII. Las revistas y libros publicados por el Tribunal;
-
-XIII. El domicilio de la Unidad de Enlace, además del teléfono y la dirección electrónica donde podrán recibirse las solicitudes de información;
-
-XIV. El domicilio y ubicación de los módulos de información;
-
-XV. El o los órganos encargados de proporcionar información;
-
-XVI. La Información del Presupuesto Autorizado;
-
-XVII. Los resultados finales de las auditorías realizadas;
-
-XVIII. Las contrataciones que se hayan realizado;
-
-XIX. Los informes que se generen por disposición legal;
-
-XX. La dirección electrónica del Tribunal;
-
-XXI. La información sobre los recursos y medios de defensa en contra de los actos del Tribunal;
-
-XXII. La información sobre plazos jurisdiccionales;
-
-XXIII. La información sobre el tipo de materias controvertibles;
-
-XXIV. Los trámites, requisitos y formatos para solicitar información;
-
-XXV. Los recursos procedentes en contra de la negativa a proporcionar información;
-
-XXVI. La que por ley esté obligada a proporcionar, y
-
-XXVII. Cualquier otra información relevante o de utilidad pública, no clasificada como reservada o confidencial.
-
-### CAPITULO II. OBLIGACIONES DE TRANSPARENCIA
+### CAPITULO PRIMERO. DE LOS PRINCIPIOS RECTORES
 
 ###### ARTICULO 8.
 
-Se clasifica como Información Reservada:
+Son principios rectores en la observancia, interpretación y aplicación de esta ley, los siguientes:
 
-I. La que por ley se clasifique con ese carácter;
+I. El interés superior de las niñas, niños y adolescentes ante cualquier otro interés que vaya en su perjuicio, lo que implica que las políticas, las acciones y la toma de decisiones de las Instituciones Públicas, Privadas, Tribunales, Autoridades Administrativas o los Organos Legislativos, relacionadas con este periodo de vida, deberán dar prioridad a los derechos reconocidos en los ordenamientos legales, a fin de que la Niña, el Niño o el Adolescente alcancen su desarrollo, la plenitud de sus aptitudes y de la capacidad mental y física hasta el máximo de sus posibilidades; tomando en consideración que cada uno de ellos es una universalidad y una individualidad en la que la familia, la comunidad y el propio estado garantizarán ese pleno desarrollo;
 
-II. Los expedientes de los juicios, quejas o procedimientos en trámite ante las Salas Regionales, Sala Superior y Contraloría Interna;
+II. La corresponsabilidad o concurrencia; que asegure la participación y responsabilidad de la familia, dependencias gubernamentales y sociedad, en la atención de las niñas, niños y adolescentes;
 
-III. Los datos y documentos que integren los expedientes de los juicios y procedimientos en los que el Tribunal sea parte;
+III. La igualdad y equidad en todos los ámbitos que conciernen a las niñas, niños y adolescentes;
 
-IV. El contenido, desarrollo y conclusiones de las investigaciones que se realicen por el Tribunal o en aquellas que éste colabore, antes de su conclusión;
+IV. La familia como espacio primordial de desarrollo;
 
-V. La que contenga opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los integrantes de los cuerpos colegiados del Tribunal y de la Contraloría Interna;
+V. El desarrollo en un ambiente libre de violencia y contaminación;
 
-VI. Los procedimientos de responsabilidad de los servidores públicos, en tanto no se haya dictado la resolución administrativa o jurisdiccional definitiva;
+VI. Que la niña, niño o adolescente tiene diversas etapas de desarrollo y necesidades que deben llevar a la elaboración de respuestas gubernamentales especiales y políticas públicas específicas, dependiendo de la etapa de desarrollo en la que se encuentren, con el objeto de procurar que todas las niñas, niños y adolescentes ejerzan sus derechos con equidad;
 
-VII. La correspondiente a procedimientos de valoración jurisdiccional, administrativa, pericial o laboral que se encuentren en trámite, y
+VII. El de respeto universal a la diversidad cultural, étnica y religiosa; y
 
-VIII. La que por disposición expresa de un ordenamiento sea considerada como tal.
+VIII. El respeto de usos y costumbres por las autoridades administrativas y judiciales.
 
-### CAPITULO III. INFORMACION RESERVADA Y CONFIDENCIAL
+### CAPITULO SEGUNDO. DE LOS DERECHOS
 
 ###### ARTICULO 9.
 
-Se clasifica como Información Confidencial:
+Son derechos de las niñas, niños y adolescentes en el Estado de México, de manera enunciativa, mas no limitativa, los siguientes:
 
-I. La que por ley tenga ese carácter;
+I. El respeto a la vida, integridad, privacía y dignidad personal:
 
-II. La entregada con ese carácter por los particulares a cualquier unidad administrativa o jurisdiccional del Tribunal;
+a) A la vida con calidad, siendo obligación del padre y la madre, tutores o de quien ejerza la patria potestad, de la familia y de la sociedad garantizar su sobrevivencia y su desarrollo, y tener acceso a los medios y mecanismos necesarios para ello; el Estado debe garantizar y proteger este derecho, con políticas públicas que garanticen su supervivencia, seguridad y desarrollo integral;
 
-III. Los datos personales de los servidores públicos del Tribunal, siempre y cuando no se hallen en los registros públicos o en fuentes de acceso público, de conformidad con lo establecido en el artículo 18, fracción II, de la ley.
+b) El de tener una vida libre de violencia: física, verbal, moral, psicológica, sexual o de cualquier otro tipo;
+
+c) A la no discriminación, por lo que la observancia de sus derechos se hará sin distinción alguna, independientemente del fenotipo, color, sexo, idioma, religión, opinión, nacionalidad, origen o étnia, situación económica, impedimentos físicos o mentales, nacimiento o cualquier otra condición o impedimento;
+
+d) A ser protegido contra toda forma de explotación;
+
+e) A ser respetado en su integridad física, psicoemocional y sexual;
+
+f) A recibir protección por parte de sus progenitores, de quienes ejerzan la patria potestad, tutores, familiares, dependencias, la sociedad y las instituciones privadas;
+
+g) A recibir información por las instancias correspondientes respecto de cuestiones de seguridad pública y de protección civil; y
+
+h) A recibir información sobre el cuidado del medio ambiente.
+
+II. La identidad, seguridad jurídica y familia:
+
+a) A la identidad tomando como base el conjunto de atributos y derechos de la personalidad conforme a lo previsto en la legislación civil;
+
+b) A ser registrado después de su nacimiento con un nombre y apellidos propios, en términos de lo previsto por las disposiciones Civiles correspondientes;
+
+c) A solicitar y recibir información sobre su origen, identidad de sus padres, salvo los casos en que la Ley lo prohíba;
+
+d) A vivir y crecer en el seno de una familia, conocer a sus progenitores y mantener relaciones personales y contacto directo con ellos, aún en el caso de estar separados, salvo si ello, es contrario al interés superior de la niña, niño o adolescente;
+
+e) A no ser separados de sus padres, tutores o quien ejerza la patria potestad, excepto mediante sentencia u orden preventiva judicial que declare legalmente la separación;
+
+f) A emitir su opinión en todos los asuntos que le afecten y a ser escuchado, tomando en cuenta su edad y madurez en los procedimientos judicial, administrativo o laboral, de manera directa o por su representante legal;
+
+g) A recibir un trato digno y apropiado cuando sean víctimas de cualquier ilícito o bien por cometer infracciones;
+
+h) A recibir apoyo de las dependencias en lo relativo al ejercicio y respeto de sus derechos a través de instituciones creadas para tal efecto; y
+
+i) A integrarse libremente y sin presión de ninguna autoridad, institución u organización, a un hogar provisional y a recibir los beneficios de la adopción llegado el caso.
+
+III. La Salud y Alimentación:
+
+a) A poseer, recibir o tener acceso a los satisfactores necesarios, considerando a los alimentos, bienes, servicios y condiciones que posibiliten su desarrollo armónico e integral;
+
+b) A tener acceso a los servicios médicos necesarios para la prevención, tratamiento, atención y rehabilitación de discapacitados y enfermedades físicas o mentales, de acuerdo a las bases y modalidades que establecen las disposiciones jurídicas en la materia;
+
+c) A recibir orientación y capacitación para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como todo lo que favorezca a su cuidado personal;
+
+d) A ser protegidos y orientados contra el consumo de drogas, estupefacientes, uso de tecnologías o cualquier otra situación que les genere estado de dependencia o adicción;
+
+e) A la salud y servicios integrales para la prevención, tratamiento de enfermedades físicas o mentales, atención y rehabilitación que permitan las leyes de la materia; y
+
+f) A recibir información y orientación para que se les inculque el respeto a toda biodiversidad, al medio ambiente que le rodea, a efecto de que se vaya creando conciencia de que el deber del hombre como ser pensante es proteger y desarrollar una manera sustentable de nuestro entorno natural de vida.
+
+IV. La educación, recreación, información y participación:
+
+a) A ser tomados en cuenta para cualquier acto relacionado con su vida personal y social;
+
+b) A reunirse de manera pública o privada con otras personas, con fines sociales, culturales, deportivos, recreativos, religiosos, económicos, o de cualquier otra índole siendo lícitos y pacíficos, sin más limitaciones que las que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y otras Leyes;
+
+c) A recibir información adecuada en sus etapas de crecimiento, promover su bienestar social, salud biopsicosocial y sexual, enalteciendo los valores de paz, equidad, democracia, solidaridad, libertad, justicia, respeto y tolerancia;
+
+d) A recibir educación de calidad, conforme lo señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos;
+
+e) A participar en el desarrollo de la comunidad, en la vida familiar, social, escolar, científica, cultural, deportiva y recreativa, sin más limitaciones que aquellas que establezcan las leyes y dicte el respeto a los derechos de terceros;
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+f) A expresar su opinión libremente, conocer sus derechos y a ser escuchados en el ámbito familiar y comunitario, así como todo procedimiento administrativo o judicial que afecte sus esferas, personal, familiar y social;
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+g) A solicitar ante la Comisión de Derechos Humanos del Estado, el documento que lo acredite como promotor de sus derechos; y
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+h) A acceder al conocimiento y a la tecnología para su educación, información, diversión, esparcimiento y comunicación.
+
+V. La Asistencia Social:
+
+a) A ser sujetos de programas de asistencia social, cuando se encuentren o vivan circunstancias de desventaja social, que garanticen la protección integral, en tanto puedan valerse por si mismos y que les permitan recuperar su salud y equilibrio personal, en caso de daño físico o mental.
+
+Corresponde al Estado, a la familia y a la sociedad en general, velar por los derechos de las niñas, niños y adolescentes procurándoles en todo momento cuidado, protección, afecto y respeto, estando obligados a hacer del conocimiento a las autoridades competentes cualquier abuso, maltrato físico, psicológico y emocional que sea realizado en contra de estos.
+
+VI. Los demás que les reconozcan los ordenamientos legales.
 
 ###### ARTICULO 10.
 
-En términos de lo previsto en la fracción VI del artículo 14 de la Ley, constituye información reservada la relativa a las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo que sigue el Pleno, las Secciones de la Sala Superior o las Salas Regionales de este Tribunal, para emitir sus fallos, dentro de la que se ubica la que consta en los proyectos de resolución presentados por los señores Magistrados, los dictámenes elaborados respecto de dichos proyectos, las versiones escritas de los intercambios de ideas que tienen lugar en las sesiones privadas que celebren dichos órganos y cualquier otra de esa naturaleza.
+Las niñas, niños y adolescentes gozarán de todos los derechos y garantías contemplados en la Constitución Política de los Estados Unidos Mexicanos, en la Convención sobre los Derechos del Niño, en la Ley Federal para la Protección de los Derechos de las Niñas, Niños y Adolescentes, en la Constitución Política del Estado Libre y Soberano de México, en los Principios Generales de Derecho, y en esta Ley.
 
-La referida información y los medios en que se plasme podrán hacerse públicos una vez que se haya emitido la resolución respectiva y en términos de lo que se establezca en los lineamientos que al efecto expida el Comité de Información.
+###### ARTICULO 11.
 
-Conforme a lo previsto en el artículo 63, fracción V, de la Ley, incurre en una falta administrativa grave el que difunda la información reservada a que se refiere el párrafo primero de este artículo, la cual será sancionada en términos de lo previsto por la Ley Federal de Responsabilidades de los Servidores Públicos.
+Los Sistemas para el Desarrollo Integral de la Familia en sus respectivos ámbitos de competencia, establecerán los mecanismos para que se logre que las niñas, niños y adolescentes que lo requieran ejerzan plenamente los derechos estipulados en este capítulo, propiciando:
 
-Las sentencias ejecutorias del Tribunal, tienen el carácter de información pública y se difundirán a través de cualquier medio, ya sea impreso o electrónico o por cualquier otro que por innovación tecnológica lo permita.
+I. La participación de hogares provisionales en su cuidado y protección cuando se encuentren privados de su familia de origen, como una de las opciones temporales garantizando la determinación de su certeza jurídica ante la autoridad; y
 
-Con el fin de respetar el derecho a la intimidad de las partes, al hacerse públicas las sentencias se omitirán sus datos personales cuando constituyan información reservada en términos de lo dispuesto en los lineamientos que al efecto expida el Comité de Información, sin menoscabo de que aquéllas puedan, dentro de la instancia seguida ante este Tribunal y hasta antes de dictarse sentencia, oponerse a la publicación de dichos datos, en relación con terceros, lo que provocará que aquéllos adquieran el carácter de confidenciales.
+II. La institución de la adopción de conformidad con lo dispuesto por el Código Civil del Estado de México.
 
-En todo caso, durante el plazo de doce años contados a partir de la entrada en vigor de este Reglamento, en términos de lo previsto en los artículos 13, fracción IV y 15 de la Ley, los expedientes relativos a los asuntos de naturaleza penal o familiar constituyen información reservada, por lo que en los medios en que se hagan públicas las sentencias respectivas se deberán suprimir los datos personales de las partes.
+## TITULO TERCERO. DE LAS RESPONSABILIDADES Y OBLIGACIONES
 
-> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 2003)</small>
-
-En los asuntos de la competencia de este Tribunal, en el primer acuerdo que en ellos se dicte, deberá señalarse a las partes el derecho que les asiste para oponerse, en relación con terceros, a la publicación de sus datos personales, en la inteligencia de que la falta de oposición conlleva su no consentimiento para que la sentencia respectiva se publique con sus datos personales.
-
-###### Artículo 11.
-
-La Unidad de Enlace será la responsable de salvaguardar la confidencialidad de los datos personales, para lo que deberá:
-
-I. Adoptar las medidas necesarias que garanticen la seguridad, conservación, actualización y acceso no autorizado de los datos personales;
-
-II. Elaborar los formatos de solicitud de información;
-
-III. Elaborar los procedimientos adecuados para recibir y responder las solicitudes de acceso, corrección de datos, así como los recursos de revisión y reconsideración, y
-
-IV. Sustituir, rectificar o completar de oficio, los datos personales que fueren inexactos, o incompletos, en el momento en que se tenga conocimiento de tal situación.
-
-### CAPITULO IV. DEL COMITE DE INFORMACION Y DE LA UNIDAD DE ENLACE
+### CAPITULO PRIMERO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES
 
 ###### ARTICULO 12.
 
-No se requerirá el consentimiento de los titulares, para proporcionar los datos personales en los siguientes casos:
-
-I. Cuando se trate de razones estadísticas, científicas o de interés general, previo procedimiento por el cual no puedan asociarse los datos personales con el individuo a que se refieren;
-
-II. Por orden judicial;
-
-III. Cuando se transmitan entre entidades y dependencias para su utilización en el ámbito de su competencia, y
-
-IV. En los demás casos que exista un ordenamiento legal aplicable.
-
-SOLICITUD DE MODIFICACION DE DATOS PERSONALES.
+Cuando se suscite un conflicto entre dos derechos de satisfacción incompatible, la autoridad aplicará los principios contemplados en la presente Ley, allegándose de los medios comprobatorios que acrediten la necesidad de ponderar la supremacía de un derecho respecto del otro, aplicando en forma armónica las normas concurrentes al caso concreto.
 
 ###### ARTICULO 13.
 
-Sólo las personas interesadas, por sí mismos o por medio de sus representantes podrán solicitar, previa acreditación de su personalidad, ante la Unidad de Enlace o ante el módulo de información correspondientes, y mediante la presentación del formato de solicitud de modificación de datos, para estos casos autorizado, que le sean proporcionados o modificados sus datos que obren en cualquier sistema de datos personales del Tribunal.
+El interés superior de las niñas, niños y adolescentes orientará la actuación de las dependencias gubernamentales encargadas de la defensa, representación jurídica, previsión, prevención, protección especial y participación de las niñas, niños y adolescentes, debiéndose reflejar en las siguientes acciones:
 
-A pesar de lo dispuesto en el párrafo anterior, no se requerirá el consentimiento de los individuos para proporcionar los datos personales en los casos establecidos en el artículo 22 de la ley.
+a) Asignación de recursos públicos para programas relacionados con las niñas, niños y adolescentes;
 
-La obligación de proporcionar o modificar los datos solicitados, se regirá por los siguientes lineamientos:
+b) Atención a las niñas, niños y adolescentes en los servicios públicos; y
 
-I. La entrega o modificación de los datos personales será gratuita, y sólo procederá el cobro de la misma en los términos y con las salvedades establecidas para ello en los artículos 24 y 27 de la ley.
-
-II. Los formatos de solicitud de datos o de modificación de los mismos datos deberán de contener los siguientes requisitos:
-
-a) el nombre del solicitante y domicilio u otro medio para recibir notificaciones, como el correo electrónico;
-
-b) los datos generales de su representante, en su caso;
-
-c) el documento o el archivo en el que conste la representación con la que actúa, si es que se promueve a nombre de otra persona;
-
-d) la descripción clara y precisa de los documentos que solicita, o los datos que requiere sean modificados;
-
-e) la información del archivo, expediente o base de datos, en donde se encuentran los datos que se solicita, o que requiere se modifiquen, o cualquier otro dato que propicie su localización con objeto de facilitar su búsqueda;
-
-f) los datos solicitados o que requiere se modifiquen, y
-
-g) en su caso, las constancias documentales en donde consten los datos verídicos y que sustenten su petición, mismas que deberán de anexarse a dicha solicitud.
-
-Cuando no se cumpla con alguno de estos requisitos, la Unidad de Enlace, requerirá al promovente para que dentro del término de diez días cumpla con los mismos. Si dentro del plazo señalado no se cumple con los contenidos en los incisos a), b), c), d), e) y f), se tendrá por no presentada la solicitud, y si se trata del contenido en el inciso g), de este precepto, se tendrá por no presentada la documental o documentales ofrecidas.
-
-Plazos para la entrega de documentación y para la modificación de datos.
-
-III. La entrega de la documentación solicitada o para la modificación de datos se deberá de efectuar en los siguientes plazos:
-
-a).- La entrega de toda documentación solicitada, deberá de hacerse dentro del plazo de diez hábiles contados a partir de la presentación de la solicitud, o de que venza el término para cumplimentar el requerimiento al que alude el artículo anterior; a menos de que medie impedimento legal o material de por medio, o que la información solicitada no esté en poder de este tribunal, caso en el cual deberá de expedirse la constancia a la que alude el artículo 30 segundo párrafo de este Reglamento. Dicha entrega deberá efectuarse en formato comprensible al solicitante.
-
-b).- Cuando se trate de una solicitud de modificación de datos personales, aquélla deberá de ser entregada al solicitante, en un plazo de 30 días hábiles contados a partir de la presentación de la solicitud, o de que venza el término para cumplimentar el requerimiento al que alude el artículo 25, del presente ordenamiento. Dicha entrega deberá efectuarse en una comunicación que haga constar las modificaciones o bien, le informe de manera fundada y motivada, las razones por las cuales no procedieron las mismas.
-
-IV. Contra la negativa de entrega, modificación o corrección de datos personales, procederá la interposición del recurso de revisión. También procederá en el caso de falta de respuesta en los plazos a que se refiere el precepto anterior.
+c) Elaboración y ejecución de acciones públicas dirigidas a las niñas, niños y adolescentes.
 
 ###### ARTICULO 14.
 
-Para cumplir con lo dispuesto en los artículos 28 y 29 de la ley, se constituirá un Comité de Información y una Unidad de Enlace; ésta dependerá del Comité.
+Los Organos de Gobierno del Estado y de los Municipios están obligados a otorgar y garantizar de la mejor forma posible, los servicios de defensa y representación jurídica para preservar los intereses de las niñas, niños y adolescentes, mismos que deberán ser gratuitos, a través de los Sistemas para el Desarrollo Integral de la Familia en sus respectivos ámbitos de competencia.
 
 ###### ARTICULO 15.
 
-El Comité de Información es el órgano encargado de promover y difundir el ejercicio del derecho de acceso a la información y de observar lo dispuesto por el artículo 29 de la ley, en lo que le sea aplicable.
+La Secretaría de Desarrollo Social, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de México, instrumentará los mecanismos conforme a los cuales las autoridades y las Instituciones apoyen y asistan a los progenitores y demás miembros de la familia en cumplimiento de sus responsabilidades.
 
 ###### ARTICULO 16.
 
-El Comité establecerá los criterios para la clasificación y desclasificación de la información reservada, de conformidad con lo establecido en los artículos 13 y 14 de la ley.
+El Ejecutivo del Estado en coordinación con la Secretaría de Desarrollo Social y el Sistema para el Desarrollo Integral de la Familia del Estado de México, y demás dependencias locales y federales, establecerán las normas y mecanismos necesarios a fin de que cuando una niña, niño o adolescente se vea separado de su familia de origen, se procure su reencuentro con ella o bien, para la localización de sus familiares en los casos de abandono, sustracción o retención ilícita, separación por ausencia o muerte de sus progenitores.
 
 ###### ARTICULO 17.
 
-El Comité estará integrado por:
-
-I. El Presidente del Tribunal;
-
-II. Un Magistrado designado por el Presidente del Tribunal;
-
-III. El Oficial Mayor, y
-
-IV. El Contralor Interno.
+Cuando una niña, niño o adolescente se vea privado de su familia, tendrá derecho a recibir apoyo de la Secretaría de Desarrollo Social y del Sistema para el Desarrollo Integral de la Familia del Estado o de los Municipios, quienes deberán brindarle asistencia social, atención integral y en su caso, procurarle un hogar provisional.
 
 ###### ARTICULO 18.
 
-El Comité y la Unidad de Enlace, contarán con un Secretario Técnico, que será designado por el Comité.
+Corresponde a los Sistemas para el Desarrollo Integral de la Familia del Estado y Municipios en materia de niñas, niños y adolescentes:
 
-### CAPITULO V. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACION
+I. Realizar las actividades de asistencia social, así como fomentar y promover la estabilidad y el bienestar familiar;
+
+II. Proporcionar en forma gratuita los servicios de asistencia jurídica y orientación a las niñas, niños y adolescentes, a sus progenitores, familiares, tutores o quienes los tengan bajo su cuidado. Patrocinar y representar a las niñas, niños y adolescentes ante los órganos jurisdiccionales en los trámites o procedimientos relacionados con éstos;
+
+III. Realizar acciones de prevención y protección a niñas, niños y adolescentes maltratados, en desamparo o con problemas sociales, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas para su custodia, formación e instrucción, así como garantizar en todo momento su situación jurídica conforme a lo previsto en el Código Civil del Estado de México;
+
+IV. Coadyuvar con la Procuraduría General de Justicia del Estado en la atención y tratamiento de las niñas, niños y adolescentes víctimas del delito;
+
+V. Impulsar y promover el reconocimiento y ejercicio de los derechos de las niñas, niños y adolescentes en condiciones de desventaja social y establecer centros de información y denuncia que permita canalizar ante la representación social los hechos constitutivos de delito, cometidos en agravio de los menores y gestionar la atención de los mismos;
+
+VI. Ejecutar acciones y programas de protección especial para las niñas, niños y adolescentes en condiciones de desventaja social;
+
+VII. Promover mediante la vía conciliatoria, la solución a la problemática familiar, cuando no se trate de delitos tipificados por el Código Penal o infracciones previstas en la Ley de Prevención Social y Tratamiento de Menores del Estado;
+
+VIII. Recibir quejas, denuncias e informes en relación de quienes ejerzan la patria potestad, la tutela, la curatela o guarda y custodia o quienes las tengan bajo su cuidado, sobre la violación de los derechos de las niñas, niños y adolescentes, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
+
+IX. Denunciar ante las autoridades competentes cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acción que perjudique a la niña, niño o adolescente;
+
+X. Poner a disposición del Ministerio Público o de cualquier órgano jurisdiccional los elementos a su alcance para la protección de las niñas, niños y adolescentes y proporcionar a aquellos la información que les requieran sobre el particular;
+
+XI. Procurar que las niñas, niños y adolescentes, que se encuentren o vivan en circunstancias de desventaja social, cuenten con un lugar donde vivir, que tengan los espacios suficientes para cubrir sus necesidades básicas, dentro de una familia u hogar provisional o instituciones de asistencia pública o privada;
+
+XII. Vigilar que las instituciones y los hogares provisionales presten el cuidado y atención adecuada a las niñas, niños y adolescentes respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social;
+
+XIII. Gestionar ante el Registro Civil la inscripción en las partidas regístrales de las niñas, niños y adolescentes, solicitadas por instituciones privadas y sociales;
+
+XIV. Establecer programas de apoyo a las familias para que la falta de recursos no sea causa de separación de las niñas, niños y adolescentes;
+
+XV. Supervisar y vigilar que en cada institución que atienda a las niñas, niños y adolescentes se lleve un registro personalizado de los mismos;
+
+XVI. Promover la filiación de las niñas, niños y adolescentes para efectos de su identidad;
+
+XVII. Comparecer ante las autoridades o instituciones competentes, en los casos en que corresponda o se le designe para ejercer la guarda y custodia provisional y en su caso, la tutela de las niñas, niños y adolescentes en los términos de las disposiciones legales aplicables;
+
+XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia;
+
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XIX. Promover y gestionar ante la Comisión de Derechos Humanos del Estado de México, la credencialización de promotores de sus propios derechos;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XX. A los Sistemas para el Desarrollo Integral de la Familia de los Municipios, en los casos que conozcan sobre padres, tutores o quien tenga legalmente la custodia de un menor de edad, que impliquen conductas u omisiones que pongan en riesgo la salud mental y/o física de los menores a su cargo; emitirán dictámenes en materia de:
+
+a) Entorno familiar;
+
+b) Socioeconómico;
+
+c) Medicina; y
+
+d) Psicología.
+
+Los dictámenes y, en su caso, el resultado integral de las evaluaciones, se remitirán al Sistema para el Desarrollo Integral de la Familia del Estado de México;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+XXI. Al Sistema para el Desarrollo Integral de la Familia del Estado de México, elaborar y mantener actualizada una base de datos de los casos en que los padres, tutores o quien tenga legalmente la custodia de un menor de edad o discapacitado, incumplan las obligaciones alimentarias que la ley determina, realicen conductas u omisiones que pongan en riesgo la salud mental y/o física de los menores a su cargo, y dar seguimiento de los mismos en coordinación con los Sistemas para el Desarrollo Integral de la Familia de los Municipios.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2011)</small>
+
+Hacer del conocimiento del Ministerio Público, los casos en que los padres, tutores o quienes tengan legalmente la custodia de un menor de edad, incurran en las conductas a que se refiere el párrafo anterior, y rendir los informes, dictámenes, antecedentes e información con que cuente al respecto; y
+
+XXII. Las demás que les confieran otros ordenamientos jurídicos.
+
+### CAPITULO SEGUNDO. DE LAS OBLIGACIONES DE LA FAMILIA, DE LA SOCIEDAD Y DEL ESTADO
 
 ###### ARTICULO 19.
 
-Con base en el artículo 29 de la ley, el Comité tendrá las siguientes funciones:
-
-I. Coordinar y supervisar las acciones de la Unidad de Enlace tendientes a proporcionar la información, o su modificación, prevista en este reglamento;
-
-II. Instituir los procedimientos para asegurar la mayor eficiencia en la gestión de las solicitudes de acceso a la información, considerando la guía señalada en el artículo 38 de la ley;
-
-III. Confirmar, modificar o revocar la clasificación de la información que proporcionen los titulares de las unidades administrativas;
-
-IV. Establecer y supervisar la aplicación de los criterios específicos en materia de clasificación y conservación de los documentos;
-
-V. Aprobar el formato elaborado por la Unidad de Enlace, para acceder a la información solicitada; así como del formato para la solicitud o modificación de datos;
-
-VI. Elaborar y difundir un informe anual de actividades;
-
-VII. Difundir entre la comunidad del Tribunal y los particulares, los beneficios del manejo público de la información, como también sus responsabilidades en el buen uso y conservación de aquélla;
-
-VIII. Establecer en las Salas Regionales Módulos de Información, así como en la sede de la Sala Superior y de las demás Unidades Administrativas del Tribunal. Dicha información se pondrá a disposición del público y se describirán en forma clara y sencilla, los procedimientos de acceso a la misma;
-
-IX. Supervisar la actualización y/o corrección de la información puesta a disposición del público;
-
-X. Asegurar el adecuado manejo de los archivos, por conducto de las unidades administrativas, y
-
-XI. Las demás que se le confieran en las disposiciones aplicables.
-
-El Comité adoptará sus decisiones por unanimidad o por mayoría de votos.
+La madre y el padre son igualmente responsables del desarrollo sano e integral de sus hijos, debiendo garantizar lo necesario para su subsistencia, salud, educación y los elementos que favorezcan su incorporación al medio social.
 
 ###### ARTICULO 20.
 
-La Unidad de Enlace será designada por el Presidente del Tribunal, quien además determinará el domicilio que se proporcionará al público usuario.
+Son obligaciones de los progenitores y miembros de la familia para con las niñas, niños y adolescentes:
 
-La Unidad de Enlace estará integrada por:
+I. Asegurar el respeto y la aplicación eficaz de los derechos establecidos en la presente Ley, así como garantizarles que no sufran ningún tipo de violencia, discriminación, maltrato, explotación o violación a sus derechos, en el seno de su familia, en los centros de enseñanza, en los espacios de recreación o en cualquier otro lugar en donde se encuentren;
 
-I. El Magistrado Presidente del Tribunal;
+II. Prevenir las situaciones, acciones o hechos que amenacen o violen sus derechos previstos en el presente ordenamiento y en las demás leyes;
 
-II. Un Magistrado de Sala Superior;
+III. Proporcionar apoyo, cuidados, educación, protección a la salud, alimentación suficiente y adecuada;
 
-III. Un Magistrado de Salas Regionales, a quien por turno corresponda;
+IV. Cumplir con el trámite de inscripción en el Registro Civil;
 
-IV. El Director General de Programación, Organización y Presupuesto;
+V. Realizar los trámites de inscripción para que reciban la educación obligatoria;
 
-V. El Director General de Compilación, Sistematización de Tesis y Publicaciones;
+VI. Incentivarlos para que realicen actividades culturales, recreativas, deportivas y de esparcimiento que les ayuden a su desarrollo integral;
 
-VI. El Director de la Unidad de Planeación e Informática;
+VII. Respetar y tener en cuenta el carácter de sujeto de derecho; y
 
-VII. El Director General del Instituto de Estudios sobre Justicia Administrativa;
-
-VIII. El Secretario General de Acuerdos, quien fungirá como Secretario Técnico de la Unidad de Enlace, y
-
-IX. El Director de Quejas, Denuncias y Responsabilidades de la Contraloría Interna.
+VIII. Darles a conocer sus derechos, así como brindarles orientación y dirección para su ejercicio y debida observancia.
 
 ###### ARTICULO 21.
 
-La Unidad de Enlace será la responsable de clasificar y desclasificar la información reservada o confidencial; de determinar el costo que deberán cubrir los solicitantes por los servicios que requieran, de conformidad con lo dispuesto en el artículo 28 de la ley; y de que se lleven a cabo las siguientes funciones:
-
-I. Recabar y difundir, la información que le proporcionen las unidades administrativas;
-
-II. Actualizar periódicamente la información puesta a disposición del público;
-
-III. Recibir y dar trámite a las solicitudes de información;
-
-IV. Auxiliar a los interesados en el llenado de las solicitudes;
-
-V. Realizar los trámites internos necesarios para entregar la información solicitada, además de orientar a los particulares sobre las dependencias, entidades u otros organismos en los que pudiese encontrar la información solicitada;
-
-VI. Verificar la clasificación de la información solicitada, la procedencia y la forma de acceso a la misma;
-
-VII. Elaborar los formatos de solicitud de información, así como los de acceso y corrección de datos personales, observando lo establecido en la fracción VIII, del artículo 37 de la ley;
-
-VIII. Realizar las gestiones necesarias para localizar los documentos en los que conste la información solicitada;
-
-IX. Llevar un registro y control de las solicitudes de acceso a la información, sus resultados, y
-
-X. Las demás necesarias para garantizar y agilizar el flujo de información.
+Es obligación de los progenitores, miembros de la familia y responsables del cuidado de las niñas, niños y adolescentes, que estos reciban una oportuna atención médica acudiendo para ello a las Instituciones de Salud Públicas o Privadas.
 
 ###### ARTICULO 22.
 
-La Unidad de Enlace deberá proponer al Comité, los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de información.
+Es obligación de los progenitores, quienes ejerzan la Patria Potestad, Tutores, miembros de la familia y responsables del cuidado de las niñas, niños y adolescentes, el que éstos reciban la aplicación de las vacunas que comprenden el esquema básico; acudiendo para ello a las clínicas, centros de salud o centros temporales de vacunación.
 
-###### Artículo 23.
+###### ARTICULO 23.
 
-Cualquier persona o su representante podrá presentar, ante la Unidad de Enlace, una solicitud de acceso a la información mediante escrito libre o en los formatos que apruebe la Unidad de referencia. Dicha solicitud, deberá de contener sólo los requisitos que establece el artículo 40 de la ley. En ningún caso la entrega de información estará condicionada a que se motive o justifique su utilización, ni se requerirá demostrar interés alguno.
+Los Directivos, maestros, y demás personal que labora en las escuelas, guarderías y estancias infantiles públicas y privadas, están obligados a hacer del conocimiento de las autoridades competentes sin perjuicio de la responsabilidad penal en la que pudieran incurrir, en los siguientes casos:
 
-No obstante, el tribunal sólo estará obligado a entregar documentos que se encuentren en sus archivos, pero de ninguna manera estará obligado a crear o producir información con la que no cuente al momento de efectuarse el pedido, excepto en el caso de que exista una obligación legal de producirla, situación en la que no mediará justificación para la denegatoria.
+a) Maltrato físico, psicológico, verbal, patrimonial, abuso sexual o de cualquier índole, y corrupción, que involucre a las niñas, niños y adolescentes como víctimas o causantes de ello;
 
-###### Artículo 24.
+b) Consumo de drogas, estupefacientes, bebidas alcohólicas, tabaquismo entre otras sustancias perjudiciales para la salud.
 
-La unidad de enlace no estará obligada a dar trámite a solicitudes de acceso ofensivas; cuando hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona; o cuando la información se encuentre disponible públicamente, caso en el cual, únicamente deberá indicar al solicitante el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
+###### ARTICULO 24.
 
-###### Artículo 25.
+Cuando los padres, familiares o quienes ejercen la patria potestad o la custodia, ante la falta de recursos económicos o extrema pobreza, tengan necesidad de ganarse el sustento lejos de su lugar de residencia, las dependencias estatales y municipales implementarán los mecanismos necesarios y programas tendientes a proteger a las niñas, niños y adolescentes.
 
-Si los detalles proporcionados por el solicitante no bastan para localizar los documentos o son erróneos, la unidad de enlace podrá requerir, por una vez y dentro de los cinco días hábiles siguientes a la presentación de la solicitud, que indique otros elementos o corrija los datos proporcionados. Este requerimiento interrumpirá el plazo establecido en el artículo 29 de este Reglamento.
+###### ARTICULO 25.
 
-###### Artículo 26.
+El Estado reconoce a la institución de la adopción de niñas, niños y adolescentes, debiendo garantizar el interés superior del menor, dando preferencia a los solicitantes residentes en el Estado de México, de conformidad con la Legislación Civil.
 
-La obligación de acceso a la información se dará por cumplida, sólo hasta que se pongan a disposición del solicitante para consulta, los documentos en el sitio donde se encuentren; o bien, mediante la expedición de copias simples, certificadas o cualquier otro medio, procurando siempre satisfacer la forma en que dicha información fue solicitada. Salvo que exista impedimento legal, físico o material para ello.
+###### ARTICULO 26.
 
-El acceso se dará solamente en la forma en que lo permita el documento de que se trate, pero se entregará en su totalidad o parcialmente, a petición del solicitante.
+Cuando las niñas, niños o adolescentes se encuentren privados de su familia, tendrán derecho a recibir la protección del Estado, a través de los Sistemas para el Desarrollo Integral de la Familia del Estado y los Municipales en sus respectivos ámbitos de competencia, quienes a su vez podrán canalizarlos a otras instituciones de asistencia social o privada legalmente constituidas conforme a la ley, y que tengan entre sus objetivos la prestación de estos servicios.
 
-###### Artículo 27.
+###### ARTICULO 27.
 
-Para poder proporcionar la información solicitada, la Unidad de Enlace deberá de turnar por oficio la solicitud a la unidad jurisdiccional o Administrativa que tenga o pueda tener la información, con objeto de que ésta en el término de 5 días proceda a su localización y envío.
+Los Sistemas para el Desarrollo Integral de la Familia del Estado y de los Municipios respectivamente, en coordinación con las autoridades competentes apoyarán a través de sus programas, la localización de los padres o familiares de las niñas, niños y adolescentes que se encuentren en abandono, extravío o en proceso de repatriación, para obtener información que permita la reintegración familiar.
 
-Con el comunicado de la posibilidad de acceder a la información solicitada, o con la remisión de dicha información a la Unidad de Enlace, la unidad jurisdiccional o administrativa correspondiente, deberá de especificarle, el tipo de soporte en el que ésta se encuentra, la clasificación que a la misma le ha sido otorgada, e inclusive, podrán entregarle documentos que contengan información clasificada como reservada o confidencial, siempre y cuando los documentos en que conste la información permitan eliminar las partes o secciones clasificadas.
+###### ARTICULO 28.
 
-###### Artículo 28.
+Cuando no sea posible la reintegración familiar, el Estado y los Municipios brindarán la atención y cuidados asistenciales que se requieran a través del Sistema para el Desarrollo Integral de la Familia, y de Instituciones de Asistencia Social, atendiendo a su competencia.
 
-Una vez recabada la información solicitada por la Unidad de Enlace, ésta procederá como sigue:
+###### ARTICULO 29.
 
-a).- A verificar la procedencia de su clasificación;
+El Ejecutivo del Estado a través de la Secretaría de Salud, el Instituto Materno Infantil, el Sistema para el Desarrollo Integral de la Familia del Estado y de los Municipios, así como las demás Instituciones del Sector Salud, prestarán servicios médicos de calidad, en materia de prevención, tratamiento y atención para la salud física y mental de las niñas, niños y adolescentes, llevando a cabo las acciones siguientes:
 
-b).- Determinar en caso de documentos que contengan información clasificada como reservada o confidencial, siempre y cuando los documentos en que conste la información permitan eliminar las partes o secciones clasificadas, qué partes son las que procede eliminar y señalar las partes o secciones que fueron eliminadas.
+I. Apoyar la nutrición de la madre en estado de gestación o lactancia para que el producto alcance la madurez y crecimiento necesario para su desarrollo;
 
-c).- Determinar la procedencia de su acceso y la manera en que ésta se encuentra disponible, atendiendo siempre y en la medida de lo posible, a la solicitud del interesado.
+II. Atender a las niñas, niños, adolescentes y a las madres adolescentes en gestación o lactancia sin importar su afiliación o no a los regímenes de asistencia como derechohabiente, a través de las clínicas y hospitales del Sector Salud o de establecimientos particulares con los que se celebren convenios, respecto a la disponibilidad de espacios para estos sectores de la población, que no podrá ser inferior al 10 por ciento;
 
-d).- Si procede, determinar la forma y el costo de su expedición.
+III. Proporcionar un trato digno y respetuoso a las niñas o adolescentes embarazadas en servicios de salud e información materno infantil, atención médica y hospitalaria;
 
-###### Artículo 29.
+IV. Establecer las medidas tendientes a prevenir embarazos tempranos;
 
-Con o sin la información solicitada, la Unidad de Enlace, deberá de comunicar y notificar la respuesta al interesado en un término no mayor de veinte días hábiles, contados desde la presentación de su solicitud, especificando el costo y la modalidad en que será entregada la información. Plazo que sólo podrá ampliarse en los términos y condiciones que marca el artículo 44 de la ley.
+V. Apoyar las campañas de medicina preventiva y vacunación de las diversas instancias de gobierno;
 
-La información solicitada deberá entregarse dentro de los diez días hábiles siguientes al en que la unidad de enlace le haya notificado la disponibilidad de aquélla, siempre que el solicitante compruebe haber cubierto el pago de los derechos correspondientes.
+VI. Realizar campañas de prevención y detección de discapacidades, enfermedades físicas y mentales;
 
-###### Artículo 30.
+VII. Facilitar complementos alimenticios a los menores, que lo requieran;
 
-En caso de que la unidad jurisdiccional o administrativa que haya recibido la solicitud, no tenga en su poder la información solicitada, deberá por medio de oficio, informarlo al Comité de Información dentro del término que para tales efectos le fue concedido y, en su caso, proporcionarle la información del archivo, expediente o base de datos, en donde se encuentra la información solicitada, o cualquier otro dato que propicie su localización, con objeto de facilitar su búsqueda.
+VIII. Establecer comedores para proporcionar alimentación balanceada a los menores que lo requieran por su alta marginalidad, de acuerdo a las reglas de operación del programa;
 
-El Comité de Información analizará el caso y tomará las medidas pertinentes para que a la brevedad posible, se localice el documento solicitado y resolverá en consecuencia. En caso de no encontrarlo, expedirá una resolución que confirme la inexistencia del documento solicitado y notificará al solicitante por conducto de la Unidad de Enlace, dentro del plazo establecido en el artículo 44 de la ley.
+IX. Proporcionar información y educación sexual con perspectiva de género;
 
-###### Artículo 31.
+X. Las dependencias del Sector Salud Estatal, deberán realizar acciones a efecto de promover, difundir y atender de manera especial las enfermedades endémicas, epidémicas de transmisión sexual y VIH/SIDA, impulsando programas de prevención e información sobre las mismas, así como las de tratamiento de quien ya las padece;
 
-En caso de que el titular de la unidad jurisdiccional o administrativa haya clasificado los documentos como reservados o confidenciales, dentro de los dos días siguientes a la recepción de dicha solicitud, deberá remitirla por medio de oficio, acompañado con los elementos necesarios para fundar y motivar dicha clasificación, al Comité de Información del Tribunal, mismo que deberá resolver si:
+XI. Garantizar a las niñas, niños y adolescentes el acceso a los Centros de Salud y Hospitalarios con respeto a sus derechos para que reciban los servicios de salud, que requieran de forma prioritaria e integral; y
 
-I. Confirma o modifica la clasificación y niega el acceso a la información, o
+XII. Las demás acciones que coadyuven a asegurar el derecho a la salud en forma integral.
 
-II. Revoca la clasificación y concede el acceso a la información.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
-El Comité podrá tener acceso a todos los documentos que al respecto estén en la unidad administrativa o jurisdiccional, según corresponda.
+###### ARTICULO 30.
 
-La resolución del Comité será notificada al interesado en el plazo que establece el artículo 44 de la ley. En caso de ser negativa, deberá fundar y motivar las razones de la clasificación de la información e indicar al solicitante el recurso que podrá interponer ante el Pleno del Tribunal.
+El Estado a través de la Secretaría de Educación establecerá los mecanismos que garanticen el derecho de las niñas, los niños y adolescentes a recibir educación integral, orientada hacia el desarrollo de sus potencialidades a fin de prepararlos para una vida adulta responsable, llevando a cabo las acciones siguientes:
 
-###### Artículo 32.
+I. La impartición de una educación que fomente el amor a la familia, al Estado, a la patria y a crear conciencia de solidaridad, independencia y justicia social;
 
-Las solicitudes de acceso a la información y las respuestas que se les dé, incluyendo, en su caso, la información entregada, serán públicas.
+II. Promover y garantizar que las niñas, niños y adolescentes sean inscritos y concurran a las escuelas;
 
-El Tribunal, por medio de la Unidad de Enlace, vía Internet, y en listas que se colocarán en todos los estrados de las Unidades Jurisdiccionales y Administrativas deberá poner a disposición del público esta información.
+III. Fomentar la educación preescolar en el Estado;
 
-AFIRMATIVA FICTA
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-###### Artículo 33.
+IV. Proporcionar a las niñas, niños y adolescentes discapacitados, una educación básica, media y media superior acorde a sus necesidades;
 
-La falta de respuesta a una solicitud de acceso a la información, en el plazo señalado en el artículo 44 de la ley, se entenderá resuelta en sentido positivo.
+V. Fomentar que las niñas, niños y adolescentes que posean cualidades intelectuales por encima de la media, reciban una educación acorde a sus capacidades;
 
-###### Artículo 34.
+VI. Evitar la discriminación en materia de oportunidades educativas; y
 
-En caso de afirmativa ficta, el beneficiado con la misma, podrá solicitar por escrito presentado ante el Comité de Información, que se le expida la constancia respectiva, la cual en caso de que proceda, le deberá de ser entregada en un plazo no mayor de quince días posteriores a su solicitud.
+VII. Las demás que contribuyan a asegurar su desarrollo integral.
 
-Para los efectos del párrafo anterior, el Comité de Información deberá de requerir un informe a la Unidad de Enlace, respecto a la afirmativa ficta que se le imputa, mismo que deberá de rendirse en un término no mayor de tres días, en el que además, deberá de desvirtuar dicha afirmativa; o bien, señalar el impedimento legal, físico o material que tuvo para proporcionarla, caso en que deberá de justificar el mismo.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-En caso de que el Comité de Información determine la procedencia de la afirmativa ficta, la Unidad de Enlace estará obligada a proporcionar la información solicitada en un periodo de tiempo no mayor a los 10 días hábiles, cubriendo todos los costos generados por la reproducción del material informativo, salvo que el Comité de Información determine que los documentos en cuestión son reservados o confidenciales.
+###### ARTICULO 31.
 
-Procedencia de la Negativa Ficta y del Recurso de Revisión
+El Estado, a través de la Secretaría de Educación, los Institutos Mexiquenses de la Juventud y Cultura Física y Deporte, fomentarán la realización de actividades culturales, artísticas, recreativas y deportivas que contribuyan al pleno desarrollo de las niñas, niños y adolescentes para fortalecer los valores de solidaridad, tolerancia, identidad cultural y conservación del ambiente.
 
-En caso de omisión en la entrega de la constancia de la afirmativa ficta solicitada, la que deberá de ser considerada como una negativa ficta; o de que el Comité de Información determine la improcedencia de la solicitud a que se refiere el artículo 17 de la Ley Federal de Procedimiento Administrativo; o de la clasificación de reservada de la información solicitada que emita dicho Comité, procederá el recurso contemplado en el artículo 38 de este Reglamento.
+###### ARTICULO 32.
 
-###### Artículo 35.
+El Estado y los Municipios promoverán el respeto al derecho de las niñas, niños y adolescentes a expresar libremente su pensamiento, con las limitaciones prescritas por la ley que sean necesarias para proteger la seguridad, el orden, la salud, la moral, los derechos y libertades fundamentales de terceros.
 
-Para la tramitación y resolución de los recursos contemplados en este reglamento se crea una Comisión denominada: “Comisión de Recursos para la Transparencia de la Información”, misma que estará integrada de la siguiente forma:
+###### ARTICULO 33.
 
-I. Por el Presidente del Tribunal.
+El Estado vigilará el respeto de la correspondencia, domicilio, vida privada e intimidad familiar de las niñas, niños y adolescentes.
 
-II. Por los Presidentes de las Secciones de la Sala Superior del Tribunal.
+###### ARTICULO 34.
 
-III. Por un Secretario Técnico nombrado por el Presidente del Tribunal.
+El Gobierno del Estado a través de las Dependencias correspondientes, concertará con las radiodifusoras y televisoras locales la difusión de mensajes dirigidos exclusivamente a las niñas, niños y adolescentes, que atienda a sus necesidades informativas, de difusión de sus derechos, sus responsabilidades, que promuevan la equidad, la tolerancia, los valores y la no violencia.
 
-### CAPITULO VI. MEDIOS DE IMPUGNACION
+###### ARTICULO 35.
 
-Disposiciones Generales
+El Ejecutivo del Estado tomará las medidas apropiadas a efecto de que se respeten los derechos de las niñas, niños y adolescentes, cuando éstos sean considerados responsables de infringir las leyes, dándose la intervención correspondiente a las Procuradurías de la Defensa del Menor y la Familia del Estado o de los Municipios dentro de su ámbito de competencia, respecto de los menores hasta 11 años incumplidos.
 
-Aplicación supletoria de otras disposiciones legales.
+Al efecto las niñas, niños y adolescentes deberán ser tratados por las autoridades, con respeto a su dignidad, de acuerdo a la edad de éstos y considerándose como objetivo primordial, promover su rehabilitación y reintegración a la sociedad.
 
-###### Artículo 36.
+### CAPITULO TERCERO. DE LAS RESPONSABILIDADES DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
-Los recursos que se promuevan en términos de este reglamento ante la Comisión de Recursos para la Transparencia de la Información, del Tribunal Federal de Justicia Fiscal y Administrativa, se regirán por las disposiciones de este Capítulo. A falta de disposición expresa se aplicará supletoriamente y en primer lugar, la legislación en la que se encuentre contemplado el procedimiento contencioso administrativo federal; y en segundo lugar, el Código Federal de Procedimientos Civiles, siempre que la disposición de este último ordenamiento no contravenga el procedimiento que establece este Reglamento.
+###### ARTICULO 36.
 
-### CAPITULO VII. RECURSO DE RECONSIDERACION
+Las niñas, niños y adolescentes del Estado de México, están obligados a respetar las restricciones establecidas por la Ley, la moral y el orden público, debiendo cumplir con las siguientes responsabilidades:
 
-###### Artículo 37.
+a) Honrar a la patria y sus símbolos;
 
-En los recursos que se tramiten en términos de este Reglamento, no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+b) Respetar los derechos y garantías de las demás personas;
 
-Partes en el recurso administrativo.
+c) Honrar, respetar y obedecer a sus padres, quienes ejercen la patria potestad, representantes o tutores, siempre que sus órdenes no afecten sus derechos o contravengan las disposiciones legales;
 
-###### Artículo 38.
+d) Ejercer sus derechos y defenderlos;
 
-Son partes en recurso administrativo que se promueva ante este Tribunal:
+e) Cumplir sus obligaciones educativas; y
 
-I. El recurrente.
+f) Las demás acciones que coadyuven a asegurar el desarrollo armónico e integral.
 
-II. La Unidad de Enlace de las Unidades Jurisdiccionales y Administrativas o, en su caso, el Comité de Información.
+## TITULO CUARTO. DEL CONSEJO ESTATAL PARA LA PROTECCION Y VIGILANCIA DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
-III. El tercero que tenga un derecho incompatible con la pretensión del recurrente.
+### CAPITULO UNICO. DEL CONSEJO ESTATAL
 
-Recurso de Revisión
+###### ARTICULO 37.
 
-###### Artículo 39.
+Se crea el Consejo Estatal para la Protección y Vigilancia de los Derechos de las Niñas, Niños y Adolescentes, como órgano de opinión, colaboración, coordinación, de consulta, promoción y asesoría del Gobierno del Estado, teniendo como objetivo general, el seguimiento y vigilancia de la aplicación de la Convención sobre los Derechos de la Niñez y demás ordenamientos aplicables; así como de concertación entre los sectores público, social y privado para el cumplimiento de lo señalado en la presente Ley.
 
-El afectado a quien el módulo de Información le haya negado la información, o la inexistencia de los documentos solicitados, o la información solicitada no sea completa o veraz, podrá interponer, por sí mismo o a través de su representante, el Recurso de Revisión ante la Comisión de Recursos para la Transparencia de la Información, dentro de los quince días hábiles siguientes a la fecha en que surta efectos su notificación.
+###### ARTICULO 38.
 
-El escrito de interposición del recurso podrá enviarse por mensajería o por correo certificado con acuse de recibo, si el recurrente tiene su domicilio fuera de la sede del Pleno, siempre que el envío se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se deposite en la oficina de mensajería o en la oficina de correos.
+En cada Municipio se creará un Consejo para la Protección y Vigilancia de los Derechos de las Niñas, Niños y Adolescentes, que se coordinará con el Consejo Estatal.
 
-Resoluciones definitivas
+Los Sistemas para el Desarrollo Integral de la Familia de los Municipios, determinarán la estructura y funcionamiento de sus respectivos Consejos.
 
-###### Artículo 40.
+###### ARTICULO 39.
 
-Se considerarán resoluciones definitivas para efectos del artículo anterior, las siguientes:
+El Consejo Estatal estará integrado por:
 
-I. La resolución en la que se comunique al solicitante, la inexistencia de los documentos solicitados o la negativa de acceso a la información;
+I. Dos Presidentes Honorarios, quienes serán el Gobernador del Estado de México y la Presidenta el (sic) Sistema para el Desarrollo Integral de la Familia de la Entidad;
 
-I (sic). La negativa a entregar al solicitante los datos personales solicitados, o los entregados estén contenidos en un formato incomprensible;
+II. Un Presidente Ejecutivo, quien será el Director General del Sistema para el Desarrollo Integral de la Familia de la Entidad;
 
-II (sic). La negativa a la procedencia de las modificaciones o correcciones a los datos personales solicitados;
+III. Un Secretario Técnico, que será designado por el Presidente Ejecutivo del Consejo;
 
-III (sic). Cuando se considere que la información entregada es incompleta o no corresponda a la información requerida en la solicitud, y
+IV. Por veintitrés Vocales representantes de los sectores público y privado:
 
-IV (sic). En los demás casos que así lo determine la ley o este Reglamento.
+a) El Secretario General de Gobierno;
 
-De la Improcedencia y del Sobreseimiento
+b) El Secretario de Desarrollo Social;
 
-Causas de improcedencia del Recurso
+c) El Secretario de Salud;
 
-### CAPITULO VIII. PROCEDIMIENTO PARA ASEGURAR LA EJECUCION DE LAS RESOLUCIONES
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-###### Artículo 62.
+d) El Secretario de Educación.
 
-En los casos de incumplimiento de resolución firme, la parte afectada podrá ocurrir en queja, por una sola vez, ante la Comisión de Recursos para la Transparencia de la Información, de acuerdo con las siguientes reglas:
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-I.- Procederá en contra de los siguientes actos:
+e) El Secretario de Finanzas.
 
-a).- La resolución que repita indebidamente la resolución revocada, o modificada; o que incurra en exceso o en defecto, cuando dicha resolución se dicte en cumplimiento de un fallo de la Comisión de Recursos para la Transparencia de la Información, en términos de este Reglamento.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-b).- Cuando la autoridad omita dar cumplimiento a la resolución, para lo cual deberá haber transcurrido el plazo previsto en ley.
+f) El Secretario del Trabajo.
 
-Término para interponer el escrito
+g) El Presidente del Tribunal Superior de Justicia del Estado de México;
 
-II.- Se interpondrá por escrito ante el Secretario Técnico de la Comisión de Recursos para la Transparencia de la Información, dentro de los quince días siguientes al día en que surte efectos la notificación del acto o la resolución que la provoca. En el supuesto previsto en el inciso b) de la fracción anterior, el interesado podrá interponer su queja en cualquier tiempo.
+h) Tres Diputados de la H. Legislatura del Estado de México, integrantes de las Comisiones relacionadas con el tema de las niñas, niños y adolescentes;
 
-En dicho escrito se expresarán las razones por las que se considera que hubo repetición, exceso o defecto en el cumplimiento de la resolución revocada o modificada; o bien se expresará la omisión en el cumplimiento de la resolución de que se trate.
+i) El Procurador General de Justicia del Estado de México;
 
-El Secretario Técnico de la de la Comisión, pedirá un informe a la autoridad a quien se impute el incumplimiento de la resolución, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja y se ofrecerán las pruebas documentales que estime pertinentes. Vencido dicho plazo, con informe o sin él, el Secretario dará cuenta a la de la Comisión, para que resuelva dentro de los cinco días posteriores a la integración de la queja.
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
 
-III.- En caso de que haya repetición de la resolución revocada o modificada, la de la Comisión de Recursos para la Transparencia de la Información, hará la declaratoria correspondiente, dejando sin efectos la resolución repetida y la notificará al funcionario responsable de la repetición, ordenándole que se abstenga de incurrir en nuevas repeticiones y, su caso, para que en el término de diez días dé el cumplimiento debido al fallo.
+j) La o el Presidente de la Comisión de Derechos Humanos del Estado de México;
 
-Igualmente, se ordenará dejar constancia de dicho incumplimiento en el expediente del funcionario o funcionarios responsables, y lo hará del conocimiento del órgano interno de control del Tribunal para que éste inicie, en su caso, el procedimiento de responsabilidad que corresponda.
+k) El Rector de la Universidad Autónoma del Estado de México;
 
-Resolución de exceso o defecto en el cumplimiento de la resolución.
+l) El Presidente de la Junta de Asistencia Privada del Estado de México;
 
-IV.- Si la Comisión resuelve que hubo exceso o defecto en el cumplimiento de la resolución, dejará sin efectos la resolución que provocó la queja y concederá al funcionario responsable diez días para que dé el cumplimiento debido al fallo, señalando la forma y términos precisados en la resolución, conforme a los cuales deberá cumplir.
+m) El Director General del Instituto Mexiquense de Cultura Física y Deporte;
 
-Resolución de omisión total en el cumplimiento de la sentencia
+n) El Director General del Instituto Mexiquense de la Juventud;
 
-V.- Si la Comisión resuelve que hubo omisión total en el cumplimiento de la resolución, concederá al funcionario responsable diez días para que dé cumplimiento al fallo. En este caso, además se procederá en los términos del párrafo segundo de la fracción III de este artículo.
+ñ) El Director General del Sistema de Radio y Televisión Mexiquense;
 
-Queja notoriamente improcedente
+o) El Presidente del Consejo General del Instituto Electoral del Estado de México;
 
-A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución definitiva, se le impondrá una multa de veinte a ciento veinte días de salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
+p) El Vocal Ejecutivo de la Junta Local Ejecutiva del Instituto Federal Electoral en el Estado de México;
 
-###### Artículo 41.
+q) Dos Representantes de los Presidentes Municipales Constitucionales del Estado de México;
 
-Es improcedente el recurso en los casos, por las causales y contra los actos siguientes:
+r) El Director de Servicios Jurídico-Asistenciales del Sistema para el Desarrollo Integral de la Familia del Estado de México; y
 
-I. Que hayan sido materia de resolución pronunciada por la Unidad de Enlace, siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
+s) El Procurador de la Defensa del Menor y la Familia del Sistema para el Desarrollo Integral de la Familia en el Estado de México.
 
-II. Cuya impugnación no corresponda conocer a este Tribunal.
+El Presidente Ejecutivo, podrá invitar a las sesiones del Consejo Estatal a Representantes de Instituciones de Asistencia Pública y Privada, Organizaciones Sociales, así como del sector empresarial, cuando así lo considere pertinente, con voz, pero sin derecho a votar.
 
-III. Se recurra una resolución o un acto que no haya sido emitido por el Comité de Información o por la Unidad de Enlace.
+Todos los miembros del Consejo tendrán derecho a voz y voto y contarán con un suplente, quien deberá ser su inmediato inferior y los cargos serán honoríficos.
 
-IV. Respecto de las cuales hubiere consentimiento, entendiéndose que hay consentimiento únicamente cuando no se promovió dentro del término que para tales efectos marca el artículo 39 de este Reglamento.
+###### ARTICULO 40.
 
-V. Que sean materia de un recurso diverso ante este Tribunal.
+Corresponde al Consejo:
 
-VI. Que hayan sido impugnados en un procedimiento judicial.
+I. Proponer Programas en beneficio de las niñas, niños y adolescentes;
 
-VII. Cuando de las constancias de autos apareciere claramente que no existe el acto reclamado.
+II. Proponer un programa de concertación de acciones entre las distintas dependencias de la Administración Pública, que fije lineamientos generales para unificar los criterios en el ejercicio de los recursos financieros destinados a los programas de atención a las niñas, niños y adolescentes;
 
-VIII. En los demás casos en que la improcedencia resulte por alguna disposición contenida en este Reglamento o de la ley.
+III. Fomentar y fortalecer la colaboración, concertación, coordinación y participación responsable de Instituciones Públicas y Privadas en la realización de acciones para garantizar el ejercicio de los derechos de las niñas, niños y adolescentes;
 
-La procedencia del recurso será examinada aun de oficio.
+IV. Proponer los mecanismos e instrumentos tendientes a la consecución de aportaciones y donaciones que realicen las personas físicas y morales, públicas o privadas de carácter local, nacional o internacional, con el propósito de coadyuvar, a la ejecución de los planes y programas dirigidos en beneficio de las niñas, niños y adolescentes en el Estado, debiendo estar informado el Consejo en todo momento;
 
-Causas de sobreseimiento
+V. Evaluar los logros y avances de los programas de la Administración Pública en la materia y proponer medidas para su optimización;
 
-###### Artículo 42.
+VI. Analizar y proponer a las instancias competentes, modelos de atención para las niñas, niños y adolescentes; y
 
-Procede el sobreseimiento:
+VII. Contribuir a la difusión de los principios, derechos y deberes de las niñas, niños y adolescentes en el Estado de México;
 
-I.- Por desistimiento del recurrente.
+VIII. Rendir un informe anual de actividades al Ejecutivo Estatal y al Congreso Local, durante el mes de enero.
 
-II.- Cuando durante la tramitación del recurso aparezca o sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior.
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-III.- En el caso de que el recurrente muera durante la tramitación del recurso, y tratándose de personas morales, se disuelva la misma.
+## TITULO QUINTO. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN CIRCUNSTANCIAS ESPECIALMENTE DIFICILES, DISCAPACITADOS, EN SITUACION DE CALLE Y CON ADICCIONES
 
-IV.- Si por algún medio diverso consigue la información solicitada y así se acredita.
+### CAPITULO PRIMERO. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN CIRCUNSTANCIAS ESPECIALMENTE DIFICILES
 
-V.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
+###### ARTICULO 41.
 
-El sobreseimiento del recurso podrá ser total o parcial.
+Toda persona, autoridad o institución que tenga conocimiento de que alguna niña, niño o adolescente, se encuentre en condiciones de vulnerabilidad o desventaja social, considerándose como tales el maltrato, abandono, abuso y explotación sexual y en los supuestos de sustracción o suplantación ilegal de la tutela, tendrán la obligación de hacerlo del conocimiento de la Procuraduría de la Defensa del Menor y de la Familia, así como de las autoridades competentes, sin perjuicio del derecho que tendrá el menor de denunciar todo maltrato en sus diferentes modalidades o abuso de que sea objeto; esto es con el fin de tomar las medidas necesarias para su protección y en caso de situación de riesgo o peligro inminente, se solicitará al Ministerio Público, dicte las medidas de protección que permitan atender de manera urgente la situación que enfrenten las niñas, niños o adolescentes.
 
-Datos que deberá de contener el recurso.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-###### Artículo 43.
+###### ARTICULO 42.
 
-El escrito de interposición del recurso deberá indicar:
+Las Secretarías de Educación, de Desarrollo Social y de Salud; así como el Sistema para el Desarrollo Integral de la Familia del Estado de México, impulsarán con la participación de las demás dependencias del Gobierno, Organismos Públicos e Instituciones Sociales y Privadas, los programas dirigidos a las niñas, niños y adolescentes para la prevención de discapacidades, su rehabilitación, su integración familiar, educativa y social, así como la creación de talleres para su capacitación en el trabajo, recreación y participación en el deporte, encaminados a su rehabilitación integral.
 
-I. El nombre del recurrente, así como su domicilio o medio que señale para recibir notificaciones en la sede del Pleno del Tribunal.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-II. La resolución o acto que se impugna.
+###### ARTÍCULO 43.
 
-III. La fecha en que se le notificó o tuvo conocimiento del acto reclamado.
+El Sistema para el Desarrollo Integral de la Familia, en coordinación con la Secretaría de Desarrollo Social y demás dependencias e instituciones especializadas, implementarán acciones encaminadas a la protección y cuidado de las niñas, niños y adolescentes discapacitados, impulsando la construcción de Centros de Rehabilitación en los Sistemas para el Desarrollo Integral de la Familia de los Municipios del Estado de México.
 
-IV. Los hechos que den motivo a su recurso.
+### CAPITULO SEGUNDO. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES Y EN SITUACION DE CALLE Y CON ADICCIONES
 
-V. Las pruebas que ofrezca, salvo la testimonial que no está permitida en este recurso.
+###### ARTICULO 44.
 
-VI. El nombre y domicilio del tercero interesado, cuando lo haya.
+El Gobierno del Estado de México con la participación de la sociedad, debe garantizar políticas y programas contra el uso de sustancias alcohólicas, estupefacientes y psicotrópicos. Asimismo, debe asegurar programas de atención especial para la recuperación integral de las niñas, niños y adolescentes, dependientes y consumidores de estas sustancias.
 
-VII. Los agravios, argumentos o peticiones que estime procedentes (mismos que pueden ser formulados en forma oral o escrita).
+###### ARTICULO 45.
 
-VIII. La autoridad que estime responsable.
+Las niñas, niños y adolescentes adictos a sustancias que producen dependencia, tendrán derecho a recibir tratamiento médico para su rehabilitación, de acuerdo a las reglas de operación del programa correspondiente, tomándose las medidas necesarias a fin de apoyar su salud física y psicológica, en términos de lo dispuesto por el libro Segundo, "de la Salud", del Código Administrativo del Estado de México.
 
-En caso de que se ofrezca prueba pericial, se precisarán los hechos sobre los que deba versar y señalará el nombre y domicilio del perito.
+###### ARTICULO 46.
 
-Cuando se omita algún dato de los antes señalados, el Secretario Técnico de la Comisión de Recursos para la Transparencia de la Información, requerirá al promovente para que los señale dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentado su recurso o por no ofrecidas las pruebas, según corresponda.
+Los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia, en coordinación con organismos e Instituciones privadas establecerán programas específicos y prioritarios que contemplen las medidas de defensa jurídica, provisión, previsión, protección y asistencia para atender a las niñas, niños y adolescentes en situación de calle.
 
-En el supuesto de que no se señale domicilio para recibir notificaciones del recurrente, las notificaciones relativas se efectuarán por lista autorizada, que se fijará en el sitio visible de la propia Secretaría Técnica de la Comisión de Recursos para la Transparencia de la Información; procurando siempre y en la medida de lo posible obtener el domicilio del tercero.
+###### ARTICULO 47.
 
-###### Artículo 44.
+El Sistema para el Desarrollo Integral de la Familia del Estado de México, y la Secretaría de Desarrollo Social, impulsarán e implementarán medidas tendientes a prevenir y evitar que las niñas, niños y adolescentes realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como becas y desayunos escolares, realizando las acciones que se requieran para protegerlos y evitar su explotación.
 
-El recurrente deberá adjuntar a su recurso:
+## TITULO SEXTO. DE LAS PROCURADURIAS DE LA DEFENSA DEL MENOR Y LA FAMILIA DEL ESTADO Y DE LOS MUNICIPIOS Y DE LAS MEDIDAS DE PROTECCION
 
-I.- Una copia de la misma y de los documentos anexos, tanto para la autoridad señalada como responsable como para el tercero, en su caso.
+### CAPITULO PRIMERO. DE LAS PROCURADURIAS DE LA DEFENSA DEL MENOR Y LA FAMILIA
 
-II.- El documento con el que acredite su personalidad, o bien señalar los datos de registro del documento con el que la acredite ante el Tribunal, cuando no gestione en nombre propio.
+###### ARTICULO 48.
 
-III.- El documento en que conste el acto impugnado.
+La Procuraduría de la Defensa del Menor y la Familia, es el área que depende de los Sistemas para el Desarrollo Integral de la Familia del Estado y de los Municipios en sus respectivos ámbitos, mismas que tendrán la infraestructura orgánica que permita la disponibilidad presupuestal y que determinen las leyes de la materia.
 
-En el supuesto de que se impugne una resolución afirmativa o negativa ficta, deberá acompañarse una copia, en la que obre el sello de recepción, de la solicitud no resuelta expresamente por la autoridad.
+###### ARTICULO 49.
 
-IV.- La constancia de la notificación del acto impugnado.
+La Procuraduría de la Defensa del Menor y la Familia, es la instancia especializada con funciones de autoridad competente en esta materia, en los que intervendrá en la defensa de los derechos contemplados en esta Ley y demás ordenamientos legales.
 
-Cuando no se haya recibido constancia de notificación o la misma hubiere sido practicada por correo, así se hará constar en el escrito del recurso, señalando la fecha en que dicha notificación se practicó. Si la autoridad responsable al contestar el recurso hace valer su extemporaneidad, anexando las constancias de notificación en que la apoya, el Secretario Técnico de la Unidad de Enlace, concederá a la recurrente el término de cinco días para que la desvirtúe. Si durante dicho término no se controvierte la legalidad de la notificación de la resolución impugnada, se presumirá legal la diligencia de la notificación de la referida resolución.
+###### ARTICULO 50.
 
-V.- Las pruebas documentales que ofrezca. Y en el caso de prueba pericial, también el cuestionario que debe desahogar el perito, el cual deberá ir firmado por el recurrente. Dichas pruebas deberán de tener relación inmediata y directa con la resolución o acto impugnado.
+Las Procuradurías de la Defensa del Menor y la Familia Estatal o Municipales en sus respectivas competencias, podrán designar a un representante para que intervenga, coadyuve o colabore con otras autoridades administrativas o judiciales para tutelar el interés superior de las niñas, niños y adolescentes.
 
-Si no se adjuntan al recurso los documentos a que se refiere este precepto, el Secretario Técnico de la Comisión de Recursos para la Transparencia de la Información, requerirá al promovente para que los presente dentro del plazo de cinco días. Cuando el promovente no los presente dentro de dicho plazo y se trate de los documentos a que se refieren las fracciones I a IV, se tendrá por no presentado el recurso. Si se trata de las pruebas a que se refiere la fracción V, se tendrán por no ofrecidas.
+###### ARTICULO 51.
 
-Actos no notificados o notificados ilegalmente. Reglas
+Las niñas, niños y adolescentes a quienes se les violenten sus derechos por parte de sus padres, tutores, quienes ejerzan la patria potestad o sus representantes, serán sujetos de protección por parte del Estado, a través de los Sistemas para el Desarrollo Integral de la Familia Estatal y de los Municipios en sus respectivas competencias, por conducto de la Procuraduría de la Defensa del Menor y la Familia, quien ejercerá las medidas de protección conducentes.
 
-###### Artículo 45.
+### CAPITULO SEGUNDO. DE LAS MEDIDAS DE PROTECCION
 
-Cuando se alegue que el acto recurrido no fue notificado o que lo fue ilegalmente, se estará a las reglas siguientes:
+###### ARTICULO 52.
 
-I.- Si el recurrente afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer en el recurso, en el que manifestará la fecha en que lo conoció.
+Las medidas de protección se aplicarán en atención al interés superior de las niñas, niños y adolescentes.
 
-En caso de que también impugne el acto administrativo, deberá de expresar los agravios encaminados a controvertir dicho acto, así como los que formule contra la notificación.
+El Estado y Municipios, a través de las Procuradurías de la Defensa del Menor y la Familia, deberán garantizar que la aplicación de las medidas de protección salvaguarden su integridad física y mental.
 
-II.- Si el recurrente manifiesta que no conoce el acto administrativo que pretende impugnar, así lo expresará en su recurso. En este caso, al contestar el recurso, la autoridad señalada como responsable, acompañará constancia del acto administrativo y de su notificación, mismos que el recurrente podrá combatir mediante ampliación del recurso.
+###### ARTICULO 53.
 
-III.- La Comisión de Recursos para la Transparencia de la Información, estudiará los conceptos de nulidad expresados en contra de la notificación, previamente al examen de la impugnación del acto administrativo.
+Cuando las Procuradurías de la Defensa del Menor y la Familia, tengan conocimiento de que niñas, niños o adolescentes, se encuentren en estado de abandono, orfandad, maltrato o extravío, de inmediato procederán en su carácter de autoridad competente a verificar tal hecho, tomando las medidas de protección que juzguen convenientes para salvaguardar su integridad, y sin dilación lo harán del conocimiento del Ministerio Publico o autoridad correspondiente.
 
-Si resuelve que no hubo notificación o que fue ilegal, considerará que el recurrente fue sabedor del acto administrativo desde la fecha en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado con base en aquélla, y procederá al estudio de la impugnación que, en su caso, se hubiese formulado contra dicho acto.
+###### ARTICULO 54.
 
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello el recurso fue presentado extemporáneamente, lo sobreseerá con relación al acto recurrido.
+Conocido el hecho o recibida la denuncia, las Procuradurías de la Defensa del Menor y la Familia del Estado o de los Municipios, escucharán a las partes involucradas y emitirán las medidas de protección que correspondan, hasta en tanto la autoridad competente, determine la situación jurídica de las niñas, niños o adolescentes.
 
-###### Artículo 46.
+###### ARTICULO 55.
 
-Se podrá ampliar el recurso, dentro de los veinte días siguientes a aquel en que surta efectos la notificación del acuerdo que admita su contestación, en los casos siguientes:
+Establecidas las medidas de protección, las Procuradurías de la Defensa del Menor y la Familia del Estado y de los Municipios dentro de su ámbito de competencia, procederán según el caso, a promover las acciones legales ante la autoridad competente, con la finalidad que se dicte la resolución que corresponda, sin perjuicio de lo establecido en otros ordenamientos legales.
 
-I.- Cuando se impugne una afirmativa o negativa ficta;
+###### ARTICULO 56.
 
-II.- Contra el acto principal del que derive el impugnado en el recurso, así como su notificación, cuando se den a conocer en la contestación;
+Las medidas de protección a favor de las niñas, niños y adolescentes también serán aplicables a los padres, tutores o quienes ejerzan la patria potestad en los casos siguientes:
 
-III.- En los casos previstos por el artículo 44 de este Reglamento.
+a) Remitirlos a programas oficiales o comunitarios de apoyo, orientación y tratamiento familiar respecto al consumo de drogas, estupefacientes, bebidas alcohólicas, tabaquismo, entre otras substancias que afecten la salud; y
 
-Datos y documentos que deben incluirse en la ampliación del recurso.
+b) Obligar a estos a matricular a las niñas, niños y adolescentes, tomando las medidas necesarias para conservar su asistencia y aprovechamiento escolar.
 
-En el escrito de ampliación del recurso se deberá señalar el nombre del recurrente y el medio de defensa en que se actúa, debiendo adjuntar, con las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten.
+###### ARTICULO 57.
 
-Si no se adjuntan las copias a que se refiere este artículo, el Secretario Técnico de la Comisión de Recursos para la Transparencia de la Información, requerirá al promovente para que las presente dentro del plazo de cinco días. Si el promovente no las presenta dentro de dicho plazo, se tendrá por no presentada la ampliación al recurso. Si se trata de las pruebas documentales o del cuestionario dirigido al perito, a que se refiere el artículo 44, fracción V, de este Reglamento, las mismas se tendrán por no ofrecidas.
+Las medidas de protección ordenadas a favor de las niñas, niños y adolescentes, obligarán a los padres, tutores o quienes ejerzan la patria potestad a:
 
-###### Artículo 47.
+a) Garantizar el cumplimiento de los alimentos a favor de las niñas, niños y adolescentes de acuerdo con la legislación civil vigente;
 
-El tercero, dentro de los quince días siguientes a aquél en que se le corra traslado del recurso, podrá apersonarse ante la Comisión de Recursos para la Transparencia de la Información, mediante escrito que contendrá los requisitos de la contestación, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
+b) Asistir a programas oficiales o comunitarios de apoyo, orientación y tratamiento familiar para prevenir y erradicar las adicciones;
 
-Deberá adjuntar a su escrito, el documento en que se acredite su personalidad cuando no gestione en nombre propio, las pruebas documentales que ofrezca y, en su caso, el cuestionario para los peritos.
+c) Obligar a estos a matricular en instituciones educativas a las niñas, niños y adolescentes, tomando las provisiones necesarias para conservar su asistencia y aprovechamiento escolar;
 
-###### Artículo 48.
+d) Asistir a terapias psicológicas que permitan erradicar el fenómeno de la violencia familiar; a fin de mejorar el ambiente familiar; y
 
-Admitido el recurso se correrá traslado de éste a la autoridad señalada como responsable, emplazándola para que la conteste dentro de los quince días siguientes a aquel en que surta efectos el emplazamiento. El plazo para contestar la ampliación del recurso será de cinco días siguientes a aquél en que surta efectos la notificación del acuerdo que admita la ampliación. Si no se produce la contestación a tiempo o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el recurrente impute de manera precisa a la responsable, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
+e) Proporcionar la asistencia medica y nutricional que requieran los sujetos de esta Ley.
 
-###### Artículo 49.
+###### ARTICULO 58.
 
-La autoridad responsable en su contestación y en la contestación de la ampliación del recurso, expresará:
+Cuando los padres, tutores o quienes ejerzan la patria potestad no muestren interés alguno por mejorar la situación familiar o se considere que es perjudicial para las niñas, niños y adolescentes su reintegración, las Procuradurías de la Defensa del Menor y la Familia y de los Municipios, iniciarán las acciones correspondientes para la pérdida de la patria potestad de conformidad con la legislación civil del Estado, a efecto de obtener y ejercer la tutoría de estos.
 
-I. Los incidentes de previo y especial pronunciamiento a que haya lugar.
+###### ARTICULO 59.
 
-II. Las consideraciones que a su juicio impidan se emita decisión en cuanto al fondo, o demuestren que no ha nacido o se ha extinguido el derecho en que el recurrente apoya su recurso.
+Al presentarse alguno de los supuestos a que se hace mención en los artículos anteriores y no exista un pronunciamiento judicial respecto de las medidas de protección para las niñas, niños y adolescentes, las Procuradurías de la Defensa del Menor y la Familia, podrán tramitar ante el Juez de lo Familiar correspondiente, la suspensión del régimen de visitas, del cuidado, guarda y depósito provisional, la suspensión provisional de la administración de bienes de los menores y demás medidas que protejan los derechos reconocidos en la Legislación Civil del Estado.
 
-III. Se referirá concretamente a cada uno de los hechos que el recurrente le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo cómo ocurrieron, según sea el caso.
+###### ARTICULO 60.
 
-IV. Los argumentos por medio de los cuales se demuestra la ineficacia de los agravios o peticiones del recurrente.
+Cuando el Ministerio Público lo estime necesario, dispondrá que las niñas, niños y adolescentes o sus familias, sigan un tratamiento psicológico ante la instancia correspondiente a fin de mejorar el ambiente familiar, o cuando el daño traiga como consecuencia la comisión de un delito, ejercitará la acción ante las instancias competentes.
 
-V. Las pruebas que ofrezca. Y que tengan relación inmediata y directa con la resolución o acto impugnado.
+### CAPITULO UNICO. DE LAS SANCIONES
 
-En caso de que se ofrezca la prueba pericial, se precisarán los hechos sobre los que deba versar y se señalará el nombre y domicilio del perito. Sin estos señalamientos se tendrán por no ofrecidas dichas pruebas.
+## TITULO SEPTIMO. DE LA INOBSERVANCIA DE LA LEY
 
-Documentos que se anexan a la contestación
+###### ARTICULO 61.
 
-###### Artículo 50.
+Los Servidores Públicos que en ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se deriven según corresponda, serán sancionados conforme a lo señalado en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y los Municipios, independientemente de lo señalado en la Legislación Civil y Penal.
 
-La autoridad responsable deberá adjuntar a su contestación:
+## ARTICULOS TRANSITORIOS
 
-I. Copias de la misma y de los documentos que acompañe para el recurrente y para el tercero señalado en el recurso.
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-II. El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandado.
+SEGUNDO.- Esta Ley entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-III. En su caso, la ampliación del cuestionario para el desahogo de la pericial ofrecida por el recurrente.
+TERCERO.- El Consejo Estatal para la Protección y Vigilancia de los Derechos de las Niñas, Niños y Adolescentes se instalará dentro de los 60 días naturales siguientes a la entrada en vigor de la presente Ley.
 
-Tratándose de la contestación a la ampliación del recurso, también se deberán adjuntar los documentos previstos en este artículo, excepto aquellos que ya se hubieran acompañado al escrito de contestación al recurso.
+CUARTO.- El Consejo Estatal para la Protección y Vigilancia de los Derechos de las Niñas, Niños y Adolescentes, expedirá su reglamento interno dentro de los 90 días naturales siguientes a su instalación.
 
-Para los efectos de este artículo será aplicable, en lo conducente el último párrafo del artículo 56 de este Reglamento.
+QUINTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-Las autoridades señaladas como responsables deberán señalar, y acompañar, la información clasificada en la Ley o por cualquier otra legislación como confidencial o reservada.
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-En caso de resolución afirmativa o negativa ficta, la autoridad expresará los hechos y el derecho en que se apoya la misma.
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintiún días del mes de julio del año dos mil cuatro. Diputado Presidente.- C. Víctor Humberto Benítez Treviño.- Diputados Secretarios.- C. Juan Darío Arreola Calderón.- C. Paulino Colín de la O.- C. Constantino Acosta Dávila.- Rúbricas.
 
-Incidente de nulidad de notificaciones. Plazo
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
-###### Artículo 51.
+Toluca de Lerdo, Méx., a 10 de septiembre del 2004
 
-Las notificaciones que no fueren hechas conforme a lo dispuesto en este Reglamento serán nulas. En este caso el perjudicado podrá pedir que se declare la nulidad dentro de los tres días siguientes a aquel en que conoció el hecho ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
 
-Las promociones de nulidad notoriamente infundadas se desecharán de plano.
+ARTURO MONTIEL ROJAS
 
-Si se admite la promoción, se dará vista a las demás partes por el término de tres días para que expongan lo que a su derecho convenga; transcurrido dicho plazo, se dictará resolución.
+(RUBRICA).
 
-Si se declara la nulidad de la notificación, el Pleno ordenará reponer la notificación anulada y las actuaciones posteriores.
+EL SECRETARIO GENERAL DE GOBIERNO
 
-El incidente anterior, únicamente podrán promoverse hasta antes de que quede cerrada la instrucción del recurso.
+MANUEL CADENA MORALES
 
-###### Artículo 52.
+(RUBRICA).
 
-Para el trámite del recurso serán procedentes los incidentes de previo y especial pronunciamiento que se establezcan en la legislación que contenga el procedimiento contencioso administrativo federal.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-De las Pruebas
+G.G. 6 DE MARZO DE 2010.
 
-Pruebas admisibles en el recurso
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
-###### Artículo 53.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
-En los recursos que se tramiten al tenor de este Reglamento, serán admisibles toda clase de pruebas, excepto la confesión de las autoridades mediante absolución de posiciones, la testimonial y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades.
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
 
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado resolución. En caso de que éstas se presenten, el Secretario Técnico de la Unidad de Enlace, ordenará dar vista a la contraparte para que en el plazo de tres días exprese lo que a su derecho convenga.
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
 
-El Secretario Técnico de la Comisión de Recursos para la Transparencia de la Información, podrá acordar la exhibición de cualquier documento que tenga relación con los hechos controvertidos o para ordenar la práctica de cualquier diligencia.
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
 
-###### Artículo 54.
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
-Tanto el ofrecimiento, como el desahogo y la valoración de las pruebas en general, se sujetarán al procedimiento que para el caso establezca la legislación en la que se encuentre contenido el procedimiento contencioso administrativo federal.
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
-Substanciación del Recurso de Revisión
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
-###### Artículo 55.
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
 
-El Recurso de Revisión se substanciará conforme a los lineamientos siguientes:
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
 
-I.- Interpuesto el recurso, el Secretario Técnico de la Comisión de Recursos para la Transparencia de la Información, procederá a:
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
 
-a) A la integración de expediente correspondiente, aplicando para ello y en la medida de lo posible, el procedimiento contemplado para el procedimiento contencioso administrativo federal;
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
 
-b) Al desahogo de las pruebas ofrecidas por las partes y sólo en el caso de que resulte imprescindible, propiciar las audiencias a que se refiere la fracción II, del artículo 55, de la ley;
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
-c) A asegurarse de que las partes puedan presentar, de manera oral o escrita, los argumentos en los que funden y motiven sus pretensiones;
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-d) Cerrada la instrucción, dentro de los cinco días hábiles siguientes a la remisión del recurso, presentará un proyecto de resolución;
+G.G. 5 DE ABRIL DE 2010.
 
-Para dictar resolución en los casos de sobreseimiento por alguna de las causas previstas en el artículo 42 de este Reglamento, no será necesario que se hubiese cerrado la instrucción.
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
-Proyecto y pronunciamiento de la Resolución. Plazos
+SEGUNDO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
-###### Artículo 56.
+G.G. 3 DE SEPTIEMBRE DE 2010.
 
-La resolución se pronunciará por unanimidad o mayoría de votos de los integrantes de la Comisión de Recursos para la Transparencia de la Información, dentro de los veinte días siguientes a aquel en que se presentó el proyecto de resolución. Para lo cual deberá de aplicarse el procedimiento de votación que para sus resoluciones contempla la legislación en la que se encuentra contenido el procedimiento contencioso administrativo federal.
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
-Cuando haya causa justificada, la Comisión de Recursos para la Transparencia de la Información, podrá ampliar, por una vez y hasta por un periodo igual, el plazo establecido en el párrafo anterior.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
-Si la Comisión de Recursos para la Transparencia de la Información, no resuelve en el plazo establecido en este Reglamento, la resolución que se recurrió se entenderá confirmada.
+TERCERO.- Para el cumplimiento del presente Decreto, se implementarán de manera gradual las partidas presupuestarias, así como los programas y proyectos, a partir del ejercicio fiscal 2011.
 
-Las resoluciones de la Comisión de Recursos para la Transparencia de la Información, serán públicas.
+G.G. 30 DE MARZO DE 2011.
 
-###### Artículo 57.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-Las resoluciones de la Comisión de Recursos para la Transparencia de la Información, se fundarán en derecho y resolverán sobre la pretensión del recurrente que se deduzca de su recurso, para lo cual deberá de subsanar las deficiencias de la queja a favor del recurrente, teniendo la facultad de invocar hechos notorios y de corregir los errores que adviertan en la cita de los preceptos que se consideren violados.
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-###### Artículo 58.
+TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de la Comisión de Derechos Humanos del Estado de México, cuyo nombramiento se realizó al amparo de las disposiciones que se reforman por este Decreto, permanecerá en su cargo plenamente por el periodo para el que fue electo.
 
-Las resoluciones de la Comisión de Recursos para la Transparencia de la Información, podrán:
+CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
-I. Desechar el recurso por improcedente o bien, sobreseerlo;
+QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
 
-II. Confirmar la decisión del Módulo de Información.
+G.G. 12 DE AGOSTO DE 2011.
 
-III. Revocar o modificar las decisiones del Módulo de Información y ordenar a la autoridad que corresponda, que permita al particular el acceso a la información solicitada; que reclasifique la información; que complete la información requerida o, que entregue la realmente solicitada.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-IV. Ordenar la modificación o corrección de datos.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V. Revocar o modificar el tiempo, el costo o la modalidad de entrega, de la información.
+TERCERO.- El Sistema para el Desarrollo Integral de la Familia del Estado de México, con el objeto de cumplir con lo dispuesto en la fracción XXI del artículo 18 de la Ley para la Protección de los Derechos de las Niñas, Niños y Adolecentes del Estado de México, dispondrá de un plazo de seis meses contados a partir de la publicación del presente decreto para desarrollar la base de datos correspondientes.
 
-Siempre que se esté en alguno de los supuestos previstos en las fracciones III, IV o V de este artículo, la Comisión de Recursos para la Transparencia de la Información, deberá de indicar los términos conforme a los cuales la autoridad responsable debe de cumplir con la obligación que le corresponde.
+G.G. 1 DE SEPTIEMBRE DE 2011.
 
-Cuando la Comisión determine durante la sustanciación del procedimiento que algún servidor público pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento del órgano interno de control del Tribunal para que éste inicie, en su caso, el procedimiento de responsabilidad que corresponda.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-La información reservada o confidencial que, en su caso, sea solicitada por la Comisión de Recursos para la Transparencia de la Información, por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Resuelto el recurso, la documentación así clasificada deberá de ser remitida de inmediato a su archivo de origen, lugar en donde permanecerá hasta su desclasificación.
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
-Plazo para cumplir obligaciones de la autoridad
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
 
-###### Artículo 59.
+G.G. 6 DE SEPTIEMBRE DE 2011.
 
-Si la resolución obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento de entrega de información, deberá cumplirse en un plazo no mayor de veinte días contados a partir de que la resolución quede firme.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-En el caso de que se interponga algún medio de defensa en contra de la resolución de la Comisión de Recursos para la Transparencia de la Información, se suspenderá el efecto de la misma hasta que se dicte la resolución que ponga fin a la controversia.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-###### Artículo 60.
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-Las tesis sustentadas en las resoluciones pronunciadas por el Pleno en esta materia, no tendrán efectos para fijar jurisprudencia.
+G.G. 14 DE MAYO DE 2014.
 
-###### Artículo 61.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-Transcurrido un año de que la Comisión de Recursos para la Transparencia de la Información, expidió una resolución que confirme la decisión del Módulo de Información, el particular afectado podrá solicitar ante la misma Comisión que reconsidere la resolución. Dicha reconsideración deberá referirse a la misma solicitud y resolverse en un plazo máximo de 60 días hábiles.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Se interpondrá por escrito ante el Secretario Técnico de la Comisión de Recursos para la Transparencia de la Información, en el que se expresarán las razones por las que se considera que en esos momentos ya resulta procedente la solicitud de información presentada e igualmente se ofrecerán las pruebas documentales que estime pertinentes.
-
-El Secretario Técnico de la Comisión de Recursos para la Transparencia de la Información, pedirá un informe al Módulo de Información para que dentro del término de veinte días, le remita la información requerida, si es que procede su solicitud, e indique la forma y el costo de su expedición; o en todo caso señale el impedimento legal, físico o material que tenga para proporcionarla, caso en que deberá de justificar el mismo.
-
-Vencido dicho plazo, con informe o sin él, el Secretario dará cuenta a la Comisión, para que resuelva dentro de los diez días posteriores a la integración del Recurso.
-
-## TRANSITORIO
-
-Inicio de vigencia
-
-Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-México, Distrito Federal, a diez de junio de dos mil tres.- El Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, Alejandro Sánchez Hernández.- Rúbrica.
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
