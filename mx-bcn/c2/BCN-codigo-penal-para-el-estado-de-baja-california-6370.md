@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-10-09"
+last_updated: "2009-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1027,7 +1027,7 @@ Extinción por amnistía.- La amnistía extingue la pretensión punitiva o las p
 
 ### CAPITULO VI. PERDON DEL OFENDIDO EN LOS DELITOS DE QUERELLA NECESARIA
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 105.
 
@@ -1049,13 +1049,11 @@ V.- Cuando el reo hubiere sido condenado por los mismos hechos en dos juicios di
 
 ###### Artículo 106.
 
-Extinción por perdón del ofendido.- El perdón del ofendido o del legitimado para otorgarlo, extingue la pretensión punitiva respecto de los delitos que solamente pueden perseguirse por querella, siempre que se conceda antes de dictarse sentencia de segunda instancia y el imputado no se oponga a su otorgamiento, una vez otorgado el perdón, éste no podrá revocarse.
+Extinción por perdón del ofendido.- El perdón de la víctima u ofendido o del legitimado para otorgarlo, extingue la pretensión punitiva respecto de los delitos que solamente pueden perseguirse por querella, siempre que se conceda antes de dictarse sentencia de segunda instancia y el imputado no se oponga a su otorgamiento, una vez otorgado el perdón, éste no podrá revocarse.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMA.</small>
+También extinguen la pretensión punitiva, los convenios celebrados entre la víctima u ofendido y el procesado, derivados de la intervención de un mediador, conciliador o facilitador adscrito al Ministerio Público, que hayan sido sancionados y debidamente cumplidos por la parte que se obligó, en los términos de las disposiciones normativas aplicables y en los delitos mencionados en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
-
-También extinguen la pretensión punitiva, los convenios judiciales celebrados entre el ofendido y el procesado, sancionados por el Juez Penal de la causa, así como aquellos derivados de la intervención de un mediador o conciliador en los términos de las disposiciones legales aplicables, en los delitos mencionados en el párrafo anterior.
+La aplicación de la mediación, conciliación y el proceso restaurativo, así como la sanción de los convenios, estará a cargo del personal de la Procuraduría General de Justicia que determinen las disposiciones normativas aplicables.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -1131,11 +1129,13 @@ En los demás casos, la pretensión punitiva prescribirá en dos años.
 
 Artículo 114 BIS.- En los delitos de homicidio, secuestro, violación, trata de personas y terrorismo, que refiere este Código, el plazo de la prescripción de la pretensión punitiva será el equivalente a la pena máxima señalada para el delito de que se trate.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 115.
 
-Prescripción de la pretensión punitiva en los delitos de querella.- La pretensión punitiva que nazca de un delito que solo pueda perseguirse por querella del ofendido o algún otro acto equivalente, prescribirá en un año de que el ofendido tenga conocimiento del delito, y en tres, independientemente de esta circunstancia.
+Prescripción de la pretensión punitiva en los delitos de querella.- La pretensión punitiva que nazca de un delito que solo pueda perseguirse por querella de la víctima u ofendido o algún otro acto equivalente, prescribirá en un año desde que la víctima u ofendido tenga conocimiento del delito, y en tres, independientemente de esta circunstancia.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Llenado el requisito procesal de la querella o del acto equivalente, se aplicarán las reglas de los delitos perseguibles de oficio.
 
@@ -1335,7 +1335,9 @@ Si las lesiones a que se refiere el párrafo anterior son inferidas a una person
 
 Lesiones perseguibles por querella.- Se persiguen por querella de parte:
 
-I.- Las lesiones previstas en el artículo 138;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+I.- Las lesiones previstas en los artículos 138, 141, así como 145 tratándose de la lesión producida por animal suelto por descuido;
 
 II.- Cuando se causen lesiones culposas, cualquiera que sea su naturaleza con motivo de tránsito de vehículos, siempre que el conductor no se hubiese encontrado en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra substancia que produzca efectos similares, y no se haya dejado abandonado a la víctima; o en los casos en que ésta sea consecuencia de la conducta culposa del personal de empresas de transporte de pasajeros, de carga de servicio público o concedido por autorización, permiso o licencia de las autoridades competentes.
 
@@ -1717,6 +1719,10 @@ Tipo y Punibilidad.- Al que sin el consentimiento de la persona que legítimamen
 
 Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una mitad más.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Cuando el activo del delito tenga parentesco por consanguineidad o afinidad con el ofendido o víctima hasta el tercer grado, el delito se perseguirá por querella de parte.
+
 (REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2007))
 
 ## TITULO TERCERO. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO Y DE LOS SISTEMAS Y EQUIPOS DE INFORMÁTICA
@@ -2005,6 +2011,10 @@ Tipo.- Comete el delito de robo, el que se apodera de una cosa ajena mueble, sin
 
 Robo equiparado.- Se equipara al robo y se castigará como tal la disposición de una cosa mueble ejecutada por el dueño, si la cosa se haya (sic) en poder de otro a título de prenda o de depósito, decretado por una autoridad o hecho con su intervención o mediante contrato público o privado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+El delito de robo equiparado se perseguirá por querella de parte ofendida.
+
 ###### Artículo 200.
 
 Consumación del robo.- Para la aplicación de la sanción se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
@@ -2067,13 +2077,23 @@ I.- Cuando ésta se haga a una persona distinta de la robada, cuando se halle en
 
 II.- Cuando el ladrón la ejercite después de consumado el robo, para proporcionarse la fuga o defender lo robado.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 206.
 
-Robo por querella.- El robo cometido por un ascendiente contra un descendiente suyo o por éste contra aquel, por quienes tienen relación de concubinato entre ellos, o un cónyuge contra el otro, por un suegro contra su yerno o nuera, o por éstos contra aquel, por un padrastro contra su hijastro o viceversa o por un hermano contra su hermano, entre adoptante y adoptado, sólo se sancionará cuando el agraviado lo pida.
+Robo por querella.- El robo se perseguirá por querella de parte ofendida en los siguientes casos:
+
+I.- Cuando sea cometido por y contra quienes tenga una relación de parentesco consanguíneo, por afinidad o civil, o una relación de concubinato.
+
+II.- Cuando se trate de las hipótesis previstas en las fracciones III, IV, V, VI y VII del artículo 208 de este código.
 
 ###### Artículo 207.
 
 Tipo y punibilidad del delito de robo de uso.- Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de uno a seis meses de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió para ello. Además, pagará al ofendido como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+El delito de robo de uso se perseguirá por querella de parte ofendida.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -2455,11 +2475,11 @@ V.- Montes, bosques, pastos, o cultivos de cualquier género.
 
 Acumulación.- Si además de los daños directos resulta consumado algún otro delito, se aplicarán las reglas de la acumulación.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 231.
 
-Querella.- Los daños en propiedad ajena se perseguirán por querella de parte ofendida, con excepción de los causados por las conductas previstas en el artículo 228 Ter; las agravadas establecidas en el artículo 229 y los producidos por tránsito de vehículos y el conductor se encuentre en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquier sustancia de efectos similares previstas en los artículos 255 y 256 de este Código, cuya persecución será de manera oficiosa.
+Querella.- Los daños en propiedad ajena se perseguirán por querella de parte ofendida, con excepción de los causados por las conductas previstas en el artículo 228 Ter; aquellas conductas agravadas cometidas con dolo previstas en el artículo 229 y los producidos por tránsito de vehículos y el conductor se encuentre en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquier sustancia de efectos similares previstas en los artículos 255 y 256 de este Código, cuya persecución será de manera oficiosa.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
@@ -2543,6 +2563,10 @@ No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando el oblig
 
 Insolvencia dolosa para cumplir las obligaciones alimentarias.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la Ley determina, se le impondrá prisión de seis meses a cuatro años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+El delito previsto en este artículo se perseguirá por querella de parte ofendida.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ### CAPITULO IV. DELITOS CONTRA EL CONSUMO Y LA RIQUEZA
@@ -2576,6 +2600,10 @@ II.- Impedir la guarda y custodia compartida en los términos de la resolución 
 Si el agente devuelve al menor o incapaz espontáneamente, dentro de los cinco días siguientes a la consumación del delito, se le aplicará una tercera parte de las penas arriba señaladas.
 
 Además de las penas señaladas, se privará de los derechos de la patria potestad, tutela o custodia, así como de los derechos de familia, en su caso, a quienes teniendo el ejercicio de éstos en relación con el ofendido, cometa el delito a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Artículo 237 QUATER.- Persecución oficiosa.- El delito de sustracción de menores o incapaces previsto en el artículo 237 se perseguirá de oficio; excepto lo dispuesto en su segundo párrafo y las conductas a que se refieren los artículos 237 bis y 237 ter, las cuales se perseguirán por querella de la parte ofendida o de sus representantes legítimos, salvo que dichas conductas se hayan ejercitado con violencia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -2628,6 +2656,10 @@ VII.- Usurpe el estado civil o la filiación de otro, con el fin de adquirir der
 VIII.- Substituya a un menor por otro o cometa ocultación de aquel para perjudicarlo en sus derechos de familia; o
 
 IX.- Registre o haga registrar un divorcio o nulidad de matrimonio que no hubiesen sido declarados por sentencia ejecutoria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Cuando se trate de los supuestos previstos en las fracciones III y VI de este articulo, el delito se perseguirá por querella de parte ofendida.
 
 ###### Artículo 240.
 
@@ -3739,9 +3771,17 @@ V.- Pida términos para probar lo que notoriamente no puede demostrar o no ha de
 
 VI.- Como defensor, sea particular o de oficio, sólo se concrete a aceptar el cargo o a solicitar la libertad caucional que menciona la fracción I del artículo 20 de la Constitución, sin promover más pruebas ni dirigir al inculpado en su defensa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Este delito se perseguirá por querella de parte ofendida.
+
 ###### Artículo 338.
 
 Abandono de defensa.- Al defensor de oficio o particular de un inculpado que no ofrezca ni desahogue pruebas dentro de los plazos previstos por la Ley, estando en posibilidad de hacerlo, y que corresponda a la defensa, se le impondrá pena de prisión de seis meses a tres años y suspensión hasta por dos años de los derechos de ejercer la abogacía; además será destituido e inhabilitado para ejercer su cargo, si el defensor es de oficio, hasta por dos años.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Este delito se perseguirá por querella de parte ofendida.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 1992)</small>
 
@@ -4550,3 +4590,7 @@ P.O. 11 DE SEPTIEMBRE DE 2009.
 P.O. 9 DE OCTUBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
