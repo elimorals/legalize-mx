@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-10-09"
+last_updated: "2009-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007.</small>
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007 Y 13 DE NOVIEMBRE DE 2009.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -195,9 +195,11 @@ Cuando un magistrado, juez o secretario no se excuse a pesar de tener algún imp
 
 ### CAPITULO II. EL MINISTERIO PUBLICO Y LA POLICIA JUDICIAL
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 19.
 
-Funciones del Ministerio Público.- Corresponde al Ministerio Público llevar a cabo la averiguación previa, y ejercer la acción penal ante los Tribunales del Estado, en los casos en que resulte legalmente procedente.
+Funciones del Ministerio Público.- Corresponde al Ministerio Público promover entre las partes en los supuestos que señala el Código Penal para el Estado, que los conflictos surgidos como consecuencia de la comisión de delitos se solucionen a través de la mediación, conciliación y el proceso restaurativo; llevar a cabo la averiguación previa, y ejercer la acción penal ante los Tribunales del Estado, en los casos en que resulte legalmente procedente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -225,13 +227,9 @@ VI.- Determinar conforme a las disposiciones de este Código, la reserva o bien 
 
 VII.- Ordenar la detención por urgencia administrativa, en los términos y condiciones previstos en este código;
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+VIII.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2009)
 
-VIII.- Promover la conciliación de las partes en los delitos perseguibles por querella, a través de convenios procurando garantías suficientes;
-
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
-
-IX.- Sancionar los convenios a que se refiere la fracción anterior;
+IX.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2009)
 
 > <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -461,9 +459,11 @@ Idioma.- Las actuaciones deberán practicarse y levantarse usando exclusivamente
 
 Cuando el inculpado, la víctima o el ofendido o los testigos no comprendan o no hablen dicho idioma, se estará a lo dispuesto por los artículos 49 y 50 de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 37.
 
-Intervención forzosa de fedatarios y medios para practicar las diligencias.- El Juzgador y el Ministerio Público estarán acompañados en todas las diligencias que practiquen, de sus secretarios, o de dos testigos de asistencia, que darán fe de todo lo que en aquellas acontezca.
+Intervención Forzosa de Fedatarios y Medios para Practicar las Diligencias.- El Juzgador y el Ministerio Público estarán acompañados en todas las diligencias que practiquen, de sus Secretarios, o de dos testigos de asistencia, que darán fe de todo lo que en aquellas acontezca, excepto tratándose de los segundos cuando apliquen la mediación, conciliación y el proceso restaurativo.
 
 En las diligencias podrán emplearse, según el caso y a juicio del funcionario que las practique, cualquier medio que tenga por objeto reproducir imágenes o sonidos; el medio empleado se hará constar en el acta respectiva.
 
@@ -617,11 +617,9 @@ Requisitos de validez de las resoluciones del Tribunal.- Para la validez de las 
 
 Trámites y providencias de oficio.- El Juzgador, puede dictar de oficio los trámites y providencias encaminados a que la justicia sea pronta y expedita.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422.</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2007)</small>
-
-El Juzgador deberá hacer del conocimiento de las partes a partir del auto de formal prisión y hasta antes de citación a sentencia, el derecho que tienen de conciliar sus intereses ante éste o solicitar la intervención de un mediador y conciliador, siempre y cuando se trate de delitos perseguibles por querella.
+El Juzgador deberá hacer del conocimiento de las partes a partir del auto de formal prisión y hasta antes de citación a sentencia, el derecho que tienen de someter su conflicto a la mediación, conciliación o al proceso restaurativo, y solicitar la intervención del Ministerio Público para ello, siempre y cuando se trate de delitos perseguibles por querella.
 
 ### CAPITULO IV. COMUNICACIONES JUDICIALES
 
@@ -1093,11 +1091,11 @@ No se considera como antecedentes para negar la libertad caucional, los delitos 
 
 Cuando se solicite la libertad caucional, el juzgador o el ministerio público en su caso, deberá resolver de plano lo conducente. Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervinientes.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 123.
 
-Delitos Graves.- Para todos los efectos legales, se califican como delitos graves los previstos en los siguientes artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa: Homicidio por culpa, previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el Artículo 123, en su forma simple contemplado en el Artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en los Artículos 126 en relación con el 147, y sus formas agravadas previstas en los Artículos 127 y 128; infanticidio descrito en el Artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del Artículo 131; lesiones contra menores o incapaces descrito en el Artículo 143-BIS párrafo segundo; secuestro previsto en los Artículos 164 y 165; secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el Artículo 164 BIS fracciones I y II; asalto agravado tipificado en el Artículo 173; violación contemplada en el Artículo 176; violación equiparada en el Artículo 177; violación impropia en el Artículo 178, así como las formas agravadas, a que se refiere el Artículo 179; abuso Sexual (sic) previsto en el Artículo 180 BIS; robo previsto en el Artículo 201 BIS cuando se encuentre en el supuesto de la fracción III del Artículo 201; robo calificado en las hipótesis previstas por los Artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los Artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el Artículo 209; extorsión a que se refiere el Artículo 224; despojo agravado a que se refiere el párrafo cuarto del Artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del Artículo 229; La (sic) presunción prevista en el segundo párrafo del Artículo 232, cuando el sujeto activo se dedique a una actividad comercial; tráfico de menores descrito por el Artículo 238 primero y segundo párrafos; corrupción de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tienen (sic) capacidad de resistirlo, tipificado en Artículo 261 párrafo segundo; pornografía de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo tipificado en el Artículo 262; turismo sexual con personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo, tipificado en el Artículo 262-TER; lenocinio de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo previsto en el Artículo 264; trata de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo, previsto en el Artículo 265; trata de personas previsto en el Artículo 268; terrorismo descrito en el Artículo 279 excepto su encubrimiento; peculado en su modalidad contemplada en el Artículo 299 fracción III; tortura previsto en el Artículo 307-BIS primer párrafo y 307-TER segundo párrafo; evasión de presos, en la forma agravada del Artículo 328 y los delitos electorales previstos en los Artículos 348 fracción IV y 355.
+Delitos Graves.- Para todos los efectos legales, se califican como delitos graves los previstos en los siguientes artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa: Homicidio por culpa, previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el Artículo 123, en su forma simple contemplado en el Artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en los Artículos 126 en relación con el 147, y sus formas agravadas previstas en los Artículos 127 y 128; infanticidio descrito en el Artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del Artículo 131; lesiones contra menores o incapaces descrito en el Artículo 143-BIS párrafo segundo; secuestro previsto en los Artículos 164 y 165; secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el Artículo 164 BIS fracciones I y II; asalto agravado tipificado en el Artículo 173; violación contemplada en el Artículo 176; violación equiparada en el Artículo 177; violación impropia en el Artículo 178, así como las formas agravadas, a que se refiere el Artículo 179; abuso sexual previsto en el Artículo 180 BIS; robo previsto en el Artículo 201 BIS cuando se encuentre en el supuesto de la fracción III del Artículo 201; robo calificado en las hipótesis previstas por los Artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los Artículos 208-BISy 208-TER fracciones de la I a la V; abigeato descrito en el Artículo 209; extorsión a que se refiere el Artículo 224; despojo agravado a que se refiere el párrafo cuarto del Artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados cometidos en forma dolosa contenidos en las fracciones I y II del Artículo 229; la presunción prevista en el segundo párrafo del Artículo 232, cuando el sujeto activo se dedique a una actividad comercial; tráfico de menores descrito por el Artículo 238 primero y segundo párrafos; corrupción de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tienen capacidad de resistirlo, tipificado en Artículo 261 párrafo segundo; pornografía de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo tipificado en el Artículo 262; turismo sexual con personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo, tipificado en el Artículo 262-TER; lenocinio de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo previsto en el Artículo 264; trata de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo, previsto en el Artículo 265; trata de personas previsto en el Artículo 268; terrorismo descrito en el Artículo 279 excepto su encubrimiento; peculado en su modalidad contemplada en el Artículo 299 fracción III; tortura previsto en el Artículo 307-BIS primer párrafo y 307-TER segundo párrafo; evasión de presos, en la forma agravada del Artículo 328 y los delitos electorales previstos en los Artículos 348 fracción IV y 355.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1998)</small>
 
@@ -1977,7 +1975,9 @@ La querella también puede formularse verbalmente o por escrito, observándose p
 
 Querella de personas menores de dieciocho años de edad que no tengan la capacidad para comprender el significado del hecho, o personas con capacidades diferentes no tengan la capacidad para comprender el significado del hecho derivada de delitos culposos.- Cuando la víctima u el ofendido sea persona menor de dieciocho años de edad puede querellarse por sí mismo, siempre que haya cumplido catorce años o a través de quienes ejerzan la patria potestad o la tutela. Tratándose de personas con capacidades diferentes personas que no tengan la capacidad para comprender el significado del hecho, la querella se presentará por los representantes legales o por cualquier persona cuando carezcan de representación, pero en este caso el Ministerio Público le designará un tutor dativo de entre los funcionarios públicos que actúan en el área de la protección del menor de dieciocho años de edad y la familia, quien decidirá la subsistencia o retiro de la acusación y representará al ofendido en todos los casos del procedimiento penal.
 
-Cuando con motivo del tránsito de vehículos de motor, culposomente (sic) se cause lesión, y la víctima u ofendido queden en estado de inconsciencia o imposibilitado para formular su querella y no tuviere quien lo represente legal o convencionalmente se entenderá que su deseo es querellarse.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Cuando se trate de lesiones perseguibles por querella previsto en el Artículo 144 del Código Penal, y el ofendido quede en estado de inconsciencia o imposibilitado para formular su querella y no tuviere quien lo represente legal o convencionalmente se entenderá que su deseo es querellarse.
 
 ###### Artículo 230.
 
@@ -2217,9 +2217,9 @@ IV.- Cuando de la averiguación o del proceso se desprenda plenamente que el inc
 
 V.- Cuando se haya extinguido la acción penal por cualquiera de las causas previstas en este Código, y
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-VI.- Cuando se haya celebrado un convenio conciliatorio entre el ofendido y el indiciado, en los delitos perseguibles por querella, previa sanción de dicho convenio por el Ministerio Público.
+VI.- Cuando se haya celebrado un convenio entre la víctima u ofendido y el indiciado, en los delitos perseguibles por querella, previa sanción y debido cumplimiento de dicho convenio.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1998)</small>
 
@@ -2352,6 +2352,24 @@ Constancias de antecedentes penales.- Dictado el auto de formal prisión o de su
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2002)</small>
 
 La constancia de antecedentes penales solo será expedida por la Secretaría de Seguridad Pública, y contendrá la identificación del inculpado y todos los datos relativos a cualquier averiguación o proceso penal instaurado en su contra, cuando la requiera una autoridad competente, pero cuando sea el interesado quien la solicite, los antecedentes solo harán referencia a sentencias condenatorias, por delitos de carácter doloso, debidamente ejecutoriadas. En cualquier otro caso, la constancia especificará la ausencia de antecedentes penales.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Artículo 279 BIS.- De la cancelación de los antecedentes penales.- Los antecedentes penales se cancelarán conforme a las siguientes reglas:
+
+1.- Que se haya cubierto la reparación del daño y pago de la multa;
+
+2.- Haber transcurrido sin que el sentenciado haya cometido delito alguno o se encuentre bajo proceso penal:
+
+a) Un año cuando la sanción no sea privativa de libertad;
+
+b) Tres años para las restantes sanciones;
+
+Estos plazos se cantarán desde el día siguiente a aquel en que se cumpla o prescriba la pena respectiva.
+
+Quedan excluidos de la presente disposición los antecedentes penales que se deriven de delitos considerados como graves.
+
+Las personas que conforme a este artículo tengan derecho a solicitar la cancelación de sus antecedentes penales, podrán hacerlo ante el órgano judicial que hubiere conocido del asunto, y se tramitará como incidente no especificado, en los términos de lo dispuesto por el artículo 411 de este Código. Este beneficio se otorgará por una sola ocasión, en caso de reincidencia se identificará al procesado por el sistema adoptado administrativamente.
 
 ###### Artículo 280.
 
@@ -2521,11 +2539,9 @@ III.- Cuando en cualquier etapa del procedimiento judicial el inculpado manifies
 
 IV.- Cuando no se pueda hacer saber al inculpado el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye para que pueda contestar el cargo, por encontrarse en estado de inconsciencia;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422.</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
-
-V.- Cuando tratándose de delitos perseguibles por querella, una de las partes interesadas solicite al Juzgador la intervención de un mediador y conciliador, suspendiéndose el procedimiento por un período de dos meses en los términos previstos por la Ley de la materia;
+V.- Cuando tratándose de delitos perseguibles por querella, una de las partes interesadas solicite al Juzgador la intervención del Ministerio Público para solucionar el conflicto a través de la mediación, conciliación o el proceso restaurativo, suspendiéndose el procedimiento por un período de dos meses en los términos previstos por la Ley de la materia;
 
 > <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422.</small>
 
@@ -3715,15 +3731,37 @@ I. Ensenada, a partir de las cero horas del día primero de febrero del año dos
 
 II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día primero de febrero del año dos mil doce.
 
-Artículo Segundo.- Abrogación. El Código de Procedimientos Penales promulgado el veinte de agosto de mil novecientos ochenta y nueve seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del presente ordenamiento, y quedará abrogado en la medida en que aquellos queden agotados.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-Artículo Tercero.- Derogación Tácita de Preceptos Incompatibles. A la entrada en vigor sucesiva del presente ordenamiento quedarán derogados los preceptos de la legislación de la Entidad que se le opongan.
+Artículo Segundo.- Aplicación del Código de 1989.- El Código de Procedimientos Penales publicado en el Periódico Oficial del Estado de fecha 20 de agosto de 1989 se seguirá aplicando:
+
+I.- En los Municipios del Estado en los que no haya entrado en vigor el presente Código, conforme a los momentos que se señalan en el artículo transitorio anterior.
+
+II.- En los Municipios del Estado, en los que habiendo entrado en vigor el presente Código, se trate de hechos delictivos y procedimientos penales, cometidos o iniciados con anterioridad a ese momento.
+
+III.- Como ordenamiento jurídico supletorio de la Ley contra la Delincuencia Organizada para el Estado de Baja California, hasta en tanto entra en vigor la nueva Ley especial de la materia que expida el Congreso de la Unión al ejercer la facultad que le confiere el artículo 73, fracción XXI, de la Constitución Federal. En el supuesto de que la Ley federal establezca que los Códigos de Procedimientos Penales de las Entidades Federativas serán sus leyes supletorias, se extenderá su aplicabilidad en términos de lo dispuesto por la citada Ley federal.
+
+IV.- Como ordenamiento jurídico supletorio de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, hasta en tanto se reforme esta Ley y se establezca disposición expresa en la que se señale que el citado Código ha dejado de ser supletorio.
+
+V. Como ordenamiento jurídico supletorio de la Ley de Justicia de Adolescentes para el Estado de Baja California publicada el día 27 de octubre de 2006 en el Periódico Oficial del Estado.
+
+El Código de Procedimientos Penales publicado en el Periódico Oficial del Estado de fecha 20 de agosto de 1989, podrá seguir siendo reformado o adicionado hasta en tanto se siga actualizando alguno de los supuestos contenidos en las fracciones anteriores.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Artículo Tercero.- Inaplicabilidad de normas incompatibles. Con las excepciones previstas en este apartado, serán inaplicables las normas jurídicas contenidas en la legislación del Estado que se opongan a las disposiciones normativas contenidas en este Código.
 
 Artículo Cuarto. Delitos Permanentes y Continuados. El procedimiento penal relativo a hechos delictuosos de carácter permanente o continuado que iniciaron bajo la vigencia del aludido Código de Procedimientos Penales de mil novecientos ochenta y nueve y que continúen desarrollándose bajo la vigencia de la presente Ley, será regulado por el primero de los Ordenamientos citados en este Artículo.
 
-Artículo Quinto. Prohibición de Acumulación de Procesos. No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al abrogado.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-Artículo Sexto. (REFORMADO [N. DE E. DEROGADO], P.O. 20 DE MARZO DE 2009)
+Artículo Quinto.- Prohibición de Acumulación de Procesos. No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al Código de procedimientos Penales publicado en el Periódico Oficial del Estado con fecha veinte de agosto de 1989.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Artículo Sexto.- En tanto se constituya el Fondo General de reparaciones a las víctimas u ofendido, señalado en el artículo 86 de este Código, el monto de la condena por hechos punibles que afecten intereses colectivos o difusos o que afecten el patrimonio del Estado se destinará al Fondo Auxiliar del Poder Judicial del Estado.
+
+La aplicación de lo dispuesto en el último párrafo del artículo 154 de este Código, estará condicionada a la creación del órgano que se señala en el citado precepto.
 
 Artículo Séptimo.- Legislación de Transición.- Antes de la entrada en vigencia de este Código, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría de Oficio, del Ministerio Público, de los Cuerpos de Seguridad Pública, así como la legislación penitenciaria y en general, toda aquella que sea necesaria para su implementación.
 
@@ -3760,3 +3798,23 @@ La presente reforma entrará en vigor al día siguiente al de su publicación en
 P.O. 9 DE OCTUBRE DE 2009.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 277, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 19, 20, 37, 63, 123, 229,263 Y 299 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Para la aplicación de la mediación, conciliación y el proceso restaurativo, los servidores públicos de la Procuraduría General de Justicia se ajustarán en lo conducente a las disposiciones normativas contenidas en la Ley de Justicia Alternativa para el Estado de Baja California y en las demás disposiciones normativas aplicables referentes a la mediación y conciliación en materia penal, así como al proceso restaurativo.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 279, POR EL QUE SE REFORMAN DIVERSOS ARTICULOS, ASI COMO LA DENOMINACION DE DIVERSOS TITULOS Y CAPITULOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O DE FECHA 19 DE OCTUBRE DE 2007.
+
+ÚNICO.- Las presentes reformas entrarán en vigor de conformidad a lo dispuesto en el artículo primero transitorio del Código de Procedimientos Penales para el Estado publicado en el Periódico Oficial el 19 de octubre de 2007.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 281, POR EL QUE SE ADICIONA EL ARTICULO 279 BIS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
