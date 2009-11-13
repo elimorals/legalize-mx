@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-44412"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2005-03-14"
+last_updated: "2009-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 LEY DE EDUCACION DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009
 
-Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005
+Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005
 
 DECRETO NUMERO: 148
 
@@ -205,13 +205,17 @@ La Autoridad Educativa Estatal establecerá un Sistema Integral de Capacitación
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 19.
 
-La Autoridad Educativa Estatal elaborará y aplicará un Plan Integral de Equidad, por medio del cual coordine a todas las instituciones que operen programas que incidan en la función educativa, sin distinción por su fuente de financiamiento -federal, estatal, municipal o privado-, para apoyar el acceso, la permanencia y la conclusión de la educación básica de niños y jóvenes en condiciones de mayor desventaja social, especialmente a personas en condición de pobreza extrema; en reclusión; habitantes de zonas urbano marginadas, rurales, indígenas, asentamientos irregulares; migrantes; personas con capacidades diferentes y sobresalientes; jóvenes y adultos en rezago educativo; madres solteras y jóvenes desamparadas.
+La autoridad educativa estatal elaborará y aplicará un plan integral de equidad, por medio del cual coordine a todas las instituciones que operen programas que incidan en la función educativa, sin distinción por su fuente de financiamiento -federal, estatal, municipal o privado-, para apoyar el acceso, reingreso, la permanencia y la conclusión de la educación básica de niños, niñas y jóvenes en condiciones de mayor desventaja social, especialmente a personas en condición de pobreza extrema; en reclusión; habitantes de zonas urbano marginadas, rurales, indígenas, asentamientos irregulares; migrantes; personas con capacidades diferentes y sobresalientes; jóvenes y adultos en rezago educativo; madres solteras y jóvenes desamparadas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 20.
 
-Para cumplir con lo dispuesto en el artículo anterior, la Autoridad Educativa Estatal llevará a cabo las acciones siguientes:
+Para cumplir con lo dispuesto en el artículo anterior, la autoridad educativa estatal llevará a cabo las acciones siguientes:
 
 I. Celebrar convenios de colaboración con instituciones y organismos nacionales e internacionales para obtener financiamiento complementario destinado a las acciones de inclusión social y equidad educativa, con preferencia a los programas de becas, de atención a zonas marginadas e indígenas y personas que requieran educación especial;
 
@@ -225,7 +229,15 @@ V. Establecer un programa para detectar y atender a educandos con agudeza auditi
 
 VI. Constituir y operar un programa específico dirigido a atender a las escuelas que se encuentran en localidades aisladas y zonas urbano-marginadas, de mayor riesgo de rezagos, para integrarlas a un proceso de mejoramiento continuo que les garantice contar con instalaciones dignas y además procurar la actualización permanente de los educadores;
 
-VII. Procurar apoyos educativos específicos para migrantes, a partir de una investigación auspiciada por la Autoridad Educativa Estatal, que permita configurar la propuesta educativa especial para los migrantes, donde se considere un currículo y calendario flexibles, y se creen condiciones materiales y de recursos para su operación.
+VII. Procurar apoyos educativos específicos para migrantes, a partir de una investigación auspiciada por la Autoridad Educativa Estatal, que permita configurar la propuesta educativa especial para los migrantes, donde se considere un currículo y calendario flexibles, y se creen condiciones materiales y de recursos para su operación;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+VIII. Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que faciliten la terminación de la educación preescolar, primaria y la secundaria, otorgando facilidades de acceso, reingreso, permanencia y egreso a las mujeres;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+IX. Desarrollarán programas con perspectiva de género para otorgar becas y demás apoyos económicos a educandos.
 
 ## TÍTULO CUARTO. ORGANIZACIÓN DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -1202,3 +1214,11 @@ PEDRO JOSE FLOTA ALCOCER
 LA SECRETARIA DE EDUCACIÓN Y CULTURA
 
 M. C. MIRNA MANZANILLA ROMERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Las autoridades educativas realizarán las acciones necesarias que permitan dar cumplimiento a lo que establece la fracción VIII y IX del Artículo 20 de la presente ley a los 90 días de la entrada en vigor del presente decreto y presentaran un informe al respecto a las Comisiones de Salud, Educación, Cultura y Deportes; de Equidad y Género; y de Reglamentos de esta H. XII Legislatura.
