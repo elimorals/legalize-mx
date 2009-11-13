@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2009-08-28"
+last_updated: "2009-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -55,11 +55,17 @@ I.- El Gobernador del Estado;
 
 II.- La Secretaría de Salud del Estado; y
 
-III.- Los Ayuntamientos.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+III.- Los Ayuntamientos, en los términos de los acuerdos que celebren con el Gobernador del Estado, de conformidad con esta Ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 La Secretaría de Salud ejercerá las atribuciones de regulación, control y fomento sanitarios que conforme a la presente Ley, a los Acuerdos celebrados con la Federación en la materia, y a los demás ordenamientos aplicables le correspondan, a través de un órgano con autonomía técnica y operativa denominado Comisión Estatal para la Protección contra Riesgos Sanitarios, la cual funcionará en los términos establecidos en el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Son auxiliares de las autoridades sanitarias, las dependencias y los servidores públicos adscritos a los Poderes del Estado y a los Municipios.
 
 ###### ARTÍCULO 3.
 
@@ -163,7 +169,9 @@ XV.- Rastros;
 
 XVI.- Transporte público de carga de productos alimenticios;
 
-XVII.- Los centros de desarrollo infantil; y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+XVII.- Los centros de desarrollo infantil y Estancias Infantiles Familiares; y
 
 XVIII.- Los demás establecimientos y servicios similares y aquellos que determinen otras disposiciones aplicables.
 
@@ -227,19 +235,31 @@ II.- Elaborar el programa de salud para el Estado, tomando en cuenta las priorid
 
 III.- Organizar, supervisar, evaluar y operar en su caso, la prestación de los servicios de salud a que se refiere el artículo 4º de esta Ley;
 
-IV.- Efectuar el control sanitario de los establecimientos y servicios a que se refiere el artículo 4° de la presente Ley;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+IV.- Efectuar el control sanitario de los establecimientos y servicios a que se refiere el artículo 5 de la presente Ley;
 
 V.- Promover, orientar y apoyar las acciones en materia de salubridad local a cargo de los Municipios, con sujeción a la política nacional y estatal de salud y a los acuerdos que se suscriban;
 
-VI.- Cumplir y hacer cumplir las normas oficiales mexicanas en la materia, cuando su aplicación corresponda a las autoridades locales; y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-VII.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta Ley y demás ordenamientos aplicables.
+VI.- Cumplir y hacer cumplir las normas oficiales mexicanas en la materia, cuando su aplicación corresponda a las autoridades locales;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+VII.- Impulsar la coordinación y colaboración de los integrantes del Sistema Estatal de Salud para efectuar el control sanitario de los Centros de Desarrollo Infantil y de las Estancias Infantiles Familiares; y
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+VIII.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 12.
 
 Corresponde a los Municipios:
 
-I.- Asumir en el ámbito de su competencia, los servicios de salud a que se refieren los Artículos 4° y 5° de este Ordenamiento;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+I.- Asumir en el ámbito de su competencia, los servicios de salud a que se refieren los Artículos 4° y 5° de este Ordenamiento; en los términos de los acuerdos de coordinación que suscriban con el Gobernador del Estado;
 
 II.- Administrar los establecimientos asistenciales y de salud que descentralice en su favor el Ejecutivo del Estado en los términos de las leyes aplicables y de los acuerdos que al efecto se celebren;
 
@@ -959,6 +979,8 @@ Las Autoridades Sanitarias del Estado mantendrán campañas permanentes a fin de
 
 #### SECCION I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 89.
 
 Las Autoridades Sanitarias del Estado en sus respectivos ámbitos de competencia, realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades determinen.
@@ -1135,17 +1157,25 @@ A los establecimientos, así como a los responsables de los mismos que vendan o 
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL
+#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
+
+(NOTA: EL 10 DE FEBRERO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION I. DE LAS AUTORIZACIONES
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
-#### SECCION II. DE LA REVOCACION DE PERMISOS SANITARIOS
+#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 107.
 
-La Secretaría de Salud del Estado y los Ayuntamientos, ejercerán el control sanitario de las materias a que se refiere el Artículo 5o. de este Ordenamiento.
+La Secretaría de Salud del Estado, ejercerá el control sanitario de las materias a que se refiere el Artículo 5º de este Ordenamiento.
 
 ###### ARTÍCULO 108.
 
@@ -1329,35 +1359,177 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes de carga señalados en el artículo anterior que circulen por el territorio estatal, deberán contar con la autorización sanitaria expedida por la Autoridad Sanitaria correspondiente, una vez cubiertos los requisitos que marca esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 147.
 
-Se entiende por centros de desarrollo infantil, el establecimiento donde se brinda cuidado temporal, alimentación y educación inicial, a menores en edad lactante, maternal y preescolar, cualquiera que sea su denominación.
+Se entiende por Centros de Desarrollo Infantil, el establecimiento donde se brinda cuidado temporal, alimentación y que en su caso brinden educación inicial, a menores en edad lactante, maternal, preescolar y menores con discapacidad NO DEPENDIENTES, cualquiera que sea su denominación.
+
+Es Estancia Infantil Familiar, la casa habitación en la que el propietario o posesionario del inmueble habita y de manera personal brinda cuidado temporal y alimentación a menores en edad lactante y hasta de seis años.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 1.- La Secretaría de Salud para otorgar autorización sanitaria para el funcionamiento de un Centro de Desarrollo Infantil, deberá comprobar que el solicitante satisface los requisitos siguientes:
+
+I.- Tener autorización del uso de suelo del inmueble expedido por la autoridad municipal competente;
+
+II.- Contar con título de propiedad o documento que acredite la legal posesión del inmueble;
+
+III.- Tener planos arquitectónicos y de instalaciones del inmueble, precisando las relativas a la seguridad de las personas, la prevención, control de incendios y la evacuación de los ocupantes, autorizado por la autoridad municipal competente;
+
+IV.- Contar con certificado o documento de aprobación de los dispositivos o sistemas de seguridad y prevención de Incendios del inmueble expedido por la autoridad municipal competente;
+
+V.- Contar con autorización del cupo máximo de personas en el inmueble, expedida por la Autoridad Municipal Competente;
+
+VI.- Tener autorización de ocupación del inmueble, expedida por la Autoridad Municipal Competente;
+
+VII.- Contar con reglamento interno, manuales técnicos administrativos y programa general de trabajo, y
+
+VIII.- Los demás requisitos que determine el reglamento.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 2.- La Secretaría de Salud para otorgar autorización sanitaria para el funcionamiento de una Estancia Infantil Familiar, deberá comprobar que el solicitante satisface los requisitos siguientes:
+
+I.- Contar con título de propiedad o documento que acredite la legal posesión del inmueble;
+
+II.- Contar con certificado o documento de aprobación de los dispositivos o sistemas de seguridad y prevención de Incendios del inmueble expedido por la autoridad municipal competente;
+
+III.- Contar con estudios mínimos de primaria;
+
+IV.- Identificación Oficial;
+
+V.- Registro Federal de Contribuyentes;
+
+VI.- Constancia de nomenclatura del inmueble expedida por la autoridad municipal, y
+
+VII.- Constancia de capacitación del solicitante en Control de la Nutrición, Crecimiento y Desarrollo del Niño expedida por la Secretaría de Salud del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 3.- La autorización sanitaria para operar una Estancia Infantil Familiar deberá especificar la ocupación máxima de personas en el inmueble autorizado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 4.- La Secretaría de Salud deberá resolver la solicitud de autorización sanitaria para un Centro de Desarrollo Infantil o Estancia Infantil Familiar dentro del plazo de treinta días hábiles contados a partir del día siguiente de su presentación.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 5.- La autorización sanitaria deberá ser revalidada cada dos años por el interesado de acuerdo al procedimiento previsto en el reglamento.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 6.- El proceso de revalidación tiene como objeto confirmar la autorización otorgada por la Secretaría de Salud para operar un Centro de Desarrollo Infantil o Estancia Infantil Familiar, en razón de que se cumplen con los requisitos que la ley, reglamentos, normas oficiales mexicanas y demás disposiciones aplicables requieren para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 7.- La Secretaría de Salud, deberá publicar anualmente un listado de los Centros de Desarrollo Infantil y Estancias Infantiles Familiares autorizados en el Periódico Oficial del Estado y en un diario de circulación en el Estado para el conocimiento general de la población.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 8.- La Secretaría de Salud, creará un padrón de los Centros de Desarrollo Infantil y Estancias Infantiles Familiares, a efecto de mantener el registro y la adecuada supervisión de cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 9.- Los Centros de Desarrollo Infantil y Estancias Infantiles Familiares, durante su funcionamiento están obligados a cumplir con las leyes, reglamentos y demás disposiciones aplicables vigentes en el Estado y las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 10.- La Secretaría de Salud, deberá elaborar programas de capacitación para el personal de los Centros de Desarrollo Infantil y Estancias Infantiles Familiares con el fin de mejorar la calidad de la prestación de sus servicios; e impartirlos por lo menos una vez al año a solicitud expresa de los interesados previo el pago de los derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 11.- La Secretaría de Salud, mediante visitas sanitarias a los Centros de Desarrollo Infantil y Estancias Infantiles Familiares, deberá verificar que la construcción, equipamiento, sistemas de seguridad y prevención de siniestros, espacios y características arquitectónicas, servicios hidráulicos, eléctricos, sanitarios, de gas, de personal, alimentación y demás especiales, cumplen con la ley, reglamentos y normas oficiales mexicanas.
+
+La Secretaría de Salud para el desahogo de las visitas sanitarias, podrá solicitar el auxilio de peritos de las dependencias y entidades de las autoridades públicas estatales y municipales para verificar el cumplimiento de los aspectos señaladas (sic) en el párrafo que antecede.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 12.- Las Autoridades Educativas del Estado deberán dar aviso por escrito a la Secretaría de Salud, cuando en las visitas de inspección que realicen a los centros escolares, tengan conocimiento que funcionan centros de desarrollo infantil sin contar con la autorización sanitaria correspondiente o incumplen con los requisitos que la ley y las normas oficiales mexicanas les imponen para su debido funcionamiento. La anterior obligación resulta aplicable a las demás autoridades estatales y municipales en el ámbito de su competencia.
+
+La falta de cumplimiento a esta obligación será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, sin perjuicio de la responsabilidad penal en que pudieran incurrir.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 148.
 
-Los centros de desarrollo infantil, serán objeto de visitas por parte de la Autoridad Sanitaria correspondiente de manera ordinaria en forma trimestral, pudiéndose practicar visitas extraordinarias cuando por cualquier causa se consideren necesarias, debiéndose desarrollar en los términos de esta Ley y demás disposiciones legales aplicables.
+Los centros de desarrollo infantil y Estancias Infantiles Familiares, serán objeto de visitas por parte de la Autoridad Sanitaria correspondiente de manera ordinaria en forma trimestral, pudiéndose practicar visitas extraordinarias cuando por cualquier causa se consideren necesarias, debiéndose desarrollar en los términos de esta Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 148 BIS.- La Secretaría de Salud contará con un órgano de consulta para la formulación de acciones entre el sector público y privado para el mejor funcionamiento de los Centros de Desarrollo Infantil y de las Estancias Infantiles Familiares.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 148 BIS 1.- Este órgano de consulta se denominará Consejo Consultivo para los Centros de Desarrollo Infantil y Estancias Infantiles Familiares en el Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 148 BIS 2.- El Consejo se integrará de la siguiente forma:
+
+I.- El Secretario de Salud del Estado, quién será el Presidente;
+
+II.- El Secretario de Educación y Bienestar Social del Estado;
+
+III.- El Secretario de Desarrollo Social del Estado;
+
+IV.- Un representante de cada uno de los Municipios del Estado;
+
+V.- Dos representantes del Colegio de Médicos uno con especialidad en Pediatría y otro en Nutriología;
+
+VI.- Un representante de los Centros de Desarrollo Infantil;
+
+VII.- Un representante de las Estancias Infantiles Familiares, y
+
+VIII.- El Presidente de la Comisión de Salud del Congreso del Estado.
+
+Cada miembro propietario designará un suplente, quien asistirá a las sesiones del Consejo en ausencia del primero, con todas las facultades y derechos que a éste corresponda, los Consejeros propietarios y suplentes, serán a título honorífico.
+
+El Consejo contará con un Secretario Técnico designado por el Presidente.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 148 BIS 3.- La Secretaría de Salud aprobará y expedirá las normas internas para la organización y funcionamiento del Consejo Consultivo para los Centros de Desarrollo Infantil y Estancias Infantiles Familiares en el Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 148 BIS 4.- El Consejo tendrá las atribuciones siguientes:
+
+I.- Fungir como órgano de consulta y opinión en materia de funcionamiento de los Centros de Desarrollo Infantil y de las Estancias Infantiles Familiares;
+
+II.- Proponer acciones, programas y demás para fomentar y estimular la calidad de los servicios que se ofrecen en los Centros de Desarrollo Infantiles y Estancias Infantiles Familiares;
+
+III.- Conformar grupos de trabajo para la realización y seguimiento de tareas específicas en la materia de su competencia, y
+
+IV.- Las demás que le establezca el Reglamento Interno.
 
 ### CAPITULO DECIMO SEGUNDO. DE LA VIGILANCIA SANITARIA
 
 ###### ARTÍCULO 149.
 
-La autorización sanitaria es el acto administrativo mediante el cual la Secretaría de Salud del Estado o las Autoridades Municipales permiten a una persona física o moral, la realización de actividades relacionadas con la salud humana, con los requisitos y modalidades que determine esta Ley y demás disposiciones aplicables, teniendo el carácter de permiso sanitario.
+La autorización sanitaria es el acto administrativo mediante el cual la Secretaría de Salud del Estado permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, con los requisitos y modalidades que determine esta Ley, normas oficiales mexicanas y demás disposiciones aplicables.
+
+Para efectos de esta Ley se entenderá por autorización sanitaria, las licencias y las tarjetas de control sanitario.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 150.
 
-Los permisos sanitarios serán expedidos cuando el solicitante hubiere satisfecho los requisitos que señalen las normas aplicables y cubierto en su caso, las contribuciones previstas en la Ley de Ingresos del Estado o de los Municipios según corresponda.
+Las autorizaciones sanitarias serán expedidas cuando el solicitante hubiese satisfecho los requisitos que señalen las normas aplicables y cubierto en su caso, las contribuciones previstas en la Ley de Ingresos del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPITULO DECIMO TERCERO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTÍCULO 151.
 
-Los permisos sanitarios serán otorgados por tiempo determinado, pudiendo ser prorrogables.
+Las autorizaciones sanitarias serán otorgadas por tiempo determinado, pudiendo ser revalidadas.
 
-La prórroga de un permiso deberá solicitarse ante la Autoridad Sanitaria que lo haya otorgado, dentro de los 30 días naturales anteriores a su vencimiento.
+La revalidación de una autorización deberá solicitarse ante la autoridad sanitaria que lo haya otorgado, dentro de los treinta días naturales anteriores a su vencimiento.
 
-Sólo procederá la prórroga de un permiso cuando se acredite que el interesado puede desarrollar las actividades relacionadas con la salud humana que corresponda.
+Solo procederá la revalidación de una autorización cuando se acredite que el interesado puede desarrollar las actividades relacionadas con la salud humana que corresponda.
 
-Los obligados a contar con permiso sanitario deberán mostrarlo al visitador sanitario cuando así sean requeridos en el cumplimiento de sus funciones.
+Los obligados a contar con autorización sanitaria deberán mostrarla al visitador sanitario, cuando así sean requeridos en el cumplimiento de sus funciones.
 
 ###### ARTÍCULO 152.
 
@@ -1385,7 +1557,9 @@ VIII.- Las funerarias;
 
 IX.- Los transportes de carga de alimentos y perecederos;
 
-X.- Los centros de desarrollo infantil; y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+X.- Los Centros de Desarrollo Infantil y Estancias Infantiles Familiares; y
 
 XI.- Los demás que se señalen en esta Ley y otras disposiciones legales aplicables.
 
@@ -1395,23 +1569,31 @@ Cuando los establecimientos a que se refiere este artículo cambien su ubicació
 
 Para el caso de los establecimientos que presten servicios de asistencia, solamente la Secretaría de Salud del Estado podrá expedir la licencia sanitaria.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 155.
 
-Los Ayuntamientos no otorgarán el permiso de construcción, reconstrucción, modificación o acondicionamiento a los establecimientos públicos a que se refiere esta Ley, cuando no hayan satisfecho los requisitos sanitarios correspondientes.
+La Secretaría de Salud del Estado no otorgará autorización sanitaria, si los interesados no han obtenido previamente de los Ayuntamientos el permiso de uso de suelo, construcción, reconstrucción, modificación, acondicionamiento, de seguridad y prevención de siniestros, de capacidad máxima, de ocupación del inmueble y demás a que se refieren los reglamentos municipales.
+
+La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetará a las normas oficiales mexicanas y demás disposiciones aplicables.
 
 ###### ARTÍCULO 156.
 
 Requieren de tarjeta de control sanitario las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo condiciones que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 157.
 
-La Autoridad Sanitaria podrá revocar los permisos sanitarios que haya otorgado, en los siguientes casos:
+La Autoridad Sanitaria podrá revocar las autorizaciones sanitarias que haya otorgado, en los siguientes casos:
 
 I.- Cuando por causas supervenientes, se compruebe que el ejercicio de las actividades que se hubieren autorizado constituya un riesgo o daño para la salud;
 
 II.- Cuando el ejercicio de la actividad exceda de los límites fijados en la autorización;
 
-III.- Por incumplimiento grave a las disposiciones de esta Ley, sus Reglamentos y demás disposiciones generales aplicables;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+III.- Por incumplimiento grave a las disposiciones de esta Ley, Normas Oficiales Mexicanas, Reglamentos y demás disposiciones generales aplicables;
 
 IV.- Por reiterada renuencia a acatar las órdenes que dicte la Autoridad Sanitaria, en los términos de esta Ley y demás disposiciones aplicables;
 
@@ -1435,9 +1617,11 @@ La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, 
 
 En los casos en que las Autoridades Sanitarias del Estado fundadamente no puedan realizar la notificación en forma personal, ésta se practicará a través del Periódico Oficial del Estado, mediante dos publicaciones, con una semana de intervalo entre una y otra. En este caso el plazo a que se refiere el párrafo anterior, empezará a contar a partir del día siguiente de la última publicación.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 159.
 
-En la substanciación del procedimiento de revocación de permisos sanitarios, el interesado podrá ofrecer las pruebas que a su derecho convengan, con excepción de la confesional.
+En la substanciación del procedimiento del procedimiento (sic) de revocación de autorizaciones sanitarias, el interesado podrá ofrecer las pruebas que a su derecho convengan, con excepción de la confesional.
 
 ###### ARTÍCULO 160.
 
@@ -1451,9 +1635,11 @@ La celebración de la audiencia podrá diferirse por una sola vez, cuando lo sol
 
 La Autoridad Sanitaria competente emitirá la resolución que corresponda, al concluir la audiencia o dentro de los diez días hábiles siguientes, la cual se notificará de manera personal al interesado.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 163.
 
-La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, de prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiera el permiso revocado.
+La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, de prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
 ###### ARTÍCULO 164.
 
@@ -1490,6 +1676,8 @@ Los certificados a que se refiere este Capítulo se extenderán por las Autorida
 Las Autoridades Judiciales o Administrativas, sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
 ### CAPITULO DECIMO CUARTO. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 168.
 
@@ -1591,7 +1779,7 @@ X.- Las demás de carácter sanitario que determine la Secretaría de Salud del 
 
 ###### ARTÍCULO 179.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionadas administrativamente por las Autoridades Sanitarias sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+Las violaciones a los preceptos de esta Ley, Normas Oficiales Mexicanas, reglamentos y demás disposiciones aplicables, serán sancionadas administrativamente por las Autoridades Sanitarias sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
 ###### ARTÍCULO 180.
 
@@ -1870,3 +2058,11 @@ P.O. 14 DE AGOSTO DE 2009.
 P.O. 28 DE AGOSTO DE 2009.
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los centros de desarrollo infantil, estancias, guarderías o lugares en donde se presten estos servicios, cualquiera que sea su denominación, contarán con un plazo de un año a partir de la publicación de las presentes reformas, para regularizar su funcionamiento de conformidad con las nuevas disposiciones en la materia.
+
+TERCERO.- La Secretaría de Salud dentro del plazo de 180 días contados a partir de la entrada en vigor de las presentes reformas, expedirá el reglamento interno e instalará el Consejo Consultivo para los Centros de Desarrollo Infantil y Estancias Infantiles Familiares en el Estado.
