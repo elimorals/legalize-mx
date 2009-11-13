@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-los-menores-6192
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2008-07-04"
+last_updated: "2009-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 4 de julio de 2008.
 
@@ -99,7 +99,9 @@ IV.- La salud. Para salvaguardar este derecho, el Estado y los municipios deber�
 
 V.- Protección contra cualquier forma de explotación, agresión o maltrato;
 
-VI.- Recibir cuidados, educación y asistencia especiales y adecuados en los casos de discapacidad física o mental, de acuerdo a los recursos de sus padres o demás personas que los tengan a su cargo y, en su caso, del Estado o municipio correspondiente que le permitan un desarrollo integral;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+VI.- Recibir cuidados, educación y asistencia especiales y adecuados en los casos de discapacidad física o mental, o con algún tipo de trastorno del desarrollo, de acuerdo a los recursos de sus padres o demás personas que los tengan a su cargo y, en su caso, del Estado o municipio correspondiente que le permitan un desarrollo integral;
 
 VII.- La libre expresión de sus ideas y opinión en todos los asuntos que lo afecten o beneficien, cuyo ejercicio se efectuará conforme a la evolución de sus facultades edad y madurez;
 
@@ -728,3 +730,9 @@ SECRETARIO DE DESARROLLO SOCIAL.
 CARLOS ARMANDO REYNOSO NUÑO.
 
 PARA SU CONOCIMIENTO EN TÉRMINOS DEL ARTÍCULO 9, DE LA LEY ORGANICA DE LA ADMINISTRACIÓN PUBLICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
